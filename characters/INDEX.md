@@ -1152,7 +1152,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [reni-wajetta.md](reni-wajetta.md) | Reni Wajetta (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Reni Wajetta | 2 | 0 | 0 | 0 |
 | [rep-been.md](rep-been.md) | Rep Been (NEW 2026-11-03) | Prequel | untiered | 3 | 3 | 0 | 0 | Rep Been, Been | 3 | 1 | 0 | 2 |
 | [resh.md](resh.md) | Resh (warehouse) (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Resh (warehouse) | 3 | 3 | 1 | 0 |
-| [revan/](revan/README.md) | Revan | KOTOR / TOR | DEEP | 3566 | 3558 | 8 | 1067 | Revan | 3534 | 2680 | n/a | n/a |
+| [revan.md](revan.md) | Revan | KOTOR / TOR | DEEP | 3566 | 3558 | 8 | 1067 | Revan | 138 | 241 | n/a | n/a |
 | [rey.md](rey.md) | Rey | Sequel | untiered | 120 | 119 | 1 | 77 | Rey | 120 | 33 | 3 | 24 |
 | [rhys-dallows.md](rhys-dallows.md) | Rhys Dallows | Prequel | untiered | 5 | 5 | 0 | 0 | Rhys Dallows | 5 | 0 | 0 | 0 |
 | [ric-olie.md](ric-olie.md) | Ric Olie | Prequel | untiered | 10 | 10 | 0 | 0 | Ric Olie, Ric Olié | 10 | 3 | 0 | 6 |
@@ -1603,7 +1603,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 5249
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3767
-- [Revan](revan/README.md): 3534
+- [Revan](revan.md): 138
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2570
 - [Yoda](yoda/README.md): 2457
 - [Count Dooku / Darth Tyranus](count-dooku/README.md): 2332
@@ -1635,7 +1635,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 4857
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3773
-- [Revan](revan/README.md): 3566
+- [Revan](revan.md): 138
 - [Yoda](yoda/README.md): 2467
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2370
 - [Count Dooku / Darth Tyranus](count-dooku/README.md): 2350
