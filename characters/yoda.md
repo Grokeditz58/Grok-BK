@@ -10,17 +10,17 @@ Evidence file for Yoda, **Star Wars Legends** continuity. Each entry is a short 
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 36 entries and 37 quotes.
+- This file has 46 entries and 47 quotes.
 
 
 ## Contents
 
 - [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (8)
-- [Force Powers](#force-powers) (9)
-- [Fights and Feats](#fights-and-feats) (3)
-- [Wisdom and Leadership](#wisdom-and-leadership) (4)
-- [Accolades and Author Statements](#accolades-and-author-statements) (5)
-- [Limitations](#limitations) (7)
+- [Force Powers](#force-powers) (13)
+- [Fights and Feats](#fights-and-feats) (4)
+- [Wisdom and Leadership](#wisdom-and-leadership) (7)
+- [Accolades and Author Statements](#accolades-and-author-statements) (6)
+- [Limitations](#limitations) (8)
 
 ## Lightsaber Skill and Combat Mastery
 
@@ -113,7 +113,39 @@ Count Dooku lashed out with his lightsaber. Yoda took a quick step back and felt
 
 ## Force Powers
 
-### 9. Facing Dooku in the Geonosis hangar, Yoda Force-pushes a flung piece of machinery aside and, when Dooku tears blocks from the ceiling, lets them drop harmlessly around him, remaining untouched.
+### 9. Surrendering to the current of the Force, Yoda can sometimes see through the eyes of his fellow Jedi, "almost as if they were the Temple's remote sensors," and when it surges he hears the voice of Qui-Gon Jinn.
+
+```
+Yoda surrendered himself to the current of the Force. Sometimes, when the current was swift and steadfast, he could see through the eyes of his fellow Jedi, almost as if they were the Temple’s remote sensors. And sometimes when the current was especially forceful, when it surged as if descending from great heights, he could hear the voice of Qui-Gon Jinn, as clearly as if he were still alive.
+
+— Labyrinth of Evil (James Luceno, 2005), ch. 39
+```
+
+### 10. Yoda tells assembled students "Better than training, the Force is. More than experience or speed it gives," and gives a demonstration while unarmed against Plo Koon, Saesee Tiin and Depa Billaba, who attack him.
+
+```
+Yoda had faced the assembled students and spoken, his thin reedy voice somehow carrying to the far corners of the lecture hall without benefit of amplifiers. “Better than training, the Force is. More than experience or speed it gives.” And he had given a demonstration. Three members of the council-Plo Koon, Saesee Tiin, and Depa Billaba, excellent fighters all-had come forward and attacked him. Master Yoda had not been armed, and had not seemed to move more than a meter or so, his tread slow and measured. Nevertheless, none of the three had been able to lay a finger on him. The lesson had struck powerfully home: Knowledge of the Force was infinitely better than technique.
+
+— Shadow Hunter (Michael Reaves, 2001), ch. 30
+```
+
+### 11. Meditating while he waits, Yoda finds that the contact he had been resisting succeeds at last: it is Qui-Gon Jinn, and Yoda thinks "Still much to learn, there is."
+
+```
+With nothing to do but wait, Yoda automatically found a quiet room and sat down to meditate. The being who had been trying to contact him surely could not reach through the newly strengthened fog of the dark side, but the habit had become strong. And to his surprise, this time the contact succeeded. Qui-Gon Jinn! No wonder the presence had felt familiar. Still much to learn, there is.
+
+— Revenge of the Sith junior novelization (Patricia C. Wrede, 2005), ch. 20
+```
+
+### 12. Concentrating, Yoda halts a falling crane in midair "as if it had landed on some invisible table" and slowly moves it away from Obi-Wan and Anakin to an empty part of the hangar where it can settle safely.
+
+```
+No decision was necessary. Too many Jedi have we lost today. Yoda bent his mind toward the crane, concentrating. The crane stopped abruptly in midair as if it had landed on some invisible table. Slowly, Yoda moved the crane away from Obi-Wan and Anakin, to an empty part of the hangar where it could settle safely to the ground. Behind him, he sensed the engines of the Solar Sailer start, then felt them fade into the distance. The Count had escaped. But Anakin and Obi-Wan were still alive. For now, that was enough.
+
+— Attack of the Clones junior novelization (Patricia C. Wrede, 2002), ch. 14
+```
+
+### 13. Facing Dooku in the Geonosis hangar, Yoda Force-pushes a flung piece of machinery aside and, when Dooku tears blocks from the ceiling, lets them drop harmlessly around him, remaining untouched.
 
 ```
 A wave of Dooku’s free hand sent a piece of machinery flying at the diminutive Jedi Master, seeming as if it would surely crush him.
@@ -127,7 +159,7 @@ But small hands waved and the boulders dropped to the sides, bouncing across the
 — Attack of the Clones novelization (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 10. Yoda catches Dooku's blue Force lightning in his own hand and turns it aside, though far from easily, then admits "Powerful you have become, Dooku" and tells him the dark side is strong in him.
+### 14. Yoda catches Dooku's blue Force lightning in his own hand and turns it aside, though far from easily, then admits "Powerful you have become, Dooku" and tells him the dark side is strong in him.
 
 ```
 Dooku gave a little growl and thrust forth his hand, loosing a line of blue lightning at the diminutive Master.
@@ -139,7 +171,7 @@ Yoda caught it in his own hand and turned it aside, but far from easily.
 — Attack of the Clones novelization (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 11. As Dooku pours out more lightning, Yoda keeps catching and turning it and seems to settle even more firmly into his defensive posture.
+### 15. As Dooku pours out more lightning, Yoda keeps catching and turning it and seems to settle even more firmly into his defensive posture.
 
 ```
 “I have become more powerful than any Jedi,” Dooku countered. “Even you, my old Master!”
@@ -151,7 +183,7 @@ More lightning poured forth from Dooku’s hand, but Yoda continued to catch it 
 — Attack of the Clones novelization (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 12. When Dooku hurls a hangar crane at Obi-Wan and Anakin, the two together lack the strength to stop it, but Yoda grabs the crane and holds it fast, though releasing Dooku to do so lets the Count escape.
+### 16. When Dooku hurls a hangar crane at Obi-Wan and Anakin, the two together lack the strength to stop it, but Yoda grabs the crane and holds it fast, though releasing Dooku to do so lets the Count escape.
 
 ```
 “The battle is far from over!” Dooku stubbornly argued. “This is just the beginning!” Reaching into the Force, he took hold of one of the huge cranes within the hangar and threw it down at Obi-Wan and Anakin.
@@ -165,7 +197,7 @@ Yoda grabbed the crane and held it fast, but in doing so, he had to release Dook
 — Attack of the Clones novelization (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 13. In Revenge of the Sith, fleeing the Clone assassins through the Senate Arena's service accessway, Yoda sprints faster than a human could run with the Force's help, slicing conduits so high-voltage cables fill the passage behind him, and slashing holes in the walls to split his pursuers.
+### 17. In Revenge of the Sith, fleeing the Clone assassins through the Senate Arena's service accessway, Yoda sprints faster than a human could run with the Force's help, slicing conduits so high-voltage cables fill the passage behind him, and slashing holes in the walls to split his pursuers.
 
 ```
 With the help of the Force, Yoda sprinted along the service accessway below the Arena faster than a human being could run; he sliced conduits as he passed, filling the accessway behind him with coils of high-voltage cables, twisting and spitting lightning. Every few dozen meters, he paused just long enough to slash a hole in the accessway’s wall; once his pursuers got past the cables, they would have to divide their forces to search each of his possible exits.
@@ -173,7 +205,7 @@ With the help of the Force, Yoda sprinted along the service accessway below the 
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 20
 ```
 
-### 14. When Dooku's orbital missile drops toward Chateau Malreaux, Yoda draws on the Force binding Vjun's moss and thorn-trees and lets it flow through him; the missile detonates over the ocean in a blaze of light three hundred meters tall, sparing everyone inside.
+### 18. When Dooku's orbital missile drops toward Chateau Malreaux, Yoda draws on the Force binding Vjun's moss and thorn-trees and lets it flow through him; the missile detonates over the ocean in a blaze of light three hundred meters tall, sparing everyone inside.
 
 ```
 The missile was coming in with terrible speed and power: too much coming at Yoda too fast ever to wholly stop it, even if he had time and perfect peace. But he reached out to pull up the Force binding even Vjun’s bitter green moss and twisted thorn-trees, and let it flow through him like a wind: the breath of a world, gathered and released in a push-feather game with all their lives on the line, not to oppose the missile’s force with force, but to touch it gently on the side—just enough to send it screaming by the broken window casement to plunge a kilometer offshore into the cold and waiting sea.
@@ -185,7 +217,7 @@ The château and all those inside it had been spared: but Dooku was gone.
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 11
 ```
 
-### 15. On Dagobah, after Luke fails, Yoda turns to the swamp, the water swirls, and the X-wing rises from its watery tomb to the shore while he stands on his tree-root pedestal; Luke vows never to say "impossible" again.
+### 19. On Dagobah, after Luke fails, Yoda turns to the swamp, the water swirls, and the X-wing rises from its watery tomb to the shore while he stands on his tree-root pedestal; Luke vows never to say "impossible" again.
 
 ```
 Then Yoda turned and looked at the swamp, and as he did the water began to swirl. Slowly, from the gently bubbling waters, the nose of the fighter appeared again.
@@ -197,7 +229,7 @@ He silently vowed never to use the word “impossible” again. For there, stand
 — The Empire Strikes Back (Donald F. Glut, 1980), ch. 9
 ```
 
-### 16. In the docking bay, Yoda uses the Force to keep a falling Call from crushing Chuff into a grease spot, and, without so much as a lightsaber, gives a squad of assassin droids all they can handle.
+### 20. In the docking bay, Yoda uses the Force to keep a falling Call from crushing Chuff into a grease spot, and, without so much as a lightsaber, gives a squad of assassin droids all they can handle.
 
 ```
 Yoda squeaked and puffed out his round cheeks with the sudden effort of using the Force to keep the Call from crushing Chuff into a grease spot on the docking bay floor. “Step back!” he barked.
@@ -211,7 +243,7 @@ Muzzle flashes lit the far end of the bay like continuous lightning, and a sonic
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 8
 ```
 
-### 17. When Dooku hurls Whirry through the window, Yoda bounds to the casement, narrows his eyes and catches her with the Force not three meters from the ground, then spins away from Dooku's attack before he is consciously aware of it, taking only a burning line along his side.
+### 21. When Dooku hurls Whirry through the window, Yoda bounds to the casement, narrows his eyes and catches her with the Force not three meters from the ground, then spins away from Dooku's attack before he is consciously aware of it, taking only a burning line along his side.
 
 ```
 With a flick of his hand, he picked up the heavyset woman with the Force and hurled her through the window casement. Yoda’s eyes went wide with shock. “You might want to help her,” Dooku said.
@@ -228,7 +260,15 @@ Yoda whipped out his blade while trying to set Whirry gently down on the cobbles
 
 ## Fights and Feats
 
-### 18. Yoda locks blades with Dooku, saying "Fought well, you have, my old Padawan," and his green blade begins to push the red one back, forcing Dooku to retreat.
+### 22. Yoda draws his lightsaber against Dooku, closes his eyes and bows his head to feel the Force that binds all things, and his lightsaber moves effortlessly as Count Dooku charges.
+
+```
+Yoda drew his lightsaber and answered the salute. In contests, he had no interest, but in stopping Count Dooku, he had a great deal of interest indeed. And Dooku had left him no other choice. Count Dooku charged forward. Yoda sighed. Nothing has he learned. Nothing has he remembered. He closed his eyes, bowed his head, and felt the Force that bound all things, even himself and the Count. His lightsaber moved effortlessly, flowing with the Force to find the balance point between them and block Dooku’s every stroke. He did not even have to step back. The Count’s attack grew more desperate, to no avail. Breathing hard, he backed away, but Yoda did not pursue him. To stop Dooku was all that was necessary, and he could not pass Yoda to reach his Solar Sailer.
+
+— Attack of the Clones junior novelization (Patricia C. Wrede, 2002), ch. 14
+```
+
+### 23. Yoda locks blades with Dooku, saying "Fought well, you have, my old Padawan," and his green blade begins to push the red one back, forcing Dooku to retreat.
 
 ```
 Yoda’s green blade caught the blow, holding the red lightsaber at bay, locking the two in a contest of strength, physical and of the Force.
@@ -238,7 +278,7 @@ Yoda’s green blade caught the blow, holding the red lightsaber at bay, locking
 — Attack of the Clones novelization (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 19. Yoda reaches the Senate Convocation Center despite breathing hard, cuts through the floor into a maintenance accessway under the dome's lightwell, and calls Bail Organa for extraction as the pursuit closes.
+### 24. Yoda reaches the Senate Convocation Center despite breathing hard, cuts through the floor into a maintenance accessway under the dome's lightwell, and calls Bail Organa for extraction as the pursuit closes.
 
 ```
 The Convocation Center of the Galactic Senate was a drum-mounted dome more than a kilometer in diameter; even with the aid of the Force, Yoda was breathing hard by the time he reached its edge. He cut through the floor beneath him and dropped down into another accessway, this one used for maintenance on the huge lighting system that shone downward onto Republic Plaza through transparisteel panels that floored the underside of the huge dome’s rim. He cut into the lightwell; the reflected wattage nearly blinded him to the vertiginous drop below the transparisteel on which he stood.
@@ -246,7 +286,7 @@ The Convocation Center of the Galactic Senate was a drum-mounted dome more than 
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 20
 ```
 
-### 20. In the Senate duel, Palpatine's lightning blazes as the "Lord of all Sith scorching the Master of all Jedi into a smoldering huddle," before Yoda rockets back up and blasts the Sith to the ground.
+### 25. In the Senate duel, Palpatine's lightning blazes as the "Lord of all Sith scorching the Master of all Jedi into a smoldering huddle," before Yoda rockets back up and blasts the Sith to the ground.
 
 ```
 Their clash transcended the personal; when new lightning blazed, it was not Palpatine burning Yoda with his hate, it was the Lord of all Sith scorching the Master of all Jedi into a smoldering huddle of clothing and green flesh.
@@ -263,7 +303,31 @@ And it was the whole of the Jedi Order that rocketed from its huddle, making of 
 
 ## Wisdom and Leadership
 
-### 21. Meditating after his defeat, Yoda tells Qui-Gon's spirit he was "too rigid, too arrogant" to see that the old way was not the only way, and that the Jedi he trained became copies of the Jedi who trained him.
+### 26. Yoda jabs Obi-Wan with his gimer stick and tells him to stop blaming himself: "Make a Jedi fall, one cannot; beyond even Lord Sidious, this is. Chose this, Skywalker did."
+
+```
+Stop this, you will!” Yoda gave him a stick-jab in the ribs sharp enough to straighten him up. “Make a Jedi fall, one cannot; beyond even Lord Sidious, this is. Chose this, Skywalker did.
+
+— Revenge of the Sith novelization (Matthew Stover, 2005), ch. 19
+```
+
+### 27. Examining Cin Drallig's body, Yoda points with his gimer stick at a gash cloven deep into the chest: "This wound, no blaster could make."
+
+```
+Yes." Yoda moved closer. With his gimer stick, he pointed at a bloodless gash in Drallig's shoulder that had cloven deep into his chest. "Yes, it is. See this, do you? This wound, no blaster could make.
+
+— Revenge of the Sith novelization (Matthew Stover, 2005), ch. 19
+```
+
+### 28. Yoda tells a blindfolded Dooku "Pride it is that blinds you. Your flaw, pride is," and leaves the room so quietly that Dooku hears only the whisper of his robe as "the Force drained from the room."
+
+```
+"Fitting it is that blindfolded you are," Yoda continued. "Pride it is that blinds you. Your flaw, pride is. Great are your gifts, Dooku. Mindful of the talents you do not possess as well as the ones you do you must be." Dooku heard only the slightest whisper of the fabric of Yoda's robe as the Jedi Master retreated. The Force drained from the room.
+
+— Legacy of the Jedi (зв) (Джуд Уотсон, 2003), ch. 6
+```
+
+### 29. Meditating after his defeat, Yoda tells Qui-Gon's spirit he was "too rigid, too arrogant" to see that the old way was not the only way, and that the Jedi he trained became copies of the Jedi who trained him.
 
 ```
 Too old I was,” Yoda said. “Too rigid. Too arrogant to see that the old way is not the only way. These Jedi, I trained to become the Jedi who had trained me, long centuries ago—but those ancient Jedi, of a different time they were. Changed, has the galaxy. Changed, the Order did not—because let it change, I did not.
@@ -271,7 +335,7 @@ Too old I was,” Yoda said. “Too rigid. Too arrogant to see that the old way 
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 21
 ```
 
-### 22. Yoda tells Luke that anger, fear and aggression are the dark side, easily flowing and quick to join in a fight, and that a heavy price is paid for the power they bring.
+### 30. Yoda tells Luke that anger, fear and aggression are the dark side, easily flowing and quick to join in a fight, and that a heavy price is paid for the power they bring.
 
 ```
 Anger, anger, fear, aggression!” Yoda warned. “The dark side of the Force are they. Easily they flow … quick to join in a fight. Beware, beware, beware of them. A heavy price is paid for the power they bring.
@@ -279,7 +343,7 @@ Anger, anger, fear, aggression!” Yoda warned. “The dark side of the Force ar
 — The Empire Strikes Back (Donald F. Glut, 1980), ch. 10
 ```
 
-### 23. In his last words, Yoda warns Luke to beware the Emperor and not underestimate his powers, that he will be "last of the Jedi," and that the Force is strong in his family; his greatness of spirit is the only thing keeping his decrepit body alive.
+### 31. In his last words, Yoda warns Luke to beware the Emperor and not underestimate his powers, that he will be "last of the Jedi," and that the Force is strong in his family; his greatness of spirit is the only thing keeping his decrepit body alive.
 
 ```
 I know, but face Vader again you must, and sorry will not help.” He leaned forward, and beckoned Luke close to him. Luke crawled over to sit beside his master. Yoda continued, his voice increasingly frail. “Remember, a Jedi’s strength flows from the Force. When you rescued your friends, you had revenge in your heart. Beware of anger, fear, and aggression. The dark side are they. Easily they flow, quick to join you in a fight. Once you start down the dark path, forever will it dominate your destiny.”
@@ -291,7 +355,7 @@ After a few minutes, Yoda looked at the boy once more, and with a maximum effort
 — Return of the Jedi novelization (James Kahn, 1983), ch. 3
 ```
 
-### 24. In Dark Rendezvous, Yoda tells a student, "Think you I have never felt the touch of the dark? Know you what a soul so great as Yoda can make, in eight hundred years?".
+### 32. In Dark Rendezvous, Yoda tells a student, "Think you I have never felt the touch of the dark? Know you what a soul so great as Yoda can make, in eight hundred years?".
 
 ```
 —and dark,” Yoda says. “Oh, yes, young one. Think you I have never felt the touch of the dark? Know you what a soul so great as Yoda can make, in eight hundred years?
@@ -302,7 +366,15 @@ After a few minutes, Yoda looked at the boy once more, and with a maximum effort
 
 ## Accolades and Author Statements
 
-### 25. In Reunion, a character says Master Yoda "was the wisest person I ever met—as well as one of the most powerful Jedi Masters to ever live," despite being smaller than anyone present.
+### 33. Mace Windu explains that Yoda's Ataro "is also an answer to weakness: the limitations of reach and mobility imposed by his stature and his age."
+
+```
+But surely, Master Windu,” Obi-Wan had said, “you, with the power of Vaapad—or Yoda’s mastery of Ataro—” Mace Windu had almost smiled. “I created Vaapad to answer my weakness: it channels my own darkness into a weapon of the light. Master Yoda’s Ataro is also an answer to weakness: the limitations of reach and mobility imposed by his stature and his age. But for you? What weakness does Soresu answer?
+
+— Revenge of the Sith novelization (Matthew Stover, 2005), ch. 15
+```
+
+### 34. In Reunion, a character says Master Yoda "was the wisest person I ever met—as well as one of the most powerful Jedi Masters to ever live," despite being smaller than anyone present.
 
 ```
 Luke faced the image fully now, smiling. “On the first night we came here, Jabitha said something similar to my nephew.” The Magister looked up at his words, but didn’t interrupt. “She became indignant that Jacen should dare speak for the living Force. The implication was that someone so small in the great cosmos shouldn’t dare presume to speak for such a powerful thing. But the fact is, the living Force can choose anyone it wants. Size is not important. Master Yoda was smaller than anyone here, yet he was the wisest person I ever met—as well as one of the most powerful Jedi Masters to ever live. You possess a power, Sekot, that is beyond the imagining of virtually all sentient beings, but that doesn’t automatically mean that your connection to the Force is greater.”
@@ -310,7 +382,7 @@ Luke faced the image fully now, smiling. “On the first night we came here, Jab
 — Reunion: Force Heretic III (Sean Williams, 2003), epilogue
 ```
 
-### 26. In The Approaching Storm, Master Yoda is said to be "reputed to be the greatest lightsaber master ever."
+### 35. In The Approaching Storm, Master Yoda is said to be "reputed to be the greatest lightsaber master ever."
 
 ```
 Her smile vanished. “Why would I joke about such a thing? Master Yoda is reputed to be the greatest lightsaber master ever. Don’t tell me you never had a fighting class with him?”
@@ -318,7 +390,7 @@ Her smile vanished. “Why would I joke about such a thing? Master Yoda is reput
 — The Approaching Storm (Alan Dean Foster, 2002), ch. 14
 ```
 
-### 27. Shadow Hunter notes that Yoda is easily the oldest member of the Council, well over 800 standard years of age, and by no means as decrepit as he sometimes pretends.
+### 36. Shadow Hunter notes that Yoda is easily the oldest member of the Council, well over 800 standard years of age, and by no means as decrepit as he sometimes pretends.
 
 ```
 Yoda moved slowly toward one of the chairs. He leaned on his gimer-stick cane as he walked, and Windu had to suppress a smile as he watched Yoda’s progress. While Yoda was easily the oldest member of the council, being well over 800 standard years of age, he was by no means as decrepit as he sometimes pretended to be. Though it was true that he had slowed slightly in the years that Windu had known him, Yoda’s skill with a lightsaber was still second to none on the council.
@@ -326,7 +398,7 @@ Yoda moved slowly toward one of the chairs. He leaned on his gimer-stick cane as
 — Shadow Hunter (Michael Reaves, 2001), ch. 16
 ```
 
-### 28. The narration says that among Jedi only Mace Windu would have been Dooku's equal on neutral ground, but on Vjun, steeped in the dark side, his bladework is "malice made visible"; Yoda, hurt but unbowed, tells him, "More than eight hundred years has Yoda survived, through dangers you could not dream."
+### 37. The narration says that among Jedi only Mace Windu would have been Dooku's equal on neutral ground, but on Vjun, steeped in the dark side, his bladework is "malice made visible"; Yoda, hurt but unbowed, tells him, "More than eight hundred years has Yoda survived, through dangers you could not dream."
 
 ```
 As Yoda released Whirry from his mind’s hold, and let her spill gently onto the flagstones far below, the tip of Dooku’s lightsaber scored a burning line across his shoulder. The Count’s blade was quick as a viper striking. Among the other Jedi, perhaps only Mace Windu would have been his equal on neutral ground: but here on Vjun, steeped in the dark side, his bladework was malice made visible—wickedness cut in red light. “I’ve hurt you!” Dooku cried.
@@ -336,7 +408,7 @@ As Yoda released Whirry from his mind’s hold, and let her spill gently onto th
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 11
 ```
 
-### 29. In Shatterpoint, Mace Windu recalls Yoda's maxim "Size matters not," reflecting it was more true for Yoda than any student, who would "probably just reach out, lift the steamcrawler from the gully, and casually float it up the mountain" while Mace was much less confident in his own raw power.
+### 38. In Shatterpoint, Mace Windu recalls Yoda's maxim "Size matters not," reflecting it was more true for Yoda than any student, who would "probably just reach out, lift the steamcrawler from the gully, and casually float it up the mountain" while Mace was much less confident in his own raw power.
 
 ```
 Mace opened himself to the Force. He could hear Yoda’s voice: Size matters not—which, Mace had always privately considered, was more true for Yoda than it was for any of his students. Yoda would probably just reach out, lift the steamcrawler from the gully, and casually float it up the mountain to the outpost while croaking some enigmatic maxim about how Even a volcano is as nothing, compared to the power of the Force … Mace was much less confident in his own raw power.
@@ -349,7 +421,15 @@ Mace opened himself to the Force. He could hear Yoda’s voice: Size matters not
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 30. Alone against Sidious, Yoda realizes he does not "have it": the Sith had adapted over a thousand years while the Jedi trained to re-fight the last war, and he thinks he cannot destroy the new Sith with a lightsaber.
+### 39. Yoda senses Dooku gathering power and bows his head "in shock and sorrow" at its true source, and an instant later Dooku sends a stream of Force lightning toward him.
+
+```
+Plans of conquest, Yoda thought sadly. But a Jedi seeks not power. Truly, Dooku had left the path of the Jedi Order. He felt Dooku gathering power, and he bowed his head in shock and sorrow as he sensed the true source of the Count’s increased ability. An instant later, Dooku raised his hands and sent a stream of deadly Force lightning toward him.
+
+— Attack of the Clones junior novelization (Patricia C. Wrede, 2002), ch. 14
+```
+
+### 40. Alone against Sidious, Yoda realizes he does not "have it": the Sith had adapted over a thousand years while the Jedi trained to re-fight the last war, and he thinks he cannot destroy the new Sith with a lightsaber.
 
 ```
 It came when Yoda found himself alone against the dark.
@@ -387,7 +467,7 @@ Hmmm, Yoda thought. A problem this is …
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 20
 ```
 
-### 31. After the duel, the narration states flatly: "Yoda had failed. He might have died."
+### 41. After the duel, the narration states flatly: "Yoda had failed. He might have died."
 
 ```
 Yoda had failed. He might have died.
@@ -395,7 +475,7 @@ Yoda had failed. He might have died.
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 20
 ```
 
-### 32. On Vjun, Yoda deflects the missile and spares the chateau but Dooku, who landed softly and melted into the rose gardens, is gone.
+### 42. On Vjun, Yoda deflects the missile and spares the chateau but Dooku, who landed softly and melted into the rose gardens, is gone.
 
 ```
 Below him, Dooku landed softly on the ground and melted into the rose gardens.
@@ -409,7 +489,7 @@ The château and all those inside it had been spared: but Dooku was gone.
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 11
 ```
 
-### 33. On his deathbed, Yoda tells Luke that he rushed to face Vader with training incomplete and was not ready for the burden, saying "now a great weakness you carry."
+### 43. On his deathbed, Yoda tells Luke that he rushed to face Vader with training incomplete and was not ready for the burden, saying "now a great weakness you carry."
 
 ```
 “Unfortunate that I know the truth?” A bitterness crept into Luke’s voice, but he couldn’t decide if it was directed at Vader, Yoda, himself, or the universe at large.
@@ -419,7 +499,7 @@ Yoda gathered himself up with an effort that seemed to take all his strength. �
 — Return of the Jedi novelization (James Kahn, 1983), ch. 3
 ```
 
-### 34. Palpatine enjoys the "greatest Jedi Master" Yoda's company because the longer Yoda sits beside him and fails to recognize Palpatine for what he is, the more satisfying he finds it.
+### 44. Palpatine enjoys the "greatest Jedi Master" Yoda's company because the longer Yoda sits beside him and fails to recognize Palpatine for what he is, the more satisfying he finds it.
 
 ```
 Palpatine enjoyed Yoda’s company, because the longer he sat smiling benignly at Yoda, and the longer the greatest Jedi Master failed to recognize Palpatine for what he was, the more satisfying the situation became.
@@ -427,7 +507,7 @@ Palpatine enjoyed Yoda’s company, because the longer he sat smiling benignly a
 — The Clone Wars (Karen Traviss, 2008), ch. 18
 ```
 
-### 35. Yoda tells Mace he would be no fit leader of the Republic: "Clouded by darkness are my eyes; the Force shows me only suffering, and destruction, and the rise of a long, long night."
+### 45. Yoda tells Mace he would be no fit leader of the Republic: "Clouded by darkness are my eyes; the Force shows me only suffering, and destruction, and the rise of a long, long night."
 
 ```
 Yoda’s laughter faded. “And no fit leader for this Republic would I be.” He lowered his voice even further, to barely above a whisper. “Clouded by darkness are my eyes; the Force shows me only suffering, and destruction, and the rise of a long, long night. Better off without the Force, leaders perhaps are; able to see well enough, young Palpatine seems.”
@@ -435,7 +515,7 @@ Yoda’s laughter faded. “And no fit leader for this Republic would I be.” H
 — Shatterpoint (Matthew Stover, 2003), prologue: the clone wars
 ```
 
-### 36. In Labyrinth of Evil, Dooku's perspective is that Yoda probably believed he defeated Dooku on Geonosis, but Dooku had only fled to safeguard the plans he carried; Yoda's easy handling of Sith lightning also suggests he has delved into the dark arts, as he admitted on Vjun.
+### 46. In Labyrinth of Evil, Dooku's perspective is that Yoda probably believed he defeated Dooku on Geonosis, but Dooku had only fled to safeguard the plans he carried; Yoda's easy handling of Sith lightning also suggests he has delved into the dark arts, as he admitted on Vjun.
 
 ```
 On Geonosis, Yoda’s easy parrying and, indeed, handling of the Sith lightning Dooku hurled at him had come as a surprise. Had made him wonder if, on some level during the course of Yoda’s eight-hundred-odd years, the Jedi Master hadn’t delved into the dark arts, if only as a means of familiarizing himself with his perceived enemy. And on Vjun, only months ago, Yoda himself had admitted as much. Carry a darkness within me, I do, he had said. Yoda probably believed that he had defeated Dooku on Geonosis. But in fact, Dooku had only fled the fight to safeguard the plans he had been carrying—the technical readouts to what would one day become the Ultimate Weapon …
