@@ -371,7 +371,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-tenebrous.md](darth-tenebrous.md) | Darth Tenebrous | Pre-Prequel | MASTERY (The Tenebrous Way, Star Wars Insider #130 version o | 348 | 347 | 1 | 107 | Darth Tenebrous, Tenebrous, Rugess Nome | 346 | 205 | n/a | n/a |
 | [darth-thanaton.md](darth-thanaton.md) | Darth Thanaton | TOR | DEEP | 62 | 62 | 0 | 10 | Darth Thanaton, Thanaton, Teneb Kel | 62 | 39 | 0 | 28 |
 | [darth-tormen.md](darth-tormen.md) | Darth Tormen | TOR | untiered | 3 | 3 | 0 | 0 | Darth Tormen, Tormen | 3 | 3 | 0 | 0 |
-| [darth-vader.md](darth-vader.md) | Darth Vader / Anakin Skywalker | Prequel–Galactic Civil War | DEEP | 8672 | 7843 | 823 | 976 | Darth Vader / Anakin Skywalker, Darth Vader, Vader, Anakin Skywalker, Anakin, Lord Vader, Ani, Skywalker (Anakin), Chosen One, Hero With No Fear, Knightfall Vader | 73 | 75 | n/a | n/a |
+| [darth-vader.md](darth-vader.md) | Darth Vader / Anakin Skywalker | Prequel–Galactic Civil War | DEEP | 8672 | 7843 | 823 | 976 | Darth Vader / Anakin Skywalker, Darth Vader, Vader, Anakin Skywalker, Anakin, Lord Vader, Ani, Skywalker (Anakin), Chosen One, Hero With No Fear, Knightfall Vader | 148 | 158 | n/a | n/a |
 | [darth-vectivus.md](darth-vectivus.md) | Darth Vectivus | Old Republic | untiered | 25 | 25 | 0 | 2 | Darth Vectivus, Vectivus | 24 | 14 | 5 | 3 |
 | [darth-vengean.md](darth-vengean.md) | Darth Vengean | TOR | untiered | 13 | 13 | 0 | 1 | Darth Vengean, Vengean | 13 | 13 | 0 | 3 |
 | [darth-vowrawn.md](darth-vowrawn.md) | Darth Vowrawn | TOR | untiered | 19 | 19 | 0 | 2 | Darth Vowrawn, Vowrawn | 26 | 23 | 0 | 12 |
@@ -1599,7 +1599,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 
 ## Top 30 by entry count (rebuilt 2026-11-17)
 
-- [Darth Vader / Anakin Skywalker](darth-vader.md): 73
+- [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 5249
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3767
@@ -1631,7 +1631,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Plo Koon](plo-koon.md): 845
 
 
-- [Darth Vader / Anakin Skywalker](darth-vader.md): 73
+- [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 4857
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3773
