@@ -364,7 +364,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-reave.md](darth-reave.md) | Darth Reave (NEW 2026-11-02) | Legacy (137 ABY) | untiered | 4 | 4 | 0 | 0 | Darth Reave, Reave | 4 | 2 | 0 | 3 |
 | [darth-rivan.md](darth-rivan.md) | Darth Rivan | Old Republic | untiered | 140 | 140 | 0 | 12 | Darth Rivan, Rivan | 138 | 117 | 2 | 25 |
 | [darth-ruin.md](darth-ruin.md) | Darth Ruin | Old Republic | untiered | 26 | 26 | 0 | 0 | Darth Ruin | 26 | 17 | 0 | 2 |
-| [darth-sidious/](darth-sidious/README.md) | Darth Sidious / Palpatine | Prequel–Dark Empire | DEEP | 5591 | 5229 | 362 | 2286 | Darth Sidious / Palpatine, Darth Sidious, Sidious, Palpatine, Emperor Palpatine, Sheev, Chancellor Palpatine, Supreme Chancellor, DE Sidious, Dark Empire Sidious, Sheev Palpatine | 5586 | 2803 | n/a | n/a |
+| [darth-sidious.md](darth-sidious.md) | Darth Sidious / Palpatine | Prequel–Dark Empire | DEEP | 5591 | 5229 | 362 | 2286 | Darth Sidious / Palpatine, Darth Sidious, Sidious, Palpatine, Emperor Palpatine, Sheev, Chancellor Palpatine, Supreme Chancellor, DE Sidious, Dark Empire Sidious, Sheev Palpatine | 197 | 238 | n/a | n/a |
 | [darth-sion.md](darth-sion.md) | Darth Sion | KOTOR II | untiered | 388 | 388 | 0 | 15 | Darth Sion, Sion | 382 | 233 | n/a | n/a |
 | [darth-stryfe.md](darth-stryfe.md) | Darth Stryfe | Legacy | MASTERY (Legacy-era version only) | 158 | 158 | 0 | 15 | Darth Stryfe, Stryfe | 156 | 83 | 7 | 86 |
 | [darth-talon.md](darth-talon.md) | Darth Talon | Legacy | MASTERY (Legacy-era version only) | 468 | 468 | 0 | 15 | Darth Talon, Talon | 465 | 201 | 13 | 191 |
@@ -1600,7 +1600,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 ## Top 30 by entry count (rebuilt 2026-11-17)
 
 - [Darth Vader / Anakin Skywalker](darth-vader/README.md): 8775
-- [Darth Sidious / Palpatine](darth-sidious/README.md): 5586
+- [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 5249
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3767
 - [Revan](revan/README.md): 3534
@@ -1632,7 +1632,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 
 
 - [Darth Vader / Anakin Skywalker](darth-vader/README.md): 8672
-- [Darth Sidious / Palpatine](darth-sidious/README.md): 5591
+- [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 4857
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3773
 - [Revan](revan/README.md): 3566

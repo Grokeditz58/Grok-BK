@@ -22,7 +22,6 @@ The link opens the file that holds the new lines.
 | bevel-lemelisk | 2 | [bevel-lemelisk.md](bevel-lemelisk.md#egvv-1996) |
 | dash-rendar | 1 | [dash-rendar.md](dash-rendar.md#egvv-1996) |
 | shug-ninx | 1 | [shug-ninx.md](shug-ninx.md#egvv-1996) |
-| darth-sidious | 1 | [10-part-3-feats-and-statements-only.md](darth-sidious/10-part-3-feats-and-statements-only.md#egvv-1996) |
 | jabba-the-hutt | 1 | [jabba-the-hutt.md](jabba-the-hutt.md#egvv-1996) |
 | jan-dodonna | 1 | [jan-dodonna.md](jan-dodonna.md#egvv-1996) |
 | wedge-antilles | 1 | [wedge-antilles.md](wedge-antilles.md#egvv-1996) |
