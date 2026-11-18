@@ -378,7 +378,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-vurik.md](darth-vurik.md) | Darth Vurik (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Darth Vurik | 1 | 0 | 0 | 0 |
 | [darth-wredd.md](darth-wredd.md) | Darth Wredd (NEW 2026-10-30) | Legacy | untiered | 1 | 1 | 0 | 0 | Darth Wredd, Wredd | 1 | 0 | 0 | 0 |
 | [darth-wyyrlok.md](darth-wyyrlok.md) | Darth Wyyrlok III | Legacy | MASTERY (III) | 1121 | 1121 | 0 | 119 | Darth Wyyrlok III, Wyyrlok | 1110 | 427 | n/a | n/a |
-| [darth-zannah.md](darth-zannah.md) | Darth Zannah | Ruusan | DEEP | 290 | 278 | 12 | 63 | Darth Zannah, Zannah | 288 | 200 | 7 | 43 |
+| [darth-zannah.md](darth-zannah.md) | Darth Zannah | Ruusan | DEEP | 290 | 278 | 12 | 63 | Darth Zannah, Zannah | 104 | 105 | n/a | n/a |
 | [darth-zash.md](darth-zash.md) | Darth Zash | TOR | untiered | 16 | 16 | 0 | 1 | Darth Zash, Zash | 16 | 14 | 0 | 11 |
 | [darubang-yosa.md](darubang-yosa.md) | Darubang Yosa (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Darubang Yosa | 3 | 0 | 0 | 0 |
 | [dash-rendar.md](dash-rendar.md) | Dash Rendar | Rebellion | untiered | 34 | 34 | 0 | 0 | Dash Rendar, Dash | 35 | 15 | 1 | 24 |
@@ -936,7 +936,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [maydla-churhee.md](maydla-churhee.md) | Maydla Churhee (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Maydla Churhee | 1 | 0 | 0 | 0 |
 | [mazumoda.md](mazumoda.md) | Mazumoda (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Mazumoda | 1 | 0 | 0 | 0 |
 | [mazzic.md](mazzic.md) | Mazzic | New Republic | untiered | 17 | 17 | 0 | 0 | Mazzic | 17 | 10 | 0 | 11 |
-| [meetra-surik/](meetra-surik/README.md) | Meetra Surik / the Jedi Exile | KOTOR II | DEEP | 1198 | 1198 | 0 | 382 | Meetra Surik / the Jedi Exile, Meetra, Surik, Jedi Exile, the Exile | 1161 | 817 | n/a | n/a |
+| [meetra-surik.md](meetra-surik.md) | Meetra Surik / the Jedi Exile | KOTOR II | DEEP | 1198 | 1198 | 0 | 382 | Meetra Surik / the Jedi Exile, Meetra, Surik, Jedi Exile, the Exile | 75 | 93 | n/a | n/a |
 | [melen-toobo.md](melen-toobo.md) | Melen Toobo | Republic | untiered | 2 | 2 | 0 | 0 | Melen Toobo, Toobo | 2 | 0 | 0 | 0 |
 | [meloria.md](meloria.md) | Meloria (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Meloria | 4 | 1 | 0 | 0 |
 | [merumeru.md](merumeru.md) | Merumeru (NEW 2026-10-29) |  | untiered | 5 | 5 | 0 | 0 | Merumeru | 5 | 1 | 0 | 6 |
@@ -1619,7 +1619,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Mara Jade Skywalker](mara-jade.md): 43
 - [Lord Scourge](lord-scourge/README.md): 1622
 - [Darth Malgus](darth-malgus/README.md): 1374
-- [Meetra Surik / the Jedi Exile](meetra-surik/README.md): 1161
+- [Meetra Surik / the Jedi Exile](meetra-surik.md): 75
 - [Jaina Solo](jaina-solo/README.md): 1113
 - [Darth Wyyrlok III](darth-wyyrlok.md): 1110
 - [Han Solo](han-solo/README.md): 1072
@@ -1651,7 +1651,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Leia Organa Solo](leia-organa/README.md): 1592
 - [Mara Jade Skywalker](mara-jade.md): 43
 - [Darth Malgus](darth-malgus/README.md): 1378
-- [Meetra Surik / the Jedi Exile](meetra-surik/README.md): 1198
+- [Meetra Surik / the Jedi Exile](meetra-surik.md): 75
 - [Darth Wyyrlok III](darth-wyyrlok.md): 1121
 - [Boba Fett](boba-fett.md): 1011
 - [Hero of Tython / Outlander (Jedi Knight)](hero-of-tython.md): 944
