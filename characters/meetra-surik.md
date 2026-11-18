@@ -29,7 +29,7 @@ Evidence file for Meetra Surik (the Jedi Exile), **Star Wars Legends** continuit
 ```
 I was told you had been cut off from the Force, but I can sense its power in you. I always knew you had great potential,
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 2. Meetra recalls Malachor V, where the instantaneous loss of life from the mass-shadow generator wounded the Force.
@@ -37,7 +37,7 @@ I was told you had been cut off from the Force, but I can sense its power in you
 ```
 In some ways it reminded her of Malachor V—the massive and instantaneous loss of life on that doomed world had created a wound in the Force. The activation of the mass-shadow generator had obliterated two armies, shredding apart the bonds of the Force that linked all living things.
 
-— Revan (Drew Karpyshyn, 2012), ch. 18
+— Revan (Drew Karpyshyn, 2011), ch. 18
 ```
 
 ### 3. Meetra is told she always had deep connections to the Force; when the speaker first sparred with her as a Padawan, he could tell she was different.
@@ -278,7 +278,7 @@ When asked how she came to die, the Jedi entity’s response has been blunt, say
 ```
 In desperation, she hurled her lightsaber with a wild sidearm throw, guiding it with the Force so that it spiraled end-over-end to intercept the descending blade, knocking it from the Emperor's grasp and sending it skittering across the floor.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 30. Canderous Ordo says he thought Revan was a singular Jedi, but now there is Meetra: even the greatest Mandalorian warriors are no match for her.
@@ -328,7 +328,7 @@ As he fell to the ground, Meetra thrust her free hand out toward the next closes
 
 The other two soldiers had ripped off their night-vision goggles and opened fire again. Meetra deflected the bolts with her lightsaber.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 36. After a soldier is consumed by flames, Meetra charges forward with a burst of speed and delivers a two-handed slash that cleaves through the second soldier's armor and deep into her chest.
@@ -336,7 +336,7 @@ The other two soldiers had ripped off their night-vision goggles and opened fire
 ```
 The flames engulfed the nearest soldier; as his dying shrieks momentarily distracted his companion, Meetra charged forward with a burst of speed to deliver a vicious two-handed slash of her blade that cleaved through the plates of the woman’s armor and bit deep into her chest.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 37. In the Emperor's fortress, the soldiers' coordinated attack forces Meetra to fall back a step, while Scourge and Captain Yarri fight close-quarters nearby.
@@ -344,7 +344,7 @@ The flames engulfed the nearest soldier; as his dying shrieks momentarily distra
 ```
 The second soldier leapt into the fray, forcing Meetra to fall back a step to absorb their coordinated attack. Slightly farther away, Scourge and Captain Yarri were also already engaged in close-quarters combat, his lightsaber clashing against her electrostaff as they battled in the narrow confines of the entrance hall.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 
@@ -363,7 +363,7 @@ Recognising her potential, Revan had made her a General, giving her control over
 ```
 Recognizing her potential, Revan had made her a general, giving her control over nearly half of the Republic and Jedi troops under his command. Meetra had been instrumental in defeating the Mandalorians, dealing them a devastating blow during the Battle of Malachor V … though at a cost nearly impossible to fathom.
 
-— Revan (Drew Karpyshyn, 2012), ch. 5
+— Revan (Drew Karpyshyn, 2011), ch. 5
 ```
 
 ### 40. Revan reflects that the sealed Malachor V mission report may not tell Canderous that Meetra lured thousands of his fellow Mandalorian soldiers into a trap.
@@ -371,7 +371,7 @@ Recognizing her potential, Revan had made her a general, giving her control over
 ```
 Revan wasn’t sure how much Canderous knew about Malachor V and the mass-shadow generator. The mission report was sealed away in the Jedi Archives; he might have no idea that she had lured thousands of his fellow soldiers into a trap. It was also possible he was fully aware of Meetra’s actions, and respected her even more for making the ruthless but tactically brilliant decision to sacrifice thousands of her own people to achieve victory. In either case, Revan didn’t want to get into the tragic tale of Meetra’s banishment and her severance from the Force.
 
-— Revan (Drew Karpyshyn, 2012), ch. 7
+— Revan (Drew Karpyshyn, 2011), ch. 7
 ```
 
 
@@ -382,7 +382,7 @@ Revan wasn’t sure how much Canderous knew about Malachor V and the mass-shadow
 ```
 Meetra had been close enough to feel the shock wave; to survive it she had cut herself off from the Force, shielding her psyche against the horrors of what she had unleashed. Many years had passed before she regained her connection to the Force, but in the end, surviving the trauma of Malachor V had given her the strength to defeat Darth Traya and her followers.
 
-— Revan (Drew Karpyshyn, 2012), ch. 18
+— Revan (Drew Karpyshyn, 2011), ch. 18
 ```
 
 ### 42. In the Emperor's throne room, Meetra finishes off her opponents and calls for them to help Revan.
@@ -390,7 +390,7 @@ Meetra had been close enough to feel the shock wave; to survive it she had cut h
 ```
 "We have to help Revan!" Meetra shouted, and Scourge turned to see that she, too, had just finished off her opponents.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 43. An onlooker tells Chodo that Meetra's suffering filled his senses as soon as she stood before them, an intensity he had felt only once before.
@@ -533,7 +533,7 @@ Revan, the Exile and I were all Jedi-trained. We all resisted the Emperor. What 
 ```
 Traversing its surface had been agony. Mentally, she had still sensed the anguish of all who had lost their lives there. Physically, the intense gravity of the world had held her in its crushing grip, leaving her gasping for breath. It had been the most awful and horrific experience of her life
 
-— Revan (Drew Karpyshyn, 2012), ch. 18
+— Revan (Drew Karpyshyn, 2011), ch. 18
 ```
 
 ### 58. Revan is told that Meetra was much closer to the mass-shadow generator than he was; she felt the shock wave, which nearly killed her and left her vulnerable, then felt the deaths of the Mandalorians and her fellow soldiers through the Force.
@@ -541,7 +541,7 @@ Traversing its surface had been agony. Mentally, she had still sensed the anguis
 ```
 Meetra was much closer to the mass-shadow generator than you were. She felt the shock wave; it nearly killed her. Left her vulnerable. At the same time, she felt the deaths of the Mandalorians and her fellow soldiers through the Force. It was all too much to bear in her weakened state. It would have killed her.” She paused for emphasis, before continuing. “Instinctively, she protected herself the only way she knew how. She cut herself off from the Force … permanently.
 
-— Revan (Drew Karpyshyn, 2012), ch. 5
+— Revan (Drew Karpyshyn, 2011), ch. 5
 ```
 
 ### 59. Scourge, stepping behind Meetra as time snaps back to full speed, slides his lightsaber between her shoulders.
@@ -549,5 +549,5 @@ Meetra was much closer to the mass-shadow generator than you were. She felt the 
 ```
 Instead of advancing with his two companions, Scourge stepped to the side so that he was standing directly behind Meetra. There was a flicker in his consciousness as the universe snapped back to full speed, and he slid the blade of his lightsaber between her shoulders.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```

@@ -23,7 +23,6 @@ The link opens the file that holds the new lines.
 | nomi-sunrider | 1 | [nomi-sunrider.md](nomi-sunrider.md#egc-1995) |
 | qwi-xux | 1 | [qwi-xux.md](qwi-xux.md#egc-1995) |
 | ulic-qel-droma | 4 | [ulic-qel-droma.md](ulic-qel-droma.md#egc-1995) |
-| yoda | 4 | [04-part-3-feats-and-statements-only.md](yoda/04-part-3-feats-and-statements-only.md#egc-1995) |
 | bodo-baas | 1 | [bodo-baas.md](bodo-baas.md#egc-1995) |
 | ponda-baba | 1 | [ponda-baba.md](ponda-baba.md#egc-1995) |
 | talon-karrde | 1 | [talon-karrde.md](talon-karrde.md#egc-1995) |

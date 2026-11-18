@@ -586,7 +586,7 @@ As the Rebel freighter flew past Vader’s Star Destroyer, Vader sensed Luke’s
 ```
 But the man who may have been the fastest draw in the galaxy was not fast enough to surprise Vader. Before those bolts zipped halfway across the table, the Dark Lord had lifted a gauntlet-protected hand and effortlessly deflected them so they exploded against the wall in a harmless spray of flying white shards.
 
-— The Empire Strikes Back (Donald F. Glut, 2011), ch. 11
+— The Empire Strikes Back (Donald F. Glut, 1980), ch. 11
 ```
 
 ### 66. Vader hurls a final piece of heavy machinery that knocks Luke through the broken window, and the wind carries him until he grabs a beam with one hand.
@@ -594,7 +594,7 @@ But the man who may have been the fastest draw in the galaxy was not fast enough
 ```
 As Vader spoke those words, a final piece of heavy machinery soared through the air, striking the young Jedi and knocking him through the broken window. Everything became a great blur as the wind carried him, tossing and rolling, until he managed to grab hold of a beam with one hand.
 
-— The Empire Strikes Back (Donald F. Glut, 2011), ch. 13
+— The Empire Strikes Back (Donald F. Glut, 1980), ch. 13
 ```
 
 ### 67. Vader raises his hand, fingers outstretched, and an officer chokes, knees buckling and face ashen.
@@ -829,7 +829,7 @@ Vader V-stepped to his left, cocked his blade over his left shoulder, and hacked
 
 The droid’s block was a quarter second slow. Strong as it was, it was not strong enough to offset the power and momentum of Vader’s strike. The blades met, hissed and sparked, but Vader’s sword shoved the droid’s blade to the side. It tried to backpedal—
 
-— Shadows of the Empire (Steve Perry, 2011), ch. 7
+— Shadows of the Empire (Steve Perry, 1996), ch. 7
 ```
 
 ### 90. Obi-Wan lunges and strikes in a swift series at Vader on the Death Star; Vader blocks the first attack with ease and parries each one after it.
@@ -867,7 +867,7 @@ Off to Obi-Wan’s left Anakin stood unmoving in the center of the room, holding
 ```
 With two graceful moves, the Dark Lord hooked Luke’s weapon out of his hands and sent it flying away. A slash of Vader’s energy blade at Luke’s feet made the youth jump back in an effort to protect himself. But he stumbled backward, and tumbled down the stairs.
 
-— The Empire Strikes Back (Donald F. Glut, 2011), ch. 13
+— The Empire Strikes Back (Donald F. Glut, 1980), ch. 13
 ```
 
 ### 94. On the Death Star, Vader throws his lightsaber so it slices the supports of Luke's gantry and flies back to his hand.
@@ -1141,7 +1141,7 @@ Neither he nor Anakin was relying on lightsabers only. Calling on the Force, the
 ```
 An instant of distraction was all Vader needed. As the instrument panel floated away, Luke involuntarily glanced at it. At that second, the Dark Lord’s laser blade came slashing down across Luke’s hand, cutting it, and sending the youth’s lightsaber flying.
 
-— The Empire Strikes Back (Donald F. Glut, 2011), ch. 13
+— The Empire Strikes Back (Donald F. Glut, 1980), ch. 13
 ```
 
 ### 123. Vader parries Luke's attack an inch above the Emperor's head, sparks showering Palpatine's grinning face.
@@ -1361,7 +1361,7 @@ Jax raised his lightsaber. This was the time to act.
 
 He had no chance. Locked in some sort of dark fugue, Darth Vader began hurling Force energy in every direction at once, as if he fought an army of swarming enemies. But the blows were random, spasmodic, striking the walls, the ceiling, the floors. It was as if the Force struck through him, using the Dark Lord as a puppet—or, more appropriately, as a weapon.
 
-— Patterns of Force (Michael Reaves, 2011), ch. 20
+— Patterns of Force (Michael Reaves, 2009), ch. 20
 ```
 
 ### 148. A distraction from Jax Pavan makes Vader lose his Force grip on Jax and Kaj and teeter on the brink of the broken window.
@@ -1369,5 +1369,5 @@ He had no chance. Locked in some sort of dark fugue, Darth Vader began hurling F
 ```
 The move, unanticipated and unexpected as it was, distracted Vader. He lost his Force grip on both Jax and Kaj and took several steps away from the Elomin, teetering on the brink of the broken window.
 
-— Patterns of Force (Michael Reaves, 2011), ch. 20
+— Patterns of Force (Michael Reaves, 2009), ch. 20
 ```

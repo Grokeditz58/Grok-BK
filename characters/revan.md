@@ -56,7 +56,7 @@ Our heroes had become brutal, conquering Sith, and we were all but helpless befo
 ```
 Revan had grown since then. He was far more powerful now, but was he a match for the Emperor?
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 3. Revan slaughtered the Korriban Sith Academy, consisting of hundreds of Sith apprentices plus many Sith masters and Sith shock troopers, completely driving the Sith Empire from their capital world, directly after the two aforementioned feats. The battle was remembered by Darth Bane three thousand years later.
@@ -92,7 +92,7 @@ Both hands were held in front of him, his arms fully extended at shoulder height
 “I am Revan reborn,” he said to Nyriss. “And before me you are nothing.”
 Nyriss’s eyes went wide as Revan unleashed the power of her own attack against her. She tried to throw up another Force shield, but the bolts ripped it apart and continued on unabated. The lightning engulfed her, the intense heat consuming her instantly, leaving only a pile of charred ash.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ```
@@ -530,13 +530,13 @@ Darth Bane brought the self-proclaimed Sith Lords together, showing them how to 
 ```
 The Jedi's command of and connection to the Force was unlike anything Scourge had sensed in anyone else. Even though Revan was constantly drugged, it was impossible not to sense his strength.
 
-— Revan (Drew Karpyshyn, 2012), ch. 19
+— Revan (Drew Karpyshyn, 2011), ch. 19
 ```
 
 ```
 If anyone had the strength to stop the Emperor, it was this man.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 35. Revan discovered how to balance both sides of the Force and called upon light side and dark side energies simultaneously. Revan applied Balance of the Force to release the Force "in its purest form" and amplify the potency of his powers (see also: II/Telekinesis/R/3, III/Altus_sopor/F/1, III/Telekinesis/FT/2).
@@ -544,7 +544,7 @@ If anyone had the strength to stop the Emperor, it was this man.
 ```
 He had learned to balance on the knife-edge between them, drawing on both the light and dark sides for strength.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ```
@@ -558,7 +558,7 @@ There has always been a dual nature to the legend of Revan. At his core, is he t
 ```
 Revan played on the Emperor's caution and patience, constantly pushing them to the forefront of his enemy's mind. He augmented his irrational fear of death. At every opportunity he reinforced the idea that invading the Republic was reckless and dangerous.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ```
@@ -578,7 +578,7 @@ The darkness will consume all it touches. Stars will burn black, ashes raining o
 ```
 As the Emperor fed off him, Meetra was allowing Revan to feed off her. Her sustenance strengthened his resolve whenever he grew weak, refreshing and restoring him so he could continue his never-ending mental war.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 38. Revan was largely unaffected by Emperor Vitiate's charged telekinetic attack.
@@ -586,7 +586,7 @@ As the Emperor fed off him, Meetra was allowing Revan to feed off her. Her suste
 ```
 His opponent stood perfectly still, focusing and channeling his power. At the last possible instant, the Emperor unleashed a wave of energy that swept Revan off his feet and sent him flying backward. Revan twisted in midair so that he was able to roll with the impact when he landed. He quickly sprang back to his feet and advanced again, moving more slowly this time.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 39. Revan kept pace with Emperor Vitiate's Force lightning, even dodging one of the bolts.
@@ -594,7 +594,7 @@ His opponent stood perfectly still, focusing and channeling his power. At the la
 ```
 The Emperor unleashed three more bolts in quick succession. Revan batted the first aside with his lightsaber, ducked the second, then deflected the third back in the direction of its source.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 40. Revan expanded his senses across the galaxy to find Meetra Surik.
@@ -602,7 +602,7 @@ The Emperor unleashed three more bolts in quick succession. Revan batted the fir
 ```
 Once he had tried to reach out to her with the Force. Serving in battle with someone formed a special bond; even across the breadth of the galaxy he should have been able to get some vague sense of her presence. Yet he had felt nothing. The simplest explanation was that she had become one with the Force, but Revan couldn't allow himself to believe she was dead.
 
-— Revan (Drew Karpyshyn, 2012), ch. 5
+— Revan (Drew Karpyshyn, 2011), ch. 5
 ```
 
 ### 41. Revan largely resisted the combined telepathic attacks of Emperor Vitiate and the Dread Masters, a group of six immensely powerful Sith Lords capable of ravaging Republic fleets with waves of hatred and bringing the Outlander to his knees from across the galaxy, for three-hundred and eight years.
@@ -612,7 +612,7 @@ Once he had tried to reach out to her with the Force. Serving in battle with som
 As he spoke, the dark circles of his eyes seemed to fill with a swirling red mist, and for a brief instant the Emperor gave Scourge a glimpse of his true self.
 Scourge cried out in anguish as the Emperor’s mind brushed against his, then he collapsed to the floor, shaking like a child. The touch lasted less than a second, but in that time he witnessed indescribable horrors that dwarfed anything the dark side could conjure even in his worst nightmares. And beneath the formless terrors lurked the unbearable Void, the pure emptiness of total annihilation.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ```
@@ -909,7 +909,7 @@ Revan knew he was gathering his power to unleash a swirling storm of pure dark s
 A dozen bolts of purple lightning arced from the Emperor toward him. Revan tried to draw them in and contain them, but the Emperor was infinitely more powerful than Darth Nyriss had ever been.
 Revan’s body was engulfed in agony as the electricity coursed through his body. His skin began to boil and blister, the flesh of his face melting and sticking to the superheated metal of his mask as the Emperor poured more and more power into him.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ```
@@ -930,7 +930,7 @@ Both hands were held in front of him, his arms fully extended at shoulder height
 “I am Revan reborn,” he said to Nyriss. “And before me you are nothing.”
 Nyriss’s eyes went wide as Revan unleashed the power of her own attack against her. She tried to throw up another Force shield, but the bolts ripped it apart and continued on unabated. The lightning engulfed her, the intense heat consuming her instantly, leaving only a pile of charred ash.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 66. Revan absorbed and reflected Emperor Vitiate's Force lightning with his lightsaber.
@@ -941,7 +941,7 @@ Revan intercepted the bolt with the blade of his lightsaber, though the impact s
 The Emperor unleashed three more bolts in quick succession. Revan batted the first aside with his lightsaber, ducked the second, then deflected the third back in the direction of its source.
 It struck the Emperor in the chest, sending him sliding several meters back on the floor. For the first time the Sith’s emotionless veneer cracked as he let out a primal hiss of hate.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 67. Revan meticulously mastered everything Kreia, Zhar Lestin, Dorak, and other Jedi Masters knew, learning faster than they could teach. At the end of his apprenticeship, Kreia mused he learned everything he possibly could from the Jedi, signifying mastery of the lightsaber forms, Trakata, and other techniques.
@@ -1086,7 +1086,7 @@ When an Imperial officer suggested [Lana Beniko] would not understand the nuance
 ```
 Revan had fought plenty of Basilisks during his campaign against the Mandalorians.
 
-— Revan (Drew Karpyshyn, 2012), ch. 11
+— Revan (Drew Karpyshyn, 2011), ch. 11
 ```
 
 ### 78. Revan was faster than Yusanis and armies of the Echani, renowned for their speed.
@@ -1195,7 +1195,7 @@ Impossible. The ritual hasn't even begun!
 ```
 Led by a woman named Kreia, the rogue Jedi turned to the dark side teachings uncovered by Malak and Revan. Kreia took the name Darth Traya, and her followers called themselves the Sith after the long-lost species that had invaded the Republic a millennium before.
 
-— Revan (Drew Karpyshyn, 2012), ch. 16
+— Revan (Drew Karpyshyn, 2011), ch. 16
 ```
 
 ```
@@ -1230,7 +1230,7 @@ Revan had shown him how to use the Force to ward off poison and disease. No simp
 ```
 He knew with absolute certainty that he had been to this world before. He remembered its deserted city and its lifeless surface. He remembered searching the empty buildings with Malak, looking for archives, records, and astrogation charts that would guide them on the next step of the journey. But most of all, he remembered the horror of a dead planet entirely stripped of the Force.
 
-— Revan (Drew Karpyshyn, 2012), ch. 15
+— Revan (Drew Karpyshyn, 2011), ch. 15
 ```
 
 ```
@@ -1250,7 +1250,7 @@ By the time she reached the Ebon Hawk she was running, though she wasn’t even 
 ```
 Instead of charging forward, he opened himself up to the Force, letting both the light and the dark side flow through him like twin rushing rivers. But instead of focusing or channeling the Force, he released it in its purest form.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 88. Scourge likened Revan's understanding of the Force to Emperor Vitiate.
@@ -1258,7 +1258,7 @@ Instead of charging forward, he opened himself up to the Force, letting both the
 ```
 The fact that they showed no concern over letting an armed Sith Lord speak to the Emperor face-to-face without any kind of preparation was a testament to the Emperor's unfathomable power. Thinking about that power gave Scourge pause. Like Revan, the Emperor understood the Force in ways Scourge never would.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 89. Revan ripped a vaulted stone archway off the ceiling, showering the Imperial Guard in debris.
@@ -1266,7 +1266,7 @@ The fact that they showed no concern over letting an armed Sith Lord speak to th
 ```
 At the far end of the hall, another half a dozen of the Imperial Guard rounded the corner. Revan reached out with the Force and ripped the vaulted stone archway in the ceiling above them free from its setting. A shower of dust and debris rained down on the reinforcements, sending them into temporary retreat.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 90. Revan let the light and dark side flow through him like twin rushing rivers and released the Force in its purest form. The blast of energy lit up the air across the forty meter walkway, made Revan himself stagger, and sent Emperor Vitiate flying backward and land unceremoniously in a heap on the floor.
@@ -1276,7 +1276,7 @@ Revan began to sense the oppressive presence of the dark side weighing down on h
 Instead of charging forward, he opened himself up to the Force, letting both the light and the dark side flow through him like twin rushing rivers. But instead of focusing or channeling the Force, he released it in its purest form.
 There was brilliant flash as the air between the two combatants lit up. The energy unleashed was powerful enough to send Revan staggering. The Emperor, unprepared and with much of his strength diverted to his effort to dominate Revan’s mind, was sent flying backward. He landed in a heap on the floor and Revan raced toward him.
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 91. Revan passively left dark side impressions in the area around him.
@@ -1733,7 +1733,7 @@ Revan is a powerful Force user who draws on both the light and dark side of the 
 Through the veil of drugs, he strained to reach out with the Force, amplifying the other’s fear and confusion.
 “No!” his friend shouted above the piercing alarms, still staying hidden around the corner. “He’ll kill us!"
 
-— Revan (Drew Karpyshyn, 2012), ch. 20
+— Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
 ### 129. LIMIT: Revan held his own against an Imperial strike team of the Empire's greatest champions until he was killed. The circumstances of the defeat can largely be attributed to suffering three centuries of torture and being drained by Emperor Vitiate and the Dread Masters yet only having days to recover, and that Revan's mind had begun to splinter into two separate, rival entities, interfering with his capacity to fight since both personalities had different intentions within his body. Despite this weakened state, Revan became far more powerful than any of his opponents or any Jedi before him by channeling both sides of the Force in battle.

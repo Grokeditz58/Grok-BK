@@ -290,7 +290,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [corran-horn.md](corran-horn.md) | Corran Horn | NR–LotF | DEEP | 256 | 255 | 1 | 16 | Corran Horn, Corran | 386 | 301 | n/a | n/a |
 | [corwin-shelvay.md](corwin-shelvay.md) | Corwin Shelvay (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Corwin Shelvay | 2 | 2 | 0 | 0 |
 | [counselor-raines.md](counselor-raines.md) | Counselor Raines | NR | untiered | 5 | 5 | 0 | 0 | Counselor Raines, Raines | 5 | 0 | 0 | 0 |
-| [count-dooku/](count-dooku/README.md) | Count Dooku / Darth Tyranus | Prequel / Clone Wars | DEEP | 2350 | 2199 | 151 | 330 | Count Dooku / Darth Tyranus, Count Dooku, Dooku, Darth Tyranus, Tyranus | 2332 | 1341 | 347 | 873 |
+| [count-dooku.md](count-dooku.md) | Count Dooku / Darth Tyranus | Prequel / Clone Wars | DEEP | 2350 | 2199 | 151 | 330 | Count Dooku / Darth Tyranus, Count Dooku, Dooku, Darth Tyranus, Tyranus | 39 | 39 | n/a | n/a |
 | [covell.md](covell.md) | Covell (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 30 | 30 | 0 | 0 | Covell | 30 | 27 | 0 | 36 |
 | [crado.md](crado.md) | Crado | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 38 | 38 | 0 | 0 | Crado | 38 | 16 | 1 | 8 |
 | [cradossk.md](cradossk.md) | Cradossk (NEW 2026-10-29) |  | untiered | 15 | 14 | 1 | 2 | Cradossk | 15 | 7 | 0 | 5 |
@@ -1547,7 +1547,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [yarua.md](yarua.md) | Yarua | Prequel | untiered | 10 | 10 | 0 | 0 | Yarua, Senator Yarua | 10 | 6 | 0 | 4 |
 | [yesha-bergeron.md](yesha-bergeron.md) | Yesha Bergeron | NJO | untiered | 1 | 1 | 0 | 0 | Yesha Bergeron, Yesha Bergeson | 1 | 0 | 0 | 0 |
 | [yogand.md](yogand.md) | Yo'Gand | Ancient Yuuzhan Vong | untiered | 1 | 1 | 0 | 0 | Yo'Gand, Warmaster Yo'Gand | 1 | 0 | 0 | 0 |
-| [yoda/](yoda/README.md) | Yoda | Prequel–GCW | DEEP | 2467 | 2384 | 83 | 358 | Yoda, Master Yoda, Grand Master Yoda | 2457 | 1336 | 313 | 929 |
+| [yoda.md](yoda.md) | Yoda | Prequel–GCW | DEEP | 2467 | 2384 | 83 | 358 | Yoda, Master Yoda, Grand Master Yoda | 36 | 37 | n/a | n/a |
 | [yomin-carr.md](yomin-carr.md) | Yomin Carr (NEW 2026-10-29) |  | untiered | 6 | 6 | 0 | 0 | Yomin Carr | 15 | 10 | 0 | 9 |
 | [youk.md](youk.md) | Youk (NEW 2026-10-30) | GCW | untiered | 2 | 2 | 0 | 0 | Youk | 2 | 0 | 0 | 0 |
 | [yrssk.md](yrssk.md) | Yrssk (NEW 2026-10-29) |  | untiered | 7 | 7 | 0 | 0 | Yrssk | 7 | 2 | 0 | 0 |
@@ -1605,8 +1605,8 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3767
 - [Revan](revan.md): 132
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2570
-- [Yoda](yoda/README.md): 2457
-- [Count Dooku / Darth Tyranus](count-dooku/README.md): 2332
+- [Yoda](yoda.md): 36
+- [Count Dooku / Darth Tyranus](count-dooku.md): 39
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2249
 - [General Grievous](general-grievous/README.md): 2190
 - [Exar Kun](exar-kun.md): 103
@@ -1636,9 +1636,9 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Luke Skywalker](luke-skywalker.md): 81
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3773
 - [Revan](revan.md): 132
-- [Yoda](yoda/README.md): 2467
+- [Yoda](yoda.md): 36
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2370
-- [Count Dooku / Darth Tyranus](count-dooku/README.md): 2350
+- [Count Dooku / Darth Tyranus](count-dooku.md): 39
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
 - [General Grievous](general-grievous/README.md): 2198
 - [Exar Kun](exar-kun.md): 103

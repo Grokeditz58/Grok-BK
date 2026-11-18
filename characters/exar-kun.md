@@ -29,7 +29,7 @@ Evidence file for Exar Kun, the fallen Jedi and Dark Lord of the Sith of the Gre
 ```
 Exar Kun worked his invisible threads into the fabric of the Old Republic, bringing downfall through treachery and his distorted abilities with the Force.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 5
+— Dark Apprentice (Kevin Anderson, 1994), ch. 5
 ```
 
 ### 2. Through Streen, the Jedi feel Kun's contempt for them: he had faced fleets of ships and all the known Jedi.
@@ -46,7 +46,7 @@ I let Streen fill Kun with our resolve to unite and defeat him, but Kun's contem
 Troubled by that voice, Kyp had stolen a ship and fled to the forest moon of Endor to meditate beside the ashes of Darth Vader's funeral pyre. He had thought to go far enough away to escape Kun's influence, but he no longer thought that was possible.
 Kyp had traveled to the Core Systems, but still he felt the chains binding him to the Dark Lord, the malevolent obligations required by the Sith teachings. If he tried to resist and think for himself, the angry tauntings returned with full force, the snapped words, the coercions, the veiled threats.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 16
+— Champions of the Force (Kevin Anderson, 1994), ch. 16
 ```
 
 ### 4. Kyp feels his skin tingling with barely contained power, as if his blood had begun to fizz inside him.
@@ -54,7 +54,7 @@ Kyp had traveled to the Core Systems, but still he felt the chains binding him t
 ```
 Kyp felt his skin tingling with barely contained power, as if his blood had begun to fizz inside of him. He moved down the temple corridors like a projectile, and when he reached the heavy door to his quarters, he used the force to fling it open and slam it against the far wall with enough strength to flake a long splinter of stone from the blocks.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 23
+— Dark Apprentice (Kevin Anderson, 1994), ch. 23
 ```
 
 ### 5. Exar Kun shows Kyp how to unleash great powers; Kyp does not trust the Sith Lord but cannot deny that the power actually works.
@@ -62,7 +62,7 @@ Kyp felt his skin tingling with barely contained power, as if his blood had begu
 ```
 Exar Kun had shown him how to unleash great powers. Kyp did not trust the Sith Lord, but he could not deny the truth of what the shadow man taught. Kyp could see the power actually working.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 23
+— Dark Apprentice (Kevin Anderson, 1994), ch. 23
 ```
 
 ### 6. The students fear the dark power of Kun's spirit, which had been enough to warp other students and defeat Master Skywalker.
@@ -70,7 +70,7 @@ Exar Kun had shown him how to unleash great powers. Kyp did not trust the Sith L
 ```
 Afraid to challenge the dark power that had been sufficient to warp other students and defeat Master Skywalker.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 13
+— Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
 ### 7. LIMIT: Corran Horn tells Exar Kun that Kyp destroying Carida and Kun destroying Gantoris diminished his own power, like a predator over-grazing its prey.
@@ -86,7 +86,7 @@ When Kyp destroyed Carida, he diminished your power. When you destroyed Gantoris
 ```
 "Yes,” said Luke, remembering the power of the Force flowing into him as he’d battled Exar Kun for the final time.
 
-— Star Wars: Children of the Jedi (Barbara Hambly, 2011), ch. 14
+— Star Wars: Children of the Jedi (Barbara Hambly, 1995), ch. 14
 ```
 
 ### 9. A sourcebook says some of history's most powerful Force-users trained at the Dantooine Enclave, where only students of great potential were admitted, and Exar Kun was one.
@@ -297,7 +297,7 @@ He appeared to have more power than she had. More power than Luke.
 ```
 Exar Kun’s temples had been erected across Yavin 4—the last archaeological resting place of the incredibly ancient Sith race—as focal points for his power. Kun had ruled here on the jungle moon, controlling forces that had nearly defeated the Old Republic. But the warlord Jedi Ulic Qel-Droma had betrayed him; and all the united Jedi had swept down in a final battle on Yavin 4, exterminating the Massassi natives, leveling most of the Sith temples, razing most of the rain forest in a holocaust from the skies. But Exar Kun had managed to encyst his spirit here, waiting four thousand years until other Jedi came to awaken him.…
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 23
+— Dark Apprentice (Kevin Anderson, 1994), ch. 23
 ```
 
 
@@ -308,7 +308,7 @@ Exar Kun’s temples had been erected across Yavin 4—the last archaeological r
 ```
 His best students were going sour, getting impatient, trying to push the limits of their abilities. But he had sensed a greater, deeper menace that vibrated within the very stones of the Great Temple itself. . . evil, and well hidden.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 29
+— Dark Apprentice (Kevin Anderson, 1994), ch. 29
 ```
 
 ### 36. LIMIT: Corran Horn theorizes that Kun's later dormancy is because drawing the Sun Crusher from Yavin and bringing down Luke had tired him out.
@@ -345,7 +345,7 @@ Kirana Ti launched herself forward on long, muscular legs, ducking her head as s
 Kirana Ti staggered as she hit the wind, but she wrenched her head aside, spread her legs, and dug the toes of her bare feet against the stone floor for traction. She shoved forward into the wind and finally shattered through into the dead zone of the storm. She tackled Streen to the flagstoned floor and locked his arms behind his back. Streen cried out, then blinked his eyes open. He looked wildly around in confusion. Instantly the wind stopped blowing. The air fell still. High up at the ceiling of the grand audience chamber Leia and Luke plunged toward the unforgiving flagstones below. Luke fell like a doll, and Leia tried to remember how to use her levitation skills, but her mind went blank with panic.
 Tionne and Kam Solusar raced forward, stretching out their arms, using what they had been taught. Less than a meter above the crushing stones, Leia found herself slowed, pausing in the air beside Luke's body. They drifted gently to the floor. Leia cradled Luke against her, but her brother did not respond.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 7
+— Champions of the Force (Kevin Anderson, 1994), ch. 7
 ```
 
 ### 38. Exar Kun's obsidian gaze bores into Corran Horn, who tries to armor his mind but finds Kun in and out too quickly for it to help.
@@ -414,7 +414,7 @@ Some of these powers he was able to channel through Kyp, Gantoris, and Streen to
 ```
 He remembered his nightmare when Exar Kun, disguised as Anakin Skywalker, had urged Luke to dabble in the dark side. Against the backdrop of history Luke had seen the labors of the broken Massassi erecting mammoth temples, working until crushed by sheer labor. Luke had cast off that nightmare, but he had not interpreted its warning soon enough.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 13
+— Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
 ### 46. In Dark Apprentice, Kyp reads the history of Exar Kun learning forbidden teachings, finding a lost Sith power object on Yavin's fourth moon, and enslaving the Massassi to build temples as focal points for the dark forces.
@@ -422,7 +422,7 @@ He remembered his nightmare when Exar Kun, disguised as Anakin Skywalker, had ur
 ```
 And suddenly Kyp could understand. The words snapped into focus and filled his mind, an incredible history from four thousand years ago, telling how Exar Kun had begun to learn forbidden teachings, how he had come to the fourth moon of Yavin to find a lost Sith power object, and how he had enslaved the timid and weak Massassi people, making them build enormous temples for him as focal points for the dark forces he played with.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 20
+— Dark Apprentice (Kevin Anderson, 1994), ch. 20
 ```
 
 ### 47. Exar Kun's shadow joins the attack on Luke, lashing out with waves of blackness and driving long icicles of frozen poison into his body.
@@ -430,7 +430,7 @@ And suddenly Kyp could understand. The words snapped into focus and filled his m
 ```
 Luke cried out and tried to strike back, but the shadow of Exar Kun joined the attack, adding more deadly force. The ancient Dark Lord of the Sith lashed out with waves of blackness, driving long icicles of frozen poison into Luke’s body.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 32
+— Dark Apprentice (Kevin Anderson, 1994), ch. 32
 ```
 
 ### 48. In I, Jedi, Kun flicks a finger and sends Corran whirling across the courtyard into an obsidian wall, then spins him again, breaking his arm, ribs and, after lifting and dashing him down, his left leg.
@@ -549,7 +549,7 @@ A few hundred years ago, the Jedi Order thought they could cleanse Yavin 4 of it
 ```
 In his mind Kyp heard cheering ghosts, saw visions like a videoloop from four thousand years ago when Exar Kun had found the last resting place of the ancient Sith. Kun had rediscovered their teachings. He had built great temples, establishing the Brotherhood of the Sith among disillusioned Jedi Knights. Here on Yavin 4, Kun had used the Massassi people as expendable resources, power conduits to redefine the chaos and corruption of the Old Republic. He had challenged the foolish Jedi who followed their incompetent leaders without thinking simply because they had sworn to do so....
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 32
+— Dark Apprentice (Kevin Anderson, 1994), ch. 32
 ```
 
 ### 61. The spirit of Exar Kun means to destroy the cloned Jedi student on a whim, but Kyp stops him by insisting that the Sith Lord teach him everything.
@@ -557,7 +557,7 @@ In his mind Kyp heard cheering ghosts, saw visions like a videoloop from four th
 ```
 The spirit of Exar Kun had meant to destroy the cloned Jedi student on a whim, as a gesture of power, but Kyp had stopped him, insisting instead that the Sith Lord teach him everything.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 27
+— Champions of the Force (Kevin Anderson, 1994), ch. 27
 ```
 
 ### 62. Kyp tells Luke that he has learned a great deal beyond Luke's feeble teachings, thanks to Exar Kun.
@@ -565,7 +565,7 @@ The spirit of Exar Kun had meant to destroy the cloned Jedi student on a whim, a
 ```
 I've learned a great deal beyond your feeble teachings.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 32
+— Dark Apprentice (Kevin Anderson, 1994), ch. 32
 ```
 
 ### 63. LIMIT: When Master Vodo fails, the other Jedi band together in a massive strike force such as had never been gathered before.
@@ -573,7 +573,7 @@ I've learned a great deal beyond your feeble teachings.
 ```
 When Master Vodo did not succeed, the other Jedi banded together in a massive strike force such as had never before been gathered.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 13
+— Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
 ### 64. Exar Kun shows a Jedi what is happening at that moment to the people she saved from Eol Sha.
@@ -584,7 +584,7 @@ Inside the black cut-out form of the hooded man, an image appeared, displaying t
 But now he saw Imperial lasers striking down, leveling colony buildings, giant armored walkers striding across the savanna, blasting anything that moved, igniting the temporary living units. People ran screaming. His people.
 Gantoris recognized most of their faces, but before he could name them, they dissolved one by one in brilliant flashes as they tried to flee. The trees blazed in conical bonfires; black clumpy smoke rose in jagged swirls.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 10
+— Dark Apprentice (Kevin Anderson, 1994), ch. 10
 ```
 
 ### 65. LIMIT: Exar Kun tells Gantoris he is barred from the physical plane, but with enough other Sith followers he could be at peace and even live again.
@@ -592,7 +592,7 @@ Gantoris recognized most of their faces, but before he could name them, they dis
 ```
 I want your anger, Gantoris. I want you to open the doorways of power. I am barred from the physical plane--but with enough other Sith followers, I could be at peace. I could even live again.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 10
+— Dark Apprentice (Kevin Anderson, 1994), ch. 10
 ```
 
 ### 66. Luke sees the faint images of Palpatine and Exar Kun against the blackness of space, two of the greatest focal points of the dark side he has ever faced.
@@ -600,7 +600,7 @@ I want your anger, Gantoris. I want you to open the doorways of power. I am barr
 ```
 There in front of him, starkly visible against the blackness of space, he could see the faint images of Emperor Palpatine and Exar Kun, two of the greatest focal points of the dark side he’d ever had to face. They were standing there before him, gazing back at him. And laughing.
 
-— Specter of the Past (Timothy Zahn, 2011), ch. 2
+— Specter of the Past (Timothy Zahn, 1997), ch. 2
 ```
 
 ### 67. The trainees' combined power glows ever brighter as they weave threads reinforcing each other, and Exar Kun's spirit is trapped in the Wall of Light.
@@ -621,7 +621,7 @@ With the Force, Streen touched the winds again. The air inside the grand audienc
 Exar Kun vanished with only a brief, curtailed scream.
 The Jedi Knights stood joined together for a final moment, relishing the shared Force. Then, in exhaustion and relief and triumph, they separated from each other. The unearthly glow dissipated around them.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 15
+— Champions of the Force (Kevin Anderson, 1994), ch. 15
 ```
 
 ### 68. Hosting Exar Kun's spirit leaves Kyp moving slowly as if over shattered glass, his eyes dull and his face lined as if Kun had shed his four thousand years onto him.
@@ -629,7 +629,7 @@ The Jedi Knights stood joined together for a final moment, relishing the shared 
 ```
 Kyp moved slowly, as if walking barefoot across shattered glass. His eyes were dull. His face was seamed with new lines, as if the dark spirit of Exar Kun had shed his four thousand years of existence onto Kyp's shoulders.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 21
+— Champions of the Force (Kevin Anderson, 1994), ch. 21
 ```
 
 ### 69. Vodo-Siosk Baas tells Exar Kun he is the most formidable student he has ever had.
@@ -862,7 +862,7 @@ Nadd's specter appears one final time to claim Kun as his own, but Kun embraces 
 ```
 “You will have no choice,” Kun answered, “once I have destroyed your physical body. Trapping my own spirit inside these temples was the only way I could survive when the final holocaust came. The allied Jedi Knights devastated the surface of Yavin 4. They killed off the few Massassi people I had kept alive, and they destroyed my own body in the inferno.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 7
+— Champions of the Force (Kevin Anderson, 1994), ch. 7
 ```
 
 ### 97. Tionne reports that in the final battle Kun drained dry the life force of all his Massassi slaves in one last gambit, and though the Jedi obliterated his body he preserved his spirit within the temples.
@@ -870,7 +870,7 @@ Nadd's specter appears one final time to claim Kun as his own, but Kun embraces 
 ```
 I’ve found only sketchy information, but it seems that in the final battle the unified Jedi wiped out most of the jungles on Yavin 4, laying waste to everything in their efforts to destroy Exar Kun. Kun drained dry the life force of all his Massassi slaves in one last gambit. The ancient Jedi succeeded in destroying much of what he had built and obliterated Kun’s body, but he somehow managed to preserve his spirit within the temples. For all these years.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 13
+— Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
 ### 98. Master Vodo says Exar Kun was his greatest student, corrupted by the powers he found in ancient Sith teachings.
@@ -878,7 +878,7 @@ I’ve found only sketchy information, but it seems that in the final battle the
 ```
 Exar Kun was my greatest student,” Master Vodo said, “yet he was corrupted. He was seduced by the powers available to him through studies of ancient Sith teachings.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 29
+— Dark Apprentice (Kevin Anderson, 1994), ch. 29
 ```
 
 
@@ -891,7 +891,7 @@ Exar Kun was my greatest student,” Master Vodo said, “yet he was corrupted. 
 ```
 All the Jedi banded together and came to the jungle moon in a united front against the Sith stronghold Exar Kun had built. The allied Jedi combined their power into a massive annihilating strike.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 29
+— Dark Apprentice (Kevin Anderson, 1994), ch. 29
 ```
 
 ### 100. Exar Kun boasts that four thousand years ago the entire military fleet of the Old Republic and the combined forces of hundreds of Jedi Masters could not destroy him.
@@ -899,7 +899,7 @@ All the Jedi banded together and came to the jungle moon in a united front again
 ```
 Good! I am glad to see you have learned to respect me. Four thousand years ago the entire military fleet of the Old Republic and the combined forces of hundreds of Jedi Masters could not destroy me. You would certainly be unable to do so alone.
 
-— Dark Apprentice (Kevin Anderson, 2011), ch. 10
+— Dark Apprentice (Kevin Anderson, 1994), ch. 10
 ```
 
 ### 101. LIMIT: Ood resists Kun's attempt to steal the lightsabers by plunging roots into the ground and driving Kun back with a blast of power drawn from Ossus.
@@ -925,5 +925,5 @@ Their beams crossed in the middle of Exar Kun’s shadowy body—pure light inte
 
 Darkness flooded out of the shade of Exar Kun. The blackness shattered, and fragments flew around the circle, seeking a weak heart in which to hide.
 
-— Champions of the Force (Kevin Anderson, 2011), ch. 15
+— Champions of the Force (Kevin Anderson, 1994), ch. 15
 ```
