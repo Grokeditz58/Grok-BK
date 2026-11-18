@@ -1,0 +1,73 @@
+Saesee Tiin research extraction
+
+Final URL: https://starwars.fandom.com/wiki/Saesee_Tiin/Legends
+Continuity: Legends
+Page result: Requested /Legends page loaded successfully; no fallback was needed.
+
+Scope note
+- This is an extraction/paraphrase of concrete feats and explicitly stated abilities from the page. Bracketed numbers are the page's own citations.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Hype/assessment language is separated below from observed actions and stated capabilities.
+
+SIDIOUS / PALPATINE ENCOUNTER (19 BBY)
+
+- Tiin joined Mace Windu, Kit Fisto, and Agen Kolar to go to Chancellor Palpatine's office after being told Palpatine was Darth Sidious. Before they left, Fisto worried that they lacked Kenobi, Plo Koon, and Yoda; Tiin answered that they were sufficient and capable of subduing Palpatine. [25]
+  Source: Star Wars: Episode III Revenge of the Sith novelization [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 25; per-sentence approximate match (2/3 sentences matched, min 0.62), verify; agrees with the entry's own ref marker]
+- Tiin's statement before the confrontation: “The Dark Lord has revealed himself, and we dare not hesitate. Think not of if, Master Fisto; this duty has fallen to us. We will suffice.” [25]
+  Source: Star Wars: Episode III Revenge of the Sith novelization [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 25; exact text match; agrees with the entry's own ref marker]
+- When the four Jedi entered, Windu declared Palpatine under arrest. After the lightsabers were ignited, Palpatine ignited his own and lunged at the Jedi. Palpatine stabbed Kolar before Kolar could defend himself. [2]
+  Source: Star Wars: Episode III Revenge of the Sith [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 2; approximate match 0.88, verify; agrees with the entry's own ref marker]
+- As Kolar fell, Tiin attempted to strike Palpatine from behind. Palpatine turned and slashed Tiin at the waist. The page states that Tiin died in this encounter. [2]
+  Source: Star Wars: Episode III Revenge of the Sith [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 2; approximate match 0.82, verify; agrees with the entry's own ref marker]
+- The article's lead states that Tiin's death on Coruscant in 19 BBY was at the hands of Darth Sidious, alongside Windu, Fisto, and Kolar, and marked the start of the Great Jedi Purge and Order 66.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Saesee Tiin/Legends" rev 15682399 but it has no inline citation in its paragraph; approximate match 0.91, verify)
+
+CONCRETE FEATS / ACTIONS
+
+- In the Stark Hyperspace War, Tiin led Red and Blue Squadrons to victory in the Fifth Battle of Qotile; the page attributes the choice to his flying skills and leadership. [8]
+  Source: Star Wars: The Stark Hyperspace War [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 8; approximate match 0.88, verify; agrees with the entry's own ref marker]
+- During the Yinchorri Uprising, he piloted a Consular-class cruiser with Obi-Wan Kenobi as co-pilot, engaged the hyperdrive to go around a planet at hyperspeed, landed the shuttle, later disabled a Yinchorri tank, and piloted the survivors' ship to space. [9]
+  Source: Star Wars: Jedi Council: Acts of War [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 9; approximate match 0.62, verify; agrees with the entry's own ref marker]
+- In the conflict with the rogue Sons and Daughters of Freedom, Tiin flew the Sharp Spiral against three battleships. The page says the ships could not hit him; he destroyed the shields, engines, and weapons systems of all three, then left them for Republic forces. [7]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He dueled Obi-Wan Kenobi in the Jedi Temple before the Mission to Onderon; Kenobi defeated him. [10]
+  Source: Star Wars: Obi-Wan [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 10; approximate match 0.67, verify; agrees with the entry's own ref marker]
+- During the Battle of Coruscant, Tiin flew a green Eta-2 and led ARC-170 starfighters in the orbital battle. After the Impavid collided with a Providence-class carrier/destroyer, he landed in the damaged Star Destroyer, led stranded jet troopers in taking the Confederate cruiser Prosperous, jumped by specialized space suit with clone troopers, landed on the cruiser, cut through its landing-bay floor, and led the entry that eliminated its minor crew and took control. [27]
+  Source: Star Wars: Clone Wars [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 27; approximate match 0.61, verify; agrees with the entry's own ref marker]
+- In unarmed combat, he had enough strength to crush a battle droid's head against a wall with one elbow. [4]
+  Source: "Heavy Metal Jedi" — Star Wars: Clone Wars Adventures Volume 1 ; "It Takes a Thief" — Star Wars: Clone Wars Adventures Volume 6 [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 4,18; approximate match 0.94, verify; agrees with the entry's own ref marker]
+- He could use the Force to throw droids four kilometers. [4]
+  Source: "Heavy Metal Jedi" — Star Wars: Clone Wars Adventures Volume 1 [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 4; approximate match 1.00, verify; agrees with the entry's own ref marker]
+- His telekinetic applications included throwing heavy objects, slowing missiles, and redirecting missiles at those who fired them. [4]
+  Source: "Heavy Metal Jedi" — Star Wars: Clone Wars Adventures Volume 1 [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 4; approximate match 0.80, verify; agrees with the entry's own ref marker]
+
+EXPLICITLY STATED POWERS / SKILLS
+
+- He was a natural telepath. During training, his telepathy let him read opponents' thoughts and gain an edge in lightsaber practice because opponents unwittingly revealed their strategies. [6]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Under Omo Bouri, he used the Force to expand his telepathy “to extraordinary heights”; the page says he could control his own mind and sift through thoughts from around the galaxy. [6]
+  Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 6; approximate match 0.79, verify; agrees with the entry's own ref marker]
+- Trained as a Jedi Guardian, he was known for Form V, especially Djem So. [1]
+  Source: Tiin, Saesee in the Databank (original site is defunct) [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 1; approximate match 0.83, verify; agrees with the entry's own ref marker]
+- He served the Jedi Starfighter Corps as an ace pilot. The page says his telepathy let him read minds and instinctively astrogate starfighters through hyperspace without a navigation computer. [1]
+  Source: Tiin, Saesee in the Databank (original site is defunct) [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 1; approximate match 0.77, verify; agrees with the entry's own ref marker]
+
+HYPE / QUALIFIED ASSESSMENTS (NOT TREATED AS FEATS)
+
+- “A renowned starfighter ace.” (Lead)
+- His flying skills are described as “astonishing.” [8]
+- He was said to be rivaled only by Anakin Skywalker in natural piloting skill. [1]
+  Source: Tiin, Saesee in the Databank (original site is defunct) [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 1; approximate match 0.86, verify; agrees with the entry's own ref marker]
+- The powers section calls his lightsaber prowess “exceptional.” [1]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Tiin's pre-fight claim that the four Jedi would suffice and could subdue Palpatine is recorded as his statement, not as proof that they could do so. [25]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+CONTINUITY / CAUTION
+
+- The loaded page is explicitly categorized as a Legends article and uses Legends continuity material, including citations to the Revenge of the Sith novelization in its behind-the-scenes section.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article also notes that the Power of the Jedi Sourcebook incorrectly states Tiin was killed at the First Battle of Geonosis. [30]
+  Source: Power of the Jedi Sourcebook [per Wookieepedia "Saesee Tiin/Legends" rev 15682399, ref 30; approximate match 0.88, verify; agrees with the entry's own ref marker]
+- The novelization variation is kept separate from the main encounter: it says Tiin switches places with Kolar in who is fatally wounded first; Palpatine asks Tiin what he is thinking, catches him off guard while Tiin tries to read his mind, and beheads him. [29]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

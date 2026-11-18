@@ -1,0 +1,6 @@
+Comic Vine Darth Vader / Anakin Skywalker respect-thread research
+Status: STOPPED — the candidate thread page returned an error.
+Search URL opened: https://comicvine.gamespot.com/search/?q=darth%%20vader%%20respect%%20thread&type=thread
+Candidate found: Darth Vader Respect Thread (Part 1) - Gen. Discussion
+Error: HTTP ERROR 500 — comicvine.gamespot.com is currently unable to handle this request (chrome-error://chromewebdata/).
+No feat extraction was made; no quotes were invented.

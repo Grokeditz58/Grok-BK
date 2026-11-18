@@ -1,0 +1,388 @@
+ANGRAL QUOTES FILE
+==================
+Subject: Darth Angral (Human Sith Lord; Star Wars: The Old Republic and The Old Republic: Deceived)
+Source: Wookieepedia article "Darth Angral" (Star Wars Fandom)
+Retrieved: 2026-10-10 (UTC)
+
+URL USED
+--------
+https://starwars.fandom.com/wiki/Darth_Angral
+Result: loaded directly, HTTP 200, page title "Darth Angral | Wookieepedia | Fandom". No 404, so the /Legends variant (https://starwars.fandom.com/wiki/Darth_Angral/Legends) was NOT used.
+
+ARTICLE COVERAGE
+----------------
+The full article text was read end to end: Biography (Great Galactic War, The Sacking of Coruscant, Unrest during the Treaty, Cold War, The Desolator Crisis, Uphrades and Showdown, Legacy), Personality and traits, Powers and abilities, Appearances, Sources, Notes and references, External links.
+The article has NO "Behind the scenes" section. Nothing was taken from one.
+The article carries a banner: "This article is in need of referencing per Wookieepedia's sourcing guidelines."
+Quotes below are verbatim from the article text. Quoted text keeps the article's own spelling and typos.
+
+CITATION KEY (article's Notes and references, numbered as in the article)
+------------------------------------------------------------------------
+[1]  STAR WARS: The Old Republic - Question ! :) - Page 3 (official SWTOR site, backup link)
+[2]  Star Wars: The Old Republic - Jedi Knight Mission: "Fate of the Jedi" on the Oppressor
+[3]  The Old Republic, Threat of Peace Act 1: Treaty of Coruscant
+[4]  Star Wars: The Old Republic - Jedi Knight Mission: "Race to the Ruins" on Coruscant
+[5]  Star Wars: The Old Republic - Jedi Knight Mission: "Facing Lord Nefarid" on Alderaan
+[6]  Book of Sith: Secrets from the Dark Side
+[7]  Star Wars: The Old Republic Encyclopedia
+[8]  The Old Republic: Deceived
+[9]  Deceived Cinematic Trailer (official SWTOR site)
+[10] The Old Republic, Threat of Peace Act 2: New Galactic Order
+[11] The Old Republic, Threat of Peace Act 3: Uncertain Surrender
+[12] Star Wars: The Old Republic - Jedi Knight Mission: "Desert Duel" on Tatooine
+[13] Star Wars: The Old Republic - Jedi Knight Mission: "Stolen Secrets" on Coruscant
+[14] Star Wars: The Old Republic - Jedi Knight Mission: "The Rescue" on Coruscant
+[15] Star Wars: The Old Republic - Jedi Knight Mission: "Tracking Down the Traitor" on Coruscant
+[16] Star Wars: The Old Republic - Jedi Knight Mission: "Missing Intelligence" on Ord Mantell
+[17] Star Wars: The Old Republic - Jedi Knight Mission: "Catching up with Watcher One" on Taris
+[18] Star Wars: The Old Republic - Jedi Knight Mission: "Uphrades" on Uphrades
+[19] Star Wars: The Old Republic - Sith Inquisitor Mission: "The Apprentice" on Taris
+
+NOTE ON CITATIONS: where the article has no citation on the exact sentence, the entry says so and names the nearest citation in the same paragraph.
+
+SECTION A - FEATS: BIOGRAPHY (Great Galactic War, Sacking of Coruscant, Unrest during the Treaty)
+==================================================================================================
+Format: Feat # | type | section | verbatim quote | article citations for that passage
+
+F01 | command | Biography > The Great Galactic War (Battle of Ziost)
+"the additional ships requested by Darth Angral drove the Republic fleet from Ziost's skies."
+Citations: this clause has no citation of its own; the same paragraph's citation is [7] (after the Marr clause).
+
+F02 | command (assignment) | Biography > The Sacking of Coruscant
+"Darth Angral was selected to personally lead the fleet that would attack the Republic capital of Coruscant in 3653 BBY"
+Citations: none on this sentence; the paragraph cites [3] and [8] on later sentences.
+
+F03 | command | Biography > The Sacking of Coruscant
+"Angral immediately directed his fleet to enter the Coruscant system, and the Sith began approaching the planet."
+Citations: none on this sentence; the paragraph cites [3] at the end of the next sentence.
+
+F04 | combat | Biography > The Sacking of Coruscant
+"After destroying Orbital Security Station Six, he landed on the surface near the Galactic Senate Building, where he was greeted by Jedi Master Orgus Din, who engaged him in combat."
+Citations: none in this paragraph.
+  Source: The Old Republic, Threat of Peace Act 1: Treaty of Coruscant [per Wookieepedia "Darth Angral" rev 15573681, ref 3; exact text match]
+
+F05 | combat (duel; outcome: Din escapes) | Biography > The Sacking of Coruscant
+"Angral quickly took the upper hand but Din escaped with his life after the duel was interrupted by a crashing Sith spacecraft."
+Citations: none in this paragraph. (The Powers and abilities section cites [3] for a restatement; see F25.)
+
+F06 | kill | Biography > The Sacking of Coruscant
+"Angral then stormed the Senate Building and attacked Supreme Chancellor Berooken, murdering him live on a holofeed to the Republic delegates on Alderaan,[3] slicing his head off.[7]"
+Citations: [3] (after "Alderaan") and [7] (after "slicing his head off."). Restated in the Lead as "killed Supreme Chancellor Berooken himself" (see R01).
+
+F07 | command / political effect | Biography > The Sacking of Coruscant
+"His attack forced the Republic diplomats on Alderaan to submit to the Sith's demands, and the Treaty of Coruscant was signed."
+Citations: [8] (end of sentence).
+
+F08 | command (intervention) | Biography > The Sacking of Coruscant
+"Angral ended the fight and sent Malgus away to find his lover, but kept Adraas in his offices in a clear showing of where his favor lay."
+Citations: [8] (end of sentence). Fight = Malgus vs Adraas duel.
+
+F09 | command | Biography > The Sacking of Coruscant
+"Via holotransmitter, Angral later ordered Malgus aboard the latter's flagship, the Valor, to take command of the Imperial blockade and secure the hyperspace lanes."
+Citations: [8] (end of sentence).
+
+F10 | command | Biography > The Sacking of Coruscant
+"The latter Sith Lord mentioned the news of Aryn Leneer and ordered the former to eliminate the young Jedi if she was indeed trying to get to Coruscant, while within his reach."
+Citations: [8] (paragraph's final citation: "...finish off the Jedi, anyway.[8]"). Note: the article says "the young Jedi" and does not name the Jedi at this point in the sentence; the same paragraph names Aryn Leneer as the Jedi who disappeared.
+
+F11 | Force (feat performed by Baras against Angral; outcome: Angral submits) | Biography > Unrest during the Treaty
+"Baras responded by saying he was following their emperor's orders, and blasted Angral with Force lightning, forcing him into submission."
+Citations: [3] (paragraph's final citation, "...never again be necessary.[3]").
+
+F12 | combat (brief duel with Baras; outcome: Baras ends fight) | Biography > Unrest during the Treaty
+"During a brief duel, Angral revealed that he had discovered that Baras was behind the disruption of the treaty. Baras ended the fight,"
+Citations: [11] (paragraph's final citation).
+
+F13 | combat (Dantooine ambush) | Biography > Unrest during the Treaty
+"Angral defended himself against Gall, Tavus, and Dalborra while Baras fought Dar'Nala."
+Citations: [11] (paragraph's final citation, "...to join the Sith.[11]").
+
+F14 | combat (attack; outcome: Angral is wounded by a grenade) | Biography > Unrest during the Treaty
+"During the battle, Angral tried to kill Tavus by throwing his lightsaber at him. Tavus managed to evade the attack and wounded the now vulnerable Sith Lord with a grenade."
+Citations: [11] (paragraph's final citation, "...at Dalborra's hands.[11]").
+
+F15 | combat (attack on Tavus after waking) | Biography > Unrest during the Treaty
+"Angral regained consciousness after Dar'Nala's death, and attacked Tavus."
+Citations: [11] (paragraph's final citation, "...declared his short-lived alliance with Baras over after their adversaries left.[11]").
+
+SECTION B - FEATS: COLD WAR, UPHRADES AND SHOWDOWN
+===================================================
+
+F16 | command | Biography > Cold War > The Desolator Crisis
+"Angral urged Tarnis to ignore the Knight's offer of surrender, and watched as his son unleashed a blast of violet lightning at the two Jedi."
+Citations: [4] (paragraph's final citation, "...against the Jedi and the Republic.[4]"). Note: the blast itself was Tarnis's action; Angral's own act in this sentence is the urging.
+
+F17 | command (order that fails) | Biography > Cold War > The Desolator Crisis
+"He ordered the agent to subdue the Knight to be shipped to Dromund Kaas with Gedora so he could execute the former himself, but Watcher One failed."
+Citations: [17] (end of paragraph, "...but Watcher One failed.[17]"). Article spells the scientist "Gedora" here; spelling kept verbatim.
+
+F18 | command | Biography > Cold War > The Desolator Crisis
+"Later, Angral ordered Lord Praven to use the Shock Drum superweapon to destroy Tatooine to kill his adversary, even destroy its deactivation code so the Knight's mission would end in failure if the Jedi managed to reach the superweapon."
+Citations: [12] (end of paragraph, "...in which he was redeemed.[12]"). Note: Praven disobeyed this order and made a new code for a duel with the Knight, per the same paragraph.
+
+F19 | command / attempt | Biography > Uphrades and Showdown
+"Angral then attempted to use the Desolator on Tython, aiming to finish the Jedi Order."
+Citations: [2] (paragraph's final citation, "...was no match for the two combined.[2]").
+
+F20 | combat (duel with Orgus Din aboard the Oppressor; Din overpowered) | Biography > Uphrades and Showdown
+"...but Angral was too strong and overpowered his enemy."
+Full sentence: "Master Orgus Din, who had earlier misled the Hero of Tython into believing he was after another objective, so his former Padawan wouldn't have a chance to join him, boarded the Oppressor and tried to stop the Sith Lord, but Angral was too strong and overpowered his enemy."
+Citations: [5] (paragraph's final citation, "...for the Republic to find.[5]").
+
+F21 | kill (Orgus Din) | Biography > Uphrades and Showdown
+"Angral then impaled his old nemesis, demanding to know if that belief was true, where was his son."
+Citations: [5] (paragraph's final citation).
+
+F22 | command / execution broadcast | Biography > Uphrades and Showdown
+"Angral broadcast Orgus' execution over the HoloNet and left the body floating in space at the edge of the Alderaan system for the Republic to find."
+Citations: [5] (paragraph's final citation).
+
+F23 | kill / mass destruction (weapon test) | Biography > Uphrades and Showdown
+"Angral tested his new weapon on the Republic's farm world of Uphrades, resulting in the planet's total destruction. Some civilians, on the other hand, managed to survive."
+Citations: [18] (after "managed to survive.") and [2] (for the next sentence: "Nevertheless, Angral used the genocide to draw the Knight to him.[2]").
+
+F24 | combat (duel with Jedi Knight and Padawan; outcome: Angral loses) | Biography > Uphrades and Showdown
+"Angral then dueled against both Jedi Knight and Padawan but was no match for the two combined."
+Citations: [2] (end of the same paragraph, "...was no match for the two combined.[2]").
+
+SECTION C - FEATS: PERSONALITY, LEAD, AND POWERS AND ABILITIES (restated feats)
+================================================================================
+These entries repeat events already in Section A/B or add a short restatement. Each is labeled.
+
+F25 | command (ordering a duel to stop) | Personality and traits
+"While making his headquarters in the late Supreme Chancellor's office on Coruscant, he ordered Adraas and Darth Malgus to stop their duel."
+Citations: [8] (end of sentence).
+
+F26 | kill (restatement of F06) | Lead
+"he led the Sacking of Coruscant and killed Supreme Chancellor Berooken himself."
+Citations: none in the lead sentence. Cited body text for the same event: [3], [7] (see F06).
+
+F27 | combat (restatement of F04/F05; Din escapes) | Powers and abilities
+"being able to quickly defeat Jedi Master Orgus Din, although prevented from finishing him off by an explosion which allowed Din to escape."
+Citations: [3] (paragraph's final citation, "...only to be quickly overpowered.[3]").
+
+F28 | combat (Angral attacks Baras and is overpowered) | Powers and abilities
+"Angral later attacked Darth Baras, after the latter had consulted the Dark Council, only to be quickly overpowered."
+Citations: [3] (same paragraph, end of paragraph).
+
+F29 | kill (restatement of F20/F21) | Powers and abilities
+"When Angral met up with Orgus Din again aboard the Oppressor, he defeated him once more, this time killing him."
+Citations: [5] (same paragraph, end of paragraph).
+
+FEAT TALLY: 25 primary feats (F01-F24 and F25 in Personality), 4 restatements (F26-F29). Total entries: 29. Restatements are counted separately so no feat is double-counted in the primary tally.
+Note: F25 is in the Personality section and is listed in the primary tally above.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+SECTION D - STATEMENTS ABOUT ANGRAL'S POWER (labeled STATEMENT, not feats)
+==========================================================================
+STATEMENT P01 | Powers and abilities
+"Darth Angral was skilled in lightsaber combat, as well as his knowledge of the Force"
+Citations: [3] (paragraph's final citation).
+
+STATEMENT P02 | Powers and abilities
+"He was also skilled in the art of saber throw."
+Citations: [11].
+
+STATEMENT P03 | Powers and abilities
+"Angral was adept at launching Force lightning at his opponents. He could combine this ability with Force whirlwind. He could even produce a lightning shield."
+Citations: [2] (end of paragraph).
+
+STATEMENT P04 | Powers and abilities (power relative to the Tython duo and the Emperor)
+"Despite all his skill, Angral was no match for the Hero of Tython and Kira Carsen. However, he was considered by the Emperor himself to be one of his more useful servants."
+Citations: [2].
+
+STATEMENT P05 | Personality and traits (intellect and scheming)
+"His bold and cunning plans were noted to be on par with those of Imperial Intelligence."
+Citations: [7]. Same paragraph, earlier sentence (no separate citation): "who went from a bloodthirsty warlord to a master schemer."
+
+STATEMENT P06 | Personality and traits (influence; quote by Bela Kiwiiks)
+"Darth Angral was the spark that lit the flame. Even in failure, he inspired the Sith to violence."
+Attributed in the article to: Bela Kiwiiks, speaking of Angral's influence on the Sith. Citations: [2].
+
+STATEMENT P07 | Personality and traits (control of minions)
+"Angral was not one to lead without controlling his minions."
+Citations: none on this sentence; the paragraph's nearest citation is [8] (after "...to stop their duel.").
+
+
+SECTION E - SCALING CONNECTIONS (who he fought, outcome, who killed him)
+========================================================================
+E01 | Jedi Master Orgus Din - Coruscant duel
+Fought: yes (Sacking of Coruscant, Senate Building landing area).
+Outcome: "Angral quickly took the upper hand but Din escaped with his life after the duel was interrupted by a crashing Sith spacecraft."
+Citations: none on that paragraph (see F05).
+
+E02 | Jedi Master Orgus Din - Oppressor
+Fought: yes (Uphrades and Showdown).
+Outcome: "but Angral was too strong and overpowered his enemy." Din killed: "Angral then impaled his old nemesis, demanding to know if that belief was true, where was his son."
+Who killed Din: Angral (the article states this directly).
+Citations: [5]. Powers and abilities restates it: "he defeated him once more, this time killing him." [5].
+
+E03 | The Jedi Knight / Hero of Tython (unnamed in the article; the article calls him "the Knight" and "the Hero of Tython") - Tython, Oppressor bridge
+Fought: yes (Uphrades and Showdown).
+Outcome: "Angral then dueled against both Jedi Knight and Padawan but was no match for the two combined."
+Angral's death in the same fight: "As the wounded Angral reached for his blade, the Emperor decided to take matters into his hands. He retook control of Kira and engaged the Knight, during which Angral died from his wounds. When the Knight announced this, the Emperor was disappointed."
+Citations: [2].
+Who killed Angral: the article does NOT name a killer. It says he "died from his wounds" while the Emperor (controlling Kira Carsen) engaged the Knight. The infobox gives "Died: 3643 BBY, Oppressor above Tython[2]".
+Related Knight-vs-Angral statement: "Despite all his skill, Angral was no match for the Hero of Tython and Kira Carsen." [2].
+
+E04 | Kira Carsen (Padawan of the Knight; possessed by the Emperor as one of his Children)
+Fought: yes, alongside the Knight on Tython (see E03).
+Quote: "the Voice of the Sith Emperor possessed Carsen as she was one of his Children, commanding Angral to destroy the Knight."
+Citations: [2] (Tython paragraph).
+
+E05 | The Knight vs Tarnis (Angral's son) - Jedi Temple, Coruscant
+Fought: Tarnis (not Angral) fought the Knight and Padawan.
+Outcome: "Angral became stricken with fury and grief when the Knight struck down his son."
+Citations: [4] (paragraph's final citation, "...against the Jedi and the Republic.[4]").
+
+E06 | Darth Baras - Force lightning, Korriban, Dantooine
+Fought: yes. Encounters described in the article: the Force lightning confrontation after the Treaty; the brief Korriban duel; the Dantooine ambush (Baras fought Dar'Nala there); and a later attack by Angral on Baras.
+Outcomes:
+ - "Baras responded by saying he was following their emperor's orders, and blasted Angral with Force lightning, forcing him into submission." [3]
+ - "During a brief duel, Angral revealed that he had discovered that Baras was behind the disruption of the treaty. Baras ended the fight," [11]
+ - "Angral later attacked Darth Baras, after the latter had consulted the Dark Council, only to be quickly overpowered." [3]
+Who killed Baras: not stated; the article does not describe Baras's death.
+Angral vs Baras rivalry: "By this time, Angral had developed an intense rivalry with fellow Sith Lord Darth Baras, who had been selected to represent the Empire at the negotiations." [3]
+
+E07 | Dantooine ambush: Fortris Gall, Harron Tavus, Dalborra, Dar'Nala (Jedi)
+Fought: yes (Angral vs Gall, Tavus, Dalborra).
+Outcome: "Angral defended himself against Gall, Tavus, and Dalborra while Baras fought Dar'Nala." Angral was then wounded by a grenade from Tavus: "Tavus managed to evade the attack and wounded the now vulnerable Sith Lord with a grenade."
+Dar'Nala: "This ultimately led to her murder at Dalborra's hands." (Dar'Nala killed by Dalborra, not Angral.)
+Citations: [11].
+
+E08 | Lieutenant/Republic soldier Harron Tavus - Dantooine
+See E07. Angral tried to kill him: "Angral tried to kill Tavus by throwing his lightsaber at him." Angral then "attacked Tavus" after regaining consciousness.
+Citations: [11].
+
+E09 | Darth Malgus - no duel with Angral in the article
+Fought Angral: no. Malgus and Adraas dueled; Angral ended it: "Angral ended the fight and sent Malgus away to find his lover, but kept Adraas in his offices in a clear showing of where his favor lay." [8]
+Angral's orders to Malgus: "ordered the former to eliminate the young Jedi if she was indeed trying to get to Coruscant, while within his reach." [8]
+Who killed Angral: the article does not say Malgus killed Angral. Malgus is not named in the Tython passage.
+
+E10 | Adraas - Coruscant
+Fought: Malgus "crossed blades with Adraas' own" in a duel that Angral ended. [8]
+Adraas: "Angral insisted that Adraas—by then a political ally of his—serve as Malgus' second-in-command over Malgus' protests." [8]
+
+E11 | Watcher One (Imperial Intelligence agent) - Taris, Coruscant
+Fought: Watcher One encountered the Knight on Taris (article's wording: "encountered the Knight on Taris in a race to find Doctor Nasan Godera").
+Outcome: "He ordered the agent to subdue the Knight to be shipped to Dromund Kaas with Gedora so he could execute the former himself, but Watcher One failed." [17]
+Citations: [17].
+
+E12 | Tyresius Lokai
+Article text: no mention of Tyresius Lokai anywhere in the article (checked against full text). No fight, outcome, or killing recorded for Lokai in this article.
+
+E13 | Who killed Angral (direct answer)
+Article answer: unnamed. Not Malgus, not Lokai, and not the Knight by explicit statement. The article's text says Angral "died from his wounds" in a fight where the Emperor, controlling Kira Carsen, "engaged the Knight." Citations: [2].
+
+
+SECTION F - RANK AND POSITION RELATIVE TO MALGUS, BARAS, ADRAAS AND THE DARK COUNCIL
+====================================================================================
+The article does not give a formal rank ladder. These are the article's own statements about standing and command.
+
+R01 | Angral's rank | Biography > The Great Galactic War
+"the man who assumed the Sith title of Darth Angral had already risen to the rank of Sith Lord within the Sith Empire by the second decade of the Great Galactic War against the Galactic Republic."
+Citations: none on this sentence. (Lead sentence also says "Darth Angral was a Human male Sith Lord serving the resurgent Sith Empire"; no citation.)
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Angral" rev 15573681 but it has no inline citation in its paragraph; exact text match)
+
+R02 | Dark Council and Adraas (over Malgus's head)
+"However, the Dark Council decided to send Lord Adraas to assist in their operations, angering Malgus by exhibiting a lack of trust in his and Venemal's chances."
+Citations: [6] (paragraph's final citation). Context: Malgus and Venemal led the Ord Radama attack.
+
+R03 | Malgus's standing with Angral and the Dark Council
+"The next year, the Sith Emperor himself ordered Darth Malgus to recapture Ord Radama"
+"The Reconquest of Ord Radama, as the second battle came to be known, lasted over 50 days, costing Malgus favor with Angral and the Dark Council because of the slow pace of the conflict."
+Citations: [6].
+
+R04 | Angral over Malgus at Coruscant (command and Adraas as second)
+"Darth Malgus was chosen to lead a smaller strike force that would be dispatched to the Jedi Temple before Angral's arrival, though Angral insisted that Adraas—by then a political ally of his—serve as Malgus' second-in-command over Malgus' protests."
+Citations: [8] (paragraph's final citation for the Malgus clause).
+
+R05 | Adraas over Malgus in Angral's office
+"Unknown to Malgus, Adraas had beaten him to Angral's command post, and the inferior Lord's presence made the meeting into a major embarrassment for Malgus."
+Citations: none on this sentence; the paragraph's citation is [8].
+Note: the article's word "inferior" is not defined beyond this sentence; it refers to Adraas in the context.
+
+R06 | Angral sides with Adraas over Malgus
+"Angral ended the fight and sent Malgus away to find his lover, but kept Adraas in his offices in a clear showing of where his favor lay."
+Citations: [8].
+
+R07 | Malgus's standing among his contemporaries
+"The angered Sith was unpracticed in Imperial politics unlike his two contemporaries, who hoped to use Darth Malgus' love for the Twi'lek, Eleena Daru, and disapproval of the Emperor's policies as political leverage against him."
+Citations: [8] (same paragraph).
+
+R08 | Baras as peer and rival
+"By this time, Angral had developed an intense rivalry with fellow Sith Lord Darth Baras, who had been selected to represent the Empire at the negotiations."
+Citations: [3].
+
+R09 | Baras and the Dark Council
+"Sometime later, he learned that Baras was trying to frame him by telling the Dark Council that he was behind the disruption of the treaty."
+Citations: [11].
+Also: "Angral later attacked Darth Baras, after the latter had consulted the Dark Council, only to be quickly overpowered." [3]
+
+R10 | Angral and the Dark Council (obedience)
+"He wanted to see the Jedi and Republic be destroyed, but he knew that he had to obey the Dark Council, even if it meant keeping peace with the enemy, which disgusted him."
+Citations: [3] (paragraph's citation after "disgusted him.").
+
+R11 | Dark Councilor Marr (named in the Ziost passage; not ranked against Angral)
+"The Dark Councilor Marr proved instrumental in shattering the Republic offensive,"
+Citations: [7]. Marr is not named as ranked above or below Angral in the article.
+
+R12 | Adraas and the Dark Council on Ord Radama (for context)
+"However, the Dark Council decided to send Lord Adraas to assist in their operations" [6] (see R02).
+
+SECTION G - DIRECT ANGRAL vs MALGUS COMPARISONS (quoted)
+=======================================================
+G01 | Relative force size
+"Darth Malgus was chosen to lead a smaller strike force that would be dispatched to the Jedi Temple before Angral's arrival, though Angral insisted that Adraas—by then a political ally of his—serve as Malgus' second-in-command over Malgus' protests."
+Citations: [8].
+
+G02 | Relative attitude toward the Jedi and the Treaty of Coruscant (direct comparison)
+"Unknown to Malgus, Angral wanted to see the Jedi destroyed as much as he did and held no favor for the treaty,[3][4] but the superior Sith Lord most likely kept this to himself."
+Citations: [3][4] (same sentence). Note: "the superior Sith Lord" refers to Angral in this sentence.
+Context: "...he did" refers to Malgus. The article states that Malgus was not aware of this.
+
+G03 | Malgus against his contemporaries (Angral and Adraas)
+"The angered Sith was unpracticed in Imperial politics unlike his two contemporaries, who hoped to use Darth Malgus' love for the Twi'lek, Eleena Daru, and disapproval of the Emperor's policies as political leverage against him."
+Citations: [8].
+
+G04 | Angral's favor vs Malgus's favor
+"The Reconquest of Ord Radama, as the second battle came to be known, lasted over 50 days, costing Malgus favor with Angral and the Dark Council because of the slow pace of the conflict."
+Citations: [6].
+
+G05 | Angral vs Malgus in the Sith hierarchy (command)
+"Via holotransmitter, Angral later ordered Malgus aboard the latter's flagship, the Valor, to take command of the Imperial blockade and secure the hyperspace lanes."
+Citations: [8]. Note: the article says Malgus "felt that this was insulting after his significant victory in the Jedi Temple, but nonetheless obeyed.[8]"
+
+No other sentence in the article directly compares Angral and Malgus. Comparisons with Adraas and Baras are in Section F.
+
+
+SECTION H - COMIC VINE RESPECT THREAD SEARCH (separate heading)
+==============================================================
+Search performed 2026-10-10 (UTC): Comic Vine site search for "darth angral" with the forum filter, then web search for site:comicvine.gamespot.com "Darth Angral" "respect thread" and "Darth Angral" "Respect Thread" comic vine.
+
+RESULT: NO dedicated Darth Angral respect thread was found. No Comic Vine page titled as an Angral respect thread loaded, so no quotes were added from one.
+The Comic Vine site-search page returned unrelated results (for example, entries for the letter "A"), not an Angral thread.
+
+Comic Vine pages that mention Angral in their titles or snippets (NOT Angral respect threads; no quotes taken from them):
+- "Hero of Tython Respect Thread" (Comic Vine blog by ShootingNova). Snippet mentions Darth Angral. Not an Angral thread.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- "Darth Baras Respect Thread" (Comic Vine blog by ShootingNova; also a forum version). Snippet mentions Angral. Not an Angral thread.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- "The Complete Darth Malgus Respect Thread" (Comic Vine blog by Darthor). Snippet mentions Angral. Not an Angral thread.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- "Lord Adraas [ The Old Republic ] Respect Thread" (Comic Vine forum). Snippet says Adraas was Angral's favorite. Not an Angral thread.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- "Darth Angral vs Darth Malgus - Battles" (Comic Vine forum, battles board). A battle thread, not a respect thread. Not used.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Status: none exists in these results, so the file has no Comic Vine quotes under this heading.
+
+FINAL CHECK SUMMARY (this file)
+===============================
+Feat entries: F01-F29 (25 primary + 4 restatements). Quotes above are verbatim from the article text.
+Statements about power: P01-P07.
+Scaling entries: E01-E13.
+Rank entries: R01-R12.
+Angral vs Malgus comparisons: G01-G05.
+Comic Vine: none found (Section H).
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

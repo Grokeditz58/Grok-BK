@@ -1,0 +1,84 @@
+Wookieepedia extraction: Obi-Wan Kenobi/Legends
+Final URL: https://starwars.fandom.com/wiki/Obi-Wan_Kenobi/Legends
+Scope: Article text reviewed through “Notes and references”; the article is flagged as needing updates and referencing. Claims below are limited to what this article states. Inline source names are the article’s cited references.
+
+HOW TO READ THIS FILE
+- “Feat” = an action or result the article attributes to Kenobi.
+- “Statement/scaling” = the article’s characterization, comparison, or someone’s opinion; not a standalone feat.
+- “Hype/quote” is retained as a statement, not treated as proof of power.
+
+ARTICLE-WIDE SUMMARY / SCALING
+[Statement/scaling] The lead says Kenobi became the first Jedi in approximately 1,000 years to defeat a Sith Lord (the Naboo duel with Darth Maul). Source cited by the article: Star Wars: Episode I The Phantom Menace.
+[Statement/scaling] “Powers and abilities” says he was “one of the greatest swordsmen and Force users in Jedi history,” and that he would prove “one of the greatest Jedi of all time.” It also says Ahsoka Tano judged his Force presence similar to Anakin Skywalker’s, though dimmer (Clone Wars Gambit: Stealth), and that Vader considered him the final and greatest of the Jedi (A New Hope novelization). These are article/source statements, not discrete feats.
+  Source: Clone Wars Gambit: Stealth ; Dark Empire endnotes [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 221,222; exact text match]
+[Statement/scaling] Anakin is quoted as calling Obi-Wan “as powerful as Master Windu” (Attack of the Clones). The article also says Anakin compared Kenobi to Mace Windu in Force power. This is a character comparison, not a demonstrated feat.
+  Source: Star Wars: Episode II Attack of the Clones [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 21; exact text match]
+
+LIGHTSABER TRAINING (article section: “Powers and abilities” > “Lightsaber training”)
+[Feat] As a young Jedi, Kenobi defeated corrupted Bruck Chun in a lightsaber duel (Jedi Apprentice: The Captive Temple).
+[Statement/scaling] The article calls him one of the greatest lightsaber duelists of his time, says his damage output could make him mistaken for an army, and says his skills were enhanced by the Force (Revenge of the Sith novelization; Obsession 1; Star Wars Roleplaying Game Core Rulebook). The “mistaken for an army” line is hype/description, not a literal army-level feat.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+[Feat/skill] He trained in Ataru, later studied Shien and Niman, and made Soresu his primary form. After ten years of Form III study, the article credits his tight, efficient defense with standing up to Jango Fett and chaotic Geonosis firefights (Attack of the Clones).
+[Feat] By the end of the Clone Wars, the article says his Soresu was absolute mastery; he could ground Dooku’s Force lightning with his lightsaber, and Mace Windu regarded him as “the” master of Soresu (Attack of the Clones; Revenge of the Sith novelization).
+[Feat] In the article’s description of the Utapau duel, his Soresu countered up to 18 of Grievous’s strikes per second; when Grievous intensified the attack, Kenobi changed parry angles and cut off two mechanical hands (Revenge of the Sith novelization).
+[Feat] He was proficient enough with Jar’Kai to hold his own against Maul and Savage Opress together; he broke Opress’s left knee and severed his left arm. The article says the duel ended in a stalemate after Maul used the Force to briefly incapacitate him (The Clone Wars: “Revival”).
+
+NAMED DUELS / OPPONENTS
+
+Darth Maul — Battle of Naboo (32 BBY), article sections “Meeting Anakin Skywalker” and “The Battle of Naboo and aftermath”
+[Feat] After Qui-Gon Jinn was killed, Kenobi fought Maul, cut Maul’s double-bladed saber in two, survived being Force-pushed into an energy pit, pulled himself up with the Force, called Jinn’s fallen lightsaber to his hand, and cut Maul in half (The Phantom Menace; The Wrath of Darth Maul).
+[Statement/scaling] The article says the Jedi Council was impressed that Kenobi bested a Sith who had not appeared for a millennium, and that this duel served as his Jedi Trials. This is historical/scaling context, not a separate feat.
+  Source: Star Wars: Episode I The Phantom Menace [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 17; approximate match 0.70, verify]
+
+Jango Fett — Kamino (22 BBY), article section “Beginning of the Clone Wars”
+[Feat/result] Kenobi attempted to apprehend Jango Fett in a fierce fight while Boba Fett fired on him from Jango’s ship; Jango escaped to Geonosis. The article later says that during the Kamino duel Kenobi was briefly deprived of his lightsaber and fought Jango unarmed (Attack of the Clones).
+[Feat] The article says Kenobi used Force-stick while holding a rope anchored against Jango’s jetpack, yanking Jango down (Attack of the Clones novelization).
+[Statement/skill] The article says ten years of Soresu study served him against “masterful gunslingers such as Jango Fett.” This is the article’s characterization of the matchup, not a claim that Kenobi defeated Jango.
+  Source: Star Wars: Episode II Attack of the Clones [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 21; exact text match]
+
+Count Dooku — Geonosis (22 BBY), article section “Battle of Geonosis”
+[Feat/result] Kenobi faced Dooku alone after Anakin was disabled by Force lightning. Kenobi deflected Dooku’s attacks and lightning for a time, but Dooku eventually cut his leg and shoulder and brought him down; Anakin blocked the death blow (Attack of the Clones).
+[Statement/scaling] The article explicitly says Kenobi had never encountered such power in battle and had been “completely overpowered” (Legacy of the Jedi). This is the article’s cited assessment of the loss, not a feat for Kenobi.
+  Source: Legacy of the Jedi [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 90; per-sentence approximate match (1/2 sentences matched, min 0.62), verify]
+
+Count Dooku — Battle of Coruscant (19 BBY), article section “Battle of Coruscant”
+[Feat/result] Fighting alongside Anakin, Kenobi and Skywalker initially used lesser styles to lull Dooku, then switched styles and overwhelmed him together. Kenobi handled the super battle droids, but Dooku then Force-choked him, hurled him aside, and brought part of a balcony down on him, leaving him unconscious and injured (Revenge of the Sith).
+[Statement/scaling] The article says Kenobi’s developed Soresu was so incredible that Mace Windu considered it the true mastery of Form III; it says Kenobi seemed capable of besting Dooku, but Dooku remained “a tad superior.” These are article/source assessments, not standalone feats.
+  Source: Star Wars: Episode III Revenge of the Sith [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 14; per-sentence approximate match (1/2 sentences matched, min 0.82), verify]
+
+General Grievous — Saleucami, Kamino, and Utapau
+[Feat] At Saleucami, Kenobi dueled Grievous aboard a cruiser; the article says Kenobi had the upper hand and Grievous retreated to his destroyer. Kenobi later caught up with him on the surface, but Grievous fled when a shuttle arrived (The Clone Wars: “Grievous Intrigue” and “The Deserter”).
+[Feat/result] At Kamino, Kenobi and Grievous dueled until an assault craft destroyed their platform. Grievous thought he had defeated Kenobi, but an aiwha saved the Jedi; Grievous escaped (The Clone Wars: “ARC Troopers”).
+[Feat] At Utapau, Kenobi defeated Grievous’s bodyguards, cut off two of Grievous’s four mechanical hands, pursued him, and killed him by shooting him through the gutsack with Grievous’s own blaster (Revenge of the Sith).
+[Statement/hype] Before the Saleucami encounter, Grievous says, “The story of Obi-Wan Kenobi ends here.” The article presents this as Grievous’s line immediately before the fight, not as a feat or reliable scaling.
+  Source: Star Wars: The Clone Wars — "Grievous Intrigue" [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 146; exact text match]
+
+Anakin Skywalker / Darth Vader — Mustafar (19 BBY), article section “Duel on Mustafar” plus “Lightsaber training”
+[Feat] Vader’s Djem So drove Kenobi backward, but could not penetrate Kenobi’s Soresu. Kenobi traded parries and physical blows, deflected Vader’s Force blasts, briefly dominated Vader’s mechanical hand with the Force, and reached near parity with Vader in their Force-push struggle (Revenge of the Sith; Revenge of the Sith novelization).
+[Feat/result] Kenobi used battlefield position and Soresu/Sokan principles to tire Vader, then cut off Vader’s left arm and both legs when Vader made the final leap. He did not execute the disarmed opponent (Revenge of the Sith).
+[Statement/scaling] The article says Vader’s connection to the Force at that time was stronger than that of any living Force user except Yoda and Sidious, and uses Kenobi’s Force-push parity as an example of Kenobi’s mastery. This is the article’s own scaling claim, not an independent measurement.
+  Source: Star Wars: Episode III Revenge of the Sith [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 14; per-sentence approximate match (1/2 sentences matched, min 0.63), verify]
+[Statement/character opinion] The article says Vader praised/acknowledged Kenobi’s skill in their later Death Star encounter and used a cautious, controlled assault. Treat this as Vader’s assessment, not a feat.
+  Source: Star Wars: The Force Unleashed novelization [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 234; approximate match 0.61, verify]
+
+Darth Vader — Death Star (0 BBY), article section “Last stand on the Death Star”
+[Feat/result] After roughly 17 years without dueling (apart from his victory over A’Sharad Hett), the article says Kenobi still predicted Vader’s attacks, countered them, and briefly forced Vader onto the defensive with a flurry. Kenobi ultimately chose to sacrifice his physical self so Luke and the others could escape; Vader’s strike passed through the vanished body (The Force Unleashed novelization; Fightsaber; A New Hope).
+[Statement] Kenobi says he is “more powerful than ever” after becoming a Force ghost. This is a character statement, not a directly demonstrated combat feat.
+  Source: Star Wars: Episode IV A New Hope [per Wookieepedia "Obi-Wan Kenobi/Legends" rev 15682376, ref 4; per-sentence approximate match (1/2 sentences matched, min 0.83), verify]
+
+OTHER CONCRETE FORCE / COMBAT FEATS (article section: “Powers and abilities”)
+[Feat] Kenobi used Force push to destroy or scatter droid units, including a whole squad; on the Malevolence he hurled shielded destroyer droids back into ball form and through other droids/off bridges. He repeatedly Force-pushed Ventress, Maul, and Grievous (Episode I Adventures 13; The Clone Wars episodes “Destroy Malevolence,” “The Hidden Enemy,” “Revenge,” “Revival,” “ARC Troopers,” and “Grievous Intrigue”).
+[Feat] He lifted a speeder and threw it over his head; used the Force to pull objects and open/close doors; and used Force-stick to anchor himself to Jango’s jetpack (The Clone Wars: “Bounty Hunters”; Attack of the Clones novelization).
+[Feat] He walked unscathed through what the article calls hornet-swarms of blasterfire, deflecting blasts from all directions; he also deflected fire from six destroyer droids, though he barely held out until Anakin crushed them (Revenge of the Sith novelization; Life and Legend).
+[Feat] He calmed and controlled a large group of starved, attacking gutkurrs on Ryloth, and as Ben made a krayt dragon sleep to protect Luke (The Clone Wars: “Storm Over Ryloth”; Life and Legend).
+[Feat] He used Force repulse from inside Durge to destroy Durge’s body (Durge survived), after first deflecting bullets without a lightsaber; he also endured an electrostaff strike from Grievous with Tutaminis (Clone Wars “Chapter 9”; Revenge of the Sith).
+[Feat] He was strong enough to break Savage Opress’s already-weakened knee with a kick while holding off both Maul and Opress’s weapons in a saber lock (The Clone Wars: “Revival”; Qui-Gon and Obi-Wan: The Aurorient Express).
+[Feat] He defeated Durge in single combat twice during the Battle of Muunilinst (Clone Wars “Chapter 9”), and the article credits him with personally leading Republic forces to victories including Muunilinst and Utapau.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+OTHER NAMED OPPONENT
+[Feat] In the 17 BBY Tatooine duel with A’Sharad Hett, Kenobi cut off Hett’s right arm and removed his mask, but refused to kill the unarmed opponent; Hett later became Darth Krayt (Legacy (2006) 16). This is a concrete victory, but the article does not present Hett as an equal to the named Sith opponents above.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+REFERENCE CHECK
+The article’s “Notes and references” section was reached and scrolled through. It contains 265 numbered citation entries and links back to the inline citations used above, including the films, novelizations, Clone Wars episodes, comics, RPG/sourcebooks, and reference books.

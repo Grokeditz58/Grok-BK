@@ -1,0 +1,126 @@
+{
+ "patch": "egc1995-quote-QA-PATCHv3a-2026-11-09",
+ "created": "2026-11-09T18:30-06:00",
+ "target_pr": "PR2 (unmerged); base dbfdfb0de6e5a657af98ad1518d6652ecc011714",
+ "apply": "overlay repo-relative paths onto repo root; replaces 5 existing JPGs, adds 1 audit md",
+ "scope": "5 confirmed-BAD EGC1995 crops only",
+ "assets": [
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p093-kenobi-final-goodbye.jpg",
+   "printed_page": "93",
+   "scan_page": 102,
+   "pdf_page": 102,
+   "opening": "The final time Luke saw his mentor was",
+   "ending": "the Jedi, but “the first of the new.”",
+   "target_verbatim": "The final time Luke saw his mentor was in the Imperial Palace on Coruscant—once the throne of the Empire. Ben appeared to him as he slept, though Kenobi assured Luke he was not a dream. “The distances separating us have become too great for me to appear to you in any other way. Now, even that path is closed to me,” he added. Obi-Wan bid the young Jedi good-bye, adding, “I loved you as a son, and as a student, and as a friend. Until we meet again, may the Force be with you.” And then, as he disappeared forever, he told Luke to think of himself not as the last of the Jedi, but “the first of the new.”",
+   "method": "re-extracted native 200dpi PDF page image; OCR line-box locate; recrop full passage",
+   "read_verified_final_file": true,
+   "prior_defect": "Coruscant goodbye not visible; right column only edge slivers ('Skywalk','Ben’s v','Don’t g'); left ended 'Yavin Four. As'",
+   "sha256_previous": "2c896612906d4dfbac3f40b13c9d47f01e38b74ef185b3b096456026dd9ac3fa",
+   "sha256_new": "a96d9165d93d0ab1f518e87736bc9c9b504348f3a8eab69a28386e2f2814bbc7",
+   "bytes": 92326,
+   "remaining_defects": "none"
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p051-kyp-exar-kun-seduction.jpg",
+   "printed_page": "51",
+   "scan_page": 60,
+   "pdf_page": 60,
+   "opening": "Back at the Rebel base on Coruscant, Luke",
+   "ending": "Massassi temple. Durron began secretly training with Kun.",
+   "target_verbatim": "Back at the Rebel base on Coruscant, Luke Skywalker tested Kyp’s Jedi power potential. What he discovered was the strongest Force presence he had known since his Masters, Obi-Wan Kenobi and Yoda. Luke invited Kyp to join him as a Jedi trainee on the moon of Yavin Four. Although his skills were great, Kyp felt they were not enough. In Daala’s dungeon at the Maw, he had promised himself that he would never again be weak. Between his impatience and desire for revenge against the Empire, he was ripe pickings for a servant of the dark side: Exar Kun, the long-dead Dark Lord of the Sith, whose spirit was trapped in a Massassi temple. Durron began secretly training with Kun.",
+   "method": "re-extracted native 200dpi PDF page image; OCR line-box locate; recrop full passage",
+   "read_verified_final_file": true,
+   "prior_defect": "top line sliced at 'rebel base invited Kyp…Yavin Four'; Coruscant sentences not intact; bottom stopped 'landing atop the Massassi'",
+   "sha256_previous": "2fe0884a804aea9135547dc361625067e8ce87423930769bba03046b92402086",
+   "sha256_new": "3a3d0df2602804bf9d2d96e69c26d0506d74b5d8e7f7dc716ca12694c24afd2b",
+   "bytes": 116720,
+   "remaining_defects": "none"
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p140-scan149-luke-steps-off-platform.jpg",
+   "printed_page": "140",
+   "scan_page": 149,
+   "pdf_page": 149,
+   "opening": "But the worst was yet to come, as",
+   "ending": "he calmly stepped off the platform and fell.",
+   "target_verbatim": "But the worst was yet to come, as Vader told him the truth of his past that Ben Kenobi had hidden from him: “I am your father,” he said solemnly. “Search your feelings. You know it to be true.” Vader told Luke that they could overthrow the Emperor and rule the galaxy together as father and son. Luke didn’t even reply. Looking sadly at the monster his father had become, he calmly stepped off the platform and fell.",
+   "method": "re-extracted native 200dpi PDF page image; OCR line-box locate; recrop full passage",
+   "read_verified_final_file": true,
+   "prior_defect": "only left-edge line endings ('epped off','pipe and')",
+   "sha256_previous": "9439db201528c7f1171c0815aa750697585d00cc743c9ad5b3ad51c2b5c49e88",
+   "sha256_new": "2967bf0858ffb8c8c4393a85c63cd91de11ac8ebba43966d40fa9e2ff7854d4e",
+   "bytes": 63260,
+   "remaining_defects": "none"
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p142-scan151-exar-kun-spirit-defeated.jpg",
+   "printed_page": "142",
+   "scan_page": 151,
+   "pdf_page": 151,
+   "opening": "But the evil spirit of Dark Lord of",
+   "ending": "energies of the Jedi extinguished Kun’s dark light.",
+   "target_verbatim": "But the evil spirit of Dark Lord of the Sith Exar Kun was trapped on Yavin Four. Kun first tempted Gantoris, but the student turned on him and was killed. Later, Kyp Durron would be seduced by Kun’s promises of power. The boy helped the Dark Lord attack Luke, leaving the Jedi Master’s body comatose. Luke’s spirit survived in the same netherworld Exar Kun’s shade inhabited. Luke soon found out that Kun had become adept at using the dark side of the Force to influence the living world. Over the following weeks, Kun used his powers to try to destroy Luke’s body, but it was protected by the Jedi initiates, Leia, and her two Force-strong twin children, Jacen and Jaina. Finally, the initiates lured Exar Kun to appear in the grand audience chamber where Luke’s body lay in repose. Joined by Jacen and Jaina, they focused their will into a single entity of the Force, and Luke’s spirit appeared to aid them, as did Vodo-Siosk Baas’s spirit. Their combined powers and energies of the Jedi extinguished Kun’s dark light.",
+   "method": "native 200dpi; OCR locate; 3 numbered stacked PARTS (left col full-width lines; art-wrapped narrow lines; middle col continuation)",
+   "read_verified_final_file": true,
+   "prior_defect": "column stopped at 'Over the following'; continuation in middle column missing",
+   "sha256_previous": "6f3aba25c65705292fe810bc56685c25518835bd44834148647d6769a64b199d",
+   "sha256_new": "2be5fbb77efaafe48ab0e3f5a8d0d09fe9df32762504fd2376a63941af9cf1d3",
+   "bytes": 195996,
+   "remaining_defects": "none"
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p179-scan188-anakin-forgiveness-freed.jpg",
+   "printed_page": "179",
+   "scan_page": 188,
+   "pdf_page": 188,
+   "opening": "Anakin’s spirit did appear again, though this time",
+   "ending": "had once been Darth Vader, was finally freed.",
+   "target_verbatim": "Anakin’s spirit did appear again, though this time it was to Leia in her suite on Bakura. He begged her forgiveness, trying to take away her anger. “Anger is the dark side,” he cautioned, adding, “I do not ask for absolution. Only your forgiveness.” Leia didn’t want to listen, refusing to forgive the man who had tortured her, helped destroy her world, and frozen Han in carbonite. Anakin disappeared, telling her he would never be able to see her again, but that he would hear her if she called. Eventually, in the heat of the Bakuran battle, Leia did come to at least forgive her father. Even if she would never forget, every world she took from the Empire would help ease the pain of her memories. In that forgiveness, Anakin Skywalker, the man who had once been Darth Vader, was finally freed.",
+   "method": "re-extracted native 200dpi PDF page image; OCR line-box locate; recrop full passage",
+   "read_verified_final_file": true,
+   "prior_defect": "forgiveness/freed paragraph absent; only right-edge slivers ('breathe','goodnes','Skywalke','prised by','Yoda and')",
+   "sha256_previous": "8fd4bfd45e97ecdda8cce47187ccafcb112d21e24fd4289edf3da53a4affd351",
+   "sha256_new": "99043de483eb9cbd85372c50c569454f2f0f1acb0be8143c05fd587ce47c0811",
+   "bytes": 123625,
+   "remaining_defects": "none"
+  }
+ ],
+ "files": [
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/AUDIT-QUOTE-QA-PATCHv3a-2026-11-09.md",
+   "sha256": "712398924a9cca671e7c16cde22e6af90e63b3bcf31206c3d5644833ad2205d4",
+   "bytes": 7961
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p093-kenobi-final-goodbye.jpg",
+   "sha256": "a96d9165d93d0ab1f518e87736bc9c9b504348f3a8eab69a28386e2f2814bbc7",
+   "bytes": 92326
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p051-kyp-exar-kun-seduction.jpg",
+   "sha256": "3a3d0df2602804bf9d2d96e69c26d0506d74b5d8e7f7dc716ca12694c24afd2b",
+   "bytes": 116720
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p140-scan149-luke-steps-off-platform.jpg",
+   "sha256": "2967bf0858ffb8c8c4393a85c63cd91de11ac8ebba43966d40fa9e2ff7854d4e",
+   "bytes": 63260
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p142-scan151-exar-kun-spirit-defeated.jpg",
+   "sha256": "2be5fbb77efaafe48ab0e3f5a8d0d09fe9df32762504fd2376a63941af9cf1d3",
+   "bytes": 195996
+  },
+  {
+   "path": "notes/materials/147-essential-guide-to-characters-1995/quotes/egc1995-p179-scan188-anakin-forgiveness-freed.jpg",
+   "sha256": "99043de483eb9cbd85372c50c569454f2f0f1acb0be8143c05fd587ce47c0811",
+   "bytes": 123625
+  }
+ ],
+ "unchanged_provenance": {
+  "sealed_EOF_147": "0f4272f24e68db714c6d99f8f00752abb4f3c798c610bb7983fc024814cd606b",
+  "old_patch_147": "83a2122dadf090c43122113ac32e5a814959f8c7305e212f3f807af56b9f7a91",
+  "old_patch_148": "5176973d36d2a8f96519d63ed5c67b6705783c98416d99a4357cb000850ce123"
+ }
+}

@@ -1,0 +1,472 @@
+Darth Malgus — Legends feat/statement extraction
+Source: https://starwars.fandom.com/wiki/Darth_Malgus (article text reviewed through “Notes and references”; navigation, appearances, and trivia without a feat omitted.)
+
+Format: [FEAT] is a concrete action/result. [STATEMENT] is an article or character statement. [HYPE/OPINION — NOT A FEAT] is explicitly treated as assessment, reputation, prediction, or character opinion. Article citation markers are retained exactly as shown.
+
+=== Biography — Early life ===
+
+[STATEMENT]
+“Veradun was a Force-sensitive Human male born in the year 3700 BBY[2] on the planet Dromund Kaas, the capital of the reconstituted Sith Empire.[1]”
+Scaling/connection stated by the article: None beyond identifying him as Force-sensitive and born on Dromund Kaas.
+  Source: Star Wars: The Old Republic Encyclopedia ; Darth Malgus on The Old Republic Holonet (original site is defunct) [per Wookieepedia "Darth Malgus" rev 15641609, ref 2,1; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT]
+“The young boy also participated in lessons on the Force with a number of instructors, all of whom recognized his great potential in the Force.[8]”
+Scaling/connection stated by the article: His instructors’ assessment is potential, not a demonstrated feat; treat as hype/assessment rather than a feat.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Sometime in his youth, a female Twi'lek servant on the estate of Veradun's father committed a minor offense. Although the offense itself was meaningless to Veradun, he killed the woman to prove to himself that he was capable of doing so.”
+Scaling/connection stated by the article: None.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match]
+
+=== Biography — The Recapture of Korriban ===
+
+[FEAT]
+“While Vindican engaged the Zabrak Jedi Master Kao Cen Darach in battle, Malgus attacked Darach's Padawan Satele Shan. The Sith easily overpowered the younger Human at first, but a toss of Darach's lightsaber put Malgus on the defensive and allowed Shan to regain her footing.”
+Scaling/connection stated by the article: Malgus is directly scaled to Padawan Satele Shan in this encounter; the article says he initially overpowered her, then lost that advantage when Darach’s lightsaber was thrown.
+  Source: "Return" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 11; exact text match]
+
+[FEAT]
+“Despite the fall of Malgus' master, the younger Sith summoned his master's double-bladed lightsaber to his hand and charged Darach, batting aside the chunks of machinery and metal that the Jedi threw at him. Knocking Shan's saberstaff from Darach's grasp and battering down the Zabrak's defenses, Malgus brought the duel to a close when he cut down the Jedi Master.[11]”
+Scaling/connection stated by the article: Kao Cen Darach is identified as a Jedi Master/Zabrak Battlemaster who had defeated or injured Vindican; Malgus nevertheless defeated and killed Darach while also removing Shan’s weapon from the exchange.
+  Source: "Return" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 11; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus was surprised to find that his master was still alive, and mocked Vindican for his failure to prevent the survivors' escape before decapitating the pureblood Sith as they watched the Sith armada descend on Korriban.[11]”
+Scaling/connection stated by the article: Vindican was Malgus’s Sith Master and had been wounded by Darach; the article does not present this as a fresh duel.
+  Source: "Return" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 11; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT — CHARACTER OPINION/VISION]
+“After the battle, Malgus walked alone on Korriban's surface and experienced a Force vision in which the galaxy and the Republic burned. From then on, Malgus believed that he would be responsible for the fall of the Republic and its Jedi Order.[3]”
+Scaling/connection stated by the article: This is Malgus’s vision and belief, not a confirmed future feat.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — The Battle of Alderaan ===
+
+[FEAT]
+“Taking on the full name Darth Malgus, he was selected to personally lead Imperial forces in a surprise attack on the peaceful planet of Alderaan in the Core Worlds. Timing his attack to coincide with an Imperial feint to draw the Republic fleet far from the Core, Malgus landed thousands of assault droids and Imperial troopers accompanied by hundreds of Sith on Alderaan's surface after the Empire completed a vicious orbital bombardment.[17]”
+Scaling/connection stated by the article: This is a military-command feat; the article specifies the scale as thousands of droids/troopers and hundreds of Sith, but does not scale Malgus’s personal power to the whole force.
+  Source: "Hope" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 17; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus was able to protect himself against the explosions, though they scarred his face, and the Sith unleashed a blast of lightning to subdue Malcom when the trooper rushed him.”
+Scaling/connection stated by the article: He endured several rockets/explosions and then used Force lightning on Commander Jace Malcom.
+  Source: "Hope" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 19; exact text match]
+
+[FEAT]
+“As their duel continued, Malgus was able to cut Shan's new saberstaff in half, forcing her to block Malgus's lightsaber blade with her bare hands by absorbing the weapon's energy.”
+Scaling/connection stated by the article: Direct combat scaling to Jedi Knight Satele Shan in the Alderaan duel.
+  Source: "Hope" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 19; exact text match]
+
+[FEAT]
+“The resulting explosion threw Malcom backwards, while Malgus was able to withstand the blast despite scarring to his face. Shan then chose this moment to blast Malgus with the Force, throwing him into a nearby cliffside and then unleashing a second, more powerful blast that brought down the entire cliff on top of him.[19]”
+Scaling/connection stated by the article: He withstood the grenade blast; the sentence then records Shan’s Force blast and the cliff collapse that buried him.
+  Source: "Hope" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 19; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Defeat ===
+
+[STATEMENT]
+“Malgus survived the encounter and was picked up by his personal shuttle. Frustrated and enraged by the defeat, he paid little attention to his wounds. His breathing sounded like a rasp over wood. His skin stung from burns. His lungs were damaged. Lacerations and contusions made a grim mosaic on his flesh. However, Malgus felt no pain.[8]”
+Scaling/connection stated by the article: He survived the Alderaan defeat and severe injuries; “felt no pain” is an article statement about his condition, not proof that he was unharmed.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Revenge and the third lesson ===
+
+[FEAT]
+“Upon reaching the ground, the Sith called upon the Jedi. A Zabrak Jedi came out from one of the buildings and recognized him, igniting his two lightsabers in the process to face him — making his familiarity with Jar'Kai lightsaber combat style apparent. Malgus rushed towards the Zabrak Jedi to engage him, but was caught off guard when his opponent used the Force to bring down two buildings (made of duracrete and steel) from the either side of the street on the Sith Lord in an attempt to kill him.[8]”
+Scaling/connection stated by the article: The Zabrak Jedi is the opponent who collapsed two duracrete-and-steel buildings; this is setup for Malgus’s survival feat, not a Malgus building-collapse feat.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus was trapped under a mountain of rubble and used the Force to prevent himself from getting crushed.[8]”
+Scaling/connection stated by the article: The rubble consisted of the two collapsed buildings described in the preceding article sentence.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“With an effort of will, he contained his anger, controlled it, and made it into a tool to sharpen his power. Using the Force, he blew tons of rubble up and away from him. It fell with a crash on adjacent buildings.”
+Scaling/connection stated by the article: This is the article’s stated result of using the Force to escape the building rubble; no external scale is supplied.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match]
+
+[FEAT]
+“Malgus augmented his Force sense and felt a faint sign of the presence of another Jedi nearby. This Jedi was hiding in the ruins and was using the Force to suppress his signature. Malgus unleashed a barrage of overpowering strikes on the Zabrak Jedi and performed a Force-augmented spinning side kick to knock him out of the way. He then Force gripped the second Jedi, pulled him out of the hiding, and crushed his windpipe.[8]”
+Scaling/connection stated by the article: Malgus detected a Jedi whose Force signature was being suppressed, then killed that hidden Jedi while fighting the Zabrak Jedi.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“However, the Sith Lord unleashed a powerful barrage of Force lightning, which overwhelmed the defenses of his opponent and began to burn his flesh.”
+Scaling/connection stated by the article: The opponent is the Zabrak Jedi from this section; the article says the lightning overwhelmed his defenses.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match]
+
+[FEAT]
+“Malgus channeled more power and forced the Jedi to his knees, who screamed with pain. Malgus's lightning spiraled around the Jedi, blasting dark holes in his body. His lightsabers fell on the ground. The Zabrak Jedi was ruined by his attack but was still alive. The Sith Lord took a moment to observe the look of failure in the Jedi's eyes, and then impaled him.”
+Scaling/connection stated by the article: This is the conclusion of the duel against the Zabrak Jedi; no further rank or power comparison is stated here.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match]
+
+=== Biography — The Outer Rim — Ord Radama ===
+
+[FEAT]
+“While Venemal and a group of commandos disabled the guns, Malgus led his remaining troops along a mountain pass, and he used the Force to roll a large boulder along the trail, detonating a number of mines that lay in their way.”
+Scaling/connection stated by the article: A direct telekinetic action used tactically during the assault; no opponent scaling stated.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match]
+
+[STATEMENT — CHARACTER ACCOUNT]
+“The strength of my scream buckled the bridge's transparisteel viewport and left the crew's ears bleeding. More gratifyingly, my raged overloaded the fuel slugs of an incoming wave of Aureks. The bright bursts of their deaths raised a smile.”
+―Darth Malgus, describing his anger after sensing Darth Venemal’s death[21]
+Scaling/connection stated by the article: The statement attributes the viewport damage, crew injuries, and destruction of incoming Aurek fighters to Malgus’s rage/scream; it is Malgus’s own account and should be treated as a statement, not independent scaling.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Through the Force, Malgus felt the deaths of Venemal and a hundred thousand of the city's inhabitants, and he screamed out in anger. The power of his scream buckled the bridge's viewport, caused the crew's ears to bleed, and also destroyed a wave of Republic Aurek-class tactical strikefighters that were passing the vessel.[21]”
+Scaling/connection stated by the article: The article connects the scream to the deaths of a hundred thousand people sensed through the Force, viewport buckling, bleeding crew, and destruction of the passing fighters.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Republic advance and the fall of Serenno ===
+
+[FEAT]
+“Malgus was dispatched to help defend Ashas Ree and once he arrived on the world, he took command of a line of siege tanks and used them to hold off a series of attacks from Republic vehicles. The Sith forces were eventually victorious on Ashas Ree and in recognition of the role that Malgus played in the battle, the Dark Council informed him that he would never again have to face shortage of resources like he had at Ord Radama.[21]”
+Scaling/connection stated by the article: This is a command/war feat; the article connects the victory and his role in it to the Dark Council’s recognition.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“When Malgus received word that the agent had been successful, he ordered his fleet to jump to Serenno and he scattered a number of Republic vessels that were orbiting the planet.”
+Scaling/connection stated by the article: The article gives no count or individual-vessel comparison; it is an operational fleet feat.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match]
+
+=== Biography — Sacking of Coruscant / Attack on the Jedi Temple ===
+
+[STATEMENT — PREPARATION]
+“In the months leading up to the attack, Malgus and his team diligently practiced and planned for their mission and the Sith Lord personally viewed computerized models of the assault thousands of times.”
+Scaling/connection stated by the article: This shows preparation, not combat power.
+  Source: Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 5; exact text match]
+
+[FEAT]
+“A squad of Temple security guards attempted to stop his advance, and Malgus advised Daru to not interfere before he quickly dispatched the group.[3]”
+Scaling/connection stated by the article: He defeated the Temple security squad; the article gives no number or rank beyond “squad.”
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Adraas and Malgus exchanged a mocking salute after these two impressive feats.”
+Context from the immediately preceding article sentence: “Malgus then unleashed a blast of Force lightning which engulfed two Padawans and one Jedi Knight simultaneously, killed them, and badly burned their bodies.[3][5]”
+Scaling/connection stated by the article: The lightning killed three Jedi simultaneously: two Padawans and one Jedi Knight. The “impressive” wording is the article’s characterization; the kill is the concrete feat.
+  Source: The Old Republic: Deceived ; Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 3,5; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“He used his dueling abilities in conjunction with acrobatics to outwit them. The female went down to him first whom Malgus knocked out by slamming her on the floor with his Force-enhanced strength. He then jumped behind the Togruta female, countered her lightsaber strikes and drove her across the lying rubble with a Force push. Finally, he dodged a lightsaber strike of the male, grabbed him by his throat, lifted him up in the air, and suffocated him.[3]”
+Scaling/connection stated by the article: He handled three Jedi simultaneously; the article identifies them as one male, one female, and one Togruta female, but does not give their ranks.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“He let his anger loose and power went with it, shattering a nearby column and sending a rain of stone shards through the room.”
+Scaling/connection stated by the article: The article connects the destruction to Malgus’s rage after Eleena Daru was struck down by Ven Zallow.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match]
+
+[FEAT]
+“The Sith Lord without even focusing on him, simply extended a hand, pushed through the Jedi's defenses, and choked him to death, tossing his body aside as he charged towards Zallow.”
+Scaling/connection stated by the article: The Jedi was killed while Malgus was advancing toward Jedi Master Ven Zallow; no rank for this additional Jedi is stated in the sentence.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match]
+
+[FEAT]
+“Malgus performed a Force-augmented kick on the chest of Zallow, which sent him flying backward about ten meters.”
+Scaling/connection stated by the article: Directly scales this Force-enhanced kick to Jedi Master Ven Zallow.
+  Source: Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 5; exact text match]
+
+[FEAT]
+“Malgus then threw his lightsaber at Zallow, guiding its trajectory with the Force. However, Zallow leaped in to air above it in an attempt to dodge the attack. While Zallow was still in the air, Malgus unleashed a blast of energy that caught the Jedi unprepared and sent him crashing downward into a pile of rubble.”
+Scaling/connection stated by the article: Direct exchange with Jedi Master Zallow; the article then says Malgus jumped twenty meters toward Zallow and recalled his saber.
+  Source: Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 5; exact text match]
+
+[FEAT]
+“Reversing his lightsaber during the spin, he rode it into a stab that pierced Zallow's abdomen.[5]”
+Scaling/connection stated by the article: This is Malgus’s killing blow against Jedi Master Ven Zallow, later called his most notable/famous kill in the article.
+  Source: Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 5; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Imperial assault on Coruscant ===
+
+[FEAT]
+“As the remaining Sith joined Malgus twenty meters away from the Temple, he took in all the building's features before activating the detonator. The ancient symbol of the Jedi Order fell in on itself, spewing debris in every direction. Malgus and the others created a wall of Force energy that shielded them from the destruction, allowing them to watch the entire process in safety as they cheered.[3]”
+Scaling/connection stated by the article: Malgus and the other Sith used a Force-energy wall to shield themselves from the Temple’s destruction; the article does not attribute the entire shield solely to Malgus.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Disillusionment ===
+
+[FEAT]
+“Although he was able to crush the rock with the Force, Malgus was still enraged by the act and demanded to know who threw it.”
+Scaling/connection stated by the article: The object was a chunk of duracrete thrown by a Coruscant crowd; no further scaling stated.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match]
+
+[FEAT]
+“In response, he emitted a wave of Force power that pushed everyone in his vicinity away from him violently, resulting in more injuries and destruction.”
+Scaling/connection stated by the article: The article places the wave in the crowded area outside Daru’s hospital; it says the wave caused additional injuries and destruction but gives no number.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match]
+
+=== Biography — The Cold War ===
+
+[FEAT]
+“Following the signing of the Treaty of Coruscant, which officially ended the war, Malgus distanced himself from the power games being played by various Sith vying for a seat on the Empire's governing Dark Council. Instead, Malgus led Sith forces into the Unknown Regions, expanding the Empire's control into the largely-unexplored territories.”
+Scaling/connection stated by the article: Military/territorial expansion; no personal-power scaling stated.
+  Source: Darth Malgus on The Old Republic Holonet (original site is defunct) [per Wookieepedia "Darth Malgus" rev 15641609, ref 1; exact text match]
+
+[FEAT]
+“Malgus was responsible for ordering many operations during the Cold War, such as those involving the Hammer Station and more notably, claiming the Foundry and defeating its master, Revan.”
+Scaling/connection stated by the article: The article directly connects Malgus with claiming the Foundry and defeating its master, Revan; it provides no further duel details in this sentence.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Malgus" rev 15641609 but it has no inline citation in its paragraph; exact text match)
+
+=== Biography — A New Emperor ===
+
+[FEAT]
+“Following the presumed death of the Sith Emperor on Dromund Kaas, Darth Arho invaded Ilum as retaliation. But his striving was thwarted by Darth Malgus who helped the Republic to defeat him in order to see his rival cast aside,[9] including aiding in the rescue of Supreme Commander Rans.”
+Scaling/connection stated by the article: Malgus helped the Republic defeat Darth Arho and helped rescue Supreme Commander Rans; it is an alliance/operation statement, not a solo victory claim.
+  Source: Star Wars: The Old Republic — Republic Mission: "A Gentleman’s Agreement" on Ilum ; Star Wars: The Old Republic — Flashpoint: "The Battle of Ilum" [per Wookieepedia "Darth Malgus" rev 15641609, ref 9,27; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT — CHARACTER CLAIM]
+“In a message to the Empire he defected from, he explained that he used the Foundry's power to create a droid army, similar to Revan's, but much more powerful.[10]”
+Scaling/connection stated by the article: Malgus claims his army was more powerful than Revan’s droid army; the article presents this as his message/claim, so it is not an independently verified scale.
+  Source: Star Wars: The Old Republic — Flashpoint: "The False Emperor" [per Wookieepedia "Darth Malgus" rev 15641609, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus led his new empire to a number of early victories, capturing many areas in the Unknown Regions.”
+Scaling/connection stated by the article: The connection is to his new empire’s military victories and territorial captures; no personal combat scale stated.
+  Source: Star Wars: The Old Republic — Flashpoint: "The False Emperor" [per Wookieepedia "Darth Malgus" rev 15641609, ref 10; exact text match]
+
+[FEAT]
+“Cornered in his throne room, Malgus activated the station's self-destruct sequence to destroy the fleets assaulting it before dueling the strike team sent to face him.[10] But for all that he was a brutal and skilled fighter, Malgus' resolve weakened as the battle went on. Taking advantage of this, his attackers were able to use pulse grenades, Force powers and other means to force him over the edge of the platform and down the reactor shaft to his supposed death.[13]”
+Scaling/connection stated by the article: He fought the strike team after activating the station’s self-destruct; the article says the attackers ultimately forced him down the reactor shaft. “Brutal and skilled fighter” is an assessment, not a feat.
+  Source: Star Wars: The Old Republic — Flashpoint: "The False Emperor" ; The Old Republic: Annihilation [per Wookieepedia "Darth Malgus" rev 15641609, ref 10,13; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Reappearance on Ossus ===
+
+[FEAT]
+“Despite the failure of his attempted coup, Darth Malgus managed to survive the explosion of the Emperor's Fortress, faking his supposed death above Ilum.”
+Scaling/connection stated by the article: Direct survival of the Emperor’s Fortress explosion; no further magnitude is stated.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Mission: "Jedi Under Siege" on Ossus [per Wookieepedia "Darth Malgus" rev 15641609, ref 6; exact text match]
+
+[FEAT]
+“However, the ‘supply drop’ opened by itself and Malgus revealed himself to Malora, the Alliance Commander, Major Anri and the others present. Being shocked of his survival, Malora then attempted to attack him but was force pushed away by the Sith Lord, falling off the ledge into the depths of below.”
+Scaling/connection stated by the article: Malgus Force-pushed Darth Malora away after she attacked; the article does not give the distance or outcome beyond her fall.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Mission: "Jedi Under Siege" on Ossus [per Wookieepedia "Darth Malgus" rev 15641609, ref 6; exact text match]
+
+=== Biography — The Dantooine Incursion ===
+
+[FEAT]
+“With the Nova Blades' invasion of Dantooine being swift and surprising, taking the Republic garrison completely by surprise, the Sith Empire under Malgus' leadership of the operation, succeeded in the covert infiltration of Dantooine.[29]”
+Scaling/connection stated by the article: A covert operational success under Malgus’s leadership; no individual combat scaling stated.
+  Source: Game Update 5.10.3 "The Dantooine Incursion" Has Been Announced! on The Old Republic's official website (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 29; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — The Meridian Complex ===
+
+[FEAT]
+“Darth Malgus and Darth Krovos were put in charge of an operation to destroy the advanced Republic shipyard on Corellia known as the Meridian Complex, which had the capability to turn the war in the Republic's favor. Malgus and Krovos assembled a massive armada comprising of the majority of the Sith Empire's entire navy as well as Darth Nox's Silencer Fleet (now commanded by Moff Pyron) and the last of the destroyers outfitted with Isotope-5, plus an additional group of fuel ships so that the fleet could proceed to Corellia without stopping.[7]”
+Scaling/connection stated by the article: The article explicitly scales the operation to the majority of the Sith Empire’s navy, the Silencer Fleet, and Isotope-5 destroyers; this is command/war scale, not Malgus’s personal power.
+  Source: Star Wars: The Old Republic — Flashpoint: "Objective: Meridian" [per Wookieepedia "Darth Malgus" rev 15641609, ref 7; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Darth Malgus battled Tau Idair and her allies, until an explosion occurred that knocked both combatants away from one another.”
+Scaling/connection stated by the article: Directly connects Malgus in battle with Tau Idair and her allies; no winner is stated in this sentence.
+  Source: Star Wars: The Old Republic — Flashpoint: "Objective: Meridian" [per Wookieepedia "Darth Malgus" rev 15641609, ref 7; exact text match]
+
+[FEAT]
+“Malgus awoke, ignited his lightsaber and demanded the medical droid and a ship.[7]”
+Scaling/connection stated by the article: The preceding sentence states that he had used his lightsaber to destroy the control chip that had been controlling him; the article does not say he destroyed it by raw power alone.
+  Source: Star Wars: The Old Republic — Flashpoint: "Objective: Meridian" [per Wookieepedia "Darth Malgus" rev 15641609, ref 7; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — Mission to Dantooine ===
+
+[FEAT]
+“Coming upon a sealed door, Malgus cut his way through with his lightsaber and acquired a relic[15] belonging to Darth Nul, an ancient Sith Lord whose records vanished from history.[32]”
+Scaling/connection stated by the article: The relic is connected to Darth Nul; no combat scaling stated.
+  Source: Star Wars: The Old Republic: Onslaught — Flashpoint: "Secrets of the Enclave" ; Star Wars: The Old Republic: Onslaught — The message "Darth Nul" from Master Gnost-Dural [per Wookieepedia "Darth Malgus" rev 15641609, ref 15,32; exact text match; agrees with the entry's own ref marker]
+
+=== Biography — The Temple of Nul ===
+
+[FEAT]
+“After the two Jedi gained the upper hand and wounded the Sith warrior, Malgus, to their surprise, suddenly appeared and stabbed their opponent from behind with his lightsaber, with the Sith condemning him as a traitor before succumbing to his wounds.”
+Scaling/connection stated by the article: Malgus killed the wounded Sith warrior; the article does not present this as a fair duel.
+  Source: "Disorder" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 33; exact text match]
+
+[FEAT]
+“To stop her, the Sith renegade unleashed a barrage of force lightning at the young Padawan but she managed to dodge it and made it to the machine, leaving Malgus to briefly duel with Master Orr, with the Jedi Master holding his own despite Malgus’s superior strength and aggressive fighting style.[33]”
+Scaling/connection stated by the article: Direct comparison: the article calls Malgus stronger and more aggressive, while stating that Jedi Master Denolm Orr nevertheless held his own.
+  Source: "Disorder" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 33; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“When Orr attempted to reason with his padawan, however, Malgus used the Force to entangle him in a series of loose cables from the destroyed device before freeing himself from the rubble. Once freed, the renegade Sith retrieved his lightsaber as he levitated the helpless Jedi to his position, forcing Sa'har to watch in horror as he bisected her master before her eyes.”
+Scaling/connection stated by the article: Malgus escaped the rubble, restrained Master Orr with the Force, levitated him, and bisected him; Orr is the Jedi Master already described as holding his own against Malgus.
+  Source: "Disorder" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 33; exact text match]
+
+[FEAT]
+“The two engaged in a furious clash, with Sa'har proving to be a formidable opponent for Malgus as she attempted to avenge her fallen master, managing to hold her own against the renegade and disarming him of Orr’s lightsaber.”
+Scaling/connection stated by the article: Directly states that Padawan Sa’har Kateen was formidable, held her own, and disarmed Malgus of Orr’s lightsaber.
+  Source: "Disorder" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 33; exact text match]
+
+[FEAT]
+“Despite this, Malgus was soon able to gain the upper hand, using the Force to push her back and collapse the ceiling of the temple, allowing him to snatch the holocron from her as she struggled to use the force to shield herself from the large amounts of rubble falling upon her.”
+Scaling/connection stated by the article: Malgus regained the advantage over Sa’har, used a Force push and collapsed the ceiling; the article says Sa’har used the Force to shield herself from the rubble.
+  Source: "Disorder" on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 33; exact text match]
+
+=== Biography — Imprisonment ===
+
+[STATEMENT — ARTICLE ASSESSMENT]
+“While the Empire and Republic were occupied on Manaan, Darth Malgus managed to complete his hidden goal and wait for the inevitable arrival of the Alliance Commander who, alongside Lana Beniko and their reinforcements, defeated the rogue Sith Lord and imprisoned him in a special prison designed to hold someone as powerful as him.[34]”
+Scaling/connection stated by the article: The Alliance Commander, Lana Beniko, and reinforcements defeated and imprisoned him; “as powerful as him” is the article’s assessment of Malgus, not a quantified feat.
+  Source: Star Wars: The Old Republic: Legacy of the Sith — Flashpoint: "Ruins of Nul" [per Wookieepedia "Darth Malgus" rev 15641609, ref 34; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT — CHARACTER CLAIM/VISION]
+“I have revealed a truth long buried. A path to power, concealed by thrones and hidden by councils. Overshadowed by a war with no true victor. I have seen a vision of the future. A galaxy in flames. What I have begun will not end with me. This is only the beginning.”
+―Darth Malgus[34]
+Scaling/connection stated by the article: A prophecy/claim about future consequences; not a demonstrated feat.
+  Source: Star Wars: The Old Republic: Legacy of the Sith — Flashpoint: "Ruins of Nul" [per Wookieepedia "Darth Malgus" rev 15641609, ref 34; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“After the Showdown on Ruhnuk, Darth Malgus was once again met with the Alliance Commander to discuss a key discovery about Darth Nul which Malgus claimed that there isn't any secret of Nul that he was not aware of, and the Commander would have eventually learned them. The Commander questioned the partnership between Malgus and Heta Kol, Malgus claims that his designs were beyond Heta Kol and her "petty" war. He further added that the Mandalorians are useless since they are now fractured and continuously struggle to decide who they are. Malgus then disrupted the prison force field and declared that he would tear apart the corrupt systems that allow weakness to infect the galaxy and that he will burn down all of their failing legacies to see who embraces the flame.”
+Scaling/connection stated by the article: The concrete action is disrupting the prison force field; the surrounding claims and declaration are Malgus’s statements, not feats.
+  Source: Star Wars: The Old Republic: Legacy of the Sith — Mission: "Old Wounds" on Carrick Station [per Wookieepedia "Darth Malgus" rev 15641609, ref 37; exact text match]
+
+=== Biography — Partnership with Shae ===
+
+[FEAT]
+“As one was escaping, Malgus used the Force to choke the last remaining Mandalorian only to then be set upon by two Scorpion-class Intercept Shuttles who immediately began to open fire. Utilizing the Force once again, Malgus manipulated one shuttle to violently crash into the other as both then proceeded to crash and explode upon impact with the mountain side.”
+Scaling/connection stated by the article: He used the Force to choke a Mandalorian and telekinetically cause one Scorpion-class shuttle to crash into another; no further scale stated.
+  Source: Star Wars: The Old Republic: Legacy of the Sith — Mission: "Galactic Threads" on Tatooine [per Wookieepedia "Darth Malgus" rev 15641609, ref 39; exact text match]
+
+[STATEMENT]
+“Malgus is also revealed to have extensive cybernetic implants that require a specialized stim to keep himself going as he is despite how much the years have adavnced him in age.”
+Scaling/connection stated by the article: The article connects his continued activity to extensive cybernetics and a specialized stim; this is a condition statement, not a combat feat.
+  Source: Star Wars: The Old Republic: Legacy of the Sith — Mission: "Hoth Pursuit" on Hoth [per Wookieepedia "Darth Malgus" rev 15641609, ref 40; exact text match]
+
+=== Biography — Legacy ===
+
+[STATEMENT — HYPE/OPINION — NOT A FEAT]
+“The excerpts from the journal of Darth Malgus kept during the Great Galactic War some thirty-six centuries ago are a prime example of how a wounded warrior can be sustained by rage. The war was an unbounded success for the era's Sith Emperor, and Malgus was one of his best soldiers.”
+―Darth Sidious[21]
+Scaling/connection stated by the article: Sidious’s retrospective opinion calls Malgus one of the Sith Emperor’s best soldiers; “best” is evaluative, not a quantified feat.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT — HYPE/OPINION — NOT A FEAT]
+“Sidious found Malgus' military abilities and strength in the dark side impressive, and his apprentice Darth Vader later studied Malgus' writings and noted a degree of similarity between himself and the ancient Sith Lord. Along with Vitiate, Malgus was seen as being perhaps one of the most powerful Sith Lords in history in terms of his sheer strength, might, and influence.[21]”
+Scaling/connection stated by the article: The article explicitly compares Malgus with Vitiate and notes Vader’s perceived similarity, but qualifies the “one of the most powerful” claim with “perhaps” and presents it as an assessment, not a feat.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match; agrees with the entry's own ref marker]
+
+=== Personality and traits — Ruthless Sith Warrior ===
+
+[STATEMENT — ARTICLE ASSESSMENT]
+“Darth Malgus had a distinct personality among the Sith.[1] He was a fierce frontline warrior who often utilized alien mercenaries to do his bidding even when they were considered to be unreliable by the Sith in his time. Because of his interactions with many alien species, Malgus learned many alien languages.[1]”
+Scaling/connection stated by the article: The article’s “fierce frontline warrior” wording is an assessment; learning languages is not a combat feat.
+  Source: Darth Malgus on The Old Republic Holonet (original site is defunct) [per Wookieepedia "Darth Malgus" rev 15641609, ref 1; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“After the defeat on Alderaan, Malgus fell in to uncontrollable rage for a while, fought two Jedi regardless of his injuries, and killed them in an act of revenge before leaving.[8]”
+Scaling/connection stated by the article: These are the two Jedi encountered after Alderaan; the article ties the feat to his severe injuries and rage.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus also reached there and defeated Aryn in combat. But he spared her life in exchange of her sparing the life of Daru and gave her the option to leave Coruscant.”
+Scaling/connection stated by the article: Directly states that Malgus defeated Jedi Knight Aryn Leneer; the sentence also records his choice to spare her.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match]
+
+[STATEMENT — CHARACTER OPINION]
+“On Korriban, Malgus saw a vision of the Galaxy in flames; the fall of a Galaxy-spanning government (the Republic).[3]”
+Scaling/connection stated by the article: This is a vision/interpretation, not a confirmed feat.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+=== Personality and traits — Rejecting the Sith Empire ===
+
+[STATEMENT — CHARACTER CLAIM]
+“Malgus demanded respect in his new position as the self-proclaimed emperor of the new Sith regime. The Sith Lord claimed that the Empire's antiquated ideals would cause the Sith to wither away and if they wanted to survive they needed to build a more tolerant network.”
+Scaling/connection stated by the article: Political/philosophical claim; no combat scaling.
+  Source: Star Wars: The Old Republic — Flashpoint: "The False Emperor" [per Wookieepedia "Darth Malgus" rev 15641609, ref 10; exact text match]
+
+[STATEMENT — CHARACTER CLAIM]
+“Malgus was willing to destroy the Emperor's Fortress in order to wipe out the fleets that were attacking them, believing that the fortress was a monument to the old Empire and its sacrifice was inevitable. The Sith Lord was willing to die for his cause, saying that even if he was defeated, the Empire would be reborn.[10]”
+Scaling/connection stated by the article: His willingness and stated plan are character claims; the article separately records that he activated the station’s self-destruct.
+  Source: Star Wars: The Old Republic — Flashpoint: "The False Emperor" [per Wookieepedia "Darth Malgus" rev 15641609, ref 10; exact text match; agrees with the entry's own ref marker]
+
+=== Powers and abilities — Lightsaber training ===
+
+[STATEMENT — ARTICLE ASSESSMENT/HYPE — NOT A FEAT]
+“Darth Malgus was an exceptionally talented duelist and specialized in using rage and brute strength to defeat his opponents. Aside from his overwhelming physical strength, which served him well not only in lightsaber duels but also in hand-to-hand combat, Malgus also often performed acrobatics to increase his effectiveness in lightsaber combat. His speed was such that a normal human found it difficult to watch his movements in his duels.[3]”
+Scaling/connection stated by the article: General assessment; “normal human” is the article’s comparison. Treat “exceptionally talented,” “overwhelming,” and the speed claim as hype/assessment, not standalone feats.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT + FEAT SUMMARY]
+“He was personally responsible for the deaths of several highly skilled Jedi Masters. Malgus had shown to employ Jar'Kai in various situations, such as during the retaking of Korriban where he employed this style to kill the Jedi Battlemaster Kao Cen Darach despite the latter's proficiency in the same fighting style and victory over Malgus's Master, Darth Vindican. Malgus's strength, rage, and clear focus gave him an advantage and allowed him to swiftly deprive Kao of one of his lightsabers and finally slay the Jedi Master.[11] Years later, during the Sacking of Coruscant, Malgus managed to impale Jedi Master Ven Zallow in a short but ferocious duel.[5] Zallow was often regarded as his most famous kill.[1]”
+Scaling/connection stated by the article: Explicit scaling to Kao Cen Darach’s Jar’Kai proficiency and victory over Vindican, and to Jedi Master Ven Zallow; “highly skilled,” “ferocious,” and “most famous” are article assessments.
+  Source: "Return" on The Old Republic's official website (article) (backup link) ; Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) ; Darth Malgus on The Old Republic Holonet (original site is defunct) [per Wookieepedia "Darth Malgus" rev 15641609, ref 11,5,1; exact text match; agrees with the entry's own ref marker]
+
+=== Powers and abilities — Force abilities ===
+
+[STATEMENT + FEAT SUMMARY]
+“Darth Malgus utilized a variety of Force powers during the Sacking of Coruscant to defeat many Jedi and Republic soldiers who stood in his path, including saber throw, Force push, choke, jump, speed and lightning. Malgus used his emotions — such as anger and distaste of others — to fuel his power of the dark side. Malgus demonstrated the skill and power to handle multiple opponents simultaneously without much effort.[5]”
+Scaling/connection stated by the article: The article connects the listed powers to his Coruscant victories and multiple-opponent performance; “without much effort” is an assessment.
+  Source: Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 5; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“In one instance, Malgus unleashed a powerful blast of Force lightning and killed 3 Jedi with it. Malgus himself could tolerate Force lightning attacks. During his duel with Lord Adraas, Malgus strode through the barrage of the Force lightning from his opponent using his lightsaber and fingers as conduit, and redirected it back towards his opponent to knock him off his feet.[3]”
+Scaling/connection stated by the article: Three Jedi killed by one lightning blast; separately, he tolerated and redirected Lord Adraas’s lightning during their duel.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT — ARTICLE ASSESSMENT]
+“He perfected his application of Force lightning to a degree from which he could unleash a Force Maelstrom.[21]”
+Scaling/connection stated by the article: The article connects Force Maelstrom to his perfected lightning application; no target/result is specified in this sentence.
+  Source: Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 21; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“During the Battle of Ilum, he demonstrated an application of tutaminis when fired at by either the Voidhound, Meteor, Hunter or Cipher Nine, absorbing the blasterfire with one hand.[10]”
+Scaling/connection stated by the article: The article names the possible shooters as the Voidhound, Meteor, Hunter, or Cipher Nine; it does not resolve which one fired.
+  Source: Star Wars: The Old Republic — Flashpoint: "The False Emperor" [per Wookieepedia "Darth Malgus" rev 15641609, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus also performed Force screams to make his hatred apparent to his opponents as well as destroy enemy fighters within his range.[3][21]”
+Scaling/connection stated by the article: General ability statement; the Ord Radama section gives the specific viewport/crew/Aurek result.
+  Source: The Old Republic: Deceived ; Book of Sith: Secrets from the Dark Side [per Wookieepedia "Darth Malgus" rev 15641609, ref 3,21; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“During his raid of the Jedi Temple, Malgus unleashed power with an expression of his rage which shattered a nearby column of wall and send a rain of stone shards through the room when his friend Eleena Daru was struck down by his most powerful opponent in the region; Zallow.[3][5]”
+Scaling/connection stated by the article: The article links the column destruction to his rage after Jedi Master Ven Zallow struck Daru; “most powerful opponent in the region” is an article assessment.
+  Source: The Old Republic: Deceived ; Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 3,5; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus often used Force speed to augment his physical movements.[11] When Malgus engaged Jedi Knight Aryn Leener in a duel, an observer attempted to watch them but could not properly see their movements because of their immense speed. Later on, Malgus used this ability once again while he was rushing towards the hangar in a Spaceport to rescue Daru from a threat, leaving the troops accompanying him far behind.[3]”
+Scaling/connection stated by the article: The speed comparison is to an observer and to the troops accompanying him; the article specifically places the duel against Jedi Knight Aryn Leneer in this comparison.
+  Source: "Return" on The Old Republic's official website (article) (backup link) ; The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 11,3; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Being strong in the Force, Malgus was proficient in the applications of telekinesis. Malgus could counter-push his opponents in the mid-air while they would jump towards him to knock them out in the process.[5] During the duel with Aryn, Malgus demonstrated the ability to hurl objects as missiles towards his opponent.[3] Malgus could also perform Force grip and Force crush.[3][5]”
+Scaling/connection stated by the article: General abilities connected to unnamed opponents and the duel with Aryn; no quantified scale.
+  Source: Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) ; The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 5,3; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“On Alderaan, a Zabrak Jedi used the Force to collapse two buildings on Malgus in an attempt to kill him. Malgus stood under the mountain of rubble composed of building parts made of duracrete and steel preventing it from crushing him beneath with the Force. Malgus controlled his anger and sharpened his power. He blew the rubble up and away from him, sending it crashing in adjacent buildings.[8]”
+Scaling/connection stated by the article: This is the article’s consolidated statement of the building-collapse survival and rubble-clearing feat; the buildings are specified as duracrete and steel.
+  Source: "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus also performed Force wave when he attempted to disperse a large crowd gathered outside a Medical Facility in Coruscant to check on Daru. The blast shoved everything away from him in all directions, and bodies slammed in to each other, walls, and windows. The nearby Transport lurched, and all the doors of the Medical Facility broke loose and fell to the ground.[3]”
+Scaling/connection stated by the article: The wave affected the crowd, walls, windows, a nearby transport, and the medical facility’s doors; no numeric range is given.
+  Source: The Old Republic: Deceived [per Wookieepedia "Darth Malgus" rev 15641609, ref 3; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT]
+“On Alderaan, Malgus also faced Jedi Master Satele Shan and her allies in single combat and tolerated heavy firepower and Force powers from his opponents which shattered large objects around him.[19] He was seriously injured but he survived and felt no pain.[8]”
+Scaling/connection stated by the article: Directly connects his durability/survival to combat against Jedi Master Satele Shan and allies; the article does not quantify the “heavy” attacks.
+  Source: "Hope" on The Old Republic's official website (article) (backup link) ; "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 19,8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT]
+“Malgus could also hide his presence in the Force.[3] Interestingly, a Jedi on Alderaan used this ability to suppress his Force signature when he planned to ambush Malgus but it was not effective against him. Malgus still managed to sense his presence and foiled his plans.[8]”
+Scaling/connection stated by the article: Malgus’s sensing overcame a Jedi’s attempt to suppress his Force signature.
+  Source: The Old Republic: Deceived ; "The Old Republic: The Third Lesson" — Star Wars Insider 124 [per Wookieepedia "Darth Malgus" rev 15641609, ref 3,8; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT — ARTICLE ASSESSMENT]
+“Malgus was so strong in the Force that it took various Force-users to immobilize him on Elom.[34]”
+Scaling/connection stated by the article: The article compares his Force strength to the combined immobilization effort of “various Force-users”; it gives no number or individual identities here.
+  Source: Star Wars: The Old Republic: Legacy of the Sith — Flashpoint: "Ruins of Nul" [per Wookieepedia "Darth Malgus" rev 15641609, ref 34; exact text match; agrees with the entry's own ref marker]
+
+=== Equipment ===
+
+[STATEMENT]
+“Darth Malgus had a lightsaber with a black and silver colored metal hilt that emitted a red blade. The lightsabers' emitter section was flanked by two intimidating, blade-like pieces with an design cues taken from an axe. By the time of the Third Galactic War, his lightsaber was damaged and battle-worn. After the Battle of Alderaan, Malgus donned a respirator mask[3] that covered his nose, mouth, and neck.[5]”
+Scaling/connection stated by the article: The respirator is linked to the jaw wounds from Alderaan; the lightsaber description is equipment information, not a feat.
+  Source: The Old Republic: Deceived ; Deceived Cinematic Trailer on The Old Republic's official website (article) (backup link) [per Wookieepedia "Darth Malgus" rev 15641609, ref 3,5; exact text match; agrees with the entry's own ref marker]
+
+=== Boundary ===
+
+The article’s “Behind the scenes,” “Appearances,” “Sources,” “Notes and references,” and “External links” material was reviewed to the end. No additional concrete Malgus feat was copied from navigation, appearance lists, or trivia-only material. Character opinions, predictions, reputational language, and unverified comparisons above are marked as statements/hype rather than feats.

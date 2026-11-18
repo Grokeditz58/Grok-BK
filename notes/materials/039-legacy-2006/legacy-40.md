@@ -1,0 +1,227 @@
+# Star Wars: Legacy #40 — "Tatooine, Part Four of Four" (Sep 2009)
+
+- Cover: Dan Scott ("MOTHER AND SON REUNION--OR DEATH MATCH?", Corde aiming blaster at Cade holding green lightsaber, Lars homestead). Story Ostrander & Duursema, script Ostrander, pencils Duursema, inks Dan Parsons, colors Brad Anderson, letters Michael Heisler.
+- Pages read: p1–24 (all), hand-read 2026-11-02.
+- Setting: Tatooine Dune Sea; Lars homestead; Mos Eisley spaceport; Tatooine Imperial garrison (Gromia's rooms); Kaer Station (Black Sun HQ); Coruscant Sith Temple.
+- New roster entries: none (Lun Rask, Ethan Adare, Konrad Rus, Astraal Vao, Nyna Calixte already present; added alias "Moff Rus" to Konrad Rus). Deaths: Ku Vrat, Sint, Moff Gromia, Lun Rask.
+- Major reveal: Morrigan Corde = Nyna Calixte, mother of Gunner Yage and Cade.
+- Uncertain speakers: p7 "GET BINDERS..."; p12 hooded speaker; p18 who fired on Gromia; p23 unnamed officer; p5 Sint blade colour vs #39.
+
+## Crawl (p2)
+> "CADE'S FRIEND, JARIAH SYN, AND GUNNER'S PARTNER, MORRIGAN CORDE, ARRIVED TO HELP, BUT A BATTLE STILL LIES BEFORE THEM. AND, EVEN IF THEY'RE TRIUMPHANT, THERE ARE STILL TRIALS AHEAD FOR CADE."
+— Star Wars: Legacy #40, p. 2
+
+> "STILL SHAKEN BY A CONFRONTATION WITH THE GHOST OF LUKE SKYWALKER AND FORCED TO THE POINT OF A LIFE-CHANGING DECISION, IS CADE PREPARED TO MEET HIS MOTHER AGAIN FOR THE FIRST TIME SINCE HE WAS AN INFANT?"
+— Star Wars: Legacy #40, p. 2
+
+(Crawl: story set "approximately 137 years after the Battle of Yavin".)
+
+## Corde vs. Ku Vrat (p3–4)
+> "IT BURNS. POISON?" (Ku Vrat) / "DEADLY." (Corde)
+— Star Wars: Legacy #40, p. 3
+
+(Feat: Corde dodges Ku Vrat's lit staff-blade and shoots him with a dart from a wrist/hand weapon — poison dart lodges in his face (p3). Resolves #39 flag: Ku Vrat's weapon is a long staff with a lightsaber-like energy blade at one end.)
+
+> "HURRR! THEN YOU DIE, TOO! MAY MY BLADE BE SHARP! MAY I SCULPT A NEW FATE FOR MY ENEMIES!" (Ku Vrat) / "UHNNN!" (Corde) / "HRAAA!!" (Ku Vrat)
+— Star Wars: Legacy #40, p. 4
+
+> "ADMIT IT. YOU LOVE ME." (Jariah) / "AT THE MOMENT-- YES." (Corde)
+— Star Wars: Legacy #40, p. 4
+
+(Feat: Ku Vrat knocks Corde down; Jariah shoots Ku Vrat with two blaster bolts, killing him (p4). Ku Vrat dead.)
+
+## Lars homestead: Gunner vs. Nakia, Cade vs. Sint (p5–6)
+> "I'M WARNING YOU, ASSASSIN! I'M AN IMPERIAL AGENT AND YOU'RE INTERFERING WITH PRISONER TRANSPORT-- A SERIOUS CRIME AGAINST THE EMPIRE!" (Gunner) / "I KNOW ALL THAT, MORSEL. I DON'T CARE. I'M A BLACK SUN ASSASSIN. MY ASSIGNMENT IS TO KILL YOU AND THE PIRATE." (Nakia)
+— Star Wars: Legacy #40, p. 5
+
+> "NAKIA WILL NEVER FORGIVE ME." (Sint) / "WHY? FOR DYING IN THE SAND LIKE A GORNT?" (Cade) / "FOR KILLING YOU BEFORE SHE HAD SUPPED HER FILL." (Sint) / "SURPRISED? I TOOK THIS OFF A JEDI I HUNTED-- AND KILLED." (Sint) / "NOW WE ARE EQUALLY ARMED!" (Sint)
+— Star Wars: Legacy #40, p. 5
+
+(Power/lore: Sint wields a blue lightsaber taken from a Jedi he hunted and killed (p5). Note #39 p21 described his blade as yellow — colour inconsistency or second weapon; flag.)
+
+> "ONLY DIFFERENCE BETWEEN US THEN, PATEESA..." / "...IS SKILL." (Cade)
+— Star Wars: Legacy #40, p. 6
+
+(Feat: Cade Force-pulls his green lightsaber from Sint's belt into his hand (p6), then duels Sint (p6).)
+
+## Sint killed; Nakia captured (p7)
+> "SINT!" (Nakia) / "YOUR TURN." (Cade) / "BUT, DARLING... I KNOW YOU FELT PLEASURE AT MY CARESS-- EMOTIONS AND SENSATIONS YOU NEVER FELT BEFORE AND WILL NEVER FEEL AGAIN..." (Nakia)
+— Star Wars: Legacy #40, p. 7
+
+> "YOU KILLED MY MATE. NOW, I BELONG TO YOU ALONE. I BURN WITH DESIRE FOR YOU AS I SENSE YOU BURN FOR ME... THE ESSENCE OF ALL THAT YOU ARE --OF ALL YOU WILL BE-- WHAT WE ANZATI CALL SOUP-- BECKONS ME..." / "I WANT... TO TASTE IT!" (Nakia)
+— Star Wars: Legacy #40, p. 7
+
+(Feat: Cade kills Sint off-panel/between pages (p6–7); Nakia is then stunned from behind by Gunner (blaster flash) (p7). Lore: Anzati call a being's essence "soup"; Sint was Nakia's mate.)
+
+> "STOOPA! WHY DIDN'T YOU JUST KILL HER?" (Cade) / "FORGOT MY BLASTER WAS SET TO STUN FOR YOU! NEVER MIND ABOUT THAT. WE KNOW THERE WERE THREE! WHERE'S THAT THIRD ASSASSIN?" (Gunner) / "GET BINDERS ON HER. THEN WE CHECK OUTSIDE. CAREFULLY." (Cade — flag, tail ambiguous)
+— Star Wars: Legacy #40, p. 7
+
+## Reunion with Corde (p8–10)
+> "CHEESPA BO COOPA, CADE, YOU GOTTA START BEING CHOOSIER ABOUT WHO YOU PICK UP IN THE CANTINA. I DID LOTS BETTER." (Jariah)
+— Star Wars: Legacy #40, p. 8
+
+> "YOU A PIRATE OR AN OVERGROWN WOMP RAT? AND YOU'RE USING ILLEGAL WEAPONS...?" (Gunner) / "CHEEKA, I SEEN KREETLES WITH LESS SAND IN THEIR BRITCHES THAN YOU GOT. ARE YOU ALL GROWL, OR DO YOU BITE, TOO?" (Jariah)
+— Star Wars: Legacy #40, p. 8
+
+> "CHUT, CHUT. CADE, I'D LIKE YOU TO MEET YOUR..." (Jariah) / "CORDE. IMPERIAL AGENT MORRIGAN CORDE." (Corde) / "ALREADY FIGURED OUT WHO SHE IS." (Cade) / "YOU SEEM TO HAVE A PROBLEM WITH ORDERS, AGENT YAGE. YOU WERE SUPPOSED TO WAIT FOR ME TO ARRIVE." (Corde)
+— Star Wars: Legacy #40, p. 8
+
+> "I SEIZED THE INITIATIVE AND APPREHENDED THE SUSPECT-- WHO IS STILL UNDER ARREST, AND WHO I EXPECT YOU TO HELP BRING BACK TO THE IMPERIAL BASE." (Gunner) / "YOU DON'T LISTEN VERY WELL, DO YOU, YAGE?" (Corde)
+— Star Wars: Legacy #40, p. 9
+
+> "AS SENIOR AGENT I GIVE THE ORDERS-- YOU LISTEN! THINK! SOMEONE FROM THE IMPERIAL BASE MUST BE LEAKING THE INFO ON THE IMPERIAL SHIPMENTS TO THE BLACK SUN VIGO. THEY ALSO LEAKED THE INFO ON YOU AND THIS PIRATE. THE ASSASSINS GOT INTO PLACE TOO QUICKLY FOR ANY OTHER EXPLANATION." (Corde)
+— Star Wars: Legacy #40, p. 9
+
+> "IF YOU HAD BOTHERED TO READ THE FILE, YOU WOULD HAVE KNOWN THAT MOFF GROMIA WAS SENT TO TATOOINE BECAUSE OF CORRUPTION WITHIN HER STAFF, CHARGES SHE EVADED." (Corde) / "AN OFFICER IN HER COMMAND CONVENIENTLY-- AND SOMEWHAT SUSPICIOUSLY-- COMMITTED SUICIDE, AND THE BLAME WAS PLACED ON HIM." (Corde) / "PUT THE PIECES TOGETHER. SOUNDS LIKE GROMIA'S BEEN A BAAAAD LITTLE MOFF." (Cade)
+— Star Wars: Legacy #40, p. 9
+
+(Feat: Corde shoves/strikes Gunner (p9). Lore: Moff Gromia's past corruption charges.)
+
+> "A MOFF... IT'S DIFFICULT TO ACCEPT. BUT THIS ASSASSIN SAID I WAS A TARGET, AS WELL AS THE PIRATE." (Gunner) / "YOU'RE TO GO BACK TO THE BASE, INFILTRATE, FIND EVIDENCE OF GROMIA'S GUILT-- IF IT EXISTS-- AND THEN DEAL WITH HER. TAKE THE SWOOP." (Corde)
+— Star Wars: Legacy #40, p. 10
+
+> "WHAT ABOUT THE PRISONERS?" (Gunner) / "MY CONCERN. NOT YOURS." (Corde) / "FINE-- BUT KEEP HIM OUT OF MY BLASTER SIGHTS." (Gunner) / "C'MON, PATEESA. HOW ABOUT A NICE KISS GOODBYE? NO TONGUE, I PROMISE." (Cade) / "YOU'RE DISGUSTING." (Gunner)
+— Star Wars: Legacy #40, p. 10
+
+> "SHE IS KINDA CUTE." (Jariah) / "NOT REALLY MY TYPE." (Cade) / "WHAT ARE YOU TALKING ABOUT? SHE'S FEMALE! FEMALE HUTTS ARE YOUR TYPE!" (Jariah) / "SHE AIN'T A HUTT, SYN. SHE'S A RANCOR." (Cade)
+— Star Wars: Legacy #40, p. 10
+
+## Assassins' ship (p11)
+> "YOU FOUND MY SHIP, BUT IT WILL DO YOU NO GOOD. YOU CANNOT GET INTO IT-- FAR LESS FLY IT! IT ONLY RECOGNIZES SINT'S HANDPRINTS, OR MY OWN." (Nakia) / "MAKES THINGS SIMPLE." (Cade) / "YOU ARE TOO DELICIOUS!" (Nakia)
+— Star Wars: Legacy #40, p. 11
+
+> "MY EMPLOYER IS VIGO LUN RASK, BLACK SUN. AND THIS IS HIS SHIP. HE WILL FIND YOU, TRACK YOU DOWN, AND THEN HE WILL KILL YOU ALL. YOU CANNOT ESCAPE BLACK SUN!" (Nakia) / "WHO SAID ANYTHING ABOUT ESCAPE? YOU'RE GOING TO TAKE US TO HIM." (Cade) / "OH, IT WILL BE FUN TO WATCH HOW VIGO RASK DISPOSES OF YOU." (Nakia)
+— Star Wars: Legacy #40, p. 11
+
+(Lore: Vigo Lun Rask named as Black Sun employer (p11). Cade threatens Nakia with ignited saber (p11).)
+
+## Mos Eisley: Deliah & Ethan (p12)
+> "HMM. WE'RE NEAR THE SPACEPORT. NOT THE BEST PART OF TOWN. YOU'RE CERTAIN THE MOISTURE FARMER WHO NEEDED THIS TRIVALVE SAID TO MEET HIM HERE, FRIEND ASTRAAL?" (Ethan) / "IT'S JUST A BIT FURTHER-- AROUND THIS CORNER, FRIEND ETHAN." (Astraal — flag, hooded figure)
+— Star Wars: Legacy #40, p. 12
+
+> "AWFULLY LARGE SHIP FOR A MOISTURE FARMER." (Ethan) / "IT'S MY SHIP, IMP-- AND I'M THE ONE WHO'S TAKING THAT TRIVALVE!" (Deliah Blue) / "I'M A PIRATE AND MY CREW IS ON THAT SHIP WITH BLASTERS TRAINED ON YOU, SO DON'T TRY ANYTHING." / "JUST LEAVE THE TRIVALVE AND WALK AWAY-- WHILE YOU STILL CAN." (Deliah)
+— Star Wars: Legacy #40, p. 12
+
+> "NOT SUCH A GOOD IDEA. I MIGHT RUN TO THE AUTHORITIES. THEY'D BE ALL OVER YOU AND YOUR CREW BEFORE YOU COULD INSTALL THE PART." (Ethan) / "ALERT THE AUTHORITIES, AND WE'LL BLAST THEM WHERE THEY STAND!" (Deliah) / "SEEMS LIKE YOU NEED TO KILL ME THEN. IT'S THE ONLY SMART THING TO DO." (Ethan)
+— Star Wars: Legacy #40, p. 12
+
+(The Mynock in background. Ethan — white-bearded elder in white robes; "Imp" = Imperial? Flag identity: likely Ethan Skywalker (Jedi hiding on Tatooine) — confirm later pages.)
+
+> "I... YOU... STANG IT!" (Deliah) / "THERE ARE NO OTHER PIRATES ON THE SHIP, ARE THERE? THERE'S JUST YOU. YOU'RE NOT REALLY ASTRAAL VAO-- I'VE MET HER. WHO ARE YOU?" (Ethan) / "NAME'S DELIAH BLUE." (Deliah)
+— Star Wars: Legacy #40, p. 13
+
+> "GUESS IT'S OVER THEN. IF I CAN'T FIX THE SHIP-- IF I CAN'T GET US OFF THIS BLASTED ROCK-- I CAN'T SAVE MY FRIENDS. BLACK SUN'S GOING TO KILL EVERYONE I LOVE." / "AND THEY'LL KILL YOU, TOO-- WON'T THEY? IT'S OKAY-- YOU CAN HAVE THE TRIVALVE. BUT, IT WOULD HAVE BEEN SIMPLER TO JUST ASK FOR HELP." (Ethan)
+— Star Wars: Legacy #40, p. 13
+
+> "NOBODY GIVES AWAY ANYTHING FOR NOTHING. ESPECIALLY NOT THE EMPIRE-- NOT TO A PIRATE LIKE ME!" (Deliah) / "YOU HAVE MORE WORTH THAN YOU THINK, DELIAH BLUE." (Ethan) / "WE AT THE IMPERIAL MISSION ARE NOT THE FACE OF THE SITH EMPIRE... NOT YET ANYWAY." / "YOU NEED TO GET THAT TRIVALVE INSTALLED. WANT SOME HELP?" (Ethan)
+— Star Wars: Legacy #40, p. 13
+
+> "UH... NO OFFENSE, ETHAN, BUT THIS IS A DRIVE ON A SPACESHIP, NOT A SPEEDER." (Deliah) / "I WASN'T BORN AN IMPERIAL MISSIONARY. LET'S GET THIS THING ONTO YOUR SHIP, SHALL WE?" (Ethan)
+— Star Wars: Legacy #40, p. 13
+
+(Resolves p12 flag: Deliah Blue was disguised/posing as Astraal Vao; the elder Ethan is an Imperial Mission missionary — "Imp" = Imperial Mission. Not a Skywalker; drop that guess. Ethan = Ethan Adare (roster, from #38).)
+
+## Cade & Corde aboard the Black Sun ship (p14–16)
+> "I'M GOING TO GO CHECK AND MAKE SURE OUR ANZATI SCHUTTA IS STILL SECURE IN STASIS. YOU GOOD TO FLY THIS CRATE?" (Cade) / "ONCE I HACKED THE SYSTEM, NO PROBLEM. COMPUTER CALLS ME 'DADDY' NOW." (Jariah)
+— Star Wars: Legacy #40, p. 14
+
+> "NO NEED TO RUN A CHECK. I JUST DID. SHE'S SECURE." (Corde) / "GIVE ME ONE GOOD REASON WHY I'D TRUST AN IMPERIAL WITCH LIKE YOU." (Cade) / "OH, I DON'T KNOW-- MAYBE BECAUSE I SAVED YOUR HIDE TWICE NOW. MAYBE BECAUSE I'M YOUR MOTHER." (Corde) / "YOU'RE A LOT OF THINGS, LADY, BUT YOU WERE NEVER MY MOTHER." (Cade) / "POOR BABY. ARE WE HAVING ABANDONMENT ISSUES?" (Corde)
+— Star Wars: Legacy #40, p. 14
+
+(Nakia held in a stasis pod (p14).)
+
+> "LISTEN-- I DON'T CARE WHERE YOU WERE ALL MY LIFE. DAD AND I GOT ALONG JUST FINE WITHOUT YOU." / "STANG! RAV LOOKED AFTER ME BETTER THAN YOU EVER DID!" (Cade)
+— Star Wars: Legacy #40, p. 15
+
+> "JUST GOT ONE BURNING QUESTION-- WHERE WERE YOU WHEN DAD DIED? WERE YOU STILL AN IMPERIAL AGENT?" (Cade) / "I STILL SERVED THE EMPIRE-- YES." (Corde) / "WHICH MEANS YOU ALSO SERVED THE SITH! THE ONES THAT KILLED KOL SKYWALKER! DID YOU KNOW THE SITH MANIPULATED THE WAR IN THE FIRST PLACE?" (Cade) / "YES-- I KNEW." (Corde)
+— Star Wars: Legacy #40, p. 15
+
+> "DID YOU EVER SAY ANYTHING ABOUT IT TO DAD?" (Cade) / "I COULDN'T. MY INTERESTS-- MY BELIEFS-- MY LOYALTIES-- WERE WITH THE EMPIRE. KOL KNEW THAT WHEN WE FIRST MET. HE KNEW WHO AND WHAT I WAS." (Corde)
+— Star Wars: Legacy #40, p. 15
+
+> "BUT I DIDN'T KNOW WHAT WAS GOING TO HAPPEN AT OSSUS. I WOULDN'T HAVE KEPT SILENT ABOUT THAT. OSSUS WAS SUPPOSED TO BE A PEACEFUL SURRENDER..." / "AFTERWARDS... AFTER OSSUS, WHEN KOL WAS DEAD-- AND YOU, TOO, OR SO I THOUGHT-- IT NO LONGER SEEMED TO MATTER." / "SO I'VE SERVED MYSELF. CORUSCANT IS THE SEAT OF POWER, SO THAT'S WHERE I'VE BEEN. I'VE DONE WHAT IS RIGHT FOR ME." (Corde)
+— Star Wars: Legacy #40, p. 16
+
+> "SERVING THE POWER THAT KILLED YOUR HUSBAND AND YOUR SON." (Cade) / "THERE'S SOMETHING YOU SHOULD KNOW ABOUT ME AND YOUR FATHER. HE REALLY DID KNOW ME. GOOD AND BAD..." / "...AND HE LOVED ME ANYWAY." / "AND I LOVED HIM. AND YOU." (Corde)
+— Star Wars: Legacy #40, p. 16
+
+(Lore: Corde knew of Sith manipulation of the war but not of the Ossus massacre; thought Cade dead after Ossus. Last line said as Cade walks away, apparently unheard (p16).)
+
+## Gunner confronts Moff Gromia (p17–18)
+> "WHAT?! HOW DID YOU--?! WHAT DO YOU THINK--?!" (Gromia) / "JUST COMPARING INVENTORY AGAINST MANIFESTS. THERE ARE DISCREPANCIES. YOU HAVE EXPENSIVE TASTES, MOFF GROMIA-- TOO EXPENSIVE-- EVEN FOR A MOFF'S SALARY." (Gunner)
+— Star Wars: Legacy #40, p. 17
+
+> "YOU MADE A MISTAKE CONFRONTING ME BY YOURSELF, CAPTAIN!" (Gromia) / "MORRIGAN CORDE KNOWS EVERYTHING. NOW PUT AWAY THE BLASTER. YOU'RE UNDER ARREST, GROMIA." (Gunner)
+— Star Wars: Legacy #40, p. 17
+
+> "I WON'T SPEND A MOMENT ROTTING IN SOME MISERABLE IMPERIAL PRISON. NYNA CALIXTE GOT ME ASSIGNED TO THIS MISERABLE ROCK TO FURTHER HER OWN CAREER." / "I'VE MADE IT MY BUSINESS TO LEARN EVERYTHING I COULD ABOUT CALIXTE, SO I COULD REPAY THE FAVOR. I CAN RUIN HER. YOUR MOTHER." (Gromia) / "GO AHEAD. PLEASE. RUIN HER IF YOU'D LIKE." / "YOU'RE STILL GOING TO JAIL." (Gunner)
+— Star Wars: Legacy #40, p. 17
+
+(Feat: Gromia kicks Gunner down in her garden and draws a blaster; Gunner tackles her and they grapple, shot fired (p17). Lore: Gunner's mother is Nyna Calixte.)
+
+> "I HAVE PROOF THAT YOUR MOTHER AND MORRIGAN CORDE ARE THE SAME PERSON. IN MY FILES ARE BOTH THEIR RECORDS OF SERVICE FOR THE EMPIRE-- WHEN ONE VANISHES, THE OTHER APPEARS!" / "ANYONE WHO WANTS AGENT CORDE'S SERVICES MUST CONTACT HER THROUGH NYNA CALIXTE! BUT THE MOST RUINOUS SECRET..." / "...IS THAT CORDE WAS ONCE SECRETLY THE WIFE OF KOL SKYWALKER... A JEDI!" / "...AND THE MOTHER OF HIS SON, CADE! IF THIS CAME OUT, NYNA CALIXTE WOULD BE RUINED... A DISGRACE TO THE EMPIRE!" (Gromia) / "LIES!" (Gunner) / "GYAAAH!" (Gromia — flag)
+— Star Wars: Legacy #40, p. 18
+
+> "TOLD YOU... I WOULD NOT... SEE PRISON..." (Gromia) / "EVERYONE HAS SECRETS... USE CALIXTE'S SECRETS AND YOUR HATE TO RUIN HER..." (Gromia)
+— Star Wars: Legacy #40, p. 18
+
+(MAJOR REVEAL: Morrigan Corde = Nyna Calixte, mother of both Gunner Yage and Cade Skywalker (half-siblings). Gromia is shot point-blank in the struggle — flag whether Gunner fired or Gromia forced it; she dies on the floor (p18).)
+
+## Kaer Station: Vigo Lun Rask (p19–21)
+> "RISE AND SHINE, ANZATI. IT'S TIME FOR YOU TO PILOT THE SHIP INTO THE BLACK SUN BASE-- SO THEY CAN SEE YOUR PRETTY FACE." (Cade) / "I'VE DECIDED I'M NOT HELPING YOU AFTER ALL." / "YOU KILLED MY SINT, AND I HATE YOU FOR THAT!" (Nakia) / "YOUR DECISION. BUT THEN I DON'T GIVE YOU THE ANTIDOTE FOR THE POISON I INJECTED YOU WITH WHILE YOU WERE COMING OUT OF STASIS." (Corde)
+— Star Wars: Legacy #40, p. 19
+
+> "KAER STATION, HEADQUARTERS FOR THE BLACK SUN IN THIS REGION." (caption) / "COPY, ANZAT ONE. YOU'RE CLEARED FOR LANDING." (station control)
+— Star Wars: Legacy #40, p. 19
+
+> "LUN RASK." / "I'M CADE SKYWALKER-- THE GUY YOU PUT A DEATH MARK ON." / "I KNOW ALL ABOUT YOUR DEAL WITH MOFF GROMIA, AND YOU NEED TO KNOW THAT IT'S AS DEAD AS GROMIA MOST LIKELY IS." (Cade) / "POWER IS LIKE THAT, ALWAYS IN FLUX-- GROWING OR RECEDING... JEDI." (Lun Rask)
+— Star Wars: Legacy #40, p. 20
+
+> "I FIGURED YOU FOR SMART SCUM, SO I GOT A NEW DEAL FOR YOU. I DO TO OTHER BLACK SUN VIGOS WHAT I WAS DOING TO YOU, ONLY THIS TIME WORKING WITH YOU." / "WE RIP OFF THE OTHER VIGOS, TAKE THEIR GOODS, MAYBE EVEN TAKE THEM OUT IF YOU WANT. OFFER'S GOOD ONLY ON OTHER BLACK SUN." (Cade)
+— Star Wars: Legacy #40, p. 20
+
+> "TURN AGAINST MY OWN? I'LL KILL YOU AND THE ANZATI TRAITOR WHO LED YOU TO ME FIRST!" (Lun Rask) / "DON'T TRY TO CON A CON MAN, RASK. I'M NOT SUGGESTING ANYTHING YOU WOULDN'T DO ANYWAY." / "I'LL JUST MAKE IT EASIER-- MORE PROFITABLE AND SAFER-- FOR YOU. YOU HAVE MY WORD. IS IT A DEAL-- OR DO YOU WANT TO DIE?" (Cade)
+— Star Wars: Legacy #40, p. 20
+
+(Feat: Cade holds ignited saber to seated Lun Rask's face inside his own HQ (p20). Lun Rask = Black Sun Vigo.)
+
+> "WE HAVE A DEAL." (Lun Rask) / "GOOD. I'LL BE IN TOUCH." (Cade)
+— Star Wars: Legacy #40, p. 21
+
+> "SITHSPAWN! WHAT'D YOU DO?! WE HAD A DEAL!" (Cade) / "UHSK! RASK WOULD NEVER HAVE KEPT IT. YOU... WOULD NEVER HAVE GOTTEN OFF THIS STATION ALIVE!" (Corde) / "NOT YOUR PROBLEM! IF HE BROKE THE DEAL, I'D HAVE COME BACK AND FINISHED HIM! I GAVE MY WORD! THAT HAS TO BE ABLE TO STAND FOR SOMETHING! THIS SOME KINDA GAME TO YOU?" (Cade) / "NO... UHSK... I'M YOUR MOTHER!" (Corde) / "MOTHER? MOTHER?! AND THAT MEANS WHAT?! AFTER ALL THIS TIME, YOU SUDDENLY CARE?!" / "YOU ABANDONED ME! YOU LET DAD DIE!" (Cade)
+— Star Wars: Legacy #40, p. 21
+
+(Feat: Corde shoots Lun Rask in the face, killing him (p21). Power: Cade Force-chokes and lifts Corde, then Force-lightning crackles around him, eyes turning orange/yellow — dark side surge (p21).)
+
+## Aftermath (p22)
+> "CADE, STOP! YOU'RE GETTING THAT WAY AGAIN. YOU WANT TO KILL YOUR OWN MOTHER?! THAT SOMETHING YOU REALLY WANT TO DO?" (Jariah) / "THIS ISN'T WHO I WANT TO BE." (Cade)
+— Star Wars: Legacy #40, p. 22
+
+> "CADE... I..." (Corde) / "STOP. TALKING. STAY AWAY FROM ME! YOU FIND YOUR OWN WAY BACK. GOT NO DOUBT YOU CAN DO THAT-- YOU'RE A SURVIVOR, AFTER ALL. ABOVE ALL ELSE." / "YOU'RE NOTHING TO ME." (Cade)
+— Star Wars: Legacy #40, p. 22
+
+> "THE ANTIDOTE... YOU SAID YOU WOULD GIVE ME THE ANTIDOTE IF..." (Nakia) / "HERE." (Corde)
+— Star Wars: Legacy #40, p. 22
+
+(Cade releases Corde, echoing Luke's vision warning (#39 p18). Corde gives Nakia the antidote; Cade and Jariah fly off, leaving Corde on Kaer Station (p22).)
+
+## Coruscant: Wyyrlok & Moff Rus (p23)
+> "LISTEN CLOSELY, MOFF RUS. DARTH KRAYT'S PLAN HAS ENTERED ITS NEXT PHASE-- THE VISION IS ONE GALAXY, ONE SITH. TO THAT END, THE PURPOSE OF THE IMPERIAL MISSION WILL BE... MODIFIED." / "MISSIONARIES WILL BE TAUGHT THE SITH CODE AND SITH VALUES, WHICH THEY WILL THEN TEACH OTHERS THROUGHOUT THE GALAXY." (Wyyrlok) / "I... I CAN'T BELIEVE I'M HEARING YOU CORRECTLY, MY LORD!" (Rus)
+— Star Wars: Legacy #40, p. 23
+
+> "I HAVE AN UNDERSTANDING WITH DARTH KRAYT THAT THE IMPERIAL MISSION WOULD BE ALLOWED TO CONTINUE ITS MISSION OF MERCY UNCHANGED. IF I COULD ONLY SPEAK WITH HIM..." (Rus) / "DARTH KRAYT WILL BE UNAVAILABLE FOR THE FORESEEABLE FUTURE. I AM KRAYT'S VOICE, AND SPEAK FOR HIM." / "THE IMPERIAL MISSION WILL BE WHAT WE SAY IT WILL BE. I WILL SEND YOU THE NEW GUIDELINES AND YOU WILL PERSONALLY RECEIVE SITH INSTRUCTION. DISMISSED." (Wyyrlok)
+— Star Wars: Legacy #40, p. 23
+
+> "AH, RUS. COME FROM YOUR MEETING WITH DARTH WYYRLOK, HAVE YOU? GO WELL?" (Imperial officer — flag, unnamed; possibly Moff Nyna-era officer) / "NO. NO, IT DIDN'T." (Rus) / "WELL, I'M SURE YOU'LL DO YOUR PART. THE EMPIRE MUST BE SERVED." (officer) / "YES." (Rus)
+— Star Wars: Legacy #40, p. 23
+
+(Lore: Krayt "unavailable"; Wyyrlok acts as Krayt's voice; "One Galaxy, One Sith". Moff Rus = Konrad Rus (roster), head of the Imperial Mission; distinct from Ethan Adare.)
+
+## Departure (p24)
+> "YAAAAA-HAAAAA!" / "FLY, BABY! STRUT YOUR STUFF! FEELS GOOD TO SHAKE THE PLANET AGAIN, DON'T IT?!" (Deliah) / "YOU TALKING BABY TALK TO THAT SCRAP OF BOLTS AGAIN, DELIAH? SAD, SAD, SAD." (Jariah) / "SYN'S JUST JEALOUS. KNEW YOU'D GET THE MYNOCK UP AND RUNNING, BLUE. MEET US AT JAWA ROCK." (Cade)
+— Star Wars: Legacy #40, p. 24
+
+> "I WANT OFF TATOOINE; I'VE HAD ENOUGH OF THIS SUN-BAKED DUST BALL." (Cade) / "WHERE WE HEADED?" (Jariah) / "ANYPLACE THAT ISN'T HERE." (Cade)
+— Star Wars: Legacy #40, p. 24
+
+(THE END of "Tatooine" arc.)

@@ -1,0 +1,119 @@
+Kit Fisto research extraction
+
+Final URL: https://starwars.fandom.com/wiki/Kit_Fisto/Legends
+Continuity: Legends. The requested /Legends page loaded successfully; no fallback was needed.
+Page title: Kit Fisto | Wookieepedia | Fandom
+Scope note: Extracted only statements appearing on the page. Bracketed numbers are the page's citations; source-key below maps the most relevant ones.
+
+CONCRETE FEATS / EVENTS
+
+1. General role and Geonosis [16]
+- Fisto was one of the Jedi who entered the Battle of Geonosis, survived the arena battle, boarded Yoda's gunship, and then led the newly formed Grand Army against the Separatist droid army.
+  Source: Star Wars: Episode II Attack of the Clones [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 16; approximate match 0.72, verify]
+
+2. Mon Calamari and water combat [17][18][29][30][31]
+- Led clone SCUBA troopers at the Battle of Mon Calamari and destroyed a Quarren crab cannon.
+  Source: Star Wars: Clone Wars [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 17; approximate match 0.91, verify]
+- Defeated a large Moappa composite creature by scattering its individual jellyfish-like organisms through the water; the page says this creature had superlative intelligence and telepathy.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In the Second Battle of Mon Calamari, drove a mini-sub into a hydroid medusa and destroyed it.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Swam to Prince Lee-Char's defense and tackled Riff Tamson, briefly dislocating Tamson's lower jaw. Fisto then lost his lightsaber and fought Tamson unarmed until aqua droids captured him.
+  Source: Star Wars: The Clone Wars — "Gungan Attack" [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 30; per-sentence approximate match (1/2 sentences matched, min 0.69), verify]
+- While imprisoned and tortured by electrocuting eel cages, Fisto and Anakin Skywalker did not reveal information. Fisto proposed using the Force to expel water from their surroundings, helping save Padme Amidala from drowning.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+3. Kamino rescue [19]
+- During the Kamino investigation, Fisto fought super battle droids. When Aayla Secura was dragged underwater, Fisto jumped after her and, being amphibious, breathed for both of them by locking lips with her.
+  Source: "Tides of Terror" — Star Wars Tales 14 [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 19; approximate match 0.65, verify]
+
+4. Devaron [20]
+- With T'ra Saa, assaulted and captured a Separatist base while other Jedi were injured and Aayla Secura was holding off Aurra Sing.
+  Source: Jedi: Aayla Secura [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 20; approximate match 0.83, verify]
+
+5. Ord Cestus / Asajj Ventress [21]
+- The page says Fisto was the first to defeat the new "Jedi Killer" droid type; an ARC trooper named Sirty had been knocked out by one in twenty seconds.
+  Source: The Cestus Deception [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 21; approximate match 0.78, verify]
+- Fisto took out Ventress's X'Ting minions. Against Ventress, he accelerated into motion complex and rapid enough to baffle Obi-Wan Kenobi's experienced gaze, but Ventress wounded him in the arm and nearly killed him.
+  Source: The Cestus Deception [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 21; approximate match 0.67, verify]
+- Fisto returned the favor when the near-unconscious Jedi quickly saved Kenobi from being beheaded.
+  Source: The Cestus Deception [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 21; approximate match 0.77, verify]
+
+6. General Grievous / Vassek [6]
+- Fisto's team surprised Grievous at his castle; the page says Grievous lost his legs in the first engagement and escaped to the control room.
+  Source: Star Wars: The Clone Wars — "Lair of Grievous" [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 6; per-sentence approximate match (1/2 sentences matched, min 0.62), verify]
+- Fisto handled a medical droid, destroyed the control console, and escaped the castle after Nahdar Vebb was shot by Grievous's hidden blaster.
+  Source: Star Wars: The Clone Wars — "Lair of Grievous" [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 6; approximate match 0.61, verify]
+- In the cliff duel, Grievous initially gained the upper hand with his four-blade "windmilling" attack. Fisto then locked Grievous's blades, ducked a strike, severed one of Grievous's hands, and reclaimed Vebb's lightsaber.
+  Source: Star Wars: The Clone Wars — "Lair of Grievous" [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 6; per-sentence approximate match (1/2 sentences matched, min 0.61), verify]
+- Fisto switched to Jar'Kai and was about to pin Grievous to the cliff wall when IG-100 MagnaGuards arrived. He used the Force to jump to his starfighter and escaped rather than fight the surrounding guards.
+  Source: Star Wars: The Clone Wars — "Lair of Grievous" [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 6; per-sentence approximate match (1/2 sentences matched, min 0.79), verify]
+- Context/caveat on the same page: the later assessment says Grievous had overwhelmed Fisto and Vebb in the first engagement, and Fisto fought evenly in the later duel only after Grievous had recently been patched up.
+  Source: Star Wars: The Clone Wars — "Lair of Grievous" ; The Clone Wars: Grievous Attacks! [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 6,39; approximate match 0.69, verify]
+
+7. Rishi, Rodia, Lola Sayu, Cato Neimoidia [24][25][28][35]
+- On Rishi, Fisto and clone trooper Cooker attacked and killed the Geonosian force in the area.
+  Source: The Gauntlet of Death — Free Comic Book Day 2009 Special [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 24; approximate match 0.75, verify]
+- On Rodia, Fisto redirected several thermal detonators into a droid generator, deactivating the planet's droids.
+  Source: The Clone Wars: Hunting the Hunters (Part II) [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 25; approximate match 0.70, verify]
+- At Cato Neimoidia, led the ground clone assault, broke through to Gunray's citadel, and found Gunray had escaped.
+  Source: Labyrinth of Evil [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 35; approximate match 0.63, verify]
+- In the Coruscant evacuation battle, Fisto and Windu opposed Grievous's strike force and saved the Chancellor and civilians on the mag-lev train. Fisto took down two MagnaGuards with ease while Windu fought Grievous.
+  Source: Labyrinth of Evil [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 35; per-sentence approximate match (2/2 sentences matched, min 0.76), verify]
+
+8. Sidious confrontation and death [2][36]
+- After Anakin identified Palpatine as Darth Sidious, Fisto joined Mace Windu, Agen Kolar, and Saesee Tiin in the attempt to arrest him.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Kit Fisto/Legends" rev 15714613 but it has no inline citation in its paragraph; approximate match 0.79, verify)
+- Sidious killed Kolar and Tiin with incredible speed before they could react. Fisto joined Windu and survived much longer than Kolar and Tiin while the two Jedi pressed Sidious with a flurry of attacks.
+  Source: Star Wars: Episode III Revenge of the Sith novelization ; Star Wars: Episode III Revenge of the Sith [per Wookieepedia "Kit Fisto/Legends" rev 15714613, ref 36,2; approximate match 0.82, verify]
+- The page says Fisto's Shii-Cho was no match for Sidious's superior fighting skill, though Fisto blocked several of Sidious's blows. Sidious then cleaved Fisto in the stomach with his lightsaber.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Do not read this as a win or parity claim: the page explicitly says Fisto could not compete with Sidious and died in the encounter.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+CITED POWER / SKILL STATEMENTS (page wording summarized or quoted)
+
+- Quote: Yoda told Fisto, "Master Fisto, in these matters, trust your insight we do." [7]
+- Quote: Fisto said, "Those who have power should restrain themselves from using it." [6]
+- Quote: In the Grievous mission, Fisto said, "This is the lair of General Grievous!" [6]
+- Quote: Discussing Shii-Cho, Fisto said, "I should have gone closer to the edge. Released myself into the Force, become more unpredictable. More random." Obi-Wan replied that this would be dangerous; Fisto answered, "It is the way of Form I." [21]
+- The page calls Fisto a master practitioner of Shii-Cho and says he was considered one of the Jedi Order's best swordsmen. [21][36]
+- It says Shii-Cho specializes against multiple foes/multiple weapons, which suited Grievous's four lightsabers. [38]
+- It attributes quick thinking and speedy reflexes to Fisto, citing his cutting off Grievous's legs and later one hand. [6]
+- It says Fisto was competent in Form IV, could use dual blades and lightwhips, and sometimes used a reverse Shien grip. [6][21][23][24]
+- It says he could create/manipulate water currents with the Force and developed the Force water orb, described as his own technique and the only known practitioner of it. [5][9] The page says he used the water orb in the Battle of Mon Calamari. [9]
+- It says Fisto was skilled in Force speed; his Force-enhanced speed baffled Obi-Wan on Ord Cestus. [21]
+- It says Fisto was an extremely skilled swimmer, a lethal underwater foe, and reasonably adept in unarmed combat; it also records that he held his own against Riff Tamson underwater but could not defeat him. [23][30]
+- His lightsaber had two crystals and a bifurcating cyclical-ignition pulse, allowing the blade to operate underwater. [source in page text immediately before the Force-abilities paragraph; no separate bracket was displayed there]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Kit Fisto/Legends" rev 15714613 but it has no inline citation in its paragraph; approximate match 0.91, verify)
+- The page says his olfactory sense let him read other sentients' emotions. [9]
+
+HYPE / ASSESSMENTS (kept separate from demonstrated feats)
+
+- "one of the best swordsmen in the Jedi Order" is an article assessment, not a quantified ranking. [36]
+- The page describes the Jedi Killer droids as having "unmatched combat abilities" based on the ARC-trooper demonstration; this is hype/description attached to the droids, not proof of a general Fisto power level. [21]
+- The page says Fisto went head to head with many of the most dangerous Clone Wars adversaries and survived, and says he "almost defeated" Grievous. These are broad assessments; the concrete Grievous sequence is recorded above. [6][21]
+- A battle quote has Sentepeth Findos say of Fisto: "Send more droids against the Jedi Knight! Their bodies are making a pile so high that he will never be able to cross it!" This is an in-universe boast/hype statement, not a neutral measurement. [34]
+- The page reports a hypothetical Star Wars: Head-to-Head matchup where Fisto was judged victorious over Darth Maul. This is explicitly hypothetical and is not a feat. [4]
+
+SOURCE KEY FOR THE CITATIONS USED ABOVE (as listed on the page)
+[2] Star Wars: Episode III Revenge of the Sith.
+[4] Star Wars: Head-to-Head Tag Teams.
+[5] Power of the Jedi Sourcebook.
+[6] Star Wars: The Clone Wars — "Lair of Grievous."
+[7] The page's citation [7] is Star Wars: Clone Wars — "Chapter 5."
+[9] The New Essential Guide to Characters.
+[16] Star Wars: Episode II Attack of the Clones.
+[17] Star Wars: Clone Wars.
+[19] Jedi: Aayla Secura.
+[20] Republic 65/66 material is cited on the page as Jedi: Aayla Secura for this entry.
+[21] The Cestus Deception.
+[23] "Means and Ends" — Star Wars: Clone Wars Adventures Volume 6.
+[24] The Gauntlet of Death — Free Comic Book Day 2009 Special.
+[29] Star Wars: The Clone Wars — "Water War."
+[30] Star Wars: The Clone Wars — "Gungan Attack."
+[31] Star Wars: The Clone Wars — "Prisoners."
+[34] Star Wars: Republic: Show of Force.
+[35] Labyrinth of Evil.
+[36] Star Wars: Episode III Revenge of the Sith novelization.
+[38] Star Wars: Knights of the Old Republic II: The Sith Lords.

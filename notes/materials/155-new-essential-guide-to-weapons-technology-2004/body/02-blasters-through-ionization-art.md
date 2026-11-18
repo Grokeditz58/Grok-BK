@@ -1,0 +1,102 @@
+# NEGWT 2004 — notes155: Blasters through Ionization Blaster art (printed 5–14 / scan 031–040)
+2004-source paraphrase; official pull-quotes logged as crop candidates (not yet cropped/certified). Mapping: S = P + 26.
+
+## Printed 5 / S031 — BlasTech DH-17 Blaster Pistol
+The P4 art plate is this entry’s DH-17 (confirmed by this page’s title + schematic).
+- Blasters are “the most common weapon in the galaxy,” “found on nearly every planet in the Republic,” and “manufactured by thousands of different companies.” Personal designs range from small, easily concealable “hold-out” blasters (gamblers; the Naboo Royalty) to durable heavy blaster pistols (smugglers and other criminals). The same technology has also produced blaster rifles, repeating blasters, blaster cannons, and blaster turrets.
+- “A blaster fires a concentrated beam of high-energy particles.” In the most powerful blasters, “these beams (or ‘bolts’) can punch or burn through advanced alloys with relative ease.” “When used against organic tissue, most blasters cause irreparable damage.”
+- Mechanism: “A blaster relies on two key components: a gas chamber and a power pack.” The gas chamber “can be filled with any of a number of energy-rich gases, including Tibanna gas from Bespin.” When fired, “a small amount of blaster gas moves through a conversion enabler (often called the XCiter), where energy from the power pack excites the gas. The volatile gas then moves through an actuating module, which converts it into a particle beam. This beam moves through a prismatic crystal or some other focusing device before emerging from the barrel as a bolt of glowing energy.” “Blaster bolts can appear in many different colors, dictated by the type of gas and crystal focusing device, although red and green bolts are most common.” “All blaster bolts produce a smell similar to ozone.”
+- Persistence: despite research into sonic and other weapons, blasters remain “the most pervasive ranged weapons in part because of their reliability and accuracy.” “Blaster power packs, which can provide energy for up to one hundred bolts, are cheap and can be replaced in under ten seconds or recharged at portable generators.” “Blaster gas is also readily available, and a full chamber can fuel five hundred bolts.” “Blasters can be easily repaired using common hand tools; spare blaster repair kits and parts can be found at even the smallest and most remote galactic outposts.”
+- Accuracy (matches the P4 readout): “Most blasters are highly accurate at ranges of less than 30 meters, although common handheld blasters have a maximum range of up to 120 meters.”
+- “Probably the blaster’s most important trait is its versatility.” Manufacturers “modify the basic design to produce literally thousands of variants,” and owners “can often make small, easy modifications to increase a blaster’s performance.” “For example, while most blasters are semi-automatic weapons that fire once whenever the trigger is pulled, some can be modified for automatic fire, allowing a wielder to simply hold down the trigger to issue a steady stream of bolts.”
+- **Callout 7 Safety:** “Rebel soldiers were well known for practicing safe firearm use. The Alliance modified all blaster pistols to include a safety that prevents accidental discharges.”
+- **Schematics:** 1 Scope; 2 Cooling Vents; 3 Emitter Nozzle; 4 Trigger; 5 Gas Chamber; 6 Power Pack; 7 Safety.
+- **Official pull-quote (crop candidate):** “Hokey religions and ancient weapons are no match for a good blaster at your side, kid . . .” —Han Solo to Luke Skywalker
+
+## Printed 6 / S032 — Blasters (continued)
+- Settings include a “stun” setting that “reduces the volatility and so can render targets unconscious for up to ten minutes without causing any lasting physical damage.”
+- **Naboo CR-2** (Corellian Arms): secondary firing mode “uses bolts of concentrated electricity to stun targets.”
+- **Relby-K23** (Cloud City’s Wing Guard and many Imperial agents): “designed to inflict excruciating pain and slow death.”
+- Aftermarket upgrades: scopes, silencers, targeting lasers, sensitive hair-triggers, extended barrels for increased accuracy at long ranges, and other components.
+- **DH-17:** used extensively by Rebel Alliance infantry during the Galactic Civil War; “typical of most blaster pistols.” “Meant for shipboard combat: its bolts are capable of penetrating stormtrooper armor, but it can’t breach the hull of a starship.” “It can also be modified to fire in short bursts (which drain the power pack in about twenty seconds),” and “the weapon’s sturdy construction enables its use on hostile worlds such as the ice planet Hoth.”
+- Infantry may favor heavy, durable pistols; mercenaries and bounty hunters “tend to prefer lighter weapons with a high rate of fire.”
+- **Jango Fett:** “a pair of custom-made WESTAR-34 blaster pistols designed for precision attacks,” “constructed using an expensive, heat-resistant dallorian alloy that allowed sustained attacks without risk of overheating or melting.”
+- **434 “DeathHammer”** pistol: popular among bounty hunters for stopping power; owners “often decorated” them and “add ornate markings after each kill.”
+- Most common variants: heavy blaster, sporting blaster, and hold-out blaster.
+- **Heavy blaster:** “designed for extreme close-quarters combat.” “The bolts are accurate only at ranges of less than twenty-five meters, but they cause incredible damage compared to most blaster rifles, and can easily penetrate personal deflector shields and armor.” They “require much more energy to fuel their more powerful bolts; often their power pack may contain enough energy for only twenty-five shots.”
+- **Han Solo’s DL-44:** “a heavily modified weapon: the blaster includes a motion sensor scope and efficient galven circuitry that allows the pistol to deal more damage without draining additional energy.”
+- **Sporting blasters:** e.g. the **Drearian Defense Conglomerate Defender** “used by Princess Leia in the early days of the Galactic Civil War,” “among the lightest and least powerful on the market.” A short-range weapon “sometimes used for hunting small game”; also “well suited to personal defense.” “Utilizes very little energy or blaster gas, but its potency is limited: only a direct hit to the chest or head can actually kill a human.” “Fortunately, most sporting blasters are very accurate, due in part to their extended barrels.” “The Defender boasts an internal computer that automatically detects and repairs minor malfunctions.”
+- **Hold-out blasters:** “the smallest of all blaster pistols,” “also called palmguns for their ability to fit neatly into a human palm.” “Designed to surprise attackers”; “last-ditch defense”; “can easily be concealed inside a robe, shirt, or sleeve.”
+  - **Merr-Sonn J1 Happy Surprise:** “one of the best known”; “the weapon’s nickname perfectly describes its intended use.”
+  - **Queen Amidala and her handmaidens** carried **Q2** hold-out blasters, “a weapon based on the ELG line of Diplomat’s Blasters.” “Like many hold-out blasters, the Q2 is deadly when used at point-blank range, but inaccurate when used beyond roughly three meters.”
+  - Imperial scout troopers “carry concealed hold-out blasters.”
+  - Imperial Security Bureau: “rigorously tested **22T4** blasters.” “To prevent the ISB’s weapons from being stolen, each 22T4 is equipped with a traceable serial number hidden beneath the actuating blaster module.”
+- Drawbacks: “prone to overheating, especially when inadequately maintained or modified for full-automatic fire.” “An overheated blaster will lock up or, far worse, explode in the user’s hand.” “On backwater worlds such as Tatooine, blasters are considered expensive weapons because they require a constant supply of power packs and blaster gas.” “Blasters have been tightly regulated under both the Empire and the New Republic.” “Many blaster pistols, including the DL-44, remain illegal on most New Republic worlds.”
+
+## Printed 7 / S033 — Blaster schematics plate (three weapons)
+No running prose; three labeled line-art boards (Aurebesh captions under each board, not certified here).
+- **WESTAR-34 Blaster Pistol:** 1 Low-Power Pulse Indicator; 2 Gas/Power Cell Cartridge; 3 Trigger; 4 Cut-Out Handle; 5 Overload Flash Dissipator Port; 6 Blaster Chamber.
+- **DL-44 Heavy Blaster:** 1 Stun Setting Switch; 2 Power Pack Release Lever; 3 Power Pack; 4 Sight Adjustment; 5 Scope; 6 Trigger.
+- **Q2 Hold-Out Blaster (Naboo Royal Pistol):** 1 Blast Nozzle; 2 Trigger; 3 Power Cell; 4 Gas Cartridge; 5 Actuating Blaster Module.
+
+## Printed 8 / S034 — Blaster Rifle (art + Technical Readout)
+Full-page color E-11-style rifle (vented barrel, scope, folding/extendable stock) on a blueprint grid. Title: BLASTER RIFLE.
+- **DAMAGE TYPE:** BLASTER ENERGY
+- **OPTIMUM/MAXIMUM RANGES:** 100 m/300 m
+- **PRIMARY MANUFACTURER:** BLASTECH
+- **AFFILIATION:** IMPERIAL STORMTROOPERS
+
+## Printed 9 / S035 — BlasTech E-11 Blaster Rifle
+- “Designed primarily for use by military and security forces, the blaster rifle is essentially a larger version of a blaster pistol, with increased power and range.” Same gas / power pack / focusing-crystal principle, but “larger power packs and gas chambers than their pistol counterparts, as well as longer barrels, allowing for even more lethal bolts that can cover nearly three times the range.” “Due to the blaster rifle’s increased size, the weapon generally requires two hands to fire, although the most successful models remain relatively compact.”
+- Typical factory enhancement: “the ability to alternate among semiautomatic, fully automatic, and pulse-fire settings.” “Special secondary fire modes for firing grenades, darts, or even flares are also common.”
+- **Xerrol Night-stinger** rifle, “favored by snipers and assassins, utilizes expensive blaster gas to produce a completely invisible blaster bolt.”
+- **Boba Fett:** “a modified BlasTech EE-3 rifle with a sawed-off barrel and removable stock and pistol grip that would allow him to fire the weapon with one hand.” “Modifications to the XCiter and actuating blaster module increased the weapon’s power, while a high-power scope connected to Fett’s helmet sensors improved accuracy.”
+- During the Galactic Civil War, “the BlasTech E-11 became standard issue for Imperial stormtroopers, largely due to its versatility.” “The E-11’s most obvious trait is its extendable stock.” “With the stock collapsed, the E-11 can be wielded with one hand for close-quarters combat.” “During long-range combat, the stock can be fully extended and placed against the wielder’s shoulder for increased stability and accuracy.” “A computer-enhanced scope that compensates for dark, hazy, or smoky conditions further increases the weapon’s effectiveness.” “Dozens of minute tubes running through the E-11’s body carry a liquid cooling agent called freelol, which transfers heat from delicate components to vent holes located near the front.”
+- Variants: original E-11 “sold exclusively to Imperial military forces during the Galactic Civil War.” **E-11A** and **E-11A1** “are smaller versions of the original E-11 that lack extendable stocks”; “the E-11A1 is compact enough to be worn on the hip and fired with one hand.” **E-11B**, “created by former BlasTech designers who left the company and joined the Rebel Alliance, includes a much more robust version of the original E-11’s freelol cooling system that allows a much faster rate of fire.” SoroSuub “‘designed’ the SoroSuub Stormtrooper One, which is virtually identical to the original E-11.” “Nearly all of the SoroSuub rifles landed in the hands of Rebel troops, who renamed this weapon the Freedom One.”
+- **Callout 7 Power Setting:** “The E-11 has a powerful stun setting that can render political prisoners, such as Princess Leia, unconscious for up to ten minutes.”
+- **Schematics:** 1 Extendable Stock; 2 Scope; 3 Power Pack; 4 Trigger; 5 Rotating Coupler; 6 Safety; 7 Power Setting.
+- **Official pull-quote (crop candidate):** “And these blast points, too accurate for Sand People. Only Imperial stormtroopers are so precise.” —Obi-Wan Kenobi, observing damage done to a Jawa sandcrawler by stormtroopers armed with E-11 blaster rifles
+
+## Printed 10 / S036 — E-Web Repeating Blaster (art + Technical Readout)
+Full-page color tripod-mounted heavy repeating blaster (matches the uncaptioned P3 support-weapon art). Title: E-WEB REPEATING BLASTER.
+- **DAMAGE TYPE:** BLASTER ENERGY
+- **OPTIMUM/MAXIMUM RANGES:** 200 m/0.5 km
+- **PRIMARY MANUFACTURER:** BLASTECH (with Merr-Sonn Munitions)
+- **AFFILIATION:** IMPERIAL SNOWTROOPERS
+
+## Printed 11 / S037 — BlasTech E-Web Repeating Blaster
+- “One of the most powerful portable blaster weapons available.” “Essentially a thick blaster rifle mounted on a tripod.” “The E-Web’s blaster bolts are capable of penetrating the armor plating of ground vehicles, airspeeders, and small starships.” “Because of its incredible stopping power, the E-Web was used by Imperial snowtroopers at the Battle of Hoth for direct assaults on Rebel defensive positions, snowspeeders, and even *Millennium Falcon*.”
+- Heavy repeating blasters such as the E-Web “first evolved to protect outposts against invasions.” “Though oversized and stationary, they proved effective at slowing infantry advances.” “The modern designation *E-Web* is derived from the weapon’s official description as an ‘Emplacement Weapon, Heavy Blaster,’ which references its origins as a small turret.” “During the Clone Wars, the Old Republic used smaller repeating blasters that could be installed anywhere on a battlefield. One of these weapons was the E-Web’s predecessor, Merr-Sonn Munitions’ E WHB-10.”
+- Crew: “requires both a gunner and a technician to operate efficiently.” Gunner “is assisted by a computerized fire-control and targeting system, Starvision, and infrared low-light enhancement modules.” Technician “monitors the E-Web’s Eksoan Class-4T3 power generator, which is connected to the turret by a flexible conduit.” “The generator is equipped with Ck3 Cryocooler cooling units to prevent overheating.” The technician “is needed to control power flow, and acts as a communications officer, receiving orders via a built-in long-range comlink.” “Both members of an Imperial E-Web crew receive intense training so either soldier can operate the weapon alone if necessary.”
+- “Chief drawbacks are its lengthy setup time and immobility.” “The weapon must be carted onto a battlefield, usually by an AT-AT walker or other ground vehicle, and then assembled by the crew.” “During initial setup, the crew requires more than fifteen minutes to position the E-Web, calibrate the ‘cold’ generator, and configure the targeting system.” “If the crew fires the E-Web before the generator is primed, the weapon may suffer dangerous power surges.” Repositioning requires disassembly and carry; “Reassembling a primed E-Web takes less than five minutes.”
+- Despite disadvantages, “valued by military tacticians.” “The rotating turret provides a 360-degree field of fire, while high-capacity power transfer cells inside the barrel recharge quickly enough to allow a steady stream of energy bolts.”
+- After Emperor Palpatine’s death, BlasTech produced the **E-Web(15)**, the **F-Web**, and the **M-Web**. “The E-Web(15) offers a shorter setup time than its predecessor, due largely to an improved power generator that does not require a complete priming sequence, and a more advanced Gk7 Cryocooler system to increase power flow.” “The F-Web provides a personal shield generator, while the M-Web (‘Mobile Weapon’) can be easily moved across a battlefield using small repulsorlifts built into the turret and power generator.”
+- **Callout 6 Tripod:** “The E-Web’s TR-62 autocushion tripod is relatively compact, making it suitable for use in the tight confines of the Rebel Alliance’s hidden base on Hoth.”
+- **Schematics:** 1 Emitter Nozzle; 2 Flashback Suppressor; 3 Gas Chamber; 4 Fire Control Computer; 5 Power Generator Conduit Connector; 6 Tripod.
+- **Official pull-quote (crop candidate):** “Keep your heads down or that E-Web will take them off!” —Alliance Trench Sergeant Reyé Hollis at the Battle of Hoth
+
+## Printed 12 / S038 — Bowcaster (art + Technical Readout)
+Full-page color traditional Wookiee bowcaster (curved limbs with spherical tips, sighting module, central body) on a blueprint grid.
+- **DAMAGE TYPE:** EXPLOSIVE AND KINETIC
+- **OPTIMUM/MAXIMUM RANGES:** 30 m/50 m (30 m with kthysh vine bowstring)
+- **PRIMARY MANUFACTURER:** WOOKIEES OF KASHYYYK
+- **AFFILIATION:** CHEWBACCA AND OTHER WOOKIEES
+
+## Printed 13 / S039 — Wookiee Bowcaster
+- “The traditional ranged weapon of the Wookiees”; “a fusion between ancient weaponry and more modern technology.” “Also known as a laser crossbow”; “a very inventive use of a small magnetic accelerator.” “Twin polarizers on either side of the crossbow create alternating positive and negative pulses, which power the weapon’s tensile metal bowstring.” When the trigger is pulled, “the accelerated bowstring launches an explosive quarrel.” “As the quarrel travels the length of the bowcaster’s launch shaft, it is enveloped in energy generated by the polarizers.” “When the quarrel emerges from the bowcaster’s barrel, it resembles an elongated blaster bolt.” “The quarrel’s energy sheath focuses the quarrel’s explosive force directly into its target, making the bowcaster one of the most devastating personal weapons ever created.” “However, a Wookiee’s legendary strength is required just to cock and control the weapon.”
+- Ammunition: explosive quarrel is “the most common”; also flash and smoke quarrels (can blind enemies); “basic energy quarrels increase accuracy at the cost of sheer damage output.” “For stunning large predators on their homeworld of Kashyyyk, Wookiee hunters fire sonic quarrels that produce high-pitched explosions.” “Carved wooden bolts, often tipped with explosives or poison, are used when more expensive manufactured quarrels are unavailable.”
+- “Hand-built by skilled Wookiee weaponsmiths, each bowcaster is unique and tailored specifically for the owner’s use,” making them “very personal possessions.” “Young Wookiees receive bowcasters upon completing traditional rites of passage.” Warriors “often decorate their weapons with clan markings, engravings, and even pictographs commemorating their most heroic deeds.”
+- Combat modifications: “additional bowstrings or a second bow for firing multiple quarrels at once.” “Chewbacca’s bowcaster boasts an automatic recocking system and low-light scope.” During the Galactic Civil War, “Wookiees battling the Imperial occupation of Kashyyyk often bolted blaster rifles to their bowcasters.” “More recently, Wookiee weapons designers added a built-in blaster barrel beneath the bow launch shaft.” “Wookiees also construct larger versions of the bowcaster, which are mounted on the saddles of maru and other domesticated creatures.”
+- Travel: typically disassembled “into a handful of components that can be carried in standard utility pouches.” “A practiced Wookiee can reassemble a bowcaster in less than a minute.” “Power packs, quarrels, and blaster gas canisters are typically stored in shoulder-slung bandoliers.”
+- Imitators: “BlasTech sells smaller, less powerful versions of the weapon that nearly any sentient species can cock and fire.” “Drolan Plasteel’s bowcaster entry is the P-71 repeating crossbow, which combines a bowcaster with a blaster rifle, with all components housed in a stylish, lightweight plasteel shell.”
+- **Callout 7 Secondary Bowstring Catch:** “A length of treated kthysh vine can be attached to the bowcaster’s secondary bowstring catch to serve as a replacement bowstring.”
+- **Schematics:** 1 Polarizer; 2 Tension Adjust; 3 Blaster Gas Chamber; 4 Power Pack; 5 Scope; 6 Bowstring Catch; 7 Secondary Bowstring Catch.
+- **Official pull-quote (crop candidate):** “I ain’t afraid of Wookiees. It’s their bowcasters that scare me.” —Anonymous Trandoshan slaver
+
+## Printed 14 / S040 — Ionization Blaster (art + Technical Readout)
+Full-page color funnel-mouthed ion blaster with a wooden-style stock and scavenged/assembled look, on a blueprint grid. Title: IONIZATION BLASTER.
+- **DAMAGE TYPE:** ION ENERGY
+- **OPTIMUM/MAXIMUM RANGES:** 8 m/12 m
+- **PRIMARY MANUFACTURER:** JAWA WEAPONSMITHS
+- **AFFILIATION:** TATOOINE’S JAWAS
+Text/schematics expected on printed 15 / S041.

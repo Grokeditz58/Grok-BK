@@ -1,0 +1,106 @@
+# Star Wars: Legacy #24 — "Loyalties, Part Two" (Dark Horse, May 2008)
+
+- Script John Ostrander · art Jan Duursema · inks Dan Parsons · colors Brad Anderson · letters Michael Heisler · cover Duursema & Anderson ("ENEMY AT THE DOOR!"). 24 pages read (p1 cover, p2 credits/recap, p3–24 story). Set 137 ABY, at Rawk's Nest, four days after #23.
+- Page numbers are file pages (p1 = cover).
+- **Identity: Bantha Rawk is Nat Skywalker**, Kol's older brother and Cade's uncle, a former Jedi Knight (p6).
+
+## Nat Skywalker / Bantha Rawk
+
+**1. Reveals who he is and tells the family history.** p6–7
+> "PROBABLY MET HER BACK THEN. AFTER ALL, SHE'D BE YOUR SISTER-IN-LAW -- BACK WHEN YOU WERE STILL NAT SKYWALKER, JEDI KNIGHT!" (Cade) · "I DROPPED THAT NAME WHEN I LEFT THE ORDER -- FOR REASONS THAT ARE NONE OF YOUR DANG BUSINESS. DROO KNOWS, TH' KITS DON'T."
+> — Cade Skywalker / Bantha Rawk, Star Wars: Legacy #24, p. 6
+
+> "I KNEW MY KID BROTHER WAS ON ASSIGNMENT WITH HER. MIGHT HAVE BEEN MY ASSIGNMENT, BUT THE JEDI COUNCIL OF SEERS SAW KOL AS THE ONE FOR IT." · "AND WHEN THEY GOT SECRETLY MARRIED, I KEPT THAT SECRET TOO" · "BESIDES, WHAT WAS AN IMP AGENT LIKE HER GONNA DO AMONG THE JEDI?"
+> — Bantha Rawk, Star Wars: Legacy #24, p. 6
+
+> "WHEN YOU WAS A SMALL KIT, KOL WAS ALWAYS ON CORUSCANT ON JEDI BUSINESS. HE UNDERSTOOD THE FORCE IN WAYS I NEVER COULD. NATURAL-BORN LEADER -- WHAT FOLKS LOOKED FOR IN A SKYWALKER." · "I THINK THAT WOMAN TORE UP HIS HEART BAD." · "FAMILY TAKES CARE OF FAMILY."
+> — Bantha Rawk, Star Wars: Legacy #24, p. 7
+
+**2. Dresses Cade down, then trades punches with him.** p5, p10
+> "JUST HOW MANY DIFFERENT KINDS OF IDIOT CAN YOU POSSIBLY..!"
+> — Bantha Rawk, Star Wars: Legacy #24, p. 5
+
+> "THAT'S YOUR DANG-BLAMED PROBLEM -- ALWAYS RUNNING OFF HALF-COCKED WITH NO DANG-BLAMED PLAN ... LIKE SNEAKING ALONE INTO DANG-BLAMED SITH TEMPLES! GALAXY'S A DANGEROUS PLACE! YOU NEED TO SMARTEN UP, BOY! YOU NEED TO THINK BEFORE YOU DO SOMETHING STUPID!" · "WE'RE NOT GOING TO PANIC AND WE'RE NOT GOING TO ACT OUT OF FEAR."
+> — Bantha Rawk, Star Wars: Legacy #24, p. 10
+
+**3. Beats Azlyn Rae in a Force-and-lightsaber fight. He senses her coming in the Force.** p14–16
+> "THIS IS MY TURF AND PEOPLE COME BY INVITE ONLY -- WHICH YOU AIN'T GOT." · "YOU, BANTHA RAWK, DO LIVE UP TO YOUR REP." (Azlyn)
+> — Bantha Rawk / Azlyn Rae, Star Wars: Legacy #24, p. 14
+
+> "SOMEONE TAUGHT YOU A TRICK OR TWO, GAL. MAYBE GOT SITH TATS UNDER THAT MASK?" · "NOPE. JUST SOME TRICKS I PICKED UP HERE AND THERE. YOU KNOW HOW IT IS, OLD MAN." (Azlyn) · "YOUTH AND SKILL, OLD TIMER --" (Azlyn)
+> — Star Wars: Legacy #24, p. 15
+
+> "...AIN'T GOT NOTHING ON MY EXPERIENCE." · "I WAS CHECKING THE LONG-RANGE SENSORS WHEN I FELT SOMETHING IN THE FORCE. FIRST YOU, THEN HER. SHE'S PURTY GOOD."
+> — Bantha Rawk, Star Wars: Legacy #24, p. 16
+
+(p15: they Force-hurl each other. p16: he puts her down with a yellow-bladed saber.)
+
+**4. Uses a mind trick on an Imperial search party and reveals the hidden temple.** p21–23
+> "WE GOT LUCKY THIS TIME. I'M A BIT RUSTY ON THE MIND TRICKS STUFF. DROO WON'T LET ME PRACTICE IT ON THE KITS. AZLYN PROVED HERSELF THERE."
+> — Bantha Rawk, Star Wars: Legacy #24, p. 21
+
+> "LISTEN, CADE -- IT'S A BIG GALAXY OUT THERE AND IF YOU WANT TO, YOU CAN GET LOST IN IT." · "MEANS YOU GOTTA CHANGE YOUR NAME. CHANGE YOUR LOOK. CHANGE YOUR SHIP. CHANGE YOUR FRIENDS AND DON'T EVER USE THE FORCE AGAIN."
+> — Bantha Rawk, Star Wars: Legacy #24, p. 21
+
+> "NOT ENTIRELY TRUE." · "THERE'S A HIDDEN TEMPLE..."
+> — Bantha Rawk, Star Wars: Legacy #24, p. 23
+
+(p4: Bantha built cybernetic legs for Micah. Droo is "A POWERFUL HEALER".)
+
+## Cade Skywalker
+
+**1. Relapses on death sticks. The Force ghosts of Luke and Kol argue with him.** p11–13
+> "TOO MUCH IN MY HEAD -- ON MY HEAD." · "LEARNED SOME SITH METHODS TOO." · "YOU SHOWED ME A NEW TRICK IN THE SITH TEMPLE, DAD! BREAKING STUFF WITH THE FORCE! THAT LEAD TO THE LIGHT SIDE?!" · "IF YOU DIDN'T WANT ME USING THAT TECHNIQUE AS A WEAPON, THEN YOU NEVER SHOULDA SHOWN IT TO ME."
+> — Cade Skywalker, Star Wars: Legacy #24, p. 12
+
+> "I CAN ESCAPE IT -- AND YOU -- FOR ONE NIGHT." · "CAN'T SEE 'EM, CAN'T FEEL 'EM...CAN'T FEEL A KRIFFING THING..." · "HEEEE HEEHEE! SHOWED THEM DEAD JEDI! PUSHED 'EM AWAY! PUSHED 'EM RIGHT OUT!"
+> — Cade Skywalker, Star Wars: Legacy #24, p. 13
+
+**2. Feels Azlyn's beating through the Force, and his dark side surfaces (yellow-orange eye).** p20
+> "HE HIT HER! THAT IMP GORNT HIT AZLYN! I FELT IT!" · "I WANT DEATH. I WANT TO KILL..."
+> — Cade Skywalker, Star Wars: Legacy #24, p. 20
+
+**3. Decides to kill Krayt.** p22–23
+> "THAT'S JUST SURVIVING, UNCLE BANTHA. THAT'S NOT LIVING" · "SO I GOT A BETTER PLAN." · "KILL KRAYT."
+> — Cade Skywalker, Star Wars: Legacy #24, p. 22
+
+> "I'VE SPENT TIME AMONG THE SITH. I KNOW HOW ILL KRAYT REALLY IS. I'VE SEEN THE DIVISIONS FESTERING IN THE SITH ORDER. KRAYT'S GOT NO HEIR." · "FOR ALL THEIR TALK OF BEING ONE, WITH KRAYT DEAD, THE SITH WILL FALL ON EACH OTHER LIKE STARVING ANOOBA AND THE ORDER WILL FALL APART." · "WHAT I NEED ARE ALLIES. I DON'T TRUST ROAN FEL"
+> — Cade Skywalker, Star Wars: Legacy #24, p. 23
+
+## Luke Skywalker (Force ghost) and Kol Skywalker (Force ghost)
+
+> "YOU AREN'T REALLY PLANNING TO USE THAT AGAIN, ARE YOU?" (p11) · "THERE ARE OTHER WAYS TO CLEAR YOUR MIND -- JEDI METHODS. MEDITATION SUCH AS YOU USED ON OSSUS." (p12)
+> — Luke Skywalker, Star Wars: Legacy #24, pp. 11–12
+
+> "THERE ARE EVENTS COMING SOON, CADE. TERRIBLE EVENTS THAT WILL ENVELOP YOU AND THOSE AROUND YOU. YOU MUST BE READY."
+> — Luke Skywalker, Star Wars: Legacy #24, p. 13
+
+> "YOU KNOW THAT SITH WAYS CAN ONLY LEAD TO THE DARK SIDE." · "I SHOWED YOU THAT TECHNIQUE AS A TOOL -- AND ONLY SO YOU COULD DEFEND YOURSELF." · "YOUR ANGER BLOCKED ME FOR THOSE SEVEN YEARS, CADE. JUST AS YOUR ANGER AT THE GALAXY BLOCKS OUT THE GOOD YOU CAN ACCOMPLISH WITH YOUR SKILLS." · "DON'T LET WHAT'S IN THAT VIAL DESTROY THE FORCE WITHIN YOU."
+> — Kol Skywalker, Star Wars: Legacy #24, p. 12
+
+## Azlyn Rae
+
+> "HUH. CADE SKYWALKER. SITH HAVE A HUGE PRICE ON YOUR HEAD. CAN'T SEE WHY. OR WHY YOU HAVE SUCH A BIG REP..."
+> — Azlyn Rae, Star Wars: Legacy #24, p. 14
+
+> "I KNOW YOU... MASTER SKYWALKER AND CADE...WELL, YOU GAVE ME UP FOR DEAD, DIDN'T YOU, CADE?"
+> — Azlyn Rae, Star Wars: Legacy #24, p. 16
+
+> "...SO AFTER THE SITH ATTACKED THE JEDI TEMPLE ON CORUSCANT, I WAS SEPARATED FROM MY MASTER, RASI TUUM." · "I WANDERED FOR A WHILE, DOING WHATEVER ODD JOBS I COULD GET AND EVENTUALLY FOUND BEING A BOUNTY HUNTER WAS WHAT I DID BEST." · "CAN ONLY BE ONE CADE SKYWALKER IN THE GALAXY -- THE ONE I KNEW WHEN WE WERE APPRENTICES ON OSSUS." · "I THOUGHT YOU DIED ON OSSUS...ALONG WITH YOUR FATHER."
+> — Azlyn Rae, Star Wars: Legacy #24, p. 17
+
+p19–20: she takes a beating from the Imperial captain and lies to protect Cade.
+> "MAYBE THEY WERE TRYING TO SELL YOU WHAT YOU WERE WILLING TO BUY, CAPTAIN. MY LICENSE IS IN ORDER WITH THE BOUNTY HUNTERS' GUILD."
+> — Azlyn Rae, Star Wars: Legacy #24, p. 19
+
+**Twist: she is an Imperial Knight agent ("Jamdhar") reporting to Bastion.** p24
+> "EVIDENTLY, THE JEDI HIGH COUNCIL SECRETLY ORDERED THE CREATION OF THIS HIDDEN TEMPLE WHEN THE SITH IMPERIAL WAR BEGAN -- JUST IN CASE. RAWK HELPED FIND A LOCATION FOR IT." · "HE'S TAKING SKYWALKER AND HIS CREW THERE AND I'VE BEEN ALLOWED TO JOIN." · "JAMDHAR OUT."
+> — Azlyn Rae, Star Wars: Legacy #24, p. 24
+
+> "POSSIBLE. AZLYN RAE WAS A JEDI APPRENTICE BEFORE SHE JOINED THE KNIGHTS TO COMPLETE HER TRAINING. CONFLICTED LOYALTIES WOULDN'T BE SURPRISING." (red-armored Knight, ponytail — likely Ganner Krieg) · "IF NOT, THE IMPERIAL KNIGHTS HAVE WAYS OF FINDING TRAITORS IN OUR MIDST -- AND DEALING WITH THEM." (Marasiah Fel)
+> — Star Wars: Legacy #24, p. 24
+
+(The receiving officer signs off "SEFU OUT." The line "I KNOW AZLYN. I'M CONFIDENT HER FIRST LOYALTY IS TO THE FEL EMPIRE AND OUR EMPEROR." comes from the ship exterior, so the speaker isn't certain. Probably Antares Draco.)
+
+## Krayt broadcast (repeat from #22)
+p8: the HoloNet replays Krayt's proclamation, and Ure'monbarak, the shipmaster Bantha knows, is among those killed or marked. It also reports that "AT LEAST TEN PERCENT OF THE MON CALAMARI POPULATION ON DAC HAS BEEN KILLED."

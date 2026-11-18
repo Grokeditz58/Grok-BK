@@ -1,0 +1,36 @@
+Verdict changes, four-book pass (Darth Plagueis, ROTS novel, Labyrinth of Evil, Revan), 2026-10-19
+Backup: verdicts.md.bak-2026-10-19-books. Full log: the "Change log: 2026-10-19, four-book pass" section in verdicts.md.
+29 entries in total: 15 changed (14 head-to-heads plus the tier list) and 14 added.
+
+CHANGED
+1. Strongest Legends: Vitiate's Nyriss quote verified (Revan Ch28 L6001); version ladder added. No change to the order.
+2. Sidious vs Plagueis: Sidious (ROTS-era peak, no DE amp), high diff, low-medium. Cites, the Ch30 ambush, and version tags added.
+3. Yoda vs Sidious: Sidious, high diff, medium. Stover beats added; the JN disarm and podium push flagged as not in Stover.
+4. Yoda vs Mace: Yoda, mid-high diff, medium-high. Vaapad loop cited (ROTS Ch17 L6691).
+5. Mace vs Sidious: Sidious, mid-high diff. Confidence medium -> MEDIUM-HIGH.
+6. Yoda vs Dooku: Yoda, mid diff, high. LoE admissions added.
+7. Mace vs Dooku: Mace, high diff, low-medium. LoE ladder added.
+8. Dooku vs Maul: Dooku, mid diff, medium. Plagueis cites added.
+9. Vader vs Dooku: SPLIT. Unsuited Mustafar Vader: Vader, mid, medium-high. Newly suited Vader: toss-up leaning Dooku, high, low. Later suited prime: Vader, mid-high, low-medium (was medium).
+10. Sidious vs Dooku: Sidious, low-mid diff, high. ROTS and LoE cites added.
+11. Kun vs Revan: Revan Reborn, high diff. Confidence low -> LOW-MEDIUM.
+12. Plagueis vs Mace: Plagueis, mid-high, low-medium. Lightning wording corrected; Ch6 dueling credential added.
+13. Revan vs Exile: game versions unchanged (Revan, mid-high, medium). Novel split added (Revan Reborn > the novel's Meetra, low-mid, medium-high). "Dies to Scourge" replaced with the backstab caveat.
+14. Maul (TPM) vs Obi-Wan (ROTS): Obi-Wan, mid, medium. Plagueis Epilogue cite added.
+15. Tier list: Plagueis at the top of tier 4; version notes for Plagueis, Vitiate, Vader and Revan; Grievous placed provisionally (bottom of tier 6 / top of tier 7); Nyriss, Scourge and ROTS Obi-Wan added as not placed; the Exile does not move.
+
+ADDED
+16. Yoda (ROTS) vs Plagueis (prime): Plagueis, slight; high diff; low.
+17. Plagueis (67 BBY) vs Venamis: Plagueis, mid; low.
+18. Grievous (LoE, before the crush) vs Jedi Knights: Grievous, low; high.
+19. Mace (Vaapad) vs Grievous (LoE): Mace, low-mid; high.
+20. Dooku vs Grievous (LoE): Dooku, mid; medium-high.
+21. Grievous (LoE) vs Council Masters: the Master, mid (Shaak Ti/Stass near high); medium.
+22. Dooku vs pre-fall Anakin: Anakin, mid; medium. Sabers only, no rage: near even, high; low.
+23. Obi-Wan vs Grievous (ROTS): Obi-Wan, low-mid with sabers / mid-high unarmed; medium-high.
+24. Obi-Wan vs unsuited Mustafar Vader: as fought, Obi-Wan, high; high. Neutral ground: Obi-Wan, high; low.
+25. Revan vs Vitiate: Reborn vs base, Vitiate, mid; high. Vs the fed Emperor: low-mid; low. DK1 Revan (+Malak): low; high. 3v1: lean Vitiate, high; low.
+26. Revan Reborn vs Scourge (mortal): Revan, low; high.
+27. The novel's Meetra vs Scourge: toss-up, slight Meetra, high; low.
+28. Revan Reborn vs Nyriss: Revan, low; high.
+29. Nyriss vs Scourge + the novel's Meetra: Nyriss, mid; medium.

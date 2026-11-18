@@ -1,0 +1,1759 @@
+CITED EXTRACTION: Tenebrae/Vitiate/Valkorion - Character Overview and Respect Thread - PART 2
+URL: https://comicvine.gamespot.com/profile/s_w_legend/blog/tenebraevitiatevalkorion-character-overview-and-re/154767/
+Blog author: S_W_LeGenD (post dated January 2, 2021)
+Scope: whole post read top to bottom (blog body, Nomenclatures, Continuity sections 1-5, Endnotes section 3.1/3.2, Consolidated, Sections 4-5). Reader comments were not loaded and are not included.
+
+Classification key used in this file:
+- type "statement" = verbatim quoted codex, encyclopedia, profile, Community News, character dialogue, or developer comment that the post attributes to a named source (or notes as unnamed).
+- type "feat" = verbatim line from the post's own narrative describing a power or event, attributed to the source named in the adjacent "From (...)" line.
+- type "poster opinion" = the poster's own analysis, comparison, or framing.
+- Continuity label: every official source named in the post (SWTOR game, expansions, codex, encyclopedia, D6 Force Powers, Book of Sith, Darth Plagueis, Blood the Empire, Ultimate Visual Guide) is labelled Legends per the task rules and the post's own "LEGENDS" continuity header. Poster opinion and unsourced items are "unclear".
+- Scaling: only scaling the quote or line itself states. "none stated" means the text states no scale.
+- Image-only items: where the post shows an image with a caption-style line and no quote text, the caption is given.
+- Quotes are copied verbatim from the post text, including the post's own typography and (or it) notation.
+- Transitional banners ("NATHEMA conditions kept up.", "RELATED", link stubs, divider lines) are not items.
+
+=====================================================================
+SECTION: CHARACTER BIO (intro)
+=====================================================================
+
+[1]
+Section: CHARACTER BIO (intro)
+Type: statement
+Quote: "A being of unfathomable power and insatiable appetite, he transcended death multiple times, shedding his physical shells as they were discovered, defeated, and destroyed... only to return in another form."
+Source: Star Wars: The Old Republic: Knights of the Eternal Throne: Codex Entry titled "The Fall of Valkorion." (named in post)
+Continuity: Legends
+Scaling stated by quote: "transcended death multiple times" (no numeric scale)
+
+[2]
+Section: CHARACTER BIO (intro)
+Type: poster opinion
+Quote: Infobox compiled by the poster (no quote): Original name: Tenebrae; Alias: Valkorion; Original form: Sith Pureblood (biological); Biological father: Lord Dramath; Evolved form: Entity (ability to cheat death; body hopping); Former Sith identities: Lord Vitiate; Darth Vitiate; The Sith Emperor; Post-Sith identities: Vitiate; The Immortal Emperor; Valkorion; Last known identity: Emperor Vitiate; Sith apprentice(s): Exal Kressh; Notable characteristic: Immortality; Spouse: Senya Tirall; Offspring: Thexan; Arcann; Vaylin
+Source: none named (poster compilation)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[3]
+Section: NOMENCLATURES
+Type: statement
+Quote: "Valkorion. Tenebrae. Vitiate. Emperor of the Sith. My low-born son has worn many masks." - Lord Dramath
+Source: Lord Dramath (speaker named; no work named in post)
+Continuity: unclear (no source work named)
+Scaling stated by quote: none stated
+
+[4]
+Section: NOMENCLATURES
+Type: poster opinion
+Quote: "Tenebrae [Valkorion] = Tenebrae's immortal consciousness bind to The Outlander for plot convenience (Knights of the Fallen Empire; Knights of the Eternal Throne)"
+Source: poster's own nomenclature; names KOTFE and KOTET as basis
+Continuity: Legends (basis); the labelling itself is unclear
+Scaling stated by quote: none stated
+
+[5]
+Section: ANOTHER CHARACTER of much significance (The Outlander)
+Type: statement
+Quote: "[name] has become the Jedi Order's Battlemaster after saving the Republic from many nefarious plots by the evil Sith Emperor. On countless planets, this champion of the Force is all that stands between helpless innocents and the enemy's conquest. But a terrible new threat has emerged at the galaxy's farthest edge, forcing an unlikely alliance between [name] and old foes...."
+Source: Star Wars The Old Republic: Knights of the Fallen Empire: Codex Entry titled "The Jedi Knight." (named in post)
+Continuity: Legends
+Scaling stated by quote: "On countless planets, this champion of the Force is all that stands between helpless innocents and the enemy's conquest." (vs the enemy's conquest; no numeric scale)
+
+[6]
+Section: ANOTHER CHARACTER of much significance (The Outlander)
+Type: statement
+Quote: "Based on the intelligence we've gathered, I believe the Jedi recognized the possibility of their order being destroyed by the Eternal Empire and chose to de-centralize themselves to better their chances of long-term survival."
+Source: Star Wars: The Old Republic: Jedi Under Siege: State of the Galaxy (named in post as revelation [a])
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[7]
+Section: ANOTHER CHARACTER of much significance (The Outlander)
+Type: statement
+Quote: "But the immortal Emperor could not be vanquished so easily. He evaded death by infiltrating the mind of the Outlander, his most powerful opponent."
+Source: Star Wars: The Old Republic: Knights of the Eternal Throne: Character Profiles (named in post as revelation [b])
+Continuity: Legends
+Scaling stated by quote: "his most powerful opponent" (the Outlander is the Emperor's most powerful opponent; no numeric scale)
+
+=====================================================================
+SECTION: CONTINUITY - LEGENDS (sections 1-2 and Key Developments)
+=====================================================================
+
+[8]
+Section: CONTINUITY - 1. Tenebrae [The Sith Emperor] Voices
+Type: statement
+Quote: "The Emperor created his first Voice after the legendary Jedi named Revan attempted to assassinate him on Dromund Kaas. Though Revan's plot failed, he approached within striking distance of the Emperor. To guard against further vulnerability, the Emperor created the Voice to deliver his orders while distancing himself from the forces that conspired against him. Centuries later, this very safeguard would save the Emperor once more."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[9]
+Section: CONTINUITY - 1. Tenebrae [The Sith Emperor] Voices
+Type: poster opinion
+Quote: "The aforementioned technique is essentially Transfer Life:"
+Source: poster's own equivalence (no source named for this line)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[10]
+Section: CONTINUITY - 2. Tenebrae [The Sith Emperor] created Tenebrae [TIEV] in Valkorion
+Type: statement
+Quote: "Valkorion is an ancient Sith entity with the power to possess and control the bodies of others, using them as puppets to enforce his will on the galaxy. The Immortal Emperor is his latest mask and Zakuul his greatest, most ambitious endeavor: an idealistic playground where he can shed his past and experience a new life unburdened by archaic Sith teachings. A manipulative survivor, Valkorion pinpoints the weaknesses of both friends and enemies alike, twisting them to serve his purpose. He believes the entire galaxy is his to shape and will stop at nothing to reach his goals."
+Source: Star Wars: The Old Republic: Knights of the Fallen Empire: Codex Entry titled "Valkorion." (named in post)
+Continuity: Legends
+Scaling stated by quote: "He believes the entire galaxy is his to shape" (ambition only; no numeric scale)
+
+[11]
+Section: CONTINUITY - 3. Tenebrae [VOICES] - the ENTITY
+Type: statement
+Quote: "The Sith Emperor is the most powerful Force-user who has ever existed. Unless this implacable enemy can be defeated, the Jedi Order is doomed."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "the most powerful Force-user who has ever existed" (absolute, all-time; no comparison to named individuals)
+
+[12]
+Section: CONTINUITY - 3. Tenebrae [VOICES] - the ENTITY
+Type: statement
+Quote: "The Voice is the mouthpiece through which the Emperor delivers his orders. This possessed being sacrifices all consciousness to become a hollow vessel for the Emperor. Over the centuries, the Emperor has taken many Voices from young children to alien species. When the Voice speaks, it does so with the Emperor's cold, emotionless, and commanding tone. The Voice also wields the Emperor's incredible power and is capable of striking down anyone who displeases him. Those who converse with the Voice are overwhelmed with dread and unshakable obedience. To speak with the Voice is to speak with the Emperor himself."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "capable of striking down anyone who displeases him" (no comparison; no numeric scale)
+
+[13]
+Section: CONTINUITY - Key Developments / NATHEMA conditions (Voice of the Emperor)
+Type: statement
+Quote: "For centuries, the Emperor's Voice has delivered the Sith leader's commandments to his servants. In fact, to converse with the Emperor's Voice is to have an audience with the Emperor himself, whose power and consciousness have been placed within the Voice's body. Although the audible voice never changes, the physical individual who does the speaking has assumed many forms–various accounts describe the Emperor's Voice as anyone from a young human female to an elderly full-blooded Sith male. Regardless of physical appearance, however, the Emperor's Voice can always be identified by its emotionless, precise and controlled manner of speaking."
+Source: Star Wars: The Old Republic: Codex Entry titled "Voice of the Emperor (Warrior)." (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[14]
+Section: CONTINUITY - NATHEMA conditions (Voice of the Emperor)
+Type: statement
+Quote: "Some have privately described conversations with this entity as extremely disturbing; there is often the sense that the Emperor's Voice is listening to another conversation even when he or she is speaking."
+Source: Star Wars: The Old Republic: Codex Entry titled "Voice of the Emperor (Warrior)." (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[15]
+Section: CONTINUITY - NATHEMA conditions (Voice split attention)
+Type: feat
+Quote: "Tenebrae [VOICES] could split his attention while attending to the matters of the Sith and Zakuul across the breath of galaxy. Some felt as much although the Sith were not aware of developments on Zakuul."
+Source: post narrative; the adjacent attribution is Star Wars: The Old Republic: Codex Entry titled "Voice of the Emperor (Warrior)." (named in post)
+Continuity: Legends
+Scaling stated by quote: "across the breath of galaxy" (scope of attention only)
+
+[16]
+Section: CONTINUITY - NATHEMA conditions (TIEV and the Eternal Empire)
+Type: feat
+Quote: "Tenebrae [TIEV] developed The Eternal Empire and entirely new factions of Force-users including the Scions who helped in retrieving The Eternal Fleet - all in further reaches of the galaxy and absolute secrecy."
+Source: post narrative; the adjacent attribution is Star Wars: The Old Republic: Knights of the Fallen Empire: Codex Entry: The Eternal Fleet (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[17]
+Section: CONTINUITY - NATHEMA conditions (The Eternal Fleet)
+Type: statement
+Quote: "Valkorion had heard rumors of the fleet before his arrival on Zakuul; it was the main reason he chose the planet to house his new empire. Once he gained control over Zakuul, he began his search for the fleet in earnest, using the Scions' Force visions to eventually find the dormant ships. He built the Eternal Throne to reactivate and command the lost fleet. While primarily used in military operations, the fleet is also key in collecting tributes and resources from conquered planets and protecting trade routes in Wild Space."
+Source: Star Wars: The Old Republic: Knights of the Fallen Empire: Codex Entry: The Eternal Fleet (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[18]
+Section: CONTINUITY - Telepathy (Spectrum of applications)
+Type: statement
+Quote: "He was a living embodiment of the dark side of the Force who delighted in destroying the minds and spirits of those Jedi who came too close to him."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[19]
+Section: CONTINUITY - Telepathy (CONFRONTATIONS with unknown JEDI)
+Type: feat
+Quote: "Tenebrae [TSEV] demonstrated further proficiency in Telepathic applications - he destroyed the minds and spirits of multiple Jedi over the course of years who came too close to him. These Jedi experienced crippling fear, madness and evil, and never returned." [panel: panels/vitiate/vitiate-tenebrae-tsev-demonstrated-further-proficiency-telepathic-applications-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post, "From" line follows)
+Continuity: Legends
+Scaling stated by quote: "multiple Jedi over the course of years" (count not given)
+
+[20]
+Section: CONTINUITY - Children of the Emperor (Imprinting Consciousness)
+Type: statement
+Quote: "By drawing on his incredible dark powers, the Emperor imprinted his consciousness onto unwitting pawns who would serve as vessels for carrying out his will. Through the eyes and ears of these "children," he would uncover threats in both the Empire and Republic while they were still nothing but whispers. And should the need arise, the Emperor could seize control of his children and instruct them to crush any plot that dared defy his will."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[21]
+Section: CONTINUITY - Children of the Emperor
+Type: statement
+Quote: "By the time of the Great War, hundreds of the Emperor's Children were embedded within the Republic. Devoted Jedi, loyal soldiers, and influential politicians all unknowingly served as the Emperor's spies and, when the Emperor willed it, acted to tear down the Republic they held so dear." [panel: panels/vitiate/vitiate-telepathy-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "hundreds of the Emperor's Children" (count)
+
+[22]
+Section: CONTINUITY - Children of the Emperor (The First Son)
+Type: statement
+Quote: "Above them all is the First Son of the Emperor, a master strategist placed within the Jedi Council itself. Cloaked in the identity of Master Syo Bakarn, the First Son has been hiding the Children from the Jedi for decades, playing a long game with the Republic. His actions suggest a man possessing remarkable patience, ruthlessness and power. However, as Sophia Farash claimed, Master Syo has been unaware of the First Son's existence–suggesting he and the First Son are two separate personas."
+Source: Star Wars: The Old Republic: Codex Entry titled "The First Son (Consular)" (named in post)
+Continuity: Legends
+Scaling stated by quote: "remarkable patience, ruthlessness and power" (no comparison)
+
+[23]
+Section: CONTINUITY - Force Concealment (The First Son)
+Type: statement
+Quote: "The Jedi remained blind to the Emperor's children due to the presence of the First Son, the being who was first imprinted with the Emperor's power. While the First Son lived, the Emperor's secret army remained hidden and undetected beneath the Republic's nose." [panel: panels/vitiate/vitiate-telepathy-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[24]
+Section: CONTINUITY - Force Concealment (The First Son)
+Type: poster opinion
+Quote: "The First Son is proof of the fact that Tenebrae [VOICES] was incredibly proficient in the Force Concealment application."
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: "incredibly proficient" (no comparison)
+
+[25]
+Section: CONTINUITY - Force Concealment (INTERJECTION)
+Type: poster opinion
+Quote: "INTERJECTION: Palpatine concealed his own darkness from the Jedi Order but the First Son took this matter to another level in comparison."
+Source: poster's own comparison (no source named)
+Continuity: unclear
+Scaling stated by quote: "took this matter to another level in comparison" (vs Palpatine's concealment)
+
+[26]
+Section: CONTINUITY - OPTICRON DROIDS
+Type: statement
+Quote: "As with much concerning the Emperor, very little is known of the droids designated "Opticron". In fact, very few are even aware they exist. From the exterior, they appear to be standard-issue Imperial probe droids, but further investigation would reveal an amalgamation of technology both exotic and arcane. Much like the Emperor's Hand, these droids are connected through the Force in some way to the mind and will of the Emperor himself. They are his unseen eyes, watching that which he cannot--until he returns from the brink."
+Source: Star Wars: The Old Republic: Shadow of Revan: Codex entry titled "Opticron Droids." (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[27]
+Section: CONTINUITY - OPTICRON DROIDS
+Type: feat
+Quote: "Tenebrae [TIEV] created a family with Senya Tirall - one of the most powerful Knights of Zakuul." [panel: panels/vitiate/vitiate-tenebrae-tiev-created-family-senya-tirall-one-1.png]
+Source: post narrative (no source named on this line)
+Continuity: Legends (as stated by the post's framing)
+Scaling stated by quote: "one of the most powerful Knights of Zakuul" (rank among Knights of Zakuul; not quantified)
+
+[28]
+Section: CONTINUITY - SWTOR Class stories - Jedi Knight - ACT II (Sith Lightning)
+Type: image-only
+Quote: image-only. Caption/lead-in in post: "Lightsabers drawn and ready:" (image of the Jedi Knight/Emperor confrontation as shown in post) [panel: panels/vitiate/vitiate-lightsabers-drawn-ready-1.png; panels/vitiate/vitiate-lightsabers-drawn-ready-2.gif]
+Source: none named for the image caption
+Continuity: unclear
+Scaling stated by quote: none stated
+
+=====================================================================
+SECTION: CONTINUITY - SWTOR Class stories / RETURN TO WAR (Jedi Knight ACT I-II)
+=====================================================================
+
+[29]
+Section: CONTINUITY - SWTOR Class stories - Jedi Knight - ACT II (CONFRONTATION)
+Type: statement
+Quote: "You stand there because I allow it. Because I do not fear." - Tenebrae [TSEV]
+Source: Tenebrae [TSEV] (in-character line; no work named in post)
+Source (identified later): Star Wars: The Old Republic — Jedi Knight mission "Descent" on the Emperor's Fortress — how identified: quote box with ref [3] on https://starwars.fandom.com/wiki/Mission_to_the_Emperor%27s_Fortress
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[30]
+Section: CONTINUITY - SWTOR Class stories - Jedi Knight - ACT II (Sith Lightning)
+Type: feat
+Quote: "Tenebrae [TSEV] overwhelmed Lightsaber-facilitated defenses of some of the most powerful and resolute Jedi of the Order with a swirling storm of lightning bolts:"
+Source: post narrative; the adjacent attribution is Star Wars: The Old Republic: Encyclopedia ("From" line that follows the strike team text)
+Continuity: Legends
+Scaling stated by quote: "some of the most powerful and resolute Jedi of the Order" (vs Tenebrae [TSEV])
+
+[31]
+Section: CONTINUITY - Sith Lightning (Example 2 - versus a Jedi Strike Team)
+Type: statement
+Quote: "With Grand Master Satele Shan's support, Master Braga assembles a strike team of the strongest and most resolute Jedi in the order. Their goal is to pinpoint the Emperor's hidden fortress, capture the Sith leader alive, and turn him to the light side. The Jedi do not realize that they have underestimated the true extent of the Emperor's power. It is an error that will cost them dearly."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "the strongest and most resolute Jedi in the order" (strike team); "underestimated the true extent of the Emperor's power" (Jedi underestimated the Emperor)
+
+[32]
+Section: CONTINUITY - Sith Lightning (REMINDER)
+Type: statement
+Quote: "Called "Sith lightning," these charges cause excruciating pain and weaken life, and it is a challenge for even the most powerful Jedi Masters to deflect such bursts."
+Source: Star Wars: The Ultimate Visual Guide (named in post)
+Continuity: Legends
+Scaling stated by quote: "even the most powerful Jedi Masters" (challenge to deflect bursts; no numeric scale)
+
+[33]
+Section: CONTINUITY - Sith Lightning (RESISTANCE)
+Type: statement
+Quote: "Jedi Knights Warren Sedoru and Leeha Narezz were virtually immobilized and unable to advance early on. Jedi Master Tol Braga and the legendary Jedi Knight (alias Hero of Tython) were offering substantial resistance and doing their best to contain Tenebrae's power. Each was capable of taking on and defeating multiple opponents in a fight without breaking a sweat in personal capacity but ALL were dealing with too much firepower in this case."
+Source: post narrative; no source named on this block (the post's section text shows no "From" line here)
+Continuity: unclear (no source named for this block)
+Scaling stated by quote: "Each was capable of taking on and defeating multiple opponents in a fight without breaking a sweat in personal capacity" (vs multiple opponents); "ALL were dealing with too much firepower in this case" (vs Tenebrae's firepower)
+
+[34]
+Section: CONTINUITY - Sith Lightning (VICTORY)
+Type: feat
+Quote: "When up against Tenebrae [TSEV], even Lightsaber-facilitated defenses proved insufficient. After disarming all Jedi, he unleashed an esoteric blast of Force Lightning to seal the deal:" [panel: panels/vitiate/vitiate-against-tenebrae-tsev-lightsaber-facilitated-defenses-proved-1.gif]
+Source: post narrative; the adjacent attribution is Star Wars: The Old Republic: Encyclopedia (ENCYCLOPEDIA "From" line follows the mind-control text)
+Continuity: Legends
+Scaling stated by quote: "even Lightsaber-facilitated defenses proved insufficient" (vs Tenebrae [TSEV])
+
+[35]
+Section: CONTINUITY - Sith Lightning (VICTORY) - mind control
+Type: statement
+Quote: "The plan to invade the Emperor's fortress succeeds beyond Master Braga's greatest ambitions. However, the Jedi find more than they bargained for when they finally confront the Sith leader in his lair. The Emperor is more than a man - he is the living embodiment of the dark side. Armed with incalculable powers of corruption, the Emperor easily defeats the Knight, Master Braga, and their fellow Jedi, twisting them all to the dark side."
+Source: Star Wars: The Old Republic: Encyclopeda (as spelled in post)
+Continuity: Legends
+Scaling stated by quote: "Armed with incalculable powers of corruption" (no numeric scale); "easily defeats the Knight, Master Braga, and their fellow Jedi" (vs the Jedi strike team)
+
+[36]
+Section: CONTINUITY - Sith Lightning (VICTORY) - mind control
+Type: statement
+Quote: "You are mine. Servants. Slaves. Weapons. And you will obey…" - Tenebrae [TSEV]
+Source: Tenebrae [TSEV] (in-character line; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[37]
+Section: CONTINUITY - Sith Lightning (Orgus Din)
+Type: statement
+Quote: "When Master Orgus Din, an old ally reaches out through the Force, the Knight is able to break the Emperor's mental domination. Although Master Braga and the rest of the Jedi strike team seem to have vanished, the Knight is able to free other allies and escape the hidden fortress."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post; the "From" line follows the Lord Scourge text)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[38]
+Section: CONTINUITY - Sith Lightning (The Emperor's Wrath)
+Type: statement
+Quote: "There is one final surprise in store, however: a confrontation with Sith executioner Lord Scourge, the notorious "Emperor's Wrath." To the heroes' stunned surprise, Lord Scourge pledges to help the Knight defeat the Emperor; he surrenders and demands to be taken before the Jedi High Council."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "one of the most powerful Sith Lords in history by now" (appears in the post's lead-in for Lord Scourge; no numeric scale)
+
+[39]
+Section: CONTINUITY - THE ULTIMATE SITH SORCERY
+Type: feat
+Quote: "Tenebrae [VOICES] commenced his most ambitious ritualistic Sith Sorcery in times of the Galactic Cold War in pursuit of omnipotence:" - followed in the post by: "- but at the expense of the entire galaxy." [panel: panels/vitiate/vitiate-tenebrae-voices-commenced-ambitious-ritualistic-sith-sorcery-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (From line follows the post's lead-in)
+Continuity: Legends
+Scaling stated by quote: "in pursuit of omnipotence" (goal, not a comparison); "at the expense of the entire galaxy" (scope)
+
+[40]
+Section: CONTINUITY - THE ULTIMATE SITH SORCERY
+Type: feat
+Quote: "However, the Jedi and Sith were making moves of their own to save the galaxy."
+Source: post narrative (no source named on this line; the Lord Scourge reveal that follows is attributed to Star Wars: The Old Republic: Encyclopedia)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[41]
+Section: CONTINUITY - THE ULTIMATE SITH SORCERY
+Type: statement
+Quote: "Lord Scourge reveals the Emperor's true goal for the war: to complete a Sith ritual that will grant him unlimited power and immortality by eradicating all life in the galaxy. First, the Emperor requires a sacrifice to fuel his horrific ritual: the destruction of an entire world and its people. The Sith leader has dispatched his agents of evil across the galaxy to ensure that billions die. Though the Emperor's servants are unaware of the fate that will befall them when his ritual is complete, Scourge experienced a vision that revealed his Master's secret plot – and the brave Jedi Knight who would thwart it. Lord Scourge vows to aid the Knight in defeating the Emperor and saving the galaxy."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "to ensure that billions die" (casualty target; no further scale)
+
+[42]
+Section: CONTINUITY - THE ULTIMATE SITH SORCERY
+Type: statement
+Quote: "The ritual wasn't that complex. Valkorion was simply working multiple fuel angles at once." - Hall Hood (contributor to SWTOR project)
+Source: Hall Hood, contributor to the SWTOR project (named in post; developer-side contributor)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+=====================================================================
+SECTION: CONTINUITY - FIRST SETBACK (Darth Baras / Voss / Madega-Ru)
+=====================================================================
+
+[43]
+Section: CONTINUITY - ULTIMATE SITH SORCERY / Class stories / Setbacks lead-in
+Type: feat
+Quote: "Tenebrae [VOICES] activated a large number of his Children on Corellia to fuel his Sith Sorcery."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "a large number of his Children" (count not given)
+
+[44]
+Section: CONTINUITY - ULTIMATE SITH SORCERY / Class stories / Setbacks lead-in
+Type: statement
+Quote: "The fallen Jedi Knights Warren Sedoru and Leeha Narezz and the fallen Jedi Master Tol Braga also committed to the cause under dark influence of Tenebrae [TSEV] but the legendary Jedi Knight (alias Hero of Tython) confronted each to stop the obvious. The Knight's crew races to save worlds targeted by the Emperor, discovering the fates of Master Tol Braga and the Jedi strike team. These fallen Jedi remain thralls of the Emperor, turned against the very people they once swore to protect. The Knight must confront these former allies and decide their fates before facing the Emperor himself."
+Source: Star Wars: The Old Republic: Encyclopedia (From line follows)
+Continuity: Legends
+Scaling stated by quote: "thralls of the Emperor" (no numeric scale)
+
+[45]
+Section: CONTINUITY - FIRST SETBACK
+Type: statement
+Quote: "Darth Baras plays the old games. He maneuvered me here. Knowing this body could be bound to this place." - Tenebrae [VOICES]
+Source: Tenebrae [VOICES] (in-character line; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[46]
+Section: CONTINUITY - FIRST SETBACK (The Dark Heart)
+Type: statement
+Quote: "The ruin the Voss call the Dark Heart lies deep in the twisted Nightmare Lands. The few surviving texts on the Dark Heart describe the complex as a maze of chambers--some sealed, others seemingly broken open from within--and vast underground corridors. It is said to be a place of corrupted monsters and ancient secrets, and based on orbital reconnaissance scans may be the oldest structure on the planet. The Sith Lord Nerrethel spent two years researching texts concerning the Dark Heart and formulated several theories. He claimed its architecture resembled that of the ancient Sith on Korriban, and made a detailed study of the Dark Heart's orientation relative to Voss's constellations. After attempting to visit the Dark Heart in person, however, Lord Nerrethel was found dead on the border of the Nightmare Lands. His notes from the expedition contained only the words "it sees.""
+Source: Star Wars: The Old Republic: Codex entry titled "The Dark Heart." (named in post)
+Continuity: Legends
+Scaling stated by quote: "may be the oldest structure on the planet" (based on orbital scans; no numeric scale)
+
+[47]
+Section: CONTINUITY - FIRST SETBACK
+Type: feat
+Quote: "Tenebrae [TSEV] managed to Transfer Life into this Voss Mystic upon recommendation of Darth Baras but the catch was that he could not get rid of this body until it would die naturally. Tenebrae [TSEV] made Madega-Ru - a powerful Voss Mystic and Guardian of the secrets of Voss - spill the beans and reached the Dark Heart."
+Source: post narrative (no source named on this line; the Dark Heart codex entry precedes it)
+Continuity: Legends
+Scaling stated by quote: "a powerful Voss Mystic" (no comparison)
+
+[48]
+Section: CONTINUITY - FIRST SETBACK (Madega-Ru)
+Type: statement
+Quote: ""The one you seek forced me to help him unlock the secrets of Voss. I could not defy him. He went to the Dark Heart Chamber in the Nightmare Lands. You must follow." - Madega-Ru"
+Source: Madega-Ru (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[49]
+Section: CONTINUITY - FIRST SETBACK (The Emperor's Wrath)
+Type: feat
+Quote: "The legendary Sith Warrior (alias The Emperor's Wrath) could not make Madega-Ru submit on the other hand and had to fulfill his demands to reach the Dark Heart and do the needful:"
+Source: post narrative (no source named on this line; the Madega-Ru quote follows)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[50]
+Section: CONTINUITY - FIRST SETBACK (Madega-Ru, second quote)
+Type: statement
+Quote: ""He did not answer my questions. The Dark Heart is a forbidden place. Where Secrets are buried. Your predecessor wrapped himself in the Blessing of Oneness - without it, an outsider cannot even see the gateway to the Dark Heart." - Madega-Ru"
+Source: Madega-Ru (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[51]
+Section: CONTINUITY - FIRST SETBACK (Barsen'thor / Corellia)
+Type: feat
+Quote: "The legendary Jedi Consular (alias Barsen'thor) brought a massive force to bear against the Children of the Emperor on Corellia:"
+Source: Star Wars: The Old Republic: Encyclopedia (From line follows the Children text)
+Continuity: Legends
+Scaling stated by quote: "a massive force" (no numeric scale)
+
+[52]
+Section: CONTINUITY - FIRST SETBACK (Barsen'thor / Corellia)
+Type: statement
+Quote: "Faced with undetectable infiltrators and a full-scale Imperial onslaught, the Consular and the Rift Alliance work together to recruit new Republic allies. The Consular rallies an army of powerful allies on the distant worlds of Voss and Belsavis and leads their charge to the embattled world of Corellia. There, the Children of the Emperor have fully awakened and spread chaos in the Republic ranks. Perhaps worst of all, the Childrens’ leader, the "First Son" is revealed to be a trusted and longtime member of the Jedi Council." [panel: panels/vitiate/vitiate-legendary-jedi-consular-alias-barsenthor-defeated-first-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "an army of powerful allies" (no numeric scale)
+
+[53]
+Section: CONTINUITY - FIRST SETBACK (Barsen'thor / Corellia)
+Type: statement
+Quote: "You think so? Sith fight to master the powers we Children use as infants" - Augin Blaesus
+Source: Augin Blaesus (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[54]
+Section: CONTINUITY - FIRST SETBACK (Barsen'thor / Corellia)
+Type: statement
+Quote: "This Jedi Master's claim to fame was addressing the matter of the Lord Vivicar's Plague which had the capacity to destroy the Jedi Order all by itself. The creator of this plague was the ancient Sith Lord Terrak Morrhage - an being of terrifying power. The Jedi Master's powers and skills were second-to-none in the Order's history."
+Source: post narrative with the Encyclopedia attribution nearby (no direct "From" line on this block)
+Continuity: Legends
+Scaling stated by quote: "The Jedi Master's powers and skills were second-to-none in the Order's history." (absolute, within the Order's history); "had the capacity to destroy the Jedi Order all by itself" (the plague)
+
+[55]
+Section: CONTINUITY - FIRST SETBACK (Children of the Emperor)
+Type: statement
+Quote: "The Children of the Emperor are too vast of a threat to be dealt with single-handedly:"
+Source: post narrative (lead-in; no source named on this line)
+Continuity: Legends (per the post's framing)
+Scaling stated by quote: "too vast of a threat to be dealt with single-handedly" (scale stated as beyond one person)
+
+[56]
+Section: CONTINUITY - FIRST SETBACK (Children of the Emperor)
+Type: statement
+Quote: "Acting on the Consular's advice, the armies of the Rift Alliance gradually push back the Empire's forces on Corellia to uncover the First Son's hiding place. The determined Consular launches a last-ditch assault against the First Son's lair." [panel: panels/vitiate/vitiate-legendary-jedi-consular-alias-barsenthor-defeated-first-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+=====================================================================
+SECTION: CONTINUITY - SECOND SETBACK (Dromund Kaas)
+=====================================================================
+
+[57]
+Section: CONTINUITY - SECOND SETBACK
+Type: statement
+Quote: "You've learned that the Emperor is on Dromund Kaas, temporarily weakened by your efforts thwarting his plan for galactic annihilation. Striking at him now is your best chance to defeat him once and for all."
+Source: Star Wars: The Old Republic: Jedi Knight: Chapter 3: Disclaimer (named in post)
+Continuity: Legends
+Scaling stated by quote: "temporarily weakened" (no numeric scale)
+
+[58]
+Section: CONTINUITY - SECOND SETBACK
+Type: statement
+Quote: "In a final apocalyptic duel, the Knight battles the Sith Emperor for the fate of the galaxy – and changes it forever."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "for the fate of the galaxy" (stakes; no numeric scale)
+
+[59]
+Section: CONTINUITY - SECOND SETBACK (Doppleganger)
+Type: statement
+Quote: "This power creates a doppelganger of the Force-user. Though the doppelganger is merely an illusion, but it will interact with people and appear to be real. The user can sense all normal senses through the doppelganger, including a "feel" of normal substances. Doppelgangers also register normally on all droids' audio and video sensors. Those with the doppelganger believe it to be a real person. The doppelganger acts with half the skill dice of the person that created it. Every five minutes, the user must roll again to maintain the doppelganger. If the user stops using the doppelganger or it is fatally injured, it simply fades into nonexistence."
+Source: Star Wars - D6 - Force Powers (named in post)
+Continuity: Legends
+Scaling stated by quote: "The doppelganger acts with half the skill dice of the person that created it." (half the creator's skill dice)
+
+[60]
+Section: CONTINUITY - SECOND SETBACK (Doppleganger difficulty)
+Type: statement
+Quote: "CONTROL difficulty = Very Difficult / SENSE difficulty = Very Difficult / ALTER difficulty = Heroic"
+Source: Star Wars - D6 - Force Powers (named in post)
+Continuity: Legends
+Scaling stated by quote: difficulty tiers only (Very Difficult / Heroic)
+
+[61]
+Section: CONTINUITY - SECOND SETBACK (Doppleganger)
+Type: statement
+Quote: "Force powers required to execute successfully: Control pain - Emptiness; Hibernation trance - Life detection - Life sense - Magnify senses; Receptive telepathy - sense Force; Telekinesis - Projective telepath - Control Another's pain - Transfer Force - Affect mind - Dim another's senses"
+Source: Star Wars - D6 - Force Powers (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[62]
+Section: CONTINUITY - SECOND SETBACK (Duel)
+Type: feat
+Quote: "Although compromised, Tenebrae [TSEV] was radiating palpatine waves of energy and was unfazed by Lightsaber drawn to his face. Given the Lightsaber dueling credentials of the legendary Jedi Knight (alias Hero of Tython), Tenebrae [TESV] is impossible to "blitz."" [panel: panels/vitiate/vitiate-although-compromised-tenebrae-tsev-radiating-palpatine-waves-1.gif]
+Source: post narrative; the second half is the poster's own analysis (see entry 58)
+Continuity: Legends (feat) / unclear (analysis)
+Scaling stated by quote: "unfazed by Lightsaber drawn to his face" (vs the Jedi Knight's Lightsaber); "impossible to 'blitz'" (vs the Jedi Knight's dueling credentials)
+
+[63]
+Section: CONTINUITY - SECOND SETBACK (Duel analysis)
+Type: poster opinion
+Quote: "Given the Lightsaber dueling credentials of the legendary Jedi Knight (alias Hero of Tython), Tenebrae [TESV] is impossible to "blitz.""
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: "impossible to 'blitz'" (vs the Jedi Knight's dueling credentials)
+
+[64]
+Section: CONTINUITY - SECOND SETBACK (Doppleganger in duel)
+Type: feat
+Quote: "Tenebrae [TSEV] created Dopplegangers in this duel to create a diversion or distraction while he attempted to overwhelm the Jedi with additional applications in the mix." [panel: panels/vitiate/vitiate-tenebrae-tsev-created-dopplegangers-duel-create-diversion-1.gif]
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[65]
+Section: CONTINUITY - SECOND SETBACK (T7-O1)
+Type: feat
+Quote: "The Jedi Knight's companion droid T7-O1 proved useful in fighting off Dopplegangers in the mix. Although Tenebrae [TSEV] did not achieve a breakthrough with this tactic in the duel, this is a significant demonstration of raw power nevertheless."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "a significant demonstration of raw power" (no numeric scale)
+
+[66]
+Section: CONTINUITY - SECOND SETBACK (Wounded)
+Type: feat
+Quote: "This was the second time Tenebrae [TSEV] was struck down in a row and a significant blow to Tenebrae [VOICES] by extension. That he allowed the legendary Jedi Knight (alias Hero of Tython) to strike him down makes sense because he no longer had the strength to Transfer Life into another living being (see [d] below). He never felt the need to create a supply of clones for the needful but he could cheat death."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "no longer had the strength to Transfer Life into another living being" (vs earlier capacity)
+
+[67]
+Section: CONTINUITY - SECOND SETBACK (Author's revelation)
+Type: statement
+Quote: "Senya tells us that Valkorion started becoming colder and more distant as the children grew up, so we can surmise that he's splitting his attention again during this period. The assault of Sel-Makor and the final attack by the Jedi Knight take a lot out of him. His ritual is thwarted, and he is too weak to dominate another body or risk Valkorion until he's reinvigorated by Revan's plot in SoR - otherwise, he would've surely done so. - Charles Boyd"
+Source: Charles Boyd (developer; named in post as "Author's revelation")
+Continuity: Legends (SoR and Senya references are Legends sources)
+Scaling stated by quote: "too weak to dominate another body" (self-referential, no numeric scale)
+
+[68]
+Section: CONTINUITY - SECOND SETBACK (Cheating death)
+Type: feat
+Quote: "Tenebrae [TSEV]'s consciousness emerged from the bisected body (making itself VISIBLE) and proceeded to breach the Dark Temple:" [panel: panels/vitiate/vitiate-tenebrae-tsev-consciousness-emerged-bisected-body-making-1.gif; panels/vitiate/vitiate-tenebrae-tsev-consciousness-emerged-bisected-body-making-2.gif; panels/vitiate/vitiate-tenebrae-tsev-consciousness-emerged-bisected-body-making-3.gif]
+Source: post narrative (no source named on this line; Dark Temple codex follows)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[69]
+Section: CONTINUITY - SECOND SETBACK (Dark Temple)
+Type: statement
+Quote: "Burial place, prison, and reliquary, the Dark Temple was built on the orders of the Emperor to seal away powerful artifacts and the Emperor's enemies, both alive and dead. The temple became a nexus of dark side energy as the Emperor performed rituals within, drawing strength and knowledge from his captives. The temple's twisted, grotesque architecture was specifically designed to focus and contain such corrupt darkness."
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[70]
+Section: CONTINUITY - SECOND SETBACK (Dark Temple feat)
+Type: feat
+Quote: "- but could not prevent Tenebrae [TSEV]'s consciousness from breaching it - a remarkable display of raw power under the circumstances in view of the fact that Tenebrae [VOICES] had suffered another setback and lost much of its strength by now."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "a remarkable display of raw power under the circumstances" (no numeric scale)
+
+[71]
+Section: CONTINUITY - SECOND SETBACK (Servant One)
+Type: statement
+Quote: "While you silenced Darth Baras, the Jedi attempted the impossible feat of destroying the Emperor. Instead, they merely defeated the Emperor's true Voice. The unexpected blow was a shock. The Emperor's consciousness was wrenched from his Voice. He now slumbers, gathering his strength."
+Source: Message from Servant One of the Emperor's Hand (named in post)
+Continuity: Legends
+Scaling stated by quote: "the impossible feat of destroying the Emperor" (the Jedi's attempt; stated as impossible)
+
+[72]
+Section: CONTINUITY - SECOND SETBACK (Yavin 4)
+Type: feat
+Quote: "Tenebrae [TSEV]'s consciousness shifted to YAVIN 4."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+=====================================================================
+SECTION: CONTINUITY - THIRD SETBACK (The First Son defeated)
+=====================================================================
+
+[73]
+Section: CONTINUITY - THIRD SETBACK
+Type: statement
+Quote: "In a climactic final battle with the galaxy at stake, these two masters of the Force cross sabers. The Consular ultimately defeats the First Son and emerges victorious." [panel: panels/vitiate/vitiate-legendary-jedi-consular-alias-barsenthor-defeated-first-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "two masters of the Force" (no numeric scale)
+
+[74]
+Section: CONTINUITY - THIRD SETBACK
+Type: feat
+Quote: "This setback also exposed the remainder of Children planted in other organizations for further course of action."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[75]
+Section: CONTINUITY - RECOVERY Phase 1
+Type: statement
+Quote: ""His obsession, his arrogance, this angry crusade-it's all blinded him to the truth. The many lives he'll sacrifice to revive the Emperor will be nothing compared to what will follow." - the Force spirit of Revan"
+Source: the Force spirit of Revan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "The many lives he'll sacrifice ... will be nothing compared to what will follow" (vs what follows)
+
+[76]
+Section: CONTINUITY - RECOVERY Phase 1 (Suri)
+Type: feat
+Quote: "Suri - a surviving Child of the Emperor experienced incoherent whispers for a while but was taken into custody by other relatively more powerful Children of the Emperor."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "other relatively more powerful Children of the Emperor" (vs Suri)
+
+[77]
+Section: CONTINUITY - RECOVERY Phase 1 (YAVIN 4 meeting)
+Type: feat
+Quote: "Tenebrae [TSEV]'s consciousness was clouding Jedi senses and making ORICON feel tame in comparison to YAVIN 4."
+Source: post narrative (no source named on this line; the dialogue that follows is unattributed to a work)
+Continuity: Legends
+Scaling stated by quote: "making ORICON feel tame in comparison to YAVIN 4" (Oricon vs Yavin 4)
+
+[78]
+Section: CONTINUITY - RECOVERY Phase 1 (YAVIN 4 meeting)
+Type: statement
+Quote: "Revan is here as well. And another presence, if you wish to believe the Grand Master." - Darth Marr
+Source: Darth Marr (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[79]
+Section: CONTINUITY - RECOVERY Phase 1 (YAVIN 4 meeting)
+Type: statement
+Quote: ""The other presence--it's unclear. The dark side permeates everything here. Saturates it. I've been to Oricon, this is another level entirely." - Satele Shan"
+Source: Satele Shan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "this is another level entirely" (vs Oricon)
+
+[80]
+Section: CONTINUITY - RECOVERY Phase 1 (YAVIN 4 meeting)
+Type: statement
+Quote: ""Oricon was affected by the Dread Masters. Even their combined power was insignificant compared to the Emperor." - the legendary Jedi Knight (alias Hero of Tython)"
+Source: the legendary Jedi Knight (alias Hero of Tython) (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "Even their combined power was insignificant compared to the Emperor." (Dread Masters' combined power vs the Emperor)
+
+[81]
+Section: CONTINUITY - RECOVERY Phase 1 (YAVIN 4 meeting)
+Type: statement
+Quote: ""The Order of Revan is garrisoned inside an old Massassi temple. That is where the dark side is most prevalent." - Darth Marr"
+Source: Darth Marr (in-character; no work named in post; post refers to a companion blog: Tenebrae - ENDNOTES)
+Continuity: unclear (no work named)
+Scaling stated by quote: "That is where the dark side is most prevalent." (relative to the Order's location)
+
+[82]
+Section: CONTINUITY - RECOVERY Phase 1 (Force spirit of Revan)
+Type: feat
+Quote: "The other presence was the Force spirit of Revan. His body was reanimated and driven by its own WILL at the time:"
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[83]
+Section: CONTINUITY - RECOVERY Phase 1 (Force spirit of Revan)
+Type: statement
+Quote: ""The brooding monster inside those temple walls, he is not Revan. He is an abomination." - the Force spirit of Revan"
+Source: the Force spirit of Revan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[84]
+Section: CONTINUITY - Force Storm (Esoteric combination of applications)
+Type: feat
+Quote: "When war came to YAVIN 4 courtesy of Revan who had cheated death in a battle fought on The Foundry much earlier but was driven to defeat on this planet, Tenebrae [TSEV]'s consciousness was able to feed on numerous deaths on the planet:"
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "was able to feed on numerous deaths on the planet" (count not given)
+
+[85]
+Section: CONTINUITY - Force Storm
+Type: statement
+Quote: "The deaths you've caused. The war you've fueled. It is all mine." (no speaker named in the post)
+Source: none named in post (unattributed line under the Force Storm heading; context is Tenebrae [TSEV])
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[86]
+Section: CONTINUITY - Force Storm (transmigration)
+Type: feat
+Quote: "and accumulated sufficient strength to transmigrate to ZIOST in what appears to be a blend of Alter Environment and Fold Space applications:" [panel: panels/vitiate/vitiate-accumulated-sufficient-strength-transmigrate-ziost-appears-blend-1.gif; panels/vitiate/vitiate-accumulated-sufficient-strength-transmigrate-ziost-appears-blend-2.gif; panels/vitiate/vitiate-accumulated-sufficient-strength-transmigrate-ziost-appears-blend-3.gif; panels/vitiate/vitiate-accumulated-sufficient-strength-transmigrate-ziost-appears-blend-4.gif; panels/vitiate/vitiate-accumulated-sufficient-strength-transmigrate-ziost-appears-blend-5.gif]
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "sufficient strength" (no numeric scale)
+
+[87]
+Section: CONTINUITY - Force Storm (transmigration)
+Type: statement
+Quote: ""Impossible... the ritual haven't even begun..." - Revan"
+Source: Revan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[88]
+Section: CONTINUITY - Force Storm (transmigration)
+Type: feat
+Quote: "This transmigration effort was considerably violent - it shook the entire setting and produced a thunderstorm in combination, and the final explosion of energy gives the impression of twisting the space-time continuum to reach the desired destination. This expression of raw power inflicted many casualties on the forces of the reconstituted ancient Sith Empire given the fact that they were stationed on and above both YAVIN 4 and ZIOST respectively."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "considerably violent" (no numeric scale); "many casualties" (no numeric scale)
+
+[89]
+Section: CONTINUITY - Force Storm (Darth Marr)
+Type: statement
+Quote: ""He did not assume a physical form or possess a body. And he left as soon as he appeared. None of it makes sense." - Darth Marr"
+Source: Darth Marr (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[90]
+Section: CONTINUITY - Force Storm (Vitiate codex)
+Type: statement
+Quote: "The man now called Vitiate by those who once served him was not strong enough to usurp all life on Yavin 4 after his reawakening. However, he did gain power enough to flee the jungle moon and survive. Now that he has found in Ziost a suitable target to replenish himself--now that he appears to grow more powerful by the hour--what now?"
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex Entry titled "Vitiate." (named in post)
+Continuity: Legends
+Scaling stated by quote: "not strong enough to usurp all life on Yavin 4" (vs all life on Yavin 4); "grow more powerful by the hour" (no numeric scale)
+
+[91]
+Section: CONTINUITY - Force Storm (Darth Marr's line)
+Type: statement
+Quote: ""We suffered many casualties upon the Emperor's return, though nothing insurmountable." - Darth Marr"
+Source: Darth Marr (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "nothing insurmountable" (no numeric scale)
+
+[92]
+Section: CONTINUITY - Tenebrae [VOICES] decided to part ways with the Sith
+Type: statement
+Quote: "The Sith Emperor stalks the galaxy once more. Whether his return from the brink of oblivion is the result of the Emperor's own dark manipulations or merely the result of a terrible convergence of events, his ultimate goal remains the same--to consume all life in the galaxy as fuel for his own immortality. Despite this chilling turn of events, hope remains. The Emperor's plans have been stopped before, and the Republic is in a stronger position than ever. But the future is always in motion, and the manipulations of the Sith are never predictable...."
+Source: Star Wars: The Old Republic: Shadow of Revan: Codex Entry titled "An Omen Most Dire." (named in post)
+Continuity: Legends
+Scaling stated by quote: "the Republic is in a stronger position than ever" (vs prior position; no numeric scale)
+
+[93]
+Section: CONTINUITY - Tenebrae [VOICES] decided to part ways with the Sith (NOTE)
+Type: poster opinion
+Quote: "NOTE: Since Tenebrae [VOICES] was attempting to replenish himself (or itself) and chose to transmigrate Tenebrae [TSEV]'s consciousness from YAVIN 4 to ZIOST for the needful, his (or its) true demonstration of raw power would be on ZIOST where he (or it) was able to replenish himself (or itself) irrespective of the efforts to stop him (or it) in the process. What happened on YAVIN 4 was but a token of what he (or it) could do."
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: "What happened on YAVIN 4 was but a token of what he (or it) could do." (Ziost demonstration vs Yavin 4)
+
+[94]
+Section: CONTINUITY - Vaylin realized her abilities
+Type: statement
+Quote: "Her father's control curbed her tendencies toward violence and anarchy, but beneath her upbeat and lighthearted exterior lurked a restless hunter, hungry and ambitious. When most of the Emperor's power was locked away on Yavin 4, he was no longer able to hide Vaylin's strength from her, and she finally got a taste of her full capabilities."
+Source: Star Wars: The Old Republic: Knights of the Fallen Empire: Codex entry titled "Vaylin." (named in post)
+Continuity: Legends
+Scaling stated by quote: "when most of the Emperor's power was locked away on Yavin 4" (power level stated only qualitatively)
+
+[95]
+Section: CONTINUITY - Vaylin realized her abilities
+Type: statement
+Quote: ""The bond between us is growing stronger. You are glimpsing my memories." - Tenebrae [Valkorion]" [panel: panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-1.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-2.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-3.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-4.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-5.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-6.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-7.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-8.gif; panels/vitiate/vitiate-vaylin-no-longer-restrained-sanitarium-nathema-she-9.gif]
+Source: Tenebrae [Valkorion] (in-character; the post's KOTFE Vaylin codex follows)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[96]
+Section: CONTINUITY - Vaylin realized her abilities
+Type: statement
+Quote: "Instead of striking back, however, she decided to bide her time, like a predator studying her prey. She formed a close bond with her brother Arcann as they both detest the idea of destiny. However, Vaylin isn't one to stay in the shadows forever."
+Source: Star Wars: The Old Republic: Knights of the Fallen Empire: Codex entry titled "Vaylin." (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[97]
+Section: CONTINUITY - RECOVERY Phase 2
+Type: statement
+Quote: ""Vitiate is not our Emperor. Not anymore." - Lana Beniko"
+Source: Lana Beniko (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[98]
+Section: CONTINUITY - RECOVERY Phase 2
+Type: statement
+Quote: "In another time, it might have been cause for celebration. It might have emboldened the Empire, breathing new life into their efforts to crush the Republic. But with the Sith Emperor's apparent reawakening comes the common knowledge that he is no longer interested in ruling over the galaxy. Instead, he seeks to consume it. The Empire's highest ranking officers and dignitaries are now in a state of heightened alert, and the Dark Council has assembled a contingent of powerful Sith seers to get a fix on the Emperor's presence. When he makes his move, it is believed he will not distinguish between former friend or foe, as they will all eventually become his food and none will remain."
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex entry titled "The Emperor's Return?." (named in post)
+Continuity: Legends
+Scaling stated by quote: "a contingent of powerful Sith seers" (no numeric scale)
+
+[99]
+Section: CONTINUITY - RECOVERY Phase 2 (NOTE)
+Type: poster opinion
+Quote: "NOTE: Tenebrae [TSEV]'s consciousness = Tenebrae [Vitiate] = a part of Tenebrae [VOICES]"
+Source: poster's own equivalence (no source named)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+
+=====================================================================
+SECTION: CONTINUITY - NATHEMA / ZIOST (Vitiate on Ziost)
+=====================================================================
+
+[100]
+Section: CONTINUITY - NATHEMA conditions (Tenebrae [VOICES] saw in ZIOST a suitable target)
+Type: statement
+Quote: "A past shrouded in secrets. A future clouded by uncertainty. It was believed that the once-and-former Sith Emperor sought to consume all life in the galaxy to grant him the dark power required to attain immortality... but is that still the case? Was it ever? Did he actually have another plan all along? The man now called Vitiate by those who once served him was not strong enough to usurp all life on Yavin 4 after his reawakening. However, he did gain power enough to flee the jungle moon and survive. Now that he has found in Ziost a suitable target to replenish himself--now that he appears to grow more powerful by the hour--what now? When will his unforgiving depletion of Ziost end? And when it does end, what fate will befall the rest of the galaxy?"
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex Entry titled "Vitiate" (named in post)
+Continuity: Legends
+Scaling stated by quote: "not strong enough to usurp all life on Yavin 4" (vs all life on Yavin 4); "grow more powerful by the hour" (no numeric scale)
+
+[101]
+Section: CONTINUITY - Telepathy (Ziost: Tenebrae [Vitiate] began to possess inhabitants)
+Type: feat
+Quote: "Tenebrae [Vitiate] began to possess inhabitants of ZIOST and caused mass killings:" [panel: panels/vitiate/vitiate-tenebrae-vitiate-began-possess-inhabitants-ziost-caused-1.gif; panels/vitiate/vitiate-tenebrae-vitiate-began-possess-inhabitants-ziost-caused-2.png; panels/vitiate/vitiate-tenebrae-vitiate-began-possess-inhabitants-ziost-caused-3.png]
+Source: post narrative; the next block is attributed to Star Wars: The Old Republic: Community News titled "Welcome to Game Update 3.2: Rise of the Emperor." [panel: panels/vitiate/vitiate-drain-life-essence-1.gif; panels/vitiate/vitiate-republic-strikes-back-1.gif]
+Continuity: Legends
+Scaling stated by quote: "mass killings" (no numeric scale)
+
+[102]
+Section: CONTINUITY - Telepathy (Ziost)
+Type: statement
+Quote: "Unleashed from his sanctuary on Yavin 4, the former Sith Emperor has now struck the Imperial world of Ziost. Using his immense power in the dark side of the Force, he has dominated the minds of the planet's Imperial troops--as well as an elite cadre of militaristic Jedi--and has set them against the populace, engaging in a bloody slaughter."
+Source: Star Wars: The Old Republic: Community News titled "Welcome to Game Update 3.2: Rise of the Emperor." (named in post)
+Continuity: Legends
+Scaling stated by quote: "immense power in the dark side of the Force" (no numeric scale); "an elite cadre of militaristic Jedi" (group size not given) [panel: panels/vitiate/vitiate-documented-techniques-needful-1.png]
+
+[103]
+Section: CONTINUITY - Telepathy (Ziost: The Sixth Line)
+Type: statement
+Quote: ""There is no contemplation, there is only duty." It is a declaration more in line with a rank-and-file soldier than a Jedi, and yet it is a guiding principle of the squad known as the Sixth Line. Their commander, Master Surro, is said to have made the phrase her personal mantra as she waged war against the Empire on the front lines of Balmorra, where her unwavering resolve to accomplish whatever her commanding officers asked of her set her apart from other Jedi. Details of the formation of the Sixth Line and how they came to work with SIS Agent Theron Shan are sparse. Scattered reports in recent years do suggest that a group of "Jedi commandos" have been involved in raids and strikes not officially sanctioned by the Republic, though the validity of such reportage is typically seen as unreliable."
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex Entry titled "The Sixth Line." (named in post; the mantra line is unattributed in the post)
+Continuity: Legends
+Scaling stated by quote: "set her apart from other Jedi" (Master Surro vs other Jedi)
+
+[104]
+Section: CONTINUITY - Telepathy (Ziost: The Sixth Line)
+Type: feat
+Quote: "Some of the most powerful Jedi were unable to resist telepathic shroud of Tenebrae [Vitiate] on ZIOST including the leader of The Sixth Line movement Jedi Master Surro who had distinguished herself from the others in the battlefield of Balmora years earlier:"
+Source: post narrative (the Sixth Line codex follows)
+Continuity: Legends
+Scaling stated by quote: "Some of the most powerful Jedi" (no count); "distinguished herself from the others" (vs other Sixth Line/Balmorra fighters)
+
+[105]
+Section: CONTINUITY - Telepathy (Ziost: The Sixth Line)
+Type: statement
+Quote: "Speaking through those he's possessed, he controls powerful pawns like Master Surro, the leader of a team of elite militarized Jedi known as the Sixth Line."
+Source: Star Wars: The Old Republic: Rise of the Emperor (post marks this as "Taken from")
+Continuity: Legends
+Scaling stated by quote: "powerful pawns" (no numeric scale)
+
+[106]
+Section: CONTINUITY - Drain Life Essence (Ziost)
+Type: statement
+Quote: "Obsessed with achieving immortality, the Sith Emperor has targeted his own former subjects on the planet Ziost, with every death seemingly extending his dark power."
+Source: Star Wars: The Old Republic: Community News titled "Welcome to Game Update 3.2: Rise of the Emperor." (named in post)
+Continuity: Legends
+Scaling stated by quote: "with every death seemingly extending his dark power" (no numeric scale)
+
+[107]
+Section: CONTINUITY - Drain Life Essence (Ziost)
+Type: statement
+Quote: "Known as the "Gateway to the Empire," the planet Ziost is in a state of chaos as innocent civilians are targeted by possessed pawns of the Sith Emperor. From the menacing "People's Tower" in the city's center to massive armored walkers patrolling for fresh targets, the Sith Emperor's presence is overwhelming, his power growing with every death... Only you have the strength to stand against him."
+Source: Star Wars: The Old Republic: Community News titled "Welcome to Game Update 3.2: Rise of the Emperor." (named in post)
+Continuity: Legends
+Scaling stated by quote: "his power growing with every death" (no numeric scale); "Only you have the strength to stand against him" (vs the Emperor)
+
+[108]
+Section: CONTINUITY - Drain Life Essence (Ziost)
+Type: poster opinion
+Quote: "The agenda of Tenebrae [Vitiate] was to create CONFLICT and expand it across the breath of ZIOST, and FEED on the resultant deaths to increase his strength:"
+Source: poster's own analysis (the Community News line follows as the supporting quote)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[109]
+Section: CONTINUITY - The Republic Strikes Back (JTF codex)
+Type: statement
+Quote: "In response to the Emperor's return, the Republic Strategic Information Service has begun to assemble a joint task force with the sole purpose of finding the ancient Sith ruler and destroying him at last. Initially proposed by SIS agent Theron Shan, the organization will eventually include representatives from the Jedi Order, Republic Special Forces, "paid consultants" from the underworld--anyone who can contribute to the Emperor's downfall. As with anything in the Republic, it's possible that politics may play a part in the group's final assembly and resources. But given that its founding members witnessed the return of the Emperor firsthand, it's unlikely that anything will be allowed to impede the task force's progress for long."
+Source: Star Wars: The Old Republic: Shadow of Revan: Codex Entry titled "The Joint Task Force." (named in post)
+Continuity: Legends
+Scaling stated by quote: "it's unlikely that anything will be allowed to impede the task force's progress for long" (no numeric scale)
+
+[110]
+Section: CONTINUITY - The Republic Strikes Back
+Type: statement
+Quote: "As the Sith Emperor gradually dominates the free will of everyone on Ziost, both Lana Beniko, Minister of the newly formed Sith Intelligence, and Theron Shan, a spy for the Galactic Republic, are trying to stop the chaos."
+Source: Star Wars: The Old Republic: Community News titled "Welcome to Game Update 3.2: Rise of the Emperor." (named in post)
+Continuity: Legends
+Scaling stated by quote: "gradually dominates the free will of everyone on Ziost" (scope: everyone on Ziost)
+
+[111]
+Section: CONTINUITY - The Republic Strikes Back
+Type: statement
+Quote: "The Emperor escaped destruction on Yavin 4, and now his presence has been felt on the planet Ziost, once powerful throne world of the Sith Empire. You are called upon again to face this galactic menace when your allies realize that the entire planet's inhabitants have been mind-controlled. And while the Emperor's ultimate plan is still unknown, you do know he must be stopped."
+Source: Star Wars: The Old Republic: Community News titled "Welcome to Game Update 3.2: Rise of the Emperor." (named in post)
+Continuity: Legends
+Scaling stated by quote: "the entire planet's inhabitants have been mind-controlled" (scope: whole planet)
+
+[112]
+Section: CONTINUITY - Members of the Joint Task Force (Ziost)
+Type: poster opinion
+Quote: "Members of the Joint Task Force come to understand that Tenebrae [Vitiate] was using his (or its) powers to POSSESS all manner of living beings and utilizing them for violent ends in order to increase his (or its) strength from resultant deaths (multitasking with Telepathy and Drain Life Essence implied):"
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[113]
+Section: CONTINUITY - Members of the Joint Task Force (Ziost)
+Type: statement
+Quote: ""As you've witnessed, Vitiate is taking hold of an increasing number of soldiers and Sith. His goal continues to be the accumulation of power. Agent?" - Lord Lana Beniko"
+Source: Lord Lana Beniko (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "an increasing number of soldiers and Sith" (no numeric scale)
+
+[114]
+Section: CONTINUITY - Members of the Joint Task Force (Ziost)
+Type: statement
+Quote: ""Each time a pawn is killed, Vitiate gets a little bit stronger. Not as much as when they kill, but.... That's what Minister Beniko says, anyway." - Agent Rane Kovach"
+Source: Agent Rane Kovach (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "Not as much as when they kill" (a pawn's death vs. the pawn's own killing)
+
+[115]
+Section: CONTINUITY - Members of the Joint Task Force (Ziost)
+Type: statement
+Quote: ""The more powerful he becomes, the more people he can control. He will keep on killing until nothing's left." - Agent Rane Kovach"
+Source: Agent Rane Kovach (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "The more powerful he becomes, the more people he can control" (power-to-control relation, not numeric)
+
+[116]
+Section: CONTINUITY - Monoliths (Beings pure dark side energy)
+Type: poster opinion
+Quote: "Putting the aforementioned revelations into perspective, A DARK CYCLE OF GROWTH IN STRENGTH was in effect: Tenebrae [Vitiate] was making use of his (or its) immense power in the dark side of the Force to possess all manner of living beings and create CONFLICT across ZIOST in order to feed on resultant deaths by his (or its) unwitting pawns (multitasking with Telepathy and Drain Life Essence implied), and as his (or its) strength continued to increase due to each death, he (or it) began to conjure nigh-omnipotent beings of pure dark side energy across the world to facilitate his agenda (Sith Sorcery implied - another addition in the mix of dark side abilities to the benefit of the wielder):" [panel: panels/vitiate/vitiate-putting-aforementioned-revelations-perspective-dark-cycle-growth-1.gif]
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: "nigh-omnipotent beings of pure dark side energy" (poster's wording)
+
+[117]
+Section: CONTINUITY - Monoliths
+Type: statement
+Quote: ""We've seen several of those creatures appearing throughout New Adasta. They're made of Sith alchemy. A sign of Vitiate's growing power. Extremely strong, next to impossible to kill. The one which you just defeated is the smallest we've came across." - Lord Lana Beniko"
+Source: Lord Lana Beniko (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "The one which you just defeated is the smallest we've came across." (smallest of the creatures encountered); "next to impossible to kill"
+
+[118]
+Section: CONTINUITY - Monoliths
+Type: statement
+Quote: ""Its power's already returned" - The legendary Jedi Knight (alias Hero of Tython)" and ""I'm afraid so." - Lord Lana Beniko"
+Source: in-character lines (no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "Its power's already returned" (return of power)
+
+[119]
+Section: CONTINUITY - Monoliths (codex)
+Type: statement
+Quote: "Given enough intellect, knowledge, fortitude and power, Sith alchemy can be used to achieve the seemingly impossible, such as transforming flesh and bone to form vicious Sithspawn such as the imposing Massassi and the unstoppable Terentatek. But Monoliths are something beyond Sithspawn: they are everlasting monstrosities built not on a foundation of living tissue but of dark side energy itself. Enduring and merciless and quite possibly unkillable, Monoliths plainly illustrate the immeasurable power of their creator and are best avoided at all costs."
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex Entry titled "Monolith." (named in post)
+Continuity: Legends
+Scaling stated by quote: "the unstoppable Terentatek" and "the imposing Massassi" (Sithspawn; "something beyond Sithspawn" for Monoliths); "quite possibly unkillable"; "the immeasurable power of their creator"
+
+[120]
+Section: CONTINUITY - Monoliths / Reducing violence on ZIOST
+Type: statement
+Quote: ""You feed on all the deaths you cause. I'm doing everything I can to take that away from you." - The legendary Jedi Knight (alias Hero of Tython)"
+Source: the legendary Jedi Knight (alias Hero of Tython) (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[121]
+Section: CONTINUITY - Monoliths / Reducing violence on ZIOST (evacuation)
+Type: statement
+Quote: ""I can confirm it: the defenses are down. Between those weapons and the armory, a lot of their killing power's out of their hands now. Should be able to start evacuation efforts as well. The fewer potential targets on Ziost, the better." - Rane Kovach"
+Source: Rane Kovach (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "a lot of their killing power's out of their hands now" (no numeric scale); "The fewer potential targets on Ziost, the better" (relative)
+
+[122]
+Section: CONTINUITY - Reinforcements arrive
+Type: feat
+Quote: "The supreme chancellor of the Republic Leontyne Saresh dispatched a FLEET of the Republic to invade ZIOST and aid the Jedi and members of the Joint Task Force operating on the surface in their fight against Tenebrae [Vitiate] on the surface:" [panel: panels/vitiate/vitiate-supreme-chancellor-republic-leontyne-saresh-dispatched-fleet-1.gif]
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "a FLEET of the Republic" (size not given)
+
+[123]
+Section: CONTINUITY - Electrostatic Equipment
+Type: statement
+Quote: ""Should be enough to Zap anyone in range into a nice, long, involuntary nap." - Theron Shan"
+Source: Theron Shan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "Should be enough to Zap anyone in range" (range-based, not quantified)
+
+[124]
+Section: CONTINUITY - Electrostatic Equipment
+Type: image-only
+Quote: image-only. Caption in post: "Massive electrostatic gun in view for reference." [panel: panels/vitiate/vitiate-massive-electrostatic-gun-view-reference-1.png; panels/vitiate/vitiate-massive-electrostatic-gun-view-reference-2.png]
+Source: none named for the image caption
+Continuity: unclear
+Scaling stated by quote: "Massive" (caption only; no numeric scale)
+
+[125]
+Section: CONTINUITY - Electrostatic Equipment (Jedi Master Surro)
+Type: feat
+Quote: "Jedi Master Surro proved immune to such firepower by virtue of relatively stronger link between her and Tenebrae [Vitiate] in comparison to other subjects." [panel: panels/vitiate/vitiate-jedi-master-surro-proved-immune-firepower-virtue-1.gif]
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "relatively stronger link ... in comparison to other subjects" (vs other possessed subjects)
+
+[126]
+Section: CONTINUITY - Electrostatic Equipment (Jedi Master Surro)
+Type: statement
+Quote: ""Let's just hope we got all of them. We should call Lana now, see if she has a plan for what's next." - Theron Shan"
+Source: Theron Shan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[127]
+Section: CONTINUITY - Electrostatic Equipment (Jedi Master Surro)
+Type: statement
+Quote: ""I saw it. I saw everything. Every life he took--I took. It's all I can see anymore." - Jedi Master Surro"
+Source: Jedi Master Surro (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[128]
+Section: CONTINUITY - Electrostatic Equipment (Jedi Master Surro)
+Type: feat
+Quote: "The legendary Jedi Knight (alias Hero of Tython) was able to defeat Jedi Master Surro in single combat and help her break free from telepathic influence of Tenebrae [Vitiate] by extension."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "in single combat" (one-on-one)
+
+[129]
+Section: CONTINUITY - Electrostatic Equipment (aftermath)
+Type: statement
+Quote: ""We got a break from the Emperor, but that may only last until all the trained killing machines we zapped get on their feet again." - Theron Shan"
+Source: Theron Shan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "all the trained killing machines we zapped" (no count)
+
+[130]
+Section: CONTINUITY - Electronic Manipulation (esoteric application)
+Type: feat
+Quote: "The legendary Jedi Knight (alias Hero of Tython) attempted to communicate with the supreme chancellor of the Republic Leontyne Saresh only to be interrupted by Tenebrae [Vitiate] in the process:" [panel: panels/vitiate/vitiate-legendary-jedi-knight-alias-hero-tython-attempted-1.gif; panels/vitiate/vitiate-legendary-jedi-knight-alias-hero-tython-attempted-2.gif; panels/vitiate/vitiate-legendary-jedi-knight-alias-hero-tython-attempted-3.gif; panels/vitiate/vitiate-legendary-jedi-knight-alias-hero-tython-attempted-4.gif]
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[131]
+Section: CONTINUITY - Electronic Manipulation
+Type: statement
+Quote: ""I'm curious: Do you really believe you've accomplished anything here? What do you think you've stopped? - Tenebrae [VOICES]" (the post has no closing quotation mark after "stopped?")
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[132]
+Section: CONTINUITY - Electronic Manipulation
+Type: statement
+Quote: ""I have already cheated death. I have other plans now--as you will see." - Tenebrae [VOICES]"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "I have already cheated death" (self-described; no numeric scale)
+
+[133]
+Section: CONTINUITY - Electronic Manipulation
+Type: statement
+Quote: ""I have decided that life is more interesting with you in it. If you wish to keep railing against me, then so be it. Your interference changes nothing." - Tenebrae [VOICES]"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "Your interference changes nothing." (vs the Jedi's interference)
+
+[134]
+Section: CONTINUITY - Electronic Manipulation
+Type: statement
+Quote: ""When I am finished here -- when every life on this world has been exhausted -- I want you to be alive. To know that I succeeded." - Tenebrae [VOICES]"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "every life on this world has been exhausted" (scope: whole planet)
+
+[135]
+Section: CONTINUITY - FIX on the Emperor's presence
+Type: feat
+Quote: "- did not yield desired result, and Darth Marr admitted DEFEAT in the following message:" [panel: panels/vitiate/vitiate-yield-desired-result-darth-marr-admitted-defeat-1.jpg]
+Source: post narrative (no source named on this line; the Empire fix codex is "The Emperor's Return?." named earlier in the post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[136]
+Section: CONTINUITY - FIX on the Emperor's presence (NOTE)
+Type: poster opinion
+Quote: "NOTE: Tenebrae [VOICES] had demonstrated incredible proficiency in the application of a Force Concealment technique years earlier:"
+Source: poster's own note (the Encyclopedia passage that follows is the supporting source)
+Continuity: unclear
+Scaling stated by quote: "incredible proficiency" (no comparison)
+
+[137]
+Section: CONTINUITY - FIX on the Emperor's presence (poster analysis)
+Type: poster opinion
+Quote: "That ability coupled with Tenebrae's seemingly unparalleled power in the dark side of the Force, proved too much for the Jedi and Sith to address on ZIOST."
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: "seemingly unparalleled power in the dark side of the Force" (absolute claim, no numeric scale) [panel: panels/vitiate/vitiate-documented-techniques-needful-1.png]
+
+[138]
+Section: CONTINUITY - Consume ZIOST (Ziost Transportation Terminal)
+Type: image-only
+Quote: image-only. Caption in post: "Ziost Transportation Terminal:" with on-screen text: "[You notice a warning that orbital sensors detect a "planetary anomaly". A widespread crisis may be imminent. If you choose to investigate, further travel to Ziost's surface may become impossible, leaving any open concerns there unresolved.]"
+Source: in-game terminal text (no source work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "A widespread crisis may be imminent." (no numeric scale)
+
+[139]
+Section: CONTINUITY - Consume ZIOST (Ziost Transportation Terminal)
+Type: poster opinion
+Quote: "The impression given is that nobody could experience that "planetary anomaly" first-hand and live to tell the tale afterwards..."
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[140]
+Section: CONTINUITY - RECOVERY Phase 3
+Type: statement
+Quote: ""Saresh finally saw reason before things got too bad, got a bunch of our troops out of there--still, we lost so many, never mind the rest of Ziost...." - Theron Shan"
+Source: Theron Shan (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "we lost so many" (no numeric scale)
+
+[141]
+Section: CONTINUITY - BEFORE (Drain Force)
+Type: feat
+Quote: "Since members of the Joint Task Force were making evacuations possible, Tenebrae [VOICES] was left with no choice but to consume ZIOST in one go in order to replenish himself (or itself):" [panel: panels/vitiate/vitiate-since-members-joint-task-force-were-making-1.gif; panels/vitiate/vitiate-since-members-joint-task-force-were-making-2.gif]
+Source: post narrative (no source named on this line; the Ziost Transportation Terminal image follows)
+Continuity: Legends
+Scaling stated by quote: "consume ZIOST in one go" (scope: all of Ziost)
+
+[142]
+Section: CONTINUITY - BEFORE (Drain Force)
+Type: image-only
+Quote: image-only. Caption in post: "The Space Station shook and its lights flickered:" [panel: panels/vitiate/vitiate-space-station-shook-lights-flickered-1.gif]
+Source: none named for the image caption
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[143]
+Section: CONTINUITY - BEFORE (Drain Force)
+Type: feat
+Quote: "A tsunami of dark side energy was spreading on the surface resembling Death Field in its look and literally vaporized living beings in the process:" (caption-style lead-in to an image) [panel: panels/vitiate/vitiate-tsunami-dark-side-energy-spreading-surface-resembling-1.gif; panels/vitiate/vitiate-tsunami-dark-side-energy-spreading-surface-resembling-2.gif]
+Source: post narrative (no source named on this line; "resembling Death Field" is the post's comparison)
+Continuity: Legends
+Scaling stated by quote: "literally vaporized living beings" (no count); "resembling Death Field in its look" (comparison to Death Field)
+
+[144]
+Section: CONTINUITY - BEFORE (Drain Force)
+Type: image-only
+Quote: image-only. Caption in post: "The tsunami of dark side energy left a dried-up husk in its wake:" [panel: panels/vitiate/vitiate-tsunami-dark-side-energy-left-dried-husk-1.gif]
+Source: none named for the image caption
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[145]
+Section: CONTINUITY - BEFORE (Drain Force)
+Type: feat
+Quote: "The planet's environment suffered extensive harm with loss of oceans and diminished atmospheric conditions:" [panel: panels/vitiate/vitiate-planets-environment-suffered-extensive-harm-loss-oceans-1.gif]
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "extensive harm" (no numeric scale)
+
+[146]
+Section: CONTINUITY - BEFORE (Drain Force)
+Type: feat
+Quote: "Members of the Joint Task Force watched in vain and called it a day:" [panel: panels/vitiate/vitiate-members-joint-task-force-watched-vain-called-1.gif; panels/vitiate/vitiate-members-joint-task-force-watched-vain-called-2.gif]
+Source: post narrative (image follows; no source named)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[147]
+Section: CONTINUITY - AFTER (scale of the event)
+Type: poster opinion
+Quote: "The level of investment in this capacity should be roughly equivalent to this (or worse)."
+Source: poster's own analysis (no source named)
+Continuity: unclear
+Scaling stated by quote: "roughly equivalent to this (or worse)" (vs the Ziost event shown)
+
+[148]
+Section: CONTINUITY - AFTER (Death of a World)
+Type: statement
+Quote: "Global cataclysms are not unheard of. Whole worlds teeming with life have been rendered lifeless by meteorites, broken apart by instability in the planet's own core--even atomized by the destructive force of a supernova. But the eerie calm of a world stripped of life yet left otherwise intact is another matter altogether. Whispered rumors have persisted of planets snuffed out through intricate Sith rituals or by way of deadly, arcane machines--such as the device Revan sought to employ on Yavin 4--but Ziost represents a clear display of the corrosive power of the dark side of the Force taken to its extreme."
+Source: Star Wars: The Old Republic: Rise of the Sith Emperor: Codex Entry titled "Death of a World." (named in post)
+Continuity: Legends
+Scaling stated by quote: "even atomized by the destructive force of a supernova" (a world destroyed by a supernova); "the corrosive power of the dark side of the Force taken to its extreme" (no numeric scale) [panel: panels/vitiate/vitiate-documented-techniques-needful-1.png]
+
+[149]
+Section: CONTINUITY - AFTER (Additional outcome)
+Type: statement
+Quote: ""It was a blur. We tried to evacuate as many as we could. Considering so much was out of control, I'd say we did alright... ...but Vitiate is stronger now. Sith Intelligence is in complete disarray. It's all coming apart." - Lana Beniko"
+Source: Lana Beniko (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic: Shadow of Revan (Ziost aftermath; Wookieepedia's citation) — how identified: quote box on https://starwars.fandom.com/wiki/Ziost/Legends (rev 15695064), ref [9] 'Star Wars: The Old Republic: Shadow of Revan'
+Continuity: unclear (no work named)
+Scaling stated by quote: "Vitiate is stronger now" (vs before Ziost)
+
+[150]
+Section: STATUS of the legendary Jedi Knight (The Eternal Conquest)
+Type: statement
+Quote: "[name] has become the Jedi Order's Battlemaster after saving the Republic from many nefarious plots by the evil Sith Emperor. On countless planets, this champion of the Force is all that stands between helpless innocents and the enemy's conquest. But a terrible new threat has emerged at the galaxy's farthest edge, forcing an unlikely alliance between [name] and old foes...."
+Source: Star Wars The Old Republic: Knights of the Fallen Empire: Codex Entry titled "The Jedi Knight." (named in post)
+Continuity: Legends
+Scaling stated by quote: "On countless planets, this champion of the Force is all that stands between helpless innocents and the enemy's conquest." (no numeric scale)
+
+[151]
+Section: STATUS of the legendary Jedi Consular (The Eternal Conquest)
+Type: statement
+Quote: "A true Force prodigy, Jedi Master [name] has stood as a beacon of hope in the war against the Sith Empire, earning the title BARSEN'THOR: Warden of the Jedi Order. Uniting the Republic's most contentious worlds, [name] exposed and defeated deadly Sith infiltrators hidden deep within the ranks of both the Jedi and the military. But now a new enemy threatens to destroy both Republic and Empire, forcing into an even more dangerous alliance in the desperate hope of saving the galaxy...."
+Source: Star Wars The Old Republic: Knights of the Fallen Empire: Codex Entry titled "The Jedi Consular." (named in post)
+Continuity: Legends
+Scaling stated by quote: "A true Force prodigy" (no numeric scale); "a new enemy threatens to destroy both Republic and Empire" (scope)
+
+[152]
+Section: CONTINUITY - Footnote * (The Son and The Daughter / Killiks)
+Type: poster opinion
+Quote: "*The Son and The Daughter were able to do something similar to the Killiks who were involved in the construction of The Centerpoint Station many centuries ago:"
+Source: poster's own analogy (no source named for this footnote line)
+Continuity: unclear
+Scaling stated by quote: "many centuries ago" (time only)
+
+[153]
+Section: CONTINUITY - Footnote * (Infants)
+Type: statement
+Quote: "Infants of every species across the galaxy were secretly visited by the Hand and brought before the Emperor, where he sunk his insidious barbs into their malleable minds." [panel: panels/vitiate/vitiate-telepathy-1.png]
+Source: Star Wars: The Old Republic: Encyclopedia (named in post)
+Continuity: Legends
+Scaling stated by quote: "Infants of every species across the galaxy" (scope) [panel: panels/vitiate/vitiate-telepathy-1.png]
+
+[154]
+Section: CONTINUITY - Footnote ** (Midi-chlorian experiments)
+Type: feat
+Quote: "In order to develop and/or hone new applications to perfection, experiments can be helpful. For example, Darth Plagueis experimented a great deal with Midi-chlorians of other living beings before he conceived Midi-chlorian Manipulation application and could weaponize it (Star Wars: Darth Plagueis; Book of Sith: Secrets from the Dark Side); Midi-chlorian Manipulation application was technically the inverse of sever Force application (Book of Sith: Secrets from the Dark Side)."
+Source: Star Wars: Darth Plagueis; Book of Sith: Secrets from the Dark Side (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[155]
+Section: CONTINUITY - Footnote ** (Infants / 3678 BBY)
+Type: feat
+Quote: "Tenebrae [VOICES] experimented on some infants to transform them into his Children circa 3678 BBY:" [panel: panels/vitiate/vitiate-tenebrae-voices-experimented-infants-transform-them-children-1.png]
+Source: Star Wars: The Old Republic: Blood the Empire (From line follows the post's lead-in)
+Continuity: Legends
+Scaling stated by quote: "circa 3678 BBY" (date only)
+
+[156]
+Section: CONTINUITY - Footnote ** (ANALOGUE)
+Type: poster opinion
+Quote: "ANALOGUE - The Son corrupted Padawan Learner Ahsoka Tano by biting her circa 20 BBY:"
+Source: poster's own analogue (no source named on this line)
+Continuity: unclear
+Scaling stated by quote: "circa 20 BBY" (date only)
+
+[157]
+Section: CONTINUITY - Footnote ** (Kira Carsen)
+Type: feat
+Quote: "When Tenebrae [TSEV] reached out to and took control of Kira Carsen from lightyears distance to attack the legendary Jedi Knight (alias Hero of Tython), his verdict was that this proto-Child was in need of further treatment ("This Child is unfinished. Weak. I will make her strong."). Tenebrae [VOICES] dispatched Valis (a powerful Child of the Emperor) to take Kira Carsen into custody but with the legendary Jedi Knight (alias Hero of Tython) by her side, he was cut down."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "from lightyears distance" (distance); "a powerful Child of the Emperor" (Valis)
+
+[158]
+Section: CONTINUITY - Footnote *** (Disciplines of Mind)
+Type: statement
+Quote: "The disciplines of Mind require intense concentration and are mentally taxing. Physical strength will not help you here, only psychic clarity."
+Source: Darth Bane, Book of Sith: Secrets from the Dark Side (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[159]
+Section: CONTINUITY - Footnote *** (Theron Shan)
+Type: poster opinion
+Quote: "Theron Shan is among the most resourceful and honed combatants of the mythos (Star Wars: The Old Republic: Annihilation; Star Wars: The Old Republic: The Lost Suns). Although he was lacking in the Force-sensitivity aspect, he learned to strengthen his mind under tutelage of the Jedi Master Ngani Zho - talents which enabled him to cope with formidable situations and endure pain (Star Wars: The Old Republic: Annihilation; Star Wars: The Old Republic: The Lost Suns). His talents served him well on ZIOST as well."
+Source: the poster's own assessment, citing Star Wars: The Old Republic: Annihilation and Star Wars: The Old Republic: The Lost Suns
+Continuity: Legends (cited sources); assessment itself unclear
+Scaling stated by quote: "among the most resourceful and honed combatants of the mythos" (ranking, no numeric scale)
+
+[160]
+Section: CONTINUITY - Footnote *** (ANALOGUE - Cade Bane)
+Type: poster opinion
+Quote: "ANALOGUE - It took the combined might of three powerful Jedi Masters to break Cade Bane circa 21 BBY:"
+Source: poster's own analogue (no source named on this line)
+Continuity: unclear
+Scaling stated by quote: "the combined might of three powerful Jedi Masters" (vs Cade Bane)
+
+[161]
+Section: CONTINUITY - Force-sensitive shield (poster analysis)
+Type: poster opinion
+Quote: "On the flip side, Tenebrae [Vitiate] was preoccupied with subjects on a planetary-scale including a large number Force-users and his exploits were already off-the-charts by extension. Force-sensitive living beings are nigh-immune to Telepathic intrusions, and an effort to breach mental barrier of one can backfire:"
+Source: poster's own analysis (the D6 passage that follows is the supporting source)
+Continuity: unclear
+Scaling stated by quote: "off-the-charts" (no numeric scale); "nigh-immune to Telepathic intrusions" (vs telepathic intrusion)
+
+[162]
+Section: CONTINUITY - Force-sensitive shield
+Type: statement
+Quote: "The deep subconscious of a Force-sensitive person is shielded by a protective barrier which prevents another Force wielder from penetrating his or her inner mind. This shield pushes violently back at an intruder, sending him or her stumbling back. This "shield" is an involuntary defense mechanism maintained by every Force-sensitive person. It is one reliable way to determine which people might have the potential to become a Jedi.
+
+The magnitude of the backlash generated by the shield depends on the character's strength in the Force. A person who is merely Force sensitive will shove the intruder back several feet. Someone with actual Force skills will produce a more intense reaction. Those with little training will send the intruder reeling back across the room. Someone who is well-trained, or who has a great deal of raw talent in the Force, might actually send the intruder flying across the room."
+Source: Star Wars - D6 - Force Powers (named in post)
+Continuity: Legends
+Scaling stated by quote: "A person who is merely Force sensitive will shove the intruder back several feet"; "Those with little training will send the intruder reeling back across the room"; "Someone who is well-trained, or who has a great deal of raw talent in the Force, might actually send the intruder flying across the room" (graded backlash by training level; no Ziost comparison)
+
+[163]
+Section: CONTINUITY - Footnote **** (Force spirit of the Sith)
+Type: poster opinion
+Quote: "****It is possible to affect and/or destroy a Force spirit of the Sith:"
+Source: poster's own lead-in (the Codex quotes that follow are the sources)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[164]
+Section: CONTINUITY - Footnote **** (Dark Council / Saresh)
+Type: statement
+Quote: "In her address to the Galactic Republic, Supreme Chancellor Leontyne Saresh mourned the loss of life, vowing to "stop the mad Sith Emperor at any cost." Similarly, word has filtered through the Sith Empire that the Dark Council is actively hunting their former Emperor while also working with renowned Sith alchemists on a plan to destroy the one they call Vitiate for good."
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex Entry titled "Death of a World." (named in post)
+Continuity: Legends
+Scaling stated by quote: "renowned Sith alchemists" (no numeric scale)
+
+[165]
+Section: CONTINUITY - Footnote **** (Not a Force spirit)
+Type: feat
+Quote: "However, they were not dealing with a Force spirit of the Sith on ZIOST but a being of unfathomable power in Tenebrae [VOICES] who was utterly formless on this planet and proved impossible to sense and obtain a FIX on, and his The Immortal Emperor VOICE was active in the far reaches of the Wild Space on ZAKUUL - first disclosed to the Jedi and Sith circa 3637 BBY."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "a being of unfathomable power"; "utterly formless"; "impossible to sense"; "circa 3637 BBY" (date)
+
+
+=====================================================================
+SECTION: 3.1 MORE POWERFUL THAN EVER BEFORE / 3.2 WHAT IF? (Endnote-style sections)
+=====================================================================
+
+[166]
+Section: 3.1. MORE POWERFUL THAN EVER BEFORE
+Type: statement
+Quote: ""Especially after Ziost, putting an end to Vitiate's threat seems like an impossible task. I don't believe it truly is impossible. Even if it is were, we have to try.""
+Source: Lana Beniko, Star Wars: The Old Republic: Rise of the Emperor (named in post as the "From" line)
+Continuity: Legends
+Scaling stated by quote: "an impossible task" (self-described; no numeric scale)
+
+[167]
+Section: 3.1. MORE POWERFUL THAN EVER BEFORE
+Type: poster opinion
+Quote: "Tenebrae [Vitiate] merged with Tenebrae [TIEV] and this being (or the ENTITY) became WHOLE again as well as stronger than ever before at this stage of REBIRTH:"
+Source: poster's own assessment (no source named on this line)
+Continuity: unclear
+Scaling stated by quote: "stronger than ever before" (vs earlier stages of the ENTITY)
+
+[168]
+Section: 3.1. MORE POWERFUL THAN EVER BEFORE
+Type: statement
+Quote: "Meanwhile, an older threat still looms: the former SITH EMPEROR, revitalized after annihilating all life on the planet Ziost, has similarly vanished without a trace."
+Source: Epilogue, Star Wars: The Old Republic: Knights of the Fallen Empire, Chapter 1 (named in post)
+Continuity: Legends
+Scaling stated by quote: "annihilating all life on the planet Ziost" (scope: one planet)
+
+[169]
+Section: 3.1. MORE POWERFUL THAN EVER BEFORE
+Type: statement
+Quote: "Over the millennia, Valkorion wore many faces and names: Lord Vitiate; Emperor of the Sith; Eternal Emperor of Zakuul. For centuries upon centuries, he shaped and manipulated galactic events, bending the arc of history to his will during his obsessive quest for immortality. A being of unfathomable power and insatiable appetite, he transcended death multiple times, shedding his physical shells as they were discovered, defeated, and destroyed... only to return in another form.
+
+With each rebirth, he grew stronger. His machinations became grander. The pain and suffering he unleashed became greater. Some believed his ultimate goal was conquest: the complete subjugation of every world, known and unknown. Others believed he sought annihilation: the consumption of every living being in the galaxy, until he alone remained."
+Source: Star Wars: The Old Republic: Knights of the Eternal Throne: Codex Entry titled "The Fall of Valkorion." (named in post)
+Continuity: Legends
+Scaling stated by quote: "For centuries upon centuries" (time); "With each rebirth, he grew stronger" (growth across rebirths); "the consumption of every living being in the galaxy" (stated ultimate goal of some)
+
+[170]
+Section: 3.1. MORE POWERFUL THAN EVER BEFORE
+Type: poster opinion
+Quote: "His (or its) impact on those touched by him remained in effect nevertheless. More on this below."
+Source: poster's own framing (no source named)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[171]
+Section: 3.2. WHAT IF?
+Type: statement
+Quote: "The Emperor hungers. If restored, he would attempt to consume all life in the galaxy, and I am certain he would succeed. No one, not Revan, not the Jedi, not you, not me would be able to stop him." - Darth Marr
+Source: Darth Marr (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "No one, not Revan, not the Jedi, not you, not me would be able to stop him" (ranks Revan and the Jedi as unable to stop the Emperor)
+
+[172]
+Section: 3.2. WHAT IF?
+Type: feat
+Quote: "Tenebrae [VOICES] could shatter the fabric of the entire galaxy after consuming ZIOST due to having sufficient FUEL at his (or its)disposal:"
+Source: post narrative (no source named on this line; the Hall Hood quote follows)
+Continuity: Legends
+Scaling stated by quote: "shatter the fabric of the entire galaxy" (scope: entire galaxy)
+
+[173]
+Section: 3.2. WHAT IF?
+Type: statement
+Quote: "The ritual wasn't that complex. Valkorion was simply working multiple fuel angles at once. The Hero of Tython disrupted the entire ritual and forced the Emperor to halt the Eternal Fleet rampage, at which point he had to re-evaluate his plans." - Hall Hood
+Source: Hall Hood, contributor to the SWTOR project (named in post)
+Continuity: Legends
+Scaling stated by quote: "multiple fuel angles at once" (no numeric scale)
+
+[174]
+Section: 3.2. WHAT IF? (Force vision)
+Type: image-only
+Quote: image-only. Caption in post: "Force vision experienced by the legendary Sith Warrior (alias The Emperor's Wrath) - replacement of the former Emperor's Wrath Lord Scourge - in times of attack on YAVIN 4 by the Revanites FOR REFERENCE:"
+Source: none named for the image caption
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[175]
+Section: 3.2. WHAT IF? (Eternal Empire)
+Type: feat
+Quote: "- but Tenebrae [VOICES] changed his decision due to The Eternal Empire living up to his (or its) expectations."
+Source: post narrative (no source named on this line; the Vitiate codex follows)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[176]
+Section: 3.2. WHAT IF? (Vitiate codex, repeated block)
+Type: statement
+Quote: "A past shrouded in secrets. A future clouded by uncertainty. It was believed that the once-and-former Sith Emperor sought to consume all life in the galaxy to grant him the dark power required to attain immortality... but is that still the case? Was it ever? Did he actually have another plan all along?"
+Source: Star Wars: The Old Republic: Rise of the Emperor: Codex entry titled "Vitiate." (named in post)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+[177]
+Section: 3.2. WHAT IF? (Epilogue)
+Type: statement
+Quote: "It is a time of chaos. A mysterious army led by twin conquerors has carved a path of destruction across the worlds of the warring Galactic Republic and Sith Empire, then disappeared into uncharted space. Meanwhile, an older threat still looms: the former SITH EMPEROR, revitalized after annihilating all life on the planet Ziost, has similarly vanished without a trace. Determined to hunt down these dangerous foes at any cost, Imperial leader DARTH MARR gather allies from both factions to join his incusion into the far reaches of Wild Space...."
+Source: Epilogue, Star Wars: The Old Republic: Knights of the Fallen Empire, Chapter 1 (named in post)
+Continuity: Legends
+Scaling stated by quote: "A mysterious army led by twin conquerors" (no numeric scale); "annihilating all life on the planet Ziost" (scope: one planet)
+
+[178]
+Section: 3.2. WHAT IF? (Eternal Empire)
+Type: statement
+Quote: "The Eternal Empire of Zakuul is a totalitarian dictatorship under the Immortal Emperor. Citizens don't merely obey the Emperor--they view him as their timeless guide and protector. By trusting him with all political and military power, they can focus on higher learning and the finer aspects of civilized society. All citizens receive a monthly stipend of credits and resources such as food and fuel. Compared to the rest of the galaxy, the average Zakuulan would be a member of the upper class and want for nothing. They are an idealistic people--scientists, artists and philosophers--who look down on the Sith Empire and Republic, disgusted by their warmongering ways. Instilled with Valkorion's arrogance, they believe it is their burden to bring enlightenment to the rest of the galaxy."
+Source: Star Wars: The Old Republic: Knights of the Fallen Empire: Codex entry titled "The Eternal Empire." (named in post)
+Continuity: Legends
+Scaling stated by quote: "Compared to the rest of the galaxy, the average Zakuulan would be a member of the upper class and want for nothing" (vs the rest of the galaxy)
+
+=====================================================================
+SECTION: 3. Tenebrae [VOICES] - Consolidated
+=====================================================================
+
+[179]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""I thought I destroyed him when he was the Sith Emperor. Then I fought him on Ziost. Then I discovered he was Valkorion. He just keeps coming back." - The Alliance Commander"
+Source: The Alliance Commander (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "He just keeps coming back" (repeated return; no numeric scale)
+
+[180]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""A new name, a new face... these are not enough to hide us." - Darth Marr"
+Source: Darth Marr (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[181]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""The Sith Emperor... your presence is unmistakable." - The Outlander"
+Source: The Outlander (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[182]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""Oh, I think a mistake has been made... but by whom?" - Tenebrae [VOICES] (now CONSOLIDATED)"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[183]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""A second Empire? Even you couldn't have built all of this. There must be another explanation." - The Outlander"
+Source: The Outlander (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt (the Outlander and Valkorion) — how identified: quote box with ref [2] on https://starwars.fandom.com/wiki/Eternal_Empire (rev 15728170)
+Continuity: unclear (no work named)
+Scaling stated by quote: "Even you couldn't have built all of this" (scale of the construct; no numeric scale)
+
+[184]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""You presume limits to my power. There are none." - Tenebrae [VOICES] (now CONSOLIDATED)"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt (Valkorion to the Outlander) — how identified: quote box with ref [2] on https://starwars.fandom.com/wiki/Eternal_Empire (rev 15728170)
+Continuity: unclear (no work named)
+Scaling stated by quote: "There are none." (claims no limits to his power)
+
+[185]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""Your constant silence across your history... this was your distraction?" - Darth Marr"
+Source: Darth Marr (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "your constant silence across your history" (scope: history; no numeric scale)
+
+[186]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""This was my focus. Everything else... the means to an end." - Tenebrae [VOICES] (now CONSOLIDATED)"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[187]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""You claim to have come all of this way to find me. Here I am. What do you want?" - Tenebrae [VOICES] (now CONSOLIDATED)"
+Source: Tenebrae [VOICES] (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt (Valkorion to the Outlander) — how identified: quote box with ref [1] on https://starwars.fandom.com/wiki/Assassination_of_Valkorion and ref [5] on https://starwars.fandom.com/wiki/Alliance_Commander
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[188]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: statement
+Quote: ""You manipulate whole civilizations, arrange decades of war, eradicate all life on Ziost... then flee. You're going to tell me why." - The Outlander"
+Source: The Outlander (in-character; no work named in post)
+Continuity: unclear (no work named)
+Scaling stated by quote: "manipulate whole civilizations"; "arrange decades of war"; "eradicate all life on Ziost" (scope: all life on Ziost)
+
+[189]
+Section: 3. Tenebrae [VOICES] - Consolidated
+Type: poster opinion
+Quote: "NOTE: To be expanded"
+Source: poster's own note (no source named)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+=====================================================================
+SECTION: 4. Tenebrae [Valkorion]
+=====================================================================
+
+[190]
+Section: 4. Tenebrae [Valkorion]
+Type: feat
+Quote: "After Arcann killed Thexan in a fit of rage, Tenebrae [VOICES] decided to get rid of his (or its) remaining children as well but by the hand of The Outlander - who in turn became The Alliance Commander in the course of his struggles against The Eternal Empire. Arcann also wanted to get rid of his FATHER but Tenebrae [VOICES] could cheat death by virtue of having immortal essence and allowed his (or its) son to strike him down:"
+Source: post narrative (no source named on this line; the KOTET Character Profiles quote follows)
+Continuity: Legends
+Scaling stated by quote: "could cheat death by virtue of having immortal essence" (no numeric scale)
+
+[191]
+Section: 4. Tenebrae [Valkorion]
+Type: statement
+Quote: "Valkorion has lived for millennia, using his dark mastery of the Force to assume many forms. His latest incarnation is Valkorion, the Immortal Emperor of the Eternal Empire. After ruling for centuries, he was struck down in an act of treachery engineered by his son, Arcann. But the Immortal Emperor could not be vanquished so easily. He evaded death by infiltrating the mind of the Outlander, his most powerful opponent. He now appears to the Outlander as an apparition, offering guidance and harsh lessons while carrying out a master plan that remains shrouded in secrecy."
+Source: Star Wars: The Old Republic: Knights of the Eternal Throne: Character Profiles: The Outlander (named in post)
+Continuity: Legends
+Scaling stated by quote: "has lived for millennia" (time); "his most powerful opponent" (the Outlander)
+
+[192]
+Section: 4. Tenebrae [Valkorion]
+Type: statement
+Quote: ""He spurs his son's bloodlust and ambition by setting him and the fleet loose on the galaxy (now that they're definitely in no state to resist the fleet's power or endanger Zakuul). He lures his new enemy into a trap and captures them. He arranges his own "death", whether by the player's hand or Arcann's, and invades the player's mind. Arcann and Vaylin do exactly what he expects, which is to generally muck up the galaxy and establish themselves as tyrants in need of overthrowing. And then he arranges and guides the player in doing just that, all the while laying the groundwork for dominating their mind at the moment of their victory and commanding a newly-reshaped galaxy as a heroic liberator - an all-new experience to try out. Too bad it didn't work out for him." - Charles Boyd"
+Source: Charles Boyd (developer; named in post)
+Continuity: Legends (KOTET content)
+Scaling stated by quote: "in no state to resist the fleet's power" (Arcann and Vaylin vs the fleet's power)
+
+[193]
+Section: 4. Tenebrae [Valkorion]
+Type: feat
+Quote: "Vaylin perished in the ongoing struggles but Arcann and Senya Tirall persisted and bind their minds to The Alliance Commander to help him resist takeover of his mind in full capacity by Tenebrae [Valkorion]. The Alliance Commander had also sourced a powerful artifact beforehand which could help wreck Tenebrae [Valkorion] in the process and weaponized it for the needful. Now weakened, Vaylin's consumed essence was able to manifest independently and she joined the others in their efforts to rout Tenebrae [Valkorion] from the mind of The Alliance Commander - these struggles eventually bore fruit and Tenebrae [Valkorion] was presumed destroyed."
+Source: post narrative (no source named on this line; the KOTET Fall of Valkorion codex follows)
+Continuity: Legends
+Scaling stated by quote: "a powerful artifact" (no numeric scale)
+
+[194]
+Section: 4. Tenebrae [Valkorion]
+Type: statement
+Quote: "Yet, immortality is an impossibility. No matter how strong, how powerful, how godlike, all must perish. In the end, Valkorion could not escape the inevitable, permanent end to his existence. Finally, after thousands of years, the Immortal Emperor--his body, his spirit, the very essence of his being--is no more."
+Source: Star Wars: The Old Republic: Knights of the Eternal Throne: Codex Entry titled "The Fall of Valkorion." (named in post)
+Continuity: Legends
+Scaling stated by quote: "No matter how strong, how powerful, how godlike, all must perish" (no comparison); "after thousands of years" (time)
+
+[195]
+Section: 4. Tenebrae [Valkorion]
+Type: feat
+Quote: "- but Tenebrae [VOICES] had another FAILSAFE arrangement just in case:"
+Source: post narrative (no source named on this line; the FAILSAFE is detailed in Section 5)
+Continuity: Legends
+Scaling stated by quote: none stated
+
+=====================================================================
+SECTION: 5. Tenebrae [Consciousness] - Reconstruction of the ENTITY
+=====================================================================
+
+[196]
+Section: 5. Tenebrae [Consciousness]
+Type: statement
+Quote: ""Today, we defeated the most evil and destructive being in history. It has been centuries since the galaxy knew a day without Tenebrae's dark influence. Today is the first step toward a new future. Let's make that future a better one." - Satele Shan"
+Source: Satele Shan (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic — Alliance mission "Echoes of Oblivion" (aboard Satele Shan's ship), final conversation with Satele Shan — how identified: game dialogue dump, conversation cnv.alliance.satele_ship.scene_15, nodes 73/97/128: https://torcommunity.com/database/npc/oCsWtgE/tenebrae/ ; mission: https://www.torcommunity.com/database/mission/ccqD4RF/echoes+of+oblivion/
+Continuity: unclear (no work named)
+Scaling stated by quote: "the most evil and destructive being in history" (absolute, all of history)
+
+[197]
+Section: 5. Tenebrae [Consciousness]
+Type: feat
+Quote: "Tenebrae [VOICES] had maintained a FAILSAFE in the form of his (or its) original body which in turn could pave way for his (or its) return should he ever fail in the process of creating a VOICE in another living being which is the most risky feat to attempt in the lore by far (see SECTION 3 below for details). The original body was discovered and destroyed by the former Child of the Emperor Kira Carsen and the former Emperor's Wrath Lord Scourge circa 3630 BBY but the body was able to serve its purpose - the resulting explosion of energy knocked out the duo for a long while and when Satele Shan arrived at the scene with a number of other Jedi (GROUP), Tenebrae [Consciousness] was able to knock them all out and infiltrated her mind in order to REBUILD the ENTITY within and hollow her out for subsequent takeover."
+Source: post narrative (no source named on this line)
+Continuity: Legends
+Scaling stated by quote: "the most risky feat to attempt in the lore by far" (poster's own superlative, embedded in the feat text); "a number of other Jedi (GROUP)" (count not given)
+
+[198]
+Section: 5. Tenebrae [Consciousness]
+Type: feat
+Quote: "Alarmed by that development, scores of the most powerful Force-users in history banded together (all related to and/or touched by the supremely powerful ENTITY in varying capacities before), and were able to bind themselves to the mind of Satele Shan in order to help her FIGHT and/or RESIST the supremely powerful ENTITY in her mindscape (akin to Beyond Shadows). The resulting battle was extraordinarily difficult and perilous and the supremely powerful ENTITY achieved the upper-hand but then something truly remarkable happened - the protagonists collectively achieved the state of oneness and countless Force apparitions manifested at this stage to assist them in the ongoing battle. With so much raw power brought to bear against the supremely powerful ENTITY, Tenebrae [Consciousness] collapsed and was undone for good."
+Source: post narrative (no source named on this line)
+Continuity: Legends (Beyond Shadows is named as a comparison by the poster)
+Scaling stated by quote: "scores of the most powerful Force-users in history" (count given as scores); "the supremely powerful ENTITY" (no comparison); "countless Force apparitions" (no count)
+
+[199]
+Section: 5. Tenebrae [Consciousness]
+Type: statement
+Quote: ""The Force seeks balance. Always." - the Force spirit of Revan"
+Source: the Force spirit of Revan (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic — Alliance mission "Echoes of Oblivion" (Satele, Senya, Kira, Meetra and Revan to Tenebrae just before his death); Wookieepedia cites it as Star Wars: The Old Republic: Onslaught — how identified: quote box with ref [5] on https://starwars.fandom.com/wiki/Mission_to_Kira_Carsen%27s_ship ; same line in conversation cnv.alliance.satele_ship.scene_15 at https://torcommunity.com/database/npc/oCsWtgE/tenebrae/
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[200]
+Section: 5. Tenebrae [Consciousness] (NOTE)
+Type: poster opinion
+Quote: "NOTE: Subject to how YOU pry Satele Shan, she will disclose following:"
+Source: poster's own note (no source named)
+Continuity: unclear
+Scaling stated by quote: none stated
+
+[201]
+Section: 5. Tenebrae [Consciousness]
+Type: statement
+Quote: ""At the end... all those people who appeared around us. Who were they?" - The Alliance Commander"
+Source: The Alliance Commander (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic — Alliance mission "Echoes of Oblivion", final conversation (player line) — how identified: conversation cnv.alliance.satele_ship.scene_15 at https://torcommunity.com/database/npc/oCsWtgE/tenebrae/
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+[202]
+Section: 5. Tenebrae [Consciousness]
+Type: statement
+Quote: ""They were the consequences he fled for so many centuries." - Satele Shan"
+Source: Satele Shan (in-character; no work named in post)
+Source (identified later): Star Wars: The Old Republic — Alliance mission "Echoes of Oblivion", final conversation (Satele Shan, node 48) — how identified: conversation cnv.alliance.satele_ship.scene_15 at https://torcommunity.com/database/npc/oCsWtgE/tenebrae/
+Continuity: unclear (no work named)
+Scaling stated by quote: "for so many centuries" (time)
+
+[203]
+Section: 5. Tenebrae [Consciousness] (following statements)
+Type: statement
+Quote: ""My son is helping Kira and Scourge. They're taking my surviving students to our old training grounds on Coruscant." / "Arcann and Senya have left for Odessen. Perhaps now they will finally know true peace." / "The rest... Darth Marr, Meetra Surik, Revan... I believe they are all one with the Force at last." - Satele Shan"
+Source: Satele Shan (in-character; no work named in post; post marks these as "Following statements are a constant")
+Source (identified later): Star Wars: The Old Republic — Alliance mission "Echoes of Oblivion", final conversation (Satele Shan, nodes 50/53/57). The dump reads "I believe they are one with the Force at last" (no "all") — how identified: conversation cnv.alliance.satele_ship.scene_15 at https://torcommunity.com/database/npc/oCsWtgE/tenebrae/
+Continuity: unclear (no work named)
+Scaling stated by quote: none stated
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### vitiate-p2
+- Reachable at following LINK . (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-reachable-following-link-2.jpg]
+
+### vitiate-p2 / Transfer Life
+- Esoteric application (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-esoteric-application-1.png]
+
+### vitiate-p2 / Force Storm (Wormhole)
+- Expression of hate and anger (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-expression-hate-anger-1.png]
+
+### vitiate-p2 / 3. Tenebrae [VOICES] - the ENTITY
+- - and enabled him (or it ) to expand his (or its ) footprint across the galaxy by bringing a large number of living beings under his fold in which he created ex (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-enabled-him-expand-footprint-across-galaxy-bringing-1.png]
+- Tenebrae [The Sith Emperor] created numerous VOICES in other living beings ranging from humans to alien species over the course of centuries: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-tenebrae-sith-emperor-created-numerous-voices-living-1.jpg]
+
+### vitiate-p2 / Telepathy
+- The Spire: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-spire-1.png]
+
+### vitiate-p2 / Force Concealment
+- ----- (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-force-concealment-1.png]
+- This would be a time close to vanilla SWTOR Class stories. (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-time-close-vanilla-swtor-class-stories-1.gif]
+- Later (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-later-1.gif]
+- RETURN TO WAR circa 3640 BBY (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-return-war-circa-3640-bby-1.png]
+- CONFRONTATION (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-confrontation-1.jpg]
+
+### vitiate-p2 / Sith Lightning
+- RESISTANCE (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-resistance-1.gif; panels/vitiate/vitiate-resistance-2.gif]
+
+### vitiate-p2 / THE ULTIMATE SITH SORCERY
+- - and some were capable of overwhelming the legendary Jedi Consular (alias Barsen'thor ) in single combat: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-were-capable-overwhelming-legendary-jedi-consular-alias-1.gif]
+
+### vitiate-p2 / Doppleganger
+- Tenebrae [TSEV] created Dopplegangers to have a measure of his opponents. (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-tenebrae-tsev-created-dopplegangers-measure-opponents-1.gif; panels/vitiate/vitiate-tenebrae-tsev-created-dopplegangers-measure-opponents-2.gif]
+- Tenebrae [TSEV] was wounded and enclosed himself in a Protection Bubble : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-tenebrae-tsev-wounded-enclosed-protection-bubble-1.gif]
+- - but changed his mind and allowed his opponent to strike him down: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-changed-mind-allowed-opponent-strike-him-down-1.gif; panels/vitiate/vitiate-changed-mind-allowed-opponent-strike-him-down-2.gif; panels/vitiate/vitiate-changed-mind-allowed-opponent-strike-him-down-3.gif; panels/vitiate/vitiate-changed-mind-allowed-opponent-strike-him-down-4.gif]
+
+### vitiate-p2 / CHEATING DEATH
+- A view of the setting: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-view-setting-1.png]
+
+### vitiate-p2 / Force Storm
+- ----- (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-force-storm-1.png]
+
+### vitiate-p2 / Electrostatic Equipment
+- In addition to disabling automated defenses, members of the Joint Task Force discovered and considered using electrostatic equipment to pave way for potential e (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-addition-disabling-automated-defenses-members-joint-task-1.png]
+- Members of the Joint Task Force also goaded Tenebrae [Vitiate] into dispatching a force of his (or its ) possessed subjects including Jedi Master Surro to confr (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-members-joint-task-force-goaded-tenebrae-vitiate-1.gif]
+- Followed by: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-followed-1.gif; panels/vitiate/vitiate-followed-2.gif; panels/vitiate/vitiate-followed-3.gif; panels/vitiate/vitiate-followed-4.gif]
+- However: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-electrostatic-equipment-1.gif; panels/vitiate/vitiate-electrostatic-equipment-2.gif; panels/vitiate/vitiate-electrostatic-equipment-3.gif]
+
+### vitiate-p2 / FIX on the Emperor's presence ****
+- BEFORE (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-before-1.png]
+
+### vitiate-p2 / Drain Force
+- AFTER: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-after-1.png]
+
+### vitiate-p2 / Additional outcome
+- One of the examples of Theron Shan 's skills for reference: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-one-examples-theron-shan-skills-reference-1.png; panels/vitiate/vitiate-one-examples-theron-shan-skills-reference-2.png]
+
+### vitiate-p2 / 3.2. WHAT IF?
+- The fate of the galaxy by and large including Rishi Maze would be this: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-fate-galaxy-large-including-rishi-maze-1.gif; panels/vitiate/vitiate-fate-galaxy-large-including-rishi-maze-2.gif; panels/vitiate/vitiate-fate-galaxy-large-including-rishi-maze-3.gif; panels/vitiate/vitiate-fate-galaxy-large-including-rishi-maze-4.gif]

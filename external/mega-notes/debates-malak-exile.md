@@ -1,0 +1,37 @@
+# Suspect Insight: Darth Malak and Meetra Surik (the Exile) threads (read 2026-10-19)
+Raw HTML/text: forum-raw/sw1019/*.html and *.txt (parser forum-raw/parse_si2.py; summarizer forum-raw/sw1019/brief.py). Forum verdicts are OPINION ONLY. Thread list came from the SI board index (forum-raw/board_topics.txt).
+
+## Malak threads read (13)
+- t1377 Malak vs Vader (Sep 2019, 31 posts): https://www.suspectinsightforums.com/t1377-malak-vs-vader
+- t2052 Darth Malak vs Darth Vader (Dec 2019, ~50 posts, base Malak vs ROTJ Vader)
+- t1528 TPM Maul vs Malak (no amp) (31 posts); t4332 TPM Maul vs SF Malak (49 posts)
+- t1864 Exar Kun vs Darth Malak (Jul 2019, ~45 posts)
+- t540 Malak (Star Forge) vs Traya (Malachor V) (38 posts); t2590 Traya vs Malak (45 posts)
+- t4239 Malak vs Nihilus (32 posts); t2030 Malak vs Caedus (100 posts, mostly flame); t2908 "How would Malak fare if written in the NJO?"; t2612 Bane vs Malak; t515 SF Malak Jedi gauntlet; t146 Dooku vs Revan+Malak (short)
+- Not read (listed in index): t1909 Ulic vs Malak, t2198 Malak vs Malgus, t3454 Plagueis vs Malak, t3087 Malak vs Tenebrous, t193 vs Wyyrlok, t316/t3938 vs Jadus, t3443 vs Bandon, t635 vs Zannah, t626 Grievous vs SF.
+
+### Main Malak arguments
+- PRO (KingofBlades, DarthAnt66, IG, Primarch, Vaelias, Nute_Chethray, HellfireUnit): the Hasbro line "Did it provide him with powers far greater than even Exar Kun or Freedon Nadd, or was cybernetic enhancement too simple an explanation?" reads as fact (the question is the cause, not the claim). Azronger: it may cover base Malak too, "The Star Forge amp would just be another boon". PeraltaEagle45: the Star Forge amp is "more akin to the amp Taalon got from the Pool than a nexus amp that is location locked" (i.e. permanent). DarthAnt66 (t1528): "the Star Forge amp permanently increased his powers". IG: losing to KOTOR Revan is "a good showing for Revan, not a bad one for Malak". Star Map scaling: Malak scales over the Star Maps that corrupted wildlife on Tatooine/Kashyyyk. t4239 votes: Malak stomps Nihilus (Primarch, HellfireUnit, Shimrra, Vaelias, VictreebelVictr: "SF Malak>>Exar Kun>Nihilus"); one Nihilus vote (Vengean).
+- CON (AncientPower, SithSauce, dark_globe, CuckedCurry, BreakofDawn, The lord of hunger): the quote is a question in marketing copy, contradicted by the Tales of the Jedi Omnibus Vol. 2 blurb (Kun era = "greatest threat since the founding of the Republic") and by a SWTOR-era Encyclopedia passage ranking the ancient Sith (Pall etc.) above later Lords; "the quote isn't nearly specific enough to cancel out the gargantuan feats gap" (AncientPower: "Kun wipes the floor with him"). SithSauce: "He is far more powerful than Exar Kun yet while amped by the Star Forge, he lost to a vastly pre prime Revan who had just finished going through armies". dark_globe: "malak got nothing on dooku he is trash in sabers compared to best RoTS duelists".
+- vs Vader: split. t1377: Vader (Deronn_Solo, SithSauce, CuckedCurry, dark_globe, MP) vs Malak (KingofBlades, NevesYtneves says SF Malak only). t2052 (base Malak vs ROTJ Vader): mostly Vader (BreakofDawn "Vader handily", winebottle, NevesYtneves, The lord of hunger), IG and KingofBlades for Malak.
+- vs Maul: t1528 (no amp) split; DarthAnt66 "might hand it to Malak"; Smurvette75 "Maul cannot even use Sith lightning". t4332 (SF Malak): Primarch "Malak without much difficulty"; thread turns into the Encyclopedia-quote fight.
+- vs Traya: t540/t2590 majority Malak (Guest, PeraltaEagle45, HellfireUnit, DarthAnt66 "Malak stomps", KingofBlades, Nute_Chethray), AncientPower and CuckedCurry for Traya ("Malachor V is practically confirmed to be > Star Forge"). Side debate: does Nyriss (TOR: Revan) outperform Traya, and was Meetra hindered by Nathema on Dromund Kaas?
+- NJO thought experiment (t2908): Malak would be "a high-end character who wouldn't provide any trouble whatsoever to a serious Luke" - "the Sedriss to Sheev, the Brakiss to Kueller".
+- Meta: SI consensus is fractured; the "Malak > Kun" quote is the whole case. Malak has few on-screen feats.
+
+## Meetra Surik / Exile threads read (10)
+- t171 Jedi Exile Meetra Surik: Chronological Respect Thread (2019), 2 pages (respect-thread layer, see meetra-comicvine-respect.txt)
+- t1100 Darth Vader vs Meetra Surik (Sep 2019, 100 posts / 4 pages read)
+- t3533 Meetra vs Mace Windu (29 posts); t330 "Who is the strongest PT character the Jedi Exile can beat?" (26 posts); t4116 Meetra vs Bane; t878 Meetra vs Qui-Gon; t2199 Meetra vs Plagueis (short); t429 Meetra vs Hero of Tython; t265 Meetra vs Kyle Katarn; t561 Yoda vs the Exiles
+- Referenced but not read: t2584 Darth Revan vs KOTOR II Meetra Surik (KingofBlades's main argument thread).
+
+### Main Exile arguments
+- LOW camp (majority on SI): HellfireUnit "Surik is only a counter pick for Nihilus, nothing else really"; TOR: Revan novel - she and Scourge could not beat Nyriss on Dromund Kaas, and Revan Reborn outclasses her ("Meetra was fodder compared to Revan Reborn", KingofBlades); NevesYtneves (t3533) "Meetra is buried in piles of TOR scaling"; Traya "just sucks as a combatant" (NevesYtneves); BreakofDawn joke: "beat an old blind woman with one hand". t330 answers for the best PT character she beats: Luminara/Kota/Etain/Aurra Sing/Whie (low), prime Kenobi or ROTS Kenobi (MasterCilghal, lorenzo), "Probably Darth Maul" (EmperorCaedus).
+- HIGH camp: IG (t1100) scaling chain "Meetra >> Malachor Tired Meetra > Malachor Traya >> Traya >>>>> Zez Kai Ell, Kavar, and Vrook"; MasterCilghal "Beating Traya on an incredibly powerful dark side nexus"; AncientPower (t330): "in her prime should comfortably be capable of taking on an enraged Darth Nihilus" and "The Exile is confirmed to become more powerful than Traya in the several years between the game and the novel"; Darth Nihilus (t3533) the Emperor's Guards she beat were amped by Kaas and Vitiate while she was weakened; S_W_LeGenD "Mace Windu, but Meetra Surik will make him work for it".
+- Votes: Vader vs Meetra (t1100): clear Vader majority (HellfireUnit, BreakofDawn, NevesYtneves, Deronn_Solo, KingofBlades "might actually favor Vader here but it would be a good fight", LSDMB); Meetra side: IG, MasterCilghal. Mace vs Meetra (t3533): Mace majority (HellfireUnit "lolstomps", BreakofDawn "Mace one-shots", NevesYtneves, S_W_LeGenD), Meetra: Bergmar, Darth Zanos.
+- Author note (from CV RT): Chris Avellone: "unless the Exile pulled some strange Force deafening move, but even that wouldn't keep Revan down for long." -> author intent Revan > Exile.
+- Revan novel framing (Karpyshyn): Revan to Meetra "you have become far greater than I could ever have imagined"; Scourge: Revan and the Exile "were your greatest heroes"; Vitiate beats both; she is killed by Scourge.
+
+## My takeaways (feed verdicts.md 2026-10-19)
+1. Malak: the "far greater than Kun" line is a question in Hasbro marketing copy; treat as weak positive. On-screen: loses to Revan (twice), Karpyshyn says Revan was stronger in the Force. Place SF Malak at the bottom of tier 5 (below Revan, around/below Kun), base Malak top of tier 6 (above Maul, around Dooku). Vader beats base Malak; SF Malak vs Vader is close.
+2. Exile: her wins (Visas, Atris, Sion, Nihilus with help, Traya) are real but each has caveats (Nihilus = hard counter; Traya wanted to lose). The Revan novel later depicts her below Revan and unable to beat Nyriss with Scourge. SI majority puts her under Vader and Mace. I keep her tier 5 (bottom) on game evidence but lower her vs Vader/Mace to losses.

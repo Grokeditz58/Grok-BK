@@ -1,0 +1,45 @@
+# 136 The Final Prophecy: coverage check (2026-11-17 CST)
+
+Each row lists the line range of a unit in the box text copy (`136-njo-20-final-prophecy` was converted from the owner's epub with `pandoc -t plain --wrap=none`, one paragraph per line), the paragraphs of the story text in that unit, how many are quoted verbatim, the number of quote blocks, and the file.
+
+| Unit | Lines | Quoted / paragraphs | Blocks | File |
+|---|---|---|---|---|
+| Front matter | 156–191 | 18/18 | 1 | fp-01 |
+| Prologue | 192–223 | 15/15 | 2 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 1 | 224–447 | 109/109 | 6 | fp-01 | (2 title/heading line(s) not quoted)
+| Chapter 2 | 448–651 | 101/101 | 4 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 3 | 652–791 | 69/69 | 3 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 4 | 792–989 | 98/98 | 5 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 5 | 990–1185 | 97/97 | 4 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 6 | 1186–1259 | 36/36 | 2 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 7 | 1260–1497 | 118/118 | 5 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 8 | 1498–1575 | 38/38 | 2 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 9 | 1576–1959 | 191/191 | 8 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 10 | 1960–2181 | 108/108 | 4 | fp-01 | (2 title/heading line(s) not quoted)
+| Chapter 11 | 2182–2525 | 170/170 | 7 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 12 | 2526–2977 | 225/225 | 10 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 13 | 2978–3195 | 107/107 | 6 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 14 | 3196–3287 | 45/45 | 2 | fp-01 | (1 title/heading line(s) not quoted)
+| Chapter 15 | 3288–3521 | 115/115 | 4 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 16 | 3522–3635 | 56/56 | 3 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 17 | 3636–3821 | 92/92 | 4 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 18 | 3822–4019 | 98/98 | 5 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 19 | 4020–4131 | 53/53 | 2 | fp-02 | (2 title/heading line(s) not quoted)
+| Chapter 20 | 4132–4309 | 88/88 | 4 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 21 | 4310–4481 | 85/85 | 4 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 22 | 4482–4651 | 84/84 | 4 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 23 | 4652–4921 | 134/134 | 7 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 24 | 4922–5129 | 102/102 | 5 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 25 | 5130–5209 | 39/39 | 2 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 26 | 5210–5379 | 84/84 | 5 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 27 | 5380–5681 | 149/149 | 6 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 28 | 5682–5827 | 72/72 | 4 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 29 | 5828–6159 | 165/165 | 8 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 30 | 6160–6253 | 46/46 | 2 | fp-02 | (1 title/heading line(s) not quoted)
+| Chapter 31 | 6254–6547 | 146/146 | 7 | fp-03 | (1 title/heading line(s) not quoted)
+| Chapter 32 | 6548–6861 | 155/155 | 7 | fp-03 | (1 title/heading line(s) not quoted)
+| Chapter 33 | 6862–7001 | 69/69 | 4 | fp-03 | (1 title/heading line(s) not quoted)
+| Chapter 34 | 7002–7259 | 128/128 | 5 | fp-03 | (1 title/heading line(s) not quoted)
+| Epilogue | 7260–7383 | 61/61 | 3 | fp-03 | (1 title/heading line(s) not quoted)
+
+All 37 units were read in order, in full. 3566 of 3566 story paragraphs (100.0%) are quoted verbatim in 166 blocks; each block is a consecutive run of paragraphs pasted from the text by machine, with a one-line note written while reading. Chapter titles / headings, `[]` image placeholders and scene breaks are not counted. A machine check confirmed every block appears in the notes exactly as in the source text (0 failures). Material after the story (About the Author, other-book excerpts, advertisements) is not part of the novel and was not read for these notes.

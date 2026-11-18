@@ -1,0 +1,147 @@
+[Cross-link 2026-10-12] DEEP layer: mace-comicvine-respect.txt (ShootingNova + Erkan12 CV RTs, sourced) + debates-yoda-mace-sidious.md (SI). Verdicts in verdicts.md.
+Mace Windu (Legends) — extraction of concrete feats, cited power statements, and article-stated scaling
+
+Source page
+- Final URL: https://starwars.fandom.com/wiki/Mace_Windu/Legends
+- The requested /Legends URL loaded successfully; the fallback page was not needed.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The page itself warns that Labyrinth of Evil and Star Wars: Clone Wars are conflicting sources, that Lucasfilm has not established a cohesive timeline, and that the article needs referencing/additions. Treat the entries below as claims made by that article, with its citations, not as an independent continuity judgment.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+How to read this extraction
+- [n] preserves the article's citation number. “Feat” means an action the article narrates. “Statement/scaling” means an assessment, description, dialogue, or comparison rather than a directly demonstrated feat.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Hype/opinion is labeled as such. No uncited extrapolation is added.
+
+Article framing and scaling (statements, not feats)
+- The lead calls Windu “legendary,” says his wisdom and power were considered legendary by many, and says he was often regarded as second only to Grand Master Yoda. It calls him one of the best swordsmen in Jedi history. These are article framing/scaling statements, not standalone feats.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Mace Windu/Legends" rev 15682404 but it has no inline citation in its paragraph; approximate match 0.64, verify)
+- The lead says he created the modern seventh lightsaber form, Vaapad, with Sora Bulq, and was the only practitioner who did not fall to the dark side.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Mace Windu/Legends" rev 15682404 but it has no inline citation in its paragraph; approximate match 0.90, verify)
+- “Powers and abilities > Lightsaber training” says he was considered one of the greatest swordsmen ever produced by the Order, one of the greatest duelists in history, and second only to Yoda among Jedi in skill. It also says Dooku had once beaten him in a friendly duel, but during the Clone Wars Windu was considered the only Jedi who could stand toe-to-toe with the improved Tyranus on neutral ground. [117]
+- The same section says he could duel Tyranus evenly until MagnaGuards intervened; with Obi-Wan Kenobi he defeated Tyranus on Behpour; he could overwhelm General Grievous; and he quickly overpowered Asajj Ventress in their first duel. It says he held his own against an improved Ventress in their second encounter. [57][61][101][109][111]
+- The article says Depa Billaba’s bladework potentially surpassed his, but Windu held her off and eventually lured her into destroying a signal jammer; it describes that duel as close and physically taxing for both. [1]
+- It says he dueled Sora Bulq equally despite Bulq’s claim that perfecting Vaapad through the dark side had improved him. [61]
+- It says Windu drew power from the current Dark Lord of the Sith to disarm Darth Sidious, calling this a feat only otherwise replicated by Yoda and Luke Skywalker (the latter with a family-power boost). It says Windu acknowledged the duel would have ended in a draw if he had not used shatterpoint. These are the article’s scaling statements; they should not be read as an unqualified “Windu was stronger.” [6][29][116][119]
+
+Vaapad and lightsaber mastery
+- The article’s quoted Windu explanation: “Vaapad is as aggressive and powerful as its namesake, but its power comes at great risk: immersion in Vaapad opens the gates that restrain one's inner darkness. To use Vaapad, a Jedi must allow himself to enjoy the fight; he must give himself over to the thrill of battle. The rush of winning. Vaapad is a path that leads through the penumbra of the dark side…This was Vaapad's ultimate test.” [29]
+- Vaapad was intentionally created to let its users channel their own darkness and the enemy’s darkness against them. The article says Windu fully mastered it; Sora Bulq and Depa Billaba did not, and it instead mastered them, driving them insane and to the dark side. Quinlan Vos is described as a close second. [1][29]
+- On Haruun Kal, Windu adapted Vaapad to dual-blade Jar'Kai and used it to defeat three Sienar Turbostorm gunships: two destroyed and one crippled. [1]
+- In the Sidious duel, the article says Windu surrendered to Vaapad’s essentials—fighting on instinct and enjoying the fight—then forced Sidious’s dark energy back at him. It describes the returned lightning melting Palpatine’s features as the “superconducting loop” of Vaapad. [6]
+- The article says Windu had mastered all seven combat forms and every stance/technique, supplementing Vaapad with other forms. It specifically notes a Form V opening stance against Sidious and exceptional deflection during Geonosis. [6][7][10]
+  Source: Star Wars: Episode III Revenge of the Sith novelization ; Star Wars: Episode III Revenge of the Sith ; Star Wars: Episode II Attack of the Clones [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 29,6,10; per-sentence approximate match (2/2 sentences matched, min 0.67), verify; agrees with the entry's own ref marker]
+
+Darth Sidious duel / final battle
+- Section: “Final battle and death.” Windu entered Palpatine’s office with Kit Fisto, Saesee Tiin, and Agen Kolar to arrest him after Anakin Skywalker identified him as Darth Sidious. Sidious killed Kolar and Tiin immediately; Fisto was then overwhelmed and killed, leaving Windu alone. The article says Windu’s Vaapad countered Sidious’s dark-side mastery. [6]
+- Windu and Sidious fought through the private rooms into the main office. Windu drove Sidious toward the bay window; Sidious had to use the Force to grip the ledge rather than devote all of his Force-powered speed to the fight. Windu kicked Sidious, causing him to drop his lightsaber into the street. [6][29]
+- Windu cornered Sidious. Sidious used Force lightning; Windu redirected it with his lightsaber, melting away the Chancellor’s features. The article says Sidious then claimed he could no longer maintain the attack because he was too weak; this is Sidious’s statement, not independently established fact. [6]
+- Windu decided Sidious was too dangerous to keep alive and moved to strike. He failed to foresee Anakin’s intervention: Skywalker severed Windu’s lightsaber hand, after which Sidious’s lightning blasted him out the window. The article attributes Windu’s loss to betrayal and his failure to sense Skywalker’s shatterpoint, not to Sidious winning a clean one-on-one conclusion. [6][29]
+- The article’s “Powers and abilities” section says Windu’s shatterpoint ability was vital to the victory over Sidious, but he realized too late that the relevant shatterpoint was Anakin Skywalker rather than Sidious. [29]
+- The lead summarizes the encounter as Windu confronting and cornering Darth Sidious in a difficult duel, followed by Skywalker’s betrayal and Windu’s death. This is a summary statement, not a separate feat.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Concrete feats by section
+
+Early life / Knighthood
+- “Birth and training”: at fourteen on Hurikane, Windu used the Force to dodge attacks; after a native fell into a chasm and shattered its body, he drew deeply on the Force to telekinetically restore it. [8]
+  Source: "Stones" states that Mace Windu travelled to Hurikane when he was fourteen, and Jedi vs. Sith: The Essential Guide to the Force states that Windu was born in 72 BBY. … ; "Stones" — Star Wars Tales 13 ; Shatterpoint ; Star Wars: The Essential Atlas Online Companion on StarWars.com (article) (backup link) ; "Star Wars Q&A" — Star Wars Insider 70 [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 18,8,1,19,20; per-sentence approximate match (2/2 sentences matched, min 0.69), verify; agrees with the entry's own ref marker]
+- The article says he could see shatterpoints in the Force and how they affected future actions and opponent vulnerabilities. This is a power description, supported by [1].
+- “Duel with Uda-Khlid”: he used the Force to jump away from giant walk worms, mind-tricked two guards, and killed the murderer Uda-Khalid in a duel lasting only moments; the article says Khalid could not strike Windu or his saber. [25]
+
+Jedi Master / pre–Clone Wars
+- “Jedi Temple sabotage”: Windu and the Council used the Force to keep a falling turbolift from killing trapped younglings. [34]
+  Source: Jedi Apprentice: The Captive Temple [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 34; approximate match 0.61, verify; agrees with the entry's own ref marker]
+- “Invasion of Naboo”: Windu conducted a training duel with Obi-Wan Kenobi; Kenobi beat him. This is a loss, not a feat. [50]
+  Source: Star Wars: Episode I The Phantom Menace ; Star Wars: Obi-Wan [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 9,50; approximate match 0.60, verify; agrees with the entry's own ref marker]
+- “Malastare and Nar Shaddaa”: Windu and Depa Billaba made short work of a large number of thugs and fought deranged akk dogs while investigating an animal-smuggling ring. [53]
+  Source: Star Wars (1998) 17 [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 53; approximate match 0.83, verify; agrees with the entry's own ref marker]
+- “Puzzling the peace”: he easily deflected a blaster shot aimed at his head, then tore apart a statue to end a civil conflict when the factions could not agree on a division. The article narrates the latter as a peacekeeping action, not combat scaling. [59]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Clone Wars: battlefield feats
+- “Battle of Geonosis”: Windu led a Jedi strike force to Geonosis; with Luminara Unduli he destroyed gun emplacements in a TX-130S fighter tank. He decapitated Jango Fett after Fett’s flamethrower threw him into the arena. He later defeated three of Dooku’s Dark Acolytes in their vehicles. [10][60]
+  Source: Star Wars: Episode II Attack of the Clones ; Star Wars: The Clone Wars video game [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 10,60; per-sentence approximate match (4/4 sentences matched, min 0.68), verify; agrees with the entry's own ref marker]
+- “High Jedi General”: he single-handedly defeated an army of B2 super battle droids and a massive seismic tank. After losing his lightsaber in the tank’s initial blast, he used bare fists for much of the battle, regained the saber, cut into the tank, fought the droids inside, and destroyed the tank from within. [64]
+- “Haruun Kal”: he defeated three Sienar Turbostorm gunships (destroyed two, crippled one) using Vaapad. He fought the powerful lor pelek Kar Vastor and later dueled former Padawan Depa Billaba after her fall to pelekotan; the article says he won without actually defeating her. It also says Force-assisted dreams accurately predicted the Jedi’s fall, destruction of the Temple, and Yuuzhan Vong terraforming of Coruscant. [1]
+- “Battle of Simocadia”: he took out several Separatist ships during descent, quickly overwhelmed Separatist droids with his clone brigade, fought Prince Yojan briefly, and later leapt onto a rampaging colossus, wounded it, and helped cause its self-destruction. [65]
+- “Battle of Ryloth”: he negotiated an alliance between Cham Syndulla and Senator Orn Free Taa, retook Lessu with Syndulla, and captured Separatist leader Wat Tambor. The article’s cited Force section additionally says he pushed a huge AT-TE off a cliff, simultaneously levitated two clone troopers across a bridge, tore down a gigantic door, released Force energy that destroyed droids on impact, and threw a B2 battle droid almost three kilometers. [72][121]
+- “Juma 9 and Behpour”: at Behpour, Windu and Obi-Wan Kenobi confronted Count Dooku, eliminated his personal guards, and together defeated him; the article says Windu and Kenobi were not powerful enough to defeat him alone. [57]
+- “Zillo Beast Incident”: Windu led Republic forces at Malastare, survived the crater operation, discovered the Zillo Beast, and helped command Coruscant’s defense against it. The article says he opposed repeatedly killing the creature, but it was ultimately killed by toxin bombs. [82][83]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- “The Rig”: he led Kit Fisto, Saesee Tiin, and Agen Kolar in an infiltration of the Crimson Nova headquarters, remained visible to draw bounty hunters’ attention while the others executed the plan, and fought through to the command center; the guild leaders died and the bounties were rescinded. [98][99]
+  Source: Republic 66 [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 99; per-sentence approximate match (1/2 sentences matched, min 0.77), verify; agrees with the entry's own ref marker]
+- “Raid on the Republic Hypermatter Refinery”: with Obi-Wan and clone troopers, he destroyed all attacking battle droids. Volan Das escaped in a starship; his bombardment failed to destroy the refinery. [102]
+- “Mission to the Abandoned Planetoid”: he destroyed Separatist battle droids and defeated an Executioner droid in a prolonged fight, then took Kenna into custody. [103]
+- “Planet Killer”: he successfully deactivated a Separatist superweapon moments before its scheduled test. [107]
+- “Energy vampire”: Countess Rajine used zombies, including dead Alpha-2 soldiers, to capture him; with droid Z-18’s help, Windu subdued her using Jedi Samuro’s holocron. [108]
+
+Named opponents and encounters
+- Uda-Khalid — Windu killed him in a very short duel. [25]
+- Jango Fett — Windu decapitated him at Geonosis. [10]
+- Dooku / Darth Tyranus — prior friendly-duel loss; later article says Windu could contend with him on neutral ground, fought him evenly at Boz Pity until MagnaGuards intervened, and helped Kenobi defeat him at Behpour. [57][109][117]
+- Sora Bulq — former Vaapad co-creator; later fell to the dark side. Windu dueled him equally and ended the Ruul fight by bringing boulders down on him. [61]
+- Kar Vastor — Windu fought him on Haruun Kal; the article says Windu landed six Force-enhanced blows before Vastor could blink. [1]
+- Depa Billaba — former Padawan; Windu held her off after her fall to the dark side and won the duel without actually defeating her. [1]
+- Asajj Ventress — Windu quickly overpowered her in their first duel; a second encounter ended early due to circumstances, with Windu holding his own. [61][101][118]
+- General Grievous — article says Windu overwhelmed him in single combat; during the Battle of Coruscant he apparently defeated him atop a moving train, then used Force Crush to devastate Grievous’s armor and lungs. [111][112]
+- Darth Sidious — Windu cornered and disarmed him, redirected his lightning, and was about to strike before Anakin intervened; the article’s scaling says their duel would have been a draw without shatterpoint. [6][29]
+- Wat Tambor — captured by Windu during the liberation of Ryloth. [72]
+- Cad Bane — Windu helped interrogate him through a combined Force assault after Bane stole a Jedi holocron; Bane escaped the station, while the Jedi reclaimed the holocron and later rescued the children. [75]
+- Volan Das — refinery attacker; Windu and Kenobi destroyed his droid forces, but Das escaped. [102]
+- Kenna’s Executioner droid — defeated by Windu on the abandoned planetoid. [103]
+- Countess Rajine — energy vampire; subdued by Windu with help from Z-18 and Samuro’s holocron. [108]
+- Savage Opress and Darth Maul — the article describes their rampages and Jedi casualties, but does not narrate a Windu fight with either in the extracted sections. Do not count them as Windu victories.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Other power descriptions from “Force Mastery” (article statements with feats embedded)
+- The article describes Windu as one of the greatest Jedi Force users and says he could use dark powers such as Force Crush without succumbing to aggression. [1]
+- It says he could leap to great heights and across enormous distances; on Haruun Kal he landed six blows on Kar Vastor before Vastor could blink. [1]
+- On Dantooine, after losing his lightsaber, he tore super battle droids apart with his bare hands, crushing armor and tearing out circuitry; he also rode a landslide of rock and earth weighing hundreds of tons. [64]
+- It says machines were his to manipulate with the Force, and that he used Force Wave at Dantooine and Coruscant to blast away and instantly destroy dozens of droids with one kinetic blast. It also describes Force Grip/Force Crush, including the grievous injury to Grievous. [29][64][112][120]
+- Shatterpoint let him see weak points in opponents, events, and everyday life; the article says it could also let a Jedi shatter otherwise unbreakable objects by channeling the Force into their binding points. [1][115]
+- “Other abilities” describes diplomacy, courage, integrity, and piloting skill. It says he piloted during Coruscant but was shot down; these are not power-scaling feats. [122]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Character statements / hype separated from feats
+- Mace says: “For the Order and the Republic, I will give anything and everything, including my life.” [17]
+- Mace says of Vaapad that it is aggressive and powerful but risky, requiring a user to give himself to the thrill of battle. [29]
+- T’ra Saa says Windu sees things with hope and that hope is both his flaw and strength; Windu replies, “Hope must be tempered by reality.” These are character opinions, not feats. [99]
+  Source: Republic 66 [per Wookieepedia "Mace Windu/Legends" rev 15682404, ref 99; exact text match; agrees with the entry's own ref marker]
+- In “Legacy,” Sidious calls Windu a “mighty Jedi” and refers to a rumor about his purple lightsaber. This is Sidious’s statement used to persuade Mara Jade, not a demonstrated feat. [114]
+- Obi-Wan later says, “We don't have to win. All we have to do is fight,” quoting Windu. This is praise/characterization, not a measurable feat. [29]
+
+Selected source mapping from the page’s Notes and references
+- [1] Shatterpoint.
+- [6] Star Wars: Episode III Revenge of the Sith.
+- [10] Star Wars: Episode II Attack of the Clones.
+- [17] Yoda: Dark Rendezvous.
+- [25] “Survivors” — Star Wars Tales 13.
+- [29] Star Wars: Episode III Revenge of the Sith novelization.
+- [57] Star Wars: The Clone Wars: Republic Heroes.
+- [61] Jedi: Mace Windu.
+- [64] Star Wars: Clone Wars — “Chapter 13.”
+- [65] The Clone Wars: The Colossus of Destiny.
+- [72] Star Wars: The Clone Wars — “Liberty on Ryloth.”
+- [75] Star Wars: The Clone Wars — “Holocron Heist” / “Cargo of Doom” references as rendered by the page.
+- [82]–[83] Star Wars: The Clone Wars — “The Zillo Beast” / “The Zillo Beast Strikes Back.”
+  Source: UNSOURCED on Wookieepedia (sentence found in "Mace Windu/Legends" rev 15682404 but it has no inline citation in its paragraph; exact text match)
+- [98]–[99] Republic 65 / Republic 66.
+- [101] “Fashion” — Star Wars: The Clone Wars Comic 6.23.
+- [102] “Hypermatters” — Star Wars: The Clone Wars Comic 6.40.
+- [103] “The Collector” — Star Wars: The Clone Wars Comic 6.42.
+- [107] “Run Mace Run” — Star Wars: Clone Wars Adventures Volume 2.
+- [108] “No Way Out” — Star Wars: Clone Wars Adventures Volume 9.
+- [109] Star Wars: Obsession.
+- [111] Labyrinth of Evil.
+- [112] Star Wars: Clone Wars — “Chapter 25.”
+- [114] Allegiance.
+- [115] Legacy of the Force: Invincible.
+- [116] Star Wars: Episode III Revenge of the Sith.
+- [117] Power of the Jedi Sourcebook.
+- [118] Dark Empire 6.
+- [119] The Clone Wars Campaign Guide.
+- [120] “Heavy Metal Jedi” — Star Wars: Clone Wars Adventures Volume 1.
+- [121] Star Wars: Clone Wars.
+
+End of extraction.

@@ -1,0 +1,88 @@
+Kyle Katarn — Wookieepedia extraction
+URL opened: https://starwars.fandom.com/wiki/Kyle_Katarn
+Final URL: https://starwars.fandom.com/wiki/Kyle_Katarn (no redirect observed)
+Scope: article text, especially Biography and Powers and abilities; Notes and references was scrolled through. Bracket numbers below are the article’s own citations.
+
+ARTICLE STRUCTURE / SECTION NAMES
+- Biography
+  - Early life; Graduation; Change of heart; Defection; Escape; Mission to Danuta; Fighting the dark troopers
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+  - New Republic: Trap on Nar Shaddaa; Recovery; Homecoming; The way to Ruusan; Race to the Valley; Choosing sides; Bringing of justice; Fall to the dark side
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+  - Training under Luke Skywalker; Missions for the New Republic; The Empire Reborn (Kejim; Artus Prime; Returning to the Valley of the Jedi and reobtaining his lightsaber; Nar Shaddaa and Bespin; Infiltrating the Doomgiver); Other adventures
+  Source: The New Essential Guide to Characters ; Star Wars: Jedi Knight: Mysteries of the Sith ; Star Wars: Jedi Knight II: Jedi Outcast [per Wookieepedia "Kyle Katarn" rev 15676057, ref 4,8,6; per-sentence approximate match (1/1 sentences matched, min 0.60), verify]
+  - The New Jedi Order: Instructor; Yuuzhan Vong War; Jedi Council Member; Second Galactic Civil War; Confrontation with a Sith Lord; Crisis with the Galactic Alliance
+  Source: UNSOURCED on Wookieepedia (sentence found in "Kyle Katarn" rev 15676057 but it has no inline citation in its paragraph; approximate match 0.76, verify)
+- Personality and traits
+- Powers and abilities
+  - Force powers
+- Equipment
+- Behind the scenes (including Alternative endings)
+- Appearances; Sources; Notes and references; External links
+
+CONCRETE FEATS — JEREC AND HIS DARK JEDI (article narrative)
+- In “The way to Ruusan,” Katarn defeated Yun, but spared him after disarming him. He then defeated the symbiotic Dark Jedi “twins” Gorc and Pic. [14]
+- In “Choosing sides,” Katarn fought Maw, a Dark Jedi whose torso was kept alive by the Force. Katarn injured him, then killed him after Maw taunted him about Morgan’s death; the article explicitly says Kyle felt dark energy around him afterward. [12][16]
+- In the same section, Yun intervened to block Sariss’s death blow against Kyle and was mortally wounded. Katarn then dueled Sariss, used Tal’s Flowing Water Cut, and killed her. The article identifies Sariss as the best lightsaber duelist among Jerec’s Dark Jedi. [11][12]
+- In “Bringing of justice,” Boc attacked with two lightsabers. Katarn was initially immobilized, then used the dark-side technique Spear of Midnight Black to kill Boc. The article frames this as a moment when Kyle feared he had fallen to darkness, but he returned to the light. [12]
+- The article’s Powers and abilities section summarizes the above as Katarn defeating seven trained Dark Jedi: Yun, Gorc, Pic, Maw, Sariss, Boc, and finally Jerec. It calls this “an amazing accomplishment for the neophyte he was at the time.” This is an article statement; the narrative details above are the concrete events. [4][8][6]
+- In “Bringing of justice,” Jerec had begun drawing power from the Valley of the Jedi and used that power to heal himself. Katarn defeated him with a light-side technique that disrupted Jerec’s connection to the Force. Jerec rejected Kyle’s mercy and attacked again; Katarn’s counterstrike killed him. The article says this freed the souls trapped by Lord Skere Kaan for over a thousand years. [12][4]
+
+CONCRETE FEATS — DESANN / EMPIRE REBORN
+- In “Artus Prime,” Katarn infiltrated and shut down the Empire Reborn outpost experimenting with crystals, the Force, and infusing non-Force-sensitives with Force potential. Ors was then captured and apparently killed by the Dark Jedi Desann and his student Tavion Axmis. [6]
+- In “Returning to the Valley of the Jedi and reobtaining his lightsaber,” Katarn used the Valley’s power to regain his Force abilities; the Powers and abilities section says this also increased his raw Force potential as a side-effect. The article notes his motive began as revenge but changed toward justice. [6]
+- In “Nar Shaddaa and Bespin,” Katarn defeated Tavion Axmis in lightsaber combat, used Force grip to lift/hold her over a Cloud City platform, learned Ors was alive, and spared Tavion. [6][13]
+- In “Infiltrating the Doomgiver,” Katarn infiltrated the vessel, rescued Ors, shut down its shield generator with her help so Rogue Squadron could destroy it, and prevented Galak Fyyar from taking the title “Emperor Galak Fyyar the first.” [6]
+- On Yavin IV, he fought through jungles and the Academy against dozens of Reborn and Shadowtroopers, rescuing Jedi. He then faced Desann; after Desann attacked, Katarn defeated the Dark Jedi and ended his plan for domination. [6]
+- The Powers and abilities section specifically says Katarn resisted Desann’s taunts and mind tricks in the Yavin temple and repeatedly pulled himself back from the brink of the dark side. [6][12][8]
+- Later, on Alzoc III, Katarn killed two Reborn who survived Desann’s defeat. [32 in article text]
+  Source: Star Wars: Jedi Knight II: Jedi Outcast demo [per Wookieepedia "Kyle Katarn" rev 15676057, ref 32; approximate match 0.62, verify]
+
+OTHER CONCRETE FEATS / FORCE USE
+- During the Omega Exercise, precognitive visions momentarily saved members of Katarn’s team. [20]
+- After the Dark Trooper campaign, he used telekinesis to pull a weapon to himself (“gun trick”) and learned to slow time around himself while wounded and surrounded by thugs. [14]
+- The article states he was adept at deflecting and reflecting blaster bolts. [4][8][6]
+- It says he killed Kell Dragons with his bare hands aboard the Star Jewel. [5]
+- As a Jedi Battlemaster, he stopped and killed the rampaging former Emperor’s Hand Jeng Droga at the Third Battle of Yavin. [15]
+- As an instructor, he trained Jaden Korr and Rosh Penin; he also telepathically urged Jaden to spare the fallen Penin, leading to Penin’s rescue rather than execution. [13]
+
+CITED POWER STATEMENTS / ABILITIES (article’s “Powers and abilities” section)
+- The article says Katarn was strong in Force absorb and Force protection, and later used Force grip and Force lightning even as a Jedi Master. [13]
+- It says he mastered light- and dark-side powers again in a relatively short time after restoring his connection through the Valley, and describes his will as strong enough to resist Desann’s taunts and mind tricks. [6][12][8]
+- Listed Force abilities: Force Jump, Force Speed, Force Seeing, Force Pull, Force Push, Force Healing, Force Persuasion, Force Blinding, Force Absorb, Force Protection, Force Throw, Force Grip, Force Lightning, Force Destruction, Force Deadly Sight, Force Projection, Doppelgänger, Saber Throw, Far sight, Force Defense, Jedi Mind Trick, Force sense, Force Resistance, Telepathy, Force Drain, Force Rage, and Force Rebuke. The article also says he used the arcane dark-side Spear of Midnight Black once. [12][8][13][6][48]
+- Lightsaber training/style statements: Djem So, plus Shii-Cho and Ataru; ambidextrous; later mixed several forms into a personal style. The article says that, “Considering that he was Battlemaster,” he likely had mastery of all seven classical forms and the three Rings of Defense. The “likely” wording is an article inference, not a directly narrated feat. [6][13][48][49]
+
+ARTICLE-STATED SCALING / HYPE — NOT DIRECT FEATS
+- The article calls Katarn “one of the strongest swordsmen in the New Jedi Order,” the Order’s “foremost Battlemaster,” and says his general mastery of the Force “surpassed all but the strongest Jedi Masters.” [13]
+- It says even Darth Caedus acknowledged Katarn’s abilities. This is a cited character/opinion statement, not a demonstrated fight or feat. [39]
+- The article calls defeating the seven trained Dark Jedi an “amazing accomplishment” for a neophyte. This is editorial characterization of the feat, not an additional feat. [4][8][6]
+- The infobox/lead calls him a “famous” Force-sensitive and the lead says he became a Jedi Master and later a Jedi High Council member. These are status/description statements, not combat feats. [6][7]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Quotes such as Kyle’s “I’m no Jedi; I’m just a guy with a lightsaber and a few questions,” Rom Mohc’s Medal of Valor citation, and Luke’s statement that Kyle succumbed to the dark side are character statements/context, not feats. [6][3][25]
+  Source: Star Wars: Jedi Knight II: Jedi Outcast [per Wookieepedia "Kyle Katarn" rev 15676057, ref 6; exact text match; agrees with the entry's own ref marker]
+
+CANON / NON-CANON CAUTION
+- The article has a “Behind the scenes > Alternative endings” section. It explicitly identifies the dark-side game ending as non-canon; it has Katarn kill Jan, defeat Jerec, absorb the Valley’s power, and become Emperor. Those events are excluded from the feats above.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The page itself displays an editorial notice that the article has multiple issues and needs major additions/work.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+REFERENCES / SOURCE LABELS RELEVANT TO THIS EXTRACTION
+- [3] Dark Forces: Soldier for the Empire.
+- [4] The New Essential Guide to Characters.
+- [5] Star Wars: Dark Forces.
+- [6] Star Wars: Jedi Knight II: Jedi Outcast.
+- [8] Star Wars: Jedi Knight: Mysteries of the Sith.
+- [11] Dark Forces: Jedi Knight.
+- [12] Star Wars: Jedi Knight: Dark Forces II.
+- [13] Star Wars: Jedi Knight: Jedi Academy.
+- [14] Dark Forces: Rebel Agent.
+- [15] “The Dark Forces Saga: Part 1” (Wizards.com, original site noted as defunct).
+- [16] Dark Forces: Jedi Knight audio drama.
+- [20] Dark Forces: Soldier for the Empire audio drama.
+- [24] Dark Forces: Rebel Agent audio drama.
+- [39] Legacy of the Force: Fury / related Legacy of the Force entries listed by the article.
+- [48] Legacy of the Force Preview 5: “Darth Krayt and Kyle Katarn, Jedi Battlemaster.”
+- [49] Jedi Academy Training Manual.
+
+End of extraction.

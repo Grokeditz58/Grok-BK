@@ -1,0 +1,37 @@
+Darth Malak (Legends): respect-thread layer, read 2026-10-19
+STATUS OF THE CV THREAD: DarthAnt66's Comic Vine RT is listed in the CV "Star Wars Respect Thread Index - Updated" (TheVivas, forum 2022954) as "Darth Malak (DarthAnt66)", but both known URLs are now dead (404 via WebFetch 2026-10-19):
+  - https://comicvine.gamespot.com/profile/darthant66/blog/darth-malak-respect-thread-2017/97104/  (2017 update "in light of the new canonical quote")
+  - https://comicvine.gamespot.com/darth-malak/4005-47892/forums/darth-malak-respect-thread-1549693/  (original)
+  Wayback Machine lookup returned 429 (rate-limited) -> GAP, try again later.
+USED INSTEAD: DarthAnt66's own earlier copy on KillerMovies (KMC) "Darth Malak Respect Thread": https://www.killermovies.com/forums/592972-Darth-Malak-Respect-Thread  plus the KMC announcement thread 645677 and the quotes SI posters cite (forum-raw/sw1019/t1864, t1377, t1528, t4332, t540, t2590, t2908).
+Also found: r/StarWarsEU post (2023) saying no Malak RT exists on reddit ("he doesn't have many feats"). r/respectthreads: reddit returns 403 to curl; not read (GAP).
+Rules: only quoted source text counts. KMC RT items marked [SF] are Star Forge-amped; [AC] = "ambiguous canon" (RT author's tag). Items without a quoted source = UNVERIFIED (RT-author summary only).
+
+== STATEMENTS / HYPE (quoted, with source) ==
+S Hasbro.com (Star Wars Miniatures / toy bio, OOU marketing text; SI posters say Leland Chee endorsed it, NOT verified): "An imposing figure with ghostly pale features, prominent Sith tattoos, a gleaming red lightsaber, and devastating Dark Side power, Malak struck terror into the hearts of his former allies. He also wore a vocal mask that may have concealed a form of cybernetic life-support. Did it provide him with powers far greater than even Exar Kun or Freedon Nadd, or was cybernetic enhancement too simple an explanation?"
+   NOTE (SI t1864 dispute): pro-Malak reading = the question is WHY he has powers far greater than Kun, not WHETHER (KingofBlades, Guest). Anti reading = it's a rhetorical question, marketing copy, and "retconned" by the 2008 Tales of the Jedi Omnibus Vol. 2 blurb ("the galaxy faces its greatest threat since the founding of the Republic!" about Kun's era) (AncientPower). DarthAnt66 counters the Omnibus blurb refers to the whole Great Sith War and only to active threats. My weighting: real but weak/ambiguous OOU statement; does not override fights.
+S Hasbro.com: "Darth Malak possesses extraordinary dark side Force powers out of proportion" (quoted fragment as given; full sentence not checked)
+S (unnamed, RT gives no source): "The ruling Dark Lord of the Sith is a master of the Dark Side of the Force."
+S KOTOR Campaign Guide: "With legions of armored troopers spreading throughout the galaxy, all led by masters of the Force, the Sith Empire seems unstoppable."
+S Star Wars Databank: "The Sith Lord had grotesquely adapted the Rakatan device to draw energy directly from chained Jedi captives. He replenished his life force from the captives by draining theirs. Malak was nearly unstoppable, but the Republic emerged from that epic conflict victorious, as the Star Forge was eventually destroyed."
+S Star Wars Databank: "Malak gained a reputation as a headstrong warrior who would recklessly charge into danger. Malak's former Masters were well aware of this impetuousness during his days at the training academy on Dantooine."
+S Drew Karpyshyn (KOTOR lead writer, interview; AUTHOR INTENT): "He was renowned for his combat abilities...I also felt that he wasn't as strong at using the Force in other ways as Revan was."
+S The Complete Star Wars Encyclopedia: "While many credited the Revanchist's military strategies for the campaign success, others were quick to point to Alek's fierce courage and relentless fury on the forefront of every battle as the key part to Republic victory." (RT text reads "Alex's", a typo for Alek's)
+S Bandon framing (KOTOR Prima guide / Databank, quoted in SI t4272, see debates-sion.md): "In time, Bandon may even challenge Malak for the mantle of Dark Lord".
+COUNTER-STATEMENT (SI t4332, t4239): an in-universe SWTOR-era "Encyclopedia" passage that ranks the ancient Sith (Ajunta Pall, Ludo Kressh, Naga Sadow, Marka Ragnos, Tulak Hord, Freedon Nadd) as the most powerful Sith; posters read it as placing Pall et al. > Malak. Exact text and source title not quoted in what I read -> UNVERIFIED wording.
+S Star Forge (KOTOR 1, Rakatan computer / Bastila lines quoted on SI t2908): "the Star Forge is a tool of the dark side. It corrupts those who use it so that it can generate greater and greater amounts of negative energy to fuel itself... Only one who is immensely strong in mind can harness the power..." (quote cut in the SI post; full line in kotor-1-notes.md if present).
+
+== FEATS (KMC RT list; RT-author summaries, sourced to KOTOR 1 gameplay/cutscenes) ==
+F [SF] Force immunity: "make himself virtually invulnerable against any Force attacks" (gameplay; boss resistances) - UNVERIFIED as narrative
+F [SF] Force lightning kills Jedi instantly (KOTOR 1 Star Forge cutscene: lightning + saber throw kill two Jedi; CONFIRMED in kotor-1-notes.md DEEP PASS)
+F [SF] Force choke on two Jedi Masters at once, walking with them still held (cutscene; UNVERIFIED text)
+F Force stun: holds Revan and Bastila in stasis (KOTOR 1, Leviathan bridge; CONFIRMED by walkthrough K1/Leviathan)
+F [SF] Force drain on chained Jedi (CONFIRMED: drains up to 8 captives, K1/Viewing_Platform)
+F [AC] Force whirlwind, Force scream (gameplay powers)
+F Blocks "hordes of blaster fire" (gameplay)
+F Pain resistance under Demagol's torture as Alek ("The Secret Journal of Doctor Demagol", Hyperspace short story) - source named, text not quoted
+F Lore (Wookieepedia, not RT): near-killed Revan in a pre-KOTOR duel when he challenged him; Revan severed his jaw (SI t1528 MP; source = Wookieepedia/Visual Guide - text NOT verified)
+W Lore: Malak was beaten by Jarael? (SI t1377 CuckedCurry, JOKE - ignore; KotOR comic Malak is Alek in a Mandalorian-war arc)
+
+== MY READ ==
+Malak's case rests on (1) the Hasbro "far greater than Exar Kun" line (ambiguous question, OOU marketing), (2) Star Forge amp + Jedi-draining, (3) being Revan's #2. Against: Karpyshyn says he was weaker than Revan in the Force; he loses to Revan twice on screen (pre-war duel lost his jaw; Star Forge); Revan wins even after Malak drains captives. Feats are thin and mostly gameplay.

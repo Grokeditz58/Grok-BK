@@ -1,0 +1,104 @@
+FREEDON NADD — Wookieepedia extraction (Legends)
+
+Retrieval
+- Requested URL: https://starwars.fandom.com/wiki/Freedon_Nadd/Legends
+- Result: 404 / “The article you requested ... does not exist.”
+- Fallback URL opened: https://starwars.fandom.com/wiki/Freedon_Nadd
+- Final URL extracted: https://starwars.fandom.com/wiki/Freedon_Nadd
+- The fallback article is explicitly categorized as a “Legends article”; no separate canon/Legends split was present on the page. The material below is therefore labeled Legends.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- I scrolled to and read the article’s “Notes and references” section. Citations below use that article’s footnote numbers.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Scope and section map
+The article’s relevant sections are: Biography (Early career / Jedi prodigy / The test of Matta Tremayne / Quest for the Sith / King of Onderon / Dark legacy / Sith Master / The Freedon Nadd Uprising / Resurgent Sith / Corrupting Exar Kun / First encounter / The end of Freedon Nadd / First Jedi Purge / Order of the Sith Lords); Personality and traits; Collector; Powers and abilities. “First Jedi Purge” is explicitly presented as assuming 100% game completion and only light-side choices, and the article says those events may or may not be confirmed within Legends continuity.
+
+LEGENDS — concrete feats and directly described capabilities
+
+Early career — Jedi prodigy; The test of Matta Tremayne
+- On Ossus, Jedi Masters were “astounded by the level of knowledge and proficiency” Nadd demonstrated through the Force. His teachers agreed he would become a Jedi Master “far sooner than any other student who had come before him”—the article presents this as the Masters’ assessment, not a measured combat feat. [2][8]
+- In the named duel “The test of Matta Tremayne,” Nadd fought Jedi lightsaber-combat instructor Matta Tremayne. The narrative says he struggled to match her pace, then exploited an opening and swung a killing blow. Tremayne deactivated her weapon and accepted the strike; Nadd tried and failed to stop his falling blade, and she was killed. This is a described kill in a test/duel, but not a clean victory over a fully defending Tremayne. [2]
+
+Quest for the Sith — Naga Sadow
+- Nadd fought off the Massassi on Yavin 4 long enough for them to deem him worthy of Naga Sadow’s consideration. Sadow accepted him as apprentice. [3]
+- The article says Nadd learned all he could from Sadow and mastered Sadow’s teachings in Sith sorcery. When Nadd believed he had learned all Sadow could offer, he created his own holocron, killed Sadow, and declared himself Dark Lord of the Sith. The article’s “Behind the scenes” section notes older sources were unclear, but identifies the 2008 Complete Star Wars Encyclopedia as definitively stating that Nadd destroyed Sadow before leaving Yavin 4. [1][3][5][8]
+
+King of Onderon
+- After collecting Sith artifacts and studying King Adas’s holocron, Nadd used Sith knowledge/sorcery to depose Onderon’s existing monarchs and assume the throne. He transformed the culture toward Sith lore and sorcery and ruled from Iziz for more than a century. [1][2][3]
+- He helped the city develop technology to repel Onderon’s beasts and exiles, but the Beast Riders remained a threat; the article explicitly says “not even Freedon Nadd’s power was enough to stop them.” This is an article-stated limitation/scaling point. [3]
+
+Dark legacy — Sith Master; The Freedon Nadd Uprising; Nadd’s defeat
+- After physical death, Nadd’s tomb became a focal point of dark-side energy. His spirit instructed descendants in Sith sorcery and worked toward obtaining a body through Sith alchemy. [1][2][12]
+- When summoned from Chaos, his spirit assisted the Naddists during the conflict on Onderon and participated in capturing Arca Jeth. During the later assault, Nadd withdrew support from Ommin when Ommin proved no match for the Jedi, then personally terminated the dying king. Arca Jeth called on the light and drove Nadd’s spirit away, cleansing Onderon. [12][15][18]
+- The article quotes Nadd telling Jeth: “The Jedi have not won today. As you will one day learn, the Jedi have lost!” This is Nadd’s prophecy/boast, not a feat. [18]
+
+Resurgent Sith
+- After the Jedi relocated the remains to Dxun, Nadd appeared to Ulic Qel-Droma and foretold that Qel-Droma would be “one of the great ones” and one of the future Sith. The article treats this as foresight; the quoted prediction is a statement, not a combat feat. [10][11]
+- Nadd trained Aleema and Satal Keto in Sith sorcery. The article says they became powerful sorcerers and, as the Krath, used those abilities to overthrow their home system and launch a jihad against the Republic and Jedi. This is an influence/training result, not a direct solo feat. [10][11][19]
+
+Corrupting Exar Kun — First encounter; The end of Freedon Nadd
+- Nadd gave Exar Kun a Sith scroll hidden beneath Nadd’s corpse and directed him to Korriban. [10][11]
+- On Korriban, Nadd trapped Kun in a Sith temple and brought down the roof, “crushing every bone in the Jedi’s body.” He interrupted Vodo-Siosk Baas’s Force link while Baas tried to save Kun, using dark-side power to prevent the intervention. [10][20]
+- Nadd repeatedly pressured the injured Kun to submit to the dark side. After Kun surrendered, Nadd healed him through the dark side and took him as a Sith apprentice. The article explicitly identifies this as Force healing. [20]
+- Nadd tested Kun with Tuk’ata hounds. Kun used his newly accepted dark-side power to kill all the beasts; Nadd and the other Sith spirits judged that Kun had embraced the Sith way. This is evidence of Nadd’s test/training role, not a solo Nadd feat. [10]
+- On Yavin 4, Nadd watched Kun seize Naga Sadow’s Sith amulet with the Force. The article says the amulet increased Kun’s power “exponentially”; Kun then obliterated the Sith wyrm and several Massassi, with the remaining Massassi bowing to him. Nadd judged Kun powerful enough to perform the alchemy needed to create Nadd a body. These are article-stated scaling observations about Kun and the amulet, not an unassisted Nadd showing. [4][10]
+- When Kun refused to create a body for him, Kun tested the amulet on Nadd. A preliminary blast made Nadd recoil in pain; Kun’s full-strength Force blast mortally wounded Nadd’s spirit and ended it. This named confrontation is an explicit defeat for Nadd, with Kun’s amulet-enhanced power as the stated context. [4][10]
+- Nadd’s final warning to the Ketos calls Kun a threat who had acquired “great Sith powers” and says Kun was a “pretender” while claiming the real Sith power rested with Satal, Aleema, and Ulic. These are Nadd’s statements/opinions and should not be treated as objective power measurements. [10]
+
+Powers and abilities — explicit statements and feats
+- The article says Nadd’s early Force skill impressed the Ossus Masters; his lightsaber skill was “just barely on par” with Matta Tremayne’s before he killed her after her test. [2][28]
+- Nadd studied King Adas’s and Darth Andeddu’s holocrons and became a master of Sith sorcery under Naga Sadow. He recorded his knowledge in his own holocron. [5][8][13]
+- Orbalisks: the article states that Nadd’s holocron contained “extensive knowledge regarding the orbalisk parasites of Dxun,” described as crustaceans that fed on the power of the dark side of the Force. This is a knowledge/lore statement; the page does not describe Nadd wearing orbalisks, fighting with them, or gaining a quantified boost from them. [6]
+- Nadd’s sorcery was later learned by Darth Zannah from Nadd’s holocron. Zannah used Nadd’s sorcery in a duel to defeat Darth Bane. The article presents this as downstream influence/scaling, not a direct Nadd-vs-Bane comparison. [6][25]
+- His tomb and sarcophagus radiated dark-side energy strongly enough that nearby Force-sensitives were affected: darksiders were empowered, while lightsiders felt stifled as if smothered. Arca Jeth’s power drove that influence from Iziz, at least temporarily. [12]
+- Nadd’s spirit retained power after death, could move between celestial bodies, and could attack through the Force. The page specifically describes him attacking/interfering with Vodo-Siosk Baas’s Force connection to Kun, healing Kun, and using foresight in predictions about Kun and Qel-Droma. [10][11][20]
+- The personality section says that Nadd admitted he was powerless while in spirit form, while the powers section simultaneously describes retained influence and abilities. Treat this as the article’s stated limitation/context: spirit-form Nadd was not fully equivalent to his living body. [10][17]
+- The article says countless Jedi fell to Nadd’s short bronze-bladed lightsaber and many more were destroyed by his personal blaster. It also calls the blaster a “vile weapon” said to have killed more Jedi than any lightsaber. The “said to” wording marks the latter as a reputation/claim, not a quantified feat. [1]
+
+Scaling and downstream outcomes stated by the article
+- Nadd learned from Naga Sadow, killed/destroyed him according to the article’s definitive-source account, and became a Sith sorcery master. [3][5][8]
+- Nadd could not completely stop the Beast Riders on Onderon, and Arca Jeth drove his dark-side influence from Iziz. [3][12]
+- Nadd healed and trained Exar Kun, but Kun’s Sith amulet exponentially amplified Kun’s power and Kun’s full-strength blast mortally defeated Nadd’s spirit. [4][10][20]
+- Exar Kun and Ulic Qel-Droma later became Dark Lords of the Sith; the article says Kun, Qel-Droma, and Aleema’s Krath formed the Brotherhood of the Sith and initiated the Great Sith War. This is legacy/context, not proof of Nadd’s personal combat level. [7][22][23]
+- Nadd’s sorcery later enabled Zannah to defeat Bane, and the article says his influence contributed to the reformed Sith Order that eventually annihilated the Jedi and established a Sith-ruled Galactic Empire. This is long-range influence, not a direct feat. [6][25][26]
+
+Statements, hype, and opinions kept separate from feats
+- Arca Jeth’s quoted statement says Nadd’s power passed from generation to generation through his tomb. [12]
+- Nadd’s own declarations about “limitless” dark-side power, the Jedi losing, Kun being a pretender, and the Sith’s future are character statements/boasts/prophecy, not independently verified feats. [10][12][18]
+- The Ossus Masters’ predictions that Nadd would become a Jedi Master unusually early, and the article’s descriptions of him as a “powerful fallen Jedi,” are assessments rather than quantified scaling. [2][8][19]
+
+References shown in the article’s “Notes and references” section
+[1] The Dark Side Sourcebook
+[2] Tales of the Jedi Companion
+[3] The New Essential Chronology
+[4] Tales of the Jedi — Dark Lords of the Sith 4
+[5] The Complete Star Wars Encyclopedia, Vol. II, p. 355 (“Nadd, Freedon”)
+[6] Darth Bane: Rule of Two
+[7] Jedi vs. Sith: The Essential Guide to the Force
+[8] The Official Star Wars Fact File 90, “NAD 1-4: The Shadow of Freedon Nadd”
+[9] “Hammer” — Star Wars Insider 147
+[10] Tales of the Jedi: Dark Lords of the Sith audio drama
+[11] Tales of the Jedi — Dark Lords of the Sith 2
+[12] Tales of the Jedi audio drama
+[13] “Evil Never Dies: The Sith Dynasties” on Hyperspace (backup link; original site defunct)
+[14] Tales of the Jedi — The Golden Age of the Sith 4
+[15] Tales of the Jedi 2
+[16] Tales of the Jedi 1
+[17] Tales of the Jedi — The Freedon Nadd Uprising 1
+[18] Tales of the Jedi — The Freedon Nadd Uprising 2
+[19] Tales of the Jedi — Dark Lords of the Sith 1
+[20] Tales of the Jedi — Dark Lords of the Sith 3
+[21] Tales of the Jedi — Dark Lords of the Sith 5
+[22] Tales of the Jedi — Dark Lords of the Sith 6
+[23] Star Wars: Tales of the Jedi — The Sith War
+[24] Star Wars: Knights of the Old Republic II: The Sith Lords
+[25] Darth Bane: Dynasty of Evil
+[26] Star Wars: Episode III — Revenge of the Sith
+[27] Legacy of the Force: Invincible
+[28] The Tales of the Jedi Companion (the article’s note says Nadd knew every Force power included there, plus powers hidden in other lore)
+[29] “Making Star Wars Comics Come Alive” — Star Wars Adventure Journal 2
+[30] “Bane of the Sith” — Star Wars Gamer 3
+[31] Official Star Wars Fact File 90/113/115 entries (the article groups these as backstory sources)
+[32] The Old Republic: Revan
+
+Note: The page also includes source/continuity caveats in “Behind the scenes,” including that some details about Matta Tremayne and Naga Sadow varied among sources; the latest cited encyclopedia source is the basis for the definitive Sadow-destruction wording above.

@@ -1,0 +1,66 @@
+Galen Marek — Wookieepedia extraction
+
+Source
+- Requested URL: https://starwars.fandom.com/wiki/Galen_Marek
+- Final URL: https://starwars.fandom.com/wiki/Galen_Marek (no redirect observed)
+- Article scope: the Legends article for Galen Marek/Starkiller. The page was read through its Notes and references section.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Citation markers below are the article's own markers, not new claims. Key: [3] Star Wars: The Force Unleashed; [4] Star Wars: The Force Unleashed novelization; [5] Star Wars: The Force Unleashed graphic novel; [9] Prima Official Game Guide; [15] Star Wars Insider 100.
+
+Article framing and scaling statements (statements, not feats)
+- The lead calls Marek an “accomplished warrior” and “one of Vader's deadliest assassins.”
+  Source: UNSOURCED on Wookieepedia (sentence found in "Galen Marek" rev 15694066 but it has no inline citation in its paragraph; exact text match)
+- In “Force powers,” the article says that even as a child Marek was “exceptionally powerful in the Force,” with potential to become “one of the most powerful Force-users of all time.”
+  Source: Star Wars: The Force Unleashed novelization [per Wookieepedia "Galen Marek" rev 15694066, ref 4; exact text match]
+- The same section says Vader believed that, at the height of his abilities and alongside Vader, Marek could defeat Darth Sidious, whom the article calls the most powerful Dark Lord of the Sith in history. It also says Sidious acknowledged Marek's strength could rival his own. [4]
+- The article says Marek's power was acknowledged by the Jedi he faced and defeated, and that Vader believed Marek was ready to help execute Sidious. [4]
+- Shaak Ti tells him, “You are Vader's slave…but your power is wasted with him. You could be so much more.” This is Shaak Ti's opinion/assessment, not an independent feat. [3]
+- Before the Raxus Prime mission, Vader tells Marek, “Kazdan Paratus is far more powerful than you. I do not expect you to survive.” This is Vader's assessment; the later defeat is the feat. [3]
+
+Named Jedi and other duel feats
+- Rahm Kota: In the first real-Jedi duel, Marek opened with Force lightning (Kota deflected it with difficulty), used telekinetic attacks and lightsaber combat, held off Kota's aggressive Form III/Juyo-style offense, and countered when Kota tired. Kota tore the command center free of the shipyard; Marek then telekinetically battered him with debris, won the blade lock, and drove Kota's own lightsaber into his eyes, blinding him. Kota escaped only after Marek pulled back when a vision distracted him. [3][4]
+- Kazdan Paratus: Despite Paratus initially outpacing and blocking him, Marek exploited Paratus's vulnerability to Force lightning, destroyed the combat mannequins, caught and returned a massive piece of machinery, and crushed Paratus beneath it. Paratus died from the injuries. [3][4]
+- Shaak Ti: The article identifies her as a surviving Jedi High Council master/“true Jedi Master.” Marek fought her through the Sarlacc's rings, used lightning against the Sarlacc and Ti, broke free of tentacles with a Force repulse, and ended the fight by blasting the tentacle mass with Force lightning. Ti was already dying and then fell into the Sarlacc and died. [3][4]
+- Maris Brood: The article's lightsaber section lists Marek as defeating her. In the narrative, he caught her in a telekinetic grip and slammed her to the ground; after she was beaten and exhausted, she surrendered and he spared her. [4]
+- Darth Desolous and Darth Phobos: Marek defeated holographic training simulacra, not the historical Jedi/Sith themselves. The article separately says he defeated droid programs modeled on legendary duelists including Obi-Wan Kenobi and Darth Maul; these are simulations/modules, not victories over those people. [3][9]
+
+Darth Vader — direct comparison
+- During training, Vader fought Marek in brutal sparring and, according to the narrative, either Marek capitulated or Vader held back. The article therefore distinguishes the later Death Star fight from their training bouts. [4]
+- In the Death Star duel, Vader's opening strike nearly disarmed Marek and Vader also attacked telekinetically. Marek defended against the attack, wore Vader down with Soresu, and used Force lightning to break Vader's momentum and put him on the defensive. [3][4]
+- Marek ultimately bested Vader: he slashed Vader's throat, scored two more hits, and telekinetically pummeled him with objects, including an energy-field generator that badly damaged Vader's armor, respirator, mask, and helmet. [4]
+- The article's “Lightsaber training” summary explicitly qualifies this result: Marek overwhelmed Vader only by using the Force; without that advantage he would have been defeated and killed. Its Force-combat discussion also says Vader's armor and exhaustion contributed to the loss. [4]
+- During the earlier betrayal on Corellia, Vader lifted Marek in a Force grip and threw him from a cliff; this was not a Marek victory. [4]
+
+Darth Sidious / Palpatine — direct comparison
+- In the Death Star confrontation, the article says Marek and Palpatine initially appeared evenly matched in telekinesis, Force lightning, and lightsaber combat, with neither landing a hit. Palpatine periodically broke off to let Imperial guards attack; Marek dispatched those guards quickly. [3]
+- After Sidious revealed that he, not Vader, had been Marek's true master, Marek drew substantially greater ferocity and strength from rage. He dodged or channeled Sidious's lightning, then hit him with a telekinetic shockwave, Force-pushed him into the dome ceiling, and slammed him to the ground. [3][5]
+- The article's Force-powers section says Marek could briefly best Sidious in single combat when enraged and drawing on the dark side. It also says that while using the light side he seemingly could not defeat Sidious, only match him. [3]
+- In the final exchange, Sidious fired lightning into Rahm Kota's back. Marek stepped into the stream, absorbed and gathered the energy despite immense effort, redirected it into Sidious, and released a burst that killed nearby stormtroopers and destroyed much of the Death Star observation dome. The article's power summary calls this Marek overpowering the Emperor's increased strength, at the cost of Marek's life. [3][4]
+- The article says Marek managed to subdue Palpatine, but he did not kill him; Marek died after the Force-energy explosion while saving the Rebels. [3][4]
+- Holding-back caveat: the article does NOT state that Sidious was holding back. It does state that Palpatine sometimes broke off to let guards engage Marek, and it distinguishes Marek's light-side “match” from his rage/dark-side brief advantage. Those are the article's stated qualifications; no “Sidious was holding back” claim appears in the relevant text.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Other concrete Force and combat feats
+- The article says Marek often cleared rooms and hallways with Force pushes/repulses, caught TIE fighters in flight, redirected missiles and projectiles, and could telekinetically guide a lightsaber to impale targets. [3]
+- As a child, he disarmed Vader of Vader's lightsaber without Vader noticing, impressing Vader. [3]
+- With great effort, he redirected a falling Imperial I-class Star Destroyer into a controlled crash; he could not stop its momentum. In the narrative he also redirected an ore cannon to destroy an Imperial shipyard. [3][4]
+- The article says Marek's Force lightning skill rivaled Sidious's; it could kill with one blast, hit multiple targets, be channeled through his lightsaber, and generate Sith Seekers. [3]
+- He could deflect blaster fire with the Force and absorb Sidious's lightning, redirecting it as described above. The resulting explosion destroyed much of the Death Star dome. [3][4]
+- Against Imperial hardware, he disabled/destroyed AT-STs with Force deflection, telekinetic control, and lightning, and destroyed an AT-KT after beating its pilot and ripping off its rifle. [4]
+
+Hype, character opinions, and creator statements (not feats)
+- Haden Blackman is quoted in “Development” saying the Apprentice had “the potential to be the most powerful Force user ever,” was “up there with the top tier,” and was “extremely powerful.” The article cites Star Wars Insider 100 [15]. This is a creator/development statement, not an in-story feat.
+- Vader's claims about Paratus being stronger, Shaak Ti needing the “full power of the Dark Side,” and Marek being ready to help execute Sidious are character assessments. The actual victories and Force actions are recorded separately above.
+  Source: Star Wars: The Force Unleashed [per Wookieepedia "Galen Marek" rev 15694066, ref 3; exact text match]
+- Sidious's statement that it was Marek's destiny to destroy him by giving in to hatred, Shaak Ti's “you could be so much more,” and Kota's “Size means nothing” line are dialogue/opinions, not measurements of demonstrated power.
+  Source: Star Wars: The Force Unleashed [per Wookieepedia "Galen Marek" rev 15694066, ref 3; exact text match]
+
+Limits and source caveats stated by the article
+- The article repeatedly qualifies that Marek's wins over Shaak Ti and Vader involved Force use; it says he would otherwise have lost to Vader and been killed.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article distinguishes light-side Marek (able to match Sidious) from rage/dark-side Marek (briefly able to best Sidious), and says the final burst cost him his life.
+  Source: Star Wars: The Force Unleashed [per Wookieepedia "Galen Marek" rev 15694066, ref 3; approximate match 0.83, verify]
+- The Jedi Council figures destroyed on Raxus Prime were combat mannequins; Desolous and Phobos were holographic simulacra. The page does not present those as victories over the historical individuals.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The page mixes citations to the game, novelization, graphic novel, and guide; the bracket markers above preserve the article's own source attribution.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

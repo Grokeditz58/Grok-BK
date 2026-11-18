@@ -1,0 +1,56 @@
+Darth Andeddu — research extraction
+
+PAGE STATUS
+- Requested URL: https://starwars.fandom.com/wiki/Darth_Andeddu
+- Final URL: https://starwars.fandom.com/wiki/Darth_Andeddu
+- Page label: Legends (the article is categorized under “Legends articles”); not labeled canon.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Scope note: I reviewed the rendered article through “Sources” and “Notes and references.”
+
+CITED POWER STATEMENTS / QUOTABLE TEXT
+- “Knowledge is power and true Sith do not share power.” —Darth Andeddu [3]
+- “Essence transfer is the secret of eternal life. The physical body will always weaken and fail, yet it is nothing but a shell or vessel. When it is time, it is possible to transfer your consciousness—your spirit—into a new vessel…as I have done with this Holocron.” —Darth Andeddu [5]
+- “Through this holocron, I have access to the long dead wisdom of Darth Andeddu. The wisdom and power of the Sith.” —Darth Tyranus [4]
+- “I am destroying you. All trace of you. Your ‘holocron’ I will also destroy. There will be nothing left.” —Darth Wyyrlok [3]
+
+DEMONSTRATED FEATS / EVENTS (as narrated by the article)
+- Andeddu developed a method to preserve his mind after physical death and learned essence transfer into another vessel; the article says his holocron preserved the details. [5][8]
+- He lived far beyond natural years and ruled Prakith for many centuries through dark-side abilities. [2][5]
+- The holocron, placed on Andeddu’s corpse, caused the life-force of the person who placed it there to be drained; Gerlun’s life-force entered the remains and Andeddu was resurrected. [3]
+- After revival, Andeddu used Force lightning against Wyyrlok; Wyyrlok absorbed the attack. [3]
+- Andeddu created lava-and-flame illusions in the Force duel with Wyyrlok. Wyyrlok turned the illusions against him, and Andeddu was defeated and died a second time. [3]
+- Wyyrlok defeated and killed the Malevolence cultists at the Keep, except Gerlun, before reaching the tomb. [3]
+- Andeddu’s holocron manifested a lightsaber-wielding avatar of his likeness when activated by Tyranus. [4]
+- Set Harth is reported to have mastered Andeddu’s essence-transfer ability and used it to live for centuries. This is a character/event claim in the article, not a directly shown Andeddu feat. [10]
+
+HOLOCRON / KNOWLEDGE (artifact and source claims)
+- The holocron contained the sum of Andeddu’s wisdom, including the essence-transfer technique, and was kept in his sarcophagus with his remains. [5]
+- Bane found it in Andeddu’s tomb and learned its secrets; Harth later stole it. [5]
+- Tyranus retained it after using it to access Andeddu’s wisdom; it also contained a bloodshine lightsaber crystal that had powered Andeddu’s weapon. [4]
+- Krayt’s holocron encounters with Andeddu’s gatekeeper are described as rebukes and claimed demonstrations of power: Andeddu and Bane’s gatekeepers caused Krayt’s Vonduun crab armor to consume him, but Krayt resisted through the Force and reversed the transformation. [8]
+- Wyyrlok consulted the holocron, was guided to the Keep on Prakith, and used its gatekeeper to open the hidden tomb. [3]
+- The article describes the holocron’s gatekeeper as an armored, crowned figure; the gatekeeper spoke ancient Sith to unlock the sepulcher. [3][5]
+
+TOMB / CODEX / CHARACTER CLAIMS (kept separate from demonstrated feats)
+- Andeddu made a false tomb on Korriban to mislead pursuers, then hid in a stronghold on Prakith. [3]
+- He entombed himself alive with books and scrolls; the holocron was in the sarcophagus with his remains, hidden for thousands of years. [3][5]
+- The Malevolence cult was instructed to guard the tomb and fortress while awaiting his resurrection. [2]
+- The article says Andeddu’s wisdom and Sith doctrines were recorded in spellbooks, scrolls, and the holocron; Wyyrlok later took some texts, but found nothing useful for saving Krayt. [3][5]
+- The article reports that Jedi feared Andeddu enough to attempt to erase references to him, and that later Sith regarded him as possessing great dark-side enlightenment and a legendary ability to transcend death. These are reputational/character claims. [3][4][5]
+- The claim that Andeddu may have been the first Sith to use the “Darth” title is explicitly presented as a suggestion and is discussed as subject to retcon; do not treat it as established fact. [11]
+
+REFERENCE KEY (article’s Notes and references)
+[2] Legacy Era Campaign Guide.
+[3] Legacy (2006) 27.
+[4] Republic 63.
+[5] Darth Bane: Dynasty of Evil.
+[7] Legacy (2006) 30.
+[8] Legacy (2006) 5.
+[9] The Complete Star Wars Encyclopedia, Vol. II, p. 355 (“Nadd, Freedon”).
+[10] Ultimate Adversaries.
+[11] Jedi vs. Sith: The Essential Guide to the Force.
+
+CAUTIONS
+- This extraction reports what the Wookieepedia Legends article states and preserves its citations; it does not upgrade in-universe claims into canon facts.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article notes a date discrepancy in The Essential Guide to the Force concerning Vos’s recovery of the holocron (23 BBY versus 21 BBY in Republic 63). [11][4]

@@ -1,0 +1,10 @@
+_build/
+out/
+*.zip
+*.bak*
+*.pre-*
+*.tmp
+*.log
+__pycache__/
+.DS_Store
+raw/

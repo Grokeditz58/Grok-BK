@@ -1,0 +1,1743 @@
+CITED EXTRACTION: "Tenebrae/Vitiate/Valkorion - Character Overview and Respect Thread - PART 1"
+Blog author: S_W_LeGenD (ComicVine profile: s_w_legend)
+Post date: April 23, 2014
+URL: https://comicvine.gamespot.com/profile/s_w_legend/blog/tenebraevitiatevalkorion-character-overview-and-re/97466/
+PART 2 URL (linked from the post): https://comicvine.gamespot.com/profile/s_w_legend/blog/tenebraevitiatevalkorion-character-overview-and-re/154767/
+Extraction date: 2026-10-10
+Scope: Full text of the blog body was read top to bottom. Entries cover the quoted statements, feats, developer comments, codex text, and the poster's scaling claims. Reader comments (51 comments) were skipped. The post has about 60 images; most are unlabeled, so image-only entries are included only where the post gives a caption or source line.
+
+LABEL KEY
+- Legends / Canon / unclear: the post's CONTINUITY block is headed "LEGENDS", so the post treats its content as Legends. The label below is the source's own status as I understand it. Where the source status is not clear, the entry says unclear.
+- Type: feat = a described action or event by a character. statement = quoted in-universe text, codex, novel narration, dialogue, or developer comment. poster opinion = the blog author's own analysis or scaling claim.
+- Scaling: only what the quote itself states. Poster scaling chains are listed as poster opinion.
+
+=====================================================================
+SECTION: IN BRIEF (under CONTINUITY: LEGENDS)
+=====================================================================
+
+[1]
+Section heading: IN BRIEF
+Type: statement
+Verbatim quote: "My life spans millennia. Legions have risen to test me… My ascendance is inevitable. A day, a year, a millennium—it matters not. I hold the patience of stone and the will of stars. Your striving is insignificant. Let your death be the same."
+Source named in post: none. The post gives no attribution line for this quote.
+Source (identified later): Star Wars: The Old Republic — Jedi Knight class story, mission "Doomsday" on Dromund Kaas (the Sith Emperor to the Hero of Tython) — how identified: opening quote box on https://starwars.fandom.com/wiki/Tenebrae (rev 15726991), ref [13]
+Label: Legends (post CONTINUITY header)
+Scaling stated by quote: none
+
+[2]
+Section heading: IN BRIEF
+Type: statement
+Verbatim quote: "NO SITH has generated as much curiosity, frustration, and fear among the Jedi as the Empire's dread ruler. Little is known of this dark overlord's origins or motives, except that he is impossibly old and utterly determined to annihilate the Republic."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[3]
+Section heading: IN BRIEF
+Type: statement
+Verbatim quote: "Emperor has lived more than 1,300 years"
+Source named in post: Star Wars: The Old Republic: Holonet
+Label: Legends
+Scaling stated by quote: none (age claim only)
+
+[4]
+Section heading: IN BRIEF
+Type: poster opinion
+Verbatim quote (poster's text): "True TEST and MEASURE of a Force-user is not just with mere statements but in the face of conspiring forces (repeated attempts on one's LIFE) and established vulnerabilities. In spite of these pressures, Tenebrae managed to PROLONG his LIFE for more than 1300 years:" followed by "- a much longer span of LIFE than that of any Sith including the Dread Masters and Darth Krayt throughout history. This is tremendous achievement for a "natural born.""
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: lifespan greater than any Sith including the Dread Masters and Darth Krayt
+
+=====================================================================
+SECTION: KEY PARENT (Lord Dramath)
+=====================================================================
+
+[5]
+Section heading: KEY PARENT
+Type: statement (codex)
+Verbatim quote: "Valkorion. Vitiate. The former Emperor of both the Sith Empire and the Eternal Empire has assumed multiple forms over the centuries, but when he was born to a poor farmer's wife and a powerful Sith Lord on the agricultural world of Medriaas, he was "Tenebrae.""
+Source named in post: Star Wars: The Old Republic: Onslaught, codex entry titled "Tenebrae."
+Label: Legends
+Scaling stated by quote: none
+
+[6]
+Section heading: KEY PARENT
+Type: feat
+Verbatim quote: "By the age of ten, Tenebrae was feared across Mediraas as the entire northern continent fell under his sway. Sith Lord Dramath, planetary governor of Mediraas, set out to bring the boy in line."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[7]
+Section heading: KEY PARENT
+Type: statement (codex)
+Verbatim quote: "All holocrons are based on a complex yet elegant technology: a lattice of organic crystals woven together at a microscopic level. The crystal lattice can store vast amounts of information, as well as replicate the appearance and personality of the holocron's creator as a gatekeeper who will guide students in their training."
+Source named in post: Star Wars: The Old Republic: Knights of the Eternal Throne, codex entry titled "Dramath's Holocron."
+Label: Legends
+Scaling stated by quote: none
+
+[8]
+Section heading: KEY PARENT
+Type: statement
+Verbatim quote: "Scholars know that a holocron is a box of crystalline lattices, which are capable of housing near-infinite amounts of priceless data. These matrices can be aligned only through precise and exhausting application of the Force. A completed holocron can be accessed only by another Force-user. To navigate a holocron's secrets, one must speak to its gatekeeper - a holographic echo of the device's builder that retains a measure of the builder's spirit. Constructing a holocron can take months, and a single misstep can collapse the device into dust."
+Source named in post: Sorzus Syn, Book of Sith: Secrets from the Dark Side
+Label: Legends
+Scaling stated by quote: none
+
+[9]
+Section heading: KEY PARENT
+Type: poster opinion
+Verbatim quote (poster's text): "To paraphrase, Lord Dramath is not really the all hype and no substance kind; creating a Sith Holocron is one of the most difficult applications of the Force."
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+=====================================================================
+SECTION: KEY DUEL (Tenebrae [Original], age 10, vs Lord Dramath)
+=====================================================================
+
+[10]
+Section heading: KEY DUEL
+Type: statement (developer comment)
+Verbatim quote: "For this, we just have to look at the last person who ever stood up to Vitiate at anywhere near the level that the player's character did on Ziost: Revan. When Revan took a crack at him, Vitiate locked him up for centuries, picking and prodding at his mind the entire time. So we know that Tenebrae/Vitiate/Valkorion doesn't destroy people who are a legitimate threat to him; he's fascinated by them. He entraps them, studies them, manipulates them, and corrupts them. (He did it to Vaylin, too! And Dramath!)"
+Source named in post: Charles Boyd (developer). The post does not name the interview or post where this was said.
+Label: Legends (SWTOR)
+Scaling stated by quote: Revan is named as the last person to stand up to Vitiate "at anywhere near the level" of the player's character; no numerical scaling given.
+
+[11]
+Section heading: KEY DUEL
+Type: feat
+Verbatim quote: "Lord Dramath intended to judge the child’s power to determine if he was worthy of serving the Sith Lord, or if he should simply be executed. But Tenebrae had no intention of serving—or of dying. When they met face-to-face, Tenebrae proved the stronger. Only ten years old, he stripped his father of his power and his mind."
+Source named in post: Darth Nyriss, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Tenebrae (age 10) vs Lord Dramath, face-to-face: "Tenebrae proved the stronger."
+
+[12]
+Section heading: KEY DUEL
+Type: feat
+Verbatim quote: "Ten years later, the Sith Lord heard rumors of a child gathering power in the northern continent, but did not personally investigate until his envoys failed to return. After days of travel, Dramath reached the source of the rumors only to face his illegitimate son, Tenebrae, the future Sith Emperor and immortal ruler of Zakuul. That day, Tenebrae removed his father's connection to the Force and imprisoned him within a powerful holocron, leaving Dramath alone to wither slowly into madness over an eternity."
+Source named in post: Star Wars: The Old Republic: Knights of the Eternal Throne, codex entry titled "Lord Dramath."
+Label: Legends
+Scaling stated by quote: Tenebrae removed Dramath's connection to the Force (no numerical scaling)
+
+[13]
+Section heading: KEY DUEL
+Type: statement (image-only)
+Verbatim quote: image-only. The page text layer has no quote body for this item.
+Image caption / source line: "From (Darth Plagueis, Book of Sith: Secrets from the Dark Side)"
+Context from post's own text: "Thousands of year later, Darth Plagueis disclosed in his scientific journal The Science of Life that the sever Force application could trigger a mass die-off of a victim's Midi-chlorians - defanging a Force-user in the process:" [panel: panels/vitiate/vitiate-thousands-year-later-darth-plagueis-disclosed-scientific-1.png]
+Source named in post: Darth Plagueis, Book of Sith: Secrets from the Dark Side
+Label: Legends
+Scaling stated by quote: none stated in text layer
+
+[14]
+Section heading: KEY DUEL
+Type: statement (image-only)
+Verbatim quote: image-only. The page text layer has no quote body for this item.
+Image caption / source line: "From (Jedi vs Sith - The Essential Guide to the Force)"
+Context from post's own text: "This application is recognized as the most powerful application a Jedi could wield as a weapon:" [panel: panels/vitiate/vitiate-application-recognized-powerful-application-jedi-wield-weapon-1.png]
+Source named in post: Jedi vs Sith - The Essential Guide to the Force
+Label: Legends
+Scaling stated by quote: none stated in text layer
+
+[15]
+Section heading: KEY DUEL
+Type: statement (codex)
+Verbatim quote: "In his youth, Valkorion--then known as Tenebrae--discovered a way to twist and pervert the lattice so it could capture the spirit of powerful Force users, locking them in a metaphysical cage. He used the weapon on Dramath, his tyrannical father, and trapped him inside the holocron for centuries.
+
+But the same corrupted technology Valkorion used to vanquish his father could also be turned against him, permanently imprisoning his immortal spirit... or obliterating it from existence."
+Source named in post: Star Wars: The Old Republic: Knights of the Eternal Throne, codex entry titled "Dramath's Holocron."
+Label: Legends
+Scaling stated by quote: Valkorion (as Tenebrae) vanquished his father by corrupted holocron technology (no numerical scaling)
+
+[16]
+Section heading: KEY DUEL
+Type: poster opinion
+Verbatim quote (poster's text): "NOTE: This artifact was stored in the Emperor's Vault deep inside the Sanitarium on NATHEMA. This was the vault where Tenebrae [The Sith Emperor] stored artifacts which could threaten him in any capacity - the most dangerous artifacts as per him. Given the environment of NATHEMA, this vault remained inaccessible to the Jedi and Sith for over a thousand years. More on this in PART 2."
+Source named in post: none (poster note)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+=====================================================================
+SECTION: KEY DISCOVERY (Zildrog)
+=====================================================================
+
+[17]
+Section heading: KEY DISCOVERY
+Type: statement (novel dialogue)
+Verbatim quote: "I thought it was just a legend, but he dragon god of Zakuul is real... it's a superweapon. Capable of consuming entire civilizations."
+Source named in post: Vinn Atrius, Star Wars: The Old Republic: The Nathema Conspiracy
+Label: Legends
+Scaling stated by quote: none
+
+[18]
+Section heading: KEY DISCOVERY
+Type: statement (codex)
+Verbatim quote: "The ancient mechanical entity known as Zildrog has always operated from behind the scenes. Unlike the other "machine gods" of Iokath, Zildrog permanently functions in two forms.
+
+The first is a central computer that specializes in the transfer of life energies. Given this device's presence on Nathema, it is likely that Zildrog was a key element of the original ritual Tenebrae used to empower himself at the cost of all life on the planet. Beyond that first atrocity, however, Zildrog's central mind appears to have played no role in Tenebrae's dual life as Vitiate and Valkorion, and slumbered in stasis mode until Vinn Atrius discovered it many years later."
+Source named in post: Star Wars: The Old Republic: The Nathema Conspiracy, codex entry titled "Zildrog."
+Label: Legends
+Scaling stated by quote: Zildrog was a key element of the ritual "to empower himself at the cost of all life on the planet" (no numerical scaling)
+
+[19]
+Section heading: KEY DISCOVERY
+Type: poster opinion
+Verbatim quote (poster's text): "Tenebrae [Original] would take his chances with this ancient superweapon one day. His endgoal was (i.e. IMMORTALITY) - he would make this possible via Sith Sorcery while putting ZILDROG to good use in the process."
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+
+=====================================================================
+SECTION: SITH SORCERY (NATHEMA)
+=====================================================================
+
+[20]
+Section heading: SITH SORCERY / NATHEMA
+Type: statement
+Verbatim quote: "Once known as Medriaas, Nathema was an agriworld of the Sith Empire at a time when Sith also controlled the Chorlian sector. An ancient Dark Lord of the Sith named Darth Vitiate destroyed all life on Nathema with a ritual designed to grant him immortality. A transcription of this ritual was recorded by Darth Revan and served as the inspiration for Lord Kaan's thought bomb on Ruusan."
+Source named in post: Star Wars: Force and Destiny - Core Rulebook
+Label: unclear (RPG sourcebook; the post gives no separate status)
+Scaling stated by quote: none
+
+[21]
+Section heading: SITH SORCERY / NATHEMA
+Type: feat
+Verbatim quote: "The ritual lasted ten days. Lord Vitiate orchestrated the sorcery and the planet Mediraas was consumed by the largest dark side nexus the galaxy would ever see. When the ritual ended, Lord Vitiate emerged as the only survivor. The pain, energy, and suffering of every living entity on the planet fueled his power and would prolong his life for centuries. The lifeless planet of Mediraas became a void in the Force and was erased from history. From that moment forward, the world would forever be known as Nathema, birthplace of the one and only Sith Emperor."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "the largest dark side nexus the galaxy would ever see"; ritual would "prolong his life for centuries" (no numerical scaling)
+
+[22]
+Section heading: SITH SORCERY / NATHEMA (Telepathy)
+Type: statement
+Verbatim quote: "Once they arrived on Nathema, they quickly fell under Lord Vitiate’s control. He dominated their minds, crushed their resistance. He turned them into slaves to his will, forcing them to participate in the most complex ritual of Sith sorcery ever attempted. Calling on the dark side, Lord Vitiate devoured them. He fed on their power, absorbing it into himself, utterly obliterating all traces of his victims.
+
+But the ritual was not confined to the doomed Sith Lords. They were but the eye of the storm; the center of a vortex that spread across the entire planet. Every man, woman, and child on Nathema died that day. Every beast, bird, and fish; all the insects and plants; every living being touched by the Force was consumed. When the ritual ended, Nathema was no longer a world. It was a husk sucked dry.""
+Source named in post: Darth Nyriss, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Lord Vitiate dominated the attending Sith Lords' minds with his telepathic proficiency; no numerical scaling
+
+[23]
+Section heading: SITH SORCERY / NATHEMA (Telepathy, poster's preface)
+Type: poster opinion
+Verbatim quote (poster's text): "Although other Sith Lords agreed to partake in the ritual, Tenebrae [Original] made sure that no one could attempt to escape post-initiation with his frightening proficiency in Telepathic applications:"
+Source named in post: none (poster framing for the quote in [22])
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+[24]
+Section heading: SITH SORCERY / NATHEMA (Tenebrae [Original] ritual)
+Type: statement
+Verbatim quote: "Lord Vitiate takes command of the Sith Empire, now in shambles following the Great Hyperspace War. He executes the Sith Council and consumes the life force of thousands of Sith Lords in a terrifying ritual that extends his life and vastly increases his capacity as a practitioner of the Force." [panel: panels/vitiate/vitiate-tenebrae-original-ascended-coveted-position-sith-emperor-1.png]
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "vastly increases his capacity as a practitioner of the Force" (no numerical scaling) [panel: panels/vitiate/vitiate-tenebrae-original-ascended-coveted-position-sith-emperor-1.png]
+
+[25]
+Section heading: SITH SORCERY / NATHEMA (Tenebrae [Original] ritual)
+Type: poster opinion
+Verbatim quote (poster's text): "Tenebrae [Original]'s ritual had no peer in the sheer amount of participants involved, the sheer amount of energies it produced, and it LEFT a VOID in the Force by the end:" [panel: panels/vitiate/vitiate-tenebrae-original-ritual-no-peer-sheer-amount-1.png]
+Source named in post: Star Wars: The Old Republic: Encyclopedia is the source of the quote that follows the heading (text layer shows only the source line)
+Label: n/a (opinion heading)
+Scaling stated by poster: no peer in participants or energy produced
+
+=====================================================================
+SECTION 2: Tenebrae [The Sith Emperor]
+=====================================================================
+
+[26]
+Section heading: 2. Tenebrae [The Sith Emperor]
+Type: statement
+Verbatim quote: "Lord Vitiate sacrificed millions, stealing their life force to make himself immortal. Their deaths also made him stronger than any Sith who had come before, and he ceased to be known as Lord Vitiate. On that day, the Emperor was truly born.""
+Source named in post: Darth Nyriss, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "stronger than any Sith who had come before"
+
+[27]
+Section heading: 2.1. STRONGER than all SITH in history by now
+Type: statement (novel narration, Meetra Surik's thoughts)
+Verbatim quote: "The ritual had obviously destroyed Nathema, snuffing out all life on the world. Lord Vitiate had offered his people hope, and instead had brought them a fate worse than death—utter eradication of life, existence, and even the Force.
+
+Meetra was no expert on dark side sorcery, but it was safe to assume Vitiate not only survived the ritual, but emerged more powerful than ever. And with the destruction of everyone on Nathema—including his research team—he alone would have known the location of Dromund Kaas.
+
+The plan was both horrifying and brilliant. In addition to becoming more powerful than Meetra could imagine, Vitiate could blame the extinction of his homeworld on the Jedi, further panicking the remaining Sith worlds. Then he could have offered them a glimmer of hope, promising to lead all those who swore loyalty to him to a place where the Jedi would never find them.
+
+If Vitiate had been as cunning as Meetra imagined him to be, he wouldn’t have led his followers directly to Dromund Kaas. Instead, he would have taken them on a long and trying exodus—during which the Sith would have been forced to turn to him time and again for support and guidance, their dependence on him growing until he went from leader to hero to savior. By the time they finally reached Dromund Kaas, they would likely have worshiped Vitiate as a god—all-powerful and all-knowing."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Vitiate "emerged more powerful than ever"; "more powerful than Meetra could imagine" (Meetra Surik as comparator)
+
+[28]
+Section heading: 2.1. STRONGER than all SITH in history by now
+Type: statement (novel dialogue/narration)
+Verbatim quote: "Darth Traya" passage: "The blind seer, her master harnessed this technique and he is rapidly approaching the height of its power. I fear he may even rival some of the ancient Sith. He is already more of a force than a living thing, a hole in the Force that threatens to draw everything to it.”
+Source named in post: Darth Traya, Star Wars: The Old Republic II: The Sith Lords
+Label: Legends
+Scaling stated by quote: Darth Nihilus (the subject of the quote per the post's text) "may even rival some of the ancient Sith"
+
+[29]
+Section heading: 2.1. STRONGER than all SITH in history by now
+Type: poster opinion
+Verbatim quote (poster's text): "Therefore:
+
+Tenebrae [The Sith Emperor] circa 4999 BBY >>>>> all of the ancient Sith in history including the Exiles circa 6900 BBY which include Karness Muur (who - even in death - intimidated Darth Vader and was a threat to Palpatine by extension [Dark Times 12: Vector: Part 6], and overwhelmed multiple opponents including Darth Krayt in a battle respectively [Star Wars: Legacy: Vector])."
+Source named in post: cites Dark Times 12: Vector: Part 6 and Star Wars: Legacy: Vector for the Karness Muur claims
+Label: Dark Times = Canon; Legacy: Vector = Legends (cited by poster, not verified here)
+Scaling stated by poster: Tenebrae [The Sith Emperor] ranked above all ancient Sith including the Exiles
+
+[30]
+Section heading: 2.1. STRONGER than all SITH in history by now
+Type: poster opinion
+Verbatim quote (poster's text): "Tenebrae [The Sith Emperor] circa 4999 BBY >>>>> Marka Ragnos (prime years)* = Tenebrae [Original] circa 5000 BBY** >>>> Naga Sadow (prime years)*** >> Darth Plagueis circa 67 BBY**** > Darth Bane (implied peak) >>>> The Brotherhood of Darkness Sith Master(s)" [panel: panels/vitiate/vitiate-tenebrae-sith-emperor-circa-4999-bby-marka-1.png]
+Source named in post: none (poster's scaling chain; footnotes * and ** and *** cite sources below)
+Label: n/a (opinion)
+Scaling stated by poster: chain as written above
+
+[31]
+Section heading: 2.1. STRONGER than all SITH in history by now (footnote *)
+Type: statement
+Verbatim quote: "Sith acolytes spill blood and prove their strength in the mausoleums of history's most powerful and legendary Sith Lords."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "history's most powerful and legendary Sith Lords" (no named individuals in the quote)
+
+[32]
+Section heading: 2.1. STRONGER than all SITH in history by now (footnote *)
+Type: statement
+Verbatim quote: ""A half-breed Sith and warlord descended from the original Jedi Exiles, Ragnos had tremendous power and a frightening grasp of the dark side of the Force.""
+Source named in post: Kla (a Jedi Consular turned Sith), Star Wars: Jedi vs. Sith: The Essential Guide to the Force
+Label: Legends
+Scaling stated by quote: none
+
+[33]
+Section heading: 2.1. STRONGER than all SITH in history by now (footnote *)
+Type: statement
+Verbatim quote: "“Before you is the tomb of the great Sith Lord Marka Ragnos, a half-breed who possessed tremendous strength, both physically and in the Force.""
+Source named in post: Darth Traya (source work not named in post)
+Label: unclear
+Scaling stated by quote: none
+
+[34]
+Section heading: 2.1. STRONGER than all SITH in history by now (footnote **)
+Type: poster opinion
+Verbatim quote (poster's text): "**Tenebrae [Original] was second-to-none in strength and abilities in times of the Golden Age of the Sith because he prioritized advancing his command of the Force over Imperial politics - this in addition to the fact that he could do things in his childhood that can be realistically expected from only the most powerful Sith Lords and his total life span of existence was 114 years circa 4999 BBY - this is substantial time to grow and learn for any individual." [panel: panels/vitiate/vitiate-golden-age-sith-1.png]
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: "second-to-none" in the Golden Age of the Sith
+
+[35]
+Section heading: 2.1. STRONGER than all SITH in history by now (Tenebrae [Original], childhood)
+Type: feat
+Verbatim quote: "The child who will come to be known as the Sith Emperor is born. Black-eyed, heartless, and supremely strong in the dark side of the Force, the boy seizes control of his homeworld by the age of 13 and earns the title Lord Vitiate. He amasses an army of Sith followers and turns his back on Imperial politics to hone his skills in the dark side."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[36]
+Section heading: 2.1. STRONGER than all SITH in history by now (Tenebrae [Original], childhood)
+Type: feat
+Verbatim quote: "“At thirteen he presented himself to Marka Ragnos, the Lord of all Sith and the ruler of the Sith Council. Impressed by the teenager’s ambition and power, Marka Ragnos granted him the title of Lord Vitiate. His position as ruler of Nathema officially recognized, Lord Vitiate returned to his home to conduct his research into the depths of the dark side’s power. He stayed there for a hundred years. When Marka Ragnos fell, Lord Vitiate did not join in the mad rush to claim his position. He was not part of the Great Hyperspace War against the Republic. When Naga Sadow and Ludo Kressh fought for leadership of the Sith, he took no side.""
+Source named in post: Darth Nyriss, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Impressed by Vitiate's "ambition and power" (no numerical scaling)
+
+[37]
+Section heading: 2.1. STRONGER than all SITH in history by now (Great Hyperspace War)
+Type: statement
+Verbatim quote: "Lord Vitiate returned to his homeworld while rest of the Sith Empire waged the Great Hyperspace War against the Republic. When the hasty Sith offensive ended in failure, the Empire collapsed - but Lord Vitiate was stronger than ever."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "stronger than ever" (no comparator named)
+
+[38]
+Section heading: 2.1. STRONGER than all SITH in history by now (Naga Sadow, Ludo Kressh)
+Type: statement
+Verbatim quote: "Ragnos's body had only been interred on the tomb-world of Korriban for a few minutes when the two began to fight over leadership" -- and the following passage: "Their combat was fierce but short for the spirit of Marka Ragnos appeared to them, telling them of their ancient ties to the Republic and the Jedi Knights and warning them to make their decisions for the future wisely."
+Source named in post: Star Wars - D20 - The Dark Side Sourcebook
+Label: Legends
+Scaling stated by quote: none
+
+[39]
+Section heading: 2.1. STRONGER than all SITH in history by now (Naga Sadow, Great Hyperspace War)
+Type: statement
+Verbatim quote: "Following Starbreaker 12 back to Republic space, Naga Sadow and his Sith forces ignited the Great Hyperspace War. The surprise attack turned into a storm of conflict that spread across the Republic. The Sith were relentless and unpredictable. The early tide of the war was definitely in their favor, but victories at Primus Goluud, Kirrek, arid COTUscant eventually gave the Republic the upper hand.
+
+After a long and bloody conflict, the Republic rallied its forces and repelled the invaders. Sadow and his battered ships retreated back to Sith space-and fled right into an ambush. Ludo Kressh and his loyalists had survived the earlier struggles, and they had waited to crush Sadow's returning fleet. Both sides were devastated in a wild, no-quarter-given battle. Then the pursuing Republic forces arrived, vanquishing the Sith threat in a decimating hail of blaster fire.
+
+Naga Sadow escaped destruction, however. He went into hiding on the jungle moon of Yavin, where his loyal Massassi built great temples in his honor. Sadow used Sith technology and sorcery to place himself in suspended animation. Someday he would usher in a new Sith golden age, just as Dark Lord Marka Ragnos had foretold."
+Source named in post: Star Wars - D20 - The Dark Side Sourcebook
+Label: Legends
+Scaling stated by quote: none
+
+[40]
+Section heading: 2.1. STRONGER than all SITH in history by now (Naga Sadow)
+Type: statement (journal, Arlo Grennen)
+Verbatim quote: ""Information on Yavin 4 has not been easy to come by, but I have scoured the libraries of Tython and what I have discovered is fascinating.
+
+"The first corruption of Yavin's fourth moon by the dark side that we know of corresponds with the arrival of Dark Lord Naga Sadow some fourteen hundred years ago. I'm not entirely sure whether Sadow was drawn here by the dark side or if he himself planted the first seed of its presence. That's one of the many things I hope to learn while I'm here.
+
+"Sadow was a gifted alchemist who turned his Massassi followers into powerful, violent animals who worshipped and served Sadow. The Massassi built massive temples for Sadow where they sacrificed their own in his honor. Sadow was even powerful enough to stave off the inevitable. He placed himself in a near-death slumber, which he remained in for hundreds of years, waiting until someone would come to take his place....""
+Source named in post: From the journal of Jedi Master Arlo Grennen; Star Wars: The Old Republic: Shadow of Revan, codex entry titled "The Dark Legacy of Yavin 4: Part I."
+Label: Legends
+Scaling stated by quote: "Sadow was even powerful enough to stave off the inevitable" (no comparator)
+
+[41]
+Section heading: 2.1. STRONGER than all SITH in history by now (Naga Sadow)
+Type: statement (codex)
+Verbatim quote: "Naga Sadow was ruled by ambition: ambition for power, for dominance and for the expansion of the Sith Empire. Marka Ragnos’s body was still warm when Naga Sadow clashed with Sith Lord Ludo Kressh over their late ruler’s title. The spirit of Marka Ragnos interrupted their duel and told the two Sith Lords of a greater enemy: the Republic and its Jedi defenders. Naga Sadow saw opportunity in this revelation and launched an attack on Republic space, a move that would see Sadow named the Empire’s ruler and spark the Great Hyperspace War. Naga Sadow’s ambition and overconfidence soon became his greatest weaknesses. Even with his mastery of Force illusions, the Republic outmatched the Sith. Sadow’s invasion failed, and the Republic fleet pursued him back to Sith space. He fled Korriban with his warriors as the Sith Empire crumbled around him. Sadow sought refuge on the remote moon Yavin Four, where he died after spending years trying to rebuild the Empire he had inadvertently helped to destroy. Naga Sadow’s spirit, however, survived to pass on Sith teachings, planting the seed of corruption among his Jedi enemies."
+Source named in post: Star Wars: The Old Republic: Codex entry "Tomb of Naga Sadow."
+Label: Legends
+Scaling stated by quote: none
+
+[42]
+Section heading: 2.1. STRONGER than all SITH in history by now (Naga Sadow, Gnost-Dural)
+Type: statement (journal)
+Verbatim quote: "As impossible as it may sound, we also have evidence to suggest that the leader of the Sith, the mysterious Emperor, was alive at the time of the Hyperspace War. Thus, even though it may contradict the findings of our predecessors, we must at least consider the possibility that the Emperor is none other than Naga Sadow himself. This is the recommendation I will be making to the Council when I present this report."
+Source named in post: Star Wars: The Old Republic: The Journal of Master Gnost-Dural [panel: panels/vitiate/vitiate-relevant-pages-star-wars-old-republic-journal-1.png; panels/vitiate/vitiate-relevant-pages-star-wars-old-republic-journal-2.png]
+Label: Legends
+Scaling stated by quote: none
+
+[43]
+Section heading: 2.1. STRONGER than all SITH in history by now (Dread Masters)
+Type: statement (codex)
+Verbatim quote: "One of the Sith Emperor’s mightiest weapons in the Great War was also one of his oldest: six ancient Sith Lords known as the Dread Masters who had served the Emperor for centuries. Meditating in unison, they could inflict crippling fear to shatter enemy armies’ morale, causing Republic troop formations to abandoned their allies mid-battle, and sending entire battle fleets running blindly into hyperspace. Slowly, the Jedi pieced together the truth of these events. They joined forces with an elite Republic Special Forces unit, who stole the security codes for the Dread Masters’ heavily-guarded dreadnaught. Hijacking an Imperial Moff’s personal yacht, a Republic strike team boarded the dreadnaught and, aided by Jedi Master Jaric Kaedan, captured the Dread Masters. The dreadnaught was rigged for self-destruct to cover the strike team’s escape. The Republic officially announced that the Dread Masters had been killed, even as the Jedi secretly arranged their imprisonment on Belsavis. However, the loss of the Dread Masters antagonized the Dark Council, and may have contributed to the Empire’s decision to attack Alderaan."
+Source named in post: Star Wars: The Old Republic: Codex Entry titled "Galactic History 89: Capturing the Dread Masters."
+Label: Legends
+Scaling stated by quote: none
+
+[44]
+Section heading: 2.1. STRONGER than all SITH in history by now (Dread Masters)
+Type: statement (journal)
+Verbatim quote: "As thrilling as the success of the mission may be, Jaric found something else on the dreadnaught that may prove to be just as valuable. The ship contained a vast database of Imperial Knowledge which Jaric wisely downloaded before scuttling the vessel to cover his tracks. Decrypting the data will undoubtedly be difficult, but I have volunteered to work with SIS to help speed the process, and I anticipate that we will learn a great deal more about the Sith Empire should our efforts prove successful."
+Source named in post: Star Wars: The Old Republic: The Journal of Master Gnost-Dural
+Label: Legends
+Scaling stated by quote: none
+
+[45]
+Section heading: 2.1. STRONGER than all SITH in history by now (Darth Plagueis confession #1)
+Type: statement (novel)
+Verbatim quote: "While midi-chlorians appeared to resist manipulation of a sort that might imperil the balance of the Force, they remained passive, even compliant, in the case of a weak-willed being manipulated by one who was strong in the Force. Perhaps that explained why it was often easier to call on the Force to heal someone other than oneself.
+
+Extending life, then, could hinge on something as simple as being able to induce midi-chlorians to create new cells; to subdivide at will, increasing their numbers into the tens of thousands to heal or replace damaged, aging, or metastatic cells. Midi-chlorians had to be compelled to serve the needs of the body; to bestow strength when needed; to overcome physical insult, or prevent cells from reaching senescence.
+
+If one accepted the tales handed down in accounts and holocrons, the ancient Sith had known how to accomplish this. But had Sith like Naga Sadow and Exar Kun genuinely been more powerful, or had they benefited from the fact that the dark side had been more prominent in those bygone eras? Some commentators claimed that the ability to survive death had been limited to those with a talent for sorcery and alchemy, and that the use of such practices actually predated the arrival of the Dark Jedi exiles on Korriban. But sorcery had been employed less to extend life than to create illusions, fashion beasts, and resurrect the dead. Powerful adepts were said to have been able to saturate the atmosphere of planets with dark side energy, compel stars to explode, or induce paralysis in crowds, as Exar Kun apparently did to select members of the Republic Senate. Other adepts used sorcery merely as a means to better understand ancient Sith spells and sigils."
+Source named in post: Star Wars: Darth Plagueis
+Label: Legends
+Scaling stated by quote: none direct. The passage asks whether Naga Sadow and Exar Kun "genuinely been more powerful"; it does not answer.
+
+[46]
+Section heading: 2.1. STRONGER than all SITH in history by now (Darth Plagueis confession #1, poster's gloss)
+Type: poster opinion
+Verbatim quote (poster's text): "Emphasis mine. Darth Plagueis conceded inferiority to Naga Sadow and Exar Kun circa 67 BBY. He was also of the view that Sith Sorcery was uncommon application to extend LIFE."
+Source named in post: none (poster gloss on [45])
+Label: n/a (opinion). Note: the quoted passage in [45] asks a question and does not itself state "inferiority"; the gloss is the poster's reading.
+Scaling stated by poster: Plagueis "conceded inferiority" to Naga Sadow and Exar Kun
+
+=====================================================================
+SECTION 2.2: PROLONGING LIFE (or Corporeal Survival) via SITH SORCERY
+=====================================================================
+
+[47]
+Section heading: 2.2. PROLONGING LIFE (or Corporeal Survival) via SITH SORCERY
+Type: statement (novel)
+Verbatim quote: "The Emperor was no longer a member of the Sith species; his power and immortality had transformed him into a being unique in the galaxy. When he spoke of life and death, it had far deeper meaning than the mere physical existence of the lesser beings that served him."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[48]
+Section heading: 2.2. PROLONGING LIFE (or Corporeal Survival) via SITH SORCERY
+Type: statement (novel)
+Verbatim quote: "Darth Bane had referred to sorcery as one of the purest expressions of the dark side of the Force, and yet he hadn’t been able to harness those energies with near the skill as had his onetime apprentice Zannah. Bane’s disciples, however, believed that he had experimented with a technique of even greater significance: that of essence transfer, which he had learned after acquiring and plundering the holocron of Darth Andeddu, and which involved the relocation of an individual’s consciousness into another body or, in some cases, a talisman, temple, or sarcophagus. Thus had the most powerful of the ancient Sith Lords survived death to haunt and harass those who would infiltrate their tombs.
+
+But none of this amounted to corporeal survival."
+Source named in post: Star Wars: Darth Plagueis
+Label: Legends
+Scaling stated by quote: "the most powerful of the ancient Sith Lords" (general, not named) [panel: panels/vitiate/vitiate-mr-leland-chee-stated-no-absolutes-comes-1.jpg]
+
+[49]
+Section heading: 2.2. PROLONGING LIFE (or Corporeal Survival) via SITH SORCERY
+Type: statement (encyclopedia)
+Verbatim quote: "Numerous Sith Lords had been in pursuit of eternal LIFE in fact but nobody could prevent the inevitable:" (post lead-in; the quoted body is an image with the source line below)
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+Note: image-only body; the caption line is the source line.
+
+[50]
+Section heading: 2.2. PROLONGING LIFE (or Corporeal Survival) via SITH SORCERY
+Type: poster opinion
+Verbatim quote (poster's text): "Tenebrae [Original] transcended aging and decease courtesy of his unparalleled application of Sith Sorcery towards this end circa 4999 BBY (see SECTION 1 above), and is a standout among all Sith in pursuit of corporeal survival (or eternal LIFE):"
+Source named in post: none
+Label: n/a (opinion)
+Scaling stated by poster: "a standout among all Sith" in pursuit of corporeal survival
+
+[51]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY)
+Type: statement
+Verbatim quote: "THE SECRETIVE and supremely powerful Sith Emperor rose from inauspicious beginnings over a thousand years ago. Born to farmers on the planet Medriaas, Tenebrae entered the galaxy without shedding a tear. He regarded his parents with cold pitiless eyes. As years passed Tenebrae manifested Force powers and honed his mastery of the dark side. He soon dominated his homeworld, consumed the lives of thousands of Sith Lords, and took the title of the one true Sith Emperor. Driven by his quest for immortality and fueled by the energy sapped from his victims, the Emperor lived for centuries, amassing insurmountable power, rebuilding his exiled Empire, and plotting his ascension to ultimate rule."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "over a thousand years ago" (age only)
+
+[52]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY, after NATHEMA)
+Type: statement
+Verbatim quote: "The Sith Empire's exile dragged on for centuries. While the military, navy, and Sith grew strong, the Emperor amassed unfathomable power and plotted a vengeful war against the Republic. He ruled from the privacy of his chambers in the Citadel, his life extended to virtual immortality by Sith sorcery."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "virtual immortality by Sith sorcery"
+
+[53]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY)
+Type: statement
+Verbatim quote: "The Emperor is one thousand years old. In a dark side ritual, he drained the life of his home planet, to achieve immortality."
+Source named in post: Star Wars: The Essential Reader's Companion
+Label: Legends
+Scaling stated by quote: age "one thousand years old"
+
+[54]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY)
+Type: statement
+Verbatim quote: "Servants of the Hand share their Master's longevity, living untouched by age for centuries under his command."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[55]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY, Scourge's perception of the Emperor's voice)
+Type: statement (novel)
+Verbatim quote: "There was something strange about the Emperor’s voice. It didn’t sound like the voice of a single being. It had an unusual echo and resonance, almost as if a great multitude were speaking his words in perfect symphony.
+
+A grim theory passed unbidden through Scourge’s mind: was it possible all those that had been consumed by the ritual on Nathema still existed in some form within the Emperor himself? Nyriss said he’d devoured them, but what if she was only partially correct? What if he had imprisoned their spirits inside his own corporeal form, slowly feeding on their life energy over a thousand years to keep himself young and strong?"
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[56]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY)
+Type: statement (novel)
+Verbatim quote: "Under the guidance of the Emperor—the immortal and all-powerful savior who still reigned over them even after a thousand years—they abandoned the hedonistic lifestyles of their barbaric ancestors."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "immortal and all-powerful"; "even after a thousand years"
+
+[57]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY)
+Type: statement
+Verbatim quote: "Using the power of the dark side to extend his life for over a thousand years, the Emperor built his armies and warships in secret."
+Source named in post: Star Wars: The Ultimate Visual Guide: Updated and Expanded
+Label: Legends
+Scaling stated by quote: "over a thousand years"
+
+[57a]
+Section heading: 2.2. PROLONGING LIFE (ORIGINAL BODY, age stated in the post)
+Type: poster opinion
+Verbatim quote (poster's text): "NOTE: If the first 113 years of LIFE are overlooked - a time when Tenebrae wasn't The Sith Emperor - he was 1050 years old as The Sith Emperor by the time Revan [Reborn] attempted to assassinate him." [panel: panels/vitiate/vitiate-if-first-113-years-life-overlooked-time-1.png]
+Source named in post: none
+Label: n/a (opinion)
+Scaling stated by poster: age 1050 at Revan's attempt
+
+[58]
+Section heading: 2.2. PROLONGING LIFE (Palpatine comparison)
+Type: statement
+Verbatim quote: "Acting without any legal, political, or financial restraints, Emperor Palpatine develops the largest military force in galactic history. Supervision of the Imperial Navy is later assigned to Moffs----Imperial military commanders----and Palpatine thoroughly dedicates himself to the study of the dark side of the Force. As he strives to discover the secrets of eternal life, he also begins experimenting with cloning technology. Protected at all times by his red-cloaked Royal Guards, the Emperor seldom leaves his palace on Coruscant."
+Source named in post: Star Wars: The Ultimate Visual Guide: Updated and Expanded
+Label: Legends
+Scaling stated by quote: "the largest military force in galactic history" (not a combat scaling)
+
+[59]
+Section heading: 2.2. PROLONGING LIFE (Palpatine on BYSS)
+Type: statement (dialogue)
+Verbatim quote: ""This planet is a dark side conduit. A call to the Force summons an exponential flood.
+
+But the Force demands balance.
+
+In order to give energy, it must take energy." - Palpatine
+
+"The workers" - Darth Vader
+
+"That is correct my apprentice.
+
+The entire population feeds me even now...
+
+.. slowly surrendering their life energies to add to mine." - Palpatine
+
+"Immortality." - Darth Vader
+
+"Ha! not yet, Lord Vader.
+
+The power of Byss will strengthen the body and mind, merely slowing the decay of crude matter.
+
+But we will yet discover the ultimate secret, my friend." - Palpatine"
+Source named in post: not named in the post (the dialogue is presented without a source line)
+Source (identified later): Evasive Action: Recruitment (StarWars.com webcomic, Paul Ens) — Palpatine and Vader on Byss — how identified: plot summary on https://starwars.fandom.com/wiki/Evasive_Action:_Recruitment matches the dialogue (Byss 'a dark side conduit'; Palpatine 'slowly fed on the life energy of his workers to lengthen his own life'); https://starwars.fandom.com/wiki/Byss/Legends cites the same comic for Vader's Byss visit
+Label: unclear (source not named)
+Scaling stated by quote: none
+
+[60]
+Section heading: 2.2. PROLONGING LIFE (Palpatine on BYSS)
+Type: statement (encyclopedia)
+Verbatim quote: "Years ago, Emperor Palpatine chose Byss as his private retreat, and Imperial architects and engineers were commissioned to build him an opulent palace. Several million humans were allowed to emigrate to the world, where the Emperor and his adepts used the dark side to feed off their life energies. The planet's population eventually reached almost 20 billion, and all outgoing communications were censored by security agents."
+Source named in post: The Complete Star Wars Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[61]
+Section heading: 2.2. PROLONGING LIFE (Palpatine on BYSS)
+Type: statement
+Verbatim quote: ""The galaxy is choked with beings. Billions die every instant. It is better to make use of this resource. At my retreat on Byss, the life force of its colonists supplied an energy pool to sustain my dark side experiments." - Palpatine"
+Source named in post: Book of Sith: Secrets from the Dark Side
+Label: Legends
+Scaling stated by quote: none
+
+[62]
+Section heading: 2.2. PROLONGING LIFE (Darth Plagueis, Midi-chlorian manipulation)
+Type: statement (novel excerpt, Plagueis's journal)
+Verbatim quote: ""Perpetual Life
+
+A simple blood transfusion is the obvious answer, but I have found that the subject's native midi-chlorians will reject the influx of foreign cells.
+
+The solution therefore is not to introduce new midi-chlorians but to impose one's will on the midi-chlorians already present in the subject. This can be done through the energy of pneuma. Just as warrior in peak condition can lift a heavy weight, so can someone with a sharpened mental focus and an affinity for the Force achieve a measurable effect on the living cells.
+
+I began with experiments on scurriers and other small creatures. I used my will, amplified through my body's own midi-chlorians, to override the lesser concentrated midi-chlorian voices in the test subjects. This proved more challenging than I predicted. Because midi-chlorians are linked by a universal mind, the ones in my own cells seemed to resist this imposition on their fellows. But eventually I succeeded, first with small creatures, then with slaves purchased from the Hutts. I forced the midi-chlorians to override their natural life cycles.
+
+What I discovered is that these midi-chlorians did not die. Instead they drew upon sustaining Force energy, which acted on a microsopic level to halt tissue decay in their host, putting an end to aging and disease.""
+Source named in post: Book of Sith: Secrets from the Dark Side
+Label: Legends
+Scaling stated by quote: none
+
+[63]
+Section heading: 2.2. PROLONGING LIFE (Darth Plagueis, hubris)
+Type: statement (novel)
+Verbatim quote: "In his momentary hubris, he mocked ancient Sith:" -- the quoted passage: "As evidenced by those few Lords who had managed to perpetuate their spirits after physical death—foremost among them Emperor Vitiate, who was said to have lived a thousand years—the ancient Sith had come halfway across that bridge. But those few had been so focused on worldly power that they had ended up trapping themselves between realms. That they had never provided the Order with guidance from beyond attested to the fact that their influence had been negligible, and had long since faded from the world.
+
+In the same way that the pre-Bane Sith had been responsible for their own extinction, the great dark side Lords of the past had doomed themselves to the nether realm through their attempts to conquer death by feeding off the energies of others, rather than by tapping the deepest strata of the Force and learning to speak the language of the midi-chlorians. Plagueis was finally learning to do that, and was just beginning to learn how to persuade, prompt, cajole, and coax them into action."
+Source named in post: Star Wars: Darth Plagueis
+Label: Legends
+Scaling stated by quote: Emperor Vitiate "was said to have lived a thousand years"; the passage calls the ancient Sith's influence "negligible"
+
+=====================================================================
+SECTION 2.3: CONTINUOUS GROWTH in STRENGTH and ABILITIES
+=====================================================================
+
+[64]
+Section heading: 2.3. CONTINUOUS GROWTH in STRENGTH and ABILITIES
+Type: statement
+Verbatim quote: "Enigmatic and supremely powerful, the Emperor directs his domain from the shadows and manipulates the galaxy to carry out his will."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "supremely powerful" (no comparator)
+
+[65]
+Section heading: 2.3. CONTINUOUS GROWTH in STRENGTH and ABILITIES
+Type: statement (codex)
+Verbatim quote: "The ecological revitalization of Nathema has been nothing short of miraculous. Vibrant plant life has not only taken root but flourished, dramatically altering the planet's once-desolate landscape.
+
+Force-users no longer experience the unsettling "wrongness" that they once felt whenever setting foot on the planet. The air has become fresher, and the weather more dynamic.
+
+That this has all occurred since the death of Valkorion cannot be a coincidence, though experts cannot agree on any precise environmental mechanism that could have brought about such an abrupt change."
+Source named in post: Star Wars: The Old Republic: The Nathema Conspiracy, codex entry titled "Zildrog."
+Label: Legends
+Scaling stated by quote: none
+
+[66]
+Section heading: 2.3. CONTINUOUS GROWTH in STRENGTH and ABILITIES
+Type: statement
+Verbatim quote: "The Sith Empire's exile dragged on for centuries. While the military, navy, and Sith grew strong, the Emperor amassed unfathomable power and plotted a vengeful war against the Republic. He ruled from the privacy of his chambers in the Citadel, his life extended to virtual immortality by Sith sorcery."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "unfathomable power"; "virtual immortality"
+Note: duplicate of [52] (the post repeats this passage in Section 2.3).
+
+[67]
+Section heading: 2.3. CONTINUOUS GROWTH in STRENGTH and ABILITIES
+Type: statement
+Verbatim quote: "Driven by his quest for immortality and fueled by the energy sapped from his victims, the Emperor lived for centuries, amassing insurmountable power, rebuilding his exiled Empire, and plotting his ascension to ultimate rule."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "insurmountable power"
+
+[68]
+Section heading: 2.3. CONTINUOUS GROWTH in STRENGTH and ABILITIES
+Type: statement
+Verbatim quote: "Servants of the Hand share their Master's longevity, living untouched by age for centuries under his command. In return, the Emperor draws on his servant's strength in the Force and body to feed his ever-increasing power, leaving the servants withered and frail. But with no memories of their past lives, the servants have no history and live solely to serve the Emperor."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "ever-increasing power" (no number)
+
+[69]
+Section heading: 2.3. CONTINUOUS GROWTH (poster's framing of NATHEMA)
+Type: poster opinion
+Verbatim quote (poster's text): "NATHEMA vastly increased Tenebrae [The Sith Emperor]'s capacity as a practitioner of the Force:" followed by: "He prevented RECOVERY of the post-apocalyptic MEDRIAAS (declared NATHEMA) for over 1300 years:" and "a manipulation constant on his part [1] which lasted up to the event of Tenebrae [Valkorion] being routed from the mind of The Alliance Commander circa 3630 BBY" [panel: panels/vitiate/vitiate-tenebrae-original-ascended-coveted-position-sith-emperor-1.png]
+Source named in post: quotes cite Encyclopedia and Zildrog codex (see [65])
+Label: n/a (opinion)
+Scaling stated by poster: 1300+ years of holding Nathema; ability to multi-task "on a monumental level"
+
+=====================================================================
+KEY DEVELOPMENTS: [1] ALTER ENVIRONMENT (Dromund Kaas)
+=====================================================================
+
+[70]
+Section heading: Sith Sorcery (Alter Environment), Dromund Kaas
+Type: statement
+Verbatim quote: "Power hungry, the Emperor spent great energy discovering and perfecting esoteric rites of darkness – rituals that wrecked the atmosphere of Dromund Kaas, transforming the ionosphere into a swirling electric storm."
+Source named in post: Star Wars: The Old Republic: Holonet
+Label: Legends
+Scaling stated by quote: none
+
+[71]
+Section heading: Sith Sorcery (Alter Environment), Dromund Kaas
+Type: statement (novel)
+Verbatim quote: "Storms were common here on Dromund Kaas; dark clouds perpetually blocked out the sun, rendering terms like day and night meaningless."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[72]
+Section heading: Sith Sorcery (Alter Environment), Dromund Kaas
+Type: statement (novel)
+Verbatim quote: "The powerful electrical storms were a physical manifestation of the dark side power that engulfed the entire planet—a power that had brought the Sith back here a millennium before, when their very survival had been in doubt."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[73]
+Section heading: Sith Sorcery (Alter Environment), Dromund Kaas
+Type: statement (codex)
+Verbatim quote: "The lightning spires of Dromund Kaas tower above the planet's dark jungles, attracting the deadly lightning strikes that constantly scorch the world's storm-ravaged surface. The spires protect ground forces from falling prey to deadly strikes and harness the storm's electrical energy to power Kaas City.
+
+The lightning spires were originally conceived by Renigus Wight, a former commander in the Imperial Reclamation Service. Renigus was spearheading an excavation mission in the jungles of Dromund Kaas when a violent storm erupted in the skies overhead. His officers ran for shelter, but were too slow. A single bolt of lightning wiped out his entire crew: 49 officers, researchers and slaves. Renigus only survived thanks to the grace of a twisted ankle that caused him to lag behind the panicked stampede and miss the fatal strike.
+
+Following this incident, Renigus retired from the service to design the first lightning spire-a beacon of safety to shield future Imperial expeditions from the planet's wrathful storms."
+Source named in post: Star Wars: The Old Republic: Knights of the Eternal Throne, codex entry titled "Lightning Spires."
+Label: Legends
+Scaling stated by quote: none
+
+[74]
+Section heading: Sith Sorcery (Alter Environment), NOTE (2)
+Type: poster opinion
+Verbatim quote (poster's text): "NOTE (2): DROMUND KAAS is a large (rocky) planet with the diameter of 22,450 KM as per the disclosure in Star Wars: The Dark Forces saga related content."
+Source named in post: "Star Wars: The Dark Forces saga related content" (not further identified)
+Label: unclear
+Scaling stated by poster: none
+
+[75]
+Section heading: Sith Sorcery (Alter Environment), Dark Temple
+Type: statement (codex)
+Verbatim quote: "Hundreds of years ago, the Sith Emperor ordered the construction of the Dark Temple as a burial place for his dead and defeated enemies, “to aid them in becoming one with the Force.” Little is known of what rituals the Emperor performed there, but the Dark Temple has become a nexus of powerful dark side energy, and a place where ancient weapons and ancient secrets of the Sith lay sealed away in cavernous chambers.
+
+Although the Dark Temple grounds have always been a dangerous place for the weak-willed (the expansion of the Kaas City power grid into tunnels beneath the temple drove a thousand slaves mad), the temple itself remained sealed until recently, when an expedition of power-hungry Sith Lords and their servants breached the gateway. [panel: panels/vitiate/vitiate-one-dangerous-environments-dromund-kaas-dark-temple-1.jpg]
+
+The Dark Council did not sanction this intrusion, nor did it punish the rogue Sith; no one returned from the expedition to punish. Violent electrical storms surrounded the temple for the first week after it was opened, and since then, additional expeditions have been sent by the council to determine the temple’s status. Their reports have not been made public."
+Source named in post: Star Wars: The Old Republic: Codex Entry titled "The Dark Temple."
+Label: Legends
+Scaling stated by quote: none
+
+[76]
+Section heading: Sith Sorcery (Alter Environment), Dark Temple (Kallig)
+Type: statement (developer/in-character quote)
+Verbatim quote: ""Kallig! He was one of the most powerful Sith Lords of his time. Perhaps the most powerful. Oddly pro-alien. To think how the Empire might have been different if he had killed Tulak Hord and not the other way around." - Talos Drellik"
+Source named in post: Talos Drellik (character); source work not named in post
+Label: unclear
+Scaling stated by quote: Lord Kallig "one of the most powerful Sith Lords of his time. Perhaps the most powerful."
+
+[77]
+Section heading: Drain Life Essence (Dark Temple)
+Type: statement (encyclopedia)
+Verbatim quote: "Burial place, prison, and reliquary, the Dark Temple was built on the orders of the Emperor to seal away powerful artifacts and the Emperor's enemies, both alive and dead. The temple became a nexus of dark side energy as the Emperor performed rituals within, drawing strength and knowledge from his captives. The temple's twisted, grotesque architecture was specifically designed to focus and contain such corrupt darkness." [panel: panels/vitiate/vitiate-sith-sorcey-alter-environment-1.png]
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[78]
+Section heading: Drain Life Essence (Darth Bane definition)
+Type: statement
+Verbatim quote: ""A delicate procedure that saps the life energy of another and funnels it directly into your own essence. It is extremely difficult to employ in combat and is derived from the teachings of Zelashiel the Blasphemer in the Holocron of Darth Revan.""
+Source named in post: Darth Bane, Book of Sith: Secrets from the Dark Side
+Label: Legends
+Scaling stated by quote: "extremely difficult to employ in combat"
+
+
+=====================================================================
+SECTION: Sith Sorcery (Offensive), Dark Council and Lokess
+=====================================================================
+
+[79]
+Section heading: Sith Sorcery (Offensive), Esoteric expressions of will
+Type: statement (encyclopedia)
+Verbatim quote: "During a violent tempest, Darth Lokess called a secret meeting of her eleven fellow Dark Council members. Under the cover of night, the Dark Council met and heard Darth Lokess describe a brilliant and daring plan to overthrow the Sith Emperor, end his relentless exile, and lead the Empire back to war against the Republic. An army of Sith under the command of Darth Lokess were stationed outside the meeting, ready to slay any Dark Council member who refused. But they all agreed to depose the Emperor.
+
+It remains a mystery how the Emperor learned of his council's treachery. He allowed their plan to play out, but when they gathered to confront the Emperor, his punishment was swift and devastating. Eleven members of the Dark Council died in a sudden flash on the steps of the Citadel. The last member Darth Lokess, disappeared forever, though for some centuries some claimed her screams could be heard from the bowels of the Citadel."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none (the quote says the Emperor's punishment was "swift and devastating"; the post's claim that this was an external "distance" technique is the poster's reading)
+
+[80]
+Section heading: Sith Sorcery (Offensive), Dark Council (codex)
+Type: statement (codex)
+Verbatim quote: "While the undying Emperor serves as the unquestioned leader of the Empire, the twelve members of the Dark Council oversee the daily workings of their vast civilization and speak in the Emperor’s name. Each is among the most powerful Sith in the galaxy; to hold a seat on the council is the highest honor and the greatest position of influence a Sith can attain."
+Source named in post: Star Wars: The Old Republic: Codex Entry titled "The Dark Council."
+Label: Legends
+Scaling stated by quote: "Each is among the most powerful Sith in the galaxy" [panel: panels/vitiate/vitiate-mr-leland-chee-stated-no-absolutes-comes-1.jpg]
+
+[81]
+Section heading: Sith Sorcery (Offensive), Dark Council (codex)
+Type: feat
+Verbatim quote: "Dark Council members Darth Victun and Darth Qalar obliterated the Citadel on Dromund Kaas during an especially violent Kaggath. In response, the other Dark Council members immediately executed them and used their assets to rebuild what had been destroyed."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[82]
+Section heading: Sith Sorcery (Offensive), Mandalorian Wars
+Type: statement (encyclopedia)
+Verbatim quote: ""The Mandalorian Wars were a series of massacres that masked another war, a war of conversion. Culminating in a final atrocity that no Jedi could walk away from… save one." - Darth Traya" [panel: panels/vitiate/vitiate-mandalorian-wars-circa-3976-bby-1.png]
+Source named in post: Star Wars: The Old Republic: Encyclopedia (line cites Darth Traya)
+Label: Legends
+Scaling stated by quote: none
+
+[83]
+Section heading: Sith Sorcery (Offensive), Corrupting Mandalore the Ultimate
+Type: feat (novel narration, Revan recalling)
+Verbatim quote: ""So did the Jedi. The Sith species vanished after the Great Hyperspace War. One of their kind hasn’t been seen in Republic space in over a thousand years. But this red-skinned being came to Mandalore. He claimed to be the emissary of a powerful Master—a descendant of the Sith Lord who had driven Dramath into exile—and convinced Mandalore to help him search for his enemy's tomb."
+
+Revan was speaking slowly, the words coming out only as fast as the details came into focus. His recollections were still hazy and jumbled. The original time and place of each specific memory was unclear. Mandalore had told him some of this. Other details had come from the datacron in the tomb. Most of it he had learned much later, after he and Malak had journeyed into the Unknown Regions themselves.
+
+It was impossible to sort it all out. Out of necessity, his damaged mind had collapsed his memories into one another, merging them into a semicoherent whole as he'd slept.
+
+"Mandalore helped the Sith find Dramath's hidden crypt," he continued. "The Sith took the remains to give to his Master, and in exchange he told Mandalore of a vision his Master had had of the Mandalorians rising up against the Republic. He told him they would conquer world after world, crushing their enemies until the Republic collapsed in on itself. He promised the Mandalorians a glorious victory, and Mandalore believed him."
+
+"Mandalore the Ultimate wouldn't lead us into war against the Republic just because some stranger told him we'd win," Canderous protested.
+
+"It's more complicated than that. The Sith used the power of the dark side to manipulate him. Only as Mandalore lay dying at my feet was the spell finally broken and he realized he’d been tricked. That was why he told me about this place. So I could come and see for myself."
+
+"This doesn't make any sense," Canderous said. "You say the Sith tricked Mandalore into attacking the Republic. But why?"
+
+"I don't know," Revan admitted. "Maybe it was a test of your strength. Or ours. Maybe the Sith are planning another invasion, and they sought to weaken the Republic.""
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none (the Sith "used the power of the dark side to manipulate him") [panel: panels/vitiate/vitiate-backcover-star-wars-darth-plagueis-changed-1.jpg]
+
+[84]
+Section heading: Sith Sorcery (Offensive), Corrupting Mandalore (poster note)
+Type: poster opinion
+Verbatim quote (poster's text): "NOTE: When Jedi Knight Revan defeated Mandalore the Ultimate in single combat, he discovered that the Mandalore was under dark influence of the Sith all along - this was the first clue for the Jedi that the true Sith existed. This was also Tenebrae [The Sith Emperor]'s first major attempt to influence galactic events by extension."
+Source named in post: none (poster note)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+[85]
+Section heading: Drain Life Essence (Servants of the Hand)
+Type: statement
+Verbatim quote: "Servants of the Hand share their Master's longevity, living untouched by age for centuries under his command. In return, the Emperor draws on his servant's strength in the Force and body to feed his ever-increasing power, leaving the servants withered and frail. But with no memories of their past lives, the servants have no history and live solely to serve the Emperor."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+Note: same passage as [68]. The post places it under Drain Life Essence.
+
+[86]
+Section heading: NATHEMA conditions kept up (Revan and Malak overwhelmed) [panel: panels/vitiate/vitiate-nathema-conditions-kept-1.png]
+Type: statement (novel, Revan speaking)
+Verbatim quote: "“We underestimated his power. When we confronted him, he didn’t even have to fight us. Instead, he broke our wills. He dominated our minds, turning us into puppets to do his bidding. He sent us back to the Republic as the vanguard of his invasion, with instructions to report back when all resistance was crushed.
+
+But though we had underestimated the Emperor’s power, he underestimated us, as well. Our wills were stronger than he thought; our minds twisted and perverted his instructions until we thought we were acting of our own accord. Malak and I were turned to the dark side, but in doing so we found the strength to block out all memory of the Sith and the Emperor, partially freeing us from his control.”"
+Source named in post: Revan, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Revan and Malak were "turned" and mind-controlled by the Emperor; no numerical scaling
+
+[87]
+Section heading: NATHEMA conditions kept up (Revan mindwiped)
+Type: feat
+Verbatim quote: "Revan and Malak had both sought to destroy the Republic. But Malak had betrayed his Master, and Revan had been captured by the Jedi Council, barely alive, his body and mind shattered. The Council had saved his life, but they had also stripped his memories and rebuilt him as a weapon that could be unleashed against Darth Malak and his followers."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+Note: the post's heading dates this "circa 3959 BBY" (poster's date).
+
+[88]
+Section heading: NATHEMA conditions kept up (Revan recalls)
+Type: statement (novel)
+Verbatim quote: "Something had happened to him and Malak beyond the Outer Rim. They had gone to defeat the Mandalorians, but they had returned as disciples of the dark side. The official story was that they had been corrupted by the ancient power of the Star Forge, but Revan suspected there was more to it. And he knew it had something to do with his nightmares.
+
+A terrible world of thunder and lightning, shrouded in perpetual night.
+
+He and Malak had found something. He couldn’t remember what it was, or where it was, but he feared it on a deep, primal level. Somehow he knew that whatever the terrible secret might be, it was a threat far greater than the Mandalorians or the Star Forge. And Revan was convinced it was still out there.
+
+The storm is coming, and there is no escape."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[89]
+Section heading: Telepathy (Spectrum of applications)
+Type: statement (novel, Darth Nyriss)
+Verbatim quote: "“The Emperor has the ability to dominate and enslave the minds of those who serve him,” she explained. “It’s one of the reasons he has ruled for so long. Those that are transformed become fanatical zealots who live to serve; they are not capable of betraying him.” She glanced back at the door behind which they had left the Jedi. “I suspect that instead of executing Revan as he publicly proclaimed, the Emperor turned him into a puppet of his will and sent him back to the Republic to gather information.”"
+Source named in post: Darth Nyriss, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[90]
+Section heading: Telepathy (Example 2 vs Revan and Malak)
+Type: feat (encyclopedia)
+Verbatim quote: "The legendary Jedi Revan and Malak confront the Sith Emperor in his throne room on Dromund Kaas. In mere moments, the Jedi lay defeated and consumed by the dark side of the Force."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "In mere moments" (duration only)
+
+[91]
+Section heading: Telepathy (Example 2 vs Revan and Malak)
+Type: feat (encyclopedia)
+Verbatim quote: "Driven by haste and curiosity, Revan and Malak confronted the Sith Emperor without alerting the Republic. The supreme and horrifying power of the Emperor corrupted the Jedi and completed their fall to the dark side."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "supreme and horrifying power" (no comparator)
+
+[92]
+Section heading: Telepathy (Revan and Malak, Galactic History codex)
+Type: feat
+Verbatim quote: "Finally, the Mandalorians had been routed. The Jedi generals Revan and Malak had killed Mandalore and hounded the remnants of the enemy fleet far beyond the boundaries of Republic space–and in so doing, performed terrible deeds and learned dark powers.
+But there were darker days to come. During Revan's pursuit of the Mandalorians, he and Malak discovered the ancient Sith Empire hidden on Dromund Kaas. Realizing this Empire was the true threat to the Republic, Revan and Malak faced the Sith Emperor himself, intending to cut off the serpent's head–but the Emperor was too powerful. Overwhelmed by the Emperor's dark presence, they pledged themselves to his service."
+Source named in post: Star Wars: The Old Republic: Codex entry titled "The Galactic History 74: Revan and Malak Fall."
+Label: Legends
+Scaling stated by quote: "the Emperor was too powerful" (vs Revan and Malak)
+
+[93]
+Section heading: Telepathy (Revan, Lucien Draay note)
+Type: poster opinion (citing a named source)
+Verbatim quote (poster's text): "*Revan had become the most powerful Jedi in the galaxy a while ago:" followed by the quote "Though the Mandalorian fought valiantly, in the end he was no match for the Jedi Order's most powerful champion." (Star Wars: The Old Republic: Revan) and "NOTE: Jedi Master Lucien Draay was a peer of Revan in times of the Mandalorian Wars and is stated to be a good fight for Darth Vader [Original Trilogy] by extension (Wizards of the Coast: KOTOR Miniatures Preview - Master Lucien Draay). Whatever information Wizards of the Coast disclosed about each character in its official preview(s), is LFL vetted and endorsed."
+Source named in post: Star Wars: The Old Republic: Revan (for the Mandalorian quote); Wizards of the Coast: KOTOR Miniatures Preview - Master Lucien Draay (cited by poster)
+Label: Legends (SWTOR novel); Legends (KOTOR miniatures preview, cited by poster)
+Scaling stated by quote: Revan is "the most powerful Jedi in the galaxy a while ago" (Revan novel); Lucien Draay "a good fight for Darth Vader [Original Trilogy] by extension" (poster citing WotC)
+
+[94]
+Section heading: Telepathy (Scourge scene)
+Type: feat (novel)
+Verbatim quote: "Tenebrae [The Sith Emperor] brushed his mind with that of Lord Scourge [Original] to send a message across, leaving one of the finest warriors of the time reeling on the floor from the experience." -- post lead-in (poster's text)
+Scene text (novel, Revan): "The Emperor had no physical reaction to the revelation; he stayed as still and calm as death itself. But the air around Scourge seemed to grow colder.
+
+“Are you certain of these accusations?”
+
+“I would stake my life on them, my lord Emperor.”
+
+“You already have.”
+
+Scourge felt a shiver trace its way down his spine, and he knew that far more than his life was at risk. The Emperor was no longer a member of the Sith species; his power and immortality had transformed him into a being unique in the galaxy. When he spoke of life and death, it had far deeper meaning than the mere physical existence of the lesser beings that served him.
+
+“Does Nyriss know you are here?”
+
+“No. I came to you as soon as I deciphered the data on Sechel’s disks.”
+
+There was a long silence, and Scourge had the distinct impression that the Emperor was somehow communicating with someone outside the room.
+
+A few seconds later the doors to the throne room opened and Captain Yarri strode in, accompanied by a Sith wearing the same dark robes as the Emperor.
+
+They approached Scourge, and the robed Sith held out his hand expectantly. Scourge handed him the disks.
+
+“Keep Lord Scourge in custody until this matter is settled,” the Emperor intoned.
+
+“Forgive me, Lord Emperor,” Scourge said, speaking quickly but trying to keep his tone humble. “But Nyriss is expecting my return. If I am absent, she will grow suspicious.”
+
+The Emperor’s dark eyes seemed to flicker with annoyance, and Scourge feared he had gone too far. The best he could hope for as punishment for his insolence would be a quick and relatively painless death.
+
+However, when the Emperor spoke again it was not to pass judgment on him.
+
+“You are bold to speak to me in this way,” he stated. “And because you are right, I will reward your initiative … this time. When Nyriss falls, you will be first in line for her seat on the Dark Council.”
+
+“Thank you, Lord Emperor,” Scourge said with a bow.
+
+“If your information proves false, however,” the Emperor added, “you will suffer a fate more terrible than anything you can imagine.”
+
+As he spoke, the dark circles of his eyes seemed to fill with a swirling red mist, and for a brief instant the Emperor gave Scourge a glimpse of his true self.
+
+Scourge cried out in anguish as the Emperor’s mind brushed against his, then he collapsed to the floor, shaking like a child. The touch lasted less than a second, but in that time he witnessed indescribable horrors that dwarfed anything the dark side could conjure even in his worst nightmares. And beneath the formless terrors lurked the unbearable Void, the pure emptiness of total annihilation.
+
+It was over as quickly as it had begun, the awful vision retreating into his subconscious like a repressed memory as Scourge picked himself up off the floor. Neither Captain Yarri nor the robed Sith made any move to help him.
+
+“Come with me,” the captain said once he was on his feet.
+
+Only then did Scourge notice that the Emperor had retaken his seat on the throne, and that the pedestal had spun around to face away from him.
+
+The dark-robed Sith stayed behind as Yarri led Scourge out of the throne room and into the hall beyond.
+
+“I see why you tried to talk me out of this,” Scourge muttered as they made their way back toward the citadel’s main entrance."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "one of the finest warriors of the time" (Scourge, per poster lead-in); no numerical scaling
+
+[95]
+Section heading: NATHEMA conditions kept up (Nyriss purge, circa 3950 BBY)
+Type: feat (novel)
+Verbatim quote: "“What did you find out?” Meetra asked as Revan extended a hand to help her up.
+
+“It wasn’t just Nyriss who was attacked. The Emperor killed them all.”
+
+“The files you showed me listed five current members of the Dark Council plotting against him,” Meetra said, looking to clarify. “Are you saying the Emperor’s Guard wiped out all five in the space of a single day?”
+
+“I said he killed them all,” Scourge replied. “All twelve members of the Dark Council—even those who weren’t part of the conspiracy. He wanted to send a message no one would ever forget.”
+
+“How is that possible?” Revan asked. “He attacked a dozen of the most powerful Sith Lords in their seats of power simultaneously? How many troops does he have?”
+
+“The Imperial Guard were only unleashed on Nyriss and two others. The Emperor must have assumed they were the ones least likely to answer his summons. The other nine were called together in the hours before the attack to meet with the Emperor at his citadel. None of them left alive.”
+
+“So what’s happening now?” Meetra asked."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "He attacked a dozen of the most powerful Sith Lords" (Revan's question; the Dark Council is described in the scene as the Emperor's twelve-member council); the Emperor's Imperial Guard killed the nine who were summoned and "Nyriss and two others" were attacked [panel: panels/vitiate/vitiate-mr-leland-chee-stated-no-absolutes-comes-1.jpg]
+Note: the post heading says "circa 3950 BBY (9 members in total)". Revan [Reborn] comfortably defeated Nyriss in a confrontation earlier, per the post.
+
+[96]
+Section heading: NATHEMA conditions kept up (Nyriss, Revan and Meetra vs Nyriss; poster's gloss)
+Type: poster opinion
+Verbatim quote (poster's text): "Revan [Reborn] comfortably defeated a member the Dark Council Darth Nyriss in a confrontation earlier but found Lord Scourge [Original]'s news difficult to digest."
+Source named in post: none (poster gloss)
+Label: n/a (opinion)
+Scaling stated by poster: Revan [Reborn] "comfortably defeated" Darth Nyriss
+
+[97]
+Section heading: NATHEMA conditions kept up (Revan [Reborn] and Malak, Star Forge)
+Type: statement (Wizards of the Coast)
+Verbatim quote: ""An imposing figure with ghostly pale features, prominent Sith tattoos, a gleaming red lightsaber, and devastating Dark Side power, Malak struck terror into the hearts of his former allies. He also wore a vocal mask that may have concealed a form of cybernetic life-support. Did it provide him with powers far greater than even Exar Kun or Freedon Nadd, or was cybernetic enhancement too simple an explanation?""
+Source named in post: Star Wars: Wizards of the Coast (no product named)
+Label: unclear (source product not named)
+Scaling stated by quote: Malak's powers possibly "far greater than even Exar Kun or Freedon Nadd" (posed as a question, not asserted)
+
+[98]
+Section heading: NATHEMA conditions kept up (Star Forge, Elder Council)
+Type: statement (novel, Elder Council)
+Verbatim quote: ""You must go now, Revan. The Star Forge feeds the power of your old apprentice. If you do not stop him soon he will become too powerful for even you to stop." - The Elder Council"
+Source named in post: The Elder Council (in-universe; source work not named in post)
+Label: unclear
+Scaling stated by quote: Malak "will become too powerful for even you to stop" (Revan)
+
+[99]
+Section heading: NATHEMA conditions kept up (Star Forge, duel)
+Type: feat (encyclopedia)
+Verbatim quote: "Revan then confronted Darth Malak himself in a fierce duel, but Revan prevailed and finally defeated Darth Malak."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: none
+
+[100]
+Section heading: NATHEMA conditions kept up (Revan, Nyriss, Scourge, Meetra sequence)
+Type: statement (novel)
+Verbatim quote: "In their last meeting he had overwhelmed Revan completely; it wasn’t even fair to call it a battle. Revan had grown since then. He was far more powerful now, but was he a match for the Emperor?
+
+Alone, probably not. With the combined strength of Meetra, Scourge, and even T3, however, he believed they stood a real chance of victory."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Revan "far more powerful now" than at their last meeting, "but was he a match for the Emperor?" (answer: "Alone, probably not")
+
+[101]
+Section heading: NATHEMA conditions kept up (Revan vs Nyriss lightning)
+Type: feat (novel)
+Verbatim quote: "A dozen bolts of lightning sprang from Nyriss’s hand, arcing across the room to incinerate her enemies. Instead of leaping back into the cell to avoid the deadly attack, Revan stepped forward to intercept it.
+
+Both hands were held in front of him, his arms fully extended at shoulder height, his thumbs touching and his fingers splayed wide. He drew the bolts of lightning into his waiting grasp, channeling them away from their intended targets and absorbing their power.
+
+“I am Revan reborn,” he said to Nyriss. “And before me you are nothing.”
+
+Nyriss’s eyes went wide as Revan unleashed the power of her own attack against her. She tried to throw up another Force shield, but the bolts ripped it apart and continued on unabated. The lightning engulfed her, the intense heat consuming her instantly, leaving only a pile of charred ash."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Revan "utterly destroying" Nyriss; no numerical scaling
+
+[102]
+Section heading: NATHEMA conditions kept up (Revan vs Nyriss, Essential Reader's Companion)
+Type: feat
+Verbatim quote: "Revan's raw power in the Force bends Nyriss' Sith lightning back at her, utterly destroying the Sith Lord."
+Source named in post: Star Wars: The Essential Reader's Companion
+Label: Legends
+Scaling stated by quote: "raw power" (no comparator)
+
+[103]
+Section heading: NATHEMA conditions kept up (Nyriss vs Scourge and Meetra)
+Type: feat (novel)
+Verbatim quote: "Scourge rushed forward, hoping to drive Nyriss back into a corner, but she met his charge with an invisible wave of rippling energy. It picked Scourge up and tossed him head-over-heels, sending him crashing to the wall.
+
+Dazed, he looked up just in time to see another bolt of violet lightning catch Meetra in the chest. Like Nyriss, she threw up a barrier to save herself from the worst of it, but she was still knocked from her feet.
+
+“Did you think I would be as easy to defeat as Xedrix?” Nyriss shouted, raising her lightsaber triumphantly above her head.
+
+The air around her began to crackle and grow hot as she gathered herself for the killing blow. Scourge felt the energy building inside her, and he knew he would be powerless to stop it. Nyriss was too powerful; her command of the dark side was too strong."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Nyriss "too powerful" for Scourge; no numerical scaling
+
+[104]
+Section heading: NATHEMA conditions kept up (Scourge and Meetra, accomplished warriors)
+Type: statement (encyclopedia)
+Verbatim quote: "Both of them - Meetra Surik [The Jedi Exile] and Lord Scourge [Original] - were accomplished warriors in their own right by now - each had defeated powerful Sith Lords before." [panel: panels/vitiate/vitiate-both-them-meetra-surik-jedi-exile-lord-1.png]
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "each had defeated powerful Sith Lords before" (unnamed)
+Note: the sentence is from the post's quoted block; the word "Both of them" appears as the first words of the block in the source text.
+
+[105]
+Section heading: NATHEMA conditions kept up (Revan, Star Forge, poster footnote)
+Type: poster opinion
+Verbatim quote (poster's text): "Independent blog for reference: Revan REVISITED (2020)"
+Source named in post: none
+Label: n/a
+Scaling stated by poster: none
+
+=====================================================================
+SECTION: NATHEMA conditions kept up — Balance of the Force
+=====================================================================
+
+[106]
+Section heading: Balance of the Force
+Type: statement (novel)
+Verbatim quote: "The Force was omnipresent. It radiated stronger in certain places and at certain times, and the balance of the dark side and the light constantly shifted."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[107]
+Section heading: Balance of the Force
+Type: statement (RPG sourcebook)
+Verbatim quote: "More than any others, it is the Force-sensitive beings of the galaxy who have the greatest influence upon the balance of the Force." [panel: panels/vitiate/vitiate-balance-force-continue-shift-due-struggles-supremacy-1.png]
+Source named in post: Star Wars: Force and Destiny: Core Rulebook
+Label: unclear
+Scaling stated by quote: none
+
+[108]
+Section heading: The FOREMOST source of imbalance (Revan [Reborn])
+Type: statement (novel, Revan speaking)
+Verbatim quote: "“The Force always strives for balance. The Emperor is an agent of darkness and destruction. It is inevitable that a champion of the light will one day rise to oppose him. I may be that champion.”"
+Source named in post: Revan, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Revan calls the Emperor the source of imbalance; no numerical scaling
+
+[109]
+Section heading: The FOREMOST source of imbalance (Darth Plagueis, cited by poster)
+Type: statement (novel, cited by poster)
+Verbatim quote: "While midi-chlorians appeared to resist manipulation of a sort that might imperil the balance of the Force, they remained passive, even compliant, in the case of a weak-willed being manipulated by one who was strong in the Force. Perhaps that explained why it was often easier to call on the Force to heal someone other than oneself.
+
+Extending life, then, could hinge on something as simple as being able to induce midi-chlorians to create new cells; to subdivide at will, increasing their numbers into the tens of thousands to heal or replace damaged, aging, or metastatic cells. Midi-chlorians had to be compelled to serve the needs of the body; to bestow strength when needed; to overcome physical insult, or prevent cells from reaching senescence.
+
+If one accepted the tales handed down in accounts and holocrons, the ancient Sith had known how to accomplish this. But had Sith like Naga Sadow and Exar Kun genuinely been more powerful, or had they benefited from the fact that the dark side had been more prominent in those bygone eras?"
+Source named in post: Star Wars: Darth Plagueis
+Label: Legends
+Scaling stated by quote: none direct (question about Naga Sadow and Exar Kun)
+Note: this passage repeats the text of [45], shortened at the end, as the post does.
+
+=====================================================================
+SECTION: The FOREMOST source of imbalance (poster's scaling, Revan vs Emperor)
+=====================================================================
+
+[110]
+Section heading: The FOREMOST source of imbalance
+Type: poster opinion
+Verbatim quote (poster's text): "Revan [Reborn] singled-out Tenebrae [The Sith Emperor] as the FOREMOST source of imbalance in the Force at the time:" then "The aforementioned is LOGICAL in view of NATHEMA (refer back to the embodiment of the VOID panel above), and following confession of Darth Plagueis thousands of years later:"
+Source named in post: none (poster framing; Revan quote is [108]; Plagueis passage is [109])
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+[111]
+Section heading: NATHEMA conditions kept up (Revan [Reborn] vs Emperor, circa 3950 BBY)
+Type: poster opinion (heading)
+Verbatim quote (poster's text): "Tenebrae [The Sith Emperor] proved too much for Revan [Reborn] and his new set of allies to handle in a confrontation circa 3950 BBY." [panel: panels/vitiate/vitiate-tenebrae-sith-emperor-proved-too-much-revan-1.png]
+Source named in post: Star Wars: The Old Republic: Encyclopedia (block source line follows)
+Label: n/a (opinion heading)
+Scaling stated by poster: Revan [Reborn] and allies were outmatched
+
+[112]
+Section heading: NATHEMA conditions kept up (Imperial Guard)
+Type: feat (novel)
+Verbatim quote: "The first soldier met her charge and parried the first strike with his electrostaff, the resilient metal of his weapon deflecting the energy blade of the Jedi off to the side so that it carved a deep scar in the wall.
+
+The second soldier leapt into the fray, forcing Meetra to fall back a step to absorb their coordinated attack. Slightly farther away, Scourge and Captain Yarri were also already engaged in close-quarters combat, his lightsaber clashing against her electrostaff as they battled in the narrow confines of the entrance hall.
+
+An alarm began to ring out in the hall, triggered by one of the other three soldiers. Before they could join in the fight, Revan thrust his hand, palm up, in the direction of the sealed durasteel doors, blasting them wide open with the power of the Force.
+
+“Into the throne room!” he shouted, rushing forward.
+
+One of the guards battling Meetra broke off and tried to cut Revan off. The Jedi gathered himself and leapt high in the air, tucking his knees in tight to somersault over his opponent. The guard reacted to the unexpected move a fraction too slowly, his electrostaff slicing through the air above his head and missing Revan by only a few centimeters.
+
+Revan landed on the ground and wheeled around to face the other man. He thrust out with the Force, the impact hitting the soldier square in the chest. Instead of sending him flying, it only staggered him back half a step—this close to the Emperor they were sworn to protect, the guards were able to draw on his power to protect themselves."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Imperial Guard "were able to draw on his power to protect themselves" (near the Emperor); no numerical scaling
+
+[113]
+Section heading: NATHEMA conditions kept up (Imperial Guard, poster framing)
+Type: statement (encyclopedia, poster's lead-in)
+Verbatim quote: "The Emperor's Imperial Guard were virtually immune to Force Powers of the Jedi and Sith when at close proximity to him:" followed by the novel passage in [112]
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Guard "virtually immune to Force Powers" near the Emperor (lead-in text, poster's wording of the claim)
+
+[114]
+Section heading: NATHEMA conditions kept up (Repeated attempts on the LIFE)
+Type: statement (novel, Darth Nyriss)
+Verbatim quote: ""Remember that all those who have direct access to the Emperor—the Emperor’s Voice, the Emperor’s Hand, the soldiers in the Imperial Guard—are under his spell. Breaking that spell, turning his most loyal followers against him, is our best chance of defeating him and saving the Empire from his mad plan to attack the Republic.""
+Source named in post: Darth Nyriss, Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+=====================================================================
+SECTION: Sith Lightning (Offensive)
+=====================================================================
+
+[115]
+Section heading: Sith Lightning
+Type: statement (sourcebook)
+Verbatim quote: "Called "Sith lightning," these charges cause excruciating pain and weaken life, and it is a challenge for even the most powerful Jedi Masters to deflect such bursts."
+Source named in post: Star Wars: The Ultimate Visual Guide
+Label: Legends
+Scaling stated by quote: "a challenge for even the most powerful Jedi Masters to deflect such bursts" (no named comparator)
+
+[116]
+Section heading: Sith Lightning, EXAMPLE 1 versus Revan [Reborn]
+Type: feat (novel)
+Verbatim quote: "Revan knew he was gathering his power to unleash a swirling storm of pure dark side energy, just as Nyriss had done. The Jedi quickly calculated his options. Realizing he couldn’t close the gap between them quickly enough to stop the assault, he gathered his own energy and spread his hands before him, ready to catch and absorb the Emperor’s attack.
+
+A dozen bolts of purple lightning arced from the Emperor toward him. Revan tried to draw them in and contain them, but the Emperor was infinitely more powerful than Darth Nyriss had ever been.
+
+Revan's body was engulfed in agony as the electricity coursed through his body. His skin began to boil and blister, the flesh of his face melting and sticking to the superheated metal of his mask as the Emperor poured more and more power into him.
+
+Through the haze of indescribable pain, he saw T3-M4 rushing in to help him. The droid let loose with his flamethrower, bathing the Emperor in fire. At the last instant the Emperor cocooned himself in the Force to save himself from being incinerated, breaking his focus on Revan.
+
+The Jedi collapsed to the ground, burned but still alive, the hilt of his extinguished lightsaber lying on the floor less than a meter beyond his grasp."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: the Emperor "infinitely more powerful than Darth Nyriss had ever been" (vs Nyriss); the Emperor's Sith Lightning mortally wounded Revan [Reborn]; Revan survived because of T3-M4
+Note: the post's own heading reads "EXAMPLE 1 - versus Revan [Reborn]"; "mortally wounded" is the post's wording.
+
+=====================================================================
+SECTION: Telekinesis (Spectrum of applications)
+=====================================================================
+
+[117]
+Section heading: Telekinesis, EXAMPLE 1 versus Revan [Reborn]
+Type: feat (novel)
+Verbatim quote: "AS MEETRA AND SCOURGE BATTLED the Guard, Revan charged toward the Emperor.
+
+His opponent stood perfectly still, focusing and channeling his power. At the last possible instant, the Emperor unleashed a wave of energy that swept Revan off his feet and sent him flying backward."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[118]
+Section heading: Telekinesis, EXAMPLE 2 versus T3-M4
+Type: feat (novel)
+Verbatim quote: "Almost too weak to move, Revan managed to raise his head just in time to see the Emperor turn on the brave little astromech. A tremor rippled through the air as the Emperor unleashed the full power of the Force against the defenseless droid.
+
+T3 never stood a chance. The little droid exploded into a million pieces, internal circuits and external casing obliterated in a single instant.
+
+“No!” Revan screamed from the ground as bits of his friend rained down on him in the form of unrecognizable shrapnel.
+
+He tried to rise, but his injured body refused to respond. Instinctively, he called on the Force to give him strength and heal his wounds.
+
+The Emperor was approaching him with calm, purposeful steps. Once he reached Revan’s side he calmly bent down and picked up the Jedi’s fallen weapon, igniting the blade.
+
+The healing properties of the Force were powerful, but Revan’s wounds were severe and he needed more time to restore his strength. Helpless, he could only stare up at the Emperor as he raised the lightsaber to deliver the killing blow."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: T3-M4 destroyed "in a single instant" by "the full power of the Force" (no numerical scaling)
+
+[119]
+Section heading: Telekinesis, EXAMPLE 2 (T3-M4 durability, poster's note)
+Type: statement (novel)
+Verbatim quote: "As they scrambled to their feet, T3 let out what could only be described as a shriek of terror. An instant later, the little astromech came tumbling down the stairs and bounced across the floor as if he’d been shot from a cannon. He landed in the corner on his back, his wheels still spinning."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: T3-M4 was thrown "as if he’d been shot from a cannon" (by Nyriss's blast, per the post)
+
+[120]
+Section heading: Telekinesis, EXAMPLE 3 versus Lord Scourge [Original]
+Type: feat (novel)
+Verbatim quote: "The Sith Lord raised his lightsaber to deliver the coup de grâce. He brought his arm down, but it suddenly stopped as if an invisible and impossibly strong hand had seized his wrist. He glanced back at the Emperor in surprise.
+
+“Put away your blade. You have passed the test,” the Emperor said. “But Revan can still be of use to me.”"
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "an invisible and impossibly strong hand" (no numerical scaling)
+
+=====================================================================
+SECTION: Drain Life Essence (Revan feeding; Meetra)
+=====================================================================
+
+[121]
+Section heading: Drain Life Essence (Revan, distance feed)
+Type: feat (novel)
+Verbatim quote: "REVAN COULD FEEL THE EMPEROR FEEDING ON HIM, drawing on his power to sate his endless hunger. Though the two were physically separated by a dozen parsecs, there was still an unbreakable mental link, fashioned by the Emperor and sustained by the infernal machines powering the cell."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: feeding across "a dozen parsecs" of separation
+Note: the post's text says "Related information in the following companion blog: Tenebrae/Vitiate/Valkorion - DARK SCIENCES"
+
+[122]
+Section heading: Drain Life Essence (Revan, Meetra feeding back)
+Type: statement (novel)
+Verbatim quote: "Meetra could sense his suffering. When she had died, she had not become one with the Force. Loyal to the end, her spirit had remained with Revan, an invisible presence hovering just outside his cell.
+
+She couldn’t speak with him; whatever arcane Sith sorcery the Emperor had used to bind Revan in his cell made that impossible. She doubted Revan was even aware she was there. Yet even though she couldn’t communicate with him, she was able to offer aid and support, her power trickling through the energy barrier that surrounded him, a lifeline he could cling to in the dark ocean of his imprisonment.
+
+As the Emperor fed off him, Meetra was allowing Revan to feed off her. Her sustenance strengthened his resolve whenever he grew weak, refreshing and restoring him so he could continue his never-ending mental war.
+
+Because of her, Revan was able to do more than just fight to keep the Emperor at bay."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[123]
+Section heading: Drain Life Essence (Lord Scourge's Force vision)
+Type: feat (novel)
+Verbatim quote: "Revan lay motionless on the floor of the Citadel’s throne room. Meetra and Scourge lay beside him, their bodies twisted and broken, clinging to the last moments of life.
+
+The Emperor approached the trio, regarding them with a cold and casual contempt as he loomed above his fallen adversaries. Scourge tried to stand and flee, but his crippled limbs wouldn’t support his weight. All he could do was crawl on his belly like a worm.
+
+His efforts drew the attention of the Emperor, who didn’t speak but came over and lowered himself to one knee. He grabbed Scourge by the shoulder and rolled him over so he was staring up into the twin voids of the Emperor’s eyes.
+
+As he reached out a hand and placed it on Scourge’s forehead, the Sith began to scream."
+Source named in post: Star Wars: The Old Republic: Revan (Lord Scourge's Force vision, as the post labels it)
+Label: Legends
+Scaling stated by quote: Revan, Meetra, and Scourge all "broken" by the Emperor (no numerical scaling)
+
+[124]
+Section heading: Drain Life Essence (Scourge's Force vision, continued)
+Type: statement (novel)
+Verbatim quote: "The Force washed over him in a wave, and a million possible futures flickered through his mind simultaneously. In some the Emperor was no more; in others he had transformed the entire galaxy into an empty wasteland. He saw both Revan’s triumph and defeat in the throne room; he saw variations of his own life and death played out over and over in every conceivable way, shape, and form.
+
+He had to choose, but there was no way to know which was the most likely outcome, or what actions of his would lead to which results. Revan had said visions could guide the Jedi, but for Scourge they brought nothing but confusion."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[125]
+Section heading: Drain Life Essence (Scourge's betrayal)
+Type: statement (RPG/reader's companion)
+Verbatim quote: "The Emperor’s power is too much for Revan. Recognizing that the Emperor is undefeatable, Scourge kills Meetra and betrays Revan."
+Source named in post: Star Wars: The Essential Reader's Companion
+Label: Legends
+Scaling stated by quote: "Recognizing that the Emperor is undefeatable"
+
+[126]
+Section heading: Drain Life Essence (Scourge's betrayal, novel)
+Type: statement (novel)
+Verbatim quote: "Scourge had eagerly accepted, knowing his new position would give him both time and opportunity to find another way to stop Emperor Vitiate before his madness and hunger consumed the galaxy.
+
+"Open yourself to the dark side," the Emperor said, and Scourge felt the air around him begin to swirl with power.
+
+Betraying his allies had not altered the inevitable outcome; the Emperor would have won regardless. At least this way Scourge was still alive to carry on their cause."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "the Emperor would have won regardless" (vs Revan's party)
+
+[127]
+Section heading: Drain Life Essence (Scourge's view, poster framing)
+Type: poster opinion (heading)
+Verbatim quote (poster's text): "Lord Source [Original] slowly but surely realized that Tenebrae [The Sith Emperor] is undefeatable and that he should bide his time and find another way to stop this being."
+Source named in post: none (poster framing of [124]-[126])
+Label: n/a (opinion)
+Scaling stated by poster: Emperor "undefeatable"
+Note: the post text reads "Lord Source [Original]" (typo in the post; Lord Scourge is meant).
+
+=====================================================================
+SECTION: Transfer Life
+=====================================================================
+
+[128]
+Section heading: Transfer Life (Esoteric application)
+Type: statement (sourcebook)
+Verbatim quote: "This power allows character to transfer his or her life energy into another body. The key to immortality itself, this is one of the most difficult and evil of all dark side powers. To overcome a spirit already residing in a body is nearly impossible. This is why the power is nearly useless without the ability to clone host bodies. Though theoretically possible, it is not yet known what the effect on an unborn fetus would be. Fortunately, there is almost no history of this power being used successfully. It is believed that if the user’s body perishes as an attempt fails, the user’s life energy is lost, dispersed to the void."
+Source named in post: Star Wars - D6 - Force Powers
+Label: Legends
+Scaling stated by quote: "almost no history of this power being used successfully"; "nearly impossible" to overcome a resident spirit
+
+[129]
+Section heading: Transfer Life (Difficulty table)
+Type: statement (sourcebook)
+Verbatim quote: "CONTROL difficulty = Heroic
+
+SENSE difficulty = Heroic
+
+ALTER difficulty** = Easy (cloned body); Moderate (recent dead body); Difficult (willing living being); Heroic (unwilling living being)
+
+Force Powers required to execute successfully:
+
+Absorb/dissipate energy - Accelerate healing - Control pain - Emptiness - Detoxify poison - Hibernation trance - Reduce injury - Remain conscious - Resist stun - Life detection - Life sense - Magnify senses - Receptive telepathy - sense Force - Telekinesis - Injure/kill - Farseeing - Projective telepathy - Receptive telepathy - Accelerate another's healing - Control another's pain - Feed on dark side - Inflict pain - Return another to consciousness - Dim another's senses - Transfer Force - Affect mind"
+Source named in post: Star Wars - D6 - Force Powers
+Label: Legends
+Scaling stated by quote: ALTER difficulty ranges from Easy (cloned body) to Heroic (unwilling living being)
+
+[130]
+Section heading: Transfer Life (D6 note)
+Type: statement (sourcebook)
+Verbatim quote: "The description of said Force Power is self-explanatory in regards to how challenging it is for any Force-user to master it in absolute terms - to the point of successful application on living beings. Other D6 sourcebooks converge on this part and theme (Star Wars - D6 - The Dark Empire Sourcebook; Star Wars - D6 - Tales of the Jedi Companion)"
+Source named in post: Star Wars - D6 - Force Powers (with other D6 books cited)
+Label: Legends
+Scaling stated by quote: none
+Note: the second sentence is the post's own cross-reference, not a quote from those books.
+
+[131]
+Section heading: Transfer Life (Voice creation, poster's heading)
+Type: poster opinion (heading)
+Verbatim quote (poster's text): "Tenebrae [The Sith Emperor] created his FIRST VOICE in another living being at some point after his second confrontation with Revan [Reborn] circa 3950 BBY:"
+Source named in post: Star Wars: The Old Republic: Encyclopedia (block quote follows)
+Label: n/a (heading)
+Scaling stated by poster: none
+
+[132]
+Section heading: Transfer Life (First Voice)
+Type: statement (encyclopedia)
+Verbatim quote: "The Emperor created his first Voice after the legendary Jedi named Revan attempted to assassinate him on Dromund Kaas. Though Revan's plot failed, he approached within striking distance of the Emperor. To guard against further vulnerability, the Emperor created the Voice to deliver his orders while distancing himself from the forces that conspired against him. Centuries later, this very safeguard would save the Emperor once more."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: Revan "approached within striking distance of the Emperor"
+
+[133]
+Section heading: Subject - Valkorion
+Type: statement (in-game dialogue, video-linked)
+Verbatim quote: ""I found Valkorion centuries ago. He was a great warrior. A champion of ancient Zakuul. It was only natural I hollow him out to use as my vessel. I saw potential in the primitive world, so I raised it to perfection.""
+Source named in post: Tenebrae [Valkorion] speaking to The Alliance Commander (post's caption: "Tenebrae [Valkorion] explain to The Alliance Commander what he did to the original living being named Valkorion <- CLICK to CHECK"); source work not named in post (SWTOR, per the post's own video link) [panel: panels/vitiate/vitiate-tenebrae-valkorion-explain-alliance-commander-he-original-1.jpg]
+Label: Legends (SWTOR)
+Scaling stated by quote: none
+
+[134]
+Section heading: Subject - Valkorion (poster's note)
+Type: poster opinion
+Verbatim quote (poster's text): "NOTE: Valkorion was a native of ZAKUUL and had no affiliation to the Sith and Tenebrae [The Sith Emperor] by extension, and nothing suggest that he was willing to allow the latter to hollow him out."
+Source named in post: none (poster note)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+[135]
+Section heading: Subject - Valkorion (poster's Void analysis)
+Type: poster opinion
+Verbatim quote (poster's text): "Tenebrae [The Sith Emperor] was becoming stronger in passing years. Besides [1] which was also the fundamental source of his extended LIFE in passing years (Sith Sorcery in effect), he also fed on the life energies of his subjects such as the living and the dead inside the Dark Temple, the Hands, and Revan [Reborn] to feed his ever-increasing power in the process (total count unknown) and also to sate his endless hunger by extension. If he were to detach from [1], the planet would recover and the VOID would heal which happened circa 3630 BBY after Tenebrae [Valkorion] was routed from the mind of The Alliance Commander with support his own family members who turned on him due to his lack of commitment and empathy (see PART 2). Therefore, [1] was continuous investment from him (to be kept up):"
+Source named in post: none (poster analysis; "see PART 2" cross-reference)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+[136]
+Section heading: Subject - Valkorion (poster's Void analysis, quotes)
+Type: statement (in-game)
+Verbatim quote: ""He has consumed an entire world, but he still hungers." - Revan" and ""His hunger for immortality must constantly be fed." - Lord Dramath"
+Source named in post: Revan; Lord Dramath (quotes presented without work titles in the post text)
+Label: unclear (source work not named)
+Scaling stated by quote: none
+
+[137]
+Section heading: Subject - Valkorion (poster's Void analysis)
+Type: poster opinion
+Verbatim quote (poster's text): "and this was not an ordinary kept up but intentional retention of the (one and only) VOID in the Force engulfing the entire planet to one's image and benefit. The level of investment in this capacity should be roughly equivalent to this (or worse) in order to be kept up through the ages."
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: none
+
+[138]
+Section heading: Subject - Valkorion (poster's list of other feats)
+Type: poster opinion
+Verbatim quote (poster's text): "Besides [1], he reshaped another world, restrained powerful Force spirits, subjugated entire Sith Council(s), and kept millions of Sith in line:" followed by the statement "Many Jedi speculate that it is only Emperor's iron will that prevents the Sith Order from collapsing into chaos as it has so often done in the past." (Star Wars: The Old Republic: Encyclopedia)
+Source named in post: Star Wars: The Old Republic: Encyclopedia (for the statement)
+Label: Legends
+Scaling stated by quote: none
+
+[139]
+Section heading: Subject - Valkorion (power on display, circa 3950 BBY)
+Type: statement (novel)
+Verbatim quote: "The figure before him appeared unremarkable. The Emperor was clad in unadorned black robes, the raised hood effectively hiding his face. Yet Scourge could feel the power of the dark side emanating from him with such intensity that it caused a faint rippling of the air."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none
+
+[140]
+Section heading: Subject - Valkorion (immortalized frame under stress)
+Type: statement (novel)
+Verbatim quote: "As they drew closer to the throne room, Revan’s thoughts drifted back to his last confrontation with the Emperor. In all his battles, he had never faced an enemy with that kind of power. The dark side had radiated from him in palpable waves, his physical shell barely able to contain the crackling energy."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: "he had never faced an enemy with that kind of power" (Revan's view)
+
+=====================================================================
+SECTION: NOTABLE PRACTITIONERS of Transfer Life
+=====================================================================
+
+[141]
+Section heading: NOTABLE PRACTITIONERS, 1. Darth Bane
+Type: statement (novel)
+Verbatim quote: "Darth Bane had referred to sorcery as one of the purest expressions of the dark side of the Force, and yet he hadn’t been able to harness those energies with near the skill as had his onetime apprentice Zannah. Bane’s disciples, however, believed that he had experimented with a technique of even greater significance: that of essence transfer, which he had learned after acquiring and plundering the holocron of Darth Andeddu, and which involved the relocation of an individual’s consciousness into another body or, in some cases, a talisman, temple, or sarcophagus. Thus had the most powerful of the ancient Sith Lords survived death to haunt and harass those who would infiltrate their tombs."
+Source named in post: Star Wars: Darth Plagueis
+Label: Legends
+Scaling stated by quote: none direct (Bane "hadn't been able to harness those energies with near the skill" of Zannah)
+Note: the post's own note in the list says Bane "attempted this application on Darth Zannah in a duel but failed and met his end (Star Wars: Darth Bane: Rule of Two)."
+
+[142]
+Section heading: NOTABLE PRACTITIONERS, 2. Set Harth
+Type: statement (sourcebook)
+Verbatim quote: "Set Harth studied the Sith Holocron of Darth Andeddu (Star Wars: Darth Bane: Dynasty of Evil), and utilized this application on a supply of clones that he sourced for himself (Star Wars - D20 - Ultimate Adversaries)." [panel: panels/vitiate/vitiate-set-harth-studied-sith-holocron-darth-andeddu-1.png]
+Source named in post: Star Wars - D20 - Ultimate Adversaries; Star Wars: Darth Bane: Dynasty of Evil
+Label: Legends
+Scaling stated by quote: none
+Note: this is the post's summary text, not a direct quote from the sourcebook.
+
+[143]
+Section heading: NOTABLE PRACTITIONERS, 4. Abeloth
+Type: feat (novel)
+Verbatim quote: "Luke began to lose heart. He did not think he had the strength to kill her… again. And if he was lucky enough to succeed, how many times would she return? Not wanting to be trapped near the stage pit, he limped toward the front of the hall.
+
+“How many bodies do you have?” he asked.
+
+“More than you can kill.” The Callista-eyes shone, perhaps in delight at the fear she was causing Luke, and she began to advance. “I promise you that.”"
+Source named in post: Star Wars: Fate of the Jedi: Vortex (post's text names the entry as "4. An ancient dark entity (alias Abeloth)")
+Label: Legends
+Scaling stated by quote: Abeloth "reanimating dead bodies in her possession one after the other" (post's summary); "More than you can kill." (Abeloth's line)
+
+[144]
+Section heading: NOTABLE PRACTITIONERS (poster's note on Plagueis confession #2)
+Type: statement (journal, Plagueis)
+Verbatim quote: "**This brings us to Darth Plagueis's Confession # 2 in The Science of Life - a scientific journal authored by him at a later stage of his life:" -- and the image-only passage, source line: "From (Darth Plagueis, Book of Sith: Secrets from the Dark Side)" [panel: panels/vitiate/vitiate-brings-us-darth-plagueis-confession-science-life-1.png]
+Source named in post: Darth Plagueis, Book of Sith: Secrets from the Dark Side
+Label: Legends
+Scaling stated by quote: none stated in text layer
+Type note: image-only body; the text layer has no quote body.
+
+[145]
+Section heading: NOTABLE PRACTITIONERS (poster's conclusion on Voices)
+Type: poster opinion
+Verbatim quote (poster's text): "Emphasis mine. Darth Plagueis conceded that the effort of creating a VOICE in another living being is riskier than simply sustaining one's life through Midi-chlorian Manipulation, and the former underlined ability makes it possible to cheat death by extension. This perspective is independently corroborated in the case of Tenebrae [VOICES] (see PART 2 for evidence). The act of creating a VOICE in another living being is independently established to be the most challenging of applications in D6 sourcebooks by extension (see the bottom panel of the table above)."
+Source named in post: none (poster analysis, citing Plagueis confession #2 and D6)
+Label: n/a (opinion)
+Scaling stated by poster: creating a VOICE is "the most challenging of applications in D6 sourcebooks"
+
+[146]
+Section heading: IMPORTANT (Darth Plagueis vs Palpatine)
+Type: poster opinion
+Verbatim quote (poster's text): "Although Darth Plagueis believed that he had the capacity to learn and master all manner of Sith techniques in time, Palpatine (Prequel Trilogy) murdered him after intoxicating him before his Sith Master could learn to do more and become more powerful consequently (circumstantial succession circa 32 BBY) - related information is in The Most Powerful Force-user Debate companion blog (see 1.2. subsection). Darth Plagueis could defeat Palpatine (Prequel Trilogy) in a different situation as per author James Luceno however. This brings us to Palpatine (Prequel Trilogy)'s Confession # 1:"
+Source named in post: "author James Luceno" (per poster); Palpatine confession image-only
+Label: Legends (Luceno's Darth Plagueis, cited by poster)
+Scaling stated by poster: Plagueis "could defeat" Palpatine in a different situation, per Luceno (poster's claim)
+
+[147]
+Section heading: IMPORTANT (Palpatine, Confession #1)
+Type: statement (novel)
+Verbatim quote: "While he accepted that he and Plagueis were more than equal to the most powerful of the Jedi Order, he understood that they were no match for their combined strength—the Sith imperative notwithstanding. The Jedi would fall only with the full collaboration of the dark side; that was, only when the dark side of the Force was ready and willing to conspire in their downfall."
+Source named in post: Star Wars: Darth Plagueis (the post writes "Star Wars: Darth Plaguies" in the source line)
+Label: Legends
+Scaling stated by quote: Palpatine and Plagueis "more than equal to the most powerful of the Jedi Order"; "no match for their combined strength"
+
+[148]
+Section heading: IMPORTANT (poster's comparison of Plagueis and Palpatine)
+Type: poster opinion
+Verbatim quote (poster's text): "Both could not challenge the Jedi Order out in the open as a duo, let alone individually."
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: neither Plagueis nor Palpatine could challenge the Jedi Order openly, as duo or alone
+
+[149]
+Section heading: IMPORTANT (poster's ranking of Tenebrae [The Sith Emperor])
+Type: poster opinion
+Verbatim quote (poster's text): "Tenebrae [The Sith Emperor] was more than equal to the most powerful of the Jedi Order as well. In addition to the obvious, the ability to create VOICES in other living beings on a regular basis suggest a level of the command of the Force exceeding that of Darth Plagueis and also Palpatine by a long shot; the latter could not replicate the underlined even in times of the Dark Empire - the days of his implied peak. It is increasingly apparent that Tenebrae [The Sith Emperor] surpassed every Sith Lord in time. His growth in strength and abilities was a continous theme, and this dynamic will be further apparent at the stage of Tenebrae [VOICES] discussed in PART 2."
+Source named in post: none (poster analysis)
+Label: n/a (opinion)
+Scaling stated by poster: "exceeding that of Darth Plagueis and also Palpatine by a long shot"; "surpassed every Sith Lord in time"
+
+
+=====================================================================
+SECTION: CONTINUITY / SCALING (Revan, Yoda, Malak, Plagueis chains)
+=====================================================================
+
+[150]
+Section heading: Scaling (Revan [Reborn] footnote *)
+Type: statement (novel)
+Verbatim quote: "He had learned to balance on the knife-edge between them, drawing on both the light and dark sides for strength."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none (the post's footnote says "This man is an exception to the norm among the Jedi")
+
+[151]
+Section heading: Scaling (Revan [Reborn], battle precognition, guard fight)
+Type: feat (novel)
+Verbatim quote: "Revan landed on the ground and wheeled around to face the other man. He thrust out with the Force, the impact hitting the soldier square in the chest. Instead of sending him flying, it only staggered him back half a step—this close to the Emperor they were sworn to protect, the guards were able to draw on his power to protect themselves.
+
+Still, the slight stumble gave Revan enough time to draw his lightsaber and go on the offensive. He came in with a high, overhand chop—an obvious feint meant to draw the defenses of his opponent upward, leaving his legs exposed to a quick follow-up strike.
+
+The guard recognized the familiar ploy, countering it by parrying the overhand chop then quickly dropping his blade low to intercept the inevitable slash at his legs. Only Revan didn’t go for his legs. Anticipating that his opponent’s defenses would go low, he kept his blade up high, allowing him to end the battle with a horizontal cut across the man’s suddenly exposed throat."
+Source named in post: Star Wars: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: none (the post cites this for "battle precognition")
+
+[152]
+Section heading: Scaling (Revan [Reborn], Encyclopedia)
+Type: statement (encyclopedia)
+Verbatim quote: "Three centuries ago, Revan wielded the dual philosophies of Sith passion and Jedi tranquility to conquer his enemies; he even nearly assassinated the Sith Emperor."
+Source named in post: Star Wars: The Old Republic: Encyclopedia
+Label: Legends
+Scaling stated by quote: "he even nearly assassinated the Sith Emperor" (Revan vs Emperor)
+
+[153]
+Section heading: Scaling (Revan [Reborn] vs Yoda, Ultimate Visual Guide)
+Type: statement (sourcebook)
+Verbatim quote: "Called "Sith lightning," these charges cause excruciating pain and weaken life, and it is a challenge for even the most powerful Jedi Masters to deflect such bursts."
+Source named in post: Star Wars: The Ultimate Visual Guide
+Label: Legends
+Scaling stated by quote: "even the most powerful Jedi Masters" (no named comparator; the post uses it for the Revan vs Yoda comparison)
+Note: duplicate of [115], included here because the post repeats it in the Yoda comparison.
+
+[154]
+Section heading: Scaling (Yoda vs Sith Lightning, Mysteries of the Jedi)
+Type: statement (sourcebook)
+Verbatim quote: "Yoda is an immensely powerful Jedi who can control blue crackling Force lightning."
+Source named in post: Star Wars: Mysteries of the Jedi
+Label: Legends
+Scaling stated by quote: "immensely powerful" (Yoda)
+
+[155]
+Section heading: Scaling (Yoda vs Dooku, Episode II novelization)
+Type: feat (novelization)
+Verbatim quote: "Dooku gave a little growl and thrust forth his hand, loosing a line of blue lightning at the diminutive Master.
+
+Yoda caught it in his own hand and turned it aside, but far from easily.
+
+"Powerful you have become, Dooku," Yoda admitted, and the Count grinned-but Yoda promptly took that grin away by adding, "The dark side I sense in you."
+
+"I have become more powerful than any Jedi," Dooku countered.
+
+"Even you, my old Master!"
+
+More lightning poured forth from Dooku's hand, but Yoda continued to catch it and turn it, and seemed to become even more settled in his defensive posture.
+
+"Much to learn you still have," Yoda remarked.
+
+Dooku disengaged the futile lightning assault. "It is obvious this contest will not be decided by our knowledge of the Force, but by our skills with a lightsaber.""
+Source named in post: Star Wars: Episode II - Attack of the Clones: Novelization
+Label: Legends (novelization of a canon film; the novelization itself is Legends)
+Scaling stated by quote: Yoda caught the lightning "but far from easily"; Dooku: "I have become more powerful than any Jedi"
+
+[156]
+Section heading: Scaling (Yoda, poster's gloss)
+Type: poster opinion
+Verbatim quote (poster's text): "- but this is a challenging task for him:" and "- because he takes time to be settled in his defensive posture. This problem is further apparent when he confronts Palpatine [Prequel Trilogy] by the end of The Clone Wars:"
+Source named in post: none (poster framing of [154] and [155])
+Label: n/a (opinion)
+Scaling stated by poster: Yoda is slow to settle into defense
+
+[157]
+Section heading: Scaling (Yoda vs Palpatine, poster's gloss)
+Type: poster opinion
+Verbatim quote (poster's text): "Since Yoda takes time to be settled in his defensive posture, Palpatine [Prequel Trilogy] knocked him out with his initial blast of Sith Lightning but wasted precious time gloating. This is not to say that Yoda can cope with virtually any expression of Sith Lightning - he have limits even in his settled form."
+Source named in post: none (poster analysis; the Palpatine vs Yoda fight is cited as "by the end of The Clone Wars")
+Label: n/a (opinion)
+Scaling stated by poster: Palpatine "knocked him out with his initial blast of Sith Lightning"
+
+[158]
+Section heading: Scaling (Revan [Reborn] vs Yoda, poster's conclusion)
+Type: poster opinion
+Verbatim quote (poster's text): "Revan [Reborn] scale from Yoda in raw power and as a warrior nevertheless. Darth Nyriss could handle both Lord Scourge [Original] and Meetra Surik in a duel and would have incinerated them with a substantial blast of Sith Lightning but Revan [Reborn] tackled it comfortably. To be fair, Lord Scourge [Original] and Meetra Surik are not mooks but accomplished warriors with considerable hype and scaling chains shaping them."
+Source named in post: none (poster analysis; cites the Nyriss fight in [103] and [101])
+Label: n/a (opinion)
+Scaling stated by poster: Revan "scale[s] from Yoda in raw power and as a warrior"
+
+[159]
+Section heading: Scaling (Darth Malak, Star Forge, poster's note **)
+Type: poster opinion
+Verbatim quote (poster's text): "**Darth Malak received much power from the Star Forge; his scaling is not in SYNC with other Sith Lords in natural capacity due to this factor. Tales of his remarkable strength were passed down from one Sith to another through the ages as well:"
+Source named in post: none (poster note; quote in [160])
+Label: n/a (opinion)
+Scaling stated by poster: Malak's scaling is not in sync with other Sith in natural capacity because of Star Forge power
+
+[160]
+Section heading: Scaling (Darth Malak, Plagueis dialogue)
+Type: statement (novel)
+Verbatim quote: "“Your thoughts betray you,” Plagueis said. “Do you think that Malak’s powers were weakened by Revan’s lightsaber? Bane by being encrusted in orbalisks? Do you think Gravid’s young apprentice was hindered by the prosthesis she was forced to wear after fighting him?”
+
+“No, Master.”"
+Source named in post: Star Wars: Darth Plagueis
+Label: Legends
+Scaling stated by quote: Malak's "powers" were not "weakened by Revan’s lightsaber" (question implies strength)
+
+[161]
+Section heading: Scaling (Expanded scaling chain, poster)
+Type: poster opinion
+Verbatim quote (poster's text): "Revan [Reborn]* >> Darth Malak [Star Forge]** >> Exar Kun (prime years) >> Freedon Nadd (prime years) >> Naga Sadow (prime years)
+
+&
+
+Revan [Reborn]* >> Darth Malak [Star Forge]** >> Darth Revan > Darth Malak > Revan (Mandalorian Wars concluded) >> Lucien Draay (prime years) = Darth Vader (Scourge of the Jedi) <<< Darth Vader (Episode 3)"
+Source named in post: none (poster's scaling chains; the post lists them after the Revan and Yoda sections, citing "the table" for the basis)
+Label: n/a (opinion)
+Scaling stated by poster: chains as written above
+
+[162]
+Section heading: Scaling (Final expanded chain, poster)
+Type: poster opinion
+Verbatim quote (poster's text): "Putting all of the above into perspective, the expanded SCALING CHAIN is as follows:
+
+Tenebrae at the stage of creating his FIRST VOICE >>>>> Tenebrae [The Sith Emperor] circa 4999 BBY = Palpatine (Episode 6) > Revan [Reborn] >> Yoda (Episode 3) = Darth Malak [Star Forge] = Darth Plagueis (prime years) >> Marka Ragnos (prime years) = Tenebrae [Original] circa 5000 BBY = Exar Kun (prime years) >> Freedon Nadd (prime years) >> Naga Sadow (prime years) >> Darth Plagueis circa 67 BBY > Darth Bane (implied peak) >>>> The Brotherhood of Darkness Sith Master(s)"
+Source named in post: none (poster's chain; footnotes and cited sources as above)
+Label: n/a (opinion)
+Scaling stated by poster: chain as written above (Tenebrae at First Voice above Tenebrae [Sith Emperor] 4999 BBY, above Palpatine (Episode 6), above Revan [Reborn], above Yoda (Episode 3))
+
+[163]
+Section heading: Scaling (poster closing line)
+Type: poster opinion
+Verbatim quote (poster's text): "This discussion is continued in PART 2."
+Source named in post: none
+Label: n/a
+Scaling stated by poster: none
+
+=====================================================================
+SECTION: Items the post does not quote in the text layer (image-only)
+=====================================================================
+
+[164]
+Section heading: Various (image-only entries)
+Type: statement (image-only)
+Verbatim quote: image-only. The following source-line captions appear in the post with no quote body in the page text: "From (Star Wars: The Old Republic: Encyclopedia)" (several times, including after "Naga Sadow ... Sith Sorcery" and "Dark Council"), "From (Star Wars: The Old Republic: The Journal of Master Gnost-Dural)" (after the Sadow and Sith Sorcery sections), "From (Star Wars: Darth Plagueis)" (Plagueis Confession #1 image), "From (Darth Plagueis, Book of Sith: Secrets from the Dark Side)" (Plagueis Confession #2 and sever-Force application), "From (Jedi vs Sith - The Essential Guide to the Force)" (most powerful application a Jedi could wield), "From (Star Wars: Force and Destiny - Core Rulebook)" (Force-user imbalance, Balance of the Force), "From (Star Wars: The Old Republic: Encyclopedia)" (Tenebrae [Original] ritual; Revan and Malak; Telepathy examples). [panel: panels/vitiate/vitiate-tenebrae-original-1.png; panels/vitiate/vitiate-confirmation-below-1.jpg; panels/vitiate/vitiate-star-wars-old-republic-enyclopedia-definitive-publication-3.jpg]
+Source named in post: as listed in each caption
+Label: as per each source (see the entries above)
+Scaling stated by quote: not stated in the page text
+Note: these image blocks are counted here and not as separate quote entries. The post's text layer does not contain their quote bodies. Image count on the page: 60.
+
+=====================================================================
+END OF EXTRACTION
+Entries: [1] to [164], plus [57a]
+Part 2 URL: https://comicvine.gamespot.com/profile/s_w_legend/blog/tenebraevitiatevalkorion-character-overview-and-re/154767/
+=====================================================================
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### vitiate-p1
+- Reachable at following LINK . (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-reachable-following-link-1.jpg]
+
+### vitiate-p1 / 2.1. STRONGER than all SITH in history by now
+- Luke Skywalker 's thoughts about Marka Ragnos in times of the Disciples of Ragnos circa 14 ABY : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-luke-skywalker-thoughts-marka-ragnos-times-disciples-1.png]
+- *** Marka Ragnos made both Naga Sadow and Ludo Kreesh submit even in death: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-marka-ragnos-made-both-naga-sadow-ludo-1.png]
+- - but he have his fair share of claims to fame with his demonstrated proficiency in Sith Sorcery : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-he-fair-share-claims-fame-demonstrated-proficiency-1.png]
+- A glimpse of Naga Sadow in near-death slumber on YAVIN 4 : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-glimpse-naga-sadow-near-death-slumber-yavin-1.png]
+- Naga Sadow is counted among the most powerful and legendary Sith Lords in history: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-naga-sadow-counted-among-powerful-legendary-sith-1.png]
+
+### vitiate-p1 / 2.2. PROLONGING LIFE (or Corporeal Survival) via SITH SORCERY
+- Tenebrae [Original] after NATHEMA : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-tenebrae-original-after-nathema-1.jpg]
+
+### vitiate-p1 / 2.3. CONTINUOUS GROWTH in STRENGTH and ABILITIES
+- Tenebrae [The Sith Emperor] reshaped planet DROMUND KAAS to his image. (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-tenebrae-sith-emperor-reshaped-planet-dromund-kaas-1.jpg]
+
+### vitiate-p1 / Sith Sorcey (Alter Environment)
+- NOTE (1): The aforementioned SHIFT in climatic conditions had a profound impact on the flora and fauna of the planet by extension. (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-aforementioned-shift-climatic-conditions-profound-impact-flora-1.png]
+- The seemingly permanent violent electrical storms necessitated construction of Lightning Spires on Dromund Kaas to make it habitable: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-seemingly-permanent-violent-electrical-storms-necessitated-construction-1.jpg]
+- Lord Kallig - one of the Force spirits trapped inside the Dark Temple - for reference: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-lord-kallig-one-force-spirits-trapped-inside-1.png]
+
+### vitiate-p1 / Drain Life Essence
+- Tenebrae [The Sith Emperor] overwhelmed the legendary veterans of the Mandalorian Wars ( Revan and Malak ) in a confrontation. (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-tenebrae-sith-emperor-overwhelmed-legendary-veterans-mandalorian-1.png]
+- Darth Revan was captured by the Jedi and they mindwiped him circa 3959 BBY : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-darth-revan-captured-jedi-they-mindwiped-him-1.png]
+- Revan [The Prodigal Knight] recalls something circa 3953 BBY : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-revan-prodigal-knight-recalls-something-circa-3953-1.png]
+
+### vitiate-p1 / Telepathy
+- Example 2 - Tenebrae [The Sith Emperor] warped the minds of the legendary Jedi heroes Revan * and Malak with barely an effort: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-example-tenebrae-sith-emperor-warped-minds-legendary-1.png]
+- Confirmation below: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-confirmation-below-2.jpg]
+
+### vitiate-p1 / Subject - Valkorion
+- Set Harth maintened a low profile in the course of his journeys: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-set-harth-maintened-low-profile-course-journeys-1.png]
+- Mr. Leland Chee is the member Tasty Taste in that board (if it still exists). More importantly, he is an employee of Lucasfilm and Keeper of the Holocron : (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-mr-leland-chee-member-tasty-taste-board-1.png]
+- There is a marketing blurb hyping Darth Plagueis as the most powerful Sith Lord ever: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-marketing-blurb-hyping-darth-plagueis-powerful-sith-1.jpg]
+- - and unreliable indicators of power levels: (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-unreliable-indicators-power-levels-1.png]
+- Star Wars: The Old Republic: Enyclopedia is DEFINITIVE publication dated October 15, 2012 and recognize events up to Star Wars: Episode 4 - A New Hope with spec (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-star-wars-old-republic-enyclopedia-definitive-publication-1.png; panels/vitiate/vitiate-star-wars-old-republic-enyclopedia-definitive-publication-2.png]
+- Yoda 's superiority to Revan [Reborn] is increasingly debatable. For example, Star Wars: The Complete Encyclopedia advance Yoda as the most powerful practitione (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-yoda-superiority-revan-reborn-increasingly-debatable-example-1.jpg]
+- Star Wars: The Complete Encyclopedia does not cover Revan [Reborn] and his abilities by extension and same is true for a number of sources expanding on galactic (issue unknown (source not named in thread)) [panel: panels/vitiate/vitiate-star-wars-complete-encyclopedia-cover-revan-reborn-1.png]

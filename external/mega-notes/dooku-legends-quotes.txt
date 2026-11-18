@@ -1,0 +1,109 @@
+Dooku (Legends) — research extraction
+Page opened: https://starwars.fandom.com/wiki/Dooku/Legends
+Final URL: https://starwars.fandom.com/wiki/Dooku/Legends
+
+Scope / article caveats
+- This is the Wookieepedia/Fandom article "Dooku" with the Legends subpage URL above.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article warns that parts are out of date and that Legends material is affected by The Clone Wars project; it says no definitive Legends Clone Wars timeline was established and exact chronology is unknown.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Bracketed numbers below are the article's own citations, not added sourcing. I scrolled to and reviewed the article's "Notes and references" section.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Article sections containing the relevant material
+- Biography: Jedi > Childhood; Leader of the Separatists > Battle of Geonosis > Confrontation with the Jedi; Clone Wars > Duel on Behpour; Clone Wars > Treachery of the Sith; Clone Wars > The final moves > Duel above Coruscant.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Personality and traits.
+- Powers and abilities > Lightsaber training; Powers and abilities > Force abilities.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Concrete feats and cited statements
+
+Early Force / training feats (Biography > Jedi > Childhood; Powers and abilities > Force abilities)
+- As a youngling, Dooku was described as the swiftest learner in his year, particularly apt at telekinesis; he could easily move objects with the Force at age seven, and won the Twelve-and-Under push-feather tournament at age nine. [1][17][18]
+- The article says Yoda frequently sparred with and trained Dooku; in later years few Jedi Masters were considered equal to Dooku's lightsaber skill. It calls Dooku Yoda's most gifted Padawan and says he became powerful in the Force. [1][17][18][19]
+  Source: Most Precious Weapon ; Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Dooku/Legends" rev 15726887, ref 19,1; approximate match 0.69, verify; agrees with the entry's own ref marker]
+- As a Jedi Master, recordings of Dooku's lightsaber demonstrations were mandatory viewing for two generations of Padawans; a lecture on telekinesis was preserved in a holocron. The lecture says he effortlessly moved a massively heavy pot when Yoda asked him to move it. [1]
+- The Force-abilities section repeats that Dooku had better Force connection than any Padawan according to Lorian Nod, and that Dooku retained Living Force/healing knowledge after becoming a Sith; it gives the concrete example of healing himself from a deadly plague. [1][25]
+- The same section says Dooku could tame/bend animals (notably a krayt dragon), use Force Stun (knocking Anakin unconscious during the Jedi Temple raid), mind-sift for information, hide his presence with Qey'tek meditation, and use Force choke/grip. These are article claims with citations [25][53][61][67], not independent verification here.
+
+Geonosis: Obi-Wan Kenobi, Anakin Skywalker, and Yoda (Biography > Battle of Geonosis > Confrontation with the Jedi)
+- Dooku's cited exchange with Obi-Wan is: "As you see, my Jedi powers are far beyond yours. Now, back down." [7] This is dialogue/hype, not by itself a feat.
+- Dooku hit Anakin with Force lightning and telekinetically threw him into a hangar wall, temporarily incapacitating him. [7]
+- The article says Obi-Wan grounded another lightning blast, but was outmatched in blade-to-blade combat; Dooku cut Obi-Wan's arm and thigh, leaving him incapacitated. [7]
+- After Anakin recovered and joined the fight, Dooku adjusted tactics, destroyed one of Anakin's two blades, found an opening, and sliced off Anakin's forearm. The article describes Dooku as victorious against both Jedi and preparing to flee. [7]
+- Yoda confronted him. Dooku used lightning and hurled machinery/roof sections; when that failed he chose a lightsaber duel. The article says Dooku stalemated Yoda but could not overcome him; Yoda's speed and Ataru eventually proved superior. [7]
+- Dooku escaped by toppling a massive power column toward the wounded Obi-Wan and Anakin, forcing Yoda to break off and rescue them. [7]
+- Yoda/Dooku dialogue: Yoda says, "Powerful you have become, Dooku. The dark side I sense in you." Dooku replies, "I've become more powerful than any Jedi. Even you." [7] This is a character claim, not a feat; the surrounding account says Yoda was too powerful to defeat.
+
+Duel on Behpour (Biography > Clone Wars > Balance of power > Duel on Behpour)
+- Dooku swatted away incoming blaster bolts with his saber and used the Force to throw attackers and push a ship off a docking platform. [102]
+- Obi-Wan and Mace Windu confronted him. The article says the two Jedi Masters forced him to surrender, defeated his MagnaGuards, then defeated Dooku himself; he fell from the docking platform, defeated but alive. [102]
+- This is a clear loss to the Obi-Wan/Windu team, rather than a solo Obi-Wan result.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Anakin Skywalker encounters (Biography > Treachery of the Sith > Skirmish on Naboo; The final moves > Duel above Coruscant)
+- In the Skirmish on Naboo account, Dooku engaged Anakin in a lightsaber duel, was physically overpowered in two blade locks, then used surrounding lights, MagnaGuards, Force choke, and Force lightning to subdue him and place him in a containment field. [111]
+- In another Naboo confrontation, Dooku expected an easy win but found Anakin's aggression and strength taxing. Anakin knocked him down stairs, grabbed his throat, and Dooku escaped by blasting him with Force lightning. Obi-Wan later joined, and Dooku withdrew by shuttle. [112]
+- The article quotes Dooku praising Obi-Wan as a "worthy adversary" while saying, "I cannot say the same about your young apprentice." [112] This is Dooku's opinion/taunt, not a feat.
+- At the Battle of Coruscant aboard the Invisible Hand, Dooku initially fought both Obi-Wan and Anakin while retreating defensively. When their improved styles were revealed, he was caught off guard but adapted. [2][32]
+- Dooku Force-pushed Obi-Wan, levitated him, Force-choked him, threw him into a railing, and brought the railing down on him; Anakin then continued alone. [2]
+- Dooku's Dun Möch taunt about Anakin's fear/anger backfired. Anakin tapped into rage/the dark side, overwhelmed Dooku's defenses, and severed both of Dooku's hands. On Palpatine/Sidious's command, Anakin decapitated the helpless Dooku. [2][32]
+- The article's own scaling says Dooku could fight the greatly improved Anakin and Obi-Wan to a standstill for a time, but Anakin's rage was the turning point; it also attributes Dooku's age and stamina as liabilities in an extended duel. [2][32]
+
+Yoda rematch on Vjun (Biography > The final moves > Meeting on Vjun)
+- After Yoda attempted to persuade him to return to the Jedi, Dooku fought him briefly when Anakin and Obi-Wan breached the château. The article says Dooku slightly wounded Yoda but could not defeat him and escaped. [17]
+- The article's Powers and abilities section presents this as a statement that Dooku later dueled Yoda on equal footing and was the first swordsman to slightly wound him, while still being unable to defeat him. Treat this as the article's own scaling claim, not an extrapolation. [17]
+
+Sidious / Palpatine (Powers and abilities > Force abilities; Biography > Hitches in the master plan)
+- The Force-abilities section explicitly says Dooku was outclassed by both Yoda and Sidious because they easily overpowered him in direct contests. [9]
+- During the Sifo-Dyas investigation, Sidious reached through the Force across the galaxy and choked Dooku as punishment for his failures, then threatened to kill him if he failed. [27]
+- This is a direct Force-power interaction, not a lightsaber duel. The page's broader lightsaber statement says Dooku's skill was enough to make Sidious and Darth Plagueis regard him as a possible rival/threat; that is a cited character/opinion statement, not a demonstrated victory. [30]
+- Sidious ultimately betrayed Dooku and ordered Anakin to kill him; the article says Dooku realized he had been a disposable pawn and was never Sidious's intended heir. [2][17][32]
+
+Grievous (Biography > Darth Tyranus is born > Creating Grievous; The final moves > The brink of disaster; Powers and abilities > Lightsaber training)
+- Dooku personally trained Grievous in lightsaber combat and the article says this made the cyborg an expert duelist. [27]
+- During a practice spar, Dooku effortlessly parried and outpaced Grievous's lunges, instructed him to be unorthodox and control the opponent's central line, and disarmed him of one weapon. He advised Grievous to retreat if intimidation or surprise failed. [15][27]
+- The article describes this as Dooku demonstrating Makashi mastery and training his "finest General"; that wording is evaluative/hype around the concrete sparring result. [27]
+- Dooku later supervised Grievous's campaigns and tested him against Jedi, but the article does not present a clean, full-power Dooku-versus-Grievous duel. The named Grievous encounter in this article is the training spar above.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Additional combat/power statements and scaling in the article (marking opinion/hype)
+- The opening biography says Dooku was one of the most renowned swordsmen in the galaxy, surpassed only by Yoda and equal to Mace Windu. [1]
+- The Lightsaber training section calls him next to Yoda the finest lightsaber instructor in Jedi history, says he may have been the greatest blade-only duelist, and says he once bested Mace Windu in sparring. These are article statements, not all narrated as on-page feats. [1][3][17][27][30]
+- Qui-Gon Jinn's spirit tells Yoda: "He is a fencer. Leverage, position, advantage—they are as natural to him as breathing." [17] This is a character assessment, not a feat.
+- The article calls Dooku the greatest Makashi user of his time and says Sidious chose him partly because the rare form gave the Sith an edge against Jedi. This is scaling/commentary; concrete demonstrations are his Geonosis duel, his spar with Grievous, and the final Invisible Hand duel. [9][138]
+- Jocasta Nu's statement is: "His knowledge of the Force was…unique." [9] Character opinion.
+- Yoda is quoted calling Dooku "Our greatest student! Our greatest failure." [17] Character opinion and thematic judgment, not a measurable feat.
+- The article also says that by 20 BBY Yoda thought Dooku's lightsaber skill had "gone backwards" because Dooku focused on Force abilities; it then notes the later Vjun rematch as apparently contrary to that claim. This is an internal article tension, not a reason to invent a resolution. [139][17]
+
+Reference section reviewed — selected citation key used above
+- [1] Jedi vs. Sith: The Essential Guide to the Force
+- [2] Star Wars: Episode III Revenge of the Sith
+- [3] The New Essential Guide to Characters
+- [7] Star Wars: Episode II Attack of the Clones
+- [9] Star Wars: Episode II Attack of the Clones novelization
+- [15] Star Wars: Clone Wars — "Chapter 22"
+- [16] Star Wars: The Clone Wars — "Witches of the Mist"
+- [17] Yoda: Dark Rendezvous
+- [18] Legacy of the Jedi
+- [25] Star Wars: Jango Fett: Open Seasons
+- [27] Labyrinth of Evil
+- [30] Darth Plagueis
+- [32] Star Wars: Episode III Revenge of the Sith novelization
+- [53] "Precipice" on Hyperspace (article; marked obsolete by the page)
+- [61] Star Wars: Clone Wars — "Chapter 7"
+- [67] Star Wars: The New Droid Army
+- [102] Star Wars: The Clone Wars: Republic Heroes
+- [111] Star Wars: The Clone Wars — "Shadow Warrior"
+- [112] Star Wars: The Clone Wars — "Crisis on Naboo"
+- [114] Star Wars: The Clone Wars — "Brothers"
+- [115] Star Wars: The Clone Wars — "Massacre"
+- [129] Obsession 5
+- [138] The Official Star Wars Fact File 68, "Count Dooku's Lightsaber"
+- [139] "Yoda Uncovered" — Star Wars Comic 7.8
+- [140] The Jedi Path
+- [141] "Fightsaber: Jedi Lightsaber Combat" — Star Wars Insider 62
+- [142] Republic 83
+- [143] Star Wars: Episode II Attack of the Clones video game
+

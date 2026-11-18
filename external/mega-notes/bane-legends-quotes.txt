@@ -1,0 +1,281 @@
+Research extraction: Darth Bane | Wookieepedia (Fandom)
+Source URL: https://starwars.fandom.com/wiki/Darth_Bane
+Final URL: https://starwars.fandom.com/wiki/Darth_Bane
+Scope: Article text through the end of “Notes and references.” Navigation, source-list entries, and trivia with no feat are omitted. No collapsed <details>/<summary> sections were present; the article was scrolled through to the end.
+
+Format: quoted text is copied from the article. “Scaling/connection” records only relationships the article itself states. Hype, character opinion, or creator commentary is labeled as a statement rather than a feat.
+
+[Lead]
+- Type: cited statement (character’s own account; not an independently demonstrated feat).
+  Article quote: “The Sith killed each other. Victims of their own greed. But from the ashes of destruction, I was the last survivor.”
+  Scaling/connection: The quote is attributed to Darth Bane’s specter. The lead identifies Bane as the sole survivor of the Brotherhood of Darkness’s destruction by the Jedi Order.
+  Source: Star Wars: The Clone Wars — "Sacrifice" [per Wookieepedia "Darth Bane" rev 15707280, ref 8; exact text match]
+- Type: concrete historical feat/role.
+  Article quote: “Darth Bane was a legendary human male Dark Lord of the Sith and the sole survivor of the destruction of the Brotherhood of Darkness at the hands of the Jedi Order during the Jedi-Sith War a thousand years before the Clone Wars.”
+  Scaling/connection: The article connects his survival to the Jedi-Sith War and places it a thousand years before the Clone Wars.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Bane" rev 15707280 but it has no inline citation in its paragraph; exact text match)
+- Type: concrete feat/achievement.
+  Article quote: “As the only surviving Sith, Bane recognized that Sith infighting had weakened them to the point that the Jedi could destroy them.”
+  Scaling/connection: The article explicitly connects Sith infighting to the Jedi’s ability to destroy them.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Bane" rev 15707280 but it has no inline citation in its paragraph; exact text match)
+- Type: concrete achievement.
+  Article quote: “To rectify this, Bane reformed the Sith and created the Rule of Two, mandating that there could be only two Sith—a Master and an apprentice—at any given time.”
+  Scaling/connection: The Rule of Two is the article’s stated response to the Sith weakness caused by infighting.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Bane" rev 15707280 but it has no inline citation in its paragraph; exact text match)
+- Type: legacy/causal statement.
+  Article quote: “These new Sith would begin a plot to destroy the Jedi and conquer the galaxy in secret.”
+  Scaling/connection: The plot is attributed to the Sith created/reformed under Bane’s Rule of Two.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Bane" rev 15707280 but it has no inline citation in its paragraph; exact text match)
+
+[Biography — The last survivor]
+- Type: cited statement (not a feat).
+  Article quote: “Weakened by their own hand, the Sith were nearly wiped from existence by the opportunistic Jedi. But there was a Sith Lord who survived the culling—the great Darth Bane.”
+  Scaling/connection: Darth Sidious is the speaker; the statement compares Bane’s survival with the near-destruction of the Sith by the Jedi.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: historical/capability context.
+  Article quote: “The Sith Order in his time was nearly equal in number with the Jedi Order; at the height of their power, the Sith's dominion had spread across the galaxy.”
+  Scaling/connection: This describes the scale of the Sith order and dominion during Bane’s era, not a personal feat by Bane.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: concrete feat.
+  Article quote: “The infighting eventually led to the defeat of their order at the Mid Rim planet Ruusan in 1032 BBY, as the Jedi were able to all but destroy the weakened Sith.”
+  Scaling/connection: The article directly links the weakened Sith’s defeat to their infighting and to the Jedi.
+  Source: Star Wars: The Dark Side ; Star Wars: The Visual Encyclopedia ; Star Wars Helmet Collection: Snowtrooper Databank A-Z: Jelucan–Lord Junn ; Star Wars: Timelines ; Darth Bane in the Databank (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 11,14,15,16,5; exact text match]
+- Type: concrete feat.
+  Article quote: “Bane was the sole survivor of the Jedi-Sith War, as he organized the eradication of all the other Sith.”
+  Scaling/connection: This is the article’s clearest statement that Bane personally organized the removal of the other Sith; it scales his survival against the rest of the Sith Order in that war.
+  Source: Star Wars Encyclopedia: The Comprehensive Guide to the Star Wars Galaxy ; Star Wars: The Dark Side [per Wookieepedia "Darth Bane" rev 15707280, ref 4,11; exact text match]
+
+[Biography — The Rule of Two]
+- Type: cited statement (doctrine, not a combat feat).
+  Article quote: “There should only be two, no more, no less. One to embody power, the other one to crave it.”
+  Scaling/connection: Attributed to Darth Bane; it defines the Master/apprentice structure.
+  Source: Star Wars Bust Collection: Darth Maul Star Wars Universe: Jedi vs. Sith: An Imbalance in the Force [per Wookieepedia "Darth Bane" rev 15707280, ref 17; exact text match]
+- Type: concrete achievement.
+  Article quote: “Bane recognized that the old Sith traditions were a dead end and became determined to ensure the continuity of the Sith.”
+  Scaling/connection: The article presents continuity of the Sith as Bane’s objective.
+  Source: Darth Bane in the Databank (backup link) ; "Darth Maul and Other Followers of the Dark Side" — Star Wars Encyclopedia [per Wookieepedia "Darth Bane" rev 15707280, ref 5,13; exact text match]
+- Type: concrete achievement.
+  Article quote: “To this end, he created a new Sith philosophy that succeeded the older doctrine of the dyad in the Force, a rare and powerful Force-bond that existed between two individuals.”
+  Scaling/connection: The article explicitly compares the new philosophy with the older Force dyad doctrine, which it calls rare and powerful.
+  Source: Darth Bane in the Databank (backup link) ; Star Wars: The Rise of Skywalker: Expanded Edition [per Wookieepedia "Darth Bane" rev 15707280, ref 5,18; exact text match]
+- Type: concrete achievement/doctrine.
+  Article quote: “Instead of building a new army of Sith Lords, Bane's Rule of Two mandated that there could be only two Sith at a given time: a Sith Master to embody power and a Sith apprentice to crave it.”
+  Scaling/connection: The limitation is explicitly contrasted with building an army of Sith Lords.
+  Source: The Star Wars Book [per Wookieepedia "Darth Bane" rev 15707280, ref 19; exact text match]
+- Type: succession rule (statement, not a personal feat).
+  Article quote: “Only by slaying their master could the Sith apprentice gain that title and take on their own apprentice, or they could die in the attempt, proving themselves unworthy of the Sith legacy, and be replaced.”
+  Scaling/connection: The article states this as the mechanism by which later Sith inherit the power/title.
+  Source: Star Wars Helmet Collection: AT-ST Pilot Weapons & Uniforms: The Sith ; "Secrets of the Sith: A Dark Side Chronicle" — Star Wars Insider 186 [per Wookieepedia "Darth Bane" rev 15707280, ref 20,21; exact text match]
+- Type: strategic statement.
+  Article quote: “Those Sith would favor the shady tactics of trickery and scheming to destroy their enemies rather than outright force.”
+  Scaling/connection: The article connects this change in tactics to the Rule of Two.
+  Source: Darth Bane in the Databank (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 5; exact text match]
+- Type: institutional/causal statement.
+  Article quote: “The goal of Bane's decree, and the new hierarchy that it created, was to ensure the survival of the Sith Order.”
+  Scaling/connection: The stated goal is survival of the entire Sith Order, not a personal power comparison.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: institutional/causal statement.
+  Article quote: “The Rule of Two recognized the ambition for power inherent in Sith philosophy and utilized it as a mechanism of succession from one Sith Master to the next.”
+  Scaling/connection: The article links the doctrine to succession across later Sith Masters.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: institutional/causal statement.
+  Article quote: “The Rule of Two therefore encouraged Sith apprentices to take the power that they had been trained to covet by supplanting their masters, who were obliged to anticipate signs of betrayal while educating their apprentices through agonizing lessons.”
+  Scaling/connection: This is the article’s stated training/succession dynamic; it does not claim a specific feat for Bane beyond creating the system.
+  Source: Star Wars: The Secrets of the Sith ; Star Wars Helmet Collection: Inquisitor Weapons & Uniforms: Dark Side Servants ; "Secrets of the Sith: A Dark Side Chronicle" — Star Wars Insider 186 [per Wookieepedia "Darth Bane" rev 15707280, ref 6,22,21; exact text match]
+
+[Biography — A cycle of death]
+- Type: cited historical statement (not a feat by itself).
+  Article quote: “Lord Bane's own apprentice struck him down to claim Bane's place. And so began a magnificently vicious cycle. Many Sith apprentices—myself included—have supplanted their masters in order to ascend.”
+  Scaling/connection: Darth Sidious is the speaker; the article connects Bane’s apprentice’s succession to the repeated later Sith pattern.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: concrete strategic achievement/legacy.
+  Article quote: “The Rule of Two's establishment coincided with the creation of a plot, known as the Grand Plan, for the Sith to corrupt the Galactic Republic from within, diminish and disgrace the Jedi Order, and eventually rise and conquer the galaxy; the Sith would soften up their enemies before zeroing them in for total subjugation.”
+  Scaling/connection: The article explicitly connects the Grand Plan to Bane’s Rule of Two and to eventual conquest of the galaxy.
+  Source: Star Wars: The Secrets of the Sith ; Star Wars Helmet Collection: AT-ST Pilot Weapons & Uniforms: The Sith ; 2018 Topps Star Wars Galactic Files Card: Darth Bane (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 6,20,23; exact text match]
+- Type: concrete achievement.
+  Article quote: “Believing that the new principle would prevent the power of the dark side from destroying the Sith Order, Bane took on an apprentice of his own, Darth Zannah, and began passing on his knowledge.”
+  Scaling/connection: The article states that Bane’s purpose was to prevent the dark side’s power from destroying the Sith Order.
+  Source: Star Wars: The Dark Side ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles ; Darth Bane in the Encyclopedia (original site is defunct) [per Wookieepedia "Darth Bane" rev 15707280, ref 11,3,2; exact text match]
+- Type: consequence/legacy statement.
+  Article quote: “The Jedi learned of Bane's new philosophy and falsely believed that they had destroyed the Sith forever with Bane's defeat, which marked the dawn of a long-lasting era of peace under the rule of a reformed Galactic Republic.”
+  Scaling/connection: The article contrasts the Jedi’s false conclusion with the continuing Sith lineage.
+  Source: Darth Bane in the Encyclopedia (original site is defunct) ; The Star Wars Book [per Wookieepedia "Darth Bane" rev 15707280, ref 2,19; exact text match]
+- Type: concrete succession event (with uncertainty noted by the article).
+  Article quote: “However, Bane's plans continued through his apprentice, who slew the Sith Master in order to claim his place.”
+  Scaling/connection: The article ties continuation of Bane’s plans directly to the apprentice’s succession.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: reported event, not fully certain in-universe.
+  Article quote: “Although historical records were not accurate about the identity of Bane's apprentice or how Bane died, it was rumored that Bane was killed by Zannah in a duel—a pattern that nearly all Sith repeated afterward—which took place on the Inner Rim planet of Ambria.”
+  Scaling/connection: The article says the duel pattern was repeated by nearly all later Sith, but labels Bane’s killing by Zannah a rumor because the records were inaccurate.
+  Source: Star Wars: The Dark Side ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Bane" rev 15707280, ref 11,3; exact text match]
+
+[Biography — Legacy — Shadowy menace]
+- Type: cited character opinion/statement, not a feat.
+  Article quote: “An illusion. Real, you are not.”
+  Scaling/connection: Yoda says this to Bane’s specter; the article uses it to identify the apparition as an illusion rather than a living Bane.
+  Source: Star Wars: The Clone Wars — "Sacrifice" [per Wookieepedia "Darth Bane" rev 15707280, ref 8; exact text match]
+- Type: reputation statement/hype, not a feat.
+  Article quote: “One of the most infamous of the Sith Lords, Darth Bane was considered the founder of the modern Sith, who continued their quest for revenge, working in secret as they plotted their return to galactic dominance.”
+  Scaling/connection: The article connects Bane’s reputation and founding role to the later Sith’s secret quest for galactic dominance.
+  Source: Star Wars: Force Collection (Card: Master Yoda [Defiance of Evil] (★★★★★)) ; Star Wars: The Dark Side [per Wookieepedia "Darth Bane" rev 15707280, ref 25,11; exact text match]
+- Type: concrete legacy/strategic connection.
+  Article quote: “Those plans continued through Darth Sidious, publicly known as Supreme Chancellor Sheev Palpatine, who engineered the Clone Wars to gain more power over the Galactic Republic.”
+  Scaling/connection: The article states that Sidious continued the plans associated with Bane’s modern Sith.
+  Source: Star Wars: The Dark Side ; Sith in the Databank (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 11,26; exact text match]
+- Type: concrete feat by later Sith; scaling connection to Bane’s plan.
+  Article quote: “He also manipulated the war—fought between the Republic and the Separatist Alliance—to make the Jedi compromise their ideals, as they served as leaders in the Grand Army of the Republic. Doing so would allow him to justify his eventual destruction of the Jedi Order.”
+  Scaling/connection: The article connects Sidious’s manipulation and planned destruction of the Jedi to the continuation of Bane’s Sith revenge plan.
+  Source: Sith in the Databank (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 26; exact text match]
+- Type: concrete encounter/ability event.
+  Article quote: “During the war, in 19 BBY, Jedi Grand Master Yoda ventured to Moraband on a journey to discover the secrets of immortality. He entered Bane's tomb and encountered a fiery vision of the ancient Dark Lord.”
+  Scaling/connection: The article places the encounter during the Clone Wars and identifies the figure as a vision in Bane’s tomb.
+  Source: Star Wars: Timelines ; Star Wars: The Clone Wars — "Sacrifice" [per Wookieepedia "Darth Bane" rev 15707280, ref 16,8; exact text match]
+- Type: concrete apparition action.
+  Article quote: “As part of Yoda's trial to learn the power of immortality, the apparition attempted to convince the Jedi Master to turn to the dark side.”
+  Scaling/connection: Bane’s apparition is shown attempting to influence Grand Master Yoda; the article does not say the attempt succeeded.
+  Source: Star Wars: The Clone Wars — "Sacrifice" [per Wookieepedia "Darth Bane" rev 15707280, ref 8; exact text match]
+- Type: concrete resistance/banishment event.
+  Article quote: “Yoda's defiance banished the screaming specter back into the sarcophagus, while Yoda continued on his journey.”
+  Scaling/connection: The article directly connects Yoda’s defiance to the specter’s banishment; this is an event involving the apparition, not a living Bane.
+  Source: Star Wars: The Clone Wars — "Sacrifice" [per Wookieepedia "Darth Bane" rev 15707280, ref 8; exact text match]
+
+[Biography — Legacy — Revenge of the Sith]
+- Type: cited statement/opinion, not a feat.
+  Article quote: “But this is what the Order was for me. A golden age. About eight centuries after we ended the rule of Sith Lord Darth Bane.”
+  Scaling/connection: Elzar Mann’s imprint dates his Jedi golden age to about eight centuries after the end of Bane’s rule.
+  Source: Star Wars (2020) 20 [per Wookieepedia "Darth Bane" rev 15707280, ref 30; exact text match]
+- Type: cited reaction/opinion, not a feat.
+  Article quote: “Yeah, see… This is what I'm talking about. Darth Bane? It's too much.”
+  Scaling/connection: Luke Skywalker says this in reaction to Mann mentioning Bane; no power comparison is made.
+  Source: Star Wars (2020) 20 [per Wookieepedia "Darth Bane" rev 15707280, ref 30; exact text match]
+- Type: concrete later achievement connected to Bane.
+  Article quote: “The war's end in 19 BBY, a thousand years after Bane's death, saw the culmination of the Sith's millennium-long vendetta against the Jedi.”
+  Scaling/connection: The article explicitly connects the culmination of the vendetta to the passage of a thousand years after Bane’s death.
+  Source: Star Wars: Timelines ; Darth Bane in the Encyclopedia (original site is defunct) ; The Star Wars Book [per Wookieepedia "Darth Bane" rev 15707280, ref 16,2,19; exact text match]
+- Type: concrete feat by later Sith and causal legacy statement.
+  Article quote: “To destroy the Jedi, he issued Order 66, a command implanted in the clone troopers of the Grand Army of the Republic to execute the Jedi as traitors.”
+  Scaling/connection: The article identifies this as Sidious’s method of destroying the Jedi while fulfilling Bane’s Grand Plan.
+  Source: The Star Wars Book [per Wookieepedia "Darth Bane" rev 15707280, ref 19; exact text match]
+- Type: concrete feat by later Sith and scaling statement.
+  Article quote: “Skywalker adopted the Sith mantle of Darth Vader, and the Grand Plan that Darth Bane had put in motion a thousand years ago had thus been fulfilled by Sidious, who was recognized thenceforth as the greatest Sith Lord after Bane.”
+  Scaling/connection: This is the article’s explicit ranking/connection: Sidious is recognized as the greatest Sith Lord after Bane, and Sidious fulfilled Bane’s Grand Plan.
+  Source: The Star Wars Book ; Star Wars Helmet Collection: AT-ST Pilot Weapons & Uniforms: The Sith ; Star Wars Helmet Collection: Inquisitor Weapons & Uniforms: Dark Side Servants [per Wookieepedia "Darth Bane" rev 15707280, ref 19,20,22; exact text match]
+- Type: concrete feat by Vader; lineage connection.
+  Article quote: “During the Battle of Endor in 4 ABY, Vader sacrificed his life to save his son, Luke, killing the Emperor and dying as the last Sith Lord in the lineage of Darth Bane.”
+  Scaling/connection: The article identifies Vader as the last Sith Lord in Bane’s lineage.
+  Source: Star Wars: Timelines ; Star Wars: The Last Jedi: The Visual Dictionary [per Wookieepedia "Darth Bane" rev 15707280, ref 16,32; exact text match]
+
+[Biography — Legacy — The endgame]
+- Type: cited statement (warning, not a feat).
+  Article quote: “The Sith have not risen again since the fall of the Empire, but history proves that they could return when we least expect it.”
+  Scaling/connection: Attributed to Luke Skywalker; it states a historical possibility rather than a Bane feat.
+  Source: Star Wars: The Secrets of the Jedi [per Wookieepedia "Darth Bane" rev 15707280, ref 34; exact text match]
+- Type: legacy statement.
+  Article quote: “Unbeknownst to the galaxy, however, Sidious was resurrected by transferring his essence through the Force to an imperfect cloned body.”
+  Scaling/connection: This is a later Sidious event; the article places it within the continued Sith legacy of Bane’s Rule of Two.
+  Source: The Star Wars Book [per Wookieepedia "Darth Bane" rev 15707280, ref 19; exact text match]
+- Type: concrete succession/legacy event.
+  Article quote: “That same year, Kylo Ren, leader of the Knights of Ren and grandson of Darth Vader, betrayed and killed Snoke, who had trained Ren in the ways of the dark side.”
+  Scaling/connection: The article connects Ren’s killing of his master to Bane’s succession pattern in the next sentence.
+  Source: Star Wars: Timelines [per Wookieepedia "Darth Bane" rev 15707280, ref 16; exact text match]
+- Type: explicit Rule-of-Two connection.
+  Article quote: “Ren then usurped his late master's title and took control of the First Order in an act of ascension worthy of Darth Bane's Rule of Two.”
+  Scaling/connection: The article directly calls Ren’s ascension an act worthy of Bane’s Rule of Two.
+  Source: Star Wars: The Dark Side [per Wookieepedia "Darth Bane" rev 15707280, ref 11; exact text match]
+- Type: cited statement about Bane’s historical importance.
+  Article quote: “He acknowledged Bane as a great Sith Lord who survived the purge of the ancient Sith and ensured their Order's revival through the Rule of Two.”
+  Scaling/connection: Darth Sidious is the subject of the preceding sentence and is credited with this acknowledgment; it connects Bane’s survival and Rule of Two to revival of the Sith Order.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+- Type: cited lineage statement.
+  Article quote: “Additionally, Sidious credited Bane as the founder of a lineage of Sith Lords that culminated in his own rise to power.”
+  Scaling/connection: The article explicitly connects Bane’s founding role to Sidious’s rise.
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 6; exact text match]
+
+[Personality and traits]
+- Type: character philosophy/statement, not a feat.
+  Article quote: “He believed that strength should have dominance over weakness, developing this philosophy after his personal experiences and by studying ancient Sith documents.”
+  Scaling/connection: The article presents this as Bane’s philosophy and its origin, not as a demonstrated power comparison.
+  Source: Star Wars: The Dark Side [per Wookieepedia "Darth Bane" rev 15707280, ref 11; exact text match]
+- Type: strategic/intellectual characterization.
+  Article quote: “Having witnessed the destruction of the Sith and realizing the inherent loneliness that arose from serving the dark side, Bane saw that their infighting and greed had led to their downfall.”
+  Scaling/connection: The article connects his philosophy and Rule of Two to his observation of the Sith’s destruction.
+  Source: Star Wars: The Dark Side [per Wookieepedia "Darth Bane" rev 15707280, ref 11; exact text match]
+- Type: effect/reputation statement, not a combat feat.
+  Article quote: “Like his descendants, Bane inspired fear in the hearts of other beings.”
+  Scaling/connection: The article compares this effect with that of Bane’s descendants, but gives no specific opponent or feat.
+  Source: Star Wars: The Visual Encyclopedia [per Wookieepedia "Darth Bane" rev 15707280, ref 14; exact text match]
+
+[Powers and abilities]
+- Type: cited historical capability statement.
+  Article quote: “As a former member of the Brotherhood of Darkness and the founder of the Rule of Two, Darth Bane was recognized in history for his military tactics and leadership skills.”
+  Scaling/connection: The article attributes recognition to his military tactics and leadership; it does not quantify them.
+  Source: Star Wars: The Dark Side establishes that Darth Bane served in the Sith army during the Jedi-Sith War, which Star Wars Helmet Collection: Coruscant Emergency Crew … ; Star Wars: The Clone Wars: Character Encyclopedia - Join the Battle! [per Wookieepedia "Darth Bane" rev 15707280, ref 9,1; exact text match]
+- Type: capability statement.
+  Article quote: “A Sith warrior renowned for his skills in lightsaber combat and the use of intimidation, Bane was an agile, strong, and skilled fighter.”
+  Scaling/connection: The article directly links his warrior reputation to lightsaber combat and intimidation, and describes him as agile, strong, and skilled.
+  Source: Star Wars: The Visual Encyclopedia ; Star Wars: The Clone Wars: Character Encyclopedia - Join the Battle! ; 2018 Topps Star Wars Galactic Files Card: Darth Bane (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 14,1,23; exact text match]
+- Type: capability statement with limitation.
+  Article quote: “While he was a powerful Force wielder and possessed high intelligence, Bane lacked diplomatic skills.”
+  Scaling/connection: The article explicitly calls him a powerful Force wielder and highly intelligent, while also stating the limitation of poor diplomacy.
+  Source: 2018 Topps Star Wars Galactic Files Card: Darth Bane (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 23; exact text match]
+
+[Equipment]
+- Type: concrete equipment statement (not a feat).
+  Article quote: “Darth Bane wore ancient Sith armor in the colors of blue, gray, and red, which featured gold etching on it and covered most of his body.”
+  Scaling/connection: No scaling connection is stated.
+  Source: Star Wars: Destiny — Covert Missions Card: Ancient Sith Armor (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 37; exact text match]
+- Type: concrete equipment statement (not a feat).
+  Article quote: “Weapons in the Sith Lord's arsenal included a red-bladed lightsaber and a lightsaber pike featuring a fiery-orange blade.”
+  Scaling/connection: No scaling connection is stated.
+  Source: Star Wars: Destiny — Covert Missions Card: Darth Bane—Ancient Master (backup link) ; Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Bane" rev 15707280, ref 7,6; exact text match]
+- Type: concrete equipment statement (not a feat).
+  Article quote: “Bane additionally owned a T-class long-range personal cruiser named the Valcyn, which was also used by other Sith Lords.”
+  Scaling/connection: The article connects the Valcyn to other Sith Lords by stating they also used it.
+  Source: Star Wars: Build the Millennium Falcon 44 Starship Fact File: Sith Infiltrator — Scimitar [per Wookieepedia "Darth Bane" rev 15707280, ref 38; exact text match]
+
+[Behind the scenes — Creation and development]
+- Type: creator commentary/statement, not an in-universe feat.
+  Article quote: “One of the themes throughout the films is that the Sith lords, when they started out thousands of years ago, embraced the dark side. They were greedy and self-centered and they all wanted to take over, so they killed each other. Eventually, there was only one left, and that one took on an apprentice. And for thousands of years, the master would teach the apprentice, the master would die, the apprentice would then teach another apprentice, become the master, and so on.”
+  Scaling/connection: George Lucas is the speaker. The statement gives the intended Sith backstory and describes the repeating master/apprentice succession that the article associates with Bane’s role.
+  Source: Of Myth And Men (p. 4 of 4) by Moyers, Bill; Lucas, George on TIME (April 18, 1999) (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 39; exact text match]
+- Type: creator commentary/statement, not an in-universe feat.
+  Article quote: “But there could never be any more than two of them, because if there were, they would try to get rid of the leader, which is exactly what Vader was trying to do, and that's exactly what the Emperor was trying to do.”
+  Scaling/connection: Lucas explicitly connects the two-Sith limit to Vader and the Emperor’s mutual attempts to overthrow each other.
+  Source: Of Myth And Men (p. 4 of 4) by Moyers, Bill; Lucas, George on TIME (April 18, 1999) (backup link) [per Wookieepedia "Darth Bane" rev 15707280, ref 39; exact text match]
+
+[Behind the scenes — Star Wars: The Clone Wars — The Mortis arc]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Type: deleted-scene statement; not an on-screen canonical feat.
+  Article quote: “The Son, who has been guided by the two Sith Lords in the past, questions why he feels pain over the events of the two previous episodes, ‘Overlords’ and ‘Altar of Mortis,’ and the Sith Lords tell him it is because he has not embraced his pain and resentment.”
+  Scaling/connection: The deleted scene depicts Bane and Revan as prior guides of the Son; the article says the scene was never animated.
+  Source: Star Wars: The Clone Wars The Complete Season Three — Deleted Scene: "Son Confers with Ancient Sith Lords" [per Wookieepedia "Darth Bane" rev 15707280, ref 50; exact text match]
+- Type: deleted-scene statement; not an on-screen canonical feat.
+  Article quote: “When the Son demands to know their true identities, the two spirits reveal themselves as Bane and Revan and tell him that controlling Anakin Skywalker, the Chosen One, is the key to controlling the galaxy.”
+  Scaling/connection: The article explicitly connects control of Anakin, identified as the Chosen One, with control of the galaxy. This comes from the uncompleted/deleted scene.
+  Source: Star Wars: The Clone Wars The Complete Season Three — Deleted Scene: "Son Confers with Ancient Sith Lords" [per Wookieepedia "Darth Bane" rev 15707280, ref 50; exact text match]
+
+[Behind the scenes — Star Wars: The Clone Wars — “Sacrifice”]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Type: canonical appearance/statement.
+  Article quote: “Despite being cut from ‘Ghosts of Mortis,’ Darth Bane would eventually make his first canonical appearance, albeit as a specter, in ‘Sacrifice,’ the thirteenth and final episode in the sixth season of Star Wars: The Clone Wars.”
+  Scaling/connection: The article distinguishes this specter appearance from the deleted Mortis scene and from a living Bane.
+  Source: Star Wars: The Clone Wars — "Sacrifice" ; "100 and Counting Expanded" — Star Wars Insider 150 [per Wookieepedia "Darth Bane" rev 15707280, ref 8,54; exact text match]
+- Type: cited production statement, not a feat.
+  Article quote: “Additionally, according to Lucasfilm Story Group member Pablo Hidalgo, Bane's specter was conjured by the Force Priestesses in the episode.”
+  Scaling/connection: The article attributes the specter’s appearance to the Force Priestesses; it does not state that Bane himself returned bodily.
+  Source: Pablo Hidalgo (@user) on Twitter (post on December 14, 2016): "that was an illusion created by the Priestesses" (screenshot) (content now obsolete) [per Wookieepedia "Darth Bane" rev 15707280, ref 56; exact text match]
+
+[Behind the scenes — Other stories]
+- Type: book prompt/character statement, not a demonstrated feat; hype/implication.
+  Article quote: “The 2017 children's activity book Star Wars: The Doodles Strike Back illustrates a second confrontation between Darth Bane and Yoda. Suggesting that the Jedi Master could not defeat Bane alone this time, the book asks reader to draw ‘some Jedi friends’ to help him.”
+  Scaling/connection: The article only says the book suggests this; it does not present a completed fight result or establish it as a concrete victory for Bane.
+  Source: Star Wars: The Doodles Strike Back [per Wookieepedia "Darth Bane" rev 15707280, ref 59; exact text match]
+- Type: alternate/ambiguous narrative statement, not a demonstrated feat.
+  Article quote: “In the epic poem, the Emperor tells Vader to recall how Bane restored the Sith Order from ruin and instituted the Rule of Two.”
+  Scaling/connection: The article connects Bane’s restoration and institution of the Rule of Two to the Emperor’s retelling, but identifies the poem’s canonicity as ambiguous elsewhere in the article.
+  Source: The Odyssey of Star Wars: An Epic Poem [per Wookieepedia "Darth Bane" rev 15707280, ref 58; exact text match]
+- Type: cited author qualification.
+  Article quote: “According to the book's author, Jack Mitchell, these statues are used as ekphrastic devices, a way of giving background embedded in the narrative, and not to be necessarily considered as canonical facts.”
+  Scaling/connection: This expressly limits the statue material as a canon claim; no feat is established.
+  Source: Jack Mitchell (@user) in Wookieepedia 's Discord server (November 22, 2021): "In the case of the statues in the emperor's throne room on Death Star II, that's an … [per Wookieepedia "Darth Bane" rev 15707280, ref 67; exact text match]
+

@@ -1,0 +1,9 @@
+# AGRICULTURAL — P86–89 (S055–)
+
+## CD-2 Harvester — P86–87 (S055)
+CSA; agribots for colonization (Ukio, Taanab, Salliche, Dilonexa XXIII); AT-AT-sized behemoth for CSA grainworlds (e.g. Orron III); tens of thousands sold to Empire/NR/confederacies. Soil prep/planting/harvest for >100 cash crops (tallgrain→denta beans). 4 enormous treaded tires; limited visual suite (only grain ahead) → remote shut-off needed. 3 huge tilling arms; 20 m durasteel cutting-blade array; removable nose (furrower/fertilizer sprayer/pellet dispenser). Intake→clean→bundle in load-carriers; chaff via 3 rear discharge chutes. Compare: Hapes HD-234-C berry-plucker specialized alt. Human silhouette ~¼ of one wheel height.
+**Schematics:** Front — Visual Sensor Suite, Durasteel Harvester Blades, Intake Shaft. Side — Bright Yellow Chassis, External Storage Hopper (retracted), Discharge Chutes, Treaded Tires, Insulated Catwalks, Soil Tiller Arms, Access Ladder, Nose Attachment Arms.
+
+## Decon III — P88–89 (S056)
+IA; restore topsoil after war/radiation/chemical spills. Squat boxy 1.3 m; 4 stumpy legs (some tread variants). Front shovel scoops ~0.25 m³ dirt → intake hopper → 4 catalytic cleansing chambers → purified loam via rear chute; ~3 kg topsoil/hour. Visual + IR + analytical sensors; binary only; single retractable manipulator. Orig. Old Republic colonization/terraforming; used by Empire + NR in GCW. Lore: Empire on **Honoghr** — seeded hybrid grass to choke life, gave Noghri modified Decon IIIs that cleared grass “ridiculously slow” to keep dependent; post-Thrawn NR provided proper droids (damage still severe).
+**Schematics:** Front — Binary Vocabulator, Optical/Analytical Sensor Cluster, Discharge Fan, Reinforced Legs (R2 silhouette). Side — Intake Hopper, Forward Soil Shovel, Hazard Markings, Manipulator Arm retracted, Internal Catalytic Cleansing Chambers, System Ventilation, Diagnostic Access Hatch, Rear Discharge Chute.

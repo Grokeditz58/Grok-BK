@@ -1,0 +1,150 @@
+Research extraction: The Son (Star Wars/Wookieepedia)
+
+Scope and page status
+- Requested URL: https://starwars.fandom.com/wiki/The_Son
+- It redirected to final URL: https://starwars.fandom.com/wiki/Son (title: Son | Wookieepedia | Fandom).
+- The final page is the current Canon article. It links to and has a separate Legends subpage at https://starwars.fandom.com/wiki/Son/Legends.
+- I treated the two continuity versions separately below. I scrolled to the Notes and references sections on both pages.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Bracketed numbers are the citation numbers shown by the article; the source mapping is listed at the end. This is an extraction of the page's claims, not an attempt to reconcile continuity differences.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+CANON — concrete feats and cited statements
+
+Identity / baseline
+- The Son is a Force wielder, son of the Father and brother of the Daughter; he aligns with the dark side. The article says the Ones' unique connection lets them manipulate the Force in an exceptional way. [1], [3]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Father says: "My children and I can manipulate the Force like no other." [1]
+  Source: Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Son" rev 15719782, ref 1; exact text match; agrees with the entry's own ref marker]
+- The article describes Mortis as a realm that was believed to be an origin point/conduit of the Force, and says the Father used it to watch the balance in the galaxy. [1], [3]
+  Source: Star Wars: The Clone Wars — "Overlords" ; Ultimate Star Wars [per Wookieepedia "Son" rev 15719782, ref 1,3; approximate match 0.92, verify; agrees with the entry's own ref marker]
+
+Versus Anakin Skywalker / other Jedi
+- During the Father's test, Anakin used the Force to overpower both the Son and the Daughter and forced them to kneel; the article treats this as proving Anakin was the Chosen One. [1]
+  Source: Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Son" rev 15719782, ref 1; approximate match 0.65, verify; agrees with the entry's own ref marker]
+- The Son used the Force to deactivate Obi-Wan Kenobi's and Ahsoka Tano's lightsabers "effortlessly." [1]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son, in gargoyle form, outran Anakin and Obi-Wan in pursuit through Mortis's mist-shrouded canyons. [8]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He entered their shuttle, kidnapped Ahsoka, and escaped with her. [8]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8; approximate match 0.77, verify; agrees with the entry's own ref marker]
+- He infected Ahsoka with the dark side by biting her. [8]
+  Source: Star Wars: The Clone Wars — "Overlords" ; Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 1,8; approximate match 0.77, verify; agrees with the entry's own ref marker]
+- When Anakin attacked after the Son drained Ahsoka's life force, the Son "easily repelled him with the Force." [8]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8; exact text match; agrees with the entry's own ref marker]
+- The Son showed Anakin visions of his future (Padme's death, the Jedi Purge, Sidious's rise, Alderaan's destruction, and Vader's transformation). Anakin, overwhelmed, agreed to join the Son; the Father later erased Anakin's memory of the visions. [9]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In the final confrontation, the article says the Son was "too powerful for the three Jedi and his weakened Father to overcome." The Father then sacrificed himself with the Dagger of Mortis, stripping the Son of his Force powers; Anakin killed the now-vulnerable Son with a lightsaber. [9]
+  Source: Star Wars: The Clone Wars — "Ghosts of Mortis" [per Wookieepedia "Son" rev 15719782, ref 9; exact text match; agrees with the entry's own ref marker]
+
+Versus the Father
+- The Son's dark-side power had grown enough that the article says he could overpower the Father. [8]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Son" rev 15719782 but it has no inline citation in its paragraph; approximate match 0.75, verify)
+- The Son attacked the Father with red Force lightning, knocking the weakened Father down; the Daughter then tended the Father's wounds. [8]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8; per-sentence approximate match (1/2 sentences matched, min 0.62), verify; agrees with the entry's own ref marker]
+- The Son attempted to kill the Father with the Dagger of Mortis, but the Daughter intercepted the blow and was mortally wounded. [8]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In the final confrontation, the Son was described as too powerful for the weakened Father plus the three Jedi; the Father had to stab himself with the Dagger to remove the Son's powers. [9]
+  Source: Star Wars: The Clone Wars — "Ghosts of Mortis" [per Wookieepedia "Son" rev 15719782, ref 9; per-sentence approximate match (2/2 sentences matched, min 0.67), verify; agrees with the entry's own ref marker]
+- Limitation/result: the Father's self-sacrifice made the Son mortal/vulnerable, enabling Anakin to kill him. [9]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Versus the Daughter
+- Anakin overpowered both siblings in the Father's test. [1]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son and Daughter fought with Force powers and then in beast forms; the Father forcibly separated them. [8]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8; approximate match 0.69, verify; agrees with the entry's own ref marker]
+- The Son attacked the Father; the Daughter blocked the dagger strike and sacrificed herself, taking the wound intended for the Father. [8]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Daughter is explicitly described as aligned with the light side, while the Son is aligned with the dark side. [1]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8; article sentence itself uncited (lead/summary); citation taken from the closest cited body passage, approximate match 0.77, verify]
+
+Other concrete abilities / feats
+- Shapeshifting: gargoyle form, Shmi Skywalker form, and a small alien creature form. [1], [8]
+  Source: Star Wars: The Clone Wars — "Overlords" ; Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 1,8; approximate match 0.75, verify; agrees with the entry's own ref marker]
+- Force lightning (described as red); telekinesis; a powerful Force push; Force speed; flight; dream/vision projection; appearing/disappearing in secure buildings and starships; and infection/control via dark-side biting. [1], [8], [9]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8; per-sentence approximate match (1/2 sentences matched, min 1.00), verify; agrees with the entry's own ref marker]
+- Tutaminis-like feat: he turned off Kenobi's and Tano's lightsabers. [8]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He could drain life through touch (Ahsoka died, though the Daughter later resurrected her). [8]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Dagger of Mortis is identified as a weapon capable of harming a Force wielder; the Son lost his immortality/power only after the Father used it on himself. [8], [9]
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" ; Star Wars: The Clone Wars — "Ghosts of Mortis" [per Wookieepedia "Son" rev 15719782, ref 8,9; approximate match 0.61, verify; agrees with the entry's own ref marker]
+
+CANON — hype / framing kept separate from demonstrated feats
+- "The Chosen One" and "powerful Force wielder" are in-universe framing attached to the Father/Ones/Anakin material; they are not a quantified ranking. [1], [3]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article's ability summary says the Son was "extremely powerful" and that, after Anakin fully succumbed to the dark side, the Son could "easily best Skywalker in terms of power." This is a narrative summary, not a scene with a measured comparison; the page also records that Anakin overpowered the Son during the earlier test and later killed him after the Father's sacrifice. [8], [9]
+  Source: Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Son" rev 15719782, ref 1; exact text match]
+- The Father's line "My children and I can manipulate the Force like no other" is a broad statement about the family, not a direct Son-versus-Father result. [1]
+  Source: Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Son" rev 15719782, ref 1; exact text match; agrees with the entry's own ref marker]
+- The Son's claim that he and Anakin would bring peace is persuasion/deception in context, not an independently verified feat. [9]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+LEGENDS SUBPAGE — concrete feats and cited statements
+
+Identity / scale
+- Legends describes the Son as a physical manifestation/incarnation of the dark side and one of the immortal Ones; the Daughter is the light-side counterpart and the Father is the balancing figure. [2], [6], [7], [8]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Legends says the Ones existed more than 100,000 years before the Battle of Yavin and that Mortis transcended the physical universe. [1], [9]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Abeloth became more powerful than the Son and Daughter after using the Font of Power and Pool of Knowledge. The Son, Daughter, and Father then allied to contain her; the family emerged from Mortis to defeat her when she escaped. [1]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Versus Anakin Skywalker / Jedi
+- In the Father's test, Anakin used the Force to free Obi-Wan and Ahsoka and force both the Son and Daughter to their knees; this convinced the Ones that he was the Chosen One. [5]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son deactivated Obi-Wan's and Ahsoka's lightsabers with a wave of his wand/hand. [5]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He abducted Ahsoka and infected her with the dark side by biting her, using her as a catalyst to turn Anakin. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He showed Anakin visions of Sidious's rise, Jedi murders including child Initiates, Padme's death, Anakin's defeat by Obi-Wan, Alderaan's destruction, and Vader's cybernetic reconstruction. Anakin agreed to ally with him and embraced the Son's power/promise. [11], [12], [13], [14]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Obi-Wan survived an attack by the Son's Force lightning. [11]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- At the end, the Son fought and overpowered all three Jedi "with ease." The Father stabbed himself with the Dagger, which removed the Son's powers and immortality; Anakin then killed the now-mortal Son. [11]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Versus the Father
+- The Son said his power was growing while the Father was becoming older and frailer; he then attacked the Father with Force lightning. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Father attempted to absorb and deflect the lightning, but his diminished power failed; the article says the Father's control over the Son broke and the Father fell in defeat as the Son intensified the attack. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son raised the Dagger to kill the Father, but the Daughter moved in front of the blade and died instead. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Limitation/result: the Son's connection to the Force was tied to the Father's life; the Father's suicide with the Dagger removed the Son's powers and immortality, allowing Anakin to kill him. [11]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Versus the Daughter
+- Legends says the Son and Daughter were evenly matched in their Force duel: neither gained a decisive advantage; this remained a stalemate in their beast forms until the Father intervened. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Daughter's light-side telekinesis is contrasted with the Son's Force lightning. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son accidentally killed the Daughter when she shielded the Father from his dagger strike. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Other concrete abilities / feats
+- Legends describes red Force lightning, multiple forms of telekinesis, levitation/vertical movement, and taking life by touch. [10], [11]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He could move from place to place instantly, shapeshift into forms including Shmi and Anakin, manifest in dreams, appear/disappear without detection, and infect an individual with the dark side to control Ahsoka. [5], [10], [11]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son's connection to the Force is described as beyond the domain of most Sith; he had eons of experience and his powers threatened family members. [2], [5], [10], [11]
+  Source: "Ghosts of Mortis" Episode Featurette on StarWars.com (backup link) [per Wookieepedia "Son" rev 15719782, ref 20; per-sentence approximate match (1/2 sentences matched, min 0.64), verify]
+
+LEGENDS — hype, rumor, or qualified framing
+- The page says only a handful of individuals (the Father, Daughter, Abeloth, and Anakin) were known to have faced the Son with success. This is a broad retrospective framing, not a numeric scale. [1], [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- It says he "allegedly" could grow stronger through the dark deeds of others. [10]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Fanged God/Nightsister material is explicitly qualified as rumor/allegation: channeling his power allegedly burst followers' blood vessels; he was said to conjure the Wild Hunt and seep through realm boundaries. [15], [16]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son's promise to Anakin to destroy the Emperor and end war/corruption/suffering is rhetoric and a proposed plan, not a demonstrated result. [11]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Son being a manifestation/incarnation of the dark side is a setting description; it should not be converted into an unstated claim that he automatically exceeds every named Force user. [2], [6]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Reference map from the pages (as displayed)
+- Canon [1]: Star Wars: The Clone Wars — "Overlords"; [8]: Star Wars: The Clone Wars — "Altar of Mortis"; [9]: Star Wars: The Clone Wars — "Ghosts of Mortis"; [10]: Star Wars Rebels — "A World Between Worlds"; [11]: Star Wars: Episode III Revenge of the Sith; [12]: Star Wars: Episode VI Return of the Jedi; [13]: Star Wars Rebels — "Wolves and a Door"; [3]: Ultimate Star Wars; [4]: Son in the Databank; [5]: Star Wars: The Clone Wars: Character Encyclopedia — Join the Battle!; [6]: "Overlords" Trivia Gallery; [7]: Star Wars Inquisitors: A History.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Legends [1]: Fate of the Jedi: Apocalypse; [2]: Son in the Encyclopedia; [5]: Star Wars: The Clone Wars — "Overlords"; [10]: Star Wars: The Clone Wars — "Altar of Mortis"; [11]: Star Wars: The Clone Wars — "Ghosts of Mortis"; [15]: Wild Power; [16]: The Courtship of Princess Leia. Other displayed references included The Official Star Wars Fact File Part 75 and The Essential Guide to Warfare.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Son" rev 15719782 but it has no inline citation in its paragraph; exact text match)

@@ -1,0 +1,97 @@
+THE FATHER (MORTIS) — RESEARCH EXTRACTION
+Accessed: 2026-10-04 (UTC)
+
+URLS AND SCOPE
+- Primary requested URL: https://starwars.fandom.com/wiki/Father_(Mortis)
+- Final URL for primary page: https://starwars.fandom.com/wiki/Father_(Mortis)
+  It loaded successfully (no 404), so the fallback /wiki/The_Father was not used.
+- Legends subpage found from the primary article's relative links: https://starwars.fandom.com/wiki/Father_(Mortis)/Legends
+- The primary page is labeled by Wookieepedia as a Canon article; the subpage is labeled as a Legends article.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- I scrolled to the bottom of each page and read the Sources and Notes and references sections. Bracket numbers below refer to each page's own notes.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+LEGENDS (presented first, as requested)
+Source: https://starwars.fandom.com/wiki/Father_(Mortis)/Legends
+
+Directly stated feats / power-relevant actions
+- The article says the Father and his children were Force wielders who could use the Force "in ways few known mortals of the galaxy could" [5]. This is a qualitative statement, not a measured comparison. (Refs: [5] The Clone Wars—"Overlords"; [2] Father in the Encyclopedia.)
+- The Father held Anakin's lightsaber by its blade and forced it back into its hilt, deactivating it [5].
+- During Anakin's test, the Father said only Anakin could make his children release their captives [5]. Anakin then used Mortis's Force to force both the Son and the Daughter to release Obi-Wan and Ahsoka and kneel before him [5]. This is an Anakin feat, not a feat attributed to the Father's own strength.
+- The Father was said to have direct control over his children for many years; the article also says age was weakening him [5][11].
+- The Father flew by making wings appear, and during the siblings' fight used a Force push to hurl both the Son and Daughter out of a window [11].
+- After the Son's Force-lightning attack, the Father initially stopped it but was quickly overwhelmed by the Son's dark-side mastery [11]. The article says the Father was weakened/unconscious and the Son's attack nearly killed him [11].
+- In the Daughter's final moments, the Father helped Anakin act as a conduit for the remaining life energy that revived Ahsoka [11].
+- The Father erased the specific memories/vision of Anakin's future after the Son showed it to him [4].
+- When the Jedi and Anakin attacked the Son, they were not strong enough to stop him [4]. The Father then stabbed himself with the Dagger of Mortis; this weakened the Son and removed the Son's immortality, allowing Anakin to kill him [4].
+- The Father's death caused Mortis to shatter and returned Anakin, Obi-Wan, and Ahsoka to their ship; the article says only moments had passed in their world [4].
+- The article reports that the Father once restrained Abeloth after she attacked and beat the Son and Daughter into submission [1]. This is a Legends backstory claim attributed to Fate of the Jedi: Apocalypse, not a scene shown in the Mortis trilogy.
+
+Quoted statements (with their evidentiary status)
+- "My children and I can manipulate the Force like no other" [5]. This is the Father's dialogue: a stated power claim/hype, not a quantified demonstration.
+- "And a prison. You cannot imagine what pain it is to have such love for your children and realize they could tear the very fabric of our universe" [5]. This describes the danger of the children; it is hype/character dialogue, not a demonstrated feat.
+- "You are growing stronger, my son." / "You have done what is forbidden. You have chosen the dark side and allowed it to feed your anger and desire for power." [11]. This supports that the Son was becoming stronger and that the Father recognized the Son's dark-side growth; it is dialogue, not a numerical comparison.
+- "You are a Sith Lord!" / "I am neither Sith nor Jedi. I am much more, and so are you." [5]. This is a self-description, not an independently verified power scale.
+- The Father warned Anakin that leaving would make his selfishness haunt him and the galaxy, and said the Chosen One would replace him to keep his children in balance [5]. This establishes the intended role, not that Anakin was already stronger than the Father.
+- "If there is to be balance, what you have seen must be forgotten." [4]. This accompanies the memory-erasure feat.
+- "The Core of the Force. I mean you got the Dark Side, the Light Side, one is selfless, one is selfish, and you want to keep them in balance." [14]. This is a George Lucas behind-the-scenes description of the Mortis concept, not an in-universe feat.
+
+Anakin comparison (Legends page)
+- The article explicitly frames Anakin as the Chosen One and says the Father tested him by having him make the Son and Daughter release captives and kneel [5].
+- The Father asked Anakin to replace him because he was dying and because only the Chosen One could tame the children after the Father's death [5].
+- The page does not give a clean statement that Anakin's raw power exceeded the Father's. In the finale, the Jedi group could not stop the Son, while the Father's self-sacrifice was what stripped the Son's power; Anakin then delivered the killing blow [4].
+
+LEGENDS HYPE / UNCERTAINTY (kept separate)
+- "powerful" and "god-like" are the article's descriptors for the Ones [6][7], and "ways few known mortals ... could" is qualitative [5].
+- The article says "doubtful accounts" from the Jedi and Killiks claimed the Father once cast out and defeated Abeloth [1]. Treat this as explicitly uncertain, not a confirmed on-page feat.
+- The Father being a former Celestial and the Ones being manifestations of Celestials is presented as article lore with mixed/older Legends sourcing [1]; it is not a demonstrated combat feat.
+
+LEGENDS REFERENCES USED
+[1] Fate of the Jedi: Apocalypse.
+[2] Father in the Encyclopedia (original site defunct).
+[4] Star Wars: The Clone Wars—"Ghosts of Mortis."
+[5] Star Wars: The Clone Wars—"Overlords."
+[6] Book of Sith: Secrets from the Dark Side.
+[7] The Clone Wars Episode Guide: Overlords (StarWars.com; original site defunct).
+[11] Star Wars: The Clone Wars—"Altar of Mortis."
+[14] Star Wars: The Clone Wars The Complete Season Three, DVD featurette for the Mortis Trilogy.
+
+CANON
+Source: https://starwars.fandom.com/wiki/Father_(Mortis)
+
+Directly stated feats / power-relevant actions
+- The Father is described as a powerful Force wielder who maintained balance between the Son (dark side) and Daughter (light side) on Mortis [1].
+- During Anakin's test, Anakin used Mortis's Force-amplifying properties to force the Son and Daughter to release Obi-Wan and Ahsoka and revert from animal forms [1]. Again, this is explicitly Anakin's action, not a claim that the Father overpowered them.
+- The Son blasted the Father with Force lightning, rendering him unconscious. When the Father recovered and tried to stop the fighting, he was "no match for the Son due to his weakened state" [4].
+- In the same confrontation, the Son attempted to kill the Father with the Dagger of Mortis; the Daughter intercepted the blade and was mortally wounded [4].
+- The Father used the Force to erase Anakin's recent memory and drive the dark side from him [5].
+- The combined might of the Father and the three Jedi was still insufficient against the Son [5].
+- The Father sacrificed his life by stabbing himself with the Dagger of Mortis to strip the Son of his Force powers. The Son consequently lost immortality, and Anakin killed him [5].
+- The powers section lists these additional actions: deflecting a lightsaber blade with his hand; instant teleportation; purging Anakin's memories by touching his head; flying by sprouting wings; a Force push strong enough to send the Son and Daughter flying out a window; and absorbing the Son's Force lightning [5]. The same section says he was becoming weaker with age, was no match for the Son's dark-side powers, and could be killed by the Dagger [5].
+- The article says Mortis disappeared after the Father's death [5].
+
+Quoted statements (with their evidentiary status)
+- "It is only here that I can control them. A family in balance. Day with night. Destruction, replaced by creation." [1]. This is the Father's explanation of his balancing role; it is dialogue, not a measured power comparison.
+- "You are the Chosen One. You have brought balance to this world. Stay on this path and you will do it again… for the galaxy. But beware… your heart…" [5]. This is the Father's final prophecy to Anakin; it is a role/prophecy statement, not a direct strength ranking.
+- The article says Anakin passed the test and the Father asked him to take his place as the balancing force between the children [1]. This is a succession/comparative-role statement, not proof that Anakin was stronger in a direct fight.
+
+Anakin comparison (Canon page)
+- Anakin's demonstrated Mortis feat was using the planet's Force-amplifying properties to compel both the Son and Daughter to release their captives and revert to humanoid form [1].
+- The Father judged Anakin to be the Chosen One and invited him to succeed him as the balancing force [1]; at death he said Anakin had brought balance to Mortis and would do so again for the galaxy [5].
+- No direct canon statement on this page says Anakin's raw power exceeded the Father's. The page instead shows the Father as able to restrain/affect the children in specific ways, but weakened and ultimately outmatched by the Son in combat; the Father's sacrificial dagger maneuver—not brute force—enabled Anakin's final kill [4][5].
+
+CANON HYPE / UNCERTAINTY (kept separate)
+- "powerful Force wielder," "immense Force powers," and the prophecy that Anakin would bring balance to the wider galaxy are qualitative or prophetic statements [1][5], not numeric scaling.
+- The page says Mortis was believed to be the origin point of the Force and a conduit for all things connected to it [1]. It presents this as belief/lore, not a demonstrated feat by the Father.
+- Ahsoka describes the Father's statue and a distant power on Peridea as strongly implying a relationship to the Mortis Gods [11]; this is explicitly an implication, not a confirmed ability.
+
+CANON REFERENCES USED
+[1] Star Wars: The Clone Wars—"Overlords."
+[3] Star Wars: The Clone Wars: Character Encyclopedia—Join the Battle!
+[4] Star Wars: The Clone Wars—"Altar of Mortis."
+[5] Star Wars: The Clone Wars—"Ghosts of Mortis."
+[11] Star Wars: Ahsoka—"Part Eight: The Jedi, the Witch, and the Warlord."
+
+NOTES
+- This extraction reports what the two Wookieepedia pages state and preserves their own canon/Legends separation. It does not treat article adjectives, prophecy, dialogue claims, or explicitly doubtful accounts as concrete feats.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

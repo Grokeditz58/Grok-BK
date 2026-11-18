@@ -1,0 +1,87 @@
+WYYRLOK RESEARCH EXTRACTION
+Source requested: https://starwars.fandom.com/wiki/Darth_Wyyrlok_III
+Final URL: https://starwars.fandom.com/wiki/Darth_Wyyrlok_(III)
+Page status: loaded; the requested URL redirected to the parenthesized title rather than 404ing.
+Continuity label: LEGENDS — the page carries the category label “Legends articles.”
+Research scope: article text and its “Notes and references” section were reviewed. Bracket numbers below are the article's own citations; they are not uncited additions.
+
+IDENTITY / WHICH WYYRLOK
+- The article explicitly says this is the third Sith Lord to bear the title, Darth Wyyrlok (III).
+  Source: Legacy (2006) 27 ; Star Wars: Legacy (2006) 0 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 3,7; approximate match 0.80, verify]
+- He is a male Chagrian Sith Lord, foremost loremaster of the One Sith, and Darth Krayt's most trusted servant/lieutenant. The infobox names Darth Wyyrlok (II) as his parent; the biography calls him the grandson of the first Wyyrlok and son of the second [4, 7].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- His role was to attend Krayt, tend to Krayt's health, act as confidant/spokesman/friend, and question Krayt's decisions as one of his duties [3, 4, 6, 7, 8].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article distinguishes I, II, and III through lineage and title succession: this subject is the grandson of I and son of II, and is the third holder. It does not provide a separate full biography for I or II on this page.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+CONCRETE FEATS (not hype)
+1. Sith sorcery / illusions on Prakith [3]
+- Faced a vastly outnumbering group of lightsaber-wielding Force adepts called the Malevolence.
+  Source: Legacy (2006) 27 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 3; approximate match 0.75, verify]
+- Projected images into their minds so each appeared to be Wyyrlok; the adepts struck each other down. Gerlun was the sole survivor and submitted.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Against the reanimated Darth Andeddu, Wyyrlok deflected Force lightning with his open hand, recognized the apparent rock attack as an illusion, and fought a mind/illusion battle. He ended the contest by making Andeddu believe he was destroying all of Andeddu's books and scrolls; Andeddu returned to a lifeless corpse. Wyyrlok recovered books/documents and left.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Wyyrlok's own account in the article: the mindforms used against the cultists were only “an iota” of his full potential with Sith sorcery [3]. This is a cited self-assessment/hype claim; the successful illusion feats themselves are concrete narrative actions.
+
+2. Killing Darth Krayt on Had Abbadon [17]
+- Krayt was severely injured in the battle with Cade Skywalker, Imperial Knights, Jedi, criminals, and others. Wyyrlok sensed his Master would need him, went to the surface, found Krayt fallen, and retrieved Krayt's mask.
+  Source: Legacy (2006) 31 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 17; per-sentence approximate match (1/2 sentences matched, min 0.76), verify]
+- When Krayt awoke and said he had found a way to heal himself, Wyyrlok instead used Sith lightning to electrocute and kill him [17].
+- Wyyrlok then used the Force to levitate Krayt's body to the shuttle [17].
+- He put Krayt's body in stasis on Korriban and successfully deceived Stryfe and others into believing Krayt was alive/hibernating, using shields to conceal Krayt's presence [5]. This is a deception/ritual-control feat, not a direct combat feat.
+
+3. Combat with resurrected and healed Darth Krayt [1]
+- The article describes the duel as a display of Force ability and lightsaber prowess, with both combatants using the full fury of the dark side.
+  Source: Legacy — War 1 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 1; approximate match 0.92, verify]
+- Wyyrlok attacked Krayt's mind with Sith sorcery, forcing Krayt to relive torments of his long life.
+  Source: Legacy — War 1 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 1; approximate match 0.88, verify]
+- He believed he had won and was poised to deliver the killing blow. Krayt then revealed he had actually won and plunged his lightsabers into Wyyrlok's chest, killing him.
+  Source: Legacy — War 1 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 1; approximate match 0.74, verify]
+- The article says Wyyrlok was able to “hold his own” against Krayt after Krayt was resurrected and healed from the Vong seeds [1]. Outcome: Wyyrlok lost and died; do not treat the fight as a victory for Wyyrlok.
+- The article's quoted exchange before the duel:
+  “I am greater than you ever suspected. And you are so much less than you believed yourself to be.” —Darth Wyyrlok [1]
+  “I have become so much more than you can know, traitor. This is not your trap -- it is mine, and it is time you died.” —Darth Krayt [1]
+
+4. Force lightning / telekinesis / defense [1, 3, 17, 25]
+- The powers section says Wyyrlok projected Force lightning, could deflect and absorb others' lightning [3], and killed Krayt by electrocution [17].
+- During the duel, Wyyrlok and Krayt launched individual lightning torrents without either gaining an advantage [1].
+- He used telekinesis/Force choke against Regent Veed after issuing the Final Protocol on Dac [25].
+- He threw large pieces of stone at Krayt during their duel; the tactic was countered [1].
+- He created a Force-energy barrier to defend against large chunks of rock launched by Krayt [1].
+
+5. Dac / administrative ruthlessness [15, 16, 25]
+- During Krayt's Dac massacre, Wyyrlok advised Vul Isen to research ancient Sith lore and adapt Leviathans for underwater use; the resulting Sea Leviathan is noted [15, 16].
+  Source: Legacy (2006) 32 [per Wookieepedia "Darth Wyyrlok (III)" rev 14979917, ref 16; per-sentence approximate match (1/1 sentences matched, min 0.64), verify]
+- As Regent, Wyyrlok ordered the Final Protocol: extermination of all life on Dac, allowing neutral Quarren and others to leave without Imperial aid. When Veed challenged his authority, Wyyrlok strangled him through the Force [25].
+
+6. Other stated abilities [3, 6, 29]
+- Wielded dual lightsabers and was also skilled with a single blade [6]. The article suggests Niman because he combined lightsabers with Force powers [3].
+- Was trained to use the light side of the Force to heal others [29].
+
+CITED POWER STATEMENTS / HYPE (kept separate from feats)
+- “only to [Darth Krayt] was Wyyrlok second in knowledge and power” — article lead [1]. This is comparative characterization, not a quantified feat.
+- The powers section says his dark-side powers were “second only to Krayt” [28]. This is an explicit ranking statement, not a demonstrated win.
+- The article calls Krayt “the most powerful Sith of the time” and says Wyyrlok could “hold his own” against him after resurrection/healing [1]. The fight ended in Wyyrlok's death, so the latter is not evidence that Wyyrlok surpassed Krayt.
+- In the duel, Wyyrlok boasted that he and earlier Wyyrloks kept the One Sith functioning while Krayt suffered from weakness [1]. This is dialogue/boast.
+- The article says Gerlun considered Wyyrlok's mindforms powerful manifestations of the dark side; Wyyrlok said they were only “an iota” of his potential [3]. Gerlun's view and Wyyrlok's claim are hype/assessment; the deception of the cultists is the concrete feat.
+- The page quotes Wyyrlok: “The old ways—your ways—have failed. Here, now—we are the Sith!” [3]. This is rhetoric, not a feat.
+
+KEY QUOTATIONS WITH ARTICLE CITATIONS
+- “I am Wyyrlok. Always the first of his servants, the one closest to him, the one nearest his thoughts.” —Wyyrlok [6].
+- “Sometimes, for the dream to live…the dreamer must die.” —Wyyrlok, immediately before killing Krayt [17].
+- “For generations, the Wyyrloks served you, kept you alive, served as your voice when your physical frailties forced you into stasis! We hid your weakness!” —Wyyrlok to Krayt [1].
+- “The Galaxy does not yet understand what it means to oppose us. But they will.” —Wyyrlok [25].
+
+REFERENCE KEY (as displayed in the article's references)
+- [1] Legacy — War 1.
+- [3] Legacy (2006) 27.
+- [5] Legacy (2006) 34.
+- [6] Legacy (2006) 14.
+- [7] Star Wars: Legacy (2006) 0.
+- [15] Legacy (2006) 22.
+- [17] Legacy (2006) 31.
+- [25] Legacy (2006) 47.
+- [28] Legacy Era Campaign Guide.
+- [29] The article cites its source in the notes; the displayed source list includes the relevant reference context. Verify against the page if a precise bibliographic title is needed.

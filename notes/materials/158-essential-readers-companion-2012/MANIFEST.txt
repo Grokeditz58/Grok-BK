@@ -1,0 +1,31 @@
+notes158 The Essential Reader’s Companion (2012) — EOF seal
+Created: 2026-11-10 08:14:10 CST America/Chicago
+Source scan: MEGA FD0WCBbA (not included in package)
+Policy: notes + quote-evidence crops only; no PDF/full page-scans/CBR/epub/secrets/git
+
+=== FILE MANIFEST (path  bytes  sha256) ===
+./COVERAGE.md  4859  36892a395a282c03467f11acf7e0b1b7895a0dde146036b57dabce1ded630985
+./LEGENDS-CANON-HIERARCHY.md  78432  4f12874c4f83f2e7ac2a8eccc1e2c054774a313e52d4422d711a8c6eb48f1cc9
+./README.md  2626  075d042a3caa1d4a9ea4a3fb07f23e6a31f57012e342333403fdca9fc30ec781
+./back.md  10448  19b0c43ee6da5da2e7730b8b8ca351dd428888e859cc6e2f4c7d3247e57e8bfd
+./body/01-tales-of-ancient-jedi-and-sith.md  19927  c8fd8f63224d5a88e116bd3b8fb843405b15bcd65672b6874e32c3647513185a
+./body/02-height-of-the-republic.md  29185  a2b31252527917f011d2a32b79978539558cc97157e0d83dfe02eb213ec7dcdd
+./body/03-the-clone-wars.md  56218  ec9aac36b6400ff0b3090d4b6cff48be03c1a60a9fdb8610c85ad4787a17eed3
+./body/04-the-dark-times.md  41199  cf48a80ce88326591064a6dabe6ebe2e9ea080994accdb98b215388fb7d0e848
+./body/05-the-galactic-civil-war.md  71174  4ee1230d1e16f063f68aaba94a9fe4824916e14e025ced4bf50cc6ecbebcf00d
+./body/06-the-new-republic.md  94838  130d2f3a909ad86ead6294d46f0846e2c63af60e9e1ff6c423996c351962fa56
+./body/07-the-new-jedi-order.md  12591  15c4e4453aa9a5bf3762df4dd1525995b5c079dce77883012a20e9f1dc9505b8
+./body/08-legacy.md  64829  42a5d46a0a2361f5fec98c490a627cbb4f5c7e431f276c325be2276d5cff2e8f
+./front.md  11893  65a29a749800e4a39fa5b1098e3efafa0903aaca4a20508cbc09700b7a0e232f
+./quotes/QUOTES-INDEX.md  8899  1cafd9e4acc4aeda98f8dc2445092df1cbcf8607c5a136caa27dbaf2781f989d
+./quotes/q01-s008-canon-and-continuity.jpg  551053  7a885a107e249e4c6e41e23e6d091ed37b5268781cd18803c1052d3dbcd75b84
+./quotes/q02-s101-lucas-trumps-publishing-continuity.jpg  739662  81baf1afcd8c5629ccc53f0d6b100163ebc8e668f51d3991d5e0c6b78ab03ecd
+./quotes/q03-s019-lucas-questionnaire.jpg  143241  b8c653c7dc48ed04c03ccb171b650a37bc23d21a9c2bbbbf3e0973bb66c770b8
+./quotes/q04-s022-kotor-light-side-historically-accurate.jpg  269437  cc21330bd4cb34db6f89d75c20930295ae7230689b5b7b6e90b36d4925c072b0
+./quotes/q05-s038-lucas-vision-of-the-sith-tpm.jpg  252211  ee4d53084d5e36f40da7a0ffe91106c88e32f0f9b1c648bd7cca2059584b08f7
+./quotes/q06-s313-lucas-bantam-caveats.jpg  239160  6933abe717379b4db40586e7d153658a1afe6ad6e47201d3172cae8b7dc02e15
+./quotes/q07-s458-lucas-njo-no-dark-side-invaders.jpg  379043  d6c8c176bd583a665d0661598123879eb6c106806e34b84dd92d56f521cad2a7
+./quotes/q08-s483-lucas-star-by-star-solo-switch.jpg  176647  f54ab0fe67f0b1d6ed79d8616c7cce8f1925aa1b4ff6f685de5e800de35f58d2
+./quotes/q09-s508-sith-lord-mantle-legacy-era.jpg  509352  3fdea2a5e8f96dc8678a8423a14c71c321e3937f339d370eb45dd6d5340b7391
+./quotes/q10-s535-canonizing-jaden-korr-gender.jpg  356400  78d0701098d984bf759797948a5b8d0178c875e3a0cf420de98fa7db0fd90eab
+./quotes/q11-s561-licensing-mortis-krayt.jpg  505534  36649cc09d717e9d6242e963362e0b1eeef88038bc214f73f012b29f5749beef

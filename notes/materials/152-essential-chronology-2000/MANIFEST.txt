@@ -1,0 +1,29 @@
+notes152 Essential Chronology 2000 — imported manifest
+Sealed zip sha256 50cd5c1d6c387422cebb46fd3f00bd02cf7bc0ee104bd7fcdebf1f99b2c7bbe8, 1,224,131 bytes.
+The sealed MANIFEST.txt lists itself as 359 bytes, sha256 5a9c029bb3e10f39ee3358ad5c10175803627a15b89d492f65b45db09d03220f.
+That line was written before the file was finished. The sealed file is 2,564 bytes, sha256 b2f46f7ce90865511e5f0878d4987fc071a0556a0c3e7f885cfc3c568125b89c.
+This imported copy omits the self line. The sealed zip was not edited. No replacement self-hash is invented.
+The other 21 paths were checked against the sealed zip and matched size and sha256.
+
+=== FILE MANIFEST (path  bytes  sha256) ===
+./COVERAGE.md  2968  2cb27b2da0f0d54cf99a59c3bd1c34bb741703431344b02ac644f8663e01baf2
+./README.md  563  61c63c6a13a3c58de159e1f6d772701f147fe6d538ca7eaaa7005b279c3a4336
+./body/01-part1-ancient-jedi.md  15738  2b4d41295de525c70dd2607d5b164b6f7f1ac426d931f23f57249887884d69e5
+./body/02-part2-empire-new-order.md  5560  cd91047b90147f8348fc6182fbdce1834b457de568dd4f59acdb0cea9a82269e
+./body/03-part3-profiles.md  17042  bfec20a6ceea86b5d748dbbafe0e20ed732e14ed6739d6e6476f7d11440edca0
+./body/04-part4-rebellion.md  17981  a48ce42523fd6ba665d4c01be31affe0d97ba4ffb4875d096629146b8cb90d13
+./body/05-part5-new-republic.md  16356  8213a4254998226ad8978ad7918713d34da6648c0d163c8381613b965c548fbd
+./body/06-part6-empire-resurgent.md  17147  31e3e168b60c5f719a0919d24c9057a2c8296684139df500db89b8bae5f6c9f2
+./body/07-part7-jedi-knights.md  22880  33caf62f77e562514ebd6795b6918bb62b55267b4d3ceb53e91ade1a6746067a
+./body/08-part8-uprisings.md  21668  b63d62441855a5a4f6c8a8dc00265272bd0727a6416bc045327fbd1d17378cb2
+./body/09-part9-lasting-peace.md  11519  27003bc2aa7e0a4b4d3fb4e85f44a524fb00d4507fcddf41dec5906643bf7acc
+./body/10-part10-generations.md  22477  038c3fc7a02cdb3239e779fe199a7f21405b591d30c5273e6e974f5648c9a5e9
+./body/11-afterword-map-timeline-index.md  25863  14b09500228805f0d8b5d843ca8c90ecf4557da09d600fb422a74e7e4d9a5415
+./front.md  6454  8470c54191e840614c50795fc25331dbea2883b97955d5cab9c805017954d1e7
+./quotes/QUOTES-INDEX.md  1153  65559a6c171e324bff1374b501bf8aa21a49f09e6ddee924060eeece587234d9
+./quotes/q01-afterword-history-never-ends.jpg  291932  aa51d317fe26d11f223619368005bffa323a35f58afc0b498d40e19eabc81655
+./quotes/q01b-afterword-close-quote.png  197274  fb80a5398b312aaa5f78d16a0140fca26ca5cdbffb5472fc63cc4d8aa13e389a
+./quotes/q02-authors-bios-kevin-j-anderson.png  172288  421aa3ba160c5537a5b892af51d4564a681f2a73b7cc746f04f079878290bc6e
+./quotes/q02b-authors-bios-daniel-wallace.png  130477  fcccdfa672e5074a5da74357cf040b923464ece2ddd991f89483a57c190c2cc8
+./quotes/q03-backcover-main-blurb.jpg  142801  77f7ae17f430589f9b0b8928ea714cc5f2d92b3c87aed914c97d4b719200a7ef
+./quotes/q04-timeline-intro.png  216641  6a6fc91101b79d7b08f4d5226b12c5dd7b41da8f0d74dafb04c43f7db6d16819

@@ -1,0 +1,72 @@
+# notes150 EGPM 1998 sealed package manifest
+# Generated: Mon, 09 Nov 2026 17:56:12  America/Chicago
+# Contents: notes markdown + verified quote crops only (no PDF/full-page scans/secrets/git)
+
+## Files
+5bc6dbeac7c163124e47e8c65a80401202d3a70cdd82d3a51171768b63169ecb  1483  COVERAGE.md
+f8f011b0cd41fda969064cdecd8f704f9fdb1a21fde81f15142f7e07ad782e73  763  README.md
+b2bd435612ad82880688571343ec3f6e2cbd58206d79f1211642fdd305350a10  1427  egpm-abregado-through-agamar.md
+6831d23c32cedbbf0aa1f60f95e2ef1ac7de8a79418a6362f04c1355f13bc030  1746  egpm-alderaan-through-almania.md
+b58c910c1890b8bb3084670953d6cde311d4795ebe5ac8b096f9abba121123da  1405  egpm-alzoc-through-ambria.md
+4050f19138f04726bf157ea838b031fa3b99b243b2b6513bef4d694d931c82cc  1448  egpm-ammuud-through-ando.md
+f9d70d8a43c7722ab3740b51719e2affffc84e37988e5153620e33dcafc551e8  1439  egpm-anoth-through-antar4.md
+9539b22049833252bec7d924d3c73c9a08895f885829e10c2352fb4bf739b7c6  1303  egpm-aquaris-through-aridus.md
+501303a5d37b6ba85ee955b45e12b418bdca0b97265acae446418913dab286ac  1552  egpm-arkania-through-atzerri.md
+7d7b5379b18e1a4ea8bf5574ed9042958f23c48ce2c3bc44d3d0b296db6a7763  1870  egpm-bakura-through-barab1.md
+18f3e98acdd5b3e0b15cb47b08534bce945f855e4cb53fa51727f5e3d0246e87  1329  egpm-belsavis-through-bespin.md
+2e4b7e9b5712348b57e464bdf40439eaae489b1c86005c75f1385cb5944bd323  1122  egpm-bestine-through-bilbringi.md
+c5f73f4e373b1a3b8ca6da1b75cf872f0ba8e9e8bfe06f68b71b775ccc1676d3  2272  egpm-bibliography-backmatter.md
+8a063041b1bae5d3bcfda7a7e05093e99e36614f3a32c1ced85e92cb83cce3ae  1201  egpm-bimmisaari-through-bonadan.md
+00d23887b127cffd27da1b03b4f3705cf6b4114f6b383b2785cc791099e360dc  1144  egpm-borleias-through-bothawui.md
+5323775e76035e88e7117526bac9491222a33983bb65ed0e5336d91141aa5c4b  1506  egpm-byss-through-carida.md
+d9574a09c6290fcaa98c1708bb25b33ba45834210b0d31319cdd5196eed1100e  1203  egpm-carratos-through-chandrila.md
+9421d8ba0332d70d712d2382ed47514b9d2a27528447b418eaf5972a64b1e34c  1467  egpm-corellia-through-coruscant.md
+93fc9bf76c0e454c0972a33f428c84298717805d6bcef709e4843ce745004d7c  2024  egpm-dagobah-through-dantooine.md
+f419512a79ba7fe2ffac0a624e4237fce4c4ec06eb094eb0b00d95184f46176e  1979  egpm-dathomir-through-drall.md
+0fd61fbfa7b21e04500620147f5fff4cdfd45d83bec2e6157cd6777409ed4245  1627  egpm-duro-through-endor.md
+eda581999feee8c83a4d195cccf2f817a05d1b0f0b50368df09b4d6a270ca3fe  1884  egpm-eriadu-through-etti4.md
+f56e3ade7f9c8c58a4b83df9459dc0c3cf45d3716043a847e5614ebf1e60c4c5  1925  egpm-firrerre-through-fondor.md
+c1493f6bee9e2aeb3ec628cbb39a007915da334a0624b133cb85ad02ae5856fa  1429  egpm-galantos-through-gamorr.md
+a8d049712967da9cfd75526a5846ab31c1f63f35f026d8ea5398dc774e523199  1647  egpm-garos4-through-hapes.md
+6a29856398fe7ee1f9cdc0695c8db6d041c108dfd058fd07bc9fcc5571a567ec  4726  egpm-honoghr-through-next.md
+38d166ec9fa32ed6cd712b148bef4cd5e818f5647236e4b33327846793d50166  3163  egpm-khomm-through-kuat.md
+fc07d5162082207f65790dfce42eef2c90a1a3cc60910dedfd5db823a5a9a969  1914  egpm-lwhekk-through-mhaeli.md
+dad47379a4b33ccf719da62b8858c2236912d7f81a5811498e9dee33b5feecf0  2264  egpm-mimban-through-moncal.md
+6544dfee174046206c9f1d7ed24a978fcf66e389f830cd7ed5811151cf558cbd  1614  egpm-munto-through-myrkr.md
+59d758eea64785fdcd49bcd9e8db379d3a62fe408a5450c3df94845b1e6e310d  1721  egpm-mytus7-through-nalhutta.md
+66514ff925462a5e473b04fcde16118b4b1f36ea4240c8e7ced83a5a2b741641  1758  egpm-namchorios-through-nimdrovis.md
+e2f8a0eafe63455489f824b68e722264be8235a468db943bb5b9a3fc5fc024af  1411  egpm-nkllon-through-nzoth.md
+e7b31122b37c63eba697ee16d81f76bf1cbb9b31aabab3585c0e2c5c810df4ad  1797  egpm-onderon-through-ordmantell.md
+c46817fe7c374375c940548ce2d933d0d9a21863710e8388e918a341ae1fc134  1449  egpm-ossus-through-pydyr.md
+695b0dcffabd5d4f2572a86d12aa32267bf7fad03979271fbdf6a8adcdfbd5dc  2255  egpm-pzob-through-ralltiir.md
+04d398a6c6aa688f91c58653c3ee07576dc79cb6a307dfef7867d7115819904f  1795  egpm-rodia-through-roon.md
+149c540512a961917e45207f83da53c4c08232f219afe3c83ed9a70dccc33f2a  1766  egpm-ryloth-through-sacorria.md
+77681a1bbc88f2d13a338fbad90d8190a999cc3ce7216498c1aae7e56037ec63  1933  egpm-selonia-through-sullust.md
+ca95b4eddc6b58c83067fd4e7d6740feaf23a090d949ed4414e0dca6fbe642ae  1170  egpm-taanab-through-talasea.md
+65c32880a77bfb9d93fcc2488c4612e6cb00520334aa24a1e951d61155b2e595  1561  egpm-talus-through-tatooine.md
+39c67a3d7ed8750464dd38f40328dcbe96c695a85501e417959b6e807994612f  1504  egpm-telti-through-teyr.md
+21156dfe9cd2055de478bbd97c8b6746b0a329b4faa660130d5fe02b2a105f9c  1351  egpm-thyferra-through-tynna.md
+f6d08d575d64dc28048e2c4fac54306aac4854ee6726d81cb2c126dd49d49c7b  1491  egpm-umgul-through-vergesso.md
+f2efd75272a58e332f04095df2608f160a23801aac5c82f87552fe61e84ca84a  1470  egpm-vortex-through-wayland.md
+cb95349f56572c3ddaaf5e25386578445f10270def664ae8d44c39822052bbdf  1633  egpm-yavin4-through-yavin8.md
+3e12f52b19ca0113b7629190f5039c9872351d2c5487b9b477b8b31524d66815  1526  egpm-ylesia-through-zhar.md
+3f4e446ff6ea0e881755612560324f6c1e79309e03a73625aa29d276445c2cb4  2822  front.md
+e7fbc8aa068510d54676c1685e4289e121aefc57af249b6d099f17728b06f190  290983  quotes/egpm1998-p007-scan021-alderaan-graveyard-propaganda.jpg
+573be0052dea9c6d7fe52d62c4cd81a4b49a502b089ddf8b06d2a7011695197d  295735  quotes/egpm1998-p009-scan023-almania-kueller-thernbee.jpg
+068a10d376ef48622ef700125802e2e5eefbdb324e3d62212f3a0d2026222c26  62754  quotes/egpm1998-p025-scan039-aridus-impostor-dying.jpg
+e49dc5e95f0f722bb73c6fcf6168153417cee37c07814f229150e24731737af4  110653  quotes/egpm1998-p027-scan041-arca-last-words.jpg
+b20ae000078d9f0b5be2e6294ed1f21f2e04f1c97e10c09770cd9db0e626947b  116437  quotes/egpm1998-p051-scan065-bothawui-many-bothans.jpg
+a621d98ed70698574629ad45a67e1ca88b6c8a210c1a8c860d9e30920c2e652b  127774  quotes/egpm1998-p055-scan069-carida-kyp-sun-crusher.jpg
+4e717695ce2aef9ed14b5c51c0e193ea9542d65dd037223e9ec5af6965da2140  146455  quotes/egpm1998-p067-scan081-dantooine-leia-lied.jpg
+a6546e950b81174ef35a5c0ba6bd207e74bfafac18fcd539cd114ab902b0e0e6  164504  quotes/egpm1998-p081-scan095-ackbar-brought-upon-you.jpg
+ca07984489f43278c895711bc1d949b57d8f7ffc60b58a97716d955ab8280c7e  122992  quotes/egpm1998-p085-scan099-firrerre-empire-memory.jpg
+ec65a86edfb523b574f24fa061c71e7342158f14845baae11ae797b80e5c7614  249734  quotes/egpm1998-p119-scan133-mothma-ssi-ruuk-remains.jpg
+ccf91d013faada23759c7dcfc5c6f98bb21f8a519721603ebfe3301e90ffe424  64278  quotes/egpm1998-p146-scan160-ord-mantell-han-leia-bounty.jpg
+2d56c6422a1db85b0962ac7b6f756d2c50eabdbe920b6359749f3bdd24762413  57204  quotes/egpm1998-p158-scan172-greedo-looking-forward.jpg
+2b6d2656dc9452dfec7b596d66ba611a03b0082cb78b56b437e591ddce3f30b8  33159  quotes/egpm1998-p169-scan183-vader-sullust-fleet.jpg
+96a55f38045f1b039020d95d946d0748b4e54b404a44bdb4ce5da6738748749c  45094  quotes/egpm1998-p176-scan190-tatooine-bright-center.jpg
+3bae1787bbc8cecf175c4dfcdd5afb7e12fd7f238df73684733462d60a355626  88300  quotes/egpm1998-p191-scan205-vortex-no-more-music.jpg
+
+## Counts
+markdown: 48
+quote_crops: 15

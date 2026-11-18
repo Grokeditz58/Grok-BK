@@ -1,0 +1,184 @@
+Mara Jade Skywalker — research extraction
+
+PAGE
+- Requested page opened successfully; no fallback was needed.
+- Final URL: https://starwars.fandom.com/wiki/Mara_Jade_Skywalker
+- Continuity/article context: Wookieepedia/Fandom Legends article. Page sections and the Notes and references list were reviewed.
+- Citation convention below is the article's bracketed reference number, followed by the source title as listed in Notes and references.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+POWER / CAPABILITY STATEMENTS (article statements; not automatically standalone feats)
+
+[Lead / biography]
+- The lead describes Mara as a “high-level Force-using operative.” It says Palpatine gave her top-notch training in multiple fields and Force training, later continued by Luke Skywalker. [4, 5]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Mara Jade Skywalker" rev 15683787 but it has no inline citation in its paragraph; exact text match)
+- The lead says that, as Emperor's Hand, she killed Rebels and corrupt Imperials with “cold professionalism,” and that she was a good pilot and mechanic trained in blaster and hand-to-hand combat even without relying on the Force. [4, 5, 9]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+[Powers and abilities]
+- She was a skilled slicer, able to break into secure files “with relative ease,” but the article explicitly says she was not on the same level as Zakarisz Ghent. [21, 31]
+  Source: Children of the Jedi ; "Handoff" — Star Wars Gamer 10 ; Dark Force Rising [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 21,31,15; approximate match 0.86, verify]
+- She infiltrated Thrawn's Star Destroyer Chimaera, hacked its computer, reached the detention block, and freed Talon Karrde. [15]
+- The article calls her well trained in unarmed combat, a skilled tactician able to analyze dangers/traps quickly, and capable of rewiring electronic devices. [16]
+- It calls her an experienced pilot; during the Second Battle of Borleias she became second-in-command of Blackmoon Squadron and provided cover for the Lusankya during Operation Emperor's Spear. [15, 64]
+  Source: Specter of the Past ; The New Jedi Order: Enemy Lines II: Rebel Stand [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 42,64; approximate match 0.81, verify]
+- Beginning with Palpatine's training and continuing to Jedi Master, the article calls her an accomplished lightsaber duelist. It says she used Ataru. [14, 88]
+  Source: Legacy of the Force: Sacrifice ; The Last Command [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 2,14; approximate match 0.70, verify]
+- By Jedi Master rank, the article calls her a powerful New Jedi Order member. It says she used the Force to keep her disease from attacking Ben in the womb, could imbue weapons with the Force to improve accuracy/damage, and could levitate herself on a bubble of Force energy while keeping surrounding air still and heat emissions minimal to avoid sensors. [73, 88, 89]
+  Source: The New Jedi Order Sourcebook ; Jedi Academy Training Manual ; Legacy of the Force: Betrayal [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 89,88,73; approximate match 0.69, verify]
+- As Emperor's Hand she could hear Palpatine's voice through the Force; shortly before marriage, she and Luke discovered a similar telepathic ability between them. [17, 43]
+  Source: Star Wars: Mara Jade – By the Emperor's Hand ; Vision of the Future [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 17,43; approximate match 0.80, verify]
+- Luke relied on Mara's danger sense more than his own, according to the article's relationship/powers discussion. This is a character-level assessment, not a measured feat. [42]
+- The article says she learned to hide in the Force in 40 ABY, useful in her pursuit of Jacen Solo/Darth Caedus. [2]
+- Force lightning: the article explicitly says she learned the skill and used it against Alema Rar in the Battle of Kr. [10]
+
+CONCRETE FEATS BY ARTICLE SECTION
+
+[Early life — Emperor's Hand]
+- The article says she was adept at covert espionage and assassination by age fourteen and became an Emperor's Hand after successfully breaking into Grand Moff Tarkin's private quarters. In the test she fought droid guards with blaster and lightsaber and knocked out the living guard rather than kill him. [2, 5, 19]
+  Source: Rebellion Era Sourcebook ; Legacy of the Force: Sacrifice ; Allegiance ; The New Essential Guide to Characters [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 18,2,19,5; approximate match 0.61, verify]
+- She could hear Palpatine anywhere in the galaxy through a Force/telepathic link and carried out his missions against corrupt Imperial officials, traitors, and others he marked for death or judgment. [4, 17]
+  Source: Heir to the Empire [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 4; approximate match 0.72, verify]
+
+[Early life — Eliminating Choard]
+- After sensing a drug attempt, she subdued storage-facility owner Pirtonna and extracted the BloodScars lead. She stowed away on a pirate freighter, took over the ship, captured Tannis, and called for assistance. [19]
+- On Gepparin, she survived an attempted execution, escaped an orbital bombardment in a Z-10 Seeker, then took command of rogue stormtroopers. With them, she defeated an AT-ST; when Caaldra tried to shoot her, she redirected the bolt into him with her lightsaber. She arrested Governor Choard. [19]
+
+[Early life — Investigating Ferrouz]
+- She defeated two armed guards and executed corrupt judge Lamos Chatoor. She killed mercenaries holding the Hand of Judgment, infiltrated a heavily guarded palace, escaped detention, and confirmed Governor Ferrouz's treason situation. [16]
+- After eight alien assassins attacked, she killed all eight, although Pakrie escaped. She used an explosive passage as a distraction, deflected blaster fire with a lightsaber, and helped Luke Skywalker free Ferrouz's family. [16]
+
+[Early life — Hunting Skywalker]
+- Disguised as Arica in Jabba's Palace, she captured Melina Carniss and used the Force to make Carniss shoot a Gamorrean guard. She fought through three rows of guards, used the Force to put two to sleep, and brought down six more with a force pike. [29]
+- Luke's later Force vision said Mara would have prevented his escape at the Great Pit of Carkoon. This is a hypothetical/vision statement, not an actually performed feat. [4]
+
+[Early life — The search for Black Nebula]
+- After a failed assassination of a decoy, she tested the operation in simulations and succeeded only two of five times, correctly concluding that the target had been a decoy. This is evidence of her own caution/analysis, not a power scale. [17]
+- On Phorliss she fought the more numerous Black Nebula gang members, obtained her lightsaber, and killed the remaining members. Later she killed real Dequc and his guards with a lightsaber and small explosive, then escaped with his intelligence. [17]
+
+[Smuggler — Meeting Skywalker]
+- With her Force abilities suppressed by ysalamiri, she survived several vornskr attacks while working with Luke. She later sensed an Imperial trap, activated the Wild Karrde in time, and piloted it out of the Interdictor's range into hyperspace. [4, 15]
+  Source: Dark Force Rising [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 15; per-sentence approximate match (1/2 sentences matched, min 0.72), verify]
+- She killed bounty hunter Gunner Groth. After turning herself over to Thrawn, she used her old access/passwords to slice into Chimaera and, with Luke, freed Karrde from the brig. [15]
+- In the Battle for the Katana fleet she flew a Z-95; after an ion-cannon hit left her drifting, Luke rescued her. [15]
+
+[Smuggler — Wayland]
+- While strengthened by Luke through the Force, she defeated the dark clone Luuke Skywalker. She then dodged Joruus C'baoth's Force lightning and stabbed C'baoth through the chest while he attacked with Force scream, lightning, and rocks. Luke's powers protected her from the dark-side energy released at C'baoth's death. [14]
+- The Powers and abilities section summarizes this as her defeating Luuke while Force-strengthened and dodging C'baoth's lightning before stabbing him. That scaling is conditional on Luke's aid; the article does not present it as a solo defeat of C'baoth. [14]
+- She later shot down TIE fighters to let the courier Messenger escape. [9]
+
+[Jedi Knight — Apprenticeship]
+- She killed a rancor while stealing Ka'Pa's device, repelled pirate attackers, and recovered a stolen Jedi holocron by boarding a cargo crate to the pirates' base. [11]
+- On Dromund Kaas she defeated native creatures and her own doppelganger. While Kyle Katarn was immersed in the dark side, she fended him off in repeated encounters; in the final encounter she shut off her lightsaber and surrendered, prompting Katarn to turn back. This is not a clean “defeat” of Katarn. [11]
+
+[Yuuzhan Vong War — Jedi Master]
+- She resisted the deadly coomb-spore disease through the Force; the article says she was the only infected person at the Monor II ceremony who did not die. [56, 57, 58]
+  Source: The New Jedi Order: Balance Point ; The New Jedi Order: Vector Prime [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 57,58; per-sentence approximate match (1/2 sentences matched, min 0.68), verify]
+- On Belkadan she became the first Jedi to engage Yuuzhan Vong and was “barely able” to defeat Yomin Carr. The Powers and abilities section says Carr was evenly matched with her in skill; his armor and weapon could resist a lightsaber and he had no Force presence, but she cut both legs off at the knees and stabbed him through the chest. [58]
+- During the Helska operation she continued to fly despite worsening disease, then collapsed in battle; her collapse damaged the Jade Sabre and Luke's last-minute maneuver saved her. This demonstrates determination/endurance, not a victory over an opponent. [58]
+
+[Yuuzhan Vong War — Escalation]
+- At Dantooine she sensed three Yuuzhan Vong infiltrators in ooglith masques, killed them quickly with Leia and Bolpuhr's aid, then found and killed a fourth warrior. [12]
+- At Ithor she fought Yuuzhan Vong troops while weakened, saved Anakin Solo, and acquitted herself well; Corran Horn, not Mara, killed commander Shedao Shai in single combat. [52]
+
+[Yuuzhan Vong War — Expecting mother]
+- With Anakin Solo, she identified a Yuuzhan Vong infiltrator by its absence from the Living Force, fought it, learned the amphistaff's vulnerability, knocked it out, and delivered it for study. The prisoner later killed itself. [57]
+- She sliced into a Duro computer while disguised, identified Nom Anor's old military code, and with Jaina Solo exposed Anor's disguise as Dassid Cree'Ar. When Anor triggered tunnel bombs, Mara and Jaina projected a Force bubble and escaped relatively unharmed. [57]
+
+[Yuuzhan Vong War — Dark times]
+- During Operation Safe Passage she devised a tactic using shadow bombs and coordinated fire that destroyed a Yuuzhan Vong cruiser and skip carrier; the Jedi also captured the yammosk war coordinator. [62]
+- During the fall of Coruscant her fighter was shot down and crashed into the cityscape, but she was not injured in the crash. [62]
+
+[Yuuzhan Vong War — Taking a stand]
+- With Luke and Tahiri Veila, she pursued Lord Nyax/Irek Ismaren, a Dark Jedi with six surgically implanted lightsaber blades. The article says Nyax's superior strength almost overwhelmed all three Jedi; Veila severely wounded him, and the group defeated him with relatively little injury. This is a team feat, not a solo win for Mara. [64]
+- As second-in-command of Blackmoon Squadron, she flew cover for the Lusankya's successful ram of a Yuuzhan Vong worldship during Operation Emperor's Spear. [64]
+- She followed disguised Yuuzhan Vong underwater and stopped an assassination attempt on Cal Omas and Triebakk by nearly ramming the attackers' craft and redirecting their torpedo back into it. [6]
+
+[Yuuzhan Vong War — Into the unknown]
+- During the Battle of Bastion she identified the location of a yammosk carrier for Gilad Pellaeon. In the Battle of Borosk she flew the Jade Shadow in a plan that freed prisoners from a Yuuzhan Vong slave carrier. She then saved Pellaeon from Moff Flennic's assassination attempt. [66]
+- On Csilla, she helped take down two Chiss attackers, commandeered an airspeeder, and flew cover for the ice barge. [67]
+- She and the expedition used a Force Meld to trace Zonama Sekot through hyperspace. [68]
+
+[Yuuzhan Vong War — War's end]
+- On Coruscant, she and Veila fought through Yuuzhan Vong warriors, rescued Han, Leia, R2-D2, C-3PO, and a Noghri from capture, and penetrated the World Brain sanctum. [69]
+- She pursued Nom Anor through Imperial City ruins, deactivated her weapon, beat him down with unarmed combat, then spared him in exchange for entry to Shimrra's citadel. The article explicitly says she allowed him to live. [69]
+- She helped evacuate the wounded Luke after Shimrra was beheaded; Jacen later healed Luke with his tears. Mara did not defeat Shimrra—the article attributes his beheading to Luke. [69]
+
+[Dark Nest Crisis — A cry for help]
+- She discovered the Gorog assassin's plot to brainwash Ben. In the Battle of Kr she fought the Gorog assassin in single combat and quickly killed it; she was then gored in the gut by a Gorog larva and treated by Killik healers. [10]
+- The article says she had learned Force lightning and used it against Alema Rar during the Battle of Kr. [10]
+
+[Dark Nest Crisis — The Swarm War]
+- In the Battle of Sarm she was first to reach an injured Jacen Solo and tried to rescue him from wreckage. She protected Luke's flanks while he fought Lomi Plo, but a shatter-gun pellet tore through her vac suit and destroyed one kidney. [72]
+- Luke, not Mara, killed Lomi Plo; Mara was still recovering at the end of the Swarm War. [72]
+
+[Second Galactic Civil War — Rising tensions]
+- She rescued Tiu Zax from Thrackan Sal-Solo's mansion and conducted reconnaissance inside. Later, she caught Ben's physical Force projection off guard with a kick; the article clarifies it was not actually a ghost. [73]
+- She correctly concluded that Jacen was emotionally conflicted, but the article says she initially misread the cause and trusted him too long. This is an observation, not a combat feat. [74]
+
+[Second Galactic Civil War — Hunting Lumiya]
+- She built a shoto specifically to fight Lumiya's lightwhip. In the encounter at the Hapan rendezvous, Alema Rar nearly killed Mara with a dart, but Mara defeated Rar and knocked her unconscious; she noticed the bomb on Rar and prevented her death from triggering it. [75]
+- The article says Mara and Luke later fought Lumiya and Rar; Mara defeated Rar while Luke was severely injured fighting Lumiya. [75]
+
+[Second Galactic Civil War — Death]
+- After learning Jacen had become too dangerous, Mara ambushed him in Hapan space. In the Kavan tunnels she collapsed rubble onto him and tried to shoot him; Jacen used a Force Wave strong enough to blow away the blaster bolt and cave stones and knock her backward. [2]
+- She continued fighting Jacen with a shoto and vibroblade despite a scalp injury and being thrown into a brick wall several times. The fight degraded into a brawl; the article says she was preparing to finish him when Jacen used a Force illusion of Ben's face to make her hesitate. [2]
+- Jacen then stabbed her thigh with a poisoned dart, causing a slow, paralyzing death. The article says she left her body as evidence and to give her family a goodbye. Jacen later confessed he had brawled with and killed Mara; the article identifies him as Darth Caedus. [2, 35, 78]
+  Source: Legacy of the Force: Sacrifice [per Wookieepedia "Mara Jade Skywalker" rev 15683787, ref 2; approximate match 0.61, verify]
+- Result/scaling: this is a direct fight with Jacen/Caedus. The article does not say Mara defeated or stalemated him; it describes her as injured but still fighting, then killed by Caedus after his Force Wave and deception. [2]
+
+STATEMENTS / HYPE / OPINIONS (not feats)
+- Palpatine calls her “an experiment.” This is his characterization, not a quantified power statement. [17]
+- Mara says, “I am the ultimate predator.” This is her own boast during the Dequc hunt, not proof of a power level. [17]
+- C'baoth says he foresaw that “Mara Jade will bow before me.” This is a villain's prophecy; the actual event is that she stabbed him after evading his attacks. [14]
+- Mara's quote, “As long as I'm fighting, I'm not dying,” is a character statement; the article separately records her illness, collapse, and eventual recovery. [12]
+- In her last words, Mara says Jacen had become worse, more vile and cruel than Palpatine and predicts Luke will defeat him. This is her opinion/prediction, not an established comparison or feat. [2]
+- Saba's funeral speech frames Mara's life and Jacen's life as moral opposites. It is an eulogy/character judgment, not combat scaling. [35]
+
+KEY ARTICLE-EXPLICIT SCALING / LIMITATIONS
+- Luuke defeat was performed while Luke strengthened Mara through the Force. [14]
+- C'baoth was not presented as a solo defeat: Mara received Luke's Force aid, and Luke's powers protected her from the death-energy afterward. [14]
+- Yomin Carr was explicitly “evenly matched” with Mara in skill; the article still says Mara defeated him. [58]
+- Nyax's superior strength nearly overwhelmed Luke, Mara, and Veila together; Veila's Force invisibility and severe wounding enabled the team victory. [64]
+- Mara was explicitly below Zakarisz Ghent as a slicer. [21, 31]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Her final encounter with Caedus ended in her death; the page gives no claim that she was stronger than him. [2]
+
+REFERENCE TITLES USED FOR THE CITED ITEMS
+- [2] Legacy of the Force: Sacrifice
+- [4] Heir to the Empire
+- [5] The New Essential Guide to Characters
+- [6] The New Jedi Order: Destiny's Way
+- [9] "Retreat from Coruscant" — Star Wars Adventure Journal 7
+- [10] Dark Nest I: The Joiner King
+- [11] Star Wars: Jedi Knight: Mysteries of the Sith
+- [12] The New Jedi Order: Dark Tide I: Onslaught
+- [14] The Last Command
+- [15] Dark Force Rising
+- [16] Choices of One
+- [17] Star Wars: Mara Jade — By the Emperor's Hand
+- [19] Allegiance
+- [21] Children of the Jedi
+- [29] “Sleight of Hand: The Tale of Mara Jade” — Tales from Jabba's Palace
+- [31] “Handoff” — Star Wars Gamer 10
+- [35] Legacy of the Force: Inferno
+- [42] Specter of the Past
+- [43] Vision of the Future
+- [52] The New Jedi Order: Dark Tide II: Ruin
+- [56] The New Jedi Order: Destiny's Way
+- [57] The New Jedi Order: Balance Point
+- [58] The New Jedi Order: Vector Prime
+- [62] The New Jedi Order: Star by Star
+- [64] The New Jedi Order: Enemy Lines II: Rebel Stand
+- [66] The New Jedi Order: Force Heretic I: Remnant
+- [67] The New Jedi Order: Force Heretic II: Refugee
+- [68] The New Jedi Order: Force Heretic III: Reunion
+- [69] The New Jedi Order: The Unifying Force
+- [71] Dark Nest II: The Unseen Queen
+- [72] Dark Nest III: The Swarm War
+- [73] Legacy of the Force: Betrayal
+- [74] Legacy of the Force: Bloodlines
+- [75] Legacy of the Force: Tempest
+- [78] Legacy of the Force: Revelation
+- [88] Jedi Academy Training Manual
+- [89] The New Jedi Order Sourcebook

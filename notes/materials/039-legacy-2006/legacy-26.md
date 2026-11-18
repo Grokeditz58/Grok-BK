@@ -1,0 +1,101 @@
+# Star Wars: Legacy #26 — "The Hidden Temple, Part Two" (Dark Horse, July 2008)
+
+- Script John Ostrander · art Jan Duursema · inks Dan Parsons · colors Brad Anderson · letters Michael Heisler · cover Omar Francia ("JEDI FOR A NEW AGE!"). 24 pages read (p1 cover, p2 credits/recap, p3–24 story). Set 137 ABY at the Hidden Temple on Taivas. Flashback on Roon (p9–13, p15), when Jariah was 7.
+- Page numbers are file pages (p1 = cover).
+- New in roster: Zareb Syn (Jariah's father). Also named: Captain Rav (already in roster as `rav`), the droid "FEEJEE-13" (p9, p10), Shado's sister Astraal (p17), the Meditation Garden Orenth (p5), and R2-D2 (shown on p23, only says "DWEET?"; identification is from the art).
+- **Resolved from #25:** Jariah's target is **Rasi Tuum**.
+
+## Jedi Council (T'ra Saa, K'Kruhk, Tili Qua; Bantha Rawk sitting in)
+
+> "ASSASSINATION. MY NEPHEW'S GOTTEN DARKER. NO DEBATIN' THAT." · "I DON'T KNOW AS HIS IDEA'S WRONG, THOUGH. BACK IN THE CLONE WARS, JEDI GOT THEMSELVES ROPED INTO BEIN' GENERALS." · "KRAYT'S COMMITTIN' GENOCIDE AND THE MON CAL ARE JUST SCREAMIN' FOR HELP! THE JEDI GOTTA ACT!"
+> — Bantha Rawk, Star Wars: Legacy #26, p. 3
+
+> "THE JEDI GOT INTO THAT WAR AND IT NEARLY DESTROYED THE ORDER. I MYSELF GAVE IN TO AGGRESSIVE FEELINGS. I KNOW HOW DANGEROUS THEY ARE NO MATTER HOW JUSTIFIED THEY SEEM."
+> — K'Kruhk, Star Wars: Legacy #26, p. 3
+
+> "HOW CAN WE ACT? THE ORDER IS SCATTERED. WE'VE FEW KNIGHTS -- AND FEWER MASTERS. DO WE SEND RAW APPRENTICES AGAINST KRAYT'S DARK SIDE ARMY?" (Tili Qua) · "IF WE ATTEMPT TO SAVE THE MON CAL NOW, DO WE ULTIMATELY GIVE THE GALAXY TO THE SITH? HOW MANY MORE WORLDS DO WE THEN DOOM?" (T'ra Saa)
+> — Tili Qua / T'ra Saa, Star Wars: Legacy #26, p. 3
+
+**The decision** p21–22
+> "THE FIRST ORDER OF BUSINESS IS WITH PRINCESS MARASIAH. THE COUNCIL IS WILLING TO EXPLORE ROAN FEL'S SUGGESTION OF AN ALLIANCE. KRAYT'S ILLNESS MAY PROVIDE AN OPPORTUNITY UNSEEN BEFORE." (speaker unclear: the balloon comes from the Council hologram) · "DURING OUR MEDITATION, THE COUNCIL SENSED A FUTURE IN GREAT TURMOIL. IF CADE SUCCEEDS IN KILLING KRAYT, THE POSSIBILITY EXISTS THAT SOMEONE MORE POWERFUL MAY EMERGE TO RULE THE SITH." (K'Kruhk) · "PERHAPS THE BEST PATH IS TO ALLOW A NATURAL COURSE -- LET THE FORCE WEAKEN THE SITH UNTIL THE ORDER FALLS IN ON ITSELF." (Tili Qua) · "THEREFORE, CADE SKYWALKER, IT IS THE DECISION OF THE COUNCIL NOT TO SUPPORT YOU IN AN ATTEMPT TO ASSASSINATE KRAYT." (T'ra Saa)
+> — Star Wars: Legacy #26, p. 21
+
+> "I HAVE BEEN INSIDE YOUR MIND, SKYWALKER. IT IS NOT CONCERN FOR THE INNOCENT THAT GOADS YOU. YOUR MOTIVE IS REVENGE FOR YOUR FATHER'S DEATH." (K'Kruhk) · "THAT IS A DARK PATH AND A DANGEROUS ONE. JEDI HAVE WALKED IT BUT ALWAYS AT A RISK. WE WILL NOT FIGHT THE ENEMY BY BECOMING THE ENEMY. THAT'S NOT THE JEDI WAY." (T'ra Saa)
+> — K'Kruhk / T'ra Saa, Star Wars: Legacy #26, p. 22
+
+(Speaker check, p21: K'Kruhk's panel has two balloons, the second being "OR RATHER THAN SHATTER, THE SITH COULD SPLINTER INTO FACTIONS -- EACH ONE A NEXUS OF DARK SIDE POWER". Tili Qua's panel also has two, the first being "IF THE SITH DO SHATTER, WILL THEY DISAPPEAR INTO THE GALAXY OR GO ON THE RAMPAGE?". I assigned these by panel.)
+
+## Rasi Tuum vs Jariah Syn
+
+**1. Survives a sniper bolt and an insect swarm, ties Jariah up with vines, and senses his lies.** p5–8, p14
+> "YOU ONCE WERE MY APPRENTICE, AZLYN RAE, AND I CAN STILL SENSE YOUR FEELINGS. IN YOUR MIND, YOUR DUTY MAY BE CLEAR, BUT YOU ARE JEDI IN YOUR HEART AND YOU WILL ALWAYS YEARN FOR THE JEDI WAY."
+> — Rasi Tuum, Star Wars: Legacy #26, p. 5
+
+> "NOW, JEDI, YOU WILL DIE!" (Jariah) · "NO. I WILL NOT." (Rasi) · "FIGURED YOU'D DO THAT." (Jariah) · "GONNA DIE ANYWAY!" (Jariah, p7, releasing a swarm of insect-like creatures)
+> — Jariah Syn / Rasi Tuum, Star Wars: Legacy #26, pp. 6–7
+
+> "LET'S BEGIN AGAIN. MY NAME IS RASI TUUM. AND YOU ARE?" · "I HAVE NEVER KILLED WHEN THERE WAS ANOTHER CHOICE. AND I DO NOT REMEMBER YOUR FATHER."
+> — Rasi Tuum, Star Wars: Legacy #26, p. 8
+
+(p6: Rasi is hit in the chest by a blaster bolt and survives. He then grabs the gun barrel with his hand. p7: he cuts down the swarm with his saber. p8: he binds Jariah with vines; this reads as Force-moved vines.)
+
+**2. Jariah's memory of Roon, then Rasi's account.** p9–15
+> "I WAS SEVEN AND MY DA -- ZAREB SYN -- AND CAPTAIN RAV WENT TO TRADE FOR FLAME GEMS AND ROON SPICE ON THE MINING WORLD ON ROON." · "I SAW DEAD MINERS AND MY DA AND CAP'N RAV FIGHTING FOR THEIR LIVES AGAINST A BATTLE-CRAZED JEDI! -- " · "-- YOU!"
+> — Jariah Syn (caption), Star Wars: Legacy #26, p. 9
+
+> "YOU KNOW THE STORIES. ALL JEDI HATE PIRATES." · "JEDI STEAL CHILDREN AWAY TO THE TEMPLE FOR REASONS MOST FOUL. EVERYONE KNOWS THAT." · "THAT'S WHY THE JEDI WANTED THEM KIDS"
+> — Rav, Star Wars: Legacy #26, p. 12
+
+> "SO THAT WAS YOUR FATHER? I DO REMEMBER HIM. VIVIDLY." · "I WAS ON ROON ON A MISSION WHEN I FELT A STRONG DISTURBANCE IN THE FORCE. SOMETHING HARSH AND DEADLY. I CAME UPON YOUR FATHER AND RAV DESPOILING THE GEM MINERS' CAMP."
+> — Rasi Tuum, Star Wars: Legacy #26, p. 13
+
+> "THEY WEREN'T 'TRADING' -- THEY WERE RAIDING. FOR FUN." · "I DID NOT SEEK THEIR DEATHS; I SOUGHT TO PROTECT THE INNOCENT. I DO NOT LIKE KILLING, BUT SOMETIMES THE FORCE WILLS THAT WE TAKE A LIFE..." · "...SOMETIMES AN EVIL LIFE NEEDS ENDING." · "I OFTEN WONDER ABOUT THE GIRL THAT RAV TOOK."
+> — Rasi Tuum, Star Wars: Legacy #26, p. 14
+
+> "NO. SHE'S NOT."
+> — Jariah Syn, Star Wars: Legacy #26, p. 15
+
+(p12: Rasi kills Zareb Syn with his saber. p15: Rav takes the white-haired girl as plunder; Jariah takes his "DA'S SHARE OF THE BOOTY".)
+
+## Cade Skywalker vs Shado Vao
+
+**1. Duels Shado, then uses his healing power as a weapon.** p17–20
+> "YOUR TRAINING WITH THE SITH HAS MADE YOU DANGEROUS TO THE JEDI, CADE -- AND TO YOURSELF. I DON'T BELIEVE YOU CAN CHOOSE BETWEEN LIGHT AND DARK." · "I'M GOING TO SHOW YOU TO YOURSELF. THE DARKNESS WILL ESCAPE YOU, CADE -- AND YOU WILL NOT BE ABLE TO CONTROL IT. IT WILL CONTROL YOU."
+> — Shado Vao, Star Wars: Legacy #26, p. 18
+
+> "TWO ERRORS, SHADO. FIRST, YOU HAVE NO IDEA WHAT I AM... ...OR WHAT I'VE LEARNED!" · "SECOND -- MY FATHER...YEAH, YOU HEARD ME RIGHT -- SHOWED ME HOW TO USE MY HEALING GIFT ANOTHER WAY." · "I CAN SEE WHERE A BEING IS WEAK OR BROKEN. I CAN POUR THE FORCE INTO THOSE 'BREAKS' JUST ENOUGH TO HEAL." · "OR... ...I CAN USE IT TO TEAR YOU APART."
+> — Cade Skywalker, Star Wars: Legacy #26, p. 19
+
+> "YOU USED THAT WHICH SHOULD HEAL AS A WEAPON... USED YOUR ANGER..." (Shado) · "I CHOSE TO DO WHAT I DID, SHADO. AND I CHOSE NOT TO KILL YOU." · "STILL UNDER CONTROL -- WHATEVER YOU MAY THINK." (Cade)
+> — Shado Vao / Cade Skywalker, Star Wars: Legacy #26, p. 20
+
+(p19: Cade's eyes turn yellow-orange and blue Force energy crackles from his hand into Shado's head.)
+
+**2. Wolf Sazen feels it through their bond. Cade refuses to swear off Sith techniques.** p20
+> "WE STILL HAVE A BOND, WE THREE, CADE -- AND I COULD FEEL WHAT YOU WERE DOING. JUST AS I COULD FEEL THE DARK SIDE WELL UP IN YOU. WHATEVER TRICKS YOU LEARNED WITH THE SITH, CADE -- YOU MUST SWEAR TO ME NOT TO USE THEM AGAIN!" (Wolf) · "NO." · "I'M NOT A SITH, MASTER SAZEN. JUST LIKE I'M NOT A JEDI. THE WAYS OF THE FORCE ARE JUST TOOLS, AND THE DARK SIDE HAS ITS USES." (Cade) · "EVERY WORD YOU SPEAK MAKES ME FEAR FOR YOU MORE, CADE." (Wolf)
+> — Wolf Sazen / Cade Skywalker, Star Wars: Legacy #26, p. 20
+
+**3. Answers the Council and takes on allies.** p22–24
+> "HOW MANY MORE WORLDS DOES KRAYT HAVE TO KILL BEFORE THE JEDI CRY 'ENOUGH'!?" · "IN A BATTLE LIKE THIS, IF YOU HAVE THE CHANCE TO HURT THE ENEMY, YOU TAKE IT!" · "MAYBE IT'S TIME IT WAS!"
+> — Cade Skywalker, Star Wars: Legacy #26, p. 22
+
+> "HER IMPERIAL HIGHNESS, PRINCESS MARASIAH, AGREES WITH YOUR VIEW ON THE USURPER AND HAS ASSIGNED US TO AID YOU" (Imperial Knight, unnamed) · "I'M COMING TO MAKE SURE YOU DON'T BECOME KRAYT." (Shado) · "KILL KRAYT AND THE GALAXY CHANGES." (caption)
+> — Star Wars: Legacy #26, pp. 23–24
+
+(p23: Jariah joins the plan: "HELP OR NO HELP, WE'RE GOING AFTER KRAYT? I'M IN." Bantha leaves for Kiffu to join Droo and the kits. The team is Cade, Blue, Jariah, Azlyn, Shado, two Imperial Knights and R2-D2.)
+
+## Marasiah Fel and Azlyn Rae
+
+> "I'M SENSING SOME AMBIVALENCE IN YOU, AZLYN." · "THOSE OATHS WERE FOR LIFE, MASTER RAE. THERE IS NO WALKING AWAY FROM THAT." · "ONLY ONE. HIS OATHS WERE ALSO FOR LIFE AND HIS LIFE PROVED SHORT. ONE WAY OR ANOTHER, HIS OATHS WERE HONORED."
+> — Marasiah Fel, Star Wars: Legacy #26, p. 16
+
+> "THE EMPIRE TOOK ME IN TO FINISH MY TRAINING AND WHEN I BECAME A KNIGHT I SWORE THE OATHS...AND YET..." · "BUT HAS NO IMPERIAL KNIGHT EVER WALKED AWAY?"
+> — Azlyn Rae, Star Wars: Legacy #26, p. 16
+
+## Deliah Blue
+
+> "CADE! WE NEVER DID ASSASSINATIONS BEFORE! EVEN WITH THE JEDI ALONG, IT FEELS LIKE A SUICIDE RUN!" · "CHUT CHUT, HON -- NEVER SIGNED ON FOR A LONG LIFE. SHORT, FAST, INTERESTING -- AND THAT'S WHAT YOU'RE PROMISING. I'M IN."
+> — Deliah Blue, Star Wars: Legacy #26, p. 4
+
+> "KRAYT'S NOT GONNA LEAVE ME ALONE. HE'S GONNA FIND ME NO MATTER HOW LONG I RUN" · "CAN'T LIVE LIKE THAT, BLUE. I WON'T."
+> — Cade Skywalker, Star Wars: Legacy #26, p. 4

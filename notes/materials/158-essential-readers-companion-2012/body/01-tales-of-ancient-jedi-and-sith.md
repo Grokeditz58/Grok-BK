@@ -1,0 +1,98 @@
+# Chapter I — TALES OF ANCIENT JEDI AND SITH (S009–S039)
+
+Visual source: CBR FD0WCBbA, p009–p039. No printed folios. Chapter head on S009 uses Roman **I** (the Contents leaf used arabic 1). The next chapter opens on S040. “Click to buy …” hyperlinks at the ends of many novel entries are part of this rasterized ebook; they are not trade-paperback furniture. Caption-only or nearly blank leaves occur when a painting and its caption were split across two ebook screens (S017, S022, S026, S029, S034, S036, S038).
+
+## S009 — chapter opener
+
+Circle emblem, **CHAPTER I**, title **TALES OF ANCIENT JEDI AND SITH**. Drop cap **C** then **IVILIZATION IN THEStar Wars** (no space after THE). Opener (visual read of `ov009`; tight-crop before any certified quote): civilization in the *Star Wars* galaxy stretches back more than twenty-five thousand years, to an ancient past where history and mythology are inextricably braided. Legends of enormously powerful alien cultures—the Maw, the peculiar alignment of the five worlds in the Corellian system, and the spread of humanity in “prehistoric” times. *Star Wars* storytelling has presented these origins as historical backstory, with most tales beginning no earlier than five thousand years before the Battle of Yavin. An exception: the *Dawn of the Jedi* comics from Dark Horse, published in 2012, set 25,000 years in the past, indicate that this frontier is open for narrative exploration.
+
+**Continuity / Lucas (for LEGENDS-CANON-HIERARCHY.md):** Before the late 1990s, when George Lucas and his crew began work on *Star Wars*: Episode I *The Phantom Menace*, Jedi lore was a precious rarity in the Expanded Universe. Lucasfilm kept a tight guard on Jedi mythology, to give the stories Lucas wished to explore in Episodes I, II, and III as wide a berth as possible. Enterprising authors found a way to tell Jedi stories by going far back in time, millennia before the fall of the Republic, so differences of interpretation could be smoothed out by the passage of centuries.
+
+## Character portraits (S010–S015)
+
+Rounded watercolor-style plates, caption centered under the art (no artist credit on the leaf):
+
+- S010 **Yaru Korsin**
+- S011 **Orielle “Ori” Kitai**
+- S012 **Zeerid “Z-man” Korr**
+- S013 **Aryn Leneer**
+- S014 **Darth Scabrous**
+- S015 **Darth Zannah**
+
+## S016–S018 — *Lost Tribe of the Sith: The Collected Stories*
+
+S016 uncaptioned painting: a purple-skinned figure (Adari Vaal) rides a winged uvak past a wrecked white ship on a mountain slope. Caption at the top of S017: **Adari Vaal, atop her flying uvak, spots the half brothers Yaru and Devore Korsin fighting near the crash site of the Sith vessel *Omen*.**
+
+Entry title **LOST TRIBE OF THE SITH: THE COLLECTED STORIES**. Author John Jackson Miller; cover artists David Stevenson and Scott Biel; novel, Del Rey, trade paperback July 2012. Originally serialized as eight eBook novellas: *Precipice* (May 2009), *Skyborn* (July 2009), *Paragon* (February 2010), *Savior* (April 2010), *Purgatory* (October 2010), *Sentinel* (February 2011), *Pantheon* (July 2011), and *Secrets* (March 2012). Time line: 5000 BBY (*Precipice*, *Skyborn*), 4985 BBY (*Paragon*), 4975 BBY (*Savior*), 3960 BBY (*Purgatory*, *Sentinel*), 3000 BBY (*Pantheon*, *Secrets*), 2975 BBY (*Pandemonium*). World: Kesh [U-10]. Main characters include Yaru Korsin, Adari Vaal, Seelah, Jariad Korsin, Nida Korsin, Orielle “Ori” Kitai, Jelph Marrian, and later figures (Varner Hilts, Edell Vrai, etc.).
+
+Summary covers the *Omen* crash during the Great Hyperspace War, the Skyborn religion, Seelah’s coup, later dynastic stagnation, Hilts’s revelation of a Naga Sadow recording, the invasion of Alanciar, and Hilts welcoming Keshiri blood into the Tribe. Typography in the summary: the later Kitain line on S017 prints **Orielle Kitain** / **Candra Kitain** (contrast the portrait and main-character list **Kitai**; do not regularize either). “Varner  Hilts” and other irregular spaces appear in the CBR render.
+
+S018 BTS: the Lost Tribe series is a tie-in to Del Rey’s Fate of the Jedi novels (2009–2012), set more than forty years after *A New Hope*. *Pandemonium* was an original story written for the trade paperback. The Lost Tribe begins in the thick of the Great Hyperspace War, a conflict between the ancient Republic and the Sith that was the subject of Dark Horse’s *Tales of the Jedi: The Golden Age of the Sith* (1996–97) and *Tales of the Jedi: The Fall of the Sith Empire* (1997). The Tribe story continued in *Lost Tribe of the Sith: Spiral*, a Dark Horse mini-series in the fall of 2012. The novel *Crosscurrent* (2010) also begins in 5000 BBY, with a cameo by the ship *Omen*, but because it occurs in multiple eras the Companion includes it much later in the time line, at 40 ABY.
+
+**SPOTLIGHT — Tales of the Jedi Comics** begins at the foot of S018 and continues on S019.
+
+## S019–S022 — TotJ spotlight; *The Old Republic: Revan*; KOTOR spotlight
+
+S019 (yellow TotJ cover thumb): Dark Horse first blazed into the uncharted history of the ancient Sith and Jedi in *Tales of the Jedi* (1993–94). Written by Tom Veitch, later joined by Kevin J. Anderson; introduced Ulic Qel-Droma, Freedon Nadd, Nomi Sunrider, Exar Kun, and Naga Sadow. **Continuity:** “As groundwork for the comics, Veitch prepared a questionnaire about Jedi and Sith lore that George Lucas answered. With this information, the *Tales of the Jedi* comics were the first to identify the Sith as an order of ambitious dark siders built around a master-and-apprentice relationship.” The comics chronicle the Great Hyperspace War (5000 BBY) and the Great Sith War (4000 BBY). Tight-cropped at `typ019_totj_lucas`.
+
+Entry **THE OLD REPUBLIC: REVAN**. Drew Karpyshyn; cover artist LucasArts; Del Rey hardcover November 2011, paperback September 2012. Time line 3954–3950 BBY; c. 3900 BBY (epilogue). Worlds: Bosthirda [R-5], Coruscant [L-9], Dromund Kaas [R-5], Hallion [R-5], Nathema [S-4], Rekkiad [S-4]. Main characters: Revan, Lord Scourge, Meetra Surik, Canderous Ordo, T3-M4, Darth Nyris, Darth Xedrix, Bastila Shan, Emperor Vitiate. Summary (S020) follows Revan’s amnesia, the Sith Empire plots, Nathema, Revan’s capture, Scourge’s alliance with Meetra, and the failed strike on the Emperor; peace lasts another fifty years; Vaner grows into an influential man of politics. “Click to buy The Old Republic: Revan.”
+
+S021 painting (caption at top of S022): **Revan looks upon a hologram of his wife, Bastila, and their child, Vaner.**
+
+S022 BTS / **SPOTLIGHT — Knights of the Old Republic**. Drop cap collision: **IN THE VIDEOGAMEKnights of the Old Republic** (2003), Revan is by necessity a blank slate, a Jedi hero whose gender, appearance, and name could be customized by the player. As more stories and source material referenced Revan, the character underwent further refinement. This novel canonically defines his appearance, history, and personality, and does the same for the unnamed Jedi Exile from *Knights of the Old Republic II: The Sith Lords* (2004), here identified as Meetra Surik. LucasArts and BioWare released *Knights of the Old Republic* (also known as *KotOR*) in 2003. **Continuity:** “A true canonical order of specific events has not been established, but the “light side” ending (as opposed to the ending achievable if the player concentrates on dark side actions) is accepted to be the historically accurate account.” The game is set during the Jedi Civil War; Malak and Revan take an offensive role in repulsing Mandalorian invaders, succumb to the dark side, and the Republic must stop Malak from uncovering a Rakatan relic. A sequel, *KotOR II*, and a *KotOR* comic series (began 2006, set before the games) became backstory to *Star Wars: The Old Republic* MMO and its tie-in books and comics. Tight-cropped at `typ022_kotor_canon`.
+
+## S022–S024 — “Smuggler’s Vanguard”; TOR online shorts; *Deceived*
+
+**“THE OLD REPUBLIC: SMUGGLER’S VANGUARD.”** Rob Chestney; short story, StarWars.com, March 2010; c. 3660 BBY; Corellia [M-11]; Hylo Visz (Mirialan female). Superstitious smuggler, *Crimson Fleece*, Rendili Vehicle Corporation, crime lord Barrga the Hutt; she escapes Corellia by stealing a prototype Vanguard-class light corvette.
+
+Green short-story sidebar (continues S023): completists wanting all *Star Wars* prose fiction will want two John Jackson Miller online stories (StarWars.com, 2008) tying into the Dark Horse *Knights of the Old Republic* comics. “Labor Pains” after issue #12 / after the *Flashpoint* trade; “Interference” after #21 or midway through *Daze of Hate, Knights of Suffering*, unusual format (intercepted propaganda during the Mandalorian invasion of Taris). Both set in 3963 BBY; “Readers can find these stories at star-wars.suvudu.com.”
+
+**THE OLD REPUBLIC: DECEIVED.** Paul S. Kemp; cover LucasArts; hardcover March 2011, paperback May 2012; c. 3653 BBY. Worlds: Alderaan [M-10], Coruscant [L-9], Ord Mantell [L-7], Vulta [N-7]. Characters: Zeerid “Z-Man” Korr, Aryn Leneer, Darth Malgus, Eleena (Twi’lek), Darth Angral, Darth Adraas, Vrath Xizor. Summary: Sith surprise attack on Coruscant during the Alderaan peace conference; Malgus kills Ven Zallow and brings down the Temple; Aryn seeks vengeance; Zeerid and daughter; *Valor* blasts *Fatman*; Aryn and Malgus duel, Eleena spared, they retire to a farm on Dantooine.
+
+S024 BTS: the book expands upon a cinematic trailer for the videogame *Star Wars: The Old Republic* (2009). Fallout from the Coruscant blitz is also the focus of the comic *The Old Republic: Threat of Peace* (2009). James Luceno was originally slated to write a tie-in novel developing Darth Malgus (early concepts of Malgus as a former slave hardened in gladiatorial combat did not fit BioWare/LucasArts’s direction). Luceno reworked some of this into Darth Maul’s history in *Darth Plagueis* (2012). As Kemp wrote *Deceived*, some darker Malgus details were trimmed—a scene of the triumphant Sith playing a game of ball with severed Jedi heads, for example, was left out of the final text.
+
+## S025–S029 — “The Third Lesson”; *Red Harvest*
+
+S025 painting, caption at top of S026: **Jedi Knight Aryn Leneer and pilot Zeerid “Z-Man” Korr leap from the doomed vessel *Fatman* as the freighter crashes through the atmosphere of Coruscant.** (Caption uses **Z-Man**; the S012 portrait caption is **Z-man**.)
+
+Short story **“The Third Lesson”** — Paul S. Kemp, *Star Wars Insider* #124 (March 2011), Titan Publishing. Set prior to *Deceived*; Malgus surviving a Jedi ambush during the Sith attack on Alderaan; flashbacks to lessons from his father, an Imperial biologist.
+
+**RED HARVEST.** Joe Schreiber; cover artist Indika (hardcover and paperback); hardcover December 2010, paperback February 2012; 3645 BBY. Worlds: Geonosis [R-16], Marfa [M-10], Odacer-Faustin [Q-5]. Characters: Hestizo “Zo” Trace, Tulkh (Whiphid), Darth Scabrous, Dail’liss (Neti), Rojo Trace, Hartwig, Kindra, Pergus Frode. Summary: Scabrous, the Murakami orchid, the Sickness, undead Academy, Zo’s command Grow, Tulkh jettisoned, Zo and Pergus reach the Jedi greenhouses of Marfa.
+
+S027 BTS: originally called *Black Orchid*; retitled *Red Harvest* (plot fit and a nod to *Return of the Jedi* (1983), code-named *Blue Harvest* during stateside filming as a smokescreen). Prequel to *Death Troopers* (2009); they share no recurring characters, though the Sickness is occasionally personified. At story’s end Zo intends to visit the Jedi Temple on Coruscant, but at this point in the time line—eight years after *The Old Republic: Deceived* (2011)—the Temple should be in ruins.
+
+S028 painting of infected tauntaun zombies in a firelit chamber. S029 is a caption-only leaf (almost no other content): **Hunter Tulkh stares at the horrific sight of infected undead Sith students at the academy on Odacer-Faustin riding within similarly afflicted tauntaun zombies.**
+
+## S030–S032 — *Fatal Alliance*; *Annihilation*; “The Last Battle of Colonel Jace Malcom”
+
+**THE OLD REPUBLIC: FATAL ALLIANCE.** Sean Williams; LucasArts covers; hardcover July 2010, paperback May 2011; c. 3643 BBY. Worlds: Coruscant, Dromund Kaas, Nal Hutta, Sebaddon [Q-11], Tatooine. Characters include Shigar Konshi (Kiffar), Eldon Ax, Larin Moxla, Ula Vii (Epicantix), Jet Nebula, Satele Shan, Darth Chratis, Dao Stryver (Gektl). Summary: the *Cinzia*, hex droids, Lema Xandret / Eldon Ax, Sebaddon’s orbit decays into a black hole.
+
+**THE OLD REPUBLIC: ANNIHILATION.** Drew Karpyshyn; hardcover November 2012; 3640 BBY. **WORLDS VISITED (PARTIAL LIST)** as printed: Alderaan (flashbacks), Coruscant, Dromund Kaas, Nar Shaddaa, moon of Nal Hutta, Ziost [R-4]. Characters: Theron Shan, Gnost-Dural (Kel Dor), Jace Malcom, Darth Karrid (Umbaran female). Brief summary (the ebook leaf is short): SIS team vs. the *Ascendant Spear* under Karrid, a former apprentice of Malgus who wants pan-species unity. “Click to buy” on the same leaf.
+
+S031–S032 BTS: as a senior writer for BioWare, Karpyshyn helped establish the complex storylines of *Knights of the Old Republic* and *Star Wars: The Old Republic*, putting him in position to expand those narratives in novels. *Ascendant Spear* and Theron Shan were first introduced in *The Old Republic: The Lost Suns* comics (Dark Horse, June 2011). Flashbacks to a battle on Alderaan with Jace Malcom serving alongside Satele Shan, vividly realized as a CG cinematic trailer for the *Old Republic* videogame, June 2010.
+
+Short story **“The Last Battle of Colonel Jace Malcom”** — Alexander Freed, *Star Wars Insider* #137 (October 2012, Titan). Jace Malcom’s last battlefield assignment; he is recalled by the Supreme Chancellor and assigned a new mission.
+
+## S032–S034 — *Knight Errant* (novel and comics spotlight)
+
+**KNIGHT ERRANT.** John Jackson Miller; cover John VanFleet; paperback January 2011; 1032 BBY. Worlds: Byllura [N-17], Darkknell [M-17], Gazzari [M-17], Syned [N-17]. Characters: Kerra Holt, Narsk Ka’hane (Bothan), Jarrow Rusher, Lord Daiman, Lord Odion, Quillan and Dromika, Arkadia Calimondra, Vilia Calimondra. Summary: New Sith Wars, Grumani sector, Daimanate, *Diligence*, Byllura, Syned, escape to Republic space; Kerra intends to return.
+
+S033 BTS: Miller specifically carved out the **Grunani** sector (as printed in this BTS paragraph; the summary on S032 uses **Grumani**; do not regularize either) as the setting for his Kerra Holt stories. Prior short story “Influx” (2010) on StarWars.com as a lead-in; also *The Essential Atlas* Extra: Knight Errant Gazetteer by Miller, Daniel Wallace, and Jason Fry. Painting of Kerra Holt vs. a Celagian; caption at top of S034: **Kerra Holt discovers the Celagian telepaths who have helped the Sith subjugate the world of Byllura.**
+
+**SPOTLIGHT — Knight Errant in Comics.** Close collaboration of Dark Horse and Del Rey. Miller wrote the novel and a comic series (began October 2010). *Aflame* (five issues, Chelloa); *Deluge* (Aquilaris, Jeen Devaad, moisture vaporator, Zodoh); *Escape* (Helm of Ieldis, survivors of the assault on Aquilaris).
+
+## S034–S039 — The Darth Bane Saga; “Bane of the Sith”; *Jedi vs. Sith* note; “Darkness Shared”
+
+Title **THE DARTH BANE SAGA**. On S034 the three titles are run together with no spaces, as printed: **DARTH BANE: PATH OF DESTRUCTIONDARTH BANE: RULE OF TWODARTH BANE: DYNASTY OF EVIL**. Drew Karpyshyn; covers John Jude Palencar (*Path of Destruction*, *Dynasty of Evil*) and John VanFleet (*Rule of Two*). Publication: *Path* HC September 2006 / PB June 2007; *Rule* HC December 2007 / PB October 2008; *Dynasty* HC December 2009 / PB September 2010. Time line 1003–980 BBY. Worlds include Ambria, Apatros, Ciutric IV, Coruscant, Doan, Korriban, Lehon (aka Unknown World, Rakata Prime) [G-11], Nal Hutta, Onderon (and its moon Dxun), Phaseera, Prakith, Ruusan, Serenno, Tython. Characters: Darth Bane, Darth Zannah, Githany, Lord Kaan, Johun Othone, Serra, Set Harth, Darovit, the Huntress (Iktotchi).
+
+S035 painting of Dessel (caption at top of S036): **Dessel—the future Darth Bane—leads his elite Sith squad known as the Gloom Walkers.** Long three-book summary on S036–S038 (thought bomb, orbalisks, Andeddu, the Huntress becomes Darth Cognus, Set Harth escapes with Andeddu’s Holocron). S037 has a broken ebook buy-line, spaced out across the width: “Click the links below to buy the books,” with three broken URL-like lines, plus a painting of Bane and Zannah dueling; caption at top of S038: **Darth Bane and Darth Zannah enter a final lightsaber duel from which only one of them will walk away.**
+
+S038 BTS is a major in-book continuity history of the Sith (tight-cropped `typ038_bane_lucas_sith` / `typ038_tpm_lucas_sith`; quoted more fully in `LEGENDS-CANON-HIERARCHY.md`). In brief, as printed: *Star Wars* (1977) does not mention Darth Vader’s title on screen, but “Dark Lord of the Sith” is in the script and in tie-in publications, including the novelization. In developing *Heir to the Empire* (1991), Timothy Zahn tried to establish the Sith as a species of assassins subservient to Vader; Lucasfilm rejected this, and those assassins became the Noghri. With insights from George Lucas, Tom Veitch began revealing more about the Sith in *Tales of the Jedi* (1993)—dark side practitioners, a Dark Lord and an apprentice, but no restriction on the number of Sith. *Tales of the Jedi: The Freedon Nadd Uprising* (1994) used “Sith civilization”; *The Golden Age of the Sith* (1996–97) depicted them as red-skinned humanoids. *Dark Forces II: Jedi Knight* (1997) and the accompanying novellas describe Ruusan and a battle “hundreds and hundreds of years ago,” without explicitly calling the practitioners Sith. “In 1999, *The Phantom Menace* finally shed light on George Lucas’s vision of the Sith,” a “canonical history” of a Rule of Two and a millennium of apparent extinction. Working with Terry Brooks, Lucas revealed more specific details in the Episode I novelization (a Jedi founds the Sith two thousand years earlier; a thousand years after that, infighting, and a sole survivor—Darth Bane—restructures the order to two). That history was merged with the Ruusan tales in *The Essential Chronology* (2000) and *Secrets of the Sith* (2000), then dramatized in the *Jedi vs. Sith* comics (2001) and the Bane novels.
+
+Short story **“Bane of the Sith”** — Kevin J. Anderson, *Star Wars Gamer* #3 (2001, Wizards of the Coast). Events later retold in *Darth Bane: Rule of Two* (2007); the magazine story has incongruities (Bane not presented as the scheming mastermind behind the thought bomb; Zannah not mentioned).
+
+**Chronological Note** (S038–S039): the 2001 Dark Horse *Jedi vs. Sith* series was the first dramatized depiction of the Battle of Ruusan (introduced in *Dark Forces II*). *Path of Destruction* encompasses this tale in its final chapters but focuses on Bane; the comic concentrates on Zannah, Darovit, and Hardin (aka Rain, Tomcat, and Bug), who are scarcely mentioned in the novel. The sources also differ in “mostly superficial” ways (dialogue, order of events). Githany’s death differs notably: in the novel she is immediately swept up in the thought bomb blast; in the comic she lives long enough after the detonation to encounter Bane one last time and beg to be his apprentice before her body falls apart.
+
+**“DARKNESS SHARED.”** Bill Slavicsek; short story, Wizards of the Coast, *Star Wars Gamer* #5, August 2001; 1000 BBY; Balowa [Q-12]. Kaox Krul (Sith marauder), Dree Vandap (Rodian Padawan), Crian Maru (Jedi Knight). Krul hunts them; all fall; their emotions leave a concentration of the dark side on the world.
+
+Chapter I ends on S039. Chapter 2 begins S040.

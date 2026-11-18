@@ -1,0 +1,55 @@
+AGEN KOLAR — RESEARCH EXTRACTION
+
+Retrieved: 2026-10-04 (UTC)
+Final URL: https://starwars.fandom.com/wiki/Agen_Kolar/Legends
+Continuity label: LEGENDS
+Page signal: the article is categorized as a “Legends article” and the requested Legends subpage loaded successfully (no 404 fallback was needed).
+
+CONCRETE FEATS / EVENTS (with the page’s citations)
+
+1. Geonosis (22 BBY): Kolar and Padawan Tan Yuster fought through battle droids to reach the arena floor. Yuster died among the Jedi survivors; Kolar survived the battle and joined the fighting after Yoda arrived with clone reinforcements. [3][4]
+
+2. Brentaal IV: Under Plo Koon and Shaak Ti, Kolar led an assault on the north face of Shogar Tok’s citadel. He ultimately surrendered with his troops, briefly resisted interrogation, and was later freed. The account says he claimed to have felt Shaak Ti die through the Force; this was part of his testimony to his captors, not a cleanly demonstrated combat feat. [9]
+
+3. Nar Shaddaa / Quinlan Vos: Kolar Force-pushed Vos into a wall and captured him; in a later duel he quickly disarmed Vos and cut across Vos’s shoulder armor as a warning. Kolar then Force-pulled an angry mob’s weapons away and fought the mob unarmed. The article says he handled the mob without killing or maiming its members. [7][16]
+
+4. The Rig / Crimson Nova: Disguised as the bounty hunter “Argent Kole,” Kolar infiltrated the station with Windu, Tiin, and Fisto. He helped turn the station into chaos, secured the blast doors, and disabled the escape pods while attempting to locate the source of the Jedi bounties. [15][16]
+
+5. Boz Pity: Kolar was among a large Jedi complement that reached the Separatist base. He engaged surrounding battle-droid squads, but did not receive a lightsaber duel with Dooku, Grievous, or Ventress. [20][21]
+
+6. Coruscant / Grievous’s escape: Kolar fought the Confederate Navy in a starfighter, then repeatedly engaged Grievous’s escape shuttle with Tiin and Pablo-Jill. They closed on it and reduced its shields, but debris fields and Grievous’s destruction of civilian ships forced them to fall back; Grievous reached the Invisible Hand. [23]
+
+SIDIOUS ENCOUNTER — WHAT THE PAGE ACTUALLY SAYS
+
+- Kolar stayed on Coruscant as part of the group of combat-hardened Masters held in reserve to counter Darth Sidious. He proposed using Yoda on Kashyyyk to make Sidious overconfident and draw him into action. [22]
+- After learning Palpatine was Sidious, Windu led Kolar, Saesee Tiin, and Kit Fisto to arrest him. Kolar wanted to know why Anakin Skywalker was not accompanying them; Windu and Tiin reassured the group, and they proceeded to Palpatine’s office. [2][22]
+- In the office, each Jedi lit a lightsaber. When Windu declared Palpatine under arrest, Sidious drew his own blade, leapt across the desk, and stabbed Kolar through the torso before Kolar could bring his blade into position. Kolar died by that single attack; Tiin died in the same opening exchange, and Fisto was killed shortly afterward. [2][22]
+- The page’s explicit explanation is that Kolar was caught off guard by Sidious’s speed. It records no sustained duel, Kolar hit, or successful defense against Sidious. [22]
+- Kolar’s last words as quoted by the page: “It doesn't … hurt …” [22]
+
+HYPE / POWER STATEMENTS (KEEP SEPARATE FROM DEMONSTRATED RESULTS)
+
+- The article calls Kolar “one of the Order’s leading members” and “one of its best swordsmen” by 22 BBY. [4][8]
+- It describes him as “one of the most skilled swordsmen in galactic history,” says he was a master of Form IV Ataru, perceived as second only to Yoda in that form, and also an adept Form V practitioner combining Djem So and Ataru. These are assessments, not a recorded win over those comparators. [8][25]
+- The article says the Jedi Council believed Windu and Kolar alone would provide a significant counter to Sidious if he revealed himself. This is explicitly a Council expectation/hype statement and is contradicted by the recorded result: Sidious killed Kolar immediately. [22]
+- It calls Kolar one of the Jedi Order’s most powerful martial artists and says Force Push could devastate opponents with the sheer force of the blast. These are descriptive assessments; the concrete Force Push examples are the wall-push against Vos and the disarming pull against the mob. [1][7][16]
+- The article says Kolar earned Mace Windu’s respect and even admiration. This is an evaluative statement, not a standalone feat. [8]
+
+SOURCE KEY (as cited on the page)
+[1] Star Wars: Head-to-Head Tag Teams
+[2] Star Wars: Episode III Revenge of the Sith
+[3] Star Wars: Episode II Attack of the Clones
+[4] “Kolar, Agen” Databank entry (original site listed as defunct)
+[7] Republic 54
+[8] Star Wars: Revenge of the Sith: The Visual Dictionary
+[9] Jedi: Shaak Ti
+[15] Republic 65
+[16] Republic 66
+[20] Obsession 4
+[21] Obsession 5
+[22] Star Wars: Episode III Revenge of the Sith novelization (the page also cross-references the film for the onscreen death)
+[23] Labyrinth of Evil
+[25] Power of the Jedi Sourcebook
+
+CAUTION
+The article includes a “Behind the scenes” note that the Revenge of the Sith novelization’s version of Kolar’s death (pierced through the head after Tiin’s death) contradicts the film and is treated there as non-canon. The extraction above uses the film’s onscreen torso-stabbing account for the concrete Sidious result and labels the novelization only where the page cites it.

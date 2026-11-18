@@ -1,0 +1,468 @@
+Darth Caedus (Jacen Solo) — article extraction
+Source opened: https://starwars.fandom.com/wiki/Darth_Caedus
+Final URL: https://starwars.fandom.com/wiki/Darth_Caedus (no redirect)
+Coverage: Article body read through Notes and references / end of article. The page had no collapsed article-content sections detected; navigation/footer material is omitted.
+
+Each quotation below is copied from the article. [FEAT] is an action/capability; [STATEMENT] is a characterization, comparison, prediction, opinion, or hype and is not presented as a feat. “Scaling” records only relationships the article itself states.
+
+BIOGRAPHY
+
+[STATEMENT] Section: Biography (lead — Target from birth / overview)
+“Whatever Jacen has become, he was a hero once. Jacen Solo saved the galaxy.” —Leia Organa Solo [24]
+Scaling: Leia’s character statement; the lead also says Caedus “proved crucial in defeating the Yuuzhan Vong and protecting the galaxy during the Yuuzhan Vong War.”
+  Source: Legacy of the Force: Inferno [per Wookieepedia "Darth Caedus" rev 15733922, ref 24; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — Target from birth
+“As Jacen and Jaina Solo developed in their mother's womb, it was immediately apparent that they were Force-sensitive, and Organa Solo was able to make mental contact with their developing minds through the Force.” [1]
+Scaling: His mother’s Force contact with both twins is the article’s cited basis for the early Force-sensitivity statement.
+  Source: The Last Command [per Wookieepedia "Darth Caedus" rev 15733922, ref 1; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Earliest years — Target from birth
+“Their uncle, Luke Skywalker, tested their Force potential and found it astonishing.” [27]
+Scaling: Luke Skywalker is the evaluator; this is an assessment, not a demonstrated feat.
+  Source: The Last Command Sourcebook [per Wookieepedia "Darth Caedus" rev 15733922, ref 27; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — Target from birth
+“Rather than be eaten, they cooperated in using the Force to pull out the pins holding their cage together.” [8]
+Scaling: Jacen and Jaina performed the escape together as children.
+  Source: Dark Apprentice [per Wookieepedia "Darth Caedus" rev 15733922, ref 8; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — Target from birth
+“Fearlessly, young Solo charged the creatures to drive them away. At Skywalker's urging, he took up the Jedi Master's lightsaber and, with Skywalker fighting through him, defeated all three creatures.” [33]
+Scaling: The article explicitly says Luke Skywalker was fighting through him; Jacen was two years old and used Luke’s lightsaber against three Sithspawn battle hydras.
+  Source: Champions of the Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 33; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — The Empire Reborn
+“Solo used his Force-driven affinity for animals to convince the myrmin-like insects in the dining hall to crawl inside the Proctors' clothing.” [36]
+Scaling: His Force affinity for animals is the stated mechanism.
+  Source: The Crystal Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 36; approximate match 1.00, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — The Empire Reborn
+“Communing with the creature through the Force, Solo befriended and convinced her to carry the escaping children on her back.” [36]
+Scaling: The creature was the sand dragon guarding the escape route; the article attributes the result to Force communication and persuasion.
+  Source: The Crystal Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 36; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — The Empire Reborn
+“The Solos again manipulated molecules, this time freezing the water in the mud to create a solid pathway to a tree on the far side, which was hollow.” [36]
+Scaling: The article’s immediately preceding account describes the twins as five years old.
+  Source: The Crystal Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 36; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — Caught up in revolt
+“Before Solo had fully mastered flight, the assault boat was in pursuit. Wildly dodging Sal-Solo's shots, Solo's amateur flying was able to put him on the assault boat's tail, allowing Jaina to disable it.” [48]
+Scaling: He was piloting the Millennium Falcon, was not yet a master pilot, and Jaina supplied the disabling shot.
+  Source: Showdown at Centerpoint [per Wookieepedia "Darth Caedus" rev 15733922, ref 48; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Earliest years — Caught up in revolt
+“Solo was forced to pilot the badly damaged ship from its landing site to an emergency landing at the Great Temple.” [56]
+Scaling: The article says the Lightning Rod was badly damaged; his distress message brought reinforcements that defeated the Second Imperium fleet.
+  Source: Young Jedi Knights: Jedi Under Siege [per Wookieepedia "Darth Caedus" rev 15733922, ref 56; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — Temptation at the Shadow Academy
+“From within the room, he used the extremely hard gem to slice out the back of the control box that opened the door from outside, allowing him to hot-wire the door open.” [54]
+Scaling: The gem was the Corusca gem he had won while mining with Lando Calrissian; he then freed Jaina and Lowbacca.
+  Source: Young Jedi Knights: Shadow Academy [per Wookieepedia "Darth Caedus" rev 15733922, ref 54; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — Devastating accident
+“The clash took a tragic turn when Djo's lightsaber, hastily made with flawed crystals, failed. Meeting no resistance, Solo's blade swept through Djo's left arm, severing it above the elbow.” [55]
+Scaling: This was a sparring duel; the article attributes the injury to Djo’s flawed lightsaber failing.
+  Source: Young Jedi Knights: Lightsabers [per Wookieepedia "Darth Caedus" rev 15733922, ref 55; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — Devastating accident
+“Solo made his first kills as he cut down assassins.” [55]
+Scaling: The targets were Bartokk assassins attacking Ta’a Chume’s fortress.
+  Source: Young Jedi Knights: Lightsabers [per Wookieepedia "Darth Caedus" rev 15733922, ref 55; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — The Second Imperium strikes
+“Solo shot down a TIE bomber before it could deliver its payload and brought down a few more fighters.” [57]
+Scaling: He was operating a defensive turret during the attack on the Wookiee electronics factory.
+  Source: Young Jedi Knights: Darkest Knight [per Wookieepedia "Darth Caedus" rev 15733922, ref 57; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — The Second Imperium strikes
+“He was able to get an open-channel transmission past the jamming before the ship was beset by TIE fighters.” [56]
+Scaling: The transmission was Solo’s distress call from the Lightning Rod; the article says the reinforcements summoned by it defeated the Shadow Academy and Second Imperium forces.
+  Source: Young Jedi Knights: Jedi Under Siege [per Wookieepedia "Darth Caedus" rev 15733922, ref 56; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — Battling Black Sun
+“He returned to Cloud City, and there, with the conspiracy uncovered, Calrissian began to break up Black Sun's influence over Cloud City.” [66]
+Scaling: Solo’s specific contribution in the preceding sentence was using the Force to direct velkers against a pursuing cloud car.
+  Source: Young Jedi Knights: Trouble on Cloud City [per Wookieepedia "Darth Caedus" rev 15733922, ref 66; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Jedi training — Skywalker's apprentice
+“Jacen Solo won the sparring session, but his victory hardly settled the philosophical dispute between the two brothers.” [69]
+Scaling: The opponent was his younger brother Anakin Solo.
+  Source: The New Jedi Order: Vector Prime [per Wookieepedia "Darth Caedus" rev 15733922, ref 69; exact text match; agrees with the entry's own ref marker]
+
+PHILOSOPHER AT WAR / YUUZHAN VONG WAR
+
+[FEAT] Section: Philosopher at war — The first losses; the first victories
+“Giving themselves over to the Force and sharing perceptions, they were able to evade the asteroids and easily target the Yuuzhan Vong fighters.” [69]
+Scaling: Jacen, Jaina, and Anakin used a shared mental meld at the Battle of Dubrillion; the article says their teamwork helped blunt the attack.
+  Source: The New Jedi Order: Vector Prime [per Wookieepedia "Darth Caedus" rev 15733922, ref 69; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — The first losses; the first victories
+“Solo killed the other three and pulled Quee to the iceborer.” [69]
+Scaling: Infiltrating Helska IV, Quee handled one Yuuzhan Vong warrior and Miko Reglia sacrificed himself against two others; Jacen killed the remaining three.
+  Source: The New Jedi Order: Vector Prime [per Wookieepedia "Darth Caedus" rev 15733922, ref 69; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — The first losses; the first victories
+“Solo provided cover for the shieldships as they sapped heat from Helska IV. The yammosk was killed, and the ice world exploded under the strain of the energy wreaking havoc on it.” [69]
+Scaling: He was a gunner in the Millennium Falcon; the operation was a combined New Republic effort using shieldships and the yammosk’s energy.
+  Source: The New Jedi Order: Vector Prime [per Wookieepedia "Darth Caedus" rev 15733922, ref 69; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — Deep doubts
+“When he heard his mother's screams as she was tortured, Solo rushed out of the closet, attacking a pair of Yuuzhan Vong guards in the stairwell. He was able to defeat one without the Force, and the other fled to a room where Solo confronted Anor, several attendants, and the Yuuzhan Vong Warmaster Tsavong Lah.” [75]
+Scaling: He initially defeated one guard without using the Force; in the next sentence he drew on the Force and battled Lah and his minions.
+  Source: The New Jedi Order: Balance Point [per Wookieepedia "Darth Caedus" rev 15733922, ref 75; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — Deep doubts
+“Giving himself over to the Force, he battled Lah and his minions, whirling a barrage of objects at his opponents. Lah was struck by a desk and plummeted out of a window, crushing his left foot.” [75]
+Scaling: Tsavong Lah was the Yuuzhan Vong Warmaster; the article says Lah survived the encounter.
+  Source: The New Jedi Order: Balance Point [per Wookieepedia "Darth Caedus" rev 15733922, ref 75; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — Protector or privateer?
+“There he killed two Yuuzhan Vong and cut the cofferdam, which sealed itself shut just before Solo would have been swept out into vacuum.” [77]
+Scaling: He was clearing boarders from the Millennium Falcon after a Yuuzhan Vong interdictor pulled it out of space.
+  Source: The New Jedi Order: Edge of Victory II: Rebirth [per Wookieepedia "Darth Caedus" rev 15733922, ref 77; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — Everything changes
+“Solo continuously manipulated and maintained the battle meld, keeping the team working at maximum efficiency.” [12]
+Scaling: The meld was used by the young Jedi strike team on the Myrkr/ Baanu Rass mission; the article identifies Solo as its focus and says the team became nearly one mind.
+  Source: The New Jedi Order: Star by Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 12; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — Everything changes
+“Solo repeatedly used the Force to convince the voxyn to turn on its handlers.” [12]
+Scaling: The targets were Yuuzhan Vong handlers during the pursuit of the voxyn queen.
+  Source: The New Jedi Order: Star by Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 12; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Philosopher at war — Everything changes
+“After a long and hard-fought battle, and with Vergere's assistance, Solo was able to send the queen plummeting onto a dovin basal, which defended itself by drawing the queen into a singularity and destroying her.” [12]
+Scaling: The opponent was the voxyn queen; Vergere assisted, and the dovin basal’s singularity delivered the destruction.
+  Source: The New Jedi Order: Star by Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 12; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Loss and rediscovery
+“Drawing on nothing but his own inner reserves of willpower, Solo became impervious to pain, thriving on it rather than allowing it to break him down.” [18]
+Scaling: This followed prolonged torture in the Embrace of Pain; the article describes it as mastery of that device’s pain.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Loss and rediscovery
+“Using the same empathy he had used to befriend various creatures, he was able to create a link in the Yuuzhan Vong spectrum, connecting himself to the dhuryam and the other Yuuzhan Vong creatures using what he called his ‘Vongsense.’” [18]
+Scaling: The article contrasts this with his normal Force access and says he could not access the Force and Vongsense simultaneously.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Loss and rediscovery
+“He cut his way through the Yuuzhan Vong troops opposing him and used a captured bandoleer of blast bugs to destroy the shreeyam'tiz that blocked the dhuryams' signals.” [18]
+Scaling: He used amphistaff polyps as armor and a weapon; the action triggered the dhuryam slaves’ uprising.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Loss and rediscovery
+“Through his Vongsense, the young man experienced unity with his opponents, feeling what they felt, as well as the sensations of the Yuuzhan Vong wildlife.” [18]
+Scaling: The encounter was with Yuuzhan Vong shock troops; the article says this enabled him to evade their attacks while unarmed.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Loss and rediscovery
+“Giving in to hatred of a universe that seemed to hate him, he attacked one of the cavern beast's victims, whose screams tormented him, until he realized he could feel the girl through the Force.” [18]
+Scaling: The article says he then used his anger to free the girl from digestion and later convinced the cavern beast to expel its victims.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Loss and rediscovery
+“Furious at the betrayal, Solo gave himself over to rage and launched a barrage of Force lightning at Vergere.” [18]
+Scaling: He had just recovered access to the Force; the article says he could not target the Yuuzhan Vong with the Force and buried them in rubble.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: A new hope — The Truth
+“Vergere, to Luke Skywalker: ‘Jacen Solo had to be bereft of friends, of relatives, of teachers and knowledge and the Force and everything that could help him. He had to be reduced to nothing—or rather, to himself only.’” [13]
+Scaling: Vergere’s assessment of the conditions of Jacen’s captivity; it is a character explanation, not a feat.
+  Source: The New Jedi Order: Destiny's Way [per Wookieepedia "Darth Caedus" rev 15733922, ref 13; approximate match 0.80, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The Truth
+“Solo used a powerful mind trick to compel Rhysode to leave.” [18]
+Scaling: Rhysode was a Jedi and resisted the first fear/compulsion; he later returned and disabled the four Yuuzhan Vong guards.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The Truth
+“The World Brain pulled Solo down into its pool with its tentacles, intending to kill him for his earlier betrayal. Instead, Solo opened himself up to the World Brain, expressing to it his regret, his newfound understanding that all was one, and the conviction that only way to approach the universe was with universal love.” [18]
+Scaling: The World Brain changed sides in the article’s account and agreed to frustrate the Yuuzhan Vong’s reshaping of Coruscant.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — Return to the Republic
+“He used the Force to seal in the air in his portion of the tunnel, and was preserved as the Yuuzhan Vong warriors died in the lack of oxygen.” [13]
+Scaling: The article describes this as survival during the Ebaq 9 battle after he was overwhelmed by enemy troops.
+  Source: The New Jedi Order: Destiny's Way [per Wookieepedia "Darth Caedus" rev 15733922, ref 13; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The living world
+“Determined to avoid bloodshed, Solo insisted to those remaining that they could not defeat him, and they should talk out their differences.” [83]
+Scaling: Fifteen Ferroan kidnappers faced him; eight fled when Saba Sebatyne arrived, and Jacen surrendered himself to be taken to Senshi.
+  Source: The New Jedi Order: Force Heretic III: Reunion [per Wookieepedia "Darth Caedus" rev 15733922, ref 83; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The living world
+“When Senshi took the Magister hostage, pointing his lightning rod at her while the angered boras attacked, Solo turned his attention to the boras, contacting their simple intelligence in the Force and convincing the rogue flora to give up their anger and isolationism.” [83]
+Scaling: The article says this made him pass Zonama Sekot’s test; it was a nonviolent resolution rather than a combat victory.
+  Source: The New Jedi Order: Force Heretic III: Reunion [per Wookieepedia "Darth Caedus" rev 15733922, ref 83; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The living world
+“Solo could not convince the creatures to desist until he contacted the World Brain, convincing it to cease taking the Supreme Overlord's orders and instead assist the Jedi in reaching the Citadel.” [84]
+Scaling: The creatures were biots Tu-Scart and Sgauru demolishing the walkway; the World Brain was the controlling power he persuaded.
+  Source: The New Jedi Order: The Unifying Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 84; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The living world
+“Solo gave himself over to the Force to counter Onimi's complete control of their surroundings, enabling him to counter the mastermind's actions.” [84]
+Scaling: Onimi had restored the Force to himself with grafted yammosk cells and had mentally controlled Supreme Overlord Shimrra Jamaane.
+  Source: The New Jedi Order: The Unifying Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 84; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The living world
+“He had surrendered himself completely to the Force, experiencing a blissful state of Oneness unlike anything any Jedi had experienced before.” [84]
+Scaling: The article explicitly compares the state with every other Jedi; it is presented as an article statement about the experience, not independently inferred scaling.
+  Source: The New Jedi Order: The Unifying Force ; The New Essential Chronology [per Wookieepedia "Darth Caedus" rev 15733922, ref 84,28; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: A new hope — The living world
+“Onimi was unable to contend with the limitless power that emanated from Jacen and expended himself in the manufacture of toxins until he was undone and dissolved by his own poisons.” [84]
+Scaling: Onimi was the true Supreme Overlord and had controlled Jamaane; Jacen’s Force state countered his toxins.
+  Source: The New Jedi Order: The Unifying Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 84; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Powers and abilities — Force powers
+“Jedi historian Tionne Solusar described him as ‘briefly transformed into the most powerful manifestation of the Force on record.’” [88]
+Scaling: Tionne’s historical description of the Onimi encounter; explicitly marked as a statement/hype, not treated as a standalone feat.
+  Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 88; exact text match; agrees with the entry's own ref marker]
+
+UNORTHODOX JEDI / FIVE-YEAR JOURNEY
+
+[FEAT] Section: Unorthodox Jedi — Still the student
+“Tadar'Ro, communicating through a device that translated the pheromones Aing-Tii used to express themselves, taught him Aing-Tii powers of teleportation, as well as flow-walking, a technique to experience the past or future by projecting oneself into it.” [19]
+Scaling: The article identifies Tadar’Ro and the Aing-Tii as his instructors; it states he learned swiftly.
+  Source: Fate of the Jedi: Omen [per Wookieepedia "Darth Caedus" rev 15733922, ref 19; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Unorthodox Jedi — Still the student
+“Within only three days, he mastered the ayna-seff variation of the hassat-durr family of talents, which involved manipulation of the body's electromagnetic field.” [20]
+Scaling: The article attributes the instruction to Koro Ziil and the Baran Do Sages.
+  Source: Fate of the Jedi: Outcast [per Wookieepedia "Darth Caedus" rev 15733922, ref 20; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Unorthodox Jedi — The Killik problem
+“Solo used the ayna-seff technique to mask his readings and manipulate the equipment.” [21]
+Scaling: He did this during a brain-activity scan at the Jedi Academy on Ossus; the article says he likely had not been present long enough to become a Killik Joiner.
+  Source: Dark Nest I: The Joiner King [per Wookieepedia "Darth Caedus" rev 15733922, ref 21; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Unorthodox Jedi — The Killik problem
+“Perhaps, but even we are not strong enough to control Jacen. He has moved beyond our control—or anyone else's.” —UnuThul and Jaina Solo [21]
+Scaling: Character opinion about Jacen’s resistance to control; not a feat.
+  Source: Dark Nest I: The Joiner King [per Wookieepedia "Darth Caedus" rev 15733922, ref 21; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Unorthodox Jedi — The Swarm War
+“Solo used the Force to gain the Chiss's attention, forcing the Jedi into following through on the planned attack, stopping up the hangar with glop bombs and destroying the many fuel tanks stored at the supply depot.” [22]
+Scaling: He was operating with Jaina and Zekk; the article says the attack caused the Chiss to believe Jedi were under Killik influence and attack the Killiks.
+  Source: Dark Nest II: The Unseen Queen [per Wookieepedia "Darth Caedus" rev 15733922, ref 22; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Unorthodox Jedi — Corellian tensions
+“He subdued Sal-Solo, and received a vision of a possible future: if he did not kill Sal-Solo here, the galaxy would be consumed in war, and his family would suffer terribly.” [16]
+Scaling: Sal-Solo was the Corellian Chief of State; the article states the vision was a possible future and that the attempted killing failed because Sal-Solo escaped.
+  Source: Legacy of the Force: Betrayal [per Wookieepedia "Darth Caedus" rev 15733922, ref 16; exact text match; agrees with the entry's own ref marker]
+
+DARK LORD OF THE SITH / DARTH CAEDUS
+
+[FEAT] Section: Dark Lord of the Sith — The death of Nelani Dinn
+“Solo used the Force to flip his Y-wing over, neutralizing Huarr as a threat.” [16]
+Scaling: Huarr was threatening to launch missiles at student dormitories; he nevertheless launched them into the ground, killing himself and injuring security personnel.
+  Source: Legacy of the Force: Betrayal [per Wookieepedia "Darth Caedus" rev 15733922, ref 16; approximate match 1.00, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — The death of Nelani Dinn
+“Reluctantly, Solo chased down Dinn, who had grown aware of his intent, and killed her in the name of the greater good.” [16]
+Scaling: The article says Solo’s future-probing showed Luke Skywalker lived only in futures in which Dinn died; it is a stated rationale, not an endorsement.
+  Source: Legacy of the Force: Betrayal [per Wookieepedia "Darth Caedus" rev 15733922, ref 16; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Galactic Alliance Guard
+“When three individuals with explosives were detected in an apartment, Solo personally used the Force to paralyze them and effect entry into the dwelling.” [14]
+Scaling: The article says this impressed his troops; Jedi opposed his broader GAG operations.
+  Source: Legacy of the Force: Bloodlines [per Wookieepedia "Darth Caedus" rev 15733922, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Galactic Alliance Guard
+“Vel died from an aneurysm resulting from the mental invasion, but Solo brushed aside Shevu's objections and focused on finding other channels to learn her target.” [14]
+Scaling: The article attributes the death to the Force-assisted interrogation and says Ben Skywalker objected.
+  Source: Legacy of the Force: Bloodlines [per Wookieepedia "Darth Caedus" rev 15733922, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Ascent to Mastery
+“While monitoring tactical displays on the flagship Ocean, he found that he had access to battle meditation, giving him a grasp of the battlefield and the ability to influence the outcome.” [15]
+Scaling: Lumiya had indicated that access to battle meditation was a sign of Sith Mastery; the article says this led him to name himself Darth Caedus.
+  Source: Legacy of the Force: Sacrifice [per Wookieepedia "Darth Caedus" rev 15733922, ref 15; approximate match 1.00, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Standing alone
+“As Caedus, he proved able to hold his own extremely well against the Grand Master during their duel on the Anakin Solo, managing to inflict severe injuries on his uncle, although in the end Luke proved to triumph and dealt more injuries on Caedus in his victory.” [24]
+Scaling: The opponent was Jedi Grand Master Luke Skywalker; Luke won the duel.
+  Source: Legacy of the Force: Inferno [per Wookieepedia "Darth Caedus" rev 15733922, ref 24; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Standing alone
+“Battling the four Jedi, Caedus pulled a GAG speeder from the air, slamming it into Katarn and Hu'lya. As Katarn was launched into him, Caedus ran the Jedi Master through, nearly killing him.” [92]
+Scaling: The opponents were Jedi Master Kyle Katarn and Jedi Knights Valin Horn, Thann Mithric, and Kolir Hu’lya; the guards had already been disabled by dazzle-grenades.
+  Source: Legacy of the Force: Fury [per Wookieepedia "Darth Caedus" rev 15733922, ref 92; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Standing alone
+“Though he had already suffered a disabling shoulder injury from one of her sniper shots, Caedus engaged his sister but knew he was at a disadvantage, especially as he thought he was facing Skywalker.” [6]
+Scaling: Jaina Solo attacked while Luke Skywalker’s masking illusion made Caedus think he was fighting Luke; Jaina severed one of Caedus’s arms, and Caedus disabled her with Force lightning before recognizing her.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; approximate match 0.94, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Lightsaber skills
+“By the time he was a Sith Lord, he was a deadly duelist, able to engage multiple Jedi at a time and even battle against Jedi Battlemaster Kyle Katarn with little effort.” [92]
+Scaling: The article directly compares him with Kyle Katarn and multiple Jedi.
+  Source: Legacy of the Force: Fury [per Wookieepedia "Darth Caedus" rev 15733922, ref 92; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Powers and abilities — Lightsaber skills
+“The Jedi judged few but Luke and Mara Jade Skywalker to be on his level.” [82]
+Scaling: The article presents this as the Jedi’s judgment; it is a comparison statement, not a separate feat.
+  Source: The New Jedi Order: Force Heretic II: Refugee [per Wookieepedia "Darth Caedus" rev 15733922, ref 82; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Powers and abilities — Lightsaber skills
+“His sister, Jaina Solo, fought with him on two occasions, but was only able to match him when he was severely injured and with Skywalker's assistance.” [6]
+Scaling: The article says Jaina ultimately defeated him in the last duel; this statement describes their relative performance in the earlier clashes.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Standing alone
+“Caedus returned to action as soon as he could, well before he was fully recovered.” [24]
+Scaling: This followed Luke Skywalker’s duel, Ben Skywalker stabbing him through the back, and multiple wounds that the article says would have killed or incapacitated a normal Human or Jedi.
+  Source: Legacy of the Force: Inferno [per Wookieepedia "Darth Caedus" rev 15733922, ref 24; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Standing alone
+“Caedus pulled Sebatyne into the blast radius of a grenade, removing her from the fight.” [92]
+Scaling: The target was Jedi Master Saba Sebatyne during the attack on the Jedi Coalition’s bridge team; his family escaped with Allana.
+  Source: Legacy of the Force: Fury [per Wookieepedia "Darth Caedus" rev 15733922, ref 92; approximate match 1.00, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Standing alone
+“Attacked by Jedi Master Kyle Katarn and Jedi Knights Valin Horn, Thann Mithric, and Kolir Hu'lya, Caedus had to defend himself with a spare lightsaber.” [92]
+Scaling: See the following article sentence quoted above: he used a GAG speeder against Katarn and Hu’lya and nearly killed Katarn, then decapitated Mithric.
+  Source: Legacy of the Force: Fury [per Wookieepedia "Darth Caedus" rev 15733922, ref 92; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Clash at Fondor
+“He was reaching out in the Force, stoking his commanders to unusual heights of aggression with his battle meditation, and used the rage produced by his connection with them to power an overwhelming use of the Force, establishing mental contact with the planetary shield operators and tricking them into lowering the shield.” [23]
+Scaling: The target was Fondor’s planetary shield; Niathal’s cease-fire stopped his intended bombardment, but Caedus reopened fire after rejecting her authority.
+  Source: Legacy of the Force: Revelation [per Wookieepedia "Darth Caedus" rev 15733922, ref 23; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Clash at Fondor
+“Caedus climbed down to carry her to the medical runner, but one of the Mandalorians seized his leg with a crushgaunt and shot him in the knee; still exhausted from his earlier exertion, Caedus was unable to respond in time. Instead, he concentrated on stopping Veila's bleeding and Force-jumping into his ship.” [23]
+Scaling: The article identifies Mirta Gev and Jaina Solo among the Mandalorians and says he rescued the badly injured Tahiri Veila.
+  Source: Legacy of the Force: Revelation [per Wookieepedia "Darth Caedus" rev 15733922, ref 23; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Last days
+“Despite having already suffered a disabling shoulder injury from one of her sniper shots, Caedus engaged his sister but knew he was at a disadvantage, especially as he thought he was facing Skywalker.” [6]
+Scaling: Luke’s illusion aided Jaina; she cut off one arm, and Caedus used Force lightning to disable her before learning the opponent was Jaina.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Last days
+“Jaina rushed to attack, slashing at Caedus in such a way that he could not possibly hope to defend himself.” [6]
+Scaling: Caedus was already missing an arm and had multiple unhealed wounds; he chose not to counterattack fatally and instead warned Tenel Ka Djo through the Force.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Dark Lord of the Sith — Last days
+“At the end, there was a second when he just stopped fighting so he could warn Tenel Ka. I think he became Jacen again for a second before I…before I killed him.” —Jaina Solo [6]
+Scaling: Jaina’s account of the final duel and Caedus’s last action; statement, not a feat claim.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Dark Lord of the Sith — Last days
+“However, he declined to do so, believing that the action would serve no purpose other than revenge. Instead, he used his last moments to contact Djo in the Force and warn her that she and Allana were in danger.” [6]
+Scaling: Jaina’s fatal strike left Caedus an opening to kill her; he refused and used the opening for the warning. The article says Jaina then killed him.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; exact text match; agrees with the entry's own ref marker]
+
+POWERS AND ABILITIES (ARTICLE’S EXPLICIT CAPABILITY SUMMARY)
+
+[STATEMENT] Section: Powers and abilities — Force powers
+“Jacen Solo had great Force potential, which his uncle was able to sense shortly after his birth.” [27]
+Scaling: Luke Skywalker is the uncle and the person who sensed it.
+  Source: The Last Command Sourcebook [per Wookieepedia "Darth Caedus" rev 15733922, ref 27; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“Solo could exercise powerful mental influence through the Force, compelling even powerful Force-users to obey him against their actively resisting will.” [90]
+Scaling: The article does not name a single example in this sentence; it is an article capability statement.
+  Source: Legacy of the Force: Tempest [per Wookieepedia "Darth Caedus" rev 15733922, ref 90; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“He was able to dispel Force illusions, even those erected by Lumiya.” [14]
+Scaling: Lumiya is the named comparison.
+  Source: Legacy of the Force: Bloodlines [per Wookieepedia "Darth Caedus" rev 15733922, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[STATEMENT] Section: Powers and abilities — Force powers
+“However, he was not as powerful as his uncle in a direct contest of strength. Even as a fully-trained Sith Lord, Darth Caedus could be overwhelmed by Luke Skywalker's power, unable to break his uncle's Force grip.” [24]
+Scaling: Explicitly places Luke above Caedus in direct Force strength.
+  Source: Legacy of the Force: Inferno [per Wookieepedia "Darth Caedus" rev 15733922, ref 24; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“By the time he was five, he could use exceptionally tightly-focused telekinesis to move air molecules rapidly, heating them and creating a glow, and to slow water molecules enough to cause them to freeze.” [36]
+Scaling: The article dates this capability to age five.
+  Source: The Crystal Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 36; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“During the Myrkr mission, the strike team expanded on this concept, with Solo and his great empathic powers serving as the focus for a seventeen-Jedi battle meld.” [12]
+Scaling: The article says the meld made the Jedi nearly one mind and allowed emotional reinforcement among them.
+  Source: The New Jedi Order: Star by Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 12; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“Caedus also used the ability known as Mindshards and used it to freeze individuals in place as he did when he was attacked by Aurra Sing onboard his flagship.” [12]
+Scaling: Aurra Sing is the named example; the article places the ability among his battle-meld/Battlemind/Battle Meditation skills.
+  Source: The New Jedi Order: Star by Star [per Wookieepedia "Darth Caedus" rev 15733922, ref 12; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“He could use the Force to project a sensation of dread to others, driving them away, and exert a powerful mind trick that would could compel even a talented Jedi.” [18]
+Scaling: The article’s example is his encounter with Ganner Rhysode, who resisted the first compulsion and returned.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; approximate match 1.00, verify; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“Using his empathetic skills, Solo was able to form a bond with the slave seed Vergere implanted in him, giving him access to Yuuzhan Vong life by means of a sense analogous to, or part of, the Force.” [18]
+Scaling: This is the article’s explanation of Vongsense; it separately states that he could not access the Force and Vongsense at the same time.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“Solo could also influence others, putting them to sleep or lending them strength.” [81] [82]
+Scaling: The article’s cited examples are Force-assisted sleep and lending strength during the Zonama Sekot-era missions.
+  Source: The New Jedi Order: Force Heretic I: Remnant ; The New Jedi Order: Force Heretic II: Refugee [per Wookieepedia "Darth Caedus" rev 15733922, ref 81,82; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“By 40 ABY, he was able to receive specific brief visions of future hazards. Furthermore, Solo could probe the future, seeing the possible outcomes of various actions at will.” [16]
+Scaling: The article connects this future-probing to his decisions involving Nelani Dinn and Thrackan Sal-Solo; it describes outcomes as possible futures.
+  Source: Legacy of the Force: Betrayal [per Wookieepedia "Darth Caedus" rev 15733922, ref 16; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“He could absorb energy, including blaster bolts, through the Force, and safely dissipate it.” [18]
+Scaling: The article also says he could deflect bolts instead of absorbing them.
+  Source: The New Jedi Order: Traitor [per Wookieepedia "Darth Caedus" rev 15733922, ref 18; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“By the end of the Yuuzhan Vong War, Solo could neutralize toxins and manipulate substances on a molecular level, as Vergere had been able to.” [84]
+Scaling: Explicit comparison to Vergere; the narrative example is neutralizing Onimi’s toxins and later healing Luke Skywalker’s amphistaff poisoning.
+  Source: The New Jedi Order: The Unifying Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 84; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“He later developed this ability further, returning from his five-year sojourn with the capability to cloak himself in the Force almost completely, cutting off even the most powerful other Jedi from detecting his presence and masking his feelings and emotions.” [14]
+Scaling: The article explicitly says even the most powerful other Jedi could be cut off from detecting him.
+  Source: Legacy of the Force: Bloodlines [per Wookieepedia "Darth Caedus" rev 15733922, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Esoteric Force powers
+“Tadar'Ro taught him the Aing-Tii ability to teleport objects, as well as the power of flow-walking, a technique that let him experience the past and future by projecting himself forward or backward in time but not in space.” [19]
+Scaling: The article explicitly limits flow-walking to experience/projection and says he could not change the past.
+  Source: Fate of the Jedi: Omen [per Wookieepedia "Darth Caedus" rev 15733922, ref 19; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Esoteric Force powers
+“Among the Baran Do, Solo learned their techniques for weather prediction, involving the sensing of natural energy.” [20]
+Scaling: The article says he then swiftly learned the ayna-seff ability to control how his brain appeared to electroencephaloscans.
+  Source: Fate of the Jedi: Outcast [per Wookieepedia "Darth Caedus" rev 15733922, ref 20; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Esoteric Force powers
+“Solo learned the memory rub technique from the Fallanassi, which allowed him to suppress others' memories through application of the Force.” [22]
+Scaling: The narrative examples are suppressing Luke Skywalker’s memories and later repeatedly burying Ben Skywalker’s memories.
+  Source: Dark Nest II: The Unseen Queen [per Wookieepedia "Darth Caedus" rev 15733922, ref 22; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“As a Sith Lord, he demonstrated the ability to strip and restore the use of the Force to Jedi and manifested the rare ability to see shatterpoints—crucial weaknesses in people, situations, and objects.” [6] [24]
+Scaling: The article does not provide a broader power comparison for this sentence.
+  Source: Legacy of the Force: Invincible ; Legacy of the Force: Inferno [per Wookieepedia "Darth Caedus" rev 15733922, ref 6,24; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“When he became a Sith Lord, Solo commanded both those powers, and he applied them quite liberally.” [90]
+Scaling: The article distinguishes this from his earlier instinctive use of lightning and choke during his fall.
+  Source: Legacy of the Force: Tempest [per Wookieepedia "Darth Caedus" rev 15733922, ref 90; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“After becoming Darth Caedus, he had access to Sith battle meditation, giving him an ability to anticipate events and understand and manipulate the battlefield.” [15]
+Scaling: The narrative uses this to explain his tactical influence in fleet battles, including Balmorra, Kuat, and Fondor.
+  Source: Legacy of the Force: Sacrifice [per Wookieepedia "Darth Caedus" rev 15733922, ref 15; exact text match; agrees with the entry's own ref marker]
+
+[FEAT] Section: Powers and abilities — Force powers
+“Eventually, he became capable of virtually ignoring physical pain, shrugging off such wounds as an amputated arm or a lightsaber blade through his midsection.” [6]
+Scaling: This is connected by the article to his Yuuzhan Vong captivity and willpower; the narrative shows him continuing after both kinds of injury.
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Darth Caedus" rev 15733922, ref 6; exact text match; agrees with the entry's own ref marker]
+
+END OF EXTRACTION

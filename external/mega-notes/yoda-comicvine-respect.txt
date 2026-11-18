@@ -1,0 +1,131 @@
+CITED EXTRACTION: "Master Yoda Respect Thread" Part 1 + Part 2 (Comic Vine blog, Aurbere, both posted 2015-08-27)
+URLs: https://comicvine.gamespot.com/profile/aurbere/blog/master-yoda-respect-thread-part-1/109043/
+      https://comicvine.gamespot.com/profile/aurbere/blog/master-yoda-respect-thread-part-2/109042/
+Read 2026-10-12 via WebFetch (full text of both parts came through; curl got a 5 KB block page, so no raw HTML saved).
+The older Silver2467 Yoda thread (blog 72865) was NOT read this pass (Aurbere is newer and much larger).
+Tags: S = statement/accolade, F = feat (narrated action), H = hype/marketing/summary line (weak), NOTE = my comment.
+Only entries where the thread QUOTES text and names a source are counted. Image-only entries are listed at the end as "scan, source not given in thread".
+Chapter numbers: the thread gives none. GAP for every novel entry.
+Continuity labels are mine. The thread does not separate Canon from Legends. Films and film scripts are shared (G-level). The Stover ROTS novel, Salvatore AOTC novel and the Wrede ROTS/AOTC junior novels (2002/2005) are Legends.
+Cross-link: yoda-legends-quotes.txt (Wookieepedia, INTRO tier). Entries marked [WP] are already there; everything else is new here.
+
+=== LEGENDS: ACCOLADES / RANKING STATEMENTS ===
+- S: "Mace said, 'Master Yoda is many things, and I am not his equal in peace or war.'" Palpatine in the same scene: "He is a great being-perhaps the greatest in the Republic." (Yoda: Dark Rendezvous)
+- S: "Perhaps only Master Mace Windu equaled him in skill and reputation-Though Master Windu argued that he was still but a Padawan compared to Master Yoda." (Power of the Jedi Sourcebook, WotC 2002)
+- S: Mace: "In the history of the Jedi Order, only two opponents ever overcame him in battle. One was Master Yoda, who some said was the Order's true master of lightsaber combat. The other was former Master Dooku" (Power of the Jedi Sourcebook)
+- S: "Though it was true that he had slowed slightly in the years that Windu had known him, Yoda's skill with a lightsaber was still second to none on the council." (Darth Maul: Shadow Hunter)
+- S: "Master Yoda is reputed to be the greatest lightsaber master ever." (The Approaching Storm; a character's line in dialogue, speaker not named in the excerpt)
+- S: Dooku's goal "to surpass Yoda as the greatest Jedi ever." (Legacy of the Jedi)
+- S: Palpatine POV: "the longer the greatest Jedi Master failed to recognize Palpatine for what he was..." (The Clone Wars novel, Traviss 2008)
+- S: Anakin POV: "the great, perhaps the greatest, Jedi Master" (Jedi Quest: The Shadow Trap)
+- S: Luke: "Master Yoda was smaller than anyone here, yet he was the wisest person I ever met-as well as one of the most powerful Jedi Masters to ever live." (NJO: Force Heretic III: Reunion)
+- S: Bail on Obi-Wan and Yoda: "undoubtedly two of the best and most powerful Jedi in the galaxy" (ROTS junior novel)
+- S: "except for Yoda, Obi-Wan thought him [Mace] the most powerful Jedi he'd ever known." (Jedi Quest: The False Peace)
+- S: "Mace Windu and Yoda, the ones he must convince, the ones most respected and powerful" (The Phantom Menace novel)
+- S: "As the most skilled and experienced Jedi Master in the Temple" (Clone Wars Gambit: Siege)
+- S: Shatterpoint (Mace POV): "Yoda would probably just reach out, lift the steamcrawler from the gully, and casually float it up the mountain... Mace was much less confident in his own raw power." (Shatterpoint)  NOTE: direct Yoda > Mace raw-power statement from Mace's own head.
+- S: Dooku to Grievous: "Do I need to demonstrate what responses you can expect from Cin Drallig or Obi-Wan Kenobi? From Mace Windu or, stars help you, Yoda?" (Labyrinth of Evil)
+- S: "Aged, experienced, diplomatic, informative, brilliant with a lightsaber... And not unacquainted with the power of the dark side." (Labyrinth of Evil)
+- S: Sidious to Vader: "So just imagine what Yoda might have done to you... If the jedi order had showed such resolute intention... You and I might have lost everything." (Dark Lord: The Rise of Darth Vader) [WP has the gist]
+- S: "Even the greatest warriors of the Jedi - Mace Windu, Kit Fisto, even Yoda - could not defeat the Sith." (The Last of the Jedi: Underworld)
+- S: "Nine hundred years old, Yoda had trained Jedi for eight centuries and was extraordinarily powerful in the Force." (Complete Star Wars Encyclopedia, 2008) [panel: panels/yoda/yoda-complete-star-wars-encyclopedia-1.gif; panels/yoda/yoda-complete-star-wars-encyclopedia-2.gif; panels/yoda/yoda-complete-star-wars-encyclopedia-3.gif]
+- S: "Yoda was the most senior member of the Jedi High Council in every respect. His position of ultimate authority was justified not only by his age but also by his powers of perception." (Star Wars Fact Files) [panel: panels/yoda/yoda-star-wars-fact-files-1.gif]
+- S: "widely acknowledged as the greatest lightsaber duellist in the Jedi Order... until the Battle of Geonosis, few had ever seen Yoda in combat." (Star Wars Fact Files)
+- S: Cin Drallig: "Yes, it is true that Yoda is a Form IV master... the Jedi Archives holds a collection of databooks that are testament to his mastery and prowess." (Jedi vs. Sith: The Essential Guide to the Force, 2007)
+- S: "One of the greatest practitioners of Farsight during the Old Republic era" (Jedi vs. Sith: The Essential Guide to the Force)
+- H: "the physically diminutive Jedi Grand Master is one of the most powerful beings in the universe." (Star Wars Trading Card Game)
+- H: "Yoda is one of the most powerful Jedi ever." (Star Wars: Character Encyclopedia, 2011)
+- H: "Yoda's ability to use the Force is greater than that of any other Jedi." / "the greatest Jedi who had ever lived" (Star Wars: The Legendary Yoda, children's book)
+- H: "Yoda was the oldest and most powerful Jedi in the order." (Star Wars: The Sith Wars, children's book)
+- H: "The two engaged in a spectacular duel-a contest between the most powerful practitioners of the Force's light and dark sides." (Complete Star Wars Encyclopedia) [also in sidious-comicvine-respect.txt]
+- S: "Perhaps only Master Mace Windu equaled him..." see above; also "Everyone on the Jedi Council was at one time his student, and they all considered him the living embodiment of the will of the Force." (Power of the Jedi Sourcebook)
+
+=== LEGENDS: COMBAT FEATS ===
+Dooku, Geonosis (AOTC; the film is shared, novel and JN are Legends)
+- F: AOTC novel (Salvatore): Yoda bats aside thrown machinery and ceiling blocks; Dooku's lightning: "Yoda caught it in his own hand and turned it aside, but far from easily." Dooku: "I have become more powerful than any Jedi... Even you, my old Master!" Yoda: "Much to learn you still have." In sabers: "Dooku went into a wild flurry then... But Yoda didn't even seem to move." Then "With a sudden burst of sheer power, Master Yoda flew forward... Dooku held strong, though... each block backed by the power of the Force, or else Yoda's strikes would have driven right through." Ends in a blade lock with Yoda "forcing Dooku back"; Dooku drops the crane and escapes. (Attack of the Clones novel) [panel: panels/yoda/yoda-attack-clones-novel-1.jpg; panels/yoda/yoda-attack-clones-novel-2.jpg]
+- F: AOTC junior novel (Wrede): "Yoda blocked the lightning automatically"; "His lightsaber moved effortlessly... He did not even have to step back."; "the dark side was only an easier path, not a stronger one. Backed by the full power of the true Force, Yoda's lightsaber was unmovable." (Attack of the Clones junior novel)  NOTE: JN says "automatically", the adult novel says "far from easily". They conflict on effort, agree on outcome.
+- S: "On Geonosis, Yoda's easy parrying and, indeed, handling of the Sith lightning Dooku hurled at him had come as a surprise." (Labyrinth of Evil)
+- H: "Dooku barely escaped with his life." (The New Essential Chronology)
+- F: Holds the falling crane that Obi-Wan and Anakin together couldn't stop (AOTC novel; AOTC JN; film)
+
+Dooku, Vjun (Legends)
+- F: Dooku cuts him twice; Yoda then out-duels him on a dark-side nexus: "the green burned hotter. Slowly, slowly, Dooku gave way"; "Sweat ran in streams through Dooku's beard... and his lips were white." Dooku: "There was always a chance you could overpower me, of course." Dooku escapes by triggering an orbital missile. (Yoda: Dark Rendezvous)
+- S: "Among the other Jedi, perhaps only Mace Windu would have been his [Dooku's] equal on neutral ground: but here on Vjun, steeped in the dark side, his bladework was malice made visible" (Yoda: Dark Rendezvous)
+- F: Nudges the falling 200-kilo-warhead missile "a kilometer offshore" by drawing on Vjun's living Force. (Yoda: Dark Rendezvous)
+- F: Hides his Force presence on Vjun from Dooku: "moving like a water-skeeter over the surface of the Force" (Yoda: Dark Rendezvous)
+
+Sidious, the Senate duel (ROTS). See also debates-yoda-mace-sidious.md and sidious-comicvine-respect.txt for the Sidious-side quotes.
+- F (film/script): "YODA uses the Force to throw DARTH SIDIOUS back, knocking him clear over his desk"; "If so powerful you are, why leave?"; "PALPATINE seeks refuge in the vast Senate Chamber"; "YODA unleashes a ferocious assault on PALPATINE, causing him to almost go over the edge. The Dark Lord drops his lightsaber"; lightning "begin to arc back on the Emperor. It looks as if the Dark Lord is doomed."; Yoda catches and throws back a pod; final clash: "YODA blocks the lightning and throws PALPATINE backwards off the podium. YODA is knocked off the Podium and falls several hundred feet" (Revenge of the Sith script) [panel: panels/yoda/yoda-revenge-sith-script-1.gif; panels/yoda/yoda-revenge-sith-script-2.gif; panels/yoda/yoda-yoda-catches-senate-pod-thrown-darth-sidious-1.gif; panels/yoda/yoda-revenge-sith-script-3.gif]
+- F (JN): "Strong, this Sith Lord is... always before, his own years of study and practice and his own strength with the Force had been more than enough to prevail. This time, he wasn't sure. But Palpatine didn't seem entirely sure, either."; "He drove Palpatine back across the room, into the Chancellor's podium."; "Yoda redoubled the speed of his blows... the red lightsaber spun out of his hands and over the edge."; "Never had Yoda faced one so strong in the dark side. Before he came within reach, a particularly strong blast knocked Yoda out of the pod."; final: "the Force lightning came in a steady crackle, building more and more, until neither of them could hold it any longer, and the blast knocked them both out of the pod. Palpatine was larger and heavier; he managed to catch hold of the edge... But Yoda was small and light." (ROTS junior novel)
+- F (novel, Stover): "This truth: that he, the avatar of light... just-didn't-have it. He'd never had it. He had lost before he started... The Sith had changed... While the Jedi... had spent that same millennium training to refight the last war."; ending: "The shadow could feel how much it cost the little green freak to bend back his lightnings into the cage of energy that enclosed them both; the creature had reached the limits of his strength. The shadow released its power for an instant... the creature leapt to follow-Half a second too slow." (Revenge of the Sith novel)  NOTE: framing is philosophical (the Jedi way failed) AND physical (Yoda at his limit). Stover's novel also has Palpatine afterwards as "a very old, very tired man, gasping for air" (quoted on SI t205, not in this thread).
+- H: "Sidious battles with passion and fury, only to be matched every blow by Yoda's calm, measured skill." (Star Wars: Beware of the Sith, DK reader)
+- H: "The Emperor proved too powerful to defeat. Although Yoda held his own for much of the duel, in the end the Sith bested him." (Complete Star Wars Encyclopedia)
+- H: "Ultimately, an overmatched Yoda flees to fight another day." / "These titans continue clashing until Yoda is downed, but hardly defeated." (Star Wars Trading Card Game; two different cards, they pull opposite ways)
+- H: "Even the diminutive Jedi's amazing strength and speed, however, is not a match for the devastating fury of a Sith Lord." (Star Wars: Character Encyclopedia)
+
+Other combat (Legends)
+- F: "Six seconds later, all eight of them were dead." (Decoy Squad Five, ROTS novel)
+- F: Unarmed lecture-hall demo: "Plo Koon, Saesee Tiin, and Depa Billaba, excellent fighters all-had come forward and attacked him... none of the three had been able to lay a finger on him." (Darth Maul: Shadow Hunter). The thread argues it was telekinesis, not speed (lesson: "Knowledge of the Force was infinitely better than technique").
+- F: Hailfire droid: dodges tracking missiles with jinking spins; a missile "bent aside... to collide with another of the salvo" (source NOT GIVEN in thread; long prose quote, probably a Clone Wars-era novel/short: GAP)
+- F: "ten attack droids were on the floor in a heap of twisted metal"; "sent a trio of attack droids smashing against the wall"; levitates durasteel containers to destroy a weapons cache (Jedi Quest: The Shadow Trap)
+- F: Bpfasshi Dark Jedi leader "perished in an epic Force Clash with Master Yoda" (The New Essential Chronology); creates the Dagobah cave nexus (Star Wars Databank). Fight not on-page: statement-level.
+- S: Dooku: "I was telling them the tale of when you faced the giant terentatek on Kashyyyk." (Star Wars: The Clone Wars film 2008; shared TCW material, a story told, not shown)
+- S: "Master Yoda went into a Battle Meditation and we became his lightsabers." (Quinlan Vos, Hidden Enemy)
+- F: Order 66: beheads Gree and his officer; Temple entrance clones (ROTS script; ROTS JN) [WP]
+
+=== LEGENDS: FORCE FEATS ===
+- F: Lifts the X-wing from the bog (ESB film/novel/script; also Fact Files) [WP]
+- F: "Once, in Coruscant Park, I saw Master Yoda lift a rock as big as a family-sized electric cart, with what looked like nothing but a simple hand gesture." (Medstar II: Jedi Healer)
+- F: Muntuur Stones: "Each stone weighs several tons"; Yoda: "only five can I lift since I passed 700." (The Jedi Path, 2010) [WP]
+- F: "A pocket of air remained in the lift, held there by Yoda's will" against vacuum (Yoda: Dark Rendezvous)
+- F: Holds up the starship Last Call to keep it from crushing Chuff (Yoda: Dark Rendezvous)
+- F: Unarmed, destroys assassin droids with TK under railgun fire (Yoda: Dark Rendezvous)
+- F: Bats aside Dooku's thrown machinery "with little effort" (Star Wars Fact Files; Complete SW Encyclopedia: "Yoda easily deflected such assaults, and even repulsed Dooku's Force lightning attacks.")
+- F: Throws the two Red Guards (ROTS script; ROTS Visual Dictionary)
+- F: Force-sense range: "Master Yoda was said to be able to sense major disturbances parsecs away" (Medstar II); senses Sidious on Coruscant through the shroud and sees through other Jedi's eyes "almost as if they were the Temple's remote sensors" (Labyrinth of Evil); senses the Tusken slaughter and hears Qui-Gon (AOTC novel); senses Yaddle's death (Jedi Quest: The Shadow Trap); senses Obi-Wan and Anakin alive on Lanteeb (Clone Wars Gambit: Siege)
+- F: Telepathy: receives Obi-Wan's long-range message with coordinates (Wild Space)
+- F: Life extension: "Yoda had kept himself alive for all these years through his own personal power" (Galaxy Guide 5: Return of the Jedi, WEG; plus Star Wars Fact Files)
+- F: Healing: heals Jorj Car'das (Star Wars Fact Files); taught Luke self-healing (Truce at Bakura)
+
+=== CANON or ERA NOT VERIFIED (kept separate) ===
+- Canon (post-2014): "the diminutive but extraordinarily powerful head of the Jedi Council" (Dark Disciple, 2015); "Perhaps the greatest Master of the Force ever." (Star Wars: Absolutely Everything You Need To Know, 2017); "The full power of the light side and the dark side are on display during Yoda's clash with Emperor Palpatine." and "Ultimately the battle proves too much for Yoda" (Ultimate Star Wars, 2015); StarWars.com: "While he holds his own with the Sith Lord, even the ancient Jedi cannot outright defeat him." and "arguably the two most powerful beings in the galaxy"; StarWars.com databank lines.
+- Era not verified: "Yoda's knowledge of the Force makes him just as powerful as Darth Sidious." and "Yoda is an immensely powerful Jedi who can control blue crackling Force lightning." (Star Wars: Mysteries of the Jedi). "Star Wars Shorts: Precipice" (Obi-Wan: Yoda has been in his mind). Force Collection (card game, mixed). Hasbro packaging.
+- TCW (shared; it was canon in both continuities): Rugosa battalion, Katuunko's "More like a thousand" (TCW "Ambush"); Bane illusion on Moraband and the Sidious vision (TCW "Sacrifice", per the StarWars.com line; the thread's scans name no episode).
+
+=== SCANS, SOURCE NOT GIVEN IN THREAD (do not count until sourced) ===
+Chameleon droid cuts (x2) and avalanche; Force wave with Mace on dozens of droids; dozens of destroyer droids lifted into Separatist fighters; Ilum temple pieces lifted; landing craft pushed back and two C-9979s slammed together (Wookieepedia ties these to Star Wars: Clone Wars 2003 micro-series [33], the thread doesn't); Octuparra droids; Ventress pushed and disarmed (WP: TCW "Ambush"); "Force Pushes dozens of guards"; Typho mind trick; Senate pod catch (film); Luminara/Barriss on Ilum; Force Priestess trials; Yoda absorbs Dooku's lightning (image). [panel: panels/yoda/yoda-master-yoda-cuts-down-three-separatist-octuparra-1.gif]
+
+=== WHAT THIS THREAD ADDS TO VERDICTS ===
+- Yoda > Mace has the strongest statement chain I have for any PT pair: Mace himself says he's not Yoda's equal (Dark Rendezvous), Mace's POV says he's less confident in his raw power (Shatterpoint), and Yoda is one of only two people to beat Mace (PotJ Sourcebook).
+- Yoda vs Dooku: two on-page wins (Geonosis, Vjun), both ending with Dooku running.
+- Yoda vs Sidious: the primary sources split. The script and JN have Yoda driving Sidious back, disarming him, and nearly winning the lightning clash. Stover's novel frames it as Yoda "just-didn't-have it" and at "the limits of his strength". Every source agrees on the result: Yoda falls and leaves.
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### yoda-p1 / Force Healing
+- Master Yoda states he can use the Force to ease the passing of others: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-states-he-use-force-ease-1.jpg]
+
+### yoda-p1 / Force Valor
+- Master Yoda senses and then cuts down several Chameleon Droids before they can fire on him: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-senses-cuts-down-several-chameleon-1.gif]
+- Master Yoda cuts down several more Chameleon Droids before they can even react: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-cuts-down-several-chameleon-droids-1.gif]
+
+### yoda-p1 / Tutaminis
+- —Labyrinth of Evil (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-labyrinth-evil-1.gif]
+- Yoda absorbs and dissipates Count Dooku’s Force Lightning: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-yoda-absorbs-dissipates-count-dooku-force-lightning-1.gif]
+
+### yoda-p1 / Force Sense
+- —Revenge of the Sith junior novel (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-revenge-sith-junior-novel-1.gif]
+- Master Yoda senses and then cuts down several Chameleon Droids: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-senses-cuts-down-several-chameleon-2.gif]
+
+### yoda-p1 / Telekinesis
+- Master Yoda Force Pushes dozens of guards: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-force-pushes-dozens-guards-1.jpg]
+- Master Yoda and Mace Windu use Force Wave to blow away dozens of Battle Droids: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-mace-windu-use-force-wave-1.gif]
+- Master Yoda uses telekinesis to cause an avalanche that wipes out several Chameleon Droids: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-uses-telekinesis-cause-avalanche-wipes-1.gif]
+- Master Yoda telekinetically lifts dozens of Destroyer Droids and holds them in the path of Separatist starfighters: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-telekinetically-lifts-dozens-destroyer-droids-1.gif]
+- Master Yoda uses telekinesis to lift massive pieces of the Ilum Jedi Temple: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-uses-telekinesis-lift-massive-pieces-1.gif]
+- Master Yoda telekinetically forces droid transports back into their landing craft and the pushes it back: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-master-yoda-telekinetically-forces-droid-transports-back-1.gif]
+- While telekinetically pushing a Separatist landing craft, Yoda uses the Force to grab another one and slam it into the former craft, destroying both of them: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-telekinetically-pushing-separatist-landing-craft-yoda-uses-1.gif]
+- Yoda uses telekinesis to hold Asajj Ventress back from striking down the Toydarian King Katuunko: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-yoda-uses-telekinesis-hold-asajj-ventress-back-1.gif]
+- Yoda uses Force Push against Asajj Ventress: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-yoda-uses-force-push-against-asajj-ventress-1.gif]
+- Yoda casually disarms Asajj Ventress using the Force: (issue unknown (source not named in thread)) [panel: panels/yoda/yoda-yoda-casually-disarms-asajj-ventress-using-force-1.gif]

@@ -1,0 +1,25 @@
+# Vision of the Future — Notes 03: Chapters 9–13
+Source: FULL.txt **ll.1392–2126** careful consecutive. Prior: 1–1391. **Next unread: l.2127** (Ch14).
+
+## Ch9 — Varn / Karoly / Relentless (ll.1392–1541)
+**Varn undersea show:** Lando+Tendra Risant casino/mining; fraca/tertian ore collapses as tourist spectacle; packed galleries vs family skepticism.
+**Han’s encrypted call:** needs Lando *now* for Bastion run—expertise + people he can trust; invokes Karrde’s Car’das sacrifice as pot-hand. Oblique rendezvous: “two systems Coreward from where you didn’t have any choice” = Cloud City Vader memory. Needs **Lobot** + Verpine slicer **Moegid** and their “slicer trick” (Orowood talk = Bastion). Lando guilt vs Tendra; age/fear; Lady Luck + Dive Central prep.
+**Karoly D’ulin (Mistryl):** 40-hr audio tap on Lando’s office; Eleven demand Shada’s head after Hutt deal soured; tracked Shada Coruscant→Manarai→Wild Karrde escape; long-shot Karrde–Calrissian link; plans hidey-hole aboard Lady Luck—will kill old friend if needed.
+**Disra/Tierce/Flim on Relentless:** Ruurian ambassador clear; course Bastion; 3 new treaties. **8 Marauder Corvettes** jump in (noise-blanketed IDs). Disra ID’s Diamala (Zothip outbid for Corsairs; Miatamia skeptical of “Thrawn”). Tierce pulls Thrawn’s old Diamala battle: recall Preybirds → **Tron Boral** + full-closure **Marg Sabl** by Preybirds—Marauders flee on recognition alone. Disra drops “Hand of Thrawn” → Flim explodes (soundproof secondary command); Tierce must explain.
+
+## Ch10 — Cave trek mechanics / politics of Force (ll.1542–1741)
+Terrain: 100m known → 10m drop → stalactite maze; lightsaber windmill demo (Luke clean; Mara Force-grip falters mid-flight—Yoda “Do or do not”). Qom Jha rivalry sniping; Child Of Winds hero-worship.
+**Character/Force:** Mara vs academy; Luke admits maybe too much; Palpatine-range telepathy vs inability to hear Qom; Wayland teacher/student echo; focusing technique half-hour drill. **Jade’s Fire** brought in-system (Karrde); beckon call (broadcast vs LOS); Dagobah/Nkllon/Thrawn raid memory flash.
+**Lore dump:** Thrawn buried in alien-ship message; Leia’s damaged Tantiss datacard “Hand of Thrawn”; hypotheses—Hand-as-agent / superweapon / **groomed successor** waiting for Caamas fracture.
+**Predator chamber:** white moss ecology; wall-hole tongue predators (~30 yrs—possible High Tower deterrent); Mara lightsaber-kills one; Luke nonlethal: cut moss patches with grubs → feed tongues → cross with Artoo. Droch aversion. Camp: Luke’s embarrassment about Lando question; Mara withholds until he asks + her darker warning.
+
+## Ch11 — Bothawui shield / Navett (ll.1742–1861)
+Wedge+Corran recon **Drev’starn shield pole** (permasteel dome, 1 door, underground gens, 2-hr rebuild techs, Bel Iblis data). Market-day pickpocket Bothans steal wallets (mil+civilian IDs)—**Moranda Savich** (old woman / Karrde fringe) recovers them; Karrde letter of intro; “you’re buying.” Con-read: can’t verify via Coruscant liaison (covert). Pool resources: watch for Vengeance/Empire arrivals post research-station destruction; Customs computers.
+**Navett cell:** polpian pets exit quarantine (Bothan allergy sneezes); Horvic/Pensin as Ho’Din dive maintenance **over shield power conduit**; hired Bothan lifters muffed wallet job—new “fringe ally” with Wedge/Corran; Navett: watch, don’t kill yet.
+
+## Ch12 — Pesitiin pivot (ll.1862–1967)
+Leia+Noghri wait North Barris for “Bel Iblis.” Ship: small unmarked diplomatic-like craft, faint removed crest. Visitor = **Elegos A’kla**, Trustant Caamasi Remnant (+ Ghent). Ghent forged Bel Iblis msg (sig+bridgebreak) because Bel Iblis unreachable at **Kothlis** ship buildup; sliced Gavrisom files for Leia’s location.
+**Core payload:** Bel Iblis Morishim datacard—mangled Corvette TX cleaned by Ghent: **Col. Meizh Vermel**, Pellaeon’s envoy, under attack by Imperial traitors; if NR agrees, Pellaeon waits **Pesitiin** abandoned gas mine **one month**. Sakhisakh rejects (Empire/Thrawn lies). Elegos: explore even small chance; speed critical. Leia takes Falcon to Pesitiin (only authority present); Noghri accompany; Ghent + Elegos join (Ghent growth). Jedi foresight unease: path feels right → death?
+
+## Ch13 — Dayark / Rei’Kas / Entoo Nee (ll.1968–2126)
+Wild Karrde battle alert → Episol/Dayark; Jangelle course-change shadow ship; Shada takes **turbolaser 2** (Mistryl-qualified). Exit: 7 **Corsair-class** waiting (Bombaasa’s pirate gang). Shada+Griv kill two; ion runs; debris punches Shada’s bubble—chest/shoulder hit; emergency plate seal + bacta (Annowiskri). Rytal Prime: customs sift; repairs; meet **Gen. Jutka** at Ithor Loman (crosh-hide fashion; Mara/Lando were here ~6 yrs). Guide **Entoo Needaan E-elz** (“Entoo Nee”—droidlike name). Jutka: don’t want war between **Bombaasa** and **Rei’Kas** (ex-Karazak Slavers Cooperative Rodian strike lead); Rei’Kas marked Wild Karrde. Karrde suspects Rei’Kas works for Car’das. Entoo Nee knows Exocron+Car’das+Karrde’s name; offers guide in **two-person ship only**—Shada refuses solo. Threepio hears Rodian; three blasters drawn on them—cliffhanger.

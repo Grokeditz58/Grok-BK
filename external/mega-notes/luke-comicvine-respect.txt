@@ -1,0 +1,56 @@
+Luke Skywalker (Legends): respect-thread layer, read 2026-10-19
+CV respect threads by WollfMyth209 (listed in the CV Star Wars RT index, forum 2022954):
+ - Legacy Era (LotF + FotJ), Nov 25, 2016: https://comicvine.gamespot.com/profile/wollfmyth209/blog/luke-skywalker-respect-thread-legacy-era/129252/  (READ via WebFetch; the tool cut the last ~690 lines, i.e. the end of the combat-feats section: rest of Lumiya rematch, Caedus duels, FotJ Abeloth/Taalon fights. Those LotF fights are already in lotf-*-notes.md / luke-legends-quotes.txt.)
+ - Rebellion Era Part 1 (blog 129026), New Republic Era (forum 1840720), NJO Era (KMC copy 636773): NOT read (GAP). Dreamer016 "1 ABY Luke" RT not read.
+ - r/respectthreads: reddit blocks curl (403); not read (GAP).
+Rules: only quoted source text counts. LotF lines below match my own LotF reads (luke-legends-quotes.txt); FotJ lines are NEW (I have NOT read Fate of the Jedi myself, so they are RT-quoted, chapter numbers not given = PARTIAL verification).
+Tags: S statement, F feat, W weakness.
+
+== STATEMENTS ==
+S LotF: Bloodlines (narration, Jacen POV): "Jacen was more powerful than any of them except Luke. And he was growing closer to Luke's strength by the day."
+S LotF: Inferno (Jaina POV): "if his flying was any example, he hadn't revealed half of what he could do. Maybe not even a quarter."
+S LotF: Revelation (Caedus POV): "Luke was the greatest Jedi Master, and he'd just exposed the absolute limits of his powers, a suicidal gamble in any war."
+S LotF: Invincible: Han after Luke forces a blast door ("thirty-centimeter locking pins"): "Now you know who to call if you need a mountain moved."
+S LotF: Invincible: Luke: "Every future that begins with me going after Caedus ends in darkness. I know I'm the only one who can be sure of stopping him"
+S LotF: Tempest: Ben: "The greatest sword handler in the galaxy"
+S LotF: Fury (Caedus POV) on their Ship duel: "brilliant demonstrations of lightsaber technique, of raw power within the Force, of subtle Jedi and Sith skills."
+S FotJ: Outcast (Tila Mong): "Luke Skywalker, the most famous, most powerful, and most experienced living Jedi"
+S FotJ: Omen: "Luke Skywalker was a bright, shining presence to anyone who was Force-sensitive"; Lady Rhea: "I-felt someone very powerful in the Force... Strong in the power of the light side. A Jedi ... a great Master." Lost Tribe: "We sensed a presence that we immediately realized would be a threat to us."
+S FotJ: Vortex (Jaina): "Luke Skywalker is still the most powerful Jedi in the galaxy."
+S FotJ: Conviction (Vestara): "I just know you have more power than anyone else I can think of."
+S FotJ: Ascension (Gavar Khai POV): "a fight with one of the most powerful Jedi who had ever lived."
+S FotJ: Vortex (Vestara): "the Skywalkers were mighty... she was not fool enough to believe they would make her the equal of Luke Skywalker or his son."
+
+== FEATS (LotF, already verified in my notes) ==
+F Inferno: Force-pins Caedus in his chair "with no visible effort" and holds him "with no apparent exertion"; Caedus "too astonished-and too frightened".
+F Inferno: beats Caedus in the Anakin Solo duel ("Luke had beaten him. Luke had just kept coming despite his injuries.")
+F Revelation: rips Caedus's ship apart mid-dogfight; "Caedus tried to block Luke in the Force and suddenly got an idea of just how much power Luke could muster."
+F Revelation: "Luke could even deceive Jacen into fighting a fleet that wasn't there."
+F Invincible: illusion swaps with Jaina mid-duel; forces open a blast door with 30 cm locking pins.
+F Tempest: kills nobody but survives Lumiya + Alema ambush while maimed (hand lost); Exile/Sacrifice: kills Lumiya.
+W Tempest: loses his hand to Lumiya after Alema's Force distraction.
+
+== FEATS (FotJ, RT-quoted, NEW, chapter not given) ==
+F FotJ: Outcast: vs the Hidden One (Baran Do): lightning thrown "took Luke off his feet and threw him backward" but blade held it; roots himself against wind + lightning and advances; deflects a whirlwind; freezes a falling pillar and spears a thrown stone throne with it; one-kicks the Hidden One.
+F FotJ: Outcast/Omen: learns hassat-durr (lightning rod) and ayna-seff techniques; turns the Jade Shadow into a reverse lightning rod in a storm.
+F FotJ: Omen: Aing-Tii fold space: teleports a Vor'cha stick from Ben's hand ("Luke had readily mastered the other known Aing-Tii Force technique").
+F FotJ: Abyss: mind-walks "beyond shadows" for weeks; one-punches Vestara; kills Ahri; hides from several Sith.
+F FotJ: Backlash: on a dark-side nexus, exhausted and injured, holds off multiple Nightsisters' lightning, redirects it onto a rancor (hassat-durr); "He couldn't advance against it, so he rooted himself in place"; Viun Gaalan clash "a blow that would have thrown any two lesser Force-users back half a dozen meters"; "He's countering my power" when Gaalan's shuttle escapes his TK grip (W: stalemated by Gaalan's TK while tired).
+F FotJ: Conviction: tears Callista's spirit free of Abeloth ("With all the strength he possessed in the Force, he yanked her away").
+F FotJ: Vortex: one-hands Gavar Khai by the ankle into Taalon and Vestara; pins Khai to a wall; "flicked a finger" to send Vestara tumbling; magma on Abeloth; beam into Taalon; "perceives" in a nanosecond.
+F FotJ: Apocalypse: beyond-shadows duel with Abeloth: fights on with "a fist-sized scorch hole" and "his Force essence... bleeding out"; Force blast "rocked Abeloth up on one leg". (He and the Jedi ultimately kill Abeloth's body in Apocalypse; per Wookieepedia, Luke deals the final blow with Ben's help - not in the read part of the RT.)
+W FotJ: Apocalypse: Abeloth's lightning "blasted straight through the stranger into Luke... consumed by pain"; Vortex: "Luke felt a sudden shiver of danger sense, and dived away a mere heartbeat ahead of" Taalon's lightning while "exhausted and incredibly weakened".
+
+== SI/CV hype not in the RT (from SI threads, UNVERIFIED wording) ==
+- FotJ "micro black holes" push (SI t211, IG; Azronger: "*micro-black holes with unquantifiable mass").
+- Dark Empire: Luke + Leia's help beat DE Sidious in a short clash (SI t195/t211 Ellimist, MasterCilghal); Deronn_Solo: Sidious bested Luke "in a few panels, in the issue before".
+- Kun incapacitated Luke with an unknown technique (Jedi Academy trilogy) (SI t195 MP).
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### luke-legacy / Respect Luke Skywalker
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/luke/luke-respect-luke-skywalker-1.jpg]
+
+### luke-legacy / Combat skill -- Feats
+- Luke and Darth Krayt work together to defeat an avatar of Abeloth , which was partially done by fighting her on more than one plane of existance via Mind-Walkin (issue unknown (source not named in thread)) [panel: panels/luke/luke-luke-darth-krayt-work-together-defeat-avatar-1.jpg]

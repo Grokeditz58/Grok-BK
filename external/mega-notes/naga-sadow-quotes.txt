@@ -1,0 +1,142 @@
+NAGA SADOW — RESEARCH EXTRACTION
+
+Page/status
+- Requested URL opened successfully; no fallback was needed.
+- Final URL: https://starwars.fandom.com/wiki/Naga_Sadow/Legends
+- Page label: Legends (the page category line says “Legends articles”). This extraction is Legends-only; no separate canon page was consulted.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Article caveats: Wookieepedia says parts are out of date and identifies conflicting accounts in Tales of the Jedi – Dark Lords of the Sith 1 and The New Essential Guide to Characters; it also says Lucasfilm has not established a cohesive timeline for the subject.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- I scrolled through the article’s “Notes and references” section. Bracketed numbers below are the article’s own footnote numbers and source mapping.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+LEGENDS FEATS FIRST
+
+1. Overall historical / war result (article lead; Great Hyperspace War)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says that in 5000 BBY Sadow took the Sith Empire “to the brink of galactic domination” in the Great Hyperspace War. It says his invasion initially met with “great success” and he was “on the cusp of victory.” [lead; refs. 3, 7, 20–22]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Naga Sadow/Legends" rev 15648803 but it has no inline citation in its paragraph; exact text match)
+- Concrete campaign: he assembled Sith Lords, fleets, ground troops, and war beasts; launched a surprise, many-pronged assault aimed at the Koros system and Republic capital Coruscant. [lead; “Sadow’s star war,” refs. 20–21]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says the Sith attack on Coruscant was led by Shar Dakhan and was augmented by Sadow’s illusions to appear tens of thousands of ships strong, while Gav Daragon’s force besieged the Koros system. [“Sadow’s star war,” ref. 20]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 20; approximate match 0.82, verify; agrees with the entry's own ref marker]
+- Result/counterpoint: the campaign was decisively repelled at Coruscant, Koros Major, and Primus Goluud; Sadow escaped with only a few ships. [“Flight, exile and death,” ref. 25]
+
+2. Illusions / meditation sphere (lead; “Sadow’s star war”; “Powers and abilities”; “Equipment”)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The lead says that while isolated in his Sith meditation sphere, Sadow augmented his forces with illusory beasts and ships. Gav Daragon’s attack broke Sadow’s concentration and dissipated the illusions. [lead]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article states his plan was to create illusions with Sith magic so his forces appeared much more formidable than they were. [“Sadow’s star war,” ref. 21]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 2 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 21; approximate match 0.87, verify; agrees with the entry's own ref marker]
+- Concrete scale claimed by the article: in the meditation sphere he could conjure hundreds of illusions at once and manifest them light-years away. [“Powers and abilities,” ref. 20]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 20; approximate match 0.80, verify; agrees with the entry's own ref marker]
+- Concrete application: on Coruscant the illusions made the invasion force appear tens of thousands of ships strong. [“Sadow’s star war,” ref. 20]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 20; approximate match 0.82, verify; agrees with the entry's own ref marker]
+- Limitation demonstrated: the illusions could not be sustained when his concentration was even briefly broken; Daragon’s laser shot at Primus Goluud caused many apparitions across the galaxy to disappear. [“Sadow’s star war” and “Powers and abilities,” ref. 22]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 22; per-sentence approximate match (2/2 sentences matched, min 0.62), verify; agrees with the entry's own ref marker]
+- Article-stated scaling: Sadow’s power of illusion was “so great” that it was a focal point of his Great Hyperspace War plan. [“Powers and abilities,” ref. 20]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+3. Stellar / large-scale Sith magic ("Sadow’s star war"; “Flight, exile and death”; “Powers and abilities”; “Equipment”)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In the Corsair, Sadow used the Force to trigger a massive supernova in Primus Goluud, covering his retreat and consuming Gav Daragon in the meditation sphere. [“Sadow’s star war,” ref. 22]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 22; approximate match 1.00, verify; agrees with the entry's own ref marker]
+- During the flight from Empress Teta, he used Sith magic to cause solar flares while passing between the twin stars of the Denarii Nova, covering his retreat; the lead summarizes the escape as destroying both stars along with the pursuing forces. [“Flight, exile and death,” ref. 25]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 25; per-sentence approximate match (1/2 sentences matched, min 0.68), verify; agrees with the entry's own ref marker]
+- The article describes his alchemical displays as including causing supernovas and solar flares. [“Powers and abilities,” refs. 22, 25]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 4 ; Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 22,25; approximate match 0.86, verify]
+- Equipment statement, not an unqualified feat: the Corsair’s bridge crystals let him summon “nigh-unlimited power,” including the ability to obliterate stars themselves. [“Equipment,” ref. 48]
+  Source: Knights of the Old Republic Campaign Guide ; Tales of the Jedi – The Fall of the Sith Empire 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 48,22; approximate match 0.74, verify; agrees with the entry's own ref marker]
+
+4. Alchemy / biological transformation ("Flight, exile and death"; “Powers and abilities”)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- On Yavin 4 Sadow practiced Sith alchemy for decades and used it to experiment on Massassi slaves, twisting/mutating them into powerful beings filled with violence and hate. [“Flight, exile and death,” ref. 26]
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 26; approximate match 0.69, verify; agrees with the entry's own ref marker]
+- He mutated a larval space slug into the colossal Sith wyrm, a giant monster that could swallow a Jedi in one bite; the article says it remained for centuries as a guardian. [“Flight, exile and death,” refs. 26, 29]
+  Source: The Dark Side Sourcebook ; Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 29,26; approximate match 0.84, verify]
+- The powers section says his magic could transform living beings into monstrous servants and that it was said he could give flesh to spirits already departed. The latter is explicitly reported as a claim (“it was said”), not a directly demonstrated feat. [“Powers and abilities,” ref. 32]
+  Source: Tales of the Jedi – Dark Lords of the Sith 5 ; Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 27,32; approximate match 0.67, verify; agrees with the entry's own ref marker]
+
+5. Combat, tactics, and named opponents (various biography sections)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Ludo Kressh: Sadow and Kressh dueled with Force-imbued blades at Marka Ragnos’s funeral. Later, at Khar Delba, Sadow used deception, hidden forces, and Sadow’een assassins posing as crew to turn Kressh’s allies Horak-mul and Dor Gal-ram against him; Kressh’s forces retreated. The article calls this a “tactical masterpiece” and says it cemented Sadow as undisputed ruler of the Sith Empire. [“Claimant to the Sith legacy” and “Consolidating power,” refs. 5, 14, 18–19]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Naga Sadow/Legends" rev 15648803 but it has no inline citation in its paragraph; exact text match)
+- Kressh’s later return: Sadow detonated Kressh’s flagship after having Daragon press a control-panel button; this removed Kressh from the immediate campaign, though Kressh later survived/staged his death. [“Consolidating power,” ref. 7]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 1 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 7; per-sentence approximate match (1/2 sentences matched, min 0.74), verify; agrees with the entry's own ref marker]
+- Great Hyperspace War aftermath: Kressh nearly overwhelmed Sadow’s battered ships above Korriban; a Sadow pilot suicide-ran Kressh’s flagship, killing Kressh and breaking his remaining forces’ will to fight. [“Flight, exile and death,” ref. 25]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 25; approximate match 0.72, verify; agrees with the entry's own ref marker]
+- Marka Ragnos: the article identifies Ragnos as Dark Lord during Sadow’s rise and says Sadow’s main rival for succession was Kressh; Ragnos’s spirit warned that the Golden Age was ending. This is context, not a Sadow victory over Ragnos. [“Claimant to the Sith legacy,” ref. 5]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Naga Sadow/Legends" rev 15648803 but it has no inline citation in its paragraph; exact text match)
+- Republic/Jedi forces and Empress Teta: Sadow’s campaign initially succeeded, but Jedi and Republic soldiers counterattacked at Coruscant; reinforcements from Ronika defeated Sith forces on Kirrek; Empress Teta’s fleet ultimately pursued and defeated Sadow’s remaining forces. [“Sadow’s star war,” refs. 20, 22; “Flight, exile and death,” ref. 25]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 4 ; Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 22,25; per-sentence approximate match (2/3 sentences matched, min 0.61), verify; agrees with the entry's own ref marker]
+- Gav Daragon: Sadow trained Gav, an ex-Jedi initiate with strong but untrained Force talent, as an apprentice; later, after Daragon broke Sadow’s concentration, Sadow killed him / caused his death in the Primus Goluud retreat. [“Consolidating power,” ref. 14; “Sadow’s star war,” ref. 22]
+  Source: Tales of the Jedi – The Golden Age of the Sith 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 14; per-sentence approximate match (1/2 sentences matched, min 0.87), verify; agrees with the entry's own ref marker]
+- Freedon Nadd: Sadow awakened from suspended animation around 4400 BBY, taught Nadd his Sith secrets, and Nadd eventually turned on and killed him. [“Flight, exile and death,” refs. 1, 3, 8]
+  Source: The Dark Side Sourcebook ; The New Essential Chronology ; The Essential Chronology ; The New Essential Guide to Characters ; Star Wars: The Old Republic — Codex: "Galactic History 37: Freedon Nadd" [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 29,3,17,1,8; approximate match 0.80, verify]
+- Exar Kun: later, Kun destroyed the Sith wyrm created by Sadow and used Sadow’s buried Corsair; this is a later character’s feat against a creature, not a feat by Sadow. [“Legacy,” refs. 26–27]
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 ; Tales of the Jedi – Dark Lords of the Sith 5 ; The New Essential Chronology [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 26,27,3; per-sentence approximate match (1/2 sentences matched, min 0.74), verify]
+
+6. Other concrete acts / capabilities
+- Used the dark side to extend his life for centuries and later placed himself in suspended animation. [“Early life” and “Flight, exile and death,” refs. 2–3]
+  Source: Tales of the Jedi – The Golden Age of the Sith 3 ; The New Essential Guide to Characters says that Naga Sadow "used dark arts to keep his body alive for centuries." [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 6,2; approximate match 0.60, verify]
+- Broke out Gav and Jori Daragon from imprisonment on Ziost, killing witnesses; the article notes he used a Republic blaster effectively despite never having seen that weapon before. [“Claimant to the Sith legacy” and “Consolidating power,” ref. 18]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Naga Sadow/Legends" rev 15648803 but it has no inline citation in its paragraph; exact text match)
+- Used a tracer on Jori’s Starbreaker 12 to locate Republic space. [“Consolidating power,” ref. 7]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In single combat, the article says he was a match for Ludo Kressh, employed telekinesis to pelt an opponent with stones between sword strikes, and was proficient with a Force-imbued Sith sword. [“Powers and abilities,” ref. 5]
+  Source: Tales of the Jedi – The Golden Age of the Sith 2 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 5; approximate match 0.85, verify; agrees with the entry's own ref marker]
+- Built massive Yavin 4 temple complexes, concealed the Corsair in the Temple of Fire, and created alchemical guardians. [“Flight, exile and death,” refs. 25–29]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+ARTICLE-STATED SCALING / DESCRIPTIVE CLAIMS (NOT AUTOMATIC FEATS)
+- Intro: “one of the most powerful Sith sorcerers of his time.”
+  Source: Knights of the Old Republic Campaign Guide ; Tales of the Jedi – The Fall of the Sith Empire 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 48,22; article sentence itself uncited (lead/summary); citation taken from the closest cited body passage, approximate match 0.83, verify]
+- Early life: his hybrid bloodline was described as one of the purest Jedi lineages in the Sith Empire.
+  Source: Tales of the Jedi – The Golden Age of the Sith 2 ; Tales of the Jedi – The Golden Age of the Sith 3 ; The New Essential Guide to Characters [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 5,6,1; approximate match 0.80, verify]
+- Powers: “A powerful dark magician”; “one of the most powerful alchemists and Sith sorcerers of all time.”
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 48; exact text match]
+- Powers: described as “incredibly potent” at creating illusions; the article says he could conjure hundreds at once and manifest them light-years away.
+  Source: Tales of the Jedi – The Fall of the Sith Empire 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 20; approximate match 0.97, verify]
+- Combat: “a brilliant strategist”; the article says his strength lay in finding where a foe was weakest and striking precisely and devastatingly.
+  Source: Star Wars: The Old Republic — Conversation with Lord Lokar ; Tales of the Jedi – The Golden Age of the Sith 2 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 46,5; approximate match 0.61, verify]
+- Equipment: the Corsair crystals are said to provide “nigh-unlimited power” and the ability to obliterate stars.
+  Source: Knights of the Old Republic Campaign Guide ; Tales of the Jedi – The Fall of the Sith Empire 4 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 48,22; approximate match 0.84, verify]
+- These are the article’s descriptions/scaling statements; they should not be treated as additional independently shown feats.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+HYPE, PROPHECY, AND CHARACTER OPINIONS (STATEMENTS, NOT FEATS)
+- Sadow’s quote: “The Sith Empire will burn brightly, like a supernova, dwarfing the complacent Republic. We shall hold the entire galaxy in our grasp.” [lead, ref. 7]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 1 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 7; exact text match; agrees with the entry's own ref marker]
+- His boast: “We can dominate Coruscant in an eyeblink!” [“Sadow’s star war,” ref. 20]
+  Source: Tales of the Jedi – The Fall of the Sith Empire 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 20; exact text match; agrees with the entry's own ref marker]
+- He claimed the Sith Empire’s natural order belonged to him and could be twisted to serve him; this is characterization. [“Personality and traits,” ref. 27]
+  Source: Tales of the Jedi – Dark Lords of the Sith 5 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 27; approximate match 0.75, verify; agrees with the entry's own ref marker]
+- Marka Ragnos’s warning that the Sith would be destroyed if they fought the wrong battles is a character’s warning, not a power feat. [“Claimant to the Sith legacy,” ref. 5]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Naga Sadow/Legends" rev 15648803 but it has no inline citation in its paragraph; exact text match)
+- Darth Baras’s line, “To set foot in the tomb of Naga Sadow is to breathe in death itself,” is an opinion/atmospheric statement. [“Sadow’s tomb,” ref. 38]
+  Source: Star Wars: The Old Republic — Sith Warrior Mission: "The Final Trial" on Korriban [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 38; exact text match; agrees with the entry's own ref marker]
+- The article reports it was “said” Sadow could give flesh to departed spirits; that wording marks it as a claim, not a directly narrated feat. [“Powers and abilities,” ref. 32]
+  Source: Tales of the Jedi – Dark Lords of the Sith 5 ; Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 27,32; per-sentence approximate match (1/2 sentences matched, min 0.80), verify; agrees with the entry's own ref marker]
+
+REFERENCE CHECK / KEY SOURCE MAPPING FROM THE ARTICLE
+- [1–3] The New Essential Guide to Characters; The New Essential Chronology (including the “dark arts” longevity statement).
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- [5] Tales of the Jedi – The Golden Age of the Sith 2.
+- [6] Tales of the Jedi – The Golden Age of the Sith 3.
+- [7] Tales of the Jedi – The Fall of the Sith Empire 1.
+- [8] Star Wars: The Old Republic, Codex “Galactic History 37: Freedon Nadd.”
+- [14] Tales of the Jedi – The Golden Age of the Sith 4.
+- [18] Tales of the Jedi – The Golden Age of the Sith 5.
+- [20] Tales of the Jedi – The Fall of the Sith Empire 3.
+- [21] Tales of the Jedi – The Fall of the Sith Empire 2.
+- [22] Tales of the Jedi – The Fall of the Sith Empire 4.
+- [25] Tales of the Jedi – The Fall of the Sith Empire 5.
+- [26] Tales of the Jedi – Dark Lords of the Sith 4.
+- [27] Tales of the Jedi – Dark Lords of the Sith 5.
+- [29] The Dark Side Sourcebook.
+- [31–32] Tales of the Jedi – Dark Lords of the Sith 1 and 3.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 ; Tales of the Jedi – The Golden Age of the Sith 2 ; Tales of the Jedi – The Fall of the Sith Empire 1 [per Wookieepedia "Naga Sadow/Legends" rev 15648803, ref 31,5,7; article sentence itself uncited (lead/summary); citation taken from the closest cited body passage, approximate match 0.97, verify]
+- [46] Star Wars: The Old Republic conversation with Lord Lokar.
+- [48] Knights of the Old Republic Campaign Guide.
+- The article’s references also include Crosscurrent, Lost Tribe of the Sith, The Essential Guide to Warfare, Jedi vs. Sith: The Essential Guide to the Force, The Old Republic supplementary material, and many other listed sources; the page notes continuity conflicts and inconsistencies, so claims should be read as article-reported Legends continuity rather than a single uncontested account.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

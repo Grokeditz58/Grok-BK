@@ -1,0 +1,9 @@
+# SPECIALIZED USE — P192–197 (S108–)
+
+## Human Replica Droid and Synthdroid — P192–193 (S108)
+Unspoken robotics rule on resembling creators; recent artificial-tissue breakthroughs → HRDs + synthdroids. HRDs among most expensive automatons; originated in Rebel “Project Decoy” (replace Imp officials); Empire hired Massad Thrumble + Simonelle the Ingoian first → **Guri**. Simonelle later Minos Cluster workshop; Thrumble stayed with Empire. Guri sold to Prince Xizor for 9 million credits; hyper-reflexes + astonishing strength; poly-alloy skeleton, clone vat-grown skin, bio-fiber organs; Black Sun bodyguard/assassin; redesigned AA-1 Verbobrain cognitive module. Synthdroids = “giant step backward”; Loronar ~9 yrs after Endor; 100,000 credits; synthflesh over durasteel skeleton w/ cable/hydraulic joints; popular Carosi/Hesperidium pleasure-domes; lack scent, doll-like hair, vacant expressions; pulled after programmable-crystal source destroyed at Battle of Nam Chorios.
+**Schematics:** Front + Front cutaway — Modified VerboBrain, Sculpted Humanoid Features, Shielded Micro-gyros, Functional Respiratory/Circulatory/Digestive Systems, Bio-fiber Organs, Clone Vat-grown Skin, Poly-alloy Skeleton.
+
+## B’omarr Brain Walker — P194–195 (S109)
+Not true droids — metal spiderlike armatures controlled by preserved organic brains of B’omarr monks (Tatooine monastery → Jabba’s Palace). Brains in shatterproof glassine jars with nutrient fluid; acolytes move into armatures. Diagnostic lights: blue/green normal, red for “screaming.”
+**Schematics:** Storage/Transport Side — Speaker, Retractable Neurix Tubes (in housing), Organic Brain (in nutrient fluid), Shatterproof Glassine Jar, Storage Abdomen, Servomotor Drive Assembly. Front — Telepath Response Unit, Sensor Row, Diagnostic Indicator Lights (on rim), Heavy Gripper Claw, Jointed Durasteel Limbs (6). Taller than R2 (jar ~dome height).

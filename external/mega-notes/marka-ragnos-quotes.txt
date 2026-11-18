@@ -1,0 +1,83 @@
+Marka Ragnos research extraction
+Source requested: https://starwars.fandom.com/wiki/Marka_Ragnos/Legends
+That URL returned a Wookieepedia “article does not exist” page (404-style missing article), so the fallback was opened.
+Final URL: https://starwars.fandom.com/wiki/Marka_Ragnos
+Page label: Legends. The page is categorized as a “Legends article”; it contains no separate canon section. The extracted material below is therefore labeled Legends.
+
+SCOPE / ARTICLE SECTIONS REVIEWED
+The page sections were reviewed through the bottom, including Biography (Dark Lord of the Sith; Legacy; Resurrection attempt), Personality and traits, Powers and abilities, Equipment, Behind the scenes, Appearances, Sources, and Notes and references. The page’s references/notes were scrolled through; citation numbers below are the article’s own note numbers.
+
+LEGENDS — concrete feats and events
+
+[DARK LORD OF THE SITH]
+- Ragnos and the powerful Sith Lord Simus fought for the mantle of Dark Lord of the Sith. The article calls Ragnos a “formidable warrior” and says he dueled and defeated Simus in combat, at some point between 5200 and 5100 BBY.[9]
+- As Dark Lord, he led ruthless campaigns against Sith enemies, manipulated adversaries against one another, and kept threats from his throne under control.[3] His iron-fisted rule lasted over a century.[2]
+- He created a Scepter capable of siphoning the Force from many different places and using that power to empower non-Force users.[4] He also designed gauntlets capable of augmenting the strength of the Force in their user.[12]
+- In 5100 BBY, thirteen-year-old Tenebrae petitioned Ragnos for Sith training and recognition as ruler of Medriaas. Ragnos declined to make him an apprentice, but recognized Tenebrae’s power and ambition, named him ruler of Medriaas, and gave him the rank/name Vitiate.[7]
+- Ragnos died in 5000 BBY. The article says his death marked the end of a golden age of the Sith Empire.[2]
+
+[SPIRIT / FORCE GHOST]
+- After death, Ragnos continued as a Force ghost, trapped in his tomb in the Valley of the Dark Lords on Korriban.[4][12]
+- At his funeral, his spirit appeared to Naga Sadow and Ludo Kressh while they were disputing succession. He spoke of the Sith Empire’s great past and uncertain future and proclaimed that only the most worthy would succeed him.[2]
+- About a millennium after his death, Ragnos and other Dark Lords were summoned from the grave by Exar Kun and Ulic Qel-Droma using Sith amulets.[19] Ragnos crowned Kun Dark Lord and designated Qel-Droma Kun’s first/foremost apprentice (Shadow Hand). With a single touch, the spirit burned a Dark Lord mark into Kun’s forehead and a Shadow Hand mark into Qel-Droma’s.[19][20]
+- By the Galactic War, the article says Ragnos’s ghost roamed Architect’s Hollow on the fourth moon of Yavin Prime.[25]
+- A Darth Plagueis account says a vision/apparition of Ragnos appeared in Korriban’s Valley of the Dark Lords, challenged Plagueis’s Sith title and objected to dismantling Korriban’s traditions, then vanished in smoke. The same account says Plagueis thought the episode might have been only in his mind; this is not a clean, unqualified physical feat.[26]
+
+[AMULETS / SUMMONING STATEMENT]
+The article quotes Ragnos at the amulet summoning:
+“It matters not who I am. My power is all that concerns you. You have both found the amulets…and each other…now the power of these amulets is joined…and I have come.”[19]
+The concrete event attached to the quote is that the pair of Sith amulets’ joined power summoned his spirit; he then marked/crowned Kun and Qel-Droma as described above.[19][20]
+
+[RESURRECTION ATTEMPT / NAMED DUEL]
+- In 14 ABY, Tavion Axmis and the Disciples of Ragnos used an ancient Ragnos Scepter to drain residual Force energy from many Force nexuses around the galaxy, empowering followers and attempting to resurrect him.[4]
+- Tavion succeeded in allowing Ragnos’s spirit to possess her body. In the Battle of Korriban, Ragnos fought Jedi Jaden Korr inside Ragnos’s tomb. Korr defeated him; Ragnos’s ghost was forced back into its sarcophagus, after which he promised to return.[4]
+- In that fight, the article says Ragnos’s customized Sith sword skillfully deflected Korr’s attacks while releasing the power of the Sith sorcery imbued in the sword.[4]
+- The article quotes Ragnos to Korr: “A mere Jedi child will not undo my return.”[4] This is a character statement/hype, not an independent feat; the article says Korr nevertheless defeated him.[4]
+
+[POWERS, ABILITIES, AND EQUIPMENT]
+- The article states that Ragnos was powerful physically and in the Force, was proficient in Sith sorcery, and had enough Force connection to possess Tavion in order to fight Jaden Korr.[3][4][14][18][27]
+- His Sith sword was a metal Sith-species weapon enhanced by Sith alchemy and could be hidden inside his Scepter.[3][4][28]
+- The article attributes to Lokar the statement that Ragnos could focus the dark side to make himself “nearly unwoundable” in battle. This is explicitly an attributed statement, not presented as an independently demonstrated feat in the article.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Marka Ragnos" rev 15670444 but it has no inline citation in its paragraph; approximate match 0.64, verify)
+- His mystical Scepter could siphon and store dark-side energy and release Force power onto ordinary beings to make them Force-sensitive.[4]
+- His dark gauntlets increased affinity with the dark side and augmented melee-weapon/lightsaber skill; Revan later found a pair in Ragnos’s tomb during the Jedi Civil War.[12]
+
+[OTHER CONCRETE LEGENDS EVENTS]
+- During the funeral succession dispute, Naga Sadow and Ludo Kressh engaged in a duel of Sith swords; Ragnos’s spirit oversaw/intervened in the succession, but this was not a duel involving Ragnos personally.[2]
+- Ragnos’s tomb was protected by a rogue assassin droid; during Revan’s visit, Revan found Ragnos’s gauntlets. This portion is explicitly marked by the article as assuming 100% KOTOR completion and light-side choices, and the article cautions that such events may or may not have been confirmed as canon within Legends.[12]
+
+ARTICLE-STATED SCALING / STATUS (keep separate from feats)
+- The article calls Ragnos “feared, obeyed, and admired” among the Sith and says he was considered a wise and powerful Dark Lord.[3]
+- It says his rule began a Sith Golden Age and that his death marked that age’s end.[2][3]
+- It calls him a direct descendant of a Dark Jedi exiled from the Republic after the Hundred-Year Darkness.[3][8]
+  Source: The Dark Side Sourcebook ; Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Marka Ragnos" rev 15670444, ref 3,8; approximate match 1.00, verify; agrees with the entry's own ref marker]
+- The article says he was important enough among the Sith to be summoned back from death twice; this is an article characterization based on the two summoning/resurrection episodes, not a power measurement.[4][19]
+- Jedi historian Master Gnost-Dural is said to have speculated that Ragnos’s support for Exar Kun meant Ragnos did not support the Sith Emperor. This is explicitly speculation, not a confirmed scaling claim.[24]
+- In the first-appearance discussion, comic narration calls him the “reigning Dark Lord of the Sith” during a period when Sith were being driven toward extinction by Jedi and Republic armies.[19] This is narration/setting context, not a demonstrated feat.
+
+CHARACTER OPINIONS / HYPE (not feats)
+- Ludo Kressh: “All hail the memory of Marka Ragnos! His legacy will live for centuries among the Sith people and their rulers!”[2]
+- Tavion’s exchange with Kyle Katarn is quoted as: “Ragnos? What can a dead Sith Lord give you?” / “Everything I have ever wanted.”[4] This expresses Tavion’s belief/goal, not proof of capacity.
+- Ragnos’s own “My power is all that concerns you” line and “A mere Jedi child…” line are character statements; the associated events are recorded above, but the rhetoric itself is not a feat.
+  Source: Tales of the Jedi – Dark Lords of the Sith 6 [per Wookieepedia "Marka Ragnos" rev 15670444, ref 19; exact text match]
+
+RELEVANT ARTICLE REFERENCE KEY
+[2] Tales of the Jedi – The Golden Age of the Sith 2.
+[3] The Dark Side Sourcebook.
+[4] Star Wars: Jedi Knight: Jedi Academy.
+[7] The Old Republic: Revan (and audiobook).
+[9] Tales of the Jedi – The Golden Age of the Sith 3.
+[12] Star Wars: Knights of the Old Republic.
+[14] Star Wars: Tales of the Jedi – The Golden Age of the Sith.
+[18] The New Essential Chronology.
+[19] Tales of the Jedi – Dark Lords of the Sith 6.
+[20] Knights of the Old Republic Campaign Guide.
+[24] “Timeline 10: The Exar Kun War” on The Old Republic’s official website (as listed by the article).
+[25] Star Wars: The Old Republic: Shadow of Revan.
+[26] Book of Sith: Secrets from the Dark Side.
+[27] Star Wars: Knights of the Old Republic II: The Sith Lords.
+[28] Book of Sith: Secrets from the Dark Side.
+[29] Interview with Dario Carrasco, Jr. (behind-the-scenes, not used as a feat source).
+
+END NOTE
+The article’s “Behind the scenes” section says Ragnos has never appeared in a story in which he was alive; his appearances are as a ghost/spirit, vision, corpse, or mentioned figure. The page’s own content is Legends-labeled, not a mixed canon/Legends article.

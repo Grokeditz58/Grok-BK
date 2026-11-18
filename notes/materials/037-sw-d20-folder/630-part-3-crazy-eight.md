@@ -1,0 +1,21 @@
+# Owner Material 037 — Star Wars D20 Drive folder (Core, Revised Core and Saga Edition): Locations/Planet Hoppers/Yavin - The Big Red One/Part 3 - Crazy Eight.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
+
+- **Source:** Wizards of the Coast Star Wars Roleplaying Game books, web enhancements, Living Force campaign modules and articles (2000–2010), from the owner's "Star Wars D20" Drive folder (only the three edition subfolders; "General" was not read, as instructed). Secondary source (licensed Legends reference). Scan OCR'd on the box; the scan stays box-only and is **not** published.
+- **Method:** every scanned page was OCR'd and machine-screened sentence by sentence for power-relevant statements (fights, kills, defeats, Force feats, rankings, superweapons) that name a character on our roster; each kept sentence is quoted verbatim from the OCR text and has a crop of the printed passage directly under it. Pages with nothing power-relevant are still listed with what is on them.
+- **Citation:** "*Part 3 - Crazy Eight* (SWRPG d20 Revised Core), p.X" by printed page ("scan p.X" where no printed number applies). **Weight:** Licensed RPG material: a secondary source. Narrative text sums up Legends lore; game statistics are rules for players, not canon power levels, and rank lowest.
+
+
+## scan p.1 (scan page 1)
+
+Page contents: Pods date from the era of Exar Kun and Darth Revan (per the intro); Yavin 8 survey (Melodies, 54 million); hunt log: the pod is embedded in a mountain; her shovel breaks through and she falls into an underground lake (hand-read)
+
+
+## scan p.2 (scan page 2)
+
+Page contents: Creatures gibber in the dark; addendum: the Melodies spare her in exchange for a datapad and her secrecy; the pod holds an ancient primitive blaster pistol; GM notes: Melodies found independently by Anakin Solo (Golden Globe); Changing Ceremony; youth stats (hand-read)
+
+
+## scan p.3 (scan page 3)
+
+Page contents: Hold Breath / Primitive; adult Melodie stats (Fully Aquatic); Part Four teaser (Yavin 4, Imperial salvage crews); "Talnar's Rescue" plug (hand-read)
+

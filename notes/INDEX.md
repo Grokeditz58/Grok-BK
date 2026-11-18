@@ -1,0 +1,351 @@
+# Notes Index
+
+**Per-character notes:** every quote and feat sorted by character (Legends and Canon kept separate) is in `[local path]`. Start at [`characters/INDEX.md`](../characters/INDEX.md); the rules are in `characters/README.md`.
+
+**Legends canon hierarchy:** [materials/158-essential-readers-companion-2012/LEGENDS-CANON-HIERARCHY.md](materials/158-essential-readers-companion-2012/LEGENDS-CANON-HIERARCHY.md). Part 1 is what *The Essential Reader's Companion* (2012) says. Part 2 is labeled as coming from outside the book.
+
+Every note file in [local path] by folder. debates/ holds one PDF per debate (sources: [local path]); daily-research/ and materials/ hold each .md with its matching .pdf. # = Suspect Insight debate number.
+
+## debates/ — Suspect Insight debates (one per debate)
+
+157 item(s).
+
+| # | Matchup | PDF | Pages | Size |
+|---|---|---|---|---|
+| 001 | Darth Caedus (DC77) vs RotJ Darth Vader (Ethanion) | 001-darth-caedus-vs-rotj-darth-vader.pdf | 9 | 83 KB |
+| 002 | Vong Krayt (Azronger) vs Darth Tyranus (HP_Legend) | 002-vong-krayt-vs-darth-tyranus.pdf | 29 | 171 KB |
+| 003 | Darth Tenebrous (The Ellimist) vs Exar Kun (Decaf Wizard) | 003-darth-tenebrous-vs-exar-kun.pdf | 9 | 79 KB |
+| 004 | Arcann (XSupremeSkillzX) vs Darth Maul (i_like_swords) | 004-arcann-vs-darth-maul.pdf | 48 | 221 KB |
+| 005 | Darth Caedus (DC77) vs Kyp Durron (Sith Archaeologist) | 005-darth-caedus-vs-kyp-durron.pdf | 21 | 124 KB |
+| 006 | Vong Krayt (Azronger) vs Revan (DarthBane77) | 006-vong-krayt-vs-revan.pdf | 34 | 192 KB |
+| 007 | Darth Caedus (DC77) vs Darth Tenebrous (The Ellimist) | 007-darth-caedus-vs-darth-tenebrous.pdf | 12 | 88 KB |
+| 008 | Arcann (XSupremeSkillzX) vs Vong Krayt (Azronger) | 008-arcann-vs-vong-krayt.pdf | 35 | 188 KB |
+| 009 | Darth Plagueis (The Ellimist) vs Valkorion (Azronger) | 009-darth-plagueis-vs-valkorion.pdf | 12 | 95 KB |
+| 010 | Arcann (Mentor: XSupremeSkillzX, Students: KingofBlades and Praxis) vs Darth Tyranus (Mentor: DarthAnt66, Students: Blade_of_Dorin and Cheth) | 010-arcann-vs-darth-tyranus.pdf | 4 | 63 KB |
+| 011 | Darth Plagueis (Mentor: The Ellimist, Students: IdrisianGraecus and Meatpants) vs DE Luke Skywalker (Mentor: DarthSkywalker0, Students: Jacen and HellfireUnit) | 011-darth-plagueis-vs-de-luke-skywalker.pdf | 3 | 60 KB |
+| 012 | Darth Plagueis (Mentor: The Ellimist, Student: Meatpants) vs Arcann (Mentor: XSupremeSkillzX, Student: KingofBlades) | 012-darth-plagueis-vs-arcann.pdf | 3 | 58 KB |
+| 016 | Boc Aseca (Ghost of Grievous) vs Tholme (AthaPrime) | 016-boc-aseca-vs-tholme.pdf | 5 | 70 KB |
+| 017 | Antares Draco (Informal Geek) vs TUF Jacen Solo (RNGesus) | 017-antares-draco-vs-tuf-jacen-solo.pdf | 17 | 117 KB |
+| 018 | K’Kruhk (AaylaSecuraFan) vs Quinlan Vos (I Think Therefore I Am) | 018-k-kruhk-vs-quinlan-vos.pdf | 4 | 60 KB |
+| 019 | TFNU Ulic Qel-Droma (Vaelias) vs Jax Pavan (Proto Dan) | 019-tfnu-ulic-qel-droma-vs-jax-pavan.pdf | 8 | 81 KB |
+| 020 | Darth Angral (Darth Plagueis the Wise) vs RotJ Mara Jade (LT Page) | 020-darth-angral-vs-rotj-mara-jade.pdf | 12 | 94 KB |
+| 021 | Anoon Bondara (GeneralKenobi) vs Aayla Secura (ARandomBrokenTwig) | 021-anoon-bondara-vs-aayla-secura.pdf | 3 | 54 KB |
+| 022 | Kam Solusar (Marc Spector) vs Darth Nihl (Mas) | 022-kam-solusar-vs-darth-nihl.pdf | 2 | 48 KB |
+| 023 | Return Malgus (Janix) vs An’ya Kuro (Darth Durin’s Baneling) | 023-return-malgus-vs-an-ya-kuro.pdf | 12 | 93 KB |
+| 024 | Aayla Secura (ARandomBrokenTwig) vs K’Kruhk (AaylaSecuraFan) | 024-aayla-secura-vs-k-kruhk.pdf | 2 | 42 KB |
+| 025 | FNU Ulic Qel-Droma (Vaelias) vs Kam Solusar (Marc Spector) | 025-fnu-ulic-qel-droma-vs-kam-solusar.pdf | 2 | 42 KB |
+| 026 | Boc Aseca (Ghost of Grievous) vs TUF Jacen Solo (RNGesus) | 026-boc-aseca-vs-tuf-jacen-solo.pdf | 8 | 77 KB |
+| 027 | Darth Angral (Darth Plagueis the Wise) vs Return Malgus (Janix) | 027-darth-angral-vs-return-malgus.pdf | 9 | 80 KB |
+| 028 | Darth Angral (Darth Plagueis the Wise) vs K’Kruhk (AaylaSecuraFan) | 028-darth-angral-vs-k-kruhk.pdf | 61 | 280 KB |
+| 029 | Owner Material 029 — The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes (NEW 2026-10-28) | 029-jedi-academy-sourcebook.pdf | 83 | 8.45 MB |
+| 029 | FNU Ulic Qel-Droma (Vaelias) vs TUF Jacen Solo (RNGesus) | 029-fnu-ulic-qel-droma-vs-tuf-jacen-solo.pdf | 25 | 143 KB |
+| 039 | Darth Vader (Ethanion) vs Yoda (Antoine 25%) | 039-darth-vader-vs-yoda.pdf | 1 | 37 KB |
+| 040 | Plo Koon (Darth Durin’s Baneling) vs Saesee Tiin (CuckedCurry) | 040-plo-koon-vs-saesee-tiin.pdf | 1 | 37 KB |
+| 041 | Shaak Ti (Xolthol)  vs TCW S7 Ahsoka Tano (King Joker) | 041-shaak-ti-vs-tcw-s7-ahsoka-tano.pdf | 5 | 67 KB |
+| 042 | Darth Sidious (Meatpants) vs Darth Vader (Ssj0) | 042-darth-sidious-vs-darth-vader.pdf | 5 | 66 KB |
+| 043 | TCW S7 Maul (Rembeezy) vs Obi-Wan Kenobi (greysentinel365) | 043-tcw-s7-maul-vs-obi-wan-kenobi.pdf | 14 | 104 KB |
+| 044 | Adi Gallia (Ethanion) vs Ki-Adi-Mundi (Darth Durin’s Baneling) | 044-adi-gallia-vs-ki-adi-mundi.pdf | 1 | 37 KB |
+| 045 | Yaddle (yoda741) vs CW A'Sharad Hett (Rogue) | 045-yaddle-vs-cw-a-sharad-hett.pdf | 1 | 37 KB |
+| 046 | Malak (slayedigneel) vs Nyriss (Noan) | 046-malak-vs-nyriss.pdf | 1 | 37 KB |
+| 047 | Han Solo (Quarsh) vs Ven Zallow (Crusader) | 047-han-solo-vs-ven-zallow.pdf | 1 | 37 KB |
+| 048 | Saarai (Darthor) vs Even Piell (Darthor) | 048-saarai-vs-even-piell.pdf | 25 | 143 KB |
+| 049 | Han Solo ([member]) vs Jango Fett (Jax) | 049-han-solo-vs-jango-fett.pdf | 1 | 37 KB |
+| 050 | Cin Drallig ([member]) vs Jaina Solo (hellothere) | 050-cin-drallig-vs-jaina-solo.pdf | 14 | 100 KB |
+| 051 | Thon (Darthor) vs Yarael Poof ([member]) | 051-thon-vs-yarael-poof.pdf | 24 | 137 KB |
+| 052 | Super Fight III: Darth Vader (Azronger) vs Revan (DarthAnt66) | 052-super-fight-iii-darth-vader-vs-revan.pdf | 62 | 324 KB |
+| 053 | AotC Obi-Wan Kenobi (LordOfTheLight) vs Qui-Gon Jinn (Meatpants) | 053-aotc-obi-wan-kenobi-vs-qui-gon-jinn.pdf | 6 | 62 KB |
+| 054 | Darth Sidious (Azronger) vs Sors Bandeam (Machiavelli) | 054-darth-sidious-vs-sors-bandeam.pdf | 3 | 52 KB |
+| 055 | Darth Traya (MasterCilghal) vs Jaina Solo (Xolthol) | 055-darth-traya-vs-jaina-solo.pdf | 41 | 196 KB |
+| 056 | Darth Tyranus (HP_Legend) vs Darth Vader (DC77) | 056-darth-tyranus-vs-darth-vader.pdf | 3 | 50 KB |
+| 057 | Darth Vader (InsidiousVader) vs Starkiller (HP_Legend) | 057-darth-vader-vs-starkiller.pdf | 11 | 86 KB |
+| 058 | Darth Caedus (DC77) vs Darth Tyranus (Meatpants and greysentinel365) | 058-darth-caedus-vs-darth-tyranus.pdf | 50 | 223 KB |
+| 059 | Darth Caedus (DC77) vs Exar Kun (AncientPower) | 059-darth-caedus-vs-exar-kun.pdf | 16 | 101 KB |
+| 060 | Darth Wyyrlok III (i_like_swords) vs Darish Vol (MasterCilghal) | 060-darth-wyyrlok-iii-vs-darish-vol.pdf | 11 | 90 KB |
+| 061 | Cade Skywalker (i_like_swords) vs Darth Maul (HellfireUnit) | 061-cade-skywalker-vs-darth-maul.pdf | 6 | 63 KB |
+| 062 | Darth Sidious (The Ellimist) vs Valkorion (Valkorion) | 062-darth-sidious-vs-valkorion.pdf | 4 | 54 KB |
+| 063 | Corran Horn (greysentinel365) vs Kyle Katarn (MasterCilghal) | 063-corran-horn-vs-kyle-katarn.pdf | 16 | 102 KB |
+| 064 | Exar Kun (IdrisianGraecus) vs the Outlander (Praxis) | 064-exar-kun-vs-the-outlander.pdf | 17 | 111 KB |
+| 065 | Galen Marek (Syndicate) vs Shaak Ti (Ethanion) | 065-galen-marek-vs-shaak-ti.pdf | 6 | 62 KB |
+| 066 | Darth Plagueis (Meatpants) vs Galen Marek (HP_Legend) | 066-darth-plagueis-vs-galen-marek.pdf | 65 | 281 KB |
+| 067 | Daegen Lok (Cheth) vs Wolf Sazen (Xolthol) | 067-daegen-lok-vs-wolf-sazen.pdf | 24 | 140 KB |
+| 068 | Meetra Surik (IdrisianGraecus) vs Nomi Sunrider (Xolthol) | 068-meetra-surik-vs-nomi-sunrider.pdf | 15 | 108 KB |
+| 069 | Darth Caedus (EmperorCaedus) vs Revan (IdrisianGraecus) | 069-darth-caedus-vs-revan.pdf | 43 | 203 KB |
+| 070 | (Canon) Darth Tyranus (BreakofDawn) vs Darth Vader (Shioz) | 070-darth-tyranus-vs-darth-vader.pdf | 6 | 70 KB |
+| 071 | (Canon) Ahsoka Tano (King Joker) vs Ezra Bridger (BreakofDawn) | 071-ahsoka-tano-vs-ezra-bridger.pdf | 5 | 60 KB |
+| 072 | Darth Malak (IdrisianGraecus) vs Darth Vader (Lobenzo) | 072-darth-malak-vs-darth-vader.pdf | 8 | 83 KB |
+| 073 | (Canon) Darth Maul (IdrisianGraecus) vs Darth Vader (BreakofDawn) | 073-darth-maul-vs-darth-vader.pdf | 11 | 93 KB |
+| 074 | Darth Maul (IdrisianGraecus) vs the Hero of Tython (KingofBlades) | 074-darth-maul-vs-the-hero-of-tython.pdf | 9 | 77 KB |
+| 075 | Darth Tyranus (IdrisianGraecus) vs Joruus C’baoth (Cheth) | 075-darth-tyranus-vs-joruus-c-baoth.pdf | 13 | 96 KB |
+| 076 | Darth Vader (InsidiousVader) vs Darth Tyranus (IdrisianGraecus) | 076-darth-vader-vs-darth-tyranus.pdf | 46 | 257 KB |
+| 077 | TUF Kyp Durron (MasterCilghal) vs the Outlander (Praxis) | 077-tuf-kyp-durron-vs-the-outlander.pdf | 16 | 111 KB |
+| 078 | Darth Malgus (BreakofDawn) vs Bastila Shan (Cheth) | 078-darth-malgus-vs-bastila-shan.pdf | 7 | 66 KB |
+| 079 | Shaak Ti (Xolthol) vs Tol Braga (IdrisianGraecus) | 079-shaak-ti-vs-tol-braga.pdf | 11 | 82 KB |
+| 080 | Obi-Wan Kenobi (DC77) vs Arcann (IdrisianGraecus) | 080-obi-wan-kenobi-vs-arcann.pdf | 7 | 73 KB |
+| 081 | Cade Skywalker (HP_Legend) vs Darth Nox (SithArchaeologist) | 081-cade-skywalker-vs-darth-nox.pdf | 12 | 93 KB |
+| 082 | Starkiller (HP_Legend) vs Qui-Gon Jinn (Meatpants) | 082-starkiller-vs-qui-gon-jinn.pdf | 106 | 521 KB |
+| 083 | Darth Baras (Xolthol) vs Darth Bane (Azronger) | 083-darth-baras-vs-darth-bane.pdf | 5 | 56 KB |
+| 084 | Mace Windu (Meatpants) vs Obi-Wan Kenobi (KingofBlades) | 084-mace-windu-vs-obi-wan-kenobi.pdf | 12 | 93 KB |
+| 085 | Ajunta Pall (Cheth) vs Cade Skywalker (HP_Legend) | 085-ajunta-pall-vs-cade-skywalker.pdf | 21 | 129 KB |
+| 086 | Dooku (DarthAnt66) vs Exar Kun (AncientPower) | 086-dooku-vs-exar-kun.pdf | 9 | 75 KB |
+| 087 | Exar Kun (AncientPower) vs Darth Sidious (Meatpants) | 087-exar-kun-vs-darth-sidious.pdf | 27 | 145 KB |
+| 088 | Darth Caedus (EmperorCaedus) vs Anakin Skywalker (Vaelias) | 088-darth-caedus-vs-anakin-skywalker.pdf | 25 | 134 KB |
+| 089 | RotS Obi-Wan Kenobi (Lobenzo) vs Suited Darth Vader (Rembeezy) | 089-rots-obi-wan-kenobi-vs-suited-darth-vader.pdf | 4 | 58 KB |
+| 090 | Luminara Unduli (MasterCilghal) vs Warb Null (Cheth) | 090-luminara-unduli-vs-warb-null.pdf | 7 | 70 KB |
+| 091 | Cade Skywalker (HP_Legend) vs Darth Malgus (Praxis) | 091-cade-skywalker-vs-darth-malgus.pdf | 11 | 86 KB |
+| 092 | Mace Windu (Alz) vs Darth Tyranus (Darth Durin’s Baneling) | 092-mace-windu-vs-darth-tyranus.pdf | 26 | 137 KB |
+| 093 | Mara Jade Skywalker (EmperorCaedus) vs Darth Wyyrlok III (DC77) | 093-mara-jade-skywalker-vs-darth-wyyrlok-iii.pdf | 29 | 145 KB |
+| 094 | Darth Caedus (The Ellimist) vs the Outlander (XSupremeSkillzX) | 094-darth-caedus-vs-the-outlander.pdf | 11 | 83 KB |
+| 095 | Ki-Adi-Mundi (Rogue Emperor) vs Corran Horn (Corran Horn) | 095-ki-adi-mundi-vs-corran-horn.pdf | 12 | 83 KB |
+| 096 | Ulic Qel-Droma (AncientPower) vs Darth Maul (Lobenzo) | 096-ulic-qel-droma-vs-darth-maul.pdf | 5 | 61 KB |
+| 097 | Onimi (RNGesus) vs Palpatine (Menace) | 097-onimi-vs-palpatine.pdf | 1 | 37 KB |
+| 098 | Valkorion (The Balanced One) vs Kyp Durron (Stanley) | 098-valkorion-vs-kyp-durron.pdf | 3 | 57 KB |
+| 099 | Tulak Hord (Janix) vs Darth Maul (Darth Durin’s Baneling) | 099-tulak-hord-vs-darth-maul.pdf | 1 | 37 KB |
+| 100 | Asajj Ventress (Darth Durin’s Baneling) vs Raskta Lsu (Primarch) | 100-asajj-ventress-vs-raskta-lsu.pdf | 10 | 83 KB |
+| 101 | Exar Kun (AncientPower) vs Darth Plagueis (Vaelias) | 101-exar-kun-vs-darth-plagueis.pdf | 30 | 157 KB |
+| 102 | Darth Tyranus (Alz) vs Marka Ragnos (Rootmeister) | 102-darth-tyranus-vs-marka-ragnos.pdf | 16 | 104 KB |
+| 103 | Darth Caedus (beast) vs Anakin Skywalker (Darth Plagueis the Lesser) | 103-darth-caedus-vs-anakin-skywalker.pdf | 1 | 37 KB |
+| 104 | Anakin Skywalker (Ethanion) vs Palpatine (Darth Plagueis the Lesser) | 104-anakin-skywalker-vs-palpatine.pdf | 1 | 37 KB |
+| 105 | Plo Koon (Darth Durin’s Baneling) vs Saesee Tiin (Revelation) | 105-plo-koon-vs-saesee-tiin.pdf | 1 | 37 KB |
+| 106 | Arcann (Janix) vs Yoda (EmperorCaedus) | 106-arcann-vs-yoda.pdf | 1 | 37 KB |
+| 107 | Kyle Katarn (RNGesus) vs Mace Windu (HelloThere) | 107-kyle-katarn-vs-mace-windu.pdf | 17 | 119 KB |
+| 108 | Exar Kun (AncientPower) vs Darth Krayt (Rembeezy) | 108-exar-kun-vs-darth-krayt.pdf | 4 | 59 KB |
+| 109 | Ben Skywalker (Stanley) vs Darth Baras (Fated Xtasy) | 109-ben-skywalker-vs-darth-baras.pdf | 12 | 86 KB |
+| 110 | Jaden Korr (Fated Xtasy) vs Kam Solusar (RNGesus) | 110-jaden-korr-vs-kam-solusar.pdf | 34 | 165 KB |
+| 111 | Darth Caedus (HelloThere) vs Kyle Katarn and Mara Jade (Fated Xtasy) | 111-darth-caedus-vs-kyle-katarn-and-mara-jade.pdf | 14 | 97 KB |
+| 112 | Exar Kun (AncientPower) vs the Outlander (XSupremeSkillzX) | 112-exar-kun-vs-the-outlander.pdf | 3 | 52 KB |
+| 113 | Darth Vader (AncientPower) vs Darth Malgus (Janix) | 113-darth-vader-vs-darth-malgus.pdf | 25 | 149 KB |
+| 114 | Revan (KingofBlades) vs Darth Krayt (i_like_swords) | 114-revan-vs-darth-krayt.pdf | 32 | 169 KB |
+| 115 | Darth Bane (Vaelias) vs Kol Skywalker (i_like_swords) | 115-darth-bane-vs-kol-skywalker.pdf | 1 | 37 KB |
+| 116 | Darth Bane (Lobenzo) vs Darth Sion (Darthor) | 116-darth-bane-vs-darth-sion.pdf | 1 | 37 KB |
+| 117 | Darth Plagueis (Azronger) vs Darth Maul (Ethanion) | 117-darth-plagueis-vs-darth-maul.pdf | 1 | 37 KB |
+| 118 | Lord Daiman (Vaelias) vs Lord Fulminiss (Lord Mice) | 118-lord-daiman-vs-lord-fulminiss.pdf | 1 | 37 KB |
+| 119 | Sirak (Darthor) vs Darth Thanaton (yoda741) | 119-sirak-vs-darth-thanaton.pdf | 1 | 37 KB |
+| 120 | Grievous (Ghost of Grievous) vs Volfe Karkko (Lobenzo) | 120-grievous-vs-volfe-karkko.pdf | 1 | 37 KB |
+| 121 | Lord Hoth (Vaelias) vs Odan-Urr (Darthor) | 121-lord-hoth-vs-odan-urr.pdf | 113 | 570 KB |
+| 122 | Shaak Ti (Darth Durin's Baneling) vs Sora Bulq (Lobenzo) | 122-shaak-ti-vs-sora-bulq.pdf | 1 | 37 KB |
+| 123 | Exar Kun (AncientPower) vs Darth Sidious (Darth Durin's Baneling) | 123-exar-kun-vs-darth-sidious.pdf | 64 | 289 KB |
+| 124 | Darth Maul (Vaelias) vs Luke Skywalker (Jax) | 124-darth-maul-vs-luke-skywalker.pdf | 1 | 37 KB |
+| 125 | Arcann (chum) vs Yoda (DD Flickin) | 125-arcann-vs-yoda.pdf | 1 | 37 KB |
+| 126 | Shaak Ti (Omni Bomni) vs Kit Fisto (Darthor) | 126-shaak-ti-vs-kit-fisto.pdf | 1 | 37 KB |
+| 127 | Quillan and Dromika (Darthor) vs Valkorion (slayedigneel/Darthor) | 127-quillan-and-dromika-vs-valkorion.pdf | 1 | 37 KB |
+| 128 | The Outlander (Lytral) vs Dooku (Darthor) | 128-the-outlander-vs-dooku.pdf | 1 | 37 KB |
+| 129 | Revan (chum) vs Yoda (Darth Durin's Baneling) | 129-revan-vs-yoda.pdf | 26 | 139 KB |
+| 130 | Carnor Jax (Bernard Monty) vs Sariss (Janix) | 130-carnor-jax-vs-sariss.pdf | 1 | 37 KB |
+| 131 | K'Kruhk (yoda741) vs Darth Nihl (Bernard Monty) | 131-k-kruhk-vs-darth-nihl.pdf | 1 | 37 KB |
+
+## daily-research/ — Daily research (one per study session)
+
+3 item(s).
+
+| Item | Title | PDF | Pages | Size |
+|---|---|---|---|---|
+| 2026-10-20 | Daily Research — 2026-10-20 session | 2026-10-20-session.pdf | 2 | 40 KB |
+| 2026-10-21 | Daily Research — 2026-10-21 session | 2026-10-21-session.pdf | 6 | 74 KB |
+| 2026-10-29 | Daily Research — 2026-10-29 session (Darth Tenebrous, The Tenebrous Way primary read; quote scans in quotes-2026-10-29/) | 2026-10-29-session.pdf | 8 | 520 KB |
+
+## materials/ — Owner materials (one per PDF or link shared in chat)
+
+28 item(s).
+
+| Item | Title | PDF | Pages | Size |
+|---|---|---|---|---|
+| 002 | Owner Material 002 — "The Order of Revan - Complete Analysis" (DarthAnt66) | 002-the-order-of-revan-complete-analysis.pdf | 9 | 93 KB |
+| 003 | Owner Material 003 — "SWTOR Scaling - A New Perspective (2024)" (DarthAnt66) | 003-swtor-scaling-a-new-perspective-2024.pdf | 22 | 144 KB |
+| 004 | Owner Material 004 — "SWTOR Scaling - The Truth" (Menace test-blog; response to Material 003) | 004-menace-swtor-scaling-the-truth.pdf | 18 | 132 KB |
+| 005 | Owner Material 005 — "THE POWER OF THE SIX GODS" (TheGalacticMenace) | 005-the-power-of-the-six-gods.pdf | 10 | 94 KB |
+| 006 | Owner Material 006 — "Revan's Combat Style -- Short Summary" (DarthAnt66) | 006-revans-combat-style-short-summary.pdf | 8 | 85 KB |
+| 007 | Owner Material 007 — "Hot take: Vaylin has the power (but not mastery) to replicate Tenebrae's EOO strike team pin" (Master Azronger) | 007-vaylin-power-not-mastery-tenebrae-eoo-pin.pdf | 6 | 79 KB |
+| 008 | Owner Material 008 — "My Problems with Caedus Wank: Why I find Caedus = Maul more believable than Caedus = Yoda" (Master Azronger) | 008-caedus-wank-problems-caedus-maul-vs-yoda.pdf | 57 | 264 KB |
+| 009 | Owner Material 009 — Star Wars: Legacy Book 1 (omnibus): power-scaling notes with panels | 009-legacy-book-1.pdf | 209 | 15.86 MB |
+| 010 | Owner Material 010 — Star Wars: Legacy—War #1–6 (2010–11): power-scaling notes with panels | 010-legacy-war.pdf | 114 | 7.02 MB |
+| 011 | Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels | 011-legacy-era-campaign-guide.pdf | 87 | 5.26 MB |
+| 012 | Owner Material 012 — Star Wars: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels | 012-legacy-vol-2-shards.pdf | 69 | 4.67 MB |
+| 013 | Owner Material 013 — Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels | 013-legacy-vol-3-claws-of-the-dragon.pdf | 83 | 5.31 MB |
+| 014 | Owner Material 014 — "Dissecting Legacy #1: Cade Skywalker's Ending Growth" (Suspect Insight Forums) | 014-dissecting-legacy-1-cade-skywalkers-ending-growth.pdf | 9 | 96 KB |
+| 015 | Owner Material 015 — "Dissecting Legacy #2: Darth Krayt vs Darth Wyyrlok" (Suspect Insight Forums) | 015-dissecting-legacy-2-krayt-vs-wyyrlok.pdf | 9 | 102 KB |
+| 016 | Owner Material 016 — "Dissecting Legacy #3: Cade Skywalker vs Darth Krayt" (Suspect Insight Forums) | 016-dissecting-legacy-3-cade-vs-krayt.pdf | 10 | 106 KB |
+| 017 | Owner Material 017 — "Dissecting Legacy #4: Darth Krayt vs Yoda" (Suspect Insight Forums) | 017-dissecting-legacy-4-krayt-vs-yoda.pdf | 15 | 118 KB |
+| 018 | Owner Material 018 — "Dissecting Legacy #5: Darth Krayt's Sith Troopers" (Suspect Insight Forums) | 018-dissecting-legacy-5-krayts-sith-troopers.pdf | 6 | 76 KB |
+| 019 | Owner Material 019 — "Debunking DarthAnt66's 'Dissecting Legacy' Series" (Suspect Insight Forums) | 019-debunking-darthant66s-dissecting-legacy.pdf | 21 | 145 KB |
+| 020 | Owner Material 020 — "Reflection on my 'Dissecting Legacy' Series (Rebuttal to the Rebuttal)" (Suspect Insight Forums) | 020-reflection-dissecting-legacy-rebuttal-to-rebuttal.pdf | 18 | 138 KB |
+| 021 | Owner Material 021 — Legacy of the Force 1–9: novel notes from the other agent (reference copy) | 021-legacy-of-the-force.pdf | 159 | 869 KB |
+| 022 | Owner Material 022 — Dark Lord trilogy (Labyrinth of Evil, Revenge of the Sith, Dark Lord): novel notes from the other agent (reference copy) | 022-dark-lord-trilogy.pdf | 523 | 2.07 MB |
+| 023 | Owner Material 023 — KOTOR I, KOTOR II and The Old Republic: Revan: notes from the other agent (reference copy, reviewed) | 023-kotor-and-revan.pdf | 2046 | 7.23 MB |
+| 024 | Owner Material 024 — Tales of the Jedi: Freedon Nadd Uprising #1–2, Dark Lords of the Sith #1–6, The Sith War #1–6, plus the WEG Tales of the Jedi Companion: power-scaling notes (updated 2026-10-27: FNU #2 and the Companion are NEW) | 024-tales-of-the-jedi.pdf | 100 | 4.29 MB |
+| 025 | Owner Material 025 — Star Wars: The Old Republic Encyclopedia (DK, 2012): power-scaling and lore notes (NEW 2026-10-27) | 025-tor-encyclopedia.pdf | 220 | 19.70 MB |
+| 026 | Owner Material 026 — Jedi Academy Trilogy (Kevin J. Anderson, 1994): Jedi Search, Dark Apprentice, Champions of the Force: power-scaling notes (NEW 2026-10-28) | 026-jedi-academy-trilogy.pdf | 43 | 292 KB |
+| 027 | Owner Material 027 — Star Wars: The New Essential Chronology (Daniel Wallace, Del Rey, 2005): power-scaling and lore notes (NEW 2026-10-28) | 027-new-essential-chronology.pdf | 142 | 9.83 MB |
+| 028 | Owner Material 028 — Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes (NEW 2026-10-28) | 028-jedi-academy-training-manual.pdf | 36 | 4.37 MB |
+| 030 | Owner Material 030 — The Complete Star Wars Encyclopedia, Vol. I (A–G): power-scaling and lore notes (NEW 2026-10-28) | 030-complete-star-wars-encyclopedia-vol-1.pdf | 157 | 10.83 MB |
+| 031 | Owner Material 031 — The Complete Star Wars Encyclopedia, Vol. II (H–O): power-scaling and lore notes (NEW 2026-10-28) | 031-complete-star-wars-encyclopedia-vol-2.pdf | 190 | 12.19 MB |
+| 032 | Owner Material 032 — The Complete Star Wars Encyclopedia, Vol. III (P–Z): power-scaling and lore notes (NEW 2026-10-28) | 032-complete-star-wars-encyclopedia-vol-3.pdf | 196 | 13.28 MB |
+| 033 | Owner Material 033 — Power of the Jedi Sourcebook (d20, 2002): power-scaling and lore notes (NEW 2026-10-28) | 033-power-of-the-jedi-sourcebook.pdf | 37 | 1.63 MB |
+| 034 | Owner Material 034 — The New Essential Guide to Characters (2002): power-scaling and lore notes (NEW 2026-10-28) | 034-new-essential-guide-to-characters.pdf | 85 | 5.96 MB |
+| 035 | Owner Material 035 — Dark Side Sourcebook (d20, 2001): power-scaling and lore notes (NEW 2026-10-28) | 035-dark-side-sourcebook.pdf | 46 | 3.21 MB |
+| 036 | Owner Material 036 — Book of Sith: Secrets from the Dark Side (2012): power-scaling and lore notes (NEW 2026-10-28) | 036-book-of-sith.pdf | 33 | 1.47 MB |
+| 038 | Owner Material 038 — Star Wars Insider #1–153 plus specials (with The Lucasfilm Fan Club Magazine #1–22): power-scaling and lore notes (NEW 2026-10-28) | 038-star-wars-insider.pdf | 1423 | 18.29 MB |
+| 037 | Owner Material 037 — Star Wars D20 Drive folder (Core, Revised Core and Saga Edition): power-scaling and lore notes (NEW 2026-10-28) | 037-sw-d20-folder.pdf | 4149 | 199.16 MB |
+
+Material 021 folder: `materials/021-legacy-of-the-force/` holds README.md, the nine per-book notes (lotf-1 … lotf-9, each .md + .pdf) and extras/. The combined PDF in the 021 row is README + books 1–9. Imported 2026-10-21 from the other agent's MEGA notes; reference copy only.
+
+Material 022 folder: `materials/022-dark-lord-trilogy/` holds README.md, the three per-book notes in trilogy order (labyrinth-of-evil-notes, rots-novel-notes, dark-lord-novel-feats; each .md + .pdf) and extras/ (two Discord summaries). The combined PDF in the 022 row is README + *Labyrinth of Evil* + *Revenge of the Sith* (Stover) + *Dark Lord*. Imported 2026-10-21 from the other agent's MEGA notes; reference copy only.
+
+Material 023 folder: `materials/023-kotor-and-revan/` holds README.md (with a critical review), five notes in story order (kotor-1-notes, kotor-1-characters, kotor-2-notes, kotor-2-characters, revan-novel-notes; each .md + .pdf) and extras/ (three Discord summaries, a Nihilus owed post, the StrategyWiki navigation guide). The combined PDF in the 023 row is README + KOTOR I + KOTOR II + *Revan* (Karpyshyn). The KOTOR notes come from the StrategyWiki walkthrough, not the games. Imported 2026-10-21 from the other agent's MEGA notes; reference copy only.
+
+Material 024 folder: `materials/024-tales-of-the-jedi/` holds README.md, the three per-arc notes in story order (freedon-nadd-uprising, dark-lords-of-the-sith, the-sith-war; each .md + .pdf), then **NEW 2026-10-27** tales-of-the-jedi-companion (.md + .pdf; WEG d6 RPG sourcebook, all 177 pages read, stats labelled RPG mechanics, weaker source) and panels/ (38 reduced key-page scans embedded in the notes). The combined PDF in the 024 row is README + the three comic notes + the Companion. Freedon Nadd Uprising #2 is not in the source archive; it was read from an owner-supplied copy (22 pages, NEW 2026-10-27). The issue PDFs stay on the box and are not published.
+
+Material 025 folder: `materials/025-tor-encyclopedia/` holds README.md, then seven section notes in book order (01-front-introduction, 02-republic, 03-jedi-order, 04-sith-empire, 05-sith, 06-mandalorians-underworld-hutts, 07-species-planets-future; each .md + .pdf) and quotes/ (679 full-quote crops, each embedded under its quote). **NEW 2026-10-27:** all 180 scanned spreads of *Star Wars: The Old Republic Encyclopedia* (DK, 2012) read, including every small top-right sidebar box and tagline; quotes cite "The Old Republic Encyclopedia, p.X" by printed page and are marked sidebar where they come from those boxes. Secondary source (licensed Legends reference). The combined PDF in the 025 row is README + the seven section notes. The scan stays on the box and is not published.
+
+Material 026 folder: `materials/026-jedi-academy-trilogy/` holds README.md, then the three novel notes in story order (jedi-search, dark-apprentice, champions-of-the-force; each .md + .pdf). **NEW 2026-10-28:** every chapter of the trilogy read by us (JS 29 + Epilogue, DA 34, CotF 44; 383 verbatim entries citing book, chapter and PDF page). Primary source; MASTERY for the 026 versions of 18 characters. The combined PDF in the 026 row is README + the three books.
+
+Material 027 folder: `materials/027-new-essential-chronology/` holds README.md, then fourteen section notes in book order (00-front-matter, 01-part-one-ancient-republic … 12-part-twelve-new-jedi-order, 13-map-index-back-matter; each .md + .pdf) and quotes/ (478 full-quote crops, each embedded under its quote). **NEW 2026-10-28:** all 249 scanned pages of *Star Wars: The New Essential Chronology* (Del Rey, 2005) read, including every art caption (the book has no sidebar boxes); quotes cite "The New Essential Chronology, p.X" by printed page and are marked caption where they come from captions. Status is complete for the available scan, not a plain full read. Printed pp.58, 59, 232, and 234 are missing from every available scan and were accepted by the owner on 2026-11-10. The galaxy map on printed 230–231 was re-read. See COVERAGE.md. Secondary source (licensed Legends reference). The combined PDF in the 027 row is README + the fourteen section notes. The scan stays on the box and is not published.
+
+Material 028 folder: `materials/028-jedi-academy-training-manual/` holds README.md, PROGRESS.md, then eight section notes in book order (00-front-matter-introduction, 01-ch1-power-of-the-force, 02-ch2-philosophy, 03-ch3-equipment-and-artifacts, 04-ch4-affiliated-programs, 05-ch5-instructors-and-alumni, 06-ch6-dangers-of-study, 07-ch7-studying-abroad-back-cover; each .md + .pdf) and quotes/ (70 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 161 scanned pages of the Saga Edition *Jedi Academy Training Manual* (WotC, 2009) read, including every sidebar, caption and stat block; quotes cite "Jedi Academy Training Manual, p.X" by printed page; stat blocks are marked RPG mechanics (weaker source). Secondary source. The combined PDF in the 028 row is README + the eight section notes.
+
+Material 029 folder: `materials/029-jedi-academy-sourcebook/` holds README.md, PROGRESS.md, then fifteen section notes in book order (00-front-matter, 01-ch1-the-new-republic … 13-ch13-vehicles, 14-ch14-equipment-droids-back-cover; each .md + .pdf) and quotes/ (169 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 145 scanned pages of the West End Games d6 *The Jedi Academy Sourcebook* (WEG40114, 1996) read, including every sidebar, caption, fiction excerpt and stat block; quotes cite "The Jedi Academy Sourcebook, p.X" by printed page (ifc = inside front cover, bc = back cover); stat blocks are marked RPG mechanics (weaker source). Secondary source. The owner's link (WEG40042) was a different book, *Han Solo and the Corporate Sector Sourcebook*; it was not used. The combined PDF in the 029 row is README + the fifteen section notes. The scan stays on the box and is not published.
+
+Material 030 folder: `materials/030-complete-star-wars-encyclopedia-vol-1/` holds README.md, PROGRESS.md, then 10 section notes in book order (each .md + .pdf) and quotes/ (475 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 398 scanned pages of *The Complete Star Wars Encyclopedia*, Vol. I (A–G; Del Rey, 2008) OCR'd and screened for power-relevant statements; 475 verbatim quotes kept, citing "The Complete Star Wars Encyclopedia, Vol. I, p.X" by printed page. Secondary source. The combined PDF in the 030 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 031 folder: `materials/031-complete-star-wars-encyclopedia-vol-2/` holds README.md, PROGRESS.md, then 11 section notes in book order (each .md + .pdf) and quotes/ (568 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 440 scanned pages of *The Complete Star Wars Encyclopedia*, Vol. II (H–O; Del Rey, 2008) OCR'd and screened for power-relevant statements; 568 verbatim quotes kept, citing "The Complete Star Wars Encyclopedia, Vol. II, p.X" by printed page. Secondary source. The combined PDF in the 031 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 032 folder: `materials/032-complete-star-wars-encyclopedia-vol-3/` holds README.md, PROGRESS.md, then 10 section notes in book order (each .md + .pdf) and quotes/ (626 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 385 scanned pages of *The Complete Star Wars Encyclopedia*, Vol. III (P–Z; Del Rey, 2008) OCR'd and screened for power-relevant statements; 626 verbatim quotes kept, citing "The Complete Star Wars Encyclopedia, Vol. III, p.X" by printed page. Secondary source. The combined PDF in the 032 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 033 folder: `materials/033-power-of-the-jedi-sourcebook/` holds README.md, PROGRESS.md, then 8 section notes in book order (each .md + .pdf) and quotes/ (103 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 163 scanned pages of *Power of the Jedi Sourcebook* (Wizards of the Coast, 2002) OCR'd and screened for power-relevant statements; 103 verbatim quotes kept, citing "Power of the Jedi Sourcebook, p.X" by printed page. Secondary source. The combined PDF in the 033 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 034 folder: `materials/034-new-essential-guide-to-characters/` holds README.md, PROGRESS.md, then 8 section notes in book order (each .md + .pdf) and quotes/ (205 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 215 scanned pages of *Star Wars: The New Essential Guide to Characters* (Del Rey, 2002) OCR'd and screened for power-relevant statements; 205 verbatim quotes kept, citing "The New Essential Guide to Characters, p.X" by printed page. Secondary source. The combined PDF in the 034 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 035 folder: `materials/035-dark-side-sourcebook/` holds README.md, PROGRESS.md, then 8 section notes in book order (each .md + .pdf) and quotes/ (118 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 161 scanned pages of *Star Wars Roleplaying Game: Dark Side Sourcebook* (Wizards of the Coast, 2001) OCR'd and screened for power-relevant statements; 118 verbatim quotes kept, citing "Dark Side Sourcebook, p.X" by printed page. Secondary source. The combined PDF in the 035 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 036 folder: `materials/036-book-of-sith/` holds README.md, PROGRESS.md, then 7 section notes in book order (each .md + .pdf) and quotes/ (81 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 162 scanned pages of *Book of Sith: Secrets from the Dark Side* (becker&mayer!/Chronicle, 2012) OCR'd and screened for power-relevant statements; 81 verbatim quotes kept, citing "Book of Sith, p.X" by printed page. Secondary source. The combined PDF in the 036 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 038 folder: `materials/038-star-wars-insider/` holds README.md, PROGRESS.md, then 160 section notes in book order (each .md + .pdf) and quotes/ (406 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 12592 scanned pages of *Star Wars Insider* (Lucasfilm Fan Club / Titan) issues 23–153 with The Lucasfilm Fan Club Magazine 1–22 and seven specials, from the Internet Archive item starwarsinsider_1_to_153_plus_specials (Image Container PDF of each issue) OCR'd and screened for power-relevant statements; 406 verbatim quotes kept, citing "Star Wars Insider, p.X" by printed page. Secondary source. The combined PDF in the 038 row is README + the section notes. The scan stays on the box and is not published.
+
+Material 037 folder: `materials/037-sw-d20-folder/` holds README.md, PROGRESS.md, then 801 section notes in book order (each .md + .pdf) and quotes/ (5731 quote crops, each embedded under its quote). **NEW 2026-10-28:** all 11616 scanned pages of the owner's "Star Wars D20" Drive folder (subfolders Star Wars - Roleplaying Game Core, Revised Core and Saga Edition; Wizards of the Coast, 2000–2010) OCR'd and screened for power-relevant statements; 5731 verbatim quotes kept, citing "Star Wars D20 folder, p.X" by printed page. Secondary source. The combined PDF in the 037 row is README + the section notes. The scan stays on the box and is not published.
+
+## Top-level notes
+
+| File | Title | PDF |
+|---|---|---|
+| debater-quality.md | Suspect Insight debaters ranked by argument quality (not win/loss) | debater-quality.pdf |
+| ../primary/swtor-jedi-knight/swtor-jedi-knight-notes.md | SWTOR Jedi Knight class story: full-video notes (16:06:24, YouTube GwPVJDIWTP4; quotes, 50 Force feats, duels, frames), 2026-10-23 | none |
+
+## materials 113–146 — completed reading uploaded 2026-11-09
+
+**Current status:** ../primary/CURRENT-READING.md. That file is the one to follow. `materials/PAGEREAD.md` and the trackers under `primary/novels-nov3b/`, `primary/prequel-list/`, and `primary/njo-full/` are sealed snapshots and still contain older “next” lines.
+
+Phone index of the 34 note folders: [materials/INDEX-113-146.md](materials/INDEX-113-146.md). Character counts that include this catch-up: [../characters/INDEX.md](../characters/INDEX.md) and [../characters/INDEX-113-146.md](../characters/INDEX-113-146.md).
+
+| Slot | Folder | What was read |
+|---|---|---|
+| 113–137 | `materials/113-…` through `137-…` | NJO prose: 19 novels plus A Practical Man, Recovery, Ylesia, Emissary of the Void I–VI, The Apprentice, Or Die Trying |
+| 138 | `materials/138-survivors-quest/` | Survivor's Quest and the packaged Fool's Bargain |
+| 139–140 | `materials/139-specter-of-the-past/`, `140-vision-of-the-future/` | Hand of Thrawn |
+| 141–146 | `materials/141-…` through `146-…` | Republic volumes 4–9 story issues and the endmatter that was in the scans |
+
+Numbered slots **072** and **083–088** are not missing reading-note folders. They are debate-PDF numbers in `notes/INDEX.md`, and 087 was also an obsolete placeholder for Republic volume 8, whose notes are **145**. Do not add `materials/072` or `materials/083`–`088`.
+
+Not done: NJO ancillary comics and RPGs. Future main reading skips an older Essential Guide when a New edition exists. Guide 7, Alien Species (2001), is skipped because the 2006 New Alien Species guide exists. Guide 8 / material 034 is 215/215 and is skipped. Guide 9, *The New Essential Guide to Vehicles and Vessels* (2003), is done for the 224 available scans in notes 154. Notes 153, the 2001 alien-species guide, is not imported. Guide 10, New Weapons and Technology (2004), is full in notes 155. *Jedi vs. Sith: The Essential Guide to the Force* (2007) is full for 256 scans in notes 156. *The Essential Guide to Warfare* (2012) is EOF COMPLETE in notes 157: S001–S258 visually read, source-specific paraphrase, and five certified verbatim crops. *The Essential Reader's Companion* (2012) is EOF COMPLETE in notes 158: all 596 leaves visually read, with 11 certified quote crops. Coruscant Nights IV: The Last Jedi is FULL, lines 1–11558, in notes 159. Guides 1–6 have notes in this tree. Guide 6 is the 2000 chronology, not the 2005 chronology. Guide 11 / material 027 is complete for the available scan, with four owner-accepted missing printed pages (58, 59, 232, and 234). Republic volumes 5 and 7 trade extras stay unverified. Volumes 4, 6, and 8 keep their scan qualifications.
+
+## materials/147 — Essential Guide to Characters (1995)
+
+Phone entry: [147-essential-guide-to-characters-1995/README.md](materials/147-essential-guide-to-characters-1995/README.md), then the `egc-*.md` files, then [quotes/CROP-INDEX.md](materials/147-essential-guide-to-characters-1995/quotes/CROP-INDEX.md). Character lines: [../characters/INDEX-147.md](../characters/INDEX-147.md) (104). The 1995 quote check is complete for the 62 target crops. Quote-repair status: [147-essential-guide-to-characters-1995/VISUAL-QA-CHECKPOINT-2026-11-09.md](materials/147-essential-guide-to-characters-1995/VISUAL-QA-CHECKPOINT-2026-11-09.md). Secondary source. Not crossed on the timeline.
+
+## materials/148 — Essential Guide to Vehicles and Vessels (1996)
+
+Phone entry: [148-essential-guide-to-vehicles-vessels-1996/README.md](materials/148-essential-guide-to-vehicles-vessels-1996/README.md). Character lines: [../characters/INDEX-148.md](../characters/INDEX-148.md) (30). Checkpoints CP1, CP2a, CP2b, and CP3a opened 20 of 51 crops. The other 31 are not certified. Quote-repair status: [148-essential-guide-to-vehicles-vessels-1996/VISUAL-QA-CHECKPOINT-2026-11-09.md](materials/148-essential-guide-to-vehicles-vessels-1996/VISUAL-QA-CHECKPOINT-2026-11-09.md). Secondary source. Not crossed on the timeline.
+
+## materials/149 — Essential Guide to Weapons and Technology (1997)
+
+Phone entry: [149-essential-guide-to-weapons-technology-1997/README.md](materials/149-essential-guide-to-weapons-technology-1997/README.md), then the `egwt-*.md` files, then [quotes/QUOTES-INDEX.md](materials/149-essential-guide-to-weapons-technology-1997/quotes/QUOTES-INDEX.md). Scans 001–123. The 40 quote crops were not opened on this publish, so there is no character index for them yet. Status: [149-essential-guide-to-weapons-technology-1997/IMPORT-AUDIT-2026-11-10.md](materials/149-essential-guide-to-weapons-technology-1997/IMPORT-AUDIT-2026-11-10.md). Secondary source. Not crossed on the timeline.
+
+## materials/150 — Essential Guide to Planets and Moons (1998)
+
+Phone entry: [150-essential-guide-to-planets-and-moons-1998/README.md](materials/150-essential-guide-to-planets-and-moons-1998/README.md), then the `egpm-*.md` files, then the 15 files in `quotes/`. Character lines: [../characters/INDEX-150.md](../characters/INDEX-150.md) (15). Three crops stay unresolved. Status: [150-essential-guide-to-planets-and-moons-1998/IMPORT-AUDIT-2026-11-10.md](materials/150-essential-guide-to-planets-and-moons-1998/IMPORT-AUDIT-2026-11-10.md). The copyright/CIP page between title and dedication is absent from the scan and is not treated as read. Secondary source. Not crossed on the timeline.
+
+## materials/151 — Essential Guide to Droids (1999)
+
+Phone entry: [151-essential-guide-to-droids-1999/README.md](materials/151-essential-guide-to-droids-1999/README.md), then `front.md` and `body/`. Character lines: [../characters/INDEX-151.md](../characters/INDEX-151.md) (2). Five quote images were opened; the G-2RD crop is cut and is not quoted. Status: [151-essential-guide-to-droids-1999/IMPORT-AUDIT-2026-11-10.md](materials/151-essential-guide-to-droids-1999/IMPORT-AUDIT-2026-11-10.md). Copyright/CIP is present in this scan. TOC Lovoian/Lovolán and Telti/Telli stay as qualified spellings. Secondary source. Not crossed on the timeline. Material 027 is the 2005 chronology and is complete for the available scan, with four owner-accepted missing printed pages (58, 59, 232, and 234).
+
+## materials/152 — The Essential Chronology (2000)
+
+Phone entry: [152-essential-chronology-2000/README.md](materials/152-essential-chronology-2000/README.md), then `front.md` and `body/`. Character lines: [../characters/INDEX-152.md](../characters/INDEX-152.md) (3, from the opened afterword crop only). The 11 body paraphrases were not copied into character files. Six evidence crops were opened. The Wallace bio and the afterword close are clipped and are not quoted. This is not notes 027. Secondary source. Not crossed on the timeline. Guide 7, Alien Species (2001), is skipped because the 2006 New Alien Species guide exists. Guide 10, New Weapons and Technology (2004), is full in notes 155.
+
+## materials/154 — The New Essential Guide to Vehicles and Vessels (2003)
+
+Phone entry: [154-new-essential-guide-to-vehicles-vessels-2003/README.md](materials/154-new-essential-guide-to-vehicles-vessels-2003/README.md), then `front.md` and `body/`. Character lines: [../characters/INDEX-154.md](../characters/INDEX-154.md) (12, from 17 opened pull-quotes). The other 68 quote crops were not opened. The body notes are paraphrases. This edition has no alphabetical index. Secondary source. Not crossed on the timeline.
+
+## materials/155 — The New Essential Guide to Weapons and Technology (2004)
+
+Phone entry: [155-new-essential-guide-to-weapons-technology-2004/README.md](materials/155-new-essential-guide-to-weapons-technology-2004/README.md), then `front.md` and `body/`. Character lines: [../characters/INDEX-155.md](../characters/INDEX-155.md) (16, from 19 opened crops). The dedication, the back-cover blurb, and the unnamed Yuuzhan Vong pilot were not added as character lines. The body notes are paraphrases. This edition has no alphabetical index. Secondary source. Not crossed on the timeline.
+
+## materials/156 — Jedi vs. Sith: The Essential Guide to the Force (2007)
+
+Phone entry: [156-jedi-vs-sith-essential-guide-to-the-force-2007/README.md](materials/156-jedi-vs-sith-essential-guide-to-the-force-2007/README.md), then `front.md` and `body/`. Character lines: [../characters/INDEX-156.md](../characters/INDEX-156.md) (0). All six certified crops were opened. The Afterword is Ellu Viss's, and there is no Ellu Viss file. The bios and the back-cover blurb are not character quotes. This is not the 2001 comic. Secondary source. Not crossed on the timeline.
+
+## materials/157 — The Essential Guide to Warfare (2012)
+
+Phone entry: [157-essential-guide-to-warfare-2012/README.md](materials/157-essential-guide-to-warfare-2012/README.md), then `front.md`, `body/`, and `back.md`. Character lines: [../characters/INDEX-157.md](../characters/INDEX-157.md) (0). Status is EOF COMPLETE: S001–S258 visually read, source-specific paraphrase, and five certified verbatim crops. All five were opened. No character line was added. Secondary source. Not crossed on the timeline.
+
+## materials/158 — The Essential Reader's Companion (2012)
+
+Phone entry: [158-essential-readers-companion-2012/README.md](materials/158-essential-readers-companion-2012/README.md), then `front.md`, `body/`, and `back.md`. Canon hierarchy: [158-essential-readers-companion-2012/LEGENDS-CANON-HIERARCHY.md](materials/158-essential-readers-companion-2012/LEGENDS-CANON-HIERARCHY.md). Part 2 of that file is labeled as coming from outside the book. Character lines: [../characters/INDEX-158.md](../characters/INDEX-158.md) (0). Status is EOF COMPLETE: all 596 leaves visually read, with 11 certified quote crops. All 11 were opened. No character line was added. Secondary source. Not crossed on the timeline.
+
+## materials/159 — Coruscant Nights IV: The Last Jedi (2013)
+
+Phone entry: [159-coruscant-nights-4-the-last-jedi/README.md](materials/159-coruscant-nights-4-the-last-jedi/README.md), then `tlj-01.md` through `tlj-05.md`. FULL, lines 1–11558. Character lines were added to the existing Vader, Jax Pavan, I-5YQ, and Prince Xizor files. No new character files. The sealed package is [../packages/159-coruscant-nights-4-the-last-jedi-notes-EOF-20261110-110023.zip](../packages/159-coruscant-nights-4-the-last-jedi-notes-EOF-20261110-110023.zip). Primary novel. Not crossed on the timeline.
+
+## materials/160 — George Lucas (Shields, 2002)
+
+Phone entry: [160-george-lucas-shields-2002/README.md](materials/160-george-lucas-shields-2002/README.md), then `shields-01.md` through `shields-03.md` and `summary.md`. FULL / EOF COMPLETE. Printed pages through the jacket. Six real-world creator-commentary lines were added to the existing Vader folder. They are not Legends or Canon fiction. No new character files. Lucas material catalog: ../primary/LUCAS-MATERIAL-CATALOG.md. The sealed package is [../packages/160-george-lucas-shields-2002-notes-EOF-20261110-113639.zip](../packages/160-george-lucas-shields-2002-notes-EOF-20261110-113639.zip). Behind-the-scenes biography. Not crossed on the timeline.
+
+## materials/161 — George Lucas: Rise of an Empire (2015)
+
+Phone entry: [161-george-lucas-rise-of-an-empire-2015/README.md](materials/161-george-lucas-rise-of-an-empire-2015/README.md), then `rise-01.md` and [quotes/QUOTES-INDEX.md](materials/161-george-lucas-rise-of-an-empire-2015/quotes/QUOTES-INDEX.md). FULL / EOF COMPLETE. All 24 page-images were read. Four certified quote crops were opened. No character line was added. No Vader, Force, Sith, Chosen One, or canon-hierarchy statement is in the comic. The sealed package is [../packages/161-george-lucas-rise-of-an-empire-2015-notes-EOF-20261110-113639.zip](../packages/161-george-lucas-rise-of-an-empire-2015-notes-EOF-20261110-113639.zip). Unauthorized biographical comic. Not crossed on the timeline.
+
+## materials/162 — George Lucas (Jim Smith, Virgin Film, 2003)
+
+Phone entry: [162-george-lucas-jim-smith-2003/README.md](materials/162-george-lucas-jim-smith-2003/README.md), then `smith-01.md` through `smith-07.md` and `summary.md`. FULL / EOF COMPLETE. Introduction through the index, with printed-page checks against the Virgin scan. Eight real-world creator-commentary lines were added to the existing Vader folder, after the Shields 2002 lines. They are not Legends or Canon fiction. No new character files. The sealed package is [../packages/162-george-lucas-jim-smith-2003-notes-EOF-20261110-114540.zip](../packages/162-george-lucas-jim-smith-2003-notes-EOF-20261110-114540.zip). Film study. Not crossed on the timeline.
+
+## materials/163 — George Lucas: Creator of Star Wars (Rau and Rau, 1999)
+
+Phone entry: [163-george-lucas-creator-of-star-wars-1999/README.md](materials/163-george-lucas-creator-of-star-wars-1999/README.md), then `rau-01.md` through `rau-03.md`, `summary.md`, and [quotes/QUOTES-INDEX.md](materials/163-george-lucas-creator-of-star-wars-1999/quotes/QUOTES-INDEX.md). FULL / EOF COMPLETE. All 120 book-scan pages were visually read. Six certified quote crops were opened. Three real-world lines were added to the existing Vader folder, after the Smith 2003 lines. They are the authors' wording, not Legends or Canon fiction. The dirty epub was not quoted. No new character files. The sealed package is [../packages/163-george-lucas-creator-of-star-wars-1999-notes-EOF-20261110-120826.zip](../packages/163-george-lucas-creator-of-star-wars-1999-notes-EOF-20261110-120826.zip). Juvenile biography. Not crossed on the timeline.
+
+## materials/164 — A Conversation with George Lucas (TIME, 20 March 2006)
+
+Phone entry: [164-time-2006-conversation-lucas/README.md](materials/164-time-2006-conversation-lucas/README.md), then `corliss-01.md` and `summary.md`. FULL / EOF COMPLETE. Richard Corliss's two-hour phone interview, from the 10-page 2019 Word reprint. No Force doctrine and no first-person Lucas quotation about Vader or Anakin's fall. No character line was added. The sealed package is [../packages/164-time-2006-conversation-lucas-notes-EOF-20261110-120826.zip](../packages/164-time-2006-conversation-lucas-notes-EOF-20261110-120826.zip). Primary interview. Not crossed on the timeline.
+
+## materials/165 — I Am George Lucas (Grace Norwich, Scholastic, 2013)
+
+Phone entry: [165-i-am-george-lucas-2013/README.md](materials/165-i-am-george-lucas-2013/README.md), then `norwich-01.md` through `norwich-03.md`, `summary.md`, and [quotes/QUOTES-INDEX.md](materials/165-i-am-george-lucas-2013/quotes/QUOTES-INDEX.md). FULL / EOF COMPLETE. All 132 PDF leaves were visually read. Five certified quote crops were opened. Three real-world lines were added to the existing Vader folder, after the Rau 1999 lines. They are Norwich's report, not Legends or Canon fiction. The first-person Introduction is Norwich writing as Lucas, not a certified interview. The dirty epub was not quoted. No new character files. The sealed package is [../packages/165-i-am-george-lucas-2013-notes-EOF-20261110-122241.zip](../packages/165-i-am-george-lucas-2013-notes-EOF-20261110-122241.zip). Unauthorized juvenile biography. Not crossed on the timeline.
+
+## materials/166 — George Lucas: A Life (Brian Jay Jones, Little, Brown, 2016)
+
+Phone entry: [166-george-lucas-a-life-2016/README.md](materials/166-george-lucas-a-life-2016/README.md), then `jones-01-prologue-ch02.md` through `jones-13-back-matter.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE, including all 1,517 endnotes. No quote crops. Twenty-two real-world lines were added to the existing Vader folder, after the Norwich lines, and three to the existing Han Solo file. Speakers include staff and cast. They are not Legends or Canon fiction. No new character files. The sealed package is [../packages/166-george-lucas-a-life-2016-notes-EOF-20261110-125231.zip](../packages/166-george-lucas-a-life-2016-notes-EOF-20261110-125231.zip). Unauthorized biography. Not crossed on the timeline.
+
+## materials/167 — The Secret History of Star Wars (Michael Kaminski, e-book v3.0, 2008)
+
+Phone entry: [167-secret-history-of-star-wars-2008/README.md](materials/167-secret-history-of-star-wars-2008/README.md), then `kaminski-00-front-intro.md` through `kaminski-23-apph.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE. Front matter through Appendix H, including all 939 End Notes. Author’s online e-book v3.0, Third Edition, 19 May 2008, not the Kingston print. No quote crops. Thirty-six real-world lines were appended to the last Vader split file after the staff addendum, and eleven to the Han Solo file. Kaminski glosses stay flagged. Kurtz, Pollock, Lucas, and Kaminski claims stay separate. The audiobook was not used. No new character files. The sealed package is [../packages/167-secret-history-of-star-wars-2008-notes-EOF-20261110-134344.zip](../packages/167-secret-history-of-star-wars-2008-notes-EOF-20261110-134344.zip). Unauthorized historical study. Not crossed on the timeline.
+
+## materials/168 — Inside the Star Wars Empire (Bill Kimberlin, Lyons Press, 2018)
+
+Phone entry: [168-inside-the-star-wars-empire-2018/README.md](materials/168-inside-the-star-wars-empire-2018/README.md), then `kimberlin-00-front.md` through `kimberlin-04-photo2-through-aa.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE. Front matter through About the Author. Title page and cover read *Inside the Star Wars Empire* / A Memoir. No page numbers were invented. No quote crops. Seventeen real-world lines were appended to `characters/darth-vader/12-part-part-3-feats.md` after the Kaminski block. No Han Solo lines. Kimberlin glosses stay flagged and are not collapsed with Jones, Kaminski, Kurtz, or Pollock. No new character files. The sealed package is [../packages/168-inside-the-star-wars-empire-2018-notes-EOF-20261110-135410.zip](../packages/168-inside-the-star-wars-empire-2018-notes-EOF-20261110-135410.zip). Staff memoir. Not crossed on the timeline.
+
+## materials/169 — Once Upon a Galaxy (Alan Arnold, Sphere / Del Rey, 1980)
+
+Phone entry: [169-once-upon-a-galaxy-1980/README.md](materials/169-once-upon-a-galaxy-1980/README.md), then `arnold-00-front-through-london.md` through `arnold-05-marin-la-postscript-aa.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE. Foreword through About the Author, including every Elstree journal day from 12 March through 10 September 1979. No page numbers were invented. No quote crops. Fifteen real-world lines were appended to `characters/darth-vader/12-part-part-3-feats.md` after the Kimberlin block, and nine to the Han Solo file. Arnold glosses stay flagged. The nine-film, sequel, and father-script claims stay separate. No new character files. The sealed package is [../packages/169-once-upon-a-galaxy-1980-notes-EOF-20261110-140942.zip](../packages/169-once-upon-a-galaxy-1980-notes-EOF-20261110-140942.zip). Unit-publicist journal. Not crossed on the timeline.
+
+## materials/170 — The Making of Star Wars (J. W. Rinzler, 2007)
+
+Phone entry: [170-making-of-star-wars-2007/README.md](materials/170-making-of-star-wars-2007/README.md), then `rinzler-00-edition-and-front.md` through `rinzler-14-glossary-bibliography-index.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE. Front matter through the print Index, including the Deluxe Edition bonus. Body cites are Rinzler p. N. Enhanced-only material is Rinzler EE, “[section].” No quote crops. Twenty real-world lines were appended to `characters/darth-vader/12-part-part-3-feats.md` after the Arnold block, and fourteen to the Han Solo file. Draft identities stay separate. The Titelman sessions are first thoughts, not official continuity. Rinzler glosses stay flagged. No new character files. The sealed package is [../packages/170-making-of-star-wars-2007-notes-EOF-20261110-144529.zip](../packages/170-making-of-star-wars-2007-notes-EOF-20261110-144529.zip). Production history. Not crossed on the timeline.
+
+## materials/171 — The Making of The Empire Strikes Back (J. W. Rinzler, 2010)
+
+Phone entry: [171-making-of-the-empire-strikes-back-2010/README.md](materials/171-making-of-the-empire-strikes-back-2010/README.md), then `rinzler-00-edition-and-front.md` through `rinzler-14-bibliography-and-index.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE. Front matter through the print Index, including the ILM group-shot key and the Appendix. Body cites are Rinzler ESB p. N. Enhanced-only material is Rinzler ESB EE, “[section].” No quote crops. Twenty-four real-world lines were appended to `characters/darth-vader/12-part-part-3-feats.md` after the Rinzler 2007 block, and thirteen to the Han Solo file. Draft-stage and briefing-stage identities stay separate. The carbon-freeze “I love you” / “I know” layers stay separate. Rinzler glosses stay flagged. No new character files. The sealed package is [../packages/171-making-of-the-empire-strikes-back-2010-notes-EOF-20261110-152258.zip](../packages/171-making-of-the-empire-strikes-back-2010-notes-EOF-20261110-152258.zip). Production history. Not crossed on the timeline.
+
+## materials/172 — The Making of Star Wars: Revenge of the Sith (J. W. Rinzler, 2005)
+
+Phone entry: [172-making-of-revenge-of-the-sith-2005/README.md](materials/172-making-of-revenge-of-the-sith-2005/README.md), then `rinzler-00-edition-and-front.md` through `rinzler-09-chapter-nine-and-back-matter.md`, `summary.md`, and `character-updates.md`. FULL / EOF COMPLETE. Front matter through the Index and jacket copy, including the Part II and Part III plates and Creating the Visual Script. Body cites are Rinzler ROTS p. N. The scan is the 2005 Del Rey / Ballantine First Edition. No quote crops. Twenty-seven real-world lines were appended to `characters/darth-vader/12-part-part-3-feats.md` after the Rinzler 2010 block, and five to the Han Solo file. Draft-stage, on-set, editorial, and additional-photography identities stay separate. Rinzler glosses stay flagged. Notes 060 remains the earlier own-words loan. No new character files. The sealed package is [../packages/172-making-of-revenge-of-the-sith-2005-notes-EOF-20261110-161417.zip](../packages/172-making-of-revenge-of-the-sith-2005-notes-EOF-20261110-161417.zip). Production history. Not crossed on the timeline.
+
+## materials/160–165 staff addendum
+
+Phone entry: [160-165-staff-addendum/README.md](materials/160-165-staff-addendum/README.md), then `summary.md` and `character-updates.md`. Staff, crew, and cast lines backfilled from notes 160, 162, 163, and 165. Notes 161 and 164 added none. Twenty-two lines were appended to the existing Vader folder after the Jones 2016 lines, and four to the existing Han Solo file after the Jones 2016 lines. Attribution conflicts stay as written. Notes 157–166 were not edited. The sealed package is [../packages/160-165-staff-addendum-EOF-20261110-125606.zip](../packages/160-165-staff-addendum-EOF-20261110-125606.zip). Not crossed on the timeline.

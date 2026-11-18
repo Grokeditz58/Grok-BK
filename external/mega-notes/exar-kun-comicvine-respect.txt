@@ -1,0 +1,158 @@
+Exar Kun: Comic Vine respect threads, read 2026-10-18 (DEEP-layer pass)
+Threads read:
+ (A) SithRevenant, "Exar Kun: The Chronological Respect Thread (2019)" (posted Aug 13 2018): https://comicvine.gamespot.com/profile/sithrevenant/blog/exar-kun-the-chronological-respect-thread-2019/134756/
+ (B) i_like_swords (account now "deactivated-5e8a1f5fafc4e"), "Exar Kun Respect Thread - Updated 2014" (Nov 29 2014; contributions credited to AncientPower and CT123): https://comicvine.gamespot.com/profile/deactivated-5e8a1f5fafc4e/blog/exar-kun-respect-thread-updated-2014/101338/
+ (C) Seen in search only, NOT read: Silver2467 "Exar Kun Respect Thread" (2011): https://comicvine.gamespot.com/profile/silver2467/blog/exar-kun-respect-thread/67101/ (mostly scan links; GAP)
+All items LEGENDS unless labeled. Neither thread gives page numbers or chapters. Comic quotes are credited only to "Tales of the Jedi Omnibus Vol. 2"; where I could match the scene to an issue using the Wookieepedia notes (exar-kun-legends-quotes.txt), the issue is given as "[issue via Wookieepedia]". Captions written by the posters are NOT counted. Image-gallery items with no quoted text = UNVERIFIED (scan not checked).
+
+== 1. QUOTED SOURCE TEXT: COMBAT / DUELING ==
+- Ulic stalemate. The Dark Side Sourcebook: "Exar Kun and Ulic fought, but they were too evenly matched for either to gain the upper hand. Their battle might have gone on for hours but for the macabre manifestation of a host of Sith spirits, led by the shade of Marka Ragnos." Power of the Jedi Sourcebook: "The Sith spirits saw that the battle would ultimately end with both men dead". SWTOR Timeline "The Exar Kun War" (Gnost-Dural): "another fallen Jedi, whose strength matched his own - Ulic Qel-Droma... After a long duel". Primary scene: Tales of the Jedi: Dark Lords of the Sith #6 [issue via Wookieepedia]. DLotS #6 solicitation/blurb: "two renegade Jedi, Ulic Qel-Droma and Exar Kun, clash in mortal combat. One will be awarded the title of Dark Lord of the Sith, the most feared and powerful force in the galaxy". RESULT: Kun = Ulic on blades (A, B). [panel: panels/exar-kun/exar-kun-power-jedi-sourcebook-1.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-2.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-3.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-4.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-5.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-6.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-7.png; panels/exar-kun/exar-kun-power-jedi-sourcebook-8.png]
+- Kills Vodo-Siosk Baas. Power of the Jedi Sourcebook: "Vodo-Siosk Baas was no match for Exar Kun's double-bladed lightsaber and deep reserve of dark side power." The Dark Side Sourcebook: "Master Vodo did not have a chance, and fell to his former student." Power of the Jedi Sourcebook: "Master Vodo wielded a common quarterstaff in combat as effectively as most Jedi used a lightsaber." Primary scene: The Sith War #3 (Senate) [issue via Wookieepedia: even until the second blade comes out, then Kun breaks the staff and kills him]. Done while holding a Sith spell freezing the Senate (Sith War #3; poster's framing that the spell was maintained during the duel is a caption, check the scan).
+- Training-era skill. Power of the Jedi Sourcebook: "Kun was a master of lightsaber combat and had even bested Master Vodo's quarterstaff during a sparring practice." Dark Side Sourcebook: "An excellent student and a master swordsman". Jedi Academy Training Manual: "Kun's skill with a lightsaber is so great that he claimed victory over his master many times when they sparred together." SWTOR Timeline (Gnost-Dural): "Through long practice he achieved unparalleled prowess in lightsaber combat." Primary: DLotS #1 (Crado beaten easily, Baas sends him flying with one staff blow, then Kun smashes the staff) [issue via Wookieepedia].
+- Saberstaff + tactics. The Essential Guide to Weapons and Technology: blade length 0.5-1.5 m and intensity adjustable mid-fight; "By abruptly shortening a blade or dropping it to the lowest power setting, Kun tricked his opponents into overextending themselves... By coupling these tactics with his Force abilities to predict the actions of his opponents, Kun became virtually unstoppable in combat." Jedi vs. Sith: The Essential Guide to the Force: built "by following instructions from a Sith Holocron, possibly prepared by the Jedi Exiles". Kun in-comic (Sith War, Omnibus Vol 2; issue not given, likely Sith War #3): "See how powerful the Sith teachings are... When they are used correctly!" [panel: panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-1.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-2.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-3.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-4.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-5.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-6.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-7.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-8.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-9.png; panels/exar-kun/exar-kun-jedi-vs-sith-essential-guide-force-10.png]
+- KOTOR Campaign Guide (per thread B, paraphrased by poster, NOT quoted): master of Form VI Niman in an aggressive strength-based variant; master of double-bladed combat; Force Stun, Whirlwind, Wound, Energy Resistance, Lightning listed. Treat as poster summary of a stat block (low weight).
+- Dark Side Sourcebook (paraphrase, B): ambidextrous. Unquoted.
+
+== 2. QUOTED SOURCE TEXT: FORCE POWER / SORCERY / RANKINGS ==
+- "far more powerful than any one other Jedi": The Jedi Academy Sourcebook: "though Kun was far more powerful than any one other Jedi of the time, a combined force had defeated him." Champions of the Force (Luke's reading): "Though Kun had enormous power, it seems that the key was that the other Jedi combined their might." In-story: Sith War #6 Kun admits he can't stand up to the whole Order combined [Wookieepedia notes].
+- Most powerful Dark Lord to his time. The Complete Star Wars Encyclopedia: "Once the most powerful and dangerous of the Dark Lords of the Sith, he was responsible for the deaths of millions". Behind the Threat: The Sith, Part 3 (WotC web article): listed among "the most powerful, terrifying, and notorious Sith Lords through history... Exar Kun, Darth Malak, Darth Bane, Darth Sidious, Darth Vader, and Darth Krayt." Dark Side Sourcebook: alchemy as a talent of "The most powerful Sith Lords... like Naga Sadow and Exar Kun". Star Wars Galactic Files: "Now super-powerful, Exar Kun". New Essential Chronology: "An extremely powerful figure now". Omnibus Vol 2 front copy: "the galaxy faces its greatest threat since the founding of the Republic!" Kun's own line (Dark Apprentice): "I was the greatest Dark Lord of the Sith."
+- Odan-Urr. Tales of the Jedi (Sith War #1 [issue via Wookieepedia]): "Odan-Urr goes to the Force and the darkest power in the galaxy walks away with something that will make him even stronger." Jedi vs. Sith: "Exar Kun might not have risen to power so quickly had Odan-Urr destroyed the Sith Holocron". Sith War #1: Odan-Urr's Force strike + sever attempt only knock Kun back (Wookieepedia notes). Thread B: kill = Force Wound (caption).
+- Freedon Nadd's spirit destroyed (DLotS #4 [issue via Wookieepedia], amulet-boosted). Star Wars Galactic Files: "a spirit who is destroyed by Kun after all of his magical knowledge is absorbed." TotJ audio drama CD 2: "I sense one great power has fallen and another has risen in its place." Dark Side Sourcebook: won "the full strength of the dark side" when he killed the Sith wyrm. Book of Sith (Sidious): great amulets require overcoming their "seductive song" (thread uses this to say Kun overcame Sadow's amulet; that link is the poster's inference).
+- Raising the Corsair. KOTOR Campaign Guide: Exar Kun raised Sadow's buried battleship "similar to the way Darth Nihilus would raise the Ravager from the ruined surface of Malachor V." Author Abel G. Peña (Q&A quoted in thread A) agreed it was a direct analogy, i.e. a Force lift. Out-of-universe author clarification (medium weight).
+- Senate spell. Sith War #3 [issue via Wookieepedia]: freezes the Senate onlookers, dominates Chancellor Sidrona's mind and speaks through him. Thread B adds Kun lifted Sidrona by the skull and dropped him dead (caption; Wookieepedia says sorcery "could be used to slay those who he touched", Sith War #3).
+- Cinnagar (DLotS #6, Omnibus Vol 2): Kun: "With the dark side I blinded every scanning technician in Cinnagar." (Thread A then multiplies by a 310-billion Cinnagar population from Force and Destiny: Nexus of Power, which is a FFG RPG book and does not mean he affected everyone; poster inflation, not counted.)
+- Ood Bnar: thread A quotes "Ood resists Kun's attempts to steal the lightsabers by undergoing a final metamorphosis... driving Kun back with a blast of power drawn from the depths of Ossus" (credited "The Sith War 6: Dark Lord", likely the recap page; the raid itself is Sith War #5). Kun is driven back, not hurt. The "ten supernovas" scaling is the poster's (Ood survived the Cron Supernova). Not counted as a Kun durability feat.
+- Thule: Complete Star Wars Encyclopedia: Thule's crust "became imbued with the residue of the dark side" during the war (credited to the Brotherhood generally, not Kun alone).
+- Galaxy-wide scream: New Essential Chronology: "Exar Kun let out a tremendous shriek that echoed across the galaxy"; Essential Guide to Characters: "his screams reaching out across the galaxy". (DLotS #3.)
+- Sensing across the galaxy: "With his mind he reached across the galaxy and detected other users of Sith magic in the Empress Teta system." (source not named in thread B; Wookieepedia credits KOTOR II's recap / Chronicles of the Old Republic: "a more powerful EXAR KUN... detecting other Sith practitioners with his psychic tendrils").
+- Holocron knowledge: Odan-Urr (Sith War #1): "accessible only to a Dark Lord of the Sith, are the forgotten histories and lore, dating back a hundred thousand years and more." Jedi Academy Sourcebook: "Exar Kun has learned all there is to know of the teachings of Naga Sadow." "The dark knowledge of the Sith teachings died with Kun".
+
+== 3. QUOTED SOURCE TEXT: SPIRIT KUN (NEW REPUBLIC ERA, ~11 ABY) ==
+- Dark Apprentice (Kevin J. Anderson), Luke attacked by Kyp + Kun's spirit: "Against the full might of Kyp Durron and the forbidden weapons of the long-dead spirit of Exar Kun, even a Jedi Master such as Luke Skywalker could not prevail." Luke "called upon the powers that Yoda and Obi-Wan had taught him—but everything he did, every skillful technique, failed utterly." Luke had dropped his lightsaber and was purely defending. 2-on-1 and Luke would not attack Kyp; Luke's spirit is separated from his body.
+- Dark Apprentice: Kyp lifts the Sun Crusher out of Yavin with Kun's help: "Behind him, Kyp felt the black-ice power of Exar Kun arise, tapping into him and reinforcing his abilities. His own feeble exploratory touch suddenly plunged forward like a blaster bolt." Luke: "If Kyp had fallen to the dark side, he could become another Darth Vader. Perhaps even worse…" (hype for Kyp's potential, not Kun).
+- Champions of the Force: chokes all twelve trainees at once: "Even joined together, you are too weak to fight me!"; Streen breaks it by moving air into their lungs; then the twelve plus Luke's spirit banish him. Baas appears and proclaims him defeated.
+- I, Jedi (Michael A. Stackpole), vs Corran Horn: "Kun flicked a finger at me, sending me whirling across the courtyard... I heard a bone in my right forearm crack... Ribs crunched". Corran: Kun masked an attack so that Luke "could not feel it barely fifteen meters away... we were up against something more powerful than I'd cared to imagine existing." Corran also says Luke's power "had been redoubled" after Dark Empire.
+- Jedi Academy Sourcebook (WEG): as a spirit Kun "possessed a great many other dark powers that he was unable to harness without the energy he needed"; needs worshippers' energy to "take on human form". => Spirit Kun is a fraction of living Kun (key scaling caveat; also Jedi vs. Sith: possessing Kyp and beating Luke "had simply tired Exar Kun out", per Wookieepedia notes).
+- The New Rebellion (Kristine Kathryn Rusch), Leia on Kueller: "more Force capability than anyone she had encountered in years. Except Exar Kun, and he had been a spirit." (Kueller-scaling chain; SI and the t4525 rules ban multi-link Kueller scaling.)
+- Specter of the Past (Timothy Zahn): Luke sees "Emperor Palpatine and Exar Kun, two of the greatest focal points of the dark side he'd ever had to face." Children of the Jedi (Barbara Hambly): Luke's list of hellish experiences includes "Exar Kun"; "the slayer of evil, who'd defeated the recloned Emperor and the Sith Lord Exar Kun" (Luke's bitter self-description).
+- Star Wars Galaxies Chapter 9 announcement (LucasArts): "Exar Kun's spirit is so strong and malevolence so great, that he has withstood death for 4,000 years" (game PR, low weight; in-game spacers beat the spirit, per Wookieepedia).
+
+== 4. UNVERIFIED (gallery/scan only, no quoted text) ==
+- Strikes "heard for kilometers"; snaps Baas's Force-imbued staff twice; smashes holocron bare-handed (Sith War #2 per Wookieepedia: "shattered the Dark Holocron with a single punch"); smashes Mandalorian-iron tomb wall (DLotS #2 per Wookieepedia, after "a strange power" surrounds him); blade afterimages vs Baas; survives temple collapse with bones "smashed in over a hundred places" (DLotS #3 per Wookieepedia); deflects an Aleema magic blast; conceals presence from Odan-Urr and Nomi; softened long fall into the wyrm pit; sparring wins vs Crado and Sylvar. [panel: panels/exar-kun/exar-kun-smashes-down-wall-mandalorian-iron-1.png; panels/exar-kun/exar-kun-smashes-down-wall-mandalorian-iron-2.png; panels/exar-kun/exar-kun-smashes-down-wall-mandalorian-iron-3.png]
+
+== 5. POSTER-INFLATION / NOT COUNTED ==
+- Thread A's "therefore Kun > the Sith Emperor (Vitiate)" via the Dark Holocron and a SWTOR Encyclopedia line about Revan's fear: pure inference chain, rejected.
+- "Ood Bnar endured ten supernovas so Kun tanked a supernova-level blast": rejected (Kun was "driven back").
+- Cinnagar 310 billion population multiplier: rejected.
+- Marka Ragnos is Kun's "canonical inferior" plus JKA scaling: poster's framing; no quoted statement compares them directly here.
+
+== TAKEAWAYS FOR VERDICTS ==
+1. Living Kun's best hard data: = Ulic on blades for "hours"; beats Baas (a weapon master) once the saberstaff comes out; Kun's Force power "too much" for Odan-Urr (Kun only knocked back by Odan-Urr's strike + sever attempt); obliterates Nadd's spirit (amulet-boosted); Senate-wide spell + Chancellor domination; galaxy-wide scream/sensing; Corsair lift (Peña).
+2. Best statements: "far more powerful than any one other Jedi of the time" (Jedi Academy Sourcebook), "most powerful and dangerous of the Dark Lords" to his era (Encyclopedia), "virtually unstoppable in combat" (Weapons & Technology), Luke-era focal-point line next to Palpatine (Specter of the Past).
+3. Spirit Kun is explicitly weakened (needs others' energy; tired out after Luke). Even so, with Kyp he overwhelms ~11 ABY Luke, who was only defending.
+4. GAP: no page/issue numbers in either thread; Silver2467 thread unread; comic scans not checked.
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### exar-sithrevenant / Yavin IV: A New Kun
+- NOTE: The likes of Darth Nox, the Empire's Wrath, the third Barsen'thor and the Hero of Tython as of Shadow of Revan , were overwhelmed by the same amulet: (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-likes-darth-nox-empires-wrath-third-barsenthor-1.gif]
+
+### exar-sithrevenant / Cinnagar: Rogue Kun
+- The two of them spend four years expanding their powers: (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-two-them-spend-four-years-expanding-powers-1.jpg]
+
+### exar-sithrevenant / Ossus: The Phantom Kun
+- This alone is very impressive, as Odan-Urr was not only the Head of the Jedi Order, his revolutionary mastery had unlocked the true power of the Force and becam (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-alone-impressive-odan-urr-head-jedi-order-1.png]
+
+### exar-sithrevenant / Yavin IV Kun: A Spirit Wars Story
+- Exar Kun's strength at this point in time would have been a farcry from in his prime. His canonical inferior in Marka Ragnos required not only the focal points  (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kuns-strength-point-time-been-farcry-1.gif; panels/exar-kun/exar-kun-exar-kuns-strength-point-time-been-farcry-2.gif]
+- All hail the great Dark Lord, Exar Kun. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-hail-great-dark-lord-exar-kun-1.jpg]
+
+### exar-2014 / Respect Exar Kun
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-respect-exar-kun-1.png]
+
+### exar-2014 / Force Augmentation
+- Exar Kun's lightsaber strikes produce enough force to be heard for kilometers. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kuns-lightsaber-strikes-produce-enough-force-1.png]
+- Kun snaps Vodo-Siosk Baas's Force-imbued staff under the weight of his blows. Vodo's staff is even stronger than a lightsaber blade. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-snaps-vodo-siosk-baass-force-imbued-1.png; panels/exar-kun/exar-kun-kun-snaps-vodo-siosk-baass-force-imbued-2.png]
+- Kun snaps Vodo's staff again. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-snaps-vodos-staff-again-1.png]
+- Kun smashes a holocron with his bare hands. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-smashes-holocron-bare-hands-1.png]
+- Kun implants his fingers into the skull of Grand Chancellor of the Galactic Senate, lifts him with one arm nonchalantly, has him conduct a speech, and then drop (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-implants-fingers-skull-grand-chancellor-galactic-1.png; panels/exar-kun/exar-kun-kun-implants-fingers-skull-grand-chancellor-galactic-2.png; panels/exar-kun/exar-kun-kun-implants-fingers-skull-grand-chancellor-galactic-3.png]
+- Produces multiple afterimages with his blade while fighting Vodo-Siosk Baas. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-produces-multiple-afterimages-blade-fighting-vodo-siosk-1.png; panels/exar-kun/exar-kun-produces-multiple-afterimages-blade-fighting-vodo-siosk-2.png; panels/exar-kun/exar-kun-produces-multiple-afterimages-blade-fighting-vodo-siosk-3.png; panels/exar-kun/exar-kun-produces-multiple-afterimages-blade-fighting-vodo-siosk-4.png]
+- More examples of afterimages. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-examples-afterimages-1.png; panels/exar-kun/exar-kun-examples-afterimages-2.png]
+- Despite having tons of rubble dropped on him, with his bones being broken in hundreds of places, Kun survives for a prolonged period of time and can even contin (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-having-tons-rubble-dropped-him-bones-broken-1.png; panels/exar-kun/exar-kun-having-tons-rubble-dropped-him-bones-broken-2.png; panels/exar-kun/exar-kun-having-tons-rubble-dropped-him-bones-broken-3.png; panels/exar-kun/exar-kun-having-tons-rubble-dropped-him-bones-broken-4.png]
+
+### exar-2014 / Lightsaber and Martial Arts Skill
+- Kun was a master of Form VI, Niman. He practices an abnormally aggressive variant of Niman, focusing on applying his overwhelming strength. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-master-form-vi-niman-he-practices-1.png]
+- Kun could wield a lightsaber ambidextrously. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-wield-lightsaber-ambidextrously-1.png]
+- Kun is a master of dual-bladed lightsaber combat. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-master-dual-bladed-lightsaber-combat-1.png]
+- Kun humbles Crado in a sparring match. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-humbles-crado-sparring-match-1.png; panels/exar-kun/exar-kun-kun-humbles-crado-sparring-match-2.png]
+- Kun defeats Sylvar in a sparring match. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-defeats-sylvar-sparring-match-1.png; panels/exar-kun/exar-kun-kun-defeats-sylvar-sparring-match-2.png; panels/exar-kun/exar-kun-kun-defeats-sylvar-sparring-match-3.png]
+- Kun takes on Vodo-Siosk Baas in a sparring match, losing initially but gaining the upper hand once he begins using dual-blades. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-takes-vodo-siosk-baas-sparring-match-1.png; panels/exar-kun/exar-kun-kun-takes-vodo-siosk-baas-sparring-match-2.png; panels/exar-kun/exar-kun-kun-takes-vodo-siosk-baas-sparring-match-3.png; panels/exar-kun/exar-kun-kun-takes-vodo-siosk-baas-sparring-match-4.png; panels/exar-kun/exar-kun-kun-takes-vodo-siosk-baas-sparring-match-5.png; panels/exar-kun/exar-kun-kun-takes-vodo-siosk-baas-sparring-match-6.png]
+- - Star Wars: The Old Republic - Timeline - The Exar Kun War (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-star-wars-old-republic-timeline-exar-kun-1.png; panels/exar-kun/exar-kun-star-wars-old-republic-timeline-exar-kun-2.png; panels/exar-kun/exar-kun-star-wars-old-republic-timeline-exar-kun-3.png; panels/exar-kun/exar-kun-star-wars-old-republic-timeline-exar-kun-4.png]
+- During his time as the Dark Lord of the Sith, Kun created and wielded one of, if not the, first Saberstaff(s), an incredibly dangerous and intricate weapon. He  (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-during-time-dark-lord-sith-kun-created-1.png]
+
+### exar-2014 / Force Sense/Clairvoyance
+- Exar Kun is inexplicably drawn to two followers of Freedom Nadd, bringing him closer to his journey towards the Dark Side. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-inexplicably-drawn-two-followers-freedom-1.png; panels/exar-kun/exar-kun-exar-kun-inexplicably-drawn-two-followers-freedom-2.png]
+- Kun senses massassi warriors sneaking up on him. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-senses-massassi-warriors-sneaking-him-1.png]
+- Kun senses a source of power within Naga Sadow's temple on Yavin IV (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-senses-source-power-within-naga-sadows-1.png]
+- Kun senses Ulic Qel-Droma and Aleema beyond walls. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-senses-ulic-qel-droma-aleema-beyond-1.png]
+
+### exar-2014 / Protection
+- Kun resists being severed from the Force by Odan-Urr, a master of the technique. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-resists-severed-force-odan-urr-master-1.png]
+
+### exar-2014 / Force Scream
+- - The Essential Guide to Characters (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-essential-guide-characters-1.png; panels/exar-kun/exar-kun-essential-guide-characters-2.png]
+
+### exar-2014 / Force Blast
+- After dawning Naga Sadow's Gauntlets, Exar Kun was able to produce blasts capable of killing a gargantuan Sith Wyrm as well as destroy large portions of the Mas (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-after-dawning-naga-sadows-gauntlets-exar-kun-1.png; panels/exar-kun/exar-kun-after-dawning-naga-sadows-gauntlets-exar-kun-2.png; panels/exar-kun/exar-kun-after-dawning-naga-sadows-gauntlets-exar-kun-3.png; panels/exar-kun/exar-kun-after-dawning-naga-sadows-gauntlets-exar-kun-4.png]
+- Kun permanently destroys the spirit of Freedom Nadd. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-permanently-destroys-spirit-freedom-nadd-1.png; panels/exar-kun/exar-kun-kun-permanently-destroys-spirit-freedom-nadd-2.png]
+- Kun nonchalantly blasts Aleema Keto into unconsciousness. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-nonchalantly-blasts-aleema-keto-unconsciousness-1.png]
+- Kun's gauntlets provide him with more power than Aleema's skill in Sith magic. Aleema, after a few months of training alone, was capable of reducing a man to a  (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kuns-gauntlets-provide-him-power-aleemas-skill-1.png]
+
+### exar-2014 / Telekinesis
+- Exar Kun kills Odan-Urr with Force Wound, attacking and killing him internally. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-kills-odan-urr-force-wound-1.png; panels/exar-kun/exar-kun-exar-kun-kills-odan-urr-force-wound-2.png; panels/exar-kun/exar-kun-exar-kun-kills-odan-urr-force-wound-3.png]
+- Kun casually hurls Sylvar. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-casually-hurls-sylvar-1.png]
+
+### exar-2014 / Gravity Manipulation
+- Kun softens his landing, presumably through gravity manipulation or some other method of fall-softening, after taking a tremendous fall underground to the depth (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-kun-softens-landing-presumably-through-gravity-manipulation-1.png; panels/exar-kun/exar-kun-kun-softens-landing-presumably-through-gravity-manipulation-2.png]
+
+### exar-2014 / Force Lightning
+- Exar Kun knows Force Lightning, and has been depicted as using it in the Jedi Archives. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-knows-force-lightning-been-depicted-1.png]
+- - The Dark Side Sourcebook (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-dark-side-sourcebook-1.png]
+- - Knights of the Old Republic Campaign Guide (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-knights-old-republic-campaign-guide-1.png; panels/exar-kun/exar-kun-knights-old-republic-campaign-guide-2.png]
+
+### exar-2014 / Sith Sorcery
+- Exar Kun casts a spell on the entire galactic senate, consisting of thousands, forcing them into stillness and compelling them to watch him. He also stunned an  (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-casts-spell-entire-galactic-senate-1.png]
+- A full view of three of the four stands of people within the senate, which were all full. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-full-view-three-four-stands-people-within-1.png]
+
+### exar-2014 / Sith Alchemy
+- After studying ancient Sith scrolls, Exar Kun conducts an experiment that successfully transforms the massassi priest into a powerful, alchemy-enhanced dark sid (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-after-studying-ancient-sith-scrolls-exar-kun-1.png; panels/exar-kun/exar-kun-after-studying-ancient-sith-scrolls-exar-kun-2.png; panels/exar-kun/exar-kun-after-studying-ancient-sith-scrolls-exar-kun-3.png; panels/exar-kun/exar-kun-after-studying-ancient-sith-scrolls-exar-kun-4.png; panels/exar-kun/exar-kun-after-studying-ancient-sith-scrolls-exar-kun-5.png; panels/exar-kun/exar-kun-after-studying-ancient-sith-scrolls-exar-kun-6.png]
+
+### exar-2014 / Massassi Abomination
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-massassi-abomination-1.jpg]
+
+### exar-2014 / Battle Hydra
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-battle-hydra-1.jpg]
+
+### exar-2014 / Tuk'ata/Sith Hound
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-tukata-sith-hound-1.jpg; panels/exar-kun/exar-kun-tukata-sith-hound-2.jpg]
+
+### exar-2014 / Force Corruption
+- In order to convert Dark Jedi acolytes, Exar Kun smashes a Sith Holocron containing the spirits of ancient Sith which in turn corrupt the fallen Jedi, turning t (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-order-convert-dark-jedi-acolytes-exar-kun-1.png; panels/exar-kun/exar-kun-order-convert-dark-jedi-acolytes-exar-kun-2.png; panels/exar-kun/exar-kun-order-convert-dark-jedi-acolytes-exar-kun-3.png; panels/exar-kun/exar-kun-order-convert-dark-jedi-acolytes-exar-kun-4.png; panels/exar-kun/exar-kun-order-convert-dark-jedi-acolytes-exar-kun-5.png; panels/exar-kun/exar-kun-order-convert-dark-jedi-acolytes-exar-kun-6.png]
+
+### exar-2014 / Force Concealment
+- Exar Kun conceals his presence in the Force from Odan-Urr and Nomi Sunrider, Odan only becoming aware of his presence when Exar reveals himself. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-conceals-presence-force-odan-urr-1.png; panels/exar-kun/exar-kun-exar-kun-conceals-presence-force-odan-urr-2.png]
+
+### exar-2014 / Force Stun
+- Exar Kun is proficient in Force Stun. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-proficient-force-stun-1.png]
+- - Knights of the Old Republic Campaign Guide (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-knights-old-republic-campaign-guide-3.png]
+
+### exar-2014 / Force Whirlwind
+- Exar Kun knows Force Whirlwind. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-knows-force-whirlwind-1.png]
+
+### exar-2014 / Force Wound
+- Exar Kun knows Force Wound. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-knows-force-wound-1.png]
+
+### exar-2014 / Energy Resistance
+- Exar Kun knows Energy Resistance. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-exar-kun-knows-energy-resistance-1.png]
+- A likely usage of Energy Resistance, Exar Kun deflects a magic blast from Aleema Keto. (issue unknown (source not named in thread)) [panel: panels/exar-kun/exar-kun-likely-usage-energy-resistance-exar-kun-deflects-1.png]

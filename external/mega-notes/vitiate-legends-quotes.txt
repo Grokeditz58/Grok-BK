@@ -1,0 +1,279 @@
+Tenebrae / Vitiate / Valkorion — feat and cited-statement extraction
+Source: Wookieepedia/Fandom article “Tenebrae” (Legends)
+Scope: Article body through “Notes and references”; navigation, infobox trivia, image captions, and non-feat material omitted. Wording below is copied from the article; citation numbers in brackets are the article’s citation markers.
+
+[Opening summary / epigraph]
+STATEMENT (character claim): “My life spans millennia. Legions have risen to test me… My ascendance is inevitable. A day, a year, a millennium—it matters not. I hold the patience of stone and the will of stars. Your striving is insignificant. Let your death be the same.” —The Sith Emperor to the Hero of Tython [13]
+
+[Opening summary]
+• “Tenebrae—known to the Old Sith Empire as Darth Vitiate, his reconstituted Sith Empire as the Sith Emperor, Vitiate, and his Eternal Empire as the Immortal Emperor, Valkorion—was an ancient dark-side entity of enormous power who manipulated galactic affairs for nearly 1,500 years.” STATEMENT (“enormous power”); the article connects the manipulation to galactic affairs and a nearly 1,500-year span.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “Born in 5113 BBY as the illegitimate Sith son of Lord Dramath in the Old Sith Empire, Tenebrae carved a path of destruction across the planet Medriaas, torturing and massacring thousands by the age of ten.” FEAT; scaling/connection: thousands of Medriaas inhabitants were victims by age ten.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “When Dramath confronted him, Tenebrae severed his father's power and imprisoned his spirit for millennia of torment.” FEAT; scaling/connection: Lord Dramath, his father.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “Following Naga Sadow's defeat in the Great Hyperspace War, Vitiate lured the remaining Sith Lords to Nathema and, in an elaborate ritual, drained their life essence and that of the entire planet, increasing his powers and prolonging his life.” FEAT; scaling/connection: the remaining Sith Lords and the entire planet of Nathema.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “The deaths caused by the conflict would fuel a new ritual that would allow him to consume almost everything in the galaxy and become an all-powerful god.” STATEMENT/goal, not a completed feat.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “The Emperor dominated their minds” (Revan and Malak), though “the pair soon broke free from his control.” FEAT with stated scaling: Revan and Malak.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “A redeemed Revan waged a mental war against the Emperor, delaying the Great Galactic War by three centuries.” FEAT/interaction; scaling/connection: Revan’s mental resistance and influence delayed the war.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “Vitiate's spirit fed off the battle and reawakened, then struck against his former Empire and consumed the planet Ziost to return to full power.” FEAT; scaling/connection: the battle’s death/chaos empowered him, and Ziost was consumed.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+• “The Immortal Emperor counseled and shaped the Outlander into a vessel of supreme power as the champion defeated Arcann, then his daughter Vaylin, and disabled the Eternal Fleet.” FEAT/statement about the vessel; scaling/connection: the Outlander, Arcann, Vaylin, and the Eternal Fleet.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Tenebrae" rev 15726991 but it has no inline citation in its paragraph; exact text match)
+
+[Biography — Childhood on Medriaas]
+• “Around the age of six, Tenebrae began to manifest signs of strength in the Force.” FEAT/early manifestation.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Tenebrae fed off the man's anger to fuel his own strength in the dark side, and he used his newfound powers to telekinetically break the farmer's neck.” FEAT; scaling/connection: his adoptive/farmer stepfather.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Tenebrae then tortured his mother for months with the Force before killing her for betraying their family, and began to subjugate the other members of his village with his powers.” FEAT; scaling/connection: his mother and village.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Over the course of the next four years, Tenebrae's influence and reputation grew as he conquered neighboring villages and raised legions of followers.” FEAT; scaling/connection: neighboring villages and legions of followers.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Tenebrae massacred thousands during his rise to power, and tortured people for days in public executions as he fed off their suffering.” FEAT; scaling/connection: thousands and the people subjected to the executions.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “After revealing his true parentage, Tenebrae stripped Dramath of his power in the Force and drove the man insane before killing him.” FEAT; scaling/connection: Lord Dramath.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “It took the child three years to subjugate the world, and any of Lord Dramath's subordinate Sith Lords who attempted to seize the throne fell quickly before Tenebrae's power.” FEAT; scaling/connection: all of Medriaas and subordinate Sith Lords.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+
+[Biography — Sith Lord of Nathema]
+• STATEMENT (recognition, not a direct combat feat): “Acknowledging the thirteen-year-old's power, Ragnos granted Tenebrae the right to rule Medriaas as his own and elevated him to the rank of Sith Lord, bestowing the title of Lord Vitiate upon him.” Scaling/connection: Marka Ragnos, Dark Lord of the Sith.
+• “Vitiate proceeded to build a palace upon the site of his childhood home and ruled the planet for one hundred years, spending much of that time studying the secrets of the dark side.” Stated longevity/study.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Vitiate had never participated in any battles or conquests during his reign, and had a reputation of being a reclusive scholar.” STATEMENT about reputation, not a feat.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “When the eight thousand Sith who answered Vitiate's call arrived at his palace, he dominated their minds and bound their wills to his, forcing the Sith to participate in the ritual.” FEAT; scaling/connection: 8,000 Sith.
+  Source: Star Wars: The Old Republic — Codex: "Galactic History 31: The Ritual of Nathema" ; The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 20,1; exact text match]
+• “The ritual took ten days to perform, with the entire planet frozen in the grip of the dark-side sorcery, and upon its completion, all life on the surface of Nathema was annihilated, save for Vitiate.” FEAT; scaling/connection: all surface life on Nathema, with Vitiate surviving.
+  Source: Star Wars: The Old Republic Encyclopedia ; The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 2,1; exact text match]
+• “The man absorbed the life force of the entire world, stripping the Force from the very fabric of reality on Nathema and gaining both unimaginable power and immortality as a result.” FEAT; scaling/connection: the entire world of Nathema. “Unimaginable power” and “immortality” are the article’s stated result.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+
+[Biography — Rebuilding an empire]
+• “One of his first actions was to select twelve Force-sensitive pureblood Sith to become his Hand: twelve Servants who shared their master's longevity in exchange for allowing him to draw on their strength in order to sustain his powers.” FEAT/ability; scaling/connection: twelve Force-sensitive Sith Servants.
+  Source: Star Wars: The Old Republic Encyclopedia [per Wookieepedia "Tenebrae" rev 15726991, ref 2; exact text match]
+• “The Emperor performed powerful dark-side rituals to steal the knowledge and life essences of his enemies in the structure's depths and transformed the area into a nexus of dark Force energy.” FEAT; scaling/connection: enemies interred in the Dark Temple.
+  Source: Star Wars: The Old Republic — Codex: "The Dark Temple" [per Wookieepedia "Tenebrae" rev 15726991, ref 26; exact text match]
+• “Those rituals soon also affected Dromund Kaas's atmosphere, causing the skies to be filled with perpetual rainstorms and lightning.” FEAT/environmental effect; scaling/connection: the planet Dromund Kaas.
+  Source: Star Wars: The Old Republic — Codex: "Galactic History 33: Dromund Kaas" [per Wookieepedia "Tenebrae" rev 15726991, ref 24; exact text match]
+• “Lokess' eleven co-conspirators died in a flash of light on the Citadel steps, and Lokess disappeared forever into the bowels of the structure as the Emperor tortured and then finally killed her.” FEAT; scaling/connection: eleven Dark Council co-conspirators and Darth Lokess.
+  Source: Star Wars: The Old Republic Encyclopedia [per Wookieepedia "Tenebrae" rev 15726991, ref 2; exact text match]
+• “Another one of the Emperor's experiments in the Dark Temple led to the creation of the Ravager, a device that consumed its victims' minds and forced them to reveal their greatest secrets as they died.” FEAT/creation; the article states that “Not even members of the Dark Council could withstand the Ravager.” Scaling/connection: Dark Council members and other victims.
+  Source: Star Wars: The Old Republic — Sith Warrior Mission: "An Ancient Answer" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 37; exact text match]
+
+[Biography — Testing the Republic]
+• “In his studies, he discovered a way to magnify the ritual he had performed on Nathema so that it would affect the entire galaxy, and he intended to use war with the Republic as a way to fuel that ritual.” STATEMENT/plan, not a completed galaxy-consuming feat.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "An Unthinkable Alliance" on the Emperor's Fortress [per Wookieepedia "Tenebrae" rev 15726991, ref 38; exact text match]
+• “The Emperor's emissary was also manipulating Mandalore with the power of the dark side, binding the warrior and convincing him to launch a war against the Republic in order to test its strength.” FEAT through an emissary; scaling/connection: Mandalore the Ultimate and the Republic.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “When Revan and Malak finally infiltrated the Emperor's throne room in an attempt to kill him, the Sith dominated their minds just as he had done so many years ago to the Sith Lords on Nathema.” FEAT; scaling/connection: Revan, Malak, and the earlier 8,000 Sith Lords.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Breaking their wills, the Emperor forcibly converted the pair to the dark side and declared them Darth Revan and his apprentice, Darth Malak.” FEAT; scaling/connection: Revan and Malak.
+  Source: The Old Republic: Revan ; Timeline 8: The Jedi Civil War on The Old Republic's official website (article) (backup link) [per Wookieepedia "Tenebrae" rev 15726991, ref 1,42; exact text match]
+
+[Biography — Conspiracies]
+• “The Emperor summoned nine members of the Council, seven of whom were loyal and two who were conspirators, to his chambers in the Citadel and killed them.” FEAT; scaling/connection: nine Dark Council members.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “The three members of the Dark Council were caught entirely by surprise, and the Guard decimated their entire power bases as well as the power bases of the other two conspirators.” FEAT carried out under his command; scaling/connection: five conspiratorial power bases.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Revan and his utility droid charged their enemy, causing the Emperor to blast the Jedi Master with the Force.” FEAT; scaling/connection: Revan.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “The Emperor attempted to dominate Revan's mind once again, but the Jedi opened himself to both the light and dark sides to unleash the Force in its purest form, an attack that sent the Emperor flying backward.” FEAT and stated resistance; scaling/connection: Revan’s attack sent the Emperor flying.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; approximate match 1.00, verify]
+• “The Sith unleashed a blast of Force lightning that sent him screaming to the floor, and blasted T3-M4 into shrapnel when the droid attacked with his flamethrower.” FEAT; scaling/connection: Revan and T3-M4.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “The Emperor decided to imprison Revan, prolonging his life indefinitely through a combination of Sith alchemy and technology,” while “the Emperor fed off Revan's strength and knowledge.” FEAT; scaling/connection: Revan.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “With the strength Surik lent him, Revan fought the Emperor's control and even influenced the Emperor in return, tempering the Sith leader's desire to restart war and postponing the renewal of conflict with the Republic for almost three centuries.” FEAT/interaction; scaling/connection: Revan and Meetra Surik influenced him.
+  Source: The Old Republic: Revan ; Star Wars: The Old Republic — Flashpoint: "Maelstrom Prison" [per Wookieepedia "Tenebrae" rev 15726991, ref 1,45; exact text match]
+
+[Biography — Final preparations and a new empire]
+• “In his studies, the Emperor discovered the rare technique of essence transfer to preserve his physical form from harm.” FEAT/ability.
+  Source: Star Wars: The Old Republic Encyclopedia [per Wookieepedia "Tenebrae" rev 15726991, ref 2; exact text match]
+• “Using the technique to transfer his life force between bodies, he created the position of Emperor's Voice—the host body of his consciousness and the ultimate extension of his will.” FEAT/ability; scaling/connection: multiple host bodies/Voices.
+  Source: Star Wars: The Old Republic — Codex: "The Voice of the Emperor" [per Wookieepedia "Tenebrae" rev 15726991, ref 4; exact text match]
+• “The Emperor's mental link with Revan also enabled the Emperor to torture the captured Force user, and both the Emperor and the Dread Masters spent centuries attacking Revan's mind, trying to break him and turn him to the dark side once more.” FEAT/ability; scaling/connection: Revan resisted the sustained mental attack.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "The Enemy Within" on Yavin 4 [per Wookieepedia "Tenebrae" rev 15726991, ref 47; exact text match]
+• “Vitiate took on a Human male body as a new Voice that went by the name ‘Valkorion,’ though he split his mind and energy between the Valkorion body and the numerous Voices that oversaw the Sith Empire's march to war.” FEAT/ability: simultaneous divided consciousness/energy across bodies.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Codex: "Valkorion" [per Wookieepedia "Tenebrae" rev 15726991, ref 51; exact text match]
+• STATEMENT (prophecy/persona claim, not a completed feat): “Valkorion” claimed to be “an immortal god of gods who would topple Izax the Ultimate Devourer and the rest of the Old Gods.”
+• “With Naga Sadow's spirit vanquished, the Emperor took Yavin 4 for his own, and established the Imperial Guard Academy there to guard the Temple of Sacrifice,” whose accompanying ritual “would allow the Emperor to absorb all life on the moon.” The absorption is stated as a failsafe plan, not a completed feat.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Codex: "Imperial Guard Academy" ; Star Wars: The Old Republic: Shadow of Revan — Mission: "The Devoted Ones" on Yavin 4 [per Wookieepedia "Tenebrae" rev 15726991, ref 32,60; exact text match]
+• “The Emperor also began to experiment with learning and combining different Force techniques in an effort to extend his reach and sight beyond the capabilities of his Hand alone.” Stated ability-development goal.
+  Source: The Old Republic, Blood of the Empire Act 1: Shades of the Sith ; The Old Republic, Blood of the Empire Act 2: The Broken World ; Star Wars: The Old Republic Encyclopedia [per Wookieepedia "Tenebrae" rev 15726991, ref 11,62,2; approximate match 0.97, verify]
+
+[Biography — A renewed war]
+• “His meticulously calculated plans, in collaboration with the Imperial Military, resulted in a series of victories against the Republic in the Outer Rim Territories, including the successful capture of the Aparo sector.” FEAT/strategic accomplishment; scaling/connection: Republic and the Aparo sector.
+  Source: Timeline 6: Onslaught of the Sith Empire on The Old Republic's official website (article) (backup link) [per Wookieepedia "Tenebrae" rev 15726991, ref 64; exact text match]
+• “Through centuries of experimentation, he was developing a combination of mental domination and transference of his consciousness that would allow him to create his ‘Children’—the ultimate agents of his will.” STATEMENT/ability-development description, not a single combat feat.
+  Source: The Old Republic, Blood of the Empire Act 3: Burn the Future [per Wookieepedia "Tenebrae" rev 15726991, ref 66; exact text match]
+• “At different points during their training, each of the children spent weeks undergoing various rituals and processes in the depths of the Academy, culminating in an audience with the Emperor where they were infused with the Emperor's strength and bound to his mind and will.” FEAT/ability; scaling/connection: the Emperor’s Children.
+  Source: The Old Republic, Blood of the Empire Act 3: Burn the Future ; Star Wars: The Old Republic — Jedi Consular Mission: "Chaos and Harmony" on Corellia [per Wookieepedia "Tenebrae" rev 15726991, ref 66,72; exact text match]
+• “Vaylin… inherited her father's immense power—she made furniture move while still in the womb, and tore apart droids as a toddler.” STATEMENT linking Vaylin’s power to her father; concrete feats belong to Vaylin, not directly to Tenebrae.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter VII: The Lady of Sorrows [per Wookieepedia "Tenebrae" rev 15726991, ref 54; exact text match]
+• “Valkorion's ‘solution’ was to install mental blocks that separated Vaylin from most of her powers and suppressed her violent and sociopathic tendencies.” FEAT/mental manipulation; scaling/connection: Vaylin.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter VII: The Lady of Sorrows [per Wookieepedia "Tenebrae" rev 15726991, ref 54; exact text match]
+
+[Biography — Cold War]
+• “The Emperor retained an iron grip on the hearts and minds of his people despite his seemingly apathetic role in governing them.” STATEMENT about influence, not a discrete feat.
+  Source: The Old Republic: Fatal Alliance [per Wookieepedia "Tenebrae" rev 15726991, ref 82; exact text match]
+• “The Emperor studied his captive's abilities throughout the Cold War, utilizing the Voss's prophetic powers to see visions of the future.” FEAT/ability; scaling/connection: his captive Voss Mystic.
+  Source: Star Wars: The Old Republic — Sith Warrior Mission: "Request An Audience" on Voss [per Wookieepedia "Tenebrae" rev 15726991, ref 84; exact text match]
+• “When the Emperor chose that moment to take control of [Kira Carsen],” he “took full control of Carsen when Angral fell to the Jedi's blade,” until Carsen severed the connection with a wall of light. FEAT; scaling/connection: Kira Carsen and her Jedi Master.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Fate of the Jedi" on the Oppressor [per Wookieepedia "Tenebrae" rev 15726991, ref 81; exact text match]
+
+[Biography — The Jedi threat]
+• “Without Revan's influence, the Emperor accelerated his plans for galactic annihilation and fueled the flames of war across the galaxy.” FEAT/strategic consequence; scaling/connection: Revan’s influence had previously restrained him.
+  Source: Star Wars: The Old Republic — Flashpoint: "Maelstrom Prison" [per Wookieepedia "Tenebrae" rev 15726991, ref 45; exact text match]
+• “The Emperor let loose a blazing storm of violet lightning that sent Narezz and Sedoru crashing to the floor while Braga, Carsen, and the Hero struggled to deflect it.” FEAT; scaling/connection: Leeha Narezz, Warren Sedoru, Tol Braga, Kira Carsen, and the Hero of Tython.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Descent" on the Emperor's Fortress [per Wookieepedia "Tenebrae" rev 15726991, ref 91; exact text match]
+• “The Emperor then summoned a ball of Force lightning in his hands and unleashed his full power against the Hero, throwing the Jedi to the floor as the Emperor began to dominate the minds of his fallen enemies.” FEAT; scaling/connection: the Hero and the fallen strike team.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Descent" on the Emperor's Fortress [per Wookieepedia "Tenebrae" rev 15726991, ref 91; exact text match]
+• “True to his word, the Emperor bound the Jedi to his will and turned them to the dark side,” and servants retrained them as Sith and loyal agents. FEAT; scaling/connection: the Hero of Tython, Kira Carsen, Tol Braga, Leeha Narezz, and Warren Sedoru.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "An Unthinkable Alliance" on the Emperor's Fortress [per Wookieepedia "Tenebrae" rev 15726991, ref 38; exact text match]
+• “The former Emperor's Wrath revealed to the Jedi Council that the Emperor intended to complete the life-consuming ritual again on a galactic scale, but the ritual required a sacrifice of billions of simultaneous deaths to start.” STATEMENT/requirement for a planned ritual, not a completed feat.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "An Unthinkable Alliance" on the Emperor's Fortress [per Wookieepedia "Tenebrae" rev 15726991, ref 38; exact text match]
+• “The Emperor orchestrated an Imperial attack to serve as a distraction so that Krannus could detonate the planet's power core; the resulting explosion would ripple through hyperspace and consume all of the neighboring systems.” STATEMENT/plan, not a completed feat.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Anarchy" on Belsavis ; Star Wars: The Old Republic — Jedi Knight Mission: "Lockdown" on Belsavis [per Wookieepedia "Tenebrae" rev 15726991, ref 97,98; exact text match]
+
+[Biography — Voices and pawns]
+• “In a moment of strength, the Emperor was able to send a message to the Hand that explained his predicament.” FEAT while Sel-Makor had silenced him and cut him off from the Hand; scaling/connection: the Emperor’s Hand.
+  Source: Star Wars: The Old Republic — Sith Warrior Mission: "Request An Audience" on Voss [per Wookieepedia "Tenebrae" rev 15726991, ref 84; exact text match]
+• “That allowed the essence of the Emperor to return to his Hand, who aided their master in inhabiting the body of a Human male.” FEAT/ability; scaling/connection: his Hand and a new host.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• The article describes Fulminiss as “a renowned Sith sorcerer who excelled at mass extinction through Sith magic”; this is a statement about the Emperor’s agent, not a feat attributed directly to Tenebrae.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Mysterious World" on Voss [per Wookieepedia "Tenebrae" rev 15726991, ref 104; exact text match]
+
+[Biography — A doomed confrontation]
+• “The Emperor summoned three mindform duplicates of himself to attack the Knight.” FEAT/ability; scaling/connection: the Hero of Tython.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• “Both the Emperor and his phantoms utilized Sith magic and lightning as they battled the Hero and T7-O1, vanishing and reappearing within the dimly lit chamber to toy with his opponent's senses.” FEAT; scaling/connection: the Hero and T7-O1.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• “The Emperor acknowledged his enemy's immense power” — CHARACTER STATEMENT/acknowledgment, not an independent feat; the enemy is the Hero of Tython.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• “The Emperor's essence left his fallen Voice and warned the Hero that he would take the Jedi with him if he had to die, releasing a massive amount of dark-side energy from the body of the Voice as a final defiant act.” FEAT; scaling/connection: the Hero and the Dark Temple.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• “The energy rippled through the Dark Temple and began to collapse the structure.” FEAT/environmental effect; scaling/connection: the Dark Temple.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+
+[Biography — A restless sleep]
+• “The Emperor's essence returned to the care of the Hand and entered a deep slumber on Yavin 4 in order to recuperate, as the battle with the Hero had grievously wounded his spirit.” FEAT/continuance after host-body defeat; scaling/connection: the Hero of Tython.
+  Source: Star Wars: The Old Republic — The message The Emperor's Absence from Servant One of the Emperor's Hand ; Star Wars: The Old Republic: Shadow of Revan — Mission: "Confederacy" on Yavin 4 [per Wookieepedia "Tenebrae" rev 15726991, ref 115,58; exact text match]
+• “Hidden among the dark-side energies of Yavin 4, Vitiate slowly recovered from the devastating injury that the Hero had dealt him by killing the Voice.” FEAT/ability; scaling/connection: the Hero and the destroyed Voice.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "Confederacy" on Yavin 4 ; Star Wars: The Old Republic — The message Unleashing the Wrath from Servant One of the Emperor's Hand [per Wookieepedia "Tenebrae" rev 15726991, ref 58,117; approximate match 0.97, verify]
+
+[Biography — Awakened once more]
+• “The Emperor had been feeding off of the death and chaos generated by the battle on Yavin 4, and now had the capacity to flee the moon.” FEAT; scaling/connection: the battle’s death and chaos.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "The Enemy Within" on Yavin 4 [per Wookieepedia "Tenebrae" rev 15726991, ref 47; exact text match]
+• “Extending his influence across the globe, he began to possess the planet's population, and fed off of the chaos and death that his puppets caused—allowing him to become stronger and possess more of Ziost's population.” FEAT; scaling/connection: Ziost’s population.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "A Presence on Ziost" on Ziost [per Wookieepedia "Tenebrae" rev 15726991, ref 123; exact text match]
+• “His control hold over Surro was so strong that he immediately reasserted control” after an electrostatic field broke his hold over most of the city. FEAT; scaling/connection: Master Surro and the allied Republic/Imperial countermeasure.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "Dead Center" on Ziost [per Wookieepedia "Tenebrae" rev 15726991, ref 125; exact text match]
+• “A wave of dark-side energy rolled across the globe, turning all living things to ash and leeching the Force from the world to revitalize him.” FEAT; scaling/connection: all living things on Ziost and Ziost’s Force.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "The End of It All" on Ziost [per Wookieepedia "Tenebrae" rev 15726991, ref 126; exact text match]
+• “His hunger sated, the Force entity departed the now-barren world and vanished into the Unknown Regions, where he consolidated his entire essence into the Valkorion body.” FEAT/ability; scaling/connection: Ziost and the Valkorion body.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt [per Wookieepedia "Tenebrae" rev 15726991, ref 12; exact text match]
+
+[Biography — The Outlander]
+• “Valkorion—who was well aware of the visitors—deployed the Eternal Fleet. Marr's expedition was wiped out.” FEAT/command; scaling/connection: Darth Marr’s joint Republic–Imperial expedition.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt [per Wookieepedia "Tenebrae" rev 15726991, ref 12; exact text match]
+• “Valkorion offered to share his power and influence with his prisoners, and killed Marr with an enormous blast of lightning.” FEAT; scaling/connection: Darth Marr.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt [per Wookieepedia "Tenebrae" rev 15726991, ref 12; exact text match]
+• “Arcann betrayed his father at that moment and Valkorion was struck down—but the Force entity simply shifted his essence into the prisoner's mind.” FEAT/ability; scaling/connection: Arcann’s attack and the Outlander as host.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter I: The Hunt [per Wookieepedia "Tenebrae" rev 15726991, ref 12; exact text match]
+• “Though he was locked within the Outlander's mind, Valkorion did not possess his host's body. He instead manipulated the Outlander's dreams within their shared carbonite prison.” FEAT/mental influence; scaling/connection: the Outlander.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter II: A Dream of Empire [per Wookieepedia "Tenebrae" rev 15726991, ref 48; exact text match]
+• STATEMENT (Valkorion’s opinion): “Valkorion mocked his host, claiming that they were weak and that his children possess power that surpass those of Jedi or Sith.” Marked as a character claim, not an objective feat.
+• “Nonetheless, his subsequent assault proved that Valkorion had left at least some of his power within the Outlander, who drew on it to defeat Arcann at last.” FEAT/transfer of power; scaling/connection: the Outlander defeated Arcann.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter XVI: The Battle of Odessen [per Wookieepedia "Tenebrae" rev 15726991, ref 136; exact text match]
+
+[Biography — Reclaiming the Eternal Throne]
+• “He awakened Vaylin's mental conditioning by speaking the trigger words, and giving the Outlander another weapon to use against her.” FEAT/mental manipulation; scaling/connection: Vaylin and the Outlander.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter III: Dark Reunions [per Wookieepedia "Tenebrae" rev 15726991, ref 137; exact text match]
+• “Valkorion maintained enough of a grasp to attempt to warn against intrusion into the vaults beneath the Sanitarium” despite the void in the Force on Nathema and his presence fading in and out. FEAT/continued mental reach; scaling/connection: the Outlander’s mind and Nathema’s void.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter VII: Into the Void [per Wookieepedia "Tenebrae" rev 15726991, ref 140; approximate match 0.97, verify]
+• “Valkorion lashed out with his power, trying to force the Outlander to submit to his will.” FEAT; scaling/connection: the Outlander.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter IX: The Eternal Throne [per Wookieepedia "Tenebrae" rev 15726991, ref 6; approximate match 0.89, verify]
+• “Though the Outlander tried to resist, Valkorion shattered the mind of his unwilling host, forcing their very being into the depths of their own psyche.” FEAT; scaling/connection: the Outlander.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter IX: The Eternal Throne [per Wookieepedia "Tenebrae" rev 15726991, ref 6; exact text match]
+• “Holding the Emperor at bay, the Outlander used Dramath's holocron to break whatever hold he had over his children, who then allied with their onetime foe to destroy Valkorion.” FEAT/interaction; scaling/connection: the Outlander and Valkorion’s children.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter IX: The Eternal Throne [per Wookieepedia "Tenebrae" rev 15726991, ref 6; exact text match]
+• “Valkorion turned towards the throne… and tried to lash out one last time, but was struck down on the spot by the Outlander.” FEAT/defeat; scaling/connection: the Outlander, Senya, Arcann, and Vaylin immobilized him before the final strike.
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter IX: The Eternal Throne ; Star Wars: The Old Republic: Knights of the Eternal Throne — Codex: "The Fall of Valkorion" [per Wookieepedia "Tenebrae" rev 15726991, ref 6,142; exact text match]
+• “With a great burst of dark-side energy, the Immortal Emperor was gone, seemingly never to return.” FEAT/result; the article later describes a surviving essence/imprint in “Attempted rebirth.”
+  Source: Star Wars: The Old Republic: Knights of the Eternal Throne — Chapter IX: The Eternal Throne ; Star Wars: The Old Republic: Knights of the Eternal Throne — Codex: "The Fall of Valkorion" [per Wookieepedia "Tenebrae" rev 15726991, ref 6,142; exact text match]
+
+[Biography — Attempted rebirth]
+• “Vitiate… carved an ancient Sith ritual into his original body to act as a last resort in the event his body was harmed, infusing his body with a portion of his essence, which would immobilize the attacker(s) by putting them into a coma.” FEAT/contingency; scaling/connection: anyone harming the original body.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "The Lingering Darkness" on Odessen [per Wookieepedia "Tenebrae" rev 15726991, ref 143; exact text match]
+• “The plague would spawn an entity that would feed on the victims by connecting their minds and merging into an even stronger entity.” FEAT/ability; scaling/connection: victims linked into a stronger entity.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "The Lingering Darkness" on Odessen [per Wookieepedia "Tenebrae" rev 15726991, ref 143; exact text match]
+• “Lord Scourge and Kira Carsen discovered the location of Vitiate's original body and they destroyed it… This event led to the plague being released and rendering Scourge and Kira comatose for more than a year.” FEAT/effect; scaling/connection: Scourge and Kira Carsen.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "The Lingering Darkness" on Odessen [per Wookieepedia "Tenebrae" rev 15726991, ref 143; exact text match]
+• “The Scions of Zakuul… had prophesied their return ‘when it was time to die.’” CHARACTER PROPHECY/statement, not a feat.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Kira Carsen's ship [per Wookieepedia "Tenebrae" rev 15726991, ref 145; exact text match]
+• “Revan explained he could not rest until he knew Vitiate's spirit was banished forever, and warned that Vitiate was using his possessed victims to remake himself.” STATEMENT from Revan about the rebirth process.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Kira Carsen's ship [per Wookieepedia "Tenebrae" rev 15726991, ref 145; exact text match]
+• “Kira realized that the ritual carved into Tenebrae's original body was not a plague, but an imprint, an echo of his original self.” STATEMENT identifying the mechanism.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Satele Shan's Mindscape [per Wookieepedia "Tenebrae" rev 15726991, ref 146; exact text match]
+• “The three forms all declared themselves endless.” CHARACTER CLAIM/statement, not proof of endlessness.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Satele Shan's Mindscape [per Wookieepedia "Tenebrae" rev 15726991, ref 146; exact text match]
+• Satele Shan stated that “he could have dominated any one of her students, but instead chose to dominate them all, as well as their master, all to prove he was still powerful.” CHARACTER OPINION/statement; scaling/connection: Satele Shan, her students, and the Commander’s opponents.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Satele Shan's Mindscape [per Wookieepedia "Tenebrae" rev 15726991, ref 146; exact text match]
+• “In the end, Tenebrae's power was not enough to save him, as the Commander and their allies withstood the power of the Emperor's many forms.” FEAT/result; scaling/connection: the Alliance Commander and allies resisted the three forms.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Satele Shan's Mindscape [per Wookieepedia "Tenebrae" rev 15726991, ref 146; exact text match]
+• “Defeated, the other two guises of the Emperor were petrified and the Tenebrae form reached out defiantly one final time, before he too turned to stone and crumbled to dust.” FEAT/result; scaling/connection: the Commander and allies.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Satele Shan's Mindscape [per Wookieepedia "Tenebrae" rev 15726991, ref 146; exact text match]
+
+[Biography — Legacy]
+• “The Emperor ruled the Empire for over 1,300 years, and during that time, he exerted an enormous psychological influence on his people.” STATEMENT; scaling/connection: the people of the Empire.
+  Source: Star Wars: The Old Republic — Imperial Mission: "Return to the Front" on Balmorra [per Wookieepedia "Tenebrae" rev 15726991, ref 147; exact text match]
+• “In the Empire, he was viewed as both a god and king—almost every citizen of the Empire was more than willing to sacrifice his or her life in the service of their Emperor.” STATEMENT about subjects’ view and loyalty, not a direct feat.
+  Source: Star Wars: The Old Republic — Imperial Mission: "Return to the Front" on Balmorra [per Wookieepedia "Tenebrae" rev 15726991, ref 147; exact text match]
+• “Valkorion was considered to be essentially a god to his people, having toppled Zakuul's original religion. Zakuulans believed Valkorion to be truly immortal, guiding the Eternal Empire to prosperity for centuries.” STATEMENT/belief, not proof of literal godhood.
+  Source: Star Wars: The Old Republic: Knights of the Fallen Empire — Chapter VII: The Lady of Sorrows [per Wookieepedia "Tenebrae" rev 15726991, ref 54; exact text match]
+• STATEMENT (character opinion): “Thousands of years after the Emperor's death, the Dark Lord of the Sith Darth Plagueis—himself obsessed with achieving immortality—mused that Emperor Vitiate… was the only Sith Lord in history who had come close to achieving the secret.” Scaling/comparison: Darth Plagueis’s comparison to other Sith Lords; mark as opinion, not a feat.
+
+[Powers and abilities]
+• “There is no death; there is only the Force—and I am its master.” —The Sith Emperor [13] CHARACTER CLAIM/statement, not an independently verified feat.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match; agrees with the entry's own ref marker]
+• “Even as a child, the Sith Emperor possessed immense strength in the Force, and his abilities began to manifest themselves at the age of six.” STATEMENT plus the concrete feats that follow: “He used his newfound powers to snap his adoptive father's neck with a thought, and tortured his mother with the Force for months while feeding on her fear and pain.”
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Tenebrae's power at the age of thirteen was great enough for Marka Ragnos, the current Dark Lord of the Sith, to acknowledge the teenager's strength and grant him the title of Lord Vitiate.” STATEMENT/recognition; scaling/connection: Marka Ragnos.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Vitiate… became one of the most powerful practitioners of both Sith magic and alchemy throughout history, and [devised] complex rituals to warp reality and life itself.” STATEMENT (“most powerful”), not a quantified feat.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; approximate match 0.89, verify]
+• “He was able to dominate the minds of eight thousand Sith Lords and bind them to his will.” FEAT; scaling/connection: 8,000 Sith Lords.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “He then used their combined power to perform the most complex ritual of Sith magic ever performed, ripping the Force from the entire planet of Nathema and absorbing the combined life force of every living thing on the surface.” FEAT; scaling/connection: the 8,000 Sith and all life on Nathema. “Most complex… ever performed” is the article’s comparative statement.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “Lord Scourge suspected that the Emperor had not only absorbed the lives of those who had died in the ritual but was in fact feeding off their spirits to sustain his own throughout the centuries that followed.” CHARACTER SUSPICION/statement, not presented as independently confirmed.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “The technique of essence transfer allowed him to move his consciousness, which had been made immortal as a result of the ritual on Nathema, between bodies and sustain his life indefinitely.” FEAT/ability; scaling/connection: his own host bodies.
+  Source: Star Wars: The Old Republic — Codex: "The Voice of the Emperor" [per Wookieepedia "Tenebrae" rev 15726991, ref 4; exact text match]
+• “He could suppress his Children's personas and even their Force-sensitivity, making them the ultimate covert operatives, and further possess them like puppets.” FEAT/ability; scaling/connection: the Children of the Emperor.
+  Source: Star Wars: The Old Republic — Codex: "Children of the Emperor" [per Wookieepedia "Tenebrae" rev 15726991, ref 68; exact text match]
+• “His mind-control power at this point was strong enough to completely overwhelm the extremely strong wills of both Revan and Malak.” FEAT with explicit scaling: Revan and Malak; “extremely strong wills” is the article’s characterization.
+  Source: Star Wars: The Old Republic — Codex: "Children of the Emperor" [per Wookieepedia "Tenebrae" rev 15726991, ref 68; article sentence itself uncited (lead/summary); citation taken from the closest cited body passage, approximate match 0.97, verify]
+• “The Emperor's rituals on Dromund Kaas warped the planet's very atmosphere, creating perpetual lightning storms.” FEAT; scaling/connection: Dromund Kaas.
+  Source: Star Wars: The Old Republic — Codex: "Galactic History 33: Dromund Kaas" [per Wookieepedia "Tenebrae" rev 15726991, ref 24; exact text match]
+• “He could conjure Force barriers easily strong enough to block T3-M4's flamethrower and even strong lightsaber blows from his son Arcann.” FEAT; scaling/connection: T3-M4 and Arcann.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “His telekinetic prowess and power was so great that he could effortlessly perform great telekinetic feats without using hand gestures… even able to send the extremely powerful Revan flying across his throne room with barely an effort, and he effortlessly blasted the astromech droid T3-M4 into shrapnel with just a thought.” FEAT; scaling/connection: Revan and T3-M4. “Extremely powerful Revan” is the article’s statement.
+  Source: The Old Republic: Revan [per Wookieepedia "Tenebrae" rev 15726991, ref 1; exact text match]
+• “The Emperor was also extremely proficient in the use of Force lightning… proficient enough to single-handedly summon Force Storms strong enough to overwhelm Revan's Tutaminis and severely injure him.” FEAT; scaling/connection: Revan.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• “The Emperor was able to summon Sith magic, which enabled him to create physical duplicates of himself while battling the Hero of Tython.” FEAT; scaling/connection: the Hero of Tython.
+  Source: Star Wars: The Old Republic — Jedi Knight Mission: "Doomsday" on Dromund Kaas [per Wookieepedia "Tenebrae" rev 15726991, ref 13; exact text match]
+• “The Emperor's lightning also took on a variety of hues, being capable of summoning purple and crimson hues of lightning alike.” FEAT/ability.
+  Source: Star Wars: The Old Republic: Onslaught — Mission: "Echoes of Oblivion" on Satele Shan's Mindscape [per Wookieepedia "Tenebrae" rev 15726991, ref 146; exact text match]
+• “The Emperor was also proficient in abilities such as Force drain and sever, which he used to rip the Force from Nathema.” FEAT; scaling/connection: Nathema.
+  Source: Star Wars: The Old Republic — Codex: "Galactic History 31: The Ritual of Nathema" [per Wookieepedia "Tenebrae" rev 15726991, ref 20; exact text match]
+• “Tenebrae was able to project his spirit from across the galaxy, possessing an entire planet and annihilating it.” FEAT; scaling/connection: the entire planet and its inhabitants.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "A Presence on Ziost" on Ziost [per Wookieepedia "Tenebrae" rev 15726991, ref 123; exact text match]
+

@@ -1,0 +1,133 @@
+{
+ "package": "egvv1996-quote-QA-v3-CP3a-2026-11-09",
+ "created": "2026-11-09T20:13-06:00",
+ "scope": "4 of 51 EGVV crops in this package; 20 of 51 with CP1+CP2a+CP2b; remaining 31 unchecked",
+ "audit": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/AUDIT-QUOTE-QA-v3-CP3a-2026-11-09.md",
+ "paragraph_break": "A spaced slash ' / ' in verbatim is a paragraph separator, not a printed character. Slashes inside tokens are printed.",
+ "items": [
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p056-scan047-flurry-bakura-destroyed.jpg",
+   "status": "VERIFIED-CP3a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 47,
+   "scan": 47,
+   "printed": "56",
+   "native_boxes": [
+    {
+     "scan": 47,
+     "box": [
+      872,
+      766,
+      1565,
+      1532
+     ],
+     "label": "(scan 047 p.56, right col)"
+    }
+   ],
+   "opening": "For the Bakura mission against the Ssi-ruuk incursion, the *Flurry* was equipped with a prototype battle analysis computer (BAC).",
+   "ending": "sacrifice.",
+   "verbatim": "For the Bakura mission against the Ssi-ruuk incursion, the *Flurry* was equipped with a prototype battle analysis computer (BAC). The creation of famed Alliance strategist General Jan Dodonna, the BAC was linked to every navigation and combat computer in the Alliance task force to provide detailed composite images of the battle. / As a result of the emergency nature of the Bakura relief effort, the *Flurry* was assigned whatever Alliance starfighters were still operational: Captain Manchisco got twenty X-wings, three A-wings, and four B-wings. Fortunately, the X-wings included Rogue Squadron, under the command of Wedge Antilles. While Alliance command knew that the B-wings were quite likely to break down (because there hadn't been time for a thorough maintenance overhaul following the Battle of Endor), it was thought that their firepower would give the task force some much-needed punch, even if that help would be only temporary. / The *Flurry* was destroyed over Bakura when the Imperial Carrack cruiser *Dominant* suddenly opened fire on her. All hands were lost and were posthumously decorated for their heroic sacrifice.",
+   "old_sha256": "d6f15acac8ebcbd1e211f8709ff5cecd0dd8c722921c99998c8f5dde4e8f9742",
+   "new_sha256": "37803240864b376d413c168dfe7c5377e24aed067c9dfaa8695ab1905612326b",
+   "size": "693x804",
+   "bytes": 196312,
+   "method": "native 200ppi pdfimages crop of the targeted Bakura-destroyed passage (sources extracted this run to /tmp/cp3a/src); single right-column part, no resampling or masking; visual word-for-word readback against native source; replaced a pre-QA RGB screenshot that included nearly the entire p.56 entry, the ship art, and a sliver of facing p.57",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp3a-pre-20261109-200535/ (old SHA256); also backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p060-scan049-hapan-battledragon-recharge.jpg",
+   "status": "VERIFIED-CP3a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 49,
+   "scan": 49,
+   "printed": "60",
+   "native_boxes": [
+    {
+     "scan": 49,
+     "box": [
+      140,
+      833,
+      830,
+      1232
+     ],
+     "label": "(scan 049 p.60, left col)"
+    }
+   ],
+   "opening": "Hapes lags significantly behind in turbolaser technology, with a weapon-recharge rate only one-third that of comparable Imperial weapons.",
+   "ending": "place.",
+   "verbatim": "Hapes lags significantly behind in turbolaser technology, with a weapon-recharge rate only one-third that of comparable Imperial weapons. While the actual blasts are as damaging, the slow recharge rate is a significant liability. / The Hapans compensated for this by developing a superior “weapon rotation” system. All the weapons are mounted on a drive system that rotates around the saucer: weapons are moved to the optimal target point, fired, and immediately moved away for recharging, while new weapons are instantly moved into place.",
+   "old_sha256": "dba640f3e20fc30743c57f8531075864bfe785b32c4b45357680f5baf938797e",
+   "new_sha256": "f23d9b37816fb669baf563c93239466e07b1719c58ea6fa529616e6d0b6c0de7",
+   "size": "690x437",
+   "bytes": 110591,
+   "method": "native 200ppi pdfimages crop of the targeted weapon-recharge passage (sources extracted this run to /tmp/cp3a/src); single left-column part, no resampling or masking; visual word-for-word readback against native source; replaced a pre-QA RGB screenshot that included nearly the entire p.60 entry, the heading, ship art, and a sliver of facing p.61",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp3a-pre-20261109-200535/ (old SHA256); also backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p062-scan050-hapes-nova-recycle.jpg",
+   "status": "VERIFIED-CP3a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 50,
+   "scan": 50,
+   "printed": "62",
+   "native_boxes": [
+    {
+     "scan": 50,
+     "box": [
+      872,
+      510,
+      1565,
+      914
+     ],
+     "label": "(scan 050 p.62, right col)"
+    }
+   ],
+   "opening": "Because of the Hapans' limited turbolaser technology, Hapes Nova cruisers must choose their battles carefully.",
+   "ending": "borders.",
+   "verbatim": "Because of the Hapans' limited turbolaser technology, Hapes Nova cruisers must choose their battles carefully. Since the Hapan turbolasers take nearly three times as long as Imperial turbolasers to recycle, a Hapes Nova cruiser can find itself incapable of returning fire at the most inopportune time. To counteract this weakness, the Hapans often assign Hapes Nova cruisers in groups of three or more ships. Hapan captains tend to favor swift, brutal assaults, intending to destroy all enemy ships with the first attack. This approach has added to the Hapans' reputation for vigorously defending their borders.",
+   "old_sha256": "80471cd85f6524589250c31f540caa74fbbce14594e1e5dd7e9517d4b09429d3",
+   "new_sha256": "1b491abd9f4443aa0fbd3e931a2776d749ca23f44f6423306ad252cf46e6393e",
+   "size": "693x442",
+   "bytes": 102203,
+   "method": "native 200ppi pdfimages crop of the targeted turbolaser-recycle passage (sources extracted this run to /tmp/cp3a/src); single right-column part, no resampling or masking; visual word-for-word readback against native source; replaced a pre-QA RGB screenshot that included nearly the entire p.62 entry, the heading, ship art, and a sliver of facing p.63",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp3a-pre-20261109-200535/ (old SHA256); also backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p064-scan051-hornet-unstable-lasers.jpg",
+   "status": "VERIFIED-CP3a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 51,
+   "scan": 51,
+   "printed": "64",
+   "native_boxes": [
+    {
+     "scan": 51,
+     "box": [
+      872,
+      653,
+      1565,
+      842
+     ],
+     "label": "(scan 051 p.64, right col)"
+    }
+   ],
+   "opening": "The Hornet's weaponry is an unusual hybrid of turbocharged laser cannons.",
+   "ending": "uses.",
+   "verbatim": "The Hornet's weaponry is an unusual hybrid of turbocharged laser cannons. While not full turbolasers, these weapons have more punch than do standard laser cannons, although they also become dangerously unstable after only a few uses.",
+   "old_sha256": "5bd64cbb8f2b86a93e734cd08a86783e10ecd4aaf268d2341846d32f588ef5fb",
+   "new_sha256": "ee66a96b3539e2f20715331be47a5433baabd9bc526cd843d676a1c009aa2d02",
+   "size": "693x227",
+   "bytes": 51355,
+   "method": "native 200ppi pdfimages crop of the targeted unstable-lasers passage (sources extracted this run to /tmp/cp3a/src); single right-column part, no resampling or masking; visual word-for-word readback against native source; replaced a pre-QA RGB screenshot that included nearly the entire p.64 entry, the heading, ship art, and a sliver of facing p.65",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp3a-pre-20261109-200535/ (old SHA256); also backup-pre-v3/148.sha"
+  }
+ ]
+}

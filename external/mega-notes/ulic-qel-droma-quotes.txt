@@ -1,0 +1,118 @@
+Ulic Qel-Droma research extraction
+
+Source page: https://starwars.fandom.com/wiki/Ulic_Qel-Droma/Legends
+Final URL: https://starwars.fandom.com/wiki/Ulic_Qel-Droma/Legends
+Page continuity label: Legends (the page is categorized among “Legends articles”).
+Canon: No separate canon section appeared on this page; this file contains the Legends material only.
+Method note: The article was read through its biography, powers/abilities, legacy, and the “Notes and references” section. The reference list was scrolled through. Bracketed numbers below are the article’s own citation numbers.
+
+============================================================
+LEGENDS — feats and cited statements
+============================================================
+
+1. Early Jedi / Naddist-era feats
+Article sections: “Early life and Jedi training”; “Trouble on Onderon”; “The Naddist rebellion”; “Attack of the cultists”; “Battle with the dark side”.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Ulic Qel-Droma/Legends" rev 15671614 but it has no inline citation in its paragraph; exact text match)
+
+- The article says Qel-Droma “quickly mastered the techniques taught to him by Master Jeth” during training, and that he constructed his own lightsaber [6][7][10].
+  Source: Tales of the Jedi Companion [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 7; exact text match; agrees with the entry's own ref marker]
+- At the Iziz Royal Palace he battled dozens of Beast Riders at once and slew one of their drexl war mounts [6].
+  Source: Tales of the Jedi 1 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 6; approximate match 0.85, verify; agrees with the entry's own ref marker]
+- While under the pall of the dark side, he defeated the Dark Jedi Warb Null; Null’s dark power had sapped some of his strength, but Qel-Droma still killed him and defeated the cultists [14].
+  Source: Tales of the Jedi – The Freedon Nadd Uprising 1 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 14; approximate match 0.63, verify; agrees with the entry's own ref marker]
+- In the Naddist uprising, he created defensive barriers strong enough to repel blasts from a Basilisk war droid’s laser cannon. The article also says he drew on the light side to overcome dark attacks and killed Null and King Ommin after neutralizing their attempts to subdue him [15].
+  Source: Tales of the Jedi 2 ; Tales of the Jedi – Dark Lords of the Sith 2 ; Tales of the Jedi – The Freedon Nadd Uprising 2 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 13,19,15; approximate match 0.74, verify; agrees with the entry's own ref marker]
+- He used Force sight/precognition to function when his eyes were of no use and became proficient with Force-assisted prediction of attacks [11].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He developed mind tricks sufficiently to compel two Beast Riders to disarm themselves and explain the situation [13].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+2. Exar Kun comparison and the Sith amulets
+Article sections: “Path of no return”; “Destiny fulfilled”; “Powers and abilities — Lightsaber Combat”; “Powers and abilities — Force Powers”.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+- During the first confrontation with Exar Kun, the article says Qel-Droma engaged him in a lightsaber duel. Kun had a similar Sith amulet; the two amulets glowed, their auras enveloped the duelists, and the combined glow manifested Marka Ragnos. The duel was interrupted by Ragnos’s intervention, so the article does not record a winner [25].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Ragnos proclaimed Kun the new Dark Lord of the Sith and Qel-Droma Kun’s apprentice; Ragnos placed the Sith “Shadow Hand” mark on Qel-Droma’s forehead [25][26].
+  Source: Tales of the Jedi – Dark Lords of the Sith 6 ; Knights of the Old Republic Campaign Guide [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 25,26; approximate match 0.94, verify; agrees with the entry's own ref marker]
+- The article’s “Lightsaber Combat” section states that Qel-Droma fought Exar Kun “to a stalemate.” It describes this as a feat no one else replicated, notes that Kun had slain his great Jedi master in a duel, and says Kun was impressed and admitted Qel-Droma was a skilled duelist [25]. The “no one else” and Kun’s reaction are the article’s framing/character assessment, not an independent feat.
+  Source: Tales of the Jedi – The Freedon Nadd Uprising 1 ; Tales of the Jedi – Dark Lords of the Sith 6 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 14,25; per-sentence approximate match (1/2 sentences matched, min 0.67), verify; agrees with the entry's own ref marker]
+- The article’s “Force Powers” section reports a scaling statement attributed to Freedon Nadd’s spirit: Qel-Droma was regarded as the greatest Jedi Knight of his time and, as a Sith Lord, had potential to be among the greatest Sith Lords in history, capable of challenging even Exar Kun and “second only to him in terms of Force strength.” This is Nadd’s belief/prophecy as reported by the article, not a demonstrated victory over Kun.
+  Source: Tales of the Jedi Companion [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 7; article sentence itself uncited (lead/summary); citation taken from the closest cited body passage, approximate match 0.72, verify]
+- Aleema Keto gave Qel-Droma a powerful Sith amulet, originally Satal Keto’s. The article says he learned to use it to attack with blue-hued dark energy and used it against former Jedi friends [25]. When Cay and Nomi tried to retrieve him, Qel-Droma used the amulet to lash out; Cay and Toq had to use the Force to restrain him [25].
+  Source: Tales of the Jedi – Dark Lords of the Sith 6 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 25; per-sentence approximate match (4/4 sentences matched, min 0.72), verify; agrees with the entry's own ref marker]
+- The article separately says the Sith poison injected by Satal Keto amplified Qel-Droma’s rage and produced a Force scream that destroyed a small stone pillar and the torture droid; he later used the power to drive off Nomi, Cay, and Tott [24]. This is poison-amplified dark-side power, not necessarily an amulet feat.
+  Source: Tales of the Jedi – Dark Lords of the Sith 5 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 24; approximate match 0.72, verify; agrees with the entry's own ref marker]
+
+3. Sith War / military and Force feats
+Article sections: “The Sith War — Duel with the Mandalore”; “Striking at the heart”; “Schemes”; “Endgame”.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+- Qel-Droma learned to counter the Force Harvester for a short time, allowing him to approach the Dark Reaper without harm. He also learned to defeat the Dark Reaper by destroying its weapon emplacements and deactivating the Harvester [29].
+  Source: Star Wars: The Clone Wars video game [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 29; approximate match 0.79, verify; agrees with the entry's own ref marker]
+- At Raxus Prime he used the Dark Reaper to kill hundreds of Republic soldiers. The article says the Reaper itself killed thousands during the war [28][30].
+  Source: The Complete Star Wars Encyclopedia, Vol. I, p. 184 ("Dark Reaper") ; The New Essential Chronology [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 28,30; approximate match 0.92, verify; agrees with the entry's own ref marker]
+- He accepted Mandalore the Indomitable’s heavily favorable duel conditions: no mount or solid ground for Qel-Droma, while Mandalore could use his Basilisk war droid [27]. Qel-Droma evaded Mandalore’s laser fire, destroyed the Basilisk with one lightsaber stroke, commandeered another Basilisk, dismounted Mandalore, and won. He spared him and made him his lieutenant [27].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- After the victory over Mandalore, Qel-Droma’s forces raided Republic shipyards and supply bases. At Foerost, Krath and Mandalorian forces destroyed the Republic military presence; Qel-Droma obtained the operating codes for three hundred newly completed warships [27].
+  Source: Tales of the Jedi – The Sith War 1 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 27; per-sentence approximate match (2/3 sentences matched, min 0.72), verify; agrees with the entry's own ref marker]
+- In the Coruscant assault he used Aleema’s Sith illusions to conceal the approach, destroyed the troops defending the Republic war room, used the Force to control a surviving official’s mind, and ordered a fleet deployment intended to make Republic squadrons collide [31].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says that drawing on the dark side made him quick and agile enough to dodge dozens of blaster bolts at once. It also records a limit: Vodo-Siosk Baas tore Qel-Droma’s saber from his hand with the Force and immobilized him in a small wall of light, showing his Force shield was not perfect [27][31].
+  Source: Tales of the Jedi – The Sith War 1 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 27; per-sentence approximate match (1/2 sentences matched, min 0.75), verify; agrees with the entry's own ref marker]
+- His defeat of Mandalore is later described as having been used by Republic propaganda to demoralize Mandalorian warriors [42]. This is historical use of the feat, not a new combat feat.
+  Source: "Interference" on Hyperspace (article) (content obsolete and backup link not available) ; Timeline 10: The Exar Kun War on The Old Republic's official website (article) (backup link) [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 42,43; approximate match 0.74, verify; agrees with the entry's own ref marker]
+
+4. Ossus, Force severance, and immediate aftermath
+Article section: “The Sith War — Endgame”.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+- During the Ossus evacuation, Qel-Droma maneuvered behind Cay’s Nebulon Ranger and shot it down. Cay survived; Qel-Droma then defeated him in a lightsaber duel, severing Cay’s mechanical arm and striking him down [35].
+  Source: Tales of the Jedi – The Sith War 5 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 35; per-sentence approximate match (1/2 sentences matched, min 0.64), verify; agrees with the entry's own ref marker]
+- As Cay died, Nomi Sunrider imprisoned Qel-Droma in a wall of light and stripped him of his connection to the Force [35]. The article’s “Force Powers” section calls this a complete stripping of his connection and says she employed “sever Force” [34].
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 34; per-sentence approximate match (1/2 sentences matched, min 0.64), verify; agrees with the entry's own ref marker]
+- Immediately after being severed, Qel-Droma retained enough knowledge to lead Nomi, Vima, Tott, and the Jedi fleet to Yavin 4 and identify Kun’s location. The article says the Jedi fleet was thousands of ships strong and created a wall of light around Yavin 4; the conflagration below was large enough that nothing living there could survive [34].
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 34; per-sentence approximate match (2/3 sentences matched, min 0.71), verify; agrees with the entry's own ref marker]
+- After returning to the Jedi side, he taught the Jedi how to disable the Dark Reaper. He led Jedi to Thule, where they disabled it; the Force Harvester was detached and hidden on Raxus Prime, while the Reaper was buried under Thule’s city of Kesiak [29].
+  Source: Star Wars: The Clone Wars video game [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 29; per-sentence approximate match (2/3 sentences matched, min 0.80), verify; agrees with the entry's own ref marker]
+- For years he remained “blind and deaf to the Force”; at Yavin 4 he could feel nothing in Exar Kun’s former temple [34].
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 34; exact text match; agrees with the entry's own ref marker]
+
+5. Life after being cut off from the Force
+Article sections: “Redemption — Self-exile”; “A newfound apprentice”; “Death”; “Powers and abilities — Lightsaber Combat”.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+- Qel-Droma says: “The Force has abandoned me… I can feel nothing” [36]. The article says he remained cut off from the Force and viewed his still-operational lightsaber as “no more than a tool” [36].
+  Source: Tales of the Jedi – Redemption 2 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 36; exact text match; agrees with the entry's own ref marker]
+- Although he could no longer use Jedi powers, he retained his lightsaber skills. He sparred with and trained Vima Sunrider, and the article says he still possessed his lightsaber skills even though he could not feel the Force [36][39].
+  Source: Tales of the Jedi – Redemption 4 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 39; approximate match 0.65, verify; agrees with the entry's own ref marker]
+- After years in exile, he successfully defended himself against all of Sylvar’s fury-driven lightsaber attacks. He refused to be the aggressor, deactivated his saber, and stopped fighting; Sylvar ultimately put away her weapon [2].
+  Source: Tales of the Jedi – Redemption 2 ; Tales of the Jedi – Redemption 4 ; Tales of the Jedi – Redemption 5 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 36,39,2; per-sentence approximate match (2/3 sentences matched, min 0.80), verify; agrees with the entry's own ref marker]
+- In a chasm on Rhen Var, the spirit of Arca Jeth told him that although he might lack power in the Force, he still had inner strength. Qel-Droma then summoned enough strength to dig himself out [36]. This is an inner-strength feat, not a Force-use feat.
+  Source: Tales of the Jedi – Redemption 2 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 36; approximate match 0.61, verify; agrees with the entry's own ref marker]
+- Despite lacking a Force connection, he taught Vima everything he knew about the Jedi way and lightsaber use. He and Vima each made accurate ice sculptures; the article says Qel-Droma used his own skill rather than the Force [38][39].
+  Source: Tales of the Jedi – Redemption 5 ; Tales of the Jedi – Redemption 4 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 2,39; per-sentence approximate match (2/3 sentences matched, min 0.67), verify; agrees with the entry's own ref marker]
+- After death, his body disappeared in the manner of Jedi Masters and he became able to return as a Force ghost [2][29]. This postmortem ability should not be conflated with having regained a living Force connection.
+  Source: Tales of the Jedi – Redemption 5 ; Star Wars: The Clone Wars video game [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 2,29; per-sentence approximate match (1/2 sentences matched, min 0.70), verify; agrees with the entry's own ref marker]
+
+============================================================
+LEGENDS — hype, prophecy, and character opinions (not feats)
+============================================================
+
+- Vima Sunrider’s recorded statement says: “Ulic may no longer have been able to touch the Force, but he understood it more than any of us. He had the heart of a Jedi” [5]. This is Vima’s assessment, not a measurable feat.
+  Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 5; exact text match; agrees with the entry's own ref marker]
+- Freedon Nadd’s spirit said Qel-Droma would be one of the “great ones” [16]. This is a prediction/statement.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Ulic Qel-Droma/Legends" rev 15671614, ref 16; approximate match 0.83, verify; agrees with the entry's own ref marker]
+- The article reports Nadd’s belief that Qel-Droma could be among the greatest Sith Lords, could challenge Exar Kun, and was second only to Kun in Force strength. This is explicitly attributed to Nadd’s belief; it is not proof that Qel-Droma defeated or equaled Kun in Force power.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Exar Kun’s being “impressed” and admitting Qel-Droma was a skilled duelist is a character reaction, while the recorded stalemate is the concrete combat result [25].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Qel-Droma’s Senate claims about a coming Sith “Golden Age” are his own political claims, not feats [31][32].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+============================================================
+REFERENCE CHECK
+============================================================
+
+The article’s “Notes and references” list was scrolled through. Relevant article reference entries include: [2] Tales of the Jedi — Redemption 5; [5] Jedi vs. Sith: The Essential Guide to the Force; [6] Tales of the Jedi 1; [11] Tales of the Jedi audio drama; [13] Tales of the Jedi 2; [14]-[16] The Freedon Nadd Uprising / Dark Lords of the Sith; [24]-[25] Dark Lords of the Sith 5-6; [27] The Sith War 1; [29] Star Wars: The Clone Wars video game; [31]-[35] The Sith War 2-6; [36]-[39] Redemption 1-4; [42] Republic propaganda reference; and [46] Dark Empire endnotes.
+

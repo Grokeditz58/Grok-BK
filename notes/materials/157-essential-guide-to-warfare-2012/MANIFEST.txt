@@ -1,0 +1,37 @@
+notes157 The Essential Guide to Warfare (2012) — EOF seal
+Created: 2026-11-10 06:27:39 CST America/Chicago
+Source scan: MEGA kelkWboa (not included in package)
+Policy: notes + quote-evidence crops only; no PDF/full page-scans/secrets/git
+
+=== FILE MANIFEST (path  bytes  sha256) ===
+./COVERAGE.md  7884  069bd3236549fa461fdafc864e5850ff61a6000fb7053b819dbd2828f50c044d
+./README.md  2087  2910f5269afc8e5062eef7ed365288a9a6896ca8882f8490766c667179b4d38f
+./body/01-before-the-republic.md  26463  42d6e4702f7699144d3d5d9e050d5572aa441b801b32761086f910c63699b8b9
+./body/02-the-ancient-republic.md  50899  1608cfacb8ed42ec77647f36e65c17e83b4a689ce737fcccf5cadd5efd3e4efb
+./body/03-zenith-of-the-republic.md  36980  7a00b1fd59260e5138ae5bd5b9ba857580e39f7a09e07e6efec4edc6bada0b13
+./body/04-wars-with-the-sith.md  45580  59aca340c436f2ea8884dca56f4fa191c60557019da3cbee227507a30ad088be
+./body/05-decline-of-the-republic.md  54783  1808af304c320ef3fc6779a62c5c3c9c5bd4108467ab2664ce8c848a0487dcad
+./body/06-flashpoint-naboo.md  32462  78a896e78d673cecf0cd61dd9832fef595ae5953c396956aca3f6518cca18afc
+./body/07-begin-the-clone-war-does.md  41970  91c13d1d39c8b7198e4f746a82179a220b9beda43988c2e9fbdc1d0152e682e3
+./body/08-the-separatist-war-machine.md  39146  5a837f088c6e1915141d2058060aa2d4cf4dc1e0d3b030dc66286e22f4aed9b5
+./body/09-the-outer-rim-sieges.md  48139  4c7b3e7c8e809b566ba2a538cd3d225911c97be4570ed81c800be7e11f99975e
+./body/10-the-rise-of-the-empire.md  52281  f5a755ca463388d9c39349eb7785afeba1240c329f6b1028e6e07c553d0a9c0a
+./body/11-empire-triumphant.md  32802  84cf59531a8eb531ccadc2bdbd46907abefe33a433e0e8774e7be6033b537b4c
+./body/12-in-the-empires-service.md  36975  44d7a43c39472fa9311059eeac4bde1eeed3318b591e87557af8290c1a0b7525
+./body/13-the-origins-of-rebellion.md  26678  9bc993f0cdf53500af776cd0024ab49f622b38239783e6f6b42b65d726402883
+./body/14-the-alliance-strikes.md  40717  20c7e896f0e1fd922d0b42cb0c8592dee10c449c4859de08ea8a870b2abd0c45
+./body/15-when-the-empire-struck-back.md  62915  510854785fa4f75a18a1643fef1f13465c5b9b41e66472a1fc625946a4eee4f3
+./body/16-showdown-at-endor.md  37376  6be9cddcadbf524f0b8725c362afd71a053fce5b3880e1c0a53c5d9f1e81ec93
+./body/17-an-empire-in-fragments.md  59979  68ea362dab20bf77bfdd56f5709bfc938c67fc6f73357f82817949358e695dd0
+./body/18-end-of-an-empire.md  65551  0674d0ded3390b8979b57e7a66e97e733f7db25a79ffde438dd8bc4880c4fd7b
+./body/19-the-new-jedi-order.md  35169  41830c15bbf692c1e5824334dfcebd0763f90dde5cd3affc71ca12603dd01149
+./body/20-the-new-galactic-civil-war.md  37280  13dfef04ca74a364fc762059e020291ba3d1bf19e500fb202e4a6c384ebbb932
+./body/21-eternal-war.md  19541  4fa883d860c4e17a02046ef921975df22c385b7b4c4acbf8d5d736f342beebcc
+./front.md  12738  15ecb78ff449559e3fd68d9cadd0b4774352421b37ab80378d406251ac1a113c
+./back.md  20505  4311cffe929151faed45eea418122979f5fdc4da72af899385910a0922bb1d98
+./quotes/QUOTES-INDEX.md  2597  405c1b95daa2d97ac95fc0da2af4bd0e774bcb47796d9a23c0646fc2c9928e27
+./quotes/q01-ch21-epigraph-balmorran-proverb.jpg  226819  52c208a98fe3d976f7fbb430f478552353d5ee555461b4f60c22961b784cd55a
+./quotes/q01b-stazi-holomessage-closer.jpg  304746  919467f258a125c7f0341cfbb870e7f52558511c9c1dbb1c2cb4fe75fcc46a74
+./quotes/q02-author-bios-fry-urquhart.jpg  177469  f6127a99160c600b62f3fdd9c842d4da7595b19e920858ec359b6ef6d6e52f22
+./quotes/q02b-illustrator-bio-tommy-lee-edwards.jpg  128339  ef202e087331ddd21e02733f57cc4a03c724a579578b5f5eeb1732f4f030bd68
+./quotes/q03-backcover-blurb-and-closer.jpg  883059  d011a3bb2d5a5606817cf1ad7786544e90170676fdf621cc12812d6983fe8b4b

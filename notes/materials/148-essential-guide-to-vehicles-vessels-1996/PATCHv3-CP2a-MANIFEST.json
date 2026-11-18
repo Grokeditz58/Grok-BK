@@ -1,0 +1,286 @@
+{
+ "package": "egvv1996-quote-QA-v3-CP2a-2026-11-09",
+ "created": "2026-11-09T19:53-06:00",
+ "scope": "6 of 51 EGVV crops in this package; 10 of 51 with CP1; remaining 41 (6 already recut but no accepted audit + 35 untouched)",
+ "audit": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/AUDIT-QUOTE-QA-v3-CP2a-2026-11-09.md",
+ "paragraph_break": "A spaced slash ' / ' in verbatim is a paragraph separator, not a printed character. Slashes inside tokens (TIE/In, Griffyn/Y2TG) are printed.",
+ "items": [
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p008-scan023-a9-combat-disappointing.jpg",
+   "status": "VERIFIED-CP2a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 23,
+   "scan": 23,
+   "printed": "8",
+   "native_boxes": [
+    {
+     "scan": 23,
+     "box": [
+      900,
+      987,
+      1586,
+      1313
+     ],
+     "label": "(scan 023 p.8, right col)"
+    },
+    {
+     "scan": 23,
+     "box": [
+      926,
+      1313,
+      1586,
+      1386
+     ],
+     "label": "(right col cont.)"
+    },
+    {
+     "scan": 23,
+     "box": [
+      992,
+      1386,
+      1586,
+      1428
+     ],
+     "label": "(right col cont.)"
+    }
+   ],
+   "opening": "While Kuat Drive Yards promised the Empire a superior fighter, combat results have been consistently disappointing.",
+   "ending": "future New Republic fighters.",
+   "verbatim": "While Kuat Drive Yards promised the Empire a superior fighter, combat results have been consistently disappointing. While the ship is indeed faster than the TIE interceptor, it has been shown to be no more maneuverable, and its hull is actually significantly weaker. The Empire purchased a fighter that is as limited in its utility as is the New Republic's A-wing fighter. It is believed that Kuat designers are developing an *improved* A-9, which should be far tougher. New Republic technicians have thoroughly examined the A-9, and while not amazed by what they see, they intend to use some of its design elements in future New Republic fighters.",
+   "old_sha256": "177156370fcdef66a9af0e518d40d046ed7f4f68797980c978d2e7e3ef131bf0",
+   "new_sha256": "310df625740c9a4130994b20eeef34fd383afaa60c0a788622305e7b86bd9eb7",
+   "size": "686x591",
+   "bytes": 153396,
+   "method": "native 200ppi pdfimages crop, stacked staircase parts around art, visual word-for-word readback; rebuild byte-identical to installed file",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p010-scan024-awing-fragile-one-hit.jpg",
+   "status": "VERIFIED-CP2a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 24,
+   "scan": 24,
+   "printed": "10",
+   "native_boxes": [
+    {
+     "scan": 24,
+     "box": [
+      188,
+      750,
+      884,
+      1294
+     ],
+     "label": "(scan 024 p.10, left col)"
+    }
+   ],
+   "opening": "The small, wedge-shaped ship continues to be the Alliance's main interceptor fighter.",
+   "ending": "combat.",
+   "verbatim": "The small, wedge-shaped ship continues to be the Alliance's main interceptor fighter. It is an exceptionally difficult ship to fly because it is constantly pushing the limits of performance. The A-wing is constantly subjected to incredible stresses, and its engines, hull, and weapons systems require constant maintenance. Since it is only 9.6 meters long, each ship component is wedged into the cramped hull, and even the lightest hit can cause critical system failures. The pilot is almost totally exposed to enemy fire. / While fast, the A-wing is fragile and is easily damaged by enemy fire. One hit is often enough to destroy the vessel. A-wing pilots must rely on the ship's blistering speed and their own willingness to take foolish chances to survive in combat.",
+   "old_sha256": "32d04765711e9cbaef18cf1a4b3369cbd68c6a5811c0f5523eb21e272ec19ca2",
+   "new_sha256": "8f39639d48bcc0f75b595247e04f19a1ceb2c5367d9b15ed1088846c84ba09fa",
+   "size": "696x582",
+   "bytes": 150468,
+   "method": "native 200ppi pdfimages crop, single part, visual word-for-word readback; rebuild byte-identical to installed file",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p018-scan028-chariot-thrawn-hyllyard.jpg",
+   "status": "VERIFIED-CP2a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 28,
+   "scan": 28,
+   "printed": "18",
+   "native_boxes": [
+    {
+     "scan": 28,
+     "box": [
+      880,
+      1034,
+      1576,
+      1368
+     ],
+     "label": "(scan 028 p.18, right col)"
+    }
+   ],
+   "opening": "As Grand Admiral Thrawn prepared for his campaign against the New Republic, he conducted a systematic upgrade of the Chariot and other aging repulsorcraft.",
+   "ending": "Luke Skywalker toppled a ten-meter-tall stone arch on top of it.",
+   "verbatim": "As Grand Admiral Thrawn prepared for his campaign against the New Republic, he conducted a systematic upgrade of the Chariot and other aging repulsorcraft. The Chariot's laser cannon was replaced with a more powerful swivel gun. Thrawn used a command speeder to coordinate his search for Luke Skywalker and Mara Jade in the dense forests of Myrkr, at least until that command speeder was crushed in the town square of Hyllyard City when Luke Skywalker toppled a ten-meter-tall stone arch on top of it.",
+   "old_sha256": "d2e761b22f0cd59da134e00efac8533911a851bb9a0de5906ca93a006f83bc9b",
+   "new_sha256": "684c77251a7becc5be72a3a3c4fa1924981bec110306baf2d5152a722de6cd76",
+   "size": "696x372",
+   "bytes": 106841,
+   "method": "native 200ppi pdfimages crop, single part, visual word-for-word readback; rebuild byte-identical to installed file",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p022-scan030-cloakshape-combat-mods.jpg",
+   "status": "VERIFIED-CP2a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 30,
+   "scan": 30,
+   "printed": "22",
+   "native_boxes": [
+    {
+     "scan": 30,
+     "box": [
+      145,
+      958,
+      842,
+      1396
+     ],
+     "label": "(scan 030 p.22, left col)"
+    },
+    {
+     "scan": 30,
+     "box": [
+      884,
+      446,
+      1576,
+      1284
+     ],
+     "label": "(right col, continues)"
+    },
+    {
+     "scan": 30,
+     "box": [
+      1050,
+      1284,
+      1576,
+      1322
+     ],
+     "label": "(right col cont.)"
+    }
+   ],
+   "opening": "CloakShape fighters are designed for atmospheric and short-range space combat; their power plants aren't strong enough for prolonged missions in space.",
+   "ending": "proved him wrong.",
+   "verbatim": "CloakShape fighters are designed for atmospheric and short-range space combat; their power plants aren't strong enough for prolonged missions in space. In stock form, they lack a hyperdrive and are often paired with carrier ships. / Like many older fighters, the CloakShape trades speed for durability: in an era when starfighter designers are favoring firepower over a sturdy hull, the CloakShape promises to take a beating and bring the pilot home. / CloakShapes have been around so long that few of these vessels still meet the manufacturer's stock specifications. The designers built the ship to be easily modified, and it's not uncommon to find that only the original hull remains in a given ship. The hull has enough room for heavier thrusters, added weapons, or a larger fuel supply; with some work, a mechanic can even add shield generators. / There are also several after-market modification kits designed specifically for the CloakShape. One kit has a strap-on hyperdrive sled with a self-contained power generator, while another has a rear-mounted maneuvering fin that dramatically improves the CloakShape's handling. The maneuvering fin add-on is so common that most people think it is part of the ship's original design. Anyone with the time for hands-on work could probably produce a modified CloakShape that could compete with an Alliance Y-wing fighter, and have enough money left over to buy a used freighter. / The CloakShape destroyed on Nar Shaddaa included mounted fire-linked double laser cannons and a pair of concussion-missile launchers. Adding the launchers' large ammo bays meant stripping out the shield generators in order to make room. The bounty hunter thought his reinforced hull would be enough to get him through a battle; Shug Ninx's automated laser cannons proved him wrong.",
+   "old_sha256": "639ceda5951aff21594c8f0e27bdd3c4ebb7e52c1f3b6b9d33db7ef8dbf0f75f",
+   "new_sha256": "253b15f117563e399cf788bc162310e1ff75ece757d4174de911936490d26c16",
+   "size": "697x1464",
+   "bytes": 387446,
+   "method": "native pdfimages crop, stacked left+right column parts with staircase around art; later installed cleanup (253b15f1…, 697x1464, 387446 B) is the file of record, replacing an intermediate rebuild (79fe39d1…, 697x1467, 397584 B) listed as \"new\" in wip/148-cp2r/shas.txt; visual word-for-word readback against native source",
+   "defects": "none (passage complete)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha",
+   "rebuild_sha256": "79fe39d1324f8da1e72e95517af6b4962a27298388cf52acc920706f7292eeaf",
+   "rebuild_size": "697x1467",
+   "rebuild_bytes": 397584
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p030-scan034-vader-tie-x1-limitations.jpg",
+   "status": "VERIFIED-CP2a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 34,
+   "scan": 34,
+   "printed": "30",
+   "native_boxes": [
+    {
+     "scan": 34,
+     "box": [
+      160,
+      833,
+      856,
+      1418
+     ],
+     "label": "(scan 034 p.30, left col)"
+    },
+    {
+     "scan": 34,
+     "box": [
+      900,
+      428,
+      1586,
+      1416
+     ],
+     "label": "(right col, continues)"
+    }
+   ],
+   "opening": "The TIE Advanced x1 featured a custom-designed spaceframe and a reinforced durasteel-alloy hull, with an elongated rear deck and matching bent wings covered with solar panels.",
+   "ending": "the end of production for the TIE Advanced x1.",
+   "verbatim": "The TIE Advanced x1 featured a custom-designed spaceframe and a reinforced durasteel-alloy hull, with an elongated rear deck and matching bent wings covered with solar panels. The vessel mounted a Sienar Fleet Systems (SFS) I-S3a solar ionization reactor and paired SFS P-s5.6 twin ion engines for a far more powerful drive system than that of the standard TIE/In. Speed was only slightly improved over earlier models, due to the added mass and to the fact that a good deal of the extra power was bled off to the shield generators. The TIE Advanced x1 was less maneuverable than standard TIE fighters, but it could take far more punishment than could the fragile TIE/In ships. / The TIE Advanced x1 sported twin heavy blaster cannons in a fixed, front-mounted position. In a major exception to standard Imperial military policy, the TIE Advanced x1 featured shield generators and a modest hyperdrive (although the navigation computer could store only ten sets of jump coordinates). / The TIE Advanced x1 lacked a life-support system, and the pilot had to wear a fully contained flight suit with an internal oxygen supply. Pilots were strapped into an adjustable shock couch with foot yokes and a hand control panel. / The TIE Advanced x1 was initially produced in only very modest numbers. Lord Darth Vader received one of the vessels for his personal missions; most of the other ships were deployed to elite Imperial squadrons for field testing. By the time of the Battle of Hoth, TIE Advanced x1 fighters had been deployed to a number of Navy fleets, including Lord Vader's Star Destroyer squadron. / The Empire decided not to order the TIE Advanced x1 in large quantities, citing the excessive cost. Privately, some Imperial Navy strategists admitted that the Navy was afraid to purchase a fighter with a hyperdrive, fearing that it would provide an excuse to slash orders for new capital starships. / The Empire instead opted for the TIE interceptor, which featured the TIE Advanced x1's drive system, but in a more compact ship. While the TIE interceptor lacked hyperdrives and shields, it was blindingly fast, incredibly maneuverable, and significantly cheaper than the TIE Advanced x1. By the Battle of Endor, the large increase in TIE interceptor production meant the end of production for the TIE Advanced x1.",
+   "old_sha256": "c1ad323323803492f524195331a63978ecedcd426086abba886f1dc52d6be2ce",
+   "new_sha256": "371c02b29e776a8fbea5a0b529f0200d6adf4a53351373322b113de59429d606",
+   "size": "696x1667",
+   "bytes": 443081,
+   "method": "native pdfimages crop, stacked left+right column parts, visual word-for-word readback; rebuild byte-identical to installed file",
+   "defects": "none (passage complete)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha",
+   "qualifications": [
+    "TIE/ln vs I/l: both occurrences of the standard/line-fighter designation are written in the verbatim as TIE/In. In this face, capital I and lowercase l are both unhooked verticals at cap/ascender height and cannot be certified from the native 3700-wide scan. The letter after the slash matches the I in the adjacent \"TIE\" more closely than a distinctive tailed l, and both occurrences are consistent with each other; it is still possible the intended designation is TIE/ln. Flagged, not silently resolved from later entries or canon."
+   ]
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p032-scan035-outrider-mods-quote.jpg",
+   "status": "VERIFIED-CP2a",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 35,
+   "scan": 35,
+   "printed": "32",
+   "native_boxes": [
+    {
+     "scan": 35,
+     "box": [
+      [
+       934,
+       750,
+       1608,
+       1365
+      ],
+      [
+       1055,
+       1365,
+       1608,
+       1439
+      ],
+      [
+       1183,
+       1439,
+       1608,
+       1547
+      ],
+      [
+       1279,
+       1547,
+       1608,
+       1618
+      ],
+      [
+       1316,
+       1618,
+       1608,
+       1837
+      ],
+      [
+       1386,
+       1837,
+       1608,
+       1912
+      ]
+     ],
+     "label": "(scan 035 p.32, right col, art cut out)"
+    }
+   ],
+   "opening": "Dash, being a typical smuggler, decided to take advantage of the YT-2400's adaptability.",
+   "ending": "scattered me across space.",
+   "verbatim": "Dash, being a typical smuggler, decided to take advantage of the YT-2400's adaptability. His first step was to replace the engines with three stolen KonGar KGDefender military-grade ion engines. A modified SoroSuub Griffyn/Y2TG hyperdrive gives the *Outrider* a Class 0.75 hyperspace speed rating—slower than the *Millennium Falcon's* Class 0.50 hyperdrive but far faster than most military vessels, which are either Class One or Class Two. Powerful shield generators and a *highly* illegal sensor stealth system make the *Outrider* a perfect smuggling ship. / A pair of heavy Dymek double laser cannons, personally modified by Dash for greater range, are dorsal- and ventral-mounted on standard Corellian 1D servo turrets. They normally are manned but can be controlled via the targeting computer in the cockpit, although accuracy is then significantly reduced. Two forward-firing concussion-missile launchers are mounted on the cockpit tube and have a magazine of three missiles each. / Dash has relied on this ship to save his life countless times. It's not uncommon for smugglers and other spacers to get emotionally attached to their vessels, and Dash is no exception. He has been heard saying, “I owe the *Outrider* the best . . . she's brought me home when any other ship would have scattered me across space.”",
+   "old_sha256": "aca0e5c9a9ff0fe96dda098e8fddcb8d28702ce3174692b3f40625173535089f",
+   "new_sha256": "f83c57fc8fc68f276850e966c4ccdd867fb2f597ab3c66ef6866e377737ce37e",
+   "size": "674x1200",
+   "bytes": 257158,
+   "method": "native pdfimages crop, one staircase group (six rectangles) cutting out the art, visual word-for-word readback; rebuild byte-identical to installed file",
+   "defects": "none (passage complete)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha",
+   "qualifications": [
+    "\"uncommon\": native source (and the crop) show a defective initial letter on \"uncommon\" in \"It's not uncommon for smugglers…\". The left side of that letter is a weak, quote-shaped mark rather than a clearly inked u-stem. This is not a crop clip: the staircase left edge (x=1183) sits to the left of the mark, in whitespace, with the ship art still farther left. The reading \"uncommon\" is from word context; a clean \"u\" is not claimed as a clearly printed glyph."
+   ]
+  }
+ ]
+}

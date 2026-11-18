@@ -1,0 +1,3 @@
+# Rebirth — Summary
+
+Greg Keyes’s Edge of Victory II braids four crises: Luke/Mara flee Coruscant as Mara’s disease wars with pregnancy (resolved by Force-family link and Ben’s birth); Anakin/Tahiri/Corran stumble from Eriadu into the Yag’Dhul invasion (Stalking Moon, Nom Anor, Givin schism); Han/Leia/Jacen build the Great River via privateering and nearly lose Jacen to Tsavong Lah; Jaina is used by Kyp to destroy a Yuuzhan Vong worldship under false “superweapon” pretenses. Nen Yim’s heresy ends in Shimrra’s secret eighth-cortex workshop. Placement: after Conquest and Emissary of the Void I–VI; next core novel Star by Star.

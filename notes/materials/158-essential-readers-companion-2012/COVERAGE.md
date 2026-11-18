@@ -1,0 +1,47 @@
+# COVERAGE — notes158 The Essential Reader’s Companion (2012)
+
+- **Status:** EOF COMPLETE (visual read of all 596 CBR leaves; quotes certified; package sealed). Not a partial read.
+- **Visual source:** CBR FD0WCBbA (238,158,393 B, sha256 `fc18c71486c6aa427b8be9ebdd7193bddbd52d56862cc41b6b182969007f6fc0`). Rasterized ebook, 596 leaves, all 793×1122 RGB, no gaps, no landscape spreads, no printed folio circles. S numbers are CBR leaf numbers only (S001–S596).
+- **Text-check epub:** MEGA 8O9y2bib; not a substitute for the visual read.
+- **Visual read:** complete S001–S596. Visual EOF is S596 (ebook advertisement for *The Essential Guide to Warfare*).
+- **Exact next:** none. Visual EOF reached; notes written; quotes certified; package sealed.
+- **Notes written:**
+  - `front.md` — S001–S008
+  - `body/01` through `body/08` — Chapters I–8 (S009–S564)
+  - `back.md` — Appendix A (S565–S577), Appendix B (S578–S591), Illustration Credits (S592), Acknowledgments (S593), About the Author (S594), About the Illustrators (S595), Warfare ebook ad (S596, visual EOF)
+  - `LEGENDS-CANON-HIERARCHY.md` — Part 1 is the book’s own continuity statements (quoted from opened crops where certified); Part 2 is clearly labeled outside the book (Holocron G/T/C/S/N and the April 2014 Legends reboot), with sources.
+  - `quotes/QUOTES-INDEX.md` plus eleven certified evidence crops (q01–q11)
+  - `README.md`, `COVERAGE.md`
+- **Section bounds (leaf-locked):**
+  - S001–S008 front matter (cover, title, frontispiece, copyright elSBN / v3.1, dedication, contents, introduction)
+  - S009–S039 Chapter I
+  - S040–S100 Chapter 2
+  - S101–S173 Chapter 3 THE CLONE WARS
+  - S174–S227 Chapter 4 THE DARK TIMES
+  - S228–S312 Chapter 5 THE GALACTIC CIVIL WAR
+  - S313–S457 Chapter 6 THE NEW REPUBLIC (S457 mid-blank, no decorative end-rule)
+  - S458–S507 Chapter 7 THE NEW JEDI ORDER (decorative chapter-end rule on S507)
+  - S508–S564 Chapter 8 LEGACY (decorative chapter-end rule on S564)
+  - S565–S577 Appendix A WORKS IN PUBLICATION ORDER (1976–2013)
+  - S578–S591 Appendix B WORKS BY AUTHOR
+  - S592 ILLUSTRATION CREDITS (print folio numbers)
+  - S593 ACKNOWLEDGMENTS (in-book thanks to Leland Chee as a professional colleague, not a Holocron-level statement)
+  - S594 ABOUT THE AUTHOR
+  - S595 ABOUT THE ILLUSTRATORS
+  - S596 Warfare ebook ad — visual EOF
+- **Quote crops:** eleven certified evidence crops in `quotes/` (see `quotes/QUOTES-INDEX.md`). All final-Read word-for-word against the crop files and against left/right edge strips before sealing:
+  - q01 — S008 CANON AND CONTINUITY (complete section)
+  - q02 — S101 Lucas trumps publishing continuity / not the intent to discard / Grievous hindsight
+  - q03 — S019 Veitch questionnaire answered by George Lucas
+  - q04 — S022 KOTOR “light side” ending accepted as historically accurate
+  - q05 — S038 Lucas’s vision of the Sith in *The Phantom Menace*
+  - q06 — S313 Lucas caveats on the Bantam program
+  - q07 — S458 Lucas NJO overview: no dark-side / proto-Sith invaders
+  - q08 — S483 Lucas request that the *Star by Star* prophecy be removed and the central Solo changed from Anakin to Jacen
+  - q09 — S508 Sith-mantle rule, LEGACY (37+ ABY), *Sith Rising*
+  - q10 — S535 *Abyss* “canonizing his gender as male”
+  - q11 — S561 Lucas Licensing Mortis suggestion; unnamed stranger is Darth Krayt
+- **Typography (selected locks):** copyright **elSBN** / v3.1 (S004); Chapter 6 S313 italic closer is **Return of the Jedi** (with the *r*); S333 typography **IN THE FILMRetum of the Jedi** (run-together, missing *r*; confirmed on the opened overview); S565 1983 publication-order line is **Return of the Jedi** (tight-cropped typ565_return3.jpg); S455 caption **stil-active** (missing *l*); S524 **THE SITHMEDITATION SPHERE**; S529 **AWORKING TITLE**; S546 **OMENBRINGS**; S561 **The Clone Warsanimated**; S593 **ABOOK LIKE THIS**; Appendix A CBR left-trim of hanging-indented short-story initials (raster artifact; Appendix B prints the titles complete). Do not regularize.
+- **Package policy:** notes + quote-evidence crops only; no PDF, full page-scans, CBR, epub, secrets, or git. The empty `maps/` directory is omitted. Working typography crops under `/tmp/erc-ov/` are not in the package. Do not touch notes157.
+- **Usage stop:** hard stop on new page reads at 85 percent of the shared weekly Super limit. Recheck immediately before sealing: Super plan, **26 percent** of the shared weekly limit used (Grok Bot 20.1 percent of that); resets Monday, Nov 16, 2026, 21:47 America/Chicago. Well under the stop; sealing proceeded.
+- **Updated:** 2026-11-10 08:13 America/Chicago (CST, UTC-6). Visual EOF at S596; body/07, body/08, and back.md written; hierarchy folded through S596; eleven quote crops certified; package sealed.

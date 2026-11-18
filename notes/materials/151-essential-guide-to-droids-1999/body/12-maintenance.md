@@ -1,0 +1,17 @@
+# MAINTENANCE — P102–109 (S063–066)
+
+## Imperial City Maintenance (RC-M / IC-M) — P102–103 (S063)
+Cybot Galactica RC-M >1 century ago; “Imperial” added under Palpatine. 10,000 sold to Old Republic Public Works (Coruscant upkeep). Extendible accordion joints for height; 2 wide treads (schematics show quad-tread). Standard: 2 heads facing each other — optical sensors + visual display (scrolling orders/building codes). Lore: Jacen + Jaina Solo found antiquated moss-covered unit in Coruscant bowels unsuccessfully replacing burnt-out glowcrystals.
+**Schematics:** Front/Side — Visual Scanner Head, Visual Display Head, Extendible Accordion Base, Quad-tread Locomotion, Tool Assembly Arm, Laser Beamcleaner Arm, Heavy Pincer Arm, Spray Nozzle Arm, Internal Storage Bay, Soil Aeration Arm, Fine Manipulator Arm. Slightly taller than human (base unextended).
+
+## MN-2E General Maintenance — P104–105 (S064)
+IA for Palpatine’s Grand Corridor (Imperial Palace); powerful repulsorlift for 500 m ceilings; specialized for pruning *ch’hala* trees + cleaning buttressed roof supports. Unsophisticated but effective: central pod + 4 jointed limbs. Base mouth → internal Wastestream Systems Recycler (20 kg garbage → cellular pulp ×3/day). Photoreceptors around mouth; limited vocabulator (random binary squawks). Orig. 600 credits Palace; later public at slightly higher price. Lore: repulsor failure nearly hit Garosian ambassador → IA installed backup repulsors + donated to Palpatine “charity fund.”
+**Schematics:** Arms extended/retracted — Internal Wastestream Systems Recycler, Program Modules, Buffer, Photoreceptor, Vibro-shears, Mouth, Cleanser Applicator Arm, Binary Vocabulator, Manipulator Arm, Repulsor. Human silhouette ~waist (retracted).
+
+## EG-6 Power Droid — P106–107 (S065)
+Veril Line; “silly-looking” featureless dark box on stumpy legs; ambulatory fusion generator (“walking battery”) for hangars/tech domes. Heavy armored casing; relief valves bleed vaporizing coolant as steam. Face: plug-in port, visual sensor, acoustic signaler, diagnostic package (spectrometer + IR/sonar/X-ray scanners). Notoriously stupid (walk off cliffs if ordered straight) but stubborn vs unsafe fueling. Dominates vs IA near-identical GNK; Veril also S9 Heavy Power Droid.
+**Schematics:** Side/Front — Systems Diagnostic Package, Armored Systems Housing, Acoustic Signaler, Heavy Power Plug-in Sockets, Visual Sensor, Access Panel, Light/Standard Power Plug-in Sockets, Manipulator Arm (behind panel), Internal Fusion Generator, Coolant Tubes, Insulated Leg Sheath, Steam Relief Valves.
+
+## 850.AA Public Service Headquarters — P108–109 (S066)
+Publictechnic massive mobile command base; 13 m tall urban maintenance/cleaning. L1: ≤30 smaller droids (maint. robos, worker drones, EG-6, WED) + 2 retractable ramps. L2: parking for ground vehicles ≤10 m. Upper: open-air airspeeder landing pad + guardrail + sensorlink network. Repulsorlifts (20 m ceiling); abrasive scrubber brushes; beamcleaners; autonomous weeks. Lore: Coruscant street gang hijacked one as armored hideout/battering ram.
+**Schematics:** Front — Safety Railing, Warning Lights, Transparisteel Viewports, Sensorlink Network System, Scrubber Brush, Beamcleaner Array. Side — L3 Landing Pad, L2 Vehicle Parking Garage, L1 Droid Storage Bay, Rear/Front Access Ramps retracted, Hazard Markings, Repulsorlift Engine Maintenance Hatch, Power Recharge Port, Wheels/Treads.

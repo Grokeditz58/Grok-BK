@@ -1,0 +1,399 @@
+Exar Kun — Legends article extraction
+
+Source handling:
+- The requested initial URL was opened as https://starwars.fandom.com/wiki/Exar_Kun and did not redirect (final URL: https://starwars.fandom.com/wiki/Exar_Kun).
+- The initial article contains an in-article link to its Legends subpage, which was followed for this Legends extraction: https://starwars.fandom.com/wiki/Exar_Kun/Legends.
+- The Legends page was scrolled through to the end. It had no collapsed <details>/<summary> sections or expandable article sections to open. This extraction stops at the end of “Notes and references” and excludes navigation, appearances/source lists, and external links.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- “Scaling” below means only a comparison or relationship explicitly stated in the article. “Statement/opinion” is not treated as a feat.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+[Opening statement / infobox summary]
+- Quote: “I was the greatest Dark Lord of the Sith. I am Exar Kun.” —Exar Kun, to Kyp Durron[12]
+  Classification: Statement/opinion (character self-assessment), not a feat.
+  Scaling: None stated in the quote.
+  Source: Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12; exact text match; agrees with the entry's own ref marker]
+- Article summary: “Exar Kun was a legendary Human male Jedi Knight who fell to the dark side, assumed the mantle of Dark Lord of the Sith, and waged a destructive war against the Galactic Republic and Jedi Order during the era of the Old Sith Wars.”
+  Classification: Cited biographical statement, not a quantified feat.
+  Scaling: The sentence connects his war to the Galactic Republic and Jedi Order.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Exar Kun/Legends" rev 15679816 but it has no inline citation in its paragraph; exact text match)
+
+[Training]
+- “Recognized as an extremely promising talent, Kun apprenticed under the venerable[4] Krevaaki[13] Jedi Master Vodo-Siosk Baas, training on the planet Dantooine alongside the Cathar mates Crado and Sylvar.”
+  Classification: Cited ability/status statement, not a combat feat.
+  Scaling: Baas is identified as his Jedi Master; Crado and Sylvar are his training partners.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 ; Power of the Jedi Sourcebook ; "The Dark Side" — Star Wars Galaxy Magazine 8 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4,13,14; exact text match; agrees with the entry's own ref marker]
+- “Kun swiftly and easily defeated the weak-willed Crado, before engaging the Cathar's fierce and determined lover Sylvar.”
+  Classification: Concrete combat feat.
+  Scaling: Directly scales Kun above Crado in that training encounter; the article contrasts Crado with Sylvar rather than giving a result against Sylvar here.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4; exact text match]
+- “Wielding only his wooden staff, Baas quickly found Kun's balance point and sent him flying with only a single blow.”
+  Classification: Concrete combat result against Kun.
+  Scaling: Shows Baas temporarily overpowering Kun while using a wooden staff.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4; exact text match]
+- “Summoning all his rage and power, Kun went back on the offensive, eventually smashing Baas' Force-imbued staff in two.”
+  Classification: Concrete combat feat.
+  Scaling: Directly involves Vodo-Siosk Baas and follows the article’s account of their training duel.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4; exact text match]
+
+[Destiny calling]
+- “Kun ventured on alone after reaching Dxun, easily slicing through the beasts that guarded the massive structure.”
+  Classification: Concrete combat feat.
+  Scaling: The article gives no named opponent comparison beyond the guarding beasts.
+  Source: Tales of the Jedi – Dark Lords of the Sith 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 17; exact text match]
+- “After trying and failing to break into the tomb, Kun suddenly felt a strange power surrounding him, and on his next attempt he easily broke through the outer shell of the crypt.”
+  Classification: Concrete strength/weapon feat.
+  Scaling: The crypt is made of Mandalorian iron, “through which his lightsaber could not cut”; the article presents the later breach as occurring after the strange power surrounded him.
+  Source: Tales of the Jedi – Dark Lords of the Sith 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 17; exact text match]
+- “Nebo and Rask attempted to rob Kun for the scrolls when the Jedi emerged from the tomb, but Kun lashed out in a burst of anger and quickly slaughtered the pair with his lightsaber.”
+  Classification: Concrete combat feat.
+  Scaling: None stated beyond the two attackers.
+  Source: Tales of the Jedi – Dark Lords of the Sith 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 17; exact text match]
+
+[Surrender to darkness]
+- “As Kun peered into the crystal, Nadd released the cataclysmic energy inhabiting the temple, bringing the whole structure down on Kun.”
+  Classification: Concrete survival event.
+  Scaling: The article states Kun “barely survived the collapse, clinging to life with his bones smashed in over a hundred places.”
+  Source: Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 9; exact text match]
+- “In an instant, Kun's bones healed and strength returned, although Kun experienced several moments of intense pain—his cries were heard through the Force as far away as Deneba, where the Jedi convocation had gathered.”
+  Classification: Concrete healing feat and cited Force-sense statement.
+  Scaling: Master Baas sensed Kun’s turmoil “light-years away”; Nadd’s spirit is credited in the surrounding passage with the dark-side healing offer, so the article does not unambiguously attribute the healing solely to Kun.
+  Source: Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 9; exact text match]
+- “Nadd's spirit guided him to the Hall of Judgment, the last resting place of many of the ancient Sith Lords, where Kun realized that he now had the ability to read the Sith language written on the sarcophagi.”
+  Classification: Concrete learned-ability statement.
+  Scaling: The ability is attributed to his surrender to the dark side and guidance from Nadd, not presented as a comparison to another character.
+  Source: Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 9; exact text match]
+- “His lightsaber taken by Nadd and a tuk'ata at his neck, Kun reluctantly called upon the dark side and his inner anger to retrieve his lightsaber and slay the beasts.”
+  Classification: Concrete Force/combat feat.
+  Scaling: He is tested by multiple tuk'ata; the article says he had lost the ability to draw on the light side at this point.
+  Source: Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 9; exact text match]
+
+[Seizing power]
+- “With his anger multiplied a hundredfold by the amulet, Kun summoned an immense amount of power and energy, obliterating the Sith wyrm and a number of Massassi.”
+  Classification: Concrete Force feat.
+  Scaling: The article explicitly attributes the amplification to the Sith amulet and Kun’s anger; it does not give the wyrm a comparison to another named character.
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 19; exact text match]
+- “With a single burst of anger, multiplied by the power of the amulet, Kun obliterated Nadd's spirit once and for all.”
+  Classification: Concrete Force feat.
+  Scaling: Directly scales Kun’s amulet-boosted power above Freedon Nadd’s spirit in this encounter.
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 19; exact text match]
+
+[Dark secrets]
+- “By lifting the curse of Naga Sadow from the moon, Kun established himself as the leader of the Massassi on Yavin 4, with the tribesmen believing that he was the returned Dark Lord of the Sith spoken of in their legends.”
+  Classification: Cited leadership statement; the “returned Dark Lord” wording is a Massassi belief, not an independently established feat.
+  Scaling: No direct power comparison; the sentence ties his authority to lifting Sadow’s curse and the Massassi belief.
+  Source: Tales of the Jedi – Dark Lords of the Sith 5 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 20; exact text match]
+- “Kun began to draw energy off the trapped souls within the Golden Globe, which was bound with Sith sorcery that only could be undone by Force-sensitive children.”
+  Classification: Concrete dark-side/sorcery feat.
+  Scaling: The article states that only Force-sensitive children could undo the binding; it does not compare Kun’s power to theirs.
+  Source: Junior Jedi Knights: Lyric's World [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 22; exact text match]
+- “Kun had infused the priest with a metallic bioarmor and enhanced his muscle mass and bone structure, along with giving Zythmnr razor-sharp claws and a hardened outer hide.”
+  Classification: Concrete Sith-alchemy feat.
+  Scaling: The article identifies Zythmnr as Kun’s first subject and says Kun later repeated the procedure on several dozen Massassi.
+  Source: The Dark Side Sourcebook [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 24; exact text match]
+- “Zythmnr took well to the treatment and showed promise with the Force afterward, encouraging Kun enough to repeat the procedure on several dozen other Massassi.”
+  Classification: Cited result of the alchemy.
+  Scaling: The article connects Zythmnr’s post-treatment Force promise to Kun’s decision to repeat the process.
+  Source: The Dark Side Sourcebook [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 24; exact text match]
+- “On Yavin 4, Kun would also use the secrets of Sith alchemy to create monstrous creatures, such as the terentatek, which hungered for Force-sensitive blood, and two-headed battle hydras.”
+  Classification: Concrete creation feat.
+  Scaling: The article later states that these creations continued to pose a menace long after the Great Sith War.
+  Source: The New Essential Chronology [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 1; exact text match]
+
+[Lord of the Sith]
+- “Keto immediately attacked but Kun swiftly took her out of commission with a blast of dark side power—Kun and Qel-Droma dueled, but the two were both such master swordsmen that neither could gain the advantage.”
+  Classification: Concrete Force feat followed by a direct combat comparison.
+  Scaling: Aleema Keto is defeated/incapacitated by Kun’s blast; the article explicitly places Kun and Ulic Qel-Droma at parity in that duel.
+  Source: Tales of the Jedi – Dark Lords of the Sith 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 10; exact text match]
+- “Ragnos' spirit named Kun the new Dark Lord of the Sith, his initiation into the dark side complete—with a single touch, Ragnos burned[10] a mark of a Dark Lord[11] into the center of Kun's forehead, and Qel-Droma with that of a Shadow Hand[11].”
+  Classification: Cited status/event statement.
+  Scaling: Marka Ragnos is the authority who appoints Kun; Qel-Droma is designated his first/foremost apprentice in the surrounding text.
+  Source: Tales of the Jedi – Dark Lords of the Sith 6 ; Knights of the Old Republic Campaign Guide [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 10,11; exact text match; agrees with the entry's own ref marker]
+
+[Preparations]
+- “Coupled with a device called the Force Harvester, the Dark Reaper had the ability to drain the Force energy from those around it and focus it into beams, making it a horrific offensive weapon.”
+  Classification: Cited weapon capability statement.
+  Scaling: The article says Kun used the Dark Reaper with the Force Harvester; it does not attribute all capability to Kun personally.
+  Source: Star Wars: The Clone Wars video game [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 26; exact text match]
+- “After the Reaper claimed thousands of lives on Raxus Prime, Kun devised a plan to use the weapon to destroy the Jedi Order.”
+  Classification: Concrete casualty statement and plan.
+  Scaling: The weapon is credited with thousands of deaths; the article says Qel-Droma later aided the Republic in foiling Kun’s plot and disabling the Dark Reaper at Thule.
+  Source: Star Wars: The Clone Wars video game [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 26; exact text match]
+- “On Ossus, Kun revealed that it was he who had destroyed the spirit of Freedon Nadd, producing his Sith amulet—which he called a ‘Jedi amulet’—and wowed some of the apprentices with the vision of his power.”
+  Classification: Cited statement; “wowed”/“vision of his power” is an impression, not a quantified feat.
+  Scaling: The sentence connects back to Kun’s earlier destruction of Nadd’s spirit.
+  Source: Tales of the Jedi – The Sith War 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 7; exact text match]
+- “Kun immediately knew that he had to have it, and as he entered Odan-Urr's hut, the holocron sensed his dark power, left the Jedi Master's grasp and hovered into Kun's hand.”
+  Classification: Concrete Force/sorcery interaction.
+  Scaling: The holocron reacts to Kun’s dark power; no direct ranking is stated.
+  Source: Tales of the Jedi – The Sith War 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 7; exact text match]
+- “Odan-Urr attacked Kun, but the Dark Lord's Force power was too much for the old Master, who succumbed and died, his body disappearing as he passed into the next world.”
+  Classification: Concrete Force-combat result.
+  Scaling: The article explicitly states Kun’s Force power was too much for Jedi Master Odan-Urr in this encounter.
+  Source: Tales of the Jedi – The Sith War 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 7; exact text match]
+- “At the end of the day, Kun had a total of 20 Jedi ready to follow him, a number that included Wilum, Luka, Crado[7] and the Human Jorak Uln.[29]”
+  Classification: Concrete recruitment/leadership result.
+  Scaling: The article connects the recruitment to Kun’s lies, half-truths, and display of power; it does not say the 20 Jedi were equal to him.
+  Source: Tales of the Jedi – The Sith War 1 ; Star Wars: Knights of the Old Republic [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 7,29; exact text match; agrees with the entry's own ref marker]
+
+[Chaos in the Senate]
+- “The holocron shattered into dozens of crystal shards that became embedded within Kun's Jedi followers, immediately incorporating themselves into their targets, corrupting them with the dark side[30] and reshaping them into Kun's Brotherhood of the Sith.[3]”
+  Classification: Concrete Sith-sorcery feat.
+  Scaling: The corruption directly produces Kun’s Brotherhood; Crado is explicitly the only one remaining unaffected, though still loyal.
+  Source: Tales of the Jedi – The Sith War 3 ; Champions of the Force [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30,3; exact text match; agrees with the entry's own ref marker]
+- “Kun and his force brazenly marched into the Republic Senate Hall while the trial was underway, with Kun using a Sith spell to freeze the onlookers and render them unable to react.”
+  Classification: Concrete area-of-effect sorcery feat.
+  Scaling: The spell affects the Senate onlookers; no numerical scope beyond the scene is stated.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+- “Kun then used Sith sorcery to dominate Sidrona's mind, forcing the helpless Chancellor to parrot Kun's pronouncement of the Republic as a crumbling, outdated institution.”
+  Classification: Concrete mind-control feat.
+  Scaling: The target is Supreme Chancellor Sidrona; the article says the Chancellor was helpless and died when Kun released his hold.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+- “When Kun found himself unable to swiftly overcome Baas, he decided to go with his ace in the hole, revealing a modification he had recently made to his lightsaber: a second blade.”
+  Classification: Combat/weapon statement.
+  Scaling: The article explicitly states Kun could not swiftly overcome Vodo-Siosk Baas with his single-bladed weapon.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+- “The tide of the duel immediately turned, and with one final blow, Kun blasted through his former Master's staff and killed him—with Baas promising, in his final words, that the two would one day fight again, and that Kun would be defeated.”
+  Classification: Concrete combat feat.
+  Scaling: Kun defeats and kills Jedi Master Baas after adding the second blade; Baas’s promise is a character statement, not proof of a later feat.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+- “Kun then dispatched of his former classmate Sylvar with a telekinetic blast when she charged him, but allowed her and several other Jedi present in the chamber to live.”
+  Classification: Concrete telekinetic feat.
+  Scaling: Sylvar is defeated by the blast; the article does not equate her with Baas or the other Jedi.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+
+[Crumbling alliances]
+- “Meanwhile, Kun's corrupted charges fanned out into the galaxy to slay their Jedi Masters. Some of his apprentices failed in their duty—Oss Wilum and Crado were defeated and the former taken captive by Master Thon and Nomi Sunrider on the planet Ambria, and Zona Luka was slain in battle with her former Master—but Kun's plot resulted in the deaths of eight of the most respected Jedi Masters in the Order.”
+  Classification: Concrete campaign result.
+  Scaling: The article attributes the deaths to Kun’s plot while separately naming defeats of some apprentices; it does not say Kun personally killed all eight.
+  Source: Tales of the Jedi – The Sith War 4 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 32; exact text match]
+- “Although Qel-Droma was quickly caught up in a firefight with his brother Cay, Kun landed safely within the walls of the Great Jedi Library and set out with a group of several Massassi warriors to plunder whatever he could from the complex.”
+  Classification: Concrete raid statement.
+  Scaling: No direct opponent comparison.
+  Source: Tales of the Jedi – The Sith War 5 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 31; exact text match]
+- “Although Kun was disappointed, his Massassi had already loaded up the Starstorm One with dozens of treasures, and he considered the endeavor to be a success.”
+  Classification: Concrete outcome statement.
+  Scaling: The outcome is tied to the Massassi’s haul rather than a solo feat by Kun.
+  Source: Tales of the Jedi – The Sith War 5 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 31; exact text match]
+
+[Downfall]
+- “Kun was certain that he would die, but he had uncovered a way that his consciousness could continue to exist, separated from his physical body.”
+  Classification: Cited survival/ritual statement.
+  Scaling: It is a plan based on salvaged Jedi Library texts; the article says he did not fully understand the pathways and recognized that the plan could fail.
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 2; exact text match]
+- “Kun chained himself to an altar as the Massassi began to sacrifice themselves by the thousands so that Kun's spirit could escape—Kun hoped that his consciousness would be able to run rampant through the cosmos forever.”
+  Classification: Concrete ritual/casualty statement; the “run rampant” wording is Kun’s goal, not a feat.
+  Scaling: The ritual’s stated cost is thousands of Massassi lives.
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 2; exact text match]
+- “While his spirit had been freed from his body, he was trapped inside the walls of the temple, desperate to find a way out of his pitch-black chamber.”
+  Classification: Concrete post-death condition.
+  Scaling: The ritual succeeds in freeing the spirit but fails to give Kun the freedom he wanted.
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 2; exact text match]
+- “Furious at Qel-Droma's betrayal, Kun realized that he had no chance at standing up to the combined might of the entire Jedi Order.”
+  Classification: Character assessment/statement, not a feat.
+  Scaling: Explicitly places the combined Jedi Order above Kun in that situation.
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 2; exact text match]
+
+[Reawakenings]
+- “Professor Walter Emanus led a Corellia University archaeological expedition to the moon. However, during their excavations, they uncovered the catacombs beneath the Dark Lord's temple and reawakened his spirit. He possessed them and made them into the Cult of Exar Kun, devoted to his worship.”
+  Classification: Concrete post-death possession/leadership feat.
+  Scaling: Kun’s spirit possesses the expedition members; the article does not provide a resistance comparison.
+  Source: Star Wars Galaxies: An Empire Divided [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 38; exact text match]
+- “Exar Kun himself battled the spacers, but due to his spirit form, was easily defeated and silenced once more.”
+  Classification: Concrete combat result.
+  Scaling: The article explicitly says the spacers defeated him because of his spirit form.
+  Source: Star Wars Galaxies: An Empire Divided [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 38; exact text match]
+
+[Final banishment]
+- “Enraged, Gantoris attempted to attack Kun's shadow, only for the former Dark Lord to obliterate him.”
+  Classification: Concrete Force feat.
+  Scaling: Directly places Kun’s attack above Gantoris’s resistance in the scene.
+  Source: Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12; exact text match]
+- “Durron immediately made his way to the structure along with his companion Dorsk 81. Kun used the Force to put Dorsk 81 to sleep once the pair were inside the temple, and proceeded to teach the awestruck Durron, who wanted nothing more than the power to defeat the Empire himself, the history and ways of the ancient Sith.”
+  Classification: Concrete Force feat plus character reaction; “awestruck” is not a feat.
+  Scaling: The article identifies Durron as immensely talented in the Force and says he had swiftly outpaced Skywalker’s other apprentices.
+  Source: Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12; exact text match]
+- “Durron returned to Yavin 4, and with Kun's aid, Durron used the Force to bring forth the Imperial superweapon known as the Sun Crusher from inside the gas giant Yavin Prime, where it had been secreted away.”
+  Classification: Concrete Force feat by Durron with Kun’s aid.
+  Scaling: The article explicitly connects Kun’s aid to Durron’s retrieval of the Sun Crusher; it does not say Kun performed the retrieval alone.
+  Source: Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12; approximate match 1.00, verify]
+- “Skywalker was stunned at Durron's fall, and although he attempted to convince Durron to turn away from the dark side, Kun revealed himself and aided his young apprentice in attacking and overwhelming the Jedi Master—as Durron left Yavin 4 behind aboard the Sun Crusher, Skywalker was left in a semi-comatose state, his spirit sundered from his still-living body.”
+  Classification: Concrete combat/Force feat.
+  Scaling: Kun and Durron together overwhelm Jedi Master Luke Skywalker; the article attributes the spirit-sundering result to the attack, not solely to Kun.
+  Source: Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12; exact text match]
+- “Kun also attempted to influence the Jedi apprentice and former New Republic ace starfighter pilot Corran Horn to turn to the dark side and kill Skywalker, but was not able to affect the Corellian—the two would clash again when Horn intruded upon Kun's temple. After Horn mocked Kun, the former Dark Lord sent the pilot flying from the structure, breaking the man's arm.”
+  Classification: Concrete telekinetic feat with an explicit failure.
+  Scaling: Kun’s influence fails against Corran Horn, but Kun’s later attack sends Horn from the temple and breaks his arm.
+  Source: I, Jedi [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 33; exact text match]
+- “Kun next sent battle hydras—descended from some of his alchemical creations during his lifetime—[24] to attack Skywalker, only for Skywalker's spirit to guide the hand of his young nephew, Jacen Solo, to battle like a master swordsman and foil Kun's plan.”
+  Classification: Concrete indirect attack and failed plan.
+  Scaling: The hydras are descended from Kun’s creations; Skywalker’s spirit/Jacen Solo defeat the attack.
+  Source: The Dark Side Sourcebook ; Champions of the Force [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 24,3; exact text match; agrees with the entry's own ref marker]
+- “As the synergy between the Jedi grew, the images of Luke Skywalker and the long-dead Vodo-Siosk Baas appeared—after four thousand years, Master Baas proclaimed Kun defeated, just as he had promised before his former apprentice struck him down on the Senate floor.”
+  Classification: Cited defeat statement.
+  Scaling: Kun is defeated by the collective will/synergy of Luke Skywalker’s Jedi students; Baas’s appearance provides the article’s continuity link to the earlier duel.
+  Source: Champions of the Force ; Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 3,30; exact text match]
+- “Streen and Ti crossed lightsabers within Kun's shadowy body, extinguishing the ‘dark man's’ spirit and banishing him for good.”
+  Classification: Concrete final defeat.
+  Scaling: The article names Streen and Kirana Ti as the direct agents of the final banishment.
+  Source: Champions of the Force [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 3; exact text match]
+
+[Legacy]
+- “One of Kun's most immediate legacies lay in the millions who perished in the Great Sith War, and the worlds his campaign razed: places like Toprawa, Ossus and his moon Yavin 4, which saw its forests scorched at the end of the Great Sith War.”
+  Classification: Cited war-impact statement.
+  Scaling: The article attributes millions of deaths and the razing of named worlds to the war/campaign; it does not present this as a single attack by Kun.
+  Source: The Essential Guide to Characters ; Lost Tribe of the Sith: Sentinel ; Tales of the Jedi – The Sith War 5 ; Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 15,41,31,2; exact text match]
+- “Nearly a quarter of the civilized worlds of the Republic were devastated by the Great Sith War, and many were forced to rebuild by themselves, as the Jedi Order and Galactic Republic were greatly depleted by the conflict.”
+  Classification: Cited war-impact statement.
+  Scaling: The devastation is quantified as nearly a quarter of the Republic’s civilized worlds; the article says both Jedi Order and Republic were greatly depleted.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 11; exact text match]
+- “In 3964 BBY,[43] Mandalore the Indomitable's successor attacked the Republic, and while the Republic prevailed again, the war directly led to the horror of the Jedi Civil War—[29] Kun's fall was credited as a major catalyst.[40]”
+  Classification: Cited historical influence statement, not a direct feat.
+  Scaling: The article explicitly links Kun’s fall to the later Mandalorian Wars/Jedi Civil War chain.
+  Source: Knights of the Old Republic 8 ; The Essential Guide to Warfare ; Star Wars: Knights of the Old Republic ; Timeline 10: The Exar Kun War on The Old Republic's official website (article) (backup link) [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 43,44,29,40; exact text match; agrees with the entry's own ref marker]
+- “He was remembered in some circles, however, as the inventor of the double-bladed lightsaber, or ‘saberstaff,’ which in time became used by Jedi Masters and Sith Lords alike.”
+  Classification: Cited legacy statement; “inventor” is qualified by the article’s later note about the Tedryn Holocron.
+  Scaling: The weapon later becomes used by both Jedi Masters and Sith Lords.
+  Source: Darth Maul: Shadow Hunter ; Darth Plagueis ; Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 45,46,47; exact text match]
+- “In fact, the Sith Lord Darth Maul, a noted wielder of the double-bladed lightsaber who lived several thousand years after the Great Sith War, patterned his weapon on Kun's.”
+  Classification: Cited scaling/legacy connection, not a direct combat feat.
+  Scaling: Explicitly connects Darth Maul’s weapon to Kun’s design.
+  Source: The New Essential Chronology [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 1; exact text match]
+- “Sithspawn such as terentateks and Sith wyrms were still present throughout the galaxy. As a result, the Jedi Order launched the Great Hunt, a campaign to exterminate Kun's creations, that touched worlds like Onderon, Kashyyyk and Korriban.”
+  Classification: Cited legacy/threat statement.
+  Scaling: The article says Kun’s creations remained dangerous enough to prompt a Jedi extermination campaign; many Jedi died and the campaign was not entirely successful.
+  Source: "Shadows and Light" — Star Wars Tales 23 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 48; exact text match]
+- “Although Corran Horn offered the possible explanation that, after 4,000 years in solitude, the exertion it took to possess Kyp Durron and defeat Luke Skywalker had simply tired Exar Kun out.”
+  Classification: Character explanation/speculation, not a feat.
+  Scaling: The proposed explanation connects Kun’s exertion to possessing Kyp Durron and defeating Luke Skywalker, but the article labels it as Corran Horn’s possible explanation.
+  Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 16; exact text match]
+
+[Personality and traits]
+- “Exar Kun, you are the most formidable student I have ever had… but I sense something is missing in you. An empty place hidden even from yourself—a place that remains unseen because no light escapes from that region of your heart.” —Vodo-Siosk Baas[4]
+  Classification: Statement/opinion from a character; “most formidable” is hype/opinion, not a standalone feat.
+  Scaling: Baas compares Kun favorably with every other student he had trained, but the article does not quantify the comparison.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4; exact text match; agrees with the entry's own ref marker]
+- “Confident in his talent and abilities to the point of arrogance, as a young man Exar Kun developed an obsessive curiosity towards the forbidden knowledge of the dark side.”
+  Classification: Characterization statement, not a feat.
+  Scaling: None stated.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4; exact text match]
+- “Kun made the choice to pursue knowledge of the dark side, but he initially found himself surprised by what that choice entailed.”
+  Classification: Characterization statement, not a feat.
+  Scaling: None stated.
+  Source: Tales of the Jedi – Dark Lords of the Sith 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 17; exact text match]
+
+[Powers and abilities]
+- “The venerated Jedi Master Vodo-Siosk Baas called Exar Kun the most formidable student he had ever trained, and his power in the Force only grew once he accepted the dark side into his heart.”
+  Classification: Statement/opinion plus development claim; “most formidable” is not treated as a feat.
+  Scaling: Explicit comparison to Baas’s other students; the article says his Force power increased after accepting the dark side.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 ; Tales of the Jedi – Dark Lords of the Sith 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4,9; exact text match]
+- “Kun could bolster his physical might to the point that he shattered the Dark Holocron with a single punch—freeing the Sith power to infect and turn the Jedi who watched him.”
+  Classification: Concrete strength/sorcery feat.
+  Scaling: The single punch shatters the Dark Holocron; the article connects the released power to the corruption of the watching Jedi.
+  Source: Tales of the Jedi – The Sith War 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 8; exact text match]
+- “Later he was so strong that able to hack apart Master Vodo's Force-imbued staff and slay the Jedi.”
+  Classification: Concrete strength/combat feat (quoted as written in the article).
+  Scaling: Directly scales the result against Master Vodo’s Force-imbued staff and Vodo himself.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+- “He could use telekinesis in many ways, such as pulling a lightsaber to his hand or drawing a Sith amulet into his hand from across a grand hall.”
+  Classification: Concrete telekinetic capability statement.
+  Scaling: The article gives the distance as across a grand hall for the amulet retrieval; no named resistance comparison is stated.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 ; Tales of the Jedi – Dark Lords of the Sith 3 ; Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4,9,19; exact text match]
+- “Kun would develop strong mental Force powers, like the Mind Trick, notably using a Sith spell to mesmerize the entire Galactic Senate and dominate the mind of the Supreme Chancellor—forcing him to preach Sith philosophy to all who were listening.”
+  Classification: Concrete mental/sorcery feat.
+  Scaling: The article explicitly gives the affected scope as the entire Galactic Senate and identifies the Chancellor as the dominated target.
+  Source: The Dark Side Sourcebook ; Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 24,30; exact text match]
+- “Kun's sorcery could be used to slay those who he touched and broke the minds of.[30]”
+  Classification: Cited capability statement (sentence reproduced as written).
+  Scaling: No named comparison is stated.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match; agrees with the entry's own ref marker]
+- “His telepathic abilities occasionally extended to the reaches of the galaxy, while bearing his Sith amulet, as in his attempt to eliminate potential rivals he was able to detect other Sith practitioners in the galaxy.”
+  Classification: Concrete long-range sensing statement.
+  Scaling: The article ties the reach to possession of the Sith amulet and explicitly places the detected practitioners elsewhere in the galaxy.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 47; exact text match]
+- “Also, he he was merely knocked back by Jedi Master Odan-Urr's combination of a Force strike and Sever Force, and the Jedi Master unable to kill off the Sith's Midi-chlorians.[7]”
+  Classification: Concrete resistance statement (sentence reproduced as written).
+  Scaling: Directly compares Kun’s survival/resistance to Odan-Urr’s Force strike and Sever Force.
+  Source: Tales of the Jedi – The Sith War 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 7; exact text match; agrees with the entry's own ref marker]
+- “Exar Kun had great skill with the Force Blast power, using it in the thores of his rage (while wearing a Sith amulet and boosted by the power of a Sith Temple) to kill a huge Sith wyrm and slaughter Massassi, before destroying the Force Ghost of Freedon Nadd.”
+  Classification: Concrete Force feat (sentence reproduced as written).
+  Scaling: The article explicitly stacks the Sith amulet and Sith Temple boost, and names the destroyed Force Ghost of Freedon Nadd.
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 19; exact text match]
+- “Later he effortlessly knocked out Aleema Keto with a Force blast.”
+  Classification: Concrete Force feat.
+  Scaling: Directly places Aleema Keto below this Force blast in the encounter; “effortlessly” is the article’s characterization.
+  Source: Tales of the Jedi – Dark Lords of the Sith 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 10; exact text match]
+- “Kun was able to drain vitality from his opponents, either to heal himself or simply to reduce their personal Force reservoir.”
+  Classification: Cited Force capability statement.
+  Scaling: The article gives two uses—self-healing or reducing an opponent’s Force reserves—but no named comparison.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 11; exact text match]
+- “When he delved deeper into Sith sorcery, Kun discovered pathways that he did not truly understand, but that he used anyway to free himself of his body—via power of the Sith temple and magical site within—at the end of the Sith War—at the expense of thousands of Massassi lives.”
+  Classification: Concrete ritual/survival feat.
+  Scaling: The article explicitly attributes the escape to the Sith temple/magical site and states the cost was thousands of Massassi lives.
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 2; exact text match]
+- “Even as an apprentice, Kun was strong enough to defeat his Master, Vodo-Siosk Baas, although his combat style tapped into an inner anger that worried his Master.”
+  Classification: Concrete combat feat plus characterization.
+  Scaling: Directly scales apprentice Kun above Baas in the stated duel; the article separately records Baas’s wooden-staff blow and Kun’s later double-bladed victory.
+  Source: Tales of the Jedi – Dark Lords of the Sith 1 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 4; exact text match]
+- “Kun would later add to his arsenal by innovating and mastering the double-bladed lightsaber, which was a previously unseen weapon in his time.”
+  Classification: Cited weapon mastery/innovation statement.
+  Scaling: The article later says Baas’s Tedryn Holocron claimed Kun followed instructions from a Sith holocron, so the “innovating”/“inventor” attribution is qualified.
+  Source: Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 30; exact text match]
+- “Coupling his tactics with his ability to predict his enemies' actions through the Force, Kun became a nearly unbeatable force.”
+  Classification: Hype/summary statement, not treated as a standalone feat.
+  Scaling: The article immediately qualifies this by stating Kun admitted he could not defeat the whole Jedi Order gathered against him.
+  Source: The Essential Guide to Weapons and Technology [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 59; exact text match]
+- “However, Kun admitted that he could not defeat the whole Jedi Order gathered to fight him at once.”
+  Classification: Character statement/limitation, not a feat.
+  Scaling: Explicit ceiling against the combined Jedi Order.
+  Source: Tales of the Jedi – The Sith War 6 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 2; exact text match]
+- “Kun was a strong and ruthless leader—able to command the Massassi with ease once he proved his dark side loyalty and might.”
+  Classification: Leadership statement.
+  Scaling: His authority is tied to the Massassi’s recognition of his dark-side loyalty and might.
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 ; Tales of the Jedi – The Sith War 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 19,8; exact text match]
+- “These tricks were enough to get twenty Jedi to follow him to Yavin 4 and into darkness.”
+  Classification: Concrete recruitment result.
+  Scaling: Explicitly connects Kun’s lies and deceptions to the recruitment of 20 Jedi.
+  Source: Tales of the Jedi – The Sith War 1 ; Tales of the Jedi – The Sith War 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 7,8; exact text match]
+- “Kun was a fair architect, at least able to manage projects of grand scale and organize the creation of hundreds of dark side temples that would last for thousands of years.”
+  Classification: Concrete organizational/legacy feat.
+  Scaling: The article qualifies the achievement by noting Kun followed Naga Sadow’s plans and had very loyal builders.
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 ; Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 19,30; exact text match]
+- “No longer bound to a mortal body, Kun gained the ability to manifest where he pleased amongst his network of temples on Yavin 4, appear in the minds of others, and even possess his targets.”
+  Classification: Concrete post-death abilities.
+  Scaling: The abilities are explicitly attributed to his spiritual form and network of temples.
+  Source: The Dark Side Sourcebook ; Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 24,12; exact text match]
+- “In his spiritual form, Kun was still strong enough to complete great feats of Force power, such as sundering Luke Skywalker's spirit from his body and helping Kyp Durron bring forth the Sun Crusher from Yavin's sun, but he was weak enough that he was unable to prevent his own demise at the hands of a group of Jedi apprentices.”
+  Classification: Cited post-death feats and limitation.
+  Scaling: Explicitly connects Kun to Luke Skywalker’s spirit-sundering and the Sun Crusher retrieval, while also stating that Jedi apprentices ultimately killed/banished him.
+  Source: Dark Apprentice ; Champions of the Force [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12,3; exact text match]
+
+[Equipment]
+- “A master of lightsaber combat, Exar Kun was remembered for his innovation of the double-bladed lightsaber, using a blue-bladed weapon[30] that he constructed himself as a modification of his original blue-bladed lightsaber.[59]”
+  Classification: Cited equipment/mastery statement.
+  Scaling: The article later qualifies the invention claim: Vodo’s Tedryn Holocron stated Kun followed instructions from a Sith holocron.
+  Source: The Essential Guide to Weapons and Technology ; Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 59,30; exact text match; agrees with the entry's own ref marker]
+- “Kun added a second emitter matrix on the other end of the lightsaber's handle, which allowed him to use the weapon with only one blade released or both.”
+  Classification: Concrete equipment specification.
+  Scaling: None beyond the weapon’s one- or two-blade operation.
+  Source: The Essential Guide to Weapons and Technology ; Tales of the Jedi – The Sith War 3 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 59,30; exact text match]
+- “Kun also added customized controls to the lightsaber, allowing him to adjust both the length—measuring from half a meter to one and a half meters—and the intensity of each blade, using this variability to his tactical advantage in combat.”
+  Classification: Concrete equipment capability.
+  Scaling: The article explicitly connects the variable length/intensity to Kun’s combat tactics.
+  Source: The Essential Guide to Weapons and Technology [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 59; exact text match]
+- “Wearing the amulet on his left hand and shoulder, Kun gained the ability to unleash huge amounts of dark side energy.”
+  Classification: Equipment-enhanced Force capability; “huge amounts” is the article’s non-quantified wording.
+  Scaling: The article repeatedly attributes the wyrm/Massassi and Freedon Nadd-spirit feats to the amulet’s amplification.
+  Source: Tales of the Jedi – Dark Lords of the Sith 4 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 19; exact text match]
+- “During his life, Kun made use of his personal starship, the Starstorm One, a vessel that could be operated by himself alone.”
+  Classification: Equipment statement, not a combat feat.
+  Scaling: None stated.
+  Source: Tales of the Jedi – Dark Lords of the Sith 2 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 17; exact text match]
+
+[Behind the scenes]
+- “I almost wish I could have done the backstory first. I could've added more detail to the books. I spent more time writing the comics than the books. I know so much about him; he wouldn't have been quite so clear-cut a villain. I'd take the edge off him.” —Kevin J. Anderson[61]
+  Classification: Creator opinion/behind-the-scenes statement, not a feat.
+  Scaling: None; it is an author’s opinion about characterization.
+  Source: "ComicScan: Taken by Force" — Star Wars Galaxy Magazine 8 [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 61; exact text match; agrees with the entry's own ref marker]
+
+--- End of extraction at the end of “Notes and references” ---

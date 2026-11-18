@@ -1,0 +1,95 @@
+Meetra Surik / the Jedi Exile (Legends): respect-thread layer, read 2026-10-19
+A) Comic Vine: ShootingNova, "Meetra Surik (Jedi Exile) Respect Thread" (blog, Mar 20, 2014): https://comicvine.gamespot.com/profile/shootingnova/blog/meetra-surik-jedi-exile-respect-thread/96944/  (also forum copy 1546786). Read via WebFetch; the last ~105 lines were cut off by the fetch tool (Sion / Traya / Revan-novel Vitiate section) and are covered from SI t171 below.
+B) Suspect Insight: "Jedi Exile Meetra Surik: Chronological Respect Thread (2019)", t171 (2 pages): https://www.suspectinsightforums.com/t171-jedi-exile-meetra-surik-chronological-respect-thread-2019  raw: forum-raw/sw1019/t171-*.txt
+Rules: only quoted source text counts. Many RT items are YouTube gameplay clips (no text) -> listed as VIDEO-ONLY, unverified as text. "Prima" = KOTOR II Prima Official Game Guide (secondary, gameplay-tips framing: weak evidence, treat as gameplay mechanics, not narrative feats). Game dialog = KOTOR II (primary). Labels: S = statement, F = feat, H = hype/framing, W = weakness, NOTE = mine.
+Cross-check: KOTOR II lines below marked [K2 verified] also appear in kotor-2-notes.md / meetra-surik-quotes.txt (StrategyWiki transcript).
+
+== POWER / HYPE STATEMENTS ==
+S Kavar (K2): "You always had deep connections to the Force... When I first sparred with you during your training as a Padawan, I could tell that you were different. And it wasn't just your strong connection to the Force."
+S Revan novel (Karpyshyn, TOR: Revan), Revan to Dr. Kreia? no - Revan to Bastila: "Meetra was a powerful Jedi. Why didn't the Council try to redeem her?"
+S Kreia (K2, Ebon Hawk Force-listening lesson): "You are strong indeed... what you heard were surface thoughts only, but it is something that masters have trained for for years and never learned."
+S Visas (K2): "Your strength is superior.... it is as I felt."  + KOTOR Campaign Guide: "A Shadow Hand's expertise in cruelty, trickery and the dark side are second only to the Master - for now." (NOTE: so Exile > Visas, Nihilus's #2)
+S Kreia (K2): "It was Visas' Master - he can feel my presence in the Force." / "The time to hide your presence is coming to a close" (Exile's growth becomes detectable galaxy-wide)
+S Kreia (K2): "That crystal is bonded to you... through it, your power is enhanced."
+S Kreia/Traya (K2, Trayus Core) [K2 verified]: "You are greater than any I have ever trained." / "From the moment you awoke, I have used you. I have used you so that you might become strong, stronger than I."
+S KOTOR Campaign Guide: "Traya uses vast telekinetic powers to wield a trio of lightsabers against her, but she is ultimately killed by the person she considered her greatest disciple."
+S Sion (K2) [K2 verified]: "You are strong... I cannot see as she does, but I know, that in time, you shall surpass her power." / "You are strong... as strong as I had believed."
+S Zez-Kai Ell (K2): "it has certainly not dulled your instincts, nor the speed at which you learn." Kavar: "I'm impressed with how quickly you've mastered this form. I always knew you were gifted." Vrook: "I don't know how you learnt that so quickly. Still, your form is sloppy." Brianna: "You learn quickly." Visas: "you learn quickly."
+S Revan (TOR: Revan novel) to Meetra: "I was told you had been cut off from the Force, but I can sense its power in you. I always knew you had great potential, but you have become far greater than I could ever have imagined."
+S Revan (SWTOR, Revan spirit/holo): "She was a great Jedi. My most trusted ally. History remembers her as the Exile. To me, she was... more."
+S Scourge (SWTOR, Jedi Knight story): "For a time I worked with the greatest of your Jedi heroes: Revan and the Jedi Exile." / "Revan was both Jedi Master and Sith Lord. His student, the Exile, defeated the Sith triumvirate. They were your greatest heroes." / "Revan and the Exile were much like you. They truly believed that they could destroy the Dark Lord. I believed them, too." / "I would have served them, but my vision told me they would fail - I cut down the Exile and brought Revan to the Emperor as a gift." / "Revan, the Exile and I were all Jedi-trained. We all resisted the Emperor."  (NOTE: "His student" is Scourge's framing; she served under Revan.)
+S Mandalore (K2): "I thought that Revan was a singular Jedi, but now there's you. With all our martial training, battles and ethics, even our greatest warriors are no match for you."
+S Kreia (K2): "There is nothing more for me to teach you. You know as much of battle as I." (CUT CONTENT, Visas spar scene; RT flags as cut - do not count as canon)
+S Prima guide: "your character should be a powerhouse of destruction" (Malachor); Mysteries of the Jedi / SWA Magazine #3 generic form-quotes (NOTE: generic, not about her; discard).
+S Power Beyond Belief (WotC web article, about the ultra-powerful Sith Lords incl. the Triumvirate): "Only the greatest heroes may ultimately defeat them." (indirect hype)
+S Chris Avellone (author Q&A, image/quote, secondary but authorial): on the Greater Storm Beast: "Sion might have been able to, but the Exile would have a better chance." On Revan: "...unless the Exile pulled some strange Force deafening move, but even that wouldn't keep Revan down for long." (NOTE: author intent leans REVAN > EXILE)
+
+== WOUND IN THE FORCE / BONDS (her signature mechanic) ==
+S Council scene (K2, Dantooine Enclave) [K2 verified]: Vrook "You carry all those deaths at Malachor within you, and it has left a hole, a hunger that cannot be filled." Kavar "In you, we saw a wound in the Force." Zez-Kai Ell "In you, we saw the end of the Force." Vrook "You are a cipher, forming bonds, leeching the life of others, siphoning their wills and dominating them... What you carry may mean the death of the Force... and the death of the Jedi." Zez-Kai "You feed on it, and you grow stronger. You're like Malachor... killing hundreds, only to grow more and more powerful."
+S Traya (K2): "no Jedi ever made the choice you did. To sever ties so completely, so utterly, that it leaves a wound in the Force."
+S Kreia (K2) long bond speech: "your bond, in many ways, is predatory, an expression of dominance... it is also possible to draw upon the strength of others to increase your own."
+S Kreia (K2): "Revan was power. It was like staring into the heart of the Force." / "When I look at you, it is like staring at the death of the Force."
+S Atris (K2, Telos) [K2 verified]: "You were strong enough to withstand it once - but few have your strength in such matters, especially if they are unprepared."
+S Revan novel: "surviving the trauma of Malachor V had given her the strength to defeat Darth Traya and her followers."
+S Chodo Habat (K2): "It is a planet's worth of pain." Moza: "I do not know how she endures."
+F Companions mirror her kill impulses (K2 influence lines: Atton, Bao-Dur, Handmaiden, Visas, Mandalore "When one of us is committed to battle, then all of us are committed.")
+S KOTOR Campaign Guide: Vima Sunrider "cautions the Jedi Exile to be mindful of her powers, particularly her aptitude for severing another's connection to the Force." / "The disturbance in the Force is so great that the Jedi Exile instinctively severs herself from the Force before the backlash rips her to pieces."
+S Revan novel: "Meetra was much closer to the mass-shadow generator than you were. She felt the shock wave; it nearly killed her."
+
+== KEY FIGHTS (with source) ==
+F vs Visas (K2, Ebon Hawk): KOTOR Campaign Guide: "They cross lightsabers, and Visas is summarily beaten, subsequently vowing loyalty to her vanquisher."; Prima: "My lightsaber... you have destroyed it."
+F vs Atris (K2, Telos): Campaign Guide: "But Atris's pride is no match for the Jedi Exile's lightsaber prowess."
+F vs Nihilus (K2, Ravager bridge): Campaign Guide: "When Nihilus tries feeding on this Jedi, his hunger is mysteriously repelled, as if confronted by his exact polar opposite. Psychically starved by the effort, the Dark Lord falls to the Jedi, and Nihilus the man dissolves into oblivion." Complete SW Encyclopedia: "Although Darth Nihilus managed to stun the Exile, he was unprepared for the devotion of his former pupil Marr... Marr tried to exchange her life for that of the Exile, giving the former Jedi time to recover. Together, they confronted Darth Nihilus. The Sith Lord was no match for their combined might, and he fell in battle." SWTOR Codex (Galactic History 81): "Unable to devour the Exile as he had so many others, Nihilus was finally defeated." (NOTE: three secondary sources, consistent: drain backfire + Visas help.)
+F vs Sion (K2, Korriban + Trayus): Campaign Guide: "the Jedi Exile convinces the Dark Lord to release himself from his enslaving hatred. Rage and life flee Sion simultaneously". SWTOR Codex 82: "he was defeated, persuaded to release his unnatural hold on life."
+F vs Traya (K2, Trayus Core): Campaign Guide line above; Prima: "Force Wave can stun Kreia's floating lightsabers." Traya's own endorsement above.
+F vs the three Masters (DS path, K2): "This master is dead...drained of life... it's like an absence in the Force." (NOTE: dark-side path is non-canon; Legends canon is LS female Exile. Counts only as capability.)
+F vs a legion of Sith on Malachor (Prima: "you must face a legion of elite Sith single-handedly"; gameplay)
+F TOR: Revan novel (Dromund Kaas, weakened by the nexus): TK-kills a soldier into a cave wall; Force barrier vs Nyriss lightning ("she threw up a barrier to save herself from the worst of it, but she was still knocked from her feet"; same lightning killed two guards); dodges Nyriss's lightning with Scourge; Lightsaber throw "knocking it from the Emperor's grasp" during the Vitiate fight; resisted the Nathema Void ("The Void will not take me!... I am Meetra Surik!").
+W TOR: Revan novel: Revan + Meetra + Scourge vs Vitiate: she is killed by Scourge's betrayal mid-fight (Scourge: "I cut down the Exile"). The fight shows Vitiate overpowering Revan + Meetra before the betrayal (see revan-comicvine-respect.txt / vitiate files: "an amped vitiate got tkd by a massively weakened revan" is the counter-reading). NOTE: author Karpyshyn wrote her as below Revan in the novel.
+W SWTOR Codex Jedi Entity: "The betrayer always strikes with the best of intentions."
+
+== VIDEO-ONLY (no text; unverified as feats) ==
+Handmaiden spars (beats 5 at once), Mandalorian unarmed bouts (Davrel, Kex, Tagren, Kelborn, Bralor), Laigrek army, Citadel Station Sith invasion, Ravager hordes, Greater Storm Beast, Moving Meditation, Battle Meditation at Onderon (RT: Royalists "win instantly"), Force-listening scenes. Gameplay-only, treat as low weight.
+
+== WEAK EVIDENCE TO DISCARD ==
+Prima guide "you can take down the assassin easily", "Force Storm can strike almost a dozen enemies", "wipe out entire squads", "tackle entire armies single-handedly" = gameplay tips, not narrative. Generic form descriptions (Mysteries of the Jedi, SWA #3, Insider #62) are not about her.
+
+== SI t171 (2019 chronological RT) additions ==
+(see forum-raw/sw1019/t171-*.txt; key items summarized in debates-malak-exile.md, Exile section)
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### meetra / Wound in the Force
+- Because the Exile is Nihilus' "polar opposite" Wound in the Force, she uniquely repels his Force Drain, weakening him when he attempts to devour her: (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-because-exile-nihilus-polar-opposite-wound-force-1.gif]
+
+### meetra / Force Drain
+- In the non-canon, dark-sided path, the Exile Drains Masters Vrook Lamar, Kavar and Zez-Kai Ell to death upon besting them in battle. It is revealed that they no (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-non-canon-dark-sided-path-exile-drains-1.gif; panels/meetra/meetra-non-canon-dark-sided-path-exile-drains-2.gif; panels/meetra/meetra-non-canon-dark-sided-path-exile-drains-3.gif]
+
+### meetra / Force Valor/Protection/Speed
+- The Exile knows and is talented in the usage of Force Valor: (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-exile-knows-talented-usage-force-valor-1.jpg]
+
+### meetra / Force Sense/Force Listening/Telepathy/Empathy
+- Cut Content: The Exile senses the presence of her captured party members in the prison cells of the Trayus Academy, even though they are visually blocked by lar (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-cut-content-exile-senses-presence-captured-party-1.gif]
+
+### meetra / Force Resistance/Energy Resistance/Force Barrier
+- Meetra Surik knows Force Resistance: (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-meetra-surik-knows-force-resistance-1.png]
+
+### meetra / Heal
+- Meetra can utilize Vital Transfer: (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-meetra-utilize-vital-transfer-1.png]
+
+### meetra / Battle Meditation
+- https://youtu.be/zmenc1Yfy3o?t=230 (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-battle-meditation-1.gif; panels/meetra/meetra-battle-meditation-2.gif]
+
+### meetra / Sever Force
+- The Exile knows Sever Force and is stated to have mastery of it: (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-exile-knows-sever-force-stated-mastery-1.png; panels/meetra/meetra-exile-knows-sever-force-stated-mastery-2.jpg]
+
+### meetra / Telekinesis
+- The Exile can create Force Whirlwinds: (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-exile-create-force-whirlwinds-1.png]
+
+### meetra / Combat Skill
+- The Exile has Echani training (which includes Echani fighting arts and Battle Precognition), has martial arts proficiency, and is proficient in a number of weap (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-exile-echani-training-includes-echani-fighting-arts-1.jpg]
+- Drew Karpyshyn, the author of The Old Republic: Revan , has additionally confirmed that the Imperial Guards that Meetra fought were better than typical Imperial (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-drew-karpyshyn-author-old-republic-revan-additionally-1.png]
+
+### meetra / Force Ghost
+- https://www.youtube.com/watch?v=E2sb5Qea9DU (issue unknown (source not named in thread)) [panel: panels/meetra/meetra-force-ghost-1.gif; panels/meetra/meetra-force-ghost-2.gif; panels/meetra/meetra-force-ghost-3.jpg]

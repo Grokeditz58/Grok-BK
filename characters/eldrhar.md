@@ -1,0 +1,38 @@
+# Eldr'har
+
+- **Aliases:** —
+- **Era:** —
+- **Continuity:** default Legends; entries present for: Legends
+- **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
+- **Entries:** 3 (2 with quotations; 0 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/eldrhar.md.bak-20261117`.
+- **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
+
+# LEGENDS (Legends / EU — main focus)
+
+## Adventures/Dawn of Defiance/09 - Sword of the Empire.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
+
+- Note (summary from our notes, not a quotation): Page contents: Variant: Mission for the Stereb. The Nerve Center: grotto of eight tunnels and eight rubble piles; the eight elders; leader Eldr'har speaks in plural pronouns. Knowledge checks reveal the Stereb believe they are the planet's antibodies (Herders, Hewers, Feeders, eight sectors); Ad Hoc XP CL18 and +5 Persuasion with Stereb. (hand-read)
+  — Source: Adventures/Dawn of Defiance/09 - Sword of the Empire.pdf [Star Wars Rolep.
+Our notes: `notes/materials/037-sw-d20-folder/711-09-sword-of-the-empire.md:91`
+
+> Conditional Bonus Feat: Stereb are very adept when working with stone. Any Stereb that has Mechanics as a trained skill gains Skill Focus (Mechanics) as a bonus feat. However, this bonus applies only when the Stereb character is working with stone. Automatic Languages: Stereb. 13 “You are not a part of us. Yet you have brought a part of us back to us. You are not harmful to Prakith—you have helped Prakith. There is so much illness to Prakith—we are beset with it. We hope you have come to this place to help Prakith further.” Variant: Mission for the Stereb If the heroes do not reach this encounter from the trash-tubes but instead visit Stereb territory by entering through the Geddis mine, the Stereb elders can give them the mission of locating the missing Herdr’tui and his greethka as a condition of receiving further aid. Heroes enter the greethka cavern through the stream’s exit at the south and, finding the monster but no Herdr’tui, can engage the creature with the hope of retrieving its nucleus for the Stereb colony. There is no northern entrance into Prak City by going upstream, since the workers sealed off that route after Herdr’tui was captured.
+— Source: Adventures/Dawn of Defiance/09 - Sword of the Empire.pdf [Star Wars Rolep; Eldr'har — entry/section: Eldr'har addresses the heroes.
+(Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 09 Sword of the Empire (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_09_Sword_of_the_Empire_pdf_77329dcca1`).)
+(Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 09 Sword of the Empire (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_09_Sword_of_the_Empire_pdf_77329dcca1`).)
+Note (our notes, around the quote): Eldr'har — entry/section: Eldr'har addresses the heroes: ""You are not a part of us. Yet you have brought a part of us back to us. You are not harmful to Prakith—you have helped Prakith. There is so much illness to Prakith—we are beset with it. We hope you have come to this place to help Prakith further."" Source: *09 - Sword of the Empire* (SWRPG Saga Edition), scan p.13
+![Quote image: *09 - Sword of the Empire* (SWRPG Saga Edition), scan p.13 — full quote as printed](quotes/d711-s13-you-are-not-a-part-of.jpg)
+Our notes: `notes/materials/037-sw-d20-folder/711-09-sword-of-the-empire.md:93`
+
+> What you see inscribed in stone is the record of a desperate act, but an act of love, to save Prakith. “When the parasites first arrived, we did not know what they were. We hoped they were like us—the Stereb, the greethka, all of us who are part of the whole. But when they took to burrowing, we found they were of another. Foreign bodies, with no respect for Prakith and a danger to the system. “None alive forgets when their sound-makers and light-makers entered our world. Hundreds of Stereb were at work in what you call the Geddis caves, tending Prakith as is our purpose. The parasites took our cousins and turned them against that purpose, forcing them to join in ravaging our planet’s hide. They became part of the cancer, and we had no choice but to amputate.” There is a rush of air, and you are surprised by its foulness. The Stereb labyrinth behind you had been musty, but fresh air still flowed, perhaps due in some way to the glowing lichens. Here, there is nothing but the stench of bodies living in cramped quarters with no hope of escape. A light shines up ahead, but whatever lives here must not have much of a life. also receive a +5 bonus to any Persuasion checks involving Stereb, anywhere.
+— Source: Adventures/Dawn of Defiance/09 - Sword of the Empire.pdf [Star Wars Rolep.
+(Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 09 Sword of the Empire (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_09_Sword_of_the_Empire_pdf_77329dcca1`).)
+(Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 09 Sword of the Empire (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_09_Sword_of_the_Empire_pdf_77329dcca1`).)
+Note (our notes, around the quote): Eldr'nol — entry/section: Eldr'nol on the amputation: ""Sister Eldr'har spoke true. A cancer has come to our Prakith. On the flesh, as with those who took our herder son, and in the flesh, as well. What you see inscribed in stone is the record of a desperate act, but an act of love, to save Prakith. / "When the parasites first arrived, we did not know what they were. We hoped they were like us—the Stereb, the greethka, all of us who are part of the whole. But when they took to burrowing, we found they were of another. Foreign bodies, with no respect for Prakith and a danger to the system. / "None alive forgets when their sound-makers and light-makers entered our world. Hundreds of Stereb were at work in what you call the Geddis caves, tending Prakith as is our purpose. The parasites took our cousins and turned them against that purpose, forcing them to join in ravaging our planet's hide. They became part of the cancer, and we had no choice but to amputate."" Source: *09 - Sword of the Empire* (SWRPG Saga Edition), scan p.14
+![Quote image: *09 - Sword of the Empire* (SWRPG Saga Edition), scan p.14 — full quote as printed](quotes/d711-s14-sister-eldrhar-spoke-true-a-cancer.jpg)
+Our notes: `notes/materials/037-sw-d20-folder/711-09-sword-of-the-empire.md:100`
+
+# Debate and forum claims (unverified)
+
+Forum posts, Suspect Insight debates and Discord debates, respect threads, and verdicts. These are posters' arguments or quotations they typed; none is checked against the book here unless the entry says so.
+
+_None in our notes._

@@ -1,0 +1,147 @@
+Wookieepedia extraction: Grievous (Legends)
+Retrieved: 2026-10-04 UTC
+Final URL: https://starwars.fandom.com/wiki/Grievous/Legends
+
+Scope and article caveats
+- The requested /Legends URL loaded successfully; no fallback was needed.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The page labels itself a Legends article but warns that it is affected by Star Wars: The Clone Wars, that the Legends Clone Wars timeline is not definitive, and that Labyrinth of Evil and Star Wars: Clone Wars are conflicting sources. I have retained the article's own attributions and have not tried to reconcile continuity.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- “Hype”/opinions are kept as statements below, not presented as feats.
+
+SECTION: Early life / In the service of San Hill
+Concrete feats
+- As an organic Kaleesh, Sheelal was described as an expert sniper by age eight, with more than 40 Huk kills; by age 22 he had killed so many Huk that the Kaleesh considered him a demigod. Together with Ronderu lij Kummar he cut through Huk invaders in “countless campaigns.” [1]
+- As khagan, he forced the Huk from Kalee, stormed their colony worlds, captured their systems, and attacked the Huk homeworld and colonists. The article also says he overthrew nations, killed kings, and “murdered legends.” The last phrase is narrative/hype; the campaign and conquest claims are article statements. [1][7][12][14]
+
+SECTION: Transformation / The beginning of the war
+Concrete feats and capability statements
+- During the Battle of Geonosis (22 BBY), Grievous guarded the Separatist Council from Jedi Master Ur-Sema Du and clone companies; the article says he left none alive. Dooku then trained him in lightsaber combat. [1][7]
+- The article says he learned all seven classic Jedi forms, including Makashi and Juyo, and “quickly surpassed all the other apprentices of Dooku” in individual combat. It immediately qualifies the scaling: Dooku still considered him second to Chiss General Sev’rance Tann until Tann’s death. [7][19]
+- Mechanical details relevant to feats: each arm could split to produce four lightsaber-wielding limbs; his leg repulsorlifts let his feet function as hands; his organ sac was impervious to vacuum; eye implants protected him from vacuum. [1][9][18]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+SECTION: The General revealed — Battle of Hypori
+Named opponents and feats
+- Grievous led a droid attack that the article says obliterated a Republic task force, cut down Jedi Master Daakman Barrek, then engaged trapped Jedi including Ki-Adi-Mundi, Shaak Ti, Aayla Secura, K’Kruhk, Tarr Seirr, and Padawan Sha’a Gi. [20]
+- He killed Sha’a Gi when the Padawan ran into the open; evaded Ki-Adi-Mundi’s Force-push; blasted the Jedi aside on impact; cut down K’Kruhk; picked up and slammed Tarr Seirr with a mechanical foot; threw Seirr and Aayla Secura; fought Mundi and Shaak Ti simultaneously; overwhelmed Shaak Ti and knocked away her lightsaber; trapped Mundi’s Force-retrieved lightsaber under a foot; and was preparing to kill Mundi when ARC troopers intervened. [20]
+- He evaded ARC fire, cut through clone troopers, escaped the gunship’s laser fire and rockets, and took K’Kruhk’s fallen lightsaber as a trophy. [20]
+- Scaling/label as stated by the article: Plo Koon gave him the epithet “Butcher of Hypori.” This is a character/title statement, not an independent feat. [23]
+
+SECTION: The General revealed — Trenchant test
+- Dooku tested Grievous against Asajj Ventress and Durge. Grievous shocked and threw Durge, cut into and beheaded him, then choked Ventress unconscious despite being injured and having been attacked by both. The article says this humiliated both commanders and demonstrated his worthiness for Supreme Commander. [25]
+- The Republic HoloNet News nickname “The Knight Slayer” is an in-universe reputation statement, not itself a feat. [1]
+
+SECTION: The Malevolence
+Military/technology feats
+- As commander of the Malevolence, Grievous used its ion cannons to disable fleets and then destroy them with turbolasers. The article says the ship’s attacks left no survivors, eradicated a Republic task force in the Phu system, and destroyed Plo Koon’s Republic fleet in Abregado after disabling its deflector shields. [29][30]
+- At Kaliida Shoals he ordered an ion blast that decimated Anakin Skywalker’s fighter squadron, including his own Vulture droids in the blast zone. The Malevolence was then crippled when its ion cannon exploded; Grievous retreated. [26]
+- Named duel: aboard the Malevolence, Grievous saberlocked with Obi-Wan Kenobi, knocked him onto his back, and pursued him, but Kenobi escaped by jumping to another railjet. [28]
+
+SECTION: Battle of Bothawui
+- Grievous cut Skywalker’s fleet out of its hyperlanes and engaged it three times in open space before it escaped to Bothawui. He later led six frigates through an asteroid belt with forward shields powered, but Republic AT-TEs ambushed the fleet from behind. He abandoned command to an OOM battle droid and fled in Soulless One; Skywalker pursued him, and Grievous escaped to hyperspace after debris damaged Skywalker’s fighter. [32][33]
+- This is a concrete tactical success/failure sequence, not a clean one-on-one victory over Skywalker. [33]
+
+SECTION: Encounter on Skytop Station
+- Grievous impaled the Trandoshan scavenger Gha Nachkt after Nachkt demanded a higher price for R2-D2. He then battered Ahsoka Tano aside and killed all but two of her clone troopers. [35]
+- He fought Tano, clamped a hand around her throat, and tried to slash her after she severed that hand. Tano escaped while the station fell; Grievous escaped empty-handed. [35]
+
+SECTION: Proving his competence — Lair of Grievous
+Named duel and result
+- Grievous fought Jedi Master Kit Fisto and Jedi Nahdar Vebb while clones attacked his legs with grappling hooks. Fisto severed Grievous’s legs; Grievous continued moving, escaped the cables, battered clones, and fled into his command center. [43]
+- Vebb cut through Grievous’s bodyguards and blade-locked with him. Grievous used a blaster from a free arm to shoot Vebb while Vebb was defending against the lightsabers, then took Vebb’s lightsaber. This was an underhanded win, not a pure lightsaber victory. [43]
+- In the later Fisto duel, Grievous spun four lightsabers, fought Fisto on the platform, recovered after a Force-push, and pressed the attack. Fisto severed one of Grievous’s hands and Force-pushed him off-balance; three MagnaGuards then surrounded Fisto, who escaped in his fighter. [39][43]
+- Dooku’s assessment after Fisto escaped: “room for improvement.” This is Dooku’s evaluation, not a feat. [43]
+
+SECTION: Stands against the Jedi
+- Grievous boarded Eeth Koth’s Star Destroyer, fought through clone troopers, and took Koth hostage after MagnaGuards subdued him. The article says Grievous broadcast the victory and tortured Koth. [47]
+- Named duel: on the rescue mission, Grievous engaged Obi-Wan Kenobi aboard a Republic vessel but fled when he could not defeat him; on Saleucami he briefly stunned Kenobi and escaped. [47][52]
+- The page says Grievous also dueled Kenobi on Felucia, but the cited passage does not give an outcome. [48][50]
+
+SECTION: Battle of Dathomir
+- Grievous accepted Asajj Ventress’s single-combat challenge. Ventress severed one of his four arms and knocked him down; Grievous did not honor the duel’s terms and ordered his droids to attack her. He then cut down waves of undead Nightsisters while she escaped. [59]
+- He led the assault through the Nightsisters’ lines, executed guards and Old Daka, stopped Talzin’s spell over Dooku, and the article says the Confederacy exterminated the coven. [59]
+- This is not recorded as a clean Grievous-over-Ventress duel win: Ventress initially gained the advantage, and the outcome turned on the droid attack. [59]
+
+SECTION: Invasion of Florrum
+- Ahsoka Tano was described as much more formidable than in their first encounter but still “hopelessly outmatched.” She survived long enough to get six Jedi younglings to safety and escaped; Grievous was saved from Ohnaka’s guns by AATs. [63]
+
+SECTION: Victorious on all fronts
+- On Parein II 4, Grievous led a successful charge that crushed Republic forces led by Jedi General Sannen and Jedi Colonel Tyneir Renz. Sannen tried to apprehend Grievous but was killed by a MagnaGuard. [12][66][68]
+- He challenged General Waldan Bridger to a duel and killed him “in seconds.” The article uses this to explain why Togoria stayed with the CIS. [21]
+- Operation Durge’s Lance conquered hundreds of planets along the Corellian Trade Spine; Grievous personally supervised Duro’s defeat. He ordered an hour-long orbital bombardment of Humbarine that fragmented the planet’s crust and released the Loedorvian Brain Plague in the Weemell sector, destroying Republic armies and nearly all Humans on the planet. These are military/atrocity feats, not personal striking feats. [1][44][70]
+  Source: "Unknown Soldier: The Story of General Grievous" — Star Wars Insider 86 ; Star Wars: Revenge of the Sith Incredible Cross-Sections ; Star Wars: The Clone Wars – The Official Episode Guide: Season 1 [per Wookieepedia "Grievous/Legends" rev 15694065, ref 1,70,44; approximate match 0.63, verify; agrees with the entry's own ref marker]
+- The article says he killed 27 Jedi during the Belderone battle, but also says he was furious that the Republic learned of the operation and ultimately fled. [7]
+
+SECTION: Foes new and old
+Named duel and feats
+- On Boz Pity, Grievous surprised Jedi Master Soon Bayts and crushed Bayts’s head in his claws before Bayts could raise his lightsaber; he took Bayts’s lightsaber. Mace Windu then Force-smashed a STAP onto Grievous, knocking him unconscious; bodyguards rescued him. [79][80]
+- During the Battle of Xagobah, he easily defeated young Boba Fett and nearly killed him; Fett survived by faking death. [81]
+- Statements in the article describe Grievous’s proposal to expand bioweapon use after Honoghr as a strategic/political position, not a combat feat. [78]
+
+SECTION: Endgame — Coruscant
+Named duel and feats
+- During the Battle of Coruscant, Grievous led the assault on the capital and kidnapped Chancellor Palpatine. He fought Mace Windu and Kit Fisto atop a maglev train. The article explicitly states that he was Windu’s equal in skill despite Windu’s unfamiliar Form VII variant; the duel ended when Windu pushed him off the train. [82]
+- With six MagnaGuards, Grievous cut through the bunker, killed Jedi protectors Roron Corobb, Foul Moudama, Roth-Del Masona, and B’ink Utrila, killed clone troopers, kidnapped Palpatine, and then dueled Shaak Ti. He spared Ti to make her report the kidnapping. [7][82]
+- Mace Windu Force-crushed the plates over Grievous’s organ sac. The article says the resulting duranium injury cut his lungs and permanently worsened his coughing. [1][82]
+- When Anakin and Obi-Wan reached the Invisible Hand, Grievous survived being sucked into vacuum after breaking the cruiser’s front window and used a grappling hook to latch onto the hull. [3]
+
+SECTION: Return to Utapau and duel with Kenobi
+Named duel and the 20-strikes claim
+- Before Kenobi arrived, Grievous sent four MagnaGuards to attack; Kenobi destroyed three with the Force and decapitated the fourth. [3]
+- Still weakened by Windu’s injury, Grievous split his arms into four and attacked Kenobi personally. The article states that he could not penetrate Kenobi’s Form III defense “even when attacking him at a rate of twenty strikes per second”; Kenobi changed the angle of his parries and severed two of Grievous’s wrists. [3][88]
+- Grievous then taunted Kenobi that the Jedi and his brethren would fall even with clone assistance. Kenobi Force-pushed him into a wall and knocked away the remaining lightsabers; Grievous fled on his wheel bike. [3]
+- After the chase, Grievous fought Kenobi hand-to-hand and threw him off the landing platform, then charged with an electrostaff. Kenobi used the Force to pull Grievous’s Grievance Striker blaster to him and fired five bolts through the chest gap into the organ sac, killing Grievous. [3][89]
+
+SECTION: Talents and abilities — article’s explicit power/scaling statements
+- The article calls Grievous “a cold and calculating general, a brilliant strategist, and a powerful fighter,” “one of the greatest Jedi hunters,” and a collector of the lightsabers of fallen Jedi. These are descriptive/reputation statements. [7]
+- It states that Dooku-trained Grievous developed an unorthodox form with prolonged lightning-fast flurries and power moves; Dooku was frustrated by Grievous’s lack of finesse. [7]
+- It states that his four-lightsaber storm could reach “as many as 20 strikes per second,” “enough to overwhelm most Jedi defenses.” Source cited by the article: Star Wars Episode III: Revenge of the Sith novel [88]. This is the requested claim; the article also uses [3] for the general lightsaber-storm description.
+- It states that he could continuously spin his torso and wrists 360 degrees, wield six lightsabers using his feet, and battle/hold his own against several Jedi simultaneously. [7][20]
+- It states that his cybernetic limbs gave him strength greater than most alien races; he could force opponents back/disarm them, hurl Obi-Wan “like a rag doll” in unarmed combat, and use durasteel plates as a highly durable “metal wall.” These are article claims, with [20] for the multi-Jedi combat and [7][88] for other passages.
+- It says he killed dozens of Jedi, from Padawans to Masters, naming Roron Corobb, Soon Bayts, Foul Moudama, Pablo-Jill, and Nahdar Vebb. It also says his collection included lightsabers of beings he did not personally kill, including K’Kruhk, Sifo-Dyas, and Darth Zannah. [7][10][12][20][43][79]
+- The article states that he could duel Mace Windu evenly even with limited movement and two lightsabers, and that his advanced combat algorithms could analyze attacks and calculate a response to Windu’s Vaapad. This is explicit article scaling, not a separate feat; the cited source is Labyrinth of Evil [7].
+- It calls him a military genius, while noting that some argued he lacked subtlety; it also says he could directly control droid armies via antennae. These are statements/reputation, not direct combat feats. [7][15][70]
+- It states that his mechanical body let him survive vacuum and that Mace Windu considered him “almost as adept at handling a ship as he was a lightsaber.” This is a statement attributed to Windu, not a demonstrated duel feat. [7][9]
+
+Selected cited-source key (article Notes and references)
+[1] “Unknown Soldier: The Story of General Grievous” — Star Wars Insider 86.
+[3] Star Wars: Episode III Revenge of the Sith (film).
+[7] Labyrinth of Evil.
+[9] The New Essential Guide to Droids.
+[10] “The Eyes of Revolution” — Star Wars: Visionaries.
+[12] “The Story of General Grievous: Lord of War” on Hyperspace.
+[14] The New Essential Guide to Alien Species.
+[15] The Complete Star Wars Encyclopedia.
+[19] Star Wars: Galactic Battlegrounds: Clone Campaigns.
+[20] Star Wars: Clone Wars — “Chapter 20.”
+[21] The New Essential Chronology.
+[23] Star Wars: The Clone Wars: Lightsaber Duels.
+[25] “Rogue’s Gallery” — Star Wars: Clone Wars Adventures Volume 3.
+[26] Star Wars: The Clone Wars — “Shadow of Malevolence.”
+[28] Star Wars: The Clone Wars — “Destroy Malevolence.”
+[29] Star Wars: The Clone Wars — “Rising Malevolence.”
+[30] The Clone Wars: Shakedown.
+[32] The Clone Wars: Wild Space.
+[33] Star Wars: The Clone Wars — “Downfall of a Droid.”
+[35] Star Wars: The Clone Wars — “Duel of the Droids.”
+[39] Star Wars: The Clone Wars — “Lair of Grievous” (Decoded).
+[43] Star Wars: The Clone Wars — “Lair of Grievous.”
+[47] Star Wars: The Clone Wars — “Grievous Intrigue.”
+[48] Felucia in the Databank.
+[50] The Essential Atlas.
+[52] Star Wars: The Clone Wars — “The Deserter.”
+[59] Star Wars: The Clone Wars — “Massacre.”
+[63] Star Wars: The Clone Wars — “A Necessary Bond.”
+[66] General Grievous 1.
+[68] “Friday Feature – Game Update 12 — Engineering Trader” on Star Wars Galaxies.
+[70] Star Wars: Revenge of the Sith Incredible Cross-Sections.
+[73] General Grievous 4.
+[78] Yoda: Dark Rendezvous.
+[79] Obsession 4.
+[80] Obsession 5.
+[81] Boba Fett: A New Threat.
+[82] Star Wars: Clone Wars — “Chapter 25.”
+[88] Star Wars Episode III: Revenge of the Sith novel.
+[89] Star Wars Galaxies: Rage of the Wookiees — item “Grievance Striker.”
+[90] Star Wars: Episode III Revenge of the Sith junior novelization.

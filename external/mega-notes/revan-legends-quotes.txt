@@ -1,0 +1,664 @@
+REVAN (LEGENDS) — FEAT / CITED-STATEMENT EXTRACTION
+Page: https://starwars.fandom.com/wiki/Revan/Legends
+Scope: article body through External links. Inline bracket numbers are the article's citations. Quotes/sentences below are copied from the article; “Scaling/connection” is a short note limited to what the article itself says.
+
+OVERVIEW
+
+[Statement — Overview]
+“Revan—renowned as the Revanchist, honored as the Revan, reviled as Revan the Butcher, dreaded as the Dark Lord of the Sith Darth Revan, and praised as the Prodigal Knight—was a Human male who played pivotal roles as both Jedi and Sith in the Mandalorian Wars and the Jedi Civil War.”
+Scaling/connection: Summary statement of his roles; not itself a feat.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Revan/Legends" rev 15723634 but it has no inline citation in its paragraph; exact text match)
+
+[Statement — Overview]
+“Savior, conqueror, hero, villain. You are all things, Revan… and yet you are nothing. In the end, you belong to neither the light nor the darkness. You will forever stand alone.” —Darth Malak[10]
+Scaling/connection: Malak’s opinion/characterization, not a feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Overview]
+“However, when Revan defeated the Mandalorian leader Mandalore the Ultimate at the Battle of Malachor V in 3960 BBY, Revan and his friend Alek, by then known as Malak, followed the trail of a mysterious Sith influence on the Mandalorian Wars to the Unknown Regions…”
+Scaling/connection: Victory over Mandalore the Ultimate; the article identifies Mandalore as the Mandalorian leader.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Revan/Legends" rev 15723634 but it has no inline citation in its paragraph; exact text match)
+
+[Feat — Overview]
+“Sent back to the Republic as advance agents, the newly anointed Dark Lords of the Sith Darth Revan and Darth Malak broke free of the Emperor’s mental control and established their own empire with the Star Forge…”
+Scaling/connection: Revan and Malak are the pair who broke free of the Sith Emperor’s control; Revan then used the Star Forge to establish an empire.
+  Source: The Old Republic: Revan ; Star Wars: The Old Republic — Flashpoint: "The Foundry" ; Timeline 8: The Jedi Civil War on The Old Republic's official website (article) (backup link) [per Wookieepedia "Revan/Legends" rev 15723634, ref 9,3,33; article sentence itself uncited (lead/summary); citation taken from the closest cited body passage, approximate match 0.71, verify]
+
+EARLY LIFE AND JEDI TRAINING
+
+[Statement — Early life and Jedi training]
+“Both Humans received further training from the Twi’lek Jedi Master Zhar Lestin, who noted that the man later known as Revan possessed what he described as an insatiable desire for knowledge.”
+Scaling/connection: Lestin’s observation about young Revan; statement, not a combat feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Statement — Early life and Jedi training]
+“Alongside Alek, the man achieved the rank of Jedi Knight sometime before the year 3964 BBY,[16] and the two were widely acknowledged as being among the most promising members of the Jedi Order. However, Alek’s friend was commonly recognized as the more powerful and intelligent of the pair, and he was seen as the leader among the two.[10] By 3964 BBY, the man was a well-known, charismatic, and powerful Jedi Knight.[16]”
+Scaling/connection: Direct comparison: Revan was commonly recognized as more powerful and intelligent than Alek/Malak; “powerful Jedi Knight” is a cited characterization.
+  Source: Star Wars: Knights of the Old Republic Handbook ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 16,10; exact text match; agrees with the entry's own ref marker]
+
+THE REVANCHIST / PERSUADING THE JEDI
+
+[Statement — The Revanchist]
+“Charismatic and powerful, it was inevitable many of the Order would flock to Revan’s seemingly noble cause.” —Zhar Lestin[10]
+Scaling/connection: Lestin’s opinion explaining Revan’s following; statement, not a feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Persuading the Jedi]
+“In the Battle of Serroco, the Mandalorians bombed the planet’s surface with nuclear warheads, and the Revanchist felt the death of thousands of innocents from several sectors away.[20]”
+Scaling/connection: Long-range Force sensing; the sensed event was a Mandalorian nuclear bombardment killing thousands.
+  Source: Knights of the Old Republic 15 [per Wookieepedia "Revan/Legends" rev 15723634, ref 20; exact text match; agrees with the entry's own ref marker]
+
+MASSACRE ON CATHAR
+
+[Feat — Massacre on Cathar]
+“Drawing his violet-bladed lightsaber and adopting the simpler name of Revan, he vowed to wear the mask until all of the Mandalorians were brought to justice for their atrocities.[21]”
+Scaling/connection: This is a vow and identity transition, not a feat by itself.
+  Source: Knights of the Old Republic 42 [per Wookieepedia "Revan/Legends" rev 15723634, ref 21; exact text match; agrees with the entry's own ref marker]
+
+FIGHTING THE MANDALORIANS
+
+[Feat — Fighting the Mandalorians]
+“Revan quickly won a string of military victories, proving himself to the Republic military a capable military leader,[10] and in 3962 BBY, Revan and Malak prevented the Battle of Duro from becoming an even larger disaster by bringing a fleet of Interdictor-class cruisers into the system and preventing the Mandalorians from escaping with large amounts of war materiel from Duro’s orbital shipyards.[27]”
+Scaling/connection: Revan and Malak prevent the Mandalorian escape; this earns Revan recognition as a capable military leader.
+  Source: Star Wars: Knights of the Old Republic ; The Essential Guide to Warfare [per Wookieepedia "Revan/Legends" rev 15723634, ref 10,27; exact text match; agrees with the entry's own ref marker]
+
+[Statement — Fighting the Mandalorians]
+“In light of their accomplishments, Supreme Chancellor Tol Cressa named Revan Supreme Commander[27] and placed a third of the Republic Military under his direct command.”
+Scaling/connection: Formal promotion based on Revan and Malak’s accomplishments; not itself a combat feat.
+  Source: The Essential Guide to Warfare ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 27,10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Showdown]
+“Though under the thrall of the dark side, Revan did not renounce the Jedi ways initially, and he and Malak continued to battle the Mandalorians.”
+Scaling/connection: General statement; the specific victories follow in the same section.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Showdown]
+“Despite Mandalore’s strength, he was eventually overcome by his Jedi opponent, and at the end of the duel, Mandalore lay dying at Revan’s feet.[9]”
+Scaling/connection: Explicit one-on-one victory over Mandalore the Ultimate; the article calls Mandalore a strong warrior elsewhere.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Showdown]
+“With Revan’s victory, the Republic forces began to press the Mandalorian forces closer and closer to Malachor V.”
+Scaling/connection: The article directly connects Revan’s victory over Mandalore to the Republic’s advance.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Revan/Legends" rev 15723634, ref 13; exact text match]
+
+[Feat — Showdown]
+“It was then that Surik commanded Bao-Dur to activate the Mass Shadow Generator… Countless ships were pulled from orbit and slammed into Malachor V’s crust, crushing them and fracturing the planet to its very core. Thousands died on both sides of the battle, though the Mandalorians suffered far more casualties than the Republic.[13]”
+Scaling/connection: Revan designed the trap and placed Surik in command of the bait fleet; Surik/Bao-Dur activated the weapon. The article attributes the final victory to Revan’s plan but not sole activation.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Revan/Legends" rev 15723634, ref 13; exact text match; agrees with the entry's own ref marker]
+
+RISE OF THE SITH / SEARCHING FOR ANSWERS
+
+[Feat — Searching for answers]
+“Revan and Malak traveled alone to Nathema,[9] which was a world in the distant Chorlian sector,[31] and they were astonished to discover that the planet was completely barren of the Force.”
+Scaling/connection: Exploration/discovery feat; no direct combat scaling.
+  Source: The Old Republic: Revan ; Star Wars: The Essential Atlas Online Companion on StarWars.com (article) (backup link) [per Wookieepedia "Revan/Legends" rev 15723634, ref 9,31; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Searching for answers]
+“When Revan and Malak arrived at the Emperor’s throne room, the Sith ruler was ready for them—instead of fighting them, the Emperor reached out and dominated their minds, twisting the pair into his servants…”
+Scaling/connection: The article explicitly says the Emperor dominated both Revan and Malak; this is a loss/anti-feat, not a Revan feat.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+DARK LORD OF THE SITH / JEDI CIVIL WAR
+
+[Feat — Dark Lord of the Sith]
+“By 3959 BBY,[32] using information from the four Star Maps, Revan and Malak were able to triangulate the location of the Star Forge in the Lehon system.”
+Scaling/connection: Revan and Malak’s combined research/strategic feat; the Star Maps lead to the Star Forge.
+  Source: Star Wars: The Old Republic Encyclopedia ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 32,10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Dark Lord of the Sith]
+“Unable to understand the primitives’ language, Revan tore the knowledge from the One, the Rakatan leader.”
+Scaling/connection: Force-based extraction of knowledge from the Rakatan leader, the One.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Dark Lord of the Sith]
+“The pair had broken free of the Emperor’s control by the time they boarded the Star Forge… Darths Revan and Malak declared themselves leaders of a new Sith Empire, and Darth Revan took on Darth Malak as his Sith apprentice.”
+Scaling/connection: The pair broke free before boarding; Malak is explicitly Revan’s apprentice.
+  Source: Star Wars: The Old Republic Encyclopedia [per Wookieepedia "Revan/Legends" rev 15723634, ref 32; exact text match]
+
+[Feat — Dark Lord of the Sith]
+“Taking a fragment of the Star Forge, no bigger than a fingertip, Revan experimented with it and discovered that the device fed on whatever it was given—whether it be the Force or simply basic mass—and returned the basic building blocks of the universe: water, air, carbon, and even life.”
+Scaling/connection: Revan’s experiment with a Star Forge fragment; the article attributes the output to the device, not to Revan’s personal power.
+  Source: Star Wars: The Old Republic — Imperial Mission: "Revan's Secret" on Nar Shaddaa [per Wookieepedia "Revan/Legends" rev 15723634, ref 36; exact text match]
+
+[Feat — The Jedi Civil War begins]
+“For his first attack as part of a planned twenty-year campaign against the Republic,[37] Revan used his knowledge of the Republic Military’s inner workings and attacked the shipyards of the planet Foerost.[32] In the Battle of Foerost, Revan’s forces seized most of the Republic warships there and destroyed the rest, beginning the Jedi Civil War.[32]”
+Scaling/connection: Strategic use of inside knowledge; Revan’s forces defeat/seize the Republic shipyard fleet.
+  Source: "Heritage of the Sith" — Star Wars Insider 88 ; Star Wars: The Old Republic Encyclopedia [per Wookieepedia "Revan/Legends" rev 15723634, ref 37,32; exact text match; agrees with the entry's own ref marker]
+
+[Feat — The Jedi Civil War begins]
+“However, the Echani general Yusanis learned of Revan’s role in the Echani Senator’s death and challenged the Sith Lord to a duel, though the general was slain in combat with Revan.[10]”
+Scaling/connection: Revan kills General Yusanis in a duel; the article identifies Yusanis as an Echani general.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — The Jedi Civil War begins]
+“Malak’s comments sparked a duel between the two that ended when Revan delivered a lightsaber strike to his apprentice that removed Malak’s jaw.”
+Scaling/connection: Revan defeats and maims his own apprentice Malak in a duel.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Revan/Legends" rev 15723634, ref 8; exact text match]
+
+[Feat — The Jedi Civil War begins]
+“Revan’s specially trained Sith assassins struck at targets across the galaxy, capturing enemy Jedi and killing those who would not turn.[13]”
+Scaling/connection: Revan’s strategy and trained assassins target Jedi across the galaxy; not a claim that Revan personally killed each target.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Revan/Legends" rev 15723634, ref 13; exact text match; agrees with the entry's own ref marker]
+
+[Feat — The Jedi Civil War begins]
+“Revan dispatched several Jedi and Republic soldiers when they attacked him on the command deck of his vessel…”
+Scaling/connection: Revan personally defeats multiple attacking Jedi and Republic soldiers before the bridge ambush.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — The Jedi Civil War begins]
+“Amid the confusion, Shan rushed forward and delivered a Force push to the Sith Lord’s chest, sending him flying,[15] Revan was critically injured in the explosions and the fighting that followed.”
+Scaling/connection: Bastila Shan’s Force push and Malak’s attack critically injure Revan; this is an explicit loss/anti-feat.
+  Source: Jedi vs. Sith: The Essential Guide to the Force ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 15,10; exact text match; agrees with the entry's own ref marker]
+
+SOLDIER OF THE REPUBLIC / TARIS
+
+[Feat — Soldier of the Republic: Aboard the Endar Spire]
+“After Revan was ready, Ulgo unlocked the room’s door and the two departed their bunk in order to locate Shan per their orders to ensure her safety. However, they were contacted by Captain Carth Onasi… Upon entering the next hallway, the two soldiers discovered a pair of Sith troopers and opened fire on the boarders, killing them.[10]”
+Scaling/connection: Revan and Trask Ulgo kill two Sith troopers; later passages say Revan and Ulgo fought off more troopers.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Searching for Bastila]
+“In a series of duels, Revan fought and defeated the Humans Deadeye Duncan, Gerlon Two-Fingers, Ice, and Marl, and finally the Rodian dueling champion Twitch to become the planet’s dueling champion.[10]”
+Scaling/connection: Revan defeats the listed Taris duelists, including Twitch, the reigning Rodian champion.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — To the Lower City and beyond]
+“After Revan and Onasi killed the three Sith, Revan spoke with the Aqualish…”
+Scaling/connection: Revan and Onasi defeat a Sith commander and two soldiers; the passage says Revan intervened to save the threatened Aqualish.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Into the Undercity]
+“Fighting through the vicious rakghouls in the area, Revan and company located the body of a Sith soldier and recovered some of the rakghoul serum…”
+Scaling/connection: Revan and companions defeat rakghouls; the article gives no numerical count.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Fighting the Black Vulkars]
+“Passing the dead beast, the trio defeated the two Vulkar guards in the next passage and then took the elevator into the Vulkar base.[10]”
+Scaling/connection: Revan, Mission Vao, and Carth Onasi defeat two guards after bypassing the rancor.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Fighting the Black Vulkars]
+“During the swoop races, Revan beat the top time and then outraced Redros, the Black Vulkar racer, when Redros beat Revan’s first time.[10]”
+Scaling/connection: Revan beats Redros after Redros sets the new top time.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Escaping Taris]
+“After destroying a large shielded battle droid that was guarding the elevator, the trio descended to the lower levels of the base to find the planet’s Sith Governor… However, Revan and his companions overcame the Sith, killing the governor…”
+Scaling/connection: Revan’s group destroys a shielded battle droid and defeats the Sith Governor.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Escaping Taris]
+“Revan successfully destroyed the Sith fighters just before the Hawk jumped to hyperspace…”
+Scaling/connection: Revan operates the Ebon Hawk’s guns and destroys pursuing Sith fighters during the escape from Taris.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+LEARNING ON DANTOOINE / A JEDI ONCE MORE
+
+[Statement — Learning on Dantooine]
+“Belaya was surprised and suspicious of Revan’s claim of not being a Padawan, as she sensed he possessed great strength in the Force…”
+Scaling/connection: Belaya’s Force-sense assessment; statement, not a feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Statement — Learning on Dantooine]
+“Lestin often expressed his astonishment at the rapid pace which Revan learned the ways of the Jedi…”
+Scaling/connection: Lestin’s assessment of Revan’s retraining speed; statement, not a direct combat feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Learning on Dantooine]
+“Revan and his companions dispatched the Mandalorian and the Duros.”
+Scaling/connection: Revan’s party defeats the Mandalorian and Duros raiding party.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Learning on Dantooine]
+“Revan battled the Cathar and wounded her, driving her back and causing her stop attacking.”
+Scaling/connection: Revan defeats Juhani in their first duel; the passage says Juhani was a Cathar Jedi using the dark side.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — A Jedi once more]
+“Sherruk and his companions were defeated by Revan and his friends, and the trio headed north to the ruins.[42]”
+Scaling/connection: Revan’s group defeats the Mandalorian leader Sherruk and his companions.
+  Source: The Complete Star Wars Encyclopedia, Vol. III, p. 145 ("Sherruk") [per Wookieepedia "Revan/Legends" rev 15723634, ref 42; exact text match; agrees with the entry's own ref marker]
+
+[Feat — A Jedi once more]
+“Passing the building’s tests, Revan successfully breached the two seals and entered the heart of the ruins…”
+Scaling/connection: Revan completes the Star Map ruin’s lethal guardian tests after Nemo had died there; the artifact points toward the Star Forge.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+TATOOINE
+
+[Feat — Tatooine: The sands of Tatooine]
+“The Dark Jedi attacked Revan and his companions, forcing Shan, Ordo, and Revan to battle the three Force-users and kill them.[10]”
+Scaling/connection: Revan, Shan, and Ordo defeat three Dark Jedi in Anchorhead.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Statement — Into the Dune Sea]
+“Translation: The greatest challenge for a warrior is to face a krayt dragon, the largest predator on Tatooine. Fight one of those and bring back a dragon pearl. Disgust: I think he’s making fun of you, master. He doesn’t believe an outsider could do such a thing.” —HK-47[10]
+Scaling/connection: HK-47’s translation/commentary; statement, not a Revan feat (the dragon is killed with Fortuna’s mines and bantha lure).
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Leaving Tatooine]
+“Revan and the others were forced to battle the bounty hunter and his mercenaries until Nord and the thugs were all dead.[10]”
+Scaling/connection: Revan’s group kills Calo Nord and his mercenaries; the article notes Nord was hired by Darth Malak to hunt Revan and his allies.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+KASHYYYK / THE SHADOWLANDS
+
+[Feat — Into the Shadowlands]
+“Despite Zaalbar’s apprehension, the trio made their way toward his home village of Rwookrrorro, though they encountered a trio of Dark Jedi and defeated their attackers.”
+Scaling/connection: Revan’s group defeats three Dark Jedi.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Meeting Jolee Bindo]
+“Having succeeded doing so, Revan and his companions withdrew as a terentatek stormed through the unprotected camp and sent the Czerka employees running.”
+Scaling/connection: Revan disables the sonic emitters, leaving the terentatek to drive off the Czerka poachers; the article does not say Revan personally defeated that terentatek here.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Aiding the Wookiees]
+“Revan and the others fought and managed to kill the Great Beast, retrieving Bacca’s blade from its hide…”
+Scaling/connection: Revan’s party kills the enormous terentatek called the Great Beast; it had previously killed the warrior Rothrrrawr and Jedi Guun Han Saresh’s combat context is mentioned.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Aiding the Wookiees]
+“During Revan’s fight with the defense droids, the computer scanned his neural patterns and confirmed that his patterns were identical to the results of almost five years earlier.”
+Scaling/connection: The Rakatan computer confirms the mind-wiped Jedi is the same individual as the former Darth Revan; the defense droids are destroyed by Revan and companions.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; approximate match 0.97, verify]
+
+[Feat — Aiding the Wookiees]
+“After they defeated the last of the Mandalorians,[10] Revan and the others returned to Grrrwahrr and reported their success.[47]”
+Scaling/connection: Revan’s group defeats the Mandalorian attackers hunting Wookiee parties.
+  Source: Star Wars: Knights of the Old Republic ; The Complete Star Wars Encyclopedia, Vol. I, p. 372 ("Grrrwahrr") [per Wookieepedia "Revan/Legends" rev 15723634, ref 10,47; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Aiding the Wookiees]
+“In the battle that followed, Chuundar,[48] his Wookiee guards, and the Czerka guards present in the room were killed by Freyyr, Zaalbar, Revan, and the Jedi’s companions.”
+Scaling/connection: Revan’s side kills Chuundar and the assembled Wookiee/Czerka guards.
+  Source: The Complete Star Wars Encyclopedia, Vol. I, p. 127 ("Chuundar") ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 48,10; exact text match; agrees with the entry's own ref marker]
+
+MANAAN
+
+[Feat — Searching the oceans]
+“In the Ahto East district, Revan competed on the Ahto City swoop track… Revan outraced every other competitor, even Molto, taking the Ithorian’s title.[53]”
+Scaling/connection: Revan defeats every other competitor, including Sector Champion Queedle Molto.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 144 ("Jax, Hukta") [per Wookieepedia "Revan/Legends" rev 15723634, ref 53; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Searching the oceans]
+“The trio were forced to fight the embassy’s personnel, and they encountered and defeated several Dark Jedi while exploring the complex.”
+Scaling/connection: Revan and companions defeat several Dark Jedi in the Sith Embassy.
+  Source: The Complete Star Wars Encyclopedia, Vol. I, p. 312 ("Galas") [per Wookieepedia "Revan/Legends" rev 15723634, ref 51; exact text match]
+
+[Feat — Searching the oceans]
+“While in the embassy, Revan and his companions confronted the Sith Master in charge of all Sith activity on Manaan and defeated him and his apprentices…”
+Scaling/connection: Revan’s group defeats the Sith Master responsible for all Sith activity on Manaan and his apprentices.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Exploring Hrakert Station]
+“Bandon and his allies proceeded to attack Revan and his companions, but Bandon was unable to overcome his enemies and fell to Revan’s blade.[10]”
+Scaling/connection: Revan kills Darth Bandon, explicitly identified as Darth Malak’s Sith apprentice.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+KORRIBAN / THE HEART OF THE SITH
+
+[Feat — Exploring the Valley of the Dark Lords]
+“Among the corpses was the body of a Jedi wearing a set of robes, which Revan took. The body was that of the Jedi Duron Qel-Droma, who had been killed by the terentatek[57] forty years earlier…”
+Scaling/connection: This establishes the terentatek’s prior kill, not a Revan kill; Revan later defeats the terentatek in the same cave.
+  Source: "Shadows and Light" — Star Wars Tales 23 ; The New Essential Chronology [per Wookieepedia "Revan/Legends" rev 15723634, ref 57,28; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Exploring the Valley of the Dark Lords]
+“Near the rear of the cave, Revan and his allies engaged the monstrous Sithspawn, slaying the beast…”
+Scaling/connection: Revan’s group kills the terentatek that had killed Duron Qel-Droma.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Exploring the Valley of the Dark Lords]
+“To Uln’s surprise, Revan was still standing by the end of the test, and Mekel joined with Revan in attacking and defeating the Sith.[59]”
+Scaling/connection: Revan endures repeated Force-lightning blasts during Jorak Uln’s test, then helps defeat Uln.
+  Source: The Complete Star Wars Encyclopedia, Vol. III, p. 278 ("Uln, Jorak") [per Wookieepedia "Revan/Legends" rev 15723634, ref 59; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Leaving Korriban]
+“However, to Wynn’s surprise, Revan sided with Ban and the Twi’lek and Jedi fought and defeated the elder Sith. When Wynn finally fell, Ban turned on Revan and tried to eliminate her student, but Revan overwhelmed her and drove her to defeat.”
+Scaling/connection: Revan defeats Sith Master Uthar Wynn, then overwhelms Wynn’s apprentice Yuthura Ban.
+  Source: The Complete Star Wars Encyclopedia, Vol. III, p. 337 ("Wynn, Uthar") [per Wookieepedia "Revan/Legends" rev 15723634, ref 60; exact text match]
+
+[Feat — Leaving Korriban]
+“He later used the cold grenade to cross a pool of acid that blocked his path to the Star Map, and after fighting through several more wraids Revan finally reached his goal and recorded the data from the ancient device.[10]”
+Scaling/connection: Revan traverses Naga Sadow’s tomb, defeats/gets past its wraids and terentateks, and retrieves the final Star Map.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+THE BATTLE OF RAKATA PRIME / STAR FORGE
+
+[Feat — Trapped on Lehon]
+“Despite the enemy’s superior numbers, Revan and his allies emerged victorious, and Revan freed the Elder scout from his imprisonment.[10]”
+Scaling/connection: Revan’s group defeats the One, his Rakatan warriors, and several rancors at the Black Rakata settlement.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Reaching the Temple]
+“Revan was recognized by several of the Dark Jedi, though they viewed him as weak for having submitted to the Jedi Council, and none of the Dark Jedi survived their encounters with the three Jedi.”
+Scaling/connection: Revan, Jolee Bindo, and Juhani defeat all encountered Dark Jedi in the Temple of the Ancients.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Reaching the Temple]
+“When she was driven back and wounded, Shan stopped and spoke of her belief that Revan had drawn on the dark side to defeat her—but when Revan told her otherwise, she spoke contemptuously of their bond and how she could sense his darkness.[10]”
+Scaling/connection: Revan defeats Bastila Shan in their first Temple duel; Shan is a battle-meditation-capable Jedi and later becomes Malak’s apprentice.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Facing the woman he loved]
+“When Revan defeated her for a third and final time, she begged him to end her suffering and to kill her.[10]”
+Scaling/connection: Revan defeats Shan three times in the Star Forge command-center encounter and chooses not to kill her.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — A final confrontation]
+“However, Revan continued to fight, wearing Malak down and destroying the machinery he used to draw energy from the Jedi… but ultimately Malak was driven to his knees, fatally wounded.[10]”
+Scaling/connection: Revan defeats Darth Malak after Malak uses the Star Forge to replenish himself from dead Jedi.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Statement — A final confrontation]
+“Canderous Ordo… swore that he would follow Revan—the greatest warrior of his age—to the end…”
+Scaling/connection: Ordo’s opinion, explicitly a “greatest warrior” style statement; not counted as a feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Statement — A final confrontation]
+“Master Tokare himself stepped forward to recognize Revan’s accomplishments, granting him the title of Jedi Knight and declaring him to be the Jedi’s Prodigal Knight.”
+Scaling/connection: Formal Jedi recognition after the Star Forge victory; statement, not a separate feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+AFTER THE WARS / CLAIMING MANDALORE’S MASK
+
+[Feat — Rediscovering the past]
+“Shortly after the Battle of Rakata Prime, Revan returned to Korriban and drove the remnants of his Empire from the Sith tombworld.[35]”
+Scaling/connection: Revan expels the remaining forces of his own former Sith Empire.
+  Source: Darth Bane: Path of Destruction [per Wookieepedia "Revan/Legends" rev 15723634, ref 35; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Claiming Mandalore’s Mask]
+“Revan’s Force-enhanced reflexes allowed him to survive most of the wind, but a particularly strong wind sent the Ebon Hawk sliding toward a glacier that Revan barely avoided…”
+Scaling/connection: Revan uses Force-enhanced reflexes while piloting in Rekkiad’s storm; survival/piloting feat.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Fight for the Mask]
+“Using his knowledge of battling the Basilisks during the war, Revan took advantage of the droids’ inability to change direction quickly to damage one and then slay the rider.”
+Scaling/connection: Revan uses prior experience against Basilisk war droids to kill a rider during Clan Jendri’s attack.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Fight for the Mask]
+“Revan was already moving with his lightsaber by the time she finished talking, deflecting the attackers’ blaster bolts back at them and taking down one of the Mandalorians…”
+Scaling/connection: Revan deflects and redirects Mandalorian blaster fire, kills one attacker, and later dispatches two more with a thrown lightsaber.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Fight for the Mask]
+“Taking advantage of the others’ confusion, Revan dispatched the remaining two with a sidearm throw of his lightsaber.”
+Scaling/connection: Revan kills two remaining Mandalorian attackers with a telekinetically/skillfully thrown lightsaber.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+THREAT OF THE SITH / CAPTIVE
+
+[Feat — Captive]
+“When he failed to respond to their questions, their interrogation droid began to torture him, and Revan was able to resist their efforts for four hours before Scourge was ordered to take a break.”
+Scaling/connection: Revan resists interrogation torture for four hours while drugged/suppressed.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Captive]
+“Over the next three years, Revan remained a prisoner in his cell as Scourge tortured him for information…”
+Scaling/connection: Extended resistance to Scourge’s torture; the article says Scourge became fascinated by Revan’s strength and connection to the Force.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+AN UNLIKELY RESCUE
+
+[Feat — An unlikely rescue]
+“Reaching out with the Force, Revan tried to amplify the guards’ fear and confusion as he ordered the guard to put down the weapon, and he promised as a Jedi to spare their lives.”
+Scaling/connection: Revan mentally influences two guards while weakened by drugs; the guards surrender.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — An unlikely rescue]
+“Revan extended his hands and absorbed the bolts of lightning before unleashing them back upon their caster, reducing Nyriss to a pile of ash in a matter of seconds.[9]”
+Scaling/connection: Revan absorbs and redirects Darth Nyriss’s Force-lightning storm, killing her. The article identifies Nyriss as a Dark Council member and Sith Lord.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+CONFRONTING EVIL / REVAN IMPRISONED
+
+[Feat — Confronting evil]
+“After Surik and Scourge crossed the threshold with their opponents, Revan slammed the room’s doors shut and ordered T3-M4 to seal the doors before he turned to face the Emperor.[9]”
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Confronting evil]
+“Revan dispatched the man with his lightsaber nonetheless and turned to find Surik and Scourge still locked in combat while retreating, so he reached out with the Force and pulled down the stone archway in the hallway to cut off the Guards’ reinforcements.[9]”
+Scaling/connection: Revan destroys a large stone archway from a great distance on Dromund Kaas to block Imperial Guard reinforcements.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Confronting evil]
+“This time, Revan opened himself to the Force and allowed both the light and dark sides to flow through him before he released the Force in its purest form—an action that lit up the air between him and the Emperor and sent both of them flying.”
+Scaling/connection: Revan channels both light and dark sides simultaneously against the Sith Emperor; the exchange throws both combatants.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Confronting evil]
+“Recovering, Revan raced toward his enemy and deflected the Emperor’s first bolt of lightning… and he deflected the final attack straight back at the Emperor.”
+Scaling/connection: Revan deflects multiple lightning attacks from the Sith Emperor before a later, larger storm overwhelms him.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Anti-feat — Confronting evil]
+“The power of the attack overwhelmed him and sent electricity coursing through his body, boiling his skin and causing his mask to superheat on his burning face.[9]”
+Scaling/connection: The Sith Emperor’s massive lightning storm overwhelms Revan; the article records this as a direct loss in the exchange.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Revan imprisoned]
+“However, Revan resisted the Emperor’s influence with his strength of will, and the Force ghost of Surik remained next to him, lending her friend the strength to fight the Emperor, preventing the Sith from taking his knowledge.[9]”
+Scaling/connection: Revan resists the Emperor’s mind-link and knowledge extraction; Surik’s Force ghost assists him.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Revan imprisoned]
+“Revan used their link in reverse to temper the Emperor’s aggression and slow the Sith’s plans to wage war on the Republic.[14]”
+Scaling/connection: Revan uses the mental link against the Emperor to restrain his aggression and delay the war.
+  Source: Star Wars: The Old Republic — Flashpoint: "Maelstrom Prison" [per Wookieepedia "Revan/Legends" rev 15723634, ref 14; exact text match; agrees with the entry's own ref marker]
+
+FREEDOM AND FALL / SPLINTERED
+
+[Feat — Freedom and fall]
+“After battling through the prison’s personnel and defeating Kilran himself, the strike team deactivated Revan’s prison, freeing the Jedi Master from stasis.”
+Scaling/connection: The article credits the Republic strike team with defeating Imperial Grand Moff Rycus Kilran; Revan is the prisoner freed.
+  Source: Star Wars: The Old Republic — Flashpoint: "Maelstrom Prison" [per Wookieepedia "Revan/Legends" rev 15723634, ref 14; exact text match]
+
+[Feat — Freedom and fall]
+“Using the Foundry, Revan began to construct an army of extermination droids that he planned to unleash upon the Empire with the assignment of exterminating everyone with Sith pureblood ancestry.”
+Scaling/connection: Revan uses the Rakatan Foundry to build an army; this is an attempted mass-production/strategy feat, not a completed victory.
+  Source: Star Wars: The Old Republic — Flashpoint: "The Foundry" [per Wookieepedia "Revan/Legends" rev 15723634, ref 3; exact text match]
+
+[Feat — Freedom and fall]
+“Unleashing bursts of lightning and hurling chunks of asteroid harvested by the Foundry at his opponents, Revan dueled the four strike team members throughout the chamber, but Revan was ultimately driven to defeat.”
+Scaling/connection: Revan fights four Imperial strike-team members using lightning and telekinetically hurled asteroids, but the article states he loses.
+  Source: Star Wars: The Old Republic — Flashpoint: "The Foundry" [per Wookieepedia "Revan/Legends" rev 15723634, ref 3; exact text match]
+
+[Anti-feat — Freedom and fall]
+“The strike team made their way to Revan’s sanctum within the station… Revan was ultimately driven to defeat.”
+Scaling/connection: Explicit defeat by the four-member Imperial strike team; do not treat the encounter as a Revan victory.
+  Source: Star Wars: The Old Republic — Flashpoint: "The Foundry" [per Wookieepedia "Revan/Legends" rev 15723634, ref 3; exact text match]
+
+[Feat — Splintered]
+“On Lehon, the Revanites embedded fragments of the destroyed Star Forge in the bodies of their recruits, creating soldiers who could heal rapidly and possessed great strength.”
+Scaling/connection: The article attributes these abilities to Star Forge fragments and Revanite experimentation, not directly to Revan.
+  Source: Star Wars: The Old Republic: Rise of the Hutt Cartel — [TACTICAL] Flashpoint: "Legacy of the Rakata" [per Wookieepedia "Revan/Legends" rev 15723634, ref 12; exact text match]
+
+[Feat — Splintered]
+“His strength restored by feeding off of the deaths and chaos caused by the battle on the moon, the Emperor declared his intention to retake the galaxy as his own…”
+Scaling/connection: The Emperor regains strength from the battle’s deaths; Revan’s plan fails to prevent this.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "The Enemy Within" on Yavin 4 [per Wookieepedia "Revan/Legends" rev 15723634, ref 66; exact text match]
+
+[Anti-feat — Splintered]
+“Determined to confront the Emperor in spite of the disruption of his plans, Revan engaged in battle with the coalition forces, holding his own against a large number of enemies, but he was ultimately defeated…”
+Scaling/connection: Revan holds his own against a large coalition including Theron Shan and Satele Shan, but is ultimately defeated; the Emperor then regains strength.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Mission: "The Enemy Within" on Yavin 4 [per Wookieepedia "Revan/Legends" rev 15723634, ref 66; exact text match]
+
+THWARTING RESURRECTION
+
+[Feat — Thwarting resurrection]
+“His spirit also guided Carsen and Scourge to the location of Tenebrae’s original body, for as long as Tenebrae lived in any shape or form, physical or spiritual, Revan would not rest until the Sith Emperor was destroyed utterly and completely.[73]”
+Scaling/connection: Revan’s spirit guides Kira Carsen and Scourge toward the Emperor’s body; stated goal, not by itself a solo feat.
+  Source: Star Wars: The Old Republic — Mission: "Echoes of Oblivion" on Odessen [per Wookieepedia "Revan/Legends" rev 15723634, ref 73; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Thwarting resurrection]
+“Ultimately, Tenebrae was defeated once and for all, and Revan finally became one with the Force.[73]”
+Scaling/connection: Revan aids the Alliance Commander and the spirits of Tenebrae’s victims, including Meetra Surik, in the final defeat; the article says Tenebrae is defeated once and for all.
+  Source: Star Wars: The Old Republic — Mission: "Echoes of Oblivion" on Odessen [per Wookieepedia "Revan/Legends" rev 15723634, ref 73; exact text match; agrees with the entry's own ref marker]
+
+LEGACY
+
+[Statement — A legend in his time and beyond]
+“Revan’s victory over Darth Malak, and his influence over the Sith Emperor, ensured that the Republic received almost three hundred years of peace.”
+Scaling/connection: Directly links Malak’s defeat and Revan’s influence over the Emperor to nearly 300 years of Republic peace; historical consequence, not a new combat feat.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Statement — A legend in his time and beyond]
+“Even after both of his disappearances, Revan’s skills, both Forceful and otherwise, were of great renown among the galaxy’s inhabitants.[75]”
+Scaling/connection: General reputation statement, not a feat.
+  Source: Scoundrels [per Wookieepedia "Revan/Legends" rev 15723634, ref 75; exact text match; agrees with the entry's own ref marker]
+
+[Statement — A legend to the Sith]
+“Despite Revan’s redemption and the destruction of the Sith at his hands, Sith of both the reconstituted Sith Empire[79] and later Sith such as Darth Bane held Revan in high regard.[35]”
+Scaling/connection: Reputation statement; Bane is the later Sith who used Revan’s teachings.
+  Source: Star Wars: The Old Republic — Imperial Mission: "Making History" on Corellia ; Darth Bane: Path of Destruction [per Wookieepedia "Revan/Legends" rev 15723634, ref 79,35; exact text match; agrees with the entry's own ref marker]
+
+[Statement — A legend to the Sith]
+“Using Revan’s knowledge and teachings, Bane decided to rebuild the Sith Order based on Revan’s belief that a Sith Master should never train more than one apprentice. Building upon Revan’s philosophy, Bane developed the Rule of Two…”
+Scaling/connection: Direct influence on Darth Bane’s Rule of Two; statement, not a physical feat.
+  Source: Darth Bane: Path of Destruction [per Wookieepedia "Revan/Legends" rev 15723634, ref 35; exact text match]
+
+PERSONALITY AND TRAITS
+
+[Statement — Appearance and early life]
+“Even as a young apprentice, Revan was known for his remarkable intelligence and exceptional charisma, as well as an insatiable desire for knowledge. A military genius, Revan was renowned for his tactical thinking and decisive leadership even as a Jedi Knight.[10]”
+Scaling/connection: Article characterization; “military genius” and “renowned” are statements, not separate feats.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Statement — Warrior and Sith]
+“The Emperor underestimated the strength of Revan and Malak’s wills—the two were the first ever to break free of the Sith Emperor’s mental control…”
+Scaling/connection: Direct comparison to all prior subjects of the Emperor: the article calls Revan and Malak the first to break free.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Statement — Warrior and Sith]
+“Revan’s strategy in the war against the Republic was aimed at preserving the Republic’s infrastructure, and he made strategic strikes that weakened his enemy’s military power while preserving the economy and government by sparing specific worlds that were essential to the Republic infrastructure.[10]”
+Scaling/connection: Strategic statement explaining why his campaign did not simply destroy every Republic asset.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; approximate match 0.95, verify; agrees with the entry's own ref marker]
+
+[Feat — Reborn]
+“Revan’s strength of will was such that he was able to withstand torture for years, and he survived centuries as the prisoner of the Emperor while also resisting the Sith’s attempts to steal his knowledge.[9]”
+Scaling/connection: Article’s direct endurance/willpower statement; connected to the Emperor’s centuries-long imprisonment and mental probing.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+POWERS AND ABILITIES — COMBAT SKILLS
+
+[Statement — Combat skills]
+“You, Revan, are the single greatest warrior of this age, and any battle we fight will bring me honor.” —Canderous Ordo[10]
+Scaling/connection: Explicitly marked as Ordo’s opinion/“greatest warrior” statement, not a standalone feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Statement — Combat skills]
+“Revan was a highly skilled combatant, particularly with a lightsaber. He was skilled at deflecting and redirecting enemy fire with his lightsaber,[9] and his abilities were bolstered by his gift of precognition.[13]”
+Scaling/connection: Ability statement; the article’s examples include Rekkiad and the Mandalorian Wars.
+  Source: The Old Republic: Revan ; Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Revan/Legends" rev 15723634, ref 9,13; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Combat skills]
+“Among Revan’s greatest victories was his defeat of Mandalore the Ultimate, the leader of the Mandalorian warrior culture and a feared warrior in his own right, in one-on-one combat.[9]”
+Scaling/connection: Explicit one-on-one victory over Mandalore; the article calls Mandalore a feared warrior.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Combat skills]
+“On Korriban, Revan single-handedly defeated a pair of massive terentateks, and he defeated dozens of Dark Jedi and Sith during the Jedi Civil War, along with his own former student Darth Malak.”
+Scaling/connection: Summary scaling: solo defeat of two massive terentateks; dozens of Dark Jedi/Sith; and Malak, explicitly his former student.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+POWERS AND ABILITIES — FORCE POWERS
+
+[Statement — Force powers]
+“Revan was power. It was like staring into the heart of the Force.” —Kreia[13]
+Scaling/connection: Kreia’s character opinion; statement, not a feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Revan/Legends" rev 15723634, ref 13; exact text match; agrees with the entry's own ref marker]
+
+[Statement — Force powers]
+“Revan was extraordinarily powerful in the Force,[9] even as a young Jedi Knight.”
+Scaling/connection: Article’s broad power assessment; no specific comparison beyond “even as a young Jedi Knight.”
+  Source: The Old Republic: Revan ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 9,10; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Force powers]
+“At the height of his powers after he had recovered his lost memories, Revan was able to channel both the light and dark sides simultaneously…”
+Scaling/connection: Article says this let him unleash the Force “in its purest form” in battle; this is his recovered-memory peak characterization.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Force powers]
+“His skill with telekinesis was such that he could hurl a heavy stone object at a moment’s notice, and on Dromund Kaas the Jedi Master destroyed a large stone archway from a great distance with just the power of the Force.[9]”
+Scaling/connection: Two concrete telekinetic applications; the archway destruction occurs while confronting Imperial Guards.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Force powers]
+“Despite the immense strength of the Sith Emperor’s will, Revan and Malak’s own mental strength enabled them to partially free themselves from his mental control, and Revan spent several centuries influencing the Emperor and pacifying his desire to attack the Republic.[9]”
+Scaling/connection: Direct comparison to the Sith Emperor’s “immense” will; Revan and Malak partially escape, and Revan later influences the Emperor through their link.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Force powers]
+“Farsight and Force visions were a common occurrence for Revan, and even in a heavily drugged state, the Jedi was able to glimpse the future and see that Surik was coming to rescue him from imprisonment.”
+Scaling/connection: Precognition while heavily drugged; the vision concerns Meetra Surik’s rescue.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+[Feat — Force powers]
+“Revan was capable of absorbing and redirecting energy, as he did when he absorbed Darth Nyriss’s storm of Force lightning with his bare hands and channeled it through his own body before redirecting it against her and burning her to ash.[9]”
+Scaling/connection: Explicitly scales the absorption/redirect to Darth Nyriss’s Force-lightning storm and ends in Nyriss’s death.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Feat — Force powers]
+“The dark Revan was also capable of telekinetically incapacitating almost a dozen separate combatants with the light and dark sides of the Force, and could hold his own against a large number of skilled opponents simultaneously.[6]”
+Scaling/connection: Dark Revan’s concrete crowd-control feat and multi-opponent performance; the article later says the coalition ultimately defeated him.
+  Source: Star Wars: The Old Republic: Shadow of Revan — Operation: "Temple of Sacrifice" [per Wookieepedia "Revan/Legends" rev 15723634, ref 6; exact text match; agrees with the entry's own ref marker]
+
+OTHER ABILITIES
+
+[Statement — Other abilities]
+“Revan was an exceptionally capable strategist and tactician, and some believed that he was single-handedly responsible for the Republic’s victory during the Mandalorian Wars.”
+Scaling/connection: “Some believed” marks this as an opinion/attribution, not an uncontested fact.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Statement — Other abilities]
+“Revan’s skill as a battlefield commander earned him the undying respect of both the Mandalorian and Echani warrior cultures…”
+Scaling/connection: Reputation statement; the cited comparison is to the Mandalorian and Echani warrior cultures.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Other abilities]
+“Revan tore the Rakatan language from the minds of the Black Rakata, allowing him to comprehend their speech.”
+Scaling/connection: Direct Force/knowledge feat against the Black Rakata; enables communication.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; approximate match 1.00, verify]
+
+[Feat — Other abilities]
+“Revan constructed the sophisticated assassin droid HK-47 on his own after the Mandalorian Wars…”
+Scaling/connection: Independent construction of HK-47; the article calls the droid sophisticated and links its creation to surgical assassinations.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Other abilities]
+“A skilled pilot, Revan could draw on the Force to aid his situational awareness,[9] and he proved adept at racing swoop bikes after defeating the veteran racer Redros on Taris. He later won both the Arkanis sector and Manaan swoop championships during the search for the Star Forge.[10]”
+Scaling/connection: Racing scaling: defeats veteran racer Redros, then wins the Arkanis sector and Manaan championships.
+  Source: The Old Republic: Revan ; Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 9,10; exact text match; agrees with the entry's own ref marker]
+
+EQUIPMENT
+
+[Statement — Equipment]
+“Through both the Mandalorian Wars and the Jedi Civil War, Revan wore his trademark mask and robes…”
+Scaling/connection: Equipment continuity statement, not a feat.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+[Feat — Equipment]
+“The redeemed Revan made use of a blue lightsaber once again in his battle against Darth Malak and the Sith…”
+Scaling/connection: Equipment used in the Malak battle; the article notes later color changes across sources.
+  Source: The Old Republic: Revan [per Wookieepedia "Revan/Legends" rev 15723634, ref 9; exact text match]
+
+BEHIND THE SCENES / CONTINUITY / ALTERNATE STORYLINES
+
+[Continuity statement — Establishing continuity and other appearances]
+“The New Essential Chronology… established that the light-side ending of the game and the destruction of the Star Forge was canon.[28]”
+Scaling/connection: Canonical-continuity statement; this extraction uses the light-side storyline where it is explicitly presented by the article.
+  Source: The New Essential Chronology [per Wookieepedia "Revan/Legends" rev 15723634, ref 28; exact text match; agrees with the entry's own ref marker]
+
+[Continuity statement — Establishing continuity and other appearances]
+“This article incorporates all source material that relates to the game, while those events and missions that have not yet been confirmed in canon are assumed to have been fulfilled to their fullest extent and with the maximum light-side alignment options.”
+Scaling/connection: Important scope note: many KOTOR walkthrough details are article assumptions, so they are not treated above as stronger than the article’s wording.
+  Source: So Uncivilized: Great Gunslingers in Star Wars Part 1 on StarWars.com (original link is obsolete) [per Wookieepedia "Revan/Legends" rev 15723634, ref 98; exact text match]
+
+[Alternate storyline — Dark side ending]
+“Flying to the Star Forge, Shan uses her battle meditation to thwart the Republic fleet, allowing Revan to storm the station and reach Darth Malak for a confrontation in which he emerges victorious.”
+Scaling/connection: Alternate dark-side route; it still states Revan defeats Malak, but the article marks this storyline as alternate rather than the canonical light-side outcome.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Revan/Legends" rev 15723634, ref 10; exact text match]
+
+END-OF-ARTICLE REVIEW NOTE
+The article’s Appearances, Sources, Notes and references, External links, language/navigation, infobox, and collapsed “hide/edit” navigation material were reviewed through the end. They contain source listings, citations, continuity/trivia, and navigation rather than additional concrete Revan feats, so they are not copied as feat entries.

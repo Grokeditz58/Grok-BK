@@ -1,0 +1,128 @@
+Darth Zannah research extraction
+Research date: 2026-10-04 (UTC)
+
+SCOPE AND URLS
+- Requested page: https://starwars.fandom.com/wiki/Darth_Zannah
+- Final URL after navigation: https://starwars.fandom.com/wiki/Darth_Zannah (no redirect).
+- The requested page is the current/canon article. It links to a separate continuity page, https://starwars.fandom.com/wiki/Darth_Zannah/Legends; that linked page is included below as a clearly labeled Legends supplement because it contains the Bane-duel and sorcery details asked for.
+- I read/scroll-visited the Notes and references sections on both pages. This is an extraction of what the pages state, not an independent power-scaling judgment.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+1) REQUESTED ARTICLE — CURRENT/CANON PAGE
+Section: Biography
+- The article identifies Zannah as “a Dark Lord of the Sith and the Sith apprentice of Darth Bane” and says she was trained “to carry Bane's teachings and the Rule of Two forward.” [1]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Zannah" rev 15459840 but it has no inline citation in its paragraph; exact text match)
+- The article says Bane took Zannah as an apprentice and passed on his teachings. The Rule of Two is described as requiring two Sith: “a master to embody power, and an apprentice to crave it.” [1, 3, 4]
+  Source: Darth Bane in the Databank (backup link) [per Wookieepedia "Darth Zannah" rev 15459840, ref 3; exact text match]
+- After Bane's defeat, “his apprentice carried on the Rule of Two,” allowing the Sith to survive in secret while the Jedi believed the Sith extinct. The article says historical records were inaccurate about Bane's apprentice and death; Bane “supposedly died in a duel with Zannah on the Inner Rim world of Ambria.” [4–6]
+  Source: Darth Bane in the Encyclopedia (original site is defunct) ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 5,4; exact text match]
+- Concrete succession result: the page says the succession pattern was repeated by almost all later Sith, and that Darth Sidious later killed Darth Plagueis. This is a legacy/succession result, not a displayed combat feat by Zannah. [2, 4]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Section: Biography — cited statements
+- Darth Bane illusion to Yoda: “I chose to pass my knowledge on to only one. I created a legacy so resilient that now, you come before me.” [1] This is a statement about the legacy, not a feat directly shown for Zannah.
+  Source: Star Wars: The Clone Wars — "Sacrifice" [per Wookieepedia "Darth Zannah" rev 15459840, ref 1; exact text match; agrees with the entry's own ref marker]
+- Darth Sidious: “Lord Bane's own apprentice struck him down to claim Bane's place. And so began a magnificently vicious cycle. Many Sith apprentices—myself included—have supplanted their masters in order to ascend.” [2] The article uses this as a general description of the Sith succession; the article's own wording elsewhere qualifies the Bane/Zannah death account as “supposedly.”
+  Source: Star Wars: The Secrets of the Sith [per Wookieepedia "Darth Zannah" rev 15459840, ref 2; exact text match; agrees with the entry's own ref marker]
+- The page says Sidious praised Bane as a great Sith Lord and credited Bane and his apprentice with starting the Rule of Two and ensuring Sith survival. This is Sidious's historical assessment, not a quantified ranking of Zannah.
+  Source: Star Wars: The Secrets of the Sith ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 2,4; approximate match 0.73, verify]
+
+Section: Behind the scenes / Sources / Notes and references
+- The current article says Zannah was first mentioned indirectly in The Clone Wars episode “Sacrifice” and first identified by name in Star Wars Helmet Collection 2. It says her Legends counterpart first appeared in Jedi vs. Sith 1.
+  Source: Star Wars: The Clone Wars — "Sacrifice" ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 1,4; approximate match 0.68, verify]
+- Main-page references consulted: [1] The Clone Wars — “Sacrifice”; [2] The Secrets of the Sith; [3] Darth Bane in the Databank; [4] Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles; [5] Darth Bane in the Encyclopedia; [6] The Dark Side; [7] The Phantom Menace novelization; [8] Endnotes for The New Essential Chronology; [9] Jedi vs. Sith 1; [10] Dark Horse's Jedi vs. Sith #1 listing; [11] Build the Millennium Falcon 44.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- No Sith-sorcery feat, detailed duel sequence, or direct Zannah-vs.-Bane combat exchange appears on the requested current/canon page. The only Bane-vs.-Zannah result stated there is the qualified “supposedly died in a duel” sentence above.
+  Source: Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 4; exact text match]
+
+2) LINKED LEGENDS SUPPLEMENT (SEPARATE PAGE)
+Section: Biography — opening and Path to Mastery
+- The Legends page says that, after ten years, Zannah “grew to be an accomplished Sith sorceress who equaled Darth Bane in strength.” This is the page's explicit scaling statement; it does not give a numeric scale. [2]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Zannah/Legends" rev 15714903 but it has no inline citation in its paragraph; exact text match)
+- The page says that on Doan she located Bane and fought him; “their duel ended in a draw when both were forced to flee the prison.” [2]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Zannah/Legends" rev 15714903 but it has no inline citation in its paragraph; exact text match)
+- It then says that on Ambria Zannah was initially overwhelmed by Bane's attacks but used sorcery to injure him. Bane attempted essence transfer into her body; the page says Zannah's spirit defeated him and condemned his spirit to the void of the dark side. [2]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Zannah/Legends" rev 15714903 but it has no inline citation in its paragraph; approximate match 0.84, verify)
+
+Section: Bane's apprentice — early Force and sorcery feats
+- As an untrained child, Rain/Zannah instinctively enveloped herself and Laa in a protective bubble of Force energy during a destructive Sith-created storm. [8, 9]
+  Source: Jedi vs. Sith 3 ; Jedi vs. Sith 4 [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 8,9; approximate match 0.70, verify]
+- In grief and anger, she used the dark side to break the necks of two Jedi who had killed Laa. [10]
+  Source: Jedi vs. Sith 5 [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 10; approximate match 0.76, verify; agrees with the entry's own ref marker]
+- She used the Force to explode Darovit's weapon-hand when he raised a lightsaber against Bane. [6]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; approximate match 0.64, verify]
+- The page says that at fourteen she studied ancient Sith ways and learned Sith spells from Freedon Nadd's holocron transcript. Bane is described as saying his talents were more natural/elemental, while Zannah was eager to learn Sith sorcery. [6]
+  Source: Darth Bane: Path of Destruction establishes that Rain was ten years old at the Seventh Battle of Ruusan, which occurred in 1000 BBY per The Essential Atlas. Thus, her … ; Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 12,6; approximate match 0.69, verify; agrees with the entry's own ref marker]
+- She used sorcery to drive Cyndra insane, causing Cyndra to gouge out her own eyes; she deflected a blaster bolt and redirected another into Paak's head. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; per-sentence approximate match (2/2 sentences matched, min 0.68), verify; agrees with the entry's own ref marker]
+- On Tython, while fighting Jedi, she cast a spell that summoned a Jedi's primal fears; after he flailed in terror she cut him down. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; approximate match 0.66, verify; agrees with the entry's own ref marker]
+- She later used sorcery to drive Darovit insane and concealed herself and Bane from Jedi investigators with a concealment charm. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; approximate match 0.64, verify; agrees with the entry's own ref marker]
+
+Section: Facing the enemy — Tython
+- The page says Zannah fought two Jedi, maintained an effective defensive wall against them, and killed the larger Jedi after using fear-summoning sorcery. It says she then used her powers to approach and kill another Jedi. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; per-sentence approximate match (1/2 sentences matched, min 0.60), verify; agrees with the entry's own ref marker]
+- The page says all the Jedi pursuing them were slain, while Bane was grievously wounded. Zannah levitated Bane's unconscious body to the ship, arranged healing, and later used sorcery to make Darovit insane and mislead the Jedi into killing him. [6]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Section: Duel with the Dark Lord (Ambria)
+- Zannah challenged Bane. He drove her backward with powerful strikes, cracked one of her ribs, and knocked away her lightsaber. [2]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Her sorcery initially incapacitated Bane with hallucinations, but he destroyed the phantoms with a blast of dark-side energy. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; approximate match 0.82, verify; agrees with the entry's own ref marker]
+- Drawing on Ambria's dark-side nexus, she manifested tendrils of dark-side energy. One struck Bane's shoulder and caused extreme pain; another severed his arm. The page says Bane's Force lightning was ineffective against the tendrils. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; per-sentence approximate match (2/3 sentences matched, min 0.71), verify; agrees with the entry's own ref marker]
+- Bane then performed essence transfer using a magical ability learned from Andeddu's holocron. His body was destroyed as his consciousness invaded Zannah's body. The page says Zannah fought him in a battle of wills and defeated him, banishing his spirit into the void of the Force. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; approximate match 0.90, verify; agrees with the entry's own ref marker]
+- Result stated by the page: Zannah declared herself the new Dark Lord of the Sith and took Darth Cognus as apprentice. [2]
+
+Section: Powers and abilities — Lightsaber skill
+- The page calls her a left-handed master of Soresu, proficient with a custom double-bladed lightsaber, and says her defensive rhythms became instinctive enough to let her use Force techniques while fighting. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; approximate match 0.68, verify; agrees with the entry's own ref marker]
+- On Tython, it says she parried attacks from two Jedi and maintained a defensive wall against the larger Sarro Xaj; it also explicitly qualifies that without sorcery she would eventually have fallen to Xaj's greater physical strength. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; approximate match 0.70, verify; agrees with the entry's own ref marker]
+- Against Set Harth, it says she dodged and disarmed him and defeated him with an insanity spell after exploiting his mistakes. [2]
+  Source: Darth Bane: Rule of Two ; Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6,2; approximate match 0.74, verify; agrees with the entry's own ref marker]
+- In the Stone Prison confrontation, she cornered Bane multiple times and evaded or held off his Force lightning but could not kill him. The page says Huntress foresaw that either Sith could win that conflict. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; approximate match 0.94, verify; agrees with the entry's own ref marker]
+
+Section: Powers and abilities — Force mastery
+- The page says young Zannah survived the thought bomb when nearly every other Force-sensitive present was annihilated, and that she used the Force to shield herself and Laa from the Sith-created storm. [9, 10]
+  Source: Jedi vs. Sith 5 ; Jedi vs. Sith 4 [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 10,9; approximate match 0.83, verify]
+- It lists Force augmentation, Force jump, telekinesis, Force barriers, choking/Force wound, mind tricks, sensing, concealment, and combat precognition. Concrete examples include levitating Bane's nearly dead body, breaking restraints, choking Darovit, and blocking attacks with a Force wall. [2, 6]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The page describes her madness/fear sorcery as making Cyndra claw out her eyes, terrifying Xaj, breaking Darovit, and nearly defeating Bane with demon-bird hallucinations. It says this was her “great tool” against Bane and that both Sith viewed it as the greatest threat to him. [2, 6]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; per-sentence approximate match (1/2 sentences matched, min 0.89), verify]
+- The page says her Ambria dark-side tendrils could disintegrate flesh and bone on contact, could not be intercepted by a lightsaber or broken by lightning, and were used to destroy Bane's shoulder and arm. This is the article's description, not an independently verified mechanics claim. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; per-sentence approximate match (1/2 sentences matched, min 0.65), verify; agrees with the entry's own ref marker]
+
+Section: Character statements / hype — not feats
+- Bane calls her “the chosen one, the anointed heir to the legacy of our order” during her apprenticeship test. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; exact text match; agrees with the entry's own ref marker]
+- In the final-duel dialogue, Zannah says: “I have surpassed you, Bane. Now I am the Master.” This is her claim in the scene, not by itself a feat; the page separately narrates that she defeated him. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; exact text match; agrees with the entry's own ref marker]
+- Set Harth calls her “Sith sorceress” in an appearance comment. [2] Treat as characterization, not a combat feat.
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; per-sentence approximate match (1/1 sentences matched, min 0.64), verify; agrees with the entry's own ref marker]
+- The page says Bane was impressed by her subtle/cunning nature and considered her an heir to his legacy. Those are character assessments.
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; approximate match 0.67, verify]
+
+3) EXPLICIT SCALING / LIMITS STATED BY THE PAGES
+- Current/canon page: no explicit Zannah power ranking and no sorcery details. It identifies her as Bane's apprentice and successor in the Rule of Two, with the Bane-duel account qualified as “supposedly.”
+  Source: Darth Bane in the Encyclopedia (original site is defunct) ; Star Wars: The Dark Side ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 5,6,4; per-sentence approximate match (1/2 sentences matched, min 0.61), verify]
+- Legends page: explicit statement that mature Zannah “equaled Darth Bane in strength.” [2]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Zannah/Legends" rev 15714903 but it has no inline citation in its paragraph; exact text match)
+- Legends page: she was initially physically and defensively outmatched in the final duel, and won after resorting to sorcery; the page also says she could not kill Bane in the earlier Stone Prison encounter. [2]
+  Source: Darth Bane: Dynasty of Evil [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 2; per-sentence approximate match (1/2 sentences matched, min 0.67), verify; agrees with the entry's own ref marker]
+- Legends page: without sorcery, she would eventually have fallen to Sarro Xaj's superior physical strength. [6]
+  Source: Darth Bane: Rule of Two [per Wookieepedia "Darth Zannah/Legends" rev 15714903, ref 6; approximate match 0.97, verify; agrees with the entry's own ref marker]
+- No broader cross-character tier, multiplier, or numeric power scale is stated on either page.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+4) REFERENCE CHECK
+- Current-page reference list read: Sacrifice; The Secrets of the Sith; Darth Bane Databank; Helmet Collection 2; Darth Bane Encyclopedia; The Dark Side; Phantom Menace novelization; New Essential Chronology endnotes; Jedi vs. Sith 1; Dark Horse listing; Build the Millennium Falcon 44.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Legends-page reference list read: Jedi vs. Sith 1–6; Darth Bane: Path of Destruction; Darth Bane: Rule of Two; Darth Bane: Dynasty of Evil; Jedi vs. Sith: The Essential Guide to the Force; The New Essential Chronology; The Essential Atlas; and the other source entries listed on that page.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Bracket numbers above refer to the source numbering displayed on the relevant Wookieepedia page. The extraction preserves the pages' canon/Legends distinction and uncertainty markers.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

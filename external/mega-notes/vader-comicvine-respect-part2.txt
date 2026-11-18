@@ -1,0 +1,612 @@
+VADER RESPECT THREAD (PART 2) - CITED EXTRACTION
+Source URL: https://comicvine.gamespot.com/profile/[member]/blog/darth-vader-respect-thread-part-2/102636/
+HTTP status on load: 200 (page loaded; no error)
+Post: "Darth Vader Respect Thread (Part 2)" by [member], February 8, 2015 (blog post body).
+Scope: Full blog post body, scrolled to bottom. Reader comments (which begin after "Click here to see my list of respect threads.") were NOT extracted; they are not part of the blog post and contain commenter claims, not poster citations.
+Not cited: header image 4947179-8171116345-7gcg1.jpg (no caption, no quote). Poster's rankings/ratings were skipped.
+Labels: Legends = pre-Disney-era material; Canon = Disney-era (film, 2014+) material; unclear = source not named, or named source (e.g. a video, a site, a game credit) cannot be confirmed from the post.
+Type: feat = demonstrated action; statement = a described ability, capability, or background claim.
+"Scaling" = only what the quoted text itself states; "None stated" means the quote does not state one.
+Image-only entries: no text in the post beyond the caption/lead-in; captions are quoted from the post.
+
+================================================================
+TUTAMINIS / FORCE DEFLECTION
+================================================================
+
+[1] Section: Tutaminis/Force Deflection | Type: feat (image-only)
+Caption: "Vader casually redirects a blaster bolt with such precision that it beheads a stormtrooper:" [panel: panels/vader/vader-vader-casually-redirects-blaster-bolt-precision-beheads-1.jpg; panels/vader/vader-vader-casually-redirects-blaster-bolt-precision-beheads-2.jpg]
+Images: 5833547-dfl.jpg; 5833548-dfl1.jpg (captions "Gallery image 1", "Gallery image 2")
+Source named: none | Label: unclear
+
+[2] Section: Tutaminis/Force Deflection | Type: feat (image-only)
+Caption: "Other instances of Vader absorbing/redirecting blaster bolts, at one point without even directly touching them:" [panel: panels/vader/vader-instances-vader-absorbing-redirecting-blaster-bolts-one-1.jpg; panels/vader/vader-instances-vader-absorbing-redirecting-blaster-bolts-one-2.jpg; panels/vader/vader-instances-vader-absorbing-redirecting-blaster-bolts-one-3.jpg]
+Images: 5833553-bl.jpg; 5833554-bl1.jpg; 5833555-bl2.jpg
+Source named: none | Label: unclear
+
+[3] Section: Tutaminis/Force Deflection | Type: feat
+Caption: "Casually deflecting a volley of blaster bolts:"
+Quote: "Vader leapt again, this time to the bridge, and to within only a few meters of Shryne, who spun about, dropping to one knee and firing repeatedly. This time Vader decided to show Shryne whom he was dealing with. Holding his lightsaber to one side, he raised his right hand to turn the blaster bolts. Clearly astonished, Shryne remained on one knee, but only briefly. In an instant he had passed through the gate and was shouldering his way through the crowd outside the wall."
+Source named: "Credit to Brightsteel" / "-- Dark Lord: The Rise of Darth Vader" | Label: Legends
+Scaling: None stated.
+
+[4] Section: Tutaminis/Force Deflection | Type: feat
+Lead-in: "He seems to absorb laser beams, though this could be a result of Vader summoning a Force Barrier to repel the attack:"
+Quote: "\"Tell the droid to give me the bota, Pavan.\"" / "\"The droid doesn't have it,\" said I-Five suddenly. Both hands came up in a lethal gesture, lasers firing. The beams sliced toward Vader . . . and stopped mere centimeters from his outstretched hand."
+Source named: "-- Coruscant Nights III: Patterns Of The Force" | Label: Legends
+Scaling: None stated. (Poster hedges the cause as possibly a Force Barrier.)
+
+[5] Section: Tutaminis/Force Deflection | Type: feat (video, poster's text only)
+Text: "He casually absorbs several blaster bolts and proceeds to pull Han Solo's blaster from the latter's hand"
+Video: https://youtu.be/uHH6YVHGh90 (no timestamp given)
+Source named: none (video only) | Label: unclear
+Scaling: None stated.
+
+[6] Section: Tutaminis/Force Deflection | Type: feat (poster's description; gif image)
+Text (poster's wording, not a quote): "He shields himself from Starkiller's telekinesis, which the latter failed to do, while simultaneously using his lightsaber to block his former apprentice's lightning. The contest ends with an explosion of Force energy that blows Starkiller away, whereas Vader was seemingly unaffected by it: (credit to Azronger):" [panel: panels/vader/vader-he-shields-starkiller-telekinesis-latter-failed-simultaneously-1.gif]
+Image: 5191688-7809924065-51913.gif (no caption)
+Source named: "credit to Azronger" (no work named) | Label: unclear
+Scaling: None stated beyond "seemingly unaffected by it" (poster's words).
+
+================================================================
+FORCE BARRIER
+================================================================
+
+[7] Section: Force Barrier | Type: statement
+Lead-in: "Vader practiced in Force Barrier, presumably improving his skill with the technique:"
+Quote: "He practiced in levitation and Force shielding, allowing him to move objects or deflect laser fire with simple gestures."
+Source named: "-- The Essential Guide To Characters" | Label: Legends
+Scaling: "with simple gestures" (quote's own wording).
+
+[8] Section: Force Barrier | Type: feat (image-only)
+Caption: "Vader creates a barrier that repels blaster fire from potentially hundreds of troopers:" [panel: panels/vader/vader-vader-creates-barrier-repels-blaster-fire-potentially-1.jpg]
+Image: 5833599-0025100446-39150.jpg (no image caption)
+Source named: none | Label: unclear
+Scaling (from caption): "potentially hundreds of troopers"
+
+[9] Section: Force Barrier | Type: feat (comparison note; video)
+Text (poster's wording): "Noting that a far lesser amount of blaster fire from a handful of clone troopers was potent enough to take down the supports of a massive cave structure (credit to Deronn_Solo):"
+Video: https://www.youtube.com/watch?v=cNcR08Y26nE (0:50-1:00)
+Source named: "credit to Deronn_Solo" (video; no work named) | Label: unclear
+Scaling: "a far lesser amount of blaster fire from a handful of clone troopers" (poster's note; not about Vader's own output)
+
+[10] Section: Force Barrier | Type: feat (image-only)
+Caption: "He creates a barrier that repels and even redirects some blaster bolts, killing some of his attackers :" [panel: panels/vader/vader-he-creates-barrier-repels-redirects-blaster-bolts-1.jpg]
+Image: 3915084-6724244778-32569.jpg (no image caption)
+Source named: none | Label: unclear
+Scaling (from caption): "killing some of his attackers"
+
+[11] Section: Force Barrier | Type: feat
+Lead-in: "Vader envelops Pepin in a Force shield:"
+Quote: "Vader concentrated on Pepin and enveloped him in a Force shield."
+Source named: "--Two-Edged Sword" | Label: Legends
+Scaling: None stated.
+
+================================================================
+BATTLEMIND
+================================================================
+
+[12] Section: Battlemind | Type: statement (image-only)
+Caption: "Vader knows Battlemind:"
+Image: 4596720-k.png (no image caption)
+Source named: none | Label: unclear
+
+================================================================
+COMBUSTION
+================================================================
+
+[13] Section: Combustion | Type: feat
+Lead-in: "Vader overloads a lightsaber's energy crystal, possibly via Combustion:"
+Quote: "The crimson spire of destructive energy pointed straight up form his gloved fist. At first, nothing seemed to be happening. The Sing realized that the shaft was getting brighter. It's brilliance intensified until she had to raise a hand to shield her eyes from the all-but-blinding scarlet radiance. The refulgence dazzled her eyes, overwhelming everything else;the street, the building, the wrecked land speeder. Only Vader remained somehow visible; standing there, holding the weapon easily, seemingly unaffected by the blade's terrible radiance. The familiar deep hum that was the weapon's identifying sound rose in pitch, higher and higher, until it tore at her hearing. And then, in a final burst of screaming incandescence, the lightsabers shaft vanished."
+Quote (cont.): "Sing staredmin complete disbelief. Her eyes were capable of adapting much more rapidly to changes in ambient light than were a human's. A couple of blinks and the afterimages cleared, normal vision returning almost immediately. Vader stood motionless, the weapon's hilt still grasped in his outstretched fist. She could see a time wisp of smoke curling from the emitter."
+Quote (cont.): "He had overloaded the lightsaber's energy crystal with the Force. Sing prided herself on her knowledge of weaponry and their individual strengths and weaknesses. It was her profession after all. But she had never seen or heard of such a thing before"
+Quote (cont.): "The Dark Lord opened his hand. Reduced to a cylinder of useless metal, composites, and components, the now harmless weapon clattered onto the pavement."
+Source named: "Credit to Banthabot" / "-- Coruscant Nights II: Street of Shadows" | Label: Legends
+Scaling: None stated.
+
+================================================================
+FORCE SCREAM
+================================================================
+
+[14] Section: Force Scream | Type: feat (poster's description; video)
+Text (poster's wording): "Vader's Force Scream melts durasteel, destroys med droids, causes a man to permanently go deaf, echoes throughout a building, and disrupts the aforementioned structure's sensors. Noting that this happened shortly after Vader got his suit:"
+Video: https://youtu.be/c6bEs3dxjPg (3:20 onward)
+Source named: none (video only) | Label: unclear
+Scaling: None stated in the post's quoted material; poster adds "shortly after Vader got his suit."
+
+[15] Section: Force Scream | Type: statement
+Quote: "And you rage and scream and reach through the Force to crush the shadow who has destroyed you, but you are so far less now than what you were, you are more than half machine, you are like a painter gone blind, a composer gone deaf, you can remember where the power was but the power you can touch is only a memory, and so with all your world-destroying fury it is only droids around you that implode, and equipment, and the table on which you were strapped shatters, and in the end, you cannot touch the shadow."
+Source named: "-- Revenge Of The Sith" | Label: Canon
+Scaling: "it is only droids around you that implode, and equipment, and the table on which you were strapped shatters"
+
+[16] Section: Force Scream | Type: feat (reported second-hand by a character)
+Quote: "\"It happened about a year ago,\" he said, lowering his voice to a ragged whisper. \"Near the very end of the Clone Wars. A scream was heard. A scream so terrible and so loud that it echoed throughout the building and made the sensors go crazy. It was said that one med worker lost his hearing. Permanently. The med workers searched and searched for the source of the sound, but there was... nothing. There was only a handful of patients at that time. It had seemed to come from everywhere and nowhere, but no patient had done it.\" Jako's voice had lowered to a whisper. \"It was as though all the dead of the Clone Wars had screamed their death cries at the same time, then gone back to being dead.\""
+Source named: "-- Last Of The Jedi: Against The Empire" | Label: Legends
+Scaling: "so terrible and so loud that it echoed throughout the building and made the sensors go crazy"; "It was said that one med worker lost his hearing. Permanently."
+
+[17] Section: Force Scream | Type: statement
+Quote: "Ferus knew that in his slightly incoherent way Jako was trying to spook him, and it had worked. Just not in the way he'd thought. Jako winked. \"Enjoy the night shift.\" He closed his eyes again, and, smiling, was asleep in seconds. Ferus thought once more about Vader's prosthetics. They were extensive, from a breath-mask to vision enhancement to possible artificial limbs. He was fairly certain that Vader had at least one artificial hand. And he was regulated by what seemed to be a complex bio-system within that suit."
+Quote (cont.): "For the first time, Ferus wondered what awful injuries he must have sustained. What had happened to the guy? He had been chasing the wrong idea. Vader, whoever he was, must have been in terrible pain."
+Source named: "-- Last Of The Jedi: Against The Empire" | Label: Legends
+Scaling: None stated (about prosthetics/pain, not the scream).
+
+[18] Section: Force Scream | Type: feat (script)
+Quote: "DARTH SIDIOUS: I'm afraid she died. ... it seems in your anger, you killed her."
+Quote (cont.): "A LOW GROAN emanates from Vader's mask. Suddenly everything in the room begins to implode, including some of the DROIDS."
+Quote (cont.): "DARTH VADER: I couldn't have! She was alive! I felt her! She was alive! It's impossible! No!!!"
+Quote (cont.): "VADER SCREAMS, breaks his bonds to the table, and steps forward, waving his hands, causing objects to fly around the room. SIDIOUS deflects the objects, but some of the DROIDS aren't so lucky. VADER'S PAINFUL SCREAMS echo throughout the Center."
+Source named: "-- Revenge Of The Sith Script" | Label: Canon
+Scaling: "Suddenly everything in the room begins to implode, including some of the DROIDS"; "causing objects to fly around the room"
+
+[19] Section: Force Scream | Type: statement (image + databank)
+Lead-in: "For the record, this is the building where Vader unleashed this Force Scream. As can be seen from the picture, it dwarfs many surrounding buildings in size, and it was stated as one of Coruscant's tallest structures:" [panel: panels/vader/vader-record-building-vader-unleashed-force-scream-seen-1.png]
+Image: 5166221-building.png (no image caption)
+Quote: "Most Galactic citizens know it as Emperor Palpatine Surgical Reconstruction Center (EmPal SuRecon in shorthand city-speak). To them, it is the crown of one of Coruscant's tallest buildings, containing an elite medical facility specializing in advanced medical treatment for extremely difficult cases from around the galaxy."
+Source named: "-- Star Wars Databank" | Label: unclear (Databank content spans Legends and Canon; the post does not say which)
+Scaling: "one of Coruscant's tallest buildings"
+
+[20] Section: Force Scream | Type: feat
+Lead-in: "He unleashes a Force Scream that cracks walls:"
+Quote: "Olin was behind this. His last chance for peace was gone. Padme would be with him always. The memory of her softness, her smiles, her horror as he held her with his mind, choking the air from her, wanting her limp, wanting to show her, wanting to make her pay for her disloyalty . . ."
+Quote (cont.): "Around him, the walls began to crack."
+Source named: "-- Last Of The Jedi: Reckoning" | Label: Legends
+Scaling: None stated.
+
+[21] Section: Force Scream | Type: feat
+Lead-in: "He damages various parts of a room, seemingly with his rage alone:"
+Quote: "Malorum's voice was hoarse, as though he was gasping for breath. Still, Ferus could hear the fear in it."
+Quote (cont.): "\"I... beg... you - \""
+Quote (cont.): "A strange thing was happening. The grating in front of Ferus was vibrating."
+Quote (cont.): "Then the actual wall was vibrating. He heard a cracking sound. Vader was allowing his rage to build."
+Quote (cont.): "\"Do not ever mention that place again.\""
+Quote (cont.): "\"Of course, Lord Vader.\""
+Quote (cont.): "Across the hallway, Ferus could see that the windows of Yoda's quarters were vibrating. Suddenly the door blew in. He saw a chair sail across the room and heard it slam against a wall. Part of the ceiling cracked and cables crashed down."
+Quote (cont.): "Ferus signaled to Trever and began to crawl backward."
+Quote (cont.): "The windows shattered. The grate blew out, along with a large chunk of the wall."
+Source named: "-- Last Of The Jedi: Underworld" | Label: Legends
+Scaling: "Suddenly the door blew in"; "The windows shattered. The grate blew out, along with a large chunk of the wall."
+
+[22] Section: Force Scream | Type: feat
+Lead-in: "He melts durasteel and collapses part of a ceiling:"
+Quote: "Another roar from Vader. Part of the ceiling gave way. Durasteel melted, smoke rose from the debris. Ferus leaped over a gaping hole in the floor and attacked Vader again, but his lightsaber cut through empty air."
+Source named: "-- Last Of The Jedi: Reckoning" | Label: Legends
+Scaling: "Part of the ceiling gave way. Durasteel melted"
+
+[23] Section: Force Scream | Type: feat
+Lead-in: "Vader unleashes a Force Scream that shakes the foundations of a building:"
+Quote: "Vader's reaction was not what he'd expected. After a frozen instant, ignoring the bloody spittle running down one plasteel cheek, he knelt and grabbed Typho by the hair, lifting the latter's head and eliciting a cry of renewed pain from him."
+Quote (cont.): "\"What?\" The flare in the Force that raced through the hangar was enough to shake the foundations of the building. The Dark Lord actually seemed to grow, to expand and become more terrible in his rage than Typho would have believed possible."
+Source named: "-- Coruscant Nights II: Streets Of Shadows" | Label: Legends
+Scaling: "was enough to shake the foundations of the building"; "to grow, to expand and become more terrible in his rage than Typho would have believed possible"
+
+================================================================
+BEAST CONTROL
+================================================================
+
+[24] Section: Beast Control | Type: feat (image-only)
+Caption: "Vader tames a Sugati:"
+Image: 5833561-bc.jpg (no image caption)
+Source named: none | Label: unclear
+
+================================================================
+DETOXIFY POISON
+================================================================
+
+[25] Section: Detoxify Poison | Type: statement (image-only)
+Caption: "Vader knows detoxify poison:" [panel: panels/vader/vader-vader-knows-detoxify-poison-1.png]
+Image: 4064118-immagine 2.png (no image caption)
+Source named: none | Label: unclear
+
+================================================================
+FORCE STUN / FORCE STASIS
+================================================================
+
+[26] Section: Force Stun/Force Stasis | Type: feat
+Lead-in: "Vader freezes two Force sensitives in place, likely putting them in stasis via Force Stasis:"
+Quote: "Tash and Zak both started to back away, but Vader held up one finger and they both froze, held in place by the power of the dark side."
+Source named: "-- Galaxy Of Fear: Clones" | Label: Legends
+Scaling: None stated (two targets).
+
+[27] Section: Force Stun/Force Stasis | Type: statement (image-only)
+Caption: "He is resistant to Stun:"
+Image: 4064138-immagine2.png (no image caption)
+Source named: none | Label: unclear
+
+================================================================
+FORCE HEAL
+================================================================
+
+[28] Section: Force Heal | Type: feat
+Lead-in: "By focusing on his anger, Vader can use the Force to heal his damaged lungs and breathe normally for up to 2 minutes:"
+Quote: "The energies of the dark side filled him, and he could once again breathe as a normal man did. He focused his anger. It was not right that he be crippled, that he couldn't do this all the time. It was... not... right! The healing energies held. As long as he could maintain his indignation, his lungs and breathing passages stayed open and clear. He fed the fires of his rage with the unfairness of a galaxy that would not let him be whole. Still the healing energies held. He fought the sense of relief he felt. Fought it and kept his anger pure. And still they held. Almost two minutes now. A new record."
+Source named: "-- Shadows Of The Empire" | Label: Legends
+Scaling: "Almost two minutes now. A new record." (lead-in: "up to 2 minutes")
+
+[29] Section: Force Heal | Type: feat (image-only)
+Caption: "Vader used the dark side to sustain himself for several days in spite of him being severely injured and having his suit badly damaged, possibly by healing himself to accomplish this feat:" [panel: panels/vader/vader-vader-used-dark-side-sustain-several-days-1.jpg]
+Image: 5833563-srv4.jpg (no image caption)
+Source named: none | Label: unclear
+Scaling (from caption): "for several days"
+
+[30] Section: Force Heal | Type: statement
+Lead-in: "Vader can use the dark side to sustain his damaged body:"
+Quote: "Over time Vader has advanced in his ability to manipulate the dark side of the Force, and has used it to sustain his own damaged body as well as to persuade opponents of his will."
+Source named: "-- Star Wars Visual Dictionary" | Label: Legends
+Scaling: None stated.
+
+================================================================
+FORCE RAGE
+================================================================
+
+[31] Section: Force Rage | Type: statement
+Lead-in: "After weeks of training, Vader's ability to summon and use his rage increased significantly. Noting that Rage was stated as one of the most powerful and demanding dark side abilities:"
+Quote: "At Sidious's insistence, he had spent the recent weeks sharpening his ability to summon and make use of his rage, and felt poised at the edge of a significant increase in his abilities."
+Source named: "-- Dark Lord: The Rise Of Darth Vader" | Label: Legends
+Scaling: "a significant increase in his abilities" (quote's wording)
+
+[32] Section: Force Rage | Type: statement
+Quote: "Force Rage: One of the most powerful techniques taught to the Dark Jedi and Sith, it was similar to a Wookie battle cry in that it allowed an individual to unleash primal energies. When coupled with a link to the dark side of the Force, however, these energies manifested themselves as Force Rage, giving the Dark Jedi or Sith increased power for a short period of time. This alter skill was also one of the most demanding of the dark arts, as it drained huge amounts of energy from the individual using it."
+Source named: "-- The Complete Star Wars Encyclopedia" | Label: Legends
+Scaling: "increased power for a short period of time"; "drained huge amounts of energy from the individual using it"
+
+[33] Section: Force Rage | Type: statement
+Lead-in: "He studied the journal of Darth Malgus:"
+Quote: "The excerpts from the journal of Darth Malgus kept during the Great Galactic War some thirty-six centuries ago are a prime example of how a wounded warrior can be sustained by rage. The war was an unbounded success for the era's Sith Emperor, and Malgus was one of his best soldiers. I obtained this text many decades ago from a dealer in antiquities, and have recently passed it to Darth Vader so he might gain inspiration."
+Source named: "-- Book Of Sith: Secrets From The Dark Side" | Label: Legends
+Scaling: None stated. (Quote concerns Malgus, not a Vader feat.)
+
+================================================================
+HIBERNATION TRANCE
+================================================================
+
+[34] Section: Hibernation Trance | Type: statement (image-only)
+Caption: "Vader knows Hibernation Trance:" [panel: panels/vader/vader-vader-knows-hibernation-trance-1.png]
+Image: 4064135-immagine.png (no image caption)
+Source named: none | Label: unclear
+
+================================================================
+CONSUME ESSENCE
+================================================================
+
+[35] Section: Consume Essence | Type: statement (image-only)
+Caption: "Vader knows Feed On Dark Side:" [panel: panels/vader/vader-vader-knows-feed-dark-side-1.png]
+Image: 4064377-immagine.png (no image caption)
+Source named: none | Label: unclear
+
+================================================================
+IMMOVABILITY
+================================================================
+
+[36] Section: Immovability | Type: feat (image-only)
+Caption: "Vader uses the Force to root himself in place, preventing the vacuum of space from pulling him out of his ship despite the pressure:" [panel: panels/vader/vader-vader-uses-force-root-place-preventing-vacuum-1.jpg; panels/vader/vader-vader-uses-force-root-place-preventing-vacuum-2.jpg]
+Images: 4132453-1000609576-41324.jpg; 4132454-1751704029-41324.jpg (captions "Gallery image 1", "Gallery image 2")
+Source named: none | Label: unclear
+Scaling (from caption): "despite the pressure"
+
+================================================================
+DRAIN RESISTANCE
+================================================================
+
+[37] Section: Drain Resistance | Type: statement (video)
+Text (poster's wording): "Darth Vader can resist Force Drain, having learned this technique as Anakin from Ulic Qel-Droma in order to destroy the Dark Reaper:"
+Video: https://www.youtube.com/watch?v=HYEc8C_1gTc (2:00 onward)
+Source named: none (video only) | Label: unclear
+Source (identified later): Star Wars: The Clone Wars (2002 video game) — Rhen Var / Dark Reaper missions (described event; video not watched) — how identified: https://starwars.fandom.com/wiki/Anakin_Skywalker/Legends Dark Reaper paragraph cites 'Star Wars: The Clone Wars video game'; https://starwars.fandom.com/wiki/Ulic_Qel-Droma/Legends cites the same game for the Force Harvester lesson
+Scaling: None stated.
+
+[38] Section: Drain Resistance | Type: statement
+Quote: "Anakin made an emergency trip to Ulic Qel-Droma's tomb on Rhen Var. There, the ancient Jedi gave the Padawan the knowledge he needed to resist the effects of the Force Harvester and to destroy the Dark Reaper."
+Quote (cont.): "Ulic Qel-Droma's lessons had been learned well, and Anakin had the power to resist the Harvester."
+Source named: "-- The Official Star Wars Fact File #107" | Label: Legends
+Scaling: "the power to resist the Harvester" (quote's wording; no numeric scaling)
+
+[39] Section: Drain Resistance | Type: statement
+Lead-in (poster's wording): "The Dark Reaper is a superweapon powerful enough to drain both the life energies and the Force from entire armies, as well as instantly kill anyone who approaches it:"
+Quote: "The heart of the Dark Reaper was the Force Harvester, a large mechanical sphere that stripped the Force from all living things and stored their life energies until needed by the Dark Reaper."
+Quote (cont.): "The harvester was designed to drain the energy of the Force from any living beings, regardless of wether they were Force-sensitive or not."
+Source named: "-- The Complete Star Wars Encyclopedia" | Label: Legends
+Scaling: "from all living things"; "regardless of wether they were Force-sensitive or not" (quote); the "entire armies" and "instantly kill" wording is the poster's lead-in.
+
+[40] Section: Drain Resistance | Type: statement
+Quote: "During the last Great Sith War, the Dark Lord Exar Kun built a weapon of such power it could rip the life essence from an entire army. It was known as the Dark Reaper."
+Source named: "-- Book Of Sith: Secrets From The Dark Side" | Label: Legends
+Scaling: "rip the life essence from an entire army"
+
+[41] Section: Drain Resistance | Type: statement
+Quote: "\"Anyone who comes near will be killed instantly. I'm the only one immune.\""
+Source named: "-- Star Wars: The Clone Wars Videogame" | Label: Legends
+Scaling: "killed instantly" (applies to anyone who comes near)
+
+[42] Section: Drain Resistance | Type: statement
+Quote: "\"Yep. It's some sort of ancient Sith artifact that absorbs the Force from living things.\""
+Source named: "-- Star War: The Clone Wars Videogame" (as printed) | Label: Legends [panel: panels/vader/vader-star-war-clone-wars-videogame-1.gif]
+Scaling: None stated.
+
+[43] Section: Drain Resistance | Type: feat
+Lead-in: "The Dark Reaper could also drain the forests of a Kashyyyk moon, as well as hundreds or thousands of Jedi:" [panel: panels/vader/vader-dark-reaper-drain-forests-kashyyyk-moon-well-1.gif]
+Images in this section (image-only, captions "No Caption Provided"): 4936488-9807232336-9c435.gif (before quote below); 5166233-7759185033-Fwxt5.gif (after quote below)
+Quote: "\"This is all that's left of the forests on the Kashyyyk moon.\""
+Source named: "-- Star War: The Clone Wars Videogame" (as printed) | Label: Legends
+Scaling: "hundreds or thousands of Jedi" is the poster's lead-in, not the quote; the quote states only "all that's left of the forests on the Kashyyyk moon."
+
+================================================================
+SITH SORCERY
+================================================================
+
+[44] Section: Sith Sorcery | Type: statement (image-only)
+Caption: "Vader most likely knows the Dwomutsiqsa Sith ritual, having given a portion of his knowledge and powers to Kharys:" [panel: panels/vader/vader-vader-likely-knows-dwomutsiqsa-sith-ritual-having-1.jpg; panels/vader/vader-vader-likely-knows-dwomutsiqsa-sith-ritual-having-2.jpg; panels/vader/vader-vader-likely-knows-dwomutsiqsa-sith-ritual-having-3.jpg]
+Images: 4544567-3591281203-45445.jpg; 4544569-9709132584-45445.jpg; 4544570-7394202160-45445.jpg (captions "Gallery image 1-3")
+Source named: none | Label: unclear
+Source (identified later): Star Wars Annual (1977) 1 (Marvel) — Vader gives Kharys 'a portion of his knowledge and powers' (described event; scans not seen) — how identified: quote with ref on https://starwars.fandom.com/wiki/Kharys
+
+[45] Section: Sith Sorcery | Type: statement
+Quote: "Much later, one of the pupils returned. He told us that Obi-Wan and the Jedi were destroyed—by his hand—then, he invoked our oath and made Skye an Imperial satrapy, to be ruled in his name by Kharys, to whom he gave a portion of his knowledge and powers. That man was Darth Vader."
+Source named: "-- Star Wars Annual 1: The Long Hunt" | Label: Legends
+Scaling: "made Skye an Imperial satrapy"; "Obi-Wan and the Jedi were destroyed—by his hand" (quote's wording)
+
+[46] Section: Sith Sorcery | Type: statement (image-only)
+Caption: "A description of the Dwomutsiqsa ritual:" [panel: panels/vader/vader-description-dwomutsiqsa-ritual-1.png]
+Image: 4544578-b.png (no image caption)
+Source named: none | Label: unclear
+
+[47] Section: Sith Sorcery | Type: feat (image-only; poster's lead-in)
+Lead-in: "After creating a telepathic link with him from lightyears away with the help of his agents, Vader projects an illusion of himself to Luke that duels him in an attempt to turn his son to the Dark Side. I won't post all the fight, but here are some scans:" [panel: panels/vader/vader-after-creating-telepathic-link-him-lightyears-away-1.jpg; panels/vader/vader-after-creating-telepathic-link-him-lightyears-away-2.jpg; panels/vader/vader-after-creating-telepathic-link-him-lightyears-away-3.jpg; panels/vader/vader-after-creating-telepathic-link-him-lightyears-away-4.jpg; panels/vader/vader-after-creating-telepathic-link-him-lightyears-away-5.jpg; panels/vader/vader-after-creating-telepathic-link-him-lightyears-away-6.jpg]
+Images: 5833571-4070785-1815105269-40706.jpg; 5833572-4070786-3714560956-40706.jpg; 5833573-4070787-8127410671-40706.jpg; 5833574-4070788-6133093571-40706.jpg; 5833575-4070789-1513421956-40706.jpg; 5833577-4070791-4865816826-40707.jpg (captions "Gallery image 1-6")
+Source named: none | Label: unclear
+Scaling: None stated in text.
+
+[48] Section: Sith Sorcery | Type: feat (image-only)
+Caption: "He creates a Force Illusion in Luke's mind, fooling him into believing that he was duelling Vader, when his actual opponent was Orman Tagge:" [panel: panels/vader/vader-he-creates-force-illusion-lukes-mind-fooling-1.jpg; panels/vader/vader-he-creates-force-illusion-lukes-mind-fooling-2.jpg; panels/vader/vader-he-creates-force-illusion-lukes-mind-fooling-3.jpg]
+Images: 5833589-il.jpg; 5833591-il1.jpg; 5833593-il2.jpg (captions "Gallery image 1-3")
+Source named: none | Label: unclear
+Scaling: None stated.
+
+[49] Section: Sith Sorcery | Type: statement
+Quote: "But sorcery had been employed less to extend life than to create illusions, fashion beasts, and resurrect the dead."
+Source named: "--Darth Plagueis" (credit to Azronger) | Label: Legends
+Scaling: None stated.
+Note (poster's): "NOTE: The two feats above were originally in the Telepathy section, but since Force Illusions are considered an applications of Sith Sorcery in some sources, I decided to move them here:"
+
+================================================================
+FORCE CORRUPTION
+================================================================
+
+[50] Section: Force Corruption | Type: statement (video)
+Lead-in (poster's wording): "Vader seemingly turned his castle on Vjun into a dark side nexus so powerful that Luke sensed the dark power of the fortress from orbit:"
+Quote: "There it is, X2... Bast Castle! It resonates with the power of the Dark Side. Even here, I can still sense my father's anger and regret…"
+Video: https://youtu.be/ICJCDBmyRtk (5:41-5:53)
+Source named: "Star Wars Battlefront: Elite Squadron" | Label: Legends
+Scaling: None stated in quote. Poster's note: "there is no conclusive proof that Vader was directly responsible for corrupting Bast castle."
+
+[51] Section: Force Corruption | Type: statement
+Lead-in: "Bast Castle was stated as \"a stronghold of dark power\"."
+Quote: "Anakin and his friends just heard an incredible secret! Darth Vader may have retrieved Obi-Wan Kenobi's lightsaber from the original Death Star. The lost weapon may be hidden in Vader's abandoned fortress on the planet Vjun, and Luke Skywalker agrees that it must be recovered."
+Quote (cont.): "Now Anakin and his friends—along with Tionne and the Jedi Master Ikrit—are heading off to Vjun to find the legendary fortress. Untold dangers await them, for no one knows what secrets still lie within those ancient walls. Even abandoned, it is a stronghold of dark power."
+Source named: "-- Junior Jedi Knights: Vader's Fortress" | Label: Legends
+Scaling: "Even abandoned, it is a stronghold of dark power."
+
+[52] Section: Force Corruption | Type: statement (video)
+Lead-in (poster's wording): "The presence of the dark side in the castle was also strong enough for the Disciples of Ragnos to attempt to drain its Force energy to resurrect Marka Ragnos:"
+Video: https://youtu.be/9QhJUMcB4iM (poster cites 21:30-21:36)
+Text (poster's wording): "From 21;30 to 21:36, you can clearly see Rosh Penin pointing the scepter of Ragnos towards Vader's meditation chamber before Jaden Korr arrived, suggesting that it was a focal point of dark side energy as well."
+Source named: none (video only) | Label: unclear
+Source (identified later): Star Wars: Jedi Knight: Jedi Academy (2003 game) — Vjun / Bast Castle mission (described event; video not watched) — how identified: https://starwars.fandom.com/wiki/Bast_Castle: Disciples of Ragnos draining the castle's Force energy, cited to 'Star Wars: Jedi Knight: Jedi Academy'
+Scaling: None stated.
+
+[53] Section: Force Corruption | Type: statement
+Quote: "Enter Vader's castle and stop the cult from draining its Force energy."
+Source named: "-- Star Wars: Jedi Knight: Jedi Academy" | Label: Legends
+Scaling: None stated.
+
+[54] Section: Force Corruption | Type: feat
+Lead-in: "The remains of Vader's armor in his funeral site on Endor created a nexus potent enough to prevent plants from growing there, as well as to cast waves of darkness that caused the creatures on the moon to avoid the place:"
+Quote: "As he flew onward, Kyp's mind ranged far and wide across the Endor wilderness. Then he felt a ripple, an echo of something that definitely did not... belong."
+Quote (cont.): "Everything else seemed to have its place, but this did not conform. A stain that seemed to absorb all other senses, casting waves of leftover darkness that caused the creatures on Endor to avoid the place instinctively."
+Quote (cont.): "Kyp changed course and arrowed to the coordinates, circling once until he found an appropriate clearing. The repulsorlifts whined, and his landing jets kicked up fallen forest debris as he landed the Headhunter in the underbrush."
+Quote (cont.): "Afraid and yet eager, Kyp swung out of the cockpit and hopped down, landing with a crunch in the twigs and dead leaves. The breeze died, as if the evening forest were holding its breath around him. Silvery planetshine trickled through the dense leaves, lighting the clearing with a wan, milky glow."
+Quote (cont.): "Kyp took four steps and stopped before the scorched site of Vader's funeral pyre."
+Quote (cont.): "The ground surrounding the old burned area remained dead and brown. Though the thick forests of Endor were tenacious and fast-growing, no plants dared approach the scar, even after seven years."
+Quote (cont.): "The bonfire had been large and hot, incinerating Vader's uniform. Only a few heat-warped bits of body armor had survived, along with tatters of a black cape tangled in broken rocks and time-packed ashes. A twisted lacing of steel reinforcement lay like a torn spiderweb covered."
+Quote (cont.): "Kyp swallowed and knelt in the dirt. He reached out tentatively, afraid, until he let his fingertips brush the age-crumbled ashes."
+Quote (cont.): "He jerked his hand away, then brought it back. The spot was cold, but the coldness seemed to go away as his hands grew numb."
+Quote (cont.): "Kyp used the Force to scatter bits of ash, blowing clear the tiny, buckled residue that had survived the fire, an unrecognizable lump of black plasteel that might have been Vader's helmet. Growing more desperate, Kyp increased his power, scouring away debris and leaving only a sad jumble of wires, melted plasteel, and shreds of tough cloth."
+Quote (cont.): "Darth Vader, former Dark Lord of the Sith, had been reduced to only pathetic scraps and nightmarish memories."
+Quote (cont.): "Kyp reached out to stroke the remnants. Electric tingles went through his hands. He knew he shouldn't be touching these relics, yet he could not turn away now. Kyp had to find answers to his questions, even if he had to answer them himself."
+Source named: "Credit to Brightsteel" / "-- Dark Apprentice" | Label: Legends
+Scaling: "no plants dared approach the scar, even after seven years"; "casting waves of leftover darkness that caused the creatures on Endor to avoid the place instinctively"
+
+================================================================
+ALTER ENVIRONMENT
+================================================================
+
+[55] Section: Alter Environment | Type: feat (image-only)
+Caption: "Some examples of Vader using AE to control winds:" [panel: panels/vader/vader-examples-vader-using-ae-control-winds-1.jpg; panels/vader/vader-examples-vader-using-ae-control-winds-2.jpg; panels/vader/vader-examples-vader-using-ae-control-winds-3.jpg]
+Images: 5833566-ae.jpg; 5833567-ae1.jpg; 5833568-ae2.jpg (captions "Gallery image 1-3")
+Source named: none | Label: unclear
+
+[56] Section: Alter Environment | Type: feat
+Lead-in: "Vader uses AE to control winds against Luke on Bespin:"
+Quote: "Another large piece of machinery glanced off Luke's body and crashed out the large window, letting in the screaming wind. Suddenly everything in the room was blown about, and the fierce wind lashed Luke's body and filled the room with a bansheelike howl. And in the very center of the room, standing still and triumphant, was Darth Vader."
+Quote (cont.): "\"You are beaten,\" the Dark Lord of the Sith gloated. \"It is useless to resist. You will join me or you will join Obi-Wan in death!\""
+Quote (cont.): "As Vader spoke these words, a final piece of heavy machinery soared through the air, striking the young Jedi and knocking him through the broken window. Everything became a great blur as the wind carried him, tossing and rolling, until he managed to grab hold of a beam with one hand. With the wind subsided a bit and his vision cleared, Luke realized that he was hanging from the gantry of the reactor shaft outside the control room."
+Quote (cont.): "He didn't want to believe Vader, tried convincing himself that it was Vader who lied to him—but somehow he could feel the truth in the Dark Lord's words. But, if Darth Vader did speak the truth, why, he wondered, had Ben Kenobi lied to him?"
+Quote (cont.): "Why?"
+Quote (cont.): "His mind screamed louder than any wind the Dark Lord could ever summon against him."
+Quote (cont.): "The answers no longer seemed to matter."
+Quote (cont.): "His father."
+Quote (cont.): "With the calmness that Ben himself and Yoda, the Jedi Master, had taught him, Luke Skywalker made, perhaps, what might be his final decision of all. \"Never,\" Luke shouted as he stepped out into the empty abyss beneath him. For all its unperceived depth, Luke might have been falling to another galaxy."
+Quote (cont.): "Darth Vader moved to the end of the gantry to watch as Luke tumbled away. A strong wind began to blow, billowing Vader's black cloak out behind him as he stood looking over the edge."
+Source named: "-- The Empire Strikes Back" | Label: Canon (film named; the quoted prose is the film's novelization text as printed in the post)
+Scaling: "Suddenly everything in the room was blown about"; "a bansheelike howl"
+
+================================================================
+FORCE GHOST
+================================================================
+
+[57] Section: Force Ghost | Type: statement
+Lead-in: "Vader learned how to become a Force Ghost under Palpatine's tutelage, though his training in the technique was later completed by the spirits of Yoda and Obi-Wan:"
+Quote: "Force spirit: A disembodied manifestation of a once living, Force-sensitive individual. Rather than simply becoming part of the Force, they denied the will of the Force to retain their individuality, at least for a limited time. Gui-Gon learned the technique from studying the Whills, and was able to teach Yoda and Obi-Wan the skill. Anakin Skywalker learned it through his teachings with Palpatine and through the knowledge passed on by the spirits of Obi-Wan and Yoda."
+Source named: "-- The Complete Star Wars Encyclopedia" | Label: Legends
+Scaling: None stated.
+
+================================================================
+TELEPATHY
+================================================================
+
+[58] Section: Telepathy | Type: statement
+Lead-in: "Vader is proficient in Force Fear:"
+Quote: "But the Force, of course, was quite real—and the black tentacles of its dark side had hardened Palpatine and his new pupil, Darth Vader, into evil incarnate. They shared its horrible energies, and used them to fill the minds of their subservient military minions with fear."
+Source named: "-- Technical Journal Of The Imperial Forces" | Label: Legends
+Scaling: None stated.
+
+[59] Section: Telepathy | Type: feat
+Lead-in: "He probes admiral Motti's mind:"
+Quote: "Without a word, Vader swept past the admiral and headed for the privacy of his quarters. Motti's mind was not weak, but the emotions roiling beneath the calm exterior made his thoughts easy enough to sense: could he have struck Vader dead in that moment, he would have. The man's mind was a cauldron of seething anger, of hatred and envy, most of which was directed toward Vader. A pity Motti had no connection to the Force, the Dark Lord mused. He could have proved most useful."
+Source named: "-- Death Star" | Label: Legends
+Scaling: None stated.
+
+[60] Section: Telepathy | Type: feat
+Lead-in: "He drains knowledge from Luke Skywalker's mind:" (poster's lead-in links to a forum thread: https://www.comicvine.com/forums/gen-discussion-1/rebellion-luke-skywalker-respect-thread-incomplete-1635784/)
+Quote: "\"Give yourself to the dark side, Luke,\" he entreated. \"It is the only way you can save your friends. Yes, your thoughts betray you, son. Your feelings for them are strong, especially for—\" Vader stopped. He sensed something."
+Quote (cont.): "Luke withdrew further into shadow. He tried to hide, but there was no way to hide what was in his mind—Leia was in pain. Her agony cried to him now, and his spirit cried with her. He tried to shut it out, to shut it up, but the cry was loud, and he couldn't stifle it, couldn't leave it alone, had to cradle it openly, to give it solace. Vader's consciousness invaded that private place. \"No!\" screamed Luke."
+Quote (cont.): "Vader was incredulous. \"Sister? Sister!\" he bellowed. \"Your feelings have now betrayed her, too... Twins!\" he roared triumphantly. \"Obi-Wan was wise to hide her, but now his failure is complete.\""
+Source named: "-- Return Of The Jedi" | Label: Canon (film named; text as printed in the post)
+Scaling: None stated.
+
+[61] Section: Telepathy | Type: feat
+Quote: "Then, Vader and Palpatine both gained access to Luke's innermost thoughts, those that protected his sister, Princess Leia Organa."
+Source named: "-- The Essential Guide To Characters" | Label: Legends
+Scaling: None stated.
+
+[62] Section: Telepathy | Type: feat
+Lead-in: "Vader telepathically instills fear in the minds of two Force-sensitives:"
+Quote: "Vader's mere presence was enough to weaken even the bravest heart. He was ruthless, and when he focused his terrible mind on them, Tash felt dark ripples of the Force wash over her, threatening to drown her in pure evil. Beside her, Zak felt Vader's cruel will like a shadow darker than anything the wraiths could create."
+Source named: "-- Galaxy Of Fear: Army Of Terror" | Label: Legends
+Scaling: "a shadow darker than anything the wraiths could create"
+
+[63] Section: Telepathy | Type: feat (video)
+Lead-in: "He senses conflict in his apprentice and seemingly probes his emotions from lightyears away:"
+Video: https://youtu.be/fdBF95J0MTY (1:50-2:00)
+Source named: none (video only) | Label: unclear
+Scaling: None stated.
+
+[64] Section: Telepathy | Type: statement
+Lead-in: "As Sidious' apprentice, Vader learned to kill with a mere suggestion:"
+Quote: "Under the Emperor's tutelage, Vader learns to kill with mere suggestion."
+Source named: "-- Star Wars Visual Dictionary" | Label: Legends
+Scaling: "with mere suggestion" (quote's wording)
+
+[65] Section: Telepathy | Type: statement
+Lead-in: "He senses hostility in some of Tarkin's men:"
+Quote: "Vader could sense the hostility of some of the men behind Tarkin, but that was of no importance. Hostile words or actions he could and would deal with, but thoughts of the weak-minded were no threat."
+Source named: "-- Death Star" | Label: Legends
+Scaling: None stated.
+
+[66] Section: Telepathy | Type: feat (image-only)
+Caption: "He controls the mind of an imperial officer:" [panel: panels/vader/vader-he-controls-mind-imperial-officer-1.png]
+Image: 5833569-2304048770-39190.jpg (no image caption)
+Source named: none | Label: unclear
+
+[67] Section: Telepathy | Type: feat (image-only)
+Caption: "Vader twists Boba Fett's thoughts:" [panel: panels/vader/vader-vader-twists-boba-fetts-thoughts-1.jpg]
+Image: 4062962-9170157402-24263.jpg (no image caption)
+Source named: none | Label: unclear
+
+[68] Section: Telepathy | Type: feat (image-only)
+Caption: "He puts a man to sleep:"
+Image: 5833583-sleep.jpg (no image caption)
+Source named: none | Label: unclear
+
+[69] Section: Telepathy | Type: feat
+Lead-in (poster's wording): "He casually nearly stuns Nick Rostu into a vegetative state while holding back and decades before his prime, possibly by using Force Horror :"
+Quote: "\"You want me to find Jax Pavan for you,\" Nick said. \"I won't do it.\" His voice shook a little, but he got the words out."
+Quote (cont.): "Vader stepped closer to him. \"I think you will. In fact, I know you will. You are brave; your record makes that clear. You do not fear death.\" He raised his left hand, index finger slightly extended, as if making a point. \"But there are far worse things than mere death ...\"."
+Quote (cont.): "And before Nick realized what was going on, the Dark Lord was somehow inside his head, a dark shadow interrupting the flow of his thoughts. The shadow seemed to expand...Nick screamed, and fell into a blackness even more perfect than the eyes of Darth Vader."
+Quote (cont.): "Rhinann took Nick Rostu down to the hangar bay. Rostu was conscious, but silent, staring into the distance. Rhinann had become somewhat familiar with human facial expressions and body language, and he could tell that Rostu had seen or heard something that had nearly stunned him into a vegetative state. Rhinann shuddered, trying not to think about what horrors Vader had imparted to the human. Whatever they had been, they had left him in such shock that the forcecuffs he was wearing seemed almost superfluous."
+Quote (cont.): "His mind felt like it had been punched full of holes—holes that let conscious thoughts drain from it as fast as they popped into existence. Or maybe it was just that the thoughts were too horrible to hold on to for any length of time."
+Quote (cont.): "It was the human, Rostu, who had been the stick that broke the bantha's back. After Rhinann had sent him on his way in the freighter, the Elomin had had time to speculate on whatever Vader had done to him to cause such a state of fear and despair in a hardened guerrilla warrior."
+Source named: "-- Coruscant Nights I: Jedi Twilight" | Label: Legends
+Scaling: "even more perfect than the eyes of Darth Vader" is the quote's only comparison; "nearly stunned him into a vegetative state" (quote, about Rostu's state)
+
+[70] Section: Telepathy | Type: statement
+Lead-in: "While on Coruscant, Vader muses that he could reach out to Roan Shryne through the Force, in spite of the latter being in the Outer Rim:"
+Quote: "The moon was arid Jaguada's sole companion in a desolate system slaved to a dying star, far from major hyperlanes. The fact that remote Jaguada should host a garrison of clone troopers in the desert planet's modest population center struck Shryne as something of a mystery. But the troopers' presence could owe to plans to salvage the Separatist war machines that had been left abandoned on the moon, as troopers were known to be doing in numerous Outer Rim systems."
+Quote (cont.): "Behind Armand Isard and the two Internal Security Bureau technicians seated at the Temple beacon control console, Vader stood with his arms folded across his chest, Commander Appo at his right hand."
+Quote (cont.): "\"I want to know how the beacon was accessed,\" Vader said." / "\"By means of a Jedi transceiver, Lord Vader,\" the tech closest to Armand said." / "\"Cross-check the transceiver code with the identity database,\" the ISB chief said, anticipating Vader." / "\"The name should be coming up in a moment,\" the other tech said, eyes glued to rapidly scrolling text on one of the display screens. \"Chatak,\" he added a moment later. \"Bol Chatak.\""
+Quote (cont.): "The sound of Vader's breathing filled the ensuing silence."
+Quote (cont.): "Shryne and Starstone, he thought. Obviously they had been in possession of Chatak's beacon transceiver when they had evaded him at Murkhana. Now they were attempting to determine the location of other Jedi when Order Sixty-Six had been issued. Certainly they were hoping to establish contact with survivors, hoping to pick up the pieces of their shattered order."
+Quote (cont.): "And… what?"
+Quote (cont.): "Devise their revenge? Unlikely, since that would entail calling on the dark side. Formulate a plan to kill the Emperor? Perhaps. Although, ignorant of the fact that Palpatine was a Sith, they would not plot an assassination. So perhaps they were contemplating an attack on the Emperor's enforcer?"
+Quote (cont.): "Vader considered reaching out to Shryne through the Force, but rejected the idea."
+Quote (cont.): "\"What is the source of the transmission?\" he asked finally." / "\"The Jaguada system, Lord Vader,\" the first technician said. \"More precisely, the moon of the system's only inhabited world.\""
+Quote (cont.): "A large holomap of the galaxy emerged from the console's holoprojector. Linked to myriad databases throughout the Temple, the map made use of a palette of colors to indicate trouble spots. Just now, in preservation of the moment Order Sixty-Six had been executed, more than two hundred worlds glowed blood red."
+Quote (cont.): "Perhaps this explained why Sidious hadn't had the Temple dismantled, Vader thought. So he could regard it from his lofty new throne room and gloat."
+Source named: "-- Dark lord: The Rise Of Darth Vader" | Label: Legends
+Scaling: "more than two hundred worlds glowed blood red" (describes the galaxy map, not a Vader feat)
+
+[71] Section: Telepathy | Type: feat (image-only)
+Caption: "He is immune to the effects of fear inducing techniques:" [panel: panels/vader/vader-he-immune-effects-fear-inducing-techniques-1.png]
+Image: 4649692-immune%20fear.png (no image caption)
+Source named: none | Label: unclear
+
+[72] Section: Telepathy | Type: statement
+Lead-in: "He can project his thoughts over vast distances and read surface impressions from the minds of other people:"
+Quote: "When dealing with others strong in the Force, Vader can sense and identify their presence by the psychic disturbances they create. He can project his thoughts over vast distances. or even read surface impressions directly from another's mind."
+Source named: "-- Lightsaber Duelling Pack: Darth Vader" | Label: Legends
+Scaling: "over vast distances" (quote's wording)
+
+[73] Section: Telepathy | Type: feat
+Lead-in: "Vader appears to have telepathically influenced a Toydarian, a species that is highly resistant to mind tricks, though he could have used other Force techniques to aid his effort:"
+Quote: "\"These creatures have become such an irritation that every time I see one I want to strike it down with my lightsaber. Be that as it may, I interviewed a Toydarian subject who showed a great amount of resistance to Force suggestion, up to the point that I created physical discomfort. They can be easily intimidated by a demonstration of strenght. And it proved relatively simple to cause it to expire, merely by making its existence extremely painful. Ultimately, though it showed a great degree of willpower, it was no match for the power of the Force.\""
+Source named: "-- Jedi Vs Sith: The Essential Guide To The Force" | Label: Legends
+Scaling: "it was no match for the power of the Force" (quote's wording)
+
+[74] Section: Telepathy | Type: feat (image-only)
+Caption: "He invades Stauz's mind, possibly forcing him to relive his worst memories via Memory Walk:" [panel: panels/vader/vader-he-invades-stauzs-mind-possibly-forcing-him-1.jpg; panels/vader/vader-he-invades-stauzs-mind-possibly-forcing-him-2.jpg]
+Images: 3944043-5203451460-21914.jpg; 3944044-0784903332-21914.jpg (captions "Gallery image 1-2")
+Source named: none | Label: unclear
+Source (identified later): "Moment of Doubt" — Star Wars Tales 4 (Stauz Czycz, alias Tark) (described event; scans not seen) — how identified: https://starwars.fandom.com/wiki/Stauz_Czycz (all Vader encounter text cited to 'Moment of Doubt' — Star Wars Tales 4)
+
+[75] Section: Telepathy | Type: feat (image-only)
+Caption: "He easily shrugs off a mental attack from Clat the Shamer, who could induce people to commit suicide by showing them their sins and inner fears (credit to WollfMyth209):" [panel: panels/vader/vader-he-easily-shrugs-mental-attack-clat-shamer-1.png; panels/vader/vader-he-easily-shrugs-mental-attack-clat-shamer-2.png; panels/vader/vader-he-easily-shrugs-mental-attack-clat-shamer-3.png]
+Images: 5836349-8048387316-52773.png; 5836350-7415774500-52773.png; 5836351-3395263205-52773.png (captions "Gallery image 1-3")
+Source named: "credit to WollfMyth209" (no work named) | Label: unclear
+Source (identified later): "Dark Lord's Conscience" — The Empire Strikes Back Monthly 155 (UK, Marvel) (described event; scans not seen) — how identified: https://starwars.fandom.com/wiki/Clat (Clat the Shamer's attack on Vader cited to that story)
+Scaling (from caption): "could induce people to commit suicide"
+
+[76] Section: Telepathy | Type: feat (image-only)
+Caption: "He telepathically communicates with Birra Seah from across the Executor (credit to WollfMyth209):" [panel: panels/vader/vader-he-telepathically-communicates-birra-seah-across-executor-1.jpg; panels/vader/vader-he-telepathically-communicates-birra-seah-across-executor-2.jpg]
+Images: 5279978-0460175554-5279961-7515759501-5279730-3664181561-jjqt74_... (URL truncated in source); 5279979-7157148441-5279732-4560132690-LfkQ... (URL truncated in source) (captions "Gallery image 1-2")
+Source named: "credit to WollfMyth209" (no work named) | Label: unclear
+Source (identified later): Star Wars (2013, Dark Horse) — issue NOT confirmed; Wookieepedia cites issues 4 and 9 for Vader–Birra Seah scenes (described event; scans not seen) — how identified: https://starwars.fandom.com/wiki/Birra_Seah
+Scaling: "from across the Executor" (caption)
+
+[77] Section: Telepathy | Type: feat
+Lead-in: "Vader tempts Luke to turn to the darkside:"
+Quote: "\"Luke—you can destroy the Emperor. He has foreseen this. It is your destiny.\" He opened his left hand end held it out to Luke. \"Join me, and together we can rule the galaxy as father and son.\""
+Quote (cont.): "His voice is so hypnotic, Luke thought, and he felt part of him falling under Vader's spell."
+Source named: "-- A New Hope: The Life Of Luke Skywalker" | Label: Legends
+Scaling: None stated.
+
+================================================================
+SUMMARY
+================================================================
+Cited items: 77 (numbered [1]-[77]).
+Image-only entries (caption only, no text quote): 24 (#1, 2, 8, 10, 12, 24, 25, 27, 29, 34, 35, 36, 44, 46, 47, 48, 55, 66, 67, 68, 71, 74, 75, 76).
+Source labels: Canon = 4 items (#15, #18, #56, #60: Revenge Of The Sith quote and script, The Empire Strikes Back, Return Of The Jedi). Legends = 41 items. unclear = 32 items (all image-only entries, video-only entries, credit-only entries, and Star Wars Databank #19).
+Excluded: reader comments, the blog's header image, and the poster's own rankings.
+Caveat: the post does not label sources as Legends or Canon; labels above follow the named work's status.
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### vader-p2 / Battlemind
+- Vader knows Battlemind: (issue unknown (source not named in thread)) [panel: panels/vader/vader-vader-knows-battlemind-1.png]
+
+### vader-p2 / Beast Control
+- Vader tames a Sugati: (issue unknown (source not named in thread)) [panel: panels/vader/vader-vader-tames-sugati-1.jpg]
+
+### vader-p2 / Force Stun/Force Stasis
+- He is resistant to Stun: (issue unknown (source not named in thread)) [panel: panels/vader/vader-he-resistant-stun-1.png]
+
+### vader-p2 / Telepathy
+- He puts a man to sleep: (issue unknown (source not named in thread)) [panel: panels/vader/vader-he-puts-man-sleep-1.jpg]

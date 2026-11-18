@@ -1,0 +1,91 @@
+Ludo Kressh — research extraction
+
+Source page: https://starwars.fandom.com/wiki/Ludo_Kressh
+Final URL: https://starwars.fandom.com/wiki/Ludo_Kressh
+HTTP result: 200; no fallback was needed.
+Continuity label: Legends (the article is categorized under “Legends articles”; its cited narrative is from the Legends-era Tales of the Jedi material). It is not presented as a canon article.
+Research note: This is an extraction of the page’s wording and cited claims. “Demonstrated feat” means the article describes an event/action; “character claim / hype” preserves an assertion, opinion, or evaluative wording rather than treating it as independently demonstrated.
+
+DEMONSTRATED FEATS / EVENTS
+
+1. Force combat against Naga Sadow (Tales of the Jedi – The Golden Age of the Sith 2, article ref. [9])
+- During the dispute over the Dark Lord title at Marka Ragnos’s funeral on Korriban, Kressh attacked Sadow and initially drove him back in their duel.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Sadow then stalled Kressh with telekinesis and gained the upper hand; Marka Ragnos’s spirit interrupted the fight.
+  Source: Tales of the Jedi – The Golden Age of the Sith 2 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 9; approximate match 0.70, verify]
+- The article’s powers section says both later gained the upper hand at different points, suffered wounds of equal proportion, and fought with blades wreathed in lightning and Force-thrown objects. This is the page’s explicit equal-combat statement, not a claim that either permanently defeated the other.
+  Source: Tales of the Jedi – The Golden Age of the Sith 2 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 9; approximate match 0.62, verify]
+- Kressh used a Sith war sword infused with the Force before a duel (ref. [9]).
+
+2. Political/security judgment regarding the Daragons (Tales of the Jedi – The Golden Age of the Sith 2/3, refs. [5], [9])
+- Kressh ordered that Gav and Jori Daragon be executed, arguing they were precursors/spies for a Republic invasion; the council did not adopt his position.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- After Sadow staged a false Republic attack and arranged Simus’s murder to look like a Republic assault, Kressh initially believed the deception and advocated strengthening Sith defenses. He later found Sadow’s emblem among the Massassi dead and identified Sadow as responsible.
+  Source: Tales of the Jedi – The Golden Age of the Sith 4 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 1; per-sentence approximate match (1/2 sentences matched, min 0.67), verify]
+
+3. Attack on Khar Delba (Tales of the Jedi – The Golden Age of the Sith 4/5, refs. [1], [11])
+- Kressh assembled forces with Horak-mul and Dor Gal-ram and attacked Sadow’s fortress on Khar Delba. He personally took his ship’s firing controls and landed some hits.
+  Source: Tales of the Jedi – The Golden Age of the Sith 4 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 1; per-sentence approximate match (1/2 sentences matched, min 0.72), verify]
+- He ordered the fleet to attack/destroy Sadow. The attack failed because Sadow had hidden a fleet around Khar Shian, used the Khar Delba citadel as a decoy, and had Massassi crews loyal to him betray Horak-mul and Gal-ram.
+  Source: Tales of the Jedi – The Golden Age of the Sith 5 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 11; per-sentence approximate match (1/2 sentences matched, min 0.80), verify]
+- Kressh was caught off guard, his allies were killed, and he ordered his intact ships to flee. The page explicitly calls this Kressh’s defeat.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+4. Feigned death and return (Tales of the Jedi – The Fall of the Sith Empire 1/5, refs. [12], [13])
+- Kressh sent an empty flagship to Sadow while transmitting that Sadow was leading the Sith toward destruction. Sadow ordered Gav Daragon to destroy the ship, making Kressh appear dead.
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 ; Tales of the Jedi – The Fall of the Sith Empire 1 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 12,13; approximate match 0.65, verify]
+- Kressh actually survived, regrouped/rearmed, gathered a fleet during Sadow’s absence, and declared himself Dark Lord of the Sith.
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 ; Knight Errant [per Wookieepedia "Ludo Kressh" rev 15718268, ref 12,7; approximate match 0.62, verify]
+- After Sadow’s defeat by the Republic and return with a diminished fleet, Kressh revealed himself and banished Sadow from the Sith Empire. Kressh’s spoken claim: “You are the greatest threat the Sith Empire has ever known, Naga Sadow—and you must be stopped! You are exiled from the Empire, forever!” (ref. [12]).
+
+5. First Battle of Korriban (Tales of the Jedi – The Fall of the Sith Empire 5, ref. [12])
+- Kressh fought Sadow over Korriban after Sadow returned from the Great Hyperspace War. The article says Sadow’s already-diminished fleet was reduced further and Kressh appeared to have won.
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 12; per-sentence approximate match (1/2 sentences matched, min 0.86), verify]
+- Sadow ordered an already-damaged ship to make a suicide run into Kressh’s flagship. The collision killed Kressh.
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 12; approximate match 0.80, verify]
+- The page states Kressh’s assault had weakened Sadow’s forces enough that Republic forces subsequently defeated Sadow; this is a campaign-level consequence, not a claim that Kressh defeated Sadow personally.
+  Source: Tales of the Jedi – The Fall of the Sith Empire 5 [per Wookieepedia "Ludo Kressh" rev 15718268, ref 12; per-sentence approximate match (1/2 sentences matched, min 0.67), verify]
+
+6. Force-related actions and equipment (refs. [6], [10], [18])
+- The page states Kressh was trained/proficient in dark-side Force manipulation.
+  Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Ludo Kressh" rev 15718268, ref 10; approximate match 0.83, verify]
+- It states he had some Sith-alchemy knowledge and working knowledge of Sith sorcery, and used sorcery to construct a device/Gauntlet intended to shield his son from all harm (ref. [6]). “Potentially shield” is the article’s qualification.
+- It states he could use the exotic Battlemind power and amplify speed, strength, and ferocity by channeling rage through the Force (ref. [18]). These are cited ability statements; the page does not give a quantified magnitude.
+- He spoke Galactic Basic Standard, Sith, and Massassi (ref. [18]).
+
+VERSUS NAGA SADOW — CHARACTER CLAIMS / HYPE (NOT STAND-ALONE FEATS)
+
+- Kressh’s article lead calls Sadow his “greatest rival.” The powers section characterizes Kressh as “an equal in combat” with Sadow, but the underlying described duel is mutual/contested: Kressh initially drove Sadow back; Sadow later used telekinesis to gain the upper hand; Ragnos interrupted. Treat “equal” as the article’s evaluative claim, supported by the described exchange, not as a decisive win.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Kressh said: “I fight for the Sith Empire, Naga Sadow… you fight for yourself!” (article infobox quotation, ref. [9]). This is Kressh’s characterization of their motives.
+- Kressh said the Daragons “must be precursors to an invasion…we should kill them at once!” (ref. [9]). This was a prediction/judgment, not an observed feat.
+- Kressh said: “We must make this a quick and devastating strike.” (ref. [1]); this is an intention, not evidence that the strike succeeded.
+- Kressh called Sadow “the greatest threat the Sith Empire has ever known” when he returned and exiled him (ref. [12]). This is Kressh’s rhetoric/hype; the concrete result of their subsequent fight was Sadow’s suicide-ship tactic killing Kressh.
+- Sadow said: “Ludo should be blindfolded so he can't see the changing universe around him.” (ref. [5]). This is Sadow’s criticism of Kressh’s conservatism, not a power statement.
+- Allied Sith claimed victory at Khar Delba was “inevitable,” while Kressh believed Sadow’s turrets were his only defenses; both were disproved when Sadow’s hidden fleet and loyal Massassi turned the battle (ref. [11]).
+
+SOURCE/REFERENCE KEY USED BY THE ARTICLE
+
+[1] Tales of the Jedi – The Golden Age of the Sith 4
+[2] Article note: Kressh died disputing the Dark Lord title at Korriban in The Fall of the Sith Empire 5; The Essential Atlas dates it to 5000 BBY.
+[3] The Complete Star Wars Encyclopedia, Vol. II, p. 232 (“Kressh, Ludo”)
+[4] The Official Star Wars Fact File 118 KRE 1-2: Ludo Kressh (German edition)
+[5] Tales of the Jedi – The Golden Age of the Sith 3
+[6] Lost Tribe of the Sith: Paragon
+[7] Knight Errant
+[8] Star Wars: The Old Republic
+[9] Tales of the Jedi – The Golden Age of the Sith 2
+[10] Jedi vs. Sith: The Essential Guide to the Force
+[11] Tales of the Jedi – The Golden Age of the Sith 5
+[12] Tales of the Jedi – The Fall of the Sith Empire 5
+[13] Tales of the Jedi – The Fall of the Sith Empire 1
+[14] Tales of the Jedi – The Fall of the Sith Empire 2
+[15] Tales of the Jedi – The Fall of the Sith Empire 3
+[16] Tales of the Jedi – The Fall of the Sith Empire 4
+[17] Star Wars: Knights of the Old Republic II: The Sith Lords
+[18] The Dark Side Sourcebook
+
+ADDITIONAL SOURCES LISTED ON THE PAGE (not separately mined here)
+
+The Essential Chronology; A Guide to the Star Wars Universe, Third Edition, Revised and Expanded; “The Sith Compendium” (Star Wars Gamer 5); The New Essential Guide to Characters; Official Star Wars Fact File 77, 79, 90, 97, 109; Star Wars: Knights of the Old Republic II: The Sith Lords: Prima Official Game Guide; The Ultimate Visual Guide; The New Essential Chronology; The Comics Companion; “Heritage of the Sith” (Star Wars Insider 88); Jedi vs. Sith: The Essential Guide to the Force; The Complete Star Wars Encyclopedia; Jedi Academy Training Manual; The Essential Atlas; The Journal of Master Gnost-Dural; The Essential Guide to Warfare; and other page-listed works.
+

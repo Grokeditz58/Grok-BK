@@ -1,0 +1,105 @@
+THE DAUGHTER — RESEARCH EXTRACTION
+Retrieved: 2026-10-04
+
+PAGE RESOLUTION
+- Requested URL: https://starwars.fandom.com/wiki/Daughter_(Mortis) — article did not exist (Wookieepedia 404-style page).
+- Fallback requested: https://starwars.fandom.com/wiki/The_Daughter
+- Final URL after redirect: https://starwars.fandom.com/wiki/Daughter
+- Legends page used: https://starwars.fandom.com/wiki/Daughter/Legends
+- Both pages' "Notes and references" sections were scrolled through to the end. Citation numbers below refer to each page's own Notes and references list.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The site labels the first page Canon and the second page Legends. Legends is listed first below as requested.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+LEGENDS — Daughter/Legends
+
+Concrete feats and cited statements
+- The Daughter and Son are described as the Ones, with the Father; Thuruht's account says they coalesced from a geyser on a jungle planet. The Son drank from the Font of Power and gained dark-side power; the Daughter bathed in the Pool of Knowledge and received the light-side power. (cited [1], Fate of the Jedi: Apocalypse)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- After Abeloth attacked, the Daughter and Son joined the Killik hive mind, lent their knowledge and Force strength, and helped construct Centerpoint Station, Sinkhole Station, and other devices to create the Maw to contain Abeloth. This is a narrative/capability statement, not a directly shown combat feat. (cited [1])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- She shapeshifted into a large griffin/eagle-like form. The article says the Ones had no fixed material form and that she could change shape at will. (cited [1])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In her duel with the Son, she used telekinesis to throw him around the room. (cited [5], Star Wars: The Clone Wars — “Overlords”; powers section)
+  Source: Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Daughter" rev 15729371, ref 1; per-sentence approximate match (1/2 sentences matched, min 0.80), verify]
+- During that duel she deflected every Force-lightning blast the Son fired, absorbed lightning, and redirected one bolt back at him. (cited [5]; powers section)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- At the end of the duel, she matched the Son's lightning with an “equally powerful Force Push.” The article says neither sibling overcame the other: the Son failed to penetrate her defense and she failed to overcome him, so they were evenly matched in that encounter. (cited [5]; powers section)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- She shielded the Father from the Son's attack, later leapt between the Son and the Father, and took the Dagger of Mortis strike intended for the Father. The wound was fatal. (cited [6], Star Wars: The Clone Wars — “Altar of Mortis”)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- While dying, she used her remaining power to heal Ahsoka Tano, who had been left for dead by the Son. (cited [6])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says she had healing abilities and used them to try to heal her injured Father. (powers section; the cited episode for the surrounding account is [6])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article states that only three or four beings are known to have defeated her in combat: the Father, the Son, and Anakin Skywalker, with the Mother/Abeloth listed as alleged. This is a qualified secondary-source claim, not a fully demonstrated feat list. (cited [1], [5])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Direct quotations / power statements
+- “My sister… you were the only one I ever truly loved.” — the Son, after her death. (cited [4], Star Wars: The Clone Wars — “Ghosts of Mortis”)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- “I am Daughter.” — the Daughter. (cited [5], “Overlords”)
+- “It is in my nature to do what is selfless. My brother's will always be to do what is selfish.” — the Daughter. (cited [6], “Altar of Mortis”)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article's explicit power assessment: “the Daughter was a very powerful being.” It then supports this with shapeshifting, telekinesis, healing, lightning absorption/deflection/redirection, and the equal lightning/Force Push exchange. (powers section; cited [1], [5])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+HYPE / QUALIFIED OR INTERPRETIVE LANGUAGE — LEGENDS
+- “very powerful being” is the article's broad assessment; the specific feats above are the concrete support.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- “great power” / “great knowledge” in the Abeloth/Ones history is narrative description rather than a measured scale. (cited [1])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- “only three or four beings” is explicitly qualified, and Abeloth's defeat is labeled alleged. (cited [1])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+CANON — Daughter (final URL /wiki/Daughter)
+
+Concrete feats and cited statements
+- The Daughter is identified as a Force-wielder, the light-side counterpart to the Son, and a member of the Ones. Her listed physical forms include a humanoid form and a griffin form capable of flight. (cited [1], [3], [4], [5])
+  Source: Ultimate Star Wars ; Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Daughter" rev 15729371, ref 7,1; per-sentence approximate match (2/2 sentences matched, min 0.72), verify; agrees with the entry's own ref marker]
+- The article says Force-wielders have no fixed physical form; she alternated between a statuesque humanoid woman and a large flying griffin. (cited [1])
+  Source: Star Wars: The Clone Wars — "Overlords" [per Wookieepedia "Daughter" rev 15729371, ref 1; approximate match 0.71, verify; agrees with the entry's own ref marker]
+- She could absorb, deflect, and redirect Force lightning using the Force. (cited [6], Star Wars: The Clone Wars — “Altar of Mortis”)
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; per-sentence approximate match (1/2 sentences matched, min 1.00), verify; agrees with the entry's own ref marker]
+- Against the Son, she used telekinesis to force him upward and bring him back down, and could hold him in place. (cited [6]; powers section)
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; approximate match 0.64, verify; agrees with the entry's own ref marker]
+- She used a powerful Force push that knocked the Son out of his gargoyle form. (cited [6]; powers section)
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; approximate match 0.70, verify; agrees with the entry's own ref marker]
+- In the confrontation with the Son, she employed telekinesis against his Force lightning and briefly clashed with him in their animal forms. The Father forcibly separated them; no winner is given for that exchange. (cited [6])
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; per-sentence approximate match (1/1 sentences matched, min 0.82), verify; agrees with the entry's own ref marker]
+- When the Son tried to stab the Father with the Dagger of Mortis, she accelerated/reached him before he could strike and took the full blade impact herself. (cited [6]; powers section)
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- In her final moments, she transferred her remaining life force into Ahsoka Tano through Anakin Skywalker as a conduit, healing/restoring Ahsoka from death. (cited [6])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article identifies the Dagger of Mortis as a weapon capable of harming the Ones; the Son's accidental stabbing made her mortal and killed her. (cited [6])
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; per-sentence approximate match (1/2 sentences matched, min 0.71), verify; agrees with the entry's own ref marker]
+- Her death disrupted the balance on Mortis; the article says Mortis descended into darkness and that the light in the wider galaxy was greatly weakened. This is a story consequence, not a direct attack feat. (cited [6])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Direct quotations / power statements
+- “My nature is to do what is selfless.” — the Daughter. (cited [6], “Altar of Mortis”)
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; exact text match; agrees with the entry's own ref marker]
+- “We are the ones who guard the power. We are the middle, the beginning, and the end.” — the Daughter's voice from the Lothal mural. (cited [9], Star Wars Rebels — “Wolves and a Door”; repeated in the Lothal mural section)
+  Source: Star Wars Rebels — "Wolves and a Door" [per Wookieepedia "Daughter" rev 15729371, ref 9; exact text match; agrees with the entry's own ref marker]
+- The page describes her as a “paradigm of the light side” and says the Father maintained/channeled balance between her and the Son. This is characterization/cosmological framing, not a numerical power ranking. (cited [1], [6])
+  Source: UNSOURCED on Wookieepedia (sentence found in "Daughter" rev 15729371 but it has no inline citation in its paragraph; exact text match)
+
+HYPE / QUALIFIED OR INTERPRETIVE LANGUAGE — CANON
+- “paradigm of the light side,” “mighty duel,” “powerful Force-wielder,” “catastrophic effect,” and “greatly weakening the light” are broad narrative descriptions; the concrete demonstrations are listed separately above.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Daughter" rev 15729371 but it has no inline citation in its paragraph; exact text match)
+- The Lothal mural line is a voice statement about the Mortis family’s role (“guard the power”); it should not be treated as a quantified combat feat. (cited [9], [11])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+VERSUS THE SON — BOTTOM LINE
+- Legends gives the clearest explicit comparison: the Daughter and Son were evenly matched in their duel; her defenses stopped all his lightning, she redirected a bolt, and her Force Push matched his lightning. She did not defeat him, and he did not break through her defense in that exchange. (cited [5])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Canon confirms direct parity-type interactions without declaring a winner: her telekinesis opposed his lightning, she held/threw him and knocked him out of gargoyle form, and the Father separated them. The Son ultimately killed her only by using the Dagger of Mortis after she interposed herself to save the Father. (cited [6])
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The Daughter's final healing/resurrection of Ahsoka happened after the Son had incapacitated/killed Ahsoka and after the Daughter received the fatal dagger wound; it is a life-force/healing feat, not evidence that she defeated the Son.
+  Source: Star Wars: The Clone Wars — "Altar of Mortis" [per Wookieepedia "Daughter" rev 15729371, ref 6; per-sentence approximate match (1/2 sentences matched, min 0.61), verify]
+
+SOURCE / CITATION NOTES
+- Legends [1]: Fate of the Jedi: Apocalypse; [4]: “Ghosts of Mortis”; [5]: “Overlords”; [6]: “Altar of Mortis,” as listed in the Legends page's Notes and references.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Canon [1]: “Overlords”; [3]: Daughter in the Databank; [4]: Star Wars: The Clone Wars: Character Encyclopedia; [5]: “Overlords” episode guide; [6]: “Altar of Mortis”; [9]: “Wolves and a Door”; [11]: “A World Between Worlds,” as listed in the Canon page's Notes and references.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

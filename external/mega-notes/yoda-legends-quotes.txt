@@ -1,0 +1,167 @@
+[Cross-link 2026-10-12] DEEP layer: yoda-comicvine-respect.txt (Aurbere CV RT, sourced) + debates-yoda-mace-sidious.md (SI). Verdicts in verdicts.md.
+YODA/LEGENDS — FEATS AND POWER STATEMENTS EXTRACTION
+Source: https://starwars.fandom.com/wiki/Yoda/Legends
+Final URL after navigation: https://starwars.fandom.com/wiki/Yoda/Legends (no redirect)
+Page sections reviewed: Biography; Personality and traits; Powers and abilities (Lightsaber training, Force powers, Other abilities); Notes and references. The article was scrolled through the references to the page footer.
+Continuity note stated by the article: it is a Legends article, but parts are affected by the Star Wars: The Clone Wars project; a definitive Legends Clone Wars timeline was never established, so the exact chronology is unknown. The article also flags itself as needing major additions/referencing and not fully up to date.
+
+QUOTED / EXPLICIT POWER STATEMENTS
+[Intro / quotation]
+- Yoda tells Luke: “For my ally is the Force, and a powerful ally it is”; life creates the Force, its energy surrounds and binds everything, and beings should feel the Force everywhere, including between land and ship. [3]
+- The lead describes Yoda as one of the most legendary, renowned and powerful Jedi Masters in galactic history, known for mastery of the Force and lightsaber combat. This is a narrative statement, not a discrete feat.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Yoda/Legends" rev 15716700 but it has no inline citation in its paragraph; approximate match 0.79, verify)
+- The lead says Yoda mastered all lightsaber forms and stances except the Vaapad subset of Form VII, while mastering Juyo; it calls him a particularly accomplished Form IV user. It says many considered him the greatest Jedi duelist, surpassing Mace Windu and Count Dooku. These are article statements/scaling, not standalone feats.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Yoda/Legends" rev 15716700 but it has no inline citation in its paragraph; approximate match 0.82, verify)
+
+BIOGRAPHY — CONCRETE FEATS
+[Jedi Master]
+- During the Chu’unthor incident on Dathomir (around 230 BBY), Yoda and other Jedi fought the Witches of Dathomir; the confrontation ended in a stalemate. [24]
+  Source: The Courtship of Princess Leia [per Wookieepedia "Yoda/Legends" rev 15716700, ref 24; approximate match 0.73, verify; agrees with the entry's own ref marker]
+- Yoda risked his life to stop his former student Ikrit from killing a friend with a lightsaber. [25]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says that by around 400 BBY Yoda could be considered one of the greatest Masters in Jedi history, comparable with Nomi Sunrider and Thon. This is scaling language, not a feat. [26]
+- In Dooku’s Padawan years Yoda assisted closely with his lightsaber training. The article says that, after Dooku became an accomplished duelist, only Yoda and Mace Windu were considered equal to Dooku’s lightsaber skill. This is an article scaling statement. [8]
+
+[Yinchorri uprising — Raid on the Temple]
+- Yoda sensed danger approaching before the Yinchorri raid on the Jedi Temple. During the raid he used the Force to throw an armed Yinchorri against a wall, killing him. [29]
+
+[Invasion of Naboo — Return of the Sith]
+- The article records Yoda’s conclusion that the Sith had returned after Qui-Gon Jinn’s attacker killed Qui-Gon and was defeated by Obi-Wan. This is an identification/inference, not a combat feat. [7]
+- A surge of dark-side energy caused by the Darkstaff’s removal from the Cularin asteroid belt was strong enough to nearly hospitalize Yoda; despite the system’s physical disappearance, he could sense its inhabitants were still alive. [31]
+  Source: "Below the Belt: Philology" – Living Force campaign [per Wookieepedia "Yoda/Legends" rev 15716700, ref 31; approximate match 0.67, verify; agrees with the entry's own ref marker]
+
+[Clone Wars — Battle of Geonosis]
+- Yoda arrived with clone forces and commanded the Republic side in the First Battle of Geonosis. [8]
+- After Dooku grievously wounded Anakin and Obi-Wan, Yoda deflected Dooku’s Force attacks, including Force lightning. [8]
+- Yoda dueled former apprentice Count Dooku/Darth Tyranus. The article says Dooku initially fared well, but Yoda’s speed and agility became so overwhelming that he nearly defeated him. Yoda stopped a massive falling pillar to save Anakin and Obi-Wan; Dooku escaped while Yoda was occupied. [8]
+- The lead and Powers section characterize the Geonosis duel as Yoda holding the upper hand and being forced to give up the winning position only because Dooku used the falling pillar as a distraction. This is article scaling of the same event, not a separate feat. [8]
+
+[Clone Wars — Frontline warrior]
+- At the Battle of Axion, Yoda led clones from a kybuck, saved Commander Brolis, and defeated a Hailfire droid in single combat. [35]
+  Source: "Duel" — Star Wars: Short Story Collection [per Wookieepedia "Yoda/Legends" rev 15716700, ref 35; approximate match 0.82, verify; agrees with the entry's own ref marker]
+- On Ilum, Yoda sensed Luminara Unduli and Barriss Offee were in peril and destroyed dozens of chameleon droids before rescuing them. [33]
+- During the war he used Force support/meditation with Mace Windu and sensed the completion of Obi-Wan Kenobi and Bail Organa’s mission against Zigoola. [37]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+[Clone Wars — Rugosa]
+- After his warship was attacked, Yoda escaped in an escape pod with three clone troopers and landed safely on Rugosa. [39]
+- Yoda defeated an entire squad of battle droids without using his lightsaber. He used the Force to turn a battle droid against the others, deflected blaster fire into coral that crushed droids, and later faced three tanks and many droids alone, destroying all of them, including commander 224. [39][40]
+- When Ventress attacked King Katuunko, Yoda used the Force to stop her death blow, disarmed Ventress, and returned her lightsabers; the article explicitly says his telekinesis made them useless against him. [39][40]
+- When Ventress caused a hillside collapse, Yoda telekinetically stopped the rocks from crushing the Republic group. [39]
+- King Katuunko said one Jedi was worth not a hundred battle droids but a thousand. This is a character opinion/hype statement, not a measured feat. [39]
+
+[Clone Wars — The Zillo Beast]
+- Yoda and Aayla Secura climbed onto the Zillo Beast and distracted it with lightsabers while Republic forces rescued a shuttle; Yoda then helped protect the group from toxin bombs. [53]
+
+[Clone Wars — Stolen holocron]
+- Yoda sensed an approaching disturbance, predicted intruders in the Jedi Temple, later sensed their arrival, and inferred that an infiltrator inside the Temple was receiving help. [51]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He led a Force-based effort with Windu, Kenobi and Anakin to pinpoint Force-sensitive children targeted by Cad Bane, sensing children in danger and recognizing that the dark side hid one child’s fate. [52]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+[Clone Wars — Discovering immortality]
+- Qui-Gon’s spirit demonstrated its presence by levitating Yoda. Yoda then undertook a deprivation ritual and survived a near-death meditation to travel to Dagobah and seek instruction in retaining identity after death. [68]
+- On Dagobah and the Force Priestesses’ world, Yoda overcame a manifestation of his own dark side and rejected a false vision designed around his attachments. On Moraband he brushed off apparitions including undead Sith warriors and Darth Bane. These were spiritual tests/visions, not ordinary physical duels. [69][70]
+- In the Sidious/Dooku Force illusion, Yoda Force-pushed Sidious, used tutaminis to deflect Sith lightning with his bare hands, kept Anakin from falling with the Force while also blocking lightning, and severed a collapsing catwalk with his lightsaber. The article presents this as an illusion/training test that ended when Sidious realized more would be needed to defeat Yoda, not as a historical physical duel. [70]
+
+[Clone Wars — Vjun]
+- In a second duel with Dooku, the article says Yoda and Dooku were closely matched; Dooku pierced Yoda’s defenses with a minor hit. Both survived and withdrew before a victor was determined. The article compares it to Geonosis and says Dooku’s lightsaber proficiency was nearly akin to Yoda’s. [20]
+
+[Bpfasshi Dark Jedi crisis]
+- Yoda personally engaged the last surviving Bpfasshi Dark Jedi in a duel lasting a day and a half and finally defeated him; the mortally wounded Dark Jedi later died on Dagobah. The article notes continuity uncertainty about exactly where that fight occurred. [75][76]
+
+[Rise of the Sith Lords — Battle of Coruscant]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Yoda used mounted lightsaber combat while supporting Captain Fordo’s forces, then continued fighting on foot with Mace Windu. [33]
+- The Powers section attributes to this battle a large-scale telekinetic sequence: Yoda raised a group of destroyer droids into incoming Separatist attack craft, then caused pairs of C-9979 landing craft to collide, including by pushing droids and transports back into a craft and closing its doors. The article describes the effort as physically taxing. [115]
+
+[Invasion of Kashyyyk / Order 66]
+- During the Battle of Kashyyyk, Yoda used battle meditation to assist Wookiees and clones. [81]
+- He sensed Jedi deaths across the galaxy and sensed Anakin’s fall to the dark side from Kashyyyk. When Order 66 began, Yoda decapitated Commander Gree and his assistant with one strike and fought through the remaining clones, escaping with Chewbacca and Tarfful. [80]
+
+[Duel in the Senate]
+- Yoda Force-pushed Sidious’s guards into a wall, then Force-pushed Sidious across the room. [80]
+- In the lightsaber duel, Yoda and Sidious initially stalemated. Yoda then gained the upper hand by using his size, speed and agility in the tight podium space, and disarmed Sidious. A desperate lightning blast prevented Yoda’s death strike. [80][83]
+- Sidious hurled Senate hoverpods telekinetically. Yoda caught one and threw it back. [80]
+- Sidious’s lightning tore away Yoda’s lightsaber; Yoda used tutaminis to withstand it, then coalesced the lightning into a blue orb and redirected it toward Sidious. Their combined power exploded, ending the duel. [80]
+- The article says Yoda’s stamina was exhausted and his body battered; he could not hold a Senate pod, fell, and escaped rather than continuing. It also says the duel’s extended duration favored Sidious as Yoda weakened while Sidious grew stronger. [80][11]
+
+[Exile / The next Skywalker]
+- Yoda selected Dagobah as a refuge because its dark-side cave and abundant life masked his Force presence from Sidious and Vader. [77]
+- During Luke’s training, Yoda helped R2-D2 avoid harm and strike the Dragonsnake King with electricity; he defeated Luke effortlessly with a stick even while Luke had a lightsaber and used a saber throw, losing only after allowing Luke to seize the stick. [90]
+- Yoda taught Luke short-term memory enhancement and deeper telekinetic ability. [91]
+- Yoda retained identity after death and appeared as a Force ghost; his teachings became a basis for Luke’s New Jedi Order. [80]
+
+POWERS AND ABILITIES — DIRECTLY STATED FEATS
+[Lightsaber training]
+- The article says Yoda had intensive training in all seven forms, with full mastery/knowledge of their stances and techniques; he particularly specialized in Form IV/Ataru. This is an article statement. [112]
+- It says Yoda’s speed could make him appear as a blur to Jedi Masters, with only Darth Sidious able to keep the tempo; he could handle many opponents and deflect blaster fire, including during Order 66. These are narrative/scaling statements backed by the Temple and Order 66 events. [33][80]
+- Yoda fought through Spelunker probe droids, often moving faster than they could react or fire. [114]
+- The article states that Yoda could best both Mace Windu and Count Dooku, held the upper hand against the improved Darth Tyranus, fought Sidious on equal footing, and disarmed Sidious. Treat these as article scaling statements grounded in the Geonosis and Senate duels, not as new independent feats. [80][83]
+
+[Force powers]
+- Scaling statement: the article calls Yoda one of the most powerful Force users in history, rivaling Darth Sidious, and the strongest Force master among the Jedi of his time. It says Yoda surpassed Anakin in practical Force use through greater experience. [20]
+- Scaling statement: the article says only Darth Sidious perhaps rivaled Yoda’s Force mastery and lightsaber strength; Darth Tyranus believed a dark-side Yoda would be so powerful that even Sidious could not stand against him. [20]
+- The article says Luke considered Yoda’s power far beyond Vader’s and greater than Luke’s own as late as 9 ABY. This is Luke’s opinion/scaling, not a direct feat. [77]
+- Yoda easily repelled Dooku’s Force assaults after Dooku’s fall, including lightning, and the Geonosis narrative records this. [8]
+- Yoda overpowered Ventress with telekinesis: sent her flying, stopped her strike midair, and disarmed her. [39]
+- The article says Yoda could telekinetically lift and carry an X-wing. [115]
+- He used mind tricks on strong-willed individuals such as Captain Typho, could read thoughts precisely, and could manipulate memories. These are article statements about ability. [33]
+- Yoda used tutaminis to absorb/redirect Dooku’s Force lightning with no effort in the article’s characterization of the Geonosis encounter; against Sidious he absorbed lightning with great effort, redirected it, and the combined powers exploded. [8][80][83]
+- Yoda used Force Valor to augment physical attributes, could resist age long enough to train Luke, and could heal/preserve life. [8][116]
+- He could sense deaths of almost all Jedi, sense Anakin’s fall from Kashyyyk, foresee events, sense feelings at great distances, and hear Qui-Gon’s spirit while Qui-Gon was on Tatooine. These are Force-sense/precognition statements; several are narrative feats. [8][79][80]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- He used Battle Meditation to raise the morale of thousands while dampening thousands of opponents, “wielding armies with the same ease as sabers.” The quoted scale is a narrative description, not a measured number. [81]
+- The article says Yoda could use Force Harmony against dark powers, Emerald Lightning, Force empathy, Force healing, Force jump, and powers that suppress an enemy’s access to the Force. It also records a limitation: after his 700th year he could lift only five of seven Muntuur stones while meditating. [116][117][22]
+
+[Other abilities]
+- Yoda created at least one Jedi holocron. [Source section, article text]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Yoda/Legends" rev 15716700 but it has no inline citation in its paragraph; approximate match 1.00, verify)
+- He was described as an exceptional strategist, diplomat and leader; he selected Dagobah as a concealment strategy and devised an escape-pod plan that concealed which pod he occupied. These are strategic feats/statements, not raw power feats. [20][39][77]
+- He carried a box with a gigantic chaingun and used it to destroy a droid army to save a planet. [122]
+- He piloted a starfighter alone to Dagobah and later reached the Force Priestesses’ world despite instrument/R2-D2 malfunction, using the Force to guide the craft. [68][69][70]
+
+ARTICLE-EXPLICIT SCALING / HYPE / CHARACTER OPINIONS (NOT FEATS)
+- Lead: many considered Yoda the greatest Jedi duelist, surpassing Mace Windu and Count Dooku; he was “arguably” the Order’s greatest Force master and most skilled warrior.
+  Source: Yoda: Dark Rendezvous [per Wookieepedia "Yoda/Legends" rev 15716700, ref 20; per-sentence approximate match (1/2 sentences matched, min 1.00), verify]
+- Personality/Legacy: the article says Yoda was one of the most gifted Force users in Jedi history, the most venerated Grand Master, and that “Yoda was the Jedi Order.” Etain Tur-Mukan’s line is a character reflection, not evidence of a feat. [95]
+  Source: UNSOURCED on Wookieepedia (sentence found in "Yoda/Legends" rev 15716700 but it has no inline citation in its paragraph; exact text match)
+- Powers section: Beldorion grouped Yoda with Thon and Nomi Sunrider as three “truly great” Jedi who were prodigiously talented in directing pure light-side energies. This is Beldorion’s assessment. [26]
+- Powers section: only Sidious “perhaps” rivaled Yoda’s mastery of the Force and lightsaber; Sidious was confused by Yoda’s speed and skill. [110]
+  Source: Star Wars: Jedi Battles ; Star Wars Episode III: Revenge of the Sith junior novel ; Star Wars: Episode III Revenge of the Sith ; Dark Lord: The Rise of Darth Vader [per Wookieepedia "Yoda/Legends" rev 15716700, ref 110,83,80,111; approximate match 0.76, verify; agrees with the entry's own ref marker]
+- Powers section: Sidious stated that Yoda would have “destroyed” Darth Vader had Yoda faced him on Mustafar instead of Kenobi. This is Sidious’s belief, not a realized fight. [111]
+  Source: Dark Lord: The Rise of Darth Vader [per Wookieepedia "Yoda/Legends" rev 15716700, ref 111; approximate match 0.67, verify; agrees with the entry's own ref marker]
+- Katuunko’s “one Jedi… a thousand [battle droids]” line is praise/opinion, not a literal demonstrated count. [39]
+- The article says Yoda’s midi-chlorian count was second highest in Jedi history, surpassed only by Anakin, and that his Force power was “as light as the stars.” These are article statements and metaphor/scaling, not direct feats. [20]
+
+SELECTED REFERENCE KEY FROM THE ARTICLE’S NOTES
+[3] Star Wars: Episode V The Empire Strikes Back.
+[7] Star Wars: Episode I The Phantom Menace.
+[8] Star Wars: Episode II Attack of the Clones.
+[11] Star Wars: Episode III Revenge of the Sith novelization.
+[20] Yoda: Dark Rendezvous.
+[22] The Jedi Path.
+[26] Planet of Twilight.
+[29] Star Wars: Jedi Council: Acts of War.
+[33] Star Wars: Clone Wars.
+[39] Star Wars: The Clone Wars — “Ambush”.
+[40] “Ambush” decoded reference.
+[53] Star Wars: The Clone Wars — “The Zillo Beast Strikes Back”.
+[68] Star Wars: The Clone Wars — “Voices”.
+[69] Star Wars: The Clone Wars — “Destiny”.
+[70] Star Wars: The Clone Wars — “Sacrifice”.
+[75] Vision of the Future.
+[76] Holocron continuity database material.
+[77] Heir to the Empire.
+[80] Star Wars: Episode III Revenge of the Sith.
+[81] Republic 82.
+[83] Star Wars Episode III: Revenge of the Sith junior novel.
+[90] “A Stranger in Town” — Clone Wars Adventures Volume 3.
+[91] Star Wars: Episode III — Revenge of the Sith 2.
+[112] “Fightsaber: Jedi Lightsaber Combat” — Star Wars Insider 62.
+[114] Star Wars: Clone Wars — “Chapter 15”.
+[115] Star Wars: Clone Wars — “Chapter 23”.
+[116] The Movie Trilogy Sourcebook.
+[117] Revenge of the Sith (Star Wars Miniatures).
+[122] “A Stranger in Town” — Clone Wars Adventures Volume 3.
+

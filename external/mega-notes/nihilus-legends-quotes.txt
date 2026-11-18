@@ -1,0 +1,400 @@
+Darth Nihilus — Wookieepedia extraction (article read through its end, including “Notes and references”)
+URL: https://starwars.fandom.com/wiki/Darth_Nihilus
+Scope: Legends-relevant feats and cited statements only; navigation, trivia, appearances, and source lists omitted. Wording below is copied from the article; bracketed numbers are the article's citations.
+
+LEAD / SUMMARY
+
+[Lead] “He is a wound in the Force, more presence than flesh, and in his wake life dies… sacrificing itself to his hunger.” —Visas Marr[4]
+Scaling/context: Visas Marr's characterization of Nihilus; statement, not a measured feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Lead] “He survived the activation of the Mass Shadow Generator superweapon during the war's final battle at the planet of Malachor V, which surrounded the planet with a destructive spatial phenomenon known as a mass shadow.”
+Scaling/context: The article connects his survival to the Mass Shadow Generator event at Malachor V.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “Experiencing the shadow that obliterated almost everything on and around the planet made Nihilus crave Force energy.”
+Scaling/context: The article identifies the Malachor V mass shadow as the cause of his hunger.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “The affliction painfully ravaged his body while rendering him a wound in the Force.”
+Scaling/context: His later “wound in the Force” condition is presented as the result of the affliction.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “The apprentices grew in strength throughout their training and eventually overpowered their master.”
+Scaling/context: The apprentices were Darth Sion and Nihilus; Sion defeated Traya while Nihilus sapped her energy.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “Sion defeated Traya, while Nihilus sapped her energy.”
+Scaling/context: This is the article's direct division of roles in overcoming Darth Traya.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “The two Sith then combined power to sever her connection to the Force and sent her into exile.”
+Scaling/context: Nihilus and Sion together stripped Traya of her Force connection.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “Nihilus' affliction developed to the point where the Dark Lord was forced to call upon the dark side of the Force to encase his spirit within his mask and armor to stay alive.”
+Scaling/context: The article ties his survival to the mask/armor vessel and the dark side.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “He and Sion then began a Jedi purge, causing the virtual extinction of the Jedi Order.”
+Scaling/context: Nihilus and Sion are jointly credited with the purge.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “Nihilus was responsible for the devastation of the planet Katarr in 3952 BBY, killing and absorbing the Force energy of the Jedi at the Conclave on Katarr along with every other living thing on the world except one Miraluka woman named Visas Marr.”
+Scaling/context: The article explicitly says the drained targets were the conclave's Jedi and all other life on Katarr except Visas Marr.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “When Marr attempted to assassinate Surik, the exiled Jedi defeated her and convinced her to turn to the light side of the Force in the process.”
+Scaling/context: Meetra Surik defeated Nihilus' apprentice Visas Marr, who then turned against him.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+[Lead] “The trio confronted and destroyed Nihilus in the ensuing duel while the Mandalorians rigged explosives that destroyed the ship.”
+Scaling/context: Meetra Surik, Visas Marr, and Mandalore the Preserver confronted/destroyed him; the Mandalorians destroyed the Ravager with explosives.
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Nihilus" rev 15721905 but it has no inline citation in its paragraph; exact text match)
+
+BIOGRAPHY — ORIGINS
+
+[Origins] “The generator killed almost everyone on the planet's surface and in orbit nearby.”[4]
+Scaling/context: Nihilus is described as surviving this event.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Origins] “His emotional pain then manifested as an emptiness that swept over his idle body and it soon began to manifest as an intense ‘hunger.’”
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match]
+
+[Origins] “Without intent, he drained the life-force of another survivor.”
+Scaling/context: The first named type of victim in this passage is another Malachor V survivor.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match]
+
+[Origins] “He indulged in absorbing the energy of other survivors, but, the more he fed, the shorter the hunger was appeased and the more powerful it became.”[1]
+Scaling/context: The article directly links feeding on survivors to the hunger becoming more powerful.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match; agrees with the entry's own ref marker]
+
+BIOGRAPHY — SITH TRIUMVIRATE
+
+[Sith Triumvirate] “Traya explained that it was the Force that fueled his hunger and offered to train him to devour entire worlds to help appease the hunger at her school on the planet, the Trayus Academy.”[1]
+Scaling/context: Darth Traya identified the Force as the fuel and offered world-devouring training.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match; agrees with the entry's own ref marker]
+
+[Sith Triumvirate] “Nihilus consumed planets on several occasions, caring only to appease his hunger, allowing the dark side to consume him more and more each time he indulged his ever-intensifying hunger.”
+Scaling/context: The article states that he consumed planets, and that the dark side increasingly consumed him in return.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match]
+
+[Sith Triumvirate] “Alongside his hunger, his power also grew dramatically,[1] until he eventually surpassed his Master.”
+Scaling/context: “His Master” is Darth Traya; this is the article's explicit comparison.
+  Source: Knights of the Old Republic Campaign Guide ; Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1,4; exact text match; agrees with the entry's own ref marker]
+
+[Sith Triumvirate] “Nihilus Force-pushed her into a feature of the platform, after which Sion larruped her into submission.”[4]
+Scaling/context: This was the attack on their master, Darth Traya; Sion physically subdued her after Nihilus' Force-push.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Sith Triumvirate] “Sion combined his power with Nihilus' to sap Traya's Force energy, cutting her off from the Force before casting her out into exile.”[4]
+Scaling/context: Sion and Nihilus jointly overcame and exiled Traya.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Sith Triumvirate] “Nihilus traveled the fringes of known space with a large fleet of ships that he had ripped from the mass shadows surrounding Malachor V.”
+Scaling/context: The ships were taken from the mass shadows around Malachor V; the article later attributes the lifting/holding of the Ravager to the Force.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Sith Triumvirate] “He made one such vessel, the Ravager, his flagship and led his flotilla to the largest deposits of Force energies he could find, whereupon he sated the hunger within him and further increased his power.”
+Scaling/context: He fed on the largest Force-energy deposits he could find; feeding increased his power.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Sith Triumvirate] “Both Nihilus and Sion were successful in their pursuits and they extinguished the Jedi.”[4]
+Scaling/context: Sion killed Jedi, while Nihilus hunted Force-energy concentrations; the article credits both with extinguishing the Jedi.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Sith Triumvirate] “Nihilus ripped his spirit from his body and encased it in the armor he wore, thus allowing the dark side to consume his useless body.”
+Scaling/context: The article presents this as his response to bodily erosion from dark-side use and hunger.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match]
+
+[Sith Triumvirate] “Using the Force, the Sith Lord was able to keep his robes, armor and mask together, giving him some form while allowing him to use his Force powers as well as a lightsaber.”[1]
+Scaling/context: His continued humanoid form, Force powers, and lightsaber use depended on the Force-maintained armor/mask vessel.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match; agrees with the entry's own ref marker]
+
+[Sith Triumvirate] “Additionally, the Dark Lord constructed a cubic holocron at some point that contained a sum of Sith knowledge and a number of their secrets.”[8]
+  Source: Star Wars: The Old Republic — Smuggler Mission: "The Lightspring" on Tatooine [per Wookieepedia "Darth Nihilus" rev 15721905, ref 8; exact text match; agrees with the entry's own ref marker]
+
+BIOGRAPHY — ENCOUNTER WITH VISAS MARR
+
+[Encounter with Visas Marr] “What his followers experienced while simply being in Nihilus' vicinity allowed them to leech off other Force-sensitives' Force energy, increasing their own power.”[4]
+Scaling/context: The article connects proximity to Nihilus with his followers' ability to drain Force energy from other Force-sensitives and grow stronger.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “The Trayus Academy continued producing legions of Sith Lords, assassins and marauders, with Sion and Nihilus at its head. They spread death throughout the galaxy and turned many other Force-sensitives to their cause.”[4]
+Scaling/context: The article places Sion and Nihilus at the head of the Academy's forces and attributes the spreading of death and turning Force-sensitives to the group.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “He also taught them how to sense their prey across the vastness of space.”[4]
+Scaling/context: “Their prey” refers to Force-sensitives targeted by the followers.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “The Sith Lord's hunger overwhelmed them and obliterated the surface of Katarr, wiping out the entire colony and anything else touched by the Force.”[10]
+Scaling/context: The victims were the Katarr colony and anything on the world touched by the Force; this is the article's account of the Katarr devastation.
+  Source: "Unseen, Unheard" — Star Wars Tales 24 [per Wookieepedia "Darth Nihilus" rev 15721905, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “However, when Nihilus neared the planet, he spoke, his voice a great hunger that the Miraluka could see and feel through the Force.”
+Scaling/context: The article describes the effect of his voice on the Miraluka at Katarr.
+  Source: "Unseen, Unheard" — Star Wars Tales 24 [per Wookieepedia "Darth Nihilus" rev 15721905, ref 10; exact text match]
+
+[Encounter with Visas Marr] “Nihilus destroyed much of what remained of the Jedi Order, including the Jedi Masters Zhar Lestin, Dorak and Vandar Tokare; Atris herself did not actually attend the conclave, though she was reported to have done so.”[11]
+Scaling/context: Named Jedi Masters included Zhar Lestin, Dorak, and Vandar Tokare; Atris was not actually present.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords: Conversations with the Jedi Masters [per Wookieepedia "Darth Nihilus" rev 15721905, ref 11; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “As he afterward walked on the surface of Katarr, Nihilus found only a single living being, an injured Miraluka woman named Visas Marr.”
+Scaling/context: Visas Marr was the sole living being the article says he found after the devastation.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords: Conversations with Visas Marr [per Wookieepedia "Darth Nihilus" rev 15721905, ref 12; exact text match]
+
+[Encounter with Visas Marr] “Days later, Marr awoke, completely healed aboard the Ravager, and approached the Dark Lord.”
+Scaling/context: The article places her healing after Nihilus took her aboard the Ravager.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords: Conversations with Visas Marr [per Wookieepedia "Darth Nihilus" rev 15721905, ref 12; exact text match]
+
+[Encounter with Visas Marr] “The vision crippled her ability to see through the Force and carved out the flesh of her vestigial eye sockets.”[10]
+Scaling/context: The victim was Visas Marr; the article attributes the effects to the vision Nihilus showed her.
+  Source: "Unseen, Unheard" — Star Wars Tales 24 [per Wookieepedia "Darth Nihilus" rev 15721905, ref 10; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “To that chaos, the Dark Lord felt he brought order.”[12]
+Scaling/context: This is Nihilus' perception in the vision he showed Visas Marr; statement, not a measured feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords: Conversations with Visas Marr [per Wookieepedia "Darth Nihilus" rev 15721905, ref 12; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “Marr agreed to be trained by the Sith Lord as his Shadow Hand[1] and developed a powerful Force bond with Nihilus that strengthened both; further, they could support or weaken each other in battle.”[4]
+Scaling/context: The bond was reciprocal: it strengthened both and allowed mutual support or weakening in battle.
+  Source: Knights of the Old Republic Campaign Guide ; Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1,4; exact text match; agrees with the entry's own ref marker]
+
+BIOGRAPHY — ONDERON AND HIS DOWNFALL
+
+[Onderon and his downfall] “Nihilus eventually felt a disturbance in the Force that only his apprentice could identify.”
+Scaling/context: The apprentice was Visas Marr.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Onderon and his downfall] “As a result, Marr was sent to defeat its source, Surik, and bring the woman before Nihilus so that he could consume her.”
+Scaling/context: The intended target was Meetra Surik, but Marr was defeated by Surik and then served against Nihilus.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Onderon and his downfall] “Meanwhile, Nihilus and the Ravager crew continued travelling and devouring worlds.”[14]
+Scaling/context: The article again attributes world-devouring to Nihilus and the Ravager crew.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 380–381 ("Nihilus, Darth") [per Wookieepedia "Darth Nihilus" rev 15721905, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[Onderon and his downfall] “The practitioners were killed, but not before the ritual was completed.”
+Scaling/context: This refers to Nihilus' followers' dark-side ritual on Dxun; the article says Surik's group killed the practitioners after completion.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+BIOGRAPHY — ASSAULT ON TELOS IV
+
+[Assault on Telos IV] “Nihilus' forces, comprised of servants who had been reduced to mindlessness by prolonged exposure to their Dark Lord and Sith warriors, made their way to the planet.”
+Scaling/context: The article attributes the servants' mindlessness to prolonged exposure to Nihilus.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Assault on Telos IV] “Nihilus realized too late that the Academy was not actually populated by Force-sensitives, though Atris was the headmistress, but his ravaging hunger drove him to attempt to consume Telos anyway.”[4]
+Scaling/context: He tried to consume Telos despite learning that the Academy lacked Force-sensitives except its headmistress, Atris.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Assault on Telos IV] “During his confrontation with the Exile, Marr, and Mandalore, Nihilus attempted to absorb Surik's Force energy, but failed and exhausted himself because of Surik's ability to draw on the Force energy of those around her.”[4]
+Scaling/context: Meetra Surik's ability to draw on surrounding Force energy directly countered Nihilus' attempted absorption and exhausted him.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Assault on Telos IV] “They engaged in a brief duel, with the Dark Lord seemingly too strong to defeat.”[4]
+Scaling/context: “Seemingly too strong to defeat” is the article's description, not a measured feat; the opponents were Surik, Marr, and Mandalore.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Assault on Telos IV] “When he stunned the Exile, Marr offered her life in exchange, a show of devotion that stalled Nihilus long enough for the Exile to recover.”[14]
+Scaling/context: Nihilus temporarily stunned Meetra Surik; Visas Marr's offer bought Surik time.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 380–381 ("Nihilus, Darth") [per Wookieepedia "Darth Nihilus" rev 15721905, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[Assault on Telos IV] “Marr entered a trance and disrupted her link with her former Master, undermining his connection to the Force through their Force bond.”
+Scaling/context: Visas Marr weakened Nihilus by disrupting their bond.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Assault on Telos IV] “This weakened Nihilus enough that the trio was able to kill him.”[4]
+Scaling/context: The trio was Meetra Surik, Visas Marr, and Mandalore the Preserver; the article explicitly attributes the opening to Marr's disruption of the bond.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Assault on Telos IV] “Nihilus' form, which had animated his robes and armor for years, then erupted in an aura of scarlet dark side energies and faded away with the dark energies as the trio left the bridge.”
+Scaling/context: This is the article's account of his apparent death after the trio killed him.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Assault on Telos IV] “The only relic that remained of the Lord of Hunger's former existence after the duel was his ghostly mask in the possession of the Exile.”[4]
+Scaling/context: The mask remained with Meetra Surik; the article later notes a contradictory encyclopedia account about survival in the armor.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+BIOGRAPHY — LEGACY
+
+[Legacy] “Darth Nihilus' holocron, which could allow someone to commune with a gatekeeper in the form of the late Dark Lord,[14] was centuries-old when it came into the possession of the crime lord Diago Hixan...”
+Scaling/context: The ability described is the holocron's, not a new physical feat by Nihilus; it preserves a gatekeeper form of him.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 380–381 ("Nihilus, Darth") ; Star Wars: The Old Republic — Smuggler Mission: "Bugged-Out" on Tatooine [per Wookieepedia "Darth Nihilus" rev 15721905, ref 14,20; exact text match; agrees with the entry's own ref marker]
+
+[Legacy] “Before the formation of the Galactic Empire in 19 BBY, Jedi Master Bodo Baas knew of three conflicting tales of Darth Nihilus' fate.”[9]
+Scaling/context: The article says the accounts claimed he was slain by Brianna, killed by Visas Marr, or that Marr was killed by him; it presents these as conflicting tales, not settled fact.
+  Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Darth Nihilus" rev 15721905, ref 9; exact text match; agrees with the entry's own ref marker]
+
+[Legacy] “The founder of the One Sith Order, Darth Krayt, came upon Nihilus' holocron.”[14]
+Scaling/context: Krayt sought advice from Nihilus' holocron along with holocrons of Darth Andeddu and Darth Bane; this is a posthumous/holocron connection, not a direct confrontation.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 380–381 ("Nihilus, Darth") [per Wookieepedia "Darth Nihilus" rev 15721905, ref 14; exact text match; agrees with the entry's own ref marker]
+
+PERSONALITY AND TRAITS
+
+[Personality and traits] “He cares nothing for the Sith or its teachings… or the Jedi. And when the Jedi are dead, he will feed on the galaxy, the Republic, and eventually, consume the Sith as well.” —Kreia[4]
+Scaling/context: Kreia's prediction/opinion about Nihilus' intentions; statement, not a completed feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Personality and traits] “Nihilus was once a Human male[1] with black hair coiled finely into strips that he tied together behind his head.[3] After he indulged his hunger for the dark side he lost his corporeal form, preserving his existence only by having his spirit linger within his mask and armor.”[1]
+Scaling/context: The article contrasts his former human body with his later armor-and-mask existence.
+  Source: Knights of the Old Republic Campaign Guide ; Star Wars Evolutions (Pack: The Sith Legacy) (backup link) [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1,3; exact text match; agrees with the entry's own ref marker]
+
+[Personality and traits] “The Dark Lord fully embraced his condition, as the mysterious and monstrous facets of it instilled in people who met him a deep-rooted fear upon which he could prey.”[25]
+Scaling/context: This is an article characterization of how others' fear benefited him, not a quantified feat.
+  Source: Behind the Threat: The Sith: Part 2: The Becoming on Wizards.com (original site is defunct) [per Wookieepedia "Darth Nihilus" rev 15721905, ref 25; exact text match; agrees with the entry's own ref marker]
+
+[Personality and traits] “Ceasing to feel fear and other emotions, he became an entity of pure intent.”[1]
+Scaling/context: Characterization of his post-corporeal state.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match; agrees with the entry's own ref marker]
+
+[Personality and traits] “Nonetheless, Nihilus was still Human enough to have some feelings, as his bond with Marr persisted until their confrontation on the Ravager.”[4]
+Scaling/context: The article uses his continuing bond with Visas Marr as evidence of remaining feeling.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+POWERS AND ABILITIES
+
+[Powers and abilities] “The extent of his power cannot be put into words… and his perceptions have grown as well. To him…” —Visas Marr[4]
+Scaling/context: Hype/character opinion; statement, not a concrete feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “You are dust motes in a storm… a grain upon the beach… and as insignificant as a body that orbits the graveyard of Malachor.” —Visas Marr and Tobin[4]
+Scaling/context: Hype/character comparison describing how insignificant others seemed to Nihilus; statement, not a concrete feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “During combat, Darth Nihilus fought in an aggressive, one-handed style.”
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “He had learned some of the greatest of the Sith teachings, but such practices took the form of dependence.”
+Scaling/context: The article says the teachings made him stronger only temporarily and that he had to feed on Force energy to replenish his strength.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “For this reason, Force-sensitives and worlds rich in the Force would draw him.”
+Scaling/context: The article links his targets to Force sensitivity or Force-rich worlds.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “His reach in the Force eventually extended to a point where he could feel Force users throughout the galaxy to find planets he would then cleanse entirely, killing everything who was touched by the Force.”
+Scaling/context: The article states galaxy-wide sensing of Force users and planet-wide killing of beings touched by the Force.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “Prolonged use of this power made him a threat to all life, as his craving grew more intense with each feeding.”
+Scaling/context: The article connects repeated feeding with escalating craving and threat to all life.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “Eventually, Nihilus' hunger controlled him, not the other way around, and the Sith Lord would instinctively feed upon those around him, slowly killing them.”
+Scaling/context: The targets were people around him; the article says the feeding slowly killed them.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “Nihilus' very speech caused pain and death to all who heard it, and those who served him became utter slaves in time.”
+Scaling/context: The article states a lethal effect on listeners and enslavement of servants over time.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “His ability was somewhat similar to Traya's influence upon others: the reconvened Jedi Council in the Jedi Enclave on Dantooine inferred that the Sith had somehow learned this ability to feed on the Force from her.”[4]
+Scaling/context: The article's comparison is to Darth Traya's influence; the inference came from the reconvened Jedi Council.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “Nihilus used his dark variant of the Sever Force ability to betray Darth Traya alongside Darth Sion by stripping her of the Force and casting her out of the Sith Order.”
+Scaling/context: Used with Darth Sion against Darth Traya; the result was stripping her Force connection and exiling her.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; approximate match 1.00, verify]
+
+[Powers and abilities] “Nihilus could also use the Force to lift starships, as he did on Malachor V with the Ravager.”
+Scaling/context: The specific ship was the Ravager.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Powers and abilities] “He tore it from the mass shadows that surrounded the planet and kept it together even though it had suffered extensive structural damage.”[4]
+Scaling/context: The article attributes both removing the Ravager from Malachor V's mass shadows and holding the heavily damaged ship together to the Force.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “Through the Force, Darth Nihilus was able to escape death by containing his consciousness in his armor to continue in a new humanoid form—an ability that Darth Krayt would inquire of Nihilus' holocron millennia later.”[16]
+Scaling/context: The article explicitly compares the ability's later significance to Darth Krayt's inquiry.
+  Source: Legacy (2006) 5 [per Wookieepedia "Darth Nihilus" rev 15721905, ref 16; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “He was also proficient in Dark rage, Farsight, Force lightning, Force resistance, Force scream, Force plague, and Force whirlwind, among others, such as a dark variant of Force healing called Dark Healing.”[4]
+Scaling/context: The article lists these abilities without ranking them against another character.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “His knowledge also extended to Sith alchemy: during the second battle of Onderon, Nihilus' sect of Sith followers used techniques that would bend tame beasts to their will.”[4]
+Scaling/context: The article attributes the beast-bending techniques to Nihilus' sect of followers.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Powers and abilities] “Nihilus could increase the strength of Force powers he used greatly, if he wished, and he was capable of reaching through the Force at a range as far as a star system.”[1][26]
+Scaling/context: The article states great amplification of his Force powers and a maximum stated range of a star system.
+  Source: Knights of the Old Republic Campaign Guide ; Star Wars Roleplaying Game Saga Edition Core Rulebook, see "devastating power"and"distant power." [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1,26; exact text match; agrees with the entry's own ref marker]
+
+EQUIPMENT
+
+[Equipment] “Darth Nihilus wielded a self-built[1] lightsaber containing a red crystal.”[4]
+Scaling/context: The lightsaber was destroyed aboard the Ravager after his confrontation with Meetra Surik.
+  Source: Knights of the Old Republic Campaign Guide ; Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1,4; exact text match; agrees with the entry's own ref marker]
+
+[Equipment] “He wore a distinctive mask and set of armor, which he merged his spirit with to survive after his organic body decayed away.”[1]
+Scaling/context: The mask and armor were the vessel that preserved him after bodily decay.
+  Source: Knights of the Old Republic Campaign Guide [per Wookieepedia "Darth Nihilus" rev 15721905, ref 1; exact text match; agrees with the entry's own ref marker]
+
+[Equipment] “To enable his addiction to devouring worlds, he led a flotilla from his personal starship, the Ravager.”
+Scaling/context: The flotilla supported his world-devouring; the article says its ships were created from Malachor V wreckage.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Equipment] “He created these ships from the wreckage left behind after the Battle of Malachor V.”
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Equipment] “As such, they were badly damaged and held together with Nihilus's will.”[4]
+Scaling/context: The article attributes the flotilla's continued integrity to Nihilus' will; this parallels the Force-held Ravager statement in Powers and abilities.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Equipment] “He only allowed the particle shield to barely maintain atmosphere, and staffed them with slaves whose bodies were badly damaged from being in contact with the Dark Lord.”[4]
+Scaling/context: The article links the slaves' bodily damage to contact with Nihilus.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+CONTINUITY / DISPUTED STATEMENTS
+
+[Continuity] “When the armor was transported to Korriban for burial, his spirit traveled with it, and the connection to Korriban's dark side nexus allowed the spirit of Nihilus to maintain contact with the physical world.” —The Complete Star Wars Encyclopedia[14]
+Scaling/context: This is the Encyclopedia's account and is explicitly disputed by the article.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 380–381 ("Nihilus, Darth") [per Wookieepedia "Darth Nihilus" rev 15721905, ref 14; exact text match; agrees with the entry's own ref marker]
+
+[Continuity] “Another statement in the Encylopedia is that Nihilus' spirit was able to survive inside his armor after his defeat at the hands of Surik, not destroyed within the Ravager, which was taken for burial on Korriban, the Sith homeworld.”
+Scaling/context: This version says Meetra Surik defeated him but did not destroy his spirit; the article says other sources disagree.
+  Source: The Complete Star Wars Encyclopedia, Vol. II, p. 380–381 ("Nihilus, Darth") [per Wookieepedia "Darth Nihilus" rev 15721905, ref 14; exact text match]
+
+[Continuity] “However, two sources, the Knights of the Old Republic Campaign Guide and the game itself, states and show otherwise, showing that Nihilus's robes, armor, and entire corporeal form evaporated into nothingness as dark side energies erupt from his physical form.”
+Scaling/context: The article's preferred account is that Surik's duel truly ended him.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match]
+
+[Continuity] “If the player takes the Mask of Darth Nihilus for themselves, it even states in the player's inventory that it is the ‘last surviving piece’ of the Dark Lord after his demise,[4] further proving that nothing remains of Nihilus.”
+Scaling/context: The article uses the game inventory text to support total destruction except for the mask.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+CUT CONTENT (NON-FINAL SCENE)
+
+[Cut content] “Sion was rebuffed by a surge of the Force that killed several people around him.”[40]
+Scaling/context: This is from a cut scene, so it is not a final in-game event; the article attributes the surge to Nihilus when Sion attacked him.
+  Source: KOTOR 2 Cut Content: Sion Versus Nihilus on the darthatton YouTube channel (backup link) [per Wookieepedia "Darth Nihilus" rev 15721905, ref 40; exact text match; agrees with the entry's own ref marker]
+
+
+ADDITIONAL CITED SECTION STATEMENTS
+
+[Origins] “The less said of that one, the better—even a stray thought may draw him.” —Kreia[4]
+Scaling/context: Kreia's warning about Nihilus; an ominous character opinion, not a concrete feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Encounter with Visas Marr] “There is no strength in the hunger he possesses… and the will behind his power is a primal thing. And it devours him as he devours others—his mere presence kills all around him, slowly, feeding him. He is already dead, it is simply a question of how many he kills before he falls.” —Kreia[4]
+Scaling/context: Kreia's assessment; the “mere presence kills” language is a character statement, not a measured feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Onderon and his downfall] “You… you are the darkness in which all life dies, milord. All life… exists to feed your power, and my life… my life is yours.” —Visas Marr[4]
+Scaling/context: Visas Marr's characterization of Nihilus; hype/character opinion, not a separate measured feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+[Assault on Telos IV] “Your path… ends here, Sith Lord.” —Meetra Surik[4]
+Scaling/context: Surik's statement immediately before the confrontation that ended in Nihilus' defeat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; approximate match 0.97, verify; agrees with the entry's own ref marker]
+
+[Legacy] “Lord Nihilus, you escaped death by containing your consciousness within your armor. How?!” —Darth Krayt[16]
+Scaling/context: Krayt's question treats the armor-bound consciousness as an escape from death; it is a cited character statement.
+  Source: Legacy (2006) 5 [per Wookieepedia "Darth Nihilus" rev 15721905, ref 16; exact text match; agrees with the entry's own ref marker]
+
+[Equipment] “The hunger that fills this vessel… it is power… but it consumes without end.” —Tobin[4]
+Scaling/context: Tobin's characterization of Nihilus' armor/vessel and its unending hunger; statement, not a quantified feat.
+  Source: Star Wars: Knights of the Old Republic II: The Sith Lords [per Wookieepedia "Darth Nihilus" rev 15721905, ref 4; exact text match; agrees with the entry's own ref marker]
+
+END OF EXTRACTION

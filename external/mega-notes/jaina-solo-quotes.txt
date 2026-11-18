@@ -1,0 +1,119 @@
+JAINA SOLO FEL — ARTICLE EXTRACTION
+
+Source page: https://starwars.fandom.com/wiki/Jaina_Solo_Fel
+Final URL: https://starwars.fandom.com/wiki/Jaina_Solo_Fel
+Fallback URL was not needed; the requested page loaded.
+Scope: Extraction from the article text, especially its “Powers and abilities” section and cited biography passages. Bracketed numbers are the article’s own footnote/reference numbers. This is not an independent verification of the novels. The page itself warns that parts are no longer up to date.
+
+ARTICLE-OWNED POWER/SCALE STATEMENTS (“Powers and abilities”)
+
+- The article says Jaina was strong in the Force and had “great Force potential” [3]. As a child she used telekinesis to irritate captors, helped Jacen escape captivity, and could produce light by rubbing air molecules together telekinetically [29].
+  Source: The Crystal Star [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 29; approximate match 0.79, verify; agrees with the entry's own ref marker]
+- The article states that she became “the greatest swordswoman in the order,” could fight “perfectly” alike Luke Skywalker [97], and that Luke held that there was “no better in combat among all the Jedi” [5]. These are explicit article scaling statements, not independently assessed here.
+  Source: Fate of the Jedi: Ascension ; Fate of the Jedi: Apocalypse [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 97,5; exact text match; agrees with the entry's own ref marker]
+- It further states that, besides killing Warmaster Tsavong Lah and Darth Caedus, Jaina was “the greatest of the New Jedi Order at slaying lesser Sith, better even than her uncle, Luke Skywalker” [5]. This is the article’s comparative claim.
+- At sixteen, she set a record on the Lando’s Folly asteroid course, beating the prior record held by Jedi Master Kyp Durron [57]. This is a piloting comparison, not a lightsaber victory.
+  Source: The New Jedi Order: Vector Prime [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 57; approximate match 0.67, verify; agrees with the entry's own ref marker]
+- The article says Jaina felt she was not Jacen’s equal in Force powers because of his longer study, but believed she could surprise him; it says she ultimately matched his “impressive skills” when the time came [90]. The first part is her self-assessment; the duel outcome is a concrete article-reported result.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says Jaina and Luke, as descendants of Anakin Skywalker, could coordinate lightsaber attacks with ease [97].
+  Source: Fate of the Jedi: Ascension [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 97; approximate match 1.00, verify; agrees with the entry's own ref marker]
+- The article credits her with using telekinesis, Force-enhanced breathing, toxin clearing, mind trick, Force concealment, shatterpoint (learned from Luke), Beast Control, healing trance, memory alteration, and battle-meld techniques [18][19][40][57][77][88][90][93].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says she used black Force lightning against Yuuzhan Vong and Hapes Consortium soldiers, while Kyp Durron was more adept and could dispel her attacks by touching her or the lightning [9][100]. This is a mixed capability/comparison statement, not a win for Jaina.
+  Source: The New Jedi Order: Star by Star ; The New Jedi Order: Dark Journey [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 9,100; approximate match 0.76, verify; agrees with the entry's own ref marker]
+
+CAEDUS / JACEN — CONCRETE EVENTS
+
+- During the first Roche/Nickel One confrontation, Jaina destroyed two Starhunter fighters attacking her parents’ blastboat, dealt with an anti-fighter gun, entered Nickel One, and fought through guards [90].
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; approximate match 0.64, verify; agrees with the entry's own ref marker]
+- She tried to kill Caedus with a sniper rifle and hit his shoulder. In the ensuing duel she sustained several injuries, including a head wound, but severed Caedus’s arm. The article says Caedus’s Force manipulation made him believe she was Luke Skywalker. She withdrew rather than finish that encounter [90].
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; per-sentence approximate match (2/4 sentences matched, min 0.76), verify; agrees with the entry's own ref marker]
+- Before the final duel, she and Zekk made an attack run on the Anakin Solo; both craft were hit, Jaina ejected, and she successfully landed on the Star Destroyer and entered it [90].
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; per-sentence approximate match (1/2 sentences matched, min 0.86), verify; agrees with the entry's own ref marker]
+- In the final duel aboard the Anakin Solo, Jaina caught Caedus off guard by stabbing him in the abdomen. Both used Force powers and unarmed combat. Caedus cut her stomach while Jaina cut his Achilles tendon; with one arm and one good leg, Caedus could no longer prevent his death. Jaina then slashed through his torso and heart, killing him [90]. She survived with numerous injuries and was extracted by Jagged Fel [90].
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; per-sentence approximate match (5/6 sentences matched, min 0.64), verify; agrees with the entry's own ref marker]
+- The article says Caedus stopped fighting to use the Force to warn Tenel Ka; Jaina felt Jacen die through their twin bond [90].
+  Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; approximate match 0.86, verify; agrees with the entry's own ref marker]
+- In the earlier sibling conflict, Jaina refused Jacen’s order to fire on a civilian ship, was stripped of rank, and recognized his dark behavior [85]. These are moral/plot actions, not power feats.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- During Caedus’s assault on Kashyyyk, Jaina’s lasers accidentally hit Luke’s StealthX while she was flying cover; the article says Luke had faked his death, so this was not a kill [88].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+YUZZHAN VONG WAR — NAMED OPPONENTS AND WAR FEATS
+
+- Jaina personally slew Yuuzhan Vong Warmaster Tsavong Lah even with her legs pinioned [19]. The article presents this as a lightsaber feat and cites The New Jedi Order: Destiny’s Way.
+  Source: The New Jedi Order: Destiny's Way ; The New Jedi Order: The Unifying Force [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 19,80; per-sentence approximate match (1/2 sentences matched, min 0.90), verify; agrees with the entry's own ref marker]
+- In the final Yuuzhan Vong battle, she “stood her own” against Supreme Overlord Shimrra’s slayer bodyguards [80]. The wording does not claim she defeated all of them alone.
+  Source: The New Jedi Order: Destiny's Way ; The New Jedi Order: The Unifying Force [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 19,80; approximate match 0.71, verify; agrees with the entry's own ref marker]
+- The article says she was skilled enough to join Rogue Squadron young and flew numerous missions, scoring “countless kills” [4][11]. This is a broad article summary rather than a named single-opponent feat.
+  Source: The New Jedi Order: Dark Tide I: Onslaught ; The New Essential Guide to Characters [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 11,4; approximate match 0.67, verify; agrees with the entry's own ref marker]
+- At Dubrillion, Jaina, Jacen, and Anakin used a Force meld to coordinate their starfighters; their synchronized gunnery and the asteroid hazards destroyed the hostile coralskippers [57]. This is a team feat, not solo scaling.
+  Source: The New Jedi Order: Vector Prime [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 57; approximate match 0.63, verify; agrees with the entry's own ref marker]
+- She and her brothers helped re-create and teach the Jedi battle meld, which the article says was vital to the Myrkr mission and used in later battles [8][9][57][80].
+  Source: The New Jedi Order: Vector Prime ; The New Jedi Order: Star by Star ; The New Jedi Order: Enemy Lines I: Rebel Dream ; The New Jedi Order: The Unifying Force [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 57,9,8,80; approximate match 0.80, verify; agrees with the entry's own ref marker]
+- During the war she used deception and gravitic beacons to make Yuuzhan Vong ships fire on each other [17]. She also used the Yun-Harla/“Trickster Goddess” persona as psychological warfare; this is strategy and deception, not literal divinity [8][19].
+  Source: The New Jedi Order: Dark Journey ; The New Jedi Order: Enemy Lines I: Rebel Dream [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 17,8; per-sentence approximate match (2/3 sentences matched, min 0.72), verify; agrees with the entry's own ref marker]
+- The article reports that the Yuuzhan Vong considered capturing her a strategic objective [56]. This is an enemy assessment/statement, not a feat by itself.
+  Source: The New Jedi Order: Enemy Lines II: Rebel Stand [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 56; per-sentence approximate match (1/2 sentences matched, min 0.71), verify; agrees with the entry's own ref marker]
+
+ALEMA RAR, Boba Fett, AND MANDALORIANS
+
+- During the Kashyyyk events, Jaina, Jagged Fel, and Zekk defeated an apparent Alema Rar attack, later deducing it was only a Force phantom controlled by Rar [14]. The article does not credit Jaina with killing the real Rar there.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Jaina confronted Rar on an asteroid, but depressurization forced her to withdraw; Fel later killed Rar after Jaina and Zekk escaped [14]. Do not count this as a solo Rar kill.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Jagged Fel defeated Jaina in a sparring session while wearing Boba Fett’s crushgaunts and beskar plates. Angry, Jaina used the Force to hurl Fel into a tree; the article says the armor prevented a potentially fatal result [14].
+  Source: Legacy of the Force: Fury [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 14; per-sentence approximate match (2/3 sentences matched, min 0.77), verify; agrees with the entry's own ref marker]
+- Boba Fett surprised and defeated her with a punch during training, and Goran Beviin later defeated her with beskad sabers [89]. These are explicit training losses, not anti-feats to omit.
+  Source: Legacy of the Force: Revelation [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 89; per-sentence approximate match (1/2 sentences matched, min 0.67), verify; agrees with the entry's own ref marker]
+- At Fondor/Bloodfin, Jaina held off Imperials while Mirta Gev fought Tahiri Veila. Caedus arrived and Force-choked Gev; Jaina broke Caedus’s grip, allowing Caedus and Veila to escape [89]. This is an intervention, not a defeat of Caedus.
+  Source: Legacy of the Force: Revelation [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 89; per-sentence approximate match (2/3 sentences matched, min 0.68), verify; agrees with the entry's own ref marker]
+- The article says Mandalorian training honed her combat edge and developed her capacity for “total war” [89].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+OTHER NAMED OPPONENTS / LATER FEATS
+
+- As a child at the Jedi Praxeum, Jaina and Jacen helped hold off Sith battle hydras until Luke’s students could combine powers and defeat Exar Kun [27]. This is a joint child/team feat; it is not a solo defeat of Kun.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says Jaina learned to break a Force choke [89].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Against Galactic Alliance Guard forces at the Jedi academy, she cleared coma gas from her body, warned others, and with Jagged Fel picked off sniper teams; Zekk, not Jaina, severed Major Serpa’s arm [88].
+  Source: Legacy of the Force: Inferno [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 88; per-sentence approximate match (2/2 sentences matched, min 0.60), verify; agrees with the entry's own ref marker]
+- In 43 ABY, she defeated four Mandalorian warriors attacking the Jedi Temple [92].
+  Source: Legacy of the Force: Invincible ; Fate of the Jedi: Backlash [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90,92; approximate match 0.88, verify; agrees with the entry's own ref marker]
+- On Dromund Kaas she fought and killed three Lost Tribe of the Sith assailants without serious injury [97]. The article later says she slew multiple Sith on Coruscant during the resurgence, often despite severe injuries [5].
+  Source: Fate of the Jedi: Ascension ; Fate of the Jedi: Apocalypse [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 97,5; approximate match 0.97, verify; agrees with the entry's own ref marker]
+- During the Coruscant temple assault, she killed multiple Sith, continued fighting with broken ribs and Force-lightning injuries, diverted attackers with water, slew their leader, and kept fighting after a grenade leg wound and a blast to her side [5].
+- The article says she and her companions endured two days of evasion, combat, and forced healing trances. Severely injured, she volunteered as the diversion against Sith Lady Korelei/Abeloth, collapsed from exhaustion, and rose again to confront Abeloth before Abeloth fled because Tahiri destroyed another incarnation elsewhere [5]. The article does not claim Jaina defeated Abeloth.
+- She fended off a Sith meditation sphere on multiple occasions and once fought a fleet of Sith pirates with minimal assistance beyond her StealthX [94][5].
+  Source: Fate of the Jedi: Allies ; Fate of the Jedi: Apocalypse ; Fate of the Jedi: Vortex [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 94,5,95; approximate match 0.73, verify; agrees with the entry's own ref marker]
+- She could deflect blaster fire from multiple assailants while using stun grenades during a high-security prison break [95]. This was a team operation, though the article specifically describes her actions.
+  Source: Fate of the Jedi: Vortex [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 95; per-sentence approximate match (1/2 sentences matched, min 0.72), verify; agrees with the entry's own ref marker]
+- She demonstrated Beast Control over a large number of different animals simultaneously [93].
+  Source: Fate of the Jedi: Omen [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 93; approximate match 0.78, verify; agrees with the entry's own ref marker]
+- As a pilot, she installed a hyperdrive in a starfighter as a teenager [43], flew numerous Yuuzhan Vong-war missions, and later continued combat flying in the Second Galactic Civil War [4][10][14].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+HYPE, OPINION, OR CHARACTER STATEMENTS — NOT FEATS
+
+- Luke’s naming of Jaina as the “Sword of the Jedi,” calling her “tempered steel,” “razor-keen,” a “burning brand,” and saying others shelter in her shadow, is Luke’s ceremonial prophecy/opinion [19].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Han’s “That kid can fly” is Han’s praise, not a quantified feat [57].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Tycho Celchu’s statement that nineteen-year-old Jaina had more kills than he, Wedge Antilles, and Wes Janson had at the same age is a character comparison/claim [56].
+  Source: The New Jedi Order: Enemy Lines II: Rebel Stand [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 56; approximate match 0.61, verify; agrees with the entry's own ref marker]
+- Jagged Fel’s statement that she was an “excellent Sword” but becoming a “terrible Jedi,” and his warning that Rar or Caedus would not fight like a Jedi, are character opinions and tactical criticism [14].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Jaina’s statement that Caedus was driven by anger and hate, Fett’s view that compassion was weakness, and similar training dialogue are character views, not measured power statements [89].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Troy Denning’s “tough girl” comment describes her trauma and resilience as author commentary, not a combat feat [111].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+SELECTED ARTICLE FOOTNOTE KEY
+
+[5] Fate of the Jedi: Apocalypse; [8] The New Jedi Order: Enemy Lines I: Rebel Dream; [9] The New Jedi Order: Star by Star; [14] Legacy of the Force: Fury; [17] The New Jedi Order: Dark Journey; [18] “The Apprentice” (Star Wars Gamer 8); [19] The New Jedi Order: Destiny’s Way; [27] Champions of the Force; [43] Young Jedi Knights: Heirs of the Force; [56] The New Jedi Order: Enemy Lines II: Rebel Stand; [57] The New Jedi Order: Vector Prime; [80] The New Jedi Order: The Unifying Force; [85] Legacy of the Force: Bloodlines; [88] Legacy of the Force: Inferno; [89] Legacy of the Force: Revelation; [90] Legacy of the Force: Invincible; [92] Fate of the Jedi: Backlash; [93] Fate of the Jedi: Omen; [94] Fate of the Jedi: Allies; [95] Fate of the Jedi: Vortex; [97] Fate of the Jedi: Ascension; [100] The New Essential Guide to Weapons and Technology; [111] NJOE interview with Troy Denning.
+
+REFERENCE CHECK
+
+The page was scrolled to the article’s “Notes and references” section and through the displayed reference list. The final URL remained https://starwars.fandom.com/wiki/Jaina_Solo_Fel.

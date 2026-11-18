@@ -1,0 +1,99 @@
+Qui-Gon Jinn research extraction
+
+Requested URL: https://starwars.fandom.com/wiki/Qui-Gon_Jinn/Legends
+Final URL: https://starwars.fandom.com/wiki/Qui-Gon_Jinn/Legends
+Continuity label: Legends
+Page title: Qui-Gon Jinn | Wookieepedia | Fandom
+
+Scope / caveats
+- The page labels itself a Star Wars Legends article.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The page warns of conflicting sources (The Phantom Menace, Star Wars: Obi-Wan, and Jedi Power Battles), an unresolved Legends Clone Wars timeline, outdated sections, and sourcing gaps. Treat game material and the page's editorial power rankings cautiously.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Citations below are the bracketed citation numbers shown on the page. Key sources used here are listed at the end.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+CONCRETE FEATS AND EVENTS
+
+1) Lightsaber combat and Darth Maul
+- In Jinn's first Tatooine encounter with Maul, Jinn parried Maul's attacks and his lightsaber proficiency was described as matching the fierce dark warrior. The fight continued until Jinn, tiring with age, used the Force to jump to the departing ship's boarding ramp and escape. [6][124][125]
+- At Naboo, Jinn and Obi-Wan fought Maul through the Theed Generator Complex and its catwalks. Maul knocked Obi-Wan to a lower level; Jinn and Maul were separated by six consecutive laser doors in the generator-core passage. [3][125]
+- During that separation, Jinn crouched and meditated, bringing himself into full tune with the Force. When the shields deactivated, he attacked Maul with renewed strength; the page identifies this as the Serenity meditative trance renewing his strength and focus. [3][184]
+- The final duel turned against Jinn: he was older, fatigued, and using Form IV/Ataru in a confined space where its wide, energetic movement was disadvantaged. Maul had youth and strength, recognized Jinn's weariness, stunned him with the saberstaff hilt, and impaled him through the stomach. [3][15][125]
+- Obi-Wan then defeated Maul after being knocked into the pit: he called Jinn's lightsaber to his hand and cut Maul in half. Jinn died in Kenobi's arms after asking Kenobi to train Anakin Skywalker. [3]
+- The page's combat summary says Jinn could match Maul long enough to escape unharmed in their first duel, and fought for a time in the final duel despite fatigue and Maul's familiarity with his style; it also explicitly records the final loss. [3][124][125]
+- Jinn's broader combat record on the page: he defeated opponents in the Temple Exhibition Day tournament, sparred with Dooku, Mace Windu, and Anoon Bondara, fought Xanatos to draws and once defeated him, and was considered highly skilled in Form IV/Ataru. [4][10][12][179]
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+2) Force abilities / concrete uses
+- Telekinesis: lifted people or objects, used Force Push to dislodge enemies, threw objects at targets, swerved a shooter's weapon hand, and dismantled droids. He also used a Saber Throw to dislodge a droid attached to a turbolift shaft. [3][14][15][63][90]
+- Serenity: used the meditative trance during the Maul duel to regain strength and focus. [3][184]
+- Mind tricks: knocked out Jar Jar and convinced Boss Nass to lend transport; persuaded a Hutt guard to grant access to Xanatos's private office, despite the page's statement that Hutts have unusually high resistance to Force suggestion. [3][13][20]
+- Jedi Concentration: used this little-understood ability during the Battle for Alaris Prime to take over a Trade Federation building. [185]
+- Force perception: received Force visions despite preferring to focus on the present; sensed a dark presence on Coruscant before learning it was Maul. [3][22][37][51][97]
+  Source: Jedi Apprentice: The Rising Force ; Jedi Apprentice: The Ties That Bind ; Jedi Apprentice: The Fight for Truth ; Star Wars: Episode I The Phantom Menace ; Darth Plagueis ; Darth Maul (2000) 1 [per Wookieepedia "Qui-Gon Jinn/Legends" rev 15679814, ref 22,37,51,3,20,97; per-sentence approximate match (2/2 sentences matched, min 0.62), verify; agrees with the entry's own ref marker]
+- Healing / survival skills: had some Force-healing knowledge and tried unsuccessfully to save Tahl; could control his breathing for long periods, resist various poisons, hide his life-signature from probe droids, and warm himself with the Force. [3][14][16][22][37][65]
+  Source: Jedi Apprentice: The Rising Force ; Jedi Apprentice: The Evil Experiment ; Jedi Apprentice: The Death of Hope ; Star Wars: Episode I The Phantom Menace ; Jedi Apprentice: The Ties That Bind ; Cloak of Deception [per Wookieepedia "Qui-Gon Jinn/Legends" rev 15679814, ref 22,65,16,3,37,14; per-sentence approximate match (2/2 sentences matched, min 0.60), verify; agrees with the entry's own ref marker]
+- Animal friendship: mentally controlled a draigon long enough to ride it to his destination and later took hold of a kudana during the Rutan mission. [22][56]
+  Source: Jedi Apprentice: The Rising Force ; Jedi Apprentice: The Shattered Peace [per Wookieepedia "Qui-Gon Jinn/Legends" rev 15679814, ref 22,56; approximate match 0.73, verify; agrees with the entry's own ref marker]
+
+3) Living Force: stated philosophy and cited claims
+- The article describes Jinn as an adherent of the Living Force who focused on the present and often clashed with or defied the Jedi Council. [3]
+- His direct teaching to Obi-Wan: “My actions are determined by the will of the Living Force. I fed that poor, little brute because he was hungry. I killed him because if I had let him kill me, I would no longer be able to do my work as a Jedi.” When Kenobi asked whether he killed because he did not want to die, Jinn answered: “When the Force tells me the time has come for me to die, Obi-Wan, I will die willingly.” [52]
+- His direct instruction to Anakin before the podrace: “Remember, concentrate on the moment. Feel, don't think. Trust your instincts.” [3]
+- The Force-talent section defines the Living Force for Jinn as focusing on the moment rather than contemplating the Force in all its degrees. [3]
+- A concrete Living Force perception feat: on Telos, Jinn drew on the Living Force surrounding him to stop Xanatos in midair during their duel. [35]
+- Another concrete perception feat: Jinn sensed the Living Force pulsing between the Derida brothers and used that perception in deciding to help them. [1]
+
+4) Consciousness after death / “living Force” metaphysics
+- The page says Jinn studied how to manifest consciousness after death. He found a Force-strong planet, encountered five Force Priestesses who retained consciousness after death, and learned that a living being’s life passes through the Living Force into the Cosmic Force. Because the two are intertwined, consciousness could be retained and physically manifested after death. [44][45]
+- A Shaman of the Whills taught Jinn that achieving eternal consciousness required absolute selflessness. [10][46]
+- After dying on Naboo, Jinn achieved only incomplete mastery: he became a Force ghost but could not visually manifest himself and could only speak to others through the Force. The page states he later communicated with Kenobi and others by verbal contact/presence rather than full visual manifestation. [9][40][66]
+- The page also records that Jinn passed the secret of retaining consciousness to Kenobi and Yoda. [9][10]
+
+5) Other concrete mission feats
+- On Naboo, Jinn discovered Anakin, secured the boy’s release from slavery, and brought him to the Jedi Temple; the article states Jinn believed Anakin was the prophesied Chosen One. [3]
+- He and Obi-Wan saved Queen Amidala during the Trade Federation invasion and helped liberate Naboo. [3]
+- He defeated assassin droids and guards during the Phindar mission, used a comlink impersonation via the Force, and requested shutdown of lethal disruptor beams. [1]
+- He used a mind trick on a Hutt guard on Bandomeer and later drew on the Living Force to stop Xanatos. [13][35]
+
+HYPE / ASSESSMENTS (NOT standalone feats)
+- Yoda’s assessment: “A true Knight, Qui-Gon is. Forever on his own quest.” [14]
+- The article calls Jinn “one of the Order’s finest duelists,” “one of the greatest masters” of Ataru, and says he could easily defeat many enemies. These are summary assessments; the concrete examples are the tournament, sparring, Xanatos fights, and Maul encounters above. [3][4][10][12][179]
+  Source: Star Wars: Episode III Revenge of the Sith novelization ; Star Wars: Episode I The Phantom Menace [per Wookieepedia "Qui-Gon Jinn/Legends" rev 15679814, ref 10,3; exact text match; agrees with the entry's own ref marker]
+- The article says Darth Plagueis felt that a whole ship of droids would be confounded and unable to stop Jinn during the Naboo crisis. This is an in-universe assessment, not a demonstrated feat in the cited passage. [20]
+- The article calls persuading the Hutt guard a “truly remarkable feat”; the underlying concrete event is the successful mind trick, while the adjective is editorial assessment. [13][20]
+- “He will be a great Jedi Knight” is Dooku’s prediction about the young Jinn, not a feat. [8]
+
+CITATION KEY (PAGE REFERENCES)
+[1] Jedi Apprentice: The Hidden Past
+[3] Star Wars: Episode I The Phantom Menace
+[4] The New Essential Guide to Characters / Star Wars: Head-to-Head Tag Teams
+[6] “End Game” — The Phantom Menace novelization (2012 edition)
+[8] Legacy of the Jedi
+[9] The Clone Wars — “Destiny”
+[10] Revenge of the Sith novelization
+[13] Jedi Apprentice: The Dark Rival
+[14] Cloak of Deception
+[15] The Phantom Menace novelization
+[20] Darth Plagueis
+[22] Jedi Apprentice: The Rising Force
+[35] Jedi Apprentice: The Day of Reckoning
+[37] Jedi Apprentice: The Ties That Bind
+[40] Rogue Planet
+[44] The Clone Wars — “Voices”
+[45] Force planet / Qui-Gon Jinn entries in the Encyclopedia (as shown on page)
+[46] The Clone Wars — “Voices”
+[52] “Life, Death, and the Living Force” — Star Wars Tales 1; “Mythology” — Star Wars Tales 14; Republic 53
+[63] Republic 69
+[65] Jedi Apprentice: The Evil Experiment
+[66] Jedi Quest: Path to Truth
+[90] Episode I Adventures 1: Search for the Lost Jedi
+[97] Darth Maul (2000) 1
+[124] Star Wars Journal: Darth Maul
+[125] The Wrath of Darth Maul
+[179] Page citation attached to the Anoon Bondara sparring statement; the page’s displayed reference block was not independently mapped here
+[184] Page citation attached to the Serenity statement; source title not independently mapped here
+[185] Page citation attached to the Jedi Concentration statement; source title not independently mapped here
+
+Verified source page line count is reported separately after saving.

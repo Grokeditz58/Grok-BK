@@ -1,0 +1,38 @@
+# notes156 EGF 2007 sealed package SHA-256 sidecar
+# Generated: 2026-11-10 04:02:07 CST America/Chicago
+# Contents: notes markdown + verified quote crops only (no PDF/full-page scans/secrets/git)
+
+cbfa5d6cfba2dbdbc62ad4a4006b47378906872e41b88bd8bca335c05d233523  COVERAGE.md
+5698fd41bd44bdfda99b6baa43bea7d510a8c1a4718d0ac84e1cd493aac37ab9  MANIFEST.txt
+f1015340796183cb8ff592e40eae6d95656ad8b72fe5772c58545e0c60e7f172  README.md
+448bc8c0f47a84ca97ffb7502782f976b40c8db8c55e10c7d709ba36b214a366  body/01-part-one-opening-holocrons-start.md
+10c5a9ae11999ac6aaef87bba10b7b5bc8f8853607c36e21b9c398980b2a7435  body/02-tedryn-through-hyperspace-war-start.md
+a608fa0babb29fbaec6fbbf27182483959a2a34c4b16bd7ce9849d809f721998  body/03-hyperspace-war-end-through-second-sith-war.md
+3a0a0f2f6d55f53b28ae5c132a8be646fd02783143e4d262fb9913d05d4c45b7  body/04-darth-ruin-through-demise-of-palpatine.md
+2a718bfeecc4dc794b732b9dfc85b69d18bac70d549f93153b034ccf3d0c169f  body/05-exar-kun-resurrection-through-lumiya-final-duel-start.md
+cd5ee191e7e1120c81140171618d48d81245024ff667672393234d8037e24d9a  body/06-part-two-jedi-through-new-order.md
+e9f29ce9fa7f98c3f08081ce8a992d72c98cfeb37b0b12b75c37d98c8ea1907a  body/07-force-sensitive-abilities-through-farsight-start.md
+88826075b681c029723ce0d2ec978a8f57e5a72da92702ff049206385e1c8951  body/08-psychometry-through-detecting-jedi-powers.md
+285ce39402ea82d204dfd6cfac00c54e2827c653c3bb6b23ad23d2810a42b536  body/09-force-as-energy-through-training-lightsabers.md
+0683b09ff81ae8a57959b78d27eeaa0d7981a36f010294b7fcb45d02ceccc594  body/10-dual-phase-through-seven-forms-plates.md
+d0a2292e49758c1e620b1a4750a71ca0b6cc03af73379c7a99114d3fb5627e4d  body/11-part-three-dark-side-through-dark-jedi-conflict-start.md
+f4a3ae4c0580419c3bb9bb20ab629d8b5ea2592828d9416126020ff80f88eb81  body/12-dark-jedi-conflict-end-through-luke-on-dark-side.md
+f2938abbef43c19d7926e4ce51f17f7ee0372826ca2b8147c3eb166702d286e3  body/13-part-four-sith-through-fall-of-sith-empire-start.md
+920201dea2e581ef308eb8ab53664e362501c8cd43db4b425271e7a88ad17563  body/14-fall-of-sith-empire-through-rule-of-two.md
+3778bae7ed39355ae3854ca019f985bc1a3adc054ba365c873c2b6fe7a5e2dd0  body/15-selecting-apprentices-through-sith-spirits.md
+b08e7efba18edd732a879944754649b5e71d213de22472f89bc6954247de8357  body/16-immortality-compendium-through-creation-of-monsters.md
+0ce02afe5f359ce5bf8f5d912e05f82f4ce1a75104115847cb5e443ce3abf9ab  body/17-part-five-palawa-through-prophets.md
+85ca6aac4439a40587f2163bf3a8f698371727af305303ff96e0d78d9bc256aa  body/18-zeison-sha-through-force-witches.md
+b04cda3d9a411f1842cc55bf56e6bd41be96c4f3698594c9c16c63bd93e376fa  body/19-reborn-through-fallanassi.md
+e8cd4f65d7ac985b66a01e372846ffee484bd35b70aab5e70561e2a913994ad3  body/20-part-six-chosen-one-through-arrival.md
+a516fffb1f6ffd56c43838c9dbd22ba79306f80b1efe77f58bec23262c84ec41  body/21-jedi-training-through-darth-vader.md
+22a4336abb56f6892e9fca75afa9e389f6d238d7104e36a604f74337e1aca47f  body/22-shira-brie-through-cade-afterword.md
+7fa3eea7bf357c60a3d06e646ab80477e194ca1e75f9b94d8f087c9ddf90010b  body/23-index-through-back-cover.md
+8ec59aecbb888a26872df6c8b5888148d6a603ea97b4057fb5dc249dd215f299  front.md
+45ae902b032f4c5b4f4e4eeb82b775f616c2288a08c9b206ebb670cb0ce4bb69  quotes/QUOTES-INDEX.md
+02cc5436aab1c2de0548fe43308daffa2b6eb9571620393a502663ddd008a514  quotes/q01-afterword-ellu-viss-130aby.jpg
+3c7d43097e6d1c1263726edb7608359cd61bd4f31698f2a50eaf7031ae8c4800  quotes/q01b-afterword-close-may-the-force.jpg
+87e81bb0dd9b47f43a8608ec7cf0afad1db627386ba222a2200a6a827c95acec  quotes/q02-author-bio-ryder-windham.jpg
+5e3d95c202a0c2f43fe8329d41dfcf22bc63d68087fa8c3f72c10e9c11e2ae5d  quotes/q02b-illustrator-bio-chris-trevas.jpg
+d3c0823ade7553164363f73de0e9d0558d6c0559d439fa6df13cd63c0b1cfe94  quotes/q02c-illustrator-bio-tommy-lee-edwards.jpg
+3fff444f67c7a5391ae8d4efe3afb8b3ac5d2f3ca257f02295706cdb6cc53f82  quotes/q03-backcover-blurb-and-closer.jpg

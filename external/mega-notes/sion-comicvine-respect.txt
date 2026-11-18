@@ -1,0 +1,85 @@
+Darth Sion: Comic Vine respect thread, read 2026-10-18 (DEEP-layer pass)
+Thread read: ShootingNova, "Darth Sion Respect Thread" (May 21 2014): https://comicvine.gamespot.com/profile/shootingnova/blog/darth-sion-respect-thread/97946/ (also mirrored as forum topic: https://comicvine.gamespot.com/forums/dupe-1792937/darth-sion-respect-thread-1565479/)
+Seen, not read: r/respectthreads "Respect Darth Sion (Star Wars)" by u/rangernumberx (Apr 2025), https://www.reddit.com/r/respectthreads/comments/1k0xdfv/respect_darth_sion_star_wars/ (states all feats are from KOTOR II; GAP).
+Indexed by the CV "Star Wars Respect Thread Index - Updated" (only one Sion RT on CV: ShootingNova's).
+All items LEGENDS. Sion's only real primary source is KOTOR II: The Sith Lords (2004 game, Obsidian; Chris Avellone lead writer). Locations below are the game's (Harbinger/Peragus, Korriban Sith Academy, Malachor V Trayus Academy). "Cut content" = restored/unused material from the game files (SI and most debaters treat it as non-canon or low weight; marked CUT). Prima guide = official strategy guide (gameplay-mechanics text, low weight). Video/scan-only items with no quoted text = UNVERIFIED.
+
+== 1. QUOTED SOURCE TEXT: IN-GAME (KOTOR II) ==
+- Korriban, Sith Academy (Kreia telepathic warning on first meeting): "He cannot be defeated... he is not a beast of flesh and blood. This is not a battle that can be won. Flee." Prima guide paraphrase: "at your current strength, Darth Sion is unbeatable; your only hope is to flee." Context: early-game Exile with partly restored Force connection; the Exile wounds him and he heals.
+- Korriban (Lonna Vash recording / dialogue): "Their leader, Darth Sion, is a perversion of the Dark Side such as I have not seen before." Sion then kills the captive Vash (Wookieepedia notes).
+- Harbinger/Peragus (medical log on the Harbinger): "I'm registering several thousand fractures in his skeleton, as if each bone was repeatedly splintered over time... then put back together... he must have been in constant pain. I have no idea what's been keeping him together."
+- Malachor V (Trayus Academy, final fight vs Exile): "The power of the dark side is what holds me together. Many times have I been near death - and always have I been in pain." / "As long as the dark places of this world flow through the cracks of my flesh, I cannot be killed." / "I can die a hundred times, exile, and still I will rise again, as strong as before." OUTCOME (Wookieepedia notes): the Exile strikes him down four or more times; he dies only when she talks him into letting go ("I am glad to leave this place…at last.").
+- Malachor V: description of Malachor: "To walk on its surface is to feel it crushing every cell of your being. It is like being buried alive until it feels like you may never breathe again..." (applies to everyone on Malachor; the thread's "Sion walks it without issue" is a caption).
+- Harbinger (Peragus): Sion to Kreia: "I sense you, my master. Faint... Weak." He cuts off Kreia's hand in one exchange. CONTEXT: Kreia had been stripped of the Force by Sion and Nihilus earlier and is far below full power (Kreia only fights at full strength at the end, Trayus Core). [panel: panels/sion/sion-force-sense-1.jpg]
+- Assassin hunger (Kreia/Atton dialogue): "They feed, and grow stronger, when they are near Force Sensitives. The stronger their prey is in the Force, the deadlier they become." (About Sion's assassins; the thread extends it to Sion himself - poster inference.)
+- Traya's betrayal (Kreia): "I was cast down... stripped of my power... exiled." KOTOR Campaign Guide: "They turn on her and drain her Force powers." Wookieepedia: "using Nihilus' special techniques in the Force to tear down her defenses and then beating her mercilessly". => Sion + Nihilus together; Nihilus does the stripping.
+- CUT CONTENT (Ravager, Sion vs Nihilus), script stage direction: "{Nihilus turns, dark wave energy exploding from him, blasting Sion back, as supports smash down around him. It would be awesome if Sith soldiers are hurled about by Nihilus' power, or are disintegrated as he attacks Sion.}" then "[Gameplay Programmer: Sion stalks off, disgusted.]" The thread reads this as Sion "unharmed by Nihilus' Force Wave". What the text actually shows: Nihilus initiates, blasts Sion back, and the scene ends with Sion walking off; no winner is written. CUT and a stage direction ("It would be awesome if...") = very low weight.
+- CUT CONTENT (Malachor, vs Atton): "[Gameplay Programmer: Sion levitates Atton into the air, holding him in place.]" Conditional cut ending: if Atton loses, Sion takes his arm (Wookieepedia notes).
+
+== 2. QUOTED SOURCE TEXT: REFERENCE / STATEMENTS ==
+- KOTOR Campaign Guide (WotC 2008): Great Sith War marauder: "Regularly surviving the frontline pandemonium, Sion acquires a pain tolerance that convinces him of his immortality. Inevitably, probability has its day and Sion is struck down... Improbably, Sion gets up." "keeping his decomposing flesh tethered together with dark side energy is inexplicably painful, and requires endless concentration on the rage". "Sion embarks on a Jedi-assassination spree, 'dying' many more times, but always ending more enemy lives." "Darth Sion has vanquished many Jedi foes." "Sion's abilities draw the eye of Revan's former master, the powerful Darth Traya." Sith survivors "electing leadership by the lightsaber's blade".
+- SWTOR Codex, Galactic History 78: "Three lords stood above all others: Darth Nihilus, whose hunger devoured all life around him; Darth Sion, whose shattered body was held together by hatred; and Darth Traya". "Darth Sion created an elite cadre of Sith assassins, eroding the already-weakened Jedi from the shadows".
+- The Complete Star Wars Encyclopedia: "Sion led a sect of Sith assassins sent to wipe out the Jedi Order." "Sion was exceedingly difficult to kill, because his mastery over his own body lent him supernatural vitality."
+- The Old Republic: Revan (Drew Karpyshyn novel): the Triumvirate's purge killed Jedi "by the tens of thousands" (group statement, not Sion solo).
+- Insider #88 "Virtual Sith": "Perhaps the most rage-filled Sith Lord yet encountered... He is a true, immortal manifestation of the Dark Side of the Force." "A feared Lightsaber Assassin".
+- WotC "Power Beyond Belief: Using Ultra-Powerful Sith Lords in Saga Edition": Sion "embodies the unbeatable enemy"; "Average beings stand no chance of stopping these ultra-powerful monsters of the dark side." (Article is about Sion, Nihilus and peers as RPG boss NPCs.)
+- WotC KOTOR Miniatures preview: "a decomposing body held together by dark side energies channeled by Sion himself... He is in eternal pain but endures it as a small price for apparent immortality."
+- Ultimate Visual Guide (Updated and Expanded): "Darth Sion, the Lord of Pain, is the apprentice to Darth Traya."
+- Chris Avellone (Eurogamer interview, 2013, out-of-universe): "We were trying to imagine how you would have some guy who was literally telekinetically holding himself together".
+- Prima guide (mechanics): "Darth Sion heals at will, but you can win by striking him down repeatedly." "He can fully restore his vitality at will." "attacks you with a lightsaber and Drain Life". Bladeborn tremor swords given to masterblades "who survived no less than 10 lightsaber-wielding warriors".
+
+== 3. UNVERIFIED (video/gallery only, or game-mechanics only) ==
+- Breaks out of the kolto/bacta tank (Harbinger) - in Wookieepedia notes too, so the event is real; "by sheer strength" is caption. [panel: panels/sion/sion-sion-breaks-bacta-tank-virtue-sheer-strength-1.gif]
+- Beats down a Force-stripped Traya in the Trayus Core flashback, shaking the Core (caption; Traya powerless at the time).
+- Korriban: Force Crush + Drain on the Exile while assassins add lightning, leaving her "dead" to her party (scan/video only; GAP whether this is the cut/alternate scene).
+- Hibernation trance to pass as a corpse on the Harbinger (event in Wookieepedia notes; video only here).
+- Powers list from gameplay: Force Whirlwind, Slam, Thrust, Slow, Wound, Drain Life; immune to Fear/Horror/Insanity; lightning only in concept art. Gameplay ability lists = low weight. [panel: panels/sion/sion-sion-immune-force-fear-horror-insanity-1.png]
+
+== TAKEAWAYS FOR VERDICTS ==
+1. Sion's whole case is durability/regeneration: struck down repeatedly by the Exile and rising, heals at will, near-unkillable on dark-side worlds (Korriban, Malachor). His losses are mental: he dies when he chooses to.
+2. Hard combat record is thin: kills Lonna Vash (captive), maims a Force-stripped Kreia, beats a powerless Traya with Nihilus doing the stripping, assassin campaign "tens of thousands" (group). No clean win over a top-tier fighter.
+3. Ranking statements put him in the Triumvirate trio "above all others" but always as Traya's apprentice; Traya (full power, Trayus Core) crushes him in cut content and he is clearly below Kreia in the story. The game's own boss order puts Sion before Kreia (final boss) on Malachor, and the Exile also beats Nihilus.
+4. Primary-source gap: KOTOR II not played/read; no novel or comic appearances beyond cameo references (Darth Plagueis mention).
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### sion / Pain Tolerance & Resurrection
+- Sion insists that on Malachor, he cannot be killed. He repeatedly dies to Meetra Surik, but rises up every time, claiming that he can die a hundred times and st (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-insists-malachor-he-cannot-killed-he-1.gif]
+
+### sion / Combat Skill
+- Along with his Sith assassins, Sion massacres the crew of the Harbinger , including the officers on the deck: (issue unknown (source not named in thread)) [panel: panels/sion/sion-along-sith-assassins-sion-massacres-crew-harbinger-1.gif]
+- Sion defeats Kreia with a single blow by severing her hand. Although she had yet to fully regain her connection to the Force, Kreia had already defeated a numbe (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-defeats-kreia-single-blow-severing-hand-1.gif]
+
+### sion / Dark Rage/Force Protection/Speed
+- Sion knows Dark Rage: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-knows-dark-rage-1.png]
+- Sion beats up a Darth Traya who was mostly stripped of the Force and rendered indefensible. In the process, he hurls Traya against the walls and floor of the Tr (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-beats-darth-traya-mostly-stripped-force-1.gif]
+- In cut content, Sion easily holds Atton Rand up against his will with one hand: (issue unknown (source not named in thread)) [panel: panels/sion/sion-cut-content-sion-easily-holds-atton-rand-1.gif]
+
+### sion / Telekinesis
+- Sion uses the Force to Crush the Exile, leaving her defenseless against subsequent Drain and Lightning attacks that virtually kill her: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-uses-force-crush-exile-leaving-defenseless-1.gif]
+- Sion can create Force Whirlwinds: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-create-force-whirlwinds-1.png]
+- Sion can use and is proficient in Force Slam: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-use-proficient-force-slam-1.png; panels/sion/sion-sion-use-proficient-force-slam-2.png]
+- Sion can use Force thrust: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-use-force-thrust-1.png]
+
+### sion / Alter Environment
+- A likely display of Alter Environment, where Sion uses the Force to cause the bacta in his tank to recede: (issue unknown (source not named in thread)) [panel: panels/sion/sion-likely-display-alter-environment-sion-uses-force-1.gif]
+- He also potentially causes a number of electronic disturbances: (issue unknown (source not named in thread)) [panel: panels/sion/sion-he-potentially-causes-number-electronic-disturbances-1.gif]
+
+### sion / Hibernation Trance
+- Sion is proficient in the use of Force Trance: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-proficient-use-force-trance-1.png]
+
+### sion / Healing
+- Sion is skilful in the usage of Dark Healing: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-skilful-usage-dark-healing-1.png]
+
+### sion / Slow
+- Sion knows Force Slow: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-knows-force-slow-1.png]
+
+### sion / Wound
+- Sion knows and is proficient in Force Wound: (issue unknown (source not named in thread)) [panel: panels/sion/sion-sion-knows-proficient-force-wound-1.png; panels/sion/sion-sion-knows-proficient-force-wound-2.png]
+
+### sion / Lightning
+- http://media.moddb.com/images/members/1/671/670045/star-wars3A-kotor-2-wallpapers_20975_1600x1200.jpg (issue unknown (source not named in thread)) [panel: panels/sion/sion-lightning-1.jpg]
+
+### sion / Drain
+- After Crushing the Exile, Sion uses Drain (alongside his underlings using Force Lightning) to incapacitate the Exile. The extent of the damage is such that the  (issue unknown (source not named in thread)) [panel: panels/sion/sion-after-crushing-exile-sion-uses-drain-alongside-1.gif]

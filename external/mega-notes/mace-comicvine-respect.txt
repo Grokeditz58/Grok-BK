@@ -1,0 +1,193 @@
+CITED EXTRACTION: Mace Windu respect threads (Comic Vine blogs)
+ A) ShootingNova, "Mace Windu Respect Thread" (2014-09-06): https://comicvine.gamespot.com/profile/shootingnova/blog/mace-windu-respect-thread/99811/  (Legends-heavy, mostly Shatterpoint / Labyrinth of Evil / ROTS novel)
+ B) Erkan12, "Mace Windu Respect Thread" (2014-08-11, later edited with 2017-2021 Canon additions): https://comicvine.gamespot.com/profile/erkan12/blog/mace-windu-respect-thread/99305/  (mixed; labels each entry Canon/Legends)
+Read 2026-10-12 via WebFetch (curl got a block page, so no raw HTML saved). TheVivas 162222 (Canon-only) was deliberately not used.
+Tags: S = statement, F = feat, H = hype/summary, NOTE = my comment. Only entries quoting named source text are counted; image-only entries are listed at the end.
+LABEL FIX: Erkan12 tags the Stover ROTS novelization and the AOTC novel as "(Canon)". They are Legends novels (2005/2002); only the films are shared. Relabelled below.
+Chapter numbers are not given by either thread: GAP.
+Cross-link: mace-legends-quotes.txt (Wookieepedia, INTRO tier). [WP] = already there.
+
+=== LEGENDS: RANKING STATEMENTS ===
+- S: "He seems to be second most powerful Jedi on the that council, next to Yoda." (Star Wars Insider #55, 2001) [B]
+- S (creator, behind the scenes): Nick Gillard: "We didn't see Mace fighting yet, but we know that he is second only to Yoda." (Episode II Action Featurette, 2002; also starwars.com 2000 BTS: "Mace Windu's fighting abilities are second only to Yoda.") [A, B]
+- S: "Among the other Jedi, perhaps only Mace Windu would have been his [Dooku's] equal on neutral ground" (Yoda: Dark Rendezvous) [A, B]
+- S: "Which would leave Mace and Agen Kolar-both among the greatest bladesbeings the Jedi Order had ever produced" (ROTS novel) [A]
+- S: Obi-Wan: "Palpatine faced Mace and Agen and Kit and Saesee - four of the greatest swordsmen our Order has ever produced. By himself. Even both of us together wouldn't have a chance." (ROTS novel) [A]  NOTE: this is Obi-Wan rating Sidious > Obi-Wan + Yoda together, by reasoning from the B-team kill. It's a character's inference, and it scales Sidious more than Mace.
+- S: "This is the moment that defines Mace Windu. Not his countless victories in battle... or his unmatched skills with the lightsaber." (ROTS novel) [A, B]
+- S: "Say what you will about the wisdom of ancient Master Yoda, or the deadly skill of grim Mace Windu..." (ROTS novel) [B]
+- S: Palpatine: "Yoda? Mace Windu? They couldn't even capture Dooku." (ROTS novel) [B]
+- S: Mace on Vaapad vs Ataru: "I created Vaapad to answer my weakness: it channels my own darkness into a weapon of the light. Master Yoda's Ataru is also an answer to weakness: the limitations of reach and mobility imposed by his stature and his age." (ROTS novel) [B]
+- S: "Jedi Master Mace Windu is regarded as one of the greatest lightsaber-wielders of the Old Republic." / "one of the best lightsaber fighters in the Jedi Order" (The Ultimate Visual Guide: Updated and Expanded) [A]
+- S: Anoon Bondara "spars with superior lightsaber duelists such as Qui-Gon Jinn and Mace Windu" (Jedi Academy: Training Manual) [A]
+- S: Sidious (in-universe boast, after the fact): "Mace Windu and his friends could not defeat me! Nor could Yoda." (Purge: Last Stand of the Jedi, 2005) [B] [panel: panels/mace/mace-after-death-sidious-talks-windu-says-mace-1.jpg]
+- S from the Yoda threads (see yoda-comicvine-respect.txt): Mace "I am not his equal in peace or war" (Yoda: Dark Rendezvous); Power of the Jedi Sourcebook: only Yoda and Dooku "ever overcame him in battle", and Mace called himself "but a Padawan compared to Master Yoda"; Shatterpoint: "Mace was much less confident in his own raw power" than Yoda's.
+
+=== LEGENDS: THE SIDIOUS DUEL (ROTS novel, Stover) [B quotes; A has the shatterpoint passages] ===
+- F: "Sinking into Vaapad, Mace Windu fought for his life."
+- F: "Vaapad, the seventh form... they move too fast to count. Almost too fast to see. So did Mace's blade."
+- S: "Vaapad is a path that leads through the penumbra of the dark side. Mace Windu created this style, and he was its only living master."
+- F: Anakin's view: "an oblate sphere of purple fire within which there seemed to be dozens of swords slashing in all directions at once"; "exchanges so fast that Anakin could not truly see them"
+- F (the amp mechanism): "Vaapad is a channel for darkness, and that darkness flowed both ways. He accepted the furious speed of the Sith Lord, drew the shadow's rage and power into his inmost center- And let it fountain out again."
+- F (the impasse): "Vaapad made him an open channel, half of a superconducting loop completed by the shadow... But there was still only the cycle of power, the endless loop, no wound taken on either side, not even the possibility of fatigue. Impasse. Which might have gone on forever, if Vaapad were Mace's only gift... his mind slid along the circuit of dark power, tracing it back to its limitless source. Feeling for its shatterpoint."
+- F (the disarm): "Out where the shadow's fear made it hesitate. Out where the shadow's fear turned some of its Force-powered speed into a Force-powered grip on the slippery permacrete. Out where Mace could flick his blade in one precise arc and slash the shadow's lightsaber in half."
+- F (lightning): "'You're the chosen one, Anakin,' Mace said, his voice going thin with strain. This was beyond Vaapad; he had no strength left to fight against his own blade." Palpatine then fakes collapse: "I... can't. I give up. I... I am too weak, in the end."
+- F (the shatterpoint was Anakin): "He had been so intent on Palpatine's shatterpoint that he'd never thought to look for Anakin's." Earlier: "Anakin Skywalker no longer had shatterpoints. He was a shatterpoint." (ROTS novel) [A]. SI t313 adds the line "Do you think the fear you feel is mine?" and "Palpatine was not afraid." (see debates file).
+- F (scarring): Palpatine: "These Jedi murderers left me scarred, left me deformed" (ROTS novel); "You see the ravages wreaked on my body. Proof of the Jedi's betrayal." (Republic #78); "The Emperor's face was gnarled and twisted, deformed by the Sith lightning that had been briefly deflected by Mace Windu" (The Rise and Fall of Darth Vader, 2007) [B]
+
+=== LEGENDS: OTHER COMBAT FEATS ===
+- F: Kar Vastor: "But where Vastor's speed was blinding, Mace's was invisible. Not one of those slaps connected. Before Vastor could even focus his eyes, Mace had hit him six times" (Shatterpoint) [A, B] [WP]
+- F: "'This is called Vaapad, Kar.'... 'How many arms do you see?'" (Shatterpoint) [A, B]
+- F: Through blaster fire and slugs: "his blades weaving an impenetrable web of lightning" (Shatterpoint) [A, B]
+- F: "Faster than the eye could follow, his hand flashed out" (Shatterpoint) [A, B]
+- F: Jango Fett: "The Force hinted a shatterpoint, and I left a headless corpse on the sand." (Shatterpoint) [A, B]
+- F: Grievous on the mag-lev train: "His strikes were as forceful as any Mace had ever had to counter, and his speed was astonishing. But he didn't know Vaapad"; Mace cuts the roof, Grievous loses magnetic purchase, Mace Force-pushes him off the car. (Labyrinth of Evil) [A]
+- F: Ventress, first duel: Mace: "Do not assume, however, that we are equals. We are not. Neither your weapon nor your skills are enough." Ventress: "Oh, I have no doubt. Which leaves me one option." (she flees) (Jedi: Mace Windu, 2003) [B] [panel: panels/mace/mace-first-mace-saves-jedi-master-kkruhk-asajj-2.jpg]
+- F: Uda-Khalid: "How did you--- I've never seen--- so fast..." (Star Wars Tales 13, "Survivors") [B] [panel: panels/mace/mace-mace-kills-serial-killer-uda-khalid-using-2.jpg]
+- F: Dooku, Republic: Obsession #5: short even exchange; Dooku escapes using MagnaGuards to knock Mace off a cliff (scans; B names the issue, A gives no source) 
+- F: Vos spar: "Jedi do not need to see their opponent to find them, Master Vos..." (Republic #83, 2006) [B]
+- F: "Takes down 9 droids with a single stroke" (Clone Wars Adventures Vol. 2; scan, issue named by B) [panel: panels/mace/mace-windu-takes-down-droids-single-stroke-legends-1.jpg]
+- F: 3 afterimages with his saber (Emissaries to Malastare, 1999; scan, named by B)
+- F: Clone Wars micro-series (2003, scans named by B): tears super battle droids apart barehanded, Force crush on SBDs, Force wave on a large droid group, and a combined Force blast with Yoda. [WP: Dantooine]
+- S: "Mace was highly distressed that his mission involved fighting his old friend and colleague Sora Bulq." (Fact Files #108) NOTE: B uses this to say he held back vs Bulq; that is B's inference.
+
+=== LEGENDS: FORCE FEATS ===
+- F: Collapses an unstable dirt cliff by shoving rock "ten meters below him and five meters in from the face" (Shatterpoint) [A]
+- F: "With the Force, he seized the steamcrawler and yanked it back into place" (Shatterpoint) [A]  NOTE: compare Mace's own doubt that he could lift one out of a gully (yoda file).
+- F: Tows himself and Nick Rostu down several hundred meters to a falling gunship (Shatterpoint) [A]
+- F: Piles small trees with the Force (Shatterpoint) [A, B]
+- F: Immovability: "the Force was keeping Mace from being blown from the mag-lev's roof... whereas Mace never remained in one place for very long." (Labyrinth of Evil) [A]
+- F: Shatterpoint: Corusca gem passage; Dooku was "the shatterpoint" at Geonosis ("I could have done it."); Palpatine "was himself a shatterpoint"; Gevarno Loop; four steamcrawlers "In less than a second apiece"; gunship (Shatterpoint) [A]. ROTS novel: Anakin as "the fulcrum of a lever with Obi-Wan on one side, Palpatine on the other" and the lattice "stank of the dark side." [A]
+- S: "I sometimes can see the weak places in an opponent-shatterpoints where the unbreakable can be broken." (Jedi: Count Dooku, 2003) [B]
+- S: Rhad Tarn: "I've heard about Mace Windu's mind control abilities!" (Jedi: Mace Windu) [B]
+- F: Mind trick on mercenaries mid-attack (Star Wars Tales 13; scan) [B]; collapses a bridge with a gesture (Tales 13; scan) [B]
+
+=== CANON (kept separate) ===
+- TCW (shared; it was canon in both continuities): pushes an AT-TE, Force blast on droids, rips a gate (TCW S1E21); one-shots a gundark, matches a gundark's strength (TCW S6E09) [B] [panel: panels/mace/mace-mace-matches-gundarks-strength-tremendous-strength-feat-1.gif]
+- Canon (post-2014): "A respected Jedi with powers on a par with those of the venerable Yoda" and "his powers and mastery of the lightsaber were considered legendary" (Official Star Wars Fact File remake #008, 2014; era borderline: B calls it Canon); Rissa Mano: "He is a top five Jedi Master of all time for sure!" (Jedi of the Republic - Mace Windu #1, 2017); Prosset Dibs beaten with the Force (#4); AD-W4 crush (#5); gigantic droid (#3); Dooku: "I'm sure you would." (Star Wars Adventures #10, 2021) [panel: panels/mace/mace-mace-windu-top-jedi-master-time-canon-1.jpg]
+- Shared film: "Obi-Wan is a great mentor, as wise as Master Yoda and as powerful as Master Windu." (AOTC film) [B]; ROTS film: Mace redirects Sidious's lightning, "You are well-versed in the ways of the Jedi, but you are no Jedi!" (B cites the ROTS graphic novel adaptation)
+
+=== SCANS / NO SOURCE GIVEN (do not count until sourced) ===
+From A: afterglow scans ("Credit to Silver2467"); blur and blaster-phase plus reappearing behind an enemy ("Credit to Erkan12"); smashing SBDs; blur runs; running up a surge of earth; jumps; beats Sora Bulq via TK; beats Quinlan Vos via TK; throws a droid "nearly three kilometers"; hurls a speeder into Grievous; moves an AT-TE; Force push on droids; calls down a gate; Crush on Grievous (WP ties this to Clone Wars Ch. 25 / ROTS opening, A doesn't); talks with bats; breaks glass via shatterpoint; spars evenly with Saesee Tiin; "Only Masters Yoda and Mace Windu were considered to be on equal terms with him." (A quotes it but names NO source). [panel: panels/mace/mace-mace-throws-droid-nearly-three-kilometers-1.jpg]
+From B: Vianna D'pow blaster/baby scene (Tales 13; image), "teleports" behind Ventress (image).
+
+=== WHAT THIS ADDS TO VERDICTS ===
+- Mace's top showing (Sidious) depends on Vaapad drawing on the opponent's darkness ("darkness flowed both ways"), plus a shatterpoint that turned out to be Anakin. The novel calls the saber phase a true impasse ("not even the possibility of fatigue") and says the lightning phase went "beyond Vaapad".
+- Every ranking statement in both threads puts Mace below Yoda (Insider #55, Gillard, PotJ SB, Dark Rendezvous, Shatterpoint). Several put him equal to Dooku on neutral ground.
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### mace-shootingnova / Force Valor/Protection/Speed/Jump
+- Several instances of Mace generating multiple large afterglows with his blade: (issue unknown (source not named in thread)) [panel: panels/mace/mace-several-instances-mace-generating-multiple-large-afterglows-1.jpg; panels/mace/mace-several-instances-mace-generating-multiple-large-afterglows-2.jpg; panels/mace/mace-several-instances-mace-generating-multiple-large-afterglows-3.jpg]
+- Mace moves so quickly he is nothing more than a blurring silhouette, and he dodges a blaster bolt with such speed that it appears to phase through him. He then  (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-moves-quickly-he-nothing-blurring-silhouette-1.jpg]
+- Mace smashing multiple Super Battle Droids (though this may have been a result of Shatterpoint): (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-smashing-multiple-super-battle-droids-may-1.gif]
+- Mace runs in a blur: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-runs-blur-1.gif]
+- Mace runs in a blur again, dodging blaster fire: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-runs-blur-again-dodging-blaster-fire-1.gif]
+- Mace runs up a huge surge of earth: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-runs-huge-surge-earth-1.gif]
+- Several impressive displays of Jump: (issue unknown (source not named in thread)) [panel: panels/mace/mace-several-impressive-displays-jump-1.gif; panels/mace/mace-several-impressive-displays-jump-2.gif; panels/mace/mace-several-impressive-displays-jump-3.gif; panels/mace/mace-several-impressive-displays-jump-4.gif]
+
+### mace-shootingnova / Telekinesis
+- Mace defeats Sora Bulq via telekinesis: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-defeats-sora-bulq-telekinesis-1.jpg]
+- Mace defeats Quinlan Vos via telekinesis: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-defeats-quinlan-vos-telekinesis-1.jpg]
+- Mace hurls a speeder into Grievous, causing an explosion: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-hurls-speeder-grievous-causing-explosion-1.jpg]
+- Mace telekinetically moves an AT-TE: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-telekinetically-moves-te-1.gif]
+- Mace's casual Force Push obliterates a number of droids: (issue unknown (source not named in thread)) [panel: panels/mace/mace-maces-casual-force-push-obliterates-number-droids-1.gif]
+- Mace casually calls down a gate: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-casually-calls-down-gate-1.gif]
+- Mace displays Crush on Grievous: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-displays-crush-grievous-1.gif]
+
+### mace-shootingnova / Beast Language
+- Mace communicates with several bats, telling them that he will not harm them: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-communicates-several-bats-telling-them-he-1.png]
+
+### mace-shootingnova / Force Sense/Shatterpoint
+- Mace breaks glass using Shatterpoint: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-breaks-glass-using-shatterpoint-1.gif]
+
+### mace-shootingnova / Combat Skill
+- Mace is considered to be on equal terms with Count Dooku and Yoda: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-considered-equal-terms-count-dooku-yoda-1.jpg]
+- Mace spars evenly with Saesee Tiin, one of the most skilful duelists in the Order: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-spars-evenly-saesee-tiin-one-skilful-1.jpg; panels/mace/mace-mace-spars-evenly-saesee-tiin-one-skilful-2.jpg]
+- Mace fights Sora Bulq to a draw and wins using the Force: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-fights-sora-bulq-draw-wins-using-1.jpg; panels/mace/mace-mace-fights-sora-bulq-draw-wins-using-2.jpg; panels/mace/mace-mace-fights-sora-bulq-draw-wins-using-3.jpg; panels/mace/mace-mace-fights-sora-bulq-draw-wins-using-4.jpg]
+- Mace defeats Asajj Ventress: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-defeats-asajj-ventress-1.jpg; panels/mace/mace-mace-defeats-asajj-ventress-2.jpg]
+- Mace fights defensively only and holds back, and still deflects every blow Quinlan Vos sends at him without much effort: (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-fights-defensively-holds-back-still-deflects-1.png; panels/mace/mace-mace-fights-defensively-holds-back-still-deflects-2.png; panels/mace/mace-mace-fights-defensively-holds-back-still-deflects-3.png; panels/mace/mace-mace-fights-defensively-holds-back-still-deflects-4.png]
+- In a spar with Quinlan Vos, Mace displays minimal effort, as evinced by moves such as giving up his back to his opponent and still casually blocking lightsaber  (issue unknown (source not named in thread)) [panel: panels/mace/mace-spar-quinlan-vos-mace-displays-minimal-effort-1.png; panels/mace/mace-spar-quinlan-vos-mace-displays-minimal-effort-2.png; panels/mace/mace-spar-quinlan-vos-mace-displays-minimal-effort-3.png]
+- Mace attacks Dooku and they briefly exchange blades. During their short contest, neither of them appear to gain any edge, and Dooku leaves the fight by using hi (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-attacks-dooku-they-briefly-exchange-blades-1.jpg; panels/mace/mace-mace-attacks-dooku-they-briefly-exchange-blades-2.jpg]
+
+### mace-erkan12 / RESPECT
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-respect-1.jpg]
+
+### mace-erkan12 / ''For the Order and the Republic, I will give anything and everything, including my life.''
+- Mace Windu during the Yinchorri Uprising... (33 BBY - Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-windu-during-yinchorri-uprising-33-bby-1.jpg; panels/mace/mace-mace-windu-during-yinchorri-uprising-33-bby-2.jpg]
+
+### mace-erkan12 / FORCE STEALTH
+- Mace's Force stealth ability was strong enough hide himself from Dooku, (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-maces-force-stealth-ability-strong-enough-hide-1.jpg]
+
+### mace-erkan12 / DEFEATING JANGO FETT
+- Mace's unique sword skills against Jango Fett, the best bounty hunter in the galaxy. (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-maces-unique-sword-skills-against-jango-fett-1.gif]
+- Jango is skilled enough to kill multiple Jedi with only his bare hands and even a Council member Jedi Master, Coleman Trebor. And he stalemated with AotC Obi-Wa (issue unknown (source not named in thread)) [panel: panels/mace/mace-jango-skilled-enough-kill-multiple-jedi-bare-1.jpg]
+- Mace kills the serial killer Uda-Khalid, using his invisible speed; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-kills-serial-killer-uda-khalid-using-1.jpg]
+- Mace uses his speed again, and bounty hunter Vianna D'pow is using a baby for shielding himself and attacking to Mace, but Mace was even faster than a blaster b (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-uses-speed-again-bounty-hunter-vianna-1.jpg]
+- Mace also resists to Vianna D'pow's surprise attack and uses the Force counter her; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-resists-vianna-dpows-surprise-attack-uses-1.jpg]
+
+### mace-erkan12 / DUEL WITH VOS AND SORA BULQ
+- Mace is training Quinlan Vos and Vos is struggling. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-training-quinlan-vos-vos-struggling-legends-1.jpg; panels/mace/mace-mace-training-quinlan-vos-vos-struggling-legends-2.jpg]
+- Stomps him, when he get serious; (issue unknown (source not named in thread)) [panel: panels/mace/mace-stomps-him-he-get-serious-1.jpg]
+- Same for Sora Bulq, when Mace realises the real battle was not there, and defeats him with ease. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-same-sora-bulq-mace-realises-real-battle-1.jpg]
+
+### mace-erkan12 / DUEL WITH ASAJJ VENTRESS
+- First Mace saves the Jedi master K'kruhk from Asajj Ventress, (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-first-mace-saves-jedi-master-kkruhk-asajj-1.jpg]
+- Windu can command Jedi Masters such as Kit Fisto, Kolar and Tiin, like they were just his apprentices, (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-windu-command-jedi-masters-kit-fisto-kolar-1.jpg]
+- Maneuver of Vaapad; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-maneuver-vaapad-legends-1.jpg]
+- Windu creates 3 after images with his saber, and speedblitzes. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-windu-creates-after-images-saber-speedblitzes-legends-1.jpg]
+- Blaster bolt deflection without even looking ; (issue unknown (source not named in thread)) [panel: panels/mace/mace-blaster-bolt-deflection-without-looking-1.gif]
+
+### mace-erkan12 / FORCE COMBAT
+- Mace defeats a group of Phuii fighters in a H2H combat. (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-defeats-group-phuii-fighters-h2h-combat-1.jpg]
+- Mace can break into pieces even the super battle droids with his bare hands; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-break-pieces-super-battle-droids-bare-1.jpg]
+
+### mace-erkan12 / DOOKU ESCAPES FROM WINDU
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-dooku-escapes-windu-1.jpg]
+- Dooku uses the MagnaGuards and escapes from the duel. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-dooku-uses-magnaguards-escapes-duel-legends-1.jpg]
+
+### mace-erkan12 / DOOKU ADMITS MACE WOULD DEFEAT HIM (CANON)
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-dooku-admits-mace-defeat-him-canon-1.jpg]
+- The duel between Windu and Dooku continues. (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-duel-between-windu-dooku-continues-canon-1.jpg]
+
+### mace-erkan12 / TELEKINESIS
+- Mace collapses a bridge with just a hand gesture; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-collapses-bridge-hand-gesture-legends-1.jpg]
+- Mace is masterful enough to manipulate a part of a spaceship without even noticed. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-masterful-enough-manipulate-part-spaceship-without-1.jpg]
+- Uses Force speed and destroying the super battle droids with Force crush; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-uses-force-speed-destroying-super-battle-droids-1.gif]
+- His mastery on the Force, he disintegrates the super battle droids and uses it as bullets. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mastery-force-he-disintegrates-super-battle-droids-1.gif]
+- Mace pushes an AT-TE (a tank) with the Force. (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-pushes-te-tank-force-canon-1.gif]
+- Force wave to a vast group of battle droids. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-force-wave-vast-group-battle-droids-legends-1.gif]
+- Destroys a group of battle droids with a powerful Force blast; (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-destroys-group-battle-droids-powerful-force-blast-1.gif]
+- Removes a heavy gate by using the Force; (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-removes-heavy-gate-using-force-canon-1.gif]
+- Takes down a gigantic battle droid with the Force; (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-takes-down-gigantic-battle-droid-force-canon-1.jpg]
+- He quickly catches and uses Force crush on AD-W4's head before it escapes by using repulsors; (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-he-quickly-catches-uses-force-crush-ad-1.jpg]
+- Defeats the Jedi Master Prosset Dibs (later known as Inquisitor Tenth Brother) by using the Force; (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-defeats-jedi-master-prosset-dibs-later-known-1.jpg]
+- Windu one-shots a giant Gundark with a Vaapad lightsaber move. (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-windu-one-shots-giant-gundark-vaapad-lightsaber-1.gif]
+
+### mace-erkan12 / SHATTERPOINT
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-shatterpoint-1.jpg]
+
+### mace-erkan12 / TELEPATHY
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-telepathy-1.jpg]
+
+### mace-erkan12 / FORCE CRUSH
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-force-crush-1.gif]
+
+### mace-erkan12 / COMBINED FORCE BLAST
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-combined-force-blast-1.gif]
+
+### mace-erkan12 / SIDIOUS DUEL WHEN WINDU WAS FORCE AMPED, DEFEATS SIDIOUS
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-sidious-duel-windu-force-amped-defeats-sidious-1.png]
+- Mace also uses the Force to protect himself from Palpatine's Force lightning. (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-uses-force-protect-palpatines-force-lightning-1.jpg]
+
+### mace-erkan12 / FORCE LIGHTNING DEFLECTION
+- Mace manages to deflect Sidious's powerful Force lightning right back into Sidious, due to his lightsaber mastery and his powerful stamina, (Canon) (issue unknown (source not named in thread)) [panel: panels/mace/mace-mace-manages-deflect-sidiouss-powerful-force-lightning-1.gif]
+- A different source; (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-different-source-legends-1.jpg]
+- Starwars.com confirms that it was Windu scarred Palpatine's face, not that it was his true face. (issue unknown (source not named in thread)) [panel: panels/mace/mace-starwars-com-confirms-windu-scarred-palpatines-face-1.png]
+
+### mace-erkan12 / LEGACY
+- Boba Fett still remembers Mace Windu. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-boba-fett-still-remembers-mace-windu-legends-1.jpg]
+
+### mace-erkan12 / INFLUENCE ON THE JEDI COUNCIL
+- (no caption) (issue unknown (source not named in thread)) [panel: panels/mace/mace-influence-jedi-council-1.jpg]
+- Even after Order 66, Quinlan Vos still remembers the lessons of Mace Windu. Mace teleports himself to behind of Quinlan Vos. (Legends) (issue unknown (source not named in thread)) [panel: panels/mace/mace-after-order-66-quinlan-vos-still-remembers-1.jpg; panels/mace/mace-after-order-66-quinlan-vos-still-remembers-2.jpg]

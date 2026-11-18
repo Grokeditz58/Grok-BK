@@ -1,0 +1,176 @@
+# Star Wars: Legacy #48 — "Extremes, Part One" (May 2010)
+
+- Cover: Jan Duursema ("CADE SKYWALKER: SITH HUNTER!", Cade vs. red-tattooed Sith amid skull-staked droids). Story John Ostrander & Jan Duursema, script Ostrander, pencils Duursema, inks Dan Parsons, colors Brad Anderson, letters Michael Heisler.
+- Pages read: p1–24 (all), hand-read 2026-11-03.
+
+## Crawl (p2)
+> "A rescue effort by the combined forces of deposed Emperor Roan Fel and the Galactic Alliance managed to save but a fraction of the population of the planet Dac before the toxins created by Sith scientist Vul Isen wiped out every life form there."
+— Star Wars: Legacy #48, p. 2
+
+> "Meanwhile, the Sith also moved against Emperor Fel and his Imperial Knights as they met with representatives of the Jedi Council to forge a treaty. At the same time, Darth Maladi attempted to sway Cade Skywalker to the dark side by poisoning the love of his life, Deliah Blue. Both attacks ended in setbacks for the Sith."
+— Star Wars: Legacy #48, p. 2
+
+> "But a greater calamity faces the Sith Order: their emperor, Darth Krayt, who was supposedly healing in a stasis chamber, has disappeared . . ."
+— Star Wars: Legacy #48, p. 2
+
+## Korriban — Krayt's sanctum (p3–4)
+> "KORRIBAN, DARTH KRAYT'S SANCTUM..." (caption) / "I CANNOT SENSE LORD KRAYT'S PRESENCE IN THE FORCE." (Wyyrlok) / "SOMEONE KILLED HIM... AND TOOK HIS BODY." (Wyyrlok)
+— Star Wars: Legacy #48, p. 3
+
+> "FOR THE GOOD OF HIS VISION, FOR THE GOOD OF THE ONE SITH, LORD KRAYT'S DEMISE MUST BE KEPT A SECRET, DARTH NIHL." / "UNTIL A NEW LEADER CAN BE DETERMINED, I SHALL LEAD IN HIS NAME. YOU SHALL SERVE IN MY FORMER PLACE AS MY ADVISOR." (Wyyrlok) / "THEN I SHOULD ADVISE YOU, MY LORD, THAT DARTH TALON WAS IN THE CHAMBER WHEN I DISCOVERED LORD KRAYT MISSING..." / "...SHE GUARDED THE DOOR AND SAW NO ONE ELSE PASS. OR, SO SHE TOLD ME." (Nihl) / "STRANGE THAT SHE IS MISSING NOW." (Wyyrlok)
+— Star Wars: Legacy #48, p. 3
+
+> "I ALWAYS FELT THAT SHE WOULD BETRAY LORD KRAYT. FIND HER. QUESTION HER. I MUST RETURN TO CORUSCANT." / "TEND TO THE EMPIRE, LORD WYYRLOK. I WILL TEND TO DARTH TALON." (Wyyrlok / Nihl — p3 last panel speaker order flag: second balloon is Nihl's reply)
+— Star Wars: Legacy #48, p. 3
+
+> "I KILLED YOU..." / "SO WHERE ARE YOU?!" (Wyyrlok, alone; flashback of Wyyrlok Force-lightning Krayt in stasis)
+— Star Wars: Legacy #48, p. 4
+
+- Key reveal/power: p4 flashback shows Wyyrlok killed Krayt with Force lightning in the stasis chamber (lightning shattering Krayt's armor). Wyyrlok promotes Nihl to his advisor (Hand) role; Krayt's death kept secret.
+
+## Agamar aftermath (p5–6)
+> "THE PLANET AGAMAR. THREE DAYS AGO, EMPEROR FEL MET JEDI ENVOYS HERE TO BROKER AN ALLIANCE, BUT SITH IMPERIAL FORCES ATTACKED, LEAVING DEATH IN THEIR WAKE." (caption)
+— Star Wars: Legacy #48, p. 5
+
+> "THAT'S THE LAST OF THEM, BOKAR. THESE TWO ARE DEAD. STILL NO SIGN OF FEL." (Yuln) / "HE MAY HAVE ESCAPED. BUT HIS DAUGHTER WAS CAPTURED, AND WILL SOON BE ON HER WAY TO CORUSCANT." (Bokar) / "AND MANY JEDI AND IMPERIAL KNIGHTS DIED, YULN, PROVING THEY ARE WEAKER THAN WE SITH." / "SITH PERISHED AS WELL, BOKAR." / "WEAKLINGS! BETTER THEY BE CULLED FROM THE RANKS OF THE ONE SITH!" / "THE WEAK WILL ALWAYS PERISH." (Bokar/Yuln, speakers inferred from address — flag)
+— Star Wars: Legacy #48, p. 5
+
+> "YAAAAH!" / "UHK!" (Rasi Tuum ambushes a Sith from the grass)
+— Star Wars: Legacy #48, p. 6
+
+> "THEY HAVE HER. THE SITH HAVE PRINCESS MARASIAH! I FAILED MY DUTY, MASTER RASI TUUM!" (Azlyn Rae) / "IT IS THE WILL OF THE FORCE, AZLYN RAE. JUST AS IT IS THE WILL OF THE FORCE THAT YOUR ARMOR PROTECTED YOU. AS IT IS THAT WE FOUND THIS SHIP." (Rasi Tuum) / "THEN IT IS THE WILL OF THE FORCE THAT WE FIND THE PRINCESS AND RESCUE HER! IF YOU CAN EVEN WALK." / "I...CAN WALK..." (Azlyn) / "...BUT TO LOCATE THE PRINCESS WILL BE ALMOST IMPOSSIBLE, AZLYN -- LET ALONE RESCUE HER! BETTER TO GET TO BASTION. TELL YOUR EMPEROR ABOUT THE PRINCESS SO THAT HE KNOWS." (Rasi Tuum)
+— Star Wars: Legacy #48, p. 6
+
+> "MY DUTY DEMANDS THAT I TRY, MASTER." (Azlyn) / "DETERMINED AS EVER, MY FORMER APPRENTICE. VERY WELL, MASTER RAE. WE WILL TRY." (Rasi Tuum)
+— Star Wars: Legacy #48, p. 6
+
+- Note p6: speaker split on "THEN IT IS THE WILL... IF YOU CAN EVEN WALK" — likely Azlyn's first sentence and Rasi's taunt merged; flag. Feat: Rasi Tuum kills a Sith (Yuln or Bokar's companion, flag) by surprise lightsaber strike despite own injuries. Azlyn = Rasi's former apprentice, now "Master Rae."
+
+## Coruscant — Marasiah delivered (p7–9)
+> "CORUSCANT. ONE WEEK LATER. THE FIRST SITH IMPERIAL STRIKE FORCE, LED BY THE WAR HAMMER, HAS RETURNED FROM AGAMAR, BRINGING WITH IT A PRISONER." (caption)
+— Star Wars: Legacy #48, p. 7
+
+> "MOFF YAGE, I KNOW THAT ONCE YOU SERVED MY FATHER. I CAN SENSE YOUR DISTASTE FOR WHAT YOU HAVE BEEN FORCED TO DO. YOU KNOW WHAT WILL BECOME OF ME IN THE HANDS OF THE SITH." / "I BEG OF YOU -- HELP ME ESCAPE. DEFECT!" (Marasiah Fel) / "I CANNOT, PRINCESS. THE PUNISHMENT FOR MY DEFECTION WOULD RAIN DOWN ON MY DAUGHTER." / "YOUR FATHER ESCAPED US. YOU ARE ALL I HAVE TO SHOW FOR THIS OTHERWISE BOTCHED MISSION." (Yage) / "I MISJUDGED YOU, MOFF. YOU HAVE NEITHER THE HONOR NOR THE COURAGE I THOUGHT YOU POSSESSED." (Marasiah)
+— Star Wars: Legacy #48, p. 7
+
+> "MOFF YAGE. I AM DARTH HAVOK, AN INQUISITOR SERVING DARTH KRAYT. THE PRISONER IS TO COME WITH ME TO KORRIBAN FOR QUESTIONING." (Havok) / "MY ORDERS, SITH, CAME FROM LORD REGENT VEED, AND IT IS INTO HIS HANDS I AM TO DELIVER THE PRISONER!" (Yage) / "THE COMPETENCE AND LOYALTY OF THE MOFFS, INCLUDING THE REGENT, ARE IN QUESTION. SOMEONE OBVIOUSLY WARNED ROAN FEL AT THE LAST MOMENT AND UNTIL WE KNOW WHO THAT PERSON IS, EVERYONE IS UNDER SUSPICION." / "HER IMPERIAL HIGHNESS COMES WITH ME." (Havok)
+— Star Wars: Legacy #48, p. 8
+
+> "I DON'T THINK SO. MY ORDERS WERE THAT THE PRINCESS SHOULD BE BROUGHT TO ME." / "I DON'T THINK THAT YOU HAVE THE AUTHORITY TO MAKE THAT DECISION, LORD REGENT VEED." (Veed / Havok) / "I AM THE REGENT AND, IN THE ABSENCE OF DARTH KRAYT OR DARTH WYYRLOK, I AM THE THRONE." (Veed) / "MY ORDERS COME DIRECTLY FROM DARTH WYYRLOK. IF YOU HAVE A PROBLEM WITH HIS ORDERS, I SUGGEST YOU TAKE IT UP WITH HIM UPON HIS RETURN." / "COME, PRINCESS." (Havok)
+— Star Wars: Legacy #48, p. 8
+
+> "BY THE EMPEROR'S BLACK BONES -- HOW DID YOU SCREW THIS UP?!" (Veed) / "WE WERE BETRAYED! SOMEONE REACHED FEL AND WARNED HIM, GIVING HIM JUST ENOUGH TIME TO SLIP THROUGH OUR FINGERS! ONLY SHEER LUCK NETTED US THE PRINCESS!" (Yage)
+— Star Wars: Legacy #48, p. 9
+
+> "WE'VE LOST ANY CONTROL WE EVER HAD, VEED! THE SITH TWIST THOSE WHO SHOULD SERVE THE EMPIRE TO SERVE THEIR WILL! SOON WE WILL ALL CALL OURSELVES "SITH"! "ONE EMPIRE, ONE SITH."" (Yage) / "BE WARY, RULF -- TO SOME THAT MIGHT SOUND LIKE TREASON." (Veed) / "BE WARY YOURSELF, MORLISH -- OF A SITH SABER THROUGH YOUR BACK! THE MOMENT THEY DON'T NEED YOU, THEY WILL GUT YOU!" (Yage)
+— Star Wars: Legacy #48, p. 9
+
+> "I'LL TELL OUR DAUGHTER THAT YOU ASKED AFTER HER AND WERE PLEASED TO LEARN SHE SURVIVED THE MISSION. GUNNER WON'T BELIEVE IT, OF COURSE, BUT CIVIL LIES ARE ALL SHE HAS EVER HAD FROM US." / "NOW, IF YOU'LL BOTH EXCUSE ME, I HAVE NEW ORDERS. I MUST READY THE FLEET TO DEPART IMMEDIATELY." (Yage, to Nyna Calixte)
+— Star Wars: Legacy #48, p. 9
+
+> "AND WHERE HAVE YOU BEEN? YOU'VE BEEN GONE A LONG TIME, AND NONE OF YOUR STAFF COULD TELL ME WHERE!" (Veed) / "I WAS IN THE UNDERCITY, TRYING TO GAIN INTEL AS TO WHETHER OR NOT KRAYT WAS DEAD OR ALIVE -- AS YOU ORDERED." (Nyna Calixte) / "NEW MISSION, NYNA. FIND OUT WHO THIS TRAITOR IS!" (Veed) / "I'LL GIVE IT MY HIGHEST PRIORITY." (Nyna)
+— Star Wars: Legacy #48, p. 9
+
+- Notes: Rulf Yage and Nyna Calixte are Gunn Yage's parents ("OUR DAUGHTER"). Dramatic irony: Nyna (Morrigan Corde) is the likely leak who warned Fel (flag — not stated). New roster candidate: Darth Havok (Inquisitor; red-eyed, masked).
+
+## Daluuj — Cade hunts Isen (p10–12)
+> "THE PLANET DALUUJ." / "LIGHTSABERS FLASH AGAINST SULFUROUS SKIES. CADE SKYWALKER'S PERSONAL WAR AGAINST THE SITH HAS BROUGHT HIM HERE...SEARCHING..." (captions) / "WHERE IS HE?! WHERE IS VUL ISEN?!" / "THE BUTCHER OF DAC! WHERE IS HE?" (Cade) / "THE DEAD DON'T NEED TO KNOW, JEDI-- UKK!" (Sith)
+— Star Wars: Legacy #48, p. 10
+
+> "I... ...AM NOT... ...A JEDI!" / "I'M DONE ASKING NICELY, MAGGOT! GIVE ME VUL ISEN!" (Cade) / "JEDI, OR NOT, I'LL LIGHT YOUR FUNERAL PYRE MYSELF!" (horned tattooed Sith)
+— Star Wars: Legacy #48, p. 11
+
+> "YOU WANT TO HURRY IT UP, JARIAH?! WE'LL HAVE MORE STORMTROOPERS -- OR MAYBE SITH -- ON US BEFORE YOU GET THAT CHARGE RIGGED!" / "AND I DON'T CARE WHAT NAXY SAID -- ISEN'S LONG GONE FROM HERE!" (Deliah Blue) / "THROTTLE BACK, BLUE --" (Jariah Syn)
+— Star Wars: Legacy #48, p. 11
+
+> "--GOOD "BOOM" IS DELICATE WORK!" / "BUT YEAH, IT DOES SEEM LIKE NAXY'S SOLD US DAY-OLD INTEL -- AGAIN! DOPA-MEEKIE KOOCHOO!" (Jariah) / "CADE'S BEEN ON A TEAR EVER SINCE HE LEARNED THIS ISEN WAS THE ONE WHO POISONED DAC. GOT SOMETHING ELSE GNAWING AT HIM TOO, BUT HE AIN'T TOLD ME WHAT. IT'S LIKE HE WANTS TO KILL EVERY SITH IN THE GALAXY ALL BY HIMSELF." / "THAT WORRIES ME MORE THAN A LITTLE..." (Jariah, flag — dreadlocked figure in p12 top-right panel)
+— Star Wars: Legacy #48, p. 12
+
+> "ME TOO. I MEAN, WE'VE BEEN REAL TIGHT EVER SINCE WAYLAND -- AND THAT'S BEEN RE GRANCHA -- BUT WE AIN'T TALKED A WHOLE LOT." / "MAKES ME WONDER WHAT CADE'LL DO WHEN WE DO CATCH UP TO ISEN. IF WE DO." (Deliah) / "I HAVE KILLED MORE POWERFUL JEDI THAN YOU! YOU ARE NOTHING! YOU ARE DEAD!" (Sith) / "YOU SITH JUST DON'T LISTEN VERY GOOD, DO YOU?" (Cade)
+— Star Wars: Legacy #48, p. 12
+
+- Feat: Cade fights multiple Sith simultaneously on Daluuj (p10–12), killing at least one. Power statement: tattooed Sith claims to have "KILLED MORE POWERFUL JEDI THAN YOU" (boast).
+- Speaker flag p12: the two dreadlocked men (Jariah Syn vs. top-right) — top-right with green eyes & beads may be Jariah too; left panel worker with "BOOM" also Jariah. Treat as Jariah, flag.
+
+## Daluuj — Mursto (p13–14)
+> "TELL YOU WHAT -- RIGHT NOW, MY PYROMAN'S INSIDE SETTING THIS PLACE TO BLOW. YOU TELL ME WHERE ISEN IS -- WHERE HE KEEPS HIS TOXINS -- AND YOU GET TO LIVE." (Cade) / "THE TRUTH WILL DO YOU NO GOOD. TRUE, THIS WAS ISEN'S LAB, BUT HE IS NO LONGER HERE -- NOR HAS HE LEFT HIS SECRETS BEHIND." / "VUL ISEN'S KNOWLEDGE IS THE SOURCE OF HIS POWER, AND HE DOES NOT BELIEVE IN SHARING HIS POWER. THE SECRETS TO THE PLANET-DESTROYING TOXINS ARE ISEN'S ALONE." (Mursto)
+— Star Wars: Legacy #48, p. 13
+
+> "YOUR INSTINCTS WERE SOUND, CADE. REMOVE ISEN AND THE SITH WILL BE DELIVERED A SEVERE BLOW." (Wolf Sazen) / "YEAH. TRICK IS FINDING HIM. AND WE'RE NO CLOSER!" (Cade)
+— Star Wars: Legacy #48, p. 13
+
+> "HEY, SYN, YOU GOT THE CHARGES SET?" (Cade) / "YUP. NO STOPPING IT NOW. I'VE LEFT JUST ENOUGH TIME TO GET TO THE MYNOCK. DON'T STOP TO CHAT." (Jariah) / "GAGGALAK MURSTO! YOU GAVE YOUR WORD, SKYWALKER, THAT I WOULD LIVE!" (Darth Mursto) / "IF YOU TOLD ME WHERE TO FIND ISEN. YOU DIDN'T." (Cade)
+— Star Wars: Legacy #48, p. 14
+
+> "THAT WAS... NOT RIGHT, CADE. YOUR ENEMY WAS HELPLESS." (Wolf Sazen) / "YEAH? THEN YOU GO BACK AND SAVE HIM, MASTER. FOR MY CREDS, NO SITH THAT LIVES IS EVER HELPLESS." / "I ONLY FACE MY ENEMIES ONCE." (Cade)
+— Star Wars: Legacy #48, p. 14
+
+- Feat: Cade defeats the tattooed Sith ("Gaggalak Mursto" — likely self-name "Darth Mursto", flag spelling/naming; "GAGGALAK" may be an exclamation) and leaves him to die in Jariah's demolition of Isen's former lab. Characterization: Cade's ruthless turn; Wolf Sazen objects. (Speaker correction: horned Jedi is Wolf Sazen, confirmed #49 p13 "MASTER SAZEN" / p21 "CADE AND WOLF".) New roster candidate: Mursto (Sith, Daluuj).
+
+## Da Soocha/Nap'du massacre (p15–18)
+> "A FEW DAYS LATER." / "THE FIRST SITH IMPERIAL STRIKE FORCE, LED BY THE WAR HAMMER, SITS IN ORBIT ABOVE THE MOON NAPDU AND THE PLANET DA SOOCHA." / "MOFF YAGE COMMANDS, BUT HE IS NOT IN CHARGE." / "BELOW ON NAPDU LIES THE HUTT TEMPLE SPA MAYA ARMUS, RUN BY AZZIM ANJILIAC ATIRUE." (captions)
+— Star Wars: Legacy #48, p. 15
+
+> "MY LORDS, TO WHAT DO WE OWE THE PLEASURE OF THIS VISIT BY AN IMPERIAL FLEET?" / "HAVE YOU COME TO AVAIL YOURSELVES OF THE SPA AND THE SACRED WATERS OF DA SOOCHA? VERY SOOTHING, SIRS." (Azzim, via Twi'lek, flag) / "I AM NOT HERE FOR THE SPA -- I'M HERE TO DESTROY IT. YOU, AZZIM ANJILIAC ATIRUE, ARE CHARGED WITH GIVING MON CALAMARI REFUGE ON DA SOOCHA." (Azard, hologram) / "MON CALAMARI? ON DA SOOCHA? REALLY? I ASSURE YOU, MY LORD, THAT I KNOW NOTHING OF THAT." / "SPARE US YOUR LIES." (Azard)
+— Star Wars: Legacy #48, p. 15
+
+> "DID YOU RECORD ALL THAT? GOOD. TRANSMIT IT TO NAL HUTTA -- TO MY UNCLE VEDO. THEN ESCAPE IF YOU CAN." / "IF NOT, XANIF, PREPARE TO DIE." (Azzim to blonde Twi'lek)
+— Star Wars: Legacy #48, p. 15
+
+> "ALL IS READY. YOU CAN BEGIN, LORD AZARD." (Vul Isen, flag — skull-faced figure) / "MOFF YAGE, SIGNAL THE BOMBERS TO UNLEASH THE TOXIN ON DA SOOCHA. THEN BEGIN THE BOMBARDMENT OF NAPDU. FIGHTERS WILL INTERCEPT ALL CRAFT TRYING TO ESCAPE THE MOON." / "AFTER THE BOMBARDMENT IS COMPLETE, DISPATCH STORMTROOPERS TO MAKE CERTAIN THERE ARE NO SURVIVORS." (Azard) / "DON'T YOU THINK THAT'S OVERKILL, LORD AZARD?" (Yage) / "THOSE ARE MY ORDERS, MOFF YAGE. SEE THAT THEY ARE CARRIED OUT." (Azard)
+— Star Wars: Legacy #48, p. 16
+
+> "BOMBER SQUADRON QUAD VICTOR COMMENCING BOMBING RUN." / "INSERTION OF TOXINS TO DA SOOCHA COMPLETE." / "SQUADRON QUAD VICTOR. MISSION ACCOMPLISHED. RETURNING TO BASE." (pilot comms)
+— Star Wars: Legacy #48, p. 16
+
+> "TURBOLASER BATTERIES, LOCK TARGETS ON THE MOON NAPDU." (gunner) / "COMMENCE FIRING." (Yage)
+— Star Wars: Legacy #48, p. 17
+
+> "MOFF YAGE DOES NOT WITNESS THE DEVASTATION CLOSE UP, BUT HE KNOWS THE WAR HAMMER'S GUNS DO NOT DISCRIMINATE." / "WEALTH AND POWER HAVE NO MEANING. SACRED MEANS NOTHING." / "HE WONDERS -- ON AWAKENING THAT MORNING, DID AZZIM THE HUTT SENSE IT WAS HIS LAST DAY?" (captions)
+— Star Wars: Legacy #48, p. 18
+
+> "DID HE TAKE THE SACRED WATERS AND PRAY TO HUTT DEITIES, GIVING THANKS FOR ANOTHER SUNRISE?" / "IN HIS FINAL MOMENTS, DID HE CURSE THE EMPIRE?" / "OR DID HE OFFER A PRAYER FOR THOSE TRYING TO ESCAPE HIS FATE?" (captions)
+— Star Wars: Legacy #48, p. 18
+
+- Scale/feat: Isen's toxin seeded into Da Soocha's oceans by bombers; War Hammer turbolasers level Maya Armus on Nap'du (Azzim presumably killed). New roster candidates: Azzim Anjiliac Atirue (Hutt), Xanif (Twi'lek aide), Vedo (Hutt uncle, mentioned).
+
+## Skull Squadron / Joker Squad (p19–20)
+> "SKULL SQUADRON, THIS IS RAUDER. TARGETS ACQUIRED -- AND CLASSIFIED AS ENEMY COMBATANTS. TAKE THEM OUT." (Rauder, comm) / "YOU CAN'T BE SERIOUS! THOSE ARE CIVILIAN NON-COMBATANTS!" (pilot) / "CONFIRMED, SKULL LEADER. THEY HAVE NO WEAPONS." (pilot) / "THEN KILLING THEM SHOULD BE EASY." (red-skinned pilot, flag) / "FOLLOW YOUR ORDERS, SKULLS. TAKE THEM OUT." (Skull Leader — female pilot; Gunn Yage, flag)
+— Star Wars: Legacy #48, p. 19
+
+> "WHEN THE POUNDING OF THE TURBOLASERS CEASES, TROOPS ARRIVE." (caption) / "SERGEANT HARKAS, WHAT THE KARK ARE WE DOING HERE? THE BOMBARDMENT KILLED EVERYTHING." (Trask) / "I DON'T LIKE IT ANY MORE THAN YOU DO, CORPORAL TRASK. BUT DON'T LET THE SQUAD HEAR YOU TALKING LIKE THAT." / "WE DON'T GIVE THE ORDERS -- WE JUST FOLLOW 'EM. AND OUR ORDERS SAY WE PUT A BLAST INTO EVERY BODY WE SEE, TO MAKE CERTAIN." / "COMPLETE YOUR MISSION, JOKER SQUAD." (Harkas)
+— Star Wars: Legacy #48, p. 20
+
+> "WELL. THIS WORKED OUT VERY NICELY." / "COMMANDER YAGE, YOU MAY ORDER A RECALL. A GREAT VICTORY! THE HERO OF OSSUS IS NOW THE CONQUEROR OF DA SOOCHA!" (Azard) / "YES. VICTORY..." (Yage)
+— Star Wars: Legacy #48, p. 20
+
+- Roster: Joker Squad (Harkas, Trask Ulgo) and Rauder already in roster? check. Skull Leader identity = Gunn Yage (flag).
+
+## Mynock — Luke's ghost (p21–22)
+> "THE MYNOCK, A FEW HOURS LATER..." / "GOT A DIRECTION FOR US TO GO YET, OR SHOULD WE JUST CONTINUE FLYING "SOMEWHERE"?" (Jariah) / "I DON'T KNOW! I CAN'T FIGURE OUT HOW TO GET AHEAD OF ISEN..." (Cade)
+— Star Wars: Legacy #48, p. 21
+
+> "THAT'S BECAUSE YOU HAVE NO PLAN, CADE. YOU DON'T THINK THINGS THROUGH." / "IF YOU COMPLETED YOUR TRAINING, YOU COULD FOCUS YOUR THOUGHTS AND PERHAPS ANTICIPATE--" (Luke, Force ghost) / "OR MAYBE YOU COULD TELL ME WHERE ISEN'S GOING TO BE?!" / "NO, WAIT -- THAT WOULD BE TOO EASY! JEDI LIKE TO DO THINGS THE HARD WAY!" / "OR MAYBE ANOTHER COUPLA PLANETS COULD DIE WHILE I FINISH JEDI SCHOOL! IS THAT WHAT YOU WANT?" (Cade) / "YOU HAVE A GREAT TRIAL COMING. YOU NEED TO BE READY..." (Luke) / "UH... CADE?" (Jariah)
+— Star Wars: Legacy #48, p. 21
+
+> "YOU CAN'T SEE HIM, CAN YOU?" (Cade) / "NO." (Jariah) / "I AM NOT CRAZY, JARIAH..." (Cade) / "NO, NO, OF COURSE YOU'RE NOT. OH HEY! IT'S A COMM FROM QUEEN JOOL. LEMME PUT IT ONSCREEN FOR YA." (Jariah)
+— Star Wars: Legacy #48, p. 22
+
+> "CADE, TERRIBLE THINGS HAVE TRANSPIRED. I NEED YOU TO MEET WITH ME AND VEDO ANJILIAC ATIRUE ON NAL HUTTA. NOW. WE'LL EXPLAIN THERE -- NOT OVER THE COMM." (Queen Jool) / "ON OUR WAY, JOOLS." (Cade) / "THOUGHT YOU TOLD ME YOU'D LAID OFF THEM DEATHSTICKS?" (Jariah) / "NOT ON DEATHSTICKS." / "NOT CRAZY EITHER!" (Cade)
+— Star Wars: Legacy #48, p. 22
+
+- Prophecy-ish: Luke's ghost warns of "A GREAT TRIAL COMING." Only Cade perceives Luke.
+
+## Korriban tombs — Talon & Krayt (p23–24)
+> "KORRIBAN. VALLEY OF THE DARK LORDS." / "SHE HAS ELUDED HIM FOR TOO LONG--" / "...HE KNOWS HIS PREY -- DARTH TALON -- IS INSIDE THE TOMBS. HE CAN SENSE IT..." / "...AS THE TUK'ATA SENSES HIM." (captions) / "NO, BEAST OF THE TOMBS -- GUARDIAN. I AM NOT YOUR ENEMY." / "MY WILL PREVAILS HERE!" (Nihl) / "SHE CANNOT EVADE HIM FOR MUCH LONGER." (caption)
+— Star Wars: Legacy #48, p. 23
+
+> "YES, HE IS COMING. LORD NIHL HAS FOUND HIS WAY INTO THESE TOMBS. BUT IT DOES NOT MATTER." / "HE WILL FIND YOU -- BUT ONLY WHEN I ALLOW IT. YOU ARE THE FAITHFUL ONE -- PATIENT. YOU HAVE LONG DESIRED POWER. WHAT YOU KNOW --" / "-- WHAT YOU SENSED -- WILL GRANT YOU THE POWER YOU SEEK." (Krayt) / "THEY KNOW -- LORD WYYRLOK AND NIHL. YOUR SECRET WILL BE REVEALED. IT IS ONLY A MATTER OF TIME..." / "...DARTH KRAYT." (Talon) / "TIME NO LONGER MATTERS. THE REBIRTH HAS BEGUN. ALL WILL BE AS I HAVE FORESEEN." (Krayt)
+— Star Wars: Legacy #48, p. 24
+
+- Feat/power: Nihl subdues a tuk'ata tomb guardian by Force dominion (p23). Krayt survives Wyyrlok's lightning — alive, desiccated, "REBIRTH HAS BEGUN" (p24). Talon has been hiding/aiding Krayt in the Korriban tombs. p24 first-panel speaker inferred as Krayt (off-panel), flag.
+
+## Summary flags
+- New roster: Darth Mursto, Xanif, Vedo Anjiliac Atirue added (Havok, Azzim, Harkas, Trask Ulgo, Rauder already present). Candidates were: Darth Havok (Inquisitor), Mursto (Sith, Daluuj), Azzim Anjiliac Atirue, Xanif, Vedo Anjiliac Atirue.
+- Uncertain speakers: p5 Bokar/Yuln split; p6 Azlyn/Rasi balloon split; p12 Jariah panels; p15 Azzim vs Twi'lek; p16 skull-faced figure (Isen?); p19 Skull pilots (Gunn Yage = Skull Leader inferred); p24 off-panel Krayt.
+- Continuity: #47 crawl "Krayt's death" vs. #48 p4 reveal Wyyrlok killed him and p24 Krayt alive.

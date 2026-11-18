@@ -1,0 +1,96 @@
+Tulak Hord — Wookieepedia extraction
+=====================================
+
+Page requested: https://starwars.fandom.com/wiki/Tulak_Hord
+Final URL: https://starwars.fandom.com/wiki/Tulak_Hord
+Page label: Legends (the article is categorized/displayed as “Legends articles”); no canon label was shown.
+Scope: Article text, the Powers and abilities section, and the Notes and references section. The page was scrolled through to its reference list.
+
+How to read the labels
+----------------------
+- DEMONSTRATED FEAT: the article describes an action attributed to Hord, but the article itself does not show a historical flashback of it. “Described/reported feat” is used where the source is a character's testimony or a reference work rather than an on-screen depiction.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- POWER STATEMENT: an assessment, title, or claim about capability; not itself a demonstrated feat.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- NARRATOR/ARTICLE PROSE: Wookieepedia's narrative summary, sourced to the cited work.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- CHARACTER TESTIMONY: an in-universe statement by Khem Val or Kreia.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- CODEX/REFERENCE ENTRY: a statement attributed to an SWTOR codex, Encyclopedia, or other reference material.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- TOMB/INSCRIPTION: the article does not quote or attribute any tomb inscription. It discusses the tomb, its traps, and its contents, but those are not evidence of a Hord feat unless separately labeled below.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Direct power statements and quotations
+---------------------------------------
+1. POWER STATEMENT — CHARACTER TESTIMONY (Kreia, Star Wars: Knights of the Old Republic II: The Sith Lords; article ref. [3])
+   “Tulak Hord was ‘the greatest lightsaber duelist of the Sith Lords’.”
+   The article says Kreia also called his skill “remarkable even for his time, when many true lightsaber masters lived.”
+   Assessment: in-universe comparative praise, not a directly demonstrated duel in the article.
+
+2. POWER STATEMENT — CHARACTER TESTIMONY (Kreia, KOTOR II; ref. [3])
+   “If you were to face an ancient Sith Lord in combat, you would learn that we are as children playing with toys compared to the prowess of the old masters.”
+   The article presents this as Kreia referring to Hord's lightsaber prowess. It is a general comparison and testimony, not a feat shown for Hord.
+
+3. DESCRIBED/REPORTED FEAT — CHARACTER TESTIMONY (Khem Val, Star Wars: The Old Republic; article ref. [2])
+   “On Yn, the Jedi had laid siege to an Imperial stronghold. Tulak Hord broke the siege single-handedly! And then he pressed forward to Jedi-held Chabosh, leaving nothing but Jedi blood in his wake. I never lacked Force to feed on in those days.”
+   The article places this in the biography and later summarizes that over a thousand Jedi perished in the Yn and Chabosh battles. This is Khem Val's in-universe report; it is not a scene of the historical battle shown in the article.
+
+4. DESCRIBED/REPORTED FEAT — CHARACTER TESTIMONY (Khem Val, SWTOR Encyclopedia material; article ref. [10])
+   “The great Tulak Hord once pulled a ship this size from the sky.”
+   The article uses this as evidence of extraordinary telekinetic competence. It is a reported power statement, not a directly demonstrated event in the article.
+
+5. POWER STATEMENT — CODEX/REFERENCE ENTRY (Star Wars: The Old Republic Encyclopedia; article ref. [10])
+   The article calls Hord “extraordinarily competent” in telekinesis and says he was “also a master of sorcery.” These are reference-summary assessments, not independent demonstrations.
+
+6. POWER STATEMENT — NARRATOR/ARTICLE PROSE (primarily Star Wars: The Old Republic; article ref. [2])
+   The article says Hord mastered lightsaber combat and manipulation of the Force, was nearly unrivaled, and earned the titles Lord of Hate, Master of the Gathering Darkness, and Dark Lord of the Sith. These are sourced narrative characterizations.
+
+Concrete feats and attributed actions
+--------------------------------------
+7. DESCRIBED FEAT — NARRATOR/ARTICLE PROSE, sourced to SWTOR (ref. [2])
+   Hord assembled a massive army with Khem Val and led a campaign against rebellious militants on Yn and Chabosh, crushing them.
+
+8. DESCRIBED FEAT — NARRATOR/ARTICLE PROSE, sourced to SWTOR (ref. [2])
+   During battles, Hord used Sith rituals to drain strength from opponents and feed on it. This is an attributed action, not a quoted tomb inscription.
+
+9. DESCRIBED FEAT — NARRATOR/ARTICLE PROSE, sourced to SWTOR (ref. [2])
+   Hord went undefeated and slew those who challenged his might. The wording is broad biographical narration; no individual duel or tally is supplied here.
+
+10. DESCRIBED FEAT — NARRATOR/ARTICLE PROSE, sourced to SWTOR (ref. [2])
+    Hord's Sith sorcery included authoring tomes and crafting a personal holocron. The article says it was rumored that he knew a secret of eternal life; the rumor is not treated as a confirmed feat.
+
+11. DESCRIBED/QUALIFIED CLAIM — NARRATOR/ARTICLE PROSE, sourced to SWTOR (ref. [2])
+    After discovering and conquering the Dromund system, Hord was believed to have conquered more than one hundred worlds for the Empire. “Believed” is the article's qualifier; this is not presented as a directly demonstrated feat.
+
+12. DESCRIBED FEAT — NARRATOR/ARTICLE PROSE, sourced to a Khem Val account (ref. [4])
+    During his early years, Hord fought an honorable duel against the Dashade Khem Val. The article does not state a detailed result beyond Khem Val later becoming his ally/servant.
+
+13. ATTRIBUTED DEATH, NOT A POWER FEAT — NARRATOR/ARTICLE PROSE, sourced to SWTOR (ref. [2])
+    Ortan Cela killed Hord by stabbing him in the back, after which Veshikk Urk consumed the dying Sith Lord's Force energy.
+
+Tomb, inscription, and legacy checks
+-------------------------------------
+- No tomb inscription is quoted or identified as the source of a Hord feat on this article. Do not recast the biography or the tomb's existence as inscription evidence.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- The article says Hord's tomb contained writings, his holocron, and his mask; Revan later found the mask and crystals there (KOTOR, ref. [5]). Those are tomb/legacy facts, not demonstrations of Hord's combat power.
+- The article says the tomb was trapped and tested knowledge-seeking Sith. Revan navigated it; this is Revan's demonstrated action, not Hord's.
+  Source: Star Wars: Knights of the Old Republic [per Wookieepedia "Tulak Hord" rev 15192676, ref 5; per-sentence approximate match (1/2 sentences matched, min 0.67), verify]
+- Hord's spirit later manifested briefly on Yavin 4 (Shadow of Revan, ref. [7]). The article does not give a feat from that manifestation.
+
+Reference map as shown on the page
+----------------------------------
+[2] Star Wars: The Old Republic
+[3] Star Wars: Knights of the Old Republic II: The Sith Lords
+[4] Khem Val on The Old Republic Holonet (original site defunct)
+[5] Star Wars: Knights of the Old Republic
+[6] SWTOR — Codex: “Legacy of Tulak Hord”
+[7] Star Wars: The Old Republic: Shadow of Revan
+[8] SWTOR Sith Inquisitor mission: “The Secret of Tulak Hord”
+[9] SWTOR Sith Inquisitor mission: “The Dark Council”
+[10] Star Wars: The Old Republic Encyclopedia
+[11] Chris Anderson, “Tulak Hord” on ArtStation (backup link)
+[12] Knights of the Old Republic Campaign Guide
+[13] Tales of the Jedi — The Golden Age of the Sith 2
+
+Caution: These are claims and quotations as presented and sourced by the article. The page itself flags that it needs referencing, major additions/work, and updating; broad claims should not be upgraded beyond the source type noted above.

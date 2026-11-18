@@ -1,0 +1,132 @@
+{
+ "package": "egvv1996-quote-QA-v3-CP1-2026-11-09",
+ "created": "2026-11-09T19:05-06:00",
+ "scope": "4 of 51 EGVV crops; remaining 47 pending",
+ "audit": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/AUDIT-QUOTE-QA-v3-CP1-2026-11-09.md",
+ "items": [
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p138-scan088-shieldship-limits.jpg",
+   "status": "VERIFIED-CP1",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 88,
+   "scan": 88,
+   "printed": "138",
+   "native_boxes_LR": [
+    [
+     120,
+     425,
+     822,
+     1935
+    ],
+    [
+     864,
+     425,
+     1552,
+     920
+    ]
+   ],
+   "opening": "REPUBLIC ENGINEERING CORPORATION HEAT-RESISTANT",
+   "ending": "No additional shieldships have yet been built.",
+   "old_sha256": "cfddd6696da47855222fc516f15345e1eff571f62cb01acf9be939cae3743797",
+   "new_sha256": "2adcd6b5078f07879dc4b898f8d266d31b3e1d6f4deb6aa6f8259293f794b6c0",
+   "size": "702x2099",
+   "bytes": 598672,
+   "method": "native 200ppi pdfimages crop, stacked parts, visual word-for-word readback",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp1-20261109-190426/notes-relative: materials/148-.../quotes/egvv1996-p138-scan088-shieldship-limits.jpg"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p180-scan109-tie-limits-tight.jpg",
+   "status": "VERIFIED-CP1",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 109,
+   "scan": 109,
+   "printed": "180",
+   "native_boxes_LR": [
+    [
+     138,
+     1236,
+     832,
+     1972
+    ],
+    [
+     880,
+     395,
+     1570,
+     800
+    ]
+   ],
+   "opening": "TIE fighters have only sublight drives.",
+   "ending": "control through the hand-control unit is very difficult.",
+   "old_sha256": "f78a080ac113fd84d7f520e45c22f5d239db46aef9c67b215f91ad2b716b01f7",
+   "new_sha256": "4266c881732e2e8ccf4d0c939d4a7e8e9d49e53a42b7d87a986aaa69a4babe28",
+   "size": "694x1235",
+   "bytes": 362381,
+   "method": "native 200ppi pdfimages crop, stacked parts, visual word-for-word readback",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp1-20261109-190426/notes-relative: materials/148-.../quotes/egvv1996-p180-scan109-tie-limits-tight.jpg"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p174-scan106-tiecrawler-treads.jpg",
+   "status": "VERIFIED-CP1",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 106,
+   "scan": 106,
+   "printed": "174",
+   "native_boxes_LR": [
+    [
+     133,
+     1159,
+     822,
+     1314
+    ],
+    [
+     872,
+     425,
+     1558,
+     870
+    ]
+   ],
+   "opening": "The twin Santhe SSct power generators are attached to",
+   "ending": "and tread wheels are easily damaged by enemy fire.",
+   "old_sha256": "d7277f0664aaf1da8d79a1c52bcbf75004f58fee8a0d9b196ebab2c15f63036d",
+   "new_sha256": "cc78c3a7f50dfea44498f766f3e92e355569c8ef641221250606e4482853526a",
+   "size": "689x694",
+   "bytes": 165512,
+   "method": "native 200ppi pdfimages crop, stacked parts, visual word-for-word readback",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp1-20261109-190426/notes-relative: materials/148-.../quotes/egvv1996-p174-scan106-tiecrawler-treads.jpg"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p162-scan100-suncrusher-quantum-armor.jpg",
+   "status": "VERIFIED-CP1",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 100,
+   "scan": 100,
+   "printed": "162",
+   "native_boxes_LR": [
+    [
+     128,
+     420,
+     820,
+     1998
+    ],
+    [
+     868,
+     425,
+     1556,
+     878
+    ]
+   ],
+   "opening": "IMPERIAL SUPERWEAPON PROTOTYPE",
+   "ending": "one of the Maw's black holes.",
+   "old_sha256": "d6d1a62f758d870e2719ccd6dca435ad060b6d1874d8f5780238b6682d8a9991",
+   "new_sha256": "c407e8262865130c4860270426a35a8c9308c00426ef1841a1573c05ce7ec362",
+   "size": "692x2125",
+   "bytes": 567701,
+   "method": "native 200ppi pdfimages crop, stacked parts, visual word-for-word readback",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp1-20261109-190426/notes-relative: materials/148-.../quotes/egvv1996-p162-scan100-suncrusher-quantum-armor.jpg"
+  }
+ ]
+}

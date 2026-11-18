@@ -1,0 +1,123 @@
+Darth Maul (Legends) — research extraction
+
+Source/page checked
+- Requested URL loaded successfully; no fallback was needed.
+- Final URL: https://starwars.fandom.com/wiki/Darth_Maul/Legends
+- Page title: Darth Maul | Wookieepedia | Fandom
+- Article scope/qualification: the page is tagged as a Legends article and warns that it has multiple issues, needs major additions/updating, and has conflicting sources (Star Wars: Episode I The Phantom Menace, Star Wars: Obi-Wan, and Star Wars: Episode I Jedi Power Battles). Claims below are transcribed/paraphrased from this article only; bracketed numbers are the article's citations.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- I scrolled to and reviewed the article's “Notes and references” section. It contains a long numbered list (through ref. 113) including novels, comics, episodes, games, guides, and some defunct/backup web links.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Named duels and direct combat outcomes
+
+Qui-Gon Jinn — Tatooine
+- The article says Maul had a “short but intense duel” with Jedi Master Qui-Gon Jinn on Tatooine [11, 12, 25, 47, 51].
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Maul/Legends" rev 15661534 but it has no inline citation in its paragraph; approximate match 1.00, verify)
+- In the detailed “Duel on Tatooine” section, Maul engaged Jinn after months without facing a Jedi Master, had prepared for the encounter, and sensed Jinn tiring; Maul believed he could kill him [12, 25, 47]. The narrative says Jinn escaped by jumping onto the departing Naboo ship, so Maul did not complete his capture objective [11, 12, 25, 47, 51].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Darth Sidious later characterized Qui-Gon as “stronger” than Obi-Wan Kenobi [12, 25]. This is Sidious's opinion/scaling statement, not an independent feat.
+  Source: The Wrath of Darth Maul ; Star Wars Journal: Darth Maul [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 12,25; per-sentence approximate match (1/2 sentences matched, min 0.81), verify]
+
+Qui-Gon Jinn and Obi-Wan Kenobi — Naboo
+- The article states Maul fought both Jedi on Naboo, killed Jinn, and was then severed in half by Obi-Wan Kenobi [11, 12, 25].
+  Source: UNSOURCED on Wookieepedia (sentence found in "Darth Maul/Legends" rev 15661534 but it has no inline citation in its paragraph; approximate match 0.88, verify)
+- Detailed sequence: Maul activated both blades, fought the two Jedi in a “long and intense battle,” drove them from the hangar toward the Theed power generator, and separated them with the laser-wall corridor [11, 12].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Maul found an opening, struck Jinn in the face with the saberstaff's hilt, and impaled him through the abdomen [11, 25]. This is the concrete win over Jinn.
+  Source: Star Wars Journal: Darth Maul ; Star Wars: Episode I The Phantom Menace [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 25,11; approximate match 0.67, verify]
+- Against Obi-Wan, Maul Force-pushed him into the reactor shaft and kicked Kenobi's lightsaber into the pit [11, 12]. Kenobi used Jinn's lightsaber, leapt out, and bisected Maul with a fast horizontal slash [11, 47].
+  Source: Star Wars: Episode I The Phantom Menace ; The Wrath of Darth Maul ; "End Game" — Star Wars: Episode I The Phantom Menace novelization, 2012 edition [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 11,12,47; per-sentence approximate match (2/2 sentences matched, min 0.74), verify]
+- Sidious's post-fight assessment says Maul's failures were mental miscalculations rather than physical ones; he says Maul's “matchless prowess and skill” frightened the Jedi and that Maul did succeed in defeating Qui-Gon, while attributing that victory to Sidious's teaching/training [25]. This is a character assessment, not a neutral feat statement.
+- The article says Maul survived the bisection by using the Force to catch an air vent during his fall and remained alive through rage/hatred [12, 56]. The survival is presented as a feat; “indomitable will,” “immense rage,” and similar wording are narrative characterization.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Obi-Wan Kenobi — post-resurrection encounters
+- At Raydonia, Maul and Savage Opress lured Kenobi by slaughtering villagers and executing hostages. Maul used the Force to snatch Kenobi's lightsaber, while Savage knocked Kenobi unconscious [14].
+- In the cramped tanker fight, the article says Kenobi and Asajj Ventress were outmatched and retreated via an escape pod; Maul remained calm and said he could wait for revenge [14]. The surrounding narrative is a two-on-two encounter with Maul and Savage, not a clean solo Maul victory.
+- In later pursuit, Maul and Savage killed the Jedi with Kenobi and Plo Koon except for Koon and Kenobi; Maul survived Bruu Jun-Fan's choke attempt and fatally wounded him with his cybernetic legs [56].
+- On Mandalore, Maul disarmed Kenobi and suspended him in midair [21]. He then held Kenobi's ally Satine Kryze in a Force grip and killed her with the Darksaber while Kenobi watched [21]. This is an intimidation/Force-control feat, not a completed duel with Kenobi.
+- The article also states that, after rehabilitation, Maul's fighting ability appeared undiminished, including “besting Obi-Wan Kenobi” [14, 18]. The page's specific encounters often involve Maul with Savage or tactical circumstances; do not turn that summary wording into a claim of an unqualified solo win.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Darth Sidious
+- At age seventeen, the article says Maul came “incredibly close to besting” Sidious during the Hypori test despite a month of starvation, fatigue, and pain, while Sidious arrived in peak condition [12, 26]. This is a cited article statement, but “incredibly close” is evaluative rather than a demonstrated win.
+  Source: The Wrath of Darth Maul ; The Dark Side Sourcebook [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 12,26; approximate match 0.68, verify]
+- The article says that by 32 BBY Sidious sincerely viewed Maul's combat skills as unmatched by any Jedi, and that Maul's dueling prowess “may have been second only” to Sidious's [23, 79]. These are explicit scaling statements/opinions, not direct feats.
+  Source: Star Wars Chronicles: The Prequels [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 79; exact text match]
+- During the Mandalore confrontation, Sidious telekinetically pinned Maul and Savage to windows, then fought both. The article says Maul and Savage initially rivaled Sidious's dueling skill, but Sidious soon gained the upper hand, kicked Savage down, and stunned Maul with a Force push [21].
+- After Savage died, Maul briefly matched Sidious in a separate exchange with two blades and was winning a blade lock momentarily; Sidious then overpowered/disarmed him, slammed him telekinetically into stone surfaces, and tortured him with Force lightning [21]. Outcome: Sidious decisively won; Maul survived because Sidious had other plans.
+- The article says Maul once Force-pushed Sidious into a wall while Sidious was off-guard [21]. Treat this as a situational Force feat, not evidence of overall superiority.
+
+Savage Opress
+- The page describes Maul and Savage as brothers/partners. It explicitly summarizes that rehabilitated Maul was capable of “putting his brother Savage Opress in his place” [14, 18]. This wording is an assessment, not a narrated standalone duel result.
+  Source: Star Wars: The Clone Wars — "Revival" ; Star Wars: The Clone Wars — "Revenge" [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 18,14; exact text match]
+- The detailed “Duel with Sidious” account has Maul and Savage fighting Sidious together; Maul is temporarily stunned, Savage is killed, and Maul then fights Sidious alone [21].
+- Maul's stated relationship claim is “Always two there are, my brother—a Master, and an apprentice. And you are the apprentice” [18]. This is Maul asserting hierarchy, not proof of a measurable power gap.
+
+Ahsoka Tano
+- “Ahsoka” does not appear in the article's body text or in its headings/sections. The page provides no Ahsoka–Maul duel or comparison; none is supplied here.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Other concrete combat/Force feats recorded by the article
+
+Lightsaber and combat
+- The article says Maul became capable of massacring dozens of enemies and overpowering seasoned Jedi Masters [23, 56]. This is a broad summary; it is not a single identified scene.
+  Source: The Official Star Wars Fact File 1 MAU 1-4: Darth Maul ; Darth Maul: Shadow Hunter ; The Clone Wars: The Sith Hunters [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 78,23,56; approximate match 0.64, verify]
+- It describes him defending against blasterfire with a saberstaff or single blade, including laser blasts from a Jedi starfighter [19, 23, 34, 56].
+  Source: Darth Maul: Shadow Hunter ; Star Wars: Darth Maul (2000) ; Star Wars: The Clone Wars — "Eminence" ; The Clone Wars: The Sith Hunters [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 23,34,19,56; approximate match 0.61, verify]
+- It says he used a reverse Shien grip to block and counterattack Obi-Wan [11].
+- In the “Hunted by the Jedi” material, Maul and Savage easily eliminated the Scourge gang; in a later battle Maul killed Jedi Master Salmara after freeing Savage from carbonite [56, 64].
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Maul destroyed four General Grievous MagnaGuards on Zanbar, then attacked Grievous; Grievous kicked him back during their blade lock, and Maul ordered retreat [66].
+  Source: Darth Maul — Son of Dathomir 1 [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 66; approximate match 0.63, verify; agrees with the entry's own ref marker]
+- On Ord Mantell, Maul boarded Grievous's command ship, eliminated defending battle droids with Death Watch, subdued Grievous, and forced him to disable the droid signal [67]. This was a tactical capture with allies, not a clean solo duel.
+  Source: Darth Maul — Son of Dathomir 2 [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 67; per-sentence approximate match (1/2 sentences matched, min 0.64), verify; agrees with the entry's own ref marker]
+- Maul challenged Pre Vizsla to an honorable death match and won a long duel by beheading Vizsla with Vizsla's own weapon, the Darksaber [65].
+
+Force abilities
+- The article says Maul combined Force Grip and Force Choke, broke Hath Monchar during interrogation, activated controls with a flung piece of a wrecked droideka during the Naboo duel, and could pull weapons from multiple opponents [11, 23, 34].
+  Source: Darth Maul: Shadow Hunter ; The Wrath of Darth Maul ; Star Wars: Episode I The Phantom Menace ; Star Wars: Darth Maul (2000) [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 23,12,11,34; approximate match 0.87, verify]
+- Clone Wars-era examples listed: pulling part of Moorjhone's wall onto pursuers; pulling a several-ton Eta-class shuttle off a hill to trap Kenobi and Hondo's pirates; activating Savage's carbonite controls from a distance; Force-pushing Sidious while he was off-guard; blasting Kenobi away; and choking Kenobi unconscious when Kenobi was dizzy [18, 19, 21, 56, 63, 64].
+  Source: Darth Maul — Death Sentence 2 ; Star Wars: The Clone Wars — "Revival" ; Darth Maul — Death Sentence 4 ; The Clone Wars: The Sith Hunters ; Star Wars: The Clone Wars — "Eminence" ; Star Wars: The Clone Wars — "The Lawless" [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 63,18,64,56,19,21; approximate match 0.71, verify]
+- He maintained a Force choke on Satine while not looking and pulled her into saber range; the article identifies this as the Niman “Draw Closer” maneuver [21, 83].
+  Source: Star Wars: The Clone Wars — "The Lawless" ; The Jedi Path: A Manual for Students of the Force [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 21,83; approximate match 0.85, verify]
+- The article says Maul could run up to thirty meters per second [23, 88], hide his Force signature using Quey'tek meditation even near the Jedi Temple [2, 23], use mind tricks, invade minds for information, and use Battlemind/Force rage [13, 23, 26, 32, 42, 47]. These are cited capability statements.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+- Maul resisted a Force-lightning barrage from Nightsister Mighella, but Sidious was still able to torture him with Force lightning [21, 34]. The article explicitly limits the resistance.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Article-stated scaling and opinion (not feats)
+- Sidious: Maul's combat skills “unmatched by any Jedi” by 32 BBY; Maul perhaps second only to Sidious [23, 79].
+  Source: Darth Maul: Shadow Hunter ; Star Wars Chronicles: The Prequels [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 23,79; approximate match 0.88, verify]
+- Plagueis/Sidious discussion: Maul's abilities impressed Plagueis; Plagueis comments on Maul's mastery of Jar'Kai and calls the saberstaff design unnecessary but acknowledges the mastery [1].
+- The page calls Maul “among the greatest fighters in the history of the Sith” [23, 56, 78] and says he was “a fighting machine rather than a true apprentice” in the Plagueis/Sidious discussion [1]. These are evaluative/hype statements.
+- The article says enemies acknowledged Maul had become more powerful in the Force after resurrection, and Sidious believed the growth could eventually rival Sidious's own level if unchecked [13, 21]. This is explicitly an enemy/Sidious assessment, not a shown equal fight.
+  Source: Darth Maul — Death Sentence 1 ; Star Wars: The Clone Wars — "The Lawless" [per Wookieepedia "Darth Maul/Legends" rev 15661534, ref 13,21; approximate match 0.65, verify]
+- The article calls his telekinetic feats “delicate and remarkable,” his saber skill “exceedingly talented,” and his survival enabled by “immense rage and hatred.” These descriptors are retained as article language but should not be treated as separate feats.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Key cited sources named in the article's Notes and references
+- [1] Darth Plagueis
+- [11] Star Wars: Episode I The Phantom Menace
+- [12] The Wrath of Darth Maul
+- [13] Darth Maul — Death Sentence 1
+- [14] Star Wars: The Clone Wars — “Revenge”
+- [18] Star Wars: The Clone Wars — “Revival”
+- [19] Star Wars: The Clone Wars — “Eminence”
+- [21] Star Wars: The Clone Wars — “The Lawless”
+- [23] Darth Maul: Shadow Hunter (also The Essential Reader's Companion under the same reference grouping)
+- [25] Star Wars Journal: Darth Maul
+- [26] The Dark Side Sourcebook
+- [34] Star Wars: Darth Maul (2000)
+- [47] End Game — Star Wars: Episode I The Phantom Menace novelization (2012 edition)
+- [56] The Clone Wars: The Sith Hunters
+- [63] Darth Maul — Death Sentence 2
+- [64] Darth Maul — Death Sentence 4
+- [65] Star Wars: The Clone Wars — “Shades of Reason”
+- [66–68] Darth Maul: Son of Dathomir 1–4
+- [78–83, 88] additional guide/reference works named in the article's full reference list, including Fightsaber: Jedi Lightsaber Combat, Threats of the Galaxy, The Jedi Path, and related material.
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)
+
+Extraction boundary
+  Source: UNRESOLVED (sentence not found in current Wookieepedia article revision; primary source not identified)

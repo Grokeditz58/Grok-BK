@@ -1,0 +1,27 @@
+# *The Empire Strikes Back* (pp. 96–115) and *Raiders of the Lost Ark* (pp. 116–127)
+
+## *Star Wars: Episode V — The Empire Strikes Back* (1980)
+
+Smith opens with the possibility that Lucas began the sequel partly because sequel rights would revert to Fox after two years, and that he was ‘personally more interested in developing the backstory’ (i.e. what became the prequels) than in following the 1977 film’s events. After a heart-attack scare during the *Star Wars* final cut, Lucas ‘was convinced that he would never script or direct again’ and would work as an ‘executive producer’ who still developed, storylined, edited, funded, and occasionally shot second unit.
+
+Leigh Brackett writes a draft; she dies; Lucas rewrites; Lawrence Kasdan, handing in *Raiders*, is hired. Lucas: ‘I get a feeling about people.’ Five major drafts; ‘spirit, tone or structure’ stay stable: it ‘always began with the fall of a rebel stronghold and ended with Vader asking Luke to join him.’ Early names: Yoda is ‘Minch Yoda’ then ‘Minch’; Bespin is Katbrae / Kettlebrae. Spectral Kenobi is added once Guinness is open to a cameo. Early drafts send Luke to Dagobah via a late Jedi’s talisman, later via a crystal inside the lightsaber. An early Dagobah ‘phantom Vader’ debate had Vader telling Luke that only Solo stood between him and Leia, and that the dark side would deliver the princess to him.
+
+**Luke/Leia and what Lucas ‘knew,’ p. 101.** Kasdan’s later explanation: their pull is blood and a shared ‘affinity with the force’. Asked when he himself knew they were siblings, Kasdan said he learned it when handed the *Jedi* outline. On Lucas: ‘I don’t know when he knew that ... I don’t know if that was [always] part of the scheme. It’s about family, this saga.’
+
+**The father line, pp. 102–103 — Smith’s production account, not a first-person Lucas quote.** ‘No version of it contains the moment where Vader reveals to Luke that he is Luke’s father.’ The offer of half the galaxy is ‘always there, from as far back as Lucas’s initial outline, but the line itself doesn’t appear in any script. Even the shooting draft had the line “Obi-Wan is your father” instead.’ Kershner and Lucas take Hamill aside, swear him to secrecy, and tell him what Jones will dub. Smith estimates ‘as few as five people (Lucas, Kasdan, Hamill, Jones and … Kershner)’ knew before release (Kershner: ‘the perfect crime’). Smith then argues it is ‘unlikely’ the relationship was still undefined, and that if it was not ‘set in stone during the making of *Star Wars* … it was certainly so by the time *Empire* began filming in 1979.’
+
+Other draft notes: Vader’s castle on a not-yet-named capital is simplified to the meditation chamber; in one draft the Emperor’s vizier ‘Sate Molock’ visits instead of a hologram Emperor. Kasdan’s draft goes to Ladd with Lucas’s note ‘Best read listening to the *Star Wars* album’.
+
+**Yoda, p. 104.** Lucas: ‘When I created Yoda I said I want him to be really, really small. I decided to do it as a puppet.’ Freeborn’s face plus Einstein; Henson declines, suggests Frank Oz.
+
+**Production.** Kershner, formerly Lucas’s USC teacher, is told: ‘Remember, nothing will work, so you’ve got to improvise’ and ‘Don’t be intimidated by what they tell you can’t be done.’ Lucas funds the film himself (company jokingly named ‘Chapter 11’). Kershner on Hoth: ‘consider it as . . . shooting a documentary.’ Lucas and Kubrick chat at Elstree; Lucas recommends *Eraserhead*, ‘almost redefined the term “timeless”.’ Special Edition changes are fewer than on *Star Wars* or *Jedi* (new wampa, etc.). A cut wampa-in-the-base subplot leaves traces (‘one of those creatures’; warning signs).
+
+**Dark side, p. 110 — Smith’s analysis, not a Lucas quote.** *Empire* is ‘the first of the *Star Wars* films to really begin to tackle the idea of “turning to the dark side”’. Plot implication: the Force used ‘for selfish reasons, somehow physically and mentally corrupts those who use it, making them evil regardless of their intentions.’ ‘In realistic terms this is simply a metaphor through which Lucas tries to make the basic point that to do the wrong thing, even for the right reasons, is morally harmful to the individual.’ The gantry is ‘Death or dishonour’; ‘Luke chooses the literal fall over the metaphorical one.’
+
+Film quotes in Smith’s QUOTES section include Vader’s ‘The force is with you, young Skywalker, but you are not a Jedi yet,’ and Yoda’s ‘If you choose the quick and easy path, as Vader did, you will become a servant of evil.’
+
+**LUCAS ON THE EMPIRE STRIKES BACK:** ‘It’s the middle act of a three-act play ... it is a darker film [but] you don’t have an exuberant happy second act . . . that’s drama.’ (Index: *Empire* VHS, 1995.)
+
+## *Raiders of the Lost Ark* (1981)
+
+Creator-producer chapter: Lucas’s story, Kasdan’s screenplay, Spielberg directs, Lucas executive-produces. Lucas wanted a ‘serial’ energy and a hero he could drop into almost any period adventure. He is ‘so convinced that this was going to be a crowd pleaser’ (LUCAS ON RAIDERS). Ford on the character; Spielberg on Lucas’s ‘brilliant’ story sense (quoted from later Indy home-video interviews). Strong reviews (*Sunday Times* ‘Out-Bonds Bond’, *New York Times* ‘instant classic’, *Variety*, *Time*). No Force / Vader / Sith material beyond the general ‘used future’ / adventure-serial method already covered. Smith notes the earlier *THX* feud with Ted Ashley in passing as context for Lucas’s studio wariness.

@@ -1,0 +1,324 @@
+{
+ "package": "egvv1996-quote-QA-v3-CP2b-2026-11-09",
+ "created": "2026-11-09T20:03-06:00",
+ "scope": "6 of 51 EGVV crops in this package; 16 of 51 with CP1+CP2a; remaining 35 unchecked",
+ "audit": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/AUDIT-QUOTE-QA-v3-CP2b-2026-11-09.md",
+ "paragraph_break": "A spaced slash ' / ' in verbatim is a paragraph separator, not a printed character. Slashes inside tokens (B-wing/E, B-wing/E2, TIE/In, Griffyn/Y2TG) are printed.",
+ "items": [
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p036-scan037-deathstar2-improvements.jpg",
+   "status": "VERIFIED-CP2b",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 37,
+   "scan": 37,
+   "printed": "36",
+   "native_boxes": [
+    {
+     "scan": 37,
+     "box": [
+      [
+       140,
+       826,
+       817,
+       1079
+      ],
+      [
+       140,
+       1079,
+       579,
+       1114
+      ],
+      [
+       140,
+       1114,
+       527,
+       1188
+      ],
+      [
+       140,
+       1188,
+       444,
+       1262
+      ],
+      [
+       140,
+       1262,
+       395,
+       1368
+      ],
+      [
+       140,
+       1368,
+       357,
+       1477
+      ],
+      [
+       140,
+       1477,
+       336,
+       1658
+      ],
+      [
+       140,
+       1658,
+       369,
+       1766
+      ],
+      [
+       140,
+       1766,
+       408,
+       1840
+      ],
+      [
+       140,
+       1840,
+       474,
+       1948
+      ],
+      [
+       140,
+       1948,
+       589,
+       1986
+      ]
+     ],
+     "label": "(scan 037 p.36, left col, art cut out)"
+    },
+    {
+     "scan": 37,
+     "box": [
+      878,
+      428,
+      1565,
+      646
+     ],
+     "label": "(right col, continues)"
+    }
+   ],
+   "opening": "Not only was the second Death Star larger and more deadly, but several flaws in the original design were corrected.",
+   "ending": "construction.",
+   "verbatim": "Not only was the second Death Star larger and more deadly, but several flaws in the original design were corrected. The vulnerable thermal exhaust ports were replaced with millimeter-wide heat dispersion ducts, leaving no weak spots in this battle station's armor. The finished design increased the overall size of the new Death Star to 160 kilometers in diameter. The north pole of the station featured a one-hundred-story tower topped by the Emperor's private observation chamber—perhaps the most heavily armored and shielded portion of the station. / This new Death Star's central weapon, the terrifying superlaser, featured substantially increased power, allowing it to be recharged in a matter of minutes rather than hours. The superlaser's targeting and power-control systems were refined so the weapon could be turned on capital starships. Lemelisk added 20,000 turbolasers to repel attacks from starfighters and capital ships. Once completed, this station would have carried thousands of TIE fighters, troops, and ground combat vehicles. This new Death Star would have been invincible; the only way to stop it would have been to destroy it while it was still under construction.",
+   "old_sha256": "81583b7b18eb8db12e638d9e102ca0e54669aa93f35878e492f3ead5eff9673d",
+   "new_sha256": "86425c950fbf6d5ec8f7c75ac7e4037f6837cd5faeacf60b6764865c08428596",
+   "size": "687x1472",
+   "bytes": 272384,
+   "method": "native 200ppi pdfimages crop (sources already present in /tmp/cp2r; pdfimages not re-run), stacked left-column staircase plus right column in reading order, art cut out without redrawing text; visual word-for-word readback against native source and live final; live file byte-identical to the installed recut; no further recut",
+   "defects": "none (targeted passage complete; following trap paragraph is outside the crop by design)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p038-scan038-ds-proto-limits.jpg",
+   "status": "VERIFIED-CP2b",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 38,
+   "scan": 38,
+   "printed": "38",
+   "native_boxes": [
+    {
+     "scan": 38,
+     "box": [
+      [
+       140,
+       1522,
+       341,
+       1705
+      ],
+      [
+       140,
+       1705,
+       367,
+       1778
+      ]
+     ],
+     "label": "(scan 038 p.38, left col, art cut out)"
+    },
+    {
+     "scan": 38,
+     "box": [
+      [
+       885,
+       432,
+       1556,
+       1053
+      ],
+      [
+       996,
+       1053,
+       1556,
+       1090
+      ],
+      [
+       1052,
+       1090,
+       1556,
+       1126
+      ],
+      [
+       1106,
+       1126,
+       1556,
+       1163
+      ],
+      [
+       1144,
+       1163,
+       1556,
+       1199
+      ]
+     ],
+     "label": "(right col, continues; art cut out)"
+    }
+   ],
+   "opening": "The prototype superlaser had several disadvantages compared with the working model of the first Death Star.",
+   "ending": "starships.",
+   "verbatim": "The prototype superlaser had several disadvantages compared with the working model of the first Death Star. For example, the firepower was “only” sufficient to destroy the core of a planet: while the planet would inevitably be rendered uninhabitable, the weapon did not completely vaporize the victim world. The targeting system was never perfected, plus the superlaser was also incredibly wasteful of power and the weapon's storage batteries took several hours to recharge fully. While the weapon could be fired at reduced power, the superlaser's destructive ability was reduced significantly. / The prototype Death Star was never intended to be a practical weapon of war, so there was no need to install the maintenance and repair machinery, the immense computer core, or the hyperdrive engines that took up a huge amount of space in the actual Death Star space station. Instead, the prototype had only a small command cabin with slave-rigged computer systems to control the superlaser and drive units. This computer system minimized personnel requirements, but such linked computer systems are prone to failure without constant maintenance and are not practical for military starships.",
+   "old_sha256": "6340acc2a674bd73ffaf117516f11382f0f9fbec2e0d0081ad97b9ff8524729f",
+   "new_sha256": "12091fa4f1ed9d7392ba477626789b0ee77759c3e9705bc2cc5a322b3846fc90",
+   "size": "671x1117",
+   "bytes": 255549,
+   "method": "native 200ppi pdfimages crop (sources already present in /tmp/cp2r; pdfimages not re-run), stacked left-column staircase plus right-column staircase in reading order, art cut out without redrawing text; visual word-for-word readback against native source and live final; live file byte-identical to the installed recut; no further recut",
+   "defects": "none (targeted limits passage complete; activation/destruction paragraph is outside the crop by design)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p040-scan039-desert-skiff-not-combat.jpg",
+   "status": "VERIFIED-CP2b",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 39,
+   "scan": 39,
+   "printed": "40",
+   "native_boxes": [
+    {
+     "scan": 39,
+     "box": [
+      880,
+      658,
+      1572,
+      1282
+     ],
+     "label": "(scan 039 p.40, right col)"
+    }
+   ],
+   "opening": "Skiffs do not make good combat vehicles.",
+   "ending": "spectacularly.",
+   "verbatim": "Skiffs do not make good combat vehicles. They are neither maneuverable nor sturdy enough to stand up in battle. A single blast from a hand blaster can disable the repulsorlift unit or smash a steering vane. If the repulsorlift unit is damaged, the skiff can topple if weight shifts too quickly—something that a number of Jabba's henchmen learned the hard way when they tumbled down into the Sarlacc's mouth. / Jabba the Hutt used a number of Ubrikkian Bantha II cargo skiffs as patrol and escort vehicles for his sail barge. While they were armor-plated, they were still unsuited to combat, as Luke Skywalker quickly proved. Jabba had had extendable gangplanks affixed to the skiffs to increase the entertainment value of his Sarlacc feedings. After the rescue of Han Solo, Luke Skywalker and other Rebel heroes used one of Jabba's skiffs to escape from the Great Pit of Carkoon even as Jabba's sail barge exploded spectacularly.",
+   "old_sha256": "5592f16518121803287e3277503d76511af068ae14a1b0f76803560d7fe32846",
+   "new_sha256": "15723559bf34134c37e70e53c1ea81cfeb0e58f3559cb730da7edcb5bd6148b5",
+   "size": "692x662",
+   "bytes": 179939,
+   "method": "native 200ppi pdfimages crop (sources already present in /tmp/cp2r; pdfimages not re-run), single right-column part; visual word-for-word readback against native source and live final; live file byte-identical to the installed recut; no further recut",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p044-scan041-ewing-typeb-overload.jpg",
+   "status": "VERIFIED-CP2b",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 41,
+   "scan": 41,
+   "printed": "44",
+   "native_boxes": [
+    {
+     "scan": 41,
+     "box": [
+      872,
+      1126,
+      1565,
+      1530
+     ],
+     "label": "(scan 041 p.44, right col)"
+    }
+   ],
+   "opening": "Initial battles showed that the laser cannons were underpowered because they used synthetically spin-coiled Tibanna gas, which broke down quickly, greatly reducing the fire range.",
+   "ending": "E-wing: Type B.",
+   "verbatim": "Initial battles showed that the laser cannons were underpowered because they used synthetically spin-coiled Tibanna gas, which broke down quickly, greatly reducing the fire range. Because of the Battle of Calamari, New Republic technicians lacked the time to design a permanent solution, such as refitting the weapons for a more suitable blaster gas. Instead, they rigged the laser cannons to accept three times the standard power feed, increasing the weapon range to acceptable levels but also risking a terminal power overload. These modified ships have been dubbed E-wing: Type B.",
+   "old_sha256": "3a5543193d38570c430bdddd676d3822754d57b05127dad6380f6efe216c2d8d",
+   "new_sha256": "ae321d4082523a3e2c3f2cab02e381da18b959dbb98af5658702796c5fc0be06",
+   "size": "693x442",
+   "bytes": 108331,
+   "method": "native 200ppi pdfimages crop (sources already present in /tmp/cp2r; pdfimages not re-run), single right-column part; visual word-for-word readback against native source and live final; live file byte-identical to the installed recut; no further recut",
+   "defects": "none",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p046-scan042-eclipse-superlaser-ram.jpg",
+   "status": "VERIFIED-CP2b",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 42,
+   "scan": 42,
+   "printed": "46",
+   "native_boxes": [
+    {
+     "scan": 42,
+     "box": [
+      135,
+      1226,
+      830,
+      1304
+     ],
+     "label": "(scan 042 p.46, left col)"
+    },
+    {
+     "scan": 42,
+     "box": [
+      872,
+      428,
+      1565,
+      868
+     ],
+     "label": "(right col, continues)"
+    }
+   ],
+   "opening": "In combat, the *Eclipse*'s hull and shields were so strong that it could ram enemy vessels without hesitation.",
+   "ending": "outright.",
+   "verbatim": "In combat, the *Eclipse*'s hull and shields were so strong that it could ram enemy vessels without hesitation. The ship was equipped with ten gravity-well projectors to prevent enemy vessels from escaping to hyperspace. Five hundred heavy laser cannons and 550 turbolasers made the ship capable of engaging entire New Republic fleets. The *Eclipse* carried fifty squadrons of TIE interceptors (six hundred ships) and eight squadrons of TIE bombers. / The *Eclipse* was also intended to devastate entire worlds. Its main weapon was a superlaser weapon, although its power was only two-thirds that of the main weapon aboard the first Death Star—it was “merely” powerful enough to crack the crust of a planet rather than destroy it outright.",
+   "old_sha256": "be129607ec8bdb87d858ac72453e3bbf0efbe7950b08d18b3f5d2a0a63abd850",
+   "new_sha256": "b784fa29862d5b8c0d3285b3b9dca7f2cf228318a2d8f13b2500d8df3981af1f",
+   "size": "695x612",
+   "bytes": 145280,
+   "method": "native 200ppi pdfimages crop (sources already present in /tmp/cp2r; pdfimages not re-run), stacked left column plus right column in reading order; visual word-for-word readback against native source and live final; live file byte-identical to the installed recut; no further recut",
+   "defects": "none (ground-assault / Pinnacle Moon paragraph is outside the crop by design)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha"
+  },
+  {
+   "file": "notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p052-scan045-bwing-e2-limits.jpg",
+   "status": "VERIFIED-CP2b",
+   "pdf": "primary/essential-guides/eg-vehicles-1996/Essential-Guide-to-Vehicles-and-Vessels-1996.pdf",
+   "pdf_id": "RO12wBBC",
+   "pdf_page": 45,
+   "scan": 45,
+   "printed": "52",
+   "native_boxes": [
+    {
+     "scan": 45,
+     "box": [
+      879,
+      904,
+      1566,
+      1487
+     ],
+     "label": "(scan 045 p.52, right col)"
+    }
+   ],
+   "opening": "The B-wing/E is faster and tougher but less maneuverable than the standard B-wing.",
+   "ending": "maneuverability.",
+   "verbatim": "The B-wing/E is faster and tougher but less maneuverable than the standard B-wing. The modified ship is as fast as the Y-wing fighter. Increased shield generators have added to the ship's ability to withstand damage, making the vessel a true threat to Imperial ships. The standard weapon configuration for the B-wing/E consists of two fire-linked laser cannons, three ion cannons, and a proton-torpedo launcher with eight torpedoes. The B-wing/E2 added an extra proton-torpedo launcher for a faster rate of fire but kept the same standard load of eight torpedoes. Recently, New Republic technicians designed a removable ammo magazine that can be mounted on the “neck” of the fighter. This attachment carries an additional twelve proton torpedoes and feeds directly into the launchers, although it disrupts the fighter's mass balance enough to reduce maneuverability.",
+   "old_sha256": "c8298d3d9a4f7234d207ff56072a184e225db5f3e6b35e16374c60cf3d468a49",
+   "new_sha256": "fabab9227ca6d5726c7249b36799abd5f7a663b50c1ee73e025fb318273752a8",
+   "size": "687x621",
+   "bytes": 182367,
+   "method": "native 200ppi pdfimages crop (sources already present in /tmp/cp2r; pdfimages not re-run), single right-column part; visual word-for-word readback against native source and live final; live file byte-identical to the installed recut; no further recut",
+   "defects": "a stray ink speck / smudge sits above the initial \"a\" of \"ammo\" (visible at 6x; not a diacritic and not a crop clip). The word is still \"ammo\". No recut (legible; not a text-integrity defect)",
+   "backup": "notes/audits/quote-qa-v3-2026-11-09/backup-148-cp2-20261109-191248/ (old SHA256); also wip/148-cp2r/shas.txt and backup-pre-v3/148.sha",
+   "qualifications": [
+    "A stray ink speck / smudge sits above the initial \"a\" of \"ammo\" in \"a removable ammo magazine\". It is not a diacritic (other a-glyphs on the line are clean) and is not a crop clip. The word is still \"ammo\". No recut."
+   ]
+  }
+ ]
+}

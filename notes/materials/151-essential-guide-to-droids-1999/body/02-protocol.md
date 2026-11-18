@@ -1,0 +1,25 @@
+# PROTOCOL — P16–27 (scan 020–)
+
+## 3PO Protocol Droid — P16–17 (S020)
+Cybot Galactica; highly humanlike; sometimes nervous/flighty/borderline neurotic. SyntheTech AA-1 Verbobrain; “creativity dampers” for accurate translation (personalities still develop). TranLang III: >6 million languages incl. obscure + droid comms; vocabulator reproduces nearly any sound + analyzes unknown speech. Used by ambassadors/politicians/royalty; etiquette/customs experts. Height 1.7 m; gold common, also silver/white/etc.; frequent oil baths. Produced >1 century; newer C-series (C-1–C-9) on Telti factory moon.
+**Schematics:** Front — Servomotor, Logic Functions Computer, Microwave Emitter/Sensor, Photoreceptors, Vocabulator, Auditory Sensors, Primary Circuit Breaker, Olfactory Sensor, Restraining Bolt Mount, Recharge Coupling, Powerbus Cables, Intermotor Actuating Coupling, Reinforced Knee Joint. Rear — Broadband Antenna Receiver, master on/off (neck back), cooling vent/grille.
+
+## M-3PO Military Protocol — P18–19 (S021)
+3PO subset for military admin: barracks billeting, duty rosters, equipment requisition, personnel; “sticklers for paperwork.” Black-painted standard 3PO bodies; clamshell heads from discontinued KW traffic-controller line; two red photoreceptors glow from head cavity. Same 3PO stiff joints/poor balance. Lore: **Emtrey** (Rogue Squadron quartermaster) — assembled from 3 junked M-3POs at Echo Base Hoth; “scrounging” personality for black-market deals; hidden red reset on neck post; served under Gen. Airen Cracken monitoring Tycho Celchu. Illos: seated behind tripod repeating blaster.
+**Schematics:** Front — Photoreceptors slit, Olfactory Sensor, Reset Button, Support Piston, Restraining Bolt Mount, Recharge Coupling, Servomotor, Powerbus Cables, Intermotor Actuating Coupling, Reinforced Knee Joint. Side head — Military Database Computer, Auditory Sensors, Photoreceptors.
+
+## Em Teedee — P20–21 (S022)
+Miniaturized translator for human/Wookiee; programmed by C-3PO for Lowbacca at Luke’s Jedi academy (Yavin 4); Chewbacca built hardware on Kashyyyk from Thikkiiana fab components. Metallic silver oval slightly >hand-size; flat back / rounded front with crude face; twin yellow photoreceptors; olfactory + temp sensors; perforated oval vocoder; no locomotors initially → later micro-repulsor jets (flies like seeker ball).
+**Schematics:** Side (vs hand silhouette) — Multi-position Circuit Breaker, Shock-resistant Outer Casing. Front — Specialized Sensor Cluster, Photoreceptors/Illuminators, Vocoder Grille, Internal Language Glossaries & Databanks, Computer Interface Port.
+
+## 3D-4X Administrative — P22–23 (S023)
+Genetech vs Cybot protocol market; personal assistant for business (systems admin + interstellar commerce). Highly intelligent, meticulously precise; aloof + deferential. ~2.5 million communication forms + business/financial library. Silver chromite plating (reflective); single photoreceptor + vocabulator; right index laser pointer. Lore: “Threedee-Fourex” / Fourex served Admin Hekis Durumm Perdo Kolokk Baldikarr Thun on Mechis III; when IG-88 took planet, Fourex eventually delivered master’s death. Illos: serving pose w/ teacup tray; cylindrical dome-topped “test-tube” head.
+**Schematics:** Front — Internal Business Database, Direct Cranial Uplinks, Photoreceptor, Vocabulator, Auditory Sensors, Communications Scrambler/Transmitter, Laser Pointer, Hidden Storage, Circuitry Cooling Cables, Polished Chromite Shell. Rear — Storage Compartments, Systems Power Couplings, Microphone/Stenographic Recorder, Recharge Coupling.
+
+## PD Lurrian Protocol — P24–25 (S024)
+Cybot “costly disaster” from Imperial law not design. Targeted Lurrian genetic-genius market (frozen mountains); plasteel + weather sealant + shock-proof casing; bright red/yellow/orange for snow visibility. AA-1 Verbobrain w/ 60% language programming replaced by genetics/DNA resequencing library. Stylized head: oversized photoreceptors + jutting brow (snow shield); heavy servogrips; detachable rocket-fired hands trailing forearm cable reel (grappling). Empire quarantined Lurrians → no market; line sold at loss. Notable: PDA6 (Zorneth the Ithorian’s assistant).
+**Schematics:** Front — Plasteel Body Casing, Auditory Sensors, Snow Shield, Computer Access Port, Rocket Jet, Oversized Photoreceptors, Vocabulator, Recharge Port, Comlink (forearm). Side — Cable Reel, Weather-treated Joints, detachable Hands.
+
+## LOM Protocol — P26–27 (S025)
+IA challenge to Cybot 3PO; insectoid species market (Brizzit, Verpine, Xi’Dec, Yam’rii); generic insectlike features. Shared 3PO tech (TranLang III, AA-1 VerboBrain) → Cybot copyright lawsuits. Personality: cultured/intelligent/well-mannered altruism (vs jumpy 3PO). Lore: **4-LOM** valet on *Kuari Princess* → programming glitch → master thief/bounty hunter; PR fiasco buried series. Illos: insectoid compound-eye head, holding long blaster.
+**Schematics:** Front/Rear — Servomotor, VerboBrain Housing, Vocabulator, Photoreceptors, Auditory Sensors, Microwave Emitter/Sensor, Olfactory Sensor, Recharge Coupling, Powerbus Cables, Intermotor Actuating Coupling, Reinforced Knee Joint.

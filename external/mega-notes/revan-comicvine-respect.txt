@@ -1,0 +1,649 @@
+REVAN COMICVINE RESPECT THREAD - NOTE
+
+URL requested: https://comicvine.gamespot.com/profile/darthant66/blog/revan-respect-thread/95278/
+Result: ERROR - HTTP 404 "404: Not Found - Comic Vine" (page title and heading both read 404: Not Found).
+
+The blog post could not be opened, so no sections, feats, statements, quotes, or citations were extracted.
+No quotes were invented. No reader comments were reviewed.
+Extraction stopped at the first step per task instructions.
+
+
+==================================================================
+COMIC VINE REVAN RESPECT THREAD - CITED EXTRACTION
+==================================================================
+URL: https://comicvine.gamespot.com/forums/gen-discussion-1/revan-respect-thread-1554556/
+Thread: "Revan Respect Thread" - Gen. Discussion board
+Opened: HTTP 200, 2026-10-10 (UTC). The blog copy (/profile/darthant66/blog/revan-respect-thread/95278/) was NOT used.
+Pagination: single page. No page 2 or next-page link was found.
+Posts on page: #1 through #42. Post numbers #7, #16, #23, #29, #32 and #34 do not appear on the page.
+OP: Penderor, post #1 (posted "12 years ago").
+OP warning (quoted from post #1): "This thread contains many theories and considerations."
+
+LABEL KEY
+- Legends: the cited work is Legends-era (The Old Republic, Knights of the Old Republic, KOTOR II, Drew Karpyshyn's Revan novel, or KOTOR-designer statements).
+- Canon: none of the sources named in the thread is a Canon work.
+- Unclear: the post names no source for the quote or claim.
+
+TYPE KEY
+- feat: a quoted or described action or ability.
+- statement: a quoted line of dialogue or a stated opinion from a named or attributed speaker.
+- poster opinion: uncited claim, theory or analysis written by a poster. Quoted verbatim.
+
+SCALING: lists only what the quote itself states. "None stated" means the quote makes no comparison.
+READER REPLIES: only replies with a cited quote are kept. Each such entry notes the reply's own claim it sits under, for context only. Uncited reply text gets no entry.
+Replies with no cited quote (for example #3, #5, #8, #10, #11, #19, #21, #22, #24, #26, #28, #31, #36, #39, #40, #41, #42, and the OP author's own follow-ups) were skipped.
+
+------------------------------------------------------------------
+SECTION 1: Intro (post #1, before "Biography and training")
+------------------------------------------------------------------
+
+[1]
+Type: statement
+Post: #1 (OP, Penderor)
+Quote: "Savior, conqueror, hero, villain. You are all things, Revan... and yet you are nothing. In the end, you belong to neither the light nor the darkness. You will forever stand alone." ―Darth Malak, to Revan
+Source named in post: none (speaker named: Darth Malak)
+Source (identified later): Star Wars: Knights of the Old Republic (2003 game) — Darth Malak to Revan — how identified: quote box with ref [10] 'Star Wars: Knights of the Old Republic' on https://starwars.fandom.com/wiki/Revan/Legends (rev 15723634)
+Label: Unclear
+Scaling stated by quote: None stated
+
+[2]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Respect for one of the greatest tacticians, leaders, jedi and sith masters in the history of the galaxy."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+------------------------------------------------------------------
+SECTION 2: Biography and training (post #1)
+------------------------------------------------------------------
+
+[3]
+Type: statement
+Post: #1 (OP, Penderor)
+Quote: "Revan had many Masters, Zhar, Dorak, Master Kae before Kae left for the Wars. Towards the end of his training, he sought out many to learn techniques. It is said that he returned to his first Master at the end of his training, in order to learn how he might best leave the Order." ―Mical about Revan
+Source named in post: none (speaker named: Mical)
+Source (identified later): Star Wars: Knights of the Old Republic II: The Sith Lords (2004 game) — Mical dialogue — how identified: exact sentence on https://starwars.fandom.com/wiki/Revan/Legends (rev 15723634), ref [13] 'Star Wars: Knights of the Old Republic II: The Sith Lords'
+Label: Unclear
+Scaling stated by quote: None stated
+
+[4]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Borned in the Outer Rim (3994 BBY), a man lately known as Revan, was brought in the early age of his life to the jedi temple on Coruscant. Year after his birth,the Jedi Duron Qel-Droma had a vision of Revan victory over the Sith Lord while wearing Qel-Droma robes, and then Jedi died peacefully knowing that future was safe."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[5]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was known as a talented and extraordinary Jedi. His hunger for knowledge was inifinite and Jedi Masters started to worry about him."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[6]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "In the year of 3976 BBY began one of the bloodiest wars of the Republic. Republic was standing victorious in the early stages of war but that was supposed to change. Mandalorian leader, Mandalore the Ultimate, was just testing the republic and after first part of his plan he started quickly overwhelming them Republic forces. Senate was desperate and called Jedi Council for help. Jedi members ignored this request and remained silent. Except one..."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[7]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was pushing and convincing the Council but it was hopeless. After he realised that this is not the way, he started rallying his Jedi friends. His leadership and charismatic abilities were incredible. He was able to convince a dozens and maybe even hundreds of Jedi to join him." [panel: panels/revan/revan-revan-pushing-convincing-council-hopeless-after-he-1.jpg]
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[8]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "After few years Mandalorian forces and Republic armies clashed on the Planet known as Malachor V. In this battle Revan killed Mandalore in the single combat, earning the respect of the Mandalorians lately. The war was practically won." [panel: panels/revan/revan-after-few-years-mandalorian-forces-republic-armies-1.jpg]
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[9]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "But not for Revan. He followed the trail of the Dark Side in the place that changed him forever. Ancient sith world known as Dromund Kaas. There he found the ancient Sith Emperor. He and his friend Alek (lately known as Darth Malak) tried to fight him but Emperor took control over their minds and made them to obey him. After some time spended there, learning the new ways of the Force, Revan and Malak were send by the Emperor to destroy the Republic." [panel: panels/revan/revan-revan-he-followed-trail-dark-side-place-1.jpg]
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[10]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Ufortunately for him, Revan and Malak broke free of his control and started acting as they desired. After capturing the ancient factory known as Star Forge, they started the new war with the Republic known as the Jedi Civil War. After two years of his rule as the Sith Lord he was ambushed by the Jedi strike team. Revan swiftly prepared for fight but he was betrayed by the Malak who has tried to kill him with firing on the Revan's flagship. However, Revan was saved by the Jedi Padawan, Bastila Shan. Jedi Council brainwashed his mind and gave him new identity."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[11]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "After some time spending as a Jedi Padawan he challenged his former apprentice Darth Malak. Even with the Star Forge on his side Malak was not able to defeat his old friend and master. After he was killed Revan gained the rank of the Jedi Knight and lately the Jedi Master title. He might be even the Jedi Council member but being known for his disagreements of their ways, it never happened."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[12]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Hunted by the visions from Dromund Kaas, Revan traveled there hoping he might be able to destroy or at least stop the sith for some time. With the aid of his friend known Jedi Exile and Sith Lord Scourge he striked the Sith Emperor. Revan was holding against the Emperor but he was getting exhausted and badly hurted. When all three warriors were getting prepared for the final stage of the fight Scourge betrayed the Jedi and killed the Exile from behind. Suprised Revan was captured and imprisoned for 300 hundred years."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[13]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "After this time he was set free and started to organisate Sith race genocide. However, he was attacked by the Sith Empire strike team, mix of the best warriors Empire had. Revan, exhausted after his mind fight with the Emperor, blinded by has anger was after long fight beated by the strike team and vanished. After that his life is unknown."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+------------------------------------------------------------------
+SECTION 3: Personality and traits (post #1)
+------------------------------------------------------------------
+
+[14]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was known for his remarkable intelligence and exceptional charisma, as well as an insatiable desire for knowledge. He was a millitary genius,great teacher, friend, leader, father, husband."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[15]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was a Human male with fair skin and brown eyes, and he wore his dark brown hair at shoulder-length for much of his life." [panel: panels/revan/revan-revan-human-male-fair-skin-brown-eyes-1.jpg; panels/revan/revan-revan-human-male-fair-skin-brown-eyes-2.jpg]
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[16]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was able to to convince the two Sith, Ajunta Pall and Bastila Shan to turn back to the light from the Darkness of the Force. Earning respect of his crew on the Ebon Hawk, Revan was believed by the Canderous Ordo (later new Mandalore) as the greatest warrior he ever knew."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+------------------------------------------------------------------
+SECTION 4: Force powers (post #1)
+------------------------------------------------------------------
+
+[17]
+Type: statement
+Post: #1 (OP, Penderor)
+Quote: "Revan was power. It was like staring into the heart of the Force." ―Kreia about Revan
+Source named in post: none (speaker named: Kreia). The OP adds: "Althought this quote may not be a true it still has some savor." (poster hedge; typed as written in the post: "Althought this quote may not be a true it still has some savor.")
+Source (identified later): Star Wars: Knights of the Old Republic II: The Sith Lords (2004 game) — Kreia dialogue; conversation/scene not pinned. Full line continues: "Even then, you could see the Jedi he would slay etched on his soul." — how identified: not on Wookieepedia; attributed to Kreia in KOTOR II by independent quote listings https://vsbattles.fandom.com/wiki/Revan and https://comicvine.gamespot.com/profile/darthbane77/blog/underrated-sith-lords-darth-revan/131874/ (Kreia's only speaking role is KOTOR II)
+Label: Unclear
+Scaling stated by quote: None stated
+
+[18]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Althought this quote may not be a true it still has some savor. Revan was believed as the most promising Jedi in the Order by the Zhar Lestin, one from the most respected Jedi."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[19]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Known Powers of the Dark Side are Force lightning,Force choke and most likely the life and force drain (assuming from his Star Forge dealing with the Jedi prisoners). He was also very skilled in for sense, lately having Force visions and was able of Farsight."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[20]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Lately his skill with the Force developed and he was able to channel from the both Light Side and Dark Side at once and releasing this pure Force against the Emperor. He wa also able to use Force absorbation (Tutaminis) and most likely the Force protection."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[21]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "His telekinetic powers allowed him to let entire persons fly and crushing metal door with weight of tons."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[22]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "He was also skilled with the Mind Trick, Saber Throw, Force whirlwind, Force wave (lately pushing multiple persons many meters back)."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[23]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan blasted a pair of heavy durasteel doors with one hand in a moment.He moved a lid from the sarcophagus of the Sith Lord and alsoo ripped the vaulted stone archway, preventing group of six Imperial Guards from procedure."
+Source named in post: none (the three feats below it carry TOR citations in the post; this sentence does not)
+Label: Unclear
+Scaling stated by quote: None stated
+
+[24]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Lately in his life he defeat Darth Nyrrriss,one from the best Dark Council members, in the Force combat."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[25]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Then he managed to held his own against the Sith Emperor who is believed to be among the most powerful Sith Lords of all time. Also after his prime and exhausted he managed to fight with two sith lords and two sith soldiers,agent and bounty hunter for long period of time."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[26]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Speed"
+Quote: "As Veela and two others-reacting slightly faster than the rest-fired, the green blade transformed into a spinning, twirling blur as he used it to deflect their bolts back in the direction of the shooters."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[27]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Speed"
+Quote: "Revan was in motion, his lightsaber flashing to life, before the words had finished spilling from her mouth."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated (the quote does not name the speaker; "her" is unnamed in the OP)
+
+[28]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Telekinesis"
+Quote: "Instead of charging forward, he opened himself up to the Force, letting both the light and the dark side flow through him like twin rushing rivers. But instead of focusing or channeling the Force, he released it in it's purest form."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[29]
+Type: statement
+Post: #1 (OP, Penderor), under heading "Telekinesis"
+Quote: "And, if the situation was right he might be able to collapse a building; it would really depend on his state of mind and the circumstances."
+Source named in post: Drew Karpyshyn
+Label: Legends
+Scaling stated by quote: None stated
+
+[30]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Telekinesis"
+Quote: "Before they could join the fight, Revan thrust his hand, palm up, in the direction of the durasteel doors, blasting them wide open with the power of the Force."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[31]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Telekinesis"
+Quote: "Revan reached out with the Force and ripped the vaulted stone archway in the ceiling above them free from the setting."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[32]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Telekinesis"
+Quote: "The instant before they detonated, Revan reached out with the Force and hurled the heavy stone lid of the sarcophagus toward the grenades."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[33]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Telekinesis"
+Quote: "Revan used that moment to unleash a sidearm throw of his lightsaber. The blade went spinning out in a wide arcing path that ended both their lives before they could move."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated (the "both" opponents are unnamed in the quote)
+
+[34]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Tutaminis"
+Quote: "Revan emerged from the cell. He Had pulled the hood of his Jedi robe up to cover his head, and he word the red-and-gray mask, hiding his face. A dozen bolts of lightning sprang from Nyriss's hand, arcing across the room to incinerate her ememies.
+
+Instead of leaping back into the cell to avoid the deadly attack, Revan stepped forward to intercept it. Both hands were held in front of him, his arms fully extended at shoulder height, his thumbs touching and his fingers splayed wide.
+
+He drew the bolts of lightning into his waiting grasp, channeling them away from their intended targets and absorbing their power. "I am Revan reborn," he said to Nyriss. "And before me you are nothing."
+
+Nyriss's eyes went wide as Revan unleashed the power of her own attack against her. She tried to throw up another Force shield, but the bolts ripped it apart and continued on unabated. The lightning engulfed her, the intense heat consuming her instantly, leaving only a pile of charred ash."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated as a comparison. The quote shows Revan absorbing and redirecting Darth Nyriss's lightning and killing her ("leaving only a pile of charred ash"); the quote does not compare her to anyone.
+
+[35]
+Type: feat
+Post: #1 (OP, Penderor), under heading "Heal"
+Quote: "He tried to rise, but his injuries body refused to respond. Instinctively, he called on the Force to give him strength and heal his wounds...The healing properties of the Force were powerful, but Revan's wounds were severe and he needed more time to restore his strength." [panel: panels/revan/revan-prove-google-didnt-these-gifs-10-months-1.png]
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[36]
+Type: poster opinion
+Post: #1 (OP, Penderor), after "Heal" block
+Quote: "Falling asteroids and lightning storms caused by Revan."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+------------------------------------------------------------------
+SECTION 5: Lightsaber Skills and hand to hand combat (post #1)
+------------------------------------------------------------------
+
+[37]
+Type: feat
+Post: #1 (OP, Penderor)
+Quote: "In battle after battle, Revan had led the Jedi and Republic forces to victory. Realizing defeat was inevitable, Mandalore the Ultimate hadchallenged Revan to single combat, and Revan had accepted.
+
+Though the Mandalorian fought valiantly, in the end he was no match for the Jedi Order's most powerful champion."
+Source named in post: The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: Against Mandalore the Ultimate: "in the end he was no match for the Jedi Order's most powerful champion" (Revan is the "champion" in that line).
+
+[38]
+Type: statement
+Post: #1 (OP, Penderor)
+Quote: "...He was skilled in all of them - he was always more of a generalist than a specialist..." [panel: panels/revan/revan-prove-google-didnt-these-gifs-10-months-1.png]
+Source named in post: Drew Karpyshyn
+Label: Legends
+Scaling stated by quote: None stated
+
+[39]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was known as one of the best lightsaber users of his time. Originally trained as a Jedi Guardian, Revan was wielding single handed,blue, green and purple colored lightsabers through his life. He was great warrior and was also very good with blasters and in the droid mechanics." [panel: panels/revan/revan-revan-known-one-best-lightsaber-users-time-1.jpg]
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[40]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Althought Revan fighting was never specified I have a theory.
+
+In his times,the favorite form was form IV Ataru. Aggressive form,which is supposed co overwhelm your opponent with powerful strokes and acrobatic maneuvers. I think its clear to assume he used this form as well or at least was familiar with it."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[41]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Image-only: the post refers to a picture ("Picture above") but does not describe it. Caption as written in the post: "Picture above is giving an option that he was Shien user. This could support fact of his blaster fire deflection ability."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[42]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "But with only this form he wouldnt survive on the battlefield so I was forced to find another clue of his swordplay abilities."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[43]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Video-only: the post cites a timestamp ("0:22") in a video but does not describe it. Caption as written in the post: "The stance he enters in the 0:22 makes me believe he was also the Soresu practicioner."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[44]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan is sometimes showed wielding dual lightsabers. Good example except random pictures is ancient sith tomb in KOTOR II. This direct us to Niman."
+Source named in post: KOTOR II (named as the source of the tomb image; no quote)
+Label: Legends
+Scaling stated by quote: None stated
+
+[45]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "This all gives him skill with the Ataru combined with Soresu which is from certain point of view perfect and very smart turn. You cannot probably use them at once but I believe Revan managed to switch them during the fight. Firstly using Ataru and if it wont help then switch to Soresu and then repeat it. And of course Jar Kai and Niman knowledge and skills."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[46]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "However the safest claim would the the defensive duelist with offensive Force abilities."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[47]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan was able to defeat the Mandalore the Ultimate in the saber combat. This is supported with the fact that Ordo respects Revan. He wouldnt do that if he would use the Force during their duel. Thirty years jedi knight, beating one from the best swordsman in the entire galaxy. Thats impressive I think."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated (the post describes Mandalore as "one from the best swordsman in the entire galaxy"; this is poster text, not a quote)
+
+[48]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "He was also able to beat Uthar Wynn, the Sith Headmaster on Korriban Academy who was probably one from the Empire finest and lately Malak, believed to be among the most skilled and talented duelists in the known Galaxy. He also killed two terentakes at once thought we dont know how exactly."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[49]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "In H2H he beated Yusannis, legendary Echani general, and one from the best hand to hand combatants in the Galaxy."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+------------------------------------------------------------------
+SECTION 6: Legacy (post #1)
+------------------------------------------------------------------
+
+[50]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "Revan will be remembered as a man of two legacies. The great Sith Lord,teacher of the many sith acolytes and terror of Republic. But will be also remembered as her savior, hero and prodigal Jedi Knight."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[51]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "He saved her three times in total and once helped it. His holocron was lately used for creating the Rule of Two. Revan was also known as the first Sith that appeared in Republic with title of Darth."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+[52]
+Type: poster opinion
+Post: #1 (OP, Penderor)
+Quote: "He was also supposed to appear in Clone Wars series but the scenes were never made. Only the models were."
+Source named in post: none
+Label: Unclear
+Scaling stated by quote: None stated
+
+------------------------------------------------------------------
+SECTION 6: Reader replies with cited quotes (only post #12 has any)
+------------------------------------------------------------------
+Post #12 is by RevanTheKnowledegeCarrier. The other replies have no cited quote and are skipped (see header).
+
+[53]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), reply opening, no heading
+Reply's own claim (context, uncited): "Thank to show me this.. I was chearching this quote... In subjetc to discuss of Revan position."
+Quote: "As a Jedi, Revan was a warrior who slaughtered armies. As a Sith, Revan was a teacher who trained a thousand dark apprentices." ―Dzoun (Star Wars The Old Republic)
+Source named in post: Star Wars The Old Republic (speaker named: Dzoun)
+Label: Legends
+Scaling stated by quote: None stated
+
+[54]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan's entire fight with the Sith Emperor, and then T3's attack, along with Revan being tortured, only happened in a few seconds. This expresses the immense speed of Revan if he had to cross a throne room at least forty meters long and so much more (the fight itself) in such a short amount of time."
+Quote: "It [his fight with the Sith Emperor] all happened in the space of only a few seconds." ―Star Wars The Old Republic: Revan
+(The words in brackets were inserted by the reply's author, not by the source.)
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[55]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan defeats the legendary Yusanis, perhaps due to his own incredible speed."
+Quote: "...if Father had been faster... if only Father had been faster..." ―The Handmaiden (Star Wars Knights of the Old Republic 2: The Sith Lords)
+Source named in post: Star Wars Knights of the Old Republic 2: The Sith Lords (speaker named: The Handmaiden)
+Label: Legends
+Scaling stated by quote: None stated
+
+[56]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan has slaughtered dozens of Echani, masters of speed."
+Quote: "The Echani rely heavily on hand-to-hand combat and personal shield technology, and they had their asses handed to them by Revan during the Jedi Civil War, because, not surprisingly, there weren't many people able to face Revan across a battlefield and survive the encounter...In many ways, the Echani see combat as a rapid dejarik game, calculating feints, attacks, and dodges with a speed that few can surpass." ―Chris Avellone (KOTOR Designer)
+Source named in post: Chris Avellone (KOTOR Designer)
+Label: Legends
+Scaling stated by quote: Against the Echani: the quote states Revan beat them in the Jedi Civil War and that "there weren't many people able to face Revan across a battlefield and survive the encounter". It also calls Echani combat speed one "that few can surpass". No direct speed comparison of Revan to the Echani is made.
+
+[57]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan is said to have incredible reflexes as he pilots the Ebon Hawk."
+Quote: "the lightning-fast reactions of [Revan]..." ―Star Wars The Old Republic: Revan
+(The word in brackets was inserted by the reply's author.)
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[58]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan moves his lightsaber in a bluring motion."
+Quote: "As Veela and two others-reacting slightly faster than the rest-fired, the green blade transformed into a spinning, twirling blur as he used it to deflect their bolts back in the direction of the shooters." ―Star Wars The Old Republic: Revan
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated about Revan. The quote says Veela and two others reacted "slightly faster than the rest". (Duplicate of OP entry [26].)
+
+[59]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan moves his lightsaber faster then Veela Ordo can speak."
+Quote: "Revan was in motion, his lightsaber flashing to life, before the words had finished spilling from her mouth." ―Star Wars The Old Republic: Revan
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated. (The reply names "her" as Veela Ordo; the quote does not.) (Duplicate of OP entry [27].)
+
+[60]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Speed Capabilities"
+Reply's own claim (context, uncited): "Revan moves fast enough to avoid being hit by Basilisk canon fire." [panel: panels/revan/revan-revan-moves-fast-enough-avoid-hit-basilisk-1.png]
+Quote: "He charged the nearest rider, zigzagging to keep the Basilisk from getting a clear shot." ―Star Wars The Old Republic: Revan
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[61]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Precognition & Force Visions"
+Reply's own claim (context, uncited): "Revan's precognition is greater then even the Echani masters, who can predict battles months ahead."
+Quote: "It is the way of the Echani to be able to read their opponents - to know where an opponent is going to strike before it connects, anticipate it, and then strike against them. Echani battles are fought several minutes in advance - in many ways, it is much like the game of dejarik played in the core systems. The most advanced among the Echani are able to predict the course of battles by months, and the most revered are said to be able to predict the path of wars. Only Revan ever demonstrated such a skill in war. And even as he slaughtered us, the Echani still respected him." ―Brianna (Star Wars Knights of the Old Republic: The Sith Lords)
+Source named in post: Star Wars Knights of the Old Republic: The Sith Lords (speaker named: Brianna)
+Label: Legends
+Scaling stated by quote: Against the Echani masters: "The most advanced among the Echani are able to predict the course of battles by months" and "Only Revan ever demonstrated such a skill in war."
+
+[62]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Precognition & Force Visions"
+Reply's own claim (context, uncited): "Revan uses his mastery of precognition to defeat an Imperial Guard in seconds."
+Quote: "Still, the slight stumble gave Revan enough time to draw his lightsaber and go on the offensive. He came in with a high, overhand chop-obvious feint meant to draw the defenses of his opponent downward, leaving his legs exposed to quick slash follow up.
+
+The guard recognized the familiar ploy, countering it by parrying the overhand chop then quickly dropping his blade low to intercept the inevitable slash at his legs. Only Revan didn't go for his legs. Anticipating that his opponent's defenses would go low, he kept his blade up high, allowing him to end the battle with horizontal cut across the man's exposed throat." ―Star Wars The Old Republic: Revan
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated (the guard is unnamed)
+
+[63]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Precognition & Force Visions"
+Reply's own claim (context, uncited): "Revan's precognition is legendary even to the masters of the power: the Echani."
+Quote: "I always felt Revan was an incredible tactician, and the Echani were awed by his precog[nition] and natural skill with tactics." ―Chris Avellone (KOTOR Designer)
+(The bracketed letters are in the source text as the reply gives it.)
+Source named in post: Chris Avellone (KOTOR Designer)
+Label: Legends
+Scaling stated by quote: Against the Echani: "the Echani were awed by his precog[nition] and natural skill with tactics." No numerical or ranked comparison.
+
+[64]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Precognition & Force Visions"
+Reply's own claim (context, uncited): "Revan's precognition granted himself a huge military advantage."
+Quote: "He [Revan] had foresight in his conquest, a subtlety that Malak did not possess." ―G0-T0 (Star Wars Knights of the Old Republic: The Sith Lords)
+(The word in brackets was inserted by the reply's author.)
+Source named in post: Star Wars Knights of the Old Republic: The Sith Lords (speaker named: G0-T0)
+Label: Legends
+Scaling stated by quote: Against Malak: the quote says Revan had foresight "a subtlety that Malak did not possess."
+
+[65]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Precognition & Force Visions"
+Reply's own claim (context, uncited): "Revan experiences a force vision despite being on a dark side nexus."
+Quote: "He opened himself up to the Force. As it flowed through him, images of the women he loved danced through his head. And then suddenly they were gone, replaced by the amorphous face of another. "Meetra," Revan gasped as the features shifted sharply into focus. They held for an instant, then vanished. Though it had lasted only a second, the meaning was abundantly clear. Meetra was coming to rescue him." ―Star Wars The Old Republic: Revan
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated
+
+[66]
+Type: feat
+Post: #12 (RevanTheKnowledegeCarrier), heading "Force Sense"
+Reply's own claim (context, uncited): "Revan extended his Force Sense across the entire galaxy to search for Meetra Surik."
+Quote: "Once he had tried to reach out to her with the Force. Serving in battle with someone formed a special bond; even across the breadth of the galaxy he should have been able to get some vague sense of her presence. Yet he had felt nothing. The simplest explanation was that she had become one with the Force, but Revan couldn't allow himself to believe she was dead." ―Star Wars The Old Republic: Revan
+Source named in post: Star Wars The Old Republic: Revan
+Label: Legends
+Scaling stated by quote: None stated. (The quote describes a failed attempt to sense Meetra; it does not show success.)
+
+[67]
+Type: statement
+Post: #12 (RevanTheKnowledegeCarrier), heading "Force Lightning"
+Reply's own claim (context, uncited): "Revan can unleash lightning storms that can kill Rancors and Rakatan Warriors."
+Quote: "You killed our patrols and war beasts with lightning from the sky." ―Rakatan Warrior (Star Wars Knights of the Old Republic)
+Source named in post: Star Wars Knights of the Old Republic (speaker named: Rakatan Warrior)
+Label: Legends
+Scaling stated by quote: None stated about Revan. The quote names "patrols and war beasts" as the victims; it does not mention Rancors.
+
+------------------------------------------------------------------
+END OF EXTRACTION
+------------------------------------------------------------------
+Entries: 67 (entries 1-52 from OP post #1; entries 53-67 from reply #12).
+
+## Panel images not tied to a specific line (auto-added 2026-10-19)
+Each panel below came from the respect thread / debate thread / online source this file covers, but its caption could not be matched to one line above. Captions are the poster's or blogger's words, not quote text. Full details: panels/panels-index.md
+
+### revan / Respect for one of the greatest tacticians, leaders, jedi and sith masters in the history of the galaxy.
+- ―Darth Malak, to Revan (issue unknown (source not named in thread)) [panel: panels/revan/revan-darth-malak-revan-1.jpg]
+
+### revan
+- Just because I commented your thread doesnt mean I've read it. I appreciated that your work mostly from respect, when I noticed the length of it, I realized tha (issue unknown (source not named in thread)) [panel: panels/revan/revan-because-commented-your-thread-doesnt-mean-ive-1.png; panels/revan/revan-because-commented-your-thread-doesnt-mean-ive-2.png]
+- Oh no wait I used three dots please dont burn m'lord! (issue unknown (source not named in thread)) [panel: panels/revan/revan-oh-no-wait-used-three-dots-please-1.gif]
+- And about that generalist or specialist thing. I was trying to find stuff about Revan and the first thing that popped in my mind was: Hey! Logically Maul+Exar = (issue unknown (source not named in thread)) [panel: panels/revan/revan-generalist-specialist-thing-trying-find-stuff-revan-1.png]
