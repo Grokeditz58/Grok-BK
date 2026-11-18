@@ -5,7 +5,6 @@ Secondary guide, W. Haden Blackman, Del Rey, first edition November 2004. The 22
 | Character | Lines | Where |
 |---|---|---|
 | admiral-ackbar | 1 | [admiral-ackbar.md](admiral-ackbar.md#negwt-2004) |
-| darth-vader | 1 | [12-part-part-3-feats.md](darth-vader/12-part-part-3-feats.md#negwt-2004) |
 | dev-sibwarra | 1 | [dev-sibwarra.md](dev-sibwarra.md#negwt-2004) |
 | eeth-koth | 1 | [eeth-koth.md](eeth-koth.md#negwt-2004) |
 | grand-moff-tarkin | 1 | [grand-moff-tarkin.md](grand-moff-tarkin.md#negwt-2004) |

@@ -8,7 +8,6 @@ The link opens the file that holds the new lines.
 |---|---|---|
 | admiral-ackbar | 1 | [admiral-ackbar.md](admiral-ackbar.md#egpm-1998) |
 | arca-jeth | 1 | [arca-jeth.md](arca-jeth.md#egpm-1998) |
-| darth-vader | 1 | [12-part-part-3-feats.md](darth-vader/12-part-part-3-feats.md#egpm-1998) |
 | grand-moff-tarkin | 2 | [grand-moff-tarkin.md](grand-moff-tarkin.md#egpm-1998) |
 | greedo | 1 | [greedo.md](greedo.md#egpm-1998) |
 | han-solo | 2 | [han-solo.md](han-solo.md#egpm-1998) |

@@ -8,7 +8,6 @@ The link opens the file that holds the new lines.
 |---|---|---|
 | chewbacca | 2 | [chewbacca.md](chewbacca.md#egvv-1996) |
 | daala | 1 | [daala.md](daala.md#egvv-1996) |
-| darth-vader | 1 | [12-part-part-3-feats.md](darth-vader/12-part-part-3-feats.md#egvv-1996) |
 | han-solo | 4 | [han-solo.md](han-solo.md#egvv-1996) |
 | kyp-durron | 1 | [kyp-durron.md](kyp-durron.md#egvv-1996) |
 | luke-skywalker | 3 | [06-part-3-feats-and-statements-only.md](luke-skywalker/06-part-3-feats-and-statements-only.md#egvv-1996) |
