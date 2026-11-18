@@ -11,7 +11,6 @@ Secondary guide, W. Haden Blackman, Del Rey, first edition October 2003. The 224
 | han-solo | 1 | [han-solo.md](han-solo.md#negvv-2003) |
 | jan-ors | 1 | [jan-ors.md](jan-ors.md#negvv-2003) |
 | kyle-katarn | 1 | [kyle-katarn.md](kyle-katarn.md#negvv-2003) |
-| luke-skywalker | 1 | [06-part-3-feats-and-statements-only.md](luke-skywalker/06-part-3-feats-and-statements-only.md#negvv-2003) |
 | mon-mothma | 1 | [mon-mothma.md](mon-mothma.md#negvv-2003) |
 | quinlan-vos | 1 | [quinlan-vos.md](quinlan-vos.md#negvv-2003) |
 | talon-karrde | 1 | [talon-karrde.md](talon-karrde.md#negvv-2003) |
