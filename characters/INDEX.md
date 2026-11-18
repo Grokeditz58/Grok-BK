@@ -1036,7 +1036,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [nym.md](nym.md) | Nym | Prequel | untiered | 33 | 33 | 0 | 0 | Nym | 33 | 9 | 1 | 2 |
 | [nyna-calixte.md](nyna-calixte.md) | Nyna Calixte (NEW 2026-10-29) |  | untiered | 86 | 86 | 0 | 2 | Nyna Calixte | 86 | 49 | 0 | 34 |
 | [obersken.md](obersken.md) | Obersken | New Republic | untiered | 3 | 3 | 0 | 0 | Obersken | 3 | 1 | 0 | 0 |
-| [obi-wan-kenobi/](obi-wan-kenobi/README.md) | Obi-Wan Kenobi | Prequel–GCW | DEEP | 3773 | 3702 | 71 | 426 | Obi-Wan Kenobi, Obi-Wan, Kenobi, Obi-wan, Obiwan, Ben Kenobi | 3767 | 2520 | 331 | 1208 |
+| [obi-wan-kenobi.md](obi-wan-kenobi.md) | Obi-Wan Kenobi | Prequel–GCW | DEEP | 3773 | 3702 | 71 | 426 | Obi-Wan Kenobi, Obi-Wan, Kenobi, Obi-wan, Obiwan, Ben Kenobi | 35 | 35 | n/a | n/a |
 | [ocka-dwei.md](ocka-dwei.md) | Ocka Dwei (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Ocka Dwei | 2 | 0 | 0 | 0 |
 | [octavian-grant.md](octavian-grant.md) | Octavian Grant (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Octavian Grant | 1 | 0 | 0 | 0 |
 | [odan-urr.md](odan-urr.md) | Odan-Urr | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 150 | 149 | 1 | 18 | Odan-Urr, Odan Urr | 150 | 96 | 21 | 58 |
@@ -1602,7 +1602,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker.md): 81
-- [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3767
+- [Obi-Wan Kenobi](obi-wan-kenobi.md): 35
 - [Revan](revan.md): 132
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2570
 - [Yoda](yoda.md): 36
@@ -1634,7 +1634,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker.md): 81
-- [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3773
+- [Obi-Wan Kenobi](obi-wan-kenobi.md): 35
 - [Revan](revan.md): 132
 - [Yoda](yoda.md): 36
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2370

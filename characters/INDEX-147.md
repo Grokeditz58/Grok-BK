@@ -9,7 +9,6 @@ The link opens the file that holds the new lines.
 | admiral-ackbar | 4 | [admiral-ackbar.md](admiral-ackbar.md#egc-1995) |
 | kyp-durron | 2 | [kyp-durron.md](kyp-durron.md#egc-1995) |
 | leia-organa | 7 | [03-part-3-feats-and-statements-only.md](leia-organa/03-part-3-feats-and-statements-only.md#egc-1995) |
-| obi-wan-kenobi | 7 | [06-part-3-feats-and-statements-only.md](obi-wan-kenobi/06-part-3-feats-and-statements-only.md#egc-1995) |
 | owen-lars | 1 | [owen-lars.md](owen-lars.md#egc-1995) |
 | thrawn | 2 | [thrawn.md](thrawn.md#egc-1995) |
 | wedge-antilles | 5 | [wedge-antilles.md](wedge-antilles.md#egc-1995) |

@@ -12,7 +12,6 @@ Secondary guide, W. Haden Blackman, Del Rey, first edition November 2004. The 22
 | lama-su | 1 | [lama-su.md](lama-su.md#negwt-2004) |
 | lando-calrissian | 1 | [lando-calrissian.md](lando-calrissian.md#negwt-2004) |
 | leia-organa | 2 | [03-part-3-feats-and-statements-only.md](leia-organa/03-part-3-feats-and-statements-only.md#negwt-2004) |
-| obi-wan-kenobi | 2 | [06-part-3-feats-and-statements-only.md](obi-wan-kenobi/06-part-3-feats-and-statements-only.md#negwt-2004) |
 | siri-tachi | 1 | [siri-tachi.md](siri-tachi.md#negwt-2004) |
 | veers | 1 | [veers.md](veers.md#negwt-2004) |
 
