@@ -216,7 +216,7 @@ Dooku had learned much from Thame Cerulian. Now he was a Master with an apprenti
 
 ## Accolades and Author Statements
 
-### 23. In Dark Rendezvous, Yoda tells the Council the "strongest student, wisest, most learned in the ways of the Force" would be Dooku, "Our great student! … Our great failure.".
+### 23. In Dark Rendezvous, Yoda tells the Council the "strongest student, wisest, most learned in the ways of the Force" would be Dooku, "Our great student! … Our great failure."
 
 ```
 Hm.” Yoda stirred again with his stick. “Then best of all would be the strongest student, yes? Wisest? Most learned in the ways of the Force?” He nodded. “Best of all, Dooku would be!” His eyes found the other Jedi, one by one: and one by one, they looked away. “Our great student!” Yoda’s ears flexed, then drooped. “Our great failure.
@@ -248,7 +248,7 @@ Dooku was not used to criticism. He was the gifted one. He was the one the teach
 — Legacy of the Jedi (зв) (Джуд Уотсон, 2003), ch. 6
 ```
 
-### 27. Labyrinth of Evil says Sidious recognized in Dooku the makings of a true accomplice, "an equal from the other camp, already trained in the Jedi arts, a master duelist, a political visionary.".
+### 27. Labyrinth of Evil says Sidious recognized in Dooku the makings of a true accomplice, "an equal from the other camp, already trained in the Jedi arts, a master duelist, a political visionary."
 
 ```
 Dooku was an eager student, and yet Sidious had continued to hold him at arm’s length. Perhaps he had been working with other potential replacements for his earlier apprentice, the savage Darth Maul, who, in fact, had been nothing more than a minion, like Asajj Ventress and General Grievous. Sidious had recognized in Dooku the makings of a true accomplice—an equal from the other camp, already trained in the Jedi arts, a master duelist, a political visionary. But he needed to gauge the depth of Dooku’s commitment.

@@ -32,7 +32,7 @@ The strike only fueled the humanoid’s rage. Raising the ax over his head, he r
 — Labyrinth of Evil (James Luceno, 2005), ch. 28
 ```
 
-### 2. Obi-Wan lifts his lightsaber into the balanced two-handed guard of Ataro, "Qui-Gon's style, and Yoda's," and tells Dooku "You won't escape us this time.".
+### 2. Obi-Wan lifts his lightsaber into the balanced two-handed guard of Ataro, "Qui-Gon's style, and Yoda's," and tells Dooku "You won't escape us this time."
 
 ```
 Obi-Wan lifted his lightsaber into the balanced two-handed guard of Ataro: Qui-Gon’s style, and Yoda’s. His blade crackled into existence, and the air smelled of lightning. “You won’t escape us this time, Dooku.”
@@ -177,7 +177,7 @@ Obi-Wan closed his eyes. Reaching into the Force, his mind followed the starfigh
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 1
 ```
 
-### 19. Against Grievous, "the reply came through Obi-Wan's lips, but it was not truly Obi-Wan who spoke. Obi-Wan was not in control; he had no need for control. He had the Force.".
+### 19. Against Grievous, "the reply came through Obi-Wan's lips, but it was not truly Obi-Wan who spoke. Obi-Wan was not in control; he had no need for control. He had the Force."
 
 ```
 "That will not happen. I am in control here." The reply came through Obi-Wan's lips, but it was not truly Obi-Wan who spoke. Obi-Wan was not in control; he had no need for control. He had the Force.
@@ -193,7 +193,7 @@ That sparkling waterfall coursed through him, washing away any thought of danger
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 7
 ```
 
-### 21. Letting go of intention, desire and life, Obi-Wan fixes his attention on a thread of the Force that pulls him toward Grievous: "not where Grievous was, but where Grievous would be when Obi-Wan got there.".
+### 21. Letting go of intention, desire and life, Obi-Wan fixes his attention on a thread of the Force that pulls him toward Grievous: "not where Grievous was, but where Grievous would be when Obi-Wan got there."
 
 ```
 Letting go of intention, letting go of desire, letting go of life, Obi-Wan fixed his entire attention on a thread of the Force that pulled him toward Grievous: not where Grievous was, but where Grievous would be when Obi-Wan got there . . .
@@ -304,7 +304,7 @@ His lightsaber found his hand and blue energy flared. One swipe and the canopy b
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 3
 ```
 
-### 34. Grievous's electrodrivers move his arm so fast that it and the lightsaber within it vanish "by sheer mind-numbing speed, an imitation quantum event," and the Force answers through Obi-Wan's lips, "I don't think so.".
+### 34. Grievous's electrodrivers move his arm so fast that it and the lightsaber within it vanish "by sheer mind-numbing speed, an imitation quantum event," and the Force answers through Obi-Wan's lips, "I don't think so."
 
 ```
 The Force replied through Obi-Wan’s lips, “I don’t think so.” The electrodrivers that powered Grievous’s limbs could move them faster than the human eye can see; when he swung his arm, it and his fist and the lightsaber within it would literally vanish: wiped from existence by sheer mind-numbing speed, an imitation quantum event. No human being could move remotely as fast as Grievous, not even Obi-Wan—but he didn’t have to.
@@ -368,7 +368,7 @@ Obi-Wan leapt to one side, raising his blade to deal with two bolts that got pas
 — Labyrinth of Evil (James Luceno, 2005), ch. 3
 ```
 
-### 42. Obi-Wan's blade strikes the other student's neck; with a Knight's saber it would have been a killing blow, but apprentices' training sabers are set to low power and give only a "searing kiss.".
+### 42. Obi-Wan's blade strikes the other student's neck; with a Knight's saber it would have been a killing blow, but apprentices' training sabers are set to low power and give only a "searing kiss."
 
 ```
 “Aargh!” the other student howled in surprised rage as Obi-Wan’s hot blade struck his neck. If Obi-Wan had been using a Jedi Knight’s lightsaber, it would have been a killing blow. But apprentices in the Jedi Temple used training sabers set to low power. The touch of the blade only gave a searing kiss, one that the healers might need to tend.
@@ -422,7 +422,7 @@ The ease with which Kenobi had taken command of the situation was frightening. M
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 7
 ```
 
-### 48. Obi-Wan reaches and Anakin's lightsaber twists in the air into his hand; he poises both blades in a cross and says "The flaw of power is arrogance.".
+### 48. Obi-Wan reaches and Anakin's lightsaber twists in the air into his hand; he poises both blades in a cross and says "The flaw of power is arrogance."
 
 ```
 Obi-Wan reached. Anakin’s lightsaber twisted in the air and flipped into his hand. He poised both blades in a cross before him. “The flaw of power is arrogance.”
@@ -430,7 +430,7 @@ Obi-Wan reached. Anakin’s lightsaber twisted in the air and flipped into his h
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 20
 ```
 
-### 49. "Kenobi would rather talk than fight, but when there is fighting to be done, few can match him"; together with Skywalker he forms "a Jedi hammer that has crushed Separatist infestations on scores of worlds.".
+### 49. "Kenobi would rather talk than fight, but when there is fighting to be done, few can match him"; together with Skywalker he forms "a Jedi hammer that has crushed Separatist infestations on scores of worlds."
 
 ```
 Kenobi would rather talk than fight, but when there is fighting to be done, few can match him. Skywalker is the master of audacity; his intensity, boldness, and sheer jaw-dropping luck are the perfect complement to Kenobi’s deliberate, balanced steadiness. Together, they are a Jedi hammer that has crushed Separatist infestations on scores of worlds.
@@ -484,7 +484,7 @@ This pronouncement had startled Obi-Wan, and he had protested. After all, the on
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 15
 ```
 
-### 55. Mace Windu greets Obi-Wan's attempt to mediate between him and Yoda with "Ah, of course: Kenobi the Negotiator.".
+### 55. Mace Windu greets Obi-Wan's attempt to mediate between him and Yoda with "Ah, of course: Kenobi the Negotiator."
 
 ```
 Masters, Masters, please,” Obi-Wan said. He looked from one to the other and inclined his head respectfully. “Perhaps there is a middle way.”

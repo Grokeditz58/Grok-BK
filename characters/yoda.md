@@ -310,7 +310,7 @@ Luke faced the image fully now, smiling. “On the first night we came here, Jab
 — Reunion: Force Heretic III (Sean Williams, 2003), epilogue
 ```
 
-### 26. In The Approaching Storm, Master Yoda is said to be "reputed to be the greatest lightsaber master ever.".
+### 26. In The Approaching Storm, Master Yoda is said to be "reputed to be the greatest lightsaber master ever."
 
 ```
 Her smile vanished. “Why would I joke about such a thing? Master Yoda is reputed to be the greatest lightsaber master ever. Don’t tell me you never had a fighting class with him?”
@@ -326,7 +326,7 @@ Yoda moved slowly toward one of the chairs. He leaned on his gimer-stick cane as
 — Shadow Hunter (Michael Reaves, 2001), ch. 16
 ```
 
-### 28. The narration says that among Jedi only Mace Windu would have been Dooku's equal on neutral ground, but on Vjun, steeped in the dark side, his bladework is "malice made visible"; Yoda, hurt but unbowed, tells him, "More than eight hundred years has Yoda survived, through dangers you could not dream.".
+### 28. The narration says that among Jedi only Mace Windu would have been Dooku's equal on neutral ground, but on Vjun, steeped in the dark side, his bladework is "malice made visible"; Yoda, hurt but unbowed, tells him, "More than eight hundred years has Yoda survived, through dangers you could not dream."
 
 ```
 As Yoda released Whirry from his mind’s hold, and let her spill gently onto the flagstones far below, the tip of Dooku’s lightsaber scored a burning line across his shoulder. The Count’s blade was quick as a viper striking. Among the other Jedi, perhaps only Mace Windu would have been his equal on neutral ground: but here on Vjun, steeped in the dark side, his bladework was malice made visible—wickedness cut in red light. “I’ve hurt you!” Dooku cried.
@@ -387,7 +387,7 @@ Hmmm, Yoda thought. A problem this is …
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 20
 ```
 
-### 31. After the duel, the narration states flatly: "Yoda had failed. He might have died.".
+### 31. After the duel, the narration states flatly: "Yoda had failed. He might have died."
 
 ```
 Yoda had failed. He might have died.
@@ -409,7 +409,7 @@ The château and all those inside it had been spared: but Dooku was gone.
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 11
 ```
 
-### 33. On his deathbed, Yoda tells Luke that he rushed to face Vader with training incomplete and was not ready for the burden, saying "now a great weakness you carry.".
+### 33. On his deathbed, Yoda tells Luke that he rushed to face Vader with training incomplete and was not ready for the burden, saying "now a great weakness you carry."
 
 ```
 “Unfortunate that I know the truth?” A bitterness crept into Luke’s voice, but he couldn’t decide if it was directed at Vader, Yoda, himself, or the universe at large.
@@ -427,7 +427,7 @@ Palpatine enjoyed Yoda’s company, because the longer he sat smiling benignly a
 — The Clone Wars (Karen Traviss, 2008), ch. 18
 ```
 
-### 35. Yoda tells Mace he would be no fit leader of the Republic: "Clouded by darkness are my eyes; the Force shows me only suffering, and destruction, and the rise of a long, long night.".
+### 35. Yoda tells Mace he would be no fit leader of the Republic: "Clouded by darkness are my eyes; the Force shows me only suffering, and destruction, and the rise of a long, long night."
 
 ```
 Yoda’s laughter faded. “And no fit leader for this Republic would I be.” He lowered his voice even further, to barely above a whisper. “Clouded by darkness are my eyes; the Force shows me only suffering, and destruction, and the rise of a long, long night. Better off without the Force, leaders perhaps are; able to see well enough, young Palpatine seems.”

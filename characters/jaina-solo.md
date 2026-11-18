@@ -267,7 +267,7 @@ Jaina gave the queen a slow, cool smile. Then she picked up her glass and glance
 — Dark Journey (Elaine Cunningham, 2002), ch. 19
 ```
 
-### 31. In Dark Journey, Jaina rises in a fluid blur and throws dark lightning that wraps an older Jedi in a shining nimbus and hurls him into the wall, but he dispels it with the words "If I can summon it, I can dispel it. You're not the only one who took that path.".
+### 31. In Dark Journey, Jaina rises in a fluid blur and throws dark lightning that wraps an older Jedi in a shining nimbus and hurls him into the wall, but he dispels it with the words "If I can summon it, I can dispel it. You're not the only one who took that path."
 
 ```
 She rose suddenly, in a fluid blur, one hand thrown toward the older Jedi. Dark lightning crackled from her fingers and surrounded him in a shining nimbus. He flew back and struck the wall hard. His eyes narrowed, and the deadly aura disappeared. Jaina’s eyes widened in surprise. “If I can summon it, I can dispel it,” he told her. “You’re not the only one who took that path.”
@@ -291,7 +291,7 @@ Through the Force, Jaina sensed the blaster come up from behind her before the w
 — Refugee: Force Heretic II (Sean Williams, 2003), prologue
 ```
 
-### 34. Trusting her instincts and the Force, Jaina bolts for a rooftop edge a dozen meters away and throws herself into the air, telling a Rodian "No, but we can jump.".
+### 34. Trusting her instincts and the Force, Jaina bolts for a rooftop edge a dozen meters away and throws herself into the air, telling a Rodian "No, but we can jump."
 
 ```
 “There is one other,” Jaina said, staring at the edge of the roof a dozen or so meters away. Salkeli laughed, following her gaze. “Don’t tell me that Jedi can fly, too?” She shook her head and smiled at him. “No, but we can jump. Come on!” With that, she bolted for the edge of the rooftop, not stopping to check that the Rodian was following. Then, trusting in her instincts and the Force, she threw herself into the air.
@@ -470,7 +470,7 @@ Jaina’s eyes cleared of the explosion afterimage in time for her to see Zekk s
 — Betrayal (Aaron Allston, 2006), ch. 9
 ```
 
-### 56. Fighting Luke one moment and Jaina the next, a man finds both there as "not just illusions of them, but presences real enough to bat blaster bolts back at the stormtroopers attacking them.".
+### 56. Fighting Luke one moment and Jaina the next, a man finds both there as "not just illusions of them, but presences real enough to bat blaster bolts back at the stormtroopers attacking them."
 
 ```
 He had been fighting Luke one moment, Jaina the next, and then they had both been there—not just illusions of them, but presences real enough to bat blaster bolts back at the stormtroopers attacking them.
@@ -494,7 +494,7 @@ Jaina snatched Lowie’s lightsaber from his belt and triggered it as she pulled
 — Destiny's Way (Walter Jon Williams, 2011), ch. 20
 ```
 
-### 59. Jaina locks a woman's wrist in a couple of seconds and relieves her of a holdout blaster, explaining she knew because "she was standing like a woman who had a blaster on her.".
+### 59. Jaina locks a woman's wrist in a couple of seconds and relieves her of a holdout blaster, explaining she knew because "she was standing like a woman who had a blaster on her."
 
 ```
 Jaina looked at her again, cogitated for a moment, and moved. In a couple of seconds she had the woman’s wrist locked and had relieved her of her holdout blaster. “I’d put stun cuffs on her,” Jaina said, and handed the blaster to General Jamiro. “How did you know she was armed?” Jaina looked at Dagga Marl and thought about why she’d made her decision. “Because she was standing like a woman who had a blaster on her,” she decided.
@@ -707,7 +707,7 @@ In a mad dance, Jaina circled the stricken Yuuzhan Vong carrier, dueling coralsk
 — The Unifying Force (James Luceno, 2002), ch. 9
 ```
 
-### 85. As the snarling skips surge forward with incredible speed, Jaina orders "Close ranks and form up on me. Anyone short on firepower to the center. Stick with your wingmates until we see what these things are capable of.".
+### 85. As the snarling skips surge forward with incredible speed, Jaina orders "Close ranks and form up on me. Anyone short on firepower to the center. Stick with your wingmates until we see what these things are capable of."
 
 ```
 Close ranks and form up on me,” she said quickly. “Anyone short on firepower to the center. Stick with your wingmates until we see what these things are capable of.” “Enemy is breaking formation,” Harona announced. “Here they come!” The formations of snarling skips surged forward with incredible speed, their sextets of launchers disgorging plasma in steady streams. Deliberately, Jaina placed herself in the path of one projectile and was immediately sorry she had. Cappie shrieked in distress, and the X-wing’s shields fell to 50 percent. She tumbled away from second and third projectiles, allowing time for the shields to recharge. “All pilots, keep clear of these things. They pack a wallop!
@@ -766,7 +766,7 @@ Jaina Solo banked her X-wing starfighter into as tight a turn as she could endur
 
 ## Accolades and Author Statements
 
-### 92. In Tempest, Jag suggests Jaina take the vessel because "she's the better pilot anyway.".
+### 92. In Tempest, Jag suggests Jaina take the vessel because "she's the better pilot anyway."
 
 ```
 Maybe Jaina should sit on the vessel,” Jag suggested. “She’s the better pilot anyway, and you and I will be just as effective on the ground.
@@ -798,7 +798,7 @@ Jaina blinked and kind of jumped in her cockpit seat when she realized the comm 
 — Onslaught: Dark Tide I (Michael A. Stackpole, 2000), ch. 20
 ```
 
-### 96. Kyp hails Jaina: "Amazing. Simply amazing. Jaina Solo, you continue to find ways to surprise me.".
+### 96. Kyp hails Jaina: "Amazing. Simply amazing. Jaina Solo, you continue to find ways to surprise me."
 
 ```
 A few moments later, she answered what turned out to be Kyp’s hail. “Amazing,” he said. “Simply amazing. Jaina Solo, you continue to find ways to surprise me.” “Hello, Kyp.” “I’d ask you what could have possibly brought you to this place, but I almost don’t want to know. If the Force guided you, it’s almost too frightening.” “How so?” “Because I was just about to come looking for you and Rogue Squadron,” Kyp answered, sounding sardonic. “Really.” “Yep. I’ve found something, Jaina—something I can’t handle with my Dozen. Something that could strike a death blow to the New Republic if we don’t deal with it now, while we can.” “What are you talking about?” Jaina asked. “I’d rather tell you in person. Follow me in—we don’t have much down there, but it’s better than the cockpit of an X-wing.”
@@ -867,7 +867,7 @@ Jaina almost wished that she had been knocked unconscious. Stinging needle-thrus
 — Invincible (Troy Denning, 2008), ch. 18
 ```
 
-### 104. Jaina says that if anyone can stop Jacen it is her: "I'm his equal, and I'm the Sword of the Jedi. But I just don't have his…training.".
+### 104. Jaina says that if anyone can stop Jacen it is her: "I'm his equal, and I'm the Sword of the Jedi. But I just don't have his…training."
 
 ```
 “If anyone can stop Jacen, then, it’s me. I’m his equal, and I’m the Sword of the Jedi. But I just don’t have his…training." (Jaina)
@@ -915,7 +915,7 @@ A moment later—and the length of that moment was something she would not forgi
 — Ylesia (Walter Jon Williams, short story)
 ```
 
-### 110. In Refugee, Jaina's mental command "Let her go," which would have made an ordinary person obey instantly, fails on the Prime Minister, who shakes his head, smiles, and tells her he is "New.".
+### 110. In Refugee, Jaina's mental command "Let her go," which would have made an ordinary person obey instantly, fails on the Prime Minister, who shakes his head, smiles, and tells her he is "New."
 
 ```
 Jaina lowered the lightsaber and tried another tack. “Let her go.” The mental command accompanying the words would have made an ordinary person instantly obey. But the Prime Minister just shook his head. “I don’t think so,” he said, smiling. “What are you?” Jaina asked. The Prime Minister’s smile widened, if that was possible. “New,” he said. “But we haven’t got time for that right now. We need to go and meet your new masters.”
@@ -979,7 +979,7 @@ Caedus deactivated his lightsaber and let it drop between them. Jaina felt the b
 — Invincible (Troy Denning, 2008), ch. 9
 ```
 
-### 118. In Dark Journey, Leia says "Jaina has always been impulsive," and Han adds "Not to mention stubborn.".
+### 118. In Dark Journey, Leia says "Jaina has always been impulsive," and Han adds "Not to mention stubborn."
 
 ```
 With a sigh, Leia pushed back from the table. “I’ll talk to my daughter. Jaina has always been impulsive.”
@@ -987,7 +987,7 @@ With a sigh, Leia pushed back from the table. “I’ll talk to my daughter. Jai
 — Dark Journey (Elaine Cunningham, 2002), ch. 18
 ```
 
-### 119. In The Joiner King, Leia describes Jaina to Juun as "more complicated than most" and "as stubborn as her father.".
+### 119. In The Joiner King, Leia describes Jaina to Juun as "more complicated than most" and "as stubborn as her father."
 
 ```
 I’m afraid humans are more complicated than that,” Leia said before Han could respond. Sooner or later, even a Sullustan would recognize the sarcasm in Han’s voice, and she did not want to see Juun crushed again. It had been bad enough when they had shut off the tractor beam and let the XR808g float free. “And Jaina is more complicated than most. She’s as stubborn as her father.

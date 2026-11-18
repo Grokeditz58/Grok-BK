@@ -477,7 +477,7 @@ Still struggling for breath, Plagueis managed to stand, but only to collapse bac
 — Darth Plagueis (James Luceno, 2012), ch. 30
 ```
 
-### 42. Sidious holds thumb and forefinger together and tells Plagueis, "Try to keep yourself alive while I choke the life out of you.".
+### 42. Sidious holds thumb and forefinger together and tells Plagueis, "Try to keep yourself alive while I choke the life out of you."
 
 ```
 Sidious peered at Plagueis through the Force. “Oh, yes, by all means gather your midi-chlorians, Plagueis.” He held his thumb and forefinger close together. “Try to keep yourself alive while I choke the life out of you.”

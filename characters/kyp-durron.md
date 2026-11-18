@@ -48,7 +48,7 @@ The two of them ate rations and shared a warm silence. When they finished, Kyp f
 — Champions of the Force (Kevin J. Anderson, 1994), ch. 33
 ```
 
-### 4. Kyp lets his eyes fall half-closed, reaches out with the Force, jerks his head toward the swirling mass of the Maw and says, "Han's there—he's over there.".
+### 4. Kyp lets his eyes fall half-closed, reaches out with the Force, jerks his head toward the swirling mass of the Maw and says, "Han's there—he's over there."
 
 ```
 Kyp let his eyes fall half-closed, reaching out with the Force, searching. He jerked his head to the left, toward the swirling mass of the Maw. “Han’s there—he’s over there.”
@@ -163,7 +163,7 @@ Curtains of fire overtook the Basilisk, washing over the Star Destroyer and igni
 — Dark Apprentice (Kevin J. Anderson, 1994), ch. 33
 ```
 
-### 18. Kyp transmits to Admiral Daala's Gorgon: "I'm Kyp Durron—remember me? I hope so. You put me under a death sentence. That made quite an impression on me.".
+### 18. Kyp transmits to Admiral Daala's Gorgon: "I'm Kyp Durron—remember me? I hope so. You put me under a death sentence. That made quite an impression on me."
 
 ```
 With a crackle the thin voice of a mere boy echoed through the Gorgon’s command center. “Admiral Daala, I’m Kyp Durron—remember me? I hope so. You put me under a death sentence. That made quite an impression on me. I hope it made some sort of impression on you.”
@@ -302,7 +302,7 @@ Kyp glanced at the navigation panel and gave the order to go to lightspeed. Once
 — Dark Journey (Elaine Cunningham, 2002), ch. 4
 ```
 
-### 35. Kyp pulls his X-wing into a sharp rising circle and swoops down firing on the remaining Hornets, and silently credits Jag Fel's approach as "as crazy as any airborne stunt Kyp had ever pulled.".
+### 35. Kyp pulls his X-wing into a sharp rising circle and swoops down firing on the remaining Hornets, and silently credits Jag Fel's approach as "as crazy as any airborne stunt Kyp had ever pulled."
 
 ```
 The cockpit broke away as the pilot evacuated. The Hornet tumbled slowly away, as dead as the decapitated insect it resembled. Kyp pulled his X-wing into a sharp, rising circle, coming completely around and firing as he swooped down toward the remaining Hornets.
@@ -386,7 +386,7 @@ Kyp and Leia ignited their lightsabers at the same instant. Continuous fire from
 
 ## Accolades and Author Statements
 
-### 44. Luke calls to Kyp across still water, "Come back and join us, Kyp. Welcome home, Jedi Knight.".
+### 44. Luke calls to Kyp across still water, "Come back and join us, Kyp. Welcome home, Jedi Knight."
 
 ```
 Come back and join us, Kyp,” Master Skywalker called. His voice echoed across the flat surface of the still water. “Welcome home, Jedi Knight.
@@ -394,7 +394,7 @@ Come back and join us, Kyp,” Master Skywalker called. His voice echoed across 
 — Champions of the Force (Kevin J. Anderson, 1994), ch. 27
 ```
 
-### 45. Luke tells Leia that if Kyp passes his test, "Kyp Durron could become the most powerful Jedi Knight of this generation.".
+### 45. Luke tells Leia that if Kyp passes his test, "Kyp Durron could become the most powerful Jedi Knight of this generation."
 
 ```
 Leia, just as I had to face our father, this is a test Kyp must complete. Tell the Council that if he passes this test successfully, Kyp Durron could become the most powerful Jedi Knight of this generation.
@@ -402,7 +402,7 @@ Leia, just as I had to face our father, this is a test Kyp must complete. Tell t
 — Champions of the Force (Kevin J. Anderson, 1994), ch. 31
 ```
 
-### 46. Luke tells Kyp "Very good, Kyp. In fact, it's incredible. I'm not sure even Obi-Wan or Yoda would know what to do with you.".
+### 46. Luke tells Kyp "Very good, Kyp. In fact, it's incredible. I'm not sure even Obi-Wan or Yoda would know what to do with you."
 
 ```
 Very good, Kyp,” Master Skywalker said. “In fact, it’s incredible. I’m not sure even Obi-Wan or Yoda would know what to do with you.
@@ -426,7 +426,7 @@ I helped you navigate through the dark spice tunnels when we were running from S
 — Jedi Search (Kevin J. Anderson, 1994), ch. 15
 ```
 
-### 49. "When you looked at Kyp Durron, you knew you were seeing an enormously powerful weapon. If only Jacen didn't know how erratic that weapon had been.".
+### 49. "When you looked at Kyp Durron, you knew you were seeing an enormously powerful weapon. If only Jacen didn't know how erratic that weapon had been."
 
 ```
 When you looked at Kyp Durron, you knew you were seeing an enormously powerful weapon. If only Jacen didn’t know how erratic that weapon had been.
@@ -653,7 +653,7 @@ Kyp whirled and brought the blade down like an ax. Evading the strike, the warri
 — The Unifying Force (James Luceno, 2002), ch. 20
 ```
 
-### 77. Leia says "Kyp lied to Jaina. Worse—he used the Force to sway her judgment. I just don't trust him.".
+### 77. Leia says "Kyp lied to Jaina. Worse—he used the Force to sway her judgment. I just don't trust him."
 
 ```
 Not this time,” she said, and sighed. “I’m sorry, Han. Jaina can take care of herself, and the Sernpidal mission probably ended up moving the war effort forward. That doesn’t change the fact that Kyp lied to Jaina. Worse—he used the Force to sway her judgment. I just don’t trust him.

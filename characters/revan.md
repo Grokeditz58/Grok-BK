@@ -1118,7 +1118,7 @@ I have news, Lord Malak. About the Jedi."
 — Darth Malak and Dark Jedi Master, Star Wars Knights of the Old Republic †
 ```
 
-### 80. Finally, Darth Malak unleashed the full potential of the Star Forge's defenses upon Revan, summoning an "infinite army" of battle droids. Malak prepared the force during the entirety of Revan's assault on the Star Forge, believing the threat it posed exceeded armies of Sith or Bastila Shan. After Revan deactivated the droids, Darth Malak was so impressed that he abruptly changed his belief that Revan was a shadow of his former self and "an insignificant speak beneath [his] notice" to admitting, "You are stronger than I thought; stronger than you ever were during your reign as the Dark Lord. I did not think that was possible.".
+### 80. Finally, Darth Malak unleashed the full potential of the Star Forge's defenses upon Revan, summoning an "infinite army" of battle droids. Malak prepared the force during the entirety of Revan's assault on the Star Forge, believing the threat it posed exceeded armies of Sith or Bastila Shan. After Revan deactivated the droids, Darth Malak was so impressed that he abruptly changed his belief that Revan was a shadow of his former self and "an insignificant speak beneath [his] notice" to admitting, "You are stronger than I thought; stronger than you ever were during your reign as the Dark Lord. I did not think that was possible."
 
 ```
 That will give me the time I need to fully prepare the Star Forge's defenses. I am curious to see the true extent of this space station's capabilities. One as my old master will make an interesting test subject.

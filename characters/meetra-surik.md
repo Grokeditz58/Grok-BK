@@ -246,7 +246,7 @@ In times past and in times future, there are Jedi who will stop listening to the
 — Kreia, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 26. After the attack by Sion and two Sith Lords, Meetra's companions believe she is dead: "She was our last chance, and now she is dead.".
+### 26. After the attack by Sion and two Sith Lords, Meetra's companions believe she is dead: "She was our last chance, and now she is dead."
 
 ```
 She was our last chance, and now she is dead. Now they have won.
@@ -262,7 +262,7 @@ No, you simply did not learn the lesson I sought to teach - that your strength i
 — Darth Traya, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 28. Asked how she came to die, the Jedi entity gives a blunt answer: "The betrayer always strikes with the best of intentions.".
+### 28. Asked how she came to die, the Jedi entity gives a blunt answer: "The betrayer always strikes with the best of intentions."
 
 ```
 When asked how she came to die, the Jedi entity’s response has been blunt, saying only: “The betrayer always strikes with the best of intentions.”
@@ -433,7 +433,7 @@ Observation: It does seem unlikely, Master, but I have observed that you - allie
 — HK-47, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 47. A speaker tells Meetra that she feeds on the deaths she has caused to get here and grows stronger, "like Malachor.".
+### 47. A speaker tells Meetra that she feeds on the deaths she has caused to get here and grows stronger, "like Malachor."
 
 ```
 He's right. It's... all the deaths you've caused to get here. You feed on it, and you grow stronger. You're like Malachor... it's in you, it's what you are now. You must have noticed as you've fought across all these planets, killing hundreds, only to grow more and more powerful. Why do you think that was?

@@ -53,7 +53,7 @@ Luke was the greatest Jedi Master, and he’d just exposed the absolute limits o
 — Fate of the Jedi: Vortex (Troy Denning)
 ```
 
-### 4. In Shadows of the Empire, Vader's thoughts on Luke: "So strong, the boy. Who could have known? Luke Skywalker—his son—might well be the most powerful man in the galaxy.".
+### 4. In Shadows of the Empire, Vader's thoughts on Luke: "So strong, the boy. Who could have known? Luke Skywalker—his son—might well be the most powerful man in the galaxy."
 
 ```
 So strong, the boy. Who could have known? Luke Skywalker—his son—might well be the most powerful man in the galaxy.
@@ -61,7 +61,7 @@ So strong, the boy. Who could have known? Luke Skywalker—his son—might well 
 — Shadows of the Empire (Steve Perry, 1996), ch. 29
 ```
 
-### 5. In The New Rebellion, Kueller declares: "Skywalker is the most powerful man in the galaxy.".
+### 5. In The New Rebellion, Kueller declares: "Skywalker is the most powerful man in the galaxy."
 
 ```
 Skywalker needs no favors.” He was speaking now not just for her, but for his guards. He had brought them as witnesses, so that tales of her treachery would be muted by tales of his response to it. “Skywalker is the most powerful man in the galaxy.
@@ -421,7 +421,7 @@ Luke launched a furious assault, slipping under her upper lightsaber and catchin
 — The Swarm War (Troy Denning, 2005), ch. 18
 ```
 
-### 48. Recalling his duel with Luke, Caedus says the advantage was held first by Luke, then by Caedus, in "brilliant demonstrations of lightsaber technique, of raw power within the Force, of subtle Jedi and Sith skills.".
+### 48. Recalling his duel with Luke, Caedus says the advantage was held first by Luke, then by Caedus, in "brilliant demonstrations of lightsaber technique, of raw power within the Force, of subtle Jedi and Sith skills."
 
 ```
 That fight … Caedus wished he had a holorecording of it. It had gone on for what had felt like forever. It had been brutal, with the advantage being held first by Luke, then by Caedus, in what he knew had been brilliant demonstrations of lightsaber technique, of raw power within the Force, of subtle Jedi and Sith skills. For all his pain, Caedus felt a swelling of pride—not just that he had survived that duel, but that he had waged it so well.

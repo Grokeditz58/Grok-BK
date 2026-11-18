@@ -379,7 +379,7 @@ Tenn slowed his pace slightly, feeling as if he had just brushed up against a pr
 — Death Star (Michael Reaves and Steve Perry, 2007), ch. 19
 ```
 
-### 42. Obi-Wan thinks Anakin's buzz-droid maneuver is impossible and no other pilot would try it, but for Anakin Skywalker "the completely impossible had an eerie way of being merely difficult.".
+### 42. Obi-Wan thinks Anakin's buzz-droid maneuver is impossible and no other pilot would try it, but for Anakin Skywalker "the completely impossible had an eerie way of being merely difficult."
 
 ```
 Obi-Wan shook his head. This was completely impossible. No other pilot would even attempt it. But for Anakin Skywalker, the completely impossible had an eerie way of being merely difficult.
@@ -387,7 +387,7 @@ Obi-Wan shook his head. This was completely impossible. No other pilot would eve
 — Revenge of the Sith novelization (Matthew Stover, 2005), ch. 1
 ```
 
-### 43. Palpatine tells Anakin he does not fear his power but embraces it: "You are the greatest of the Jedi. You can be the greatest of the Sith.".
+### 43. Palpatine tells Anakin he does not fear his power but embraces it: "You are the greatest of the Jedi. You can be the greatest of the Sith."
 
 ```
 That warm and human hand gave his shoulder a warm and human squeeze. “I do not fear your power, Anakin, I embrace it. You are the greatest of the Jedi. You can be the greatest of the Sith. I believe that, Anakin. I believe in you. I trust you. I trust you. I trust you.”
@@ -567,7 +567,7 @@ Growing impatient, Vader used his own psychic powers to make Leia believe she wa
 — The Rise and Fall of Darth Vader (Ryder Windham, 2008), ch. 15
 ```
 
-### 64. From the Executor, Vader telepathically calls to Luke as the Falcon flees Bespin, "Luke," then "Son. Come with me," then "It is your destiny.".
+### 64. From the Executor, Vader telepathically calls to Luke as the Falcon flees Bespin, "Luke," then "Son. Come with me," then "It is your destiny."
 
 ```
 While the Millennium Falcon attempted to evade the Imperial blockade around Bespin, Vader used the Force to telepathically call out to his son from the Executor, “Luke.”
@@ -1026,7 +1026,7 @@ The apprentice understood that, until this moment, they had never truly fought a
 — The Force Unleashed (Sean Williams, 2008), ch. 38
 ```
 
-### 109. Starkiller shoves Vader backward across the room with a telekinetic blast "with the force of a small explosion.".
+### 109. Starkiller shoves Vader backward across the room with a telekinetic blast "with the force of a small explosion."
 
 ```
 He beat back the telekinetic attack with one of his own, shoving his Master in the chest with the force of a small explosion, throwing Darth Vader backward across the room.

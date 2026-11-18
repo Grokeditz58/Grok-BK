@@ -899,7 +899,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [lyn-me.md](lyn-me.md) | Lyn Me (NEW 2026-10-30) | Rebellion | untiered | 2 | 2 | 0 | 0 | Lyn Me | 2 | 1 | 0 | 3 |
 | [makis-shaalas.md](makis-shaalas.md) | Ma'kis'shaalas (NEW 2026-10-29) |  | untiered | 7 | 7 | 0 | 0 | Ma'kis'shaalas | 7 | 1 | 0 | 0 |
 | [maarek-stele.md](maarek-stele.md) | Maarek Stele | GCW | untiered | 7 | 7 | 0 | 0 | Maarek Stele | 7 | 1 | 0 | 1 |
-| [mace-windu.md](mace-windu.md) | Mace Windu | Prequel / Clone Wars | DEEP | 1660 | 1617 | 43 | 228 | Mace Windu, Windu, Mace | 35 | 35 | n/a | n/a |
+| [mace-windu.md](mace-windu.md) | Mace Windu | Prequel / Clone Wars | DEEP | 1660 | 1617 | 43 | 228 | Mace Windu, Windu, Mace | 48 | 48 | n/a | n/a |
 | [machel-kendy.md](machel-kendy.md) | Machel Kendy (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 1 | 1 | 0 | 0 | Machel Kendy | 1 | 1 | 0 | 2 |
 | [macy-yakaro.md](macy-yakaro.md) | Macy Yakaro | Rebellion | untiered | 2 | 2 | 0 | 0 | Macy Yakaro, Macy | 2 | 1 | 0 | 0 |
 | [magalak.md](magalak.md) | Magalak (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Magalak | 2 | 0 | 0 | 0 |
@@ -1614,7 +1614,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Plagueis](darth-plagueis.md): 45
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1838
 - [Cade Skywalker](cade-skywalker/README.md): 1755
-- [Mace Windu](mace-windu.md): 35
+- [Mace Windu](mace-windu.md): 48
 - [Darth Maul](darth-maul.md): 37
 - [Mara Jade Skywalker](mara-jade.md): 69
 - [Lord Scourge](lord-scourge/README.md): 1622
@@ -1645,7 +1645,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Plagueis](darth-plagueis.md): 45
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1849
 - [Cade Skywalker](cade-skywalker/README.md): 1766
-- [Mace Windu](mace-windu.md): 35
+- [Mace Windu](mace-windu.md): 48
 - [Lord Scourge](lord-scourge/README.md): 1650
 - [Darth Maul](darth-maul.md): 37
 - [Leia Organa Solo](leia-organa/README.md): 1592

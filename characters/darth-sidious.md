@@ -1218,7 +1218,7 @@ Abruptly he made himself discernible in the Force, and immediately she turned he
 — Darth Plagueis (James Luceno, 2012), ch. 15
 ```
 
-### 126. Maul recalls his lightsaber flying from his hand to his Master's without his ever seeing Sidious enter: "Not if he doesn't want me to.".
+### 126. Maul recalls his lightsaber flying from his hand to his Master's without his ever seeing Sidious enter: "Not if he doesn't want me to."
 
 ```
 Suddenly, my lightsaber is gone. It flies from my hand across the room. It lands in the hand of my Master. I never see him enter. Not if he doesn't want me to. The smile of triumph fades from my face.
