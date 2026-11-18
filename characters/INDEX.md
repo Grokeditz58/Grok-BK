@@ -347,7 +347,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-maleval.md](darth-maleval.md) | Darth Maleval (NEW 2026-10-29) |  | untiered | 29 | 29 | 0 | 0 | Darth Maleval | 29 | 11 | 0 | 11 |
 | [darth-malgus/](darth-malgus/README.md) | Darth Malgus | TOR | DEEP | 1378 | 1377 | 1 | 502 | Darth Malgus, Malgus | 1374 | 674 | 55 | 324 |
 | [darth-marr.md](darth-marr.md) | Darth Marr | TOR | untiered | 102 | 102 | 0 | 19 | Darth Marr | 102 | 62 | 10 | 44 |
-| [darth-maul/](darth-maul/README.md) | Darth Maul | Prequel / Clone Wars | DEEP | 1638 | 1481 | 157 | 246 | Darth Maul, Maul | 1633 | 748 | 76 | 557 |
+| [darth-maul.md](darth-maul.md) | Darth Maul | Prequel / Clone Wars | DEEP | 1638 | 1481 | 157 | 246 | Darth Maul, Maul | 37 | 38 | n/a | n/a |
 | [darth-mekhis.md](darth-mekhis.md) | Darth Mekhis | TOR | untiered | 5 | 5 | 0 | 0 | Darth Mekhis, Mekhis | 5 | 4 | 0 | 4 |
 | [darth-millennial.md](darth-millennial.md) | Darth Millennial | Old Republic | untiered | 2 | 2 | 0 | 0 | Darth Millennial | 2 | 0 | 0 | 0 |
 | [darth-mursto.md](darth-mursto.md) | Darth Mursto (NEW 2026-11-03) | Legacy (137 ABY) | untiered | 7 | 7 | 0 | 0 | Darth Mursto, Mursto | 7 | 4 | 0 | 3 |
@@ -1615,7 +1615,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1838
 - [Cade Skywalker](cade-skywalker/README.md): 1755
 - [Mace Windu](mace-windu.md): 35
-- [Darth Maul](darth-maul/README.md): 1633
+- [Darth Maul](darth-maul.md): 37
 - [Mara Jade Skywalker](mara-jade.md): 69
 - [Lord Scourge](lord-scourge/README.md): 1622
 - [Darth Malgus](darth-malgus/README.md): 1374
@@ -1647,7 +1647,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Cade Skywalker](cade-skywalker/README.md): 1766
 - [Mace Windu](mace-windu.md): 35
 - [Lord Scourge](lord-scourge/README.md): 1650
-- [Darth Maul](darth-maul/README.md): 1638
+- [Darth Maul](darth-maul.md): 37
 - [Leia Organa Solo](leia-organa/README.md): 1592
 - [Mara Jade Skywalker](mara-jade.md): 69
 - [Darth Malgus](darth-malgus/README.md): 1378
