@@ -18,7 +18,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [a-4d.md](a-4d.md) | A-4D (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | A-4D | 1 | 1 | 0 | 0 |
 | [aayla-secura.md](aayla-secura.md) | Aayla Secura | Clone Wars | DEEP | 205 | 204 | 1 | 30 | Aayla Secura, Aayla, Secura | 239 | 105 | 5 | 66 |
 | [aban.md](aban.md) | Aban (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 1 | 1 | 0 | 0 | Aban | 1 | 1 | 0 | 1 |
-| [abeloth.md](abeloth.md) | Abeloth | FotJ | untiered | 379 | 379 | 0 | 49 | Abeloth | 379 | 272 | 33 | 96 |
+| [abeloth.md](abeloth.md) | Abeloth | FotJ | untiered | 379 | 379 | 0 | 49 | Abeloth | 157 | 157 | n/a | n/a |
 | [acklay-chopper.md](acklay-chopper.md) | Acklay Chopper (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Acklay Chopper | 4 | 0 | 0 | 0 |
 | [adalric-brandl.md](adalric-brandl.md) | Adalric Brandl | Dark Times | untiered | 23 | 23 | 0 | 0 | Adalric Brandl, Brandl | 23 | 18 | 0 | 22 |
 | [adar-tallon.md](adar-tallon.md) | Adar Tallon (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Adar Tallon | 4 | 2 | 0 | 1 |
