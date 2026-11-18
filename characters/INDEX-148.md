@@ -11,7 +11,6 @@ The link opens the file that holds the new lines.
 | han-solo | 4 | [han-solo.md](han-solo.md#egvv-1996) |
 | kyp-durron | 1 | [kyp-durron.md](kyp-durron.md#egvv-1996) |
 | luke-skywalker | 3 | [06-part-3-feats-and-statements-only.md](luke-skywalker/06-part-3-feats-and-statements-only.md#egvv-1996) |
-| mara-jade | 2 | [03-part-3-feats-and-statements-only.md](mara-jade/03-part-3-feats-and-statements-only.md#egvv-1996) |
 | talon-karrde | 1 | [talon-karrde.md](talon-karrde.md#egvv-1996) |
 | thrawn | 2 | [thrawn.md](thrawn.md#egvv-1996) |
 | lando-calrissian | 1 | [lando-calrissian.md](lando-calrissian.md#egvv-1996) |

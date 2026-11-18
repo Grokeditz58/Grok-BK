@@ -918,7 +918,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [mandalore-the-indomitable.md](mandalore-the-indomitable.md) | Mandalore the Indomitable | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 26 | 26 | 0 | 0 | Mandalore the Indomitable | 26 | 16 | 0 | 1 |
 | [mandalore-the-ultimate.md](mandalore-the-ultimate.md) | Mandalore the Ultimate | Mandalorian Wars | untiered | 61 | 61 | 0 | 5 | Mandalore the Ultimate | 61 | 47 | 0 | 13 |
 | [mandalorian-protectors.md](mandalorian-protectors.md) | Mandalorian Protectors (NEW 2026-10-29) |  | untiered | 8 | 8 | 0 | 0 | Mandalorian Protectors | 8 | 2 | 0 | 1 |
-| [mara-jade/](mara-jade/README.md) | Mara Jade Skywalker | GCW–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 1381 | 1377 | 4 | 117 | Mara Jade Skywalker, Mara Jade, Mara | 1616 | 1010 | n/a | n/a |
+| [mara-jade.md](mara-jade.md) | Mara Jade Skywalker | GCW–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 1381 | 1377 | 4 | 117 | Mara Jade Skywalker, Mara Jade, Mara | 43 | 53 | n/a | n/a |
 | [marasiah-fel.md](marasiah-fel.md) | Marasiah Fel | Legacy | MASTERY (Legacy-era version only) | 93 | 93 | 0 | 3 | Marasiah Fel, Marasiah | 92 | 41 | 0 | 47 |
 | [marcus-sione.md](marcus-sione.md) | Marcus Sione (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Marcus Sione | 2 | 0 | 0 | 0 |
 | [maris-brood.md](maris-brood.md) | Maris Brood | Dark Times | untiered | 52 | 52 | 0 | 2 | Maris Brood | 52 | 29 | 1 | 41 |
@@ -1616,7 +1616,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Cade Skywalker](cade-skywalker/README.md): 1755
 - [Mace Windu](mace-windu/README.md): 1647
 - [Darth Maul](darth-maul/README.md): 1633
-- [Mara Jade Skywalker](mara-jade/README.md): 1616
+- [Mara Jade Skywalker](mara-jade.md): 43
 - [Lord Scourge](lord-scourge/README.md): 1622
 - [Darth Malgus](darth-malgus/README.md): 1374
 - [Meetra Surik / the Jedi Exile](meetra-surik/README.md): 1161
@@ -1649,7 +1649,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Lord Scourge](lord-scourge/README.md): 1650
 - [Darth Maul](darth-maul/README.md): 1638
 - [Leia Organa Solo](leia-organa/README.md): 1592
-- [Mara Jade Skywalker](mara-jade/README.md): 1381
+- [Mara Jade Skywalker](mara-jade.md): 43
 - [Darth Malgus](darth-malgus/README.md): 1378
 - [Meetra Surik / the Jedi Exile](meetra-surik/README.md): 1198
 - [Darth Wyyrlok III](darth-wyyrlok.md): 1121
