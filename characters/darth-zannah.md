@@ -10,15 +10,15 @@ Evidence file for Darth Zannah, **Star Wars Legends** continuity. Each entry is 
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 104 entries and 105 quotes.
+- This file has 92 entries and 92 quotes.
 
 
 ## Contents
 
-- [Power and Reputation](#power-and-reputation) (15)
-- [Force Powers](#force-powers) (23)
+- [Power and Reputation](#power-and-reputation) (12)
+- [Force Powers](#force-powers) (21)
 - [Combat and Duels](#combat-and-duels) (18)
-- [Other Feats](#other-feats) (48)
+- [Other Feats](#other-feats) (41)
 
 ## Power and Reputation
 
@@ -30,15 +30,7 @@ She was young-only ten-but she was strong in the Force. And so Master Torr had l
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 2. Zannah was powerful even as a child.
-
-```
-There was power in the child.
-
-— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
-```
-
-### 3. Darth Bane saw the potential for a successor in Zannah.
+### 2. Darth Bane saw the potential for a successor in Zannah.
 
 ```
 In Zannah, Bane had seen the potential for the successor he needed, but she had obviously seen something she wanted in him, too.
@@ -46,57 +38,39 @@ In Zannah, Bane had seen the potential for the successor he needed, but she had 
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 4. Darth Bane told Zannah she had the potential to surpass him.
+### 3. Darth Bane told Zannah she had the potential to surpass him.
 
 ```
 The girl's eyes opened wide. Then they narrowed as she focused intently on what he was saying. "You have the potential to surpass me," he continued.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 5
 ```
 
-### 5. Darth Zannah was far more powerful than a man with undeniable power.
+### 4. Darth Zannah was far more powerful than a man with undeniable power.
 
 ```
 Zannah could feel the air crackle as the small man called upon the Force, gathering the energies of the dark side. His power was undeniable, yet as she felt it building she was confident his abilities would be no match for hers.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 13
 ```
 
-### 6. Darth Zannah's sheer power as of 990 BBY greatly astonished the Huntress.
+### 5. Darth Zannah's sheer power as of 990 BBY greatly astonished the Huntress.
 
 ```
 How can one individual command such power?
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 11
 ```
 
-### 7. And the Huntress had just perceived the devastation and cleansing of Ambria, then Darth Bane's power as of 1000 BBY, which was greater than anything she had previously perceived, prior to perceiving Zannah's power in 990 BBY.
-
-```
-Thousands of years ago Ambria had been a world of verdant forests, brimming with life and the power of the Force. But the lush vegetation had been devastated when a Sith sorceress tried-and failed-to bend the entire planet to her will through a powerful ritual. Unable to control the violent energies of the dark side, she was destroyed by her own spell, as was the landscape of the entire planet.
-For centuries the corruption of the failed ritual influenced all life on Ambria, transforming the once beautiful world into a nightmare of stunted, poisonous vegetation and twisted, mutated beasts. Eventually the dark side energies released by the Sith sorceress were trapped in a great lake near the planet's equator by a Jedi Master named Thon, but the damage was too widespread for the world to ever be completely healed.
-The Iktotchi knew all this not because she had studied the planet's history, however. Her connection to the Force allowed her to see things.
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
-```
-
-### 8. Darth Zannah was powerful enough to challenge Bane.
-
-```
-Over the years Bane had tracked her progress carefully, and he could no longer say with certainty which one of them would survive a confrontation between them.
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), prologue
-```
-
-### 9. Darth Zannah's Force powers were possibly greater than Bane's own.
+### 6. Darth Zannah's Force powers were possibly greater than Bane's own.
 
 ```
 Zannah was smart and cunning, and her powers in the dark side might be even greater than his own.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 8
 ```
 
-### 10. Darth Zannah's spell of madness almost overpowered Darth Bane, but he was able to break free.
+### 7. Darth Zannah's spell of madness almost overpowered Darth Bane, but he was able to break free.
 
 ```
 Opening herself up to the power of the dark side, Zannah reached out and touched the mind of her Master.
@@ -115,27 +89,27 @@ Zannah watched as Bane huddled against the ground, his lightsaber flailing wildl
 For a second she thought she had won as Bane let out a shriek, but the burst of energy that followed sent her reeling backward.
 Regaining her balance she saw that Bane was on his feet again, and she knew he had resisted the spell.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 11. Darth Zannah unleashed a wave of thunderous Force that slammed Darth Bane into a wall. Darth Bane was drugged and distracted, but had also gathered his power and thrown up a force barrier at the last possible instant. The other victim of her attack was thrown thirty meters, ricocheting off of the walls until a ninety degree turn stopped her.
+### 8. Darth Zannah unleashed a wave of thunderous Force that slammed Darth Bane into a wall. Darth Bane was drugged and distracted, but had also gathered his power and thrown up a force barrier at the last possible instant. The other victim of her attack was thrown thirty meters, ricocheting off of the walls until a ninety degree turn stopped her.
 
 ```
 He began to gather the dark side, the power slowly building. But before he could unleash it he was hit by a wall of thunderous force rolling out from a corridor to his left. Instinctively he threw up a defensive shield, absorbing the blow. Despite this, he was slammed against the opposite wall, knocking the breath from his lungs.
 Lucia was not so fortunate. Unable to call upon the Force to protect herself, she was sent careering down the corridor, flipping and twisting. Her skull smashed against the stone half a dozen times as her body ricocheted off the walls and ceiling, reducing it to a bloody, misshapen mess. Her corpse finally tumbled to a stop thirty meters away where the hall made an abrupt ninety-degree turn.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 21
 ```
 
-### 12. Darth Zannah shielded herself against a powerful force throw from Bane, and though she was thrown back, the shield prevented her bones from being completely shattered by the blow.
+### 9. Darth Zannah shielded herself against a powerful force throw from Bane, and though she was thrown back, the shield prevented her bones from being completely shattered by the blow.
 
 ```
 Bane hit her with a powerful Force throw, sending her hurtling backward. Only the barrier she had instinctively thrown up at the last second to shield herself saved her bones from being shattered by the concussive force of the impact.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 15
 ```
 
-### 13. As a child with no training in the ways of the Force, Zannah subconsciously transmitted her power to her cousin Darovit through a Force bond between them.
+### 10. As a child with no training in the ways of the Force, Zannah subconsciously transmitted her power to her cousin Darovit through a Force bond between them.
 
 ```
 Zannah didn't say anything, but merely shifted in her seat.
@@ -149,18 +123,18 @@ She didn't answer, but she did remember. As children Darovit was the one who cou
 "My power is weak. That's why I survived the thought bomb when all the Sith and Jedi around me were destroyed by its power. It only affected those with a strong affinity for the Force.
 "And what about you? You have so much power. Why do you think it took so long to show itself? You were always channeling it through me."
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 20
 ```
 
-### 14. Darth Zannah was physically lean and strong, having the figure of a gymnast.
+### 11. Darth Zannah was physically lean and strong, having the figure of a gymnast.
 
 ```
 Of average height, she had the figure of a gymnast: lean, lithe, and strong.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 3
 ```
 
-### 15. Darth Zannah used the Force to track her master in the Stone Prison, despite Bane's attempts to obscure her efforts by imprinting his presence on guard rooms.
+### 12. Darth Zannah used the Force to track her master in the Stone Prison, despite Bane's attempts to obscure her efforts by imprinting his presence on guard rooms.
 
 ```
 Closing her eyes and blocking out the earsplitting sound of the alarms, she reached out with the Force once more. This time she ignored the powerful dark side imprint Bane had left on the guard rooms. It only took a few seconds for her to pick up his trail again. As she suspected, he was still inside the prison.
@@ -171,15 +145,15 @@ Closing her eyes and blocking out the earsplitting sound of the alarms, she reac
 
 ## Force Powers
 
-### 16. Darth Zannah could casually and easily rip the minds of her enemies apart with her spells.
+### 13. Darth Zannah could casually and easily rip the minds of her enemies apart with her spells.
 
 ```
 Sith sorcery was as much a part of the dark side as the deadly violet bolts of energy her Master unleashed from his hands, and when Bane had first recognized her talent for the subtle but devastating magics he had encouraged her studies into the arcane. From ancient texts she had learned to twist and torment the thoughts of her enemies. She could make them see nightmares as reality; she could cause their deepest fears to manifest as demons of the psyche. She could, and had, rip the minds of her enemies apart with a simple thought and a gesture.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 17. As a child without any training, Zannah used a focused telekinetic strike against Darth Bane, which impressed him with its magnitude and precision.
+### 14. As a child without any training, Zannah used a focused telekinetic strike against Darth Bane, which impressed him with its magnitude and precision.
 
 ```
 He felt a sudden surge of power rushing toward him, concentrated on the heel of his left foot as she tried to trip him up to slow him down. Bane had braced himself for some kind of reaction the moment he'd turned his back on her. He'd pushed her to the edge; he'd have been disappointed if she had done nothing. But he'd been expecting a broader, more basic assault-a wave of dark side energy meant to hurl him to the ground. A focused strike against a single heel was much more subtle. It showed intelligence and cunning, and though he was ready for it, the strength of her attack still surprised him.
@@ -187,19 +161,7 @@ He felt a sudden surge of power rushing toward him, concentrated on the heel of 
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 18. Darth Zannah choked Darovit with the Force.
-
-```
-Zannah reached back with the Force, wrapping it around his windpipe. And slowly she began to squeeze. Darovit fell to his knees, his hands flying up to his throat as his oxygen was cut off.
-"There is a data terminal in the back," Zannah said, ignoring his choking coughs. "Use it to go over everything in the article I took from the Archives."
-She pulled the card from the pocket on her thigh and tossed it down in front of her suffocating cousin. He was rolling back and forth on the floor now, his hands clawing at his throat. His face had turned a bright red, and his eyes were starting to bulge from his sockets.
-"If you can't find a way to help my Master by the time we get to Tython " she warned, "he will kill you."
-She released Darovit from the Force choke, and he gasped and gulped down air in raw, ragged breaths. She turned to watch him with a cruel smile on her lips, making sure he knew she was enjoying his suffering. Eventually he recovered enough to pick up the datacard and head for the terminal in the back.
-
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
-```
-
-### 19. As a child with no training in the Force, Zannah shielded herself and Laa from the Force storm on Ruusan.
+### 15. As a child with no training in the Force, Zannah shielded herself and Laa from the Force storm on Ruusan.
 
 ```
 The fires had killed most of the other bouncers. The survivors had all gone mad. All except Laa. Somehow Rain had saved her. She'd used the Force, shielding them both from the burning death and destruction, though she wasn't quite sure how she'd done it. It had just sort of .. . happened. Now she and Laa had nobody left but each other.
@@ -207,23 +169,23 @@ The fires had killed most of the other bouncers. The survivors had all gone mad.
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 20. Darth Zannah easily shielded herself from a telekinetic assault from Set Harth.
+### 16. Darth Zannah easily shielded herself from a telekinetic assault from Set Harth.
 
 ```
 Set fired out a sharp burst of dark side power in a shimmering wave designed to knock her from her feet. Zannah easily countered by throwing up a protective energy barrier, the simplest and most effective way for one Force-user to defend against the attacks of another.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 21. Darth Zannah's defenses were such that telekinesis would be impractical for Bane to attempt against her.
+### 17. Darth Zannah's defenses were such that telekinesis would be impractical for Bane to attempt against her.
 
 ```
 Both she and Bane knew how to surround themselves with an invisible field of energy that absorbed or repelled the most basic tricks taught to any Jedi or Sith. But Bane could unleash devastating bolts of dark side lightning from his hands almost at will.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 22. Darth Zannah's spell of concealment violently disrupts Cognus's psychometry ten years later.
+### 18. Darth Zannah's spell of concealment violently disrupts Cognus's psychometry ten years later.
 
 ```
 A series of shocking and violent images assailed the Iktotchi's senses. She saw the healer's decapitated body, his limbs hacked from his torso and arranged in a gruesome display near the fire pit. Inside the cabin the young man crouched in a corner, a babbling idiot driven mad by the horrors that had been visited upon him. The other two-the young woman and the Sith Lord-were harder to see, though she sensed they were still there. Something concealed them; some power or spell cloaked their presence.
@@ -231,28 +193,28 @@ When she tried to pierce the veil something pushed back, snapping her out of her
 Serra was at her side in an instant, crouching over her. "What happened? What did you see?"
 The Huntress didn't speak right away. She had heard of this happening to others, but she'd never experienced it herself. It wasn't the images of Caleb's gruesome death that had caused her to recoil. It had been sorcery, Sith magic. A spell of concealment had hidden the Sith Lord and the young woman from the Jedi who had discovered the healer's body. The memories still carried the echo of the spell upon them; even after a decade it had been potent enough to momentarily overwhelm her.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 11
 ```
 
-### 23. As a child with no training, Zannah senses a camp of mercenaries two kilometers away.
+### 19. As a child with no training, Zannah senses a camp of mercenaries two kilometers away.
 
 ```
 That was how, still two kilometers and several minutes away from where Kaan and his army had made their camp, he knew others were already there.
 There were eight in total, all human-six men and two women. Mercenaries who had signed on with the Brotherhood for credits and a chance to strike at the hated Republic, they had survived the final battle with Hoth's troops. They had most likely fled the confrontation the instant Kaan had descended into the bowels of the planet's surface to lay his trap for the Jedi, displaying the loyalty of all followers bought and paid for. And now, like blood beetles picking the rotting meat off a bantha's corpse, they had come to scavenge whatever remnants of value they could find from the deserted Sith camp.
 "There's someone up ahead," Zannah whispered a minute later. Less attuned to the subtle nuances of the Force than her Master, it had taken her longer to sense the danger. But given her lack of training, the fact that she had noticed anything at all was testament to her abilities.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 3
 ```
 
-### 24. As a child with no training, Zannah could sense the fear emanating from another child.
+### 20. As a child with no training, Zannah could sense the fear emanating from another child.
 
 ```
 She could actually sense the fear emanating from him.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 6
 ```
 
-### 25. Darth Zannah sensed the arrival of the Jedi on Tython.
+### 21. Darth Zannah sensed the arrival of the Jedi on Tython.
 
 ```
 The sight of another ship appearing over his apprentice's shoulder, still too far in the distance to make out a model or affiliation, put an end to his deliberations. An instant later he felt the unmistakable light-side power of those on board.
@@ -262,18 +224,18 @@ Zannah must have felt it too; she turned and looked in that direction, then turn
 The ship was coming in quickly, too fast for them to get into their own craft and take to the sky. If they tried, the other vessel would shoot them down before they took off.
 "Inside the fortress," Bane ordered. "The Jedi have found us."
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 20
 ```
 
-### 26. Darth Zannah sensed Set Harth's return to his mansion.
+### 22. Darth Zannah sensed Set Harth's return to his mansion.
 
 ```
 Zannah froze as she felt a sudden presence within the mansion. Reaching out with the Force, she confirmed her suspicions: Set had returned from his party, and he was alone.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 27. Darth Zannah sensed Set Harth becoming conscious and beginning to gather his power, despite his attempts to be subtle about it.
+### 23. Darth Zannah sensed Set Harth becoming conscious and beginning to gather his power, despite his attempts to be subtle about it.
 
 ```
 Though his eyes were still closed, Set was beginning to assemble a detailed image of his surroundings by reaching out with the Force. He was in his own bed, in his own room. But he wasn't alone. Someone else was there. The woman.
@@ -284,10 +246,10 @@ And then what? She already beat you once.
 Maybe this time he could surprise her. Catch her off guard. Carefully, he began to gather his power.
 "I thought you were smarter than that," the woman said.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 13
 ```
 
-### 28. Darth Zannah could sense something was wrong as she and Set Harth arrived on Ciutric IV.
+### 24. Darth Zannah could sense something was wrong as she and Set Harth arrived on Ciutric IV.
 
 ```
 As Zannah brought the Victory in to touch down in her designated hangar at the Ciutric IV starport, she felt a sudden sense of uneasiness.
@@ -297,28 +259,28 @@ I'm about to challenge my Master in a battle to the death, and I'm still not sur
 Set shrugged. He was sitting with his chair reclined, his legs stretched out, and his feet resting on the dash. If he was feeling any anxiety himself, it was well masked.
 With the ship on the ground, Zannah cut the engines. She couldn't shake the feeling that something was very wrong, but she had come too far to turn back now.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 15
 ```
 
-### 29. Darth Zannah perceives a bolt of lightning in slow motion, beginning to observe it after it had been fired off by Bane, following its trajectory to see where it would strike and grasping the implications of its target before it hit with enough time to throw herself back.
+### 25. Darth Zannah perceives a bolt of lightning in slow motion, beginning to observe it after it had been fired off by Bane, following its trajectory to see where it would strike and grasping the implications of its target before it hit with enough time to throw herself back.
 
 ```
 Despite missing her the first time, Bane followed it up with another blast on the exact same trajectory. Turning her head to follow the course of the misguided bolt, Zannah saw where the first had hit the wall. The stone had been disintegrated in a fist-sized hole, revealing something that looked like bright red plastic beneath it.
 She recognized it as the casing of a demolition charge just in time to throw herself backward, using the Force to shield herself from the worst of the explosion.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 30. Darth Zannah subtly influences the thought processes of terrorists to achieve more permanent and less obvious results than straight up mental domination, though the effects of her straight up mental domination would last for hours.
+### 26. Darth Zannah subtly influences the thought processes of terrorists to achieve more permanent and less obvious results than straight up mental domination, though the effects of her straight up mental domination would last for hours.
 
 ```
 She said the words with utter conviction even though she didn't believe them. At the same time, she reached out with the Force to touch the minds of everyone in the room. It was possible to use the dark side to dominate another's will, but that would not serve her purpose here. The effects of mental domination would begin to fade after a few hours. By the time of Chancellor Valorum's arrival, any direct influence she exerted over Kel and his friends would be completely gone.
 Zannah preferred a more subtle and insidious approach. Instead of using the Force to bend them to her will, she was gently prodding their collective psyche, pushing their thought patterns to make them more emotional, more aggressive. By itself the process was useless, but combined with persuasive words to further stir the blood, the effects could be more powerful-and more permanent-than the brute force of simple mind control.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 11
 ```
 
-### 31. Darth Zannah blocked Darth Bane's lightning in the Stone Prison several times.
+### 27. Darth Zannah blocked Darth Bane's lightning in the Stone Prison several times.
 
 ```
 Then she became aware of a strange high-pitched hum behind the clang of the alarms-not the sound of any lightsaber she had ever heard, and not a sound her ears found comfortable. She rose and walked farther down the hall toward the source of the noise, leaving Lucia's broken body behind her.
@@ -327,64 +289,55 @@ Just before she had him pinned, however, a bolt of violet lightning shot forth f
 ...
 They reached the end of the hall, and Zannah thought she had Bane trapped. This time she used her lightsaber to slap aside the violet bolts of lightning rather than trying to absorb them and stumbling back.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 22
 ```
 
-### 32. Darth Zannah used an offensive maneuver that caused Bane to stop several meters back to avoid it.
+### 28. Darth Zannah used an offensive maneuver that caused Bane to stop several meters back to avoid it.
 
 ```
 Zannah threw herself into a back handspring, flipping head over heels three times in quick succession just to put some space between her and Bane. Before the fourth one she suddenly stopped and went into a crouch, thrusting forward with her lightsaber like a spear to impale her opponent as he charged after her in pursuit:only Bane wasn't there.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 33. Darth Zannah dodged several bursts of lightning.
-
-```
-Bane fought back with short, concentrated bursts of lightning, aiming at her boots to disrupt her footwork and keep her off balance.
-Zannah took quick stuttering steps to avoid the attack and keep him from gaining a reprieve.
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
-```
-
-### 34. Darth Zannah dodged a bolt of lightning before she observed and analyzed the trajectory of another bolt of lightning and it's implications, threw herself backwards, and threw up a Force barrier in less time that the lightning itself took to travel the distance (she started observing after the lightning had been fired off, and finished observing, threw herself back and erected a Force shield before the lightning struck its target).
+### 29. Darth Zannah dodged a bolt of lightning before she observed and analyzed the trajectory of another bolt of lightning and it's implications, threw herself backwards, and threw up a Force barrier in less time that the lightning itself took to travel the distance (she started observing after the lightning had been fired off, and finished observing, threw herself back and erected a Force shield before the lightning struck its target).
 
 ```
 As she gathered herself to charge, Bane fired off another bolt of lightning. She ducked to the side and it whizzed past her ear, striking the wall and sending up a shower of dust and stone flecks.
 Despite missing her the first time, Bane followed it up with another blast on the exact same trajectory. Turning her head to follow the course of the misguided bolt, Zannah saw where the first had hit the wall. The stone had been disintegrated in a fist-sized hole, revealing something that looked like bright red plastic beneath it.
 She recognized it as the casing of a demolition charge just in time to throw herself backward, using the Force to shield herself from the worst of the explosion. She was thrown clear as the entire wall blew out, sending huge chunks of stone spewing into the passage. The ceiling was shredded, tearing loose massive blocks that tumbled to the ground.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 35. Darth Zannah dodged a few of Sarro Xaj's strikes after being distracted and thrown off balance, while Xaj was amped by battle meditation.
+### 30. Darth Zannah dodged a few of Sarro Xaj's strikes after being distracted and thrown off balance, while Xaj was amped by battle meditation.
 
 ```
 The glance in her Master's direction had lasted only a fraction of a second, but in the brief interval of her distraction the larger man had sprung forward, jabbing the tip of one of his blades toward her eye like a spear. Zannah snapped her head to the side at the last possible instant, hearing the hiss as the blade sheared off a lock of her hair. The sudden movement threw off her timing and balance, and as her spinning lightsaber slapped away the blow she had earlier anticipated from the smaller man's green blade, it lost its centripetal momentum and faltered.
 In the split second it took to roll her wrists and start the intricate, whirling patterns of her blades again, she was vulnerable. The big man sliced high at her head, forcing her to duck, then chopped in low at her feet on the backstroke, causing her to jump before she could properly set herself. She avoided the swipe, but landed clumsily on her feet.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 36. Darth Zannah used a back handspring to evade one of Sarro Xaj's strikes, while Xaj was amped by battle meditation.
+### 31. Darth Zannah used a back handspring to evade one of Sarro Xaj's strikes, while Xaj was amped by battle meditation.
 
 ```
 Its twin came in quickly from the other side at her hip, and she threw herself into a back handspring to avoid it, landing nimbly on her feet.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 37. After falling to the ground under Darth Bane's ferocious assault, Zannah managed to avoid several of his blows, get out from under him, and perform a triple back handspring.
+### 32. After falling to the ground under Darth Bane's ferocious assault, Zannah managed to avoid several of his blows, get out from under him, and perform a triple back handspring.
 
 ```
 Bane was on her in an instant, his lightsaber slashing viciously, his heavy boots kicking and stomping at her prone body. Zannah thrashed and twisted on the ground, her lightsaber flailing desperately to parry Bane's blade. She felt a sharp crack as the toe of his boot caught her in the ribs, but she rolled with the impact and managed to end up back on her feet.
 Her vision was blurred with stars, pain shooting through her left side with each gasp as she tried to catch her breath. Bane didn't let up, coming at her with a frenetic assault. The next few seconds were a blur as Zannah relied purely on instincts honed over twenty years to parry the wave of blows, miraculously keeping him from landing a lethal strike.
 Zannah threw herself into a back handspring, flipping head over heels three times in quick succession just to put some space between her and Bane.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 38. Darth Zannah used a curse on Cyndra, forcing her to hallucinate all of her worst fears, driving her insane, and destroying her mind. The initial casting of the illusions took less than a second, and they grew perpetually worse and worse as they progressed.
+### 33. Darth Zannah used a curse on Cyndra, forcing her to hallucinate all of her worst fears, driving her insane, and destroying her mind. The initial casting of the illusions took less than a second, and they grew perpetually worse and worse as they progressed.
 
 ```
 Zannah shook her elbow free of Cyndra's grasp and raised her shackled hands before her face. Weaving her ringers in a complex pattern in the air, she reached out with the Force and plunged deep inside the Chiss woman's mind to find her secret, most primal fears. Buried in her subconscious were nameless horrors: abominations and creatures of nightmare never meant to see the light of day. Drawing on the power of Sith sorcery, Zannah plucked them out and brought them to life one by one.
@@ -402,31 +355,31 @@ The body shivered once, and Zannah knew that somewhere in the deepest core of Cy
 
 ## Combat and Duels
 
-### 39. Darth Zannah called her lightsaber to her hands and snapped her restraints with a single thought.
+### 34. Darth Zannah called her lightsaber to her hands and snapped her restraints with a single thought.
 
 ```
 Extending her shackled hands, she used the Force to draw the lightsaber from Hetton's lap, sending it flying across the room and into her waiting palm. As the blades ignited she casually snapped her restraints with a single thought
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 13
 ```
 
-### 40. Darth Zannah used the Force to see every possible outcome in combat.
+### 35. Darth Zannah used the Force to see every possible outcome in combat.
 
 ```
 In her mind the next few seconds played out in a thousand different scenarios, each unique in its specific details, each a vision of a possible future glimpsed through the power of the Force. The sheer number of possibilities could be overwhelming, but Bane had trained her well. Instinctively, she collapsed the matrix of probabilities into the most likely outcomes, effectively allowing her to anticipate and react to her opponent's next move even before it happened.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 41. Darth Zannah trained for thousands of hours in the forms of lightsaber combat.
+### 36. Darth Zannah trained for thousands of hours in the forms of lightsaber combat.
 
 ```
 Bane had taught her to rely on instinct, guided by the Force and honed by thousands of hours' training in the martial forms. This training allowed her to realize within the first few passes that Set was using a modified variation of Ataru, a style defined by quick, aggressive strikes. In only the first few moments of battle she had already evaluated her opponent, noting his speed, agility, and technique.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 42. Darth Zannah wielded a saberstaff, which can only be properly wielded by a master of lightsaber combat.
+### 37. Darth Zannah wielded a saberstaff, which can only be properly wielded by a master of lightsaber combat.
 
 ```
 Any Jedi Knight could wield a single-bladed lightsaber; only a master fighter could use the weapon first designed by the legendary Dark Lord Exar Kun millennia ago. Unless one was in perfect attunement with it, the weapon could be as deadly to the user as to the opponent.
@@ -434,15 +387,15 @@ Any Jedi Knight could wield a single-bladed lightsaber; only a master fighter co
 — Lost Tribe of the Sith (John Jackson Miller, 2012), ch. 17
 ```
 
-### 43. Darth Zannah was a much much better duelist than Set Harth, whom she noted to be very good himself.
+### 38. Darth Zannah was a much much better duelist than Set Harth, whom she noted to be very good himself.
 
 ```
 Set was good. Very good. But Zannah also knew without any doubt that she was much, much better.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 44. Darth Zannah easily defeated Paak, casually defending against him and dancing around him in melee combat before deflecting his blasterbolts at point blank range.
+### 39. Darth Zannah easily defeated Paak, casually defending against him and dancing around him in melee combat before deflecting his blasterbolts at point blank range.
 
 ```
 Paak had come in expecting to skewer a helpless prisoner; he wasn't ready to face an armed foe. She could have slain him right then and there, but she noticed that Hetton was still sitting passively in his seat, observing the action. Zannah decided she'd give him a show.
@@ -451,10 +404,10 @@ After three failed passes, the tattooed man threw his blade down in frustration 
 Using the precognitive awareness of the Force, she was easily able to anticipate the incoming shots and intercept them with the crackling crimson blades of her lightsaber. The first bolt ricocheted harmlessly up into the ceiling; the second she sent back at Paak.
 It struck him square between the eyes, leaving a smoking hole in his forehead. His body went rigid, then toppled over backward.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 13
 ```
 
-### 45. Darth Zannah held her own for a little while against a battle meditation invigorated Sarro Xaj in lightsaber combat, doing so in a setting where she had to avoid retreating, which would leave her trapped if she retreated and keep her from retreating to alleviate offensive pressure, both of which were ultimately the reasons Sarro was on the verge of defeating her in martial combat by the end of their duel.
+### 40. Darth Zannah held her own for a little while against a battle meditation invigorated Sarro Xaj in lightsaber combat, doing so in a setting where she had to avoid retreating, which would leave her trapped if she retreated and keep her from retreating to alleviate offensive pressure, both of which were ultimately the reasons Sarro was on the verge of defeating her in martial combat by the end of their duel.
 
 ```
 Zannah slid to the side, her spinning weapon redirecting the blade of her enemy away from her throat and harmlessly up over her shoulder. Its twin came in quickly from the other side at her hip, and she threw herself into a back handspring to avoid it, landing nimbly on her feet. Grimly, she realized that she'd never understood the true meaning of the term martial arts until now.
@@ -464,18 +417,18 @@ He came at her again, his blade changing directions so quickly in midstroke that
 It was more than just his talent and training. Zannah sensed some type of greater power at work: the Force flowed through him as if it was being channeled by another, giving even greater strength to her opponent.
 Another exchange drove her backward; the man was cutting off the room, herding her tightly into the corner to limit her movement. He was taking away her agility, knowing she was no match for his strength. And there was nothing she could do about it. Taking another step back, she felt her heel butt up against the edge of the wall. There was nowhere left to go; the end was near.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 46. Darth Zannah's defense was an impassable wall of blades.
+### 41. Darth Zannah's defense was an impassable wall of blades.
 
 ```
 Zannah noted all this from behind the impassable wall of her spinning twin blades, content to play a completely passive role in the encounter.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 47. Darth Zannah easily defeated Set Harth in martial combat, defending against his assault without any difficulty.
+### 42. Darth Zannah easily defeated Set Harth in martial combat, defending against his assault without any difficulty.
 
 ```
 "I thought the Sith were extinct," he replied, casually twirling his lightsaber in one hand, never taking his eyes off Zannah.
@@ -494,10 +447,10 @@ When he was a step slow in retreating after one of his thrusts, she kicked his f
 Set sprang back immediately and used the Force to yank the hilt back to his palm, then stubbornly renewed his attacks. But as the seconds slipped by, the fire of the dark side was less and less able to fight off the fatigue setting into his joints and limbs. It was inevitable that his weary body would betray him, and soon enough he came in with his blade held out too far to the side, instead of tight in front of him. Zannah stepped forward and snapped her foot straight up, catching Set under the chin. He staggered back howling in pain while a string of unintelligible profanities spewed from his mouth, along with a spatter of blood.
 "Do you yield?" Zannah asked.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 48. Darth Zannah held her own against Darth Bane in martial combat, repelling his initial onslaught, retreating but holding her own against his refined and unpredictable technique, and managing to escape out from under his ferocious onslaught though not without injury which ultimately spelled her defeat against him in martial combat.
+### 43. Darth Zannah held her own against Darth Bane in martial combat, repelling his initial onslaught, retreating but holding her own against his refined and unpredictable technique, and managing to escape out from under his ferocious onslaught though not without injury which ultimately spelled her defeat against him in martial combat.
 
 ```
 Zannah expected Bane to come at her aggressively, but even so she was caught off guard by the ferociousness of his attack.
@@ -522,53 +475,53 @@ Zannah threw herself into a back handspring, flipping head over heels three time
 Anticipating her move, he had stopped several meters away.
 Gritting her teeth against the pain from her broken rib, Zannah rose to her feet. Bane hadn't killed her, but her survival had come with significant cost. She was tired now, the desperate scramble to escape after tripping on the grave had pushed her one step closer to physical exhaustion. She felt the broken rib with each ragged breath, and she sensed that the injury would make it harder for her to pivot and turn, limiting the effectiveness of her defensive maneuvers.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 49. Darth Zannah kicked Set Harth's legs out from under him before intentionally letting him recover, then disarming him with a single lightsaber maneuver.
+### 44. Darth Zannah kicked Set Harth's legs out from under him before intentionally letting him recover, then disarming him with a single lightsaber maneuver.
 
 ```
 When he was a step slow in retreating after one of his thrusts, she kicked his feet out from under him and sent him sprawling to the floor, only to back away and let him get to his feet again. When he moved back in, she twisted her lightsaber in a sharp, unorthodox move, hooking one of her blades onto his and wrenching the weapon from his hand.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 50. Darth Zannah kicked Set Harth hard in the face at the end of their duel.
+### 45. Darth Zannah kicked Set Harth hard in the face at the end of their duel.
 
 ```
 Zannah stepped forward and snapped her foot straight up, catching Set under the chin. He staggered back howling in pain while a string of unintelligible profanities spewed from his mouth, along with a spatter of blood.
 "Do you yield?" Zannah asked.
 His only response was to spit a gob of blood onto the expensive carpet at his feet and rush forward once more.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 51. Darth Zannah recognized part of Darth Bane's plan to use the environment against her in their duel and came up with a strategy in response, though she was ultimately outsmarted by Bane in the end.
+### 46. Darth Zannah recognized part of Darth Bane's plan to use the environment against her in their duel and came up with a strategy in response, though she was ultimately outsmarted by Bane in the end.
 
 ```
 She was being driven back in a slow retreat, and she realized he was herding her toward the shuttles, hoping to pin her against the metal hull with no place to go. Zannah was content to play along, taking quick, careful steps backward over the soft, sandy terrain as she began to gather her power.
 The key was subtlety. She couldn't let Bane sense what she was doing or he would launch into another wild flurry of attacks, forcing her to focus all her energy on keeping him at bay. She had to give him the illusion he was controlling the action, when in fact she was only a few seconds away from unleashing a burst of dark side sorcery that would rip his mind apart.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 52. Darth Zannah had the speed to contend with a battle meditation invigorated Sarro Xaj in martial combat.
+### 47. Darth Zannah had the speed to contend with a battle meditation invigorated Sarro Xaj in martial combat.
 
 ```
 He came at her again, his blade changing directions so quickly in midstroke that it seemed to bend and curve. Zannah repelled the assault with a furious defensive flurry, breathing hard.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 53. Darth Zannah pulled out her lightsaber, activated it, and killed two men with three strikes before their facial expressions could change at all.
+### 48. Darth Zannah pulled out her lightsaber, activated it, and killed two men with three strikes before their facial expressions could change at all.
 
 ```
 Zannah answered by whipping out her lightsaber handle and igniting the red three-quarter-length blades protruding from each end. She moved with the blinding speed of the Force, her first vicious slash severing Pommat's outstretched arm at the elbow and carving a lethal furrow across his chest while the second cleanly removed Quano's head from his body. Both were dead before they even had a chance to register an expression of surprise.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 7
 ```
 
-### 54. Darth Zannah was fast enough to contend with Darth Bane in martial combat in their final duel.
+### 49. Darth Zannah was fast enough to contend with Darth Bane in martial combat in their final duel.
 
 ```
 She recovered quickly, however, spinning out of the way when he followed up with a low, looping swipe meant to hew her off at the knees. She retaliated with a quick jab with the tip of one of her blades toward Bane's face, but he ducked his head to the side and came back with a wide-arcing, single-handed slash at chest level.
@@ -576,19 +529,19 @@ Zannah intercepted his blade with one of her own, angling her weapon so that the
 His weight slammed into her, knocking her back as Bane snapped his neck forward. Zannah threw her head back just in time, and the head-butt that would have smashed her face glanced off her chin instead.
 Scrambling to stay on her feet, Zannah raised her weapon back up, spinning the handle so that the twirling blades formed a defensive wall that repelled Bane's next half a dozen blows.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 55. Darth Zannah dodged Set Harth's lightsaber throw after being distracted and caught off guard.
+### 50. Darth Zannah dodged Set Harth's lightsaber throw after being distracted and caught off guard.
 
 ```
 The attack came the instant Zannah opened her mouth to reply. It came without any warning, Set moving with the preternatural speed of the Force. The Dark Jedi's lightsaber materialized in his hand, igniting and spiraling across the room toward her faster than thought itself.
 Zannah barely managed to duck out of the way, the lightsaber's blade slicing off a section of her cape as she threw herself to the floor. By the time the weapon completed its boomerang path and returned to Set's hand, he was on his feet:as was Zannah.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 56. Darth Zannah held her own against a battle meditation amped Sarro Xaj and Johun Othone in lightsaber combat.
+### 51. Darth Zannah held her own against a battle meditation amped Sarro Xaj and Johun Othone in lightsaber combat.
 
 ```
 The other two-a lean, quick-looking Jedi armed with a green lightsaber and a gigantic mountain of a man spinning a massive blue, double-bladed weapon-came at her.
@@ -612,7 +565,7 @@ From across the room one of the other Jedi called out, "Johun! Sarro! We need re
 
 ## Other Feats
 
-### 57. Darth Bane found Zannah's strength in the Force impressive when he found her as a child.
+### 52. Darth Bane found Zannah's strength in the Force impressive when he found her as a child.
 
 ```
 He guessed she was nine, maybe ten at the most. He could feel the power of the Force burning in her, fueled by grief and rage and hatred. Even if he hadn't sensed it, the broken Jedi at her feet gave mute testament to her abilities.
@@ -620,7 +573,7 @@ He guessed she was nine, maybe ten at the most. He could feel the power of the F
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 58. Darth Bane chose Zannah as an apprentice for her strength in the Force.
+### 53. Darth Bane chose Zannah as an apprentice for her strength in the Force.
 
 ```
 However, it was neither her spirit nor her willingness that made her worthy of being his apprentice. The Dark Lord had chosen her for one reason, and one reason only. "You are strong in the Force," he explained, his voice still betraying no hint of emotion or the agony he endured.
@@ -628,7 +581,7 @@ However, it was neither her spirit nor her willingness that made her worthy of b
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 59. Bane could almost feel the heat of the Dark Side in Zannah when she was a child with no training.
+### 54. Bane could almost feel the heat of the Dark Side in Zannah when she was a child with no training.
 
 ```
 He could sense the dark side building within her, growing in intensity until he could almost feel its heat.
@@ -636,15 +589,7 @@ He could sense the dark side building within her, growing in intensity until he 
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 60. Tales of the Jedi Companion.
-
-```
-Even though they were decades removed from the encounter, the Iktotchi sensed the raw power of the dark side emanating from him. It was like nothing she had seen or felt before, both terrifying and exhilarating
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
-```
-
-### 61. Darth Zannah had an incredible affinity with the Force.
+### 55. Darth Zannah had an incredible affinity with the Force.
 
 ```
 She had embraced his lessons and had shown an incredible affinity for the Force.
@@ -652,58 +597,41 @@ She had embraced his lessons and had shown an incredible affinity for the Force.
 — Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), prologue
 ```
 
-### 62. Darth Zannah progressed far beyond Bane's expectations.
-
-```
-During her apprenticeship, Bane had encouraged her in her studies of the magical arts. He had given her ancient texts filled with arcane rituals, urging her to expand her knowledge and push the boundaries of her talent. He had directed her training so that she could achieve her full potential. But he did not realize just how far she had come. In addition to the tomes her Master had provided, Zannah had sought out her own sources of hidden Sith knowledge over the years. Practicing in secret, she had progressed far beyond Bane's expectations, learning new spells to unleash the dark side in ways he had never even imagined.
-Next time we meet, Master, I will show you just how powerful I have become.
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
-```
-
-### 63. Darth Zannah drove Sarro Xaj mad with her spell when provided with the opening provided by a simple glance.
+### 56. Darth Zannah drove Sarro Xaj mad with her spell when provided with the opening provided by a simple glance.
 
 ```
 The big man hesitated, casting a quick glance over toward the others to see what had happened. Seizing the opportunity, Zannah's fingers flickered in strange patterns as she unleashed her Sith sorcery at her foe.
 His eyes went wide and he stumbled away from her, his lightsaber swinging wildly at the air around him as he was beset on all sides by imaginary demons. Flailing in half-mad terror at the invisible monsters, he ignored Zannah as she swooped in and ended his life with one long, diagonal stroke across his muscular chest.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 64. Darth Zannah drove Darovit mad with her spells.
-
-```
-An unwanted vision of the pitiful creature she had turned Darovit into flashed through her mind. She remembered him huddled in the corner, quivering in terror. He clutched the handle of a lightsaber against his chest, his only defense against the horrors and nightmares he saw crawling toward him from every corner.
-
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), epilogue
-```
-
-### 65. Darth Zannah instantly knocked Set Harth into a coma with a watered down version of her spell of madness.
+### 57. Darth Zannah instantly knocked Set Harth into a coma with a watered down version of her spell of madness.
 
 ```
 With Set, however, she did not intend to destroy him completely. Instead she enveloped him in a cloud of utter despair and hopelessness. She reached into the innermost recesses of his mind and wrapped it in the nothingness of the void.
 Set's eyes went blank, his jaw hung slack, and his lightsaber slipped from nerveless fingers. He slowly slumped to the ground, his eyes closing and his body trembling slightly as he curled up into a fetal position.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 66. Darth Bane was wary of Darth Zannah's spells of madness.
+### 58. Darth Bane was wary of Darth Zannah's spells of madness.
 
 ```
 Bane didn't fear her blades. There was only one thing she possessed that he was wary of: Sith sorcery. Zannah could do things with the Force that Bane couldn't even attempt. She could attack the minds of her opponents, turning their own thoughts and dreams against them.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 25
 ```
 
-### 67. Darth Zannah believed her spells of madness to be an effective tool against Darth Bane.
+### 59. Darth Zannah believed her spells of madness to be an effective tool against Darth Bane.
 
 ```
 She had to give him the illusion he was controlling the action, when in fact she was only a few seconds away from unleashing a burst of dark side sorcery that would rip his mind apart.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 68. Zannah snapped the necks of two Jedi as a child with no training in the ways of the Force.
+### 60. Zannah snapped the necks of two Jedi as a child with no training in the ways of the Force.
 
 ```
 Instinctively, she lashed out at him. She didn't know how she did it; it wasn't even a conscious thought. She only knew he had shot her friend. He had killed Laa! “What's the mat-" His voice was cut short as she snapped his neck with the Force. The eyes of his companion went wide in horror, but before he could do anything else she had broken his neck, too.
@@ -711,24 +639,24 @@ Instinctively, she lashed out at him. She didn't know how she did it; it wasn't 
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 69. As a child without any training, Zannah disintegrated her cousin's arm in a bloody explosion.
+### 61. As a child without any training, Zannah disintegrated her cousin's arm in a bloody explosion.
 
 ```
 Just as she had done when she had broken the necks of the unfortunate Jedi who had accidentally killed her friend, the girl unleashed a wave of unstoppable dark side energy. She acted on pure instinct, drawing on her natural affinity for the Force with no forethought, preparation, or even training. It happened so quickly Bane never even had a chance to put up his guard . . . but the attack wasn't directed at him. The right hand of the boy she had called Tomcat-her cousin and childhood friend-disintegrated. With a mere thought she obliterated everything below his wrist: flesh, bone and tendon vanished in a bloody explosion, leaving only a ragged stump.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 4
 ```
 
-### 70. As a child without any training, Zannah used the Force to hurl a man off of her.
+### 62. As a child without any training, Zannah used the Force to hurl a man off of her.
 
 ```
 Zannah spun on her heel and tried to run for the forest as the man lunged for her. He'd been expecting her to make a break for it, and he was quick. He was on her after only a few steps, tackling her from behind. He knocked her to the ground, his weight slamming her to the hard dirt. And the next instant he was flying backward through the air.
 He hit the ground with a hard grunt, the wind knocked out of him as he landed on his side five meters away. Zannah scrambled back to her feet. The other members of his clan had rushed forward when she started to run; now they all took a quick step back, weapons raised high above their heads. They were staring at her with wide-eyed expressions of fear and disbelief.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 9
 ```
 
-### 71. Darth Zannah selectively and precisely applied pressure to Caleb's internal organs in a way that made him feel pain few had ever experienced.
+### 63. Darth Zannah selectively and precisely applied pressure to Caleb's internal organs in a way that made him feel pain few had ever experienced.
 
 ```
 She reached out with the Force and picked Caleb up. His feet dangled only a few centimeters off the floor, yet his head brushed against the shack's low, slanted roof. She began to squeeze, applying pressure directly to his internal organs, slowly crushing them as she inflicted an agonizing pain few beings had ever experienced. She was careful to leave his lungs alone, however-allowing him enough air to breath and speak.
@@ -739,27 +667,27 @@ Darovit had come into the shack, curious as to what was taking her so long. Now 
 "Stop it!" he shouted at her. "You're killing him! Put him down!"
 With a sharp growl of frustration she released her grip, letting Caleb fall to the floor. Darovit rushed to his side to see if he was okay, but the older man shook his head and waved him away. He rose to his hands and knees, then settled back onto his heels, his hands resting on his thighs as he took slow, deep breaths.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 22
 ```
 
-### 72. Darth Zannah shielded herself from a massive explosion which collapsed a stone hallway, bringing down tons of rock.
+### 64. Darth Zannah shielded herself from a massive explosion which collapsed a stone hallway, bringing down tons of rock.
 
 ```
 She recognized it as the casing of a demolition charge just in time to throw herself backward, using the Force to shield herself from the worst of the explosion. She was thrown clear as the entire wall blew out, sending huge chunks of stone spewing into the passage. The ceiling was shredded, tearing loose massive blocks that tumbled to the ground.
 Choking on the cloud of dust and smoke, Zannah picked herself up. The passage in front of her was completely blocked by rubble and debris from the blast. She could feel Bane on the other side of the rocks; he had survived the blast, just as she had. But now they were separated by tons of impassable stone.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 73. Darth Zannah utilized an aura of insignificance in public to remain unnoticed.
+### 65. Darth Zannah utilized an aura of insignificance in public to remain unnoticed.
 
 ```
 She had also wrapped herself in a faint aura of insignificance, an illusion of the dark side that allowed her to hide in plain sight when she ventured out in public. It wouldn't shield her from the eyes of anyone looking for her, but as long as she didn't draw attention to herself she would remain unnoticed and unremembered by the vast majority of weak-minded common folk.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 10
 ```
 
-### 74. Darth Zannah used a false light side aura to trick the Jedi into thinking she was one of their own.
+### 66. Darth Zannah used a false light side aura to trick the Jedi into thinking she was one of their own.
 
 ```
 The only way the plan would work was if she could use the power of Sith sorcery to mask her strength while simultaneously projecting an aura of light-side energy. It was a complicated spell, one she had never tried before. It required a balance of strength and delicacy, and she had practiced it continuously in the weeks leading up to her departure.
@@ -768,52 +696,52 @@ The illusion she projected of being an apprentice of the light side had served h
 …
 With another bow, Zannah turned and left his room, more confident in her mission than ever. If she could fool Master Barra, chief librarian of the Jedi Archives, into believing she was Nalia Adollu, she knew she could fool anyone.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 16
 ```
 
-### 75. Darth Zannah cloaked herself with the Force to kill Raskta Lsu from behind without any of the Jedi noticing.
+### 67. Darth Zannah cloaked herself with the Force to kill Raskta Lsu from behind without any of the Jedi noticing.
 
 ```
 Gathering the dark side around her, Zannah created a concealing cloak to mask her power as she had done at the Jedi Temple. While she did so, she saw the Ithorian slowly rise to his feet and close his eyes in concentration. She felt the surge of light-side energy rolling across the room, as did Bane's opponents. Suddenly invigorated, they backed her Master up against a wall, concentrating their attacks on his face and the joints of his wrist where the orbalisks had left tiny gaps in his armor.
 Zannah rushed to her Master's aid, coming up silently behind the Jedi. Her presence hidden by her spell of concealment, they never sensed her coming. She struck the Echani down first, thrusting her blade forward so that it pierced the Jedi's back and ran her through. The Echani cried out and slumped forward, dropping at Zannah's feet.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 76. Darth Zannah concealed herself and Bane's presences from fourteen Jedi.
+### 68. Darth Zannah concealed herself and Bane's presences from fourteen Jedi.
 
 ```
 And he never sensed the apprentice and her unconscious Master, masked by Sith sorcery, hiding silently in the cellar just below his feet.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 24
 ```
 
-### 77. Darth Zannah used her sorcery to conceal her presence as she thought she was approaching Bane.
+### 69. Darth Zannah used her sorcery to conceal her presence as she thought she was approaching Bane.
 
 ```
 She broke off her efforts to track Bane and instead concentrated on using Sith sorcery to mask her own presence as she raced down the stairs. There was no need for her to be silent; with the alarms echoing throughout the prison, there was little chance he would hear her footsteps.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 20
 ```
 
-### 78. Darth Zannah used the Force to anticipate blaster shots.
+### 70. Darth Zannah used the Force to anticipate blaster shots.
 
 ```
 After three failed passes, the tattooed man threw his blade down in frustration and scooped up Cyndra's fallen blaster. He took aim and fired twice from point-blank range, but Zannah didn't even flinch.
 Using the precognitive awareness of the Force, she was easily able to anticipate the incoming shots and intercept them with the crackling crimson blades of her lightsaber.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 13
 ```
 
-### 79. Darth Zannah navigated Set Harth's mansion in darkness using the Force.
+### 71. Darth Zannah navigated Set Harth's mansion in darkness using the Force.
 
 ```
 Extinguishing her glow rod, she moved in perfect darkness back toward the main entrance, letting the Force guide her path.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 80. Darth Zannah used subtle mental manipulation to coerce Quano into giving her information.
+### 72. Darth Zannah used subtle mental manipulation to coerce Quano into giving her information.
 
 ```
 I'm sorry, Quano," she said, speaking softly as she gently placed a hand on his shoulder, "but I need information, too. I need to know what you told him."
@@ -824,10 +752,10 @@ As she did so, she reached out with a gentle push of the Force, nudging the bart
 "I believe you," she said, reaching out to gently pat his hand. "But I bet you know people who could help me find out, don't you?"
 The bartender shifted uncomfortably, but another gentle push with the Force overcame his reluctance. "Quano has friend at spaceport. Him maybe find out.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 7
 ```
 
-### 81. Darth Zannah used subtle mental manipulation to compel Pommat into doing business with her.
+### 73. Darth Zannah used subtle mental manipulation to compel Pommat into doing business with her.
 
 ```
 She could sense that his will was stronger than the bartender's, but still malleable. The fact that Pommat obviously found her attractive would help, too, if she was willing to flirt with him a little.
@@ -836,96 +764,74 @@ The man bobbed his head back and forth a few times before uncrossing his arms an
 Zannah arched one eyebrow playfully and reached out with the Force. "Come on, Pommat. I'm not looking for the strong, silent type."
 "Yeah, all right," he relented. "Maybe I can help. What do you need?"
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 7
 ```
 
-### 82. Darth Zannah specialized in Soresu, becoming an expert in its moves and sequences.
+### 74. Darth Zannah specialized in Soresu, becoming an expert in its moves and sequences.
 
 ```
 At Bane's urging, she had become an expert in the defensive sequences of the Soresu form.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 83. Darth Zannah's defense was virtually impenetrable.
-
-```
-Against his pedestrian assault she was able to regain her feet and slide into the sequence of moves that were the foundation of her virtually impenetrable style.
-
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
-```
-
-```
-Her lightsaber style was built on a foundation of parries and counterstrikes, hiding behind her virtually impenetrable defense while waiting for her opponent to make a mistake.
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
-```
-
-### 84. Darth Zannah's defense was nearly impenetrable.
-
-```
-Her defensive style was simple, but performed correctly it was nearly impenetrable.
-
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
-```
-
-### 85. Darth Zannah could've immediately slain Paak in their short bout.
+### 75. Darth Zannah could've immediately slain Paak in their short bout.
 
 ```
 She could have slain him right then and there, but she noticed that Hetton was still sitting passively in his seat, observing the action. Zannah decided she'd give him a show.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 13
 ```
 
-### 86. Darth Zannah could've easily overwhelmed Johun Othone with an aggressive sequence.
+### 76. Darth Zannah could've easily overwhelmed Johun Othone with an aggressive sequence.
 
 ```
 Were it not for the big man's brilliance, she would have quickly switched to an aggressive sequence and easily dispatched the smaller man.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 87. Sarro Xaj was forced to guard himself against counterattacks from Darth Zannah.
+### 77. Sarro Xaj was forced to guard himself against counterattacks from Darth Zannah.
 
 ```
 He had to guard against her counterattacks, his style less aggressive so he didn't leave himself vulnerable.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 88. Darth Zannah kicked Set Harth in the back as he rolled past her.
+### 78. Darth Zannah kicked Set Harth in the back as he rolled past her.
 
 ```
 Zannah easily repelled both threats, her spinning blades slicing the bust in half even as she pivoted just enough so that Set's weapon missed her hip by less than a centimeter. For good measure she kicked him hard in the back as he rolled past, a blow meant not to disable him, but to goad him on to further aggression.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 89. Darth Zannah could've killed Set Harth over a dozen times in their short encounter.
+### 79. Darth Zannah could've killed Set Harth over a dozen times in their short encounter.
 
 ```
 In their short encounter, she was presented with at least a dozen opportunities to land a lethal blow to the silver-haired man.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 10
 ```
 
-### 90. Darth Zannah was smart enough to place herself in an environmental advantage against two foes.
+### 80. Darth Zannah was smart enough to place herself in an environmental advantage against two foes.
 
 ```
 Before they could engage her, she backpedaled toward one of the corners, stopping several meters from the intersection of the two walls. This allowed her to protect her flanks, but still left enough space for her to duck, dodge, and evade the weapons of her enemies.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 91. Darth Zannah let one of her opponents live so she could play him off against her other opponent.
+### 81. Darth Zannah let one of her opponents live so she could play him off against her other opponent.
 
 ```
 There was a brief instant when she saw an opening-but rather than choose to kill the man with the green lightsaber she let him live, knowing he was a greater hindrance to his allies than he was to her.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 21
 ```
 
-### 92. Zannah used the Force to rejuvenate her tired body and augment her speed to keep up with Bane as a child with no training.
+### 82. Zannah used the Force to rejuvenate her tired body and augment her speed to keep up with Bane as a child with no training.
 
 ```
 Behind him he felt Zannah gather the Force once more. This time, however, the girl directed it inward, using it to refresh and rejuvenate her exhausted limbs.
@@ -934,81 +840,65 @@ She sprang up and scurried after him, moving almost effortlessly at a full run. 
 — Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), epilogue
 ```
 
-### 93. Zannah ran so fast the world blurred around her, as a child without any training.
+### 83. Zannah ran so fast the world blurred around her, as a child without any training.
 
 ```
 At first that hadn't mattered. She'd used her newfound talents in the Force to propel herself along, running so fast that the world passed by her in a blur of wind and color.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 6
 ```
 
-### 94. Darth Zannah had the speed to briefly fend off an orbalisk encrusted bloodlusted Bane.
+### 84. Darth Zannah had the speed to briefly fend off an orbalisk encrusted bloodlusted Bane.
 
 ```
 She fell into a defensive posture as she so often had during their training sessions. But this was no drill, and her Master came at her with a speed and ferocity she had never faced before. Giving in to his orbalisk-fueled bloodrage, he was like a wild animal, raining savage blows down on her from all angles, the strikes coming so fast it seemed as if he wielded a dozen blades at the same time. Zannah fell into a full retreat, desperately giving ground beneath the overwhelming assault.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 15
 ```
 
-### 95. And Sarro Xaj was at least three times as fast as Johun Othone when they were both amped.
-
-```
-And then her enemies fell on her. It took only seconds for her to realize that the bigger man was by far the more dangerous opponent. In the time it took for the smaller man to strike at her twice with his green blade, she had batted aside half a dozen attacks from the other.
-
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
-```
-
-### 96. Darth Zannah moved so fast her hair streamed out behind her.
+### 85. Darth Zannah moved so fast her hair streamed out behind her.
 
 ```
 Her entire body was infused with the Force, her legs propelling her along so fast the wind caused her hair to stream out behind her.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 97. Darth Zannah ducked under one of Bane's strikes, rolled with a kick to avoid another strike, then backflipped ten meters away.
+### 86. Darth Zannah ducked under one of Bane's strikes, rolled with a kick to avoid another strike, then backflipped ten meters away.
 
 ```
 She ducked under a horizontal cut from his lightsaber, only to catch a heavy boot in her ribs. She rolled with the kick, narrowly avoiding the return cut of his blade. She parried a sharp descending blow, gathered her feet under her, and launched herself backward, flipping ten meters clear.
 
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 15
 ```
 
-### 98. Darth Zannah rolled with the motion of Bane trying to break her ankle to keep it from breaking.
+### 87. Darth Zannah rolled with the motion of Bane trying to break her ankle to keep it from breaking.
 
 ```
 She ducked out of the way, lashing out with a kick as he landed behind her. Bane spun, grabbed her ankle, and wrenched the boot to the side, trying to snap the bone. Zannah rolled with the violent motion, her entire body spinning along a horizontal plane.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 99. Darth Zannah snapped her head back to keep Bane's headbutt from smashing her face, immediately after Bane slammed his full body weight into her.
+### 88. Darth Zannah snapped her head back to keep Bane's headbutt from smashing her face, immediately after Bane slammed his full body weight into her.
 
 ```
 His weight slammed into her, knocking her back as Bane snapped his neck forward. Zannah threw her head back just in time, and the head-butt that would have smashed her face glanced off her chin instead.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 100. Darth Zannah had a lean athletic figure.
-
-```
-In this particular instance she had donned a loose black cloak that covered her from head to toe, obscuring her lean, athletic figure.
-
-— Darth Bane: Rule of Two (Drew Karpyshyn, 2007)
-```
-
-### 101. Darth Zannah easily recovered from being hurled ten meters backwards by an explosion of dark side energy.
+### 89. Darth Zannah easily recovered from being hurled ten meters backwards by an explosion of dark side energy.
 
 ```
 As her blade bit into the cocoon the energy was released in a sudden burst that sent both of them flying backward. Bane slammed hard into the wall against his back and crumpled to the ground. Zannah was tossed ten meters farther, landing hard on the stone floor.
 They rose to their feet at the same time, neither seriously injured. But yet again Bane had managed to thwart her attack and work himself out of a corner.
 Zannah merely shrugged and began another slow, relentless advance.
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
 ```
 
-### 102. Darth Zannah prevented Darth Bane from taking over her body in a battle of wills.
+### 90. Darth Zannah prevented Darth Bane from taking over her body in a battle of wills.
 
 ```
 The cold darkness swallowing him up vanished, replaced by a searing burst of crimson light as the power of the ritual was unleashed. Bane was aware of his flesh being utterly consumed by the unimaginable heat, reduced to ashes in a thousandth of a second. But he was no longer a part of his own body. His spirit had discarded it like an old shell in favor of a new one.
@@ -1022,10 +912,10 @@ She shook her blond head from side to side, and the motion seemed to restore som
 Knowing how insane her words would sound, Cognus hesitated before asking, "Lord Bane?"
 "Bane is gone," the woman replied, her voice confident and strong. "I am Darth Zannah, Dark Lord of the Sith and your new Master."
 
-— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009)
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 26
 ```
 
-### 103. When drawing on the nexus of Ambria, Zannah was able to create unstoppable tendrils of Dark Side energy with her Sith Sorcery.
+### 91. When drawing on the nexus of Ambria, Zannah was able to create unstoppable tendrils of Dark Side energy with her Sith Sorcery.
 
 ```
 Again she opened herself up to the dark side. This time, however, she didn't attack Bane directly. Instead, she let it flow through her, drawing it from the soil and stone of Ambria itself. She called to power buried for centuries, summoning it up to the surface in wispy tendrils of dark smoke snaking up from the sand.
@@ -1050,7 +940,7 @@ His disembodied forearm and fist tumbled harmlessly to the ground, his lightsabe
 — Darth Bane: Dynasty of Evil †
 ```
 
-### 104. Darth Zannah briefly held her own against an orbalisk encrusted bloodlusted Darth Bane.
+### 92. Darth Zannah briefly held her own against an orbalisk encrusted bloodlusted Darth Bane.
 
 ```
 When it was over her Master turned to face her. She waited for him to demand an explanation, but instead he let loose with a cry and flew at her. Zannah barely had time to ignite her twin blades to meet his completely unexpected attack.

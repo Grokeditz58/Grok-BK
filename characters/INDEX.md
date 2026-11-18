@@ -18,7 +18,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [a-4d.md](a-4d.md) | A-4D (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | A-4D | 1 | 1 | 0 | 0 |
 | [aayla-secura.md](aayla-secura.md) | Aayla Secura | Clone Wars | DEEP | 205 | 204 | 1 | 30 | Aayla Secura, Aayla, Secura | 239 | 105 | 5 | 66 |
 | [aban.md](aban.md) | Aban (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 1 | 1 | 0 | 0 | Aban | 1 | 1 | 0 | 1 |
-| [abeloth.md](abeloth.md) | Abeloth | FotJ | untiered | 379 | 379 | 0 | 49 | Abeloth | 157 | 157 | n/a | n/a |
+| [abeloth.md](abeloth.md) | Abeloth | FotJ | untiered | 379 | 379 | 0 | 49 | Abeloth | 112 | 116 | n/a | n/a |
 | [acklay-chopper.md](acklay-chopper.md) | Acklay Chopper (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Acklay Chopper | 4 | 0 | 0 | 0 |
 | [adalric-brandl.md](adalric-brandl.md) | Adalric Brandl | Dark Times | untiered | 23 | 23 | 0 | 0 | Adalric Brandl, Brandl | 23 | 18 | 0 | 22 |
 | [adar-tallon.md](adar-tallon.md) | Adar Tallon (NEW 2026-10-29) |  | untiered | 4 | 4 | 0 | 0 | Adar Tallon | 4 | 2 | 0 | 1 |
@@ -326,7 +326,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-arho.md](darth-arho.md) | Darth Arho | TOR | untiered | 3 | 3 | 0 | 0 | Darth Arho, Arho | 3 | 3 | 0 | 0 |
 | [darth-azard.md](darth-azard.md) | Darth Azard (NEW 2026-11-02) | Legacy (137 ABY) | untiered | 61 | 61 | 0 | 0 | Darth Azard, Azard | 61 | 41 | 0 | 43 |
 | [darth-bandon.md](darth-bandon.md) | Darth Bandon | KOTOR | untiered | 55 | 55 | 0 | 11 | Darth Bandon, Bandon | 55 | 31 | 5 | 36 |
-| [darth-bane.md](darth-bane.md) | Darth Bane | Ruusan | DEEP | 871 | 865 | 6 | 190 | Darth Bane | 224 | 224 | n/a | n/a |
+| [darth-bane.md](darth-bane.md) | Darth Bane | Ruusan | DEEP | 871 | 865 | 6 | 190 | Darth Bane | 206 | 207 | n/a | n/a |
 | [darth-baras.md](darth-baras.md) | Darth Baras | TOR | DEEP | 187 | 187 | 0 | 22 | Darth Baras, Baras | 187 | 120 | 18 | 27 |
 | [darth-caedus/](darth-caedus/README.md) | Darth Caedus / Jacen Solo | NJO–LotF | DEEP | 2370 | 2369 | 1 | 463 | Darth Caedus / Jacen Solo, Caedus, Jacen Solo, Jacen, TUF Jacen | 2570 | 1545 | n/a | n/a |
 | [darth-cognus.md](darth-cognus.md) | Darth Cognus | post-Ruusan | untiered | 8 | 8 | 0 | 1 | Darth Cognus, Cognus | 8 | 5 | 1 | 1 |
@@ -378,7 +378,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-vurik.md](darth-vurik.md) | Darth Vurik (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Darth Vurik | 1 | 0 | 0 | 0 |
 | [darth-wredd.md](darth-wredd.md) | Darth Wredd (NEW 2026-10-30) | Legacy | untiered | 1 | 1 | 0 | 0 | Darth Wredd, Wredd | 1 | 0 | 0 | 0 |
 | [darth-wyyrlok.md](darth-wyyrlok.md) | Darth Wyyrlok III | Legacy | MASTERY (III) | 1121 | 1121 | 0 | 119 | Darth Wyyrlok III, Wyyrlok | 1110 | 427 | n/a | n/a |
-| [darth-zannah.md](darth-zannah.md) | Darth Zannah | Ruusan | DEEP | 290 | 278 | 12 | 63 | Darth Zannah, Zannah | 104 | 105 | n/a | n/a |
+| [darth-zannah.md](darth-zannah.md) | Darth Zannah | Ruusan | DEEP | 290 | 278 | 12 | 63 | Darth Zannah, Zannah | 92 | 92 | n/a | n/a |
 | [darth-zash.md](darth-zash.md) | Darth Zash | TOR | untiered | 16 | 16 | 0 | 1 | Darth Zash, Zash | 16 | 14 | 0 | 11 |
 | [darubang-yosa.md](darubang-yosa.md) | Darubang Yosa (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Darubang Yosa | 3 | 0 | 0 | 0 |
 | [dash-rendar.md](dash-rendar.md) | Dash Rendar | Rebellion | untiered | 34 | 34 | 0 | 0 | Dash Rendar, Dash | 35 | 15 | 1 | 24 |
@@ -1152,7 +1152,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [reni-wajetta.md](reni-wajetta.md) | Reni Wajetta (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Reni Wajetta | 2 | 0 | 0 | 0 |
 | [rep-been.md](rep-been.md) | Rep Been (NEW 2026-11-03) | Prequel | untiered | 3 | 3 | 0 | 0 | Rep Been, Been | 3 | 1 | 0 | 2 |
 | [resh.md](resh.md) | Resh (warehouse) (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Resh (warehouse) | 3 | 3 | 1 | 0 |
-| [revan.md](revan.md) | Revan | KOTOR / TOR | DEEP | 3566 | 3558 | 8 | 1067 | Revan | 138 | 241 | n/a | n/a |
+| [revan.md](revan.md) | Revan | KOTOR / TOR | DEEP | 3566 | 3558 | 8 | 1067 | Revan | 132 | 234 | n/a | n/a |
 | [rey.md](rey.md) | Rey | Sequel | untiered | 120 | 119 | 1 | 77 | Rey | 120 | 33 | 3 | 24 |
 | [rhys-dallows.md](rhys-dallows.md) | Rhys Dallows | Prequel | untiered | 5 | 5 | 0 | 0 | Rhys Dallows | 5 | 0 | 0 | 0 |
 | [ric-olie.md](ric-olie.md) | Ric Olie | Prequel | untiered | 10 | 10 | 0 | 0 | Ric Olie, Ric Olié | 10 | 3 | 0 | 6 |
@@ -1603,7 +1603,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 5249
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3767
-- [Revan](revan.md): 138
+- [Revan](revan.md): 132
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2570
 - [Yoda](yoda/README.md): 2457
 - [Count Dooku / Darth Tyranus](count-dooku/README.md): 2332
@@ -1626,7 +1626,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Boba Fett](boba-fett.md): 1029
 - [Hero of Tython / Outlander (Jedi Knight)](hero-of-tython.md): 941
 - [Kreia / Darth Traya](darth-traya.md): 888
-- [Darth Bane](darth-bane.md): 224
+- [Darth Bane](darth-bane.md): 206
 - [Darth Malak](darth-malak.md): 865
 - [Plo Koon](plo-koon.md): 845
 
@@ -1635,7 +1635,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
 - [Luke Skywalker](luke-skywalker/README.md): 4857
 - [Obi-Wan Kenobi](obi-wan-kenobi/README.md): 3773
-- [Revan](revan.md): 138
+- [Revan](revan.md): 132
 - [Yoda](yoda/README.md): 2467
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2370
 - [Count Dooku / Darth Tyranus](count-dooku/README.md): 2350
@@ -1658,7 +1658,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Kreia / Darth Traya](darth-traya.md): 903
 - [Darth Malak](darth-malak.md): 877
 - [Jaina Solo](jaina-solo/README.md): 877
-- [Darth Bane](darth-bane.md): 224
+- [Darth Bane](darth-bane.md): 206
 - [Plo Koon](plo-koon.md): 848
 - [Grand Admiral Thrawn](thrawn.md): 725
 
