@@ -224,7 +224,7 @@ Leia felt her daughter reach out in the Force, then felt herself rise into a sta
 ```
 As Jaina spoke, she was opening herself to her anger, using the power of its emotion to draw the Force into her as the Dark Masters Brakiss and Tamith Kai had tried to force her to do so long ago, when she and Jacen had been imprisoned at the Shadow Academy with Lowbacca. The power came surging into her in cold waves, feeding on her hatred of the Yuuzhan Vong and pouring it back to her twofold. In a motion so fast Jaina barely saw it, the warrior sat up and flicked his coufee at her throat. She could have dodged or blocked with her lightsaber, but she did not. Instead, with the fierce energy crackling inside her, she used her free hand to bat the weapon aside, then raised her hand toward her attacker and released the dark power inside. A fork of lightning crackled into existence a few centimeters beyond her glove tips, then blasted a hole through the Yuuzhan Vong’s chest and hurled him onto the rubble pile smoking and motionless. Jaina felt someone watching and turned to find Vergere staring at her from the shelter of a nearby archway, Anakin’s lightsaber dangling from one hand and her narrow eyes angled in what seemed a peculiar expression of dismay. Jaina sneered at the creature, then raised her hand and loosed another bolt of Force lightning. Anakin’s lightsaber snapped to life in Vergere’s hand and rose to intercept the attack. Then, eyes going wide, she turned and fled into the warren, the lit blade wagging behind her like a tail.
 
-— Star by Star (Troy Denning, 2011), ch. Forty
+— Star by Star (Troy Denning, 2001), ch. Forty
 ```
 
 ### 26. The Force pours in from all sides, saturating Jaina in a roaring maelstrom of power that carries away her pain and leaves the strength not only to survive but to rise and fight.
@@ -352,7 +352,7 @@ She and Tesar and Lowbacca united their Force talents once more and clawed at th
 ```
 By now, an astonished murmur was rolling across the compound as the crowd below began to realize they were under attack. Jaina shouldered her blaster, then snapped her lightsaber off her belt and hurled herself headlong into the pit. Using the Force to slow her descent, she performed a twisting flip and landed facing into the warren, midway between Tahiri and Lowbacca. Alema was on the other side of Tahiri, her longblaster rising to her shoulder. The warrior whose life Zekk had spared was backing under the wall, using Anakin’s body to shield himself from the Twi’lek’s weapon and drawing his coufee.
 
-— Star by Star (Troy Denning, 2011), ch. Forty
+— Star by Star (Troy Denning, 2001), ch. Forty
 ```
 
 ### 42. Using the Force to lift her the extra five meters, Jaina somersaults off a chalk dune and lands lightly atop a cockpit roof, then ignites her lightsaber and works in the opposite direction from Anakin on the escape hatch seam.
@@ -360,7 +360,7 @@ By now, an astonished murmur was rolling across the compound as the crowd below 
 ```
 Using the Force to lift her the extra five meters in height, Jaina somersaulted off the chalk dune and landed lightly atop the cockpit roof, then nearly plummeted backward when Anakin and Zekk landed beside her. Anakin thumbed his lightsaber active and plunged it into the seam of the cockpit escape hatch. Jaina ignited her own blade and began to work in the opposite direction, while Zekk dropped to his belly and dangled over the front to peer in through the viewport.
 
-— Star by Star (Troy Denning, 2011), ch. Thirty
+— Star by Star (Troy Denning, 2001), ch. Thirty
 ```
 
 ### 43. Looking at a homogoni slab five centimeters thick in Jag's hands, Jaina sees how the Force binds its cells into long lines of grain and exactly where it could split, and simply lets her fingertips touch the place, splitting the panel.
@@ -515,7 +515,7 @@ Time seemed to slow as she worked her way though what he was telling her. Plasma
 ```
 In a motion so fast Jaina barely saw it, the warrior sat up and flicked his coufee at her throat. She could have dodged or blocked with her lightsaber, but she did not. Instead, with the fierce energy crackling inside her, she used her free hand to bat the weapon aside, then raised her hand toward her attacker and released the dark power inside. A fork of lightning crackled into existence a few centimeters beyond her glove tips, then blasted a hole through the Yuuzhan Vong’s chest and hurled him onto the rubble pile smoking and motionless.
 
-— Star by Star (Troy Denning, 2011), ch. Forty
+— Star by Star (Troy Denning, 2001), ch. Forty
 ```
 
 ### 62. In the Caedus duel, Jaina is blasted by a Force blow that sends her flying and her lightsaber free of his stomach, but from the Nickel One fight she has learned to tuck her chin so her head does not snap back as she strikes the corridor wall.
@@ -624,7 +624,7 @@ Jaina dropped her aiming reticle on the closest Yuuzhan Vong fighter and hit the
 ```
 As the squadron formed around the Big Eye, Jaina said, “Our hop brings us out behind the low frigate. No fancy stuff, and don’t get carried away. Just blast an escape hole and head for home. Tails, you fly cover. No offense, but we haven’t worked together.” “No offense taken, Stickz,” a Barabel said. Worried that she might not respond as automatically to a different call sign, Jaina had asked the squadron to use her Rogue Squadron nickname. “We are honored to cover your backz. If Tail One may offer a suggestion?” Tenel Ka began the countdown, and Jaina said, “Seven seconds, One.” “Their missile crewz will be facing away when you arrive. If you send the blastboat on the first pasz—” “Risky, but it could work in a hurry,” Jaina said. “Odds, Minstrel?” “The probability of success is … eighty-two percent, with a margin of error—” Lowbacca rumbled his commitment to the Barabel plan, then Tenel Ka said, “Two, one, mark!” Anakin pushed the throttle and toggled the hyperdrive. The stars stretched into lines. Two seconds later, Fiver chirped to announce their arrival half a system away. To prevent the return to realspace from disorienting him, Anakin kept his eyes squeezed shut. He reached out with the Force and felt his squadron in formation behind him. Kyp and the Dozen were a short distance to the left, swirling about in the killing zone trying to avoid plasma balls and magma missiles. Now that he was close enough, he could also feel the Yuuzhan Vong over at the battle, an indistinct quaver just powerful enough to divert his attention at a crucial moment. He was tempted to remove his lightsaber’s lambent focusing crystal. A starfighter battle was no place to get distracted. The X-wing banked sharply right as Fiver, acting in tandem with the other astromech droids, lined up on target. Now past any danger of becoming disoriented, Anakin opened his eyes and saw the battle ahead, a tiny web of flashing color. “Everybody ready to play?” Jaina asked. Anakin keyed his microphone to answer affirmative and counted the right number of clicks as others did likewise. Through the Force, he sensed a strange resignation in his sister, not at all similar to his own adrenaline-charged excitement. She seemed more weary than tense, almost detached. Maybe that was how an ace pilot survived so many blinding-fast starfighter battles—or maybe it was the price of coming back alive, the all-too-organic result of stress overload. Perhaps senate politics weren’t the only reason Jaina’s leave from Rogue Squadron was indefinite. Perhaps the flight surgeons had suggested to Gavin that she needed a long rest. “Fiver, open a private channel to Jaina.” Before the droid could obey, Jaina said, “We’re whole and hot. Green to go, Jedi, and good shooting.”
 
-— Star by Star (Troy Denning, 2011), ch. 9
+— Star by Star (Troy Denning, 2001), ch. 9
 ```
 
 ### 75. Jaina tugs on the cognition hood and coaxes a dovin basal to abandon shielding in favor of a slow, steady pull, putting a Hapan ship in a lock while Alema Rar leans over her shoulder.

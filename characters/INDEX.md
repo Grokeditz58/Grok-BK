@@ -886,7 +886,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [lucien-draay.md](lucien-draay.md) | Lucien Draay | KotOR comics | untiered | 19 | 19 | 0 | 0 | Lucien Draay, Lucien | 19 | 10 | 0 | 0 |
 | [lucius-rothingham.md](lucius-rothingham.md) | Lucius Rothingham (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Lucius Rothingham | 3 | 0 | 0 | 0 |
 | [ludo-kressh.md](ludo-kressh.md) | Ludo Kressh | Golden Age of the Sith | untiered | 94 | 94 | 0 | 2 | Ludo Kressh, Ludo | 94 | 35 | 0 | 17 |
-| [luke-skywalker.md](luke-skywalker.md) | Luke Skywalker | GCW–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 4857 | 4816 | 41 | 548 | Luke Skywalker, Luke, DE Luke | 81 | 81 | n/a | n/a |
+| [luke-skywalker.md](luke-skywalker.md) | Luke Skywalker | GCW–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 4857 | 4816 | 41 | 548 | Luke Skywalker, Luke, DE Luke | 85 | 85 | n/a | n/a |
 | [luminara-unduli.md](luminara-unduli.md) | Luminara Unduli | Clone Wars | DEEP | 80 | 77 | 3 | 2 | Luminara Unduli, Luminara, Unduli | 80 | 37 | 0 | 33 |
 | [lumiya.md](lumiya.md) | Lumiya | GCW–LotF | DEEP | 467 | 464 | 3 | 42 | Lumiya, Shira Brie | 457 | 268 | n/a | n/a |
 | [lumpawarrump.md](lumpawarrump.md) | Lumpawarrump (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Lumpawarrump | 3 | 1 | 0 | 0 |
@@ -1601,7 +1601,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 
 - [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
-- [Luke Skywalker](luke-skywalker.md): 81
+- [Luke Skywalker](luke-skywalker.md): 85
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 66
 - [Revan](revan.md): 132
 - [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2570
@@ -1633,7 +1633,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 
 - [Darth Vader / Anakin Skywalker](darth-vader.md): 148
 - [Darth Sidious / Palpatine](darth-sidious.md): 197
-- [Luke Skywalker](luke-skywalker.md): 81
+- [Luke Skywalker](luke-skywalker.md): 85
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 66
 - [Revan](revan.md): 132
 - [Yoda](yoda.md): 46
