@@ -10,17 +10,17 @@ Evidence file for Meetra Surik (the Jedi Exile), **Star Wars Legends** continuit
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 59 entries and 59 quotes.
+- This file has 65 entries and 65 quotes.
 
 
 ## Contents
 
 - [Power and Reputation](#power-and-reputation) (23)
 - [Force Powers](#force-powers) (5)
-- [Combat and Duels](#combat-and-duels) (9)
-- [Leadership and Strategy](#leadership-and-strategy) (3)
-- [Other Feats](#other-feats) (16)
-- [Limitations](#limitations) (3)
+- [Combat and Duels](#combat-and-duels) (11)
+- [Leadership and Strategy](#leadership-and-strategy) (4)
+- [Other Feats](#other-feats) (17)
+- [Limitations](#limitations) (5)
 
 ## Power and Reputation
 
@@ -281,7 +281,23 @@ In desperation, she hurled her lightsaber with a wild sidearm throw, guiding it 
 — Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
-### 30. Canderous Ordo says he thought Revan was a singular Jedi, but now there is Meetra: even the greatest Mandalorian warriors are no match for her.
+### 30. Fighting Darth Nyriss, Scourge is thrown head-over-heels by an invisible wave of energy, and Meetra, struck in the chest by violet lightning, throws up a barrier like Nyriss to save herself from the worst of it, though she is still knocked from her feet.
+
+```
+Scourge rushed forward, hoping to drive Nyriss back into a corner, but she met his charge with an invisible wave of rippling energy. It picked Scourge up and tossed him head-over-heels, sending him crashing to the wall. Dazed, he looked up just in time to see another bolt of violet lightning catch Meetra in the chest. Like Nyriss, she threw up a barrier to save herself from the worst of it, but she was still knocked from her feet. “Did you think I would be as easy to defeat as Xedrix?” Nyriss shouted, raising her lightsaber triumphantly above her head. The air around her began to crackle and grow hot as she gathered herself for the killing blow. Scourge felt the energy building inside her, and he knew he would be powerless to stop it. Nyriss was too powerful; her command of the dark side was too strong.
+
+— Revan (Drew Karpyshyn, 2011), ch. 20
+```
+
+### 31. Against the Emperor's Imperial Guard, the first soldier parries Meetra's first strike with his electrostaff and the second forces her to fall back a step to absorb their coordinated attack.
+
+```
+Ordinary soldiers would have been chopped down before they could even draw their weapons, but the Imperial Guard were not so easily felled. The first soldier met her charge and parried the first strike with his electrostaff, the resilient metal of his weapon deflecting the energy blade of the Jedi off to the side so that it carved a deep scar in the wall. The second soldier leapt into the fray, forcing Meetra to fall back a step to absorb their coordinated attack. Slightly farther away, Scourge and Captain Yarri were also already engaged in close-quarters combat, his lightsaber clashing against her electrostaff as they battled in the narrow confines of the entrance hall. An alarm began to ring out in the hall, triggered by one of the other three soldiers. Before they could join in the fight, Revan thrust his hand, palm up, in the direction of the sealed durasteel doors, blasting them wide open with the power of the Force. “Into the throne room!” he shouted, rushing forward. One of the guards battling Meetra broke off and tried to cut Revan off. The Jedi gathered himself and leapt high in the air, tucking his knees in tight to somersault over his opponent. The guard reacted to the unexpected move a fraction too slowly, his electrostaff slicing through the air above his head and missing Revan by only a few centimeters. Revan landed on the ground and wheeled around to face the other man. He thrust out with the Force, the impact hitting the soldier square in the chest. Instead of sending him flying, it only staggered him back half a step—this close to the Emperor they were sworn to protect, the guards were able to draw on his power to protect themselves."
+
+— Revan (Drew Karpyshyn, 2011), ch. 20
+```
+
+### 32. Canderous Ordo says he thought Revan was a singular Jedi, but now there is Meetra: even the greatest Mandalorian warriors are no match for her.
 
 ```
 I thought that Revan was a singular Jedi, but now there's you. With all our martial training, battles and ethics, even our greatest warriors are no match for you.
@@ -289,7 +305,7 @@ I thought that Revan was a singular Jedi, but now there's you. With all our mart
 — Mandalore the Preserver, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 31. In a sparring match with Visas, Meetra is made to rely on weapon skill alone, with no Force techniques.
+### 33. In a sparring match with Visas, Meetra is made to rely on weapon skill alone, with no Force techniques.
 
 ```
 Let's see what you can do when hands and mind are divided - no Force techniques other than weapon skill.
@@ -297,7 +313,7 @@ Let's see what you can do when hands and mind are divided - no Force techniques 
 — Kreia to Meetra, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 32. Kreia tells Meetra there is nothing more she can teach her: Meetra knows as much of battle as she does.
+### 34. Kreia tells Meetra there is nothing more she can teach her: Meetra knows as much of battle as she does.
 
 ```
 There is nothing more for me to teach you. You know as much of battle as I.
@@ -305,7 +321,7 @@ There is nothing more for me to teach you. You know as much of battle as I.
 — Kreia, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 33. A game description says Meetra's light bathes her team, increasing their combat potential.
+### 35. A game description says Meetra's light bathes her team, increasing their combat potential.
 
 ```
 ...bathing [her] team in light and increasing their combat potential.
@@ -313,7 +329,7 @@ There is nothing more for me to teach you. You know as much of battle as I.
 — Knights of the Old Republic II: The Sith Lords Official Prima Game Guide †
 ```
 
-### 34. Studying a holocron, Meetra learns of a way to call on several defensive aspects of the Force at once, a form of sudden enlightenment usable in combat.
+### 36. Studying a holocron, Meetra learns of a way to call on several defensive aspects of the Force at once, a form of sudden enlightenment usable in combat.
 
 ```
 The holocron spoke of a way of calling upon several defensive aspects of the Force all at once, a form of sudden enlightenment - it is possible that when active, a Jedi would be almost completely shielded by the Force.
@@ -321,7 +337,7 @@ The holocron spoke of a way of calling upon several defensive aspects of the For
 — Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 35. In a cave fight, Meetra thrusts out her free hand and a soldier is lifted off her feet and hurled across the cave into the far wall; she then deflects the other soldiers' bolts with her lightsaber.
+### 37. In a cave fight, Meetra thrusts out her free hand and a soldier is lifted off her feet and hurled across the cave into the far wall; she then deflects the other soldiers' bolts with her lightsaber.
 
 ```
 As he fell to the ground, Meetra thrust her free hand out toward the next closest soldier, palm open. The woman flew backward, lifted off her feet and hurtled across the cave by the Force until she slammed into the rock face of the far wall. She slid to the ground, dead.
@@ -331,7 +347,7 @@ The other two soldiers had ripped off their night-vision goggles and opened fire
 — Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
-### 36. After a soldier is consumed by flames, Meetra charges forward with a burst of speed and delivers a two-handed slash that cleaves through the second soldier's armor and deep into her chest.
+### 38. After a soldier is consumed by flames, Meetra charges forward with a burst of speed and delivers a two-handed slash that cleaves through the second soldier's armor and deep into her chest.
 
 ```
 The flames engulfed the nearest soldier; as his dying shrieks momentarily distracted his companion, Meetra charged forward with a burst of speed to deliver a vicious two-handed slash of her blade that cleaved through the plates of the woman’s armor and bit deep into her chest.
@@ -339,7 +355,7 @@ The flames engulfed the nearest soldier; as his dying shrieks momentarily distra
 — Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
-### 37. In the Emperor's fortress, the soldiers' coordinated attack forces Meetra to fall back a step, while Scourge and Captain Yarri fight close-quarters nearby.
+### 39. In the Emperor's fortress, the soldiers' coordinated attack forces Meetra to fall back a step, while Scourge and Captain Yarri fight close-quarters nearby.
 
 ```
 The second soldier leapt into the fray, forcing Meetra to fall back a step to absorb their coordinated attack. Slightly farther away, Scourge and Captain Yarri were also already engaged in close-quarters combat, his lightsaber clashing against her electrostaff as they battled in the narrow confines of the entrance hall.
@@ -350,7 +366,15 @@ The second soldier leapt into the fray, forcing Meetra to fall back a step to ab
 
 ## Leadership and Strategy
 
-### 38. Recognizing her potential, Revan makes Meetra a General and gives her control of nearly half of the Republic and Jedi troops under his command.
+### 40. Meetra places herself between the Emperor and Revan, "valiantly protecting her wounded friend," and the three stand side by side, two Jedi and a Sith Lord against the Emperor.
+
+```
+Meetra had placed herself between the Emperor and Revan, valiantly protecting her wounded friend. As Scourge reached them, Revan managed to stand up again. He reached out with an open palm and his lightsaber sprang from the floor and into his waiting grasp. The three of them stood side by side, two Jedi and a Sith Lord against the Emperor. “I expected better from you, Lord Scourge,” the Emperor said. Scourge wondered if he was stalling for time so his Guard could break through the sealed door. There wasn’t much chance of that, however; by the time they broke into the throne room the battle would already be decided, one way or the other. “He has seen the depths of your evil,” Revan declared. “He stands with us now.” “Then he will die with you, as well.” “You can’t defeat all three of us,” Revan said. “United, we are stronger than even you.” “That remains to be seen,” the Emperor replied.
+
+— Revan (Drew Karpyshyn, 2011), ch. 20
+```
+
+### 41. Recognizing her potential, Revan makes Meetra a General and gives her control of nearly half of the Republic and Jedi troops under his command.
 
 ```
 Recognising her potential, Revan had made her a General, giving her control over nearly half of the Republic and Jedi troops under his command.
@@ -358,7 +382,7 @@ Recognising her potential, Revan had made her a General, giving her control over
 — The Old Republic: Revan †
 ```
 
-### 39. In Revan, the narration says that recognizing her potential, Revan made Meetra a general with control over nearly half the Republic and Jedi troops, and that she was instrumental in defeating the Mandalorians at Malachor V.
+### 42. In Revan, the narration says that recognizing her potential, Revan made Meetra a general with control over nearly half the Republic and Jedi troops, and that she was instrumental in defeating the Mandalorians at Malachor V.
 
 ```
 Recognizing her potential, Revan had made her a general, giving her control over nearly half of the Republic and Jedi troops under his command. Meetra had been instrumental in defeating the Mandalorians, dealing them a devastating blow during the Battle of Malachor V … though at a cost nearly impossible to fathom.
@@ -366,7 +390,7 @@ Recognizing her potential, Revan had made her a general, giving her control over
 — Revan (Drew Karpyshyn, 2011), ch. 5
 ```
 
-### 40. Revan reflects that the sealed Malachor V mission report may not tell Canderous that Meetra lured thousands of his fellow Mandalorian soldiers into a trap.
+### 43. Revan reflects that the sealed Malachor V mission report may not tell Canderous that Meetra lured thousands of his fellow Mandalorian soldiers into a trap.
 
 ```
 Revan wasn’t sure how much Canderous knew about Malachor V and the mass-shadow generator. The mission report was sealed away in the Jedi Archives; he might have no idea that she had lured thousands of his fellow soldiers into a trap. It was also possible he was fully aware of Meetra’s actions, and respected her even more for making the ruthless but tactically brilliant decision to sacrifice thousands of her own people to achieve victory. In either case, Revan didn’t want to get into the tragic tale of Meetra’s banishment and her severance from the Force.
@@ -377,7 +401,7 @@ Revan wasn’t sure how much Canderous knew about Malachor V and the mass-shadow
 
 ## Other Feats
 
-### 41. Meetra was close enough to feel the shock wave of the mass-shadow generator and survived it by cutting herself off from the Force, shielding her psyche from what she had unleashed.
+### 44. Meetra was close enough to feel the shock wave of the mass-shadow generator and survived it by cutting herself off from the Force, shielding her psyche from what she had unleashed.
 
 ```
 Meetra had been close enough to feel the shock wave; to survive it she had cut herself off from the Force, shielding her psyche against the horrors of what she had unleashed. Many years had passed before she regained her connection to the Force, but in the end, surviving the trauma of Malachor V had given her the strength to defeat Darth Traya and her followers.
@@ -385,7 +409,7 @@ Meetra had been close enough to feel the shock wave; to survive it she had cut h
 — Revan (Drew Karpyshyn, 2011), ch. 18
 ```
 
-### 42. In the Emperor's throne room, Meetra finishes off her opponents and calls for them to help Revan.
+### 45. In the Emperor's throne room, Meetra finishes off her opponents and calls for them to help Revan.
 
 ```
 "We have to help Revan!" Meetra shouted, and Scourge turned to see that she, too, had just finished off her opponents.
@@ -393,7 +417,15 @@ Meetra had been close enough to feel the shock wave; to survive it she had cut h
 — Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
-### 43. An onlooker tells Chodo that Meetra's suffering filled his senses as soon as she stood before them, an intensity he had felt only once before.
+### 46. Meetra fights to keep the Ebon Hawk steady through fierce storms over Kaas City and finds the dark side there strong enough to send a shiver down her spine, though "infinitely better than the awful nothingness of Nathema."
+
+```
+MEETRA FOUGHT TO KEEP the Ebon Hawk steady on its descent through the fierce storms raging in the skies above Kaas City spaceport. She knew the storm-ravaged world had to be the world Canderous had spoken of; the one Revan had seen in his dreams. The dark side was powerful here. It was strong enough to send a shiver down her spine, but the sensation was infinitely better than the awful nothingness of Nathema.
+
+— Revan (Drew Karpyshyn, 2011), ch. 20
+```
+
+### 47. An onlooker tells Chodo that Meetra's suffering filled his senses as soon as she stood before them, an intensity he had felt only once before.
 
 ```
 Forgive me, Chodo, but the human - I could feel her suffering. I did not feel it until she stood before us, but then it filled my senses. Have you ever felt such an intensity before?"
@@ -404,7 +436,7 @@ Forgive me, Chodo, but the human - I could feel her suffering. I did not feel it
 — Moza & Chodo Habat, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 44. A student wonders how Meetra still walks when her spirit seems nothing more than a shell, as if the Force, as if life itself, had abandoned her.
+### 48. A student wonders how Meetra still walks when her spirit seems nothing more than a shell, as if the Force, as if life itself, had abandoned her.
 
 ```
 I wish to learn how it is she still walks when her spirit is nothing more than a shell... when you feel as though the Force, as if life itself, has abandoned you.
@@ -412,7 +444,7 @@ I wish to learn how it is she still walks when her spirit is nothing more than a
 — Visas Marr, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 45. Kreia tells Meetra she has grown strong in the Force, but that turning away from what tempts her or causes her fear is not strength.
+### 49. Kreia tells Meetra she has grown strong in the Force, but that turning away from what tempts her or causes her fear is not strength.
 
 ```
 You have grown strong in the Force - I can feel its touch upon you. Do not let the higher mysteries blind you to others. Turning away from that which tempts you or causes you fear is not strength. Facing it is. I have seen you display many acts of mercy - charity, in our journey. Why?"
@@ -425,7 +457,7 @@ You have grown strong in the Force - I can feel its touch upon you. Do not let t
 — Kreia & Meetra, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 46. HK-47 observes that Meetra and her allies seem able to recover quickly from the most grievous injuries.
+### 50. HK-47 observes that Meetra and her allies seem able to recover quickly from the most grievous injuries.
 
 ```
 Observation: It does seem unlikely, Master, but I have observed that you - allies included - seem to be able to recover from the most grievous injuries, and quickly as well.
@@ -433,7 +465,7 @@ Observation: It does seem unlikely, Master, but I have observed that you - allie
 — HK-47, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 47. A speaker tells Meetra that she feeds on the deaths she has caused to get here and grows stronger, "like Malachor."
+### 51. A speaker tells Meetra that she feeds on the deaths she has caused to get here and grows stronger, "like Malachor."
 
 ```
 He's right. It's... all the deaths you've caused to get here. You feed on it, and you grow stronger. You're like Malachor... it's in you, it's what you are now. You must have noticed as you've fought across all these planets, killing hundreds, only to grow more and more powerful. Why do you think that was?
@@ -442,7 +474,7 @@ You have almost completely restored your connection to the Force, but there are 
 — Zez-Kai Ell, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 48. Although Darth Nihilus manages to stun the Exile, he is unprepared for the devotion of his former pupil Visas Marr to her.
+### 52. Although Darth Nihilus manages to stun the Exile, he is unprepared for the devotion of his former pupil Visas Marr to her.
 
 ```
 Although Darth Nihilus managed to stun the Exile, he was unprepared for the devotion of his former pupil Marr to the young woman. Marr tried to exchange her life for that of the Exile, giving the former Jedi time to recover. Together, they confronted Darth Nihilus. The Sith Lord was no match for their combined might, and he fell in battle.
@@ -450,7 +482,7 @@ Although Darth Nihilus managed to stun the Exile, he was unprepared for the devo
 — The Complete Star Wars Encyclopedia †
 ```
 
-### 49. A guide describes the Trayus Academy, home of the Jedi who succumbed to the dark side taint of Malachor V, which Meetra must fight through to reach Sion and Kreia.
+### 53. A guide describes the Trayus Academy, home of the Jedi who succumbed to the dark side taint of Malachor V, which Meetra must fight through to reach Sion and Kreia.
 
 ```
 The Trayus Academy is the home of those Jedi who have succumbed the to dark side taint of Malachor V. To reach the structure's core, where Darth Sion and Kreia await, you must face a legion of elite Sith single-handedly.
@@ -458,7 +490,7 @@ The Trayus Academy is the home of those Jedi who have succumbed the to dark side
 — Knights of the Old Republic II: The Sith Lords Official Prima Game Guide †
 ```
 
-### 50. Sion tells Meetra that she is strong and that, though he cannot see as Kreia does, he knows she will in time surpass her power.
+### 54. Sion tells Meetra that she is strong and that, though he cannot see as Kreia does, he knows she will in time surpass her power.
 
 ```
 You are strong... I cannot see as she does, but I know, that in time, you shall surpass her power.
@@ -466,7 +498,7 @@ You are strong... I cannot see as she does, but I know, that in time, you shall 
 — Darth Sion, Knights of the Old Republic II: The Sith Lords †
 ```
 
-### 51. Meetra trains new Jedi recruits, forms a council of companions who have achieved mastery, and welcomes others who come out of hiding.
+### 55. Meetra trains new Jedi recruits, forms a council of companions who have achieved mastery, and welcomes others who come out of hiding.
 
 ```
 Meanwhile, the Exile trained new Jedi recruits, forming a council of her companions who achieved mastery and welcoming others who came out of hiding. After years of slow but steady growth, the reborn Jedi Order made a triumphant return to its long-abandoned temple on Coruscant.
@@ -475,7 +507,7 @@ But the Jedi Exile could not forget Darth Traya's final warning, suggesting that
 — Galactic History 83: The Republic Rebuilds †
 ```
 
-### 52. Meetra pores through the archives for several days without eating or sleeping, taking quick meditation breaks to replenish her fading energy.
+### 56. Meetra pores through the archives for several days without eating or sleeping, taking quick meditation breaks to replenish her fading energy.
 
 ```
 For several days she pored through the archives, stopping neither to eat nor to sleep, taking a quick meditation break every few hours to replenish her fading stores of energy and mental focus.
@@ -483,7 +515,7 @@ For several days she pored through the archives, stopping neither to eat nor to 
 — The Old Republic: Revan †
 ```
 
-### 53. On Dromund Kaas, Meetra opens herself to the Force for guidance but finds inner tranquility hard to reach where the dark side prevails.
+### 57. On Dromund Kaas, Meetra opens herself to the Force for guidance but finds inner tranquility hard to reach where the dark side prevails.
 
 ```
 She had opened herself up to the Force, looking for guidance and wisdom, but here on Dromund Kaas, where the dark side prevailed, it was difficult to find the inner tranquility necessary to find enlightenment.
@@ -491,7 +523,7 @@ She had opened herself up to the Force, looking for guidance and wisdom, but her
 — The Old Republic: Revan †
 ```
 
-### 54. An enemy fires a burst of lightning and Scourge and Meetra both throw themselves clear of the bolt.
+### 58. An enemy fires a burst of lightning and Scourge and Meetra both throw themselves clear of the bolt.
 
 ```
 She raised her free hand above her head and fired off another burst of lightning. Both Scourge and Meetra threw themselves clear of the deadly electrical bolt, but in doing so they gave Nyriss the early advantage.
@@ -505,7 +537,7 @@ Dazed, he looked up just in time to see another bolt of violet lightning catch M
 — The Old Republic: Revan †
 ```
 
-### 55. Revan notes that Meetra enters her warrior's trance, sitting straight with her eyes focused on nothing.
+### 59. Revan notes that Meetra enters her warrior's trance, sitting straight with her eyes focused on nothing.
 
 ```
 Meetra had gone into what he liked to call her warrior's trance; she sat still and straight, her eyes focused on nothing as she stared straight ahead.
@@ -515,7 +547,7 @@ She believed she could transform herself into a perfect conduit for the Force, a
 — The Old Republic: Revan †
 ```
 
-### 56. The Hero of Tython points out that Revan, the Exile and he were all Jedi-trained and all resisted the Emperor, which no Sith has done.
+### 60. The Hero of Tython points out that Revan, the Exile and he were all Jedi-trained and all resisted the Emperor, which no Sith has done.
 
 ```
 Revan, the Exile and I were all Jedi-trained. We all resisted the Emperor. What Sith have done so?
@@ -528,7 +560,7 @@ Revan, the Exile and I were all Jedi-trained. We all resisted the Emperor. What 
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 57. LIMIT: Traversing Malachor V's surface was agony for Meetra, who sensed the anguish of all who died there while the planet's gravity held her in its crushing grip.
+### 61. LIMIT: Traversing Malachor V's surface was agony for Meetra, who sensed the anguish of all who died there while the planet's gravity held her in its crushing grip.
 
 ```
 Traversing its surface had been agony. Mentally, she had still sensed the anguish of all who had lost their lives there. Physically, the intense gravity of the world had held her in its crushing grip, leaving her gasping for breath. It had been the most awful and horrific experience of her life
@@ -536,7 +568,23 @@ Traversing its surface had been agony. Mentally, she had still sensed the anguis
 — Revan (Drew Karpyshyn, 2011), ch. 18
 ```
 
-### 58. Revan is told that Meetra was much closer to the mass-shadow generator than he was; she felt the shock wave, which nearly killed her and left her vulnerable, then felt the deaths of the Mandalorians and her fellow soldiers through the Force.
+### 62. In The Old Republic: Revan, a dozen bolts of purple lightning arc from the Emperor toward Revan, who tries to draw them in and contain them, but the Emperor is "infinitely more powerful than Darth Nyriss had ever been."
+
+```
+A dozen bolts of purple lightning arced from the Emperor toward him. Revan tried to draw them in and contain them, but the Emperor was infinitely more powerful than Darth Nyriss had ever been.
+
+— Revan (Drew Karpyshyn, 2011), ch. 20
+```
+
+### 63. Revan lies motionless on the Citadel throne-room floor, with Meetra and Scourge beside him "their bodies twisted and broken, clinging to the last moments of life," as the Emperor approaches with cold, casual contempt.
+
+```
+"Revan lay motionless on the floor of the Citadel’s throne room. Meetra and Scourge lay beside him, their bodies twisted and broken, clinging to the last moments of life. The Emperor approached the trio, regarding them with a cold and casual contempt as he loomed above his fallen adversaries. Scourge tried to stand and flee, but his crippled limbs wouldn’t support his weight. All he could do was crawl on his belly like a worm. His efforts drew the attention of the Emperor, who didn’t speak but came over and lowered himself to one knee. He grabbed Scourge by the shoulder and rolled him over so he was staring up into the twin voids of the Emperor’s eyes. As he reached out a hand and placed it on Scourge’s forehead, the Sith began to scream. Scourge’s eyes popped open as his mind snapped to a fully alert state of consciousness. His heart was pounding, and he could still hear the sound of his own scream ringing in his ears.
+
+— Revan (Drew Karpyshyn, 2011), ch. 20
+```
+
+### 64. Revan is told that Meetra was much closer to the mass-shadow generator than he was; she felt the shock wave, which nearly killed her and left her vulnerable, then felt the deaths of the Mandalorians and her fellow soldiers through the Force.
 
 ```
 Meetra was much closer to the mass-shadow generator than you were. She felt the shock wave; it nearly killed her. Left her vulnerable. At the same time, she felt the deaths of the Mandalorians and her fellow soldiers through the Force. It was all too much to bear in her weakened state. It would have killed her.” She paused for emphasis, before continuing. “Instinctively, she protected herself the only way she knew how. She cut herself off from the Force … permanently.
@@ -544,7 +592,7 @@ Meetra was much closer to the mass-shadow generator than you were. She felt the 
 — Revan (Drew Karpyshyn, 2011), ch. 5
 ```
 
-### 59. Scourge, stepping behind Meetra as time snaps back to full speed, slides his lightsaber between her shoulders.
+### 65. Scourge, stepping behind Meetra as time snaps back to full speed, slides his lightsaber between her shoulders.
 
 ```
 Instead of advancing with his two companions, Scourge stepped to the side so that he was standing directly behind Meetra. There was a flicker in his consciousness as the universe snapped back to full speed, and he slid the blade of his lightsaber between her shoulders.
