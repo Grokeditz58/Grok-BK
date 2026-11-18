@@ -10,7 +10,7 @@ Evidence file for Darth Maul, **Star Wars Legends** continuity. Each entry is a 
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 37 entries and 38 quotes.
+- This file has 50 entries and 51 quotes.
 
 
 ## Contents
@@ -18,10 +18,10 @@ Evidence file for Darth Maul, **Star Wars Legends** continuity. Each entry is a 
 - [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (17)
 - [Force Powers](#force-powers) (8)
 - [Strength, Speed and Durability](#strength-speed-and-durability) (1)
-- [Fights and Feats](#fights-and-feats) (3)
-- [Skills, Cunning and Training](#skills-cunning-and-training) (1)
-- [Accolades and Author Statements](#accolades-and-author-statements) (1)
-- [Limitations](#limitations) (6)
+- [Fights and Feats](#fights-and-feats) (5)
+- [Skills, Cunning and Training](#skills-cunning-and-training) (2)
+- [Accolades and Author Statements](#accolades-and-author-statements) (7)
+- [Limitations](#limitations) (10)
 
 ## Lightsaber Skill and Combat Mastery
 
@@ -242,7 +242,23 @@ Snarling, he whirled, moving faster than human eyes could follow, breaking Magne
 
 ## Fights and Feats
 
-### 27. Launching himself in the air, Maul beheads the Gungan general, knocks Ganne from his mount with a left hand, disarms the Boss before he can use his electropole and hauls him by his ears through the melee into the tree line.
+### 27. Maul back-flips across the melting pit to give himself space to recover and assume a new battle stance, and Qui-Gon, weary from carrying the fight alone, is on him in an instant.
+
+```
+Good, Master, Obi-Wan thought, urging him on voicelessly, anticipating Qui-Gon’s sword strokes as if they were his own. Then Darth Maul back-flipped across the melting pit, giving himself some space in which to recover, gaining just enough time to assume a new battle stance. Qui-Gon was on him in an instant, covering the distance separating them in a rush, hammering into the Sith Lord anew. But he was beginning to weary now from carrying the battle alone. His strokes were not so vigorous as before, his face bathed with sweat and taut with fatigue. Slowly, Darth Maul began to edge his way back into the fight, becoming the aggressor once more. Hurry! Obi-Wan hissed soundlessly, willing the lasers to pause and the gates to come down. Stroke for stroke, Qui-Gon and Darth Maul battled about the rim of the melting pit, locked in a combat that seemed endless and forever and could be won by neither. Then the Sith Lord parried a downstroke, whirled swiftly to the right, and with his back to the Jedi Master, made a blind, reverse lunge. Too late, Qui-Gon recognized the danger. The blade of the Sith Lord's lightsaber caught him directly in the midsection, its brilliant length burning through clothing and flesh and bone.
+
+— The Phantom Menace novelization (Terry Brooks, 1999), ch. 23
+```
+
+### 28. On the Naboo hangar, Maul activates his double-ended lightsaber and "made the Jedi run": they have to use everything they know and more to meet his skill.
+
+```
+Fear is an unfamiliar feeling to a Jedi. Now they must live with it. The battle began in the hangar. Darth Maul activated his double-ended lightsaber, a weapon he fashioned himself under my supervision. In his hands this weapon was flawless - or so I thought. He made the Jedi run. They had to use everything they knew and more to meet his skill.
+
+— Darth Maul Journal # Jude Watson (Star Wars, 2000)
+```
+
+### 29. Launching himself in the air, Maul beheads the Gungan general, knocks Ganne from his mount with a left hand, disarms the Boss before he can use his electropole and hauls him by his ears through the melee into the tree line.
 
 ```
 He launched himself into the air when he was still five meters from the Boss and the general. The latter lost his head to one of the blades, and Ganne was knocked from his mount by Maul’s extended left hand. Agile despite his girth, the Gungan Boss clambered to his feet and scrambled for his electropole, but Maul was on him before he could use the weapon, disarming him and hauling him by his long ears through the chaos of the melee, into the tree line that defined the edge of the battlefield.
@@ -250,7 +266,7 @@ He launched himself into the air when he was still five meters from the Boss and
 — The Phantom Menace novelization (Terry Brooks, 1999), ch. 24
 ```
 
-### 28. In End Game, Maul clashes with Qui-Gon on a Naboo plain; he is almost taken off his guard, but Qui-Gon has to quiet his mind and bring his imposing might against Maul's agility.
+### 30. In End Game, Maul clashes with Qui-Gon on a Naboo plain; he is almost taken off his guard, but Qui-Gon has to quiet his mind and bring his imposing might against Maul's agility.
 
 ```
 Qui-Gon’s shrewd readiness had almost taken Maul off his guard. But the first ferocious clash of their blades had told him that the Jedi was equally surprised. And why shouldn’t he be—about being attacked not only by a Dathomiri Zabrak who had appeared out of nowhere, but also by one trained in the dark arts and wielding a crimson-bladed lightsaber? Regardless, Qui-Gon had quieted his mind and brought his imposing might to bear against Maul’s agility. He had matched Maul’s furious strokes with a disciplined intensity all his own. In the midst of their no-quarter contest the Jedi had even managed to order the slave boy to flee for the safety of the waiting ship, where Maul had nearly forgotten all about him.
@@ -258,7 +274,7 @@ Qui-Gon’s shrewd readiness had almost taken Maul off his guard. But the first 
 — End Game (James Luceno, short story)
 ```
 
-### 29. Maul launches himself from a STAP into a score of mounted Gungans, evading or fending off energy lances and spheres with his lightsaber, and the rubbery Gungans nearly disintegrate at the touch of his twin blades.
+### 31. Maul launches himself from a STAP into a score of mounted Gungans, evading or fending off energy lances and spheres with his lightsaber, and the rubbery Gungans nearly disintegrate at the touch of his twin blades.
 
 ```
 Some of the Gungan riders saw him coming and took aim. Maul twisted his body, either evading flights of energy lances and spheres or fending them off with the lightsaber. Letting go of the STAP when he was still twenty meters from Ganne and the general, he called on the Force to send himself tearing through a score of mounted Gungans. It was clear that they had never seen anything like him. But then, who had? What Sith in the past thousand years had been allowed to wield a lightsaber in open battle? Was that in itself not enough to qualify him as a true Sith?
@@ -275,7 +291,15 @@ The rubbery Gungans all but disintegrated at the touch of the twin blades Maul h
 
 ## Skills, Cunning and Training
 
-### 30. Back on Mustafar, Sidious puts Maul through fourteen days of grueling tests: fighting lightsaber-wielding droids, blindfolded dagger-throwing at robotic targets that throw the daggers back, a flight simulator with disciplinary electrodes, and a maze in a sensory-deprivation suit.
+### 32. Maul's entire existence consisted of training; before his voice had deepened he had learned the teras kasi forms patterned on beasts, among them Charging Wampa, Rancor Rising and Dancing Dragonsnake.
+
+```
+Maul’s entire existence had consisted of training, of exercise and instruction. Early in his life, before his voice had deepened, Maul had learned the intricate movements and forms of the teräs käsi fighting style, the patterns of movements based on the hunting characteristics of various beasts throughout the galaxy: Charging Wampa, Rancor Rising, Dancing Dragonsnake, and many more. He had practiced gymnastics in environments ranging from zero-g to gravity fields twice that of Coruscant’s. He had mastered the intricate and dangerous use of the double-bladed lightsaber. And all for one purpose: to be the best possible tool of his master’s will.
+
+— Shadow Hunter (Michael Reaves, 2001), ch. 19
+```
+
+### 33. Back on Mustafar, Sidious puts Maul through fourteen days of grueling tests: fighting lightsaber-wielding droids, blindfolded dagger-throwing at robotic targets that throw the daggers back, a flight simulator with disciplinary electrodes, and a maze in a sensory-deprivation suit.
 
 ```
 Sidious and Maul returned to Mustafar. For fourteen days, Sidious put Maul through a series of grueling physical tests. Maul defended himself against lightsaber-wielding droids in the training room. Blindfolded, he threw daggers at robotic targets, which threw the daggers back at him. He was blindfolded again before he climbed into a starship flight simulator wired with disciplinary electrodes. He wore a sensory-deprivation suit when he ran through a maze that was lined with razor-edged walls, and also when he was deposited into a previously unexplored Mustafarian cave. In locked chambers, he was exposed to extreme temperatures and deprived of food. For each test, he drew strength from the dark side of the Force.
@@ -286,7 +310,55 @@ Sidious and Maul returned to Mustafar. For fourteen days, Sidious put Maul throu
 
 ## Accolades and Author Statements
 
-### 31. Sidious calls Maul's lightsaber from his belt to his own hand, stops it mid-flight centimeters from his palm and makes it spin and rotate, leaving Maul gazing at him in unabashed awe.
+### 34. Obi-Wan's thoughts in Labyrinth of Evil rank the use of four blades as worse than the two blades used "by Darth Maul."
+
+```
+The only aspect of Grievous’s technique that vexed him more was the general’s penchant for using four blades. Two was bad enough—in the form they had been used by Darth Maul, or in Anakin Skywalker’s sad attempt to employ the technique on Geonosis.
+
+— Labyrinth of Evil (James Luceno, 2005), ch. 32
+```
+
+### 35. In Darth Plagueis, a Master learns on Naboo that Maul was defeated in a power-generator station, and wonders how Maul "had managed to kill a master sword fighter only to be overcome by a lesser one."
+
+```
+It wasn’t until he arrived in Theed and learned of Darth Maul’s defeat at the hands of the Jedi in a power-generator station that he understood in part the reason for the sense of loss and profound solitude he had experienced following the murder of Plagueis. He could have pressed one of the other Jedi who had arrived on Naboo for information as to how Maul had managed to kill a master sword fighter only to be overcome by a lesser one, but he didn’t want to know, and as a result be able to imagine the contest. Still, it gave him great pleasure to stand among Yoda, Mace Windu, and other Masters and watch Qui-Gon Jinn’s body reduced to ash, knowing that the Jedi was just the first casualty in a war that had been declared but not yet begun; one in which ten thousand Jedi would follow Qui-Gon to the grave …
+
+— Darth Plagueis (James Luceno, 2012), epilogue
+```
+
+### 36. The narration says "Any Jedi Knight could wield a single-bladed lightsaber; only a master fighter could use" the double-bladed weapon first designed by Exar Kun, which can be as deadly to the user as to the opponent.
+
+```
+Maul raised his own weapon, the double-bladed lightsaber, and triggered the power control. Twin lances of pure energy boiled forth, hissing and crackling in crimson loops that began and ended at the two flux apertures on either end of the device. Any Jedi Knight could wield a single-bladed lightsaber; only a master fighter could use the weapon first designed by the legendary Dark Lord Exar Kun millennia ago. Unless one was in perfect attunement with it, the weapon could be as deadly to the user as to the opponent.
+
+— Lost Tribe of the Sith (John Jackson Miller, 2012), ch. 17
+```
+
+### 37. Maul is described as "a warrior in his prime, never to be any better, his powers at their apex," driven by his messianic hatred of the Jedi, who had trained all his life for a chance to meet a Jedi Knight in combat.
+
+```
+Darth Maul was a warrior in his prime, never to be any better, his powers at their apex. In addition, he was driven by his messianic hatred for and disdain of the Jedi Knights, the enemies of the Sith for millennia. He had worked and trained all his life for this moment, for a chance to meet a Jedi Knight in combat. It was an added bonus that he was able to engage two. He had no fear for himself, no doubt that he would win. He was focused in a way that Qui-Gon recognized at once—a Jedi’s focus, mindful of the present, locked in on what was needed in the here and now. Qui-Gon saw it in his mad eyes and in the set of his red and black tattooed features. The Sith Lord was a living example of what the Jedi Master was always telling Obi-Wan about how best to hear the will of the Force.
+
+— The Phantom Menace novelization (Terry Brooks, 1999), ch. 22
+```
+
+### 38. Sidious judges Maul "an exemplary acolyte" whose loyalty is "unquestionable and unshakable" and whose "skills as a warrior were nonpareil."
+
+```
+Alone in his secret chambers, Darth Sidious meditated on this latest set of circumstances. In many ways Darth Maul was an exemplary acolyte. His loyalty was unquestionable and unshakable; Sidious knew that, if he were to command it, Maul would sacrifice his life without a second’s hesitation. And his skills as a warrior were nonpareil.
+
+— Shadow Hunter (Michael Reaves, 2001), ch. 12
+```
+
+### 39. Obi-Wan is finally a worthy opponent for Maul: not since being defeated by his own Master, Darth Sidious, had Maul "been so committed to a challenge."
+
+```
+After all the droids, assassins, gangsters, and soldiers he had vanquished, finally a worthy opponent. Not since he had fought and been defeated by his own Master, Darth Sidious, had Maul been so committed to a challenge.
+
+— End Game (James Luceno, short story)
+```
+
+### 40. Sidious calls Maul's lightsaber from his belt to his own hand, stops it mid-flight centimeters from his palm and makes it spin and rotate, leaving Maul gazing at him in unabashed awe.
 
 ```
 Before Maul could prevent it—even if he had chosen to do so—the long cylinder that was his double-bladed lightsaber flew from its hitch on his belt and went directly to his Master. But instead of grasping it, Sidious stopped the lightsaber in midflight, centimeters from his raised hand, and directed it to spin and rotate before him, leaving Maul to gaze at him in unabashed awe.
@@ -299,7 +371,39 @@ Before Maul could prevent it—even if he had chosen to do so—the long cylinde
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 32. Maul is hit by blaster bolts without feeling any warning vibration of the Force, and, unable to sense Lorn Pavan with the Force even though he can see him, his reaction time slows enough for Pavan to lock a hatch in his face.
+### 41. In the Theed generator, Qui-Gon's ferocity after meditation keeps Maul on the defensive: he drives him back about the rim of the overhang, refusing to let him bring the double-bladed weapon to bear, and Maul's face takes on "a frenzied look" as "the glitter of his strange eyes brightened with uncertainty."
+
+```
+It appeared that the Jedi Master would. He had found a fresh reserve of strength during his meditation, and now he was attacking with a ferocity that seemed to have the Sith Lord stymied. With quick, hard strokes of his lightsaber, he bored into his adversary, deliberately engaging in close-quarters combat, refusing to let the other bring his double-bladed weapon to bear. He drove Darth Maul backward about the rim of the overhang, keeping the Sith Lord constantly on the defensive, pressing in on him steadily. Qui-Gon Jinn might no longer be young, but he was still powerful. Darth Maul's ragged face took on a frenzied look, and the glitter of his strange eyes brightened with uncertainty.
+
+— The Phantom Menace novelization (Terry Brooks, 1999), ch. 23
+```
+
+### 42. Obi-Wan's lightsaber sweeps through the pommel of Maul's weapon, shattering one half and leaving Maul with a single blade, and a kick to the chest sends him sprawling near the edge of the core.
+
+```
+Obi-Wan's lightsaber came up fast and swept through the pommel of Maul's weapon. One half of Maul's lightsaber shattered, leaving his left hand clutching what amounted to a still-functional single blade. Before he could react, Obi-Wan kicked him in the chest and he was sent sprawling onto his back near the edge of the core.
+
+— Star Wars: Lives and Adventures (Ryder Windham), ch. 17
+```
+
+### 43. Obi-Wan charges into Maul with such fury that he nearly knocks them both off the ledge; the Sith Lord is "borne backward," caught off guard by the wild assault and pressed back to the far wall of the melting pit.
+
+```
+Free at last of the laser wall, Obi-Wan Kenobi charged out of the service tunnel and into the chamber that housed the melting pit. Abandoning any pretense of observing even the slightest caution, he barreled into Darth Maul with such fury that he almost knocked both of them off the ledge and into the abyss. He struck at the Sith Lord with his lightsaber as if his own safety meant nothing, lost in a red haze of rage and frustration, consumed by his grief for Qui-Gon and his failure to prevent his friend’s fall. The Sith Lord was borne backward by the Jedi Knight’s initial rush, caught off guard by the other’s wild assault, and pressed all the way back to the far wall of the melting pit. There he struggled to keep the young Jedi at bay, trying to open enough space between them to defend himself. Lightsabers scraped and grated against each other, and the chamber echoed with their fury. Lunging and twisting, Darth Maul regained the offensive and counterattacked, using both ends of his lightsaber in an effort to cut Obi-Wan’s legs out from under him. But Obi-Wan, while not so experienced as Qui-Gon, was quicker. Anticipating each blow, he was able to elude his antagonist’s efforts to bring him down. The struggle took them around the edge of the melting pit and into the nooks and alcoves beyond, into shadowed recesses and around smoky pillars and pipe housings. Twice, Obi-Wan went down, losing his footing on the smooth flooring of the melting pit’s rim. Once, Darth Maul hammered at him with such determination that he scorched the young Jedi’s tunic, shoulder to waist, and it was only by countering with an upthrust counterstrike to the other’s midsection and by rolling quickly away and back to his feet that Obi-Wan was able to escape. They fought their way back toward the laser-riddled service passage, past Qui-Gon’s still form, and into a tangle of vent tubes and circuit housings. Steam burst from ruptured pipes, and the air was filled with the acrid smell of scorched wiring. Darth Maul began to use his command of the Force to fling heavy objects at Obi-Wan, trying to throw him off balance, to disable him, to disrupt the flow of his attack. Obi-Wan responded in kind, and the air was filled with deadly missiles. Lightsabers flicked right and left to ward off the objects, and the clash of errant metal careening off stone walls formed an eerie shriek in the gloom. The battle wore on, and for a time it was fought evenly. But Darth Maul was the stronger of the two and was driven by a frenzy that surpassed even the frantic determination that fueled Obi-Wan. Eventually, the Sith Lord began to wear the young Jedi down. Bit by bit, he pressed him back, carrying the attack to him, looking to catch him off guard. Obi-Wan could sense his body weakening, and his fear of what it would mean if he, too, were to fall, began to grow. Never! he swore furiously. Qui-Gon’s words came back to him. Don’t center on your fears. Concentrate on the here and now. He struggled to do so, to contain the emotions warring within and bearing him down. Be mindful of the living Force, my young Padawan. Be strong. Sensing his opportunity slipping away from him and his strength waning, Obi-Wan mounted a final assault. He rushed the Sith Lord with a series of side blows designed to bring the two-bladed lightsaber horizontal. Then he feinted an attack to his enemy's left and brought his own lightsaber over and down with such force that he severed the other's weapon. Crying out in fury, he cut triumphantly at the Sith Lord's horned head, a killing blow. And missed completely. Darth Maul, anticipating the maneuver, had stepped smoothly away. Discarding the lesser half of his severed weapon, he counterattacked swiftly, striking at Obi-Wan with enough force that he knocked the young Jedi sideways and off balance. Quickly he struck him again, harder still, and this time Obi-Wan lost his footing completely and tumbled over the edge of the pit, his lightsaber flying from his hand. For an instant, he was falling, tumbling away into the dark. He reached out in desperation and caught hold of a metal rung just below the lip of the pit. There he hung, helpless, staring up at a triumphant Darth Maul. When Anakin Skywalker got a look at the number of battle droids surrounding his starfighter, he ducked back out of sight again at once. If it had been at all possible, he would have vanished into the ship’s fuselage and willed them both right through the hangar floor to a safer haven.
+
+— The Phantom Menace novelization (Terry Brooks, 1999), ch. 23
+```
+
+### 44. Sidious has an "almost filial bond" with Maul but, "attached to the present," fails to grasp that this is the last time he and his apprentice might see each other in the flesh.
+
+```
+Sidious had formed an almost filial bond with Maul. Attached to the present, he failed to grasp the truth: that this was the last time he and his apprentice might see each other in the flesh.
+
+— Darth Plagueis (James Luceno, 2012), ch. 29
+```
+
+### 45. Maul is hit by blaster bolts without feeling any warning vibration of the Force, and, unable to sense Lorn Pavan with the Force even though he can see him, his reaction time slows enough for Pavan to lock a hatch in his face.
 
 ```
 It was the combined shock of these two events—plus the confusing fact that, even though he could see Pavan before him, he could not sense his presence with the Force—that had slowed his reaction time just enough to let the Corellian get through the hatchway and lock it in Maul’s face. Now he had to burn his way through the lock mechanism. As soon as the hatch came loose, he savagely hurled it open and shot after Pavan, using the Force to propel his weightless self in pursuit. There was no time to lose. He did not know how Pavan had escaped the explosion back in the storage facility, or how he was able to block his presence in the Force—and he did not care. In a few minutes his master would be at the rendezvous point, and Maul intended to be there, as well, holding the holocron in one hand and Pavan’s severed head in the other.
@@ -307,7 +411,7 @@ It was the combined shock of these two events—plus the confusing fact that, ev
 — Shadow Hunter (Michael Reaves, 2001), ch. 36
 ```
 
-### 33. At Theed, Maul sabotages himself by drawing out his moment of victory after killing Qui-Gon: Obi-Wan leaps out of the core, somersaults in midair and lands behind Maul with Qui-Gon's Force-summoned lightsaber in his hand.
+### 46. At Theed, Maul sabotages himself by drawing out his moment of victory after killing Qui-Gon: Obi-Wan leaps out of the core, somersaults in midair and lands behind Maul with Qui-Gon's Force-summoned lightsaber in his hand.
 
 ```
 In the split second it took Maul to realize that Obi-Wan was actually gazing at Qui-Gon’s lightsaber—where it had come to a rest on the inspection platform—and that Maul had sabotaged himself by drawing out his moment of victory, Obi-Wan leapt straight out of the core and somersaulted in midair, so that he was facing Maul when he landed behind him, with Qui-Gon’s Force-summoned weapon in his hand.
@@ -315,7 +419,7 @@ In the split second it took Maul to realize that Obi-Wan was actually gazing at 
 — The Phantom Menace novelization (Terry Brooks, 1999), ch. 24
 ```
 
-### 34. As Obi-Wan's green blade bisects him at the hips, Maul has a fleeting memory of his life on Orsis and of performing the same feat the first time he used the Force among beings other than his Master.
+### 47. As Obi-Wan's green blade bisects him at the hips, Maul has a fleeting memory of his life on Orsis and of performing the same feat the first time he used the Force among beings other than his Master.
 
 ```
 As the green blade went through him, bisecting him at the hips, Maul had a fleeting memory of his life on Orsis, and of performing the same feat Obi-Wan just had, the first time he had used the Force among beings others than his Master.
@@ -323,7 +427,7 @@ As the green blade went through him, bisecting him at the hips, Maul had a fleet
 — The Phantom Menace novelization (Terry Brooks, 1999), ch. 24
 ```
 
-### 35. In training, Maul's anger turns to rage as he swings again and again and fails to hit Sidious, who moves faster than he can follow; Maul falls against the wall gasping for breath.
+### 48. In training, Maul's anger turns to rage as he swings again and again and fails to hit Sidious, who moves faster than he can follow; Maul falls against the wall gasping for breath.
 
 ```
 Maul’s anger turned to rage. He spun fast and swung his lightsaber again, but again he failed to strike Sidious, who moved faster than he could follow. He fell against the opposite wall and gasped for breath.
@@ -331,7 +435,7 @@ Maul’s anger turned to rage. He spun fast and swung his lightsaber again, but 
 — The Wrath of Darth Maul (Ryder Windham, 2012), ch. 12
 ```
 
-### 36. Sidious "shifts like a liquid shadow," leaving Maul against the wall with blurred vision and fading strength; Maul parries one blow but his lightsaber suddenly flies from his hand.
+### 49. Sidious "shifts like a liquid shadow," leaving Maul against the wall with blurred vision and fading strength; Maul parries one blow but his lightsaber suddenly flies from his hand.
 
 ```
 Sidious shifted like a liquid shadow, maneuvering around his apprentice. Maul was suddenly up against the wall, gasping for breath as his vision blurred. His strength was evaporating. He turned fast to see Sidious. Sidious lashed out with his lightsaber. Maul parried the blow, but then his lightsaber suddenly flew from his hand.
@@ -339,7 +443,7 @@ Sidious shifted like a liquid shadow, maneuvering around his apprentice. Maul wa
 — The Wrath of Darth Maul (Ryder Windham, 2012), ch. 12
 ```
 
-### 37. In End Game, Maul realizes Obi-Wan was gazing at Qui-Gon's lightsaber and that Maul "had sabotaged himself by drawing out his moment of victory"; Obi-Wan leaps from the core and somersaults behind him with Qui-Gon's Force-summoned weapon.
+### 50. In End Game, Maul realizes Obi-Wan was gazing at Qui-Gon's lightsaber and that Maul "had sabotaged himself by drawing out his moment of victory"; Obi-Wan leaps from the core and somersaults behind him with Qui-Gon's Force-summoned weapon.
 
 ```
 In the split second it took Maul to realize that Obi-Wan was actually gazing at Qui-Gon’s lightsaber—where it had come to a rest on the inspection platform—and that Maul had sabotaged himself by drawing out his moment of victory, Obi-Wan leapt straight out of the core and somersaulted in midair, so that he was facing Maul when he landed behind him, with Qui-Gon’s Force-summoned weapon in his hand.
