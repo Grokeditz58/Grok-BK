@@ -7,7 +7,6 @@ The link opens the file that holds the new lines.
 | Character | Lines | Where |
 |---|---|---|
 | admiral-ackbar | 4 | [admiral-ackbar.md](admiral-ackbar.md#egc-1995) |
-| exar-kun | 7 | [03-part-3-feats-and-statements-only.md](exar-kun/03-part-3-feats-and-statements-only.md#egc-1995) |
 | kyp-durron | 2 | [kyp-durron.md](kyp-durron.md#egc-1995) |
 | leia-organa | 7 | [03-part-3-feats-and-statements-only.md](leia-organa/03-part-3-feats-and-statements-only.md#egc-1995) |
 | luke-skywalker | 20 | [06-part-3-feats-and-statements-only.md](luke-skywalker/06-part-3-feats-and-statements-only.md#egc-1995) |
