@@ -1442,7 +1442,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [tyvokka.md](tyvokka.md) | Tyvokka | Prequel | untiered | 64 | 64 | 0 | 5 | Tyvokka | 62 | 30 | 0 | 2 |
 | [u-3po.md](u-3po.md) | U-3PO (NEW 2026-10-30) | Rebellion | untiered | 1 | 1 | 0 | 0 | U-3PO | 1 | 0 | 0 | 0 |
 | [uldir-lochett.md](uldir-lochett.md) | Uldir Lochett | NJO | untiered | 40 | 40 | 0 | 0 | Uldir Lochett, Uldir | 84 | 52 | 1 | 45 |
-| [ulic-qel-droma.md](ulic-qel-droma.md) | Ulic Qel-Droma | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 631 | 629 | 2 | 70 | Ulic Qel-Droma, Ulic | 632 | 316 | 20 | 171 |
+| [ulic-qel-droma.md](ulic-qel-droma.md) | Ulic Qel-Droma | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 631 | 629 | 2 | 70 | Ulic Qel-Droma, Ulic | 94 | 94 | 20 | 171 |
 | [ull-murub.md](ull-murub.md) | Ull Murub (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Ull Murub | 1 | 0 | 0 | 0 |
 | [ulric-tagge.md](ulric-tagge.md) | Ulric Tagge (NEW 2026-10-29) |  | untiered | 6 | 5 | 1 | 0 | Ulric Tagge | 6 | 3 | 0 | 0 |
 | [umak-leth.md](umak-leth.md) | Umak Leth (NEW 2026-11-03) | NR (Dark Empire) | untiered | 20 | 20 | 0 | 0 | Umak Leth | 20 | 17 | 0 | 20 |
