@@ -899,7 +899,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [lyn-me.md](lyn-me.md) | Lyn Me (NEW 2026-10-30) | Rebellion | untiered | 2 | 2 | 0 | 0 | Lyn Me | 2 | 1 | 0 | 3 |
 | [makis-shaalas.md](makis-shaalas.md) | Ma'kis'shaalas (NEW 2026-10-29) |  | untiered | 7 | 7 | 0 | 0 | Ma'kis'shaalas | 7 | 1 | 0 | 0 |
 | [maarek-stele.md](maarek-stele.md) | Maarek Stele | GCW | untiered | 7 | 7 | 0 | 0 | Maarek Stele | 7 | 1 | 0 | 1 |
-| [mace-windu.md](mace-windu.md) | Mace Windu | Prequel / Clone Wars | DEEP | 1660 | 1617 | 43 | 228 | Mace Windu, Windu, Mace | 144 | 148 | n/a | n/a |
+| [mace-windu.md](mace-windu.md) | Mace Windu | Prequel / Clone Wars | DEEP | 1660 | 1617 | 43 | 228 | Mace Windu, Windu, Mace | 156 | 162 | n/a | n/a |
 | [machel-kendy.md](machel-kendy.md) | Machel Kendy (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 1 | 1 | 0 | 0 | Machel Kendy | 1 | 1 | 0 | 2 |
 | [macy-yakaro.md](macy-yakaro.md) | Macy Yakaro | Rebellion | untiered | 2 | 2 | 0 | 0 | Macy Yakaro, Macy | 2 | 1 | 0 | 0 |
 | [magalak.md](magalak.md) | Magalak (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Magalak | 2 | 0 | 0 | 0 |
@@ -1614,7 +1614,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Plagueis](darth-plagueis.md): 106
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 104
 - [Cade Skywalker](cade-skywalker/README.md): 1755
-- [Mace Windu](mace-windu.md): 144
+- [Mace Windu](mace-windu.md): 156
 - [Darth Maul](darth-maul.md): 195
 - [Mara Jade Skywalker](mara-jade.md): 124
 - [Lord Scourge](lord-scourge/README.md): 1622
@@ -1645,7 +1645,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Plagueis](darth-plagueis.md): 106
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 104
 - [Cade Skywalker](cade-skywalker/README.md): 1766
-- [Mace Windu](mace-windu.md): 144
+- [Mace Windu](mace-windu.md): 156
 - [Lord Scourge](lord-scourge/README.md): 1650
 - [Darth Maul](darth-maul.md): 195
 - [Leia Organa Solo](leia-organa/README.md): 1592
