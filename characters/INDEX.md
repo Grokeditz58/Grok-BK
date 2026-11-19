@@ -1021,7 +1021,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [nolor.md](nolor.md) | Nolor (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Nolor | 3 | 1 | 0 | 0 |
 | [nom-anor.md](nom-anor.md) | Nom Anor | NJO | untiered | 59 | 59 | 0 | 0 | Nom Anor | 211 | 129 | 17 | 102 |
 | [nomen-karr.md](nomen-karr.md) | Nomen Karr | TOR | untiered | 12 | 12 | 0 | 3 | Nomen Karr | 12 | 11 | 0 | 0 |
-| [nomi-sunrider.md](nomi-sunrider.md) | Nomi Sunrider | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 210 | 210 | 0 | 20 | Nomi Sunrider, Nomi | 211 | 105 | 17 | 81 |
+| [nomi-sunrider.md](nomi-sunrider.md) | Nomi Sunrider | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 210 | 210 | 0 | 20 | Nomi Sunrider, Nomi | 45 | 45 | 17 | 81 |
 | [nonul-weran.md](nonul-weran.md) | Nonul Weran (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Nonul Weran | 1 | 0 | 0 | 0 |
 | [noor-shan.md](noor-shan.md) | Noor Shan | NJO | untiered | 1 | 1 | 0 | 0 | Noor Shan | 1 | 0 | 0 | 0 |
 | [notrudenn.md](notrudenn.md) | Notru'denn (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Notru'denn | 2 | 0 | 0 | 0 |
