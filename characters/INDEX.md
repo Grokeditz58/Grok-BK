@@ -290,7 +290,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [corran-horn.md](corran-horn.md) | Corran Horn | NR–LotF | DEEP | 256 | 255 | 1 | 16 | Corran Horn, Corran | 386 | 301 | n/a | n/a |
 | [corwin-shelvay.md](corwin-shelvay.md) | Corwin Shelvay (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Corwin Shelvay | 2 | 2 | 0 | 0 |
 | [counselor-raines.md](counselor-raines.md) | Counselor Raines | NR | untiered | 5 | 5 | 0 | 0 | Counselor Raines, Raines | 5 | 0 | 0 | 0 |
-| [count-dooku.md](count-dooku.md) | Count Dooku / Darth Tyranus | Prequel / Clone Wars | DEEP | 2350 | 2199 | 151 | 330 | Count Dooku / Darth Tyranus, Count Dooku, Dooku, Darth Tyranus, Tyranus | 47 | 47 | n/a | n/a |
+| [count-dooku.md](count-dooku.md) | Count Dooku / Darth Tyranus | Prequel / Clone Wars | DEEP | 2350 | 2199 | 151 | 330 | Count Dooku / Darth Tyranus, Count Dooku, Dooku, Darth Tyranus, Tyranus | 127 | 127 | n/a | n/a |
 | [covell.md](covell.md) | Covell (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 30 | 30 | 0 | 0 | Covell | 30 | 27 | 0 | 36 |
 | [crado.md](crado.md) | Crado | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 38 | 38 | 0 | 0 | Crado | 38 | 16 | 1 | 8 |
 | [cradossk.md](cradossk.md) | Cradossk (NEW 2026-10-29) |  | untiered | 15 | 14 | 1 | 2 | Cradossk | 15 | 7 | 0 | 5 |
@@ -1606,7 +1606,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Revan](revan.md): 132
 - [Darth Caedus / Jacen Solo](darth-caedus.md): 193
 - [Yoda](yoda.md): 81
-- [Count Dooku / Darth Tyranus](count-dooku.md): 47
+- [Count Dooku / Darth Tyranus](count-dooku.md): 127
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2249
 - [General Grievous](general-grievous/README.md): 2190
 - [Exar Kun](exar-kun.md): 103
@@ -1638,7 +1638,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Revan](revan.md): 132
 - [Yoda](yoda.md): 81
 - [Darth Caedus / Jacen Solo](darth-caedus.md): 193
-- [Count Dooku / Darth Tyranus](count-dooku.md): 47
+- [Count Dooku / Darth Tyranus](count-dooku.md): 127
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
 - [General Grievous](general-grievous/README.md): 2198
 - [Exar Kun](exar-kun.md): 103
