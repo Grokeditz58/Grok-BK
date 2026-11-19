@@ -11,8 +11,9 @@ Evidence file for Meetra Surik, the Jedi Exile of Knights of the Old Republic II
 - Sources read for this rebuild: Revan (Drew Karpyshyn, 2011), full text; the existing repo notes on Knights of the Old Republic II (kotor-2-notes, meetra-surik-quotes, the Exile player-character dialogue file). Game dialogue, guide and codex quotes come from those notes and carry †.
 - Game lines were checked against the StrategyWiki KOTOR II dialogue transcripts on file (Kreia, Visas, Atton, Handmaiden, Hanharr, HK-47, Disciple, Secret Academy, Restoration Zone, Rebuilt Jedi Enclave, Ravager and Trayus Core pages) and corrected where they differed. Lines not found in those transcripts are kept from the notes with †.
 - Narration about Meetra is under the feat sections it describes; guide and encyclopedia text is under Author and Guide Statements; what characters say to or about her is under Statements from Other Characters.
+- Correction pass 2026-11-19: KOTOR II lines re-checked word for word against StrategyWiki area transcripts and the LP Archive playthrough (now saved in sources/). 19 game quotes are now verified (marker † removed); two capitalisation errors and a missing word ('grievous of injuries') were fixed; and the Moza/Chodo Habat exchange was re-split by speaker, with its missing opening quote mark restored. Still unverified (†): Kreia's 'Ah, you are here...', Kavar's Force Mastery lines, the holocron text, Kreia's 'hands and mind are divided' and 'nothing more for me to teach you', and 'She was our last chance'.
 - Canon material is not covered.
-- This file has 61 entries and 61 quotes (35 marked †).
+- This file has 61 entries and 61 quotes (16 marked †).
 
 ## Contents
 
@@ -38,7 +39,7 @@ Evidence file for Meetra Surik, the Jedi Exile of Knights of the Old Republic II
 ```
 Every step on our journey shall bring with it discoveries - with persistence, you shall grow in the Force. And for every planet we reach, all that we touch with our presence, you shall grow - for you will have no choice.
 
-— Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 2. Kreia tells the Exile that Visas Marr's master, Darth Nihilus, can now feel her presence in the Force and that "the time to hide your presence is coming to a close."
@@ -58,7 +59,7 @@ There is something wrong with you - it is like you carry... light within you, an
 "It is the sign of one who is at peace."
 "I have never seen such a fire within a human - or any other beast. It feels wrong.
 
-— Hanharr to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Hanharr to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 4. Brianna tells the Exile there is a calm and lightness in her movements she has seen only in "the most disciplined and revered of the Echani weaponmasters," which comes to the Exile with ease.
@@ -71,7 +72,7 @@ Are you all right?"
 "I do feel better... I feel more in touch with my surroundings... and others."
 "It shows in your features. It is beautiful to see.
 
-— Brianna (the Handmaiden) to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Brianna (the Handmaiden) to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 5. Atton Rand tells the Exile that calm is "almost streaming off of you," far more than on Peragus.
@@ -82,7 +83,7 @@ You seem pretty calm - it's almost streaming off of you. A lot calmer than you w
 "On Peragus, you seemed... well, a little less at peace with yourself. Now, you're different. It's hard to explain."
 "I'm fine. In fact, I haven't felt this good in a long time.
 
-— Atton Rand to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Atton Rand to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 6. Atton tells the Exile she has "this glow" he can see out of the corner of his eye; she says she feels more in touch with the Force than ever.
@@ -93,7 +94,7 @@ I don't know what it is, but you look different. It's hard to explain - but it's
 "It's like you've got this glow, but only when I see you out of the corner of my eye."
 "I feel as if I'm more in touch with the Force than I ever have been.
 
-— Atton Rand to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Atton Rand to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 7. Later Atton tells the Exile the glow is now bright around her, as if she has found a center nothing can budge her from.
@@ -104,7 +105,7 @@ You know, I noticed a glow before, but now... now it's bright around you. You've
 "It's like... well, it's like you've found this center, and nothing's going to budge you from it. Even with all the crazy stuff that's been happening, you seem at peace."
 "It's hard to explain, but even with everything that's happening, I feel at peace.
 
-— Atton Rand to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Atton Rand to the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ## Overall Force Power
@@ -222,12 +223,12 @@ The affirmation of her own existence seemed to push the Void back, at least for 
 
 ## Strength, Speed, Durability and Pain Tolerance
 
-### 19. HK-47 tells the Exile that she and her allies "seem to be able to recover from the most grievous injuries, and quickly as well."
+### 19. HK-47 tells the Exile that she and her allies "seem to be able to recover from the most grievous of injuries, and quickly as well."
 
 ```
-Observation: It does seem unlikely, Master, but I have observed that you - allies included - seem to be able to recover from the most grievous injuries, and quickly as well.
+Observation: It does seem unlikely, master, but I have observed that you - allies included - seem to be able to recover from the most grievous of injuries, and quickly as well.
 
-— HK-47 to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— HK-47 to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ## Lightsaber Skill and Combat Mastery
@@ -357,15 +358,15 @@ She knew the storm-ravaged world had to be the world Canderous had spoken of; th
 ```
 You always had deep connections to the Force. I am glad to see that it is once again your ally. When I first sparred with you during your training as a Padawan, I could tell that you were different. And it wasn't just your strong connection to the Force.
 
-— Master Kavar to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Master Kavar to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 31. HK-47 tells the Exile he has seen the records of her battles as a general in the Mandalorian Wars and that hers was a name the Mandalorians feared.
 
 ```
-You were a General in the Mandalorian Wars, Master. I have seen the records of your battles, and I know that your name was one the Mandalorians feared.
+You were a General in the Mandalorian Wars, master. I have seen the records of your battles, and I know that your name was one the Mandalorians feared.
 
-— HK-47 to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— HK-47 to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 32. Kreia tells the Exile: "The Mandalorians were right to respect you on the field of battle."
@@ -373,7 +374,7 @@ You were a General in the Mandalorian Wars, Master. I have seen the records of y
 ```
 The Mandalorians were right to respect you on the field of battle.
 
-— Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 33. Atris warns the Exile that Kreia seeks to create a wound in the Force "greater than the one you caused," and that the Exile was strong enough to withstand the first one.
@@ -381,7 +382,7 @@ The Mandalorians were right to respect you on the field of battle.
 ```
 Now she seeks to create another echo, a wound in the Force, greater than the one before - greater than the one you caused. It will deafen all touched by the Force, until no life is left. You were strong enough to withstand it once - but few have your strength in such matters, especially if they are unprepared.
 
-— Atris to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Atris to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 34. Darth Traya tells the Exile she has used her "so that you might become strong, stronger than I."
@@ -389,7 +390,7 @@ Now she seeks to create another echo, a wound in the Force, greater than the one
 ```
 From the moment you awoke, I have used you. I have used you so that you might become strong, stronger than I.
 
-— Darth Traya to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Darth Traya to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 35. Revan says of the Exile: "It was she who gave me the strength to resist all this time."
@@ -421,7 +422,7 @@ Revan and the Exile were much like you. They truly believed that they could dest
 ```
 No, you simply did not learn the lesson I sought to teach - that your strength is as meaningless as the strength of my hand.
 
-— Darth Traya to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Darth Traya to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 39. Mandalore the Preserver (Canderous Ordo) tells the Exile that he thought Revan was a singular Jedi, "but now there's you... even our greatest warriors are no match for you."
@@ -429,7 +430,7 @@ No, you simply did not learn the lesson I sought to teach - that your strength i
 ```
 I thought that Revan was a singular Jedi, but now there's you. With all our martial training, battles and ethics, even our greatest warriors are no match for you.
 
-— Mandalore the Preserver to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Mandalore the Preserver to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 40. Kreia tells the Exile: "There is nothing more for me to teach you. You know as much of battle as I."
@@ -440,15 +441,15 @@ There is nothing more for me to teach you. You know as much of battle as I.
 — Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 41. Moza tells Chodo Habat that he could feel the Exile's suffering fill his senses "a planet's worth of pain," and wonders how she endures.
+### 41. The Ithorian Moza tells Chodo Habat that she could feel the Exile's suffering fill her senses; Chodo has felt such intensity only once before, on Telos, and Moza calls it "a planet's worth of pain".
 
 ```
-Forgive me, Chodo, but the human - I could feel her suffering. I did not feel it until she stood before us, but then it filled my senses. Have you ever felt such an intensity before?"
-"Only once before. The day I came to Telos and strode upon its ashen surface. It is a planet's worth of pain."
-"I do not know how she endures."
-"It is because she has no choice. Perhaps in helping to heal a planet, it will help her become whole again.
+"Forgive me, Chodo, but the human - I could feel her suffering. I did not feel it until she stood before us, but then it filled my senses. Have you ever felt such an intensity before?" (Moza)
+"Only once before. The day I came to Telos and strode upon its ashen surface." (Chodo Habat)
+"It is a planet's worth of pain. I do not know how she endures." (Moza)
+"It is because she has no choice. Perhaps in helping to heal a planet, it will help her become whole again." (Chodo Habat)
 
-— Moza and Chodo Habat, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Moza and Chodo Habat, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 42. Visas Marr tells the Handmaiden she wishes to learn how the Exile still walks "when his spirit is nothing more than a shell" (the transcript on file gives the male-Exile wording).
@@ -456,7 +457,7 @@ Forgive me, Chodo, but the human - I could feel her suffering. I did not feel it
 ```
 I wish to learn how it is he still walks when his spirit is nothing more than a shell... when you feel as though the Force, as if life itself, has abandoned you.
 
-— Visas Marr to the Handmaiden, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Visas Marr to the Handmaiden, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 43. Kreia tells the Exile "You have grown strong in the Force - I can feel its touch upon you," and that being hounded since they met "has only made you stronger."
@@ -469,7 +470,7 @@ You have grown strong in the Force - I can feel its touch upon you. Do not let t
 "Ah, then you have learned nothing. From such small things, from such critical points, the universe and its masses may be moved... that is why you must be careful in all that you do, and in every choice you make. Aiding them gives you strength by taking on their challenges but weakens them. If that is your choice, then use their dependency, feed upon it, until you have exhausted them, then leave them. And I would view the ones you travel with much the same way."
 "They are loyal companions - and I will not harm them.
 
-— Kreia and the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Kreia and the Exile, in conversation, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 44. Darth Sion tells the Exile: "You are strong... in time, you shall surpass her power."
@@ -477,7 +478,7 @@ You have grown strong in the Force - I can feel its touch upon you. Do not let t
 ```
 You are strong... I cannot see as she does, but I know, that in time, you shall surpass her power.
 
-— Darth Sion to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Darth Sion to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 45. The Jedi Knight tells Lord Scourge that Revan, the Exile and he were all Jedi-trained and "all resisted the Emperor. What Sith have done so?"
@@ -564,7 +565,7 @@ She was our last chance, and now she is dead. Now they have won.
 ```
 He's right. It's... all the death you've caused to get here. You feed on it, and you grow stronger. You're like Malachor... it's in you, it's what you are now. You must have noticed as you've fought across all these planets, killing hundreds - only to become more and more powerful. Why do you think that was?
 
-— Master Zez-Kai Ell to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Master Zez-Kai Ell to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004)
 ```
 
 ### 55. STUNNED BY NIHILUS: The Complete Star Wars Encyclopedia says Darth Nihilus managed to stun the Exile before Visas Marr offered her life for hers.
