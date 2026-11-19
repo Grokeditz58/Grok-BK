@@ -357,7 +357,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-nox.md](darth-nox.md) | Darth Nox (Sith Inquisitor) | TOR | DEEP | 111 | 110 | 1 | 12 | Darth Nox (Sith Inquisitor), Nox, Sith Inquisitor (SWTOR) | 111 | 60 | 1 | 40 |
 | [darth-nyriss.md](darth-nyriss.md) | Darth Nyriss | TOR / pre-TOR | DEEP | 532 | 532 | 0 | 424 | Darth Nyriss, Nyriss | 524 | 448 | 10 | 155 |
 | [darth-phobos.md](darth-phobos.md) | Darth Phobos | Dark Times | untiered | 21 | 21 | 0 | 0 | Darth Phobos, Phobos | 21 | 6 | 0 | 9 |
-| [darth-plagueis.md](darth-plagueis.md) | Darth Plagueis | Pre-Prequel | DEEP | 1860 | 1853 | 7 | 516 | Darth Plagueis, Plagueis, Hego Damask, Damask | 54 | 55 | n/a | n/a |
+| [darth-plagueis.md](darth-plagueis.md) | Darth Plagueis | Pre-Prequel | DEEP | 1860 | 1853 | 7 | 516 | Darth Plagueis, Plagueis, Hego Damask, Damask | 60 | 61 | n/a | n/a |
 | [darth-ramage.md](darth-ramage.md) | Darth Ramage | Old Republic | untiered | 20 | 20 | 0 | 8 | Darth Ramage, Ramage | 20 | 20 | 0 | 13 |
 | [darth-rauder.md](darth-rauder.md) | Darth Rauder (NEW 2026-11-03) | Legacy (137 ABY) | untiered | 14 | 14 | 0 | 0 | Darth Rauder, Rauder | 14 | 9 | 0 | 6 |
 | [darth-ravage.md](darth-ravage.md) | Darth Ravage | TOR | untiered | 1 | 1 | 0 | 0 | Darth Ravage, Ravage | 1 | 1 | 0 | 1 |
@@ -1611,7 +1611,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [General Grievous](general-grievous/README.md): 2190
 - [Exar Kun](exar-kun.md): 103
 - [Leia Organa Solo](leia-organa/README.md): 1975
-- [Darth Plagueis](darth-plagueis.md): 54
+- [Darth Plagueis](darth-plagueis.md): 60
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1838
 - [Cade Skywalker](cade-skywalker/README.md): 1755
 - [Mace Windu](mace-windu.md): 144
@@ -1642,7 +1642,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
 - [General Grievous](general-grievous/README.md): 2198
 - [Exar Kun](exar-kun.md): 103
-- [Darth Plagueis](darth-plagueis.md): 54
+- [Darth Plagueis](darth-plagueis.md): 60
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1849
 - [Cade Skywalker](cade-skywalker/README.md): 1766
 - [Mace Windu](mace-windu.md): 144
