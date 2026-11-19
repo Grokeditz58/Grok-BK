@@ -10,7 +10,7 @@ Evidence file for Revan, the Jedi hero and Dark Lord of the Sith of the Old Repu
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 132 entries and 234 quotes.
+- This file has 141 entries and 244 quotes.
 
 
 ## Contents
@@ -20,8 +20,8 @@ Evidence file for Revan, the Jedi hero and Dark Lord of the Sith of the Old Repu
 - [Combat and Duels](#combat-and-duels) (13)
 - [Leadership and Strategy](#leadership-and-strategy) (7)
 - [Other Feats](#other-feats) (33)
-- [Accolades and Author Statements](#accolades-and-author-statements) (11)
-- [Limitations](#limitations) (5)
+- [Accolades and Author Statements](#accolades-and-author-statements) (10)
+- [Limitations](#limitations) (15)
 
 ## Power and Reputation
 
@@ -641,6 +641,12 @@ It is the way of the Echani to be able to read their opponents - to know where a
 Yet with Revan, there was the same commitment, but it was a subtle thing, like weaving threads in a tapestry, or strokes upon a canvas. He spoke through battle and tactics in a way one could never do in words. He showed his heart at Malachor V, and finally at the end of the Jedi Civil War. I believe he was speaking to Malak in that final battle, though few knew it.
 
 — Brianna, Star Wars Knights of the Old Republic 2 - The Sith Lords †
+```
+
+```
+The Echani rely heavily on hand-to-hand combat and personal shield technology, and they had their asses handed to them by Revan during the Jedi Civil War, because, not surprisingly, there weren't many people able to face Revan across a battlefield and survive the encounter. The greatest among the Echani are said to be able to read their opponent's moves so well they can predict the path of a battle several seconds, sometimes even minutes in advance, by gauging their opponent's fighting style, heart rate, and their movements in combat. In many ways, the Echani see combat as a rapid dejarik game, calculating feints, attacks, and dodges with a speed that few can surpass.
+
+— Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
 ### 44. Revan meticulously mastered everything Kreia, Zhar Lestin, Dorak, and other Jedi Masters knew, learning faster than they could teach. At the end of his apprenticeship, Kreia mused he learned everything he possibly could from the Jedi, signifying mastery of the Force forms (i.e. Force affinity, Force mastery, and Force potency), sever Force, and everything within at least the Dantooine and Coruscant academies.
@@ -1617,15 +1623,7 @@ In one battle above the world of Althir, my unit managed to defeat a force of Al
 — Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
-### 118. Revan slaughtered armies of Echani, renowned for their speed and battle precognition.
-
-```
-The Echani rely heavily on hand-to-hand combat and personal shield technology, and they had their asses handed to them by Revan during the Jedi Civil War, because, not surprisingly, there weren't many people able to face Revan across a battlefield and survive the encounter. The greatest among the Echani are said to be able to read their opponent's moves so well they can predict the path of a battle several seconds, sometimes even minutes in advance, by gauging their opponent's fighting style, heart rate, and their movements in combat. In many ways, the Echani see combat as a rapid dejarik game, calculating feints, attacks, and dodges with a speed that few can surpass.
-
-— Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
-```
-
-### 119. Revan easily defeated Yusanis, the greatest Echani who could fight minutes in advance.
+### 118. Revan easily defeated Yusanis, the greatest Echani who could fight minutes in advance.
 
 ```
 The greatest among the Echani are said to be able to read their opponent's moves so well they can predict the path of a battle several seconds, sometimes even minutes in advance, by gauging their opponent's fighting style, heart rate, and their movements in combat.
@@ -1633,7 +1631,7 @@ The greatest among the Echani are said to be able to read their opponent's moves
 — Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
-### 120. Revan could overcome a sever Force attack by the Jedi Exile, according to Chris Avellone.
+### 119. Revan could overcome a sever Force attack by the Jedi Exile, according to Chris Avellone.
 
 ```
 So my opinion is that Revan could kick the Exile’s ass unless the Exile pulled some strange Force deafening move, but even that wouldn’t keep Revan down for long.
@@ -1641,7 +1639,7 @@ So my opinion is that Revan could kick the Exile’s ass unless the Exile pulled
 — Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
-### 121. Revan was the greatest practitioner of battle precognition, an instinctual and tactical ability that predicted attacks before they happened. The greatest of the Echani, which Revan surpassed and killed, could predict attacks minutes beforehand, the course of battles by months, and the path of wars.
+### 120. Revan was the greatest practitioner of battle precognition, an instinctual and tactical ability that predicted attacks before they happened. The greatest of the Echani, which Revan surpassed and killed, could predict attacks minutes beforehand, the course of battles by months, and the path of wars.
 
 ```
 I always felt Revan was an incredible tactician, and the Echani were awed by his precog[nition] and natural skill with tactics.
@@ -1649,7 +1647,7 @@ I always felt Revan was an incredible tactician, and the Echani were awed by his
 — Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
-### 122. Revan was one of the most powerful Force users in history.
+### 121. Revan was one of the most powerful Force users in history.
 
 ```
 Revan was one of the strongest Force-wielders ever.
@@ -1663,7 +1661,7 @@ The Bane trilogy focused on Darth Bane, one of the most powerful Sith Lords who 
 — Drew Karpyshyn, author of Star Wars The Old Republic - Revan †
 ```
 
-### 123. Revan obtained the holocron of Tulak Hord, the greatest duelist of the ancient Sith Lords that defeated armies of Jedi, which contained knowledge of his secret and unique lightsaber technique.
+### 122. Revan obtained the holocron of Tulak Hord, the greatest duelist of the ancient Sith Lords that defeated armies of Jedi, which contained knowledge of his secret and unique lightsaber technique.
 
 ```
 Kreia is setting the stage for what we imagined KOTOR3 to be, and as we had a sense for the power that we wanted those Sith Lords to reveal, her predictions are accurate. And yes, she had a number of Sith holocrons that she had read (the ones on Telos).
@@ -1671,7 +1669,7 @@ Kreia is setting the stage for what we imagined KOTOR3 to be, and as we had a se
 — Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
-### 124. Revan was an incredible lightsaber duelist and primarily used a unique form of Niman, drawing on traits of all the seven forms. This adaptable style allowed him to best maximize his powers in battle.
+### 123. Revan was an incredible lightsaber duelist and primarily used a unique form of Niman, drawing on traits of all the seven forms. This adaptable style allowed him to best maximize his powers in battle.
 
 ```
 Revan's a master tactician, and he's kind of a genius, and an incredible lightsaber wielder.
@@ -1685,7 +1683,7 @@ I've always seen Revan as more of a generalist, drawing on bits of everything (t
 — Drew Karpyshyn, author of Star Wars The Old Republic - Revan †
 ```
 
-### 125. Revan could defeat Darth Traya, who telekinetically dominated and drained three Jedi Council members, and Meetra Surik, who killed Darth Sion and Darth Traya on the dark side nexus of Malachor V, simultaneously. Revan could also defeat Meetra Surik, despite Atris, "a master of lightsaber combat," being "no match for the Jedi Exile's lightsaber prowess," in pure lightsaber combat.
+### 124. Revan could defeat Darth Traya, who telekinetically dominated and drained three Jedi Council members, and Meetra Surik, who killed Darth Sion and Darth Traya on the dark side nexus of Malachor V, simultaneously. Revan could also defeat Meetra Surik, despite Atris, "a master of lightsaber combat," being "no match for the Jedi Exile's lightsaber prowess," in pure lightsaber combat.
 
 ```
 If the Exile could defeat Kreia, Revan would have an easier time of it. ;) United with the Exile, Kreia and the Exile vs. Revan? My money’s still on Revan, since in my mind, Revan was a master strategist as well as an extremely powerful Force wielder.
@@ -1706,7 +1704,7 @@ Who is the superior lightsaber combatant: Revan or the Jedi Exile?"
 — Interviewer and Chris Avellone, lead writer of Star Wars Knights of the Old Republic 2 - The Sith Lords †
 ```
 
-### 126. After the battle, the Emperor established the Voice to guard against further vulnerability after Revan approached within striking distance of him and imprisoned Revan because he posed a legitimate threat.
+### 125. After the battle, the Emperor established the Voice to guard against further vulnerability after Revan approached within striking distance of him and imprisoned Revan because he posed a legitimate threat.
 
 ```
 For this, we just have to look at the last person who ever stood up to Vitiate at anywhere near the level that the player's character did on Ziost: Revan. When Revan took a crack at him, Vitiate locked him up for centuries, picking and prodding at his mind the entire time. So we know that Tenebrae/Vitiate/Valkorion doesn't destroy people who are a legitimate threat to him; he's fascinated by them. (He did it to Vaylin, too! And Dramath!)
@@ -1714,7 +1712,7 @@ For this, we just have to look at the last person who ever stood up to Vitiate a
 — Charles Boyd, lead writer of Star Wars The Old Republic †
 ```
 
-### 127. Revan discovered how to balance both sides of the Force and called upon light side and dark side energies simultaneously. Revan applied Balance of the Force to release the Force "in its purest form" and amplify the potency of his powers (see also: II/Telekinesis/R/3, III/Altus_sopor/F/1, III/Telekinesis/FT/2).
+### 126. Revan discovered how to balance both sides of the Force and called upon light side and dark side energies simultaneously. Revan applied Balance of the Force to release the Force "in its purest form" and amplify the potency of his powers (see also: II/Telekinesis/R/3, III/Altus_sopor/F/1, III/Telekinesis/FT/2).
 
 ```
 Revan is a powerful Force user who draws on both the light and dark side of the Force . . . I always felt that Revan was special because he learned to balance and call on both the light and dark sides of the Force.
@@ -1727,7 +1725,7 @@ Revan is a powerful Force user who draws on both the light and dark side of the 
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 128. LIMIT: Revan amplified the fear of a Sith soldier while weakened by Force-suppressant drugs.
+### 127. LIMIT: Revan amplified the fear of a Sith soldier while weakened by Force-suppressant drugs.
 
 ```
 Through the veil of drugs, he strained to reach out with the Force, amplifying the other’s fear and confusion.
@@ -1736,7 +1734,7 @@ Through the veil of drugs, he strained to reach out with the Force, amplifying t
 — Revan (Drew Karpyshyn, 2011), ch. 20
 ```
 
-### 129. LIMIT: Revan held his own against an Imperial strike team of the Empire's greatest champions until he was killed. The circumstances of the defeat can largely be attributed to suffering three centuries of torture and being drained by Emperor Vitiate and the Dread Masters yet only having days to recover, and that Revan's mind had begun to splinter into two separate, rival entities, interfering with his capacity to fight since both personalities had different intentions within his body. Despite this weakened state, Revan became far more powerful than any of his opponents or any Jedi before him by channeling both sides of the Force in battle.
+### 128. LIMIT: Revan held his own against an Imperial strike team of the Empire's greatest champions until he was killed. The circumstances of the defeat can largely be attributed to suffering three centuries of torture and being drained by Emperor Vitiate and the Dread Masters yet only having days to recover, and that Revan's mind had begun to splinter into two separate, rival entities, interfering with his capacity to fight since both personalities had different intentions within his body. Despite this weakened state, Revan became far more powerful than any of his opponents or any Jedi before him by channeling both sides of the Force in battle.
 
 ```
 To take the station, the Empire sends a small group of its most powerful champions to the asteroid surface to storm the base.
@@ -1750,7 +1748,7 @@ You must not underestimate the Republic defenses, or the Foundry's Jedi Master. 
 — Darth Malgus, Star Wars The Old Republic †
 ```
 
-### 130. LIMIT: Revan held his own against a "large strike team of elite heroes," led by the Outlander, until he was defeated, fighting across three levels of terrain and later noting they barely managed to defeat him. The circumstances of the defeat can partially be attributed to the aid of Revan's spirit, who resurrected those Revan killed in battle and raised the strike team to higher levels of the temple as Revan advanced upward.
+### 129. LIMIT: Revan held his own against a "large strike team of elite heroes," led by the Outlander, until he was defeated, fighting across three levels of terrain and later noting they barely managed to defeat him. The circumstances of the defeat can partially be attributed to the aid of Revan's spirit, who resurrected those Revan killed in battle and raised the strike team to higher levels of the temple as Revan advanced upward.
 
 ```
 Revan['s Spirit] wants me to succeed, but claims I can't do it on my own.
@@ -1776,7 +1774,7 @@ If you may not know, in Shadow of Revan, we launched what is definitely the most
 — Eric Musco, community manager of Star Wars The Old Republic †
 ```
 
-### 131. LIMIT: Revan was killed in the Foundry, exasperating the split between his two selves. His darker half refused to become a spirit, separated himself from his light half, and resurrected his corpse from the dead.
+### 130. LIMIT: Revan was killed in the Foundry, exasperating the split between his two selves. His darker half refused to become a spirit, separated himself from his light half, and resurrected his corpse from the dead.
 
 ```
 You hid behind Jedi platitudes! You weren't strong enough to survive the torture, or the battle in the Foundry. I faced them! I survived them!"
@@ -1808,7 +1806,7 @@ When the Emperor's followers struck me down, I learned to release my attachments
 — Spirit and the Outlander, Star Wars The Old Republic †
 ```
 
-### 132. LIMIT: Revan attempted to channel the energies of The Machine to destroy all enemies, including the strike team and the coalition armies, within a one-kilometer radius. However, Revan lost control of the power when ambushed by a strike team, and the energies overloaded and backlashed inside of him. Instead of instantly disintegrating, Revan internally tanked the attack, declared, “No! I won’t be denied! I will never give in!” and continued fighting.
+### 131. LIMIT: Revan attempted to channel the energies of The Machine to destroy all enemies, including the strike team and the coalition armies, within a one-kilometer radius. However, Revan lost control of the power when ambushed by a strike team, and the energies overloaded and backlashed inside of him. Instead of instantly disintegrating, Revan internally tanked the attack, declared, “No! I won’t be denied! I will never give in!” and continued fighting.
 
 ```
 Through masterful control of the Force, Revan has created a Force resonance with The Machine's core, and is channeling its power into an immense attack. Upon successful completion, [Revan] deals massive damage to enemies within 1km. Dealing sufficient damage will break this channel.
@@ -1820,4 +1818,94 @@ Through masterful control of the Force, Revan has created a Force resonance with
 [Revan has] suffered a powerful backlash while channeling an immense amount of Force energy.
 
 — Star Wars The Old Republic - Shadow of Revan †
+```
+
+### 132. LIMIT: NIGHTMARES AND LOST MEMORIES: Revan is haunted by a recurring storm in his dreams that he cannot interpret, and suspects that something happened to him and Malak beyond the Outer Rim that he cannot remember.
+
+```
+A sense of calm settled over him, washing away the irrational terror of his dream. Yet he knew better than to merely dismiss it. The storm that haunted him each time he closed his eyes was more than just a nightmare. Conjured up from the deepest corners of his mind, the storm had meaning. But try as he might, Revan couldn’t figure out what his subconscious was trying to tell him.
+Something had happened to him and Malak beyond the Outer Rim. They had gone to defeat the Mandalorians, but they had returned as disciples of the dark side. The official story was that they had been corrupted by the ancient power of the Star Forge, but Revan suspected there was more to it. And he knew it had something to do with his nightmares.
+
+— Revan (Drew Karpyshyn, 2011), prologue
+```
+
+### 133. LIMIT: CLIPS THE ICE: Even "the lightning-fast reactions of a Jedi" cannot entirely overcome the Ebon Hawk's momentum, and Revan clips an outcropping of ice.
+
+```
+Revan banked hard to avoid plowing into the wall of ice, but even the lightning-fast reactions of a Jedi couldn’t entirely overcome the Hawk’s momentum. The ship was spared a direct hit, but its underside clipped a sharp outcropping of ice.
+
+— Revan (Drew Karpyshyn, 2011), ch. 9
+```
+
+### 134. LIMIT: EXHAUSTED ON THE CLIMB: On the climb, exhaustion and the thin air slow Revan's group; his pack seems to double in weight and he has to ignore the pain.
+
+```
+They were well over halfway to their goal, but exhaustion and fatigue were beginning to impede their progress. As the altitude increased, the air became thinner, leaving all the climbers panting and gasping. The pack strapped to Revan’s back seemed to have doubled in weight, and he could feel the straps digging into his shoulders even through his clothes. But there was little to do except ignore the pain and concentrate on the climb.
+
+— Revan (Drew Karpyshyn, 2011), ch. 13
+```
+
+### 135. LIMIT: DRUGGED AND CAPTURED: After the crash on Nathema, Revan wakes up drugged, unable to focus enough to use the Force, fails to recall Nyriss's name, and is slapped by Scourge.
+
+```
+His mind felt slow and dull, and he knew he’d been drugged. It was difficult to concentrate; impossible to focus his thoughts enough to use the Force. It took all his willpower just to recall the last moments of the Ebon Hawk crashing on Nathema.
+He struggled to take stock of his situation, but he couldn’t pierce the haze of the drugs.
+He stared at her withered, wrinkled face, trying and failing to dredge up her name. “Do I know you?”
+Revan tasted blood; the smack had cut the inside of his mouth. He could feel the sting of the wound and the swelling of his lip. Apparently the drugs used to dull his mind had been carefully selected so they would not interfere with the sensation of physical pain.
+
+— Revan (Drew Karpyshyn, 2011), ch. 16
+```
+
+### 136. LIMIT: YEARS IN A CELL: Revan does not leave his cell for even a moment after his capture; he is interrogated in the early months and, three years on, still wears the robes he was captured in.
+
+```
+The prisoner had not left his cell for even a single moment since his capture. There was a refresher in the corner, a small sink and a bed against one wall. In the beginning they had brought in a chair to strap him to for his interrogation sessions, but after the first few months Scourge convinced Nyriss that torturing Revan was an unproductive waste of both time and resources.
+Scourge unlocked the door to Revan’s cell. The Jedi was still wearing the same brown robes he had been captured in; the clothes—like the prisoner himself—had not been properly cleaned in three years. Scourge winced at the stale, pungent scent wafting off the human, but it was a small price to pay, considering how much he had already gained from their regular visits.
+
+— Revan (Drew Karpyshyn, 2011), ch. 19
+```
+
+### 137. LIMIT: HELPLESS BEFORE THE EMPEROR: After the Emperor's lightning, Revan is "almost too weak to move", watches the Emperor destroy T3-M4, and can only stare up "helpless" as the Emperor raises his own lightsaber to kill him.
+
+```
+Almost too weak to move, Revan managed to raise his head just in time to see the Emperor turn on the brave little astromech. A tremor rippled through the air as the Emperor unleashed the full power of the Force against the defenseless droid.
+The healing properties of the Force were powerful, but Revan’s wounds were severe and he needed more time to restore his strength. Helpless, he could only stare up at the Emperor as he raised the lightsaber to deliver the killing blow.
+What he saw was not good. Revan was being electrocuted, his body spasming uncontrollably as the Emperor blasted him with dark purple lightning.
+
+— Revan (Drew Karpyshyn, 2011), ch. 28
+```
+
+### 138. LIMIT: STRUCK DOWN AFTER MEETRA'S DEATH: When Scourge kills Meetra, the distraction lets the Emperor blast Revan with lightning; he collapses unconscious, his face badly burned with the outline of his mask.
+
+```
+Meetra gasped and toppled forward, dead before she hit the floor. Revan’s head snapped to the side, shock and horror emanating from him even though his mask hid his expression. The distraction gave the Emperor the opportunity he needed, and he unleashed another blast of lightning into the Jedi’s chest.
+Scourge could smell burning flesh as Revan screamed once then collapsed to the ground, unconscious.
+Scourge nodded, and rose to his feet. He walked over to Revan, bent down, and ripped off his helmet. The Jedi’s face was badly burned, the outline of his mask indelibly seared into his cheeks and forehead. He was still unconscious, his body in shock from his wounds; without medical attention he would die soon anyway.
+
+— Revan (Drew Karpyshyn, 2011), ch. 28
+```
+
+### 139. LIMIT: THE EMPEROR'S PRISONER: Revan is held in a secret facility, bound by Sith sorcery so that Meetra's spirit cannot speak with him; she doubts that he is even aware of her.
+
+```
+Revan was still alive, too, but he was as good as dead to Scourge. The Emperor was holding him prisoner in a secret facility, and Scourge knew he could never risk trying to find its location. He couldn’t do anything that might suggest an ongoing connection between him and Revan. Doing so would expose the truth to the Emperor, making his sacrifice of the Jedi pointless.
+She couldn’t speak with him; whatever arcane Sith sorcery the Emperor had used to bind Revan in his cell made that impossible. She doubted Revan was even aware she was there. Yet even though she couldn’t communicate with him, she was able to offer aid and support, her power trickling through the energy barrier that surrounded him, a lifeline he could cling to in the dark ocean of his imprisonment.
+
+— Revan (Drew Karpyshyn, 2011), ch. 29
+```
+
+### 140. LIMIT: CAPTURED BY BASTILA'S STRIKE TEAM: The KOTOR Campaign Guide says that a Jedi strike team led by Bastila Shan boards Darth Revan's flagship, captures him and brings him back to the Republic.
+
+```
+A Jedi strike team, led by legendary Jedi Knight Bastila Shan, lands on Darth Revan's flagship, captures him, and brings him back to the Republic.
+
+— Star Wars Roleplaying Game Saga Edition: Knights of the Old Republic Campaign Guide (Wizards of the Coast, 2008), scan p. 131 †
+```
+
+### 141. LIMIT: MEMORY WIPED BY THE COUNCIL: The Complete Star Wars Encyclopedia says that the Jedi wipe out Revan's knowledge of his past and replace it with a new identity.
+
+```
+Using their skills, the Jedi wiped out Revan's knowledge of his past and replaced it with a new identity.
+
+— The Complete Star Wars Encyclopedia, Vol. II (Del Rey, 2008), p. 251 †
 ```
