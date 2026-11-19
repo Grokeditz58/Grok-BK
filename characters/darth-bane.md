@@ -10,7 +10,7 @@ Evidence file for Darth Bane, the Dark Lord who created the Rule of Two, **Star 
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 206 entries and 207 quotes.
+- This file has 219 entries and 234 quotes.
 
 
 ## Contents
@@ -24,7 +24,7 @@ Evidence file for Darth Bane, the Dark Lord who created the Rule of Two, **Star 
 - [Strength, Speed, Durability and Stamina](#strength-speed-durability-and-stamina) (44)
 - [Combat Skill](#combat-skill) (26)
 - [Other Feats](#other-feats) (14)
-- [Limitations](#limitations) (6)
+- [Limitations](#limitations) (19)
 
 ## Force Power and Growth
 
@@ -1935,4 +1935,211 @@ She had seen Bane knock the woman to the ground and slap her weapon away, only t
 When she looked back Bane was gone, his body reduced to a pile of ash. The blond woman still lay on the ground, dazed but alive. The deadly tendrils were nowhere to be seen.
 
 — Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 27
+```
+
+### 207. LIMIT: OUTCLASSED BY SIRAK: in his first ring duel against Sirak, Bane is outmatched by the Zabrak's blended double-bladed forms; his last desperate Force push is brushed aside by Sirak's Force shield, and he is beaten until barely conscious and hurled across the ring.
+
+```
+Bane watched the extravagant flourish with a sinking feeling. Sirak had been toying with him in the first few passes, dragging the fight out so his victory would seem more impressive. Now he was showing his true skill, using sequences that blended several forms at once, switching rapidly among different styles in complex patterns Bane had never seen before.
+Bane’s skull exploded as Sirak’s forehead slammed into his face. Pain turned his vision into a field of silver stars. The cartilage of his nose gave way with a sickening crunch, a geyser of blood gushing forth. Blind and dazed, he was able to parry the next strike only by instinct guided by the faintest whisper of the Force. But Sirak spun as his saber was turned away and delivered a back roundhouse kick that shattered Bane’s kneecap.
+Screaming, Bane collapsed, his free hand slamming into the ground as he braced his fall. Sirak crushed the fingers under his boot, grinding them into the unyielding stone of the temple roof. A knee came up, fracturing his cheek and jawbone with a thunderous crack.
+With a last, desperate burst Bane tried to hurl his opponent backward with the dark side. Sirak brushed the impact aside, easily deflecting it with the Force-shield he had wrapped himself in at the start of the duel. Then he moved in close to finish the job with his blades. The first blow hit with the impact of a landspeeder slamming into an irax, breaking Bane’s right wrist. The training saber dropped from his suddenly nerveless grasp. The next strike took him higher up on the same arm, dislocating his elbow.
+A simple kick to the face sent jagged bits of tooth shooting out of his mouth and bolts of pain shooting through his broken jaw. He slumped forward, barely conscious, as Sirak stepped back and lowered his saber, reaching out with a free hand to grab Bane around the throat with the crushing grip of the Force. He raised his arm, lifting the muscular Bane as if he were a child, then hurled him across the ring.
+
+— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), ch. 13
+```
+
+### 208. LIMIT: THREE WEEKS IN BACTA: the beating from Sirak takes three weeks of bacta-tank sessions to heal, far longer than a normal dueling-ring loss.
+
+```
+The exultant mood at the Academy had little effect on Bane, however. It had taken three weeks of regular sessions in the bacta tank before he’d fully recovered from the horrific beating Sirak had given him. Most of the time a loss in the dueling ring required only a day or two in the tanks before the student was ready to resume training. Of course, most of the students didn’t lose as badly as Bane had.
+
+— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), ch. 14
+```
+
+### 209. LIMIT: CRISIS OF POWER: after the loss to Sirak, Bane tells Githany that his ability to control the Force is gone.
+
+```
+Bane shook his head. “The power may be there, but my ability to control it is gone. I’m not what I used to be.”
+
+— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), ch. 14
+```
+
+### 210. LIMIT: CANNOT GET PAST GITHANY OR KAS'IM: Bane cannot break through Githany's double-bladed defenses in practice, and while sparring with Kas'im he has to fight desperately just to hold his ground.
+
+```
+Bane couldn’t help smiling, but then his brow furrowed in consternation. “I still couldn’t get past your defenses,” he said, trying to re-create the battle in his mind. No matter what he had tried to do, it seemed one side of the Twi’lek’s twin-bladed weapon was always there to parry his attack. A seed of doubt crept into his mind as he recalled that Sirak used a similar style of weapon. “Does the double-bladed lightsaber give you an advantage?” he asked.
+
+— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), ch. 15
+```
+
+```
+Even as he desperately fought to hold his ground, Bane was studying Kas’im carefully. He was acutely aware of every feint and strike, analyzing and memorizing each block, parry, and counterstrike. The Blademaster had said his time would be better spent focusing on improving his own technique, but Bane was determined to negate Sirak’s advantage by absorbing all he could from the Twi’lek’s double-bladed fighting style.
+
+— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), ch. 16
+```
+
+### 211. LIMIT: NEARLY CAUGHT OFF GUARD: in the archive fight, Bane is almost too distracted to see Sirak's lightning, and catching it on his blade leaves him open to Llokay.
+
+```
+Staggering back, Bane was almost too distracted to see Sirak unleashing a bolt of crackling blue lightning at him. At the last second he twisted and caught the potentially lethal blast with the blade of his lightsaber, absorbing its energy. The move had been one of instinct and last resort, and it had left him vulnerable to a single quick thrust from Llokay. But Githany’s whip was snapping and cracking at Llokay’s eyes and face, and his blade was busy frantically warding off the blows.
+
+— Darth Bane: Path of Destruction (Drew Karpyshyn, 2006), ch. 20
+```
+
+### 212. LIMIT: THOUGHT BOMB AFTEREFFECTS: after Ruusan, Bane suffers crippling headaches and sees visions of Kaan, which the narration calls a visible sign of the damage the thought bomb did to his mind.
+
+```
+Bane wasn’t paying attention to her; the last ten minutes he’d had trouble focusing on anything but the pain carving up his skull. He’d hoped delving into the depths of the shimmering orb left behind by the thought bomb might somehow relieve the headaches, but if anything they’d gotten worse since their visit to the cave.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 5
+```
+
+```
+Within hours of leaving Ruusan—and Zannah—behind, he had been cursed with the return of the almost unbearable headaches. And with them had come an unwanted and most unwelcome companion. The spectral shade of Lord Kaan loomed over him in the cockpit for the entire first day of the trip, a visible manifestation of the damage Bane’s mind had suffered from the thought bomb. The spirit never spoke, merely watched him with its accusatory gaze, a constant presence on the edges of Bane’s awareness.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 7
+```
+
+### 213. LIMIT: ORBALISK DRAWBACKS: Bane cannot cut the orbalisks off; they cause constant pain, will kill him with toxins if they die, and keep spreading. His endurance has limits, and later he suspects they are weakening him.
+
+```
+In the moments after his escape from the orbalisk chamber, he’d tried prying the one on his chest loose with the hunting knife from his boot, to no avail. Failing that, he had tried to dig it out by carving away the surrounding flesh. He’d drawn the knife across his chest in a long, straight line, feeling the agony of the blade slicing deep enough to cut through skin and muscle. And then he’d watched in amazement as the wound healed itself almost instantly, the creature having somehow caused his tissue to regenerate.
+However, Nadd’s research also warned of several dangerous side effects of infestation that went beyond the constant physical pain. Should one of the organisms somehow be killed, it would release rapidly increasing levels of toxins, killing its host in a matter of days. The orbalisks would also grow over time, slowly spreading until they covered his entire body from head to toe. Fortunately, along with this disturbing revelation, Bane discovered blueprints for a special helmet and face guard designed to keep the parasites from growing over his eyes, nose, and mouth while he slept.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 8
+```
+
+```
+Because of the orbalisks that encased his body, he was used to living in constant pain. It was always there, a dull throbbing just above the level of subconscious awareness. Normally he could shut it out, bearing the torments of his infestation with no visible effects. However, if he wasn’t careful—if he pushed himself too far—the physical demands could overwhelm him. The tremor had been a warning, the first sign that he was reaching the edges of his endurance.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 10
+```
+
+```
+He had always believed the drawbacks of the orbalisks—the constant pain, the disfiguring appearance—to be offset by the benefits they provided. They healed him, made him physically stronger, and protected him against all manner of weapons. Now he began to question that belief. While it was true that he could channel his power through the creatures for a temporary increase in his abilities, over the long term they might actually be weakening him. They were constantly feeding on the dark side energies that flowed through his veins. Was it possible that, after a decade of infestation, his ability to draw upon the Force had been subtly diminished?
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 15
+```
+
+### 214. LIMIT: FAILED HOLOCRON ATTEMPT: a surge of orbalisk pain breaks Bane's concentration, and the Holocron he is making explodes.
+
+```
+A ribbon of electric blades raveled itself around the muscles and nerves of his spine, causing him to arch backward as he screamed in agony. The pain momentarily broke his concentration, and an uncontrollable surge of dark side energy shot through him and into the Holocron. An instant later it exploded, spraying Bane with a shower of crystal fragments and dust.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 10
+```
+
+### 215. LIMIT: POISONED AND HELPLESS AFTER AMBRIA: when the orbalisks die they release a toxin that is melting his body from the inside. Bane cannot speak or move, cannot draw strength from the dark side, and has to rely on Caleb.
+
+```
+“He’s stable,” Darovit said. “But he won’t be for long. When an orbalisk dies it poisons the host.”
+“Even if I did it wouldn’t help,” Darovit told her, relaying what he had learned from the disk. “It’s too late. The orbalisks release toxins into the host’s tissue the instant they die. It breaks down the cells at a microscopic level. He’ll be dead in a matter of days.”
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 22
+```
+
+```
+“The orbalisk toxin is melting Bane’s body from the inside. Even with Caleb’s help it will be weeks, maybe months, before he can even get out of bed.”
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 23
+```
+
+```
+Caleb, he tried to say, but the only sound that came out was a soft groan. Like the rest of his body, his lips, tongue, and jaw refused to move. Bane tried to call upon the power of the dark side to grant him strength, but his will was as weak and helpless as the rest of him.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 23
+```
+
+```
+Anger flashed through Bane’s eyes and he tried to sit up, but only managed to raise his head a few centimeters off the pillow before falling back. Realizing he was helpless, her Master stared at her with accusing eyes.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 23
+```
+
+### 216. LIMIT: THE DARK SIDE CANNOT HEAL: Valenthyne Farfalla reasons that the dark side cannot heal and would have left Bane near death and helpless.
+
+```
+He had probably tried to call on the power of the dark side to heal himself. But the Jedi Master knew the dark side couldn’t heal; it only caused harm. The misguided attempt was likely what damaged the young man’s mind. Wounded and half mad, he had come to Ambria to seek aid from the healer. By the time he arrived at this place he would have been near death, and completely helpless.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 24
+```
+
+### 217. LIMIT: DECLINING BODY AND THE TREMOR: by Dynasty of Evil, age, the damage done by the orbalisks and decades of using the dark side have worn down Bane's body, leaving a tremor in his left hand that he cannot fully control and that Zannah notices.
+
+```
+Bane knew he might never live to see that day. He was in his midforties now, and the first faint scars of time and age had begun to leave their marks on his body. Yet he had dedicated himself to the idea that one day, even if it took centuries, the Sith—his Sith—would rule the galaxy.
+The aging process was subtle, but inescapable. Bane accepted this; what he lost in strength and speed he could easily compensate for with wisdom, knowledge, and experience. But it was not age that was to blame for the involuntary tremor that sometimes afflicted his left hand.
+Age was beginning to take its toll on Bane, but it was nothing compared with the toll already wrought upon his body by decades of drawing upon the dark side of the Force. He couldn’t help but smile at the grim irony: through the dark side he had access to near-infinite power, but it was power that came with a terrible cost. Flesh and bone lacked the strength to withstand the unfathomable energy unleashed by the Force. The unquenchable fire of the dark side was consuming him, devouring him bit by bit. After decades of focusing and channeling its power, his body was beginning to break down.
+The parasites had pushed his body well beyond its natural limits, aging him prematurely and intensifying the degeneration wrought by the power of the dark side. The orbalisks were gone now, but their damage could not be undone.
+The first outward manifestations of his failing health had been subtle: his eyes had become sunken and drawn, his skin a touch more pale and pockmarked than was normal for his age. The last year, however, had seen more pronounced deterioration, culminating with the involuntary tremor that seized his left hand with increasing frequency.
+There was another potential explanation, of course—yet it was the most troubling of all. It was possible Zannah had noticed his deteriorating physical abilities and had simply decided to wait. In five years his body would be a ruined husk, and she could dispatch him with virtually no risk.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), PROLOGUE
+```
+
+```
+She made no acknowledgment of the tremor, yet Bane was certain it had not gone unnoticed. Was she playing him for a fool? Pretending not to see his weakness in the hope he would become careless and let his guard down? Or was she silently gloating while she bided her time, waiting for the dark side to simply rot his body away?
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 3
+```
+
+```
+Confident in his plan, Bane focused all his concentration on calming the tremor that still gripped his hand. But for all his power, for all his mental discipline, the muscles continued to twitch involuntarily. In frustration, he balled up his fist and slammed it once hard upon the surface of the desk, leaving a faint impression in the soft wood.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 3
+```
+
+```
+The first was the tremor she had noticed in his left hand several months ago. He tried to hide it from her, but she noticed it more and more. She didn’t know the cause of the tremor, but regardless, it was an obvious sign of his degenerating skills.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 4
+```
+
+```
+Bane snatched the Holocron up from the floor with his right hand, ignoring the all-too-familiar trembling in his left. There was another way to get the knowledge he sought, but it was a path fraught with peril.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 12
+```
+
+### 218. LIMIT: REFUSED BY ANDEDDU'S GATEKEEPER: after four days, Andeddu's Holocron still will not teach Bane the ritual of essence transfer, and its gatekeeper tells him he is not yet ready.
+
+```
+For the past four days Bane had played the gatekeeper’s games in an attempt to unlock the secrets of eternal life. He had delved deep into Andeddu’s Holocron, accomplishing in less than a week what would have taken others months or even years. He had suffered through the tedious lessons; he had listened to the tiresome philosophical rants of the holographic image. He had learned nothing new about the Force, though the gatekeeper’s words had revealed much about Darth Andeddu’s personality and beliefs.
+“Show me the ritual of essence transfer,” Bane demanded.
+“The ritual is fraught with danger,” the gatekeeper warned. “Attempting it will cause the current vessel to be destroyed; your body will be consumed by the power of the dark side.”
+Bane clenched his teeth in exasperation. He had heard these warnings at least a dozen times before.
+“Choose your new vessel carefully. If you select a living being, be warned that their own spirit will fight you as you try to possess their body. If their will is strong, you will fail and your consciousness will be cast into the void, doomed to an eternity of suffering and torment.”
+“I am not some student cowering in fear before the unimaginable power of the dark side,” Bane snapped at the hologram. “I am the Dark Lord of the Sith.”
+“Your title means nothing to me,” the gatekeeper sneered. “I decide who is worthy to learn my secrets, and you are not yet ready. Perhaps you will never be.”
+Over the past few days Bane had come to this point too many times. He wasn’t about to let the gatekeeper thwart him yet again.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 12
+```
+
+### 219. LIMIT: SENFLAX: the Huntress's senflax-coated blade drugs Bane; while held prisoner he is paralyzed and his mind is clouded, and he cannot stop the seizures.
+
+```
+The Huntress couldn’t say how long it had been since she’d carved her senflax-coated blade through the flesh of the Sith Lord’s forearm, but the neurotoxin had to take effect soon.
+The Iktotchi knew she couldn’t beat him. He was too strong. The tricks she had used against the Jedi had slowed him down at first, but now they had no effect at all. The senflax was her only hope of surviving.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 14
+```
+
+```
+Because of the drug he was unable to stand erect; his weight sagged forward, pulling the chains supporting him tight and putting incredible strain on his wrists and shoulders. The pain in his joints would have been excruciating, were it not for the numbing effects of the senflax coursing through his system. His head was slumped down, his paralyzed muscles making it impossible for him to look up as they entered.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 16
+```
+
+```
+His answer came slowly. The stimulant she had given him only countered the physical effect of the senflax; the toxin still clouded his mind, dulling his focus and concentration.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 16
+```
+
+```
+He didn’t answer right away. His breathing was ragged, his face and bare scalp covered in sweat from the pain he had just endured. A spastic tremble had seized his left hand, causing it to twitch and flex madly in its iron cuff.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 16
 ```

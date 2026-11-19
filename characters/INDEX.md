@@ -326,7 +326,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-arho.md](darth-arho.md) | Darth Arho | TOR | untiered | 3 | 3 | 0 | 0 | Darth Arho, Arho | 3 | 3 | 0 | 0 |
 | [darth-azard.md](darth-azard.md) | Darth Azard (NEW 2026-11-02) | Legacy (137 ABY) | untiered | 61 | 61 | 0 | 0 | Darth Azard, Azard | 61 | 41 | 0 | 43 |
 | [darth-bandon.md](darth-bandon.md) | Darth Bandon | KOTOR | untiered | 55 | 55 | 0 | 11 | Darth Bandon, Bandon | 55 | 31 | 5 | 36 |
-| [darth-bane.md](darth-bane.md) | Darth Bane | Ruusan | DEEP | 871 | 865 | 6 | 190 | Darth Bane | 206 | 207 | n/a | n/a |
+| [darth-bane.md](darth-bane.md) | Darth Bane | Ruusan | DEEP | 871 | 865 | 6 | 190 | Darth Bane | 219 | 234 | n/a | n/a |
 | [darth-baras.md](darth-baras.md) | Darth Baras | TOR | DEEP | 187 | 187 | 0 | 22 | Darth Baras, Baras | 187 | 120 | 18 | 27 |
 | [darth-caedus.md](darth-caedus.md) | Darth Caedus / Jacen Solo | NJO–LotF | DEEP | 2370 | 2369 | 1 | 463 | Darth Caedus / Jacen Solo, Caedus, Jacen Solo, Jacen, TUF Jacen | 193 | 273 | n/a | n/a |
 | [darth-cognus.md](darth-cognus.md) | Darth Cognus | post-Ruusan | untiered | 8 | 8 | 0 | 1 | Darth Cognus, Cognus | 8 | 5 | 1 | 1 |
@@ -1626,7 +1626,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Boba Fett](boba-fett.md): 1029
 - [Hero of Tython / Outlander (Jedi Knight)](hero-of-tython.md): 941
 - [Kreia / Darth Traya](darth-traya.md): 888
-- [Darth Bane](darth-bane.md): 206
+- [Darth Bane](darth-bane.md): 219
 - [Darth Malak](darth-malak.md): 865
 - [Plo Koon](plo-koon.md): 845
 
@@ -1658,7 +1658,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Kreia / Darth Traya](darth-traya.md): 903
 - [Darth Malak](darth-malak.md): 877
 - [Jaina Solo](jaina-solo.md): 156
-- [Darth Bane](darth-bane.md): 206
+- [Darth Bane](darth-bane.md): 219
 - [Plo Koon](plo-koon.md): 848
 - [Grand Admiral Thrawn](thrawn.md): 725
 
