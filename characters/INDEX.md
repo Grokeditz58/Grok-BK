@@ -513,7 +513,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [fume-pachoola.md](fume-pachoola.md) | Fume Pachoola (NEW 2026-10-30) | Clone Wars | untiered | 2 | 2 | 0 | 0 | Fume Pachoola, Fume | 2 | 0 | 0 | 0 |
 | [fynn-torve.md](fynn-torve.md) | Fynn Torve | New Republic | untiered | 4 | 4 | 0 | 0 | Fynn Torve, Torve | 4 | 0 | 0 | 0 |
 | [gaff.md](gaff.md) | Gaff (Tawntoom) (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Gaff (Tawntoom) | 2 | 2 | 0 | 0 |
-| [galen-marek.md](galen-marek.md) | Galen Marek / Starkiller | Dark Times | DEEP | 647 | 632 | 15 | 78 | Galen Marek / Starkiller, Galen Marek, Starkiller, Galen | 642 | 337 | n/a | n/a |
+| [galen-marek.md](galen-marek.md) | Galen Marek / Starkiller | Dark Times | DEEP | 647 | 632 | 15 | 78 | Galen Marek / Starkiller, Galen Marek, Starkiller, Galen | 115 | 115 | n/a | n/a |
 | [gallandro.md](gallandro.md) | Gallandro | GCW | untiered | 43 | 43 | 0 | 0 | Gallandro | 43 | 28 | 0 | 23 |
 | [gallo-memm.md](gallo-memm.md) | Gallo Memm | NR | untiered | 8 | 8 | 0 | 0 | Gallo Memm, Memm | 8 | 0 | 0 | 0 |
 | [galo-thriven.md](galo-thriven.md) | Galo Thriven (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Galo Thriven | 1 | 0 | 0 | 0 |
