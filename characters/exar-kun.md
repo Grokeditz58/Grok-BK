@@ -10,7 +10,7 @@ Evidence file for Exar Kun, the fallen Jedi and Dark Lord of the Sith of the Gre
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 103 entries and 103 quotes.
+- This file has 113 entries and 114 quotes.
 
 
 ## Contents
@@ -20,7 +20,7 @@ Evidence file for Exar Kun, the fallen Jedi and Dark Lord of the Sith of the Gre
 - [Combat and Duels](#combat-and-duels) (5)
 - [Leadership and Strategy](#leadership-and-strategy) (3)
 - [Other Feats](#other-feats) (39)
-- [Limitations](#limitations) (5)
+- [Limitations](#limitations) (15)
 
 ## Power and Reputation
 
@@ -926,4 +926,102 @@ Their beams crossed in the middle of Exar Kun’s shadowy body—pure light inte
 Darkness flooded out of the shade of Exar Kun. The blackness shattered, and fragments flew around the circle, seeking a weak heart in which to hide.
 
 — Champions of the Force (Kevin Anderson, 1994), ch. 15
+```
+
+### 104. LIMIT: TRAPPED IN HIS OWN PRISON (GUIDES): The New Essential Chronology says that Kun's final spell freed his spirit but kept it inside the temples, trapping him in the prison he had created for himself.
+
+```
+Exar Kun drained the power from his Massassi slaves, triggering a final wave of Sith sorcery that liberated his spirit but preserved it inside the giant structures. Kun found himself trapped, unable to escape the prison he had created for himself.
+
+— The New Essential Chronology (Del Rey, 2005), p. 20 †
+```
+
+### 105. LIMIT: BETRAYED AND DEFEATED: Kun himself admits that his Brotherhood of the Sith fell because he was betrayed.
+
+```
+“The Brotherhood of the Sith could have ruled the galaxy, could have squashed the doddering Republic and turned the other Jedi Knights into mere parlor magicians—but I was betrayed.” The shadow of Exar Kun drifted about the floor of the temple, making no sound as he moved. He hovered over the sleeping and helpless form of Dorsk 81.
+
+— Dark Apprentice (Kevin Anderson, 1994), ch. 20
+```
+
+### 106. LIMIT: FOUR THOUSAND YEARS WITHOUT A BODY: Kun tells Luke that his spirit has been cut off from his body for four thousand years, and that "the first century or two are the worst".
+
+```
+Luke spun around and saw a crack form in the stone walls. It grew darker as a tarlike silhouette oozed out and congealed into the shape of a cowled man whose features were distinct now that Luke could see him in the spirit plane. The stranger had long black hair, shadowed skin, and the tattoo of a black sun emblazoned on his forehead. His eyes were like chips of obsidian and just as sharp. His mouth bore a cruel scowl, the expression of one who has been betrayed and has had much time to think bitter thoughts.
+“Exar Kun,” Luke said, and the dark spirit understood him perfectly well.
+“Do you enjoy having your spirit trapped away from your body, Skywalker?” Kun said in a mocking voice. “I have had four thousand years to get accustomed to it. The first century or two are the worst.”
+
+— Champions of the Force (Kevin Anderson, 1994), ch. 7
+```
+
+### 107. LIMIT: HIS ATTEMPTS ON LUKE'S BODY FAIL: Luke points out that Kun's attempts to destroy his helpless body keep failing, and calls Kun's imagined power his weakness.
+
+```
+Now he turned to see the hooded form of Kun standing black against the jungle landscape, but the sight no longer had the power to make him afraid. “You’re growing bolder, Exar Kun, to keep showing yourself to me—especially when your attempts to destroy my body continue to fail.”
+“It doesn’t matter,” Luke answered. “They will defeat you anyway. Your imagined power is your weakness, Exar Kun.”
+
+— Champions of the Force (Kevin Anderson, 1994), ch. 13
+```
+
+### 108. LIMIT: CORNERED BY KIRANA TI: Kirana Ti tells Kun that he is trapped in the chamber, and he flinches back from Gantoris's lightsaber.
+
+```
+“You’ll never get a chance to ask them, Exar Kun. You are trapped here. You won’t leave this chamber.” She pressed forward to intimidate him by her very closeness.
+Kun’s shadow distorted, but he held his ground. “You cannot threaten me.” Kun loomed over her.
+“Where did you get that weapon?” Kun demanded.
+“It belonged to Gantoris,” she said. “He once tried to fight you and failed.” She slashed with the lightsaber, and Kun flinched back toward Streen. “But I will succeed.”
+
+— Champions of the Force (Kevin Anderson, 1994), ch. 15
+```
+
+### 109. LIMIT: DEFEATED BY UNITED TRAINEES: the trainees close their circle of light around Kun. His taunts no longer shake Dorsk 81, and Vodo declares him "defeated at last".
+
+```
+The Jedi trainees stepped closer together, cinching the circle around the trapped shadowy form. Streen held his lightsaber high, while across the circle Kirana Ti raised hers to a striking position. The nebulous glow around the new Jedi Knights grew brighter, a luminous fog that joined them in an unbroken ring, a solid band of light forged by the power of the Force within them.
+“I know your flaws,” Kun said stridently. “You all have weaknesses. You—” The shadow lunged toward the streamlined form of Dorsk 81. The cloned Jedi candidate flinched, but the other trainees gave him strength.
+“You: Dorsk 81, a failure!” He sneered. “Eighty generations of your genetic structure were perfect, identical—but you were an anomaly. You were an outcast. A flaw.”
+But the olive-skinned alien would not back down. “Our differences make us strong,” he said. “I’ve learned that.”
+“Together Jedi can overcome their weaknesses,” Master Vodo said in a bubbly, congested voice. “Exar Kun, my student—you are defeated at last.”
+
+— Champions of the Force (Kevin Anderson, 1994), ch. 15
+```
+
+### 110. LIMIT: REBUFFED BY CORRAN: Corran tells Kun that he weakens his own power by destroying life; Kun's laughter sounds "just a bit too shrill", and Corran refuses to join him.
+
+```
+“Yes, you do.” I nodded carefully. “And again and again that cycle repeats itself and you let it go on because you’ve forgotten the most fundamental truth of reality: Life creates the Force. When Kyp destroyed Carida, he diminished your power. When you destroyed Gantoris, you diminished your power. You’re a predator over-grazing your prey, but you can’t stop because the dark side fills you with this aching hunger that will never be satisfied.”
+“Ha!” Exar Kun’s laughter slashed at me, but sounded just a bit too shrill. “You cannot speak of the dark side until you have experienced it. Join me and learn that you are wrong.”
+“I don’t think so. A Two-Onebee droid doesn’t need to contract a disease to diagnose and treat it.” I folded my arms across my chest and laughed at him. “I’m not fodder for your fantasies, go away.”
+
+— I, Jedi (Michael A. Stackpole, 1998), ch. 23
+```
+
+### 111. LIMIT: WANING INFLUENCE OVER HIS BEASTS: Corran feels Kun's link tendrils wither, and one of the beasts, freed of Kun's waning influence, turns on Corran's fighter.
+
+```
+My comm unit beeped and an “all-clear” signal from Artoo appeared on my main screen. I smiled and felt the little link tendrils withering and retreating back to Exar Kun. I pushed my feelings, focusing them tightly, hoping to pick up a flash of anger or disappointment from him, but I got nothing of the sort. Instead I found four more of the anomalous lifeforms winging their way to the Great Temple from deep in the jungle.
+
+— I, Jedi (Michael A. Stackpole, 1998), ch. 24
+```
+
+```
+The last beast proved more agile than the others and, freed of Kun’s waning influence, wheeled through the sky and dove at the Headhunter. I got the nose up and flicked on the shields in time to intercept its attack. The beast rebounded off the forward shield, but stabbed out with one clawed foot and snagged hold of the Headhunter’s nose. Sparks shot through the cockpit as the forward shield failed, and the short circuit killed the ion cannon. The beast grabbed the nose with its other foot, durasteel screaming as it sank its talons in. It hunched forward over the fuselage, its wings wrapping the Headhunter in an embrace, as its heads snapped at me in the cockpit.
+
+— I, Jedi (Michael A. Stackpole, 1998), ch. 24
+```
+
+### 112. LIMIT: FED FALSE INTELLIGENCE: Corran controls what reaches Kun through his link to Streen, making the students' plan sound hopeless so that Kun underestimates them.
+
+```
+I kept careful track of what information moved through the conduit from Streen to Exar Kun and found I really needed to inject very little into it, or edit very little from it. Twelve half-trained apprentices and two toddlers planning to annihilate someone who had survived an onslaught by the combined might of the Jedi of his age sounded ridiculous on the surface of it. Tionne carefully told us how our own little council mirrored that of the Great Council of Deneba, when the Jedi united to defeat Kun. She made it sound grand and hopeful, but with only a little push I was able to make it sound hopeless.
+
+— I, Jedi (Michael A. Stackpole, 1998), ch. 24
+```
+
+### 113. LIMIT: NEEDS OTHERS TO KILL: Corran argues that Kun had to rely on Kyp, ancient monsters and Streen to try to kill Luke's body, and could not make Kyp do it.
+
+```
+“Think about it, Master Skywalker. Kun uses Kyp to force you out of your body, then spends the next ten days trying to get someone else to kill you? He uses ancient monsters and poor old Streen to get the job done, when all he needed to do was have Kyp strap your body to the Sun Crusher and fly on out into space. Or, to make it simpler, though messier, Kyp just parks the Sun Crusher on your unconscious form. Why didn’t that happen? Because Kyp didn’t want to kill you. You weren’t his enemy, only Exar Kun’s enemy. Kyp wouldn’t have attacked you except that you would have stopped him from taking the Sun Crusher out and killing Imps.”
+
+— I, Jedi (Michael A. Stackpole, 1998), ch. 26
 ```

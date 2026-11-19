@@ -476,7 +476,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [ev-9d9.md](ev-9d9.md) | EV-9D9 (NEW 2026-10-29) |  | untiered | 10 | 10 | 0 | 0 | EV-9D9 | 10 | 4 | 0 | 5 |
 | [even-piell.md](even-piell.md) | Even Piell | Clone Wars | DEEP | 85 | 84 | 1 | 3 | Even Piell, Piell | 96 | 69 | 24 | 47 |
 | [exal-kressh.md](exal-kressh.md) | Exal Kressh | Pre-TOR (Sith Empire) | untiered | 5 | 5 | 0 | 0 | Exal Kressh | 5 | 4 | 0 | 2 |
-| [exar-kun.md](exar-kun.md) | Exar Kun | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 2007 | 2001 | 6 | 532 | Exar Kun, Exar | 103 | 103 | n/a | n/a |
+| [exar-kun.md](exar-kun.md) | Exar Kun | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 2007 | 2001 | 6 | 532 | Exar Kun, Exar | 113 | 114 | n/a | n/a |
 | [ezra-bridger.md](ezra-bridger.md) | Ezra Bridger | Rebels | untiered | 59 | 0 | 59 | 2 | Ezra Bridger, Ezra | 59 | 24 | 0 | 29 |
 | [fabswa-the-mutilated.md](fabswa-the-mutilated.md) | Fabswa the Mutilated (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Fabswa the Mutilated | 1 | 0 | 0 | 0 |
 | [false-kadann.md](false-kadann.md) | False Kadann (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | False Kadann | 1 | 0 | 0 | 0 |
@@ -1609,7 +1609,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Count Dooku / Darth Tyranus](count-dooku.md): 141
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2249
 - [General Grievous](general-grievous/README.md): 2190
-- [Exar Kun](exar-kun.md): 103
+- [Exar Kun](exar-kun.md): 113
 - [Leia Organa Solo](leia-organa/README.md): 1975
 - [Darth Plagueis](darth-plagueis.md): 106
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 104
@@ -1641,7 +1641,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Count Dooku / Darth Tyranus](count-dooku.md): 141
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
 - [General Grievous](general-grievous/README.md): 2198
-- [Exar Kun](exar-kun.md): 103
+- [Exar Kun](exar-kun.md): 113
 - [Darth Plagueis](darth-plagueis.md): 106
 - [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 104
 - [Cade Skywalker](cade-skywalker/README.md): 1766
