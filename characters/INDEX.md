@@ -378,7 +378,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-vurik.md](darth-vurik.md) | Darth Vurik (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Darth Vurik | 1 | 0 | 0 | 0 |
 | [darth-wredd.md](darth-wredd.md) | Darth Wredd (NEW 2026-10-30) | Legacy | untiered | 1 | 1 | 0 | 0 | Darth Wredd, Wredd | 1 | 0 | 0 | 0 |
 | [darth-wyyrlok.md](darth-wyyrlok.md) | Darth Wyyrlok III | Legacy | MASTERY (III) | 1121 | 1121 | 0 | 119 | Darth Wyyrlok III, Wyyrlok | 1110 | 427 | n/a | n/a |
-| [darth-zannah.md](darth-zannah.md) | Darth Zannah | Ruusan | DEEP | 290 | 278 | 12 | 63 | Darth Zannah, Zannah | 92 | 92 | n/a | n/a |
+| [darth-zannah.md](darth-zannah.md) | Darth Zannah | Ruusan | DEEP | 290 | 278 | 12 | 63 | Darth Zannah, Zannah | 100 | 103 | n/a | n/a |
 | [darth-zash.md](darth-zash.md) | Darth Zash | TOR | untiered | 16 | 16 | 0 | 1 | Darth Zash, Zash | 16 | 14 | 0 | 11 |
 | [darubang-yosa.md](darubang-yosa.md) | Darubang Yosa (NEW 2026-10-29) |  | untiered | 3 | 3 | 0 | 0 | Darubang Yosa | 3 | 0 | 0 | 0 |
 | [dash-rendar.md](dash-rendar.md) | Dash Rendar | Rebellion | untiered | 34 | 34 | 0 | 0 | Dash Rendar, Dash | 35 | 15 | 1 | 24 |

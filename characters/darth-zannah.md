@@ -1,6 +1,6 @@
 # Darth Zannah
 
-Evidence file for Darth Zannah, **Star Wars Legends** continuity. Each entry is a short description of what she does or what is said about she, followed by the full quote in a code block with its source. † marks sources that were not matched against our text files (game dialogue, guides, comics, interviews). Anti-feats and limitations are in their own section at the end.
+Evidence file for Darth Zannah, **Star Wars Legends** continuity. Each entry is a short description of what she does or what is said about her, followed by the full quote in a code block with its source. † marks sources that were not matched against our text files (game dialogue, guides, comics, interviews). Anti-feats and limitations are in their own section at the end.
 
 **How to read this file**
 
@@ -10,7 +10,7 @@ Evidence file for Darth Zannah, **Star Wars Legends** continuity. Each entry is 
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 92 entries and 92 quotes.
+- This file has 100 entries and 103 quotes.
 
 
 ## Contents
@@ -19,6 +19,7 @@ Evidence file for Darth Zannah, **Star Wars Legends** continuity. Each entry is 
 - [Force Powers](#force-powers) (21)
 - [Combat and Duels](#combat-and-duels) (18)
 - [Other Feats](#other-feats) (41)
+- [Limitations](#limitations) (8)
 
 ## Power and Reputation
 
@@ -953,4 +954,93 @@ She scrambled to her feet and twirled her lightsaber before her, creating what s
 For a second she saw nothing but stars. Her vision cleared to reveal the image of Darth Bane looming above her, his blade raised for the coup de grace.
 
 — Darth Bane: Rule of Two †
+```
+
+## Limitations
+
+*These are anti-feats, limits and caveats, each followed by the evidence behind it.*
+
+### 93. LIMIT: OVERWHELMED AFTER HER CAPTURE: Taken aboard the Jedi shuttle, the young Zannah is "overwhelmed with conflicting emotions"; later, holding a blaster on Bordon's family, she feels that she is "losing control of the situation".
+
+```
+A minute later the engines roared to life and the shuttle lifted up into the air, but Zannah barely noticed. Her brain was overwhelmed with conflicting emotions. Part of her was silently screaming that she couldn’t just sit there—she had to do something now! She couldn’t let them take her back to the fleet. There were too many people there. Too many Jedi. Someone was bound to notice her special gifts and start asking questions. They’d find out about Darth Bane, and everything he had promised her—all the knowledge and power of the dark side—would be lost.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 6
+```
+
+```
+“Don’t move or I’ll shoot!” Zannah warned, her voice rising shrilly. How can she be so calm? she thought, even as she struggled to slow her own breathing down. She was the one with the blaster, but somehow she felt like she was losing control of the situation.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 6
+```
+
+### 94. LIMIT: CANNOT DOMINATE THE NEEKS: Zannah's "clumsy efforts" to dominate a neek's mind fail at Lake Natth, where the creatures have been mutated by dark side power, and she has to tame one slowly instead.
+
+```
+She couldn’t simply set a trap for one; Bane’s instructions required her to bring him one that came of its own free will. At first Zannah had tried luring them back to the camp by leaving a trail of food, but the creatures were mistrustful and spurned her offerings. Next, she tried dominating one’s mind as she had seen Bane do with the drexl. But at Lake Natth an ancient Jedi had once bound the dark side power of his enemies. That same power had emanated from the depths of the poisonous waters over the centuries, mutating the neeks and making them immune to her clumsy efforts to control them with the Force.
+In the end she realized she would have to tame one, training it to grow accustomed to her presence. So early each morning she made her way down to the entrance of the cave, where she would sit cross-legged and practice the meditation exercises Bane was teaching her.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 10
+```
+
+### 95. LIMIT: CANNOT BREAK CALEB: Caleb's scarred hand shows Zannah that she cannot break him through physical pain, however brutal.
+
+```
+Scowling, Zannah glanced once more down at his scarred hand. It stood as mute testament to the fact she couldn’t break him through raw physical pain, no matter how brutal. But with no other options left, she decided to try anyway.
+
+— Darth Bane: Rule of Two (Drew Karpyshyn, 2007), ch. 22
+```
+
+### 96. LIMIT: WARY OF AN UNARMED BANE: Even with Bane unarmed, Zannah knows she cannot simply rush in; he is quick, agile and trained in pit-fighting.
+
+```
+This confrontation was completely different. Yet even though Bane had no lightsaber, that didn’t mean he was helpless. Zannah knew she couldn’t simply rush in: despite his bulk, Bane was incredibly quick and agile. He had also learned close-quarters pit-fighting tactics during his days as a miner and soldier. She had to be wary of letting him get close enough to grapple her; she couldn’t let him get the opportunity to use his size and strength against her.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
+```
+
+### 97. LIMIT: CANNOT FINISH BANE IN THE STONE PRISON: With her lightsaber against an unarmed Bane, Zannah's caution lets him keep her off balance; his lightning drives her back from the killing blow, and he escapes.
+
+```
+As long as she was careful, she was able to avoid them or intercept them with her lightsaber. This caution, however, allowed her Master to keep her off balance just enough to stay alive.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
+```
+
+```
+She had him cornered against the wall with nowhere to go. As she moved in for the kill another burst of lightning came toward her. She caught it with her lightsaber, but the impact drove her backward a step, giving Bane just enough room to duck down beneath her coup de grâce and scramble clear of the wall.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
+```
+
+### 98. LIMIT: EXHAUSTED AFTER THE ESCAPE: The dash out of the Stone Prison leaves Zannah "both mentally and physically exhausted".
+
+```
+Safely away, Zannah punched in a trajectory and activated the autopilot, letting the ship skim across Doan’s surface as she tried to catch her breath. The mad dash to freedom had left her both mentally and physically exhausted. Her body was covered in sweat, and the muscles of her thighs and calves were quivering as she slumped in her seat, threatening to cramp up at any second.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 23
+```
+
+### 99. LIMIT: LED DOWN THE OBVIOUS PATH: Zannah later realizes that Bane expertly led her into relying on her lightsaber, and that Set had been a mistake chosen in her eagerness to become Dark Lord.
+
+```
+No. That didn’t make sense, either. Bane may have escaped with his life, but her Master did not win that battle. Her lightsaber had given her a huge advantage; it had forced Bane to be on the defensive. So why hadn’t she been able to finish him?
+In her mind she replayed the scenario, analyzing it over and over again. She had been patient, careful. Because of this her Master had been able to keep her at bay despite her advantage. But if she had been more aggressive during the duel, she would have opened herself up to a potentially lethal counterattack.
+Using her lightsaber to defeat an unarmed opponent was the simplest, most obvious path to victory … one Bane had expertly led her down. But the most obvious path was rarely the best one.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 25
+```
+
+```
+However, the more she thought about confronting the man she had chosen as her apprentice, the less the idea appealed to her. Looking back, it was clear to her that Set had been a mistake. Overeager to assume the role of Dark Lord, she had convinced herself that he was an acceptable choice. Desperate to find an apprentice of her own, she had ignored his obvious flaws.
+
+— Darth Bane: Dynasty of Evil (Drew Karpyshyn, 2009), ch. 25
+```
+
+### 100. LIMIT: NOT YET BANE'S EQUAL (GUIDES): The Complete Star Wars Encyclopedia says that Zannah tells Bane she will one day surpass him, keeping him alive until then to learn everything she can about the dark side.
+
+```
+Zannah told Bane that she would one day surpass him, and until that point would keep him alive to learn everything she could about the dark side.
+
+— The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 368 †
 ```
