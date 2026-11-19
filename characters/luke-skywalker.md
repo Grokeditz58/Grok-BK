@@ -28,6 +28,7 @@ Evidence file for Luke Skywalker, **Star Wars Legends** continuity, from the Gal
 - [Statements from Other Characters](#statements-from-other-characters) (5)
 - [Author and Guide Statements](#author-and-guide-statements) (7)
 - [Limitations](#limitations) (24)
+- [Comic Panels Without a Matching Entry](#comic-panels-without-a-matching-entry) (5)
 
 ## Growth and Evolution
 
@@ -759,6 +760,13 @@ warfare. Using only a lightsaber, Luke Skywalker was able to deflect the cannonf
 — Dark Empire #6, companion text (Dark Horse Comics, 1991) †
 ```
 
+![Dark Empire #6 p22: lightning luke](../notes/materials/041-dark-empire/panels/de6-p22-lightning-luke.jpg)
+![Dark Empire #6 p23: saber hilt shattered](../notes/materials/041-dark-empire/panels/de6-p23-saber-hilt-shattered.jpg)
+![Dark Empire #6 p24: force storm fleet](../notes/materials/041-dark-empire/panels/de6-p24-force-storm-fleet.jpg)
+![Dark Empire #6 p25: luminous beings](../notes/materials/041-dark-empire/panels/de6-p25-luminous-beings.jpg)
+![Dark Empire #6 p26: storm turns on maker](../notes/materials/041-dark-empire/panels/de6-p26-storm-turns-on-maker.jpg)
+![Dark Empire #6 p27: two more powerful than one](../notes/materials/041-dark-empire/panels/de6-p27-two-more-powerful-than-one.jpg)
+
 ### 77. A Dark Empire companion essay says that, personally trained by Obi-Wan and Yoda and linked to their strength through the Force, Luke rose quickly through the initial stages of Jedi knowledge.
 
 ```
@@ -767,6 +775,9 @@ Personally trained by these two great Jedi and linked to their strength and wisd
 — Dark Empire #1, companion text (Dark Horse Comics, 1991) †
 ```
 
+![Dark Empire #1 p26: two masters](../notes/materials/041-dark-empire/panels/de1-p26-two-masters.jpg)
+![Dark Empire #1 p27: force storm luke](../notes/materials/041-dark-empire/panels/de1-p27-force-storm-luke.jpg)
+
 ### 78. Dark Empire II's introduction says it quickly became clear to Luke that the Emperor was masterfully adept in the ways of the dark side, "the dark side's most powerful expression," as Vader had warned.
 
 ```
@@ -774,6 +785,9 @@ It quickly became clear to Luke that this decrepit and seemingly defenseless old
 
 — Dark Empire #2, companion text (Dark Horse Comics, 1991) †
 ```
+
+![Dark Empire #2 p20: so have i](../notes/materials/041-dark-empire/panels/de2-p20-so-have-i.jpg)
+![Dark Empire #2 p21: primarily energy](../notes/materials/041-dark-empire/panels/de2-p21-primarily-energy.jpg)
 
 ### 79. A Dark Empire essay calls Luke "the last fully realized Jedi Master" and "the most important key to the rebirth and restoration of the Jedi Knights".
 
@@ -1004,3 +1018,13 @@ It was no good. Abeloth had a dozen times the Force strength Luke had, and he co
 
 — Vortex (Troy Denning, 2010), ch. 32
 ```
+
+## Comic Panels Without a Matching Entry
+
+*Panels from the old version of this file, or from the same comics, that no quoted entry above covers yet.*
+
+![Dark Empire #4 p26: lightning leia](../notes/materials/041-dark-empire/panels/de4-p26-lightning-leia.jpg)
+![Dark Empire #5 p25: already beaten you](../notes/materials/041-dark-empire/panels/de5-p25-already-beaten-you.jpg)
+![Dark Empire #5 p25: luke force blast clone](../notes/materials/041-dark-empire/panels/de5-p25-luke-force-blast-clone.jpg)
+![Dark Empire #5 p26: young emperor lashes out](../notes/materials/041-dark-empire/panels/de5-p26-young-emperor-lashes-out.jpg)
+![Dark Empire #5 p27: luke disarmed](../notes/materials/041-dark-empire/panels/de5-p27-luke-disarmed.jpg)

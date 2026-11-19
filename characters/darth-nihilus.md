@@ -8,10 +8,10 @@ Evidence file for Darth Nihilus, the Lord of Hunger, Sith Lord of the Sith Trium
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number; novellas, short stories and journals have no chapters and are cited by title only.
 - **†** after a source means the quote comes from a published source we could not check against the original. Treat those as secondhand.
 - Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
-- Sources read for this rebuild: the dialogue transcripts of Knights of the Old Republic II: The Sith Lords on StrategyWiki (Kreia, Visas Marr, Ravager Command Deck and Ravager Bridge pages), downloaded for this rebuild; game lines were matched word for word to those transcripts and name the speaker and the person addressed; Darth Plagueis (checked against the text on file); the guide and sourcebook quotes collected in the old version of this file (Prima KOTOR II guide, KOTOR Campaign Guide, The Old Republic Encyclopedia, The Complete Star Wars Encyclopedia).
+- Sources read for this rebuild: the dialogue transcripts of Knights of the Old Republic II: The Sith Lords on StrategyWiki (Kreia, Visas Marr, Ravager Command Deck and Ravager Bridge pages), downloaded for this rebuild; game lines were matched word for word to those transcripts and name the speaker and the person addressed; Darth Plagueis (checked against the text on file); Legacy Book 1 (the repo's notes and panels); the guide and sourcebook quotes collected in the old version of this file (Prima KOTOR II guide, KOTOR Campaign Guide, The Old Republic Encyclopedia, The Complete Star Wars Encyclopedia).
 - Game quotes are still marked † because the transcripts are fan-made, not the game files. Stage directions from the transcripts are not quoted.
-- Forum and debate material from the old file is not carried over, nor are lines the old file misattributed to Nihilus (HK-47 and others speaking about Revan). Canon material is not covered.
-- This file has 48 entries and 48 quotes (47 marked †).
+- Forum and debate material from the old file is not carried over, nor are lines the old file misattributed to Nihilus (HK-47 and others speaking about Revan, and a Legacy panel of Darth Nihl). Canon material is not covered.
+- This file has 49 entries and 49 quotes (48 marked †).
 
 ## Contents
 
@@ -22,7 +22,7 @@ Evidence file for Darth Nihilus, the Lord of Hunger, Sith Lord of the Sith Trium
 - [Telekinesis](#telekinesis) (4)
 - [Telepathy and Mind Control](#telepathy-and-mind-control) (2)
 - [Fights and Combat Feats](#fights-and-combat-feats) (2)
-- [Statements from Other Characters](#statements-from-other-characters) (9)
+- [Statements from Other Characters](#statements-from-other-characters) (10)
 - [Author and Guide Statements](#author-and-guide-statements) (3)
 - [Limitations](#limitations) (11)
 
@@ -328,9 +328,22 @@ A man, nothing more.
 — Darth Plagueis (James Luceno, 2012), ch. 13
 ```
 
+### 35. Over three centuries later, Darth Krayt calls on the holocrons of Andeddu, Nihilus and Bane on Korriban to teach him how they cheated death.
+
+```
+LORD ANDEDDU, LORD NIHILUS, LORD BANE -- ANSWER ME! TEACH ME! SUCH IS MY WILL!
+
+— Darth Krayt to the Sith holocrons, Star Wars: Legacy #5, Legacy Book 1 omnibus p. 81 (Dark Horse Comics, 2006) †
+```
+
+![p81 Krayt summons the holocrons](../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+![p82 Bane's holocron: "PRETENDER"](../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+![p84 Krayt dispels the holocron images with lightning](../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+
 ## Author and Guide Statements
 
-### 35. The in-game description of Nihilus's mask calls it the last surviving piece of "the beast who died and was reborn in the shattered world of Malachor V."
+### 36. The in-game description of Nihilus's mask calls it the last surviving piece of "the beast who died and was reborn in the shattered world of Malachor V."
 
 ```
 You have taken this trophy from the remains of Darth Nihilus - it is the last surviving piece of the beast who died and was reborn in the shattered world of Malachor V. By taking it from him, you have gained a stronger tie to the Force.
@@ -338,7 +351,7 @@ You have taken this trophy from the remains of Darth Nihilus - it is the last su
 — Nihilus Mask item description, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 36. The Prima guide says the Lord of Hunger evaporates in a storm of dark energy and leaves no remains.
+### 37. The Prima guide says the Lord of Hunger evaporates in a storm of dark energy and leaves no remains.
 
 ```
 The Lord of Hunger evaporates in a storm of dark energy
@@ -348,7 +361,7 @@ The Lord of Hunger leaves behind no remains
 — Star Wars Knights of the Old Republic II: The Sith Lords, Prima Official Game Guide (2004) †
 ```
 
-### 37. The Complete Star Wars Encyclopedia lists Nihilus as one of the three Sith Lords, with Traya and Sion, who survived the Jedi Civil War and fled to Malachor V.
+### 38. The Complete Star Wars Encyclopedia lists Nihilus as one of the three Sith Lords, with Traya and Sion, who survived the Jedi Civil War and fled to Malachor V.
 
 ```
 Nihilus, Darth One of three Sith Lords, along with Darth Traya and Darth Sion, who survived the Jedi Civil Wars and fled to Malachor V nearly 4,000 years before the Galactic Civil War.
@@ -360,7 +373,7 @@ Nihilus, Darth One of three Sith Lords, along with Darth Traya and Darth Sion, w
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 38. RULED BY THE HUNGER: Kreia says the power cannot truly be controlled and leaves nothing to conquer: "it rules him, not the other way around."
+### 39. RULED BY THE HUNGER: Kreia says the power cannot truly be controlled and leaves nothing to conquer: "it rules him, not the other way around."
 
 ```
 Because it is not something that can ever truly be controlled... and it leaves nothing to conquer in its wake. And it rules him, not the other way around. It has its own will, its own instincts.
@@ -368,7 +381,7 @@ Because it is not something that can ever truly be controlled... and it leaves n
 — Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 39. DEVOURED BY HIS OWN HUNGER: Kreia says there is no strength in his hunger; it devours him as he devours others, and "He is already dead."
+### 40. DEVOURED BY HIS OWN HUNGER: Kreia says there is no strength in his hunger; it devours him as he devours others, and "He is already dead."
 
 ```
 Power? Do you think so? You would be wrong. There is no strength in the hunger he possesses... and the will behind his power is a primal thing. And it devours him as he devours others - his mere presence kills all around him, slowly, feeding him. He is already dead, it is simply a question of how many he kills before he falls.
@@ -376,7 +389,7 @@ Power? Do you think so? You would be wrong. There is no strength in the hunger h
 — Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 40. CANNOT DIRECT IT: Kreia says his power is not something he can direct or focus; Force-rich worlds draw him, and Katarr called to him like a beacon.
+### 41. CANNOT DIRECT IT: Kreia says his power is not something he can direct or focus; Force-rich worlds draw him, and Katarr called to him like a beacon.
 
 ```
 It is not something he can direct or focus, much like hunger itself. He is more of a hole in the Force than a living thing. Force Sensitives and worlds rich in the Force draw him. The Miraluka world was one such place. That is why where the Jedi gather, Jedi will die. He will feel it, unless they mask their presence - but Katarr called out as a beacon to him, and he could not resist it. And he cares nothing for the Sith or its teachings... or the Jedi. And when the Jedi are dead, he will feed on the galaxy, the Republic, and eventually, consume the Sith as well.
@@ -384,7 +397,7 @@ It is not something he can direct or focus, much like hunger itself. He is more 
 — Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 41. STARVING: Tobin says that if the Master cannot feed, the hunger begins to consume him.
+### 42. STARVING: Tobin says that if the Master cannot feed, the hunger begins to consume him.
 
 ```
 The Master suffers... if he cannot feed, then the hunger begins to consume him. The planet... Telos... He may feed on something upon its surface to sustain him awhile longer.
@@ -392,7 +405,7 @@ The Master suffers... if he cannot feed, then the hunger begins to consume him. 
 — Colonel Tobin to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 42. CANNOT SEE THE EXILE: Visas says there is much she sees that her Master cannot, and that he cannot see or understand the Exile.
+### 43. CANNOT SEE THE EXILE: Visas says there is much she sees that her Master cannot, and that he cannot see or understand the Exile.
 
 ```
 There is a... a greatness in you, a greatness that does not stem from the Force. It stems from who you are. And if my Master does not understand you, cannot see you, then perhaps there is hope for us all. But if you seek to survive, then you must understand why this is so.
@@ -402,7 +415,7 @@ There is much I see my Master cannot. I fear it is because of my nature, the nat
 — Visas Marr to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 43. IGNORES THE BOARDERS: Mandalore asks why Nihilus has not stopped them; Tobin says he sees planets and stars, not people.
+### 44. IGNORES THE BOARDERS: Mandalore asks why Nihilus has not stopped them; Tobin says he sees planets and stars, not people.
 
 ```
 If he's so powerful, why hasn't he stopped us, then? We've attacked his ship, killed his soldiers, and he's done nothing.
@@ -411,7 +424,7 @@ It is because he sees planets, stars... not people. To him, the planet below, th
 — Mandalore and Colonel Tobin, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 44. DECEIVED BY KREIA: The Exile can tell Nihilus there are no Jedi on Telos and that using his power there will exhaust him; when he tries to drain the Exile, the hunger turns on him.
+### 45. DECEIVED BY KREIA: The Exile can tell Nihilus there are no Jedi on Telos and that using his power there will exhaust him; when he tries to drain the Exile, the hunger turns on him.
 
 ```
 If you use your power here, you will only exhaust yourself... and become vulnerable.
@@ -421,7 +434,7 @@ Even now, the hunger is consuming you. Just as Kreia knew it would.
 — The Exile to Darth Nihilus, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 45. TIED TO THE RAVAGER: The Prima guide says Visas can block the flow of power Nihilus absorbs from the Ravager.
+### 46. TIED TO THE RAVAGER: The Prima guide says Visas can block the flow of power Nihilus absorbs from the Ravager.
 
 ```
 block the flow of power Nihilus absorbs from the Ravager
@@ -429,7 +442,7 @@ block the flow of power Nihilus absorbs from the Ravager
 — Star Wars Knights of the Old Republic II: The Sith Lords, Prima Official Game Guide (2004) †
 ```
 
-### 46. VISAS'S SACRIFICE: Visas, his link to the ship, can kill herself to bring him down: "My life... for yours."
+### 47. VISAS'S SACRIFICE: Visas, his link to the ship, can kill herself to bring him down: "My life... for yours."
 
 ```
 Then... then that is what must be done... my Master. My life... for yours.
@@ -437,7 +450,7 @@ Then... then that is what must be done... my Master. My life... for yours.
 — Visas Marr to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 47. OUTMATCHED BY THE EXILE AND VISAS: The Complete Star Wars Encyclopedia says Nihilus stunned the Exile but was unprepared for Visas Marr's devotion, and was no match for their combined might.
+### 48. OUTMATCHED BY THE EXILE AND VISAS: The Complete Star Wars Encyclopedia says Nihilus stunned the Exile but was unprepared for Visas Marr's devotion, and was no match for their combined might.
 
 ```
 On the mission to destroy Telos, Darth Nihilus finally was confronted by the Exile and her team.
@@ -446,7 +459,7 @@ Although Darth Nihilus managed to stun the Exile, he was unprepared for the devo
 — The Complete Star Wars Encyclopedia (Stephen J. Sansweet and Pablo Hidalgo, 2008) †
 ```
 
-### 48. HUNGER REPELLED: The KOTOR Campaign Guide says that when Nihilus tried feeding on the Exile his hunger was repelled, and, psychically starved by the effort, he fell.
+### 49. HUNGER REPELLED: The KOTOR Campaign Guide says that when Nihilus tried feeding on the Exile his hunger was repelled, and, psychically starved by the effort, he fell.
 
 ```
 Ousting Traya with Darth Sion's help, Nihilus binges on the Force, nearly extinguishing the Jedi forever at Katarr. However, Traya reciprocates his betrayal by luring him into a confrontation with the Jedi Exile and Nihilus's own former apprentice. When Nihilus tries feeding on this Jedi, his hunger is mysteriously repelled, as if confronted by his exact polar opposite. Psychically starved by the effort, the Dark Lord falls to the Jedi, and Nihilus the man dissolves into oblivion.

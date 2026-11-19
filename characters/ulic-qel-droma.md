@@ -27,6 +27,7 @@ Evidence file for Ulic Qel-Droma, Jedi Knight, Krath warlord and Sith apprentice
 - [Statements from Other Characters](#statements-from-other-characters) (19)
 - [Author and Guide Statements](#author-and-guide-statements) (13)
 - [Limitations](#limitations) (23)
+- [Comic Panels Without a Matching Entry](#comic-panels-without-a-matching-entry) (32)
 
 ## Growth and Evolution
 
@@ -47,6 +48,10 @@ MASSIVE IMPULSE OF FORCE ENERGY
 
 — Tales of the Jedi: Dark Lords of the Sith #5, p. 4–6 (Dark Horse Comics, 1994–95) †
 ```
+
+![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p05-satal-tortures-ulic.jpg)
+![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p06-ulic-force-impulse.jpg)
+![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p07-massassi-build-temples.jpg)
 
 ### 3. The New Essential Chronology says that although Ulic had been blinded to the Force, at his death he vanished into the light, "a technique known only to a true Jedi Master."
 
@@ -170,6 +175,8 @@ BOTH JEDI ARE MASTER SWORDSMEN--NEITHER CAN CLAIM AN ADVANTAGE WITH THE LIGHTSAB
 — Narration, Tales of the Jedi: Dark Lords of the Sith #6, p. 24 (Dark Horse Comics, 1994–95) †
 ```
 
+![Dark Lords of the Sith #6 p24: Exar vs Ulic duel](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p24-exar-vs-ulic-duel.jpg)
+
 ### 17. The Complete Star Wars Encyclopedia says Ulic quickly mastered the art of lightsaber dueling under Arca Jeth.
 
 ```
@@ -212,6 +219,9 @@ CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER F
 — Narration, Tales of the Jedi: The Freedon Nadd Uprising #1, p. 15 (Dark Horse Comics, 1994) †
 ```
 
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
+
 ### 22. Warb Null presses a wall of dark Force against Ulic to extinguish his will; Ulic's strength ebbs, then he kills Null with one blow.
 
 ```
@@ -222,6 +232,8 @@ THE EVIL WARRIOR PRESSES A WALL OF DARK FORCE AGAINST HIS OPPONENT, SEEKING TO E
 — Narration, Tales of the Jedi: The Freedon Nadd Uprising #1, p. 16 (Dark Horse Comics, 1994) †
 ```
 
+![Freedon Nadd Uprising #1 p17: Galia: "That's not true. Ulic did everything he could"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p17-galia-ulic-did-everything.jpg)
+
 ### 23. Ulic and Cay lead the charge through Ommin's dark-side protectors and war droids.
 
 ```
@@ -229,6 +241,8 @@ DRIVEN BY A CLEAR PERCEPTION OF THEIR MASTER'S PAIN, CAY AND ULIC QEL-DROMA LEAD
 
 — Narration, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 14 (Dark Horse Comics, 1994) †
 ```
+
+![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
 
 ### 24. With the light side as his ally, Ulic smashes through Ommin's deluge of dark energies and cuts the armature holding up the king's softened bones.
 
@@ -240,6 +254,9 @@ WITHOUT HIS METAL EXOSKELETON, OMMIN COLLAPSES LIKE AN ARKANIAN JELLYFISH!
 
 — Narration and Ommin, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 17 (Dark Horse Comics, 1994) †
 ```
+
+![Freedon Nadd Uprising #2 p16: King Ommin's green dark-side blast hurls Ulic and Nomi](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p16-ommin-blasts-ulic-nomi.jpg)
+![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p17-ulic-cuts-ommin.jpg)
 
 ### 25. The Companion's summary of the same fight: Ulic, bathed in the light side, fights off Ommin's darkness and cuts his armature.
 
@@ -256,6 +273,9 @@ I CAN DEFEAT YOU, REGARDLESS OF THE WEAPON, MANDALORE.
 
 — Ulic Qel-Droma to Mandalore, Tales of the Jedi: The Sith War #1, p. 14 (Dark Horse Comics, 1995–96) †
 ```
+
+![The Sith War #1 p13: Ulic vs Mandalore](../notes/materials/024-tales-of-the-jedi/panels/sw1-p13-ulic-shatters-basilisk.jpg)
+![The Sith War #1 p15: Mandalore: "A glorious combat, Ulic Qel-Droma. I cede"; Ulic: "I have a better fate in mind for you"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p15-mandalore-cedes-to-ulic.jpg)
 
 ### 27. The narration says Ulic's grasp of the Force is great, but Mandalore's skill in battle may be greater.
 
@@ -323,6 +343,9 @@ ULIC, I LOVE YOU! THAT'S WHY I'M DOING THIS!
 
 — Cay Qel-Droma to Ulic Qel-Droma, Tales of the Jedi: The Sith War #5, p. 22–24 (Dark Horse Comics, 1995–96) †
 ```
+
+![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p21-cay-crash-lands-ranger.jpg)
+![The Sith War #5 p24: Ulic kills Cay](../notes/materials/024-tales-of-the-jedi/panels/sw5-p24-ulic-kills-cay.jpg)
 
 ### 35. The KOTOR Campaign Guide calls Ulic and Cay's fight on Ossus a vicious duel.
 
@@ -394,6 +417,8 @@ GOOD WORK, ULIC!
 — Arca Jeth to Ulic Qel-Droma, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 19 (Dark Horse Comics, 1994) †
 ```
 
+![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
+
 ### 43. Ommin, collapsing, tells Ulic he too will go to the dark side.
 
 ```
@@ -414,6 +439,8 @@ AND THERE IS ANOTHER EVEN GREATER THAN YOU.
 — Freedon Nadd's spirit to Ulic Qel-Droma, Tales of the Jedi: Dark Lords of the Sith #1, p. 21–22 (Dark Horse Comics, 1994–95) †
 ```
 
+![Dark Lords of the Sith #1 p22: Exar disarms Crado](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p22-exar-disarms-crado.jpg)
+
 ### 45. At the Deneba assembly, Arca warns Ulic that the dark path leads only to destruction.
 
 ```
@@ -430,6 +457,8 @@ STANG. ULIC...I...I'LL NEVER SEE YOU AGAIN. I JUST KNOW IT.
 
 — Cay Qel-Droma to Ulic Qel-Droma, Tales of the Jedi: Dark Lords of the Sith #4, p. 13 (Dark Horse Comics, 1994–95) †
 ```
+
+![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p13-cay-never-see-you-again.jpg)
 
 ### 47. Nomi dissolves Aleema's illusions in Cinnagar and begs Ulic to leave with her because she loves him.
 
@@ -462,6 +491,8 @@ DARK LORD OF THE SITH!
 — Ancient Sith Lord's spirit to Exar Kun and Ulic Qel-Droma, Tales of the Jedi: Dark Lords of the Sith #6, p. 26 (Dark Horse Comics, 1994–95) †
 ```
 
+![Dark Lords of the Sith #6 p27: The ancient Sith spirit names Ulic Qel-Droma and Exar Kun the new Sith Lords](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p27-ulic-and-exar-sith-lords.jpg)
+
 ### 50. The spirit tells Exar that Ulic has taken the dark road too and will be his "first and foremost apprentice."
 
 ```
@@ -490,6 +521,9 @@ SEE WHAT HAS COME FROM YOUR OWN PRIDE AND YOUR APPETITE FOR REVENGE.
 
 — Nomi Sunrider to Ulic Qel-Droma, Tales of the Jedi: The Sith War #6, p. 4 (Dark Horse Comics, 1995–96) †
 ```
+
+![The Sith War #6 p4: Nomi: "Ulic, you are forever cursed for what you have done"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p04-nomi-ulic-forever-cursed.jpg)
+![The Sith War #6 p5: Nomi severs Ulic from the Force](../notes/materials/024-tales-of-the-jedi/panels/sw6-p05-nomi-severs-ulic.jpg)
 
 ### 53. Exar Kun, betrayed, says even he cannot fight the combined might of all the Jedi.
 
@@ -665,6 +699,8 @@ FOR MONTHS OMMIN'S OPPRESSIVE SITH MAGIC HAS INFECTED THE WILL OF ARCA'S JEDI PE
 — Ulic Qel-Droma and narration, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 7 (Dark Horse Comics, 1994) †
 ```
 
+![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p07-jedi-strength-returns.jpg)
+
 ### 73. DARK SIDE DRAIN ON ONDERON: Tott Doneeta says the dark side is eating at their life force.
 
 ```
@@ -688,6 +724,8 @@ Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin esc
 
 — Recap, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 1 (Dark Horse Comics, 1994) †
 ```
+
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 
 ### 76. OUTMATCHED BY THE DARK SIDE THAT TOOK ARCA: Ulic says that if the dark side could take Arca, it is too strong for them.
 
@@ -721,6 +759,8 @@ HOW WOULD HE KNOW SHE PLANNED THE WHOLE THING?
 
 — Narration, Tales of the Jedi: Dark Lords of the Sith #4, p. 21 (Dark Horse Comics, 1994–95) †
 ```
+
+![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p21-ulic-saves-aleema.jpg)
 
 ### 80. THE INFILTRATION PLAN: Ulic tells Nomi he will destroy the Krath from within.
 
@@ -763,6 +803,9 @@ THE JEDI KNIGHTS ARE ALL TOGETHER NOW, A MORE POWERFUL FORCE ARRAYED AGAINST ULI
 
 — Narration, Tales of the Jedi: The Sith War #2, p. 24 (Dark Horse Comics, 1995–96) †
 ```
+
+![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](../notes/materials/024-tales-of-the-jedi/panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
 
 ### 85. CAPTURED AFTER THE CORUSCANT RAID: The Dark Side Sourcebook says a band of Jedi captured Ulic and stripped him of his power while Aleema escaped.
 
@@ -852,3 +895,40 @@ She sought vengeance, and eventually flew to Rhen Var to settle scores. Seeing t
 
 — The Complete Star Wars Encyclopedia (Stephen J. Sansweet and Pablo Hidalgo, 2008) †
 ```
+
+## Comic Panels Without a Matching Entry
+
+*Panels from the old version of this file, or from the same comics, that no quoted entry above covers yet.*
+
+![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p07-exar-arca-refuses.jpg)
+![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
+![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
+![Dark Lords of the Sith #3 p5: The Jedi assembly on Deneba begins under Odan-Urr](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p05-deneba-assembly.jpg)
+![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p06-ulic-wound-deneba.jpg)
+![Dark Lords of the Sith #3 p20: Arca Jeth short-circuits the Krath war droids with the Force and saves Ulic](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p20-arca-short-circuits-droids.jpg)
+![Dark Lords of the Sith #4 p7: A Massassi disc strikes Exar Kun's head; his light side is blocked](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p07-massassi-disc-strikes-exar.jpg)
+![Dark Lords of the Sith #4 p8: The Massassi capture Exar Kun and bring him to Zythmnr](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p08-massassi-capture-exar.jpg)
+![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p09-zythmnr-the-one.jpg)
+![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
+![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p10-sadow-ship-and-lab.jpg)
+![Dark Lords of the Sith #5 p13: Nomi Sunrider must defend herself against the unexpectedly powerful Krath warriors](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p13-nomi-vs-krath-warriors.jpg)
+![Dark Lords of the Sith #5 p14: The Krath arsenal is obsolete; Satal proposes giving Ulic Qel-Droma command](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p14-krath-arsenal-obsolete.jpg)
+![Dark Lords of the Sith #5 p21: Nomi's battle meditation turns her Krath guards on each other](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p21-nomi-guards-turn.jpg)
+![Dark Lords of the Sith #5 p22: Ulic kills Norgor](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p22-ulic-kills-norgor.jpg)
+![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p25-ulic-kills-satal.jpg)
+![Dark Lords of the Sith #6 p19: Ulic Qel-Droma blasts Nomi Sunrider with Satal's Sith amulet](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p19-ulic-blasts-nomi-amulet.jpg)
+![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p22-dxun-entombment-arca.jpg)
+![The Sith War #1 p10: Exar Kun's 'ancient Jedi amulet' illusion to win over Ulic's Jedi](../notes/materials/024-tales-of-the-jedi/panels/sw1-p10-exar-amulet-illusion.jpg)
+![The Sith War #1 p17: Odan-Urr teaches Nomi the blocking technique: "a wall of light... rendering him unable to use Jedi powers"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p17-odan-urr-blocking-technique.jpg)
+![The Sith War #1 p19: Odan-Urr pushes Exar](../notes/materials/024-tales-of-the-jedi/panels/sw1-p19-odan-urr-pushes-exar.jpg)
+![The Sith War #1 p20: "Odan-Urr has gone to the Force, leaving the darkest power in the galaxy to walk away"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p20-odan-urr-gone.jpg)
+![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](../notes/materials/024-tales-of-the-jedi/panels/sw3-p04-vodo-staff-splits-rock.jpg)
+![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](../notes/materials/024-tales-of-the-jedi/panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
+![The Sith War #3 p16: Senate frozen by Sith spell](../notes/materials/024-tales-of-the-jedi/panels/sw3-p16-senate-frozen.jpg)
+![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](../notes/materials/024-tales-of-the-jedi/panels/sw3-p17-sylvar-claws-massassi.jpg)
+![The Sith War #3 p18: Exar Kun stops the Senate leader's staff bare-handed and grips his head](../notes/materials/024-tales-of-the-jedi/panels/sw3-p18-exar-grips-senate-leader.jpg)
+![The Sith War #3 p20: Exar Kun: "The Republic is not even worthy of the fight" over the slain Senate leader](../notes/materials/024-tales-of-the-jedi/panels/sw3-p20-senate-leader-killed.jpg)
+![The Sith War #6 p7: Oron Kira and the beast-riders defend Iziz against the flying war-mounts](../notes/materials/024-tales-of-the-jedi/panels/sw6-p07-oron-kira-beast-riders.jpg)
+![The Sith War #6 p8: Mandalore over Iziz: "Reinforcements have been launched from the Republic... we've got to hold on until they get here"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p08-mandalore-hold-until-reinforcements.jpg)
+![The Sith War #6 p9: "The primitive technology of the beast-riders of Onderon proves equal to the mechanical might of the Mandalorian war-mounts"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p09-beast-riders-vs-war-mounts.jpg)
+![The Sith War #6 p13: The explosion of the Cron stars sears the face of Ossus](../notes/materials/024-tales-of-the-jedi/panels/sw6-p13-cron-shockwave-ossus.jpg)

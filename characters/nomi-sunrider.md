@@ -26,6 +26,7 @@ Evidence file for Nomi Sunrider, Jedi of the Great Sith War and master of battle
 - [Statements from Other Characters](#statements-from-other-characters) (8)
 - [Author and Guide Statements](#author-and-guide-statements) (3)
 - [Limitations](#limitations) (9)
+- [Comic Panels Without a Matching Entry](#comic-panels-without-a-matching-entry) (17)
 
 ## Growth and Evolution
 
@@ -37,6 +38,9 @@ DURING THE WEEKS THAT FOLLOW, NOMI ADVANCES RAPIDLY IN THE JEDI WAY...UNTIL ONE 
 — Narration, Tales of the Jedi: The Freedon Nadd Uprising #1, p. 22 (Dark Horse Comics, 1994) †
 ```
 
+![Freedon Nadd Uprising #1 p21: Nomi activates her new lightsaber](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p21-nomi-lightsaber.jpg)
+![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p22-onderon-rescue-team.jpg)
+
 ### 2. A Jedi of only a few months, Nomi is already adept in the battle skills she learned on Ossus; her greatest talent is the internal visualization she used on Ambria.
 
 ```
@@ -45,6 +49,8 @@ BUT NOMI'S GREATEST TALENT, IS THE INTERNAL VISUALIZATION SHE USED TO DEFEAT MAS
 
 — Narration, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 5 (Dark Horse Comics, 1994) †
 ```
+
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 
 ### 3. The Complete Star Wars Encyclopedia says Nomi trained with Arca Jeth in battle meditation, gaining physical strength and self-confidence.
 
@@ -81,6 +87,9 @@ SOMETHING MASTER ODAN-URR TAUGHT ME, A FORCE-BLOCKING TECHNIQUE TO NEUTRALIZE AN
 — Nomi Sunrider to Tott Doneeta, Tales of the Jedi: The Sith War #6, p. 5 (Dark Horse Comics, 1995–96) †
 ```
 
+![The Sith War #6 p4: Nomi: "Ulic, you are forever cursed for what you have done"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p04-nomi-ulic-forever-cursed.jpg)
+![The Sith War #6 p5: Nomi severs Ulic from the Force](../notes/materials/024-tales-of-the-jedi/panels/sw6-p05-nomi-severs-ulic.jpg)
+
 ### 7. Odan-Urr explains the technique to Nomi: a wall of light that blinds an enemy to the Force, permanently if she chooses, "the most devastating attack possible using the powers of the light side."
 
 ```
@@ -89,6 +98,8 @@ AND IT IS THE MOST DEVASTATING ATTACK POSSIBLE USING THE POWERS OF THE LIGHT SID
 
 — Odan-Urr to Nomi Sunrider, Tales of the Jedi: The Sith War #1, p. 17 (Dark Horse Comics, 1995–96) †
 ```
+
+![The Sith War #1 p17: Odan-Urr teaches Nomi the blocking technique: "a wall of light... rendering him unable to use Jedi powers"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p17-odan-urr-blocking-technique.jpg)
 
 ## Force Sense and Precognition
 
@@ -101,6 +112,8 @@ I...SEE YOU...I KNOW... WHAT YOU ARE...
 — Narration and Nomi Sunrider, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 8 (Dark Horse Comics, 1994) †
 ```
 
+![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p08-ommin-strikes-nomi.jpg)
+
 ### 9. Nomi senses that Ommin is still watching them after his troops are beaten.
 
 ```
@@ -108,6 +121,9 @@ IT'S NOT OVER, OSS--OMMIN STILL HAS HIS EYE ON US!
 
 — Nomi Sunrider to Oss Wilum, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 15 (Dark Horse Comics, 1994) †
 ```
+
+![Freedon Nadd Uprising #2 p15: Cay cleaves the Sith war droid](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p15-cay-cleaves-war-droid.jpg)
+![Freedon Nadd Uprising #2 p16: King Ommin's green dark-side blast hurls Ulic and Nomi](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p16-ommin-blasts-ulic-nomi.jpg)
 
 ### 10. Nomi tells Ulic that someone very powerful lunged at her through the Force when she tried to meditate the fight, and describes Ommin on his armature.
 
@@ -167,6 +183,9 @@ NOW...COME WITH US! LEAVE THIS PLACE!
 — Nomi Sunrider, Tales of the Jedi: Dark Lords of the Sith #6, p. 16 (Dark Horse Comics, 1994–95) †
 ```
 
+![Dark Lords of the Sith #6 p16: Nomi's battle meditation dissolves Aleema's illusions in Cinnagar](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p16-nomi-dissolves-illusions.jpg)
+![Dark Lords of the Sith #6 p17: Oss Wilum takes out a chaos fighter and senses Exar Kun: "That man is a Jedi... immensely strong in the Force"](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p17-oss-wilum-chaos-fighter.jpg)
+
 ### 16. Nomi tears apart Aleema's illusion with "fingers of bright Force."
 
 ```
@@ -174,6 +193,9 @@ FINGERS OF BRIGHT FORCE
 
 — Narration, Tales of the Jedi: Dark Lords of the Sith #2, p. 24–25 (Dark Horse Comics, 1994–95) †
 ```
+
+![Dark Lords of the Sith #2 p25: Nomi's "fingers of bright Force" tear apart Aleema's illusion](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p25-nomi-fingers-of-force.jpg)
+![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
 
 ## Battle Meditation and Command
 
@@ -185,6 +207,8 @@ HER OPPONENTS ARE UNAWARE THAT HER JEDI BATTLE MEDITATION WOULD BE ENOUGH TO DEF
 
 — Narration, Tales of the Jedi: Dark Lords of the Sith #5, p. 13 (Dark Horse Comics, 1994–95) †
 ```
+
+![Dark Lords of the Sith #5 p13: Nomi Sunrider must defend herself against the unexpectedly powerful Krath warriors](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p13-nomi-vs-krath-warriors.jpg)
 
 ### 18. The Companion's summary of Nomi's saga: she uses battle meditation to make Bogga's attackers turn on each other over the Adegan crystals.
 
@@ -265,6 +289,9 @@ AND SO THE LITTLE ONE...ALSO A GREAT JEDI.
 
 — Vodo-Siosk Baas, about Nomi Sunrider, Tales of the Jedi: The Freedon Nadd Uprising #1, p. 19 (Dark Horse Comics, 1994) †
 ```
+
+![Freedon Nadd Uprising #1 p18: Thon of Ambria brings his new apprentice Nomi to Ossus](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p18-thon-brings-nomi-ossus.jpg)
+![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
 
 ### 27. Master Thon tells Nomi: "Your spirit is rushing toward destiny!"
 
@@ -422,6 +449,8 @@ LOOKS LIKE WE'VE DEFEATED EXAR KUN...
 — Nomi Sunrider, Tales of the Jedi: The Sith War #6, p. 23 (Dark Horse Comics, 1995–96) †
 ```
 
+![The Sith War #6 p22: Jedi wall of light over Yavin 4](../notes/materials/024-tales-of-the-jedi/panels/sw6-p22-wall-of-light-yavin.jpg)
+
 ### 45. REFUSES THE LIGHTSABER: The Companion says Ood Bnar's words were hard for Nomi to accept, because the lightsaber remained a symbol of death to her.
 
 ```
@@ -429,3 +458,25 @@ But Nomi found it difficult to accept Ood Bnar's words. In her mind, the Iightsa
 
 — Tales of the Jedi Companion (West End Games, 1996), p. 26 †
 ```
+
+## Comic Panels Without a Matching Entry
+
+*Panels from the old version of this file, or from the same comics, that no quoted entry above covers yet.*
+
+![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p07-exar-arca-refuses.jpg)
+![Dark Lords of the Sith #2 p13: An illusory Krath creature looms over the Republic fleet at Koros Major](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p13-krath-illusion-creature.jpg)
+![Dark Lords of the Sith #2 p14: Nomi Sunrider sees through the Krath illusions: "We are being assailed with the power of the dark side"](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p14-nomi-sees-through-illusions.jpg)
+![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
+![Dark Lords of the Sith #5 p21: Nomi's battle meditation turns her Krath guards on each other](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p21-nomi-guards-turn.jpg)
+![Dark Lords of the Sith #6 p6: Dace Diath uses the Force to lower himself from his crashing fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p06-dace-levitates-down.jpg)
+![Dark Lords of the Sith #6 p12: Cinnagar raid: Shoaneb Culu flies by the Force and hits the defenses](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p12-shoaneb-cinnagar-raid.jpg)
+![Dark Lords of the Sith #6 p13: Cinnagar raid: Dace Diath goes after the palace gun emplacement](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p13-dace-gun-emplacement.jpg)
+![Dark Lords of the Sith #6 p14: Oron Kira's beast-riders join the Cinnagar raid](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p14-oron-kira-beast-riders.jpg)
+![Dark Lords of the Sith #6 p19: Ulic Qel-Droma blasts Nomi Sunrider with Satal's Sith amulet](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p19-ulic-blasts-nomi-amulet.jpg)
+![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](../notes/materials/024-tales-of-the-jedi/panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
+![The Sith War #4 p8: Ambria lake beasts battle](../notes/materials/024-tales-of-the-jedi/panels/sw4-p08-ambria-beasts.jpg)
+![The Sith War #6 p7: Oron Kira and the beast-riders defend Iziz against the flying war-mounts](../notes/materials/024-tales-of-the-jedi/panels/sw6-p07-oron-kira-beast-riders.jpg)
+![The Sith War #6 p8: Mandalore over Iziz: "Reinforcements have been launched from the Republic... we've got to hold on until they get here"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p08-mandalore-hold-until-reinforcements.jpg)
+![The Sith War #6 p9: "The primitive technology of the beast-riders of Onderon proves equal to the mechanical might of the Mandalorian war-mounts"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p09-beast-riders-vs-war-mounts.jpg)
+![The Sith War #6 p13: The explosion of the Cron stars sears the face of Ossus](../notes/materials/024-tales-of-the-jedi/panels/sw6-p13-cron-shockwave-ossus.jpg)
