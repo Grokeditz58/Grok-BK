@@ -14,14 +14,12 @@
 > Kira's mistakes in training became the stuff of legend, and several fellow students ended up in the infirmary after sparring with her.
 — Source: The Jedi Order; Kira Carsen; Jaric Kaedan — Kira Carsen.
 Note (our notes, around the quote): Kira Carsen; Jaric Kaedan — Kira Carsen: "Kira's mistakes in training became the stuff of legend, and several fellow students ended up in the infirmary after sparring with her." Source: The Old Republic Encyclopedia, p.95, sidebar
-![Quote image: The Old Republic Encyclopedia, p.95 — full quote as printed](quotes/tore-p95-kira-s-mistakes-in-training-became.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:325`
 
 > NOTABLE TOGRUTAS: Jedi Master Bela Kiwiiks, Master to Kira Carsen; Master Dar'Nala, former Master to Satele Shan
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Bela Kiwiiks; Kira Carsen; Dar'Nala; Satele Shan — Togruta data box.
 Note (our notes, around the quote): Bela Kiwiiks; Kira Carsen; Dar'Nala; Satele Shan — Togruta data box: "NOTABLE TOGRUTAS: Jedi Master Bela Kiwiiks, Master to Kira Carsen; Master Dar'Nala, former Master to Satele Shan" Source: The Old Republic Encyclopedia, p.255, sidebar
-![Quote image: The Old Republic Encyclopedia, p.255 — full quote as printed](quotes/tore-p255-notable-togrutas-jedi-master-bela-kiwiiks.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:22`
 
 ## https://starwars.fandom.com/wiki/Darth_Angral ; https://starwars.fandom.com/wiki/Darth_Angral/Legends

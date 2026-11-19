@@ -14,7 +14,6 @@
 > Admiral Ackbar won his greatest victory at Endor, where he defeated Admiral Piett and routed the best elements of the mighty Imperial fleet.
 — Source: scan pages 1–30; Admiral Ackbar. POV: Admiral Ackbar, about Admiral Piett.
 Note (our notes, around the quote): Admiral Ackbar: "Admiral Ackbar won his greatest victory at Endor, where he defeated Admiral Piett and routed the best elements of the mighty Imperial fleet." Source: The New Essential Guide to Characters, p.16
-![Quote image: The New Essential Guide to Characters, p.16 — full quote as printed](quotes/negc-p16-admiral-ackbar-won-his-greatest-victory.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:74`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)

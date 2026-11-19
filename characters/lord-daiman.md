@@ -18,7 +18,6 @@ Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:385`
 > Odion is a nihilist, looking to cause destruction on the greatest scale he can. He's the kid that loves to kick over anthills. Daiman takes the Sith penchant for self-glorification to an extreme. He's a solipsist and doesn't believe anyone else is alive.
 — Source: Star Wars Insider #116 (2010); Lord Daiman — entry/section: Miller on Odion and Daiman.
 Note (our notes, around the quote): Lord Daiman — entry/section: Miller on Odion and Daiman: ""Odion is a nihilist, looking to cause destruction on the greatest scale he can. He's the kid that loves to kick over anthills. Daiman takes the Sith penchant for self-glorification to an extreme. He's a solipsist and doesn't believe anyone else is alive." —John Jackson Miller, Star Wars Insider 116, p. 74" Source: *Star Wars Insider #116* (2010), scan p.74
-![Quote image: *Star Wars Insider #116* (2010), scan p.74 — full quote as printed](quotes/ins116-s74-odion-is-a-nihilist-looking-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:389`
 
 ## Star Wars Insider #123 (2011)

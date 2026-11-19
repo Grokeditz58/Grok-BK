@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Maladi: "Dorn returned to Sith space, and was killed by Maladi for his failure." Source: The Complete Star Wars Encyclopedia, Vol. I, p.201
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.201 — full quote as printed](quotes/v1-p201-dorn-returned-to-sith-space-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:133`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -38,7 +37,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > OUR LORD KEEPS HIS OWN SECRETS, AND WE, AS LOYAL SITH, ARE BOUND TO OBEY WITHOUT QUESTION.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Maladi; Darth Krayt — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Maladi; Darth Krayt — entry/section: Pull quote: ""OUR LORD KEEPS HIS OWN SECRETS, AND WE, AS LOYAL SITH, ARE BOUND TO OBEY WITHOUT QUESTION." —DARTH MALADI" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174 — full quote as printed](quotes/d719-s174-our-lord-keeps-his-own-secrets.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:441`
 
 ## Star Wars Insider #88 (2006)
@@ -587,10 +585,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:12`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): On Coruscant, Krayt, Maladi, Nihl and Wyyrlok enter the throne room, cut down the Imperial Knights and kill "Roan Fel". The victim turns out to be a double. Krayt proclaims himself Emperor (p30–35). Krayt is physically spent; he senses a "DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH" and vows to find that Jedi (p36).
 Context: #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like
-![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
-![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p31 Krayt confronts "Fel"](../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+![p32 Krayt cuts down Imperial Knights](../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+![p35 Krayt blasts Maladi](../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p36 Krayt overextended; senses Cade's healing](../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:44`
 
 - Note (summary from our notes, not a quotation): Roan Fel confronts Moff Nyna Calixte: the Sith framed the Vong, and she and Veed helped plan it (p149–152). Fel ordered that the Jedi be allowed to withdraw to Ossus (p154). After the massacre, Maladi tells Calixte that Krayt will take the throne (p155–156). Calixte warns Fel. An Imperial Knight Force-chokes and throws her, and she claims she can shield her thoughts from Fel (p160–162). Mohrgan and the Knights decoy for Fel's double; Krayt kills them all in a wordless sequence (p163–166). Fel feels them die and escapes (p167). Maladi makes Calixte report to her (p169–170).
@@ -599,12 +597,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:53`
 
 - Note (summary from our notes, not a quotation): Maladi breaks Hosk with droids and her will (p197–200). Calixte reactivates "Morrigan Corde", her own alias (p201). Fel sends Draco and Krieg to escort Bovark to Admiral Stazi on the Wheel (p204–210). Corde brawls through thugs and captures Sith-trained agent Jor Torlin (p211–221). She uses C.O.L.D. limpet droids to sabotage the Imperial–GA talks. Draco and Krieg deflect fire, and Draco Force-pushes Admiral Stazi off Bovark (p225–231; corrected 2026-10-21: no guards are pushed). On Ossus, Corde kills Torlin with a nerve-toxin backup plan (p232–237). A flashback reveals she is Cade's mother (p238–240).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p200](009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
-![p201](009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
-![p236](009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
-![p238](009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
-![p239](009-legacy-book-1-panels/p239-corde-cade-trapped-by-skywalker-name.jpg)
+![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p200](../notes/materials/009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
+![p201](../notes/materials/009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
+![p236](../notes/materials/009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
+![p238](../notes/materials/009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
+![p239](../notes/materials/009-legacy-book-1-panels/p239-corde-cade-trapped-by-skywalker-name.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:61`
 
 > ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF. *(p245–249; corrected 2026-10-21)*
@@ -618,12 +616,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:74`
 
 - Note (summary from our notes, not a quotation): #17: Nihl and Maladi discuss succession and Krayt's "AFFLICTION" (p377). Talon trains Cade (p378–381, p388–393). Krayt and Wyyrlok discuss turning Cade (p382). Corde infiltrates the Temple with Vong bugs (p387). The Jedi mind-trick the troopers on Ossus. Stryfe orders the ruins bombarded (p396–398).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p377](009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
-![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
-![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
-![p387](009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
+![p377](../notes/materials/009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
+![p379](../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+![p380](../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+![p381 dark-side self-healing](../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p382](../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p387](../notes/materials/009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:76`
 
 > Maladi: "HE WAS A DOUBLE!" · Krayt: "THE REAL ROAN FEL COULD HAVE RESISTED! HE IS A FULLY TRAINED JEDI LIKE HIS IMPERIAL KNIGHTS!" · "THE TRUE ROAN FEL KNEW WE WERE COMING. HE SMELLED A TRAP AND HAS NOW ESCAPED..." · Nihl: "BY HIMSELF, FEL IS NOTHING!..."
@@ -632,7 +630,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:76`
 Context: 4. Punishes Maladi with a Force blast; rates Fel. p35 (#1 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:113`
 
-- Note (summary from our notes, not a quotation): ![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+- Note (summary from our notes, not a quotation): ![p35 Krayt blasts Maladi](../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p35 Krayt blasts Maladi — `p035-krayt-blasts-maladi-fel-fully-trained.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:116`
@@ -649,7 +647,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:171`
 Context: 12. Tests Cade's power: coral seeds in both friends. p339 (#15 Claws)–p347 (#15 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:185`
 
-- Note (summary from our notes, not a quotation): ![p342 Krayt narrates Maladi's coral seeds](009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
+- Note (summary from our notes, not a quotation): ![p342 Krayt narrates Maladi's coral seeds](../notes/materials/009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p342 Krayt narrates Maladi's coral seeds — `p342-maladi-coral-seeds-krayt-narration.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:191`
@@ -666,7 +664,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:495`
 Context: 15. HEALS TWO PEOPLE AT ONCE: accelerated coral seeds (Jariah and Deliah). p343 (#15 Claws)–p346 (#15 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:502`
 
-- Note (summary from our notes, not a quotation): ![p345 Maladi and Krayt react](009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
+- Note (summary from our notes, not a quotation): ![p345 Maladi and Krayt react](../notes/materials/009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p345 Maladi and Krayt react — `p345-krayt-see-limit-of-his-power.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:508`
@@ -688,7 +686,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:707`
 > LORD KRAYT HAS DETERMINED IT IS NOT. ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Gatekeeper over the Hands and Maladi. p350 (#15 Claws).
 Note (our notes, around the quote): Gatekeeper over the Hands and Maladi. p350 (#15 Claws): "LORD KRAYT HAS DETERMINED IT IS NOT. ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER."
-![p350 Wyyrlok: ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER](009-legacy-book-1-panels/p350-nihl-wyyrlok-gatekeeper-only-talon-prisoner.jpg) *(p350)*
+![p350 Wyyrlok: ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER](../notes/materials/009-legacy-book-1-panels/p350-nihl-wyyrlok-gatekeeper-only-talon-prisoner.jpg) *(p350)*
 Our notes: `notes/materials/009-legacy-book-1.md:724`
 
 > HE HAS KEPT HIS IMPERIAL KNIGHTS FROM PARTICIPATING, AND HAS NEVER EMBRACED WE SITH AS HIS ALLIES.
@@ -696,7 +694,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:724`
 > MY MASTER, DARTH KRAYT, BELIEVES IT IS TIME ANOTHER SAT ON THE THRONE.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Tells Calixte Krayt will take the throne; Fel kept the Knights out of the war. p156 (#8 Allies) — "HE HAS KEPT HIS IMPERIAL KNIGHTS FROM PARTICIPATING, AND HAS NEVER EMBRACED WE SITH AS HIS ALLIES." · "MY MASTER, DARTH KRAYT, BELIEVES IT IS TIME ANOTHER SAT ON THE THRONE."
-![p156](009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
+![p156](../notes/materials/009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:735`
 
 > I WONDER... IF I DISSECTED YOUR MIND, WOULD I LEARN THE TRUTH ABOUT YOU?
@@ -710,7 +708,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:735`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Threatens Calixte; claims a "DIFFERENT BREED". p170 (#8 Allies).
 Note (our notes, around the quote): Threatens Calixte; claims a "DIFFERENT BREED". p170 (#8 Allies) — "I WONDER... IF I DISSECTED YOUR MIND, WOULD I LEARN THE TRUTH ABOUT YOU?" · "HAD YOU FORCE ABILITY, YOU MIGHT HAVE MADE A GOOD SITH -- UNDER DARTH SIDIOUS." · "UNDER DARTH KRAYT, WE ARE A DIFFERENT BREED." · Calixte (aside): "SO YOU BELIEVE, LADY MALADI -- ... -- AND THAT WILL BE THE KNIFE THAT KILLS YOU..."
-![p170](009-legacy-book-1-panels/p170-maladi-different-breed-calixte-knife.jpg)
+![p170](../notes/materials/009-legacy-book-1-panels/p170-maladi-different-breed-calixte-knife.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:736`
 
 > IF YOUR WILL WAS STRONGER, JEDI, YOUR DEFIANCE WOULD MEAN MORE. YOU WERE TRAINED, HOWEVER, AS A HEALER. YOUR WILL IS NO MATCH FOR MINE.
@@ -720,8 +718,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:736`
 > WHY DOES MY MASTER REQUIRE YOU, SKYWALKER? AND WHY DOES HE NEED YOU ALIVE?
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Breaks the Jedi healer Hosk's will. p198 (#9 Trust Issues)–p200 (#9 Trust Issues) — "IF YOUR WILL WAS STRONGER, JEDI, YOUR DEFIANCE WOULD MEAN MORE. YOU WERE TRAINED, HOWEVER, AS A HEALER. YOUR WILL IS NO MATCH FOR MINE." · "FROM NOW ON, ANYTHING I OR ANY OTHER SITH ASKS, YOU WILL ANSWER." · (p200) "WHY DOES MY MASTER REQUIRE YOU, SKYWALKER? AND WHY DOES HE NEED YOU ALIVE?"
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p200](009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
+![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p200](../notes/materials/009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:737`; `notes/materials/012-legacy-vol-2-shards.md:460`
 
 > LIKE MUNTO CODRU, KILL THE LEADER AND THE REST WILL COLLAPSE.
@@ -729,7 +727,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:737`; `notes/materials/012-lega
 > ASSUMING ALL OF OUR FORCES WOULD REMAIN LOYAL, WHICH IS DEBATABLE.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Orders the hit on Fel. p251 (#13 Ready to Die) — Krul: "LIKE MUNTO CODRU, KILL THE LEADER AND THE REST WILL COLLAPSE." Maladi says dislodging Fel "WOULD TAKE MOST OF OUR FLEET" — "ASSUMING ALL OF OUR FORCES WOULD REMAIN LOYAL, WHICH IS DEBATABLE."
-![p251](009-legacy-book-1-panels/p251-maladi-krul-kill-the-leader.jpg)
+![p251](../notes/materials/009-legacy-book-1-panels/p251-maladi-krul-kill-the-leader.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:738`
 
 > YOUR STRATAGEM FAILED, MALADI.
@@ -738,45 +736,45 @@ Our notes: `notes/materials/009-legacy-book-1.md:738`
 > IT WENT AS I EXPECTED, MY LORD.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Executes Governor Dorn on the spot (lightsaber through the body) in front of Krayt. p261 (#13 Ready to Die). Krayt asks Dorn whether he has spoken to anyone else; then Maladi, running him through: "GOOD." · Krayt: "YOUR STRATAGEM FAILED, MALADI." · Maladi: "IT WENT AS I EXPECTED, MY LORD." *(Moved here from Talon 6, 2026-10-21.)*
-![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+![p261 Maladi kills Dorn](../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:739`
 
 - Note (summary from our notes, not a quotation): Coral-seed bio-weapon (dark-side-accelerated). p342 (#15 Claws) (Krayt narration; see Krayt 12). Krayt blasts her for the Fel double (p35 (#1 Broken)).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p156](009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
-![p170](009-legacy-book-1-panels/p170-maladi-different-breed-calixte-knife.jpg)
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p200](009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
-![p251](009-legacy-book-1-panels/p251-maladi-krul-kill-the-leader.jpg)
-![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+![p156](../notes/materials/009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
+![p170](../notes/materials/009-legacy-book-1-panels/p170-maladi-different-breed-calixte-knife.jpg)
+![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p200](../notes/materials/009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
+![p251](../notes/materials/009-legacy-book-1-panels/p251-maladi-krul-kill-the-leader.jpg)
+![p261 Maladi kills Dorn](../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:740`
 
-- Note (summary from our notes, not a quotation): ![p156](009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
+- Note (summary from our notes, not a quotation): ![p156](../notes/materials/009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p156 — `p156-maladi-fel-kept-knights-out-krayt-throne.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:742`
 
-- Note (summary from our notes, not a quotation): ![p170](009-legacy-book-1-panels/p170-maladi-different-breed-calixte-knife.jpg)
+- Note (summary from our notes, not a quotation): ![p170](../notes/materials/009-legacy-book-1-panels/p170-maladi-different-breed-calixte-knife.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p170 — `p170-maladi-different-breed-calixte-knife.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:745`
 
-- Note (summary from our notes, not a quotation): ![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+- Note (summary from our notes, not a quotation): ![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p198 — `p198-maladi-healer-will-no-match-for-mine.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:748`
 
-- Note (summary from our notes, not a quotation): ![p200](009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
+- Note (summary from our notes, not a quotation): ![p200](../notes/materials/009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p200 — `p200-maladi-why-does-master-need-you-alive.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:751`
 
-- Note (summary from our notes, not a quotation): ![p251](009-legacy-book-1-panels/p251-maladi-krul-kill-the-leader.jpg)
+- Note (summary from our notes, not a quotation): ![p251](../notes/materials/009-legacy-book-1-panels/p251-maladi-krul-kill-the-leader.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p251 — `p251-maladi-krul-kill-the-leader.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:754`
 
-- Note (summary from our notes, not a quotation): ![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+- Note (summary from our notes, not a quotation): ![p261 Maladi kills Dorn](../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p261 Maladi kills Dorn — `p261-maladi-kills-dorn-krayt-stratagem-failed.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:757`
@@ -793,12 +791,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:761`
 > THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE. *(p311)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Hosk Trey'lis (Bothan healer). Force-pushes Syn on Lok (p48). Senses Cade's strength (p61). Maladi breaks his will (p198). In captivity (p327): "THE ANGER IN YOU IS LIKE A DAGGER IN THE FORCE, YOUNG SKYWALKER." · "MY TRUE TALENT IS AS A HEALER AND I CAN SENSE SOMETHING... BROKEN IN YOU." Krayt kills him (p414–415). Wyyrlok: "THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE." (p311): a trained Jedi healer failed where Cade is Krayt's hope.
-![p327](009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
-![p61](009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
-![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+![p327](../notes/materials/009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
+![p61](../notes/materials/009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
+![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p311](../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p414 Krayt runs Hosk through](../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+![p415](../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:954`
 
 - Note (summary from our notes, not a quotation): | 3 | Krayt (+ Maladi, Nihl, Wyyrlok) vs Imperial Knights incl. Mohrgan | Coruscant throne room, 130 | p32, p164–166 (#1, #8) | Krayt kills them all, solo in the p166 sequence | Knights forewarned (p162); Krayt "OVEREXTENDED" afterwards (p36) |
@@ -829,15 +827,15 @@ Our notes: `notes/materials/009-legacy-book-1.md:1081`
 
 - Note (summary from our notes, not a quotation): Darth Maladi: head of intelligence, assassination and torture (p197, handbook p449). She is kept outside with Nihl (p351).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
-![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1083`
 
 > The head of the Sith's intelligence organization, Maladi is also an expert in methods of assassination and torture.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Darth Maladi (p449).
 Our notes: `notes/materials/009-legacy-book-1.md:1126`
 
-- Note (summary from our notes, not a quotation): ![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+- Note (summary from our notes, not a quotation): ![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p449 handbook: Talon, Nihl, Maladi — `p449-handbook-talon-nihl-maladi.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1150`
@@ -847,8 +845,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1150`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Counter: the same arc shows him killing about six forewarned Knights solo (p166) and blasting Maladi (p35). Fatigue is a post-fight caveat, and Wyyrlok's "A DECADE OR TWO PERHAPS" frames it as the coral-seed disease, not low output. Best use: a stamina or "won't go all-out for long" stipulation for 130–137 ABY Krayt.
 Context: "Krayt was fatigued by the Imperial Knights" (debate #6, DB77).
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
-![p166 Krayt vs a squad of Imperial Knights (wordless)](009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
+![p35 Krayt blasts Maladi](../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p166 Krayt vs a squad of Imperial Knights (wordless)](../notes/materials/009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1181`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt / A'Sharad Hett, Darth Talon, Darth Nihl, Darth Wyyrlok (III), Darth Maladi, Darth Stryfe, Darth Maleval, Darth Krul, Darth Ruyn.
@@ -879,7 +877,7 @@ Our notes: `notes/materials/010-legacy-war.md:57`
 > MASS MURDER IS SOMETHING THE SITH DO.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Bastion: Maladi and Omega Red (p32–34). The Borosk front collapses. Chalk shows Fel the prisoner Maladi, half-mad from Cade's mind attack. She offers "OMEGA RED" for "THE HEAD OF CADE SKYWALKER". Fel refuses ("MASS MURDER IS SOMETHING THE SITH DO.").
-![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:95`
 
 - Note (summary from our notes, not a quotation): Bastion (p92). Fel orders Maladi to make the toxin, with Cade's death as her conditional price.
@@ -898,7 +896,7 @@ Our notes: `notes/materials/010-legacy-war.md:235`
 
 > PROMISES KEPT. IT IS DONE, MY LORD KRAYT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p108 Maladi.
-Note (our notes, around the quote): ![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+Note (our notes, around the quote): ![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 (*Panel: p108 — `p108-maladi-promises-kept-lord-krayt.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:244`
 
@@ -913,7 +911,7 @@ Our notes: `notes/materials/010-legacy-war.md:244`
 >
 > I WANT THE HEAD OF CADE SKYWALKER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p33 (#2).
-![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:608`
 
 - Note (summary from our notes, not a quotation): Cade's earlier mind attack on her is her claim; the attack itself is off-page.
@@ -923,7 +921,7 @@ Our notes: `notes/materials/010-legacy-war.md:609`
 
 > AND MY PRICE? CADE SKYWALKER. DEAD.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p92 (#4).
-![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
+![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](../notes/materials/010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:610`
 
 > IT WILL WIPE OUT ALL LIFE ON AN ENTIRE WORLD WITHIN A MATTER OF BREATHS.
@@ -931,16 +929,16 @@ Our notes: `notes/materials/010-legacy-war.md:610`
 > PROMISES KEPT. IT IS DONE, MY LORD KRAYT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p108 (#5).
 Note (our notes, around the quote): p108 (#5): "IT WILL WIPE OUT ALL LIFE ON AN ENTIRE WORLD WITHIN A MATTER OF BREATHS." Then, alone: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT." She discharges lightning from her fingertips into a wall console. The console's purpose is UNCLEAR (signal or sabotage).
-![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:611`; `notes/materials/010-legacy-war.md:1039`
 
 - Note (summary from our notes, not a quotation): p134 (#6): a red-faced Sith woman with a vial in a lab illustrates Nihl's "INFILTRATE GOVERNMENTS" line. She is not named on the page; Maladi by reading.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:612`
 
-- Note (summary from our notes, not a quotation): ![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+- Note (summary from our notes, not a quotation): ![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p33 — `p033-maladi-omega-red-offer.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:614`
@@ -952,8 +950,8 @@ Our notes: `notes/materials/010-legacy-war.md:617`
 - Note (summary from our notes, not a quotation): p108 plus Krayt's p123 line ("BY DESIGN, WE ARE IMMUNE") show the "capture" was Krayt's plan.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Scaling (ANALYSIS):
-![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
 Our notes: `notes/materials/010-legacy-war.md:618`
 
 > Maladi's capture had been arranged by Krayt
@@ -965,14 +963,14 @@ Our notes: `notes/materials/010-legacy-war.md:619`
 
 > WE ARE AGREED, OR YOU DIE NOW.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p92 Fel and Maladi.
-Note (our notes, around the quote): ![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
+Note (our notes, around the quote): ![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](../notes/materials/010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
 (*Panel: p92 — `p092-fel-maladi-price-cade-dead.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:667`
 
 - Note (summary from our notes, not a quotation): Maladi, Krayt's agent inside Bastion (p108).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Others:
-![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1009`
 
 - Note (summary from our notes, not a quotation): Wyyrlok III, Saarai, Talon, Nihl, Stryfe, Havok, Maladi, Rauder and the Sith troopers.
@@ -1005,7 +1003,7 @@ Our notes: `notes/materials/010-legacy-war.md:1253`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Sith rank order by the numbers: Krayt CL20 (UtF +22) > Wyyrlok III CL16 (UtF +20) ≈ Nihl CL16 (UtF +15, but the best Sith duelist line after Krayt: +21, 2d10+10) > Azard CL15 / Maladi CL15 > Talon CL13 / Maleval CL13. Talon is statted barely above the generic Imperial Knight (CL11), despite the bio calling her "one of the most formidable lightsaber duelists in the Sith Order" (p173–174, p163).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 
 > Imperial Knights are every bit as capable in the use of the Force as their Jedi counterparts, though their training has considerably more martial focus *(p44)*
@@ -1015,8 +1013,8 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): The Imperial Knights are pitched as Jedi-equivalent in the Force: "Imperial Knights are every bit as capable in the use of the Force as their Jedi counterparts, though their training has considerably more martial focus" (p44). They are "among the most talented and dangerous Force-users in the galaxy" (p163). Draco (CL15 Jedi 7/IK 8, UtF +19, 137 hp, lightsaber +21) is statted at Sith-Lord level, equal in CL to Azard and Maladi.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:36`
 
 - Note (summary from our notes, not a quotation): | 7 | Darth Maladi | p171 | 15 | Jedi 3 / noble 5 / Sith apprentice 4 / Sith Lord 3 | +19 | 29 (ff 28) / 28 / 30 | 97 (28), DR 10 | 14 | 2 / 7 | +14 (2d8+7) |
@@ -1028,30 +1026,30 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:122`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:370`
 
 > considers herself to be a 'true' Sith Lord, meaning that she (like Darth Talon) was born and raised on Korriban in the Sith tradition.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; She.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:372`
 
 > Darth Maladi also serves as Darth Krayt's personal physician.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:374`
 
 > Krayt's spymaster and the head of Sith Intelligence
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p51 calls her.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p051-many-of-the-sith-in-darth.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p051-many-of-the-sith-in-darth.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:376`
 
 - Note (summary from our notes, not a quotation): CL 15; Devaronian Jedi 3/noble 5/Sith apprentice 4/Sith Lord 3. Destiny 2; Force 7; Dark Side 14.
@@ -1083,12 +1081,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:383`
   — Source: (debate #35) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:384`
 
-- Note (summary from our notes, not a quotation): ![p171 Maladi bio](011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p171 Maladi bio](../notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p171 Maladi bio — `p171-maladi-bio-true-sith.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:386`
 
-- Note (summary from our notes, not a quotation): ![p171 Darth Maladi CL 15](011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p171 Darth Maladi CL 15](../notes/materials/011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p171 Darth Maladi CL 15 — `p171-darth-maladi-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:389`
@@ -1134,10 +1132,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:44`
 
 - Note (summary from our notes, not a quotation): #9: Maladi breaks the Jedi healer Hosk Trey'lis with interrogator droids and her will (p58–60). Krayt wants Cade "ALIVE"; Maladi doesn't know why (p61). Calixte tells Veed that Maladi's top agent is "JOR TOLIN" (sic; Torlin elsewhere), Sith-raised but lacking "SUFFICIENT FORCE SENSITIVITY", and reactivates "Morrigan Corde" (p62). She spots Cade on the Wheel's security vids (p63–64). On Bastion, Fel punishes Draco and Krieg for their rescue mission with medals and the most dangerous assignments, and sends them to escort Capt. Bovark to GA Admiral Gar Stazi on the Wheel (p65–67). Talks begin (p68–70). The two Knights sense the GA guards' concealed blasters (p71). On the Wheel's lower levels, Torlin fights a gang that Corde set on him. Corde joins in, Torlin strangles her, and she shocks him unconscious (p72–79).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
-![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
-![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
-![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p62 "JOR TOLIN" dossier](../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](../notes/materials/012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
+![p71 the Knights on the Wheel](../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:52`
 
 - Note (summary from our notes, not a quotation): On Munto Codru, clan chief Rikkar-Du tries to unite the Codru-Ji clans against the Empire after Darth Krul ("KRUHL") offers him rule (p104–107). Krul kills him, his son Jassar and their dog. Elder Kassek-Ka, now the Sith's man, killed Rikkar's wife Tassa (p108–112). Maladi uses Governor Vikar Dorn and the ISD *Dauntless* as a "defection" to get Krul onto Bastion (p113–116). Krul slips out and confronts Fel in the Pellaeon Gardens. Fel jams Krul's saber with a cortosis gauntlet, catches his lightning on his own blade and turns it back, brawls with him, and shoots him with a holdout blaster (p117–123). Fel has the *Dauntless* crew killed and sends Dorn back to Krayt with Krul's hilt. Maladi runs Dorn through (p124). Krayt warns her not to "SCHEME FOR SCHEMING'S SAKE" (p125).
@@ -1154,7 +1152,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:78`
 Context: 3. Overrules Maladi (137 ABY). p124 (#13 Ready to Die)–p125 (#13 Ready to Die) [009 p261–262]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:86`
 
-- Note (summary from our notes, not a quotation): ![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+- Note (summary from our notes, not a quotation): ![p125 Krayt warns Maladi with Krul's saber](../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p125 — `p125-krayt-warns-maladi.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:89`
@@ -1164,7 +1162,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:89`
 > IT IS DARTH KRAYT'S COMMAND. THAT'S ALL YOU NEED TO KNOW. *(p60)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Wants Cade alive, without telling his own spymaster why. p61 (#9 Trust Issues): Maladi, alone with Cade's holo: "WHY DOES MY MASTER REQUIRE YOU, SKYWALKER? AND WHY DOES HE NEED YOU ALIVE?" · Maladi to Calixte: "IT IS DARTH KRAYT'S COMMAND. THAT'S ALL YOU NEED TO KNOW." (p60).
-![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
+![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](../notes/materials/012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:92`
 
 > DISLODGING FEL FROM THAT FORTRESS WOULD TAKE MOST OF OUR FLEET -- ASSUMING ALL OF OUR FORCES WOULD REMAIN LOYAL, WHICH IS DEBATABLE.
@@ -1172,17 +1170,17 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:92`
 > HE KNOWS AN ALL-OUT ATTACK ON BASTION WOULD DECIMATE HIS FORCES AND CRIPPLE HIS ABILITY TO COMMAND THE GALAXY.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 5. Strategic statement about Bastion (Maladi, for Krayt). p114 (#13 Ready to Die): "DISLODGING FEL FROM THAT FORTRESS WOULD TAKE MOST OF OUR FLEET -- ASSUMING ALL OF OUR FORCES WOULD REMAIN LOYAL, WHICH IS DEBATABLE." Fel says the same on p66: "HE KNOWS AN ALL-OUT ATTACK ON BASTION WOULD DECIMATE HIS FORCES AND CRIPPLE HIS ABILITY TO COMMAND THE GALAXY."
-![p114 Maladi: DISLODGING FEL FROM THAT FORTRESS](012-legacy-vol-2-shards-panels/p114-maladi-dislodging-fel-bastion.jpg) *(p114)*
+![p114 Maladi: DISLODGING FEL FROM THAT FORTRESS](../notes/materials/012-legacy-vol-2-shards-panels/p114-maladi-dislodging-fel-bastion.jpg) *(p114)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:95`
 
 > "IF YOUR WILL WAS STRONGER, JEDI, YOUR DEFIANCE WOULD MEAN MORE. YOU WERE TRAINED, HOWEVER, AS A HEALER. YOUR WILL IS NO MATCH FOR MINE." · "TELL ME." · Hosk: "HE TRAVELS WITH A FORMER PIRATE NAMED JARIAH SYN AND A ZELTRON NAMED DELIAH BLUE." · (p60) "SO MUCH FOR DEFIANCE." · "FROM NOW ON, ANYTHING I OR ANY OTHER SITH ASKS, YOU WILL ANSWER. IS THAT UNDERSTOOD?" · Hosk: "...YES..."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Breaks the Jedi healer Hosk's will (with droids). p58 (#9 Trust Issues)–p60 (#9 Trust Issues) [009 p197–199]
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:100`
 
-- Note (summary from our notes, not a quotation): ![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+- Note (summary from our notes, not a quotation): ![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p59 — `p059-maladi-will-breaks-hosk.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:103`
@@ -1195,16 +1193,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:106`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Kills Governor Dorn on the spot, a lightsaber through the body. p124 (#13 Ready to Die) [009 p261]
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:108`
 
 > IT WENT AS I EXPECTED, MY LORD. *(009 named the killer as Talon; corrected, see below.)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): The killer is Maladi: red skin, white-dotted headdress, long black hair, no lekku. That matches her p114 hologram, and she then says "IT WENT AS I EXPECTED, MY LORD." (009 named the killer as Talon; corrected, see below.)
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:111`
 
-- Note (summary from our notes, not a quotation): ![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+- Note (summary from our notes, not a quotation): ![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p124 Maladi kills Dorn — `p124-maladi-kills-dorn.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:113`
@@ -1218,15 +1216,15 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:113`
 > THE TRUE KILLING STROKE, WHEN IT COMES, WILL COME FROM WITHIN. *(Foreshadowing of an inside agent.)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 3. Planner of the Krul strike on Bastion; uses hostages. p114–116 (#13): "WITH THIS SHIP AS BAIT, AND THE FORMER GOVERNOR'S GOOD REPUTATION AS CAMOUFLAGE." · "FAILURE WILL RESULT IN NOT ONLY YOUR OWN DEATH, BUT YOUR SON'S, AS WELL. SUCCESS IS MORE IMPORTANT THAN SURVIVAL." · (p125) "ROAN FEL HAS BESTED MY ASSASSIN AND THAT WILL MAKE HIM COMPLACENT." · "THE TRUE KILLING STROKE, WHEN IT COMES, WILL COME FROM WITHIN." (Foreshadowing of an inside agent.)
-![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+![p125 Krayt warns Maladi with Krul's saber](../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:116`
 
 > (p16) "GATHERED TOGETHER THEY WOULD HAVE BEEN MORE DIFFICULT TO DEFEAT. THEY ARE SCATTERED, WITHOUT LEADERSHIP, WITHOUT A BASE. WE WILL HUNT THEM." · (p17) "MY MASTER, DARTH KRAYT, BELIEVES IT IS TIME ANOTHER SAT ON THE THRONE." · (p30, saber at Calixte's throat) "MY MASTER IS NOT PLEASED... AND I SENSE YOUR HAND IN THIS, NYNA CALIXTE!" · (p31) "I WONDER... IF I DISSECTED YOUR MIND, WOULD I LEARN THE TRUTH ABOUT YOU?" · "YOUR PLOTS, YOUR BETRAYALS, YOUR DESIRE FOR CONTROL -- HAD YOU FORCE ABILITY, YOU MIGHT HAVE MADE A GOOD SITH -- UNDER DARTH SIDIOUS." · "UNDER DARTH KRAYT, WE ARE A DIFFERENT BREED." · Calixte (aside): "SO YOU BELIEVE, LADY MALADI --" "-- AND THAT WILL BE THE KNIFE THAT KILLS YOU..."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 4. 130 ABY: Krayt's voice to the Moffs. p16–17, p30–31 (#8 Allies)
-![p17 Maladi to the Moffs: MY MASTER, DARTH KRAYT, BELIEVES](012-legacy-vol-2-shards-panels/p017-maladi-krayt-believes-moffs.jpg) *(p17)*
-![p30 Maladi and Calixte: Krayt's voice to the Moffs](012-legacy-vol-2-shards-panels/p030-maladi-calixte-you-need-my-help.jpg) *(p30)*
+![p17 Maladi to the Moffs: MY MASTER, DARTH KRAYT, BELIEVES](../notes/materials/012-legacy-vol-2-shards-panels/p017-maladi-krayt-believes-moffs.jpg) *(p17)*
+![p30 Maladi and Calixte: Krayt's voice to the Moffs](../notes/materials/012-legacy-vol-2-shards-panels/p030-maladi-calixte-you-need-my-help.jpg) *(p30)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:118`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): Maladi "senses" Calixte's involvement but can't confirm it. That fits Calixte's p23 claim of "SOME SUCCESS IN SHIELDING MY THOUGHTS FROM FORCE USERS". Veed's Ossus casualty line (p16: "MORE THAN HALF OF THEM MUST STILL BE ALIVE") is the main on-page number for how many Jedi escaped Ossus.
@@ -1238,7 +1236,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:123`
 >
 > DO NOT TELL THEM OR ANYONE ELSE HE IS A SKYWALKER.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Maladi (p61). POV: Maladi.
-![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
+![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](../notes/materials/012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:284`
 
 > THE FORCE...IT'S VERY STRONG IN YOU! NOT SITH...
@@ -1261,13 +1259,13 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:425`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Darth Krayt: Maladi's "MY MASTER, DARTH KRAYT" (p17, p30). He takes the throne in 130 (p29). In 137 he overrules Maladi: "YES, MALADI. AS I WILL." (p125).
-![p29 Krayt kills the double and sits the throne](012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
-![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+![p29 Krayt kills the double and sits the throne](../notes/materials/012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
+![p125 Krayt warns Maladi with Krul's saber](../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:435`
 
 - Note (summary from our notes, not a quotation): Darth Maladi: head of Sith intelligence. "THE LABORATORY OF DARTH MALADI -- HEAD OF SITH INTELLIGENCE" (p58). Calixte "WILL REPORT TO ME" (p31). She tasks the Sith Lord Krul by hologram (p114–116) and executes Dorn in front of Krayt (p124).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:436`
 
 - Note (summary from our notes, not a quotation): Maladi (debate #35).
@@ -1288,7 +1286,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:491`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Who kills Governor Dorn (012 p124 = 009 p261): it's Darth Maladi, not Darth Talon. In both scans the killer has Maladi's white-dotted headdress and no lekku, and she answers Krayt's "YOUR STRATAGEM FAILED, MALADI." 009 listed it as a Talon feat ("Executes Governor Dorn") and named the crop `p261-talon-kills-dorn…` (now renamed `p261-maladi-kills-dorn-krayt-stratagem-failed.jpg`; the p229 crop is now `p229-draco-force-push-stazi.jpg`).
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:532`
 
 - Note (summary from our notes, not a quotation): `[local path]`: #6 and #114 (Krayt vs Revan: the Knight squad), #17 (Draco: cortosis and the "ALL MY KNIGHTS" line), #18, #24, #28 and #131 (K'Kruhk: no combat here; the "Warmaster" simile), #35 (Maladi), #61, #81, #85 and #91 (Cade: the rusty-floor caveat), #67 (Wolf Sazen), #115 (Bane vs Kol: the p161 holding-action line).
@@ -1327,7 +1325,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:241`
 > BENDING IT TO YOUR WILL...LIKE A SITH...
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p37 Maladi.
-Note (our notes, around the quote): ![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
+Note (our notes, around the quote): ![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
 (*Panel: p37 — `p037-maladi-cade-purges-ixetal.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:244`
 
@@ -1355,8 +1353,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:373`; `notes
 
 - Note (summary from our notes, not a quotation): Torturer of Cade (p37, see Cade 4). 009 gave these lines to Talon; on this page the torturer has Maladi's red, black-spotted face and ornate black headdress, Krayt addresses her as "MALADI." on p40, and Talon only enters on p39.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
-![p40 Syn and Deliah; the coral seeds triggered](013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
+![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
+![p40 Syn and Deliah; the coral seeds triggered](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:384`
 
 > WE WILL MAKE YOU INSTRUMENTS OF THE TRUTH. *(blue-white energy engulfs Syn and Deliah, Maladi's hand raised)*
@@ -1366,13 +1364,13 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:384`
 > FED DARK ENERGY, THE SEEDS GROW AT AN ACCELERATED RATE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Coral-seed weapon. p40–41 (#15): Krayt: "MALADI." ·.
 Note (our notes, around the quote): Coral-seed weapon. p40–41 (#15): Krayt: "MALADI." · "WE WILL MAKE YOU INSTRUMENTS OF THE TRUTH." (blue-white energy engulfs Syn and Deliah, Maladi's hand raised) · "MALADI'S GENIUS IS RESPONSIBLE FOR THE MUTATION AND SABOTAGE OF THE OSSUS PROJECT. HER KNOWLEDGE OF VONG BIO-FORMS IS PROFOUND. SHE HAS MELDED IT WITH HER UNDERSTANDING OF THE DARK SIDE OF THE FORCE." · "FED DARK ENERGY, THE SEEDS GROW AT AN ACCELERATED RATE."
-![p40 Syn and Deliah; the coral seeds triggered](013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
+![p40 Syn and Deliah; the coral seeds triggered](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:385`
 
 > EMPEROR KRAYT HAS CALLED OFF THE SEARCH FOR CADE SKYWALKER.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Calls off the Imperial search (p32).
 Note (our notes, around the quote): Calls off the Imperial search (p32): "EMPEROR KRAYT HAS CALLED OFF THE SEARCH FOR CADE SKYWALKER."
-![p32 EMPEROR KRAYT HAS CALLED OFF THE SEARCH](013-legacy-vol-3-claws-of-the-dragon-panels/p032-maladi-krayt-called-off-search.jpg) *(p32)*
+![p32 EMPEROR KRAYT HAS CALLED OFF THE SEARCH](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p032-maladi-krayt-called-off-search.jpg) *(p32)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:387`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): for debate #35, a strong biotech/torture support profile and no combat on panel.
@@ -1400,7 +1398,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:512`
 
 - Note (summary from our notes, not a quotation): Darth Maladi: intelligence and biotech; "LADY MALADI" (p32, p76); kept outside with Nihl (p49–50).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
+![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:513`
 
 > NO, YOU USE THE FORCE TO PURGE YOURSELF, BENDING IT TO YOUR WILL...LIKE A SITH...
@@ -1409,7 +1407,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:513`
 > THEN HE REALIZES THE LIMITATIONS OF THE JEDI TEACHINGS.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): The torturer on p37 (= 009 p338) is Darth Maladi, not Talon. "DESPITE A FULL DAY OF INJECTIONS…", "I SUPPLY THEM." and "NO, YOU USE THE FORCE TO PURGE YOURSELF, BENDING IT TO YOUR WILL...LIKE A SITH..." are Maladi's; "THEN HE REALIZES THE LIMITATIONS OF THE JEDI TEACHINGS." is the arriving Krayt (009 had the speaker UNCLEAR; the crop is renamed `p338-maladi-cade-purges-drug-like-sith.jpg`).
-![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
+![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:605`
 
 > AND IF KRAYT DOES DIE, WHO WILL LEAD THE SITH ORDER?
@@ -1435,7 +1433,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:631`
 - Note (summary from our notes, not a quotation): p76 the figure in Maladi's energy tank; p98 and p107 the small red-skinned Sith watching (possibly Maladi).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: UNCLEAR:
-![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
+![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:644`
 
 ## https://starwars.fandom.com/wiki/Cade_Skywalker
@@ -1493,7 +1491,7 @@ Our notes: `legends-feats.md:2322`; `notes/materials/009-legacy-book-1.md:1101`;
 
 - Note (summary from our notes, not a quotation): Maladi: CL 15. UtF +19. hp 97, DR 10. Lightsaber +14. A "'true' Sith Lord"; Krayt's personal physician. (material 011; p171; debate #35)
   — Source: Legends Feats & Quotes (Star Wars Legends / EU).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
 Our notes: `legends-feats.md:2468`
 
 - Note (summary from our notes, not a quotation): Azard: CL 15. UtF +18. hp 137. Double-bladed lightsaber +21 (2d8+13). (material 011; p169)
@@ -1504,7 +1502,7 @@ Our notes: `legends-feats.md:2470`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Maleval: CL 13. UtF +13. "one of the Empire's most capable Jedi hunters". Hondo Karr survives him when Karr's troopers open fire (p138). (material 011; p172)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
 Our notes: `legends-feats.md:2471`
 
 - Note (summary from our notes, not a quotation): _Added by the material 012 pass on 2026-10-21. Nothing above this heading was changed. Every quote was read from the page images of the *Legacy Volume 2: Shards* TPB (Legacy #8, #4, #9, #10, #13, #11, #12; 177-page scan), with lettering kept in capitals. "p" is the TPB's PDF page; the matching omnibus (009) page is p+139 up to p102 and p+137 from p105. Only items not already in the 009 appendix are listed. Correction to the 009 material: Governor Dorn's killer (009 p261) is Darth Maladi, not Talon; the 009 note is now corrected._

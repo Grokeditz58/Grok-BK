@@ -14,7 +14,6 @@
 > Bulq hired teachers from the elite Anzati assassin school to train his own clone soldiers, grown from the genetic material of Nikto Morgukai warriors. Jedi Master Tholme helped put an end to Bulq's plans.
 — Source: Part Two: The Fall of the Republic; Sora Bulq; Quinlan Vos; Tholme — Sora Bulq's clones.
 Note (our notes, around the quote): Sora Bulq; Quinlan Vos; Tholme — Sora Bulq's clones: "Bulq hired teachers from the elite Anzati assassin school to train his own clone soldiers, grown from the genetic material of Nikto Morgukai warriors. Jedi Master Tholme helped put an end to Bulq's plans." Source: The New Essential Chronology, p.78
-![Quote image: The New Essential Chronology, p.78 — full quote as printed](quotes/nec-p78-sora-bulqs-clones.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:446`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -22,13 +21,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Bulq was captured in the fighting, and Master Tholme was blinded in his left eye in a lightsaber duel with Dooku.
 — Source: scan pages 241–280; Sora Bulq; Tholme; Count Dooku.
 Note (our notes, around the quote): Sora Bulq; Tholme; Count Dooku: "Bulq was captured in the fighting, and Master Tholme was blinded in his left eye in a lightsaber duel with Dooku." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-bulq-was-captured-in-the-fighting.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:31`
 
 > On Saleucami, Tholme set out to destroy the Separatist cloning facilities Sora Bulq had built in the magma caverns, Tholme was forced to fight Quinlan, who refused to acknowledge that he was too close to the dark side.
 — Source: scan pages 241–280; Tholme; Sora Bulq; Quinlan Vos.
 Note (our notes, around the quote): Tholme; Sora Bulq; Quinlan Vos: "On Saleucami, Tholme set out to destroy the Separatist cloning facilities Sora Bulq had built in the magma caverns, Tholme was forced to fight Quinlan, who refused to acknowledge that he was too close to the dark side." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-on-saleucami-tholme-set-out-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:33`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -40,7 +37,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Best known as the site of Master Sora Bulq’s betrayal of the Jedi Knights during the early months of the Clone Wars, Ruul is a lush, green-blue globe still young in its development.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Sora Bulq — entry/section: Ruul.
 Note (our notes, around the quote): Sora Bulq — entry/section: Ruul: "Best known as the site of Master Sora Bulq’s betrayal of the Jedi Knights during the early months of the Clone Wars, Ruul is a lush, green-blue globe still young in its development." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.129
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.129 — full quote as printed](quotes/d667-s129-best-known-as-the-site-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:68`
 
 - Note (summary from our notes, not a quotation): Page contents: Sriluur: hooks A Cult Wind Blows - Part II (Ma'kis'shaalas; Sora Bulq or Kossex) and Drop 'n' Chop (Xizor Transport Systems chop shop); Sora Bulq biography begins (with Master Windu developed Vaapad). (hand-read)
@@ -50,7 +46,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Master Bulg is perhaps the best-known of those handful of Weequay Jedi: a fierce combatant (he, along with Master Windu, developed the Vaapad style), a highly regarded trainer, and a thoughtful philosopher.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Sora Bulq; Mace Windu — entry/section: Sora Bulq and Vaapad.
 Note (our notes, around the quote): Sora Bulq; Mace Windu — entry/section: Sora Bulq and Vaapad: "Master Bulg is perhaps the best-known of those handful of Weequay Jedi: a fierce combatant (he, along with Master Windu, developed the Vaapad style), a highly regarded trainer, and a thoughtful philosopher." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.130
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.130 — full quote as printed](quotes/d667-s130-master-bulg-is-perhaps-the-best.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:77`
 
 - Note (summary from our notes, not a quotation): Page contents: Sriluur: Sora Bulq (approached by Count Dooku after Geonosis; plan to frame Mace Windu for Asajj Ventress's killings; duel with Windu on Ruul; Male Weequay Jedi Guardian 9/Jedi Master 3/Jedi Weapon Master 3); Disac Pirates (Stano Hapin killed by Ket Maliss; Black Sun Vigo Sprax; Besadii clan and Vigo Durga the Hutt); Disac Pirate stats; new creature bandigo. (hand-read)
@@ -60,25 +55,21 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Sora Bulq; Mace Windu; Asajj Ventress — entry/section: Geonosis and the Outer Rim Worlds: "Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131 — full quote as printed](quotes/d667-s131-though-the-plan-he-laid-out.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:84`
 
 > Now a Dark Jedi in league with Count Dooku, Sora Bulq remains a potent adversary: formerly one of the greatest protectors of the Republic, now one of its greatest threats.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Count Dooku; Sora Bulq — entry/section: Geonosis and the Outer Rim Worlds: "Now a Dark Jedi in league with Count Dooku, Sora Bulq remains a potent adversary: formerly one of the greatest protectors of the Republic, now one of its greatest threats." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131 — full quote as printed](quotes/d667-s131-now-a-dark-jedi-in-league.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:86`
 
 > After cheating death at the Battle of Geonosis, as much as it pained him, he became convinced that even the Jedi Council was failing in its duties to the people of the Republic. Approached by Count Dooku after the battle, Sora agreed with Dooku’'s argument that if the Republic were to change, it was up to the Jedi to see that change through.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Sora Bulq; Count Dooku — entry/section: Sora Bulq approached by Dooku: "After cheating death at the Battle of Geonosis, as much as it pained him, he became convinced that even the Jedi Council was failing in its duties to the people of the Republic. Approached by Count Dooku after the battle, Sora agreed with Dooku’'s argument that if the Republic were to change, it was up to the Jedi to see that change through." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131 — full quote as printed](quotes/d667-s131-after-cheating-death-at-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:88`
 
 > Though Sora Bulq’s intentions may have been pure some years previous, his research into the dark side of the Force, compounded by Dooku’s persuasive arguments, were enough that he succumbed to the dark side. Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Sora Bulq; Mace Windu; Asajj Ventress; Count Dooku — entry/section: Sora Bulq falls: "Though Sora Bulq’s intentions may have been pure some years previous, his research into the dark side of the Force, compounded by Dooku’s persuasive arguments, were enough that he succumbed to the dark side. Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131 — full quote as printed](quotes/d667-s131-though-sora-bulq-s-intentions-may.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:90`
 
 ## Star Wars Visual Dictionaries, Episodes I–VI (DK, 1998–2005) + The Phantom Menace Expanded Visual Dictionary (DK, 2012)

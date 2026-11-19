@@ -38,7 +38,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #110 (2009).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Wullf Yularen; Grand Moff Tarkin — entry/section: Ask Lobot: Does Yularen know Vader is Anakin?: ""The true identity of Darth Vader is a closely guarded secret. Even Grand Moff Tarkin, who knows enough to acknowledge that Vader was the "last of his religion," is not privy to the fact that Vader was once Anakin. Though Wolffe Yularen served with Anakin for quite some time, there is nothing about Vader that would give him any clue that he was the same Jedi general with whom he served during the Clone Wars." —Leland Y. Chee (Ask Lobot), Star Wars Insider 110, p. 56" Source: *Star Wars Insider #110* (2009), scan p.56
-![Quote image: *Star Wars Insider #110* (2009), scan p.56 — full quote as printed](quotes/ins110-s56-the-true-identity-of-darth-vader.jpg)
 Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:349`
 
 ## Star Wars Insider #119 (2010)
@@ -47,7 +46,6 @@ Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:349`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #119 (2010).
 Note (our notes, around the quote): Wullf Yularen; Darth Vader (Anakin Skywalker) — entry/section: Kane on Yularen and Vader's ill-fated officers: ""I would like to think Yularen and many of the other senior officers who served loyally in the Republic were perhaps working behind the scenes to thwart Vader and the Emperor. Maybe that's why so many admirals made so many serious "mistakes." Those "mistakes" almost always led to their deaths when Vader found out, but they did slow down Vader's plans, didn't they?" —Tom Kane, Star Wars Insider 119, p. 28" Source: *Star Wars Insider #119* (2010), scan p.28
-![Quote image: *Star Wars Insider #119* (2010), scan p.28 — full quote as printed](quotes/ins119-s28-i-would-like-to-think-yularen.jpg)
 Our notes: `notes/materials/038-star-wars-insider/119-ins119.md:151`
 
 # CANON (Disney canon — kept separate)

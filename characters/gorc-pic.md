@@ -24,7 +24,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan
 > Gorc and Pic were defeated by Kyle Katarn during the search for the Valley of the Jedi, when they tried to apprehend him aboard the Sulon Star.
 — Source: scan pages 1–40; Gorc and Pic; Kyle Katarn.
 Note (our notes, around the quote): Gorc and Pic; Kyle Katarn: "Gorc and Pic were defeated by Kyle Katarn during the search for the Valley of the Jedi, when they tried to apprehend him aboard the Sulon Star." Source: The Complete Star Wars Encyclopedia, Vol. III, p.25
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.25 — full quote as printed](quotes/v3-p25-gorc-and-pic-were-defeated-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:220`
 
 ## The New Essential Guide to Characters (2002)
@@ -32,13 +31,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan
 > Katarn had already defeated three of Jerec's allies, Yun, Gore, and Pic, and Jerec set a trap for the Jedi initiate at the Ruusan tower, threatening the life of Katarn's partner in the hope of luring Katarn to the dark side.
 — Source: scan pages 61–90; Kyle Katarn; Jerec; Yun (Dark Jedi).
 Note (our notes, around the quote): Kyle Katarn; Jerec; Yun (Dark Jedi): "Katarn had already defeated three of Jerec's allies, Yun, Gore, and Pic, and Jerec set a trap for the Jedi initiate at the Ruusan tower, threatening the life of Katarn's partner in the hope of luring Katarn to the dark side." Source: The New Essential Guide to Characters, p.96
-![Quote image: The New Essential Guide to Characters, p.96 — full quote as printed](quotes/negc-p96-katarn-had-already-defeated-three-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:208`
 
 > Jerec's six underlings—Yun, Gore, Pic, Maw, Sariss, and Boc the Crude— proved no match for Katarn, inexperienced though he was.
 — Source: scan pages 91–120; Jerec; Yun (Dark Jedi); Sariss; Boc Aseca; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Yun (Dark Jedi); Sariss; Boc Aseca; Kyle Katarn: "Jerec's six underlings—Yun, Gore, Pic, Maw, Sariss, and Boc the Crude— proved no match for Katarn, inexperienced though he was." Source: The New Essential Guide to Characters, p.103
-![Quote image: The New Essential Guide to Characters, p.103 — full quote as printed](quotes/negc-p103-jerecs-six-underlings-yun-gore-pic.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:55`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -50,18 +47,15 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 > Jerec and Sariss took the time to give all their fellow Dark Jedi cronies a crash course in the teachings of the Dark Force, the religion of the true Prophets of the Dark Side (not to be confused with the Imperial Center-backed mockery, the Church of the Dark Side). There is, however, a connection between the two institutions: Lord Cronal, more commonly known as the former Prophet of the Dark Side Blackhole, helped establish the phony places of worship after the Battle of Endor. Blackhole was also responsible for cooking up Jerec's dastardly pair of dark side mutants: the gargantuan Gorc and the pint-sized Pic, the so-called Brothers of the Sith.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Sariss; Blackhole (Emperor's Hand); Gorc and Pic — entry/section: The Brothers of the Sith: "Jerec and Sariss took the time to give all their fellow Dark Jedi cronies a crash course in the teachings of the Dark Force, the religion of the true Prophets of the Dark Side (not to be confused with the Imperial Center-backed mockery, the Church of the Dark Side). There is, however, a connection between the two institutions: Lord Cronal, more commonly known as the former Prophet of the Dark Side Blackhole, helped establish the phony places of worship after the Battle of Endor. Blackhole was also responsible for cooking up Jerec's dastardly pair of dark side mutants: the gargantuan Gorc and the pint-sized Pic, the so-called Brothers of the Sith." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-jerec-and-sariss-took-the-time.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:12`
 
 - Note (summary from our notes, not a quotation): Gorc and Pic; Blackhole (Emperor's Hand) — entry/section: Gorc and Pic, Sithspawn: "It was misleading, but not entirely inaccurate, to call Gorc and Pic "twins." The pair of malcontents was an experiment of Palpatine's wizened monster-maker Blackhole. The dark side scientist and intelligence fanatic began his experiment in Sith alchemy with a Kowakian monkey-lizard and a pig-faced Gamorrean. What was borne from Blackhole's alchemical cocoon were the mutated Sithspawn Pic and Gorc, sharing in each other's genes and characteristics, and symbiotically linked through the Force." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-it-was-misleading-but-not-entirely.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:14`
 
 > Gorc and Pic certainly made an odd couple -- one was less than a meter tall and weighed just 20 kilos, while the other stood over 3 meters and weighed 200 kilos. The appearance of these Brothers of the Sith could be comical, but the combination of Pic's speed and intelligence and Gorc's incredible power was more likely to leave slaughter in its wake than laughter. Pic became adept at using a Sith dagger, while Gorc wielded a massive lightsaber resembling a Gamorrean thogk club. When Jerec captured Jedi Master Qu Rahn, Pic also gained one of Master Yoda's lightsabers for his own.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Gorc and Pic; Qu Rahn; Yoda; Jerec — entry/section: An odd couple: "Gorc and Pic certainly made an odd couple -- one was less than a meter tall and weighed just 20 kilos, while the other stood over 3 meters and weighed 200 kilos. The appearance of these Brothers of the Sith could be comical, but the combination of Pic's speed and intelligence and Gorc's incredible power was more likely to leave slaughter in its wake than laughter. Pic became adept at using a Sith dagger, while Gorc wielded a massive lightsaber resembling a Gamorrean thogk club. When Jerec captured Jedi Master Qu Rahn, Pic also gained one of Master Yoda's lightsabers for his own." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-gorc-and-pic-certainly-made-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:16`
 
 - Note (summary from our notes, not a quotation): Gorc and Pic — entry/section: The Force life-bond: "The Force life-bond between the two darksiders allowed for unparalleled teamwork. At all times, they were aware of each other's location, emotional state, and senses, and they even shared limited telepathy. But this closeness also had secondary consequences: injury to one Sithspawn was shared by the other; every touch of the dark side corrupted both the user and his alchemical twin.
@@ -70,13 +64,11 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 
 - Note (summary from our notes, not a quotation): Their closeness also extended beyond their mutual dark side connection. Though Pic was the smaller of the two, he often thought of himself as the "older" brother and looked out for the dimwitted Gorc's well being. Despite his slow nature, however, Gorc was an excellent craftsman. Grateful for Pic's kindness, the Gamorrean made his tiny brother a specially crafted present: a miniature suit of M'uhk'gfa dark armor." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-the-force-life-bond-between-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:19`
 
 > In his confrontation with Kyle Katarn aboard the ship Sulon Star, Gorc overestimated the ease with which he'd be able to squash his opponent. Kyle blasted the ogre in the face, obliterating his brain. Pic, who felt as if half of him had died, proceeded to assault Kyle in an untamed frenzy, stabbing him repeatedly with his Sith dagger. Katarn brought an end to the battle by taking the severed head of the droid 8t88 and using it to cave in the mutant monkey-lizard's skull.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Gorc and Pic; Kyle Katarn — entry/section: Deaths of Gorc and Pic: "In his confrontation with Kyle Katarn aboard the ship Sulon Star, Gorc overestimated the ease with which he'd be able to squash his opponent. Kyle blasted the ogre in the face, obliterating his brain. Pic, who felt as if half of him had died, proceeded to assault Kyle in an untamed frenzy, stabbing him repeatedly with his Sith dagger. Katarn brought an end to the battle by taking the severed head of the droid 8t88 and using it to cave in the mutant monkey-lizard's skull." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-in-his-confrontation-with-kyle-katarn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:21`
 
 - Note (summary from our notes, not a quotation): Page contents: Pic SQ Abominable Presence and Darkness Shared; Gorc stats from image (Soldier 3/Jedi Guardian 2/Dark Side Marauder 3, Init -1, CC D) and SQs; Adventure Seed: Jedi Search II (Yoda's lightsaber on Sulon Star); Adventure Seed: Kyle Katarn, Meet Mara Jade (Byss, Blackhole, Senex sector); Dromund Kaas header (hand-read)
@@ -86,7 +78,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 > Darkness Shared -- The Sith abomination Pic shares a special bond through the dark side with his Sith cocoon mate Gorc. This results in a +2 bonus on attack rolls when the pair of Sithspawn coordinates attacks against a target. However, because of their bond, whenever Gorc takes damage from an attack, Pic must make a successful DC 15 Will save to avoid suffering half of the equivalent damage. Lastly, whenever Gorc gains a dark side point, Pic automatically gains one as well.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa; Gorc and Pic — entry/section: Pic: Darkness Shared.
 Note (our notes, around the quote): Gorc and Pic — entry/section: Pic: Darkness Shared: "Darkness Shared -- The Sith abomination Pic shares a special bond through the dark side with his Sith cocoon mate Gorc. This results in a +2 bonus on attack rolls when the pair of Sithspawn coordinates attacks against a target. However, because of their bond, whenever Gorc takes damage from an attack, Pic must make a successful DC 15 Will save to avoid suffering half of the equivalent damage. Lastly, whenever Gorc gains a dark side point, Pic automatically gains one as well." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d132-s2-darkness-shared-the-sith-abomination-pic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:32`
 
 - Note (summary from our notes, not a quotation): Kyle Katarn; Gorc and Pic; Luke Skywalker; Yoda — entry/section: Adventure seed: Jedi Search II: "When he battled the Dark Jedi Pic, Kyle Katarn couldn't have known that the impish darksider wielded one of the revered Master Yoda's lightsabers. Thus, upon killing the monkey-lizard, Kyle simply left the priceless weapon behind. Only years later, in conversation with Luke Skywalker, did Kyle realize the truth.
@@ -95,7 +86,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 
 - Note (summary from our notes, not a quotation): Master Skywalker has decided to send a group of Jedi heroes on a quest to retrieve Yoda's lightsaber. It was last seen on Pic's dead body aboard the cargo ship Sulon Star. It's possible, though unlikely, that the corpse and the lightsaber are still there -- assuming the ship can be found. The heroes must track the clues leading to this legendary Jedi artifact, oblivious as to whose hand now rests on the hilt of the blade." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d132-s2-when-he-battled-the-dark-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:35`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/210 - Shadows in Green.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -103,7 +93,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 > Jedi Master Holo Pic (A bootleg holo of Yoda and Mace Windu with a spot for another being to be inserted — NOT to be sold to Jedi!)
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/210 - Shadows in.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Jedi Master Holo Pic (Nenmo's stock): "Jedi Master Holo Pic (A bootleg holo of Yoda and Mace Windu with a spot for another being to be inserted — NOT to be sold to Jedi!)" Source: *210 - Shadows in Green* (SWRPG d20 Revised Core), p.18
-![Quote image: *210 - Shadows in Green* (SWRPG d20 Revised Core), p.18 — full quote as printed](quotes/d296-p18-jedi-master-holo-pic-a-bootleg.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/296-210-shadows-in-green.md:182`
 
 ## Star Wars Insider #123 (2011)

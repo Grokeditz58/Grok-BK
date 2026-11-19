@@ -18,13 +18,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Though Maul defeated the Bartokks, he was unable to retrieve C-3PX.
 — Source: scan pages 81–120; C-3PX; Darth Maul — entry/section: C-3PX.
 Note (our notes, around the quote): C-3PX; Darth Maul — entry/section: C-3PX: "Though Maul defeated the Bartokks, he was unable to retrieve C-3PX." Source: The Complete Star Wars Encyclopedia, Vol. I, p.102
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.102 — full quote as printed](quotes/v1-p102-though-maul-defeated-the-bartokks-he.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:290`
 
 > C-3PX took pity on C-3PO, who was pitted in a fight to the death in a droid arena; when he substituted himself for C-3PO he allowed himself to be destroyed.
 — Source: scan pages 81–120; C-3PX — entry/section: C-3PX.
 Note (our notes, around the quote): C-3PX — entry/section: C-3PX: "C-3PX took pity on C-3PO, who was pitted in a fight to the death in a droid arena; when he substituted himself for C-3PO he allowed himself to be destroyed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.102
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.102 — full quote as printed](quotes/v1-p102-c-3px-took-pity-on-c.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:292`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -32,7 +30,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > There Vojak cornered C-3PX momentarily, until the droid killed him with a laser mounted in the back of its head.
 — Source: scan pages 281–320; C-3PX. POV: C-3PX.
 Note (our notes, around the quote): C-3PX: "There Vojak cornered C-3PX momentarily, until the droid killed him with a laser mounted in the back of its head." Source: The Complete Star Wars Encyclopedia, Vol. III, p.310
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.310 — full quote as printed](quotes/v3-p310-there-vojak-cornered-c-3px-momentarily.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:295`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -48,27 +45,23 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-06
 > Maul defeated the Bartokks and demolished their fortress, but was unable to retrieve C-3PX before doing so.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; C-3PX; Darth Maul — entry/section: Star Wars Gamer 03.
 Note (our notes, around the quote): C-3PX; Darth Maul — entry/section: Star Wars Gamer 03: "Maul defeated the Bartokks and demolished their fortress, but was unable to retrieve C-3PX before doing so." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.52
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.52 — full quote as printed](quotes/d052-s52-maul-defeated-the-bartokks-and-demolished.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:301`
 
 > Maul modified C-3PX to be a security droid for his Sith infiltrator, modifications included improved sensors, increased strength, and 83 different weapons
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): C-3PX; Darth Maul — entry/section: Galaxy's Most Wanted: C-3PX: "Maul modified C-3PX to be a security droid for his Sith infiltrator, modifications included improved sensors, increased strength, and 83 different weapons" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.52
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.52 — full quote as printed](quotes/d052-s52-maul-modified-c-3px-to-be.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:303`
 
 > in a short time C-3PX was wildly successful, Every job went off without a hitch
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): C-3PX; Olag Greck — entry/section: Galaxy's Most Wanted: C-3PX: "in a short time C-3PX was wildly successful, Every job went off without a hitch" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.52
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.52 — full quote as printed](quotes/d052-s52-in-a-short-time-c-3px.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:305`
 
 > Once C-3PX learned of Olag's misfortunes, it realized it was finally free. tt overpowered its new master, quietly slipped out of the Kalarba system, and head for the Outer Rim.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; C-3PX. POV: C-3PX.
 Note (our notes, around the quote): C-3PX: "Once C-3PX learned of Olag's misfortunes, it realized it was finally free. tt overpowered its new master, quietly slipped out of the Kalarba system, and head for the Outer Rim." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.52
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.52 — full quote as printed](quotes/d052-s52-once-c-3px-learned-of-olags.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:307`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -84,7 +77,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from arch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 53 Backups (text copy `arch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_53_Backups_pdf_a86176dda7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from arch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 53 Backups (text copy `arch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_53_Backups_pdf_a86176dda7`).)
 Note (our notes, around the quote): 4-LOM; IG-88; C-3PX — entry/section: Experienced droids become independent: "This is just a rough guideline intended to be used as a house rule. Actually finding droids with more levels may be difficult, because many owners memory-wipe their droids fairly often. More importantly, droids with a lot of experience (in other words, more levels) are much more likely to be independent -- such as 4-LOM, IG-88, or C- 3PX -- and independent droids don't sell themselves. (However, they can be hired, just as you can hire an NPC bounty hunter.)" Source: *Jedi Counseling 53 - Backups* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 53 - Backups* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d220-s1-this-is-just-a-rough-guideline.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/220-jedi-counseling-53-backups.md:14`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -96,7 +88,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 > The turning point in the droid’s early career came when it was placed in the service of Darth Maul in the years leading up to the Trade Federation’s blockade of Naboo. Maul had little use for a protocol droid, however, and he modified C-3PX to become a security droid for his Sith infiltrator. He built improved sensors, increased strength, and 83 different weapons into the droid’s chassis, and he altered its programming to help the droid use these new tools. Some time after these modifications were made, Darth Maul brought C-3PX along with him on a mission, which was successful for Maul, but not before he lost the droid somewhere within a demolished Bartokk fortress. Maul searched for the droid but was unable to locate it before he was forced to leave the Bartokks behind and complete his mission alone.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; C-3PX; Darth Maul; Olag Greck — entry/section: C-3PX.
 Note (our notes, around the quote): C-3PX; Darth Maul; Olag Greck — entry/section: C-3PX: "The turning point in the droid’s early career came when it was placed in the service of Darth Maul in the years leading up to the Trade Federation’s blockade of Naboo. Maul had little use for a protocol droid, however, and he modified C-3PX to become a security droid for his Sith infiltrator. He built improved sensors, increased strength, and 83 different weapons into the droid’s chassis, and he altered its programming to help the droid use these new tools. Some time after these modifications were made, Darth Maul brought C-3PX along with him on a mission, which was successful for Maul, but not before he lost the droid somewhere within a demolished Bartokk fortress. Maul searched for the droid but was unable to locate it before he was forced to leave the Bartokks behind and complete his mission alone." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.14
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.14 — full quote as printed](quotes/d672-s14-the-turning-point-in-the-droid.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:99`
 
 - Note (summary from our notes, not a quotation): Page contents: C-3PX roleplaying, era notes, stats; Deel De (Twi'lek dark sider) entry. (hand-read)

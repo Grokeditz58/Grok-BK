@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > A group of Jedi Knights, searching for clues as to the whereabouts of the Star Forge and Darth Malak, helped Komad Fortuna defeat a Krayt dragon that had been causing damage to his homestead.
 — Source: scan pages 281–320; Darth Malak; Darth Krayt.
 Note (our notes, around the quote): Darth Malak; Darth Krayt: "A group of Jedi Knights, searching for clues as to the whereabouts of the Star Forge and Darth Malak, helped Komad Fortuna defeat a Krayt dragon that had been causing damage to his homestead." Source: The Complete Star Wars Encyclopedia, Vol. I, p.291
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.291 — full quote as printed](quotes/v1-p291-a-group-of-jedi-knights-searching.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:203`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Years later, Nat Secura suffered severe burns when Jabba the Hutt enslaved many natives of Ryloth, and Bib Fortuna brought him to Jabba's palace.
 — Source: scan pages 121–160; Aayla Secura — entry/section: Secura, Nat.
 Note (our notes, around the quote): Aayla Secura — entry/section: Secura, Nat: "Years later, Nat Secura suffered severe burns when Jabba the Hutt enslaved many natives of Ryloth, and Bib Fortuna brought him to Jabba's palace." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-years-later-nat-secura-suffered-severe.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:149`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -52,19 +50,16 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > The first was Naroon Cuthus, who was so efficient that Jabba ultimately had to eliminate him; he knew far too much to live. A pair of ambitious smugglers replaced Cuthus: Bidlo Kwerve, a Corellian, and Bib Fortuna, a Twi'lek. Jabba played them against each other to prevent either from becoming a threat to him, but Fortuna eventually got the upper hand. Kwerve received the dubious distinction of becoming the first being Jabba fed to his pet rancor.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Ephant Mon; Bib Fortuna — entry/section: Jabba the Hutt: "The first was Naroon Cuthus, who was so efficient that Jabba ultimately had to eliminate him; he knew far too much to live. A pair of ambitious smugglers replaced Cuthus: Bidlo Kwerve, a Corellian, and Bib Fortuna, a Twi'lek. Jabba played them against each other to prevent either from becoming a threat to him, but Fortuna eventually got the upper hand. Kwerve received the dubious distinction of becoming the first being Jabba fed to his pet rancor." Source: *Secrets of Tatooine* (SWRPG d20), scan p.35
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.35 — full quote as printed](quotes/d045-s35-the-first-was-naroon-cuthus-who.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:196`
 
 > Jabba planned to execute them, but they had prepared for such a contingency, and instead killed Jabba. This of course delighted Bib Fortuna, who had been preparing to assassinate Jabba himself anyway. But when he returned to the palace to seize his prize, he discovered that the B'omarr monks had concealed their own plans from him. Bib Fortuna soon found himself a disembodied brain floating in a containment sphere amid the most enlightened minds of the B'omarr.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt; Han Solo — entry/section: Bib Fortuna: "Jabba planned to execute them, but they had prepared for such a contingency, and instead killed Jabba. This of course delighted Bib Fortuna, who had been preparing to assassinate Jabba himself anyway. But when he returned to the palace to seize his prize, he discovered that the B'omarr monks had concealed their own plans from him. Bib Fortuna soon found himself a disembodied brain floating in a containment sphere amid the most enlightened minds of the B'omarr." Source: *Secrets of Tatooine* (SWRPG d20), scan p.36
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.36 — full quote as printed](quotes/d045-s36-jabba-planned-to-execute-them-but.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:209`
 
 > Jabba rewarded Bib Fortuna by making him his majordomo—and rewarded Bidlo Kwerve by making him the rancor's first meal. Jabba's rancor is actually somewhat small for its species; it has been in captivity for so long that it hasn't completely matured physically.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba's Rancor; Bib Fortuna; Jabba the Hutt — entry/section: The Rancor: "Jabba rewarded Bib Fortuna by making him his majordomo—and rewarded Bidlo Kwerve by making him the rancor's first meal. Jabba's rancor is actually somewhat small for its species; it has been in captivity for so long that it hasn't completely matured physically." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-jabba-rewarded-bib-fortuna-by-making.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:350`
 
 - Note (summary from our notes, not a quotation): Page contents: NJO era: Mos Entha model city; Valarian bought a city council seat via deal with the New Republic; protégé Shiri'ani (Twi'lek Expert 2/Diplomat 3, CC D) bought as a child slave by Bib Fortuna (hand-read)
@@ -74,13 +69,11 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > If Shiri'ani has an interest in anyone, it is the mysterious Twi'lek she has come to know as Firith Olan. Arriving at the Lucky Star shortly after its grand opening, Olan impressed her with his wit, charisma, cunning—and the fact that he had the brain of her most hated enemy, Bib Fortuna, in a jar.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna — entry/section: Shiri'ani.
 Note (our notes, around the quote): Bib Fortuna — entry/section: Shiri'ani: "If Shiri'ani has an interest in anyone, it is the mysterious Twi'lek she has come to know as Firith Olan. Arriving at the Lucky Star shortly after its grand opening, Olan impressed her with his wit, charisma, cunning—and the fact that he had the brain of her most hated enemy, Bib Fortuna, in a jar." Source: *Secrets of Tatooine* (SWRPG d20), scan p.60
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.60 — full quote as printed](quotes/d045-s60-if-shiriani-has-an-interest-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:388`
 
 > Her eagerness has blinded her, though, and she is allowing Olan to gradually turn her against Lady Valarian. With each passing day, she channels more of her resources into aiding Firith Olan instead of her mentor—never guessing that he secretly is Bib Fortuna, his brain implanted in Olan's body.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna; Lady Valarian — entry/section: Shiri'ani.
 Note (our notes, around the quote): Bib Fortuna; Lady Valarian — entry/section: Shiri'ani: "Her eagerness has blinded her, though, and she is allowing Olan to gradually turn her against Lady Valarian. With each passing day, she channels more of her resources into aiding Firith Olan instead of her mentor—never guessing that he secretly is Bib Fortuna, his brain implanted in Olan's body." Source: *Secrets of Tatooine* (SWRPG d20), scan p.60
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.60 — full quote as printed](quotes/d045-s60-her-eagerness-has-blinded-her-though.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:390`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–95)
@@ -88,19 +81,16 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Unfortunately for him, in a moment of weakness Olan found himself at the mercy of Bib Fortuna. Now, with the aid of the B'omarr monks, the Twi'leks have traded places, and it is Bib Fortuna who rules the monastery while Firith Olan is forced to watch from a transparent globe jar. Meanwhile, Bib Fortuna has not only his own funds and Jabba's mountain of treasure, but Firith Olan's accounts—as well as Olan's face, voice, eyes, fingerprints, and cell structure, for purposes of identification.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna — entry/section: Bib Fortuna Returns.
 Note (our notes, around the quote): Bib Fortuna — entry/section: Bib Fortuna Returns: "Unfortunately for him, in a moment of weakness Olan found himself at the mercy of Bib Fortuna. Now, with the aid of the B'omarr monks, the Twi'leks have traded places, and it is Bib Fortuna who rules the monastery while Firith Olan is forced to watch from a transparent globe jar. Meanwhile, Bib Fortuna has not only his own funds and Jabba's mountain of treasure, but Firith Olan's accounts—as well as Olan's face, voice, eyes, fingerprints, and cell structure, for purposes of identification." Source: *Secrets of Tatooine* (SWRPG d20), scan p.62
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.62 — full quote as printed](quotes/d045-s62-unfortunately-for-him-in-a-moment.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:17`
 
 > Fortuna is content to let Shiri'ani believe what she likes until he has crushed Valarian, at which point he will dispose of her—perhaps by selling her into slavery again, or letting the monks enlighten her as they once did him.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna; Lady Valarian — entry/section: Bib Fortuna Returns.
 Note (our notes, around the quote): Bib Fortuna; Lady Valarian — entry/section: Bib Fortuna Returns: "Fortuna is content to let Shiri'ani believe what she likes until he has crushed Valarian, at which point he will dispose of her—perhaps by selling her into slavery again, or letting the monks enlighten her as they once did him." Source: *Secrets of Tatooine* (SWRPG d20), scan p.63
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.63 — full quote as printed](quotes/d045-s63-fortuna-is-content-to-let-shiriani.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:24`
 
 > If they advertise on Tatooine that they have it, they receive a visit from a Twi'lek named Bib Fortuna, who asks where they got it. If they tell him, Fortuna asserts that the cologne belongs to his master—Jabba the Hutt. Jabba purchased it from Harbo Wiis, but the smuggler turned up dead without the cologne, and Jabba has been searching for it ever since.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna; Jabba the Hutt — entry/section: Epilogue.
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt — entry/section: Epilogue: "If they advertise on Tatooine that they have it, they receive a visit from a Twi'lek named Bib Fortuna, who asks where they got it. If they tell him, Fortuna asserts that the cologne belongs to his master—Jabba the Hutt. Jabba purchased it from Harbo Wiis, but the smuggler turned up dead without the cologne, and Jabba has been searching for it ever since." Source: *Secrets of Tatooine* (SWRPG d20), scan p.91
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.91 — full quote as printed](quotes/d045-s91-if-they-advertise-on-tatooine-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:174`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -120,13 +110,11 @@ Our notes: `notes/materials/037-sw-d20-folder/098-bounty-hunters-preview-6.md:19
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 6 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_6_pdf_715ac16dd3`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 6 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_6_pdf_715ac16dd3`).)
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt — entry/section: Bib Fortuna's rise in Jabba's service: "Bib Fortuna was Jabba the Hutt's scheming major-domo, a manipulative advisor with grand plans to take over the Hutt's criminal empire. Fortuna started out as a ryll smuggler on his homeworld of Ryloth. He was arrested, but he escaped to Tatooine where he and his associate Bidlo Kwerve ran spice runs for Jabba. However, Fortuna had bigger plans, which he put in motion by becoming a slaver for the Hutt. Jabba was impressed enough to make him an advisor." Source: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d098-s2-bib-fortuna-was-jabba-the-hutts.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/098-bounty-hunters-preview-6.md:21`
 
 > Fortuna quickly did away with his rivals within the criminal organization, becoming majordomo and caretaker of day-to-day operations. Unfortunately for the Twi'lek, his plans to eliminate Jabba and take full control fell apart, ironically enough, because of Jabba's death. The B'omarr monks that had agreed to help Fortuna captured him instead. He was doomed to become a disembodied brain among the B'omarr until an ally named Firth Olan provided Fortuna with a replacement body.
 — Source: Characters/Miniatures/Bounty Hunters Preview 6.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt — entry/section: Bib Fortuna's fall to the B'omarr monks: "Fortuna quickly did away with his rivals within the criminal organization, becoming majordomo and caretaker of day-to-day operations. Unfortunately for the Twi'lek, his plans to eliminate Jabba and take full control fell apart, ironically enough, because of Jabba's death. The B'omarr monks that had agreed to help Fortuna captured him instead. He was doomed to become a disembodied brain among the B'omarr until an ally named Firth Olan provided Fortuna with a replacement body." Source: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d098-s2-fortuna-quickly-did-away-with-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/098-bounty-hunters-preview-6.md:23`
 
 ## Jedi Counselling/Jedi Counseling 73.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -148,7 +136,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > Some Twi'leks choose to separate their names because they do not feel that they belong to their clan anymore, such as in the case of Firith Olan, who turned his back on his clan to make his own fortune in the galaxy. Others have this separation forced upon them, as in the case of Bib Fortuna, whom the Una clan cast out for his depredations on his own people.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Bib Fortuna; Aayla Secura — entry/section: Twi'lek name separation.
 Note (our notes, around the quote): Bib Fortuna; Aayla Secura — entry/section: Twi'lek name separation: "Some Twi'leks choose to separate their names because they do not feel that they belong to their clan anymore, such as in the case of Firith Olan, who turned his back on his clan to make his own fortune in the galaxy. Others have this separation forced upon them, as in the case of Bib Fortuna, whom the Una clan cast out for his depredations on his own people." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.134
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.134 — full quote as printed](quotes/d666-s134-some-twileks-choose-to-separate-their.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:77`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -160,7 +147,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Twi'leks also thrive in the underworld, and some infamous examples such as Bib Fortuna color people’s perception of the species.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Bib Fortuna — entry/section: Bib Fortuna and the Twi'lek image.
 Note (our notes, around the quote): Bib Fortuna — entry/section: Bib Fortuna and the Twi'lek image: "Twi'leks also thrive in the underworld, and some infamous examples such as Bib Fortuna color people’s perception of the species." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.121
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.121 — full quote as printed](quotes/d667-s121-twileks-also-thrive-in-the-underworld.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:12`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)

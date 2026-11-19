@@ -24,7 +24,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Autem fled, avoiding Darth Vader's grip, but the frustrated Dark Lord of the Sith cut down Omin in his anger.
 — Source: scan pages 401–440; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Autem fled, avoiding Darth Vader's grip, but the frustrated Dark Lord of the Sith cut down Omin in his anger." Source: The Complete Star Wars Encyclopedia, Vol. II, p.411
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.411 — full quote as printed](quotes/v2-p411-autem-fled-avoiding-darth-vaders-grip.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:128`
 
 ## Characters/Sagoro Autem.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -40,7 +39,6 @@ Our notes: `notes/materials/037-sw-d20-folder/147-sagoro-autem.md:10`
 > A tough-as-nails third-generation Senate Guard, Sagoro Autem is assigned to investigate the murder of Senator Jheramahd Greyshade. Autem's skills as an investigator and bodyguard could have gotten him promoted out of the field years ago, but he turned down a desk job to stay on active duty. He has surpassed most of his fellow guardsmen in skills and abilities due to a lifetime of devotion to the Republic. Sagoro Autem has no love for the Jedi, and considers them over-rated wizards that more often create obstacles than help solve cases.
 — Source: Characters/Sagoro Autem.pdf [Star Wars Roleplaying Game Revised Core (d20; Sagoro Autem — entry/section: Sagoro Autem.
 Note (our notes, around the quote): Sagoro Autem — entry/section: Sagoro Autem: "A tough-as-nails third-generation Senate Guard, Sagoro Autem is assigned to investigate the murder of Senator Jheramahd Greyshade. Autem's skills as an investigator and bodyguard could have gotten him promoted out of the field years ago, but he turned down a desk job to stay on active duty. He has surpassed most of his fellow guardsmen in skills and abilities due to a lifetime of devotion to the Republic. Sagoro Autem has no love for the Jedi, and considers them over-rated wizards that more often create obstacles than help solve cases." Source: *Sagoro Autem* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Sagoro Autem* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d147-s1-a-tough-as-nails-third-generation.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/147-sagoro-autem.md:12`
 
 ## Classes/Senate Guard.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -48,7 +46,6 @@ Our notes: `notes/materials/037-sw-d20-folder/147-sagoro-autem.md:12`
 > Some Senate Guards (such as Sagoro Autem) are distrustful of Jedi, preferring to deal in cold, hard facts and forensic evidence rather than what they (often mistakenly) view as reliance on mysticism and Force sorcery. A Senate Guard investigation is characteristically meticulous, thorough, and successful. Late in the Rise of the Empire era, however, the Guard is not immune to the corruption that has grown within the Senate itself -- bribes, planted evidence, and conspiracy become all too common in the years preceding the Clone Wars.
 — Source: Classes/Senate Guard.pdf [Star Wars Roleplaying Game Revised Core (d20, 2; Sagoro Autem — entry/section: Senate Guards and the Jedi.
 Note (our notes, around the quote): Sagoro Autem — entry/section: Senate Guards and the Jedi: "Some Senate Guards (such as Sagoro Autem) are distrustful of Jedi, preferring to deal in cold, hard facts and forensic evidence rather than what they (often mistakenly) view as reliance on mysticism and Force sorcery. A Senate Guard investigation is characteristically meticulous, thorough, and successful. Late in the Rise of the Empire era, however, the Guard is not immune to the corruption that has grown within the Senate itself -- bribes, planted evidence, and conspiracy become all too common in the years preceding the Clone Wars." Source: *Senate Guard* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Senate Guard* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d155-s1-some-senate-guards-such-as-sagoro.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/155-senate-guard.md:14`
 
 - Note (summary from our notes, not a quotation): Page contents: Class features (Charge bonus +1/+2/+3); ceremonial blaster rifle stats and description; Sagoro Autem/Honor and Duty links (hand-read)

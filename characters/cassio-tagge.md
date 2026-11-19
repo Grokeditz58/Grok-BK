@@ -14,13 +14,11 @@
 > Ulric Tagge grew up on the Core World of Tepasi surrounded by his ancient family’s wealth and luxury, and overshadowed by three older brothers: Orman, groomed from birth as the next baron; Silas, a born scientist with no interest in worldly concerns; and Cassio, a cautious, plodding strategist.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ulric Tagge; Orman Tagge; Silas Tagge; Cassio Tagge — entry/section: Ulric Tagge's brothers: "Ulric Tagge grew up on the Core World of Tepasi surrounded by his ancient family’s wealth and luxury, and overshadowed by three older brothers: Orman, groomed from birth as the next baron; Silas, a born scientist with no interest in worldly concerns; and Cassio, a cautious, plodding strategist." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-ulric-tagge-grew-up-on-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:321`
 
 > But after Cassio died aboard the Death Star, Ulric found himself a pawn in his eldest brother's plots to gain the Emperor's favor.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ulric Tagge; Cassio Tagge; Orman Tagge; Palpatine (Darth Sidious) — entry/section: Ulric Tagge after the Death Star: "But after Cassio died aboard the Death Star, Ulric found himself a pawn in his eldest brother's plots to gain the Emperor's favor." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-but-after-cassio-died-aboard-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:323`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -29,7 +27,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi; Cassio Tagge — entry/section: Pull quote (Cassio Tagge).
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from From a Certain Point of View (Star Wars) (Renée Ahdieh, Meg Cabot, John Jackson Miller, Nnedi Okorafor, Sabaa Tahir, and more!) (text copy `MEGA_Canon_From_A_Certain_Point_of_View_Star_Wars_From_a_Certain_Point_of_View_Various_epub`).)
 Note (our notes, around the quote): Cassio Tagge — entry/section: Pull quote (Cassio Tagge): ""THE REBEL ALLIANCE IS TOO WELL EQUIPPED, THEY'RE MORE DANGEROUS THAN YOU REALIZE." -GENERAL CASSIO TAGGE" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.152
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.152 — full quote as printed](quotes/d716-s152-the-rebel-alliance-is-too-well.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:212`
 
 ## Star Wars Insider #96 (2007)

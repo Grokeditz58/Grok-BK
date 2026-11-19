@@ -216,7 +216,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:134`
 
 - Note (summary from our notes, not a quotation): Gar Stazi CL 16, Will 35 (p135). Gial Gahan CL 14 (p138). Hondo Karr CL 10, hp 91 (p139). Jaius Yorub CL 13 (p140). Jhoram Bey CL 12 (p136).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p138 Hondo Karr survives Maleval](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+![p138 Hondo Karr survives Maleval](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:952`
 
 - Note (summary from our notes, not a quotation): Others: Nyna Calixte / Morrigan Corde (CL15), Gar Stazi (CL16), Morlish Veed (CL15), Rulf and Gunn Yage, "Bantha" Rawk (CL8), the Yuuzhan Vong NPCs, and all vehicles.
@@ -233,7 +233,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:52`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Trust Issues p90 (= 009 p229): the man knifing Bovark is Admiral Gar Stazi (Duros), not "the Mon Cal aide", and Draco's push hits Stazi only, not "the guards".
-![p90 Draco Force-pushes Admiral Stazi](012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
+![p90 Draco Force-pushes Admiral Stazi](../notes/materials/012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:535`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

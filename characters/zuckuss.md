@@ -20,7 +20,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan
 > Thus, when they met with Darth Vader aboard the Super Star Destroyer Executor, Zuckuss was afraid the Dark Lord would call him out on the Nardix bounty, but Vader let them go in peace.
 — Source: scan pages 181–210; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Thus, when they met with Darth Vader aboard the Super Star Destroyer Executor, Zuckuss was afraid the Dark Lord would call him out on the Nardix bounty, but Vader let them go in peace." Source: The New Essential Guide to Characters, p.207
-![Quote image: The New Essential Guide to Characters, p.207 — full quote as printed](quotes/negc-p207-thus-when-they-met-with-darth.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:139`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -29,7 +28,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-1
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; 4-LOM — entry/section: Droids!: LOM series.
 Note (our notes, around the quote): 4-LOM — entry/section: Droids!: LOM series: "LOMs became infamous after one unit stationed on a cruise liner went rogue, becoming the notorious bounty hunter 4-LOM, partner of Gand bounty hunter Zuckuss" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.50
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.50 — full quote as printed](quotes/d052-s50-loms-became-infamous-after-one-unit.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:289`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -51,7 +49,6 @@ Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-001-06
 > One of the most surprising bounty hunters is the protocol droid 4-LOM. After becoming independent, 4-LOM explored the galaxy as an unusual broker of information. He eventually found employment from Jabba the Hutt. The crime lord saw promise in 4-LOM as a bounty hunter, so he upgraded the droid and introduced him to his partner Zuckuss.
 — Source: Characters/Miniatures/We Don't Need That Scum.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): 4-LOM; Jabba the Hutt; Zuckuss — entry/section: 4-LOM becomes a bounty hunter: "One of the most surprising bounty hunters is the protocol droid 4-LOM. After becoming independent, 4-LOM explored the galaxy as an unusual broker of information. He eventually found employment from Jabba the Hutt. The crime lord saw promise in 4-LOM as a bounty hunter, so he upgraded the droid and introduced him to his partner Zuckuss." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d115-s1-one-of-the-most-surprising-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: Greedo (Scoundrel 4, CC C); IG-88 (Holowan Laboratories, Scout 4/Soldier 3/Bounty Hunter 1, CC E, IG-2000); Zuckuss (Gand ammonia breather oxygen rules; Force Adept 2/Scout 3/Findsman 5/Bounty Hunter 1, CC E) (hand-read)
@@ -63,7 +60,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:40`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Zuckuss; 4-LOM — entry/section: Zuckuss the findsman: "The cold logic of the bounty hunter 4-LOM was a perfect match for the amazing intuition of Zuckuss. As a findsman, Zuckuss performs a mystical meditation that gives him an advantage in locating his target." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d115-s3-the-cold-logic-of-the-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:46`
 
 - Note (summary from our notes, not a quotation): Page contents: Zuckuss gear/skills (Mist Hunter); Weapons: Mennotor DAS-430 (cost 1,200, 1d6, 8 m, 8 shots); Neural Inhibitor Dart (DC 15 poison, 1d6 Dex/paralysis, 10 cr); Relby-v10 micro grenade launcher (cost 3,000, 30 m, 8 shots) (hand-read)
@@ -93,7 +89,6 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.
 > Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga).
 Note (our notes, around the quote): Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga): "Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.116
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.116 — full quote as printed](quotes/d725-s116-although-the-gand-was-not-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:381`
 
 - Note (summary from our notes, not a quotation): Page contents: Zuckuss stat block (Medium Gand scout 7/bounty hunter 4). Pull quote: Darth Vader. ARCHETYPES section intro and Table 4-1: Other Archetypes (Assassin, Bounty hunter, Con artist, Gambler, Information broker, Outlaw tech, Pirates, Police officer, Sector ranger, Slicer, Smuggler, Swoop gangs, Thug; table tail image-read). (hand-read)
@@ -179,7 +174,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:301`
 > I usually take the sketch that our planning division provides us and draw out an overall image. Then I create a rough sculpt. Afterwards, I work on the detail. I mainly use Sculpey [clay] to mold. I try to maintain whatever makes the character unique. Zuckuss took me about 20 days, especially working on the skin texture. I'd like to work on Jabba the Hutt, all the Jedi, the Rancor that dwells under Jabba's palace—in fact, all creatures in general!
 — Source: Star Wars Insider #99 (2008); Zuckuss; Jabba the Hutt — entry/section: Abe on sculpting Zuckuss.
 Note (our notes, around the quote): Zuckuss; Jabba the Hutt — entry/section: Abe on sculpting Zuckuss: ""I usually take the sketch that our planning division provides us and draw out an overall image. Then I create a rough sculpt. Afterwards, I work on the detail. I mainly use Sculpey [clay] to mold. I try to maintain whatever makes the character unique. Zuckuss took me about 20 days, especially working on the skin texture. I'd like to work on Jabba the Hutt, all the Jedi, the Rancor that dwells under Jabba's palace—in fact, all creatures in general!" —Junnosuke Abe, Star Wars Insider 99, p. 34" Source: *Star Wars Insider #99* (2008), scan p.34
-![Quote image: *Star Wars Insider #99* (2008), scan p.34 — full quote as printed](quotes/ins099-s34-i-usually-take-the-sketch-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:305`
 
 > Padawan's How to Draw: Zuckuss — Your mission is to capture a likeness of notorious galactic bounty hunter Zuckuss! *(byline on p73: Cynthia Cummens)*

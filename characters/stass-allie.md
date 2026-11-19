@@ -468,7 +468,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:689`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Stass Allie; Shaak Ti — Grievous captures Palpatine: "directly by General Grievous, butcher of a thousand worlds." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-grievous-captures-palpatine.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:479`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -484,13 +483,12 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Shaak Ti — none could stop Grievous: "Palpatine's Jedi defenders, including Mace Windu, Kit Fisto, Stass Allie, and Shaak Ti, hustled the chancellor to a hovertrain, and then a hardened command bunker, but none of them could stop Grievous." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-none-could-stop-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:481`
 
 > On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Aayla Secura; Barriss Offee; Ki-Adi-Mundi; Plo Koon; Stass Allie; Obi-Wan Kenobi; Yoda — Order 66: "On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-order-66.jpg)
+![Quote image: The New Essential Chronology, p.84 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p84-order-66.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:518`
 
 ## Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -498,13 +496,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Barriss was considered curious, reckless, and overconfident at times. She often depended on the Force to get her out of trouble, a habit that did not sit well with her Master. Barriss became a skilled healer, working with Stass Allie and joining the Circle of Jedi Healers.
 — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol; Barriss Offee; Stass Allie — entry/section: Barriss the healer.
 Note (our notes, around the quote): Barriss Offee; Stass Allie — entry/section: Barriss the healer: "Barriss was considered curious, reckless, and overconfident at times. She often depended on the Force to get her out of trouble, a habit that did not sit well with her Master. Barriss became a skilled healer, working with Stass Allie and joining the Circle of Jedi Healers." Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d101-s2-barriss-was-considered-curious-reckless-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:25`
 
 > Barriss eventually became a Jedi Knight. In the final days of the Clone Wars, she and her Padawan, a Selonian called Zonder, fought on Felucia with Jedi Master Stass Allie. In the midst of battle, a massive Republic AT-TE blasted Barris, making her yet another casualty of Order 66.
 — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol.
 Note (our notes, around the quote): Barriss Offee; Stass Allie — entry/section: Barriss's death in Order 66: "Barriss eventually became a Jedi Knight. In the final days of the Clone Wars, she and her Padawan, a Selonian called Zonder, fought on Felucia with Jedi Master Stass Allie. In the midst of battle, a massive Republic AT-TE blasted Barris, making her yet another casualty of Order 66." Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d101-s2-barriss-eventually-became-a-jedi-knight.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:27`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)

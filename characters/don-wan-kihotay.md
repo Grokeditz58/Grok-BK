@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-06
 > Fie upon you, foul feathery fiend—In the name of justice, let this planet be cleansed of such filth as you and your brethren!
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Don-Wan Kihotay — entry/section: Don-Wan Kihotay to a high-hound: "Fie upon you, foul feathery fiend—In the name of justice, let this planet be cleansed of such filth as you and your brethren!" Source: *Star Wars Gamer 04* (SWRPG d20), scan p.42
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.42 — full quote as printed](quotes/d053-s42-fie-upon-you-foul-feathery-fiend.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:233`
 
 ## Star Wars Insider #91 (2007)

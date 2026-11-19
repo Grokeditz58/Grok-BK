@@ -14,13 +14,11 @@
 > Jedi Council member Yaddle sacrificed her life to prevent Omega from poisoning the population with dinoxalon gas.
 — Source: Part Two: The Fall of the Republic; Yaddle — Yaddle's sacrifice.
 Note (our notes, around the quote): Yaddle — Yaddle's sacrifice: "Jedi Council member Yaddle sacrificed her life to prevent Omega from poisoning the population with dinoxalon gas." Source: The New Essential Chronology, p.48
-![Quote image: The New Essential Chronology, p.48 — full quote as printed](quotes/nec-p48-yaddles-sacrifice.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:176`
 
 > Obi-Wan killed Granta Omega in a final showdown.
 — Source: Part Two: The Fall of the Republic; Obi-Wan Kenobi — Obi-Wan kills Granta Omega.
 Note (our notes, around the quote): Obi-Wan Kenobi — Obi-Wan kills Granta Omega: "Obi-Wan killed Granta Omega in a final showdown." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-obi-wan-kills-granta-omega.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:189`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -30,7 +28,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): An'ya Kuro (Dark Woman) — entry/section: Dark Woman: "His entire unit was wiped out at the Battle of Geonosis and he was reassigned to Omega Squad." Source: The Complete Star Wars Encyclopedia, Vol. I, p.169
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.169 — full quote as printed](quotes/v1-p169-his-entire-unit-was-wiped-out.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:209`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -42,7 +39,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > During a scheme on Haariden, Omega captured Padawan Anakin Skywalker and revealed that he was working to destroy the Jedi Knights in order to curry favor with the mysterious Sith Lord Darth Sidious.
 — Source: scan pages 401–440; Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious): "During a scheme on Haariden, Omega captured Padawan Anakin Skywalker and revealed that he was working to destroy the Jedi Knights in order to curry favor with the mysterious Sith Lord Darth Sidious." Source: The Complete Star Wars Encyclopedia, Vol. II, p.410
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.410 — full quote as printed](quotes/v2-p410-during-a-scheme-on-haariden-omega.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:117`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -50,7 +46,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Luke Skywalker destroyed the station, but Orman worked with his brother Silas to cut off a major supply route using the Omega Frost device.
 — Source: scan pages 201–240; Luke Skywalker. POV: Luke Skywalker, about Granta Omega.
 Note (our notes, around the quote): Luke Skywalker: "Luke Skywalker destroyed the station, but Orman worked with his brother Silas to cut off a major supply route using the Omega Frost device." Source: The Complete Star Wars Encyclopedia, Vol. III, p.211
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.211 — full quote as printed](quotes/v3-p211-luke-skywalker-destroyed-the-station-but.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:154`
 
 ## Characters/Granta Omega.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -66,18 +61,15 @@ Our notes: `notes/materials/037-sw-d20-folder/138-granta-omega.md:10`
 > As young Anakin Skywalker continues his training as Obi-Wan Kenobi's Padawan learner, the pair has numerous run-ins with this shadowy master of disguise. The evil Granta Omega is a wealthy businessman and brilliant scientist obsessed with the Sith, and he is the power behind a resurgence devoted to that ancient dark side creed.
 — Source: Characters/Granta Omega.pdf [Star Wars Roleplaying Game Revised Core (d20.
 Note (our notes, around the quote): Granta Omega; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Granta Omega: "As young Anakin Skywalker continues his training as Obi-Wan Kenobi's Padawan learner, the pair has numerous run-ins with this shadowy master of disguise. The evil Granta Omega is a wealthy businessman and brilliant scientist obsessed with the Sith, and he is the power behind a resurgence devoted to that ancient dark side creed." Source: *Granta Omega* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Granta Omega* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d138-s1-as-young-anakin-skywalker-continues-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/138-granta-omega.md:12`
 
 - Note (summary from our notes, not a quotation): Granta Omega — entry/section: Omega's 'void': "To Omega's frustration, the Sith cultist has no special connection to the Force. Granta Omega does possess highly developed skills of deception; more than once, he has escaped detection while right under Jedi noses. In disguise, Omega can make himself a "void." People forget they've seen him, or if they do remember him, they often can't quite place the face. No one is exactly sure how Omega pulls this trick off. Little is known about his past except that his mother raised him on Nierport VII." Source: *Granta Omega* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Granta Omega.pdf [Star Wars Roleplaying Game Revised Core (d20.
-![Quote image: *Granta Omega* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d138-s1-to-omegas-frustration-the-sith-cultist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/138-granta-omega.md:14`
 
 > When Anakin and Obi-Wan rescued a group of researchers from a civil war on Norah while hunting for Omega, the evil devotee impersonated scientist Tic Verdun and even befriended young Skywalker before revealing his true identity. The Jedi duo trailed him to a secret hideout on Raamen, but Granta Omega slipped away once more, deleting all computer files of his contacts and plans before they could be used against him. Anakin and Obi-Wan have not seen the last of this insidious mastermind.
 — Source: Characters/Granta Omega.pdf [Star Wars Roleplaying Game Revised Core (d20.
 Note (our notes, around the quote): Granta Omega; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Omega on Norah and Raamen: "When Anakin and Obi-Wan rescued a group of researchers from a civil war on Norah while hunting for Omega, the evil devotee impersonated scientist Tic Verdun and even befriended young Skywalker before revealing his true identity. The Jedi duo trailed him to a secret hideout on Raamen, but Granta Omega slipped away once more, deleting all computer files of his contacts and plans before they could be used against him. Anakin and Obi-Wan have not seen the last of this insidious mastermind." Source: *Granta Omega* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Granta Omega* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d138-s1-when-anakin-and-obi-wan-rescued.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/138-granta-omega.md:16`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -118,7 +110,6 @@ Our notes: `notes/materials/038-star-wars-insider/081-ins081.md:459`
 (A fragment line was removed 2026-11-17: its words appear word for word inside the full excerpt in this entry.)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Triple Zero (Karen Traviss), Chapter 25 (text copy `MEGA_Legend_The_Republic_Commando_Series_Star_Wars_Clone_Wars_08_Republic_Commando_02_Triple_Zero_Karen_Traviss_epub`).)
 Note (our notes, around the quote): none — entry/section: Ordo on Fi: ""We're not supposed to be in the public eye," said Ordo. "But it doesn't do the Republic's citizens any harm to know what we do." He was staring intently at Fi. "And you, brother, are very mouthy, very annoying, and stupidly brave. I forgive you for the crack about the kama. This time, anyway." —Karen Traviss, "Omega Squad: Targets," Star Wars Insider 81, p. 69" Source: *Star Wars Insider #81* (2005), scan p.69
-![Quote image: *Star Wars Insider #81* (2005), scan p.69 — full quote as printed](quotes/ins081-s69-were-not-supposed-to-be-in.jpg)
 Our notes: `notes/materials/038-star-wars-insider/081-ins081.md:461`
 
 ## Star Wars Insider #83 (2005)
@@ -151,7 +142,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:218`
 > George is the Alpha and the Omega, and is involved in the story from beginning to end. On The Clone Wars, that means from the initial story idea until the final sound mix.
 — Source: Star Wars Insider #103 (2008).
 Note (our notes, around the quote): none — entry/section: Gilroy: Lucas is the Alpha and the Omega: ""George is the Alpha and the Omega, and is involved in the story from beginning to end. On The Clone Wars, that means from the initial story idea until the final sound mix." —Henry Gilroy, Star Wars Insider 103, p. 12" Source: *Star Wars Insider #103* (2008), scan p.12
-![Quote image: *Star Wars Insider #103* (2008), scan p.12 — full quote as printed](quotes/ins103-s12-george-is-the-alpha-and-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:115`
 
 ## Star Wars: Legacy—War #1–6 (2010–11): power-scaling notes with panels
@@ -169,12 +159,12 @@ Our notes: `notes/materials/010-legacy-war.md:40`
 > MASS MURDER IS SOMETHING THE SITH DO.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Bastion: Maladi and Omega Red (p32–34). The Borosk front collapses. Chalk shows Fel the prisoner Maladi, half-mad from Cade's mind attack. She offers "OMEGA RED" for "THE HEAD OF CADE SKYWALKER". Fel refuses ("MASS MURDER IS SOMETHING THE SITH DO.").
-![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:95`
 
 - Note (summary from our notes, not a quotation): 5. Foresight and strategy: Taivas, the troopers, and Omega Red as his own trap.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 Krayt: the Moffs are bait](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg) *(p60)*
+![p60 Krayt: the Moffs are bait](../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg) *(p60)*
 Our notes: `notes/materials/010-legacy-war.md:225`
 
 - Note (summary from our notes, not a quotation): Omega Red would have worked too had Fel launched it. On the page Draco stops the launch (p126), so the toxin was never released, and the "dispersed" Coruscant of p123 is part of the vision.
@@ -182,7 +172,7 @@ Our notes: `notes/materials/010-legacy-war.md:225`
 Context: Scaling (ANALYSIS):
 Our notes: `notes/materials/010-legacy-war.md:250`
 
-- Note (summary from our notes, not a quotation): ![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+- Note (summary from our notes, not a quotation): ![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p33 — `p033-maladi-omega-red-offer.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:614`
@@ -212,8 +202,8 @@ Our notes: `notes/materials/010-legacy-war.md:1187`
 
 - Note (summary from our notes, not a quotation): Omega Red: never released. Draco strikes Fel down before the launch (p126). The dead Coruscant is part of Krayt's vision (p123).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1199`
 
 ## https://starwars.fandom.com/wiki/Darth_Krayt

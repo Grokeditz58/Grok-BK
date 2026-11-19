@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): C-3PX; Olag Greck — entry/section: Galaxy's Most Wanted: C-3PX: "in a short time C-3PX was wildly successful, Every job went off without a hitch" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.52
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.52 — full quote as printed](quotes/d052-s52-in-a-short-time-c-3px.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:305`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -27,7 +26,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 > The turning point in the droid’s early career came when it was placed in the service of Darth Maul in the years leading up to the Trade Federation’s blockade of Naboo. Maul had little use for a protocol droid, however, and he modified C-3PX to become a security droid for his Sith infiltrator. He built improved sensors, increased strength, and 83 different weapons into the droid’s chassis, and he altered its programming to help the droid use these new tools. Some time after these modifications were made, Darth Maul brought C-3PX along with him on a mission, which was successful for Maul, but not before he lost the droid somewhere within a demolished Bartokk fortress. Maul searched for the droid but was unable to locate it before he was forced to leave the Bartokks behind and complete his mission alone.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; C-3PX; Darth Maul; Olag Greck — entry/section: C-3PX.
 Note (our notes, around the quote): C-3PX; Darth Maul; Olag Greck — entry/section: C-3PX: "The turning point in the droid’s early career came when it was placed in the service of Darth Maul in the years leading up to the Trade Federation’s blockade of Naboo. Maul had little use for a protocol droid, however, and he modified C-3PX to become a security droid for his Sith infiltrator. He built improved sensors, increased strength, and 83 different weapons into the droid’s chassis, and he altered its programming to help the droid use these new tools. Some time after these modifications were made, Darth Maul brought C-3PX along with him on a mission, which was successful for Maul, but not before he lost the droid somewhere within a demolished Bartokk fortress. Maul searched for the droid but was unable to locate it before he was forced to leave the Bartokks behind and complete his mission alone." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.14
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.14 — full quote as printed](quotes/d672-s14-the-turning-point-in-the-droid.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:99`
 
 ## Star Wars Insider #25 (1995)
@@ -68,7 +66,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:235`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #82 (2005); Darth Vader (Anakin Skywalker) — entry/section: "The whole caboodle".
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: "The whole caboodle": ""It was a matter of making it in certain pieces so that you could quickly take off bits on the set so that he wouldn't have to go around all day in the whole caboodle," recalled Mollo. —John Mollo, Star Wars Insider 82, p. 36" Source: *Star Wars Insider #82* (2005), scan p.36
-![Quote image: *Star Wars Insider #82* (2005), scan p.36 — full quote as printed](quotes/ins082-s36-it-was-a-matter-of-making.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:239`
 
 - Note (summary from our notes, not a quotation): Page contents: Set piece callouts: stormtrooper blasters from Sterling submachine guns; red exit lights; Prowse's role choice; Mollo's Academy Award; Ben Burtt's breathing; Rebel Fleet Trooper helmets from U.S. Navy MK-2 Talker helmets; Rebel blasters. (hand-read)
@@ -127,13 +124,11 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:306`
 > Well, it was the first film I'd done as a costume designer. I'd worked on quite a lot of big films as a technical adviser, and as a military and historical adviser, but this was the first one where I was a proper costume designer.
 — Source: Star Wars Insider #98 (2008); none — entry/section: First costume film.
 Note (our notes, around the quote): none — entry/section: First costume film: ""Well, it was the first film I'd done as a costume designer. I'd worked on quite a lot of big films as a technical adviser, and as a military and historical adviser, but this was the first one where I was a proper costume designer." —John Mollo, Star Wars Insider 98, p. 33" Source: *Star Wars Insider #98* (2008), scan p.33
-![Quote image: *Star Wars Insider #98* (2008), scan p.33 — full quote as printed](quotes/ins098-s33-well-it-was-the-first-film.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:308`
 
 > George wanted the good guys to look quite loose. He wanted those dust coats, which I think originally came out of Westerns. He didn't want it to look 'spacey' at all. In fact, he said he didn't want anyone to notice the costumes, which I thought was quite a good line!
 — Source: Star Wars Insider #98 (2008); Han Solo — entry/section: Nobody notices costumes.
 Note (our notes, around the quote): Han Solo — entry/section: Nobody notices costumes: ""George wanted the good guys to look quite loose. He wanted those dust coats, which I think originally came out of Westerns. He didn't want it to look 'spacey' at all. In fact, he said he didn't want anyone to notice the costumes, which I thought was quite a good line!" —John Mollo, Star Wars Insider 98, p. 33" Source: *Star Wars Insider #98* (2008), scan p.33
-![Quote image: *Star Wars Insider #98* (2008), scan p.33 — full quote as printed](quotes/ins098-s33-george-wanted-the-good-guys-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:310`
 
 - Note (summary from our notes, not a quotation): Page contents: Mollo interview cont.: sketches of Imperial officers, Rebel pilot, TIE pilot; inset photos (Imperial officer, Obi-Wan in robe, TIE pilot) (hand-read)
@@ -144,20 +139,17 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:315`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #98 (2008).
 Note (our notes, around the quote): none — entry/section: Greeblies: ""There was one guy in the props department who was completely responsible for sticking bits onto things! He was the first chap who I ever heard use the term "greeblies," which is now in common usage. Greeblies came from all over the place. They came from Airfix model kits and Tiger tank kits." —John Mollo, Star Wars Insider 98, p. 34" Source: *Star Wars Insider #98* (2008), scan p.34
-![Quote image: *Star Wars Insider #98* (2008), scan p.34 — full quote as printed](quotes/ins098-s34-there-was-one-guy-in-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:317`
 
 > The Rebel pilots' chest boxes were made out of two plastic seed boxes glued together, with all these greeblies stuck on. The pipe that came out from it was a bath overflow pipe. I bought 50 of those from a plumber in Borehamwood ... The little Imperial cap badge came from another shop in Borehamwood. It was some sort of pulley, from the middle of a record player, with a notch out of it for some reason.
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #98 (2008); none — entry/section: Chest boxes and cap badge.
 Note (our notes, around the quote): none — entry/section: Chest boxes and cap badge: ""The Rebel pilots' chest boxes were made out of two plastic seed boxes glued together, with all these greeblies stuck on. The pipe that came out from it was a bath overflow pipe. I bought 50 of those from a plumber in Borehamwood ... The little Imperial cap badge came from another shop in Borehamwood. It was some sort of pulley, from the middle of a record player, with a notch out of it for some reason." —John Mollo, Star Wars Insider 98, p. 34" Source: *Star Wars Insider #98* (2008), scan p.34
-![Quote image: *Star Wars Insider #98* (2008), scan p.34 — full quote as printed](quotes/ins098-s34-the-rebel-pilots-chest-boxes-were.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:319`
 
 > She was very simple to dress in the first one. That look was really based on information we had from the U.S. The silver necklace I found in a jewellers in the Fulham Road.
 — Source: Star Wars Insider #98 (2008); Leia Organa Solo — entry/section: Silver necklace.
 Note (our notes, around the quote): Leia Organa Solo — entry/section: Silver necklace: ""She was very simple to dress in the first one. That look was really based on information we had from the U.S. The silver necklace I found in a jewellers in the Fulham Road." —John Mollo, Star Wars Insider 98, p. 34" Source: *Star Wars Insider #98* (2008), scan p.34
-![Quote image: *Star Wars Insider #98* (2008), scan p.34 — full quote as printed](quotes/ins098-s34-she-was-very-simple-to-dress.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:323`
 
 > Dressing for the occasion *(homemade costumes, auction)*
@@ -169,31 +161,26 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:332`
 > Yes, I think Luke is wearing a yellow ski jacket—a stock Alpine jacket or something like that. Quite a lot of it was thrown together, but I'm sure I talked to George about that. It suggests that he's grown up a bit from the farm boy he was to a more Han Solo look.
 — Source: Star Wars Insider #98 (2008); Luke Skywalker; Han Solo — entry/section: Yellow ski jacket.
 Note (our notes, around the quote): Luke Skywalker; Han Solo — entry/section: Yellow ski jacket: ""Yes, I think Luke is wearing a yellow ski jacket—a stock Alpine jacket or something like that. Quite a lot of it was thrown together, but I'm sure I talked to George about that. It suggests that he's grown up a bit from the farm boy he was to a more Han Solo look." —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-yes-i-think-luke-is-wearing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:334`
 
 > Chewbacca was perhaps the most complicated, because he had a one-piece, pink-knitted Angora suit, with all the hair put on by a wig maker. It was actually a complete wig-making job. I think we made two of them. It was all great fun!
 — Source: Star Wars Insider #98 (2008); Chewbacca — entry/section: Pink Angora suit.
 Note (our notes, around the quote): Chewbacca — entry/section: Pink Angora suit: ""Chewbacca was perhaps the most complicated, because he had a one-piece, pink-knitted Angora suit, with all the hair put on by a wig maker. It was actually a complete wig-making job. I think we made two of them. It was all great fun!" —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-chewbacca-was-perhaps-the-most-complicated.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:338`
 
 > The stormtroopers, of course, were designed by McQuarrie, but they were wardrobe too. They were handed over to us to put together and put on people. That was quite a job. The wardrobe department was like a car factory, with pieces going past and people gluing things on.
 — Source: Star Wars Insider #98 (2008); none — entry/section: Car factory wardrobe.
 Note (our notes, around the quote): none — entry/section: Car factory wardrobe: ""The stormtroopers, of course, were designed by McQuarrie, but they were wardrobe too. They were handed over to us to put together and put on people. That was quite a job. The wardrobe department was like a car factory, with pieces going past and people gluing things on." —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-the-stormtroopers-of-course-were-designed.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:340`
 
 > Nowadays, some of those things have crept into modern day riot police gear. You see people on television looking like they came straight out of Star Wars.
 — Source: Star Wars Insider #98 (2008); none — entry/section: Riot police gear.
 Note (our notes, around the quote): none — entry/section: Riot police gear: ""Nowadays, some of those things have crept into modern day riot police gear. You see people on television looking like they came straight out of Star Wars." —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-nowadays-some-of-those-things-have.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:342`
 
 > It's great! I'm amazed by what they do. I did a thing down in Brighton a couple of weeks ago and about 10 guys from the 501st Legion turned up out of the blue! Last night [at Celebration Europe] they were all outside the pub! They're great.
 — Source: Star Wars Insider #98 (2008); none — entry/section: 501st at the pub.
 Note (our notes, around the quote): none — entry/section: 501st at the pub: ""It's great! I'm amazed by what they do. I did a thing down in Brighton a couple of weeks ago and about 10 guys from the 501st Legion turned up out of the blue! Last night [at Celebration Europe] they were all outside the pub! They're great." —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-its-great-im-amazed-by-what.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:344`
 
 - Note (summary from our notes, not a quotation): Page contents: Q&A cont.: sail barge casualties; Palpatine's red hologram (not Death Star plans); post-ROTJ knowledge of Vader's identity; "We Break for Nobody" on Tyrant (Encyclopedia p.319, Decipher CCG image); Imperial cog/Rebel logo origins (John Mollo); Leia's age (asker names omitted) (hand-read)
@@ -203,13 +190,11 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:475`
 > The metal insignia used on the Imperial Officers' cap and belt buckles, was an aluminum pulley which was part of a record turntable mechanism, which we bought in bulk and used exactly as they were. The circular black and white logo used on the Imperial helmets was designed by me, and was based on a series of sketches working out the possible use of shapes occurring in 18th Century fortification.
 — Source: Star Wars Insider #98 (2008); none — entry/section: Imperial insignia.
 Note (our notes, around the quote): none — entry/section: Imperial insignia: ""The metal insignia used on the Imperial Officers' cap and belt buckles, was an aluminum pulley which was part of a record turntable mechanism, which we bought in bulk and used exactly as they were. The circular black and white logo used on the Imperial helmets was designed by me, and was based on a series of sketches working out the possible use of shapes occurring in 18th Century fortification." —John Mollo, Star Wars Insider 98, p. 50" Source: *Star Wars Insider #98* (2008), scan p.50
-![Quote image: *Star Wars Insider #98* (2008), scan p.50 — full quote as printed](quotes/ins098-s50-the-metal-insignia-used-on-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:477`
 
 > The Rebel logo I take to be the one on the Fighter Pilots' helmets. This was again designed by me—no particular sources used this time.
 — Source: Star Wars Insider #98 (2008); none — entry/section: Rebel logo.
 Note (our notes, around the quote): none — entry/section: Rebel logo: ""The Rebel logo I take to be the one on the Fighter Pilots' helmets. This was again designed by me—no particular sources used this time." —John Mollo, Star Wars Insider 98, p. 50" Source: *Star Wars Insider #98* (2008), scan p.50
-![Quote image: *Star Wars Insider #98* (2008), scan p.50 — full quote as printed](quotes/ins098-s50-the-rebel-logo-i-take-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:479`
 
 > We also found two hundred French Foreign Legion costumes, khaki jobs with collars, so we added hats, scarves, and things. For the Rebel generals, George came in with a still from Once Upon a Time in the West, where they were all striding through the dust in Rangoon coats. Gary came in with a khaki jacket with leather patches and a bit of metal hanging on it. One of the art directors wanted an American cavalry shirt…
@@ -233,7 +218,6 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:479`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from The Making of Star Wars (Enhanced Edition) (J. W. Rinzler) (text copy `novels_tmp_lucas_bts_rinzler_making_of_star_wars_2007_epub_545cca41bb`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from The Making of Star Wars (Enhanced Edition) (J. W. Rinzler) (text copy `novels_tmp_lucas_bts_rinzler_making_of_star_wars_2007_epub_545cca41bb`).)
 Note (our notes, around the quote): Luke Skywalker; Han Solo — entry/section: Outfit like Han's: ""It was a very last-minute thing, but we concocted an outfit like Han's in different colors." —John Mollo, Star Wars Insider 98, p. 56" Source: *Star Wars Insider #98* (2008), scan p.56
-![Quote image: *Star Wars Insider #98* (2008), scan p.56 — full quote as printed](quotes/ins098-s56-it-was-a-very-last-minute.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:549`
 
 ## Star Wars Insider #99 (2008)
@@ -370,13 +354,11 @@ Our notes: `notes/materials/052-making-of-rotj/rotj-02.md:56`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #98 (2008); none — entry/section: Rank badges.
 Note (our notes, around the quote): none — entry/section: Rank badges: ""They were just push buttons from an electrical store on the Finchley Road! They came in blue and red. The Rebels had the round ones and the Imperials had the rectangles. ... I think the more senior they were, the more buttons they had!" —John Mollo, Star Wars Insider 98, p. 34" Source: *Star Wars Insider #98* (2008), scan p.34
-![Quote image: *Star Wars Insider #98* (2008), scan p.34 — full quote as printed](quotes/ins098-s34-they-were-just-push-buttons-from.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:321`
 
 > They were racing driver overalls that we bought from stock. The Rebels got the orange ones, and the TIE fighter pilots had the same thing in black, with a variation of the stormtroopers' helmets.
 — Source: Star Wars Insider #98 (2008); none — entry/section: Racing driver overalls.
 Note (our notes, around the quote): none — entry/section: Racing driver overalls: ""They were racing driver overalls that we bought from stock. The Rebels got the orange ones, and the TIE fighter pilots had the same thing in black, with a variation of the stormtroopers' helmets." —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-they-were-racing-driver-overalls-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:336`
 
 # Debate and forum claims (unverified)

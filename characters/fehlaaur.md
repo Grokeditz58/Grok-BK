@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > COINCIDENCES CAN ALWAYS BE LINKED IN A SUGGESTIVE MANNER.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Moff Fehlaaur — entry/section: Pull quote.
 Note (our notes, around the quote): Moff Fehlaaur — entry/section: Pull quote: ""COINCIDENCES CAN ALWAYS BE LINKED IN A SUGGESTIVE MANNER." —MOFF FEHLAAUR" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.13
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.13 — full quote as printed](quotes/d719-s13-coincidences-can-always-be-linked-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:99`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -44,17 +43,17 @@ Our notes: `notes/materials/010-legacy-war.md:78`
 
 - Note (summary from our notes, not a quotation): Moffs: Fehlaaur becomes chief intelligence officer (p60). Geist apparently dies under fire from Krayt's ships (p77; his comm cuts off: "GEIST?!" "GEIST?!").
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
-![p77 Sith troopers advance](010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
+![p60 "THEY ARE MERELY BAIT"](../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p77 Sith troopers advance](../notes/materials/010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
 Our notes: `notes/materials/010-legacy-war.md:916`
 
 ## Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels
 
 - Note (summary from our notes, not a quotation): Oron Jaeger CL 12 (p179). Fehlaaur CL 11 (p176). Konrad Rus CL 10 (p180).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p179 Azlyn Rae bio](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
-![p180 Azlyn Rae CL 11](011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
+![p179 Azlyn Rae bio](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
+![p180 Azlyn Rae CL 11](../notes/materials/011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:950`
 
 ## Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels

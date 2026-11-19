@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:5
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 Note (our notes, around the quote): Tero Reskan — entry/section: Contacting Tero Reskan: "He despises the Empire, blaming them for nationalizing his interstellar shipping business that used to run to the Deep Core and forcing him out." Source: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.8
-![Quote image: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d708-s8-he-despises-the-empire-blaming-them.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:57`
 
 # Debate and forum claims (unverified)

@@ -45,7 +45,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #74 (2004); Armand Isard — entry/section: Isard on the Techno Union.
 Note (our notes, around the quote): Armand Isard — entry/section: Isard on the Techno Union: ""Too long has the enemy benefited from the research and innovation of the Techno Union," said Armand Isard, director of the Senate Bureau of Intelligence, via holocomm. —Armand Isard, Star Wars Insider 74, p. 61" Source: *Star Wars Insider #74* (2004), scan p.61
-![Quote image: *Star Wars Insider #74* (2004), scan p.61 — full quote as printed](quotes/ins074-s61-too-long-has-the-enemy-benefited.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:406`
 
 ## Star Wars Insider #75 (2004)

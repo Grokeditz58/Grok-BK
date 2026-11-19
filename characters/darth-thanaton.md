@@ -14,92 +14,77 @@
 > Before he became Darth Thanaton, Teneb Kel led the army that retook the planet Begeren. At great personal risk, he infiltrated the enemy's fortress to assassinate its leaders and end the conflict.
 — Source: The Sith; Darth Thanaton — Champions of Battle (top-right).
 Note (our notes, around the quote): Darth Thanaton — Champions of Battle (top-right): "Before he became Darth Thanaton, Teneb Kel led the army that retook the planet Begeren. At great personal risk, he infiltrated the enemy's fortress to assassinate its leaders and end the conflict." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-before-he-became-darth-thanaton-teneb.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:258`
 
 > The armor of Darth Thanaton incorporates life-support devices and combat stimulant injectors to give him an edge in battle.
 — Source: The Sith; Darth Thanaton — Caption.
 Note (our notes, around the quote): Darth Thanaton — Caption: "The armor of Darth Thanaton incorporates life-support devices and combat stimulant injectors to give him an edge in battle." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-the-armor-of-darth-thanaton-incorporates.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:262`
 
 > Centuries later, his descendent, Vodal Kressh, led a bitter revolt against the current Sith Empire's ruler, Darth Vitiate. Vodal was forced into exile on the planet Athiss, but one of his descendants returned to become the Emperor's personal apprentice. Exal Kressh eventually turned on her Emperor and was killed for this betrayal by the young Sith Teneb Kel, who became Darth Thanaton.
 — Source: The Sith.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Darth Thanaton — The Kressh Legacy (top-right): "Centuries later, his descendent, Vodal Kressh, led a bitter revolt against the current Sith Empire's ruler, Darth Vitiate. Vodal was forced into exile on the planet Athiss, but one of his descendants returned to become the Emperor's personal apprentice. Exal Kressh eventually turned on her Emperor and was killed for this betrayal by the young Sith Teneb Kel, who became Darth Thanaton." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-centuries-later-his-descendent-vodal-kressh.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:326`
 
 > The Ministry of Intelligence and its many divisions answer to this sphere's current overseer, Darth Jadus. … After ascending to the Dark Council, Darth Thanaton oversees the ancient knowledge sphere and directs the Imperial Reclamation Service to excavate Sith artifacts for the good of the Empire. … Darth Vowrawn controls this sphere, and the Ministry of Logistics reports directly to him. … While overseeing this sphere, Darth Ravage favored acts of expansion over diplomacy.
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Jadus; Darth Thanaton; Darth Vowrawn — Spheres (top-right).
 Note (our notes, around the quote): Darth Jadus; Darth Thanaton; Darth Vowrawn — Spheres (top-right): "The Ministry of Intelligence and its many divisions answer to this sphere's current overseer, Darth Jadus. … After ascending to the Dark Council, Darth Thanaton oversees the ancient knowledge sphere and directs the Imperial Reclamation Service to excavate Sith artifacts for the good of the Empire. … Darth Vowrawn controls this sphere, and the Ministry of Logistics reports directly to him. … While overseeing this sphere, Darth Ravage favored acts of expansion over diplomacy." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-the-ministry-of-intelligence-and-its.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:353`
 
 > Born Teneb Kel, the young Sith rose to prominence under his Master, Lord Calypho, during the Great War more than three decades ago. But when Lord Calypho's power grab earned the ire of the Dark Council, Darth Marr ordered Teneb Kel to strike down his disgraced Master.
 — Source: The Sith; Darth Thanaton; Darth Marr — Darth Thanaton.
 Note (our notes, around the quote): Darth Thanaton; Darth Marr — Darth Thanaton: "Born Teneb Kel, the young Sith rose to prominence under his Master, Lord Calypho, during the Great War more than three decades ago. But when Lord Calypho's power grab earned the ire of the Dark Council, Darth Marr ordered Teneb Kel to strike down his disgraced Master." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-born-teneb-kel-the-young-sith.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:359`
 
 > At the command of the Sith Emperor himself, Teneb hunted down and assassinated Exal Kressh, the Emperor's rogue apprentice. For his triumph, Teneb was cleansed of his Master's disgrace and earned the title Darth Thanaton.
 — Source: The Sith; Darth Thanaton; Vitiate (the Sith Emperor) — Darth Thanaton.
 Note (our notes, around the quote): Darth Thanaton; Vitiate (the Sith Emperor) — Darth Thanaton: "At the command of the Sith Emperor himself, Teneb hunted down and assassinated Exal Kressh, the Emperor's rogue apprentice. For his triumph, Teneb was cleansed of his Master's disgrace and earned the title Darth Thanaton." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-at-the-command-of-the-sith.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:361`
 
 > But his plans are momentarily disrupted when his underling, Darth Skotia, is killed by the upstart Sith Lord Zash and her powerful new apprentice.
 — Source: The Sith; Darth Thanaton; Darth Zash; Darth Nox (Sith Inquisitor) — Darth Thanaton.
 Note (our notes, around the quote): Darth Thanaton; Darth Zash; Darth Nox (Sith Inquisitor) — Darth Thanaton: "But his plans are momentarily disrupted when his underling, Darth Skotia, is killed by the upstart Sith Lord Zash and her powerful new apprentice." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-but-his-plans-are-momentarily-disrupted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:363`
 
 > AGE: 55 BIRTH NAME: Teneb Kel SPHERE OF INFLUENCE: Ancient Knowledge NOTABLE VICTORIES: Invasion of Begeren, assassination of Exal Kressh, the Emperor's traitorous apprentice
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Thanaton — Data box.
 Note (our notes, around the quote): Darth Thanaton — Data box: "AGE: 55 BIRTH NAME: Teneb Kel SPHERE OF INFLUENCE: Ancient Knowledge NOTABLE VICTORIES: Invasion of Begeren, assassination of Exal Kressh, the Emperor's traitorous apprentice" Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-age-55-birth-name-teneb-kel.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:365`
 
 > But the inquisitor nearly loses everything after being caught in a trap devised by Darth Thanaton, a supremely powerful Sith and harsh traditionalist who bristles at the idea of a former slave rising to sudden influence. To combat Thanaton's insurmountable strength, the inquisitor learns the ritual of Force-walking and gains power by consuming the energy of Darth Andru, a seething Force spirit locked away on Dromund Kaas. Fueled by the ghost's power, the inquisitor confronts Thanaton—only to be nearly eradicated by the superior Sith's dark sorcery.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton; Darth Andru — Spirits of the Past (top-right): "But the inquisitor nearly loses everything after being caught in a trap devised by Darth Thanaton, a supremely powerful Sith and harsh traditionalist who bristles at the idea of a former slave rising to sudden influence. To combat Thanaton's insurmountable strength, the inquisitor learns the ritual of Force-walking and gains power by consuming the energy of Darth Andru, a seething Force spirit locked away on Dromund Kaas. Fueled by the ghost's power, the inquisitor confronts Thanaton—only to be nearly eradicated by the superior Sith's dark sorcery." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-but-the-inquisitor-nearly-loses-everything.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:495`
 
 > Seething with the rage, strength, and passions of fallen Sith, the inquisitor once again challenges Darth Thanaton. Though Thanaton struggles against the inquisitor's increased might, a sudden explosion of Force energy ends the battle and casts the inquisitor into darkness.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Aloysius Kallig; Darth Thanaton — Spirits of the Past (top-right): "Seething with the rage, strength, and passions of fallen Sith, the inquisitor once again challenges Darth Thanaton. Though Thanaton struggles against the inquisitor's increased might, a sudden explosion of Force energy ends the battle and casts the inquisitor into darkness." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-seething-with-the-rage-strength-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:497`
 
 > The explosion that nearly destroyed them all was sparked by the uncontainable power of the Force spirits bound within the inquisitor. Now, the inquisitor suffers from a crippling sickness that will prove devastating—if Thanaton doesn't land the killing blow first.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand: "The explosion that nearly destroyed them all was sparked by the uncontainable power of the Force spirits bound within the inquisitor. Now, the inquisitor suffers from a crippling sickness that will prove devastating—if Thanaton doesn't land the killing blow first." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-the-explosion-that-nearly-destroyed-them.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:501`
 
 > Wielding the combined power of the Sith spirits, the inquisitor confronts Darth Thanaton on Corellia, defeats his allies in battle, and forces Thanaton to flee for safety. It is in the Dark Council chambers on Korriban that the Sith inquisitor finally corners Thanaton and utterly destroys the once supreme Sith while the Dark Council bears witness. At their behest, the inquisitor takes Thanaton's seat, becomes a Darth, and joins the most powerful Sith in the Empire to rule as a member of the Dark Council.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand: "Wielding the combined power of the Sith spirits, the inquisitor confronts Darth Thanaton on Corellia, defeats his allies in battle, and forces Thanaton to flee for safety. It is in the Dark Council chambers on Korriban that the Sith inquisitor finally corners Thanaton and utterly destroys the once supreme Sith while the Dark Council bears witness. At their behest, the inquisitor takes Thanaton's seat, becomes a Darth, and joins the most powerful Sith in the Empire to rule as a member of the Dark Council." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-wielding-the-combined-power-of-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:503`
 
 > Darth Thanaton channels Force lightning in his duel against the Sith inquisitor.
 — Source: The Sith; Darth Thanaton — Caption.
 Note (our notes, around the quote): Darth Thanaton — Caption: "Darth Thanaton channels Force lightning in his duel against the Sith inquisitor." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-darth-thanaton-channels-force-lightning-in.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:505`
 
 - Note (summary from our notes, not a quotation): Exal Kressh; Vitiate (the Sith Emperor); Darth Thanaton — Battle over Korriban box: "Unknown to the Republic, the intel that drove their assault was leaked by Exal Kressh—rogue apprentice to the Sith Emperor. Exal ignited the fleet battle to provide cover for her true mission: the destruction of her Master's secret project, known only as the "Emperor's children." Exal landed on Korriban and nearly sabotaged the Emperor's master plan. With victory within reach, Exal was ultimately struck down by the Sith Teneb Kel, an assassin sent by the Dark Council." Source: The Old Republic Encyclopedia, p.291, sidebar
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-unknown-to-the-republic-the-intel.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:258`
 
 > In recent years, the Sith have dedicated vast resources to the excavation of the tombs. On Darth Thanaton's orders, slaves, acolytes, and Sith researchers recover artifacts and ancient teachings that have been lost to the Sith for generations.
 — Source: Species, technology, planets and the future; Darth Thanaton — Valley of the Dark Lords box.
 Note (our notes, around the quote): Darth Thanaton — Valley of the Dark Lords box: "In recent years, the Sith have dedicated vast resources to the excavation of the tombs. On Darth Thanaton's orders, slaves, acolytes, and Sith researchers recover artifacts and ancient teachings that have been lost to the Sith for generations." Source: The Old Republic Encyclopedia, p.292
-![Quote image: The Old Republic Encyclopedia, p.292 — full quote as printed](quotes/tore-p292-in-recent-years-the-sith-have.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:269`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

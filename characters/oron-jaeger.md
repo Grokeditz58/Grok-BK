@@ -32,9 +32,9 @@ Our notes: `notes/materials/039-legacy-2006/legacy-47.md:63`
 
 - Note (summary from our notes, not a quotation): Oron Jaeger CL 12 (p179). Fehlaaur CL 11 (p176). Konrad Rus CL 10 (p180).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p179 Azlyn Rae bio](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
-![p180 Azlyn Rae CL 11](011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
+![p179 Azlyn Rae bio](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
+![p180 Azlyn Rae CL 11](../notes/materials/011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:950`
 
 - Note (summary from our notes, not a quotation): p179: Oron Jaeger's Ref is printed as 18, which looks low for CL12.

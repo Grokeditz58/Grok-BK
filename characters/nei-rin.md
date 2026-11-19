@@ -75,7 +75,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:461`
 Note (our notes, around the quote): Kol Skywalker (130 ABY). He holds the Ossus landing pad against Sith and troopers, killing several (bodies drawn around him, p24). He dies in Nihl's lightning (p19 (#1 Broken)–p24 (#1 Broken)). His body vanishes like a Master's: Nei Rin, "WITHIN THE FLAMES, HIS BODY DISAPPEARED." (p290 (#12 Ghosts)). As a ghost (p416): "THAT WHICH CAN HEAL CAN ALSO BREAK." His crystal was "CHARRED FROM THE INTENSITY OF THE BATTLE" (p306). Flashback (p238): "MORRIGAN, I'M A JEDI -- I CAN FEEL YOUR EMOTIONS." Handbook (p464): "one of the leaders of the Jedi Council", "A master tactician…".
 Our notes: `notes/materials/009-legacy-book-1.md:948`
 
-- Note (summary from our notes, not a quotation): ![p306 Nei Rin gives Kol's lightsaber](009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
+- Note (summary from our notes, not a quotation): ![p306 Nei Rin gives Kol's lightsaber](../notes/materials/009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p306 Nei Rin gives Kol's lightsaber — `p306-kol-lightsaber-lambent-crystal.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:950`
@@ -104,12 +104,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:957`
 > NO ONE DIES FOR ME. NEVER AGAIN. *(p171)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): #12: A Vong warrior pins Cade. Master Shaper Nei Rin stops the fight, and Sazen and K'Kruhk arrive (p150–151). Nei Rin explains the Ossus Project, the Sith sabotage, and Kol's funeral: "WITHIN THE FLAMES, HIS BODY DISAPPEARED." She offers Cade the Jedi legacy, and he refuses it (p152–155). At the spot where Kol died, Cade attacks Sazen and loses. Sazen tells him his healings drew on the dark side and calls Kol's last stand a selfless holding action (p156–161). In the meditation of emptiness, Cade remembers drifting in space and his rescue by Rav and Jariah (p162–166). He then sees the tortured Hosk, and Luke's spirit tells him to make it right (p167–168). Nei Rin gives him Kol's lightsaber, now with a Vong-shaped lambent crystal, and K'Kruhk gives him R2-D2 (p169–170). Shado: "IF HE EVER GOES COMPLETELY OVER TO THE DARK SIDE, I WILL END HIM." (p170). Cade heads for Coruscant: "NO ONE DIES FOR ME. NEVER AGAIN." (p171).
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p168 Luke's spirit and Hosk](012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
+![p150 a Vong warrior pins Cade](../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p159 Sazen on Cade's dark-side healing](../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p168 Luke's spirit and Hosk](../notes/materials/012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:62`
 
 > (p148) Shado: "FIGHT OR DIE, CADE!" · (p149) Cade: "STORY OF MY LIFE, SHADO!" · (p150) Nei Rin: "CHOKA SKELL! LIAAN LAH -- STOP!" · "THESE ARE JEEDAI! WE DO NOT FIGHT JEEDAI!" · Warrior (pinning Cade, whose saber lies loose on the floor): "IT IS SO. BUT THIS IS NO JEEDAI. THIS STINK-BEETLE BEARS THE MARK OF A PIRATE --" · (p151) "YOUR KIND HAS PERISHED BY MY AMPHISTAFF BEFORE. I WILL NOT HESITATE NOW."
@@ -124,7 +124,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:241`
 Context: 2. "Your greatest warrior" (Nei Rin) and his crystal. p154 (#12), p169 (#12) [009 p291, p306]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:311`; `notes/materials/012-legacy-vol-2-shards.md:359`; `notes/materials/012-legacy-vol-2-shards.md:461`
 
-- Note (summary from our notes, not a quotation): ![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+- Note (summary from our notes, not a quotation): ![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p154 — `p154-nei-rin-greatest-warrior.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:314`
@@ -132,7 +132,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:314`
 > NOTHING ON HIM, WERMO. JEDI ARE BORN WITH NOTHING, THEY DIE WITH NOTHING.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Note (UNCLEAR): in the 130 ABY pirate flashback (p166), a red-haired corpse in brown lies on the rain-soaked stones, and Rav says "NOTHING ON HIM, WERMO. JEDI ARE BORN WITH NOTHING, THEY DIE WITH NOTHING." It resembles Kol, but it isn't named, and Nei Rin says Kol's body was burned.
-![p166 130 ABY: JEDI DIE WITH NOTHING](012-legacy-vol-2-shards-panels/p166-redhaired-corpse-jedi-die-with-nothing.jpg) *(p166)*
+![p166 130 ABY: JEDI DIE WITH NOTHING](../notes/materials/012-legacy-vol-2-shards-panels/p166-redhaired-corpse-jedi-die-with-nothing.jpg) *(p166)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:323`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): p161 is the key Kol statement. His mentor-level friend frames the Ossus stand as a delaying action he *knew* he couldn't win against the assembled Sith. That cuts both ways in debate #115 (Bane vs Kol): it shows Kol couldn't beat the group, and it gives no one-on-one benchmark. "YOUR GREATEST WARRIOR" is an outsider's (Nei Rin's) honour framing.
@@ -144,7 +144,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:331`
 > WE ARE HONOR BOUND TO DEFEND THE LEGACY FROM SUCH AS THEM.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Honour code toward Jedi. p150 (#12).
 Note (our notes, around the quote): Honour code toward Jedi. p150 (#12): "THESE ARE JEEDAI! WE DO NOT FIGHT JEEDAI!" · Warrior: "WE ARE HONOR BOUND TO DEFEND THE LEGACY FROM SUCH AS THEM."
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p150 a Vong warrior pins Cade](../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:357`
 
 > JEEDAI MASTER SKYWALKER HAD A VISION -- TO USE YUUZHAN VONG BIOTECH TO TRANSFORM AND RESTORE AILING WORLDS
@@ -157,7 +157,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:357`
 > ZONOMA SEKOT FLED DEEPER INTO THE UNKNOWN REGIONS.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Ossus Project history. p152–153 (#12).
 Note (our notes, around the quote): Ossus Project history. p152–153 (#12): "JEEDAI MASTER SKYWALKER HAD A VISION -- TO USE YUUZHAN VONG BIOTECH TO TRANSFORM AND RESTORE AILING WORLDS". The coral seeds "WENT RAMPANT WITH UNSPEAKABLE MUTATIONS". "NONE OF OUR PRELIMINARY EXPERIMENTS HERE ON OSSUS SHOWED ANY OF THE LATER MUTATIONS." · "THEN THE SITH REVEALED THEMSELVES, SO IT WAS NOT THE GODS' DOING." · When the war broke out, "ZONOMA SEKOT FLED DEEPER INTO THE UNKNOWN REGIONS." Nei Rin and her guards were stranded and stayed. Their coral craft is hidden beneath the temple (p154).
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:358`
 
 - Note (summary from our notes, not a quotation): | 17 | Vong warriors vs Cade + Shado | Hidden chamber, Ossus | p148–151 (#11–12) | Cade pinned; stopped by Nei Rin | Force-blind Vong; surprise; Cade rusty |

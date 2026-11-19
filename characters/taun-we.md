@@ -24,7 +24,6 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-2-bloodlines-notes.md:7
 > Although Kamino was devastated during the Clone Wars, Taun We survived, along with a portion of the genetic material harvested from Jango Fett.
 — Source: scan pages 321–360; Jango Fett. POV: Jango Fett, about Taun We.
 Note (our notes, around the quote): Jango Fett: "Although Kamino was devastated during the Clone Wars, Taun We survived, along with a portion of the genetic material harvested from Jango Fett." Source: The Complete Star Wars Encyclopedia, Vol. III, p.323
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.323 — full quote as printed](quotes/v3-p323-although-kamino-was-devastated-during-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:62`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -36,7 +35,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > She serves as the Project Coordinator for the Republic clone army, and she helps rear and tutor young Boba Fett when his father Jango is away on “business.”
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Boba Fett; Jango Fett — entry/section: Taun We tutors Boba.
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Taun We tutors Boba: "She serves as the Project Coordinator for the Republic clone army, and she helps rear and tutor young Boba Fett when his father Jango is away on “business.”" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.78
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.78 — full quote as printed](quotes/d667-s78-she-serves-as-the-project-coordinator.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:123`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -63,7 +61,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:164`
 > We do this scene with Obi-Wan Kenobi, and she's in there as well with this ridiculous thing on her head. We tried to keep ourselves from laughing too much.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Taun We; Obi-Wan Kenobi — entry/section: Temuera Morrison on Rena Owen standing in for Taun We: ""It was a little bit weird for me when I saw the woman who played my wife in Once Were Warriors, Rena Owen, wearing a helmet and something like a cardboard cut-out on her head, too," he said with a laugh. "We do this scene with Obi-Wan Kenobi, and she's in there as well with this ridiculous thing on her head. We tried to keep ourselves from laughing too much." —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-it-was-a-little-bit-weird.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:168`
 
 ## Star Wars Insider #70 (2003)
@@ -84,7 +81,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:233`
 > I loved that she had no limits, no backstory. I could take all the dramatic freedom I wanted with her.
 — Source: Star Wars Insider #75 (2004); Taun We — entry/section: Rena Owen on Taun We.
 Note (our notes, around the quote): Taun We — entry/section: Rena Owen on Taun We: ""I see quite a lot of myself in Taun We," she says proudly. "I loved that she had no limits, no backstory. I could take all the dramatic freedom I wanted with her." —Rena Owen, Star Wars Insider 75, p. 37" Source: *Star Wars Insider #75* (2004), scan p.37
-![Quote image: *Star Wars Insider #75* (2004), scan p.37 — full quote as printed](quotes/ins075-s37-i-see-quite-a-lot-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:235`
 
 ## Star Wars Insider #103 (2008)

@@ -14,7 +14,7 @@
 > Although Jango got the drop on Komari Vosa, it was Dooku who delivered the killing blow.
 — Source: Part Two: The Fall of the Republic; Jango Fett; Count Dooku — Komari Vosa.
 Note (our notes, around the quote): Jango Fett; Count Dooku — Komari Vosa: "Although Jango got the drop on Komari Vosa, it was Dooku who delivered the killing blow." Source: The New Essential Chronology, p.44
-![Quote image: The New Essential Chronology, p.44 — full quote as printed](quotes/nec-p44-komari-vosa.jpg)
+![Quote image: The New Essential Chronology, p.44 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p44-komari-vosa.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:132`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -24,13 +24,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Count Dooku; Jango Fett: "To that end, Dooku hired rival bounty hunters Jango Fett and Montross to track down Vosa." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-to-that-end-dooku-hired-rival.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:251`
 
 > With Vosa's defeat, Bando Gora disintegrated as a threat, and Fett proved himself capable enough in Dooku's eyes to become the template of the Republic's clone army.
 — Source: scan pages 41–80; Count Dooku. POV: Count Dooku, about Komari Vosa.
 Note (our notes, around the quote): Count Dooku: "With Vosa's defeat, Bando Gora disintegrated as a threat, and Fett proved himself capable enough in Dooku's eyes to become the template of the Republic's clone army." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-with-vosas-defeat-bando-gora-disintegrated.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:253`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -52,7 +50,6 @@ Our notes: `notes/materials/037-sw-d20-folder/142-komari-vosa.md:10`
 > The secretive leader of the Bando Gora cult was once a promising young student of the (in)famous Count Dooku, mentor of Qui-Gon Jinn. Presumed lost in the Jedi debacle at Baltizaar, Dooku's Padawan endured torture and suffering at the hands of the Bando Gora that she would one day control. After slaying her fellow Jedi prisoners (whether out of pity or spite is anyone's guess), Vosa joined with her captors and, with help from the Force and her own frustrated rage, soon brutalized her way to the top. From her base on the ancient burial moon Kohlma in the Bogden system, she plots her revenge against Dooku, the Republic, and the Jedi who she feels betrayed her and left her for dead. Despite her hatred of her former colleagues, Vosa still carries two lightsabers with curved hilts reminiscent of her former master's blade.
 — Source: Characters/Komari Vosa.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Komari Vosa; Count Dooku; Qui-Gon Jinn — entry/section: Komari Vosa: "The secretive leader of the Bando Gora cult was once a promising young student of the (in)famous Count Dooku, mentor of Qui-Gon Jinn. Presumed lost in the Jedi debacle at Baltizaar, Dooku's Padawan endured torture and suffering at the hands of the Bando Gora that she would one day control. After slaying her fellow Jedi prisoners (whether out of pity or spite is anyone's guess), Vosa joined with her captors and, with help from the Force and her own frustrated rage, soon brutalized her way to the top. From her base on the ancient burial moon Kohlma in the Bogden system, she plots her revenge against Dooku, the Republic, and the Jedi who she feels betrayed her and left her for dead. Despite her hatred of her former colleagues, Vosa still carries two lightsabers with curved hilts reminiscent of her former master's blade." Source: *Komari Vosa* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Komari Vosa* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d142-s1-the-secretive-leader-of-the-bando.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/142-komari-vosa.md:12`
 
 ## Creatures/Space Worrt.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -76,7 +73,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > After proving herself worthy by defeating over a dozen opponents in the Cauldron, Asajj Ventress presents herself to Dooku, who awards her a pair of curve-hilted lightsabers (formerly belonging to Komari Vosa) and gives her an assignment to kill Anakin Skywalker, Although she fails, Ventress proves to be a resourceful and vicious assassin, carrying oul Numerous Missions on Dooku's behalf.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Asajj Ventress; Count Dooku; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Asajj Ventress; Count Dooku; Darth Vader (Anakin Skywalker): "After proving herself worthy by defeating over a dozen opponents in the Cauldron, Asajj Ventress presents herself to Dooku, who awards her a pair of curve-hilted lightsabers (formerly belonging to Komari Vosa) and gives her an assignment to kill Anakin Skywalker, Although she fails, Ventress proves to be a resourceful and vicious assassin, carrying oul Numerous Missions on Dooku's behalf." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185 — full quote as printed](quotes/d728-s185-after-proving-herself-worthy-by-defeating.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:57`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -84,13 +80,11 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal!
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed.
 Note (our notes, around the quote): Count Dooku; Jango Fett — entry/section: Threats of the Galaxy (Saga): "After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal!" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20 — full quote as printed](quotes/d731-s20-after-chasing-komari-vosa-the-former.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:151`
 
 > After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal! feat, considering that the fallen Jedi was a skilled lightsaber duelist and a master of the Force.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Count Dooku; Jango Fett.
 Note (our notes, around the quote): Count Dooku; Jango Fett: "After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal! feat, considering that the fallen Jedi was a skilled lightsaber duelist and a master of the Force." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20 — full quote as printed](quotes/d731-s20-after-chasing-komari-vosa-the-former-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:153`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -116,7 +110,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-061-120.md:1
 > Visually, she was based on some Episode II concept art, but then I worked up her backstory to make her something other than Komari [Vosa, the female antagonist of LucasArts' Bounty Hunter video game] or Darth Maul. She's not a Sith and doesn't even consider herself a Dark Jedi. She thinks she's living up to the Jedi ideals in ways that Obi-Wan could never do.
 — Source: Star Wars Insider #73 (2004); Asajj Ventress — entry/section: Blackman on Ventress as villain.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Blackman on Ventress as villain: ""Visually, she was based on some Episode II concept art, but then I worked up her backstory to make her something other than Komari [Vosa, the female antagonist of LucasArts' Bounty Hunter video game] or Darth Maul. She's not a Sith and doesn't even consider herself a Dark Jedi. She thinks she's living up to the Jedi ideals in ways that Obi-Wan could never do." —Haden Blackman, Star Wars Insider 73, p. 72" Source: *Star Wars Insider #73* (2004), scan p.72
-![Quote image: *Star Wars Insider #73* (2004), scan p.72 — full quote as printed](quotes/ins073-s72-visually-she-was-based-on-some.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:428`
 
 ## Star Wars Insider #80 (2005)

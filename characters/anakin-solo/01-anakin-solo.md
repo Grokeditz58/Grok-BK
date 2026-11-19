@@ -747,13 +747,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:227`
 > Palpatine journeyed to the Sith tomb world of Korriban, where the spirits of fallen dark lords informed him that he needed to find a Jedi body. They told him where to locate the newborn Anakin Solo, a child powerfully strong in the Force.
 — Source: Part Seven: Empire Resurgent; Palpatine (Darth Sidious) — Korriban spirits.
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Korriban spirits: "Palpatine journeyed to the Sith tomb world of Korriban, where the spirits of fallen dark lords informed him that he needed to find a Jedi body. They told him where to locate the newborn Anakin Solo, a child powerfully strong in the Force." Source: The New Essential Chronology, p.158
-![Quote image: The New Essential Chronology, p.158 — full quote as printed](quotes/nec-p158-korriban-spirits.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:117`
 
 > As the Emperor fell toward death yet again, he attempted to send his spirit into the baby Anakin—but Empatojayos Brand intercepted the dark essence. Clasping himself to the evil, Brand held the Emperor's presence within his body as they both succumbed to death.
 — Source: Part Seven: Empire Resurgent; Palpatine (Darth Sidious) — Brand holds the Emperor's spirit.
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Brand holds the Emperor's spirit: "As the Emperor fell toward death yet again, he attempted to send his spirit into the baby Anakin—but Empatojayos Brand intercepted the dark essence. Clasping himself to the evil, Brand held the Emperor's presence within his body as they both succumbed to death." Source: The New Essential Chronology, p.159
-![Quote image: The New Essential Chronology, p.159 — full quote as printed](quotes/nec-p159-brand-holds-the-emperors-spirit.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:126`
 
 > The Sefontans follow an insect-like hive structure, and each den controls @ patch of territory, Dracmus’s people were strug- ging for dominance against the Triad-backed Overden. After escaping from Jall with Dracnus, Han became a prisoner on Selonia, to be used as a bargal chip in the ongoing ne- gotiations with the Overden.
@@ -767,13 +765,11 @@ Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-re
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Anakin Solo — Anakin activates the Drall repulsor: "Anakin activated the ancient device through an unconscious manipulation of the Force." Source: The New Essential Chronology, p.188
-![Quote image: The New Essential Chronology, p.188 — full quote as printed](quotes/nec-p188-anakin-activates-the-drall-repulsor.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:114`
 
 > On the surface of Drall, at the last possible instant, young Anakin Solo fired an invisible repulsor burst that splashed into Centerpoint and disrupted the station's firing process.
 — Source: Part Nine: Uprisings and Insurgencies; Anakin Solo — Anakin's repulsor shot.
 Note (our notes, around the quote): Anakin Solo — Anakin's repulsor shot: "On the surface of Drall, at the last possible instant, young Anakin Solo fired an invisible repulsor burst that splashed into Centerpoint and disrupted the station's firing process." Source: The New Essential Chronology, p.188
-![Quote image: The New Essential Chronology, p.188 — full quote as printed](quotes/nec-p188-anakins-repulsor-shot.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:118`
 
 > He had found many new trainees, some human and some exotic.
@@ -787,14 +783,12 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Leia Organa Solo; Jacen Solo; Jaina Solo; Anakin Solo — Solo children's talent: "Organa Solo's three children, the twins Jacen and Jaina and her younger son Anakin, all had a strong talent in the Force." Source: The New Essential Chronology, p.195
-![Quote image: The New Essential Chronology, p.195 — full quote as printed](quotes/nec-p195-solo-childrens-talent.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:11`
 
 > they learned that the golden globe contained the trapped spirits of young Massassi victims of Exar Kun's experimentations. Anakin and Tahiri broke past the barricades erected long before by Exar Kun, and freed the trapped Massassi spirits.
 > [fragment — full passage not on file]
 — Source: Part Eleven: Generations of Jedi; Exar Kun; Anakin Solo — Exar Kun's Massassi victims.
 Note (our notes, around the quote): Exar Kun; Anakin Solo — Exar Kun's Massassi victims: "they learned that the golden globe contained the trapped spirits of young Massassi victims of Exar Kun's experimentations. Anakin and Tahiri broke past the barricades erected long before by Exar Kun, and freed the trapped Massassi spirits." Source: The New Essential Chronology, p.195
-![Quote image: The New Essential Chronology, p.195 — full quote as printed](quotes/nec-p195-exar-kuns-massassi-victims.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:13`
 
 > To be sure that he didn't have the potential for evil inside him, young Ana- ‘e ———
@@ -809,39 +803,33 @@ Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generati
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Anakin Solo — Anakin in the Dagobah cave: "there, Anakin faced down the manifestations of his own doubts and fears and emerged with confidence." Source: The New Essential Chronology, p.196
-![Quote image: The New Essential Chronology, p.196 — full quote as printed](quotes/nec-p196-anakin-in-the-dagobah-cave.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:20`
 
 > Other, more proactive Jedi Knights followed the lead of Kyp Durron and found new targets for their aggression. ... Jaina Solo found herself increasingly attracted to Kyp's aggressive faction; Anakin Solo remained loyal to his Uncle Luke. Jacen Solo found himself wondering if he could follow the Force without having to pick sides.
 > [fragment — full passage not on file]
 — Source: Part Twelve: The New Jedi Order; Kyp Durron; Jaina Solo; Anakin Solo; Jacen Solo — Jedi factions.
 Note (our notes, around the quote): Kyp Durron; Jaina Solo; Anakin Solo; Jacen Solo — Jedi factions: "Other, more proactive Jedi Knights followed the lead of Kyp Durron and found new targets for their aggression. ... Jaina Solo found herself increasingly attracted to Kyp's aggressive faction; Anakin Solo remained loyal to his Uncle Luke. Jacen Solo found himself wondering if he could follow the Force without having to pick sides." Source: The New Essential Chronology, p.203
-![Quote image: The New Essential Chronology, p.203 — full quote as printed](quotes/nec-p203-jedi-factions.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:11`
 
 > Han Solo, Anakin Solo, and Chewbacca ... did all they could to save the doomed world, but not even the Force could slow the moon once it had slipped into a terminal orbit.
 > [fragment — full passage not on file]
 — Source: Part Twelve: The New Jedi Order; Han Solo; Anakin Solo; Chewbacca — not even the Force.
 Note (our notes, around the quote): Han Solo; Anakin Solo; Chewbacca — not even the Force: "Han Solo, Anakin Solo, and Chewbacca ... did all they could to save the doomed world, but not even the Force could slow the moon once it had slipped into a terminal orbit." Source: The New Essential Chronology, p.204
-![Quote image: The New Essential Chronology, p.204 — full quote as printed](quotes/nec-p204-not-even-the-force.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:26`
 
 > Han, watching from the boarding ramp, saw Chewbacca receding in the distance, his fists raised in defiance at the sinking moon as the atmosphere superheated around him.
 — Source: Part Twelve: The New Jedi Order; Chewbacca; Anakin Solo — Chewbacca's last stand.
 Note (our notes, around the quote): Chewbacca; Anakin Solo — Chewbacca's last stand: "Han, watching from the boarding ramp, saw Chewbacca receding in the distance, his fists raised in defiance at the sinking moon as the atmosphere superheated around him." Source: The New Essential Chronology, p.206
-![Quote image: The New Essential Chronology, p.206 — full quote as printed](quotes/nec-p206-chewbaccas-last-stand.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:40`
 
 > Jacen advised against taking rash action, and Anakin hesitated—long enough for Thrackan to seize the controls and fire the superweapon himself.
 — Source: Part Twelve: The New Jedi Order; Jacen Solo; Anakin Solo — Centerpoint fired at Fondor.
 Note (our notes, around the quote): Jacen Solo; Anakin Solo — Centerpoint fired at Fondor: "Jacen advised against taking rash action, and Anakin hesitated—long enough for Thrackan to seize the controls and fire the superweapon himself." Source: The New Essential Chronology, p.210
-![Quote image: The New Essential Chronology, p.210 — full quote as printed](quotes/nec-p210-centerpoint-fired-at-fondor.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:74`
 
 > Jacen, Jaina, and Anakin Solo face off against a ring of voxyn while infiltrating the worldship at Myrkr.
 — Source: Part Twelve: The New Jedi Order; Jacen Solo; Jaina Solo; Anakin Solo — art caption.
 Note (our notes, around the quote): Jacen Solo; Jaina Solo; Anakin Solo — art caption: "Jacen, Jaina, and Anakin Solo face off against a ring of voxyn while infiltrating the worldship at Myrkr." Source: The New Essential Chronology, p.213, caption
-![Quote image: The New Essential Chronology, p.213 — full quote as printed](quotes/nec-p213-caption-jacen-jaina-and-anakin-solo.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:105`
 
 > Anakin’s squad included his brother and sister, along with many of their old academy classmates such as Low: bacca, Tenel Ka, Raynar Thul, and Tahiri. Ganner Rhysode stood out in their ranks as the oldest adult. Despite their youth, the team landed on Baonu Rass and systematically fought their way to the heart of the cloning center, Along the way they liberated two prisoners, Lomi Pio and Welk, who had been caplured during the Yuuzhan Vong conquest of Dathomir. Both were disciples of the new Night- sister philosophy taught by Brakiss’s now-defunct Second Im- perium. True to their nature, they stole a ship and deserted Anakin’s group at the earliest opportunity, dragging Raynar with them to face an unknown fate.
@@ -866,7 +854,6 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Anakin Solo; Luke Skywalker — Anakin's death: "Anakin Solo had been widely considered the logical choice to succeed Luke Skywalker as head of the Jedi order. His actions on Baanu Rass only deepened his legend. He fought against hordes of enemies without ego or fear, and in the end sacrificed himself so that the other members of his team could live. ... Anakin passed into the Force with a shudder felt halfway across the galaxy." Source: The New Essential Chronology, p.216
-![Quote image: The New Essential Chronology, p.216 — full quote as printed](quotes/nec-p216-anakins-death.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:126`
 
 > True to their nature, they stole a ship and deserted Anakin’s group at the earliest opportunity, dragging Raynar with them to face an unknown fate.
@@ -884,13 +871,11 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Jaina Solo — Jaina's Force lightning: "Now bathing in the violence of the dark side, she burned several Yuuzhan Vong with Force lightning to retrieve Anakin's body." Source: The New Essential Chronology, p.216
-![Quote image: The New Essential Chronology, p.216 — full quote as printed](quotes/nec-p216-jainas-force-lightning.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:128`
 
 > Shimrra launched himself at Luke, battering the Jedi with his amphistaff. Luke held him at bay, the Jedi's own lightsaber in one hand and Anakin's in the other. Luke burned through the amphistaff with the twin blades, then closed the tips together like a pair of shears, neatly severing Shimrra's head.
 — Source: Part Twelve: The New Jedi Order; Luke Skywalker — Luke kills Shimrra.
 Note (our notes, around the quote): Luke Skywalker — Luke kills Shimrra: "Shimrra launched himself at Luke, battering the Jedi with his amphistaff. Luke held him at bay, the Jedi's own lightsaber in one hand and Anakin's in the other. Luke burned through the amphistaff with the twin blades, then closed the tips together like a pair of shears, neatly severing Shimrra's head." Source: The New Essential Chronology, p.227
-![Quote image: The New Essential Chronology, p.227 — full quote as printed](quotes/nec-p227-luke-kills-shimrra.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:223`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -910,7 +895,6 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Han Solo; Leia Organa Solo; Luke Skywalker — Hethrir — rescue of the Solo children: "However, Han Solo, his wife Leia, and Luke Skywalker join with Rillao and manage to rescue the abductees, although Anakin is nearly lost." Source: Jedi Academy Training Manual, p.120
-![Quote image: Jedi Academy Training Manual, p.120 — full quote as printed](quotes/jatm-p120-hethrir-rescue-of-the-solo-children.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:60`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -919,13 +903,11 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 > [fragment — full passage not on file]
 — Source: Chapter One: The New Republic; Anakin Solo; Palpatine (Darth Sidious) — Anakin Solo — Force strength.
 Note (our notes, around the quote): Anakin Solo; Palpatine (Darth Sidious) — Anakin Solo — Force strength: "He has already demonstrated that he is strong in the Force. Even as an unborn child he helped his mother and uncle defeat the reborn Emperor," Source: The Jedi Academy Sourcebook, p.12
-![Quote image: The Jedi Academy Sourcebook, p.12 — full quote as printed](quotes/jas-p12-anakin-solo-force-strength.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/01-ch1-the-new-republic.md:60`
 
 > For a moment, an impasse holds, until young Anakin causes a power droid to distract Furgan long enough for Terpfen to snatch the baby away.
 — Source: Chapter Five: Forces of the Empire; Anakin Solo; Ambassador Furgan; Terpfen — Ambassador Furgan — Anakin's rescue.
 Note (our notes, around the quote): Anakin Solo; Ambassador Furgan; Terpfen — Ambassador Furgan — Anakin's rescue: "For a moment, an impasse holds, until young Anakin causes a power droid to distract Furgan long enough for Terpfen to snatch the baby away." Source: The Jedi Academy Sourcebook, p.54
-![Quote image: The Jedi Academy Sourcebook, p.54 — full quote as printed](quotes/jas-p54-ambassador-furgan-anakins-rescue.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:33`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -933,7 +915,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 > Anakin Solo was an Imperial II-class Star Destroyer painted black, fitted with a cloaking device and a gravitywell projector.
 — Source: scan pages 41–80; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Anakin Solo was an Imperial II-class Star Destroyer painted black, fitted with a cloaking device and a gravitywell projector." Source: The Complete Star Wars Encyclopedia, Vol. I, p.29
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.29 — full quote as printed](quotes/v1-p29-anakin-solo-was-an-imperial-ii.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:31`
 
 > The natural won­ der was sculpted out of a single giant crystal created over countless millennia by the salt deposits left by the blood-red waters of the adjacent Leefari Sea. The Clone Wars and the rise of the Empire squelched tourism­ reports spread that Berchest was the site of possible Republic atrocities. Berchest nonetheless turned itself into one of the largest centers for Imperial trade in the Anthos sector. Even after Emperor Palpatine's death, the planet remained friendly to remnants of the Empire. Grand Admiral Thrawn led the New Republic to believe that he would use Calius as a transfer point for his clone soldiers, and Luke Skywalker went to the planet to inves­ tigate. BerdaThe nickname of the tactical computer aboard the Star Destroyer Anakin Solo, Avan Beruss operated by a squad of Bith programmers.
@@ -952,13 +933,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Anakin Solo: "Berda The nickname of the tactical computer aboard the Star Destroyer Anakin Solo, operated by a squad of Bith programmers." Source: The Complete Star Wars Encyclopedia, Vol. I, p.70
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.70 — full quote as printed](quotes/v1-p70-berda-the-nickname-of-the-tactical.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:42`
 
 > Biodisposal Pit The unflattering name given to the medical disposal center located aboard the Star Destroyer Anakin Solo.
 — Source: scan pages 81–120; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Biodisposal Pit The unflattering name given to the medical disposal center located aboard the Star Destroyer Anakin Solo." Source: The Complete Star Wars Encyclopedia, Vol. I, p.75
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.75 — full quote as printed](quotes/v1-p75-biodisposal-pit-the-unflattering-name-given.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:75`
 
 > Cairn (2) An asteroid in the Lenico system that served as a base of operations for Galak Fyyar. Kyle Katarn visited Cairn during his search for Desann. Calrnwlck, Drun A highly charismatic Rebel Alliance leader in the distant Minos Cluster. Cakhmalm A fiercly loyal protector of Leia Organa Solo, he was a warrior of the Noghri clan Eikh'mir. Cakhmaim and nine of his brethren were tasked with protecting the infants Jacen and Jaina Solo during the New Republic campaign to stop Grand Admiral Thrawn. For this and other duties, he became one of the most trusted of Leia's bodyguards, alongside Meewalh. In the Galactic Alliance war against the Corellian Confederation, Cakhmaim and Meewalh were killed while manning the Millennium Falcon's turrets when the ship sustained direct hits from the Star Destroyer Anakin Solo. Cal ( I ) A young human at the time of the Clone Wars, he was the Padawan of Master Tyffix, who taught him to fight like a war­ rior and to think like a conqueror in order to survive. After Tyffix was killed on Thustra, Cal accompanied Yoda as the Jedi Master attempted to make peace with King Alaric. Cal was frustrated with Yoda's lack of action, as he preferred a more aggressive solution. Betrayed by Alaric, Cal was cut down by the king's guards, and he died cursing Yoda's name.
@@ -966,19 +945,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Anakin Solo: "In the Galactic Alliance war against the Corellian Confederation, Cakhmaim and Meewalh were killed while manning the Millennium Falcon's turrets when the ship sustained direct hits from the Star Destroyer Anakin Solo." Source: The Complete Star Wars Encyclopedia, Vol. I, p.104
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.104 — full quote as printed](quotes/v1-p104-in-the-galactic-alliance-war-against.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:306`
 
 > After the rescue of Anakin Solo and Tahiri Veila, the damuteks on Yavin 4 were destroyed by Talon Karrde's fleet and the Errant Venture.
 — Source: scan pages 161–200; Anakin Solo; Tahiri Veila.
 Note (our notes, around the quote): Anakin Solo; Tahiri Veila: "After the rescue of Anakin Solo and Tahiri Veila, the damuteks on Yavin 4 were destroyed by Talon Karrde's fleet and the Errant Venture." Source: The Complete Star Wars Encyclopedia, Vol. I, p.163
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.163 — full quote as printed](quotes/v1-p163-after-the-rescue-of-anakin-solo.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:151`
 
 > Darb, Sergeant Whelmo A sergeant in the security detail assigned to the maiden voyage of the Star Destroyer Anakin Solo, he was ordered by Jacen Solo to accompany Luke Skywalker and his entourage to the ship's Situation Room fora meeting with Tenel Ka.
 — Source: scan pages 161–200; Anakin Solo; Jacen Solo (Darth Caedus); Luke Skywalker.
 Note (our notes, around the quote): Anakin Solo; Jacen Solo (Darth Caedus); Luke Skywalker: "Darb, Sergeant Whelmo A sergeant in the security detail assigned to the maiden voyage of the Star Destroyer Anakin Solo, he was ordered by Jacen Solo to accompany Luke Skywalker and his entourage to the ship's Situation Room fora meeting with Tenel Ka." Source: The Complete Star Wars Encyclopedia, Vol. I, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.165 — full quote as printed](quotes/v1-p165-darb-sergeant-whelmo-a-sergeant-in.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:173`
 
 > Embrace of Pain A gruesome Yuuzhan Vong restraint system used to control slaves, it stood over 2 meters tall and used leather-like, tentacular straps to bind the arms, legs, and torso of a captive. It then administered a con­ stantlevel ofpain to remind the captive that he or she was securely bound. The Embrace could vary the output of its painful stimuli in accor­ dance to the reactions of its victim, increasing it ifthe subject became too accustomed to the sensation, or lowering it if the subject seemed near death. In this way, a slave could be forced quickly into submission. The Embrace of Pain also could condition a victim. In the wake of the war against the Yuuzhan Vong, only one Embrace of Pain survived. Jacen Solo kept it in a secret location and later installed it aboard the Star Destroyer Anakin Solo. EmbratheHuttA "healthy-looking" Hutt who was a business associate of Jabba. Unlike his fellow Hutts, Embra was compassionate toward his underlings. He preferred nonvio­ lent resolutions whenever possible. For this, he garnered strong loyalty among his subjects.
@@ -986,7 +962,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Anakin Solo: "Jacen Solo kept it in a secret location and later installed it aboard the Star Destroyer Anakin Solo." Source: The Complete Star Wars Encyclopedia, Vol. I, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.231 — full quote as printed](quotes/v1-p231-jacen-solo-kept-it-in-a.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:45`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -994,49 +969,41 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > Inondrar The chief communications officer aboard the Star Destroyer Anakin Solo during the Galactic Alliance's war with the Confederation.
 — Source: scan pages 81–120; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Inondrar The chief communications officer aboard the Star Destroyer Anakin Solo during the Galactic Alliance's war with the Confederation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.105
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.105 — full quote as printed](quotes/v2-p105-inondrar-the-chief-communications-officer-aboard.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:194`
 
 > Krova, Lieutenant A communications officer in the Galactic Alliance military assigned to the Star Destroyer Anakin Solo during the Alliance's war with the Confederation.
 — Source: scan pages 201–240; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Krova, Lieutenant A communications officer in the Galactic Alliance military assigned to the Star Destroyer Anakin Solo during the Alliance's war with the Confederation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.233
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.233 — full quote as printed](quotes/v2-p233-krova-lieutenant-a-communications-officer-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:410`
 
 > Lah, Qau A Yuuzhan Vong warrior who took the place of Shok Choka after Anakin Solo defeated Choka in combat aboard a space station orbiting Yag'Dhul.
 — Source: scan pages 241–280; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Lah, Qau A Yuuzhan Vong warrior who took the place of Shok Choka after Anakin Solo defeated Choka in combat aboard a space station orbiting Yag'Dhul." Source: The Complete Star Wars Encyclopedia, Vol. II, p.241
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.241 — full quote as printed](quotes/v2-p241-lah-qau-a-yuuzhan-vong-warrior.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:60`
 
 > After the Second Battle of Fondor, the Megador accompanied Darth Caedus and the Anakin Solo into the Transitory Mists on a mission to hunt and destroy Luke Skywalker and the new Jedi Order.
 — Source: scan pages 281–320; Jacen Solo (Darth Caedus); Anakin Solo; Luke Skywalker.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Anakin Solo; Luke Skywalker: "After the Second Battle of Fondor, the Megador accompanied Darth Caedus and the Anakin Solo into the Transitory Mists on a mission to hunt and destroy Luke Skywalker and the new Jedi Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.303
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.303 — full quote as printed](quotes/v2-p303-after-the-second-battle-of-fondor.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:250`
 
 > Although the Mission ultimately succeeded in destroying the voxyn queen, Anakin Solo sacrificed his life to save his brother, and many other Jedi were killed in battle.
 — Source: scan pages 321–360; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Although the Mission ultimately succeeded in destroying the voxyn queen, Anakin Solo sacrificed his life to save his brother, and many other Jedi were killed in battle." Source: The Complete Star Wars Encyclopedia, Vol. II, p.319
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.319 — full quote as printed](quotes/v2-p319-although-the-mission-ultimately-succeeded-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:36`
 
 > In the peace that followed the Yuuzhan Vong War, Nevil was promoted several times, eventually taking a command position on the Star Destroyer Anakin Solo in the wake of Captain Twizzl's death.
 — Source: scan pages 361–400; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "In the peace that followed the Yuuzhan Vong War, Nevil was promoted several times, eventually taking a command position on the Star Destroyer Anakin Solo in the wake of Captain Twizzl's death." Source: The Complete Star Wars Encyclopedia, Vol. II, p.373
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.373 — full quote as printed](quotes/v2-p373-in-the-peace-that-followed-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:160`
 
 > Sadras Koyan and Corellia's leader fired the Centerpoint Station repulsor at the Anakin Solo, Captain Nevil and Jacen Solo survived the blast, but Nevil's son, Turl, was killed in the fighting.
 — Source: scan pages 361–400; Anakin Solo; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Anakin Solo; Jacen Solo (Darth Caedus): "Sadras Koyan and Corellia's leader fired the Centerpoint Station repulsor at the Anakin Solo, Captain Nevil and Jacen Solo survived the blast, but Nevil's son, Turl, was killed in the fighting." Source: The Complete Star Wars Encyclopedia, Vol. II, p.373
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.373 — full quote as printed](quotes/v2-p373-sadras-koyan-and-corellias-leader-fired.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:162`
 
 > Oridin City A major metropolitan center on Fondor bombarded by the Star Destroyer Anakin Solo during the war between the Galactic Alliance and the Confederation.
 — Source: scan pages 401–440; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Oridin City A major metropolitan center on Fondor bombarded by the Star Destroyer Anakin Solo during the war between the Galactic Alliance and the Confederation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.423
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.423 — full quote as printed](quotes/v2-p423-oridin-city-a-major-metropolitan-center.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:214`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -1044,55 +1011,46 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > However, Rapuung had faked his death, and later killed Qe'u to gain access to the Yuuzhan Vong complex for himself and Anakin Solo.
 — Source: scan pages 41–80; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "However, Rapuung had faked his death, and later killed Qe'u to gain access to the Yuuzhan Vong complex for himself and Anakin Solo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.56
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.56 — full quote as printed](quotes/v3-p56-however-rapuung-had-faked-his-death.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:169`
 
 > Rover A recon skiff attached to the Galactic Alliance Star Destroyer Anakin Solo.
 — Source: scan pages 81–120; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Rover A recon skiff attached to the Galactic Alliance Star Destroyer Anakin Solo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.111
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.111 — full quote as printed](quotes/v3-p111-rover-a-recon-skiff-attached-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:282`
 
 > SD-XX accompanied Solo on the maiden voyage of the Star Destroyer Anakin Solo | during a mission to Hapes.
 — Source: scan pages 121–160; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "SD-XX accompanied Solo on the maiden voyage of the Star Destroyer Anakin Solo | during a mission to Hapes." Source: The Complete Star Wars Encyclopedia, Vol. III, p.132
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.132 — full quote as printed](quotes/v3-p132-sd-xx-accompanied-solo-on-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:129`
 
 > Jacen placed him in the Embrace of Pain aboard the Star Destroyer Anakin Solo, but Luke infiltrated the ship and freed him.
 — Source: scan pages 161–200; Jacen Solo (Darth Caedus); Anakin Solo; Luke Skywalker.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Anakin Solo; Luke Skywalker: "Jacen placed him in the Embrace of Pain aboard the Star Destroyer Anakin Solo, but Luke infiltrated the ship and freed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.162
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.162 — full quote as printed](quotes/v3-p162-jacen-placed-him-in-the-embrace.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:81`
 
 > Solo, Anakin Born six years after the death of his grandfather Anakin Skywalker, Anakin Solo was the youngest of Han Solo and Princess Leia Organa Solo's three children, and the strongest in the Force.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Anakin Solo; Han Solo; Leia Organa Solo: "Solo, Anakin Born six years after the death of his grandfather Anakin Skywalker, Anakin Solo was the youngest of Han Solo and Princess Leia Organa Solo's three children, and the strongest in the Force." Source: The Complete Star Wars Encyclopedia, Vol. III, p.172
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.172 — full quote as printed](quotes/v3-p172-solo-anakin-born-six-years-after.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:217`
 
 > Known for her efficiency and nononsense attitude, Lieutenant Tebut was stationed aboard the Star Destroyer Anakin Solo and served as one of the officers of the watch.
 — Source: scan pages 201–240; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Known for her efficiency and nononsense attitude, Lieutenant Tebut was stationed aboard the Star Destroyer Anakin Solo and served as one of the officers of the watch." Source: The Complete Star Wars Encyclopedia, Vol. III, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.226 — full quote as printed](quotes/v3-p226-known-for-her-efficiency-and-nononsense.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:279`
 
 > The first working prototype was assigned to the flagship Star Destroyer Anakin Solo.
 — Source: scan pages 241–280; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "The first working prototype was assigned to the flagship Star Destroyer Anakin Solo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.247
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.247 — full quote as printed](quotes/v3-p247-the-first-working-prototype-was-assigned.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:120`
 
 > He was the commander of the Star Destroyer Anakin Solo on its maiden voyage to Hapes.
 — Source: scan pages 241–280; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "He was the commander of the Star Destroyer Anakin Solo on its maiden voyage to Hapes." Source: The Complete Star Wars Encyclopedia, Vol. III, p.270
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.270 — full quote as printed](quotes/v3-p270-he-was-the-commander-of-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:299`
 
 > After the rescue of Anakin Solo, the shaper base was destroyed by bombardment from Talon Karrde's fleet.
 — Source: scan pages 321–360; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "After the rescue of Anakin Solo, the shaper base was destroyed by bombardment from Talon Karrde's fleet." Source: The Complete Star Wars Encyclopedia, Vol. III, p.351
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.351 — full quote as printed](quotes/v3-p351-after-the-rescue-of-anakin-solo.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:298`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 241–300)
@@ -1104,20 +1062,17 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > The youngest child of Han Solo and Leia Organa, Anakin Solo is already strong in the Force.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Anakin Solo — entry/section: Key Characters: Anakin Solo, Jedi Apprentice.
 Note (our notes, around the quote): Anakin Solo — entry/section: Key Characters: Anakin Solo, Jedi Apprentice: "The youngest child of Han Solo and Leia Organa, Anakin Solo is already strong in the Force." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.244
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.244 — full quote as printed](quotes/d046-s244-the-youngest-child-of-han-solo.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:58`
 
 > Anakin's understanding of the Force evidences itself largely as an affinity for how things connect. By age five he was capable of disassembling and reassembling even complex computers
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Anakin Solo — entry/section: Key Characters: Anakin Solo, Jedi Apprentice.
 Note (our notes, around the quote): Anakin Solo — entry/section: Key Characters: Anakin Solo, Jedi Apprentice: "Anakin's understanding of the Force evidences itself largely as an affinity for how things connect. By age five he was capable of disassembling and reassembling even complex computers" Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.244
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.244 — full quote as printed](quotes/d046-s244-anakins-understanding-of-the-force-evidences.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:60`
 
 > At age 15 he is on the verge of becoming a man, but is still not quite the Jedi Knight he wants to be, despite the fact this his teacher is his uncle Luke Skywalker, the most advanced Jedi in the galaxy.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep.
 Note (our notes, around the quote): Anakin Solo; Luke Skywalker — entry/section: Key Characters: Anakin Solo, Jedi Apprentice: "At age 15 he is on the verge of becoming a man, but is still not quite the Jedi Knight he wants to be, despite the fact this his teacher is his uncle Luke Skywalker, the most advanced Jedi in the galaxy." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.244
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.244 — full quote as printed](quotes/d046-s244-at-age-15-he-is-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:62`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -1125,13 +1080,11 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > Though they suffer heavy casualties—including the Jedi Daeshara'cor, who is killed protecting Anakin Solo—the ground forces survive long enough for Corran Horn to find the Yuuzhan Vong communication center.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Anakin Solo; Corran Horn.
 Note (our notes, around the quote): Anakin Solo; Corran Horn: "Though they suffer heavy casualties—including the Jedi Daeshara'cor, who is killed protecting Anakin Solo—the ground forces survive long enough for Corran Horn to find the Yuuzhan Vong communication center." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.65
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.65 — full quote as printed](quotes/d049-s65-though-they-suffer-heavy-casualties-including.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:34`
 
 > Together, Ikrit had said, Anakin and Tahiri were stronger than the sum of their parts.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Anakin Solo — entry/section: Escape from Yavin 4 (The New Jedi Order Sourcebook, Ch6): "Together, Ikrit had said, Anakin and Tahiri were stronger than the sum of their parts." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.116
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.116 — full quote as printed](quotes/d049-s116-together-ikrit-had-said-anakin-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:355`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–162)
@@ -1143,19 +1096,16 @@ Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-
 > Rather than have word of his dishonor reach Tsavong Lah, the Executor treacherously slays all of the warriors who saw him turn down the duel with Anakin Solo.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Rather than have word of his dishonor reach Tsavong Lah, the Executor treacherously slays all of the warriors who saw him turn down the duel with Anakin Solo." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.127
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.127 — full quote as printed](quotes/d049-s127-rather-than-have-word-of-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-121-162.md:48`
 
 > Anakin Solo, in typically impulsive fashion, decides that the best way to end the attacks on the Jedi Knights is to find the original voxyn—the template for the others—and destroy it.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Anakin Solo, in typically impulsive fashion, decides that the best way to end the attacks on the Jedi Knights is to find the original voxyn—the template for the others—and destroy it." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.143
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.143 — full quote as printed](quotes/d049-s143-anakin-solo-in-typically-impulsive-fashion.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-121-162.md:158`
 
 > Of all the Jedi and other Force-users captured, only Welk and Lomi survived long enough to be rescued by Anakin Solo's strike team.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Of all the Jedi and other Force-users captured, only Welk and Lomi survived long enough to be rescued by Anakin Solo's strike team." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.150
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.150 — full quote as printed](quotes/d049-s150-of-all-the-jedi-and-other.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-121-162.md:205`
 
 - Note (summary from our notes, not a quotation): Page contents: 946 words, 16 paragraphs | headings/entries: The Fate of Anakin Solo; Jaina's Team
@@ -1165,7 +1115,6 @@ Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-
 > All across the galaxy, Jedi feel Anakin’s death through the Force like a physical blow to their hearts.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Anakin Solo — entry/section: The Fate of Anakin Solo (The New Jedi Order Sourcebook, Ch7): "All across the galaxy, Jedi feel Anakin’s death through the Force like a physical blow to their hearts." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.153
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.153 — full quote as printed](quotes/d049-s153-all-across-the-galaxy-jedi-feel.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-121-162.md:230`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -1191,7 +1140,6 @@ Our notes: `notes/materials/037-sw-d20-folder/630-part-3-crazy-eight.md:15`
 > Approximately fourteen years after the Battle of Endor, Chewbacca and the Solo children traveled to Drall, escorted by their Drallish tutor, Ebrihim. While there, they discovered the planetary repulsor system and used it to disable Centerpoint Station, a powerful weapon commandeered by anti-Rebellion extremists.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Chewbacca; Jacen Solo (Darth Caedus); Jaina Solo; Anakin Solo — entry/section: Disabling Centerpoint from Drall: "Approximately fourteen years after the Battle of Endor, Chewbacca and the Solo children traveled to Drall, escorted by their Drallish tutor, Ebrihim. While there, they discovered the planetary repulsor system and used it to disable Centerpoint Station, a powerful weapon commandeered by anti-Rebellion extremists." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.81
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.81 — full quote as printed](quotes/d665-s81-approximately-fourteen-years-after-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:154`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -1204,7 +1152,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Anakin Solo; Thrackan Sal-Solo — entry/section: Firing Centerpoint.
 Note (our notes, around the quote): Anakin Solo; Thrackan Sal-Solo — entry/section: Firing Centerpoint: "With the help of Anakin Solo, Thrackan Sal-Solo fired Centerpoint at the Yuuzhan" Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.151
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.151 — full quote as printed](quotes/d665-s151-with-the-help-of-anakin-solo.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-121-162.md:229`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -1220,37 +1167,31 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > Named after his grandfather, Anakin Skywalker, Anakin Solo is likewise very strong in the Force. His grandfather's facility with machines seems to have skipped a generation, giving Anakin a certain affinity for anything electronic.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Anakin Solo; Darth Vader (Anakin Skywalker) — entry/section: Anakin Solo (The Specialty): "Named after his grandfather, Anakin Skywalker, Anakin Solo is likewise very strong in the Force. His grandfather's facility with machines seems to have skipped a generation, giving Anakin a certain affinity for anything electronic." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145 — full quote as printed](quotes/d666-s145-named-after-his-grandfather-anakin-skywalker.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:152`
 
 > Manifestations: Anakin “sees” schematics in his mind by using the Force and can discern how they work or why they won’t. He merely needs to concentrate on the machine in question in order for this to work.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Anakin Solo — entry/section: Anakin Solo sees schematics.
 Note (our notes, around the quote): Anakin Solo — entry/section: Anakin Solo sees schematics: "Manifestations: Anakin “sees” schematics in his mind by using the Force and can discern how they work or why they won’t. He merely needs to concentrate on the machine in question in order for this to work." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145 — full quote as printed](quotes/d666-s145-manifestations-anakin-sees-schematics-in-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:154`
 
 > Bonuses: Anakin gets the Repair skill as a class skill, no matter what class he takes. Additionally, Anakin may attempt a Repair check as a full-round action to diagnose problems with machines, such as droids or starships.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Anakin Solo — entry/section: Anakin Solo bonuses.
 Note (our notes, around the quote): Anakin Solo — entry/section: Anakin Solo bonuses: "Bonuses: Anakin gets the Repair skill as a class skill, no matter what class he takes. Additionally, Anakin may attempt a Repair check as a full-round action to diagnose problems with machines, such as droids or starships." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145 — full quote as printed](quotes/d666-s145-bonuses-anakin-gets-the-repair-skill.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:156`
 
 > Secret Bonuses: Anakin can detect hidden machinery merely by coming close to it. You should secretly roll a Search check for Anakin whenever he passes within 2 meters of concealed machinery.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Anakin Solo — entry/section: Anakin Solo secret bonuses.
 Note (our notes, around the quote): Anakin Solo — entry/section: Anakin Solo secret bonuses: "Secret Bonuses: Anakin can detect hidden machinery merely by coming close to it. You should secretly roll a Search check for Anakin whenever he passes within 2 meters of concealed machinery." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145 — full quote as printed](quotes/d666-s145-secret-bonuses-anakin-can-detect-hidden.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:158`
 
 > Drawbacks: Because young Anakin Solo has so many things in common with his grandfather, he is in some danger of following in the elder Anakin’s footsteps and turning to the dark side. Also, as a result of seeing so much of the world around him as a machine that needs to be repaired, Anakin has a somewhat simplistic view of life’s problems and how to go about correcting them. He reacts far more analytically than he does emotionally to social conundrums.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Anakin Solo; Darth Vader (Anakin Skywalker) — entry/section: Anakin Solo drawbacks: "Drawbacks: Because young Anakin Solo has so many things in common with his grandfather, he is in some danger of following in the elder Anakin’s footsteps and turning to the dark side. Also, as a result of seeing so much of the world around him as a machine that needs to be repaired, Anakin has a somewhat simplistic view of life’s problems and how to go about correcting them. He reacts far more analytically than he does emotionally to social conundrums." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145 — full quote as printed](quotes/d666-s145-drawbacks-because-young-anakin-solo-has.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:160`
 
 > Design Notes: Anakin Solo, despite being the grandson of the “Chosen One,” is not as “in tune” with the totality of the Force as his grandfather or his older brother, Jacen Solo. He is much more focused on simply being a good warrior, using the Force primarily to further that goal.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Anakin Solo — entry/section: Anakin Solo design notes.
 Note (our notes, around the quote): Anakin Solo — entry/section: Anakin Solo design notes: "Design Notes: Anakin Solo, despite being the grandson of the “Chosen One,” is not as “in tune” with the totality of the Force as his grandfather or his older brother, Jacen Solo. He is much more focused on simply being a good warrior, using the Force primarily to further that goal." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.145 — full quote as printed](quotes/d666-s145-design-notes-anakin-solo-despite-being.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:162`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -1262,7 +1203,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Yet the Force still wasn't done with the jungle moon: Before escaping Yavin 4, Anakin Solo helped redeem Vua Rapuung, one of the Yuuzhan Vong’s Shamed Ones.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Anakin Solo; Vua Rapuung — entry/section: Vua Rapuung redeemed.
 Note (our notes, around the quote): Anakin Solo; Vua Rapuung — entry/section: Vua Rapuung redeemed: "Yet the Force still wasn't done with the jungle moon: Before escaping Yavin 4, Anakin Solo helped redeem Vua Rapuung, one of the Yuuzhan Vong’s Shamed Ones." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154 — full quote as printed](quotes/d667-s154-yet-the-force-still-wasnt-done.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:265`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -1271,7 +1211,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Luke Skywalker; Mara Jade Skywalker; Corran Horn; Ganner Rhysode; Jaina Solo; Jacen Solo (Darth Caedus); Anakin Solo — entry/section: The Jedi — New Jedi Order era (Revised Core Rulebook, Ch9): "In The New Jedi Order era, Luke Skywalker has trained about one hundred Jedi and identified perhaps a dozen others to start training. Prominent Force-users such as Mara Jade Skywalker and Corran Horn help Skywalker train and coordinate the efforts of these Jedi, while promising students such as the Solo children and Ganner Rhysode show great promise for the future," Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.178
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.178 — full quote as printed](quotes/d671-s178-in-the-new-jedi-order-era.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-121-180.md:301`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1283,7 +1222,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 > Anyone who expresses a negative opinion of the Galactic Alliance risks brutal interrogation in the GAG's holding cells at its Coruscant headquarters or aboard its mobile command center, an /mperial /I-class Star Destroyer named the Anakin Solo.
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi; Anakin Solo. POV: Anakin Solo.
 Note (our notes, around the quote): Anakin Solo: "Anyone who expresses a negative opinion of the Galactic Alliance risks brutal interrogation in the GAG's holding cells at its Coruscant headquarters or aboard its mobile command center, an /mperial /I-class Star Destroyer named the Anakin Solo." Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.105
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.105 — full quote as printed](quotes/d716-s105-anyone-who-expresses-a-negative-opinion.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-120.md:302`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1295,7 +1233,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > After Anakin Solo dies on the planet Myrkr, his lightsaber finds its way into the hands of Ganner Rhysode and even Anakin's uncle, Luke Skywalker, who wields it in a duel against Supreme Overlord Shimrra.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag.
 Note (our notes, around the quote): Anakin Solo; Darth Vader (Anakin Skywalker); Luke Skywalker — entry/section: Anakin Solo's Lightsaber: "After Anakin Solo dies on the planet Myrkr, his lightsaber finds its way into the hands of Ganner Rhysode and even Anakin's uncle, Luke Skywalker, who wields it in a duel against Supreme Overlord Shimrra." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.98
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.98 — full quote as printed](quotes/d719-s98-after-anakin-solo-dies-on-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:305`
 
 ## Star Wars Insider #45 (1999)
@@ -1313,7 +1250,6 @@ Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:443`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Vector Prime (R.A. Salvatore) (text copy `MEGA_Legend_The_New_Jedi_Order_Series_Star_Wars_New_Jedi_Order_01_Vector_Prime_R_A_Salvatore_epub`).)
 (Full sentence/passage taken from the source text on file: `njo_vp_epub`.)
 Note (our notes, around the quote): Chewbacca; Anakin Solo — entry/section: Vector Prime excerpt: "held him there easily, with just one hand, while his other hand reached down to Anakin's belt and pulled free his lightsaber." Source: *Star Wars Insider #45* (1999), scan p.84
-![Quote image: *Star Wars Insider #45* (1999), scan p.84 — full quote as printed](quotes/ins045-s84-held-him-there-easily-with-just.jpg)
 Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:445`
 
 ## Star Wars Insider #46 (1999)
@@ -1321,7 +1257,6 @@ Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:445`
 > Now, they are Jedi apprentices to be reckoned with, skilled with their lightsabers—but also a near-match for their father Han Solo when placed behind the control stick.
 — Source: Star Wars Insider #46 (1999).
 Note (our notes, around the quote): jacen-solo; Jaina Solo; Anakin Solo; Han Solo — entry/section: Bookshelf: Vector Prime (Jason Fry): "Now, they are Jedi apprentices to be reckoned with, skilled with their lightsabers—but also a near-match for their father Han Solo when placed behind the control stick." Source: *Star Wars Insider #46* (1999), scan p.78
-![Quote image: *Star Wars Insider #46* (1999), scan p.78 — full quote as printed](quotes/ins046-s78-now-they-are-jedi-apprentices-to-2.jpg)
 Our notes: `notes/materials/038-star-wars-insider/046-ins046.md:409`
 
 ## Star Wars Insider #53 (2001)
@@ -1329,7 +1264,6 @@ Our notes: `notes/materials/038-star-wars-insider/046-ins046.md:409`
 > Eventually, it's Anakin Solo (who's had a premonition that things are going wrong) who defies orders and heads for Yavin 4 in his X-wing—only to find the evil collaborators of the Peace Brigade already there looking for Jedi.
 — Source: Star Wars Insider #53 (2001).
 Note (our notes, around the quote): Anakin Solo; Luke Skywalker — entry/section: Bookshelf (Jason Fry, Conquest), printed p. 63: "Eventually, it's Anakin Solo (who's had a premonition that things are going wrong) who defies orders and heads for Yavin 4 in his X-wing—only to find the evil collaborators of the Peace Brigade already there looking for Jedi." Source: *Star Wars Insider #53* (2001), scan p.63
-![Quote image: *Star Wars Insider #53* (2001), scan p.63 — full quote as printed](quotes/ins053-s63-eventually-its-anakin-solo-whos-had.jpg)
 Our notes: `notes/materials/038-star-wars-insider/053-ins053.md:364`
 
 ## Star Wars Insider #56 (2001)
@@ -1341,7 +1275,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:298`
 > I would be hard-pressed to say, 'This is Greg's part of Anakin and this is my part.'
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Anakin Solo — entry/section: Troy Denning on co-writing Anakin Solo: ""I would be hard-pressed to say, 'This is Greg's part of Anakin and this is my part.'" —Troy Denning, Star Wars Insider 56, p. 68" Source: *Star Wars Insider #56* (2001), scan p.51
-![Quote image: *Star Wars Insider #56* (2001), scan p.51 — full quote as printed](quotes/ins056-s51-i-would-be-hard-pressed-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:300`
 
 ## Star Wars Insider #57 (2001)

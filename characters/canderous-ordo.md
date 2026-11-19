@@ -2210,14 +2210,12 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4981`; `not
 > Canderous Ordo, a former Neo-Crusader and mercenary, joined the redeemed Jedi Revan and actually helped save the Republic from its Sith enemies. Afterward, Canderous claimed the title Mandalore the Preserver.
 — Source: Mandalorians, the underworld and the Hutts; Revan — Splinters and Unifiers.
 Note (our notes, around the quote): Revan — Splinters and Unifiers: "Canderous Ordo, a former Neo-Crusader and mercenary, joined the redeemed Jedi Revan and actually helped save the Republic from its Sith enemies. Afterward, Canderous claimed the title Mandalore the Preserver." Source: The Old Republic Encyclopedia, p.195, sidebar
-![Quote image: The Old Republic Encyclopedia, p.195 — full quote as printed](quotes/tore-p195-canderous-ordo-a-former-neo-crusader.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:22`
 
 > …and so it was passed down through the centuries from one Mandalore to the next, until the Jedi Revan killed Mandalore the Ultimate and hid the mask away after the end of the Mandalorian Wars. The mask was returned when Revan gained the loyalty of Canderous Ordo, who integrated it into his own armor when he claimed the title of Mandalore the Preserver.
 > [fragment — full passage not on file]
 — Source: Mandalorians, the underworld and the Hutts.
 Note (our notes, around the quote): Revan; Mandalore the Ultimate; Canderous Ordo — The Mask of Mandalore (top-right): "…and so it was passed down through the centuries from one Mandalore to the next, until the Jedi Revan killed Mandalore the Ultimate and hid the mask away after the end of the Mandalorian Wars. The mask was returned when Revan gained the loyalty of Canderous Ordo, who integrated it into his own armor when he claimed the title of Mandalore the Preserver." Source: The Old Republic Encyclopedia, p.201, sidebar
-![Quote image: The Old Republic Encyclopedia, p.201 — full quote as printed](quotes/tore-p201-and-so-it-was-passed-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:61`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -2226,7 +2224,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutt
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Meetra Surik; Canderous Ordo — the Exile ends the Sith plot.
 Note (our notes, around the quote): Meetra Surik; Canderous Ordo — the Exile ends the Sith plot: "salvation came instead from a former Jedi who had been excommunicated for assisting Revan during the Mandalorian Wars." Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-the-exile-ends-the-sith-plot.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:208`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -2234,13 +2231,11 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > Jagi This Mandalorian once challenged Canderous Ordo to a duel in the Dune Sea of Tatooine, a fight that Jagi lost.
 — Source: scan pages 121–160; Canderous Ordo. POV: Canderous Ordo.
 Note (our notes, around the quote): Canderous Ordo: "Jagi This Mandalorian once challenged Canderous Ordo to a duel in the Dune Sea of Tatooine, a fight that Jagi lost." Source: The Complete Star Wars Encyclopedia, Vol. II, p.133
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.133 — full quote as printed](quotes/v2-p133-jagi-this-mandalorian-once-challenged-canderous.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:140`
 
 > A former bounty hunter associate of Kang, Canderous Ordo, helped the fugitives escape Taris by infiltrating Kang's compound and stealing his ship, the Ebon Hawk, Kang was killed trying to stop the fugitives.
 — Source: scan pages 201–240; Canderous Ordo. POV: Canderous Ordo.
 Note (our notes, around the quote): Canderous Ordo: "A former bounty hunter associate of Kang, Canderous Ordo, helped the fugitives escape Taris by infiltrating Kang's compound and stealing his ship, the Ebon Hawk, Kang was killed trying to stop the fugitives." Source: The Complete Star Wars Encyclopedia, Vol. II, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.197 — full quote as printed](quotes/v2-p197-a-former-bounty-hunter-associate-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:24`
 
 - Note (summary from our notes, not a quotation): Page contents: 1187 words, 27 paragraphs | headings/entries: Ord Grovner; Ord Ibanna; Ord Jjanon; Ord Klina; Ord Lithone; Ord Mantell, Battle of; Ord Manurt; Ordo, Canderous
@@ -2250,7 +2245,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > He was pragmatic enough to take no insult from the defeat of his people.
 — Source: scan pages 401–440; Canderous Ordo — entry/section: Ordo, Canderous.
 Note (our notes, around the quote): Canderous Ordo — entry/section: Ordo, Canderous: "He was pragmatic enough to take no insult from the defeat of his people." Source: The Complete Star Wars Encyclopedia, Vol. II, p.421
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.421 — full quote as printed](quotes/v2-p421-he-was-pragmatic-enough-to-take.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:198`
 
 ## Characters/Miniatures/Bounty Hunters Preview 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2264,7 +2258,6 @@ Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:23
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 4 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_4_pdf_bc6cd0e832`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 4 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_4_pdf_bc6cd0e832`).)
 Note (our notes, around the quote): Revan; Canderous Ordo — entry/section: Revan helps Canderous Ordo restore Mandalorian honor: "In an ironic twist, Revan would play a pivotal role in helping Canderous Ordo to restore the honor of the Mandalorian traditions. As the new Mandalore, Canderous Ordo employed a more advanced version of armor than that of the Neo-Crusaders. Ordo's reformed Neo-Crusaders adopted a similar style of armor in the following years in honor of the new Mandalore." Source: *Bounty Hunters Preview 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d096-s2-in-an-ironic-twist-revan-would.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:27`
 
 ## Jedi Counselling/Jedi Counseling 81.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2274,7 +2267,6 @@ Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:27
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 81 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_81_pdf_33b70fd0f9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 81 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_81_pdf_33b70fd0f9`).)
 Note (our notes, around the quote): Canderous Ordo — entry/section: Mandalorian armor; Mandalore in KOTOR II: "As for the armor worn by the Mandalorian mercenaries in the game, it's usually just heavy battle armor made out of Mandalorian iron (42,000 credits, DR 8). Higher-ranking Mandalorian officers would have had suits with a higher mastercraft bonus: 84,000 credits for DR 9; 168,000 credits for DR 10; and 336,000 credits for DR 11, worn by Mandalore himself in Knights of the Old Republic II." Source: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.5
-![Quote image: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.5 — full quote as printed](quotes/d251-s5-as-for-the-armor-worn-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:54`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -2292,7 +2284,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > The crushing defeat at Malachor V and Mandalore the Ultimate's death finally reveal the Neo-Crusader hypocrisy, shaking Canderous to his core.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Mandalore the Ultimate; Canderous Ordo. POV: Canderous Ordo; about Canderous Ordo / Mandalore the Preserver.
 Note (our notes, around the quote): Mandalore the Ultimate; Canderous Ordo: "The crushing defeat at Malachor V and Mandalore the Ultimate's death finally reveal the Neo-Crusader hypocrisy, shaking Canderous to his core." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.201
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.201 — full quote as printed](quotes/d718-s201-the-crushing-defeat-at-malachor-v.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:199`
 
 - Note (summary from our notes, not a quotation): Page contents: Table 12-1 armor; Canderous Ordo stats (Human soldier 7/elite trooper 6/officer 3, CL 16; implants, Basilisk war droid); Armor: Neo-Crusader light armor, Mandalorian combat suit. (hand-read)

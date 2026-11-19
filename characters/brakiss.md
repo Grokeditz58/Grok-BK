@@ -20,46 +20,39 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Brakiss; Luke Skywalker — Brakiss bombs the Senate: "The bombing had been executed by Brakiss, a former Imperial spy who, years before, had unsuccessfully tried to infiltrate Luke Skywalker's Jedi academy on Yavin 4." Source: The New Essential Chronology, p.182
-![Quote image: The New Essential Chronology, p.182 — full quote as printed](quotes/nec-p182-brakiss-bombs-the-senate.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:56`
 
 > Brakiss had fled the Jedi academy when Skywalker had forced Brakiss to confront the darkness in his soul.
 — Source: Part Nine: Uprisings and Insurgencies; Brakiss; Luke Skywalker — Brakiss flees the academy.
 Note (our notes, around the quote): Brakiss; Luke Skywalker — Brakiss flees the academy: "Brakiss had fled the Jedi academy when Skywalker had forced Brakiss to confront the darkness in his soul." Source: The New Essential Chronology, p.182
-![Quote image: The New Essential Chronology, p.182 — full quote as printed](quotes/nec-p182-brakiss-flees-the-academy.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:60`
 
 > Kueller had helped put him back together, and Brakiss served the powerful man out of gratitude and fear.
 — Source: Part Nine: Uprisings and Insurgencies; Brakiss; Kueller — Brakiss serves Kueller.
 Note (our notes, around the quote): Brakiss; Kueller — Brakiss serves Kueller: "Kueller had helped put him back together, and Brakiss served the powerful man out of gratitude and fear." Source: The New Essential Chronology, p.183
-![Quote image: The New Essential Chronology, p.183 — full quote as printed](quotes/nec-p183-brakiss-serves-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:67`
 
 > Brakiss (foreground) and Kueller
 > [fragment — full passage not on file]
 — Source: Part Nine: Uprisings and Insurgencies; Brakiss; Kueller — art caption.
 Note (our notes, around the quote): Brakiss; Kueller — art caption: "Brakiss (foreground) and Kueller" Source: The New Essential Chronology, p.183, caption
-![Quote image: The New Essential Chronology, p.183 — full quote as printed](quotes/nec-p183-caption-brakiss-foreground-and-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:71`
 
 > Eventually Brakiss rose to a leadership position with the Second Imperium ... He founded a training center for dark Jedi, the Shadow Academy, with the intention of creating evil Force warriors for the continuing battle.
 > [fragment — full passage not on file]
 — Source: Part Nine: Uprisings and Insurgencies; Brakiss — Shadow Academy.
 Note (our notes, around the quote): Brakiss — Shadow Academy: "Eventually Brakiss rose to a leadership position with the Second Imperium ... He founded a training center for dark Jedi, the Shadow Academy, with the intention of creating evil Force warriors for the continuing battle." Source: The New Essential Chronology, p.184
-![Quote image: The New Essential Chronology, p.184 — full quote as printed](quotes/nec-p184-shadow-academy.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:84`
 
 > Brakiss, the former academy student who had assisted in the Almanian Uprising six years earlier, now headed the Shadow Academy on behalf of the Second Imperium
 > [fragment — full passage not on file]
 — Source: Part Eleven: Generations of Jedi; Brakiss — Brakiss heads the Shadow Academy.
 Note (our notes, around the quote): Brakiss — Brakiss heads the Shadow Academy: "Brakiss, the former academy student who had assisted in the Almanian Uprising six years earlier, now headed the Shadow Academy on behalf of the Second Imperium" Source: The New Essential Chronology, p.198
-![Quote image: The New Essential Chronology, p.198 — full quote as printed](quotes/nec-p198-brakiss-heads-the-shadow-academy.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:40`
 
 > Aboard the Shadow Academy, Brakiss showed Zekk how to tap into unsuspected Jedi potential. Suddenly, Zekk found himself in control of great powers he had never dreamed of—and became an easy mark for Imperial brainwashing. He turned into one of the most exceptional of the new Dark Jedi.
 — Source: Part Eleven: Generations of Jedi; Brakiss — Brakiss unlocks Zekk.
 Note (our notes, around the quote): Brakiss — Brakiss unlocks Zekk: "Aboard the Shadow Academy, Brakiss showed Zekk how to tap into unsuspected Jedi potential. Suddenly, Zekk found himself in control of great powers he had never dreamed of—and became an easy mark for Imperial brainwashing. He turned into one of the most exceptional of the new Dark Jedi." Source: The New Essential Chronology, p.199
-![Quote image: The New Essential Chronology, p.199 — full quote as printed](quotes/nec-p199-brakiss-unlocks-zekk.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:47`
 
 > Zexk could not bring himself to burt her, but he wamed her to stay away from Yavin 4.
@@ -75,13 +68,11 @@ Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generati
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Brakiss; Palpatine (Darth Sidious) — Brakiss cuts through to the false Emperor: "Two Imperial guards blocked his way, but Brakiss cut them down with his lightsaber, then chopped through the door of Palpatine's isolation chamber." Source: The New Essential Chronology, p.200
-![Quote image: The New Essential Chronology, p.200 — full quote as printed](quotes/nec-p200-brakiss-cuts-through-to-the-false.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:58`
 
 > Both were disciples of the new Nightsister philosophy taught by Brakiss's now-defunct Second Imperium.
 — Source: Part Twelve: The New Jedi Order; Brakiss — Brakiss's Nightsister philosophy.
 Note (our notes, around the quote): Brakiss — Brakiss's Nightsister philosophy: "Both were disciples of the new Nightsister philosophy taught by Brakiss's now-defunct Second Imperium." Source: The New Essential Chronology, p.216
-![Quote image: The New Essential Chronology, p.216 — full quote as printed](quotes/nec-p216-brakisss-nightsister-philosophy.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:124`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -91,7 +82,6 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss — Brakiss — stat block, level and class — RPG mechanics (weaker source): "Brakiss CL 11 Medium Human Noble 1/Jedi 7/Force adept 3 Force 7; Dark Side 10" Source: Jedi Academy Training Manual, p.116, stat block
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-stat-block-level-and-class.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:27`
 
 > Blackguard Encounters The Blackguard is found almost exclusively on Mustafar in or near the Southern Jedi Ruins, but a few are occasionally located wandering between the ruins and the planet's only remaining city of Fralideja. Elite minions and wilders exist and act more as squad leaders, giving evidence that the Blackguard might be better organized than most people think possible of a dark side cult. i IA eSaLagvHo ) eo AGNLS AO SHGoanve) === sp117 i/ U AQGNLAE AIO SHVSONYVE) BRAKISS Brakiss CL 11 Medium Human Noble 1/Jedi 7/Force adept 3 Force 7; Dark Side 10 Init +6; Senses Use the Force +18 Languages Basic, Paecian Defenses Ref 24 (flat-footed 23), Fort 24, Will 26; Deflect, Elusive Target hp 77; Threshold 24 Speed 6 squares Melee lightsaber +12 (2d8+6) or Melee lightsaber +7/+7 (2d8+6) with Double Attack Ranged by weapon +10 Base Atk +9; Grp +10 Atk Options Channel!
@@ -99,7 +89,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss — Brakiss — stat block, defences and attacks — RPG mechanics (weaker source): "hp 77; Threshold 24 Speed 6 squares Melee lightsaber +12 (2d8+6) or Melee lightsaber +7/+7 (2d8+6) with Double Attack" Source: Jedi Academy Training Manual, p.116, stat block
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-stat-block-defences-and-attacks.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:29`
 
 > Elite minions and wilders exist and act more as squad leaders, giving evidence that the Blackguard might be better organized than most people think possible of a dark side cult. i IA eSaLagvHo ) eo AGNLS AO SHGoanve) === sp117 i/ U AQGNLAE AIO SHVSONYVE) BRAKISS Brakiss CL 11 Medium Human Noble 1/Jedi 7/Force adept 3 Force 7; Dark Side 10 Init +6; Senses Use the Force +18 Languages Basic, Paecian Defenses Ref 24 (flat-footed 23), Fort 24, Will 26; Deflect, Elusive Target hp 77; Threshold 24 Speed 6 squares Melee lightsaber +12 (2d8+6) or Melee lightsaber +7/+7 (2d8+6) with Double Attack Ranged by weapon +10 Base Atk +9; Grp +10 Atk Options Channel! Aggression, Double Attack Special Actions Channel Anger, Presence, Resilience Force Powers Known (Use the Force +18): Force lightning, mind trick, move object, rebuke (2), vital transfer Force Techniques Improved Sense Force Abilities Str 12, Dex 13, Con 12, Int 13, Wis 13, Cha 16 Talents Channel Aggression, Channel Anger, Deflect, Elusive Target, Force Perception, Presence, Resilience Feats Double Attack, Force Sensitivity, Force Training (3), Skill Focus (Persuasion, Use the Force), Weapon Focus (lightsabers), Weapon Proficiency (lightsabers, pistols, simple weapons) Skills Deception +13, Gather Information +13, Knowledge (galactic lore) +11, Perception +11, Persuasion +18, Stealth +11, Use the Force +18 Possessions lightsaber (self-built), silver robes When Luke Skywalker establishes his academy on Yavin 4, many students arrive to begin their training under his tutelage. A few are actually spies sent by the Empire and other interested parties that Skywalker quickly discovers and removes.
@@ -108,7 +97,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Fragment completed 2026-11-17: full sentence/passage matched word for word in the source text on file: `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`.)
 Note (our notes, around the quote): Brakiss — Brakiss — stat block, Force powers — RPG mechanics (weaker source): "Force Powers Known (Use the Force +18): Force lightning, mind trick, move object, rebuke (2), vital transfer" Source: Jedi Academy Training Manual, p.116, stat block
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-stat-block-force-powers-rpg.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:31`
 
 > Aggression, Double Attack Special Actions Channel Anger, Presence, Resilience Force Powers Known (Use the Force +18): Force lightning, mind trick, move object, rebuke (2), vital transfer Force Techniques Improved Sense Force Abilities Str 12, Dex 13, Con 12, Int 13, Wis 13, Cha 16 Talents Channel Aggression, Channel Anger, Deflect, Elusive Target, Force Perception, Presence, Resilience Feats Double Attack, Force Sensitivity, Force Training (3), Skill Focus (Persuasion, Use the Force), Weapon Focus (lightsabers), Weapon Proficiency (lightsabers, pistols, simple weapons) Skills Deception +13, Gather Information +13, Knowledge (galactic lore) +11, Perception +11, Persuasion +18, Stealth +11, Use the Force +18 Possessions lightsaber (self-built), silver robes When Luke Skywalker establishes his academy on Yavin 4, many students arrive to begin their training under his tutelage. A few are actually spies sent by the Empire and other interested parties that Skywalker quickly discovers and removes. Brakiss, on the other hand, actually holds true potential with the Force, and, despite having already begun down the path to the dark side, Skywalker allows him to stay, convinced that he can lead Brakiss down the path of the light side. Despite all of Skywalker’s efforts and training, Brakiss proves Luke wrong and flees from the academy.
@@ -118,7 +106,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss; Luke Skywalker — Brakiss — at Luke's academy: "Brakiss, on the other hand, actually holds true potential with the Force, and, despite having already begun down the path to the dark side, Skywalker allows him to stay, convinced that he can lead Brakiss down the path of the light side. Despite all of Skywalker's efforts and training, Brakiss proves Luke wrong and flees from the academy." Source: Jedi Academy Training Manual, p.116
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-at-lukes-academy.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:33`
 
 > Brakiss, on the other hand, actually holds true potential with the Force, and, despite having already begun down the path to the dark side, Skywalker allows him to stay, convinced that he can lead Brakiss down the path of the light side. Despite all of Skywalker’s efforts and training, Brakiss proves Luke wrong and flees from the academy.
@@ -130,13 +117,11 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss; Kueller — Brakiss — with Kueller and the Second Imperium: "Brakiss immediately swears his allegiance to the Second Imperium and begins building an academy equal to Skywalker's but devoted entirely to the dark side." Source: Jedi Academy Training Manual, p.116
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-with-kueller-and-the-second.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:35`
 
 > Brakiss is ordered by Palpatine to destroy the Jedi once and for all. Once again Brakiss fails, and he dies shortly after returning to the Shadow Academy when Palpatine's Royal Guards set off explosive charges planted in the station.
 — Source: Chapter VI: Dangers of Study; Brakiss; Palpatine (Darth Sidious) — Brakiss — death.
 Note (our notes, around the quote): Brakiss; Palpatine (Darth Sidious) — Brakiss — death: "Brakiss is ordered by Palpatine to destroy the Jedi once and for all. Once again Brakiss fails, and he dies shortly after returning to the Shadow Academy when Palpatine's Royal Guards set off explosive charges planted in the station." Source: Jedi Academy Training Manual, p.116
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-death.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:37`
 
 > After less than a year, Dolph receives the news of his parents’ death by the Je‘har regime, the new government on Almania. After returning to his homeworld and confirming the news, he falls to the dark side and blames the New Republic for its inaction. Seeking revenge, he dons a suit of armor along with a Hendanyn death mask and changes his name to Kueller, the name of a long-dead Almanian general. He forms an army, attracting members of the local population, and overthrows the Je'har regime.
@@ -149,7 +134,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_training_manual_jatm_paged_txt`.)
 Note (our notes, around the quote): Brakiss; Kueller — Kueller — recruits Brakiss: "he encounters Brakiss, who also trained under Skywalker and was emotionally torn when forced to confront his inner demons. Kueller repairs Brakiss's damaged psyche and brings him into the fold by assigning him to supervise a droid factory on Telti." Source: Jedi Academy Training Manual, p.122
-![Quote image: Jedi Academy Training Manual, p.122 — full quote as printed](quotes/jatm-p122-kueller-recruits-brakiss.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:76`
 
 > Senior Student of the Shadow Academy CL 6 Medium Human Jedi 6 Force 4; Dark Side 6 Init +9; Senses Perception +3 Languages Basic Defenses Ref 18 (flat-footed 17), Fort 18, Will 17; Deflect hp 62; Threshold 18 Speed 6 squares Melee lightsaber +8 (2d8+6) Ranged by weapon +7 Base Atk +6; Grp +7 Special Actions Quick Draw"
@@ -163,7 +147,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss; Luke Skywalker — Shadow Academy Student — Brakiss: "One of Luke Skywalker's early failures as leader of the New Jedi Order is Brakiss." Source: Jedi Academy Training Manual, p.127
-![Quote image: Jedi Academy Training Manual, p.127 — full quote as printed](quotes/jatm-p127-shadow-academy-student-brakiss.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:107`
 
 > With the assistance of a group of witches from the Nightsister clan of Dathomir, Brakiss establishes the Shadow Academy for the Second Imperium.
@@ -177,7 +160,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss — Shadow Academy Student — Brakiss's pawns: "Time and again, Brakiss uses his students as pawns in his plans to eradicate the Jedi." Source: Jedi Academy Training Manual, p.127
-![Quote image: Jedi Academy Training Manual, p.127 — full quote as printed](quotes/jatm-p127-shadow-academy-student-brakisss-pawns.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:109`
 
 > Brakiss would identify students in need of discipline before turning them over to Kai to handle.
@@ -191,7 +173,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss; Luke Skywalker; Lowbacca — Tamith Kai — Lowbacca rescued: "Lowbacca ceases to trust her, and before long he's rescued from the Shadow Academy by Luke Skywalker and his fellow Jedi." Source: Jedi Academy Training Manual, p.129
-![Quote image: Jedi Academy Training Manual, p.129 — full quote as printed](quotes/jatm-p129-tamith-kai-lowbacca-rescued.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:116`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -199,7 +180,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 > The station managed to escape to a new hiding place, but the leaders of the Second Imperium, fed up with Brakiss's failures, detonated the explosives aboard, and he was killed.
 — Source: scan pages 81–120; Brakiss. POV: Brakiss.
 Note (our notes, around the quote): Brakiss: "The station managed to escape to a new hiding place, but the leaders of the Second Imperium, fed up with Brakiss's failures, detonated the explosives aboard, and he was killed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.91
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.91 — full quote as printed](quotes/v1-p91-the-station-managed-to-escape-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:209`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -207,7 +187,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Finally the leaders of the Second Imperium, displeased with the progress of Brakiss, detonated the station and killed the Shadow Academy's leader.
 — Source: scan pages 121–160; Brakiss. POV: Brakiss.
 Note (our notes, around the quote): Brakiss: "Finally the leaders of the Second Imperium, displeased with the progress of Brakiss, detonated the station and killed the Shadow Academy's leader." Source: The Complete Star Wars Encyclopedia, Vol. III, p.142
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.142 — full quote as printed](quotes/v3-p142-finally-the-leaders-of-the-second.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:223`
 
 ## The New Essential Guide to Characters (2002)
@@ -219,29 +198,24 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-0
 > Brakiss sat out the campaign of the resurrected Emperor.
 — Source: scan pages 1–30; Brakiss. POV: Brakiss.
 Note (our notes, around the quote): Brakiss: "Brakiss sat out the campaign of the resurrected Emperor." Source: The New Essential Guide to Characters, p.31
-![Quote image: The New Essential Guide to Characters, p.31 — full quote as printed](quotes/negc-p31-brakiss-sat-out-the-campaign-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:175`
 
 > Brakiss became a neutral intermediary between these rival camps.
 — Source: scan pages 1–30; Brakiss — entry/section: Brakiss made his way to the Deep.
 Note (our notes, around the quote): Brakiss — entry/section: Brakiss made his way to the Deep: "Brakiss became a neutral intermediary between these rival camps." Source: The New Essential Guide to Characters, p.32
-![Quote image: The New Essential Guide to Characters, p.32 — full quote as printed](quotes/negc-p32-brakiss-became-a-neutral-intermediary-between.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:182`
 
 - Note (summary from our notes, not a quotation): Brakiss — entry/section: Brakiss made his way to the Deep: "Brakiss gave Zekk a lightsaber, and when Zekk proved his skill in a duel to the death against a fellow student, he became Brakiss's "Darkest Knight."" Source: The New Essential Guide to Characters, p.32
   — Source: scan pages 1–30.
-![Quote image: The New Essential Guide to Characters, p.32 — full quote as printed](quotes/negc-p32-brakiss-gave-zekk-a-lightsaber-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:184`
 
 - Note (summary from our notes, not a quotation): Brakiss — entry/section: Brakiss made his way to the Deep: "When the tide of battle turned against the Second Imperium, Brakiss cut down two of the false Royal Guards who were guarding the "Emperor," only to learn the truth behind their deception." Source: The New Essential Guide to Characters, p.32
   — Source: scan pages 1–30.
-![Quote image: The New Essential Guide to Characters, p.32 — full quote as printed](quotes/negc-p32-when-the-tide-of-battle-turned.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:186`
 
 > Enraged by how easily he'd been taken in, Brakiss killed another guardsman, but the final pretender escaped his fury and triggered the station's selfdestruct mechanism.
 — Source: scan pages 1–30; Brakiss — entry/section: Brakiss made his way to the Deep.
 Note (our notes, around the quote): Brakiss — entry/section: Brakiss made his way to the Deep: "Enraged by how easily he'd been taken in, Brakiss killed another guardsman, but the final pretender escaped his fury and triggered the station's selfdestruct mechanism." Source: The New Essential Guide to Characters, p.32
-![Quote image: The New Essential Guide to Characters, p.32 — full quote as printed](quotes/negc-p32-enraged-by-how-easily-hed-been.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:188`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -253,7 +227,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:3`
 > Dolph and the Imperial spy Brakiss, turned their backs on armed with nova-inducing resonance torpedoes Luke's training and set off to find their fortunes elsewhere. ang covered with impenetrable armor, the Sun Still others never came to Luke's school at all but studied the Crusher was invincible, and only when Han Solo Force on their own, giving the dark side easy targets. and Lando Calrissian sought him out to appeal to his better nature did he finally relent.
 — Source: Chapter Five: Dark Side Traditions (Sith Empire, Set Harth, prophets, Brakiss…); Brakiss; Luke Skywalker; Han Solo; Lando Calrissian.
 Note (our notes, around the quote): Brakiss; Luke Skywalker; Han Solo; Lando Calrissian: "Dolph and the Imperial spy Brakiss, turned their backs on armed with nova-inducing resonance torpedoes Luke's training and set off to find their fortunes elsewhere. ang covered with impenetrable armor, the Sun Still others never came to Luke's school at all but studied the Crusher was invincible, and only when Han Solo Force on their own, giving the dark side easy targets. and Lando Calrissian sought him out to appeal to his better nature did he finally relent." Source: Dark Side Sourcebook, p.104
-![Quote image: Dark Side Sourcebook, p.104 — full quote as printed](quotes/dss-p104-dolph-and-the-imperial-spy-brakiss.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:309`
 
 - Note (summary from our notes, not a quotation): Page contents: 820 words, 17 paragraphs | headings/entries: Brakiss; DARK SIDE TRADITIONS
@@ -263,7 +236,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:336`
 > Having always been a loyal Imperial subject, Brakiss swore loyalty to the Second Imperium immediately, and the Emperor commanded him to begin work on an academy equal to Skywalker's-but devoted to the dark side.
 — Source: Chapter Five: Dark Side Traditions (Sith Empire, Set Harth, prophets, Brakiss…); Brakiss — entry/section: Brakiss.
 Note (our notes, around the quote): Brakiss — entry/section: Brakiss: "Having always been a loyal Imperial subject, Brakiss swore loyalty to the Second Imperium immediately, and the Emperor commanded him to begin work on an academy equal to Skywalker's-but devoted to the dark side." Source: Dark Side Sourcebook, p.107
-![Quote image: Dark Side Sourcebook, p.107 — full quote as printed](quotes/dss-p107-having-always-been-a-loyal-imperial.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:346`
 
 > Brakiss learned his lesson from the experience: the Shadow Academy should concentrate its efforts on turning students who already had nothing to lose. Jacen and Jaina Solo had powerful reasons to resist the dark side-and their parents had the might of the New Republic to bring to their aidbut less privileged individuals could prove easier to sway. He was proved correct when Tamith Kai abducted a young Coruscant street urchin named Zekk who, while a friend of the Solo children, had none of their advantages. Zekk was turned far more easily, and even led assaults that put him into direct conflict with his former friends, though he refused to harm them. After one such mission during which the Jedi students thwarted Brakiss's plans, the Emperor grew impatient and declared that Brakiss must wipe out Luke Skywalker's new Jedi academy and end the interference of the Jedi once and for all. The Emperor himself came to the Shadow Academy to oversee the operation, remaining hidden in his isolation chambers throughout, protected by his crimsonclad Royal Guard. The assault was a disaster, with Tamith Kai's hovering battle platform being destroyed and Luke Skywalker himself defeating Brakiss in combat. Barely managing to escape, Brakiss fled back to the orbiting Shadow Academy, demanding to see the Emperor.
@@ -271,7 +243,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:346`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Brakiss; Luke Skywalker: "After one such mission during which the Jedi students thwarted Brakiss's plans, the Emperor grew impatient and declared that Brakiss must wipe out Luke Skywalker's new Jedi academy and end the interference of the Jedi once and for all." Source: Dark Side Sourcebook, p.108
-![Quote image: Dark Side Sourcebook, p.108 — full quote as printed](quotes/dss-p108-after-one-such-mission-during-which.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:353`
 
 > He was proved correct when Tamith Kai abducted a young Coruscant street urchin named Zekk who, while a friend of the Solo children, had none of their advantages. Zekk was turned far more easily, and even led assaults that put him into direct conflict with his former friends, though he refused to harm them. After one such mission during which the Jedi students thwarted Brakiss's plans, the Emperor grew impatient and declared that Brakiss must wipe out Luke Skywalker's new Jedi academy and end the interference of the Jedi once and for all. The Emperor himself came to the Shadow Academy to oversee the operation, remaining hidden in his isolation chambers throughout, protected by his crimsonclad Royal Guard. The assault was a disaster, with Tamith Kai's hovering battle platform being destroyed and Luke Skywalker himself defeating Brakiss in combat. Barely managing to escape, Brakiss fled back to the orbiting Shadow Academy, demanding to see the Emperor. After cutting his way through the Royal Guard, Brakiss was stunned to discover that the "Emperor" was nothing more than a holographic projection. Brakiss had been duped, and he died with the Shadow Academy when the remaining Royal Guard set off the explosives that were planted aboard the station.
@@ -279,7 +250,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:353`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Luke Skywalker; Brakiss: "The assault was a disaster, with Tamith Kai's hovering battle platform being destroyed and Luke Skywalker himself defeating Brakiss in combat." Source: Dark Side Sourcebook, p.108
-![Quote image: Dark Side Sourcebook, p.108 — full quote as printed](quotes/dss-p108-the-assault-was-a-disaster-with.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:355`
 
 ## *Star by Star* (Troy Denning, Del Rey 2001): FULL consecutive re-read (2026-11-16 CST)

@@ -14,25 +14,21 @@
 > The Consular—now the only Jedi in the galaxy who knows the secrets of this shielding technique—sets out on a dangerous adventure to seek out others afflicted by the plague and determine its cause.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar: "The Consular—now the only Jedi in the galaxy who knows the secrets of this shielding technique—sets out on a dangerous adventure to seek out others afflicted by the plague and determine its cause." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-the-consular-now-the-only-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:353`
 
 > After a long and difficult search, the Consular discovers that the plague was created long ago, by an ancient Sith who possesses terrifying power.
 — Source: The Jedi Order; Lord Vivicar — The Plague of Lord Vivicar.
 Note (our notes, around the quote): Lord Vivicar — The Plague of Lord Vivicar: "After a long and difficult search, the Consular discovers that the plague was created long ago, by an ancient Sith who possesses terrifying power." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-after-a-long-and-difficult-search.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:355`
 
 > Boarding Vivicar's flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague's original creator, the ancient Sith Lord Terrak Morrhage.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar: "Boarding Vivicar's flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague's original creator, the ancient Sith Lord Terrak Morrhage." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-boarding-vivicar-s-flagship-the-consular.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:357`
 
 > Millennia later, the Sith Lord Vivicar would awaken the spirit of Terrak Morrhage and unleash the ancient Sith's plague on the Jedi once more.
 — Source: The Sith; Terrak Morrhage; Lord Vivicar — Terrak Morrhage.
 Note (our notes, around the quote): Terrak Morrhage; Lord Vivicar — Terrak Morrhage: "Millennia later, the Sith Lord Vivicar would awaken the spirit of Terrak Morrhage and unleash the ancient Sith's plague on the Jedi once more." Source: The Old Republic Encyclopedia, p.155, sidebar
-![Quote image: The Old Republic Encyclopedia, p.155 — full quote as printed](quotes/tore-p155-millennia-later-the-sith-lord-vivicar.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:98`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

@@ -20,12 +20,10 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Shortly before the Battle of Derra IV, Colonel Veers's soldiers obliterated the fortified estate of Black Sun Lieutenant Zekka Thyne, greatly impressing Admiral Thrawn.
 — Source: scan pages 181–210; Grand Admiral Thrawn. POV: Grand Admiral Thrawn, about General Veers.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Shortly before the Battle of Derra IV, Colonel Veers's soldiers obliterated the fortified estate of Black Sun Lieutenant Zekka Thyne, greatly impressing Admiral Thrawn." Source: The New Essential Guide to Characters, p.191
-![Quote image: The New Essential Guide to Characters, p.191 — full quote as printed](quotes/negc-p191-shortly-before-the-battle-of-derra.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:27`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn; Darth Vader (Anakin Skywalker): "On Thrawn's recommendation, Darth Vader reassigned Veers to the Super Star Destroyer Executor to replace a general who had "retired" one month prior." Source: The New Essential Guide to Characters, p.191
   — Source: scan pages 181–210.
-![Quote image: The New Essential Guide to Characters, p.191 — full quote as printed](quotes/negc-p191-on-thrawns-recommendation-darth-vader-reassigned.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:29`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -97,7 +95,6 @@ Our notes: `notes/materials/038-star-wars-insider/031-ins031.md:372`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #49 (2000).
 Note (our notes, around the quote): hobbie; General Veers — entry/section: Star Wars Bookshelf (ESB novelization), printed p. 76: "the Rebel pilot Hobbie—a mainstay of Mike Stackpole's post-Return of the Jedi X-Wing books—dies in a kamikaze snowspeeder attack that takes out General Veers' AT-AT." Source: *Star Wars Insider #49* (2000), scan p.80
-![Quote image: *Star Wars Insider #49* (2000), scan p.80 — full quote as printed](quotes/ins049-s80-the-rebel-pilot-hobbie-a-mainstay.jpg)
 Our notes: `notes/materials/038-star-wars-insider/049-ins049.md:435`
 
 ## Star Wars Insider #59 (2002)
@@ -283,7 +280,6 @@ Our notes: `notes/materials/155-new-essential-guide-to-weapons-technology-2004/q
 > It's probably one of the few times the Empire was really successful in defeating the Rebels outright. General Veers must be the most highly decorated guy out there!
 — Source: Star Wars Insider #119 (2010); General Veers — entry/section: Filoni on the Echo Base attack.
 Note (our notes, around the quote): General Veers — entry/section: Filoni on the Echo Base attack: ""It's probably one of the few times the Empire was really successful in defeating the Rebels outright. General Veers must be the most highly decorated guy out there!" —Dave Filoni, Star Wars Insider 119, p. 24" Source: *Star Wars Insider #119* (2010), scan p.24
-![Quote image: *Star Wars Insider #119* (2010), scan p.24 — full quote as printed](quotes/ins119-s24-its-probably-one-of-the-few.jpg)
 Our notes: `notes/materials/038-star-wars-insider/119-ins119.md:127`
 
 # Debate and forum claims (unverified)

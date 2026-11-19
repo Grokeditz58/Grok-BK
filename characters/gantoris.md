@@ -208,13 +208,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:124`
 > Luke went to the volcanic planet Eol Sha, where he found a fiery-tempered leader named Gantoris. Next, he tracked down the cloud prospector Streen, living as a hermit in an abandoned floating city on Bespin.
 — Source: Part Eight: The Return of the Jedi Knights; Gantoris; Streen; Luke Skywalker — Gantoris and Streen. POV: speaker not named in our notes.
 Note (our notes, around the quote): Gantoris; Streen; Luke Skywalker — Gantoris and Streen: "Luke went to the volcanic planet Eol Sha, where he found a fiery-tempered leader named Gantoris. Next, he tracked down the cloud prospector Streen, living as a hermit in an abandoned floating city on Bespin." Source: The New Essential Chronology, p.162
-![Quote image: The New Essential Chronology, p.162 — full quote as printed](quotes/nec-p162-gantoris-and-streen.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:13`
 
 > Gantoris built his own lightsaber and challenged Master Skywalker to a duel. That night Gantoris was found burned to a crisp, consumed by a black fire within himself.
 — Source: Part Eight: The Return of the Jedi Knights; Gantoris; Luke Skywalker — Gantoris's death. POV: speaker not named in our notes.
 Note (our notes, around the quote): Gantoris; Luke Skywalker — Gantoris's death: "Gantoris built his own lightsaber and challenged Master Skywalker to a duel. That night Gantoris was found burned to a crisp, consumed by a black fire within himself." Source: The New Essential Chronology, p.164
-![Quote image: The New Essential Chronology, p.164 — full quote as printed](quotes/nec-p164-gantoriss-death.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:35`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -227,13 +225,11 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/00-front-matter-int
 
 - Note (summary from our notes, not a quotation): Luke Skywalker; Gantoris; Kyp Durron — The Dangers of Training Jedi — missed warning signs: "He misses the warning signs that Gantoris and Kyp, impatient with Luke's apparent reluctance to teach them the "true" Jedi secrets, are moving into dangerous orbits." Source: The Jedi Academy Sourcebook, p.32
   — Source: Chapter Three: The Jedi Academy.
-![Quote image: The Jedi Academy Sourcebook, p.32 — full quote as printed](quotes/jas-p32-the-dangers-of-training-jedi-missed.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:33`
 
 > On several occasions, he was able to sense impending groundquakes, and once miraculously survived an avalanche that killed all the other children in his play group.
 — Source: Chapter Three: The Jedi Academy; Gantoris — Gantoris — childhood.
 Note (our notes, around the quote): Gantoris — Gantoris — childhood: "On several occasions, he was able to sense impending groundquakes, and once miraculously survived an avalanche that killed all the other children in his play group." Source: The Jedi Academy Sourcebook, p.34
-![Quote image: The Jedi Academy Sourcebook, p.34 — full quote as printed](quotes/jas-p34-gantoris-childhood.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:63`
 
 > It is not easy for this hardened man to yield to the authority of Luke Skywalker, especially since he has long been haunted by a mysterious vision of a dark man who would promise him glory and then destroy him. How- ever, Luke successfully runs Gantoris’ gauntlet of challenges, and the colony leader agrees to come with Luke, despite the dangers his fledg- ling Force abilities have revealed to him.
@@ -247,7 +243,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Gantoris; Exar Kun; Luke Skywalker — Gantoris — Kun's tutelage: "The shade of Kun easily convinces Gantoris that Luke is withholding Jedi secrets from him, secrets which he tells Gantoris that he is ready to learn." Source: The Jedi Academy Sourcebook, p.35
-![Quote image: The Jedi Academy Sourcebook, p.35 — full quote as printed](quotes/jas-p35-gantoris-kuns-tutelage.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:70`
 
 > Unfortunately, he is unwilling to slow down and absorb what he has learned, and harbors a desire to press on into areas of knowl- edge he is not yet prepared to handle. His impa- tience, coupled with his fierce independent streak, leaves him vulnerable to the tempta- tions of Exar Kun.
@@ -265,7 +260,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Gantoris; Luke Skywalker — Gantoris — duel with Luke: "Ultimately, he grows bold enough in his new forbidden powers to challenge Luke to a duel. When Luke defeats him, he begins to suspect that he has taken the wrong path to achieve the goals he is seeking." Source: The Jedi Academy Sourcebook, p.35
-![Quote image: The Jedi Academy Sourcebook, p.35 — full quote as printed](quotes/jas-p35-gantoris-duel-with-luke.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:72`
 
 > Unfortunately, this revelation comes too late to Gantoris. Still priding himself in his indepen- dence and knowledge of the Jedi Code, he be- lieves he can face Exar Kun alone. However, Kun easily goads Gantoris into striking out at him with his passions, by taunting him with a vision of the Eol Sha colonists dying. In resisting Kun with his anger, Gantoris is burned to ashes, thus fulfilling his vision of being destroyed by a dark m@ Gantoris Type: Colony Leader DEXTERITY 3D Archaic guns 5D, blaster 4D+2, bows 4D+2, brawling parry 5D+2, dodge 6D, lightsaber 4D, melee combat 5D, melee parry 6D, missile weapons 5D+1, running 5D, thrown weapons 5D+1 KNOWLEDGE 4D Alien species 4D+2, cultures 4D+1, intimidation 5D, lan- guages 4D+1, survival 5D, survival: Eol Sha 7D+1, sur- vival: Yavin Four 4D+1, willpower 6D+2 MECHANICAL 2D Beast riding 5D PERCEPTION 3D Bargain 4D+2, command 5D, command: Eol Sha colony The Jedi Academy Sourcebook 7D+1, con 5D, hide 6D, persuasion 4D+2, search 6D, sneak 5D+2 STRENGTH 4D Brawling 6D+2, climbing/jumping 7D, lifting 5D, stamina 6D+2, swimming 5D TECHNICAL 2D Armor repair 4D, first ald 5D+1, lightsaber repair 4D Special Abilities:
@@ -276,7 +270,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Gantoris; Exar Kun — Gantoris — death: "However, Kun easily goads Gantoris into striking out at him with his passions, by taunting him with a vision of the Eol Sha colonists dying. In resisting Kun with his anger, Gantoris is burned to ashes," Source: The Jedi Academy Sourcebook, p.35
-![Quote image: The Jedi Academy Sourcebook, p.35 — full quote as printed](quotes/jas-p35-gantoris-death.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:74`
 
 > Still priding himself in his indepen- dence and knowledge of the Jedi Code, he be- lieves he can face Exar Kun alone. However, Kun easily goads Gantoris into striking out at him with his passions, by taunting him with a vision of the Eol Sha colonists dying. In resisting Kun with his anger, Gantoris is burned to ashes, thus fulfilling his vision of being destroyed by a dark m@ Gantoris Type: Colony Leader DEXTERITY 3D Archaic guns 5D, blaster 4D+2, bows 4D+2, brawling parry 5D+2, dodge 6D, lightsaber 4D, melee combat 5D, melee parry 6D, missile weapons 5D+1, running 5D, thrown weapons 5D+1 KNOWLEDGE 4D Alien species 4D+2, cultures 4D+1, intimidation 5D, lan- guages 4D+1, survival 5D, survival: Eol Sha 7D+1, sur- vival: Yavin Four 4D+1, willpower 6D+2 MECHANICAL 2D Beast riding 5D PERCEPTION 3D Bargain 4D+2, command 5D, command: Eol Sha colony The Jedi Academy Sourcebook 7D+1, con 5D, hide 6D, persuasion 4D+2, search 6D, sneak 5D+2 STRENGTH 4D Brawling 6D+2, climbing/jumping 7D, lifting 5D, stamina 6D+2, swimming 5D TECHNICAL 2D Armor repair 4D, first ald 5D+1, lightsaber repair 4D Special Abilities:
@@ -286,7 +279,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Gantoris; Exar Kun — Gantoris — stat block, Force skills (RPG mechanics) — RPG mechanics (weaker source): "Force Skills: Control 4D, sense 4D+1, alter 2D These are only some of the powers that Gantoris has demonstrated. His abilities were unnaturally augmented by Exar Kun." Source: The Jedi Academy Sourcebook, p.35, stat block
-![Quote image: The Jedi Academy Sourcebook, p.35 — full quote as printed](quotes/jas-p35-gantoris-stat-block-force-skills-rpg.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:76`
 
 > In resisting Kun with his anger, Gantoris is burned to ashes, thus fulfilling his vision of being destroyed by a dark m@ Gantoris Type: Colony Leader DEXTERITY 3D Archaic guns 5D, blaster 4D+2, bows 4D+2, brawling parry 5D+2, dodge 6D, lightsaber 4D, melee combat 5D, melee parry 6D, missile weapons 5D+1, running 5D, thrown weapons 5D+1 KNOWLEDGE 4D Alien species 4D+2, cultures 4D+1, intimidation 5D, lan- guages 4D+1, survival 5D, survival: Eol Sha 7D+1, sur- vival: Yavin Four 4D+1, willpower 6D+2 MECHANICAL 2D Beast riding 5D PERCEPTION 3D Bargain 4D+2, command 5D, command: Eol Sha colony The Jedi Academy Sourcebook 7D+1, con 5D, hide 6D, persuasion 4D+2, search 6D, sneak 5D+2 STRENGTH 4D Brawling 6D+2, climbing/jumping 7D, lifting 5D, stamina 6D+2, swimming 5D TECHNICAL 2D Armor repair 4D, first ald 5D+1, lightsaber repair 4D Special Abilities:
@@ -300,7 +292,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Gantoris — Gantoris — stat block, equipment (RPG mechanics) — RPG mechanics (weaker source): "Equipment: Knapsack, Jedi cloak, double-bladed lightsaber (6D), knife (STR+1D)" Source: The Jedi Academy Sourcebook, p.35, stat block
-![Quote image: The Jedi Academy Sourcebook, p.35 — full quote as printed](quotes/jas-p35-gantoris-stat-block-equipment-rpg-mechanics.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:78`
 
 > Kun, posing as Anakin Skywalker, appears to Luke and at- tempts to pull him toward the forbidden Sith teachings by tempting him to use Sith power to seize control of the New Republic and destroy the Empire. Realizing that this shade is not that of his father, Luke rejects the offer.
@@ -316,7 +307,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Exar Kun; Gantoris — The Return of Exar Kun — draining Gantoris: "Realizing that Gantoris is no longer his, Kun utterly drains him to provide himself a reserve of energy to last until he can subvert more students." Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-draining.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:30`
 
 > Gantoris is pushed too far, however, and turns on his Sith The Jedi Academy Sourcebook master. Realizing that Gantoris is no longer his, Kun utterly drains him to provide himself a reserve of energy to last until he can subvert more students.
@@ -330,13 +320,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron; Gantoris; Exar Kun — The Return of Exar Kun — Kyp the ideal subject: "Moreover, he is far more powerful than the Eol Sha leader, and young enough to be overconfident and naive." Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-kyp.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:32`
 
 > He boasts that he already owns Kyp and Streen, and destroyed Gantoris.
 — Source: Chapter Four: Echoes of the Sith.
 Note (our notes, around the quote): Exar Kun; Kyp Durron; Streen; Gantoris — The Return of Exar Kun — Kun's boast: "He boasts that he already owns Kyp and Streen, and destroyed Gantoris." Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-kuns.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:38`
 
 > Still not ready to take on Luke directly, Kun makes several attempts on Luke's body. Each attack is thwarted by the Jedi students and Leia.
@@ -353,13 +341,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Exar Kun; Kirana Ti; Streen; Vodo-Siosk Baas; Luke Skywalker — The Return of Exar Kun — the final blow: "Kirana Ti and Streen jointly deliver the final blow, using the lightsabers of Luke and Gantoris to destroy Exar" Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-the.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:42`
 
 > I'm very worried about having the twins here while whatever destroyed Gantoris and put Luke in a coma is still at large. Sometimes I can feel a sudden chill pass through me, as if something evil is watching me.
 — Source: Chapter Ten: Planets.
 Note (our notes, around the quote): Leia Organa Solo; Gantoris; Luke Skywalker; Exar Kun — Leia's datapad personal log (sidebar): "I'm very worried about having the twins here while whatever destroyed Gantoris and put Luke in a coma is still at large. Sometimes I can feel a sudden chill pass through me, as if something evil is watching me." Source: The Jedi Academy Sourcebook, p.107, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.107 — full quote as printed](quotes/jas-p107-leias-datapad-personal-log-sidebar.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:50`
 
 > Year by year the huge moon passes closer and closer to the doomed planet and within another hundred years the moon will crash into the planet, smashing both into rubble.
@@ -374,7 +360,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:50`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Luke Skywalker; Gantoris — Eol Sha — Luke's visit: "By the time Luke visits the settlement in search of a Jedi candidate, less than 40 colonists remain, lead by Gantoris," Source: The Jedi Academy Sourcebook, p.112
-![Quote image: The Jedi Academy Sourcebook, p.112 — full quote as printed](quotes/jas-p112-eol-sha-lukes-visit.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:87`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -386,7 +371,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Instead, Kun killed Gantoris, burning him from the inside out.
 — Source: scan pages 321–360; Gantoris — entry/section: Gantoris.
 Note (our notes, around the quote): Gantoris — entry/section: Gantoris: "Instead, Kun killed Gantoris, burning him from the inside out." Source: The Complete Star Wars Encyclopedia, Vol. I, p.321
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.321 — full quote as printed](quotes/v1-p321-instead-kun-killed-gantoris-burning-him.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:113`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -394,7 +378,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > The dark side spirit of Exar Kun managed to destroy Gantoris and seduce Kyp Durron, placing Master Skywalker into a coma in the process.
 — Source: Chapter One: History of the Jedi; Exar Kun; Gantoris; Kyp Durron.
 Note (our notes, around the quote): Exar Kun; Gantoris; Kyp Durron: "The dark side spirit of Exar Kun managed to destroy Gantoris and seduce Kyp Durron, placing Master Skywalker into a coma in the process." Source: Power of the Jedi Sourcebook, p.10
-![Quote image: Power of the Jedi Sourcebook, p.10 — full quote as printed](quotes/potj-p10-the-dark-side-spirit-of-exar.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:71`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -404,7 +387,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:7
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Gantoris: "Gantoris failed to defeat the Jedi Knight, however, and Kun was forced to punish him." Source: Dark Side Sourcebook, p.105
-![Quote image: Dark Side Sourcebook, p.105 — full quote as printed](quotes/dss-p105-gantoris-failed-to-defeat-the-jedi.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:318`
 
 ## https://starwars.fandom.com/wiki/Exar_Kun ; https://starwars.fandom.com/wiki/Exar_Kun/Legends

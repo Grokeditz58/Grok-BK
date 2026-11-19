@@ -1235,13 +1235,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1014`
 > Grievous nearly killed Gunray over the dispute; only Sidious's demand that the Trade Federation remain part of the Confederacy of Independent Systems kept him from killing the Viceroy.
 — Source: scan pages 81–120; General Grievous; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Palpatine (Darth Sidious): "Grievous nearly killed Gunray over the dispute; only Sidious's demand that the Trade Federation remain part of the Confederacy of Independent Systems kept him from killing the Viceroy." Source: The Complete Star Wars Encyclopedia, Vol. II, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.110 — full quote as printed](quotes/v2-p110-grievous-nearly-killed-gunray-over-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:233`
 
 > OWO-1I One of the command battle droids sent by Nute Gunray to check to see if Qui-Gon Jinn and Obi-Wan Kenobi had been killed by poison gas aboard the Trade Federation flagship in charge of the blockade of Naboo.
 — Source: scan pages 401–440; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "OWO-1I One of the command battle droids sent by Nute Gunray to check to see if Qui-Gon Jinn and Obi-Wan Kenobi had been killed by poison gas aboard the Trade Federation flagship in charge of the blockade of Naboo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.433
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.433 — full quote as printed](quotes/v2-p433-owo-1i-one-of-the-command.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:286`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -1249,7 +1247,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Nute Gunray, the Viceroy of the Trade Federation, survived imprisonment and maintained control, throwing his support behind Count Dooku and the Separatists.
 — Source: scan pages 241–280; Count Dooku. POV: Count Dooku, about Nute Gunray.
 Note (our notes, around the quote): Count Dooku: "Nute Gunray, the Viceroy of the Trade Federation, survived imprisonment and maintained control, throwing his support behind Count Dooku and the Separatists." Source: The Complete Star Wars Encyclopedia, Vol. III, p.258
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.258 — full quote as printed](quotes/v3-p258-nute-gunray-the-viceroy-of-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:211`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -1257,7 +1254,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Young Neimoidians are kept in communal hives and given limited amounts of food. The more acquisitive ones hoard more than they can eat; the others die of starvation. Thus, only those who are excessively greedy and/or fearful of death can survive to adulthood.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Nute Gunray — entry/section: Neimoidian selective breeding.
 Note (our notes, around the quote): Nute Gunray — entry/section: Neimoidian selective breeding: "Young Neimoidians are kept in communal hives and given limited amounts of food. The more acquisitive ones hoard more than they can eat; the others die of starvation. Thus, only those who are excessively greedy and/or fearful of death can survive to adulthood." Source: *Secrets Of Naboo* (SWRPG d20), scan p.15
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.15 — full quote as printed](quotes/d044-s15-young-neimoidians-are-kept-in-communal.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:84`
 
 - Note (summary from our notes, not a quotation): Page contents: Gunray 'a hands-on leader who personally conducts all negotiations' and 'readily accepts responsibility for both the successes and the failures' (hand-read)
@@ -1267,7 +1263,6 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.
 > Rune Haako has served as diplomatic attaché and legal council on several of Viceroy Gunray's missions, and his cunning and intelligence are legendary. Though he always maintains a low profile, Republic Intelligence credits Haako with masterminding many of the Trade Federation's more abusive commercial agreements.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Rune Haako; Nute Gunray — entry/section: Rune Haako.
 Note (our notes, around the quote): Rune Haako; Nute Gunray — entry/section: Rune Haako: "Rune Haako has served as diplomatic attaché and legal council on several of Viceroy Gunray's missions, and his cunning and intelligence are legendary. Though he always maintains a low profile, Republic Intelligence credits Haako with masterminding many of the Trade Federation's more abusive commercial agreements." Source: *Secrets Of Naboo* (SWRPG d20), scan p.17
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.17 — full quote as printed](quotes/d044-s17-rune-haako-has-served-as-diplomatic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:101`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–98)
@@ -1275,19 +1270,16 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.
 > The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi-Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Padmé Amidala; Nute Gunray — entry/section: Peril on Naboo: the events of the movie: "The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi-Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender." Source: *Secrets Of Naboo* (SWRPG d20), scan p.62
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.62 — full quote as printed](quotes/d044-s62-the-important-events-in-the-movie.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:17`
 
 > Of course, certain things happen during the course of this adventure that could affect future events in the Star Wars universe, The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi- Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker): "Of course, certain things happen during the course of this adventure that could affect future events in the Star Wars universe, The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi- Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender." Source: *Secrets Of Naboo* (SWRPG d20), scan p.62
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.62 — full quote as printed](quotes/d044-s62-of-course-certain-things-happen-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:19`
 
 > Fortunately, the Neimoidians ostensibly don't want to conquer Naboo; they simply want a raft of trade concessions that unfairly favor the Trade Federation. (At least, that's their story, and they need to keep up appearances—no one must know that they are allied with the Sith.)
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Nute Gunray; Palpatine (Darth Sidious) — entry/section: Captured by the Trade Federation: "Fortunately, the Neimoidians ostensibly don't want to conquer Naboo; they simply want a raft of trade concessions that unfairly favor the Trade Federation. (At least, that's their story, and they need to keep up appearances—no one must know that they are allied with the Sith.)" Source: *Secrets Of Naboo* (SWRPG d20), scan p.69
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.69 — full quote as printed](quotes/d044-s69-fortunately-the-neimoidians-ostensibly-dont-want.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:56`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–112)
@@ -1302,7 +1294,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-11
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20,; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Palpatine (Darth Sidious): "The Viceroy got an education in true power when he joined forces with Darth Sidious to blockade the planet of Naboo Gunray had assumed that the Sith was interested in the same thing he was-—cred its, The blockade became an invasion, then an occupation, the Jedi intervened, then another Sith appeared ... and the Viceroy realized he was a pawn of someone far more powerful." Source: *Star Wars Gamer 10* (SWRPG d20), scan p.40
-![Quote image: *Star Wars Gamer 10* (SWRPG d20), scan p.40 — full quote as printed](quotes/d059-s40-the-viceroy-got-an-education-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-060.md:260`
 
 ## Characters/Hutts/Borvo and Boonda.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1318,7 +1309,6 @@ Our notes: `notes/materials/037-sw-d20-folder/085-borvo-and-boonda.md:10`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 90 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_90_pdf_f941e32fa1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 90 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_90_pdf_f941e32fa1`).)
 Note (our notes, around the quote): Nute Gunray — entry/section: Dropping Nute Gunray into a pit with Lift: "Q: Could an ASP-7 use Lift to drop an ally into a pit? I know you'd rarely have a reason to do so, but I can imagine situations in which you might want to get rid of a character (perhaps one with an undesirable commander effect, such as Nute Gunray)." Source: *Jedi Counseling 90* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 90* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d261-s3-q-could-an-asp-7-use.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/261-jedi-counseling-90.md:36`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -1336,7 +1326,6 @@ Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:
 > This particular ship, the Invisible Hand, was originally commissioned as a flagship for Nute Gunray and his advisors. But Darth Sidious forced him to give the ship to General Grievous when the cyborg general took command of the Separatist forces.
 — Source: Vehicles/Miniatures/Starship Battles Preview 5.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Nute Gunray; Palpatine (Darth Sidious); General Grievous — entry/section: The Invisible Hand: "This particular ship, the Invisible Hand, was originally commissioned as a flagship for Nute Gunray and his advisors. But Darth Sidious forced him to give the ship to General Grievous when the cyborg general took command of the Separatist forces." Source: *Starship Battles Preview 5* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Starship Battles Preview 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d696-s2-this-particular-ship-the-invisible-hand.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:17`
 
 ## Sourcebooks/Scavenger's Guide to Droids.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)
@@ -1398,7 +1387,6 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:192`
 > You're just one of those cogs in a very mighty machine, and it doesn't always make sense at the time. You have to trust George.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi; Nute Gunray — entry/section: Silas Carson pull quote (verified on crop): ""You're just one of those cogs in a very mighty machine, and it doesn't always make sense at the time. You have to trust George." —Silas Carson, Star Wars Insider 55, p. 37" Source: *Star Wars Insider #55* (2001), scan p.27
-![Quote image: *Star Wars Insider #55* (2001), scan p.27 — full quote as printed](quotes/ins055-s27-youre-just-one-of-those-cogs.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:194`
 
 - Note (summary from our notes, not a quotation): Page contents: Carson Q&A: fight scenes in thick wool costumes and latex, opponents painted in later; lightsaber work with Nick Gillard; playing Ki-Adi as a warrior; no days playing both roles this time. Captions: Carson as Republic Cruiser pilot destroyed by Nute; Carson breathing through a tube between shots; transformation into Viceroy Nute Gunray. Q below. (hand-read)
@@ -1408,7 +1396,6 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:199`
 > Nute is a completely different character altogether, but he makes me laugh because he's such a coward. He's one of those guys that's always cowering in the background and making a lot of noise, acting up as though he is very big and strong and brave. But he is quite the opposite, and I adore him for that, because there is something dreadfully vulnerable about him.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Nute Gunray — entry/section: Silas Carson on Nute Gunray (verified on crop): ""Nute is a completely different character altogether, but he makes me laugh because he's such a coward. He's one of those guys that's always cowering in the background and making a lot of noise, acting up as though he is very big and strong and brave. But he is quite the opposite, and I adore him for that, because there is something dreadfully vulnerable about him." —Silas Carson, Star Wars Insider 55, p. 39" Source: *Star Wars Insider #55* (2001), scan p.29
-![Quote image: *Star Wars Insider #55* (2001), scan p.29 — full quote as printed](quotes/ins055-s29-nute-is-a-completely-different-character.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:212`
 
 ## Star Wars Insider #56 (2001)
@@ -1438,7 +1425,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:581`
 > Underneath that extra-large cranium is Silas Carson, Star Wars' Man With a Thousand Faces. In Episode I, Carson played no fewer than four roles: Ki-Adi-Mundi, Nute Gunray, Lott Dod, and the pilot of the Naboo Royal Cruiser destroyed at the beginning of the movie—your lone chance to see Carson without a heavy mask or extensive makeup.
 — Source: Star Wars Insider #62 (2002).
 Note (our notes, around the quote): Ki-Adi-Mundi; Nute Gunray — entry/section: Who's Who: Silas Carson's four Episode I roles: "Underneath that extra-large cranium is Silas Carson, Star Wars' Man With a Thousand Faces. In Episode I, Carson played no fewer than four roles: Ki-Adi-Mundi, Nute Gunray, Lott Dod, and the pilot of the Naboo Royal Cruiser destroyed at the beginning of the movie—your lone chance to see Carson without a heavy mask or extensive makeup." Source: *Star Wars Insider #62* (2002), scan p.23
-![Quote image: *Star Wars Insider #62* (2002), scan p.23 — full quote as printed](quotes/ins062-s23-underneath-that-extra-large-cranium-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:147`
 
 ## Star Wars Insider #71 (2003)
@@ -1450,7 +1436,6 @@ Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:307`
 > The filthy lies of the enemy describe us as cowards. We will show our ferocity as they suffer. Our heartless droids are unstoppable. Imagine how tenacious we are when guarding our soil and riches.
 — Source: Star Wars Insider #71 (2003); Nute Gunray — entry/section: HoloNet News: Gunray's address to Neimoidia.
 Note (our notes, around the quote): Nute Gunray — entry/section: HoloNet News: Gunray's address to Neimoidia: ""The filthy lies of the enemy describe us as cowards. We will show our ferocity as they suffer. Our heartless droids are unstoppable. Imagine how tenacious we are when guarding our soil and riches." —Nute Gunray, Star Wars Insider 71, p. 58" Source: *Star Wars Insider #71* (2003), scan p.58
-![Quote image: *Star Wars Insider #71* (2003), scan p.58 — full quote as printed](quotes/ins071-s58-the-filthy-lies-of-the-enemy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:309`
 
 ## Star Wars Insider #73 (2004)
@@ -1471,7 +1456,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:525`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Nute Gunray — entry/section: Silas Carson on the Neimoidian masks: ""Now, they've changed the motoring, so ["the masks"] have even more facial expressions. The second time around, they actually computerized the movement of the mouth and then I prerecorded [my lines], and the mouth moved depending on what I already recorded. So the lip-synching was already done for us." —Silas Carson, actor/Nute Gunray, Ki-Adi-Mundi, Star Wars Insider 82, p. 81" Source: *Star Wars Insider #82* (2005), scan p.81
-![Quote image: *Star Wars Insider #82* (2005), scan p.81 — full quote as printed](quotes/ins082-s81-now-theyve-changed-the-motoring-so.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:527`
 
 ## Star Wars Insider #83 (2005)
@@ -1487,7 +1471,6 @@ Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:326`
 > He's kind of like the uncle you always wanted: he's very human, very warm. On the other hand there's Nute, who is just this cowardly, nasty piece of work—a real parasite. Being able to play both of them was great fun.
 — Source: Star Wars Insider #83 (2005).
 Note (our notes, around the quote): Nute Gunray; Ki-Adi-Mundi — entry/section: Silas Carson on his two roles: ""He's kind of like the uncle you always wanted: he's very human, very warm. On the other hand there's Nute, who is just this cowardly, nasty piece of work—a real parasite. Being able to play both of them was great fun." —Silas Carson, Star Wars Insider 83, p. 52" Source: *Star Wars Insider #83* (2005), scan p.52
-![Quote image: *Star Wars Insider #83* (2005), scan p.52 — full quote as printed](quotes/ins083-s52-hes-kind-of-like-the-uncle.jpg)
 Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:338`
 
 ## Star Wars Insider #84 (2005)

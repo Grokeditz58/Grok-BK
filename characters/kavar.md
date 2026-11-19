@@ -212,13 +212,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > After Vaklu was defeated, Kavar chose to teach the Exile new lightsaber combat techniques before setting out for Dantooine to rebuild the Jedi Order.
 — Source: scan pages 201–240; Kavar; Meetra Surik — entry/section: Kavar.
 Note (our notes, around the quote): Kavar; Meetra Surik — entry/section: Kavar: "After Vaklu was defeated, Kavar chose to teach the Exile new lightsaber combat techniques before setting out for Dantooine to rebuild the Jedi Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.204 — full quote as printed](quotes/v2-p204-after-vaklu-was-defeated-kavar-chose.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:93`
 
 > Master Kavar was among the many Jedi killed when Darth Traya attacked and destroyed the Jedi enclave on Dantooine.
 — Source: scan pages 201–240; Kavar; Kreia — entry/section: Kavar.
 Note (our notes, around the quote): Kavar; Kreia — entry/section: Kavar: "Master Kavar was among the many Jedi killed when Darth Traya attacked and destroyed the Jedi enclave on Dantooine." Source: The Complete Star Wars Encyclopedia, Vol. II, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.204 — full quote as printed](quotes/v2-p204-master-kavar-was-among-the-many.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:95`
 
 ## Star Wars Insider #126 (2011)

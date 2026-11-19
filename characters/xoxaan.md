@@ -18,7 +18,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > Hett killed the bounty hunter, but the act awakened the spirit of XoXaan.
 — Source: scan pages 321–360; XoXaan — entry/section: XoXaan.
 Note (our notes, around the quote): XoXaan — entry/section: XoXaan: "Hett killed the bounty hunter, but the act awakened the spirit of XoXaan." Source: The Complete Star Wars Encyclopedia, Vol. III, p.343
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.343 — full quote as printed](quotes/v3-p343-hett-killed-the-bounty-hunter-but.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:240`
 
 ## Star Wars: Legacy (Dark Horse, 2006–2010) single issues #20–#50, hand-read
@@ -36,12 +35,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:37`
 > THAT WHICH CAN HEAL CAN ALSO BREAK. *(p416)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): #18: Krayt in the Embrace of Pain tells the rest of his history: XoXaan, the Vong, Vergere, the escape, Caedus and stasis (p399–408). Talon ambushes Cade (p411). Krayt orders Cade to kill Hosk, then kills Hosk himself (p412–415). Kol's ghost appears: "THAT WHICH CAN HEAL CAN ALSO BREAK." (p416). Cade's Force burst makes the Sith recoil; he strikes Talon (p417–418).
-![p411](009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
-![p412](009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
-![p413](009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
-![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
-![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
-![p416](009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
+![p411](../notes/materials/009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
+![p412](../notes/materials/009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
+![p413](../notes/materials/009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
+![p414 Krayt runs Hosk through](../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+![p415](../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+![p416](../notes/materials/009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:77`
 
 > (p392, Talon narrating) "USING THE FORCE, MY MASTER SHATTERED THE BARRIER" · XoXaan: "I AM XOXAAN. I WAS ONE OF THE FIRST OF THE SITH LORDS…" "MY BRETHREN AND I INVENTED WHAT IT MEANS TO BE A SITH." · (p399) Krayt: "WHEN I EMERGED FROM THE TOMBS, I DISCOVERED I HAD BEEN ON KORRIBAN LONGER THAN I THOUGHT. I LEARNED THAT VADER AND PALPATINE WERE BOTH GONE AND THAT YOUR ANCESTOR WAS THE INSTRUMENT." · (p401) "THE FORCE WAS TELLING ME NOTHING OF MY ATTACKERS." · (p402) Vergere: "THE FORCE ABILITIES YOU MANIFESTED INTRIGUED THEM SO THEIR SHAPERS IMPLANTED YOU WITH CORAL SEEDS AS AN EXPERIMENT." · (p403) "MY BODY WAS ENHANCED, THE BETTER TO WITHSTAND THE STRAINS PUT UPON IT. MY LEFT EYE WAS REPLACED WITH THE EYE OF A VONG CREATURE." · "SHE CLAIMED TO HAVE BEEN TRAINED AS A SITH BY THE EMPEROR -- DARTH SIDIOUS -- HIMSELF." · "VERGERE TAUGHT ME TO USE THE AGONY OF THE EMBRACE OF PAIN TO OPEN MYSELF TO THE DARK SIDE." · (p404) "MY SITH WILL BE MANY BUT THEY WILL BE ONE." · "BANE CHANGED THE RULES AND CHANGED THE SITH -- NOW I WILL CHANGE THEM AGAIN." · (p405) "IT WAS NECESSARY FOR THE VONG TO BELIEVE I WAS DEAD, SO THE ENTIRE SHIP AND ALL ON IT NEEDED TO DIE." · (p406) "I SHOULD NOT HAVE SURVIVED WHAT THE VONG DID TO ME -- YET I ENDURED. I NEEDED LONG YEARS OF STASIS TO ALLOW MY BODY TO HEAL, BUT MY MIND REMAINED OPEN TO MY CLOSEST DISCIPLES." · "CAEDUS -- ANOTHER SKYWALKER GONE TO THE DARK SIDE -- SERVED OUR PLANS HOWEVER UNWITTINGLY."
@@ -50,7 +49,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:77`
 Context: 18. Embrace of Pain origin; XoXaan; Vergere; Vong body. p392 (#17 Claws), p399 (#18 Claws)–p406 (#18 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:259`
 
-- Note (summary from our notes, not a quotation): ![p392 XoXaan](009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
+- Note (summary from our notes, not a quotation): ![p392 XoXaan](../notes/materials/009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p392 XoXaan — `p392-xoxaan-first-sith-lords.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:262`
@@ -72,9 +71,9 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:33`
 
 - Note (summary from our notes, not a quotation): Ghosts and voices (framing): Kol Skywalker's Force ghost (p115–116); Hosk's voice after death (p114); XoXaan's spirit (p91).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p116 the burst; four Sith recoil](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:34`
 
 > USING THE FORCE, MY MASTER SHATTERED THE BARRIER TO FIND...
@@ -88,7 +87,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:34`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Breaks into XoXaan's tomb with the Force; becomes her apprentice. p91 (#17) [009 p392]: "USING THE FORCE, MY MASTER SHATTERED THE BARRIER TO FIND..." · XoXaan: "I WAS ONE OF THE FIRST OF THE SITH LORDS; ONE OF THOSE WHO ABANDONED THE JEDI ORDER TO SEEK A DARKER PATH TO TRUTH." · "MY BRETHREN AND I INVENTED WHAT IT MEANS TO BE A SITH." · Hett: "MASTER... I AM." · (p98, Krayt) "WHEN I EMERGED FROM THE TOMBS, I DISCOVERED I HAD BEEN ON KORRIBAN LONGER THAN I THOUGHT. I LEARNED THAT VADER AND PALPATINE WERE BOTH GONE". The barrier is a doorway-sized seal (one panel).
-![p91 Hett shatters the barrier; XoXaan](013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
+![p91 Hett shatters the barrier; XoXaan](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:192`
 
 > MASTER VERGERE WAS ONCE A JEDI WHO HAD VANISHED BEFORE THE CLONE WARS
@@ -105,23 +104,23 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:192`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Vergere (p101–103, Krayt's narration). POV: Vergere, about XoXaan.
 Note (our notes, around the quote): Vergere (p101–103, Krayt's narration): "MASTER VERGERE WAS ONCE A JEDI WHO HAD VANISHED BEFORE THE CLONE WARS". · "SHE CLAIMED TO HAVE BEEN TRAINED AS A SITH BY THE EMPEROR -- DARTH SIDIOUS -- HIMSELF." · "VERGERE TAUGHT ME TO USE THE AGONY OF THE EMBRACE OF PAIN TO OPEN MYSELF TO THE DARK SIDE." · (p104) "VERGERE, TUCKED AWAY SMALL AND UNNOTICED IN THE FORCE ON ANOTHER VONG SHIP". · (p105) "...SHE SIDED WITH VERGERE AND HER CREATION, DARTH CADEUS."
-![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
-![p103 Hett and Vergere on the Rule of Two](013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
-![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
-![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+![p102 "MY BODY WAS ENHANCED"; the vision](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+![p103 Hett and Vergere on the Rule of Two](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
+![p104 Hett's lightning; the Vong scout ship explodes](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:442`
 
 - Note (summary from our notes, not a quotation): XoXaan (p89, p91): Talon calls her Krayt's "FIRST AND GREATEST TEACHER"; she calls herself "ONE OF THE FIRST OF THE SITH LORDS".
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p89 Hett becomes a bounty hunter; vs Resk](013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
-![p91 Hett shatters the barrier; XoXaan](013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
+![p89 Hett becomes a bounty hunter; vs Resk](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
+![p91 Hett shatters the barrier; XoXaan](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:443`
 
 > CLAIMED TO HAVE BEEN TRAINED AS A SITH BY THE EMPEROR *(p102)*
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels. POV: Talon, about XoXaan.
 Note (our notes, around the quote): Lineage: XoXaan, "ONE OF THE FIRST OF THE SITH LORDS" (p91), "HIS FIRST AND GREATEST TEACHER" (Talon, p89); Vergere "CLAIMED TO HAVE BEEN TRAINED AS A SITH BY THE EMPEROR" (p102).
-![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+![p102 "MY BODY WAS ENHANCED"; the vision](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:517`
 
 - Note (summary from our notes, not a quotation): Use: "MY BODY WAS ENHANCED" (p102), Vong eye, Embrace-opened dark side (p102), lightning escape (p104), Sith training under XoXaan (p91). That supports scaling "Vong Krayt" well above the Hett who lost to Kenobi.

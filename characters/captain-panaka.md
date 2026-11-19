@@ -26,14 +26,12 @@ Our notes: `notes/materials/037-sw-d20-folder/042-invasion-of-theed-scan-061-120
 > The Queen of the Naboo does not hesitate to put herself at risk for her beliefs if the situation demands it. Despite the fact that every one of her handmaidens doubles as a bodyguard, Amidala prefers to rely on her own abilities in a crisis. Thanks to extensive martial instruction from Captain Panaka, Amidala can also perform sneak attacks.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Padmé Amidala — entry/section: Queen Amidala (GM notes).
 Note (our notes, around the quote): Padmé Amidala — entry/section: Queen Amidala (GM notes): "The Queen of the Naboo does not hesitate to put herself at risk for her beliefs if the situation demands it. Despite the fact that every one of her handmaidens doubles as a bodyguard, Amidala prefers to rely on her own abilities in a crisis. Thanks to extensive martial instruction from Captain Panaka, Amidala can also perform sneak attacks." Source: *Secrets Of Naboo* (SWRPG d20), scan p.31
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.31 — full quote as printed](quotes/d044-s31-the-queen-of-the-naboo-does.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:179`
 
 > the quickest eyes on Naboo,
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Captain Panaka — entry/section: The Head of Security: "The current Head of Security is Captain Panaka. Known in some circles as "the quickest eyes on Naboo," he is famous for his uncanny accuracy with a blaster pistol." Source: *Secrets Of Naboo* (SWRPG d20), scan p.35
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.35 — full quote as printed](quotes/d044-s35-the-current-head-of-security-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:207`
 
 - Note (summary from our notes, not a quotation): Page contents: Panaka made the S-5 ascension gun standard and created the Royal Pistol (hand-read)
@@ -160,7 +158,6 @@ Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:89`
 > I figured the tougher I was, the tougher it would make the Jedi seem to be. Obviously nobody out-toughed the Jedi, but Captain Panaka was going to give them a run for their money!
 — Source: Star Wars Insider #109 (2009); Captain Panaka — entry/section: Quarshie on Panaka's toughness.
 Note (our notes, around the quote): Captain Panaka — entry/section: Quarshie on Panaka's toughness: ""I figured the tougher I was, the tougher it would make the Jedi seem to be. Obviously nobody out-toughed the Jedi, but Captain Panaka was going to give them a run for their money!" —Hugh Quarshie, Star Wars Insider 109, p. 16" Source: *Star Wars Insider #109* (2009), scan p.16
-![Quote image: *Star Wars Insider #109* (2009), scan p.16 — full quote as printed](quotes/ins109-s16-i-figured-the-tougher-i-was.jpg)
 Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:91`
 
 - Note (summary from our notes, not a quotation): Page contents: Visual guide: Whippendell Wood swamp exteriors, Boss Nass' Ankura heritage, kaadu origin, Security S-5 blaster developed by Captain Panaka, Nick Gillard's hybrid saber style, ~300 stunt blades. (hand-read)

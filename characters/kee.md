@@ -14,7 +14,6 @@
 > NO ONE WANTS TO SEE AN UNHAPPY WOOKIEE.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kee (smuggler); Chak (Wookiee bounty hunter) — entry/section: Pull quote.
 Note (our notes, around the quote): Kee (smuggler); Chak (Wookiee bounty hunter) — entry/section: Pull quote: ""NO ONE WANTS TO SEE AN UNHAPPY WOOKIEE." —KEE" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.214
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.214 — full quote as printed](quotes/d719-s214-no-one-wants-to-see-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:313`
 
 # Debate and forum claims (unverified)

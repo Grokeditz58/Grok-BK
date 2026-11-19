@@ -14,91 +14,76 @@
 > In a historic move, Force-sensitive slaves are being dragged from labor camps and thrust into the Sith Academy—where they will prove their worth as Sith or die trying.
 — Source: The Sith Empire.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Emperor's Wrath (Sith Warrior) — Slavery (top-right): "In a historic move, Force-sensitive slaves are being dragged from labor camps and thrust into the Sith Academy—where they will prove their worth as Sith or die trying." Source: The Old Republic Encyclopedia, p.113, sidebar
-![Quote image: The Old Republic Encyclopedia, p.113 — full quote as printed](quotes/tore-p113-in-a-historic-move-force-sensitive.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:60`
 
 > Kallig was born into wealth, but his innate Force-sensitivity made him hunger for greatness. He trained to be a Sith on Korriban, and quickly surpassed the other students in lightsaber training and strategy. But still Kallig desired more.
 — Source: The Sith; Aloysius Kallig; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right).
 Note (our notes, around the quote): Aloysius Kallig; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right): "Kallig was born into wealth, but his innate Force-sensitivity made him hunger for greatness. He trained to be a Sith on Korriban, and quickly surpassed the other students in lightsaber training and strategy. But still Kallig desired more." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-kallig-was-born-into-wealth-but.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:77`
 
 > In an attack planned by Tulak Hord, Kallig was ambushed and killed. As Kallig's family fled into hiding, Kallig was entombed on Dromund Kaas. His spirit lay trapped within the Dark Temple for millennia until his distant descendant, a powerful Sith inquisitor, awakened him from his eternal slumber.
 — Source: The Sith.
 Note (our notes, around the quote): Aloysius Kallig; Tulak Hord; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right): "In an attack planned by Tulak Hord, Kallig was ambushed and killed. As Kallig's family fled into hiding, Kallig was entombed on Dromund Kaas. His spirit lay trapped within the Dark Temple for millennia until his distant descendant, a powerful Sith inquisitor, awakened him from his eternal slumber." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-in-an-attack-planned-by-tulak.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:81`
 
 > When Lord Zash personally demanded that Harkun present her with a suitable apprentice, he personally groomed a pureblood named Ffon for the role. Harkun watched in horror when a powerful slave acolyte surpassed Ffon to become Lord Zash's apprentice.
 — Source: The Sith; Darth Zash; Darth Nox (Sith Inquisitor) — Overseer Harkun.
 Note (our notes, around the quote): Darth Zash; Darth Nox (Sith Inquisitor) — Overseer Harkun: "When Lord Zash personally demanded that Harkun present her with a suitable apprentice, he personally groomed a pureblood named Ffon for the role. Harkun watched in horror when a powerful slave acolyte surpassed Ffon to become Lord Zash's apprentice." Source: The Old Republic Encyclopedia, p.164
-![Quote image: The Old Republic Encyclopedia, p.164 — full quote as printed](quotes/tore-p164-when-lord-zash-personally-demanded-that.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:233`
 
 > But his plans are momentarily disrupted when his underling, Darth Skotia, is killed by the upstart Sith Lord Zash and her powerful new apprentice.
 — Source: The Sith; Darth Thanaton; Darth Zash; Darth Nox (Sith Inquisitor) — Darth Thanaton.
 Note (our notes, around the quote): Darth Thanaton; Darth Zash; Darth Nox (Sith Inquisitor) — Darth Thanaton: "But his plans are momentarily disrupted when his underling, Darth Skotia, is killed by the upstart Sith Lord Zash and her powerful new apprentice." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-but-his-plans-are-momentarily-disrupted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:363`
 
 > From the chains of servitude, a slave defies convention, embraces the dark side, and seizes power to ascend to prominence as a Sith inquisitor.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor) — Top-right tagline: Ascension to Power tagline: "From the chains of servitude, a slave defies convention, embraces the dark side, and seizes power to ascend to prominence as a Sith inquisitor." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-from-the-chains-of-servitude-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:483`
 
 > But one slave displays incredible cunning and a fearsome talent for the dark side. Begrudgingly instructed by Overseer Harkun, the slave acolyte conquers the trials, dominates a Dashade assassin named Khem Val into servitude, and overwhelms the other students, including a Sith pureblood groomed for success.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Khem Val — Ascension to Power intro.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Khem Val — Ascension to Power intro: "But one slave displays incredible cunning and a fearsome talent for the dark side. Begrudgingly instructed by Overseer Harkun, the slave acolyte conquers the trials, dominates a Dashade assassin named Khem Val into servitude, and overwhelms the other students, including a Sith pureblood groomed for success." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-but-one-slave-displays-incredible-cunning.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:485`
 
 > At Zash's bidding, the inquisitor sabotages and ultimately destroys the cyborg Darth Skotia, thus paving the way for Zash to take his place and become a Darth. Zash graces her apprentice with power and sets the Sith inquisitor on a new mission: the recovery of artifacts once belonging to the ancient Sith Tulak Hord. With these artifacts, Darth Zash will complete a ritual to bestow considerable power on Zash and her apprentice.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Zash; Tulak Hord — Scion of Kallig: "At Zash's bidding, the inquisitor sabotages and ultimately destroys the cyborg Darth Skotia, thus paving the way for Zash to take his place and become a Darth. Zash graces her apprentice with power and sets the Sith inquisitor on a new mission: the recovery of artifacts once belonging to the ancient Sith Tulak Hord. With these artifacts, Darth Zash will complete a ritual to bestow considerable power on Zash and her apprentice." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-at-zash-s-bidding-the-inquisitor.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:487`
 
 > Early in the hunt, the inquisitor awakens the Force spirit of Aloysius Kallig, an ancient apparition who died millennia ago. Kallig reaches out to the inquisitor and reveals that they share a bloodline—the inquisitor is the heir to Kallig's ruined legacy. Kallig pledges to help the Sith inquisitor restore honor to their bloodline.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Aloysius Kallig — Scion of Kallig.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Aloysius Kallig — Scion of Kallig: "Early in the hunt, the inquisitor awakens the Force spirit of Aloysius Kallig, an ancient apparition who died millennia ago. Kallig reaches out to the inquisitor and reveals that they share a bloodline—the inquisitor is the heir to Kallig's ruined legacy. Kallig pledges to help the Sith inquisitor restore honor to their bloodline." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-early-in-the-hunt-the-inquisitor.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:489`
 
 > Zash welcomes her apprentice and reveals her terrible secret: Zash's youthful appearance is only an illusion—in fact, the Sith Lord is ancient, and her body disfigured by the dark side. Zash now plots to achieve eternal youth by possessing the inquisitor as her next body. But when the inquisitor attacks Darth Zash, the Dashade Khem Val sabotages the ritual—inadvertently trapping Zash's consciousness inside his body.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Zash; Darth Nox (Sith Inquisitor); Khem Val — Scion of Kallig: "Zash welcomes her apprentice and reveals her terrible secret: Zash's youthful appearance is only an illusion—in fact, the Sith Lord is ancient, and her body disfigured by the dark side. Zash now plots to achieve eternal youth by possessing the inquisitor as her next body. But when the inquisitor attacks Darth Zash, the Dashade Khem Val sabotages the ritual—inadvertently trapping Zash's consciousness inside his body." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-zash-welcomes-her-apprentice-and-reveals.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:491`
 
 > But the inquisitor nearly loses everything after being caught in a trap devised by Darth Thanaton, a supremely powerful Sith and harsh traditionalist who bristles at the idea of a former slave rising to sudden influence. To combat Thanaton's insurmountable strength, the inquisitor learns the ritual of Force-walking and gains power by consuming the energy of Darth Andru, a seething Force spirit locked away on Dromund Kaas. Fueled by the ghost's power, the inquisitor confronts Thanaton—only to be nearly eradicated by the superior Sith's dark sorcery.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton; Darth Andru — Spirits of the Past (top-right): "But the inquisitor nearly loses everything after being caught in a trap devised by Darth Thanaton, a supremely powerful Sith and harsh traditionalist who bristles at the idea of a former slave rising to sudden influence. To combat Thanaton's insurmountable strength, the inquisitor learns the ritual of Force-walking and gains power by consuming the energy of Darth Andru, a seething Force spirit locked away on Dromund Kaas. Fueled by the ghost's power, the inquisitor confronts Thanaton—only to be nearly eradicated by the superior Sith's dark sorcery." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-but-the-inquisitor-nearly-loses-everything.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:495`
 
 > Seething with the rage, strength, and passions of fallen Sith, the inquisitor once again challenges Darth Thanaton. Though Thanaton struggles against the inquisitor's increased might, a sudden explosion of Force energy ends the battle and casts the inquisitor into darkness.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Aloysius Kallig; Darth Thanaton — Spirits of the Past (top-right): "Seething with the rage, strength, and passions of fallen Sith, the inquisitor once again challenges Darth Thanaton. Though Thanaton struggles against the inquisitor's increased might, a sudden explosion of Force energy ends the battle and casts the inquisitor into darkness." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-seething-with-the-rage-strength-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:497`
 
 > The Sith inquisitor consumes the energy of the spirit of Horak-Mul, a Sith Lord who died before the Great Hyperspace War.
 — Source: The Sith; Darth Nox (Sith Inquisitor) — Caption.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor) — Caption: "The Sith inquisitor consumes the energy of the spirit of Horak-Mul, a Sith Lord who died before the Great Hyperspace War." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-the-sith-inquisitor-consumes-the-energy.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:499`
 
 > The explosion that nearly destroyed them all was sparked by the uncontainable power of the Force spirits bound within the inquisitor. Now, the inquisitor suffers from a crippling sickness that will prove devastating—if Thanaton doesn't land the killing blow first.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand: "The explosion that nearly destroyed them all was sparked by the uncontainable power of the Force spirits bound within the inquisitor. Now, the inquisitor suffers from a crippling sickness that will prove devastating—if Thanaton doesn't land the killing blow first." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-the-explosion-that-nearly-destroyed-them.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:501`
 
 > Wielding the combined power of the Sith spirits, the inquisitor confronts Darth Thanaton on Corellia, defeats his allies in battle, and forces Thanaton to flee for safety. It is in the Dark Council chambers on Korriban that the Sith inquisitor finally corners Thanaton and utterly destroys the once supreme Sith while the Dark Council bears witness. At their behest, the inquisitor takes Thanaton's seat, becomes a Darth, and joins the most powerful Sith in the Empire to rule as a member of the Dark Council.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton — Thanaton's Last Stand: "Wielding the combined power of the Sith spirits, the inquisitor confronts Darth Thanaton on Corellia, defeats his allies in battle, and forces Thanaton to flee for safety. It is in the Dark Council chambers on Korriban that the Sith inquisitor finally corners Thanaton and utterly destroys the once supreme Sith while the Dark Council bears witness. At their behest, the inquisitor takes Thanaton's seat, becomes a Darth, and joins the most powerful Sith in the Empire to rule as a member of the Dark Council." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-wielding-the-combined-power-of-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:503`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)

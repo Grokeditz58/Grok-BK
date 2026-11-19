@@ -205,7 +205,6 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4302`; `not
 > The underworld cooperative that calls itself the Exchange was built on the ashes of a criminal organization destroyed by the Sith Lord Darth Malak during the Jedi Civil War three centuries ago. The original Exchange was ruled by crime lord Davik Kang, who died during the bombardment of Taris along with his best lieutenants and enforcers.
 — Source: Mandalorians, the underworld and the Hutts; Darth Malak — The Exchange.
 Note (our notes, around the quote): Darth Malak — The Exchange: "The underworld cooperative that calls itself the Exchange was built on the ashes of a criminal organization destroyed by the Sith Lord Darth Malak during the Jedi Civil War three centuries ago. The original Exchange was ruled by crime lord Davik Kang, who died during the bombardment of Taris along with his best lieutenants and enforcers." Source: The Old Republic Encyclopedia, p.210
-![Quote image: The Old Republic Encyclopedia, p.210 — full quote as printed](quotes/tore-p210-the-underworld-cooperative-that-calls-itself.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:104`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -213,7 +212,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutt
 > Notable leaders include Davik Kang of Taris—who is killed when Revan and others steal his ship, the Ebon Hawk—and Goto, alias of the droid GO-TO, who controls a major smuggling operation at Nar Shadda years later.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan. POV: Revan, about Davik Kang.
 Note (our notes, around the quote): Revan: "Notable leaders include Davik Kang of Taris—who is killed when Revan and others steal his ship, the Ebon Hawk—and Goto, alias of the droid GO-TO, who controls a major smuggling operation at Nar Shadda years later." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.106
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.106 — full quote as printed](quotes/d718-s106-notable-leaders-include-davik-kang-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:271`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -221,7 +219,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > The Ebon Hawk is the prized possession of Taris Exchange boss Davik Kang—at Jeast until an amnesiac Darth Revan takes it away from him.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan. POV: Revan, about Davik Kang.
 Note (our notes, around the quote): Revan: "The Ebon Hawk is the prized possession of Taris Exchange boss Davik Kang—at Jeast until an amnesiac Darth Revan takes it away from him." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d718-s221-the-ebon-hawk-is-the-prized.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:387`
 
 # Debate and forum claims (unverified)

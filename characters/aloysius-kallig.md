@@ -14,38 +14,32 @@
 > Kallig was born into wealth, but his innate Force-sensitivity made him hunger for greatness. He trained to be a Sith on Korriban, and quickly surpassed the other students in lightsaber training and strategy. But still Kallig desired more.
 — Source: The Sith; Aloysius Kallig; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right).
 Note (our notes, around the quote): Aloysius Kallig; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right): "Kallig was born into wealth, but his innate Force-sensitivity made him hunger for greatness. He trained to be a Sith on Korriban, and quickly surpassed the other students in lightsaber training and strategy. But still Kallig desired more." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-kallig-was-born-into-wealth-but.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:77`
 
 > As Kallig rose to power, Tulak Hord—a mighty Sith Lord with legendary lightsaber skills—was waging war against the planets Yn and Chabosh.
 — Source: The Sith; Tulak Hord; Aloysius Kallig — Aloysius Kallig (top-right).
 Note (our notes, around the quote): Tulak Hord; Aloysius Kallig — Aloysius Kallig (top-right): "As Kallig rose to power, Tulak Hord—a mighty Sith Lord with legendary lightsaber skills—was waging war against the planets Yn and Chabosh." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-as-kallig-rose-to-power-tulak.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:79`
 
 > In an attack planned by Tulak Hord, Kallig was ambushed and killed. As Kallig's family fled into hiding, Kallig was entombed on Dromund Kaas. His spirit lay trapped within the Dark Temple for millennia until his distant descendant, a powerful Sith inquisitor, awakened him from his eternal slumber.
 — Source: The Sith.
 Note (our notes, around the quote): Aloysius Kallig; Tulak Hord; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right): "In an attack planned by Tulak Hord, Kallig was ambushed and killed. As Kallig's family fled into hiding, Kallig was entombed on Dromund Kaas. His spirit lay trapped within the Dark Temple for millennia until his distant descendant, a powerful Sith inquisitor, awakened him from his eternal slumber." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-in-an-attack-planned-by-tulak.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:81`
 
 > Early in the hunt, the inquisitor awakens the Force spirit of Aloysius Kallig, an ancient apparition who died millennia ago. Kallig reaches out to the inquisitor and reveals that they share a bloodline—the inquisitor is the heir to Kallig's ruined legacy. Kallig pledges to help the Sith inquisitor restore honor to their bloodline.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Aloysius Kallig — Scion of Kallig.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Aloysius Kallig — Scion of Kallig: "Early in the hunt, the inquisitor awakens the Force spirit of Aloysius Kallig, an ancient apparition who died millennia ago. Kallig reaches out to the inquisitor and reveals that they share a bloodline—the inquisitor is the heir to Kallig's ruined legacy. Kallig pledges to help the Sith inquisitor restore honor to their bloodline." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-early-in-the-hunt-the-inquisitor.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:489`
 
 > Seething with the rage, strength, and passions of fallen Sith, the inquisitor once again challenges Darth Thanaton. Though Thanaton struggles against the inquisitor's increased might, a sudden explosion of Force energy ends the battle and casts the inquisitor into darkness.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Aloysius Kallig; Darth Thanaton — Spirits of the Past (top-right): "Seething with the rage, strength, and passions of fallen Sith, the inquisitor once again challenges Darth Thanaton. Though Thanaton struggles against the inquisitor's increased might, a sudden explosion of Force energy ends the battle and casts the inquisitor into darkness." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-seething-with-the-rage-strength-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:497`
 
 > Burial place, prison, and reliquary, the Dark Temple was built on the orders of the Emperor to seal away powerful artifacts and the Emperor's enemies, both alive and dead. The temple became a nexus of dark side energy as the Emperor performed rituals within, drawing strength and knowledge from his captives. … Their plot ended in disaster when their forces were overwhelmed and driven mad by the spirit of Sith Lord Kallig.
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Vitiate (the Sith Emperor); Aloysius Kallig — Dark Temple box.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Aloysius Kallig — Dark Temple box: "Burial place, prison, and reliquary, the Dark Temple was built on the orders of the Emperor to seal away powerful artifacts and the Emperor's enemies, both alive and dead. The temple became a nexus of dark side energy as the Emperor performed rituals within, drawing strength and knowledge from his captives. … Their plot ended in disaster when their forces were overwhelmed and driven mad by the spirit of Sith Lord Kallig." Source: The Old Republic Encyclopedia, p.305, sidebar
-![Quote image: The Old Republic Encyclopedia, p.305 — full quote as printed](quotes/tore-p305-burial-place-prison-and-reliquary-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:345`
 
 # Debate and forum claims (unverified)

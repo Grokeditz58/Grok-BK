@@ -18,7 +18,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan
 > Even Piell single-handedly defeated seven attackers and saved Gallia's parents, although he did lose his left eye in the battle.
 — Source: scan pages 1–40; Even Piell — entry/section: Piell, Even.
 Note (our notes, around the quote): Even Piell — entry/section: Piell, Even: "Even Piell single-handedly defeated seven attackers and saved Gallia's parents, although he did lose his left eye in the battle." Source: The Complete Star Wars Encyclopedia, Vol. III, p.25
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.25 — full quote as printed](quotes/v3-p25-even-piell-single-handedly-defeated-seven.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:222`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -30,7 +29,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Piell single-handedly defeated seven attackers, Only one terrorist escaped with his life.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Even Piell — entry/section: Even Piell, Jedi Master.
 Note (our notes, around the quote): Even Piell — entry/section: Even Piell, Jedi Master: "Piell single-handedly defeated seven attackers, Only one terrorist escaped with his life." Source: Power of the Jedi Sourcebook, p.117
-![Quote image: Power of the Jedi Sourcebook, p.117 — full quote as printed](quotes/potj-p117-piell-single-handedly-defeated-seven-attackers.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:193`
 
 ## The New Essential Guide to Characters (2002)

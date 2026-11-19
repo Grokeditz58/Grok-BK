@@ -14,7 +14,7 @@
 > willed yourself back from the dead
 > [fragment — full passage not on file]
 — Source: Darth Vader and the Lost Command: daily-image candidates; ![Bound Vader and Garoche Tarkin.
-Note (our notes, around the quote): ![Bound Vader and Garoche Tarkin: "willed yourself back from the dead"](panels/lc4-p22-willed-back-from-dead.jpg)
+Note (our notes, around the quote): ![Bound Vader and Garoche Tarkin: "willed yourself back from the dead"](../notes/materials/042-lost-command/panels/lc4-p22-willed-back-from-dead.jpg)
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:76`
 
 > Largely unexplored, but inhabited.

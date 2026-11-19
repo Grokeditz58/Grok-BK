@@ -1646,104 +1646,87 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4328`
 > Under Revan's command, these Jedi ultimately defeat Mandalore the Ultimate, disarm his Neo-Crusaders, and win the Mandalorian Wars for the Republic.
 — Source: Front matter and introduction; Revan; Darth Malak — Timeline 3,976 BBY, Mandalorian Wars.
 Note (our notes, around the quote): Revan; Darth Malak — Timeline 3,976 BBY, Mandalorian Wars: "Under Revan's command, these Jedi ultimately defeat Mandalore the Ultimate, disarm his Neo-Crusaders, and win the Mandalorian Wars for the Republic." Source: The Old Republic Encyclopedia, p.17
-![Quote image: The Old Republic Encyclopedia, p.17 — full quote as printed](quotes/tore-p17-under-revan-s-command-these-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:79`
 
 > The Emperor turns Revan and Malak to the dark side and bids them to recover an ancient Rakata superweapon, the Star Forge. Revan recovers the powerful Star Forge and betrays the Emperor to create his own Sith Empire.
 — Source: Front matter and introduction.
 Note (our notes, around the quote): Revan; Darth Malak; Vitiate (the Sith Emperor) — Timeline 3,960 BBY, Corruption of Revan and Malak: "The Emperor turns Revan and Malak to the dark side and bids them to recover an ancient Rakata superweapon, the Star Forge. Revan recovers the powerful Star Forge and betrays the Emperor to create his own Sith Empire." Source: The Old Republic Encyclopedia, p.17
-![Quote image: The Old Republic Encyclopedia, p.17 — full quote as printed](quotes/tore-p17-the-emperor-turns-revan-and-malak.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:81`
 
 > Revan nearly defeats the Republic, but he is betrayed and left for dead by his ally, Darth Malak.
 — Source: Front matter and introduction; Revan; Darth Malak — Timeline 3,959 BBY, Jedi Civil War.
 Note (our notes, around the quote): Revan; Darth Malak — Timeline 3,959 BBY, Jedi Civil War: "Revan nearly defeats the Republic, but he is betrayed and left for dead by his ally, Darth Malak." Source: The Old Republic Encyclopedia, p.18
-![Quote image: The Old Republic Encyclopedia, p.18 — full quote as printed](quotes/tore-p18-revan-nearly-defeats-the-republic-but.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:88`
 
 > Revan later rediscovers his dark past, strikes down Darth Malak, and destroys the Star Forge superweapon to end the long and ruinous Jedi Civil War.
 — Source: Front matter and introduction; Revan; Darth Malak — Timeline 3,959 BBY, Jedi Civil War.
 Note (our notes, around the quote): Revan; Darth Malak — Timeline 3,959 BBY, Jedi Civil War: "Revan later rediscovers his dark past, strikes down Darth Malak, and destroys the Star Forge superweapon to end the long and ruinous Jedi Civil War." Source: The Old Republic Encyclopedia, p.18
-![Quote image: The Old Republic Encyclopedia, p.18 — full quote as printed](quotes/tore-p18-revan-later-rediscovers-his-dark-past.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:90`
 
 > Revan and Malak. Once Jedi heroes, their fall to the dark side would ignite the Jedi Civil War and nearly obliterate the Republic.
 — Source: The Jedi Order; Revan; Darth Malak — Top-right tagline: Jedi Civil War tagline.
 Note (our notes, around the quote): Revan; Darth Malak — Top-right tagline: Jedi Civil War tagline: "Revan and Malak. Once Jedi heroes, their fall to the dark side would ignite the Jedi Civil War and nearly obliterate the Republic." Source: The Old Republic Encyclopedia, p.71, sidebar
-![Quote image: The Old Republic Encyclopedia, p.71 — full quote as printed](quotes/tore-p71-revan-and-malak-once-jedi-heroes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:49`
 
 > Revan and Malak scoured the galaxy and ultimately discovered the Star Forge. But instead of delivering it to the Emperor, Revan seized the Star Forge for his own use.
 — Source: The Jedi Order; Revan; Darth Malak; Vitiate (the Sith Emperor) — The Star Forge.
 Note (our notes, around the quote): Revan; Darth Malak; Vitiate (the Sith Emperor) — The Star Forge: "Revan and Malak scoured the galaxy and ultimately discovered the Star Forge. But instead of delivering it to the Emperor, Revan seized the Star Forge for his own use." Source: The Old Republic Encyclopedia, p.70
-![Quote image: The Old Republic Encyclopedia, p.70 — full quote as printed](quotes/tore-p70-revan-and-malak-scoured-the-galaxy.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:57`
 
 > Nearby, Darth Malak sensed the sudden vulnerability of his Master and promptly exploited it.
 — Source: The Jedi Order; Darth Malak; Revan — Revan's Rebirth.
 Note (our notes, around the quote): Darth Malak; Revan — Revan's Rebirth: "Nearby, Darth Malak sensed the sudden vulnerability of his Master and promptly exploited it." Source: The Old Republic Encyclopedia, p.71, sidebar
-![Quote image: The Old Republic Encyclopedia, p.71 — full quote as printed](quotes/tore-p71-nearby-darth-malak-sensed-the-sudden.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:65`
 
 > By reaching out with the Force, Bastila could unite entire armies, boosting their morale and coordinating their attack. Darth Malak desired such power.
 — Source: The Jedi Order; Bastila Shan; Darth Malak — Taris Bombarded.
 Note (our notes, around the quote): Bastila Shan; Darth Malak — Taris Bombarded: "By reaching out with the Force, Bastila could unite entire armies, boosting their morale and coordinating their attack. Darth Malak desired such power." Source: The Old Republic Encyclopedia, p.71, sidebar
-![Quote image: The Old Republic Encyclopedia, p.71 — full quote as printed](quotes/tore-p71-by-reaching-out-with-the-force.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:69`
 
 > Revan dueled Malak until Bastila sacrificed herself to aid Revan's escape.
 — Source: The Jedi Order; Revan; Darth Malak; Bastila Shan — Facing the Past.
 Note (our notes, around the quote): Revan; Darth Malak; Bastila Shan — Facing the Past: "Revan dueled Malak until Bastila sacrificed herself to aid Revan's escape." Source: The Old Republic Encyclopedia, p.72
-![Quote image: The Old Republic Encyclopedia, p.72 — full quote as printed](quotes/tore-p72-revan-dueled-malak-until-bastila-sacrificed.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:78`
 
 > Revan boarded the station—but his progress was blocked by Bastila Shan, now corrupted as Malak's apprentice. Revan overpowered Bastila and saved her from Malak's insidious influence, thus restoring her to the path of the light side.
 — Source: The Jedi Order; Revan; Bastila Shan — Battle of Rakata Prime.
 Note (our notes, around the quote): Revan; Bastila Shan — Battle of Rakata Prime: "Revan boarded the station—but his progress was blocked by Bastila Shan, now corrupted as Malak's apprentice. Revan overpowered Bastila and saved her from Malak's insidious influence, thus restoring her to the path of the light side." Source: The Old Republic Encyclopedia, p.72
-![Quote image: The Old Republic Encyclopedia, p.72 — full quote as printed](quotes/tore-p72-revan-boarded-the-station-but-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:80`
 
 > The earliest facts recount Revan's promising affinity for the Force and his rise to become a Jedi. With his close friend Alek, Revan devoured knowledge with an insatiable appetite under many Jedi Masters. Though Revan and Alek both earned the title of Jedi Knight, Revan's determination and pride sparked concern among the Jedi Council.
 — Source: The Jedi Order; Revan; Darth Malak — Revan profile (top-right box).
 Note (our notes, around the quote): Revan; Darth Malak — Revan profile (top-right box): "The earliest facts recount Revan's promising affinity for the Force and his rise to become a Jedi. With his close friend Alek, Revan devoured knowledge with an insatiable appetite under many Jedi Masters. Though Revan and Alek both earned the title of Jedi Knight, Revan's determination and pride sparked concern among the Jedi Council." Source: The Old Republic Encyclopedia, p.73, sidebar
-![Quote image: The Old Republic Encyclopedia, p.73 — full quote as printed](quotes/tore-p73-the-earliest-facts-recount-revan-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:86`
 
 > Over 300 years ago, the great Jedi heroes Revan and Malak stumbled upon the long-hidden Sith Empire's capital of Dromund Kaas, and its ruler—a mysterious, almost godlike avatar of the dark side.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Revan; Darth Malak; Vitiate (the Sith Emperor) — First Contact with Evil: "Over 300 years ago, the great Jedi heroes Revan and Malak stumbled upon the long-hidden Sith Empire's capital of Dromund Kaas, and its ruler—a mysterious, almost godlike avatar of the dark side." Source: The Old Republic Encyclopedia, p.88
-![Quote image: The Old Republic Encyclopedia, p.88 — full quote as printed](quotes/tore-p88-over-300-years-ago-the-great.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:244`
 
 > Darth Malak tortured the Jedi Bastila Shan for days before she finally succumbed and became his apprentice.
 — Source: The Sith; Darth Malak; Bastila Shan — Resisting Temptation.
 Note (our notes, around the quote): Darth Malak; Bastila Shan — Resisting Temptation: "Darth Malak tortured the Jedi Bastila Shan for days before she finally succumbed and became his apprentice." Source: The Old Republic Encyclopedia, p.148
-![Quote image: The Old Republic Encyclopedia, p.148 — full quote as printed](quotes/tore-p148-darth-malak-tortured-the-jedi-bastila.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:47`
 
 > The underworld cooperative that calls itself the Exchange was built on the ashes of a criminal organization destroyed by the Sith Lord Darth Malak during the Jedi Civil War three centuries ago. The original Exchange was ruled by crime lord Davik Kang, who died during the bombardment of Taris along with his best lieutenants and enforcers.
 — Source: Mandalorians, the underworld and the Hutts; Darth Malak — The Exchange.
 Note (our notes, around the quote): Darth Malak — The Exchange: "The underworld cooperative that calls itself the Exchange was built on the ashes of a criminal organization destroyed by the Sith Lord Darth Malak during the Jedi Civil War three centuries ago. The original Exchange was ruled by crime lord Davik Kang, who died during the bombardment of Taris along with his best lieutenants and enforcers." Source: The Old Republic Encyclopedia, p.210
-![Quote image: The Old Republic Encyclopedia, p.210 — full quote as printed](quotes/tore-p210-the-underworld-cooperative-that-calls-itself.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:104`
 
 > Rakghouls are the ferocious, violent, and monstrous product of a plague forged by the Sith centuries ago. … The plague outbreak first spread through Taris over three centuries ago. The rakghouls survived the planet's bombardment in the Jedi Civil War, and endure to this day
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Darth Malak — Rakghoul.
 Note (our notes, around the quote): Darth Malak — Rakghoul: "Rakghouls are the ferocious, violent, and monstrous product of a plague forged by the Sith centuries ago. … The plague outbreak first spread through Taris over three centuries ago. The rakghouls survived the planet's bombardment in the Jedi Civil War, and endure to this day" Source: The Old Republic Encyclopedia, p.274
-![Quote image: The Old Republic Encyclopedia, p.274 — full quote as printed](quotes/tore-p274-rakghouls-are-the-ferocious-violent-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:154`
 
 > At the height of Revan's Sith Empire during the Jedi Civil War, a fleet of Imperial ships, led by the Sith Lord Malak, bombarded the planet, reducing the globe-spanning cities to twisted mounds of rubble.
 — Source: Species, technology, planets and the future; Revan; Darth Malak — Taris intro.
 Note (our notes, around the quote): Revan; Darth Malak — Taris intro: "At the height of Revan's Sith Empire during the Jedi Civil War, a fleet of Imperial ships, led by the Sith Lord Malak, bombarded the planet, reducing the globe-spanning cities to twisted mounds of rubble." Source: The Old Republic Encyclopedia, p.308
-![Quote image: The Old Republic Encyclopedia, p.308 — full quote as printed](quotes/tore-p308-at-the-height-of-revan-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:363`
 
 > Three centuries ago, the Sith Lord Darth Malak bombarded the planet from orbit in the Jedi Civil War, killing billions and demolishing the once glorious cities.
 — Source: Species, technology, planets and the future; Darth Malak — Art spread caption.
 Note (our notes, around the quote): Darth Malak — Art spread caption: "Three centuries ago, the Sith Lord Darth Malak bombarded the planet from orbit in the Jedi Civil War, killing billions and demolishing the once glorious cities." Source: The Old Republic Encyclopedia, p.311, sidebar
-![Quote image: The Old Republic Encyclopedia, p.311 — full quote as printed](quotes/tore-p311-three-centuries-ago-the-sith-lord.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:374`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -1751,33 +1734,28 @@ Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:37
 > A pair of charismatic Jedi, Revan and Malak, turned the tide of the war through sheer force of will.
 — Source: Part One: Tales of the Ancient Republic; Revan; Darth Malak — Revan and Malak turn the Mandalorian Wars.
 Note (our notes, around the quote): Revan; Darth Malak — Revan and Malak turn the Mandalorian Wars: "A pair of charismatic Jedi, Revan and Malak, turned the tide of the war through sheer force of will." Source: The New Essential Chronology, p.22
-![Quote image: The New Essential Chronology, p.22 — full quote as printed](quotes/nec-p22-revan-and-malak-turn-the-mandalorian.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:182`
 
 > At last defeated by a worthy opponent, the Mandalorians destroyed their armor and war-mounts under the eyes of Revan and Malak.
 — Source: Part One: Tales of the Ancient Republic; Revan; Darth Malak — Mandalorians submit.
 Note (our notes, around the quote): Revan; Darth Malak — Mandalorians submit: "At last defeated by a worthy opponent, the Mandalorians destroyed their armor and war-mounts under the eyes of Revan and Malak." Source: The New Essential Chronology, p.22
-![Quote image: The New Essential Chronology, p.22 — full quote as printed](quotes/nec-p22-mandalorians-submit.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:186`
 
 > their Star Forge remained in orbit and possessed the power to create fully formed machines at the flip of a lever.
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Revan; Darth Malak — Star Forge power.
 Note (our notes, around the quote): Revan; Darth Malak — Star Forge power: "their Star Forge remained in orbit and possessed the power to create fully formed machines at the flip of a lever." Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-star-forge-power.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:198`
 
 > The Jedi Knight Bastila Shan, a master of Battle Meditation, helped prevent the Republic's defeat
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Bastila Shan; Revan; Darth Malak — Bastila captures Revan.
 Note (our notes, around the quote): Bastila Shan; Revan; Darth Malak — Bastila captures Revan: "The Jedi Knight Bastila Shan, a master of Battle Meditation, helped prevent the Republic's defeat" Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-bastila-captures-revan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:200`
 
 > Revan—now in possession of the memories the Council had erased—killed Darth Malak and destroyed the Star Forge above Rakata Prime.
 — Source: Part One: Tales of the Ancient Republic; Revan; Darth Malak — Revan kills Malak.
 Note (our notes, around the quote): Revan; Darth Malak — Revan kills Malak: "Revan—now in possession of the memories the Council had erased—killed Darth Malak and destroyed the Star Forge above Rakata Prime." Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-revan-kills-malak.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:204`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -1785,7 +1763,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > At the same time, many of the era's worst dark siders come from the enclave, including Exar Kun, Darth Revan, and Darth Malak.
 — Source: Chapter VII: Studying Abroad, and back cover; Exar Kun — Dantooine enclave — dark siders.
 Note (our notes, around the quote): Exar Kun — Dantooine enclave — dark siders: "At the same time, many of the era's worst dark siders come from the enclave, including Exar Kun, Darth Revan, and Darth Malak." Source: Jedi Academy Training Manual, p.153
-![Quote image: Jedi Academy Training Manual, p.153 — full quote as printed](quotes/jatm-p153-dantooine-enclave-dark-siders.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/07-ch7-studying-abroad-back-cover.md:31`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -1793,7 +1770,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/07-ch7-studying-abr
 > Malak dispatched Bandon to stop the mindwiped Revan and Bastila Shan's search for the Star Forge, and Revan slew Bandon.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Darth Bandon; Darth Malak; Revan; Bastila Shan — entry/section: Bandon, Darth: "Malak dispatched Bandon to stop the mindwiped Revan and Bastila Shan's search for the Star Forge, and Revan slew Bandon." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-malak-dispatched-bandon-to-stop-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:255`
 
 > Its sur­ face was covered with empty steppes, savannas of lavender grass, and spiky blba trees. The planet had two moons and abundant animal life, including herds of hairy beasts, simple Dantooine balloon-like creatures, and mace flies. Primitive nomadic tribesmen, the Dantari, moved along the coasts, though their numbers were so fewthat the planet was essen­ tially uninhabited. Some 4,000 years before the Galactic Civil War, Dantooine was the site of a Jedi training center established by Master Vodo-Siosk Baas. There he in­ structed such notable Jedi as Exar Kun and the Cathar warriors Crado and Sylvar. Darth Malak destroyed the enclave, though its ruins remained for millennia. During the Clone Wars, the Separatists attempted to obtain a foothold on Dantooine as an impor­ tant staging ground for operations at nearby Muunilinst. Mace Windu was instrumental in stopping a Confederacy droid force that had invaded the planet. Doni Giddean Danu Decades later, Dantooine served as the pri­ mary base for the Rebel Alliance until it was evacuated in one day's time after an Imperial tracking device was found hidden in a cargo shipment. Some 1 1 years later, 50 colonists from Eol Sha were relocated to the planet, but a group of Admiral Daala's AT-AT walkers wiped them out.
@@ -1801,7 +1777,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Malak: "Darth Malak destroyed the enclave, though its ruins remained for millennia." Source: The Complete Star Wars Encyclopedia, Vol. I, p.164
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.164 — full quote as printed](quotes/v1-p164-darth-malak-destroyed-the-enclave-though.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:162`
 
 > The interior of the Ebon Hawk comprised sev­ eral sections, including a cockpit, crew quarters, medical center, tactical battle station, cargo hold, and even a makeshift garage to store swoop bikes and modify equipment. Its weaponry con­ sisted of a gunnery station with dual turbolasers, as well as other "secret" armaments.
@@ -1817,13 +1792,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Revan; Bastila Shan; Darth Malak: "Ownership of the Ebon Hawk changed hands to the rehabilitated Revan and Carth Onasi after Davik was killed in an altercation following the rescue of Bastila Shan, shortly before Taris was destroyed by Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. I, p.224
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.224 — full quote as printed](quotes/v1-p224-ownership-of-the-ebon-hawk-changed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:310`
 
 > A group of Jedi Knights, searching for clues as to the whereabouts of the Star Forge and Darth Malak, helped Komad Fortuna defeat a Krayt dragon that had been causing damage to his homestead.
 — Source: scan pages 281–320; Darth Malak; Darth Krayt.
 Note (our notes, around the quote): Darth Malak; Darth Krayt: "A group of Jedi Knights, searching for clues as to the whereabouts of the Star Forge and Darth Malak, helped Komad Fortuna defeat a Krayt dragon that had been causing damage to his homestead." Source: The Complete Star Wars Encyclopedia, Vol. I, p.291
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.291 — full quote as printed](quotes/v1-p291-a-group-of-jedi-knights-searching.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:203`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -1831,55 +1804,46 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Jedi Exile An ancient Jedi warrior whose name was lost to history, she was a former Padawan stripped of her connection to the Force and set adrift in the galaxy in the years after the defeat of Darth Malak.
 — Source: scan pages 121–160; Meetra Surik; Darth Malak — entry/section: Jedi Exile.
 Note (our notes, around the quote): Meetra Surik; Darth Malak — entry/section: Jedi Exile: "Jedi Exile An ancient Jedi warrior whose name was lost to history, she was a former Padawan stripped of her connection to the Force and set adrift in the galaxy in the years after the defeat of Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. II, p.148
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.148 — full quote as printed](quotes/v2-p148-jedi-exile-an-ancient-jedi-warrior.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:255`
 
 > About five years after the defeat of Darth Malak, Kreia discovered the Jedi Exile onboard the damaged starship Ebon Hawk and brought it to Peragus IL.
 — Source: scan pages 201–240; Kreia; Darth Malak; Meetra Surik — entry/section: Kreia.
 Note (our notes, around the quote): Kreia; Darth Malak; Meetra Surik — entry/section: Kreia: "About five years after the defeat of Darth Malak, Kreia discovered the Jedi Exile onboard the damaged starship Ebon Hawk and brought it to Peragus IL." Source: The Complete Star Wars Encyclopedia, Vol. II, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.231 — full quote as printed](quotes/v2-p231-about-five-years-after-the-defeat.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:382`
 
 > When Darth Malak attacked and destroyed the Jedi Enclave on Dantooine, Master Vrook went into hiding for many years, until he was captured by Azkul and his mercenaries.
 — Source: scan pages 241–280; Vrook Lamar; Darth Malak — entry/section: Lamar, Master Vrook.
 Note (our notes, around the quote): Vrook Lamar; Darth Malak — entry/section: Lamar, Master Vrook: "When Darth Malak attacked and destroyed the Jedi Enclave on Dantooine, Master Vrook went into hiding for many years, until he was captured by Azkul and his mercenaries." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-when-darth-malak-attacked-and-destroyed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:81`
 
 > Details of the ensuing battle were never clarified; Darth Revan was captured and many Jedi were killed, yet Darth Malak managed to escape.
 — Source: scan pages 281–320; Revan; Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "Details of the ensuing battle were never clarified; Darth Revan was captured and many Jedi were killed, yet Darth Malak managed to escape." Source: The Complete Star Wars Encyclopedia, Vol. II, p.279
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.279 — full quote as printed](quotes/v2-p279-details-of-the-ensuing-battle-were.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:40`
 
 > In a break from the Sith forays that Revan led against Republic systems, Darth Malak destroyed worlds rather than capturing them, ensuring that vital resources were no longer available to either side of the battle.
 — Source: scan pages 281–320; Revan; Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "In a break from the Sith forays that Revan led against Republic systems, Darth Malak destroyed worlds rather than capturing them, ensuring that vital resources were no longer available to either side of the battle." Source: The Complete Star Wars Encyclopedia, Vol. II, p.279
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.279 — full quote as printed](quotes/v2-p279-in-a-break-from-the-sith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:44`
 
 > With the defection of Admiral Saul Karath, Darth Malak acquired the Leviathan, which served as his personal flagship, and he appeared to be invincible.
 — Source: scan pages 281–320; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "With the defection of Admiral Saul Karath, Darth Malak acquired the Leviathan, which served as his personal flagship, and he appeared to be invincible." Source: The Complete Star Wars Encyclopedia, Vol. II, p.279
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.279 — full quote as printed](quotes/v2-p279-with-the-defection-of-admiral-saul.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:46`
 
 > The battle was waged for months until Darth Malak was killed and the Star Forge destroyed.
 — Source: scan pages 281–320; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "The battle was waged for months until Darth Malak was killed and the Star Forge destroyed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.279
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.279 — full quote as printed](quotes/v2-p279-the-battle-was-waged-for-months.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:48`
 
 > He dogged Bastila Shan, Carth Onasi, and the Jedi Knights who were searching for the Star Forge along with Darth Malak, and was believed to have been killed on Taris.
 — Source: scan pages 361–400; Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Bastila Shan; Darth Malak: "He dogged Bastila Shan, Carth Onasi, and the Jedi Knights who were searching for the Star Forge along with Darth Malak, and was believed to have been killed on Taris." Source: The Complete Star Wars Encyclopedia, Vol. II, p.389
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.389 — full quote as printed](quotes/v2-p389-he-dogged-bastila-shan-carth-onasi.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:280`
 
 > The traitorous actions of Sith Lords Revan and Malak and the continued aggression of the Sith distracted the citizens of the Republic to the point that they were no longer concerned about the defeated Mandalorians.
 — Source: scan pages 401–440; Revan; Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "The traitorous actions of Sith Lords Revan and Malak and the continued aggression of the Sith distracted the citizens of the Republic to the point that they were no longer concerned about the defeated Mandalorians." Source: The Complete Star Wars Encyclopedia, Vol. II, p.421
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.421 — full quote as printed](quotes/v2-p421-the-traitorous-actions-of-sith-lords.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:200`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -1887,31 +1851,26 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > The few barbaric Rakata who survived were wiped out by the battle for the Star Forge, during the time of Darth Malak.
 — Source: scan pages 81–120; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "The few barbaric Rakata who survived were wiped out by the battle for the Star Forge, during the time of Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. III, p.76
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.76 — full quote as printed](quotes/v3-p76-the-few-barbaric-rakata-who-survived.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:21`
 
 > Sith Destroyer (Leviathan-class) An ancient beak-shaped Sith capital ship used in the fleet led by Darth Revan and Darth Malak.
 — Source: scan pages 161–200; Revan; Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "Sith Destroyer (Leviathan-class) An ancient beak-shaped Sith capital ship used in the fleet led by Darth Revan and Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. III, p.155
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.155 — full quote as printed](quotes/v3-p155-sith-destroyer-leviathan-class-an-ancient.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:14`
 
 > After the defeat of Darth Malak, Revan's ship Ebon Hawk disappeared in deep space.
 — Source: scan pages 201–240; Darth Malak; Revan.
 Note (our notes, around the quote): Darth Malak; Revan: "After the defeat of Darth Malak, Revan's ship Ebon Hawk disappeared in deep space." Source: The Complete Star Wars Encyclopedia, Vol. III, p.207
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.207 — full quote as printed](quotes/v3-p207-after-the-defeat-of-darth-malak.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:124`
 
 > During his search for Bastila Shan, Darth Malak ordered an orbital bombardment of Taris that devastated the planet's cities and killed billions.
 — Source: scan pages 201–240; Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Bastila Shan; Darth Malak: "During his search for Bastila Shan, Darth Malak ordered an orbital bombardment of Taris that devastated the planet's cities and killed billions." Source: The Complete Star Wars Encyclopedia, Vol. III, p.220
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.220 — full quote as printed](quotes/v3-p220-during-his-search-for-bastila-shan.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:235`
 
 > Years later, Uln was killed when a group of Jedi Knights infiltrated Korriban by posing as Sith apprentices during their search for Darth Malak.
 — Source: scan pages 281–320; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "Years later, Uln was killed when a group of Jedi Knights infiltrated Korriban by posing as Sith apprentices during their search for Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. III, p.278
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.278 — full quote as printed](quotes/v3-p278-years-later-uln-was-killed-when.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:31`
 
 ## Characters/Hutts/Malta and Quaffug.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1931,7 +1890,6 @@ Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:23
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 4 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_4_pdf_bc6cd0e832`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 4 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_4_pdf_bc6cd0e832`).)
 Note (our notes, around the quote): Revan; Darth Malak; Mandalore the Ultimate — entry/section: Mandalore the Ultimate's Neo-Crusaders: "In the years after the defeat of Exar Kun (four millennia before the Battle of Yavin), Mandalore the Ultimate unleashed his Neo-Crusaders on the galaxy in what became known as the Mandalorian Wars. These Mandalorian warriors wore more sleek and uniform armor than their Crusader predecessors, and they ravaged countless worlds as war itself was revered as an aspect of the divine. Ultimately, the Mandalorian Neo-Crusaders were defeated by the Jedi Revan and Malak (who later became Dark Lords of the Sith), and their ranks were dispersed as they became little more than mercenaries scattered throughout the galaxy." Source: *Bounty Hunters Preview 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d096-s2-in-the-years-after-the-defeat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:25`
 
 ## Characters/Miniatures/Champions of the Force Preview 5.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1945,7 +1903,6 @@ Our notes: `notes/materials/037-sw-d20-folder/104-champions-of-the-force-preview
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Champions of the Force Preview 5 (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Champions_of_the_Force_Preview_5_pdf_56cf236967`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Champions of the Force Preview 5 (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Champions_of_the_Force_Preview_5_pdf_56cf236967`).)
 Note (our notes, around the quote): Darth Malak — entry/section: The Jedi split over the Mandalorian Wars: "Four thousand years before the creation of the Empire, the Republic faced many enemies and endured many wars. When the Mandalorians attacked the Republic, the Jedi were split -- join the fighting or stay out of it?" Source: *Champions of the Force Preview 5* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d104-s2-four-thousand-years-before-the-creation.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/104-champions-of-the-force-preview-5.md:23`
 
 > Darth Malak Four thousand years before the creation of the Empire, the Republic faced many enemies and endured many wars. When the Mandalorians attacked the Republic, the Jedi were split ­­ join the fighting or stay out of it? Ultimately, two Jedi ignored the will of the Jedi Council and plunged into battle. Revan and Malak led the Republic forces; the former provided clever tactics, and the latter was relentless and reckless in combat. The two pursued their enemies into the Unknown Regions. They returned as Sith Lords backed by a huge military force from an unknown source. Darth Malak started as an apprentice but soon became the master. With the Sith forces at his command, he tore through the Republic, razing entire planets. His success was short lived, however, and he fell to an unexpected enemy. In the Star Wars Miniatures Game, Darth Malak is a straightforward lightsaber combatant. True to his character, his abilities and powers focus on attacking his enemies head on. His high Defense and Attack scores enable him take on strong opponents, and he can increase his damage through Sith Rage when desired (as limited by his Force 4 ability). Darth Malak is the only Sith faction character with a Commander Effect that applies to most available followers.
@@ -1953,7 +1910,6 @@ Our notes: `notes/materials/037-sw-d20-folder/104-champions-of-the-force-preview
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Champions of the Force Preview 5 (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Champions_of_the_Force_Preview_5_pdf_56cf236967`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Champions of the Force Preview 5 (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Champions_of_the_Force_Preview_5_pdf_56cf236967`).)
 Note (our notes, around the quote): Darth Malak — entry/section: Malak becomes the master: "Darth Malak started as an apprentice but soon became the master. With the Sith forces at his command, he tore through the Republic, razing entire planets. His success was short lived, however, and he fell to an unexpected enemy." Source: *Champions of the Force Preview 5* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d104-s2-darth-malak-started-as-an-apprentice.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/104-champions-of-the-force-preview-5.md:27`
 
 - Note (summary from our notes, not a quotation): Page contents: Malak card abilities; RPG stats (Jedi guardian 11/Sith Lord 9); Malak's armor; author bios (hand-read)
@@ -1965,7 +1921,6 @@ Our notes: `notes/materials/037-sw-d20-folder/104-champions-of-the-force-preview
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Champions of the Force Preview 5 (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Champions_of_the_Force_Preview_5_pdf_56cf236967`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Champions of the Force Preview 5 (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Champions_of_the_Force_Preview_5_pdf_56cf236967`).)
 Note (our notes, around the quote): Darth Malak — entry/section: Darth Malak's Armor: "Darth Malak's unique armor provides better protection than the average light armor, thanks to ancient Rakata technology." Source: *Champions of the Force Preview 5* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Champions of the Force Preview 5* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d104-s3-darth-malaks-unique-armor-provides-better.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/104-champions-of-the-force-preview-5.md:34`
 
 ## Characters/Miniatures/Champions of the Force Preview 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1977,7 +1932,6 @@ Our notes: `notes/materials/037-sw-d20-folder/105-champions-of-the-force-preview
 > In fact, Battle Meditation allows Bastila to neutralize (and effectively steal) Darth Malak's commander effect, thus making her a very good match for the Sith Lord in a skirmish.
 — Source: Characters/Miniatures/Champions of the Force Preview 6.pdf [Star Wars Rol; Bastila Shan; Darth Malak — entry/section: Bastila Shan.
 Note (our notes, around the quote): Bastila Shan; Darth Malak — entry/section: Bastila Shan: "In fact, Battle Meditation allows Bastila to neutralize (and effectively steal) Darth Malak's commander effect, thus making her a very good match for the Sith Lord in a skirmish." Source: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d105-s1-in-fact-battle-meditation-allows-bastila.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/105-champions-of-the-force-preview-6.md:20`
 
 ## Characters/Darth Malak.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1993,13 +1947,11 @@ Our notes: `notes/materials/037-sw-d20-folder/137-darth-malak.md:10`
 > Damage Reduction 5 -- Darth Malak ignores the first five points of any kind of damage. Whether this is due to hidden armor linked to his voice mask or the physical result of Sith alchemy is anyone's guess.
 — Source: Characters/Darth Malak.pdf [Star Wars Roleplaying Game Revised Core (d20,; Darth Malak — entry/section: Malak: Damage Reduction 5.
 Note (our notes, around the quote): Darth Malak — entry/section: Malak: Damage Reduction 5: "Damage Reduction 5 -- Darth Malak ignores the first five points of any kind of damage. Whether this is due to hidden armor linked to his voice mask or the physical result of Sith alchemy is anyone's guess." Source: *Darth Malak* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Darth Malak* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d137-s1-damage-reduction-5-darth-malak-ignores.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/137-darth-malak.md:18`
 
 > Enhanced Force Powers -- Using a mysterious power source as yet undiscovered (complete Star Wars: Knights of the Old Republic to learn more), Darth Malak possesses extraordinary dark side Force powers out of proportion, in game terms, with his class and level. He gained three additional Force feats and 24 bonus skill points exclusively for dark side skills. In any battle, the first Force point Darth Malak spends on a dark siderelated roll does not subtract from his total.
 — Source: Characters/Darth Malak.pdf [Star Wars Roleplaying Game Revised Core (d20,; Darth Malak — entry/section: Malak: Enhanced Force Powers.
 Note (our notes, around the quote): Darth Malak — entry/section: Malak: Enhanced Force Powers: "Enhanced Force Powers -- Using a mysterious power source as yet undiscovered (complete Star Wars: Knights of the Old Republic to learn more), Darth Malak possesses extraordinary dark side Force powers out of proportion, in game terms, with his class and level. He gained three additional Force feats and 24 bonus skill points exclusively for dark side skills. In any battle, the first Force point Darth Malak spends on a dark siderelated roll does not subtract from his total." Source: *Darth Malak* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Darth Malak* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d137-s1-enhanced-force-powers-using-a-mysterious.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/137-darth-malak.md:20`
 
 ## Locations/Planet Hoppers/Manaan - Depths of History/Part 1 - Backwater.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2036,31 +1988,26 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 > While in the Unknown Regions, Revan and Malak steep themselves in the teachings of those Sith who had been defeated in the Great Sith War, and empowered by the Jedi victories in the Mandalorian Wars they set out to conquer the galaxy.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Revan; Darth Malak — entry/section: Knights of the Old Republic Campaign Guide (Saga): "While in the Unknown Regions, Revan and Malak steep themselves in the teachings of those Sith who had been defeated in the Great Sith War, and empowered by the Jedi victories in the Mandalorian Wars they set out to conquer the galaxy." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d718-s8-while-in-the-unknown-regions-revan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:59`
 
 > Rejecting his former self and embracing the way of the light, Revan retraces his steps and discovers a massive artifact known as the Star Forge, aboard which he duels and vanquishes his former apprentice, Malak, ending the Jedi Civil War.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Revan; Darth Malak — entry/section: Knights of the Old Republic Campaign Guide (Saga): "Rejecting his former self and embracing the way of the light, Revan retraces his steps and discovers a massive artifact known as the Star Forge, aboard which he duels and vanquishes his former apprentice, Malak, ending the Jedi Civil War." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d718-s8-rejecting-his-former-self-and-embracing.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:61`
 
 > Malak turns on his master, and Revan is struck down, only to be saved by a young Jedi named Bastila Shan.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak; Revan; Bastila Shan. POV: Bastila Shan; about Darth Malak.
 Note (our notes, around the quote): Darth Malak; Revan; Bastila Shan: "Malak turns on his master, and Revan is struck down, only to be saved by a young Jedi named Bastila Shan." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d718-s8-malak-turns-on-his-master-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:65`
 
 > BBY) After Darth Malak's defeat at the Battle of Rakata Prime, the forces of the Sith fall into chaos.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "BBY) After Darth Malak's defeat at the Battle of Rakata Prime, the forces of the Sith fall into chaos." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d718-s8-bby-after-darth-malaks-defeat-at.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:67`
 
 > The enclave is completely destroyed by Darth Malak during the Jedi Civil War.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "The enclave is completely destroyed by Darth Malak during the Jedi Civil War." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.56
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.56 — full quote as printed](quotes/d718-s56-the-enclave-is-completely-destroyed-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:352`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -2068,19 +2015,16 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Revan defeats Darth Malak in a duel, the Republic defeats the Sith Empire, and the Jedi Civil War comes to an end.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Darth Malak; Revan — entry/section: Knights of the Old Republic Campaign Guide (Saga): "Revan defeats Darth Malak in a duel, the Republic defeats the Sith Empire, and the Jedi Civil War comes to an end." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-revan-defeats-darth-malak-in-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:350`
 
 > SOMETIMES YOU HAVE TO ENTER THE DARKNESS TO SAVE THE LIGHT.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Darth Malak — entry/section: Pull quote: ""SOMETIMES YOU HAVE TO ENTER THE DARKNESS TO SAVE THE LIGHT." —ALEK SQUINQUARGESIMUS" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-sometimes-you-have-to-enter-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:352`
 
 > IF YOU HAD NOT LED ME DOWN THE DARK PATH IN THE FIRST PLACE, WHAT DESTINY WOULD I HAVE FOUND?
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Darth Malak — entry/section: Pull quote: ""IF YOU HAD NOT LED ME DOWN THE DARK PATH IN THE FIRST PLACE, WHAT DESTINY WOULD I HAVE FOUND?" —DARTH MALAK" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.120
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.120 — full quote as printed](quotes/d718-s120-if-you-had-not-led-me.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:416`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -2088,25 +2032,21 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > With Revan's help the Jedi locate the Star Forge—the source of the Sith military's resurgence—and defeat Darth Malak.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan; Darth Malak. POV: Darth Malak; about Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "With Revan's help the Jedi locate the Star Forge—the source of the Sith military's resurgence—and defeat Darth Malak." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131 — full quote as printed](quotes/d718-s131-with-revans-help-the-jedi-locate.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:80`
 
 > Narrowly escaping an orbital bombardment of the Dantooine Jedi Enclave by Darth Malak's forces, Tokare goes on to fight in the final battle over Rakata Prime, where Darth Malak and the Sith are defeated.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak. POV: Darth Malak.
 Note (our notes, around the quote): Darth Malak: "Narrowly escaping an orbital bombardment of the Dantooine Jedi Enclave by Darth Malak's forces, Tokare goes on to fight in the final battle over Rakata Prime, where Darth Malak and the Sith are defeated." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.140
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.140 — full quote as printed](quotes/d718-s140-narrowly-escaping-an-orbital-bombardment-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:190`
 
 > Though the Sith Empire continues to grow for some months under the control of the traitorous Darth Malak, eventually the redeemed Revan slays his former apprentice and shatters the backbone of the reborn Sith Empire.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Darth Malak; Revan — entry/section: Knights of the Old Republic Campaign Guide (Saga): "Though the Sith Empire continues to grow for some months under the control of the traitorous Darth Malak, eventually the redeemed Revan slays his former apprentice and shatters the backbone of the reborn Sith Empire." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147 — full quote as printed](quotes/d718-s147-though-the-sith-empire-continues-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:279`
 
 > They do not have to wait long, for soon Darth Revan and Darth Malak appear, resurrecting the Sith Empire in a Jedi Civil War.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan; Darth Malak. POV: Darth Malak; about Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "They do not have to wait long, for soon Darth Revan and Darth Malak appear, resurrecting the Sith Empire in a Jedi Civil War." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147 — full quote as printed](quotes/d718-s147-they-do-not-have-to-wait.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:281`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption "DARTH REVAN DOES NOT TAKE FAILURE LIGHTLY"; Darth Revan (Jedi Civil War) stats (Human Jedi 7/Jedi Knight 5/Sith apprentice 3/Sith Lord 5, CL 20; feats incl. Triple Attack, Dual Weapon Mastery I; Darth Revan's armor); Darth Malak, Sith Magnus bio begins. (hand-read)
@@ -2120,19 +2060,16 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > The Republic conquest initially goes well, but in time, Malak sees Lord Revan as soft, resulting in a tension that culminates in a lightsaber duel; Malak loses his lower jaw to Revan's blade, necessitating a metallic jaw guard.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Revan; Darth Malak — entry/section: Knights of the Old Republic Campaign Guide (Saga): "The Republic conquest initially goes well, but in time, Malak sees Lord Revan as soft, resulting in a tension that culminates in a lightsaber duel; Malak loses his lower jaw to Revan's blade, necessitating a metallic jaw guard." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157 — full quote as printed](quotes/d718-s157-the-republic-conquest-initially-goes-well.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:375`
 
 > As Revan grows more powerful, Darth Malak orders Darth Bandon to seek out and destroy Revan and his companions.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan; Darth Malak; Darth Bandon. POV: Darth Bandon; about Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak; Darth Bandon: "As Revan grows more powerful, Darth Malak orders Darth Bandon to seek out and destroy Revan and his companions." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157 — full quote as printed](quotes/d718-s157-as-revan-grows-more-powerful-darth.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:379`
 
 > When Darth Revan and Darth Malak return from the Unknown Regions and resurrect the Sith Empire, the exiles in possession of the plans for the Derriphan-class battleship turn the information over to Revan's forces.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan; Darth Malak. POV: Darth Malak; about Darth Malak.
 Note (our notes, around the quote): Revan; Darth Malak: "When Darth Revan and Darth Malak return from the Unknown Regions and resurrect the Sith Empire, the exiles in possession of the plans for the Derriphan-class battleship turn the information over to Revan's forces." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.164
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.164 — full quote as printed](quotes/d718-s164-when-darth-revan-and-darth-malak.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:482`
 
 ## Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -2144,7 +2081,6 @@ Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-sca
 > Kyp Durron (in the expanded Star Wors universe) performed act of dramatic heroism by destroying the Sun Crusher, a super ote Additionally, Jedi history tells of a Jedi named Bastila n Knights of the Old Republic) falling to the dark side, but in an amatic heroism she turned the Republic fleet against Darth Malak ful form of Battie Meditation. accepts the act as being appropriately heroic, dramatic, and Cheracter's Dark Side Score drops to 1, and he clears all but on his Dark Side Score tracker (so that he has a number equal to one less than his Wisdom score).
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Kyp Durron; Sun Crusher (superweapon); Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Kyp Durron; Sun Crusher (superweapon); Bastila Shan; Darth Malak: "Kyp Durron (in the expanded Star Wors universe) performed act of dramatic heroism by destroying the Sun Crusher, a super ote Additionally, Jedi history tells of a Jedi named Bastila n Knights of the Old Republic) falling to the dark side, but in an amatic heroism she turned the Republic fleet against Darth Malak ful form of Battie Meditation. accepts the act as being appropriately heroic, dramatic, and Cheracter's Dark Side Score drops to 1, and he clears all but on his Dark Side Score tracker (so that he has a number equal to one less than his Wisdom score)." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.103
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.103 — full quote as printed](quotes/d723-s103-kyp-durron-in-the-expanded-star.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-061-120.md:224`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -2154,7 +2090,6 @@ Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-sca
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Revan; Darth Malak: "Revan rejects his old ways to destroy Darth Malak and the Star Forge." Source: *Web Articles* (SWRPG Saga Edition), scan p.151
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.151 — full quote as printed](quotes/d732-s151-revan-rejects-his-old-ways-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-121-180.md:284`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)
@@ -2178,7 +2113,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:2
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Darth Malak; Revan — entry/section: Saga Edition Web Articles: "Throughout this Jedi Civil War, Darth Revan was the central figure -- first as the enemy commander, but ultimately as the one who defeated Darth Malak and shattered the Sith forces." Source: *Web Articles* (SWRPG Saga Edition), scan p.326
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.326 — full quote as printed](quotes/d732-s326-throughout-this-jedi-civil-war-darth.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:273`
 
 ## Star Wars Insider #67 (2003)
@@ -2190,7 +2124,6 @@ Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:430`
 > In the end, the Jedi earned a hard-fought victory against the Sith: Lord Revan was destroyed, but many Jedi perished too.
 — Source: Star Wars Insider #67 (2003).
 Note (our notes, around the quote): Revan; Darth Malak — entry/section: Star Wars Insider 067 (2003): KotOR backstory: "In the end, the Jedi earned a hard-fought victory against the Sith: Lord Revan was destroyed, but many Jedi perished too." Source: *Star Wars Insider #67* (2003), scan p.77
-![Quote image: *Star Wars Insider #67* (2003), scan p.77 — full quote as printed](quotes/ins067-s77-in-the-end-the-jedi-earned.jpg)
 Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:432`
 
 ## Star Wars Insider #88 (2006)
@@ -2368,16 +2301,16 @@ Our notes: `notes/materials/006-revans-combat-style-short-summary.md:168`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Era hype quotes for scaling.
 Note (our notes, around the quote): Era hype quotes for scaling: "Not since the days of Darth Revan and Darth Malak have the Sith ruled so convincingly" (p50). There are "hundreds of Sith Lords present in the galaxy" (p96). "Low-level heroes stand no chance of slaying a Sith Lord outright" (p102). But also "the Sith can be defeated, even by rank-and-file soldiers" (p125).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p50 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p96 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p096-oubliette-hundreds-sith.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p102 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p102-sith-overlords.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p125 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p125-sith-elimination.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p50 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p96 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p096-oubliette-hundreds-sith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p102 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p102-sith-overlords.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p125 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p125-sith-elimination.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:43`
 
 > In the Legacy era, there is no balance to the Force. Instead, the dark side of the Force holds sway… Not since the days of Darth Revan and Darth Malak have the Sith ruled so convincingly.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p50.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p50 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p50 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:777`
 
 > no balance to the Force
@@ -2386,7 +2319,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:777`
 > Not since the days of Darth Revan and Darth Malak
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p50.
-Note (our notes, around the quote): ![p50 "no balance to the Force"; "Not since the days of Darth Revan and Darth Malak"](011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
+Note (our notes, around the quote): ![p50 "no balance to the Force"; "Not since the days of Darth Revan and Darth Malak"](../notes/materials/011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
 (*Panel: p50 "no balance to the Force"; "Not since the days of Darth Revan and Darth Malak" — `p050-no-balance-revan-malak.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:788`
 
@@ -2641,9 +2574,9 @@ Our notes: `legends-feats.md:1912`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: > "Not since the days of Darth Revan and Darth Malak have the Sith ruled so convincingly."
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p50 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p102 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p102-sith-overlords.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p125 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p125-sith-elimination.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p50 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p050-no-balance-revan-malak.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p102 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p102-sith-overlords.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p125 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p125-sith-elimination.jpg)
 Our notes: `legends-feats.md:2525`; `notes/materials/011-legacy-era-campaign-guide.md:903`
 
 # Debate and forum claims (unverified)

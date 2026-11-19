@@ -21,7 +21,6 @@ Our notes: `notes/materials/037-sw-d20-folder/158-genius-womp-rat.md:16`
 
 - Note (summary from our notes, not a quotation): Wassak went on to say that these womp rats had fingers and thumbs like he did, and that they wanted to take the droid with them. They surrounded the inert droid chassis, and two of them began dragging it away. When the Jawa drew his blaster, he said all the womp rats reacted like they knew what he had. One charged him." Source: *Genius Womp Rat* (SWRPG d20 Revised Core), scan p.1
   — Source: Creatures/Genius Womp Rat.pdf [Star Wars Roleplaying Game Revised Core (d.
-![Quote image: *Genius Womp Rat* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d158-s1-according-to-his-story-wassak-had.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/158-genius-womp-rat.md:17`
 
 - Note (summary from our notes, not a quotation): Page contents: Wassak story end; conclusions (hands, curiosity about technology, malfunctioning evaporators); stats; GM options (Mon Calamari scientist for the Hutts, hermit trainer, only one, hoax) (hand-read)

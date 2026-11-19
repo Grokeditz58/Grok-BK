@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > For a time, the crime lord Jurga the Hutt wore one on his sash as a symbol of his power. He was eventually disintegrated with it by an irate employee.
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Jurga the Hutt — entry/section: Jurga the Hutt disintegrated.
 Note (our notes, around the quote): Jurga the Hutt — entry/section: Jurga the Hutt disintegrated: "For a time, the crime lord Jurga the Hutt wore one on his sash as a symbol of his power. He was eventually disintegrated with it by an irate employee." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.21
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.21 — full quote as printed](quotes/d663-s21-for-a-time-the-crime-lord.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-001-060.md:116`
 
 # Debate and forum claims (unverified)

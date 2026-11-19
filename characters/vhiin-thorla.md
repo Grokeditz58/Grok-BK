@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/706-04-echoes-of-the-jedi.md:20`
 > When Draco encountered them, a fierce lightsaber duel ensued, and Draco's protégé Raik Muun used trickery to induce Thorla's Padawan into a murderous rage directed at his own master. Thorla was forced to kill his own Padawan in self-defense, and, wracked with grief, was easily captured.
 — Source: Adventures/Dawn of Defiance/04 - Echoes of the Jedi.pdf [Star Wars Rolepl; Vhiin'Thorla; Raik Muun; Valin Draco — entry/section: Adventure Background.
 Note (our notes, around the quote): Vhiin'Thorla; Raik Muun; Valin Draco — entry/section: Adventure Background: "When Draco encountered them, a fierce lightsaber duel ensued, and Draco's protégé Raik Muun used trickery to induce Thorla's Padawan into a murderous rage directed at his own master. Thorla was forced to kill his own Padawan in self-defense, and, wracked with grief, was easily captured." Source: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.3
-![Quote image: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.3 — full quote as printed](quotes/d706-s3-when-draco-encountered-them-a-fierce.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/706-04-echoes-of-the-jedi.md:26`
 
 - Note (summary from our notes, not a quotation): Page contents: Dreamscape; Jedi prisoner Vhiin'Thorla; Universal Energy Cage; Discovery destiny. (hand-read)

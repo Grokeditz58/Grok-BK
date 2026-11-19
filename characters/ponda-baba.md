@@ -30,7 +30,6 @@ Our notes: `notes/materials/037-sw-d20-folder/684-house-rules.md:10`
 > In my case, the thing that seemed lacking from the Star Wars rules was the ability to cut off someone's hand or arm with a lightsaber. Obi-Wan severs Ponda Baba's hand in the cantina on Tatooine. Luke cuts off a wampa's arm on Hoth, and then loses his own arm to a blow from Darth Vader on Bespin. Anakin Skywalker loses his arm on Geonosis, and Vader loses a hand to Luke in the Emperor's throne room on the second Death Star. These dramatic moments in the histories of these characters are exactly the type of thing I'd like to have happen in my own games.
 — Source: Tips and Tactics/House Rules.pdf [Star Wars Roleplaying Game Revised Core.
 Note (our notes, around the quote): Obi-Wan Kenobi; Ponda Baba; Luke Skywalker; Darth Vader (Anakin Skywalker) — entry/section: Lightsaber severings in the films: "In my case, the thing that seemed lacking from the Star Wars rules was the ability to cut off someone's hand or arm with a lightsaber. Obi-Wan severs Ponda Baba's hand in the cantina on Tatooine. Luke cuts off a wampa's arm on Hoth, and then loses his own arm to a blow from Darth Vader on Bespin. Anakin Skywalker loses his arm on Geonosis, and Vader loses a hand to Luke in the Emperor's throne room on the second Death Star. These dramatic moments in the histories of these characters are exactly the type of thing I'd like to have happen in my own games." Source: *House Rules* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *House Rules* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d684-s1-in-my-case-the-thing-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/684-house-rules.md:12`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -78,7 +77,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:921`
 > It's a definite oddity and worth exactly $761 . . . the top bid out of the 61 total bids in your eBay auction. Most impressive.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Sansweet on Ponda Baba/Vader card oddity: ""It's a definite oddity and worth exactly $761 . . . the top bid out of the 61 total bids in your eBay auction. Most impressive." —Steve Sansweet, Star Wars Insider 60, p. 117" Source: *Star Wars Insider #60* (2002), scan p.117
-![Quote image: *Star Wars Insider #60* (2002), scan p.117 — full quote as printed](quotes/ins060-s117-its-a-definite-oddity-and-worth.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:927`
 
 ## Star Wars Insider #95 (2007)

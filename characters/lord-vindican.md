@@ -15,26 +15,22 @@
 > [fragment — full passage not on file]
 — Source: The Sith.
 Note (our notes, around the quote): Exar Kun; Naga Sadow; Darth Jadus; Darth Baras — Profile: Sith Inquisitor: "DARK WEAPONS: Inquisitors unleash the dark side of the Force to destroy everything in their wake. … INFAMOUS RELICS OF DARK KNOWLEDGE: Phobis Devices—instruments of fear; Holocron of Exar Kun, which contains information on Force spirits; The interrogation blade of Yasoma; Holocron of Naga Sadow, which explores the secrets of Sith alchemy NOTABLE SITH INQUISITORS: Darth Jadus, Lord Vindican, Darth Baras, Naga Sadow" Source: The Old Republic Encyclopedia, p.183, sidebar
-![Quote image: The Old Republic Encyclopedia, p.183 — full quote as printed](quotes/tore-p183-dark-weapons-inquisitors-unleash-the-dark.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:474`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:94`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:46`
 
 > NOTABLE WIELDERS: Lord Vindican, Master to Darth Malgus; Exar Kun, ancient fallen Jedi
 > [fragment — full passage not on file]
 — Source: The Sith; Exar Kun; Darth Malgus — Double-bladed data box (top-right).
 Note (our notes, around the quote): Exar Kun; Darth Malgus — Double-bladed data box (top-right): "NOTABLE WIELDERS: Lord Vindican, Master to Darth Malgus; Exar Kun, ancient fallen Jedi" Source: The Old Republic Encyclopedia, p.189, sidebar
-![Quote image: The Old Republic Encyclopedia, p.189 — full quote as printed](quotes/tore-p189-notable-wielders-lord-vindican-master-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:541`
 
 > Jedi Master Kao Cen Darach strikes a surprise fatal blow against Sith Lord Vindican in the battle for Korriban.
 — Source: Species, technology, planets and the future; Kao Cen Darach; Lord Vindican — Korriban caption.
 Note (our notes, around the quote): Kao Cen Darach; Lord Vindican — Korriban caption: "Jedi Master Kao Cen Darach strikes a surprise fatal blow against Sith Lord Vindican in the battle for Korriban." Source: The Old Republic Encyclopedia, p.291, sidebar
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-jedi-master-kao-cen-darach-strikes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:252`
 
 > The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world.
 — Source: Species, technology, planets and the future.
 Note (our notes, around the quote): Darth Malgus; Lord Vindican; Kao Cen Darach; Satele Shan — Return from Exile: "The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world." Source: The Old Republic Encyclopedia, p.291, sidebar
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-the-sith-lord-vindican-and-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:256`
 
 ## https://starwars.fandom.com/wiki/Darth_Malgus

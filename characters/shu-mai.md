@@ -64,7 +64,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1098`
 > Jedi General Aayla Secura and the 327th Star Corps of clone troopers liberated them, and Jedi computer prodigy Ekria calculated that there was a chance to stop the spread of Shu Mai's toxins.
 — Source: scan pages 241–280; Aayla Secura. POV: Aayla Secura, about Shu Mai.
 Note (our notes, around the quote): Aayla Secura: "Jedi General Aayla Secura and the 327th Star Corps of clone troopers liberated them, and Jedi computer prodigy Ekria calculated that there was a chance to stop the spread of Shu Mai's toxins." Source: The Complete Star Wars Encyclopedia, Vol. I, p.262
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.262 — full quote as printed](quotes/v1-p262-jedi-general-aayla-secura-and-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:240`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -72,7 +71,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > After hiding on Utapau, the Separatist leadership was taken to Mustafar, It was there, after Darth Sidious had lured Anakin Skywalker to the dark side, that Darth Vader quickly killed Shu Mai before going after the rest of the Separatist leaders.
 — Source: scan pages 281–320; Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker): "After hiding on Utapau, the Separatist leadership was taken to Mustafar, It was there, after Darth Sidious had lured Anakin Skywalker to the dark side, that Darth Vader quickly killed Shu Mai before going after the rest of the Separatist leaders." Source: The Complete Star Wars Encyclopedia, Vol. II, p.277
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.277 — full quote as printed](quotes/v2-p277-after-hiding-on-utapau-the-separatist.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:22`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)

@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > There he joined Han Solo and a ragtag team of starfaring adventurers to defeat Serji-X Arrogantus.
 — Source: scan pages 121–160; Han Solo. POV: Han Solo, about Serji-X Arrogantus.
 Note (our notes, around the quote): Han Solo: "There he joined Han Solo and a ragtag team of starfaring adventurers to defeat Serji-X Arrogantus." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-there-he-joined-han-solo-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:227`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

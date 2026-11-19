@@ -163,13 +163,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:105
 > Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice.
 — Source: Part Two: The Fall of the Republic; Aurra Sing kills Sharad Hett. POV: Aurra Sing kills Sharad Hett.
 Note (our notes, around the quote): Aurra Sing kills Sharad Hett: "Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice." Source: The New Essential Chronology, p.45
-![Quote image: The New Essential Chronology, p.45 — full quote as printed](quotes/nec-p45-aurra-sing-kills-sharad-hett.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:141`
 
 > Aayla, however, proved more resourceful than Aurra Sing had anticipated. In a lightsaber duel that became a test of wills, Aayla defeated the notorious mercenary and rescued the wounded Jedi.
 — Source: Part Two: The Fall of the Republic; Aayla Secura — Aayla defeats Aurra Sing.
 Note (our notes, around the quote): Aayla Secura — Aayla defeats Aurra Sing: "Aayla, however, proved more resourceful than Aurra Sing had anticipated. In a lightsaber duel that became a test of wills, Aayla defeated the notorious mercenary and rescued the wounded Jedi." Source: The New Essential Chronology, p.65
-![Quote image: The New Essential Chronology, p.65 — full quote as printed](quotes/nec-p65-aayla-defeats-aurra-sing.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:313`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -177,7 +175,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Kwannot A remote planet where Aurra Sing killed Jedi Master Mana Veridi and nearly took the lives of Qui-Gon Jinn and Obi-Wan Kenobi before the Battle of Naboo.
 — Source: scan pages 241–280; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Kwannot A remote planet where Aurra Sing killed Jedi Master Mana Veridi and nearly took the lives of Qui-Gon Jinn and Obi-Wan Kenobi before the Battle of Naboo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.237
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.237 — full quote as printed](quotes/v2-p237-kwannot-a-remote-planet-where-aurra.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:34`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -185,13 +182,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Aayla Secura severed the antenna during her duel with Aurra Sing on Devaron.
 — Source: scan pages 81–120; Aayla Secura. POV: Aayla Secura, about Aurra Sing.
 Note (our notes, around the quote): Aayla Secura: "Aayla Secura severed the antenna during her duel with Aurra Sing on Devaron." Source: The Complete Star Wars Encyclopedia, Vol. III, p.98
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.98 — full quote as printed](quotes/v3-p98-aayla-secura-severed-the-antenna-during.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:197`
 
 > Secura defeated the bounty hunter Aurra Sing on Devaron by slicing off the antenna that sprouted from Sing's head.
 — Source: scan pages 121–160; Aayla Secura — entry/section: Secura, Aayla.
 Note (our notes, around the quote): Aayla Secura — entry/section: Secura, Aayla: "Secura defeated the bounty hunter Aurra Sing on Devaron by slicing off the antenna that sprouted from Sing's head." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-secura-defeated-the-bounty-hunter-aurra.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:147`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -241,7 +236,6 @@ Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:10`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Aurra Sing; Zam Wesell — entry/section: Two deadly bounty hunters: "This time out, we've got a pair of slimy Hutts (for a change) that became the targets, and then the victims, of two deadly bounty hunters: Wallanooga, one-time owner of the Jedi stalker Aurra Sing, and Dreddon, who met his end at the hands of the shapeshifter Zam Wesell." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d090-s1-this-time-out-weve-got-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:12`
 
 > Hutt!", the recurring web feature that once woke up in an alley on Anchorhead with only three credits to its name, a Li'l Oola™ doll tucked in its belt, and Gardulla the Hutt's Holonet ID number inexplicably tattooed on its forearm. This time out, we've got a pair of slimy Hutts (for a change) that became the targets, and then the victims, of two deadly bounty hunters: Wallanooga, one­time owner of the Jedi stalker Aurra Sing, and Dreddon, who met his end at the hands of the shapeshifter Zam Wesell. Wallanooga Don't Call Him "One­Eye" Years before the Trade Federation's blockade of Naboo, the notorious Jedi killer Aurra Sing was herself a Jedi trainee apprenticed to the Dark Woman, a Jedi Master so devoted to the Force she had even forsaken her own name. Sennex pirates captured young Aurra on Ord Namurt, and her master believed the girl was lost. The pirates told Aurra that her master had abandoned her, and her hatred for the Jedi grew. She was soon purchased by Wallanooga the Hutt, who had her trained by Anzati assassins. Wallanooga, known alternately as both Walla and Nooga, is a tough old Hutt with an eye patch over his left eye and extensive interests in the ongoing Outer Rim slave trade that the Republic never seemed able ­­ or willing ­­ to stamp out. He's also the Hutt to see if you're looking to hire top­quality assassins and price is no object.
@@ -249,7 +243,6 @@ Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Aurra Sing; An'ya Kuro (Dark Woman) — entry/section: Aurra Sing's capture and sale: "Years before the Trade Federation's blockade of Naboo, the notorious Jedi killer Aurra Sing was herself a Jedi trainee apprenticed to the Dark Woman, a Jedi Master so devoted to the Force she had even forsaken her own name. Sennex pirates captured young Aurra on Ord Namurt, and her master believed the girl was lost. The pirates told Aurra that her master had abandoned her, and her hatred for the Jedi grew. She was soon purchased by Wallanooga the Hutt, who had her trained by Anzati assassins." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d090-s1-years-before-the-trade-federations-blockade.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:14`
 
 > Wallanooga enjoys working with the Anzati and admires their innate cruelty. He finds it almost Hutt­like. Heroes might encounter Wallanooga as an enemy boss, or he could hire them for a job related to slaving, assassination, or gun­running. Reportedly, Aurra Sing killed Wallanooga after training with the Anzati, but heroes can encounter the monocular Hutt several years before the Battle of Naboo. Wallanooga (circa Episode I): Male Hutt Noble 3/Scoundrel 3/Crime Lord 8; Init ­3 (­2 Dex, ­1 size); Defense 15 (­2 Dex, +8 class, ­1 size); Spd 2 m; VP/WP 91/20; Atk +8/+3 melee (1d3+1, unarmed strike), +5/+0 ranged (3d6 +4, Anzati assassin's blaster); SQ +6 bonus on Will saves against mind­ affecting Force powers, bonus class skill (Gather Information), can't be knocked prone, favor +4, contact (Aurra Sing), contact (Sennex Pirate captain), contact (Torgo Than, Anzati assassin), exceptional minions, illicit barter, inspire confidence, inspire fear ­4, lucky (1/day), precise attack +1, resource access; SV Fort +7, Ref +7, Will +13; SZ L; Face/Reach 2m by 4m/2m; FP 3; DSP 20; Rep +13; Str 13, Dex 6, Con 17, Int 11, Wis 16, Cha 18. Challenge Code E. Equipment: Anzati assassin's blaster (damage +4), organized crime holdings (assassination, gunrunning, slavery), several palatial estates, personal star yacht, repulsorsled, slaves.
@@ -257,7 +250,6 @@ Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:14`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Aurra Sing — entry/section: Aurra Sing kills Wallanooga: "Reportedly, Aurra Sing killed Wallanooga after training with the Anzati, but heroes can encounter the monocular Hutt several years before the Battle of Naboo." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d090-s1-reportedly-aurra-sing-killed-wallanooga-after.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:16`
 
 > Feats: Frightful Presence, Infamy, Influence, Skill Emphasis (Intimidate), Stamina, Toughness, Weapon Group Proficiency (blaster pistols, simple weapons). Dreddon The Ol' Double Double­Cross Dreddon, like most Hutts, had a voracious appetite for crime (among other things) but generally was loathe to eliminate his enemies personally. About halfway between the Battle of Naboo and the onset of the Clone Wars, Dreddon traveled throughout the Outer Rim selling weapons. (He picked up much of the late Wallanooga's gunrunning business when the one­eyed Hutt was killed by Aurra Sing.) He met his end five years before the Battle of Geonosis, when Zam Wesell took a contract on his life. The man who had hired her, the Black Sun Vigo Antonin, was killed by Jango Fett before she could collect her pay. In the end, neither hunter was rewarded ­­ as it turned out, Dreddon was the one who'd hired Fett. Heroes might encounter Dreddon the Hutt on almost any Outer Rim world with a spaceport. Though he prefers to have others do his killing, he loves to travel and usually handles transactions personally. Dreddon sells large lots of basic weapons at a discount to anyone who can afford them, and also carries many specialized weapons.
@@ -265,7 +257,6 @@ Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:16`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Zam Wesell; Jango Fett; Aurra Sing — entry/section: The double double-cross: "(He picked up much of the late Wallanooga's gunrunning business when the one-eyed Hutt was killed by Aurra Sing.) He met his end five years before the Battle of Geonosis, when Zam Wesell took a contract on his life. The man who had hired her, the Black Sun Vigo Antonin, was killed by Jango Fett before she could collect her pay. In the end, neither hunter was rewarded -- as it turned out, Dreddon was the one who'd hired Fett." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d090-s2-he-picked-up-much-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:27`
 
 ## Jedi Counselling/Jedi Counseling 59.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -277,7 +268,6 @@ Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:15`
 > A: A character is only considered to make melee attacks if they have the Melee Attack special ability. Aurra Sing doesn't have it, so her attacks are considered to be nonmelee attacks. Thus, Mace Windu can't use Lightsaber Block to stop her attacks.
 — Source: Jedi Counselling/Jedi Counseling 59.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Aurra Sing; Mace Windu — entry/section: Aurra Sing's lightsaber attacks aren't melee: "A: A character is only considered to make melee attacks if they have the Melee Attack special ability. Aurra Sing doesn't have it, so her attacks are considered to be nonmelee attacks. Thus, Mace Windu can't use Lightsaber Block to stop her attacks." Source: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d226-s2-a-a-character-is-only-considered.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:22`
 
 - Note (summary from our notes, not a quotation): Aurra Sing; Obi-Wan Kenobi — entry/section: Aurra Sing's Careful Shot against an adjacent General Kenobi: "Q: I played a game last night where Aurra Sing ended up in melee with General Kenobi. Can she claim the +4 for Careful Shot when she is technically "in melee," or does the rule assume shooting at close range?
@@ -288,7 +278,6 @@ Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:24`
 > [fragment — full passage not on file]
 — Source: Jedi Counselling/Jedi Counseling 59.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): A: Again, in the Star Wars Miniatures Game, there is no such thing as "in melee." There are only "melee attacks," and those are only produced by characters with the Melee Attack special ability. A character with Melee Attack can only attack an adjacent foe; however, the opposite ("A character without Melee Attack can't attack an adjacent foe") is not true. Furthermore, you can target an adjacent foe with a special ability unless the special ability's rules specifically say otherwise. Therefore, Aurra Sing can indeed use Careful Shot against an adjacent target." Source: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d226-s2-q-i-played-a-game-last.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:25`
 
 ## Jedi Counselling/Jedi Counseling 84.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -326,7 +315,6 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Aurra Sing — entry/section: Aurra Sing's Czerka Adventurer.
 Note (our notes, around the quote): Aurra Sing — entry/section: Aurra Sing's Czerka Adventurer: "the Czerka Adventurer is used by bounty hunters such as Aurra Sing, since its presence does not trip as many weapon detectors as a large blaster would." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.23
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.23 — full quote as printed](quotes/d663-s23-the-czerka-adventurer-is-used-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-001-060.md:128`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -382,7 +370,6 @@ Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:185`
 > They said she's a bounty hunter, ruthless, she kills people. I later learned from the comics that she has six Jedi lightsabers.
 — Source: Star Wars Insider #50 (2000).
 Note (our notes, around the quote): Aurra Sing — entry/section: Michonne Bourriague interview (Kevin Fitzpatrick), printed p. 36: "They said she's a bounty hunter, ruthless, she kills people. I later learned from the comics that she has six Jedi lightsabers." Source: *Star Wars Insider #50* (2000), scan p.36
-![Quote image: *Star Wars Insider #50* (2000), scan p.36 — full quote as printed](quotes/ins050-s36-they-said-shes-a-bounty-hunter.jpg)
 Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:197`
 
 > the bounty hunter who has Jedi for breakfast
@@ -394,7 +381,6 @@ Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:207`
 > Now you can own an 8 x 10 glossy of the bounty hunter who has Jedi for breakfast.
 — Source: Star Wars Insider #50 (2000).
 Note (our notes, around the quote): Aurra Sing — entry/section: Jawa Trader signed photo ad, printed p. 38: "Now you can own an 8 x 10 glossy of the bounty hunter who has Jedi for breakfast." Source: *Star Wars Insider #50* (2000), scan p.38
-![Quote image: *Star Wars Insider #50* (2000), scan p.38 — full quote as printed](quotes/ins050-s38-now-you-can-own-an-8.jpg)
 Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:209`
 
 ## Star Wars Insider #51 (2000)
@@ -403,7 +389,6 @@ Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:209`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #51 (2000).
 Note (our notes, around the quote): Aurra Sing — entry/section: Jawa Trader catalog ad copy (Aurra Sing signed photo), printed p. 41: "She's a lean, mean hunting machine and the Jawa Trader's got her! Now you can own an 8 x 10" glossy of the bounty hunter who has Jedi for breakfast" Source: *Star Wars Insider #51* (2000), scan p.41
-![Quote image: *Star Wars Insider #51* (2000), scan p.41 — full quote as printed](quotes/ins051-s41-shes-a-lean-mean-hunting-machine.jpg)
 Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:225`
 
 ## Star Wars Insider #52 (2000)
@@ -452,7 +437,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:382`
 > I had so much fun! Aurra Sing has a pretty large fan base considering she only had three seconds of screen time. I've learned that Star Wars fans will analyze scenes, and they want information on anything they don't know much about.
 — Source: Star Wars Insider #57 (2001); Aurra Sing — entry/section: Aurra Sing's fan base.
 Note (our notes, around the quote): Aurra Sing — entry/section: Aurra Sing's fan base: ""I had so much fun! Aurra Sing has a pretty large fan base considering she only had three seconds of screen time. I've learned that Star Wars fans will analyze scenes, and they want information on anything they don't know much about." —Michonne Bourriague, Star Wars Insider 57, p. 60" Source: *Star Wars Insider #57* (2001), scan p.49
-![Quote image: *Star Wars Insider #57* (2001), scan p.49 — full quote as printed](quotes/ins057-s49-i-had-so-much-fun-aurra.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:384`
 
 - Note (summary from our notes, not a quotation): Page contents: Convention diary cont. (magazine p. 61): meeting Dave Prowse at a signing; a fan in Aurra Sing costume; "Japan Tour 2000" with Jeremy Bulloch, Jerome Blake and Paul Blake - six cities in ten days, a high school visit in Osaka with 700 students. Photo captions: Osaka view; Japan Tour 2000. Fan names omitted. (hand-read)

@@ -20,19 +20,16 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > The first was Naroon Cuthus, who was so efficient that Jabba ultimately had to eliminate him; he knew far too much to live. A pair of ambitious smugglers replaced Cuthus: Bidlo Kwerve, a Corellian, and Bib Fortuna, a Twi'lek. Jabba played them against each other to prevent either from becoming a threat to him, but Fortuna eventually got the upper hand. Kwerve received the dubious distinction of becoming the first being Jabba fed to his pet rancor.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Ephant Mon; Bib Fortuna — entry/section: Jabba the Hutt: "The first was Naroon Cuthus, who was so efficient that Jabba ultimately had to eliminate him; he knew far too much to live. A pair of ambitious smugglers replaced Cuthus: Bidlo Kwerve, a Corellian, and Bib Fortuna, a Twi'lek. Jabba played them against each other to prevent either from becoming a threat to him, but Fortuna eventually got the upper hand. Kwerve received the dubious distinction of becoming the first being Jabba fed to his pet rancor." Source: *Secrets of Tatooine* (SWRPG d20), scan p.35
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.35 — full quote as printed](quotes/d045-s35-the-first-was-naroon-cuthus-who.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:196`
 
 > (Ultimately, Ephant Mon earned Jabba's scorn because of his respect for the Jedi powers of Luke Skywalker — but that respect also enabled him to outlive Jabba.)
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Ephant Mon; Jabba the Hutt; Luke Skywalker — entry/section: Jabba the Hutt: "(Ultimately, Ephant Mon earned Jabba's scorn because of his respect for the Jedi powers of Luke Skywalker — but that respect also enabled him to outlive Jabba.)" Source: *Secrets of Tatooine* (SWRPG d20), scan p.35
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.35 — full quote as printed](quotes/d045-s35-ultimately-ephant-mon-earned-jabbas-scorn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:198`
 
 > While unswervingly loyal to Jabba, Ephant Mon is hardly an exemplary individual. Throughout his long life, he has been a mercenary, a slaver, and has even tangled with the Jedi—once actually kidnapping the daughter of Cerean Jedi Master Ki-Adi-Mundi. The Chevin has survived for so long largely by betraying his business associates faster than they can betray him.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Ephant Mon; Ki-Adi-Mundi — entry/section: Ephant Mon.
 Note (our notes, around the quote): Ephant Mon; Ki-Adi-Mundi — entry/section: Ephant Mon: "While unswervingly loyal to Jabba, Ephant Mon is hardly an exemplary individual. Throughout his long life, he has been a mercenary, a slaver, and has even tangled with the Jedi—once actually kidnapping the daughter of Cerean Jedi Master Ki-Adi-Mundi. The Chevin has survived for so long largely by betraying his business associates faster than they can betray him." Source: *Secrets of Tatooine* (SWRPG d20), scan p.51
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.51 — full quote as printed](quotes/d045-s51-while-unswervingly-loyal-to-jabba-ephant.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:318`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)

@@ -30,7 +30,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-06
 > He grinned tightly, remembering what Vega would say: “if” is just a short way of saying, “we're doomed.”
 — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,; Vega Sepen; Uldir Lochett — entry/section: Vega Sepen.
 Note (our notes, around the quote): Vega Sepen; Uldir Lochett — entry/section: Vega Sepen: "He grinned tightly, remembering what Vega would say: “if” is just a short way of saying, “we're doomed.”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.15
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.15 — full quote as printed](quotes/d057-s15-he-grinned-tightly-remembering-what-vega.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-060.md:95`
 
 - Note (summary from our notes, not a quotation): Page contents: Battle on Bonadan: Uldir hauls Klin-Fa back aboard one-handed while she deflects bolts, and flies into a Bonadan weather-control 'sweeper storm' built for maximum ionization (hand-read)
@@ -43,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-06
 > Now I'd need a professional opinion.”
 — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,; Uldir Lochett — entry/section: Uldir Lochett.
 Note (our notes, around the quote): Uldir Lochett — entry/section: Uldir Lochett: "“It wasn't before I met you,” Uldir replied. "Now I'd need a professional opinion.”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.16
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.16 — full quote as printed](quotes/d057-s16-it-wasnt-before-i-met-you.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-060.md:104`
 
 - Note (summary from our notes, not a quotation): Page contents: Battle on Bonadan: Uldir senses a Force use that 'felt somehow wrong' from Klin-Fa before the crash; he swims her through the flash flood to a cave and calls Vega on a trace-scrambled comlink ("Hey, boss-boy") (hand-read)
@@ -71,7 +69,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 > “Tve been making mistakes since the moment|first saw you. Why should things be different now?”
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Uldir Lochett — entry/section: Emissary of the Void.
 Note (our notes, around the quote): Uldir Lochett — entry/section: Emissary of the Void: "“Tve been making mistakes since the moment|first saw you. Why should things be different now?”" Source: *Star Wars Gamer 09* (SWRPG d20), scan p.17
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.17 — full quote as printed](quotes/d058-s17-tve-been-making-mistakes-since-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-060.md:98`
 
 > "It'll turn around, eventually," Uldir said. "Now that Master Skywalker has plans in motion." "You put an awful lot of faith in him," Vega said. "It's not faith. Faith is something you accept without proof. Master Skywalker and the Jedi have proven themselves time and again. It's the government of the New Republic that's gumming things up." "Don't be too sure," Vega said. "The Jedi are all well and good, but they aren't invincible."
@@ -79,7 +76,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Emissary of the Void Part II pdf x.txt (text copy `MEGA_Emissary_of_the_Void_Part_II_pdf_x`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 Note (our notes, around the quote): Uldir Lochett — entry/section: Emissary of the Void: "“It's not faith, Faith is something you accept without proof. Master Skywalker and the Jedi have proven themselves time and again." Source: *Star Wars Gamer 09* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.18 — full quote as printed](quotes/d058-s18-its-not-faith-faith-is-something.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-060.md:105`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -95,7 +91,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 > But the dark side can never be the answer.|didn't learn a lot at the Jedi academy, but|did learn that.
 — Source: Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20,; Uldir Lochett — entry/section: Uldir on the dark side.
 Note (our notes, around the quote): Uldir Lochett — entry/section: Uldir on the dark side: "But the dark side can never be the answer.|didn't learn a lot at the Jedi academy, but|did learn that." Source: *Star Wars Gamer 10* (SWRPG d20), scan p.14
-![Quote image: *Star Wars Gamer 10* (SWRPG d20), scan p.14 — full quote as printed](quotes/d059-s14-but-the-dark-side-can-never.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-060.md:97`
 
 - Note (summary from our notes, not a quotation): Page contents: War on Wayland: Uldir launches a modified A-wing under cover of jettisoned garbage; Vega torches a coralskipper with the Luck's ion drive and escapes; dovin basal voids swallow concussion missiles, torps and blaster bolts (hand-read)
@@ -160,7 +155,6 @@ Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:326`
 — Source: Star Wars Insider #63 (2002).
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 Note (our notes, around the quote): Uldir Lochett — entry/section: Emissary of the Void: Uldir on anger: ""But you can't turn inward and imagine that not all of us have lost something. And you can't give in to your anger. My Jedi training may have been a bust, but I know that much. Anger isn't good for anyone, Jedi or no. It just feels that way." —Uldir Lochett, Star Wars Insider 63, p. 51" Source: *Star Wars Insider #63* (2002), p.51
-![Quote image: *Star Wars Insider #63* (2002), p.51 — full quote as printed](quotes/ins063-p51-but-you-cant-turn-inward-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:328`
 
 - Note (summary from our notes, not a quotation): Page contents: Fiction cont.: Uldir on why he is a rescue pilot; the Yuuzhan Vong slave transport and four coralskippers; Klin-Fa's plan to breach the hull at the dovin basal's dead spot; Vook duels Vintul Qat. (hand-read)
@@ -204,7 +198,6 @@ Our notes: `notes/materials/038-star-wars-insider/064-ins064.md:361`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from novels tmp emissary of the void eov 06 emissary (text copy `novels_tmp_emissary_of_the_void_eov_06_emissary_pdf_8e6972240a`).)
 (Full sentence/passage taken from the source text on file: `novels_tmp_emissary_of_the_void_eov_06_emissary_pdf`.)
 Note (our notes, around the quote): Luke Skywalker; Uldir Lochett — entry/section: Luke on Uldir's peculiar relationship with the Force: ""The Force is with you, Uldir," Skywalker said. "You just have a peculiar relationship with it. I missed that, back when you were at the academy, though I think Master Ikrit understood. ... You don't command the Force, no. You don't use it as a tool. You aren't built that way, somehow. But you are a part of the living Force in a way which few Jedi ever manage to be." —Luke Skywalker, Star Wars Insider 64, p. 65" Source: *Star Wars Insider #64* (2002), scan p.65
-![Quote image: *Star Wars Insider #64* (2002), scan p.65 — full quote as printed](quotes/ins064-s65-the-force-is-with-you-uldir.jpg)
 Our notes: `notes/materials/038-star-wars-insider/064-ins064.md:363`
 
 ## NJO 7, *Edge of Victory I: Conquest* (Greg Keyes, Del Rey 2001): FULL consecutive re-read (2026-11-16 CST)

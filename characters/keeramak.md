@@ -14,7 +14,6 @@
 > Harris and his plans were discovered by Prime Minister Cundertol and Han and Leia Organa Solo after an explosion ripped through the arena where the Keeramak was consecrating the planet.
 — Source: scan pages 1–40; Leia Organa Solo. POV: Leia Organa Solo, about Keeramak.
 Note (our notes, around the quote): Leia Organa Solo: "Harris and his plans were discovered by Prime Minister Cundertol and Han and Leia Organa Solo after an explosion ripped through the arena where the Keeramak was consecrating the planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.22
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.22 — full quote as printed](quotes/v2-p22-harris-and-his-plans-were-discovered.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:193`
 
 - Note (summary from our notes, not a quotation): Page contents: 1066 words, 38 paragraphs | headings/entries: Keely, Jobe; Keeper; Keeper; Kee-Piru; Keeramak; Keesa; Kegan; Kei; Keiffler Brothers; Keitumite Mutual Military Treaty; Kek, Bolton; Kel, Waxarn; Kelad'den; Keldabe

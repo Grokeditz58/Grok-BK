@@ -26,13 +26,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Nearly a century after the defeat of the Yuuzhan Vong and the establishment of the Galactic Alliance, a powerful and influential Jedi named Kol Skywalker champions a cause that many see as risky, even dangerous.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kol Skywalker. POV: Kol Skywalker.
 Note (our notes, around the quote): Kol Skywalker: "Nearly a century after the defeat of the Yuuzhan Vong and the establishment of the Galactic Alliance, a powerful and influential Jedi named Kol Skywalker champions a cause that many see as risky, even dangerous." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.7
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.7 — full quote as printed](quotes/d719-s7-nearly-a-century-after-the-defeat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:49`
 
 > Kol Skywalker is killed, and many presume that his son, Cade, is killed as well.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kol Skywalker; Cade Skywalker.
 Note (our notes, around the quote): Kol Skywalker; Cade Skywalker: "Kol Skywalker is killed, and many presume that his son, Cade, is killed as well." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.27
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.27 — full quote as printed](quotes/d719-s27-kol-skywalker-is-killed-and-many.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:214`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -44,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Kol is killed in the Ossus massacre.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kol Skywalker. POV: Kol Skywalker.
 Note (our notes, around the quote): Kol Skywalker: "Kol is killed in the Ossus massacre." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.196
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.196 — full quote as printed](quotes/d719-s196-kol-is-killed-in-the-ossus.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:127`
 
 - Note (summary from our notes, not a quotation): Page contents: Cade Skywalker stat block CL 11 (Medium Human Jedi 3/scout 5/soldier 1/bounty hunter 2; Strong in the Force; Dark Side 4; Force powers dark transfer, Force disarm, Force thrust, move object; Power of the Dark Side; possessions blast vest, Kol Skywalker's lightsaber, modified double-barreled blaster carbine (no stock)). Chak stat block CL 8 (Medium Wookiee scoundrel 5/scout 3). Caption label: "KEE AND CHAK". (hand-read)
@@ -341,7 +338,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:77`; `notes/materials/013-legac
 Note (our notes, around the quote): #19: Cade beats Nihl and refuses to kill him (p425–427). He crosses sabers with Krayt and taunts him about his illness (p429–430). Corde shoots Krayt through the window (p433). Cade leaps from the tower and Syn catches him at the *Mynock*'s hatch (p434–437). Krayt: "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM." (p438). Calixte, alone with the hologram of Kol and baby Cade: "RUN." (p442)
 Our notes: `notes/materials/009-legacy-book-1.md:78`
 
-- Note (summary from our notes, not a quotation): ![p353 Kol's lightsaber displayed as a trophy](009-legacy-book-1-panels/p353-krayt-sith-born-within-jedi.jpg)
+- Note (summary from our notes, not a quotation): ![p353 Kol's lightsaber displayed as a trophy](../notes/materials/009-legacy-book-1-panels/p353-krayt-sith-born-within-jedi.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p353 Kol's lightsaber displayed as a trophy — `p353-krayt-sith-born-within-jedi.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:210`
@@ -362,17 +359,17 @@ Our notes: `notes/materials/009-legacy-book-1.md:550`
 Context: 3. Kills Kol Skywalker with Force lightning, as part of a group. p19 (#1 Broken)–p24 (#1 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:665`
 
-- Note (summary from our notes, not a quotation): ![p19 Kol holds the landing pad](009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
+- Note (summary from our notes, not a quotation): ![p19 Kol holds the landing pad](../notes/materials/009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p19 Kol holds the landing pad — `p019-kol-none-of-you-will-pass.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:668`
 
-- Note (summary from our notes, not a quotation): ![p22 Nihl's lightning on Kol](009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
+- Note (summary from our notes, not a quotation): ![p22 Nihl's lightning on Kol](../notes/materials/009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p22 Nihl's lightning on Kol — `p022-nihl-lightning-kills-kol.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:671`
 
-- Note (summary from our notes, not a quotation): ![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p24 Kol dies among dead Sith](../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p24 Kol dies among dead Sith — `p024-kol-dies-amid-slain-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:674`
@@ -410,14 +407,14 @@ Our notes: `notes/materials/009-legacy-book-1.md:925`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Kol Skywalker (130 ABY). He holds the Ossus landing pad against Sith and troopers, killing several (bodies drawn around him, p24). He dies in Nihl's lightning (p19 (#1 Broken)–p24 (#1 Broken)). His body vanishes like a Master's: Nei Rin, "WITHIN THE FLAMES, HIS BODY DISAPPEARED." (p290 (#12 Ghosts)). As a ghost (p416): "THAT WHICH CAN HEAL CAN ALSO BREAK." His crystal was "CHARRED FROM THE INTENSITY OF THE BATTLE" (p306). Flashback (p238): "MORRIGAN, I'M A JEDI -- I CAN FEEL YOUR EMOTIONS." Handbook (p464): "one of the leaders of the Jedi Council", "A master tactician…".
-![p306 Nei Rin gives Kol's lightsaber](009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
-![p19 Kol holds the landing pad](009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
-![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
-![p238](009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
-![p416](009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
+![p306 Nei Rin gives Kol's lightsaber](../notes/materials/009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
+![p19 Kol holds the landing pad](../notes/materials/009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
+![p24 Kol dies among dead Sith](../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+![p238](../notes/materials/009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
+![p416](../notes/materials/009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:948`
 
-- Note (summary from our notes, not a quotation): ![p306 Nei Rin gives Kol's lightsaber](009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
+- Note (summary from our notes, not a quotation): ![p306 Nei Rin gives Kol's lightsaber](../notes/materials/009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p306 Nei Rin gives Kol's lightsaber — `p306-kol-lightsaber-lambent-crystal.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:950`
@@ -509,7 +506,7 @@ Our notes: `notes/materials/010-legacy-war.md:104`
 Context: 4. Healing: his own statement of the cost; Corde healed through the light side. p51–55 (#3)
 Our notes: `notes/materials/010-legacy-war.md:341`; `notes/materials/014-dissecting-legacy-1-cade-skywalkers-ending-growth.md:46`
 
-- Note (summary from our notes, not a quotation): ![p54 Kol's ghost; Cade's eyes flare red](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
+- Note (summary from our notes, not a quotation): ![p54 Kol's ghost; Cade's eyes flare red](../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p54 — `p054-kol-ghost-cade-red-eyes-forgiveness.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:349`
@@ -538,14 +535,14 @@ Our notes: `notes/materials/010-legacy-war.md:510`
 >
 > YOU CANNOT HEAR ME, DARLING. FEEL WHAT I SAY. KNOW THAT I LOVE YOU. ALWAYS AND FOREVER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Kol (p54–55, #3).
-![p54 Kol's ghost; Cade's eyes flare red](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
-![p55 "I FORGIVE YOU, MOM."](010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
+![p54 Kol's ghost; Cade's eyes flare red](../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
+![p55 "I FORGIVE YOU, MOM."](../notes/materials/010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
 Our notes: `notes/materials/010-legacy-war.md:865`
 
 - Note (summary from our notes, not a quotation): Visible and audible to Cade only. Corde reacts ("KOL?") but cannot hear him.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Kol (p54–55, #3): "THEN HEAL HER FOR ME, SON." · "NEVER MORE THAN YOU COULD DO, SON." · "I FORGIVE YOU, MY LOVE." · "YOU CANNOT HEAR ME, DARLING. FEEL WHAT I SAY. KNOW THAT I LOVE YOU. ALWAYS AND FOREVER."
-![p54 Kol's ghost and Cade](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg) *(p54)*
+![p54 Kol's ghost and Cade](../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg) *(p54)*
 Our notes: `notes/materials/010-legacy-war.md:866`
 
 > WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?
@@ -554,7 +551,7 @@ Our notes: `notes/materials/010-legacy-war.md:866`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (Full sentence/passage taken from the source text on file: `novels_tmp_star_by_star_star_by_star_epub`.)
 Note (our notes, around the quote): Luke (p130, #6): a glowing outline behind Cade in the cockpit. His only line: "WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?" Cade answers: "WHAT IF *YOU* ARE?"
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:868`
 
 > figment vs real ghost
@@ -562,7 +559,7 @@ Our notes: `notes/materials/010-legacy-war.md:868`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; The page leaves the.
 Label in our notes: question open (cf. 009 p472
 Context: Luke (p130, #6): a glowing outline behind Cade in the cockpit. His only line: "WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?" Cade answers: "WHAT IF *YOU* ARE?"
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
 Our notes: `notes/materials/010-legacy-war.md:869`
 
 > You are a Jedi. Time to choose your own path.
@@ -595,13 +592,13 @@ Our notes: `notes/materials/010-legacy-war.md:1143`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; The Ossus Project.
 Label in our notes: The second phase is (p7
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:66`
 
 > a powerful and influential Jedi named Kol Skywalker
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p7 timeline: Galactic Alliance, Ossus Project (.
-Note (our notes, around the quote): ![p7 timeline: Galactic Alliance, Ossus Project ("a powerful and influential Jedi named Kol Skywalker"), Sith-Imperial War](011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+Note (our notes, around the quote): ![p7 timeline: Galactic Alliance, Ossus Project ("a powerful and influential Jedi named Kol Skywalker"), Sith-Imperial War](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
 (*Panel: p7 timeline: Galactic Alliance, Ossus Project ("a powerful and influential Jedi named Kol Skywalker"), Sith-Imperial War — `p007-timeline.jpg`*)
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p7.
 Also noted as: p7: "a powerful and influential Jedi named Kol Skywalker".
@@ -620,21 +617,21 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:261`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p196.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:567`
 
 > Kol is killed in the Ossus massacre. He falls while fighting off a torrent of Sith attackers, including Darth Nihl. His death enables other Jedi to escape, including Jedi Master Wolf Sazen, Cade Skywalker, Shado Vao, and many younglings and Padawans.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p196.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
-![p196 Kol Skywalker CL 14](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p196-i-am-kol-skywalker-servant-of.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![p196 Kol Skywalker CL 14](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p196-i-am-kol-skywalker-servant-of.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:569`
 
 > I AM KOL SKYWALKER, SERVANT OF THE LIVING FORCE. NONE OF YOU WILL PASS!
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Pull quote. POV: Pull quote.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p196-i-am-kol-skywalker-servant-of.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p196-i-am-kol-skywalker-servant-of.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kol Skywalker — entry/section: Pull quote.
 Also noted as: Kol Skywalker — entry/section: Pull quote: ""I AM KOL SKYWALKER, SERVANT OF THE LIVING FORCE. NONE OF YOU WILL PASS!" —KOL SKYWALKER" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.196
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:571`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:125`
@@ -668,10 +665,10 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:578`
 > [fragment — full passage not on file]
 — Source: (debate #115, Bane vs Kol) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Scaling (ANALYSIS): his UtF (+20) ties Wyyrlok and is the highest of any Jedi in the book. "A torrent of Sith attackers, including Darth Nihl" supports 009's reading that Kol fell to numbers (debate #115, Bane vs Kol).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:579`
 
-- Note (summary from our notes, not a quotation): ![p196 Kol Skywalker CL 14](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p196 Kol Skywalker CL 14](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p196 Kol Skywalker CL 14 — `p196-kol-skywalker-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:585`
@@ -679,17 +676,17 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:585`
 > Jedi Master Wolf Sazen is Kol Skywalker's apprentice before becoming Cade Skywalker's master and teacher. A follower of the living Force, Sazen is serious, thoughtful, and forward-thinking.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:592`
 
 > After losing his father, Kol Skywalker, Cade uses an extraordinary healing power that taps into the dark side of the Force to save his dying Master, Wolf Sazen.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:669`
 
 - Note (summary from our notes, not a quotation): Con 18. Possessions include "Kol Skywalker's lightsaber".
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p210 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p210-kol-skywalker-s-lightsaber.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p210 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p210-kol-skywalker-s-lightsaber.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:681`
 
 - Note (summary from our notes, not a quotation): Its prose regularly outruns its own numbers (Talon, Kol).
@@ -738,10 +735,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:62`
 > "KOL WAS MY MASTER WHEN I WAS AN APPRENTICE AND HE WAS MY FRIEND WHEN I BECAME A KNIGHT." · "I KNOW, HOWEVER -- AND ACCEPT -- THAT KOL'S SACRIFICE WAS SELFLESS. IT SAVED YOU, ME, SHADO, THE YOUNGLINGS." · "KOL KNEW WHAT HE WAS DOING. THE ODDS AGAINST US WERE INSURMOUNTABLE. HE KNEW HE COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM." · "LIVING -- HIS OWN SURVIVAL -- WAS NOT THE POINT. BUYING TIME FOR US WAS." · Sazen (off-panel over Cade's close-up): "AND THAT WOULD HAVE MADE YOUR FATHER'S SACRIFICE MEANINGLESS."
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels. POV: Sazen, about Kol Skywalker.
 Context: 1. "Could only hold off the Sith for a time -- not defeat them" (Sazen). p161 (#12 Ghosts) [009 p298]
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:305`; `notes/materials/012-legacy-vol-2-shards.md:454`
 
-- Note (summary from our notes, not a quotation): ![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p161 — `p161-kol-could-only-hold-off-sith.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:308`
@@ -750,16 +747,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:308`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels. POV: Nei Rin, about Kol Skywalker.
 Context: 2. "Your greatest warrior" (Nei Rin) and his crystal. p154 (#12), p169 (#12) [009 p291, p306]
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
-![p169 Kol's lightsaber with a lambent crystal](012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p169 Kol's lightsaber with a lambent crystal](../notes/materials/012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:311`
 
-- Note (summary from our notes, not a quotation): ![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+- Note (summary from our notes, not a quotation): ![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p154 — `p154-nei-rin-greatest-warrior.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:314`
 
-- Note (summary from our notes, not a quotation): ![p169 Kol's lightsaber with a lambent crystal](012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
+- Note (summary from our notes, not a quotation): ![p169 Kol's lightsaber with a lambent crystal](../notes/materials/012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p169 — `p169-kols-lightsaber-lambent.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:317`
@@ -775,22 +772,22 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:317`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 3. Body disappears on the pyre. p153 (#12) [009 p290].
 Note (our notes, around the quote): 3. Body disappears on the pyre. p153 (#12) [009 p290]: "MY GUARDS AND I GAVE HIM A JEEDAI FUNERAL AND COMMENDED HIM TO THE FORCE HE SERVED." · "WITHIN THE FLAMES, HIS BODY DISAPPEARED." · "HE...WAS MORE THAN A GOOD MAN. HE WAS A HERO." Also, "OUR WARRIORS AND SHAPERS WERE SLAIN ALONG WITH THE JEDAI" (sic, "JEDAI").
-![p153 Kol's funeral: HIS BODY DISAPPEARED](012-legacy-vol-2-shards-panels/p153-kol-funeral-body-disappeared.jpg) *(p153)*
+![p153 Kol's funeral: HIS BODY DISAPPEARED](../notes/materials/012-legacy-vol-2-shards-panels/p153-kol-funeral-body-disappeared.jpg) *(p153)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:320`
 
 > NOTHING ON HIM, WERMO. JEDI ARE BORN WITH NOTHING, THEY DIE WITH NOTHING.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Note (UNCLEAR): in the 130 ABY pirate flashback (p166), a red-haired corpse in brown lies on the rain-soaked stones, and Rav says "NOTHING ON HIM, WERMO. JEDI ARE BORN WITH NOTHING, THEY DIE WITH NOTHING." It resembles Kol, but it isn't named, and Nei Rin says Kol's body was burned.
-![p166 130 ABY: JEDI DIE WITH NOTHING](012-legacy-vol-2-shards-panels/p166-redhaired-corpse-jedi-die-with-nothing.jpg) *(p166)*
+![p166 130 ABY: JEDI DIE WITH NOTHING](../notes/materials/012-legacy-vol-2-shards-panels/p166-redhaired-corpse-jedi-die-with-nothing.jpg) *(p166)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:323`
 
 > MORRIGAN, I'M A JEDI -- I CAN FEEL YOUR EMOTIONS. YOU'RE TORN BETWEEN GOING AND STAYING.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Empathic sensing (flashback to Cade's infancy). p99 (#10 Trust Issues) [009 p238]: "MORRIGAN, I'M A JEDI -- I CAN FEEL YOUR EMOTIONS. YOU'RE TORN BETWEEN GOING AND STAYING."
-![p99 Kol: "I CAN FEEL YOUR EMOTIONS"](012-legacy-vol-2-shards-panels/p099-kol-feel-your-emotions.jpg)
+![p99 Kol: "I CAN FEEL YOUR EMOTIONS"](../notes/materials/012-legacy-vol-2-shards-panels/p099-kol-feel-your-emotions.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:326`
 
-- Note (summary from our notes, not a quotation): ![p99 Kol: "I CAN FEEL YOUR EMOTIONS"](012-legacy-vol-2-shards-panels/p099-kol-feel-your-emotions.jpg)
+- Note (summary from our notes, not a quotation): ![p99 Kol: "I CAN FEEL YOUR EMOTIONS"](../notes/materials/012-legacy-vol-2-shards-panels/p099-kol-feel-your-emotions.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p99 — `p099-kol-feel-your-emotions.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:328`
@@ -810,8 +807,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:479`
 - Note (summary from our notes, not a quotation): Use: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR" (p154). His crystal was "CHARRED FROM THE INTENSITY OF THE BATTLE" (p169). His body vanished in the flames (p153).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: Kol Skywalker's level (debate #115, Bane vs Kol).
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
-![p169 Kol's lightsaber with a lambent crystal](012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p169 Kol's lightsaber with a lambent crystal](../notes/materials/012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:480`
 
 > COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM
@@ -835,9 +832,9 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:556`
 
 - Note (summary from our notes, not a quotation): Ghosts and voices (framing): Kol Skywalker's Force ghost (p115–116); Hosk's voice after death (p114); XoXaan's spirit (p91).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p116 the burst; four Sith recoil](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:34`
 
 - Note (summary from our notes, not a quotation): Maladi calls off the Imperial search; the Moffs squabble, and Calixte, Veed and the Yages trade barbs (p32–36). Maladi tortures Cade with ixetal cilona, which he keeps purging; Krayt arrives (p37–38). Talon brings in Syn and Deliah; Maladi triggers coral seeds in them, Krayt frees one of Cade's hands with the Force, and Cade heals both at once with dark-side power (p39–45). Cade trades his freedom for theirs (p45–46). Calixte and Veed plan to use Corde (p47–48). Wyyrlok keeps Nihl and Maladi outside; they argue over birth and rank (p49–50). Over dinner Krayt shows Cade Kol's encased lightsaber and reveals he was the Jedi A'Sharad Hett (p51–53).
@@ -871,7 +868,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:288`
 
 > THAT WHICH CAN HEAL CAN ALSO BREAK.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p115 Kol's ghost.
-Note (our notes, around the quote): ![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+Note (our notes, around the quote): ![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
 (*Panel: p115 — `p115-kol-ghost-heal-can-break.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:293`
 
@@ -898,14 +895,14 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:380`
 > THAT WHICH CAN HEAL CAN ALSO BREAK.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Force ghost who teaches the "break" use of healing. p115 (#18): "THAT WHICH CAN HEAL CAN ALSO BREAK." Silent gestures on p116 precede Cade's burst.
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p116 the burst; four Sith recoil](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:429`
 
 > YOUR FATHER'S LIGHTSABER -- ENCASED IN TRANSPARISTEEL AND GIVEN A PLACE OF HONOR TO MARK A FALLEN, BUT ESTEEMED FOE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Krayt honours his saber. p52 (#15).
 Note (our notes, around the quote): Krayt honours his saber. p52 (#15): "YOUR FATHER'S LIGHTSABER -- ENCASED IN TRANSPARISTEEL AND GIVEN A PLACE OF HONOR TO MARK A FALLEN, BUT ESTEEMED FOE."
-![p52 Kol's saber encased in transparisteel](013-legacy-vol-3-claws-of-the-dragon-panels/p052-krayt-honours-kol-saber.jpg) *(p52)*
+![p52 Kol's saber encased in transparisteel](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p052-krayt-honours-kol-saber.jpg) *(p52)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:430`
 
 > YOU'RE THE MONSTER WHO IS RESPONSIBLE FOR MY FATHER'S DEATH
@@ -922,7 +919,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:432`
 
 > MY DAD'S THE JEDI WHO CHAMPIONED THE VONG TERRAFORMING PROJECT IN THE FIRST PLACE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Ossus Project champion (Cade, p15).
-![p15 Cade: MY DAD'S THE JEDI WHO CHAMPIONED THE TERRAFORMING](013-legacy-vol-3-claws-of-the-dragon-panels/p015-cade-dad-championed-terraforming.jpg) *(p15)*
+![p15 Cade: MY DAD'S THE JEDI WHO CHAMPIONED THE TERRAFORMING](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p015-cade-dad-championed-terraforming.jpg) *(p15)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:433`
 
 > I REMEMBER WHEN KOL SKYWALKER FIRST BROUGHT HIS SON TO THE TEMPLE ON OSSUS. THAT'S THEM.
@@ -1011,7 +1008,7 @@ Our notes: `legends-feats.md:2360`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); Kol's death was a group kill: Kol.
 Note (our notes, around the quote): Kol's death was a group kill: Kol "falls while fighting off a torrent of Sith attackers, including Darth Nihl" (p196).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Also noted as: Jedi numbers: Wolf Sazen is CL15 (UtF +19), but his build is purely defensive and utility, with no battle strike and no multi-attack. Kol Skywalker is CL14 with UtF +20 and Strong in the Force, and "falls while fighting off a torrent of Sith attackers, including Darth Nihl" (p196). Early-series Cade is only CL11: UtF +12 per the Force Powers line (+11 per Skills), lightsaber +11, plus dark transfer.
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Kol.
@@ -1027,8 +1024,8 @@ Our notes: `legends-feats.md:2452`; `notes/materials/011-legacy-era-campaign-gui
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Kol: "a powerful and influential Jedi named Kol Skywalker" (p7). Stats: CL 14. UtF +20. Strong in the Force. hp 116. Lightsaber +18. (material 011; p196; debate #115)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `legends-feats.md:2505`; `notes/materials/011-legacy-era-campaign-guide.md:582`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen: lost his right arm to Nihl and kept the "empty sleeve". Stats: CL 15. UtF +19. Will 32. hp 107. Lightsaber +17. A defensive build with no battle strike. (material 011; p197–198; debate #67)
@@ -1039,14 +1036,14 @@ Our notes: `legends-feats.md:2512`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Cade (early series, just after escaping the Coruscant Sith Temple): CL 11. UtF +12 (Force Powers line; +11 in Skills). hp 115. Lightsaber +11. Has dark transfer. "the last of the Skywalkers, and like his predecessors, the Force is strong in him" (p209). (material 011; p209–210; debates #17, #61, #81, #85, #91)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `legends-feats.md:2513`
 
 > revive a creature that died since the end of your last turn *(DC 25 UtF)*
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); Improved Dark Transfer: spend a Force Point to.
 Note (our notes, around the quote): Improved Dark Transfer: spend a Force Point to "revive a creature that died since the end of your last turn" (DC 25 UtF). (material 011; p56)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p56 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p056-improved-dark-transfer.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p56 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p056-improved-dark-transfer.jpg)
 Our notes: `legends-feats.md:2515`
 
 > KOL KNEW WHAT HE WAS DOING. THE ODDS AGAINST US WERE INSURMOUNTABLE. HE KNEW HE COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM.
@@ -1081,7 +1078,7 @@ Forum posts, Suspect Insight debates and Discord debates, respect threads, and v
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): #115 (Bane vs Kol): Kol is CL14, UtF +20, Strong in the Force (p196), and "a powerful and influential Jedi" (p7).
 Posted by: Bane vs Kol.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1089`
 
 ## "Dissecting Legacy #1: Cade Skywalker's Ending Growth" (Suspect Insight Forums)

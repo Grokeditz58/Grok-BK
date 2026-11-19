@@ -65,7 +65,6 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-2-notes.md:273`
 
 - Note (summary from our notes, not a quotation): Meetra Surik — Alderaan data box: "Birthplace of Atton Rand, noted ally of legendary "Jedi Exile" Meetra Surik" Source: The Old Republic Encyclopedia, p.321, sidebar
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.321 — full quote as printed](quotes/tore-p321-birthplace-of-atton-rand-noted-ally.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:415`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

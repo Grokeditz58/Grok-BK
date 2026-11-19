@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Shortly before the Battle of Yavin, BoShek and his ship Infinity beat Han Solo's time for the Kessel Run, then destroyed four pursuing TIE fighters.
 — Source: scan pages 81–120; Han Solo. POV: Han Solo, about BoShek.
 Note (our notes, around the quote): Han Solo: "Shortly before the Battle of Yavin, BoShek and his ship Infinity beat Han Solo's time for the Kessel Run, then destroyed four pursuing TIE fighters." Source: The Complete Star Wars Encyclopedia, Vol. I, p.87
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.87 — full quote as printed](quotes/v1-p87-shortly-before-the-battle-of-yavin.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:179`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

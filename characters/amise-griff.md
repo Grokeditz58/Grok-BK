@@ -19,7 +19,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Darth Vader (Anakin Skywalker) — entry/section: Amise Griff's last gamble.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Amise Griff's last gamble: "Griff's luck seemed to turn when he was reassigned to Darth Vader's command and placed in charge" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-griffs-luck-seemed-to-turn-when.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:317`
 
 # CANON (Disney canon — kept separate)
@@ -29,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > When the Empire finally did attack, he correctly quessed the Rebels’ escape route and tried to beat Vader to the kill with a risky hyperspace microjump. The bet cost him his life: His Star Destroyer emerged from hyperspace just meters from the Executor’s shields.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Darth Vader (Anakin Skywalker) — entry/section: Amise Griff's death.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Amise Griff's death: "When the Empire finally did attack, he correctly quessed the Rebels’ escape route and tried to beat Vader to the kill with a risky hyperspace microjump. The bet cost him his life: His Star Destroyer emerged from hyperspace just meters from the Executor’s shields." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-when-the-empire-finally-did-attack.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:319`
 
 # Debate and forum claims (unverified)

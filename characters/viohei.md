@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-11
 > We can make some kind of deal.”
 — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Dr. Viohei — entry/section: Hive of the Infidel: "“Don't shoot!” says a quavering volce."We can make some kind of deal.”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.71
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.71 — full quote as printed](quotes/d057-s71-dont-shoot-says-a-quavering-volce.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-112.md:76`
 
 # Debate and forum claims (unverified)

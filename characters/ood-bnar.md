@@ -13,18 +13,18 @@
 
 - Note (summary from our notes, not a quotation): Massassi seize Exar on Yavin 4 (p4–9). Ood Bnar and Odan-Urr warn Ulic (p10–12); Cay's farewell (p13). Ulic joins the Krath by "saving" Aleema (p17–21). The Sith amulet clamps to Exar's arm; he destroys Sadow's alchemical horrors (p22–24) and kills Nadd's spirit (p25–26).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #4 p7: A Massassi disc strikes Exar Kun's head; his light side is blocked](024-tales-of-the-jedi/panels/dlots4-p07-massassi-disc-strikes-exar.jpg)
-![Dark Lords of the Sith #4 p8: The Massassi capture Exar Kun and bring him to Zythmnr](024-tales-of-the-jedi/panels/dlots4-p08-massassi-capture-exar.jpg)
-![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](024-tales-of-the-jedi/panels/dlots4-p09-zythmnr-the-one.jpg)
-![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](024-tales-of-the-jedi/panels/dlots4-p13-cay-never-see-you-again.jpg)
-![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](024-tales-of-the-jedi/panels/dlots4-p21-ulic-saves-aleema.jpg)
-![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
+![Dark Lords of the Sith #4 p7: A Massassi disc strikes Exar Kun's head; his light side is blocked](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p07-massassi-disc-strikes-exar.jpg)
+![Dark Lords of the Sith #4 p8: The Massassi capture Exar Kun and bring him to Zythmnr](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p08-massassi-capture-exar.jpg)
+![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p09-zythmnr-the-one.jpg)
+![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p13-cay-never-see-you-again.jpg)
+![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p21-ulic-saves-aleema.jpg)
+![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:40`
 
 - Note (summary from our notes, not a quotation): Presides over the Deneba assembly; keeper of antiquities (a Sith holocron) on Ossus; warns Ulic with Ood Bnar. Source: Dark Lords of the Sith #3, p4–6; #4, p10–12
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](panels/dlots3-p06-ulic-wound-deneba.jpg)
-![Dark Lords of the Sith #3 p5: The Jedi assembly on Deneba begins under Odan-Urr](panels/dlots3-p05-deneba-assembly.jpg)
+![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p06-ulic-wound-deneba.jpg)
+![Dark Lords of the Sith #3 p5: The Jedi assembly on Deneba begins under Odan-Urr](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p05-deneba-assembly.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:233`
 
 - Note (summary from our notes, not a quotation): | 5–6 | Introduction | Ood Bnar holocron framing; Sith history overview |
@@ -37,13 +37,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Ood Bnar about Nomi Sunrider: "This Jedi will play an important part in the battles to come. Truly, she will be strong - a luminous being she is." Source: Tales of the Jedi Companion (WEG, 1996), p.26
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.26 — full quote as printed](quotes/companion-p26-this-jedi-will-play-an-important.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.26 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p26-this-jedi-will-play-an-important.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:130`
 
 > A Jedi scholar for hundreds of years, Bnar possessed the ability to completely sever himself from the subject of his study, whether it was the subtle manipulations of the light side of the Force or the raging, infested darkness of Sith magic. This strange capability allowed him to become one of the few Force-users to learn the workings of the dark side and the Sith without falling under its sway.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Ood Bnar.
 Note (our notes, around the quote): Narrative bio: "A Jedi scholar for hundreds of years, Bnar possessed the ability to completely sever himself from the subject of his study, whether it was the subtle manipulations of the light side of the Force or the raging, infested darkness of Sith magic. This strange capability allowed him to become one of the few Force-users to learn the workings of the dark side and the Sith without falling under its sway." Source: Tales of the Jedi Companion (WEG, 1996), p.27
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.27 — full quote as printed](quotes/companion-p27-a-jedi-scholar-for-hundreds-of.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.27 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p27-a-jedi-scholar-for-hundreds-of.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:175`
 
 > The weakminded have ever been ready to obey one who wields great power. Those who learned the powers of the dark side were quickto exploit this weakness - to make war. Again and again the dark side has surged forth, like astorm ... devouring whole worlds and entire star systems. Those who mastered dark power became dark power. They unleashed destruction, for no other reason than selfish gain. They despoiled nations ... destroyed whole civilizations. Some of them, I am ashamed to say, were Jedi." - Master Ood Bnar The Force powers developed by the Sith have long ago receded into the darker recesses of the galaxy those burnt out planetoids where fleeing dark side magicians could hide from the Jedi during the Great Sith War. The lore the Sith fanatics carried has remained on these desolate, remote worldS for a thousand years, waiting 86 ---' -r"' L-J.' J-rALES OF THE JEDI~ - - - - - - - - - _L·. l-J ~.- r-7r; ~~ ~rr: r=~ , Difficulty Moderate Difficult Very Difficult Heroic for the resurrection of Sith teachings that was destined to occur. The following powers have resurfaced in recent times, but an untold number continue to await revivification. And as the new breed of Sith adepts grow in power, they may begin to create new, more horrible perversions of the Force to inflict on their enemies.
@@ -51,13 +51,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Ood Bnar on the Sith: "Some of them, I am ashamed to say, were Jedi." - Master Ood Bnar. Source: Tales of the Jedi Companion (WEG, 1996), p.86
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.86 — full quote as printed](quotes/companion-p86-some-of-them-i-am-ashamed.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.86 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p86-some-of-them-i-am-ashamed.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:177`
 
 > Ood Bnar possesses only knowledge of the following powers. He cannot manipulate the Force.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes.
 Note (our notes, around the quote): RPG MECHANICS: Ood Bnar, Ryyk Jedi Holocron Gatekeeper (the holocron, not the living Jedi). Scholar: Jedi lore 17D+1, scholar: Sith lore 13D, languages 12D+1. Stat note: "Ood Bnar possesses only knowledge of the following powers. He cannot manipulate the Force." The list includes telekinetic kill, battle meditation, Force harmony. Source: Tales of the Jedi Companion (WEG, 1996), p.27
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.27 — full quote as printed](quotes/companion-p27-ood-bnar-possesses-only-knowledge-of.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.27 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p27-ood-bnar-possesses-only-knowledge-of.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:181`
 
 > It is the subject you have chosen to discuss that unsettles me. The very nature of the Sith often defies a satisfying explanation. Their ways seem alien, and that in itself can be alluring to some. I hesitate to risk an in-depth discourse of their powers for that sole reason. I believe it would serve you better for now to hear the tales of some Sith devotees. Perhaps later we shall discuss their theories and powers. The Sith have existed for well over a hundred thousand years. Over that barely imaginable space of time many Sith magicians emerged with the might of the darksidegrasped firmly in theirhands ... "Perverted, twisted lies," Queen Amanoa said, her words saturated with disgust. The prisoner before her managed to struggle to his feet for the third time. Only with considerable effort did he raise his head to glare at her.
@@ -65,7 +65,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Chapter opening (Ood Bnar framing): "The Sith have existed for well over a hundred thousand years." Source: Tales of the Jedi Companion (WEG, 1996), p.67
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.67 — full quote as printed](quotes/companion-p67-the-sith-have-existed-for-well.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.67 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p67-the-sith-have-existed-for-well.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:287`
 
 - Note (summary from our notes, not a quotation): | Ood Bnar (holocron) | cannot use the Force | | | — | p.27 |
@@ -80,11 +80,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:19`
 
 - Note (summary from our notes, not a quotation): Ossus evacuation; Cay shoots down war-mounts (p4–11). Ood Bnar vs Exar (p12–16). Sylvar vs Massassi; Exar refuses to fight her (p17–18). Tott (p19–20). Ulic kills Cay (p21–26).
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #5 p15: Ood Bnar blasts Exar back](panels/sw5-p15-ood-bnar-blasts-exar.jpg)
-![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
-![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
-![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](024-tales-of-the-jedi/panels/sw5-p21-cay-crash-lands-ranger.jpg)
-![The Sith War #5 p24: Ulic kills Cay](panels/sw5-p24-ulic-kills-cay.jpg)
+![The Sith War #5 p15: Ood Bnar blasts Exar back](../notes/materials/024-tales-of-the-jedi/panels/sw5-p15-ood-bnar-blasts-exar.jpg)
+![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
+![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](../notes/materials/024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
+![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p21-cay-crash-lands-ranger.jpg)
+![The Sith War #5 p24: Ulic kills Cay](../notes/materials/024-tales-of-the-jedi/panels/sw5-p24-ulic-kills-cay.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:40`
 
 - Note (summary from our notes, not a quotation): Nomi severs Ulic from the Force (p4–5). Mandalore attacks Onderon; Vanicus and Oron Kira drive him to Dxun (p6–9, p14–17). Ood's farewell; the shockwave sears Ossus (p10–13). The Jedi converge on Yavin 4; Exar drains the Massassi; the wall of light starts the conflagration (p18–23). A new Mandalore (p24). Two years later (p25–26); Exar's trapped spirit (p27).
@@ -98,7 +98,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:68`
 > SUMMONED FROM THE CORE OF OSSUS, WAVES OF THE FORCE SURGE THROUGH THE NEWLY TRANSFORMED JEDI MASTER!
 — Source: The Sith War #5, p15 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Note (our notes, around the quote): Transforms into a tree over the ancient lightsabers and blasts Exar Kun and a Massassi back: "SUMMONED FROM THE CORE OF OSSUS, WAVES OF THE FORCE SURGE THROUGH THE NEWLY TRANSFORMED JEDI MASTER!" Source: The Sith War #5, p15
-![The Sith War #5 p15: Ood Bnar blasts Exar back](panels/sw5-p15-ood-bnar-blasts-exar.jpg)
+![The Sith War #5 p15: Ood Bnar blasts Exar back](../notes/materials/024-tales-of-the-jedi/panels/sw5-p15-ood-bnar-blasts-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:198`
 
 > COMBAT IS NOT MY SKILL, EXAR KUN...
@@ -107,12 +107,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:198`
 > BUT I CAN DRAW ON SOURCES OF POWER YOU CANNOT IMAGINE.
 — Source: The Sith War #5, p15 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Ood Bnar to Exar Kun. POV: Ood Bnar.
 Note (our notes, around the quote): Ood Bnar to Exar Kun: "COMBAT IS NOT MY SKILL, EXAR KUN..." "BUT I CAN DRAW ON SOURCES OF POWER YOU CANNOT IMAGINE." Source: The Sith War #5, p15
-![The Sith War #5 p15: Ood Bnar blasts Exar back](panels/sw5-p15-ood-bnar-blasts-exar.jpg)
+![The Sith War #5 p15: Ood Bnar blasts Exar back](../notes/materials/024-tales-of-the-jedi/panels/sw5-p15-ood-bnar-blasts-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:199`
 
 - Note (summary from our notes, not a quotation): Engulfed by the Cron shockwave on Ossus. Source: The Sith War #6, p13
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #6 p13: The explosion of the Cron stars sears the face of Ossus](panels/sw6-p13-cron-shockwave-ossus.jpg)
+![The Sith War #6 p13: The explosion of the Cron stars sears the face of Ossus](../notes/materials/024-tales-of-the-jedi/panels/sw6-p13-cron-shockwave-ossus.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:200`
 
 > DO NOT GRIEVE FOR ME, THON. THIS IS MY METAMORPHOSIS, MY LIFE CYCLE.
@@ -128,11 +128,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:204`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:278`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #5 p15: Ood Bnar blasts Exar back](panels/sw5-p15-ood-bnar-blasts-exar.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #5 p15: Ood Bnar blasts Exar back](../notes/materials/024-tales-of-the-jedi/panels/sw5-p15-ood-bnar-blasts-exar.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:323`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #5 p15: Ood Bnar blasts Exar back](panels/sw5-p15-ood-bnar-blasts-exar.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #5 p15: Ood Bnar blasts Exar back](../notes/materials/024-tales-of-the-jedi/panels/sw5-p15-ood-bnar-blasts-exar.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:325`
 
@@ -141,13 +141,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:325`
 > To protect his treasure, Ood called upon the Force inside the soil of Ossus and transformed himself into a gigantic tree.
 — Source: Part One: Tales of the Ancient Republic; Ood Bnar — Ood Bnar becomes a tree.
 Note (our notes, around the quote): Ood Bnar — Ood Bnar becomes a tree: "To protect his treasure, Ood called upon the Force inside the soil of Ossus and transformed himself into a gigantic tree." Source: The New Essential Chronology, p.19
-![Quote image: The New Essential Chronology, p.19 — full quote as printed](quotes/nec-p19-ood-bnar-becomes-a-tree.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:151`
 
 > When the tree began to move, it revealed itself as Master Ood Bnar, who had clung to life since the firestorm had swept Ossus millennia ago. Ood destroyed both himself and Sedriss in a final confrontation.
 — Source: Part Seven: Empire Resurgent; Ood Bnar. POV: Ood Bnar.
 Note (our notes, around the quote): Ood Bnar: "When the tree began to move, it revealed itself as Master Ood Bnar, who had clung to life since the firestorm had swept Ossus millennia ago. Ood destroyed both himself and Sedriss in a final confrontation." Source: The New Essential Chronology, p.158
-![Quote image: The New Essential Chronology, p.158 — full quote as printed](quotes/nec-p158-ood-bnar.jpg)
+![Quote image: The New Essential Chronology, p.158 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p158-ood-bnar.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:113`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -155,7 +154,6 @@ Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-re
 > The last of the Emperor's clones orders Sedriss to bring Luke Skywalker to Byss alive. Sedriss eventually tracks Luke to Ossus, only to be killed by Jedi Master Ood Bnar.
 — Source: Chapter VI: Dangers of Study; Palpatine (Darth Sidious); Luke Skywalker; Ood Bnar — Sedriss — hunting Luke.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Luke Skywalker; Ood Bnar — Sedriss — hunting Luke: "The last of the Emperor's clones orders Sedriss to bring Luke Skywalker to Byss alive. Sedriss eventually tracks Luke to Ossus, only to be killed by Jedi Master Ood Bnar." Source: Jedi Academy Training Manual, p.126
-![Quote image: Jedi Academy Training Manual, p.126 — full quote as printed](quotes/jatm-p126-sedriss-hunting-luke.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:100`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -167,13 +165,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > He also advised Ulic Qel-Droma when the Jedi Knight foolishly planned to join the evil Krath cult in order to destroy it from within.
 — Source: scan pages 81–120; Ood Bnar; Ulic Qel-Droma — entry/section: Bnar, Master Ood.
 Note (our notes, around the quote): Ood Bnar; Ulic Qel-Droma — entry/section: Bnar, Master Ood: "He also advised Ulic Qel-Droma when the Jedi Knight foolishly planned to join the evil Krath cult in order to destroy it from within." Source: The Complete Star Wars Encyclopedia, Vol. I, p.82
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.82 — full quote as printed](quotes/v1-p82-he-also-advised-ulic-qel-droma.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:132`
 
 > During the Sith War, when the cataclysm that destroyed the Cron Cluster threatened the planet Ossus, Ood initiated a life-cycle change, transforming into a mighty tree with extended roots to protect an underground cache of ancient lightsabers.
 — Source: scan pages 81–120; Ood Bnar — entry/section: Bnar, Master Ood.
 Note (our notes, around the quote): Ood Bnar — entry/section: Bnar, Master Ood: "During the Sith War, when the cataclysm that destroyed the Cron Cluster threatened the planet Ossus, Ood initiated a life-cycle change, transforming into a mighty tree with extended roots to protect an underground cache of ancient lightsabers." Source: The Complete Star Wars Encyclopedia, Vol. I, p.82
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.82 — full quote as printed](quotes/v1-p82-during-the-sith-war-when-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:134`
 
 > He even­ tually became the gatekeeper of a Jedi Ho­ locron belonging to Master Area Jeth and proclaimed that Nomi Sunrider would one day become a powerful Jedi. He also ad­ vised Ulic Qel-Droma when the Jedi Knight foolishly planned to join the evil Krath cult in order to destroy it from within. During the Sith War, when the cataclysm that de­ stroyed the Cron Cluster threatened the planet Ossus, Ood initiated a life-cycle change, transforming into a mighty tree with extended roots to protect an under­ ground cache of ancient lightsabers. Before doing so, he bequeathed the Solari crystal, a lightsaber compo­ nent, to his most gifted stu­ dent, Shaela Nuur. Several thousand years later on the planet Ossus, Bnar reawakened to help save Jem Ysanna, a young woman with powers of the Force. He ultimately sacrificed himself to destroy the evil Imperial Military Executor Sedriss. Luke Skywalker discovered Master Ood Bnar the trove of lightsabers and Jedi lore that Ood protected, treasures that proved valuable as he built a new Jedi Order to protect the galaxy. Ood originally was a bipedal being with rough greenish brown skin, root-like ap­ pendages dangling from the back of his head, and no visible eyes. By the time he reappeared, he had evolved into a towering, tree-like entity.
@@ -181,7 +177,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Ood Bnar — entry/section: Bnar, Master Ood: "He ultimately sacrificed himself to destroy the evil Imperial Military Executor Sedriss." Source: The Complete Star Wars Encyclopedia, Vol. I, p.82
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.82 — full quote as printed](quotes/v1-p82-he-ultimately-sacrificed-himself-to-destroy.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:136`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -189,7 +184,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > It was believed that Ood Bnar was the only surviving member of the species, being offworld when the planet Ryyk was destroyed, until T'ra Saa was discovered by other Jedi centuries before the Clone Wars.
 — Source: scan pages 361–400; Ood Bnar; T'ra Saa.
 Note (our notes, around the quote): Ood Bnar; T'ra Saa: "It was believed that Ood Bnar was the only surviving member of the species, being offworld when the planet Ryyk was destroyed, until T'ra Saa was discovered by other Jedi centuries before the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. II, p.372
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.372 — full quote as printed](quotes/v2-p372-it-was-believed-that-ood-bnar.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:153`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -197,7 +191,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Palpatine ordered Sedriss to go to Ossus to get Luke Skywalker, but the Executor was destroyed by the power of an ancient Jedi, Ood Bnar.
 — Source: scan pages 121–160; Palpatine (Darth Sidious); Luke Skywalker; Ood Bnar.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Luke Skywalker; Ood Bnar: "Palpatine ordered Sedriss to go to Ossus to get Luke Skywalker, but the Executor was destroyed by the power of an ancient Jedi, Ood Bnar." Source: The Complete Star Wars Encyclopedia, Vol. III, p.135
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.135 — full quote as printed](quotes/v3-p135-palpatine-ordered-sedriss-to-go-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:156`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -205,19 +198,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > When Ryyk was destroyed, only one Neti (Jedi Master Ood Bnar) was known to have been offworld.
 — Source: Chapter Five: Creatures, species and archetypes; Ood Bnar. POV: Ood Bnar.
 Note (our notes, around the quote): Ood Bnar: "When Ryyk was destroyed, only one Neti (Jedi Master Ood Bnar) was known to have been offworld." Source: Power of the Jedi Sourcebook, p.72
-![Quote image: Power of the Jedi Sourcebook, p.72 — full quote as printed](quotes/potj-p72-when-ryyk-was-destroyed-only-one.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/05-ch5-species-archetypes.md:56`
 
 > When the shockwave struck, Ood's tree survived to stand over the ruins of the oncegreat planet.
 — Source: Chapter Seven: Where the Force is strong; Index; Ood Bnar. POV: Ood Bnar.
 Note (our notes, around the quote): Ood Bnar: "When the shockwave struck, Ood's tree survived to stand over the ruins of the oncegreat planet." Source: Power of the Jedi Sourcebook, p.136
-![Quote image: Power of the Jedi Sourcebook, p.136 — full quote as printed](quotes/potj-p136-when-the-shockwave-struck-oods-tree.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:36`
 
 > Using his Force powers, Ood destroyed himself and Sedriss forever.
 — Source: Chapter Seven: Where the Force is strong; Index; Ood Bnar. POV: Ood Bnar.
 Note (our notes, around the quote): Ood Bnar: "Using his Force powers, Ood destroyed himself and Sedriss forever." Source: Power of the Jedi Sourcebook, p.136
-![Quote image: Power of the Jedi Sourcebook, p.136 — full quote as printed](quotes/potj-p136-using-his-force-powers-ood-destroyed.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:42`
 
 - Note (summary from our notes, not a quotation): Page contents: 893 words, 159 paragraphs | headings/entries: Ae; Ne sey aS / ar; Index; Abhean 132; Abraxin 79; Ackbar, Admiral 130; Adega system 135; Adegan crystals 104, 107, 155; Advozse 112, 113; Afarathu 108; AgriCorps worker 86; Alderaan 10, 64, 110; Aleema 107; Almania 83, 127; Amanoa, Queen 7, 100, 103, 104, 105; Ambria 101, 104, 105, 106, 145-147; Anselmi 71; Arkanian 64, 73, 100; Ashla, the 6; Asmeru 113, 114, 118; Assant, Darsha 121; Auril sector 135; Baltimn 150, 151; Bane, Darth 9; Battle Influence 12; Battle Meditation 15; Beast Language 15; Belasco 116; Bespin 128; Billaba, Depa 114; Black Sun 121; Bnar, Ood 136; Bondara, Anoon 121, 122, 124; Bouri, Omo 118; Brotherhood of Darkness 9, 141, 153; Caamasi 64, 110; Callista 9, 130; Carida 131; Cathar 65; Celegian 66, 98; Cerean 119; Chalactan 114; Chatos Academy 6; Chewbacca 11; Cho Leem, Thracia 123; Chu'unthor 132-135; Cilghal 11, 130; Cinnagar 8, 98, 103; Core Worlds 6, 7, 9, 70, 130
@@ -232,14 +222,12 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 2 207 Almas Sweet Almas Desert Cries (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_207_Almas_Sweet_Almas_Desert_Cries_pdf_cb38660416`).)
 (Full sentence/passage taken from the source text on file: `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_207_Almas_Sweet_Almas_Desert_Cries_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Tinya: the Battle of Ossus: ""This piece is one of the more famous in the collection, and depicts a key point in the history of the Jedi. Created by the master Rodian artist Zyk-yadoon, this is the Battle of Ossus. In the foreground, here, you can see Master Ood Bnar defending some of the planet's priceless treasures against..."" Source: *207 - Almas, Sweet Almas - Desert Cries* (SWRPG d20 Revised Core), p.4
-![Quote image: *207 - Almas, Sweet Almas - Desert Cries* (SWRPG d20 Revised Core), p.4 — full quote as printed](quotes/d293-p4-this-piece-is-one-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/293-207-almas-sweet-almas-desert-cries.md:29`
 
 ## Living Force Campaign/Articles/Year 3/07:03:03 - Life's Memories.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Ood Bnar — entry/section: Ood Bnar (cited): "Any student of the Force will likely recall the words of Jedi Master Ood Bnar, who wrote of the Force as a "mystical energy field" that surrounds all living things.(5)" Source: *07:03:03 - Life's Memories* (SWRPG d20 Revised Core), scan p.2
   — Source: Living Force Campaign/Articles/Year 3/07:03:03 - Life's Memories.pdf [Sta.
-![Quote image: *07:03:03 - Life's Memories* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d436-s2-any-student-of-the-force-will.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/436-07-03-03-lifes-memories.md:25`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -251,7 +239,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > The aged Neti Jedi Master Ood Bnar also stayed behind to protect Ossus’ lightsaber vaults from the plundering Sith and Krath looters. Exar Kun and his followers succeeded in stealing some relics and dark side lore, but even they had to flee the pending destruction. Master Bnar, however, survived the intense radiation rained on the world’s surface and, nearly four thousand years later, was still able to assist Skywalker and Solusar in their struggle against Executor Sedriss.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ood Bnar; Exar Kun; Luke Skywalker; Kam Solusar — entry/section: Ood Bnar stays behind: "The aged Neti Jedi Master Ood Bnar also stayed behind to protect Ossus’ lightsaber vaults from the plundering Sith and Krath looters. Exar Kun and his followers succeeded in stealing some relics and dark side lore, but even they had to flee the pending destruction. Master Bnar, however, survived the intense radiation rained on the world’s surface and, nearly four thousand years later, was still able to assist Skywalker and Solusar in their struggle against Executor Sedriss." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110 — full quote as printed](quotes/d667-s110-the-aged-neti-jedi-master-ood.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:381`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -263,7 +250,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > Some scientists suggest that the planet Myrkr is the true homeworld of the Neti. Although Master Ood Bnar himself was native to Ryyk, it is also possible that the Neti moved from Myrkr to Ryyk at some point in the ancient past. Despite the best efforts of Jedi scholars, the galaxy at large might never determine the true origins of the Neti species.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Ood Bnar — entry/section: Neti.
 Note (our notes, around the quote): Ood Bnar — entry/section: Neti: "Some scientists suggest that the planet Myrkr is the true homeworld of the Neti. Although Master Ood Bnar himself was native to Ryyk, it is also possible that the Neti moved from Myrkr to Ryyk at some point in the ancient past. Despite the best efforts of Jedi scholars, the galaxy at large might never determine the true origins of the Neti species." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.108
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.108 — full quote as printed](quotes/d673-s108-some-scientists-suggest-that-the-planet.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-061-120.md:257`
 
 ## Star Wars: Dark Empire (1991–92), Dark Empire II (1994–95), Empire's End (1995), single issues, hand-read

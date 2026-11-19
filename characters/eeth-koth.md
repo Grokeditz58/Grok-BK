@@ -34,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-11
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 49 Hit Me (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_49_Hit_Me_pdf_82e7d2a02a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 49 Hit Me (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_49_Hit_Me_pdf_82e7d2a02a`).)
 Note (our notes, around the quote): Darth Maul; Eeth Koth — entry/section: Darth Maul is a Zabrak, like Eeth Koth: "A: Yes, though I don't know if it's spelled out as such in the Ultimate Alien Anthology, any more than it's spelled out in the revised core rulebook. Darth Maul is a Zabrak, just like Eeth Koth, one of the Jedi High Council members in The Phantom Menace." Source: *Jedi Counseling 49 - Hit Me!* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 49 - Hit Me!* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d215-s2-a-yes-though-i-dont-know.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/215-jedi-counseling-49-hit-me.md:17`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–225)

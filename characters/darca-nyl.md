@@ -18,7 +18,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > He later realized that Jaren was harboring a fugitive, her brother Ament who had killed dozens of people because he was prone to fits of rage.
 — Source: scan pages 401–440; Darca Nyl — entry/section: Nyl, Darca.
 Note (our notes, around the quote): Darca Nyl — entry/section: Nyl, Darca: "He later realized that Jaren was harboring a fugitive, her brother Ament who had killed dozens of people because he was prone to fits of rage." Source: The Complete Star Wars Encyclopedia, Vol. II, p.397
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.397 — full quote as printed](quotes/v2-p397-he-later-realized-that-jaren-was.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:24`
 
 # Debate and forum claims (unverified)

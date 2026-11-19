@@ -32,7 +32,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > IT'S THE NOMAD'S CURSE. WE MOVE ON BEFORE WE'RE FINISHED.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Cassus Fett — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Cassus Fett — entry/section: Pull quote: ""IT'S THE NOMAD'S CURSE. WE MOVE ON BEFORE WE'RE FINISHED." —CASSUS FETT" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.199
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.199 — full quote as printed](quotes/d718-s199-its-the-nomads-curse-we-move.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:174`
 
 ## Star Wars Insider #97 (2007)
@@ -40,7 +39,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Suddenly we've got a power structure, and propaganda, and—shudder—uniform armor! Regular grunts are wondering what it's all about. How does an army conquer so much, so fast, without tripping over itself? What happens if all of Mand'alor's forces are not on the same page with him?
 — Source: Star Wars Insider #97 (2007); Cassus Fett — entry/section: Uniform armor.
 Note (our notes, around the quote): Cassus Fett — entry/section: Uniform armor: ""Suddenly we've got a power structure, and propaganda, and—shudder—uniform armor! Regular grunts are wondering what it's all about. How does an army conquer so much, so fast, without tripping over itself? What happens if all of Mand'alor's forces are not on the same page with him?" —John Jackson Miller, Star Wars Insider 97, p. 43" Source: *Star Wars Insider #97* (2007), scan p.43
-![Quote image: *Star Wars Insider #97* (2007), scan p.43 — full quote as printed](quotes/ins097-s43-suddenly-weve-got-a-power-structure.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:408`
 
 # Debate and forum claims (unverified)

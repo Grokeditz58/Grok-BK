@@ -13,7 +13,6 @@
 
 - Note (summary from our notes, not a quotation): Katarn defeats Desann: "After reenergizing himself with a trip to Ruusan's Valley of the Jedi, Katarn proved to be more than a match for Desann's "Reborn" warriors. ... In a lightsaber duel on the jungle moon's surface, Katarn killed the power-mad Chistori." Source: The New Essential Chronology, p.173
   — Source: Part Eight: The Return of the Jedi Knights. POV: Katarn defeats Desann.
-![Quote image: The New Essential Chronology, p.173 — full quote as printed](quotes/nec-p173-katarn-defeats-desann.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:124`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -25,7 +24,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > Desann eventually was slain by Kyle Katarn.
 — Source: scan pages 161–200; Kyle Katarn. POV: Kyle Katarn, about Desann.
 Note (our notes, around the quote): Kyle Katarn: "Desann eventually was slain by Kyle Katarn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.185
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.185 — full quote as printed](quotes/v1-p185-desann-eventually-was-slain-by-kyle.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:345`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -47,7 +45,6 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > Nearly eight years after Kyle defeated Jerec on Ruusan, the valley was threatened once again, this time by a former student of Master Skywalker called Desann, forcing Kyle to work alongside Luke to protect the galaxy. After defeating the Dark Jedi, Kyle returned to the Jedi academy with renewed confidence.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Luke Skywalker; Desann — entry/section: Kyle and Desann.
 Note (our notes, around the quote): Kyle Katarn; Luke Skywalker; Desann — entry/section: Kyle and Desann: "Nearly eight years after Kyle defeated Jerec on Ruusan, the valley was threatened once again, this time by a former student of Master Skywalker called Desann, forcing Kyle to work alongside Luke to protect the galaxy. After defeating the Dark Jedi, Kyle returned to the Jedi academy with renewed confidence." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-nearly-eight-years-after-kyle-defeated.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:27`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -59,7 +56,6 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > Many have sought the Valley of the Jedi, but few have found it. One was Lord Hoth's former apprentice Johun Othone, who set up vain shrines in the valley in honor of his beloved master. Another was the Sith Lord Darth Zannah, who returned to the valley years after abandoning her brother there during the Battle of Ruusan and engaged her sibling in a final deadly confrontation. The valley has had few visitors since, but two of the most recent were power-hungry individuals of the worst kind: the treacherous Dark Jedi Jerec, and an outcast from Luke's New Jedi Order, the reptilian Desann.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Lord Hoth; Darth Zannah; Jerec; Desann — entry/section: Seekers of the Valley: "Many have sought the Valley of the Jedi, but few have found it. One was Lord Hoth's former apprentice Johun Othone, who set up vain shrines in the valley in honor of his beloved master. Another was the Sith Lord Darth Zannah, who returned to the valley years after abandoning her brother there during the Battle of Ruusan and engaged her sibling in a final deadly confrontation. The valley has had few visitors since, but two of the most recent were power-hungry individuals of the worst kind: the treacherous Dark Jedi Jerec, and an outcast from Luke's New Jedi Order, the reptilian Desann." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-many-have-sought-the-valley-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: Jerec's omniscience and death; Jerec stats (Jedi Guardian 8/Jedi Master 3/Imperial Inquisitor 4, CC H) and SQs Quick Reaction, Force Sight; Desann, Jedi Outcast: Chistori, Havet Storm murder, Galak Fyyar, Lord Hethrir, Empire Youths, Tavion, the Reborn, death at Yavin 4; caption: A Miraluka, from Ultimate Alien Anthology (hand-read)
@@ -69,30 +65,25 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > At last among similarly gifted beings, Desann finally felt accepted. But old habits die hard. The shell of his personality, developed like a protective carapace after so many years of being treated like refuse, quickly set back in, and as Desann's Force powers grew, his true colors began to show. Desann patronized weaker students on a regular basis until one Jedi trainee, Havet Storm, stood up to Desann. After Havet's bold confrontation, Desann never bullied another student at the Academy again. In fact, after murdering Havet, Desann left the Academy altogether.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Havet Storm; Luke Skywalker — entry/section: Desann at the Academy: "At last among similarly gifted beings, Desann finally felt accepted. But old habits die hard. The shell of his personality, developed like a protective carapace after so many years of being treated like refuse, quickly set back in, and as Desann's Force powers grew, his true colors began to show. Desann patronized weaker students on a regular basis until one Jedi trainee, Havet Storm, stood up to Desann. After Havet's bold confrontation, Desann never bullied another student at the Academy again. In fact, after murdering Havet, Desann left the Academy altogether." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-at-last-among-similarly-gifted-beings.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:35`
 
 > Eventually, Desann crossed paths with Imperial Admiral Galak Fyyar, who promptly took the Chistori to meet his obscure master, the Procurator of Justice Lord Hethrir. Despite the Procurator's prejudice toward aliens, Lord Hethrir made Desann his right hand in his Empire Reborn, reasoning that even Emperor Palpatine had made some exceptions.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Admiral Galak Fyyar; Lord Hethrir; Palpatine (Darth Sidious) — entry/section: Desann and Hethrir: "Eventually, Desann crossed paths with Imperial Admiral Galak Fyyar, who promptly took the Chistori to meet his obscure master, the Procurator of Justice Lord Hethrir. Despite the Procurator's prejudice toward aliens, Lord Hethrir made Desann his right hand in his Empire Reborn, reasoning that even Emperor Palpatine had made some exceptions." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-eventually-desann-crossed-paths-with-imperial.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:37`
 
 - Note (summary from our notes, not a quotation): Desann; Lord Hethrir; Tavion Axmis — entry/section: Desann trains Tavion: "Hethrir entrusted Desann with training a number of his Empire Youths, individuals who had shown a potent Force-sensitivity and devotion to Hethrir's cause and had been specially "purified" by a demigod known as Waru. Desann took one of these Youths, Tavion, as his apprentice. He even experimented with imbuing Human Empire Youths who had little to no talent in the Force -- chosen by Hethrir due to the magistrate’s racist philosophies -- with dark side powers using atrusian crystals and Sith alchemy." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-hethrir-entrusted-desann-with-training-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:39`
 
 > Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Lord Hethrir; Antinnis Tremayne; Kyle Katarn — entry/section: The Reborn: "Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-lastly-hethrir-tasked-desann-with-finding.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:41`
 
 > Desann and Kyle had multiple hazardous confrontations, during which each combatant attempted to persuade the other to join his cause. In the end, Kyle chased the Dark Jedi to the temples of Luke's Jedi academy on Yavin 4, where he and Desann engaged in furious lightsaber battle for a final time. Only Kyle emerged alive from the conflict.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Desann; Kyle Katarn — entry/section: Desann's end.
 Note (our notes, around the quote): Desann; Kyle Katarn — entry/section: Desann's end: "Desann and Kyle had multiple hazardous confrontations, during which each combatant attempted to persuade the other to join his cause. In the end, Kyle chased the Dark Jedi to the temples of Luke's Jedi academy on Yavin 4, where he and Desann engaged in furious lightsaber battle for a final time. Only Kyle emerged alive from the conflict." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-desann-and-kyle-had-multiple-hazardous.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:43`
 
 - Note (summary from our notes, not a quotation): Page contents: Desann stats (Fringer 2/Jedi Guardian 5, CC D, Doomgiver) and cold-blooded SQ; The Valley of the Jedi (Kaan's Thought Bomb, Sith globe); Using the Valley in Your Campaign (hand-read)
@@ -108,7 +99,6 @@ Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:10`
 > Little is known about the reptilian Chistori. They resemble bipedal lizards, with prominent snouts, mouthfuls of teeth, and beady eyes, and they have a fiercely independent warrior society. The Chistori are a secretive people, and even the Jedi Archives have no record of their homeworld. Like many reptilian species, they are coldblooded, and like the Trandoshans, they gain a natural armor bonus to Defense. Other than Cydon Prax, the only widely known Chistori is the Dark Jedi Desann, a failed student of the Yavin 4 academy who would make life extremely difficult for Luke Skywalker and Kyle Katarn decades after the Clone Wars. Many lesser-known Chistori have found work as bounty hunters.
 — Source: Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Cydon Prax; Desann; Luke Skywalker; Kyle Katarn — entry/section: The Chistori: "Little is known about the reptilian Chistori. They resemble bipedal lizards, with prominent snouts, mouthfuls of teeth, and beady eyes, and they have a fiercely independent warrior society. The Chistori are a secretive people, and even the Jedi Archives have no record of their homeworld. Like many reptilian species, they are coldblooded, and like the Trandoshans, they gain a natural armor bonus to Defense. Other than Cydon Prax, the only widely known Chistori is the Dark Jedi Desann, a failed student of the Yavin 4 academy who would make life extremely difficult for Luke Skywalker and Kyle Katarn decades after the Clone Wars. Many lesser-known Chistori have found work as bounty hunters." Source: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d136-s1-little-is-known-about-the-reptilian.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:16`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -122,7 +112,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Striving to continue Desann's work, the cultists eventually made their way to Korriban, where they were defeated within the ancient Sith tombs in the Valley of the Dark Lords by Jaden Korr and a band of Jedi from Skywalker's academy.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Jaden Korr. POV: Jaden Korr, about Desann.
 Note (our notes, around the quote): Jaden Korr: "Striving to continue Desann's work, the cultists eventually made their way to Korriban, where they were defeated within the ancient Sith tombs in the Valley of the Dark Lords by Jaden Korr and a band of Jedi from Skywalker's academy." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30 — full quote as printed](quotes/d731-s30-striving-to-continue-desanns-work-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:218`
 
 - Note (summary from our notes, not a quotation): Page contents: Primitive dark side adepts as major villains hiring mercenaries, bounty hunters, assassins; Primitive Dark Side Adept CL 9 stat block (scout 7/Force adept 2; force pike, slugthrower rifle, fetish); Desann biography; Desann CL 9 stat block (Medium Chistori scout 2/Jedi 5/Force adept 2; Destiny 1; DR 2; rage; Cold-Blooded; lightsaber, Doomgiver as Imperial I-class Star Destroyer). (hand-read)
@@ -136,7 +125,6 @@ Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001
 > Come, join me. You know in your heart you'll never be one of them.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Desann — entry/section: Pull quote.
 Note (our notes, around the quote): Desann — entry/section: Pull quote: ""Come, join me. You know in your heart you'll never be one of them." —Desann" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.35
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.35 — full quote as printed](quotes/d731-s35-come-join-me-you-know-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:272`
 
 ## Star Wars Insider #88 (2006)

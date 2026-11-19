@@ -90,13 +90,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:192
 > Ysanne Isard and Sate Pestage discuss who will inherit the Emperor's throne.
 — Source: Part Six: Birth of the New Republic; art caption.
 Note (our notes, around the quote): art caption: "Ysanne Isard and Sate Pestage discuss who will inherit the Emperor's throne." Source: The New Essential Chronology, p.132, caption
-![Quote image: The New Essential Chronology, p.132 — full quote as printed](quotes/nec-p132-caption-ysanne-isard-and-sate-pestage.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:29`
 
 > Jerec planned to use the valley's power to topple Isard and rule a vast new Empire. Katarn single-handedly defeated Jerec and his minions before the Dark Jedi's grandiose plans could come to fruition.
 — Source: Part Six: Birth of the New Republic; Jerec — Katarn defeats Jerec.
 Note (our notes, around the quote): Jerec — Katarn defeats Jerec: "Jerec planned to use the valley's power to topple Isard and rule a vast new Empire. Katarn single-handedly defeated Jerec and his minions before the Dark Jedi's grandiose plans could come to fruition." Source: The New Essential Chronology, p.136
-![Quote image: The New Essential Chronology, p.136 — full quote as printed](quotes/nec-p136-katarn-defeats-jerec.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:57`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -106,7 +104,6 @@ Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-th
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Corran Horn: "Dlarit was then ordered to provide cover for Isard's shuttle as she attempted to escape, but her TIE was destroyed by Corran Horn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.193
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.193 — full quote as printed](quotes/v1-p193-dlarit-was-then-ordered-to-provide.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:61`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -120,7 +117,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > Kirtan Loor, now working directly for Ysanne Isard, tried to destroy Corran and his squadron mates.
 — Source: scan pages 61–90; Corran Horn. POV: Corran Horn, about Ysanne Isard.
 Note (our notes, around the quote): Corran Horn: "Kirtan Loor, now working directly for Ysanne Isard, tried to destroy Corran and his squadron mates." Source: The New Essential Guide to Characters, p.79
-![Quote image: The New Essential Guide to Characters, p.79 — full quote as printed](quotes/negc-p79-kirtan-loor-now-working-directly-for.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:89`
 
 - Note (summary from our notes, not a quotation): Page contents: 442 words, 15 paragraphs | headings/entries: T hey called her "Iceheart," for she
@@ -130,18 +126,15 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > After Thrawn's defeat, Ysanne Isard's TIE defenders rescued Rogue Squadron from an ambush at Corvis Minor.
 — Source: scan pages 61–90; Grand Admiral Thrawn. POV: Grand Admiral Thrawn, about Ysanne Isard.
 Note (our notes, around the quote): Grand Admiral Thrawn: "After Thrawn's defeat, Ysanne Isard's TIE defenders rescued Rogue Squadron from an ambush at Corvis Minor." Source: The New Essential Guide to Characters, p.85
-![Quote image: The New Essential Guide to Characters, p.85 — full quote as printed](quotes/negc-p85-after-thrawns-defeat-ysanne-isards-tie.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:137`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn: "When Ysanne Isard returned from the grave immediately after the Thrawn crisis, Terrik provided invaluable assistance to New Republic Intelligence by figuring out Isard's "dream ladder"—her step-by-step plan for retaking the Super Star Destroyer Lusankya." Source: The New Essential Guide to Characters, p.183
   — Source: scan pages 151–180. POV: Grand Admiral Thrawn, about Ysanne Isard.
-![Quote image: The New Essential Guide to Characters, p.183 — full quote as printed](quotes/negc-p183-when-ysanne-isard-returned-from-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:209`
 
 > Four years after Endor, following Isard's defeat in the Bacta War, word reached Thrawn that the Empire was on the verge of extinction.
 — Source: scan pages 151–180; Grand Admiral Thrawn. POV: Grand Admiral Thrawn, about Ysanne Isard.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Four years after Endor, following Isard's defeat in the Bacta War, word reached Thrawn that the Empire was on the verge of extinction." Source: The New Essential Guide to Characters, p.186
-![Quote image: The New Essential Guide to Characters, p.186 — full quote as printed](quotes/negc-p186-four-years-after-endor-following-isards.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:236`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -149,7 +142,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 > The Director of Imperial Intelligence, Ysanne Isard killed her father, the previous director, in order to replace him. After the death of the Emperor, Isard rises in power and, for a time, holds the Empire together. She considers Rogue Squadron a significant threat to the Imperial remnant and sets out to destroy the special unit.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Ysanne Isard — entry/section: Ysanne Isard.
 Note (our notes, around the quote): Ysanne Isard — entry/section: Ysanne Isard: "The Director of Imperial Intelligence, Ysanne Isard killed her father, the previous director, in order to replace him. After the death of the Emperor, Isard rises in power and, for a time, holds the Empire together. She considers Rogue Squadron a significant threat to the Imperial remnant and sets out to destroy the special unit." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159 — full quote as printed](quotes/d043-s159-the-director-of-imperial-intelligence-ysanne.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:295`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -223,7 +215,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > It wasn’t until Intelligence Director Isard released the Krytos virus—a deadly, artificially created disease that targeted every species but baseline Humans—during the New Republic's liberation of Coruscant that most Baragwin put their support behind the freedom fighters. The disease hit Coruscant’s Baragwin population particularly hard.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Ysanne Isard — entry/section: Baragwin.
 Note (our notes, around the quote): Ysanne Isard — entry/section: Baragwin: "It wasn’t until Intelligence Director Isard released the Krytos virus—a deadly, artificially created disease that targeted every species but baseline Humans—during the New Republic's liberation of Coruscant that most Baragwin put their support behind the freedom fighters. The disease hit Coruscant’s Baragwin population particularly hard." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.20
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.20 — full quote as printed](quotes/d673-s20-it-wasn-t-until-intelligence-director.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:109`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -264,7 +255,6 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-1
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #74 (2004); Armand Isard — entry/section: Isard on the Techno Union.
 Note (our notes, around the quote): Armand Isard — entry/section: Isard on the Techno Union: ""Too long has the enemy benefited from the research and innovation of the Techno Union," said Armand Isard, director of the Senate Bureau of Intelligence, via holocomm. —Armand Isard, Star Wars Insider 74, p. 61" Source: *Star Wars Insider #74* (2004), scan p.61
-![Quote image: *Star Wars Insider #74* (2004), scan p.61 — full quote as printed](quotes/ins074-s61-too-long-has-the-enemy-benefited.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:406`
 
 ## Star Wars Insider #89 (2006)

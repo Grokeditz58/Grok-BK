@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > THE MANDO'ADE USUALLY PREFER A MORE DIRECT APPROACH. WE'RE PRAGMATIC, NOT TREACHEROUS.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Rohlan Dyre — entry/section: Pull quote (Rohlan Dyre). POV: speaker not named in our notes.
 Note (our notes, around the quote): Rohlan Dyre — entry/section: Pull quote (Rohlan Dyre): ""THE MANDO'ADE USUALLY PREFER A MORE DIRECT APPROACH. WE'RE PRAGMATIC, NOT TREACHEROUS." —ROHLAN DYRE" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.31
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.31 — full quote as printed](quotes/d718-s31-the-mandoade-usually-prefer-a-more.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:215`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)

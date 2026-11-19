@@ -108,44 +108,38 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:955
 > Quinlan possessed the Kiffu talent of psychometrics, allowing him to read memories and impressions directly off the surface of objects.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos; Tholme — Quinlan's psychometry.
 Note (our notes, around the quote): Quinlan Vos; Tholme — Quinlan's psychometry: "Quinlan possessed the Kiffu talent of psychometrics, allowing him to read memories and impressions directly off the surface of objects." Source: The New Essential Chronology, p.45
-![Quote image: The New Essential Chronology, p.45 — full quote as printed](quotes/nec-p45-quinlans-psychometry.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:143`
 
 > Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Quinlan Vos; Tholme; Volfe Karkko; Aayla Secura — Quinlan kills Volfe Karkko: "Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell." Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-quinlan-kills-volfe-karkko.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:150`
 
 > Quinlan Vos and Aayla Secura defeated the two Morgukai and freed the young heir.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos; Aayla Secura — Morgukai.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura — Morgukai: "Quinlan Vos and Aayla Secura defeated the two Morgukai and freed the young heir." Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-morgukai.jpg)
+![Quote image: The New Essential Chronology, p.46 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p46-morgukai.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:152`
 
 > Fully convinced of the rightness of his mission, in his zeal Agen Kolar nearly killed his target. But, as planned, Quinlan eluded capture
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Agen Kolar; Quinlan Vos — Kolar vs Quinlan on Nar Shaddaa.
 Note (our notes, around the quote): Agen Kolar; Quinlan Vos — Kolar vs Quinlan on Nar Shaddaa: "Fully convinced of the rightness of his mission, in his zeal Agen Kolar nearly killed his target. But, as planned, Quinlan eluded capture" Source: The New Essential Chronology, p.63
-![Quote image: The New Essential Chronology, p.63 — full quote as printed](quotes/nec-p63-kolar-vs-quinlan-on-nar-shaddaa.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:293`
 
 > The Count could see that Quinlan already walked close to the dark side. It would not take much to make the deception a reality.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Count Dooku; Quinlan Vos — Dooku knows Quinlan walks close to the dark: "The Count could see that Quinlan already walked close to the dark side. It would not take much to make the deception a reality." Source: The New Essential Chronology, p.65
-![Quote image: The New Essential Chronology, p.65 — full quote as printed](quotes/nec-p65-dooku-knows-quinlan-walks-close-to.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:315`
 
 > Quinlan, caught in a crisis of conscience, cut down Kadrian Sey in order to save his aunt's life.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos — Quinlan kills Kadrian Sey.
 Note (our notes, around the quote): Quinlan Vos — Quinlan kills Kadrian Sey: "Quinlan, caught in a crisis of conscience, cut down Kadrian Sey in order to save his aunt's life." Source: The New Essential Chronology, p.65
-![Quote image: The New Essential Chronology, p.65 — full quote as printed](quotes/nec-p65-quinlan-kills-kadrian-sey.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:317`
 
 > With a surge of dark side power, Quinlan butchered his terrified aunt.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos — Quinlan butchers Sheyf Tinté.
 Note (our notes, around the quote): Quinlan Vos — Quinlan butchers Sheyf Tinté: "With a surge of dark side power, Quinlan butchered his terrified aunt." Source: The New Essential Chronology, p.65
-![Quote image: The New Essential Chronology, p.65 — full quote as printed](quotes/nec-p65-quinlan-butchers-sheyf-tint.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:319`
 
 > Over the Past decade, the ex-chancellor had collected reams of stories conceming Palpatine, including the fact thal, as with Seti Ashgad, his aritics often mysteriously vanished. Initially, Organa couldn't be sure that Valorum’s words weren't the bitter griping of 4 man forced from power, but two facts changed Organa’s mind. The first was the suspicious explosion of Valorum’s transport as it lifted off from a Coruscant starport, killing Finis Valorum and everyone else aboard. The second was Palpatine’s exploitation of the incident to Pass another secu: rity bill, which gave him unprecedented central power.
@@ -159,29 +153,25 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Quinlan Vos; Darth Andeddu — Andeddu holocron: "On the Sith tomb world of Korriban, Quinlan retrieved a holocron once belonging to the Sith Lord Darth Andeddu from a booby-trapped catacomb." Source: The New Essential Chronology, p.72
-![Quote image: The New Essential Chronology, p.72 — full quote as printed](quotes/nec-p72-andeddu-holocron.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:378`
 
 > he ran afoul of the Whiphid Jedi Master K'Kruhk, hero of Teyr and former dissident Jedi. K'Kruhk nearly died in his pursuit of Quinlan through the vertical city.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos; K'Kruhk — K'Kruhk nearly dies.
 Note (our notes, around the quote): Quinlan Vos; K'Kruhk — K'Kruhk nearly dies: "he ran afoul of the Whiphid Jedi Master K'Kruhk, hero of Teyr and former dissident Jedi. K'Kruhk nearly died in his pursuit of Quinlan through the vertical city." Source: The New Essential Chronology, p.72
-![Quote image: The New Essential Chronology, p.72 — full quote as printed](quotes/nec-p72-kkruhk-nearly-dies.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:380`
 
 - Note (summary from our notes, not a quotation): Quinlan Vos; Aayla Secura — Honoghr: "By forcing Quinlan into a position where he might have to kill her, Aayla made him realize that his obsession with rooting out the "second Sith" might not be worth the choices he had made." Source: The New Essential Chronology, p.74
   — Source: Part Two: The Fall of the Republic.
-![Quote image: The New Essential Chronology, p.74 — full quote as printed](quotes/nec-p74-honoghr.jpg)
+![Quote image: The New Essential Chronology, p.74 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p74-honoghr.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:398`
 
 - Note (summary from our notes, not a quotation): Aayla Secura; Quinlan Vos — art caption: "Jedi Knight Aayla Secura and Jedi Master Quinlan Vos" Source: The New Essential Chronology, p.74, caption
   — Source: Part Two: The Fall of the Republic.
-![Quote image: The New Essential Chronology, p.74 — full quote as printed](quotes/nec-p74-caption-jedi-knight-aayla-secura-and.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:400`
 
 > Bulq hired teachers from the elite Anzati assassin school to train his own clone soldiers, grown from the genetic material of Nikto Morgukai warriors. Jedi Master Tholme helped put an end to Bulq's plans.
 — Source: Part Two: The Fall of the Republic; Sora Bulq; Quinlan Vos; Tholme — Sora Bulq's clones.
 Note (our notes, around the quote): Sora Bulq; Quinlan Vos; Tholme — Sora Bulq's clones: "Bulq hired teachers from the elite Anzati assassin school to train his own clone soldiers, grown from the genetic material of Nikto Morgukai warriors. Jedi Master Tholme helped put an end to Bulq's plans." Source: The New Essential Chronology, p.78
-![Quote image: The New Essential Chronology, p.78 — full quote as printed](quotes/nec-p78-sora-bulqs-clones.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:446`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -191,31 +181,26 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Shaak Ti; Quinlan Vos: "During the Clone Wars, Sagoro escaped imprisonment on Brentaal IV and helped Jedi Shaak Ti and Quinlan Vos defeat Confederacy forces there, earning him immunity for past crimes." Source: The Complete Star Wars Encyclopedia, Vol. I, p.49
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.49 — full quote as printed](quotes/v1-p49-during-the-clone-wars-sagoro-escaped.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:185`
 
 > Tsyr was beheaded by Vos, giving Bok further reason to hate the Jedi.
 — Source: scan pages 81–120; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Tsyr was beheaded by Vos, giving Bok further reason to hate the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. I, p.83
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.83 — full quote as printed](quotes/v1-p83-tsyr-was-beheaded-by-vos-giving.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:145`
 
 > A Jedi double agent, Quinlan Vos, infiltrated the ranks of the acolytes and slew Bulg in turn.
 — Source: scan pages 81–120; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "A Jedi double agent, Quinlan Vos, infiltrated the ranks of the acolytes and slew Bulg in turn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.97
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.97 — full quote as printed](quotes/v1-p97-a-jedi-double-agent-quinlan-vos.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:255`
 
 > Vos defeated Zalem's plot to use the Infinity Gate to destroy Coruscant.
 — Source: scan pages 161–200; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Vos defeated Zalem's plot to use the Infinity Gate to destroy Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. I, p.173
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.173 — full quote as printed](quotes/v1-p173-vos-defeated-zalems-plot-to-use.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:241`
 
 > After the energy spiders killed Asanté Vos, Quinlan Vos destroyed all the spiders in order to completely end the supply of glitteryll.
 — Source: scan pages 321–360; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "After the energy spiders killed Asanté Vos, Quinlan Vos destroyed all the spiders in order to completely end the supply of glitteryll." Source: The Complete Star Wars Encyclopedia, Vol. I, p.345
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.345 — full quote as printed](quotes/v1-p345-after-the-energy-spiders-killed-asant.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:283`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -223,43 +208,36 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Vos and his fellow Jedi Aayla Secura saved Hentz and killed Zenex.
 — Source: scan pages 1–40; Quinlan Vos; Aayla Secura.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura: "Vos and his fellow Jedi Aayla Secura saved Hentz and killed Zenex." Source: The Complete Star Wars Encyclopedia, Vol. II, p.34
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.34 — full quote as printed](quotes/v2-p34-vos-and-his-fellow-jedi-aayla.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:267`
 
 > Their plan nearly succeeded, but Quinlan Vos destroyed the Star Chamber on the planet, stripping the Wave of its power.
 — Source: scan pages 81–120; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Their plan nearly succeeded, but Quinlan Vos destroyed the Star Chamber on the planet, stripping the Wave of its power." Source: The Complete Star Wars Encyclopedia, Vol. II, p.102
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.102 — full quote as printed](quotes/v2-p102-their-plan-nearly-succeeded-but-quinlan.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:175`
 
 > Vos went to Tibrin during the Clone Wars and killed the pro-Republic leader, Suribran Tu.
 — Source: scan pages 121–160; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Vos went to Tibrin during the Clone Wars and killed the pro-Republic leader, Suribran Tu." Source: The Complete Star Wars Encyclopedia, Vol. II, p.119
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.119 — full quote as printed](quotes/v2-p119-vos-went-to-tibrin-during-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:38`
 
 > Vos returned to Kiffex with the Jedi Knights, however, and defeated Karkko in combat.
 — Source: scan pages 201–240; Quinlan Vos; Volfe Karkko.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko: "Vos returned to Kiffex with the Jedi Knights, however, and defeated Karkko in combat." Source: The Complete Star Wars Encyclopedia, Vol. II, p.199
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.199 — full quote as printed](quotes/v2-p199-vos-returned-to-kiffex-with-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:40`
 
 > Using an illusion—that she had killed Vos—enabled her to get close enough to her mother to kill her.
 — Source: scan pages 241–280; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Using an illusion—that she had killed Vos—enabled her to get close enough to her mother to kill her." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-using-an-illusion-that-she-had.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:73`
 
 > After she was injured in Vos's successful destruction of the Infinity Gate, which could have destroyed Coruscant, Vos sensed the light side within Lai and brought her back with him to the Jedi Temple on the capital planet.
 — Source: scan pages 241–280; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "After she was injured in Vos's successful destruction of the Infinity Gate, which could have destroyed Coruscant, Vos sensed the light side within Lai and brought her back with him to the Jedi Temple on the capital planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-after-she-was-injured-in-voss.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:75`
 
 > Vos fought his way to freedom, and Morota admitted that she had been defeated.
 — Source: scan pages 321–360; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Vos fought his way to freedom, and Morota admitted that she had been defeated." Source: The Complete Star Wars Encyclopedia, Vol. II, p.331
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.331 — full quote as printed](quotes/v2-p331-vos-fought-his-way-to-freedom.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:124`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -267,55 +245,46 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > When Rancisis was placed in command of Republic operations on Saleucami to destroy a Confederacy cloning operation involving Morgukai warriors, Rancisis chose Vos as his second in command.
 — Source: scan pages 81–120; Oppo Rancisis; Quinlan Vos — entry/section: Rancisis, Oppo.
 Note (our notes, around the quote): Oppo Rancisis; Quinlan Vos — entry/section: Rancisis, Oppo: "When Rancisis was placed in command of Republic operations on Saleucami to destroy a Confederacy cloning operation involving Morgukai warriors, Rancisis chose Vos as his second in command." Source: The Complete Star Wars Encyclopedia, Vol. III, p.78
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.78 — full quote as printed](quotes/v3-p78-when-rancisis-was-placed-in-command.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:39`
 
 > She teamed with Quinlan Vos and two Jedi Masters, Tholme and Zao, to defeat the Anzati Sith magician.
 — Source: scan pages 121–160; Quinlan Vos; Tholme.
 Note (our notes, around the quote): Quinlan Vos; Tholme: "She teamed with Quinlan Vos and two Jedi Masters, Tholme and Zao, to defeat the Anzati Sith magician." Source: The Complete Star Wars Encyclopedia, Vol. III, p.121
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.121 — full quote as printed](quotes/v3-p121-she-teamed-with-quinlan-vos-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:48`
 
 > Vos killed Karkko, freeing Secura from his grasp.
 — Source: scan pages 121–160; Aayla Secura; Quinlan Vos; Volfe Karkko — entry/section: Secura, Aayla.
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos; Volfe Karkko — entry/section: Secura, Aayla: "Vos killed Karkko, freeing Secura from his grasp." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-vos-killed-karkko-freeing-secura-from.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:145`
 
 > On Kiffu, Quinlan Vos killed her when she tried to attack Sheyf Tinte.
 — Source: scan pages 121–160; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "On Kiffu, Quinlan Vos killed her when she tried to attack Sheyf Tinte." Source: The Complete Star Wars Encyclopedia, Vol. III, p.141
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.141 — full quote as printed](quotes/v3-p141-on-kiffu-quinlan-vos-killed-her.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:214`
 
 > Quinlan Vos, on a mission to infiltrate the Separatists, was forced to defeat Skorr and Kadrian Sey in combat in order to gain an audience with Dooku.
 — Source: scan pages 161–200; Quinlan Vos; Count Dooku.
 Note (our notes, around the quote): Quinlan Vos; Count Dooku: "Quinlan Vos, on a mission to infiltrate the Separatists, was forced to defeat Skorr and Kadrian Sey in combat in order to gain an audience with Dooku." Source: The Complete Star Wars Encyclopedia, Vol. III, p.160
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.160 — full quote as printed](quotes/v3-p160-quinlan-vos-on-a-mission-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:47`
 
 > Master Tholme was later dispatched to Kiffex to monitor Quinlan during the investigation into the reemergence of Volfe Karkko, and helped Quinlan defeat the feral Anzati warriors.
 — Source: scan pages 241–280; Tholme; Quinlan Vos; Volfe Karkko.
 Note (our notes, around the quote): Tholme; Quinlan Vos; Volfe Karkko: "Master Tholme was later dispatched to Kiffex to monitor Quinlan during the investigation into the reemergence of Volfe Karkko, and helped Quinlan defeat the feral Anzati warriors." Source: The Complete Star Wars Encyclopedia, Vol. III, p.237
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.237 — full quote as printed](quotes/v3-p237-master-tholme-was-later-dispatched-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:24`
 
 > On Saleucami, Tholme set out to destroy the Separatist cloning facilities Sora Bulq had built in the magma caverns, Tholme was forced to fight Quinlan, who refused to acknowledge that he was too close to the dark side.
 — Source: scan pages 241–280; Tholme; Sora Bulq; Quinlan Vos.
 Note (our notes, around the quote): Tholme; Sora Bulq; Quinlan Vos: "On Saleucami, Tholme set out to destroy the Separatist cloning facilities Sora Bulq had built in the magma caverns, Tholme was forced to fight Quinlan, who refused to acknowledge that he was too close to the dark side." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-on-saleucami-tholme-set-out-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:33`
 
 > When Vos learned of Tookarti's betrayal, he killed the Chadra-Fan.
 — Source: scan pages 241–280; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "When Vos learned of Tookarti's betrayal, he killed the Chadra-Fan." Source: The Complete Star Wars Encyclopedia, Vol. III, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.253 — full quote as printed](quotes/v3-p253-when-vos-learned-of-tookartis-betrayal.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:178`
 
 > Master K'kruhk and Quinlan Vos struggled, but Vos killed Viento before K'kruhk could stop him.
 — Source: scan pages 281–320; K'Kruhk; Quinlan Vos.
 Note (our notes, around the quote): K'Kruhk; Quinlan Vos: "Master K'kruhk and Quinlan Vos struggled, but Vos killed Viento before K'kruhk could stop him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.306
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.306 — full quote as printed](quotes/v3-p306-master-kkruhk-and-quinlan-vos-struggled.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:257`
 
 - Note (summary from our notes, not a quotation): Page contents: 1148 words, 13 paragraphs | headings/entries: Vorzyd 4; Vos, Quinian; Vos, Tinté
@@ -325,43 +294,36 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Vos's parents, Quian and Pethros, were members of the Guardians of Kiffu, but were killed by a group of rogue Anzati under the command of Volfe Karkko.
 — Source: scan pages 281–320; Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian: "Vos's parents, Quian and Pethros, were members of the Guardians of Kiffu, but were killed by a group of rogue Anzati under the command of Volfe Karkko." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-voss-parents-quian-and-pethros-were.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:313`
 
 > Vos defeated Karkko but left Kiffu with the Devaronian con artist Vilmarh Grahrk.
 — Source: scan pages 281–320; Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian: "Vos defeated Karkko but left Kiffu with the Devaronian con artist Vilmarh Grahrk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-vos-defeated-karkko-but-left-kiffu.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:317`
 
 > Vos learned that Dooku had been negotiating with Sheyf Tinté for the rights to establish a Separatist base on Kiffu, but when Dooku ordered Tinté's death, Vos killed Kadrian Sey before she could assassinate his aunt.
 — Source: scan pages 281–320; Quinlan Vos; Count Dooku — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Count Dooku — entry/section: Vos, Quinian: "Vos learned that Dooku had been negotiating with Sheyf Tinté for the rights to establish a Separatist base on Kiffu, but when Dooku ordered Tinté's death, Vos killed Kadrian Sey before she could assassinate his aunt." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-vos-learned-that-dooku-had-been.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:319`
 
 > He killed Commander Faie despite his injuries and was saved by the timely arrival of Vilmarh Grahrk.
 — Source: scan pages 281–320; Quinlan Vos — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Vos, Quinian: "He killed Commander Faie despite his injuries and was saved by the timely arrival of Vilmarh Grahrk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-he-killed-commander-faie-despite-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:323`
 
 > Vos defeated it by allowing himself to be swallowed whole.
 — Source: scan pages 321–360; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "Vos defeated it by allowing himself to be swallowed whole." Source: The Complete Star Wars Encyclopedia, Vol. III, p.329
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.329 — full quote as printed](quotes/v3-p329-vos-defeated-it-by-allowing-himself.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:118`
 
 > He was killed during a battle involving Jedi Quinlan Vos and the vampiric Anzati.
 — Source: scan pages 361–385; Quinlan Vos. POV: Quinlan Vos.
 Note (our notes, around the quote): Quinlan Vos: "He was killed during a battle involving Jedi Quinlan Vos and the vampiric Anzati." Source: The Complete Star Wars Encyclopedia, Vol. III, p.367
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.367 — full quote as printed](quotes/v3-p367-he-was-killed-during-a-battle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:116`
 
 > Vos intervened before she could pull the trigger, and Aayla Secura killed Zenex.
 — Source: scan pages 361–385; Quinlan Vos; Aayla Secura.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura: "Vos intervened before she could pull the trigger, and Aayla Secura killed Zenex." Source: The Complete Star Wars Encyclopedia, Vol. III, p.371
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.371 — full quote as printed](quotes/v3-p371-vos-intervened-before-she-could-pull.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:154`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -379,7 +341,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 > The Jedi who survived the Clone Wars saw their numbers decimated by the Emperor's Jedi Purge.
 — Source: scan pages 91–120; Quinlan Vos — entry/section: Vos knowledge is impressive.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Vos knowledge is impressive,: "The Jedi who survived the Clone Wars saw their numbers decimated by the Emperor's Jedi Purge." Source: The New Essential Guide to Characters, p.106
-![Quote image: The New Essential Guide to Characters, p.106 — full quote as printed](quotes/negc-p106-the-jedi-who-survived-the-clone.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:78`
 
 - Note (summary from our notes, not a quotation): Page contents: 530 words, 21 paragraphs | headings/entries: Vos, Quinlan Vos came from the; UINLAN Vos —
@@ -389,13 +350,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-1
 > Enraged, Vos tortured the Twi'lek leader with Force lightning until he divulged the name of the mastermind of the glitteryll plot—Republic Senator Chom Frey Kaa.
 — Source: scan pages 181–210; Quinlan Vos — entry/section: Vos, Quinlan Vos came from the.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Vos, Quinlan Vos came from the: "Enraged, Vos tortured the Twi'lek leader with Force lightning until he divulged the name of the mastermind of the glitteryll plot—Republic Senator Chom Frey Kaa." Source: The New Essential Guide to Characters, p.193
-![Quote image: The New Essential Guide to Characters, p.193 — full quote as printed](quotes/negc-p193-enraged-vos-tortured-the-twilek-leader.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:43`
 
 > Zalem directed an Infinity Wave to destroy Coruscant, but Vos redirected the stream of energy to wipe out the Gate itself.
 — Source: scan pages 181–210; Quinlan Vos — entry/section: UINLAN Vos.
 Note (our notes, around the quote): Quinlan Vos — entry/section: UINLAN Vos —: "Zalem directed an Infinity Wave to destroy Coruscant, but Vos redirected the stream of energy to wipe out the Gate itself." Source: The New Essential Guide to Characters, p.193
-![Quote image: The New Essential Guide to Characters, p.193 — full quote as printed](quotes/negc-p193-zalem-directed-an-infinity-wave-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:45`
 
 ## Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -403,14 +362,12 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-1
 > Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis.
 — Source: Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 20.
 Note (our notes, around the quote): T'ra Saa; Tholme; Quinlan Vos; Volfe Karkko — entry/section: T'ra Saa before the Clone Wars: "Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis." Source: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d148-s1-before-the-outbreak-of-open-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:14`; `suspect-insight/respect-threads/volfe-karkko.md:86`
 
 ## Jedi Counselling/Jedi Counseling 37 - Up the Walls.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Volfe Karkko; Quinlan Vos — entry/section: Volfe Karkko's illusion vs Quinlan Vos (question): "Q: Is it possible to use the skill Illusion to create duplicates of yourself (perhaps to fool an enemy)? In the Dark Horse Comics story "Darkness," the dark Jedi Volfe Karkko deflects one of Quinlan Vos's attacks and disappears, creating an illusion of various unruly-looking creatures around Vos. So is it possible to create a duplicate -- or several duplicates -- to draw fire while the actual target hides?" Source: *Jedi Counseling 37 - Up the Walls* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 37 - Up the Walls.pdf [Star Wars Rolepla.
-![Quote image: *Jedi Counseling 37 - Up the Walls* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d202-s2-q-is-it-possible-to-use.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/202-jedi-counseling-37-up-the-walls.md:21`
 
 ## Jedi Counselling/Jedi Counseling 89.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -424,7 +381,6 @@ Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:35`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 89 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_89_pdf_5c07c571c8`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 89 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_89_pdf_5c07c571c8`).)
 Note (our notes, around the quote): Yoda; Quinlan Vos — entry/section: Quinlan Vos rerolls under Yoda's commander effect: "For a more complex example involving multiple saves, consider what would happen if Quinlan Vos was within 6 squares of Yoda and adjacent to a Medical Droid (thereby granting Vos the Avoid Defeat ability) when he is reduced to 0 hit points by an enemy's attack. Vos makes two saves, each requiring a roll of 11+ to succeed." Source: *Jedi Counseling 89* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 89* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d259-s3-for-a-more-complex-example-involving.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:42`
 
 > Vos makes two saves, each requiring a roll of 11+ to succeed. On the first save, Vos rolls an 8 and fails. He invokes Yoda's commander effect to reroll, and this time, he rolls a 15 and succeeds. On the second save, Vos rolls a 4 and fails. He invokes Yoda's commander effect to reroll, but this time, he rolls a 6, which still fails. Then Vos uses a Force Point to reroll this save one more time, and he rolls an 18, which succeeds. Thus, his final reroll on each save was a success, so Vos is not defeated and instead has 10 hit points remaining. Q: Was the Flight ability accidentally omitted from Darth Maul on Speeder? Every other speeder miniature, even the Flash Speeder, has Flight. A: No, it was not a mistake. According to the Star Wars Roleplaying Game Arms & Equipment Guide, Darth Maul's speeder is a Razalon FC­20 Speeder Bike, and it hovers less than 1 meter from the ground.
@@ -432,7 +388,6 @@ Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:42`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 89 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_89_pdf_5c07c571c8`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 89 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_89_pdf_5c07c571c8`).)
 Note (our notes, around the quote): Quinlan Vos: "Thus, his final reroll on each save was a success, so Vos is not defeated and instead has 10 hit points remaining." Source: *Jedi Counseling 89* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 89* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d259-s3-thus-his-final-reroll-on-each.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:46`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -444,7 +399,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Approximately a year after the Battle of Naboo, the Jedi Council sent Jedi Knight Quinlan Vos to investigate reports of an ancient “Infinity Gate” buried beneath the surface of Dathomir. Going undercover on the interdicted world, Vos discovered that the hidden teleportation chamber had been built millennia earlier by the reptilian Kwa species (whose de-evolved descendants still lived on Dathomir as the animalistic Kwi). Under the malevolent hands of the Nightsisters, the Infinity Gate almost destroyed Coruscant with a wave of energy before Jedi Vos engineered the machine's destruction.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Quinlan Vos — entry/section: Vos destroys the Infinity Gate.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Vos destroys the Infinity Gate: "Approximately a year after the Battle of Naboo, the Jedi Council sent Jedi Knight Quinlan Vos to investigate reports of an ancient “Infinity Gate” buried beneath the surface of Dathomir. Going undercover on the interdicted world, Vos discovered that the hidden teleportation chamber had been built millennia earlier by the reptilian Kwa species (whose de-evolved descendants still lived on Dathomir as the animalistic Kwi). Under the malevolent hands of the Nightsisters, the Infinity Gate almost destroyed Coruscant with a wave of energy before Jedi Vos engineered the machine's destruction." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.31
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.31 — full quote as printed](quotes/d667-s31-approximately-a-year-after-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:201`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -460,13 +414,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: Geonosis and the Outer Rim Worlds: "Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89 — full quote as printed](quotes/d667-s89-ultimately-tsyr-was-felled-by-quinlan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:212`
 
 > Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura. After recuperating from that encounter and now fitted with a prosthetic right hand, Bok went on a mission to defeat the Jedi.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Tsyr; Bok (Morgukai); Quinlan Vos; Aayla Secura — entry/section: Tsyr and Bok: "Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura. After recuperating from that encounter and now fitted with a prosthetic right hand, Bok went on a mission to defeat the Jedi." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89 — full quote as printed](quotes/d667-s89-ultimately-tsyr-was-felled-by-quinlan-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:214`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -488,7 +440,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Accepted into the Jedi Order, Aayla grows to become highly skilled with a lightsaber, mastering the Ataru style many years earlier than expected, After overcoming amazing challenges— including a period of memory loss, rescuing Vos on Ord Mantell, and freeing Thoime from the clutches of the Morgukai—Aayla’s deeds convince the High Council to promote her to Jedi Knight.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Aayla Secura — entry/section: The Clone Wars Campaign Guide (Saga).
 Note (our notes, around the quote): Aayla Secura — entry/section: The Clone Wars Campaign Guide (Saga): "Accepted into the Jedi Order, Aayla grows to become highly skilled with a lightsaber, mastering the Ataru style many years earlier than expected, After overcoming amazing challenges— including a period of memory loss, rescuing Vos on Ord Mantell, and freeing Thoime from the clutches of the Morgukai—Aayla’s deeds convince the High Council to promote her to Jedi Knight." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.135
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.135 — full quote as printed](quotes/d728-s135-accepted-into-the-jedi-order-aayla.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:147`
 
 > We must move quickly if the Jedi Order is to survive.
@@ -511,7 +462,6 @@ Our notes: `notes/materials/038-star-wars-insider/054-ins054.md:297`
 > Quin, on the other hand, is a true Jedi but a troubled and troubling Jedi. His memory has been taken from him and that makes him more vulnerable to the dark side. More so since there is a darkness in him.
 — Source: Star Wars Insider #54 (2001).
 Note (our notes, around the quote): Quinlan Vos — entry/section: Quinlan Vos as troubled Jedi — writer John Ostrander, "The Grim Reaper of Comics" interview (crop ok): ""Quin, on the other hand, is a true Jedi but a troubled and troubling Jedi. His memory has been taken from him and that makes him more vulnerable to the dark side. More so since there is a darkness in him." —John Ostrander" Source: *Star Wars Insider #54* (2001), scan p.57
-![Quote image: *Star Wars Insider #54* (2001), scan p.57 — full quote as printed](quotes/ins054-s57-quin-on-the-other-hand-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/054-ins054.md:306`
 
 > A Jedi with no memory faces his past! *(Quinlan Vos arc, marketing copy)*
@@ -529,7 +479,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:617`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Quinlan Vos — entry/section: Jan Duursema on the origin of Quinlan Vos: "The result was Quinlan Vos, who, as Duursema explains, "came from the design of a background character in the outdoor cantina scene on Tatooine," —Jan Duursema, Star Wars Insider 59, p. 85" Source: *Star Wars Insider #59* (2002), scan p.85
-![Quote image: *Star Wars Insider #59* (2002), scan p.85 — full quote as printed](quotes/ins059-s85-the-result-was-quinlan-vos-who.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:619`
 
 ## Star Wars Insider #62 (2002)
@@ -564,7 +513,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:471`
 > He was playing up the darker aspects of his nature and pretending to be [on the] dark side, but he's gotten in way too deep. He believes he is still deceiving Dooku. He thinks he has everything under control – that he can tap into the dark side and still remain a Jedi. By the end of the story, it's up to the reader to decide which side Quin is truly on.
 — Source: Star Wars Insider #74 (2004); Quinlan Vos; Count Dooku — entry/section: Duursema on Quin undercover.
 Note (our notes, around the quote): Quinlan Vos; Count Dooku — entry/section: Duursema on Quin undercover: ""Quin is like the cop who goes underground to ferret out drug dealers and gets caught up in their world," says artist Jan Duursema. "He was playing up the darker aspects of his nature and pretending to be [on the] dark side, but he's gotten in way too deep. He believes he is still deceiving Dooku. He thinks he has everything under control – that he can tap into the dark side and still remain a Jedi. By the end of the story, it's up to the reader to decide which side Quin is truly on." —Jan Duursema, Star Wars Insider 74, p. 68" Source: *Star Wars Insider #74* (2004), scan p.68
-![Quote image: *Star Wars Insider #74* (2004), scan p.68 — full quote as printed](quotes/ins074-s68-quin-is-like-the-cop-who.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:473`
 
 - Note (summary from our notes, not a quotation): Page contents: Vos feature continued: Duursema and Ostrander on taking Quin to the dark side, his flaws, and whether Sidious or Dooku could be redeemed; sidebar of fallen-and-redeemed heroes. (hand-read)
@@ -587,13 +535,11 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:516`
 > He thinks he can handle the situation as long as he uses what he has learned of the dark side to help win the war for the Republic.
 — Source: Star Wars Insider #77 (2004); Quinlan Vos; Aayla Secura — entry/section: A shadowed path.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura — entry/section: A shadowed path: ""Quin has been walking a shadowed path and has not admitted to himself that he is falling to the dark side," says artist Jan Duursema. "He thinks he can handle the situation as long as he uses what he has learned of the dark side to help win the war for the Republic." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-quin-has-been-walking-a-shadowed.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:518`
 
 > A clone's armor is visible and tangible. The Jedi's armor is the Force. Aayla's faith and trust in Quin seems to be part of her armor—or is it the flaw in it?
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: The Jedi's armor is the Force: ""A clone's armor is visible and tangible. The Jedi's armor is the Force. Aayla's faith and trust in Quin seems to be part of her armor—or is it the flaw in it?" —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-a-clones-armor-is-visible-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:520`
 
 > We knew there had to be a confrontation between them,
@@ -602,7 +548,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:520`
 > Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: Aayla had to open Quin's eyes: ""We knew there had to be a confrontation between them," says Duursema, speaking of the straight-arrow Jedi student and her deeply flawed mentor. "Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-we-knew-there-had-to-be.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:522`
 
 - Note (summary from our notes, not a quotation): Page contents: "Armor" continued: the parallel with Obi-Wan and Anakin; whether Quinlan can be redeemed; the debut of Clone Commander Bly, a new breed of clone with more independence, from whose point of view Republic #68 is told (Daniel Wallace). (hand-read)
@@ -615,7 +560,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:527`
 > But the ending hasn't been written yet for Quin, so there are many possibilities—good/bad, dead/alive, redeemed/damned.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Quinlan Vos; Darth Vader (Anakin Skywalker) — entry/section: Many possibilities for Quin: ""We know that Anakin/Vader is redeemed," says Ostrander. "But the ending hasn't been written yet for Quin, so there are many possibilities—good/bad, dead/alive, redeemed/damned." —John Ostrander, Star Wars Insider 77, p. 83" Source: *Star Wars Insider #77* (2004), scan p.83
-![Quote image: *Star Wars Insider #77* (2004), scan p.83 — full quote as printed](quotes/ins077-s83-we-know-that-anakin-vader-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:529`
 
 > Aayla usually trusts her instincts, but her emotional attachment to her former Master is clouding her judgment,
@@ -624,13 +568,11 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:529`
 > Quin is part of her armor—her faith in him and all that he taught her protects her. Her attachment to him is also the flaw in her armor.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: The flaw in her armor: ""Aayla usually trusts her instincts, but her emotional attachment to her former Master is clouding her judgment," says Duursema. "Quin is part of her armor—her faith in him and all that he taught her protects her. Her attachment to him is also the flaw in her armor." —Jan Duursema, Star Wars Insider 77, p. 83" Source: *Star Wars Insider #77* (2004), scan p.83
-![Quote image: *Star Wars Insider #77* (2004), scan p.83 — full quote as printed](quotes/ins077-s83-aayla-usually-trusts-her-instincts-but.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:531`
 
 > Is the dark side still wrong if it is used to win a war for the 'good guys'?
 — Source: Star Wars Insider #77 (2004); Quinlan Vos — entry/section: Is the dark side still wrong?.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Is the dark side still wrong?: ""Is the dark side still wrong if it is used to win a war for the 'good guys'?" she asks. —Jan Duursema, Star Wars Insider 77, p. 83" Source: *Star Wars Insider #77* (2004), scan p.83
-![Quote image: *Star Wars Insider #77* (2004), scan p.83 — full quote as printed](quotes/ins077-s83-is-the-dark-side-still-wrong.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:533`
 
 ## Star Wars Insider #84 (2005)
@@ -722,7 +664,6 @@ Our notes: `notes/materials/038-star-wars-insider/137-ins137.md:429`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #137 (2012).
 Note (our notes, around the quote): Quinlan Vos — entry/section: Corroney on Vos and the dark side: ""Quinlan Vos dances as close to the dark side as anyone ever could without completely succumbing to its power... or does he?" —Joe Corroney, Star Wars Insider 137, p. 79" Source: *Star Wars Insider #137* (2012), scan p.79
-![Quote image: *Star Wars Insider #137* (2012), scan p.79 — full quote as printed](quotes/ins137-s79-quinlan-vos-dances-as-close-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/137-ins137.md:431`
 
 ## Star Wars Insider #139 (2013)

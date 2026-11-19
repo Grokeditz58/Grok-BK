@@ -89,13 +89,12 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:219`
 > Qwi Xux had recently developed an even deadlier weapon—the Sun Crusher—that could set up a supernova chain reaction in the core of a star.
 — Source: Part Eight: The Return of the Jedi Knights; Sun Crusher — Sun Crusher. POV: Sun Crusher; about Qwi Xux.
 Note (our notes, around the quote): Sun Crusher — Sun Crusher: "Qwi Xux had recently developed an even deadlier weapon—the Sun Crusher—that could set up a supernova chain reaction in the core of a star." Source: The New Essential Chronology, p.164
-![Quote image: The New Essential Chronology, p.164 — full quote as printed](quotes/nec-p164-sun-crusher.jpg)
+![Quote image: The New Essential Chronology, p.164 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p164-sun-crusher.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:31`
 
 > But Kyp Durron tracked down Xux on Ithor, using his newfound dark side powers to wipe clean the weapons knowledge from her memory.
 — Source: Part Eight: The Return of the Jedi Knights; Kyp Durron — Kyp wipes Qwi's memory. POV: speaker not named in our notes.
 Note (our notes, around the quote): Kyp Durron — Kyp wipes Qwi's memory: "But Kyp Durron tracked down Xux on Ithor, using his newfound dark side powers to wipe clean the weapons knowledge from her memory." Source: The New Essential Chronology, p.165
-![Quote image: The New Essential Chronology, p.165 — full quote as printed](quotes/nec-p165-kyp-wipes-qwis-memory.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:46`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -109,7 +108,6 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron; Luke Skywalker; Qwi Xux — General Wedge Antilles — Kyp and Qwi Xux: "Only later can he accept Luke's gentle argument that if he, a Jedi Master, could not stand up to Kyp's Sith-augmented powers, Wedge could not be expected to do so when Kyp came for Qwi Xux." Source: The Jedi Academy Sourcebook, p.16
-![Quote image: The Jedi Academy Sourcebook, p.16 — full quote as printed](quotes/jas-p16-general-wedge-antilles-kyp-and-qwi.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/01-ch1-the-new-republic.md:84`
 
 > In Kyp’s view, Luke refuses to learn from that failure. To bring the new Jedi Knights to greater power, he should recognize new abilities, to make his Jedi Knights powerful enough to resist a purge like Vader's, Kyp believes that the pow- ers of the Sith, as revealed by Exar Kun, is the source of a greater power.
@@ -127,7 +125,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/01-ch1-the-new-republic.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron; Qwi Xux; Sun Crusher — Kyp Durron — Qwi Xux's memory: "Along the way, he stops by Ithor to wipe Qwi Xux's memory of the Sun Crusher and all knowledge she used to invent it." Source: The Jedi Academy Sourcebook, p.36
-![Quote image: The Jedi Academy Sourcebook, p.36 — full quote as printed](quotes/jas-p36-kyp-durron-qwi-xuxs-memory.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:95`
 
 > Alter Difficulty: Target’s willpower, Percep- tion or control roll. Modified by relationship.
@@ -145,7 +142,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron; Qwi Xux — Memory Wipe — Sith power effect: "This dreadful power allows a Sith to sift through another person's mind, and destroy all knowledge of specific events or learned skills." Source: The Jedi Academy Sourcebook, p.51
-![Quote image: The Jedi Academy Sourcebook, p.51 — full quote as printed](quotes/jas-p51-memory-wipe-sith-power-effect.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:64`
 
 > The major offsite location is the construction dock which drifts not far from the base. The dock is where the Maw mechanics assemble the various prototypes designed by the scientists.
@@ -169,19 +165,16 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Sun Crusher; Qwi Xux — Sun Crusher — development cost: "Each of its innovative features, from its molecular armor to its resonance torpedoes, cost as much to develop as the original Death Star superlaser. The Sun Crusher project was headed by Qwi Xux, who also contributed some of its design features." Source: The Jedi Academy Sourcebook, p.66
-![Quote image: The Jedi Academy Sourcebook, p.66 — full quote as printed](quotes/jas-p66-sun-crusher-development-cost.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:35`
 
 > Of the 10 Omwati children who entered the program, only Qwi made it through all the training.
 — Source: Chapter Six: Maw Installation; Qwi Xux — Qwi Xux — Tarkin's training program.
 Note (our notes, around the quote): Qwi Xux — Qwi Xux — Tarkin's training program: "Of the 10 Omwati children who entered the program, only Qwi made it through all the training." Source: The Jedi Academy Sourcebook, p.75
-![Quote image: The Jedi Academy Sourcebook, p.75 — full quote as printed](quotes/jas-p75-qwi-xux-tarkins-training-program.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:102`
 
 > When Qwi defects to the New Republic, she goes before the New Republic Assembly to champion the destruction of the Sun Crusher.
 — Source: Chapter Six: Maw Installation.
 Note (our notes, around the quote): Qwi Xux; Sun Crusher — Qwi Xux — championing destruction of the Sun Crusher: "When Qwi defects to the New Republic, she goes before the New Republic Assembly to champion the destruction of the Sun Crusher." Source: The Jedi Academy Sourcebook, p.75
-![Quote image: The Jedi Academy Sourcebook, p.75 — full quote as printed](quotes/jas-p75-qwi-xux-championing-destruction-of-the.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:104`
 
 > Only upon meeting Wedge does she realize how empty her life has been, how devoid of personal relationships. Her only joys have come from completing a project or proving her designs and theories correct.
@@ -193,7 +186,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron; Qwi Xux; Sun Crusher — Qwi Xux — Kyp's memory wipe: "Kyp Durron finds her there, and using Sith powers, drains her mind of all she knew of the Sun Crusher." Source: The Jedi Academy Sourcebook, p.75
-![Quote image: The Jedi Academy Sourcebook, p.75 — full quote as printed](quotes/jas-p75-qwi-xux-kyps-memory-wipe.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:106`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -201,7 +193,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.
 > Hydra One of Admiral Daala's four Star Destroyers protecting the Maw Installation, it was demolished when Han Solo, Kyp Durron, and Qwi Xux escaped the secret facility in the Sun Crusher seven years after the Battle of Endor.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Admiral Daala; Han Solo; Kyp Durron; Qwi Xux; Sun Crusher (superweapon): "Hydra One of Admiral Daala's four Star Destroyers protecting the Maw Installation, it was demolished when Han Solo, Kyp Durron, and Qwi Xux escaped the secret facility in the Sun Crusher seven years after the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. II, p.69
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.69 — full quote as printed](quotes/v2-p69-hydra-one-of-admiral-daalas-four.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:248`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -209,13 +200,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > He ordered the four surviving students—including young Qwi Xux—to look out the windows of their orbital education facility as he ordered his Star Destroyer to destroy Pillik's village.
 — Source: scan pages 1–40; Qwi Xux. POV: Qwi Xux.
 Note (our notes, around the quote): Qwi Xux: "He ordered the four surviving students—including young Qwi Xux—to look out the windows of their orbital education facility as he ordered his Star Destroyer to destroy Pillik's village." Source: The Complete Star Wars Encyclopedia, Vol. III, p.26
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.26 — full quote as printed](quotes/v3-p26-he-ordered-the-four-surviving-students.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:231`
 
 > Under Admiral Daala, a design team headed by the scientist Qwi Xux made many breakthroughs that led to the new Sun Crusher, Only slightly larger than a fighter, its resonance torpedoes were powerful enough to destroy a star.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Sun Crusher (superweapon); Admiral Daala; Qwi Xux — entry/section: Sun Crusher: "Under Admiral Daala, a design team headed by the scientist Qwi Xux made many breakthroughs that led to the new Sun Crusher, Only slightly larger than a fighter, its resonance torpedoes were powerful enough to destroy a star." Source: The Complete Star Wars Encyclopedia, Vol. III, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.197 — full quote as printed](quotes/v3-p197-under-admiral-daala-a-design-team.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:26`
 
 ## The New Essential Guide to Characters (2002)

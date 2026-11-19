@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Barzur Antilles — entry/section: Race for the Tessent.
 Note (our notes, around the quote): Barzur Antilles — entry/section: Race for the Tessent: "“The Tessent? Half-meter-tall chunk of rock. Clear in places, kind of milky in others, with these bands of color running" Source: *Star Wars Gamer 09* (SWRPG d20), scan p.61
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.61 — full quote as printed](quotes/d058-s61-the-tessent-half-meter-tall-chunk.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-104.md:12`
 
 # Debate and forum claims (unverified)

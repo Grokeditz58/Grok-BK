@@ -37,7 +37,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 
 - Note (summary from our notes, not a quotation): Mara Jade Skywalker — entry/section: Mara as Imperial justice: "That's easy enough," Mara said“! am justice.” She nodded her head toward Egron’s body. “He tried to betray the Empire.|pronounced him guilty, and executed him." Source: *Star Wars Gamer 10* (SWRPG d20), scan p.35
   — Source: Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20,.
-![Quote image: *Star Wars Gamer 10* (SWRPG d20), scan p.35 — full quote as printed](quotes/d059-s35-thats-easy-enough-mara-said-am.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-060.md:214`
 
 # Debate and forum claims (unverified)

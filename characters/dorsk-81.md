@@ -38,7 +38,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:136`
 > The Jedi channeled their unified push through the conduit of Dorsk 81—a blast strong enough to shove Pellaeon's entire Star Destroyer fleet to the fringes of the Yavin system. The surge of power was too great for Dorsk 81's physical body, and he died, incinerated from within.
 — Source: Part Eight: The Return of the Jedi Knights; Dorsk 81's sacrifice. POV: Dorsk 81's sacrifice.
 Note (our notes, around the quote): Dorsk 81's sacrifice: "The Jedi channeled their unified push through the conduit of Dorsk 81—a blast strong enough to shove Pellaeon's entire Star Destroyer fleet to the fringes of the Yavin system. The surge of power was too great for Dorsk 81's physical body, and he died, incinerated from within." Source: The New Essential Chronology, p.171
-![Quote image: The New Essential Chronology, p.171 — full quote as printed](quotes/nec-p171-dorsk-81s-sacrifice.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:106`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -50,7 +49,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Dorsk 81 died a hero after again joining with his fellow Jedi and channeling their combined powers through himself to create a Force storm that pushed an entire fleet of attacking Imperial Star Destroyers nearly out of the Yavin system.
 — Source: scan pages 201–240; Dorsk 81 — entry/section: Dorsk 81.
 Note (our notes, around the quote): Dorsk 81 — entry/section: Dorsk 81: "Dorsk 81 died a hero after again joining with his fellow Jedi and channeling their combined powers through himself to create a Force storm that pushed an entire fleet of attacking Imperial Star Destroyers nearly out of the Yavin system." Source: The Complete Star Wars Encyclopedia, Vol. I, p.201
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.201 — full quote as printed](quotes/v1-p201-dorsk-81-died-a-hero-after.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:137`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -58,7 +56,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > The following year, Dorsk 81 returned to Khomm; his warnings of an Imperial attack were ignored, and the planet was devastated by Colonel Cronus and his fleet of Victory-class Star Destroyers.
 — Source: scan pages 201–240; Dorsk 81. POV: Dorsk 81.
 Note (our notes, around the quote): Dorsk 81: "The following year, Dorsk 81 returned to Khomm; his warnings of an Imperial attack were ignored, and the planet was devastated by Colonel Cronus and his fleet of Victory-class Star Destroyers." Source: The Complete Star Wars Encyclopedia, Vol. II, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.215 — full quote as printed](quotes/v2-p215-the-following-year-dorsk-81-returned.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:216`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -66,7 +63,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > This orderly way of life changed when a Khommite named Dorsk 81 discovered that he was capable of sensing the Force.
 — Source: Chapter Five: Creatures, species and archetypes; Dorsk 81. POV: Dorsk 81.
 Note (our notes, around the quote): Dorsk 81: "This orderly way of life changed when a Khommite named Dorsk 81 discovered that he was capable of sensing the Force." Source: Power of the Jedi Sourcebook, p.68
-![Quote image: Power of the Jedi Sourcebook, p.68 — full quote as printed](quotes/potj-p68-this-orderly-way-of-life-changed.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/05-ch5-species-archetypes.md:34`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -78,7 +74,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > The highly organized way of life on Khomm changed when a Khommite named Dorsk 81 discovered he was capable of sensing the Force. When he left his world to study at Master Skywalker’s academy, other Khommites considered him a borderline lunatic. They fully expected him to eventually return to his old duties, but Dorsk 81 had other plans. The Khommite homeworld was later attacked by a fleet of powerful Imperial ships and suffered massive destruction. After such a powerful blow to their carefully ordered society, many Khommites reconsidered the benefits of pure conformity without innovation. Since then, a few have left Khomm to follow the example of Dorsk 81.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Dorsk 81; Luke Skywalker — entry/section: Khommite.
 Note (our notes, around the quote): Dorsk 81; Luke Skywalker — entry/section: Khommite: "The highly organized way of life on Khomm changed when a Khommite named Dorsk 81 discovered he was capable of sensing the Force. When he left his world to study at Master Skywalker’s academy, other Khommites considered him a borderline lunatic. They fully expected him to eventually return to his old duties, but Dorsk 81 had other plans. The Khommite homeworld was later attacked by a fleet of powerful Imperial ships and suffered massive destruction. After such a powerful blow to their carefully ordered society, many Khommites reconsidered the benefits of pure conformity without innovation. Since then, a few have left Khomm to follow the example of Dorsk 81." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.87
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.87 — full quote as printed](quotes/d673-s87-the-highly-organized-way-of-life.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-061-120.md:148`
 
 ## https://starwars.fandom.com/wiki/Exar_Kun ; https://starwars.fandom.com/wiki/Exar_Kun/Legends

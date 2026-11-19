@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > He eventually was defeated by Mandalorian mercenaries.
 — Source: scan pages 161–200; Dark Underlord — entry/section: Dark Underlord.
 Note (our notes, around the quote): Dark Underlord — entry/section: Dark Underlord: "He eventually was defeated by Mandalorian mercenaries." Source: The Complete Star Wars Encyclopedia, Vol. I, p.169
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.169 — full quote as printed](quotes/v1-p169-he-eventually-was-defeated-by-mandalorian.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:207`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Halcyon vs Nikkos Tyris. POV: Halcyon vs Nikkos Tyris.
 Note (our notes, around the quote): Halcyon vs Nikkos Tyris: "Shortly after, on Susevfi, Nejaa Halcyon lost his life in a duel against the Anzati Dark Jedi Nikkos Tyris. The Anzati also perished in the battle" Source: The New Essential Chronology, p.77
-![Quote image: The New Essential Chronology, p.77 — full quote as printed](quotes/nec-p77-halcyon-vs-nikkos-tyris.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:429`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -29,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/648-heros-guide-web-enhancement-li
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from evised Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Lightsaber Forms and the Fallanassi (text copy `evised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Lightsaber_Forms_and_the_Fallanassi_pdf_03813bf3fe`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from evised Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Lightsaber Forms and the Fallanassi (text copy `evised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Lightsaber_Forms_and_the_Fallanassi_pdf_03813bf3fe`).)
 Note (our notes, around the quote): Adi Gallia — entry/section: Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi: "Adi Gallia was one of the few Jedi around the time of the Clone Wars known to actively practice the form, as was the Anzati Jedi called Nikkos Tyris." Source: *Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d648-s2-adi-gallia-was-one-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/648-heros-guide-web-enhancement-lightsaber-forms-and.md:17`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–185)

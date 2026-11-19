@@ -64,7 +64,6 @@ Our notes: `notes/materials/037-sw-d20-folder/697-starship-battles-preview-6.md:
 > When the Separatists occupied Utapau during the Clone Wars, Port Administrator Tion Medon ordered the militia to hide its starfighter forces (including squadrons of P-38s) in the sinkholes and caves that dot the surface of the planet. After the arrival of General Kenobi, these starfighters were readied to aid the Republic in liberating the planet from Grievous and his droids.
 — Source: Vehicles/Miniatures/Starship Battles Preview 6.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous — entry/section: Utapaun P-38 Starfighter: "When the Separatists occupied Utapau during the Clone Wars, Port Administrator Tion Medon ordered the militia to hide its starfighter forces (including squadrons of P-38s) in the sinkholes and caves that dot the surface of the planet. After the arrival of General Kenobi, these starfighters were readied to aid the Republic in liberating the planet from Grievous and his droids." Source: *Starship Battles Preview 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Starship Battles Preview 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d697-s2-when-the-separatists-occupied-utapau-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/697-starship-battles-preview-6.md:17`
 
 ## Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–162)
@@ -92,7 +91,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-181-240.md:4
 > I felt almost priestlike when it was on, and that's when I thought, I'm the administrator of this planet, but that role carries extra responsibilities.
 — Source: Star Wars Insider #77 (2004); Tion Medon — entry/section: Administrator of this planet.
 Note (our notes, around the quote): Tion Medon — entry/section: Administrator of this planet: ""I felt almost priestlike when it was on, and that's when I thought, I'm the administrator of this planet, but that role carries extra responsibilities." —Bruce Spence, Tion Medan, Star Wars Insider 77, p. 45" Source: *Star Wars Insider #77* (2004), scan p.45
-![Quote image: *Star Wars Insider #77* (2004), scan p.45 — full quote as printed](quotes/ins077-s45-i-felt-almost-priestlike-when-it.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:291`
 
 ## Star Wars Insider #79 (2005)
@@ -142,7 +140,6 @@ Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:226`
 > And I think Tion Medon really feels a teensy weensy bit superior.
 — Source: Star Wars Insider #90 (2006).
 Note (our notes, around the quote): Tion Medon; Obi-Wan Kenobi — entry/section: Spence on Tion Medon: ""Obi-Wan Kenobi still hasn't reached that moment in time where he can be one of the great nobles," he says. "And I think Tion Medon really feels a teensy weensy bit superior." —Bruce Spence, Star Wars Insider 90, p. 39" Source: *Star Wars Insider #90* (2006), scan p.39
-![Quote image: *Star Wars Insider #90* (2006), scan p.39 — full quote as printed](quotes/ins090-s39-obi-wan-kenobi-still-hasnt-reached.jpg)
 Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:228`
 
 ## Star Wars Insider #95 (2007)

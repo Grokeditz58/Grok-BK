@@ -20,19 +20,16 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > The first Sith Holocron was crafted by King Adas on Korriban millennia ago. Korriban was under siege by the ancient Rakata and their Infinite Empire; it is believed the Rakata taught Adas the secrets of Holocron creation in an attempt to placate him.
 — Source: The Sith; King Adas — Sith Holocrons.
 Note (our notes, around the quote): King Adas — Sith Holocrons: "The first Sith Holocron was crafted by King Adas on Korriban millennia ago. Korriban was under siege by the ancient Rakata and their Infinite Empire; it is believed the Rakata taught Adas the secrets of Holocron creation in an attempt to placate him." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-the-first-sith-holocron-was-crafted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:85`
 
 > For millennia, Sith tribes warred and tore each other apart with their primitive grasp of the dark side of the Force. They were finally united by a Sith named Adas, who joined the Sith tribes into one unified kingdom. Adas ruled over the Sith for centuries, while successfully defending Korriban from the Rakata Infinite Empire.
 — Source: Species, technology, planets and the future; King Adas — Korriban intro.
 Note (our notes, around the quote): King Adas — Korriban intro: "For millennia, Sith tribes warred and tore each other apart with their primitive grasp of the dark side of the Force. They were finally united by a Sith named Adas, who joined the Sith tribes into one unified kingdom. Adas ruled over the Sith for centuries, while successfully defending Korriban from the Rakata Infinite Empire." Source: The Old Republic Encyclopedia, p.290
-![Quote image: The Old Republic Encyclopedia, p.290 — full quote as printed](quotes/tore-p290-for-millennia-sith-tribes-warred-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:246`
 
 > Thousands of years after the fall of Adas, exiled Dark Jedi landed on Korriban and dominated the Sith, who became willing slaves. Under the command of the Dark Jedi Ajunta Pall, a new Sith civilization was forged, with the exiled Jedi worshipped as gods.
 — Source: Species, technology, planets and the future; Ajunta Pall — Korriban intro.
 Note (our notes, around the quote): Ajunta Pall — Korriban intro: "Thousands of years after the fall of Adas, exiled Dark Jedi landed on Korriban and dominated the Sith, who became willing slaves. Under the command of the Dark Jedi Ajunta Pall, a new Sith civilization was forged, with the exiled Jedi worshipped as gods." Source: The Old Republic Encyclopedia, p.290
-![Quote image: The Old Republic Encyclopedia, p.290 — full quote as printed](quotes/tore-p290-thousands-of-years-after-the-fall.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:250`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -46,7 +43,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 > Some 27,000 years before the Battle of Yavin, in the wake of King Adas's defeat of the Rakata, Korriban was abandoned as a base for the Sith.
 — Source: scan pages 201–240; King Adas. POV: King Adas.
 Note (our notes, around the quote): King Adas: "Some 27,000 years before the Battle of Yavin, in the wake of King Adas's defeat of the Rakata, Korriban was abandoned as a base for the Sith." Source: The Complete Star Wars Encyclopedia, Vol. II, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.227 — full quote as printed](quotes/v2-p227-some-27-000-years-before-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:344`
 
 ## Book of Sith: Secrets from the Dark Side (2012)
@@ -54,13 +50,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Ajunta Pall beheaded their ruler, Hakagram Graush, and claimed the throne as the blood heir to the ancestral King Adas—and we became his Shadow Hands.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy; Sorzus Syn; Ajunta Pall; King Adas.
 Note (our notes, around the quote): Sorzus Syn; Ajunta Pall; King Adas: "Ajunta Pall beheaded their ruler, Hakagram Graush, and claimed the throne as the blood heir to the ancestral King Adas—and we became his Shadow Hands." Source: Book of Sith, scan p.17
-![Quote image: Book of Sith, scan p.17 — full quote as printed](quotes/bos-s17-ajunta-pall-beheaded-their-ruler-hakagram.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:67`
 
 > More than three millennia before the Republic's founding, a prodigious Sith arose—his named was Adas.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy; King Adas. POV: King Adas.
 Note (our notes, around the quote): King Adas: "More than three millennia before the Republic's founding, a prodigious Sith arose—his named was Adas." Source: Book of Sith, scan p.32
-![Quote image: Book of Sith, scan p.32 — full quote as printed](quotes/bos-s32-more-than-three-millennia-before-the.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:172`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

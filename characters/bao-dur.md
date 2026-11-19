@@ -92,7 +92,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Bao-Dur activates the Mass Shadow Generator on Malachor V again, destroying what is left of the planet, and Traya is defeated.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia. POV: Kreia, about Bao-Dur.
 Note (our notes, around the quote): Kreia: "Bao-Dur activates the Mass Shadow Generator on Malachor V again, destroying what is left of the planet, and Traya is defeated." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-bao-dur-activates-the-mass-shadow.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:360`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

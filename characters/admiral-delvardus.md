@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > On Metellos, an Imperial armada under the command of Admiral Delvardus routed the New Republic defensive fleet and shelled the planet in a cruel and wholly unnecessary show of force, killing more than five billion people.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Admiral Delvardus — entry/section: Delvardus shells Metellos.
 Note (our notes, around the quote): Admiral Delvardus — entry/section: Delvardus shells Metellos: "On Metellos, an Imperial armada under the command of Admiral Delvardus routed the New Republic defensive fleet and shelled the planet in a cruel and wholly unnecessary show of force, killing more than five billion people." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.112
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.112 — full quote as printed](quotes/d665-s112-on-metellos-an-imperial-armada-under.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:366`
 
 # Debate and forum claims (unverified)

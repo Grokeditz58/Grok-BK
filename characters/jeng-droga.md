@@ -34,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > Kyle became the academy's foremost battlemaster, honing the skills of countless Jedi students like Jaden Korr, and stopping the dark side berserker Jeng Droga. During the Yuuzhan Vong invasion, Kyle helped develop strategies against the invaders, freed the human captives of the Imperial Remnant world Ord Sedra, and flew a living Sekotan starship in the final battle for the planet Zonama Sekot.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jaden Korr; Jeng Droga — entry/section: Kyle the battlemaster: "Kyle became the academy's foremost battlemaster, honing the skills of countless Jedi students like Jaden Korr, and stopping the dark side berserker Jeng Droga. During the Yuuzhan Vong invasion, Kyle helped develop strategies against the invaders, freed the human captives of the Imperial Remnant world Ord Sedra, and flew a living Sekotan starship in the final battle for the planet Zonama Sekot." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-kyle-became-the-academys-foremost-battlemaster.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:29`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

@@ -14,7 +14,6 @@
 > Valance returned with his crew to wipe out the entire facility, ensuring that no records of his surgery remained.
 — Source: scan pages 41–80; Beilert Valance. POV: Beilert Valance.
 Note (our notes, around the quote): Beilert Valance: "Valance returned with his crew to wipe out the entire facility, ensuring that no records of his surgery remained." Source: The Complete Star Wars Encyclopedia, Vol. I, p.31
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.31 — full quote as printed](quotes/v1-p31-valance-returned-with-his-crew-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:49`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -22,13 +21,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Vader had come to wring out information about the pilot who had destroyed the first Death Star, and Valance had come to ensure Vader didn't get it.
 — Source: scan pages 241–280; Darth Vader (Anakin Skywalker); Beilert Valance.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Beilert Valance: "Vader had come to wring out information about the pilot who had destroyed the first Death Star, and Valance had come to ensure Vader didn't get it." Source: The Complete Star Wars Encyclopedia, Vol. II, p.264
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.264 — full quote as printed](quotes/v2-p264-vader-had-come-to-wring-out.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:261`
 
 > After Valance was defeated by Vader in combat, Lucian decided that he could not let Vader have the information he sought.
 — Source: scan pages 241–280; Beilert Valance; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Beilert Valance; Darth Vader (Anakin Skywalker): "After Valance was defeated by Vader in combat, Lucian decided that he could not let Vader have the information he sought." Source: The Complete Star Wars Encyclopedia, Vol. II, p.264
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.264 — full quote as printed](quotes/v2-p264-after-valance-was-defeated-by-vader.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:263`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -40,7 +37,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > After gathering a group of mercenaries and bounty hunters to assist him, Valance attacked the base at Telos-4, destroying everything to erase his past.
 — Source: scan pages 281–320; Beilert Valance — entry/section: Valance, Beilert.
 Note (our notes, around the quote): Beilert Valance — entry/section: Valance, Beilert: "After gathering a group of mercenaries and bounty hunters to assist him, Valance attacked the base at Telos-4, destroying everything to erase his past." Source: The Complete Star Wars Encyclopedia, Vol. III, p.291
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.291 — full quote as printed](quotes/v3-p291-after-gathering-a-group-of-mercenaries.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:130`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -54,7 +50,6 @@ Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-001-06
 > The final chapter of Marvel's Valance trilogy finds Vader on Centares, battling a cyborg bounty hunter for the identity of Luke Skywalker.
 — Source: Star Wars Insider #52 (2000).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Comics Link (Rich Handley, "Dark Encounter"), printed p. 59: "The final chapter of Marvel's Valance trilogy finds Vader on Centares, battling a cyborg bounty hunter for the identity of Luke Skywalker." Source: *Star Wars Insider #52* (2000), scan p.59
-![Quote image: *Star Wars Insider #52* (2000), scan p.59 — full quote as printed](quotes/ins052-s59-the-final-chapter-of-marvels-valance.jpg)
 Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:328`
 
 ## Star Wars Insider #91 (2007)

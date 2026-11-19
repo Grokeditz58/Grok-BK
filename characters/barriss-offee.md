@@ -14,13 +14,12 @@
 > Barriss Offee discovered that the bota acted as a Force magnifier for her Jedi perceptions, and briefly flirted with an addiction to the medicinal mold.
 — Source: Part Two: The Fall of the Republic; Barriss Offee — bota as Force magnifier.
 Note (our notes, around the quote): Barriss Offee — bota as Force magnifier: "Barriss Offee discovered that the bota acted as a Force magnifier for her Jedi perceptions, and briefly flirted with an addiction to the medicinal mold." Source: The New Essential Chronology, p.74
-![Quote image: The New Essential Chronology, p.74 — full quote as printed](quotes/nec-p74-bota-as-force-magnifier.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:396`
 
 > On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Aayla Secura; Barriss Offee; Ki-Adi-Mundi; Plo Koon; Stass Allie; Obi-Wan Kenobi; Yoda — Order 66: "On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-order-66.jpg)
+![Quote image: The New Essential Chronology, p.84 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p84-order-66.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:518`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -28,13 +27,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > At the height of the Clone Wars, Separatist forces tried to capture Ilum and destroy the crystal mines, but they were defeated by Jedi Masters Yoda and Luminara Unduli, along with Barriss Offee and Padmé Amidala.
 — Source: scan pages 81–120; Yoda; Luminara Unduli; Barriss Offee; Padmé Amidala.
 Note (our notes, around the quote): Yoda; Luminara Unduli; Barriss Offee; Padmé Amidala: "At the height of the Clone Wars, Separatist forces tried to capture Ilum and destroy the crystal mines, but they were defeated by Jedi Masters Yoda and Luminara Unduli, along with Barriss Offee and Padmé Amidala." Source: The Complete Star Wars Encyclopedia, Vol. II, p.84
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.84 — full quote as printed](quotes/v2-p84-at-the-height-of-the-clone.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:69`
 
 > Clone troopers led by Jedi Luminara Unduli and Barriss Offee were able to defeat the Separatist forces and free the settlers.
 — Source: scan pages 361–400; Luminara Unduli; Barriss Offee.
 Note (our notes, around the quote): Luminara Unduli; Barriss Offee: "Clone troopers led by Jedi Luminara Unduli and Barriss Offee were able to defeat the Separatist forces and free the settlers." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-clone-troopers-led-by-jedi-luminara.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:18`
 
 - Note (summary from our notes, not a quotation): Page contents: 1215 words, 32 paragraphs | headings/entries: Odosk, General; Odovrera, Joon; Odrion, Mors; Odryn; ODT; Odumin; Off-Canau; Off Chance; Offdurmin, Bescat; Offee, Barriss
@@ -44,7 +41,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > She was killed by an AT-TE when the clone troopers under her command carried out Order 66.
 — Source: scan pages 401–440; Barriss Offee — entry/section: Offee, Barriss.
 Note (our notes, around the quote): Barriss Offee — entry/section: Offee, Barriss: "She was killed by an AT-TE when the clone troopers under her command carried out Order 66." Source: The Complete Star Wars Encyclopedia, Vol. II, p.404
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.404 — full quote as printed](quotes/v2-p404-she-was-killed-by-an-at.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:75`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -70,7 +66,6 @@ Our notes: `notes/materials/037-sw-d20-folder/089-soergg-and-gargonn.md:10`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Soergg and Gargonn (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Soergg_and_Gargonn_pdf_ac89d8292d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Soergg and Gargonn (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Soergg_and_Gargonn_pdf_ac89d8292d`).)
 Note (our notes, around the quote): Barriss Offee — entry/section: Soergg kidnaps Barriss Offee: "Soergg's mistake was kidnapping the Jedi Padawan Barriss Offee, which alerted the Jedi delegation to the plot. The team eventually helped make the unification of the prairie-dwelling Alwari and the urban Ansionians a reality, preventing Ansion from joining the secessionists." Source: *Soergg and Gargonn* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Soergg and Gargonn* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d089-s1-soerggs-mistake-was-kidnapping-the-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/089-soergg-and-gargonn.md:14`
 
 ## Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -82,19 +77,16 @@ Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview
 > At the start of the Clone Wars, Barriss Offee was apprenticed to Master Luminara Unduli, a fellow Mirialan. The Padawan fought extremely well with her Master, using an uncommon tandem style made possible though the Force. Among other actions, the two defended the Jedi-crystal caverns on Ilum from Separatist chameleon droids (as shown in Chapter Fourteen of the Star Wars: Clone Wars micro series).
 — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol.
 Note (our notes, around the quote): Barriss Offee; Luminara Unduli — entry/section: Barriss and Luminara's tandem style: "At the start of the Clone Wars, Barriss Offee was apprenticed to Master Luminara Unduli, a fellow Mirialan. The Padawan fought extremely well with her Master, using an uncommon tandem style made possible though the Force. Among other actions, the two defended the Jedi-crystal caverns on Ilum from Separatist chameleon droids (as shown in Chapter Fourteen of the Star Wars: Clone Wars micro series)." Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d101-s2-at-the-start-of-the-clone.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:23`
 
 > Barriss was considered curious, reckless, and overconfident at times. She often depended on the Force to get her out of trouble, a habit that did not sit well with her Master. Barriss became a skilled healer, working with Stass Allie and joining the Circle of Jedi Healers.
 — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol; Barriss Offee; Stass Allie — entry/section: Barriss the healer.
 Note (our notes, around the quote): Barriss Offee; Stass Allie — entry/section: Barriss the healer: "Barriss was considered curious, reckless, and overconfident at times. She often depended on the Force to get her out of trouble, a habit that did not sit well with her Master. Barriss became a skilled healer, working with Stass Allie and joining the Circle of Jedi Healers." Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d101-s2-barriss-was-considered-curious-reckless-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:25`
 
 > Barriss eventually became a Jedi Knight. In the final days of the Clone Wars, she and her Padawan, a Selonian called Zonder, fought on Felucia with Jedi Master Stass Allie. In the midst of battle, a massive Republic AT-TE blasted Barris, making her yet another casualty of Order 66.
 — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol.
 Note (our notes, around the quote): Barriss Offee; Stass Allie — entry/section: Barriss's death in Order 66: "Barriss eventually became a Jedi Knight. In the final days of the Clone Wars, she and her Padawan, a Selonian called Zonder, fought on Felucia with Jedi Master Stass Allie. In the midst of battle, a massive Republic AT-TE blasted Barris, making her yet another casualty of Order 66." Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d101-s2-barriss-eventually-became-a-jedi-knight.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:27`
 
 - Note (summary from our notes, not a quotation): Page contents: Barriss card abilities and RPG stats (Jedi Guardian 7/Jedi Healer 1); author bios (hand-read)
@@ -181,7 +173,6 @@ Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:171`
 > Barriss follows the rules and does what her Master tells her. She studies hard and learns everything. When obstacles arise that aren't in the playbook, she doesn't really know what to do because she hasn't learned to rely on her instincts the way Ahsoka has. I think they really do complement each other, because she's learning so much from Ahsoka.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Barriss Offee; Ahsoka Tano — entry/section: Salenger on Barriss versus Ahsoka: ""Barriss follows the rules and does what her Master tells her. She studies hard and learns everything. When obstacles arise that aren't in the playbook, she doesn't really know what to do because she hasn't learned to rely on her instincts the way Ahsoka has. I think they really do complement each other, because she's learning so much from Ahsoka." —Meredith Salenger, Star Wars Insider 115, pp. 29-30" Source: *Star Wars Insider #115* (2010), scan p.29
-![Quote image: *Star Wars Insider #115* (2010), scan p.29 — full quote as printed](quotes/ins115-s29-barriss-follows-the-rules-and-does.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:178`
 
 > they still have to be rescued by their Masters...but they would have gotten out somehow!
@@ -193,7 +184,6 @@ Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:183`
 > I like that she is becoming less rigid in her thinking. She's so brave and willing to sacrifice herself for the good of everybody else, and I think that's a really good quality. I think that as she grows and spends more time with Ahsoka, she'll learn that there are other ways to get out of situations, that not everything has to be done the way she's been taught.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Barriss Offee — entry/section: Salenger on Barriss' self-sacrifice and growth: ""I like that she is becoming less rigid in her thinking. She's so brave and willing to sacrifice herself for the good of everybody else, and I think that's a really good quality. I think that as she grows and spends more time with Ahsoka, she'll learn that there are other ways to get out of situations, that not everything has to be done the way she's been taught." —Meredith Salenger, Star Wars Insider 115, p. 30" Source: *Star Wars Insider #115* (2010), scan p.30
-![Quote image: *Star Wars Insider #115* (2010), scan p.30 — full quote as printed](quotes/ins115-s30-i-like-that-she-is-becoming.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:185`
 
 ## Star Wars Insider #121 (2010)
@@ -231,7 +221,6 @@ Our notes: `notes/materials/038-star-wars-insider/140-ins140.md:100`
 > The reason that Barriss is the head conspirator with these people that have been protesting the Jedi Order is because she believes the Order is corrupt, and are following a corrupt senate. She thinks they have lost their way and that the only thing the Council reacts to or believes in anymore is violence. And she's right, everything she says is true, but her reaction to the situation is wrong and it's devastating to Ahsoka.
 — Source: Star Wars Insider #140 (2013); Barriss Offee — entry/section: Filoni on Barriss's motive.
 Note (our notes, around the quote): Barriss Offee — entry/section: Filoni on Barriss's motive: ""The reason that Barriss is the head conspirator with these people that have been protesting the Jedi Order is because she believes the Order is corrupt, and are following a corrupt senate. She thinks they have lost their way and that the only thing the Council reacts to or believes in anymore is violence. And she's right, everything she says is true, but her reaction to the situation is wrong and it's devastating to Ahsoka." —Dave Filoni, Star Wars Insider 140, p. 19" Source: *Star Wars Insider #140* (2013), scan p.19
-![Quote image: *Star Wars Insider #140* (2013), scan p.19 — full quote as printed](quotes/ins140-s19-the-reason-that-barriss-is-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/140-ins140.md:104`
 
 ## Star Wars Insider #142 (2013)

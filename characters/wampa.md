@@ -52,14 +52,12 @@ Our notes: `notes/materials/038-star-wars-insider/049-ins049.md:399`
 > There were no living aliens on this planet except for these animals [the wampa and tauntaun]. But in the past there'd been a civilization before the planet went completely cold.
 — Source: Star Wars Insider #50 (2000).
 Note (our notes, around the quote): hoth; Wampa — entry/section: McQuarrie/Chiang conversation (Ralph McQuarrie), printed p. 65: "There were no living aliens on this planet except for these animals [the wampa and tauntaun]. But in the past there'd been a civilization before the planet went completely cold." Source: *Star Wars Insider #50* (2000), scan p.65
-![Quote image: *Star Wars Insider #50* (2000), scan p.65 — full quote as printed](quotes/ins050-s65-there-were-no-living-aliens-on.jpg)
 Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:354`
 
 > made me think about things,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #50 (2000).
 Note (our notes, around the quote): Luke Skywalker; Wampa — entry/section: Rebel Rumblings editor reply on cut Empire scene, printed p. 79: "In the scene, Luke explains that his near-death experience with the wampa "made me think about things," and puts his hand on Leia's cheek." Source: *Star Wars Insider #50* (2000), scan p.79
-![Quote image: *Star Wars Insider #50* (2000), scan p.79 — full quote as printed](quotes/ins050-s79-in-the-scene-luke-explains-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:428`
 
 ## Star Wars Visual Dictionaries, Episodes I–VI (DK, 1998–2005) + The Phantom Menace Expanded Visual Dictionary (DK, 2012)

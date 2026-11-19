@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > King Grakchawwaa was reluctant to join the war on either side and might have remained neutral—but then General Grievous killed his son, Prince Rikummee.
 — Source: scan pages 361–398; General Grievous. POV: General Grievous, about Grakchawwaa.
 Note (our notes, around the quote): General Grievous: "King Grakchawwaa was reluctant to join the war on either side and might have remained neutral—but then General Grievous killed his son, Prince Rikummee." Source: The Complete Star Wars Encyclopedia, Vol. I, p.357
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.357 — full quote as printed](quotes/v1-p357-king-grakchawwaa-was-reluctant-to-join.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:97`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

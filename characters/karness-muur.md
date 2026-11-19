@@ -14,7 +14,6 @@
 > The spirits of powerful Sith Lords such as Marka Ragnos, Freedon Nadd, and Karness Muur influenced galactic events and inspired others to evil long after their physical deaths. For this reason, the Dark Temple on Dromund Kaas, which houses sarcophagi of the Sith Emperor's deceased enemies, is as much prison as tomb.
 — Source: The Sith.
 Note (our notes, around the quote): Marka Ragnos; Freedon Nadd; Karness Muur; Vitiate (the Sith Emperor) — Force Spirits: "The spirits of powerful Sith Lords such as Marka Ragnos, Freedon Nadd, and Karness Muur influenced galactic events and inspired others to evil long after their physical deaths. For this reason, the Dark Temple on Dromund Kaas, which houses sarcophagi of the Sith Emperor's deceased enemies, is as much prison as tomb." Source: The Old Republic Encyclopedia, p.152
-![Quote image: The Old Republic Encyclopedia, p.152 — full quote as printed](quotes/tore-p152-the-spirits-of-powerful-sith-lords.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:73`
 
 ## Book of Sith: Secrets from the Dark Side (2012)
@@ -525,7 +524,7 @@ Our notes: `notes/materials/010-legacy-war.md:273`
 - Note (summary from our notes, not a quotation): Essence transfer claimed from Andeddu and Muur (p130).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Use:
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1109`
 
 - Note (summary from our notes, not a quotation): | Krayt: essence transfer from "Andeddu and Karness Muur" | p130 | Lettered "LORD ANDEDDU" |
@@ -537,8 +536,8 @@ Our notes: `notes/materials/010-legacy-war.md:1189`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Dark-transfer teacher: Krayt credits Cade (p122). The Battle of Coruscant page's "Muur showed him how to use and control it" is not on the page. Muur and Andeddu are credited only for essence transfer (p130).
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1197`
 
 ## Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels
@@ -547,10 +546,10 @@ Our notes: `notes/materials/010-legacy-war.md:1197`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Celeste Morne (p97, VECTOR sidebar).
 Label in our notes: No stat block
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p97 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p97 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:718`
 
-- Note (summary from our notes, not a quotation): ![p97 VECTOR sidebar (Celeste Morne, Muur Talisman)](011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
+- Note (summary from our notes, not a quotation): ![p97 VECTOR sidebar (Celeste Morne, Muur Talisman)](../notes/materials/011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p97 VECTOR sidebar (Celeste Morne, Muur Talisman) — `p097-vector-celeste-morne.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:724`

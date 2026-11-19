@@ -42,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:7
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Shado Vao; Darth Talon — entry/section: Legacy of the Force Preview 1: Shado Vao: ""Your plan has a flaw. It assumes you can kill me." —Shado Vao to Darth Talon" Source: *Web Articles* (SWRPG Saga Edition), scan p.308
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.308 — full quote as printed](quotes/d732-s308-your-plan-has-a-flaw-it.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:80`
 
 ## Star Wars Insider #88 (2006)
@@ -561,11 +560,11 @@ Our notes: `notes/materials/039-legacy-2006/legacy-50.md:193`
 
 - Note (summary from our notes, not a quotation): #2–3 (137 ABY): Wolf, Shado, Hosk and others are ambushed by Sith on Daluuj (p37–41). Cade, now a bounty hunter with Jariah Syn and Deliah Blue, captures the Jedi healer Hosk Trey'lis on Lok and sells him to Rav on Socorro (p42–64). Krayt has Talon kill her master, Darth Ruyn, and names her a Hand (p53–55). Talon kills Imperial Knight Elke Vetter (p56–57).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p38](009-legacy-book-1-panels/p038-wolf-cade-strong-in-force.jpg)
-![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
-![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
-![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+![p38](../notes/materials/009-legacy-book-1-panels/p038-wolf-cade-strong-in-force.jpg)
+![p53 Krayt orders Talon to kill Ruyn](../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+![p55 Krayt names Darth Talon](../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p56 Talon vs Elke Vetter](../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+![p57 Talon finishes Elke](../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:45`
 
 - Note (summary from our notes, not a quotation): #5: Krayt questions the Korriban holocrons of Bane, Andeddu and Nihilus. They call him a "PRETENDER", and he blasts them away (p81–84). On Vendaxa, Wolf and Shado meet Cade's crew. Talon fights Wolf and Shado and swats Marasiah aside. Cade instinctively stops a hurled wreck and Force-pushes Talon away (p85–99). Krayt sends Nihl (p101–102).
@@ -582,7 +581,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:421`
 Context: 9. Out of practice (Ossus retraining): "RAW POWER" but "FINER SKILLS HAVE ATROPHIED". p280 (#11 Ghosts), p282 (#11 Ghosts)
 Our notes: `notes/materials/009-legacy-book-1.md:438`
 
-- Note (summary from our notes, not a quotation): ![p287 Vong warriors overpower Cade and Shado](009-legacy-book-1-panels/p287-vong-overpower-cade-shado.jpg)
+- Note (summary from our notes, not a quotation): ![p287 Vong warriors overpower Cade and Shado](../notes/materials/009-legacy-book-1-panels/p287-vong-overpower-cade-shado.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p287 Vong warriors overpower Cade and Shado — `p287-vong-overpower-cade-shado.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:451`
@@ -599,12 +598,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:463`; `notes/materials/012-lega
 Context: 3. Fights Wolf Sazen and Shado Vao at once; lightning on Wolf; disarms Marasiah. p91 (#5 Broken)–p96 (#5 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:609`
 
-- Note (summary from our notes, not a quotation): ![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+- Note (summary from our notes, not a quotation): ![p92 Talon vs Wolf and Shado](../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p92 Talon vs Wolf and Shado — `p092-talon-vs-wolf-and-shado.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:612`
 
-- Note (summary from our notes, not a quotation): ![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+- Note (summary from our notes, not a quotation): ![p93 Talon Force-pushes Shado and lightnings Wolf](../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p93 Talon Force-pushes Shado and lightnings Wolf — `p093-talon-lightning-wolf-nihl-marked-you.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:615`
@@ -615,7 +614,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:615`
 Context: 4. Talon vs Shado (Vendaxa second round). p117 (#6 Broken), p127 (#7 Broken), p134 (#7 Broken)–p135 (#7 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:627`
 
-- Note (summary from our notes, not a quotation): ![p127 Shado vs Talon (Force clash)](009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
+- Note (summary from our notes, not a quotation): ![p127 Shado vs Talon (Force clash)](../notes/materials/009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p127 Shado vs Talon (Force clash) — `p127-shado-vs-talon-assumes-you-can-kill-me.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:630`
@@ -626,7 +625,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:634`
 
 - Note (summary from our notes, not a quotation): Outcome: interrupted when the battle shifts and Wolf covers the retreat (p129). Inconclusive.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p129 Wolf covers the retreat; Shado: GO, I'LL COVER YOU](009-legacy-book-1-panels/p129-wolf-covers-retreat-shado-go.jpg) *(p129)*
+![p129 Wolf covers the retreat; Shado: GO, I'LL COVER YOU](../notes/materials/009-legacy-book-1-panels/p129-wolf-covers-retreat-shado-go.jpg) *(p129)*
 Our notes: `notes/materials/009-legacy-book-1.md:691`
 
 > (p113) Talon: "ROAN FEL! FALSE EMPEROR. …" · Draco: "YOUR MASTER'S A USURPER. AND YOU'RE A FOOL, SITH, IF YOU THINK I'M ROAN FEL." · (p114) "I AM MASTER DRACO. THIS IS MASTER KRIEG." · "YOUR MASTER IS A GREATER FOOL THAN YOU IF HE THINKS EMPEROR FEL WOULD FALL INTO YOUR CLUMSY TRAP. HE SAW KRAYT'S HAND IN THIS. PERHAPS HE IS MORE POWERFUL THAN YOU KNOW..." · Draco (balloon from off-panel left): "RUN. SITH -- WHILE YOU STILL HAVE THE CHANCE." · Talon: "MY MASTER'S PATIENCE IS EXHAUSTED." · (p128) Krieg: "I AM GANNER KRIEG -- KNIGHT OF THE EMPIRE!" · "...I WILL LEAVE YOUR BONES FOR THE BEASTS TO CRACK!" · (p137) Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE, BUT ... WE'RE LOSING HER..." · (p139) Draco: "YOU DELUDE YOURSELF, JEDI! YOU ARE NO MATCH FOR ONE IMPERIAL KNIGHT, LET ALONE TWO!" · Shado: "NOW THAT'S AN INTERESTING THEORY."
@@ -635,7 +634,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:691`
 Context: Antares Draco and Ganner Krieg. p112 (#6 Broken)–p114 (#6 Broken), p128 (#7 Broken), p137 (#7 Broken)–p139 (#7 Broken), p228 (#10 Trust Issues)–p231 (#10 Trust Issues)
 Our notes: `notes/materials/009-legacy-book-1.md:866`
 
-- Note (summary from our notes, not a quotation): ![p139 Draco vs Shado posturing; Wolf on dark-side healing](009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
+- Note (summary from our notes, not a quotation): ![p139 Draco vs Shado posturing; Wolf on dark-side healing](../notes/materials/009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p139 Draco vs Shado posturing; Wolf on dark-side healing — `p139-wolf-healing-touch-dark-side.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:881`
@@ -704,10 +703,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:1131`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; p465: Hosk Trey'lis.
 Note (our notes, around the quote): p465: Hosk Trey'lis: "Captured by a group of bounty hunters led by Ca[de] Skywalker…" Shado Vao: "Kol Skywalker's former Padawan, Shado has honed his martial skills and has yet to find his equal with a lightsaber. The Twi'lek and Cade Skywalker were boyhood friends." Wolf Sazen: "Kol Skywalker's former apprentice and Cade's Master. Contemplative and serious, Wolf follows the living Force..." · "He lost his right arm in the battle and nearly lost his life. He has since retrained himself to wield his lightsaber with his left hand, keeping an 'empty sleeve' rather than replace his right arm and hand." · "...Wolf believes the return of a Skywalker to the Order's head could unite the Jedi and enable them to defeat the Sith."
-![p465 handbook: Hosk, Shado, Wolf](009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
+![p465 handbook: Hosk, Shado, Wolf](../notes/materials/009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1138`; `notes/materials/039-legacy-2006/legacy-00.md:63`
 
-- Note (summary from our notes, not a quotation): ![p465 handbook: Hosk, Shado, Wolf](009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
+- Note (summary from our notes, not a quotation): ![p465 handbook: Hosk, Shado, Wolf](../notes/materials/009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p465 handbook: Hosk, Shado, Wolf — `p465-handbook-shado-wolf-hosk.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1162`
@@ -715,12 +714,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:1162`
 - Note (summary from our notes, not a quotation): Pro: she kills an Imperial Knight (p56–57) and pressures Wolf and Shado together (p92–96).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Talon's tier.
-![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
-![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
-![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
-![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
-![p94](009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
-![p96 Talon deflects bolts and Force-disarms the guns](009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
+![p56 Talon vs Elke Vetter](../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+![p57 Talon finishes Elke](../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+![p92 Talon vs Wolf and Shado](../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+![p93 Talon Force-pushes Shado and lightnings Wolf](../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+![p94](../notes/materials/009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
+![p96 Talon deflects bolts and Force-disarms the guns](../notes/materials/009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1196`
 
 - Note (summary from our notes, not a quotation): Jedi: Cade Skywalker (130 and 137 ABY), Kol Skywalker, Wolf Sazen, Shado Vao, K'Kruhk, Hosk Trey'lis.
@@ -738,13 +737,13 @@ Our notes: `notes/materials/010-legacy-war.md:70`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The battle (p64–69). The orbital bombardment fails, the ground assault goes in, and Shado says "LET THEM TAKE WHAT IS GIVEN". Rawk signals the fleets, which arrive. Veed: "LORD KRAYT, WE'RE TRAPPED!" Krayt: "YES." (p69).
-![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
-![p69 "WE'RE TRAPPED!" / "YES."](010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
+![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+![p69 "WE'RE TRAPPED!" / "YES."](../notes/materials/010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:108`
 
 - Note (summary from our notes, not a quotation): Aftermath in battle (p127). The troopers go mad. Shado kills one, K'Kruhk warns of suicide runs, and Nihl orders the withdrawal and the troopers' destruction.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:136`
 
 > (p73) Sazen: "SHADO, I'VE LOST TRACK OF CADE." · Shado: "SENSE WHERE THE DARK IS, MASTER." · Cade: "THIS ISN'T OSSUS, YOU SLEEMOS! NO SNEAKING IN ON US IN THE MIDDLE OF THE NIGHT! WE KNEW YOU WERE COMING!" · "IS THIS IT?! IS THIS THE BEST YOU CAN DO?! C'MON AND GET ME!" · "C'MON AND DIE!" · (p79) "DON'T WORRY ABOUT ME, MASTER -- I CAN'T DIE HERE. STILL GOT A SITH LORD TO KILL!"
@@ -770,27 +769,27 @@ Our notes: `notes/materials/010-legacy-war.md:654`
 
 - Note (summary from our notes, not a quotation): p102 (#5): vs a Sith trooper in the defence centre. The "cuts off hands" claim (W) is not clearly drawn.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p102 TIME'S UP! WE MUST DISABLE THESE COMPUTERS; vs a Sith trooper](010-legacy-war-panels/p102-time-is-up-disable-computers-sith-trooper.jpg) *(p102)*
+![p102 TIME'S UP! WE MUST DISABLE THESE COMPUTERS; vs a Sith trooper](../notes/materials/010-legacy-war-panels/p102-time-is-up-disable-computers-sith-trooper.jpg) *(p102)*
 Our notes: `notes/materials/010-legacy-war.md:794`
 
 > WE SEEM TO HAVE LOST MORRIGAN CORDE.
 >
 > NOT SO SECRET. I SENSE SITH!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p106, p110 (#5).
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
 Our notes: `notes/materials/010-legacy-war.md:796`
 
 > CADE! YOU CAN DO NOTHING MORE HERE!
 >
 > FIND KRAYT! WE WILL HOLD THE SITH HERE!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p114 (#5).
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:797`
 
 - Note (summary from our notes, not a quotation): p127 (#6): kills a berserk trooper.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:798`
 
 > YOU'RE *CERTAIN* KRAYT WAS DEAD?
@@ -799,7 +798,7 @@ Our notes: `notes/materials/010-legacy-war.md:798`
 > CADE SAID KRAYT WAS DEAD AFTER HAD ABADDON TOO. YET KRAYT RETURNED.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p132 (#6), with Corde.
 Label in our notes: · · "WHAT ABOUT CADE?"
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:799`
 
 - Note (summary from our notes, not a quotation): The speaker is Shado by reading: he stands beside Corde, and the first line comes from silhouettes.
@@ -809,11 +808,11 @@ Our notes: `notes/materials/010-legacy-war.md:800`
 
 - Note (summary from our notes, not a quotation): Identification: Shado is the blue-skinned Jedi with striped lekku/scarf; Sazen is the horned, long-haired one (fixed by p106).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
 Our notes: `notes/materials/010-legacy-war.md:801`
 
-- Note (summary from our notes, not a quotation): ![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+- Note (summary from our notes, not a quotation): ![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p67 — `p067-shado-take-what-is-given.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:803`
@@ -827,7 +826,7 @@ Our notes: `notes/materials/010-legacy-war.md:949`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Shado. POV: Shado.
 Label in our notes: Corde: "KRAYT WON'T RETURN."
 Context: p132–134.
-![p132 Fel's funeral; Shado and Corde](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg) *(p132)*
+![p132 Fel's funeral; Shado and Corde](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg) *(p132)*
 Our notes: `notes/materials/010-legacy-war.md:983`
 
 - Note (summary from our notes, not a quotation): The essence-transfer threat and the ghost-or-voice question are left open on purpose: Luke's line and Shado's doubt. Nihl's "HE LIVES IN US" is metaphor.
@@ -837,8 +836,8 @@ Our notes: `notes/materials/010-legacy-war.md:992`
 - Note (summary from our notes, not a quotation): One-on-one, they die to one Shado thrust (p127), blaster fire (p88) and Cade's lightning (p90).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Counter:
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1094`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen, Shado Vao, K'Kruhk, Rawk, T'ra Saa, Tili Qua, and the ghosts of Kol and Luke.
@@ -868,7 +867,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:131`
 > Kol is killed in the Ossus massacre. He falls while fighting off a torrent of Sith attackers, including Darth Nihl. His death enables other Jedi to escape, including Jedi Master Wolf Sazen, Cade Skywalker, Shado Vao, and many younglings and Padawans.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p196.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:569`
 
 > his prowess with the double-bladed lightsaber
@@ -876,14 +875,14 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:569`
 >
 > Shado has vowed to kill Cade, should he ever turn to the dark side.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Bio.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:622`
 
 - Note (summary from our notes, not a quotation): CL 10; Twi'lek Jedi 7/Jedi Knight 3. Destiny 2; Force 5.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Stat:
-![p197 Shado Vao CL 10](011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
+![p197 Shado Vao CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:626`
 
 - Note (summary from our notes, not a quotation): Ref 25 (ff 22), Fort 26, Will 24. hp 100.
@@ -894,16 +893,16 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:627`
 - Note (summary from our notes, not a quotation): lightsaber +12 (2d8+7); double-bladed +9/+9.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Stat:
-![p197 Shado Vao CL 10](011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
+![p197 Shado Vao CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:628`
 
 - Note (summary from our notes, not a quotation): Force Powers (UtF +17): battle strike, farseeing, Force thrust (2), mind trick, move object, rebuke (2), surge. Talents include Visions.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Stat:
-![p197 Shado Vao CL 10](011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
+![p197 Shado Vao CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:629`
 
-- Note (summary from our notes, not a quotation): ![p197 Shado Vao CL 10](011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p197 Shado Vao CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p197 Shado Vao CL 10 — `p197-shado-vao-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:631`
@@ -943,7 +942,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:229`
 Context: 2. Hides himself from the Force; Shado can't sense him. p145 (#11 Ghosts) [009 p282]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:235`
 
-- Note (summary from our notes, not a quotation): ![p145 Cade hides from Shado's Force sense](012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
+- Note (summary from our notes, not a quotation): ![p145 Cade hides from Shado's Force sense](../notes/materials/012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p145 — `p145-cade-hides-from-force.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:238`
@@ -960,7 +959,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:241`
 Context: 5. Dark-side healing, as his teachers put it. p159 (#12), p170 (#12) [009 p296, p307]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:251`; `notes/materials/012-legacy-vol-2-shards.md:456`
 
-- Note (summary from our notes, not a quotation): ![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+- Note (summary from our notes, not a quotation): ![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p170 — `p170-shado-twisted-it-end-him.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:257`
@@ -971,9 +970,9 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:280`
 
 - Note (summary from our notes, not a quotation): Sparring partner; can't find Cade once Cade hides from the Force (p143–145). On p148–149 he fights the Vong warriors beside Cade. He is not shown defeated, but the fight is stopped (p150).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p145 Cade hides from Shado's Force sense](012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p145 Cade hides from Shado's Force sense](../notes/materials/012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
+![p150 a Vong warrior pins Cade](../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:347`
 
 - Note (summary from our notes, not a quotation): Lettering note: "PATISA" (p139, p147) and "PATEESA" (p155) both appear.
@@ -1012,8 +1011,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:566`
 > VISIONS ARE NOT ALWAYS TRUTH, MASTER.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Sazen's vision of Cade. p31 (#14): "WOLF IS TROUBLED. HE SENSES SOMETHING IN THE FORCE --" "-- DARKNESS RIPPLING --" "-- A VISION OR A WARNING --" · Sazen: "...CADE!" · (p75) "I CANNOT REACH OUT TO CADE. AND MY VISION OF HIM STILL HAUNTS ME." · Shado: "VISIONS ARE NOT ALWAYS TRUTH, MASTER."
-![p31 Ossus: Sazen's vision, DARKNESS RIPPLING](013-legacy-vol-3-claws-of-the-dragon-panels/p031-sazen-vision-darkness-rippling.jpg) *(p31)*
-![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
+![p31 Ossus: Sazen's vision, DARKNESS RIPPLING](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p031-sazen-vision-darkness-rippling.jpg) *(p31)*
+![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:409`
 
 > THERE IS NO ONE ON OSSUS. IT IS TIME TO LEAVE.
@@ -1021,7 +1020,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:409`
 > NEVER MIND. JUST A SHADOW. THERE'S NOTHING HERE. TIME TO LEAVE, SARGE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Shado mind-tricks a stormtrooper. p96 (#17) [009 p397]: Shado (gesturing): "THERE IS NO ONE ON OSSUS. IT IS TIME TO LEAVE." · Trask: "NEVER MIND. JUST A SHADOW. THERE'S NOTHING HERE. TIME TO LEAVE, SARGE."
-![p96 Shado: THERE IS NO ONE ON OSSUS](013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
+![p96 Shado: THERE IS NO ONE ON OSSUS](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:414`
 
 > WE SHOULD HAVE FACED THEM LIKE WARRIORS AND SLAIN THEM ALL.
@@ -1029,7 +1028,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:414`
 > THEIR DEATHS WOULD ONLY HAVE CONFIRMED OUR PRESENCE, CHOKA SKELL.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Restraint. p96: Liaan Lah.
 Note (our notes, around the quote): Restraint. p96: Liaan Lah: "WE SHOULD HAVE FACED THEM LIKE WARRIORS AND SLAIN THEM ALL." · K'Kruhk (likely, by tail): "THEIR DEATHS WOULD ONLY HAVE CONFIRMED OUR PRESENCE, CHOKA SKELL." No combat on panel for any of them.
-![p96 Shado: THERE IS NO ONE ON OSSUS](013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
+![p96 Shado: THERE IS NO ONE ON OSSUS](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:416`
 
 - Note (summary from our notes, not a quotation): | 11 | Shado's mind trick vs Trask | Ossus | p96 (#17) | Trooper turned away | Non-Force |

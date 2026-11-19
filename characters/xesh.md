@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #132 (2012).
 Note (our notes, around the quote): Xesh — entry/section: Duursema: Rakata dark-side tech and the Force Hound Xesh: ""The Rakata have a kind of hyperdrive technology and possess ships powered by the dark side ... Rakata overlords use Force-sensitive beings they call Force Hounds to seek out worlds to dominate. One Force Hound named Xesh finds his story and destiny interwoven with the Je'daii on Tython." —Jan Duursema, Star Wars Insider 132, p. 64" Source: *Star Wars Insider #132* (2012), scan p.64
-![Quote image: *Star Wars Insider #132* (2012), scan p.64 — full quote as printed](quotes/ins132-s64-the-rakata-have-a-kind-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:345`
 
 ## Star Wars Insider #138 (2013)
@@ -39,7 +38,6 @@ Our notes: `notes/materials/038-star-wars-insider/143-ins143.md:428`
 > Lok thinks of Xesh as a comrade, as his little brother. He doesn't think Xesh is as powerful as he is. He is sadly mistaken.
 — Source: Star Wars Insider #146 (2014); Daegen Lok; Xesh — entry/section: Lok vs Xesh.
 Note (our notes, around the quote): Daegen Lok; Xesh — entry/section: Lok vs Xesh: ""Lok thinks of Xesh as a comrade, as his little brother. He doesn't think Xesh is as powerful as he is. He is sadly mistaken." —John Ostrander, Star Wars Insider 146, p. 64" Source: *Star Wars Insider #146* (2014), scan p.64
-![Quote image: *Star Wars Insider #146* (2014), scan p.64 — full quote as printed](quotes/ins146-s64-lok-thinks-of-xesh-as-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/146-ins146.md:386`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

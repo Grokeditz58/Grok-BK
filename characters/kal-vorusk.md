@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-10
 > Kal Vorusk has one mission: to kill as many of the heroes as possible before fleeing to rejoin the rest of the imperial hit squad.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Kal Vorusk; Govin Thane — entry/section: Cloud Cover.
 Note (our notes, around the quote): Kal Vorusk; Govin Thane — entry/section: Cloud Cover: "Kal Vorusk has one mission: to kill as many of the heroes as possible before fleeing to rejoin the rest of the imperial hit squad." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.89
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.89 — full quote as printed](quotes/d052-s89-kal-vorusk-has-one-mission-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:183`
 
 # Debate and forum claims (unverified)

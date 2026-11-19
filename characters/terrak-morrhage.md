@@ -14,19 +14,16 @@
 > Boarding Vivicar's flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague's original creator, the ancient Sith Lord Terrak Morrhage.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar: "Boarding Vivicar's flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague's original creator, the ancient Sith Lord Terrak Morrhage." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-boarding-vivicar-s-flagship-the-consular.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:357`
 
 > Morrhage eventually surpassed his Master and created a horrific plague that targeted powerful Jedi. Its victims suffered paranoia and madness, as Morrhage drew on their strength to fuel his own power. With an army of maddened Jedi under his control, Morrhage waged war on the Order.
 — Source: The Sith; Terrak Morrhage — Terrak Morrhage.
 Note (our notes, around the quote): Terrak Morrhage — Terrak Morrhage: "Morrhage eventually surpassed his Master and created a horrific plague that targeted powerful Jedi. Its victims suffered paranoia and madness, as Morrhage drew on their strength to fuel his own power. With an army of maddened Jedi under his control, Morrhage waged war on the Order." Source: The Old Republic Encyclopedia, p.155, sidebar
-![Quote image: The Old Republic Encyclopedia, p.155 — full quote as printed](quotes/tore-p155-morrhage-eventually-surpassed-his-master-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:96`
 
 > Millennia later, the Sith Lord Vivicar would awaken the spirit of Terrak Morrhage and unleash the ancient Sith's plague on the Jedi once more.
 — Source: The Sith; Terrak Morrhage; Lord Vivicar — Terrak Morrhage.
 Note (our notes, around the quote): Terrak Morrhage; Lord Vivicar — Terrak Morrhage: "Millennia later, the Sith Lord Vivicar would awaken the spirit of Terrak Morrhage and unleash the ancient Sith's plague on the Jedi once more." Source: The Old Republic Encyclopedia, p.155, sidebar
-![Quote image: The Old Republic Encyclopedia, p.155 — full quote as printed](quotes/tore-p155-millennia-later-the-sith-lord-vivicar.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:98`
 
 # Debate and forum claims (unverified)

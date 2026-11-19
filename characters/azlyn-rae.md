@@ -275,7 +275,7 @@ Our notes: `notes/materials/010-legacy-war.md:62`
 - Note (summary from our notes, not a quotation): p67: "THIS WAY, AZLYN!" / Azlyn: "WITH YOU, GANNER!"
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Ganner Krieg:
-![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
 Our notes: `notes/materials/010-legacy-war.md:737`
 
 > THAT GOT IT, AZLYN!
@@ -292,7 +292,7 @@ Our notes: `notes/materials/010-legacy-war.md:738`
 > REMEMBER -- WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p98.
 Context: Ganner Krieg:
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
 Our notes: `notes/materials/010-legacy-war.md:739`
 
 > SHIPS OF BASTION -- FIRE!
@@ -300,7 +300,7 @@ Our notes: `notes/materials/010-legacy-war.md:739`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p69.
 Note (our notes, around the quote): p69: "SHIPS OF BASTION -- FIRE!" The intro-tier speaker is right; this is not Fel.
 Context: Treis Sinde:
-![p69 "WE'RE TRAPPED!" / "YES."](010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
+![p69 "WE'RE TRAPPED!" / "YES."](../notes/materials/010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:741`
 
 > WE DON'T HAVE THEM YET, ADMIRAL STAZI.
@@ -316,14 +316,14 @@ Our notes: `notes/materials/010-legacy-war.md:743`
 > CONTACT THE WAR HAMMER. TELL MOFF YAGE THAT, ON BEHALF OF THE TRUE EMPEROR, I WELCOME HIM BACK.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p83.
 Context: Treis Sinde:
-![p83 Yage shoots the Sith on his bridge and defects](010-legacy-war-panels/p083-yage-shoots-sith-defects.jpg)
+![p83 Yage shoots the Sith on his bridge and defects](../notes/materials/010-legacy-war-panels/p083-yage-shoots-sith-defects.jpg)
 Our notes: `notes/materials/010-legacy-war.md:744`
 
 > MASTER DRACO IS RIGHT -- THIS IS DARK SIDE. PLEASE. STEP AWAY, OLD FRIEND.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p120.
 Note (our notes, around the quote): p120: "MASTER DRACO IS RIGHT -- THIS IS DARK SIDE. PLEASE. STEP AWAY, OLD FRIEND." He is then pushed through glass with Marasiah.
 Context: Treis Sinde:
-![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:745`
 
 > We could not rescue her from there if we had a thousand ships! *(W)*
@@ -369,13 +369,13 @@ Our notes: `notes/materials/010-legacy-war.md:753`
 - Note (summary from our notes, not a quotation): p12: Bastion intelligence head.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Hogrum Chalk:
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
 Our notes: `notes/materials/010-legacy-war.md:755`
 
 > NYNA CALIXTE IS ROAN FEL'S SPY ON CORUSCANT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p38: Veed's informant (.
 Context: Hogrum Chalk:
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
 Our notes: `notes/materials/010-legacy-war.md:756`
 
 - Note (summary from our notes, not a quotation): p34: argues for Omega Red.
@@ -387,20 +387,20 @@ Our notes: `notes/materials/010-legacy-war.md:757`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p95.
 Context: Hogrum Chalk:
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
-![p95 "THE FINAL DECISION WILL BE MINE ALONE."](010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p95 "THE FINAL DECISION WILL BE MINE ALONE."](../notes/materials/010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
 Our notes: `notes/materials/010-legacy-war.md:758`
 
 - Note (summary from our notes, not a quotation): p132: the cyborg official giving Fel's eulogy matches Chalk's cyborg look. He is not named on that page; Wookieepedia says Chalk.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Hogrum Chalk:
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:759`
 
 > WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p98 Krieg.
-Note (our notes, around the quote): ![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
+Note (our notes, around the quote): ![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
 (*Panel: p98 — `p098-krieg-none-better.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:761`
 
@@ -420,21 +420,21 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:128`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:519`
 
 > Thanks to her diverse training, she often serves the Imperial Knights as a scout and undercover agent.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:521`
 
 - Note (summary from our notes, not a quotation): CL 11; Jedi 5/scout 3/bounty hunter 1/IK 2. Destiny 1; Force 5.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Stat (p180):
-![p179 Azlyn Rae bio](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
-![p180 Azlyn Rae CL 11](011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
+![p179 Azlyn Rae bio](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+![p180 Azlyn Rae CL 11](../notes/materials/011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:524`
 
 - Note (summary from our notes, not a quotation): Ref 32 (ff 30), Fort 26, Will 27. hp 80.
@@ -450,16 +450,16 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:526`
 - Note (summary from our notes, not a quotation): Force Powers (UtF +17): battle strike, Force slam, mind trick, rebuke.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Stat (p180):
-![p179 Azlyn Rae bio](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
-![p180 Azlyn Rae CL 11](011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
+![p179 Azlyn Rae bio](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+![p180 Azlyn Rae CL 11](../notes/materials/011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:527`
 
-- Note (summary from our notes, not a quotation): ![p179 Azlyn Rae bio](011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
+- Note (summary from our notes, not a quotation): ![p179 Azlyn Rae bio](../notes/materials/011-legacy-era-campaign-guide-panels/p179-azlyn-rae-bio.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p179 Azlyn Rae bio — `p179-azlyn-rae-bio.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:529`
 
-- Note (summary from our notes, not a quotation): ![p180 Azlyn Rae CL 11](011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p180 Azlyn Rae CL 11](../notes/materials/011-legacy-era-campaign-guide-panels/p180-azlyn-rae-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p180 Azlyn Rae CL 11 — `p180-azlyn-rae-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:532`

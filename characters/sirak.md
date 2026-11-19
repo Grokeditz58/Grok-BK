@@ -16,13 +16,11 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Sirak: "Dessel quickly excelled in the Sith arts, but his brashness led him to challenge far more powerful colleagues like ace pupil Sirak, who gravely injured Dessel." Source: The Complete Star Wars Encyclopedia, Vol. I, p.58
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.58 — full quote as printed](quotes/v1-p58-dessel-quickly-excelled-in-the-sith.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:262`
 
 > Dessel challenged Sirak and this time bested him, but stopped short of delivering a killing blow.
 — Source: scan pages 41–80; Sirak. POV: Sirak.
 Note (our notes, around the quote): Sirak: "Dessel challenged Sirak and this time bested him, but stopped short of delivering a killing blow." Source: The Complete Star Wars Encyclopedia, Vol. I, p.58
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.58 — full quote as printed](quotes/v1-p58-dessel-challenged-sirak-and-this-time.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:264`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -34,19 +32,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > An arrogant individual with a strong connection to the dark side, Sirak was the strongest and most powerful of the three Zabrak.
 — Source: scan pages 121–160; Sirak — entry/section: Sirak.
 Note (our notes, around the quote): Sirak — entry/section: Sirak: "An arrogant individual with a strong connection to the dark side, Sirak was the strongest and most powerful of the three Zabrak." Source: The Complete Star Wars Encyclopedia, Vol. III, p.153
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.153 — full quote as printed](quotes/v3-p153-an-arrogant-individual-with-a-strong.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:346`
 
 > Indeed, some felt that Sirak had achieved his potential after soundly defeating Bane in the lightsaber training ring.
 — Source: scan pages 121–160; Sirak — entry/section: Sirak.
 Note (our notes, around the quote): Sirak — entry/section: Sirak: "Indeed, some felt that Sirak had achieved his potential after soundly defeating Bane in the lightsaber training ring." Source: The Complete Star Wars Encyclopedia, Vol. III, p.153
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.153 — full quote as printed](quotes/v3-p153-indeed-some-felt-that-sirak-had.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:348`
 
 > When Sirak was defeated in the lightsaber training ring by Bane, he plotted revenge with Llokay and Yevra's help.
 — Source: scan pages 321–360; Sirak. POV: Sirak.
 Note (our notes, around the quote): Sirak: "When Sirak was defeated in the lightsaber training ring by Bane, he plotted revenge with Llokay and Yevra's help." Source: The Complete Star Wars Encyclopedia, Vol. III, p.353
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.353 — full quote as printed](quotes/v3-p353-when-sirak-was-defeated-in-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:310`
 
 # Debate and forum claims (unverified)

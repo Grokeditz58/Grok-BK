@@ -14,7 +14,6 @@
 > Galen's mother was killed a few years later while trying to protect a group of Wookiees from slavers; Galen's father, Kento, died soon after, trying to protect the boy from Darth Vader, who had tracked the Jedi to Kashyyyk.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Galen Marek; Kento Marek; Darth Vader (Anakin Skywalker) — entry/section: Starkiller: "Galen's mother was killed a few years later while trying to protect a group of Wookiees from slavers; Galen's father, Kento, died soon after, trying to protect the boy from Darth Vader, who had tracked the Jedi to Kashyyyk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.188
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.188 — full quote as printed](quotes/v3-p188-galens-mother-was-killed-a-few.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:375`
 
 ## Prima Official Game Guide: *Star Wars: The Force Unleashed* (2008)

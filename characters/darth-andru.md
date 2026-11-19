@@ -14,7 +14,6 @@
 > But the inquisitor nearly loses everything after being caught in a trap devised by Darth Thanaton, a supremely powerful Sith and harsh traditionalist who bristles at the idea of a former slave rising to sudden influence. To combat Thanaton's insurmountable strength, the inquisitor learns the ritual of Force-walking and gains power by consuming the energy of Darth Andru, a seething Force spirit locked away on Dromund Kaas. Fueled by the ghost's power, the inquisitor confronts Thanaton—only to be nearly eradicated by the superior Sith's dark sorcery.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Thanaton; Darth Andru — Spirits of the Past (top-right): "But the inquisitor nearly loses everything after being caught in a trap devised by Darth Thanaton, a supremely powerful Sith and harsh traditionalist who bristles at the idea of a former slave rising to sudden influence. To combat Thanaton's insurmountable strength, the inquisitor learns the ritual of Force-walking and gains power by consuming the energy of Darth Andru, a seething Force spirit locked away on Dromund Kaas. Fueled by the ghost's power, the inquisitor confronts Thanaton—only to be nearly eradicated by the superior Sith's dark sorcery." Source: The Old Republic Encyclopedia, p.185, sidebar
-![Quote image: The Old Republic Encyclopedia, p.185 — full quote as printed](quotes/tore-p185-but-the-inquisitor-nearly-loses-everything.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:495`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

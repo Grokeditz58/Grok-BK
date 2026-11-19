@@ -14,199 +14,167 @@
 > The Republic suffered heavy losses as the Sith Emperor's genius strategy brought the galaxy to its knees. But while politicians argued, Republic heroes such as Jedi Knight SATELE SHAN emerged on the battlefield and forced a stalemate.
 — Source: Front matter and introduction; Vitiate (the Sith Emperor); Satele Shan — Galaxy at War box.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Satele Shan — Galaxy at War box: "The Republic suffered heavy losses as the Sith Emperor's genius strategy brought the galaxy to its knees. But while politicians argued, Republic heroes such as Jedi Knight SATELE SHAN emerged on the battlefield and forced a stalemate." Source: The Old Republic Encyclopedia, p.12
-![Quote image: The Old Republic Encyclopedia, p.12 — full quote as printed](quotes/tore-p12-the-republic-suffered-heavy-losses-as.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:61`
 
 > The Republic waged a fierce guerrilla war to hold the planet and finally triumphed when Captain Jace Malcom led the charge of Havoc Squad to ambush Sith Lord Darth Malgus. With the heroic help of the Republic fleet and Jedi Knight Satele Shan, Havoc Squad drove the invading Imperial army off Alderaan.
 — Source: The Galactic Republic; Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box.
 Note (our notes, around the quote): Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box: "The Republic waged a fierce guerrilla war to hold the planet and finally triumphed when Captain Jace Malcom led the charge of Havoc Squad to ambush Sith Lord Darth Malgus. With the heroic help of the Republic fleet and Jedi Knight Satele Shan, Havoc Squad drove the invading Imperial army off Alderaan." Source: The Old Republic Encyclopedia, p.26
-![Quote image: The Old Republic Encyclopedia, p.26 — full quote as printed](quotes/tore-p26-the-republic-waged-a-fierce-guerrilla.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:34`
 
 > Darth Malgus, however, suffered far worse injuries. The traumas he earned at the hands of Malcom and Satele Shan forced Malgus to wear a respirator mask if he hoped to survive.
 — Source: The Galactic Republic; Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box.
 Note (our notes, around the quote): Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box: "Darth Malgus, however, suffered far worse injuries. The traumas he earned at the hands of Malcom and Satele Shan forced Malgus to wear a respirator mask if he hoped to survive." Source: The Old Republic Encyclopedia, p.26
-![Quote image: The Old Republic Encyclopedia, p.26 — full quote as printed](quotes/tore-p26-darth-malgus-however-suffered-far-worse.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:36`
 
 > The Dark Council member Darth Mekhis led Imperial forces in a crushing invasion against the Outer Rim planet of Rhen Var. The Empire annihilated the Republic to claim the planet, until a Republic counter-attack rallied by Jedi Knights Satele Shan and Jaric Kaedan drove the Sith off Rhen Var.
 — Source: The Galactic Republic.
 Note (our notes, around the quote): Darth Mekhis; Satele Shan; Jaric Kaedan — Battle of Rhen Var box: "The Dark Council member Darth Mekhis led Imperial forces in a crushing invasion against the Outer Rim planet of Rhen Var. The Empire annihilated the Republic to claim the planet, until a Republic counter-attack rallied by Jedi Knights Satele Shan and Jaric Kaedan drove the Sith off Rhen Var." Source: The Old Republic Encyclopedia, p.27
-![Quote image: The Old Republic Encyclopedia, p.27 — full quote as printed](quotes/tore-p27-the-dark-council-member-darth-mekhis.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:38`
 
 > Republic forces initially ignored the treaty and continued to defend the planet, forcing Jedi Master Dar'Nala and her former Padawan Satele Shan to personally force a stand-down.
 — Source: The Galactic Republic; Satele Shan; Dar'Nala — Ceasefire box.
 Note (our notes, around the quote): Satele Shan; Dar'Nala — Ceasefire box: "Republic forces initially ignored the treaty and continued to defend the planet, forcing Jedi Master Dar'Nala and her former Padawan Satele Shan to personally force a stand-down." Source: The Old Republic Encyclopedia, p.30
-![Quote image: The Old Republic Encyclopedia, p.30 — full quote as printed](quotes/tore-p30-republic-forces-initially-ignored-the-treaty.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:62`
 
 > Only Malcom, a young Jedi named Satele Shan, and the notorious smuggler Nico Okarr managed to escape alive. The Great War had begun.
 — Source: The Galactic Republic; Satele Shan; Jace Malcom — Jace Malcom profile: Korriban.
 Note (our notes, around the quote): Satele Shan; Jace Malcom — Jace Malcom profile: Korriban: "Only Malcom, a young Jedi named Satele Shan, and the notorious smuggler Nico Okarr managed to escape alive. The Great War had begun." Source: The Old Republic Encyclopedia, p.44
-![Quote image: The Old Republic Encyclopedia, p.44 — full quote as printed](quotes/tore-p44-only-malcom-a-young-jedi-named.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:131`
 
 > One of the same Sith who led the attack on Korriban, Lord Malgus, spearheaded a massive invasion of Alderaan.
 — Source: The Galactic Republic; Darth Malgus; Satele Shan; Jace Malcom — Jace Malcom profile: Alderaan.
 Note (our notes, around the quote): Darth Malgus; Satele Shan; Jace Malcom — Jace Malcom profile: Alderaan: "One of the same Sith who led the attack on Korriban, Lord Malgus, spearheaded a massive invasion of Alderaan." Source: The Old Republic Encyclopedia, p.44
-![Quote image: The Old Republic Encyclopedia, p.44 — full quote as printed](quotes/tore-p44-one-of-the-same-sith-who.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:133`
 
 > Eventually, Lord Malgus himself was lured into an ambush and defeated with the help of timely Republic reinforcements led by Jedi Satele Shan.
 — Source: The Galactic Republic; Darth Malgus; Satele Shan — Jace Malcom profile: Alderaan.
 Note (our notes, around the quote): Darth Malgus; Satele Shan — Jace Malcom profile: Alderaan: "Eventually, Lord Malgus himself was lured into an ambush and defeated with the help of timely Republic reinforcements led by Jedi Satele Shan." Source: The Old Republic Encyclopedia, p.44
-![Quote image: The Old Republic Encyclopedia, p.44 — full quote as printed](quotes/tore-p44-eventually-lord-malgus-himself-was-lured.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:135`
 
 > In the aftermath of the battle, Malcom and Satele were hailed as heroes across the Republic.
 — Source: The Galactic Republic; Satele Shan — Jace Malcom profile.
 Note (our notes, around the quote): Satele Shan — Jace Malcom profile: "In the aftermath of the battle, Malcom and Satele were hailed as heroes across the Republic." Source: The Old Republic Encyclopedia, p.44
-![Quote image: The Old Republic Encyclopedia, p.44 — full quote as printed](quotes/tore-p44-in-the-aftermath-of-the-battle.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:137`
 
 > AGE: 300+ (prolonged by Sith alchemy) TITLES: The Revanchist, Darth Revan HONORS: Cross of Glory (Jedi Civil War) FAMILY: Bastila Shan (wife), Vaner Shan (son), Satele Shan (distant descendant)
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Revan — Revan data box.
 Note (our notes, around the quote): Revan — Revan data box: "AGE: 300+ (prolonged by Sith alchemy) TITLES: The Revanchist, Darth Revan HONORS: Cross of Glory (Jedi Civil War) FAMILY: Bastila Shan (wife), Vaner Shan (son), Satele Shan (distant descendant)" Source: The Old Republic Encyclopedia, p.73, sidebar
-![Quote image: The Old Republic Encyclopedia, p.73 — full quote as printed](quotes/tore-p73-age-300-prolonged-by-sith-alchemy.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:92`
 
 > With its ancient homeworld of Tython recently rediscovered by the Jedi Satele Shan, the Order was able to explore its very beginnings.
 — Source: The Jedi Order; Satele Shan — Jedi Renaissance.
 Note (our notes, around the quote): Satele Shan — Jedi Renaissance: "With its ancient homeworld of Tython recently rediscovered by the Jedi Satele Shan, the Order was able to explore its very beginnings." Source: The Old Republic Encyclopedia, p.74
-![Quote image: The Old Republic Encyclopedia, p.74 — full quote as printed](quotes/tore-p74-with-its-ancient-homeworld-of-tython.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:113`
 
 > When Jedi Grand Master Satele Shan meditated on the problem, she declared that Oteg would be needed to fulfill the role.
 — Source: The Jedi Order; Satele Shan; Master Oteg — Master Oteg profile (top-right).
 Note (our notes, around the quote): Satele Shan; Master Oteg — Master Oteg profile (top-right): "When Jedi Grand Master Satele Shan meditated on the problem, she declared that Oteg would be needed to fulfill the role." Source: The Old Republic Encyclopedia, p.81, sidebar
-![Quote image: The Old Republic Encyclopedia, p.81 — full quote as printed](quotes/tore-p81-when-jedi-grand-master-satele-shan.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:154`
 
 > Grand Master of the Jedi Order, explorer of Tython, and champion of the Republic, Satele Shan has spent her life serving others. As a beloved heroine of the war she maintains close ties to the Republic military, but she is also devoted to peace and the will of the Force.
 — Source: The Jedi Order; Satele Shan — Grand Master Satele Shan profile (top-right).
 Note (our notes, around the quote): Satele Shan — Grand Master Satele Shan profile (top-right): "Grand Master of the Jedi Order, explorer of Tython, and champion of the Republic, Satele Shan has spent her life serving others. As a beloved heroine of the war she maintains close ties to the Republic military, but she is also devoted to peace and the will of the Force." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-grand-master-of-the-jedi-order.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:192`
 
 > The Republic government, fearing the rise of another Darth Revan—who had expressed similar, divisive views before and after the Jedi Civil War—pressured the Jedi Council to act.
 — Source: The Jedi Order; Satele Shan; Revan — Family Ties.
 Note (our notes, around the quote): Satele Shan; Revan — Family Ties: "The Republic government, fearing the rise of another Darth Revan—who had expressed similar, divisive views before and after the Jedi Civil War—pressured the Jedi Council to act." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-the-republic-government-fearing-the-rise.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:196`
 
 > There are rumors that Satele bore a child many years later, a son named Theron Shan raised outside the Order.
 — Source: The Jedi Order; Satele Shan; Theron Shan — Family Ties.
 Note (our notes, around the quote): Satele Shan; Theron Shan — Family Ties: "There are rumors that Satele bore a child many years later, a son named Theron Shan raised outside the Order." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-there-are-rumors-that-satele-bore.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:198`
 
 > MAJOR ACHIEVEMENTS: Personally defeated Darth Malgus on Alderaan, ended the Eberon-Kashyyyk War, rediscovered the Jedi homeworld of Tython
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Satele Shan; Darth Malgus — Satele data box.
 Note (our notes, around the quote): Satele Shan; Darth Malgus — Satele data box: "MAJOR ACHIEVEMENTS: Personally defeated Darth Malgus on Alderaan, ended the Eberon-Kashyyyk War, rediscovered the Jedi homeworld of Tython" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-major-achievements-personally-defeated-darth-mal.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:200`
 
 > FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran
 > [fragment — full passage not on file]
 — Source: The Jedi Order.
 Note (our notes, around the quote): Satele Shan; Darth Malgus; Darth Baras; Hero of Tython (Jedi Knight) — Satele data box: "FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-famous-allies-the-hero-of-tython.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:202`
 
 > As an adolescent, Satele trained with Battlemaster Kao Cen Darach. It was he who taught Satele to fight with a double-bladed lightsaber and guided her through the final trials to become a full-fledged Jedi Knight.
 — Source: The Jedi Order; Satele Shan; Kao Cen Darach — Forged by War.
 Note (our notes, around the quote): Satele Shan; Kao Cen Darach — Forged by War: "As an adolescent, Satele trained with Battlemaster Kao Cen Darach. It was he who taught Satele to fight with a double-bladed lightsaber and guided her through the final trials to become a full-fledged Jedi Knight." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-as-an-adolescent-satele-trained-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:204`; `suspect-insight/debates/028-darth-angral-vs-k-kruhk.md:163`
 
 > As fate would have it, Satele and Darach faced the returning Sith Empire at the Battle of Korriban. Master Darach tragically perished in that conflict
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Satele Shan; Kao Cen Darach — Forged by War.
 Note (our notes, around the quote): Satele Shan; Kao Cen Darach — Forged by War: "As fate would have it, Satele and Darach faced the returning Sith Empire at the Battle of Korriban. Master Darach tragically perished in that conflict" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-as-fate-would-have-it-satele.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:206`
 
 > Master Dar'Nala hoped to temper Satele's impatience and aggression born from many years of warfare.
 — Source: The Jedi Order; Satele Shan — Forged by War.
 Note (our notes, around the quote): Satele Shan — Forged by War: "Master Dar'Nala hoped to temper Satele's impatience and aggression born from many years of warfare." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-master-dar-nala-hoped-to-temper.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:208`
 
 > It was during one such contemplation that Satele rediscovered a hyperspace route leading to the long-lost Jedi homeworld of Tython.
 — Source: The Jedi Order; Satele Shan — Visionary of a Reborn Order.
 Note (our notes, around the quote): Satele Shan — Visionary of a Reborn Order: "It was during one such contemplation that Satele rediscovered a hyperspace route leading to the long-lost Jedi homeworld of Tython." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-it-was-during-one-such-contemplation.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:210`
 
 > Satele knows that the path to the dark side often begins with a patriot who salutes a flag instead of serving the ideals for which it stands.
 — Source: The Jedi Order; Satele Shan — The Green Jedi of Corellia (top-right).
 Note (our notes, around the quote): Satele Shan — The Green Jedi of Corellia (top-right): "Satele knows that the path to the dark side often begins with a patriot who salutes a flag instead of serving the ideals for which it stands." Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-satele-knows-that-the-path-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:221`
 
 > In recent history, Grand Master Satele Shan famously wielded her double-bladed lightsaber against Darth Malgus in the Battle of Alderaan.
 — Source: The Jedi Order; Satele Shan; Darth Malgus — Double-Bladed Lightsabers.
 Note (our notes, around the quote): Satele Shan; Darth Malgus — Double-Bladed Lightsabers: "In recent history, Grand Master Satele Shan famously wielded her double-bladed lightsaber against Darth Malgus in the Battle of Alderaan." Source: The Old Republic Encyclopedia, p.103, sidebar
-![Quote image: The Old Republic Encyclopedia, p.103 — full quote as printed](quotes/tore-p103-in-recent-history-grand-master-satele.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:389`
 
 - Note (summary from our notes, not a quotation): Satele Shan — Double-bladed data box: "NOTABLE WIELDER: Satele Shan, Jedi Grand Master" Source: The Old Republic Encyclopedia, p.103, sidebar
   — Source: The Jedi Order.
-![Quote image: The Old Republic Encyclopedia, p.103 — full quote as printed](quotes/tore-p103-notable-wielder-satele-shan-jedi-grand.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:391`
 
 > During the raid on Korriban's Republic-held space station, Darth Malgus battled the heroic young Jedi Satele Shan for the first time. Although Satele escaped without injury, Darth Malgus killed her Jedi Master.
 — Source: The Sith; Darth Malgus; Satele Shan — Leader of the Great War.
 Note (our notes, around the quote): Darth Malgus; Satele Shan — Leader of the Great War: "During the raid on Korriban's Republic-held space station, Darth Malgus battled the heroic young Jedi Satele Shan for the first time. Although Satele escaped without injury, Darth Malgus killed her Jedi Master." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-during-the-raid-on-korriban-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:291`
 
 > Though he had hoped to find Satele Shan among the temple's defenders, Malgus was content to see the Jedi Temple blasted into rubble along with everyone inside.
 — Source: The Sith; Darth Malgus; Satele Shan — Leader of the Great War.
 Note (our notes, around the quote): Darth Malgus; Satele Shan — Leader of the Great War: "Though he had hoped to find Satele Shan among the temple's defenders, Malgus was content to see the Jedi Temple blasted into rubble along with everyone inside." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-though-he-had-hoped-to-find.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:297`
 
 > NOTABLE HUMANS: Satele Shan, Jedi Grand Master, Jace Malcom, Republic Special Forces Commander
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Satele Shan — Human data box.
 Note (our notes, around the quote): Satele Shan — Human data box: "NOTABLE HUMANS: Satele Shan, Jedi Grand Master, Jace Malcom, Republic Special Forces Commander" Source: The Old Republic Encyclopedia, p.254
-![Quote image: The Old Republic Encyclopedia, p.254 — full quote as printed](quotes/tore-p254-notable-humans-satele-shan-jedi-grand.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:20`
 
 > NOTABLE TOGRUTAS: Jedi Master Bela Kiwiiks, Master to Kira Carsen; Master Dar'Nala, former Master to Satele Shan
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Bela Kiwiiks; Kira Carsen; Dar'Nala; Satele Shan — Togruta data box.
 Note (our notes, around the quote): Bela Kiwiiks; Kira Carsen; Dar'Nala; Satele Shan — Togruta data box: "NOTABLE TOGRUTAS: Jedi Master Bela Kiwiiks, Master to Kira Carsen; Master Dar'Nala, former Master to Satele Shan" Source: The Old Republic Encyclopedia, p.255, sidebar
-![Quote image: The Old Republic Encyclopedia, p.255 — full quote as printed](quotes/tore-p255-notable-togrutas-jedi-master-bela-kiwiiks.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:22`
 
 > Those who show an affinity for the Force are able to be taken for training at an older age than other species due to the mental discipline that is engrained in all Zabrak. … NOTABLE ZABRAK: Jedi Master Kao Cen Darach Master to Satele Shan
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Kao Cen Darach; Satele Shan — Zabrak.
 Note (our notes, around the quote): Kao Cen Darach; Satele Shan — Zabrak: "Those who show an affinity for the Force are able to be taken for training at an older age than other species due to the mental discipline that is engrained in all Zabrak. … NOTABLE ZABRAK: Jedi Master Kao Cen Darach Master to Satele Shan" Source: The Old Republic Encyclopedia, p.258
-![Quote image: The Old Republic Encyclopedia, p.258 — full quote as printed](quotes/tore-p258-those-who-show-an-affinity-for.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:50`
 
 > Over 22,000 years later, the Jedi Satele Shan discovered a new hyperspace route to Tython, drawing on months of research and meditation. Satele found a world of overgrown ruins and dangerous beasts, but as more Jedi followed in her footsteps, Tython became a sanctuary to the Jedi Order.
 — Source: Species, technology, planets and the future; Satele Shan — Rediscovery box.
 Note (our notes, around the quote): Satele Shan — Rediscovery box: "Over 22,000 years later, the Jedi Satele Shan discovered a new hyperspace route to Tython, drawing on months of research and meditation. Satele found a world of overgrown ruins and dangerous beasts, but as more Jedi followed in her footsteps, Tython became a sanctuary to the Jedi Order." Source: The Old Republic Encyclopedia, p.287, sidebar
-![Quote image: The Old Republic Encyclopedia, p.287 — full quote as printed](quotes/tore-p287-over-22-000-years-later-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:224`
 
 > The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world.
 — Source: Species, technology, planets and the future.
 Note (our notes, around the quote): Darth Malgus; Lord Vindican; Kao Cen Darach; Satele Shan — Return from Exile: "The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world." Source: The Old Republic Encyclopedia, p.291, sidebar
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-the-sith-lord-vindican-and-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:256`
 
 > As the Republic marches to battle, their fight is bolstered by the Jedi Order. Guided by GRAND MASTER SATELE SHAN, the Jedi once more seek to defend peace and cleanse the galaxy of Sith corruption.
 — Source: Species, technology, planets and the future; Satele Shan — Road to Republic Victory box.
 Note (our notes, around the quote): Satele Shan — Road to Republic Victory box: "As the Republic marches to battle, their fight is bolstered by the Jedi Order. Guided by GRAND MASTER SATELE SHAN, the Jedi once more seek to defend peace and cleanse the galaxy of Sith corruption." Source: The Old Republic Encyclopedia, p.344
-![Quote image: The Old Republic Encyclopedia, p.344 — full quote as printed](quotes/tore-p344-as-the-republic-marches-to-battle.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:539`
 
 ## Star Wars Insider #110 (2009)

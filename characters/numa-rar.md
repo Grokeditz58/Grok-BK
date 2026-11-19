@@ -24,13 +24,11 @@ Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-
 > Numa is killed, and Alema is burned and temporarily deafened.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Alema Rar. POV: Alema Rar, about Numa Rar.
 Note (our notes, around the quote): Alema Rar: "Numa is killed, and Alema is burned and temporarily deafened." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.137
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.137 — full quote as printed](quotes/d049-s137-numa-is-killed-and-alema-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-121-162.md:110`
 
 > Alema recovered her composure over time with her sister's help— but when Numa was slain by a voxyn aboard Nebula Chaser, Alema's journey to the dark side had begun.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Alema Rar — entry/section: Alema Rar, Twi'lek Jedi.
 Note (our notes, around the quote): Alema Rar — entry/section: Alema Rar, Twi'lek Jedi: "Alema recovered her composure over time with her sister's help— but when Numa was slain by a voxyn aboard Nebula Chaser, Alema's journey to the dark side had begun." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.137
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.137 — full quote as printed](quotes/d049-s137-alema-recovered-her-composure-over-time.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-121-162.md:116`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)

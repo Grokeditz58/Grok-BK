@@ -14,14 +14,12 @@
 > A Miraluka called Shol Bestros famously turned his back on the Jedi throughout his childhood. His mind was changed when a Jedi Master, Kao Cen Darach, recognized the young Miraulkan's ability and encouraged him to join the Order. Bestros went on to achieve the rank of Jedi Master and joined the Jedi Council.
 — Source: Species, technology, planets and the future; Kao Cen Darach; Shol Bestros — Miraluka.
 Note (our notes, around the quote): Kao Cen Darach; Shol Bestros — Miraluka: "A Miraluka called Shol Bestros famously turned his back on the Jedi throughout his childhood. His mind was changed when a Jedi Master, Kao Cen Darach, recognized the young Miraulkan's ability and encouraged him to join the Order. Bestros went on to achieve the rank of Jedi Master and joined the Jedi Council." Source: The Old Republic Encyclopedia, p.261, sidebar
-![Quote image: The Old Republic Encyclopedia, p.261 — full quote as printed](quotes/tore-p261-a-miraluka-called-shol-bestros-famously.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:65`
 
 > NOTABLE MIRALUKA: Cheiko Bes, fallen Jedi Master; Master Bestros, member of the Jedi Council
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Cheiko Bes — Miraluka data box.
 Note (our notes, around the quote): Cheiko Bes — Miraluka data box: "NOTABLE MIRALUKA: Cheiko Bes, fallen Jedi Master; Master Bestros, member of the Jedi Council" Source: The Old Republic Encyclopedia, p.261, sidebar
-![Quote image: The Old Republic Encyclopedia, p.261 — full quote as printed](quotes/tore-p261-notable-miraluka-cheiko-bes-fallen-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:69`
 
 # Debate and forum claims (unverified)

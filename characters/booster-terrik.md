@@ -69,7 +69,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:429`
 > He married the smuggler Mirax Terrik, daughter of the legendary Corellian smuggler Booster Terrik—who had been sent to Kessel by Corran's father.
 — Source: Star Wars Insider #59 (2002); Corran Horn — entry/section: Corran Horn.
 Note (our notes, around the quote): Corran Horn — entry/section: Corran Horn: "He married the smuggler Mirax Terrik, daughter of the legendary Corellian smuggler Booster Terrik—who had been sent to Kessel by Corran's father." Source: *Star Wars Insider #59* (2002), scan p.57
-![Quote image: *Star Wars Insider #59* (2002), scan p.57 — full quote as printed](quotes/ins059-s57-he-married-the-smuggler-mirax-terrik.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:415`
 
 ## NJO 7, *Edge of Victory I: Conquest* (Greg Keyes, Del Rey 2001): FULL consecutive re-read (2026-11-16 CST)

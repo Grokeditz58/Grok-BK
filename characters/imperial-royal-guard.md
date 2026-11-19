@@ -160,7 +160,7 @@ Our notes: `notes/materials/041-dark-empire/tpb-extras.md:140`
 
 ## Star Wars: Darth Vader and the Lost Command #1–5 (Dark Horse, Jan–May 2011) + TPB (Nov 2011)
 
-- Note (summary from our notes, not a quotation): ![Vader strides between the Royal Guards to the Emperor](panels/lc1-p07-vader-royal-guards.jpg)
+- Note (summary from our notes, not a quotation): ![Vader strides between the Royal Guards to the Emperor](../notes/materials/042-lost-command/panels/lc1-p07-vader-royal-guards.jpg)
   — Source: Darth Vader and the Lost Command: daily-image candidates.
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:10`
 

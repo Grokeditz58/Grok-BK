@@ -23,7 +23,6 @@ Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview
 
 - Note (summary from our notes, not a quotation): Scorch (Delta Six-Two) — entry/section: How Delta Six-Two became Scorch: "The clone designated RC-1262 was a member of one such four-man team, Delta Squad. Delta Six-Two was a highly skilled demolitions specialist with an overly ironic sense of humor, always finding a way to make a sarcastic comment even under fire. Delta Six-Two earned the nickname "Scorch" as a result of a demolitions training mishap that left him and his drill instructor without eyebrows for a short time. (The drill instructor, Sergeant Walon Vau, was not amused.)" Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol.
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d101-s1-the-clone-designated-rc-1262-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:12`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)

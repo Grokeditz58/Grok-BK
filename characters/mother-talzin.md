@@ -18,25 +18,21 @@ Our notes: `notes/materials/036-book-of-sith/04-mother-talzin.md:3`
 > My sisters, the galaxy has taken note of us, and the powerful will pay for our service.
 — Source: Secrets from the Dark Side (2012): Mother Talzin: Wild Power (Nightsisters). POV: Mother Talzin.
 Note (our notes, around the quote): Mother Talzin: "My sisters, the galaxy has taken note of us, and the powerful will pay for our service." Source: Book of Sith, scan p.98
-![Quote image: Book of Sith, scan p.98 — full quote as printed](quotes/bos-s98-my-sisters-the-galaxy-has-taken.jpg)
 Our notes: `notes/materials/036-book-of-sith/04-mother-talzin.md:17`
 
 > The magic of the Fanged God is so powerful that channeling it can burst minor blood vessels in our physical bodies, raising telltale bruises on the cheeks and around the eyes.
 — Source: Secrets from the Dark Side (2012): Mother Talzin: Wild Power (Nightsisters). POV: Mother Talzin.
 Note (our notes, around the quote): Mother Talzin: "The magic of the Fanged God is so powerful that channeling it can burst minor blood vessels in our physical bodies, raising telltale bruises on the cheeks and around the eyes." Source: Book of Sith, scan p.108
-![Quote image: Book of Sith, scan p.108 — full quote as printed](quotes/bos-s108-the-magic-of-the-fanged-god.jpg)
 Our notes: `notes/materials/036-book-of-sith/04-mother-talzin.md:71`
 
 > As clan shaman, it is within my power to entreat the spirits.
 — Source: Secrets from the Dark Side (2012): Mother Talzin: Wild Power (Nightsisters). POV: Mother Talzin.
 Note (our notes, around the quote): Mother Talzin: "As clan shaman, it is within my power to entreat the spirits." Source: Book of Sith, scan p.111
-![Quote image: Book of Sith, scan p.111 — full quote as printed](quotes/bos-s111-as-clan-shaman-it-is-within.jpg)
 Our notes: `notes/materials/036-book-of-sith/04-mother-talzin.md:88`
 
 > They claim to possess unparalleled skill in fortune-telling, ts and some have approached our clients promising to reveal the outcomes of galactic 2s ar events yet to come. | doubt the spirits whisper to them with any clarity, and only a witch ss = inthe grip of insanity would be charmed by their religion. | suspect their pronounce- * z ments are empty shells made from self-fulfilling statements.
 — Source: Secrets from the Dark Side (2012): Mother Talzin: Wild Power (Nightsisters). POV: Mother Talzin.
 Note (our notes, around the quote): Mother Talzin: "They claim to possess unparalleled skill in fortune-telling, ts and some have approached our clients promising to reveal the outcomes of galactic 2s ar events yet to come. | doubt the spirits whisper to them with any clarity, and only a witch ss = inthe grip of insanity would be charmed by their religion. | suspect their pronounce- * z ments are empty shells made from self-fulfilling statements." Source: Book of Sith, scan p.124
-![Quote image: Book of Sith, scan p.124 — full quote as printed](quotes/bos-s124-they-claim-to-possess-unparalleled-skill.jpg)
 Our notes: `notes/materials/036-book-of-sith/04-mother-talzin.md:155`
 
 - Note (summary from our notes, not a quotation): Page contents: 128 words, 4 paragraphs | headings/entries: Talzin shows wore concern
@@ -95,7 +91,6 @@ Our notes: `notes/materials/038-star-wars-insider/143-ins143.md:338`
 > She's a powerhouse that could go toe-to-toe with Darth Sidious, but she comes at it from such a unique angle. Nightsister magic is not at all like the Force, and that lets us do some surprising things. Let's just say Count Dooku does not have an easy go of it here!
 — Source: Star Wars Insider #149 (2014).
 Note (our notes, around the quote): Mother Talzin; Palpatine (Darth Sidious); Count Dooku — entry/section: Barlow on Talzin's power: ""She's a powerhouse that could go toe-to-toe with Darth Sidious, but she comes at it from such a unique angle. Nightsister magic is not at all like the Force, and that lets us do some surprising things. Let's just say Count Dooku does not have an easy go of it here!" —Jeremy Barlow (writer), Star Wars Insider 149, p. 65" Source: *Star Wars Insider #149* (2014), scan p.65
-![Quote image: *Star Wars Insider #149* (2014), scan p.65 — full quote as printed](quotes/ins149-s65-shes-a-powerhouse-that-could-go.jpg)
 Our notes: `notes/materials/038-star-wars-insider/149-ins149.md:390`
 
 ## "My Problems with Caedus Wank: Why I find Caedus = Maul more believable than Caedus = Yoda" (Master Azronger)

@@ -13,7 +13,6 @@
 
 - Note (summary from our notes, not a quotation): Vitiate (the Sith Emperor); Darth Nostrem — The Citadel box: "But the heart of the Citadel is the Sith Sanctum, home to the Empire's most powerful Sith Lords, the meeting place of the Dark Council, and purportedly the throne of the Emperor himself. Centuries ago, only Sith were allowed within the Citadel. This rule was shattered when the Citadel was destroyed during a duel, or "Kaggath," between two rival Sith Lords. Darth Nostrem oversaw the complete reconstruction of the Citadel, acting on secret plans provided by the Dark Council and the Emperor. To test the labyrinthine interior of the building's darkest recesses, the Emperor locked Darth Nostrem within the Citadel. The Sith Lord perished within the deep levels of his creation, a testament to the unassailable new Citadel. The Citadel has stood untouched for centuries, striking any who gaze at it with overwhelming awe—and the knowledge that the Emperor watches over all." Source: The Old Republic Encyclopedia, p.302
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.302 — full quote as printed](quotes/tore-p302-but-the-heart-of-the-citadel.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:324`
 
 # Debate and forum claims (unverified)

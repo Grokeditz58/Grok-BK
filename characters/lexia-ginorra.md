@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Fearing for her life, and convinced in a moment of panic that the morality of the Jedi Code was a hindrance that could kill her, Ginorra slaughtered her kidnappers in an explosion of rage, then disappeared into the jungles of Kamparas.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Lexia Ginorra — entry/section: Lexia Ginorra slaughters her kidnappers.
 Note (our notes, around the quote): Lexia Ginorra — entry/section: Lexia Ginorra slaughters her kidnappers: "Fearing for her life, and convinced in a moment of panic that the morality of the Jedi Code was a hindrance that could kill her, Ginorra slaughtered her kidnappers in an explosion of rage, then disappeared into the jungles of Kamparas." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.32
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.32 — full quote as printed](quotes/d665-s32-fearing-for-her-life-and-convinced.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:218`
 
 # Debate and forum claims (unverified)

@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/707-05-the-first-to-strike.md:92`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 05 The First to Strike (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_05_The_First_to_Strike_pdf_97ea3d6aa0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 05 The First to Strike (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_05_The_First_to_Strike_pdf_97ea3d6aa0`).)
 Note (our notes, around the quote): Koorst; Vril Vrakth — entry/section: Point Gold: "If the heroes pick up the comlink and Koorst sees any of their faces, he swears his eternal hatred of those who felled his mentor, then flies off into hyperspace. He will return in The Gem of Alderaan, later in the Dawn of Defiance campaign." Source: *05 - The First to Strike* (SWRPG Saga Edition), scan p.13
-![Quote image: *05 - The First to Strike* (SWRPG Saga Edition), scan p.13 — full quote as printed](quotes/d707-s13-if-the-heroes-pick-up-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/707-05-the-first-to-strike.md:94`
 
 # Debate and forum claims (unverified)

@@ -14,7 +14,6 @@
 > IT WAS TIME FOR THE MOFFS TO REASSERT THEIR AUTHORITY LIKE IN THE OLD DAYS—BACK IN THE REMNANT!
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Moff Geist — entry/section: Pull quote.
 Note (our notes, around the quote): Moff Geist — entry/section: Pull quote: ""IT WAS TIME FOR THE MOFFS TO REASSERT THEIR AUTHORITY LIKE IN THE OLD DAYS—BACK IN THE REMNANT!" —MOFF GEIST" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.176
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.176 — full quote as printed](quotes/d719-s176-it-was-time-for-the-moffs.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:463`
 
 ## https://starwars.fandom.com/wiki/Darth_Krayt

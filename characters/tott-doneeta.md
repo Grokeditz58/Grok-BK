@@ -29,7 +29,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:19`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Ulic's strength returns once the other Jedi arrive.
 Note (our notes, around the quote): Ulic's strength returns once the other Jedi arrive: "BUT FOR SOME REASON I'M FEELING A WHOLE LOT STRONGER NOW THAT MY FELLOW JEDI ARE HERE!" Narration: "FOR MONTHS OMMIN'S OPPRESSIVE SITH MAGIC HAS INFECTED THE WILL OF ARCA'S JEDI PEACE-KEEPERS... NOW THE BALANCE HAS SHIFTED--" Source: Freedon Nadd Uprising #2, p7
-![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](panels/fnu2-p07-jedi-strength-returns.jpg)
+![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p07-jedi-strength-returns.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:59`
 
 > THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE...
@@ -39,14 +39,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:59`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): His Sith magic drains the Jedi at Modon Kira's citadel: Tott: "THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE..." "SITH MAGIC IS AT WORK--" Narration: "FOR MONTHS OMMIN'S OPPRESSIVE SITH MAGIC HAS INFECTED THE WILL OF ARCA'S JEDI PEACE-KEEPERS..." Source: Freedon Nadd Uprising #2, p7
-![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](panels/fnu2-p07-jedi-strength-returns.jpg)
+![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p07-jedi-strength-returns.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:98`
 
 > THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE...
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Tott Doneeta on Ommin's Sith magic. POV: Tott Doneeta.
 Note (our notes, around the quote): Tott Doneeta on Ommin's Sith magic: "THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE..." "SITH MAGIC IS AT WORK--" Source: Freedon Nadd Uprising #2, p7
-![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](panels/fnu2-p07-jedi-strength-returns.jpg)
+![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p07-jedi-strength-returns.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:251`
 
 > WITH THE LIGHT SIDE OF THE FORCE AS HIS ALLY
@@ -58,7 +58,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:339`
 > Ulic excelled, learning and mastering the techniques presented by Arca more quickly than any of his fellow apprentices. But his relentless efforts and his sometimes reckless attempts to prove his ability brought concerned words from Cay, Tott, and Arca.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Tott Doneeta.
 Note (our notes, around the quote): Narrative bio: "Ulic excelled, learning and mastering the techniques presented by Arca more quickly than any of his fellow apprentices. But his relentless efforts and his sometimes reckless attempts to prove his ability brought concerned words from Cay, Tott, and Arca." Source: Tales of the Jedi Companion (WEG, 1996), p.34
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.34 — full quote as printed](quotes/companion-p34-ulic-excelled-learning-and-mastering-the.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.34 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p34-ulic-excelled-learning-and-mastering-the.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:112`
 
 > Arca agreed, and, since Totl's family was glad to be rid of the "troublemaker," the Twi'lek traveled back to Arkania with his new master to begin his training immediately. There he met Ulic and Cay Qel-Droma, and the three became fast friends. Master Arca found Tott to be an excellent student, diligent yet disciplined, a mind ready for knowledge yet free of ambitions that might twist that knowledge to ill purpose. When Toll approached him with concerns about Ulic's strange behavior, Master Arca was surprised by his ability to perceive such potential for difficulties in his fellow student. At that moment he knew Toll would become a great Jedi. Though Tott did not surpass his peers in the area of lightsaber combat (in which Ulic especially displayed awesome proficiency), he had a natural ability for communicating with beasts through the Force. Master Arca encouraged him to practice this power by venturing out into the wilds of Arkania and establishing rapports with the various species of animals living on the tundra. Toll did so each night after Arca completed his teaching, and as a result his expertise grew steadily over the years. Toll's and his fellow students' first test of skill came when Master Arca sent them to settle the civil war on Onderon.
@@ -67,7 +67,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Tott's bio about Ulic: "Though Tott did not surpass his peers in the area of lightsaber combat (in which Ulic especially displayed awesome proficiency)," Source: Tales of the Jedi Companion (WEG, 1996), p.33
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.33 — full quote as printed](quotes/companion-p33-though-tott-did-not-surpass-his.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.33 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p33-though-tott-did-not-surpass-his.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:114`
 
 > At that moment he knew Tott would become a great Jedi.
@@ -78,7 +78,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Narrative bio: "At that moment he knew Tott would become a great Jedi." Tott "had a natural ability for communicating with beasts through the Force." Source: Tales of the Jedi Companion (WEG, 1996), p.33
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.33 — full quote as printed](quotes/companion-p33-at-that-moment-he-knew-tott.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.33 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p33-at-that-moment-he-knew-tott.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:157`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Tott Doneeta, Twi'lek Jedi Knight. Force skills Control 1D+2, Sense 2D+2, Alter 2D. Lightsaber 5D. Powers include beast languages, sense path, return another to consciousness. Force Points 2, Character Points 6. Source: Tales of the Jedi Companion (WEG, 1996), p.33
@@ -87,7 +87,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 
 > The Beast Wars of Onderon and the Freedon Nadd Uprising have hurled the galaxy toward the inevitable clash between good and evil, and brave Jedi like Ulic Qel-Droma, Nomi Sunrider, and Tott Doneeta have joined forces with the Republic to fend off the growing darkness.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Back cover (PDF 177). POV: Back cover, about Tott Doneeta.
-![Quote image: Tales of the Jedi Companion (WEG, 1996), back cover — full quote as printed](quotes/companion-backcover-the-beast-wars-of-onderon.jpg)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), back cover — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-backcover-the-beast-wars-of-onderon.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:328`
 
 - Note (summary from our notes, not a quotation): | Tott Doneeta | 1D+2 | 2D+2 | 2D | 5D | p.33 |
@@ -121,7 +121,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Sylvar; Tott Doneeta: "Accompanied by Sylvar on his return to Ryloth, Tott Doneeta later was instrumental in reaching a peaceful resolution between his clan and the R'lyek, a rival clan." Source: The Complete Star Wars Encyclopedia, Vol. I, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.197 — full quote as printed](quotes/v1-p197-accompanied-by-sylvar-on-his-return.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:91`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -141,13 +140,11 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-11
 > Though born Force-sensitive, circumstances would prevent Bocas'eca from becoming a Jedi. Ryloth's assigned Jedi scout, the Twi'lek Anoon Bondara, was killed the year Boc was born, and his Force-sensitivity went unnoticed until much later, when the Human Jedi Nejaa Halcyon deemed Boc too old for training. Familiar with the stories of Twi'lek warriors such as Tott Doneeta and Newar Forrth, Boc felt cheated out of his destiny.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
 Note (our notes, around the quote): Boc Aseca; Anoon Bondara; Nejaa Halcyon; Newar Forrth; Tott Doneeta — entry/section: Boc cheated of his destiny: "Though born Force-sensitive, circumstances would prevent Bocas'eca from becoming a Jedi. Ryloth's assigned Jedi scout, the Twi'lek Anoon Bondara, was killed the year Boc was born, and his Force-sensitivity went unnoticed until much later, when the Human Jedi Nejaa Halcyon deemed Boc too old for training. Familiar with the stories of Twi'lek warriors such as Tott Doneeta and Newar Forrth, Boc felt cheated out of his destiny." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d131-s2-though-born-force-sensitive-circumstances-would.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:31`
 
 > Boc learned all that he could about these heroes, such as how the invincible Tott had battled hordes of darksiders in the Old Sith Wars, or how Newar of the Nercathi clan led the Third Legion of Light to victory at the cost of his own life in one of Ruusan's seven battles, his pyre ashes crystallized and shaped into three idols in his likeness. Gifted with a rare power, Boc used the Force to read the impressions from these idols and access fragments of Newar's memory. Boc was fascinated by the grisly images he saw of Jedi victory at Malrev IV and Ruusan, and he felt more determined than ever to become a Jedi warrior.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
 Note (our notes, around the quote): Boc Aseca; Newar Forrth; Tott Doneeta — entry/section: Boc reads Newar's idols: "Boc learned all that he could about these heroes, such as how the invincible Tott had battled hordes of darksiders in the Old Sith Wars, or how Newar of the Nercathi clan led the Third Legion of Light to victory at the cost of his own life in one of Ruusan's seven battles, his pyre ashes crystallized and shaped into three idols in his likeness. Gifted with a rare power, Boc used the Force to read the impressions from these idols and access fragments of Newar's memory. Boc was fascinated by the grisly images he saw of Jedi victory at Malrev IV and Ruusan, and he felt more determined than ever to become a Jedi warrior." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d131-s2-boc-learned-all-that-he-could.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:33`
 
 ## Star Wars Insider #100 (2008)

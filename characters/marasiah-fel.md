@@ -42,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > THE JEDI HAVE NOTHING TO FEAR FROM MY FATHER. ROAN FEL IS NOT YOUR ENEMY. HE NEVER TRULY WAS.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Marasiah Fel; Roan Fel — entry/section: Pull quote.
 Note (our notes, around the quote): Marasiah Fel; Roan Fel — entry/section: Pull quote: ""THE JEDI HAVE NOTHING TO FEAR FROM MY FATHER. ROAN FEL IS NOT YOUR ENEMY. HE NEVER TRULY WAS." —MARASIAH FEL" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.178
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.178 — full quote as printed](quotes/d719-s178-the-jedi-have-nothing-to-fear.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:487`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -386,7 +385,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1053`
 Label in our notes: Roan Fel: · Marasiah Fel
 Our notes: `notes/materials/009-legacy-book-1.md:1134`
 
-- Note (summary from our notes, not a quotation): ![p457 handbook: Roan and Marasiah Fel](009-legacy-book-1-panels/p457-handbook-roan-marasiah-fel.jpg)
+- Note (summary from our notes, not a quotation): ![p457 handbook: Roan and Marasiah Fel](../notes/materials/009-legacy-book-1-panels/p457-handbook-roan-marasiah-fel.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p457 handbook: Roan and Marasiah Fel — `p457-handbook-roan-marasiah-fel.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1156`
@@ -408,21 +407,21 @@ Our notes: `notes/materials/010-legacy-war.md:87`
 
 - Note (summary from our notes, not a quotation): Draco broken (p44–45). Havok breaks Draco with a staged illusion: a false Marasiah who is Talon in disguise. Draco names "TAIVAS".
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:98`
 
 > YOU DON'T WIN BY PLAYING SAFE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Taivas council (p61–63). Marasiah gives Draco a chance at redemption (p61). At the council Cade proposes the trap ("YOU DON'T WIN BY PLAYING SAFE.") and K'Kruhk sums up: "AGREED THEN." (p62–63).
-![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
-![p62 the Taivas trap plan](010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+![p62 the Taivas trap plan](../notes/materials/010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
 Our notes: `notes/materials/010-legacy-war.md:107`
 
 - Note (summary from our notes, not a quotation): The *Jagged Fel* (p120–121). Fel moves to launch the toxin. He pushes Marasiah and Sinde through glass, and Draco invokes his oath.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
-![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
+![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](../notes/materials/010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
 Our notes: `notes/materials/010-legacy-war.md:133`
 
 - Note (summary from our notes, not a quotation): Released Krayt (p4), joins the Temple assault (p15–16), and plays the illusion "Marasiah" in Havok's breaking of Draco (p44–45, orange Sith eye).
@@ -433,13 +432,13 @@ Our notes: `notes/materials/010-legacy-war.md:546`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 3. Fall: Force-pushes Marasiah and Sinde through glass; fights Draco; struck down. p120–126 (#6)
-![p120 Fel pushes Marasiah and Sinde](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg) *(p120)*
-![p126 Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
+![p120 Fel pushes Marasiah and Sinde](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg) *(p120)*
+![p126 Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
 Our notes: `notes/materials/010-legacy-war.md:673`
 
 > THERE ARE NO INNOCENTS ON CORUSCANT!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p120.
-Note (our notes, around the quote): ![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+Note (our notes, around the quote): ![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
 (*Panel: p120 — `p120-fel-no-innocents-marasiah-become-krayt.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:687`
 
@@ -450,19 +449,19 @@ Our notes: `notes/materials/010-legacy-war.md:694`
 
 > AS IMPERIAL KNIGHTS WE CANNOT ALLOW THIS!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p12 (#1).
-![p12 Marasiah: AS IMPERIAL KNIGHTS WE CANNOT ALLOW THIS](010-legacy-war-panels/p012-imperial-knights-cannot-allow-this.jpg) *(p12)*
+![p12 Marasiah: AS IMPERIAL KNIGHTS WE CANNOT ALLOW THIS](../notes/materials/010-legacy-war-panels/p012-imperial-knights-cannot-allow-this.jpg) *(p12)*
 Our notes: `notes/materials/010-legacy-war.md:702`
 
 > HONOR DICTATES THAT YOU SHOULD HAVE DIED, MASTER DRACO -- THAT YOU SHOULD HAVE LET ME DIE, BEFORE BETRAYAL OF SUCH A SACRED TRUST!
 >
 > YOU WILL BE GIVEN A CHANCE TO RECLAIM YOUR HONOR AND PROVE YOURSELF WORTHY OF BEING AN IMPERIAL KNIGHT. AS THE FORCE WILLS.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p61 (#3), judging Draco.
-![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
 Our notes: `notes/materials/010-legacy-war.md:704`
 
 - Note (summary from our notes, not a quotation): p67, p72 (#3–4): fights Sith in the temple beside Draco.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
 Our notes: `notes/materials/010-legacy-war.md:705`
 
 > DO THIS AND YOU BECOME KRAYT! YOU ARE SUPPOSED TO EMBODY THE FORCE, FATHER! THIS IS WRONG! YOU MUST SEE THAT!
@@ -470,7 +469,7 @@ Our notes: `notes/materials/010-legacy-war.md:705`
 > ANTARES... YOU CAN'T LET HIM...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p120 (#6).
-![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:706`; `notes/materials/010-legacy-war.md:1185`
 
 > You embody the Force
@@ -482,7 +481,7 @@ Our notes: `notes/materials/010-legacy-war.md:707`
 
 - Note (summary from our notes, not a quotation): p132 (#6): named "EMPRESS MARASIAH FEL" and Triumvir.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:708`
 
 > MASTER DRACO IS RIGHT -- THIS IS DARK SIDE. PLEASE. STEP AWAY, OLD FRIEND.
@@ -491,7 +490,7 @@ Note (our notes, around the quote): p120: "MASTER DRACO IS RIGHT -- THIS IS DARK
 Context: Treis Sinde:
 Our notes: `notes/materials/010-legacy-war.md:745`
 
-- Note (summary from our notes, not a quotation): ![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+- Note (summary from our notes, not a quotation): ![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p132 — `p132-fel-funeral-triumvirate.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:825`
@@ -508,7 +507,7 @@ Our notes: `notes/materials/010-legacy-war.md:947`
 
 - Note (summary from our notes, not a quotation): After War (p132): the Galactic Federation Triumvirate of Stazi, "JEDI MASTER K'KRUHK" and Empress Marasiah Fel.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1018`
 
 - Note (summary from our notes, not a quotation): Roan Fel, Marasiah, Draco, Krieg, Azlyn Rae, Sigel, Sinde and Chalk.
@@ -533,8 +532,8 @@ Our notes: `notes/materials/010-legacy-war.md:1190`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Roan Fel's Empire-in-exile and the Imperial Knights (Bastion). "Roan Fel, the third Emperor of the Fel Dynasty"; "the Empire-in-exile has managed to repel Darth Krayt's forces and foil attempts on the lives of both Roan Fel and his daughter, Marasiah" (p161). Bastion: "The planet's defensive systems are nigh impenetrable. Bastion is as well defended as Coruscant, which is why Darth Krayt has not launched an attack on the planet" (p107).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p161 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p107 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p107-bastion-defenses.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p161 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p107 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p107-bastion-defenses.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:89`
 
 - Note (summary from our notes, not a quotation): | 15 | Marasiah Fel | p177 | 10 | noble 5 / Jedi 4 / IK 1 | +17 | 28 (ff 26) / 24 / 24 | 60 (24) | — | 1 / 5 | +14 (2d8+5) |
@@ -544,7 +543,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:130`
 
 > Draco has defied Roan Fel's wishes on a few occasions, such as the time he traveled to Vendaxa to rescue Marasiah.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:471`
 
 > she (like her father) is a full-fledged Imperial Knight
@@ -553,8 +552,8 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:471`
 > Diplomat, liaison, soldier, and spy
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Bio.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p177 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p177-she-like-her-father-is-a.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p177 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p177-diplomat-liaison-soldier-and-spy.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p177 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p177-she-like-her-father-is-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p177 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p177-diplomat-liaison-soldier-and-spy.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:501`
 
 - Note (summary from our notes, not a quotation): CL 10; noble 5/Jedi 4/Imperial Knight 1. Destiny 1; Force 5.
@@ -580,12 +579,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:508`
 > I LOVE MY DAUGHTER, BUT THE FATE OF THE EMPIRE—OF THE GALAXY—IS AT STAKE!
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Pull quote.
 Label in our notes: EMPEROR ROAN FEL
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p177 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p177-i-love-my-daughter-but-the.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p177 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p177-i-love-my-daughter-but-the.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel; Marasiah Fel — entry/section: Pull quote.
 Also noted as: Roan Fel; Marasiah Fel — entry/section: Pull quote: ""I LOVE MY DAUGHTER, BUT THE FATE OF THE EMPIRE—OF THE GALAXY—IS AT STAKE!" —EMPEROR ROAN FEL" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.177
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:509`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:474`
 
-- Note (summary from our notes, not a quotation): ![p177 Marasiah Fel CL 10](011-legacy-era-campaign-guide-panels/p177-marasiah-fel-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p177 Marasiah Fel CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p177-marasiah-fel-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p177 Marasiah Fel CL 10 — `p177-marasiah-fel-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:512`

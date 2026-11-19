@@ -18,7 +18,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Raskta Lsu was named in honor of Raskta Fenni, a noted Echani duelist, and she lived up to her namesake by becoming the Jedi Order's most skilled martial artist.
 — Source: scan pages 241–280; Raskta Lsu — entry/section: Lsu, Raskta.
 Note (our notes, around the quote): Raskta Lsu — entry/section: Lsu, Raskta: "Raskta Lsu was named in honor of Raskta Fenni, a noted Echani duelist, and she lived up to her namesake by becoming the Jedi Order's most skilled martial artist." Source: The Complete Star Wars Encyclopedia, Vol. II, p.264
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.264 — full quote as printed](quotes/v2-p264-raskta-lsu-was-named-in-honor.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:255`
 
 ## "My Problems with Caedus Wank: Why I find Caedus = Maul more believable than Caedus = Yoda" (Master Azronger)

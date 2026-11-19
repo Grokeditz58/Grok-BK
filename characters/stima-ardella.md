@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > She is a dead shot with her twin disruptor pistols.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Stima Ardella — entry/section: Stima Ardella's twin disruptors.
 Note (our notes, around the quote): Stima Ardella — entry/section: Stima Ardella's twin disruptors: "She is a dead shot with her twin disruptor pistols." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.104
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.104 — full quote as printed](quotes/d665-s104-she-is-a-dead-shot-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:306`
 
 - Note (summary from our notes, not a quotation): Page contents: Stima Ardella feats; New Species: Fia; New Creature: Skree-skater; Kuat planet stats; Description; History begins (hand-read)

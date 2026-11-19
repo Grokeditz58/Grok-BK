@@ -24,7 +24,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > Karrde plainly trusts the weapons specialist with his life.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Fein; Talon Karrde — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Fein; Talon Karrde — entry/section: Smugglers' Alliance: "Karrde plainly trusts the weapons specialist with his life." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.57
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.57 — full quote as printed](quotes/d052-s57-karrde-plainly-trusts-the-weapons-specialist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:363`
 
 ## Star Wars Insider #64 (2002)

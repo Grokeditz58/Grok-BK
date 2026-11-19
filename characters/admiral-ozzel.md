@@ -14,7 +14,6 @@
 > Vader killed Ozzel for his failure, promoting Captain Piett to his position.
 — Source: scan pages 401–440; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Vader killed Ozzel for his failure, promoting Captain Piett to his position." Source: The Complete Star Wars Encyclopedia, Vol. II, p.433
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.433 — full quote as printed](quotes/v2-p433-vader-killed-ozzel-for-his-failure.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:288`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > He advanced to first officer on Darth Vader's flagship Executor, an especially dangerous position given the Dark Lord's legendary capriciousness, Piett aided Admiral Kendal Ozzel in overseeing the crew as well as helping to direct the entire fleet.
 — Source: scan pages 1–40; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "He advanced to first officer on Darth Vader's flagship Executor, an especially dangerous position given the Dark Lord's legendary capriciousness, Piett aided Admiral Kendal Ozzel in overseeing the crew as well as helping to direct the entire fleet." Source: The Complete Star Wars Encyclopedia, Vol. III, p.25
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.25 — full quote as printed](quotes/v3-p25-he-advanced-to-first-officer-on.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:224`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -36,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Jerec remained very busy in the time leading up to the Battle of Endor. For a time, he became governor of Kyle Katarn's homeworld Sulon, having an extravagant palace built in honor of himself. Jerec's ambition also drove him to seek out a mind-controlling monster called Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance. Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance II, though with its predecessor destroyed, the numerical amendment was infrequently applied. Jerec eventually ordered the ship's captain to join Admiral Ozzel's Death Squadron, as the Dark Jedi already had a Super Star Destroyer being built to accommodate his unceasingly swelling ego.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn — entry/section: Jerec's ambition.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's ambition: "Jerec remained very busy in the time leading up to the Battle of Endor. For a time, he became governor of Kyle Katarn's homeworld Sulon, having an extravagant palace built in honor of himself. Jerec's ambition also drove him to seek out a mind-controlling monster called Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance. Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance II, though with its predecessor destroyed, the numerical amendment was infrequently applied. Jerec eventually ordered the ship's captain to join Admiral Ozzel's Death Squadron, as the Dark Jedi already had a Super Star Destroyer being built to accommodate his unceasingly swelling ego." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-jerec-remained-very-busy-in-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:18`
 
 ## Jedi Counselling/Jedi Counseling 82.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -54,7 +51,6 @@ Our notes: `notes/materials/037-sw-d20-folder/252-jedi-counseling-82.md:12`
 
 - Note (summary from our notes, not a quotation): A: Yes, it would, and this is perfectly acceptable in the rules. In The Empire Strikes Back, Vader uses Force Grip on Admiral Ozzel even though he was only seeing Ozzel through a viewscreen." Source: *Jedi Counseling 82* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 82.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 82* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d252-s1-q-in-the-revised-star-wars.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/252-jedi-counseling-82.md:13`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–240)
@@ -106,13 +102,11 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:533`
 > Raising an arm toward a target in this case ts realy more of a mental focusing esercise—you'll note that Vader had no problems Stranging Ozzel without lifting a finger, There are examples of telekinesis in the films with and without gestunng, strongly suggesting that the ges: lures afe not 4 prerequisite but rather indications af concentration of even personal style- Powers like Force lightning.
 — Source: Star Wars Insider #80 (2005).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Star Wars Insider 080 (2005): "Raising an arm toward a target in this case ts realy more of a mental focusing esercise—you'll note that Vader had no problems Stranging Ozzel without lifting a finger, There are examples of telekinesis in the films with and without gestunng, strongly suggesting that the ges: lures afe not 4 prerequisite but rather indications af concentration of even personal style- Powers like Force lightning." Source: *Star Wars Insider #80* (2005), scan p.40
-![Quote image: *Star Wars Insider #80* (2005), scan p.40 — full quote as printed](quotes/ins080-s40-raising-an-arm-toward-a-target.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:282`
 
 > Raising an arm toward a target in this case is really more of a mental focusing exercise—you'll note that Vader had no problem strangling Ozzel without lifting a finger.
 — Source: Star Wars Insider #80 (2005); Darth Vader (Anakin Skywalker) — entry/section: Telekinesis without gestures.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Telekinesis without gestures: "Raising an arm toward a target in this case is really more of a mental focusing exercise—you'll note that Vader had no problem strangling Ozzel without lifting a finger." Source: *Star Wars Insider #80* (2005), scan p.40
-![Quote image: *Star Wars Insider #80* (2005), scan p.40 — full quote as printed](quotes/ins080-s40-raising-an-arm-toward-a-target-2.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:284`
 
 ## Star Wars Insider #85 (2006)
@@ -124,7 +118,6 @@ Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:78`
 > You gave me the biggest laugh in The Empire Strikes Back. You died brilliantly.
 — Source: Star Wars Insider #85 (2006); Admiral Kendal Ozzel — entry/section: Lucas to Michael Sheard.
 Note (our notes, around the quote): Admiral Kendal Ozzel — entry/section: Lucas to Michael Sheard: ""You gave me the biggest laugh in The Empire Strikes Back. You died brilliantly." —George Lucas, as recalled by Michael Sheard, Star Wars Insider 85, p. 13" Source: *Star Wars Insider #85* (2006), scan p.13
-![Quote image: *Star Wars Insider #85* (2006), scan p.13 — full quote as printed](quotes/ins085-s13-you-gave-me-the-biggest-laugh.jpg)
 Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:80`
 
 ## Star Wars Insider #91 (2007)
@@ -143,7 +136,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:519`
 — Source: Star Wars Insider #95 (2007); Admiral Kendal Ozzel — entry/section: Ozzel teaser.
 (Fragment completed 2026-11-17 with the full excerpt, word for word from Star Wars®: Episode V: The Empire Strikes Back™ (by Ryder Windham, created by George Lucas) (text copy `MEGA_The_Episode_Junior_Novelizations_Star_Wars_Episode_V_The_Empire_Strikes_Back_Junior_Novelization_Ryder_Windham_epub`).)
 Note (our notes, around the quote): Admiral Kendal Ozzel — entry/section: Ozzel teaser: ""Lord Vader, the fleet has moved out of lightspeed, and we're preparing to.... aaagh." —Admiral Ozzel, Star Wars Insider 95, p. 81" Source: *Star Wars Insider #95* (2007), scan p.81
-![Quote image: *Star Wars Insider #95* (2007), scan p.81 — full quote as printed](quotes/ins095-s81-lord-vader-the-fleet-has-moved.jpg)
 Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:826`
 
 ## Star Wars Insider #96 (2007)

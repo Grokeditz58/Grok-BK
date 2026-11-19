@@ -31,7 +31,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 > Briil twins Former associates of Han Solo, they were killed in a fight with an Imperial cruiser on patrol near the Tion Hegemony.
 — Source: scan pages 81–120; Han Solo. POV: Han Solo, about Lord Tion.
 Note (our notes, around the quote): Han Solo: "Briil twins Former associates of Han Solo, they were killed in a fight with an Imperial cruiser on patrol near the Tion Hegemony." Source: The Complete Star Wars Encyclopedia, Vol. I, p.94
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.94 — full quote as printed](quotes/v1-p94-briil-twins-former-associates-of-han.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:230`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -43,7 +42,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > In a scuffle that ensued, Leia killed Lord Tion.
 — Source: scan pages 401–440; Leia Organa Solo. POV: Leia Organa Solo, about Lord Tion.
 Note (our notes, around the quote): Leia Organa Solo: "In a scuffle that ensued, Leia killed Lord Tion." Source: The Complete Star Wars Encyclopedia, Vol. II, p.423
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.423 — full quote as printed](quotes/v2-p423-in-a-scuffle-that-ensued-leia.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:212`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -83,7 +81,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Tion’s forces subjugated Ralltiir with brutal efficiency, securing the world and arresting suspected dissidents in short order.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Lord Tion — entry/section: Tion subjugates Ralltiir.
 Note (our notes, around the quote): Lord Tion — entry/section: Tion subjugates Ralltiir: "Tion’s forces subjugated Ralltiir with brutal efficiency, securing the world and arresting suspected dissidents in short order." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.129
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.129 — full quote as printed](quotes/d665-s129-tion-s-forces-subjugated-ralltiir-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-121-162.md:70`
 
 ## Star Wars Insider #77 (2004)
@@ -91,7 +88,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > I felt almost priestlike when it was on, and that's when I thought, I'm the administrator of this planet, but that role carries extra responsibilities.
 — Source: Star Wars Insider #77 (2004); Tion Medon — entry/section: Administrator of this planet.
 Note (our notes, around the quote): Tion Medon — entry/section: Administrator of this planet: ""I felt almost priestlike when it was on, and that's when I thought, I'm the administrator of this planet, but that role carries extra responsibilities." —Bruce Spence, Tion Medan, Star Wars Insider 77, p. 45" Source: *Star Wars Insider #77* (2004), scan p.45
-![Quote image: *Star Wars Insider #77* (2004), scan p.45 — full quote as printed](quotes/ins077-s45-i-felt-almost-priestlike-when-it.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:291`
 
 ## Star Wars Insider #111 (2009)
@@ -107,7 +103,7 @@ Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:296`
 - Note (summary from our notes, not a quotation): (If Leia has the plans and they defeat her, you might think of this as "capturing" her with a stun blast. The rules don't go into this kind of detail, of course, but the key is that she's carrying incriminating evidence when they defeat her, so Lord Tion's objections are moot.)
   — Source: Jedi Counselling/Jedi Counseling 62.pdf [Star Wars Roleplaying Game Revis.
 (This should make it possible for the Imperials to win without a problem -- eventually, the Rebel player will have to use Leia to pick up the plans to win. (The Imperial character, obviously, will want to defeat all other Rebels as quickly as possible so they can then defeat Leia.)" Source: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3)
-![Quote image: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d230-s3-a-heres-some-official-errata-if.jpg)
+![Quote image: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](../notes/materials/037-sw-d20-folder/quotes/d230-s3-a-heres-some-official-errata-if.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/230-jedi-counseling-62.md:39`
 
 # Debate and forum claims (unverified)

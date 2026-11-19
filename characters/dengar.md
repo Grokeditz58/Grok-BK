@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > The ship was nearly destroyed in an ambush, but was repaired and used by Dengar and Neelah to draw off Kodir of Kuhlvult's forces.
 — Source: scan pages 41–80; Dengar. POV: Dengar.
 Note (our notes, around the quote): Dengar: "The ship was nearly destroyed in an ambush, but was repaired and used by Dengar and Neelah to draw off Kodir of Kuhlvult's forces." Source: The Complete Star Wars Encyclopedia, Vol. II, p.63
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.63 — full quote as printed](quotes/v2-p63-the-ship-was-nearly-destroyed-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:206`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -28,7 +27,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > Sma'Da had little faith in Dengar, but the bounty hunter survived, and Sma'Da was forced to pay a handsome return on Manaroo's bet.
 — Source: scan pages 161–200; Dengar. POV: Dengar.
 Note (our notes, around the quote): Dengar: "Sma'Da had little faith in Dengar, but the bounty hunter survived, and Sma'Da was forced to pay a handsome return on Manaroo's bet." Source: The Complete Star Wars Encyclopedia, Vol. III, p.169
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.169 — full quote as printed](quotes/v3-p169-smada-had-little-faith-in-dengar.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:186`
 
 ## The New Essential Guide to Characters (2002)
@@ -36,25 +34,21 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > A Star Destroyer seized Dengar's ship, and only the indulgence of Lord Vader saved Dengar from execution for treason.
 — Source: scan pages 31–60; Dengar; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Dengar; Darth Vader (Anakin Skywalker): "A Star Destroyer seized Dengar's ship, and only the indulgence of Lord Vader saved Dengar from execution for treason." Source: The New Essential Guide to Characters, p.54
-![Quote image: The New Essential Guide to Characters, p.54 — full quote as printed](quotes/negc-p54-a-star-destroyer-seized-dengars-ship.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:120`
 
 > Jabba, however, foresaw Dengar's betrayal and staked the bounty hunter out in the desert to die.
 — Source: scan pages 31–60; Dengar. POV: Dengar.
 Note (our notes, around the quote): Dengar: "Jabba, however, foresaw Dengar's betrayal and staked the bounty hunter out in the desert to die." Source: The New Essential Guide to Characters, p.54
-![Quote image: The New Essential Guide to Characters, p.54 — full quote as printed](quotes/negc-p54-jabba-however-foresaw-dengars-betrayal-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:122`
 
 > Dengar survived, but Jabba didn't return from his trip to the Great Pit of Carkoon.
 — Source: scan pages 31–60; Dengar. POV: Dengar.
 Note (our notes, around the quote): Dengar: "Dengar survived, but Jabba didn't return from his trip to the Great Pit of Carkoon." Source: The New Essential Guide to Characters, p.54
-![Quote image: The New Essential Guide to Characters, p.54 — full quote as printed](quotes/negc-p54-dengar-survived-but-jabba-didnt-return.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:124`
 
 > Lesser bounty hunters tried to trade off his fame, including the hunter Gunner Groth, who posed as Dengar but was killed by Mara Jade on Rishi.
 — Source: scan pages 31–60; Dengar; Mara Jade Skywalker.
 Note (our notes, around the quote): Dengar; Mara Jade Skywalker: "Lesser bounty hunters tried to trade off his fame, including the hunter Gunner Groth, who posed as Dengar but was killed by Mara Jade on Rishi." Source: The New Essential Guide to Characters, p.54
-![Quote image: The New Essential Guide to Characters, p.54 — full quote as printed](quotes/negc-p54-lesser-bounty-hunters-tried-to-trade.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:126`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -86,7 +80,6 @@ Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:10`
 > Convinced that brute force would seal the deal, Malta hired Bossk, Dengar, and IG-88 to retrieve the object.
 — Source: Characters/Hutts/Malta and Quaffug.pdf [Star Wars Roleplaying Game Revise.
 Note (our notes, around the quote): Bossk; Dengar; IG-88 — entry/section: Malta hires Bossk, Dengar and IG-88: "Convinced that brute force would seal the deal, Malta hired Bossk, Dengar, and IG-88 to retrieve the object." Source: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d088-s1-convinced-that-brute-force-would-seal.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:18`
 
 ## Characters/Miniatures/We Don't Need That Scum.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -100,7 +93,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:24`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Dengar; Han Solo; Jabba the Hutt — entry/section: Dengar's revenge: "Ever since he was involved in a swoop accident with a young Han Solo, Dengar's life has been fueled by a desire for revenge. After the accident, his body was rebuilt by the Empire and he became a cold-hearted assassin only having the feelings of anger and revenge. He eventually left this career and became a bounty hunter often used by Jabba the Hutt." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d115-s2-ever-since-he-was-involved-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:28`
 
 ## Jedi Counselling/Jedi Counseling 82.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -110,7 +102,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:28`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 82 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_82_pdf_c8bbba654c`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 82 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_82_pdf_c8bbba654c`).)
 Note (our notes, around the quote): Dengar; Bossk; IG-88 — entry/section: Two Rodian Black Sun Vigos and Fringe Reserves: "A: You get two separate groups of 20 points of Fringe Reserves. For example, you could get Dengar (15 points) with one and Bossk (17 points) with the other, but you could not combine the points to get IG-88 (37 points)." Source: *Jedi Counseling 82* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 82* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d252-s3-a-you-get-two-separate-groups.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/252-jedi-counseling-82.md:31`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)
@@ -122,7 +113,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > Dengar arrives during the Battle of Hoth and is captured by a Star Destroyer.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Dengar. POV: Dengar.
 Note (our notes, around the quote): Dengar: "Dengar arrives during the Battle of Hoth and is captured by a Star Destroyer." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.145
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.145 — full quote as printed](quotes/d722-s145-dengar-arrives-during-the-battle-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-121-161.md:190`
 
 - Note (summary from our notes, not a quotation): Page contents: Dengar stat block (CL 14). Black Sun: galaxywide criminal organization; Darth Maul eliminated its leadership; Prince Xizor's leadership, vendetta against Vader, death on his skyhook; cross-references. Caption "Two Authority IRD fighters try to run a Black Sun Aeg-77 "Vigo" space transport to ground." (hand-read)
@@ -134,7 +124,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga).
 Note (our notes, around the quote): Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga): "Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.116
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.116 — full quote as printed](quotes/d725-s116-although-the-gand-was-not-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:381`
 
 ## Sourcebooks/The Unknown Regions.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -168,7 +157,6 @@ Our notes: `notes/materials/038-star-wars-insider/049-ins049.md:122`
 > This was Dengar, a fan favorite among bounty hunters because of his unique back-story: nearly killed in a swoop accident, the cyborg blamed Han Solo for his disfigurement and vowed to avenge himself against his old rival.
 — Source: Star Wars Insider #49 (2000); Dengar; Han Solo — entry/section: Dengar profile, printed p. 23.
 Note (our notes, around the quote): Dengar; Han Solo — entry/section: Dengar profile, printed p. 23: "This was Dengar, a fan favorite among bounty hunters because of his unique back-story: nearly killed in a swoop accident, the cyborg blamed Han Solo for his disfigurement and vowed to avenge himself against his old rival." Source: *Star Wars Insider #49* (2000), scan p.23
-![Quote image: *Star Wars Insider #49* (2000), scan p.23 — full quote as printed](quotes/ins049-s23-this-was-dengar-a-fan-favorite.jpg)
 Our notes: `notes/materials/038-star-wars-insider/049-ins049.md:124`
 
 ## Star Wars Insider #52 (2000)

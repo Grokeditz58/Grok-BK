@@ -751,19 +751,17 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:5604`
 > Master Windu appeared to have gotten the drop on Palpatine, but Anakin—panicked that the knowledge to save Padmé would be lost with Palpatine's death—hacked off Mace's arm. Palpatine then charred Master Windu with Force lightning, sending Mace out the window to his death.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Mace Windu; Darth Vader (Anakin Skywalker) — Windu's fall: "Master Windu appeared to have gotten the drop on Palpatine, but Anakin—panicked that the knowledge to save Padmé would be lost with Palpatine's death—hacked off Mace's arm. Palpatine then charred Master Windu with Force lightning, sending Mace out the window to his death." Source: The New Essential Chronology, p.82
-![Quote image: The New Essential Chronology, p.82 — full quote as printed](quotes/nec-p82-windus-fall.jpg)
+![Quote image: The New Essential Chronology, p.82 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p82-windus-fall.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:502`
 
 > Anakin, assuming that Padmé had betrayed him, locked her in a Force choke that left her near death.
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker); Padmé Amidala — Force choke on Padmé.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — Force choke on Padmé: "Anakin, assuming that Padmé had betrayed him, locked her in a Force choke that left her near death." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-force-choke-on-padm.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:522`
 
 > Encased forever in a walking coffin, his every wheezing breath pure agony, Darth Vader was doomed to live with Palpatine's revelation that Padmé had died from her injuries.
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker) — the walking coffin.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — the walking coffin: "Encased forever in a walking coffin, his every wheezing breath pure agony, Darth Vader was doomed to live with Palpatine's revelation that Padmé had died from her injuries." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-the-walking-coffin.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:526`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -771,19 +769,16 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Faced with overwhelming evidence of her mortality, Padmé lowered her emotional guard and professed her love to Anakin.
 — Source: scan pages 41–80; Padmé Amidala; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker): "Faced with overwhelming evidence of her mortality, Padmé lowered her emotional guard and professed her love to Anakin." Source: The Complete Star Wars Encyclopedia, Vol. I, p.28
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.28 — full quote as printed](quotes/v1-p28-faced-with-overwhelming-evidence-of-her.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:22`
 
 > Anakin raised his hand and caught Padmé in a telekinetic chokehold.
 — Source: scan pages 41–80; Darth Vader (Anakin Skywalker); Padmé Amidala.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala: "Anakin raised his hand and caught Padmé in a telekinetic chokehold." Source: The Complete Star Wars Encyclopedia, Vol. I, p.28
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.28 — full quote as printed](quotes/v1-p28-anakin-raised-his-hand-and-caught.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:24`
 
 > Obi-Wan Kenobi, Anakin Skywalker, and Padmé Amidala were found guilty of espionage by Poggle the Lesser and were to be killed by deadly arena beasts.
 — Source: scan pages 321–360; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Padmé Amidala.
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Padmé Amidala: "Obi-Wan Kenobi, Anakin Skywalker, and Padmé Amidala were found guilty of espionage by Poggle the Lesser and were to be killed by deadly arena beasts." Source: The Complete Star Wars Encyclopedia, Vol. I, p.334
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.334 — full quote as printed](quotes/v1-p334-obi-wan-kenobi-anakin-skywalker-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:192`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -791,13 +786,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > At the height of the Clone Wars, Separatist forces tried to capture Ilum and destroy the crystal mines, but they were defeated by Jedi Masters Yoda and Luminara Unduli, along with Barriss Offee and Padmé Amidala.
 — Source: scan pages 81–120; Yoda; Luminara Unduli; Barriss Offee; Padmé Amidala.
 Note (our notes, around the quote): Yoda; Luminara Unduli; Barriss Offee; Padmé Amidala: "At the height of the Clone Wars, Separatist forces tried to capture Ilum and destroy the crystal mines, but they were defeated by Jedi Masters Yoda and Luminara Unduli, along with Barriss Offee and Padmé Amidala." Source: The Complete Star Wars Encyclopedia, Vol. II, p.84
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.84 — full quote as printed](quotes/v2-p84-at-the-height-of-the-clone.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:69`
 
 > Anakin accused Padmé of betraying him, and used the Force to start to strangle her.
 — Source: scan pages 201–240; Darth Vader (Anakin Skywalker); Padmé Amidala.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala: "Anakin accused Padmé of betraying him, and used the Force to start to strangle her." Source: The Complete Star Wars Encyclopedia, Vol. II, p.211
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.211 — full quote as printed](quotes/v2-p211-anakin-accused-padm-of-betraying-him.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:168`
 
 - Note (summary from our notes, not a quotation): Page contents: 1024 words, 21 paragraphs | headings/entries: Nabat; Nabatu; Naberrie, Padmé; Nabon, Fenig; Naboo
@@ -809,43 +802,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Shadda-Bi-Boran The planet where Padmé's relief group was sent after it was discovered that its sun was imploding and the planet dying.
 — Source: scan pages 121–160; Padmé Amidala. POV: Padmé Amidala.
 Note (our notes, around the quote): Padmé Amidala: "Shadda-Bi-Boran The planet where Padmé's relief group was sent after it was discovered that its sun was imploding and the planet dying." Source: The Complete Star Wars Encyclopedia, Vol. III, p.142
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.142 — full quote as printed](quotes/v3-p142-shadda-bi-boran-the-planet-where.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:221`
 
 > Padmé and Obi- Wan followed him to Mustafar, where he and Kenobi engaged in a vicious lightsaber duel.
 — Source: scan pages 161–200; Padmé Amidala; Obi-Wan Kenobi.
 Note (our notes, around the quote): Padmé Amidala; Obi-Wan Kenobi: "Padmé and Obi- Wan followed him to Mustafar, where he and Kenobi engaged in a vicious lightsaber duel." Source: The Complete Star Wars Encyclopedia, Vol. III, p.161
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.161 — full quote as printed](quotes/v3-p161-padm-and-obi-wan-followed-him.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:64`
 
 > Anakin's anger boiled over when he learned of Padmé's death, especially when Palpatine explained that it had been Anakin himself who killed her.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala; Palpatine (Darth Sidious) — entry/section: Skywalker, Anakin: "Anakin's anger boiled over when he learned of Padmé's death, especially when Palpatine explained that it had been Anakin himself who killed her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.161
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.161 — full quote as printed](quotes/v3-p161-anakins-anger-boiled-over-when-he.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:66`
 
 > Inquisitor Malorum, seeking information on Padmé's death, killed Ryoo.
 — Source: scan pages 241–280; Grand Inquisitor Malorum; Padmé Amidala.
 Note (our notes, around the quote): Grand Inquisitor Malorum; Padmé Amidala: "Inquisitor Malorum, seeking information on Padmé's death, killed Ryoo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.242 — full quote as printed](quotes/v3-p242-inquisitor-malorum-seeking-information-on-padm.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:77`
 
 > After Sancor was killed while fighting Kenobi, Tuun remained behind to cover up Sancor's death and further safeguard any information on Padmé's fate.
 — Source: scan pages 241–280; Obi-Wan Kenobi; Padmé Amidala.
 Note (our notes, around the quote): Obi-Wan Kenobi; Padmé Amidala: "After Sancor was killed while fighting Kenobi, Tuun remained behind to cover up Sancor's death and further safeguard any information on Padmé's fate." Source: The Complete Star Wars Encyclopedia, Vol. III, p.269
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.269 — full quote as printed](quotes/v3-p269-after-sancor-was-killed-while-fighting.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:286`
 
 > Typho employed Cordé as a stand-in for Padmé upon their arrival, a move that likely saved the Senator's life when their starship was destroyed by a bomb.
 — Source: scan pages 241–280; Padmé Amidala. POV: Padmé Amidala.
 Note (our notes, around the quote): Padmé Amidala: "Typho employed Cordé as a stand-in for Padmé upon their arrival, a move that likely saved the Senator's life when their starship was destroyed by a bomb." Source: The Complete Star Wars Encyclopedia, Vol. III, p.272
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.272 — full quote as printed](quotes/v3-p272-typho-employed-cord-as-a-stand.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:315`
 
 > He survived an assassination attempt on Bri'ahl when the droids R2-D2 and C-3PO disobeyed Padmé's orders and foiled the would-be killers.
 — Source: scan pages 321–360; Padmé Amidala. POV: Padmé Amidala.
 Note (our notes, around the quote): Padmé Amidala: "He survived an assassination attempt on Bri'ahl when the droids R2-D2 and C-3PO disobeyed Padmé's orders and foiled the would-be killers." Source: The Complete Star Wars Encyclopedia, Vol. III, p.315
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.315 — full quote as printed](quotes/v3-p315-he-survived-an-assassination-attempt-on.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:14`
 
 ## The New Essential Guide to Characters (2002)
@@ -854,7 +840,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > [fragment — full passage not on file]
 — Source: scan pages 61–90; Padmé Amidala. POV: Padmé Amidala.
 Note (our notes, around the quote): Padmé Amidala: "Against all odds, Padmé survived." Source: The New Essential Guide to Characters, p.77
-![Quote image: The New Essential Guide to Characters, p.77 — full quote as printed](quotes/negc-p77-against-all-odds-padm-survived.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:77`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -862,19 +847,16 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > Amidala was elected Princess of Theed at the tender age of twelve. Though Veruna was concerned lest this popular young woman become a threat to his power, he thought he would be able to control her. Even then, however, Amidala was far too bright and headstrong to become anyone's puppet.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Padmé Amidala — entry/section: Amidala's rise.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Amidala's rise: "Amidala was elected Princess of Theed at the tender age of twelve. Though Veruna was concerned lest this popular young woman become a threat to his power, he thought he would be able to control her. Even then, however, Amidala was far too bright and headstrong to become anyone's puppet." Source: *Secrets Of Naboo* (SWRPG d20), scan p.23
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.23 — full quote as printed](quotes/d044-s23-amidala-was-elected-princess-of-theed.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:133`
 
 > The Queen of the Naboo does not hesitate to put herself at risk for her beliefs if the situation demands it. Despite the fact that every one of her handmaidens doubles as a bodyguard, Amidala prefers to rely on her own abilities in a crisis. Thanks to extensive martial instruction from Captain Panaka, Amidala can also perform sneak attacks.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Padmé Amidala — entry/section: Queen Amidala (GM notes).
 Note (our notes, around the quote): Padmé Amidala — entry/section: Queen Amidala (GM notes): "The Queen of the Naboo does not hesitate to put herself at risk for her beliefs if the situation demands it. Despite the fact that every one of her handmaidens doubles as a bodyguard, Amidala prefers to rely on her own abilities in a crisis. Thanks to extensive martial instruction from Captain Panaka, Amidala can also perform sneak attacks." Source: *Secrets Of Naboo* (SWRPG d20), scan p.31
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.31 — full quote as printed](quotes/d044-s31-the-queen-of-the-naboo-does.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:179`
 
 > When danger threatens, Amidala simply changes clothes with one of her handmaidens. While the handmaiden poses as the Queen, Amidala assumes the role of Padmé Naberrie, who supposedly serves as a royal messenger.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Padmé Amidala — entry/section: The Queen's Handmaidens.
 Note (our notes, around the quote): Padmé Amidala — entry/section: The Queen's Handmaidens: "When danger threatens, Amidala simply changes clothes with one of her handmaidens. While the handmaiden poses as the Queen, Amidala assumes the role of Padmé Naberrie, who supposedly serves as a royal messenger." Source: *Secrets Of Naboo* (SWRPG d20), scan p.33
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.33 — full quote as printed](quotes/d044-s33-when-danger-threatens-amidala-simply-changes.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:195`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–98)
@@ -882,13 +864,11 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.
 > The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi-Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Padmé Amidala; Nute Gunray — entry/section: Peril on Naboo: the events of the movie: "The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi-Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender." Source: *Secrets Of Naboo* (SWRPG d20), scan p.62
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.62 — full quote as printed](quotes/d044-s62-the-important-events-in-the-movie.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:17`
 
 > Thanks to Anakin Skywalker, the war is over and Queen Amidala has regained her throne. Obi-Wan Kenobi sadly reports that Qui-Gon Jinn fell fighting the mysterious Sith Lord who attacked the Queen's party in the hangar.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala; Obi-Wan Kenobi; Qui-Gon Jinn; Darth Maul — entry/section: Epilogue: "Thanks to Anakin Skywalker, the war is over and Queen Amidala has regained her throne. Obi-Wan Kenobi sadly reports that Qui-Gon Jinn fell fighting the mysterious Sith Lord who attacked the Queen's party in the hangar." Source: *Secrets Of Naboo* (SWRPG d20), scan p.93
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.93 — full quote as printed](quotes/d044-s93-thanks-to-anakin-skywalker-the-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:182`
 
 ## Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–114)
@@ -896,7 +876,6 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.
 > The Royal Starship of Naboo is a fairly typical example of a royal starship. Commissioned by King Veruna and later used by Queen Amidala, it was meticulously crafted by the Theed Palace Space Engineering Corps.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Padmé Amidala — entry/section: Royal Starship.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Royal Starship: "The Royal Starship of Naboo is a fairly typical example of a royal starship. Commissioned by King Veruna and later used by Queen Amidala, it was meticulously crafted by the Theed Palace Space Engineering Corps." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.85
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.85 — full quote as printed](quotes/d047-s85-the-royal-starship-of-naboo-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:164`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–118)
@@ -922,7 +901,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 > The Separatist movement saw Padme Amidala as a possible threat to fulfilling their ultimate goals. As a result, they hired the shapechanging assassin Zam Wesell to kill the young senator from Naboo. After failing to kill her on a landing bay on Naboo, Zam was given two kouhuns by Jango Fett to assist in a second attempt. Amidala's Jedi protectors, Anakin Skywalker and Obi-Wan Kenobi, foiled this attempt and captured the would-be assassin after a wild chase. But before she could talk, Zam was silenced by a poisoned dart fired by Jango Fett.
 — Source: Characters/Miniatures/Scum and Villainy.pdf [Star Wars Roleplaying Game R.
 Note (our notes, around the quote): Zam Wesell; Padmé Amidala; Jango Fett; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Zam Wesell's attempts on Amidala: "The Separatist movement saw Padme Amidala as a possible threat to fulfilling their ultimate goals. As a result, they hired the shapechanging assassin Zam Wesell to kill the young senator from Naboo. After failing to kill her on a landing bay on Naboo, Zam was given two kouhuns by Jango Fett to assist in a second attempt. Amidala's Jedi protectors, Anakin Skywalker and Obi-Wan Kenobi, foiled this attempt and captured the would-be assassin after a wild chase. But before she could talk, Zam was silenced by a poisoned dart fired by Jango Fett." Source: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d111-s1-the-separatist-movement-saw-padme-amidala.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/111-scum-and-villainy.md:12`
 
 ## Characters/Miniatures/Soldiers of Fortune.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -930,7 +908,6 @@ Our notes: `notes/materials/037-sw-d20-folder/111-scum-and-villainy.md:12`
 > Senator Amidala's head of security was the young Typho who welcomed the assistance of Amidala's Jedi friends to eliminate threats against her life. When it became too dangerous for the senator to remain on Coruscant, she fled with her Jedi protector, Anakin Skywalker. Captain Typho and the disguised handmaiden Dorme remained to make it appear that Amidala was still present.
 — Source: Characters/Miniatures/Soldiers of Fortune.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Captain Typho; Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Captain Typho, Amidala's head of security: "Senator Amidala's head of security was the young Typho who welcomed the assistance of Amidala's Jedi friends to eliminate threats against her life. When it became too dangerous for the senator to remain on Coruscant, she fled with her Jedi protector, Anakin Skywalker. Captain Typho and the disguised handmaiden Dorme remained to make it appear that Amidala was still present." Source: *Soldiers of Fortune* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Soldiers of Fortune* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d112-s1-senator-amidalas-head-of-security-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/112-soldiers-of-fortune.md:12`
 
 ## Characters/Heroes of Revenge of the Sith.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -940,7 +917,6 @@ Our notes: `notes/materials/037-sw-d20-folder/112-soldiers-of-fortune.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from esearch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Heroes of Revenge of the Sith (text copy `esearch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Heroes_of_Revenge_of_the_Sith_pdf_690c3048df`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from esearch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Heroes of Revenge of the Sith (text copy `esearch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Heroes_of_Revenge_of_the_Sith_pdf_690c3048df`).)
 Note (our notes, around the quote): Bail Organa; Yoda; Obi-Wan Kenobi; Leia Organa Solo; Padmé Amidala — entry/section: Bail Organa: "A friend of the Jedi and servant of democracy, Bail Organa had grown increasingly concerned over the Chancellor's ever-increasing executive powers, and he was quick to provide assistance to Yoda and Obi-Wan Kenobi after they were betrayed by their clone troopers. After he and his wife, Breha, adopted Padmé's daughter Leia, Bail Organa would play a pivotal role in the creation of the Rebel Alliance." Source: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d140-s3-a-friend-of-the-jedi-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.md:41`
 
 ## Characters/Villains of Revenge of the Sith.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -951,7 +927,6 @@ Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 (Full sentence/passage taken from the source text on file: `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf`.)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala; Palpatine (Darth Sidious) — entry/section: Anakin Skywalker, Sith Apprentice (part 1 of 2, continues next page): "This one-time slave boy was the Chosen One, destined to bring balance to the Force in a way the Jedi had never foreseen. Palpatine used Anakin's fear of losing Padmé to lure him to the dark side of the Force, and as Darth" Source: *Villains of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Villains of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d152-s1-this-one-time-slave-boy-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/152-villains-of-revenge-of-the-sith.md:14`
 
 ## Jedi Counselling/Jedi Counseling 96.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -965,7 +940,6 @@ Our notes: `notes/materials/037-sw-d20-folder/267-jedi-counseling-96.md:47`
 > After all, Han and Chewbacca certainly had more experience under their belts than Luke and Leia, and Qui-Gon was far more experienced than Amidala, Anakin, or even Obi-Wan.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Chewbacca; Luke Skywalker; Leia Organa Solo; Qui-Gon Jinn; Padmé Amidala; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Han and Chewbacca more experienced: "After all, Han and Chewbacca certainly had more experience under their belts than Luke and Leia, and Qui-Gon was far more experienced than Amidala, Anakin, or even Obi-Wan." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d666-s12-after-all-han-and-chewbacca-certainly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:67`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -973,7 +947,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > Though some details still remain clouded, it is generally acknowledged that some ten years prior to the Battle of Geonosis, the Kaminoans were contracted by Darth Tyrannus (under the guise of Jedi Knight Sifo-Dyas) to create an army of clones for use by the Republic. When Jedi Obi-Wan Kenobi tracked an assassination attempt on Senator Amidala of Naboo to Kamino, the clone army-in-progress was discovered, and since those events and the onset of the Clone Wars, Kamino has played a largely unseen but key role in galactic affairs. Under the stewardship of Prime Minister Lama Su, the Kaminoans issued their first armies of clone troopers based on the genetic template of the bounty hunter Jango Fett.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Count Dooku; Obi-Wan Kenobi; Padmé Amidala; Jango Fett — entry/section: Kamino's clone army: "Though some details still remain clouded, it is generally acknowledged that some ten years prior to the Battle of Geonosis, the Kaminoans were contracted by Darth Tyrannus (under the guise of Jedi Knight Sifo-Dyas) to create an army of clones for use by the Republic. When Jedi Obi-Wan Kenobi tracked an assassination attempt on Senator Amidala of Naboo to Kamino, the clone army-in-progress was discovered, and since those events and the onset of the Clone Wars, Kamino has played a largely unseen but key role in galactic affairs. Under the stewardship of Prime Minister Lama Su, the Kaminoans issued their first armies of clone troopers based on the genetic template of the bounty hunter Jango Fett." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.74
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.74 — full quote as printed](quotes/d667-s74-though-some-details-still-remain-clouded.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:99`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 301–360)
@@ -981,7 +954,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > When the Jedi Council assigns Obi-Wan and Anakin to guard Padmé following an assassination attempt on the senator's life, the young Padawan allows his love for Padmé to overwhelm him—even though his Jedi vows forbid him from getting too close.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Obi-Wan Kenobi; Padmé Amidala — entry/section: Anakin Skywalker (Lord Darth Vader): "When the Jedi Council assigns Obi-Wan and Anakin to guard Padmé following an assassination attempt on the senator's life, the young Padawan allows his love for Padmé to overwhelm him—even though his Jedi vows forbid him from getting too close." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.301
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.301 — full quote as printed](quotes/d671-s301-when-the-jedi-council-assigns-obi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:20`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1007,7 +979,6 @@ Our notes: `notes/materials/037-sw-d20-folder/721-official-faq-and-errata-compil
 > In pursuing the power necessary to preserve Padme'’s life, Anakin becomes death incarnate.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Darth Vader (Saga Edition Core Rulebook, Ch16): "In pursuing the power necessary to preserve Padme'’s life, Anakin becomes death incarnate." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.269
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.269 — full quote as printed](quotes/d723-s269-in-pursuing-the-power-necessary-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:156`
 
 ## Sourcebooks/Star Wars Gamemaster Screen.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -1025,7 +996,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > The Senate is united in its desire to bring the war to a swift ¢nd, but their differing views on how to accomplish this goal split the delegates into two camps: those led by Bail Organa, Mon Mothma, and Padmé Amidala, who seek a mutual peace with the Separatists to avoid any further compromise of liberty, and the militarists who want to see the Confederacy of Independent Systems crushed and brought back into the Republic by force.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Padmé Amidala. POV: Padmé Amidala.
 Note (our notes, around the quote): Padmé Amidala: "The Senate is united in its desire to bring the war to a swift ¢nd, but their differing views on how to accomplish this goal split the delegates into two camps: those led by Bail Organa, Mon Mothma, and Padmé Amidala, who seek a mutual peace with the Separatists to avoid any further compromise of liberty, and the militarists who want to see the Confederacy of Independent Systems crushed and brought back into the Republic by force." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.156
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.156 — full quote as printed](quotes/d728-s156-the-senate-is-united-in-its.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:356`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -1037,7 +1007,6 @@ Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001
 > Had the use of decoys not been put into place, Padmé would have surely died when her Naboo Royal Cruiser was destroyed on a landing pad on Coruscant on the day of the Military Creation Act vote.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Padmé Amidala. POV: Padmé Amidala.
 Note (our notes, around the quote): Padmé Amidala: "Had the use of decoys not been put into place, Padmé would have surely died when her Naboo Royal Cruiser was destroyed on a landing pad on Coruscant on the day of the Military Creation Act vote." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.16
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.16 — full quote as printed](quotes/d731-s16-had-the-use-of-decoys-not.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:103`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1046,7 +1015,6 @@ Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Padmé Amidala — entry/section: Pull quote.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Pull quote: ""We are brave, your highness." —Padme" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.78
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.78 — full quote as printed](quotes/d731-s78-we-are-brave-your-highness-padme.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-061-120.md:111`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)
@@ -1074,7 +1042,6 @@ Our notes: `notes/materials/038-star-wars-insider/046-ins046.md:109`
 > The Phantom Menace brings to mind a whole slew of questions, Perhaps you can help, & Qui-Gon and Obi-Wan were so powerful with the Force, why did they not sense Padmé and Amidals were one and the same?
 — Source: Star Wars Insider #47 (1999); Qui-Gon Jinn; Obi-Wan Kenobi; Padmé Amidala.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi; Padmé Amidala: "The Phantom Menace brings to mind a whole slew of questions, Perhaps you can help, & Qui-Gon and Obi-Wan were so powerful with the Force, why did they not sense Padmé and Amidals were one and the same?" Source: *Star Wars Insider #47* (1999), scan p.8
-![Quote image: *Star Wars Insider #47* (1999), scan p.8 — full quote as printed](quotes/ins047-s8-the-phantom-menace-brings-to-mind.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:47`
 
 - Note (summary from our notes, not a quotation): Page contents: Portman Q&A: Amidala/Padmé same person, accent. Actor commentary. (hand-read)
@@ -1096,7 +1063,6 @@ Our notes: `notes/materials/038-star-wars-insider/054-ins054.md:182`
 > Things are going really well. We're just moving along nicely. I think the film looks fantastic. The relationship between Anakin and Padmé is terrific, and the visual effects are superb.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: Producer Rick McCallum on the state of Episode II (verified on crop): ""Things are going really well. We're just moving along nicely. I think the film looks fantastic. The relationship between Anakin and Padmé is terrific, and the visual effects are superb." —Rick McCallum, Star Wars Insider 56, p. 8" Source: *Star Wars Insider #56* (2001), scan p.5
-![Quote image: *Star Wars Insider #56* (2001), scan p.5 — full quote as printed](quotes/ins056-s5-things-are-going-really-well-were.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:32`
 
 > Padmé Amidala finds herself in one of many of Episode II's harrowing predicaments
@@ -1116,7 +1082,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:122`
 > I really dug the relationships that were forged there that we know so much about later on down the road—what eventually happens to Ben Kenobi and Anakin Skywalker, what eventually happens to Anakin and the Queen—it was great to see the origins of all those.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: Kevin Smith on The Phantom Menace's relationships: ""I really dug the relationships that were forged there that we know so much about later on down the road—what eventually happens to Ben Kenobi and Anakin Skywalker, what eventually happens to Anakin and the Queen—it was great to see the origins of all those." —Kevin Smith, Star Wars Insider 56, p. 11 (Kevin Smith flip section)" Source: *Star Wars Insider #56* (2001), scan p.72
-![Quote image: *Star Wars Insider #56* (2001), scan p.72 — full quote as printed](quotes/ins056-s72-i-really-dug-the-relationships-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:422`
 
 ## Star Wars Insider #57 (2001)
@@ -1172,7 +1137,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:379`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Obi-Wan Kenobi; Padmé Amidala — entry/section: George Lucas on Anakin in Episode II: "In the beginning of Episode II, Anakin Skywalker is clearly a good kid. He is a Padawan learner on his way to becoming a Jedi. Exceptionally talented, he is growing impatient with the fact that he's still an apprentice—making for an interesting relationship with his Master, Obi-Wan Kenobi. In many ways, Anakin is a typical 20-year-old—he wants to be in control of his life, yet he is not quite ready to be on his own. He is charming and charismatic, but he is also headstrong, rebellious, and impetuous. In Episode I, young Anakin had a crush on Queen Amidala. Ten years later, this crush has turned into love, even though romantic love is forbidden for a Jedi. Anakin is torn between his loyalty to the Jedi order and his uncontrollable passion for Padmé. —George Lucas, Star Wars Insider 59, p. 5" Source: *Star Wars Insider #59* (2002), scan p.5
-![Quote image: *Star Wars Insider #59* (2002), scan p.5 — full quote as printed](quotes/ins059-s5-in-the-beginning-of-episode-ii.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:32`
 
 > I think those guys need help... but I absolutely love it!
@@ -1230,7 +1194,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:189`
 > Attack of the Clones is more about the characters, and there's a clearer relationship between Anakin and Padmé. It's tense at the end, and you can feel the tension building as it goes toward the climax. The structure and pace are much better, and it's funnier. Also, it's much more intricate now. You can see where things are going to go in terms of Anakin. You can start to put the pieces together of how he got to be Darth Vader, and that's fun.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: Ewan McGregor on Attack of the Clones and Anakin: ""Attack of the Clones is more about the characters, and there's a clearer relationship between Anakin and Padmé. It's tense at the end, and you can feel the tension building as it goes toward the climax. The structure and pace are much better, and it's funnier. Also, it's much more intricate now. You can see where things are going to go in terms of Anakin. You can start to put the pieces together of how he got to be Darth Vader, and that's fun." —Ewan McGregor, Star Wars Insider 60, p. 29" Source: *Star Wars Insider #60* (2002), scan p.29
-![Quote image: *Star Wars Insider #60* (2002), scan p.29 — full quote as printed](quotes/ins060-s29-attack-of-the-clones-is-more.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:206`
 
 > The Phantom Menace's teen queen is back, now a Senator distracted by attraction in Attack of the Clones
@@ -1242,7 +1205,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:255`
 > Everyone who ever came into Anakin's world had some effect on him that led him to where he ended up—and especially Padmé.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Natalie Portman pull quote on Padmé and Anakin: ""Everyone who ever came into Anakin's world had some effect on him that led him to where he ended up—and especially Padmé." —Natalie Portman, Star Wars Insider 60, p. 36" Source: *Star Wars Insider #60* (2002), scan p.36
-![Quote image: *Star Wars Insider #60* (2002), scan p.36 — full quote as printed](quotes/ins060-s36-everyone-who-ever-came-into-anakins.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:257`
 
 > George told me that the struggle for this one is to make me seem older,
@@ -1251,7 +1213,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:257`
 > He's been working with me on that. He wants to make sure I seem older than Anakin, so it's believable that I can be bossing him around, and he's a little intimidated. She looks at him as a little boy—at least for the first half of the film.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Natalie Portman on making Padmé seem older: ""George told me that the struggle for this one is to make me seem older," Portman said. "He's been working with me on that. He wants to make sure I seem older than Anakin, so it's believable that I can be bossing him around, and he's a little intimidated. She looks at him as a little boy—at least for the first half of the film." —Natalie Portman, Star Wars Insider 60, p. 36" Source: *Star Wars Insider #60* (2002), scan p.36
-![Quote image: *Star Wars Insider #60* (2002), scan p.36 — full quote as printed](quotes/ins060-s36-george-told-me-that-the-struggle.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:259`
 
 > know they shouldn't but just can't help themselves in Star Wars: Episode II Attack of the Clones. *(hand-read)*
@@ -1270,7 +1231,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:269`
 > I don't think George was satisfied with the dialogue he had written, because he told Hayden and me to just improvise—which was amusing, because it got inappropriate very quickly. It was a fun scene to shoot, although we felt pretty stupid biting fruit which didn't exist out of the air.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Natalie Portman on the fruit-flying scene: ""There's a scene where Anakin and I are finishing dinner, and he uses his Jedi powers to make the fruit fly, which scares me a little, but it turns into a flirting tactic," she recalled. "I don't think George was satisfied with the dialogue he had written, because he told Hayden and me to just improvise—which was amusing, because it got inappropriate very quickly. It was a fun scene to shoot, although we felt pretty stupid biting fruit which didn't exist out of the air." —Natalie Portman, Star Wars Insider 60, p. 38" Source: *Star Wars Insider #60* (2002), scan p.38
-![Quote image: *Star Wars Insider #60* (2002), scan p.38 — full quote as printed](quotes/ins060-s38-theres-a-scene-where-anakin-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:271`
 
 > George told me his biggest struggle with Amidala was to make it believable that a 14-year-old would be Queen,
@@ -1279,7 +1239,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:271`
 > No one could doubt she could be Queen, so we worked a lot on voice and posture, all the movement and facial expressions, to make it very stern. Even though it's already more acceptable just because it's part of the Star Wars universe, I think it was a little less questioned because of all the stuff we worked on.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala — entry/section: Natalie Portman on playing a 14-year-old Queen: ""George told me his biggest struggle with Amidala was to make it believable that a 14-year-old would be Queen," she said. "No one could doubt she could be Queen, so we worked a lot on voice and posture, all the movement and facial expressions, to make it very stern. Even though it's already more acceptable just because it's part of the Star Wars universe, I think it was a little less questioned because of all the stuff we worked on." —Natalie Portman, Star Wars Insider 60, p. 39" Source: *Star Wars Insider #60* (2002), scan p.39
-![Quote image: *Star Wars Insider #60* (2002), scan p.39 — full quote as printed](quotes/ins060-s39-george-told-me-his-biggest-struggle.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:278`
 
 > she introduced me as her mother!
@@ -1294,7 +1253,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:283`
 > I think George wrote Amidala as a strong, smart character, but it helped to know that I had this great woman before me who had portrayed her character as a fiery woman.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Leia Organa Solo — entry/section: Natalie Portman on Padmé and Leia: ""It definitely did come into play how strong and smart a character Carrie Fisher portrayed, because I think that a lot of that is passed on from parent to child," Portman said. "I think George wrote Amidala as a strong, smart character, but it helped to know that I had this great woman before me who had portrayed her character as a fiery woman." —Natalie Portman, Star Wars Insider 60, p. 40" Source: *Star Wars Insider #60* (2002), scan p.40
-![Quote image: *Star Wars Insider #60* (2002), scan p.40 — full quote as printed](quotes/ins060-s40-it-definitely-did-come-into-play.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:285`
 
 > Amidala is now a Senator—she's not a Queen anymore,
@@ -1303,7 +1261,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:285`
 > She has resigned because she believes that is the way a rightful government is conducted, that one leader should not be in power too long. At this point, she is still very powerful and respected, and she's putting her career in front of her personal plans. The fact that Amidala doesn't start a relationship with Anakin when she has feelings for him shows that she doesn't really think of her own desires before her role as a leader of people.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Natalie Portman on Amidala as Senator: ""Amidala is now a Senator—she's not a Queen anymore," Portman said. "She has resigned because she believes that is the way a rightful government is conducted, that one leader should not be in power too long. At this point, she is still very powerful and respected, and she's putting her career in front of her personal plans. The fact that Amidala doesn't start a relationship with Anakin when she has feelings for him shows that she doesn't really think of her own desires before her role as a leader of people." —Natalie Portman, Star Wars Insider 60, p. 40" Source: *Star Wars Insider #60* (2002), scan p.40
-![Quote image: *Star Wars Insider #60* (2002), scan p.40 — full quote as printed](quotes/ins060-s40-amidala-is-now-a-senator-shes.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:287`
 
 - Note (summary from our notes, not a quotation): Page contents: Portman feature continued (magazine p. 41): Padmé's idealism and naivete; chemistry with Hayden Christensen; little preparation for the role; Star Wars themes of good and evil; Attack of the Clones as a love story. Full-page photo of Portman having her hair styled. (hand-read)
@@ -1316,7 +1273,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:292`
 > She's a very honest and good person, and because of that, sometimes she's a naive person. She doesn't imagine that other people aren't as good as she is. She's very strong and intelligent, but her weakness is that she doesn't think about what she needs for herself. She is always thinking about her career and role as a leader, as opposed to her role as a woman, a person, a human being.
 — Source: Star Wars Insider #60 (2002); Padmé Amidala — entry/section: Natalie Portman on Padmé's character.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Natalie Portman on Padmé's character: ""She's a very idealistic person," the actress said. "She's a very honest and good person, and because of that, sometimes she's a naive person. She doesn't imagine that other people aren't as good as she is. She's very strong and intelligent, but her weakness is that she doesn't think about what she needs for herself. She is always thinking about her career and role as a leader, as opposed to her role as a woman, a person, a human being." —Natalie Portman, Star Wars Insider 60, p. 41" Source: *Star Wars Insider #60* (2002), scan p.41
-![Quote image: *Star Wars Insider #60* (2002), scan p.41 — full quote as printed](quotes/ins060-s41-shes-a-very-idealistic-person-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:294`
 
 > She's more comfortable in the role of leader,
@@ -1326,7 +1282,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:294`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Natalie Portman on Padmé playing the politician: ""She's more comfortable in the role of leader," she explained, "and she's obviously more comfortable acting the older person, especially at the beginning of the film with Anakin." —Natalie Portman, Star Wars Insider 60, p. 41" Source: *Star Wars Insider #60* (2002), scan p.41
-![Quote image: *Star Wars Insider #60* (2002), scan p.41 — full quote as printed](quotes/ins060-s41-shes-more-comfortable-in-the-role.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:296`
 
 > All Hail the Queen!
@@ -1347,7 +1302,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:311`
 > The children are born, and Anakin goes to the dark side. But that's pretty much all I know.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker); Luke Skywalker; Leia Organa Solo — entry/section: Natalie Portman on Episode III: ""It's very basic—I think it's pretty much what everyone knows about Episode III," she said. "The children are born, and Anakin goes to the dark side. But that's pretty much all I know." —Natalie Portman, Star Wars Insider 60, p. 44" Source: *Star Wars Insider #60* (2002), scan p.44
-![Quote image: *Star Wars Insider #60* (2002), scan p.44 — full quote as printed](quotes/ins060-s44-its-very-basic-i-think-its.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:313`
 
 > I don't think you can say someone else's decisions or actions are caused by a particular person,
@@ -1357,7 +1311,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:313`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Natalie Portman on Padmé's part in Anakin's turn: ""I don't think you can say someone else's decisions or actions are caused by a particular person," she said, "but I think everyone's environment shapes them. So I have a feeling that everyone who ever came into Anakin's world had some effect on him that led him to where he ended up—and especially Padmé, being such a central part of his life, from such a young age, probably influenced him a little bit." —Natalie Portman, Star Wars Insider 60, p. 44" Source: *Star Wars Insider #60* (2002), scan p.44
-![Quote image: *Star Wars Insider #60* (2002), scan p.44 — full quote as printed](quotes/ins060-s44-i-dont-think-you-can-say.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:315`
 
 - Note (summary from our notes, not a quotation): Page contents: Christensen feature continued (magazine p. 50): studying the previous films; the seamless flow from Jake Lloyd to Darth Vader and Sebastian Shaw; Internet research; his written method; the scenes of Shmi's death and Anakin's confession to Padmé. Caption: Portman and Christensen on a platform at the end of a long hallway to be added digitally by ILM. (hand-read)
@@ -1372,7 +1325,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:360`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: Hayden Christensen on Anakin's confession scene: ""childish, dismissive tone. He has the arrogance that a child has. So it was important to me, when he is on his own emotional and mental brink, that he break down and cry, and display his emotion the way a child would. The fact that he breaks down and cries like a baby is important to me, because it will show a larger change and a greater transformation from someone who reacts to a tragic event by crying and asking for help, to someone who would react very differently in the future. That's why I made those choices. I put a lot of effort into that scene." —Hayden Christensen, Star Wars Insider 60, p. 51" Source: *Star Wars Insider #60* (2002), scan p.51
-![Quote image: *Star Wars Insider #60* (2002), scan p.51 — full quote as printed](quotes/ins060-s51-childish-dismissive-tone-he-has-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:362`
 
 > I think it will be even more fun than Episode II—I can't wait,
@@ -1381,7 +1333,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:362`
 > We have so much room to play. Everything is set up—we've got the relationship that's going to evolve between Obi-Wan and myself, and what's going to happen with me and Senator Amidala.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Obi-Wan Kenobi; Padmé Amidala — entry/section: Hayden Christensen on Episode III: "He does have one solid prediction for the final sequel. "I think it will be even more fun than Episode II—I can't wait," he said. "We have so much room to play. Everything is set up—we've got the relationship that's going to evolve between Obi-Wan and myself, and what's going to happen with me and Senator Amidala." —Hayden Christensen, Star Wars Insider 60, p. 53" Source: *Star Wars Insider #60* (2002), scan p.53
-![Quote image: *Star Wars Insider #60* (2002), scan p.53 — full quote as printed](quotes/ins060-s53-he-does-have-one-solid-prediction.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:384`
 
 > The creator of Star Wars talks about Indy 4, Episode III, and his latest adventure, Star Wars: Episode II Attack of the Clones.
@@ -1453,7 +1404,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:784`
 > It is a kind of love theme that has a sense of star-crossed destinies if you like, where the lovers in this case, not unlike Romeo and Juliet, are separated. In this case they are separated by rank: One is a senator, and the other is a soldier. Only perhaps at the end of their lives can they be joined together without any of the obstacles that the world sets forth. It gives a wonderfully compelling and dramatic and satisfying texture, even though in the end it's sad . . . . It can also be liberating . . . the idea of eternal love being something which extends beyond time.
 — Source: Star Wars Insider #61 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: John Williams on the Anakin-Padmé love theme: ""It is a kind of love theme that has a sense of star-crossed destinies if you like, where the lovers in this case, not unlike Romeo and Juliet, are separated. In this case they are separated by rank: One is a senator, and the other is a soldier. Only perhaps at the end of their lives can they be joined together without any of the obstacles that the world sets forth. It gives a wonderfully compelling and dramatic and satisfying texture, even though in the end it's sad . . . . It can also be liberating . . . the idea of eternal love being something which extends beyond time." —John Williams, Star Wars Insider 61, p. 29" Source: *Star Wars Insider #61* (2002), scan p.29
-![Quote image: *Star Wars Insider #61* (2002), scan p.29 — full quote as printed](quotes/ins061-s29-it-is-a-kind-of-love.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:198`
 
 - Note (summary from our notes, not a quotation): Page contents: Abbey Road session report cont.: percussion for bounty hunters Zam Wesell and Jango Fett; takes and retakes; scoring the assassin droid in Padmé's apartment and the chase of Zam to the nightclub; "Across the Pond" sidebar (first two scores recorded at Denham Studios, then Abbey Road); musicians' lunch; Williams on the LSO as "old partners." Orchestra member quoted anonymously only. (hand-read)
@@ -1466,7 +1416,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:215`
 > It was so regal that it made me walk and behave very differently than a twenty-two-year-old Sydney girl. Her entire role really is to support Amidala, and her safety is Dormé's top priority. That helped give me focus.
 — Source: Star Wars Insider #61 (2002); Padmé Amidala — entry/section: Rose Byrne on playing Dormé.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Rose Byrne on playing Dormé: ""What really helped me get into the character of Dormé was definitely her costume," she admits. "It was so regal that it made me walk and behave very differently than a twenty-two-year-old Sydney girl. Her entire role really is to support Amidala, and her safety is Dormé's top priority. That helped give me focus." —Rose Byrne, Star Wars Insider 61, p. 46" Source: *Star Wars Insider #61* (2002), scan p.46
-![Quote image: *Star Wars Insider #61* (2002), scan p.46 — full quote as printed](quotes/ins061-s46-what-really-helped-me-get-into.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:291`
 
 > If you saw Episode I,
@@ -1476,7 +1425,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:291`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #61 (2002).
 Note (our notes, around the quote): Padmé Amidala — entry/section: Veronica Segura on building a handmaiden character: ""If you saw Episode I," she explains, "you can figure out where all these girls come from and what they're doing there." —Veronica Segura, Star Wars Insider 61, p. 50" Source: *Star Wars Insider #61* (2002), scan p.50
-![Quote image: *Star Wars Insider #61* (2002), scan p.50 — full quote as printed](quotes/ins061-s50-if-you-saw-episode-i-she.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:313`
 
 - Note (summary from our notes, not a quotation): Page contents: World Cup campaign ads: Anakin with a field of lightsabers ("Force-Force-Two" plays on the 4-4-2 formation); "Our Goalie Uses the Force" (Mace Windu); captions on Padmé's "aggressive negotiations" and "This party's over!"; USA vs. Portugal match photo. (hand-read)
@@ -1514,7 +1462,6 @@ Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:692`
 > Looking to cut down on the running time of the movie, Lucas removed this scene with Padmé and Threepio, but that left a problem: Threepio would spontaneously generate coverings with no explanation. So, Lucas instead shot bluescreen footage of Anthony Daniels in the silver Threepio costume and digitally replaced the naked Threepio puppet in all the preceding shots.
 — Source: Star Wars Insider #62 (2002).
 Note (our notes, around the quote): Padmé Amidala; C-3PO — entry/section: Q&A: Threepio's coverings fix: "Looking to cut down on the running time of the movie, Lucas removed this scene with Padmé and Threepio, but that left a problem: Threepio would spontaneously generate coverings with no explanation. So, Lucas instead shot bluescreen footage of Anthony Daniels in the silver Threepio costume and digitally replaced the naked Threepio puppet in all the preceding shots." Source: *Star Wars Insider #62* (2002), scan p.96
-![Quote image: *Star Wars Insider #62* (2002), scan p.96 — full quote as printed](quotes/ins062-s96-looking-to-cut-down-on-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:694`
 
 - Note (summary from our notes, not a quotation): Page contents: Q&A cont.: Threepio change late in production; R4-P17's body; Owen as Anakin's stepbrother; Padmé's "shift" button; Jango's head and helmet; Rothana Heavy Engineering's clone army hardware. (hand-read)
@@ -1526,7 +1473,6 @@ Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:709`
 > I will be the most powerful Jedi ever.
 — Source: Star Wars Insider #63 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: Ad film quote (Attack of the Clones): ""I will be the most powerful Jedi ever." —Anakin Skywalker to Padmé Amidala, Star Wars: Attack of the Clones, quoted in Star Wars Insider 63, p. 8" Source: *Star Wars Insider #63* (2002), p.8
-![Quote image: *Star Wars Insider #63* (2002), p.8 — full quote as printed](quotes/ins063-p8-i-will-be-the-most-powerful.jpg)
 Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:53`
 
 - Note (summary from our notes, not a quotation): Page contents: DVD feature cont.: The State of the Art pre-visualization documentary (droid factory sequence), Films Aren't Released, They Escape sound documentary, EPK featurettes, trailers; Deleted Scenes sidebar (Padmé addresses the Senate, Jedi Temple Analysis Room, Obi-Wan and Mace on the landing platform). (hand-read)
@@ -1628,7 +1574,6 @@ Our notes: `notes/materials/038-star-wars-insider/072-ins072.md:237`
 > What happened with the droid factory is we realized—after reviewing the film during the pick-up shooting in London—that there was just too much plot. The [characters] arrived at the planet and were instantly captured. It wasn't exciting. So instead of saying, 'Well, we screwed up,' we decided to do something about it.
 — Source: Star Wars Insider #73 (2004).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala; C-3PO; R2-D2 — entry/section: McCallum on the droid factory: ""What happened with the droid factory is we realized—after reviewing the film during the pick-up shooting in London—that there was just too much plot. The [characters] arrived at the planet and were instantly captured. It wasn't exciting. So instead of saying, 'Well, we screwed up,' we decided to do something about it." —Rick McCallum, Star Wars Insider 73, p. 6" Source: *Star Wars Insider #73* (2004), scan p.6
-![Quote image: *Star Wars Insider #73* (2004), scan p.6 — full quote as printed](quotes/ins073-s6-what-happened-with-the-droid-factory.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:41`
 
 - Note (summary from our notes, not a quotation): Page contents: Hyperspace report: postproduction webcam at Skywalker Ranch; Trisha Biggar chat (8/27/03) on disguising Padmé's pregnancy, Jimmy Smits and Ian McDiarmid's many costumes, and costuming an Expanded Universe character for the film (chat-user names omitted). (hand-read)
@@ -1638,7 +1583,6 @@ Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:119`
 > Basically, the challenges were in certain scenes to disguise the fact that she was pregnant, to enable her to fulfill her duty as a Senator without anyone being aware of the belly.
 — Source: Star Wars Insider #73 (2004); Padmé Amidala — entry/section: Biggar on Padmé's pregnancy costumes.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Biggar on Padmé's pregnancy costumes: ""Basically, the challenges were in certain scenes to disguise the fact that she was pregnant, to enable her to fulfill her duty as a Senator without anyone being aware of the belly." —Trisha Biggar, Star Wars Insider 73, p. 20" Source: *Star Wars Insider #73* (2004), scan p.20
-![Quote image: *Star Wars Insider #73* (2004), scan p.20 — full quote as printed](quotes/ins073-s20-basically-the-challenges-were-in-certain.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:121`
 
 ## Star Wars Insider #74 (2004)
@@ -1667,7 +1611,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:66`
 > George [Lucas] said he wanted a look similar to a traditional native Hopi style. When he came in to see what we had done, he was pleased. 'I've been trying for 26 years to get that look right, and you have it,' he said. That was extremely gratifying.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Padmé Amidala; Leia Organa Solo — entry/section: Reeby on Padmé's "buns" hairpiece: ""It took us 11 days to get the right look for a hairpiece for Senator Amidala that looks similar to the 'buns' style Leia wore in Star Wars," says Reeby. "George [Lucas] said he wanted a look similar to a traditional native Hopi style. When he came in to see what we had done, he was pleased. 'I've been trying for 26 years to get that look right, and you have it,' he said. That was extremely gratifying." —Reeby, Star Wars Insider 75, p. 41" Source: *Star Wars Insider #75* (2004), scan p.41
-![Quote image: *Star Wars Insider #75* (2004), scan p.41 — full quote as printed](quotes/ins075-s41-it-took-us-11-days-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:261`
 
 ## Star Wars Insider #76 (2004)
@@ -1705,7 +1648,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:197`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #76 (2004).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Obi-Wan Kenobi; Padmé Amidala — entry/section: Bridging to Episode IV: "Lee agrees. "Every day you constantly have to keep bringing new and unique ideas. That's the tough part. In one year we created more than 5,000 pieces of concept art for the movie. In all my years of working in this industry, I have never seen this amount of art work for one feature film." Another challenge for the Art Department was providing a visual "bridge" between Episodes III and IV. In McCaig's case, those "bridges" were major characters in the story. "Helping Anakin and Obi-Wan age and transform has been a designer's delight," he says, "but Padmé's final incarnation was one of the most emotional creative challenges I've ever had to face." —Sang Jun Lee and Iain McCaig, Star Wars Insider 76, p. 36" Source: *Star Wars Insider #76* (2004), scan p.36
-![Quote image: *Star Wars Insider #76* (2004), scan p.36 — full quote as printed](quotes/ins076-s36-lee-agrees-every-day-you-constantly.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:199`
 
 - Note (summary from our notes, not a quotation): Page contents: Republic HoloNet News (Core Edition 15:3:29): Senator Ronet Coor of Iseno resigns and Onaconda Farr of Rodia is censured after an SBI report finds the three Venator-class Star Destroyers assigned to Duro were diverted to the Rodia-Ando front; Senators Lexi Dio and Padmé Amidala warn against sweeping changes. (hand-read)
@@ -1738,7 +1680,6 @@ Our notes: `notes/materials/038-star-wars-insider/078-ins078.md:62`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #78 (2004).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala — entry/section: A new Anakin and Padmé scene: ""There's a new scene between Anakin and Padmé, which has to do with their relationship, their love," says McCallum. —Rick McCallum, Star Wars Insider 78, p. 12" Source: *Star Wars Insider #78* (2004), scan p.12
-![Quote image: *Star Wars Insider #78* (2004), scan p.12 — full quote as printed](quotes/ins078-s12-theres-a-new-scene-between-anakin.jpg)
 Our notes: `notes/materials/038-star-wars-insider/078-ins078.md:69`
 
 - Note (summary from our notes, not a quotation): Page contents: Prequel Update continued: Nash Edgerton (Obi-Wan's stunt double) on wires; Padmé photo; the largest new pickup set, a huge staircase for Anakin's visit to the opera on Coruscant; returning crew list. (hand-read)
@@ -1802,7 +1743,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:431`
 > I didn't really think of them as being separate but rather that the two sides of Padmé's life happened simultaneously because she wouldn't have lost her man if she weren't so committed to the Republic. If she had a different concept of government or morality, she might have been able to stay with Anakin if her loyalties to him were above everything else.
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Padmé lost her man to her commitment to the Republic: ""I didn't really think of them as being separate but rather that the two sides of Padmé's life happened simultaneously because she wouldn't have lost her man if she weren't so committed to the Republic. If she had a different concept of government or morality, she might have been able to stay with Anakin if her loyalties to him were above everything else." —Natalie Portman, Star Wars Insider 82, p. 65" Source: *Star Wars Insider #82* (2005), scan p.65
-![Quote image: *Star Wars Insider #82* (2005), scan p.65 — full quote as printed](quotes/ins082-s65-i-didnt-really-think-of-them.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:433`
 
 - Note (summary from our notes, not a quotation): Page contents: Last Set Diary continued: 8:24 a.m. start (2nd AD Sue Wood); Padmé on the Naboo yacht bunk with a single new line to Obi-Wan (extra as Kenobi double; VFX Supervisor Roger Guyett); one HD camera; Portman finished by 10 a.m.; crew watches the full Episode III trailer; Dooku–Anakin rematch pickup (Kyle Rowling as Dooku's double); Mustafar run across crumbling architecture; Gavin Bocquet returns; the last shot; "That's lunch, everyone." (hand-read)
@@ -1850,7 +1790,6 @@ Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:487`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #84 (2005).
 Note (our notes, around the quote): Padmé Amidala — entry/section: Portman on playing Padmé at three ages: ""It's hard to say which movie role is my favorite because I think that each one is the chance to do something new, and doing something new is most exciting for me...But for Star Wars, I got to play the character at three different ages, so it was a little bit different each time." —Natalie Portman, Star Wars Insider 84, p. 11" Source: *Star Wars Insider #84* (2005), scan p.11
-![Quote image: *Star Wars Insider #84* (2005), scan p.11 — full quote as printed](quotes/ins084-s11-its-hard-to-say-which-movie.jpg)
 Our notes: `notes/materials/038-star-wars-insider/084-ins084.md:62`
 
 - Note (summary from our notes, not a quotation): Page contents: HoloNet News: 63 senators arrested (Armand Isard); Bail Organa statement; Queen Apailana remembers Padmé (hand-read)
@@ -1870,7 +1809,6 @@ Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:222`
 > Padmé is so naive and idealistic that she nearly wastes her planet because she thinks if she follows the rules, it will work out. And here she is now at the end of her life making the same mistakes. She's still idealistic. She gives Anakin too much credit. She believes her love can redeem him—even at the end, she believes it. Padmé's fault is she doesn't realize people break the rules.
 — Source: Star Wars Insider #85 (2006); Padmé Amidala — entry/section: Iain McCaig on Padmé.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Iain McCaig on Padmé: ""Padmé is so naive and idealistic that she nearly wastes her planet because she thinks if she follows the rules, it will work out. And here she is now at the end of her life making the same mistakes. She's still idealistic. She gives Anakin too much credit. She believes her love can redeem him—even at the end, she believes it. Padmé's fault is she doesn't realize people break the rules." —Iain McCaig, Star Wars Insider 85, p. 37" Source: *Star Wars Insider #85* (2006), scan p.37
-![Quote image: *Star Wars Insider #85* (2006), scan p.37 — full quote as printed](quotes/ins085-s37-padm-is-so-naive-and-idealistic.jpg)
 Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:224`
 
 What it shows (our notes): Bail Organa (hand-read
@@ -1905,7 +1843,6 @@ Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:413`
 > The fight actually tears apart democracy. It actually rips the pods out of the walls and destroys everything that Padmé and Bail Organa and the people on the side of good have set up.
 — Source: Star Wars Insider #86 (2006).
 Note (our notes, around the quote): Yoda; Palpatine (Darth Sidious); Padmé Amidala; Bail Organa — entry/section: Senate duel tears apart democracy: ""The fight actually tears apart democracy. It actually rips the pods out of the walls and destroys everything that Padmé and Bail Organa and the people on the side of good have set up." —Rob Coleman, Star Wars Insider 86, p. 18" Source: *Star Wars Insider #86* (2006), scan p.18
-![Quote image: *Star Wars Insider #86* (2006), scan p.18 — full quote as printed](quotes/ins086-s18-the-fight-actually-tears-apart-democracy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/086-ins086.md:101`
 
 ## Star Wars Insider #87 (2006)
@@ -1928,7 +1865,6 @@ Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:450`
 > We thought they were going to be like mimes in their movement, very deliberate, slow and somewhat robotic. They were going to operate on the pregnant Padmé, so they must be masters in the galaxy for delivery and surgery.
 — Source: Star Wars Insider #90 (2006); Padmé Amidala — entry/section: Murnane on the Polis Massans.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Murnane on the Polis Massans: ""We thought they were going to be like mimes in their movement, very deliberate, slow and somewhat robotic. They were going to operate on the pregnant Padmé, so they must be masters in the galaxy for delivery and surgery." —Mike Murnane, Star Wars Insider 90, p. 43" Source: *Star Wars Insider #90* (2006), scan p.43
-![Quote image: *Star Wars Insider #90* (2006), scan p.43 — full quote as printed](quotes/ins090-s43-we-thought-they-were-going-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:252`
 
 - Note (summary from our notes, not a quotation): Page contents: StarWarsShop: More Must Haves (Vader hockey jersey, Yoda bobble head, Clone Commander Bly, Padmé lenticular poster) (hand-read)
@@ -1987,7 +1923,6 @@ Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:72`
 > We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?
 — Source: Star Wars Insider #104 (2008).
 Note (our notes, around the quote): Kit Fisto; Luminara Unduli; Plo Koon — entry/section: Filoni on obscure characters: ""We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?" —Dave Filoni, Star Wars Insider 104, p. 7" Source: *Star Wars Insider #104* (2008), scan p.7
-![Quote image: *Star Wars Insider #104* (2008), scan p.7 — full quote as printed](quotes/ins104-s7-were-able-to-tackle-a-whole.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:58`
 
 > This Spread: Villains and heroes, from Dooku and clone troopers to Yoda, Anakin and Ventress. *(hand-read)*
@@ -2354,13 +2289,13 @@ Our notes: `notes/materials/038-star-wars-insider/160-insspecial2014.md:270`
 
 ## Star Wars: Darth Vader and the Lost Command #1–5 (Dark Horse, Jan–May 2011) + TPB (Nov 2011)
 
-- Note (summary from our notes, not a quotation): ![Dream: Padmé as Supreme Chancellor](panels/lc2-p09-padme-chancellor-dream.jpg)
+- Note (summary from our notes, not a quotation): ![Dream: Padmé as Supreme Chancellor](../notes/materials/042-lost-command/panels/lc2-p09-padme-chancellor-dream.jpg)
   — Source: Darth Vader and the Lost Command: daily-image candidates.
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:31`
 
 > I knew that one day, you would destroy us both.
 — Source: Darth Vader and the Lost Command: daily-image candidates; ![Padmé vision.
-Note (our notes, around the quote): ![Padmé vision: "I knew that one day, you would destroy us both."](panels/lc4-p24-padme-vision.jpg)
+Note (our notes, around the quote): ![Padmé vision: "I knew that one day, you would destroy us both."](../notes/materials/042-lost-command/panels/lc4-p24-padme-vision.jpg)
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:79`
 
 > He's strong in the Force. I feel it already.
@@ -2822,7 +2757,7 @@ Our notes: `notes/materials/048-ultimate-visual-guide/uvg-03-civil-war-new-era.m
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Anakin and Padmé on Naboo; Anakin's new facial scar](panels/ob1-p14-naboo-kiss.jpg)
+- Note (summary from our notes, not a quotation): ![Anakin and Padmé on Naboo; Anakin's new facial scar](../notes/materials/049-obsession/panels/ob1-p14-naboo-kiss.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:16`
 

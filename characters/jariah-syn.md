@@ -14,7 +14,6 @@
 > JUST GET ON IT, DROID, BEFORE I REARRANGE YOUR INSIDES WITH MY BLASTER. YOU AIN'T NO TREASURED PART OF MY PAST.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Jariah Syn — entry/section: Pull quote.
 Note (our notes, around the quote): Jariah Syn — entry/section: Pull quote: ""JUST GET ON IT, DROID, BEFORE I REARRANGE YOUR INSIDES WITH MY BLASTER. YOU AIN'T NO TREASURED PART OF MY PAST." —JARIAH SYN" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.78
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.78 — full quote as printed](quotes/d719-s78-just-get-on-it-droid-before.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:154`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -238,12 +237,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:45`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Syn: Hosk Force-pushes him (.
 Note (our notes, around the quote): Syn: Hosk Force-pushes him ("SON OF A MURGLAK!", p48). He shoots at Nihl, who deflects: "DON'T MAKE NO MISTAKE. I MAY HATE JEDI, BUT SITH ARE WORSE!" (p132). Nihl's single blast floors him with Cade (p133). He handles Vong bugs: "A VONG CREWED ON THE CRIMSON AXE WHEN I WAS GROWING UP. HE TAUGHT ME HOW TO HANDLE 'EM." (p386). Jetpack and bombing raid on the Temple with Corde: "I LIVE FOR BOOM!" (p421–424). Coral seeds implanted, healed by Cade (p342–346).
-![p132 Syn fires at Nihl, who deflects](009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
-![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
-![p342 Krayt narrates Maladi's coral seeds](009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
-![p343 Krayt frees Cade with the Force](009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
-![p344 dual healing](009-legacy-book-1-panels/p344-cade-heals-two-at-once.jpg)
-![p345 Maladi and Krayt react](009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
+![p132 Syn fires at Nihl, who deflects](../notes/materials/009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
+![p133 Nihl's Force blast floors Cade and Syn](../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+![p342 Krayt narrates Maladi's coral seeds](../notes/materials/009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
+![p343 Krayt frees Cade with the Force](../notes/materials/009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
+![p344 dual healing](../notes/materials/009-legacy-book-1-panels/p344-cade-heals-two-at-once.jpg)
+![p345 Maladi and Krayt react](../notes/materials/009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1012`
 
 > YOU LEAVE CADE BEHIND AND I SWEAR, SYN, I WILL SPACE YOU WHILE YOU SLEEP! *(p120)*
@@ -254,8 +253,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1012`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Deliah: stuns Hosk (p48). Threatens Syn.
 Note (our notes, around the quote): Deliah: stuns Hosk (p48). Threatens Syn: "YOU LEAVE CADE BEHIND AND I SWEAR, SYN, I WILL SPACE YOU WHILE YOU SLEEP!" (p120). On the *Mynock*'s guns during the rescue (p431; p436 Syn: "BACK WITH THE GUNS"); Chak flies and Syn catches Cade at the hatch (p436; corrected 2026-10-21 from 013 p135). Coral seeds, healed (p346). To Krayt (p341): "DUNNO. COULD HAVE BEEN ONE OF THE IMPERIAL KNIGHTS. I WASN'T THERE. TOO BUSY SHOOTING SITH." (Syn, not Deliah, says "...HE'S GOT DELUSIONS OF ADEQUACY."; corrected from 013 p40)
-![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
-![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+![p135](../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+![p346](../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1013`
 
 - Note (summary from our notes, not a quotation): ANALYSIS: non-Force-users with no scaling value against Force-users, except as the context for Cade's two-at-once healing.
@@ -297,8 +296,8 @@ Our notes: `notes/materials/010-legacy-war.md:901`
 
 - Note (summary from our notes, not a quotation): Jariah Syn CL 9 (p213). Deliah Blue CL 9 (p212). Chak CL 8 (p210).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p210 Cade Skywalker CL 11](011-legacy-era-campaign-guide-panels/p210-cade-skywalker-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p210 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p210-kol-skywalker-s-lightsaber.jpg)
+![p210 Cade Skywalker CL 11](../notes/materials/011-legacy-era-campaign-guide-panels/p210-cade-skywalker-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p210 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p210-kol-skywalker-s-lightsaber.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:956`
 
 ## Star Wars: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels
@@ -308,7 +307,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:956`
 > THE INTERROGATOR DROID WILL LOOSEN YOUR TONGUES. *(Their capture sets up Claws.)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Rav sells them to the Empire using security footage of Cade healing Hosk (p141–142). Jariah: "E CHU TA! I HATE SITH AND THEIR IMPERIAL LAPDOGS EVEN MORE THAN I HATE JEDI." (p142). The officer: "THE INTERROGATOR DROID WILL LOOSEN YOUR TONGUES." (Their capture sets up Claws.)
-![p141 Rav's security footage; the arrest](012-legacy-vol-2-shards-panels/p141-rav-sells-them-security-footage.jpg) *(p141)*
+![p141 Rav's security footage; the arrest](../notes/materials/012-legacy-vol-2-shards-panels/p141-rav-sells-them-security-footage.jpg) *(p141)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:389`
 
 > YOU'RE A CASTOFF -- LIKE ME. KNEW YOU FOR A BROTHER THE MOMENT I SAW YOU *(p165)*
@@ -324,10 +323,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:391`
 > DUNNO. COULD HAVE BEEN ONE OF THE IMPERIAL KNIGHTS. I WASN'T THERE. TOO BUSY SHOOTING SITH.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Coral seeds healed by Cade (p40–45). Syn, not Deliah, says "I WAS THERE. NEVER HAPPENED. IF CADE TELLS YOU IT DID, HE'S GOT DELUSIONS OF ADEQUACY." (p40); Deliah: "DUNNO. COULD HAVE BEEN ONE OF THE IMPERIAL KNIGHTS. I WASN'T THERE. TOO BUSY SHOOTING SITH."
-![p40 Syn and Deliah; the coral seeds triggered](013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
-![p42 Krayt opens the shackle with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p042-krayt-tk-shackle-two-at-once.jpg)
-![p44 Cade heals both at once](013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
-![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+![p40 Syn and Deliah; the coral seeds triggered](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
+![p42 Krayt opens the shackle with the Force](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p042-krayt-tk-shackle-two-at-once.jpg)
+![p44 Cade heals both at once](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
+![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:468`
 
 > A VONG CREWED ON THE CRIMSON AXE WHEN I WAS GROWING UP. HE TAUGHT ME HOW TO HANDLE 'EM.
@@ -341,13 +340,13 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:469`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Rescue roles (p120–136): Chak flies (p120 Syn.
 Note (our notes, around the quote): Rescue roles (p120–136): Chak flies (p120 Syn: "SLOW IT DOWN, YOU STOOPA WOOKIEE!"; p127; p136 "(MY SEAT. MY SHIP.)"), Deliah is on the guns (p130 Syn: "HEY, BLUE -- STOP FOOLING AROUND AND DUST SOME OF THESE EYEBALLS"; p135 "BACK WITH THE GUNS"), and Syn catches Cade at the hatch (p135).
-![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
+![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:470`
 
 > YOU SOLD MY SHIP TO THE WOOKIEE?!
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): The *Mynock* is re-registered to Chak at Corde's insistence (p85; p136 Cade: "YOU SOLD MY SHIP TO THE WOOKIEE?!").
-![p136 Cade: YOU SOLD MY SHIP TO THE WOOKIEE?!](013-legacy-vol-3-claws-of-the-dragon-panels/p136-cade-you-sold-my-ship-to-the-wookiee.jpg) *(p136)*
+![p136 Cade: YOU SOLD MY SHIP TO THE WOOKIEE?!](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p136-cade-you-sold-my-ship-to-the-wookiee.jpg) *(p136)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:471`
 
 ## https://starwars.fandom.com/wiki/Darth_Krayt

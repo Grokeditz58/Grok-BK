@@ -77,7 +77,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1129`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Morlish Veed CL 15, hp 90 (p182). Rulf Yage CL 13, hp 116 (p183). Gunn Yage CL 9, "Cade Skywalker's half-sister" (p182).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p182 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p182-cade-skywalker-s-half-sister.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p182 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p182-cade-skywalker-s-half-sister.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:948`
 
 ## Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels

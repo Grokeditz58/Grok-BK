@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: High Inquisitor Tremayne: "Tremayne once dueled a Jedi named Corwin Shelvay, who defeated Tremayne with a vicious lightsaber cut that took Tremayne's right arm and part of his face." Source: Dark Side Sourcebook, p.101
-![Quote image: Dark Side Sourcebook, p.101 — full quote as printed](quotes/dss-p101-tremayne-once-dueled-a-jedi-named.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:286`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -24,7 +23,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:286`
 > Kyle also took part in a SpecForce mission put together by Rebel operative Corwin Shelvay, in which he teamed up with Force-sensitives Shira Brie and Erling Tredway to render inoperative the superlaser of the second Death Star en route to D'rinba IV.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Lumiya — entry/section: Kyle Katarn, Jedi Knight.
 Note (our notes, around the quote): Kyle Katarn; Lumiya — entry/section: Kyle Katarn, Jedi Knight: "Kyle also took part in a SpecForce mission put together by Rebel operative Corwin Shelvay, in which he teamed up with Force-sensitives Shira Brie and Erling Tredway to render inoperative the superlaser of the second Death Star en route to D'rinba IV." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-kyle-also-took-part-in-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:20`
 
 # Debate and forum claims (unverified)

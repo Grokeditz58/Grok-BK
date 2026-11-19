@@ -18,217 +18,182 @@
 > While the Empire and Republic met on Alderaan to broker peace, Sith Lord DARTH MALGUS spearheaded a surprise assault on the Republic's capital world, Coruscant. The attack was a devastating success.
 — Source: Front matter and introduction; Darth Malgus — Galaxy at War box.
 Note (our notes, around the quote): Darth Malgus — Galaxy at War box: "While the Empire and Republic met on Alderaan to broker peace, Sith Lord DARTH MALGUS spearheaded a surprise assault on the Republic's capital world, Coruscant. The attack was a devastating success." Source: The Old Republic Encyclopedia, p.12
-![Quote image: The Old Republic Encyclopedia, p.12 — full quote as printed](quotes/tore-p12-while-the-empire-and-republic-met.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:63`
 
 > The Republic waged a fierce guerrilla war to hold the planet and finally triumphed when Captain Jace Malcom led the charge of Havoc Squad to ambush Sith Lord Darth Malgus. With the heroic help of the Republic fleet and Jedi Knight Satele Shan, Havoc Squad drove the invading Imperial army off Alderaan.
 — Source: The Galactic Republic; Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box.
 Note (our notes, around the quote): Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box: "The Republic waged a fierce guerrilla war to hold the planet and finally triumphed when Captain Jace Malcom led the charge of Havoc Squad to ambush Sith Lord Darth Malgus. With the heroic help of the Republic fleet and Jedi Knight Satele Shan, Havoc Squad drove the invading Imperial army off Alderaan." Source: The Old Republic Encyclopedia, p.26
-![Quote image: The Old Republic Encyclopedia, p.26 — full quote as printed](quotes/tore-p26-the-republic-waged-a-fierce-guerrilla.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:34`
 
 > Darth Malgus, however, suffered far worse injuries. The traumas he earned at the hands of Malcom and Satele Shan forced Malgus to wear a respirator mask if he hoped to survive.
 — Source: The Galactic Republic; Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box.
 Note (our notes, around the quote): Darth Malgus; Jace Malcom; Satele Shan — Battle of Alderaan box: "Darth Malgus, however, suffered far worse injuries. The traumas he earned at the hands of Malcom and Satele Shan forced Malgus to wear a respirator mask if he hoped to survive." Source: The Old Republic Encyclopedia, p.26
-![Quote image: The Old Republic Encyclopedia, p.26 — full quote as printed](quotes/tore-p26-darth-malgus-however-suffered-far-worse.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:36`
 
 > The Jedi fought valiantly to defend their temple, but Malgus crushed their leader, Master Ven Zallow, and led the Sith to an overwhelming victory.
 — Source: The Galactic Republic; Darth Malgus; Ven Zallow — Sacking of Coruscant box.
 Note (our notes, around the quote): Darth Malgus; Ven Zallow — Sacking of Coruscant box: "The Jedi fought valiantly to defend their temple, but Malgus crushed their leader, Master Ven Zallow, and led the Sith to an overwhelming victory." Source: The Old Republic Encyclopedia, p.27
-![Quote image: The Old Republic Encyclopedia, p.27 — full quote as printed](quotes/tore-p27-the-jedi-fought-valiantly-to-defend.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:40`
 
 > One of the same Sith who led the attack on Korriban, Lord Malgus, spearheaded a massive invasion of Alderaan.
 — Source: The Galactic Republic; Darth Malgus; Satele Shan; Jace Malcom — Jace Malcom profile: Alderaan.
 Note (our notes, around the quote): Darth Malgus; Satele Shan; Jace Malcom — Jace Malcom profile: Alderaan: "One of the same Sith who led the attack on Korriban, Lord Malgus, spearheaded a massive invasion of Alderaan." Source: The Old Republic Encyclopedia, p.44
-![Quote image: The Old Republic Encyclopedia, p.44 — full quote as printed](quotes/tore-p44-one-of-the-same-sith-who.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:133`
 
 > Eventually, Lord Malgus himself was lured into an ambush and defeated with the help of timely Republic reinforcements led by Jedi Satele Shan.
 — Source: The Galactic Republic; Darth Malgus; Satele Shan — Jace Malcom profile: Alderaan.
 Note (our notes, around the quote): Darth Malgus; Satele Shan — Jace Malcom profile: Alderaan: "Eventually, Lord Malgus himself was lured into an ambush and defeated with the help of timely Republic reinforcements led by Jedi Satele Shan." Source: The Old Republic Encyclopedia, p.44
-![Quote image: The Old Republic Encyclopedia, p.44 — full quote as printed](quotes/tore-p44-eventually-lord-malgus-himself-was-lured.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:135`
 
 > Sith Lord Darth Malgus and Jedi Master Ven Zallow's battle on Coruscant was another clash in the unending battle between light and dark.
 — Source: The Jedi Order; Darth Malgus; Ven Zallow — Enemies of the Sith caption.
 Note (our notes, around the quote): Darth Malgus; Ven Zallow — Enemies of the Sith caption: "Sith Lord Darth Malgus and Jedi Master Ven Zallow's battle on Coruscant was another clash in the unending battle between light and dark." Source: The Old Republic Encyclopedia, p.67, sidebar
-![Quote image: The Old Republic Encyclopedia, p.67 — full quote as printed](quotes/tore-p67-sith-lord-darth-malgus-and-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:31`
 
 > Darth Malgus hoped to destroy the High Council when he attacked the Jedi Temple on Coruscant.
 — Source: The Jedi Order; Darth Malgus — When Disaster Strikes caption.
 Note (our notes, around the quote): Darth Malgus — When Disaster Strikes caption: "Darth Malgus hoped to destroy the High Council when he attacked the Jedi Temple on Coruscant." Source: The Old Republic Encyclopedia, p.83, sidebar
-![Quote image: The Old Republic Encyclopedia, p.83 — full quote as printed](quotes/tore-p83-darth-malgus-hoped-to-destroy-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:177`
 
 > MAJOR ACHIEVEMENTS: Personally defeated Darth Malgus on Alderaan, ended the Eberon-Kashyyyk War, rediscovered the Jedi homeworld of Tython
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Satele Shan; Darth Malgus — Satele data box.
 Note (our notes, around the quote): Satele Shan; Darth Malgus — Satele data box: "MAJOR ACHIEVEMENTS: Personally defeated Darth Malgus on Alderaan, ended the Eberon-Kashyyyk War, rediscovered the Jedi homeworld of Tython" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-major-achievements-personally-defeated-darth-mal.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:200`
 
 > FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran
 > [fragment — full passage not on file]
 — Source: The Jedi Order.
 Note (our notes, around the quote): Satele Shan; Darth Malgus; Darth Baras; Hero of Tython (Jedi Knight) — Satele data box: "FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-famous-allies-the-hero-of-tython.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:202`
 
 > In recent history, Grand Master Satele Shan famously wielded her double-bladed lightsaber against Darth Malgus in the Battle of Alderaan.
 — Source: The Jedi Order; Satele Shan; Darth Malgus — Double-Bladed Lightsabers.
 Note (our notes, around the quote): Satele Shan; Darth Malgus — Double-Bladed Lightsabers: "In recent history, Grand Master Satele Shan famously wielded her double-bladed lightsaber against Darth Malgus in the Battle of Alderaan." Source: The Old Republic Encyclopedia, p.103, sidebar
-![Quote image: The Old Republic Encyclopedia, p.103 — full quote as printed](quotes/tore-p103-in-recent-history-grand-master-satele.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:389`
 
 > Under the command of Darth Malgus, the Imperial fleet returns to reclaim the Sith homeworld of Korriban.
 — Source: The Sith Empire; Darth Malgus — caption (top-right).
 Note (our notes, around the quote): Darth Malgus — caption (top-right): "Under the command of Darth Malgus, the Imperial fleet returns to reclaim the Sith homeworld of Korriban." Source: The Old Republic Encyclopedia, p.111, sidebar
-![Quote image: The Old Republic Encyclopedia, p.111 — full quote as printed](quotes/tore-p111-under-the-command-of-darth-malgus.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:41`
 
 > Warriors and commanders such as Darth Malgus, Darth Angral, and Grand Moff Kilran blazed a path of ruin through Republic worlds across the galaxy.
 — Source: The Sith Empire; Darth Malgus; Darth Angral — Vengeful Return.
 Note (our notes, around the quote): Darth Malgus; Darth Angral — Vengeful Return: "Warriors and commanders such as Darth Malgus, Darth Angral, and Grand Moff Kilran blazed a path of ruin through Republic worlds across the galaxy." Source: The Old Republic Encyclopedia, p.111, sidebar
-![Quote image: The Old Republic Encyclopedia, p.111 — full quote as printed](quotes/tore-p111-warriors-and-commanders-such-as-darth.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:45`
 
 > SITH LORD ADRASS leads a bold and violent assault against the Jedi Temple on Coruscant in the final hours of the Great War. Aided by Darth Malgus, Lord Adraas and his fellow Sith crashed a hijacked transport ship through the front gates of the Jedi Temple before spilling forth to wreak their destruction.
 — Source: The Sith; Lord Adraas; Darth Malgus — Sacking art caption.
 Note (our notes, around the quote): Lord Adraas; Darth Malgus — Sacking art caption: "SITH LORD ADRASS leads a bold and violent assault against the Jedi Temple on Coruscant in the final hours of the Great War. Aided by Darth Malgus, Lord Adraas and his fellow Sith crashed a hijacked transport ship through the front gates of the Jedi Temple before spilling forth to wreak their destruction." Source: The Old Republic Encyclopedia, p.159, sidebar
-![Quote image: The Old Republic Encyclopedia, p.159 — full quote as printed](quotes/tore-p159-sith-lord-adrass-leads-a-bold.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:144`
 
 > One of the Sith Order's greatest warriors is Darth Malgus, known for inspiring armies with his bold fury and vengeful passion. Malgus stormed the Republic defences of Korriban at the start of the Great War, shattering the Republic army, and crushing the defiant Jedi to reclaim the Sith homeworld. At the battle's glorious end, Malgus roared a battle cry that his impassioned army echoed, shaking the very cliffs of Korriban.
 — Source: The Sith; Darth Malgus — Champions of Battle (top-right).
 Note (our notes, around the quote): Darth Malgus — Champions of Battle (top-right): "One of the Sith Order's greatest warriors is Darth Malgus, known for inspiring armies with his bold fury and vengeful passion. Malgus stormed the Republic defences of Korriban at the start of the Great War, shattering the Republic army, and crushing the defiant Jedi to reclaim the Sith homeworld. At the battle's glorious end, Malgus roared a battle cry that his impassioned army echoed, shaking the very cliffs of Korriban." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-one-of-the-sith-order-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:260`
 
 > Darth Malgus—warrior, visionary, and statesman—knows he is the Empire's true heir. To fulfill his destiny, he must take the throne for himself.
 — Source: The Sith; Darth Malgus — Top-right tagline: Darth Malgus tagline (top-right).
 Note (our notes, around the quote): Darth Malgus — Top-right tagline: Darth Malgus tagline (top-right): "Darth Malgus—warrior, visionary, and statesman—knows he is the Empire's true heir. To fulfill his destiny, he must take the throne for himself." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-darth-malgus-warrior-visionary-and-statesman.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:279`
 
 > FOR MORE THAN THREE DECADES Darth Malgus has played a crucial role in many major Imperial victories. He has repeatedly taken enemies by surprise and crushed even the strongest resistance with his unorthodox methods and powerful anger. However, the price of his victories has been high. Malgus's disfigured body is held together by machines, fury, and an obsession with revenge.
 — Source: The Sith; Darth Malgus — Darth Malgus intro.
 Note (our notes, around the quote): Darth Malgus — Darth Malgus intro: "FOR MORE THAN THREE DECADES Darth Malgus has played a crucial role in many major Imperial victories. He has repeatedly taken enemies by surprise and crushed even the strongest resistance with his unorthodox methods and powerful anger. However, the price of his victories has been high. Malgus's disfigured body is held together by machines, fury, and an obsession with revenge." Source: The Old Republic Encyclopedia, p.168
-![Quote image: The Old Republic Encyclopedia, p.168 — full quote as printed](quotes/tore-p168-for-more-than-three-decades-darth.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:281`
 
 > The Emperor had demonstrated that he was not the leader the Sith needed to defeat the Jedi. He would have to be replaced.
 — Source: The Sith; Darth Malgus; Vitiate (the Sith Emperor) — Darth Malgus intro.
 Note (our notes, around the quote): Darth Malgus; Vitiate (the Sith Emperor) — Darth Malgus intro: "The Emperor had demonstrated that he was not the leader the Sith needed to defeat the Jedi. He would have to be replaced." Source: The Old Republic Encyclopedia, p.168
-![Quote image: The Old Republic Encyclopedia, p.168 — full quote as printed](quotes/tore-p168-the-emperor-had-demonstrated-that-he.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:283`
 
 > This galaxy has always belonged to the Sith. The Republic's people have forgotten this fact. We must remind them of it.
 — Source: The Sith; Darth Malgus — Pull quote.
 Note (our notes, around the quote): Darth Malgus — Pull quote: ""This galaxy has always belonged to the Sith. The Republic's people have forgotten this fact. We must remind them of it." Darth Malgus" Source: The Old Republic Encyclopedia, p.168
-![Quote image: The Old Republic Encyclopedia, p.168 — full quote as printed](quotes/tore-p168-this-galaxy-has-always-belonged-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:287`
 
 > AGE: 60 HOMEWORLD: Dromund Kaas BIRTH NAME: Veradun APPRENTICES: Unconfirmed rumors indicate Malgus trained at least one apprentice who remains in the Unknown Regions SERVANTS AND ALLIES: Eleena, Shae Vizla, Grand Moff Rycus Kilran, Darth Se[r]evin (last name faint in scan)
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Malgus — Data box.
 Note (our notes, around the quote): Darth Malgus — Data box: "AGE: 60 HOMEWORLD: Dromund Kaas BIRTH NAME: Veradun APPRENTICES: Unconfirmed rumors indicate Malgus trained at least one apprentice who remains in the Unknown Regions SERVANTS AND ALLIES: Eleena, Shae Vizla, Grand Moff Rycus Kilran, Darth Se[r]evin (last name faint in scan)" Source: The Old Republic Encyclopedia, p.168
-![Quote image: The Old Republic Encyclopedia, p.168 — full quote as printed](quotes/tore-p168-age-60-homeworld-dromund-kaas-birth.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:289`
 
 > During the raid on Korriban's Republic-held space station, Darth Malgus battled the heroic young Jedi Satele Shan for the first time. Although Satele escaped without injury, Darth Malgus killed her Jedi Master.
 — Source: The Sith; Darth Malgus; Satele Shan — Leader of the Great War.
 Note (our notes, around the quote): Darth Malgus; Satele Shan — Leader of the Great War: "During the raid on Korriban's Republic-held space station, Darth Malgus battled the heroic young Jedi Satele Shan for the first time. Although Satele escaped without injury, Darth Malgus killed her Jedi Master." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-during-the-raid-on-korriban-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:291`
 
 > Though he had hoped to find Satele Shan among the temple's defenders, Malgus was content to see the Jedi Temple blasted into rubble along with everyone inside.
 — Source: The Sith; Darth Malgus; Satele Shan — Leader of the Great War.
 Note (our notes, around the quote): Darth Malgus; Satele Shan — Leader of the Great War: "Though he had hoped to find Satele Shan among the temple's defenders, Malgus was content to see the Jedi Temple blasted into rubble along with everyone inside." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-though-he-had-hoped-to-find.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:297`
 
 > Eleena was the only person Malgus ever loved, but his relationship with an alien made him an outsider among the Sith. He finally confessed his love to Eleena just before ending her life. There was no longer a place for compassion in him. Malgus departed into the Unknown Regions to rededicate himself to hate.
 — Source: The Sith; Darth Malgus — Disillusionment.
 Note (our notes, around the quote): Darth Malgus — Disillusionment: "Eleena was the only person Malgus ever loved, but his relationship with an alien made him an outsider among the Sith. He finally confessed his love to Eleena just before ending her life. There was no longer a place for compassion in him. Malgus departed into the Unknown Regions to rededicate himself to hate." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-eleena-was-the-only-person-malgus.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:299`
 
 > Malgus returns to the Empire a changed man. His youthful passion has burned away, leaving a cold and calculating mastermind. Though he continues to serve the Empire faithfully, Malgus turns his back on Sith politics and uses his influence to pursue his own agenda: overthrowing the Sith Emperor.
 — Source: The Sith; Darth Malgus — Renewed Hostilities (top-right).
 Note (our notes, around the quote): Darth Malgus — Renewed Hostilities (top-right): "Malgus returns to the Empire a changed man. His youthful passion has burned away, leaving a cold and calculating mastermind. Though he continues to serve the Empire faithfully, Malgus turns his back on Sith politics and uses his influence to pursue his own agenda: overthrowing the Sith Emperor." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-malgus-returns-to-the-empire-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:301`
 
 - Note (summary from our notes, not a quotation): Darth Malgus — Renewed Hostilities (top-right): "They quietly developed superweapon projects like the "Emperor's Shadow" stealth vessel, knowing such devices might one day be useful to seize control of their own government." Source: The Old Republic Encyclopedia, p.169, sidebar
   — Source: The Sith.
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-they-quietly-developed-superweapon-projects-like.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:303`
 
 > Malgus's rule would be predicated on unity and strength through diversity, forming an unbreakable chain to encircle the galaxy.
 — Source: The Sith; Darth Malgus — Taking the Throne.
 Note (our notes, around the quote): Darth Malgus — Taking the Throne: "Malgus's rule would be predicated on unity and strength through diversity, forming an unbreakable chain to encircle the galaxy." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-malgus-s-rule-would-be-predicated.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:307`
 
 > We are warriors of the dark side. We strike with the fury of the Empire.
 — Source: The Sith; Darth Malgus — Pull quote.
 Note (our notes, around the quote): Darth Malgus — Pull quote: ""We are warriors of the dark side. We strike with the fury of the Empire." Darth Malgus" Source: The Old Republic Encyclopedia, p.176
-![Quote image: The Old Republic Encyclopedia, p.176 — full quote as printed](quotes/tore-p176-we-are-warriors-of-the-dark.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:413`
 
 > BATTLE DUTIES: Intimidation, commanding armies, oppressive assaults, breaking enemy defenses, rallying Imperials PRIMARY WEAPONS: A Sith warrior's lightsaber is a deadly tool of aggression, designed to cut down enemies with brutal ease. Additionally, Sith warriors wield the dark side of the Force to decimate all who stand in their way LIGHTSABER FORMS: Shii-Cho, Juyo, Soresu, Shien NOTABLE SITH WARRIORS: Darth Malgus, Darth Marr, Darth Decimus
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Malgus; Darth Marr; Darth Decimus — Profile: Sith Warrior.
 Note (our notes, around the quote): Darth Malgus; Darth Marr; Darth Decimus — Profile: Sith Warrior: "BATTLE DUTIES: Intimidation, commanding armies, oppressive assaults, breaking enemy defenses, rallying Imperials PRIMARY WEAPONS: A Sith warrior's lightsaber is a deadly tool of aggression, designed to cut down enemies with brutal ease. Additionally, Sith warriors wield the dark side of the Force to decimate all who stand in their way LIGHTSABER FORMS: Shii-Cho, Juyo, Soresu, Shien NOTABLE SITH WARRIORS: Darth Malgus, Darth Marr, Darth Decimus" Source: The Old Republic Encyclopedia, p.176
-![Quote image: The Old Republic Encyclopedia, p.176 — full quote as printed](quotes/tore-p176-battle-duties-intimidation-commanding-armies-opp.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:415`
 
 > Unlike the Jedi, who construct their first lightsabers as part of their training, Sith must earn their blades—either through conquest or as a reward for incredible deeds. … Darth Malgus built his lightsaber hilt with two large, razor-sharp blades flanking the emitter to maximize its lethality.
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Malgus — Sith Lightsabers.
 Note (our notes, around the quote): Darth Malgus — Sith Lightsabers: "Unlike the Jedi, who construct their first lightsabers as part of their training, Sith must earn their blades—either through conquest or as a reward for incredible deeds. … Darth Malgus built his lightsaber hilt with two large, razor-sharp blades flanking the emitter to maximize its lethality." Source: The Old Republic Encyclopedia, p.189, sidebar
-![Quote image: The Old Republic Encyclopedia, p.189 — full quote as printed](quotes/tore-p189-unlike-the-jedi-who-construct-their.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:539`
 
 > NOTABLE WIELDERS: Lord Vindican, Master to Darth Malgus; Exar Kun, ancient fallen Jedi
 > [fragment — full passage not on file]
 — Source: The Sith; Exar Kun; Darth Malgus — Double-bladed data box (top-right).
 Note (our notes, around the quote): Exar Kun; Darth Malgus — Double-bladed data box (top-right): "NOTABLE WIELDERS: Lord Vindican, Master to Darth Malgus; Exar Kun, ancient fallen Jedi" Source: The Old Republic Encyclopedia, p.189, sidebar
-![Quote image: The Old Republic Encyclopedia, p.189 — full quote as printed](quotes/tore-p189-notable-wielders-lord-vindican-master-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:541`
 
 > FAMED WIELDER: Darth Malgus, hero of the Great War
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Malgus — Lightsaber data box.
 Note (our notes, around the quote): Darth Malgus — Lightsaber data box: "FAMED WIELDER: Darth Malgus, hero of the Great War" Source: The Old Republic Encyclopedia, p.189, sidebar
-![Quote image: The Old Republic Encyclopedia, p.189 — full quote as printed](quotes/tore-p189-famed-wielder-darth-malgus-hero-of.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:545`
 
 > The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world.
 — Source: Species, technology, planets and the future.
 Note (our notes, around the quote): Darth Malgus; Lord Vindican; Kao Cen Darach; Satele Shan — Return from Exile: "The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world." Source: The Old Republic Encyclopedia, p.291, sidebar
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-the-sith-lord-vindican-and-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:256`
 
 > Alderaan was invaded and nearly conquered by the Empire during the Great War. Sith Lord Darth Malgus led a massive Imperial force that laid waste to some of the planet's greatest cities, and killed thousands of citizens. The invasion was ultimately repelled by heroic Republic and Jedi guerilla fighters, but the Empire remained determined to seize the planet's wealth by any means necessary.
 — Source: Species, technology, planets and the future; Darth Malgus — Target of the Empire box.
 Note (our notes, around the quote): Darth Malgus — Target of the Empire box: "Alderaan was invaded and nearly conquered by the Empire during the Great War. Sith Lord Darth Malgus led a massive Imperial force that laid waste to some of the planet's greatest cities, and killed thousands of citizens. The invasion was ultimately repelled by heroic Republic and Jedi guerilla fighters, but the Empire remained determined to seize the planet's wealth by any means necessary." Source: The Old Republic Encyclopedia, p.320
-![Quote image: The Old Republic Encyclopedia, p.320 — full quote as printed](quotes/tore-p320-alderaan-was-invaded-and-nearly-conquered.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:413`
 
 > The Sith Empire reels from its near destruction at the hands of MALGUS THE BETRAYER, the once revered Imperial war hero. While Malgus's rebellion erupted in failure, the fire of his revolution lives on.
 — Source: Species, technology, planets and the future; Darth Malgus — New Era of the Empire box.
 Note (our notes, around the quote): Darth Malgus — New Era of the Empire box: "The Sith Empire reels from its near destruction at the hands of MALGUS THE BETRAYER, the once revered Imperial war hero. While Malgus's rebellion erupted in failure, the fire of his revolution lives on." Source: The Old Republic Encyclopedia, p.345, sidebar
-![Quote image: The Old Republic Encyclopedia, p.345 — full quote as printed](quotes/tore-p345-the-sith-empire-reels-from-its.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:541`
 
 > DARTH MARR steps forward from his Dark Council seat to guide the Empire's resurgence. Aliens join the Imperial ranks, as Sith recognize the wisdom of Darth Malgus's inclusive ideals.
 — Source: Species, technology, planets and the future; Darth Marr; Darth Malgus — New Era of the Empire box.
 Note (our notes, around the quote): Darth Marr; Darth Malgus — New Era of the Empire box: "DARTH MARR steps forward from his Dark Council seat to guide the Empire's resurgence. Aliens join the Imperial ranks, as Sith recognize the wisdom of Darth Malgus's inclusive ideals." Source: The Old Republic Encyclopedia, p.345, sidebar
-![Quote image: The Old Republic Encyclopedia, p.345 — full quote as printed](quotes/tore-p345-darth-marr-steps-forward-from-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:545`
 
 ## Book of Sith: Secrets from the Dark Side (2012)
@@ -240,92 +205,77 @@ Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:3`
 > When both transports exploded at our backs, I knew the « (4,,,/ 1/4 Republic's gunners had chosen the wrong targets.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "When both transports exploded at our backs, I knew the « (4,,,/ 1/4 Republic's gunners had chosen the wrong targets." Source: Book of Sith, scan p.49
-![Quote image: Book of Sith, scan p.49 — full quote as printed](quotes/bos-s49-when-both-transports-exploded-at-our.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:12`
 
 > Had they fired at the two Sith Lords teed Af leading the way, our assault would have ended there.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "Had they fired at the two Sith Lords teed Af leading the way, our assault would have ended there." Source: Book of Sith, scan p.49
-![Quote image: Book of Sith, scan p.49 — full quote as printed](quotes/bos-s49-had-they-fired-at-the-two.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:14`
 
 > Leading the remaining troops up the mountain trail, a tremor in the Force echoed through me.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "Leading the remaining troops up the mountain trail, a tremor in the Force echoed through me." Source: Book of Sith, scan p.49
-![Quote image: Book of Sith, scan p.49 — full quote as printed](quotes/bos-s49-leading-the-remaining-troops-up-the.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:16`
 
 > I then slowly rolled it twenty paces ahead of our own progress, using focused mental energy channeled through the dark side.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "I then slowly rolled it twenty paces ahead of our own progress, using focused mental energy channeled through the dark side." Source: Book of Sith, scan p.49
-![Quote image: Book of Sith, scan p.49 — full quote as printed](quotes/bos-s49-i-then-slowly-rolled-it-twenty.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:18`
 
 > The tactic choked traffic along the Hydian Way and made our current campaign possible.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "The tactic choked traffic along the Hydian Way and made our current campaign possible." Source: Book of Sith, scan p.51
-![Quote image: Book of Sith, scan p.51 — full quote as printed](quotes/bos-s51-the-tactic-choked-traffic-along-the.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:30`
 
 > For we Sith Lords are elevated above the non-Force users who staff our galactic regime.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "For we Sith Lords are elevated above the non-Force users who staff our galactic regime." Source: Book of Sith, scan p.53
-![Quote image: Book of Sith, scan p.53 — full quote as printed](quotes/bos-s53-for-we-sith-lords-are-elevated.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:42`
 
 > But neither Minister Shareis nor his Grand Moffs can do anything for me if other Sith Lords have already placed claims on his resources.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "But neither Minister Shareis nor his Grand Moffs can do anything for me if other Sith Lords have already placed claims on his resources." Source: Book of Sith, scan p.53
-![Quote image: Book of Sith, scan p.53 — full quote as printed](quotes/bos-s53-but-neither-minister-shareis-nor-his.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:44`
 
 > They have often stood in opposition to our Emperor—but today, we are all Sith.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "They have often stood in opposition to our Emperor—but today, we are all Sith." Source: Book of Sith, scan p.58
-![Quote image: Book of Sith, scan p.58 — full quote as printed](quotes/bos-s58-they-have-often-stood-in-opposition.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:71`
 
 > The Emperor, in his wisdom, spent many decades installing Sith infiltrators in positions of power across the galaxy—long before our armada fired its first shot.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "The Emperor, in his wisdom, spent many decades installing Sith infiltrators in positions of power across the galaxy—long before our armada fired its first shot." Source: Book of Sith, scan p.59
-![Quote image: Book of Sith, scan p.59 — full quote as printed](quotes/bos-s59-the-emperor-in-his-wisdom-spent.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:78`
 
 > The Sith Emperor has ordered us to recapture Ord Radama.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal; Darth Malgus; Vitiate.
 Note (our notes, around the quote): Darth Malgus; Vitiate: "The Sith Emperor has ordered us to recapture Ord Radama." Source: Book of Sith, scan p.61
-![Quote image: Book of Sith, scan p.61 — full quote as printed](quotes/bos-s61-the-sith-emperor-has-ordered-us.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:90`
 
 > There are rumors that some blame me for the death of Lord Venemal and the defeat we suffered there.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "There are rumors that some blame me for the death of Lord Venemal and the defeat we suffered there." Source: Book of Sith, scan p.61
-![Quote image: Book of Sith, scan p.61 — full quote as printed](quotes/bos-s61-there-are-rumors-that-some-blame.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:92`
 
 > This campaign shall restore my honor and prove the fitness of the Sith Empire.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "This campaign shall restore my honor and prove the fitness of the Sith Empire." Source: Book of Sith, scan p.61
-![Quote image: Book of Sith, scan p.61 — full quote as printed](quotes/bos-s61-this-campaign-shall-restore-my-honor.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:94`
 
 > Typical soldiers do not use the dark side, and Sith Inquisitors are too hands-off for my tastes.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "Typical soldiers do not use the dark side, and Sith Inquisitors are too hands-off for my tastes." Source: Book of Sith, scan p.61
-![Quote image: Book of Sith, scan p.61 — full quote as printed](quotes/bos-s61-typical-soldiers-do-not-use-the.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:96`
 
 > A Sith warrior embodies purity. oe be I will lead the assault on Ord Radama's relocated capital As
 > [fragment — full passage not on file]
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "A Sith warrior embodies purity. oe be I will lead the assault on Ord Radama's relocated capital As "~~ city of New Raido." Source: Book of Sith, scan p.62
-![Quote image: Book of Sith, scan p.62 — full quote as printed](quotes/bos-s62-a-sith-warrior-embodies-purity-oe.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:103`
 
 > Now we have lightsaber combat and Force dueling on a grand scale.
 — Source: Secrets from the Dark Side (2012): Darth Malgus: journal. POV: Darth Malgus.
 Note (our notes, around the quote): Darth Malgus: "Now we have lightsaber combat and Force dueling on a grand scale." Source: Book of Sith, scan p.63
-![Quote image: Book of Sith, scan p.63 — full quote as printed](quotes/bos-s63-now-we-have-lightsaber-combat-and.jpg)
 Our notes: `notes/materials/036-book-of-sith/02-darth-malgus.md:110`
 
 ## Star Wars Insider #123 (2011)

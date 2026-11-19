@@ -98,14 +98,12 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:187`
 
 - Note (summary from our notes, not a quotation): Ambassador Furgan — Ambassador Furgan — his plan: "He envisions himself as the man who will forge a new Empire from the ashes of the old, with a grandson or granddaughter of Darth Vader on the throne and himself as foster parent and "helpful" regent." Source: The Jedi Academy Sourcebook, p.53
   — Source: Chapter Five: Forces of the Empire.
-![Quote image: The Jedi Academy Sourcebook, p.53 — full quote as printed](quotes/jas-p53-ambassador-furgan-his-plan.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:22`
 
 > Furgan himself travels to Coruscant to inoculate Mothma with the nano virus by throwing a drink containing the contaminant into her face at a diplomatic function,
 > [fragment — full passage not on file]
 — Source: Chapter Five: Forces of the Empire; Ambassador Furgan — Ambassador Furgan — poisoning Mon Mothma.
 Note (our notes, around the quote): Ambassador Furgan — Ambassador Furgan — poisoning Mon Mothma: "Furgan himself travels to Coruscant to inoculate Mothma with the nano virus by throwing a drink containing the contaminant into her face at a diplomatic function," Source: The Jedi Academy Sourcebook, p.53
-![Quote image: The Jedi Academy Sourcebook, p.53 — full quote as printed](quotes/jas-p53-ambassador-furgan-poisoning-mon-mothma.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:24`
 
 > Chapter Five: Forces of the Empire a eee aa...
@@ -119,25 +117,21 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Ambassador Furgan; Kyp Durron; Sun Crusher — Ambassador Furgan — the destruction of Carida: "In attempting to capture the Sun Crusher, Furgan goads Kyp into launching one of his system-destroying torpedoes into the Caridan sun." Source: The Jedi Academy Sourcebook, p.54
-![Quote image: The Jedi Academy Sourcebook, p.54 — full quote as printed](quotes/jas-p54-ambassador-furgan-the-destruction-of-carida.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:31`
 
 > For a moment, an impasse holds, until young Anakin causes a power droid to distract Furgan long enough for Terpfen to snatch the baby away.
 — Source: Chapter Five: Forces of the Empire; Anakin Solo; Ambassador Furgan; Terpfen — Ambassador Furgan — Anakin's rescue.
 Note (our notes, around the quote): Anakin Solo; Ambassador Furgan; Terpfen — Ambassador Furgan — Anakin's rescue: "For a moment, an impasse holds, until young Anakin causes a power droid to distract Furgan long enough for Terpfen to snatch the baby away." Source: The Jedi Academy Sourcebook, p.54
-![Quote image: The Jedi Academy Sourcebook, p.54 — full quote as printed](quotes/jas-p54-ambassador-furgan-anakins-rescue.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:33`
 
 > Furgan attempts to flee in one of the spider walkers, but is destroyed by Terpfen before he can escape the area.
 — Source: Chapter Five: Forces of the Empire; Ambassador Furgan; Terpfen — Ambassador Furgan — death.
 Note (our notes, around the quote): Ambassador Furgan; Terpfen — Ambassador Furgan — death: "Furgan attempts to flee in one of the spider walkers, but is destroyed by Terpfen before he can escape the area." Source: The Jedi Academy Sourcebook, p.54
-![Quote image: The Jedi Academy Sourcebook, p.54 — full quote as printed](quotes/jas-p54-ambassador-furgan-death.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:35`
 
 > Alas, none of his defenses can save Carida from an exploding sun, as Furgan learns when Kyp destroys the system with the Sun Crusher.
 — Source: Chapter Ten: Planets; Kyp Durron; Sun Crusher; Ambassador Furgan — Carida — destroyed.
 Note (our notes, around the quote): Kyp Durron; Sun Crusher; Ambassador Furgan — Carida — destroyed: "Alas, none of his defenses can save Carida from an exploding sun, as Furgan learns when Kyp destroys the system with the Sun Crusher." Source: The Jedi Academy Sourcebook, p.109
-![Quote image: The Jedi Academy Sourcebook, p.109 — full quote as printed](quotes/jas-p109-carida-destroyed.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:64`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -145,7 +139,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:64`
 > It destroyed half of the assault force sent by Caridan Ambassador Furgan to snatch young Anakin before being overwhelmed, and stalled the rest of the attackers long enough for reinforcements to arrive.
 — Source: scan pages 281–320; Ambassador Furgan; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Ambassador Furgan; Darth Vader (Anakin Skywalker): "It destroyed half of the assault force sent by Caridan Ambassador Furgan to snatch young Anakin before being overwhelmed, and stalled the rest of the attackers long enough for reinforcements to arrive." Source: The Complete Star Wars Encyclopedia, Vol. I, p.288
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.288 — full quote as printed](quotes/v1-p288-it-destroyed-half-of-the-assault.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:180`
 
 - Note (summary from our notes, not a quotation): Page contents: 1199 words, 35 paragraphs | headings/entries: Fuce, Commander; Fud; Fugazi; Fugo; Fuller, Kast; Fulkes; Fulminant; Fulmrick; Fumiyo; Furellas; Furgan, Ambassador; Furious; Furlag; Furloti, Teraeza
@@ -155,7 +148,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > There his troops were faced with formidable challenges, although Furgan at one point was able to get his hands on the baby.
 — Source: scan pages 281–320; Ambassador Furgan — entry/section: Furgan, Ambassador.
 Note (our notes, around the quote): Ambassador Furgan — entry/section: Furgan, Ambassador: "There his troops were faced with formidable challenges, although Furgan at one point was able to get his hands on the baby." Source: The Complete Star Wars Encyclopedia, Vol. I, p.298
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.298 — full quote as printed](quotes/v1-p298-there-his-troops-were-faced-with.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:246`
 
 ## The New Essential Guide to Characters (2002)
@@ -163,7 +155,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Not even a year into her term as Chief of State, Mon Mothma survived a second assassination attempt, this time by Ambassador Furgan of Carida.
 — Source: scan pages 91–120; Ambassador Furgan. POV: Ambassador Furgan.
 Note (our notes, around the quote): Ambassador Furgan: "Not even a year into her term as Chief of State, Mon Mothma survived a second assassination attempt, this time by Ambassador Furgan of Carida." Source: The New Essential Guide to Characters, p.120
-![Quote image: The New Essential Guide to Characters, p.120 — full quote as printed](quotes/negc-p120-not-even-a-year-into-her.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:174`
 
 # Debate and forum claims (unverified)

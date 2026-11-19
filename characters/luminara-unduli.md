@@ -26,19 +26,16 @@ Our notes: `notes/materials/022-dark-lord-trilogy/dark-lord-novel-feats.md:339`
 > At the height of the Clone Wars, Separatist forces tried to capture Ilum and destroy the crystal mines, but they were defeated by Jedi Masters Yoda and Luminara Unduli, along with Barriss Offee and Padmé Amidala.
 — Source: scan pages 81–120; Yoda; Luminara Unduli; Barriss Offee; Padmé Amidala.
 Note (our notes, around the quote): Yoda; Luminara Unduli; Barriss Offee; Padmé Amidala: "At the height of the Clone Wars, Separatist forces tried to capture Ilum and destroy the crystal mines, but they were defeated by Jedi Masters Yoda and Luminara Unduli, along with Barriss Offee and Padmé Amidala." Source: The Complete Star Wars Encyclopedia, Vol. II, p.84
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.84 — full quote as printed](quotes/v2-p84-at-the-height-of-the-clone.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:69`
 
 > Mondo-Mod agreed to turn over the information if Master Unduli vanquished his three strongest gladiators in the Arena of Doom.
 — Source: scan pages 321–360; Luminara Unduli. POV: Luminara Unduli.
 Note (our notes, around the quote): Luminara Unduli: "Mondo-Mod agreed to turn over the information if Master Unduli vanquished his three strongest gladiators in the Arena of Doom." Source: The Complete Star Wars Encyclopedia, Vol. II, p.327
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.327 — full quote as printed](quotes/v2-p327-mondo-mod-agreed-to-turn-over.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:94`
 
 > Clone troopers led by Jedi Luminara Unduli and Barriss Offee were able to defeat the Separatist forces and free the settlers.
 — Source: scan pages 361–400; Luminara Unduli; Barriss Offee.
 Note (our notes, around the quote): Luminara Unduli; Barriss Offee: "Clone troopers led by Jedi Luminara Unduli and Barriss Offee were able to defeat the Separatist forces and free the settlers." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-clone-troopers-led-by-jedi-luminara.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:18`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -50,7 +47,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Official Imperial reports later claimed that Master Unduli was killed for her part in the Jedi conspiracy to overthrow the Republic.
 — Source: scan pages 281–320; Luminara Unduli — entry/section: Unduli, Luminara.
 Note (our notes, around the quote): Luminara Unduli — entry/section: Unduli, Luminara: "Official Imperial reports later claimed that Master Unduli was killed for her part in the Jedi conspiracy to overthrow the Republic." Source: The Complete Star Wars Encyclopedia, Vol. III, p.280
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.280 — full quote as printed](quotes/v3-p280-official-imperial-reports-later-claimed-that.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:45`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -68,7 +64,6 @@ Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview
 > At the start of the Clone Wars, Barriss Offee was apprenticed to Master Luminara Unduli, a fellow Mirialan. The Padawan fought extremely well with her Master, using an uncommon tandem style made possible though the Force. Among other actions, the two defended the Jedi-crystal caverns on Ilum from Separatist chameleon droids (as shown in Chapter Fourteen of the Star Wars: Clone Wars micro series).
 — Source: Characters/Miniatures/Champions of the Force Preview 2.pdf [Star Wars Rol.
 Note (our notes, around the quote): Barriss Offee; Luminara Unduli — entry/section: Barriss and Luminara's tandem style: "At the start of the Clone Wars, Barriss Offee was apprenticed to Master Luminara Unduli, a fellow Mirialan. The Padawan fought extremely well with her Master, using an uncommon tandem style made possible though the Force. Among other actions, the two defended the Jedi-crystal caverns on Ilum from Separatist chameleon droids (as shown in Chapter Fourteen of the Star Wars: Clone Wars micro series)." Source: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d101-s2-at-the-start-of-the-clone.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/101-champions-of-the-force-preview-2.md:23`
 
 ## Characters/Miniatures/Champions of the Force Preview 3.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -134,7 +129,6 @@ Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:193`
 > We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?
 — Source: Star Wars Insider #104 (2008).
 Note (our notes, around the quote): Kit Fisto; Luminara Unduli; Plo Koon — entry/section: Filoni on obscure characters: ""We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?" —Dave Filoni, Star Wars Insider 104, p. 7" Source: *Star Wars Insider #104* (2008), scan p.7
-![Quote image: *Star Wars Insider #104* (2008), scan p.7 — full quote as printed](quotes/ins104-s7-were-able-to-tackle-a-whole.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:58`
 
 ## Star Wars Insider #108 (2009)
@@ -143,7 +137,6 @@ Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:58`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #108 (2009).
 Note (our notes, around the quote): Ahsoka Tano; Asajj Ventress; Luminara Unduli — entry/section: Eckstein on Ahsoka's fighting style: ""I really had no idea about Ahsoka's fighting style or lightsaber techniques. I had no idea how tough she was until I actually saw her fighting Ventress. There was a deleted scene from the movie, when Ahsoka fights a giant rancor. I had no idea what that would look like. Of course, Dave explained it's this giant monster, but I had no idea how big this monster was and how little Ahsoka was, and how agile. I didn't realize how cat-like she was, and how good she was with her body movements. She's like a little gymnast! She can go anywhere and flip anywhere. ... In Cloak of Darkness, Luminara and Ahsoka fight Ventress and I had no idea what she could do with a lightsaber!" —Ashley Eckstein, Star Wars Insider 108, p. 18" Source: *Star Wars Insider #108* (2009), scan p.18
-![Quote image: *Star Wars Insider #108* (2009), scan p.18 — full quote as printed](quotes/ins108-s18-i-really-had-no-idea-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/108-ins108.md:97`
 
 ## Star Wars Insider #111 (2009)

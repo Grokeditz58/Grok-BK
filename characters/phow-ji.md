@@ -14,7 +14,6 @@
 > Danva, Joclad A Jedi Knight skilled in the martial arts, he entered a teras kasi competition just prior to the Clone Wars and was defeated by the fierce Phow Ji.
 — Source: scan pages 161–200; Phow Ji. POV: Phow Ji.
 Note (our notes, around the quote): Phow Ji: "Danva, Joclad A Jedi Knight skilled in the martial arts, he entered a teras kasi competition just prior to the Clone Wars and was defeated by the fierce Phow Ji." Source: The Complete Star Wars Encyclopedia, Vol. I, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.165 — full quote as printed](quotes/v1-p165-danva-joclad-a-jedi-knight-skilled.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:169`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > Just before the Clone Wars, Phow Ji won the tournament in Aslaja, defeating the Jedi Knight Joclad Danva in a 47-minute fight.
 — Source: scan pages 161–200; Phow Ji. POV: Phow Ji.
 Note (our notes, around the quote): Phow Ji: "Just before the Clone Wars, Phow Ji won the tournament in Aslaja, defeating the Jedi Knight Joclad Danva in a 47-minute fight." Source: The Complete Star Wars Encyclopedia, Vol. II, p.162
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.162 — full quote as printed](quotes/v2-p162-just-before-the-clone-wars-phow.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:63`
 
 # Debate and forum claims (unverified)

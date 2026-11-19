@@ -74,7 +74,6 @@ Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:345`
 > I really wasn't worried about it until the funnels of two big fire extinguishers appeared right next to the camera. I thought, what do these guys know that I don't?
 — Source: Star Wars Insider #91 (2007); Jek Tono Porkins — entry/section: Hootkins on the squibs.
 Note (our notes, around the quote): Jek Tono Porkins — entry/section: Hootkins on the squibs: ""I really wasn't worried about it until the funnels of two big fire extinguishers appeared right next to the camera. I thought, what do these guys know that I don't?" —William Hootkins (recalled from Star Wars Insider #32), Star Wars Insider 91, p. 34" Source: *Star Wars Insider #91* (2007), scan p.34
-![Quote image: *Star Wars Insider #91* (2007), scan p.34 — full quote as printed](quotes/ins091-s34-i-really-wasnt-worried-about-it.jpg)
 Our notes: `notes/materials/038-star-wars-insider/091-ins091.md:219`
 
 ## Star Wars Insider #100 (2008)

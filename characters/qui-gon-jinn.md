@@ -419,45 +419,38 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:927`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Qui-Gon Jinn; Count Dooku — Qui-Gon as Dooku's Padawan: "Qui-Gon Jinn—an at-times rebellious pupil with a deep connection to the living Force." Source: The New Essential Chronology, p.31
-![Quote image: The New Essential Chronology, p.31 — full quote as printed](quotes/nec-p31-qui-gon-as-dookus-padawan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:15`
 
 > the Yinchorri possessed cortosis-weave armor that could resist lightsaber cuts. They also had the advice and silent backing of Darth Sidious.
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Mace Windu; Yoda; Plo Koon; Qui-Gon Jinn; Obi-Wan Kenobi — Yinchorri cortosis armor: "the Yinchorri possessed cortosis-weave armor that could resist lightsaber cuts. They also had the advice and silent backing of Darth Sidious." Source: The New Essential Chronology, p.37
-![Quote image: The New Essential Chronology, p.37 — full quote as printed](quotes/nec-p37-yinchorri-cortosis-armor.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:67`
 
 > Viceroy Nute suspected=the boy was immeasurably strong In the Force.
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker); Qui-Gon Jinn — Anakin immeasurably strong.
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Qui-Gon Jinn — Anakin immeasurably strong: "the boy was immeasurably strong in the Force." Source: The New Essential Chronology, p.40
-![Quote image: The New Essential Chronology, p.40 — full quote as printed](quotes/nec-p40-anakin-immeasurably-strong.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:96`
 
 > Maul engaged Qui-Gon in a frenzied lightsaber attack, but failed to prevent the Jedi from bringing both Anakin and Queen Amidala to Coruscant.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn — Maul attacks Qui-Gon on Tatooine: "Maul engaged Qui-Gon in a frenzied lightsaber attack, but failed to prevent the Jedi from bringing both Anakin and Queen Amidala to Coruscant." Source: The New Essential Chronology, p.41
-![Quote image: The New Essential Chronology, p.41 — full quote as printed](quotes/nec-p41-maul-attacks-qui-gon-on-tatooine.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:103`
 
 > Obi-Wan watched in helpless shock as Maul stabbed Qui-Gon through the chest with his double-edged lightsaber.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi — Duel of the Fates: "Obi-Wan watched in helpless shock as Maul stabbed Qui-Gon through the chest with his double-edged lightsaber." Source: The New Essential Chronology, p.41
-![Quote image: The New Essential Chronology, p.41 — full quote as printed](quotes/nec-p41-duel-of-the-fates.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:107`
 
 > Yoda had helped him connect with the Force spirit of his former Master Qui-Gon Jinn, and Obi-Wan entered a second apprenticeship under Qui-Gon's ethereal guidance.
 — Source: Part Three: The Empire and the New Order.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn; Yoda — Obi-Wan's second apprenticeship: "Yoda had helped him connect with the Force spirit of his former Master Qui-Gon Jinn, and Obi-Wan entered a second apprenticeship under Qui-Gon's ethereal guidance." Source: The New Essential Chronology, p.86
-![Quote image: The New Essential Chronology, p.86 — full quote as printed](quotes/nec-p86-obi-wans-second-apprenticeship.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/03-part-three-empire-new-order.md:20`
 
 > Obi-Wan realized he could accomplish more with sacrifice than combat. Remembering the teachings of Qui-Gon Jinn, who had maintained his spirit form after entering the netherworld, Obi-Wan Kenobi let Vader cut him down.
 — Source: Part Five: The Galactic Civil War.
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Qui-Gon Jinn — Obi-Wan's sacrifice: "Obi-Wan realized he could accomplish more with sacrifice than combat. Remembering the teachings of Qui-Gon Jinn, who had maintained his spirit form after entering the netherworld, Obi-Wan Kenobi let Vader cut him down." Source: The New Essential Chronology, p.109
-![Quote image: The New Essential Chronology, p.109 — full quote as printed](quotes/nec-p109-obi-wans-sacrifice.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:38`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -465,19 +458,16 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 > Wanting a more powerful test subject, she kidnapped Jedi Master Qui-Gon Jinn and subjected him to painful study at her secret research facility on Simpla-12.
 — Source: scan pages 41–80; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "Wanting a more powerful test subject, she kidnapped Jedi Master Qui-Gon Jinn and subjected him to painful study at her secret research facility on Simpla-12." Source: The Complete Star Wars Encyclopedia, Vol. I, p.39
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.39 — full quote as printed](quotes/v1-p39-wanting-a-more-powerful-test-subject.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:115`
 
 > Arorua The Jedi Council sent Qui-Gon Jinn and 13-year-old Obi-Wan Kenobi to this isolated jungle planet, home to many exotic and deadly creatures, including the squollyhawlk and the legendary silan.
 — Source: scan pages 41–80; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Arorua The Jedi Council sent Qui-Gon Jinn and 13-year-old Obi-Wan Kenobi to this isolated jungle planet, home to many exotic and deadly creatures, including the squollyhawlk and the legendary silan." Source: The Complete Star Wars Encyclopedia, Vol. I, p.43
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.43 — full quote as printed](quotes/v1-p43-arorua-the-jedi-council-sent-qui.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:147`
 
 > Jedi Master Qui-Gon Jinn and Padawan Obi-Wan Kenobi did what they could to protect the liner, and though they successfully thwarted both the terrorists and the pirates, the ship nonetheless exploded from a core bomb placed by disgruntled crew members.
 — Source: scan pages 41–80; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Jedi Master Qui-Gon Jinn and Padawan Obi-Wan Kenobi did what they could to protect the liner, and though they successfully thwarted both the terrorists and the pirates, the ship nonetheless exploded from a core bomb placed by disgruntled crew members." Source: The Complete Star Wars Encyclopedia, Vol. I, p.48
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.48 — full quote as printed](quotes/v1-p48-jedi-master-qui-gon-jinn-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:178`
 
 > Unfortunately their predators followed them, and were known to attack the workers who got in their way. Bogga the Hutt See Great Bogga the Hutt. bogwlngsFlying pterodactyl-like carnivores native to Dagobah, they glided through the swamps in search of reptiles, rodents, large insects, and other prey. Bolny A Rodian terrorist and part of the Nebula Front, he was one of the few mem­ bers of Captain Cohl's team to survive the infiltration of the Trade Federation freighter Revenue. He later took part in an assassination plot on Eriadu that targeted Chancellor Valorum. When fellow Front member Eru Matalis turned against Cohl's team, Boiny sustained a shot to the side of the head but survived. Boiny then worked with Qui-Gon Jinn to stop Matalis, but was shot and killed. Bok A Kajain'sa'Nikto who, like his father Tsyr, was a Morgukai warrior in the final years of the Galactic Republic. They were hired by con man Vilmarh Grahrk and Ro Fenn to abduct Twi'lek prime heir Nat Secura. With cortosis-based weapons and armaments in their arsenal, Tsyr and Bok were particularly adept at dealing with Jedi adversaries who crossed their paths, such as Quinlan Vos and Aayla Secura, who caught up with the Mor­ gukai warriors on their homeworld of Kintan.
@@ -485,13 +475,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Qui-Gon Jinn: "Boiny then worked with Qui-Gon Jinn to stop Matalis, but was shot and killed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.83
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.83 — full quote as printed](quotes/v1-p83-boiny-then-worked-with-qui-gon.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:143`
 
 > He later turned on the Jedi, leading a Moggonite ambush that Qui-Gon put down easily; Mosko was killed by Jinn.
 — Source: scan pages 81–120; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "He later turned on the Jedi, leading a Moggonite ambush that Qui-Gon put down easily; Mosko was killed by Jinn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.83
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.83 — full quote as printed](quotes/v1-p83-he-later-turned-on-the-jedi.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:149`
 
 > Chun had worked with Yoda to try to control his temper. He was later a suspect in a rash of mys­ teriousthefts occurring in the Jedi Temple. The fallen Jedi apprentice Xanatos used in­ formation from stolen Jedi records to convince Bruck to join his cause, telling him that his fa­ ther, Vox Chun, had become a powerful person on Telos, Xanatos's home planet. Bruck's friend Siri Tachi noticed the change in his behavior. When Xanatos's plot threatened to destroy the Jedi Temple, Qui-Gon Jinn and Obi-Wan sprang into action.Chun held offKenobi as Xanatos es­ caped, but in battle in the Room of a Thousand Fountains, he slipped on a wet rock and fell to his death. In investigating the circumstances of his death, the Jedi discovered a hidden transmit­ ter in the hilt of Chun's lightsaber that allowed Xanatos to spy on the Order. Chun,Kad The brother of Bruck Chun and son of Vox, he accompanied his father to the Jedi Temple to seek justice for the death of Bruck. Vox's hatred of the Jedi colored Kad's views for years.
@@ -499,13 +487,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "When Xanatos's plot threatened to destroy the Jedi Temple, Qui-Gon Jinn and Obi-Wan sprang into action." Source: The Complete Star Wars Encyclopedia, Vol. I, p.126
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.126 — full quote as printed](quotes/v1-p126-when-xanatoss-plot-threatened-to-destroy.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:174`
 
 > Dil, Cilia A political dissident who rebelled against the ruling Guardians on Junction 5, she escaped imprisonment and was helped by Qui-Gon Jinn and Obi-Wan Kenobi in her efforts to steal the plans of the Annihilator superweapon.
 — Source: scan pages 201–240; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Dil, Cilia A political dissident who rebelled against the ruling Guardians on Junction 5, she escaped imprisonment and was helped by Qui-Gon Jinn and Obi-Wan Kenobi in her efforts to steal the plans of the Annihilator superweapon." Source: The Complete Star Wars Encyclopedia, Vol. I, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.189 — full quote as printed](quotes/v1-p189-dil-cilia-a-political-dissident-who.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:35`
 
 > At the time, his best friend was the mischievous Lorian Nod. When Nod tried to blame Dooku for the theft ofa Sith Ho­ locron from the Jedi Archives, a rivalry began. Nod was expelled from the Jedi Temple, and Dooku learned not to believe in friendship. When Dooku became a Jedi Knight, he took young Qui-Gon Jinn as his apprentice. Together they were assigned to protect Sena­ tor Blix Dannon from kidnappers. During this mission, they discovered that Lorian Nod was behind the conspiracy, and the Jedi confronted him. Angered by Nod, Dooku attacked him and nearly killed him, but Qui-Gon prevented his Master from giving in to his dark impulses. Qui-Gon and Dooku never forged a par­ ticularly close relationship, with Dooku serv­ ing more as a detached teacher than a close friend. After Qui-Gon passed the Jedi trials and became a Jedi Knight, he and Dooku drifted apart. Dooku was offered a posi­ tion on the Jedi Council, but de­ clined so he could continue as more of an independent peace­ keeper, operating throughout the galaxy. Dooku eventually took on a second Padawan, Komari Vosa. nearly wiped out; Jango Fett was one of the few survivors.
@@ -513,7 +499,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Count Dooku; Qui-Gon Jinn — entry/section: Dooku, Count: "Angered by Nod, Dooku attacked him and nearly killed him, but Qui-Gon prevented his Master from giving in to his dark impulses." Source: The Complete Star Wars Encyclopedia, Vol. I, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.198 — full quote as printed](quotes/v1-p198-angered-by-nod-dooku-attacked-him.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:100`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -521,7 +506,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > At the time of the Melida/Daan Crisis, renegade Jedi Xanatos attempted to destroy the Jedi Temple and kill Yoda by stealing the crystals and putting them in the Temple's fusion furnace, but Qui-Gon Jinn was able to locate the crystals before disaster could occur.
 — Source: scan pages 1–40; Yoda; Qui-Gon Jinn.
 Note (our notes, around the quote): Yoda; Qui-Gon Jinn: "At the time of the Melida/Daan Crisis, renegade Jedi Xanatos attempted to destroy the Jedi Temple and kill Yoda by stealing the crystals and putting them in the Temple's fusion furnace, but Qui-Gon Jinn was able to locate the crystals before disaster could occur." Source: The Complete Star Wars Encyclopedia, Vol. II, p.29
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.29 — full quote as printed](quotes/v2-p29-at-the-time-of-the-melida.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:236`
 
 - Note (summary from our notes, not a quotation): Page contents: 1136 words, 21 paragraphs | headings/entries: Jinda; Jinder, J'an Ane; Jinet; Jing; Jin-Jin; Jinkins; Jinn, Qui-Gon
@@ -531,61 +515,51 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > Jinn, Qui-Gon A Jedi Master who was known as one of the Order's most formidable members, but his recklessness and his devotion to bizarre causes kept him from becoming a member of the Jedi Council.
 — Source: scan pages 161–200; Qui-Gon Jinn — entry/section: Jinn, Qui-Gon.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Jinn, Qui-Gon: "Jinn, Qui-Gon A Jedi Master who was known as one of the Order's most formidable members, but his recklessness and his devotion to bizarre causes kept him from becoming a member of the Jedi Council." Source: The Complete Star Wars Encyclopedia, Vol. II, p.164
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.164 — full quote as printed](quotes/v2-p164-jinn-qui-gon-a-jedi-master.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:75`
 
 > He claimed that Xanatos had been killed in battle, and vowed never to take another Padawan.
 — Source: scan pages 161–200; Qui-Gon Jinn — entry/section: Jinn, Qui-Gon.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Jinn, Qui-Gon: "He claimed that Xanatos had been killed in battle, and vowed never to take another Padawan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.164
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.164 — full quote as printed](quotes/v2-p164-he-claimed-that-xanatos-had-been.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:77`
 
 > As the duel progressed, Obi-Wan and Qui-Gon became separated.
 — Source: scan pages 201–240; Obi-Wan Kenobi; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn: "As the duel progressed, Obi-Wan and Qui-Gon became separated." Source: The Complete Star Wars Encyclopedia, Vol. II, p.209
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.209 — full quote as printed](quotes/v2-p209-as-the-duel-progressed-obi-wan.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:138`
 
 > For its failure to detect the Sith menace in time, the Jedi suffered the loss of one its greatest Masters, Qui-Gon.
 — Source: scan pages 201–240; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "For its failure to detect the Sith menace in time, the Jedi suffered the loss of one its greatest Masters, Qui-Gon." Source: The Complete Star Wars Encyclopedia, Vol. II, p.216
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.216 — full quote as printed](quotes/v2-p216-for-its-failure-to-detect-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:227`
 
 > Kwannot A remote planet where Aurra Sing killed Jedi Master Mana Veridi and nearly took the lives of Qui-Gon Jinn and Obi-Wan Kenobi before the Battle of Naboo.
 — Source: scan pages 241–280; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Kwannot A remote planet where Aurra Sing killed Jedi Master Mana Veridi and nearly took the lives of Qui-Gon Jinn and Obi-Wan Kenobi before the Battle of Naboo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.237
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.237 — full quote as printed](quotes/v2-p237-kwannot-a-remote-planet-where-aurra.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:34`
 
 > She perished along with her copilot when the ship was destroyed after she delivered Obi-Wan Kenobi and Qui-Gon Jinn to the Trade Federation ship Saakak in orbit around Naboo.
 — Source: scan pages 241–280; Obi-Wan Kenobi; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn: "She perished along with her copilot when the ship was destroyed after she delivered Obi-Wan Kenobi and Qui-Gon Jinn to the Trade Federation ship Saakak in orbit around Naboo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.273
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.273 — full quote as printed](quotes/v2-p273-she-perished-along-with-her-copilot.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:344`
 
 > When the Jedi became separated, Maul killed Qui-Gon with a wellplaced saber strike.
 — Source: scan pages 281–320; Darth Maul; Qui-Gon Jinn — entry/section: Maul, Darth.
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn — entry/section: Maul, Darth: "When the Jedi became separated, Maul killed Qui-Gon with a wellplaced saber strike." Source: The Complete Star Wars Encyclopedia, Vol. II, p.295
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.295 — full quote as printed](quotes/v2-p295-when-the-jedi-became-separated-maul.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:178`
 
 > He and Obi-Wan managed to defeat Mawat's forces when Qui-Gon showed them all a hologram of Cerasi pleading for peace shortly before her death.
 — Source: scan pages 361–400; Obi-Wan Kenobi; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn: "He and Obi-Wan managed to defeat Mawat's forces when Qui-Gon showed them all a hologram of Cerasi pleading for peace shortly before her death." Source: The Complete Star Wars Encyclopedia, Vol. II, p.379
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.379 — full quote as printed](quotes/v2-p379-he-and-obi-wan-managed-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:204`
 
 > His lifeless body was discovered by Qui-Gon Jinn shortly afterward, shot and killed by one of the probe droids that had been outlawed on the planet.
 — Source: scan pages 401–440; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "His lifeless body was discovered by Qui-Gon Jinn shortly afterward, shot and killed by one of the probe droids that had been outlawed on the planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.407
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.407 — full quote as printed](quotes/v2-p407-his-lifeless-body-was-discovered-by.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:94`
 
 > OWO-1I One of the command battle droids sent by Nute Gunray to check to see if Qui-Gon Jinn and Obi-Wan Kenobi had been killed by poison gas aboard the Trade Federation flagship in charge of the blockade of Naboo.
 — Source: scan pages 401–440; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "OWO-1I One of the command battle droids sent by Nute Gunray to check to see if Qui-Gon Jinn and Obi-Wan Kenobi had been killed by poison gas aboard the Trade Federation flagship in charge of the blockade of Naboo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.433
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.433 — full quote as printed](quotes/v2-p433-owo-1i-one-of-the-command.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:286`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -593,37 +567,31 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > When Obi-Wan Kenobi and Bant Eerin were dispatched to confront her, they found her dead, shot and killed by a probe droid that was later traced to Qui-Gon Jinn.
 — Source: scan pages 1–40; Obi-Wan Kenobi; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn: "When Obi-Wan Kenobi and Bant Eerin were dispatched to confront her, they found her dead, shot and killed by a probe droid that was later traced to Qui-Gon Jinn." Source: The Complete Star Wars Encyclopedia, Vol. III, p.29
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.29 — full quote as printed](quotes/v3-p29-when-obi-wan-kenobi-and-bant.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:264`
 
 > Qui-Gon Jinn and 13-year-old Obi-Wan Kenobi slew a silan on the planet Arorua about 12 years before the Battle of Naboo.
 — Source: scan pages 121–160; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Qui-Gon Jinn and 13-year-old Obi-Wan Kenobi slew a silan on the planet Arorua about 12 years before the Battle of Naboo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.151
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.151 — full quote as printed](quotes/v3-p151-qui-gon-jinn-and-13-year.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:324`
 
 > VeerTa hoped that this alliance would free Bandomeer once Xanatos had exacted his revenge against Qui-Gon Jinn, but she ultimately discovered that she was just a pawn in Xanatos's plans to destroy the planet.
 — Source: scan pages 281–320; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "VeerTa hoped that this alliance would free Bandomeer once Xanatos had exacted his revenge against Qui-Gon Jinn, but she ultimately discovered that she was just a pawn in Xanatos's plans to destroy the planet." Source: The Complete Star Wars Encyclopedia, Vol. III, p.299
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.299 — full quote as printed](quotes/v3-p299-veerta-hoped-that-this-alliance-would.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:188`
 
 > Xanatos was born into wealth; his father, Crion, was one of the most powerful men on Telos, Qui-Gon Jinn requested that Xanatos return with him to Coruscant for Jedi instruction.
 — Source: scan pages 321–360; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "Xanatos was born into wealth; his father, Crion, was one of the most powerful men on Telos, Qui-Gon Jinn requested that Xanatos return with him to Coruscant for Jedi instruction." Source: The Complete Star Wars Encyclopedia, Vol. III, p.340
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.340 — full quote as printed](quotes/v3-p340-xanatos-was-born-into-wealth-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:211`
 
 > Ultimately Qui-Gon killed Crion to end the planet's war.
 — Source: scan pages 321–360; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "Ultimately Qui-Gon killed Crion to end the planet's war." Source: The Complete Star Wars Encyclopedia, Vol. III, p.340
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.340 — full quote as printed](quotes/v3-p340-ultimately-qui-gon-killed-crion-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:213`
 
 > While meditating, Yoda had felt a traumatic event befall young Skywalker, At that very moment, he also heard the voice of Qui-Gon Jinn, a Jedi Master slain a decade before.
 — Source: scan pages 361–385; Yoda; Qui-Gon Jinn — entry/section: Yoda, Master.
 Note (our notes, around the quote): Yoda; Qui-Gon Jinn — entry/section: Yoda, Master: "While meditating, Yoda had felt a traumatic event befall young Skywalker, At that very moment, he also heard the voice of Qui-Gon Jinn, a Jedi Master slain a decade before." Source: The Complete Star Wars Encyclopedia, Vol. III, p.356
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.356 — full quote as printed](quotes/v3-p356-while-meditating-yoda-had-felt-a.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:29`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -631,7 +599,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan
 > For example, the Council named Obi-Wan Kenobi a Jedi Knight because Kenobi defeated Darth Maul after he felled Master Qui-Gon Jinn.
 — Source: Chapter Three: Gamemastering a Jedi campaign; Obi-Wan Kenobi; Darth Maul; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Maul; Qui-Gon Jinn: "For example, the Council named Obi-Wan Kenobi a Jedi Knight because Kenobi defeated Darth Maul after he felled Master Qui-Gon Jinn." Source: Power of the Jedi Sourcebook, p.43
-![Quote image: Power of the Jedi Sourcebook, p.43 — full quote as printed](quotes/potj-p43-for-example-the-council-named-obi.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/03-ch3-gamemastering.md:84`
 
 ## The New Essential Guide to Characters (2002)
@@ -639,13 +606,11 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/03-ch3-gamemasterin
 > Qui-Gon Jinn is killed by Darth Maul.
 — Source: scan pages 1–30; Qui-Gon Jinn; Darth Maul.
 Note (our notes, around the quote): Qui-Gon Jinn; Darth Maul: "Qui-Gon Jinn is killed by Darth Maul." Source: The New Essential Guide to Characters, p.13
-![Quote image: The New Essential Guide to Characters, p.13 — full quote as printed](quotes/negc-p13-qui-gon-jinn-is-killed-by.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:37`
 
 > Qui-Gon, a master duelist by anyone's standards, no longer had the stamina of youth.
 — Source: scan pages 91–120; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "Qui-Gon, a master duelist by anyone's standards, no longer had the stamina of youth." Source: The New Essential Guide to Characters, p.98
-![Quote image: The New Essential Guide to Characters, p.98 — full quote as printed](quotes/negc-p98-qui-gon-a-master-duelist-by.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:12`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -659,7 +624,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:153`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi — entry/section: Qui-Gon and Obi-Wan confronted Xanatos a numb: "He then stepped into a pool of black acid, presumed to have killed himself instead of surrendering." Source: Dark Side Sourcebook, p.84
-![Quote image: Dark Side Sourcebook, p.84 — full quote as printed](quotes/dss-p84-he-then-stepped-into-a-pool.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:155`
 
 ## Sourcebooks/Invasion Of Theed.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -667,7 +631,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:155`
 > That, of course, was Darth Maul, who has come to Naboo to aid the Viceroy and deal with Qui-Gon Jinn and Obi-Wan Kenobi. The heroes are no match for Maul, and they are in no position to challenge him right now anyway.
 — Source: Sourcebooks/Invasion Of Theed.pdf [Star Wars Roleplaying Game (d20, 2000); Darth Maul — entry/section: Heroes glimpse Maul at the prison.
 Note (our notes, around the quote): Darth Maul — entry/section: Heroes glimpse Maul at the prison: "That, of course, was Darth Maul, who has come to Naboo to aid the Viceroy and deal with Qui-Gon Jinn and Obi-Wan Kenobi. The heroes are no match for Maul, and they are in no position to challenge him right now anyway." Source: *Invasion Of Theed* (SWRPG d20), scan p.53
-![Quote image: *Invasion Of Theed* (SWRPG d20), scan p.53 — full quote as printed](quotes/d042-s53-that-of-course-was-darth-maul.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/042-invasion-of-theed-scan-001-060.md:280`
 
 ## Sourcebooks/Invasion Of Theed.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -675,7 +638,6 @@ Our notes: `notes/materials/037-sw-d20-folder/042-invasion-of-theed-scan-001-060
 > THE MOST DRAMATIC AND EXCITING scene of The Phantom Menace is undoubtedly the lightsaber duel between the Jedi, Qui-Gon Jinn and Obi-Wan Kenobi, and the Sith Lord, Darth Maul.
 — Source: Sourcebooks/Invasion Of Theed.pdf [Star Wars Roleplaying Game (d20, 2000); Qui-Gon Jinn; Obi-Wan Kenobi; Darth Maul.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi; Darth Maul: "THE MOST DRAMATIC AND EXCITING scene of The Phantom Menace is undoubtedly the lightsaber duel between the Jedi, Qui-Gon Jinn and Obi-Wan Kenobi, and the Sith Lord, Darth Maul." Source: *Invasion Of Theed* (SWRPG d20), scan p.117
-![Quote image: *Invasion Of Theed* (SWRPG d20), scan p.117 — full quote as printed](quotes/d042-s117-the-most-dramatic-and-exciting-scene.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/042-invasion-of-theed-scan-061-120.md:298`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -687,7 +649,6 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.
 > Hyperbole, you say? Perhaps. But there is something in the air here on Coruscant—something unpleasant.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Palpatine (Darth Sidious); Qui-Gon Jinn — entry/section: Valorum's letter to Qui-Gon: "Hyperbole, you say? Perhaps. But there is something in the air here on Coruscant—something unpleasant." Source: *Secrets Of Naboo* (SWRPG d20), scan p.3
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.3 — full quote as printed](quotes/d044-s3-hyperbole-you-say-perhaps-but-there.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:22`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–98)
@@ -695,13 +656,11 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.
 > The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi-Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Padmé Amidala; Nute Gunray — entry/section: Peril on Naboo: the events of the movie: "The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi-Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender." Source: *Secrets Of Naboo* (SWRPG d20), scan p.62
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.62 — full quote as printed](quotes/d044-s62-the-important-events-in-the-movie.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:17`
 
 > Of course, certain things happen during the course of this adventure that could affect future events in the Star Wars universe, The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi- Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker): "Of course, certain things happen during the course of this adventure that could affect future events in the Star Wars universe, The important events in the movie are that Darth Maul kills Qui-Gon Jinn and subsequently dies at the hands of Obi- Wan Kenobi, Anakin Skywalker accidentally pilots a starfighter into space and ultimately destroys the Trade Federation's orbiting Droid Control Ship, and Queen Amidala fights her way into the Royal Palace and forces Trade Federation Viceroy Nute Gunray to surrender." Source: *Secrets Of Naboo* (SWRPG d20), scan p.62
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.62 — full quote as printed](quotes/d044-s62-of-course-certain-things-happen-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:19`
 
 - Note (summary from our notes, not a quotation): Page contents: Peril on Naboo cameo notes: Sabé 'strong and sure of herself'; Anakin eager about Podracing; Qui-Gon 'very concerned about the young boy' (hand-read)
@@ -712,13 +671,11 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn — entry/section: The Figure in Black: "Specifically, they remember the Jedi Master describing this individual as "a skilled warrior, trained in the darker uses of the Force—very possibly a Sith Lord, and very definitely lethal." If the heroes wish to pursue Darth Maul, you should find some way to prevent them from catching up with him. Even the whole group together probably couldn't survive a fight with the Sith Lord, and this adventure is not about pitting the heroes against unreasonable odds." Source: *Secrets Of Naboo* (SWRPG d20), scan p.86
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.86 — full quote as printed](quotes/d044-s86-specifically-they-remember-the-jedi-master-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:145`
 
 > Thanks to Anakin Skywalker, the war is over and Queen Amidala has regained her throne. Obi-Wan Kenobi sadly reports that Qui-Gon Jinn fell fighting the mysterious Sith Lord who attacked the Queen's party in the hangar.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Padmé Amidala; Obi-Wan Kenobi; Qui-Gon Jinn; Darth Maul — entry/section: Epilogue: "Thanks to Anakin Skywalker, the war is over and Queen Amidala has regained her throne. Obi-Wan Kenobi sadly reports that Qui-Gon Jinn fell fighting the mysterious Sith Lord who attacked the Queen's party in the hangar." Source: *Secrets Of Naboo* (SWRPG d20), scan p.93
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.93 — full quote as printed](quotes/d044-s93-thanks-to-anakin-skywalker-the-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-061-098.md:182`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 181–240)
@@ -730,43 +687,36 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > By the time of the blockade of the planet Naboo, Obi-Wan has learned nearly everything that his Master can teach him, though he is perhaps less aware of the living Force than Qui-Gon would prefer, lacking the kind of intuition and compassion that make the older Jedi a Master.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep.
 Note (our notes, around the quote): Obi-Wan Kenobi — entry/section: Key Characters: Obi-Wan Kenobi (Rise of the Empire): "By the time of the blockade of the planet Naboo, Obi-Wan has learned nearly everything that his Master can teach him, though he is perhaps less aware of the living Force than Qui-Gon would prefer, lacking the kind of intuition and compassion that make the older Jedi a Master." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-by-the-time-of-the-blockade.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:234`
 
 > He defeated a rival student named Bruck, but was still passed over by Qui-Gon Jinn.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Obi-Wan Kenobi: "He defeated a rival student named Bruck, but was still passed over by Qui-Gon Jinn." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-he-defeated-a-rival-student-named.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:238`
 
 > One of the greatest Jedi living at the time of the Trade Federation embargo, Qui-Gon Jinn is nonetheless not a member of the Jedi Council.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Qui-Gon Jinn — entry/section: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon Jinn: "One of the greatest Jedi living at the time of the Trade Federation embargo, Qui-Gon Jinn is nonetheless not a member of the Jedi Council." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-one-of-the-greatest-jedi-living.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:240`
 
 > Stil Qui-Gon was a formidable lightsaber duelist—the best his Master had seen in 400 years of teaching—and has since fought in a variety of conflicts all over the galaxy, sometimes against odds that would have overwhelmed a lesser swordsman.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Qui-Gon Jinn — entry/section: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon Jinn: "Stil Qui-Gon was a formidable lightsaber duelist—the best his Master had seen in 400 years of teaching—and has since fought in a variety of conflicts all over the galaxy, sometimes against odds that would have overwhelmed a lesser swordsman." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-stil-qui-gon-was-a-formidable.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:242`
 
 > Even so, Qui-Gon is acutely aware that even Jedi Masters are not immortal, and hopes that he will accomplish something important and enduring before his life is over.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Qui-Gon Jinn — entry/section: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon Jinn: "Even so, Qui-Gon is acutely aware that even Jedi Masters are not immortal, and hopes that he will accomplish something important and enduring before his life is over." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-even-so-qui-gon-is-acutely.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:244`
 
 > After Qui-Gon was forced to kill Crion, Xanates rebelled and attacked his former Master, and aan though he was defeated, escapedlargely because Qui-Gon could not bring himself to kill his former student.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Qui-Gon Jinn — entry/section: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon Jinn: "After Qui-Gon was forced to kill Crion, Xanates rebelled and attacked his former Master, and aan though he was defeated, escapedlargely because Qui-Gon could not bring himself to kill his former student." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-after-qui-gon-was-forced-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:246`
 
 > Now, at the age of 60, Qui-Gon Jinn is still a formidable figure, with craggy features and a penetrating gaze.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Qui-Gon Jinn — entry/section: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon Jinn: "Now, at the age of 60, Qui-Gon Jinn is still a formidable figure, with craggy features and a penetrating gaze." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.225 — full quote as printed](quotes/d046-s225-now-at-the-age-of-60.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:248`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -800,7 +750,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-10
 > Without a doubt, the most powerful of these allies is Qui-Gon Jinn, Obi-Wan's master and mentor.
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Qui-Gon Jinn; Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi: "Without a doubt, the most powerful of these allies is Qui-Gon Jinn, Obi-Wan's master and mentor." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.100
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.100 — full quote as printed](quotes/d056-s100-without-a-doubt-the-most-powerful.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:260`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–112)
@@ -823,7 +772,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-11
 
 - Note (summary from our notes, not a quotation): Obi-Wan Kenobi; Qui-Gon Jinn: "The final fight on this level pits Obi-Wan and Qui-Gon against regular battle droids, assassin droids, and a new "bomb droid" that rushes the Jedi and the Queen before exploding." Source: *Star Wars Gamer 08* (SWRPG d20), scan p.103
   — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,.
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.103 — full quote as printed](quotes/d057-s103-the-final-fight-on-this-level.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-112.md:316`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -837,7 +785,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 > The brief battle between Qui-Gon Jinn and Darth Maul on Tatooine was the first clue to the Jedi Council that the Sith had survived. Maul eventually confronted both Qui-Gon Jinn and Obi-Wan Kenobi on Naboo, where he killed the Jedi Master after separating him from his Padawan. Darth Maul was killed soon after by the young Obi-Wan Kenobi.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role.
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi — entry/section: Darth Maul on Tatooine and Naboo: "The brief battle between Qui-Gon Jinn and Darth Maul on Tatooine was the first clue to the Jedi Council that the Sith had survived. Maul eventually confronted both Qui-Gon Jinn and Obi-Wan Kenobi on Naboo, where he killed the Jedi Master after separating him from his Padawan. Darth Maul was killed soon after by the young Obi-Wan Kenobi." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d113-s2-the-brief-battle-between-qui-gon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:25`
 
 - Note (summary from our notes, not a quotation): Page contents: Durge skills/feats; Rodian Jedi Guardian (Jedi Guardian 4, CC C from image); Qui-Gon Jinn (Jedi Guardian 10/Jedi Master 5, CC F) (hand-read)
@@ -847,13 +794,11 @@ Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.
 > Qui-Gon Jinn was a respected yet unorthodox Jedi Master. His disregard of authority figures meant that he would never have a seat on the Jedi Council. Despite this small flaw, Qui-Gon was a loyal Jedi and was never tempted by the dark side like his former Master, Count Dooku.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role.
 Note (our notes, around the quote): Qui-Gon Jinn; Count Dooku — entry/section: Qui-Gon, unorthodox Jedi Master: "Qui-Gon Jinn was a respected yet unorthodox Jedi Master. His disregard of authority figures meant that he would never have a seat on the Jedi Council. Despite this small flaw, Qui-Gon was a loyal Jedi and was never tempted by the dark side like his former Master, Count Dooku." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d113-s3-qui-gon-jinn-was-a-respected.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:41`
 
 > While searching for replacement parts after his ship was damaged escaping from a Trade Federation Blockade, Qui-Gon Jinn met a young boy named Anakin Skywalker. After he was fatally stabbed by Darth Maul, it was Qui-Gon's final wish to Obi-Wan Kenobi that the boy would be trained as a Jedi.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role.
 Note (our notes, around the quote): Qui-Gon Jinn; Darth Vader (Anakin Skywalker); Darth Maul; Obi-Wan Kenobi — entry/section: Qui-Gon meets Anakin: "While searching for replacement parts after his ship was damaged escaping from a Trade Federation Blockade, Qui-Gon Jinn met a young boy named Anakin Skywalker. After he was fatally stabbed by Darth Maul, it was Qui-Gon's final wish to Obi-Wan Kenobi that the boy would be trained as a Jedi." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d113-s3-while-searching-for-replacement-parts-after.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:43`
 
 ## Characters/Komari Vosa.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -861,7 +806,6 @@ Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.
 > The secretive leader of the Bando Gora cult was once a promising young student of the (in)famous Count Dooku, mentor of Qui-Gon Jinn. Presumed lost in the Jedi debacle at Baltizaar, Dooku's Padawan endured torture and suffering at the hands of the Bando Gora that she would one day control. After slaying her fellow Jedi prisoners (whether out of pity or spite is anyone's guess), Vosa joined with her captors and, with help from the Force and her own frustrated rage, soon brutalized her way to the top. From her base on the ancient burial moon Kohlma in the Bogden system, she plots her revenge against Dooku, the Republic, and the Jedi who she feels betrayed her and left her for dead. Despite her hatred of her former colleagues, Vosa still carries two lightsabers with curved hilts reminiscent of her former master's blade.
 — Source: Characters/Komari Vosa.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Komari Vosa; Count Dooku; Qui-Gon Jinn — entry/section: Komari Vosa: "The secretive leader of the Bando Gora cult was once a promising young student of the (in)famous Count Dooku, mentor of Qui-Gon Jinn. Presumed lost in the Jedi debacle at Baltizaar, Dooku's Padawan endured torture and suffering at the hands of the Bando Gora that she would one day control. After slaying her fellow Jedi prisoners (whether out of pity or spite is anyone's guess), Vosa joined with her captors and, with help from the Force and her own frustrated rage, soon brutalized her way to the top. From her base on the ancient burial moon Kohlma in the Bogden system, she plots her revenge against Dooku, the Republic, and the Jedi who she feels betrayed her and left her for dead. Despite her hatred of her former colleagues, Vosa still carries two lightsabers with curved hilts reminiscent of her former master's blade." Source: *Komari Vosa* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Komari Vosa* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d142-s1-the-secretive-leader-of-the-bando.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/142-komari-vosa.md:12`
 
 ## Jedi Counselling/Jedi Counseling 32 - Jedi Vs. Door.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -875,12 +819,10 @@ Our notes: `notes/materials/037-sw-d20-folder/197-jedi-counseling-32-jedi-vs-doo
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 32 Jedi Vs Door (text copy `primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_32_Jedi_Vs_Door_pdf_b38b5b255e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 32 Jedi Vs Door (text copy `primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_32_Jedi_Vs_Door_pdf_b38b5b255e`).)
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon's blast door (question): "Q: In The Phantom Menace, Qui-Gon Jinn nearly burned a hole through a blast door, but it didn't take him long to do that even though a blast door has 720 wound points! Did Qui-Gon do something to speed things up?" Source: *Jedi Counseling 32 - Jedi Vs. Door* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 32 - Jedi Vs. Door* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d197-s1-q-in-the-phantom-menace-qui.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/197-jedi-counseling-32-jedi-vs-door.md:12`
 
 - Note (summary from our notes, not a quotation): Qui-Gon Jinn — entry/section: How Qui-Gon cut the blast door: "A: Questions like this are always tricky to answer, because everyone has a slightly different perception of what was going on in the scene. For example, I'd debate whether Qui-Gon was "nearly" through the blast door. He'd carved a little less than halfway through the original door before the Neimoidians closed the actual blast door, and with that door, Qui-Gon had only managed to melt a small quantity of metal. Still, the question about "speeding things up" makes a valid point about damaging objects in this manner. When you try to use a lightsaber to burn through a door, you're effectively "attacking" the door, though the GM may not ask for attack rolls and go straight to the damage instead (on the grounds that you can't miss such a big target). Thus, if what Qui-Gon was doing was attacking the door, then he would get his normal number of attacks for the round, which would be three. (In the original core rulebook, we stated that Qui-Gon Jinn was a 15th-level Jedi guardian.) So what Qui-Gon did to speed up cutting through the door was to "attack" it three times -- deal damage three times -- each round." Source: *Jedi Counseling 32 - Jedi Vs. Door* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 32 - Jedi Vs. Door.pdf [Star Wars Rolepl.
-![Quote image: *Jedi Counseling 32 - Jedi Vs. Door* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d197-s1-a-questions-like-this-are-always.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/197-jedi-counseling-32-jedi-vs-door.md:14`
 
 ## Jedi Counselling/Jedi Counseling 39 - Big Deflections.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -892,7 +834,6 @@ Our notes: `notes/materials/037-sw-d20-folder/204-jedi-counseling-39-big-deflect
 > A: | think we might have been more clear about the limitations of deflection in the original core rulebook, but it's accepted that a Jedi cannot use Deflect against anything larger than personal weapons -- so starships and battle stations are out of the question. Still, we saw Qui-Gon Jinn use Deflect (defense) and Deflect (attack) against the STAPs in The Phantom Menace, so clearly vehicle weapons can be Deflected, as well.
 — Source: Jedi Counselling/Jedi Counseling 39 - Big Deflections.pdf [Star Wars Role.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Deflect limits: Qui-Gon vs the STAPs: "A: | think we might have been more clear about the limitations of deflection in the original core rulebook, but it's accepted that a Jedi cannot use Deflect against anything larger than personal weapons -- so starships and battle stations are out of the question. Still, we saw Qui-Gon Jinn use Deflect (defense) and Deflect (attack) against the STAPs in The Phantom Menace, so clearly vehicle weapons can be Deflected, as well." Source: *Jedi Counseling 39 - Big Deflections* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 39 - Big Deflections* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d204-s1-a-think-we-might-have-been.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/204-jedi-counseling-39-big-deflections.md:12`
 
 ## Jedi Counselling/Jedi Counseling 60.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -939,7 +880,6 @@ Our notes: `notes/materials/037-sw-d20-folder/230-jedi-counseling-62.md:35`
 
 - Note (summary from our notes, not a quotation): A: Good question! In theory, yes, if there were another character with Force Absorb, he would be able to cancel Qui-Gon's use of Force Absorb, and vice versa." Source: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 62.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d230-s3-q-hypothetically-suppose-the-enemy-squad.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/230-jedi-counseling-62.md:36`
 
 ## Jedi Counselling/Jedi Counseling 63.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -953,14 +893,12 @@ Our notes: `notes/materials/037-sw-d20-folder/231-jedi-counseling-63.md:17`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 63 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_63_pdf_7ca047be8d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 63 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_63_pdf_7ca047be8d`).)
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Qui-Gon's Surprise Move provokes AoOs: "A: Yes, characters can make attacks of opportunity normally during Qui-Gonn's Surprise Move. However, no character can make more than one attack of opportunity during the Surprise Move. (Treat a Surprise Move like a normal turn for purposes of determining how many times a character can do something that is limited to once per turn.)" Source: *Jedi Counseling 63* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 63* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d231-s2-a-yes-characters-can-make-attacks.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/231-jedi-counseling-63.md:19`
 
 ## Jedi Counselling/Jedi Counseling 76.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Qui-Gon Jinn; Jar Jar Binks — entry/section: Vehicle rams: Qui-Gon and Jar Jar under the MTT: "Second, if the vehicle would physically fill the character's entire square, you should handle it as per falling objects and assume the character is moved to the nearest "safe" square (as above). Note, however, that many vehicles won't require this sort of "reaction movement" at all. For example, a character can evade many repulsorlift vehicles simply by crouching or laying prone (as Qui-Gon and Jar Jar did when overrun by a MTT on Naboo)." Source: *Jedi Counseling 76* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 76.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 76* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d245-s1-second-if-the-vehicle-would-physically.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/245-jedi-counseling-76.md:12`
 
 ## Jedi Counselling/Jedi Counseling 80.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -970,14 +908,12 @@ Our notes: `notes/materials/037-sw-d20-folder/245-jedi-counseling-76.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 80 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_80_pdf_18ae2a5cbc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 80 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_80_pdf_18ae2a5cbc`).)
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Droideka shields too weak?: "Q: I noticed that the damage reduction of droid shields was reduced quite a bit from the original Star Wars Roleplaying Game rulebook to the revised book. For example, the destroyer droid's shields dropped from DR 15 to DR 9. Wouldn't this make a destroyer droid's shields too weak for what we see in the films? Their shields appear to be strong enough to absorb the damage from their heavy repeating blasters (4d8 points of damage, bounced back at them by Obi-Wan and Qui-Gon), but DR 9 doesn't seem to reflect this. In addition, if destroyers have only DR 9 shields, why not just charge them and attack with lightsabers?" Source: *Jedi Counseling 80* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 80* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d250-s2-q-i-noticed-that-the-damage.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/250-jedi-counseling-80.md:20`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/210 - Shadows in Green.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): No single roster character (rules/setting/general) — entry/section: The anonymous gift: a blossoming navy: "Outside in a slow approach towards Cularin, 6 brand new Z-95 Headhunters and a single, unique fighter, fly in a "V" formation. The lead craft is a Naboo NX Police Cruiser. It resembles the N-1 except a third engine is located on the tail and is is not as fast. All seven fighters have an unmarred green and black paint scheme. Just behind them is a CEC space cruiser (the same ship used by Qui-Gon and Obi-Wan at the beginning of The Phantom Menace) — wearing the same colors." Source: *210 - Shadows in Green* (SWRPG d20 Revised Core), p.9
   — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/210 - Shadows in.
-![Quote image: *210 - Shadows in Green* (SWRPG d20 Revised Core), p.9 — full quote as printed](quotes/d296-p9-outside-in-a-slow-approach-towards.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/296-210-shadows-in-green.md:110`
 
 ## Living Force Campaign/Articles/Year 3/09:11:03 - You Are Not a Jedi Yet.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -985,7 +921,6 @@ Our notes: `notes/materials/037-sw-d20-folder/296-210-shadows-in-green.md:110`
 > Training to become a Jedi is not an easy challenge. And even if you succeed, it's a hard life.
 — Source: Living Force Campaign/Articles/Year 3/09:11:03 - You Are Not a Jedi Yet.p.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Qui-Gon Jinn (epigraph): ""Training to become a Jedi is not an easy challenge. And even if you succeed, it's a hard life." —Qui-Gon Jinn" Source: *09:11:03 - You Are Not a Jedi Yet* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *09:11:03 - You Are Not a Jedi Yet* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d441-s1-training-to-become-a-jedi-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/441-09-11-03-you-are-not-a.md:12`
 
 ## Living Force Campaign/Campaign Guide/Living Force Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–66)
@@ -998,7 +933,6 @@ Our notes: `notes/materials/037-sw-d20-folder/441-09-11-03-you-are-not-a.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from The Phantom Menace (Terry Brooks) (text copy `MEGA_Legend_The_Episode_Novelizations_Star_Wars_Episode_I_The_Phantom_Menace_Terry_Brooks_epub`).)
 (Full sentence/passage taken from the source text on file: `prequel_tmp_phantom_menace_src_epub`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Back cover tagline (Qui-Gon Jinn line, unattributed): ""Be mindful of the living Force, my young Padawan"" Source: *Living Force Campaign Guide* (SWRPG d20 Revised Core), scan p.66
-![Quote image: *Living Force Campaign Guide* (SWRPG d20 Revised Core), scan p.66 — full quote as printed](quotes/d540-s66-be-mindful-of-the-living-force.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/540-living-force-campaign-guide-scan-061-066.md:37`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Galactic Campaign Guide - Quick Locations.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1008,7 +942,6 @@ Our notes: `notes/materials/037-sw-d20-folder/540-living-force-campaign-guide-sc
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from r Wars Roleplaying Game Revised Core Sourcebooks Sourcebook Web Enhancements Galactic Campaign Guide Quick Locations (text copy `r_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Galactic_Campaign_Guide_Quick_Locations_pdf_3d8f7af45c`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from r Wars Roleplaying Game Revised Core Sourcebooks Sourcebook Web Enhancements Galactic Campaign Guide Quick Locations (text copy `r_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Galactic_Campaign_Guide_Quick_Locations_pdf_3d8f7af45c`).)
 Note (our notes, around the quote): Obi-Wan Kenobi — entry/section: TPM generator-complex duel on railless catwalks: "In The Phantom Menace, the battle between Obi-Wan Kenobi, Qui-Gon Jinn, and Darth Maul in the power generator complex takes place in part on wide catwalks without railings." Source: *Galactic Campaign Guide - Quick Locations* (SWRPG d20 Revised Core), scan p.5
-![Quote image: *Galactic Campaign Guide - Quick Locations* (SWRPG d20 Revised Core), scan p.5 — full quote as printed](quotes/d642-s5-in-the-phantom-menace-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/642-galactic-campaign-guide-quick-locations.md:32`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Revised Core Rulebook Errata 2006.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1032,7 +965,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > After all, Han and Chewbacca certainly had more experience under their belts than Luke and Leia, and Qui-Gon was far more experienced than Amidala, Anakin, or even Obi-Wan.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Chewbacca; Luke Skywalker; Leia Organa Solo; Qui-Gon Jinn; Padmé Amidala; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Han and Chewbacca more experienced: "After all, Han and Chewbacca certainly had more experience under their belts than Luke and Leia, and Qui-Gon was far more experienced than Amidala, Anakin, or even Obi-Wan." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d666-s12-after-all-han-and-chewbacca-certainly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:67`
 
 - Note (summary from our notes, not a quotation): Page contents: Twenty Questions: famous guest stars (Luke, Qui-Gon; let Yoda help only as last resort); altering movie history; SMART goals begin (hand-read)
@@ -1046,19 +978,16 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > Much of Han Solo’s motivation during Star Wars: A New Hope focuses on accumulating credits to pay his debt to Jabba the Hutt. Qui-Gon Jinn’s activities on Tatooine during The Phantom Menace focus on finding local currency to buy a new hyperdrive for Queen Amidala’s Royal Starship.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Jabba the Hutt; Qui-Gon Jinn — entry/section: Pay Off the Debt examples: "Much of Han Solo’s motivation during Star Wars: A New Hope focuses on accumulating credits to pay his debt to Jabba the Hutt. Qui-Gon Jinn’s activities on Tatooine during The Phantom Menace focus on finding local currency to buy a new hyperdrive for Queen Amidala’s Royal Starship." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.17
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.17 — full quote as printed](quotes/d666-s17-much-of-han-solo-s-motivation.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:98`
 
 > Obi-Wan Kenobi watches helplessly as his beloved Master, Qui-Gon Jinn, is cut down by a Sith—who the young Padawan knows will be coming after him next.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Obi-Wan Kenobi; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn: "Obi-Wan Kenobi watches helplessly as his beloved Master, Qui-Gon Jinn, is cut down by a Sith—who the young Padawan knows will be coming after him next." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.29
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.29 — full quote as printed](quotes/d666-s29-obi-wan-kenobi-watches-helplessly-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:166`
 
 > Han Solo helps rescue Princess Leia from the Death Star because Luke Skywalker claims he'll be rewarded with credits the smuggler intends to use in paying off his debt to Jabba the Hutt. He later changes his mind, knowing that the reward of friendship with the Rebel Alliance, and Luke and Leia in particular, has far greater value. In The Phantom Menace, Obi-Wan Kenobi serves Qui-Gon Jinn as his Padawan, with the aspirations of gaining experience to become a full Jedi Knight.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Leia Organa Solo; Luke Skywalker; Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Han's reward changes: "Han Solo helps rescue Princess Leia from the Death Star because Luke Skywalker claims he'll be rewarded with credits the smuggler intends to use in paying off his debt to Jabba the Hutt. He later changes his mind, knowing that the reward of friendship with the Rebel Alliance, and Luke and Leia in particular, has far greater value. In The Phantom Menace, Obi-Wan Kenobi serves Qui-Gon Jinn as his Padawan, with the aspirations of gaining experience to become a full Jedi Knight." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.47
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.47 — full quote as printed](quotes/d666-s47-han-solo-helps-rescue-princess-leia.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:272`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1070,7 +999,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Though Offworld had absolute power during the later years of the Republic, nothing lasts forever. Several incidents involving corruption and murder schemes came to plague the company, which Jedi Knight Qui-Gon Jinn and his Padawan Obi-Wan Kenobi were involved in exposing. These illicit activities eventually doomed the company’s monopolistic hold on the world, allowing other interests—among them Arconan Harvest and the allied Home Planet Party—to flourish and bring about positive change.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi — entry/section: Exposed Offworld's corruption on Bandomeer: "Though Offworld had absolute power during the later years of the Republic, nothing lasts forever. Several incidents involving corruption and murder schemes came to plague the company, which Jedi Knight Qui-Gon Jinn and his Padawan Obi-Wan Kenobi were involved in exposing. These illicit activities eventually doomed the company’s monopolistic hold on the world, allowing other interests—among them Arconan Harvest and the allied Home Planet Party—to flourish and bring about positive change." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.11
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.11 — full quote as printed](quotes/d667-s11-though-offworld-had-absolute-power-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:67`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1082,7 +1010,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-001-060.md:60
 > The Star Wars movies are full of emotional moments. Obi-Wan Kenobi can only stand and watch helplessly as his friend and Master Qui-Gon Jinn is murdered by a Sith. Anakin Skywalker is forced to leave his mother in slavery on Tatooine. Later, he is powerless to prevent her death at the hands of the Tusken Raiders. Luke Skywalker loses the only parents he ever knew, his Uncle Owen and Aunt Beru, then loses his mentor, Ben Kenobi. Han Solo turns his back on the Rebel Alliance as the Death Star closes in to destroy them— then heroically returns at the last moment. Luke learns that Darth Vader is Anakin Skywalker, his father, and later must battle him to the death or surrender to the Emperor.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn; Darth Vader (Anakin Skywalker); Luke Skywalker; Han Solo — entry/section: Emotional moments in the films: "The Star Wars movies are full of emotional moments. Obi-Wan Kenobi can only stand and watch helplessly as his friend and Master Qui-Gon Jinn is murdered by a Sith. Anakin Skywalker is forced to leave his mother in slavery on Tatooine. Later, he is powerless to prevent her death at the hands of the Tusken Raiders. Luke Skywalker loses the only parents he ever knew, his Uncle Owen and Aunt Beru, then loses his mentor, Ben Kenobi. Han Solo turns his back on the Rebel Alliance as the Death Star closes in to destroy them— then heroically returns at the last moment. Luke learns that Darth Vader is Anakin Skywalker, his father, and later must battle him to the death or surrender to the Emperor." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.11
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.11 — full quote as printed](quotes/d668-s11-the-star-wars-movies-are-full.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-001-060.md:62`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–240)
@@ -1090,7 +1017,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-001-060.md:62
 > Qui-Gon Jinn, for example, might have earned a Dark Side Point for using the Force to cheat Watto.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Minor Transgression — Using the Force to Cause Inconvenience (Revised Core Rulebook, Ch9): "Qui-Gon Jinn, for example, might have earned a Dark Side Point for using the Force to cheat Watto." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.184
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.184 — full quote as printed](quotes/d671-s184-qui-gon-jinn-for-example-might.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181-240.md:31`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 241–300)
@@ -1098,25 +1024,21 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181
 > Still, Obi-Wan has proven himself time and again, and Qui-Gon Jinn could not be more proud of his apprentice.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Obi-Wan Kenobi (Revised Core Rulebook, Ch13): "Still, Obi-Wan has proven himself time and again, and Qui-Gon Jinn could not be more proud of his apprentice." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298 — full quote as printed](quotes/d671-s298-still-obi-wan-has-proven-himself.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-241-300.md:307`
 
 > By the time of the blockade of the planet Naboo, Obi-Wan has Jearned nearly everything that his Master can teach him, though he is perhaps less aware of the living Force than Qui-Gon would prefer, lacking the kind of intuition and compassion that make the older Jedi a Master.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Obi-Wan Kenobi (Revised Core Rulebook, Ch13): "By the time of the blockade of the planet Naboo, Obi-Wan has Jearned nearly everything that his Master can teach him, though he is perhaps less aware of the living Force than Qui-Gon would prefer, lacking the kind of intuition and compassion that make the older Jedi a Master." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298 — full quote as printed](quotes/d671-s298-by-the-time-of-the-blockade.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-241-300.md:309`
 
 > For a long time it appeared as though Qui-Gon would not take Obi-Wan as his Padawan, Marked for the Agricultural Corps to tend to sick crops after being passed over by a number of potential Jedi Masters, Obi-Wan was even tually given a chance to prove himself by dueling with other hopefuls.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Obi-Wan Kenobi: "For a long time it appeared as though Qui-Gon would not take Obi-Wan as his Padawan, Marked for the Agricultural Corps to tend to sick crops after being passed over by a number of potential Jedi Masters, Obi-Wan was even tually given a chance to prove himself by dueling with other hopefuls." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298 — full quote as printed](quotes/d671-s298-for-a-long-time-it-appeared.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-241-300.md:313`
 
 > After Obi-Wan Kenobi defeated Darth Maul, the Sith who had slain Qui-Gon Jinn, the Jedi High Council decided that Obi-Wan had proven himself worthy of becoming a Jedi Knight.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Maul; Qui-Gon Jinn — entry/section: Obi-Wan Kenobi: "After Obi-Wan Kenobi defeated Darth Maul, the Sith who had slain Qui-Gon Jinn, the Jedi High Council decided that Obi-Wan had proven himself worthy of becoming a Jedi Knight." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.298 — full quote as printed](quotes/d671-s298-after-obi-wan-kenobi-defeated-darth.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-241-300.md:315`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 301–360)
@@ -1124,7 +1046,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-241
 > Dooku’s departure shocks many of his counterparts; despite his radical views, he is a much-liked and respected Jedi Master who has personally trained some of the best Jedi Knights in the order, including Qui-Gon Jinn.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Count Dooku; Qui-Gon Jinn — entry/section: Count Dooku (Revised Core Rulebook, Ch13): "Dooku’s departure shocks many of his counterparts; despite his radical views, he is a much-liked and respected Jedi Master who has personally trained some of the best Jedi Knights in the order, including Qui-Gon Jinn." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.316
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.316 — full quote as printed](quotes/d671-s316-dooku-s-departure-shocks-many-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:210`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1146,13 +1067,11 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 > After being freed by Qui-Gon Jinn, Anakin studies the ways of the Jedi under Obi-Wan Kenobi, but he allows feelings of anger, fear, and hate to enslave him.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Qui-Gon Jinn; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi.
 Note (our notes, around the quote): Qui-Gon Jinn; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi: "After being freed by Qui-Gon Jinn, Anakin studies the ways of the Jedi under Obi-Wan Kenobi, but he allows feelings of anger, fear, and hate to enslave him." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.269
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.269 — full quote as printed](quotes/d723-s269-after-being-freed-by-qui-gon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:160`
 
 > OBI-WAN KENOBI A student of Yoda and Qui-Gon Jinn, Obi-Wan exemplifies all that is noble and heroic about the Jedi, Padawan, he defeats Darth Maul after the Sith Lord strikes Qui-Gon Jinn.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Yoda; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Maul.
 Note (our notes, around the quote): Yoda; Qui-Gon Jinn; Obi-Wan Kenobi; Darth Maul: "OBI-WAN KENOBI A student of Yoda and Qui-Gon Jinn, Obi-Wan exemplifies all that is noble and heroic about the Jedi, Padawan, he defeats Darth Maul after the Sith Lord strikes Qui-Gon Jinn." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.270
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.270 — full quote as printed](quotes/d723-s270-obi-wan-kenobi-a-student-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:171`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1175,13 +1094,11 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > For example, when Qui-Gon Jinn fought Darth Maul on Naboo, their duel spread across a large area, though in truth their movement was somewhat restricted.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed.
 Note (our notes, around the quote): Qui-Gon Jinn; Darth Maul — entry/section: Threats of the Galaxy (Saga): "For example, when Qui-Gon Jinn fought Darth Maul on Naboo, their duel spread across a large area, though in truth their movement was somewhat restricted." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.7
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.7 — full quote as printed](quotes/d731-s7-for-example-when-qui-gon-jinn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:42`
 
 > This duel covered a lot of ground, and the environment changed as it developed, but although there was a sense of space, the particular encounters took piace in controlled environments where the Jedi fought on the bridge, the tunnel, and finally the power generator area, where Qui-Gon was killed.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Qui-Gon Jinn. POV: Qui-Gon Jinn.
 Note (our notes, around the quote): Qui-Gon Jinn: "This duel covered a lot of ground, and the environment changed as it developed, but although there was a sense of space, the particular encounters took piace in controlled environments where the Jedi fought on the bridge, the tunnel, and finally the power generator area, where Qui-Gon was killed." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.7
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.7 — full quote as printed](quotes/d731-s7-this-duel-covered-a-lot-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:46`
 
 ## Star Wars Insider #34 (1997)
@@ -1257,7 +1174,6 @@ Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:95`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from George Lucas (Smith, Jim, 1978-) (text copy `novels_tmp_lucas_bts_jim_smith_epub_210ab9ca09`).)
 (Full sentence/passage taken from the source text on file: `novels_tmp_lucas_bts_jim_smith_epub`.)
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi — entry/section: Lucas: the ability to disappear and Ben's "more powerful than you could possibly imagine" line will be explained: "The Qui-Gon Jinn thing you will discover, as time goes on. There is a whole issue around that and the ability to disappear. The key line which you will use to understand this is when Ben Kenobi tells Darth Vader, "Strike me down and I'll become more, more..." (Stops to recall the line.) "...More powerful than you could possibly imagine." (Laughs.) Hey, he's the fan magazine — what do I know about these things? (Laughs.) But that's a key line, and it will be explained as we go along." Source: *Star Wars Insider #45* (1999), scan p.18
-![Quote image: *Star Wars Insider #45* (1999), scan p.18 — full quote as printed](quotes/ins045-s18-the-qui-gon-jinn-thing-you.jpg)
 Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:97`
 
 - Note (summary from our notes, not a quotation): Page contents: Jawa Trader: posters (Fleming Maul poster, Qui-Gon vs Maul print). Catalog only. (hand-read)
@@ -1300,13 +1216,11 @@ Our notes: `notes/materials/038-star-wars-insider/046-ins046.md:306`
 > The Phantom Menace brings to mind a whole slew of questions, Perhaps you can help, & Qui-Gon and Obi-Wan were so powerful with the Force, why did they not sense Padmé and Amidals were one and the same?
 — Source: Star Wars Insider #47 (1999); Qui-Gon Jinn; Obi-Wan Kenobi; Padmé Amidala.
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi; Padmé Amidala: "The Phantom Menace brings to mind a whole slew of questions, Perhaps you can help, & Qui-Gon and Obi-Wan were so powerful with the Force, why did they not sense Padmé and Amidals were one and the same?" Source: *Star Wars Insider #47* (1999), scan p.8
-![Quote image: *Star Wars Insider #47* (1999), scan p.8 — full quote as printed](quotes/ins047-s8-the-phantom-menace-brings-to-mind.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:47`
 
 > Did you notice when Qui-Gon and Obi-Wan were fighting their way through the Trade Federation Battleship, and the two destroyer droids show up? They both bolt extremely fast. How do they do that? The Force. Now, when Obi-Wan jumps back onto that platform, why couldn't he have run that fast again?
 — Source: Star Wars Insider #47 (1999).
 Note (our notes, around the quote): Qui-Gon Jinn; Obi-Wan Kenobi — entry/section: Rebel Rumblings letter (Chris Kauppila), printed p. 80: "Did you notice when Qui-Gon and Obi-Wan were fighting their way through the Trade Federation Battleship, and the two destroyer droids show up? They both bolt extremely fast. How do they do that? The Force. Now, when Obi-Wan jumps back onto that platform, why couldn't he have run that fast again?" Source: *Star Wars Insider #47* (1999), scan p.82
-![Quote image: *Star Wars Insider #47* (1999), scan p.82 — full quote as printed](quotes/ins047-s82-did-you-notice-when-qui-gon.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:437`
 
 ## Star Wars Insider #51 (2000)
@@ -1325,7 +1239,6 @@ Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:420`
 
 - Note (summary from our notes, not a quotation): Qui-Gon; Obi-Wan; Darth Maul — entry/section: Letter (Kerry Sandler): Qui-Gon's own fault he fell: ""I think it's no one's fault but Qui-Gon's that he fell to Darth Maul. Remember, Obi-Wan is better tuned to the "unifying" Force, and thus is generally more conservative in his approach. Whereas Qui-Gon, the so-called "maverick," who is tuned into the "living" Force, tends to react more in the moment."" Source: *Star Wars Insider #51* (2000), scan p.78
   — Source: Star Wars Insider #51 (2000).
-![Quote image: *Star Wars Insider #51* (2000), scan p.78 — full quote as printed](quotes/ins051-s78-i-think-its-no-ones-fault.jpg)
 Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:422`
 
 ## Star Wars Insider #53 (2001)
@@ -1383,7 +1296,6 @@ Our notes: `notes/materials/038-star-wars-insider/054-ins054.md:337`
 > With Obi, he's known him for a very long time. He knew Qui-Gon; they were contemporaries. He understood Qui-Gon's faults and admired his qualities, and he sees that Obi-Wan has taken on some of his strong-headedness—number one, by wanting to train Anakin. But Anakin is starting to display some interesting characteristics that need to be watched more closely. Obi-Wan intuitively has sensed that and understands our trepidation at wanting Anakin trained. He's sensing that now. But once he's in the program, per se, I think that we watch him more closely and hope that he'll outgrow those things or intuit that he shouldn't do certain things a certain way.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Mace Windu; Obi-Wan Kenobi; Qui-Gon Jinn; Darth Vader (Anakin Skywalker) — entry/section: Samuel L. Jackson on Mace's relationship with Obi-Wan and Anakin (verified on crop): ""With Obi, he's known him for a very long time. He knew Qui-Gon; they were contemporaries. He understood Qui-Gon's faults and admired his qualities, and he sees that Obi-Wan has taken on some of his strong-headedness—number one, by wanting to train Anakin. But Anakin is starting to display some interesting characteristics that need to be watched more closely. Obi-Wan intuitively has sensed that and understands our trepidation at wanting Anakin trained. He's sensing that now. But once he's in the program, per se, I think that we watch him more closely and hope that he'll outgrow those things or intuit that he shouldn't do certain things a certain way." —Samuel L. Jackson, Star Wars Insider 55, p. 31" Source: *Star Wars Insider #55* (2001), scan p.23
-![Quote image: *Star Wars Insider #55* (2001), scan p.23 — full quote as printed](quotes/ins055-s23-with-obi-hes-known-him-for.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:164`
 
 - Note (summary from our notes, not a quotation): Page contents: Top 10 Tales cont. (magazine p. 75): reasons 5-10 (Ewoks in underwear; truly short stories incl. Qui-Gon and Obi-Wan in "Life, Death, and the Living Force"; artistic diversity; Yoda wielding a lightsaber in "The Hidden"; character coverage incl. Greedo, Mara Jade, Amidala, Grissom the Gamorrean; Vader vs. Maul); pull quote; panel captions. (hand-read)
@@ -1472,7 +1384,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:570`
 > They argue, but as friends do. Obi-Wan is worried that Anakin's a bit headstrong and overconfident, even arrogant, and he thinks the reverse of me—that I'm staid and boring, and I do everything by the book. But they're really close—they've been together probably every day since Qui-Gon Jinn died, I suppose.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Qui-Gon Jinn — entry/section: Ewan McGregor on Obi-Wan and Anakin: ""They're like two old friends who have been together a long time and spend too much time together," McGregor said. "They argue, but as friends do. Obi-Wan is worried that Anakin's a bit headstrong and overconfident, even arrogant, and he thinks the reverse of me—that I'm staid and boring, and I do everything by the book. But they're really close—they've been together probably every day since Qui-Gon Jinn died, I suppose." —Ewan McGregor, Star Wars Insider 60, p. 29" Source: *Star Wars Insider #60* (2002), scan p.29
-![Quote image: *Star Wars Insider #60* (2002), scan p.29 — full quote as printed](quotes/ins060-s29-theyre-like-two-old-friends-who.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:204`
 
 - Note (summary from our notes, not a quotation): Page contents: Battle droids cont.: motion capture; "The People Behind the Droids" — Ben Burtt's magnetic-suit walk with offset hip rotation became the "duck walk"; Lucas cites Ray Harryhausen's skeleton fight in Jason and the Argonauts and "pigeon" movements; James Tooley (chaining, battle droid lead animator), Jeff Light (motion capture), palace stairs captured on plywood steps, Tim McLaughlin (digital clothing), Paul Kavanagh (ground battle lead); "Battle Droids on Parade" begins. Captions: [LEFT] Qui-Gon clears a path to the Queen's starship; [BELOW] Harryhausen's skeletons inspired the movement of the battle droids. (hand-read)
@@ -1563,7 +1474,6 @@ Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:81`
 > The way I see it, Darth Plagueis and Qui-Gon were both out there looking for the secret at the same time. And they both found their way to it. But Qui-Gon found the proper way to it.
 — Source: Star Wars Insider #83 (2005).
 Note (our notes, around the quote): Qui-Gon Jinn; Darth Plagueis — entry/section: Luceno on Qui-Gon and Plagueis: ""I would love to write the story of how and where Qui-Gon learned the secret of defeating death through the Force," Luceno says. "The way I see it, Darth Plagueis and Qui-Gon were both out there looking for the secret at the same time. And they both found their way to it. But Qui-Gon found the proper way to it." —James Luceno, Star Wars Insider 83, p. 14" Source: *Star Wars Insider #83* (2005), scan p.14
-![Quote image: *Star Wars Insider #83* (2005), scan p.14 — full quote as printed](quotes/ins083-s14-i-would-love-to-write-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:85`
 
 - Note (summary from our notes, not a quotation): Page contents: Ask the Master (Pablo Hidalgo), "Dead Sith Tell No Tales": Qui-Gon, the Shaman of the Whills and preserving identity beyond death through compassion and selflessness; Qui-Gon teaching Obi-Wan and Yoda; Anakin's redemption in ROTJ. (hand-read)
@@ -1726,7 +1636,6 @@ Our notes: `notes/materials/038-star-wars-insider/126-ins126.md:100`
 > I think the Force is incredibly powerful and the ability to manifest after death is something that only a few Jedi can do. We can't be definitive because it is Mortis and nothing on Mortis can be trusted or believed.
 — Source: Star Wars Insider #126 (2011); Qui-Gon Jinn — entry/section: Christian Taylor interview.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Christian Taylor interview: ""I think the Force is incredibly powerful and the ability to manifest after death is something that only a few Jedi can do. We can't be definitive because it is Mortis and nothing on Mortis can be trusted or believed." —Christian Taylor, Star Wars Insider 126, p. 19" Source: *Star Wars Insider #126* (2011), scan p.19
-![Quote image: *Star Wars Insider #126* (2011), scan p.19 — full quote as printed](quotes/ins126-s19-i-think-the-force-is-incredibly.jpg)
 Also cited as: Star Wars Insider #141 (2013).
 Also noted as: Qui-Gon Jinn — entry/section: Force ghost manifestation is rare (Mortis caveat): ""I think the Force is incredibly powerful and the ability to manifest after death is something that only a few Jedi can do. We can't be definitive because it is Mortis, and nothing on Mortis can be trusted or believed." —Christian Taylor (The Clone Wars head writer, quoted from Insider #126), Star Wars Insider 141, p. 57" Source: *Star Wars Insider #141* (2013), scan p.57
 Our notes: `notes/materials/038-star-wars-insider/126-ins126.md:102`; `notes/materials/038-star-wars-insider/141-ins141.md:306`
@@ -1796,7 +1705,6 @@ Our notes: `notes/materials/038-star-wars-insider/131-ins131.md:373`
 > I decided that the Jedi would be the best sword-fighters in the universe, trained to a point where they would only fight if they absolutely had to. If they did, they would win, without emotion, efficiently, and effectively.
 — Source: Star Wars Insider #131 (2012).
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn; Darth Maul — entry/section: Gillard: the Jedi as the best sword-fighters in the universe: ""I decided that the Jedi would be the best sword-fighters in the universe, trained to a point where they would only fight if they absolutely had to. If they did, they would win, without emotion, efficiently, and effectively." —Nick Gillard, Star Wars Insider 131, p. 97" Source: *Star Wars Insider #131* (2012), scan p.97
-![Quote image: *Star Wars Insider #131* (2012), scan p.97 — full quote as printed](quotes/ins131-s97-i-decided-that-the-jedi-would.jpg)
 Our notes: `notes/materials/038-star-wars-insider/131-ins131.md:544`
 
 ## Star Wars Insider #132 (2012)
@@ -1860,13 +1768,11 @@ Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:80`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #147 (2014).
 Note (our notes, around the quote): Darth Maul; Qui-Gon Jinn; Obi-Wan Kenobi — entry/section: Maul 2-on-1: ""Maul was SUCH a cool bad guy that it was a two-on-one fight... and the Jedi STILL felt like the underdogs." —Glen McIntosh, ILM animation supervisor, Star Wars Insider 147, p. 17" Source: *Star Wars Insider #147* (2014), scan p.17
-![Quote image: *Star Wars Insider #147* (2014), scan p.17 — full quote as printed](quotes/ins147-s17-maul-was-such-a-cool-bad.jpg)
 Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:97`
 
 > Maul was able to hold his own just fine against both Qui-Gon and Obi-Wan at the same time, but after Qui-Gon's demise? It's on! Obi-Wan just goes into ultra-Jedi mode and is relentless in his mission to take down the Sith Lord!
 — Source: Star Wars Insider #147 (2014).
 Note (our notes, around the quote): Darth Maul; Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Obi-Wan goes ballistic on Maul: ""Maul was able to hold his own just fine against both Qui-Gon and Obi-Wan at the same time, but after Qui-Gon's demise? It's on! Obi-Wan just goes into ultra-Jedi mode and is relentless in his mission to take down the Sith Lord!" —Matt Busch, artist, Star Wars Insider 147, p. 18" Source: *Star Wars Insider #147* (2014), scan p.18
-![Quote image: *Star Wars Insider #147* (2014), scan p.18 — full quote as printed](quotes/ins147-s18-maul-was-able-to-hold-his.jpg)
 Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:104`
 
 ## Star Wars Insider #148 (2014)

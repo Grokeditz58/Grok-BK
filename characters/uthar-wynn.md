@@ -240,7 +240,6 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-1-notes.md:218`
 > Lashowe was among the students who joined Kel Algwinn in an attempt to destroy the Jedi Knights who had infiltrated the Sith Academy and killed Master Uthar Wynn shortly after the Great Hunt.
 — Source: scan pages 241–280; Uthar Wynn. POV: Uthar Wynn.
 Note (our notes, around the quote): Uthar Wynn: "Lashowe was among the students who joined Kel Algwinn in an attempt to destroy the Jedi Knights who had infiltrated the Sith Academy and killed Master Uthar Wynn shortly after the Great Hunt." Source: The Complete Star Wars Encyclopedia, Vol. II, p.246
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.246 — full quote as printed](quotes/v2-p246-lashowe-was-among-the-students-who.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:109`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)

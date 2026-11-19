@@ -22,7 +22,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-10
 > What do! want with some backwater antique?”
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Dr. Follnor Callat — entry/section: Race for the Tessent.
 Note (our notes, around the quote): Dr. Follnor Callat — entry/section: Race for the Tessent: ""What do! want with some backwater antique?”" Source: *Star Wars Gamer 09* (SWRPG d20), scan p.74
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.74 — full quote as printed](quotes/d058-s74-what-do-want-with-some-backwater.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-104.md:122`
 
 # Debate and forum claims (unverified)

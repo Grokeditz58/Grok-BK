@@ -75,20 +75,18 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:684`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Plo Koon; Tyvokka — Plo Koon at Mount Avos: "In a series of punishing ground battles against Stark's troops, Koon rallied the Republic soldiers under his command and drove back the enemy despite overwhelming odds." Source: The New Essential Chronology, p.33
-![Quote image: The New Essential Chronology, p.33 — full quote as printed](quotes/nec-p33-plo-koon-at-mount-avos.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:41`
 
 > the Yinchorri possessed cortosis-weave armor that could resist lightsaber cuts. They also had the advice and silent backing of Darth Sidious.
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Mace Windu; Yoda; Plo Koon; Qui-Gon Jinn; Obi-Wan Kenobi — Yinchorri cortosis armor: "the Yinchorri possessed cortosis-weave armor that could resist lightsaber cuts. They also had the advice and silent backing of Darth Sidious." Source: The New Essential Chronology, p.37
-![Quote image: The New Essential Chronology, p.37 — full quote as printed](quotes/nec-p37-yinchorri-cortosis-armor.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:67`
 
 > On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Aayla Secura; Barriss Offee; Ki-Adi-Mundi; Plo Koon; Stass Allie; Obi-Wan Kenobi; Yoda — Order 66: "On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-order-66.jpg)
+![Quote image: The New Essential Chronology, p.84 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p84-order-66.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:518`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -98,13 +96,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Plo Koon: "Plo Koon used challat eaters from Mount Avos to defeat the Stark Commercial Combine army during the Stark Hyperspace Conflict." Source: The Complete Star Wars Encyclopedia, Vol. I, p.118
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.118 — full quote as printed](quotes/v1-p118-plo-koon-used-challat-eaters-from.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:112`
 
 > CT-8770, CT-8910 Two out of 141 clone troopers killed on Cato Neimoidia when Plo Koon crashed his Jedi starfighter into a clone staging area.
 — Source: scan pages 161–200; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "CT-8770, CT-8910 Two out of 141 clone troopers killed on Cato Neimoidia when Plo Koon crashed his Jedi starfighter into a clone staging area." Source: The Complete Star Wars Encyclopedia, Vol. I, p.155
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.155 — full quote as printed](quotes/v1-p155-ct-8770-ct-8910-two-out.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:83`
 
 > DarkLordofthe SithSee Sith. Darkmere, Brigadier Colin A New Republic Intelligence officer tasked with gath­ ering information regarding the World Dev­ astators during the resurrected Emperor's campaign of terror. Dark Nest The Gorog hive of the collec­ tive Killik entity known as the Colony. While the Colony acquired extraordinary capacity for expansion by the adoption of Force-sensitive Raynar Thul into its ranks, the inclusion ofdark sider Lomi Plo into the Gorog hive strangely affected it. Plo's influence made the Gorog the Colony's dark subconscious, and the rest of the Colony was unaware of the Gorog hive's activi­ ties. It earned the Jedi nickname of Dark Nest. In the devastating Swarm War that followed, Luke Skywalker brought an end to the Dark Nest by defeating Lomi Plo in combat. Dark Reaper An ancient weapon con­ structed by the Sith during the early cam- 1 68 This weapon of mass destruction was the key to the Sith Empire's plan to destroy the Republic planet by planet. According to leg­ end, it was only through the valiant efforts of a group of Jedi Knights led by Ulic Qel-Droma that the disaster was avoided. Once defeated, the Force Harvester was removed from the Reaper and buried below tons of garbage on the little-known Outer Rim planet of Raxus Prime. This rendered the Dark Reaper power­ less.
@@ -112,14 +108,12 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "In the devastating Swarm War that followed, Luke Skywalker brought an end to the Dark Nest by defeating Lomi Plo in combat." Source: The Complete Star Wars Encyclopedia, Vol. I, p.168
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.168 — full quote as printed](quotes/v1-p168-in-the-devastating-swarm-war-that.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:196`
 
 > Luke Skywalker and the new Jedi Order referred to the Gorog as the Dark Nest, and they be­ lieved that the Will of the Gorog nest was broken when Skywalker killed Welk in combat on Gorrm Kr, but it became clear that this wasn't true. Putting different bits of information together, Sky­ walker was able to figure out that the Gorog hive was try­ ingto break his will and invade his mind in an effort to make him a Joiner and gain control of the new Jedi Order. Jacen Solo had a similar revelation, although it came in the form of a Force­ induced vision that showed a galaxy in flames-indicating to him the Gorog's desire to take control of the entire galaxy. In a series of struggles, Luke managed to destroy Lomi Plo, then set out to confront UnuThul and force him to cut off his contact with the Killiks. Skywalker's plan Gorm the Dissolver King Gorneesh ultimately succeeded, and the Gorog hive was eliminated as the unconscious aspect of the Will of the Colony. But Alema Rar had survived her battle with Leia Organa Solo on Tenupe and considered herselfthe final member ofthe Gorog hive. gorph A species of frog-like creatures native to the For­ est Moon of Endor, they were known for their exceptionally long tongues, which they used to catch their food.
 — Source: scan pages 361–398; Luke Skywalker; Plo Koon.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "In a series of struggles, Luke managed to destroy Lomi Plo, then set out to confront UnuThul and force him to cut off his contact with the Killiks." Source: The Complete Star Wars Encyclopedia, Vol. I, p.354
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.354 — full quote as printed](quotes/v1-p354-in-a-series-of-struggles-luke.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:72`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -127,13 +121,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Captain Jag simply placed his vessel behind Plo Koon's and fired on the Jedi fighter, causing it to crash into the side of a building and explode.
 — Source: scan pages 121–160; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "Captain Jag simply placed his vessel behind Plo Koon's and fired on the Jedi fighter, causing it to crash into the side of a building and explode." Source: The Complete Star Wars Encyclopedia, Vol. II, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.134 — full quote as printed](quotes/v2-p134-captain-jag-simply-placed-his-vessel.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:149`
 
 > He also traveled to Sarm with Master Skywalker, on the mission to eliminate Lomi Plo and force UnuThul to sever his contact with the Colony.
 — Source: scan pages 201–240; Kyle Katarn; Plo Koon — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Plo Koon — entry/section: Katarn, Kyle: "He also traveled to Sarm with Master Skywalker, on the mission to eliminate Lomi Plo and force UnuThul to sever his contact with the Colony." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-he-also-traveled-to-sarm-with.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:78`
 
 - Note (summary from our notes, not a quotation): Page contents: 917 words, 20 paragraphs | headings/entries: Kolb, Sidris; Kole; Komad, Koyi; Kono; Konur, Dal; Koon, Plo
@@ -145,43 +137,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Plo nearly overpowered Skywalker, who was rescued by Mara—she literally scraped the Dark Jedi off him with her X-wing.
 — Source: scan pages 1–40; Plo Koon; Mara Jade Skywalker.
 Note (our notes, around the quote): Plo Koon; Mara Jade Skywalker: "Plo nearly overpowered Skywalker, who was rescued by Mara—she literally scraped the Dark Jedi off him with her X-wing." Source: The Complete Star Wars Encyclopedia, Vol. III, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.30 — full quote as printed](quotes/v3-p30-plo-nearly-overpowered-skywalker-who-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:273`
 
 > Although the Gorog nest ship | was destroyed at Sarm, Lomi Plo escaped and rejoined the Colony's forces at Tenupe.
 — Source: scan pages 121–160; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "Although the Gorog nest ship | was destroyed at Sarm, Lomi Plo escaped and rejoined the Colony's forces at Tenupe." Source: The Complete Star Wars Encyclopedia, Vol. III, p.128
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.128 — full quote as printed](quotes/v3-p128-although-the-gorog-nest-ship-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:105`
 
 > During the Swarm War, Luke faced two former Force-users, Raynar Thul and Lomi Plo, who had become absorbed into the hivemind of the Killiks that made up the Colony.
 — Source: scan pages 161–200; Luke Skywalker; Plo Koon.
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "During the Swarm War, Luke faced two former Force-users, Raynar Thul and Lomi Plo, who had become absorbed into the hivemind of the Killiks that made up the Colony." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-during-the-swarm-war-luke-faced.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:124`
 
 > After losing control of the Combine, he was contacted by Plo Koon telepathically and learned that the Combine would be defeated.
 — Source: scan pages 161–200; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "After losing control of the Combine, he was contacted by Plo Koon telepathically and learned that the Combine would be defeated." Source: The Complete Star Wars Encyclopedia, Vol. III, p.188
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.188 — full quote as printed](quotes/v3-p188-after-losing-control-of-the-combine.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:371`
 
 > Plo Koon was legendary for his leadership, rallying the disheartened Republic troops to an unlikely and miraculous victory.
 — Source: scan pages 161–200; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "Plo Koon was legendary for his leadership, rallying the disheartened Republic troops to an unlikely and miraculous victory." Source: The Complete Star Wars Encyclopedia, Vol. III, p.188
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.188 — full quote as printed](quotes/v3-p188-plo-koon-was-legendary-for-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:373`
 
 > During the Yuuzhan Vong War, Welk and Lomi Plo were captured by the invaders and held aboard the worldship Baanu Rass, Both agreed to help a Jedi strike team infiltrate the worldship and destroy the voxyn and their queen, but later abandoned the Jedi in order to save themselves.
 — Source: scan pages 321–360; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "During the Yuuzhan Vong War, Welk and Lomi Plo were captured by the invaders and held aboard the worldship Baanu Rass, Both agreed to help a Jedi strike team infiltrate the worldship and destroy the voxyn and their queen, but later abandoned the Jedi in order to save themselves." Source: The Complete Star Wars Encyclopedia, Vol. III, p.325
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.325 — full quote as printed](quotes/v3-p325-during-the-yuuzhan-vong-war-welk.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:76`
 
 > Welk and Lomi Plo barely survived.
 — Source: scan pages 321–360; Plo Koon. POV: Plo Koon.
 Note (our notes, around the quote): Plo Koon: "Welk and Lomi Plo barely survived." Source: The Complete Star Wars Encyclopedia, Vol. III, p.325
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.325 — full quote as printed](quotes/v3-p325-welk-and-lomi-plo-barely-survived.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:78`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -217,7 +202,6 @@ Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 Note (our notes, around the quote): Plo Koon: "Deflect Blaster Bolt: Plo Koon can deflect any blaster bolt that misses him." Source: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.5
-![Quote image: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.5 — full quote as printed](quotes/d064-s5-deflect-blaster-bolt-plo-koon-can.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced-missions.md:57`
 
 ## Jedi Counselling/Jedi Counseling 61.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -227,7 +211,6 @@ Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 61 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_61_pdf_6a9f57cc15`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 61 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_61_pdf_6a9f57cc15`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Plo Koon — entry/section: Anakin's Lightsaber Precision doesn't stack: "A: No, for two reasons. First, bonuses from the same source (in this case, Lightsaber Precision) don't stack. Second, the glossary description of Lightsaber Precision notes that it is used immediately before making the attack roll. In other words, it's not a stand-alone ability -- it can only be used in conjunction with an actual attack." Source: *Jedi Counseling 61* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 61* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d229-s3-a-no-for-two-reasons-first.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/229-jedi-counseling-61.md:42`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -243,7 +226,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 Note (our notes, around the quote): Denia (Jedi); Plo Koon — entry/section: Discovering Denia: "During the Clone Wars, Denia was fighting on Cato Neimoidia when she was injured in an explosion. One of the Separatist generals had her unconscious form brought to this palace and placed in an artificial coma while they decided what to do with her." Source: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.14
-![Quote image: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.14 — full quote as printed](quotes/d704-s14-during-the-clone-wars-denia-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/704-02-a-wretched-hive.md:83`
 
 > A hero who makes a successful DC 15 Treat Injury check can bring her out of the coma gently, and she regains consciousness at the –5 position on the condition track. Otherwise, she regains consciousness at the –10 position on the condition track, and she has a persistent condition (even with a successful Treat Injury check) that cannot be removed until she receives extended medical treatment for at least a week (which she will be able to get aboard the Resurgence between adventures). When Denia has been brought out of her coma, read the following boxed text aloud: Clearly, the woman has no idea that the Clone Wars are over, nor how much time has passed since she was placed in her coma. She tells the heroes that she is a Jedi Master and that she was assigned to Plo Koon’s battle group here on Cato Neimoidia. She was engaged in a pitched battle against the Separatists when a droid starfighter crashed near her, sending her into blackness. When her mind had recovered from the damage done to her body, she found herself unable to awaken or to purge her system of the drugs that were keeping her in a coma. She has been trying to reach out for help, but the only visitor to her room has been someone who seems shrouded in darkness. She doesn’t know who this person is (in truth, it is Igren Demos, the majordomo) or why he or she enters the room, but she did not attempt to make contact.
@@ -251,7 +233,6 @@ Our notes: `notes/materials/037-sw-d20-folder/704-02-a-wretched-hive.md:83`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 Note (our notes, around the quote): Denia (Jedi); Plo Koon — entry/section: Denia's Story: "She tells the heroes that she is a Jedi Master and that she was assigned to Plo Koon's battle group here on Cato Neimoidia. She was engaged in a pitched battle against the Separatists when a droid starfighter crashed near her, sending her into blackness. When her mind had recovered from the damage done to her body, she found herself unable to awaken or to purge her system of the drugs that were keeping her in a coma." Source: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.15
-![Quote image: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.15 — full quote as printed](quotes/d704-s15-she-tells-the-heroes-that-she.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/704-02-a-wretched-hive.md:90`
 
 ## Sourcebooks/Star Wars Gamemaster Screen.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -354,7 +335,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:53`
 > It's really just plugging it in: we don't try to reinvent anything. I think that's key. I know what a Republic Cruiser looks like, I know what Plo Koon looks like. Design changes I do based on necessity, because I can't do major cloth sim[ulation] or we can't rig something that elaborate.
 — Source: Star Wars Insider #95 (2007); Plo Koon — entry/section: Plugging it in.
 Note (our notes, around the quote): Plo Koon — entry/section: Plugging it in: ""It's really just plugging it in: we don't try to reinvent anything. I think that's key. I know what a Republic Cruiser looks like, I know what Plo Koon looks like. Design changes I do based on necessity, because I can't do major cloth sim[ulation] or we can't rig something that elaborate." —Dave Filoni, Star Wars Insider 95, p. 11" Source: *Star Wars Insider #95* (2007), scan p.11
-![Quote image: *Star Wars Insider #95* (2007), scan p.11 — full quote as printed](quotes/ins095-s11-its-really-just-plugging-it-in.jpg)
 Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:100`
 
 ## Star Wars Insider #100 (2008)
@@ -378,7 +358,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:76`
 > In truth, there's so many characters in the films that we didn't really get to see a lot, like Kit Fisto and Plo Koon. You could go around the [Jedi] Council's chairs, and have 12 episodes right there.
 — Source: Star Wars Insider #102 (2008); Kit Fisto; Plo Koon — entry/section: Filoni on Jedi Council.
 Note (our notes, around the quote): Kit Fisto; Plo Koon — entry/section: Filoni on Jedi Council: ""In truth, there's so many characters in the films that we didn't really get to see a lot, like Kit Fisto and Plo Koon. You could go around the [Jedi] Council's chairs, and have 12 episodes right there." —Dave Filoni, Star Wars Insider 102, p. 19" Source: *Star Wars Insider #102* (2008), scan p.19
-![Quote image: *Star Wars Insider #102* (2008), scan p.19 — full quote as printed](quotes/ins102-s19-in-truth-theres-so-many-characters.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:183`
 
 ## Star Wars Insider #103 (2008)
@@ -386,7 +365,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:183`
 > Jedi Master Plo Koon was the biggest challenge for me. I have to give all credit to Dave Filoni for really defining his voice. I think Plo is going to be an enduring favorite of fans for a long time.
 — Source: Star Wars Insider #103 (2008); Plo Koon — entry/section: Gilroy on Plo Koon.
 Note (our notes, around the quote): Plo Koon — entry/section: Gilroy on Plo Koon: ""Jedi Master Plo Koon was the biggest challenge for me. I have to give all credit to Dave Filoni for really defining his voice. I think Plo is going to be an enduring favorite of fans for a long time." —Henry Gilroy, Star Wars Insider 103, p. 13" Source: *Star Wars Insider #103* (2008), scan p.13
-![Quote image: *Star Wars Insider #103* (2008), scan p.13 — full quote as printed](quotes/ins103-s13-jedi-master-plo-koon-was-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:130`
 
 ## Star Wars Insider #104 (2008)
@@ -394,7 +372,6 @@ Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:130`
 > We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?
 — Source: Star Wars Insider #104 (2008).
 Note (our notes, around the quote): Kit Fisto; Luminara Unduli; Plo Koon — entry/section: Filoni on obscure characters: ""We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?" —Dave Filoni, Star Wars Insider 104, p. 7" Source: *Star Wars Insider #104* (2008), scan p.7
-![Quote image: *Star Wars Insider #104* (2008), scan p.7 — full quote as printed](quotes/ins104-s7-were-able-to-tackle-a-whole.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:58`
 
 ## Star Wars Insider #106 (2009)
@@ -406,7 +383,6 @@ Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:66`
 > When you ask for trouble, you should not be surprised when it finds you.
 — Source: Star Wars Insider #106 (2009); Plo Koon — entry/section: Plo Koon ("Rising Malevolence").
 Note (our notes, around the quote): Plo Koon — entry/section: Plo Koon ("Rising Malevolence"): ""When you ask for trouble, you should not be surprised when it finds you." —Plo Koon, Star Wars Insider 106, p. 11" Source: *Star Wars Insider #106* (2009), scan p.11
-![Quote image: *Star Wars Insider #106* (2009), scan p.11 — full quote as printed](quotes/ins106-s11-when-you-ask-for-trouble-you.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:68`
 
 ## Star Wars Insider #109 (2009)
@@ -520,7 +496,6 @@ Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:219`
 > She's spent so much time with Anakin, Obi-Wan, and Plo Koon that she's taking on their fighting skills, especially Anakin's. Ahsoka has no fear, no fear at all. She just goes right at it.
 — Source: Star Wars Insider #123 (2011).
 Note (our notes, around the quote): Ahsoka Tano; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi; Plo Koon — entry/section: Ashley Eckstein interview: ""She's spent so much time with Anakin, Obi-Wan, and Plo Koon that she's taking on their fighting skills, especially Anakin's. Ahsoka has no fear, no fear at all. She just goes right at it." —Ashley Eckstein, Star Wars Insider 123, p. 43" Source: *Star Wars Insider #123* (2011), scan p.44
-![Quote image: *Star Wars Insider #123* (2011), scan p.44 — full quote as printed](quotes/ins123-s44-shes-spent-so-much-time-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/123-ins123.md:254`
 
 ## Star Wars Insider #129 (2011)

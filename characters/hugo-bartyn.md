@@ -42,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 > “Kill all the little buggers. Have yourselves some fun. And if any of 'em are still around when corporate gets here, you're joinin' 'em.”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Hugo Bartyn — entry/section: Bartyn's orders to his research crew about the Menahuun: "“Kill all the little buggers. Have yourselves some fun. And if any of 'em are still around when corporate gets here, you're joinin' 'em.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.22
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.22 — full quote as printed](quotes/d056-s22-kill-all-the-little-buggers-have.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:135`
 
 - Note (summary from our notes, not a quotation): Page contents: Bartyn's Last Hunt: the lemur-like Menahuun survived; aged 84, Bartyn and son Traggat led a hunt into the jungle and were never seen again (hand-read)

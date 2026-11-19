@@ -14,7 +14,6 @@
 > While Green was one of the smartest of the Vigos, he was also a traitor to Black Sun who was exposed and promptly executed by Guri, Xizor's human replica droid aide, who choked him to death.
 — Source: scan pages 361–398; Guri; Prince Xizor.
 Note (our notes, around the quote): Guri; Prince Xizor: "While Green was one of the smartest of the Vigos, he was also a traitor to Black Sun who was exposed and promptly executed by Guri, Xizor's human replica droid aide, who choked him to death." Source: The Complete Star Wars Encyclopedia, Vol. I, p.366
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.366 — full quote as printed](quotes/v1-p366-while-green-was-one-of-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:166`
 
 - Note (summary from our notes, not a quotation): Page contents: 998 words, 25 paragraphs | headings/entries: Guo, Mars; Guri; Guris; Gurke
@@ -25,19 +24,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > [fragment — full passage not on file]
 — Source: scan pages 361–398; Guri; Prince Xizor — entry/section: Guri.
 Note (our notes, around the quote): Guri; Prince Xizor — entry/section: Guri: "She quickly became Xizor's top lieutenant, enforcing the crime lord's wishes and maintaining the dayto-day continuity of his enterprises...as she killed again and again." Source: The Complete Star Wars Encyclopedia, Vol. I, p.377
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.377 — full quote as printed](quotes/v1-p377-she-quickly-became-xizors-top-lieutenant.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:261`
 
 > Luke agreed and overpowered Guri through the Force.
 — Source: scan pages 361–398; Guri; Luke Skywalker — entry/section: Guri.
 Note (our notes, around the quote): Guri; Luke Skywalker — entry/section: Guri: "Luke agreed and overpowered Guri through the Force." Source: The Complete Star Wars Encyclopedia, Vol. I, p.377
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.377 — full quote as printed](quotes/v1-p377-luke-agreed-and-overpowered-guri-through.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:263`
 
 > He was killed over Coruscant when Darth Vader's Star Destroyer destroyed his skyhook; it was believed that Guri perished in the same explosion.
 — Source: scan pages 361–398; Guri; Darth Vader (Anakin Skywalker) — entry/section: Guri.
 Note (our notes, around the quote): Guri; Darth Vader (Anakin Skywalker) — entry/section: Guri: "He was killed over Coruscant when Darth Vader's Star Destroyer destroyed his skyhook; it was believed that Guri perished in the same explosion." Source: The Complete Star Wars Encyclopedia, Vol. I, p.377
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.377 — full quote as printed](quotes/v1-p377-he-was-killed-over-coruscant-when.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:265`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -45,13 +41,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > When Ororo tried to overturn the XTS domination of the spice trade in the Bajic sector, Xizor's trusted aide, the replica droid Guri, killed a number of top Ororo executives, including Z.
 — Source: scan pages 241–280; Prince Xizor; Guri.
 Note (our notes, around the quote): Prince Xizor; Guri: "When Ororo tried to overturn the XTS domination of the spice trade in the Bajic sector, Xizor's trusted aide, the replica droid Guri, killed a number of top Ororo executives, including Z." Source: The Complete Star Wars Encyclopedia, Vol. II, p.256
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.256 — full quote as printed](quotes/v2-p256-when-ororo-tried-to-overturn-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:195`
 
 > Allegedly founded by Dash Rendar and the human replica droid Guri, the company offered a practical form of immortality for a hefty fee.
 — Source: scan pages 401–440; Guri. POV: Guri.
 Note (our notes, around the quote): Guri: "Allegedly founded by Dash Rendar and the human replica droid Guri, the company offered a practical form of immortality for a hefty fee." Source: The Complete Star Wars Encyclopedia, Vol. II, p.412
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.412 — full quote as printed](quotes/v2-p412-allegedly-founded-by-dash-rendar-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:137`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -59,13 +53,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > He was resurrected as a human replica droid by Dash and Guri, becoming the head of ODT on Onadax.
 — Source: scan pages 81–120; Guri. POV: Guri.
 Note (our notes, around the quote): Guri: "He was resurrected as a human replica droid by Dash and Guri, becoming the head of ODT on Onadax." Source: The Complete Star Wars Encyclopedia, Vol. III, p.92
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.92 — full quote as printed](quotes/v3-p92-he-was-resurrected-as-a-human.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:161`
 
 > Xizor's top aide, Guri, choked Tuyay, then held a blaster up to his left eyeball and killed him.
 — Source: scan pages 241–280; Prince Xizor; Guri.
 Note (our notes, around the quote): Prince Xizor; Guri: "Xizor's top aide, Guri, choked Tuyay, then held a blaster up to his left eyeball and killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.269
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.269 — full quote as printed](quotes/v3-p269-xizors-top-aide-guri-choked-tuyay.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:288`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -81,13 +73,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Few beings can get the better of Guri in any situation. Even if someone were to learn her secret—that she is actually a mechanical construct—there is little chance that individual would live long enough to spread the news. Her strength and dexterity are far above the Human norm, and in most cases she does not need a weapon to kill with great efficiency (although her training in all types of weapons has not been ignored).
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Guri; Prince Xizor — entry/section: Few beings can get the better of Guri: "Few beings can get the better of Guri in any situation. Even if someone were to learn her secret—that she is actually a mechanical construct—there is little chance that individual would live long enough to spread the news. Her strength and dexterity are far above the Human norm, and in most cases she does not need a weapon to kill with great efficiency (although her training in all types of weapons has not been ignored)." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.125
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.125 — full quote as printed](quotes/d043-s125-few-beings-can-get-the-better.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:43`
 
 > During a recent job for Black Sun, Boushh made the mistake of insulting Prince Xizor. Guri, Prince Xizor's trusted bodyguard, killed the Ubese as punishment for the infraction. Guri later gave Boushh's outfit to Leia Organa so that she could sneak into Imperial Center.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Guri; Prince Xizor; Leia Organa Solo — entry/section: Guri killed Boushh: "During a recent job for Black Sun, Boushh made the mistake of insulting Prince Xizor. Guri, Prince Xizor's trusted bodyguard, killed the Ubese as punishment for the infraction. Guri later gave Boushh's outfit to Leia Organa so that she could sneak into Imperial Center." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.132
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.132 — full quote as printed](quotes/d043-s132-during-a-recent-job-for-black.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:104`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -104,7 +94,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:42`
 
 - Note (summary from our notes, not a quotation): Boushh took many contracts from the Black Sun crime syndicate during the Galactic Civil War, but he was ultimately caught trying to swindle the syndicate out of money. Prince Xizor's bodyguard/assassin droid, Guri, made short work of Boushh, but his fate was not widely known. Xizor kept Boushh's equipment in case it proved useful one day. Eventually, he gave it to Princess Leia to use as a disguise so she could get through Imperial security checkpoints and meet Xizor at his palace on Coruscant. (Leia, being such a high-profile member of the Rebel Alliance, almost certainly would have been recognized and detained, but "Boushh" could pass through without a second glance.) When Leia escaped from Xizor's palace, as described in Shadows of the Empire, she kept the Boushh disguise and later used it during her attempt to rescue Han Solo." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d270-s3-a-no-boushh-does-not-count.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:43`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -116,13 +105,11 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:10
 > In the Rebellion era, the leader of Black Sun, the Falleen Prince Xizor, has close ties with the Emperor— almost as close as Darth Vader's. As such, Xizor is perhaps the third most powerful person in the galaxy. To increase his standing, he constantly plots and schemes Darth Vader's downfall—just as Vader plots Xizor's. Emperor Palpatine, meanwhile, plays one off against the other, perhaps to keep two such powerful individuals from allying against him.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious); Guri — entry/section: Xizor, third most powerful person in the galaxy: "In the Rebellion era, the leader of Black Sun, the Falleen Prince Xizor, has close ties with the Emperor— almost as close as Darth Vader's. As such, Xizor is perhaps the third most powerful person in the galaxy. To increase his standing, he constantly plots and schemes Darth Vader's downfall—just as Vader plots Xizor's. Emperor Palpatine, meanwhile, plays one off against the other, perhaps to keep two such powerful individuals from allying against him." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79 — full quote as printed](quotes/d668-s79-in-the-rebellion-era-the-leader.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:104`
 
 > Assisting Xizor in his rise to power is his lovely aide Guri—a cunningly designed Human replica droid virtually indistinguishable from a real Human woman. Xizor is the hidden power behind Black Sun, and Guri is his bodyguard and personal enforcer.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2; Guri; Prince Xizor — entry/section: Guri, Xizor's bodyguard.
 Note (our notes, around the quote): Guri; Prince Xizor — entry/section: Guri, Xizor's bodyguard: "Assisting Xizor in his rise to power is his lovely aide Guri—a cunningly designed Human replica droid virtually indistinguishable from a real Human woman. Xizor is the hidden power behind Black Sun, and Guri is his bodyguard and personal enforcer." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79 — full quote as printed](quotes/d668-s79-assisting-xizor-in-his-rise-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:106`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

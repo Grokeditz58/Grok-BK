@@ -47,14 +47,12 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-6-inferno-notes.md:356`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "In the devastating Swarm War that followed, Luke Skywalker brought an end to the Dark Nest by defeating Lomi Plo in combat." Source: The Complete Star Wars Encyclopedia, Vol. I, p.168
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.168 — full quote as printed](quotes/v1-p168-in-the-devastating-swarm-war-that.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:196`
 
 > Luke Skywalker and the new Jedi Order referred to the Gorog as the Dark Nest, and they be­ lieved that the Will of the Gorog nest was broken when Skywalker killed Welk in combat on Gorrm Kr, but it became clear that this wasn't true. Putting different bits of information together, Sky­ walker was able to figure out that the Gorog hive was try­ ingto break his will and invade his mind in an effort to make him a Joiner and gain control of the new Jedi Order. Jacen Solo had a similar revelation, although it came in the form of a Force­ induced vision that showed a galaxy in flames-indicating to him the Gorog's desire to take control of the entire galaxy. In a series of struggles, Luke managed to destroy Lomi Plo, then set out to confront UnuThul and force him to cut off his contact with the Killiks. Skywalker's plan Gorm the Dissolver King Gorneesh ultimately succeeded, and the Gorog hive was eliminated as the unconscious aspect of the Will of the Colony. But Alema Rar had survived her battle with Leia Organa Solo on Tenupe and considered herselfthe final member ofthe Gorog hive. gorph A species of frog-like creatures native to the For­ est Moon of Endor, they were known for their exceptionally long tongues, which they used to catch their food.
 — Source: scan pages 361–398; Luke Skywalker; Plo Koon.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "In a series of struggles, Luke managed to destroy Lomi Plo, then set out to confront UnuThul and force him to cut off his contact with the Killiks." Source: The Complete Star Wars Encyclopedia, Vol. I, p.354
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.354 — full quote as printed](quotes/v1-p354-in-a-series-of-struggles-luke.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:72`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -62,7 +60,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > He also traveled to Sarm with Master Skywalker, on the mission to eliminate Lomi Plo and force UnuThul to sever his contact with the Colony.
 — Source: scan pages 201–240; Kyle Katarn; Plo Koon — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Plo Koon — entry/section: Katarn, Kyle: "He also traveled to Sarm with Master Skywalker, on the mission to eliminate Lomi Plo and force UnuThul to sever his contact with the Colony." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-he-also-traveled-to-sarm-with.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:78`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -70,25 +67,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Although the Gorog nest ship | was destroyed at Sarm, Lomi Plo escaped and rejoined the Colony's forces at Tenupe.
 — Source: scan pages 121–160; Plo Koon. POV: Plo Koon, about Lomi Plo.
 Note (our notes, around the quote): Plo Koon: "Although the Gorog nest ship | was destroyed at Sarm, Lomi Plo escaped and rejoined the Colony's forces at Tenupe." Source: The Complete Star Wars Encyclopedia, Vol. III, p.128
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.128 — full quote as printed](quotes/v3-p128-although-the-gorog-nest-ship-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:105`
 
 > During the Swarm War, Luke faced two former Force-users, Raynar Thul and Lomi Plo, who had become absorbed into the hivemind of the Killiks that made up the Colony.
 — Source: scan pages 161–200; Luke Skywalker; Plo Koon.
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "During the Swarm War, Luke faced two former Force-users, Raynar Thul and Lomi Plo, who had become absorbed into the hivemind of the Killiks that made up the Colony." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-during-the-swarm-war-luke-faced.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:124`
 
 > During the Yuuzhan Vong War, Welk and Lomi Plo were captured by the invaders and held aboard the worldship Baanu Rass, Both agreed to help a Jedi strike team infiltrate the worldship and destroy the voxyn and their queen, but later abandoned the Jedi in order to save themselves.
 — Source: scan pages 321–360; Plo Koon. POV: Plo Koon, about Lomi Plo.
 Note (our notes, around the quote): Plo Koon: "During the Yuuzhan Vong War, Welk and Lomi Plo were captured by the invaders and held aboard the worldship Baanu Rass, Both agreed to help a Jedi strike team infiltrate the worldship and destroy the voxyn and their queen, but later abandoned the Jedi in order to save themselves." Source: The Complete Star Wars Encyclopedia, Vol. III, p.325
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.325 — full quote as printed](quotes/v3-p325-during-the-yuuzhan-vong-war-welk.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:76`
 
 > Welk and Lomi Plo barely survived.
 — Source: scan pages 321–360; Plo Koon. POV: Plo Koon, about Lomi Plo.
 Note (our notes, around the quote): Plo Koon: "Welk and Lomi Plo barely survived." Source: The Complete Star Wars Encyclopedia, Vol. III, p.325
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.325 — full quote as printed](quotes/v3-p325-welk-and-lomi-plo-barely-survived.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:78`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–162)

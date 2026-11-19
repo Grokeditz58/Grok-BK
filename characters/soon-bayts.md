@@ -11,7 +11,7 @@
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Grievous ambushes Adi Gallia and Soon Bayts](panels/ob4-p20-grievous-ambush.jpg)
+- Note (summary from our notes, not a quotation): ![Grievous ambushes Adi Gallia and Soon Bayts](../notes/materials/049-obsession/panels/ob4-p20-grievous-ambush.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:58`
 

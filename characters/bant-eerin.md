@@ -14,7 +14,6 @@
 > When Obi-Wan Kenobi and Bant Eerin were dispatched to confront her, they found her dead, shot and killed by a probe droid that was later traced to Qui-Gon Jinn.
 — Source: scan pages 1–40; Obi-Wan Kenobi; Qui-Gon Jinn.
 Note (our notes, around the quote): Obi-Wan Kenobi; Qui-Gon Jinn: "When Obi-Wan Kenobi and Bant Eerin were dispatched to confront her, they found her dead, shot and killed by a probe droid that was later traced to Qui-Gon Jinn." Source: The Complete Star Wars Encyclopedia, Vol. III, p.29
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.29 — full quote as printed](quotes/v3-p29-when-obi-wan-kenobi-and-bant.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:264`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

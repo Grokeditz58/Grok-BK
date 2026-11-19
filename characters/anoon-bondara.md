@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Anoon Bondara; Darth Maul — entry/section: Bondara, Anoon: "Seeing that he could not hope to defeat Maul, Bondara sabotaged Maul's speeder and died when caught in the resulting explosion." Source: The Complete Star Wars Encyclopedia, Vol. I, p.85
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.85 — full quote as printed](quotes/v1-p85-seeing-that-he-could-not-hope.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:161`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -28,13 +27,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Turning the skycar around, she returned to the platform where Master Bondara and the Sith had landed and were dueling.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Anoon Bondara. POV: Anoon Bondara.
 Note (our notes, around the quote): Anoon Bondara: "Turning the skycar around, she returned to the platform where Master Bondara and the Sith had landed and were dueling." Source: Power of the Jedi Sourcebook, p.121
-![Quote image: Power of the Jedi Sourcebook, p.121 — full quote as printed](quotes/potj-p121-turning-the-skycar-around-she-returned.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:221`
 
 > Worse still, Master Bondara had died trying to destroy his opponent—and the Sith warrior survived.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Anoon Bondara. POV: Anoon Bondara.
 Note (our notes, around the quote): Anoon Bondara: "Worse still, Master Bondara had died trying to destroy his opponent—and the Sith warrior survived." Source: Power of the Jedi Sourcebook, p.121
-![Quote image: Power of the Jedi Sourcebook, p.121 — full quote as printed](quotes/potj-p121-worse-still-master-bondara-had-died.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:223`
 
 - Note (summary from our notes, not a quotation): Page contents: 721 words, 21 paragraphs | headings/entries: Anoon Bandara: Male Twi'lek Jedi Guardian 5/; Force Skills: Affect Mind +6, Battlemind +12,
@@ -44,7 +41,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > To Padawan Darsha, of course, Master Bondara's prowess was unmatched.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Anoon Bondara. POV: Anoon Bondara.
 Note (our notes, around the quote): Anoon Bondara: "To Padawan Darsha, of course, Master Bondara's prowess was unmatched." Source: Power of the Jedi Sourcebook, p.122
-![Quote image: Power of the Jedi Sourcebook, p.122 — full quote as printed](quotes/potj-p122-to-padawan-darsha-of-course-master.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:230`
 
 - Note (summary from our notes, not a quotation): Page contents: 893 words, 159 paragraphs | headings/entries: Ae; Ne sey aS / ar; Index; Abhean 132; Abraxin 79; Ackbar, Admiral 130; Adega system 135; Adegan crystals 104, 107, 155; Advozse 112, 113; Afarathu 108; AgriCorps worker 86; Alderaan 10, 64, 110; Aleema 107; Almania 83, 127; Amanoa, Queen 7, 100, 103, 104, 105; Ambria 101, 104, 105, 106, 145-147; Anselmi 71; Arkanian 64, 73, 100; Ashla, the 6; Asmeru 113, 114, 118; Assant, Darsha 121; Auril sector 135; Baltimn 150, 151; Bane, Darth 9; Battle Influence 12; Battle Meditation 15; Beast Language 15; Belasco 116; Bespin 128; Billaba, Depa 114; Black Sun 121; Bnar, Ood 136; Bondara, Anoon 121, 122, 124; Bouri, Omo 118; Brotherhood of Darkness 9, 141, 153; Caamasi 64, 110; Callista 9, 130; Carida 131; Cathar 65; Celegian 66, 98; Cerean 119; Chalactan 114; Chatos Academy 6; Chewbacca 11; Cho Leem, Thracia 123; Chu'unthor 132-135; Cilghal 11, 130; Cinnagar 8, 98, 103; Core Worlds 6, 7, 9, 70, 130
@@ -60,7 +56,6 @@ Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md
 > Though born Force-sensitive, circumstances would prevent Bocas'eca from becoming a Jedi. Ryloth's assigned Jedi scout, the Twi'lek Anoon Bondara, was killed the year Boc was born, and his Force-sensitivity went unnoticed until much later, when the Human Jedi Nejaa Halcyon deemed Boc too old for training. Familiar with the stories of Twi'lek warriors such as Tott Doneeta and Newar Forrth, Boc felt cheated out of his destiny.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
 Note (our notes, around the quote): Boc Aseca; Anoon Bondara; Nejaa Halcyon; Newar Forrth; Tott Doneeta — entry/section: Boc cheated of his destiny: "Though born Force-sensitive, circumstances would prevent Bocas'eca from becoming a Jedi. Ryloth's assigned Jedi scout, the Twi'lek Anoon Bondara, was killed the year Boc was born, and his Force-sensitivity went unnoticed until much later, when the Human Jedi Nejaa Halcyon deemed Boc too old for training. Familiar with the stories of Twi'lek warriors such as Tott Doneeta and Newar Forrth, Boc felt cheated out of his destiny." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d131-s2-though-born-force-sensitive-circumstances-would.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:31`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

@@ -21,13 +21,11 @@ Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:9
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 (Full sentence/passage taken from the source text on file: `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf`.)
 Note (our notes, around the quote): Gelnar Tol — entry/section: Level 188: ""Please, you must get me out of here. They are monsters without pity or compassion. I surely won't last another week here. We must escape before they return to deal with you ... and us."" Source: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.14
-![Quote image: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.14 — full quote as printed](quotes/d708-s14-please-you-must-get-me-out.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:95`
 
 > This is the heart of the design team for a massive new starship some 12 kilometers long that will dwarf even an Imperial-class Star Destroyer (and is a forerunner of the eventual Super Star Destroyer).
 — Source: Adventures/Dawn of Defiance/06 - The Core of Corruption.pdf [Star Wars Ro; Gelnar Tol — entry/section: Sarlacc Project.
 Note (our notes, around the quote): Gelnar Tol — entry/section: Sarlacc Project: "This is the heart of the design team for a massive new starship some 12 kilometers long that will dwarf even an Imperial-class Star Destroyer (and is a forerunner of the eventual Super Star Destroyer)." Source: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.14
-![Quote image: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.14 — full quote as printed](quotes/d708-s14-this-is-the-heart-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:97`
 
 # Debate and forum claims (unverified)

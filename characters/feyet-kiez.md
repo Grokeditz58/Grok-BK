@@ -14,7 +14,6 @@
 > The first Imperial II Star Destroyer constructed was Empire, commanded by Admiral Feyet Kiez. Empire was almost as feared a starship as Executor, and actually saw a fair amount of service during the middle and later years of the Rebellion era. The ship's primary objectives included capturing Alliance convoys and medical ships.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Feyet Kiez — entry/section: Imperial II Star Destroyer Empire.
 Note (our notes, around the quote): Feyet Kiez — entry/section: Imperial II Star Destroyer Empire: "The first Imperial II Star Destroyer constructed was Empire, commanded by Admiral Feyet Kiez. Empire was almost as feared a starship as Executor, and actually saw a fair amount of service during the middle and later years of the Rebellion era. The ship's primary objectives included capturing Alliance convoys and medical ships." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.98
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.98 — full quote as printed](quotes/d047-s98-the-first-imperial-ii-star-destroyer.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:259`
 
 # Debate and forum claims (unverified)

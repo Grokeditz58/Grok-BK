@@ -14,31 +14,26 @@
 > Perhaps the greatest difference between Master Kaedan and his fellow Council members is that he does not believe in redemption for the Sith.
 — Source: The Jedi Order; Jaric Kaedan; Tol Braga — Master Jaric Kaedan profile.
 Note (our notes, around the quote): Jaric Kaedan; Tol Braga — Master Jaric Kaedan profile: "Perhaps the greatest difference between Master Kaedan and his fellow Council members is that he does not believe in redemption for the Sith." Source: The Old Republic Encyclopedia, p.84
-![Quote image: The Old Republic Encyclopedia, p.84 — full quote as printed](quotes/tore-p84-perhaps-the-greatest-difference-between-master.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:188`
 
 > Master Braga continually seeks dialogue with the Empire and has corresponded regularly with dark side servants from Darth Angral to Lord Zash. He has even attempted communication with the Emperor himself.
 — Source: The Jedi Order; Tol Braga; Darth Zash; Darth Angral — Master Tol Braga.
 Note (our notes, around the quote): Tol Braga; Darth Zash; Darth Angral — Master Tol Braga: "Master Braga continually seeks dialogue with the Empire and has corresponded regularly with dark side servants from Darth Angral to Lord Zash. He has even attempted communication with the Emperor himself." Source: The Old Republic Encyclopedia, p.89, sidebar
-![Quote image: The Old Republic Encyclopedia, p.89 — full quote as printed](quotes/tore-p89-master-braga-continually-seeks-dialogue-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:260`
 
 > Master Braga turned the tables on Darth Sajar and convinced the Sith to become his Padawan.
 — Source: The Jedi Order; Tol Braga — Master Tol Braga.
 Note (our notes, around the quote): Tol Braga — Master Tol Braga: "Master Braga turned the tables on Darth Sajar and convinced the Sith to become his Padawan." Source: The Old Republic Encyclopedia, p.89, sidebar
-![Quote image: The Old Republic Encyclopedia, p.89 — full quote as printed](quotes/tore-p89-master-braga-turned-the-tables-on.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:262`
 
 > The Emperor is more than a man—he is the living embodiment of the dark side. Armed with incalculable powers of corruption, the Emperor easily defeats the Knight, Master Braga, and their fellow Jedi, twisting them all to the dark side.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Hero of Tython (Jedi Knight); Tol Braga — Hunt for the Sith Emperor: "The Emperor is more than a man—he is the living embodiment of the dark side. Armed with incalculable powers of corruption, the Emperor easily defeats the Knight, Master Braga, and their fellow Jedi, twisting them all to the dark side." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-the-emperor-is-more-than-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:292`
 
 > These fallen Jedi remain thralls of the Emperor, turned against the very people they once swore to protect.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Tol Braga; Vitiate (the Sith Emperor) — Racing Against Doomsday (top-right): "These fallen Jedi remain thralls of the Emperor, turned against the very people they once swore to protect." Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-these-fallen-jedi-remain-thralls-of.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:302`
 
 ## "SWTOR Scaling - A New Perspective (2024)" (DarthAnt66)

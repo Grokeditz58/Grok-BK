@@ -20,7 +20,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > One Jawa clan, headed by the barbaric chief Wittin, is the most feared on Tatooine.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Wittin — entry/section: UoS Guide: Jawas.
 Note (our notes, around the quote): Wittin — entry/section: UoS Guide: Jawas: "One Jawa clan, headed by the barbaric chief Wittin, is the most feared on Tatooine." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.27
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.27 — full quote as printed](quotes/d052-s27-one-jawa-clan-headed-by-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:170`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)

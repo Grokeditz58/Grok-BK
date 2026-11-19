@@ -41,20 +41,17 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:221`
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Jorus C'baoth; Grand Admiral Thrawn — Outbound Flight meets Thrawn.
 Note (our notes, around the quote): Jorus C'baoth; Grand Admiral Thrawn — Outbound Flight meets Thrawn: "it ran head-on into the Chiss Ascendancy, and the brilliant alien mastermind who would someday become Grand Admiral Thrawn." Source: The New Essential Chronology, p.48
-![Quote image: The New Essential Chronology, p.48 — full quote as printed](quotes/nec-p48-outbound-flight-meets-thrawn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:174`
 
 > The coup failed thanks to the appearance of loyal Imperial forces, and Zaarin soon died in a confrontation with Grand Admiral Thrawn. Palpatine later took revenge on the twenty-five-thousand-year-old Lyn, killing her at last.
 — Source: Part Five: The Galactic Civil War.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Admiral Thrawn — Palpatine kills Arden Lyn; Zaarin's coup: "The coup failed thanks to the appearance of loyal Imperial forces, and Zaarin soon died in a confrontation with Grand Admiral Thrawn. Palpatine later took revenge on the twenty-five-thousand-year-old Lyn, killing her at last." Source: The New Essential Chronology, p.123
-![Quote image: The New Essential Chronology, p.123 — full quote as printed](quotes/nec-p123-palpatine-kills-arden-lyn-zaarins-coup.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:168`
 
 > Empire of the Hand.
 > [fragment — full passage not on file]
 — Source: Part Five: The Galactic Civil War.
 Note (our notes, around the quote): Grand Admiral Thrawn — Empire of the Hand: "It is likely that Grand Admiral Thrawn, newly returned to the Unknown Regions following his defeat of Grand Admiral Zaarin, had orchestrated the attack, combining his Imperial warships with renegade Chiss craft in what he was already calling his "Empire of the Hand."" Source: The New Essential Chronology, p.129
-![Quote image: The New Essential Chronology, p.129 — full quote as printed](quotes/nec-p129-empire-of-the-hand.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:226`
 
 > Tue Last Granp ApmiraL?
@@ -72,12 +69,10 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Grand Admiral Thrawn — Grand Admirals: "The twelve Grand Admirals, easily recognizable by their stark white uniforms and braided gold epaulets, were the best of the best—unparalleled geniuses at military strategy. Only Admiral Ackbar could be considered their equal in the New Republic Navy." Source: The New Essential Chronology, p.136
-![Quote image: The New Essential Chronology, p.136 — full quote as printed](quotes/nec-p136-grand-admirals.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:59`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn — thirteenth Grand Admiral: "No one realized that one Grand Admiral remained at large, possibly the most dangerous of all. Blue-skinned Thrawn, the "thirteenth Grand Admiral," had been promoted by Palpatine in a secret ceremony following the treason of Grand Admiral Zaarin." Source: The New Essential Chronology, p.137
   — Source: Part Six: Birth of the New Republic.
-![Quote image: The New Essential Chronology, p.137 — full quote as printed](quotes/nec-p137-thirteenth-grand-admiral.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:66`
 
 > The next two years very nearly saw the death of the New Republic.
@@ -91,110 +86,93 @@ Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-th
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Grand Admiral Thrawn — Thrawn handed the reins: "While these incursions were not sufficient to panic the New Republic, they deeply impressed the Moffs, governors, and other political leaders. Thrawn was effectively handed the reins of the Empire." Source: The New Essential Chronology, p.148
-![Quote image: The New Essential Chronology, p.148 — full quote as printed](quotes/nec-p148-thrawn-handed-the-reins.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:11`
 
 > The third item was the mad Jedi Joruus C'baoth, apparently a clone of the Jorus C'baoth who had led the Outbound Flight mission. C'baoth had been stranded on Wayland for years and had gone completely insane.
 — Source: Part Seven: Empire Resurgent; Joruus C'baoth; Grand Admiral Thrawn — Joruus C'baoth on Wayland.
 Note (our notes, around the quote): Joruus C'baoth; Grand Admiral Thrawn — Joruus C'baoth on Wayland: "The third item was the mad Jedi Joruus C'baoth, apparently a clone of the Jorus C'baoth who had led the Outbound Flight mission. C'baoth had been stranded on Wayland for years and had gone completely insane." Source: The New Essential Chronology, p.148
-![Quote image: The New Essential Chronology, p.148 — full quote as printed](quotes/nec-p148-joruus-cbaoth-on-wayland.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:13`
 
 > Joruus C'baoth held up his end of the bargain, Force-linking the ships of Thrawn's fleet into a supernatural fighting force.
 — Source: Part Seven: Empire Resurgent; Joruus C'baoth; Grand Admiral Thrawn — Force-linked fleet.
 Note (our notes, around the quote): Joruus C'baoth; Grand Admiral Thrawn — Force-linked fleet: "Joruus C'baoth held up his end of the bargain, Force-linking the ships of Thrawn's fleet into a supernatural fighting force." Source: The New Essential Chronology, p.148
-![Quote image: The New Essential Chronology, p.148 — full quote as printed](quotes/nec-p148-force-linked-fleet.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:15`
 
 > Grand Admiral Thrawn, with an ysalamiri, plots the defeat of the New Republic from the bridge of the Chimaera.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — art caption.
 Note (our notes, around the quote): Grand Admiral Thrawn — art caption: "Grand Admiral Thrawn, with an ysalamiri, plots the defeat of the New Republic from the bridge of the Chimaera." Source: The New Essential Chronology, p.148, caption
-![Quote image: The New Essential Chronology, p.148 — full quote as printed](quotes/nec-p148-caption-grand-admiral-thrawn-with-an.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:17`
 
 > The use of Force-blocking ysalamiri allowed him to grow clones in mere days, instead of the years that the process had taken during the Clone Wars.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — ysalamiri clones.
 Note (our notes, around the quote): Grand Admiral Thrawn — ysalamiri clones: "The use of Force-blocking ysalamiri allowed him to grow clones in mere days, instead of the years that the process had taken during the Clone Wars." Source: The New Essential Chronology, p.150
-![Quote image: The New Essential Chronology, p.150 — full quote as printed](quotes/nec-p150-ysalamiri-clones.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:29`
 
 > Coincidentally, they arrived just as Grand Admiral Thrawn unleashed his fleet on the shipyards, using his new cloaking device to increase the element of surprise.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — Sluis Van.
 Note (our notes, around the quote): Grand Admiral Thrawn — Sluis Van: "Coincidentally, they arrived just as Grand Admiral Thrawn unleashed his fleet on the shipyards, using his new cloaking device to increase the element of surprise." Source: The New Essential Chronology, p.150
-![Quote image: The New Essential Chronology, p.150 — full quote as printed](quotes/nec-p150-sluis-van.jpg)
+![Quote image: The New Essential Chronology, p.150 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p150-sluis-van.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:33`
 
 > Grand Admiral Thrawn seemed infallible in his military strategy.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — Thrawn infallible.
 Note (our notes, around the quote): Grand Admiral Thrawn — Thrawn infallible: "Grand Admiral Thrawn seemed infallible in his military strategy." Source: The New Essential Chronology, p.152
-![Quote image: The New Essential Chronology, p.152 — full quote as printed](quotes/nec-p152-thrawn-infallible.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:55`
 
 > Thrawn's Noghri bodyguard Rukh, burning with anger toward the Empire ever since Leia Organa Solo's revelations on Honoghr, fatally stabbed his master through the heart.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — Rukh kills Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn — Rukh kills Thrawn: "Thrawn's Noghri bodyguard Rukh, burning with anger toward the Empire ever since Leia Organa Solo's revelations on Honoghr, fatally stabbed his master through the heart." Source: The New Essential Chronology, p.153
-![Quote image: The New Essential Chronology, p.153 — full quote as printed](quotes/nec-p153-rukh-kills-thrawn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:62`
 
 > Thrawn had captured an astonishing amount of territory, nearly doubling the size of the Empire, but it had been held together by his authority alone.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — held together by his authority alone.
 Note (our notes, around the quote): Grand Admiral Thrawn — held together by his authority alone: "Thrawn had captured an astonishing amount of territory, nearly doubling the size of the Empire, but it had been held together by his authority alone." Source: The New Essential Chronology, p.153
-![Quote image: The New Essential Chronology, p.153 — full quote as printed](quotes/nec-p153-held-together-by-his-authority-alone.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:64`
 
 > The resurrected Palpatine had done a better job of reuniting the Imperial factions than anyone before him, including Thrawn—only the Emperor could rule the Empire.
 — Source: Part Seven: Empire Resurgent.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Admiral Thrawn — only the Emperor could rule: "The resurrected Palpatine had done a better job of reuniting the Imperial factions than anyone before him, including Thrawn—only the Emperor could rule the Empire." Source: The New Essential Chronology, p.155
-![Quote image: The New Essential Chronology, p.155 — full quote as printed](quotes/nec-p155-only-the-emperor-could-rule.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:80`
 
 > Unlike Grand Admiral Thrawn, throughout her reign of terror Daala had never claimed to be a great military leader or strategist.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala; Grand Admiral Thrawn — Daala no strategist. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala; Grand Admiral Thrawn — Daala no strategist: "Unlike Grand Admiral Thrawn, throughout her reign of terror Daala had never claimed to be a great military leader or strategist." Source: The New Essential Chronology, p.166
-![Quote image: The New Essential Chronology, p.166 — full quote as printed](quotes/nec-p166-daala-no-strategist.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:63`
 
 > Flim bore an uncanny resemblance to the late Thrawn, and with blue makeup and glowing corneal inserts, the likeness was nothing short of astonishing.
 — Source: Part Ten: A Lasting Peace; Grand Admiral Thrawn — Flim as Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn — Flim as Thrawn: "Flim bore an uncanny resemblance to the late Thrawn, and with blue makeup and glowing corneal inserts, the likeness was nothing short of astonishing." Source: The New Essential Chronology, p.190
-![Quote image: The New Essential Chronology, p.190 — full quote as printed](quotes/nec-p190-flim-as-thrawn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:13`
 
 > Of all those present, Pellaeon had known Thrawn best, and he dropped the explosive news that the glorious return of Grand Admiral Thrawn had been nothing more than a parlor trick pulled by a small-time swindler named Flim.
 — Source: Part Ten: A Lasting Peace; Grand Admiral Thrawn — Pellaeon exposes the false Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn — Pellaeon exposes the false Thrawn: "Of all those present, Pellaeon had known Thrawn best, and he dropped the explosive news that the glorious return of Grand Admiral Thrawn had been nothing more than a parlor trick pulled by a small-time swindler named Flim." Source: The New Essential Chronology, p.192
-![Quote image: The New Essential Chronology, p.192 — full quote as printed](quotes/nec-p192-pellaeon-exposes-the-false-thrawn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:25`
 
 > Thrawn had succeeded beyond the Emperor's wildest dreams: an immense new swath of previously undiscovered territory had been meticulously mapped and cataloged, representing a bottomless new source of resources that could turn the Empire from victim to vanquisher in a single day.
 — Source: Part Ten: A Lasting Peace; Grand Admiral Thrawn — Thrawn's exploration of the Unknown Regions.
 Note (our notes, around the quote): Grand Admiral Thrawn — Thrawn's exploration of the Unknown Regions: "Thrawn had succeeded beyond the Emperor's wildest dreams: an immense new swath of previously undiscovered territory had been meticulously mapped and cataloged, representing a bottomless new source of resources that could turn the Empire from victim to vanquisher in a single day." Source: The New Essential Chronology, p.192
-![Quote image: The New Essential Chronology, p.192 — full quote as printed](quotes/nec-p192-thrawns-exploration-of-the-unknown-regions.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:27`
 
 > Thrawn had always promised his followers that if he should ever be killed, he would come back to them in ten years' time.
 — Source: Part Ten: A Lasting Peace; Grand Admiral Thrawn — Thrawn's ten-year promise.
 Note (our notes, around the quote): Grand Admiral Thrawn — Thrawn's ten-year promise: "Thrawn had always promised his followers that if he should ever be killed, he would come back to them in ten years' time." Source: The New Essential Chronology, p.193
-![Quote image: The New Essential Chronology, p.193 — full quote as printed](quotes/nec-p193-thrawns-ten-year-promise.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:34`
 
 > Mara used the beckon call installed aboard Jade's Fire to rouse her cherished ship and guide it directly into the Hand of Thrawn's docking bay, destroying every craft on the launching pad.
 — Source: Part Ten: A Lasting Peace; Mara Jade Skywalker — Jade's Fire beckon call.
 Note (our notes, around the quote): Mara Jade Skywalker — Jade's Fire beckon call: "Mara used the beckon call installed aboard Jade's Fire to rouse her cherished ship and guide it directly into the Hand of Thrawn's docking bay, destroying every craft on the launching pad." Source: The New Essential Chronology, p.193
-![Quote image: The New Essential Chronology, p.193 — full quote as printed](quotes/nec-p193-jades-fire-beckon-call.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:36`
 
 > A clone of Grand Admiral Thrawn nears completion in the fortress on Nirauan.
 — Source: Part Ten: A Lasting Peace; Grand Admiral Thrawn — art caption.
 Note (our notes, around the quote): Grand Admiral Thrawn — art caption: "A clone of Grand Admiral Thrawn nears completion in the fortress on Nirauan." Source: The New Essential Chronology, p.193, caption
-![Quote image: The New Essential Chronology, p.193 — full quote as printed](quotes/nec-p193-caption-a-clone-of-grand-admiral.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:38`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
 
 - Note (summary from our notes, not a quotation): Luke Skywalker; Grand Admiral Thrawn; Joruus C'baoth; Mara Jade Skywalker — Grand Master Luke Skywalker — Thrawn era: "Skywalker is faced with two threats related to Thrawn. One is a mad clone of the old Jedi Master Jorus C'Baoth. The clone "Joruus" tempts Skywalker toward the dark side but is defeated. The other threat is Mara Jade, an assassin with her sights set on Luke Skywalker." Source: Jedi Academy Training Manual, p.100
   — Source: Chapter V: Instructors and Alumni.
-![Quote image: Jedi Academy Training Manual, p.100 — full quote as printed](quotes/jatm-p100-grand-master-luke-skywalker-thrawn-era.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:51`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -202,7 +180,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 > The arrival of Grand Admiral Thrawn exacerbated these fears, and it was very difficult for New Republic diplomats, led by Mon Mothma and Leia Organa Solo, to woo worlds into the New Republic fold even after his defeat at Bilbringi.
 — Source: Chapter Five: Forces of the Empire.
 Note (our notes, around the quote): Grand Admiral Thrawn; Leia Organa Solo — The Imperial Core Systems — Thrawn's legacy: "The arrival of Grand Admiral Thrawn exacerbated these fears, and it was very difficult for New Republic diplomats, led by Mon Mothma and Leia Organa Solo, to woo worlds into the New Republic fold even after his defeat at Bilbringi." Source: The Jedi Academy Sourcebook, p.52
-![Quote image: The Jedi Academy Sourcebook, p.52 — full quote as printed](quotes/jas-p52-the-imperial-core-systems-thrawns-legacy.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:11`
 
 > By the time the Empire grew to envelop Carida, it had a population of 23 million, and several small cities around the globe.
@@ -222,7 +199,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Grand Admiral Thrawn; Palpatine (Darth Sidious) — Carida — loyal to the Empire: "Even though Grand Admiral Thrawn is dead and Palpatine overthrown, Carida refuses to be wooed into the New Republic camp." Source: The Jedi Academy Sourcebook, p.109
-![Quote image: The Jedi Academy Sourcebook, p.109 — full quote as printed](quotes/jas-p109-carida-loyal-to-the-empire.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:62`
 
 > The Dreadnaughts pre- date the Clone Wars, and, along with the Victory- class Star Destroyer, was brought over into the new Imperial Navy.
@@ -236,7 +212,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:62`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Grand Admiral Thrawn — The Vendetta — Thrawn's Dreadnaughts: "Thrawn assigned the aging Dreadnaughts left behind from Palpatine's regime to protect the Imperial systems, and, to preserve as many of his highly trained naval crews for active duty, ordered Army personnel trained to run them." Source: The Jedi Academy Sourcebook, p.132
-![Quote image: The Jedi Academy Sourcebook, p.132 — full quote as printed](quotes/jas-p132-the-vendetta-thrawns-dreadnaughts.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/12-ch12-starships.md:46`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -244,7 +219,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/12-ch12-starships.md:46`
 > A-9 Vigilance Interceptor An Imperial short-range starfighter that was introduced about six years after the Battle of Endor, soon after Grand Admiral Thrawn's defeat.
 — Source: scan pages 1–40; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "A-9 Vigilance Interceptor An Imperial short-range starfighter that was introduced about six years after the Battle of Endor, soon after Grand Admiral Thrawn's defeat." Source: The Complete Star Wars Encyclopedia, Vol. I, p.4
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.4 — full quote as printed](quotes/v1-p4-a-9-vigilance-interceptor-an-imperial.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:110`
 
 > General A'baht then led the deployment of the Fifth Fleet to the cluster and blockaded Doornik-319, where the Yevetha were mount­ ing their forces. When the fleet came under withering attack, General A'baht was forced to withdraw. Princess Leia Organa Solo then relieved him of command and substituted her husband, Han Solo. Aban An Imperial Navy officer, he oversaw the construction of an Imperial garrison on the watery world of Sedri when he held the rank of commander. Aban entered into an uneasy alliance with native renegade Karak in a bid to control the mysterious power source called the Golden Sun. Ultimately thwarted by Rebel agents, Aban emerged years later as captain of the Star Destroyer Bellicose in Grand Admiral Thrawn's forces. Abano A poor farmer on Aruza, he was the father of Manaroo, a tattooed dancing girl who eventually married the bounty hunter Dengar. Abanol A toxic world, second from the sun in the Beshqek system, within the Deep Core. AbbaJI The planet where the famous 100meter-tall firethorn trees grew in a single grove of the Irugian Rain Forest. Prince Xizor, head of the Black Sun criminal organization, was given a 600-year-old dwarf firethorn tree as a peace offering by a business rival.
@@ -252,19 +226,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Admiral Thrawn: "Ultimately thwarted by Rebel agents, Aban emerged years later as captain of the Star Destroyer Bellicose in Grand Admiral Thrawn's forces." Source: The Complete Star Wars Encyclopedia, Vol. I, p.6
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.6 — full quote as printed](quotes/v1-p6-ultimately-thwarted-by-rebel-agents-aban.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:122`
 
 > Admonitor An Imperial Star Destroyer used by Thrawn when he held the rank of admiral.
 — Source: scan pages 1–40; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Admonitor An Imperial Star Destroyer used by Thrawn when he held the rank of admiral." Source: The Complete Star Wars Encyclopedia, Vol. I, p.12
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.12 — full quote as printed](quotes/v1-p12-admonitor-an-imperial-star-destroyer-used.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:172`
 
 > The smuggler Talon Karrde posted men on Anchoron in an unsuccessful search for Grand Admiral Thrawn's traffic in clones, and Leia Organa Solo, in her attempts to locate an Imperial spy, planted a false report stating that a Star Destroyer had been spotted near the planet.
 — Source: scan pages 41–80; Grand Admiral Thrawn; Leia Organa Solo.
 Note (our notes, around the quote): Grand Admiral Thrawn; Leia Organa Solo: "The smuggler Talon Karrde posted men on Anchoron in an unsuccessful search for Grand Admiral Thrawn's traffic in clones, and Leia Organa Solo, in her attempts to locate an Imperial spy, planted a false report stating that a Star Destroyer had been spotted near the planet." Source: The Complete Star Wars Encyclopedia, Vol. I, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.30 — full quote as printed](quotes/v1-p30-the-smuggler-talon-karrde-posted-men.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:38`
 
 > Following the Battles of Endor and Bakura, Wedge's mtsswns became increasingly political. Rogue Squadron had become fa­ mous throughout the galaxy, and this elite starfighter group spearheaded missions into the heart of Imperial territory, liberating worlds and bringing more systems into the growing New Republic. Wedge and the Rogues were the New Repub­ lic's lance in retaking the heart of the Core Worlds, leading the mission that would wrest control of Coruscant from the Empire. Wedge also went on to found the unorthodox Wraith Squadron and hunted down various Imperial stal­ ·warts and warlords. Following the defeat of Grand Admiral Thrawn five years after the Battle of Endor, Antilles agreed to accept the rank of general on the condition that he could still lead Rogue Squadron. He proved a dominant tactician, but both he and Lando Calrissian suffered heavy losses in the war against the reborn Em­ peror during which the Empire used many new and advanced military weapons. In response, the New Republic began a reassessment of its own forces. Despite Wedge's objections, his superiors ordered him to create a new Rogue Squadron including fighters of several differ­ ent designs, which in theory would allow for greater flexibility in battle.
@@ -272,18 +243,15 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Admiral Thrawn: "Following the defeat of Grand Admiral Thrawn five years after the Battle of Endor, Antilles agreed to accept the rank of general on the condition that he could still lead Rogue Squadron." Source: The Complete Star Wars Encyclopedia, Vol. I, p.35
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.35 — full quote as printed](quotes/v1-p35-following-the-defeat-of-grand-admiral.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:79`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn: "Argona questioned the necessity of moving three Star Destroyers to Bothawui on a long-term mission without direct support—until Disra brought out a "resurrected" Thrawn, played by the con artist Flim." Source: The Complete Star Wars Encyclopedia, Vol. I, p.41
   — Source: scan pages 41–80. POV: Grand Admiral Thrawn.
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.41 — full quote as printed](quotes/v1-p41-argona-questioned-the-necessity-of-moving.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:131`
 
 > Upon Grand Admiral Thrawn's defeat, Bel Iblis remained a prominent fixture in the New Republic hierarchy.
 — Source: scan pages 81–120; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Upon Grand Admiral Thrawn's defeat, Bel Iblis remained a prominent fixture in the New Republic hierarchy." Source: The Complete Star Wars Encyclopedia, Vol. I, p.68
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.68 — full quote as printed](quotes/v1-p68-upon-grand-admiral-thrawns-defeat-bel.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:26`
 
 > She was shot down at Oradin by Baron Soontir Fe!. Though she survived the jorus Cbaoth, the Jedi Master who oversaw Outbound Flight
@@ -300,31 +268,26 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Grand Admiral Thrawn; Joruus C'baoth: "Thrawn's cunning tactics made short work of the vessels, though in his rage over seeing his dream destroyed, C'baoth reached out with the dark side of the Force and attempted to strangle Thrawn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.113
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.113 — full quote as printed](quotes/v1-p113-thrawns-cunning-tactics-made-short-work.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:63`
 
 > After Grand Admiral Thrawn's failed bid to recapture Coruscant, the Imperials rallied by staging a devastating attack on the capital.
 — Source: scan pages 161–200; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "After Grand Admiral Thrawn's failed bid to recapture Coruscant, the Imperials rallied by staging a devastating attack on the capital." Source: The Complete Star Wars Encyclopedia, Vol. I, p.147
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.147 — full quote as printed](quotes/v1-p147-after-grand-admiral-thrawns-failed-bid.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:21`
 
 > Death's Head An Imperial Star Destroyer, it was commanded by Captain Harbid as part of Grand Admiral Thrawn's armada.
 — Source: scan pages 161–200; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Death's Head An Imperial Star Destroyer, it was commanded by Captain Harbid as part of Grand Admiral Thrawn's armada." Source: The Complete Star Wars Encyclopedia, Vol. I, p.176
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.176 — full quote as printed](quotes/v1-p176-deaths-head-an-imperial-star-destroyer.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:268`
 
 > Dorja survived the death of Thrawn as well as the various warlords who attempted to lead the Empire thereafter.
 — Source: scan pages 201–240; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Dorja survived the death of Thrawn as well as the various warlords who attempted to lead the Empire thereafter." Source: The Complete Star Wars Encyclopedia, Vol. I, p.200
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.200 — full quote as printed](quotes/v1-p200-dorja-survived-the-death-of-thrawn.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:126`
 
 > Later, after the defeat of Thrawn, Ekhrikhor was adamant that all the treasures within the storehouse be destroyed, as they were artifacts of Palpatine's evil reign.
 — Source: scan pages 241–280; Grand Admiral Thrawn; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Grand Admiral Thrawn; Palpatine (Darth Sidious): "Later, after the defeat of Thrawn, Ekhrikhor was adamant that all the treasures within the storehouse be destroyed, as they were artifacts of Palpatine's evil reign." Source: The Complete Star Wars Encyclopedia, Vol. I, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.227 — full quote as printed](quotes/v1-p227-later-after-the-defeat-of-thrawn.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:17`
 
 > Ellsworth An Imperial functionary on Ba­ kura working for Wilek Nereus during the years leading up to the Battle of Bakura.
@@ -336,13 +299,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Grand Admiral Thrawn: "Five years after the Battle of Endor, a New Republic task force crewed by Elomin was wiped out near the Obroa-skai system when Grand Admiral Thrawn used a tactic that the Elomin were psychologically incapable of defending against." Source: The Complete Star Wars Encyclopedia, Vol. I, p.230
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.230 — full quote as printed](quotes/v1-p230-five-years-after-the-battle-of.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:38`
 
 > Knowing the value of symbols, it was Grand Admiral Thrawn who resurrected the designation SOJst forthe stormtrooper units protecting the Empire of the Hand.
 — Source: scan pages 241–280; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Knowing the value of symbols, it was Grand Admiral Thrawn who resurrected the designation SOJst forthe stormtrooper units protecting the Empire of the Hand." Source: The Complete Star Wars Encyclopedia, Vol. I, p.250
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.250 — full quote as printed](quotes/v1-p250-knowing-the-value-of-symbols-it.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:154`
 
 > Ferlanl, Luthus The leader of the Ferlani criminal family based on Esseles, he spent much of his youth representing the family on business throughout the Darpa sector and within Hutt space. Outwardly, Luthus Ferlani seemed like a kindly gentleman, but once he got angry or was disappointed, he could be terrifying. Fernooda As the liaison between Annoo­ dat radical General Ashaar Khorda and the outside world, this Dug hired both Jango Fett and Zam Wesell to steal the Infant of Shaa-a tiny religious statue that contained huge amounts of Force energy-in a plot to de­ stroy Coruscant. Jango succeeded and got his bounty, but in the end strangled Fernooda to death as he and Wesell thwarted the plot. Ferob, Captain An Imperial captain, he commanded the Victory-class Star Destroyer Iron Fist in the Unknown Regions under the watchful eye of Grand Admiral Thrawn. fero xyn This vicious predator, once native to the galaxy of the Yuuzhan Vong, was the only creature from their homeworld that had genetic material compatible with a vornskr. The initial Yuuzhan Vong attempts to create a Jedi-hunting creature from pure vornskr stock proved only mildly successful-the beast wasn't ferocious enough. But the fero xyn was a terror and already conditioned to respond to the commands of a Yuuzhan Vong warrior.
@@ -350,25 +311,21 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Admiral Thrawn: "Ferob, Captain An Imperial captain, he commanded the Victory-class Star Destroyer Iron Fist in the Unknown Regions under the watchful eye of Grand Admiral Thrawn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.264
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.264 — full quote as printed](quotes/v1-p264-ferob-captain-an-imperial-captain-he.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:258`
 
 > Lando Calrissian and Luke Skywalker foiled Ferrier's plans to steal a few ships from the Sluis Van shipyards, but Ferrier was able to provide Thrawn with an even greater prize: the location of the legendary and longsought Katana fleet.
 — Source: scan pages 241–280; Lando Calrissian; Luke Skywalker; Grand Admiral Thrawn.
 Note (our notes, around the quote): Lando Calrissian; Luke Skywalker; Grand Admiral Thrawn: "Lando Calrissian and Luke Skywalker foiled Ferrier's plans to steal a few ships from the Sluis Van shipyards, but Ferrier was able to provide Thrawn with an even greater prize: the location of the legendary and longsought Katana fleet." Source: The Complete Star Wars Encyclopedia, Vol. I, p.265
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.265 — full quote as printed](quotes/v1-p265-lando-calrissian-and-luke-skywalker-foiled.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:265`
 
 > Directly countermanding Thrawn's orders, he bribed Imperial Lieutenant Reynol Kosk into attacking the meeting, which resulted in Kosk and his entire squad getting killed.
 — Source: scan pages 241–280; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Directly countermanding Thrawn's orders, he bribed Imperial Lieutenant Reynol Kosk into attacking the meeting, which resulted in Kosk and his entire squad getting killed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.265
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.265 — full quote as printed](quotes/v1-p265-directly-countermanding-thrawns-orders-he-bribed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:267`
 
 > Filve This planet was targeted by the Star Destroyer Judicator in a multipronged attack by Grand Admiral Thrawn that was intended to draw New Republic forces away from Ukio.
 — Source: scan pages 281–320; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Filve This planet was targeted by the Star Destroyer Judicator in a multipronged attack by Grand Admiral Thrawn that was intended to draw New Republic forces away from Ukio." Source: The Complete Star Wars Encyclopedia, Vol. I, p.272
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.272 — full quote as printed](quotes/v1-p272-filve-this-planet-was-targeted-by.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:66`
 
 > Fing, Saluup This Yuuzhan Vong com­ mander was the first to appear before War­ master Nas Choka and announce that the sentient planet Zonama Sekot had traveled across the galaxy to appear near Coruscant some five years after the alien invasion of the galaxy began. The Yuuzhan Yong had spent years transforming Coruscant into a likeness of their long-lost homeworld of Yuuzhan'tar, only to have Zonama Sekot set off a chain re­ action of seismic events that damaged or de­ stroyed most of it. Fingal An undercover agent of the Empire, he had served on Berchest for nearly 10 years at the time of the Battle of Endor. Fingal had the uncanny ability to show absolutely no emotion. With the defeat of the Empire, he believed his career was over-until he was reactivated by Grand Admiral Thrawn, who wanted to monitor any possible activities of Luke Skywalker on the planet. fingerprint masque Similar in appear­ ance to an ink pad, this device attached a biochemical screen (or masque) to a being's fingertips. The screen could then be set to a random or known pattern, altering the finger­ print impression of the individual. Finn, a bartender at Rik's finger-spears Cephalopods that Yuuzhan Yong master shapers were allowed to graft onto their arms in place of hands, these crea­ tures could telescope outward up to 4 meters, forming razor-sharp tips.
@@ -376,13 +333,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Admiral Thrawn; Luke Skywalker: "With the defeat of the Empire, he believed his career was over—until he was reactivated by Grand Admiral Thrawn, who wanted to monitor any possible activities of Luke Skywalker on the planet." Source: The Complete Star Wars Encyclopedia, Vol. I, p.273
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.273 — full quote as printed](quotes/v1-p273-with-the-defeat-of-the-empire.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:73`
 
 > Gamer An Alliance shuttle group, it was destroyed during the Galactic Civil War when it took part in the failed assassination of then- Vice Admiral Thrawn when he arrived at the NL-1 station.
 — Source: scan pages 321–360; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Gamer An Alliance shuttle group, it was destroyed during the Galactic Civil War when it took part in the failed assassination of then- Vice Admiral Thrawn when he arrived at the NL-1 station." Source: The Complete Star Wars Encyclopedia, Vol. I, p.318
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.318 — full quote as printed](quotes/v1-p318-gamer-an-alliance-shuttle-group-it.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:92`
 
 > It had responsibility for handling the ministries of the government, finance, commerce, security and intelligence, and sci­ ence and education. General Purpose Attack fighterA snub fighter of Bakuran design, it was often referred to as a GPA. Generet A human Imperial agent, his ap­ pearance was surgically altered so that he re­ sembled a Mon Calamari, although his human organs weren't altered. He served as part of COMPNOR's Destabilization branch. Generis The primary planet in the Generis system, it was once the site of the New Repub­ lic's communications center for the entire Atri­ vis sector. The center was destroyed by Grand Admiral Thrawn's forces just prior to the Battle of Bilbringi. Alliance General Kryll and pilot Pash Cracken were able to evacuate Travia Chan and her people during the New Republic's retreat from the planet. The Republic de­ cided to rebuild the commu­ nications center on Generis, linking it to the outpost on Esfandia to form a redun­ dant link to the Unknown Regions. The Yuuzhan Vong, during their invasion of the galaxy, destroyed much of the planet's surface, elimi­ nating one of the Republic's major communications hubs. This left Esfandia as the only remaining communications center servicing the Unknown Regions.
@@ -390,7 +345,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Admiral Thrawn: "The center was destroyed by Grand Admiral Thrawn's forces just prior to the Battle of Bilbringi." Source: The Complete Star Wars Encyclopedia, Vol. I, p.331
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.331 — full quote as printed](quotes/v1-p331-the-center-was-destroyed-by-grand.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:175`
 
 > A Gran left alone went insane or died of loneliness. The Gran had excellent vision, able to resolve more colors than most species. Gran had multiple stomachs, having evolved from herbivorous ungulates. Grakko 357 0GrandAdmiral Grand Army of the Republic GrandAdmiralThe highest rank in the Im­ perial Navy, it was developed by Emperor Pal­ patine, possibly to install his loyalists at thevery top ofthe Empire's military establishment. At the time ofthe Battle ofEndor, therewere a dozen known Grand Admirals, and the Em­ peror referred to them as his "Circle ofTwelve:· But there was a 13th Grand Admiral as well, a Chiss mastermind known as Thrawn, who filled the void left when Zaarin was killed during his own attempt to become Emperor. By the time the Imperial Remnant agreed to a peace treaty with the New Republic, Pellaeon was believed to be the only surviving Grand Admiral, a rank he had earned well after the death ofThrawn. Grand Army of the Republic The ground-based arm of the Old Republic's mili­ tary, it was formed in response to the buildup of Separatist battle droids on Geonosis just prior to the onset of the Clone Wars. Supreme Chancellor Palpatine said he needed the army to address the growing question of secession from the Republic.
@@ -398,7 +352,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Admiral Thrawn: "But there was a 13th Grand Admiral as well, a Chiss mastermind known as Thrawn, who filled the void left when Zaarin was killed during his own attempt to become Emperor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.358
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.358 — full quote as printed](quotes/v1-p358-but-there-was-a-13th-grand.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:106`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -406,109 +359,91 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Horn and Rogue Squadron spent time battling Grand Admiral Thrawn and the reborn Emperor Palpatine's forces at Coruscant; the home that he and Mirax built was one of the first victims of the falling Star Destroyer Liberator.
 — Source: scan pages 41–80; Grand Admiral Thrawn; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Grand Admiral Thrawn; Palpatine (Darth Sidious): "Horn and Rogue Squadron spent time battling Grand Admiral Thrawn and the reborn Emperor Palpatine's forces at Coruscant; the home that he and Mirax built was one of the first victims of the falling Star Destroyer Liberator." Source: The Complete Star Wars Encyclopedia, Vol. II, p.58
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.58 — full quote as printed](quotes/v2-p58-horn-and-rogue-squadron-spent-time.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:153`
 
 > However, with the defeat of Grand Admiral Thrawn, all evidence of the department was lost.
 — Source: scan pages 81–120; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "However, with the defeat of Grand Admiral Thrawn, all evidence of the department was lost." Source: The Complete Star Wars Encyclopedia, Vol. II, p.89
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.89 — full quote as printed](quotes/v2-p89-however-with-the-defeat-of-grand.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:98`
 
 > Ironhand (1) This Imperial Star Destroyer, under the command of Captain Argona, was one of only 13 that remained in the Imperial Navy some 10 years after the death of Grand Admiral Thrawn.
 — Source: scan pages 121–160; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Ironhand (1) This Imperial Star Destroyer, under the command of Captain Argona, was one of only 13 that remained in the Imperial Navy some 10 years after the death of Grand Admiral Thrawn." Source: The Complete Star Wars Encyclopedia, Vol. II, p.116
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.116 — full quote as printed](quotes/v2-p116-ironhand-1-this-imperial-star-destroyer.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:17`
 
 > She used her beckon call to remotely send the Jade's Fire on a collision course with the hangar of the Hand of Thrawn complex, destroying it and most of the ships within.
 — Source: scan pages 121–160; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "She used her beckon call to remotely send the Jade's Fire on a collision course with the hangar of the Hand of Thrawn complex, destroying it and most of the ships within." Source: The Complete Star Wars Encyclopedia, Vol. II, p.133
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.133 — full quote as printed](quotes/v2-p133-she-used-her-beckon-call-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:138`
 
 > Lorana only survived Thrawn's attack because she had been ordered by C'baoth to lock up a group of rebellious engineers in the central core of the ship.
 — Source: scan pages 161–200; Grand Admiral Thrawn; Joruus C'baoth.
 Note (our notes, around the quote): Grand Admiral Thrawn; Joruus C'baoth: "Lorana only survived Thrawn's attack because she had been ordered by C'baoth to lock up a group of rebellious engineers in the central core of the ship." Source: The Complete Star Wars Encyclopedia, Vol. II, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.166 — full quote as printed](quotes/v2-p166-lorana-only-survived-thrawns-attack-because.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:91`
 
 > Thrawn's radiation bombs were targeted only at the Dreadnaughts, and wiped out all beings in the large ships.
 — Source: scan pages 161–200; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Thrawn's radiation bombs were targeted only at the Dreadnaughts, and wiped out all beings in the large ships." Source: The Complete Star Wars Encyclopedia, Vol. II, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.166 — full quote as printed](quotes/v2-p166-thrawns-radiation-bombs-were-targeted-only.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:93`
 
 > Kaarenth Dissension An Imperial splinter group in the Corva sector formed after the defeat of Grand Admiral Thrawn at Bilbringi, it was created by Meres Ulcane and an anonymous Imperial supporter.
 — Source: scan pages 161–200; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Kaarenth Dissension An Imperial splinter group in the Corva sector formed after the defeat of Grand Admiral Thrawn at Bilbringi, it was created by Meres Ulcane and an anonymous Imperial supporter." Source: The Complete Star Wars Encyclopedia, Vol. II, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.189 — full quote as printed](quotes/v2-p189-kaarenth-dissension-an-imperial-splinter-group.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:246`
 
 > This group provided vital support to the New Republic that helped spell Thrawn's defeat at the Battle of Bilbringi.
 — Source: scan pages 201–240; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "This group provided vital support to the New Republic that helped spell Thrawn's defeat at the Battle of Bilbringi." Source: The Complete Star Wars Encyclopedia, Vol. II, p.200
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.200 — full quote as printed](quotes/v2-p200-this-group-provided-vital-support-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:51`
 
 > The painting ended up in the personal collection of Imperial Grand Admiral Thrawn, and many of the Imperials who knew of its existence believed it had been lost when Thrawn was killed.
 — Source: scan pages 201–240; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "The painting ended up in the personal collection of Imperial Grand Admiral Thrawn, and many of the Imperials who knew of its existence believed it had been lost when Thrawn was killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.217
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.217 — full quote as printed](quotes/v2-p217-the-painting-ended-up-in-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:238`
 
 > He personally executed the former adviser by strangling him with his cybernetic hand, then usurped control of the Ciutric Hegemony for himself and paid lip service to Thrawn's call for support during his rise to power.
 — Source: scan pages 201–240; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "He personally executed the former adviser by strangling him with his cybernetic hand, then usurped control of the Ciutric Hegemony for himself and paid lip service to Thrawn's call for support during his rise to power." Source: The Complete Star Wars Encyclopedia, Vol. II, p.232
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.232 — full quote as printed](quotes/v2-p232-he-personally-executed-the-former-adviser.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:397`
 
 > When Han Solo joined the mission to destroy Grand Admiral Thrawn's cloning facility on Wayland, Cakhmaim protected Leia, Winter, and the children, Jaina and Jacen Solo.
 — Source: scan pages 321–360.
 Note (our notes, around the quote): Han Solo; Grand Admiral Thrawn; Leia Organa Solo; Winter Celchu; Jaina Solo; Jacen Solo (Darth Caedus): "When Han Solo joined the mission to destroy Grand Admiral Thrawn's cloning facility on Wayland, Cakhmaim protected Leia, Winter, and the children, Jaina and Jacen Solo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.322
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.322 — full quote as printed](quotes/v2-p322-when-han-solo-joined-the-mission.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:55`
 
 > At one point Grand Admiral Thrawn planned an assault on Mrisst, partly to try to lure and defeat the New Republic fleet.
 — Source: scan pages 321–360; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "At one point Grand Admiral Thrawn planned an assault on Mrisst, partly to try to lure and defeat the New Republic fleet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.338
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.338 — full quote as printed](quotes/v2-p338-at-one-point-grand-admiral-thrawn.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:171`
 
 > Nemesis An Imperial I-class Star Destroyer, the Nemesis was part of Grand Admiral Thrawn's fleet five years after the Battle of Endor.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Nemesis An Imperial I-class Star Destroyer, the Nemesis was part of Grand Admiral Thrawn's fleet five years after the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. II, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.369 — full quote as printed](quotes/v2-p369-nemesis-an-imperial-i-class-star.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:132`
 
 > It was one of the Star Destroyers that Thrawn used to attack Bpfassh in one of his first moves against the New Republic.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "It was one of the Star Destroyers that Thrawn used to attack Bpfassh in one of his first moves against the New Republic." Source: The Complete Star Wars Encyclopedia, Vol. II, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.369 — full quote as printed](quotes/v2-p369-it-was-one-of-the-star.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:134`
 
 > New Nystao A settlement that sprang up at the base of Mount Tantiss, on Wayland, after the New Republic defeated Grand Admiral Thrawn and took control of the facility.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "New Nystao A settlement that sprang up at the base of Mount Tantiss, on Wayland, after the New Republic defeated Grand Admiral Thrawn and took control of the facility." Source: The Complete Star Wars Encyclopedia, Vol. II, p.375
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.375 — full quote as printed](quotes/v2-p375-new-nystao-a-settlement-that-sprang.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:174`
 
 > New Republic Cabinet The New Republic's governing body, established in the wake of the defeat of Grand Admiral Thrawn.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "New Republic Cabinet The New Republic's governing body, established in the wake of the defeat of Grand Admiral Thrawn." Source: The Complete Star Wars Encyclopedia, Vol. II, p.375
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.375 — full quote as printed](quotes/v2-p375-new-republic-cabinet-the-new-republics.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:176`
 
 > When Grand Admiral Thrawn, disguised as Jodo Kast, infiltrated Thyne's base in Coronet, a firefight erupted and Nidder was killed.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "When Grand Admiral Thrawn, disguised as Jodo Kast, infiltrated Thyne's base in Coronet, a firefight erupted and Nidder was killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.378
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.378 — full quote as printed](quotes/v2-p378-when-grand-admiral-thrawn-disguised-as.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:197`
 
 > In a daring act of vengeance, Rukh killed Thrawn aboard the Grand Admiral's command ship with an assassin's blade.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "In a daring act of vengeance, Rukh killed Thrawn aboard the Grand Admiral's command ship with an assassin's blade." Source: The Complete Star Wars Encyclopedia, Vol. II, p.386
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.386 — full quote as printed](quotes/v2-p386-in-a-daring-act-of-vengeance.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:261`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -516,67 +451,56 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Spurred on by Thrawn's victories, the remaining Inner Circle of Imperial warlords staged a devastating attack on Coruscant.
 — Source: scan pages 1–40; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Spurred on by Thrawn's victories, the remaining Inner Circle of Imperial warlords staged a devastating attack on Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. III, p.9
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.9 — full quote as printed](quotes/v3-p9-spurred-on-by-thrawns-victories-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:110`
 
 > When Thrawn was killed by a treacherous bodyguard, the Imperial momentum sputtered.
 — Source: scan pages 1–40; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "When Thrawn was killed by a treacherous bodyguard, the Imperial momentum sputtered." Source: The Complete Star Wars Encyclopedia, Vol. III, p.17
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.17 — full quote as printed](quotes/v3-p17-when-thrawn-was-killed-by-a.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:166`
 
 > They lacked the refinement of Thrawn's tactical mind, and rather than take the capital intact, they destroyed much of it.
 — Source: scan pages 1–40; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "They lacked the refinement of Thrawn's tactical mind, and rather than take the capital intact, they destroyed much of it." Source: The Complete Star Wars Encyclopedia, Vol. III, p.17
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.17 — full quote as printed](quotes/v3-p17-they-lacked-the-refinement-of-thrawns.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:168`
 
 > After Force Commander Thrawn disabled the Outbound Flight and killed its crew, Admiral Ar'alani directed Syndic Thrass to take the vessel to Pesfavri before the massive ship could be impounded by Aristocra Chaf'orm'bintrano.
 — Source: scan pages 1–40; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "After Force Commander Thrawn disabled the Outbound Flight and killed its crew, Admiral Ar'alani directed Syndic Thrass to take the vessel to Pesfavri before the massive ship could be impounded by Aristocra Chaf'orm'bintrano." Source: The Complete Star Wars Encyclopedia, Vol. III, p.21
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.21 — full quote as printed](quotes/v3-p21-after-force-commander-thrawn-disabled-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:196`
 
 > Prann, Erli A pirate leader who took control of one of the Golan II defense platforms protecting the Imperial shipyards at Bilbringi in the aftermath of Grand Admiral Thrawn's defeat.
 — Source: scan pages 41–80; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Prann, Erli A pirate leader who took control of one of the Golan II defense platforms protecting the Imperial shipyards at Bilbringi in the aftermath of Grand Admiral Thrawn's defeat." Source: The Complete Star Wars Encyclopedia, Vol. III, p.42
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.42 — full quote as printed](quotes/v3-p42-prann-erli-a-pirate-leader-who.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:63`
 
 > Force Commander Thrawn returned fire, destroying Progga's vessel.
 — Source: scan pages 41–80; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Force Commander Thrawn returned fire, destroying Progga's vessel." Source: The Complete Star Wars Encyclopedia, Vol. III, p.46
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.46 — full quote as printed](quotes/v3-p46-force-commander-thrawn-returned-fire-destroying.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:93`
 
 > R8 unit: Produced after the defeat of Grand Admiral Thrawn, it was, for a time, intended to have a standard Basic-speaking vocabulator, but this design feature was discarded before release.
 — Source: scan pages 81–120; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "R8 unit: Produced after the defeat of Grand Admiral Thrawn, it was, for a time, intended to have a standard Basic-speaking vocabulator, but this design feature was discarded before release." Source: The Complete Star Wars Encyclopedia, Vol. III, p.113
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.113 — full quote as printed](quotes/v3-p113-r8-unit-produced-after-the-defeat.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:294`
 
 > Five years after the Battle of Endor, one of Grand Admiral Thrawn's Star Destroyers, the Stormhawk, executed a hit-and-fade attack on Saarn, wiping out New Republic personnel.
 — Source: scan pages 121–160; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Five years after the Battle of Endor, one of Grand Admiral Thrawn's Star Destroyers, the Stormhawk, executed a hit-and-fade attack on Saarn, wiping out New Republic personnel." Source: The Complete Star Wars Encyclopedia, Vol. III, p.121
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.121 — full quote as printed](quotes/v3-p121-five-years-after-the-battle-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:50`
 
 > After the Battle of Endor, a few Imperial fleet captains equipped and supplied the base until the defeat of Grand Admiral Thrawn, when it became necessary for free traders to handle the cargo shipments.
 — Source: scan pages 121–160; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "After the Battle of Endor, a few Imperial fleet captains equipped and supplied the base until the defeat of Grand Admiral Thrawn, when it became necessary for free traders to handle the cargo shipments." Source: The Complete Star Wars Encyclopedia, Vol. III, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.127 — full quote as printed](quotes/v3-p127-after-the-battle-of-endor-a.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:92`
 
 > After Thrawn's defeat but before the rise of the clone Emperor, a New Republic commando team including Luke Skywalker and led by Lieutenant Page was sent to Sarahwiee to destroy the facility and erase its computer records.
 — Source: scan pages 121–160; Grand Admiral Thrawn; Luke Skywalker.
 Note (our notes, around the quote): Grand Admiral Thrawn; Luke Skywalker: "After Thrawn's defeat but before the rise of the clone Emperor, a New Republic commando team including Luke Skywalker and led by Lieutenant Page was sent to Sarahwiee to destroy the facility and erase its computer records." Source: The Complete Star Wars Encyclopedia, Vol. III, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.127 — full quote as printed](quotes/v3-p127-after-thrawns-defeat-but-before-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:94`
 
 > After rendering Outbound Flight a derelict and destroying a large part of the Vagaari armada, Thrawn allowed Doriana to return to Coruscant.
 — Source: scan pages 241–280; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "After rendering Outbound Flight a derelict and destroying a large part of the Vagaari armada, Thrawn allowed Doriana to return to Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. III, p.239
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.239 — full quote as printed](quotes/v3-p239-after-rendering-outbound-flight-a-derelict.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:50`
 
 - Note (summary from our notes, not a quotation): Page contents: 1156 words, 24 paragraphs | headings/entries: Thrawn Simulator; Threadneedie Canyon; Three-Eye; Throat; Throgg; Throsen, Moff Gegren
@@ -586,49 +510,41 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Pellaeon found Thrawn to be a complex individual who had a magnificent hologram collection representing some of the galaxy's greatest art treasures, for he believed one could understand—and thus eventually defeat—a species through its art.
 — Source: scan pages 241–280; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Pellaeon found Thrawn to be a complex individual who had a magnificent hologram collection representing some of the galaxy's greatest art treasures, for he believed one could understand—and thus eventually defeat—a species through its art." Source: The Complete Star Wars Encyclopedia, Vol. III, p.240
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.240 — full quote as printed](quotes/v3-p240-pellaeon-found-thrawn-to-be-a.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:57`
 
 > During a climactic confrontation at the Bilbringi shipyards, Thrawn was surprised by the appearance of a fleet of smuggler ships aiding the New Republic, and his forces were defeated.
 — Source: scan pages 241–280; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "During a climactic confrontation at the Bilbringi shipyards, Thrawn was surprised by the appearance of a fleet of smuggler ships aiding the New Republic, and his forces were defeated." Source: The Complete Star Wars Encyclopedia, Vol. III, p.240
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.240 — full quote as printed](quotes/v3-p240-during-a-climactic-confrontation-at-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:59`
 
 > Tschel, Lieutenant A young officer aboard the Imperial Star Destroyer Chimaera, he served as a member of the bridge crew under Captain Pellaeon and Grand Admiral Thrawn during Thrawn's campaign to destroy the New Republic five years after the Battle of Endor.
 — Source: scan pages 241–280; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Tschel, Lieutenant A young officer aboard the Imperial Star Destroyer Chimaera, he served as a member of the bridge crew under Captain Pellaeon and Grand Admiral Thrawn during Thrawn's campaign to destroy the New Republic five years after the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. III, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.266 — full quote as printed](quotes/v3-p266-tschel-lieutenant-a-young-officer-aboard.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:267`
 
 > Vanguard (2) this Imperial I-class Star Destroyer was used by then- Vice Admiral Thrawn to chase Zaarin after Zaarin's failed attempt to kidnap Emperor Palpatine near Coruscant during the Galactic Civil War.
 — Source: scan pages 281–320; Grand Admiral Thrawn; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Grand Admiral Thrawn; Palpatine (Darth Sidious): "Vanguard (2) this Imperial I-class Star Destroyer was used by then- Vice Admiral Thrawn to chase Zaarin after Zaarin's failed attempt to kidnap Emperor Palpatine near Coruscant during the Galactic Civil War." Source: The Complete Star Wars Encyclopedia, Vol. III, p.294
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.294 — full quote as printed](quotes/v3-p294-vanguard-2-this-imperial-i-class.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:153`
 
 > Vermel, Colonel Meizh An Imperial Navy officer who served under Admiral Pellaeon after the death of Grand Admiral Thrawn and the defeat of Admiral Daala.
 — Source: scan pages 281–320; Grand Admiral Thrawn; Admiral Daala.
 Note (our notes, around the quote): Grand Admiral Thrawn; Admiral Daala: "Vermel, Colonel Meizh An Imperial Navy officer who served under Admiral Pellaeon after the death of Grand Admiral Thrawn and the defeat of Admiral Daala." Source: The Complete Star Wars Encyclopedia, Vol. III, p.303
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.303 — full quote as printed](quotes/v3-p303-vermel-colonel-meizh-an-imperial-navy.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:236`
 
 > The usefulness of Victory Star Destroyers was renewed with the return of Grand Admiral Thrawn.
 — Source: scan pages 281–320; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "The usefulness of Victory Star Destroyers was renewed with the return of Grand Admiral Thrawn." Source: The Complete Star Wars Encyclopedia, Vol. III, p.305
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.305 — full quote as printed](quotes/v3-p305-the-usefulness-of-victory-star-destroyers.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:250`
 
 > Xa Fel Located in the heart of the Kanchen sector, this planet surrendered to Admiral Thrawn's military after New Republic forces were defeated in a 30-hour battle.
 — Source: scan pages 321–360; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Xa Fel Located in the heart of the Kanchen sector, this planet surrendered to Admiral Thrawn's military after New Republic forces were defeated in a 30-hour battle." Source: The Complete Star Wars Encyclopedia, Vol. III, p.340
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.340 — full quote as printed](quotes/v3-p340-xa-fel-located-in-the-heart.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:209`
 
 > Grand Admiral Thrawn's plans to destroy the New Republic included the use of the docile ysalamiri.
 — Source: scan pages 361–385; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Grand Admiral Thrawn's plans to destroy the New Republic included the use of the docile ysalamiri." Source: The Complete Star Wars Encyclopedia, Vol. III, p.359
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.359 — full quote as printed](quotes/v3-p359-grand-admiral-thrawns-plans-to-destroy.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:56`
 
 ## The New Essential Guide to Characters (2002)
@@ -640,101 +556,84 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-0
 > He is defeated by his cousin Han Solo and Gaeriel Captison's Bakuran navy.
 — Source: scan pages 1–30.
 Note (our notes, around the quote): Grand Admiral Thrawn; Han Solo — entry/section: Grand Admiral Thrawn declares war: "He is defeated by his cousin Han Solo and Gaeriel Captison's Bakuran navy." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-he-is-defeated-by-his-cousin.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:56`
 
 > The Jedi academy is evacuated and the Great Temple is destroyed.
 — Source: scan pages 1–30; Grand Admiral Thrawn — entry/section: Grand Admiral Thrawn declares war.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Grand Admiral Thrawn declares war: "The Jedi academy is evacuated and the Great Temple is destroyed." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-the-jedi-academy-is-evacuated-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:60`
 
 > Despite a political smear campaign orchestrated by Borsk Fey'lya, Ackbar played a key role in the defeat of Thrawn at Bilbringi and Admiral Krennel at Ciutric.
 — Source: scan pages 1–30; Admiral Ackbar; Grand Admiral Thrawn.
 Note (our notes, around the quote): Admiral Ackbar; Grand Admiral Thrawn: "Despite a political smear campaign orchestrated by Borsk Fey'lya, Ackbar played a key role in the defeat of Thrawn at Bilbringi and Admiral Krennel at Ciutric." Source: The New Essential Guide to Characters, p.17
-![Quote image: The New Essential Guide to Characters, p.17 — full quote as printed](quotes/negc-p17-despite-a-political-smear-campaign-orchestrated.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:81`
 
 > Following Thrawn's defeat, Antilles finally accepted a long-overdue promotion to general.
 — Source: scan pages 1–30; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Following Thrawn's defeat, Antilles finally accepted a long-overdue promotion to general." Source: The New Essential Guide to Characters, p.24
-![Quote image: The New Essential Guide to Characters, p.24 — full quote as printed](quotes/negc-p24-following-thrawns-defeat-antilles-finally-accepted.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:126`
 
 > After Thrawn's defeat, Ysanne Isard's TIE defenders rescued Rogue Squadron from an ambush at Corvis Minor.
 — Source: scan pages 61–90; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "After Thrawn's defeat, Ysanne Isard's TIE defenders rescued Rogue Squadron from an ambush at Corvis Minor." Source: The New Essential Guide to Characters, p.85
-![Quote image: The New Essential Guide to Characters, p.85 — full quote as printed](quotes/negc-p85-after-thrawns-defeat-ysanne-isards-tie.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:137`
 
 > Now set firmly against Grand Admiral Thrawn, Karrde convinced several rival smuggling kingpins to work with him against the Empire.
 — Source: scan pages 91–120; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Now set firmly against Grand Admiral Thrawn, Karrde convinced several rival smuggling kingpins to work with him against the Empire." Source: The New Essential Guide to Characters, p.101
-![Quote image: The New Essential Guide to Characters, p.101 — full quote as printed](quotes/negc-p101-now-set-firmly-against-grand-admiral.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:35`
 
 > Their efforts proved vital in Thrawn's defeat at the Battle of Bilbringi.
 — Source: scan pages 91–120; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Their efforts proved vital in Thrawn's defeat at the Battle of Bilbringi." Source: The New Essential Guide to Characters, p.101
-![Quote image: The New Essential Guide to Characters, p.101 — full quote as printed](quotes/negc-p101-their-efforts-proved-vital-in-thrawns.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:37`
 
 > In order to prevent Thrawn's followers from reaching the outer galaxy, Mara remote-siteered the Jade's Fire into the base's docking bay, destroying her most cherished possession.
 — Source: scan pages 151–180; Grand Admiral Thrawn; Mara Jade Skywalker.
 Note (our notes, around the quote): Grand Admiral Thrawn; Mara Jade Skywalker: "In order to prevent Thrawn's followers from reaching the outer galaxy, Mara remote-siteered the Jade's Fire into the base's docking bay, destroying her most cherished possession." Source: The New Essential Guide to Characters, p.163
-![Quote image: The New Essential Guide to Characters, p.163 — full quote as printed](quotes/negc-p163-in-order-to-prevent-thrawns-followers.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:63`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn: "When Ysanne Isard returned from the grave immediately after the Thrawn crisis, Terrik provided invaluable assistance to New Republic Intelligence by figuring out Isard's "dream ladder"—her step-by-step plan for retaking the Super Star Destroyer Lusankya." Source: The New Essential Guide to Characters, p.183
   — Source: scan pages 151–180. POV: Grand Admiral Thrawn.
-![Quote image: The New Essential Guide to Characters, p.183 — full quote as printed](quotes/negc-p183-when-ysanne-isard-returned-from-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:209`
 
 > Even in death, he had a plan for domination, and it's only through luck that citizens across the galaxy weren't forced to pledge their allegiance to Grand Admiral Thrawn.
 — Source: scan pages 151–180; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Even in death, he had a plan for domination, and it's only through luck that citizens across the galaxy weren't forced to pledge their allegiance to Grand Admiral Thrawn." Source: The New Essential Guide to Characters, p.185
-![Quote image: The New Essential Guide to Characters, p.185 — full quote as printed](quotes/negc-p185-even-in-death-he-had-a.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:221`
 
 > By the Battle of Yavin, Thrawn was captain of the Imperial Star Destroyer Vengeance.
 — Source: scan pages 151–180; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "By the Battle of Yavin, Thrawn was captain of the Imperial Star Destroyer Vengeance." Source: The New Essential Guide to Characters, p.185
-![Quote image: The New Essential Guide to Characters, p.185 — full quote as printed](quotes/negc-p185-by-the-battle-of-yavin-thrawn.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:227`
 
 > Ten months after Yavin, Captain Thrawn survived an insect infestation among the alien S'krrr.
 — Source: scan pages 151–180; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Ten months after Yavin, Captain Thrawn survived an insect infestation among the alien S'krrr." Source: The New Essential Guide to Characters, p.186
-![Quote image: The New Essential Guide to Characters, p.186 — full quote as printed](quotes/negc-p186-ten-months-after-yavin-captain-thrawn.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:234`
 
 > Four years after Endor, following Isard's defeat in the Bacta War, word reached Thrawn that the Empire was on the verge of extinction.
 — Source: scan pages 151–180; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Four years after Endor, following Isard's defeat in the Bacta War, word reached Thrawn that the Empire was on the verge of extinction." Source: The New Essential Guide to Characters, p.186
-![Quote image: The New Essential Guide to Characters, p.186 — full quote as printed](quotes/negc-p186-four-years-after-endor-following-isards.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:236`
 
 > Shortly before the Battle of Derra IV, Colonel Veers's soldiers obliterated the fortified estate of Black Sun Lieutenant Zekka Thyne, greatly impressing Admiral Thrawn.
 — Source: scan pages 181–210; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Shortly before the Battle of Derra IV, Colonel Veers's soldiers obliterated the fortified estate of Black Sun Lieutenant Zekka Thyne, greatly impressing Admiral Thrawn." Source: The New Essential Guide to Characters, p.191
-![Quote image: The New Essential Guide to Characters, p.191 — full quote as printed](quotes/negc-p191-shortly-before-the-battle-of-derra.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:27`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn; Darth Vader (Anakin Skywalker): "On Thrawn's recommendation, Darth Vader reassigned Veers to the Super Star Destroyer Executor to replace a general who had "retired" one month prior." Source: The New Essential Guide to Characters, p.191
   — Source: scan pages 181–210.
-![Quote image: The New Essential Guide to Characters, p.191 — full quote as printed](quotes/negc-p191-on-thrawns-recommendation-darth-vader-reassigned.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:29`
 
 > An insane clone of the Jedi Master Jorus C'baoth, Joruus assisted Grand Admiral Thrawn in waging war against the New Republic before being killed by Mara Jade on Wayland.
 — Source: scan pages 181–210; Joruus C'baoth; Grand Admiral Thrawn; Mara Jade Skywalker.
 Note (our notes, around the quote): Joruus C'baoth; Grand Admiral Thrawn; Mara Jade Skywalker: "An insane clone of the Jedi Master Jorus C'baoth, Joruus assisted Grand Admiral Thrawn in waging war against the New Republic before being killed by Mara Jade on Wayland." Source: The New Essential Guide to Characters, p.208
-![Quote image: The New Essential Guide to Characters, p.208 — full quote as printed](quotes/negc-p208-an-insane-clone-of-the-jedi.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:146`
 
 > Following the defeat of Thrawn, Drayson helped create the top-secret intelligence agency Alpha Blue, which uncovered vital information on Nil Spaar during the Black Fleet Crisis.
 — Source: scan pages 181–210; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Following the defeat of Thrawn, Drayson helped create the top-secret intelligence agency Alpha Blue, which uncovered vital information on Nil Spaar during the Black Fleet Crisis." Source: The New Essential Guide to Characters, p.208
-![Quote image: The New Essential Guide to Characters, p.208 — full quote as printed](quotes/negc-p208-following-the-defeat-of-thrawn-drayson.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:148`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -752,19 +651,16 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > The only non-Human ever named one of the Emperor's grand admirals, Thrawn has the pale blue skin and crimson eyes of the Chiss.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Grand Admiral Thrawn — entry/section: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Grand Admiral Thrawn: "The only non-Human ever named one of the Emperor's grand admirals, Thrawn has the pale blue skin and crimson eyes of the Chiss." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159 — full quote as printed](quotes/d043-s159-the-only-non-human-ever-named.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:299`
 
 > He returns five years later to apply his military genius to destroying the New Republic.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Grand Admiral Thrawn — entry/section: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Grand Admiral Thrawn: "He returns five years later to apply his military genius to destroying the New Republic." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159 — full quote as printed](quotes/d043-s159-he-returns-five-years-later-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:301`
 
 > Rukh, a young Noghri, impressed Grand Admiral Thrawn and was selected to serve as the grand admiral's personal bodyguard.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Rukh; Grand Admiral Thrawn — entry/section: Rukh.
 Note (our notes, around the quote): Rukh; Grand Admiral Thrawn — entry/section: Rukh: "Rukh, a young Noghri, impressed Grand Admiral Thrawn and was selected to serve as the grand admiral's personal bodyguard." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.160
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.160 — full quote as printed](quotes/d043-s160-rukh-a-young-noghri-impressed-grand.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:315`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 241–300)
@@ -772,7 +668,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Chewbacca has remained Han's friend through countless adventures, helping to rescue him from the clutches of the gangster Jabba the Hutt, facing the three-eyed Trioculus, recruiting the smuggler Talon Karrde and the assassin Mara Jade to fight Grand Admiral Thrawn, destroying the Wayland weapons and cloning facilities, and even helping to raise Han's children.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Chewbacca; Mara Jade Skywalker; Grand Admiral Thrawn.
 Note (our notes, around the quote): Chewbacca; Mara Jade Skywalker; Grand Admiral Thrawn: "Chewbacca has remained Han's friend through countless adventures, helping to rescue him from the clutches of the gangster Jabba the Hutt, facing the three-eyed Trioculus, recruiting the smuggler Talon Karrde and the assassin Mara Jade to fight Grand Admiral Thrawn, destroying the Wayland weapons and cloning facilities, and even helping to raise Han's children." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243 — full quote as printed](quotes/d046-s243-chewbacca-has-remained-hans-friend-through.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:46`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -789,7 +684,6 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-06
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Talon Karrde; Grand Admiral Thrawn — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Talon Karrde; Grand Admiral Thrawn — entry/section: Smugglers' Alliance: "When Karrde learned that Thrawn was after the long-lost Katana fleet (Old Republic dreadnaughts that Karrde had himself discovered some fifteen years before) he elected to sell their location to the New Republic instead," Source: *Star Wars Gamer 03* (SWRPG d20), scan p.54
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.54 — full quote as printed](quotes/d052-s54-when-karrde-learned-that-thrawn-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:323`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–105)
@@ -797,7 +691,6 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-06
 > Chains of Command Grand ApmigaAt THRAWN & CAPTAIN GILAD PELLAEON The commanders of the Star Destroyer Chimaero were poured into those big comfy leather chairs Each can easily hold his own in ground combat (Thrawn even draws des tiny by himself), especially in this environ ment.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Chains of Command Grand ApmigaAt THRAWN & CAPTAIN GILAD PELLAEON The commanders of the Star Destroyer Chimaero were poured into those big comfy leather chairs Each can easily hold his own in ground combat (Thrawn even draws des tiny by himself), especially in this environ ment." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.94
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.94 — full quote as printed](quotes/d053-s94-chains-of-command-grand-apmigaat-thrawn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-061-105.md:181`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -815,7 +708,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-11
 > Thrawn and his fleet destroyed the Outbound Flight vessel.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Thrawn and his fleet destroyed the Outbound Flight vessel." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.98
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.98 — full quote as printed](quotes/d054-s98-thrawn-and-his-fleet-destroyed-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-118.md:220`
 
 - Note (summary from our notes, not a quotation): Page contents: Chiss: Luke and Mara learned the species name at Nirauan; Chiss clawcraft phalanx led by a Human arrived at Garqi; four ruling families Csapla, Nuruodo, Inrokini, Sabosen; capital Csaplar; no money, 28 colonial Phalanxes under Syndics; Syndic Mitth'raw'nuruodo's Household Phalanx allied with Imperials; hyperspace anchor-point beacon network, no navicomputers; Thrawn's beacon in the Imperial Records Library tracked Bastion; Spiker the Tatooine swoop jockey suspected to be a Chiss (hand-read)
@@ -825,13 +717,11 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-11
 > Grand Admiral Thrawn employed a tiny Chiss beacon in the imperial Records Library so that his forces could track the location of the secret imperial capital world of Bastion years after his defeat.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Grand Admiral Thrawn employed a tiny Chiss beacon in the imperial Records Library so that his forces could track the location of the secret imperial capital world of Bastion years after his defeat." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.100
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.100 — full quote as printed](quotes/d054-s100-grand-admiral-thrawn-employed-a-tiny.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-118.md:232`
 
 > The only non-Human to achieve this imperial rank, Thrawn's unparalleled skill and razor-sharp mind were such that the Empéire overlooked its own anti-alien policies to grant him his position.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "The only non-Human to achieve this imperial rank, Thrawn's unparalleled skill and razor-sharp mind were such that the Empéire overlooked its own anti-alien policies to grant him his position." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.100
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.100 — full quote as printed](quotes/d054-s100-the-only-non-human-to-achieve.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-118.md:234`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -851,14 +741,12 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 (Fragment completed 2026-11-17 with the full excerpt, word for word from 19ABY: Red Sky, Blue Flame (Elaine Cunningham) (text copy `MEGA_All_Short_Stories_19ABY_Red_Sky_Blue_Flame_Elaine_Cunningham_epub`), which is not the work named in the citation above; check the citation.)
 Note (our notes, around the quote): Grand Admiral Thrawn: ""Yes, the same Imperial officer who 'found' the exiled Thrawn and brought him to Coruscant," Jag said impatiently, "and the captain of the Star Destroyer who accompanied Grand Admiral Thrawn to the so-called Unknown Regions after his supposed fall froen Imperial grace." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.16
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.16 — full quote as printed](quotes/d056-s16-yes-the-same-imperial-officer-who.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:95`
 
 > “He will always be with us, as long as we can learn from his example.”  They considered this. “I had always dreamed of serving Thrawn,” Shawnkyr said slowly. “That is not to be. But I, too, can learn from example. It took the Chiss too long to recognize the leader he was, and learn to follow. This mistake is not one I will repeat.”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Jagged Fel — entry/section: Jag on Thrawn to the cadets.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 19ABY: Red Sky, Blue Flame (Elaine Cunningham) (text copy `MEGA_All_Short_Stories_19ABY_Red_Sky_Blue_Flame_Elaine_Cunningham_epub`).)
 Note (our notes, around the quote): Jagged Fel — entry/section: Jag on Thrawn to the cadets: "“He will always be with us, as long as we can learn from his example.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.18 — full quote as printed](quotes/d056-s18-he-will-always-be-with-us.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:107`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–108)
@@ -894,25 +782,21 @@ Our notes: `notes/materials/037-sw-d20-folder/153-voss-parck.md:10`
 > Parck commanded the Victory-class Star Destroyer Strikefast on a long-range exploratory expedition that would ultimately test his leadership and devotion to duty. Yet Parck's career was nothing special until a chance discovery on a deserted world on the edge of the Unknown Regions brought him up through the ranks at lightspeed. The young captain had disobeyed a direct order, but in the process had discovered Thrawn, a brilliant Chiss military strategist who agreed to join the Empire and quickly found favor with Palpatine himself, taking Parck along on his coattails.
 — Source: Characters/Voss Parck.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Voss Parck; Grand Admiral Thrawn; Palpatine (Darth Sidious) — entry/section: Voss Parck discovers Thrawn: "Parck commanded the Victory-class Star Destroyer Strikefast on a long-range exploratory expedition that would ultimately test his leadership and devotion to duty. Yet Parck's career was nothing special until a chance discovery on a deserted world on the edge of the Unknown Regions brought him up through the ranks at lightspeed. The young captain had disobeyed a direct order, but in the process had discovered Thrawn, a brilliant Chiss military strategist who agreed to join the Empire and quickly found favor with Palpatine himself, taking Parck along on his coattails." Source: *Voss Parck* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Voss Parck* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d153-s1-parck-commanded-the-victory-class-star.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/153-voss-parck.md:14`
 
 - Note (summary from our notes, not a quotation): Voss Parck; Grand Admiral Thrawn; Palpatine (Darth Sidious) — entry/section: Voss Parck and Thrawn's exile: "When the Emperor "exiled" Thrawn to the Unknown Regions (ostensibly because the old man feared the Grand Admiral's growing power), he also demoted Parck to commander and sent him off with Thrawn and a small fleet. Secretly, the Emperor ensured that Thrawn was well supplied, for reasons known only to Parck, the Chiss Grand Admiral, and a few other select individuals. Parck proved extremely useful to Thrawn, who valued his fairly keen mind (for a Human) and his unwavering loyalty. When Thrawn launched his campaign to retake the Empire, he left Voss Parck in charge of a secret installation in the Unknown Regions on the planet Nirauan, where the Imperials were to wait for Thrawn's self-prophesied return." Source: *Voss Parck* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Voss Parck.pdf [Star Wars Roleplaying Game Revised Core (d20,.
-![Quote image: *Voss Parck* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d153-s1-when-the-emperor-exiled-thrawn-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/153-voss-parck.md:16`
 
 > Eighteen years after the Battle of Endor, Voss Parck still commands the secret base, helping oversee the ever-expanding territories taken by Chiss expeditionary forces loyal to the memory of Thrawn. He is rarely without his right-hand man, the Chiss named Stent. Neither should be underestimated as a foe on the battlefield or at the conference table, but Parck knows where the power ultimately lies -- with Mitth'raw'nuruodo, be he living or dead.
 — Source: Characters/Voss Parck.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Voss Parck; Grand Admiral Thrawn; Stent — entry/section: Voss Parck at Nirauan: "Eighteen years after the Battle of Endor, Voss Parck still commands the secret base, helping oversee the ever-expanding territories taken by Chiss expeditionary forces loyal to the memory of Thrawn. He is rarely without his right-hand man, the Chiss named Stent. Neither should be underestimated as a foe on the battlefield or at the conference table, but Parck knows where the power ultimately lies -- with Mitth'raw'nuruodo, be he living or dead." Source: *Voss Parck* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Voss Parck* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d153-s1-eighteen-years-after-the-battle-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/153-voss-parck.md:18`
 
 ## Jedi Counselling/Jedi Counseling 18 - Cortosis Bullets.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn; Joruus C'baoth — entry/section: Ysalamiri in a backpack: "A: It sounds like your player has read Timothy Zahn's "Thrawn Trilogy," in which Grand Admiral Thrawn uses ysalamiri in a cage to protect himself from Joruus C'baoth. There's nothing technically wrong with what he's done, but if you want to take the ysalamiri away, the smart thing to do is have someone simply shoot them. Or you could just have the character caught in an explosion or two. If he fails his save, his backpack -- and anything in it -- should also suffer damage." Source: *Jedi Counseling 18 - Cortosis Bullets* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 18 - Cortosis Bullets.pdf [Star Wars Rol.
-![Quote image: *Jedi Counseling 18 - Cortosis Bullets* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d181-s3-a-it-sounds-like-your-player.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/181-jedi-counseling-18-cortosis-bullets.md:24`
 
 ## Jedi Counselling/Jedi Counseling 88.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -922,7 +806,6 @@ Our notes: `notes/materials/037-sw-d20-folder/181-jedi-counseling-18-cortosis-bu
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 88 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_88_pdf_5cb6850e70`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 88 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_88_pdf_5cb6850e70`).)
 Note (our notes, around the quote): Luke Skywalker; Grand Admiral Thrawn — entry/section: Lightsaber Sweep vs Thrawn's Ysalamiri: "A: Yes. The Ysalamiri ability prohibits characters within 6 squares from spending Force Points, and it prevents any character within 6 squares from being affected by a Force power. In the scenario you describe above, Luke does neither: He is not within 6 squares of Thrawn when he uses his Force Point to use Lightsaber Sweep, and Lightsaber Sweep itself does not actually affect enemies -- it just boosts Luke by allowing him to make more attacks than normal." Source: *Jedi Counseling 88* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 88* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d258-s3-a-yes-the-ysalamiri-ability-prohibits.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/258-jedi-counseling-88.md:34`
 
 ## Jedi Counselling/Jedi Counseling 90.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -933,7 +816,6 @@ Our notes: `notes/materials/037-sw-d20-folder/261-jedi-counseling-90.md:28`
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn — entry/section: Thrawn opens the door, then switches allies: "A: Yes. Opening a door and this commander effect are both "end of turn" effects, and the acting player may resolve these in whatever order he desires. Thus, he could move Thrawn adjacent to the door, end Thrawn's turn, open the door (end of turn effect), and finally switch the position of two characters (end of turn effect)." Source: *Jedi Counseling 90* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 90.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 90* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d261-s3-a-yes-opening-a-door-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/261-jedi-counseling-90.md:30`
 
 > Q: What if you have a Large or Huge character whose closest squares are within 6 squares of Thrawn, but whose other squares are beyond this range? Can an enemy affect them with Force powers? A: No. If any part of a character is within 6 squares of Thrawn, they are affected by Ysalamiri and thus gain Force Immunity and can't spend Force Points. Q: Let's say you have Emperor Palpatine under the effects of Ysalamiri. Would an ally more than 6 squares from Thrawn be able to use Emperor Palpatine's Force Points? A: Yes. In this case, the ally is the character who is actually spending the Force Point ­­ Emperor Palpatine is just the one who's paying for it. Q: In the same situation, would Emperor Palpatine gain the benefits of Force Renewal while within the Ysalamiri's area of effect? A: Yes. Emperor Palpatine can't spend Force Points and he has Force Immunity, and that means that enemies can't affect him with Force powers. Force Renewal doesn't meet either of these two conditions: Palpatine doesn't have to use a Force Point to activate this Force power, and no enemy is using it on him.
@@ -941,7 +823,6 @@ Our notes: `notes/materials/037-sw-d20-folder/261-jedi-counseling-90.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 90 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_90_pdf_f941e32fa1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 90 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_90_pdf_f941e32fa1`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Admiral Thrawn — entry/section: Emperor Palpatine's Force Points under Ysalamiri: "A: Yes. In this case, the ally is the character who is actually spending the Force Point -- Emperor Palpatine is just the one who's paying for it." Source: *Jedi Counseling 90* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 90* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d261-s3-a-yes-in-this-case-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/261-jedi-counseling-90.md:32`
 
 ## Jedi Counselling/Jedi Counseling 93.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -950,7 +831,6 @@ Our notes: `notes/materials/037-sw-d20-folder/261-jedi-counseling-90.md:32`
 — Source: Jedi Counselling/Jedi Counseling 93.pdf [Star Wars Roleplaying Game Revis.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 93 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_93_pdf_946a2ebf8a`).)
 Note (our notes, around the quote): Prince Xizor; Grand Admiral Thrawn — entry/section: Xizor's Bodyguard is Bodyguard: "A: The latest errata will note that any special ability whose name includes Bodyguard (such as Emperor's Bodyguard, Xizor's Bodyguard, Thrawn's Bodyguard, and so on) is treated as the Bodyguard ability for all purposes except as noted on the stat card. Thus, all rules and clarifications regarding Bodyguard will apply, its effects will not stack with any other Bodyguard ability, and so forth." Source: *Jedi Counseling 93* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 93* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d264-s3-a-the-latest-errata-will-note.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/264-jedi-counseling-93.md:29`
 
 ## Jedi Counselling/Jedi Counseling 94.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -967,7 +847,6 @@ Our notes: `notes/materials/037-sw-d20-folder/265-jedi-counseling-94.md:50`
   — Source: Jedi Counselling/Jedi Counseling 94.pdf [Star Wars Roleplaying Game Revis.
 (Q: In the same situation, does Ysalamiri apply to every allied character on the map?)
 (A: No. Even though Ysalamiri has a range of 6 squares, it is not a commander effect." Source: *Jedi Counseling 94* (SWRPG d20 Revised Core), scan p.4)
-![Quote image: *Jedi Counseling 94* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d265-s4-q-if-mas-amedda-is-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/265-jedi-counseling-94.md:51`
 
 ## Jedi Counselling/Jedi Counseling 95.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -980,7 +859,6 @@ Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:43`
 
 - Note (summary from our notes, not a quotation): Exar Kun; Grand Admiral Thrawn — entry/section: Exar Kun's spirit can't enter where the Force is blocked: "For an "in-universe" explanation, imagine that Exar Kun's spirit is still present on the battlefield after he is defeated. Every time a character is about to act (that is, activates), Exar Kun uses his powers to interfere with them and block their connection to the Force. However, he can't enter a place where the Force is blocked, such as near ysalamiri, so he can't reach the character when he wants to disrupt their actions." Source: *Jedi Counseling 96* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 96.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 96* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d267-s2-for-an-in-universe-explanation-imagine.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/267-jedi-counseling-96.md:26`
 
 ## Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 2 - Venerated.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -997,7 +875,6 @@ Our notes: `notes/materials/037-sw-d20-folder/646-heros-guide-web-enhancement-ch
 
 - Note (summary from our notes, not a quotation): Palpatine (Darth Sidious) — entry/section: Clone template: Emperor's backup clone bodies: "From time to time, clones were created to act as "backup bodies" in case of an important individual's death (as in the case of both the Emperor and Thrawn himself), but this technique was rarely used due to the unavailability of cloning technology and the difficulties involved in growing clones too quickly." Source: *Hero's Guide Web Enhancement - Character Templates and Prestige Classes* (SWRPG d20 Revised Core), scan p.2
   — Source: Sourcebooks/Sourcebook Web Enhancements/Hero's Guide Web Enhancement - Ch.
-![Quote image: *Hero's Guide Web Enhancement - Character Templates and Prestige Classes* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d646-s2-from-time-to-time-clones-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/646-heros-guide-web-enhancement-character-templates-and.md:19`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1009,7 +886,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > During Grand Admiral Thrawn's campaign, Imperial forces seized a region of space bordering Abregado-rae. It appeared as though Thrawn might capture the world and advance on Coruscant with a twin-pincer tactic through the galactic northern and southern quadrants. His offensive collapsed at Bilbringi.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Grand Admiral Thrawn — entry/section: Thrawn's campaign near Abregado-rae.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Thrawn's campaign near Abregado-rae: "During Grand Admiral Thrawn's campaign, Imperial forces seized a region of space bordering Abregado-rae. It appeared as though Thrawn might capture the world and advance on Coruscant with a twin-pincer tactic through the galactic northern and southern quadrants. His offensive collapsed at Bilbringi." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.37
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.37 — full quote as printed](quotes/d665-s37-during-grand-admiral-thrawns-campaign-imperial.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:276`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1031,13 +907,11 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:30
 > Though various Imperial task forces arise to challenge the New Republic, including the cunning Grand Admiral Thrawn and the infamous Admiral Daala, their efforts ultimately fail, and the military leader of what's left of the Empire, Grand Admiral Pellaeon, sues for peace with the New Republic.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Grand Admiral Thrawn; Admiral Daala; Gilad Pellaeon — entry/section: Imperial task forces after Endor: "Though various Imperial task forces arise to challenge the New Republic, including the cunning Grand Admiral Thrawn and the infamous Admiral Daala, their efforts ultimately fail, and the military leader of what's left of the Empire, Grand Admiral Pellaeon, sues for peace with the New Republic." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115 — full quote as printed](quotes/d668-s115-though-various-imperial-task-forces-arise.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:306`
 
 > Talon Karrde's Smugglers' Alliance, for example, is more of a guild than a faction. Even though it includes a great many members scattered throughout the galaxy, the group was founded to stand against the threat of Grand Admiral Thrawn. With Thrawn gone, the Smugglers' Alliance had little reason to stay together, and it ceased to exist.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Talon Karrde; Grand Admiral Thrawn — entry/section: Talon Karrde's Smugglers' Alliance: "Talon Karrde's Smugglers' Alliance, for example, is more of a guild than a faction. Even though it includes a great many members scattered throughout the galaxy, the group was founded to stand against the threat of Grand Admiral Thrawn. With Thrawn gone, the Smugglers' Alliance had little reason to stay together, and it ceased to exist." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115 — full quote as printed](quotes/d668-s115-talon-karrdes-smugglers-alliance-for-example.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:310`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -1055,13 +929,11 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-
 > Grand Admiral Thrawn used ysalamiri as portable defenses against Force-users. To do this, he had Imperial engineers build pipe frames to carry them. The contraption was small enough to be worn on an Imperial officer’s back, allowing him to move with the ysalamiri and its defensive anti-Force zones.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Grand Admiral Thrawn — entry/section: Ysalamiri: Thrawn's Frames.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Ysalamiri: Thrawn's Frames: "Grand Admiral Thrawn used ysalamiri as portable defenses against Force-users. To do this, he had Imperial engineers build pipe frames to carry them. The contraption was small enough to be worn on an Imperial officer’s back, allowing him to move with the ysalamiri and its defensive anti-Force zones." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.133
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.133 — full quote as printed](quotes/d672-s133-grand-admiral-thrawn-used-ysalamiri-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-162.md:78`
 
 > Prior to Grand Admiral Thrawn’s assault on the New Republic, ysalamiri were unknown throughout the galaxy. Even on Myrkr, the creature's ability to push back the Force was just a rumor until the Grand Admiral began using ysalamiri as a defense against Force-users.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Grand Admiral Thrawn — entry/section: Ysalamiri: Era Notes.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Ysalamiri: Era Notes: "Prior to Grand Admiral Thrawn’s assault on the New Republic, ysalamiri were unknown throughout the galaxy. Even on Myrkr, the creature's ability to push back the Force was just a rumor until the Grand Admiral began using ysalamiri as a defense against Force-users." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.133
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.133 — full quote as printed](quotes/d672-s133-prior-to-grand-admiral-thrawn-s.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-162.md:80`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1073,7 +945,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > The Chiss are a near-Human species hailing from the planet Csilla in the Unknown Regions. Their existence was a mystery to the galaxy at large until some five years after the Battle of Endor when Grand Admiral Thrawn, a Chiss, rallied the scattered Imperial forces and almost destroyed the New Republic. Even then, Thrawn's species remained virtually unknown until a decade later.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Grand Admiral Thrawn — entry/section: Chiss.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Chiss: "The Chiss are a near-Human species hailing from the planet Csilla in the Unknown Regions. Their existence was a mystery to the galaxy at large until some five years after the Battle of Endor when Grand Admiral Thrawn, a Chiss, rallied the scattered Imperial forces and almost destroyed the New Republic. Even then, Thrawn's species remained virtually unknown until a decade later." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.37
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.37 — full quote as printed](quotes/d673-s37-the-chiss-are-a-near-human.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:200`
 
 - Note (summary from our notes, not a quotation): Page contents: Chiss society (four ruling families; Thrawn's Nuruodo family; Outbound Flight), personality, physical description. (hand-read)
@@ -1083,13 +954,11 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > Chiss society is controlled by four ruling “families”—not true biological groups, but effectively four separate branches of government. The Csapla clan dictates colonial issues, natural resources, and agriculture; the Nuruodo family (the clan of the famed Grand Admiral Thrawn) controls the military and foreign affairs; the Inrokini handle industry, the sciences, communication, and nonmilitary technology; and the Sabosen clan oversees justice, public health, and education. Chiss codes of conduct forbid them to strike first. (Thrawn violated this code by executing a preemptive strike against the Outbound Flight project, a Jedi expedition launched just before the fall of the Old Republic. His exile eventually brought him to the attention of the Emperor.)
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi.
 Note (our notes, around the quote): Grand Admiral Thrawn; Palpatine (Darth Sidious) — entry/section: Chiss: Ruling Families and Outbound Flight: "Chiss society is controlled by four ruling “families”—not true biological groups, but effectively four separate branches of government. The Csapla clan dictates colonial issues, natural resources, and agriculture; the Nuruodo family (the clan of the famed Grand Admiral Thrawn) controls the military and foreign affairs; the Inrokini handle industry, the sciences, communication, and nonmilitary technology; and the Sabosen clan oversees justice, public health, and education. Chiss codes of conduct forbid them to strike first. (Thrawn violated this code by executing a preemptive strike against the Outbound Flight project, a Jedi expedition launched just before the fall of the Old Republic. His exile eventually brought him to the attention of the Emperor.)" Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.38
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.38 — full quote as printed](quotes/d673-s38-chiss-society-is-controlled-by-four.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:207`
 
 > Chiss have long three-part names, which they abbreviate when dealing with non-Chiss. Case in point, the Chiss named Mitth’raw’nuruodo is better known as Thrawn.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Grand Admiral Thrawn — entry/section: Chiss: Example Names.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Chiss: Example Names: "Chiss have long three-part names, which they abbreviate when dealing with non-Chiss. Case in point, the Chiss named Mitth’raw’nuruodo is better known as Thrawn." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.39
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.39 — full quote as printed](quotes/d673-s39-chiss-have-long-three-part-names.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:214`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -1101,7 +970,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > A space battle in orbit over their world led to a starship crash that contaminated the planet with toxic chemicals. The Noghri faced famine and extinction when a black-garbed visitor from the stars arrived: Darth Vader. He promised to save their dying homeworld; in return, the Noghri pledged to serve him and the Empire. The Noghri served Vader as his secret assassins for decades. Five years after Vader's death, one of them recognized Leia Organa-Solo as Darth Vader’s daughter. They turned from serving the Empire to serving “Lady Vader.” Several clans of Noghri remain dedicated to the protection of Leia and her family well into The New Jedi Order era. The Noghri rarely travel the galaxy alone. During the Galactic Civil War, they are always found in the company of Darth Vader's agents or (briefly) with the forces of Grand Admiral Thrawn.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Leia Organa Solo; Grand Admiral Thrawn — entry/section: Noghri: "A space battle in orbit over their world led to a starship crash that contaminated the planet with toxic chemicals. The Noghri faced famine and extinction when a black-garbed visitor from the stars arrived: Darth Vader. He promised to save their dying homeworld; in return, the Noghri pledged to serve him and the Empire. The Noghri served Vader as his secret assassins for decades. Five years after Vader's death, one of them recognized Leia Organa-Solo as Darth Vader’s daughter. They turned from serving the Empire to serving “Lady Vader.” Several clans of Noghri remain dedicated to the protection of Leia and her family well into The New Jedi Order era. The Noghri rarely travel the galaxy alone. During the Galactic Civil War, they are always found in the company of Darth Vader's agents or (briefly) with the forces of Grand Admiral Thrawn." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.114
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.114 — full quote as printed](quotes/d673-s114-a-space-battle-in-orbit-over.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-061-120.md:289`
 
 - Note (summary from our notes, not a quotation): Page contents: Noghri (example names incl. Cakhmaim, Khabarakh; bodyguards of Vader, Thrawn, Leia) traits; Nosaurian. (hand-read)
@@ -1141,7 +1009,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:
 > You can put the weapon away, Major. The Mistryl Shadow Guard does not kill casually or without cause.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): Flim (Thrawn impostor) — entry/section: Pull quote: the Thrawn stand-in on the Mistryl: ""You can put the weapon away, Major. The Mistryl Shadow Guard does not kill casually or without cause." —The Imperial Remnant's Grand Admiral Thrawn stand-in" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.122
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.122 — full quote as printed](quotes/d715-s122-you-can-put-the-weapon-away.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:21`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -1175,7 +1042,6 @@ Our notes: `notes/materials/037-sw-d20-folder/724-scavengers-guide-to-droids-sca
 > The period after the defeat of Grand Admiral Thrawn and his Imperial fleet at the Battle of Bilbringi allowed many of the New Republic's organizations to breathe more easily.
 — Source: Sourcebooks/Scavenger's Guide to Droids.pdf [Star Wars Roleplaying Game S; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "The period after the defeat of Grand Admiral Thrawn and his Imperial fleet at the Battle of Bilbringi allowed many of the New Republic's organizations to breathe more easily." Source: *Scavenger's Guide to Droids* (SWRPG Saga Edition), scan p.129
-![Quote image: *Scavenger's Guide to Droids* (SWRPG Saga Edition), scan p.129 — full quote as printed](quotes/d724-s129-the-period-after-the-defeat-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/724-scavengers-guide-to-droids-scan-121-161.md:56`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1211,7 +1077,6 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-0
 > Named for Grand Admiral Gilad Pellaeon, a brilliant Imperial officer who studied under the tutelage of Grand Admiral Thrawn, the Pellaeon-class Star Destroyer is one of the largest and most powerful vessels in the Imperial Fleet.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "Named for Grand Admiral Gilad Pellaeon, a brilliant Imperial officer who studied under the tutelage of Grand Admiral Thrawn, the Pellaeon-class Star Destroyer is one of the largest and most powerful vessels in the Imperial Fleet." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.100
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.100 — full quote as printed](quotes/d727-s100-named-for-grand-admiral-gilad-pellaeon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-061-120.md:267`
 
 - Note (summary from our notes, not a quotation): Page contents: Lancer-class Frigate (Kuat Drive Yards) stat block; history (antifighter escort after Yavin; fire-control malfunctions; considered a failure; Grand Admiral Thrawn used Lancers to raid New Republic worlds; the Rebel-captured Fowler); Capabilities (picket vessel); tactical fire (halves small ships' SR). (hand-read)
@@ -1233,7 +1098,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > With a powerful fleet, Thrawn operates independently, returning to known space only infrequently to resupply and report.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: The Force Unleashed Campaign Guide (Saga): "With a powerful fleet, Thrawn operates independently, returning to known space only infrequently to resupply and report." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.192
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.192 — full quote as printed](quotes/d729-s192-with-a-powerful-fleet-thrawn-operates.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:122`
 
 - Note (summary from our notes, not a quotation): Page contents: Admiral Thrawn stat block; Chiss sidebar and Chiss Species Traits. Inquisitor Tremayne begins. (hand-read)
@@ -1247,7 +1111,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks The Unknown Regions (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_The_Unknown_Regions_pdf_7392042c44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks The Unknown Regions (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_The_Unknown_Regions_pdf_7392042c44`).)
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: The Unknown Regions (Saga): "The most famous Chiss, Grand Admiral Thrawn, is legendary for his ability to outthink his opponents by studying the smallest details." Source: *The Unknown Regions* (SWRPG Saga Edition), scan p.125
-![Quote image: *The Unknown Regions* (SWRPG Saga Edition), scan p.125 — full quote as printed](quotes/d730-s125-the-most-famous-chiss-grand-admiral.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-121-180.md:32`
 
 - Note (summary from our notes, not a quotation): Page contents: Chiss motivations cont. (clawcraft, Nuruodo/Csapla/Inrokini/Sabosen families; no-first-strike doctrine; Cheunh); Methods (CEDF, Household and Colonial Phalanxes, 28 colony worlds); History (Brotherhood of Darkness brings Chiss to Thule c. 1,000 BBY; Thrawn). (hand-read)
@@ -1257,13 +1120,11 @@ Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-121-1
 > In 27 BBY, Thrawn collaborates with a representative from Chancellor Palpatine's Republic to destroy the Outbound Flight mission as well as a substantial Vagaari armada.
 — Source: Sourcebooks/The Unknown Regions.pdf [Star Wars Roleplaying Game Saga Edit.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Admiral Thrawn — entry/section: The Unknown Regions (Saga): "In 27 BBY, Thrawn collaborates with a representative from Chancellor Palpatine's Republic to destroy the Outbound Flight mission as well as a substantial Vagaari armada." Source: *The Unknown Regions* (SWRPG Saga Edition), scan p.126
-![Quote image: *The Unknown Regions* (SWRPG Saga Edition), scan p.126 — full quote as printed](quotes/d730-s126-in-27-bby-thrawn-collaborates-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-121-180.md:44`
 
 > As Palpatine's newest grand admiral, Thrawn begins subjugating the Unknown Regions in the Empire's name, using Imperial Star Destroyers alongside the native forces of his loyal Household Phalanx.
 — Source: Sourcebooks/The Unknown Regions.pdf [Star Wars Roleplaying Game Saga Edit; Palpatine (Darth Sidious); Grand Admiral Thrawn.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Admiral Thrawn: "As Palpatine's newest grand admiral, Thrawn begins subjugating the Unknown Regions in the Empire's name, using Imperial Star Destroyers alongside the native forces of his loyal Household Phalanx." Source: *The Unknown Regions* (SWRPG Saga Edition), scan p.127
-![Quote image: *The Unknown Regions* (SWRPG Saga Edition), scan p.127 — full quote as printed](quotes/d730-s127-as-palpatines-newest-grand-admiral-thrawn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-121-180.md:57`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1271,7 +1132,6 @@ Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-121-1
 > The vicious Admiral Thrawn, intelligence agencies, bounty hunters, rival smugglers, and crime lords all had it out for Karrde, who proved smart (and lucky) enough to evade them aff and thrive.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Grand Admiral Thrawn. POV: Grand Admiral Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn: "The vicious Admiral Thrawn, intelligence agencies, bounty hunters, rival smugglers, and crime lords all had it out for Karrde, who proved smart (and lucky) enough to evade them aff and thrive." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.90
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.90 — full quote as printed](quotes/d731-s90-the-vicious-admiral-thrawn-intelligence-agencies.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-061-120.md:221`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–162)
@@ -1343,7 +1203,6 @@ Our notes: `notes/materials/038-star-wars-insider/036-ins036.md:287`
 > Thrawn's battle nearly ended in disaster when Cbaoth petulantly seized control of the Beil cose’s turbolaser batteries and focused them all on a single vessel, a small New Republic craft that had had the effrontery to strike at his flag- Ship, The vessel was destroyed, but Chacth's nearmutiny at Taanab was a harbinger of the unpredictable bravado that would later trigger the descent of Thrawn's pet Jedi into self-destructive madness.
 — Source: Star Wars Insider #36 (1998); Grand Admiral Thrawn — entry/section: Star Wars Insider 036 (1998).
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Star Wars Insider 036 (1998): "Thrawn's battle nearly ended in disaster when Cbaoth petulantly seized control of the Beil cose’s turbolaser batteries and focused them all on a single vessel, a small New Republic craft that had had the effrontery to strike at his flag- Ship, The vessel was destroyed, but Chacth's nearmutiny at Taanab was a harbinger of the unpredictable bravado that would later trigger the descent of Thrawn's pet Jedi into self-destructive madness." Source: *Star Wars Insider #36* (1998), p.52
-![Quote image: *Star Wars Insider #36* (1998), p.52 — full quote as printed](quotes/ins036-p52-thrawns-battle-nearly-ended-in-disaster.jpg)
 Our notes: `notes/materials/038-star-wars-insider/036-ins036.md:289`
 
 > start three to five years after Jedi
@@ -1424,7 +1283,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:458`
 > The rest of the Thrawn Trilogy tells how Mara comes to terms with her past, but along the way there's action galore: Mara and Luke team up for a thrilling jailbreak aboard the Star Destroyer Chimaera in Dark Force Rising, and she faces down Joruus C'baoth and kills the clone Luuke Skywalker at the climax of The Last Command, simultaneously saving Luke and freeing herself from the Emperor's hold.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Mara Jade Skywalker; Luke Skywalker; Joruus C'baoth; Grand Admiral Thrawn; Palpatine (Darth Sidious) — entry/section: Mara kills Luuke: "The rest of the Thrawn Trilogy tells how Mara comes to terms with her past, but along the way there's action galore: Mara and Luke team up for a thrilling jailbreak aboard the Star Destroyer Chimaera in Dark Force Rising, and she faces down Joruus C'baoth and kills the clone Luuke Skywalker at the climax of The Last Command, simultaneously saving Luke and freeing herself from the Emperor's hold." Source: *Star Wars Insider #75* (2004), scan p.77
-![Quote image: *Star Wars Insider #75* (2004), scan p.77 — full quote as printed](quotes/ins075-s77-the-rest-of-the-thrawn-trilogy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:489`
 
 ## Star Wars Insider #77 (2004)
@@ -1569,7 +1427,6 @@ Our notes: `notes/materials/038-star-wars-insider/142-ins142.md:45`
 > Well they came up with the Interdictor Cruiser that creates a false mass shadow that keeps the ships from jumping into hyperspace. Great, how can I use this as a writer? More importantly, how can Grand Admiral Thrawn use this as a tactician?
 — Source: Star Wars Insider #144 (2013).
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Zahn on WEG cloaking devices and Interdictors: ""Well they came up with the Interdictor Cruiser that creates a false mass shadow that keeps the ships from jumping into hyperspace. Great, how can I use this as a writer? More importantly, how can Grand Admiral Thrawn use this as a tactician?" —Timothy Zahn, Star Wars Insider 144, p. 27" Source: *Star Wars Insider #144* (2013), scan p.27
-![Quote image: *Star Wars Insider #144* (2013), scan p.27 — full quote as printed](quotes/ins144-s27-well-they-came-up-with-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/144-ins144.md:162`
 
 ## Star Wars Insider #147 (2014)
@@ -1577,7 +1434,6 @@ Our notes: `notes/materials/038-star-wars-insider/144-ins144.md:162`
 > I wanted somebody who was a little more of a loose cannon. I thought she was edgy, and dangerous, and a little bit unpredictable. And not the completely cool and analytical tactical genius.
 — Source: Star Wars Insider #147 (2014); Admiral Daala; Grand Admiral Thrawn — entry/section: Anderson on Daala.
 Note (our notes, around the quote): Admiral Daala; Grand Admiral Thrawn — entry/section: Anderson on Daala: ""I wanted somebody who was a little more of a loose cannon. I thought she was edgy, and dangerous, and a little bit unpredictable. And not the completely cool and analytical tactical genius." —Kevin J. Anderson, Star Wars Insider 147, p. 37" Source: *Star Wars Insider #147* (2014), scan p.37
-![Quote image: *Star Wars Insider #147* (2014), scan p.37 — full quote as printed](quotes/ins147-s37-i-wanted-somebody-who-was-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:230`
 
 ## Star Wars Insider #150 (2014)

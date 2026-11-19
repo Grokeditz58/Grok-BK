@@ -14,13 +14,11 @@
 > When Jedi Grand Master Satele Shan meditated on the problem, she declared that Oteg would be needed to fulfill the role.
 — Source: The Jedi Order; Satele Shan; Master Oteg — Master Oteg profile (top-right).
 Note (our notes, around the quote): Satele Shan; Master Oteg — Master Oteg profile (top-right): "When Jedi Grand Master Satele Shan meditated on the problem, she declared that Oteg would be needed to fulfill the role." Source: The Old Republic Encyclopedia, p.81, sidebar
-![Quote image: The Old Republic Encyclopedia, p.81 — full quote as printed](quotes/tore-p81-when-jedi-grand-master-satele-shan.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:154`
 
 > The resulting blast ignited the volatile gases of the nebula, destroying the Imperial fleet in a colossal firestorm while the Republic fleet escaped to safety.
 — Source: The Jedi Order; Master Oteg — Master Oteg profile (top-right).
 Note (our notes, around the quote): Master Oteg — Master Oteg profile (top-right): "The resulting blast ignited the volatile gases of the nebula, destroying the Imperial fleet in a colossal firestorm while the Republic fleet escaped to safety." Source: The Old Republic Encyclopedia, p.81, sidebar
-![Quote image: The Old Republic Encyclopedia, p.81 — full quote as printed](quotes/tore-p81-the-resulting-blast-ignited-the-volatile.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:156`
 
 # Debate and forum claims (unverified)

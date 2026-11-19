@@ -17,7 +17,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 
 - Note (summary from our notes, not a quotation): Gunn Yage — entry/section: Pull quote: ""STAY FROSTY, SKULLS." —GUNN YAGE" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.167
   — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag.
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.167 — full quote as printed](quotes/d719-s167-stay-frosty-skulls-gunn-yage.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:355`
 
 > NYNA CALIXTE AND HER ALTER-EGO, MORRIGAN CORDE.
@@ -777,7 +776,7 @@ Our notes: `notes/materials/053-prima-rots-game/rots-01.md:55`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Morlish Veed CL 15, hp 90 (p182). Rulf Yage CL 13, hp 116 (p183). Gunn Yage CL 9, "Cade Skywalker's half-sister" (p182).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p182 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p182-cade-skywalker-s-half-sister.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p182 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p182-cade-skywalker-s-half-sister.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:948`
 
 - Note (summary from our notes, not a quotation): Others: Nyna Calixte / Morrigan Corde (CL15), Gar Stazi (CL16), Morlish Veed (CL15), Rulf and Gunn Yage, "Bantha" Rawk (CL8), the Yuuzhan Vong NPCs, and all vehicles.

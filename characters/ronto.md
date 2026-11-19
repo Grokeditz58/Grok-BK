@@ -14,7 +14,6 @@
 > LADY, IF YOU HAD WINGS, I COULD FLY YOU.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Ronto (pilot) — entry/section: Pull quote.
 Note (our notes, around the quote): Ronto (pilot) — entry/section: Pull quote: ""LADY, IF YOU HAD WINGS, I COULD FLY YOU." —RONTO" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.85
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.85 — full quote as printed](quotes/d719-s85-lady-if-you-had-wings-i.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:199`
 
 # Debate and forum claims (unverified)

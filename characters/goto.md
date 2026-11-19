@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Interrogation droid data box. POV: Interrogation droid data box, about GO-TO.
 Note (our notes, around the quote): Interrogation droid data box: "NOTABLE MODELS: GO-TO, former head of Exchange crime syndicate" Source: The Old Republic Encyclopedia, p.280
-![Quote image: The Old Republic Encyclopedia, p.280 — full quote as printed](quotes/tore-p280-notable-models-go-to-former-head.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:193`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -23,7 +22,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:19
 > During the Battle of Malachor, HK-47 rallied a group of HK-50 assassin droids to fight back and defeat GO-TO.
 — Source: scan pages 41–80; HK-47. POV: HK-47, about GO-TO.
 Note (our notes, around the quote): HK-47: "During the Battle of Malachor, HK-47 rallied a group of HK-50 assassin droids to fight back and defeat GO-TO." Source: The Complete Star Wars Encyclopedia, Vol. II, p.45
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.45 — full quote as printed](quotes/v2-p45-during-the-battle-of-malachor-hk.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:80`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -31,7 +29,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > They were among the many bounty hunters who were hired by GO-TO to capture Jedi Knights, but were killed aboard GO-TO's yacht when the Jedi Exile escaped from the vessel.
 — Source: scan pages 241–280; Meetra Surik. POV: Meetra Surik, about GO-TO.
 Note (our notes, around the quote): Meetra Surik: "They were among the many bounty hunters who were hired by GO-TO to capture Jedi Knights, but were killed aboard GO-TO's yacht when the Jedi Exile escaped from the vessel." Source: The Complete Star Wars Encyclopedia, Vol. III, p.270
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.270 — full quote as printed](quotes/v3-p270-they-were-among-the-many-bounty.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:297`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -47,7 +44,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Notable leaders include Davik Kang of Taris—who is killed when Revan and others steal his ship, the Ebon Hawk—and Goto, alias of the droid GO-TO, who controls a major smuggling operation at Nar Shadda years later.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan. POV: Revan, about GO-TO.
 Note (our notes, around the quote): Revan: "Notable leaders include Davik Kang of Taris—who is killed when Revan and others steal his ship, the Ebon Hawk—and Goto, alias of the droid GO-TO, who controls a major smuggling operation at Nar Shadda years later." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.106
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.106 — full quote as printed](quotes/d718-s106-notable-leaders-include-davik-kang-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:271`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)

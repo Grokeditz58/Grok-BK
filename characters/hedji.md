@@ -18,7 +18,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan
 > When Don- Wan Kihotay tried to defeat the beast in single combat, Hedji and Jaxxon decided to lend their assistance.
 — Source: scan pages 1–40; Jaxxon. POV: Jaxxon, about Hedji.
 Note (our notes, around the quote): Jaxxon: "When Don- Wan Kihotay tried to defeat the beast in single combat, Hedji and Jaxxon decided to lend their assistance." Source: The Complete Star Wars Encyclopedia, Vol. II, p.31
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.31 — full quote as printed](quotes/v2-p31-when-don-wan-kihotay-tried-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:250`
 
 # Debate and forum claims (unverified)

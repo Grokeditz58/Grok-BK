@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Count Dooku; Jango Fett: "To that end, Dooku hired rival bounty hunters Jango Fett and Montross to track down Vosa." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-to-that-end-dooku-hired-rival.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:251`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -30,7 +29,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Years before, Montross had killed Mandalorian officer Jaster Mereel and mounted his armor—bearing the skull insignia of Mereel's regiment—in his home as a grim trophy.
 — Source: scan pages 61–90; Jaster Mereel. POV: Jaster Mereel, about Montross.
 Note (our notes, around the quote): Jaster Mereel: "Years before, Montross had killed Mandalorian officer Jaster Mereel and mounted his armor—bearing the skull insignia of Mereel's regiment—in his home as a grim trophy." Source: The New Essential Guide to Characters, p.69
-![Quote image: The New Essential Guide to Characters, p.69 — full quote as printed](quotes/negc-p69-years-before-montross-had-killed-mandalorian.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:23`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -48,13 +46,11 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Taken as a prize by Montross, a well-known Mandalorian bounty hunter and rival of Jango Fett, Hell's Anvil is heavily modified and converted for use as a prisoner transport and mobile base.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett. POV: Jango Fett, about Montross.
 Note (our notes, around the quote): Jango Fett: "Taken as a prize by Montross, a well-known Mandalorian bounty hunter and rival of Jango Fett, Hell's Anvil is heavily modified and converted for use as a prisoner transport and mobile base." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80 — full quote as printed](quotes/d728-s80-taken-as-a-prize-by-montross.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-061-120.md:147`
 
 > The most notorious of Hell's Anvii's modifications is a pair of solar ionization cannons, devastating weapons that are unaffected by conventional deflector shields, With Montross's death at the hands of Jango Fett, the Hell's Anvil fades into obscurity.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett. POV: Jango Fett, about Montross.
 Note (our notes, around the quote): Jango Fett: "The most notorious of Hell's Anvii's modifications is a pair of solar ionization cannons, devastating weapons that are unaffected by conventional deflector shields, With Montross's death at the hands of Jango Fett, the Hell's Anvil fades into obscurity." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80 — full quote as printed](quotes/d728-s80-the-most-notorious-of-hells-anviis.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-061-120.md:149`
 
 ## Star Wars Insider #63 (2002)

@@ -14,7 +14,6 @@
 > Calrissian worked closely with Lobot for more than two years, battling a bounty hunter when Raynor put out a contract on his life, and stopping the crazed droid EV-9D9 before she destroyed all of the city's automaton population.
 — Source: scan pages 31–60; Lando Calrissian. POV: Lando Calrissian, about EV-9D9.
 Note (our notes, around the quote): Lando Calrissian: "Calrissian worked closely with Lobot for more than two years, battling a bounty hunter when Raynor put out a contract on his life, and stopping the crazed droid EV-9D9 before she destroyed all of the city's automaton population." Source: The New Essential Guide to Characters, p.40
-![Quote image: The New Essential Guide to Characters, p.40 — full quote as printed](quotes/negc-p40-calrissian-worked-closely-with-lobot-for.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:28`
 
 ## Star Wars Insider #60 (2002)

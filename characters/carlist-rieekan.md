@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Carlist Rieekan — entry/section: Rieekan on the Katarn Commandos.
 Note (our notes, around the quote): Carlist Rieekan — entry/section: Rieekan on the Katarn Commandos: ""tossing a nest of fire wasps into a bursa's lair and seeing what happens next."" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.115
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.115 — full quote as printed](quotes/d715-s115-tossing-a-nest-of-fire-wasps.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:340`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

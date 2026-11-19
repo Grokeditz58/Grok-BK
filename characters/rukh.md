@@ -14,7 +14,6 @@
 > Thrawn's Noghri bodyguard Rukh, burning with anger toward the Empire ever since Leia Organa Solo's revelations on Honoghr, fatally stabbed his master through the heart.
 — Source: Part Seven: Empire Resurgent; Grand Admiral Thrawn — Rukh kills Thrawn.
 Note (our notes, around the quote): Grand Admiral Thrawn — Rukh kills Thrawn: "Thrawn's Noghri bodyguard Rukh, burning with anger toward the Empire ever since Leia Organa Solo's revelations on Honoghr, fatally stabbed his master through the heart." Source: The New Essential Chronology, p.153
-![Quote image: The New Essential Chronology, p.153 — full quote as printed](quotes/nec-p153-rukh-kills-thrawn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:62`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-re
 > In a daring act of vengeance, Rukh killed Thrawn aboard the Grand Admiral's command ship with an assassin's blade.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn, about Rukh.
 Note (our notes, around the quote): Grand Admiral Thrawn: "In a daring act of vengeance, Rukh killed Thrawn aboard the Grand Admiral's command ship with an assassin's blade." Source: The Complete Star Wars Encyclopedia, Vol. II, p.386
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.386 — full quote as printed](quotes/v2-p386-in-a-daring-act-of-vengeance.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:261`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -40,7 +38,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Rukh, a young Noghri, impressed Grand Admiral Thrawn and was selected to serve as the grand admiral's personal bodyguard.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Rukh; Grand Admiral Thrawn — entry/section: Rukh.
 Note (our notes, around the quote): Rukh; Grand Admiral Thrawn — entry/section: Rukh: "Rukh, a young Noghri, impressed Grand Admiral Thrawn and was selected to serve as the grand admiral's personal bodyguard." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.160
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.160 — full quote as printed](quotes/d043-s160-rukh-a-young-noghri-impressed-grand.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:315`
 
 ## The Thrawn Trilogy (Timothy Zahn): Heir to the Empire, Dark Force Rising, The Last Command, plus the Heir 20th Anniversary extras

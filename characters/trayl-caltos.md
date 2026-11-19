@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 Note (our notes, around the quote): Trayl Caltos — entry/section: Caltos orders the raid: ""The weapons flow must be stopped!"" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.162
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.162 — full quote as printed](quotes/d716-s162-the-weapons-flow-must-be-stopped.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:276`
 
 # Debate and forum claims (unverified)

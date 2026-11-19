@@ -29,7 +29,6 @@ Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:149`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #116 (2010).
 Note (our notes, around the quote): Pre Vizsla — entry/section: Lucas' darksaber back-story (via Filoni): ""George watched it and said, "No way. There's no way that there would be a weapon shaped like a sword that could counter a lightsaber blade. If you do that, a lightsaber isn't special, and then why wouldn't the Jedi also be using those things? It doesn't make any sense." He later worked it out that he wanted it to be a darksaber, and it would have a black blade with a white edge. George said that the back-story was that the darksaber was taken from the Jedi Temple during the days of the Old Republic." —Dave Filoni, Star Wars Insider 116, p. 28" Source: *Star Wars Insider #116* (2010), scan p.28
-![Quote image: *Star Wars Insider #116* (2010), scan p.28 — full quote as printed](quotes/ins116-s28-george-watched-it-and-said-no.jpg)
 Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:151`
 
 ## Star Wars Insider #117 (2010)

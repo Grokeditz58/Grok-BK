@@ -22,7 +22,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Despite her lack of dedication to the mental aspects of Jedi training, her combat skills and unnatural reflexes impressed even her Jedi Master.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Meloria — entry/section: Meloria's combat skills.
 Note (our notes, around the quote): Meloria — entry/section: Meloria's combat skills: "Despite her lack of dedication to the mental aspects of Jedi training, her combat skills and unnatural reflexes impressed even her Jedi Master." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.84
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.84 — full quote as printed](quotes/d665-s84-despite-her-lack-of-dedication-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:171`
 
 - Note (summary from our notes, not a quotation): Page contents: Meloria (Jedi Guardian 7/Scout 7, cryogenically frozen) stats; New Creature: Ibbot (great ibbot, flame ibbot) (hand-read)

@@ -34,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > I didn't know an Offshoot could be such an asset in the diplomacy department.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Eejee Vamm; Jarael — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Eejee Vamm; Jarael — entry/section: Pull quote: ""I didn't know an Offshoot could be such an asset in the diplomacy department." —Eejee Vamm" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.215
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.215 — full quote as printed](quotes/d718-s215-i-didnt-know-an-offshoot-could.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:331`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)
@@ -52,13 +51,11 @@ Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:370`
 > After outsmarting Golliard [the Republic Navy deserter-turned-slaver who kidnapped Jarael as a child], Zayne underestimates the Crucible. He figures they'll be easy to deal with using his normal methods of subterfuge. He's wrong—very wrong.
 — Source: Star Wars Insider #112 (2009); Zayne Carrick — entry/section: Miller on Zayne underestimating the Crucible.
 Note (our notes, around the quote): Zayne Carrick — entry/section: Miller on Zayne underestimating the Crucible: ""After outsmarting Golliard [the Republic Navy deserter-turned-slaver who kidnapped Jarael as a child], Zayne underestimates the Crucible. He figures they'll be easy to deal with using his normal methods of subterfuge. He's wrong—very wrong." —John Jackson Miller, Star Wars Insider 112, p. 59" Source: *Star Wars Insider #112* (2009), scan p.59
-![Quote image: *Star Wars Insider #112* (2009), scan p.59 — full quote as printed](quotes/ins112-s59-after-outsmarting-golliard-the-republic-navy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:376`
 
 > Chantique is not Jarael's twin, but they've walked the same path in their lives and turned out quite differently. Chantique is angry, manipulative, and sadistic—all assets for someone in the Crucible. They're things that Jarael could never really be, which is part of why she fled.
 — Source: Star Wars Insider #112 (2009); Jarael — entry/section: Miller on Chantique and Jarael.
 Note (our notes, around the quote): Jarael — entry/section: Miller on Chantique and Jarael: ""Chantique is not Jarael's twin, but they've walked the same path in their lives and turned out quite differently. Chantique is angry, manipulative, and sadistic—all assets for someone in the Crucible. They're things that Jarael could never really be, which is part of why she fled." —John Jackson Miller, Star Wars Insider 112, p. 59" Source: *Star Wars Insider #112* (2009), scan p.59
-![Quote image: *Star Wars Insider #112* (2009), scan p.59 — full quote as printed](quotes/ins112-s59-chantique-is-not-jaraels-twin-but.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:378`
 
 ## Star Wars Insider #113 (2009)

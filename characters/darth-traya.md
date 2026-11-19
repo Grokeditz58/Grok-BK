@@ -711,7 +711,6 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:2007`; `not
 > The Jedi are saved from extinction when an exiled Jedi named Meetra Surik rises from obscurity to destroy the Sith triumvirate and paves the way for the Republic's recovery.
 — Source: Front matter and introduction.
 Note (our notes, around the quote): Meetra Surik; Darth Sion; Darth Nihilus; Kreia — Timeline 3,955 BBY, Sith Triumvirate: "The Jedi are saved from extinction when an exiled Jedi named Meetra Surik rises from obscurity to destroy the Sith triumvirate and paves the way for the Republic's recovery." Source: The Old Republic Encyclopedia, p.18
-![Quote image: The Old Republic Encyclopedia, p.18 — full quote as printed](quotes/tore-p18-the-jedi-are-saved-from-extinction.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:92`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -720,7 +719,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:92`
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Darth Sion; Kreia; Darth Nihilus; Meetra Surik — Sith Civil War.
 Note (our notes, around the quote): Darth Sion; Kreia; Darth Nihilus; Meetra Surik — Sith Civil War: "Darth Sion, Darth Kreia, Darth Traya, and Darth Nihilus were among the many to take advantage of the Republic's inability to safeguard its holdings" Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-sith-civil-war.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:206`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -728,19 +726,16 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > After the Jedi Civil War nearly destroyed the order, the Exile discovered a renewed link to the Force when her ship, the Ebon Hawk, was discovered in deep space by a group of Sith devotees and Jedi Master Kreia.
 — Source: scan pages 121–160; Meetra Surik; Kreia — entry/section: Jedi Exile.
 Note (our notes, around the quote): Meetra Surik; Kreia — entry/section: Jedi Exile: "After the Jedi Civil War nearly destroyed the order, the Exile discovered a renewed link to the Force when her ship, the Ebon Hawk, was discovered in deep space by a group of Sith devotees and Jedi Master Kreia." Source: The Complete Star Wars Encyclopedia, Vol. II, p.148
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.148 — full quote as printed](quotes/v2-p148-after-the-jedi-civil-war-nearly.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:257`
 
 > Although Traya was more powerful, the Exile managed to defeat her in combat.
 — Source: scan pages 121–160; Meetra Surik; Kreia — entry/section: Jedi Exile.
 Note (our notes, around the quote): Meetra Surik; Kreia — entry/section: Jedi Exile: "Although Traya was more powerful, the Exile managed to defeat her in combat." Source: The Complete Star Wars Encyclopedia, Vol. II, p.148
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.148 — full quote as printed](quotes/v2-p148-although-traya-was-more-powerful-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:263`
 
 > Master Kavar was among the many Jedi killed when Darth Traya attacked and destroyed the Jedi enclave on Dantooine.
 — Source: scan pages 201–240; Kavar; Kreia — entry/section: Kavar.
 Note (our notes, around the quote): Kavar; Kreia — entry/section: Kavar: "Master Kavar was among the many Jedi killed when Darth Traya attacked and destroyed the Jedi enclave on Dantooine." Source: The Complete Star Wars Encyclopedia, Vol. II, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.204 — full quote as printed](quotes/v2-p204-master-kavar-was-among-the-many.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:95`
 
 - Note (summary from our notes, not a quotation): Page contents: 1164 words, 21 paragraphs | headings/entries: Krayt's Honor; Kreet'ah; Kre'fey, Karka; Kre'fey, Laryn; Kre'fey, Traest; Kreia
@@ -750,37 +745,31 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > About five years after the defeat of Darth Malak, Kreia discovered the Jedi Exile onboard the damaged starship Ebon Hawk and brought it to Peragus IL.
 — Source: scan pages 201–240; Kreia; Darth Malak; Meetra Surik — entry/section: Kreia.
 Note (our notes, around the quote): Kreia; Darth Malak; Meetra Surik — entry/section: Kreia: "About five years after the defeat of Darth Malak, Kreia discovered the Jedi Exile onboard the damaged starship Ebon Hawk and brought it to Peragus IL." Source: The Complete Star Wars Encyclopedia, Vol. II, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.231 — full quote as printed](quotes/v2-p231-about-five-years-after-the-defeat.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:382`
 
 > She barely survived the encounter, in which she lost the use of one hand.
 — Source: scan pages 201–240; Kreia — entry/section: Kreia.
 Note (our notes, around the quote): Kreia — entry/section: Kreia: "She barely survived the encounter, in which she lost the use of one hand." Source: The Complete Star Wars Encyclopedia, Vol. II, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.231 — full quote as printed](quotes/v2-p231-she-barely-survived-the-encounter-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:384`
 
 > Kreia was also surprised to find that the Exile's severed connection to the Force had begun to return, and she vowed to train her in an effort to help restore the Jedi Order.
 — Source: scan pages 201–240; Kreia; Meetra Surik — entry/section: Kreia.
 Note (our notes, around the quote): Kreia; Meetra Surik — entry/section: Kreia: "Kreia was also surprised to find that the Exile's severed connection to the Force had begun to return, and she vowed to train her in an effort to help restore the Jedi Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.231 — full quote as printed](quotes/v2-p231-kreia-was-also-surprised-to-find.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:386`
 
 > Having retaken the title of Darth Traya, she fled to Telos with Atris and set out to destroy the planet.
 — Source: scan pages 201–240; Kreia; Atris — entry/section: Kreia.
 Note (our notes, around the quote): Kreia; Atris — entry/section: Kreia: "Having retaken the title of Darth Traya, she fled to Telos with Atris and set out to destroy the planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.231 — full quote as printed](quotes/v2-p231-having-retaken-the-title-of-darth.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:388`
 
 > Master Vrook was among the many Jedi who were killed when Darth Traya attacked and destroyed the Enclave 3,952 years before the Battle of Yavin.
 — Source: scan pages 241–280; Vrook Lamar; Kreia — entry/section: Lamar, Master Vrook.
 Note (our notes, around the quote): Vrook Lamar; Kreia — entry/section: Lamar, Master Vrook: "Master Vrook was among the many Jedi who were killed when Darth Traya attacked and destroyed the Enclave 3,952 years before the Battle of Yavin." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-master-vrook-was-among-the-many.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:83`
 
 > Nihilus, Darth One of three Sith Lords, along with Darth Traya and Darth Sion, who survived the Jedi Civil Wars and fled to Malachor V nearly 4,000 years before the Galactic Civil War.
 — Source: scan pages 361–400; Darth Nihilus; Kreia; Darth Sion — entry/section: Nihilus, Darth.
 Note (our notes, around the quote): Darth Nihilus; Kreia; Darth Sion — entry/section: Nihilus, Darth: "Nihilus, Darth One of three Sith Lords, along with Darth Traya and Darth Sion, who survived the Jedi Civil Wars and fled to Malachor V nearly 4,000 years before the Galactic Civil War." Source: The Complete Star Wars Encyclopedia, Vol. II, p.380
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.380 — full quote as printed](quotes/v2-p380-nihilus-darth-one-of-three-sith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:215`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -791,7 +780,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 
 - Note (summary from our notes, not a quotation): Kreia; Meetra Surik — entry/section: Traya, Darth: "After the Jedi Exile traveled to Onderon and defeated General Vaklu, Kreia realized that her "pupil" was growing in strength and would become a threat to her triumverate of power." Source: The Complete Star Wars Encyclopedia, Vol. III, p.260
   — Source: scan pages 241–280.
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.260 — full quote as printed](quotes/v3-p260-after-the-jedi-exile-traveled-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:223`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -799,13 +787,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > 3,951 BBY: Under the guidance of a disguised Darth Traya, the Jedi Exile defeats Darth Sion and Darth Nihilus.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia; Meetra Surik; Darth Sion; Darth Nihilus. POV: Darth Nihilus; about Kreia / Darth Traya.
 Note (our notes, around the quote): Kreia; Meetra Surik; Darth Sion; Darth Nihilus: "3,951 BBY: Under the guidance of a disguised Darth Traya, the Jedi Exile defeats Darth Sion and Darth Nihilus." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-3-951-bby-under-the-guidance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:358`
 
 > Bao-Dur activates the Mass Shadow Generator on Malachor V again, destroying what is left of the planet, and Traya is defeated.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia. POV: Kreia.
 Note (our notes, around the quote): Kreia: "Bao-Dur activates the Mass Shadow Generator on Malachor V again, destroying what is left of the planet, and Traya is defeated." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-bao-dur-activates-the-mass-shadow.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:360`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -821,7 +807,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Traya uses vast telekinetic powers to wield a trio of lightsabers against her, but she is ultimately killed by the person she considered her greatest disciple.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Kreia — entry/section: Knights of the Old Republic Campaign Guide (Saga): "Traya uses vast telekinetic powers to wield a trio of lightsabers against her, but she is ultimately killed by the person she considered her greatest disciple." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-traya-uses-vast-telekinetic-powers-to.jpg)
 Also cited as: SI respect-thread directory: Jedi Exile Meetra Surik: Chronological Respect Thread (2019) — https://www.suspectinsightforums.com/t171-jedi-exile-meetra-surik-chronological-respect-thread-2019.
 Also noted as: Traya throws out all of the cards. But is defeated despite all of the power she weilds:
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:404`; `suspect-insight/debates/028-darth-angral-vs-k-kruhk.md:1105`; `suspect-insight/respect-threads/meetra-surik.md:386`
@@ -829,31 +814,26 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > As master to the galaxy's savior and its destroyers, Darth Traya seems a paradox.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia. POV: Kreia.
 Note (our notes, around the quote): Kreia: "As master to the galaxy's savior and its destroyers, Darth Traya seems a paradox." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-as-master-to-the-galaxys-savior.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:406`
 
 > This Sith Triumvirate is launched from Malachor V, intending to wipe out Traya's Jedi betrayers.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia. POV: Kreia.
 Note (our notes, around the quote): Kreia: "This Sith Triumvirate is launched from Malachor V, intending to wipe out Traya's Jedi betrayers." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-this-sith-triumvirate-is-launched-from.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:408`
 
 > As Sion and Nihilus unwittingly aid her by carrying out a massive assassination campaign against the Jedi, Traya seeks the Jedi Exile, Revan's old general, who had been severed from the Force.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion; Darth Nihilus; Kreia; Meetra Surik; Revan. POV: Revan; about Kreia / Darth Traya.
 Note (our notes, around the quote): Darth Sion; Darth Nihilus; Kreia; Meetra Surik; Revan: "As Sion and Nihilus unwittingly aid her by carrying out a massive assassination campaign against the Jedi, Traya seeks the Jedi Exile, Revan's old general, who had been severed from the Force." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-as-sion-and-nihilus-unwittingly-aid.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:410`
 
 > In the Jedi Exile, who had wounded the Force at Malachor V, Traya believes she has found a way to destroy all traitors, including the Force itself.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Meetra Surik; Kreia. POV: Kreia; about Kreia / Darth Traya.
 Note (our notes, around the quote): Meetra Surik; Kreia: "In the Jedi Exile, who had wounded the Force at Malachor V, Traya believes she has found a way to destroy all traitors, including the Force itself." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-in-the-jedi-exile-who-had.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:412`
 
 > Traya manipulates the Exile into finding the surviving Jedi Masters and Traya's Sith apprentices so that Traya can destroy them.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia; Meetra Surik. POV: Meetra Surik; about Kreia / Darth Traya.
 Note (our notes, around the quote): Kreia; Meetra Surik: "Traya manipulates the Exile into finding the surviving Jedi Masters and Traya's Sith apprentices so that Traya can destroy them." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-traya-manipulates-the-exile-into-finding.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:414`
 
 - Note (summary from our notes, not a quotation): Page contents: Darth Traya stats conclude; Darth Sion, Lord of Pain bio; caption "DARTH SION HAS VANQUISHED MANY JEDI FOES". (hand-read)
@@ -863,7 +843,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Surviving the Sith backstabbing following the Jedi Civil War, Sion’s abilities draw the eye of Revan's former master, the powerful Darth Traya.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Revan; Kreia; Darth Sion — entry/section: Knights of the Old Republic Campaign Guide (Saga): "Surviving the Sith backstabbing following the Jedi Civil War, Sion’s abilities draw the eye of Revan's former master, the powerful Darth Traya." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160 — full quote as printed](quotes/d718-s160-surviving-the-sith-backstabbing-following-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:429`
 
 ## Star Wars Insider #88 (2006)

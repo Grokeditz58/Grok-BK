@@ -26,7 +26,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Galen Marek; Kazdan Paratus; Shaak Ti; Rahm Kota — entry/section: The Force Unleashed Campaign Guide (Saga): "Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187 — full quote as printed](quotes/d729-s187-operating-in-secret-vaders-apprentice-hunted.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:59`
 
 - Note (summary from our notes, not a quotation): Page contents: Kota's Militia; Kota's Militia Soldier and Saboteur stat blocks. Kazdan Paratus (Aleena Jedi on Raxus Prime; spider arms; junk Jedi Temple) begins. (hand-read)
@@ -58,7 +57,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:2
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Kazdan Paratus: "The Aleena Jedi Knight Kazdan Paratus escaped the murderous clone troopers, but the reality of Order 66 and the loss of the Jedi destroyed his sanity." Source: *Web Articles* (SWRPG Saga Edition), scan p.325
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.325 — full quote as printed](quotes/d732-s325-the-aleena-jedi-knight-kazdan-paratus.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:259`
 
 ## Prima Official Game Guide: *Star Wars: The Force Unleashed* (2008)

@@ -11,7 +11,7 @@
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Drama Korr's space yacht drops out of hyperspace](panels/ob2-p12-yacht-hyperspace.jpg)
+- Note (summary from our notes, not a quotation): ![Drama Korr's space yacht drops out of hyperspace](../notes/materials/049-obsession/panels/ob2-p12-yacht-hyperspace.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:25`
 

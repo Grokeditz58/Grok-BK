@@ -14,7 +14,6 @@
 > “One good thing about having nothing to hide is that you have nothing to fear. Go on home, Ry. I'll talk with these gentlemen.”
 — Source: Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20,; Keth Beamis — entry/section: Keth Beamis faces the TSSF.
 Note (our notes, around the quote): Keth Beamis — entry/section: Keth Beamis faces the TSSF: "“One good thing about having nothing to hide is that you have nothing to fear. Go on home, Ry. I'll talk with these gentlemen.”" Source: *Star Wars Gamer 06* (SWRPG d20), scan p.14
-![Quote image: *Star Wars Gamer 06* (SWRPG d20), scan p.14 — full quote as printed](quotes/d055-s14-one-good-thing-about-having-nothing.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-001-060.md:81`
 
 # Debate and forum claims (unverified)

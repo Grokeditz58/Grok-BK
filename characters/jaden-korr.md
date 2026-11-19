@@ -14,7 +14,6 @@
 > She was discovered and defeated by the Jedi Jaden Korr on Taspir III.
 — Source: scan pages 1–40; Jaden Korr. POV: Jaden Korr.
 Note (our notes, around the quote): Jaden Korr: "She was discovered and defeated by the Jedi Jaden Korr on Taspir III." Source: The Complete Star Wars Encyclopedia, Vol. I, p.25
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.25 — full quote as printed](quotes/v1-p25-she-was-discovered-and-defeated-by.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:257`
 
 > Vydel was unaware of her dark per­ sona, and during the Clone Wars led the investigation to hunt down Kardem. She was finally stopped by the Man­ dalorian Feskitt Bobb. dlscblade A thrown razor-edged weapon used by the Zeison Sha warriors, it was imbued with super­ natural accuracy by the Force. Disciples of Ragnos A dark side cult led by Ta­ vion Axmis a decade into Discord missile the New Republic's rule, it at­ tempted to resurrect the an­ cient Sith Lord, Marka Ragnos. The cultists targeted worlds with known con­ centrations ofForce energy-Yavin 4, Corellia, Hoth, Tatooine, and Yjun-to empower the Scepter of Ragnos Sith artifact. Jedi Knight Jaden Korr defeated Axmis and her cult on Korriban, preventing the return of Ragnos. discord missile A specialized projectile used by Confederacy starfighters to deposit buzz droids onto enemy targets during the Clone Wars. Dlscrl�class attack cruisers Eighty­ five-meter-long capital warships armed with turret-mounted laser cannons, tri-particle beamers, and tri-laser cannons, they were built on Daupherm for use in that planet's de­ fense fleet. Disra,MoHVlllmAn Imperial officer who started his career as a chief administrator for Governor Barshnis Choard in the Shelsha sector, liaising with the BloodScar pirates.
@@ -22,7 +21,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos: "Jedi Knight Jaden Korr defeated Axmis and her cult on Korriban, preventing the return of Ragnos." Source: The Complete Star Wars Encyclopedia, Vol. I, p.191
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.191 — full quote as printed](quotes/v1-p191-jedi-knight-jaden-korr-defeated-axmis.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:49`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -34,19 +32,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > She cut down Penin before attacking Korr, but was no match for his skills.
 — Source: scan pages 201–240; Jaden Korr — entry/section: Korr, Jaden.
 Note (our notes, around the quote): Jaden Korr — entry/section: Korr, Jaden: "She cut down Penin before attacking Korr, but was no match for his skills." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-she-cut-down-penin-before-attacking.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:333`
 
 > He confronted Tavion, and was able to defeat her in combat just as she reawakened the spirit of Marka Ragnos.
 — Source: scan pages 201–240; Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden.
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden: "He confronted Tavion, and was able to defeat her in combat just as she reawakened the spirit of Marka Ragnos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.227 — full quote as printed](quotes/v2-p227-he-confronted-tavion-and-was-able.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:340`
 
 > Jaden defeated the ancient undead Sith spirit, destroying the Scepter of Ragnos and cutting off any pathway to the spirit world.
 — Source: scan pages 201–240; Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden.
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden: "Jaden defeated the ancient undead Sith spirit, destroying the Scepter of Ragnos and cutting off any pathway to the spirit world." Source: The Complete Star Wars Encyclopedia, Vol. II, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.227 — full quote as printed](quotes/v2-p227-jaden-defeated-the-ancient-undead-sith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:342`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -54,7 +49,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Her cult, the Disciples of Ragnos, nearly succeeded on Korriban, but they were defeated by Jaden Korr.
 — Source: scan pages 41–80; Marka Ragnos; Jaden Korr — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos; Jaden Korr — entry/section: Ragnos, Marka: "Her cult, the Disciples of Ragnos, nearly succeeded on Korriban, but they were defeated by Jaden Korr." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-her-cult-the-disciples-of-ragnos.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:303`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -66,7 +60,6 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > Kyle became the academy's foremost battlemaster, honing the skills of countless Jedi students like Jaden Korr, and stopping the dark side berserker Jeng Droga. During the Yuuzhan Vong invasion, Kyle helped develop strategies against the invaders, freed the human captives of the Imperial Remnant world Ord Sedra, and flew a living Sekotan starship in the final battle for the planet Zonama Sekot.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jaden Korr; Jeng Droga — entry/section: Kyle the battlemaster: "Kyle became the academy's foremost battlemaster, honing the skills of countless Jedi students like Jaden Korr, and stopping the dark side berserker Jeng Droga. During the Yuuzhan Vong invasion, Kyle helped develop strategies against the invaders, freed the human captives of the Imperial Remnant world Ord Sedra, and flew a living Sekotan starship in the final battle for the planet Zonama Sekot." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-kyle-became-the-academys-foremost-battlemaster.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:29`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -78,7 +71,6 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > Eventually, Admiral Drayson retired from Alpha Blue and Jan took over his position -- just in time for the Yuuzhan Vong invasion. During the crisis, she enlisted the aid of Lurrian genetic engineers and the Chiss, among others, for a way to defeat the enemy, ultimately resulting in the genocidal concoction codenamed Alpha Red. More recently, she has spent every spare moment working with Kyle's one-time Jedi apprentice Jaden Korr, zealously searching for any leads to Kyle's whereabouts.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Admiral Hiram Drayson; Jaden Korr; Kyle Katarn — entry/section: Jan heads Alpha Blue: "Eventually, Admiral Drayson retired from Alpha Blue and Jan took over his position -- just in time for the Yuuzhan Vong invasion. During the crisis, she enlisted the aid of Lurrian genetic engineers and the Chiss, among others, for a way to defeat the enemy, ultimately resulting in the genocidal concoction codenamed Alpha Red. More recently, she has spent every spare moment working with Kyle's one-time Jedi apprentice Jaden Korr, zealously searching for any leads to Kyle's whereabouts." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-eventually-admiral-drayson-retired-from-alpha.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:18`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -86,7 +78,6 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > Striving to continue Desann's work, the cultists eventually made their way to Korriban, where they were defeated within the ancient Sith tombs in the Valley of the Dark Lords by Jaden Korr and a band of Jedi from Skywalker's academy.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Jaden Korr. POV: Jaden Korr.
 Note (our notes, around the quote): Jaden Korr: "Striving to continue Desann's work, the cultists eventually made their way to Korriban, where they were defeated within the ancient Sith tombs in the Valley of the Dark Lords by Jaden Korr and a band of Jedi from Skywalker's academy." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30 — full quote as printed](quotes/d731-s30-striving-to-continue-desanns-work-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:218`
 
 ## Star Wars Insider #108 (2009)
@@ -106,13 +97,11 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:307`
 > As a boy, he crafted his own lightsaber. As a young man, he received training from Kyle Katarn, who dabbled in powers typically associated with the dark side such as Force lightning. In Kyle, this represented a broad understanding of the Force. But to Jaden, looking in from the outside, it represented ambiguity. In my mind, this created in Jaden the potential to achieve the kind of understanding embodied by Kyle, but also, perhaps, a greater propensity for a fall.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Jaden Korr; Kyle Katarn — entry/section: Kemp on Jaden Korr and Kyle Katarn's influence: ""As a boy, he crafted his own lightsaber. As a young man, he received training from Kyle Katarn, who dabbled in powers typically associated with the dark side such as Force lightning. In Kyle, this represented a broad understanding of the Force. But to Jaden, looking in from the outside, it represented ambiguity. In my mind, this created in Jaden the potential to achieve the kind of understanding embodied by Kyle, but also, perhaps, a greater propensity for a fall." —Paul S. Kemp, Star Wars Insider 115, p. 56" Source: *Star Wars Insider #115* (2010), scan p.56
-![Quote image: *Star Wars Insider #115* (2010), scan p.56 — full quote as printed](quotes/ins115-s56-as-a-boy-he-crafted-his.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:322`
 
 > Jaden and Relin meet at a moment when both are struggling with a personal crisis. Their respective crises differ, but each can see in the other a possible future for himself—though stopping a Sith threat, obviously, is a shared goal.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Jaden Korr; Relin Druur — entry/section: Kemp on Jaden and Relin: ""Jaden and Relin meet at a moment when both are struggling with a personal crisis. Their respective crises differ, but each can see in the other a possible future for himself—though stopping a Sith threat, obviously, is a shared goal." —Paul S. Kemp, Star Wars Insider 115, p. 56" Source: *Star Wars Insider #115* (2010), scan p.56
-![Quote image: *Star Wars Insider #115* (2010), scan p.56 — full quote as printed](quotes/ins115-s56-jaden-and-relin-meet-at-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:324`
 
 ## https://starwars.fandom.com/wiki/Darth_Krayt

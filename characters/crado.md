@@ -25,7 +25,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:89`
 
 - Note (summary from our notes, not a quotation): Disarmed by Exar Kun in sparring. Source: Dark Lords of the Sith #1, p22
   — Source: Dark Lords of the Sith #1, p22 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p22: Exar disarms Crado](panels/dlots1-p22-exar-disarms-crado.jpg)
+![Dark Lords of the Sith #1 p22: Exar disarms Crado](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p22-exar-disarms-crado.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:230`
 
 - Note (summary from our notes, not a quotation): | 1 | Exar Kun vs Crado | Dantooine | p22 (#1) | Exar disarms Crado | Sparring |
@@ -33,13 +33,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:230`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:272`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p22: Exar disarms Crado](panels/dlots1-p22-exar-disarms-crado.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p22: Exar disarms Crado](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p22-exar-disarms-crado.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:287`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p22: Exar disarms Crado](panels/dlots1-p22-exar-disarms-crado.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p22: Exar disarms Crado](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p22-exar-disarms-crado.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p22: Exar disarms Crado](panels/dlots1-p22-exar-disarms-crado.jpg)
+![Dark Lords of the Sith #1 p22: Exar disarms Crado](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p22-exar-disarms-crado.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:289`
 
 - Note (summary from our notes, not a quotation): | #4 | 1–26 | Jedi Holocaust | Ambria, galaxy montage, Cron Cluster | Oss Wilum and Crado attack Thon; Sylvar claws Crado. Students murder their masters. Aleema rips a star's core out and kills Dace, Shoaneb and Qrrrl Toq; the Cron supernova kills Aleema and Crado. |
@@ -58,24 +58,24 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:93`
 
 - Note (summary from our notes, not a quotation): Knocks Oss Wilum unconscious and claws Crado's face on Ambria. Source: The Sith War #4, p9
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:212`
 
 - Note (summary from our notes, not a quotation): Flees Ambria after Sylvar claws his face. Source: The Sith War #4, p9–10
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
-![The Sith War #4 p10: Crado flees Ambria with Sylvar's claw marks on his face](panels/sw4-p10-crado-flees-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p10: Crado flees Ambria with Sylvar's claw marks on his face](../notes/materials/024-tales-of-the-jedi/panels/sw4-p10-crado-flees-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:217`
 
 - Note (summary from our notes, not a quotation): Killed in the Cron supernova: Crado (burning): "EXAR KUN..." "...WHY?" Source: The Sith War #4, p24
   — Source: The Sith War #4, p24 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p24: Cron supernova](024-tales-of-the-jedi/panels/sw4-p24-cron-supernova.jpg)
+![The Sith War #4 p24: Cron supernova](../notes/materials/024-tales-of-the-jedi/panels/sw4-p24-cron-supernova.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:220`
 
 > SZRRR! IT IS AN EVIL DAY. I HAVE BEEN DRIVEN TO KILL.
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Kills one of the Ambria lake beasts.
 Note (our notes, around the quote): Kills one of the Ambria lake beasts: "SZRRR! IT IS AN EVIL DAY. I HAVE BEEN DRIVEN TO KILL." Source: The Sith War #4, p9
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:231`
 
 - Note (summary from our notes, not a quotation): | 7 | Thon, Nomi, Sylvar vs Oss Wilum, Crado + beasts | Ambria | p5–10 (#4) | Jedi win; Crado flees | Nomi carrying Vima |
@@ -88,7 +88,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:275`
 > Kun easily defeated Crado in a lightsaber duel, then fought against Sylvar; as tensions escalated, she slashed him across the face with her claws. Master Vodo stepped in, and Kun met the challenge, defeating his own teacher.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Crado; Sylvar; Vodo-Siosk Baas — Exar Kun defeats Crado, Sylvar and Master Vodo: "Kun easily defeated Crado in a lightsaber duel, then fought against Sylvar; as tensions escalated, she slashed him across the face with her claws. Master Vodo stepped in, and Kun met the challenge, defeating his own teacher." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-exar-kun-defeats-crado-sylvar-and.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:107`
 
 > Master Vodo Slosk-Baas stepped = % battle his former pupIl. Exar Kun, now armed with a Seebie- bladed lightsaber and the tricks of Sith magic, struck Sown and killed Master Vodo. Utic and Kun left the Jedi and Semetors behind, returning to their stronghokl on Yavin 4, Vodo wasn't the only Jedi to die that day. Exar Kun sad dispatched his Sith-possessed disciples on an insidious mission to assassinate their own Masters.
@@ -100,7 +99,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Crado; Master Thon — Thon defeats Crado: "Kun's lieutenant, Crado, attempted to kill his former Master, but Thon defeated him and Crado fled." Source: The New Essential Chronology, p.19
-![Quote image: The New Essential Chronology, p.19 — full quote as printed](quotes/nec-p19-thon-defeats-crado.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:149`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -112,7 +110,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > Crado was killed along with dark sider Aleema ina multiple supernova eruption that they triggered.
 — Source: scan pages 161–200; Crado; Aleema Keto — entry/section: Crado.
 Note (our notes, around the quote): Crado; Aleema Keto — entry/section: Crado: "Crado was killed along with dark sider Aleema ina multiple supernova eruption that they triggered." Source: The Complete Star Wars Encyclopedia, Vol. I, p.151
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.151 — full quote as printed](quotes/v1-p151-crado-was-killed-along-with-dark.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:51`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -120,7 +117,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > While Nomi and Vima discussed her training, others arrived: the Jedi Knight Sylvar, whose mate Crado had been slain by the supernova; and Hoggon, the tramp freighter pilot who had brought Ulic to Rhen Var in the first place.
 — Source: Chapter One: History of the Jedi; Nomi Sunrider; Vima-Da-Boda; Sylvar; Crado; Ulic Qel-Droma.
 Note (our notes, around the quote): Nomi Sunrider; Vima-Da-Boda; Sylvar; Crado; Ulic Qel-Droma: "While Nomi and Vima discussed her training, others arrived: the Jedi Knight Sylvar, whose mate Crado had been slain by the supernova; and Hoggon, the tramp freighter pilot who had brought Ulic to Rhen Var in the first place." Source: Power of the Jedi Sourcebook, p.7
-![Quote image: Power of the Jedi Sourcebook, p.7 — full quote as printed](quotes/potj-p7-while-nomi-and-vima-discussed-her.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:36`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -132,7 +128,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Ossus changed dramatically during the Great Sith War. Former Jedi Crado and Aleema Kato, working with Ulic Qel-Droma and Exar Kun, succeed in igniting the ten stars of the nearby Cron Cluster.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Crado; Aleema Keto; Ulic Qel-Droma; Exar Kun — entry/section: The Cron Cluster ignited: "Ossus changed dramatically during the Great Sith War. Former Jedi Crado and Aleema Kato, working with Ulic Qel-Droma and Exar Kun, succeed in igniting the ten stars of the nearby Cron Cluster." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110 — full quote as printed](quotes/d667-s110-ossus-changed-dramatically-during-the-great.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:377`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -144,7 +139,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > Two of the greatest Cathar heroes, the female Sylvar and her mate Crado, were powerful Jedi Knights. Four thousand years before the Galactic Civil War, Crado fell to the dark side under the tutelage of Exar Kun. He was destroyed in an explosion after trying to activate an ancient Sith superweapon for his master. Sylvar, angry over the death of her mate, almost fell to the dark side herself before regaining the Jedi path. Both are remembered on Cathar itself in meticulously carved works of tree-art.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Sylvar; Crado; Exar Kun — entry/section: Cathar heroes.
 Note (our notes, around the quote): Sylvar; Crado; Exar Kun — entry/section: Cathar heroes: "Two of the greatest Cathar heroes, the female Sylvar and her mate Crado, were powerful Jedi Knights. Four thousand years before the Galactic Civil War, Crado fell to the dark side under the tutelage of Exar Kun. He was destroyed in an explosion after trying to activate an ancient Sith superweapon for his master. Sylvar, angry over the death of her mate, almost fell to the dark side herself before regaining the Jedi path. Both are remembered on Cathar itself in meticulously carved works of tree-art." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.29
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.29 — full quote as printed](quotes/d673-s29-two-of-the-greatest-cathar-heroes.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:158`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

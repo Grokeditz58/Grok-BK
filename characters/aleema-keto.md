@@ -23,7 +23,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:16`
 
 - Note (summary from our notes, not a quotation): Exar studies forbidden Sith lore on Ossus; Arca refuses to help him (p5–7). Nomi sees through the Krath space-grazer illusions at Koros Major (p12–14). Exar saves Naddists Nebo and Rask on Dxun, kills beasts, opens the Mandalorian-iron tomb with Nadd's help, and kills the Naddists (p16–22). Nomi tears Aleema's illusion apart (p24–25); Ulic is wounded by Krath kamikaze slag (p26–27). Korriban revealed (p28).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](panels/dlots2-p07-exar-arca-refuses.jpg)
+![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p07-exar-arca-refuses.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:33`
 
 - Note (summary from our notes, not a quotation): Massassi seize Exar on Yavin 4 (p4–9). Ood Bnar and Odan-Urr warn Ulic (p10–12); Cay's farewell (p13). Ulic joins the Krath by "saving" Aleema (p17–21). The Sith amulet clamps to Exar's arm; he destroys Sadow's alchemical horrors (p22–24) and kills Nadd's spirit (p25–26).
@@ -38,7 +38,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:46`
 > [fragment — full passage not on file]
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Blasts Aleema Keto across the room (.
 Note (our notes, around the quote): Blasts Aleema Keto across the room ("I HAVE LEARNED EVERYTHING!"). Source: Dark Lords of the Sith #6, p23
-![Dark Lords of the Sith #6 p23: Exar Kun blasts Aleema: "I have learned everything!"](panels/dlots6-p23-exar-blasts-aleema.jpg)
+![Dark Lords of the Sith #6 p23: Exar Kun blasts Aleema: "I have learned everything!"](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p23-exar-blasts-aleema.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:70`
 
 > MY CHILDREN--I COME TO WARN YOU! IT IS NOT QEL-DROMA YOU MUST FEAR!
@@ -53,7 +53,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:70`
 > [fragment — full passage not on file]
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Freedon Nadd's spirit (dying) to Satal and Aleema Keto. POV: Freedon Nadd's spirit, about Aleema Keto.
 Note (our notes, around the quote): Freedon Nadd's spirit (dying) to Satal and Aleema Keto: "MY CHILDREN--I COME TO WARN YOU! IT IS NOT QEL-DROMA YOU MUST FEAR!" "BEWARE OF EXAR KUN. HE HAS ACQUIRED GREAT SITH POWERS AND HE HAS AMBITION WITHOUT LIMIT--" "I NOW DECLARE IT...EXAR KUN IS A PRETENDER TO THE SITH LEGACY..." "...THE REAL POWER OF THE SITH RESTS WITH YOU...THREE..." Source: Dark Lords of the Sith #4, p26
-![Dark Lords of the Sith #4 p26: Freedon Nadd's spirit warns: "Beware of Exar Kun"](panels/dlots4-p26-nadd-beware-exar.jpg)
+![Dark Lords of the Sith #4 p26: Freedon Nadd's spirit warns: "Beware of Exar Kun"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p26-nadd-beware-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:94`
 
 > PRETENDER? NADD ONLY TAUGHT YOU THE BEGINNINGS OF SITH POWER, WOMAN--
@@ -71,28 +71,28 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:100`
 > HOW WOULD HE KNOW SHE PLANNED THE WHOLE THING?
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Narration on Ulic Qel-Droma and Aleema Keto. POV: narrator, about Aleema Keto.
 Note (our notes, around the quote): Narration on Ulic Qel-Droma and Aleema Keto: "--IS BRUSHED ASIDE...HE MUST SAVE ALEEMA!" "HOW WOULD HE KNOW SHE PLANNED THE WHOLE THING?" · NARRATION. Source: Dark Lords of the Sith #4, p21
-![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](panels/dlots4-p21-ulic-saves-aleema.jpg)
+![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p21-ulic-saves-aleema.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:131`
 
 - Note (summary from our notes, not a quotation): Tears apart Aleema Keto's illusion with "FINGERS OF BRIGHT FORCE". Source: Dark Lords of the Sith #2, p24–25
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p25: Nomi's "fingers of bright Force" tear apart Aleema's illusion](panels/dlots2-p25-nomi-fingers-of-force.jpg)
+![Dark Lords of the Sith #2 p25: Nomi's "fingers of bright Force" tear apart Aleema's illusion](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p25-nomi-fingers-of-force.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:144`
 
 - Note (summary from our notes, not a quotation): Battle meditation dissolves Aleema's illusions during the Cinnagar raid. Source: Dark Lords of the Sith #6, p16
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #6 p16: Nomi's battle meditation dissolves Aleema's illusions in Cinnagar](panels/dlots6-p16-nomi-dissolves-illusions.jpg)
+![Dark Lords of the Sith #6 p16: Nomi's battle meditation dissolves Aleema's illusions in Cinnagar](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p16-nomi-dissolves-illusions.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:148`
 
 - Note (summary from our notes, not a quotation): Kills Lord Korus with dark-side energy. Source: Dark Lords of the Sith #1, p16
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p16: Aleema Keto's dark-side spell kills Lord Korus](panels/dlots1-p16-aleema-kills-korus.jpg)
+![Dark Lords of the Sith #1 p16: Aleema Keto's dark-side spell kills Lord Korus](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p16-aleema-kills-korus.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:162`
 
 - Note (summary from our notes, not a quotation): Krath illusions (space-grazers, false armies) deceive the Republic fleet until Nomi sees through them. Source: Dark Lords of the Sith #2, p12–14
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p13: An illusory Krath creature looms over the Republic fleet at Koros Major](panels/dlots2-p13-krath-illusion-creature.jpg)
-![Dark Lords of the Sith #2 p14: Nomi Sunrider sees through the Krath illusions: "We are being assailed with the power of the dark side"](panels/dlots2-p14-nomi-sees-through-illusions.jpg)
+![Dark Lords of the Sith #2 p13: An illusory Krath creature looms over the Republic fleet at Koros Major](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p13-krath-illusion-creature.jpg)
+![Dark Lords of the Sith #2 p14: Nomi Sunrider sees through the Krath illusions: "We are being assailed with the power of the dark side"](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p14-nomi-sees-through-illusions.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:164`
 
 > I HAVE LEARNED EVERYTHING!
@@ -133,40 +133,40 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:72`
 > THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes. POV: Ommin, about Aleema Keto.
 Note (our notes, around the quote): Ommin about Freedon Nadd: "HERE LET ME SHOW YOU MY WONDERFUL AMULETS--" "THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:81`
 
 > AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Makes Satal's mind whirl with a gesture. POV: narrator, about Aleema Keto.
 Note (our notes, around the quote): Makes Satal's mind whirl with a gesture: "AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND." · NARRATION. Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:100`
 
 > YES... I WONDER IF ANYONE BUT US CAN FEEL IT.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Steals a Sith book from the Galactic Museum's "Sith Hall"; Satal: "YES... I WONDER IF ANYONE BUT US CAN FEEL IT." Source: Freedon Nadd Uprising #1, p25–26
-![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](panels/fnu1-p25-ketos-galactic-museum.jpg)
-![Freedon Nadd Uprising #1 p26: Satal Keto with the stolen Sith book](panels/fnu1-p26-satal-sith-book.jpg)
+![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p25-ketos-galactic-museum.jpg)
+![Freedon Nadd Uprising #1 p26: Satal Keto with the stolen Sith book](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p26-satal-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:218`
 
 > ALEEMA...I FEEL SUDDENLY ILL.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Satal Keto. POV: Satal Keto, about Aleema Keto.
 Note (our notes, around the quote): Satal Keto: "ALEEMA...I FEEL SUDDENLY ILL." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:225`
 
 > THERE'S POWER IN THESE THINGS, SATAL.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Senses Sith amulets in the museum.
 Note (our notes, around the quote): Senses Sith amulets in the museum: "THERE'S POWER IN THESE THINGS, SATAL." Source: Freedon Nadd Uprising #1, p25
-![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](panels/fnu1-p25-ketos-galactic-museum.jpg)
+![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p25-ketos-galactic-museum.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:230`
 
 > AS A WAY OF AMUSING THEMSELVES, THE INDOLENT YOUNG ARISTOCRATS HAVE BEEN DABBLING IN THE LORE OF MAGIC.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Satal Keto and Aleema Keto. POV: narrator, about Aleema Keto.
 Note (our notes, around the quote): Narration on Satal Keto and Aleema Keto: "AS A WAY OF AMUSING THEMSELVES, THE INDOLENT YOUNG ARISTOCRATS HAVE BEEN DABBLING IN THE LORE OF MAGIC." · NARRATION. Source: Freedon Nadd Uprising #1, p24
-![Freedon Nadd Uprising #1 p24: The young Tetan aristocrats Satal and Aleema Keto have been dabbling in the lore of magic](panels/fnu1-p24-ketos-dabbling-in-magic.jpg)
+![Freedon Nadd Uprising #1 p24: The young Tetan aristocrats Satal and Aleema Keto have been dabbling in the lore of magic](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p24-ketos-dabbling-in-magic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:232`
 
 > CAN'T YOU FEEL IT? THERE IS POWER HERE... WAITING FOR US.
@@ -175,13 +175,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:232`
 > I TELL YOU WE WILL BECOME INVINCIBLE!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Senses the dark side on Onderon.
 Note (our notes, around the quote): Senses the dark side on Onderon: "CAN'T YOU FEEL IT? THERE IS POWER HERE... WAITING FOR US." "I TELL YOU WE WILL BECOME INVINCIBLE!" Source: Freedon Nadd Uprising #2, p3
-![Freedon Nadd Uprising #2 p3: Aleema Keto on Onderon: "Can't you feel it? There is power here... waiting for us"](panels/fnu2-p03-aleema-power-here.jpg)
+![Freedon Nadd Uprising #2 p3: Aleema Keto on Onderon: "Can't you feel it? There is power here... waiting for us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p03-aleema-power-here.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:234`
 
 > ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Aleema Keto in Ommin's lair. POV: Aleema Keto in Ommin's lair.
 Note (our notes, around the quote): Aleema Keto in Ommin's lair: "ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!" Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:236`
 
 - Note (summary from our notes, not a quotation): Coverage: the book covers *Tales of the Jedi* up to *The Freedon Nadd Uprising* only. It came out before *Dark Lords of the Sith* and *The Sith War* were collected. So it has no stat block for Exar Kun, and he is named only once (p.78). There are also no stat blocks for Naga Sadow, Aleema, Satal or Mandalore.
@@ -192,7 +192,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; FNU summary. POV: FNU summary.
 Note (our notes, around the quote): FNU summary: "the spirit of Freedon Nadd appears to Satal and Aleema, giving them the book, the amulet, and a pair of Sith swords." Source: Tales of the Jedi Companion (WEG, 1996), p.15
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](quotes/companion-p15-the-spirit-of-freedon-nadd-appears.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p15-the-spirit-of-freedon-nadd-appears.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:100`
 
 - Note (summary from our notes, not a quotation): | #2 | 1–29 | (2 of 6) | Kemplex Nine, Yavin 4, Coruscant | Exar crushes the Sith holocron and possesses his students with Sith spirits. Coruscant assault; Aleema betrays Ulic; Vodo, Nomi and the Jedi block Ulic with a wall of light. |
@@ -212,17 +212,17 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:31`
 
 - Note (summary from our notes, not a quotation): Vodo splits a rock (p4). Aleema's serpent eats dissenters (p5). Ulic's trial (p9–14); Exar orders the masters killed (p10–11). Exar's Sith spell freezes the Senate (p15–16); Sylvar claws through Massassi (p17); Exar stops, puppets and kills the Senate leader (p18–20). Exar kills Vodo (p21–25) and Force-hurls Sylvar (p26).
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](024-tales-of-the-jedi/panels/sw3-p04-vodo-staff-splits-rock.jpg)
-![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](024-tales-of-the-jedi/panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
-![The Sith War #3 p16: Senate frozen by Sith spell](024-tales-of-the-jedi/panels/sw3-p16-senate-frozen.jpg)
-![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](024-tales-of-the-jedi/panels/sw3-p17-sylvar-claws-massassi.jpg)
-![The Sith War #3 p18: Exar Kun stops the Senate leader's staff bare-handed and grips his head](024-tales-of-the-jedi/panels/sw3-p18-exar-grips-senate-leader.jpg)
-![The Sith War #3 p20: Exar Kun: "The Republic is not even worthy of the fight" over the slain Senate leader](024-tales-of-the-jedi/panels/sw3-p20-senate-leader-killed.jpg)
+![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](../notes/materials/024-tales-of-the-jedi/panels/sw3-p04-vodo-staff-splits-rock.jpg)
+![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](../notes/materials/024-tales-of-the-jedi/panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
+![The Sith War #3 p16: Senate frozen by Sith spell](../notes/materials/024-tales-of-the-jedi/panels/sw3-p16-senate-frozen.jpg)
+![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](../notes/materials/024-tales-of-the-jedi/panels/sw3-p17-sylvar-claws-massassi.jpg)
+![The Sith War #3 p18: Exar Kun stops the Senate leader's staff bare-handed and grips his head](../notes/materials/024-tales-of-the-jedi/panels/sw3-p18-exar-grips-senate-leader.jpg)
+![The Sith War #3 p20: Exar Kun: "The Republic is not even worthy of the fight" over the slain Senate leader](../notes/materials/024-tales-of-the-jedi/panels/sw3-p20-senate-leader-killed.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:34`
 
 - Note (summary from our notes, not a quotation): Shows Aleema how to use Naga Sadow's ship ("THE POWER TO WRENCH FIRE FROM THE STARS"); the plan uses her to trigger the Cron supernova. Source: The Sith War #4, p15–24
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p15: In Naga Sadow's ancient Sith ship Exar shows Aleema the power "to wrench fire from the stars"](panels/sw4-p15-sadow-ship-fire-from-stars.jpg)
+![The Sith War #4 p15: In Naga Sadow's ancient Sith ship Exar shows Aleema the power "to wrench fire from the stars"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p15-sadow-ship-fire-from-stars.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:60`
 
 > YES, I KNOW SHE IS A VILE TRAITOR WHO PRETENDS TO LOVE ME.
@@ -234,8 +234,8 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:123`
 
 - Note (summary from our notes, not a quotation): Using Naga Sadow's ship, rips the core out of one of the ten Cron stars and hurls it at the pursuing Jedi, killing Dace Diath, Shoaneb Culu and Qrrrl Toq. Source: The Sith War #4, p17–22
   — Source: The Sith War #4, p17–22 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p20: Shoaneb Culu: "If you could see what I see in the Force... terrible ripples, a wrenching!"](024-tales-of-the-jedi/panels/sw4-p20-shoaneb-senses-stellar-core.jpg)
-![The Sith War #4 p21: Aleema rips out a stellar core](panels/sw4-p21-aleema-stellar-core.jpg)
+![The Sith War #4 p20: Shoaneb Culu: "If you could see what I see in the Force... terrible ripples, a wrenching!"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p20-shoaneb-senses-stellar-core.jpg)
+![The Sith War #4 p21: Aleema rips out a stellar core](../notes/materials/024-tales-of-the-jedi/panels/sw4-p21-aleema-stellar-core.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:149`
 
 > ALEEMA HAS USED THE SITH POWER IN NAGA SADOW'S ANCIENT SHIP TO RIP THE CORE FROM THE CENTER OF ONE OF THE TEN STARS IN THE CRON CLUSTER.
@@ -247,18 +247,18 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:149`
 > [fragment — full passage not on file]
 — Source: The Sith War #4, p21 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Narration on Aleema Keto. POV: narrator, about Aleema Keto.
 Note (our notes, around the quote): Narration on Aleema Keto: "ALEEMA HAS USED THE SITH POWER IN NAGA SADOW'S ANCIENT SHIP TO RIP THE CORE FROM THE CENTER OF ONE OF THE TEN STARS IN THE CRON CLUSTER." "SHE TOSSES THE FLAMING, RADIOACTIVE CORE DIRECTLY INTO THE MIDST OF HER JEDI PURSUERS..." "...EXACTLY AS EXAR KUN HAD PLANNED!" · NARRATION. Source: The Sith War #4, p21
-![The Sith War #4 p21: Aleema rips out a stellar core](panels/sw4-p21-aleema-stellar-core.jpg)
+![The Sith War #4 p21: Aleema rips out a stellar core](../notes/materials/024-tales-of-the-jedi/panels/sw4-p21-aleema-stellar-core.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:150`
 
 - Note (summary from our notes, not a quotation): Her serpent illusion/creature devours Krath dissenters. Source: The Sith War #3, p5
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
+![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](../notes/materials/024-tales-of-the-jedi/panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:151`
 
 > IN HER LAST MOMENTS, ALEEMA SUDDENLY KNOWS THAT HER TREACHERY HAS BEEN EXPOSED!
 — Source: The Sith War #4, p24 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Killed by the Cron supernova she triggered.
 Note (our notes, around the quote): Killed by the Cron supernova she triggered: "IN HER LAST MOMENTS, ALEEMA SUDDENLY KNOWS THAT HER TREACHERY HAS BEEN EXPOSED!" Aleema (burning): "ULIC!" Source: The Sith War #4, p24
-![The Sith War #4 p24: Cron supernova](024-tales-of-the-jedi/panels/sw4-p24-cron-supernova.jpg)
+![The Sith War #4 p24: Cron supernova](../notes/materials/024-tales-of-the-jedi/panels/sw4-p24-cron-supernova.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:155`
 
 - Note (summary from our notes, not a quotation): Betrays Ulic during the Coruscant assault; her messenger tells Mandalore "QEL-DROMA IS DEAD". Source: The Sith War #2, p23
@@ -274,11 +274,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:250`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:277`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #4 p21: Aleema rips out a stellar core](panels/sw4-p21-aleema-stellar-core.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #4 p21: Aleema rips out a stellar core](../notes/materials/024-tales-of-the-jedi/panels/sw4-p21-aleema-stellar-core.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:315`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #4 p21: Aleema rips out a stellar core](panels/sw4-p21-aleema-stellar-core.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #4 p21: Aleema rips out a stellar core](../notes/materials/024-tales-of-the-jedi/panels/sw4-p21-aleema-stellar-core.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:317`
 
@@ -287,13 +287,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:317`
 > Ulic and Nomi assisted by using their Jedi abilities—but Aleema countered with her own powerful Sith illusions.
 — Source: Part One: Tales of the Ancient Republic; Aleema Keto — Aleema's illusions vs Ulic and Nomi.
 Note (our notes, around the quote): Aleema Keto — Aleema's illusions vs Ulic and Nomi: "Ulic and Nomi assisted by using their Jedi abilities—but Aleema countered with her own powerful Sith illusions." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-aleemas-illusions-vs-ulic-and-nomi.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:105`
 
 > Instead, Ulic killed Keto in a great duel, then took his place beside Aleema as the new ruler of the Krath.
 — Source: Part One: Tales of the Ancient Republic; Ulic Qel-Droma; Satal Keto — Ulic kills Satal Keto.
 Note (our notes, around the quote): Ulic Qel-Droma; Satal Keto — Ulic kills Satal Keto: "Instead, Ulic killed Keto in a great duel, then took his place beside Aleema as the new ruler of the Krath." Source: The New Essential Chronology, p.17
-![Quote image: The New Essential Chronology, p.17 — full quote as printed](quotes/nec-p17-ulic-kills-satal-keto.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:121`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -305,13 +303,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 > Crado was killed along with dark sider Aleema ina multiple supernova eruption that they triggered.
 — Source: scan pages 161–200; Crado; Aleema Keto — entry/section: Crado.
 Note (our notes, around the quote): Crado; Aleema Keto — entry/section: Crado: "Crado was killed along with dark sider Aleema ina multiple supernova eruption that they triggered." Source: The Complete Star Wars Encyclopedia, Vol. I, p.151
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.151 — full quote as printed](quotes/v1-p151-crado-was-killed-along-with-dark.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:51`
 
 > Aleema activated an ancient Sith weapon and ripped the core from one of the stars, hurling it at the Jedi fleet and destroying it.
 — Source: scan pages 161–200; Aleema Keto. POV: Aleema Keto.
 Note (our notes, around the quote): Aleema Keto: "Aleema activated an ancient Sith weapon and ripped the core from one of the stars, hurling it at the Jedi fleet and destroying it." Source: The Complete Star Wars Encyclopedia, Vol. I, p.153
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.153 — full quote as printed](quotes/v1-p153-aleema-activated-an-ancient-sith-weapon.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:69`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -323,31 +319,26 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Jedi Knight Ulic Qel-Droma traveled to the system in order to learn the Krath's secrets, but he succumbed to the dark side himself and helped Aleema defeat her enemies.
 — Source: scan pages 201–240; Aleema Keto; Ulic Qel-Droma — entry/section: Keto, Aleema.
 Note (our notes, around the quote): Aleema Keto; Ulic Qel-Droma — entry/section: Keto, Aleema: "Jedi Knight Ulic Qel-Droma traveled to the system in order to learn the Krath's secrets, but he succumbed to the dark side himself and helped Aleema defeat her enemies." Source: The Complete Star Wars Encyclopedia, Vol. II, p.213
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.213 — full quote as printed](quotes/v2-p213-jedi-knight-ulic-qel-droma-traveled.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:194`
 
 > Later, Aleema attempted to reassert her power over Krath forces by abandoning Qel-Droma during an attack on Coruscant, but he was rescued and eventually had Aleema killed.
 — Source: scan pages 201–240; Aleema Keto — entry/section: Keto, Aleema.
 Note (our notes, around the quote): Aleema Keto — entry/section: Keto, Aleema: "Later, Aleema attempted to reassert her power over Krath forces by abandoning Qel-Droma during an attack on Coruscant, but he was rescued and eventually had Aleema killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.213
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.213 — full quote as printed](quotes/v2-p213-later-aleema-attempted-to-reassert-her.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:196`
 
 > Not long after, Aleema directed so much dark force at Korus that his body exploded.
 — Source: scan pages 201–240; Aleema Keto. POV: Aleema Keto.
 Note (our notes, around the quote): Aleema Keto: "Not long after, Aleema directed so much dark force at Korus that his body exploded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.228
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.228 — full quote as printed](quotes/v2-p228-not-long-after-aleema-directed-so.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:351`
 
 > But Aleema and fallen Jedi Ulic Qel-Droma survived.
 — Source: scan pages 241–280; Aleema Keto; Ulic Qel-Droma.
 Note (our notes, around the quote): Aleema Keto; Ulic Qel-Droma: "But Aleema and fallen Jedi Ulic Qel-Droma survived." Source: The Complete Star Wars Encyclopedia, Vol. II, p.236
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.236 — full quote as printed](quotes/v2-p236-but-aleema-and-fallen-jedi-ulic.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:25`
 
 > Blasting Aleema with dark side power, Kun and Qel-Droma engaged in a blistering lightsaber duel.
 — Source: scan pages 241–280; Aleema Keto. POV: Aleema Keto.
 Note (our notes, around the quote): Aleema Keto: "Blasting Aleema with dark side power, Kun and Qel-Droma engaged in a blistering lightsaber duel." Source: The Complete Star Wars Encyclopedia, Vol. II, p.236
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.236 — full quote as printed](quotes/v2-p236-blasting-aleema-with-dark-side-power.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:27`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -355,13 +346,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Aleema used the ancient Sith weapon to obliterate the detachment and ultimately destroy the Library of Ossus.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Aleema Keto. POV: Aleema Keto.
 Note (our notes, around the quote): Aleema Keto: "Aleema used the ancient Sith weapon to obliterate the detachment and ultimately destroy the Library of Ossus." Source: Power of the Jedi Sourcebook, p.107
-![Quote image: Power of the Jedi Sourcebook, p.107 — full quote as printed](quotes/potj-p107-aleema-used-the-ancient-sith-weapon.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:113`
 
 > Piloted by Aleema, an ancient starship ripped the core out of one of the ten suns of the Cron Cluster and caused a conflagration that destroyed the Library of Ossus.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Aleema Keto. POV: Aleema Keto.
 Note (our notes, around the quote): Aleema Keto: "Piloted by Aleema, an ancient starship ripped the core out of one of the ten suns of the Cron Cluster and caused a conflagration that destroyed the Library of Ossus." Source: Power of the Jedi Sourcebook, p.108
-![Quote image: Power of the Jedi Sourcebook, p.108 — full quote as printed](quotes/potj-p108-piloted-by-aleema-an-ancient-starship.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:122`
 
 - Note (summary from our notes, not a quotation): Page contents: 893 words, 159 paragraphs | headings/entries: Ae; Ne sey aS / ar; Index; Abhean 132; Abraxin 79; Ackbar, Admiral 130; Adega system 135; Adegan crystals 104, 107, 155; Advozse 112, 113; Afarathu 108; AgriCorps worker 86; Alderaan 10, 64, 110; Aleema 107; Almania 83, 127; Amanoa, Queen 7, 100, 103, 104, 105; Ambria 101, 104, 105, 106, 145-147; Anselmi 71; Arkanian 64, 73, 100; Ashla, the 6; Asmeru 113, 114, 118; Assant, Darsha 121; Auril sector 135; Baltimn 150, 151; Bane, Darth 9; Battle Influence 12; Battle Meditation 15; Beast Language 15; Belasco 116; Bespin 128; Billaba, Depa 114; Black Sun 121; Bnar, Ood 136; Bondara, Anoon 121, 122, 124; Bouri, Omo 118; Brotherhood of Darkness 9, 141, 153; Caamasi 64, 110; Callista 9, 130; Carida 131; Cathar 65; Celegian 66, 98; Cerean 119; Chalactan 114; Chatos Academy 6; Chewbacca 11; Cho Leem, Thracia 123; Chu'unthor 132-135; Cilghal 11, 130; Cinnagar 8, 98, 103; Core Worlds 6, 7, 9, 70, 130
@@ -379,7 +368,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Satal Keto; Aleema Keto: "The specter of Freedon Nadd had been assisting King Ommin, but decided that Satal and Aleema held the key to resurrecting the golden age of the Sith." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-the-specter-of-freedon-nadd-had.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 
 > They led a rebellion against the government of the Empress Teta system, killing Satal's parents and delighting in the use of their newfound abilities. Barbaric, evil, and totally despotic, the pair spread fear and suffering throughout the system as the inhabited worlds revolted. Republic forces, assisted by Jedi Knights Ulic Qel- Drorna and Nomi Sunrider, tried to put an end to the violence, but Aleema used powerful Sith illusions to confuse and confound the unwanted intruders. Later, Ulic disguised himself as a fallen Jedi and made his way to Satal and Aleema's stronghold in the city of Cinnagar. An assassin threatened to end Aleema's life, but Ulic intervened. He killed the assassin and was accepted into the usurper's sect by the beautiful Aleema. Satal, jealous and suspicious of Ulic, tortured the Jedi, seeking to make him confess to being a spy. Even under the influence of Sith poison, Ulic denied the charges, though his mind was clouded by the foul substance. Aleema scoffed at Satal's suspicions and made Ulic general of their military forces-and her personal pet Jedi. When Satal Keto eventually discovered Ulic's true plans, he confronted the fallen Jedi in a great duel that had terrible repercussions: Ulic unleashed his fury, killing Satal but completing his slide to the dark side.
@@ -387,7 +375,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Aleema Keto: "He killed the assassin and was accepted into the usurper's sect by the beautiful Aleema." Source: Dark Side Sourcebook, p.75
-![Quote image: Dark Side Sourcebook, p.75 — full quote as printed](quotes/dss-p75-he-killed-the-assassin-and-was.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:60`
 
 > Feats: Dark Side Skill Emphasis (Fear), Dark Side Skill Emphasis (Force Grip), Force-Sensitive, Iron Will, Persuasive, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons). Force Feats: Alter, Control, Sense, Sith Sorcery. Ulic Qel-Droma, Former Jedi Hnight, Sith Lord Almost four thousand years before the coming of Darth Vader, two other Jedi Knights embraced the dark side, eventually challenging and almost decimating the ranks of the Jedi Order they once loyally served. One, Exar Kun, turned to the dark side in a quest for knowledge long forbidden by the Order. The other, Ulic Qel-Droma, sought to destroy the dark side sect of Satal and Aleema Keto frorn the inside, only to be turned to evil himself by dark side poison. By the time he was finally defeated, Ulic Qel-Droma had become a formidable Dark Lord of the Sith, second only to his partner Exar Kun. Ulic and his brother Cay Qel-Droma trained under Jedi Master Arca Jeth on the world of Arkania, alongside a Twi'lek Jedi named Tott Doneeta. Master Arca sent the three Jedi students to the world of Onderon to settle the dispute between Iziz and the beast-riders of Onderon. Ulic encountered the dark side spirit of Freedon Nadd in the Sith storehouses below the royal palace.
@@ -395,7 +382,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:60`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ulic Qel-Droma; Satal Keto; Aleema Keto — entry/section: Ulic Qel-Droma, Former Jedi Hnight, Sith Lord: "The other, Ulic Qel-Droma, sought to destroy the dark side sect of Satal and Aleema Keto frorn the inside, only to be turned to evil himself by dark side poison." Source: Dark Side Sourcebook, p.75
-![Quote image: Dark Side Sourcebook, p.75 — full quote as printed](quotes/dss-p75-the-other-ulic-qel-droma-sought.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:66`
 
 ## Jedi Counselling/Jedi Counseling 41 - Fake Death Stars.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -407,7 +393,6 @@ Our notes: `notes/materials/037-sw-d20-folder/207-jedi-counseling-41-fake-death-
 > A: It might help you to know that the original inspiration for the Illusion skill came from the Knights of the Old Republic comic book series from Dark Horse, in which the character Aleema Keto created an illusion of a starship so large that it hid a fleet of smaller ships. Thus, the intent of Illusion is that you can create an image of anything, no matter how large, so long as all of it is inside the maximum range.
 — Source: Jedi Counselling/Jedi Counseling 41 - Fake Death Stars.pdf [Star Wars Rol.
 Note (our notes, around the quote): Aleema Keto — entry/section: Aleema's starship illusion inspired the Illusion skill: "A: It might help you to know that the original inspiration for the Illusion skill came from the Knights of the Old Republic comic book series from Dark Horse, in which the character Aleema Keto created an illusion of a starship so large that it hid a fleet of smaller ships. Thus, the intent of Illusion is that you can create an image of anything, no matter how large, so long as all of it is inside the maximum range." Source: *Jedi Counseling 41 - Fake Death Stars* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 41 - Fake Death Stars* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d207-s1-a-it-might-help-you-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/207-jedi-counseling-41-fake-death-stars.md:12`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -419,7 +404,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Ossus changed dramatically during the Great Sith War. Former Jedi Crado and Aleema Kato, working with Ulic Qel-Droma and Exar Kun, succeed in igniting the ten stars of the nearby Cron Cluster.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Crado; Aleema Keto; Ulic Qel-Droma; Exar Kun — entry/section: The Cron Cluster ignited: "Ossus changed dramatically during the Great Sith War. Former Jedi Crado and Aleema Kato, working with Ulic Qel-Droma and Exar Kun, succeed in igniting the ten stars of the nearby Cron Cluster." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110 — full quote as printed](quotes/d667-s110-ossus-changed-dramatically-during-the-great.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:377`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -427,7 +411,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > However, Nadd realizes that the King is on the brink of defeat by Jedi and Republic forces, so he transfers his support to Satal and Aleema, promising to guide them into a new Sith Golden Age.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Freedon Nadd; Satal Keto; Aleema Keto. POV: Aleema Keto; about Aleema Keto.
 Note (our notes, around the quote): Freedon Nadd; Satal Keto; Aleema Keto: "However, Nadd realizes that the King is on the brink of defeat by Jedi and Republic forces, so he transfers his support to Satal and Aleema, promising to guide them into a new Sith Golden Age." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.60
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.60 — full quote as printed](quotes/d718-s60-however-nadd-realizes-that-the-king.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:384`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -435,7 +418,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > 3,996 BBY: Aleema Keto, leading the forces of the Krath in battle near the Cron Cluster, is killed after activating a supernova-inducing weapon aboard her warship.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Aleema Keto. POV: Aleema Keto.
 Note (our notes, around the quote): Aleema Keto: "3,996 BBY: Aleema Keto, leading the forces of the Krath in battle near the Cron Cluster, is killed after activating a supernova-inducing weapon aboard her warship." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-3-996-bby-aleema-keto-leading.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:354`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -443,7 +425,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > The simple nature of the great warrior is no match for Aleema's seductive voice.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Aleema Keto — entry/section: Knights of the Old Republic Campaign Guide (Saga): "The simple nature of the great warrior is no match for Aleema's seductive voice." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.199
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.199 — full quote as printed](quotes/d718-s199-the-simple-nature-of-the-great.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:172`
 
 ## Star Wars Insider #151 (2014)

@@ -25,7 +25,6 @@ Our notes: `notes/materials/037-sw-d20-folder/709-07-a-reckoning-of-wraiths.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 07 A Reckoning of Wraiths (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_07_A_Reckoning_of_Wraiths_pdf_bb53a939cf`).)
 (Full sentence/passage taken from the source text on file: `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_07_A_Reckoning_of_Wraiths_pdf`.)
 Note (our notes, around the quote): Tavik Moern — entry/section: Moern if captured: ""It doesn't matter what you do to me," he sneers if caught. "It's already too late for your seditionist friends."" Source: *07 - A Reckoning of Wraiths* (SWRPG Saga Edition), scan p.17
-![Quote image: *07 - A Reckoning of Wraiths* (SWRPG Saga Edition), scan p.17 — full quote as printed](quotes/d709-s17-it-doesnt-matter-what-you-do.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/709-07-a-reckoning-of-wraiths.md:122`
 
 # Debate and forum claims (unverified)

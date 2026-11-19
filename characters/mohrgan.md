@@ -27,7 +27,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Mohrgan — entry/section: Pull quote.
 Note (our notes, around the quote): Mohrgan — entry/section: Pull quote: ""Imperial Knights! Save your Emperor!" —Mohrgan" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.46
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.46 — full quote as printed](quotes/d731-s46-imperial-knights-save-your-emperor-mohrgan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:357`
 
 ## Star Wars: Legacy Book 1 (omnibus): power-scaling notes with panels
@@ -76,11 +75,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:1217`
 > WE HAVE SWORN AN OATH OF LOYALTY—AND THE EMPEROR HAS SPOKEN.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Not statted: Mohrgan Fel, Ganner Krieg, Sigel Dare and Elke Vetter appear only as names on the example list (p45). Krieg pull quote (p46): "WE HAVE SWORN AN OATH OF LOYALTY—AND THE EMPEROR HAS SPOKEN."
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p046-we-have-sworn-an-oath-of.jpg)
-![p163 generic Imperial Knight CL 11 (bio and stat)](011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
-![p162 THE IMPERIAL KNIGHTS: "train strictly for combat, not contemplation"; Vader-derived armour](011-legacy-era-campaign-guide-panels/p162-imperial-knights.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p046-the-offensive-lightsaber-style-favored-by.jpg)
-![p46 Oath of Duty; Praetoria Vonil](011-legacy-era-campaign-guide-panels/p046-ik-talents-oath-vonil.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p046-we-have-sworn-an-oath-of.jpg)
+![p163 generic Imperial Knight CL 11 (bio and stat)](../notes/materials/011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
+![p162 THE IMPERIAL KNIGHTS: "train strictly for combat, not contemplation"; Vader-derived armour](../notes/materials/011-legacy-era-campaign-guide-panels/p162-imperial-knights.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p046-the-offensive-lightsaber-style-favored-by.jpg)
+![p46 Oath of Duty; Praetoria Vonil](../notes/materials/011-legacy-era-campaign-guide-panels/p046-ik-talents-oath-vonil.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:550`
 
 ## Star Wars: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels

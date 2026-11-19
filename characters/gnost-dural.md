@@ -14,13 +14,11 @@
 > One cannot defeat a foe one does not comprehend.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Gnost-Dural — Master Gnost-Dural (top-right): "As he has notably observed, "One cannot defeat a foe one does not comprehend."" Source: The Old Republic Encyclopedia, p.89, sidebar
-![Quote image: The Old Republic Encyclopedia, p.89 — full quote as printed](quotes/tore-p89-as-he-has-notably-observed-one.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:258`
 
 > The Jedi relocated to their ancient homeworld of Tython, to rest, meditate, and seek guidance from the Force.
 — Source: Species, technology, planets and the future; Gnost-Dural — Tython pull-quote.
 Note (our notes, around the quote): Gnost-Dural — Tython pull-quote: ""The Jedi relocated to their ancient homeworld of Tython, to rest, meditate, and seek guidance from the Force." Jedi Master Gnost-Dural" Source: The Old Republic Encyclopedia, p.286
-![Quote image: The Old Republic Encyclopedia, p.286 — full quote as printed](quotes/tore-p286-the-jedi-relocated-to-their-ancient.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:218`
 
 ## Star Wars Insider #115 (2010)

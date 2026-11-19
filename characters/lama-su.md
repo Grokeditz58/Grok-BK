@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Though some details still remain clouded, it is generally acknowledged that some ten years prior to the Battle of Geonosis, the Kaminoans were contracted by Darth Tyrannus (under the guise of Jedi Knight Sifo-Dyas) to create an army of clones for use by the Republic. When Jedi Obi-Wan Kenobi tracked an assassination attempt on Senator Amidala of Naboo to Kamino, the clone army-in-progress was discovered, and since those events and the onset of the Clone Wars, Kamino has played a largely unseen but key role in galactic affairs. Under the stewardship of Prime Minister Lama Su, the Kaminoans issued their first armies of clone troopers based on the genetic template of the bounty hunter Jango Fett.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Count Dooku; Obi-Wan Kenobi; Padmé Amidala; Jango Fett — entry/section: Kamino's clone army: "Though some details still remain clouded, it is generally acknowledged that some ten years prior to the Battle of Geonosis, the Kaminoans were contracted by Darth Tyrannus (under the guise of Jedi Knight Sifo-Dyas) to create an army of clones for use by the Republic. When Jedi Obi-Wan Kenobi tracked an assassination attempt on Senator Amidala of Naboo to Kamino, the clone army-in-progress was discovered, and since those events and the onset of the Clone Wars, Kamino has played a largely unseen but key role in galactic affairs. Under the stewardship of Prime Minister Lama Su, the Kaminoans issued their first armies of clone troopers based on the genetic template of the bounty hunter Jango Fett." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.74
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.74 — full quote as printed](quotes/d667-s74-though-some-details-still-remain-clouded.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:99`
 
 - Note (summary from our notes, not a quotation): Page contents: Kamino: Merr-Sonn pocker stats; hooks Deep Research - Part II (Qalsneek the Bull holocron in Derem City) and Not Suitable For Cloning (Yuuzhan Vong amphistaff; Kina Ha); Taun We (ministerial assistant to Lama Su; tutors Boba Fett; Female Kaminoan Noble 10); Ko Sai biography begins. (hand-read)
@@ -68,7 +67,6 @@ Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:559`
 > Jango Fett is one of the finest specimens we ever encountered. Not only did he provide his genetic material, he also aided in training the first batch.
 — Source: Star Wars Insider #67 (2003).
 Note (our notes, around the quote): Jango Fett — entry/section: Star Wars Insider 067 (2003): Lama Su on Jango: "Jango Fett is one of the finest specimens we ever encountered. Not only did he provide his genetic material, he also aided in training the first batch." Source: *Star Wars Insider #67* (2003), scan p.98
-![Quote image: *Star Wars Insider #67* (2003), scan p.98 — full quote as printed](quotes/ins067-s98-jango-fett-is-one-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:561`
 
 ## Star Wars Insider #70 (2003)
@@ -85,7 +83,6 @@ Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:117`
 > A name was once considered a flaw, but we have found that allowing names produces the desired effects of initiative and goal-setting. In command units, these unofficial nicknames are formally recognized as a mark of distinction and excellence among our most capable products.
 — Source: Star Wars Insider #74 (2004); Lama Su — entry/section: Lama Su on clone names.
 Note (our notes, around the quote): Lama Su — entry/section: Lama Su on clone names: ""In the past, a desire for individuality led to the spontaneous creation of combat nicknames in the field," explains Kaminoan Prime Minister Lama Su. "A name was once considered a flaw, but we have found that allowing names produces the desired effects of initiative and goal-setting. In command units, these unofficial nicknames are formally recognized as a mark of distinction and excellence among our most capable products." —Lama Su, Star Wars Insider 74, p. 61" Source: *Star Wars Insider #74* (2004), scan p.61
-![Quote image: *Star Wars Insider #74* (2004), scan p.61 — full quote as printed](quotes/ins074-s61-in-the-past-a-desire-for.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:404`
 
 ## Star Wars Insider #75 (2004)

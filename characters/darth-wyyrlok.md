@@ -18,7 +18,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > Wyyrlok's knowledge of Sith lore, rituals, and history was rivaled only by that of Krayt himself.
 — Source: scan pages 321–360; Darth Wyyrlok III; Darth Krayt — entry/section: Wyyrlok, Darth.
 Note (our notes, around the quote): Darth Wyyrlok III; Darth Krayt — entry/section: Wyyrlok, Darth: "Wyyrlok's knowledge of Sith lore, rituals, and history was rivaled only by that of Krayt himself." Source: The Complete Star Wars Encyclopedia, Vol. III, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.337 — full quote as printed](quotes/v3-p337-wyyrloks-knowledge-of-sith-lore-rituals.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:192`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -32,7 +31,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > HE IS YOUR SERVANT, MY LORD, AS ARE WE ALL. WE LIVE OR DIE AS YOU COMMAND.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Wyyrlok III — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Wyyrlok III — entry/section: Pull quote: ""HE IS YOUR SERVANT, MY LORD, AS ARE WE ALL. WE LIVE OR DIE AS YOU COMMAND." —DARTH WYYRLOK" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.157
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.157 — full quote as printed](quotes/d719-s157-he-is-your-servant-my-lord.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:286`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption: "DARTH TALON." Darth Talon stat block CL 13 (Twi'lek Jedi 7/Sith apprentice 5/Sith Lord 1). Darth Wyyrlok: the third Sith Lord to bear the name; Chagrian; Darth Krayt's closest aide and confidante; Loremaster of the Sith; master of illusions. (hand-read)
@@ -42,13 +40,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Known as the Loremaster of the Sith, Darth Wyyrlok is one of the greatest scholars of Jedi, Sith, and other Force-using traditions in the galaxy.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Wyyrlok III — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Darth Wyyrlok III — entry/section: Legacy Era Campaign Guide (Saga): "Known as the Loremaster of the Sith, Darth Wyyrlok is one of the greatest scholars of Jedi, Sith, and other Force-using traditions in the galaxy." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174 — full quote as printed](quotes/d719-s174-known-as-the-loremaster-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:437`
 
 > In fact, so powerful are Darth Wyyrlok’s mind tricks that he manages to convince nearly a dozen lightsaber-wielding dark side cultists on Prakith that they should fight and kill one another, proving once again that the Sith are masters of bending the galaxy to their will.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Wyyrlok III — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Darth Wyyrlok III — entry/section: Legacy Era Campaign Guide (Saga): "In fact, so powerful are Darth Wyyrlok’s mind tricks that he manages to convince nearly a dozen lightsaber-wielding dark side cultists on Prakith that they should fight and kill one another, proving once again that the Sith are masters of bending the galaxy to their will." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174 — full quote as printed](quotes/d719-s174-in-fact-so-powerful-are-darth.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:439`
 
 - Note (summary from our notes, not a quotation): Page contents: Darth Wyyrlok stat block CL 16 (Chagrian Jedi 5/noble 3/Sith apprentice 4/Sith Lord 4; Illusion talent). Antares Draco: highest-ranking member of the Imperial Knights; an ancestor was a member of the Inquisitorius under Palpatine; involved with Marasiah Fel. Stat block CL 15 (Jedi 7/Imperial Knight 8). (hand-read)
@@ -66,7 +62,6 @@ Our notes: `notes/materials/038-star-wars-insider/088-ins088.md:288`
 > Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever.
 — Source: Star Wars Insider #114 (2010); Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death: ""Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever." —Jan Duursema, Star Wars Insider 114, p. 58" Source: *Star Wars Insider #114* (2010), scan p.58
-![Quote image: *Star Wars Insider #114* (2010), scan p.58 — full quote as printed](quotes/ins114-s58-cade-found-that-taking-down-krayt.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:323`
 
 > This is a promise—or a threat!
@@ -77,7 +72,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:328`
 > Two Sith in a room always equals trouble. Put Nyna Calixte into that room and war is likely. Krayt's death has caused internal strife within the Sith Empire as factions see opportunities arising.
 — Source: Star Wars Insider #114 (2010).
 Note (our notes, around the quote): Darth Wyyrlok III; Nyna Calixte — entry/section: Duursema: Sith infighting after Krayt's death: ""Two Sith in a room always equals trouble. Put Nyna Calixte into that room and war is likely. Krayt's death has caused internal strife within the Sith Empire as factions see opportunities arising." —Jan Duursema, Star Wars Insider 114, p. 59" Source: *Star Wars Insider #114* (2010), scan p.59
-![Quote image: *Star Wars Insider #114* (2010), scan p.59 — full quote as printed](quotes/ins114-s59-two-sith-in-a-room-always.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:330`
 
 ## Star Wars: Legacy (Dark Horse, 2006–2010) single issues #20–#50, hand-read
@@ -523,10 +517,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:12`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): On Coruscant, Krayt, Maladi, Nihl and Wyyrlok enter the throne room, cut down the Imperial Knights and kill "Roan Fel". The victim turns out to be a double. Krayt proclaims himself Emperor (p30–35). Krayt is physically spent; he senses a "DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH" and vows to find that Jedi (p36).
 Context: #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like
-![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
-![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p31 Krayt confronts "Fel"](../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+![p32 Krayt cuts down Imperial Knights](../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+![p35 Krayt blasts Maladi](../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p36 Krayt overextended; senses Cade's healing](../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:44`
 
 - Note (summary from our notes, not a quotation): #17: Nihl and Maladi discuss succession and Krayt's "AFFLICTION" (p377). Talon trains Cade (p378–381, p388–393). Krayt and Wyyrlok discuss turning Cade (p382). Corde infiltrates the Temple with Vong bugs (p387). The Jedi mind-trick the troopers on Ossus. Stryfe orders the ruins bombarded (p396–398).
@@ -569,16 +563,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:563`
 > SKYWALKER'S ARROGANCE WILL BE HIS UNDOING. HE THINKS HIMSELF SKILLED ENOUGH TO HIDE HIS TRUE FEELINGS, BUT HE IS NOT.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Krayt's chief servant and questioner. p36 (#1 Broken), p311 (#14 Claws), p382 (#17 Claws) — "I AM WYYRLOK. ALWAYS THE FIRST OF HIS SERVANTS, THE ONE CLOSEST TO HIM, THE ONE NEAREST HIS THOUGHTS." · "MY LORD DREAMS IN DARKNESS AND I WAIT -- AS DID MY MOTHER BEFORE ME AND HER FATHER BEFORE HER." · (p382) "WE HAVE NEVER TRAINED SOMEONE AS A SITH WHO DID NOT EMBRACE OUR CREED." · Krayt's answer (not Wyyrlok's; corrected 2026-10-21 from 013 p81): "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING. HE THINKS HIMSELF SKILLED ENOUGH TO HIDE HIS TRUE FEELINGS, BUT HE IS NOT."
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
-![p81 Krayt summons the holocrons](009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p36 Krayt overextended; senses Cade's healing](../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p81 Krayt summons the holocrons](../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+![p311](../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p382](../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:723`
 
 > LORD KRAYT HAS DETERMINED IT IS NOT. ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Gatekeeper over the Hands and Maladi. p350 (#15 Claws).
 Note (our notes, around the quote): Gatekeeper over the Hands and Maladi. p350 (#15 Claws): "LORD KRAYT HAS DETERMINED IT IS NOT. ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER."
-![p350 Wyyrlok: ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER](009-legacy-book-1-panels/p350-nihl-wyyrlok-gatekeeper-only-talon-prisoner.jpg) *(p350)*
+![p350 Wyyrlok: ONLY DARTH TALON, THE PRISONER, AND MYSELF ARE TO ENTER](../notes/materials/009-legacy-book-1-panels/p350-nihl-wyyrlok-gatekeeper-only-talon-prisoner.jpg) *(p350)*
 Our notes: `notes/materials/009-legacy-book-1.md:724`
 
 > THE FIRST DARTH WYYRLOK BECAME THE INSTRUMENT OF MY WILL IN THOSE DAYS
@@ -587,15 +581,15 @@ Our notes: `notes/materials/009-legacy-book-1.md:724`
 > The third Sith Master to hold this name, Wyyrlok is Krayt's second-in-command, a master of ritual lore of the Sith and of all the ways of the dark side.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Lineage. p406 (#18 Claws).
 Note (our notes, around the quote): Lineage. p406 (#18 Claws): "THE FIRST DARTH WYYRLOK BECAME THE INSTRUMENT OF MY WILL IN THOSE DAYS". Handbook (p448): "The third Sith Master to hold this name, Wyyrlok is Krayt's second-in-command, a master of ritual lore of the Sith and of all the ways of the dark side."
-![p406](009-legacy-book-1-panels/p406-krayt-born-stasis-wyyrlok-caedus.jpg)
-![p448 handbook: Krayt and Wyyrlok](009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
+![p406](../notes/materials/009-legacy-book-1-panels/p406-krayt-born-stasis-wyyrlok-caedus.jpg)
+![p448 handbook: Krayt and Wyyrlok](../notes/materials/009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:726`; `notes/materials/009-legacy-book-1.md:1123`
 
 - Note (summary from our notes, not a quotation): No combat feats in Book 1 (he only recoils from Cade's p417 shockwave). Scaling (ANALYSIS): for debates #31, #60 and #93 (Wyyrlok III), Book 1 supplies only rank and status statements.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Our notes: `notes/materials/009-legacy-book-1.md:727`
 
-- Note (summary from our notes, not a quotation): ![p448 handbook: Krayt and Wyyrlok](009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
+- Note (summary from our notes, not a quotation): ![p448 handbook: Krayt and Wyyrlok](../notes/materials/009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p448 handbook: Krayt and Wyyrlok — `p448-handbook-krayt-wyyrlok.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:729`
@@ -617,8 +611,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1047`
 
 - Note (summary from our notes, not a quotation): Darth Wyyrlok (III): "ALWAYS THE FIRST OF HIS SERVANTS" (p311); "second-in-command" (handbook, p448). He controls access and keeps the Hands and Maladi outside (p350).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p448 handbook: Krayt and Wyyrlok](009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
+![p311](../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p448 handbook: Krayt and Wyyrlok](../notes/materials/009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1080`
 
 > won't go all-out for long
@@ -652,8 +646,8 @@ Our notes: `notes/materials/010-legacy-war.md:51`
 - Note (summary from our notes, not a quotation): #1: he fights Wyyrlok with red and green blades (p19, p22).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Darth Krayt ("Reborn Krayt"). Back from the death Wyyrlok gave him (*Legacy* #50, not in this file). In War he is unmasked, with no visible Vong coral, pale skin, black facial markings, one orange eye and one blue (p4, p17, p117, p124), a braid and red spiked armour.
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:52`
 
 - Note (summary from our notes, not a quotation): #6: he fights Cade with one red blade (p122, p124).
@@ -677,19 +671,19 @@ Our notes: `notes/materials/010-legacy-war.md:84`
 > KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Wyyrlok holds the Temple (p10). He claims rule (.
 Note (our notes, around the quote): Wyyrlok holds the Temple (p10). He claims rule ("KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."), sends Saarai away and gets Stryfe's "MIGHT DECIDES" answer.
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Also cited as: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p10 Wyyrlok.
-Also noted as: ![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+Also noted as: ![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:86`; `notes/materials/010-legacy-war.md:523`
 
 - Note (summary from our notes, not a quotation): The Temple assault (p15–23). Krayt's group cuts through the guards (p15–16). Krayt kills Wyyrlok in a duel of lightning, telekinesis, sabers and a mind attack (p17–22). Krayt demotes Veed from Regent to Grand Admiral and declares war (p23).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p17 "I WOULD ACCEPT NONE. BEGIN."](010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p17 "I WOULD ACCEPT NONE. BEGIN."](../notes/materials/010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
+![p18 lightning web, rocks stopped and thrown back](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p20 Wyyrlok's mind attack](../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:88`
 
 > (p2) "I REMEMBER SEARING PAIN, EVERY NERVE FIBER ABLAZE...THEN DARKNESS AND COLD. I REMEMBER THE YAWNING ABYSS OF THE GRAVE WAITING TO SUCK ME ALL THE WAY IN." · "I REMEMBER A SECRET I LEARNED THAT OPENED THE GALAXY TO ME ANEW, AND MADE ME SEE IT DIFFERENTLY. ASTRIDE THE GRAVE, I SAW THE TRUTH OF THINGS AND FOUGHT MY WAY BACK." · (p3) "I REMEMBER THE WORDS SPOKEN BY KARNESS MUUR, AN ANCIENT SITH LORD, THAT OPENED MY EYES -- FAR MORE THAN HE INTENDED." · "I BARELY REMEMBER WRAPPING MYSELF IN THE FORCE TO SURVIVE." · (p4) "I DIMLY REMEMBER DRIVING MY CONSCIOUSNESS, MY LIFE FORCE, DEEP WITHIN MYSELF, SEEKING SAFE HAVEN, WHILE MY BODY SERVED AS A PROP TO ANOTHER'S AMBITION." · "I REMEMBER HEALING MYSELF WITH THE FORCE, GRADUALLY BECOMING STRONGER, MY BODY PROTECTED AND TRAPPED BY THE STASIS FIELD." · "I REMEMBER THE FAITHFUL ONE, TALON, NEAR ENOUGH TO HEAR THE THOUGHTS I PROJECTED INTO HER MIND..." · "...TO SENSE MY LIFE FORCE AND RELEASE ME." · "NOW I AM BACK. MY BETRAYER WILL KNOW MY REVENGE. THEN, I WILL BEND THE GALAXY TO MY WILL."
@@ -714,36 +708,36 @@ Our notes: `notes/materials/010-legacy-war.md:169`; `suspect-insight/respect-thr
 - Note (summary from our notes, not a quotation): Both fire Force lightning and the streams meet.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:174`
 
 - Note (summary from our notes, not a quotation): Krayt stands grinning, arms flung wide, inside a web of lightning that fills the panel. He takes it on his bare hands and body with no visible damage.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:176`
 
 - Note (summary from our notes, not a quotation): Wyyrlok swings a stream of rubble at him with telekinesis.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:178`
 
 - Note (summary from our notes, not a quotation): Krayt stops the rocks with an open hand in a blue Force glow.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:180`
 
 - Note (summary from our notes, not a quotation): Krayt flings them back and Wyyrlok shields inside a white Force sphere.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:182`
 
 - Note (summary from our notes, not a quotation): p19 (wordless). Krayt now has two blades, red and green. There are about four saber beats: a leap-in that Wyyrlok blocks overhead, Wyyrlok spinning over him on the stairs, a red-on-green bind, and Krayt's spin-past with the green arc crossing Wyyrlok's torso. No wound is drawn.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p19 Krayt with two blades vs Wyyrlok (wordless)](010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
+![p19 Krayt with two blades vs Wyyrlok (wordless)](../notes/materials/010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
 Our notes: `notes/materials/010-legacy-war.md:184`
 
 > WE HID YOUR WEAKNESS!
@@ -756,7 +750,7 @@ Our notes: `notes/materials/010-legacy-war.md:186`
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Our notes: `notes/materials/010-legacy-war.md:187`
 
-- Note (summary from our notes, not a quotation): ![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+- Note (summary from our notes, not a quotation): ![p20 Wyyrlok's mind attack](../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p20 — `p020-wyyrlok-mind-attack.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:195`
@@ -776,7 +770,7 @@ Our notes: `notes/materials/010-legacy-war.md:210`
 > "SOME OF YOU BELIEVE THAT BECAUSE YOU SAW LORD KRAYT IN A VISION THAT HE IS ALIVE. KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM." · "HIS HEALTH FAILED AND HIS MIND WITH IT. HE WAS TOO WEAK TO LEAD THE ONE SITH! WERE HE THE KRAYT OF OLD, I COULD NOT HAVE DONE IT. I AM NOW THE ONE SITH'S LEADER." · "IF THIS PRETENDER COMES TO CORUSCANT, THE ONE SITH WILL FIGHT HIM. AND I WILL KILL HIM. THUS SHALL IT BE." · "I HAVE FRACTURED THE ORDER, DARTH STRYFE. THE COMING BATTLE WILL DETERMINE ITS FATE." · "I WILL FACE KRAYT AS A WARRIOR OF THE DARK SIDE."
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 1. Claims leadership; admits killing Krayt; sends Saarai away. p10 (#1)
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:520`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): Wyyrlok's own statement is that he could not have killed "THE KRAYT OF OLD". It is a self-assessment that caps him below a healthy Krayt.
@@ -785,30 +779,30 @@ Our notes: `notes/materials/010-legacy-war.md:526`
 
 - Note (summary from our notes, not a quotation): 2. The duel. p17–22 (#1). See Krayt feat 3.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p17 "I WOULD ACCEPT NONE. BEGIN."](010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p17 "I WOULD ACCEPT NONE. BEGIN."](../notes/materials/010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
+![p18 lightning web, rocks stopped and thrown back](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p20 Wyyrlok's mind attack](../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:528`
 
 - Note (summary from our notes, not a quotation): On the page he matches Krayt in the opening lightning clash, throws rubble telekinetically, and blocks the returned rocks inside a white Force sphere (p18).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p18 lightning web, rocks stopped and thrown back](../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
 Our notes: `notes/materials/010-legacy-war.md:529`
 
 - Note (summary from our notes, not a quotation): He blocks and binds through about four saber beats (p19).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p19 Krayt with two blades vs Wyyrlok (wordless)](010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
+![p19 Krayt with two blades vs Wyyrlok (wordless)](../notes/materials/010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
 Our notes: `notes/materials/010-legacy-war.md:530`
 
 - Note (summary from our notes, not a quotation): He attacks Krayt's mind with a vision of his past (p20–21), and is impaled by both blades while standing over a crouching Krayt (p22).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p20 Wyyrlok's mind attack](../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:532`
 
 > NONE, FATHER. KORRIBAN IS SILENT. NIHL WAS TASKED TO FIND TALON AND KRAYT, BUT HE HAS SENT NO WORD.
@@ -818,7 +812,7 @@ Our notes: `notes/materials/010-legacy-war.md:532`
 > IT IS MY WILL. YOUR POWER IS NASCENT, AND NOT FULLY REALIZED. BE PATIENT. YOUR TIME WILL COME. GO NOW.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; > Saarai.
 Label in our notes: · Wyyrlok: · Saarai: "NO!" · Wyyrlok
-![p10 Wyyrlok and Saarai](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg) *(p10)*
+![p10 Wyyrlok and Saarai](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg) *(p10)*
 Our notes: `notes/materials/010-legacy-war.md:537`
 
 - Note (summary from our notes, not a quotation): "NASCENT" is lettered dialogue (Wyyrlok's), not just a forum caption.
@@ -827,7 +821,7 @@ Our notes: `notes/materials/010-legacy-war.md:540`
 
 - Note (summary from our notes, not a quotation): Saarai has no feat in War. She speaks only on p10 and leaves through a doorway.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:541`
 
 > ragdolled Stryfe
@@ -836,8 +830,8 @@ Our notes: `notes/materials/010-legacy-war.md:541`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): No Saarai–Stryfe encounter occurs anywhere in War #1–6. Stryfe's only War fight is the mutual kill with Sazen (p113–114). The "ragdolled Stryfe / grabbed his heart" feat therefore cannot be War. Azronger's citation to *Legacy* #34 stands (see legends-feats correction).
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:542`
 
 > MIGHT DECIDES. I WILL FOLLOW THE VICTOR. IT IS THE WAY OF THE SITH.
@@ -853,7 +847,7 @@ Our notes: `notes/materials/010-legacy-war.md:927`
 > I AM NOW THE ONE SITH'S LEADER. *(p10)*
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Darth Wyyrlok (III), usurper in #1.
 Note (our notes, around the quote): Darth Wyyrlok (III), usurper in #1: "I AM NOW THE ONE SITH'S LEADER." (p10). "I HAVE FRACTURED THE ORDER" (p10).
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1002`
 
 - Note (summary from our notes, not a quotation): Krayt's are vindicated against Wyyrlok and against Cade's open fighting.
@@ -882,8 +876,8 @@ Our notes: `notes/materials/010-legacy-war.md:1068`
 - Note (summary from our notes, not a quotation): The kill is a double impalement while Wyyrlok gloats (p22).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Counter:
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1077`
 
 - Note (summary from our notes, not a quotation): Wyyrlok's own "KRAYT OF OLD" self-cap (p10).
@@ -932,8 +926,8 @@ Our notes: `notes/materials/010-legacy-war.md:1160`
 
 - Note (summary from our notes, not a quotation): Wyyrlok's horns "hacked apart" (W): not drawn. The kill is a double chest impalement (p22).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1202`
 
 ## Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels
@@ -942,12 +936,12 @@ Our notes: `notes/materials/010-legacy-war.md:1202`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Sith rank order by the numbers: Krayt CL20 (UtF +22) > Wyyrlok III CL16 (UtF +20) ≈ Nihl CL16 (UtF +15, but the best Sith duelist line after Krayt: +21, 2d10+10) > Azard CL15 / Maladi CL15 > Talon CL13 / Maleval CL13. Talon is statted barely above the generic Imperial Knight (CL11), despite the bio calling her "one of the most formidable lightsaber duelists in the Sith Order" (p173–174, p163).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-the-imperial-knights-learn-how-use.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-no-students-fail-out-of-imperial.jpg)
-![p163 generic Imperial Knight CL 11 (bio and stat)](011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
-![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-the-imperial-knights-learn-how-use.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-no-students-fail-out-of-imperial.jpg)
+![p163 generic Imperial Knight CL 11 (bio and stat)](../notes/materials/011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
+![p173 Darth Nihl CL 16 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 
 - Note (summary from our notes, not a quotation): | 3 | Darth Wyyrlok (III) | p175 | 16 | Jedi 5 / noble 3 / Sith apprentice 4 / Sith Lord 4 | +20 | 30 (ff 30) / 31 / 33 | 123 (31) | 16 | 3 / 8 | +16 (2d8+8) |
@@ -955,42 +949,42 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 Context: | # | Character | Page | CL | Classes | UtF | Ref / Fort / Will | HP (Thr.) | DSS | Destiny / FP | Best lightsaber line |
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:118`
 
-- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
+- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](../notes/materials/011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16) — `p224-appendix-cl-list-top.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:140`
 
 > There is a secret known only to two individuals in the galaxy that could prove to be the catalyst for great change: Darth Krayt, Emperor of the galaxy and ruler of the Sith, is dying. However, this is not the only secret shared by Darth Krayt and Darth Wyyrlok.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Holocron sidebar (p54).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:180`
 
-- Note (summary from our notes, not a quotation): ![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+- Note (summary from our notes, not a quotation): ![p170 art: "Darth Krayt and Darth Wyyrlok"](../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p170 art: "Darth Krayt and Darth Wyyrlok" — `p170-art-krayt-and-wyyrlok.jpg`*)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:218`
 
 > Actually the third Sith Lord to bear the name, Darth Wyyrlok is a Chagrian Sith Lord who serves as Darth Krayt's closest aide and confidante. Known as the Loremaster of the Sith, Darth Wyyrlok is one of the greatest scholars of Jedi, Sith, and other Force-using traditions in the galaxy.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:242`
 
 > utterly dedicated to serving Darth Krayt and will go to the ends of the galaxy to find a way to restore his master's body to its youthful form.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; He is.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:244`
 
 > He is a master of illusions, capable of using the Force to trick his enemies' minds into seeing things that are not there. In fact, so powerful are Darth Wyyrlok's mind tricks that he manages to convince nearly a dozen lightsaber-wielding dark side cultists on Prakith that they should fight and kill one another, proving once again that the Sith are masters of bending the galaxy to their will.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:246`
 
 > OUR LORD KEEPS HIS OWN SECRETS, AND WE, AS LOYAL SITH, ARE BOUND TO OBEY WITHOUT QUESTION.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Pull quote. POV: Pull quote.
 Label in our notes: DARTH MALADI
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p174-our-lord-keeps-his-own-secrets.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p174-our-lord-keeps-his-own-secrets.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:248`
 
 - Note (summary from our notes, not a quotation): CL 16; Medium Chagrian Jedi 5/noble 3/Sith apprentice 4/Sith Lord 4. Destiny 3; Force 8; Dark Side 16. Init +13; Perception +16. Eleven languages, including Sith and Yuuzhan Vong.
@@ -1017,7 +1011,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:256`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Int 18, Wis 16. The Illusion talent is cross-referenced as "(see page 52 of the Knights of the Old Republic Campaign Guide)".
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-darth-wyyrlok-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-darth-wyyrlok-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:257`
 
 - Note (summary from our notes, not a quotation): Second-highest UtF in the book (+20, tied with Kol) and second-highest Will (33).
@@ -1032,12 +1026,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:262`
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:263`
 
-- Note (summary from our notes, not a quotation): ![p174 Wyyrlok bio: Loremaster; Prakith mind trick](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+- Note (summary from our notes, not a quotation): ![p174 Wyyrlok bio: Loremaster; Prakith mind trick](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p174 Wyyrlok bio: Loremaster; Prakith mind trick — `p174-darth-wyyrlok-bio-prakith.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:265`
 
-- Note (summary from our notes, not a quotation): ![p175 Darth Wyyrlok CL 16](011-legacy-era-campaign-guide-panels/p175-darth-wyyrlok-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p175 Darth Wyyrlok CL 16](../notes/materials/011-legacy-era-campaign-guide-panels/p175-darth-wyyrlok-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p175 Darth Wyyrlok CL 16 — `p175-darth-wyyrlok-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:268`
@@ -1046,7 +1040,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:268`
 > [fragment — full passage not on file]
 — Source: (debate #115, Bane vs Kol) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Scaling (ANALYSIS): his UtF (+20) ties Wyyrlok and is the highest of any Jedi in the book. "A torrent of Sith attackers, including Darth Nihl" supports 009's reading that Kol fell to numbers (debate #115, Bane vs Kol).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:579`
 
 > one of the greatest scholars of Jedi, Sith, and other Force-using traditions in the galaxy
@@ -1086,15 +1080,15 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1036`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Confirmed: Wyyrlok is the.
 Note (our notes, around the quote): Confirmed: Wyyrlok is the "third Sith Lord to bear the name" (p174), matching 009's handbook (p448: "The third Sith Master to hold this name").
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1054`
 
 - Note (summary from our notes, not a quotation): Wyyrlok "master of illusions" (debate #60) — VERIFIED (p174).
   — Source: (debate #60) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
-![p174 Darth Talon CL 13 (part 1)](011-legacy-era-campaign-guide-panels/p174-darth-talon-stat-a.jpg)
-![p174 Darth Talon (part 2)](011-legacy-era-campaign-guide-panels/p174-darth-talon-stat-b.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p174-our-lord-keeps-his-own-secrets.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![p174 Darth Talon CL 13 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-talon-stat-a.jpg)
+![p174 Darth Talon (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-talon-stat-b.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p174-our-lord-keeps-his-own-secrets.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1076`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt (CL20), Darth Wyyrlok III (CL16), Darth Nihl (CL16), Darth Azard (CL15), Darth Maladi (CL15), Darth Talon (CL13), Darth Maleval (CL13), Jor Torlin (CL11).
@@ -1121,12 +1115,12 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:78`
 
 - Note (summary from our notes, not a quotation): From stasis, Krayt senses "SKYWALKER IS COMING" while Wyyrlok fears he is dying (p10). Cade shakes off a four-ship Skull Squadron flight in Coruscant traffic and hides his ship in the undercity (p11–14, p22). He leaves the *Mynock*'s codes with Queen Jool at Rik's cantina for Syn and Deliah (p17–21). Gunner Yage is dressed down by her father (p22–23). Cade slips into the Sith Temple, finds Hosk with the Force and frees him (p24–27). Talon ambushes them; Cade has the better of the first exchange until Nihl strikes him from behind (p27–30). Sazen senses Cade's darkness from Ossus (p31).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
-![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
-![p24 "AH! FOUND YOU."](013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
-![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
+![p24 "AH! FOUND YOU."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
+![p27 Cade blocks Talon's ambush](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p29 Sith eyes; Nihl from behind](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:40`
 
 - Note (summary from our notes, not a quotation): Maladi calls off the Imperial search; the Moffs squabble, and Calixte, Veed and the Yages trade barbs (p32–36). Maladi tortures Cade with ixetal cilona, which he keeps purging; Krayt arrives (p37–38). Talon brings in Syn and Deliah; Maladi triggers coral seeds in them, Krayt frees one of Cade's hands with the Force, and Cade heals both at once with dark-side power (p39–45). Cade trades his freedom for theirs (p45–46). Calixte and Veed plan to use Corde (p47–48). Wyyrlok keeps Nihl and Maladi outside; they argue over birth and rank (p49–50). Over dinner Krayt shows Cade Kol's encased lightsaber and reveals he was the Jedi A'Sharad Hett (p51–53).
@@ -1138,7 +1132,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:44`
 Context: 1. Senses Cade's approach from stasis. p10 (#14) [009 p311]
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:68`
 
-- Note (summary from our notes, not a quotation): ![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+- Note (summary from our notes, not a quotation): ![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p10 — `p010-wyyrlok-my-lord-is-dying.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:71`
@@ -1170,8 +1164,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:367`
 > THE FIRST DARTH WYYRLOK BECAME THE INSTRUMENT OF MY WILL IN THOSE DAYS.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Hereditary first servant. p10 (#14).
 Note (our notes, around the quote): Hereditary first servant. p10 (#14): "I AM WYYRLOK. ALWAYS THE FIRST OF HIS SERVANTS, THE ONE CLOSEST TO HIM, THE ONE NEAREST HIS THOUGHTS. I WONDER NOW IF I SHALL BE THE LAST." · "MY LINE CONTINUES WITH A DAUGHTER IN TRAINING ON KORRIBAN." · (p105, Krayt) "THE FIRST DARTH WYYRLOK BECAME THE INSTRUMENT OF MY WILL IN THOSE DAYS."
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
-![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:393`
 
 > YES, BUT THAT IS ONE OF MY DUTIES AS YOU DEFINED THEM.
@@ -1179,12 +1173,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:393`
 > WE HAVE NEVER TRAINED SOMEONE AS A SITH WHO DID NOT EMBRACE OUR CREED.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Outranks a Hand at the door (p49), and questions Krayt by design (p81): "YES, BUT THAT IS ONE OF MY DUTIES AS YOU DEFINED THEM." · "WE HAVE NEVER TRAINED SOMEONE AS A SITH WHO DID NOT EMBRACE OUR CREED."
-![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
+![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:394`
 
 - Note (summary from our notes, not a quotation): No combat. He recoils from Cade's p116 burst (by count; face hidden). For debates #31, #60 and #93, Claws supplies only rank statements.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p116 the burst; four Sith recoil](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:395`
 
 > THE SITH... BROKE ME.
@@ -1202,8 +1196,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:421`
 
 - Note (summary from our notes, not a quotation): Darth Wyyrlok: "ALWAYS THE FIRST OF HIS SERVANTS" (p10); bars a Hand at the door on Krayt's order (p49); questions Krayt as "ONE OF MY DUTIES" (p81).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels. POV: Darth Wyyrlok.
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
-![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:511`
 
 - Note (summary from our notes, not a quotation): Wyyrlok III (debates #31, #60, #93). Claws gives no combat at all; only "FIRST OF HIS SERVANTS" status (p10) and Krayt's trust (p81).
@@ -1563,7 +1557,7 @@ Our notes: `legends-feats.md:2262`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Mind tricks make about a dozen lightsaber-wielding cultists kill each other (material 011; p174; debates #31, #60, #93)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `legends-feats.md:2434`
 
 - Note (summary from our notes, not a quotation): Stats: CL 16. UtF +20. Ref 30, Fort 31, Will 33. hp 123. Lightsaber +16 (2d8+8). Illusion talent. No Force lightning listed. (material 011; p175)

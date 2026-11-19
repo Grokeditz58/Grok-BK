@@ -96,7 +96,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:134`
 > Luke went to the volcanic planet Eol Sha, where he found a fiery-tempered leader named Gantoris. Next, he tracked down the cloud prospector Streen, living as a hermit in an abandoned floating city on Bespin.
 — Source: Part Eight: The Return of the Jedi Knights; Gantoris; Streen; Luke Skywalker — Gantoris and Streen. POV: speaker not named in our notes.
 Note (our notes, around the quote): Gantoris; Streen; Luke Skywalker — Gantoris and Streen: "Luke went to the volcanic planet Eol Sha, where he found a fiery-tempered leader named Gantoris. Next, he tracked down the cloud prospector Streen, living as a hermit in an abandoned floating city on Bespin." Source: The New Essential Chronology, p.162
-![Quote image: The New Essential Chronology, p.162 — full quote as printed](quotes/nec-p162-gantoris-and-streen.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:13`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -118,19 +117,16 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/00-front-matter-int
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Streen; Exar Kun — Streen — sensing Kun: "Streen's sensitivity in the Force allows him to detect Exar Kun's presence." Source: The Jedi Academy Sourcebook, p.37
-![Quote image: The Jedi Academy Sourcebook, p.37 — full quote as printed](quotes/jas-p37-streen-sensing-kun.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:118`
 
 > Empowered by Kun, Streen attacks Luke's sleeping body by creating a force of wind which lifts Luke up toward the skylight in the room. He is not aware of what he is doing, and ceases as soon as Kirana Ti tackles him and breaks his trance.
 — Source: Chapter Three: The Jedi Academy.
 Note (our notes, around the quote): Streen; Exar Kun; Luke Skywalker; Kirana Ti — Streen — the Force wind attack on Luke: "Empowered by Kun, Streen attacks Luke's sleeping body by creating a force of wind which lifts Luke up toward the skylight in the room. He is not aware of what he is doing, and ceases as soon as Kirana Ti tackles him and breaks his trance." Source: The Jedi Academy Sourcebook, p.37
-![Quote image: The Jedi Academy Sourcebook, p.37 — full quote as printed](quotes/jas-p37-streen-the-force-wind-attack-on.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:120`
 
 > It is Streen who protects the group from Kun's throat-constricting attack while they work to defeat the ancient Sith Lord.
 — Source: Chapter Three: The Jedi Academy; Streen; Exar Kun — Streen — shielding the group.
 Note (our notes, around the quote): Streen; Exar Kun — Streen — shielding the group: "It is Streen who protects the group from Kun's throat-constricting attack while they work to defeat the ancient Sith Lord." Source: The Jedi Academy Sourcebook, p.37
-![Quote image: The Jedi Academy Sourcebook, p.37 — full quote as printed](quotes/jas-p37-streen-shielding-the-group.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:122`
 
 > In order to redeem himself, he demands to Chapter Three: The Jedi Academ stand guard over Luke's body when the others mount their attack against Exar Kun. It is Streen who protects the group from Kun’s throat-con- stricting attack while they work to defeat the ancient Sith Lord. mi Streen Type: Tibanna Gas Prospector DEXTERITY 2D Blaster 3D+1, brawling parry 3D, dodge 3D+2, lightsaber 2D+2, melee combat 2D+2, melee parry 3D KNOWLEDGE 3D Bureaucracy 4D, bureaucracy: Cloud City 5D, business 3D+2, business: tibanna gas industry 4D+2, planetary systems 5D, streetwise 4D+ 1, survival 4D, survival: Yavin Four 4D+2, value 3D+1, value: tibanna gas 4D+2 MECHANICAL 4D Airship piloting 6D, hover vehicle operation 4D+2, repulsorlift operation 5D, sensors 5D, space transports 4D+2, swoop operation 4D+1 PERCEPTION 2D 3argain 3D, con 3D-1, hide 3D+2, persuasion 4D, search: tibanna gas eruptions 5D, sneak 4D+1 STRENGTH 3D+1 Climbing/jumping 4D, lifting 3D+2, stamina 4D+2 TECHNICAL 3D+2 Airship repair 5D+1, computer programming/repair 4D, droid repair 4D, first aid 4D+2, lightsaber repair 4D, machinery repair: tibanna gas processor 5D-+1, repulsorlift repair 5D, security 4D+1 Special Abilities:
@@ -142,7 +138,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Streen — Streen — stat block, Force skills (RPG mechanics) — RPG mechanics (weaker source): "Force Skills: Control 3D+1, sense 4D, alter 4D" Source: The Jedi Academy Sourcebook, p.37, stat block
-![Quote image: The Jedi Academy Sourcebook, p.37 — full quote as printed](quotes/jas-p37-streen-stat-block-force-skills-rpg.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:124`
 
 > It is Streen who protects the group from Kun’s throat-con- stricting attack while they work to defeat the ancient Sith Lord. mi Streen Type: Tibanna Gas Prospector DEXTERITY 2D Blaster 3D+1, brawling parry 3D, dodge 3D+2, lightsaber 2D+2, melee combat 2D+2, melee parry 3D KNOWLEDGE 3D Bureaucracy 4D, bureaucracy: Cloud City 5D, business 3D+2, business: tibanna gas industry 4D+2, planetary systems 5D, streetwise 4D+ 1, survival 4D, survival: Yavin Four 4D+2, value 3D+1, value: tibanna gas 4D+2 MECHANICAL 4D Airship piloting 6D, hover vehicle operation 4D+2, repulsorlift operation 5D, sensors 5D, space transports 4D+2, swoop operation 4D+1 PERCEPTION 2D 3argain 3D, con 3D-1, hide 3D+2, persuasion 4D, search: tibanna gas eruptions 5D, sneak 4D+1 STRENGTH 3D+1 Climbing/jumping 4D, lifting 3D+2, stamina 4D+2 TECHNICAL 3D+2 Airship repair 5D+1, computer programming/repair 4D, droid repair 4D, first aid 4D+2, lightsaber repair 4D, machinery repair: tibanna gas processor 5D-+1, repulsorlift repair 5D, security 4D+1 Special Abilities:
@@ -152,13 +147,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Streen — Streen — stat block, Force powers (RPG mechanics) — RPG mechanics (weaker source): "Sense and alter: Force wind" Source: The Jedi Academy Sourcebook, p.38, stat block
-![Quote image: The Jedi Academy Sourcebook, p.38 — full quote as printed](quotes/jas-p38-streen-stat-block-force-powers-rpg.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:131`
 
 > He boasts that he already owns Kyp and Streen, and destroyed Gantoris.
 — Source: Chapter Four: Echoes of the Sith.
 Note (our notes, around the quote): Exar Kun; Kyp Durron; Streen; Gantoris — The Return of Exar Kun — Kun's boast: "He boasts that he already owns Kyp and Streen, and destroyed Gantoris." Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-kuns.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:38`
 
 > Still not ready to take on Luke directly, Kun makes several attempts on Luke's body. Each attack is thwarted by the Jedi students and Leia.
@@ -175,13 +168,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Exar Kun; Kirana Ti; Streen; Vodo-Siosk Baas; Luke Skywalker — The Return of Exar Kun — the final blow: "Kirana Ti and Streen jointly deliver the final blow, using the lightsabers of Luke and Gantoris to destroy Exar" Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-the.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:42`
 
 > This power allows the Sith to manipulate and channel air currents to form powerful and destructive tornadoes which can lift people bodily up into the air and fling them about.
 — Source: Chapter Four: Echoes of the Sith; Streen — Force Wind — effect.
 Note (our notes, around the quote): Streen — Force Wind — effect: "This power allows the Sith to manipulate and channel air currents to form powerful and destructive tornadoes which can lift people bodily up into the air and fling them about." Source: The Jedi Academy Sourcebook, p.50
-![Quote image: The Jedi Academy Sourcebook, p.50 — full quote as printed](quotes/jas-p50-force-wind-effect.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:57`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -193,13 +184,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > Luke Skywalker found Streen to be Force-sensitive and invited him to join the other Jedi students at the Jedi academy, The spirit of Sith Lord Exar Kun influenced Streen into starting a tornado that threatened to destroy the near-lifeless body of Luke, but Streen was stopped in time.
 — Source: scan pages 161–200; Streen; Luke Skywalker; Exar Kun — entry/section: Streen.
 Note (our notes, around the quote): Streen; Luke Skywalker; Exar Kun — entry/section: Streen: "Luke Skywalker found Streen to be Force-sensitive and invited him to join the other Jedi students at the Jedi academy, The spirit of Sith Lord Exar Kun influenced Streen into starting a tornado that threatened to destroy the near-lifeless body of Luke, but Streen was stopped in time." Source: The Complete Star Wars Encyclopedia, Vol. III, p.194
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.194 — full quote as printed](quotes/v3-p194-luke-skywalker-found-streen-to-be.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:425`
 
 > He later joined forces with the other Jedi students in destroying Exar Kun's spirit forever.
 — Source: scan pages 161–200; Streen; Exar Kun — entry/section: Streen.
 Note (our notes, around the quote): Streen; Exar Kun — entry/section: Streen: "He later joined forces with the other Jedi students in destroying Exar Kun's spirit forever." Source: The Complete Star Wars Encyclopedia, Vol. III, p.194
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.194 — full quote as printed](quotes/v3-p194-he-later-joined-forces-with-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:427`
 
 ## Star Wars Insider #57 (2001)

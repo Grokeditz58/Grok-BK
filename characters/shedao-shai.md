@@ -14,13 +14,11 @@
 > Corran Horn battles Shedao Shai for the fate of Ithor.
 — Source: Part Twelve: The New Jedi Order; art caption.
 Note (our notes, around the quote): art caption: "Corran Horn battles Shedao Shai for the fate of Ithor." Source: The New Essential Chronology, p.206, caption
-![Quote image: The New Essential Chronology, p.206 — full quote as printed](quotes/nec-p206-caption-corran-horn-battles-shedao-shai.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:44`
 
 > Corran won the duel, killing Shedao Shai.
 — Source: Part Twelve: The New Jedi Order; Corran kills Shedao Shai. POV: Corran kills Shedao Shai.
 Note (our notes, around the quote): Corran kills Shedao Shai: "Corran won the duel, killing Shedao Shai." Source: The New Essential Chronology, p.208
-![Quote image: The New Essential Chronology, p.208 — full quote as printed](quotes/nec-p208-corran-kills-shedao-shai.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:56`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -28,7 +26,6 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 > In the end, Shedao Shai betrayed A'kla: He killed the Senator and prepared his corpse in the appropriate Yuuzhan Vong manner, returning the artistically decorated skeleton to Corran Horn on Ithor.
 — Source: scan pages 1–40; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "In the end, Shedao Shai betrayed A'kla: He killed the Senator and prepared his corpse in the appropriate Yuuzhan Vong manner, returning the artistically decorated skeleton to Corran Horn on Ithor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.17
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.17 — full quote as printed](quotes/v1-p17-in-the-end-shedao-shai-betrayed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:203`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -36,13 +33,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 > Horn eventually confronted Shedao Shai, and they agreed to a duel: Corran fighting for Ithor, and Shedao Shai for the remains of Mongei Shai.
 — Source: scan pages 41–80; Corran Horn — entry/section: Horn, Corran.
 Note (our notes, around the quote): Corran Horn — entry/section: Horn, Corran: "Horn eventually confronted Shedao Shai, and they agreed to a duel: Corran fighting for Ithor, and Shedao Shai for the remains of Mongei Shai." Source: The Complete Star Wars Encyclopedia, Vol. II, p.59
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.59 — full quote as printed](quotes/v2-p59-horn-eventually-confronted-shedao-shai-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:164`
 
 > After Shedao Shai's death in his duel with Jedi Knight Corran Horn, Yuuzhan Vong warrior Deign Lian seized command of Legacy of Torment and used it to deliver lethal bioweapons that destroyed the jungles of Ithor.
 — Source: scan pages 241–280; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "After Shedao Shai's death in his duel with Jedi Knight Corran Horn, Yuuzhan Vong warrior Deign Lian seized command of Legacy of Torment and used it to deliver lethal bioweapons that destroyed the jungles of Ithor." Source: The Complete Star Wars Encyclopedia, Vol. II, p.248
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.248 — full quote as printed](quotes/v2-p248-after-shedao-shais-death-in-his.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:129`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -50,7 +45,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Shedao Shai carried one, and at Ebaq 9, Tsavong Lah dueled Jaina with his tsaisi.
 — Source: scan pages 241–280; Jaina Solo. POV: Jaina Solo, about Shedao Shai.
 Note (our notes, around the quote): Jaina Solo: "Shedao Shai carried one, and at Ebaq 9, Tsavong Lah dueled Jaina with his tsaisi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.266 — full quote as printed](quotes/v3-p266-shedao-shai-carried-one-and-at.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:265`
 
 ## The New Essential Guide to Characters (2002)
@@ -58,7 +52,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Knowing his actions skirted dangerously close to the dark side, Corran challenged Shedao Shai to a duel.
 — Source: scan pages 61–90; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "Knowing his actions skirted dangerously close to the dark side, Corran challenged Shedao Shai to a duel." Source: The New Essential Guide to Characters, p.80
-![Quote image: The New Essential Guide to Characters, p.80 — full quote as printed](quotes/negc-p80-knowing-his-actions-skirted-dangerously-close.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:102`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -66,55 +59,46 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > Lean and fierce, he is a frightening figure, deadly in combat and nigh invincible in battle.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Shedao Shai — entry/section: Shedao Shai, Yuuzhan Vong Commander (The New Jedi Order Sourcebook, Ch3): "Lean and fierce, he is a frightening figure, deadly in combat and nigh invincible in battle." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.67
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.67 — full quote as printed](quotes/d049-s67-lean-and-fierce-he-is-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:46`
 
 > Corran Horn negotiates a temporary truce with Shedao Shai: a week's cease-fire, at the end of which Shedao Shai and Corran Horn would duel to the death.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "Corran Horn negotiates a temporary truce with Shedao Shai: a week's cease-fire, at the end of which Shedao Shai and Corran Horn would duel to the death." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.67
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.67 — full quote as printed](quotes/d049-s67-corran-horn-negotiates-a-temporary-truce.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:48`
 
 > After Shedao Shai's death in his duel with the Jedi Knight Corran Horn, the Yuuzhan Vong warrior Deign Lian seizes command of Legacy of Torment, using it to deliver lethal bioweapons that destroy the jungles of Ithor.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "After Shedao Shai's death in his duel with the Jedi Knight Corran Horn, the Yuuzhan Vong warrior Deign Lian seizes command of Legacy of Torment, using it to deliver lethal bioweapons that destroy the jungles of Ithor." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.68
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.68 — full quote as printed](quotes/d049-s68-after-shedao-shais-death-in-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:59`
 
 > Meeting no resistance to his attack, Shedao Shai falls temporarily off balance—just long enough for Corran to press his lightsaber hilt to the Yuuzhan Vong’s abdomen and switch it on.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Corran Horn; Shedao Shai; Mara Jade Skywalker — entry/section: Duel, Betrayal, and Blame (The New Jedi Order Sourcebook, Ch3): "Meeting no resistance to his attack, Shedao Shai falls temporarily off balance—just long enough for Corran to press his lightsaber hilt to the Yuuzhan Vong’s abdomen and switch it on." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69 — full quote as printed](quotes/d049-s69-meeting-no-resistance-to-his-attack.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:66`
 
 > Though Corran Horn defeated Shedao Shai, the Jedi Master had, for a brief time, surrendered to the dark side.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Corran Horn; Shedao Shai — entry/section: Duel, Betrayal, and Blame (The New Jedi Order Sourcebook, Ch3): "Though Corran Horn defeated Shedao Shai, the Jedi Master had, for a brief time, surrendered to the dark side." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69 — full quote as printed](quotes/d049-s69-though-corran-horn-defeated-shedao-shai.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:68`
 
 > Duel, Betrayal, and Blame The Battle of Ithor ends when Corran Horn and Mara Jade Skywalker locate the Yuuzhan Vong command post and contact Shedao Shai, the Yuuzhan Vong commander.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Corran Horn; Mara Jade Skywalker.
 Note (our notes, around the quote): Corran Horn; Mara Jade Skywalker: "Duel, Betrayal, and Blame The Battle of Ithor ends when Corran Horn and Mara Jade Skywalker locate the Yuuzhan Vong command post and contact Shedao Shai, the Yuuzhan Vong commander." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69 — full quote as printed](quotes/d049-s69-duel-betrayal-and-blame-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:72`
 
 > Corran and Shedao Shai agreed to a temporary truce—at the end of which, the two engage in a duel to decide Ithor's fate.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "Corran and Shedao Shai agreed to a temporary truce—at the end of which, the two engage in a duel to decide Ithor's fate." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69 — full quote as printed](quotes/d049-s69-corran-and-shedao-shai-agreed-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:74`
 
 > The duel takes place a week later, with Luke Skywalker as Corran Horn's witness, and Deign Lian as Shedao Shai's.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Luke Skywalker; Corran Horn.
 Note (our notes, around the quote): Luke Skywalker; Corran Horn: "The duel takes place a week later, with Luke Skywalker as Corran Horn's witness, and Deign Lian as Shedao Shai's." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69 — full quote as printed](quotes/d049-s69-the-duel-takes-place-a-week.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:76`
 
 > Though he has convinced himself that the duel with Shedao Shai was over the fate of Ithor, what Corran had really wanted was revenge—revenge for the gentle Caamasi senator Elegos A'Kla, one of Corran's dearest friends.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Corran Horn. POV: Corran Horn, about Shedao Shai.
 Note (our notes, around the quote): Corran Horn: "Though he has convinced himself that the duel with Shedao Shai was over the fate of Ithor, what Corran had really wanted was revenge—revenge for the gentle Caamasi senator Elegos A'Kla, one of Corran's dearest friends." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.69 — full quote as printed](quotes/d049-s69-though-he-has-convinced-himself-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:80`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–225)
@@ -128,7 +112,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > Corran's defeat of the warriors earned him the enmity of enemy commander Shedao Shai. The two eventually squared off in a one-on-one duel for the planet Ithor. Though Corran won, the Yuuzhan Vong destroyed Ithor anyway.
 — Source: Star Wars Insider #57 (2001); Corran Horn; Shedao Shai — entry/section: Corran Horn.
 Note (our notes, around the quote): Corran Horn; Shedao Shai — entry/section: Corran Horn: "Corran's defeat of the warriors earned him the enmity of enemy commander Shedao Shai. The two eventually squared off in a one-on-one duel for the planet Ithor. Though Corran won, the Yuuzhan Vong destroyed Ithor anyway." Source: *Star Wars Insider #57* (2001), scan p.46
-![Quote image: *Star Wars Insider #57* (2001), scan p.46 — full quote as printed](quotes/ins057-s46-corrans-defeat-of-the-warriors-earned.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:335`
 
 ## Star Wars Insider #74 (2004)
@@ -141,7 +124,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:138`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #74 (2004).
 Note (our notes, around the quote): Corran Horn; Shedao Shai — entry/section: Star Wars Insider 074 (2004): "Horn then kills Shedao Shai in a duel" Source: *Star Wars Insider #74* (2004), scan p.27
-![Quote image: *Star Wars Insider #74* (2004), scan p.27 — full quote as printed](quotes/ins074-s27-horn-then-kills-shedao-shai-in.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:174`
 
 - Note (summary from our notes, not a quotation): Page contents: NJO: Force Heretic II: Refugee (Bakura, the Ssi-Ruuk) and III: Reunion (Zonama Sekot rediscovered) synopses; great showdowns: Chewie vs. Dobido, Luke wading into a Vong camp in Onslaught, Corran Horn vs. Shedao Shai, the Falcon vs. Tsavong Lah's Sunulok, Fey'lya's fusillade, Anakin's sacrifice, Jacen in arms, Ganner's last stand, the endgame at Ebaq 9. (hand-read)

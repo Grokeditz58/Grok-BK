@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 > Shaak Tis companions—Jedi Masters Roron Corobb and Foul Moudama—were killed.
 — Source: scan pages 241–280; Shaak Ti; Roron Corobb; Foul Moudama — entry/section: Ti, Shaak.
 Note (our notes, around the quote): Shaak Ti; Roron Corobb; Foul Moudama — entry/section: Ti, Shaak: "Shaak Tis companions—Jedi Masters Roron Corobb and Foul Moudama—were killed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.243
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.243 — full quote as printed](quotes/v3-p243-shaak-tis-companions-jedi-masters-roron.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:92`
 
 ## Star Wars Insider #92 (2007)

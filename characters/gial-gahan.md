@@ -14,7 +14,6 @@
 > After Admiral Stazi and the Galactic Alliance Core Fleet steal the prototype Star Destroyer imperious from the Dac shipyards, with help from former Triumvirate member Gial Gahan, Darth Krayt orders the execution of millions of Mon Calamari and has the remaining Mon Calamari rounded up into internment camps.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt, about Gial Gahan.
 Note (our notes, around the quote): Darth Krayt: "After Admiral Stazi and the Galactic Alliance Core Fleet steal the prototype Star Destroyer imperious from the Dac shipyards, with help from former Triumvirate member Gial Gahan, Darth Krayt orders the execution of millions of Mon Calamari and has the remaining Mon Calamari rounded up into internment camps." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.127
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.127 — full quote as printed](quotes/d719-s127-after-admiral-stazi-and-the-galactic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:62`
 
 - Note (summary from our notes, not a quotation): Page contents: Commander Jhoram Bey stats continued (alternate talents/feats from Starships of the Galaxy); Anj Dahl (CL 8, Medium Human scoundrel 7/ace pilot 1); Gial Gahan intro. (hand-read)
@@ -70,19 +69,19 @@ Our notes: `notes/materials/039-legacy-2006/legacy-22.md:9`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Gial Gahan.
 Label in our notes: p137
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:182`
 
 > is killed by Darth Krayt personally
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p137 Gial Gahan.
-Note (our notes, around the quote): ![p137 Gial Gahan "is killed by Darth Krayt personally"](011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
+Note (our notes, around the quote): ![p137 Gial Gahan "is killed by Darth Krayt personally"](../notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
 (*Panel: p137 Gial Gahan "is killed by Darth Krayt personally" — `p137-gial-gahan.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:225`
 
 - Note (summary from our notes, not a quotation): Gar Stazi CL 16, Will 35 (p135). Gial Gahan CL 14 (p138). Hondo Karr CL 10, hp 91 (p139). Jaius Yorub CL 13 (p140). Jhoram Bey CL 12 (p136).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p138 Hondo Karr survives Maleval](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+![p138 Hondo Karr survives Maleval](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:952`
 
 ## https://starwars.fandom.com/wiki/Darth_Krayt
@@ -101,7 +100,7 @@ Our notes: `external/mega-notes/krayt-legends-quotes.txt:135`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Kills Gial Gahan personally; orders the extermination of one-tenth of the Mon Calamari; kills Hosk (material 011; p137, p116, p195)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
 Our notes: `legends-feats.md:2426`
 
 # Debate and forum claims (unverified)

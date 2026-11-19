@@ -295,7 +295,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan
 > Haako was killed by Darth Sidious's new apprentice, Darth Vader, when the Sith Lords no longer had any need for their Separatist conspirators.
 — Source: scan pages 1–40; Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker): "Haako was killed by Darth Sidious's new apprentice, Darth Vader, when the Sith Lords no longer had any need for their Separatist conspirators." Source: The Complete Star Wars Encyclopedia, Vol. II, p.4
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.4 — full quote as printed](quotes/v2-p4-haako-was-killed-by-darth-sidiouss.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:59`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -303,7 +302,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan
 > Rune Haako has served as diplomatic attaché and legal council on several of Viceroy Gunray's missions, and his cunning and intelligence are legendary. Though he always maintains a low profile, Republic Intelligence credits Haako with masterminding many of the Trade Federation's more abusive commercial agreements.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Rune Haako; Nute Gunray — entry/section: Rune Haako.
 Note (our notes, around the quote): Rune Haako; Nute Gunray — entry/section: Rune Haako: "Rune Haako has served as diplomatic attaché and legal council on several of Viceroy Gunray's missions, and his cunning and intelligence are legendary. Though he always maintains a low profile, Republic Intelligence credits Haako with masterminding many of the Trade Federation's more abusive commercial agreements." Source: *Secrets Of Naboo* (SWRPG d20), scan p.17
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.17 — full quote as printed](quotes/d044-s17-rune-haako-has-served-as-diplomatic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:101`
 
 ## Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–98)

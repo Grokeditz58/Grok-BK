@@ -34,7 +34,6 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-2-notes.md:277`
 > Atris becomes a captive in her own sanctum until such time as her role in nearly destroying the Jedi can be judged by Mical and a new Jedi Council.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Atris. POV: Atris, about Mical.
 Note (our notes, around the quote): Atris: "Atris becomes a captive in her own sanctum until such time as her role in nearly destroying the Jedi can be judged by Mical and a new Jedi Council." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.143
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.143 — full quote as printed](quotes/d718-s143-atris-becomes-a-captive-in-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:243`
 
 ## https://starwars.fandom.com/wiki/Meetra_Surik

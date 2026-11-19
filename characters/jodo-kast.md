@@ -14,7 +14,6 @@
 > When Grand Admiral Thrawn, disguised as Jodo Kast, infiltrated Thyne's base in Coronet, a firefight erupted and Nidder was killed.
 — Source: scan pages 361–400; Grand Admiral Thrawn. POV: Grand Admiral Thrawn, about Jodo Kast.
 Note (our notes, around the quote): Grand Admiral Thrawn: "When Grand Admiral Thrawn, disguised as Jodo Kast, infiltrated Thyne's base in Coronet, a firefight erupted and Nidder was killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.378
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.378 — full quote as printed](quotes/v2-p378-when-grand-admiral-thrawn-disguised-as.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:197`
 
 ## The New Essential Guide to Characters (2002)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > When Jodo Kast threatened to blow his cover by encouraging people to believe that he was Boba Fett, Fett ambushed Kast and killed him.
 — Source: scan pages 61–90; Boba Fett. POV: Boba Fett, about Jodo Kast.
 Note (our notes, around the quote): Boba Fett: "When Jodo Kast threatened to blow his cover by encouraging people to believe that he was Boba Fett, Fett ambushed Kast and killed him." Source: The New Essential Guide to Characters, p.68
-![Quote image: The New Essential Guide to Characters, p.68 — full quote as printed](quotes/negc-p68-when-jodo-kast-threatened-to-blow.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:14`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -39,7 +37,6 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-10
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Jodo Kast; Boba Fett — entry/section: Cloud Cover.
 Note (our notes, around the quote): Jodo Kast; Boba Fett — entry/section: Cloud Cover: "Jodo Kast, who the heroes should be encouraged to mistake for the infamous Boba Fett, targets one of the heroes with his last guided missile," Source: *Star Wars Gamer 03* (SWRPG d20), scan p.84
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.84 — full quote as printed](quotes/d052-s84-jodo-kast-who-the-heroes-should.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:143`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -59,7 +56,6 @@ Our notes: `notes/materials/037-sw-d20-folder/262-jedi-counseling-91.md:26`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 91 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_91_pdf_66e081e827`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 91 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_91_pdf_66e081e827`).)
 Note (our notes, around the quote): Jodo Kast; Boba Fett — entry/section: Jodo Kast found out the hard way: "Finally, keep in mind that this tactic can be very dangerous -- eventually, the imitated character is likely to learn about the fake appearances. The bounty hunter Jodo Kast, who disguised himself as Boba Fett to better intimidate his targets, found this out the hard way when Fett finally caught up with him." Source: *Jedi Counseling 91* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 91* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d262-s3-finally-keep-in-mind-that-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/262-jedi-counseling-91.md:28`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

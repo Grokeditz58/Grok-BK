@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Galen Marek — entry/section: Derlin, Galen: "He was survived by his son, Bren Derlin, who became an officer in the Rebel Alliance." Source: The Complete Star Wars Encyclopedia, Vol. I, p.185
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.185 — full quote as printed](quotes/v1-p185-he-was-survived-by-his-son.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:341`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)

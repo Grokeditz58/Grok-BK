@@ -93,7 +93,7 @@ Our notes: `notes/materials/039-legacy-2006/legacy-26.md:26`
 > THE FORCE BE WITH YOU, MASTER SAA.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p80 (#4): at the controls of the younglings' ship, with Tili Qua: "THE FORCE BE WITH YOU, MASTER SAA."
-![p80 THE FORCE BE WITH YOU, MASTER SAA](010-legacy-war-panels/p080-tra-saa-younglings-ship-force-be-with-you.jpg) *(p80)*
+![p80 THE FORCE BE WITH YOU, MASTER SAA](../notes/materials/010-legacy-war-panels/p080-tra-saa-younglings-ship-force-be-with-you.jpg) *(p80)*
 Our notes: `notes/materials/010-legacy-war.md:809`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen, Shado Vao, K'Kruhk, Rawk, T'ra Saa, Tili Qua, and the ghosts of Kol and Luke.
@@ -110,8 +110,8 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:93`
 > a Jedi Council of three masters know and control the Hidden Temple: Master Tili Qua and two of the oldest surviving Masters, K'Kruhk and T'ra Saa.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p195.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:653`
 
 # Debate and forum claims (unverified)

@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Egome Fass; Chewbacca — entry/section: Fass, Egome: "He was reputed to rival the mighty Wookiee Chewbacca in both height and strength." Source: The Complete Star Wars Encyclopedia, Vol. I, p.257
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.257 — full quote as printed](quotes/v1-p257-he-was-reputed-to-rival-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:199`
 
 # Debate and forum claims (unverified)

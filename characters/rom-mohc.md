@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyle Katarn: "The Arc Hammer was General Rom Mohc's flagship until it was destroyed by Rebel agent Kyle Katarn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.40
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.40 — full quote as printed](quotes/v1-p40-the-arc-hammer-was-general-rom.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:122`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -28,7 +27,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Mohc himself wore the phase-three dark trooper exoskeleton into battle against Katarn, but was killed by the Alliance agent.
 — Source: scan pages 321–360; Kyle Katarn. POV: Kyle Katarn, about General Rom Mohc.
 Note (our notes, around the quote): Kyle Katarn: "Mohc himself wore the phase-three dark trooper exoskeleton into battle against Katarn, but was killed by the Alliance agent." Source: The Complete Star Wars Encyclopedia, Vol. II, p.323
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.323 — full quote as printed](quotes/v2-p323-mohc-himself-wore-the-phase-three.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:64`
 
 ## The New Essential Guide to Characters (2002)
@@ -36,7 +34,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > He tracked Katarn to Coruscant but botched the kill, and Katarn went on to destroy Mohc's Dark Trooper Project.
 — Source: scan pages 31–60; Kyle Katarn. POV: Kyle Katarn, about General Rom Mohc.
 Note (our notes, around the quote): Kyle Katarn: "He tracked Katarn to Coruscant but botched the kill, and Katarn went on to destroy Mohc's Dark Trooper Project." Source: The New Essential Guide to Characters, p.67
-![Quote image: The New Essential Guide to Characters, p.67 — full quote as printed](quotes/negc-p67-he-tracked-katarn-to-coruscant-but.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:203`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -53,7 +50,6 @@ Our notes: `notes/materials/037-sw-d20-folder/103-champions-of-the-force-preview
 
 - Note (summary from our notes, not a quotation): Kyle Katarn — entry/section: Kyle Katarn destroys the Dark Trooper Project: "After the destruction of the original Death Star, Imperial General Rom Mohc received permission to pursue his Dark Trooper Project. Dark Troopers were droids designed and built as "super stormtroopers." The secret project was developed aboard a manufacturing ship called the Arc Hammer. Ultimately, Rebel operative and future Jedi Kyle Katarn discovered and destroyed the Dark Trooper Project before it saw widespread deployment." Source: *Champions of the Force Preview 4* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Miniatures/Champions of the Force Preview 4.pdf [Star Wars Rol.
-![Quote image: *Champions of the Force Preview 4* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d103-s1-after-the-destruction-of-the-original.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/103-champions-of-the-force-preview-4.md:12`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -65,7 +61,6 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > A ground-pounder serving under the decorated Republic Grand Army General Locus Geen during the Clone Wars, Rom Mohc saw action in the Coruscant Insurrection of the Separatist's cortosis droid army. A cybernetics specialist obsessed with personal combat, Trooper Mohc fought the droids mano-a-mano, exploiting the weaknesses he had observed in the battle droids' designs. For his bravery, Mohc was touted as a hero all over the HoloNet.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): General Rom Mohc — entry/section: Rom Mohc in the Clone Wars: "A ground-pounder serving under the decorated Republic Grand Army General Locus Geen during the Clone Wars, Rom Mohc saw action in the Coruscant Insurrection of the Separatist's cortosis droid army. A cybernetics specialist obsessed with personal combat, Trooper Mohc fought the droids mano-a-mano, exploiting the weaknesses he had observed in the battle droids' designs. For his bravery, Mohc was touted as a hero all over the HoloNet." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-a-ground-pounder-serving-under-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:33`
 
 - Note (summary from our notes, not a quotation): Page contents: Rom Mohc trophy room, Dark Trooper project, death on Arc Hammer; Rom Mohc (A New Hope) stats (Noble 1/Soldier 5/Officer 4) (hand-read)
@@ -75,7 +70,6 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > Mohc at last met his match when the Imperial traitor Kyle Katarn, whom Mohc had last seen receiving the prized Medal of Valor, confronted him on the Arc Hammer. Despite donning one of the only Phase Three Dark Trooper exosuits produced aboard the massive craft, Mohc was defeated by the Rebel in handto-hand combat. The general was atomized along with the rest of the Dark Trooper project when Kyle destroyed the mobile production facility.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): General Rom Mohc; Kyle Katarn — entry/section: Mohc meets his match: "Mohc at last met his match when the Imperial traitor Kyle Katarn, whom Mohc had last seen receiving the prized Medal of Valor, confronted him on the Arc Hammer. Despite donning one of the only Phase Three Dark Trooper exosuits produced aboard the massive craft, Mohc was defeated by the Rebel in handto-hand combat. The general was atomized along with the rest of the Dark Trooper project when Kyle destroyed the mobile production facility." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d128-s3-mohc-at-last-met-his-match.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:46`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)

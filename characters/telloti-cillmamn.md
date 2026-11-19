@@ -15,7 +15,6 @@
 — Source: Star Wars Insider #147 (2014); Telloti Cillmam'n; Count Dooku — entry/section: Hammer.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 19BBY: Hammer (Edward M. Erdelac) (text copy `MEGA_All_Short_Stories_19BBY_Hammer_Edward_M_Erdelac_epub`).)
 Note (our notes, around the quote): Telloti Cillmam'n; Count Dooku — entry/section: Hammer: ""If I'd been at your side on Geonosis, there'd be no war now. I would've killed Dooku. I would've crushed the Confederacy in its cradle." —Telloti Cillmam'n (armor-influenced boast), Hammer, Star Wars Insider 147, p. 52" Source: *Star Wars Insider #147* (2014), scan p.52
-![Quote image: *Star Wars Insider #147* (2014), scan p.52 — full quote as printed](quotes/ins147-s52-if-id-been-at-your-side.jpg)
 Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:329`
 
 # Debate and forum claims (unverified)

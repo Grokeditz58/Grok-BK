@@ -18,7 +18,6 @@ Our notes: `notes/materials/038-star-wars-insider/138-ins138.md:314`
 > People are sent to the moon when the Je'daii find them out of balance in the Force, and it's safe to say that Daegen Lok is seriously out of balance. In fact, Daegen Lok is not quite sane. If you're a powerful Je'daii, that's very dangerous.
 — Source: Star Wars Insider #138 (2013); Daegen Lok — entry/section: Ostrander on Daegen Lok.
 Note (our notes, around the quote): Daegen Lok — entry/section: Ostrander on Daegen Lok: ""People are sent to the moon when the Je'daii find them out of balance in the Force, and it's safe to say that Daegen Lok is seriously out of balance. In fact, Daegen Lok is not quite sane. If you're a powerful Je'daii, that's very dangerous." —John Ostrander, Star Wars Insider 138, p. 61" Source: *Star Wars Insider #138* (2013), scan p.61
-![Quote image: *Star Wars Insider #138* (2013), scan p.61 — full quote as printed](quotes/ins138-s61-people-are-sent-to-the-moon.jpg)
 Our notes: `notes/materials/038-star-wars-insider/138-ins138.md:316`
 
 ## Star Wars Insider #146 (2014)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/038-star-wars-insider/138-ins138.md:316`
 > Lok thinks of Xesh as a comrade, as his little brother. He doesn't think Xesh is as powerful as he is. He is sadly mistaken.
 — Source: Star Wars Insider #146 (2014); Daegen Lok; Xesh — entry/section: Lok vs Xesh.
 Note (our notes, around the quote): Daegen Lok; Xesh — entry/section: Lok vs Xesh: ""Lok thinks of Xesh as a comrade, as his little brother. He doesn't think Xesh is as powerful as he is. He is sadly mistaken." —John Ostrander, Star Wars Insider 146, p. 64" Source: *Star Wars Insider #146* (2014), scan p.64
-![Quote image: *Star Wars Insider #146* (2014), scan p.64 — full quote as printed](quotes/ins146-s64-lok-thinks-of-xesh-as-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/146-ins146.md:386`
 
 ## Star Wars: Legacy Book 1 (omnibus): power-scaling notes with panels

@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Lucien Draay: "He was killed in the Great Sith War, and survived by his wife, Krynda, and son, Lucien." Source: The Complete Star Wars Encyclopedia, Vol. I, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.203 — full quote as printed](quotes/v1-p203-he-was-killed-in-the-great.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:153`
 
 - Note (summary from our notes, not a quotation): Page contents: 997 words, 32 paragraphs | headings/entries: Draay, Lucien; Dracmus; Draco, Antares; Draco, Valin; Dracos; D'rag; Draggle, Skeck; Dragon Cave
@@ -26,13 +25,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > When a vision of the future showed that one of their students would rise to bring unparalleled destruction to the galaxy and the Jedi, they preemptively slaughtered their graduating class, but Lucien's Padawan, Zayne Carrick, escaped.
 — Source: scan pages 201–240; Lucien Draay; Zayne Carrick — entry/section: Draay, Lucien.
 Note (our notes, around the quote): Lucien Draay; Zayne Carrick — entry/section: Draay, Lucien: "When a vision of the future showed that one of their students would rise to bring unparalleled destruction to the galaxy and the Jedi, they preemptively slaughtered their graduating class, but Lucien's Padawan, Zayne Carrick, escaped." Source: The Complete Star Wars Encyclopedia, Vol. I, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.204 — full quote as printed](quotes/v1-p204-when-a-vision-of-the-future.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:160`
 
 > But he and the other members of the Covenant foresaw that their present class of Padawans would become Sith Lords and exterminate the Jedi Order, so under the command of Jedi Master Lucien Draay, they plotted to kill the entire class at a ceremony that was supposed to initiate them as Jedi Knights.
 — Source: scan pages 241–280; Lucien Draay. POV: Lucien Draay.
 Note (our notes, around the quote): Lucien Draay: "But he and the other members of the Covenant foresaw that their present class of Padawans would become Sith Lords and exterminate the Jedi Order, so under the command of Jedi Master Lucien Draay, they plotted to kill the entire class at a ceremony that was supposed to initiate them as Jedi Knights." Source: The Complete Star Wars Encyclopedia, Vol. I, p.261
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.261 — full quote as printed](quotes/v1-p261-but-he-and-the-other-members.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:233`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -40,7 +37,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > The attack on the Courageous at Serroco gave Lucien hope that Carrick had been killed or taken prisoner.
 — Source: scan pages 1–40; Lucien Draay. POV: Lucien Draay.
 Note (our notes, around the quote): Lucien Draay: "The attack on the Courageous at Serroco gave Lucien hope that Carrick had been killed or taken prisoner." Source: The Complete Star Wars Encyclopedia, Vol. II, p.4
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.4 — full quote as printed](quotes/v2-p4-the-attack-on-the-courageous-at.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:61`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -48,7 +44,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan
 > IF THE HAND ENDANGERS THE LIMB, STRIKE IT OFF.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Lucien Draay — entry/section: Pull quote (Lucien Draay). POV: speaker not named in our notes.
 Note (our notes, around the quote): Lucien Draay — entry/section: Pull quote (Lucien Draay): ""IF THE HAND ENDANGERS THE LIMB, STRIKE IT OFF." —MASTER LUCIEN DRAAY" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.36
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.36 — full quote as printed](quotes/d718-s36-if-the-hand-endangers-the-limb.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:244`
 
 - Note (summary from our notes, not a quotation): Page contents: The Jedi Covenant Hierarchy: Krynda Draay and Haazen; WatchCircles (Seers of the Circle; First WatchCircle of Lucien Draay; WatchCircle Vodo named for Vodo Siosk-Baas); Executors; caption "KRYNDA DRAAY'S JEDI COVENANT". (hand-read)
@@ -64,7 +59,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Lightsabers ablaze, Lucien and the other Jedi Masters stand over the slain corpses of his Padawan classmates.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Lucien Draay. POV: Lucien Draay.
 Note (our notes, around the quote): Lucien Draay: "Lightsabers ablaze, Lucien and the other Jedi Masters stand over the slain corpses of his Padawan classmates." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.136
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.136 — full quote as printed](quotes/d718-s136-lightsabers-ablaze-lucien-and-the-other.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:126`
 
 - Note (summary from our notes, not a quotation): Page contents: Zayne Carrick (as of the Padawan Massacre) stats (Human Jedi 6/scoundrel 1, CL 7; phrik-alloy vambraces); Lucien Draay bio and stats (Human noble 3/Jedi 5/Jedi Knight 5/Jedi Master 2, CL 15; talents incl. Shii-Cho, WatchCircle Initiate; feats incl. Cleave, Linguist, Power Attack, Rapid Strike). (hand-read)
@@ -74,19 +68,16 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Heir to his family's fortune and respected name, Lucien Draay is son to one of the greatest Jedi sibyls.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Lucien Draay. POV: Lucien Draay.
 Note (our notes, around the quote): Lucien Draay: "Heir to his family's fortune and respected name, Lucien Draay is son to one of the greatest Jedi sibyls." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.137
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.137 — full quote as printed](quotes/d718-s137-heir-to-his-familys-fortune-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:140`
 
 > Lucien soon dominates the seers, but Krynda controls them all.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Lucien Draay. POV: Lucien Draay.
 Note (our notes, around the quote): Lucien Draay: "Lucien soon dominates the seers, but Krynda controls them all." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.137
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.137 — full quote as printed](quotes/d718-s137-lucien-soon-dominates-the-seers-but.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:142`
 
 > FEAR IS YOUR ENEMY. DO NOT GIVE IT GROUND TO GROW.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Lucien Draay — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Lucien Draay — entry/section: Pull quote: ""FEAR IS YOUR ENEMY. DO NOT GIVE IT GROUND TO GROW." —MASTER LUCIEN DRAAY" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.152
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.152 — full quote as printed](quotes/d718-s152-fear-is-your-enemy-do-not.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:325`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)
@@ -104,7 +95,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:5
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Zayne Carrick; Lucien Draay: "Convinced that Zayne is indeed the future Dark Lord, Lucien obsessively hunts his former student in pursuit of his personal vendetta against the Sith that destroyed his childhood." Source: *Web Articles* (SWRPG Saga Edition), scan p.295
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.295 — full quote as printed](quotes/d732-s295-convinced-that-zayne-is-indeed-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:533`
 
 ## Star Wars Insider #104 (2008)

@@ -28,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/063-cat-and-mouse.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Cat and Mouse (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Cat_and_Mouse_pdf_e05dc26942`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Cat and Mouse (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Cat_and_Mouse_pdf_e05dc26942`).)
 Note (our notes, around the quote): Kelna Toodo — entry/section: Kelna after the rigged sabacc game: "“She never saw what was coming. Of course, I’ve seen that ship that you won from her. Maybe it’s not so much of a prize after all.”" Source: *Cat and Mouse* (SWRPG d20 Revised Core), scan p.5
-![Quote image: *Cat and Mouse* (SWRPG d20 Revised Core), scan p.5 — full quote as printed](quotes/d063-s5-she-never-saw-what-was-coming.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/063-cat-and-mouse.md:32`
 
 - Note (summary from our notes, not a quotation): Page contents: Cat and Mouse: if caught, Kelna confesses Beeda's grudge and tries to cut a deal; recapturing the panther alive earns a bonus; Eric Cagle also wrote Ultimate Alien Anthology and Ultimate Adversaries (hand-read)

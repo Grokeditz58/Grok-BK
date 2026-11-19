@@ -124,11 +124,11 @@ Our notes: `notes/materials/047-visual-dictionaries/vd3-ep3.md:48`
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Count Dooku with two MagnaGuards](panels/ob5-p03-dooku-magnaguards.jpg)
+- Note (summary from our notes, not a quotation): ![Count Dooku with two MagnaGuards](../notes/materials/049-obsession/panels/ob5-p03-dooku-magnaguards.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:67`
 
-- Note (summary from our notes, not a quotation): ![Dooku orders "finish her"; a MagnaGuard shoots Ventress](panels/ob5-p17-ventress-shot.jpg)
+- Note (summary from our notes, not a quotation): ![Dooku orders "finish her"; a MagnaGuard shoots Ventress](../notes/materials/049-obsession/panels/ob5-p17-ventress-shot.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:88`
 

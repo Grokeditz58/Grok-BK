@@ -15,7 +15,7 @@
   — Source: Darth Vader and the Lost Command: daily-image candidates.
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:5`
 
-- Note (summary from our notes, not a quotation): ![Lady Saro, High Priestess of Atoa, walks on water to Vader](panels/lc1-p24-saro-walks-on-water.jpg)
+- Note (summary from our notes, not a quotation): ![Lady Saro, High Priestess of Atoa, walks on water to Vader](../notes/materials/042-lost-command/panels/lc1-p24-saro-walks-on-water.jpg)
   — Source: Darth Vader and the Lost Command: daily-image candidates.
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:25`
 

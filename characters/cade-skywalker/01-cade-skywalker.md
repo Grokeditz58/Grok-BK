@@ -20,7 +20,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Talon; Cade Skywalker: "Darth Talon attacked again, but Cade and his friends defeated the Sith." Source: The Complete Star Wars Encyclopedia, Vol. I, p.260
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.260 — full quote as printed](quotes/v1-p260-darth-talon-attacked-again-but-cade.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:224`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -32,44 +31,37 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > His training came to an end after the Jedi Temple on Ossus was destroyed in the Sith-Imperial War.
 — Source: scan pages 161–200; Cade Skywalker — entry/section: Skywalker, Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Skywalker, Cade: "His training came to an end after the Jedi Temple on Ossus was destroyed in the Sith-Imperial War." Source: The Complete Star Wars Encyclopedia, Vol. III, p.163
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.163 — full quote as printed](quotes/v3-p163-his-training-came-to-an-end.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:94`
 
 > Cade survived the explosion of his fighter, and the Feeorin pirate Rav took him in, mistaking him for a fellow looter.
 — Source: scan pages 161–200; Cade Skywalker — entry/section: Skywalker, Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Skywalker, Cade: "Cade survived the explosion of his fighter, and the Feeorin pirate Rav took him in, mistaking him for a fellow looter." Source: The Complete Star Wars Encyclopedia, Vol. III, p.163
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.163 — full quote as printed](quotes/v3-p163-cade-survived-the-explosion-of-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:96`
 
 > They destroyed the Death Star.
 > [fragment — full passage not on file]
 — Source: scan pages 161–200; Cade Skywalker — entry/section: Skywalker, Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Skywalker, Cade: "They destroyed the Death Star." Source: The Complete Star Wars Encyclopedia, Vol. III, p.164
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.164 — full quote as printed](quotes/v3-p164-they-destroyed-the-death-star.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:105`
 
 > It killed one trainee, seduced another to the dark side, and nearly murdered Luke, who was eventually saved when his trainees combined their powers.
 — Source: scan pages 161–200; Cade Skywalker; Luke Skywalker — entry/section: Skywalker, Cade.
 Note (our notes, around the quote): Cade Skywalker; Luke Skywalker — entry/section: Skywalker, Cade: "It killed one trainee, seduced another to the dark side, and nearly murdered Luke, who was eventually saved when his trainees combined their powers." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-it-killed-one-trainee-seduced-another.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:118`
 
 > He convinced the younger man that his continued connection to the Colony would only lead to more conflict, which would ultimately destroy the entire galaxy.
 — Source: scan pages 161–200; Cade Skywalker — entry/section: Skywalker, Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Skywalker, Cade: "He convinced the younger man that his continued connection to the Colony would only lead to more conflict, which would ultimately destroy the entire galaxy." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-he-convinced-the-younger-man-that.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:126`
 
 > She dueled Cade again in Coruscant's Sith Temple, and would have fallen to his lightsaber if Darth Nihl hadn't intervened.
 — Source: scan pages 201–240; Darth Talon; Cade Skywalker; Darth Nihl — entry/section: Talon, Darth.
 Note (our notes, around the quote): Darth Talon; Cade Skywalker; Darth Nihl — entry/section: Talon, Darth: "She dueled Cade again in Coruscant's Sith Temple, and would have fallen to his lightsaber if Darth Nihl hadn't intervened." Source: The Complete Star Wars Encyclopedia, Vol. III, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.215 — full quote as printed](quotes/v3-p215-she-dueled-cade-again-in-coruscants.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:192`
 
 > Cade telekinetically smashed her body against a wall with the Force, but then used his powers to heal her.
 — Source: scan pages 201–240; Cade Skywalker. POV: Cade Skywalker.
 Note (our notes, around the quote): Cade Skywalker: "Cade telekinetically smashed her body against a wall with the Force, but then used his powers to heal her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.215 — full quote as printed](quotes/v3-p215-cade-telekinetically-smashed-her-body-against.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:194`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -116,7 +108,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > TIME AND AGAIN THE GALAXY—WHICH WE SERVED—TURNED AGAINST US! AND WE KEEP COMING BACK FOR MORE! THAT'S REAL CLEVER OF US, ISN'T IT?
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Cade Skywalker — entry/section: Pull quote.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Pull quote: ""TIME AND AGAIN THE GALAXY—WHICH WE SERVED—TURNED AGAINST US! AND WE KEEP COMING BACK FOR MORE! THAT'S REAL CLEVER OF US, ISN'T IT?" —CADE SKYWALKER" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d719-s8-time-and-again-the-galaxy-which.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:61`
 
 - Note (summary from our notes, not a quotation): Page contents: The Legacy destiny; sidebar "Famous Legacies vs. Canon" (Cade Skywalker, Roan Fel; Thrackan Sal-Solo vs. Han Solo); embracing/denying your legacy (example: Cade Skywalker's early efforts to shun the path of the Jedi); caption "JEDI OF THE HALCYON LEGACY HAVE THEIR OWN TRADITIONS". (hand-read)
@@ -126,7 +117,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Kol Skywalker is killed, and many presume that his son, Cade, is killed as well.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kol Skywalker; Cade Skywalker.
 Note (our notes, around the quote): Kol Skywalker; Cade Skywalker: "Kol Skywalker is killed, and many presume that his son, Cade, is killed as well." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.27
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.27 — full quote as printed](quotes/d719-s27-kol-skywalker-is-killed-and-many.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:214`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -138,7 +128,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Fearing the temptation of the dark side, Cade abandons the Jedi way and, through necessity, falls in with a pirate gang that rescues him after his ship is destroyed in space.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Cade Skywalker. POV: Cade Skywalker.
 Note (our notes, around the quote): Cade Skywalker: "Fearing the temptation of the dark side, Cade abandons the Jedi way and, through necessity, falls in with a pirate gang that rescues him after his ship is destroyed in space." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.209
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.209 — full quote as printed](quotes/d719-s209-fearing-the-temptation-of-the-dark.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:258`
 
 - Note (summary from our notes, not a quotation): Page contents: Cade Skywalker stat block CL 11 (Medium Human Jedi 3/scout 5/soldier 1/bounty hunter 2; Strong in the Force; Dark Side 4; Force powers dark transfer, Force disarm, Force thrust, move object; Power of the Dark Side; possessions blast vest, Kol Skywalker's lightsaber, modified double-barreled blaster carbine (no stock)). Chak stat block CL 8 (Medium Wookiee scoundrel 5/scout 3). Caption label: "KEE AND CHAK". (hand-read)
@@ -195,7 +184,6 @@ Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:267`
 > He is a rogue as we would define it by today's standards and some of the things he does, particularly in the early issues, readers are not going to like, but I think he will be a compelling character.
 — Source: Star Wars Insider #87 (2006); Cade Skywalker — entry/section: Ostrander on Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Ostrander on Cade: ""He's alienated. He's a tough fighter. He's got a real rough side to him," explains Ostrander. "He is a rogue as we would define it by today's standards and some of the things he does, particularly in the early issues, readers are not going to like, but I think he will be a compelling character." —John Ostrander, Star Wars Insider 87, p. 42" Source: *Star Wars Insider #87* (2006), scan p.42
-![Quote image: *Star Wars Insider #87* (2006), scan p.42 — full quote as printed](quotes/ins087-s42-hes-alienated-hes-a-tough-fighter.jpg)
 Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:269`
 
 - Note (summary from our notes, not a quotation): Page contents: New Force Rising cont.: Cade, the New Sith Order and the Empire comparison box (hand-read)
@@ -224,7 +212,6 @@ Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:291`
 > We wanted a new and unique take on someone with the family name. We thought about creating a dark-haired Skywalker, but every time I started to draw him, it didn't sit right.
 — Source: Star Wars Insider #89 (2006); Cade Skywalker — entry/section: Designing Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Designing Cade: ""Cade was one of the toughest," Duursema says. "We wanted a new and unique take on someone with the family name. We thought about creating a dark-haired Skywalker, but every time I started to draw him, it didn't sit right." —Jan Duursema, Star Wars Insider 89, p. 48" Source: *Star Wars Insider #89* (2006), scan p.48
-![Quote image: *Star Wars Insider #89* (2006), scan p.48 — full quote as printed](quotes/ins089-s48-cade-was-one-of-the-toughest.jpg)
 Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:293`
 
 ## Star Wars Insider #94 (2007)
@@ -250,7 +237,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:645`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007); Cade Skywalker — entry/section: Wake-up call.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Wake-up call: ""Cade could use a wake-up call," —Jan Duursema, Star Wars Insider 94, p. 64" Source: *Star Wars Insider #94* (2007), scan p.64
-![Quote image: *Star Wars Insider #94* (2007), scan p.64 — full quote as printed](quotes/ins094-s64-cade-could-use-a-wake-up.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:647`
 
 > When we first see him, he's overdosed on death sticks,
@@ -259,7 +245,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:647`
 > Coming back from the brink, Cade decides – for his own reasons – to get more Jedi training.
 — Source: Star Wars Insider #94 (2007); Cade Skywalker — entry/section: Overdosed on death sticks.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Overdosed on death sticks: ""When we first see him, he's overdosed on death sticks," "Coming back from the brink, Cade decides – for his own reasons – to get more Jedi training." —John Ostrander, Star Wars Insider 94, p. 64" Source: *Star Wars Insider #94* (2007), scan p.64
-![Quote image: *Star Wars Insider #94* (2007), scan p.64 — full quote as printed](quotes/ins094-s64-when-we-first-see-him-hes.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:649`
 
 - Note (summary from our notes, not a quotation): Page contents: Comics cont.: Duursema on fan rapport, Ostrander on plotting ahead; sidebar "Clone Wars Adventures: Volume 8" ("Old Scores", "Versus", "One of A Kind", "Pathways"); art of Cade Skywalker (hand-read)
@@ -310,7 +295,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:601`
 > Bantha and his clan are the closest thing to family  for Cade. He never knew his mother, though by now he has at least met her, and at some point he had to find Bantha after the fall of Ossus. John and I knew a lot about Bantha, but what kind of woman would he find compatible? Droo is a rare, one of a kind woman who can kill a man a dozen different ways before breakfast, as well as make a mean bilaberry patoga. The 'kits' were also  fun to invent and each has their own personality. I see the Rawks as another layer in Cade's life where he can go when things get too hot.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: the Rawks: "Says artist Jan Duursema, "Bantha and his clan are the closest thing to family  for Cade. He never knew his mother, though by now he has at least met her, and at some point he had to find Bantha after the fall of Ossus. John and I knew a lot about Bantha, but what kind of woman would he find compatible? Droo is a rare, one of a kind woman who can kill a man a dozen different ways before breakfast, as well as make a mean bilaberry patoga. The 'kits' were also  fun to invent and each has their own personality. I see the Rawks as another layer in Cade's life where he can go when things get too hot." —Jan Duursema, Star Wars Insider 101, p. 61" Source: *Star Wars Insider #101* (2008), scan p.61
-![Quote image: *Star Wars Insider #101* (2008), scan p.61 — full quote as printed](quotes/ins101-s61-says-artist-jan-duursema-bantha-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:672`
 
 > Luke and Vader's story is one of a wayward father redeemed,
@@ -319,13 +303,11 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:672`
 > Cade and Krayt have a different sort of affiliation.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Cade Skywalker; Darth Krayt — entry/section: Duursema: different affiliation: ""Luke and Vader's story is one of a wayward father redeemed," explains Duursema. "Cade and Krayt have a different sort of affiliation." —Jan Duursema, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-luke-and-vaders-story-is-one.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:688`
 
 > Luke could turn Vader only because of the ties between them. We've seen just how merciless and dangerous Krayt can get when mad. Cade understands that, so long as Krayt lives, the Sith Order will be intact and Cade will never know peace. Cade is not concerned about redeeming Krayt or about saving the galaxy, when you come right down to it. He wants people to leave him alone. He wants to live his life on his own terms, not anyone else's. Krayt needs to die. Now, whether or not he can do that is an entirely different question. Cade's gotten himself in over his head before. We'll see if it happens again.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Cade Skywalker; Darth Krayt — entry/section: Ostrander: Krayt needs to die: "Adds Ostrander, "Luke could turn Vader only because of the ties between them. We've seen just how merciless and dangerous Krayt can get when mad. Cade understands that, so long as Krayt lives, the Sith Order will be intact and Cade will never know peace. Cade is not concerned about redeeming Krayt or about saving the galaxy, when you come right down to it. He wants people to leave him alone. He wants to live his life on his own terms, not anyone else's. Krayt needs to die. Now, whether or not he can do that is an entirely different question. Cade's gotten himself in over his head before. We'll see if it happens again." —John Ostrander, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-adds-ostrander-luke-could-turn-vader.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:690`
 
 > Cade is so much more than I initially saw him as,
@@ -334,7 +316,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:690`
 > He really rankled me at first, but with each story we have done, I have seen more of his personality revealed. That's not to say that at times I don't think he wouldn't suffer much for a whack upside his head, but I am enjoying the journey.
 — Source: Star Wars Insider #101 (2008); Cade Skywalker — entry/section: Duursema: Cade grew on me.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: Cade grew on me: ""Cade is so much more than I initially saw him as," admits Duursema. "He really rankled me at first, but with each story we have done, I have seen more of his personality revealed. That's not to say that at times I don't think he wouldn't suffer much for a whack upside his head, but I am enjoying the journey." —Jan Duursema, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-cade-is-so-much-more-than.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:692`
 
 ## Star Wars Insider #102 (2008)
@@ -374,7 +355,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:321`
 > Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever.
 — Source: Star Wars Insider #114 (2010); Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death: ""Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever." —Jan Duursema, Star Wars Insider 114, p. 58" Source: *Star Wars Insider #114* (2010), scan p.58
-![Quote image: *Star Wars Insider #114* (2010), scan p.58 — full quote as printed](quotes/ins114-s58-cade-found-that-taking-down-krayt.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:323`
 
 ## Star Wars Insider #116 (2010)
@@ -418,7 +398,6 @@ Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:327`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #121 (2010); Cade Skywalker — entry/section: Duursema on Cade and the Force.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema on Cade and the Force: """Cade has a real love/hate relationship with the Force," explains Duursema. "He hates the Sith for destroying the Jedi Order and killing his father. He blames the Jedi for losing to the Sith and has lost respect for their purported power in the Force. Cade is strong in the Force, but is connected to both dark and light in an awkward balancing act."" —Jan Duursema, Star Wars Insider 121, p. 62" Source: *Star Wars Insider #121* (2010), scan p.62
-![Quote image: *Star Wars Insider #121* (2010), scan p.62 — full quote as printed](quotes/ins121-s62-cade-has-a-real-love-hate.jpg)
 Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:331`
 
 ## Star Wars Insider #131 (2012)
@@ -3963,19 +3942,19 @@ Our notes: `notes/materials/009-legacy-book-1.md:43`
 
 - Note (summary from our notes, not a quotation): #2–3 (137 ABY): Wolf, Shado, Hosk and others are ambushed by Sith on Daluuj (p37–41). Cade, now a bounty hunter with Jariah Syn and Deliah Blue, captures the Jedi healer Hosk Trey'lis on Lok and sells him to Rav on Socorro (p42–64). Krayt has Talon kill her master, Darth Ruyn, and names her a Hand (p53–55). Talon kills Imperial Knight Elke Vetter (p56–57).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p38](009-legacy-book-1-panels/p038-wolf-cade-strong-in-force.jpg)
-![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
-![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
-![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+![p38](../../notes/materials/009-legacy-book-1-panels/p038-wolf-cade-strong-in-force.jpg)
+![p53 Krayt orders Talon to kill Ruyn](../../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+![p55 Krayt names Darth Talon](../../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p56 Talon vs Elke Vetter](../../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+![p57 Talon finishes Elke](../../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:45`
 
 - Note (summary from our notes, not a quotation): Roan Fel holds Bastion with his Knights (p65–68). Luke's ghost visits a death-stick-addled Cade (p71–74). Princess Marasiah Fel tries a mind trick on Cade and fails; she hires the *Mynock* (p75–80).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: #2–3 (137 ABY): Wolf, Shado, Hosk and others are ambushed by Sith on Daluuj (p37–41). Cade, now a bounty hunter with Jariah Syn and Deliah Blue, captures the Jedi healer Hosk Trey'lis on Lok and sells him to Rav on Socorro (p42–64). Krayt has Talon kill her master, Darth Ruyn, and names her a
-![p72](009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
-![p75](009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
-![p79](009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
+![p72](../../notes/materials/009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
+![p75](../../notes/materials/009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
+![p79](../../notes/materials/009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:46`
 
 - Note (summary from our notes, not a quotation): #5: Krayt questions the Korriban holocrons of Bane, Andeddu and Nihilus. They call him a "PRETENDER", and he blasts them away (p81–84). On Vendaxa, Wolf and Shado meet Cade's crew. Talon fights Wolf and Shado and swats Marasiah aside. Cade instinctively stops a hurled wreck and Force-pushes Talon away (p85–99). Krayt sends Nihl (p101–102).
@@ -3996,12 +3975,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:61`
 
 - Note (summary from our notes, not a quotation): #14: From stasis, Krayt senses "SKYWALKER IS COMING" (p311). Cade evades Skull Squadron (p313–315), infiltrates the Sith Temple and frees Hosk (p325–328). He duels Talon, Nihl takes him from behind, and he is captured (p328–331). Sazen senses this from Ossus (p332).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p315](009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
-![p325](009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
-![p327](009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
-![p328](009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
-![p329](009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
+![p311](../../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p315](../../notes/materials/009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
+![p325](../../notes/materials/009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
+![p327](../../notes/materials/009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
+![p328](../../notes/materials/009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
+![p329](../../notes/materials/009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:73`
 
 - Note (summary from our notes, not a quotation): #15: Moff politics (p333–337). Maladi notes that Cade purges ixetal cilona "LIKE A SITH" (p338). Krayt has Maladi trigger coral seeds in Jariah and Deliah, and Cade heals both at once (p339–346). Krayt and Cade strike a bargain (p346–347). Maladi and Nihl argue about rank (p351). Over dinner, Krayt reveals he is A'Sharad Hett (p352–354).
@@ -4010,22 +3989,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:74`
 
 - Note (summary from our notes, not a quotation): #16: Corde is tasked to extract Cade and reveals she is his mother to the crew (p355–360). Krayt tells his history: Clone Wars, Order 66, the Tuskens, and the duel and maiming by Kenobi (p361–371). Cade Force-blasts Talon and threatens to "EXPLODE" her weak point, then heals her and asks Krayt to teach him (p371–374). Stryfe senses Jedi on Ossus (p375–376).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p355](009-legacy-book-1-panels/p355-corde-veed-get-him-out-or-kill.jpg)
-![p358](009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
-![p360](009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
-![p372 Cade's blast; hand on Talon's head](009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
-![p373](009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
+![p355](../../notes/materials/009-legacy-book-1-panels/p355-corde-veed-get-him-out-or-kill.jpg)
+![p358](../../notes/materials/009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
+![p360](../../notes/materials/009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
+![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p372 Cade's blast; hand on Talon's head](../../notes/materials/009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
+![p373](../../notes/materials/009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:75`
 
 - Note (summary from our notes, not a quotation): #17: Nihl and Maladi discuss succession and Krayt's "AFFLICTION" (p377). Talon trains Cade (p378–381, p388–393). Krayt and Wyyrlok discuss turning Cade (p382). Corde infiltrates the Temple with Vong bugs (p387). The Jedi mind-trick the troopers on Ossus. Stryfe orders the ruins bombarded (p396–398).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p377](009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
-![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
-![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
-![p387](009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
+![p377](../../notes/materials/009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
+![p379](../../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+![p380](../../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+![p381 dark-side self-healing](../../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p382](../../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p387](../../notes/materials/009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:76`
 
 > THAT WHICH CAN HEAL CAN ALSO BREAK. *(p416)*
@@ -4036,15 +4015,15 @@ Our notes: `notes/materials/009-legacy-book-1.md:77`
 > I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM. *(p438)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): #19: Cade beats Nihl and refuses to kill him (p425–427). He crosses sabers with Krayt and taunts him about his illness (p429–430). Corde shoots Krayt through the window (p433). Cade leaps from the tower and Syn catches him at the *Mynock*'s hatch (p434–437). Krayt: "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM." (p438). Calixte, alone with the hologram of Kol and baby Cade: "RUN." (p442)
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
-![p429 Krayt's dual red sabers vs Cade](009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
-![p430](009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
-![p433 Corde shoots Krayt](009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
+![p425](../../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p426](../../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p427](../../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p429 Krayt's dual red sabers vs Cade](../../notes/materials/009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
+![p430](../../notes/materials/009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
+![p433 Corde shoots Krayt](../../notes/materials/009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:78`
 
-- Note (summary from our notes, not a quotation): ![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+- Note (summary from our notes, not a quotation): ![p36 Krayt overextended; senses Cade's healing](../../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p36 Krayt overextended; senses Cade's healing — `p036-krayt-body-fails-healing-murmur.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:123`
@@ -4066,7 +4045,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:164`; `notes/materials/009-lega
 Context: 12. Tests Cade's power: coral seeds in both friends. p339 (#15 Claws)–p347 (#15 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:185`
 
-- Note (summary from our notes, not a quotation): ![p343 Krayt frees Cade with the Force](009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
+- Note (summary from our notes, not a quotation): ![p343 Krayt frees Cade with the Force](../../notes/materials/009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p343 Krayt frees Cade with the Force — `p343-krayt-choose-life-for-one.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:194`
@@ -4082,7 +4061,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:242`; `notes/materials/009-lega
 Context: 17. Strategy for turning Cade; Wyyrlok questions him. p382 (#17 Claws), p395 (#17 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:249`
 
-- Note (summary from our notes, not a quotation): ![p399 Cade in the Embrace of Pain](009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
+- Note (summary from our notes, not a quotation): ![p399 Cade in the Embrace of Pain](../../notes/materials/009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p399 Cade in the Embrace of Pain — `p399-krayt-embrace-of-pain-vader-palpatine.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:265`
@@ -4105,7 +4084,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:293`
 Context: 21. Final confrontation with Cade (Krayt doesn't win, by the plot's design). p417 (#18 Claws), p420 (#18 Claws), p427 (#19 Claws)–p438 (#19 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:309`
 
-- Note (summary from our notes, not a quotation): ![p429 Krayt's dual red sabers vs Cade](009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
+- Note (summary from our notes, not a quotation): ![p429 Krayt's dual red sabers vs Cade](../../notes/materials/009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p429 Krayt's dual red sabers vs Cade — `p429-krayt-thousands-killed-blood-of-vader.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:315`
@@ -4123,22 +4102,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:331`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 1. Revives the dying Wolf Sazen by instinct: his first dark-tinged healing (130 ABY, about age 13). p21 (#1 Broken), p25 (#1 Broken), p29 (#1 Broken)
-![p21 Cade's blue Force surge revives Wolf](009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
-![p25](009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
-![p29](009-legacy-book-1-panels/p029-wolf-bond-strengthened.jpg)
+![p21 Cade's blue Force surge revives Wolf](../../notes/materials/009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
+![p25](../../notes/materials/009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
+![p29](../../notes/materials/009-legacy-book-1-panels/p029-wolf-bond-strengthened.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:337`
 
-- Note (summary from our notes, not a quotation): ![p21 Cade's blue Force surge revives Wolf](009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p21 Cade's blue Force surge revives Wolf](../../notes/materials/009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p21 Cade's blue Force surge revives Wolf — `p021-cade-revives-wolf-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:340`
 
-- Note (summary from our notes, not a quotation): ![p25](009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
+- Note (summary from our notes, not a quotation): ![p25](../../notes/materials/009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p25 — `p025-wolf-bringing-back-edge-dark-side.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:343`
 
-- Note (summary from our notes, not a quotation): ![p29](009-legacy-book-1-panels/p029-wolf-bond-strengthened.jpg)
+- Note (summary from our notes, not a quotation): ![p29](../../notes/materials/009-legacy-book-1-panels/p029-wolf-bond-strengthened.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p29 — `p029-wolf-bond-strengthened.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:346`
@@ -4147,10 +4126,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:346`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 2. Survives the fighter explosion: Force withdrawal plus three days of hibernation-style meditation. p106 (#6 Broken)
-![p106](009-legacy-book-1-panels/p106-cade-walked-in-dark-side-deep-meditation-3-days.jpg)
+![p106](../../notes/materials/009-legacy-book-1-panels/p106-cade-walked-in-dark-side-deep-meditation-3-days.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:352`; `notes/materials/009-legacy-book-1.md:1104`
 
-- Note (summary from our notes, not a quotation): ![p106](009-legacy-book-1-panels/p106-cade-walked-in-dark-side-deep-meditation-3-days.jpg)
+- Note (summary from our notes, not a quotation): ![p106](../../notes/materials/009-legacy-book-1-panels/p106-cade-walked-in-dark-side-deep-meditation-3-days.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p106 — `p106-cade-walked-in-dark-side-deep-meditation-3-days.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:355`
@@ -4159,11 +4138,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:355`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 3. Luke's ghost on Cade's healing ("UNLIKE ANY I'VE EVER KNOWN"). p72 (#3 Broken) *(possible death-stick hallucination; the handbook (p472) flags this)*
-![p72](009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
-![p472 handbook: Luke (ghost or death-stick figment)](009-legacy-book-1-panels/p472-handbook-luke-ghost-deathsticks.jpg)
+![p72](../../notes/materials/009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
+![p472 handbook: Luke (ghost or death-stick figment)](../../notes/materials/009-legacy-book-1-panels/p472-handbook-luke-ghost-deathsticks.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:359`; `notes/materials/009-legacy-book-1.md:1107`
 
-- Note (summary from our notes, not a quotation): ![p72](009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
+- Note (summary from our notes, not a quotation): ![p72](../../notes/materials/009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p72 — `p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:362`
@@ -4178,22 +4157,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:366`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 4. Resists Marasiah's mind trick; she senses he is strong. p75 (#3 Broken), p79 (#3 Broken), p61 (#3 Broken)
-![p75](009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
-![p79](009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
-![p61](009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
+![p75](../../notes/materials/009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
+![p79](../../notes/materials/009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
+![p61](../../notes/materials/009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:368`
 
-- Note (summary from our notes, not a quotation): ![p75](009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
+- Note (summary from our notes, not a quotation): ![p75](../../notes/materials/009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p75 — `p075-marasiah-mind-trick-attempt.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:371`
 
-- Note (summary from our notes, not a quotation): ![p79](009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
+- Note (summary from our notes, not a quotation): ![p79](../../notes/materials/009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p79 — `p079-cade-resists-mind-trick.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:374`
 
-- Note (summary from our notes, not a quotation): ![p61](009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
+- Note (summary from our notes, not a quotation): ![p61](../../notes/materials/009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p61 — `p061-hosk-force-very-strong-in-you.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:377`
@@ -4204,17 +4183,17 @@ Our notes: `notes/materials/009-legacy-book-1.md:377`
 > WHY DIDN'T SHE JUST VAPORIZE THE MYNOCK LIKE SHE DID THE JEDI SHIP?
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 5. Stops Talon's hurled starship wreck and Force-pushes her away with it. p97 (#5 Broken)–p98 (#5 Broken). Cade instinctively raises a hand ("NO!"); the wreck stops and turns, and a blue Force wave sends Talon flying with the debris. · Cade: "LET'S GET TO THE MYNOCK." · (p99) Syn: "WHY DIDN'T SHE JUST VAPORIZE THE MYNOCK LIKE SHE DID THE JEDI SHIP?"
-![p97 Talon hurls the wreck; Cade raises his hand](009-legacy-book-1-panels/p097-cade-stops-hurled-wreck.jpg)
-![p98 Cade's Force wave blows Talon away](009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
-![p99](009-legacy-book-1-panels/p099-wolf-flickering-shadow-in-force.jpg)
+![p97 Talon hurls the wreck; Cade raises his hand](../../notes/materials/009-legacy-book-1-panels/p097-cade-stops-hurled-wreck.jpg)
+![p98 Cade's Force wave blows Talon away](../../notes/materials/009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
+![p99](../../notes/materials/009-legacy-book-1-panels/p099-wolf-flickering-shadow-in-force.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:381`
 
-- Note (summary from our notes, not a quotation): ![p97 Talon hurls the wreck; Cade raises his hand](009-legacy-book-1-panels/p097-cade-stops-hurled-wreck.jpg)
+- Note (summary from our notes, not a quotation): ![p97 Talon hurls the wreck; Cade raises his hand](../../notes/materials/009-legacy-book-1-panels/p097-cade-stops-hurled-wreck.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p97 Talon hurls the wreck; Cade raises his hand — `p097-cade-stops-hurled-wreck.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:383`
 
-- Note (summary from our notes, not a quotation): ![p98 Cade's Force wave blows Talon away](009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
+- Note (summary from our notes, not a quotation): ![p98 Cade's Force wave blows Talon away](../../notes/materials/009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p98 Cade's Force wave blows Talon away — `p098-cade-force-push-talon.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:386`
@@ -4232,16 +4211,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:390`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 6. Senses Talon once he lets the Force in. p90 (#5 Broken), p105 (#6 Broken)
-![p90](009-legacy-book-1-panels/p090-wolf-senses-sith-cade-feels-nothing.jpg)
-![p105](009-legacy-book-1-panels/p105-wolf-cade-sense-talon.jpg)
+![p90](../../notes/materials/009-legacy-book-1-panels/p090-wolf-senses-sith-cade-feels-nothing.jpg)
+![p105](../../notes/materials/009-legacy-book-1-panels/p105-wolf-cade-sense-talon.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:392`
 
-- Note (summary from our notes, not a quotation): ![p90](009-legacy-book-1-panels/p090-wolf-senses-sith-cade-feels-nothing.jpg)
+- Note (summary from our notes, not a quotation): ![p90](../../notes/materials/009-legacy-book-1-panels/p090-wolf-senses-sith-cade-feels-nothing.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p90 — `p090-wolf-senses-sith-cade-feels-nothing.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:395`
 
-- Note (summary from our notes, not a quotation): ![p105](009-legacy-book-1-panels/p105-wolf-cade-sense-talon.jpg)
+- Note (summary from our notes, not a quotation): ![p105](../../notes/materials/009-legacy-book-1-panels/p105-wolf-cade-sense-talon.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p105 — `p105-wolf-cade-sense-talon.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:398`
@@ -4250,34 +4229,34 @@ Our notes: `notes/materials/009-legacy-book-1.md:398`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 7. Takes up a lightsaber; fights Nihl with saber and blaster; Talon warns "THE FORCE ALMOST BLAZES IN THIS ONE". p124 (#6 Broken)–p133 (#7 Broken)
-![p124](009-legacy-book-1-panels/p124-cade-takes-up-lightsaber.jpg)
-![p125](009-legacy-book-1-panels/p125-talon-force-blazes-in-this-one.jpg)
-![p126](009-legacy-book-1-panels/p126-cade-saber-blaster-vs-nihl.jpg)
-![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
-![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+![p124](../../notes/materials/009-legacy-book-1-panels/p124-cade-takes-up-lightsaber.jpg)
+![p125](../../notes/materials/009-legacy-book-1-panels/p125-talon-force-blazes-in-this-one.jpg)
+![p126](../../notes/materials/009-legacy-book-1-panels/p126-cade-saber-blaster-vs-nihl.jpg)
+![p130](../../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+![p133 Nihl's Force blast floors Cade and Syn](../../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:402`; `notes/materials/009-legacy-book-1.md:1102`; `notes/materials/009-legacy-book-1.md:1103`
 
-- Note (summary from our notes, not a quotation): ![p124](009-legacy-book-1-panels/p124-cade-takes-up-lightsaber.jpg)
+- Note (summary from our notes, not a quotation): ![p124](../../notes/materials/009-legacy-book-1-panels/p124-cade-takes-up-lightsaber.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p124 — `p124-cade-takes-up-lightsaber.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:405`
 
-- Note (summary from our notes, not a quotation): ![p125](009-legacy-book-1-panels/p125-talon-force-blazes-in-this-one.jpg)
+- Note (summary from our notes, not a quotation): ![p125](../../notes/materials/009-legacy-book-1-panels/p125-talon-force-blazes-in-this-one.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p125 — `p125-talon-force-blazes-in-this-one.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:408`
 
-- Note (summary from our notes, not a quotation): ![p126](009-legacy-book-1-panels/p126-cade-saber-blaster-vs-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p126](../../notes/materials/009-legacy-book-1-panels/p126-cade-saber-blaster-vs-nihl.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p126 — `p126-cade-saber-blaster-vs-nihl.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:411`
 
-- Note (summary from our notes, not a quotation): ![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+- Note (summary from our notes, not a quotation): ![p130](../../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p130 — `p130-cade-vs-nihl-no-chance-boy.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:414`
 
-- Note (summary from our notes, not a quotation): ![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+- Note (summary from our notes, not a quotation): ![p133 Nihl's Force blast floors Cade and Syn](../../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p133 Nihl's Force blast floors Cade and Syn — `p133-nihl-force-blast-one-fool-at-a-time.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:417`
@@ -4290,23 +4269,23 @@ Our notes: `notes/materials/009-legacy-book-1.md:421`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 8. Heals the dying Marasiah through the dark side; "took her death into you". p139 (#7 Broken)–p142 (#7 Broken)
-![p140](009-legacy-book-1-panels/p140-cade-take-life-back-from-death.jpg)
-![p141 the healing (full page, wordless)](009-legacy-book-1-panels/p141-cade-dark-side-healing-marasiah.jpg)
-![p142](009-legacy-book-1-panels/p142-wolf-took-her-death-into-you.jpg)
-![p139 Draco vs Shado posturing; Wolf on dark-side healing](009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
+![p140](../../notes/materials/009-legacy-book-1-panels/p140-cade-take-life-back-from-death.jpg)
+![p141 the healing (full page, wordless)](../../notes/materials/009-legacy-book-1-panels/p141-cade-dark-side-healing-marasiah.jpg)
+![p142](../../notes/materials/009-legacy-book-1-panels/p142-wolf-took-her-death-into-you.jpg)
+![p139 Draco vs Shado posturing; Wolf on dark-side healing](../../notes/materials/009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:423`
 
-- Note (summary from our notes, not a quotation): ![p140](009-legacy-book-1-panels/p140-cade-take-life-back-from-death.jpg)
+- Note (summary from our notes, not a quotation): ![p140](../../notes/materials/009-legacy-book-1-panels/p140-cade-take-life-back-from-death.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p140 — `p140-cade-take-life-back-from-death.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:426`
 
-- Note (summary from our notes, not a quotation): ![p141 the healing (full page, wordless)](009-legacy-book-1-panels/p141-cade-dark-side-healing-marasiah.jpg)
+- Note (summary from our notes, not a quotation): ![p141 the healing (full page, wordless)](../../notes/materials/009-legacy-book-1-panels/p141-cade-dark-side-healing-marasiah.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p141 the healing (full page, wordless) — `p141-cade-dark-side-healing-marasiah.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:429`
 
-- Note (summary from our notes, not a quotation): ![p142](009-legacy-book-1-panels/p142-wolf-took-her-death-into-you.jpg)
+- Note (summary from our notes, not a quotation): ![p142](../../notes/materials/009-legacy-book-1-panels/p142-wolf-took-her-death-into-you.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p142 — `p142-wolf-took-her-death-into-you.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:432`
@@ -4317,24 +4296,24 @@ Our notes: `notes/materials/009-legacy-book-1.md:432`
 > IT WAS SKYWALKER -- NOT YOU -- WHO BROUGHT HER BACK FROM THE EDGE OF THE GRAVE! *(p204)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Context: Imperial Knight Krieg had already tried and failed.
 Note (our notes, around the quote): Context: Imperial Knight Krieg had already tried and failed: "THE JEDI ARE VERY SKILLED ... MORE THAN WE, BUT ... WE'RE LOSING HER..." (p137). Fel: "IT WAS SKYWALKER -- NOT YOU -- WHO BROUGHT HER BACK FROM THE EDGE OF THE GRAVE!" (p204). So Cade's healing out-performs two trained Knights working together.
-![p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE"](009-legacy-book-1-panels/p137-krieg-jedi-more-skilled-healing.jpg)
-![p204](009-legacy-book-1-panels/p204-fel-skywalker-too-dangerous-five-trackers.jpg)
+![p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE"](../../notes/materials/009-legacy-book-1-panels/p137-krieg-jedi-more-skilled-healing.jpg)
+![p204](../../notes/materials/009-legacy-book-1-panels/p204-fel-skywalker-too-dangerous-five-trackers.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:436`
 
 > Shado: "YOU'RE NOT IN BAD SHAPE FOR A BOUNTY HUNTER, CADE. TERRIBLE SHAPE FOR A JEDI, BUT..." · Sazen: "HE HAS RAW POWER, BUT HIS FINER SKILLS HAVE ATROPHIED." · "HE WAS ALMOST READY FOR HIS TRIALS WHEN... OSSUS FELL." · (p282) Cade: "DEPEND ON THE FORCE TO FIND ME. I HIDE FROM THE FORCE AND YOU CAN'T 'SEE' ME, SHADO, OL' PAL!"
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 9. Out of practice (Ossus retraining): "RAW POWER" but "FINER SKILLS HAVE ATROPHIED". p280 (#11 Ghosts), p282 (#11 Ghosts)
-![p280](009-legacy-book-1-panels/p280-sazen-raw-power-skills-atrophied.jpg)
-![p282 Cade hides from the Force](009-legacy-book-1-panels/p282-cade-hides-from-force.jpg)
+![p280](../../notes/materials/009-legacy-book-1-panels/p280-sazen-raw-power-skills-atrophied.jpg)
+![p282 Cade hides from the Force](../../notes/materials/009-legacy-book-1-panels/p282-cade-hides-from-force.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:438`; `notes/materials/009-legacy-book-1.md:1105`; `notes/materials/012-legacy-vol-2-shards.md:455`
 
-- Note (summary from our notes, not a quotation): ![p280](009-legacy-book-1-panels/p280-sazen-raw-power-skills-atrophied.jpg)
+- Note (summary from our notes, not a quotation): ![p280](../../notes/materials/009-legacy-book-1-panels/p280-sazen-raw-power-skills-atrophied.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p280 — `p280-sazen-raw-power-skills-atrophied.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:441`
 
-- Note (summary from our notes, not a quotation): ![p282 Cade hides from the Force](009-legacy-book-1-panels/p282-cade-hides-from-force.jpg)
+- Note (summary from our notes, not a quotation): ![p282 Cade hides from the Force](../../notes/materials/009-legacy-book-1-panels/p282-cade-hides-from-force.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p282 Cade hides from the Force — `p282-cade-hides-from-force.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:444`
@@ -4343,22 +4322,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:444`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 10. Loses to Vong warriors; Sazen handles him. p287 (#12 Ghosts), p296 (#12 Ghosts)–p297 (#12 Ghosts)
-![p287 Vong warriors overpower Cade and Shado](009-legacy-book-1-panels/p287-vong-overpower-cade-shado.jpg)
-![p296](009-legacy-book-1-panels/p296-sazen-force-push-cade-darkside-healing.jpg)
-![p297](009-legacy-book-1-panels/p297-sazen-imposed-will-dark-side.jpg)
+![p287 Vong warriors overpower Cade and Shado](../../notes/materials/009-legacy-book-1-panels/p287-vong-overpower-cade-shado.jpg)
+![p296](../../notes/materials/009-legacy-book-1-panels/p296-sazen-force-push-cade-darkside-healing.jpg)
+![p297](../../notes/materials/009-legacy-book-1-panels/p297-sazen-imposed-will-dark-side.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:448`
 
-- Note (summary from our notes, not a quotation): ![p287 Vong warriors overpower Cade and Shado](009-legacy-book-1-panels/p287-vong-overpower-cade-shado.jpg)
+- Note (summary from our notes, not a quotation): ![p287 Vong warriors overpower Cade and Shado](../../notes/materials/009-legacy-book-1-panels/p287-vong-overpower-cade-shado.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p287 Vong warriors overpower Cade and Shado — `p287-vong-overpower-cade-shado.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:451`
 
-- Note (summary from our notes, not a quotation): ![p296](009-legacy-book-1-panels/p296-sazen-force-push-cade-darkside-healing.jpg)
+- Note (summary from our notes, not a quotation): ![p296](../../notes/materials/009-legacy-book-1-panels/p296-sazen-force-push-cade-darkside-healing.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p296 — `p296-sazen-force-push-cade-darkside-healing.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:454`
 
-- Note (summary from our notes, not a quotation): ![p297](009-legacy-book-1-panels/p297-sazen-imposed-will-dark-side.jpg)
+- Note (summary from our notes, not a quotation): ![p297](../../notes/materials/009-legacy-book-1-panels/p297-sazen-imposed-will-dark-side.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p297 — `p297-sazen-imposed-will-dark-side.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:457`
@@ -4373,11 +4352,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:461`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 11. Shado: Cade "TWISTED IT TO HIS WILL"; K'Kruhk: "A NEW VADER". p281 (#11 Ghosts), p307 (#12 Ghosts)
-![p307](009-legacy-book-1-panels/p307-shado-cade-twisted-force-to-his-will.jpg)
-![p281](009-legacy-book-1-panels/p281-kkruhk-new-vader-sazen-vision.jpg)
+![p307](../../notes/materials/009-legacy-book-1-panels/p307-shado-cade-twisted-force-to-his-will.jpg)
+![p281](../../notes/materials/009-legacy-book-1-panels/p281-kkruhk-new-vader-sazen-vision.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:463`; `notes/materials/012-legacy-vol-2-shards.md:279`
 
-- Note (summary from our notes, not a quotation): ![p307](009-legacy-book-1-panels/p307-shado-cade-twisted-force-to-his-will.jpg)
+- Note (summary from our notes, not a quotation): ![p307](../../notes/materials/009-legacy-book-1-panels/p307-shado-cade-twisted-force-to-his-will.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p307 — `p307-shado-cade-twisted-force-to-his-will.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:466`
@@ -4386,16 +4365,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:466`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 12. Piloting and stealth: loses Skull Squadron; infiltrates the Sith Temple. p315 (#14 Claws), p325 (#14 Claws)
-![p315](009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
-![p325](009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
+![p315](../../notes/materials/009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
+![p325](../../notes/materials/009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:470`
 
-- Note (summary from our notes, not a quotation): ![p315](009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
+- Note (summary from our notes, not a quotation): ![p315](../../notes/materials/009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p315 — `p315-cade-loses-skull-squadron.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:473`
 
-- Note (summary from our notes, not a quotation): ![p325](009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
+- Note (summary from our notes, not a quotation): ![p325](../../notes/materials/009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p325 — `p325-cade-infiltrates-sith-temple.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:476`
@@ -4404,23 +4383,23 @@ Our notes: `notes/materials/009-legacy-book-1.md:476`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 13. Cade vs Talon in the Sith Temple; Nihl ends it from behind. p328 (#14 Claws)–p331 (#14 Claws)
-![p328](009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
-![p329](009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
-![p330](009-legacy-book-1-panels/p330-nihl-strikes-cade-from-behind.jpg)
-![p331](009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
+![p328](../../notes/materials/009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
+![p329](../../notes/materials/009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
+![p330](../../notes/materials/009-legacy-book-1-panels/p330-nihl-strikes-cade-from-behind.jpg)
+![p331](../../notes/materials/009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:480`
 
-- Note (summary from our notes, not a quotation): ![p328](009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
+- Note (summary from our notes, not a quotation): ![p328](../../notes/materials/009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p328 — `p328-cade-vs-talon-sabers.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:483`
 
-- Note (summary from our notes, not a quotation): ![p329](009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
+- Note (summary from our notes, not a quotation): ![p329](../../notes/materials/009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p329 — `p329-cade-vs-talon-kick.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:486`
 
-- Note (summary from our notes, not a quotation): ![p330](009-legacy-book-1-panels/p330-nihl-strikes-cade-from-behind.jpg)
+- Note (summary from our notes, not a quotation): ![p330](../../notes/materials/009-legacy-book-1-panels/p330-nihl-strikes-cade-from-behind.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p330 — `p330-nihl-strikes-cade-from-behind.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:489`
@@ -4433,11 +4412,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:493`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 14. Purges ixetal cilona by bending the Force "LIKE A SITH"; tortured. p338 (#15 Claws)–p339 (#15 Claws)
-![p338](009-legacy-book-1-panels/p338-maladi-cade-purges-drug-like-sith.jpg)
-![p339](009-legacy-book-1-panels/p339-krayt-power-dark-side-healing-abilities.jpg)
+![p338](../../notes/materials/009-legacy-book-1-panels/p338-maladi-cade-purges-drug-like-sith.jpg)
+![p339](../../notes/materials/009-legacy-book-1-panels/p339-krayt-power-dark-side-healing-abilities.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:495`
 
-- Note (summary from our notes, not a quotation): ![p338](009-legacy-book-1-panels/p338-maladi-cade-purges-drug-like-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p338](../../notes/materials/009-legacy-book-1-panels/p338-maladi-cade-purges-drug-like-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p338 — `p338-maladi-cade-purges-drug-like-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:498`
@@ -4446,18 +4425,18 @@ Our notes: `notes/materials/009-legacy-book-1.md:498`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 15. HEALS TWO PEOPLE AT ONCE: accelerated coral seeds (Jariah and Deliah). p343 (#15 Claws)–p346 (#15 Claws)
-![p344 dual healing](009-legacy-book-1-panels/p344-cade-heals-two-at-once.jpg)
-![p345 Maladi and Krayt react](009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
-![p343 Krayt frees Cade with the Force](009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
-![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+![p344 dual healing](../../notes/materials/009-legacy-book-1-panels/p344-cade-heals-two-at-once.jpg)
+![p345 Maladi and Krayt react](../../notes/materials/009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
+![p343 Krayt frees Cade with the Force](../../notes/materials/009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
+![p346](../../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:502`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:331`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:535`; `notes/materials/009-legacy-book-1.md:1101`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:534`
 
-- Note (summary from our notes, not a quotation): ![p344 dual healing](009-legacy-book-1-panels/p344-cade-heals-two-at-once.jpg)
+- Note (summary from our notes, not a quotation): ![p344 dual healing](../../notes/materials/009-legacy-book-1-panels/p344-cade-heals-two-at-once.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p344 dual healing — `p344-cade-heals-two-at-once.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:505`
 
-- Note (summary from our notes, not a quotation): ![p345 Maladi and Krayt react](009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
+- Note (summary from our notes, not a quotation): ![p345 Maladi and Krayt react](../../notes/materials/009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p345 Maladi and Krayt react — `p345-krayt-see-limit-of-his-power.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:508`
@@ -4470,22 +4449,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:512`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 16. Force-blasts Talon while cuffed; sees her "RED LINES"; threatens to "EXPLODE" her weak point (healing reversed). p371 (#16 Claws)–p372 (#16 Claws)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
-![p372 Cade's blast; hand on Talon's head](009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
-![p374 Krayt stops him; Cade heals Talon instead](009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
+![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p372 Cade's blast; hand on Talon's head](../../notes/materials/009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
+![p374 Krayt stops him; Cade heals Talon instead](../../notes/materials/009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:514`
 
-- Note (summary from our notes, not a quotation): ![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+- Note (summary from our notes, not a quotation): ![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p371 — `p371-talon-respect-his-power-beware-mine.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:517`
 
-- Note (summary from our notes, not a quotation): ![p372 Cade's blast; hand on Talon's head](009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
+- Note (summary from our notes, not a quotation): ![p372 Cade's blast; hand on Talon's head](../../notes/materials/009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p372 Cade's blast; hand on Talon's head — `p372-cade-force-blast-talon-explode-point.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:520`
 
-- Note (summary from our notes, not a quotation): ![p374 Krayt stops him; Cade heals Talon instead](009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
+- Note (summary from our notes, not a quotation): ![p374 Krayt stops him; Cade heals Talon instead](../../notes/materials/009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p374 Krayt stops him; Cade heals Talon instead — `p374-krayt-teach-you-cade-heals-talon.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:523`
@@ -4494,22 +4473,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:523`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 17. Sith training under Talon: self-healing a sword wound on command. p379 (#17 Claws)–p381 (#17 Claws)
-![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
-![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p379](../../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+![p380](../../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+![p381 dark-side self-healing](../../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:527`
 
-- Note (summary from our notes, not a quotation): ![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+- Note (summary from our notes, not a quotation): ![p379](../../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p379 — `p379-talon-trains-cade-no-threat.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:530`
 
-- Note (summary from our notes, not a quotation): ![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+- Note (summary from our notes, not a quotation): ![p380](../../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p380 — `p380-cade-everything-im-after-is-here.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:533`
 
-- Note (summary from our notes, not a quotation): ![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+- Note (summary from our notes, not a quotation): ![p381 dark-side self-healing](../../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p381 dark-side self-healing — `p381-talon-heal-yourself-dark-side.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:536`
@@ -4518,10 +4497,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:536`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 18. Ambushed and floored by Talon. p411 (#18 Claws)
-![p411](009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
+![p411](../../notes/materials/009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:540`
 
-- Note (summary from our notes, not a quotation): ![p411](009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
+- Note (summary from our notes, not a quotation): ![p411](../../notes/materials/009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p411 — `p411-talon-ambush-cade-idiot.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:543`
@@ -4529,29 +4508,29 @@ Our notes: `notes/materials/009-legacy-book-1.md:543`
 > "YOU TOLD ME YOU NEED ME TO HEAL YOU. DEAD, I CAN'T HEAL ANYONE. AND IF YOU'RE NOT WILLING TO KILL ME, ALL YOUR THREATS MEAN SQUAT." · "CAN'T FORCE ME NEITHER -- IT DON'T WORK THAT WAY." · Krayt: "YOU DO NOT COMPREHEND THE POWER YOU REFUSE."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 19. Refuses Krayt's threats. p413 (#18 Claws)
-![p413](009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
+![p413](../../notes/materials/009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:547`
 
 > Kol: "CADE... OPEN YOUR MIND... YOUR HEART... TO ME... LISTEN!" · "THAT WHICH CAN HEAL CAN ALSO BREAK." · (p417, wordless) Cade shatters the transparisteel case holding Kol's lightsaber; the blast and glass storm make the Sith recoil and shield themselves. · (p418) Cade: "C'MERE." · "SOMETHING TO KARKIN' REMEMBER ME BY, SCHUTTA." · Talon: "UH!"
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 20. Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK"; Force shockwave makes Krayt, Wyyrlok, Nihl and Talon recoil. p416 (#18 Claws)–p418 (#18 Claws)
-![p416](009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
-![p417 Cade's Force shockwave](009-legacy-book-1-panels/p417-cade-force-shatter-blast-sith.jpg)
-![p418](009-legacy-book-1-panels/p418-cade-strikes-talon-nihl-engages.jpg)
+![p416](../../notes/materials/009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
+![p417 Cade's Force shockwave](../../notes/materials/009-legacy-book-1-panels/p417-cade-force-shatter-blast-sith.jpg)
+![p418](../../notes/materials/009-legacy-book-1-panels/p418-cade-strikes-talon-nihl-engages.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:550`
 
-- Note (summary from our notes, not a quotation): ![p416](009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
+- Note (summary from our notes, not a quotation): ![p416](../../notes/materials/009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p416 — `p416-kol-ghost-heal-can-break.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:553`
 
-- Note (summary from our notes, not a quotation): ![p417 Cade's Force shockwave](009-legacy-book-1-panels/p417-cade-force-shatter-blast-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p417 Cade's Force shockwave](../../notes/materials/009-legacy-book-1-panels/p417-cade-force-shatter-blast-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p417 Cade's Force shockwave — `p417-cade-force-shatter-blast-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:556`
 
-- Note (summary from our notes, not a quotation): ![p418](009-legacy-book-1-panels/p418-cade-strikes-talon-nihl-engages.jpg)
+- Note (summary from our notes, not a quotation): ![p418](../../notes/materials/009-legacy-book-1-panels/p418-cade-strikes-talon-nihl-engages.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p418 — `p418-cade-strikes-talon-nihl-engages.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:559`
@@ -4564,22 +4543,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:563`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 21. Defeats Darth Nihl one-on-one; refuses to kill him. p425 (#19 Claws)–p427 (#19 Claws)
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p425](../../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p426](../../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p427](../../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:565`
 
-- Note (summary from our notes, not a quotation): ![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+- Note (summary from our notes, not a quotation): ![p425](../../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p425 — `p425-cade-vs-nihl-sith-eyes.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:568`
 
-- Note (summary from our notes, not a quotation): ![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p426](../../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p426 — `p426-cade-defeats-nihl.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:571`
 
-- Note (summary from our notes, not a quotation): ![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+- Note (summary from our notes, not a quotation): ![p427](../../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p427 — `p427-cade-refuses-kill-nihl-attacks-krayt.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:574`
@@ -4591,11 +4570,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:578`
 > "YOU AND MY DAD OPENED MY EYES TO MY ABILITIES. I SEE REAL CLEAR NOW. I CAN SEE HOW SICK AND TWISTED UP YOUR INSIDES ARE." · "WITHOUT ME YOU WILL DIE -- AND IT WON'T BE AS DARTH KRAYT OR EVEN A'SHARAD HETT! YOU'LL DIE AS SOME MINDLESS VONG GROWTH!" · (p434) "THE GALAXY CAN LOOK AFTER ITSELF."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 22. Reads Krayt's illness mid-duel; leaps from the tower. p430 (#19 Claws), p435 (#19 Claws)
-![p435 splash: Cade jumps](009-legacy-book-1-panels/p435-cade-leaps-from-krayt-tower-splash.jpg)
-![p430](009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
+![p435 splash: Cade jumps](../../notes/materials/009-legacy-book-1-panels/p435-cade-leaps-from-krayt-tower-splash.jpg)
+![p430](../../notes/materials/009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:580`
 
-- Note (summary from our notes, not a quotation): ![p435 splash: Cade jumps](009-legacy-book-1-panels/p435-cade-leaps-from-krayt-tower-splash.jpg)
+- Note (summary from our notes, not a quotation): ![p435 splash: Cade jumps](../../notes/materials/009-legacy-book-1-panels/p435-cade-leaps-from-krayt-tower-splash.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p435 splash: Cade jumps — `p435-cade-leaps-from-krayt-tower-splash.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:583`
@@ -4698,14 +4677,14 @@ Our notes: `notes/materials/009-legacy-book-1.md:909`; `notes/materials/013-lega
 
 - Note (summary from our notes, not a quotation): Handles angry Cade with one arm (p296 (#12 Ghosts)–p297 (#12 Ghosts)).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p38](009-legacy-book-1-panels/p038-wolf-cade-strong-in-force.jpg)
-![p99](009-legacy-book-1-panels/p099-wolf-flickering-shadow-in-force.jpg)
-![p332 Sazen senses Cade across the galaxy](009-legacy-book-1-panels/p332-sazen-senses-cade-from-ossus.jpg)
-![p296](009-legacy-book-1-panels/p296-sazen-force-push-cade-darkside-healing.jpg)
-![p297](009-legacy-book-1-panels/p297-sazen-imposed-will-dark-side.jpg)
+![p38](../../notes/materials/009-legacy-book-1-panels/p038-wolf-cade-strong-in-force.jpg)
+![p99](../../notes/materials/009-legacy-book-1-panels/p099-wolf-flickering-shadow-in-force.jpg)
+![p332 Sazen senses Cade across the galaxy](../../notes/materials/009-legacy-book-1-panels/p332-sazen-senses-cade-from-ossus.jpg)
+![p296](../../notes/materials/009-legacy-book-1-panels/p296-sazen-force-push-cade-darkside-healing.jpg)
+![p297](../../notes/materials/009-legacy-book-1-panels/p297-sazen-imposed-will-dark-side.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:911`
 
-- Note (summary from our notes, not a quotation): ![p332 Sazen senses Cade across the galaxy](009-legacy-book-1-panels/p332-sazen-senses-cade-from-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p332 Sazen senses Cade across the galaxy](../../notes/materials/009-legacy-book-1-panels/p332-sazen-senses-cade-from-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p332 Sazen senses Cade across the galaxy — `p332-sazen-senses-cade-from-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:919`
@@ -4713,7 +4692,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:919`
 > "OF ALL MY LEARNERS, YOU ALWAYS HAD THE GREATEST POTENTIAL. UNFORTUNATELY, YOU WERE ALSO THE MOST STUBBORN." · "I'VE DIED ANY NUMBER OF TIMES IN MY LIFE. OR SO I'VE HEARD." · Cade: "I'LL JUST TAP A LITTLE INTO MY HEALING POWER -- LIKE I ALWAYS DO -- AND I'LL BE GOOD AS NEW." · K'Kruhk: "USING THE FORCE THAT WAY IS NOT WHAT I TAUGHT YOU." · "YOU HAVEN'T BEEN 'GOOD AS NEW' IN SOME TIME. IN FACT, I'M HEALING YOU NOW." · "THERE IS NO PHYSICAL WOUND. I'M FOCUSING ON HEALING YOUR WHOLE BEING."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Light-side "whole being" healing of the overdosed Cade. p272 (#11 Ghosts)–p273 (#11 Ghosts)
-![p273](009-legacy-book-1-panels/p273-cade-tap-healing-power-kkruhk-heals.jpg)
+![p273](../../notes/materials/009-legacy-book-1-panels/p273-cade-tap-healing-power-kkruhk-heals.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:935`; `notes/materials/012-legacy-vol-2-shards.md:276`
 
 > NEI RIN, WE BOTH KNOW I'M NOT THE RIGHT CARETAKER FOR THE LEGACY. LET K'KRUHK DO IT. AMONG THE JEDI HE IS LIKE BOTH WARMASTER AND HIGH PRIEST-- AND A FAR BETTER CHOICE THAN ME.
@@ -4721,9 +4700,9 @@ Our notes: `notes/materials/009-legacy-book-1.md:935`; `notes/materials/012-lega
 > IF WE TRAIN HIM, WE MAY BE TRAINING A NEW VADER.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Cade. POV: Cade.
 Note (our notes, around the quote): Cade: "NEI RIN, WE BOTH KNOW I'M NOT THE RIGHT CARETAKER FOR THE LEGACY. LET K'KRUHK DO IT. AMONG THE JEDI HE IS LIKE BOTH WARMASTER AND HIGH PRIEST-- AND A FAR BETTER CHOICE THAN ME." (p306 (#12 Ghosts)). "IF WE TRAIN HIM, WE MAY BE TRAINING A NEW VADER." (p281 (#11 Ghosts)).
-![p273](009-legacy-book-1-panels/p273-cade-tap-healing-power-kkruhk-heals.jpg)
-![p281](009-legacy-book-1-panels/p281-kkruhk-new-vader-sazen-vision.jpg)
-![p306 Nei Rin gives Kol's lightsaber](009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
+![p273](../../notes/materials/009-legacy-book-1-panels/p273-cade-tap-healing-power-kkruhk-heals.jpg)
+![p281](../../notes/materials/009-legacy-book-1-panels/p281-kkruhk-new-vader-sazen-vision.jpg)
+![p306 Nei Rin gives Kol's lightsaber](../../notes/materials/009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:937`; `notes/materials/012-legacy-vol-2-shards.md:462`
 
 - Note (summary from our notes, not a quotation): ANALYSIS (debates #18, #24, #28, #131): this is where the "Warmaster" label (legends-feats.md, debate #18) comes from: p306, Cade's words "LIKE BOTH WARMASTER AND HIGH PRIEST". K'Kruhk has no combat feats in Book 1.
@@ -4738,12 +4717,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:946`
 > THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE. *(p311)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Hosk Trey'lis (Bothan healer). Force-pushes Syn on Lok (p48). Senses Cade's strength (p61). Maladi breaks his will (p198). In captivity (p327): "THE ANGER IN YOU IS LIKE A DAGGER IN THE FORCE, YOUNG SKYWALKER." · "MY TRUE TALENT IS AS A HEALER AND I CAN SENSE SOMETHING... BROKEN IN YOU." Krayt kills him (p414–415). Wyyrlok: "THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE." (p311): a trained Jedi healer failed where Cade is Krayt's hope.
-![p327](009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
-![p61](009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
-![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+![p327](../../notes/materials/009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
+![p61](../../notes/materials/009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
+![p198](../../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p311](../../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p414 Krayt runs Hosk through](../../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+![p415](../../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:954`
 
 > HE'S A SKYWALKER! HEIR TO A GREAT NAME -- AND HE'LL BE JUST AS TRAPPED BY IT AS YOU ARE, KOL!
@@ -4884,18 +4863,18 @@ Our notes: `notes/materials/009-legacy-book-1.md:1138`; `notes/materials/009-leg
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Cade Skywalker (p471).
 Note (our notes, around the quote): Cade Skywalker (p471): "After seeing his father killed by the Sith and witnessing the sacking [of] the Jedi Academy on Ossus, Cade Skywalker turned his back on his J[edi] teachings and the Jedi Order." · "Now elements within the galaxy-at-large are aw[are] that Cade is a Skywalker—by all accounts, the last Skywalker—and [he] finds himself on an uncertain path that may take him to redemption, [or] his doom." (Gutter-damaged words are in brackets.) R2-D2: "Hidden in a secret sub-basement of the Academy on Ossus and serviced by the Yuuzhan Vong in honor of Cade's father".
-![p471 handbook: Cade](009-legacy-book-1-panels/p471-handbook-cade.jpg)
+![p471 handbook: Cade](../../notes/materials/009-legacy-book-1-panels/p471-handbook-cade.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1143`
 
 > ...the ghostly visage of Luke Skywalker sometimes appears to Cade... Since Luke's appearances often coincide with Cade's regrettable consumption of hallucinogenic 'death-sticks,' there is some question as to whether the visitations are truly those of the actual 'Force ghost' of Luke Skywalker, or figments of Cade's own mind.
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Luke Skywalker (p472).
-![p472 handbook: Luke (ghost or death-stick figment)](009-legacy-book-1-panels/p472-handbook-luke-ghost-deathsticks.jpg)
+![p472 handbook: Luke (ghost or death-stick figment)](../../notes/materials/009-legacy-book-1-panels/p472-handbook-luke-ghost-deathsticks.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1144`
 
 - Note (summary from our notes, not a quotation): Gallery (p478–480): Travis Charest pin-ups: Cade at Rik's bar; Obi-Wan under Tatooine's twin suns; Cade (blue saber) vs Krayt (red).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p480 Charest pin-up: Cade vs Krayt](009-legacy-book-1-panels/p480-gallery-charest-cade-vs-krayt.jpg)
+![p480 Charest pin-up: Cade vs Krayt](../../notes/materials/009-legacy-book-1-panels/p480-gallery-charest-cade-vs-krayt.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1146`
 
 > 'Legacy has long stood as one of the most interesting and original new additions to the Expanded Universe.'—IGN.com
@@ -4909,12 +4888,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:1146`
 Note (our notes, around the quote): Back matter: staff credits (p481); hardcover ad (p482: Legacy Book 1, ISBN 978-1-61655-178-0); about the authors, Ostrander and Duursema (p485). Back cover (p486): "'Legacy has long stood as one of the most interesting and original new additions to the Expanded Universe.'—IGN.com" · "Collected here are the first three volumes of Cade Skywalker's galaxy-changing saga" · "The events in this volume begin 126 years after Return of the Jedi."
 Our notes: `notes/materials/009-legacy-book-1.md:1147`
 
-- Note (summary from our notes, not a quotation): ![p471 handbook: Cade](009-legacy-book-1-panels/p471-handbook-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p471 handbook: Cade](../../notes/materials/009-legacy-book-1-panels/p471-handbook-cade.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p471 handbook: Cade — `p471-handbook-cade.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1165`
 
-- Note (summary from our notes, not a quotation): ![p480 Charest pin-up: Cade vs Krayt](009-legacy-book-1-panels/p480-gallery-charest-cade-vs-krayt.jpg)
+- Note (summary from our notes, not a quotation): ![p480 Charest pin-up: Cade vs Krayt](../../notes/materials/009-legacy-book-1-panels/p480-gallery-charest-cade-vs-krayt.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p480 Charest pin-up: Cade vs Krayt — `p480-gallery-charest-cade-vs-krayt.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1171`
@@ -4951,30 +4930,30 @@ Our notes: `notes/materials/009-legacy-book-1.md:1193`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): p130–133 (Nihl dominates) vs p425–427 (Cade wins) is the cleanest within-book growth arc. Use it to fix "end-of-Claws Cade ≥ Nihl". The counters are the shockwave softening Nihl first and Cade's heightened, Sith-eyed state.
 Context: Cade vs Nihl as a progression marker.
-![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
-![p132 Syn fires at Nihl, who deflects](009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
-![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p130](../../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+![p132 Syn fires at Nihl, who deflects](../../notes/materials/009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
+![p133 Nihl's Force blast floors Cade and Syn](../../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+![p425](../../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p426](../../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p427](../../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1194`
 
 - Note (summary from our notes, not a quotation): Con: untrained Cade's reflex push blows her away (p98), and she's ambushed twice by Cade. A fair Book 1 placement is ≥ an individual Jedi Knight or Imperial Knight, below the Krayt/Wyyrlok tier.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Talon's tier.
-![p98 Cade's Force wave blows Talon away](009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
+![p98 Cade's Force wave blows Talon away](../../notes/materials/009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1197`
 
 - Note (summary from our notes, not a quotation): Counter: both happened in a massacre with numbers; Cade says "IT TOOK HALF A DOZEN SITH" (p130). Nihl's one-on-ones in Book 1 are Wolf (rematch interrupted), early Cade (a win) and late Cade (a loss).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Nihl vs Jedi Masters (debates #22, #36, #131).
-![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+![p130](../../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1203`
 
 - Note (summary from our notes, not a quotation): The term is Cade's description (p306: "LIKE BOTH WARMASTER AND HIGH PRIEST"), not an official rank or a feat. K'Kruhk has healing and authority but no combat on panel in Book 1.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: K'Kruhk "Warmaster" (debate #18).
-![p306 Nei Rin gives Kol's lightsaber](009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
+![p306 Nei Rin gives Kol's lightsaber](../../notes/materials/009-legacy-book-1-panels/p306-kol-lightsaber-lambent-crystal.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1205`
 
 - Note (summary from our notes, not a quotation): Jedi: Cade Skywalker (130 and 137 ABY), Kol Skywalker, Wolf Sazen, Shado Vao, K'Kruhk, Hosk Trey'lis.
@@ -5033,8 +5012,8 @@ Our notes: `notes/materials/010-legacy-war.md:41`
 - Note (summary from our notes, not a quotation): #6: he fights Cade with one red blade (p122, p124).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Darth Krayt ("Reborn Krayt"). Back from the death Wyyrlok gave him (*Legacy* #50, not in this file). In War he is unmasked, with no visible Vong coral, pale skin, black facial markings, one orange eye and one blue (p4, p17, p117, p124), a braid and red spiked armour.
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 Our notes: `notes/materials/010-legacy-war.md:53`
 
 > I AM A JEDI.
@@ -5045,7 +5024,7 @@ Our notes: `notes/materials/010-legacy-war.md:54`
 
 - Note (summary from our notes, not a quotation): Cade's vision and the *Mynock* (p5–9). In a recurring vision Cade, with orange Sith eyes, cuts down Sazen and Rawk for Krayt (p5). He tells Sazen and the crew he must kill Krayt (p6–9).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p6 Sazen: "THERE IS NO DEATH, CADE..."](010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
+![p6 Sazen: "THERE IS NO DEATH, CADE..."](../../notes/materials/010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
 Our notes: `notes/materials/010-legacy-war.md:85`
 
 - Note (summary from our notes, not a quotation): The *Darklight* (p27–31). Cade and Sazen board the cruiser at Falleen, with Rogue Squadron and the *Mynock* in support. Cade drops "BOOM" down the reactor and records a message for Krayt, and the ship falls.
@@ -5069,36 +5048,36 @@ Our notes: `notes/materials/010-legacy-war.md:99`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The Wheel (p50–55). The dying Corde reaches Cade and tells him her "TWO TRUTHS". Cade refuses to heal her through the dark side (p53). Kol's ghost asks him to heal her, and Cade heals her: "I FORGIVE YOU, MOM." (p54–55).
-![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
-![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
-![p54 Kol's ghost; Cade's eyes flare red](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
-![p55 "I FORGIVE YOU, MOM."](010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
+![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+![p53 Corde's "TWO TRUTHS"](../../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
+![p54 Kol's ghost; Cade's eyes flare red](../../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
+![p55 "I FORGIVE YOU, MOM."](../../notes/materials/010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
 Our notes: `notes/materials/010-legacy-war.md:104`
 
 - Note (summary from our notes, not a quotation): Talon's gift (p56–59). Talon drops in under a "TRUCE", Force-pushes the crew, spars briefly with Cade and leaves Draco in carbonite in the hold. Draco confesses.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+![p57 Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
 Our notes: `notes/materials/010-legacy-war.md:105`
 
 > YOU DON'T WIN BY PLAYING SAFE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Taivas council (p61–63). Marasiah gives Draco a chance at redemption (p61). At the council Cade proposes the trap ("YOU DON'T WIN BY PLAYING SAFE.") and K'Kruhk sums up: "AGREED THEN." (p62–63).
-![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
-![p62 the Taivas trap plan](010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+![p62 the Taivas trap plan](../../notes/materials/010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
 Our notes: `notes/materials/010-legacy-war.md:107`; `notes/materials/010-legacy-war.md:1169`
 
 - Note (summary from our notes, not a quotation): Rawk and T'ra Saa (p84–86). Rawk pushes Cade clear and dies beside T'ra Saa. "TWO MINDS" send the released energy skyward through the Sith fleet. Stazi orders the retreat.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:117`
 
 - Note (summary from our notes, not a quotation): Escape (p87–91). Cade's "BANTHAAAAA!" (p87). A Sith trooper outlasts Cade until Cade's red-eyed "ENOUGH." and Force lightning drop him, and Corde keeps him alive for study (p88–90). Mourning (p91).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p87 "BANTHAAAAA!"](010-legacy-war-panels/p087-banthaaaa.jpg)
-![p89 "YOU TIRE. I DON'T. YOU DIE."](010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p87 "BANTHAAAAA!"](../../notes/materials/010-legacy-war-panels/p087-banthaaaa.jpg)
+![p89 "YOU TIRE. I DON'T. YOU DIE."](../../notes/materials/010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:118`
 
 - Note (summary from our notes, not a quotation): Bastion (p92). Fel orders Maladi to make the toxin, with Cade's death as her conditional price.
@@ -5108,44 +5087,44 @@ Our notes: `notes/materials/010-legacy-war.md:119`
 > MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Before the attack (p96–100). Cade on Rawk's death: "KRAYT'S THE SHATTERPOINT" (p96). Corde reveals herself to Rulf and Gunner (p97). Krieg's pep talk to Draco (p98). Corde's briefing (p99). Fel's orders: "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND." Fel keeps Sia, Treis and Draco by him (p100).
-![p96 "KRAYT'S THE SHATTERPOINT"](010-legacy-war-panels/p096-krayts-the-shatterpoint.jpg)
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p96 "KRAYT'S THE SHATTERPOINT"](../../notes/materials/010-legacy-war-panels/p096-krayts-the-shatterpoint.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
 Our notes: `notes/materials/010-legacy-war.md:124`
 
 > TIME TO END IT.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The tunnels (p110–114). Talon and Stryfe ambush the team in the Temple tunnels (p110–111). Cade floors Talon with Force pushes (p112). Stryfe challenges Sazen, and they kill each other in one pass (p113–114). Talon flees to warn Krayt and Cade follows: "TIME TO END IT."
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:127`
 
 - Note (summary from our notes, not a quotation): Cade vs Krayt (p116–118). Krayt and Nihl by holo ("AS YOU FORESAW") (p116). Talon is slammed into a pillar (p116). Cade arrives, and Krayt pushes, catches and lightnings him (p117–118).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
-![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:131`
 
 - Note (summary from our notes, not a quotation): Dark transfer (p122–125). Krayt pours dark-transfer lightning into Cade, who sees the vision (p122–123). Cade rises, calls his saber and stabs Krayt (p124–125).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:134`
 
 > WALKIN' IN THE SKY...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Into the sun (p128–131). Cade still hears Krayt's voice and takes the body to the sun with Corde's locket (a tracer). Krayt's voice claims "TRANSFER ESSENCE". Luke's ghost speaks. The body burns and Cade drifts in space, "WALKIN' IN THE SKY...".
-![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
-![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
-![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
+![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
+![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](../../notes/materials/010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
 Our notes: `notes/materials/010-legacy-war.md:137`
 
 - Note (summary from our notes, not a quotation): Cade recovered (p133–135). The *Mynock* crew recovers Cade, not breathing (p133). Nihl disperses the Sith (p134). Cade wakes from a "JEDI HIBERNATION TRANCE" (p135).
@@ -5155,9 +5134,9 @@ Our notes: `notes/materials/010-legacy-war.md:139`
 > THERE IS NO DEATH -- THERE IS ONLY THE FORCE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Epilogue (p136). Cade's closing narration.
 Note (our notes, around the quote): Epilogue (p136). Cade's closing narration: "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." "END".
-![p136 "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." END](010-legacy-war-panels/p136-there-is-no-death-only-the-force.jpg)
+![p136 "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." END](../../notes/materials/010-legacy-war-panels/p136-there-is-no-death-only-the-force.jpg)
 Also cited as: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p136.
-Also noted as: ![p136 "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." END](010-legacy-war-panels/p136-there-is-no-death-only-the-force.jpg)
+Also noted as: ![p136 "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." END](../../notes/materials/010-legacy-war-panels/p136-there-is-no-death-only-the-force.jpg)
 Our notes: `notes/materials/010-legacy-war.md:140`; `notes/materials/010-legacy-war.md:500`
 
 > (p23) "ONCE, I THOUGHT TO BRING PEACE AND ORDER TO THE GALAXY THROUGH THE EXISTING GOVERNMENTS -- TO ALIGN THE WORLDS TO THE RULE OF THE ONE SITH." · "THAT CANNOT WORK. THE GALAXY MUST EXPERIENCE THE PAIN OF DEATH AND THE RAPTURE OF REBIRTH AS I HAVE." · "I WILL BRING CHAOS." · "IT IS TIME FOR WAR." · (p46, to Talon) "WHEN I CALLED TO THE ONE SITH THROUGH THE FORCE, I FELT SKYWALKER'S PRESENCE. AS MUCH AS THE BOY BELIEVES HE WALKS IN THE LIGHT, DARKNESS STILL SHROUDS HIM." · "FIND HIM AND MAKE HIM A GIFT OF YOUR BROKEN IMPERIAL KNIGHT." · (to Cade's holo) "DEATH IS NOT AN ENDING, BOY -- BUT IT IS A PASSAGEWAY TO SOMETHING GREATER. IT IS SOMETHING YOU, TOO, MUST EXPERIENCE, CADE SKYWALKER." · "FOR I HAVE HAD A VISION. YOU WILL BEND, YOU WILL BREAK, AND YOU WILL SERVE AT MY SIDE. BUT FIRST -- YOU MUST DIE." · (p60) "UNTIL THE FORCE SPEAKS TO YOU, DO NOT QUESTION MY JUDGMENT, GRAND ADMIRAL." · (to Nihl) "NONE. THEY ARE MERELY BAIT. I HAVE FORESEEN HOW THIS ALLIANCE WILL REACT TO THE IMMINENT ATTACK. THIS IS THE FIRST STEP IN MY FINAL PLAN TO BRING THE GALAXY TO HEEL."
@@ -5177,7 +5156,7 @@ Our notes: `notes/materials/010-legacy-war.md:236`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 6. KRAYT vs CADE: the final duel. p116–125 (#6). Full sequence under "Krayt's fate in detail" below.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:252`; `notes/materials/010-legacy-war.md:1030`
 
 - Note (summary from our notes, not a quotation): On p118, Krayt's palm blast throws Cade across the chamber. Krayt catches Cade's flying saber attack bare-handed in a violet Force sphere, then unleashes torrential Force lightning, which Cade leaps through.
@@ -5219,9 +5198,9 @@ Our notes: `notes/materials/010-legacy-war.md:279`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 9. Krayt dies: stabbed by Cade's recalled saber; his voice and "TRANSFER ESSENCE"; body burned in the sun. p124–131 (#6). See "Krayt's fate in detail".
-![p125 I AM A JEDI; Cade stabs Krayt](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
-![p131 Krayt's body burns in the sun; Cade adrift](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
+![p125 I AM A JEDI; Cade stabs Krayt](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p131 Krayt's body burns in the sun; Cade adrift](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
 Our notes: `notes/materials/010-legacy-war.md:284`
 
 - Note (summary from our notes, not a quotation): Talon is yanked backwards and slammed into a stone pillar. The next panel is Cade's green saber igniting. The page does not show who threw her (UNCLEAR). Wookieepedia says Krayt lifted and slammed her. The panel order (Talon thrown, then Cade's blade lit, then Cade's entrance on p117) could equally be read as Cade's push. Don't cite it as a Krayt feat.
@@ -5232,13 +5211,13 @@ Our notes: `notes/materials/010-legacy-war.md:298`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 1. Vision of serving Krayt; Sazen's warning about the dark side. p5–7 (#1)
-![p6 Sazen: "THERE IS NO DEATH, CADE..."](010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
+![p6 Sazen: "THERE IS NO DEATH, CADE..."](../../notes/materials/010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
 Our notes: `notes/materials/010-legacy-war.md:314`
 
 > THERE IS NO DEATH, CADE...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p6 Sazen.
-Note (our notes, around the quote): ![p6 Sazen: "THERE IS NO DEATH, CADE..."](010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
+Note (our notes, around the quote): ![p6 Sazen: "THERE IS NO DEATH, CADE..."](../../notes/materials/010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
 (*Panel: p6 — `p006-sazen-there-is-no-death.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:319`
 
@@ -5249,8 +5228,8 @@ Our notes: `notes/materials/010-legacy-war.md:322`
 > "OKAY, VUL ISEN WAS A NASTY PIECE OF WORK -- HAD IT COMING FOR POISONING DAC -- AND YOU TOOK HIM OUT." (Syn) · Cade: "ISEN NEEDED KILLING." · "NOW I KNOW WHAT THE FORCE HAS BEEN PREPARING ME TO DO -- KRAYT IS ALIVE AND I GOTTA KILL HIM."
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 2. Motive and an off-page kill. p8–9 (#1)
-![p8 Cade, Jariah and Blue: bounties on Sith](010-legacy-war-panels/p008-cade-jariah-blue-bounties-on-sith.jpg) *(p8)*
-![p9 Cade: hunting Sith; KRAYT IS ALIVE AND I GOTTA KILL HIM](010-legacy-war-panels/p009-cade-hunting-sith-krayt-alive.jpg) *(p9)*
+![p8 Cade, Jariah and Blue: bounties on Sith](../../notes/materials/010-legacy-war-panels/p008-cade-jariah-blue-bounties-on-sith.jpg) *(p8)*
+![p9 Cade: hunting Sith; KRAYT IS ALIVE AND I GOTTA KILL HIM](../../notes/materials/010-legacy-war-panels/p009-cade-hunting-sith-krayt-alive.jpg) *(p9)*
 Our notes: `notes/materials/010-legacy-war.md:324`
 
 - Note (summary from our notes, not a quotation): Darth Vul Isen is a Sith Cade killed before #1; the kill is off-page.
@@ -5260,14 +5239,14 @@ Our notes: `notes/materials/010-legacy-war.md:329`
 > "BOOM'S AWAY!" · "JUST SENDING ALONG A MESSAGE TO THE ONE SITH. I WANT KRAYT TO KNOW I BLEW UP HIS SHIP." · (p36) "C'MON, VEDO. I TOOK OUT A STAR DESTROYER."
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 3. *Darklight* sabotage at Falleen. p27–31 (#2)
-![p29 Cade and Sazen fight aboard the Darklight](010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
-![p31 The Darklight's core chain reaction; the cruiser crashes](010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
+![p29 Cade and Sazen fight aboard the Darklight](../../notes/materials/010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
+![p31 The Darklight's core chain reaction; the cruiser crashes](../../notes/materials/010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
 Our notes: `notes/materials/010-legacy-war.md:331`
 
 - Note (summary from our notes, not a quotation): Cade and Sazen fight stormtroopers and a red-saber Sith (p29). Planted charges set off a core chain reaction and the cruiser crashes (p31).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p29 Cade and Sazen fight aboard the Darklight](010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
-![p31 The Darklight's core chain reaction; the cruiser crashes](010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
+![p29 Cade and Sazen fight aboard the Darklight](../../notes/materials/010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
+![p31 The Darklight's core chain reaction; the cruiser crashes](../../notes/materials/010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
 Our notes: `notes/materials/010-legacy-war.md:336`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): demolition, not a Force feat. Rogue Squadron and the *Mynock* run interference.
@@ -5278,27 +5257,27 @@ Our notes: `notes/materials/010-legacy-war.md:339`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 4. Healing: his own statement of the cost; Corde healed through the light side. p51–55 (#3)
-![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
-![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
-![p54 Kol's ghost; Cade's eyes flare red](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
-![p55 "I FORGIVE YOU, MOM."](010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
+![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+![p53 Corde's "TWO TRUTHS"](../../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
+![p54 Kol's ghost; Cade's eyes flare red](../../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
+![p55 "I FORGIVE YOU, MOM."](../../notes/materials/010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
 Our notes: `notes/materials/010-legacy-war.md:341`
 
 > I GOT NO LOVE FOR YOU.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; The.
 Note (our notes, around the quote): The "I GOT NO LOVE FOR YOU." balloon sits in Corde's panel with its tail toward Cade. In context it is Cade's line (reading).
-![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
-![p54 Kol's ghost; Cade's eyes flare red](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
-![p55 "I FORGIVE YOU, MOM."](010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
+![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+![p54 Kol's ghost; Cade's eyes flare red](../../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
+![p55 "I FORGIVE YOU, MOM."](../../notes/materials/010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
 Our notes: `notes/materials/010-legacy-war.md:344`
 
 > HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p53.
-Note (our notes, around the quote): ![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+Note (our notes, around the quote): ![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
 (*Panel: p53 — `p053-cade-healing-costs-me.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:346`
 
-- Note (summary from our notes, not a quotation): ![p54 Kol's ghost; Cade's eyes flare red](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
+- Note (summary from our notes, not a quotation): ![p54 Kol's ghost; Cade's eyes flare red](../../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p54 — `p054-kol-ghost-cade-red-eyes-forgiveness.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:349`
@@ -5306,7 +5285,7 @@ Our notes: `notes/materials/010-legacy-war.md:349`
 > I FORGIVE YOU, MOM.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p55.
-Note (our notes, around the quote): ![p55 "I FORGIVE YOU, MOM."](010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
+Note (our notes, around the quote): ![p55 "I FORGIVE YOU, MOM."](../../notes/materials/010-legacy-war-panels/p055-cade-heals-corde-i-forgive-you-mom.jpg)
 (*Panel: p55 — `p055-cade-heals-corde-i-forgive-you-mom.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:352`
 
@@ -5338,25 +5317,25 @@ Our notes: `notes/materials/010-legacy-war.md:359`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 5. Fails to sense Talon; brief clash on the Wheel. p56–58 (#3)
-![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+![p57 Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
 Our notes: `notes/materials/010-legacy-war.md:361`
 
 - Note (summary from our notes, not a quotation): Talon's one-hand Force push sends the crew flying.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Talon's Force push; Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
+![p57 Talon's Force push; Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
 Our notes: `notes/materials/010-legacy-war.md:365`
 
 - Note (summary from our notes, not a quotation): Two or three saber exchanges.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Talon's Force push; Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
+![p57 Talon's Force push; Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
 Our notes: `notes/materials/010-legacy-war.md:367`
 
 - Note (summary from our notes, not a quotation): Talon flips over Cade, kicks him in the head and leaps out of the bay. The crew's shots miss.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+![p57 Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
 Our notes: `notes/materials/010-legacy-war.md:369`
 
-- Note (summary from our notes, not a quotation): ![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+- Note (summary from our notes, not a quotation): ![p57 Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p57 — `p057-cade-vs-talon-wheel.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:371`
@@ -5368,11 +5347,11 @@ Our notes: `notes/materials/010-legacy-war.md:374`
 > "WRONG. KRAYT WANTS CHAOS -- TO FLUSH HIS PREY OUT INTO THE OPEN." · "THE SITH THINK THE JEDI ARE HIDING AND DEFENSELESS, BUT TAIVAS IS A NATURAL FORTRESS. LURE THEM IN -- COMBINE FORCES TO CRUSH THEM BETWEEN THE PLANET AND SPACE!" · "HIDE THEM HERE -- DEEP IN THE CAVES, AND EVACUATE THEM LATER. YOU GOTTA BE WILLING TO TAKE SOME RISK!" · Sazen: "LIKE YOU DID ON UTAPAU?" · Cade: "EXACTLY LIKE I DID ON UTAPAU! WE ALL GOT OUR PART TO PLAY -- EVEN THE YOUNGLINGS. YOU DON'T WIN BY PLAYING SAFE."
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 6. Strategist: the Taivas trap. p62–63 (#3)
-![p62 the Taivas trap plan](010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p62 the Taivas trap plan](../../notes/materials/010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
 Our notes: `notes/materials/010-legacy-war.md:376`
 
-- Note (summary from our notes, not a quotation): ![p62 the Taivas trap plan](010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
+- Note (summary from our notes, not a quotation): ![p62 the Taivas trap plan](../../notes/materials/010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p62 — `p062-cade-taivas-trap-plan.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:379`
@@ -5385,23 +5364,23 @@ Our notes: `notes/materials/010-legacy-war.md:382`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 7. Taivas: multi-Sith melee, "SENSE WHERE THE DARK IS". p68 (#3), p73 (#4), p79 (#4)
-![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
-![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
+![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](../../notes/materials/010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
+![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](../../notes/materials/010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
 Our notes: `notes/materials/010-legacy-war.md:384`
 
 - Note (summary from our notes, not a quotation): p68: Cade fights beside Rawk, saber in one hand. His other hand is driven into a Sith's torso with a green glow; the mechanism is UNCLEAR.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
+![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](../../notes/materials/010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
 Our notes: `notes/materials/010-legacy-war.md:388`
 
 - Note (summary from our notes, not a quotation): p73: he takes on several Sith at once, using a one-hand Force grip or push.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
+![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](../../notes/materials/010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
 Our notes: `notes/materials/010-legacy-war.md:390`
 
 > SENSE WHERE THE DARK IS, MASTER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p73.
-Note (our notes, around the quote): ![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
+Note (our notes, around the quote): ![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](../../notes/materials/010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
 (*Panel: p73 — `p073-sense-where-the-dark-is-cade-multi-sith.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:392`
 
@@ -5409,19 +5388,19 @@ Our notes: `notes/materials/010-legacy-war.md:392`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 8. Saved by Rawk; Force barrier vs Sith troopers. p84–87 (#4)
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
-![p87 "BANTHAAAAA!"](010-legacy-war-panels/p087-banthaaaa.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p87 "BANTHAAAAA!"](../../notes/materials/010-legacy-war-panels/p087-banthaaaa.jpg)
 Our notes: `notes/materials/010-legacy-war.md:395`
 
 - Note (summary from our notes, not a quotation): On p84 Cade and Rawk each hold a glowing blue Force-barrier disc in an open hand against the troopers' attacks while holding their sabers. On p85–86 Rawk's push throws Cade out of the chamber before the strike.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p87 "BANTHAAAAA!"](010-legacy-war-panels/p087-banthaaaa.jpg)
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p87 "BANTHAAAAA!"](../../notes/materials/010-legacy-war-panels/p087-banthaaaa.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:398`
 
-- Note (summary from our notes, not a quotation): ![p87 "BANTHAAAAA!"](010-legacy-war-panels/p087-banthaaaa.jpg)
+- Note (summary from our notes, not a quotation): ![p87 "BANTHAAAAA!"](../../notes/materials/010-legacy-war-panels/p087-banthaaaa.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p87 — `p087-banthaaaa.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:400`
@@ -5430,17 +5409,17 @@ Our notes: `notes/materials/010-legacy-war.md:400`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 9. DARK-SIDE MOMENT: red eyes and full Force lightning drop a Sith trooper who had him beaten. p88–90 (#4)
-![p89 "YOU TIRE. I DON'T. YOU DIE."](010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p89 "YOU TIRE. I DON'T. YOU DIE."](../../notes/materials/010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:403`
 
 > YOU TIRE. I DON'T. YOU DIE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p89.
-Note (our notes, around the quote): ![p89 "YOU TIRE. I DON'T. YOU DIE."](010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
+Note (our notes, around the quote): ![p89 "YOU TIRE. I DON'T. YOU DIE."](../../notes/materials/010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
 (*Panel: p89 — `p089-sith-trooper-you-tire-i-dont.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:406`
 
-- Note (summary from our notes, not a quotation): ![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+- Note (summary from our notes, not a quotation): ![p90 "ENOUGH." Cade's Force lightning](../../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p90 — `p090-cade-enough-force-lightning.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:409`
@@ -5453,7 +5432,7 @@ Our notes: `notes/materials/010-legacy-war.md:413`
 - Note (summary from our notes, not a quotation): Cade wins only by turning to dark-side lightning from his free hand. The trooper survives as a prisoner (p94).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Scaling (ANALYSIS):
-![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
+![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](../../notes/materials/010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
 Our notes: `notes/materials/010-legacy-war.md:414`
 
 - Note (summary from our notes, not a quotation): This is ILS's "Cade > Sith Trooper (LW#4)". It is a real but conditional win.
@@ -5465,11 +5444,11 @@ Our notes: `notes/materials/010-legacy-war.md:415`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 10. Grief and resolve: "KRAYT'S THE SHATTERPOINT". p91 (#4), p96 (#5), p106 (#5)
-![p96 "KRAYT'S THE SHATTERPOINT"](010-legacy-war-panels/p096-krayts-the-shatterpoint.jpg)
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p96 "KRAYT'S THE SHATTERPOINT"](../../notes/materials/010-legacy-war-panels/p096-krayts-the-shatterpoint.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
 Our notes: `notes/materials/010-legacy-war.md:417`
 
-- Note (summary from our notes, not a quotation): ![p96 "KRAYT'S THE SHATTERPOINT"](010-legacy-war-panels/p096-krayts-the-shatterpoint.jpg)
+- Note (summary from our notes, not a quotation): ![p96 "KRAYT'S THE SHATTERPOINT"](../../notes/materials/010-legacy-war-panels/p096-krayts-the-shatterpoint.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p96 — `p096-krayts-the-shatterpoint.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:420`
@@ -5478,42 +5457,42 @@ Our notes: `notes/materials/010-legacy-war.md:420`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 11. Coruscant defence centre: deflects blaster fire while shooting. p103 (#5)
-![p103 Cade deflects bolts while shooting; the explosion throws stormtroopers](010-legacy-war-panels/p103-cade-deflects-and-shoots-defence-centre.jpg) *(p103)*
+![p103 Cade deflects bolts while shooting; the explosion throws stormtroopers](../../notes/materials/010-legacy-war-panels/p103-cade-deflects-and-shoots-defence-centre.jpg) *(p103)*
 Our notes: `notes/materials/010-legacy-war.md:423`
 
 - Note (summary from our notes, not a quotation): He deflects several stormtrooper bolts with his saber while firing a blaster pistol, then wrecks machinery. The explosion throws stormtroopers into the air.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p103 Cade deflects bolts while shooting; the explosion throws stormtroopers](010-legacy-war-panels/p103-cade-deflects-and-shoots-defence-centre.jpg) *(p103)*
+![p103 Cade deflects bolts while shooting; the explosion throws stormtroopers](../../notes/materials/010-legacy-war-panels/p103-cade-deflects-and-shoots-defence-centre.jpg) *(p103)*
 Our notes: `notes/materials/010-legacy-war.md:427`
 
 > (p110) Talon: "WELCOME HOME, CADE SKYWALKER." "YOUR FEELINGS BETRAY YOU. THEY BURN HOT WITH YOUR INTENT. YOU WANT TO KILL LORD KRAYT, OUR MASTER." · Cade: "OH YEAH." · (p112) Talon: "SKYWALKER... I SENSE THE DARKNESS IN YOU. YOU NEVER WALKED IN THE LIGHT. DO NOT DENY YOUR TRUE DESTINY. JOIN US!" · Cade: "KNOW WHAT, SCHUTTA? I'D RATHER EAT A FUEL CELL." · (p114) Talon: "CADE IS... STRONGER... THAN HE WAS. MUST...WARN... LORD KRAYT!" · Recap (p115): "When Talon witnessed Cade's new mastery of the Force, she retreated to warn Krayt, leading Cade directly to his goal . . ."
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 12. CADE vs TALON (tunnels): floors her with two Force pushes. p110–115 (#5–6)
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
-![p115 #6 recap: "Cade's new mastery of the Force"](010-legacy-war-panels/p115-recap-new-mastery.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p115 #6 recap: "Cade's new mastery of the Force"](../../notes/materials/010-legacy-war-panels/p115-recap-new-mastery.jpg)
 Our notes: `notes/materials/010-legacy-war.md:430`; `notes/materials/010-legacy-war.md:1028`; `notes/materials/010-legacy-war.md:1033`; `notes/materials/010-legacy-war.md:1182`
 
 - Note (summary from our notes, not a quotation): On p112, after one saber lock, Cade's palm push (a ring shockwave) blasts Talon into the rock, bringing the rocks down. He then drops on her and slams a second Force ring into her head as she lies in the rubble. She is down for p113 and conscious but floored on p114.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p115 #6 recap: "Cade's new mastery of the Force"](010-legacy-war-panels/p115-recap-new-mastery.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p115 #6 recap: "Cade's new mastery of the Force"](../../notes/materials/010-legacy-war-panels/p115-recap-new-mastery.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:433`
 
 > WELCOME HOME, CADE SKYWALKER.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p110.
-Note (our notes, around the quote): ![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+Note (our notes, around the quote): ![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
 (*Panel: p110 — `p110-talon-welcome-home-oh-yeah.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:435`
 
-- Note (summary from our notes, not a quotation): ![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+- Note (summary from our notes, not a quotation): ![p112 Cade's Force pushes floor Talon](../../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p112 — `p112-cade-vs-talon-force-push.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:438`
@@ -5521,7 +5500,7 @@ Our notes: `notes/materials/010-legacy-war.md:438`
 > Cade's new mastery of the Force
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p115 #6 recap.
-Note (our notes, around the quote): ![p115 #6 recap: "Cade's new mastery of the Force"](010-legacy-war-panels/p115-recap-new-mastery.jpg)
+Note (our notes, around the quote): ![p115 #6 recap: "Cade's new mastery of the Force"](../../notes/materials/010-legacy-war-panels/p115-recap-new-mastery.jpg)
 (*Panel: p115 — `p115-recap-new-mastery.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:441`
 
@@ -5546,30 +5525,30 @@ Our notes: `notes/materials/010-legacy-war.md:447`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 13. CADE vs KRAYT: survives the push, the sphere-catch, lightning and dark transfer; rejects Krayt and stabs him. p117–125 (#6)
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
-![p125 I AM A JEDI; Cade stabs Krayt](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p125 I AM A JEDI; Cade stabs Krayt](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
 Our notes: `notes/materials/010-legacy-war.md:449`
 
 - Note (summary from our notes, not a quotation): p124: Cade crouches beside Krayt, with his own hilt lying on the floor. Krayt's saber is lowered and he is addressing Cade as "APPRENTICE".
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 Our notes: `notes/materials/010-legacy-war.md:455`
 
 - Note (summary from our notes, not a quotation): Cade rises, Force-pulls his saber (it ignites in flight) and leaps.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p124 MY EYES ARE OPEN; Cade calls his saber](010-legacy-war-panels/p124-my-eyes-are-open.jpg) *(p124)*
+![p124 MY EYES ARE OPEN; Cade calls his saber](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg) *(p124)*
 Our notes: `notes/materials/010-legacy-war.md:456`
 
 - Note (summary from our notes, not a quotation): p125: he drives the blade into Krayt's chest. Krayt falls backwards, his red saber dropping, and lies smoking.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:458`
 
 > MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p124.
-Note (our notes, around the quote): ![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+Note (our notes, around the quote): ![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 (*Panel: p124 — `p124-my-eyes-are-open.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:460`
 
@@ -5578,7 +5557,7 @@ Our notes: `notes/materials/010-legacy-war.md:460`
 >
 > AND YOU ARE NOT MY MASTER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p125.
-Note (our notes, around the quote): ![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+Note (our notes, around the quote): ![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 (*Panel: p125 — `p125-i-am-a-jedi-not-my-master.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:463`
 
@@ -5602,42 +5581,42 @@ Our notes: `notes/materials/010-legacy-war.md:469`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Whether Cade healed himself after the dark transfer is not stated. Krayt asks "CAN YOU HEAL YOURSELF?" (p123) and Cade simply rises (p124).
 Context: Scaling (ANALYSIS):
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 Our notes: `notes/materials/010-legacy-war.md:470`
 
 > (p128) Corde: "KRAYT'S DEAD?" · Cade: "STONE COLD..." · "...BUT...I CAN STILL HEAR HIS VOICE -- TELLING ME THAT DEATH CAN'T STOP HIM...THAT HIS BODY WILL HEAL AND LIFE WILL RETURN." · "HE'S INFECTING ME. HE'S EATING MY MIND. ONLY ONE WAY TO BE SURE KRAYT CAN'T COME BACK -- PLUNGE HIS BODY INTO A SUN. MINE TOO." · "NO OTHER WAY, MOM." · (p130) "YEAH? NOT SURE EVEN THAT WOULD WORK, SLEEMO. VAPORIZING YOUR BODY IN THE SUN -- THAT OUGHTA DO IT, DON'T YOU THINK?" · "NOT IF I GO INTO THE SUN WITH YOU." · Luke: "WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?" · Cade: "WHAT IF *YOU* ARE?" · (p131) "YOU THERE, KRAYT?" · "YOU'RE NOT, ARE YOU? CAN'T HEAR YOU. CAN'T FEEL YOU. JUST ME AND THE STARS..." · "LIKE IT WAS OVER OSSUS THE NIGHT YOU DIED, DAD. THE NIGHT I SHOULD'VE DIED. CIRCLE'S COMPLETE. EVERYTHING'S RIGHT. I'M ALL RIGHT. MAYBE THIS IS WHAT THE VISION MEANT. JUST ME AT THE END..." · "WALKIN' IN THE SKY..." · (p133) Deliah: "SYN... HE'S NOT BREATHING!" · (p135) Cade: "JEDI HIBERNATION TRANCE. OLD SCHOOL. GOOD THING I DIDN'T CUT THAT CLASS." · "PEACEFUL, BLUE. KRAYT'S GONE. I'M FREE."
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 14. Krayt's voice; flies the body into the sun; Luke's ghost; hibernation trance. p128–135 (#6)
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
-![p131 Krayt's body burns in the sun; Cade adrift](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
-![p128 Krayt's voice; Cade takes the body to the sun](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg) *(p128)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p131 Krayt's body burns in the sun; Cade adrift](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
+![p128 Krayt's voice; Cade takes the body to the sun](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg) *(p128)*
 Our notes: `notes/materials/010-legacy-war.md:472`; `notes/materials/010-legacy-war.md:979`
 
 > “And what if you are not?”
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Speaker checks: zoom confirms the.
 (Full sentence/passage taken from the source text on file: `novels_tmp_star_by_star_star_by_star_epub`.)
 Note (our notes, around the quote): Speaker checks: zoom confirms the "WHAT IF YOU ARE?" balloon's tail goes to Cade's mouth. Cade's arm carries the red tattoos. He floats in a gold EVA suit.
-![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
-![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
-![p133 "HE'S NOT BREATHING!"](010-legacy-war-panels/p133-cade-not-breathing.jpg)
-![p135 "JEDI HIBERNATION TRANCE"; "KRAYT'S GONE. I'M FREE."](010-legacy-war-panels/p135-hibernation-trance-krayts-gone.jpg)
+![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
+![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
+![p133 "HE'S NOT BREATHING!"](../../notes/materials/010-legacy-war-panels/p133-cade-not-breathing.jpg)
+![p135 "JEDI HIBERNATION TRANCE"; "KRAYT'S GONE. I'M FREE."](../../notes/materials/010-legacy-war-panels/p135-hibernation-trance-krayts-gone.jpg)
 Our notes: `notes/materials/010-legacy-war.md:478`
 
 > HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p128.
-Note (our notes, around the quote): ![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
+Note (our notes, around the quote): ![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
 (*Panel: p128 — `p128-krayts-voice-plunge-into-sun.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:480`
 
-- Note (summary from our notes, not a quotation): ![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
+- Note (summary from our notes, not a quotation): ![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p131 — `p131-krayt-burns-cade-adrift.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:483`
 
-- Note (summary from our notes, not a quotation): ![p133 "HE'S NOT BREATHING!"](010-legacy-war-panels/p133-cade-not-breathing.jpg)
+- Note (summary from our notes, not a quotation): ![p133 "HE'S NOT BREATHING!"](../../notes/materials/010-legacy-war-panels/p133-cade-not-breathing.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p133 — `p133-cade-not-breathing.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:486`
@@ -5645,7 +5624,7 @@ Our notes: `notes/materials/010-legacy-war.md:486`
 > KRAYT'S GONE. I'M FREE.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-Note (our notes, around the quote): ![p135 "JEDI HIBERNATION TRANCE"; "KRAYT'S GONE. I'M FREE."](010-legacy-war-panels/p135-hibernation-trance-krayts-gone.jpg)
+Note (our notes, around the quote): ![p135 "JEDI HIBERNATION TRANCE"; "KRAYT'S GONE. I'M FREE."](../../notes/materials/010-legacy-war-panels/p135-hibernation-trance-krayts-gone.jpg)
 (*Panel: p135 — `p135-hibernation-trance-krayts-gone.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:489`
 
@@ -5671,7 +5650,7 @@ Our notes: `notes/materials/010-legacy-war.md:495`; `notes/materials/010-legacy-
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 15. Epilogue narration: Cade's own account of his dark-side use. p136 (#6)
-![p136 "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." END](010-legacy-war-panels/p136-there-is-no-death-only-the-force.jpg)
+![p136 "THERE IS NO DEATH -- THERE IS ONLY THE FORCE." END](../../notes/materials/010-legacy-war-panels/p136-there-is-no-death-only-the-force.jpg)
 Our notes: `notes/materials/010-legacy-war.md:497`
 
 - Note (summary from our notes, not a quotation): Cade's dark-side and healing ledger in War (summary, with pages):
@@ -5760,7 +5739,7 @@ Our notes: `notes/materials/010-legacy-war.md:766`
 
 - Note (summary from our notes, not a quotation): p28–30 (#2): boards the *Darklight* with Cade and Force-pushes a trooper (p29).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p29 Cade and Sazen fight aboard the Darklight](010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
+![p29 Cade and Sazen fight aboard the Darklight](../../notes/materials/010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
 Our notes: `notes/materials/010-legacy-war.md:767`
 
 - Note (summary from our notes, not a quotation): Stryfe challenges. Cade: "MASTER?" / "NO." The "NO." balloon is in Cade's panel; giving it to Cade is a reading.
@@ -5772,13 +5751,13 @@ Our notes: `notes/materials/010-legacy-war.md:775`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p68 (#3): forgives Cade (.
 Label in our notes: p68 (#3): forgives Cade
-![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
+![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](../../notes/materials/010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
 Our notes: `notes/materials/010-legacy-war.md:834`
 
 - Note (summary from our notes, not a quotation): Visible and audible to Cade only. Corde reacts ("KOL?") but cannot hear him.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Kol (p54–55, #3): "THEN HEAL HER FOR ME, SON." · "NEVER MORE THAN YOU COULD DO, SON." · "I FORGIVE YOU, MY LOVE." · "YOU CANNOT HEAR ME, DARLING. FEEL WHAT I SAY. KNOW THAT I LOVE YOU. ALWAYS AND FOREVER."
-![p54 Kol's ghost and Cade](010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg) *(p54)*
+![p54 Kol's ghost and Cade](../../notes/materials/010-legacy-war-panels/p054-kol-ghost-cade-red-eyes-forgiveness.jpg) *(p54)*
 Our notes: `notes/materials/010-legacy-war.md:866`
 
 > WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?
@@ -5794,7 +5773,7 @@ Our notes: `notes/materials/010-legacy-war.md:868`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; The page leaves the.
 Label in our notes: question open (cf. 009 p472
 Context: Luke (p130, #6): a glowing outline behind Cade in the cockpit. His only line: "WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?" Cade answers: "WHAT IF *YOU* ARE?"
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
 Our notes: `notes/materials/010-legacy-war.md:869`
 
 > DON'T. WE NEED ONE ALIVE...
@@ -5870,13 +5849,13 @@ Our notes: `notes/materials/010-legacy-war.md:951`
 - Note (summary from our notes, not a quotation): Krayt: "SURRENDER." His palm blast throws Cade across the room.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels. POV: Krayt, about Cade Skywalker.
 Context: p118.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:958`
 
 - Note (summary from our notes, not a quotation): Cade's flying saber attack is caught on a violet Force sphere in Krayt's bare palm.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p118.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:961`
 
 > ...YOUR BATTLE HERE WAS LOST BEFORE YOU ARRIVED. SURRENDER.
@@ -5884,7 +5863,7 @@ Our notes: `notes/materials/010-legacy-war.md:961`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): "IT DOESN'T MATTER." Torrential Force lightning. "...YOUR BATTLE HERE WAS LOST BEFORE YOU ARRIVED. SURRENDER." Cade leaps through it: "NOT GONNA HAPPEN!"
 Context: p118.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:963`
 
 > THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL.
@@ -5892,7 +5871,7 @@ Our notes: `notes/materials/010-legacy-war.md:963`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Krayt grips Cade's head and pours lightning in. He names the "RED LINES OF FIRE -- THE SHATTERPOINTS" and credits Cade for "THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."
 Context: p122.
-![p122 Krayt's dark transfer into Cade](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg) *(p122)*
+![p122 Krayt's dark transfer into Cade](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg) *(p122)*
 Our notes: `notes/materials/010-legacy-war.md:968`
 
 > CAN YOU HEAL YOURSELF?
@@ -5976,8 +5955,8 @@ Our notes: `notes/materials/010-legacy-war.md:1061`
 - Note (summary from our notes, not a quotation): Cade wins only after Krayt lowers his blade to address "APPRENTICE" (p124–125).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Counter:
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1065`
 
 - Note (summary from our notes, not a quotation): War Cade >> Claws/Vector Cade (debates #61, #81, #85, #91, #114).
@@ -5992,8 +5971,8 @@ Our notes: `notes/materials/010-legacy-war.md:1090`
 - Note (summary from our notes, not a quotation): One-on-one, they die to one Shado thrust (p127), blaster fire (p88) and Cade's lightning (p90).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Counter:
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1094`
 
 - Note (summary from our notes, not a quotation): Dark transfer learned from Cade (p122) and used to bring him to death's edge.
@@ -6014,7 +5993,7 @@ Our notes: `notes/materials/010-legacy-war.md:1122`
 - Note (summary from our notes, not a quotation): Claws: Kol's "THAT WHICH CAN HEAL CAN ALSO BREAK" (013 p115). Cade's double heal (013 p44).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Dark transfer.
-![p115 #6 recap: "Cade's new mastery of the Force"](010-legacy-war-panels/p115-recap-new-mastery.jpg)
+![p115 #6 recap: "Cade's new mastery of the Force"](../../notes/materials/010-legacy-war-panels/p115-recap-new-mastery.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1125`
 
 > YOU SHOWED ME ... HOW TO HEAL... AND HOW TO KILL. *(p122)*
@@ -6022,9 +6001,9 @@ Our notes: `notes/materials/010-legacy-war.md:1125`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): War: Cade's own count of dark-side heals (p53), and Krayt's "YOU SHOWED ME ... HOW TO HEAL... AND HOW TO KILL." (p122).
 Context: Dark transfer.
-![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
-![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+![p53 Corde's "TWO TRUTHS"](../../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1126`
 
 > 'NO ONE DIES FOR ME.' ISN'T THAT WHAT YOU SAID, SKYWALKER? *(Krayt, 013 p114)*
@@ -6032,7 +6011,7 @@ Our notes: `notes/materials/010-legacy-war.md:1126`
 > 'NO ONE DIES FOR ME.' WHAT A JOKE, HUH, BLUE? *(p91)*
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Hosk → Rawk..
 Note (our notes, around the quote): Hosk → Rawk. "'NO ONE DIES FOR ME.' ISN'T THAT WHAT YOU SAID, SKYWALKER?" (Krayt, 013 p114) is answered by Cade's own "'NO ONE DIES FOR ME.' WHAT A JOKE, HUH, BLUE?" (p91).
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1127`
 
 - Note (summary from our notes, not a quotation): Luke's ghost. 009 p472's handbook doubt is untouched. War's Luke only asks whether Krayt is a voice in Cade's head (p130).
@@ -6097,22 +6076,22 @@ Our notes: `notes/materials/010-legacy-war.md:1193`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Dark-transfer teacher: Krayt credits Cade (p122). The Battle of Coruscant page's "Muur showed him how to use and control it" is not on the page. Muur and Andeddu are credited only for essence transfer (p130).
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1197`
 
 > Killed and revived Cade
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): "Killed and revived Cade": the page shows "YOU ARE DYING", the vision, then Cade rising. No revival by Krayt is shown (p122–124).
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1198`
 
 - Note (summary from our notes, not a quotation): Corde "helps knock out" the trooper (W): Cade's lightning drops it; Corde stops him killing it (p90).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1206`
 
 > Krayt was truly finished *(W paraphrase)*
@@ -6150,7 +6129,7 @@ Our notes: `notes/materials/010-legacy-war.md:1270`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Jedi numbers: Wolf Sazen is CL15 (UtF +19), but his build is purely defensive and utility, with no battle strike and no multi-attack. Kol Skywalker is CL14 with UtF +20 and Strong in the Force, and "falls while fighting off a torrent of Sith attackers, including Darth Nihl" (p196). Early-series Cade is only CL11: UtF +12 per the Force Powers line (+11 per Skills), lightsaber +11, plus dark transfer.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:39`
 
 - Note (summary from our notes, not a quotation): Chapters (printed contents, p4; printed page numbers): I Species 8 · II Heroic Traits 18 · III Prestige Classes 38 (Imperial Knight 43, Shaper 46) · IV The Force 48 · V Equipment and Droids 60 · VI Vehicles and Starships 78 · VII Legacy Era Campaigns 92 · VIII Galactic Gazetteer 104 · IX The Galactic Alliance 118 · X The Galactic Empire 154 (Influential Personalities 167) · XI The Fringe 192 (Remnants of the Jedi Order 193; Cade 208) · Appendix 222.
@@ -6168,33 +6147,33 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:127`
 
 > By the end of the Sith-Imperial War, Darth Krayt declares himself Emperor. However, his body suffers the effects of having lived far beyond its natural lifespan. The Yuuzhan Vong implants used to extend his life begin to consume him. Furthermore, healing trances and Force healing become less effective. Darth Krayt knows that his time is limited unless a new solution is found. At one point he captures Cade Skywalker, an heir to the Skywalker bloodline gifted with incredible healing powers, in the hopes that one day he will be able to harness those same powers to prolong his life.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Bio, continued (p170).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:165`
 
 > In a dramatic encounter, Darth Krayt kills Hosk in an attempt to turn Cade to the dark side *(p195)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Hosk.
 Label in our notes: p195
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:187`
 
 > to closely monitor the training of his disciples, including the brief training received by Cade Skywalker on Coruscant
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Training droids: Krayt uses Roving Eye droids.
 Note (our notes, around the quote): Training droids: Krayt uses Roving Eye droids "to closely monitor the training of his disciples, including the brief training received by Cade Skywalker on Coruscant". He also keeps Aggressor-Series, IX-6 and LON-29 battle droids as training droids for his Sith (p70–78).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p74 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p074-to-closely-monitor-the-training-of.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p74 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p074-to-closely-monitor-the-training-of.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:198`
 
 > begin to consume him
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p170 Krayt bio: implants.
-Note (our notes, around the quote): ![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+Note (our notes, around the quote): ![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
 (*Panel: p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers" — `p170-krayt-bio-dying-cade-healing.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:212`
 
 > Despite her relative inexperience, Darth Talon is still one of the most formidable lightsaber duelists in the Sith Order. She helps oversee the training of Cade Skywalker in the ways of the Sith during his brief captivity on Coruscant.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:321`
 
 - Note (summary from our notes, not a quotation): This is the strongest WotC support for debate #17 (Draco). The counter is the comic feats where Cade tosses Draco, raised in that debate.
@@ -6204,13 +6183,13 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:490`
 > Kol is killed in the Ossus massacre. He falls while fighting off a torrent of Sith attackers, including Darth Nihl. His death enables other Jedi to escape, including Jedi Master Wolf Sazen, Cade Skywalker, Shado Vao, and many younglings and Padawans.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p196.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:569`
 
 > Jedi Master Wolf Sazen is Kol Skywalker's apprentice before becoming Cade Skywalker's master and teacher. A follower of the living Force, Sazen is serious, thoughtful, and forward-thinking.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:592`
 
 > He believes that Cade is the secret to restoring the Jedi Order and defeating the Sith *(p198)*
@@ -6218,7 +6197,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:592`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p198
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p198 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p198 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Cade Skywalker.
 Also noted as: Cade Skywalker: "He believes that Cade is the secret to restoring the Jedi Order and defeating the Sith." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.198
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:596`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:153`; `notes/materials/011-legacy-era-campaign-guide.md:918`
@@ -6228,36 +6207,36 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:596`; `notes/materi
 >
 > Shado has vowed to kill Cade, should he ever turn to the dark side.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Bio.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:622`
 
 > In a dramatic encounter, Darth Krayt kills Hosk in an attempt to turn Cade to the dark side. Hosk, however, is not so easily defeated. He forgives Cade… A peaceful healer to the end, his body disappears, and he becomes a Force spirit.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: Bio: a Bothan Jedi healer
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:637`
 
 > Cade is the last of the Skywalkers, and like his predecessors, the Force is strong in him. And, like many of them, he struggles to find his way between the dark side and the light side.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:667`
 
 > After losing his father, Kol Skywalker, Cade uses an extraordinary healing power that taps into the dark side of the Force to save his dying Master, Wolf Sazen.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:669`
 
 > After battles with Darth Nihl and Darth Talon, Cade quickly concludes that he needs to return to his Jedi training, if nothing else than for self-defense.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:671`
 
 > Cade is captured in the Sith Temple on Coruscant. For a time, he pretends to go along with Darth Krayt's teachings… Ultimately, Cade is unable to save Hosk from Darth Krayt, but he escapes the Sith Temple with help from a mother he didn't know existed, and his mostly loyal friends.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:673`
 
 - Note (summary from our notes, not a quotation): CL 11; Human Jedi 3/scout 5/soldier 1/bounty hunter 2. Destiny 2; Force 5, Strong in the Force; Dark Side 4. Init +13.
@@ -6278,7 +6257,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:680`
 
 - Note (summary from our notes, not a quotation): Con 18. Possessions include "Kol Skywalker's lightsaber".
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p210 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p210-kol-skywalker-s-lightsaber.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p210 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p210-kol-skywalker-s-lightsaber.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:681`
 
 - Note (summary from our notes, not a quotation): Print inconsistencies: the Force Powers line says UtF +12 but Skills says Use the Force +11; Init +13 vs +11; Perception +11 vs +10.
@@ -6292,18 +6271,18 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:685`
 > As a former Jedi Padawan, Cade's connection to the Force is strong… Cade uses death sticks to prevent the Force spirits of his ancestors from visiting him as frequently.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p57 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p57 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:686`
 
 > takes a −10 penalty on all Use the Force checks and cannot spend Force Points.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Rules: during the euphoria the user.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p57 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p57 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:688`
 
 - Note (summary from our notes, not a quotation): This is early-series Cade (*Broken* through *Claws of the Dragon*). The book itself says he had to return to training "for self-defense".
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p57 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p57 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:692`
 
 > RPG stats place Cade below Draco
@@ -6315,21 +6294,21 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:694`
 > the last of the Skywalkers… the Force is strong in him
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p209 Cade.
-Note (our notes, around the quote): ![p209 Cade: "the last of the Skywalkers… the Force is strong in him"](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+Note (our notes, around the quote): ![p209 Cade: "the last of the Skywalkers… the Force is strong in him"](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 (*Panel: p209 Cade: "the last of the Skywalkers… the Force is strong in him" — `p209-cade-last-skywalker.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:696`; `notes/materials/011-legacy-era-campaign-guide.md:917`
 
-- Note (summary from our notes, not a quotation): ![p209 Cade bio (both columns)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+- Note (summary from our notes, not a quotation): ![p209 Cade bio (both columns)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p209 Cade bio (both columns) — `p209-cade-skywalker-bio.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:699`
 
-- Note (summary from our notes, not a quotation): ![p210 Cade Skywalker CL 11](011-legacy-era-campaign-guide-panels/p210-cade-skywalker-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p210 Cade Skywalker CL 11](../../notes/materials/011-legacy-era-campaign-guide-panels/p210-cade-skywalker-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p210 Cade Skywalker CL 11 — `p210-cade-skywalker-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:702`
 
-- Note (summary from our notes, not a quotation): ![p57 Death sticks sidebar (Cade)](011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
+- Note (summary from our notes, not a quotation): ![p57 Death sticks sidebar (Cade)](../../notes/materials/011-legacy-era-campaign-guide-panels/p057-death-sticks.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p57 Death sticks sidebar (Cade) — `p057-death-sticks.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:705`
@@ -6338,7 +6317,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:705`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Morlish Veed CL 15, hp 90 (p182). Rulf Yage CL 13, hp 116 (p183). Gunn Yage CL 9, "Cade Skywalker's half-sister" (p182).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p182 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p182-cade-skywalker-s-half-sister.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p182 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p182-cade-skywalker-s-half-sister.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:948`
 
 - Note (summary from our notes, not a quotation): H. Cade (debates #61, #81, #85, #91).
@@ -6399,10 +6378,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:38`
 
 - Note (summary from our notes, not a quotation): #9: Maladi breaks the Jedi healer Hosk Trey'lis with interrogator droids and her will (p58–60). Krayt wants Cade "ALIVE"; Maladi doesn't know why (p61). Calixte tells Veed that Maladi's top agent is "JOR TOLIN" (sic; Torlin elsewhere), Sith-raised but lacking "SUFFICIENT FORCE SENSITIVITY", and reactivates "Morrigan Corde" (p62). She spots Cade on the Wheel's security vids (p63–64). On Bastion, Fel punishes Draco and Krieg for their rescue mission with medals and the most dangerous assignments, and sends them to escort Capt. Bovark to GA Admiral Gar Stazi on the Wheel (p65–67). Talks begin (p68–70). The two Knights sense the GA guards' concealed blasters (p71). On the Wheel's lower levels, Torlin fights a gang that Corde set on him. Corde joins in, Torlin strangles her, and she shocks him unconscious (p72–79).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
-![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
-![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
-![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p62 "JOR TOLIN" dossier](../../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](../../notes/materials/012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
+![p71 the Knights on the Wheel](../../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:52`
 
 - Note (summary from our notes, not a quotation): #10: Corde interrogates and releases Torlin (p80–83). They spot the talks and use six C.O.L.D. limpet droids to make the Imperial shuttle fire on the GA shuttle (p84–88). Stazi knifes Bovark. Draco Force-pushes Stazi, and Draco and Krieg deflect the guards' fire and get Bovark out. Pol Temm bans Fel's forces from the Wheel (p89–92). On Ossus, Torlin turns on Corde ("THIS IS 'LATER.'"). They fight a sniper duel, and Corde kills him with a nerve toxin she implanted while he was unconscious (p93–98). A holo and flashback reveal she is Cade's mother; she leaves Ossus without seeing him (p98–101).
@@ -6411,9 +6390,9 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:53`
 
 - Note (summary from our notes, not a quotation): #11: On Ossus, Cade overdoses on death sticks and has visions of Mara Jade and of Anakin/Vader, who runs him through in the vision (p128–134). K'Kruhk, who is real, heals him (p135–137). Sazen and Shado arrive, and Cade asks to finish his training (p137–138). On Socorro, Rav sells Jariah and Deliah to the Empire. Jariah won't give up Cade (p139–142). Two weeks later, sparring shows Cade has "RAW POWER" but atrophied skills (p143). Sazen tells K'Kruhk of his vision of a Skywalker reuniting the Jedi; K'Kruhk fears "A NEW VADER" (p143–145). Cade hides from Shado's Force sense in the tunnels. They fall into a hidden chamber of Jedi artifacts, and Yuuzhan Vong warriors attack (p145–149).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p136 K'Kruhk heals Cade](012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p145 Cade hides from Shado's Force sense](012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
+![p136 K'Kruhk heals Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p145 Cade hides from Shado's Force sense](../../notes/materials/012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:61`
 
 > WITHIN THE FLAMES, HIS BODY DISAPPEARED.
@@ -6423,12 +6402,12 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:61`
 > NO ONE DIES FOR ME. NEVER AGAIN. *(p171)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): #12: A Vong warrior pins Cade. Master Shaper Nei Rin stops the fight, and Sazen and K'Kruhk arrive (p150–151). Nei Rin explains the Ossus Project, the Sith sabotage, and Kol's funeral: "WITHIN THE FLAMES, HIS BODY DISAPPEARED." She offers Cade the Jedi legacy, and he refuses it (p152–155). At the spot where Kol died, Cade attacks Sazen and loses. Sazen tells him his healings drew on the dark side and calls Kol's last stand a selfless holding action (p156–161). In the meditation of emptiness, Cade remembers drifting in space and his rescue by Rav and Jariah (p162–166). He then sees the tortured Hosk, and Luke's spirit tells him to make it right (p167–168). Nei Rin gives him Kol's lightsaber, now with a Vong-shaped lambent crystal, and K'Kruhk gives him R2-D2 (p169–170). Shado: "IF HE EVER GOES COMPLETELY OVER TO THE DARK SIDE, I WILL END HIM." (p170). Cade heads for Coruscant: "NO ONE DIES FOR ME. NEVER AGAIN." (p171).
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p168 Luke's spirit and Hosk](012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
+![p150 a Vong warrior pins Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p159 Sazen on Cade's dark-side healing](../../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p161 Sazen on Kol's last stand](../../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p168 Luke's spirit and Hosk](../../notes/materials/012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:62`
 
 > WHY DOES MY MASTER REQUIRE YOU, SKYWALKER? AND WHY DOES HE NEED YOU ALIVE?
@@ -6436,7 +6415,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:62`
 > IT IS DARTH KRAYT'S COMMAND. THAT'S ALL YOU NEED TO KNOW. *(p60)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Wants Cade alive, without telling his own spymaster why. p61 (#9 Trust Issues): Maladi, alone with Cade's holo: "WHY DOES MY MASTER REQUIRE YOU, SKYWALKER? AND WHY DOES HE NEED YOU ALIVE?" · Maladi to Calixte: "IT IS DARTH KRAYT'S COMMAND. THAT'S ALL YOU NEED TO KNOW." (p60).
-![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
+![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](../../notes/materials/012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:92`
 
 > (p65) "ANTARES DRACO. GANNER KRIEG. MY TWO FINEST KNIGHTS -- HAVE BROKEN MY TRUST." · "IT WAS SKYWALKER -- NOT YOU -- WHO BROUGHT HER BACK FROM THE EDGE OF THE GRAVE!" · "HE'S TOO DANGEROUS TO BE ALLOWED TO WANDER THE GALAXY AT WILL. IF DARTH KRAYT HASN'T ALREADY LEARNED OF HIM, HE WILL!" · **Fel**: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG. WE EXPECTED HIM TO FIND ONE OR TWO, BUT HE'S FOUND -- AND DISABLED -- ALL OF THEM." · (p66) "AS IMPERIAL KNIGHTS, I EXPECT YOUR TOTAL OBEDIENCE TO MY COMMANDS." · (p67) "I MAY AWARD YOU OTHER MEDALS -- POSTHUMOUSLY."
@@ -6449,10 +6428,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:198`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Out of practice on Ossus: "RAW POWER", atrophied skills. p143 (#11 Ghosts) [009 p280]
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:229`
 
-- Note (summary from our notes, not a quotation): ![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+- Note (summary from our notes, not a quotation): ![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p143 — `p143-raw-power-atrophied.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:232`
@@ -6460,10 +6439,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:232`
 > Cade (thought balloons): "DEPEND ON THE FORCE TO FIND ME. I HIDE FROM THE FORCE AND YOU CAN'T 'SEE' ME, SHADO, OL' PAL! YOU'RE SNEAKY." · "I'M SNEAKIER!" A thought balloon "PREDICTABLE." trails toward Cade's panel (likely Cade; UNCLEAR).
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Hides himself from the Force; Shado can't sense him. p145 (#11 Ghosts) [009 p282]
-![p145 Cade hides from Shado's Force sense](012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
+![p145 Cade hides from Shado's Force sense](../../notes/materials/012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:235`
 
-- Note (summary from our notes, not a quotation): ![p145 Cade hides from Shado's Force sense](012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
+- Note (summary from our notes, not a quotation): ![p145 Cade hides from Shado's Force sense](../../notes/materials/012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p145 — `p145-cade-hides-from-force.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:238`
@@ -6472,10 +6451,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:238`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 3. Overpowered and pinned by a Yuuzhan Vong warrior. p148 (#11)–p151 (#12) [009 p285–288]
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p150 a Vong warrior pins Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:241`
 
-- Note (summary from our notes, not a quotation): ![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p150 a Vong warrior pins Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p150 — `p150-vong-pin-cade.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:244`
@@ -6487,24 +6466,24 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:247`
 > SHUT UP! OR I'LL SHUT YOU UP.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Loses an unarmed fight to the one-armed Sazen. p157 (#12)–p160 (#12) [009 p294–297]. Cade leaps at him: "SHUT UP! OR I'LL SHUT YOU UP." Sazen parries, kicks him in the face (p159), and throws him (p160). Debris flies at Sazen on p159, and he stops it with an open palm and a blue Force ripple (apparently thrown by Cade's anger; the launch isn't shown). Full quotes under Wolf Sazen.
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p159 Sazen on Cade's dark-side healing](../../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:249`
 
 > (p159) Sazen: "THAT ANGER MADE YOU CALL ON THE DARK SIDE WHEN YOU HEALED ME. HOW DARE I DIE ON YOU?! IT IS A SIDE OF YOUR FEAR -- 'DON'T DIE, DON'T LEAVE ME ALONE.' AS YOUR FATHER DID." · (p160) "IF SUCH WAS THE WILL OF THE FORCE -- YES! WITH EACH LIFE YOU SAVED YOU IMPOSED YOUR OWN WILL ON THE FORCE! THAT IS A DARK SIDE WAY!" · (p170) Shado: "I'VE BEEN PRESENT AT TWO OF CADE'S HEALINGS. CADE TOUCHED THE DARK SIDE TO DO IT." · "MORE THAN THAT, HE WASN'T SIMPLY OPEN TO THE FORCE; HE TWISTED IT TO HIS WILL. THAT IS SOMETHING A SITH DOES."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 5. Dark-side healing, as his teachers put it. p159 (#12), p170 (#12) [009 p296, p307]
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p159 Sazen on Cade's dark-side healing](../../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:251`; `notes/materials/012-legacy-vol-2-shards.md:457`; `notes/materials/012-legacy-vol-2-shards.md:456`
 
-- Note (summary from our notes, not a quotation): ![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+- Note (summary from our notes, not a quotation): ![p159 Sazen on Cade's dark-side healing](../../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p159 — `p159-sazen-vs-cade-dark-side-healing.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:254`
 
-- Note (summary from our notes, not a quotation): ![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+- Note (summary from our notes, not a quotation): ![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p170 — `p170-shado-twisted-it-end-him.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:257`
@@ -6514,21 +6493,21 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:257`
 > YOU HAVEN'T BEEN 'GOOD AS NEW' IN SOME TIME.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 6. Habitual self-healing. p136 (#11).
 Note (our notes, around the quote): 6. Habitual self-healing. p136 (#11): "TELL YOU A SECRET, MASTER. I'LL JUST TAP A LITTLE INTO MY HEALING POWER -- LIKE I ALWAYS DO -- AND I'LL BE GOOD AS NEW." K'Kruhk: "YOU HAVEN'T BEEN 'GOOD AS NEW' IN SOME TIME."
-![p136 K'Kruhk heals Cade](012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
+![p136 K'Kruhk heals Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:260`
 
 > (p147) "BEING ABANDONED IN THE MIDDLE OF SPACE FOR A COUPLE OF DAYS MAKES YOU START TO SEE THINGS A LITTLE DIFFERENT!" · (p163) "WHEN I AWOKE ALONE ABOVE OSSUS AFTER MY FIGHTER EXPLODED. IN THAT VASTNESS AROUND ME, THERE WAS...NOTHING..." · "I SURRENDERED MYSELF, WONDERING WHAT IT WOULD BE LIKE TO BECOME ONE WITH THE FORCE."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 7. Teenage survival in vacuum after Ossus (130 ABY flashback). p147 (#11), p163–165 (#12)
-![p147 Cade: I LEFT THE SHUTTLE IN THAT FIGHTER](012-legacy-vol-2-shards-panels/p147-cade-teen-survived-in-fighter.jpg) *(p147)*
-![p165 Teen Cade bargains with the temple traps](012-legacy-vol-2-shards-panels/p165-cade-teen-knew-temple-traps.jpg) *(p165)*
+![p147 Cade: I LEFT THE SHUTTLE IN THAT FIGHTER](../../notes/materials/012-legacy-vol-2-shards-panels/p147-cade-teen-survived-in-fighter.jpg) *(p147)*
+![p165 Teen Cade bargains with the temple traps](../../notes/materials/012-legacy-vol-2-shards-panels/p165-cade-teen-knew-temple-traps.jpg) *(p165)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:262`
 
 > WE'D TRADED WITH THE JEDI BEFORE, AND KNEW WHERE THEY PUT THEIR BOOBY TRAPS. *(a lie to the pirates)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): He is drawn in a flight suit and helmet with a cracked visor. The "couple of days" is Cade's own claim. He bargains for his life with knowledge of the temple traps (p165): "WE'D TRADED WITH THE JEDI BEFORE, AND KNEW WHERE THEY PUT THEIR BOOBY TRAPS." (a lie to the pirates).
-![p165 Teen Cade bargains with the temple traps](012-legacy-vol-2-shards-panels/p165-cade-teen-knew-temple-traps.jpg) *(p165)*
+![p165 Teen Cade bargains with the temple traps](../../notes/materials/012-legacy-vol-2-shards-panels/p165-cade-teen-knew-temple-traps.jpg) *(p165)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:267`
 
 > IF SAVING HIM MEANS INVADING THE SITH TEMPLE, SO BE IT.
@@ -6536,12 +6515,12 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:267`
 > NO ONE DIES FOR ME. NEVER AGAIN.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 8. Motivation going into Claws. p171 (#12).
 Note (our notes, around the quote): 8. Motivation going into Claws. p171 (#12): "IF SAVING HIM MEANS INVADING THE SITH TEMPLE, SO BE IT." · "NO ONE DIES FOR ME. NEVER AGAIN."
-![p171 "NO ONE DIES FOR ME. NEVER AGAIN."](012-legacy-vol-2-shards-panels/p171-no-one-dies-for-me.jpg)
+![p171 "NO ONE DIES FOR ME. NEVER AGAIN."](../../notes/materials/012-legacy-vol-2-shards-panels/p171-no-one-dies-for-me.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:270`
 
 > NO ONE DIES FOR ME. NEVER AGAIN.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p171.
-Note (our notes, around the quote): ![p171 "NO ONE DIES FOR ME. NEVER AGAIN."](012-legacy-vol-2-shards-panels/p171-no-one-dies-for-me.jpg)
+Note (our notes, around the quote): ![p171 "NO ONE DIES FOR ME. NEVER AGAIN."](../../notes/materials/012-legacy-vol-2-shards-panels/p171-no-one-dies-for-me.jpg)
 (*Panel: p171 — `p171-no-one-dies-for-me.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:272`
 
@@ -6553,17 +6532,17 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:275`; `notes/materials/01
 >
 > CADE IS THE ONLY SKYWALKER WE HAVE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Sazen (p144). POV: Sazen, about Cade Skywalker.
-![p144 Sazen: A SKYWALKER REUNITED THE JEDI](012-legacy-vol-2-shards-panels/p144-sazen-vision-skywalker-reunited-jedi.jpg) *(p144)*
+![p144 Sazen: A SKYWALKER REUNITED THE JEDI](../../notes/materials/012-legacy-vol-2-shards-panels/p144-sazen-vision-skywalker-reunited-jedi.jpg) *(p144)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:277`
 
 > THE ATTACK ON OSSUS DIDN'T CHANGE CADE. HE WAS ALWAYS IMPATIENT AND TESTING BOUNDARIES. IF CADE HADN'T BEEN A SKYWALKER, HE WOULD HAVE BEEN ASKED TO LEAVE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Shado (p170). POV: Shado, about Cade Skywalker.
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:280`
 
 > REMEMBER, SKYWALKERS DO HAVE A TRADITION WITH THE DARK SIDE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Calixte (p64). POV: Calixte, about Cade Skywalker.
-![p64 Calixte: SKYWALKERS DO HAVE A TRADITION WITH THE DARK SIDE](012-legacy-vol-2-shards-panels/p064-calixte-skywalkers-tradition-dark-side.jpg) *(p64)*
+![p64 Calixte: SKYWALKERS DO HAVE A TRADITION WITH THE DARK SIDE](../../notes/materials/012-legacy-vol-2-shards-panels/p064-calixte-skywalkers-tradition-dark-side.jpg) *(p64)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:282`
 
 > HE IS A SKYWALKER.
@@ -6571,7 +6550,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:282`
 >
 > DO NOT TELL THEM OR ANYONE ELSE HE IS A SKYWALKER.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Maladi (p61). POV: Maladi, about Cade Skywalker.
-![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
+![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](../../notes/materials/012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:284`
 
 > (p156) "I CAN FEEL YOUR ANGER, CADE, AND YOUR HUNGER FOR THE IXETAL CILONA DRUG YOU HOLD IN YOUR HAND." · "YOU CAME BACK TO OSSUS TO DIE." · (p158) "I FELT MUCH THE SAME AT FIRST. IF I HAD JUST MOVED MORE QUICKLY -- IF I HAD JUST SEEN A SPLIT-SECOND FURTHER AHEAD!" · (p159) "SO YOU HAVE REPLACED CORUSCANT AS THE CENTER OF THE GALAXY. EVERYTHING REVOLVES AROUND YOU, DOES IT, CADE?" · (p160) "ALONE, A JEDI IS STRONG. BUT TOGETHER WE ARE STRONGER. THIS NEW BREED OF SITH SEE THAT AND TRY TO IMITATE IT. YOU, HOWEVER, INSIST ON BEING ALONE. YOUR FEAR, YOUR ANGER DEMANDS IT -- AND MAKES YOU WEAK."
@@ -6580,7 +6559,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:284`
 Context: 1. Beats an enraged Cade bare-handed and lectures him. p156 (#12 Ghosts)–p161 (#12) [009 p293–298]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:289`
 
-- Note (summary from our notes, not a quotation): ![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p160 — `p160-sazen-flips-cade.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:292`
@@ -6597,8 +6576,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:295`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 2. Senses at range. p138 (#11).
 Note (our notes, around the quote): 2. Senses at range. p138 (#11): "ONCE WE WERE CLOSE ENOUGH, I COULD SENSE YOU. I SENSED THE PRESENCE OF ANOTHER HERE AS WELL -- MASTER K'KRUHK." · p151 (#12), arriving: "SHADO! WE SENSED YOU WERE IN DANGER..."
-![p138 Cade: I SENSED THE PRESENCE OF ANOTHER -- MASTER K'KRUHK](012-legacy-vol-2-shards-panels/p138-cade-sensed-kkruhk.jpg) *(p138)*
-![p151 WE SENSED YOU WERE IN DANGER](012-legacy-vol-2-shards-panels/p151-shado-we-sensed-you-in-danger.jpg) *(p151)*
+![p138 Cade: I SENSED THE PRESENCE OF ANOTHER -- MASTER K'KRUHK](../../notes/materials/012-legacy-vol-2-shards-panels/p138-cade-sensed-kkruhk.jpg) *(p138)*
+![p151 WE SENSED YOU WERE IN DANGER](../../notes/materials/012-legacy-vol-2-shards-panels/p151-shado-we-sensed-you-in-danger.jpg) *(p151)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:297`
 
 > YOUR ANGER IS LIKE A VIOLENT STORM, CADE.
@@ -6618,7 +6597,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:305`
 Note (our notes, around the quote): 4. Empathic sensing (flashback to Cade's infancy). p99 (#10 Trust Issues) [009 p238]: "MORRIGAN, I'M A JEDI -- I CAN FEEL YOUR EMOTIONS. YOU'RE TORN BETWEEN GOING AND STAYING."
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:326`
 
-- Note (summary from our notes, not a quotation): ![p136 K'Kruhk heals Cade](012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p136 K'Kruhk heals Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p136 — `p136-kkruhk-heals-cade.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:338`
@@ -6643,7 +6622,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:353`
 > THE INTERROGATOR DROID WILL LOOSEN YOUR TONGUES. *(Their capture sets up Claws.)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Rav sells them to the Empire using security footage of Cade healing Hosk (p141–142). Jariah: "E CHU TA! I HATE SITH AND THEIR IMPERIAL LAPDOGS EVEN MORE THAN I HATE JEDI." (p142). The officer: "THE INTERROGATOR DROID WILL LOOSEN YOUR TONGUES." (Their capture sets up Claws.)
-![p141 Rav's security footage; the arrest](012-legacy-vol-2-shards-panels/p141-rav-sells-them-security-footage.jpg) *(p141)*
+![p141 Rav's security footage; the arrest](../../notes/materials/012-legacy-vol-2-shards-panels/p141-rav-sells-them-security-footage.jpg) *(p141)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:389`
 
 > YOU'RE A CASTOFF -- LIKE ME. KNEW YOU FOR A BROTHER THE MOMENT I SAW YOU *(p165)*
@@ -6691,9 +6670,9 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:429`
 
 - Note (summary from our notes, not a quotation): Sazen was Kol's apprentice: "KOL WAS MY MASTER WHEN I WAS AN APPRENTICE" (p161). K'Kruhk was Cade's teacher ("OF ALL MY LEARNERS", p135) and remembers "THE FIRST TIME THE JEDI FELL" (p144). Cade was "ALMOST READY FOR HIS TRIALS WHEN... OSSUS FELL" (p143). Shado and Cade were "APPRENTICES TOGETHER" (p170).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels. POV: Sazen was Kol's apprentice.
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p161 Sazen on Kol's last stand](../../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:448`
 
 - Note (summary from our notes, not a quotation): "Druggie" Cade vs post-Claws Cade (debates #61, #81, #85, #91).
@@ -6703,10 +6682,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:482`
 - Note (summary from our notes, not a quotation): Use against Cade: in Shards he loses to a Vong warrior (p150) and to an unarmed one-armed Sazen (p157–160), and his "FINER SKILLS HAVE ATROPHIED" (p143).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: "Druggie" Cade vs post-Claws Cade (debates #61, #81, #85, #91).
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p150 a Vong warrior pins Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p159 Sazen on Cade's dark-side healing](../../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:483`
 
 - Note (summary from our notes, not a quotation): Counter: these are explicitly rusty, drug-affected states with conditions on the page: the Vong are Force-blind, it's a surprise, and Sazen's fight is a no-saber lecture. They set a *floor* for 137 ABY Cade before training resumes; don't use them for the end-of-Claws or Legacy—War versions.
@@ -6717,15 +6696,15 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:484`
 - Note (summary from our notes, not a quotation): Pro-Cade hax notes: hiding from a Jedi's Force sense (p145), and healing that "TWISTED IT TO HIS WILL" (p170). Both are framing for his raw power, not combat feats.
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: "Druggie" Cade vs post-Claws Cade (debates #61, #81, #85, #91).
-![p145 Cade hides from Shado's Force sense](012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p145 Cade hides from Shado's Force sense](../../notes/materials/012-legacy-vol-2-shards-panels/p145-cade-hides-from-force.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:485`
 
 - Note (summary from our notes, not a quotation): Use: a Clone Wars survivor ("THE FIRST TIME THE JEDI FELL", p144), "whole being" healing (p136), and Cade's "LIKE BOTH WARMASTER AND HIGH PRIEST" (p169).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: K'Kruhk (debates #18, #24, #28, #131).
-![p136 K'Kruhk heals Cade](012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
-![p169 Kol's lightsaber with a lambent crystal](012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
+![p136 K'Kruhk heals Cade](../../notes/materials/012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
+![p169 Kol's lightsaber with a lambent crystal](../../notes/materials/012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:487`
 
 - Note (summary from our notes, not a quotation): Counter: no combat on panel here. "Warmaster" is Cade's simile, not a title. Don't cite Shards for K'Kruhk combat; cite Legacy—War (010) or later issues.
@@ -6752,8 +6731,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:547`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): `[local path]`: Krayt (debates #2, #6, #8, #108, #114), Cade (debates #61, #81, #85, #91), K'Kruhk (#18, #24, #28, #131), Imperial Knights / Draco (#17), Wolf Sazen (#67), Kol (#115). New *Shards* items are appended under "## Appended — Legacy Vol 2 Shards (owner material 012)". The existing 009 appendix entry "Fel vs Darth Krul" (009 p257) is the same feat as 012 p120–121.
-![p120 cortosis gauntlet; Krul's lightning](012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
-![p121 Fel turns the lightning back](012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
+![p120 cortosis gauntlet; Krul's lightning](../../notes/materials/012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
+![p121 Fel turns the lightning back](../../notes/materials/012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:555`
 
 - Note (summary from our notes, not a quotation): `[local path]`: #6 and #114 (Krayt vs Revan: the Knight squad), #17 (Draco: cortosis and the "ALL MY KNIGHTS" line), #18, #24, #28 and #131 (K'Kruhk: no combat here; the "Warmaster" simile), #35 (Maladi), #61, #81, #85 and #91 (Cade: the rusty-floor caveat), #67 (Wolf Sazen), #115 (Bane vs Kol: the p161 holding-action line).
@@ -6773,7 +6752,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:566`
 - Note (summary from our notes, not a quotation): p159 whether Cade hurled the debris with the Force.
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: UNCLEAR:
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p159 Sazen on Cade's dark-side healing](../../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:570`
 
 ## Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels
@@ -6787,12 +6766,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:18`
 
 - Note (summary from our notes, not a quotation): From stasis, Krayt senses "SKYWALKER IS COMING" while Wyyrlok fears he is dying (p10). Cade shakes off a four-ship Skull Squadron flight in Coruscant traffic and hides his ship in the undercity (p11–14, p22). He leaves the *Mynock*'s codes with Queen Jool at Rik's cantina for Syn and Deliah (p17–21). Gunner Yage is dressed down by her father (p22–23). Cade slips into the Sith Temple, finds Hosk with the Force and frees him (p24–27). Talon ambushes them; Cade has the better of the first exchange until Nihl strikes him from behind (p27–30). Sazen senses Cade's darkness from Ossus (p31).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
-![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
-![p24 "AH! FOUND YOU."](013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
-![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
+![p24 "AH! FOUND YOU."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
+![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p29 Sith eyes; Nihl from behind](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:40`
 
 - Note (summary from our notes, not a quotation): Maladi calls off the Imperial search; the Moffs squabble, and Calixte, Veed and the Yages trade barbs (p32–36). Maladi tortures Cade with ixetal cilona, which he keeps purging; Krayt arrives (p37–38). Talon brings in Syn and Deliah; Maladi triggers coral seeds in them, Krayt frees one of Cade's hands with the Force, and Cade heals both at once with dark-side power (p39–45). Cade trades his freedom for theirs (p45–46). Calixte and Veed plan to use Corde (p47–48). Wyyrlok keeps Nihl and Maladi outside; they argue over birth and rank (p49–50). Over dinner Krayt shows Cade Kol's encased lightsaber and reveals he was the Jedi A'Sharad Hett (p51–53).
@@ -6806,12 +6785,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:48`
 > THAT WHICH CAN HEAL CAN ALSO BREAK. *(p115)*
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Cade hangs in the Vong "EMBRACE OF PAIN" while Krayt tells the rest: Vong capture, shaping, Vergere, his vision, the escape, the new Order, Lumiya and "CADEUS", stasis, and his dying body (p98–107). Cade slips out of his cell; the crew launches (p108–109). Talon is waiting in Maladi's lab and drops him (p110). Krayt orders him to kill Hosk; Cade refuses, Hosk forgives everyone, and Krayt runs Hosk through; Hosk's body vanishes (p111–114). Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK." (p115). Cade's telekinetic burst shatters the case, he calls Kol's saber, strikes Talon and engages Nihl while Krayt urges revenge (p116–119).
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
-![p111 "DID YOU THINK YOU COULD HIDE..."](013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
-![p113 Krayt runs Hosk through](013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
-![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p111 "DID YOU THINK YOU COULD HIDE..."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p113 Krayt runs Hosk through](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
+![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:56`
 
 > BECAUSE YOU WANT ME TO!
@@ -6820,12 +6799,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:56`
 > I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM. *(p137)*
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Corde rocketpacks up the Temple; Syn's bugs blow the main hangar (p120–122), the "signal" Veed recognises (p123). Cade beats Nihl but refuses to kill him "BECAUSE YOU WANT ME TO!" and attacks Krayt (p124–126). Skull Squadron is ordered off (p127, p130–131). Krayt boasts and Cade taunts him about the Vong growths (p128–129); Krayt has Cade on the floor when Corde shoots him through the window (p132). Cade jumps from the tower and Syn catches him in the *Mynock* (p133–135). Corde tells Cade she is his mother and leaves by the undercity (p136). Krayt: "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM." (p137). Veed and Calixte discuss the outcome; alone, Calixte plays a hologram of Kol, herself and toddler Cade: "RUN." (p138–141).
-![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
-![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
-![p134 Cade jumps](013-legacy-vol-3-claws-of-the-dragon-panels/p134-cade-leaps-splash.jpg)
+![p125 Cade beats Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p134 Cade jumps](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p134-cade-leaps-splash.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:60`
 
 > Krayt (stasis, eyes open): "SKYWALKER IS COMING." · Wyyrlok captions: "MY LORD IS DYING. HE IS BEING CONSUMED. NOTHING IN THE SITH LORE HELPS, INCLUDING THE ANCIENT KNOWLEDGE OF XOXAAN." · "THE SKILLS OF THE JEDI HEALER, HOSK, HAVE PROVEN INADEQUATE." · "I WONDER NOW IF I SHALL BE THE LAST." · "MY LINE CONTINUES WITH A DAUGHTER IN TRAINING ON KORRIBAN."
@@ -6878,12 +6857,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:134`
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:137`
 
-- Note (summary from our notes, not a quotation): ![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+- Note (summary from our notes, not a quotation): ![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p129 — `p129-cade-reads-krayt-illness.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:142`
 
-- Note (summary from our notes, not a quotation): ![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+- Note (summary from our notes, not a quotation): ![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p132 — `p132-corde-shoots-krayt.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:145`
@@ -6902,10 +6881,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:150`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 1. Piloting: loses a four-ship Skull Squadron flight in Coruscant traffic. p11 (#14)–p14 (#14), p22 (#14) [009 p312–315, p323]
-![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
+![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:215`
 
-- Note (summary from our notes, not a quotation): ![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
+- Note (summary from our notes, not a quotation): ![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p22 — `p022-skull-dust-all-four-of-us.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:218`
@@ -6923,10 +6902,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:221`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 2. Finds Hosk inside the Sith Temple with the Force. p24 (#14) [009 p325]: "SO I KNOW THIS PLACE BETTER'N ANY SITH. SLIP IN, SLIP OUT -- NOBODY KNOWS I BEEN 'TIL I'M GONE." · (hand out) "OKAY, JEDI -- WHERE ARE YOU?" · "TCHUTA... AH! FOUND YOU."
-![p24 "AH! FOUND YOU."](013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
+![p24 "AH! FOUND YOU."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:223`
 
-- Note (summary from our notes, not a quotation): ![p24 "AH! FOUND YOU."](013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
+- Note (summary from our notes, not a quotation): ![p24 "AH! FOUND YOU."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p24 — `p024-cade-force-finds-hosk.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:225`
@@ -6935,43 +6914,43 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:225`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 3. CADE vs DARTH TALON (Temple, first fight): Cade has the upper hand until Nihl takes him from behind. p27 (#14)–p30 (#14) [009 p328–331]
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:228`
 
 - Note (summary from our notes, not a quotation): In p29's first panel Talon is sent tumbling with her balance broken. The hit from behind isn't drawn; a hooked chain line shows at Cade's waist and Nihl crouches over him with his chain weapon on p30.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
-![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p29 Sith eyes; Nihl from behind](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:231`
 
-- Note (summary from our notes, not a quotation): ![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+- Note (summary from our notes, not a quotation): ![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p27 — `p027-cade-blocks-talon-ambush.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:233`
 
-- Note (summary from our notes, not a quotation): ![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+- Note (summary from our notes, not a quotation): ![p29 Sith eyes; Nihl from behind](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p29 — `p029-cade-sith-eyes-nihl-from-behind.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:236`
 
 - Note (summary from our notes, not a quotation): Conditions: Talon ambushed, but Cade sensed it in time; Talon was under orders to take him alive (p28, p30).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:239`
 
 > (p37) **Maladi**: "INTERESTING. DESPITE A FULL DAY OF INJECTIONS, YOUR BODY KEEPS PURGING ITSELF OF THE IXETAL CILONA." · Cade: "YEAH, BABE. GOT THIS CRAZY BODY CHEMISTRY THING GOING." · Maladi: "I SUPPLY THEM." · "NO, YOU USE THE FORCE TO PURGE YOURSELF, BENDING IT TO YOUR WILL...LIKE A SITH..." · Krayt (off-panel, arriving): "THEN HE REALIZES THE LIMITATIONS OF THE JEDI TEACHINGS." · (p38) Krayt: "YOU CAN EVEN PURGE YOURSELF OF A LETHAL DOSE OF IXETAL CILONA." · Cade: "BEST TRICK I GOT. TOO BAD I CAN'T DO IT FOR NOBODY ELSE."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 4. Purges a full day of ixetal cilona injections with the Force. p37 (#15)–p38 (#15) [009 p338–339]
-![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
+![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:241`
 
 > BENDING IT TO YOUR WILL...LIKE A SITH...
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p37 Maladi.
-Note (our notes, around the quote): ![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
+Note (our notes, around the quote): ![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
 (*Panel: p37 — `p037-maladi-cade-purges-ixetal.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:244`
 
@@ -6979,17 +6958,17 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:244`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 5. Heals two people at once of dark-side-accelerated coral seeds. p40 (#15)–p45 (#15) [009 p341–346]
-![p40 Syn and Deliah; the coral seeds triggered](013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
-![p44 Cade heals both at once](013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
-![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+![p40 Syn and Deliah; the coral seeds triggered](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
+![p44 Cade heals both at once](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
+![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:247`
 
-- Note (summary from our notes, not a quotation): ![p40 Syn and Deliah; the coral seeds triggered](013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
+- Note (summary from our notes, not a quotation): ![p40 Syn and Deliah; the coral seeds triggered](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p040-syn-delusions-coral-seeds.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p40 — `p040-syn-delusions-coral-seeds.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:250`
 
-- Note (summary from our notes, not a quotation): ![p44 Cade heals both at once](013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
+- Note (summary from our notes, not a quotation): ![p44 Cade heals both at once](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p44 — `p044-cade-heals-two-at-once.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:253`
@@ -7002,22 +6981,22 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:256`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 6. Blasts Talon across the room while still cuffed; threatens to "EXPLODE" her weak point; then heals her. p70 (#16)–p73 (#16) [009 p371–374]
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p71 Cade blasts Talon: "EXPLODE THAT POINT"](013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
-![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p71 Cade blasts Talon: "EXPLODE THAT POINT"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
+![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:258`
 
-- Note (summary from our notes, not a quotation): ![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p70 — `p070-talon-force-flips-cade.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:261`
 
-- Note (summary from our notes, not a quotation): ![p71 Cade blasts Talon: "EXPLODE THAT POINT"](013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
+- Note (summary from our notes, not a quotation): ![p71 Cade blasts Talon: "EXPLODE THAT POINT"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p71 — `p071-cade-blasts-talon-explode-threat.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:264`
 
-What it shows (our notes): ![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+What it shows (our notes): ![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 > “Superbly,” he admitted.
 >
 > “Superbly,” he admitted.
@@ -7078,30 +7057,30 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:267`
 
 - Note (summary from our notes, not a quotation): Conditions: Talon had just thrown him and was not guarding; Krayt and Wyyrlok let it happen and Krayt stops it with one word ("NO.", p72). The "explode" use is only threatened, needs touch, and depends on his seeing the "RED LINES".
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p72 "YOU HAVE GREAT RAW POWER"](013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
+![p72 "YOU HAVE GREAT RAW POWER"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:270`
 
 > (p78) Cade: "NASTY." · "THOUGHT THIS WAS A PRACTICE SESSION." · Talon (mid-flip, boot to his jaw): "NO THREAT, NO PURPOSE." · (p79) Talon: "THE EXITS ARE UNGUARDED. DEFEAT ME AND YOU CAN ESCAPE." · Cade: "WHY WOULD I WANT TO ESCAPE WHEN EVERYTHING I'M AFTER IS HERE?" · (p80) Cade: "E CHU TA! THAT HURTS!" · Talon: "YOU STILL HAVE MUCH TO LEARN." · "NOW, CONCENTRATE ON THE DARK SIDE OF THE FORCE AND HEAL YOURSELF." · (p87) Talon: "BE GRATEFUL I CHOSE TO STRIKE NOTHING VITAL."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 7. Training: saber and telekinesis against combat droids; loses to Talon. p77 (#17)–p80 (#17), p87 (#17) [009 p378–381, p388]
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:272`
 
 - Note (summary from our notes, not a quotation): On p77 (wordless) Cade, with a red saber, blocks bolts while holding a droid back with a Force sphere and cuts another in half mid-air; five or more droid types are on the floor.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p78 Talon: "NO THREAT, NO PURPOSE."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:275`
 
 > NO THREAT, NO PURPOSE.
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p78 Talon.
-Note (our notes, around the quote): ![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+Note (our notes, around the quote): ![p78 Talon: "NO THREAT, NO PURPOSE."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
 (*Panel: p78 — `p078-talon-kicks-cade-no-threat-no-purpose.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:277`
 
-- Note (summary from our notes, not a quotation): ![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+- Note (summary from our notes, not a quotation): ![p80 Talon's cut; "HEAL YOURSELF"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p80 — `p080-talon-cuts-cade-self-heal.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:280`
@@ -7113,10 +7092,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:280`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 8. Ambushed and dropped by Talon. p110 (#18) [009 p411]: Talon: "KNEW YOU'D COME. I'VE BEEN WAITING FOR YOU..." · Cade (blue sparks at the fingers gripping her face): "I MISSED YOUR TOUCH..." · Talon meets his palm with a violet Force sphere and blows him down: "IDIOT."
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:283`
 
-- Note (summary from our notes, not a quotation): ![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+- Note (summary from our notes, not a quotation): ![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p110 — `p110-talon-repels-cade-idiot.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:285`
@@ -7125,30 +7104,30 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:285`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 9. Refuses to kill Hosk; Kol's ghost; telekinetic burst shatters the transparisteel case and makes four Sith recoil. p112 (#18)–p117 (#18) [009 p413–418]
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:288`
 
 - Note (summary from our notes, not a quotation): p116 is wordless. The case cracks and explodes outward in a storm of glass. Four Sith (Nihl, a spiked-armoured figure with a raised red saber who is Wyyrlok by count but faceless, Talon, and Krayt) recoil and shield themselves; none is clearly knocked off their feet. On p117 Cade strikes Talon at close range: a green flare at her side while she grips his head. The hilt isn't clearly visible, so saber cut vs palm burst is UNCLEAR. She is down in the background for the rest of the fight (p128).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p116 the burst; four Sith recoil](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:291`
 
 > THAT WHICH CAN HEAL CAN ALSO BREAK.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p115 Kol's ghost.
-Note (our notes, around the quote): ![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+Note (our notes, around the quote): ![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
 (*Panel: p115 — `p115-kol-ghost-heal-can-break.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:293`
 
-- Note (summary from our notes, not a quotation): ![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+- Note (summary from our notes, not a quotation): ![p116 the burst; four Sith recoil](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p116 — `p116-cade-shockwave-four-sith-recoil.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:296`
 
-- Note (summary from our notes, not a quotation): ![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p117 Cade calls the saber, strikes Talon, faces Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p117 — `p117-cade-strikes-talon-faces-nihl.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:299`
@@ -7157,29 +7136,29 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:299`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 10. CADE vs DARTH NIHL (Krayt's chamber): Cade wins, then refuses the kill. p117 (#18)–p126 (#19) [009 p418–427]
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:302`
 
 - Note (summary from our notes, not a quotation): p124–125 are wordless: Cade sweeps at Nihl, Nihl leans away; Cade grabs Nihl's saber wrist, kicks him spinning head-first into the carved wall, then kneels on him with blue energy webbing across Nihl's face (p125–126). Whether Nihl's blade grazes Cade's shoulder on p124 is UNCLEAR.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
-![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
+![p125 Cade beats Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:305`
 
 > SLAY THE ONE WHO KILLED YOUR FATHER!
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p119 Krayt.
-Note (our notes, around the quote): ![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
+Note (our notes, around the quote): ![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
 (*Panel: p119 — `p119-krayt-slay-the-one-who-killed-father.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:307`
 
-- Note (summary from our notes, not a quotation): ![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p125 Cade beats Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p125 — `p125-cade-beats-nihl.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:310`
 
-- Note (summary from our notes, not a quotation): ![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+- Note (summary from our notes, not a quotation): ![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p126 — `p126-krayt-nihl-killed-father-cade-no.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:313`
@@ -7192,19 +7171,19 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:316`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 11. Reads Krayt's illness mid-duel; goes down to Krayt; jumps from the tower. p129 (#19), p132 (#19)–p135 (#19) [009 p430, p433–436]
-![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
-![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
+![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:318`
 
 > IF SHE'S ON THE GUNS, WHO'S FLYING THE MYNOCK?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): p134 is a silent full-page splash of Cade free-falling backwards from the tower, grinning. On p135 a brown-skinned bare hand (Syn's) grabs Cade's gloved hand at the *Mynock*'s hatch (zoom-checked). Cade: "IF SHE'S ON THE GUNS, WHO'S FLYING THE MYNOCK?"
-![p134 Cade jumps](013-legacy-vol-3-claws-of-the-dragon-panels/p134-cade-leaps-splash.jpg)
-![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
+![p134 Cade jumps](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p134-cade-leaps-splash.jpg)
+![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:321`
 
-- Note (summary from our notes, not a quotation): ![p134 Cade jumps](013-legacy-vol-3-claws-of-the-dragon-panels/p134-cade-leaps-splash.jpg)
+- Note (summary from our notes, not a quotation): ![p134 Cade jumps](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p134-cade-leaps-splash.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p134 — `p134-cade-leaps-splash.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:323`
@@ -7212,7 +7191,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:323`
 > WHO'S FLYING THE MYNOCK?
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-Note (our notes, around the quote): ![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
+Note (our notes, around the quote): ![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
 (*Panel: p135 — `p135-syn-catches-cade.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:326`
 
@@ -7226,9 +7205,9 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:326`
 > THE ONLY THING THAT SAVES YOU THUS FAR IS THE BLOOD OF VADER THAT RUNS THROUGH YOUR VEINS.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Krayt (p72). POV: Krayt, about Cade Skywalker.
 Label in our notes: · (p45) · (p128) ·
-![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
-![p72 "YOU HAVE GREAT RAW POWER"](013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+![p72 "YOU HAVE GREAT RAW POWER"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:330`
 
 > THE ANGER IN YOU IS LIKE A DAGGER IN THE FORCE, YOUNG SKYWALKER.
@@ -7236,7 +7215,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:330`
 > HE IS BECOMING A SKYWALKER IN TRUTH AS WELL AS IN NAME.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Hosk (p26). POV: Hosk, about Cade Skywalker.
 Label in our notes: · (p113
-![p113 Krayt runs Hosk through](013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
+![p113 Krayt runs Hosk through](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:333`
 
 > HIS FATHER'S SON... ...WEAK AND TOO EASILY DEFEATED BY DARKNESS.
@@ -7252,37 +7231,37 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:334`
 > HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Ambush and first fight with Cade. p27 (#14)–p30 (#14) [009 p328–331]. See Cade 3. On p30 the balloon "I AM HERE ON ORDERS FROM OUR LORD KRAYT. SKYWALKER IS WANTED ALIVE." is Talon's (zoom: the tail exits left to the off-panel Talon, whose saber enters from the left); Nihl answers "PITY." · "HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?"
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:339`
 
 > I AM HERE ON ORDERS FROM OUR LORD KRAYT.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p30 Talon.
-Note (our notes, around the quote): ![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+Note (our notes, around the quote): ![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 (*Panel: p30 — `p030-talon-here-on-orders.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:341`
 
 - Note (summary from our notes, not a quotation): 2. Throws Cade with telekinesis (not a kick), then is blasted down by him. p70 (#16)–p73 (#16). See Cade 6.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:344`
 
 - Note (summary from our notes, not a quotation): 3. Beats Cade in training and in the p110 ambush. p78–80 (#17), p87 (#17), p110 (#18). See Cade 7–8. Kills a combat droid from above mid-flip (p78).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p78 Talon: "NO THREAT, NO PURPOSE."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:346`
 
 > (p87) "WE SITH ARE NOT BARBARIC. WE ARE WARRIORS, BUT WE POSSESS A CULTURE AND A CIVILIZATION TO RIVAL ANY IN THE GALAXY." · Cade: "WHERE IS THE OLD MURGLAK?" · (p88) Talon: "I KILLED HIM." · "DARTH KRAYT COMMANDED IT. WE SITH DO NOT QUESTION OUR MASTER." · "KRAYT'S SITH ORDER IS MORE THAN TWO." · "HAD MY TEACHER NOT DEEMED ME READY, HE WOULD HAVE BLOCKED MY ATTACK. INSTEAD, HE EMBRACED DEATH SO THAT I MIGHT TOUCH THE DARK SIDE." · "IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH." · "I WAS BORN SITH."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 4. Killed her own master on Krayt's order. p87 (#17)–p88 (#17) [009 p388–389]
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:348`
 
-- Note (summary from our notes, not a quotation): ![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+- Note (summary from our notes, not a quotation): ![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p88 — `p088-talon-killed-her-master-more-than-two.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:351`
@@ -7296,10 +7275,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:354`
 > Have your eyes been opened yet, Skywalker?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; 5. Sees through Cade's act. p94 (#17) [009 p395].
 Note (our notes, around the quote): 5. Sees through Cade's act. p94 (#17) [009 p395]: "I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD." · (p92, whisper lettering) "Have your eyes been opened yet, Skywalker?"
-![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+![p94 Talon reports; Krayt's "JEDI OF OLD"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:356`
 
-- Note (summary from our notes, not a quotation): ![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+- Note (summary from our notes, not a quotation): ![p94 Talon reports; Krayt's "JEDI OF OLD"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p94 — `p094-talon-cade-liar-krayt-jedi-of-old.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:358`
@@ -7336,8 +7315,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:395`
 > VISIONS ARE NOT ALWAYS TRUTH, MASTER.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Sazen's vision of Cade. p31 (#14): "WOLF IS TROUBLED. HE SENSES SOMETHING IN THE FORCE --" "-- DARKNESS RIPPLING --" "-- A VISION OR A WARNING --" · Sazen: "...CADE!" · (p75) "I CANNOT REACH OUT TO CADE. AND MY VISION OF HIM STILL HAUNTS ME." · Shado: "VISIONS ARE NOT ALWAYS TRUTH, MASTER."
-![p31 Ossus: Sazen's vision, DARKNESS RIPPLING](013-legacy-vol-3-claws-of-the-dragon-panels/p031-sazen-vision-darkness-rippling.jpg) *(p31)*
-![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
+![p31 Ossus: Sazen's vision, DARKNESS RIPPLING](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p031-sazen-vision-darkness-rippling.jpg) *(p31)*
+![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:409`
 
 > THAT WHICH CAN HEAL CAN ALSO BREAK.
@@ -7359,7 +7338,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:432`
 
 > MY DAD'S THE JEDI WHO CHAMPIONED THE VONG TERRAFORMING PROJECT IN THE FIRST PLACE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Ossus Project champion (Cade, p15).
-![p15 Cade: MY DAD'S THE JEDI WHO CHAMPIONED THE TERRAFORMING](013-legacy-vol-3-claws-of-the-dragon-panels/p015-cade-dad-championed-terraforming.jpg) *(p15)*
+![p15 Cade: MY DAD'S THE JEDI WHO CHAMPIONED THE TERRAFORMING](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p015-cade-dad-championed-terraforming.jpg) *(p15)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:433`
 
 > MINE INVOLVES A FAST RIDE AND A BIG BLASTER. *(p120)*
@@ -7395,7 +7374,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:470`
 > YOU SOLD MY SHIP TO THE WOOKIEE?!
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): The *Mynock* is re-registered to Chak at Corde's insistence (p85; p136 Cade: "YOU SOLD MY SHIP TO THE WOOKIEE?!").
-![p136 Cade: YOU SOLD MY SHIP TO THE WOOKIEE?!](013-legacy-vol-3-claws-of-the-dragon-panels/p136-cade-you-sold-my-ship-to-the-wookiee.jpg) *(p136)*
+![p136 Cade: YOU SOLD MY SHIP TO THE WOOKIEE?!](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p136-cade-you-sold-my-ship-to-the-wookiee.jpg) *(p136)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:471`
 
 > THE SITH HAVE A STANDING ORDER THAT NO SHIPS -- INCLUDING IMPERIAL VESSELS -- ARE TO VIOLATE THEIR AIRSPACE.
@@ -7475,12 +7454,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:557`
 - Note (summary from our notes, not a quotation): Counter: the Nihl win comes right after a surprise burst caught Nihl, and Cade is in a heightened rage state. Talon beats him twice (p78–80, p110). Against Krayt he ends up on the floor before Corde's shot (p132), and Krayt is holding back because he needs him alive (p112). Krayt's own rating: "NEITHER JEDI NOR SITH" (p128).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: End-of-Claws Cade (debates #61, #81, #85, #91).
-![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p78 Talon: "NO THREAT, NO PURPOSE."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:558`
 
 - Note (summary from our notes, not a quotation): Hax note: the "break" side of his healing (p71 threat, p115 cue, p125–126 use on a pinned Nihl) needs touch and the "RED LINES"; it isn't a ranged instant kill.
@@ -7492,9 +7471,9 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:559`
 > [fragment — full passage not on file]
 — Source: (debate #81 note in legends-feats) — Owner Material 013 — Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Cade "held off Krayt" (debate #81 note in legends-feats). Claws doesn't show a prolonged duel: about three panels of contact, Cade floored, Krayt interrupted by a blaster (p128–133). Use it only as "survived a handicapped Krayt with outside help".
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
-![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:560`
 
 - Note (summary from our notes, not a quotation): Use: took Cade down from behind (p29); "SLEW MANY JEDI ... INCLUDING KOL" (p50); "SLEW AN ENTIRE VILLAGE" (p107).
@@ -7509,10 +7488,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:563`
 
 - Note (summary from our notes, not a quotation): Talon. Use: her training wins and the p110 ambush; her TK throw (p70). Counter: Cade's surprise blasts drop her twice (p71, p117). Roughly even overall, framed as more skilled.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p71 Cade blasts Talon: "EXPLODE THAT POINT"](013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p71 Cade blasts Talon: "EXPLODE THAT POINT"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:564`
 
 - Note (summary from our notes, not a quotation): Different chapter art: 013 p8 is a Travis Charest painting of Cade, Deliah and a Wookiee in a neon cantina. 009 p309 uses a different Charest illustration (Cade kneeling, glowing hands, inside red rings; "ILLUSTRATION BY TRAVIS CHAREST").
@@ -7537,7 +7516,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:585`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Who catches Cade (013 p135 = 009 p436): 009 said Deliah.
 Note (our notes, around the quote): Who catches Cade (013 p135 = 009 p436): 009 said Deliah "Flies the *Mynock* and catches Cade mid-fall". Chak is flying (p120, p127, p136 "MY SEAT. MY SHIP."), Deliah is on the guns (p130; p135 "BACK WITH THE GUNS"), and Syn's hand catches Cade at the hatch (zoom-checked).
-![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
+![p135 Syn catches Cade; "WHO'S FLYING THE MYNOCK?"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p135-syn-catches-cade.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:604`
 
 > STRIKE ME DOWN! … NOTHING LESS WILL EVEN MAKE ME PAUSE!
@@ -7547,7 +7526,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:604`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): "STRIKE ME DOWN! … NOTHING LESS WILL EVEN MAKE ME PAUSE!" (p112 = 009 p413): no addressee is given and Cade holds the saber; 009's "Krayt to Hosk" is changed to "addressee UNCLEAR, most likely Cade".
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:610`
 
 - Note (summary from our notes, not a quotation): 009 plot summary #18 said Cade's burst "scatters the Sith"; on both scans they recoil and shield themselves and none is knocked down (009's character entry already said so).
@@ -7560,7 +7539,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:617`
 
 - Note (summary from our notes, not a quotation): 009 p371 (= 013 p70): Talon throws Cade with telekinesis (a violet Force sphere), not a kick.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:621`
 
 > ## Appended — Legacy Vol 3 Claws of the Dragon (owner material 013)
@@ -7581,7 +7560,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:640`
 - Note (summary from our notes, not a quotation): p117 whether Cade's strike on Talon is a saber cut or a palm burst.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: UNCLEAR:
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:648`
 
 - Note (summary from our notes, not a quotation): p124 whether Nihl's blade grazes Cade.
@@ -8085,8 +8064,8 @@ Our notes: `legends-feats.md:2395`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Kol: "a powerful and influential Jedi named Kol Skywalker" (p7). Stats: CL 14. UtF +20. Strong in the Force. hp 116. Lightsaber +18. (material 011; p196; debate #115)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `legends-feats.md:2505`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen: lost his right arm to Nihl and kept the "empty sleeve". Stats: CL 15. UtF +19. Will 32. hp 107. Lightsaber +17. A defensive build with no battle strike. (material 011; p197–198; debate #67)
@@ -8097,14 +8076,14 @@ Our notes: `legends-feats.md:2512`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Cade (early series, just after escaping the Coruscant Sith Temple): CL 11. UtF +12 (Force Powers line; +11 in Skills). hp 115. Lightsaber +11. Has dark transfer. "the last of the Skywalkers, and like his predecessors, the Force is strong in him" (p209). (material 011; p209–210; debates #17, #61, #81, #85, #91)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `legends-feats.md:2513`
 
 > revive a creature that died since the end of your last turn *(DC 25 UtF)*
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); Improved Dark Transfer: spend a Force Point to.
 Note (our notes, around the quote): Improved Dark Transfer: spend a Force Point to "revive a creature that died since the end of your last turn" (DC 25 UtF). (material 011; p56)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p56 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p056-improved-dark-transfer.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p56 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p056-improved-dark-transfer.jpg)
 Our notes: `legends-feats.md:2515`
 
 > HE HAS RAW POWER, BUT HIS FINER SKILLS HAVE ATROPHIED. HE DOESN'T HAVE THE FOCUS HE USED TO HAVE -- — Wolf Sazen, Star Wars: Legacy #11, p143

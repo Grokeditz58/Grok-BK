@@ -18,13 +18,11 @@ Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-06
 > One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself, Vaa longed to revive the long-tost arts of Sith aleherny and create a store house of wicked creatures pulled from the chilling recesses of the dark side One of Vaa's test worlds was none other than Aduba-3, though the planet bore a dif ferent name at that time, It was the site of an early experiment.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Naga Sadow; Lord Kaan — entry/section: Star Wars Gamer 04.
 Note (our notes, around the quote): Naga Sadow; Lord Kaan — entry/section: Star Wars Gamer 04: "One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself, Vaa longed to revive the long-tost arts of Sith aleherny and create a store house of wicked creatures pulled from the chilling recesses of the dark side One of Vaa's test worlds was none other than Aduba-3, though the planet bore a dif ferent name at that time, It was the site of an early experiment." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.44
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.44 — full quote as printed](quotes/d053-s44-one-of-kaan-s-greatest-underlings.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:256`
 
 > One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Seviss Vaa; Lord Kaan — entry/section: Onacra's Secret: Seviss Vaa.
 Note (our notes, around the quote): Seviss Vaa; Lord Kaan — entry/section: Onacra's Secret: Seviss Vaa: "One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.44
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.44 — full quote as printed](quotes/d053-s44-one-of-kaan-s-greatest-underlings-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:258`
 
 # Debate and forum claims (unverified)

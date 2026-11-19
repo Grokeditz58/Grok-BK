@@ -14,13 +14,11 @@
 > Vos defeated Karkko but left Kiffu with the Devaronian con artist Vilmarh Grahrk.
 — Source: scan pages 281–320; Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian: "Vos defeated Karkko but left Kiffu with the Devaronian con artist Vilmarh Grahrk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-vos-defeated-karkko-but-left-kiffu.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:317`
 
 > He killed Commander Faie despite his injuries and was saved by the timely arrival of Vilmarh Grahrk.
 — Source: scan pages 281–320; Quinlan Vos — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Vos, Quinian: "He killed Commander Faie despite his injuries and was saved by the timely arrival of Vilmarh Grahrk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-he-killed-commander-faie-despite-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:323`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -46,7 +44,6 @@ Our notes: `notes/materials/038-star-wars-insider/054-ins054.md:302`
 
 - Note (summary from our notes, not a quotation): Vilmarh Grahrk — entry/section: Villie as a rogue — writer John Ostrander, "The Grim Reaper of Comics" interview (crop ok): ""Villie is our rogue. Charming, funny, but not nice. He doesn't have that honorable streak that Solo has. It's "follow the money" with Villie." —John Ostrander" Source: *Star Wars Insider #54* (2001), scan p.57
   — Source: Star Wars Insider #54 (2001).
-![Quote image: *Star Wars Insider #54* (2001), scan p.57 — full quote as printed](quotes/ins054-s57-villie-is-our-rogue-charming-funny.jpg)
 Our notes: `notes/materials/038-star-wars-insider/054-ins054.md:304`
 
 ## Star Wars Insider #92 (2007)

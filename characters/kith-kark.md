@@ -16,13 +16,13 @@
 > BUT NOMI'S GREATEST TALENT, IS THE INTERNAL VISUALIZATION SHE USED TO DEFEAT MASTER THON'S ENEMIES ON AMBRIA!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Nomi Sunrider. POV: narrator, about Kith Kark.
 Note (our notes, around the quote): Narration on Nomi Sunrider: "AND NOMI SUNRIDER--A JEDI ONLY A FEW SHORT MONTHS--IS ALREADY ADEPT IN BATTLE SKILLS SHE LEARNED ON OSSUS." "BUT NOMI'S GREATEST TALENT, IS THE INTERNAL VISUALIZATION SHE USED TO DEFEAT MASTER THON'S ENEMIES ON AMBRIA!" · NARRATION. Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:167`
 
 > THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Her battle meditation is blocked by Ommin.
 Note (our notes, around the quote): Her battle meditation is blocked by Ommin: "THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!" Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:169`
 
 > SHOANEB CULU, A MIRALUKA JEDI, DEMONSTRATES UNCANNY ABILITY WITH THE LIGHTSABER!
@@ -31,13 +31,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:169`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Shoaneb Culu. POV: narrator, about Kith Kark.
 Note (our notes, around the quote): Narration on Shoaneb Culu: "SHOANEB CULU, A MIRALUKA JEDI, DEMONSTRATES UNCANNY ABILITY WITH THE LIGHTSABER!" "THE MIRALUKA OF ALPHERIDIES ARE BORN WITHOUT EYES--BUT SEE EVERYTHING...IN THE FORCE!" · NARRATION. Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:201`
 
 > JEDI KNIGHTS, KITH KARK, DACE DIATH, AND QRRRL TOQ WIELD THEIR LIGHTSABERS WITH FEARLESS EFFECTIVENESS.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on the rescue Knights. POV: narrator, about Kith Kark.
 Note (our notes, around the quote): Narration on the rescue Knights: "JEDI KNIGHTS, KITH KARK, DACE DIATH, AND QRRRL TOQ WIELD THEIR LIGHTSABERS WITH FEARLESS EFFECTIVENESS." · NARRATION. Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:208`; `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:255`
 
 > --BUT SWIFT DARK-SIDER FIRE INFLICTS A MORTAL WOUND!
@@ -50,7 +50,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:208`;
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #2, p6 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Killed when his Force shield fails under Ommin's Sith magic. POV: narrator, about Kith Kark.
 Note (our notes, around the quote): Killed when his Force shield fails under Ommin's Sith magic: "--BUT SWIFT DARK-SIDER FIRE INFLICTS A MORTAL WOUND!" Kith Kark: "MY FORCE SHIELD... VANISHED--" "MASTER... HELP ME... Unnh." "AT THE VERY MOMENT KITH KARK PASSES INTO THE FORCE THE GATES OF THE FOREST CASTLE ARE SUDDENLY THROWN BACK--" · NARRATION. Source: Freedon Nadd Uprising #2, p6
-![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](panels/fnu2-p06-kith-kark-shield-fails.jpg)
+![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p06-kith-kark-shield-fails.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:257`
 
 - Note (summary from our notes, not a quotation): | 4 | Jedi team vs Naddists and Sith war droids | Kira forest citadel | #2 p4–7 | Jedi break through; Kith Kark killed |
@@ -58,13 +58,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:257`
 Context: | # | Fight | Where | Pages | Outcome |
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:274`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](panels/fnu2-p06-kith-kark-shield-fails.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p06-kith-kark-shield-fails.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:305`
 
 - Note (summary from our notes, not a quotation): *Freedon Nadd Uprising #2, p6: Kith Kark's Force shield fails and he is killed.*
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](panels/fnu2-p06-kith-kark-shield-fails.jpg)
+![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p06-kith-kark-shield-fails.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:307`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Kith Kark, Gotal Jedi Apprentice. Force skills Control 1D+1, Sense 2D, Alter 1D+1. Lightsaber 5D+1, Dexterity 4D. Force Points 1, Character Points 2. Source: Tales of the Jedi Companion (WEG, 1996), p.25

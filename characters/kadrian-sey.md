@@ -14,7 +14,6 @@
 > Quinlan, caught in a crisis of conscience, cut down Kadrian Sey in order to save his aunt's life.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos — Quinlan kills Kadrian Sey.
 Note (our notes, around the quote): Quinlan Vos — Quinlan kills Kadrian Sey: "Quinlan, caught in a crisis of conscience, cut down Kadrian Sey in order to save his aunt's life." Source: The New Essential Chronology, p.65
-![Quote image: The New Essential Chronology, p.65 — full quote as printed](quotes/nec-p65-quinlan-kills-kadrian-sey.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:317`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -22,13 +21,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Quinlan Vos, on a mission to infiltrate the Separatists, was forced to defeat Skorr and Kadrian Sey in combat in order to gain an audience with Dooku.
 — Source: scan pages 161–200; Quinlan Vos; Count Dooku.
 Note (our notes, around the quote): Quinlan Vos; Count Dooku: "Quinlan Vos, on a mission to infiltrate the Separatists, was forced to defeat Skorr and Kadrian Sey in combat in order to gain an audience with Dooku." Source: The Complete Star Wars Encyclopedia, Vol. III, p.160
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.160 — full quote as printed](quotes/v3-p160-quinlan-vos-on-a-mission-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:47`
 
 > Vos learned that Dooku had been negotiating with Sheyf Tinté for the rights to establish a Separatist base on Kiffu, but when Dooku ordered Tinté's death, Vos killed Kadrian Sey before she could assassinate his aunt.
 — Source: scan pages 281–320; Quinlan Vos; Count Dooku — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Count Dooku — entry/section: Vos, Quinian: "Vos learned that Dooku had been negotiating with Sheyf Tinté for the rights to establish a Separatist base on Kiffu, but when Dooku ordered Tinté's death, Vos killed Kadrian Sey before she could assassinate his aunt." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-vos-learned-that-dooku-had-been.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:319`
 
 # Debate and forum claims (unverified)

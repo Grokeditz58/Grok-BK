@@ -14,12 +14,10 @@
 > Q: My players and I were wondering if the Force skill Affect Mind has a duration. For example, in Attack of the Clones, Obi-Wan Kenobi tells Elan Sleazebaggano, the death stick dealer, to go home and rethink his life. So, did Obi-Wan just stop the guy from dealing death sticks with a wave of his hand? Or did Sleazebaggano walk out of the nightclub, head home, suddenly decide he was being foolish, and turn right back around?
 — Source: Jedi Counselling/Jedi Counseling 11 - Illusion Confusion.pdf [Star Wars R.
 Note (our notes, around the quote): Obi-Wan Kenobi; Elan Sleazebaggano — entry/section: Affect Mind: Obi-Wan and Elan Sleazebaggano (question): "Q: My players and I were wondering if the Force skill Affect Mind has a duration. For example, in Attack of the Clones, Obi-Wan Kenobi tells Elan Sleazebaggano, the death stick dealer, to go home and rethink his life. So, did Obi-Wan just stop the guy from dealing death sticks with a wave of his hand? Or did Sleazebaggano walk out of the nightclub, head home, suddenly decide he was being foolish, and turn right back around?" Source: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d174-s2-q-my-players-and-i-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/174-jedi-counseling-11-illusion-confusion.md:22`
 
 - Note (summary from our notes, not a quotation): Obi-Wan Kenobi; Elan Sleazebaggano — entry/section: Affect Mind: what Elan did afterward: "A: A character affected by the "suggestion" aspect of Affect Mind will try to carry out the suggestion, after which he's free to do whatever he wants. In the case of Obi-Wan at the bar with Elan Sleazebaggano, Elan went home, rethought his life, and either decided that he didn't mind dealing in death sticks or decided to go straight. In either case, he carried out the instruction he was given, but Obi-Wan didn't force him to change his life -- just to think about doing so." Source: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 11 - Illusion Confusion.pdf [Star Wars R.
-![Quote image: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d174-s2-a-a-character-affected-by-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/174-jedi-counseling-11-illusion-confusion.md:24`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -86,7 +84,6 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:484`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #79 (2005); Elan Sleazebaggano — entry/section: Elan's ears correction.
 Note (our notes, around the quote): Elan Sleazebaggano — entry/section: Elan's ears correction: ""I hang my head low, but it's true that I hadn't remembered that Hasbro did indeed resculpt Elan's head so hair covered his ears...so wasn't I right for the wrong reasons?" —Steve Sansweet, Star Wars Insider 79, p. 73" Source: *Star Wars Insider #79* (2005), scan p.73
-![Quote image: *Star Wars Insider #79* (2005), scan p.73 — full quote as printed](quotes/ins079-s73-i-hang-my-head-low-but.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:486`
 
 ## Star Wars Insider #117 (2010)

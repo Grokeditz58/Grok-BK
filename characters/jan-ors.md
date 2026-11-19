@@ -28,7 +28,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > Kyle learned the truth, however, from a Rebel agent named Jan Ors: His father had been captured by the Empire for treason, and killed by the Dark JediJerec.
 — Source: scan pages 201–240; Kyle Katarn — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Katarn, Kyle: "Kyle learned the truth, however, from a Rebel agent named Jan Ors: His father had been captured by the Empire for treason, and killed by the Dark JediJerec." Source: The Complete Star Wars Encyclopedia, Vol. II, p.202
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.202 — full quote as printed](quotes/v2-p202-kyle-learned-the-truth-however-from.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:67`
 
 - Note (summary from our notes, not a quotation): Page contents: 1055 words, 32 paragraphs | headings/entries: Orou'cya, Ceok; Orowood Tower; Orren, Yotts; Orrimaarko; Orrk, Guildmaster; Orr-Om; Orron Wl; Orr'UrRuuR'R; Orryxian; Ors, Jan; Orsk, Captain; Orthavan; Orto
@@ -58,13 +57,11 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 > Thus, Kyle joined the Academy on Carida as soon as he turned 18, hoping to alleviate some of the burden on his father while getting a first-rate free education. At the Academy, Kyle excelled at cybernetics systems theory and information engineering. Tragedy struck again, however, when the Dark Jedi Jerec discovered Morgan Katarn's Rebel ties and personally beheaded him. When Kyle discovered the treachery of his Imperial masters, he went rogue, working as a mercenary, pirate, and loose Rebel operative with his close friend Jan Ors to undermine the Imperial war machine.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Morgan Katarn; Jan Ors — entry/section: Kyle goes rogue: "Thus, Kyle joined the Academy on Carida as soon as he turned 18, hoping to alleviate some of the burden on his father while getting a first-rate free education. At the Academy, Kyle excelled at cybernetics systems theory and information engineering. Tragedy struck again, however, when the Dark Jedi Jerec discovered Morgan Katarn's Rebel ties and personally beheaded him. When Kyle discovered the treachery of his Imperial masters, he went rogue, working as a mercenary, pirate, and loose Rebel operative with his close friend Jan Ors to undermine the Imperial war machine." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-thus-kyle-joined-the-academy-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:14`
 
 > One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Qu Rahn; Jan Ors; Morgan Katarn; Lord Kaan — entry/section: Kyle on Ruusan: "One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-one-year-after-the-destruction-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:16`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -76,24 +73,20 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > Why Jan Ors left the extremist group for the Alliance is one of the operative's many mysteries, though it's suspected that the close relationship her parents shared with Mon Mothma years before had something to do with it. Jan had already infiltrated Imperial Intelligence under the name Jan Strange when she contacted the Alliance, providing priceless counter-intelligence. Within Intell, she and Imperial cadet Kyle Katarn had their first brief interactions, though the two remained largely oblivious to each other.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Mon Mothma; Kyle Katarn — entry/section: Jan Ors infiltrates Imperial Intelligence: "Why Jan Ors left the extremist group for the Alliance is one of the operative's many mysteries, though it's suspected that the close relationship her parents shared with Mon Mothma years before had something to do with it. Jan had already infiltrated Imperial Intelligence under the name Jan Strange when she contacted the Alliance, providing priceless counter-intelligence. Within Intell, she and Imperial cadet Kyle Katarn had their first brief interactions, though the two remained largely oblivious to each other." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-why-jan-ors-left-the-extremist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:12`
 
 > Yet the stage was set. When Jan crossed paths with Kyle again during a wild and bloody Imperial raid on the asteroid AX-456, the extreme circumstances, including Kyle's newfound self-confidence (not to mention facial hair), along with Jan's Rebel fatigues, combined to create a surreal encounter. Locking eyes for the first time, Jan and Kyle shared a heartstopping moment of vague recognition, as if they'd once met in a dream. Their destinies henceforth became permanently intertwined.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Kyle Katarn — entry/section: Jan and Kyle lock eyes: "Yet the stage was set. When Jan crossed paths with Kyle again during a wild and bloody Imperial raid on the asteroid AX-456, the extreme circumstances, including Kyle's newfound self-confidence (not to mention facial hair), along with Jan's Rebel fatigues, combined to create a surreal encounter. Locking eyes for the first time, Jan and Kyle shared a heartstopping moment of vague recognition, as if they'd once met in a dream. Their destinies henceforth became permanently intertwined." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-yet-the-stage-was-set-when.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:14`
 
 - Note (summary from our notes, not a quotation): Jan Ors; Kyle Katarn; Mara Jade Skywalker; Mon Mothma; Admiral Hiram Drayson — entry/section: Jan and Kyle declare their love: "Her attitude changed, however, during the race for the Valley of the Jedi, during which Jan and Kyle declared their love. As freedom fighters, Jan and Kyle's relationship was far from ideal, particularly with Kyle's dark mood swings and the close bond he formed with the former Emperor's Hand Mara Jade, but the pair pulled through. On Mon Mothma's recommendation, Jan joined Admiral Hiram Drayson's secretive Alpha Blue intelligence agency, where she helped expose the Yevethan hypocrisy. She also kept a vigilant eye on ambiguous threats like the socialites of the Order of the Canted Circle and the Azurite Society of Lords, and the "retired" Grand Admiral Grant. In her new capacity, Jan was able to assign Kyle and accompany him on off-the-record missions against the Imperial Remnant." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-her-attitude-changed-however-during-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:16`
 
 > Eventually, Admiral Drayson retired from Alpha Blue and Jan took over his position -- just in time for the Yuuzhan Vong invasion. During the crisis, she enlisted the aid of Lurrian genetic engineers and the Chiss, among others, for a way to defeat the enemy, ultimately resulting in the genocidal concoction codenamed Alpha Red. More recently, she has spent every spare moment working with Kyle's one-time Jedi apprentice Jaden Korr, zealously searching for any leads to Kyle's whereabouts.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Admiral Hiram Drayson; Jaden Korr; Kyle Katarn — entry/section: Jan heads Alpha Blue: "Eventually, Admiral Drayson retired from Alpha Blue and Jan took over his position -- just in time for the Yuuzhan Vong invasion. During the crisis, she enlisted the aid of Lurrian genetic engineers and the Chiss, among others, for a way to defeat the enemy, ultimately resulting in the genocidal concoction codenamed Alpha Red. More recently, she has spent every spare moment working with Kyle's one-time Jedi apprentice Jaden Korr, zealously searching for any leads to Kyle's whereabouts." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-eventually-admiral-drayson-retired-from-alpha.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:18`
 
 - Note (summary from our notes, not a quotation): Page contents: Jan stats end; Adventure Seed: Jedi Search (Daye Azur-Jamin, Force-strong Yuuzhan Vong); Qu Rahn, Jedi Master: Katarn Clan, Yoda's gold lightsaber, Valley search, Morgan Katarn, capture and death at Jerec's hands, vision of Anakin and Ventor; Qu Rahn stats (hand-read)
@@ -103,7 +96,6 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > The Moldy Crow was produced approximately a decade after the last Old Republic Battle of Coruscant as part of the Corellian Engineering Corporation's Hawk series of transports. One of the ship's earliest owners was the smuggler Roark Garnet, who, after inheriting the Dorion Discus from his dead gunslinging sister Neena, used it as payment for debts incurred to Grappa the Hutt. Filched from Grappa by Dace Bonearm and IG-72, the Moldy Crow was subsequently dumped on the planet Teth after the two hunters used it as a decoy to capture Rebel commander Winfrid Dagore and claim the Imperial bounty on her. The Crow then fell into the hands of Lieutenant Palob Godalhi, who gave up the beat-up freighter to the Rebel dreadnaught New Hope. There it was refitted and later requisitioned by Kyle Katarn, though Jan Ors more frequently piloted the ship. The Crow was demolished during Kyle and Jan's mission to the Valley of the Jedi, and eventually replaced by the ship Raven's Claw.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa; Kyle Katarn; Jan Ors — entry/section: The Moldy Crow.
 Note (our notes, around the quote): Kyle Katarn; Jan Ors — entry/section: The Moldy Crow: "The Moldy Crow was produced approximately a decade after the last Old Republic Battle of Coruscant as part of the Corellian Engineering Corporation's Hawk series of transports. One of the ship's earliest owners was the smuggler Roark Garnet, who, after inheriting the Dorion Discus from his dead gunslinging sister Neena, used it as payment for debts incurred to Grappa the Hutt. Filched from Grappa by Dace Bonearm and IG-72, the Moldy Crow was subsequently dumped on the planet Teth after the two hunters used it as a decoy to capture Rebel commander Winfrid Dagore and claim the Imperial bounty on her. The Crow then fell into the hands of Lieutenant Palob Godalhi, who gave up the beat-up freighter to the Rebel dreadnaught New Hope. There it was refitted and later requisitioned by Kyle Katarn, though Jan Ors more frequently piloted the ship. The Crow was demolished during Kyle and Jan's mission to the Valley of the Jedi, and eventually replaced by the ship Raven's Claw." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d129-s3-the-moldy-crow-was-produced-approximately.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:48`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -115,7 +107,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 - Note (summary from our notes, not a quotation): To punish her, Palpatine has sent his minions to intercept Mara during her trip to the Senex sector as a representative of the Smugglers' Alliance. Though Luke is busy along with the rest of the New Republic dealing with an Imperial Mutiny taking place in the Core Worlds, he calls in a favor to Jan Ors at New Republic Intelligence. Ors has dispatched a ragtag group of heroes led by the equally maverick Jedi Kyle Katarn.
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 (The heroes will have to help free Mara from the clutches of one of the Emperor's powerful dark side adepts, the former Prophet of the Dark Side Blackhole, and report to Kyle and Luke about clues they've discovered concerning a Sith temple." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2)
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d132-s2-over-the-years-convalescing-on-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:38`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 4/413 - The Replacements.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -126,7 +117,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: ""Welcome to Cularin Stellar Tours... I know the place doesn't look like much, but believe you me, we are busier than a Jedi at a Separatist Rally."" Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.5
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.5 — full quote as printed](quotes/d335-p5-welcome-to-cularin-stellar-tours-i.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:34`
 
 > A welldressed, middle-aged human man beckons. He sports a receding, salt and peppered hairline, a bit of a paunch and a confident swagger as he motions around the docking bay with a friendly sweep of his arm. "Name's Janvar Jan, and I'm glad you've all decided to come by. I don't know how you heard about my little operation, but the fact is, I need some reliable help for the next several weeks..." Jan pauses for a moment, as he seems to react to the flicker of a response from one of your group. "I know what you're probably thinking... another fly-by-night contract, someone needs an errand run... find my lost mynock... and so on. It's more than that. You see, people's lives are going to depend on you. Come with me to our conference room." Jan leads the way into the administrative section of his docking bay complex. The hallways are tidy, well lit and decorated nicely with potted plants and holovids of various locations throughout Cularin. The conference room is similarly decorated, and the furniture seems like it has only just been removed from shipping crates - the chair cushions are crisp as you sit in them, and there is a hint of 'new-furniture smell' in the room.
@@ -135,7 +125,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:34`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: ""I know what you're probably thinking... another fly-by-night contract, someone needs an errand run... find my lost mynock... and so on. It's more than that. You see, people's lives are going to depend on you. Come with me to our conference room."" Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.5
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.5 — full quote as printed](quotes/d335-p5-i-know-what-youre-probably-thinking.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:36`
 
 > You see, people's lives are going to depend on you. Come with me to our conference room." Jan leads the way into the administrative section of his docking bay complex. The hallways are tidy, well lit and decorated nicely with potted plants and holovids of various locations throughout Cularin. The conference room is similarly decorated, and the furniture seems like it has only just been removed from shipping crates - the chair cushions are crisp as you sit in them, and there is a hint of 'new-furniture smell' in the room. "Ever since the Cularin system reappeared, people from all over the galaxy have been rushing to visit the system. After all, how often does someone get to visit system that vanishes without a trace for 10 years?” “CST caters to groups who want to cruise around in style. We rent top-of the line space yachts to a lot of high-profile clients. I don't have to tell most of you that Cularin can be a dangerous place... which is why you are here – I need a crew to staff my search and rescue ship.” The heroes are likely to have questions.
@@ -143,7 +132,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:36`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: ""Ever since the Cularin system reappeared, people from all over the galaxy have been rushing to visit the system. After all, how often does someone get to visit system that vanishes without a trace for 10 years?"" Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.5
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.5 — full quote as printed](quotes/d335-p5-ever-since-the-cularin-system-reappeared.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:38`
 
 > I know this is short notice – my regular crew doesn't get paid this much – but I need to get this show on the road. Just a week? That doesn't seem very long. Don't take this the wrong way... but you are replacement crew for my company. I had contracted a ship and crew from Naboo for search and rescue, but the constant fighting between the Republic and Separatists has cut them off from getting to Cularin for another week. Why all this fuss for just a week? Its the insurance underwriters... they insist I provide 'emergency assistance' services to my clients while within the Cularin system. Seems like insurance premiums are up quite a bit for star systems that tend to jump through time. Really? Sounds like you're in a tight spot. I think our services are worth 2500 credits. You drive a hard bargain.
@@ -152,7 +140,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:38`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: "Its the insurance underwriters... they insist I provide 'emergency assistance' services to my clients while within the Cularin system. Seems like insurance premiums are up quite a bit for star systems that tend to jump through time." Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.5
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.5 — full quote as printed](quotes/d335-p5-its-the-insurance-underwriters-they-insist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:40`
 
 - Note (summary from our notes, not a quotation): Page contents: Title and blurb; boilerplate and house rules; GM and scenario overview (Janvar Jan's smuggling scheme); encounter summaries; judges' note; opening crawl (hand-read)
@@ -165,7 +152,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:45`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: "You see, Cularin has a bit of an issue with 'local authorities'... there aren't many." Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.6
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.6 — full quote as printed](quotes/d335-p6-you-see-cularin-has-a-bit.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:52`
 
 > Their choices determine how capable their ship is once they first take it into active duty. A ship in need of repairs Most medium transport ships have a reputation for being capable and reliable vehicles. The ship you see before you, however, seems more busted than robust. The transport class vehicle looks like it must have been through a meteor collision, some fateful space battle, or perhaps both. Hull plating is scorched beyond belief, and in some areas is missing altogether. Exposed converters and wiring stick out almost everywhere and the strong scent of a number of hazardous chemicals assault your sense of smell. “I know it doesn't look like much... but believe you me – some new parts, some paint and she'll be as good as new.” Jan beams. “For what its worth, consider yourselves on the job. I've given you all access to a joint credit account. I know it's only ten thousand credits, but you ought to be able to get this baby up and running for that.
@@ -174,7 +160,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:52`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: ""I know it doesn't look like much... but believe you me — some new parts, some paint and she'll be as good as new." Jan beams." Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.6
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.6 — full quote as printed](quotes/d335-p6-i-know-it-doesnt-look-like.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:54`
 
 > This is a very useful ability in a smuggling operation. The one glitch at the moment is that these The Replacements Page 12 three smugglers are expecting the Naboo crew, not out heroes. They don't want any trouble, and as soon as they detect that these people may not want to partake in the smuggling operation, they pack up and disappear. The three strangers appear to pose no threat, though they do appear to be armed with blaster pistols on their hips. Their garb seems appropriate to spacers. Once the heroes decide to communicate with them, read the following. “You are come out now!” one of the Rodians says in thickly accented basic. “We are for Mr. Jan.” Some points of conversation are covered below. Use them as a basis for the roleplaying in this encounter.
@@ -183,7 +168,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:54`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Rodian smuggler: ""You are come out now!" one of the Rodians says in thickly accented basic. "We are for Mr. Jan."" Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.12
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.12 — full quote as printed](quotes/d335-p12-you-are-come-out-now-one.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:96`
 
 > We are to you signaling for the pickup. The Rodian shrugs. He points to a pile of 10 or so crates near the yacht. For Mr. Jan we have his crate. So... that's not really The Crest of Dawn? Today, Crest of Dawn... tomorrow different ship. It is Jan's way. Is clever? Three ships registered, fourth ship not registered – can be any of three registered ships. So... there is no real distress call? Only distress is in head. You are knowing to come when we call, right? the Rodian seems to state more than ask. We are calling, you are coming because we have for Jan the crates that are of Jan!
@@ -192,7 +176,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:96`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Full sentence/passage taken from the source text on file: `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Rodian smuggler: "Today, Crest of Dawn... tomorrow different ship. It is Jan's way. Is clever? Three ships registered, fourth ship not registered — can be any of three registered ships." Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.12
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.12 — full quote as printed](quotes/d335-p12-today-crest-of-dawn-tomorrow-different.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:98`
 
 - Note (summary from our notes, not a quotation): Page contents: E1 hired by Janvar Jan; E2 refitting the Starchaser IV; E3a the Kyak family; E3b the mynocks on the Perihelion; E3c the fourth-yacht smugglers at Tolea Biqua (hand-read)
@@ -212,7 +195,6 @@ Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:244`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 413 The Replacements (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_413_The_Replacements_pdf_c395464efb`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Janvar Jan: "Janvar Jan is a very good-looking man, which goes along way to hide his ugly personality. A career criminal, Jan is now middle aged. Gone are the days of foolish risks and daredevil jobs. Now he is careful and experienced — a dangerous combination in a criminal." Source: *413 - The Replacements* (SWRPG d20 Revised Core), p.32
-![Quote image: *413 - The Replacements* (SWRPG d20 Revised Core), p.32 — full quote as printed](quotes/d335-p32-janvar-jan-is-a-very-good.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/335-413-the-replacements.md:246`
 
 - Note (summary from our notes, not a quotation): Page contents: XP and loot; player handouts (hooks, New Comer's Guide, CST ad, repair decisions, jungle map); GM Aids 1-6 (Janvar Jan, Wayfarer, manifest, jungle events, Shiana Trist, pacing) (hand-read)
@@ -295,13 +277,11 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:617`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Quinlan Vos — entry/section: Jan Duursema on the origin of Quinlan Vos: "The result was Quinlan Vos, who, as Duursema explains, "came from the design of a background character in the outdoor cantina scene on Tatooine," —Jan Duursema, Star Wars Insider 59, p. 85" Source: *Star Wars Insider #59* (2002), scan p.85
-![Quote image: *Star Wars Insider #59* (2002), scan p.85 — full quote as printed](quotes/ins059-s85-the-result-was-quinlan-vos-who.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:619`
 
 > It's got the best of Episode I and the best of the classic trilogy. It's the story. Obi-Wan and Anakin. The Master and the apprentice. It's the story we've all anticipated.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker) — entry/section: Jan Duursema on Attack of the Clones: ""It's got the best of Episode I and the best of the classic trilogy. It's the story. Obi-Wan and Anakin. The Master and the apprentice. It's the story we've all anticipated." —Jan Duursema, Star Wars Insider 59, p. 85" Source: *Star Wars Insider #59* (2002), scan p.85
-![Quote image: *Star Wars Insider #59* (2002), scan p.85 — full quote as printed](quotes/ins059-s85-its-got-the-best-of-episode.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:623`
 
 ## Star Wars Insider #60 (2002)
@@ -347,7 +327,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:471`
 > He was playing up the darker aspects of his nature and pretending to be [on the] dark side, but he's gotten in way too deep. He believes he is still deceiving Dooku. He thinks he has everything under control – that he can tap into the dark side and still remain a Jedi. By the end of the story, it's up to the reader to decide which side Quin is truly on.
 — Source: Star Wars Insider #74 (2004); Quinlan Vos; Count Dooku — entry/section: Duursema on Quin undercover.
 Note (our notes, around the quote): Quinlan Vos; Count Dooku — entry/section: Duursema on Quin undercover: ""Quin is like the cop who goes underground to ferret out drug dealers and gets caught up in their world," says artist Jan Duursema. "He was playing up the darker aspects of his nature and pretending to be [on the] dark side, but he's gotten in way too deep. He believes he is still deceiving Dooku. He thinks he has everything under control – that he can tap into the dark side and still remain a Jedi. By the end of the story, it's up to the reader to decide which side Quin is truly on." —Jan Duursema, Star Wars Insider 74, p. 68" Source: *Star Wars Insider #74* (2004), scan p.68
-![Quote image: *Star Wars Insider #74* (2004), scan p.68 — full quote as printed](quotes/ins074-s68-quin-is-like-the-cop-who.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:473`
 
 > I think it's possible for someone to be so unredeemable and so tainted by the dark side that they can never come back to the light,
@@ -356,7 +335,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:473`
 > [Darth] Sidious could never come back. The dark side corrupted him beyond redemption. It's my feeling that Dooku does not consider himself to be evil. Disillusioned with what he saw in the Republic, he took another path: the wrong path. I think Dooku could come back from the dark side because it's his ideals that tempted him there. And Quin, like Dooku, has taken the wrong path for all the right reasons.
 — Source: Star Wars Insider #74 (2004); Palpatine (Darth Sidious); Count Dooku — entry/section: Duursema on redemption.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Count Dooku — entry/section: Duursema on redemption: ""I think it's possible for someone to be so unredeemable and so tainted by the dark side that they can never come back to the light," says Duursema. "[Darth] Sidious could never come back. The dark side corrupted him beyond redemption. It's my feeling that Dooku does not consider himself to be evil. Disillusioned with what he saw in the Republic, he took another path: the wrong path. I think Dooku could come back from the dark side because it's his ideals that tempted him there. And Quin, like Dooku, has taken the wrong path for all the right reasons." —Jan Duursema, Star Wars Insider 74, pp. 69–70" Source: *Star Wars Insider #74* (2004), scan p.69
-![Quote image: *Star Wars Insider #74* (2004), scan p.69 — full quote as printed](quotes/ins074-s69-i-think-its-possible-for-someone.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:480`
 
 ## Star Wars Insider #75 (2004)
@@ -389,13 +367,11 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:516`
 > He thinks he can handle the situation as long as he uses what he has learned of the dark side to help win the war for the Republic.
 — Source: Star Wars Insider #77 (2004); Quinlan Vos; Aayla Secura — entry/section: A shadowed path.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura — entry/section: A shadowed path: ""Quin has been walking a shadowed path and has not admitted to himself that he is falling to the dark side," says artist Jan Duursema. "He thinks he can handle the situation as long as he uses what he has learned of the dark side to help win the war for the Republic." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-quin-has-been-walking-a-shadowed.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:518`
 
 > A clone's armor is visible and tangible. The Jedi's armor is the Force. Aayla's faith and trust in Quin seems to be part of her armor—or is it the flaw in it?
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: The Jedi's armor is the Force: ""A clone's armor is visible and tangible. The Jedi's armor is the Force. Aayla's faith and trust in Quin seems to be part of her armor—or is it the flaw in it?" —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-a-clones-armor-is-visible-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:520`
 
 > We knew there had to be a confrontation between them,
@@ -404,7 +380,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:520`
 > Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: Aayla had to open Quin's eyes: ""We knew there had to be a confrontation between them," says Duursema, speaking of the straight-arrow Jedi student and her deeply flawed mentor. "Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-we-knew-there-had-to-be.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:522`
 
 > Aayla usually trusts her instincts, but her emotional attachment to her former Master is clouding her judgment,
@@ -413,13 +388,11 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:522`
 > Quin is part of her armor—her faith in him and all that he taught her protects her. Her attachment to him is also the flaw in her armor.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: The flaw in her armor: ""Aayla usually trusts her instincts, but her emotional attachment to her former Master is clouding her judgment," says Duursema. "Quin is part of her armor—her faith in him and all that he taught her protects her. Her attachment to him is also the flaw in her armor." —Jan Duursema, Star Wars Insider 77, p. 83" Source: *Star Wars Insider #77* (2004), scan p.83
-![Quote image: *Star Wars Insider #77* (2004), scan p.83 — full quote as printed](quotes/ins077-s83-aayla-usually-trusts-her-instincts-but.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:531`
 
 > Is the dark side still wrong if it is used to win a war for the 'good guys'?
 — Source: Star Wars Insider #77 (2004); Quinlan Vos — entry/section: Is the dark side still wrong?.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Is the dark side still wrong?: ""Is the dark side still wrong if it is used to win a war for the 'good guys'?" she asks. —Jan Duursema, Star Wars Insider 77, p. 83" Source: *Star Wars Insider #77* (2004), scan p.83
-![Quote image: *Star Wars Insider #77* (2004), scan p.83 — full quote as printed](quotes/ins077-s83-is-the-dark-side-still-wrong.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:533`
 
 ## Star Wars Insider #83 (2005)
@@ -468,7 +441,6 @@ Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:276`
 > We wanted a new and unique take on someone with the family name. We thought about creating a dark-haired Skywalker, but every time I started to draw him, it didn't sit right.
 — Source: Star Wars Insider #89 (2006); Cade Skywalker — entry/section: Designing Cade.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Designing Cade: ""Cade was one of the toughest," Duursema says. "We wanted a new and unique take on someone with the family name. We thought about creating a dark-haired Skywalker, but every time I started to draw him, it didn't sit right." —Jan Duursema, Star Wars Insider 89, p. 48" Source: *Star Wars Insider #89* (2006), scan p.48
-![Quote image: *Star Wars Insider #89* (2006), scan p.48 — full quote as printed](quotes/ins089-s48-cade-was-one-of-the-toughest.jpg)
 Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:293`
 
 ## Star Wars Insider #90 (2006)
@@ -498,20 +470,17 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:645`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007); Cade Skywalker — entry/section: Wake-up call.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Wake-up call: ""Cade could use a wake-up call," —Jan Duursema, Star Wars Insider 94, p. 64" Source: *Star Wars Insider #94* (2007), scan p.64
-![Quote image: *Star Wars Insider #94* (2007), scan p.64 — full quote as printed](quotes/ins094-s64-cade-could-use-a-wake-up.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:647`
 
 > Have they given up their vision of galactic conquest and turned their amphistaffs into plowshares? Or do some still remember the old days?
 — Source: Star Wars Insider #94 (2007); none — entry/section: Amphistaffs into plowshares.
 Note (our notes, around the quote): none — entry/section: Amphistaffs into plowshares: ""Have they given up their vision of galactic conquest and turned their amphistaffs into plowshares? Or do some still remember the old days?" —Jan Duursema, Star Wars Insider 94, p. 64" Source: *Star Wars Insider #94* (2007), scan p.64
-![Quote image: *Star Wars Insider #94* (2007), scan p.64 — full quote as printed](quotes/ins094-s64-have-they-given-up-their-vision.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:651`
 
 > I'm a fan myself, and it's tough to take the geek out of the artist,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007); none — entry/section: Geek out of the artist.
 Note (our notes, around the quote): none — entry/section: Geek out of the artist: ""I'm a fan myself, and it's tough to take the geek out of the artist," —Jan Duursema, Star Wars Insider 94, p. 65" Source: *Star Wars Insider #94* (2007), scan p.65
-![Quote image: *Star Wars Insider #94* (2007), scan p.65 — full quote as printed](quotes/ins094-s65-im-a-fan-myself-and-its.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:667`
 
 ## Star Wars Insider #96 (2007)
@@ -527,7 +496,6 @@ Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:423`
 > I guess the question remains, is having a 'good' Empire kind of like using the dark side for good?
 — Source: Star Wars Insider #96 (2007); none — entry/section: Good Empire.
 Note (our notes, around the quote): none — entry/section: Good Empire: ""I guess the question remains, is having a 'good' Empire kind of like using the dark side for good?" —Jan Duursema, Star Wars Insider 96, p. 48" Source: *Star Wars Insider #96* (2007), scan p.48
-![Quote image: *Star Wars Insider #96* (2007), scan p.48 — full quote as printed](quotes/ins096-s48-i-guess-the-question-remains-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:427`
 
 ## Star Wars Insider #98 (2008)
@@ -541,7 +509,6 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:256`
 > Bantha and his clan are the closest thing to family  for Cade. He never knew his mother, though by now he has at least met her, and at some point he had to find Bantha after the fall of Ossus. John and I knew a lot about Bantha, but what kind of woman would he find compatible? Droo is a rare, one of a kind woman who can kill a man a dozen different ways before breakfast, as well as make a mean bilaberry patoga. The 'kits' were also  fun to invent and each has their own personality. I see the Rawks as another layer in Cade's life where he can go when things get too hot.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: the Rawks: "Says artist Jan Duursema, "Bantha and his clan are the closest thing to family  for Cade. He never knew his mother, though by now he has at least met her, and at some point he had to find Bantha after the fall of Ossus. John and I knew a lot about Bantha, but what kind of woman would he find compatible? Droo is a rare, one of a kind woman who can kill a man a dozen different ways before breakfast, as well as make a mean bilaberry patoga. The 'kits' were also  fun to invent and each has their own personality. I see the Rawks as another layer in Cade's life where he can go when things get too hot." —Jan Duursema, Star Wars Insider 101, p. 61" Source: *Star Wars Insider #101* (2008), scan p.61
-![Quote image: *Star Wars Insider #101* (2008), scan p.61 — full quote as printed](quotes/ins101-s61-says-artist-jan-duursema-bantha-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:672`
 
 > Luke and Vader's story is one of a wayward father redeemed,
@@ -550,7 +517,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:672`
 > Cade and Krayt have a different sort of affiliation.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Cade Skywalker; Darth Krayt — entry/section: Duursema: different affiliation: ""Luke and Vader's story is one of a wayward father redeemed," explains Duursema. "Cade and Krayt have a different sort of affiliation." —Jan Duursema, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-luke-and-vaders-story-is-one.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:688`
 
 > Cade is so much more than I initially saw him as,
@@ -559,7 +525,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:688`
 > He really rankled me at first, but with each story we have done, I have seen more of his personality revealed. That's not to say that at times I don't think he wouldn't suffer much for a whack upside his head, but I am enjoying the journey.
 — Source: Star Wars Insider #101 (2008); Cade Skywalker — entry/section: Duursema: Cade grew on me.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: Cade grew on me: ""Cade is so much more than I initially saw him as," admits Duursema. "He really rankled me at first, but with each story we have done, I have seen more of his personality revealed. That's not to say that at times I don't think he wouldn't suffer much for a whack upside his head, but I am enjoying the journey." —Jan Duursema, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-cade-is-so-much-more-than.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:692`
 
 ## Star Wars Insider #102 (2008)
@@ -575,13 +540,11 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:515`
 > Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever.
 — Source: Star Wars Insider #114 (2010); Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death: ""Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever." —Jan Duursema, Star Wars Insider 114, p. 58" Source: *Star Wars Insider #114* (2010), scan p.58
-![Quote image: *Star Wars Insider #114* (2010), scan p.58 — full quote as printed](quotes/ins114-s58-cade-found-that-taking-down-krayt.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:323`
 
 > Two Sith in a room always equals trouble. Put Nyna Calixte into that room and war is likely. Krayt's death has caused internal strife within the Sith Empire as factions see opportunities arising.
 — Source: Star Wars Insider #114 (2010).
 Note (our notes, around the quote): Darth Wyyrlok III; Nyna Calixte — entry/section: Duursema: Sith infighting after Krayt's death: ""Two Sith in a room always equals trouble. Put Nyna Calixte into that room and war is likely. Krayt's death has caused internal strife within the Sith Empire as factions see opportunities arising." —Jan Duursema, Star Wars Insider 114, p. 59" Source: *Star Wars Insider #114* (2010), scan p.59
-![Quote image: *Star Wars Insider #114* (2010), scan p.59 — full quote as printed](quotes/ins114-s59-two-sith-in-a-room-always.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:330`
 
 ## Star Wars Insider #118 (2010)
@@ -601,7 +564,6 @@ Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:325`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #121 (2010); Darth Krayt — entry/section: Duursema on the resurrected Krayt.
 Note (our notes, around the quote): Darth Krayt — entry/section: Duursema on the resurrected Krayt: """In Legacy: War we see Krayt free of the Vong parasites and at the most powerful he's ever been," she says. "It's as if the Yuuzhan Vong biots were dampening his power. I wanted the new design to reflect all that he had been through. I finally decided on giving him an aged look, like a mummy who has been reanimated, but I kept him looking strong. He is a being who has defeated age and disease. He has cheated death and believes himself to be immortal. He is the Krayt who would have been, had the Yuuzhan Vong not experimented on him."" —Jan Duursema, Star Wars Insider 121, p. 62" Source: *Star Wars Insider #121* (2010), scan p.62
-![Quote image: *Star Wars Insider #121* (2010), scan p.62 — full quote as printed](quotes/ins121-s62-in-legacy-war-we-see-krayt.jpg)
 Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:329`
 
 > Cade has a real love/hate relationship with the Force,
@@ -613,7 +575,6 @@ Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:329`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #121 (2010); Cade Skywalker — entry/section: Duursema on Cade and the Force.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema on Cade and the Force: """Cade has a real love/hate relationship with the Force," explains Duursema. "He hates the Sith for destroying the Jedi Order and killing his father. He blames the Jedi for losing to the Sith and has lost respect for their purported power in the Force. Cade is strong in the Force, but is connected to both dark and light in an awkward balancing act."" —Jan Duursema, Star Wars Insider 121, p. 62" Source: *Star Wars Insider #121* (2010), scan p.62
-![Quote image: *Star Wars Insider #121* (2010), scan p.62 — full quote as printed](quotes/ins121-s62-cade-has-a-real-love-hate.jpg)
 Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:331`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks: a fan's first convention (Filoni Season Three panel, Seth Green, Ashley Eckstein, Aaron Allston, Troy Denning, Shelly Shapiro, Jan Duursema); Mary Franklin's "First Fan in Line" thanks to her volunteer Elite Squad (fan and volunteer names omitted). (hand-read)
@@ -632,7 +593,6 @@ Our notes: `notes/materials/038-star-wars-insider/130-ins130.md:10`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #132 (2012).
 Note (our notes, around the quote): Xesh — entry/section: Duursema: Rakata dark-side tech and the Force Hound Xesh: ""The Rakata have a kind of hyperdrive technology and possess ships powered by the dark side ... Rakata overlords use Force-sensitive beings they call Force Hounds to seek out worlds to dominate. One Force Hound named Xesh finds his story and destiny interwoven with the Je'daii on Tython." —Jan Duursema, Star Wars Insider 132, p. 64" Source: *Star Wars Insider #132* (2012), scan p.64
-![Quote image: *Star Wars Insider #132* (2012), scan p.64 — full quote as printed](quotes/ins132-s64-the-rakata-have-a-kind-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:345`
 
 ## Star Wars Insider #141 (2013)

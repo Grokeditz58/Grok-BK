@@ -21,7 +21,6 @@ Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:148`
 > What they discover of the Nosaurians' fate deeply affects not only Greenbark and Jennir, but Darth Vader as well.
 — Source: Star Wars Insider #90 (2006).
 Note (our notes, around the quote): Dass Jennir; Darth Vader (Anakin Skywalker) — entry/section: Stradley on The Path to Nowhere: ""After fighting a losing war against the Grand Army of the Republic, Jedi Master Dass Jennir and Nosaurian Separatist leader Bomo Greenbark set out to locate refugees from the Nosaurian homeworld," summarizes editor Randy Stradley. "What they discover of the Nosaurians' fate deeply affects not only Greenbark and Jennir, but Darth Vader as well." —Randy Stradley, Star Wars Insider 90, p. 26" Source: *Star Wars Insider #90* (2006), scan p.26
-![Quote image: *Star Wars Insider #90* (2006), scan p.26 — full quote as printed](quotes/ins090-s26-after-fighting-a-losing-war-against.jpg)
 Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:150`
 
 - Note (summary from our notes, not a quotation): Page contents: Dark Times cont.: Harrison on Dass Jennir, Wheatley; themes; X-Wing Rogue Squadron Omnibus Vol. 2 (Battleground Tatooine, The Warrior Princess, Requiem for a Rogue); Upcoming Star Wars Comics Oct 2006–Jan 2007 (hand-read)
@@ -34,7 +33,6 @@ Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:155`
 > Even Vader is discovering that being a Sith Lord isn't what he imagined it would be. For Jennir, there's no future in being a Jedi. For Bomo, there's no future without his missing family.
 — Source: Star Wars Insider #90 (2006).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Dass Jennir — entry/section: Harrison on Dark Times themes: ""Thematically, it's about how the rise of the Empire has changed the future for all of the characters," says Harrison. "Even Vader is discovering that being a Sith Lord isn't what he imagined it would be. For Jennir, there's no future in being a Jedi. For Bomo, there's no future without his missing family." —Mick Harrison, Star Wars Insider 90, p. 27" Source: *Star Wars Insider #90* (2006), scan p.27
-![Quote image: *Star Wars Insider #90* (2006), scan p.27 — full quote as printed](quotes/ins090-s27-thematically-its-about-how-the-rise.jpg)
 Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:157`
 
 ## Star Wars Insider #106 (2009)
@@ -42,7 +40,6 @@ Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:157`
 > The story is about Jennir trying to put his life back together and find his place in the galaxy. He did some bad things for good reasons in the first Dark Times arc [available as the trade paperback Star Wars: Dark Times—The Path to Nowhere] and none of it helped him or his friends in the end. Now he has to figure out, does he keep trying to be a Jedi in a galaxy that has turned its back? Or does he abandon his ideals and find some new way to survive?
 — Source: Star Wars Insider #106 (2009); Dass Jennir — entry/section: Mick Harrison on Dass Jennir.
 Note (our notes, around the quote): Dass Jennir — entry/section: Mick Harrison on Dass Jennir: ""The story is about Jennir trying to put his life back together and find his place in the galaxy. He did some bad things for good reasons in the first Dark Times arc [available as the trade paperback Star Wars: Dark Times—The Path to Nowhere] and none of it helped him or his friends in the end. Now he has to figure out, does he keep trying to be a Jedi in a galaxy that has turned its back? Or does he abandon his ideals and find some new way to survive?" —Mick Harrison, Star Wars Insider 106, p. 47" Source: *Star Wars Insider #106* (2009), scan p.47
-![Quote image: *Star Wars Insider #106* (2009), scan p.47 — full quote as printed](quotes/ins106-s47-the-story-is-about-jennir-trying.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:331`
 
 ## Star Wars Insider #109 (2009)
@@ -68,7 +65,6 @@ Our notes: `notes/materials/038-star-wars-insider/127-ins127.md:425`
 > Alone there is no way Jennir can stand against the Empire.
 — Source: Star Wars Insider #127 (2011).
 Note (our notes, around the quote): Dass Jennir; Darth Vader (Anakin Skywalker) — entry/section: Dark Times: Out of the Wilderness preview: ""Alone there is no way Jennir can stand against the Empire." —Mick Harrison (Randy Stradley), Star Wars Insider 127, p. 80" Source: *Star Wars Insider #127* (2011), scan p.80
-![Quote image: *Star Wars Insider #127* (2011), scan p.80 — full quote as printed](quotes/ins127-s80-alone-there-is-no-way-jennir.jpg)
 Our notes: `notes/materials/038-star-wars-insider/127-ins127.md:427`
 
 - Note (summary from our notes, not a quotation): Page contents: Dark Times: Jennir righting smaller wrongs; End of an Alias: Mick Harrison and Welles Hartley are pen names of Dark Horse editor Randy Stradley. (hand-read)
@@ -93,7 +89,6 @@ Our notes: `notes/materials/038-star-wars-insider/139-ins139.md:328`
 > As you might imagine, Vader's training is brutal: He gives Sang only two options: succeed or die. Naturally, Sang goes for a third choice: escape.
 — Source: Star Wars Insider #139 (2013).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Stradley on Vader training Falco Sang: ""To that end, Vader is training Falco Sang, the assassin who had been tracking Jennir," says Stradley. "As you might imagine, Vader's training is brutal: He gives Sang only two options: succeed or die. Naturally, Sang goes for a third choice: escape." —Randy Stradley, Star Wars Insider 139, p. 62" Source: *Star Wars Insider #139* (2013), scan p.62
-![Quote image: *Star Wars Insider #139* (2013), scan p.62 — full quote as printed](quotes/ins139-s62-to-that-end-vader-is-training.jpg)
 Our notes: `notes/materials/038-star-wars-insider/139-ins139.md:330`
 
 ## Star Wars Insider #143 (2013)

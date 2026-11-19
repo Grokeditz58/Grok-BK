@@ -40,7 +40,6 @@ Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:609`
 > Vader and Emperor Palpatine are the focus of 'Betrayal,' but a couple other surprise characters pop up. We've also invented a whole cast of high-ranking Imperial officers and an Imperial hit man. The series has a very dark edge to it.
 — Source: Star Wars Insider #62 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious); Trachta — entry/section: Scott Allie on Star Wars: Empire "Betrayal": ""It's all about the Imperial officers on Coruscant turning on the Sith Lords," he explains, and indeed the story seems as if it will satisfy even the hungriest of Empire-lovers. "Vader and Emperor Palpatine are the focus of 'Betrayal,' but a couple other surprise characters pop up. We've also invented a whole cast of high-ranking Imperial officers and an Imperial hit man. The series has a very dark edge to it." —Scott Allie, Star Wars Insider 62, p. 82" Source: *Star Wars Insider #62* (2002), scan p.82
-![Quote image: *Star Wars Insider #62* (2002), scan p.82 — full quote as printed](quotes/ins062-s82-its-all-about-the-imperial-officers.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:611`
 
 ## Star Wars Insider #133 (2012)

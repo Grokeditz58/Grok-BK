@@ -20,13 +20,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > Interrogator An Imperial Il-class Star Destroyer under the command of High Inquisitor Tremayne.
 — Source: scan pages 81–120; Antinnis Tremayne. POV: Antinnis Tremayne.
 Note (our notes, around the quote): Antinnis Tremayne: "Interrogator An Imperial Il-class Star Destroyer under the command of High Inquisitor Tremayne." Source: The Complete Star Wars Encyclopedia, Vol. II, p.108
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.108 — full quote as printed](quotes/v2-p108-interrogator-an-imperial-il-class-star.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:213`
 
 > In his anger, Nadd struck down his Master, Matta Tremayne, and succumbed to the dark side of the Force.
 — Source: scan pages 361–400; Freedon Nadd; Antinnis Tremayne — entry/section: Nadd, Freedon.
 Note (our notes, around the quote): Freedon Nadd; Antinnis Tremayne — entry/section: Nadd, Freedon: "In his anger, Nadd struck down his Master, Matta Tremayne, and succumbed to the dark side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-in-his-anger-nadd-struck-down.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:12`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -34,13 +32,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Parnet, General An Imperial officer serving beneath High Inquisitor Tremayne aboard the Star Destroyer /nterrogator.
 — Source: scan pages 1–40; Antinnis Tremayne. POV: Antinnis Tremayne.
 Note (our notes, around the quote): Antinnis Tremayne: "Parnet, General An Imperial officer serving beneath High Inquisitor Tremayne aboard the Star Destroyer /nterrogator." Source: The Complete Star Wars Encyclopedia, Vol. III, p.13
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.13 — full quote as printed](quotes/v3-p13-parnet-general-an-imperial-officer-serving.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:144`
 
 > Enraged, Shelvay attacked Tremayne, severing the Inquisitor's arm and forever scarring his face.
 — Source: scan pages 121–160; Antinnis Tremayne. POV: Antinnis Tremayne.
 Note (our notes, around the quote): Antinnis Tremayne: "Enraged, Shelvay attacked Tremayne, severing the Inquisitor's arm and forever scarring his face." Source: The Complete Star Wars Encyclopedia, Vol. III, p.145
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.145 — full quote as printed](quotes/v3-p145-enraged-shelvay-attacked-tremayne-severing-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:258`
 
 - Note (summary from our notes, not a quotation): Page contents: 1005 words, 25 paragraphs | headings/entries: Tregga; Treidum, Pol; Trell, Poas; Tremayne, High Inquisitor Antinnis; Trenchant; Trevagg, Feltipern; Trevee; Trevval, Liane; Trey'lis, Hosk
@@ -50,13 +46,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > After he defeated Darrin Arkanian, Tremayne was disfigured in battle during Shelvay's escape, losing an eye as well as his right arm.
 — Source: scan pages 241–280; Antinnis Tremayne — entry/section: Tremayne, High Inquisitor Antinnis.
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: Tremayne, High Inquisitor Antinnis: "After he defeated Darrin Arkanian, Tremayne was disfigured in battle during Shelvay's escape, losing an eye as well as his right arm." Source: The Complete Star Wars Encyclopedia, Vol. III, p.262
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.262 — full quote as printed](quotes/v3-p262-after-he-defeated-darrin-arkanian-tremayne.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:239`
 
 > Tremayne was given command of the Star Destroyer /nterrogator.
 — Source: scan pages 241–280; Antinnis Tremayne — entry/section: Tremayne, High Inquisitor Antinnis.
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: Tremayne, High Inquisitor Antinnis: "Tremayne was given command of the Star Destroyer /nterrogator." Source: The Complete Star Wars Encyclopedia, Vol. III, p.262
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.262 — full quote as printed](quotes/v3-p262-tremayne-was-given-command-of-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:241`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -70,7 +64,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:273`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Antinnis Tremayne; Darth Vader (Anakin Skywalker) — entry/section: High Inquisitor Tremayne: "A former Jedi Knight, High Inquisitor Tremayne followed a path similar to Darth Vader's, being seduced by the dark side and serving the Emperorir hunting down and destroying other Jedi." Source: Dark Side Sourcebook, p.100
-![Quote image: Dark Side Sourcebook, p.100 — full quote as printed](quotes/dss-p100-a-former-jedi-knight-high-inquisitor.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:277`
 
 > Force Skills: Affect Mind +4, Enhance Ability +8, Move Object +9, See Force +11, Telepathy+6. Feats: Exotic Weapon Proficiency (lightsaber), Force- Sensitive, Heroic Surge, Martial Arts, Point Blank Shot, Skill Emphasis (Disguise), Weapon Group Proficiency (blaster pistols), Weapon Group Prohcienrv(blaster rifles), Weapon Group Proficiency (simple weapons), Weapon Group Proficiency (vibro weapons). Force Feats: Alter, Control, Sense. High Inquisitor Tremayne A former Jedi Knight, High Inquisitor Tremayne followed a path similar to Darth Vader's, being seduced by the dark side and serving the Emperorir hunting down and destroying other Jedi. Unlike Vader, however, Tremayne is subtle, even delicate, in his activities. Tremayne has at his disposal an imperial 11 Star Destroyer, Interrogator, and its crew and comple ment of support ships and weapons. With Interrogator, High Inquisitor Tremayne goes anywhere he wishes, answerable only to the Emperor, Darth Vader, and certain high-ranking members of the lnquisitorium-the Force-trained secret division of Imperial Intelligence. Though attached in this fashion to Imperial Intelligence, the Inquisitorius might as well be a separate organization. Imperial Intelligence calls so rarely upon the inquisitors that Tremayne has a great deal of free time with which to search for Force-users.
@@ -78,7 +71,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:277`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: High Inquisitor Tremayne: "Tremayne has at his disposal an imperial 11 Star Destroyer, Interrogator, and its crew and comple ment of support ships and weapons." Source: Dark Side Sourcebook, p.100
-![Quote image: Dark Side Sourcebook, p.100 — full quote as printed](quotes/dss-p100-tremayne-has-at-his-disposal-an.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:279`
 
 > He tries to reinforce this belief by being cordial and even friendly. Tremayne wants his subjects to know that he regrets that fate has brought them together in such a fashion. He frequently takes some time to explain that when two opposing ideologies intersect, one must give way-and, of course, given his superior position by the time such a conversation takes place, it will not be Tremayne's. Like Lord Vader, High Inquisitor Tremayne has also undergone reconstructive cybernetic surgery to repair damage inflicted upon him by a Jedi. Tremayne once dueled a Jedi named Corwin Shelvay, who defeated Tremayne with a vicious lightsaber cut that took Tremayne's right arm and part of his face. Now Tremayne has a cybernetic arm and a metallic plate over the right side of his face, giving him an eerie, inhuman appearance. Despite these startling disfigurements, Tremayne is actually a fairly attractive fellow, which makes the evil in his heart all the more tragic.
@@ -86,7 +78,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:279`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: High Inquisitor Tremayne: "Tremayne once dueled a Jedi named Corwin Shelvay, who defeated Tremayne with a vicious lightsaber cut that took Tremayne's right arm and part of his face." Source: Dark Side Sourcebook, p.101
-![Quote image: Dark Side Sourcebook, p.101 — full quote as printed](quotes/dss-p101-tremayne-once-dueled-a-jedi-named.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:286`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -94,7 +85,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:286`
 > One of the HAP most powerful and respected Inquisitors is High Inquisitor Tremayne, but an up-and-coming lower-ranked Inquisitor is the subtle and ruthless Drayneen.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Antinnis Tremayne — entry/section: Inquisitors (Rebellion Era Sourcebook).
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: Inquisitors (Rebellion Era Sourcebook): "One of the HAP most powerful and respected Inquisitors is High Inquisitor Tremayne, but an up-and-coming lower-ranked Inquisitor is the subtle and ruthless Drayneen." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.82
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.82 — full quote as printed](quotes/d043-s82-one-of-the-hap-most-powerful.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:142`
 
 - Note (summary from our notes, not a quotation): Page contents: Prophets of the Dark Side led by Supreme Prophet Kadann; 'few members among the Imperial hierarchy have any inclination that the Emperor is a powerful Force-user'; rumor Vader once studied at the Bosthirda dark side temple; Argor (Lesser Prophet, FA 4, DSP 12); Inquisitor Drayneen FA 8; High Inquisitor Tremayne 'one of the most powerful and respected Inquisitors' (hand-read)
@@ -116,13 +106,11 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > After training his Padawan Ameesa Darys to knighthood and becoming a Jedi Master, Jerec felt he had exhausted all that the light side of the Force had to offer. During the Clone Wars, he traveled with a group of Jedi artifact finders to the Unknown Regions in search of other sources of wisdom. After being caught by the Imperial Inquisitor Tremayne, Jerec declared his allegiance to the Empire, and joined the Inquisitorius himself. He also studied the Dark Force religion of Palpatine's Prophets of the Dark Side. It was from the prophet Lord Cronal, father to the sorceress Sariss and the man later known as the shadowy Dark Side magus Blackhole, that Jerec learned of the Valley of the Jedi. To him, it seemed a fabled place that promised to grant him understanding unlimited, a place steeped in the Forcepower of thousands and thousands of Sith and Jedi spirits.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Antinnis Tremayne; Blackhole (Emperor's Hand); Sariss — entry/section: Jerec joins the Inquisitorius: "After training his Padawan Ameesa Darys to knighthood and becoming a Jedi Master, Jerec felt he had exhausted all that the light side of the Force had to offer. During the Clone Wars, he traveled with a group of Jedi artifact finders to the Unknown Regions in search of other sources of wisdom. After being caught by the Imperial Inquisitor Tremayne, Jerec declared his allegiance to the Empire, and joined the Inquisitorius himself. He also studied the Dark Force religion of Palpatine's Prophets of the Dark Side. It was from the prophet Lord Cronal, father to the sorceress Sariss and the man later known as the shadowy Dark Side magus Blackhole, that Jerec learned of the Valley of the Jedi. To him, it seemed a fabled place that promised to grant him understanding unlimited, a place steeped in the Forcepower of thousands and thousands of Sith and Jedi spirits." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-after-training-his-padawan-ameesa-darys.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:16`
 
 > Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Lord Hethrir; Antinnis Tremayne; Kyle Katarn — entry/section: The Reborn: "Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-lastly-hethrir-tasked-desann-with-finding.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:41`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

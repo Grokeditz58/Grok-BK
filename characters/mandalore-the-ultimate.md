@@ -204,26 +204,22 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:3843`
 > Under Revan's command, these Jedi ultimately defeat Mandalore the Ultimate, disarm his Neo-Crusaders, and win the Mandalorian Wars for the Republic.
 — Source: Front matter and introduction; Revan; Darth Malak — Timeline 3,976 BBY, Mandalorian Wars.
 Note (our notes, around the quote): Revan; Darth Malak — Timeline 3,976 BBY, Mandalorian Wars: "Under Revan's command, these Jedi ultimately defeat Mandalore the Ultimate, disarm his Neo-Crusaders, and win the Mandalorian Wars for the Republic." Source: The Old Republic Encyclopedia, p.17
-![Quote image: The Old Republic Encyclopedia, p.17 — full quote as printed](quotes/tore-p17-under-revan-s-command-these-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:79`
 
 > Mandalore the Ultimate: Spearheaded the most successful campaigns in the history of the Mandalorians, nearly crushing the Republic during the Mandalorian Wars before being defeated by the Jedi known as Revan.
 — Source: Mandalorians, the underworld and the Hutts; Revan; Mandalore the Ultimate — Mandalores Through History.
 Note (our notes, around the quote): Revan; Mandalore the Ultimate — Mandalores Through History: "Mandalore the Ultimate: Spearheaded the most successful campaigns in the history of the Mandalorians, nearly crushing the Republic during the Mandalorian Wars before being defeated by the Jedi known as Revan." Source: The Old Republic Encyclopedia, p.200
-![Quote image: The Old Republic Encyclopedia, p.200 — full quote as printed](quotes/tore-p200-mandalore-the-ultimate-spearheaded-the-most.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:55`
 
 > Mandalore the Ultimate duels the Jedi Knight Revan in the final battle of the Mandalorian Wars.
 — Source: Mandalorians, the underworld and the Hutts; Revan; Mandalore the Ultimate — Caption.
 Note (our notes, around the quote): Revan; Mandalore the Ultimate — Caption: "Mandalore the Ultimate duels the Jedi Knight Revan in the final battle of the Mandalorian Wars." Source: The Old Republic Encyclopedia, p.200
-![Quote image: The Old Republic Encyclopedia, p.200 — full quote as printed](quotes/tore-p200-mandalore-the-ultimate-duels-the-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:59`
 
 > …and so it was passed down through the centuries from one Mandalore to the next, until the Jedi Revan killed Mandalore the Ultimate and hid the mask away after the end of the Mandalorian Wars. The mask was returned when Revan gained the loyalty of Canderous Ordo, who integrated it into his own armor when he claimed the title of Mandalore the Preserver.
 > [fragment — full passage not on file]
 — Source: Mandalorians, the underworld and the Hutts.
 Note (our notes, around the quote): Revan; Mandalore the Ultimate; Canderous Ordo — The Mask of Mandalore (top-right): "…and so it was passed down through the centuries from one Mandalore to the next, until the Jedi Revan killed Mandalore the Ultimate and hid the mask away after the end of the Mandalorian Wars. The mask was returned when Revan gained the loyalty of Canderous Ordo, who integrated it into his own armor when he claimed the title of Mandalore the Preserver." Source: The Old Republic Encyclopedia, p.201, sidebar
-![Quote image: The Old Republic Encyclopedia, p.201 — full quote as printed](quotes/tore-p201-and-so-it-was-passed-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:61`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -231,7 +227,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutt
 > At Malachor V, Revan drew Mandalore into a direct fight and killed him in hand-to-hand combat.
 — Source: Part One: Tales of the Ancient Republic; Revan; Mandalore the Ultimate — Revan kills Mandalore at Malachor V.
 Note (our notes, around the quote): Revan; Mandalore the Ultimate — Revan kills Mandalore at Malachor V: "At Malachor V, Revan drew Mandalore into a direct fight and killed him in hand-to-hand combat." Source: The New Essential Chronology, p.22
-![Quote image: The New Essential Chronology, p.22 — full quote as printed](quotes/nec-p22-revan-kills-mandalore-at-malachor-v.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:184`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -239,7 +234,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > After three long and bloody years, the reigning Neo-Crusader chieftain Mandalore the Ultimate was killed and the Mandalorians defeated.
 — Source: scan pages 361–400; Mandalore the Ultimate.
 Note (our notes, around the quote): Mandalore the Ultimate: "After three long and bloody years, the reigning Neo-Crusader chieftain Mandalore the Ultimate was killed and the Mandalorians defeated." Source: The Complete Star Wars Encyclopedia, Vol. II, p.370
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.370 — full quote as printed](quotes/v2-p370-after-three-long-and-bloody-years.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:141`
 
 ## Characters/Miniatures/Bounty Hunters Preview 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -253,7 +247,6 @@ Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:23
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 4 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_4_pdf_bc6cd0e832`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 4 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_4_pdf_bc6cd0e832`).)
 Note (our notes, around the quote): Revan; Darth Malak; Mandalore the Ultimate — entry/section: Mandalore the Ultimate's Neo-Crusaders: "In the years after the defeat of Exar Kun (four millennia before the Battle of Yavin), Mandalore the Ultimate unleashed his Neo-Crusaders on the galaxy in what became known as the Mandalorian Wars. These Mandalorian warriors wore more sleek and uniform armor than their Crusader predecessors, and they ravaged countless worlds as war itself was revered as an aspect of the divine. Ultimately, the Mandalorian Neo-Crusaders were defeated by the Jedi Revan and Malak (who later became Dark Lords of the Sith), and their ranks were dispersed as they became little more than mercenaries scattered throughout the galaxy." Source: *Bounty Hunters Preview 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d096-s2-in-the-years-after-the-defeat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:25`
 
 ## Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -263,7 +256,6 @@ Our notes: `notes/materials/037-sw-d20-folder/096-bounty-hunters-preview-4.md:25
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 68 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_68_pdf_8fdf2fb5e0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 68 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_68_pdf_8fdf2fb5e0`).)
 Note (our notes, around the quote): Mandalore the Ultimate: "After the defeat of Mandalore the Ultimate around the time of the Old Sith Wars, many of the surviving Mandalorians evolved into something that was more a mercenary group than a religious sect." Source: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d236-s2-after-the-defeat-of-mandalore-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:30`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -271,7 +263,6 @@ Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:30`
 > SO MANY NEW RECRUITS. DIFFERENT SPECIES, DIFFERENT ARMORS, DIFFERENT LANGUAGES – AND NOT ENOUGH TIME TO LEARN OUR WAYS.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Mandalore the Ultimate — entry/section: Pull quote (Mandalore the Ultimate). POV: speaker not named in our notes.
 Note (our notes, around the quote): Mandalore the Ultimate — entry/section: Pull quote (Mandalore the Ultimate): ""SO MANY NEW RECRUITS. DIFFERENT SPECIES, DIFFERENT ARMORS, DIFFERENT LANGUAGES – AND NOT ENOUGH TIME TO LEARN OUR WAYS." —MANDALORE THE ULTIMATE" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.82
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.82 — full quote as printed](quotes/d718-s82-so-many-new-recruits-different-species.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:128`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -279,7 +270,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Once again the galaxy plunges into war as the Mandalorians, thought disorganized after their defeat in the Great Sith War, begin their onslaught of Republic worlds at the command of Mandalore the Ultimate.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Mandalore the Ultimate.
 Note (our notes, around the quote): Mandalore the Ultimate: "Once again the galaxy plunges into war as the Mandalorians, thought disorganized after their defeat in the Great Sith War, begin their onslaught of Republic worlds at the command of Mandalore the Ultimate." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131 — full quote as printed](quotes/d718-s131-once-again-the-galaxy-plunges-into.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:76`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -295,7 +285,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > The crushing defeat at Malachor V and Mandalore the Ultimate's death finally reveal the Neo-Crusader hypocrisy, shaking Canderous to his core.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Mandalore the Ultimate; Canderous Ordo. POV: Canderous Ordo; about Mandalore the Ultimate.
 Note (our notes, around the quote): Mandalore the Ultimate; Canderous Ordo: "The crushing defeat at Malachor V and Mandalore the Ultimate's death finally reveal the Neo-Crusader hypocrisy, shaking Canderous to his core." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.201
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.201 — full quote as printed](quotes/d718-s201-the-crushing-defeat-at-malachor-v.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:199`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)

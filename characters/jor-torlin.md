@@ -14,7 +14,6 @@
 > Raider Sith assassin Jor Torlin's starship during the time of Emperor Roan Fel, it was stolen by Morrigan Corde after she killed him.
 — Source: scan pages 81–120; Roan Fel. POV: Roan Fel, about Jor Torlin.
 Note (our notes, around the quote): Roan Fel: "Raider Sith assassin Jor Torlin's starship during the time of Emperor Roan Fel, it was stolen by Morrigan Corde after she killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.75
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.75 — full quote as printed](quotes/v3-p75-raider-sith-assassin-jor-torlins-starship.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:12`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan
 > NICE TASTE IN WEAPONS, TORLIN. NICE SHIP TOO.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Morrigan Corde; Jor Torlin — entry/section: Pull quote.
 Note (our notes, around the quote): Morrigan Corde; Jor Torlin — entry/section: Pull quote: ""NICE TASTE IN WEAPONS, TORLIN. NICE SHIP TOO." —MORRIGAN CORDE" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.87
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.87 — full quote as printed](quotes/d719-s87-nice-taste-in-weapons-torlin-nice.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:215`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -69,8 +67,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1058`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Jor Torlin (p214).
 Note (our notes, around the quote): Jor Torlin (p214): "a Human Sith spy"; "Having received rudimentary Force training in his youth". CL 11; UtF +9; DS 14; hp 95.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p214 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p214-a-human-sith-spy.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p214 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p214-having-received-rudimentary-force-training-in.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p214 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p214-a-human-sith-spy.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p214 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p214-having-received-rudimentary-force-training-in.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:415`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt (CL20), Darth Wyyrlok III (CL16), Darth Nihl (CL16), Darth Azard (CL15), Darth Maladi (CL15), Darth Talon (CL13), Darth Maleval (CL13), Jor Torlin (CL11).
@@ -89,16 +87,16 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1101`
 > AND TO THINK I'D GIVEN ALL THIS UP. *(p79)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Corde vs Torlin and the Wheel gang. p72 (#9)–p79 (#9) [009 p211–218]. Torlin starts the brawl: "LET'S JUST SKIP THE OPENING RITUAL." (p73). Corde had set the gang on him: "OF COURSE... I DID! NEEDED... TO MAKE CONTACT!" Torlin strangles her: "DON'T BELIEVE YOU. CAN'T TAKE CHANCES." "GOOD-BYE." (p78). She shocks him unconscious with her gauntlet: "AND TO THINK I'D GIVEN ALL THIS UP." (p79).
-![p78 Torlin strangles Corde](012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
-![p79 Corde shocks Torlin](012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
+![p78 Torlin strangles Corde](../notes/materials/012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
+![p79 Corde shocks Torlin](../notes/materials/012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:363`
 
-- Note (summary from our notes, not a quotation): ![p78 Torlin strangles Corde](012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
+- Note (summary from our notes, not a quotation): ![p78 Torlin strangles Corde](../notes/materials/012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p78 — `p078-torlin-strangles-corde.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:365`
 
-- Note (summary from our notes, not a quotation): ![p79 Corde shocks Torlin](012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
+- Note (summary from our notes, not a quotation): ![p79 Corde shocks Torlin](../notes/materials/012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p79 — `p079-corde-shocks-torlin.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:368`
@@ -111,10 +109,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:368`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 2. Torlin's Force status. p62 (#9), Calixte.
 Note (our notes, around the quote): 2. Torlin's Force status. p62 (#9), Calixte: "HER FOREMOST AGENT IS JOR TOLIN [sic]. HE WAS RAISED ON KORRIBAN AND TRAINED TO BE A SITH BUT LACKED SUFFICIENT FORCE SENSITIVITY." · p81 (#10), Corde: "FORCE SENSITIVE. TRAINED ON KORRIBAN BY THE SITH -- THOUGH NOT STRONG ENOUGH IN THE FORCE TO BE TRULY SITH." · "SITH AT HEART, THOUGH, AND GOOD AT WHAT YOU DO".
-![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+![p62 "JOR TOLIN" dossier](../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:371`
 
-- Note (summary from our notes, not a quotation): ![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+- Note (summary from our notes, not a quotation): ![p62 "JOR TOLIN" dossier](../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p62 — `p062-jor-tolin-dossier.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:373`
@@ -123,16 +121,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:373`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 3. Corde kills Torlin with a pre-planted nerve toxin. p93 (#10)–p98 (#10) [009 p232–237]
-![p94 "THIS IS 'LATER.'" / "MURGLAK"](012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
-![p97 nerve toxin](012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
+![p94 "THIS IS 'LATER.'" / "MURGLAK"](../notes/materials/012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
+![p97 nerve toxin](../notes/materials/012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:376`
 
-- Note (summary from our notes, not a quotation): ![p94 "THIS IS 'LATER.'" / "MURGLAK"](012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
+- Note (summary from our notes, not a quotation): ![p94 "THIS IS 'LATER.'" / "MURGLAK"](../notes/materials/012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p94 — `p094-murglak-sniper-duel.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:379`
 
-- Note (summary from our notes, not a quotation): ![p97 nerve toxin](012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
+- Note (summary from our notes, not a quotation): ![p97 nerve toxin](../notes/materials/012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p97 — `p097-corde-nerve-toxin.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:382`

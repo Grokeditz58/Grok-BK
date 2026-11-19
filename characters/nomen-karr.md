@@ -14,55 +14,46 @@
 > Many Jedi have faced Sith in combat and survived, but only Master Nomen Karr has successfully infiltrated their ranks. A bold Jedi with a keen, unyielding mind, Nomen Karr became convinced that the Jedi needed more insight into the Sith Empire and its plans than the Order could get from the outside.
 — Source: The Jedi Order; Nomen Karr — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr — Master Nomen Karr profile: "Many Jedi have faced Sith in combat and survived, but only Master Nomen Karr has successfully infiltrated their ranks. A bold Jedi with a keen, unyielding mind, Nomen Karr became convinced that the Jedi needed more insight into the Sith Empire and its plans than the Order could get from the outside." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-many-jedi-have-faced-sith-in.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:128`
 
 > At great personal risk, Nomen Karr posed as a Sith for many years and became accepted as one of them. The intelligence he gathered was invaluable, though the darkness and depravity of the Sith left an indelible mark on him.
 — Source: The Jedi Order; Nomen Karr — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr — Master Nomen Karr profile: "At great personal risk, Nomen Karr posed as a Sith for many years and became accepted as one of them. The intelligence he gathered was invaluable, though the darkness and depravity of the Sith left an indelible mark on him." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-at-great-personal-risk-nomen-karr.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:130`
 
 > In time, Nomen Karr met the Sith Lord Darth Baras, and the two of them became friends. However, Darth Baras had begun to suspect that there was an infiltrator in the Sith and eventually uncovered Nomen Karr's deception.
 — Source: The Jedi Order; Nomen Karr; Darth Baras — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr; Darth Baras — Master Nomen Karr profile: "In time, Nomen Karr met the Sith Lord Darth Baras, and the two of them became friends. However, Darth Baras had begun to suspect that there was an infiltrator in the Sith and eventually uncovered Nomen Karr's deception." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-in-time-nomen-karr-met-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:132`
 
 > He has devoted himself to uncovering these spies with the help of his new Padawan, Jaesa Willsaam, said to possess the ability to discern the true nature of any being. But Darth Baras has not forgotten the betrayal of his former friend. Both men know there will eventually be a reckoning between them.
 — Source: The Jedi Order; Nomen Karr; Darth Baras; Jaesa Willsaam — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr; Darth Baras; Jaesa Willsaam — Master Nomen Karr profile: "He has devoted himself to uncovering these spies with the help of his new Padawan, Jaesa Willsaam, said to possess the ability to discern the true nature of any being. But Darth Baras has not forgotten the betrayal of his former friend. Both men know there will eventually be a reckoning between them." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-he-has-devoted-himself-to-uncovering.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:134`
 
 > Lord Retrost was in fact a Jedi named Nomen Karr who sought to infiltrate the Sith and expose their deceptions. Baras exposed Nomen Karr, attacked the Jedi, and drove the wounded spy from the Empire. Revenge consumed Baras for years after as he plotted the destruction of the only Jedi ever to deceive him.
 — Source: The Sith; Darth Baras; Nomen Karr — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras; Nomen Karr — Darth Baras (top-right): "Lord Retrost was in fact a Jedi named Nomen Karr who sought to infiltrate the Sith and expose their deceptions. Baras exposed Nomen Karr, attacked the Jedi, and drove the wounded spy from the Empire. Revenge consumed Baras for years after as he plotted the destruction of the only Jedi ever to deceive him." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-lord-retrost-was-in-fact-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:392`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:88`; `legends-feats.md:748`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:39`
 
 > FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Data box.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Data box: "FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-family-darth-ekkage-sister-rivals-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:396`
 
 > Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work.
 — Source: The Sith; Jaesa Willsaam; Nomen Karr — Hunt for the Padawan.
 Note (our notes, around the quote): Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-together-master-and-apprentice-discover-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:432`
 
 > The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-the-sith-warrior-ultimately-strikes-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:434`
 
 > Jaesa's unique talent to discern a person's true nature drew Jedi Master Nomen Karr's attention. He recognized the girl's Force-sensitivity and took her as his Padawan. As Jaesa learned the Jedi path, she used her power to root out Imperial spies.
 — Source: The Sith; Jaesa Willsaam; Nomen Karr — Jaesa Willsaam.
 Note (our notes, around the quote): Jaesa Willsaam; Nomen Karr — Jaesa Willsaam: "Jaesa's unique talent to discern a person's true nature drew Jedi Master Nomen Karr's attention. He recognized the girl's Force-sensitivity and took her as his Padawan. As Jaesa learned the Jedi path, she used her power to root out Imperial spies." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-jaesa-s-unique-talent-to-discern.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:455`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

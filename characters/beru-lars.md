@@ -23,7 +23,6 @@ Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:107`
 > I think it was the kitchen. You know, where Aunt Beru is in there cooking and Owen comes in looking for Luke.
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Owen Lars; Beru Lars; Luke Skywalker — entry/section: Elstree Stage 8: the Lars kitchen: ""We started the studio work here the first day for Episode IV," Lucas says, looking around at the dark interior of Stage 8. "I think it was the kitchen. You know, where Aunt Beru is in there cooking and Owen comes in looking for Luke." —George Lucas, Star Wars Insider 82, p. 76" Source: *Star Wars Insider #82* (2005), scan p.76
-![Quote image: *Star Wars Insider #82* (2005), scan p.76 — full quote as printed](quotes/ins082-s76-we-started-the-studio-work-here.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:494`
 
 ## Star Wars: Legacy (Dark Horse, 2006–2010) single issues #20–#50, hand-read

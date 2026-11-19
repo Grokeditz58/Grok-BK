@@ -20,7 +20,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > He and his fleet of Sabaoth Destroyers were defeated by forces led by Adi Gallia and Nym.
 — Source: scan pages 241–280; Adi Gallia. POV: Adi Gallia, about Nym.
 Note (our notes, around the quote): Adi Gallia: "He and his fleet of Sabaoth Destroyers were defeated by forces led by Adi Gallia and Nym." Source: The Complete Star Wars Encyclopedia, Vol. III, p.256
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.256 — full quote as printed](quotes/v3-p256-he-and-his-fleet-of-sabaoth.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:199`
 
 ## The New Essential Guide to Characters (2002)
@@ -43,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-10
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Nym — entry/section: Starfighter: Nym.
 Note (our notes, around the quote): Nym — entry/section: Starfighter: Nym: "Personality: Nym is a tough, aggressive pirate captain, He is both feared and respected by his crew and his many competitors" Source: *Star Wars Gamer 01* (SWRPG d20), scan p.89
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.89 — full quote as printed](quotes/d050-s89-personality-nym-is-a-tough-aggressive.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:166`
 
 ## Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–89)
@@ -56,7 +54,6 @@ Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-061-08
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20,; Nym — entry/section: Starfighter Aces: Nym's Havoc.
 Note (our notes, around the quote): Nym — entry/section: Starfighter Aces: Nym's Havoc: "Now, the Havoc is truly one-of-a-kind, The Havoc boasts six laser cannons, a rotating dorsal turret, and two bomb chutes" Source: *Star Wars Gamer 02* (SWRPG d20), scan p.87
-![Quote image: *Star Wars Gamer 02* (SWRPG d20), scan p.87 — full quote as printed](quotes/d051-s87-now-the-havoc-is-truly-one.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-061-089.md:146`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–105)
@@ -72,7 +69,6 @@ Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-061-10
 > Total destruction is the goal in this mis sion, which requires a mastery of Nym's new weapon upgrade: the Plasma Scourge (to use the Plasma Scourge, hold down the secondary fire button until the weapon is fully charged, then release it to drop the mega-bomb).
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Lord Scourge. POV: Lord Scourge, about Nym.
 Note (our notes, around the quote): Lord Scourge: "Total destruction is the goal in this mis sion, which requires a mastery of Nym's new weapon upgrade: the Plasma Scourge (to use the Plasma Scourge, hold down the secondary fire button until the weapon is fully charged, then release it to drop the mega-bomb)." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.100
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.100 — full quote as printed](quotes/d053-s100-total-destruction-is-the-goal-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-061-105.md:213`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–95)
@@ -102,7 +98,6 @@ Our notes: `notes/materials/037-sw-d20-folder/097-bounty-hunters-preview-5.md:10
 > Nym is a fearsome and aggressive pirate captain. Unlike many pirates, Nym avoided bloodshed where he could. Instead, he became known for his quick and efficient raids. Nym typically operated from his homeworld of Lok. During the Battle for Naboo, Nym used his personal bomber, the Havoc, to devastate Trade Federation forces in a bid for vengeance as much as anything else. His rivalry with the Trade Federation was long and violent. Though granted a pardon by the Supreme Chancellor for his help, Nym kept to his pirate ways. He eventually returned to Lok, rebuilt his pirate base, and became an effective leader for his people.
 — Source: Characters/Miniatures/Bounty Hunters Preview 5.pdf [Star Wars Roleplaying; Nym — entry/section: Nym the pirate captain.
 Note (our notes, around the quote): Nym — entry/section: Nym the pirate captain: "Nym is a fearsome and aggressive pirate captain. Unlike many pirates, Nym avoided bloodshed where he could. Instead, he became known for his quick and efficient raids. Nym typically operated from his homeworld of Lok. During the Battle for Naboo, Nym used his personal bomber, the Havoc, to devastate Trade Federation forces in a bid for vengeance as much as anything else. His rivalry with the Trade Federation was long and violent. Though granted a pardon by the Supreme Chancellor for his help, Nym kept to his pirate ways. He eventually returned to Lok, rebuilt his pirate base, and became an effective leader for his people." Source: *Bounty Hunters Preview 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d097-s1-nym-is-a-fearsome-and-aggressive.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/097-bounty-hunters-preview-5.md:12`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -192,7 +187,6 @@ Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:299`
 
 - Note (summary from our notes, not a quotation): Adi Gallia — entry/section: Star Wars Galaxies: Lok: "The planet is exceedingly harsh, with the landscape dominated by a large volcano (known as "Adi's Rest," presumably named after Nym's one-time ally, the Jedi Adi Gallia)." Source: *Star Wars Insider #70* (2003), scan p.55
   — Source: Star Wars Insider #70 (2003).
-![Quote image: *Star Wars Insider #70* (2003), scan p.55 — full quote as printed](quotes/ins070-s55-the-planet-is-exceedingly-harsh-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:301`
 
 ## Star Wars Insider #111 (2009)

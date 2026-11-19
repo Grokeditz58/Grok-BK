@@ -88,7 +88,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:200
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Valorum's death: "The first was the suspicious explosion of Valorum's transport as it lifted off from a Coruscant starport, killing Finis Valorum and everyone else aboard." Source: The New Essential Chronology, p.71
-![Quote image: The New Essential Chronology, p.71 — full quote as printed](quotes/nec-p71-valorums-death.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:371`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -113,7 +112,6 @@ Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:383`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #73 (2004); Finis Valorum — entry/section: Ostrander on Valorum.
 Note (our notes, around the quote): Finis Valorum — entry/section: Ostrander on Valorum: ""He was an honest and capable politician up against an insidious adversary and a bureaucracy that couldn't be managed … And he has changed since we've last seen him. He's less naive. You'll get a glimpse of the sort of role he could play." —John Ostrander, Star Wars Insider 73, p. 73" Source: *Star Wars Insider #73* (2004), scan p.73
-![Quote image: *Star Wars Insider #73* (2004), scan p.73 — full quote as printed](quotes/ins073-s73-he-was-an-honest-and-capable.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:435`
 
 ## Star Wars Visual Dictionaries, Episodes I–VI (DK, 1998–2005) + The Phantom Menace Expanded Visual Dictionary (DK, 2012)

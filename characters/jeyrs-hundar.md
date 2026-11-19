@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 05 The First to Strike (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_05_The_First_to_Strike_pdf_97ea3d6aa0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 05 The First to Strike (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_05_The_First_to_Strike_pdf_97ea3d6aa0`).)
 Note (our notes, around the quote): Vril Vrakth; Jeyrs Hundar — entry/section: Vril Vrakth: "When a bounty hunter named Jeyrs Hundar followed a criminal to Vrakth's homeland, the young Zabrak was one of only a handful of colonists still alive. Impressed with Vrakth's tenacity and self-reliance, Hundar took him on as an apprentice bounty hunter." Source: *05 - The First to Strike* (SWRPG Saga Edition), scan p.25
-![Quote image: *05 - The First to Strike* (SWRPG Saga Edition), scan p.25 — full quote as printed](quotes/d707-s25-when-a-bounty-hunter-named-jeyrs.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/707-05-the-first-to-strike.md:162`
 
 # Debate and forum claims (unverified)

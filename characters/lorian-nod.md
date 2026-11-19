@@ -19,7 +19,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:483`
 
 - Note (summary from our notes, not a quotation): Count Dooku — Dooku kills Lorian Nod: "Nod hoped to force Dooku into a final reckoning for his crimes, but Dooku stabbed his "old friend" through the heart with his crimson lightsaber." Source: The New Essential Chronology, p.64
   — Source: Part Two: The Fall of the Republic.
-![Quote image: The New Essential Chronology, p.64 — full quote as printed](quotes/nec-p64-dooku-kills-lorian-nod.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:306`
 
 ## Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -40,7 +39,6 @@ Our notes: `notes/materials/037-sw-d20-folder/143-lorian-nod.md:10`
 
 - Note (summary from our notes, not a quotation): Lorian Nod; Count Dooku — entry/section: Lorian Nod: "Lorian Nod met young Dooku when the two were Jedi trainees. After an incident involving a stolen Sith Holocron and lies implicating his friend the Count, Nod was kicked out of the Order and turned to space piracy, using his Force skill as an advantage in the criminal underworld. By the time the Clone Wars broke out, Lorian Nod had "gone straight," taking elected leadership office on Junction 5. Lorian Nod even asked if he might be useful as a spy against Count Dooku and the Separatists, perhaps to atone for his dark history." Source: *Lorian Nod* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Lorian Nod.pdf [Star Wars Roleplaying Game Revised Core (d20,.
-![Quote image: *Lorian Nod* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d143-s1-lorian-nod-met-young-dooku-when.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/143-lorian-nod.md:12`
 
 ## Star Wars Insider #69 (2003)

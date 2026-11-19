@@ -14,7 +14,6 @@
 > The galaxy's most notorious bounty hunters assemble for the funeral of Greedo.
 — Source: Part Four: Profiles in History; Boba Fett — art caption.
 Note (our notes, around the quote): Boba Fett — art caption: "The galaxy's most notorious bounty hunters assemble for the funeral of Greedo." Source: The New Essential Chronology, p.97, caption
-![Quote image: The New Essential Chronology, p.97 — full quote as printed](quotes/nec-p97-caption-the-galaxys-most-notorious-bounty.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:68`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-i
 > Beedo A relative of Greedo from the Tetsus clan, he took the bounty hunter's place in Jabba the Hutt's gang after Greedo was killed by Han Solo at the Mos Eisley cantina.
 — Source: scan pages 81–120; Greedo; Han Solo.
 Note (our notes, around the quote): Greedo; Han Solo: "Beedo A relative of Greedo from the Tetsus clan, he took the bounty hunter's place in Jabba the Hutt's gang after Greedo was killed by Han Solo at the Mos Eisley cantina." Source: The Complete Star Wars Encyclopedia, Vol. I, p.66
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.66 — full quote as printed](quotes/v1-p66-beedo-a-relative-of-greedo-from.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:12`
 
 > The tall struc­ ture was protected by its own atmosphere field and filled with burning candles, incense, and flaming bog pits. Lando Calrissian's Cor­ usca gem broker was located on Borgo Prime, and Luke Skywalker and Tenel Ka contacted the broker in an attempt to learn who had pur­ chased an important shipment. Borin, Dan:z A cocky gunner and bounty hunter, he maintained a residence on the Smugglers' Moon, Nar Shaddaa. He tracked down Han Solo and the Millennium Falcon to try to collect the bounty from Jabba the Hutt, but just as he was about to step up and claim his prey in the Mos Eisley cantina, another bounty hunter in Jabba's employ-the Rodian named Greedo-beat him to the punch. That was a good thing, Danz Borin learned just a minute later, as Solo killed Greedo with a blaster shot. Borkeen asteroid belt An as­ teroid belt and famed navigational hazard. (Biackmoon) The fourth planet in the Pyria system, it was a steamy blue-green world with a single dark moon that gave the system its Rebel Alli­ ance code name, Blackmoon. The only inhab­ ited world in the system, Borleias lacked most valuablenaturalresources and passed through a dense meteor shower once each year.
@@ -30,13 +28,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Greedo: "That was a good thing, Danz Borin learned just a minute later, as Solo killed Greedo with a blaster shot." Source: The Complete Star Wars Encyclopedia, Vol. I, p.86
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.86 — full quote as printed](quotes/v1-p86-that-was-a-good-thing-danz.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:172`
 
 > He later brought Greedo to Tatooine, where the Rodian was killed by Han Solo.
 — Source: scan pages 361–398; Greedo; Han Solo.
 Note (our notes, around the quote): Greedo; Han Solo: "He later brought Greedo to Tatooine, where the Rodian was killed by Han Solo." Source: The Complete Star Wars Encyclopedia, Vol. I, p.349
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.349 — full quote as printed](quotes/v1-p349-he-later-brought-greedo-to-tatooine.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:29`
 
 > Ranna later joined the crew of the corvette FarStar as a pilot and gunner. She was nicknamed "Wing Ripper:' GormoA Duros male, he was stranded on the planet Onderon in the years following the Mandalorian Wars. GormtheDissolverA huge cyborg droid bounty hunter, he had heavy plated armor and a full helmet. His biocomponents came from six different aliens and seven generations of electronics. He was seemingly destroyed by the young Rodian bounty hunter Greedo on the spaceport moon of Nar Shaddaa, but later was repaired and eventually showed up in Mos Eisley. gorm-wormA species with poison venom sacs, it could kill instantly with its bite. A gorm-worm was used by pirates to kill Jedi trainee Andur Sunrider some 4,000 years be­ fore the Galactic Civil War. Gornash,ProphetA Prophet of the Dark Side, this large human coordinated spy activi­ ties from the group's space station headquar­ ters, Scardia. Gorneesh, King A sly, foul-tempered leader of the Duloks, creatures that lived in the swamps of Endor's moon. GornoA spaceport, it was supposed to be the point ofembarkation for the Hammertong device that was to be delivered to the Empire. gorntA staple in ration packs ofboth Rebels and Imperials, gornt meat was prized for its taste, nutritional value, and ability to stay fresh for a long period of time.
@@ -44,7 +40,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Greedo: "He was seemingly destroyed by the young Rodian bounty hunter Greedo on the spaceport moon of Nar Shaddaa, but later was repaired and eventually showed up in Mos Eisley." Source: The Complete Star Wars Encyclopedia, Vol. I, p.354
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.354 — full quote as printed](quotes/v1-p354-he-was-seemingly-destroyed-by-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:68`
 
 - Note (summary from our notes, not a quotation): Page contents: 897 words, 32 paragraphs | headings/entries: Great Well; Grebleips; Greck, Olag; Gree, Commander; Greeata; Greeb; Greeb-Streebling Cluster; Greedo
@@ -56,31 +51,26 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > After Han Solo killed Greedo in the Mos Eisley cantina, Jabba ordered Heater to hire bounty hunters to bring Solo to justice.
 — Source: scan pages 1–40; Han Solo; Greedo.
 Note (our notes, around the quote): Han Solo; Greedo: "After Han Solo killed Greedo in the Mos Eisley cantina, Jabba ordered Heater to hire bounty hunters to bring Solo to justice." Source: The Complete Star Wars Encyclopedia, Vol. II, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.30 — full quote as printed](quotes/v2-p30-after-han-solo-killed-greedo-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:243`
 
 > She hired Greedo to find Temo Dionisio, but then was killed by the Rodian bounty hunter after she threatened to kill him.
 — Source: scan pages 241–280; Greedo. POV: Greedo.
 Note (our notes, around the quote): Greedo: "She hired Greedo to find Temo Dionisio, but then was killed by the Rodian bounty hunter after she threatened to kill him." Source: The Complete Star Wars Encyclopedia, Vol. II, p.272
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.272 — full quote as printed](quotes/v2-p272-she-hired-greedo-to-find-temo.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:337`
 
 > There they were almost killed by a mercenary named Gorm the Dissolver, but a young Rodian named Greedo shot Gorm, disabling him and letting the trio escape.
 — Source: scan pages 361–400; Greedo. POV: Greedo.
 Note (our notes, around the quote): Greedo: "There they were almost killed by a mercenary named Gorm the Dissolver, but a young Rodian named Greedo shot Gorm, disabling him and letting the trio escape." Source: The Complete Star Wars Encyclopedia, Vol. II, p.362
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.362 — full quote as printed](quotes/v2-p362-there-they-were-almost-killed-by.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:71`
 
 > Neela and her brother Nok realized | that the Tetsus clan was in trouble after Navik the Red killed Greedo the Elder, and they fled Rodia.
 — Source: scan pages 361–400; Greedo. POV: Greedo.
 Note (our notes, around the quote): Greedo: "Neela and her brother Nok realized | that the Tetsus clan was in trouble after Navik the Red killed Greedo the Elder, and they fled Rodia." Source: The Complete Star Wars Encyclopedia, Vol. II, p.367
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.367 — full quote as printed](quotes/v2-p367-neela-and-her-brother-nok-realized.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:108`
 
 > Neela was killed in an Imperial ambush in Nar Shaddaa's Corellian sector when Greedo was just a teenager.
 — Source: scan pages 361–400; Greedo. POV: Greedo.
 Note (our notes, around the quote): Greedo: "Neela was killed in an Imperial ambush in Nar Shaddaa's Corellian sector when Greedo was just a teenager." Source: The Complete Star Wars Encyclopedia, Vol. II, p.367
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.367 — full quote as printed](quotes/v2-p367-neela-was-killed-in-an-imperial.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:110`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -88,7 +78,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > In addition, Solo blasted your humble servant, Greedo, and has eluded or ended the careers of more bounty hunters than I care to list since he departed Tatooine with a false promise of paying what he owed with interest.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Han Solo; Boba Fett — entry/section: The Double Bounty: Solo's toll on hunters: "In addition, Solo blasted your humble servant, Greedo, and has eluded or ended the careers of more bounty hunters than I care to list since he departed Tatooine with a false promise of paying what he owed with interest." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.101
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.101 — full quote as printed](quotes/d043-s101-in-addition-solo-blasted-your-humble.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:277`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–118)
@@ -96,7 +85,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Nearly anyone who has seen Star Wars remembers Greedo, the slow-draw artist who lost a duel with Han Solo in the Mos Eisley cantina.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Greedo; Han Solo.
 Note (our notes, around the quote): Greedo; Han Solo: "Nearly anyone who has seen Star Wars remembers Greedo, the slow-draw artist who lost a duel with Han Solo in the Mos Eisley cantina." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.115
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.115 — full quote as printed](quotes/d054-s115-nearly-anyone-who-has-seen-star.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-118.md:315`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -117,7 +105,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:24`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Full sentence/passage taken from the source text on file: `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf`.)
 Note (our notes, around the quote): Greedo; Jabba the Hutt; Han Solo — entry/section: Greedo's fatal mistake (part 1 of 2, continues next page): "Greedo spent his adolescent years living in a seedy spaceport on Nar Shaddaa. It was there that he was brought into a life of crime that eventually led to employment by Jabba the Hutt. Greedo had the potential for being a" Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d115-s2-greedo-spent-his-adolescent-years-living.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:30`
 
 - Note (summary from our notes, not a quotation): Page contents: Greedo (Scoundrel 4, CC C); IG-88 (Holowan Laboratories, Scout 4/Soldier 3/Bounty Hunter 1, CC E, IG-2000); Zuckuss (Gand ammonia breather oxygen rules; Force Adept 2/Scout 3/Findsman 5/Bounty Hunter 1, CC E) (hand-read)
@@ -130,7 +117,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:40`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Full sentence/passage taken from the source text on file: `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf`.)
 Note (our notes, around the quote): Greedo; Jabba the Hutt; Han Solo — entry/section: Greedo's fatal mistake (part 2 of 2, continued from previous page): "dangerous bounty hunter, but he made the fatal mistake of underestimating one of his first targets: the smuggler known as Han Solo." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d115-s3-dangerous-bounty-hunter-but-he-made.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:42`
 
 ## Jedi Counselling/Jedi Counseling 9 - Spinning Ships.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -152,7 +138,6 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > The bounty hunter Greedo used a DT-12, a fact that loyal users of the DL-44 (see above) never tire of telling others.
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Greedo — entry/section: Greedo's DT-12.
 Note (our notes, around the quote): Greedo — entry/section: Greedo's DT-12: "The bounty hunter Greedo used a DT-12, a fact that loyal users of the DL-44 (see above) never tire of telling others." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.10
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.10 — full quote as printed](quotes/d663-s10-the-bounty-hunter-greedo-used-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-001-060.md:59`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -250,7 +235,6 @@ Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:226`
 > What would have happened if Uncle Owen hadn't bought R2-D2?
 — Source: Star Wars Insider #53 (2001); Greedo; Luke Skywalker.
 Note (our notes, around the quote): Greedo; Luke Skywalker: ""What if Greedo had killed Han in the cantina?" or "What if Luke had completed his Jedi training?" of "What would have happened if Uncle Owen hadn't bought R2-D2?"" Source: *Star Wars Insider #53* (2001), scan p.59
-![Quote image: *Star Wars Insider #53* (2001), scan p.59 — full quote as printed](quotes/ins053-s59-what-if-greedo-had-killed-han.jpg)
 Our notes: `notes/materials/038-star-wars-insider/053-ins053.md:338`
 
 ## Star Wars Insider #54 (2001)
@@ -353,7 +337,6 @@ Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:494`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #89 (2006); Chewbacca; Han Solo — entry/section: What annoys Chewie about Han.
 Note (our notes, around the quote): Chewbacca; Han Solo — entry/section: What annoys Chewie about Han: "He's never up for a haunch of nerf...mmm, good eating.... He got a medal and I didn't. He got to shoot Greedo, and I didn't. He keeps changing outfits. Who are we fighting, the fashion police? —Peter Mayhew, Star Wars Insider 89, p. 12" Source: *Star Wars Insider #89* (2006), scan p.12
-![Quote image: *Star Wars Insider #89* (2006), scan p.12 — full quote as printed](quotes/ins089-s12-hes-never-up-for-a-haunch.jpg)
 Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:67`
 
 - Note (summary from our notes, not a quotation): Page contents: Story Changes: Han and Greedo's face-off; Don't Look Now (Jabba docking bay, Declan Mulholland, Biggs); Punch Lines (hand-read)
@@ -422,7 +405,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:165`
 > Ever since Han Solo faced off with Greedo, bounty hunters have been some of the most intriguing characters in the Star Wars galaxy. They have no rules to follow, they get the coolest weapons, and they're always living in a moral gray zone—which makes them endlessly fascinating. When we first caught sight of Boba Fett and his awesome armor, it was obvious there was a whole side of Star Wars that the movies couldn't explore. So, it was great to be able to incorporate some bounty hunters into the prequels.
 — Source: Star Wars Insider #99 (2008).
 Note (our notes, around the quote): Han Solo; Greedo; Boba Fett — entry/section: McCallum on prequel hunters: ""Ever since Han Solo faced off with Greedo, bounty hunters have been some of the most intriguing characters in the Star Wars galaxy. They have no rules to follow, they get the coolest weapons, and they're always living in a moral gray zone—which makes them endlessly fascinating. When we first caught sight of Boba Fett and his awesome armor, it was obvious there was a whole side of Star Wars that the movies couldn't explore. So, it was great to be able to incorporate some bounty hunters into the prequels." —Rick McCallum, Star Wars Insider 99, p. 19" Source: *Star Wars Insider #99* (2008), scan p.19
-![Quote image: *Star Wars Insider #99* (2008), scan p.19 — full quote as printed](quotes/ins099-s19-ever-since-han-solo-faced-off.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:169`
 
 > Shoot first, ask questions later. A slow bounty hunter is a dead bounty hunter. Always!
@@ -437,7 +419,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:258`
 > I think Greedo's voice is one of my favorites of all the Star Wars creatures. There's quite a rhythm to it that was amusing and exotic. It worked well.
 — Source: Star Wars Insider #99 (2008); Greedo — entry/section: Greedo's voice a favorite.
 Note (our notes, around the quote): Greedo — entry/section: Greedo's voice a favorite: ""I think Greedo's voice is one of my favorites of all the Star Wars creatures. There's quite a rhythm to it that was amusing and exotic. It worked well." —Ben Burtt, Star Wars Insider 99, p. 44" Source: *Star Wars Insider #99* (2008), scan p.44
-![Quote image: *Star Wars Insider #99* (2008), scan p.44 — full quote as printed](quotes/ins099-s44-i-think-greedos-voice-is-one.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:409`
 
 ## Star Wars Insider #102 (2008)

@@ -67,7 +67,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Malak dispatched Bandon to stop the mindwiped Revan and Bastila Shan's search for the Star Forge, and Revan slew Bandon.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Darth Bandon; Darth Malak; Revan; Bastila Shan — entry/section: Bandon, Darth: "Malak dispatched Bandon to stop the mindwiped Revan and Bastila Shan's search for the Star Forge, and Revan slew Bandon." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-malak-dispatched-bandon-to-stop-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:255`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -83,13 +82,11 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > With two dark side cronies in tow, Bandon confronts Revan but is killed by the former Sith Lord.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Darth Bandon; Revan — entry/section: Knights of the Old Republic Campaign Guide (Saga): "With two dark side cronies in tow, Bandon confronts Revan but is killed by the former Sith Lord." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157 — full quote as printed](quotes/d718-s157-with-two-dark-side-cronies-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:377`
 
 > As Revan grows more powerful, Darth Malak orders Darth Bandon to seek out and destroy Revan and his companions.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan; Darth Malak; Darth Bandon. POV: Darth Bandon; about Darth Bandon.
 Note (our notes, around the quote): Revan; Darth Malak; Darth Bandon: "As Revan grows more powerful, Darth Malak orders Darth Bandon to seek out and destroy Revan and his companions." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.157 — full quote as printed](quotes/d718-s157-as-revan-grows-more-powerful-darth.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:379`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption "ADMIRAL SAUL KARATH, TRAITOR TO THE REPUBLIC"; Darth Bandon stats conclude (Darth Bandon's fiber armor); Admiral Saul Karath bio and stats (Human soldier 5/noble 3/ace pilot 1/officer 7, CL 16). (hand-read)

@@ -14,13 +14,13 @@
 > Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Queen Galia.
 Note (our notes, around the quote): Recap of #1: "Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:34`
 
 > THAT'S NOT TRUE. ULIC DID EVERYTHING HE COULD.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Galia about Ulic Qel-Droma. POV: Galia.
 Note (our notes, around the quote): Galia about Ulic Qel-Droma: "THAT'S NOT TRUE. ULIC DID EVERYTHING HE COULD." Source: Freedon Nadd Uprising #1, p17
-![Freedon Nadd Uprising #1 p17: Galia: "That's not true. Ulic did everything he could"](panels/fnu1-p17-galia-ulic-did-everything.jpg)
+![Freedon Nadd Uprising #1 p17: Galia: "That's not true. Ulic did everything he could"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p17-galia-ulic-did-everything.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:43`
 
 > BUT HE'S BEEN DEAD FOR FOUR HUNDRED YEARS!
@@ -31,32 +31,32 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:78`
 > The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Queen Galia.
 Note (our notes, around the quote): Recap of #1: "The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!" · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:94`
 
 > Master Arca is felled by a blow of dark Force
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Queen Galia.
 Note (our notes, around the quote): Recap of #1: "Master Arca is felled by a blow of dark Force"; Ommin's bolts subdue him. · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:121`
 
 > THE PALACE IS FALLEN. WE NEED TO GET GALIA AWAY FROM HERE.
 — Source: Freedon Nadd Uprising #1, p9, p17 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Oron Kira and the beast-riders stand fast against the Naddists; Oron Kira: "THE PALACE IS FALLEN. WE NEED TO GET GALIA AWAY FROM HERE." Source: Freedon Nadd Uprising #1, p9, p17
-![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:244`
 
 > As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap (Galia's role). POV: Recap, about Queen Galia.
 Note (our notes, around the quote): Recap (Galia's role): "As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:245`
 
 > AS ORON KIRA'S MEN HOLD BACK THE UNTAMED CREATURES OF DXUN, THE ENTOMBMENT CEREMONY GOES FORWARD WITHOUT A HITCH.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Oron Kira's men guard the Dxun entombment. POV: narrator, about Queen Galia.
 Note (our notes, around the quote): Oron Kira's men guard the Dxun entombment: "AS ORON KIRA'S MEN HOLD BACK THE UNTAMED CREATURES OF DXUN, THE ENTOMBMENT CEREMONY GOES FORWARD WITHOUT A HITCH." · NARRATION. (Galia and Oron Kira stand at the tomb; no Force feats.) Source: Freedon Nadd Uprising #2, p22
-![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](panels/fnu2-p22-dxun-entombment-arca.jpg)
+![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p22-dxun-entombment-arca.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:247`
 
 - Note (summary from our notes, not a quotation): All 27 pages of #1 and all 22 pages of #2 read (NEW 2026-10-27). The Onderon arc is complete for Freedon Nadd, Ommin, Arca Jeth, Galia and the Jedi team. Thon does not appear in #2.
@@ -67,7 +67,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:343`
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Onderon site entry. POV: Onderon site entry, about Queen Galia.
 Note (our notes, around the quote): Onderon site entry: "Queen Galia, the first in her line to cast off the pall of the dark side that had consumed each of her ancestors, and the beast lord Oron Kira now rule Onderon in relative peace". Source: Tales of the Jedi Companion (WEG, 1996), p.132
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.132 — full quote as printed](quotes/companion-p132-queen-galia-the-first-in-her.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.132 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p132-queen-galia-the-first-in-her.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:266`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

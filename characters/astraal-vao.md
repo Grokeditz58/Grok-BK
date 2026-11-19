@@ -33,7 +33,7 @@ Our notes: `notes/materials/039-legacy-2006/legacy-40.md:122`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Astraal Vao (p181).
 Label in our notes: CL 5; UtF +4
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p181 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p181-also-force-sensitive-though-she-has.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p181 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p181-also-force-sensitive-though-she-has.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:716`
 
 # Debate and forum claims (unverified)

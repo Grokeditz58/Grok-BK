@@ -18,13 +18,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Although he managed to corner the pair several times, these encounters always resulted in Bossk's defeat and humiliation.
 — Source: scan pages 81–120; Bossk — entry/section: Bossk.
 Note (our notes, around the quote): Bossk — entry/section: Bossk: "Although he managed to corner the pair several times, these encounters always resulted in Bossk's defeat and humiliation." Source: The Complete Star Wars Encyclopedia, Vol. I, p.88
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.88 — full quote as printed](quotes/v1-p88-although-he-managed-to-corner-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:186`
 
 > Bossk then spent some time in Jabba's palace, but fled the Hutt's sail barge before Luke Skywalker and Princess Leia destroyed the craft.
 — Source: scan pages 81–120; Bossk; Luke Skywalker; Leia Organa Solo — entry/section: Bossk.
 Note (our notes, around the quote): Bossk; Luke Skywalker; Leia Organa Solo — entry/section: Bossk: "Bossk then spent some time in Jabba's palace, but fled the Hutt's sail barge before Luke Skywalker and Princess Leia destroyed the craft." Source: The Complete Star Wars Encyclopedia, Vol. I, p.88
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.88 — full quote as printed](quotes/v1-p88-bossk-then-spent-some-time-in.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:188`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -32,7 +30,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Bossk purchased it after the Wookiee Chewbacca and Han Solo destroyed his previous ship on Gandolo IV.
 — Source: scan pages 41–80; Bossk; Chewbacca; Han Solo.
 Note (our notes, around the quote): Bossk; Chewbacca; Han Solo: "Bossk purchased it after the Wookiee Chewbacca and Han Solo destroyed his previous ship on Gandolo IV." Source: The Complete Star Wars Encyclopedia, Vol. II, p.63
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.63 — full quote as printed](quotes/v2-p63-bossk-purchased-it-after-the-wookiee.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:204`
 
 ## The New Essential Guide to Characters (2002)
@@ -44,25 +41,21 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-0
 > As he prepared to leave Vader's Super Star Destroyer, Bossk ran into Tinian l'att and her Wookiee partner Chenlambec, two hunters who had failed to make Vader's cut.
 — Source: scan pages 1–30; Darth Vader (Anakin Skywalker); Bossk.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Bossk: "As he prepared to leave Vader's Super Star Destroyer, Bossk ran into Tinian l'att and her Wookiee partner Chenlambec, two hunters who had failed to make Vader's cut." Source: The New Essential Guide to Characters, p.29
-![Quote image: The New Essential Guide to Characters, p.29 — full quote as printed](quotes/negc-p29-as-he-prepared-to-leave-vaders.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:159`
 
 > During a quick stopover on Corellia, Bossk shot and killed CorSec officer Hal Horn.
 — Source: scan pages 1–30; Bossk. POV: Bossk.
 Note (our notes, around the quote): Bossk: "During a quick stopover on Corellia, Bossk shot and killed CorSec officer Hal Horn." Source: The New Essential Guide to Characters, p.29
-![Quote image: The New Essential Guide to Characters, p.29 — full quote as printed](quotes/negc-p29-during-a-quick-stopover-on-corellia.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:161`
 
 > Believing Fett to be a permanent resident in the Sarlacc's belly, Bossk attempted to steal the ship, but was tricked into thinking the Hound's Tooth was wired to explode.
 — Source: scan pages 1–30; Bossk. POV: Bossk.
 Note (our notes, around the quote): Bossk: "Believing Fett to be a permanent resident in the Sarlacc's belly, Bossk attempted to steal the ship, but was tricked into thinking the Hound's Tooth was wired to explode." Source: The New Essential Guide to Characters, p.30
-![Quote image: The New Essential Guide to Characters, p.30 — full quote as printed](quotes/negc-p30-believing-fett-to-be-a-permanent.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:168`
 
 > For the mission Fett stole the freighter Hound's Tooth from his rival Bossk, leaving Slave | behind on Tatooine.
 — Source: scan pages 61–90; Bossk. POV: Bossk.
 Note (our notes, around the quote): Bossk: "For the mission Fett stole the freighter Hound's Tooth from his rival Bossk, leaving Slave | behind on Tatooine." Source: The New Essential Guide to Characters, p.68
-![Quote image: The New Essential Guide to Characters, p.68 — full quote as printed](quotes/negc-p68-for-the-mission-fett-stole-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:12`
 
 ## Adventures/Horning In.pdf [Star Wars Roleplaying Game (d20, 2000)]
@@ -82,7 +75,6 @@ Our notes: `notes/materials/037-sw-d20-folder/030-tempest-feud-scan-001-060.md:1
 > Bossk began his career hunting escaped Wookiee slaves and has a running feud with Han Solo's partner, Chewbacca. Though they have tangled multiple times, it is always Bossk who comes up short—short a limb, generally.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Bossk; Chewbacca — entry/section: Bossk's feud with Chewbacca.
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Bossk's feud with Chewbacca: "Bossk began his career hunting escaped Wookiee slaves and has a running feud with Han Solo's partner, Chewbacca. Though they have tangled multiple times, it is always Bossk who comes up short—short a limb, generally." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.100
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.100 — full quote as printed](quotes/d043-s100-bossk-began-his-career-hunting-escaped.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:260`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -96,7 +88,6 @@ Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-001-06
 > Hound's Tooth The bounty hunter Bossk had the Hounds Tooth built after Han Solo and Chewbacca destroyed his previous ship.
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Bossk; Han Solo; Chewbacca.
 Note (our notes, around the quote): Bossk; Han Solo; Chewbacca: "Hound's Tooth The bounty hunter Bossk had the Hounds Tooth built after Han Solo and Chewbacca destroyed his previous ship." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.48
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.48 — full quote as printed](quotes/d056-s48-hounds-tooth-the-bounty-hunter-bossk.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:320`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -114,7 +105,6 @@ Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:10`
 > Convinced that brute force would seal the deal, Malta hired Bossk, Dengar, and IG-88 to retrieve the object.
 — Source: Characters/Hutts/Malta and Quaffug.pdf [Star Wars Roleplaying Game Revise.
 Note (our notes, around the quote): Bossk; Dengar; IG-88 — entry/section: Malta hires Bossk, Dengar and IG-88: "Convinced that brute force would seal the deal, Malta hired Bossk, Dengar, and IG-88 to retrieve the object." Source: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d088-s1-convinced-that-brute-force-would-seal.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:18`
 
 ## Characters/Miniatures/Bounty Hunters Preview 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -128,7 +118,6 @@ Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:10
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett — entry/section: Bossk's screen history and rivalry with Chewbacca: "The reptilian Bossk first appeared on screen in The Empire Strikes Back as one of the elite bounty hunters personally invited by Darth Vader to pursue the Millennium Falcon. He didn't manage to capture the Falcon, or steal the frozen Han Solo from Boba Fett. But Bossk maintained a long rivalry with Chewbacca before and after the incident. Bossk is a Trandoshan, which is one of the native species of the Kashyyyk system and a longtime enemy of the Wookiees." Source: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d093-s1-the-reptilian-bossk-first-appeared-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:12`
 
 > Bossk, Bounty Hunter is highly effective in close­range combat, with powerful claw attacks and his dangerous, crowd­thinning Flamethrower. His Regeneration ability allows him to regain 10 hit points in any round he doesn't move. This power should help him stay in the fight longer when battling adjacent, non­moving enemies for consecutive rounds. Opponents with few hit points will find Bossk, Bounty Hunter a formidable foe. They won't last long in adjacent fighting, and they can't survive even a single hit from his Flamethrower. Star Wars Miniatures Stat Card Preview Faction: Fringe Cost: 25 Hit Points: 60 Defense: 17 Attack: +8 Damage: 20 Special Abilities: Unique, Bounty Hunter +4, Double Claw Attack, Flamethrower 20, Momentum, Regeneration 10, Rend +10 Star Wars Roleplaying Game Statistics Bossk: Male Trandoshan scout 4/soldier 3/bounty hunter 1; Init +3 (+3 Dex); Defense 22 (+1 natural, + 8 class, +3 Dex); Spd 10 m; VP/WP 66/16; Atk +10/+5, melee (1d3+3, unarmed) or +10/+5 ranged (3d8/19–20, blaster rifle) or +10/+5 ranged (3d6/1d6 stun grenade) or +10/+5 ranged (2d6, flamethrower); SQ darkvision 20 m, trailblazing, heart +1, uncanny dodge, target bonus +1; SV Fort +9, Ref +7, Will +5; SZ M; FP 2; DSP 8; Rep +3; Str 16, Dex 17, Con 16, Int 12, Wis 12, Cha 13. Challenge Code D.
@@ -136,7 +125,6 @@ Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 Note (our notes, around the quote): Bossk — entry/section: Bossk, Bounty Hunter: "Opponents with few hit points will find Bossk, Bounty Hunter a formidable foe." Source: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d093-s1-opponents-with-few-hit-points-will.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:14`
 
 - Note (summary from our notes, not a quotation): Page contents: Bossk skills/feats; Mistryl Shadow Guard background (Emberlene), tactics, card, RPG stats (hand-read)
@@ -154,7 +142,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:24`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Bossk; Darth Vader (Anakin Skywalker); Han Solo; Chewbacca — entry/section: Bossk hunts Chewbacca: "While most bounty hunters summoned by Darth Vader after the battle of Hoth were there to hunt down Han Solo, the Trandoshan Bossk's real target was the Wookiee Chewbacca. After years of skinning and collecting the pelts of Wookiees, he saw Chewbacca as the ultimate prize coat." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d115-s2-while-most-bounty-hunters-summoned-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:26`
 
 ## Jedi Counselling/Jedi Counseling 82.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -164,7 +151,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:26`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 82 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_82_pdf_c8bbba654c`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 82 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_82_pdf_c8bbba654c`).)
 Note (our notes, around the quote): Dengar; Bossk; IG-88 — entry/section: Two Rodian Black Sun Vigos and Fringe Reserves: "A: You get two separate groups of 20 points of Fringe Reserves. For example, you could get Dengar (15 points) with one and Bossk (17 points) with the other, but you could not combine the points to get IG-88 (37 points)." Source: *Jedi Counseling 82* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 82* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d252-s3-a-you-get-two-separate-groups.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/252-jedi-counseling-82.md:31`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -182,13 +168,11 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 > Although his career as a bounty hunter began long before the Empire, the rise of the Empire provided Bossk with the opportunity he had been waiting for. The Empire needed bounty hunters to bring in “criminals” such as Rebel holdouts and those who did not believe in the sovereignty of the Emperor. Their methods were also appealing to the Trandoshan, who preferred violent methods to peaceful ones and was known to be a cruel keeper to those he brought in alive. Bossk quickly became one of the Empire's most reliable bounty hunters, and he was personally selected by Darth Vader to hunt down Luke Skywalker and his allies after the Battle of Hoth.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Darth Vader (Anakin Skywalker); Luke Skywalker — entry/section: Bossk.
 Note (our notes, around the quote): Bossk; Darth Vader (Anakin Skywalker); Luke Skywalker — entry/section: Bossk: "Although his career as a bounty hunter began long before the Empire, the rise of the Empire provided Bossk with the opportunity he had been waiting for. The Empire needed bounty hunters to bring in “criminals” such as Rebel holdouts and those who did not believe in the sovereignty of the Emperor. Their methods were also appealing to the Trandoshan, who preferred violent methods to peaceful ones and was known to be a cruel keeper to those he brought in alive. Bossk quickly became one of the Empire's most reliable bounty hunters, and he was personally selected by Darth Vader to hunt down Luke Skywalker and his allies after the Battle of Hoth." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d672-s12-although-his-career-as-a-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:73`
 
 > Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett; Jabba the Hutt — entry/section: Bossk and Chewbacca: "Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d672-s12-bossk-jumped-at-the-chance-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:75`
 
 - Note (summary from our notes, not a quotation): Page contents: Bossk description, goals, tactics, affiliations, era notes, stats; Hound's Tooth. (hand-read)
@@ -198,25 +182,21 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 > He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Chewbacca — entry/section: Ultimate Adversaries (Revised Core).
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Ultimate Adversaries (Revised Core): "He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-he-is-at-his-prime-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:82`
 
 > Bossk loves being a bounty hunter and can think of nothing he would rather do. He scrounges any piece of information he can get on Chewbacca, and has followed the Wookiee all over the galaxy only to come up empty handed each time they have fought. Bossk no longer wishes to collect the bounty on the Wookiee, instead just wishing to see him dead. Even when he takes jobs in other parts of the galaxy, his arch-nemesis is never far from his mind.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Chewbacca — entry/section: Bossk: Goals.
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Bossk: Goals: "Bossk loves being a bounty hunter and can think of nothing he would rather do. He scrounges any piece of information he can get on Chewbacca, and has followed the Wookiee all over the galaxy only to come up empty handed each time they have fought. Bossk no longer wishes to collect the bounty on the Wookiee, instead just wishing to see him dead. Even when he takes jobs in other parts of the galaxy, his arch-nemesis is never far from his mind." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-loves-being-a-bounty-hunter.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:84`
 
 > Bossk is well known among bounty hunters, and his experience has helped him garner several large and ongoing contracts. Lesser bounty hunters often pay Bossk to complete a particularly challenging bounty that they have failed to accomplish, a task he does in return for later favors. In this way, Bossk has managed to accumulate a vast network of resources at his disposal. He is also known to feud with those who displease him, such as when Boba Fett refused to turn over Chewbacca after capturing he and Han Solo in Cloud City.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Boba Fett; Chewbacca; Han Solo — entry/section: Bossk: Affiliations.
 Note (our notes, around the quote): Bossk; Boba Fett; Chewbacca; Han Solo — entry/section: Bossk: Affiliations: "Bossk is well known among bounty hunters, and his experience has helped him garner several large and ongoing contracts. Lesser bounty hunters often pay Bossk to complete a particularly challenging bounty that they have failed to accomplish, a task he does in return for later favors. In this way, Bossk has managed to accumulate a vast network of resources at his disposal. He is also known to feud with those who displease him, such as when Boba Fett refused to turn over Chewbacca after capturing he and Han Solo in Cloud City." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-is-well-known-among-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:86`; `suspect-insight/respect-threads/bossk.md:155`
 
 > Bossk is still a young Trandoshan during the Rise of the Empire era and has not grown into the fearsome bounty hunter that he will become. Still, his attitudes and abilities are not uncommon among his species and the stats provided could be used for any similar Trandoshan. He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest. During the New Jedi Order period, Bossk is an old and broken figure. He blindly pursues Chewbacca well past the point that his body could handle another encounter with the Wookiee, as they years of injuries have finally caught up to him.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Chewbacca — entry/section: Bossk: Era Notes.
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Bossk: Era Notes: "Bossk is still a young Trandoshan during the Rise of the Empire era and has not grown into the fearsome bounty hunter that he will become. Still, his attitudes and abilities are not uncommon among his species and the stats provided could be used for any similar Trandoshan. He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest. During the New Jedi Order period, Bossk is an old and broken figure. He blindly pursues Chewbacca well past the point that his body could handle another encounter with the Wookiee, as they years of injuries have finally caught up to him." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-is-still-a-young-trandoshan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:88`
 
 - Note (summary from our notes, not a quotation): Page contents: Bossk feats; C-3PX (Darth Maul's modified droid, Olag Greck) history, description, goals, tactics. (hand-read)
@@ -234,7 +214,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga).
 Note (our notes, around the quote): Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga): "Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.116
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.116 — full quote as printed](quotes/d725-s116-although-the-gand-was-not-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:381`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -246,7 +225,6 @@ Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001
 > He failed, and Solo destroyed his ship, stranding the bounty hunter on the wretched planet and leading to the grudge that Bossk would carry for the rest of his days.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Bossk. POV: Bossk.
 Note (our notes, around the quote): Bossk: "He failed, and Solo destroyed his ship, stranding the bounty hunter on the wretched planet and leading to the grudge that Bossk would carry for the rest of his days." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.18
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.18 — full quote as printed](quotes/d731-s18-he-failed-and-solo-destroyed-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:126`
 
 - Note (summary from our notes, not a quotation): Page contents: Bossk CL 12 stat block (Medium Trandoshan scout 5/soldier 3/bounty hunter 4; darkvision; limb regeneration; blaster rifle, flamethrower, grenade launcher with stun grenades, sporting blaster pistol, padded flight suit, Hound's Tooth); Hound's Tooth CL 12 stat block (Colossal space transport, quad laser cannons, medium concussion missiles, ion cannon; crew 1 Bossk, 4 prisoners). (hand-read)
@@ -274,7 +252,6 @@ Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:40`
 > He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books.
 — Source: Star Wars Insider #47 (1999); Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff).
 Note (our notes, around the quote): Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff): "He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books." Source: *Star Wars Insider #47* (1999), scan p.27
-![Quote image: *Star Wars Insider #47* (1999), scan p.27 — full quote as printed](quotes/ins047-s27-he-outran-a-fleet-of-bounty.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:144`
 
 ## Star Wars Insider #49 (2000)
@@ -630,7 +607,6 @@ Our notes: `notes/materials/154-new-essential-guide-to-vehicles-vessels-2003/quo
 > Duel helped the Rebels shake off pursuit from a syndicate of hunters led by Bossk and IG-88.
 — Source: scan pages 201–240; Bossk; IG-88.
 Note (our notes, around the quote): Bossk; IG-88: "Duel helped the Rebels shake off pursuit from a syndicate of hunters led by Bossk and IG-88." Source: The Complete Star Wars Encyclopedia, Vol. I, p.213
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.213 — full quote as printed](quotes/v1-p213-duel-helped-the-rebels-shake-off.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:221`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)

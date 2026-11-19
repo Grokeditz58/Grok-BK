@@ -57,7 +57,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:241`
 > [fragment — full passage not on file]
 — Source: Part Eleven: Generations of Jedi.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — Vader kept Kenobi's lightsaber: "the Jedi historian Tionne had learned that Darth Vader had saved Obi-Wan Kenobi's lightsaber after their fight aboard the Death Star." Source: The New Essential Chronology, p.196
-![Quote image: The New Essential Chronology, p.196 — full quote as printed](quotes/nec-p196-vader-kept-kenobis-lightsaber.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:22`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -79,7 +78,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/00-front-matter-int
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Tionne — Tionne — Force strength: "Though she is not particularly powerful in the Force, her enthusiasm and devotion to the Jedi cause is very infectious and strong." Source: The Jedi Academy Sourcebook, p.39
-![Quote image: The Jedi Academy Sourcebook, p.39 — full quote as printed](quotes/jas-p39-tionne-force-strength.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:150`
 
 > In many ways, she is the heart and soul of Luke's first The Jedi Academy Sourcebook === sp41 Jedi class. She is the morale booster when the other students grow despondent.
@@ -93,13 +91,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Tionne; Exar Kun — Tionne — researching Kun: "She discovers the accounts of the Great Sith War, and learns that though Kun was far more powerful than any one other Jedi of the time, a combined force had defeated him." Source: The Jedi Academy Sourcebook, p.40
-![Quote image: The Jedi Academy Sourcebook, p.40 — full quote as printed](quotes/jas-p40-tionne-researching-kun.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:157`
 
 > She supposes that the students have a chance of defeating him, since Kun no longer has his servants to draw on for power. He is his only resource.
 — Source: Chapter Three: The Jedi Academy; Tionne; Exar Kun — Tionne — Kun's lone resource.
 Note (our notes, around the quote): Tionne; Exar Kun — Tionne — Kun's lone resource: "She supposes that the students have a chance of defeating him, since Kun no longer has his servants to draw on for power. He is his only resource." Source: The Jedi Academy Sourcebook, p.40
-![Quote image: The Jedi Academy Sourcebook, p.40 — full quote as printed](quotes/jas-p40-tionne-kuns-lone-resource.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:159`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -129,7 +125,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > It’s not until six years after the Battle of Endor that Luke Skywalker and Tionne retrieve a small number of records before the station is completely consumed by Teedio.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Luke Skywalker; Tionne — entry/section: Luke and Tionne at Exis Station: "It’s not until six years after the Battle of Endor that Luke Skywalker and Tionne retrieve a small number of records before the station is completely consumed by Teedio." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d667-s111-it-s-not-until-six-years.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:396`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -141,7 +136,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Years later, the Kushiban Jedi Master Ikrit and the Jedi Knights Kam Solusar and Tionne lived there as three members of the Jedi academy’s small permanent staff.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Kam Solusar; Tionne — entry/section: Academy staff.
 Note (our notes, around the quote): Kam Solusar; Tionne — entry/section: Academy staff: "Years later, the Kushiban Jedi Master Ikrit and the Jedi Knights Kam Solusar and Tionne lived there as three members of the Jedi academy’s small permanent staff." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154 — full quote as printed](quotes/d667-s154-years-later-the-kushiban-jedi-master.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:267`
 
 ## The Dark Nest Trilogy (Troy Denning, Del Rey 2005): FULL consecutive re-read (2026-11-16 CST)

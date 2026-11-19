@@ -84,7 +84,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:214`
 > I was basically an extra. I can't even remember George Lucas talking to me.
 — Source: Star Wars Insider #75 (2004); Sabé — entry/section: Knightley on playing Sabé.
 Note (our notes, around the quote): Sabé — entry/section: Knightley on playing Sabé: ""I was basically an extra. I can't even remember George Lucas talking to me." —Keira Knightley, Star Wars Insider 75, p. 34" Source: *Star Wars Insider #75* (2004), scan p.34
-![Quote image: *Star Wars Insider #75* (2004), scan p.34 — full quote as printed](quotes/ins075-s34-i-was-basically-an-extra-i.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:216`
 
 ## Star Wars Insider #131 (2012)

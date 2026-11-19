@@ -38,7 +38,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:427`
 > She got more than she bargained for and was killed in the M2398 system.
 — Source: Star Wars Insider #59 (2002); Jesmin Ackbar; Admiral Ackbar — entry/section: Jesmin Ackbar.
 Note (our notes, around the quote): Jesmin Ackbar; Admiral Ackbar — entry/section: Jesmin Ackbar: "She got more than she bargained for and was killed in the M2398 system." Source: *Star Wars Insider #59* (2002), scan p.58
-![Quote image: *Star Wars Insider #59* (2002), scan p.58 — full quote as printed](quotes/ins059-s58-she-got-more-than-she-bargained.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:429`
 
 ## Star Wars Insider #134 (2012)

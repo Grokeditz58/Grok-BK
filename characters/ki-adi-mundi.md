@@ -145,19 +145,17 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:652`
 > Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice.
 — Source: Part Two: The Fall of the Republic; Aurra Sing kills Sharad Hett. POV: Aurra Sing kills Sharad Hett, about Ki-Adi-Mundi.
 Note (our notes, around the quote): Aurra Sing kills Sharad Hett: "Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice." Source: The New Essential Chronology, p.45
-![Quote image: The New Essential Chronology, p.45 — full quote as printed](quotes/nec-p45-aurra-sing-kills-sharad-hett.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:141`
 
 > General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): General Grievous; Ki-Adi-Mundi; K'Kruhk; Shaak Ti; Aayla Secura — Grievous on Hypori: "General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-grievous-on-hypori.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:284`
 
 > On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Aayla Secura; Barriss Offee; Ki-Adi-Mundi; Plo Koon; Stass Allie; Obi-Wan Kenobi; Yoda — Order 66: "On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-order-66.jpg)
+![Quote image: The New Essential Chronology, p.84 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p84-order-66.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:518`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -167,13 +165,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Ki-Adi-Mundi: "After Ki-Adi-Mundi defeated the raider chief, Bin-Garda-Zon attempted to challenge the Jedi Knight, but he was easily defeated." Source: The Complete Star Wars Encyclopedia, Vol. I, p.75
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.75 — full quote as printed](quotes/v1-p75-after-ki-adi-mundi-defeated-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:73`
 
 > Ki-Adi- Mundi was able to defeat FLTCH R-1l, and the droid was reprogrammed.
 — Source: scan pages 281–320; Ki-Adi-Mundi. POV: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi: "Ki-Adi- Mundi was able to defeat FLTCH R-1l, and the droid was reprogrammed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.282
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.282 — full quote as printed](quotes/v1-p282-ki-adi-mundi-was-able-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:130`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -181,7 +177,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Fortunately, they were rescued by Ki-Adi-Mundi before they could be incinerated.
 — Source: scan pages 81–120; Ki-Adi-Mundi. POV: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi: "Fortunately, they were rescued by Ki-Adi-Mundi before they could be incinerated." Source: The Complete Star Wars Encyclopedia, Vol. II, p.111
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.111 — full quote as printed](quotes/v2-p111-fortunately-they-were-rescued-by-ki.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:244`
 
 - Note (summary from our notes, not a quotation): Page contents: 1101 words, 25 paragraphs | headings/entries: Kharys; Khetanna; Khim'bar; Khomm; Kho Nai; Khorda, General Ashaar; Khral'Nas; Khuiumin; Khurgee, Captain; Ki-Adi-Mundi
@@ -191,19 +186,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > He eventually escaped using the Force and defeated her.
 — Source: scan pages 201–240; Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "He eventually escaped using the Force and defeated her." Source: The Complete Star Wars Encyclopedia, Vol. II, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.215 — full quote as printed](quotes/v2-p215-he-eventually-escaped-using-the-force.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:220`
 
 > Many Jedi died that day, though Ki-Adi-Mundi survived.
 — Source: scan pages 201–240; Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "Many Jedi died that day, though Ki-Adi-Mundi survived." Source: The Complete Star Wars Encyclopedia, Vol. II, p.216
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.216 — full quote as printed](quotes/v2-p216-many-jedi-died-that-day-though.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:229`
 
 > While briefly involved with Sylvn, the daughter of Jedi Ki-Adi-Mundi, Maj stole the Jedi's lightsaber and accidentally killed another Cerean, then fled.
 — Source: scan pages 281–320; Ki-Adi-Mundi. POV: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi: "While briefly involved with Sylvn, the daughter of Jedi Ki-Adi-Mundi, Maj stole the Jedi's lightsaber and accidentally killed another Cerean, then fled." Source: The Complete Star Wars Encyclopedia, Vol. II, p.277
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.277 — full quote as printed](quotes/v2-p277-while-briefly-involved-with-sylvn-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:24`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -221,7 +213,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 > Ki-Adi-Mundi opposed him again, and Jabba fought off a takeover attempt raised by his rival Gardulla.
 — Source: scan pages 61–90; Ki-Adi-Mundi. POV: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi: "Ki-Adi-Mundi opposed him again, and Jabba fought off a takeover attempt raised by his rival Gardulla." Source: The New Essential Guide to Characters, p.88
-![Quote image: The New Essential Guide to Characters, p.88 — full quote as printed](quotes/negc-p88-ki-adi-mundi-opposed-him-again.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:156`
 
 - Note (summary from our notes, not a quotation): Page contents: 415 words, 20 paragraphs | headings/entries: Old Republic, the Jedi Council; Depa Billaba; Adi Gallia; Ki-Adi-Mundi (Ke-a-dé-miin'-dé); As a Jedi Master, Ki-Adi-Mundi
@@ -231,7 +222,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > She killed Hett, but his son A'Sharad survived and became the Padawan learner of Ki-Adi-Mundi.
 — Source: scan pages 121–150; Darth Krayt; Ki-Adi-Mundi.
 Note (our notes, around the quote): Darth Krayt; Ki-Adi-Mundi: "She killed Hett, but his son A'Sharad survived and became the Padawan learner of Ki-Adi-Mundi." Source: The New Essential Guide to Characters, p.154
-![Quote image: The New Essential Guide to Characters, p.154 — full quote as printed](quotes/negc-p154-she-killed-hett-but-his-son.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:158`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -239,7 +229,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-1
 > While unswervingly loyal to Jabba, Ephant Mon is hardly an exemplary individual. Throughout his long life, he has been a mercenary, a slaver, and has even tangled with the Jedi—once actually kidnapping the daughter of Cerean Jedi Master Ki-Adi-Mundi. The Chevin has survived for so long largely by betraying his business associates faster than they can betray him.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Ephant Mon; Ki-Adi-Mundi — entry/section: Ephant Mon.
 Note (our notes, around the quote): Ephant Mon; Ki-Adi-Mundi — entry/section: Ephant Mon: "While unswervingly loyal to Jabba, Ephant Mon is hardly an exemplary individual. Throughout his long life, he has been a mercenary, a slaver, and has even tangled with the Jedi—once actually kidnapping the daughter of Cerean Jedi Master Ki-Adi-Mundi. The Chevin has survived for so long largely by betraying his business associates faster than they can betray him." Source: *Secrets of Tatooine* (SWRPG d20), scan p.51
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.51 — full quote as printed](quotes/d045-s51-while-unswervingly-loyal-to-jabba-ephant.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:318`
 
 ## Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–89)
@@ -261,7 +250,6 @@ Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 Note (our notes, around the quote): Ki-Adi-Mundi: "Deflect Blaster Bolt: Ki-Adi-Mundi can deflect any blaster bolt that misses him." Source: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.5
-![Quote image: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.5 — full quote as printed](quotes/d064-s5-deflect-blaster-bolt-ki-adi-mundi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced-missions.md:59`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 4/402 - Jedi Code - The Way of the Force.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -284,7 +272,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 (Full sentence/passage taken from the source text on file: `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf`.)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Lanius Qel-Bertok: ""<Insert hero names>, I have the honor to introduce to you Master Ki-Adi-Mundi, member of the Jedi Council, of the Jedi Temple on Coruscant."" Source: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18
-![Quote image: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18 — full quote as printed](quotes/d325-p18-insert-hero-names-i-have-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:202`
 
 > You enter a much smaller room. It is obviously a The Way of the Force Page 18 conference room, with a long table, comfortable chairs, a holoprojector, computer— and a wall-screen that displays a view of the chamber from which you just came. As you come in and the door slides shut behind you, a tall, elderly Cerean in the robes of a Jedi Master rises to greet you. Master Lanius moves to him and then turns to face your group. “<Insert hero names>, I have the honor to introduce to you Master Ki-Adi-Mundi, member of the Jedi Council, of the Jedi Temple on Coruscant.” The Jedi smiles, and whether sensitive to the Force or not, you can feel the restrained power radiating from him. “Please,” he says, “let us all sit. I have been observing your lesson with great interest, teachers. But talking is dry work, and there are refreshments here.” Encounter 7: Setting Up the Board Key ideas of this encounter: Ki-Adi-Mundi reveals his decision regarding the extension of Almas’ right to train Jedi as Master Lanius has been doing it. It is revealed that not all was as it seemed, during the tests. The heroes are asked to go after the Black Queen.
@@ -293,7 +280,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 (Full sentence/passage taken from the source text on file: `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf`.)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""Please," he says, "let us all sit. I have been observing your lesson with great interest, teachers. But talking is dry work, and there are refreshments here."" Source: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18
-![Quote image: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18 — full quote as printed](quotes/d325-p18-please-he-says-let-us-all.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:204`
 
 > No stats are provided for Ki-Adi-Mundi, although he can be found in Powers of the Jedi, p. 119. No stats are needed, really. He is wise, calm, powerful, authoritative and, here, friendly. Incidentally, he has several wives, but does not feel that he needs to discuss Jedi traditions right here and now. If pressed, he merely says, “As we Cereans are fond of saying, there are many sides to arguments, and many ways of accomplishing the same goal. As you yourselves have proven.” Ki-Adi-Mundi turns to Lanius and says: “I can now see why Master Yoda, when he sent me here, said that he wanted a Jedi who could carefully weigh both sides of an argument. It is as you have said, Master Qel-Bertok. The Jedi of Cularin, at least, can stand to benefit from the worldly wisdom afforded by those from outside the Order. They can also learn from those who have come late to join it.
@@ -301,7 +287,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""As we Cereans are fond of saying, there are many sides to arguments, and many ways of accomplishing the same goal. As you yourselves have proven."" Source: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18
-![Quote image: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18 — full quote as printed](quotes/d325-p18-as-we-cereans-are-fond-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:206`
 
 > He is wise, calm, powerful, authoritative and, here, friendly. Incidentally, he has several wives, but does not feel that he needs to discuss Jedi traditions right here and now. If pressed, he merely says, “As we Cereans are fond of saying, there are many sides to arguments, and many ways of accomplishing the same goal. As you yourselves have proven.” Ki-Adi-Mundi turns to Lanius and says: “I can now see why Master Yoda, when he sent me here, said that he wanted a Jedi who could carefully weigh both sides of an argument. It is as you have said, Master Qel-Bertok. The Jedi of Cularin, at least, can stand to benefit from the worldly wisdom afforded by those from outside the Order. They can also learn from those who have come late to join it. I still perceive great dangers in your unorthodox methods, but I have decided that they are balanced by the benefits.” He glances at you. “So, Lanius, since you placed so much faith in these people, to put your own future and the future of this Academy in their hands, I do not think that you will mind them hearing the results of your Trial: your probationary period is at an end. You are confirmed as Master of this Academy, and its tenure is extended.
@@ -309,7 +294,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 Note (our notes, around the quote): Ki-Adi-Mundi; Yoda — entry/section: Ki-Adi-Mundi: ""I can now see why Master Yoda, when he sent me here, said that he wanted a Jedi who could carefully weigh both sides of an argument. It is as you have said, Master Qel-Bertok. The Jedi of Cularin, at least, can stand to benefit from the worldly wisdom afforded by those from outside the Order. They can also learn from those who have come late to join it. I still perceive great dangers in your unorthodox methods, but I have decided that they are balanced by the benefits."" Source: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18
-![Quote image: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.18 — full quote as printed](quotes/d325-p18-i-can-now-see-why-master.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:208`
 
 - Note (summary from our notes, not a quotation): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""So, Lanius, since you placed so much faith in these people, to put your own future and the future of this Academy in their hands, I do not think that you will mind them hearing the results of your Trial: your probationary period is at an end. You are confirmed as Master of this Academy, and its tenure is extended.
@@ -322,7 +306,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 (Full sentence/passage taken from the source text on file: `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf`.)
 Note (our notes, around the quote): Ki-Adi-Mundi; Yoda — entry/section: Commendation from Master Ki-Adi-Mundi: "From Ki-Adi-Mundi to Master Yoda and the Jedi Council at Coruscant. As a result of events that occurred during the Jedi Trials on Almas, I would like to commend to your attention the individual named above, who should be considered to have successfully completed the Jedi Trials, presuming that the level of Jedi Knight is attained and that this Padawan continues in such exemplary service. Signed: Ki-Adi-Mundi, Witnessed: Lanius Qel-Bertuk" Source: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.20
-![Quote image: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.20 — full quote as printed](quotes/d325-p20-from-ki-adi-mundi-to-master.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:233`
 
 > Signed: Ki-Adi-Mundi, Witnessed: Lanius Qel- Bertuk [Game Mechanic: This does not grant Knighthood before 7th Jedi level, but is a nice commendation nonetheless. If the Padawan accrues any Dark Side Points before 7th lvl, this certificate is voided.] For Jedi heroes who are already Knights: Commendation from Master Ki-Adi-Mundi: From Ki-Adi-Mundi to Master Yoda and the Jedi Council at Coruscant. As a result of events that occurred during the Jedi Trials on Almas, I would like to commend to your attention the individual named above, who has shown exceptional sensitivity and understanding of the way of the Force. Should this Knight ever decide to retire to Coruscant the Jedi Temple would gain an excellent instructor. Signed: Ki-Adi-Mundi, Witnessed: Lanius Qel-Bertuk For a Jedi hero who gains enough experience in this scenario to make 7th level Commendation from Master Ki-Adi-Mundi: From Ki-Adi-Mundi to Master Yoda and the Jedi Council at Coruscant.As a result of events that occurred during the Jedi Trials on Almas, I would like to commend to your attention the individual named above, who has shown exceptional sensitivity and understanding of the way of the Force and has successfully completed the Jedi Trials, attaining the level of Jedi Knight. Signed: Ki-Adi- Mundi, Witnessed: Lanius Qel-Bertuk The Way of the Force Page 21 Player Handout 1: Seeker – Jedi Academy loaner ship Seeker, Corellian Engineering Corporation YT-1300 Transport.
@@ -331,7 +314,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 402 Jedi Code The Way of the Force (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf_0107300939`).)
 (Full sentence/passage taken from the source text on file: `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_402_Jedi_Code_The_Way_of_the_Force_pdf`.)
 Note (our notes, around the quote): Ki-Adi-Mundi; Yoda — entry/section: Commendation from Master Ki-Adi-Mundi: "From Ki-Adi-Mundi to Master Yoda and the Jedi Council at Coruscant. As a result of events that occurred during the Jedi Trials on Almas, I would like to commend to your attention the individual named above, who has shown exceptional sensitivity and understanding of the way of the Force. Should this Knight ever decide to retire to Coruscant the Jedi Temple would gain an excellent instructor. Signed: Ki-Adi-Mundi, Witnessed: Lanius Qel-Bertuk" Source: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.20
-![Quote image: *402 - Jedi Code - The Way of the Force* (SWRPG d20 Revised Core), p.20 — full quote as printed](quotes/d325-p20-from-ki-adi-mundi-to-master-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:235`; `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:237`; `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.md:239`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 4/403 - Jedi Code - The Dark Side Beckons.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -352,7 +334,6 @@ Our notes: `notes/materials/037-sw-d20-folder/326-403-jedi-code-the-dark-side-be
   — Source: Living Force Campaign/Adventures/Among the Stars/Year 4/403 - Jedi Code -.
 ("Well," says Ki-Adi-Mundi, somewhat breathless, "it seems that not only you Padawans and Knights have learned a lesson from the story, here, tonight.)
 ("In behalf of the Jedi Council, and for myself, I must thank Master Lanius and our special guests, for providing us with such a fine storyteller."" Source: *403 - Jedi Code - The Dark Side Beckons* (SWRPG d20 Revised Core), p.26)
-![Quote image: *403 - Jedi Code - The Dark Side Beckons* (SWRPG d20 Revised Core), p.26 — full quote as printed](quotes/d326-p26-for-a-moment-the-cerean-master.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/326-403-jedi-code-the-dark-side-beckons.md:224`
 
 - Note (summary from our notes, not a quotation): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""I must now return to Coruscant. There are many events in motion, and all of our abilities and service will be needed. To the Padawans, and to our new Knights, I give this admonition, from the Coruscant Temple: learn well the lessons of the light Side of the Force, lest the dark side beckon.
@@ -370,7 +351,6 @@ Our notes: `notes/materials/037-sw-d20-folder/326-403-jedi-code-the-dark-side-be
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 418 Decisions Decision Cularin (text copy `Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_418_Decisions_Decision_Cularin_pdf_672ac7f9f3`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 418 Decisions Decision Cularin (text copy `Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_418_Decisions_Decision_Cularin_pdf_672ac7f9f3`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "They include Biko, Oora Gellandi, and Jedi Master Ki-Adi-Mundi, who once predicted that he would be proud to serve beside the heroes. The master may be wounded, if the dice fall that way, but may not die here. It is not yet his time." Source: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.7
-![Quote image: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.7 — full quote as printed](quotes/d340-p7-they-include-biko-oora-gellandi-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/340-418-decisions-decision-cularin.md:63`
 
 > They are now proven to be in league with the Separatists. It is my hope that Cularin’s Armed Forces, now officially recognized by the Republic as a standing military force allied to the Republic Army, will continue its mission of liberation past the borders of Cularin and into Thaere. Let my people be freed, as you have been.” Whether your fate is to answer that plea or not, you know that Cularin will never be the same. A universe of opportunities and adventures lies ahead of you. As Senator Wren turns to look at you from the podium, and as she summons you up before the ecstatic throngs, you hear the voice of the representative of the Corsucant Jedi Temple, Master Ki-Adi-Mundi, murmur, “Well done, my friends. May the Force be with you— always.” GM NOTE: In case you or your players are wondering, the mission to oust the Thaereian Military Junta and free Thaere is the subject of an upcoming Battle Interactive named “Situation Room”. If approved for release, this interactive will be orderable by local conventions and game days. However, no hero needs to participate in it. By the commencement of the Year 5 story arc, that part of the plot will have been resolved.
@@ -378,7 +358,6 @@ Our notes: `notes/materials/037-sw-d20-folder/340-418-decisions-decision-cularin
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 418 Decisions Decision Cularin (text copy `Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_418_Decisions_Decision_Cularin_pdf_672ac7f9f3`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 418 Decisions Decision Cularin (text copy `Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_418_Decisions_Decision_Cularin_pdf_672ac7f9f3`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "you hear the voice of the representative of the Corsucant Jedi Temple, Master Ki-Adi-Mundi, murmur, "Well done, my friends. May the Force be with you— always."" Source: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.16
-![Quote image: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.16 — full quote as printed](quotes/d340-p16-you-hear-the-voice-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/340-418-decisions-decision-cularin.md:166`
 
 > They run out of fuel after three rounds, not six. Any missile that misses has a flat 50% chance of impacting the ground or an obstruction and detonating. *Provides full cover to the pilot and crew Decision: Cularin Page 28 GM NOTE: This vehicle will not target the heroes unless they are in the tank and either attract its attention or fire upon it. It is headed for the LZ to blow up the Militia landing vehicles. Potential “helpers” (not tiered): Don’t use them all, if you use any. Select the appropriate helper(s) for the situation and your group. Jedi Master Ki-Adi-Mundi: He once said, at the Almas Academy, “I would be proud to serve with any of the beings here tonight. Who knows, perhaps one day I shall?” If he makes an appearance, that day has come. While stats for him exist in the PotJ sourcebook, they are not truly needed: he has “script immunity” and only appears to deflect a few blaster bolts, wave away some droids, affect the enemy’s minds so that they go away, or whatever is needed. A blaster bolt may wing him, for a little vitality loss, if you wish a medic hero to have a quick thrill by helping him. That’s as seriously as he can be hurt; this is not his time.
@@ -386,12 +365,10 @@ Our notes: `notes/materials/037-sw-d20-folder/340-418-decisions-decision-cularin
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 418 Decisions Decision Cularin (text copy `Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_418_Decisions_Decision_Cularin_pdf_672ac7f9f3`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 418 Decisions Decision Cularin (text copy `Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_418_Decisions_Decision_Cularin_pdf_672ac7f9f3`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "He once said, at the Almas Academy, "I would be proud to serve with any of the beings here tonight. Who knows, perhaps one day I shall?"" Source: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.28
-![Quote image: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.28 — full quote as printed](quotes/d340-p28-he-once-said-at-the-almas.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/340-418-decisions-decision-cularin.md:241`
 
 - Note (summary from our notes, not a quotation): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "he has "script immunity" and only appears to deflect a few blaster bolts, wave away some droids, affect the enemy's minds so that they go away, or whatever is needed." Source: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.28
   — Source: Living Force Campaign/Adventures/Among the Stars/Year 4/418 - Decisions -.
-![Quote image: *418 - Decisions - Decision Cularin* (SWRPG d20 Revised Core), p.28 — full quote as printed](quotes/d340-p28-he-has-script-immunity-and-only.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/340-418-decisions-decision-cularin.md:243`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 5/509 - Heart of Evil - Destruction.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -405,7 +382,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "The heroes meet Ki-Adi-Mundi, the Council member with the most connection to the Almas Academy, for the last time. His information sends the heroes speeding back towards Almas." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.9
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.9 — full quote as printed](quotes/d349-p9-the-heroes-meet-ki-adi-mundi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:93`
 
 > Some of the heroes may have met him. It is unlikely that they will get to do so again, and so, this farewell. Your report of your findings on the planetoid has resulted in quite a few raised eyebrows, of the “Why the void would you be so special” sort. However, you are not the only ones with surprises to offer. “We caught up with that fighter,” Captain Suubrin informs you, “it was just the one, not an advance scout, as it turns out. I think that you may know the pilot; he’s just been Destruction Page 10 released from the Med Bay.” From the Captain’s conference room, of the main bridge, Ki-Adi-Mundi walks in. For once, his characteristic calm seems somewhat shaken. “My friends. We have no time. Since the Force has arranged for you to be here, this may work out. “I have been torn between two paths, and you may know that some Cereans can be almost immobilized by such paradoxes.
@@ -413,7 +389,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "From the Captain's conference room, of the main bridge, Ki-Adi-Mundi walks in. For once, his characteristic calm seems somewhat shaken." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-from-the-captains-conference-room-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:105`
 
 > Your report of your findings on the planetoid has resulted in quite a few raised eyebrows, of the “Why the void would you be so special” sort. However, you are not the only ones with surprises to offer. “We caught up with that fighter,” Captain Suubrin informs you, “it was just the one, not an advance scout, as it turns out. I think that you may know the pilot; he’s just been Destruction Page 10 released from the Med Bay.” From the Captain’s conference room, of the main bridge, Ki-Adi-Mundi walks in. For once, his characteristic calm seems somewhat shaken. “My friends. We have no time. Since the Force has arranged for you to be here, this may work out. “I have been torn between two paths, and you may know that some Cereans can be almost immobilized by such paradoxes. I was not, but I came perilously close to having to put personal insight against that of the Council. “I have been on the trail of a being who is very strong with the Dark Side of the Force. I have discovered much that I must report back to the Council.
@@ -421,7 +396,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""My friends. We have no time. Since the Force has arranged for you to be here, this may work out." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-my-friends-we-have-no-time.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:107`
 
 > I think that you may know the pilot; he’s just been Destruction Page 10 released from the Med Bay.” From the Captain’s conference room, of the main bridge, Ki-Adi-Mundi walks in. For once, his characteristic calm seems somewhat shaken. “My friends. We have no time. Since the Force has arranged for you to be here, this may work out. “I have been torn between two paths, and you may know that some Cereans can be almost immobilized by such paradoxes. I was not, but I came perilously close to having to put personal insight against that of the Council. “I have been on the trail of a being who is very strong with the Dark Side of the Force. I have discovered much that I must report back to the Council. But, as I made my way towards Coruscant, I had a premonition of such intensity, and of such—horror—that I felt the need to deviate towards the Cularin system. On the way, I was attacked, perhaps by that very being that I thought was the object of my hunt.
@@ -429,7 +403,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""I have been torn between two paths, and you may know that some Cereans can be almost immobilized by such paradoxes. I was not, but I came perilously close to having to put personal insight against that of the Council." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-i-have-been-torn-between-two.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:109`
 
 > For once, his characteristic calm seems somewhat shaken. “My friends. We have no time. Since the Force has arranged for you to be here, this may work out. “I have been torn between two paths, and you may know that some Cereans can be almost immobilized by such paradoxes. I was not, but I came perilously close to having to put personal insight against that of the Council. “I have been on the trail of a being who is very strong with the Dark Side of the Force. I have discovered much that I must report back to the Council. But, as I made my way towards Coruscant, I had a premonition of such intensity, and of such—horror—that I felt the need to deviate towards the Cularin system. On the way, I was attacked, perhaps by that very being that I thought was the object of my hunt. I now begin to think that the hunter was not I. “He fled when your flotilla approached. Now, it is imperative that I return to Coruscant. But you—you must return to the Cularin system, to Almas. Please.
@@ -437,7 +410,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""I have been on the trail of a being who is very strong with the Dark Side of the Force. I have discovered much that I must report back to the Council. But, as I made my way towards Coruscant, I had a premonition of such intensity, and of such—horror—that I felt the need to deviate towards the Cularin system. On the way, I was attacked, perhaps by that very being that I thought was the object of my hunt. I now begin to think that the hunter was not I." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-i-have-been-on-the-trail.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:111`
 
 > I was not, but I came perilously close to having to put personal insight against that of the Council. “I have been on the trail of a being who is very strong with the Dark Side of the Force. I have discovered much that I must report back to the Council. But, as I made my way towards Coruscant, I had a premonition of such intensity, and of such—horror—that I felt the need to deviate towards the Cularin system. On the way, I was attacked, perhaps by that very being that I thought was the object of my hunt. I now begin to think that the hunter was not I. “He fled when your flotilla approached. Now, it is imperative that I return to Coruscant. But you—you must return to the Cularin system, to Almas. Please. Hurry.” If the heroes press for details, Ki-Adi-Mundi will say, “It is too dark, too uncertain— and I do not wish to discourage you.” If they insist, he will say, with a distraught look on his face, “I saw Almas— burning.” That should really get them on their way. All he can tell them of his target, if asked, is that he is Human or a near Humanoid, large, heavyset, and very likely as powerful with the Force as a Jedi Councilmember.
@@ -445,7 +417,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: ""He fled when your flotilla approached. Now, it is imperative that I return to Coruscant. But you—you must return to the Cularin system, to Almas. Please. Hurry."" Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-he-fled-when-your-flotilla-approached.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:113`
 
 > “He fled when your flotilla approached. Now, it is imperative that I return to Coruscant. But you—you must return to the Cularin system, to Almas. Please. Hurry.” If the heroes press for details, Ki-Adi-Mundi will say, “It is too dark, too uncertain— and I do not wish to discourage you.” If they insist, he will say, with a distraught look on his face, “I saw Almas— burning.” That should really get them on their way. All he can tell them of his target, if asked, is that he is Human or a near Humanoid, large, heavyset, and very likely as powerful with the Force as a Jedi Councilmember. Ki-Adi-Mundi does not have a name.
@@ -453,7 +424,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "If the heroes press for details, Ki-Adi-Mundi will say, "It is too dark, too uncertain— and I do not wish to discourage you."" Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-if-the-heroes-press-for-details.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:115`
 
 > “He fled when your flotilla approached. Now, it is imperative that I return to Coruscant. But you—you must return to the Cularin system, to Almas. Please. Hurry.” If the heroes press for details, Ki-Adi-Mundi will say, “It is too dark, too uncertain— and I do not wish to discourage you.” If they insist, he will say, with a distraught look on his face, “I saw Almas— burning.” That should really get them on their way. All he can tell them of his target, if asked, is that he is Human or a near Humanoid, large, heavyset, and very likely as powerful with the Force as a Jedi Councilmember. Ki-Adi-Mundi does not have a name. He will also describe a small, black starship of sleek and deadly appearance.
@@ -462,7 +432,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Full sentence/passage taken from the source text on file: `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf`.)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "If they insist, he will say, with a distraught look on his face, "I saw Almas— burning." That should really get them on their way." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-if-they-insist-he-will-say.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:117`
 
 > If the heroes press for details, Ki-Adi-Mundi will say, “It is too dark, too uncertain— and I do not wish to discourage you.” If they insist, he will say, with a distraught look on his face, “I saw Almas— burning.” That should really get them on their way. All he can tell them of his target, if asked, is that he is Human or a near Humanoid, large, heavyset, and very likely as powerful with the Force as a Jedi Councilmember. Ki-Adi-Mundi does not have a name. He will also describe a small, black starship of sleek and deadly appearance. Then, he leaves to go to the rest of the Coruscant Jedi, and to his destiny... There are two possible timeframes, as the heroes set out for Almas at top speed, wither in their own vessels or with the flotilla. Note that it is best that the heroes, who doubtless have a decent pilot or two, gain time on the flotilla, even if it is only a few minutes, so that they can have center stage in Encounter 5. Perhaps you can have them make a few open-ended Pilot rolls, whistle and comment that the flotilla cannot compete, and ask if they’d like to hang back safely or make all speed?
@@ -471,7 +440,6 @@ Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 509 Heart of Evil Destruction (text copy `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf_317002fee0`).)
 (Full sentence/passage taken from the source text on file: `_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_509_Heart_of_Evil_Destruction_pdf`.)
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ki-Adi-Mundi: "Then, he leaves to go to the rest of the Coruscant Jedi, and to his destiny..." Source: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10
-![Quote image: *509 - Heart of Evil - Destruction* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d349-p10-then-he-leaves-to-go-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/349-509-heart-of-evil-destruction.md:119`
 
 - Note (summary from our notes, not a quotation): Page contents: E4 Mundi; E5 Almas Burning (timeline, Devan and Zelice Sturm killed, Ezzar escapes) (hand-read)
@@ -530,7 +498,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > The Galactic Marines are created when the 21st Nova Corps are assigned to the command of Jedi General Ki-Adi-Mundi, who needs a fighting force capable of battling in a variety of environments (including space).
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Ki-Adi-Mundi. POV: Ki-Adi-Mundi.
 Note (our notes, around the quote): Ki-Adi-Mundi: "The Galactic Marines are created when the 21st Nova Corps are assigned to the command of Jedi General Ki-Adi-Mundi, who needs a fighting force capable of battling in a variety of environments (including space)." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.155
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.155 — full quote as printed](quotes/d728-s155-the-galactic-marines-are-created-when.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:343`
 
 ## Star Wars Insider #41 (1998)
@@ -594,7 +561,6 @@ Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:467`
 > Ki-Adi-Mundi's homeworld of Cerea is low-tech by choice, but there is a growing faction that want to import advanced technology from offworlders.
 — Source: Star Wars Insider #50 (2000).
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Jawa Trader Prelude to Rebellion listing, printed p. 42: "Ki-Adi-Mundi's homeworld of Cerea is low-tech by choice, but there is a growing faction that want to import advanced technology from offworlders." Source: *Star Wars Insider #50* (2000), scan p.42
-![Quote image: *Star Wars Insider #50* (2000), scan p.42 — full quote as printed](quotes/ins050-s42-ki-adi-mundis-homeworld-of-cerea.jpg)
 Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:231`
 
 ## Star Wars Insider #52 (2000)
@@ -638,7 +604,6 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:192`
 > You're just one of those cogs in a very mighty machine, and it doesn't always make sense at the time. You have to trust George.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi; Nute Gunray — entry/section: Silas Carson pull quote (verified on crop): ""You're just one of those cogs in a very mighty machine, and it doesn't always make sense at the time. You have to trust George." —Silas Carson, Star Wars Insider 55, p. 37" Source: *Star Wars Insider #55* (2001), scan p.27
-![Quote image: *Star Wars Insider #55* (2001), scan p.27 — full quote as printed](quotes/ins055-s27-youre-just-one-of-those-cogs.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:194`
 
 - Note (summary from our notes, not a quotation): Page contents: Carson Q&A: fight scenes in thick wool costumes and latex, opponents painted in later; lightsaber work with Nick Gillard; playing Ki-Adi as a warrior; no days playing both roles this time. Captions: Carson as Republic Cruiser pilot destroyed by Nute; Carson breathing through a tube between shots; transformation into Viceroy Nute Gunray. Q below. (hand-read)
@@ -648,13 +613,11 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:199`
 > It's a very difficult thing to do. I just told myself that he's a Jedi Knight, so he's going to be able to do anything physically that any young person could do. I had to remind myself of that, because obviously sitting in the chair, he looks like an old man, whereas when he gets up and he's wielding his lightsaber, he's going to be as quick as anybody else, because he's a Jedi.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Silas Carson on playing Ki-Adi-Mundi in a fight (verified on crop): ""It's a very difficult thing to do. I just told myself that he's a Jedi Knight, so he's going to be able to do anything physically that any young person could do. I had to remind myself of that, because obviously sitting in the chair, he looks like an old man, whereas when he gets up and he's wielding his lightsaber, he's going to be as quick as anybody else, because he's a Jedi." —Silas Carson, Star Wars Insider 55, p. 38" Source: *Star Wars Insider #55* (2001), scan p.28
-![Quote image: *Star Wars Insider #55* (2001), scan p.28 — full quote as printed](quotes/ins055-s28-its-a-very-difficult-thing-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:201`
 
 > You want to sound like an old man who's completely in control of his whole system and has 17 different lungs.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Silas Carson on Ki-Adi's voice mid-fight (verified on crop): ""You want to sound like an old man who's completely in control of his whole system and has 17 different lungs." —Silas Carson, Star Wars Insider 55, p. 38" Source: *Star Wars Insider #55* (2001), scan p.28
-![Quote image: *Star Wars Insider #55* (2001), scan p.28 — full quote as printed](quotes/ins055-s28-you-want-to-sound-like-an.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:203`
 
 - Note (summary from our notes, not a quotation): Page contents: Carson Q&A cont.: playing only two characters now; didn't know he'd return until a call in early 2000; heavy disguise makes Nute and Ki-Adi feel like two friends; Lucas kept his slower, older voice for Ki-Adi; has read the Dark Horse comics. Q and T below. (hand-read)
@@ -664,13 +627,11 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:208`
 > With Ki-Adi, I enjoy playing this very wise man who is part of the great council. You get the feeling that he is kind of like your uncle, because he's this nice, kind, wise, protective master. I always think that way of him.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Silas Carson on Ki-Adi-Mundi (verified on crop): ""With Ki-Adi, I enjoy playing this very wise man who is part of the great council. You get the feeling that he is kind of like your uncle, because he's this nice, kind, wise, protective master. I always think that way of him." —Silas Carson, Star Wars Insider 55, p. 39" Source: *Star Wars Insider #55* (2001), scan p.29
-![Quote image: *Star Wars Insider #55* (2001), scan p.29 — full quote as printed](quotes/ins055-s29-with-ki-adi-i-enjoy-playing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:210`
 
 > To me, he looks part Native American and part European, and he's got a wonderful, wise face.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Silas Carson on Ki-Adi's design (verified on crop): ""To me, he looks part Native American and part European, and he's got a wonderful, wise face." —Silas Carson, Star Wars Insider 55, p. 39" Source: *Star Wars Insider #55* (2001), scan p.29
-![Quote image: *Star Wars Insider #55* (2001), scan p.29 — full quote as printed](quotes/ins055-s29-to-me-he-looks-part-native.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:214`
 
 - Note (summary from our notes, not a quotation): Page contents: Carson Q&A cont.: returning was like catching up with old mates; filming in Sydney during the Olympics build-up; less pressure than Episode I; Nute application 10-15 minutes, Ki-Adi nearly three hours; skin allergies from Australian glues; Ki-Adi make-up light, Nute costume hot and heavy. T below. (hand-read)
@@ -687,7 +648,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:447`
 > After each chapter, you'll return to the Jedi Council for a non-lethal lightsaber duel. Your first battle is against a training droid, but subsequent battles pit you against Jedi Masters Ki-Adi-Mundi, Saesee Tin, and eventually Mace Windu.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi; Saesee Tiin; Mace Windu — entry/section: Jedi Knight II game: "After each chapter, you'll return to the Jedi Council for a non-lethal lightsaber duel. Your first battle is against a training droid, but subsequent battles pit you against Jedi Masters Ki-Adi-Mundi, Saesee Tin, and eventually Mace Windu." Source: *Star Wars Insider #57* (2001), scan p.57
-![Quote image: *Star Wars Insider #57* (2001), scan p.57 — full quote as printed](quotes/ins057-s57-after-each-chapter-youll-return-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:449`
 
 ## Star Wars Insider #60 (2002)
@@ -720,7 +680,6 @@ Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:145`
 > Underneath that extra-large cranium is Silas Carson, Star Wars' Man With a Thousand Faces. In Episode I, Carson played no fewer than four roles: Ki-Adi-Mundi, Nute Gunray, Lott Dod, and the pilot of the Naboo Royal Cruiser destroyed at the beginning of the movie—your lone chance to see Carson without a heavy mask or extensive makeup.
 — Source: Star Wars Insider #62 (2002).
 Note (our notes, around the quote): Ki-Adi-Mundi; Nute Gunray — entry/section: Who's Who: Silas Carson's four Episode I roles: "Underneath that extra-large cranium is Silas Carson, Star Wars' Man With a Thousand Faces. In Episode I, Carson played no fewer than four roles: Ki-Adi-Mundi, Nute Gunray, Lott Dod, and the pilot of the Naboo Royal Cruiser destroyed at the beginning of the movie—your lone chance to see Carson without a heavy mask or extensive makeup." Source: *Star Wars Insider #62* (2002), scan p.23
-![Quote image: *Star Wars Insider #62* (2002), scan p.23 — full quote as printed](quotes/ins062-s23-underneath-that-extra-large-cranium-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:147`
 
 - Note (summary from our notes, not a quotation): Page contents: Jawa Trader cont.: Attack of the Clones one-sheet poster (Drew Struzan), Fan Club bobblehead set (Vader, Boba Fett, C-3PO with R2-D2), Ki-Adi-Mundi 12" figure, Princess Leia cookie jar, Hardware Wars DVD. (hand-read)
@@ -753,7 +712,6 @@ Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:433`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #73 (2004).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Ki-Adi-Mundi; Obi-Wan Kenobi — entry/section: Ostrander on Anakin in Republic #62: ""Anakin is now the Padawan, at least temporarily, to Ki-Adi-Mundi … He's having dreams—visions—of Obi-Wan still being alive but in pain or danger. The last time he had that was when his mother died. We all know how he reacted to that. Will Anakin abandon his duty to look for his Master and friend? He wouldn't be Anakin if he didn't." —John Ostrander, Star Wars Insider 73, p. 73" Source: *Star Wars Insider #73* (2004), scan p.73
-![Quote image: *Star Wars Insider #73* (2004), scan p.73 — full quote as printed](quotes/ins073-s73-anakin-is-now-the-padawan-at.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:437`
 
 - Note (summary from our notes, not a quotation): Page contents: Toy Box continued: Target-exclusive Clone Wars animated figures, a Red Leader X-wing, Toys "R" Us Jedi Council scene packs (Yoda, Qui-Gon Jinn, Ki-Adi-Mundi), glasses-style four-packs and the Skirmish at Carkoon set; reader Q&A (names omitted) on Expanded Universe figures such as Quinlan Vos, 12-inch vehicles, and "retread" figures. (hand-read)
@@ -769,7 +727,6 @@ Our notes: `notes/materials/038-star-wars-insider/078-ins078.md:105`
 > As Ki-Adi-Mundi states in Episode I, the Sith have been extinct for a millennium; however, not all were wiped out.
 — Source: Star Wars Insider #78 (2004).
 Note (our notes, around the quote): Ki-Adi-Mundi — entry/section: Ask the Master: the Sith extinct for a millennium: "As Ki-Adi-Mundi states in Episode I, the Sith have been extinct for a millennium; however, not all were wiped out." Source: *Star Wars Insider #78* (2004), scan p.60
-![Quote image: *Star Wars Insider #78* (2004), scan p.60 — full quote as printed](quotes/ins078-s60-as-ki-adi-mundi-states-in.jpg)
 Our notes: `notes/materials/038-star-wars-insider/078-ins078.md:392`
 
 ## Star Wars Insider #79 (2005)
@@ -787,7 +744,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:250`
 > We have the rescue of Ki-Adi-Mundi, so we start where we left off with him and Grievous. And it's a pretty cool rescue because it involves ARC Troopers, which is very reminiscent of the first episodes.
 — Source: Star Wars Insider #80 (2005).
 Note (our notes, around the quote): Ki-Adi-Mundi; General Grievous — entry/section: Season two opens with Ki-Adi-Mundi's rescue: ""We have the rescue of Ki-Adi-Mundi, so we start where we left off with him and Grievous. And it's a pretty cool rescue because it involves ARC Troopers, which is very reminiscent of the first episodes." —Genndy Tartakovsky, Star Wars Insider 80, p. 37" Source: *Star Wars Insider #80* (2005), scan p.37
-![Quote image: *Star Wars Insider #80* (2005), scan p.37 — full quote as printed](quotes/ins080-s37-we-have-the-rescue-of-ki.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:252`
 
 - Note (summary from our notes, not a quotation): Page contents: Jackson interview continued: meeting Silas Carson (Ki-Adi-Mundi) out of costume; Star Wars as his "everlasting" project; a satisfying death in RotS; learning some 97 moves from Nick Gillard in two or three days; how Mace got a purple lightsaber. (hand-read)
@@ -806,7 +762,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:525`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Nute Gunray — entry/section: Silas Carson on the Neimoidian masks: ""Now, they've changed the motoring, so ["the masks"] have even more facial expressions. The second time around, they actually computerized the movement of the mouth and then I prerecorded [my lines], and the mouth moved depending on what I already recorded. So the lip-synching was already done for us." —Silas Carson, actor/Nute Gunray, Ki-Adi-Mundi, Star Wars Insider 82, p. 81" Source: *Star Wars Insider #82* (2005), scan p.81
-![Quote image: *Star Wars Insider #82* (2005), scan p.81 — full quote as printed](quotes/ins082-s81-now-theyve-changed-the-motoring-so.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:527`
 
 ## Star Wars Insider #83 (2005)
@@ -826,7 +781,6 @@ Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:336`
 > He's kind of like the uncle you always wanted: he's very human, very warm. On the other hand there's Nute, who is just this cowardly, nasty piece of work—a real parasite. Being able to play both of them was great fun.
 — Source: Star Wars Insider #83 (2005).
 Note (our notes, around the quote): Nute Gunray; Ki-Adi-Mundi — entry/section: Silas Carson on his two roles: ""He's kind of like the uncle you always wanted: he's very human, very warm. On the other hand there's Nute, who is just this cowardly, nasty piece of work—a real parasite. Being able to play both of them was great fun." —Silas Carson, Star Wars Insider 83, p. 52" Source: *Star Wars Insider #83* (2005), scan p.52
-![Quote image: *Star Wars Insider #83* (2005), scan p.52 — full quote as printed](quotes/ins083-s52-hes-kind-of-like-the-uncle.jpg)
 Our notes: `notes/materials/038-star-wars-insider/083-ins083.md:338`
 
 - Note (summary from our notes, not a quotation): Page contents: Silas Carson interview concluded: not being a fan beforehand; sad to see the saga end; photos of Carson and Ki-Adi-Mundi. (hand-read)

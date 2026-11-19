@@ -21,7 +21,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Brasck — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Brasck — entry/section: Smugglers' Alliance: "the fact remains that Brasck is one of the most heartless and ruthless individuals in the smuggling business." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.60
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.60 — full quote as printed](quotes/d052-s60-the-fact-remains-that-brasck-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:399`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–105)

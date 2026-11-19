@@ -14,13 +14,11 @@
 > Ki-Adi-Mundi opposed him again, and Jabba fought off a takeover attempt raised by his rival Gardulla.
 — Source: scan pages 61–90; Ki-Adi-Mundi. POV: Ki-Adi-Mundi, about Gardulla the Hutt.
 Note (our notes, around the quote): Ki-Adi-Mundi: "Ki-Adi-Mundi opposed him again, and Jabba fought off a takeover attempt raised by his rival Gardulla." Source: The New Essential Guide to Characters, p.88
-![Quote image: The New Essential Guide to Characters, p.88 — full quote as printed](quotes/negc-p88-ki-adi-mundi-opposed-him-again.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:156`
 
 > Fortunately, Gardulla had also bought Anakin's mother, Shmi, and their strong bond made it possible for Anakin to survive his enslavement with remarkable good humor.
 — Source: scan pages 121–150; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Fortunately, Gardulla had also bought Anakin's mother, Shmi, and their strong bond made it possible for Anakin to survive his enslavement with remarkable good humor." Source: The New Essential Guide to Characters, p.155
-![Quote image: The New Essential Guide to Characters, p.155 — full quote as printed](quotes/negc-p155-fortunately-gardulla-had-also-bought-anakins.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:167`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -28,13 +26,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-1
 > To draw attention away from his acquisition of power, Jabba graciously surrendered control of Mos Espa's slave trade to his onetime rival Gardulla—just in time for the Republic to finally enforce its antislavery laws on the last few Outer Rim worlds that still allowed the industry. Gardulla was ruined, and Jabba was that much closer to controlling Tatooine.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Gardulla the Hutt — entry/section: Jabba the Hutt: "To draw attention away from his acquisition of power, Jabba graciously surrendered control of Mos Espa's slave trade to his onetime rival Gardulla—just in time for the Republic to finally enforce its antislavery laws on the last few Outer Rim worlds that still allowed the industry. Gardulla was ruined, and Jabba was that much closer to controlling Tatooine." Source: *Secrets of Tatooine* (SWRPG d20), scan p.34
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.34 — full quote as printed](quotes/d045-s34-to-draw-attention-away-from-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:189`
 
 > Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Gardulla the Hutt; Jabba the Hutt; Shmi Skywalker; Darth Vader (Anakin Skywalker); Sebulba — entry/section: Gardulla the Hutt: "Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite." Source: *Secrets of Tatooine* (SWRPG d20), scan p.37
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.37 — full quote as printed](quotes/d045-s37-gambling-on-the-podraces-gradually-drained.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:220`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)

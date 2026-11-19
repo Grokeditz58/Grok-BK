@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > Darzu was killed by the Mecrosa Order, but centuries later Darth Bane uncovered her holocron on Tython.
 — Source: scan pages 161–200; Belia Darzu; Darth Bane — entry/section: Darzu, Belia.
 Note (our notes, around the quote): Belia Darzu; Darth Bane — entry/section: Darzu, Belia: "Darzu was killed by the Mecrosa Order, but centuries later Darth Bane uncovered her holocron on Tython." Source: The Complete Star Wars Encyclopedia, Vol. I, p.172
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.172 — full quote as printed](quotes/v1-p172-darzu-was-killed-by-the-mecrosa.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:232`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > He explained that he knew of Belia Darzu's fortress on Tython, and that he could show her skills that would help her defeat Darth Bane.
 — Source: scan pages 41–80; Belia Darzu; Darth Bane.
 Note (our notes, around the quote): Belia Darzu; Darth Bane: "He explained that he knew of Belia Darzu's fortress on Tython, and that he could show her skills that would help her defeat Darth Bane." Source: The Complete Star Wars Encyclopedia, Vol. II, p.38
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.38 — full quote as printed](quotes/v2-p38-he-explained-that-he-knew-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:37`
 
 ## Darth Plagueis (novel, read in full): feats, scaling, quotes and story notes

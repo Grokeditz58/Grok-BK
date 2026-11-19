@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Mothma, along with Crix Madine and the Mon Calamarian Ackbar, devised the plan to destroy the second Death Star at Endor, which eventually succeeded.
 — Source: scan pages 321–360; Admiral Ackbar. POV: Admiral Ackbar, about Crix Madine.
 Note (our notes, around the quote): Admiral Ackbar: "Mothma, along with Crix Madine and the Mon Calamarian Ackbar, devised the plan to destroy the second Death Star at Endor, which eventually succeeded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.336
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.336 — full quote as printed](quotes/v2-p336-mothma-along-with-crix-madine-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:151`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -50,7 +49,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:26
 > The recognized leader of the Alliance is Mon Mothma, the former Senator of Chandrila. Assisted initially by the Corellian military strategist Garm Bel Iblis and Senator Bail Organa of Alderaan, Mon Mothma carried on virtually alone after Bel Iblis went into hiding and Bail Organa died along with his homeworld. A strong, intelligent woman, Mon Mothma is also poised and graceful—a paragon of diplomacy and an inspiration to every member of the Alliance. She is aided by the Mon Calamari tactician Ackbar and the Imperial defector Crix Madine, the replacement for General Jan Dodonna (lost in the Battle of Yavin).
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Mon Mothma; Bail Organa; Admiral Ackbar — entry/section: Mon Mothma, recognized leader of the Alliance: "The recognized leader of the Alliance is Mon Mothma, the former Senator of Chandrila. Assisted initially by the Corellian military strategist Garm Bel Iblis and Senator Bail Organa of Alderaan, Mon Mothma carried on virtually alone after Bel Iblis went into hiding and Bail Organa died along with his homeworld. A strong, intelligent woman, Mon Mothma is also poised and graceful—a paragon of diplomacy and an inspiration to every member of the Alliance. She is aided by the Mon Calamari tactician Ackbar and the Imperial defector Crix Madine, the replacement for General Jan Dodonna (lost in the Battle of Yavin)." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.108
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.108 — full quote as printed](quotes/d668-s108-the-recognized-leader-of-the-alliance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:265`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

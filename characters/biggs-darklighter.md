@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > It was at one such function that Rivoche met a dashing young Academy cadet by the name of Biggs Darklighter. Eventually cognizant of Darklighter’s “questionable” ties, Rivoche steeled herself and made the decision to pass Darklighter some sensitive information she was privy to regarding a pending CompForce strike against Duro insurgents. Her hunch about young Darklighter was proven right: The Imperial plans were foiled, thanks to her information. And so it was the young Tarkin passed the point of no return. For the fledgling Rebel Alliance, it was a blessing.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Rivoche Tarkin; Biggs Darklighter — entry/section: Rivoche Tarkin and Biggs Darklighter: "It was at one such function that Rivoche met a dashing young Academy cadet by the name of Biggs Darklighter. Eventually cognizant of Darklighter’s “questionable” ties, Rivoche steeled herself and made the decision to pass Darklighter some sensitive information she was privy to regarding a pending CompForce strike against Duro insurgents. Her hunch about young Darklighter was proven right: The Imperial plans were foiled, thanks to her information. And so it was the young Tarkin passed the point of no return. For the fledgling Rebel Alliance, it was a blessing." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.50
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.50 — full quote as printed](quotes/d667-s50-it-was-at-one-such-function.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:342`
 
 ## Vehicles/Miniatures/Starship Battles Preview 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -26,7 +25,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Nevertheless, Luke's reputation as a skilled pilot might have been overstated somewhat, at least in the early years. By the time the second Death Star was destroyed, Luke had lost no fewer than four X-wings: The first was lost the day after the Battle of Yavin when Luke encountered a stray TIE fighter that had survived the battle. Not long thereafter, Luke crashed an X-wing on Mimban after encountering a severe electrical storm. Another survived a crash landing on Dagobah only to be abandoned on Bespin after the Empire took over Cloud City. Almost immediately after Luke's recovery from his duel with Darth Vader, he lost yet another X-wing when he encountered a Rebel corvette that had been taken over by Special Probe Droid 13-K.
 — Source: Vehicles/Miniatures/Starship Battles Preview 2.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Luke Skywalker; Biggs Darklighter; Darth Vader (Anakin Skywalker); R2-D2 — entry/section: Luke Skywalker's X-wing: "Nevertheless, Luke's reputation as a skilled pilot might have been overstated somewhat, at least in the early years. By the time the second Death Star was destroyed, Luke had lost no fewer than four X-wings: The first was lost the day after the Battle of Yavin when Luke encountered a stray TIE fighter that had survived the battle. Not long thereafter, Luke crashed an X-wing on Mimban after encountering a severe electrical storm. Another survived a crash landing on Dagobah only to be abandoned on Bespin after the Empire took over Cloud City. Almost immediately after Luke's recovery from his duel with Darth Vader, he lost yet another X-wing when he encountered a Rebel corvette that had been taken over by Special Probe Droid 13-K." Source: *Starship Battles Preview 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Starship Battles Preview 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d693-s2-nevertheless-lukes-reputation-as-a-skilled-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/693-starship-battles-preview-2.md:23`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -96,13 +94,11 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:279`
 > It was shot around this mosque on the edge of a bay. It was a brilliant location, and George positioned the camera a long way away. We did the scene in one take.
 — Source: Star Wars Insider #94 (2007); Biggs Darklighter — entry/section: One take.
 Note (our notes, around the quote): Biggs Darklighter — entry/section: One take: ""It was shot around this mosque on the edge of a bay. It was a brilliant location, and George positioned the camera a long way away. We did the scene in one take." —Garrick Hagon, Star Wars Insider 94, p. 29" Source: *Star Wars Insider #94* (2007), scan p.29
-![Quote image: *Star Wars Insider #94* (2007), scan p.29 — full quote as printed](quotes/ins094-s29-it-was-shot-around-this-mosque.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:281`
 
 > It was a nice idea, a kind of kids together teenage scene that was very different from the rest of the film - but George decided it had to go.
 — Source: Star Wars Insider #94 (2007); Biggs Darklighter — entry/section: Cut Tosche scenes.
 Note (our notes, around the quote): Biggs Darklighter — entry/section: Cut Tosche scenes: ""It was a nice idea, a kind of kids together teenage scene that was very different from the rest of the film - but George decided it had to go." —Garrick Hagon, Star Wars Insider 94, p. 29" Source: *Star Wars Insider #94* (2007), scan p.29
-![Quote image: *Star Wars Insider #94* (2007), scan p.29 — full quote as printed](quotes/ins094-s29-it-was-a-nice-idea-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:283`
 
 ## Star Wars Insider #95 (2007)

@@ -14,7 +14,6 @@
 > Allegedly founded by Dash Rendar and the human replica droid Guri, the company offered a practical form of immortality for a hefty fee.
 — Source: scan pages 401–440; Guri. POV: Guri, about Dash Rendar.
 Note (our notes, around the quote): Guri: "Allegedly founded by Dash Rendar and the human replica droid Guri, the company offered a practical form of immortality for a hefty fee." Source: The Complete Star Wars Encyclopedia, Vol. II, p.412
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.412 — full quote as printed](quotes/v2-p412-allegedly-founded-by-dash-rendar-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:137`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan
 > He was resurrected as a human replica droid by Dash and Guri, becoming the head of ODT on Onadax.
 — Source: scan pages 81–120; Guri. POV: Guri, about Dash Rendar.
 Note (our notes, around the quote): Guri: "He was resurrected as a human replica droid by Dash and Guri, becoming the head of ODT on Onadax." Source: The Complete Star Wars Encyclopedia, Vol. III, p.92
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.92 — full quote as printed](quotes/v3-p92-he-was-resurrected-as-a-human.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:161`
 
 ## The New Essential Guide to Characters (2002)
@@ -48,7 +46,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 3 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_3_pdf_ce4ae6d933`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 3 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_3_pdf_ce4ae6d933`).)
 Note (our notes, around the quote): IG-88; Boba Fett; Dash Rendar — entry/section: The end of the four IG-88s: "Over the next year, IG-88's reign came to an end. First, IG-88B confronted Boba Fett on Cloud City in an attempt to get the Han Solo bounty for himself, but Fett destroyed him and left his wreckage to the Ugnaughts in the city's smelting chambers. Later, IG-88C confronted Fett in orbit over Tatooine, but Fett's Slave I managed to destroy IG-88C's starship, IG-2000. IG-88D was reportedly destroyed by Dash Rendar on Ord Mantell. And IG-88A, who had downloaded his corrupt programming into the computer core that was installed on the second Death Star, was destroyed along with the battle station at the Battle of Endor." Source: *Bounty Hunters Preview 3* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d095-s1-over-the-next-year-ig-88s.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/095-bounty-hunters-preview-3.md:16`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Revised Core Rulebook Errata 2006.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

@@ -16,13 +16,11 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Andeddu; Roan Fel; Darth Krayt — entry/section: Andeddu, Darth: "Over a century later, during the time of Roan Fel's empire, Darth Krayt was in possession of Andeddu's holocron." Source: The Complete Star Wars Encyclopedia, Vol. I, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.30 — full quote as printed](quotes/v1-p30-over-a-century-later-during-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:40`
 
 > Dauntless (2) A Pellaeon-class Super Star Destroyer, part of the new Empire's fleet during the time of Emperor Roan Fel.
 — Source: scan pages 161–200; Roan Fel. POV: Roan Fel.
 Note (our notes, around the quote): Roan Fel: "Dauntless (2) A Pellaeon-class Super Star Destroyer, part of the new Empire's fleet during the time of Emperor Roan Fel." Source: The Complete Star Wars Encyclopedia, Vol. I, p.174
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.174 — full quote as printed](quotes/v1-p174-dauntless-2-a-pellaeon-class-super.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:252`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -30,7 +28,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > Raider Sith assassin Jor Torlin's starship during the time of Emperor Roan Fel, it was stolen by Morrigan Corde after she killed him.
 — Source: scan pages 81–120; Roan Fel. POV: Roan Fel.
 Note (our notes, around the quote): Roan Fel: "Raider Sith assassin Jor Torlin's starship during the time of Emperor Roan Fel, it was stolen by Morrigan Corde after she killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.75
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.75 — full quote as printed](quotes/v3-p75-raider-sith-assassin-jor-torlins-starship.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:12`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -58,13 +55,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > By the end of your campaign, the heroes have a chance to shatter the Neo-Crusader resurgence, battle the forces of the Empire, earn the favor of Roan Fel's Empire-in-exile, and defeat the Sith Lord in whose affairs they have meddied.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel. POV: Roan Fel.
 Note (our notes, around the quote): Roan Fel: "By the end of your campaign, the heroes have a chance to shatter the Neo-Crusader resurgence, battle the forces of the Empire, earn the favor of Roan Fel's Empire-in-exile, and defeat the Sith Lord in whose affairs they have meddied." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.100
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.100 — full quote as printed](quotes/d719-s100-by-the-end-of-your-campaign.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:340`
 
 > Though still possessed of a strong independent streak, the people of Naboo come to accept their status under Emperor Roan Fel, who proves to be a far more benevolent than Palpatine ever was.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Roan Fel; Palpatine (Darth Sidious): "Though still possessed of a strong independent streak, the people of Naboo come to accept their status under Emperor Roan Fel, who proves to be a far more benevolent than Palpatine ever was." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.117
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.117 — full quote as printed](quotes/d719-s117-though-still-possessed-of-a-strong.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:486`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -85,19 +80,16 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > SMIAWE) HLOVIVE OHA <x BBLavHD IMPERIAL KNIGHT The Imperial Knights are among the most talented and dangerous Forceusers in the galaxy, Skilled in combat, they train under the tutelage of their Imperial masters, learning all they need to know to defend Emperor Roan Fel against all those who would harm him.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Roan Fel — entry/section: Legacy Era Campaign Guide (Saga): "SMIAWE) HLOVIVE OHA <x BBLavHD IMPERIAL KNIGHT The Imperial Knights are among the most talented and dangerous Forceusers in the galaxy, Skilled in combat, they train under the tutelage of their Imperial masters, learning all they need to know to defend Emperor Roan Fel against all those who would harm him." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.163
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.163 — full quote as printed](quotes/d719-s163-smiawe-hlovive-oha-x-bblavhd-imperial.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:329`
 
 > In the meantime, his new Sith Order has forged an important alliance with Emperor Roan Fel, lending their aid in the defeat of the Galactic Alliance and the Jedi.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel. POV: Roan Fel.
 Note (our notes, around the quote): Roan Fel: "In the meantime, his new Sith Order has forged an important alliance with Emperor Roan Fel, lending their aid in the defeat of the Galactic Alliance and the Jedi." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.169
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.169 — full quote as printed](quotes/d719-s169-in-the-meantime-his-new-sith.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:379`
 
 > I LOVE MY DAUGHTER, BUT THE FATE OF THE EMPIRE—OF THE GALAXY—IS AT STAKE!
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel; Marasiah Fel — entry/section: Pull quote.
 Note (our notes, around the quote): Roan Fel; Marasiah Fel — entry/section: Pull quote: ""I LOVE MY DAUGHTER, BUT THE FATE OF THE EMPIRE—OF THE GALAXY—IS AT STAKE!" —EMPEROR ROAN FEL" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.177
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.177 — full quote as printed](quotes/d719-s177-i-love-my-daughter-but-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:474`
 
 - Note (summary from our notes, not a quotation): Page contents: Roan Fel: rightful ruler to many; leader of the Empire-in-exile; Darth Krayt's most wanted enemy; trained as an Imperial Knight. Stat block CL 20 (Jedi 3/noble 6/Imperial Knight 5/officer 6; Talents incl. Band of Brothers, Oath of Duty, Strength of the Empire, Trust). (hand-read)
@@ -107,7 +99,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Trained as an Imperial Knight and skilled in the arts of military leadership and diplomacy, Roan Fel throws his support behind the Imperial Mission early and often, and works hard to make sure that the Jedi are not targeted as enemies during the Sith-Imperial War.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Roan Fel — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Roan Fel — entry/section: Legacy Era Campaign Guide (Saga): "Trained as an Imperial Knight and skilled in the arts of military leadership and diplomacy, Roan Fel throws his support behind the Imperial Mission early and often, and works hard to make sure that the Jedi are not targeted as enemies during the Sith-Imperial War." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.178
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.178 — full quote as printed](quotes/d719-s178-trained-as-an-imperial-knight-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:485`
 
 > permanent bird's-eye view of the battlefield.
@@ -139,7 +130,6 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-0
 > Coming into service more than a hundred years after the Battle of Endor, the Pellaeon-class Star Destroyer can be found both in Darth Krayt's Empire and in Emperor Roan Fel's Empire-in-exile.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga; Darth Krayt; Roan Fel.
 Note (our notes, around the quote): Darth Krayt; Roan Fel: "Coming into service more than a hundred years after the Battle of Endor, the Pellaeon-class Star Destroyer can be found both in Darth Krayt's Empire and in Emperor Roan Fel's Empire-in-exile." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.100
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.100 — full quote as printed](quotes/d727-s100-coming-into-service-more-than-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-061-120.md:269`
 
 ## Star Wars Insider #88 (2006)
@@ -611,28 +601,28 @@ Our notes: `notes/materials/009-legacy-book-1.md:35`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): On Coruscant, Krayt, Maladi, Nihl and Wyyrlok enter the throne room, cut down the Imperial Knights and kill "Roan Fel". The victim turns out to be a double. Krayt proclaims himself Emperor (p30–35). Krayt is physically spent; he senses a "DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH" and vows to find that Jedi (p36).
 Context: #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like
-![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
-![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p31 Krayt confronts "Fel"](../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+![p32 Krayt cuts down Imperial Knights](../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+![p35 Krayt blasts Maladi](../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p36 Krayt overextended; senses Cade's healing](../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:44`
 
 - Note (summary from our notes, not a quotation): Roan Fel holds Bastion with his Knights (p65–68). Luke's ghost visits a death-stick-addled Cade (p71–74). Princess Marasiah Fel tries a mind trick on Cade and fails; she hires the *Mynock* (p75–80).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: #2–3 (137 ABY): Wolf, Shado, Hosk and others are ambushed by Sith on Daluuj (p37–41). Cade, now a bounty hunter with Jariah Syn and Deliah Blue, captures the Jedi healer Hosk Trey'lis on Lok and sells him to Rav on Socorro (p42–64). Krayt has Talon kill her master, Darth Ruyn, and names her a
-![p72](009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
-![p75](009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
-![p79](009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
+![p72](../notes/materials/009-legacy-book-1-panels/p072-cade-one-foot-in-dark-side-luke-heal-talent.jpg)
+![p75](../notes/materials/009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
+![p79](../notes/materials/009-legacy-book-1-panels/p079-cade-resists-mind-trick.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:46`
 
 - Note (summary from our notes, not a quotation): Roan Fel confronts Moff Nyna Calixte: the Sith framed the Vong, and she and Veed helped plan it (p149–152). Fel ordered that the Jedi be allowed to withdraw to Ossus (p154). After the massacre, Maladi tells Calixte that Krayt will take the throne (p155–156). Calixte warns Fel. An Imperial Knight Force-chokes and throws her, and she claims she can shield her thoughts from Fel (p160–162). Mohrgan and the Knights decoy for Fel's double; Krayt kills them all in a wordless sequence (p163–166). Fel feels them die and escapes (p167). Maladi makes Calixte report to her (p169–170).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p149 Allies setting caption (130 ABY)](009-legacy-book-1-panels/p149-allies-130aby-bastion-caption.jpg)
-![p152](009-legacy-book-1-panels/p152-fel-saber-calixte-isnt-that-what-sith-do.jpg)
-![p154](009-legacy-book-1-panels/p154-fel-will-not-permit-jedi-destroyed-again.jpg)
-![p156](009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
-![p160](009-legacy-book-1-panels/p160-imperial-knight-force-throws-calixte.jpg)
-![p162](009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
+![p149 Allies setting caption (130 ABY)](../notes/materials/009-legacy-book-1-panels/p149-allies-130aby-bastion-caption.jpg)
+![p152](../notes/materials/009-legacy-book-1-panels/p152-fel-saber-calixte-isnt-that-what-sith-do.jpg)
+![p154](../notes/materials/009-legacy-book-1-panels/p154-fel-will-not-permit-jedi-destroyed-again.jpg)
+![p156](../notes/materials/009-legacy-book-1-panels/p156-maladi-fel-kept-knights-out-krayt-throne.jpg)
+![p160](../notes/materials/009-legacy-book-1-panels/p160-imperial-knight-force-throws-calixte.jpg)
+![p162](../notes/materials/009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:53`
 
 > ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF. *(p245–249; corrected 2026-10-21)*
@@ -650,16 +640,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:804`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Roan Fel: 1. Moral spine; spares Calixte. p152 (#8 Allies), p154 (#8 Allies)
-![p152](009-legacy-book-1-panels/p152-fel-saber-calixte-isnt-that-what-sith-do.jpg)
-![p154](009-legacy-book-1-panels/p154-fel-will-not-permit-jedi-destroyed-again.jpg)
+![p152](../notes/materials/009-legacy-book-1-panels/p152-fel-saber-calixte-isnt-that-what-sith-do.jpg)
+![p154](../notes/materials/009-legacy-book-1-panels/p154-fel-will-not-permit-jedi-destroyed-again.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:820`
 
-- Note (summary from our notes, not a quotation): ![p152](009-legacy-book-1-panels/p152-fel-saber-calixte-isnt-that-what-sith-do.jpg)
+- Note (summary from our notes, not a quotation): ![p152](../notes/materials/009-legacy-book-1-panels/p152-fel-saber-calixte-isnt-that-what-sith-do.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p152 — `p152-fel-saber-calixte-isnt-that-what-sith-do.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:823`
 
-- Note (summary from our notes, not a quotation): ![p154](009-legacy-book-1-panels/p154-fel-will-not-permit-jedi-destroyed-again.jpg)
+- Note (summary from our notes, not a quotation): ![p154](../notes/materials/009-legacy-book-1-panels/p154-fel-will-not-permit-jedi-destroyed-again.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p154 — `p154-fel-will-not-permit-jedi-destroyed-again.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:826`
@@ -668,22 +658,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:826`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 2. Senses his Knights' deaths; escapes; rates Cade. p167 (#8 Allies), p204 (#9 Trust Issues)–p205 (#9 Trust Issues)
-![p167](009-legacy-book-1-panels/p167-fel-felt-knights-die.jpg)
-![p204](009-legacy-book-1-panels/p204-fel-skywalker-too-dangerous-five-trackers.jpg)
-![p205](009-legacy-book-1-panels/p205-fel-stalemate-total-obedience.jpg)
+![p167](../notes/materials/009-legacy-book-1-panels/p167-fel-felt-knights-die.jpg)
+![p204](../notes/materials/009-legacy-book-1-panels/p204-fel-skywalker-too-dangerous-five-trackers.jpg)
+![p205](../notes/materials/009-legacy-book-1-panels/p205-fel-stalemate-total-obedience.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:830`
 
-- Note (summary from our notes, not a quotation): ![p167](009-legacy-book-1-panels/p167-fel-felt-knights-die.jpg)
+- Note (summary from our notes, not a quotation): ![p167](../notes/materials/009-legacy-book-1-panels/p167-fel-felt-knights-die.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p167 — `p167-fel-felt-knights-die.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:833`
 
-- Note (summary from our notes, not a quotation): ![p204](009-legacy-book-1-panels/p204-fel-skywalker-too-dangerous-five-trackers.jpg)
+- Note (summary from our notes, not a quotation): ![p204](../notes/materials/009-legacy-book-1-panels/p204-fel-skywalker-too-dangerous-five-trackers.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p204 — `p204-fel-skywalker-too-dangerous-five-trackers.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:836`
 
-- Note (summary from our notes, not a quotation): ![p205](009-legacy-book-1-panels/p205-fel-stalemate-total-obedience.jpg)
+- Note (summary from our notes, not a quotation): ![p205](../notes/materials/009-legacy-book-1-panels/p205-fel-stalemate-total-obedience.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p205 — `p205-fel-stalemate-total-obedience.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:839`
@@ -694,27 +684,27 @@ Our notes: `notes/materials/009-legacy-book-1.md:839`
 Context: 3. ROAN FEL vs DARTH KRUL (one-on-one, Pellaeon Gardens, Bastion): Fel wins. p255 (#13 Ready to Die)–p260 (#13 Ready to Die)
 Our notes: `notes/materials/009-legacy-book-1.md:843`
 
-- Note (summary from our notes, not a quotation): ![p256](009-legacy-book-1-panels/p256-fel-i-am-a-knight-vs-krul.jpg)
+- Note (summary from our notes, not a quotation): ![p256](../notes/materials/009-legacy-book-1-panels/p256-fel-i-am-a-knight-vs-krul.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p256 — `p256-fel-i-am-a-knight-vs-krul.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:846`
 
-- Note (summary from our notes, not a quotation): ![p257 cortosis gauntlet](009-legacy-book-1-panels/p257-fel-cortosis-gauntlet-krul-lightning.jpg)
+- Note (summary from our notes, not a quotation): ![p257 cortosis gauntlet](../notes/materials/009-legacy-book-1-panels/p257-fel-cortosis-gauntlet-krul-lightning.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p257 cortosis gauntlet — `p257-fel-cortosis-gauntlet-krul-lightning.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:849`
 
-- Note (summary from our notes, not a quotation): ![p258 Fel turns the lightning back](009-legacy-book-1-panels/p258-fel-redirects-lightning-krul.jpg)
+- Note (summary from our notes, not a quotation): ![p258 Fel turns the lightning back](../notes/materials/009-legacy-book-1-panels/p258-fel-redirects-lightning-krul.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p258 Fel turns the lightning back — `p258-fel-redirects-lightning-krul.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:852`
 
-- Note (summary from our notes, not a quotation): ![p259](009-legacy-book-1-panels/p259-fel-prepared-to-kill-you.jpg)
+- Note (summary from our notes, not a quotation): ![p259](../notes/materials/009-legacy-book-1-panels/p259-fel-prepared-to-kill-you.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p259 — `p259-fel-prepared-to-kill-you.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:855`
 
-- Note (summary from our notes, not a quotation): ![p260](009-legacy-book-1-panels/p260-fel-blaster-kills-krul-backups.jpg)
+- Note (summary from our notes, not a quotation): ![p260](../notes/materials/009-legacy-book-1-panels/p260-fel-blaster-kills-krul-backups.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p260 — `p260-fel-blaster-kills-krul-backups.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:858`
@@ -739,44 +729,44 @@ Our notes: `notes/materials/009-legacy-book-1.md:862`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Marasiah (Sia) Fel. p75 (#3 Broken), p94 (#5 Broken), p119 (#6 Broken)–p123 (#6 Broken): tries a mind trick on Cade and fails. Her sensing: "I FELT YOU KILL ELKE VETTER." Talon calls her "MERELY A STUDENT" (p94). She fights alongside Draco (p119): "ANTARES, YOU'RE AN IDIOT! COMING HERE HAS JUST GOTTEN US BOTH KILLED!" · Draco: "NOT BY THESE THREE." She is struck down saving Cade from a Sith (p121–123): "TOLD YOU ... HAD TO MAKE IT RIGHT ... EVEN IF IT'S ONLY ... ONE ... LIFE..." Handbook (p457): "recently completed her training as an Imperial Knight".
-![p75](009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
-![p94](009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
-![p457 handbook: Roan and Marasiah Fel](009-legacy-book-1-panels/p457-handbook-roan-marasiah-fel.jpg)
+![p75](../notes/materials/009-legacy-book-1-panels/p075-marasiah-mind-trick-attempt.jpg)
+![p94](../notes/materials/009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
+![p457 handbook: Roan and Marasiah Fel](../notes/materials/009-legacy-book-1-panels/p457-handbook-roan-marasiah-fel.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:864`
 
 > (p113) Talon: "ROAN FEL! FALSE EMPEROR. …" · Draco: "YOUR MASTER'S A USURPER. AND YOU'RE A FOOL, SITH, IF YOU THINK I'M ROAN FEL." · (p114) "I AM MASTER DRACO. THIS IS MASTER KRIEG." · "YOUR MASTER IS A GREATER FOOL THAN YOU IF HE THINKS EMPEROR FEL WOULD FALL INTO YOUR CLUMSY TRAP. HE SAW KRAYT'S HAND IN THIS. PERHAPS HE IS MORE POWERFUL THAN YOU KNOW..." · Draco (balloon from off-panel left): "RUN. SITH -- WHILE YOU STILL HAVE THE CHANCE." · Talon: "MY MASTER'S PATIENCE IS EXHAUSTED." · (p128) Krieg: "I AM GANNER KRIEG -- KNIGHT OF THE EMPIRE!" · "...I WILL LEAVE YOUR BONES FOR THE BEASTS TO CRACK!" · (p137) Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE, BUT ... WE'RE LOSING HER..." · (p139) Draco: "YOU DELUDE YOURSELF, JEDI! YOU ARE NO MATCH FOR ONE IMPERIAL KNIGHT, LET ALONE TWO!" · Shado: "NOW THAT'S AN INTERESTING THEORY."
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Antares Draco and Ganner Krieg. p112 (#6 Broken)–p114 (#6 Broken), p128 (#7 Broken), p137 (#7 Broken)–p139 (#7 Broken), p228 (#10 Trust Issues)–p231 (#10 Trust Issues)
-![p113](009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
-![p114 Draco and Krieg face Talon, Nihl and Sith](009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
-![p128 Krieg cuts through Sith](009-legacy-book-1-panels/p128-krieg-knight-of-the-empire.jpg)
-![p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE"](009-legacy-book-1-panels/p137-krieg-jedi-more-skilled-healing.jpg)
-![p139 Draco vs Shado posturing; Wolf on dark-side healing](009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
-![p231](009-legacy-book-1-panels/p231-draco-sabotage-corde-work-done.jpg)
+![p113](../notes/materials/009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
+![p114 Draco and Krieg face Talon, Nihl and Sith](../notes/materials/009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
+![p128 Krieg cuts through Sith](../notes/materials/009-legacy-book-1-panels/p128-krieg-knight-of-the-empire.jpg)
+![p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE"](../notes/materials/009-legacy-book-1-panels/p137-krieg-jedi-more-skilled-healing.jpg)
+![p139 Draco vs Shado posturing; Wolf on dark-side healing](../notes/materials/009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
+![p231](../notes/materials/009-legacy-book-1-panels/p231-draco-sabotage-corde-work-done.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:866`
 
-- Note (summary from our notes, not a quotation): ![p113](009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
+- Note (summary from our notes, not a quotation): ![p113](../notes/materials/009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p113 — `p113-talon-vs-imperial-knights-draco.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:869`
 
-- Note (summary from our notes, not a quotation): ![p114 Draco and Krieg face Talon, Nihl and Sith](009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Draco and Krieg face Talon, Nihl and Sith](../notes/materials/009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p114 Draco and Krieg face Talon, Nihl and Sith — `p114-draco-krieg-vs-talon-nihl.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:872`
 
-- Note (summary from our notes, not a quotation): ![p128 Krieg cuts through Sith](009-legacy-book-1-panels/p128-krieg-knight-of-the-empire.jpg)
+- Note (summary from our notes, not a quotation): ![p128 Krieg cuts through Sith](../notes/materials/009-legacy-book-1-panels/p128-krieg-knight-of-the-empire.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p128 Krieg cuts through Sith — `p128-krieg-knight-of-the-empire.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:875`
 
-- Note (summary from our notes, not a quotation): ![p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE"](009-legacy-book-1-panels/p137-krieg-jedi-more-skilled-healing.jpg)
+- Note (summary from our notes, not a quotation): ![p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE"](../notes/materials/009-legacy-book-1-panels/p137-krieg-jedi-more-skilled-healing.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p137 Krieg: "THE JEDI ARE VERY SKILLED ... MORE THAN WE" — `p137-krieg-jedi-more-skilled-healing.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:878`
 
-- Note (summary from our notes, not a quotation): ![p139 Draco vs Shado posturing; Wolf on dark-side healing](009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
+- Note (summary from our notes, not a quotation): ![p139 Draco vs Shado posturing; Wolf on dark-side healing](../notes/materials/009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p139 Draco vs Shado posturing; Wolf on dark-side healing — `p139-wolf-healing-touch-dark-side.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:881`
@@ -792,16 +782,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:881`
 > WE'LL FIND OUT WHO DID THIS -- AND THEY WON'T LIVE LONG ENOUGH TO REGRET IT!
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; The Wheel (Trust Issues): (p228) Draco.
 Note (our notes, around the quote): The Wheel (Trust Issues): (p228) Draco: "GANNER, CAN YOU HOLD OFF THESE GUYS WHILE I RETRIEVE THE AMBASSADOR?" · Krieg: "THAT'S A JOKE, RIGHT? GO!" Draco Force-pushes Admiral Gar Stazi, the Duros who had knifed Bovark, across the room (p229). *(Corrected 2026-10-21: 009 had "the Mon Cal aide … and the guards"; only Stazi is pushed.)* · (p231) "WE'LL FIND OUT WHO DID THIS -- AND THEY WON'T LIVE LONG ENOUGH TO REGRET IT!"
-![p229](009-legacy-book-1-panels/p229-draco-force-push-stazi.jpg)
-![p231](009-legacy-book-1-panels/p231-draco-sabotage-corde-work-done.jpg)
+![p229](../notes/materials/009-legacy-book-1-panels/p229-draco-force-push-stazi.jpg)
+![p231](../notes/materials/009-legacy-book-1-panels/p231-draco-sabotage-corde-work-done.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:885`
 
-- Note (summary from our notes, not a quotation): ![p229](009-legacy-book-1-panels/p229-draco-force-push-stazi.jpg)
+- Note (summary from our notes, not a quotation): ![p229](../notes/materials/009-legacy-book-1-panels/p229-draco-force-push-stazi.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p229 — `p229-draco-force-push-stazi.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:887`
 
-- Note (summary from our notes, not a quotation): ![p231](009-legacy-book-1-panels/p231-draco-sabotage-corde-work-done.jpg)
+- Note (summary from our notes, not a quotation): ![p231](../notes/materials/009-legacy-book-1-panels/p231-draco-sabotage-corde-work-done.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p231 — `p231-draco-sabotage-corde-work-done.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:890`
@@ -809,19 +799,19 @@ Our notes: `notes/materials/009-legacy-book-1.md:890`
 > I'VE WANTED TO TEST MYSELF AGAINST THE SITH! *(p162)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Other Knights: Mohrgan, Fel's cousin.
 Note (our notes, around the quote): Other Knights: Mohrgan, Fel's cousin: "I'VE WANTED TO TEST MYSELF AGAINST THE SITH!" (p162); killed by Krayt (p166). An unnamed Knight Force-chokes and throws Calixte (p160). Elke Vetter is killed by Talon (p56–57).
-![p160](009-legacy-book-1-panels/p160-imperial-knight-force-throws-calixte.jpg)
-![p162](009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
-![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
-![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
-![p166 Krayt vs a squad of Imperial Knights (wordless)](009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
+![p160](../notes/materials/009-legacy-book-1-panels/p160-imperial-knight-force-throws-calixte.jpg)
+![p162](../notes/materials/009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
+![p56 Talon vs Elke Vetter](../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+![p57 Talon finishes Elke](../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+![p166 Krayt vs a squad of Imperial Knights (wordless)](../notes/materials/009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:894`
 
-- Note (summary from our notes, not a quotation): ![p160](009-legacy-book-1-panels/p160-imperial-knight-force-throws-calixte.jpg)
+- Note (summary from our notes, not a quotation): ![p160](../notes/materials/009-legacy-book-1-panels/p160-imperial-knight-force-throws-calixte.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p160 — `p160-imperial-knight-force-throws-calixte.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:896`
 
-- Note (summary from our notes, not a quotation): ![p162](009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
+- Note (summary from our notes, not a quotation): ![p162](../notes/materials/009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p162 — `p162-mohrgan-test-myself-calixte-shields-thoughts.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:899`
@@ -843,7 +833,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1061`
 >
 > Following the disastrous Battle of Caamas, the Galactic Alliance was defeated. Many Jedi were subsequently killed in the Massacre of Ossus and the rest scattered as fugitives throughout the galaxy. Within days of the defeat, the Sith also moved against Emperor Fel. He, however, escaped into exile, and the Moff Council's supposed victory was turned into defeat as the Sith's leader, Darth Krayt, proclaimed himself emperor . . .
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; The State of the Galaxy (p445–446).
-![p445 Handbook: The State of the Galaxy](009-legacy-book-1-panels/p445-handbook-state-of-the-galaxy.jpg) *(p445)*
+![p445 Handbook: The State of the Galaxy](../notes/materials/009-legacy-book-1-panels/p445-handbook-state-of-the-galaxy.jpg) *(p445)*
 Our notes: `notes/materials/009-legacy-book-1.md:1118`
 
 > ...launching a successful assault on Bastion would leave the attacker so debilitated than [sic] none will even consider it.
@@ -886,33 +876,33 @@ Our notes: `notes/materials/010-legacy-war.md:59`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 1. Ceremony and early refusal of Omega Red. p13 (#1), p32–34 (#2)
-![p33 Maladi offers Omega Red](010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
+![p33 Maladi offers Omega Red](../notes/materials/010-legacy-war-panels/p033-maladi-omega-red-offer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:659`
 
 > (p92) "WE LOST, HOGRUM. WORSE, WE HAVE NO COUNTER FOR THESE NEW WEAPONS OF KRAYT'S -- THESE SITH TROOPERS!" · "MALADI. YOU WILL MAKE YOUR TOXIN FOR ME." · "YOU WILL MAKE YOUR TOXIN FIRST AND THEN, IF IT SUCCEEDS, YOU WILL GET WHAT YOU WANT." · "WE ARE AGREED, OR YOU DIE NOW." · (p95) "...FOR THE SAKE OF THE GALAXY, WE MUST USE THE TOXIN WEAPON MALADI CREATED TO DESTROY KRAYT AND HIS SITH..." "...OR CEDE THE THRONE TO THE USURPER." · "NO ONE ELSE CAN KNOW ABOUT THE TOXIN. THE FINAL DECISION WILL BE MINE ALONE." · (p100) "I NEED THOSE NEARBY WHOSE LOYALTY TO ME IS A CERTAINTY." · "I TRUST YOU, ANTARES, AND I KNOW I CAN COUNT ON YOU TO SERVE MY WILL -- NO MATTER WHAT." · "NO MATTER WHAT."
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: > (p92) "WE LOST, HOGRUM. WORSE, WE HAVE NO COUNTER FOR THESE NEW WEAPONS OF KRAYT'S -- THESE SITH TROOPERS!" · "MALADI. YOU WILL MAKE YOUR TOXIN FOR ME." · "YOU WILL MAKE YOUR TOXIN FIRST AND THEN, IF IT SUCCEEDS, YOU WILL GET WHAT YOU WANT." · "WE ARE AGREED, OR YOU DIE NOW." · (p95) "...FOR THE SAKE OF THE GALAXY, WE MUST USE THE TOXIN WEAPON MALADI CREATED TO DESTROY KRAYT AND HIS SITH..." "...OR CEDE THE THRONE TO THE USURPER." · "NO ONE ELSE CAN KNOW ABOUT THE TOXIN. THE FINAL DECISION WILL BE MINE ALONE." · (p100) "I NEED THOSE NEARBY WHOSE LOYALTY TO ME IS A CERTAINTY." · "I TRUST YOU, ANTARES, AND I KNOW I CAN COUNT ON YOU TO SERVE MY WILL -- NO MATTER WHAT." · "NO MATTER WHAT."
-![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
-![p95 "THE FINAL DECISION WILL BE MINE ALONE."](010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](../notes/materials/010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
+![p95 "THE FINAL DECISION WILL BE MINE ALONE."](../notes/materials/010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
 Our notes: `notes/materials/010-legacy-war.md:662`
 
 - Note (summary from our notes, not a quotation): On p95, balloons 2–3 come from off-panel; giving them to Fel is a reading.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
-![p95 "THE FINAL DECISION WILL BE MINE ALONE."](010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
+![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](../notes/materials/010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
+![p95 "THE FINAL DECISION WILL BE MINE ALONE."](../notes/materials/010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
 Our notes: `notes/materials/010-legacy-war.md:665`
 
 > WE ARE AGREED, OR YOU DIE NOW.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p92 Fel and Maladi.
-Note (our notes, around the quote): ![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
+Note (our notes, around the quote): ![p92 Fel and Maladi: "WE ARE AGREED, OR YOU DIE NOW."](../notes/materials/010-legacy-war-panels/p092-fel-maladi-price-cade-dead.jpg)
 (*Panel: p92 — `p092-fel-maladi-price-cade-dead.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:667`
 
 > THE FINAL DECISION WILL BE MINE ALONE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p95.
-Note (our notes, around the quote): ![p95 "THE FINAL DECISION WILL BE MINE ALONE."](010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
+Note (our notes, around the quote): ![p95 "THE FINAL DECISION WILL BE MINE ALONE."](../notes/materials/010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
 (*Panel: p95 — `p095-fel-toxin-final-decision-mine.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:670`
 
@@ -920,43 +910,43 @@ Our notes: `notes/materials/010-legacy-war.md:670`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 3. Fall: Force-pushes Marasiah and Sinde through glass; fights Draco; struck down. p120–126 (#6)
-![p120 Fel pushes Marasiah and Sinde](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg) *(p120)*
-![p126 Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
+![p120 Fel pushes Marasiah and Sinde](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg) *(p120)*
+![p126 Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
 Our notes: `notes/materials/010-legacy-war.md:673`
 
 - Note (summary from our notes, not a quotation): Fel shoves Draco aside with his armoured arm out of a blade-lock and lunges for the pod console.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p126 Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
+![p126 Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
 Our notes: `notes/materials/010-legacy-war.md:679`
 
 - Note (summary from our notes, not a quotation): Close-up: Fel screams as blinding white saber-light bursts from his chest (Draco's blade, from behind by reading).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p126 Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
+![p126 Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
 Our notes: `notes/materials/010-legacy-war.md:681`
 
 > MY LIEGE! OH, MY LIEGE...!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Draco kneels over the fallen Fel.
-![p126 Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
+![p126 Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg) *(p126)*
 Our notes: `notes/materials/010-legacy-war.md:683`
 
 - Note (summary from our notes, not a quotation): Fel's death is confirmed by his funeral pyre (p132).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:685`
 
 > THERE ARE NO INNOCENTS ON CORUSCANT!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p120.
-Note (our notes, around the quote): ![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+Note (our notes, around the quote): ![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
 (*Panel: p120 — `p120-fel-no-innocents-marasiah-become-krayt.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:687`
 
 > ALL SITH WILL DIE!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p126.
-Note (our notes, around the quote): ![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+Note (our notes, around the quote): ![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 (*Panel: p126 — `p126-fel-all-sith-will-die-draco-strikes.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:690`
 
@@ -991,7 +981,7 @@ Our notes: `notes/materials/010-legacy-war.md:697`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; The intro gave.
 Note (our notes, around the quote): The intro gave "My will shall shape the Force..." as the push line. It is actually spoken mid-duel on p126.
 Context: Scaling (ANALYSIS):
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:698`
 
 - Note (summary from our notes, not a quotation): | 23 | Antares Draco vs Roan Fel | *Jagged Fel* pod bay | p121–126 (#6) | Draco strikes Fel down as Fel lunges for the console | About a page of blade-lock; Fel turned his back |
@@ -1015,12 +1005,12 @@ Our notes: `notes/materials/010-legacy-war.md:1166`
 
 - Note (summary from our notes, not a quotation): Darth Krayt and Emperor Roan Fel are the only CL 20 characters in the book, and both have Use the Force +22 (p170, p178; appendix p224). Krayt has better defences and attack (Ref 36/Fort 38/Will 38; lightsaber +24, 2d8+12 ×3 crit). Fel has more hit points (157 vs 135).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
-![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
-![p178 Roan Fel bio](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
-![p178 Emperor Roan Fel CL 20](011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
+![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p170 Darth Krayt CL 20 stat block](../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+![p170 art: "Darth Krayt and Darth Wyyrlok"](../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+![p178 Roan Fel bio](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![p178 Emperor Roan Fel CL 20](../notes/materials/011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:30`
 
 > The Moff Council, unbeknownst to Emperor Roan Fel, has been working behind the scenes to reach an agreement with the Sith… With the aid of these dark Force-users, the revitalized Empire sweeps across the galaxy *(p7)*
@@ -1033,17 +1023,17 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:30`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; The Sith-Imperial War (127 ABY–130 ABY).
 Note (our notes, around the quote): The Sith-Imperial War (127 ABY–130 ABY): "The Moff Council, unbeknownst to Emperor Roan Fel, has been working behind the scenes to reach an agreement with the Sith… With the aid of these dark Force-users, the revitalized Empire sweeps across the galaxy" (p7). At Caamas: "Years of battling the Empire have depleted the Galactic Alliance's resources and strained the capabilities of the Jedi Order" (p8). Ossus: "Against the wishes of Emperor Fel, the Sith attack the Jedi at Ossus, slaughtering them and scattering the few remaining Jedi to the far corners of the galaxy. With the massacre at Ossus, the Jedi Order is crushed" (p8).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p008-timeline-caamas-ossus-ascent.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p007-the-galaxy-manages-to-stabilize-itself.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p008-the-jedi-scattered-across-the-galaxy.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p008-timeline-caamas-ossus-ascent.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p007-the-galaxy-manages-to-stabilize-itself.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p008-the-jedi-scattered-across-the-galaxy.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:68`
 
 > Darth Krayt seizes control of the Empire by force. He murders the man he believes is Emperor Roan Fel—a man later revealed to be a decoy *(p8)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Ascent of the Empire (130 ABY–136 ABY).
 Label in our notes: p8
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p008-timeline-caamas-ossus-ascent.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p008-timeline-caamas-ossus-ascent.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:71`
 
 > Roan Fel, the third Emperor of the Fel Dynasty
@@ -1056,11 +1046,11 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:71`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Roan Fel's Empire-in-exile and the Imperial Knights (Bastion). "Roan Fel, the third Emperor of the Fel Dynasty"; "the Empire-in-exile has managed to repel Darth Krayt's forces and foil attempts on the lives of both Roan Fel and his daughter, Marasiah" (p161). Bastion: "The planet's defensive systems are nigh impenetrable. Bastion is as well defended as Coruscant, which is why Darth Krayt has not launched an attack on the planet" (p107).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p161 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p107 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p107-bastion-defenses.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p161 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p107 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p107-bastion-defenses.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:89`
 
-- Note (summary from our notes, not a quotation): ![p161 Roan Fel's Empire-in-exile](011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
+- Note (summary from our notes, not a quotation): ![p161 Roan Fel's Empire-in-exile](../notes/materials/011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p161 Roan Fel's Empire-in-exile — `p161-roan-empire-in-exile.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:106`
@@ -1070,7 +1060,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:106`
 Context: | # | Character | Page | CL | Classes | UtF | Ref / Fort / Will | HP (Thr.) | DSS | Destiny / FP | Best lightsaber line |
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:117`
 
-- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
+- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](../notes/materials/011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16) — `p224-appendix-cl-list-top.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:140`
@@ -1078,19 +1068,19 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:140`
 > Considered by many to be the rightful ruler of the galaxy, Roan Fel is the leader of the Empire-in-exile and is Darth Krayt's most wanted enemy. Roan Fel is a hard man who believes in the strength of order but not the violence of tyranny
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:432`
 
 > Trained as an Imperial Knight… works hard to make sure that the Jedi are not targeted as enemies during the Sith-Imperial War. However, despite his efforts, the Sith prevail and the Jedi are nearly eradicated.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:434`
 
 > THE JEDI HAVE NOTHING TO FEAR FROM MY FATHER. ROAN FEL IS NOT YOUR ENEMY. HE NEVER TRULY WAS.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Pull quote. POV: Pull quote.
 Label in our notes: MARASIAH FEL
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Marasiah Fel; Roan Fel — entry/section: Pull quote.
 Also noted as: Marasiah Fel; Roan Fel — entry/section: Pull quote: ""THE JEDI HAVE NOTHING TO FEAR FROM MY FATHER. ROAN FEL IS NOT YOUR ENEMY. HE NEVER TRULY WAS." —MARASIAH FEL" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.178
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:436`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:487`
@@ -1098,7 +1088,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:436`; `notes/materi
 > the Emperor (himself trained as an Imperial Knight)
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p162 adds.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p162 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p162-the-emperor-himself-trained-as-an.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p162 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p162-the-emperor-himself-trained-as-an.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:438`
 
 - Note (summary from our notes, not a quotation): CL 20; Medium Human Jedi 3/noble 6/Imperial Knight 5/officer 6. Destiny 3; Force 9; Dark Side 4. Init +10; Perception +19.
@@ -1137,33 +1127,33 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:451`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Read it as game balance for a CL20 ally or antagonist, not as an in-universe power claim. The bio's only power statement is "Darth Krayt's most wanted enemy".
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
-![p178 Emperor Roan Fel CL 20](011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![p178 Emperor Roan Fel CL 20](../notes/materials/011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:452`
 
-- Note (summary from our notes, not a quotation): ![p178 Roan Fel bio](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+- Note (summary from our notes, not a quotation): ![p178 Roan Fel bio](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p178 Roan Fel bio — `p178-roan-fel-bio.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:455`
 
-- Note (summary from our notes, not a quotation): ![p178 Emperor Roan Fel CL 20](011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
+- Note (summary from our notes, not a quotation): ![p178 Emperor Roan Fel CL 20](../notes/materials/011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p178 Emperor Roan Fel CL 20 — `p178-emperor-roan-fel-stat-cl20.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:458`
 
 > The highest-ranking member of the Imperial Knights, Antares Draco is a powerful Force-user whose dedication to Roan Fel is second to none.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:465`
 
 > Draco has defied Roan Fel's wishes on a few occasions, such as the time he traveled to Vendaxa to rescue Marasiah.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:471`
 
 > The Imperial Knights are Jedi who dedicate themselves to the preservation of the new Galactic Empire and the defense of Emperor Roan Fel—not unlike the Royal Guard that once protected Emperor Palpatine, though their training in the Force distinguishes them from that organization. Despite opinions to the contrary, Imperial Knights are every bit as capable in the use of the Force as their Jedi counterparts, though their training has considerably more martial focus. During the height of the Sith-Imperial War, the Imperial Knights were forbidden from participating in the fighting.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p44.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:796`
 
 > Considered by many to be the rightful ruler of the galaxy… Darth Krayt's most wanted enemy
@@ -1178,12 +1168,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:915`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Roan Fel has the same CL (20) and UtF (+22) as Krayt (p170, p178), yet no Legends source treats Fel as Krayt's peer. This directly supports ILS's debate #114 point that UtF "predicts same-era fights badly".
 Context: Counters from this book:
-![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
-![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
-![p178 Roan Fel bio](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
-![p178 Emperor Roan Fel CL 20](011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
+![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p170 Darth Krayt CL 20 stat block](../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+![p170 art: "Darth Krayt and Darth Wyyrlok"](../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+![p178 Roan Fel bio](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![p178 Emperor Roan Fel CL 20](../notes/materials/011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:992`
 
 - Note (summary from our notes, not a quotation): Note for 009 §Roan Fel: Fel's only comic fight showcase is against Krul (009 p255–258). No Fel–Krayt feat backs the guide's CL20 for Fel.
@@ -1196,7 +1186,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1067`
 > [fragment — full passage not on file]
 — Source: (debate #17) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Draco quote (debate #17) — VERIFIED..
 Note (our notes, around the quote): Draco quote (debate #17) — VERIFIED. "The highest-ranking member of the Imperial Knights, Antares Draco is a powerful Force-user whose dedication to Roan Fel is second to none." is verbatim on p175 (printed 174). The "cortosis gauntlet; Vader-model armour" label is also verified (p175 possessions; armour text on p162 and p184).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1071`
 
 - Note (summary from our notes, not a quotation): Fel Empire: Emperor Roan Fel (CL20), Antares Draco (CL15), Azlyn Rae (CL11), Marasiah Fel (CL10), the generic Imperial Knight (CL11), Knighthunter (CL7).
@@ -1217,10 +1207,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:36`
 > HAD SOME SUCCESS IN SHIELDING MY THOUGHTS FROM FORCE USERS. YOU, FOR EXAMPLE. *(p21–23)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): On Bastion, Roan Fel accuses Moff Nyna Calixte: the Sith sabotaged the Vong terraforming and framed the Vong, and she and Veed helped plan it (p10–13). Fel orders that the Jedi be allowed to withdraw to Ossus (p15). Three hours after Ossus falls, Maladi tells Veed and Calixte that Krayt wants Fel replaced (p16–17). Calixte warns Fel that the Sith will assassinate him at the Moff Council. A Knight Force-chokes and throws her. She says she has "HAD SOME SUCCESS IN SHIELDING MY THOUGHTS FROM FORCE USERS. YOU, FOR EXAMPLE." (p21–23). Mohrgan leads the Knights escorting Fel's double into the throne room. Krayt asks the "Emperor" for "YOUR LIFE" (p25) and, in a wordless page, cuts down the Knight squad alone, running Mohrgan through (p27). In the tunnels, Fel feels them die (p28). Krayt kills the double and takes the throne (p29). Maladi makes Calixte report to her and orders her to find Fel (p30–31).
-![p21 a Knight Force-chokes and throws Calixte](012-legacy-vol-2-shards-panels/p021-knight-force-throws-calixte.jpg)
-![p27 Krayt cuts down the Knights](012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
-![p28 the Knight, then Fel: "I FELT IT, TOO."](012-legacy-vol-2-shards-panels/p028-fel-i-felt-it-too.jpg)
-![p29 Krayt kills the double and sits the throne](012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
+![p21 a Knight Force-chokes and throws Calixte](../notes/materials/012-legacy-vol-2-shards-panels/p021-knight-force-throws-calixte.jpg)
+![p27 Krayt cuts down the Knights](../notes/materials/012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
+![p28 the Knight, then Fel: "I FELT IT, TOO."](../notes/materials/012-legacy-vol-2-shards-panels/p028-fel-i-felt-it-too.jpg)
+![p29 Krayt kills the double and sits the throne](../notes/materials/012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:44`
 
 - Note (summary from our notes, not a quotation): 2. Infiltrates Bastion past security, then loses to Roan Fel. p117 (#13)–p123 (#13). He slips out from under the shuttle and through the arcades unseen (p117, wordless; no guards are killed on the page). For the duel see Roan Fel 1.
@@ -1235,16 +1225,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:175`
 
 > IT'S WHAT I WOULD HAVE DONE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p118 Krul arrives; Fel.
-Note (our notes, around the quote): ![p118 Krul arrives; Fel: "IT'S WHAT I WOULD HAVE DONE."](012-legacy-vol-2-shards-panels/p118-krul-arrives-fel-line.jpg)
+Note (our notes, around the quote): ![p118 Krul arrives; Fel: "IT'S WHAT I WOULD HAVE DONE."](../notes/materials/012-legacy-vol-2-shards-panels/p118-krul-arrives-fel-line.jpg)
 (*Panel: p118 — `p118-krul-arrives-fel-line.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:178`
 
-- Note (summary from our notes, not a quotation): ![p120 cortosis gauntlet; Krul's lightning](012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
+- Note (summary from our notes, not a quotation): ![p120 cortosis gauntlet; Krul's lightning](../notes/materials/012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p120 — `p120-cortosis-gauntlet-lightning.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:181`
 
-- Note (summary from our notes, not a quotation): ![p121 Fel turns the lightning back](012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
+- Note (summary from our notes, not a quotation): ![p121 Fel turns the lightning back](../notes/materials/012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p121 — `p121-fel-redirects-lightning.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:184`
@@ -1252,7 +1242,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:184`
 > I BELIEVE IN HAVING BACKUPS.
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p123 Fel shoots Krul.
-Note (our notes, around the quote): ![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
+Note (our notes, around the quote): ![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](../notes/materials/012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
 (*Panel: p123 — `p123-fel-shoots-krul.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:187`
 
@@ -1264,13 +1254,13 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:190`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Feels the Knights die (130 ABY). p28 (#8 Allies) [009 p167]
-![p28 the Knight, then Fel: "I FELT IT, TOO."](012-legacy-vol-2-shards-panels/p028-fel-i-felt-it-too.jpg)
+![p28 the Knight, then Fel: "I FELT IT, TOO."](../notes/materials/012-legacy-vol-2-shards-panels/p028-fel-i-felt-it-too.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:192`
 
 > I FELT IT, TOO.
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p28 the Knight, then Fel.
-Note (our notes, around the quote): ![p28 the Knight, then Fel: "I FELT IT, TOO."](012-legacy-vol-2-shards-panels/p028-fel-i-felt-it-too.jpg)
+Note (our notes, around the quote): ![p28 the Knight, then Fel: "I FELT IT, TOO."](../notes/materials/012-legacy-vol-2-shards-panels/p028-fel-i-felt-it-too.jpg)
 (*Panel: p28 — `p028-fel-i-felt-it-too.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:195`
 
@@ -1278,12 +1268,12 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:195`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 3. Rates Cade, the Knights and the stalemate (137 ABY). p65 (#9 Trust Issues)–p67 (#9) [009 p204–206]
-![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
+![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](../notes/materials/012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:198`
 
 > WE PUT FIVE OF THEM ON HIS SHIP, KRIEG.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p65 Fel.
-Note (our notes, around the quote): ![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
+Note (our notes, around the quote): ![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](../notes/materials/012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
 (*Panel: p65 — `p065-fel-five-homing-devices.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:201`
 
@@ -1292,10 +1282,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:201`
 > ONCE, THE EMPIRE DESTROYED THE JEDI ORDER. I WILL NOT PERMIT IT TO DO SO AGAIN.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. 130 ABY: draws on Calixte; his Knight Force-chokes and throws her. p13, p21 (#8 Allies). Fel: "I AM THE EMPIRE. AND WHAT YOU HAVE SPOKEN IS TREASON." · (p15) "ONCE, THE EMPIRE DESTROYED THE JEDI ORDER. I WILL NOT PERMIT IT TO DO SO AGAIN." · (p21) the dark-skinned Knight (Mohrgan, called "COUSIN" on p20 and p23) gestures; Calixte: "WAIT -- HUK --!" then "HUFF!" as she is flung.
-![p21 a Knight Force-chokes and throws Calixte](012-legacy-vol-2-shards-panels/p021-knight-force-throws-calixte.jpg)
+![p21 a Knight Force-chokes and throws Calixte](../notes/materials/012-legacy-vol-2-shards-panels/p021-knight-force-throws-calixte.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:204`
 
-- Note (summary from our notes, not a quotation): ![p21 a Knight Force-chokes and throws Calixte](012-legacy-vol-2-shards-panels/p021-knight-force-throws-calixte.jpg)
+- Note (summary from our notes, not a quotation): ![p21 a Knight Force-chokes and throws Calixte](../notes/materials/012-legacy-vol-2-shards-panels/p021-knight-force-throws-calixte.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p21 — `p021-knight-force-throws-calixte.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:206`
@@ -1386,8 +1376,8 @@ Our notes: `legends-feats.md:2425`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Imperial Knights equal Jedi in the Force (material 011; p44; debate #17)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
 Our notes: `legends-feats.md:2476`
 
 > "While Imperial Knights use the Force as well as some Jedi, the Sith regard them as inferior to the Jedi and themselves."
@@ -1396,7 +1386,7 @@ Our notes: `legends-feats.md:2476`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Counter-quote (material 011; p27)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p27 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p027-ik-regarded-inferior.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p27 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p027-ik-regarded-inferior.jpg)
 Our notes: `legends-feats.md:2486`
 
 > "The highest-ranking member of the Imperial Knights, Antares Draco is a powerful Force-user whose dedication to Roan Fel is second to none."
@@ -1405,7 +1395,7 @@ Our notes: `legends-feats.md:2486`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Antares Draco: quote verified (the debate #17 citation is verbatim, p175). Stats: CL 15 (Jedi 7/Imperial Knight 8). UtF +19. Ref 33, Fort 32, Will 29. hp 137. Lightsaber +21 (2d8+13), or +16 (2d8+23) with Power Attack. Cortosis gauntlet. Juggernaut talent.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `legends-feats.md:2492`
 
 > the lightsaber deactivates and may not be reactivated for 2 minutes (20 rounds)
@@ -1415,14 +1405,14 @@ Our notes: `legends-feats.md:2492`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); Cortosis gauntlet rule: on a readied, opposed block.
 Note (our notes, around the quote): Cortosis gauntlet rule: on a readied, opposed block "the lightsaber deactivates and may not be reactivated for 2 minutes (20 rounds)". Imperial Knight armour is "modeled after the armor worn by Darth Vader", and its phrik filaments let personal DR apply against lightsabers. (material 011; p184)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p184 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p184-imperial-armor-cortosis-phrik.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p184 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p184-imperial-armor-cortosis-phrik.jpg)
 Our notes: `legends-feats.md:2498`
 
 > Darth Krayt's most wanted enemy
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Roan Fel: CL 20. UtF +22. Ref 35, Fort 34, Will 36. hp 157. Lightsaber +22 (2d8+12). No Force secrets. "Darth Krayt's most wanted enemy". (material 011; p178)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
 Our notes: `legends-feats.md:2500`
 
 > I FELT A DARK RIPPLE IN THE FORCE WHEN YOU LANDED.

@@ -14,7 +14,6 @@
 > It remains a mystery how the Emperor learned of his council's treachery. He allowed their plan to play out, but when they gathered to confront the Emperor, his punishment was swift and devastating. Eleven members of the Dark Council died in a sudden flash on the steps of the Citadel. The last member, Darth Lokess, disappeared forever, though for centuries some claimed her screams could be heard from the bowels of the Citadel.
 — Source: The Sith; Vitiate (the Sith Emperor); Darth Lokess — The Dark Council.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Darth Lokess — The Dark Council: "It remains a mystery how the Emperor learned of his council's treachery. He allowed their plan to play out, but when they gathered to confront the Emperor, his punishment was swift and devastating. Eleven members of the Dark Council died in a sudden flash on the steps of the Citadel. The last member, Darth Lokess, disappeared forever, though for centuries some claimed her screams could be heard from the bowels of the Citadel." Source: The Old Republic Encyclopedia, p.157, sidebar
-![Quote image: The Old Republic Encyclopedia, p.157 — full quote as printed](quotes/tore-p157-it-remains-a-mystery-how-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:133`
 
 ## "SWTOR Scaling - The Truth" (Menace test-blog; response to Material 003)

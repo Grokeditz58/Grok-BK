@@ -18,7 +18,6 @@ Our notes: `notes/materials/038-star-wars-insider/133-ins133.md:357`
 > Kerra's new mission requires her to infiltrate the Odionate—the dark and hopeless realm of Lord Odion, ravager of her homeworld and would-be destroyer of the universe.
 — Source: Star Wars Insider #133 (2012).
 Note (our notes, around the quote): Lord Odion; Kerra Holt — entry/section: Miller: Lord Odion, would-be destroyer of the universe: ""Kerra's new mission requires her to infiltrate the Odionate—the dark and hopeless realm of Lord Odion, ravager of her homeworld and would-be destroyer of the universe." —John Jackson Miller, Star Wars Insider 133, p. 66" Source: *Star Wars Insider #133* (2012), scan p.66
-![Quote image: *Star Wars Insider #133* (2012), scan p.66 — full quote as printed](quotes/ins133-s66-kerras-new-mission-requires-her-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/133-ins133.md:359`
 
 # Debate and forum claims (unverified)

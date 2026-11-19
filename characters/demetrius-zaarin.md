@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-1
 > Zaarin would have killed Palpatine and installed himself as a military dictator had it not been for the arrival of loyal Imperial forces.
 — Source: Star Wars Insider #66 (2003).
 Note (our notes, around the quote): Demetrius Zaarin; Palpatine (Darth Sidious) — entry/section: Star Wars Insider 066 (2003): Zaarin's coup: "Zaarin would have killed Palpatine and installed himself as a military dictator had it not been for the arrival of loyal Imperial forces." Source: *Star Wars Insider #66* (2003), scan p.49
-![Quote image: *Star Wars Insider #66* (2003), scan p.49 — full quote as printed](quotes/ins066-s49-zaarin-would-have-killed-palpatine-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/066-ins066.md:268`
 
 # Debate and forum claims (unverified)

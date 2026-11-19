@@ -21,24 +21,20 @@ Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:12`
 
 - Note (summary from our notes, not a quotation): Yet at least one exists. Presumably, it is unique, the result of a mutation. Although a mutation as fantastic as this one stretches the credibility of nearly any genetic explanation, the creature does exist. It even has a name. It calls itself Turmok." Source: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1
   — Source: Creatures/Smart Space Slug.pdf [Star Wars Roleplaying Game Revised Core (.
-![Quote image: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d167-s1-giant-space-slugs-live-in-asteroid.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:13`
 
 - Note (summary from our notes, not a quotation): Turmok — entry/section: Turmok kills the slug hunters: "Instead of just reeling in pain as a normal space slug would, Turmok closed its mouth, grabbed the hunters with its thousands of tongue cilia, and shook them violently. Though well protected, none of the hunters counted on such a ferocious, concerted defense, and certainly none had ever encountered a space slug with prehensile "feelers" all over its tongue. They died in seconds and were swallowed soon after." Source: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1
   — Source: Creatures/Smart Space Slug.pdf [Star Wars Roleplaying Game Revised Core (.
-![Quote image: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d167-s1-instead-of-just-reeling-in-pain.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:15`
 
 > After months of feeling and experimentation, Turmok discovered that the vibrations and noises coming from some of the small strange boxes were rhythmic. Turmok had no concept of language, but the idea that some of these noises were intentional was inescapable. It spent years listening to the com chatter of the countless ships passing by or sending signals near enough to be picked up. Turmok came to the conclusion that an unknown number of creatures existed in the universe. And given its first contact, it assumed that they all wanted to hurt it.
 — Source: Creatures/Smart Space Slug.pdf [Star Wars Roleplaying Game Revised Core (; Turmok — entry/section: Turmok learns of other beings.
 Note (our notes, around the quote): Turmok — entry/section: Turmok learns of other beings: "After months of feeling and experimentation, Turmok discovered that the vibrations and noises coming from some of the small strange boxes were rhythmic. Turmok had no concept of language, but the idea that some of these noises were intentional was inescapable. It spent years listening to the com chatter of the countless ships passing by or sending signals near enough to be picked up. Turmok came to the conclusion that an unknown number of creatures existed in the universe. And given its first contact, it assumed that they all wanted to hurt it." Source: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d167-s1-after-months-of-feeling-and-experimentation.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:17`
 
 > After this success, Turmok decided that pre-emptive action was the best way to prevent further painful experiences. Now, every time it hears the ship's com unit crackle with noise, it turns on the distress beacon, opens its mouth, and waits for someone to show up.
 — Source: Creatures/Smart Space Slug.pdf [Star Wars Roleplaying Game Revised Core (; Turmok — entry/section: Turmok's trap.
 Note (our notes, around the quote): Turmok — entry/section: Turmok's trap: "After this success, Turmok decided that pre-emptive action was the best way to prevent further painful experiences. Now, every time it hears the ship's com unit crackle with noise, it turns on the distress beacon, opens its mouth, and waits for someone to show up." Source: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d167-s1-after-this-success-turmok-decided-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:19`
 
 - Note (summary from our notes, not a quotation): Page contents: Turmok stats end, prehensile cilia; GM guidance on placing and communicating with Turmok (hand-read)
@@ -47,7 +43,6 @@ Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:28`
 
 - Note (summary from our notes, not a quotation): Turmok — entry/section: Turmok and language: "Interpreting language is still a bit beyond Turmok. If someone were to teach it, Turmok would probably learn quickly. But with no frame of reference for vocabulary words, Turmok can't really understand what others are talking about. It has heard words in dozens of languages, but the sounds have no meaning. This rule has a few exceptions. First, Turmok has heard "hello" and “goodbye” (and most variations) enough at the beginnings and endings of conversations to understand what those words mean in nearly any language. Second, it has listened to enough conversations to understand emotional content. Using its Sense Motive skill, it can pick up on surprisingly subtle emotional cues, and it has a good sense of when someone is lying. It fully expects everyone to lie and want to hurt it, so characters must be cautious in how they talk around the slug to avoid setting it off." Source: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.2
   — Source: Creatures/Smart Space Slug.pdf [Star Wars Roleplaying Game Revised Core (.
-![Quote image: *Smart Space Slug* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d167-s2-interpreting-language-is-still-a-bit.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/167-smart-space-slug.md:30`
 
 # Debate and forum claims (unverified)

@@ -20,7 +20,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/champions-of-the-force.md:1
 
 - Note (summary from our notes, not a quotation): art caption: "General Jan Dodonna" Source: The New Essential Chronology, p.108, caption
   — Source: Part Five: The Galactic Civil War.
-![Quote image: The New Essential Chronology, p.108 — full quote as printed](quotes/nec-p108-caption-general-jan-dodonna.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:27`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -28,13 +27,11 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 > He encountered Rogue Squadron pilot Corran Horn there and attempted to kill him, but was himself killed by Horn with the assistance of Jan Dodonna.
 — Source: scan pages 161–200; Corran Horn. POV: Corran Horn, about Jan Dodonna.
 Note (our notes, around the quote): Corran Horn: "He encountered Rogue Squadron pilot Corran Horn there and attempted to kill him, but was himself killed by Horn with the assistance of Jan Dodonna." Source: The Complete Star Wars Encyclopedia, Vol. I, p.185
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.185 — full quote as printed](quotes/v1-p185-he-encountered-rogue-squadron-pilot-corran.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:343`
 
 > Dodonna, Vrad The son of General Jan Dodonna, he at first retreated from an encounter with Darth Vader's new Super Star Destroyer, the Executor.
 — Source: scan pages 201–240; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Dodonna, Vrad The son of General Jan Dodonna, he at first retreated from an encounter with Darth Vader's new Super Star Destroyer, the Executor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.194
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.194 — full quote as printed](quotes/v1-p194-dodonna-vrad-the-son-of-general.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:68`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -47,7 +44,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Jan Dodonna — entry/section: Dodonna seals a temple.
 Note (our notes, around the quote): Jan Dodonna — entry/section: Dodonna seals a temple: "General Jan Dodonna ordered the Temple of the Blueleaf Cluster sealed, wary of the crystal pyramid lit with a strange, pulsating cold blue light that stood in its foreboding main chamber," Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.155
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.155 — full quote as printed](quotes/d667-s155-general-jan-dodonna-ordered-the-temple.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:280`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -55,7 +51,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > The recognized leader of the Alliance is Mon Mothma, the former Senator of Chandrila. Assisted initially by the Corellian military strategist Garm Bel Iblis and Senator Bail Organa of Alderaan, Mon Mothma carried on virtually alone after Bel Iblis went into hiding and Bail Organa died along with his homeworld. A strong, intelligent woman, Mon Mothma is also poised and graceful—a paragon of diplomacy and an inspiration to every member of the Alliance. She is aided by the Mon Calamari tactician Ackbar and the Imperial defector Crix Madine, the replacement for General Jan Dodonna (lost in the Battle of Yavin).
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Mon Mothma; Bail Organa; Admiral Ackbar — entry/section: Mon Mothma, recognized leader of the Alliance: "The recognized leader of the Alliance is Mon Mothma, the former Senator of Chandrila. Assisted initially by the Corellian military strategist Garm Bel Iblis and Senator Bail Organa of Alderaan, Mon Mothma carried on virtually alone after Bel Iblis went into hiding and Bail Organa died along with his homeworld. A strong, intelligent woman, Mon Mothma is also poised and graceful—a paragon of diplomacy and an inspiration to every member of the Alliance. She is aided by the Mon Calamari tactician Ackbar and the Imperial defector Crix Madine, the replacement for General Jan Dodonna (lost in the Battle of Yavin)." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.108
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.108 — full quote as printed](quotes/d668-s108-the-recognized-leader-of-the-alliance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:265`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)

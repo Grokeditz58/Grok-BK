@@ -18,7 +18,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan
 > Piggy flew as Wraith Twelve, and survived being shot during an assassination attempt on Admiral Ackbar.
 — Source: scan pages 121–160; Admiral Ackbar. POV: Admiral Ackbar, about Voort "Piggy" saBinring.
 Note (our notes, around the quote): Admiral Ackbar: "Piggy flew as Wraith Twelve, and survived being shot during an assassination attempt on Admiral Ackbar." Source: The Complete Star Wars Encyclopedia, Vol. III, p.122
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.122 — full quote as printed](quotes/v3-p122-piggy-flew-as-wraith-twelve-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:57`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -35,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/212-jedi-counseling-46-droid-jedi.
 
 - Note (summary from our notes, not a quotation): Voort "Piggy" saBinring — entry/section: Piggy as a species-drawback exception: "There's nothing inherently wrong with these ideas. For example, the character of "Piggy" in the X-Wing novel series is quite a clever concept. But as a GM, you have to be aware of the ramifications of allowing characters who don't have the usual drawbacks of their species." Source: *Jedi Counseling 46 - Droid Jedi?* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 46 - Droid Jedi?.pdf [Star Wars Roleplay.
-![Quote image: *Jedi Counseling 46 - Droid Jedi?* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d212-s2-theres-nothing-inherently-wrong-with-these.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/212-jedi-counseling-46-droid-jedi.md:20`
 
 ## Living Force Campaign/Articles/Year 2/01:24:02 - Senator Wren's Social Calendar.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -44,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/212-jedi-counseling-46-droid-jedi.
 > [fragment — full passage not on file]
 — Source: Living Force Campaign/Articles/Year 2/01:24:02 - Senator Wren's Social Ca. POV: Lavina Wren; about Voort "Piggy" saBinring.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Lavina Wren: "has been lobbying for increased sanctions against Piggy and the Orbiting Nasties, and has been making us all very proud." Source: *01:24:02 - Senator Wren's Social Calendar* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *01:24:02 - Senator Wren's Social Calendar* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d392-s1-has-been-lobbying-for-increased-sanctions.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/392-01-24-02-senator-wrens-social-calendar.md:22`
 
 ## Star Wars Insider #42 (1999)

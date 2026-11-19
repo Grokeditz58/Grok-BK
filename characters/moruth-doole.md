@@ -71,20 +71,17 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:231`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala; Moruth Doole — Doole's Defense Fleet (sidebar): "Alas, nearly 90 percent of his defense navy is lost in the clash with Daala's fleet, including all of the capital ships." Source: The Jedi Academy Sourcebook, p.88, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.88 — full quote as printed](quotes/jas-p88-dooles-defense-fleet-sidebar.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/08-ch8-kessel.md:30`
 
 > The minor bureaucrat had effectively conquered an entire planet with an army of prisoners.
 — Source: Chapter Eight: Kessel; Moruth Doole — Doole's Rise to Power (sidebar).
 Note (our notes, around the quote): Moruth Doole — Doole's Rise to Power (sidebar): "The minor bureaucrat had effectively conquered an entire planet with an army of prisoners." Source: The Jedi Academy Sourcebook, p.90, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.90 — full quote as printed](quotes/jas-p90-dooles-rise-to-power-sidebar.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/08-ch8-kessel.md:42`
 
 > When Han and the others return to claim Kessel and storm his barricades, Doole faces a rebellion led by the females he imprisoned (and some of his children). Attacked from all sides, he flees into the mine tunnels and is quickly hunted down and devoured by rampaging spice spiders. m Moruth Doole Type: Rybet Kessel Overlord DEXTERITY 4D Blaster 6D-+1, brawling parry 5D, dodge 7D, running 5D+1 KNOWLEDGE 2D+1 Alien species 4D, bureaucracy 5D, bureaucracy: Kessel 8D, business: spice mining LOD, intimidation4D, lan- guages 4D+2, law enforcement: Kessel 6D+2, planetary systems 5D, streetwise 7D, value 6D+2 MECHANICAL 3D+1 Astrogation 4D, communications 5D, hover vehicle op- eration 4D, repulsorlift operation 4D-+-1, sensors 5D, space transports 3D-+2, starship shields 3D+2 PERCEPTION 3D+2 Bargain 6D, command: Doole’s organization 11D+1, con 6D-+2, forgery 5D+2, gambling 5D, hide 6D, investigation 5D, persuasion 8D, search 4D+2, sneak 5D STRENGTH 2D Brawling 4D, climbing/jumping 5D, swimming 6D TECHNICAL 2D+2 Computer programming/repair 6D, droid programming 4D, first aid 3D, security 7D+1 Force Points: | Dark Side Points: 3 Character Points: 12 Move: 1() .
 — Source: Chapter Eight: Kessel; Moruth Doole — Moruth Doole — death.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean, Chapter Eight (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Moruth Doole — Moruth Doole — death: "Attacked from all sides, he flees into the mine tunnels and is quickly hunted down and devoured by rampaging spice spiders." Source: The Jedi Academy Sourcebook, p.91
-![Quote image: The Jedi Academy Sourcebook, p.91 — full quote as printed](quotes/jas-p91-moruth-doole-death.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/08-ch8-kessel.md:49`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -98,7 +95,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Kessel's moon, which once held an Imperial garrison and Doole's ragtag defensive fleet (decimated in a battle with Admiral Daala's Star Destroyers), was destroyed by a Death Star prototype from Maw Installation.
 — Source: scan pages 201–240; Moruth Doole; Admiral Daala.
 Note (our notes, around the quote): Moruth Doole; Admiral Daala: "Kessel's moon, which once held an Imperial garrison and Doole's ragtag defensive fleet (decimated in a battle with Admiral Daala's Star Destroyers), was destroyed by a Death Star prototype from Maw Installation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.213
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.213 — full quote as printed](quotes/v2-p213-kessels-moon-which-once-held-an.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:192`
 
 ## Characters/Nien Nunb, Kessel Administrator.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -110,7 +106,6 @@ Our notes: `notes/materials/037-sw-d20-folder/145-nien-nunb-kessel-administrator
 > With Calrissian's help, Nien Nunb later found success of a different type as the new administrator of the mining facility on Kessel. The Sullustan replaced slave driver Moruth Doole and has turned the mining operation into a profitable, legitimate business in a remarkably short time. His experience running freight early in his career, along with the tactical knowledge he gained in his time as a New Republic pilot, have served him well.
 — Source: Characters/Nien Nunb, Kessel Administrator.pdf [Star Wars Roleplaying Gam.
 Note (our notes, around the quote): Nien Nunb; Lando Calrissian; Moruth Doole — entry/section: Nien Nunb on Kessel: "With Calrissian's help, Nien Nunb later found success of a different type as the new administrator of the mining facility on Kessel. The Sullustan replaced slave driver Moruth Doole and has turned the mining operation into a profitable, legitimate business in a remarkably short time. His experience running freight early in his career, along with the tactical knowledge he gained in his time as a New Republic pilot, have served him well." Source: *Nien Nunb, Kessel Administrator* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Nien Nunb, Kessel Administrator* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d145-s1-with-calrissians-help-nien-nunb-later.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/145-nien-nunb-kessel-administrator.md:14`
 
 ## Locations/Planet Hoppers/Kessel - Hell in Space/Part 1 - Rotten to the Core.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -128,19 +123,16 @@ Our notes: `notes/materials/037-sw-d20-folder/603-part-2-in-the-land-of-the.md:1
 > Doole is the most powerful trustee in the Kessel mines, a conniving Rybet who has, it's said, enough dirt on everyone in the prison, even the Imperials, to bring down the whole operation.
 — Source: Locations/Planet Hoppers/Kessel - Hell in Space/Part 2 - In the Land of t.
 Note (our notes, around the quote): Moruth Doole — entry/section: Part 2 - In the Land of the Blind: "Doole is the most powerful trustee in the Kessel mines, a conniving Rybet who has, it's said, enough dirt on everyone in the prison, even the Imperials, to bring down the whole operation." Source: *Part 2 - In the Land of the Blind* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 2 - In the Land of the Blind* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d603-s1-doole-is-the-most-powerful-trustee.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/603-part-2-in-the-land-of-the.md:12`
 
 > Killing Doole would do little good, since another would replace him soon enough. But if I can gain his trust, and then that of the Imperials, I may be able to get into a position to do some real damage.
 — Source: Locations/Planet Hoppers/Kessel - Hell in Space/Part 2 - In the Land of t.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Gyylghrard's journal: "Killing Doole would do little good, since another would replace him soon enough. But if I can gain his trust, and then that of the Imperials, I may be able to get into a position to do some real damage." Source: *Part 2 - In the Land of the Blind* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 2 - In the Land of the Blind* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d603-s1-killing-doole-would-do-little-good.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/603-part-2-in-the-land-of-the.md:14`
 
 > The Wookiee made such an impression on the trustees that they brought him before the most powerful of their kind in the prison, the Rybet who would one day seize control of the facility: Moruth Doole.
 — Source: Locations/Planet Hoppers/Kessel - Hell in Space/Part 2 - In the Land of t; Moruth Doole. POV: Moruth Doole.
 Note (our notes, around the quote): Moruth Doole: "The Wookiee made such an impression on the trustees that they brought him before the most powerful of their kind in the prison, the Rybet who would one day seize control of the facility: Moruth Doole." Source: *Part 2 - In the Land of the Blind* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 2 - In the Land of the Blind* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d603-s1-the-wookiee-made-such-an-impression.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/603-part-2-in-the-land-of-the.md:16`
 
 ## Locations/Planet Hoppers/Kessel - Hell in Space/Part 3 - Hope in Darkness.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

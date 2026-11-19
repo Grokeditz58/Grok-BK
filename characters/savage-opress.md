@@ -68,7 +68,6 @@ Our notes: `notes/materials/038-star-wars-insider/134-ins134.md:421`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #138 (2013).
 Note (our notes, around the quote): Obi-Wan Kenobi; Savage Opress; Darth Maul — entry/section: Taylor on Obi-Wan in "Revival": ""There's a moment when Obi-Wan is battling Savage Opress and Darth Maul in this episode ("Revival"), and he has a moment that is stellar and the crowd cheered for the good guy." —James Arnold Taylor, Star Wars Insider 138, p. 45" Source: *Star Wars Insider #138* (2013), scan p.45
-![Quote image: *Star Wars Insider #138* (2013), scan p.45 — full quote as printed](quotes/ins138-s45-theres-a-moment-when-obi-wan.jpg)
 Our notes: `notes/materials/038-star-wars-insider/138-ins138.md:234`
 
 ## Star Wars Insider #139 (2013)

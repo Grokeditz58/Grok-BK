@@ -311,13 +311,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:210`
 > You have the blood of billions on your hands, Jedi Knight, but I am not the one to judge you. Go to Yavin Four. Let the Jedi Master decide your punishment.
 — Source: Part Eight: The Return of the Jedi Knights; Kyp Durron — Mon Mothma's verdict. POV: speaker not named in our notes.
 Note (our notes, around the quote): Kyp Durron — Mon Mothma's verdict: ""You have the blood of billions on your hands, Jedi Knight, but I am not the one to judge you. Go to Yavin Four. Let the Jedi Master decide your punishment."" Source: The New Essential Chronology, p.166
-![Quote image: The New Essential Chronology, p.166 — full quote as printed](quotes/nec-p166-mon-mothmas-verdict.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:61`
 
 > In an unlikely gambit, the Force-strong Mon Calamari ambassador Cilghal worked for hours at Mon Mothma's deathbed. Focusing her powers, Cilghal was able to remove the insidious poison one molecule at a time.
 — Source: Part Eight: The Return of the Jedi Knights; Cilghal — Cilghal heals Mon Mothma. POV: speaker not named in our notes.
 Note (our notes, around the quote): Cilghal — Cilghal heals Mon Mothma: "In an unlikely gambit, the Force-strong Mon Calamari ambassador Cilghal worked for hours at Mon Mothma's deathbed. Focusing her powers, Cilghal was able to remove the insidious poison one molecule at a time." Source: The New Essential Chronology, p.166
-![Quote image: The New Essential Chronology, p.166 — full quote as printed](quotes/nec-p166-cilghal-heals-mon-mothma.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:67`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -327,7 +325,6 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Cilghal; Exar Kun — Cilghal — saving Mon Mothma: "She proves instrumental in saving the life of New Republic Chief-of-State Mon Mothma, who is possessed by the dark side spirit of Exar Kun." Source: Jedi Academy Training Manual, p.97
-![Quote image: Jedi Academy Training Manual, p.97 — full quote as printed](quotes/jatm-p97-cilghal-saving-mon-mothma.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:27`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -352,20 +349,17 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Cilghal — Ambassador Cilghal — healing Mon Mothma: "After hours and hours of isolating and ejecting each molecule of the virus, she succeeds in restoring the great leader to health." Source: The Jedi Academy Sourcebook, p.40
-![Quote image: The Jedi Academy Sourcebook, p.40 — full quote as printed](quotes/jas-p40-ambassador-cilghal-healing-mon-mothma.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:165`
 
 > The arrival of Grand Admiral Thrawn exacerbated these fears, and it was very difficult for New Republic diplomats, led by Mon Mothma and Leia Organa Solo, to woo worlds into the New Republic fold even after his defeat at Bilbringi.
 — Source: Chapter Five: Forces of the Empire.
 Note (our notes, around the quote): Grand Admiral Thrawn; Leia Organa Solo — The Imperial Core Systems — Thrawn's legacy: "The arrival of Grand Admiral Thrawn exacerbated these fears, and it was very difficult for New Republic diplomats, led by Mon Mothma and Leia Organa Solo, to woo worlds into the New Republic fold even after his defeat at Bilbringi." Source: The Jedi Academy Sourcebook, p.52
-![Quote image: The Jedi Academy Sourcebook, p.52 — full quote as printed](quotes/jas-p52-the-imperial-core-systems-thrawns-legacy.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:11`
 
 > Furgan himself travels to Coruscant to inoculate Mothma with the nano virus by throwing a drink containing the contaminant into her face at a diplomatic function,
 > [fragment — full passage not on file]
 — Source: Chapter Five: Forces of the Empire; Ambassador Furgan — Ambassador Furgan — poisoning Mon Mothma.
 Note (our notes, around the quote): Ambassador Furgan — Ambassador Furgan — poisoning Mon Mothma: "Furgan himself travels to Coruscant to inoculate Mothma with the nano virus by throwing a drink containing the contaminant into her face at a diplomatic function," Source: The Jedi Academy Sourcebook, p.53
-![Quote image: The Jedi Academy Sourcebook, p.53 — full quote as printed](quotes/jas-p53-ambassador-furgan-poisoning-mon-mothma.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:24`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -373,7 +367,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 > She aided in the plan to defeat Kun, then departed Yavin 4 for her most difficult mission: healing the dying Mon Mothma.
 — Source: scan pages 121–160; Cilghal — entry/section: Cilghal.
 Note (our notes, around the quote): Cilghal — entry/section: Cilghal: "She aided in the plan to defeat Kun, then departed Yavin 4 for her most difficult mission: healing the dying Mon Mothma." Source: The Complete Star Wars Encyclopedia, Vol. I, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.127 — full quote as printed](quotes/v1-p127-she-aided-in-the-plan-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:181`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -389,13 +382,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Mothma, along with Crix Madine and the Mon Calamarian Ackbar, devised the plan to destroy the second Death Star at Endor, which eventually succeeded.
 — Source: scan pages 321–360; Admiral Ackbar. POV: Admiral Ackbar, about Mon Mothma.
 Note (our notes, around the quote): Admiral Ackbar: "Mothma, along with Crix Madine and the Mon Calamarian Ackbar, devised the plan to destroy the second Death Star at Endor, which eventually succeeded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.336
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.336 — full quote as printed](quotes/v2-p336-mothma-along-with-crix-madine-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:151`
 
 > Once they were discovered in Mothma's system, the Jedi healer Cilghal was able, cell by cell, to eradicate the nano-destroyers that had threatened the life of the onetime Chief of State.
 — Source: scan pages 361–400; Cilghal. POV: Cilghal, about Mon Mothma.
 Note (our notes, around the quote): Cilghal: "Once they were discovered in Mothma's system, the Jedi healer Cilghal was able, cell by cell, to eradicate the nano-destroyers that had threatened the life of the onetime Chief of State." Source: The Complete Star Wars Encyclopedia, Vol. II, p.359
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.359 — full quote as printed](quotes/v2-p359-once-they-were-discovered-in-mothmas.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:50`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -413,7 +404,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-0
 > Not even a year into her term as Chief of State, Mon Mothma survived a second assassination attempt, this time by Ambassador Furgan of Carida.
 — Source: scan pages 91–120; Ambassador Furgan. POV: Ambassador Furgan, about Mon Mothma.
 Note (our notes, around the quote): Ambassador Furgan: "Not even a year into her term as Chief of State, Mon Mothma survived a second assassination attempt, this time by Ambassador Furgan of Carida." Source: The New Essential Guide to Characters, p.120
-![Quote image: The New Essential Guide to Characters, p.120 — full quote as printed](quotes/negc-p120-not-even-a-year-into-her.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:174`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -423,7 +413,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Kueller; Leia Organa Solo; Luke Skywalker — entry/section: Kueller: "On Almania, Leia rescued Luke while Kueller's fleet of Victoryclass Star Destroyers and TIE fighters did battle with the New Republic forces Mon Mothma sent to help." Source: Dark Side Sourcebook, p.107
-![Quote image: Dark Side Sourcebook, p.107 — full quote as printed](quotes/dss-p107-on-almania-leia-rescued-luke-while.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:340`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -449,12 +438,10 @@ Our notes: `notes/materials/037-sw-d20-folder/073-rendezvous-at-ord-mantell.md:6
 > Why Jan Ors left the extremist group for the Alliance is one of the operative's many mysteries, though it's suspected that the close relationship her parents shared with Mon Mothma years before had something to do with it. Jan had already infiltrated Imperial Intelligence under the name Jan Strange when she contacted the Alliance, providing priceless counter-intelligence. Within Intell, she and Imperial cadet Kyle Katarn had their first brief interactions, though the two remained largely oblivious to each other.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Mon Mothma; Kyle Katarn — entry/section: Jan Ors infiltrates Imperial Intelligence: "Why Jan Ors left the extremist group for the Alliance is one of the operative's many mysteries, though it's suspected that the close relationship her parents shared with Mon Mothma years before had something to do with it. Jan had already infiltrated Imperial Intelligence under the name Jan Strange when she contacted the Alliance, providing priceless counter-intelligence. Within Intell, she and Imperial cadet Kyle Katarn had their first brief interactions, though the two remained largely oblivious to each other." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-why-jan-ors-left-the-extremist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:12`
 
 - Note (summary from our notes, not a quotation): Jan Ors; Kyle Katarn; Mara Jade Skywalker; Mon Mothma; Admiral Hiram Drayson — entry/section: Jan and Kyle declare their love: "Her attitude changed, however, during the race for the Valley of the Jedi, during which Jan and Kyle declared their love. As freedom fighters, Jan and Kyle's relationship was far from ideal, particularly with Kyle's dark mood swings and the close bond he formed with the former Emperor's Hand Mara Jade, but the pair pulled through. On Mon Mothma's recommendation, Jan joined Admiral Hiram Drayson's secretive Alpha Blue intelligence agency, where she helped expose the Yevethan hypocrisy. She also kept a vigilant eye on ambiguous threats like the socialites of the Order of the Canted Circle and the Azurite Society of Lords, and the "retired" Grand Admiral Grant. In her new capacity, Jan was able to assign Kyle and accompany him on off-the-record missions against the Imperial Remnant." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-her-attitude-changed-however-during-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:16`
 
 ## Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -473,7 +460,6 @@ Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:27`
 
 - Note (summary from our notes, not a quotation): A: Both are correct: A character under Mon Mothma's commander effect gets to make an attack when it is defeated, but a character with Impulsive Sweep/Impulsive Shot doesn't get to use it when he is himself defeated. Impulsive Sweep/Impulsive Shot are meant to work when someone else is defeated." Source: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d236-s2-q-second-question-mon-mothmas-commander.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:28`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -485,7 +471,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > For instance, a tip from Bail Organa saved future Rebel leader Mon Mothma from Imperial capture.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Bail Organa; Mon Mothma — entry/section: Bail Organa saves Mon Mothma: "For instance, a tip from Bail Organa saved future Rebel leader Mon Mothma from Imperial capture." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.42
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.42 — full quote as printed](quotes/d665-s42-for-instance-a-tip-from-bail.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:314`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -503,7 +488,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:26
 > The recognized leader of the Alliance is Mon Mothma, the former Senator of Chandrila. Assisted initially by the Corellian military strategist Garm Bel Iblis and Senator Bail Organa of Alderaan, Mon Mothma carried on virtually alone after Bel Iblis went into hiding and Bail Organa died along with his homeworld. A strong, intelligent woman, Mon Mothma is also poised and graceful—a paragon of diplomacy and an inspiration to every member of the Alliance. She is aided by the Mon Calamari tactician Ackbar and the Imperial defector Crix Madine, the replacement for General Jan Dodonna (lost in the Battle of Yavin).
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Mon Mothma; Bail Organa; Admiral Ackbar — entry/section: Mon Mothma, recognized leader of the Alliance: "The recognized leader of the Alliance is Mon Mothma, the former Senator of Chandrila. Assisted initially by the Corellian military strategist Garm Bel Iblis and Senator Bail Organa of Alderaan, Mon Mothma carried on virtually alone after Bel Iblis went into hiding and Bail Organa died along with his homeworld. A strong, intelligent woman, Mon Mothma is also poised and graceful—a paragon of diplomacy and an inspiration to every member of the Alliance. She is aided by the Mon Calamari tactician Ackbar and the Imperial defector Crix Madine, the replacement for General Jan Dodonna (lost in the Battle of Yavin)." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.108
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.108 — full quote as printed](quotes/d668-s108-the-recognized-leader-of-the-alliance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:265`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -517,7 +501,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:
 > MANY BOTHANS DIED TO BRING US THIS INFORMATION.
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi; Mon Mothma — entry/section: Back cover pull quote.
 Note (our notes, around the quote): Mon Mothma — entry/section: Back cover pull quote: ""MANY BOTHANS DIED TO BRING US THIS INFORMATION."" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.226
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.226 — full quote as printed](quotes/d716-s226-many-bothans-died-to-bring-us.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-226.md:303`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -564,7 +547,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > The Senate is united in its desire to bring the war to a swift ¢nd, but their differing views on how to accomplish this goal split the delegates into two camps: those led by Bail Organa, Mon Mothma, and Padmé Amidala, who seek a mutual peace with the Separatists to avoid any further compromise of liberty, and the militarists who want to see the Confederacy of Independent Systems crushed and brought back into the Republic by force.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Padmé Amidala. POV: Padmé Amidala, about Mon Mothma.
 Note (our notes, around the quote): Padmé Amidala: "The Senate is united in its desire to bring the war to a swift ¢nd, but their differing views on how to accomplish this goal split the delegates into two camps: those led by Bail Organa, Mon Mothma, and Padmé Amidala, who seek a mutual peace with the Separatists to avoid any further compromise of liberty, and the militarists who want to see the Confederacy of Independent Systems crushed and brought back into the Republic by force." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.156
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.156 — full quote as printed](quotes/d728-s156-the-senate-is-united-in-its.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:356`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -684,7 +666,6 @@ Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:294`
 > I am quite disappointed by the short-sightedness of the Senate. I was hopeful that a more even-tempered solution could be found, one favoring equal cooperation between home defense forces and the Army of the Republic.
 — Source: Star Wars Insider #71 (2003).
 Note (our notes, around the quote): Mon Mothma — entry/section: HoloNet News: Mon Mothma on the reflex amendment: ""I am quite disappointed by the short-sightedness of the Senate. I was hopeful that a more even-tempered solution could be found, one favoring equal cooperation between home defense forces and the Army of the Republic." —Mon Mothma, Star Wars Insider 71, p. 57" Source: *Star Wars Insider #71* (2003), scan p.57
-![Quote image: *Star Wars Insider #71* (2003), scan p.57 — full quote as printed](quotes/ins071-s57-i-am-quite-disappointed-by-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:296`
 
 ## Star Wars Insider #73 (2004)
@@ -712,7 +693,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:252`
 > I took that as an image to hold on to – she needed to come from somewhere, and those words evoked someone cool and calm. She's an archetype, just as Darth Vader and Obi-Wan Kenobi are.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Mon Mothma; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Blakiston on Mon Mothma as archetype: "Blakiston saw the derivation of Mon Mothma's name as "Moon Mother." "I took that as an image to hold on to – she needed to come from somewhere, and those words evoked someone cool and calm. She's an archetype, just as Darth Vader and Obi-Wan Kenobi are." —Caroline Blakiston, Star Wars Insider 75, p. 40" Source: *Star Wars Insider #75* (2004), scan p.40
-![Quote image: *Star Wars Insider #75* (2004), scan p.40 — full quote as printed](quotes/ins075-s40-blakiston-saw-the-derivation-of-mon.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:254`
 
 ## Star Wars Insider #82 (2005)

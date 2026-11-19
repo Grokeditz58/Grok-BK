@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 > Although T1-LB's original body had been destroyed, the Arkanian engineer Camper managed to restore his main cognitive centers and storage banks, allowing Zayne to witness the murders of his fellow students.
 — Source: scan pages 201–240; Zayne Carrick. POV: Zayne Carrick, about Gorman Vandrayk.
 Note (our notes, around the quote): Zayne Carrick: "Although T1-LB's original body had been destroyed, the Arkanian engineer Camper managed to restore his main cognitive centers and storage banks, allowing Zayne to witness the murders of his fellow students." Source: The Complete Star Wars Encyclopedia, Vol. III, p.207
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.207 — full quote as printed](quotes/v3-p207-although-t1-lbs-original-body-had.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:122`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

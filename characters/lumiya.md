@@ -1761,19 +1761,16 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-7-fury-notes.md:351`
 > Shira survived the ordeal, and Vader rebuilt her body with cybernetic parts. Shira Brie became the Dark Lady Lumiya, disciple of the Sith.
 — Source: Part Five: The Galactic Civil War; Luke Skywalker; Darth Vader (Anakin Skywalker) — Shira Brie becomes Lumiya.
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker) — Shira Brie becomes Lumiya: "Shira survived the ordeal, and Vader rebuilt her body with cybernetic parts. Shira Brie became the Dark Lady Lumiya, disciple of the Sith." Source: The New Essential Chronology, p.121
-![Quote image: The New Essential Chronology, p.121 — full quote as printed](quotes/nec-p121-shira-brie-becomes-lumiya.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:148`
 
 > Lumiya fled the battle and retreated to the ancient Sith worlds, where she trained her first apprentice, Flint, and later the Royal Guardsman Carnor Jax.
 — Source: Part Six: Birth of the New Republic; Lumiya trains Flint and Carnor Jax.
 Note (our notes, around the quote): Lumiya trains Flint and Carnor Jax: "Lumiya fled the battle and retreated to the ancient Sith worlds, where she trained her first apprentice, Flint, and later the Royal Guardsman Carnor Jax." Source: The New Essential Chronology, p.130
-![Quote image: The New Essential Chronology, p.130 — full quote as printed](quotes/nec-p130-lumiya-trains-flint-and-carnor-jax.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:11`
 
 > Dark Lady Lumiya, formerly known as Shira Brie.
 — Source: Part Six: Birth of the New Republic; art caption.
 Note (our notes, around the quote): art caption: "Dark Lady Lumiya, formerly known as Shira Brie." Source: The New Essential Chronology, p.130, caption
-![Quote image: The New Essential Chronology, p.130 — full quote as printed](quotes/nec-p130-caption-dark-lady-lumiya-formerly-known.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:13`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -1781,25 +1778,21 @@ Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-th
 > Sith battle meditation was a comparatively rare discipline, though Darth Sidious, Lumiya, and Darth Caedus proved capable of it.
 — Source: scan pages 41–80; Palpatine (Darth Sidious); Lumiya; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Palpatine (Darth Sidious); Lumiya; Jacen Solo (Darth Caedus): "Sith battle meditation was a comparatively rare discipline, though Darth Sidious, Lumiya, and Darth Caedus proved capable of it." Source: The Complete Star Wars Encyclopedia, Vol. I, p.64
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.64 — full quote as printed](quotes/v1-p64-sith-battle-meditation-was-a-comparatively.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:314`
 
 > She was grievously injured by the Dark Lady Lumiya, and while she survived, she was a changed person.
 — Source: scan pages 161–200; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "She was grievously injured by the Dark Lady Lumiya, and while she survived, she was a changed person." Source: The Complete Star Wars Encyclopedia, Vol. I, p.164
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.164 — full quote as printed](quotes/v1-p164-she-was-grievously-injured-by-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:158`
 
 > Many believed he had been killed by Lumiya.
 — Source: scan pages 281–320; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "Many believed he had been killed by Lumiya." Source: The Complete Star Wars Encyclopedia, Vol. I, p.281
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.281 — full quote as printed](quotes/v1-p281-many-believed-he-had-been-killed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:121`
 
 > Fury (3) One of three /mperial-class Star Destroyers, it was under the command of Lumiya following the Battle of Endor.
 — Source: scan pages 281–320; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "Fury (3) One of three /mperial-class Star Destroyers, it was under the command of Lumiya following the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.299
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.299 — full quote as printed](quotes/v1-p299-fury-3-one-of-three-mperial.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:255`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -1807,7 +1800,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Lumiya used her lightwhip to take off the Jedi's legs at the knees, and then Rar beheaded the Chev with her lightsaber.
 — Source: scan pages 241–280; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "Lumiya used her lightwhip to take off the Jedi's legs at the knees, and then Rar beheaded the Chev with her lightsaber." Source: The Complete Star Wars Encyclopedia, Vol. II, p.258
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.258 — full quote as printed](quotes/v2-p258-lumiya-used-her-lightwhip-to-take.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:209`
 
 - Note (summary from our notes, not a quotation): Page contents: 914 words, 33 paragraphs | headings/entries: Lucky Star; Lugus; Luka; Lumat; Lumiya
@@ -1817,49 +1809,41 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Though Lumiya sustained a_ blaster wound, she survived the battle to swear vengeance on the Alliance.
 — Source: scan pages 241–280; Lumiya — entry/section: Lumiya.
 Note (our notes, around the quote): Lumiya — entry/section: Lumiya: "Though Lumiya sustained a_ blaster wound, she survived the battle to swear vengeance on the Alliance." Source: The Complete Star Wars Encyclopedia, Vol. II, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.266 — full quote as printed](quotes/v2-p266-though-lumiya-sustained-a-blaster-wound.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:283`
 
 > Skywalker and Lumiya were finally reunited, and the two engaged in a spectacular duel.
 — Source: scan pages 241–280; Lumiya — entry/section: Lumiya.
 Note (our notes, around the quote): Lumiya — entry/section: Lumiya: "Skywalker and Lumiya were finally reunited, and the two engaged in a spectacular duel." Source: The Complete Star Wars Encyclopedia, Vol. II, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.266 — full quote as printed](quotes/v2-p266-skywalker-and-lumiya-were-finally-reunited.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:285`
 
 > At first, Lumiya bested Luke and brutally wounded his allies Dani and Kiro.
 — Source: scan pages 241–280; Lumiya; Luke Skywalker — entry/section: Lumiya.
 Note (our notes, around the quote): Lumiya; Luke Skywalker — entry/section: Lumiya: "At first, Lumiya bested Luke and brutally wounded his allies Dani and Kiro." Source: The Complete Star Wars Encyclopedia, Vol. II, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.266 — full quote as printed](quotes/v2-p266-at-first-lumiya-bested-luke-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:287`
 
 > In their second battle, Skywalker managed to defeat Lumiya, shattering her armor and revealing her to be Shira Brie.
 — Source: scan pages 241–280; Lumiya — entry/section: Lumiya.
 Note (our notes, around the quote): Lumiya — entry/section: Lumiya: "In their second battle, Skywalker managed to defeat Lumiya, shattering her armor and revealing her to be Shira Brie." Source: The Complete Star Wars Encyclopedia, Vol. II, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.266 — full quote as printed](quotes/v2-p266-in-their-second-battle-skywalker-managed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:289`
 
 > In the nebulous and shifting alliances that plagued Imperial fragments during the Nagai invasion, Lumiya lent her Imperial resources—which included three Star Destroyers, two frigates and four corvettes—to the fleet belonging to the Tofs.
 — Source: scan pages 241–280; Lumiya — entry/section: Lumiya.
 Note (our notes, around the quote): Lumiya — entry/section: Lumiya: "In the nebulous and shifting alliances that plagued Imperial fragments during the Nagai invasion, Lumiya lent her Imperial resources—which included three Star Destroyers, two frigates and four corvettes—to the fleet belonging to the Tofs." Source: The Complete Star Wars Encyclopedia, Vol. II, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.266 — full quote as printed](quotes/v2-p266-in-the-nebulous-and-shifting-alliances.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:291`
 
 > In his anguish, Luke Skywalker mistakenly believed Lumiya was the killer, and slew her in turn, an act of vengeance that put him on the precipice of the dark side.
 — Source: scan pages 241–280; Lumiya; Luke Skywalker — entry/section: Lumiya.
 Note (our notes, around the quote): Lumiya; Luke Skywalker — entry/section: Lumiya: "In his anguish, Luke Skywalker mistakenly believed Lumiya was the killer, and slew her in turn, an act of vengeance that put him on the precipice of the dark side." Source: The Complete Star Wars Encyclopedia, Vol. II, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.266 — full quote as printed](quotes/v2-p266-in-his-anguish-luke-skywalker-mistakenly.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:295`
 
 > While on Caprioril, Mara encountered Lumiya for the first time and was forced to defeat her in combat.
 — Source: scan pages 281–320; Mara Jade Skywalker; Lumiya.
 Note (our notes, around the quote): Mara Jade Skywalker; Lumiya: "While on Caprioril, Mara encountered Lumiya for the first time and was forced to defeat her in combat." Source: The Complete Star Wars Encyclopedia, Vol. II, p.289
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.289 — full quote as printed](quotes/v2-p289-while-on-caprioril-mara-encountered-lumiya.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:126`
 
 > He was killed when the Iskalonian Kiro—who was on Kinooine with Luke Skywalker to investigate the loss of an Alliance of Free Planets scouting team—infiltrated Lumiya's stronghold to rescue Dani.
 — Source: scan pages 281–320; Luke Skywalker; Lumiya.
 Note (our notes, around the quote): Luke Skywalker; Lumiya: "He was killed when the Iskalonian Kiro—who was on Kinooine with Luke Skywalker to investigate the loss of an Alliance of Free Planets scouting team—infiltrated Lumiya's stronghold to rescue Dani." Source: The Complete Star Wars Encyclopedia, Vol. II, p.306
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.306 — full quote as printed](quotes/v2-p306-he-was-killed-when-the-iskalonian.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:271`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -1867,43 +1851,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > The true Prophets surfaced during the campaigns of Trioculus and were finally destroyed by Azrakel and Lumiya.
 — Source: scan pages 41–80; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "The true Prophets surfaced during the campaigns of Trioculus and were finally destroyed by Azrakel and Lumiya." Source: The Complete Star Wars Encyclopedia, Vol. III, p.46
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.46 — full quote as printed](quotes/v3-p46-the-true-prophets-surfaced-during-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:99`
 
 > Rampage One of three Imperial Star Destroyers under Lumiya's command following the Battle of Endor.
 — Source: scan pages 81–120; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "Rampage One of three Imperial Star Destroyers under Lumiya's command following the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. III, p.77
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.77 — full quote as printed](quotes/v3-p77-rampage-one-of-three-imperial-star.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:32`
 
 > Together they killed the Jedi Tresina Lobi; Alema also fought by Lumiya's side at Rooqoo Depot, where they attempted to defeat Luke and Mara Jade Skywalker.
 — Source: scan pages 81–120; Tresina Lobi; Alema Rar; Lumiya; Luke Skywalker; Mara Jade Skywalker.
 Note (our notes, around the quote): Tresina Lobi; Alema Rar; Lumiya; Luke Skywalker; Mara Jade Skywalker: "Together they killed the Jedi Tresina Lobi; Alema also fought by Lumiya's side at Rooqoo Depot, where they attempted to defeat Luke and Mara Jade Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. III, p.81
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.81 — full quote as printed](quotes/v3-p81-together-they-killed-the-jedi-tresina.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:74`
 
 > Luke, who had killed Lumiya to avenge Mara, realized that she couldn't have been the culprit when Ben explained the circumstances of the Kavan incident.
 — Source: scan pages 161–200; Luke Skywalker; Lumiya; Mara Jade Skywalker.
 Note (our notes, around the quote): Luke Skywalker; Lumiya; Mara Jade Skywalker: "Luke, who had killed Lumiya to avenge Mara, realized that she couldn't have been the culprit when Ben explained the circumstances of the Kavan incident." Source: The Complete Star Wars Encyclopedia, Vol. III, p.162
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.162 — full quote as printed](quotes/v3-p162-luke-who-had-killed-lumiya-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:77`
 
 > On Terephon, Lumiya claimed to have killed Mara, and Luke beheaded her after a struggle.
 — Source: scan pages 161–200; Lumiya; Mara Jade Skywalker; Luke Skywalker.
 Note (our notes, around the quote): Lumiya; Mara Jade Skywalker; Luke Skywalker: "On Terephon, Lumiya claimed to have killed Mara, and Luke beheaded her after a struggle." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-on-terephon-lumiya-claimed-to-have.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:128`
 
 > Luke, however, at first believed Lumiya was the murderer and killed her.
 — Source: scan pages 161–200; Luke Skywalker; Lumiya.
 Note (our notes, around the quote): Luke Skywalker; Lumiya: "Luke, however, at first believed Lumiya was the murderer and killed her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.166 — full quote as printed](quotes/v3-p166-luke-however-at-first-believed-lumiya.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:159`
 
 > Jacen fled to Ziost, where Lumiya agreed to make Luke believe that she had killed Mara.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Lumiya; Luke Skywalker; Mara Jade Skywalker — entry/section: Solo, Jacen: "Jacen fled to Ziost, where Lumiya agreed to make Luke believe that she had killed Mara." Source: The Complete Star Wars Encyclopedia, Vol. III, p.175
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.175 — full quote as printed](quotes/v3-p175-jacen-fled-to-ziost-where-lumiya.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:244`
 
 ## The New Essential Guide to Characters (2002)
@@ -1915,13 +1892,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-0
 > On Herdessa she nearly killed Leia Organa, while on Kinooine she dueled with Luke Skywalker and revealed to him her past life as Shira Brie.
 — Source: scan pages 1–30.
 Note (our notes, around the quote): Mara Jade Skywalker; Lumiya; Leia Organa Solo; Luke Skywalker — entry/section: Le Mara Jade, Shira Brie was: "On Herdessa she nearly killed Leia Organa, while on Kinooine she dueled with Luke Skywalker and revealed to him her past life as Shira Brie." Source: The New Essential Guide to Characters, p.33
-![Quote image: The New Essential Guide to Characters, p.33 — full quote as printed](quotes/negc-p33-on-herdessa-she-nearly-killed-leia.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:197`
 
 > He flew many missions with Rebel pilot and double agent Shira Brie, and was nearly courtmatialed when it appeared he had killed her in a dogfight.
 — Source: scan pages 151–180; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "He flew many missions with Rebel pilot and double agent Shira Brie, and was nearly courtmatialed when it appeared he had killed her in a dogfight." Source: The New Essential Guide to Characters, p.159
-![Quote image: The New Essential Guide to Characters, p.159 — full quote as printed](quotes/negc-p159-he-flew-many-missions-with-rebel.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:23`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -1929,7 +1904,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 > On Shalyvane, the dominant species, the Em'liy, were driven out of their cities, including the capital city of Chenshassa by imperial forces led by double agent Shira Brie.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Lumiya — entry/section: UoS Guide: Em'liy.
 Note (our notes, around the quote): Lumiya — entry/section: UoS Guide: Em'liy: "On Shalyvane, the dominant species, the Em'liy, were driven out of their cities, including the capital city of Chenshassa by imperial forces led by double agent Shira Brie." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.45
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.45 — full quote as printed](quotes/d050-s45-on-shalyvane-the-dominant-species-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:259`
 
 > Rebels led by an agent named Markko have hired Ghent, ostensibly to purge a captured Rebel computer of sensitive data before the Imperial governor Egron has time to examine it. Mara pieces together the true story: the computer is a Star Destroyer system containing sensitive Imperial data, and the treacherous Egron intends to sell it to the Rebels.
@@ -1948,13 +1922,11 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from The Essential Reader’s Companion: Star Wars (Pablo Hidalgo) (text copy `primary_essential_guides_eg_readers_companion_2012_Star_Wars_The_Essential_Readers_Companion_Pablo_Hidalgo_8O9y2bib_epub_e20384df21`).)
 (Full sentence/passage taken from the source text on file: `primary_essential_guides_eg_readers_companion_2012_Star_Wars_The_Essential_Readers_Companion_Pablo_Hidalgo_8O9y2bib_epub`.)
 Note (our notes, around the quote): Lumiya — entry/section: UoS Guide: Nagai: "The Nagai found an ally in Lumiya, the self-styled "Dark Lady of the Sith," who was given a Nagai aide, Den Siva." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.55
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.55 — full quote as printed](quotes/d050-s55-the-nagai-found-an-ally-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:313`
 
 > The Maccabrees were destroyed, and Lumiya's forces retreated.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Lumiya. POV: Lumiya.
 Note (our notes, around the quote): Lumiya: "The Maccabrees were destroyed, and Lumiya's forces retreated." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.55
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.55 — full quote as printed](quotes/d050-s55-the-maccabrees-were-destroyed-and-lumiyas.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:317`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -1990,7 +1962,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-06
 > Kyle also took part in a SpecForce mission put together by Rebel operative Corwin Shelvay, in which he teamed up with Force-sensitives Shira Brie and Erling Tredway to render inoperative the superlaser of the second Death Star en route to D'rinba IV.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Lumiya — entry/section: Kyle Katarn, Jedi Knight.
 Note (our notes, around the quote): Kyle Katarn; Lumiya — entry/section: Kyle Katarn, Jedi Knight: "Kyle also took part in a SpecForce mission put together by Rebel operative Corwin Shelvay, in which he teamed up with Force-sensitives Shira Brie and Erling Tredway to render inoperative the superlaser of the second Death Star en route to D'rinba IV." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-kyle-also-took-part-in-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:20`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2005,7 +1976,6 @@ Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md
 
 - Note (summary from our notes, not a quotation): A popular variant of Jar‘Kai involves the combination of one lightsaber and one short saber. This method was employed by the Weequay Jedi Master Sora Bulg in combat against Mace Windu, as well as by Luke Skywalker when faced with the Sith lightwhip of the Dark Lady Lumiya." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.3
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d131-s3-though-jedi-and-sith-since-those.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:60`
 
 ## Jedi Counselling/Jedi Counseling 17 - Killing Coruscant.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2019,7 +1989,6 @@ Our notes: `notes/materials/037-sw-d20-folder/180-jedi-counseling-17-killing-cor
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 17 Killing Coruscant (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_17_Killing_Coruscant_pdf_ab24bceae7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 17 Killing Coruscant (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_17_Killing_Coruscant_pdf_ab24bceae7`).)
 Note (our notes, around the quote): Luke Skywalker; Lumiya — entry/section: Luke fires on Shira Brie: a feeling from the Force: "A: None, I'd say. This, to me, is a case where the GM said, "You get a strong feeling from the Force . . ." which doesn't require anything except that the GM wants the player to make a certain decision. Remember, in any roleplaying game (and especially in one that has something so mysterious as the Force), the GM can give the players information and let them choose how to interpret it and how to act on it, without the players choosing to make a check or roll." Source: *Jedi Counseling 17 - Killing Coruscant* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 17 - Killing Coruscant* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d180-s2-a-none-id-say-this-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/180-jedi-counseling-17-killing-coruscant.md:28`
 
 ## Locations/Planet Hoppers/Beheboth - Blood and Water/Part 1 - Return to Prosperity.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2059,7 +2028,6 @@ Our notes: `notes/materials/037-sw-d20-folder/586-part-1-weight-training.md:15`
 > That's where you're wrong, 'Rette. This isn't a test of our physical condition. We wouldn't be here if our bodies weren't up to the task. They're testing our spirit.
 — Source: Locations/Planet Hoppers/Carida - Heavy Duty/Part 2 - Boot Camp.pdf [Star.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Shira Brie to Davani: "That's where you're wrong, 'Rette. This isn't a test of our physical condition. We wouldn't be here if our bodies weren't up to the task. They're testing our spirit." Source: *Part 2 - Boot Camp* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 2 - Boot Camp* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d587-s1-thats-where-youre-wrong-rette-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/587-part-2-boot-camp.md:12`
 
 ## Locations/Planet Hoppers/Carida - Heavy Duty/Part 3 - War Games.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2067,14 +2035,12 @@ Our notes: `notes/materials/037-sw-d20-folder/587-part-2-boot-camp.md:12`
 > Found them, zone 3, eight targets, opening fire.
 — Source: Locations/Planet Hoppers/Carida - Heavy Duty/Part 3 - War Games.pdf [Star.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Shira Brie's transmission: "Found them, zone 3, eight targets, opening fire." Source: *Part 3 - War Games* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 3 - War Games* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d588-s1-found-them-zone-3-eight-targets.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/588-part-3-war-games.md:12`
 
 ## Locations/Planet Hoppers/Carida - Heavy Duty/Part 4 - Cadets Gone Wild.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): No single roster character (rules/setting/general) — entry/section: Shira Brie to a Caridan: "Not interested." Source: *Part 4 - Cadets Gone Wild* (SWRPG d20 Revised Core), scan p.1
   — Source: Locations/Planet Hoppers/Carida - Heavy Duty/Part 4 - Cadets Gone Wild.pd.
-![Quote image: *Part 4 - Cadets Gone Wild* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d589-s1-not-interested.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/589-part-4-cadets-gone-wild.md:12`
 
 ## Tips and Tactics/Dead Eye For the Jedi.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2094,7 +2060,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 > A former Emperor's Hand, Lumiya, helped carry on the Sith tradition for a while, but the true resurrection of the Sith begins on the planet Korriban, where a devotee named A'Sharad Hett learns the ways of the Sith tradition and discovers a group of Sith cultists planting the seeds of their eventual return.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Lumiya; Darth Krayt.
 Note (our notes, around the quote): Lumiya; Darth Krayt: "A former Emperor's Hand, Lumiya, helped carry on the Sith tradition for a while, but the true resurrection of the Sith begins on the planet Korriban, where a devotee named A'Sharad Hett learns the ways of the Sith tradition and discovers a group of Sith cultists planting the seeds of their eventual return." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.53
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.53 — full quote as printed](quotes/d719-s53-a-former-emperors-hand-lumiya-helped.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:385`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -2132,7 +2097,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:529`
 > I wanted a really strong foil for Luke, a character people would love to see him go up against. It looked like the seeds of what could turn someone to the dark side were all there in Shira, based on what we knew then of Anakin Skywalker and on what David had already established for Shira. Once the progression had occurred to me, developing it along those lines to create my villain was a pretty irresistible idea.
 — Source: Star Wars Insider #61 (2002); Lumiya; Luke Skywalker — entry/section: Jo Duffy on creating Lumiya.
 Note (our notes, around the quote): Lumiya; Luke Skywalker — entry/section: Jo Duffy on creating Lumiya: ""I wanted a really strong foil for Luke, a character people would love to see him go up against. It looked like the seeds of what could turn someone to the dark side were all there in Shira, based on what we knew then of Anakin Skywalker and on what David had already established for Shira. Once the progression had occurred to me, developing it along those lines to create my villain was a pretty irresistible idea." —Jo Duffy, Star Wars Insider 61, p. 83" Source: *Star Wars Insider #61* (2002), scan p.83
-![Quote image: *Star Wars Insider #61* (2002), scan p.83 — full quote as printed](quotes/ins061-s83-i-wanted-a-really-strong-foil.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:531`
 
 ## Star Wars Insider #82 (2005)
@@ -2201,7 +2165,6 @@ Our notes: `notes/materials/038-star-wars-insider/093-ins093.md:350`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #93 (2007); Lumiya — entry/section: Exemplary Lumiya: "Lumiya, Traviss says is.
 Note (our notes, around the quote): Lumiya — entry/section: Exemplary Lumiya: "Lumiya, Traviss says is "a woman who was indoctrinated and used, and who paid a terrible price for her service to the Empire, but because she's smart and strong she doesn't go crazy about all the things she'll never have and all she's lost... She's exemplary in many ways: tough, smart, with no trace of self-pity." —Karen Traviss, Star Wars Insider 93, p. 42" Source: *Star Wars Insider #93* (2007), scan p.42
-![Quote image: *Star Wars Insider #93* (2007), scan p.42 — full quote as printed](quotes/ins093-s42-lumiya-traviss-says-is-a-woman.jpg)
 Our notes: `notes/materials/038-star-wars-insider/093-ins093.md:354`
 
 ## Star Wars Insider #106 (2009)
@@ -2521,7 +2484,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:33`
 Note (our notes, around the quote): Cade hangs in the Vong "EMBRACE OF PAIN" while Krayt tells the rest: Vong capture, shaping, Vergere, his vision, the escape, the new Order, Lumiya and "CADEUS", stasis, and his dying body (p98–107). Cade slips out of his cell; the crew launches (p108–109). Talon is waiting in Maladi's lab and drops him (p110). Krayt orders him to kill Hosk; Cade refuses, Hosk forgives everyone, and Krayt runs Hosk through; Hosk's body vanishes (p111–114). Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK." (p115). Cade's telekinetic burst shatters the case, he calls Kol's saber, strikes Talon and engages Nihl while Krayt urges revenge (p116–119).
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:56`
 
-- Note (summary from our notes, not a quotation): ![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+- Note (summary from our notes, not a quotation): ![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p105 — `p105-krayt-should-not-have-survived-cadeus.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:115`
@@ -2634,7 +2597,6 @@ Our notes: `legends-feats.md:1734`
 > Lumiya committed herself to exterminating the Rebels who had destroyed what she believed was the galaxy's natural order.
 — Source: scan pages 1–30.
 Note (our notes, around the quote): Mara Jade Skywalker; Lumiya — entry/section: Le Mara Jade, Shira Brie was: "Lumiya committed herself to exterminating the Rebels who had destroyed what she believed was the galaxy's natural order." Source: The New Essential Guide to Characters, p.33
-![Quote image: The New Essential Guide to Characters, p.33 — full quote as printed](quotes/negc-p33-lumiya-committed-herself-to-exterminating-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:195`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -2642,7 +2604,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-0
 > Lumiya and Siva killed twenty captured Rebels on Kinooine, a barren world on the fringe of the galactic perimeter.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Lumiya — entry/section: UoS Guide: Nagai.
 Note (our notes, around the quote): Lumiya — entry/section: UoS Guide: Nagai: "Lumiya and Siva killed twenty captured Rebels on Kinooine, a barren world on the fringe of the galactic perimeter." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.55
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.55 — full quote as printed](quotes/d050-s55-lumiya-and-siva-killed-twenty-captured.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:315`
 
 ## Jedi Counselling/Jedi Counseling 17 - Killing Coruscant.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2650,7 +2611,6 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-06
 > The aftermath of Hoth scattered the Rebels, and Luke was stationed at temporary bases on Golrath and Arbra. Ascending to the command of Rogue Squadron, Luke fell in love with one of his squadronmates, the talented and enigmatic Shira Brie. During a heated battle, Luke's targeting computer was knocked out of commission, and he instead relied on the Force to pick his targets. Inexplicably, the Force told him to fire on a friendly vessel, and he shot Shira Brie out of the sky.
 — Source: Jedi Counselling/Jedi Counseling 17 - Killing Coruscant.pdf [Star Wars Ro.
 Note (our notes, around the quote): Luke Skywalker; Lumiya — entry/section: Luke fires on Shira Brie (question): "Q: I was recently reading about Luke Skywalker at www.starwars.com and noticed something interesting in the middle of the page: "The aftermath of Hoth scattered the Rebels, and Luke was stationed at temporary bases on Golrath and Arbra. Ascending to the command of Rogue Squadron, Luke fell in love with one of his squadronmates, the talented and enigmatic Shira Brie. During a heated battle, Luke's targeting computer was knocked out of commission, and he instead relied on the Force to pick his targets. Inexplicably, the Force told him to fire on a friendly vessel, and he shot Shira Brie out of the sky." That brings us to my question: What type of Force skill and/or feat did he use?" Source: *Jedi Counseling 17 - Killing Coruscant* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 17 - Killing Coruscant* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d180-s2-q-i-was-recently-reading-about.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/180-jedi-counseling-17-killing-coruscant.md:26`
 
 # Debate and forum claims (unverified)

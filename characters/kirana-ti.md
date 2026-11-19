@@ -39,13 +39,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:241`
 > He has encountered several potential Jedi in his travels, among them Mara Jade, Kirana Ti and Kam Solusar.
 — Source: Chapter Three: The Jedi Academy.
 Note (our notes, around the quote): Luke Skywalker; Mara Jade Skywalker; Kirana Ti; Kam Solusar — The Jedi Search Begins: "He has encountered several potential Jedi in his travels, among them Mara Jade, Kirana Ti and Kam Solusar." Source: The Jedi Academy Sourcebook, p.30
-![Quote image: The Jedi Academy Sourcebook, p.30 — full quote as printed](quotes/jas-p30-the-jedi-search-begins.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:11`
 
 > Empowered by Kun, Streen attacks Luke's sleeping body by creating a force of wind which lifts Luke up toward the skylight in the room. He is not aware of what he is doing, and ceases as soon as Kirana Ti tackles him and breaks his trance.
 — Source: Chapter Three: The Jedi Academy.
 Note (our notes, around the quote): Streen; Exar Kun; Luke Skywalker; Kirana Ti — Streen — the Force wind attack on Luke: "Empowered by Kun, Streen attacks Luke's sleeping body by creating a force of wind which lifts Luke up toward the skylight in the room. He is not aware of what he is doing, and ceases as soon as Kirana Ti tackles him and breaks his trance." Source: The Jedi Academy Sourcebook, p.37
-![Quote image: The Jedi Academy Sourcebook, p.37 — full quote as printed](quotes/jas-p37-streen-the-force-wind-attack-on.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:120`
 
 > It is Streen who protects the group from Kun’s throat-con- stricting attack while they work to defeat the ancient Sith Lord. mi Streen Type: Tibanna Gas Prospector DEXTERITY 2D Blaster 3D+1, brawling parry 3D, dodge 3D+2, lightsaber 2D+2, melee combat 2D+2, melee parry 3D KNOWLEDGE 3D Bureaucracy 4D, bureaucracy: Cloud City 5D, business 3D+2, business: tibanna gas industry 4D+2, planetary systems 5D, streetwise 4D+ 1, survival 4D, survival: Yavin Four 4D+2, value 3D+1, value: tibanna gas 4D+2 MECHANICAL 4D Airship piloting 6D, hover vehicle operation 4D+2, repulsorlift operation 5D, sensors 5D, space transports 4D+2, swoop operation 4D+1 PERCEPTION 2D 3argain 3D, con 3D-1, hide 3D+2, persuasion 4D, search: tibanna gas eruptions 5D, sneak 4D+1 STRENGTH 3D+1 Climbing/jumping 4D, lifting 3D+2, stamina 4D+2 TECHNICAL 3D+2 Airship repair 5D+1, computer programming/repair 4D, droid repair 4D, first aid 4D+2, lightsaber repair 4D, machinery repair: tibanna gas processor 5D-+1, repulsorlift repair 5D, security 4D+1 Special Abilities:
@@ -62,7 +60,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Kirana Ti — Kirana Ti — warrior and Force-wielder: "She is a warrior as well as a Force-wielder," Source: The Jedi Academy Sourcebook, p.38
-![Quote image: The Jedi Academy Sourcebook, p.38 — full quote as printed](quotes/jas-p38-kirana-ti-warrior-and-force-wielder.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:133`
 
 > Still not ready to take on Luke directly, Kun makes several attempts on Luke's body. Each attack is thwarted by the Jedi students and Leia.
@@ -79,7 +76,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Exar Kun; Kirana Ti; Streen; Vodo-Siosk Baas; Luke Skywalker — The Return of Exar Kun — the final blow: "Kirana Ti and Streen jointly deliver the final blow, using the lightsabers of Luke and Gantoris to destroy Exar" Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-the.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:42`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)

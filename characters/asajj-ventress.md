@@ -126,43 +126,36 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:105
 > In private he trained a number of Force-sensitive individuals in the ways of the dark side, and recruited high-powered killers to silence his enemies.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Count Dooku; Asajj Ventress; Sev'rance Tann; General Grievous — Dooku's dark side minions: "In private he trained a number of Force-sensitive individuals in the ways of the dark side, and recruited high-powered killers to silence his enemies." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-dookus-dark-side-minions.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:183`
 
 > Neither fighter could gain an advantage in a contest where they seemed to be evenly matched, but Anakin found his edge by tapping into his own rage. Knocked from the pyramid, Ventress vanished into the jungle below.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Asajj Ventress; Darth Vader (Anakin Skywalker) — Ventress vs Anakin on Yavin 4: "Neither fighter could gain an advantage in a contest where they seemed to be evenly matched, but Anakin found his edge by tapping into his own rage. Knocked from the pyramid, Ventress vanished into the jungle below." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-ventress-vs-anakin-on-yavin-4.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:280`
 
 > Obi-Wan sprang himself and Alpha from their holding cell and tore through Ventress's guards.
 — Source: Part Two: The Fall of the Republic; Obi-Wan Kenobi; Asajj Ventress — Obi-Wan escapes Rattatak.
 Note (our notes, around the quote): Obi-Wan Kenobi; Asajj Ventress — Obi-Wan escapes Rattatak: "Obi-Wan sprang himself and Alpha from their holding cell and tore through Ventress's guards." Source: The New Essential Chronology, p.70
-![Quote image: The New Essential Chronology, p.70 — full quote as printed](quotes/nec-p70-obi-wan-escapes-rattatak.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:360`
 
 > As her assassin droids tore up the concourse, Ventress killed both Jai Maruk and Master Leem in a test of lightsabers.
 — Source: Part Two: The Fall of the Republic; Asajj Ventress — Ventress kills Jai Maruk and Leem.
 Note (our notes, around the quote): Asajj Ventress — Ventress kills Jai Maruk and Leem: "As her assassin droids tore up the concourse, Ventress killed both Jai Maruk and Master Leem in a test of lightsabers." Source: The New Essential Chronology, p.77
-![Quote image: The New Essential Chronology, p.77 — full quote as printed](quotes/nec-p77-ventress-kills-jai-maruk-and-leem.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:433`
 
 > In a battle on an industrial catwalk high above the city canyons, Ventress scarred Anakin Skywalker's face with her lightsaber. Anakin soon turned the tables, holding Ventress in a Force grip above an abyss and then letting her drop.
 — Source: Part Two: The Fall of the Republic; Asajj Ventress; Darth Vader (Anakin Skywalker) — Ventress scars Anakin.
 Note (our notes, around the quote): Asajj Ventress; Darth Vader (Anakin Skywalker) — Ventress scars Anakin: "In a battle on an industrial catwalk high above the city canyons, Ventress scarred Anakin Skywalker's face with her lightsaber. Anakin soon turned the tables, holding Ventress in a Force grip above an abyss and then letting her drop." Source: The New Essential Chronology, p.78
-![Quote image: The New Essential Chronology, p.78 — full quote as printed](quotes/nec-p78-ventress-scars-anakin.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:444`
 
 > Stung by Dooku's betrayal, Ventress apparently perished in her final duel with Kenobi.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Asajj Ventress; Obi-Wan Kenobi — Ventress's final duel at Boz Pity: "Stung by Dooku's betrayal, Ventress apparently perished in her final duel with Kenobi." Source: The New Essential Chronology, p.79
-![Quote image: The New Essential Chronology, p.79 — full quote as printed](quotes/nec-p79-ventresss-final-duel-at-boz-pity.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:455`
 
 > Investigators later learned that she had merely muffled her life functions on Boz Pity to achieve a state of near-death stasis.
 — Source: Part Two: The Fall of the Republic; Asajj Ventress — Ventress's near-death stasis.
 Note (our notes, around the quote): Asajj Ventress — Ventress's near-death stasis: "Investigators later learned that she had merely muffled her life functions on Boz Pity to achieve a state of near-death stasis." Source: The New Essential Chronology, p.79
-![Quote image: The New Essential Chronology, p.79 — full quote as printed](quotes/nec-p79-ventresss-near-death-stasis.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:457`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -170,7 +163,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > The treacherous captain killed his own Senate Guards, but once his task was completed, Asajj Ventress coldly killed him.
 — Source: scan pages 41–80; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "The treacherous captain killed his own Senate Guards, but once his task was completed, Asajj Ventress coldly killed him." Source: The Complete Star Wars Encyclopedia, Vol. I, p.41
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.41 — full quote as printed](quotes/v1-p41-the-treacherous-captain-killed-his-own.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:133`
 
 - Note (summary from our notes, not a quotation): Page contents: 1293 words, 29 paragraphs | headings/entries: Fia; FIBUA Operation; Fibuli; Fibuna, B'inka; Fida, Theen; Fiddani; Fidelis; Ventress.; Fidelity; Fidge; Fiery Ones
@@ -180,7 +172,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Forry helped Kit Fisto train the commandos of the Desert Wind terrorist group, and was among the survivors who managed to escape their lair when Asajj Ventress sent a group of infiltration droids to destroy them all.
 — Source: scan pages 281–320; Kit Fisto; Asajj Ventress.
 Note (our notes, around the quote): Kit Fisto; Asajj Ventress: "Forry helped Kit Fisto train the commandos of the Desert Wind terrorist group, and was among the survivors who managed to escape their lair when Asajj Ventress sent a group of infiltration droids to destroy them all." Source: The Complete Star Wars Encyclopedia, Vol. I, p.290
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.290 — full quote as printed](quotes/v1-p290-forry-helped-kit-fisto-train-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:194`
 
 > GlalveAn immense man distinguished by his drooping mustache, metal gauntlets, and leather armor that barely protected his heavily muscled body, he was a Jedi Master. Glaive and his ap­ prentice Zule were dispatched with Obi-Wan Kenobi and Anakin Skywalker to the moon of Ohma-D'un to investigate the loss of a Gungan colony after the Battle of Geonosis. The four Jedi discovered that a new form ofcombat droid underthecommand ofthebountyhunterDurge had been sent to exterminate the Gungans. When Durge captured Zule, Glaive was forced to stayhis hand. Obi-Wan's actions allowed Zule to break free, but Glaive was unprepared for the sudden appearance of Asajj Ventress. Using her own lightsaber, Ventress beheaded Glaive before Obi-Wan could act. GlakkaThe site ofa gunrunning operation of Jabba the Hurt and the Chevin criminal Ephant Mon, this ice-covered moon was nearly their final resting place. They plotted to steal an Im­ perial weapons cache on Glakka but were am­ bushed by an Imperial squad. Theysurvived the attackyet almost died during the subzero night, when Jabba kept Ephant Mon alive by covering him in the folds of his slug-like body. The pair were rescued in the morning.
@@ -188,7 +179,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Asajj Ventress; Obi-Wan Kenobi: "Using her own lightsaber, Ventress beheaded Glaive before Obi-Wan could act." Source: The Complete Star Wars Encyclopedia, Vol. I, p.344
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.344 — full quote as printed](quotes/v1-p344-using-her-own-lightsaber-ventress-beheaded.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:276`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -196,54 +186,45 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Master K'Kruhk was badly injured in a lightsaber duel with Ventress.
 — Source: scan pages 201–240; K'Kruhk; Asajj Ventress — entry/section: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk; Asajj Ventress — entry/section: K'Kruhk: "Master K'Kruhk was badly injured in a lightsaber duel with Ventress." Source: The Complete Star Wars Encyclopedia, Vol. II, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.221 — full quote as printed](quotes/v2-p221-master-kkruhk-was-badly-injured-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:270`
 
 - Note (summary from our notes, not a quotation): Obi-Wan Kenobi; Count Dooku; Asajj Ventress; Darth Vader (Anakin Skywalker): "According to information gathered from Xist on Trigalis, Obi-Wan Kenobi learned that Dooku had sent his "best assassin" after Korr, Obi-Wan believed that Dooku sent Asajj Ventress, despite the fact that she apparently had been killed on Coruscant several weeks earlier by Anakin Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
   — Source: scan pages 201–240.
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-according-to-information-gathered-from-xist.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:327`
 
 > Tagge submitted the prototype to the Rattataki warlords as a gladiator combatant to prove that the droid was the superior warrior—but Asajj Ventress quickly destroyed L8-L9 in the Cauldron arena.
 — Source: scan pages 241–280; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "Tagge submitted the prototype to the Rattataki warlords as a gladiator combatant to prove that the droid was the superior warrior—but Asajj Ventress quickly destroyed L8-L9 in the Cauldron arena." Source: The Complete Star Wars Encyclopedia, Vol. II, p.239
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.239 — full quote as printed](quotes/v2-p239-tagge-submitted-the-prototype-to-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:48`
 
 > Ventress claimed that Jang Li-Li was the 16th Jedi she had killed in one-on-one combat, and that Master Maruk would have been the 17th if Dooku hadn't allowed him to live.
 — Source: scan pages 241–280; Asajj Ventress; Count Dooku.
 Note (our notes, around the quote): Asajj Ventress; Count Dooku: "Ventress claimed that Jang Li-Li was the 16th Jedi she had killed in one-on-one combat, and that Master Maruk would have been the 17th if Dooku hadn't allowed him to live." Source: The Complete Star Wars Encyclopedia, Vol. II, p.256
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.256 — full quote as printed](quotes/v2-p256-ventress-claimed-that-jang-li-li.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:193`
 
 > Maruk was forced to duel with Ventress, who would have killed him if Dooku hadn't stepped in.
 — Source: scan pages 281–320; Asajj Ventress; Count Dooku.
 Note (our notes, around the quote): Asajj Ventress; Count Dooku: "Maruk was forced to duel with Ventress, who would have killed him if Dooku hadn't stepped in." Source: The Complete Star Wars Encyclopedia, Vol. II, p.292
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.292 — full quote as printed](quotes/v2-p292-maruk-was-forced-to-duel-with.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:147`
 
 > When Maruk eventually was cut down by Ventress in battle, he swore to Scout that he would remain with her forever, at least in spirit.
 — Source: scan pages 281–320; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "When Maruk eventually was cut down by Ventress in battle, he swore to Scout that he would remain with her forever, at least in spirit." Source: The Complete Star Wars Encyclopedia, Vol. II, p.292
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.292 — full quote as printed](quotes/v2-p292-when-maruk-eventually-was-cut-down.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:149`
 
 > Unfortunately for McKnives, he was placed into the Cauldron on Rattatak at the same time as Asajj Ventress, and was soon cut down by the lightsaber-wielding warrior.
 — Source: scan pages 281–320; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "Unfortunately for McKnives, he was placed into the Cauldron on Rattatak at the same time as Asajj Ventress, and was soon cut down by the lightsaber-wielding warrior." Source: The Complete Star Wars Encyclopedia, Vol. II, p.298
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.298 — full quote as printed](quotes/v2-p298-unfortunately-for-mcknives-he-was-placed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:209`
 
 > She was no match for Ventress's skills, and was quickly killed in battle.
 — Source: scan pages 321–360; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "She was no match for Ventress's skills, and was quickly killed in battle." Source: The Complete Star Wars Encyclopedia, Vol. II, p.318
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.318 — full quote as printed](quotes/v2-p318-she-was-no-match-for-ventresss.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:29`
 
 > Nauton IV On this planet, Jedi Master Ruati was believed to have been beheaded by Asajj Ventress.
 — Source: scan pages 361–400; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "Nauton IV On this planet, Jedi Master Ruati was believed to have been beheaded by Asajj Ventress." Source: The Complete Star Wars Encyclopedia, Vol. II, p.363
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.363 — full quote as printed](quotes/v2-p363-nauton-iv-on-this-planet-jedi.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:80`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -251,43 +232,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > R4-P22 A small astromech used aboard Anakin Skywalker's modified Jedi starfighter, Azure Angle, it was destroyed when Asajj Ventress blew up the starfighter on Yavin 4 during the Clone Wars.
 — Source: scan pages 41–80; Darth Vader (Anakin Skywalker); Asajj Ventress.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Asajj Ventress: "R4-P22 A small astromech used aboard Anakin Skywalker's modified Jedi starfighter, Azure Angle, it was destroyed when Asajj Ventress blew up the starfighter on Yavin 4 during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. III, p.71
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.71 — full quote as printed](quotes/v3-p71-r4-p22-a-small-astromech-used.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:276`
 
 > The two squared off in one-on-one combat, and though Remlout lasted several minutes, Asajj soundly defeated him, splitting his shell in a swift attack.
 — Source: scan pages 81–120; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "The two squared off in one-on-one combat, and though Remlout lasted several minutes, Asajj soundly defeated him, splitting his shell in a swift attack." Source: The Complete Star Wars Encyclopedia, Vol. III, p.91
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.91 — full quote as printed](quotes/v3-p91-the-two-squared-off-in-one.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:152`
 
 > During the Battle of Muunilinst, Anakin led the space attack, pursuing Asajj Ventress's starfighter to the jungles of Yavin 4 and dueling her there.
 — Source: scan pages 161–200; Darth Vader (Anakin Skywalker); Asajj Ventress — entry/section: Skywalker, Anakin.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Asajj Ventress — entry/section: Skywalker, Anakin: "During the Battle of Muunilinst, Anakin led the space attack, pursuing Asajj Ventress's starfighter to the jungles of Yavin 4 and dueling her there." Source: The Complete Star Wars Encyclopedia, Vol. III, p.161
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.161 — full quote as printed](quotes/v3-p161-during-the-battle-of-muunilinst-anakin.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:58`
 
 > The trio managed to flee before Obi-Wan Kenobi arrived; he dueled Ventress inside Teth castle.
 — Source: scan pages 201–240; Obi-Wan Kenobi; Asajj Ventress.
 Note (our notes, around the quote): Obi-Wan Kenobi; Asajj Ventress: "The trio managed to flee before Obi-Wan Kenobi arrived; he dueled Ventress inside Teth castle." Source: The Complete Star Wars Encyclopedia, Vol. III, p.233
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.233 — full quote as printed](quotes/v3-p233-the-trio-managed-to-flee-before.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:346`
 
 > A native of the planet Rattatak, Asajj Ventress was a ruthless and cunning adversary, known for her military expertise and her corrupt mastery over the Force, Her parents were murdered by Osika Kirske when she was young, and she might have died if not for the sudden appearance of Jedi Master Ky Narec.
 — Source: scan pages 281–320; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "A native of the planet Rattatak, Asajj Ventress was a ruthless and cunning adversary, known for her military expertise and her corrupt mastery over the Force, Her parents were murdered by Osika Kirske when she was young, and she might have died if not for the sudden appearance of Jedi Master Ky Narec." Source: The Complete Star Wars Encyclopedia, Vol. III, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.302 — full quote as printed](quotes/v3-p302-a-native-of-the-planet-rattatak.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:219`
 
 > After Kirske killed Narec, Ventress used her powers to take over her homeworld and kill Kirske.
 — Source: scan pages 281–320; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "After Kirske killed Narec, Ventress used her powers to take over her homeworld and kill Kirske." Source: The Complete Star Wars Encyclopedia, Vol. III, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.302 — full quote as printed](quotes/v3-p302-after-kirske-killed-narec-ventress-used.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:221`
 
 > On Queyta, Ventress and Durge tried to secure the antidote to the swamp gas, but Obi-Wan Kenobi and his companions bested her.
 — Source: scan pages 281–320; Asajj Ventress; Obi-Wan Kenobi.
 Note (our notes, around the quote): Asajj Ventress; Obi-Wan Kenobi: "On Queyta, Ventress and Durge tried to secure the antidote to the swamp gas, but Obi-Wan Kenobi and his companions bested her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.302 — full quote as printed](quotes/v3-p302-on-queyta-ventress-and-durge-tried.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:225`
 
 ## Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -299,25 +273,21 @@ Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.
 > Asajj Ventress's early life on her war-torn home planet of Rattatak prepared her for the hardships that she would face. Her potential in the Force was discovered by a stranded Jedi named Ky Narec, and he decided to train the young Asajj. The partnership worked for a while, but Ky was killed by the powerful warlords on Rattatak before he could complete her training. As a result, her hatred of the Republic grew as she believed it abandoned her Master and her home planet.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role.
 Note (our notes, around the quote): Asajj Ventress; Ky Narec — entry/section: Asajj Ventress and Ky Narec: "Asajj Ventress's early life on her war-torn home planet of Rattatak prepared her for the hardships that she would face. Her potential in the Force was discovered by a stranded Jedi named Ky Narec, and he decided to train the young Asajj. The partnership worked for a while, but Ky was killed by the powerful warlords on Rattatak before he could complete her training. As a result, her hatred of the Republic grew as she believed it abandoned her Master and her home planet." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d113-s1-asajj-ventresss-early-life-on-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:12`
 
 > Unhindered by the restrictions of a Jedi, her primal passions allowed her to grow in power. She was eventually discovered by the Separatist leader, Count Dooku, who persuaded her to join him in the Separatist's battles against the Republic.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role; Asajj Ventress; Count Dooku — entry/section: Ventress joins Dooku.
 Note (our notes, around the quote): Asajj Ventress; Count Dooku — entry/section: Ventress joins Dooku: "Unhindered by the restrictions of a Jedi, her primal passions allowed her to grow in power. She was eventually discovered by the Separatist leader, Count Dooku, who persuaded her to join him in the Separatist's battles against the Republic." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d113-s1-unhindered-by-the-restrictions-of-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:14`
 
 ## Jedi Counselling/Jedi Counseling 19 - Illusion Confusion 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Darth Bane; Asajj Ventress — entry/section: Creative Force Grip (question): "Q: I saw your response to the issue of darksiders with epic-level powers in "Jedi Counseling" 12, but I have another question. I understand the need to restrict power levels for a balanced game system, but how creative can I be with the Force skills? I've seen Darth Bane and his apprentices shatter bones (and limbs) with the Force (in the Jedi Vs. Sith comic). And in the "Republic" storyline of the regular Star Wars comic, I've seen the dark Jedi Asajj Ventress attempt to crush another Jedi’s heart using the Force. So are these just artistic flourishes, or is there a way I can use these skills in a game while maintaining a balance for good play?" Source: *Jedi Counseling 19 - Illusion Confusion 2* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 19 - Illusion Confusion 2.pdf [Star Wars.
-![Quote image: *Jedi Counseling 19 - Illusion Confusion 2* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d182-s3-q-i-saw-your-response-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/182-jedi-counseling-19-illusion-confusion-2.md:24`
 
 - Note (summary from our notes, not a quotation): Darth Bane; Asajj Ventress — entry/section: Bone-shattering and heart-crushing as Force Grip: "A: Good question! I also read those comics, and my immediate reaction was "Force Grip." After all, the description of Force Grip states that you can use the skill to "grip an organ" as well as to "crush a larynx." Since the basic effect is to deal damage, you could consider bones "organs" for the purpose of this skill. But to answer the slightly larger question: You can define these different specific applications of the Force as variations of Force Grip, and let players of dark side characters choose how their Force Grip manifests -- with corresponding benefits or drawbacks, depending on the situation." Source: *Jedi Counseling 19 - Illusion Confusion 2* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 19 - Illusion Confusion 2.pdf [Star Wars.
-![Quote image: *Jedi Counseling 19 - Illusion Confusion 2* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d182-s3-a-good-question-i-also-read.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/182-jedi-counseling-19-illusion-confusion-2.md:26`
 
 ## Jedi Counselling/Jedi Counseling 64.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -327,7 +297,6 @@ Our notes: `notes/materials/037-sw-d20-folder/182-jedi-counseling-19-illusion-co
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 64 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_64_pdf_6789ebc7d0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 64 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_64_pdf_6789ebc7d0`).)
 Note (our notes, around the quote): Asajj Ventress; Mace Windu — entry/section: Jedi Counseling 64: "In the Clone Wars cartoon series, Mace Windu seems to dismantle a battle droid with the Force, and at least one blaster rifle seems to be crushed by Asajj Ventress." Source: *Jedi Counseling 64* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 64* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d232-s1-in-the-clone-wars-cartoon-series.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/232-jedi-counseling-64.md:12`
 
 - Note (summary from our notes, not a quotation): Mace Windu; Asajj Ventress — entry/section: Force Grip vs droids and objects (Mace Windu, Asajj Ventress): "Q: Can Force Grip be used against droids or objects? In the Clone Wars cartoon series, Mace Windu seems to dismantle a battle droid with the Force, and at least one blaster rifle seems to be crushed by Asajj Ventress. That sure looks like Force Grip.
@@ -349,13 +318,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Sora Bulq; Mace Windu; Asajj Ventress — entry/section: Geonosis and the Outer Rim Worlds: "Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131 — full quote as printed](quotes/d667-s131-though-the-plan-he-laid-out.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:84`
 
 > Though Sora Bulq’s intentions may have been pure some years previous, his research into the dark side of the Force, compounded by Dooku’s persuasive arguments, were enough that he succumbed to the dark side. Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Sora Bulq; Mace Windu; Asajj Ventress; Count Dooku — entry/section: Sora Bulq falls: "Though Sora Bulq’s intentions may have been pure some years previous, his research into the dark side of the Force, compounded by Dooku’s persuasive arguments, were enough that he succumbed to the dark side. Though the plan he laid out to frame Mace Windu for the deaths of Jedi killed by the assassin Assaj Ventress failed, Sora Bulg survived a fierce lightsaber duel with Master Windu when Windu and the other Jedi were forced to flee Ruul." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.131 — full quote as printed](quotes/d667-s131-though-sora-bulq-s-intentions-may.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:90`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -385,7 +352,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Count Dooku is a well-known Jedi traitor; General Grievous is a reputedly brilliant military leader whose visage intimidates his enemies; Generali Loathsom is a vicious brute, Asajj Ventress an aspiring Sith, and Durge an immortal bounty huater.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Count Dooku; General Grievous; Asajj Ventress.
 Note (our notes, around the quote): Count Dooku; General Grievous; Asajj Ventress: "Count Dooku is a well-known Jedi traitor; General Grievous is a reputedly brilliant military leader whose visage intimidates his enemies; Generali Loathsom is a vicious brute, Asajj Ventress an aspiring Sith, and Durge an immortal bounty huater." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.21
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.21 — full quote as printed](quotes/d728-s21-count-dooku-is-a-well-known.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-001-060.md:149`
 
 - Note (summary from our notes, not a quotation): Page contents: Chapter 4: The Force, chapter opener art (Dooku, Sidious, Ventress and Jedi with lightsabers). (hand-read)
@@ -424,19 +390,16 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > During this time, Asajj Ventress learns of the Sith and concludes that, since she cannot jain the ranks of the hated Jedi, she will become their greatest enemy.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Asajj Ventress — entry/section: The Clone Wars Campaign Guide (Saga).
 Note (our notes, around the quote): Asajj Ventress — entry/section: The Clone Wars Campaign Guide (Saga): "During this time, Asajj Ventress learns of the Sith and concludes that, since she cannot jain the ranks of the hated Jedi, she will become their greatest enemy." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185 — full quote as printed](quotes/d728-s185-during-this-time-asajj-ventress-learns.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:51`
 
 > When Ky Narec is killed, Ventress is unable to control her anger, vowing vengeance not only on the warlords whose squabbles caused Ky Narec's death but also on the Jedi Order for not sending anyone to help.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Asajj Ventress. POV: Asajj Ventress.
 Note (our notes, around the quote): Asajj Ventress: "When Ky Narec is killed, Ventress is unable to control her anger, vowing vengeance not only on the warlords whose squabbles caused Ky Narec's death but also on the Jedi Order for not sending anyone to help." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185 — full quote as printed](quotes/d728-s185-when-ky-narec-is-killed-ventress.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:55`
 
 > After proving herself worthy by defeating over a dozen opponents in the Cauldron, Asajj Ventress presents herself to Dooku, who awards her a pair of curve-hilted lightsabers (formerly belonging to Komari Vosa) and gives her an assignment to kill Anakin Skywalker, Although she fails, Ventress proves to be a resourceful and vicious assassin, carrying oul Numerous Missions on Dooku's behalf.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Asajj Ventress; Count Dooku; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Asajj Ventress; Count Dooku; Darth Vader (Anakin Skywalker): "After proving herself worthy by defeating over a dozen opponents in the Cauldron, Asajj Ventress presents herself to Dooku, who awards her a pair of curve-hilted lightsabers (formerly belonging to Komari Vosa) and gives her an assignment to kill Anakin Skywalker, Although she fails, Ventress proves to be a resourceful and vicious assassin, carrying oul Numerous Missions on Dooku's behalf." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185 — full quote as printed](quotes/d728-s185-after-proving-herself-worthy-by-defeating.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:57`
 
 - Note (summary from our notes, not a quotation): Page contents: Asajj Ventress concluded (defeated by Skywalker and Kenobi; body vanishes en route to Coruscant; rumor of Second Battle of Xagobah). Ventress stat block (CL 13; Rattataki Jedi 5/scout 4/Sith apprentice 4; Dual Weapon Mastery III). Durge, Separatist Commander begins (Gen'Dai; over 1,500 years old; apprenticed with Mandalorian Jaing; cybernetics; vengeance on Mandalorians; IG lancer droids; Ohma-D'un; Queyta; Muunilinst; Grievous bests him on the Trenchant Space Station). (hand-read)
@@ -446,7 +409,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Shortly before the end of the Clone Wars, Skywalker and Kenobi defeat Asajj Ventress, and Kenobi believes that they have purged the hatred from her, redeeming her from the dark side.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Obi-Wan Kenobi; Asajj Ventress.
 Note (our notes, around the quote): Obi-Wan Kenobi; Asajj Ventress: "Shortly before the end of the Clone Wars, Skywalker and Kenobi defeat Asajj Ventress, and Kenobi believes that they have purged the hatred from her, redeeming her from the dark side." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.186
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.186 — full quote as printed](quotes/d728-s186-shortly-before-the-end-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:72`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)
@@ -456,7 +418,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): General Grievous; Asajj Ventress — entry/section: Saga Edition Web Articles: "This trouble included going face to face with some of the most powerful villains leading the Separatists, including Asajj Ventress and General Grievous." Source: *Web Articles* (SWRPG Saga Edition), scan p.280
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.280 — full quote as printed](quotes/d732-s280-this-trouble-included-going-face-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:378`
 
 - Note (summary from our notes, not a quotation): Page contents: Galaxy at War Miniatures Preview 2: Hondo Ohnaka and Asajj Ventress Strike Leader by Jack Irons (title checked on page image: text layer "ASAUGYU" = "ASAJJ"): intro repeated; Hondo Ohnaka background (captured Dooku, Anakin and Obi-Wan) and miniatures tactics (Thrawn; Corellian Pirate) - T records; Saga stats Hondo Ohnaka CL 10 Medium Weequay scoundrel 5/noble 3/crime lord 2 (Destiny 3; Force 6; Dark Side 3; Perception +6; Basic, Sriluurian; Ref 24, Fort 21, Will 24; hp 72; heavy blaster +8 (3d8+5); Pheromones; Demand Surrender, Fools Luck, Knack, Notorious, Presence, Surprise Strike, Tactical Superiority; Persuasion +17; possessions blaster pistol, holdout blaster, concealed carry holster). (hand-read)
@@ -466,7 +427,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:4
 > Asajj Ventress, Strike Leader CL 14 Medium Rattataki (near-Human) Jedi 2/Scout 3/Melee Duelist 3/Sith Apprentice 2 Destiny 8; Force 10; Darkside 16 Init 16; Senses Perception +10 g .
 — Source: Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan p; Asajj Ventress — entry/section: Saga Edition Web Articles.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Saga Edition Web Articles: "Asajj Ventress, Strike Leader CL 14 Medium Rattataki (near-Human) Jedi 2/Scout 3/Melee Duelist 3/Sith Apprentice 2 Destiny 8; Force 10; Darkside 16 Init 16; Senses Perception +10 g ." Source: *Web Articles* (SWRPG Saga Edition), scan p.283
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.283 — full quote as printed](quotes/d732-s283-asajj-ventress-strike-leader-cl-14.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:432`
 
 - Note (summary from our notes, not a quotation): Page contents: Galaxy at War Miniatures Preview 4: Wat Tambor, Techno Union Foreman and 501st Clone Trooper by Jack Irons (title checked on page image: text layer "SOIST" = "501ST"): intro; Wat Tambor background (Skakoan pressure suit; Geonosis droid factory; CIS board; Dooku; killed by Vader on Mustafar) and miniatures comparison with the Revenge of the Sith set version (Droid Mark, Repair 20, Twin Attack, Evade, Immediate Droid Reserves 20; Asajj Ventress; Skakoan traits in Planet Hoppers) - T records; Saga stats Wat Tambor, Techno Union Foreman CL 10 Medium Skakoan noble 3/soldier 4/military engineer 3 (Destiny 4; Force 5; Init +11; Perception +11; 12 languages incl. Skakoform, Skakoverbal; Ref 29, Fort 26, Will 24; hp 70; speed 3; blaster pistol +9 (3d6+5); Field Created Weapon, Savant, Repairs on the Fly, Quick Modifications; Starship Designer, Tech Specialist; Mechanics +19, Use Computer +19; possessions blaster pistol, heavy pressure suit). (hand-read)
@@ -482,13 +442,11 @@ Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:120`
 > He immediately recognized that she was strong in the Force. To his delight she was also clever, ruthless, and vengeful. Under Dooku's tutelage, Ventress honed her mastery of the Force and the lightsaber, and she quickly rose among the Separatist ranks.
 — Source: Star Wars Insider #67 (2003).
 Note (our notes, around the quote): Asajj Ventress; Count Dooku — entry/section: Star Wars Insider 067 (2003): Asajj Ventress: "He immediately recognized that she was strong in the Force. To his delight she was also clever, ruthless, and vengeful. Under Dooku's tutelage, Ventress honed her mastery of the Force and the lightsaber, and she quickly rose among the Separatist ranks." Source: *Star Wars Insider #67* (2003), scan p.23
-![Quote image: *Star Wars Insider #67* (2003), scan p.23 — full quote as printed](quotes/ins067-s23-he-immediately-recognized-that-she-was.jpg)
 Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:122`
 
 > Wielding two curved, red-bladed lightsabers similar to her Master's, Ventress can hold her own against even the most powerful Jedi.
 — Source: Star Wars Insider #67 (2003).
 Note (our notes, around the quote): Asajj Ventress; Count Dooku — entry/section: Star Wars Insider 067 (2003): Ventress's lightsabers: "Wielding two curved, red-bladed lightsabers similar to her Master's, Ventress can hold her own against even the most powerful Jedi." Source: *Star Wars Insider #67* (2003), scan p.23
-![Quote image: *Star Wars Insider #67* (2003), scan p.23 — full quote as printed](quotes/ins067-s23-wielding-two-curved-red-bladed-lightsabers.jpg)
 Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:124`
 
 ## Star Wars Insider #68 (2003)
@@ -518,7 +476,6 @@ Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:388`
 > This latest update of 82 notices of remandation comes from Commander Asajj Ventress and is dominated by Jedi warrants.
 — Source: Star Wars Insider #73 (2004); Asajj Ventress — entry/section: Ventress Issues New Jedi Bounties.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Ventress Issues New Jedi Bounties: "This latest update of 82 notices of remandation comes from Commander Asajj Ventress and is dominated by Jedi warrants." Source: *Star Wars Insider #73* (2004), scan p.67
-![Quote image: *Star Wars Insider #73* (2004), scan p.67 — full quote as printed](quotes/ins073-s67-this-latest-update-of-82-notices.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:390`
 
 > Meanwhile, Back on Coruscant...
@@ -531,13 +488,11 @@ Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:424`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #73 (2004); Asajj Ventress — entry/section: Blackman on Ventress's backstory.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Blackman on Ventress's backstory: ""Basically, we hear Ventress' backstory from one of her enemies … It explains how she was trained in the Force and why she believes Obi-Wan and the other Coruscant Jedi are 'false Jedi.' It should give readers much greater insight into her motivations." —Haden Blackman, Star Wars Insider 73, p. 72" Source: *Star Wars Insider #73* (2004), scan p.72
-![Quote image: *Star Wars Insider #73* (2004), scan p.72 — full quote as printed](quotes/ins073-s72-basically-we-hear-ventress-backstory-from.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:426`
 
 > Visually, she was based on some Episode II concept art, but then I worked up her backstory to make her something other than Komari [Vosa, the female antagonist of LucasArts' Bounty Hunter video game] or Darth Maul. She's not a Sith and doesn't even consider herself a Dark Jedi. She thinks she's living up to the Jedi ideals in ways that Obi-Wan could never do.
 — Source: Star Wars Insider #73 (2004); Asajj Ventress — entry/section: Blackman on Ventress as villain.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Blackman on Ventress as villain: ""Visually, she was based on some Episode II concept art, but then I worked up her backstory to make her something other than Komari [Vosa, the female antagonist of LucasArts' Bounty Hunter video game] or Darth Maul. She's not a Sith and doesn't even consider herself a Dark Jedi. She thinks she's living up to the Jedi ideals in ways that Obi-Wan could never do." —Haden Blackman, Star Wars Insider 73, p. 72" Source: *Star Wars Insider #73* (2004), scan p.72
-![Quote image: *Star Wars Insider #73* (2004), scan p.72 — full quote as printed](quotes/ins073-s72-visually-she-was-based-on-some.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:428`
 
 - Note (summary from our notes, not a quotation): Page contents: Letters continued (names omitted): a parent on sharing Star Wars with a daughter; beadwork; an architect on ILM's practical effects for the Indiana Jones films and kit-bashing; an Imperial Star Destroyer bridge diorama; a Rogue Squadron tattoo, with the editors inviting an Asajj Ventress tattoo. (hand-read)
@@ -586,7 +541,6 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:203`
 > Ventress is obsessed with power and revenge and becoming Dooku's apprentice. Because of this, in some ways, the relationship between Obi-Wan and Anakin flips. While Obi-Wan is acting on impulse, Anakin is trying to be the rational one.
 — Source: Star Wars Insider #79 (2005); Obi-Wan Kenobi; Asajj Ventress — entry/section: Obsession.
 Note (our notes, around the quote): Obi-Wan Kenobi; Asajj Ventress — entry/section: Obsession: ""Obi-Wan is obsessed with a personal quest, which is a headspace we don't normally see him in," says writer Haden Blackman... "Ventress is obsessed with power and revenge and becoming Dooku's apprentice. Because of this, in some ways, the relationship between Obi-Wan and Anakin flips. While Obi-Wan is acting on impulse, Anakin is trying to be the rational one." —Haden Blackman, Star Wars Insider 79, p. 32" Source: *Star Wars Insider #79* (2005), scan p.32
-![Quote image: *Star Wars Insider #79* (2005), scan p.32 — full quote as printed](quotes/ins079-s32-obi-wan-is-obsessed-with-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:205`
 
 - Note (summary from our notes, not a quotation): Page contents: Drawn by the Force continued (Daniel Wallace): Obsession ties up loose ends for Asajj Ventress, Durge and ARC trooper Alpha; artist Brian Ching on Revenge of the Sith reference art; post-Episode III plans fluid. Sidebar "Battles, Bite-Sized": Clone Wars Adventures digest series (Haden Blackman, Welles Hartley, the Fillbach Brothers, Ben Caldwell). (hand-read)
@@ -652,7 +606,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:179`
 > Asajj Ventress was a natural because of her role in the previous Clone Wars [animated micro-series]. She was somebody that we all thought we could use and develop.
 — Source: Star Wars Insider #102 (2008); Asajj Ventress — entry/section: Filoni on Ventress.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Filoni on Ventress: ""Asajj Ventress was a natural because of her role in the previous Clone Wars [animated micro-series]. She was somebody that we all thought we could use and develop." —Dave Filoni, Star Wars Insider 102, p. 19" Source: *Star Wars Insider #102* (2008), scan p.19
-![Quote image: *Star Wars Insider #102* (2008), scan p.19 — full quote as printed](quotes/ins102-s19-asajj-ventress-was-a-natural-because.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:181`
 
 - Note (summary from our notes, not a quotation): Page contents: Blaster section cover (pull-out section): Asajj Ventress 12" figure; Bounty Hunters roundel (Boba Fett), Bantha Tracks roundel (bantha), Fozzie Bear as Chewbacca, Last of the Jedi: Reckoning book cover, armored creature figure from comics (hand-read)
@@ -749,13 +702,11 @@ Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:262`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #106 (2009); Asajj Ventress; Yoda — entry/section: Ventress on Yoda ("Ambush").
 Note (our notes, around the quote): Asajj Ventress; Yoda — entry/section: Ventress on Yoda ("Ambush"): ""[About Yoda] He'll be the small, shriveled, green one...with the lightsaber!" —Asajj Ventress, Star Wars Insider 106, p. 10" Source: *Star Wars Insider #106* (2009), scan p.10
-![Quote image: *Star Wars Insider #106* (2009), scan p.10 — full quote as printed](quotes/ins106-s10-about-yoda-hell-be-the-small.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:57`
 
 > [To Ahsoka] If it isn't Skywalker's filthy, obnoxious little pet. Stand down, little girl, and I'll give you a cookie.
 — Source: Star Wars Insider #106 (2009).
 Note (our notes, around the quote): Asajj Ventress; Ahsoka Tano — entry/section: Ventress to Ahsoka ("Cloak of Darkness"): ""[To Ahsoka] If it isn't Skywalker's filthy, obnoxious little pet. Stand down, little girl, and I'll give you a cookie." —Asajj Ventress, Star Wars Insider 106, p. 15" Source: *Star Wars Insider #106* (2009), scan p.15
-![Quote image: *Star Wars Insider #106* (2009), scan p.15 — full quote as printed](quotes/ins106-s15-to-ahsoka-if-it-isnt-skywalkers.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:107`
 
 ## Star Wars Insider #107 (2009)
@@ -774,7 +725,6 @@ Our notes: `notes/materials/038-star-wars-insider/108-ins108.md:30`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #108 (2009).
 Note (our notes, around the quote): Ahsoka Tano; Asajj Ventress; Luminara Unduli — entry/section: Eckstein on Ahsoka's fighting style: ""I really had no idea about Ahsoka's fighting style or lightsaber techniques. I had no idea how tough she was until I actually saw her fighting Ventress. There was a deleted scene from the movie, when Ahsoka fights a giant rancor. I had no idea what that would look like. Of course, Dave explained it's this giant monster, but I had no idea how big this monster was and how little Ahsoka was, and how agile. I didn't realize how cat-like she was, and how good she was with her body movements. She's like a little gymnast! She can go anywhere and flip anywhere. ... In Cloak of Darkness, Luminara and Ahsoka fight Ventress and I had no idea what she could do with a lightsaber!" —Ashley Eckstein, Star Wars Insider 108, p. 18" Source: *Star Wars Insider #108* (2009), scan p.18
-![Quote image: *Star Wars Insider #108* (2009), scan p.18 — full quote as printed](quotes/ins108-s18-i-really-had-no-idea-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/108-ins108.md:97`
 
 - Note (summary from our notes, not a quotation): Page contents: "Final Cut!" opener (Asajj Ventress art with red lightsabers): Clone Wars editor Jason Tucker interview by Jonathan Wilkins. (hand-read)
@@ -829,7 +779,6 @@ Our notes: `notes/materials/038-star-wars-insider/122-ins122.md:357`
 > Although she's back and more powerful, to me she is still the same person as she was before, and I'm playing her from the same place.
 — Source: Star Wars Insider #122 (2011); Asajj Ventress — entry/section: Voicing Ventress.
 Note (our notes, around the quote): Asajj Ventress — entry/section: Voicing Ventress: ""Although she's back and more powerful, to me she is still the same person as she was before, and I'm playing her from the same place." —Nika Futterman, Star Wars Insider 122, p. 63" Source: *Star Wars Insider #122* (2011), scan p.63
-![Quote image: *Star Wars Insider #122* (2011), scan p.63 — full quote as printed](quotes/ins122-s63-although-shes-back-and-more-powerful.jpg)
 Our notes: `notes/materials/038-star-wars-insider/122-ins122.md:359`
 
 - Note (summary from our notes, not a quotation): Page contents: Futterman: powerful people make up for having felt powerless; evil is fun to play; Ventress not tragic, could move toward the light. (hand-read)
@@ -839,7 +788,6 @@ Our notes: `notes/materials/038-star-wars-insider/122-ins122.md:364`
 > Oh yeah, definitely [laughs]! Asajj is very powerful, but Ahsoka's got so much heart, and she cares so much. I think it would be a great fight.
 — Source: Star Wars Insider #122 (2011); Asajj Ventress; Ahsoka Tano — entry/section: Voicing Ventress.
 Note (our notes, around the quote): Asajj Ventress; Ahsoka Tano — entry/section: Voicing Ventress: ""Oh yeah, definitely [laughs]! Asajj is very powerful, but Ahsoka's got so much heart, and she cares so much. I think it would be a great fight." —Nika Futterman (asked whether Asajj could take down Ahsoka), Star Wars Insider 122, p. 65" Source: *Star Wars Insider #122* (2011), scan p.65
-![Quote image: *Star Wars Insider #122* (2011), scan p.65 — full quote as printed](quotes/ins122-s65-oh-yeah-definitely-laughs-asajj-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/122-ins122.md:371`
 
 - Note (summary from our notes, not a quotation): Page contents: Classic Moment cont.: script excerpt (Yoda deflects lightning, the duel, the crane); sidebar on female Sith concepts inspiring Ventress. (hand-read)
@@ -863,7 +811,6 @@ Our notes: `notes/materials/038-star-wars-insider/128-ins128.md:140`
 > I'm not saying she's a good guy—hardly! But she definitely learned a big lesson last year on the trail with her master, Count Dooku. She has a lot of room to grow in many different directions, and it will be interesting to see the characters we know so well, like Obi-Wan, reacting to those changes.
 — Source: Star Wars Insider #128 (2011).
 Note (our notes, around the quote): Asajj Ventress; Count Dooku; Obi-Wan Kenobi — entry/section: Filoni on Ventress after Season Three: ""I'm not saying she's a good guy—hardly! But she definitely learned a big lesson last year on the trail with her master, Count Dooku. She has a lot of room to grow in many different directions, and it will be interesting to see the characters we know so well, like Obi-Wan, reacting to those changes." —Dave Filoni, Star Wars Insider 128, p. 27" Source: *Star Wars Insider #128* (2011), scan p.27
-![Quote image: *Star Wars Insider #128* (2011), scan p.27 — full quote as printed](quotes/ins128-s27-im-not-saying-shes-a-good.jpg)
 Our notes: `notes/materials/038-star-wars-insider/128-ins128.md:142`
 
 ## Star Wars Insider #129 (2011)
@@ -928,7 +875,6 @@ Our notes: `notes/materials/038-star-wars-insider/137-ins137.md:418`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #137 (2012).
 Note (our notes, around the quote): Asajj Ventress — entry/section: Corroney on Ventress's debut in Jedi: Mace Windu: ""when Asajj first appeared in Jedi: Mace Windu from Dark Horse Comics, it was clear that she was a formidable foe and not a throw-away villain. Asajj was pure evil, she was heartless, and she was here to stay." —Joe Corroney, Star Wars Insider 137, p. 78" Source: *Star Wars Insider #137* (2012), scan p.78
-![Quote image: *Star Wars Insider #137* (2012), scan p.78 — full quote as printed](quotes/ins137-s78-when-asajj-first-appeared-in-jedi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/137-ins137.md:420`
 
 ## Star Wars Insider #138 (2013)
@@ -1134,41 +1080,41 @@ Our notes: `notes/materials/048-ultimate-visual-guide/uvg-04-behind-scenes-back-
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Ventress in a Separatist medical tank: "By the Force..."](panels/ob4-p22-ventress-tank.jpg)
+- Note (summary from our notes, not a quotation): ![Ventress in a Separatist medical tank: "By the Force..."](../notes/materials/049-obsession/panels/ob4-p22-ventress-tank.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:61`
 
-- Note (summary from our notes, not a quotation): ![#5 cover (Ching/Anderson): "Ventress Reborn!"](panels/ob5-p01-cover-ventress-reborn.jpg)
+- Note (summary from our notes, not a quotation): ![#5 cover (Ching/Anderson): "Ventress Reborn!"](../notes/materials/049-obsession/panels/ob5-p01-cover-ventress-reborn.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:64`
 
-- Note (summary from our notes, not a quotation): ![Ventress breaks out of the tank: "I am fear."](panels/ob5-p05-ventress-awakens.jpg)
+- Note (summary from our notes, not a quotation): ![Ventress breaks out of the tank: "I am fear."](../notes/materials/049-obsession/panels/ob5-p05-ventress-awakens.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:70`
 
-- Note (summary from our notes, not a quotation): ![Ventress leaps in silhouette with twin red sabers](panels/ob5-p11-ventress-leap.jpg)
+- Note (summary from our notes, not a quotation): ![Ventress leaps in silhouette with twin red sabers](../notes/materials/049-obsession/panels/ob5-p11-ventress-leap.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:79`
 
 > Your blind faith sickens me.
 > [fragment — full passage not on file]
 — Source: Star Wars: Obsession: daily-image candidates; ![Ventress charges.
-Note (our notes, around the quote): ![Ventress charges: "Your blind faith sickens me."](panels/ob5-p12-ventress-charge.jpg)
+Note (our notes, around the quote): ![Ventress charges: "Your blind faith sickens me."](../notes/materials/049-obsession/panels/ob5-p12-ventress-charge.jpg)
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:82`
 
-- Note (summary from our notes, not a quotation): ![Dooku orders "finish her"; a MagnaGuard shoots Ventress](panels/ob5-p17-ventress-shot.jpg)
+- Note (summary from our notes, not a quotation): ![Dooku orders "finish her"; a MagnaGuard shoots Ventress](../notes/materials/049-obsession/panels/ob5-p17-ventress-shot.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:88`
 
-- Note (summary from our notes, not a quotation): ![Anakin strikes Ventress down from behind](panels/ob5-p20-anakin-strikes.jpg)
+- Note (summary from our notes, not a quotation): ![Anakin strikes Ventress down from behind](../notes/materials/049-obsession/panels/ob5-p20-anakin-strikes.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:91`
 
-- Note (summary from our notes, not a quotation): ![Obi-Wan holds the dying Ventress](panels/ob5-p22-pieta.jpg)
+- Note (summary from our notes, not a quotation): ![Obi-Wan holds the dying Ventress](../notes/materials/049-obsession/panels/ob5-p22-pieta.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:94`
 
-- Note (summary from our notes, not a quotation): ![Epilogue: Ventress, alive, takes over the frigate Bright Flight](panels/ob5-p24-ventress-alive.jpg)
+- Note (summary from our notes, not a quotation): ![Epilogue: Ventress, alive, takes over the frigate Bright Flight](../notes/materials/049-obsession/panels/ob5-p24-ventress-alive.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:97`
 

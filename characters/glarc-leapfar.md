@@ -22,7 +22,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > A legendary tree-fighter, Glare Leapfar is the leader of a poaching gang that harvests ovum sacs from the rikknit of Hajial Chase. His arboreal strength ensures that few locals would dare contest him for dominance.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Glarc Leapfar — entry/section: Glarc Leapfar, legendary tree-fighter.
 Note (our notes, around the quote): Glarc Leapfar — entry/section: Glarc Leapfar, legendary tree-fighter: "A legendary tree-fighter, Glare Leapfar is the leader of a poaching gang that harvests ovum sacs from the rikknit of Hajial Chase. His arboreal strength ensures that few locals would dare contest him for dominance." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.118
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.118 — full quote as printed](quotes/d665-s118-a-legendary-tree-fighter-glare-leapfar.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:407`
 
 - Note (summary from our notes, not a quotation): Page contents: Glarc Leapfar feats; New Species: Nosaurian; New Creature: Rikknit; Nubia planet stats; Description (hand-read)

@@ -17,7 +17,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 
 - Note (summary from our notes, not a quotation): Darth Millennial; Lord Kaan; Darth Bane — entry/section: Darth Millennial's Dark Force: "The Dark Force religion was brought to Dromund Kaas by the Sith apprentice Darth Millennial. The apprentice abandoned his master to focus on the philosophy of Rule by the Strong, espoused by the "Dark One" Lord Kaan, rather than on Darth Bane's restrictive Rule of Two." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.3
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d132-s3-the-dark-force-religion-was-brought.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:52`
 
 # Debate and forum claims (unverified)

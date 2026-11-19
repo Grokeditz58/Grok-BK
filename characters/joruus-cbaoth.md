@@ -34,13 +34,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:46`
 > The third item was the mad Jedi Joruus C'baoth, apparently a clone of the Jorus C'baoth who had led the Outbound Flight mission. C'baoth had been stranded on Wayland for years and had gone completely insane.
 — Source: Part Seven: Empire Resurgent; Joruus C'baoth; Grand Admiral Thrawn — Joruus C'baoth on Wayland.
 Note (our notes, around the quote): Joruus C'baoth; Grand Admiral Thrawn — Joruus C'baoth on Wayland: "The third item was the mad Jedi Joruus C'baoth, apparently a clone of the Jorus C'baoth who had led the Outbound Flight mission. C'baoth had been stranded on Wayland for years and had gone completely insane." Source: The New Essential Chronology, p.148
-![Quote image: The New Essential Chronology, p.148 — full quote as printed](quotes/nec-p148-joruus-cbaoth-on-wayland.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:13`
 
 > Joruus C'baoth held up his end of the bargain, Force-linking the ships of Thrawn's fleet into a supernatural fighting force.
 — Source: Part Seven: Empire Resurgent; Joruus C'baoth; Grand Admiral Thrawn — Force-linked fleet.
 Note (our notes, around the quote): Joruus C'baoth; Grand Admiral Thrawn — Force-linked fleet: "Joruus C'baoth held up his end of the bargain, Force-linking the ships of Thrawn's fleet into a supernatural fighting force." Source: The New Essential Chronology, p.148
-![Quote image: The New Essential Chronology, p.148 — full quote as printed](quotes/nec-p148-force-linked-fleet.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:15`
 
 > Admiral Ackbar was reinstated as fleet commander, the finandal scandal having been revealed as an Imperial setup.
@@ -54,20 +52,17 @@ Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-re
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Joruus C'baoth; Luke Skywalker; Mara Jade Skywalker — C'baoth a match for both: "The demented Jedi Master was easily a match for both Skywalker and Jade combined." Source: The New Essential Chronology, p.152
-![Quote image: The New Essential Chronology, p.152 — full quote as printed](quotes/nec-p152-cbaoth-a-match-for-both.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:51`
 
 > The doubles squared off in a frenzied duel. Though she had often expressed her desire to murder the man who had brought about the Emperor's death, Mara Jade ended the combat by killing the Luke clone. C'baoth, in a fit of rage, collapsed the chamber's ceiling, but Mara skewered him cleanly through the torso.
 — Source: Part Seven: Empire Resurgent.
 Note (our notes, around the quote): Mara Jade Skywalker; Luke Skywalker; Joruus C'baoth — Mara kills Luuke and C'baoth: "The doubles squared off in a frenzied duel. Though she had often expressed her desire to murder the man who had brought about the Emperor's death, Mara Jade ended the combat by killing the Luke clone. C'baoth, in a fit of rage, collapsed the chamber's ceiling, but Mara skewered him cleanly through the torso." Source: The New Essential Chronology, p.152
-![Quote image: The New Essential Chronology, p.152 — full quote as printed](quotes/nec-p152-mara-kills-luuke-and-cbaoth.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:53`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
 
 - Note (summary from our notes, not a quotation): Luke Skywalker; Grand Admiral Thrawn; Joruus C'baoth; Mara Jade Skywalker — Grand Master Luke Skywalker — Thrawn era: "Skywalker is faced with two threats related to Thrawn. One is a mad clone of the old Jedi Master Jorus C'Baoth. The clone "Joruus" tempts Skywalker toward the dark side but is defeated. The other threat is Mara Jade, an assassin with her sights set on Luke Skywalker." Source: Jedi Academy Training Manual, p.100
   — Source: Chapter V: Instructors and Alumni.
-![Quote image: Jedi Academy Training Manual, p.100 — full quote as printed](quotes/jatm-p100-grand-master-luke-skywalker-thrawn-era.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:51`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -84,7 +79,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Luke Skywalker; Joruus C'baoth; Palpatine (Darth Sidious) — Luke Skywalker — caution as a teacher: "his recent experiences with Joruus C'baoth and the resurrected Emperor make him cautious." Source: The Jedi Academy Sourcebook, p.34
-![Quote image: The Jedi Academy Sourcebook, p.34 — full quote as printed](quotes/jas-p34-luke-skywalker-caution-as-a-teacher.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:47`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -103,7 +97,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Grand Admiral Thrawn; Joruus C'baoth: "Thrawn's cunning tactics made short work of the vessels, though in his rage over seeing his dream destroyed, C'baoth reached out with the dark side of the Force and attempted to strangle Thrawn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.113
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.113 — full quote as printed](quotes/v1-p113-thrawns-cunning-tactics-made-short-work.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:63`
 
 > Covell, General Freja Although a fairly young man himself, this Imperial officer was placed in charge of the Empire's young and inexperienced ground troops by Grand Admi­ ral Thrawn. The legendary General Veers saw Covell as ayoungerversion ofhimselfwhen he served as Veers's first officer during the Battle of Hoth. Captain Pellaeon promoted Covell to major general in charge of Chimaera's ground troops after the Battle of Endor. Thrawn gave him the rank ofgeneral when he returned, and he immediately began training his troops for real battle. General Covell wanted to regain the Core Worlds, such as Coruscant, from the New Republic. But he never got to fulfill his Cowaye dreams. General Covell died on the planet Wayland after the mad clone Jedi, Joruus C'baoth; destroyed his mind. Covenant,theA secret enclave of Jedi Knights formed by Lady Krynda Draay, active 4,000 years before the Battle of Yavin. These talented seers were devoted to stopping any hint of a Sith uprising following the devastation of the Great Sith War. Their members included Lucien Draay, Krynda's son; Q'Anilia, a Miralukan seer; Xanar, a Khil; Raana Tey, a Togruta; and Fein, a Feeorin. The vast Draay fortune was funneled through numerous fronts and investments in preparation for defense of the galaxy.
@@ -111,13 +104,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Joruus C'baoth: "General Covell died on the planet Wayland after the mad clone Jedi, Joruus C'baoth, destroyed his mind." Source: The Complete Star Wars Encyclopedia, Vol. I, p.149
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.149 — full quote as printed](quotes/v1-p149-general-covell-died-on-the-planet.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:35`
 
 > When C'baoth destroyed a slinker missile that was supposed to assassinate both Gilfrome and Passel Argente, C'baoth was securing mining rights for the Brolfi while protecting the Corporate Alliance's investments on Barlok.
 — Source: scan pages 321–360; Joruus C'baoth. POV: Joruus C'baoth.
 Note (our notes, around the quote): Joruus C'baoth: "When C'baoth destroyed a slinker missile that was supposed to assassinate both Gilfrome and Passel Argente, C'baoth was securing mining rights for the Brolfi while protecting the Corporate Alliance's investments on Barlok." Source: The Complete Star Wars Encyclopedia, Vol. I, p.341
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.341 — full quote as printed](quotes/v1-p341-when-cbaoth-destroyed-a-slinker-missile.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:249`
 
 > Guard A group of Viraxo Razor starfighters used to harass the Azzameen's shipping operations. guardglobeA form of remote, it was used by Dr. Arakkus to guard his fortress in the Graveyard of Lost Ships. Guard globes pa­ trolled the corridors and were programmed to intercept intruders. Guardian ( I ) A style of double-bladed lightsaber hilt, it was sometimes used by the new Order of Jedi Knights who were trained by Luke Skywalker at the height of the New Republic. The Guardian had wide, angled emitter shrouds that protected each end of the weapon, giving it the appearance of a two­ bladed dagger when inactive. Guardian (1)The title used by the being sent by Emperor Palpatine to guard the Mount Tantiss storehouse on the planet Wayland. It was believed that the Guardian was killed by Joruus C'baoth when he arrived on Wayland. Guardian (3) The largest Spook crystals found on Narn Chorios-often formed into tsil­ these sentient crystals controlled the actions of the smaller Spook crystals found on the planet. Guardian (I)A Super-class Star Destroyer under the command of Admiral Drommel, it was badly damaged in the Battle ofTantive V with New Republic forces about three years after the Battle of Endor. Later, the New Republic recovered and refit the ship. The Guardian was later deployed to Kashyyyk during the Yuuzhan Vong War.
@@ -125,7 +116,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Joruus C'baoth: "It was believed that the Guardian was killed by Joruus C'baoth when he arrived on Wayland." Source: The Complete Star Wars Encyclopedia, Vol. I, p.373
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.373 — full quote as printed](quotes/v1-p373-it-was-believed-that-the-guardian.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:233`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -133,19 +123,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Lorana only survived Thrawn's attack because she had been ordered by C'baoth to lock up a group of rebellious engineers in the central core of the ship.
 — Source: scan pages 161–200; Grand Admiral Thrawn; Joruus C'baoth.
 Note (our notes, around the quote): Grand Admiral Thrawn; Joruus C'baoth: "Lorana only survived Thrawn's attack because she had been ordered by C'baoth to lock up a group of rebellious engineers in the central core of the ship." Source: The Complete Star Wars Encyclopedia, Vol. II, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.166 — full quote as printed](quotes/v2-p166-lorana-only-survived-thrawns-attack-because.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:91`
 
 > With his last breath, Ma'Ning told C'baoth's Padawan, Lorana Jinzler, that a more devastating attack was coming now that C'baoth had given himself over to the dark side of the Force.
 — Source: scan pages 281–320; Joruus C'baoth. POV: Joruus C'baoth.
 Note (our notes, around the quote): Joruus C'baoth: "With his last breath, Ma'Ning told C'baoth's Padawan, Lorana Jinzler, that a more devastating attack was coming now that C'baoth had given himself over to the dark side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.285
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.285 — full quote as printed](quotes/v2-p285-with-his-last-breath-maning-told.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:94`
 
 > Crazed Jedi clone Joruus C'baoth arrived on Wayland, defeated the Guardian, and took control of the Imperial interests.
 — Source: scan pages 321–360; Joruus C'baoth. POV: Joruus C'baoth.
 Note (our notes, around the quote): Joruus C'baoth: "Crazed Jedi clone Joruus C'baoth arrived on Wayland, defeated the Guardian, and took control of the Imperial interests." Source: The Complete Star Wars Encyclopedia, Vol. II, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.337 — full quote as printed](quotes/v2-p337-crazed-jedi-clone-joruus-cbaoth-arrived.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:162`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -153,13 +140,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > When the mad Jedi clone Joruus C'baoth called both Luke and Mara to him, then unleashed Skywalker's clone, Luuke, Mara killed the Skywalker clone—and finally C'baoth, too, with help from Luke and Leia Organa Solo.
 — Source: scan pages 161–200; Joruus C'baoth; Luke Skywalker; Mara Jade Skywalker; Leia Organa Solo.
 Note (our notes, around the quote): Joruus C'baoth; Luke Skywalker; Mara Jade Skywalker; Leia Organa Solo: "When the mad Jedi clone Joruus C'baoth called both Luke and Mara to him, then unleashed Skywalker's clone, Luuke, Mara killed the Skywalker clone—and finally C'baoth, too, with help from Luke and Leia Organa Solo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.166 — full quote as printed](quotes/v3-p166-when-the-mad-jedi-clone-joruus.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:151`
 
 > Some five years later, mad Jedi clone Joruus C'baoth coordinated an Imperial attack on Taanab, where he used the turbolasers of the Bellicose to destroy a New Republic ship against the direct orders of Captain Aban.
 — Source: scan pages 201–240; Joruus C'baoth. POV: Joruus C'baoth.
 Note (our notes, around the quote): Joruus C'baoth: "Some five years later, mad Jedi clone Joruus C'baoth coordinated an Imperial attack on Taanab, where he used the turbolasers of the Bellicose to destroy a New Republic ship against the direct orders of Captain Aban." Source: The Complete Star Wars Encyclopedia, Vol. III, p.209
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.209 — full quote as printed](quotes/v3-p209-some-five-years-later-mad-jedi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:140`
 
 ## The New Essential Guide to Characters (2002)
@@ -167,13 +152,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Inside Wayland's Mount Tantiss complex, Mara killed two clones— the mad Jedi Master Joruus C'baoth and a clone duplicate of Luke Skywalker, thus fulfilling—on a technicality—the Emperor's final command.
 — Source: scan pages 151–180; Mara Jade Skywalker; Joruus C'baoth; Luke Skywalker.
 Note (our notes, around the quote): Mara Jade Skywalker; Joruus C'baoth; Luke Skywalker: "Inside Wayland's Mount Tantiss complex, Mara killed two clones— the mad Jedi Master Joruus C'baoth and a clone duplicate of Luke Skywalker, thus fulfilling—on a technicality—the Emperor's final command." Source: The New Essential Guide to Characters, p.162
-![Quote image: The New Essential Guide to Characters, p.162 — full quote as printed](quotes/negc-p162-inside-waylands-mount-tantiss-complex-mara.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:52`
 
 > An insane clone of the Jedi Master Jorus C'baoth, Joruus assisted Grand Admiral Thrawn in waging war against the New Republic before being killed by Mara Jade on Wayland.
 — Source: scan pages 181–210; Joruus C'baoth; Grand Admiral Thrawn; Mara Jade Skywalker.
 Note (our notes, around the quote): Joruus C'baoth; Grand Admiral Thrawn; Mara Jade Skywalker: "An insane clone of the Jedi Master Jorus C'baoth, Joruus assisted Grand Admiral Thrawn in waging war against the New Republic before being killed by Mara Jade on Wayland." Source: The New Essential Guide to Characters, p.208
-![Quote image: The New Essential Guide to Characters, p.208 — full quote as printed](quotes/negc-p208-an-insane-clone-of-the-jedi.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:146`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 241–300)
@@ -181,14 +164,12 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-1
 > Only when the mad Jedi clone Joruus C'Baoth attempted to turn them both to the dark side, and Mara slew a clone of Luke Skywalker, did she finally feel as though she had fulfilled her duty to the Emperor.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep.
 Note (our notes, around the quote): Mara Jade Skywalker; Luke Skywalker — entry/section: Key Characters: Mara Jade Skywalker: "Only when the mad Jedi clone Joruus C'Baoth attempted to turn them both to the dark side, and Mara slew a clone of Luke Skywalker, did she finally feel as though she had fulfilled her duty to the Emperor." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.246
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.246 — full quote as printed](quotes/d046-s246-only-when-the-mad-jedi-clone.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:83`
 
 ## Jedi Counselling/Jedi Counseling 18 - Cortosis Bullets.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Grand Admiral Thrawn; Joruus C'baoth — entry/section: Ysalamiri in a backpack: "A: It sounds like your player has read Timothy Zahn's "Thrawn Trilogy," in which Grand Admiral Thrawn uses ysalamiri in a cage to protect himself from Joruus C'baoth. There's nothing technically wrong with what he's done, but if you want to take the ysalamiri away, the smart thing to do is have someone simply shoot them. Or you could just have the character caught in an explosion or two. If he fails his save, his backpack -- and anything in it -- should also suffer damage." Source: *Jedi Counseling 18 - Cortosis Bullets* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 18 - Cortosis Bullets.pdf [Star Wars Rol.
-![Quote image: *Jedi Counseling 18 - Cortosis Bullets* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d181-s3-a-it-sounds-like-your-player.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/181-jedi-counseling-18-cortosis-bullets.md:24`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 301–360)
@@ -196,7 +177,6 @@ Our notes: `notes/materials/037-sw-d20-folder/181-jedi-counseling-18-cortosis-bu
 > Only after the mad Jedi clone Joruus C'baoth attempts to turn them both to the dark side, and Mara slays a clone of Luke Skywalker, does she feel as though she has fulfilled her last duty to the Emperor.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Mara Jade Skywalker; Joruus C'baoth; Luke Skywalker — entry/section: Mara Jade (Revised Core Rulebook, Ch13): "Only after the mad Jedi clone Joruus C'baoth attempts to turn them both to the dark side, and Mara slays a clone of Luke Skywalker, does she feel as though she has fulfilled her last duty to the Emperor." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.311
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.311 — full quote as printed](quotes/d671-s311-only-after-the-mad-jedi-clone.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:130`
 
 - Note (summary from our notes, not a quotation): Page contents: 740 words, 24 paragraphs | headings/entries: Mace Windu; MACE WINDU; Jdorus C'baoth
@@ -206,13 +186,11 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > Jorus C’baoth achieves the title of Jedi Master not through training an apprentice, but purely on the weight of his accomplishments.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Joruus C'baoth — entry/section: Jorus C'baoth (Revised Core Rulebook, Ch13).
 Note (our notes, around the quote): Joruus C'baoth — entry/section: Jorus C'baoth (Revised Core Rulebook, Ch13): "Jorus C’baoth achieves the title of Jedi Master not through training an apprentice, but purely on the weight of his accomplishments." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.313
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.313 — full quote as printed](quotes/d671-s313-jorus-c-baoth-achieves-the-title.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:166`
 
 > His search leads him to a group of darksiders menacing the Elrood Sector. Jorus and a small strike team of Jedi Knights track down and vanquish the dark Jedi.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Joruus C'baoth — entry/section: Jorus C'baoth (Revised Core Rulebook, Ch13).
 Note (our notes, around the quote): Joruus C'baoth — entry/section: Jorus C'baoth (Revised Core Rulebook, Ch13): "His search leads him to a group of darksiders menacing the Elrood Sector. Jorus and a small strike team of Jedi Knights track down and vanquish the dark Jedi." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.314
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.314 — full quote as printed](quotes/d671-s314-his-search-leads-him-to-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:178`
 
 ## Star Wars Insider #36 (1998)
@@ -242,7 +220,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:487`
 > The rest of the Thrawn Trilogy tells how Mara comes to terms with her past, but along the way there's action galore: Mara and Luke team up for a thrilling jailbreak aboard the Star Destroyer Chimaera in Dark Force Rising, and she faces down Joruus C'baoth and kills the clone Luuke Skywalker at the climax of The Last Command, simultaneously saving Luke and freeing herself from the Emperor's hold.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Mara Jade Skywalker; Luke Skywalker; Joruus C'baoth; Grand Admiral Thrawn; Palpatine (Darth Sidious) — entry/section: Mara kills Luuke: "The rest of the Thrawn Trilogy tells how Mara comes to terms with her past, but along the way there's action galore: Mara and Luke team up for a thrilling jailbreak aboard the Star Destroyer Chimaera in Dark Force Rising, and she faces down Joruus C'baoth and kills the clone Luuke Skywalker at the climax of The Last Command, simultaneously saving Luke and freeing herself from the Emperor's hold." Source: *Star Wars Insider #75* (2004), scan p.77
-![Quote image: *Star Wars Insider #75* (2004), scan p.77 — full quote as printed](quotes/ins075-s77-the-rest-of-the-thrawn-trilogy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:489`
 
 ## Star Wars Insider #145 (2013)

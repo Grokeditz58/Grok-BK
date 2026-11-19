@@ -22,7 +22,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Quinlan Vos; Darth Andeddu — Andeddu holocron: "On the Sith tomb world of Korriban, Quinlan retrieved a holocron once belonging to the Sith Lord Darth Andeddu from a booby-trapped catacomb." Source: The New Essential Chronology, p.72
-![Quote image: The New Essential Chronology, p.72 — full quote as printed](quotes/nec-p72-andeddu-holocron.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:378`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -36,7 +35,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Andeddu; Roan Fel; Darth Krayt — entry/section: Andeddu, Darth: "Over a century later, during the time of Roan Fel's empire, Darth Krayt was in possession of Andeddu's holocron." Source: The Complete Star Wars Encyclopedia, Vol. I, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.30 — full quote as printed](quotes/v1-p30-over-a-century-later-during-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:40`
 
 ## Adventures/Dawn of Defiance/09 - Sword of the Empire.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -58,7 +56,6 @@ Our notes: `notes/materials/037-sw-d20-folder/711-09-sword-of-the-empire.md:122`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 09 Sword of the Empire (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_09_Sword_of_the_Empire_pdf_77329dcca1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 09 Sword of the Empire (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_09_Sword_of_the_Empire_pdf_77329dcca1`).)
 Note (our notes, around the quote): Darth Andeddu: "(Indeed, there is a remote chance that Darth Andeddu brought the Stereb to Prakith as enslaved builders in the first place, centuries ago, although this is only a possibility.)" Source: *09 - Sword of the Empire* (SWRPG Saga Edition), scan p.18
-![Quote image: *09 - Sword of the Empire* (SWRPG Saga Edition), scan p.18 — full quote as printed](quotes/d711-s18-indeed-there-is-a-remote-chance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/711-09-sword-of-the-empire.md:124`
 
 ## Star Wars: Legacy (Dark Horse, 2006–2010) single issues #20–#50, hand-read
@@ -135,11 +132,11 @@ Our notes: `notes/daily-research/2026-10-21-session.md:32`
 
 - Note (summary from our notes, not a quotation): #5: Krayt questions the Korriban holocrons of Bane, Andeddu and Nihilus. They call him a "PRETENDER", and he blasts them away (p81–84). On Vendaxa, Wolf and Shado meet Cade's crew. Talon fights Wolf and Shado and swats Marasiah aside. Cade instinctively stops a hurled wreck and Force-pushes Talon away (p85–99). Krayt sends Nihl (p101–102).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p81 Krayt summons the holocrons](009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
-![p82 Bane's holocron: "PRETENDER"](009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
-![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
-![p84 Krayt dispels the holocron images with lightning](009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
-![p102](009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
+![p81 Krayt summons the holocrons](../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+![p82 Bane's holocron: "PRETENDER"](../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+![p84 Krayt dispels the holocron images with lightning](../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+![p102](../notes/materials/009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:47`
 
 > Krayt: "LORD ANDEDDU, LORD NIHILUS, LORD BANE -- ANSWER ME! TEACH ME! SUCH IS MY WILL!" · Bane: "MY KNOWLEDGE IS NOT FOR YOU! YOU ARE NOT A SITH, PRETENDER, NOR ARE YOUR RABBLE." · Krayt: "I HAVE IMPROVED ON IT! INSTEAD OF TWO THERE IS NOW ONLY ONE -- THE SITH ORDER ITSELF." · Bane: "POWER IS ITS OWN PURPOSE. TO SHARE IT IS TO DILUTE IT." · Andeddu holocron: "THE HERETIC COMES FOR THE SAME REASON IT CAME LAST TIME. ITS BODY IS FAILING. IT FEARS THAT WHICH IS CONSUMING IT." · (p83) Krayt: "LORD BANE, YOU MASTERED THE PARASITES -- THE ORBALISKS … HOW?" · "LORD NIHILUS -- YOU ESCAPED DEATH BY CONTAINING YOUR CONSCIOUSNESS WITHIN YOUR ARMOR. HOW?!" · (p84) Krayt: "I AM THE LIVING LORD OF THE SITH!" · "THIS IS NOT THE TRUTH AND IT IS NOT MY DESTINY!" · "I FORGE MY OWN WAY, I WALK A NEW PATH, AND IF YOU WILL NOT SERVE ME -- BEGONE!"
@@ -148,7 +145,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:47`
 Context: 7. Questions the Sith holocrons; Bane, Andeddu and Nihilus call him a pretender. p81 (#5 Broken)–p84 (#5 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:139`
 
-- Note (summary from our notes, not a quotation): ![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+- Note (summary from our notes, not a quotation): ![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p83 Krayt asks how Bane, Andeddu and Nihilus beat death — `p083-krayt-asks-bane-andeddu-nihilus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:148`
@@ -162,7 +159,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:816`
 - Note (summary from our notes, not a quotation): Essence transfer claimed from Andeddu and Muur (p130).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Use:
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1109`
 
 - Note (summary from our notes, not a quotation): | Krayt: essence transfer from "Andeddu and Karness Muur" | p130 | Lettered "LORD ANDEDDU" |

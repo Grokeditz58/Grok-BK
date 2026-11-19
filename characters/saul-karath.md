@@ -163,7 +163,6 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-1-notes.md:222`
 > With the defection of Admiral Saul Karath, Darth Malak acquired the Leviathan, which served as his personal flagship, and he appeared to be invincible.
 — Source: scan pages 281–320; Darth Malak. POV: Darth Malak, about Saul Karath.
 Note (our notes, around the quote): Darth Malak: "With the defection of Admiral Saul Karath, Darth Malak acquired the Leviathan, which served as his personal flagship, and he appeared to be invincible." Source: The Complete Star Wars Encyclopedia, Vol. II, p.279
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.279 — full quote as printed](quotes/v2-p279-with-the-defection-of-admiral-saul.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:46`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -181,7 +180,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > THIS IS A NEW PHASE OF THE WAR. WE'RE GOING TO HAVE TO CHANGE HOW WE LOOK AT THINGS.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Saul Karath — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Saul Karath — entry/section: Pull quote: ""THIS IS A NEW PHASE OF THE WAR. WE'RE GOING TO HAVE TO CHANGE HOW WE LOOK AT THINGS." —ADMIRAL SAUL KARATH" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.181
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.181 — full quote as printed](quotes/d718-s181-this-is-a-new-phase-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:12`
 
 # Debate and forum claims (unverified)

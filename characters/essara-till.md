@@ -25,7 +25,6 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-06
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Essara Till — entry/section: The Starfighter Trap.
 Note (our notes, around the quote): Essara Till — entry/section: The Starfighter Trap: "in her thirteen years as a fighter pilot for hire, she had never felt so vital and significant. Her horneworld needed her." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.11
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.11 — full quote as printed](quotes/d050-s11-in-her-thirteen-years-as-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:62`
 
 > You're a better dogfighter than I am
@@ -37,20 +36,17 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-06
 > The droid starfighter fired its lasers. Essara held her course as Ell-one beeped urgently and her fighter rocked. Essara bit her lower lip, struggling to steady her nerves and to stick with her desperate plan, The droid starfighter changed course again, attempting to avoid collision. She put herself in its path again. A collision alert chimed. She spotted a scratch on the fighter's left fin, and she could see the muzzles on both of its lasers glowing. She fired her torpedoes and banked sharply left. Her gamble paid off—the enemy didn't have time to avoid the torpedoes, and they impacted squarely on its fuselage.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Essara Till — entry/section: The Starfighter Trap.
 Note (our notes, around the quote): Essara Till — entry/section: The Starfighter Trap: "The droid starfighter fired its lasers. Essara held her course as Ell-one beeped urgently and her fighter rocked. Essara bit her lower lip, struggling to steady her nerves and to stick with her desperate plan, The droid starfighter changed course again, attempting to avoid collision. She put herself in its path again. A collision alert chimed. She spotted a scratch on the fighter's left fin, and she could see the muzzles on both of its lasers glowing. She fired her torpedoes and banked sharply left. Her gamble paid off—the enemy didn't have time to avoid the torpedoes, and they impacted squarely on its fuselage." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.16
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.16 — full quote as printed](quotes/d050-s16-the-droid-starfighter-fired-its-lasers.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:89`
 
 > Once Essara was under the carrier's defensive barrage, the capital ship's matte-gray hull spread out before her like a vast desert. its weapons spewed death like erupting volcanoes, but she flew too close for most of the weapons to target her.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Essara Till — entry/section: The Starfighter Trap.
 Note (our notes, around the quote): Essara Till — entry/section: The Starfighter Trap: "Once Essara was under the carrier's defensive barrage, the capital ship's matte-gray hull spread out before her like a vast desert. its weapons spewed death like erupting volcanoes, but she flew too close for most of the weapons to target her." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.17
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.17 — full quote as printed](quotes/d050-s17-once-essara-was-under-the-carriers.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:96`
 
 > Carrier’s shields at 22 percent and recharging. Ours are at 12 percent and holding. “I’m with you, Flight Leader,” Echo Five said. Echo Five and Essara fired their torpedoes as if their launchers were synchronized. Both fighters spun away from the carrier as explosions started to spread across its hull. The carrier’s power plant overloaded, and the ship was consumed by the explosion. For an instant the carrier burned like a sun, and then as quickly the darkness consumed it. “Fall in, Echo Five,” Essara said. “We’re going to take out Bravo Eight.”
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Essara Till — entry/section: The Starfighter Trap.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 33BBY: The Starfighter Trap (Steve Miller) (text copy `MEGA_All_Short_Stories_33BBY_The_Starfighter_Trap_Steve_Miller_epub`).)
 Note (our notes, around the quote): Essara Till — entry/section: The Starfighter Trap: "Echo Five and Essara fired their torpedoes as if their launchers were synchronized. Both fighters spun away from the carrier as explosions started to spread across its hull, The carrier's power plant overloaded, and the ship was consumed by the explosion. For an instant the carrier burned like a sun, and then as quickly the darkness consumed it." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.17
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.17 — full quote as printed](quotes/d050-s17-echo-five-and-essara-fired-their.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:98`
 
 - Note (summary from our notes, not a quotation): Page contents: Essara deliberately flew into a missile swarm to save Dren, shooting down four before being hit; Dren killed by eight concussion missiles from the Velumina (hand-read)

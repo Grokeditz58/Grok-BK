@@ -2397,50 +2397,42 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4985`
 > Revan and Scourge attempt to assassinate the Emperor, but the ruler's power overwhelms them. Scourge betrays Revan and is rewarded with the title of the Emperor's Wrath. Revan is imprisoned, an ordeal that lasts for centuries.
 — Source: Front matter and introduction.
 Note (our notes, around the quote): Revan; Lord Scourge; Vitiate (the Sith Emperor); Meetra Surik — Timeline c. 3,950 BBY, Revan Seeks Out the Emperor: "Revan and Scourge attempt to assassinate the Emperor, but the ruler's power overwhelms them. Scourge betrays Revan and is rewarded with the title of the Emperor's Wrath. Revan is imprisoned, an ordeal that lasts for centuries." Source: The Old Republic Encyclopedia, p.18
-![Quote image: The Old Republic Encyclopedia, p.18 — full quote as printed](quotes/tore-p18-revan-and-scourge-attempt-to-assassinate.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:94`
 
 > But Revan was haunted by amnesiac visions of his encounter with the Sith Emperor. Seeking answers, he left Coruscant, but was ultimately captured by the Emperor he hunted.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Revan; Vitiate (the Sith Emperor); Lord Scourge — Captive of the Sith Emperor: "But Revan was haunted by amnesiac visions of his encounter with the Sith Emperor. Seeking answers, he left Coruscant, but was ultimately captured by the Emperor he hunted." Source: The Old Republic Encyclopedia, p.73, sidebar
-![Quote image: The Old Republic Encyclopedia, p.73 — full quote as printed](quotes/tore-p73-but-revan-was-haunted-by-amnesiac.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:94`
 
 > Though he attempted to escape and assassinate the Emperor, Revan's mission ended in failure when his unlikely ally—the Sith Lord Scourge—turned on him.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Revan; Lord Scourge; Vitiate (the Sith Emperor) — Captive of the Sith Emperor: "Though he attempted to escape and assassinate the Emperor, Revan's mission ended in failure when his unlikely ally—the Sith Lord Scourge—turned on him." Source: The Old Republic Encyclopedia, p.73, sidebar
-![Quote image: The Old Republic Encyclopedia, p.73 — full quote as printed](quotes/tore-p73-though-he-attempted-to-escape-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:96`
 
 > Scourge experienced a vision that revealed his Master's secret plot—and the brave Jedi Knight who would thwart it.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Lord Scourge; Hero of Tython (Jedi Knight) — Racing Against Doomsday (top-right): "Scourge experienced a vision that revealed his Master's secret plot—and the brave Jedi Knight who would thwart it." Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-scourge-experienced-a-vision-that-revealed.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:300`
 
 > SPECIES: Pureblooded Sith HOMEWORLD: Unknown AGE: 300+ years PERSONALITY TRAITS: Passionless, calculating, sardonic COMBAT SPECIALTY: Heavy-armored close combat assassin
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Lord Scourge — Lord Scourge data box.
 Note (our notes, around the quote): Lord Scourge — Lord Scourge data box: "SPECIES: Pureblooded Sith HOMEWORLD: Unknown AGE: 300+ years PERSONALITY TRAITS: Passionless, calculating, sardonic COMBAT SPECIALTY: Heavy-armored close combat assassin" Source: The Old Republic Encyclopedia, p.94
-![Quote image: The Old Republic Encyclopedia, p.94 — full quote as printed](quotes/tore-p94-species-pureblooded-sith-homeworld-unknown-age.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:317`
 
 > There was only one Scourge, his life prolonged by Sith alchemy, and his battle prowess enhanced by the Emperor.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Lord Scourge; Vitiate (the Sith Emperor) — Lord Scourge, the "Emperor's Wrath": "There was only one Scourge, his life prolonged by Sith alchemy, and his battle prowess enhanced by the Emperor." Source: The Old Republic Encyclopedia, p.94
-![Quote image: The Old Republic Encyclopedia, p.94 — full quote as printed](quotes/tore-p94-there-was-only-one-scourge-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:321`
 
 > Lord Scourge's service to the Emperor has been an elaborate ruse played out over centuries. The Emperor's Wrath has patiently waited for a moment of destiny: to betray his Sith Master and join the Jedi Knight's mission.
 — Source: The Jedi Order; Lord Scourge — Lord Scourge, the "Emperor's Wrath".
 Note (our notes, around the quote): Lord Scourge — Lord Scourge, the "Emperor's Wrath": "Lord Scourge's service to the Emperor has been an elaborate ruse played out over centuries. The Emperor's Wrath has patiently waited for a moment of destiny: to betray his Sith Master and join the Jedi Knight's mission." Source: The Old Republic Encyclopedia, p.94
-![Quote image: The Old Republic Encyclopedia, p.94 — full quote as printed](quotes/tore-p94-lord-scourge-s-service-to-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:323`
 
 > The first Wrath was Lord Scourge, a pureblood Sith. Lord Scourge secretly allied with the Jedi Revan three centuries ago before betraying the Jedi's assassination attempt against the Emperor. For his dedication, Lord Scourge was rewarded with the title of the Emperor's Wrath and an eternally agonizing immortality. But unlike the servants of the Hand, the Wrath was spared the crippling binding process so that he may wield his full might to crush the enemies of the Emperor.
 — Source: The Sith; Lord Scourge; Revan; Vitiate (the Sith Emperor) — The Wrath.
 Note (our notes, around the quote): Lord Scourge; Revan; Vitiate (the Sith Emperor) — The Wrath: "The first Wrath was Lord Scourge, a pureblood Sith. Lord Scourge secretly allied with the Jedi Revan three centuries ago before betraying the Jedi's assassination attempt against the Emperor. For his dedication, Lord Scourge was rewarded with the title of the Emperor's Wrath and an eternally agonizing immortality. But unlike the servants of the Hand, the Wrath was spared the crippling binding process so that he may wield his full might to crush the enemies of the Emperor." Source: The Old Republic Encyclopedia, p.163, sidebar
-![Quote image: The Old Republic Encyclopedia, p.163 — full quote as printed](quotes/tore-p163-the-first-wrath-was-lord-scourge.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:216`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -2454,7 +2446,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Total destruction is the goal in this mis sion, which requires a mastery of Nym's new weapon upgrade: the Plasma Scourge (to use the Plasma Scourge, hold down the secondary fire button until the weapon is fully charged, then release it to drop the mega-bomb).
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Lord Scourge. POV: Lord Scourge.
 Note (our notes, around the quote): Lord Scourge: "Total destruction is the goal in this mis sion, which requires a mastery of Nym's new weapon upgrade: the Plasma Scourge (to use the Plasma Scourge, hold down the secondary fire button until the weapon is fully charged, then release it to drop the mega-bomb)." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.100
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.100 — full quote as printed](quotes/d053-s100-total-destruction-is-the-goal-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-061-105.md:213`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–108)
@@ -2480,7 +2471,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Dark Side Scourge: Against creatures with a Dark Side Score of 1 of higher, you deal extra damage on melee attacks equal to your Charisma bonus (minimum +1).
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Lord Scourge. POV: Lord Scourge.
 Note (our notes, around the quote): Lord Scourge: "Dark Side Scourge: Against creatures with a Dark Side Score of 1 of higher, you deal extra damage on melee attacks equal to your Charisma bonus (minimum +1)." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.41
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.41 — full quote as printed](quotes/d723-s41-dark-side-scourge-against-creatures-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-001-060.md:214`
 
 ## Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–295)

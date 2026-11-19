@@ -18,7 +18,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Morag's evil magic was a potent match for Logray's good magic.
 — Source: scan pages 321–360; Morag — entry/section: Morag.
 Note (our notes, around the quote): Morag — entry/section: Morag: "Morag's evil magic was a potent match for Logray's good magic." Source: The Complete Star Wars Encyclopedia, Vol. II, p.330
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.330 — full quote as printed](quotes/v2-p330-morags-evil-magic-was-a-potent.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:115`
 
 ## Star Wars Insider #27 (1995)

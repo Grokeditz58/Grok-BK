@@ -246,7 +246,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:619`
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Agen Kolar; Quinlan Vos — Kolar vs Quinlan on Nar Shaddaa.
 Note (our notes, around the quote): Agen Kolar; Quinlan Vos — Kolar vs Quinlan on Nar Shaddaa: "Fully convinced of the rightness of his mission, in his zeal Agen Kolar nearly killed his target. But, as planned, Quinlan eluded capture" Source: The New Essential Chronology, p.63
-![Quote image: The New Essential Chronology, p.63 — full quote as printed](quotes/nec-p63-kolar-vs-quinlan-on-nar-shaddaa.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:293`
 
 > Palpatine had carefully cullivated Anakin’s hopes for preventing this dire premonition, and had revealed everything to Anakin; Palpatine’s secret identity as Darth Sidious. His murder of his own Master, Darth Plaguels.
@@ -260,7 +259,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Mace Windu; Saesee Tiin; Kit Fisto; Agen Kolar — Palpatine kills three Masters: "Palpatine at last dropped the facade and unleashed his full fury, killing the three lesser Jedi." Source: The New Essential Chronology, p.82
-![Quote image: The New Essential Chronology, p.82 — full quote as printed](quotes/nec-p82-palpatine-kills-three-masters.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:500`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -272,13 +270,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Kolar, Agen A Zabrak Jedi Knight and member of the Jedi Council, he was one of the few Jedi who survived the initial stages of the Battle of Geonosis.
 — Source: scan pages 201–240; Agen Kolar — entry/section: Kolar, Agen.
 Note (our notes, around the quote): Agen Kolar — entry/section: Kolar, Agen: "Kolar, Agen A Zabrak Jedi Knight and member of the Jedi Council, he was one of the few Jedi who survived the initial stages of the Battle of Geonosis." Source: The Complete Star Wars Encyclopedia, Vol. II, p.223
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.223 — full quote as printed](quotes/v2-p223-kolar-agen-a-zabrak-jedi-knight.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:292`
 
 > However, the Jedi were unprepared for Palpatine's powers, and Agen Kolar was quickly killed during the fighting, leaving Mace Windu to face Palpatine alone.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Agen Kolar; Palpatine (Darth Sidious); Mace Windu — entry/section: Kolar, Agen: "However, the Jedi were unprepared for Palpatine's powers, and Agen Kolar was quickly killed during the fighting, leaving Mace Windu to face Palpatine alone." Source: The Complete Star Wars Encyclopedia, Vol. II, p.224
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.224 — full quote as printed](quotes/v2-p224-however-the-jedi-were-unprepared-for.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:299`
 
 ## Characters/Miniatures/Grand Army of the Republic.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -290,7 +286,6 @@ Our notes: `notes/materials/037-sw-d20-folder/109-grand-army-of-the-republic.md:
 > Agen Kolar is a typical Jedi General for the army of the Republic. He was involved in the Battle of Geonosis that resulted in the death of his Padawan, Tan Yuster. He commanded a detachment of Clone Troopers on Brentaal IV.
 — Source: Characters/Miniatures/Grand Army of the Republic.pdf [Star Wars Roleplayi; Agen Kolar — entry/section: Agen Kolar, Jedi General.
 Note (our notes, around the quote): Agen Kolar — entry/section: Agen Kolar, Jedi General: "Agen Kolar is a typical Jedi General for the army of the Republic. He was involved in the Battle of Geonosis that resulted in the death of his Padawan, Tan Yuster. He commanded a detachment of Clone Troopers on Brentaal IV." Source: *Grand Army of the Republic* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Grand Army of the Republic* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d109-s3-agen-kolar-is-a-typical-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/109-grand-army-of-the-republic.md:22`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–225)

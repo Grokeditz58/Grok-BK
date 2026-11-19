@@ -358,54 +358,45 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:164`
 > Now unleashed from her confinement, Daala decided to make up for lost time. With her three Star Destroyers, she vowed to fight a guerrilla war against the New Republic.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala — Daala's guerrilla war. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala — Daala's guerrilla war: "Now unleashed from her confinement, Daala decided to make up for lost time. With her three Star Destroyers, she vowed to fight a guerrilla war against the New Republic." Source: The New Essential Chronology, p.164
-![Quote image: The New Essential Chronology, p.164 — full quote as printed](quotes/nec-p164-daalas-guerrilla-war.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:33`
 
 - Note (summary from our notes, not a quotation): Admiral Daala — art caption: "Admiral Daala" Source: The New Essential Chronology, p.165, caption
   — Source: Part Eight: The Return of the Jedi Knights. POV: speaker not named in our notes.
-![Quote image: The New Essential Chronology, p.165 — full quote as printed](quotes/nec-p165-caption-admiral-daala.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:54`
 
 > Unlike Grand Admiral Thrawn, throughout her reign of terror Daala had never claimed to be a great military leader or strategist.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala; Grand Admiral Thrawn — Daala no strategist. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala; Grand Admiral Thrawn — Daala no strategist: "Unlike Grand Admiral Thrawn, throughout her reign of terror Daala had never claimed to be a great military leader or strategist." Source: The New Essential Chronology, p.166
-![Quote image: The New Essential Chronology, p.166 — full quote as printed](quotes/nec-p166-daala-no-strategist.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:63`
 
 > Prepared to do anything necessary in the name of the Empire, Daala murdered thirteen of the strongest Imperial warlords, including Harrsk, Teradoc, Yzu, and Delvardus, and gathered their forces under her own banner.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala — Daala kills thirteen warlords. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala — Daala kills thirteen warlords: "Prepared to do anything necessary in the name of the Empire, Daala murdered thirteen of the strongest Imperial warlords, including Harrsk, Teradoc, Yzu, and Delvardus, and gathered their forces under her own banner." Source: The New Essential Chronology, p.169
-![Quote image: The New Essential Chronology, p.169 — full quote as printed](quotes/nec-p169-daala-kills-thirteen-warlords.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:92`
 
 > At last Callista sensed the potential for using the Force again, but her anger only allowed her to feel the cold tendrils of the dark side. Daala tricked her, however, blasting Callista with a stunner and fleeing as the gas giant Yavin dragged Knight Hammer down forever.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala — Callista stunned by Daala. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala — Callista stunned by Daala: "At last Callista sensed the potential for using the Force again, but her anger only allowed her to feel the cold tendrils of the dark side. Daala tricked her, however, blasting Callista with a stunner and fleeing as the gas giant Yavin dragged Knight Hammer down forever." Source: The New Essential Chronology, p.171
-![Quote image: The New Essential Chronology, p.171 — full quote as printed](quotes/nec-p171-callista-stunned-by-daala.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:108`
 
 > She relinquished full command of all Imperial forces to Pellaeon in the hopes that he could lead the Empire better than she had.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala — Daala relinquishes command. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala — Daala relinquishes command: "She relinquished full command of all Imperial forces to Pellaeon in the hopes that he could lead the Empire better than she had." Source: The New Essential Chronology, p.173
-![Quote image: The New Essential Chronology, p.173 — full quote as printed](quotes/nec-p173-daala-relinquishes-command.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:120`
 
 > Daala had nothing but contempt for an Imperial who would ally himself with a schemer and a madman like Ashgad. Commanding her own warships, she defeated Getelles in the name of Imperial honor.
 — Source: Part Eight: The Return of the Jedi Knights; Admiral Daala — Daala defeats Getelles. POV: speaker not named in our notes.
 Note (our notes, around the quote): Admiral Daala — Daala defeats Getelles: "Daala had nothing but contempt for an Imperial who would ally himself with a schemer and a madman like Ashgad. Commanding her own warships, she defeated Getelles in the name of Imperial honor." Source: The New Essential Chronology, p.175
-![Quote image: The New Essential Chronology, p.175 — full quote as printed](quotes/nec-p175-daala-defeats-getelles.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:142`
 
 > In a shocking move, Daala's lead frigate rammed one of the CC-7700s, destroying it, and eliminating its projected mass shadow.
 — Source: Part Nine: Uprisings and Insurgencies; Admiral Daala — Daala rams a CC-7700.
 Note (our notes, around the quote): Admiral Daala — Daala rams a CC-7700: "In a shocking move, Daala's lead frigate rammed one of the CC-7700s, destroying it, and eliminating its projected mass shadow." Source: The New Essential Chronology, p.184
-![Quote image: The New Essential Chronology, p.184 — full quote as printed](quotes/nec-p184-daala-rams-a-cc-7700.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:86`
 
 > New Republic Intelligence was tempted to declare Daala killed in action, but it had learned from past experience never to presume an enemy's death—especially not hers.
 — Source: Part Nine: Uprisings and Insurgencies; Admiral Daala — never presume her death.
 Note (our notes, around the quote): Admiral Daala — never presume her death: "New Republic Intelligence was tempted to declare Daala killed in action, but it had learned from past experience never to presume an enemy's death—especially not hers." Source: The New Essential Chronology, p.185
-![Quote image: The New Essential Chronology, p.185 — full quote as printed](quotes/nec-p185-never-presume-her-death.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:93`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -436,7 +427,7 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/00-front-matter-int
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas paged1 (text copy `research_primary_jedi_academy_sourcebook_jas_paged1_txt_2e98b5e043`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas paged1 (text copy `research_primary_jedi_academy_sourcebook_jas_paged1_txt_2e98b5e043`).)
 Note (our notes, around the quote): Admiral Daala; Luke Skywalker; Exar Kun — Inside cover blurb: "While the New Republic is forced to combat Admiral Daala and her plan to destroy Coruscant, Luke Skywalker must battle something even more dangerous: the spirit of a Sith Lord who plans to enslave Luke's students and bend the galaxy to his will." Source: The Jedi Academy Sourcebook, inside front cover, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, inside front cover — full quote as printed](quotes/jas-pifc-inside-cover-blurb.jpg)
+![Quote image: The Jedi Academy Sourcebook, inside front cover — full quote as printed](../notes/materials/029-jedi-academy-sourcebook/quotes/jas-pifc-inside-cover-blurb.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/00-front-matter.md:16`
 
 > In Kyp’s view, Luke refuses to learn from that failure. To bring the new Jedi Knights to greater power, he should recognize new abilities, to make his Jedi Knights powerful enough to resist a purge like Vader's, Kyp believes that the pow- ers of the Sith, as revealed by Exar Kun, is the source of a greater power.
@@ -450,7 +441,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/00-front-matter.md:16`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron; Sun Crusher; Admiral Daala — Kyp Durron — the Sun Crusher rampage: "He destroys one of Daala's Star Destroyers, destroys Carida in a failed attempt to rescue his brother, and goes on to destroy a major Imperial depot in a peripheral Imperial Core system." Source: The Jedi Academy Sourcebook, p.36
-![Quote image: The Jedi Academy Sourcebook, p.36 — full quote as printed](quotes/jas-p36-kyp-durron-the-sun-crusher-rampage.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:93`
 
 > 4D, lightsaber 3D, pick pocket 3D+2, running 4D KNOWLEDGE 4D Alien species 5D, business 4D+2, cultures 4D+1, lan- guages 4D+1, planetary systems 4D+2, scholar: folklore 5D+2, scholar: Holocron 5D, scholar: Jedi history 6D, streetwise 5D+1, survival 4D+2, survival: Yavin Four 5D, value 5D+1 MECHANICAL 3D+1 Beast riding 4D, musical instrument operation: double viol 6D, repulsorlift operation 4D+2, sensors 4D, space transports 4D+1, swoop operation 4D PERCEPTION 4D Bargain 5D+1, con 5D, gambling 4D+2, persuasion 5D, persuasion: storytelling 6D+1, search 4D+2, sneak 5D STRENGTH 2D Brawling 3D, climbing/jumping 3D+1, swimming 4D TECHNICAL 2D Blaster repair 3D, computer programming/repair 3D, droid programming 3D+1, first aid 4D, lightsaber repair 3D, musical instrument repair: stringed instruments 4D +2 Special Abilities:
@@ -466,13 +456,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Cilghal; Admiral Daala — Ambassador Cilghal — the death-sight: "When Admiral Daala attacks Calamari, Cilghal reveals a unique Force-driven talent for predicting which combatants are about to die." Source: The Jedi Academy Sourcebook, p.40
-![Quote image: The Jedi Academy Sourcebook, p.40 — full quote as printed](quotes/jas-p40-ambassador-cilghal-the-death-sight.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:161`
 
 > As a cadet, she pushed herself to her physical and mental limits, and occasionally beyond. She excelled in every curriculum, and used her strategic skills to wipe out entire navies in wargames.
 — Source: Chapter Five: Forces of the Empire; Admiral Daala — Admiral Daala — as a cadet.
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — as a cadet: "As a cadet, she pushed herself to her physical and mental limits, and occasionally beyond. She excelled in every curriculum, and used her strategic skills to wipe out entire navies in wargames." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-as-a-cadet.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:51`
 
 > She soon developed a reputation as a bril- liant tactician, and might have gone on to an equally brilliant career in the fleet, but for one seemingly insurmountable problem — the anti- female prejudices present through every layer of the Imperial Navy, all the way up to the Emperor himself. Daala found herself in a dead- end career, watching less qualified men pass her by on their way to their own commands.
@@ -486,7 +474,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — Tarkin's protege: "She absorbed every lesson Tarkin taught her, and came to analyze every scenario and situation in light of how he might respond to it." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-tarkins-protege.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:53`
 
 > He trav- eled to Carida to find this brilliant new tactician and found Daala instead.
@@ -500,13 +487,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — rank: "He promoted her to admiral, making her one of the only females to reach that rank in the Imperial Navy." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-rank.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:55`
 
 > Daala soon learns that an aptitude for theory is no substitute for experience. Her inability to alter her plans to take into account the unexpected is instrumental in her eventual downfall.
 — Source: Chapter Five: Forces of the Empire; Admiral Daala — Admiral Daala — theory versus experience.
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — theory versus experience: "Daala soon learns that an aptitude for theory is no substitute for experience. Her inability to alter her plans to take into account the unexpected is instrumental in her eventual downfall." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-theory-versus-experience.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:57`
 
 > The news that the Empire lies broken, along with Tarkin and his mighty Death Star. shakes her to her core. She resolves to hit the New Republic as hard as she can, with her arsenal of experimental weapons.
@@ -518,13 +503,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala; Han Solo; Kyp Durron; Chewbacca; Sun Crusher — Admiral Daala — loss of the Sun Crusher: "Han Solo, Kyp, and Chewbacca escape with her prize superweapon, the Sun Crusher, and destroy the Hydra, one of her four Star Destroyers." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-loss-of-the-sun.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:59`
 
 > Her plan is tactically flawless, but it reveals her greatest weakness: her tendency to rely on Tarkin's strategies rather than her own instincts.
 — Source: Chapter Five: Forces of the Empire; Admiral Daala — Admiral Daala — Calamari.
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — Calamari: "Her plan is tactically flawless, but it reveals her greatest weakness: her tendency to rely on Tarkin's strategies rather than her own instincts." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-calamari.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:61`
 
 > Her plan works foratime, until she decides to hit the orbital dockyards at Calamari. Her plan is tactically flawless, but it reveals her greatest weakness: her tendency to rely on Tarkin’s strat- egies rather than her own instincts. She uses one of Tarkin's classic maneuvers which is rec- ognized by Ackbar, who is also familiar with Tarkin’'s tactics. He recognizes her feint for what it is, and counter-strikes in a brilliant move which results in the loss of Daala’s second de- stroyer, the Manticore.
@@ -538,7 +521,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — the Coruscant plan: "She resolves to strike at Coruscant itself, ramming the stripped-down Star Destroyer Basilisk into Imperial City at full speed, leveling buildings for thousands of kilometers, and causing drastic damage to the crust of the planet." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-the-coruscant-plan.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:63`
 
 > She uses one of Tarkin's classic maneuvers which is rec- ognized by Ackbar, who is also familiar with Tarkin’'s tactics. He recognizes her feint for what it is, and counter-strikes in a brilliant move which results in the loss of Daala’s second de- stroyer, the Manticore.
@@ -554,7 +536,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala; Kyp Durron; Sun Crusher — Admiral Daala — the Cauldron Nebula: "Kyp appears in the staging area piloting the Sun Crusher, and uses it to detonate the nebula her fleet is hiding in. She barely escapes, and the Basilisk is vaporized by the expanding explosion." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-the-cauldron-nebula.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:65`
 
 > She resolves to strike at Coruscant itself, ramming the stripped- down Star Destroyer Basilisk into Imperial City at full speed, leveling buildings for thousands of kilometers, and causing drastic damage to the crust of the planet.
@@ -570,13 +551,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala's Fleet (sidebar): "The four ships each have 60 turbolaser batteries, 60 ion cannons and 10 tractor beam projectors." Source: The Jedi Academy Sourcebook, p.57, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.57 — full quote as printed](quotes/jas-p57-admiral-daalas-fleet-sidebar.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:72`
 
 > The four capital ships represent an awesome concentration of firepower, and at the height of Imperial power were considered more than enough to handle any non-Imperial force which might stumble into the Maw.
 — Source: Chapter Five: Forces of the Empire; Admiral Daala — Admiral Daala's Fleet (sidebar) — firepower.
 Note (our notes, around the quote): Admiral Daala — Admiral Daala's Fleet (sidebar) — firepower: "The four capital ships represent an awesome concentration of firepower, and at the height of Imperial power were considered more than enough to handle any non-Imperial force which might stumble into the Maw." Source: The Jedi Academy Sourcebook, p.57, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.57 — full quote as printed](quotes/jas-p57-admiral-daalas-fleet-sidebar-firepower.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:74`
 
 > Atypical career soldier or navy man in the greater Imperial military changes jobs and is promoted several times in such a long pe- riod. The military men in the Maw face a unique situation; there is nowhere to be pro- moted to, from the top down.
@@ -590,7 +569,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — return to the Maw: "Daala returns to the Maw resolved to defend it to the death." Source: The Jedi Academy Sourcebook, p.57
-![Quote image: The Jedi Academy Sourcebook, p.57 — full quote as printed](quotes/jas-p57-admiral-daala-return-to-the-maw.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:76`
 
 > Daala and General Odosk are very con- cerned that though their men are as experi- enced as drills can make them, they have lost the edge that makes the difference between victory and defeat. Only actual combat will answer that question. gm Admiral Daala Type: Imperial Navy Officer DEXTERITY 2D+1 Blaster 5D, blaster: blaster pistol 6D+2, blaster artillery 4D, brawling parry 7D, dodge 6D, grenade 4D+1, melee combat 5D+2, melee parry 5D, missile weapons 4D+1 KNOWLEDGE 3D+1 Alien species 4D+2, bureaucracy 5D, bureaucracy: Impe- rial Navy 8D+2, bureaucracy: Maw installation: 10D, busi- ness 6D+2, cultures 6D, intimidation 8D +2, languages 7D, law enforcement: Imperial law 11D, planetary systems 6D+2, survival 5D, tactics 7D, tactics: capital ships 7D+2, tactics: fleets 8D+1, tactics: ground assault tactics 7D+1, tactics: starfighters 8D+2, value 8D, willpower 7D+2 MECHANICAL 3D+2 Astrogation 6D, capital ship gunnery 6D+2, capital ship piloting 6D+2, capital ship piloting: Imperial Star De- stroyer 9D, capital ship shields 7D, communications 7D+1, repulsorlift operation 4D+2, sensors 6D, space transports 5D+1, starfighter piloting 4D, starship gun- nery 4D+2, starship shields 4D+1, walker operation 4D === sp59 PERCEPTION 3D+1 Bargain 8D, command 6D+2, command: Imperial Navy officers 11D, command: Maw fleet personnel 8D+2, con 9D, hide 7D+2, investigation 8D, persuasion 8D, search 8D+2, sneak 7D STRENGTH 2D+1 Brawling 8D, climbing/jumping 6D+2, lifting 5D, stamina TECHNICAL 3D Computer programming/repair 10D+2, demolitions 5D, droid programming 7D, first aid 5D, security 8D Force Points: 3 Dark Side Points: 19 Character Points: 26 Move: 10 Equipment: Comlink, datapad Commander Kratas Commander Kratas is the captain of Admiral Daala’s flagship, the Gorgon.
@@ -599,7 +577,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — stat block, combat skills (RPG mechanics) — RPG mechanics (weaker source): "Blaster 5D, blaster: blaster pistol 6D+2, blaster artillery 4D, brawling parry 7D, dodge 6D," Source: The Jedi Academy Sourcebook, p.57, stat block
-![Quote image: The Jedi Academy Sourcebook, p.57 — full quote as printed](quotes/jas-p57-admiral-daala-stat-block-combat-skills.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:78`
 
 > Daala and General Odosk are very con- cerned that though their men are as experi- enced as drills can make them, they have lost the edge that makes the difference between victory and defeat. Only actual combat will answer that question. gm Admiral Daala Type: Imperial Navy Officer DEXTERITY 2D+1 Blaster 5D, blaster: blaster pistol 6D+2, blaster artillery 4D, brawling parry 7D, dodge 6D, grenade 4D+1, melee combat 5D+2, melee parry 5D, missile weapons 4D+1 KNOWLEDGE 3D+1 Alien species 4D+2, bureaucracy 5D, bureaucracy: Impe- rial Navy 8D+2, bureaucracy: Maw installation: 10D, busi- ness 6D+2, cultures 6D, intimidation 8D +2, languages 7D, law enforcement: Imperial law 11D, planetary systems 6D+2, survival 5D, tactics 7D, tactics: capital ships 7D+2, tactics: fleets 8D+1, tactics: ground assault tactics 7D+1, tactics: starfighters 8D+2, value 8D, willpower 7D+2 MECHANICAL 3D+2 Astrogation 6D, capital ship gunnery 6D+2, capital ship piloting 6D+2, capital ship piloting: Imperial Star De- stroyer 9D, capital ship shields 7D, communications 7D+1, repulsorlift operation 4D+2, sensors 6D, space transports 5D+1, starfighter piloting 4D, starship gun- nery 4D+2, starship shields 4D+1, walker operation 4D === sp59 PERCEPTION 3D+1 Bargain 8D, command 6D+2, command: Imperial Navy officers 11D, command: Maw fleet personnel 8D+2, con 9D, hide 7D+2, investigation 8D, persuasion 8D, search 8D+2, sneak 7D STRENGTH 2D+1 Brawling 8D, climbing/jumping 6D+2, lifting 5D, stamina TECHNICAL 3D Computer programming/repair 10D+2, demolitions 5D, droid programming 7D, first aid 5D, security 8D Force Points: 3 Dark Side Points: 19 Character Points: 26 Move: 10 Equipment: Comlink, datapad Commander Kratas Commander Kratas is the captain of Admiral Daala’s flagship, the Gorgon.
@@ -608,12 +585,10 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — stat block, tactics (RPG mechanics) — RPG mechanics (weaker source): "tactics: fleets 8D+1, tactics: ground assault tactics 7D+1, tactics: starfighters 8D+2," Source: The Jedi Academy Sourcebook, p.57, stat block
-![Quote image: The Jedi Academy Sourcebook, p.57 — full quote as printed](quotes/jas-p57-admiral-daala-stat-block-tactics-rpg.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:80`
 
 - Note (summary from our notes, not a quotation): Admiral Daala — Admiral Daala — stat block, Force and Dark Side Points (RPG mechanics) — RPG mechanics (weaker source): "Force Points: 3 Dark Side Points: 19" Source: The Jedi Academy Sourcebook, p.58, stat block
   — Source: Chapter Five: Forces of the Empire.
-![Quote image: The Jedi Academy Sourcebook, p.58 — full quote as printed](quotes/jas-p58-admiral-daala-stat-block-force-and.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:87`
 
 > Indeed, he volunteers to command a skeleton crew on a suicide run into the surface of Coruscant. Unfor- tunately for Mullinore, he is unable to carry out his final order, because his ship is destroyed in a Sun Crusher-induced explosion before Daala’s force can approach Coruscant.
@@ -622,7 +597,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Sun Crusher; Admiral Daala — Captain Mullinore — the Basilisk: "because his ship is destroyed in a Sun Crusher-induced explosion before Daala's force can approach Coruscant." Source: The Jedi Academy Sourcebook, p.59
-![Quote image: The Jedi Academy Sourcebook, p.59 — full quote as printed](quotes/jas-p59-captain-mullinore-the-basilisk.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:96`
 
 > From the very start, Tarkin stressed the need for a totally autonomous facility sealed off from all external influences. Because the Maw staff would be expected to produce working proto- types, often on a major scale, specialists in a wide variety of engineering and construction fields would have to be “acquired” in addition to the scientists and researchers, to allow the Maw teams to build their weapons without outside consultation or materials. These people, as well as the construction docks, foundries and a huge supply of raw materials, were also rounded up and transferred to the Maw.
@@ -643,7 +617,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas paged1 (text copy `research_primary_jedi_academy_sourcebook_jas_paged1_txt_2e98b5e043`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_paged1_txt`.)
 Note (our notes, around the quote): Admiral Daala — Maw Installation — the workers' fate: "Daala herself had recalibrated their navicomputers to deliver them to their dooms" Source: The Jedi Academy Sourcebook, p.65
-![Quote image: The Jedi Academy Sourcebook, p.65 — full quote as printed](quotes/jas-p65-maw-installation-the-workers-fate.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:26`
 
 > This —_ asteroid). allowed him to keep the location of Maw Instal- The Hub is the only asteroid with an internal lation secret even from the upper levels of the — docking baylarge enough to accommodate more government, Tarkin successfully kept knowl- — than two shuttles at a time. There are weapon edge of the installation from otherImperiallead- _ batteries scattered here and there on the sur- ers, having no desire to subject his pet project face of the Hub, though they are not seriously totheir political games and intrigues. He played intended to fend off invaders. The Star Destroy- afar more dangerous game by seeking to hide —_— ers are intended to provide defense should Maw the specifics of his project from the Emperor. Installation come under attack.
@@ -655,7 +628,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Admiral Daala — Maw Installation — secret from the Emperor: "Tarkin and Daala believed that Palpatine never did learn the location of Maw Installation." Source: The Jedi Academy Sourcebook, p.65
-![Quote image: The Jedi Academy Sourcebook, p.65 — full quote as printed](quotes/jas-p65-maw-installation-secret-from-the-emperor.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:28`
 
 > Some have argued that “Smugglers’ Alliance” is not the best name fora group trying to achieve legitimacy as an established organization. There are those in the SA who would agree, but other smuggler groups see the name as a tie to their past — and a suitable reminder not to be fully co-opted by any government, however benevo- lent.
@@ -675,7 +647,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Mara Jade Skywalker; Han Solo; Admiral Daala — Mara Jade — warning the New Republic: "She travels to Coruscant to warn the New Republic through Han Solo that Admiral Daala has been putting out feelers in the fringe, trying to hire spies and saboteurs." Source: The Jedi Academy Sourcebook, p.80
-![Quote image: The Jedi Academy Sourcebook, p.80 — full quote as printed](quotes/jas-p80-mara-jade-warning-the-new-republic.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/07-ch7-the-fringe.md:11`
 
 > After allowing Bdu to get off a message to the New Republic, Daala promptly destroys his ship.
@@ -687,7 +658,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/07-ch7-the-fringe.md:11`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — T'nun Bdu — Daala's message: "After allowing Bdu to get off a message to the New Republic, Daala promptly destroys his ship. Clearly, the Admiral intended to send a message of her own." Source: The Jedi Academy Sourcebook, p.83
-![Quote image: The Jedi Academy Sourcebook, p.83 — full quote as printed](quotes/jas-p83-tnun-bdu-daalas-message.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/07-ch7-the-fringe.md:42`
 
 > Because the planetary shield is down for much of Doole’s tenure, he places a great em- phasis on his defensive fleet. Ever since taking control of Kessel, he has insisted on using a large portion of his annual budget to build up his navy.
@@ -701,13 +671,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/07-ch7-the-fringe.md:42`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala; Moruth Doole — Doole's Defense Fleet (sidebar): "Alas, nearly 90 percent of his defense navy is lost in the clash with Daala's fleet, including all of the capital ships." Source: The Jedi Academy Sourcebook, p.88, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.88 — full quote as printed](quotes/jas-p88-dooles-defense-fleet-sidebar.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/08-ch8-kessel.md:30`
 
 > Ironically, Admiral Daala knocks many of them out during her attack on Kessel, not because she means to destroy Kessel's atmosphere-producing plants, but because she thinks them to be extensions of a Rebel base.
 — Source: Chapter Eight: Kessel; Admiral Daala — Atmosphere Towers — Daala's attack.
 Note (our notes, around the quote): Admiral Daala — Atmosphere Towers — Daala's attack: "Ironically, Admiral Daala knocks many of them out during her attack on Kessel, not because she means to destroy Kessel's atmosphere-producing plants, but because she thinks them to be extensions of a Rebel base." Source: The Jedi Academy Sourcebook, p.94
-![Quote image: The Jedi Academy Sourcebook, p.94 — full quote as printed](quotes/jas-p94-atmosphere-towers-daalas-attack.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/08-ch8-kessel.md:66`
 
 > Numerous starship space dock hangars orbit the planet, each serving as a central hub around which supply platforms hover, dotted with wink- ing red, yellow, and green lights which demar- cate landing pads and docking bays. In each dock can be seen the skeletal ribbing of a new spaceship, each the unique expression of its design and construction crew.
@@ -724,13 +692,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/08-ch8-kessel.md:66`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Admiral Daala; Admiral Ackbar — Mon Calamari Orbital Shipyards — the Startide: "the only ship to survive the attack of a year ago was the Startide, which is only a few months from completion when Admiral Ackbar sacrifices it to stave off Admiral Daala's attack on the shipyards." Source: The Jedi Academy Sourcebook, p.106
-![Quote image: The Jedi Academy Sourcebook, p.106 — full quote as printed](quotes/jas-p106-mon-calamari-orbital-shipyards-the-startide.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:43`
 
 > Unfortunately for the colonists, Admiral Daala intercepted a supply ship enroute to Dantooine, and decided to send a message to the New Republic by wiping out the fledgling colony.
 — Source: Chapter Ten: Planets; Admiral Daala — Dantooine — the Eol Sha colony wiped out.
 Note (our notes, around the quote): Admiral Daala — Dantooine — the Eol Sha colony wiped out: "Unfortunately for the colonists, Admiral Daala intercepted a supply ship enroute to Dantooine, and decided to send a message to the New Republic by wiping out the fledgling colony." Source: The Jedi Academy Sourcebook, p.111
-![Quote image: The Jedi Academy Sourcebook, p.111 — full quote as printed](quotes/jas-p111-dantooine-the-eol-sha-colony-wiped.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:76`
 
 > Wedge Antilles SS SS The Jedi Academy Sourcebook === sp112 en cr Chapter Ten: Planets headed up a resettlement force which drop- lifted an entire settlement of self-erecting living modules to a site not far from the old Alliance base, and sent the new colonists programming units and agricultural droids so they could es- tablish a viable colony right away. Soon after, New Republic engineers arrived to help restore the landing field and orbital traffic facilities at the abandoned Rebel base for use by the colo- nists.
@@ -746,13 +712,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:76`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Dantooine — no survivors: "There were no survivors, and nothing is left of the colony but scorched earth." Source: The Jedi Academy Sourcebook, p.111
-![Quote image: The Jedi Academy Sourcebook, p.111 — full quote as printed](quotes/jas-p111-dantooine-no-survivors.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:78`
 
 > Unhappily, it turns out that they would have lived longer on Eol Sha than their new world of Dantooine, where they become examples of Admiral Daala's cruelty and ambition.
 — Source: Chapter Ten: Planets; Admiral Daala — Eol Sha — the colonists' fate.
 Note (our notes, around the quote): Admiral Daala — Eol Sha — the colonists' fate: "Unhappily, it turns out that they would have lived longer on Eol Sha than their new world of Dantooine, where they become examples of Admiral Daala's cruelty and ambition." Source: The Jedi Academy Sourcebook, p.112
-![Quote image: The Jedi Academy Sourcebook, p.112 — full quote as printed](quotes/jas-p112-eol-sha-the-colonists-fate.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:89`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -762,31 +726,26 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/10-ch10-planets.md:89`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Admiral Daala: "Basilisk Commanded by Captain Mullinore, the Basilisk was one of Admiral Daala's four Star Destroyers." Source: The Complete Star Wars Encyclopedia, Vol. I, p.63
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.63 — full quote as printed](quotes/v1-p63-basilisk-commanded-by-captain-mullinore-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:299`
 
 > Four Victory-class Star Destroyers hooked up with Daala's warlords in the Deep Core, and two of the most advanced Star Destroyers, as well as the experimental weapons test bed EX-E chose to join Admiral Pellaeon's shrinking empire in the Outer Rim.
 — Source: scan pages 81–120; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Four Victory-class Star Destroyers hooked up with Daala's warlords in the Deep Core, and two of the most advanced Star Destroyers, as well as the experimental weapons test bed EX-E chose to join Admiral Pellaeon's shrinking empire in the Outer Rim." Source: The Complete Star Wars Encyclopedia, Vol. I, p.77
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.77 — full quote as printed](quotes/v1-p77-four-victory-class-star-destroyers-hooked.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:87`
 
 > Brusc, Captain The captain of the Star Destroyer Manticore, he served under the command of Admiral Daala.
 — Source: scan pages 81–120; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Brusc, Captain The captain of the Star Destroyer Manticore, he served under the command of Admiral Daala." Source: The Complete Star Wars Encyclopedia, Vol. I, p.95
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.95 — full quote as printed](quotes/v1-p95-brusc-captain-the-captain-of-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:239`
 
 > The gas clouds and electromagnetic radiation in the nebula made an ideal hiding place for Admiral Daala's Star Destroyers, until Jedi student Kyp Durron caused all seven stars to go nova through his use of the Empire's own secret superweapon, the Sun Crusher.
 — Source: scan pages 121–160; Admiral Daala; Kyp Durron; Sun Crusher (superweapon).
 Note (our notes, around the quote): Admiral Daala; Kyp Durron; Sun Crusher (superweapon): "The gas clouds and electromagnetic radiation in the nebula made an ideal hiding place for Admiral Daala's Star Destroyers, until Jedi student Kyp Durron caused all seven stars to go nova through his use of the Empire's own secret superweapon, the Sun Crusher." Source: The Complete Star Wars Encyclopedia, Vol. I, p.112
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.112 — full quote as printed](quotes/v1-p112-the-gas-clouds-and-electromagnetic-radiation.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:56`
 
 > It was Tarkin's influence that allowed Daala to ascend to the rank of admiral, and he placed her in command of a quartet of Imperial Star Destroyers patrolling the Outer Rim Territories.
 — Source: scan pages 161–200; Grand Moff Tarkin; Admiral Daala.
 Note (our notes, around the quote): Grand Moff Tarkin; Admiral Daala: "It was Tarkin's influence that allowed Daala to ascend to the rank of admiral, and he placed her in command of a quartet of Imperial Star Destroyers patrolling the Outer Rim Territories." Source: The Complete Star Wars Encyclopedia, Vol. I, p.159
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.159 — full quote as printed](quotes/v1-p159-it-was-tarkins-influence-that-allowed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:115`
 
 > Admiral Natasi Daala 1 59 I D'aAlln,Joveh Though Daala was versed in many strategic theories, her inexperience hampered her efforts. Using decade-old tactics at a battle over Mon Calamari, Daala was easily thwarted by Admiral Ackbar. Before long, her task force of four de­ stroyers was reduced to just her flagship, Gorgon. Defeated, shejoined the squabbling Imperial war­ lords holed up in the Deep Core Worlds. Seeing the inefficiencies of the Emperor's heirs in person again gave fuel to Daala's fiery temper. In disgust, she murdered most of the warlords, then consolidated command over the remaining Imperial military. With Gilad Pellaeon at her side, Daala took command of the Super Star Destroyer Knight Hammer and engaged in an ill-advised strike against Luke Skywalker's Jedi academy on Yavin 4. The battle ended poorly for Daala, with the Knight Hammer falling victim to sabotage. Broken, Daala abandoned her command to Pel­ laeon and fled to the remote world of Pedducis Chorios. She settled into civilian life, leading a group ofsettlers on the distant world. A year later, the inhumane tactics of Moff Getelles brought Daala out of retirement.
@@ -794,7 +753,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Admiral Daala; Luke Skywalker: "With Gilad Pellaeon at her side, Daala took command of the Super Star Destroyer Knight Hammer and engaged in an ill-advised strike against Luke Skywalker's Jedi academy on Yavin 4." Source: The Complete Star Wars Encyclopedia, Vol. I, p.160
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.160 — full quote as printed](quotes/v1-p160-with-gilad-pellaeon-at-her-side.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:124`
 
 > But his im­ Kyp Durron (left) wos instrumental in many heroic missions, such as killing a Sith-bioengineered leviathan on Corbos. patience and anger made him a target for the dark side in the form of the long-dead Sith Lord Exar Kun, whose still-strong spirit was trapped in a Yavin temple. Kyp started training in secret with Kun but believed he could control the dark side. Still, in an act ofvengeance, he removed the memoriesfromthe mind ofreformed Imperial weapons developer Qwi Xux. He then joined Exar Kun to raise a major Imperial weapon, the Sun Crusher, from its burial grounds in the heart of the gas giant Yavin. When Luke Skywalker tried to intervene, Kyp and Kun trapped Luke's spirit outside his body, placing the Jedi in a state near death. Kyp tracked down his most hated enemy, Admiral Daala, as she was about to attack Coruscant, and nearly destroyed her. Next, he tried to find his brother on Carida, but the rescue attempt failed when he accidentally incinerated his brother along with the planet. Later, as Kyp was about to destroy the Millennium Falcon with Han Solo and Lando Calrissian aboard, he was freed from Exar Kun's influence when the other Jedi trainees succeeded in destroying Kun's spirit. A recov- Kyp Durron ered Luke offered to continue Kyp's training if he forever renounced the dark side.
@@ -802,7 +760,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyp Durron; Admiral Daala: "Kyp tracked down his most hated enemy, Admiral Daala, as she was about to attack Coruscant, and nearly destroyed her." Source: The Complete Star Wars Encyclopedia, Vol. I, p.218
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.218 — full quote as printed](quotes/v1-p218-kyp-tracked-down-his-most-hated.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:256`
 
 > When Luke Skywalker tried to intervene, Kyp and Kun trapped Luke's spirit outside his body, placing the Jedi in a state near death. Kyp tracked down his most hated enemy, Admiral Daala, as she was about to attack Coruscant, and nearly destroyed her. Next, he tried to find his brother on Carida, but the rescue attempt failed when he accidentally incinerated his brother along with the planet. Later, as Kyp was about to destroy the Millennium Falcon with Han Solo and Lando Calrissian aboard, he was freed from Exar Kun's influence when the other Jedi trainees succeeded in destroying Kun's spirit. A recov- Kyp Durron ered Luke offered to continue Kyp's training if he forever renounced the dark side. On their way to destroy the Sun Crusher once and for all, Luke and Kyp ran into another battle with Admiral Daala. Kyp managed to destroy both the Sun Crusher and a prototype Death Star, barely escaping with his life. Kyp grappled with the guilt ofhis transgres­ sion for years, dedicating himself to the Jedi Order. He was instrumental in many heroic missions, and eventually grew to mentor sev­ eral younger Jedi Knights. His exploits became legends to the younger students, who admired Kyp for his bold actions.
@@ -810,7 +767,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Sun Crusher (superweapon); Luke Skywalker; Kyp Durron; Admiral Daala: "On their way to destroy the Sun Crusher once and for | all, Luke and Kyp ran into another battle with Admiral Daala." Source: The Complete Star Wars Encyclopedia, Vol. I, p.218
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.218 — full quote as printed](quotes/v1-p218-on-their-way-to-destroy-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:260`
 
 > Jaina Solo arrived on Mandalore asking for Fett's help in training her to defeat her brother Jacen, who by then had become Darth Caedus.
@@ -829,13 +785,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Admiral Daala: "Daala called Fett's small task force into the battle to secure the Destroyer Bloodfin." Source: The Complete Star Wars Encyclopedia, Vol. I, p.267
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.267 — full quote as printed](quotes/v1-p267-daala-called-fetts-small-task-force.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:25`
 
 > Gorgon (#) An Imperial Star Destroyer, it was Admiral Daala's flagship, the last of her remaining original Star Destroyers.
 — Source: scan pages 361–398; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Gorgon (#) An Imperial Star Destroyer, it was Admiral Daala's flagship, the last of her remaining original Star Destroyers." Source: The Complete Star Wars Encyclopedia, Vol. I, p.353
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.353 — full quote as printed](quotes/v1-p353-gorgon-an-imperial-star-destroyer-it.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:61`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -843,55 +797,46 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Hydra One of Admiral Daala's four Star Destroyers protecting the Maw Installation, it was demolished when Han Solo, Kyp Durron, and Qwi Xux escaped the secret facility in the Sun Crusher seven years after the Battle of Endor.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Admiral Daala; Han Solo; Kyp Durron; Qwi Xux; Sun Crusher (superweapon): "Hydra One of Admiral Daala's four Star Destroyers protecting the Maw Installation, it was demolished when Han Solo, Kyp Durron, and Qwi Xux escaped the secret facility in the Sun Crusher seven years after the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. II, p.69
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.69 — full quote as printed](quotes/v2-p69-hydra-one-of-admiral-daalas-four.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:248`
 
 > But when the two later warned of a possible imminent Imperial attack, the complacent Kaell 116 ignored them—much to the peril of the planet, which was nearly annihilated in the attack ordered by Admiral Natasi Daala.
 — Source: scan pages 161–200; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "But when the two later warned of a possible imminent Imperial attack, the complacent Kaell 116 ignored them—much to the peril of the planet, which was nearly annihilated in the attack ordered by Admiral Natasi Daala." Source: The Complete Star Wars Encyclopedia, Vol. II, p.191
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.191 — full quote as printed](quotes/v2-p191-but-when-the-two-later-warned.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:264`
 
 > Kessel's moon, which once held an Imperial garrison and Doole's ragtag defensive fleet (decimated in a battle with Admiral Daala's Star Destroyers), was destroyed by a Death Star prototype from Maw Installation.
 — Source: scan pages 201–240; Moruth Doole; Admiral Daala.
 Note (our notes, around the quote): Moruth Doole; Admiral Daala: "Kessel's moon, which once held an Imperial garrison and Doole's ragtag defensive fleet (decimated in a battle with Admiral Daala's Star Destroyers), was destroyed by a Death Star prototype from Maw Installation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.213
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.213 — full quote as printed](quotes/v2-p213-kessels-moon-which-once-held-an.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:192`
 
 > Kratas was one of the few members to survive a series of defeats suffered under Daala.
 — Source: scan pages 201–240; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Kratas was one of the few members to survive a series of defeats suffered under Daala." Source: The Complete Star Wars Encyclopedia, Vol. II, p.230
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.230 — full quote as printed](quotes/v2-p230-kratas-was-one-of-the-few.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:369`
 
 > The Manticore never completed its mission, however: It was destroyed when Admiral Ackbar recognized Daala's tactics as those of Tarkin.
 — Source: scan pages 281–320; Admiral Ackbar; Admiral Daala; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Admiral Daala; Grand Moff Tarkin: "The Manticore never completed its mission, however: It was destroyed when Admiral Ackbar recognized Daala's tactics as those of Tarkin." Source: The Complete Star Wars Encyclopedia, Vol. II, p.287
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.287 — full quote as printed](quotes/v2-p287-the-manticore-never-completed-its-mission.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:114`
 
 > She commandeered a TIE bomber and landed it on the Knight Hammer, quickly sabotaging the ship's complement of TIE bombers by detonating their payloads and ripping out the Super Star Destroyer's engines, She confronted Daala to try to kill her, allowing the dark side to wash over her.
 — Source: scan pages 321–360; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "She commandeered a TIE bomber and landed it on the Knight Hammer, quickly sabotaging the ship's complement of TIE bombers by detonating their payloads and ripping out the Super Star Destroyer's engines, She confronted Daala to try to kill her, allowing the dark side to wash over her." Source: The Complete Star Wars Encyclopedia, Vol. II, p.316
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.316 — full quote as printed](quotes/v2-p316-she-commandeered-a-tie-bomber-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:17`
 
 > Mullinore, Captain The Imperial captain of the Star Destroyer Basilisk, he was a classmate of Admiral Daala on Carida during the early years of the New Order.
 — Source: scan pages 321–360; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Mullinore, Captain The Imperial captain of the Star Destroyer Basilisk, he was a classmate of Admiral Daala on Carida during the early years of the New Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.342
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.342 — full quote as printed](quotes/v2-p342-mullinore-captain-the-imperial-captain-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:195`
 
 > Admiral Niathal and her faction of the Alliance then joined the Jedi Coalition and took part in the Second Battle of Roche alongside the Maw Irregular Fleet of Admiral Daala, but they were defeated and Niathal went missing in action.
 — Source: scan pages 361–400; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Admiral Niathal and her faction of the Alliance then joined the Jedi Coalition and took part in the Second Battle of Roche alongside the Maw Irregular Fleet of Admiral Daala, but they were defeated and Niathal went missing in action." Source: The Complete Star Wars Encyclopedia, Vol. II, p.378
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.378 — full quote as printed](quotes/v2-p378-admiral-niathal-and-her-faction-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:193`
 
 > Odosk's men secured T'nun Bdu's corvette and rigged it to explode after Bdu spread word of Daala's return.
 — Source: scan pages 401–440; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Odosk's men secured T'nun Bdu's corvette and rigged it to explode after Bdu spread word of Daala's return." Source: The Complete Star Wars Encyclopedia, Vol. II, p.404
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.404 — full quote as printed](quotes/v2-p404-odosks-men-secured-tnun-bdus-corvette.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:73`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -899,55 +844,46 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Daala was defeated, and Pellaeon stepped in to fill the power vacuum.
 — Source: scan pages 1–40; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Daala was defeated, and Pellaeon stepped in to fill the power vacuum." Source: The Complete Star Wars Encyclopedia, Vol. III, p.17
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.17 — full quote as printed](quotes/v3-p17-daala-was-defeated-and-pellaeon-stepped.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:170`
 
 > Reef Home One of the majestic Mon Calamarian cities that floated on water, it was destroyed in Admiral Daala's attack on Mon Calamari.
 — Source: scan pages 81–120; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Reef Home One of the majestic Mon Calamarian cities that floated on water, it was destroyed in Admiral Daala's attack on Mon Calamari." Source: The Complete Star Wars Encyclopedia, Vol. III, p.88
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.88 — full quote as printed](quotes/v3-p88-reef-home-one-of-the-majestic.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:125`
 
 > Still, he helped defeat the threats from Imperial Admiral Daala and her superweapons; discovered the spirit of a Jedi woman, Callista, trapped in a computer on an Imperial battle station, and saw her made human through a transfer of essences with an eminent scientist; and helped rescue Han and Leia's children from dark side practitioners.
 — Source: scan pages 161–200; Admiral Daala; Leia Organa Solo.
 Note (our notes, around the quote): Admiral Daala; Leia Organa Solo: "Still, he helped defeat the threats from Imperial Admiral Daala and her superweapons; discovered the spirit of a Jedi woman, Callista, trapped in a computer on an Imperial battle station, and saw her made human through a transfer of essences with an eminent scientist; and helped rescue Han and Leia's children from dark side practitioners." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-still-he-helped-defeat-the-threats.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:120`
 
 > Under Admiral Daala, a design team headed by the scientist Qwi Xux made many breakthroughs that led to the new Sun Crusher, Only slightly larger than a fighter, its resonance torpedoes were powerful enough to destroy a star.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Sun Crusher (superweapon); Admiral Daala; Qwi Xux — entry/section: Sun Crusher: "Under Admiral Daala, a design team headed by the scientist Qwi Xux made many breakthroughs that led to the new Sun Crusher, Only slightly larger than a fighter, its resonance torpedoes were powerful enough to destroy a star." Source: The Complete Star Wars Encyclopedia, Vol. III, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.197 — full quote as printed](quotes/v3-p197-under-admiral-daala-a-design-team.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:26`
 
 > He was constantly trying to win control of the remaining Imperial fleet from Supreme Warlord Harrsk, and used his crimson-colored fleet of Victory-class Star Destroyers to take out Harrsk's flagship, the Shockwave, during Harrsk's talks with Admiral Daala.
 — Source: scan pages 201–240; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "He was constantly trying to win control of the remaining Imperial fleet from Supreme Warlord Harrsk, and used his crimson-colored fleet of Victory-class Star Destroyers to take out Harrsk's flagship, the Shockwave, during Harrsk's talks with Admiral Daala." Source: The Complete Star Wars Encyclopedia, Vol. III, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.231 — full quote as printed](quotes/v3-p231-he-was-constantly-trying-to-win.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:326`
 
 > Vermel, Colonel Meizh An Imperial Navy officer who served under Admiral Pellaeon after the death of Grand Admiral Thrawn and the defeat of Admiral Daala.
 — Source: scan pages 281–320; Grand Admiral Thrawn; Admiral Daala.
 Note (our notes, around the quote): Grand Admiral Thrawn; Admiral Daala: "Vermel, Colonel Meizh An Imperial Navy officer who served under Admiral Pellaeon after the death of Grand Admiral Thrawn and the defeat of Admiral Daala." Source: The Complete Star Wars Encyclopedia, Vol. III, p.303
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.303 — full quote as printed](quotes/v3-p303-vermel-colonel-meizh-an-imperial-navy.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:236`
 
 > Vevut later served with the many Mandalorians who participated in the Second Battle of Fondor, where they were backup for Admiral Daala's Maw Irregular Fleet and recaptured the destroyer Bloodfin.
 — Source: scan pages 281–320; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Vevut later served with the many Mandalorians who participated in the Second Battle of Fondor, where they were backup for Admiral Daala's Maw Irregular Fleet and recaptured the destroyer Bloodfin." Source: The Complete Star Wars Encyclopedia, Vol. III, p.305
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.305 — full quote as printed](quotes/v3-p305-vevut-later-served-with-the-many.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:248`
 
 > One year later, following an intense battle at Yavin 4, Admiral Daala's Super Star Destroyer Knight Hammer plunged into Yavin's atmosphere and was destroyed.
 — Source: scan pages 321–360; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "One year later, following an intense battle at Yavin 4, Admiral Daala's Super Star Destroyer Knight Hammer plunged into Yavin's atmosphere and was destroyed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.350
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.350 — full quote as printed](quotes/v3-p350-one-year-later-following-an-intense.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:283`
 
 > After a long, destructive battle, Daala's forces were defeated and her Super Star Destroyer Knight Hammer was demolished.
 — Source: scan pages 321–360; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "After a long, destructive battle, Daala's forces were defeated and her Super Star Destroyer Knight Hammer was demolished." Source: The Complete Star Wars Encyclopedia, Vol. III, p.351
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.351 — full quote as printed](quotes/v3-p351-after-a-long-destructive-battle-daalas.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:296`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -955,7 +891,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > As the earliest students began to prove their worth against threats such as the Black Fleet Crisis and Admiral Daala and her Super Star Destroyer, Knight Hammer, new students petitioned Skywalker for instruction.
 — Source: Chapter One: History of the Jedi; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "As the earliest students began to prove their worth against threats such as the Black Fleet Crisis and Admiral Daala and her Super Star Destroyer, Knight Hammer, new students petitioned Skywalker for instruction." Source: Power of the Jedi Sourcebook, p.10
-![Quote image: Power of the Jedi Sourcebook, p.10 — full quote as printed](quotes/potj-p10-as-the-earliest-students-began-to.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:73`
 
 ## The New Essential Guide to Characters (2002)
@@ -963,31 +898,26 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:7
 > Leia Organa Solo convinced him of his responsibilities to the greater galaxy, and Ackbar reclaimed his New Republic rank just in time to defeat Admiral Daala.
 — Source: scan pages 1–30; Leia Organa Solo; Admiral Ackbar; Admiral Daala.
 Note (our notes, around the quote): Leia Organa Solo; Admiral Ackbar; Admiral Daala: "Leia Organa Solo convinced him of his responsibilities to the greater galaxy, and Ackbar reclaimed his New Republic rank just in time to defeat Admiral Daala." Source: The New Essential Guide to Characters, p.17
-![Quote image: The New Essential Guide to Characters, p.17 — full quote as printed](quotes/negc-p17-leia-organa-solo-convinced-him-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:85`
 
 > During Admiral Daala's assault on the academy, Callista single-handedly sabotaged the Super Star Destroyer Knight Hammer and boldly faced down Daala.
 — Source: scan pages 31–60; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "During Admiral Daala's assault on the academy, Callista single-handedly sabotaged the Super Star Destroyer Knight Hammer and boldly faced down Daala." Source: The New Essential Guide to Characters, p.38
-![Quote image: The New Essential Guide to Characters, p.38 — full quote as printed](quotes/negc-p38-during-admiral-daalas-assault-on-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:16`
 
 > Daala's four Star Destroyers waited at Maw Installation for eleven excruciating years, until at last an Imperial shuttle arrived from the outside.
 — Source: scan pages 31–60; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Daala's four Star Destroyers waited at Maw Installation for eleven excruciating years, until at last an Imperial shuttle arrived from the outside." Source: The New Essential Guide to Characters, p.48
-![Quote image: The New Essential Guide to Characters, p.48 — full quote as printed](quotes/negc-p48-daalas-four-star-destroyers-waited-at.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:80`
 
 > Daala struck at Dantooine and Mon Calamari, but lost two more Star Destroyers in the fierce fighting.
 — Source: scan pages 31–60; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "Daala struck at Dantooine and Mon Calamari, but lost two more Star Destroyers in the fierce fighting." Source: The New Essential Guide to Characters, p.49
-![Quote image: The New Essential Guide to Characters, p.49 — full quote as printed](quotes/negc-p49-daala-struck-at-dantooine-and-mon.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:89`
 
 > After Admiral Daala's first defeat, Mara entered into a partnership with Lando Calrissian for the administration of the spice mines of Kessel.
 — Source: scan pages 151–180; Admiral Daala; Mara Jade Skywalker; Lando Calrissian.
 Note (our notes, around the quote): Admiral Daala; Mara Jade Skywalker; Lando Calrissian: "After Admiral Daala's first defeat, Mara entered into a partnership with Lando Calrissian for the administration of the spice mines of Kessel." Source: The New Essential Guide to Characters, p.163
-![Quote image: The New Essential Guide to Characters, p.163 — full quote as printed](quotes/negc-p163-after-admiral-daalas-first-defeat-mara.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:61`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -997,7 +927,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Admiral Daala; Sun Crusher (superweapon): "For the best revenge-to ensure that Daala's evil was eradicated from the galaxy-Kyp used her own superweapon against her: the Sun Crusher, a ship capable of launching nova-triggering resonance torpedoes and destroying entire systems with one shot." Source: Dark Side Sourcebook, p.105
-![Quote image: Dark Side Sourcebook, p.105 — full quote as printed](quotes/dss-p105-for-the-best-revenge-to-ensure.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:320`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Power of the Jedi Sourcebook - The Planet of Twilight.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1015,13 +944,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Six years after Endor, the reborn Emperor brought destruction to Mon Calamari on a scale not seen since the reprisals that triggered the planet's uprising, as World Devastators slaughtered Mon Cal and Quarren cities. A year later, Admiral Daala raided the world with a small fleet of Star Destroyers, destroying the floating city of Reef Home.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Admiral Daala — entry/section: World Devastators and Daala's raid: "Six years after Endor, the reborn Emperor brought destruction to Mon Calamari on a scale not seen since the reprisals that triggered the planet's uprising, as World Devastators slaughtered Mon Cal and Quarren cities. A year later, Admiral Daala raided the world with a small fleet of Star Destroyers, destroying the floating city of Reef Home." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.98
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.98 — full quote as printed](quotes/d667-s98-six-years-after-endor-the-reborn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:282`
 
 > The damage inflicted upon the planet in the post-Endor era (first by the resurrected Emperor's World Devastators, then by Admiral Daala's Imperial fleet) widened the gap between the two populations.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Admiral Daala. POV: Admiral Daala.
 Note (our notes, around the quote): Admiral Daala: "The damage inflicted upon the planet in the post-Endor era (first by the resurrected Emperor's World Devastators, then by Admiral Daala's Imperial fleet) widened the gap between the two populations." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.98
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.98 — full quote as printed](quotes/d667-s98-the-damage-inflicted-upon-the-planet.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:286`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -1033,7 +960,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:30
 > Though various Imperial task forces arise to challenge the New Republic, including the cunning Grand Admiral Thrawn and the infamous Admiral Daala, their efforts ultimately fail, and the military leader of what's left of the Empire, Grand Admiral Pellaeon, sues for peace with the New Republic.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Grand Admiral Thrawn; Admiral Daala; Gilad Pellaeon — entry/section: Imperial task forces after Endor: "Though various Imperial task forces arise to challenge the New Republic, including the cunning Grand Admiral Thrawn and the infamous Admiral Daala, their efforts ultimately fail, and the military leader of what's left of the Empire, Grand Admiral Pellaeon, sues for peace with the New Republic." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115 — full quote as printed](quotes/d668-s115-though-various-imperial-task-forces-arise.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:306`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1045,7 +971,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > The Dantari are so few that the New Republic, like the Empire and the Old Republic before it, considers Dantooine an uninhabited world—though Dantooine has been colonized at least twice in the past. Jedi Master Vodo-Siosk Baas settled there four thousand years before the Battle of Yavin, and refugees from the volcanic world of Eol Sha made a new home on Dantooine seven years after Battle of Endor. In between, before the Battle of Yavin, Dantooine served as a base for the Rebel Alliance. The settlers from Eol Sha met an unfortunate end, utterly wiped out by Admiral Daala, the Imperial commander in charge of the Maw Cluster installation near Kessel. Curiously, the arrival of Daala’s forces was an event of unprecedented awe to the primitive Dantari, who began incorporating Imperial symbology into their own belief systems.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Vodo-Siosk Baas; Admiral Daala — entry/section: Dantari: Dantooine's Colonists.
 Note (our notes, around the quote): Vodo-Siosk Baas; Admiral Daala — entry/section: Dantari: Dantooine's Colonists: "The Dantari are so few that the New Republic, like the Empire and the Old Republic before it, considers Dantooine an uninhabited world—though Dantooine has been colonized at least twice in the past. Jedi Master Vodo-Siosk Baas settled there four thousand years before the Battle of Yavin, and refugees from the volcanic world of Eol Sha made a new home on Dantooine seven years after Battle of Endor. In between, before the Battle of Yavin, Dantooine served as a base for the Rebel Alliance. The settlers from Eol Sha met an unfortunate end, utterly wiped out by Admiral Daala, the Imperial commander in charge of the Maw Cluster installation near Kessel. Curiously, the arrival of Daala’s forces was an event of unprecedented awe to the primitive Dantari, who began incorporating Imperial symbology into their own belief systems." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.43
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.43 — full quote as printed](quotes/d673-s43-the-dantari-are-so-few-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:236`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1091,7 +1016,6 @@ Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:312`
 > The basic problem with Daala's outlook is that she, unlike the Star Wars readers, has no understanding of the Force. She knows it exists, but has no concept of what it really does.
 — Source: Star Wars Insider #116 (2010); Admiral Daala — entry/section: Allston on Daala and the Force.
 Note (our notes, around the quote): Admiral Daala — entry/section: Allston on Daala and the Force: ""The basic problem with Daala's outlook is that she, unlike the Star Wars readers, has no understanding of the Force. She knows it exists, but has no concept of what it really does." —Aaron Allston, Star Wars Insider 116, p. 70" Source: *Star Wars Insider #116* (2010), scan p.70
-![Quote image: *Star Wars Insider #116* (2010), scan p.70 — full quote as printed](quotes/ins116-s70-the-basic-problem-with-daalas-outlook.jpg)
 Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:365`
 
 ## Star Wars Insider #117 (2010)
@@ -1131,7 +1055,6 @@ Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:228`
 > I wanted somebody who was a little more of a loose cannon. I thought she was edgy, and dangerous, and a little bit unpredictable. And not the completely cool and analytical tactical genius.
 — Source: Star Wars Insider #147 (2014); Admiral Daala; Grand Admiral Thrawn — entry/section: Anderson on Daala.
 Note (our notes, around the quote): Admiral Daala; Grand Admiral Thrawn — entry/section: Anderson on Daala: ""I wanted somebody who was a little more of a loose cannon. I thought she was edgy, and dangerous, and a little bit unpredictable. And not the completely cool and analytical tactical genius." —Kevin J. Anderson, Star Wars Insider 147, p. 37" Source: *Star Wars Insider #147* (2014), scan p.37
-![Quote image: *Star Wars Insider #147* (2014), scan p.37 — full quote as printed](quotes/ins147-s37-i-wanted-somebody-who-was-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:230`
 
 ## Legacy of the Force, own full read (Betrayal, Revelation, Invincible)

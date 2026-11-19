@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Galen Marek — entry/section: Derlin, Galen: "He was survived by his son, Bren Derlin, who became an officer in the Rebel Alliance." Source: The Complete Star Wars Encyclopedia, Vol. I, p.185
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.185 — full quote as printed](quotes/v1-p185-he-was-survived-by-his-son.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:341`
 
 - Note (summary from our notes, not a quotation): Page contents: 912 words, 28 paragraphs | headings/entries: Galaxy-15; Galaxy Befuddled, A; Galaxy Chance; Galaxy Gladiator Federation; Galaxy Gun; Galaxy News Service; Galaxy Wanderer; Gale; Gale, Lord; Gale, Ratambo; Gale, Reina; Galen; Galentro Heavy Works; Galerha, Melik; Galey; GalFactorial; Gal'fian'deprisi
@@ -38,13 +37,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > Darth Vader's secret apprentice, Starkiller, faced Kazdan on Raxus Prime and defeated him.
 — Source: scan pages 81–120; Darth Vader (Anakin Skywalker); Galen Marek.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Galen Marek: "Darth Vader's secret apprentice, Starkiller, faced Kazdan on Raxus Prime and defeated him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.83
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.83 — full quote as printed](quotes/v3-p83-darth-vaders-secret-apprentice-starkiller-faced.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:90`
 
 > Capable of transporting Starkiller virtually anywhere in the galaxy, the starship's layout included a fully functional medical bay, crew quarters, a workshop, and a meditation chamber that could double as a training room.
 — Source: scan pages 81–120; Galen Marek. POV: Galen Marek.
 Note (our notes, around the quote): Galen Marek: "Capable of transporting Starkiller virtually anywhere in the galaxy, the starship's layout included a fully functional medical bay, crew quarters, a workshop, and a meditation chamber that could double as a training room." Source: The Complete Star Wars Encyclopedia, Vol. III, p.106
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.106 — full quote as printed](quotes/v3-p106-capable-of-transporting-starkiller-virtually-anywhere.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:247`
 
 - Note (summary from our notes, not a quotation): Page contents: 1196 words, 29 paragraphs | headings/entries: Stark Commercial Combine; Stark Hyperspace Conflict; Starkiller; Jedi.
@@ -54,19 +51,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > Galen's mother was killed a few years later while trying to protect a group of Wookiees from slavers; Galen's father, Kento, died soon after, trying to protect the boy from Darth Vader, who had tracked the Jedi to Kashyyyk.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Galen Marek; Kento Marek; Darth Vader (Anakin Skywalker) — entry/section: Starkiller: "Galen's mother was killed a few years later while trying to protect a group of Wookiees from slavers; Galen's father, Kento, died soon after, trying to protect the boy from Darth Vader, who had tracked the Jedi to Kashyyyk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.188
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.188 — full quote as printed](quotes/v3-p188-galens-mother-was-killed-a-few.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:375`
 
 > After Starkiller killed Jedi Council member Shaak Ti on Felucia, Darth Vader recalled him to the Executor, promising that they would at last confront the Emperor.
 — Source: scan pages 161–200; Galen Marek; Shaak Ti; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Galen Marek; Shaak Ti; Darth Vader (Anakin Skywalker): "After Starkiller killed Jedi Council member Shaak Ti on Felucia, Darth Vader recalled him to the Executor, promising that they would at last confront the Emperor." Source: The Complete Star Wars Encyclopedia, Vol. III, p.188
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.188 — full quote as printed](quotes/v3-p188-after-starkiller-killed-jedi-council-member.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:379`
 
 > Lightsabers clashed inside the Emperor's observation dome, but Starkiller was ultimately no match for the power of Darth Sidious.
 — Source: scan pages 161–200; Galen Marek; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Galen Marek; Palpatine (Darth Sidious): "Lightsabers clashed inside the Emperor's observation dome, but Starkiller was ultimately no match for the power of Darth Sidious." Source: The Complete Star Wars Encyclopedia, Vol. III, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.189 — full quote as printed](quotes/v3-p189-lightsabers-clashed-inside-the-emperors-observation.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:388`
 
 - Note (summary from our notes, not a quotation): Page contents: 943 words, 25 paragraphs | headings/entries: Torg, Galen; Tork, Admiral Mir; Torlin, Jor; Tornik; Torpil; Torr, Valsil; Torsyn, Ryle; Torve, Fynn; Toryaz Station; Tosche Station
@@ -83,7 +77,6 @@ Our notes: `notes/materials/037-sw-d20-folder/514-09-22-05-dark-soul.md:10`
 — Source: Living Force Campaign/Articles/Year 5/09:22:05 - Dark Soul.pdf [Star Wars; Galen Marek. POV: Galen Marek.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard dark soul by august and cynthia hahn pdf x.txt (text copy `MEGA_Sw_wizard_dark_soul_by_august_and_cynthia_hahn_pdf_x`).)
 Note (our notes, around the quote): Galen Marek: "The Starkiller had to be destroyed, and it had to be destroyed at this moment." Source: *09:22:05 - Dark Soul* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *09:22:05 - Dark Soul* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d514-s2-the-starkiller-had-to-be-destroyed.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/514-09-22-05-dark-soul.md:19`
 
 ## Living Force Campaign/Articles/Year 6/01:19:06 - 2 - Dark Hope.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -100,7 +93,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 
 - Note (summary from our notes, not a quotation): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Galaxy of Intrigue: "After Vader murders his father, Marek is taken by Vader to become the Sith Lord's secret apprentice under the name "Starkiller." Galen Marek aids the Wookiees as they resist the newly formed Empire, destroying the Empire's gigantic machine used to transport Wookiee slaves into space." Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.114
   — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi.
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d716-s114-after-vader-murders-his-father-marek.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-120.md:385`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -108,7 +100,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 > Many citizens come to bet on Starkiller in the arena, where dozens of duelists meet their deaths against the warrior.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Galen Marek. POV: Galen Marek.
 Note (our notes, around the quote): Galen Marek: "Many citizens come to bet on Starkiller in the arena, where dozens of duelists meet their deaths against the warrior." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.196
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.196 — full quote as printed](quotes/d718-s196-many-citizens-come-to-bet-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:131`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -120,7 +111,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > Starkiller's considerable ability with the Force leads Bail Organa and his allies to believe that he might be capable of succeeding.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Galen Marek. POV: Galen Marek.
 Note (our notes, around the quote): Galen Marek: "Starkiller's considerable ability with the Force leads Bail Organa and his allies to believe that he might be capable of succeeding." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.85
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.85 — full quote as printed](quotes/d722-s85-starkillers-considerable-ability-with-the-force.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-061-120.md:164`
 
 - Note (summary from our notes, not a quotation): Page contents: SpecForce Officer stat block (CL 7). Alliance Personalities intro (Mon Mothma, Bail Organa, Garm Bel Iblis, Starkiller covered in The Force Unleashed Campaign Guide). Admiral Ackbar (Tarkin's slave; freed by a Rebel attack; Shantipole Project created the B-wing; acquisition of Mon Calamari star cruisers). Art "Admiral Ackbar." (hand-read)
@@ -132,19 +122,16 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > By the time he reached adulthood, Vader's apprentice was among the most powerful Force-users in the galaxy thanks to the tutelage of his Sith Master.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: The Force Unleashed Campaign Guide (Saga): "By the time he reached adulthood, Vader's apprentice was among the most powerful Force-users in the galaxy thanks to the tutelage of his Sith Master." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187 — full quote as printed](quotes/d729-s187-by-the-time-he-reached-adulthood.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:55`
 
 > As a teenager, the apprentice was already more powerful than many Jedi Knights had been during the Clone Wars, and it was only Darth Vader's incredible power and skill that allowed him to defeat the boy in combat.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: The Force Unleashed Campaign Guide (Saga): "As a teenager, the apprentice was already more powerful than many Jedi Knights had been during the Clone Wars, and it was only Darth Vader's incredible power and skill that allowed him to defeat the boy in combat." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187 — full quote as printed](quotes/d729-s187-as-a-teenager-the-apprentice-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:57`
 
 > Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Galen Marek; Kazdan Paratus; Shaak Ti; Rahm Kota — entry/section: The Force Unleashed Campaign Guide (Saga): "Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187 — full quote as printed](quotes/d729-s187-operating-in-secret-vaders-apprentice-hunted.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:59`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)
@@ -152,14 +139,12 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > By the time the Secret Apprentice reached adulthood, Vader's training had made him one of the most powerful Forcewielders in the galaxy.
 — Source: Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan p.
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Saga Edition Web Articles: "By the time the Secret Apprentice reached adulthood, Vader's training had made him one of the most powerful Forcewielders in the galaxy." Source: *Web Articles* (SWRPG Saga Edition), scan p.323
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.323 — full quote as printed](quotes/d732-s323-by-the-time-the-secret-apprentice.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:231`
 
 > By the time the Secret Apprentice reached adulthood, Vader's training had made him one of the most powerful Forcewielders in the galaxy. After Order 66, Vader sent the Secret Apprentice on missions to destroy the last of the Jedi, and he became one the most lethal weapons Vader had at his disposal. (The roleplaying game statistics below represent Vader's protégé fairly early in his apprenticeship, before he manifests his true potential by unleashing the Force.)
 — Source: Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan p.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Saga Edition Web Articles: "After Order 66, Vader sent the Secret Apprentice on missions to destroy the last of the Jedi, and he became one the most lethal weapons Vader had at his disposal." Source: *Web Articles* (SWRPG Saga Edition), scan p.323
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.323 — full quote as printed](quotes/d732-s323-after-order-66-vader-sent-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:233`
 
 ## Star Wars Insider #82 (2005)
@@ -171,7 +156,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:78`
 > I started with Anakin Starkiller and his two kids, then I got to a draft that's kind of what we know now, but it was 200 pages. Then that became three films. I never thought I'd go back and do the original stories, regardless of what the press says or what's out there. But then the necessary film technology came along and I came to grips with being known forever as George 'Star Wars' Lucas.
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Luke Skywalker — entry/section: Anakin Starkiller and the serial: ""There was originally to be one film. I wanted it to be Episode IV of a serial (maybe out of 12 or something) that you would never see the first or last episodes of. That's what happened in the 1930s; you had trailers, a short cartoon, and then a cliffhanger. That serial style is what Star Wars is based on. "I started with Anakin Starkiller and his two kids, then I got to a draft that's kind of what we know now, but it was 200 pages. Then that became three films. I never thought I'd go back and do the original stories, regardless of what the press says or what's out there. But then the necessary film technology came along and I came to grips with being known forever as George 'Star Wars' Lucas." —George Lucas, Star Wars Insider 82, p. 13" Source: *Star Wars Insider #82* (2005), scan p.13
-![Quote image: *Star Wars Insider #82* (2005), scan p.13 — full quote as printed](quotes/ins082-s13-there-was-originally-to-be-one.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:82`
 
 ## Star Wars Insider #92 (2007)
@@ -201,19 +185,16 @@ Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:20`
 > The story that Haden and George [Lucas] came up with was a proper screenplay. Everything that took place in those scenes was dramatic and had character value, rather than just expositional value.
 — Source: Star Wars Insider #97 (2007); Galen Marek — entry/section: Proper screenplay.
 Note (our notes, around the quote): Galen Marek — entry/section: Proper screenplay: ""The story that Haden and George [Lucas] came up with was a proper screenplay. Everything that took place in those scenes was dramatic and had character value, rather than just expositional value." —Sam Witwer, Star Wars Insider 97, p. 25" Source: *Star Wars Insider #97* (2007), scan p.25
-![Quote image: *Star Wars Insider #97* (2007), scan p.25 — full quote as printed](quotes/ins097-s25-the-story-that-haden-and-george.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:203`
 
 > Haden wrote a character that has a lot of internal conflict. He's a dark-side character who was raised by Darth Vader, essentially. He never really had a chance to have any kind of childhood, or to come up with any moral values based on his own experiences. Everything was fed to him by Darth Vader.
 — Source: Star Wars Insider #97 (2007).
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Raised by Vader: ""Haden wrote a character that has a lot of internal conflict. He's a dark-side character who was raised by Darth Vader, essentially. He never really had a chance to have any kind of childhood, or to come up with any moral values based on his own experiences. Everything was fed to him by Darth Vader." —Sam Witwer, Star Wars Insider 97, p. 25" Source: *Star Wars Insider #97* (2007), scan p.25
-![Quote image: *Star Wars Insider #97* (2007), scan p.25 — full quote as printed](quotes/ins097-s25-haden-wrote-a-character-that-has.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:205`
 
 > The Secret Apprentice is this incredible warrior, but get him around a girl and he's just turns into a 12-year-old kid.
 — Source: Star Wars Insider #97 (2007); Galen Marek — entry/section: 12-year-old kid.
 Note (our notes, around the quote): Galen Marek — entry/section: 12-year-old kid: ""The Secret Apprentice is this incredible warrior, but get him around a girl and he's just turns into a 12-year-old kid." —Sam Witwer, Star Wars Insider 97, p. 27" Source: *Star Wars Insider #97* (2007), scan p.27
-![Quote image: *Star Wars Insider #97* (2007), scan p.27 — full quote as printed](quotes/ins097-s27-the-secret-apprentice-is-this-incredible.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:230`
 
 ## Star Wars Insider #100 (2008)
@@ -221,50 +202,42 @@ Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:230`
 > Capturing the mood and feel of an action-packed, but at the same time deeply character-based, computer game was tricky, but again I like nothing better than a challenge. And I like conflicted characters—people with torn minds, conflicting desires, murky pasts. This story was perfect for me, and the more I worked on it, the more I loved it. Finding ways to build up characters by showing rather than telling—particularly inward-focused, incommunicative types like teenage Sith apprentices—kept me awake some nights. It's an adventure, but it's also a character study. It's a romp through the darker side of the Force, but it's also a love story.
 — Source: Star Wars Insider #100 (2008).
 Note (our notes, around the quote): Galen Marek — entry/section: Sean Williams on writing The Force Unleashed: ""Capturing the mood and feel of an action-packed, but at the same time deeply character-based, computer game was tricky, but again I like nothing better than a challenge. And I like conflicted characters—people with torn minds, conflicting desires, murky pasts. This story was perfect for me, and the more I worked on it, the more I loved it. Finding ways to build up characters by showing rather than telling—particularly inward-focused, incommunicative types like teenage Sith apprentices—kept me awake some nights. It's an adventure, but it's also a character study. It's a romp through the darker side of the Force, but it's also a love story." —Sean Williams, Star Wars Insider 100, p. 68" Source: *Star Wars Insider #100* (2008), scan p.68
-![Quote image: *Star Wars Insider #100* (2008), scan p.68 — full quote as printed](quotes/ins100-s68-capturing-the-mood-and-feel-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:730`
 
 > There are only so many ways to say that the apprentice taps into the full power of the dark side and blows the crap out of something. My skills as a writer have really been put to the test!
 — Source: Star Wars Insider #100 (2008); Galen Marek — entry/section: Williams on the apprentice's power.
 Note (our notes, around the quote): Galen Marek — entry/section: Williams on the apprentice's power: ""There are only so many ways to say that the apprentice taps into the full power of the dark side and blows the crap out of something. My skills as a writer have really been put to the test!" —Sean Williams, Star Wars Insider 100, p. 69" Source: *Star Wars Insider #100* (2008), scan p.69
-![Quote image: *Star Wars Insider #100* (2008), scan p.69 — full quote as printed](quotes/ins100-s69-there-are-only-so-many-ways.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:742`
 
 > But over time his goals and motivations change. The Apprentice is joined on his journey by a fairly large cast, including Juno Eclipse, the Imperial pilot handpicked by Darth Vader to fly the character on his missions, and PROXY, the character's droid sidekick. Princess Leia and a few other known characters make key appearances as well, and of course Vader has a major role to play as the Apprentice's mentor and warped father figure.
 — Source: Star Wars Insider #100 (2008).
 Note (our notes, around the quote): Galen Marek; Juno Eclipse; PROXY (droid); Darth Vader (Anakin Skywalker) — entry/section: Blackman on the Apprentice's cast: ""But over time his goals and motivations change. The Apprentice is joined on his journey by a fairly large cast, including Juno Eclipse, the Imperial pilot handpicked by Darth Vader to fly the character on his missions, and PROXY, the character's droid sidekick. Princess Leia and a few other known characters make key appearances as well, and of course Vader has a major role to play as the Apprentice's mentor and warped father figure." —Haden Blackman, Star Wars Insider 100, p. 70" Source: *Star Wars Insider #100* (2008), scan p.70
-![Quote image: *Star Wars Insider #100* (2008), scan p.70 — full quote as printed](quotes/ins100-s70-but-over-time-his-goals-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:753`
 
 > George provided us with a wealth of feedback on the type of master Vader would be, giving us insight into Vader's secret desires and plans, his relationship with the Emperor, and the methods he'd use to motivate an apprentice. George also weighed in heavily on how we planned to use some of the other known characters, such as Leia, and encouraged us to invent new characters for key roles—a love interest, a sidekick, a mentor beyond Vader. Aside from a few minor points—we couldn't call the Apprentice 'Darth' for example—neither George nor Lucas Licensing put many restrictions on the scripts.
 — Source: Star Wars Insider #100 (2008).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious); Galen Marek — entry/section: Blackman on George Lucas's input: ""George provided us with a wealth of feedback on the type of master Vader would be, giving us insight into Vader's secret desires and plans, his relationship with the Emperor, and the methods he'd use to motivate an apprentice. George also weighed in heavily on how we planned to use some of the other known characters, such as Leia, and encouraged us to invent new characters for key roles—a love interest, a sidekick, a mentor beyond Vader. Aside from a few minor points—we couldn't call the Apprentice 'Darth' for example—neither George nor Lucas Licensing put many restrictions on the scripts." —Haden Blackman, Star Wars Insider 100, p. 70" Source: *Star Wars Insider #100* (2008), scan p.70
-![Quote image: *Star Wars Insider #100* (2008), scan p.70 — full quote as printed](quotes/ins100-s70-george-provided-us-with-a-wealth.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:755`
 
 > The graphic novel is an adaptation of the game, but told from the point of view of two different characters. Because of the medium, we get to spend more time in the characters' heads, and their perceptions of events are often different than what the game player might have experienced.
 — Source: Star Wars Insider #100 (2008); Galen Marek — entry/section: Blackman on graphic novel vs game.
 Note (our notes, around the quote): Galen Marek — entry/section: Blackman on graphic novel vs game: ""The graphic novel is an adaptation of the game, but told from the point of view of two different characters. Because of the medium, we get to spend more time in the characters' heads, and their perceptions of events are often different than what the game player might have experienced." —Haden Blackman, Star Wars Insider 100, p. 70" Source: *Star Wars Insider #100* (2008), scan p.70
-![Quote image: *Star Wars Insider #100* (2008), scan p.70 — full quote as printed](quotes/ins100-s70-the-graphic-novel-is-an-adaptation.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:757`
 
 > By playing the game, you get to experience the story from the Apprentice's point-of-view, firsthand. You get to wield his over-the-top Force powers and engage in battles that are just mentioned briefly in the graphic novel. By reading the graphic novel, you'll learn even more about the Apprentice, Juno, PROXY, and other characters, including Bail Organa. The original draft for the game script was over 100 pages long; not all of that made it into the game. In the interest of keeping the game moving along, we removed dozens of lines of dialogue and even entire scenes, much of which we were able to resurrect for the graphic novel.
 — Source: Star Wars Insider #100 (2008).
 Note (our notes, around the quote): Galen Marek; Juno Eclipse; PROXY (droid); Bail Organa — entry/section: Blackman on cut material: ""By playing the game, you get to experience the story from the Apprentice's point-of-view, firsthand. You get to wield his over-the-top Force powers and engage in battles that are just mentioned briefly in the graphic novel. By reading the graphic novel, you'll learn even more about the Apprentice, Juno, PROXY, and other characters, including Bail Organa. The original draft for the game script was over 100 pages long; not all of that made it into the game. In the interest of keeping the game moving along, we removed dozens of lines of dialogue and even entire scenes, much of which we were able to resurrect for the graphic novel." —Haden Blackman, Star Wars Insider 100, p. 70" Source: *Star Wars Insider #100* (2008), scan p.70
-![Quote image: *Star Wars Insider #100* (2008), scan p.70 — full quote as printed](quotes/ins100-s70-by-playing-the-game-you-get.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:759`
 
 > We wanted to focus on this concept of the Force unleashed. My directive to the team was to start with the Force push. I wanted a Force push that doesn't just knock enemies over, it sends them flying backwards, shattering stuff. Once we got that right with the concept art, that became the foundation for all our Force powers. Because the Apprentice was trained by Vader—who's got a very unique perspective because he was Anakin Skywalker and trained as a Jedi—he also has access to dark side powers. There are also a bunch of new powers as well that are extensive. Force repulse is a power that sends out a kinetic shock wave that destroys everything around you, sending guys flying.
 — Source: Star Wars Insider #100 (2008).
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Blackman on Force powers: ""We wanted to focus on this concept of the Force unleashed. My directive to the team was to start with the Force push. I wanted a Force push that doesn't just knock enemies over, it sends them flying backwards, shattering stuff. Once we got that right with the concept art, that became the foundation for all our Force powers. Because the Apprentice was trained by Vader—who's got a very unique perspective because he was Anakin Skywalker and trained as a Jedi—he also has access to dark side powers. There are also a bunch of new powers as well that are extensive. Force repulse is a power that sends out a kinetic shock wave that destroys everything around you, sending guys flying." —Haden Blackman, Star Wars Insider 100, p. 72" Source: *Star Wars Insider #100* (2008), scan p.72
-![Quote image: *Star Wars Insider #100* (2008), scan p.72 — full quote as printed](quotes/ins100-s72-we-wanted-to-focus-on-this.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:784`
 
 > The most interesting thing I found about the character was that while he's extremely powerful, and unstoppable, confident, and good at what he does, if you put in front of him a beautiful woman like Juno Eclipse... Well, this guy has been raised in darkness, so you get him around Juno he doesn't know how to talk to her. She's the first beautiful woman he's ever seen, so he turns into a 12-year-old kid. His emotional growth has been stunted at an early age. That was the fun thing about this character, there are so many different sides to him. Underneath this incredible warrior is this scared kid who's trying to figure out what he's supposed to be doing. That was definitely a lot of fun.
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #100 (2008).
 Note (our notes, around the quote): Galen Marek; Juno Eclipse — entry/section: Sam Witwer on the Apprentice and Juno: ""The most interesting thing I found about the character was that while he's extremely powerful, and unstoppable, confident, and good at what he does, if you put in front of him a beautiful woman like Juno Eclipse... Well, this guy has been raised in darkness, so you get him around Juno he doesn't know how to talk to her. She's the first beautiful woman he's ever seen, so he turns into a 12-year-old kid. His emotional growth has been stunted at an early age. That was the fun thing about this character, there are so many different sides to him. Underneath this incredible warrior is this scared kid who's trying to figure out what he's supposed to be doing. That was definitely a lot of fun." —Sam Witwer, Star Wars Insider 100, p. 73" Source: *Star Wars Insider #100* (2008), scan p.73
-![Quote image: *Star Wars Insider #100* (2008), scan p.73 — full quote as printed](quotes/ins100-s73-the-most-interesting-thing-i-found.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:791`
 
 ## Star Wars Insider #103 (2008)
@@ -290,13 +263,11 @@ Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:63`
 > We went out and focus-tested some of the concepts. Few of them really resonated, but the fact that you were this kind of over-the-top Force-wielder did. It wasn't really until we talked to George about the time period, that we started homing in on the notion that you would be Darth Vader's secret apprentice.
 — Source: Star Wars Insider #104 (2008).
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Blackman on the apprentice as a "superhero": ""Some of the germs for The Force Unleashed were certainly in the Wookiee concept: this idea that you were a superhero in the Star Wars universe," Blackman says. "We went out and focus-tested some of the concepts. Few of them really resonated, but the fact that you were this kind of over-the-top Force-wielder did. It wasn't really until we talked to George about the time period, that we started homing in on the notion that you would be Darth Vader's secret apprentice." —Haden Blackman, Star Wars Insider 104, p. 22" Source: *Star Wars Insider #104* (2008), scan p.22
-![Quote image: *Star Wars Insider #104* (2008), scan p.22 — full quote as printed](quotes/ins104-s22-some-of-the-germs-for-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:150`
 
 > The apprentice is breaking a pane of glass that's 20 feet tall, or crushing a giant Imperial walker, so we had to develop a system where we could have a lot of different, unique sounds play on certain levels of velocity and impact according to how metal bends and how wood breaks.
 — Source: Star Wars Insider #104 (2008); Galen Marek — entry/section: Collins on the apprentice's destruction.
 Note (our notes, around the quote): Galen Marek — entry/section: Collins on the apprentice's destruction: ""The apprentice is breaking a pane of glass that's 20 feet tall, or crushing a giant Imperial walker, so we had to develop a system where we could have a lot of different, unique sounds play on certain levels of velocity and impact according to how metal bends and how wood breaks." —David Collins, Star Wars Insider 104, p. 25" Source: *Star Wars Insider #104* (2008), scan p.25
-![Quote image: *Star Wars Insider #104* (2008), scan p.25 — full quote as printed](quotes/ins104-s25-the-apprentice-is-breaking-a-pane.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:175`
 
 ## Star Wars Insider #105 (2008)
@@ -314,7 +285,6 @@ Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:387`
 > Proxy's a very dangerous droid, who is programmed to kill the apprentice, but is all smiles while he's trying to do it. He doesn't understand death and it's this lethal versus loyal dichotomy that makes him unique and interesting. Star Wars fans have never seen what Sith training is really like. To see PROXY you get a glimpse of what it would be like to be raised in terror, because your best friend may try to kill you in your sleep. When he fails he says he's sorry, and when Vader's not there they're friends like kids in a playground.
 — Source: Star Wars Insider #106 (2009).
 Note (our notes, around the quote): PROXY (droid); Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: David W. Collins on PROXY: ""Proxy's a very dangerous droid, who is programmed to kill the apprentice, but is all smiles while he's trying to do it. He doesn't understand death and it's this lethal versus loyal dichotomy that makes him unique and interesting. Star Wars fans have never seen what Sith training is really like. To see PROXY you get a glimpse of what it would be like to be raised in terror, because your best friend may try to kill you in your sleep. When he fails he says he's sorry, and when Vader's not there they're friends like kids in a playground." —David W. Collins, Star Wars Insider 106, p. 19" Source: *Star Wars Insider #106* (2009), scan p.19
-![Quote image: *Star Wars Insider #106* (2009), scan p.19 — full quote as printed](quotes/ins106-s19-proxys-a-very-dangerous-droid-who.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:144`
 
 ## Star Wars Insider #111 (2009)
@@ -336,14 +306,12 @@ Our notes: `notes/materials/038-star-wars-insider/113-ins113.md:347`
 > This is a kid that was raised by Vader to be a Force wrecking ball—a killing machine working for the bad guys, even though he really wanted to be one of the good guys. Well, what if his quest for redemption failed? What if he became the most powerful Sith ever, even more powerful than Vader? What would happen to the Star Wars story as we know it?
 — Source: Star Wars Insider #113 (2009).
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Witwer on Sith Starkiller: Force wrecking ball, most powerful Sith ever: ""This is a kid that was raised by Vader to be a Force wrecking ball—a killing machine working for the bad guys, even though he really wanted to be one of the good guys. Well, what if his quest for redemption failed? What if he became the most powerful Sith ever, even more powerful than Vader? What would happen to the Star Wars story as we know it?" —Sam Witwer, Star Wars Insider 113, p. 52" Source: *Star Wars Insider #113* (2009), scan p.52
-![Quote image: *Star Wars Insider #113* (2009), scan p.52 — full quote as printed](quotes/ins113-s52-this-is-a-kid-that-was.jpg)
 Our notes: `notes/materials/038-star-wars-insider/113-ins113.md:349`
 
 > The thing with Starkiller is that he is now the Emperor's lapdog, and has lost everything he loved including any shred of his humanity. But his power is unprecedented! So his anger mixed with his unstoppable power means he's very dangerous... and a little insane!
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #113 (2009).
 Note (our notes, around the quote): Galen Marek; Palpatine (Darth Sidious) — entry/section: Witwer on Sith Starkiller: unprecedented power: ""The thing with Starkiller is that he is now the Emperor's lapdog, and has lost everything he loved including any shred of his humanity. But his power is unprecedented! So his anger mixed with his unstoppable power means he's very dangerous... and a little insane!" —Sam Witwer, Star Wars Insider 113, p. 53" Source: *Star Wars Insider #113* (2009), scan p.53
-![Quote image: *Star Wars Insider #113* (2009), scan p.53 — full quote as printed](quotes/ins113-s53-the-thing-with-starkiller-is-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/113-ins113.md:356`
 
 ## Star Wars Insider #115 (2010)
@@ -377,7 +345,6 @@ Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:80`
 > Certainly he is as lethal a combatant as he ever was—even more so—but in terms of being on an emotional steady ground, no.
 — Source: Star Wars Insider #118 (2010); Galen Marek — entry/section: Witwer on Starkiller's lethality.
 Note (our notes, around the quote): Galen Marek — entry/section: Witwer on Starkiller's lethality: ""Certainly he is as lethal a combatant as he ever was—even more so—but in terms of being on an emotional steady ground, no." —Sam Witwer, Star Wars Insider 118, p. 15" Source: *Star Wars Insider #118* (2010), scan p.15
-![Quote image: *Star Wars Insider #118* (2010), scan p.15 — full quote as printed](quotes/ins118-s15-certainly-he-is-as-lethal-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:82`
 
 > he's a badass with a lightsaber
@@ -393,19 +360,16 @@ Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:92`
 > This version of Starkiller is shrouded in mystery. He is an extremely powerful and primal Force-user.
 — Source: Star Wars Insider #118 (2010); Galen Marek — entry/section: Witwer on the new Starkiller.
 Note (our notes, around the quote): Galen Marek — entry/section: Witwer on the new Starkiller: ""This version of Starkiller is shrouded in mystery. He is an extremely powerful and primal Force-user." —Sam Witwer, Star Wars Insider 118, p. 17" Source: *Star Wars Insider #118* (2010), scan p.17
-![Quote image: *Star Wars Insider #118* (2010), scan p.17 — full quote as printed](quotes/ins118-s17-this-version-of-starkiller-is-shrouded.jpg)
 Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:94`
 
 > Vader and the Emperor have wiped out most of them, so it would be hard for Vader to go find an ex-Jedi or a Jedi-in-hiding and convert them to being his apprentice. If Vader finds another newborn you're talking another 18 years before that character is ready. Vader put all his eggs in one basket originally with Starkiller; he stole him away from Kashyyyk and trained him for 14 years or so.
 — Source: Star Wars Insider #118 (2010).
 Note (our notes, around the quote): Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Blackman on why Vader needs Starkiller: ""Vader and the Emperor have wiped out most of them, so it would be hard for Vader to go find an ex-Jedi or a Jedi-in-hiding and convert them to being his apprentice. If Vader finds another newborn you're talking another 18 years before that character is ready. Vader put all his eggs in one basket originally with Starkiller; he stole him away from Kashyyyk and trained him for 14 years or so." —Haden Blackman, Star Wars Insider 118, p. 17" Source: *Star Wars Insider #118* (2010), scan p.17
-![Quote image: *Star Wars Insider #118* (2010), scan p.17 — full quote as printed](quotes/ins118-s17-vader-and-the-emperor-have-wiped.jpg)
 Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:96`
 
 > At this point in his career Vader is still getting used to his power and influence. He isn't the Vader we see in The Empire Strikes Back; he isn't as cold and calculating. The apprentice is able to test his patience, and at times get to him.
 — Source: Star Wars Insider #118 (2010).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Galen Marek — entry/section: Witwer on Vader before his ultimate rise: ""At this point in his career Vader is still getting used to his power and influence. He isn't the Vader we see in The Empire Strikes Back; he isn't as cold and calculating. The apprentice is able to test his patience, and at times get to him." —Sam Witwer, Star Wars Insider 118, p. 17" Source: *Star Wars Insider #118* (2010), scan p.17
-![Quote image: *Star Wars Insider #118* (2010), scan p.17 — full quote as printed](quotes/ins118-s17-at-this-point-in-his-career.jpg)
 Our notes: `notes/materials/038-star-wars-insider/118-ins118.md:98`
 
 > this incredibly powerful warrior has no defense for
@@ -430,7 +394,6 @@ Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:135`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #120 (2010).
 Note (our notes, around the quote): Rahm Kota; Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Fredricksen on Starkiller defeating and blinding Kota: ""Kota is trying to lure Darth Vader out of hiding, and he encounters Starkiller. Kota says something to the effect of, "All those months of attacking Imperial establishments and Vader sends a boy?" It's, like, "C'mon... really?" Well, then that boy goes on to totally kick my ass—blinding me in the process—and that drives me to a spaceport near Bespin to drink away my sorrows." —Cully Fredricksen, Star Wars Insider 120, p. 26" Source: *Star Wars Insider #120* (2010), scan p.26
-![Quote image: *Star Wars Insider #120* (2010), scan p.26 — full quote as printed](quotes/ins120-s26-kota-is-trying-to-lure-darth.jpg)
 Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:137`
 
 - Note (summary from our notes, not a quotation): Page contents: TFU II interview: Fredricksen says Kota was raised a Jedi Knight with a narrow, war-focused view, softened by his bond with Starkiller; Cox on Juno's kiss before Starkiller drops into the Death Star. (hand-read)
@@ -440,7 +403,6 @@ Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:142`
 > Once I found out that Starkiller was coming back stronger, deadlier, and with more to lose than before, I knew I had to write it. His journey has become much more interesting.
 — Source: Star Wars Insider #120 (2010).
 Note (our notes, around the quote): Galen Marek — entry/section: Sean Williams on Starkiller's return in TFU II: ""Once I found out that Starkiller was coming back stronger, deadlier, and with more to lose than before, I knew I had to write it. His journey has become much more interesting." —Sean Williams, Star Wars Insider 120, p. 60" Source: *Star Wars Insider #120* (2010), scan p.60
-![Quote image: *Star Wars Insider #120* (2010), scan p.60 — full quote as printed](quotes/ins120-s60-once-i-found-out-that-starkiller.jpg)
 Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:311`
 
 - Note (summary from our notes, not a quotation): Page contents: Comics: TFU II comic (Haden Blackman) follows Boba Fett hunting Starkiller. (hand-read)
@@ -456,7 +418,6 @@ Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:331`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #120 (2010).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Galen Marek — entry/section: Blackman on why Vader brings Starkiller back: """At first we had to decide whether or not Vader would even try to bring him back," admits Blackman. "Ultimately we felt that Vader is stubborn and tries the same plots repeatedly even if they fail."" —Haden Blackman, Star Wars Insider 120, p. 65" Source: *Star Wars Insider #120* (2010), scan p.65
-![Quote image: *Star Wars Insider #120* (2010), scan p.65 — full quote as printed](quotes/ins120-s65-at-first-we-had-to-decide.jpg)
 Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:338`
 
 ## Star Wars Insider #121 (2010)

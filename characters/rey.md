@@ -64,7 +64,6 @@ Our notes: `notes/materials/037-sw-d20-folder/293-207-almas-sweet-almas-desert-c
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from playing Game Revised Core Living Force Campaign Adventures Among the Stars Year 2 207 Almas Sweet Almas Desert Cries (text copy `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_207_Almas_Sweet_Almas_Desert_Cries_pdf_cb38660416`).)
 (Fragment completed 2026-11-17: full sentence/passage matched word for word in the source text on file: `playing_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_207_Almas_Sweet_Almas_Desert_Cries_pdf_cb38660416`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Trevon Rey (feats): "Feats: Exotic Weapon Proficiency (lightsaber), Force-Sensitive, Iron Will, Weapon Finesse (Lightsaber), Weapon Focus (Lightsaber), Weapons Group Proficiency (blaster pistols, simple weapons) Force Feats: Alter, Control, Deflect Blasters, Knight Defense, Lightsaber Defense, Sense" Source: *207 - Almas, Sweet Almas - Desert Cries* (SWRPG d20 Revised Core), p.17
-![Quote image: *207 - Almas, Sweet Almas - Desert Cries* (SWRPG d20 Revised Core), p.17 — full quote as printed](quotes/d293-p17-feats-exotic-weapon-proficiency-lightsaber-force-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/293-207-almas-sweet-almas-desert-cries.md:185`
 
 ## The Lucasfilm Fan Club Magazine #21 (1994)
@@ -164,13 +163,11 @@ Our notes: `notes/materials/038-star-wars-insider/046-ins046.md:30`
 > He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books.
 — Source: Star Wars Insider #47 (1999); Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff).
 Note (our notes, around the quote): Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff): "He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books." Source: *Star Wars Insider #47* (1999), scan p.27
-![Quote image: *Star Wars Insider #47* (1999), scan p.27 — full quote as printed](quotes/ins047-s27-he-outran-a-fleet-of-bounty.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:144`
 
 > Luke is practically omnipotent, everybody's been kidnapped 500 times, and there's no danger for them—you don't ever really worry about them.
 — Source: Star Wars Insider #47 (1999).
 Note (our notes, around the quote): Luke Skywalker; Chewbacca; Han Solo — entry/section: "Why Chewie?" sidebar (Shelly Shapiro, Del Rey NJO editor): "Luke is practically omnipotent, everybody's been kidnapped 500 times, and there's no danger for them—you don't ever really worry about them." Source: *Star Wars Insider #47* (1999), scan p.28
-![Quote image: *Star Wars Insider #47* (1999), scan p.28 — full quote as printed](quotes/ins047-s28-luke-is-practically-omnipotent-everybodys-been.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:153`
 
 ## Star Wars Insider #50 (2000)
@@ -201,7 +198,6 @@ Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:180`
 > Darth Maul, Sith Lord apprentice and master of the double-edged lightsaber, is on a mission to kill a treacherous Neimoidian planning to sell information that could sabotage the sinister plans of Maul's master, Darth Sidious.
 — Source: Star Wars Insider #52 (2000).
 Note (our notes, around the quote): Darth Maul; Palpatine (Darth Sidious) — entry/section: Del Rey ad (Darth Maul: Shadow Hunter), printed p. 33: "Darth Maul, Sith Lord apprentice and master of the double-edged lightsaber, is on a mission to kill a treacherous Neimoidian planning to sell information that could sabotage the sinister plans of Maul's master, Darth Sidious." Source: *Star Wars Insider #52* (2000), scan p.33
-![Quote image: *Star Wars Insider #52* (2000), scan p.33 — full quote as printed](quotes/ins052-s33-darth-maul-sith-lord-apprentice-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:182`
 
 ## Star Wars Insider #53 (2001)
@@ -313,7 +309,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:542`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #77 (2004); Nate (ARC trooper) — entry/section: Independent hopes and dreams.
 Note (our notes, around the quote): Nate (ARC trooper) — entry/section: Independent hopes and dreams: ""I wanted to give one of those characters independent hopes and dreams and see what happened," says Steven Barnes of The Cestus Deception (Del Rey, $25.95). That character is CT-96/298, nicknamed "Nate," an ARC Trooper dispatched to Ord Cestus as part of a unit supporting Jedi Knights Obi-Wan Kenobi and Kit Fisto. —Steven Barnes, Star Wars Insider 77, p. 84" Source: *Star Wars Insider #77* (2004), scan p.84
-![Quote image: *Star Wars Insider #77* (2004), scan p.84 — full quote as printed](quotes/ins077-s84-i-wanted-to-give-one-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:544`
 
 ## Star Wars Insider #78 (2004)
@@ -436,13 +431,11 @@ Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:306`
 > I'd been speaking to Frank [Oz] about it on and off for two or three years before we did the movie. There was just no way we were going to do it without him. It was essential to have him there: Yoda would not be Yoda without Frank Oz.
 — Source: Star Wars Insider #109 (2009); Yoda — entry/section: McCallum: Yoda needs Frank Oz.
 Note (our notes, around the quote): Yoda — entry/section: McCallum: Yoda needs Frank Oz: ""I'd been speaking to Frank [Oz] about it on and off for two or three years before we did the movie. There was just no way we were going to do it without him. It was essential to have him there: Yoda would not be Yoda without Frank Oz." —Rick McCallum (The Making of The Phantom Menace, Del Rey, 1999), Star Wars Insider 109, p. 73" Source: *Star Wars Insider #109* (2009), scan p.73
-![Quote image: *Star Wars Insider #109* (2009), scan p.73 — full quote as printed](quotes/ins109-s73-id-been-speaking-to-frank-oz.jpg)
 Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:409`
 
 > Acting is acting, whether it is a human actor, a CG character, or a puppet. It's all the same. Most people think of Yoda as being real, because he is the height of puppet artistry. After Frank Oz did Empire, I tried to get him nominated for an Academy Award, but we heard back that puppetry wasn't an art. I think it's an art—and Yoda represented the highest level of that art.
 — Source: Star Wars Insider #109 (2009); Yoda — entry/section: Lucas: Yoda puppetry.
 Note (our notes, around the quote): Yoda — entry/section: Lucas: Yoda puppetry: ""Acting is acting, whether it is a human actor, a CG character, or a puppet. It's all the same. Most people think of Yoda as being real, because he is the height of puppet artistry. After Frank Oz did Empire, I tried to get him nominated for an Academy Award, but we heard back that puppetry wasn't an art. I think it's an art—and Yoda represented the highest level of that art." —George Lucas (The Making of The Phantom Menace, Del Rey, 1999), Star Wars Insider 109, p. 73" Source: *Star Wars Insider #109* (2009), scan p.73
-![Quote image: *Star Wars Insider #109* (2009), scan p.73 — full quote as printed](quotes/ins109-s73-acting-is-acting-whether-it-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:411`
 
 ## Star Wars Insider #112 (2009)

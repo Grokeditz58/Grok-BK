@@ -18,13 +18,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Few in the Order bonded with the gruff Kota, but none doubted his strong commitment to the Republic, his undoubting loyalty to the Jedi Order, or his legendary courage: He often volunteered for the Order's most dangerous missions and never abandoned those in need.
 — Source: scan pages 201–240; Rahm Kota — entry/section: Kota, Rahm.
 Note (our notes, around the quote): Rahm Kota — entry/section: Kota, Rahm: "Few in the Order bonded with the gruff Kota, but none doubted his strong commitment to the Republic, his undoubting loyalty to the Jedi Order, or his legendary courage: He often volunteered for the Order's most dangerous missions and never abandoned those in need." Source: The Complete Star Wars Encyclopedia, Vol. II, p.228
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.228 — full quote as printed](quotes/v2-p228-few-in-the-order-bonded-with.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:353`
 
 > His misgivings about the clones saved Kota's life | Kouhun when Order 66 was issued and most of his fellow Jedi were slain by their clone squadrons.
 — Source: scan pages 201–240; Rahm Kota — entry/section: Kota, Rahm.
 Note (our notes, around the quote): Rahm Kota — entry/section: Kota, Rahm: "His misgivings about the clones saved Kota's life | Kouhun when Order 66 was issued and most of his fellow Jedi were slain by their clone squadrons." Source: The Complete Star Wars Encyclopedia, Vol. II, p.228
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.228 — full quote as printed](quotes/v2-p228-his-misgivings-about-the-clones-saved.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:355`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -51,7 +49,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > KOTA’S MILITIA During the Clone Wars, one of the greatest generals among the Jedi was Master Rahm Kota.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Rahm Kota — entry/section: The Force Unleashed Campaign Guide (Saga).
 Note (our notes, around the quote): Rahm Kota — entry/section: The Force Unleashed Campaign Guide (Saga): "KOTA’S MILITIA During the Clone Wars, one of the greatest generals among the Jedi was Master Rahm Kota." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.79
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.79 — full quote as printed](quotes/d729-s79-kota-s-militia-during-the-clone.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-061-120.md:136`
 
 - Note (summary from our notes, not a quotation): Page contents: Kota's Militia: scale 10; criteria; criteria tables; Titles, Benefits, and Duties; ranks (Recruit, Private, Lieutenant, Captain, General). (hand-read)
@@ -71,7 +68,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Galen Marek; Kazdan Paratus; Shaak Ti; Rahm Kota — entry/section: The Force Unleashed Campaign Guide (Saga): "Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187 — full quote as printed](quotes/d729-s187-operating-in-secret-vaders-apprentice-hunted.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:59`
 
 - Note (summary from our notes, not a quotation): Page contents: Master Rahm Kota and stat block. Epigraph crop c729_218a.jpg. (hand-read)
@@ -150,7 +146,6 @@ Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:135`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #120 (2010).
 Note (our notes, around the quote): Rahm Kota; Galen Marek; Darth Vader (Anakin Skywalker) — entry/section: Fredricksen on Starkiller defeating and blinding Kota: ""Kota is trying to lure Darth Vader out of hiding, and he encounters Starkiller. Kota says something to the effect of, "All those months of attacking Imperial establishments and Vader sends a boy?" It's, like, "C'mon... really?" Well, then that boy goes on to totally kick my ass—blinding me in the process—and that drives me to a spaceport near Bespin to drink away my sorrows." —Cully Fredricksen, Star Wars Insider 120, p. 26" Source: *Star Wars Insider #120* (2010), scan p.26
-![Quote image: *Star Wars Insider #120* (2010), scan p.26 — full quote as printed](quotes/ins120-s26-kota-is-trying-to-lure-darth.jpg)
 Our notes: `notes/materials/038-star-wars-insider/120-ins120.md:137`
 
 - Note (summary from our notes, not a quotation): Page contents: TFU II interview: Fredricksen says Kota was raised a Jedi Knight with a narrow, war-focused view, softened by his bond with Starkiller; Cox on Juno's kiss before Starkiller drops into the Death Star. (hand-read)

@@ -45,7 +45,6 @@ Our notes: `notes/materials/038-star-wars-insider/084-ins084.md:194`
 > If you sharpen a knife to its limits, you run the risk of cutting your own hand. The knife has no choice but to be as sharp as you made it.
 — Source: Star Wars Insider #84 (2005); Kal Skirata — entry/section: Skirata on Order 66.
 Note (our notes, around the quote): Kal Skirata — entry/section: Skirata on Order 66: ""If you sharpen a knife to its limits, you run the risk of cutting your own hand. The knife has no choice but to be as sharp as you made it." —Kal Skirata, Star Wars Insider 84, p. 33" Source: *Star Wars Insider #84* (2005), scan p.33
-![Quote image: *Star Wars Insider #84* (2005), scan p.33 — full quote as printed](quotes/ins084-s33-if-you-sharpen-a-knife-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/084-ins084.md:196`
 
 ## Star Wars Insider #87 (2006)
@@ -57,7 +56,6 @@ Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:329`
 > Everyone knows that intel's about as reliable as a Weequay quay ball. But that doesn't mean it doesn't have its uses. Sometimes it's the lies and myths that tell you everything you need to know.
 — Source: Star Wars Insider #87 (2006); Kal Skirata — entry/section: Epigraph on intel.
 Note (our notes, around the quote): Kal Skirata — entry/section: Epigraph on intel: ""Everyone knows that intel's about as reliable as a Weequay quay ball. But that doesn't mean it doesn't have its uses. Sometimes it's the lies and myths that tell you everything you need to know." —Sergeant Kal Skirata, Star Wars Insider 87, p. 54" Source: *Star Wars Insider #87* (2006), scan p.54
-![Quote image: *Star Wars Insider #87* (2006), scan p.54 — full quote as printed](quotes/ins087-s54-everyone-knows-that-intels-about-as.jpg)
 Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:331`
 
 # Debate and forum claims (unverified)

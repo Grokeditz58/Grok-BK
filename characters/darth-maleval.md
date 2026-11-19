@@ -14,7 +14,6 @@
 > His injuries kept him out of the action when new recruit Anson Trask shot and killed Darth Krayt's personal liaison, Darth Maleval, after the Sith Lord demanded that Lieutenant Gil Cassel execute his own brother to prove his loyalty.
 — Source: scan pages 1–40; Darth Krayt. POV: Darth Krayt, about Darth Maleval.
 Note (our notes, around the quote): Darth Krayt: "His injuries kept him out of the action when new recruit Anson Trask shot and killed Darth Krayt's personal liaison, Darth Maleval, after the Sith Lord demanded that Lieutenant Gil Cassel execute his own brother to prove his loyalty." Source: The Complete Star Wars Encyclopedia, Vol. II, p.19
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.19 — full quote as printed](quotes/v2-p19-his-injuries-kept-him-out-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:168`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -27,21 +26,21 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 
 - Note (summary from our notes, not a quotation): Darth Maleval oversees the 407th's destruction of the Fel-loyal 908th. He takes joy in killing (p180). He murders the Cassels (p191) and survives a vibroknife in the back (p192). Rookie Anson Trask then shoots him in the head from behind with a blaster (p193). The official cover story says Maleval was "KILLED IN BATTLE".
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p180](009-legacy-book-1-panels/p180-maleval-kills-troopers-joy.jpg)
-![p191 vibroknife in the back](009-legacy-book-1-panels/p191-karr-stabs-maleval.jpg)
-![p192](009-legacy-book-1-panels/p192-maleval-survives-lightning-shot-in-head.jpg)
-![p193](009-legacy-book-1-panels/p193-maleval-dead-cover-story.jpg)
+![p180](../notes/materials/009-legacy-book-1-panels/p180-maleval-kills-troopers-joy.jpg)
+![p191 vibroknife in the back](../notes/materials/009-legacy-book-1-panels/p191-karr-stabs-maleval.jpg)
+![p192](../notes/materials/009-legacy-book-1-panels/p192-maleval-survives-lightning-shot-in-head.jpg)
+![p193](../notes/materials/009-legacy-book-1-panels/p193-maleval-dead-cover-story.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:57`
 
 > Trask captions (p180): "I'D HEARD OF WHAT THE SITH -- OR JEDI -- COULD DO. THIS WAS THE FIRST TIME I'D EVER SEEN IT MYSELF." · "...OR THE JOY THEY GAVE HIM." · (p184) "THERE WILL BE NO TRUCE. THERE WILL BE NO SURRENDER. I DON'T CARE HOW MANY DIE." · (p191) Karr: "YOU DIE WITH HIM, YOU SITH SON OF A BARVE!" · (p192) Maleval: "DO YOU THINK A LORD OF THE SITH DIES SO EASILY?!" · "THUS DIE ALL ENEMIES OF THE SITH!" · (p193) "LATER, THE HIGHER-UPS WERE TOLD THAT MALEVAL WAS KILLED IN BATTLE…" · Hondo Karr (to Trask): "GOOD SHOOTING, TROOPER." *(Corrected 2026-10-21: 009 had Harkas, but the balloon is Karr's.)*
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Darth Maleval (Noob, #4). p180 (#4 Noob)–p193 (#4 Noob)
-![p180](009-legacy-book-1-panels/p180-maleval-kills-troopers-joy.jpg)
-![p184](009-legacy-book-1-panels/p184-maleval-no-surrender-kill-you-all.jpg)
-![p191 vibroknife in the back](009-legacy-book-1-panels/p191-karr-stabs-maleval.jpg)
-![p192](009-legacy-book-1-panels/p192-maleval-survives-lightning-shot-in-head.jpg)
-![p193](009-legacy-book-1-panels/p193-maleval-dead-cover-story.jpg)
+![p180](../notes/materials/009-legacy-book-1-panels/p180-maleval-kills-troopers-joy.jpg)
+![p184](../notes/materials/009-legacy-book-1-panels/p184-maleval-no-surrender-kill-you-all.jpg)
+![p191 vibroknife in the back](../notes/materials/009-legacy-book-1-panels/p191-karr-stabs-maleval.jpg)
+![p192](../notes/materials/009-legacy-book-1-panels/p192-maleval-survives-lightning-shot-in-head.jpg)
+![p193](../notes/materials/009-legacy-book-1-panels/p193-maleval-dead-cover-story.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:783`
 
 - Note (summary from our notes, not a quotation): | 13 | Troopers vs Darth Maleval | Borosk, 137 | p191–193 (#4) | Maleval killed by a blaster to the back of the head | Knife wound first; distracted |
@@ -67,8 +66,8 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:126`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Bio.
 Label in our notes: The shock whip is (p63
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p63 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p063-also-used-by-the-sith-lord.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p63 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p063-also-used-by-the-sith-lord.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:395`
 
 - Note (summary from our notes, not a quotation): CL 13; Quarren Jedi 7/Sith apprentice 5/Sith Lord 1. Destiny 1; Force 6; Dark Side 16.
@@ -95,15 +94,15 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:402`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Counter-feat: Hondo Karr.
 Label in our notes: Counter-feat: Hondo Karr (p138
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p138 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p138 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:403`
 
-- Note (summary from our notes, not a quotation): ![p172 Darth Maleval CL 13](011-legacy-era-campaign-guide-panels/p172-darth-maleval-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p172 Darth Maleval CL 13](../notes/materials/011-legacy-era-campaign-guide-panels/p172-darth-maleval-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p172 Darth Maleval CL 13 — `p172-darth-maleval-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:406`
 
-- Note (summary from our notes, not a quotation): ![p138 Hondo Karr survives Maleval](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+- Note (summary from our notes, not a quotation): ![p138 Hondo Karr survives Maleval](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p138 Hondo Karr survives Maleval — `p138-hondo-karr-maleval.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:409`
@@ -117,21 +116,21 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1101`
 > DO YOU THINK A LORD OF THE SITH DIES SO EASILY?! *(p52–53)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Rookie stormtrooper Anson Trask joins Joker Squad of the 407th under Darth Maleval, who is sent to wipe out the Fel-loyal 908th on Borosk. Maleval saber-kills troopers and runs Force lightning through his whip (p41). He Force-throws Hondo Karr for objecting (p46). The squad loses Vax and Gistang and Harkas is maimed (p49–51). Maleval kills Lt. Gil Cassel and his brother Capt. Jared Cassel (p52). Karr stabs him in the back with a vibroknife, and Maleval shrugs it off: "DO YOU THINK A LORD OF THE SITH DIES SO EASILY?!" (p52–53). While he electrocutes Karr through the whip, blaster bolts hit his head from off-panel (p53). Karr to Trask: "GOOD SHOOTING, TROOPER." (p54). The report says Maleval was "KILLED IN BATTLE" (p54).
-![p41 Maleval: lightning through the whip](012-legacy-vol-2-shards-panels/p041-maleval-whip-lightning.jpg)
-![p46 Maleval throws Karr](012-legacy-vol-2-shards-panels/p046-maleval-force-throws-karr.jpg)
-![p52 Karr knifes Maleval](012-legacy-vol-2-shards-panels/p052-karr-knifes-maleval.jpg)
-![p53 Maleval survives the knife; bolts hit his head](012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
-![p54 Karr: "GOOD SHOOTING, TROOPER."](012-legacy-vol-2-shards-panels/p054-karr-good-shooting-trooper.jpg)
+![p41 Maleval: lightning through the whip](../notes/materials/012-legacy-vol-2-shards-panels/p041-maleval-whip-lightning.jpg)
+![p46 Maleval throws Karr](../notes/materials/012-legacy-vol-2-shards-panels/p046-maleval-force-throws-karr.jpg)
+![p52 Karr knifes Maleval](../notes/materials/012-legacy-vol-2-shards-panels/p052-karr-knifes-maleval.jpg)
+![p53 Maleval survives the knife; bolts hit his head](../notes/materials/012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
+![p54 Karr: "GOOD SHOOTING, TROOPER."](../notes/materials/012-legacy-vol-2-shards-panels/p054-karr-good-shooting-trooper.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:48`
 
 > Trask captions: "I'D HEARD OF WHAT THE SITH -- OR JEDI -- COULD DO. THIS WAS THE FIRST TIME I'D EVER SEEN IT MYSELF." · "I DON'T KNOW WHAT FRIGHTENED ME MORE -- THE MANY DIFFERENT WAYS HE FOUND TO KILL..." · "...OR THE JOY THEY GAVE HIM."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Battlefield killing; lightning through his shock whip. p41 (#4 Noob) [009 p180]
-![p41 Maleval: lightning through the whip](012-legacy-vol-2-shards-panels/p041-maleval-whip-lightning.jpg)
+![p41 Maleval: lightning through the whip](../notes/materials/012-legacy-vol-2-shards-panels/p041-maleval-whip-lightning.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:146`
 
-- Note (summary from our notes, not a quotation): ![p41 Maleval: lightning through the whip](012-legacy-vol-2-shards-panels/p041-maleval-whip-lightning.jpg)
+- Note (summary from our notes, not a quotation): ![p41 Maleval: lightning through the whip](../notes/materials/012-legacy-vol-2-shards-panels/p041-maleval-whip-lightning.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p41 — `p041-maleval-whip-lightning.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:149`
@@ -140,10 +139,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:149`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Force-throws Hondo Karr across a room. p45 (#4)–p46 (#4)
-![p46 Maleval throws Karr](012-legacy-vol-2-shards-panels/p046-maleval-force-throws-karr.jpg)
+![p46 Maleval throws Karr](../notes/materials/012-legacy-vol-2-shards-panels/p046-maleval-force-throws-karr.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:152`
 
-- Note (summary from our notes, not a quotation): ![p46 Maleval throws Karr](012-legacy-vol-2-shards-panels/p046-maleval-force-throws-karr.jpg)
+- Note (summary from our notes, not a quotation): ![p46 Maleval throws Karr](../notes/materials/012-legacy-vol-2-shards-panels/p046-maleval-force-throws-karr.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p46 — `p046-maleval-force-throws-karr.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:155`
@@ -152,22 +151,22 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:155`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 3. Survives a vibroknife in the back; dies to blaster bolts to the head. p52 (#4)–p54 (#4) [009 p191–193]
-![p52 Karr knifes Maleval](012-legacy-vol-2-shards-panels/p052-karr-knifes-maleval.jpg)
-![p53 Maleval survives the knife; bolts hit his head](012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
-![p54 Karr: "GOOD SHOOTING, TROOPER."](012-legacy-vol-2-shards-panels/p054-karr-good-shooting-trooper.jpg)
+![p52 Karr knifes Maleval](../notes/materials/012-legacy-vol-2-shards-panels/p052-karr-knifes-maleval.jpg)
+![p53 Maleval survives the knife; bolts hit his head](../notes/materials/012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
+![p54 Karr: "GOOD SHOOTING, TROOPER."](../notes/materials/012-legacy-vol-2-shards-panels/p054-karr-good-shooting-trooper.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:158`
 
-- Note (summary from our notes, not a quotation): ![p52 Karr knifes Maleval](012-legacy-vol-2-shards-panels/p052-karr-knifes-maleval.jpg)
+- Note (summary from our notes, not a quotation): ![p52 Karr knifes Maleval](../notes/materials/012-legacy-vol-2-shards-panels/p052-karr-knifes-maleval.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p52 — `p052-karr-knifes-maleval.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:161`
 
-- Note (summary from our notes, not a quotation): ![p53 Maleval survives the knife; bolts hit his head](012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
+- Note (summary from our notes, not a quotation): ![p53 Maleval survives the knife; bolts hit his head](../notes/materials/012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p53 — `p053-maleval-survives-headshot.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:164`
 
-- Note (summary from our notes, not a quotation): ![p54 Karr: "GOOD SHOOTING, TROOPER."](012-legacy-vol-2-shards-panels/p054-karr-good-shooting-trooper.jpg)
+- Note (summary from our notes, not a quotation): ![p54 Karr: "GOOD SHOOTING, TROOPER."](../notes/materials/012-legacy-vol-2-shards-panels/p054-karr-good-shooting-trooper.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p54 — `p054-karr-good-shooting-trooper.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:167`
@@ -176,7 +175,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:167`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Conditions: the shooter is off-panel. Several bolt streaks hit Maleval's head while he is busy electrocuting Karr through the whip (p53, last panel). Karr's line credits Trask. The Campaign Guide (011 p138) has "They open fire on the Sith Lord", plural.
-![p53 Maleval survives the knife; bolts hit his head](012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
+![p53 Maleval survives the knife; bolts hit his head](../notes/materials/012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:170`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): a low-tier Sith Lord: durable (shrugs off a knife), but blindsided by ordinary troopers. Campaign Guide: CL 13 (011).

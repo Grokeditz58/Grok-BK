@@ -14,12 +14,10 @@
 > Darth Ikoral, a Sith Lord with an unusually strong pureblooded lineage, was known for his hatred of aliens and even refused to tolerate the presence of alien slaves. With the Dark Council's permission, he eventually left Dromund Kaas to seek out other pureblooded Sith who might have escaped the Republic after the Great Hyperspace War.
 — Source: Species, technology, planets and the future; Darth Ikoral — Sith Pureblood.
 Note (our notes, around the quote): Darth Ikoral — Sith Pureblood: "Darth Ikoral, a Sith Lord with an unusually strong pureblooded lineage, was known for his hatred of aliens and even refused to tolerate the presence of alien slaves. With the Dark Council's permission, he eventually left Dromund Kaas to seek out other pureblooded Sith who might have escaped the Republic after the Great Hyperspace War." Source: The Old Republic Encyclopedia, p.256
-![Quote image: The Old Republic Encyclopedia, p.256 — full quote as printed](quotes/tore-p256-darth-ikoral-a-sith-lord-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:37`
 
 - Note (summary from our notes, not a quotation): Naga Sadow; Darth Vowrawn; Darth Ikoral — Sith Pureblood data box: "BIOLOGICAL TRAITS: Often Force-sensitive; may show more or fewer "pureblooded" features depending on lineage NOTABLE SITH PUREBLOODS: Darth Ikoral, Naga Sadow, Darth Vowrawn" Source: The Old Republic Encyclopedia, p.256
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.256 — full quote as printed](quotes/tore-p256-biological-traits-often-force-sensitive-may.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:39`
 
 # Debate and forum claims (unverified)

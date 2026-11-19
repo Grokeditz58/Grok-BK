@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > STAY OUT OF MY WAY – I'VE GOT A MISSION TO COMPLETE!
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Celeste Morne — entry/section: Pull quote (Celeste Morne). POV: speaker not named in our notes.
 Note (our notes, around the quote): Celeste Morne — entry/section: Pull quote (Celeste Morne): ""STAY OUT OF MY WAY – I'VE GOT A MISSION TO COMPLETE!" —CELESTE MORNE" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.32
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.32 — full quote as printed](quotes/d718-s32-stay-out-of-my-way-ive.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:222`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -36,7 +35,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:675`
 > But Celeste's been abandoned for thousands of years with the ghost of an ancient Sith for company. She's not really in a Q&A type of mood.
 — Source: Star Wars Insider #102 (2008); Celeste Morne — entry/section: Williams on Celeste.
 Note (our notes, around the quote): Celeste Morne — entry/section: Williams on Celeste: ""But Celeste's been abandoned for thousands of years with the ghost of an ancient Sith for company. She's not really in a Q&A type of mood." —Rob Williams, Star Wars Insider 102, p. 63" Source: *Star Wars Insider #102* (2008), scan p.63
-![Quote image: *Star Wars Insider #102* (2008), scan p.63 — full quote as printed](quotes/ins102-s63-but-celestes-been-abandoned-for-thousands.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:677`
 
 ## Star Wars Insider #105 (2008)
@@ -176,10 +174,10 @@ Our notes: `notes/materials/039-legacy-2006/legacy-31.md:27`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Celeste Morne (p97, VECTOR sidebar).
 Label in our notes: No stat block
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p97 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p97 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:718`
 
-- Note (summary from our notes, not a quotation): ![p97 VECTOR sidebar (Celeste Morne, Muur Talisman)](011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
+- Note (summary from our notes, not a quotation): ![p97 VECTOR sidebar (Celeste Morne, Muur Talisman)](../notes/materials/011-legacy-era-campaign-guide-panels/p097-vector-celeste-morne.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p97 VECTOR sidebar (Celeste Morne, Muur Talisman) — `p097-vector-celeste-morne.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:724`

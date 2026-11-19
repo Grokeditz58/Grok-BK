@@ -15,24 +15,20 @@
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Lord Hoth; Valenthyne Farfalla — Jedi champions of the dark age.
 Note (our notes, around the quote): Lord Hoth; Valenthyne Farfalla — Jedi champions of the dark age: "raised their own champions, such as the stalwart Lord Hoth and his Army of Light, the charismatic Kiel Charny, and Lord Farfalla" Source: The New Essential Chronology, p.26
-![Quote image: The New Essential Chronology, p.26 — full quote as printed](quotes/nec-p26-jedi-champions-of-the-dark-age.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:222`
 
 > Gathering all the Sith Lords on a mountaintop, Bane channeled their dark energies into a Force storm that aged the lush Ruusan landscape into dust and ash.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Darth Bane; Lord Kaan; Lord Hoth — Bane's Force storm at Ruusan: "Gathering all the Sith Lords on a mountaintop, Bane channeled their dark energies into a Force storm that aged the lush Ruusan landscape into dust and ash." Source: The New Essential Chronology, p.27
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-banes-force-storm-at-ruusan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:231`
 
 - Note (summary from our notes, not a quotation): Lord Kaan; Lord Hoth — thought bomb: "Kaan and his disciples hunkered in their underground chambers and used their powers to create a "thought bomb"—a volatile cauldron of seething Force energy." Source: The New Essential Chronology, p.27
   — Source: Part One: Tales of the Ancient Republic.
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-thought-bomb.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:233`
 
 > A furious explosion of energy annihilated nearly every member of both armies, sucking their disembodied spirits into an unbreakable state of equilibrium.
 — Source: Part One: Tales of the Ancient Republic; Lord Kaan; Lord Hoth — thought bomb detonation.
 Note (our notes, around the quote): Lord Kaan; Lord Hoth — thought bomb detonation: "A furious explosion of energy annihilated nearly every member of both armies, sucking their disembodied spirits into an unbreakable state of equilibrium." Source: The New Essential Chronology, p.27
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-thought-bomb-detonation.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:235`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -40,7 +36,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > Well known as a master strategist and motivator, Lord Hoth had managed to defeat Sith opponents several times before his assignment on Ruusan, always seeming to score lastminute victories against all odds.
 — Source: scan pages 41–80; Lord Hoth. POV: Lord Hoth.
 Note (our notes, around the quote): Lord Hoth: "Well known as a master strategist and motivator, Lord Hoth had managed to defeat Sith opponents several times before his assignment on Ruusan, always seeming to score lastminute victories against all odds." Source: The Complete Star Wars Encyclopedia, Vol. II, p.61
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.61 — full quote as printed](quotes/v2-p61-well-known-as-a-master-strategist.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:186`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -48,7 +43,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > Lord Kaan and his followers triggered the bomb against the armies of Lord Hoth, resulting in a furious explosion of energy that annihilated every last member of Hoth's Army of Light and Kaan's Brotherhood of Darkness.
 — Source: scan pages 241–280; Lord Kaan; Lord Hoth.
 Note (our notes, around the quote): Lord Kaan; Lord Hoth: "Lord Kaan and his followers triggered the bomb against the armies of Lord Hoth, resulting in a furious explosion of energy that annihilated every last member of Hoth's Army of Light and Kaan's Brotherhood of Darkness." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-lord-kaan-and-his-followers-triggered.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:41`
 
 ## Book of Sith: Secrets from the Dark Side (2012)
@@ -56,14 +50,12 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Kaan's third and final mistake came at Ruusan, a worthless world where he hoped to defeat Lord Hoth and the Jedi Army of Light.
 — Source: Secrets from the Dark Side (2012): Darth Bane: the Rule of Two; Lord Kaan; Lord Hoth.
 Note (our notes, around the quote): Lord Kaan; Lord Hoth: "Kaan's third and final mistake came at Ruusan, a worthless world where he hoped to defeat Lord Hoth and the Jedi Army of Light." Source: Book of Sith, scan p.68
-![Quote image: Book of Sith, scan p.68 — full quote as printed](quotes/bos-s68-kaans-third-and-final-mistake-came.jpg)
 Our notes: `notes/materials/036-book-of-sith/03-darth-bane.md:29`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
 
 - Note (summary from our notes, not a quotation): Lord Kaan — entry/section: Bane of the Sith: "The insidious "thought bomb" set off in a glorious suicidal gesture by Sith Lord Kaan had also obliterated all of the Jedi Knights under Lord Hoth's command." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.16
   — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,.
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.16 — full quote as printed](quotes/d052-s16-the-insidious-thought-bomb-set-off.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:87`; `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:89`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -77,18 +69,15 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > Many have sought the Valley of the Jedi, but few have found it. One was Lord Hoth's former apprentice Johun Othone, who set up vain shrines in the valley in honor of his beloved master. Another was the Sith Lord Darth Zannah, who returned to the valley years after abandoning her brother there during the Battle of Ruusan and engaged her sibling in a final deadly confrontation. The valley has had few visitors since, but two of the most recent were power-hungry individuals of the worst kind: the treacherous Dark Jedi Jerec, and an outcast from Luke's New Jedi Order, the reptilian Desann.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Lord Hoth; Darth Zannah; Jerec; Desann — entry/section: Seekers of the Valley: "Many have sought the Valley of the Jedi, but few have found it. One was Lord Hoth's former apprentice Johun Othone, who set up vain shrines in the valley in honor of his beloved master. Another was the Sith Lord Darth Zannah, who returned to the valley years after abandoning her brother there during the Battle of Ruusan and engaged her sibling in a final deadly confrontation. The valley has had few visitors since, but two of the most recent were power-hungry individuals of the worst kind: the treacherous Dark Jedi Jerec, and an outcast from Luke's New Jedi Order, the reptilian Desann." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-many-have-sought-the-valley-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:12`
 
 - Note (summary from our notes, not a quotation): Lord Kaan; Lord Hoth; Exar Kun; Kyle Katarn — entry/section: The Valley of the Jedi: "Sith Lord Kaan's Brotherhood of Darkness carved rooms within the valley, which were used to store their war resources -- everything from exotic weapons and technology to plain old food. The valley became the final resting place of Lord Hoth's Army of Light and Kaan's Brotherhood of Darkness when Kaan detonated a dark side "Thought Bomb," annihilating both armies and trapping their spirits in a Sith globe, similar to that used by the Dark Lord Exar Kun to trap the spirits of Massassi children. It would be a more than a thousand years before the Jedi Kyle Katarn would find and release them." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-sith-lord-kaans-brotherhood-of-darkness.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:54`
 
 > Bringing the fight to the home turf of the New Sith Empire, Lord Hoth's Jedi Army chased Lord Kaan's Sith Brotherhood from their home in the nearly impregnable region of space known as the Cloak of the Sith and waged battle across the galaxy, from Hoth to Dromund Kaas to Malrev IV, before ending up in the lush forests of Ruusan. Kaan's Thought Bomb then proceeded to destroy nearly everyone with any knowledge of Ruusan's coordinates. Time silenced the rest, and Ruusan became lost to the ages.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Lord Hoth; Lord Kaan — entry/section: The last New Sith War: "Bringing the fight to the home turf of the New Sith Empire, Lord Hoth's Jedi Army chased Lord Kaan's Sith Brotherhood from their home in the nearly impregnable region of space known as the Cloak of the Sith and waged battle across the galaxy, from Hoth to Dromund Kaas to Malrev IV, before ending up in the lush forests of Ruusan. Kaan's Thought Bomb then proceeded to destroy nearly everyone with any knowledge of Ruusan's coordinates. Time silenced the rest, and Ruusan became lost to the ages." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-bringing-the-fight-to-the-home.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:56`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -100,7 +89,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 > Set Harth began his training at the Jedi Academy on Coruscant more than 1,000 years before the Battle of Yavin. He was impetuous and hot-headed, preferring fighting to talking and scoffing at the non-violent teachings of the Jedi Academy. His Jedi Master, Aru-Wen, worked with the boy to soften these tendencies before his student was lost to the dark side. Before he could accomplish this, however, Aru-Wen left Coruscant to join Jedi Master Hoth’s Army of Light as they did battle with the dark forces of the Sith Lord Kaan. Set Harth was left behind to pursue his own twisted version of the Force. He did so without a Jedi Master at his side.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Set Harth; Lord Hoth; Lord Kaan — entry/section: Set Harth.
 Note (our notes, around the quote): Set Harth; Lord Hoth; Lord Kaan — entry/section: Set Harth: "Set Harth began his training at the Jedi Academy on Coruscant more than 1,000 years before the Battle of Yavin. He was impetuous and hot-headed, preferring fighting to talking and scoffing at the non-violent teachings of the Jedi Academy. His Jedi Master, Aru-Wen, worked with the boy to soften these tendencies before his student was lost to the dark side. Before he could accomplish this, however, Aru-Wen left Coruscant to join Jedi Master Hoth’s Army of Light as they did battle with the dark forces of the Sith Lord Kaan. Set Harth was left behind to pursue his own twisted version of the Force. He did so without a Jedi Master at his side." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.34
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.34 — full quote as printed](quotes/d672-s34-set-harth-began-his-training-at.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:201`
 
 ## Adventures/Dawn of Defiance/04 - Echoes of the Jedi.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -110,7 +98,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from rimary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 04 Echoes of the Jedi (text copy `rimary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_04_Echoes_of_the_Jedi_pdf_a29c93f76a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from rimary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 04 Echoes of the Jedi (text copy `rimary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_04_Echoes_of_the_Jedi_pdf_a29c93f76a`).)
 Note (our notes, around the quote): Darth Rivan; Lord Hoth; Lord Kaan — entry/section: Darth Rivan's Fate: "Caught in the eye of this unnatural tempest, Rivan was flung to a time and place far removed from Almas. He found himself on the planet Ruusan, caught in the War of Light and Dark between Lord Hoth's Army of Light and Lord Kaan's Brotherhood of Darkness. The Darkstaff left Rivan bereft of the Force, and when he encountered a Force-user of inconsequential power, the Dark Lord was easily dispatched." Source: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.39
-![Quote image: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.39 — full quote as printed](quotes/d706-s39-caught-in-the-eye-of-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/706-04-echoes-of-the-jedi.md:263`; `suspect-insight/respect-threads/thread-respect-the-draggulch-sith-2022.md:396`
 
 ## Star Wars Insider #61 (2002)

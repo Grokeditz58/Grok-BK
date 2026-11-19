@@ -21,7 +21,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; 4-LOM — entry/section: Droids!: LOM series.
 Note (our notes, around the quote): 4-LOM — entry/section: Droids!: LOM series: "LOMs became infamous after one unit stationed on a cruise liner went rogue, becoming the notorious bounty hunter 4-LOM, partner of Gand bounty hunter Zuckuss" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.50
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.50 — full quote as printed](quotes/d052-s50-loms-became-infamous-after-one-unit.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:289`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -51,7 +50,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:10`
 > One of the most surprising bounty hunters is the protocol droid 4-LOM. After becoming independent, 4-LOM explored the galaxy as an unusual broker of information. He eventually found employment from Jabba the Hutt. The crime lord saw promise in 4-LOM as a bounty hunter, so he upgraded the droid and introduced him to his partner Zuckuss.
 — Source: Characters/Miniatures/We Don't Need That Scum.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): 4-LOM; Jabba the Hutt; Zuckuss — entry/section: 4-LOM becomes a bounty hunter: "One of the most surprising bounty hunters is the protocol droid 4-LOM. After becoming independent, 4-LOM explored the galaxy as an unusual broker of information. He eventually found employment from Jabba the Hutt. The crime lord saw promise in 4-LOM as a bounty hunter, so he upgraded the droid and introduced him to his partner Zuckuss." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d115-s1-one-of-the-most-surprising-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:12`
 
 > Equipment: BlasTech DLT­20A blaster rifle, Mennotor DAS­430 electromagnetic projectile launcher with neural inhibitor darts (see below), flamethrower, claws, heavy battle armor, locked access, heuristic processor, improved sensor package, infrared vision, low­light vision, telescopic vision, 360­degree vision, motion sensors, sonic sensors, vocabulator, comlink, environmental compensation (acid, heat, cold, dust, water), rust inhibitor, assault starfighter (IG­2000). Skills: Astrogate +2, Computer Use +5, Demolitions +3, Disable Device +2, Gather Information +7, Intimidate +9, Knowledge (alien species) +3, Knowledge (streetwise) +4, Knowledge (systems) +4, Listen +5, Move Silently +8, Pilot +6, Profession (bounty hunter) +4, Read/Write Basic, Search +4, Sense Motive +3, Speak Basic, Spot +8, Survival +4. Feats: Ambidexterity, Armor Proficiency (light, medium, heavy), Starship Operations (starfighter), Track, Weapon Focus (blaster rifles), Weapon Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, slugthrowers, vibro weapons). Zuckuss The cold logic of the bounty hunter 4­LOM was a perfect match for the amazing intuition of Zuckuss. As a findsman, Zuckuss performs a mystical meditation that gives him an advantage in locating his target. Zuckuss is a member of a Gand subspecies that can be severely damaged by oxygen. If a breather is exposed to an oxygen environment, he must make a DC 18 Fortitude save. A successful save means the Gand is holding his breath, which he can do for 2 rounds for each point of Constitution.
@@ -59,7 +57,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Zuckuss; 4-LOM — entry/section: Zuckuss the findsman: "The cold logic of the bounty hunter 4-LOM was a perfect match for the amazing intuition of Zuckuss. As a findsman, Zuckuss performs a mystical meditation that gives him an advantage in locating his target." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d115-s3-the-cold-logic-of-the-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:46`
 
 ## Jedi Counselling/Jedi Counseling 51.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -77,7 +74,6 @@ Our notes: `notes/materials/037-sw-d20-folder/218-jedi-counseling-51.md:19`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from arch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 53 Backups (text copy `arch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_53_Backups_pdf_a86176dda7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from arch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 53 Backups (text copy `arch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_53_Backups_pdf_a86176dda7`).)
 Note (our notes, around the quote): 4-LOM; IG-88; C-3PX — entry/section: Experienced droids become independent: "This is just a rough guideline intended to be used as a house rule. Actually finding droids with more levels may be difficult, because many owners memory-wipe their droids fairly often. More importantly, droids with a lot of experience (in other words, more levels) are much more likely to be independent -- such as 4-LOM, IG-88, or C- 3PX -- and independent droids don't sell themselves. (However, they can be hired, just as you can hire an NPC bounty hunter.)" Source: *Jedi Counseling 53 - Backups* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 53 - Backups* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d220-s1-this-is-just-a-rough-guideline.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/220-jedi-counseling-53-backups.md:14`
 
 ## Jedi Counselling/Jedi Counseling 77.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -97,7 +93,6 @@ Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:52`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 81 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_81_pdf_33b70fd0f9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 81 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_81_pdf_33b70fd0f9`).)
 Note (our notes, around the quote): IG-88; 4-LOM — entry/section: IG-88, 4-LOM and the Gonks: illegal: "A: It's illegal: Your friend is reading the card wrong. Extra Attack gives that character one extra attack on top of his normal attacks when not moving, so someone with Double Attack (who can normally make two attacks when not moving) standing next to two Gonk Power Droids using Power Coupling on him (+1 Extra Attack for each) could make a total of four attacks in a single turn." Source: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.6
-![Quote image: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.6 — full quote as printed](quotes/d251-s6-a-its-illegal-your-friend-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:61`
 
 ## Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -109,7 +104,6 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > To make matters worse, an LOM droid, 4-LOM, went rogue and became a thief and bounty hunter.
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; 4-LOM — entry/section: 4-LOM goes rogue.
 Note (our notes, around the quote): 4-LOM — entry/section: 4-LOM goes rogue: "To make matters worse, an LOM droid, 4-LOM, went rogue and became a thief and bounty hunter." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.54
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.54 — full quote as printed](quotes/d663-s54-to-make-matters-worse-an-lom.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-001-060.md:289`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)
@@ -225,7 +219,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:301`
 > After discussing ideas with Kotobukiya, I create a general sculpt. Once the sculpt is balanced, I try to capture as much detail as I can by going back to the sketch. I try to be careful converting the 2-D parts into real 3-D parts. It all takes about a month, and 4-LOM's eyes took the longest. I'm not an artist, but a creative technician. I'd really like to model Han Solo.
 — Source: Star Wars Insider #99 (2008).
 Note (our notes, around the quote): 4-LOM; Han Solo — entry/section: Okui on sculpting 4-LOM: ""After discussing ideas with Kotobukiya, I create a general sculpt. Once the sculpt is balanced, I try to capture as much detail as I can by going back to the sketch. I try to be careful converting the 2-D parts into real 3-D parts. It all takes about a month, and 4-LOM's eyes took the longest. I'm not an artist, but a creative technician. I'd really like to model Han Solo." —Kohei Okui, Star Wars Insider 99, p. 34" Source: *Star Wars Insider #99* (2008), scan p.34
-![Quote image: *Star Wars Insider #99* (2008), scan p.34 — full quote as printed](quotes/ins099-s34-after-discussing-ideas-with-kotobukiya-i.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:303`
 
 ## Star Wars Insider #101 (2008)

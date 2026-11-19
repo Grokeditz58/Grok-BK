@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-10
 > You don't stand a chance without my help.”
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Macy Yakaro — entry/section: Race for the Tessent.
 Note (our notes, around the quote): Macy Yakaro — entry/section: Race for the Tessent: "You don't stand a chance without my help.”" Source: *Star Wars Gamer 09* (SWRPG d20), scan p.73
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.73 — full quote as printed](quotes/d058-s73-you-dont-stand-a-chance-without.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-104.md:111`
 
 # Debate and forum claims (unverified)

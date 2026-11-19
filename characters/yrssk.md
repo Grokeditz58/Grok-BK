@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-22
 > DON'T WORRY; THE REPUBLIC WON'T INTERFERE. I'VE GOT SOMEONE READY TO TAKE THE FALL.
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi; Yrssk — entry/section: Pull quote (Yrssk).
 Note (our notes, around the quote): Yrssk — entry/section: Pull quote (Yrssk): ""DON'T WORRY; THE REPUBLIC WON'T INTERFERE. I'VE GOT SOMEONE READY TO TAKE THE FALL." -YRSSK" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.191
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.191 — full quote as printed](quotes/d716-s191-dont-worry-the-republic-wont-interfere.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-226.md:94`
 
 - Note (summary from our notes, not a quotation): Page contents: Yrssk's plan; Part 1: Before the Storm; Missing Persons (Republic contact Ghurn's briefing; descriptions of Klieri and Yrssk). (hand-read)

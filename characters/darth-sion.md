@@ -275,7 +275,6 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:594`
 > The Jedi are saved from extinction when an exiled Jedi named Meetra Surik rises from obscurity to destroy the Sith triumvirate and paves the way for the Republic's recovery.
 — Source: Front matter and introduction.
 Note (our notes, around the quote): Meetra Surik; Darth Sion; Darth Nihilus; Kreia — Timeline 3,955 BBY, Sith Triumvirate: "The Jedi are saved from extinction when an exiled Jedi named Meetra Surik rises from obscurity to destroy the Sith triumvirate and paves the way for the Republic's recovery." Source: The Old Republic Encyclopedia, p.18
-![Quote image: The Old Republic Encyclopedia, p.18 — full quote as printed](quotes/tore-p18-the-jedi-are-saved-from-extinction.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:92`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -284,7 +283,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:92`
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Darth Sion; Kreia; Darth Nihilus; Meetra Surik — Sith Civil War.
 Note (our notes, around the quote): Darth Sion; Kreia; Darth Nihilus; Meetra Surik — Sith Civil War: "Darth Sion, Darth Kreia, Darth Traya, and Darth Nihilus were among the many to take advantage of the Republic's inability to safeguard its holdings" Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-sith-civil-war.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:206`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -292,25 +290,21 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > The Jedi Order was nearly destroyed, and the Sith were reduced to Darth Sion's ravaged body and a handful of Sith devotees.
 — Source: scan pages 121–160; Darth Sion. POV: Darth Sion.
 Note (our notes, around the quote): Darth Sion: "The Jedi Order was nearly destroyed, and the Sith were reduced to Darth Sion's ravaged body and a handful of Sith devotees." Source: The Complete Star Wars Encyclopedia, Vol. II, p.146
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.146 — full quote as printed](quotes/v2-p146-the-jedi-order-was-nearly-destroyed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:241`
 
 > After escaping Darth Sion at Peragus II and learning that five Jedi Masters had survived the Jedi Civil War, the Exile set out to locate them in an effort to begin rebuilding the Jedi Order.
 — Source: scan pages 121–160; Meetra Surik; Darth Sion — entry/section: Jedi Exile.
 Note (our notes, around the quote): Meetra Surik; Darth Sion — entry/section: Jedi Exile: "After escaping Darth Sion at Peragus II and learning that five Jedi Masters had survived the Jedi Civil War, the Exile set out to locate them in an effort to begin rebuilding the Jedi Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.148
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.148 — full quote as printed](quotes/v2-p148-after-escaping-darth-sion-at-peragus.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:259`
 
 > She set out to hunt them down, defeating Darth Nihilus at Telos and Darth Sion on Malachor V before confronting her teacher.
 — Source: scan pages 121–160; Meetra Surik; Darth Nihilus; Darth Sion — entry/section: Jedi Exile.
 Note (our notes, around the quote): Meetra Surik; Darth Nihilus; Darth Sion — entry/section: Jedi Exile: "She set out to hunt them down, defeating Darth Nihilus at Telos and Darth Sion on Malachor V before confronting her teacher." Source: The Complete Star Wars Encyclopedia, Vol. II, p.148
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.148 — full quote as printed](quotes/v2-p148-she-set-out-to-hunt-them.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:261`
 
 > Nihilus, Darth One of three Sith Lords, along with Darth Traya and Darth Sion, who survived the Jedi Civil Wars and fled to Malachor V nearly 4,000 years before the Galactic Civil War.
 — Source: scan pages 361–400; Darth Nihilus; Kreia; Darth Sion — entry/section: Nihilus, Darth.
 Note (our notes, around the quote): Darth Nihilus; Kreia; Darth Sion — entry/section: Nihilus, Darth: "Nihilus, Darth One of three Sith Lords, along with Darth Traya and Darth Sion, who survived the Jedi Civil Wars and fled to Malachor V nearly 4,000 years before the Galactic Civil War." Source: The Complete Star Wars Encyclopedia, Vol. II, p.380
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.380 — full quote as printed](quotes/v2-p380-nihilus-darth-one-of-three-sith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:215`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -322,13 +316,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > Sion was exceedingly difficult to kill, because his mastery over his own body lent him supernatural vitality.
 — Source: scan pages 121–160; Darth Sion — entry/section: Sion, Darth.
 Note (our notes, around the quote): Darth Sion — entry/section: Sion, Darth: "Sion was exceedingly difficult to kill, because his mastery over his own body lent him supernatural vitality." Source: The Complete Star Wars Encyclopedia, Vol. III, p.153
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.153 — full quote as printed](quotes/v3-p153-sion-was-exceedingly-difficult-to-kill.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:342`
 
 > Sion led a sect of Sith assassins sent to wipe out the Jedi Order.
 — Source: scan pages 121–160; Darth Sion — entry/section: Sion, Darth.
 Note (our notes, around the quote): Darth Sion — entry/section: Sion, Darth: "Sion led a sect of Sith assassins sent to wipe out the Jedi Order." Source: The Complete Star Wars Encyclopedia, Vol. III, p.153
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.153 — full quote as printed](quotes/v3-p153-sion-led-a-sect-of-sith.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:344`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -336,7 +328,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > 3,951 BBY: Under the guidance of a disguised Darth Traya, the Jedi Exile defeats Darth Sion and Darth Nihilus.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Kreia; Meetra Surik; Darth Sion; Darth Nihilus. POV: Darth Nihilus; about Darth Sion.
 Note (our notes, around the quote): Kreia; Meetra Surik; Darth Sion; Darth Nihilus: "3,951 BBY: Under the guidance of a disguised Darth Traya, the Jedi Exile defeats Darth Sion and Darth Nihilus." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d718-s114-3-951-bby-under-the-guidance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:358`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -344,13 +335,11 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > As the Sith squabble among themselves, fighting over the scraps of the Sith Empire, Darth Sion and Darth Nihilus engage in a campaign to wipe out the Jedi, with great success.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion; Darth Nihilus. POV: Darth Nihilus; about Darth Sion.
 Note (our notes, around the quote): Darth Sion; Darth Nihilus: "As the Sith squabble among themselves, fighting over the scraps of the Sith Empire, Darth Sion and Darth Nihilus engage in a campaign to wipe out the Jedi, with great success." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147 — full quote as printed](quotes/d718-s147-as-the-sith-squabble-among-themselves.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:283`
 
 > As Sion and Nihilus unwittingly aid her by carrying out a massive assassination campaign against the Jedi, Traya seeks the Jedi Exile, Revan's old general, who had been severed from the Force.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion; Darth Nihilus; Kreia; Meetra Surik; Revan. POV: Revan; about Darth Sion.
 Note (our notes, around the quote): Darth Sion; Darth Nihilus; Kreia; Meetra Surik; Revan: "As Sion and Nihilus unwittingly aid her by carrying out a massive assassination campaign against the Jedi, Traya seeks the Jedi Exile, Revan's old general, who had been severed from the Force." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d718-s159-as-sion-and-nihilus-unwittingly-aid.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:410`
 
 - Note (summary from our notes, not a quotation): Page contents: Darth Traya stats conclude; Darth Sion, Lord of Pain bio; caption "DARTH SION HAS VANQUISHED MANY JEDI FOES". (hand-read)
@@ -360,31 +349,26 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Surviving the Sith backstabbing following the Jedi Civil War, Sion’s abilities draw the eye of Revan's former master, the powerful Darth Traya.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Revan; Kreia; Darth Sion — entry/section: Knights of the Old Republic Campaign Guide (Saga): "Surviving the Sith backstabbing following the Jedi Civil War, Sion’s abilities draw the eye of Revan's former master, the powerful Darth Traya." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160 — full quote as printed](quotes/d718-s160-surviving-the-sith-backstabbing-following-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:429`
 
 > Inevitably, probability has its day and Sion is struck down.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion. POV: Darth Sion.
 Note (our notes, around the quote): Darth Sion: "Inevitably, probability has its day and Sion is struck down." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160 — full quote as printed](quotes/d718-s160-inevitably-probability-has-its-day-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:431`
 
 > And as he locks eyes with his attacker, Sion lets all his anger for being killed—all the hatred clotting his heart—explode.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion. POV: Darth Sion.
 Note (our notes, around the quote): Darth Sion: "And as he locks eyes with his attacker, Sion lets all his anger for being killed—all the hatred clotting his heart—explode." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160 — full quote as printed](quotes/d718-s160-and-as-he-locks-eyes-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:433`
 
 > Sion finds that keeping his decomposing flesh tethered together with dark side energy is inexplicably painful, and requires endless concentration on the rage that festers inside him—but immortality is immortality.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion. POV: Darth Sion.
 Note (our notes, around the quote): Darth Sion: "Sion finds that keeping his decomposing flesh tethered together with dark side energy is inexplicably painful, and requires endless concentration on the rage that festers inside him—but immortality is immortality." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160 — full quote as printed](quotes/d718-s160-sion-finds-that-keeping-his-decomposing.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:435`
 
 > It causes his intense hatred to flag, threatening his tenuous hold on life, so Sion decides to destroy the woman responsible for this weakness.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Sion. POV: Darth Sion.
 Note (our notes, around the quote): Darth Sion: "It causes his intense hatred to flag, threatening his tenuous hold on life, so Sion decides to destroy the woman responsible for this weakness." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.160 — full quote as printed](quotes/d718-s160-it-causes-his-intense-hatred-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:437`
 
 - Note (summary from our notes, not a quotation): Page contents: Darth Sion (Dark Wars) stats (Human soldier 7/Sith apprentice 7/Sith Lord 5, CL 19; Dark Healing Field, Improved Dark Healing, Severing Strike); Darth Nihilus, Lord of Hunger bio; Darth Nihilus (Dark Wars) stats begin (Human Dark Side Aberration soldier 7/Sith apprentice 7/Sith Lord 5, CL 19). (hand-read)
@@ -398,7 +382,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Darth Sion — entry/section: Saga Edition Web Articles: "Sion's body is broken, and he should be dead, but his hatred and powerful connection to the dark side keep his body intact." Source: *Web Articles* (SWRPG Saga Edition), scan p.17
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.17 — full quote as printed](quotes/d732-s17-sions-body-is-broken-and-he.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-001-060.md:131`
 
 > He's a Sith so vile that he channels his own anger through the Force to keep himself alive even though he should be dead. Thanks to his intense anger and pain, he literally holds his decaying body together through the dark side of the Force. Darth Sion's continued existence is best described as a story device, rather than as a specialized Force power that requires constant rolls to keep Sion whole. However, even though the character may believe that his ability to escape death is nearly infinite, it is actually limited by his Destiny Points in an unusual way. When taking a final hit that would normally kill him, he spends a Destiny Point to cause the attack to miss, and his story device background returns him to full hit points and the top of the condition track. Darth Sion cannot be defeated until his Destiny Points are exhausted. Once they are gone, he feels the loss of power, loses the will to fight, and begins to question his existence. From this point, he is susceptible to the Exile's attempts to persuade him to give up his life as a much-desired escape from his painful existence. Alternative Mechanics In their home games, some GMs might wish to use mechanics that emulate a story device or unusual power beyond what regular Force powers, feats, talents, and class abilities already provide.
@@ -406,7 +389,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-001-060.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Darth Sion — entry/section: Saga Edition Web Articles: "Darth Sion cannot be defeated until his Destiny Points are exhausted." Source: *Web Articles* (SWRPG Saga Edition), scan p.26
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.26 — full quote as printed](quotes/d732-s26-darth-sion-cannot-be-defeated-until.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-001-060.md:227`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)
@@ -424,7 +406,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:5
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Darth Sion — entry/section: Saga Edition Web Articles: "Darth Sion Few Sith Lords hold mastery over pain or hatred like Darth Sion, Lord of Pain." Source: *Web Articles* (SWRPG Saga Edition), scan p.297
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.297 — full quote as printed](quotes/d732-s297-darth-sion-few-sith-lords-hold.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:555`
 
 > In the Star Wars Miniatures Game, Darth Sion is powerful and resilient. He is a decent melee combatant with Double Attack and a +11 Attack score. His Defense score is a bit low for a character of his cost, but Lightsaber Duelist bolsters him significantly against lightsaber-wielding opponents. His cost is high, but with reason: Darth Sion's most significant ability is Eternal Hatred. When defeated, Sion may spend 2 Force to attempt to return to life -- with full Hit Points -- on a save of 6. And he can attempt this twice (if the first is successful), as long as he retains enough Force for each attempt. When it works, this is like bringing one 110-hit point character to a skirmish initially, then gaining one or two more in the form of reinforcements while the opposing squad gets weaker and weaker over the course of the battle.
@@ -432,7 +413,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:5
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Darth Sion — entry/section: Saga Edition Web Articles: "When defeated, Sion may spend 2 Force to attempt to return to life -- with full Hit Points -- on a save of 6." Source: *Web Articles* (SWRPG Saga Edition), scan p.297
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.297 — full quote as printed](quotes/d732-s297-when-defeated-sion-may-spend-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:557`
 
 ## Star Wars Insider #88 (2006)

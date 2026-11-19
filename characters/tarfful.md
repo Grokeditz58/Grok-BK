@@ -54,7 +54,6 @@ Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): Tarfful; Yoda — entry/section: Tarfful: "Long-time leader of the city, Tarfful assumed the role of commander when Kachirho came under siege by Separatist forces. An old friend of Yoda, Tarfful remained loyal to the diminutive Jedi Master after the clone troopers betrayed him, helping him to flee from Kashyyyk in a hidden escape pod." Source: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d140-s3-long-time-leader-of-the-city.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.md:46`
 
 - Note (summary from our notes, not a quotation): Page contents: Tarfful feats (Wrruushi Expertise/Mastery); Chewbacca of Kashyyyk bio and stats (scout 4/tech specialist 1); New Weapon: Kashyyyk Long-Gun (3d12, Str 15 to gain proficiency); About the Author (hand-read)
@@ -65,7 +64,6 @@ Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.
 — Source: Characters/Heroes of Revenge of the Sith.pdf [Star Wars Roleplaying Game; Tarfful — entry/section: Kashyyyk long-gun.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from esearch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Heroes of Revenge of the Sith (text copy `esearch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Heroes_of_Revenge_of_the_Sith_pdf_690c3048df`).)
 Note (our notes, around the quote): Tarfful — entry/section: Kashyyyk long-gun: "This weapon, devastating in stopping power, is used almost exclusively by the Wookiees of Kashyyyk. Its bronzium alloy barrel lacks sights or a scope, limiting it to relatively short-range fighting, much like a bowcaster. Because of the weapon's size, weight, and powerful recoil, you must have a Strength of 15 or greater to gain the Exotic Weapon Proficiency (long-gun) feat." Source: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.4
-![Quote image: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d140-s4-this-weapon-devastating-in-stopping-power.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.md:61`
 
 ## Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -76,7 +74,6 @@ Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:35`
 
 - Note (summary from our notes, not a quotation): Tarfful; Chewbacca — entry/section: Tarfful and Chewbacca of Kashyyyk count as Wookiees: "A: This requires actual errata because the text on the card would have to be changed in order to fix this. That being the case, the process is long and the new text has to jump through a bunch of hoops. Until that happens, though, I would recommend that you go with common sense and treat Tarfful and Chewbacca as "Wookiees" for all purposes." Source: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d236-s3-a-this-requires-actual-errata-because.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:45`
 
 ## Jedi Counselling/Jedi Counseling 79.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -93,7 +90,6 @@ Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:38`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 Note (our notes, around the quote): A: The real question here is, "Does flavor text count for rules purposes?" The answer is no, flavor text does not count. (It didn't count for Chewbacca or Tarfful, after all, and that's why we had to issue errata to identify them as Wookiees.) Thus, Nien Nunb does not count as a pilot unless the designers decide to change it with errata." Source: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d248-s3-q-is-nien-nunb-supposed-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:39`
 
 ## Sourcebooks/Revenge of the Sith Collection.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

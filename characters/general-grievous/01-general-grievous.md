@@ -1848,25 +1848,22 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:4902`
 > In private he trained a number of Force-sensitive individuals in the ways of the dark side, and recruited high-powered killers to silence his enemies.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Count Dooku; Asajj Ventress; Sev'rance Tann; General Grievous — Dooku's dark side minions: "In private he trained a number of Force-sensitive individuals in the ways of the dark side, and recruited high-powered killers to silence his enemies." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-dookus-dark-side-minions.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:183`
 
 > But the greatest among them was Grievous, an alien battlefield commander who had been critically injured in a shuttle crash arranged by San Hill of the Inter-Galactic Banking Clan.
 — Source: Part Two: The Fall of the Republic; General Grievous; Count Dooku — Grievous.
 Note (our notes, around the quote): General Grievous; Count Dooku — Grievous: "But the greatest among them was Grievous, an alien battlefield commander who had been critically injured in a shuttle crash arranged by San Hill of the Inter-Galactic Banking Clan." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-grievous.jpg)
+![Quote image: The New Essential Chronology, p.49 — full quote as printed](../../notes/materials/027-new-essential-chronology/quotes/nec-p49-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:185`
 
 > Dooku, who taught the half-machine killer to wield four blades at once, would eventually name Grievous the supreme general of the Separatist droid armies.
 — Source: Part Two: The Fall of the Republic; General Grievous; Count Dooku — Dooku teaches Grievous.
 Note (our notes, around the quote): General Grievous; Count Dooku — Dooku teaches Grievous: "Dooku, who taught the half-machine killer to wield four blades at once, would eventually name Grievous the supreme general of the Separatist droid armies." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-dooku-teaches-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:187`
 
 > General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): General Grievous; Ki-Adi-Mundi; K'Kruhk; Shaak Ti; Aayla Secura — Grievous on Hypori: "General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-grievous-on-hypori.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:284`
 
 > On Mon Calamari, Kit sto led a regiment of clone scuba troopers against the Quar- ren Isolationist League, defeating the Separatist-allied faction with help from the andent order of Mon Calamari Knights.
@@ -1881,7 +1878,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): General Grievous — Grievous takes apart Jedi: "none of them was prepared for the ease with which he took apart a knot of fully trained Jedi." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-grievous-takes-apart-jedi.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:286`
 
 > In a surprising number of cases, they weren't disappointed. on Virujansi, Anakin defeated a Separatist occupation force by taking command of the planet's Rarefled Air Cavalry and luring the enemy's vulture fighters into a treacherous cians) warren of mountain cavems. The grateful Virujans! named Anakin their “warrior of the Infinite.”
@@ -1899,25 +1895,22 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous — Grievous kills Bridger: "Grievous spared Bridger and challenged him to a duel. The fight lasted less than twenty seconds, and Grievous left the body on the dirt to feed the mosgoths." Source: The New Essential Chronology, p.72
-![Quote image: The New Essential Chronology, p.72 — full quote as printed](quotes/nec-p72-grievous-kills-bridger.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:384`
 
 > On Vantos, Nadiem, and dozens of other worlds, Grievous slaughtered clone troopers and civilians alike, collecting lightsaber trophies from the Jedi Knights whom he beheaded.
 — Source: Part Two: The Fall of the Republic; General Grievous — Grievous's trophies.
 Note (our notes, around the quote): General Grievous — Grievous's trophies: "On Vantos, Nadiem, and dozens of other worlds, Grievous slaughtered clone troopers and civilians alike, collecting lightsaber trophies from the Jedi Knights whom he beheaded." Source: The New Essential Chronology, p.75
-![Quote image: The New Essential Chronology, p.75 — full quote as printed](quotes/nec-p75-grievouss-trophies.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:407`
 
 > Although Boba Fett succeeded in penetrating Tambor's citadel, General Grievous humiliated Boba in combat and ensured the escape of the Separatist leader.
 — Source: Part Two: The Fall of the Republic; General Grievous; Boba Fett — Grievous humiliates Boba.
 Note (our notes, around the quote): General Grievous; Boba Fett — Grievous humiliates Boba: "Although Boba Fett succeeded in penetrating Tambor's citadel, General Grievous humiliated Boba in combat and ensured the escape of the Separatist leader." Source: The New Essential Chronology, p.80
-![Quote image: The New Essential Chronology, p.80 — full quote as printed](quotes/nec-p80-grievous-humiliates-boba.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:466`
 
 > Skywalker again added to his legend by flying through a screen of turbolaser fire and taking repeated potshots at the bridge of Grievous's flagship, Invisible Hand.
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker); General Grievous — Belderone.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); General Grievous — Belderone: "Skywalker again added to his legend by flying through a screen of turbolaser fire and taking repeated potshots at the bridge of Grievous's flagship, Invisible Hand." Source: The New Essential Chronology, p.80
-![Quote image: The New Essential Chronology, p.80 — full quote as printed](quotes/nec-p80-belderone.jpg)
+![Quote image: The New Essential Chronology, p.80 — full quote as printed](../../notes/materials/027-new-essential-chronology/quotes/nec-p80-belderone.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:468`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -1933,7 +1926,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Stass Allie; Shaak Ti — Grievous captures Palpatine: "directly by General Grievous, butcher of a thousand worlds." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-grievous-captures-palpatine.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:479`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -1949,18 +1941,15 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Shaak Ti — none could stop Grievous: "Palpatine's Jedi defenders, including Mace Windu, Kit Fisto, Stass Allie, and Shaak Ti, hustled the chancellor to a hovertrain, and then a hardened command bunker, but none of them could stop Grievous." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-none-could-stop-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:481`
 
 - Note (summary from our notes, not a quotation): General Grievous — art caption: "General Grievous" Source: The New Essential Chronology, p.81, caption
   — Source: Part Two: The Fall of the Republic.
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-caption-general-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:483`
 
 > Grievous dueled Kenobi using four lightsabers, and then led the Jedi on a wild chase along the sinkhole walls. But it was not enough. Obi-Wan shot Grievous in the gut with a blaster, killing him.
 — Source: Part Two: The Fall of the Republic; Obi-Wan Kenobi; General Grievous — Obi-Wan kills Grievous.
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous — Obi-Wan kills Grievous: "Grievous dueled Kenobi using four lightsabers, and then led the Jedi on a wild chase along the sinkhole walls. But it was not enough. Obi-Wan shot Grievous in the gut with a blaster, killing him." Source: The New Essential Chronology, p.82
-![Quote image: The New Essential Chronology, p.82 — full quote as printed](quotes/nec-p82-obi-wan-kills-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:496`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -1968,13 +1957,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > 19 say ¢ The First Galactic Empire: The Clone Wars ended with the defeat of the Separatist Council and the deaths of General Grievous and Count Dooku.
 — Source: scan pages 1–40; General Grievous; Count Dooku.
 Note (our notes, around the quote): General Grievous; Count Dooku: "19 say ¢ The First Galactic Empire: The Clone Wars ended with the defeat of the Separatist Council and the deaths of General Grievous and Count Dooku." Source: The Complete Star Wars Encyclopedia, Vol. I, scan p.14
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, scan p.14 — full quote as printed](quotes/v1-s14-19-say-the-first-galactic-empire.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:77`
 
 > Anvil One of many Galactic Republic Acclamator assault transports destroyed at Duro by General Grievous's task force during the Clone Wars.
 — Source: scan pages 41–80; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Anvil One of many Galactic Republic Acclamator assault transports destroyed at Duro by General Grievous's task force during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.36
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.36 — full quote as printed](quotes/v1-p36-anvil-one-of-many-galactic-republic.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:90`
 
 > Barr,Lieutenant A Star Corps clone trooper with Barriss Offee and Commander Bly on Felucia during the Clone Wars. Barra-Rona-Ban The chief librarian of the Jedi Archives on Coruscant over 1,000 years before the Battle of Yavin, this wizened Cerean was lauded for his attention to detail. Master Barra allowed the disguised Sith apprentice Zannah to have access to the Archives a decade after the Battle of Ruusan. Zannah Baron droid was posing as the Padawan Nalia Adollu in an effort to gain access to any information to as­ . sist her ailing Sith Master, Darth Bane. Barrek, Daakman A Jedi Master who led Republic forces on Hypori. He and his Padawan Sha'a Gi were among the first Jedi killed by General Grievous. Barris, Mosh A hardened colonel in the Imperial Army at the dawn ofthe Empire, Bar­ ris served aboard the Victory Star Destroyer Strike f ast under Captain Voss Parck. Barris's troops were outsmarted by the Chiss exile Mitth'raw'nuruodo on an uncharted planet. A career marked by vehement and loudly voiced dissatisfaction with the Imperial mili­ tary administration led him to many powerless diplomatic posts on back­ planets. He served as military prefect on Garqi, where he was framed for treason by Corran Horn.
@@ -1982,37 +1969,31 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): General Grievous: "He and his Padawan Sha'a Gi were among the first Jedi killed by General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. I, p.62
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.62 — full quote as printed](quotes/v1-p62-he-and-his-padawan-shaa-gi.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:292`
 
 > Bayts was killed by General Grievous.
 — Source: scan pages 41–80; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Bayts was killed by General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. I, p.65
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.65 — full quote as printed](quotes/v1-p65-bayts-was-killed-by-general-grievous.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:321`
 
 > Bridger, Waldan A Jedi Master remarkable for his well-muscled build and preference for a San-Ni staff over a lightsaber, he was killed by General Grievous on Togoria during the Clone Wars.
 — Source: scan pages 81–120; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Bridger, Waldan A Jedi Master remarkable for his well-muscled build and preference for a San-Ni staff over a lightsaber, he was killed by General Grievous on Togoria during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.93
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.93 — full quote as printed](quotes/v1-p93-bridger-waldan-a-jedi-master-remarkable.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:223`
 
 > Though the Confederacy was defeated in this battle, General Grievous escaped to the Outer Rim, and the Clone Wars continued for a while longer.
 — Source: scan pages 161–200; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Though the Confederacy was defeated in this battle, General Grievous escaped to the Outer Rim, and the Clone Wars continued for a while longer." Source: The Complete Star Wars Encyclopedia, Vol. I, p.147
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.147 — full quote as printed](quotes/v1-p147-though-the-confederacy-was-defeated-in.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:23`
 
 > She was killed by General Grievous, one of the first Jedi to fall to the cyborg alien.
 — Source: scan pages 201–240; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "She was killed by General Grievous, one of the first Jedi to fall to the cyborg alien." Source: The Complete Star Wars Encyclopedia, Vol. I, p.212
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.212 — full quote as printed](quotes/v1-p212-she-was-killed-by-general-grievous.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:210`
 
 > He was killed on the Vassek moon when Vebb and Kit Fisto searched the lair of General Grievous.
 — Source: scan pages 281–320; Kit Fisto; General Grievous.
 Note (our notes, around the quote): Kit Fisto; General Grievous: "He was killed on the Vassek moon when Vebb and Kit Fisto searched the lair of General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. I, p.272
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.272 — full quote as printed](quotes/v1-p272-he-was-killed-on-the-vassek.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:64`
 
 > The tlimmel was carnivorous and could open its fleshy trunk into a mouth-like orifice that extended outward to grasp its prey. flimsiplast A writing material, it was f ormed into thin, plastic-like sheets that could be used for communication. Flimsiplast could be impreg- Flint nated with chemicals that kept writing hidden until it came into contact with someone who had a specific chemical makeup. It could also be set to burn up after the message had been activated. However, flimsiplast, usually referred to as flirnsi, was used mostly to write notes and letters. Flint A native of Belderone, Flint was the son of a Jedi Knight who had been killed by General Grievous during the Clone Wars. When Luke Skywalker and Leia Organa ar­ rived on the planet to investigate an Imperial laboratory there, Flint and his friend Barney volunteered to help them with their efforts to liberate Belderone and Kulthis. But when Flint was too late to save his mother from an Imperial attack on their village, he cursed the fact that he couldn't use the Force to help her. Darth Vader preyed on Flint's anguish and lured him to join the Empire as a storm­ trooper; he later trained Flint to use dark side powers.
@@ -2020,19 +2001,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): General Grievous: "Flint A native of Belderone, Flint was the son of a Jedi Knight who had been killed by General Grievous during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.281
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.281 — full quote as printed](quotes/v1-p281-flint-a-native-of-belderone-flint.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:119`
 
 > The ship and its companions were all destroyed in battle, as General Grievous showed that he was a master tactician.
 — Source: scan pages 281–320; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "The ship and its companions were all destroyed in battle, as General Grievous showed that he was a master tactician." Source: The Complete Star Wars Encyclopedia, Vol. I, p.292
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.292 — full quote as printed](quotes/v1-p292-the-ship-and-its-companions-were.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:210`
 
 > King Grakchawwaa was reluctant to join the war on either side and might have remained neutral—but then General Grievous killed his son, Prince Rikummee.
 — Source: scan pages 361–398; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "King Grakchawwaa was reluctant to join the war on either side and might have remained neutral—but then General Grievous killed his son, Prince Rikummee." Source: The Complete Star Wars Encyclopedia, Vol. I, p.357
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.357 — full quote as printed](quotes/v1-p357-king-grakchawwaa-was-reluctant-to-join.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:97`
 
 > Each of his arms could be split in two, and Grievous often fought with four lightsabers to thoroughly demoral­ ize-and then eliminate-his enemies. The only things that survived of his origi­ guts, all of which were protected within the armored body. His eyes were a brilliant gold color, with a reptilian black pupil surrounded by blood-red sockets. Everything about Gen­ eral Grievous spoke of a certain level of van­ ity and self-assuredness. Whereas Count Dooku was the political leader of the Confederacy of General Grievous Independent Systems, General Grievous was the military leader of the Separatist armies. Grievous was a master strategist and weapons master and was one of a handful of beings who were known to have killed multiple Jedi Knights. He kept their lightsabers attached to his belt to indicate his prowess, and he was a skilled fighter with a lightsaber himself. As a Kaleesh warrior, Grievous was forced to witness the starvation of his people after the Old Republic sided with the enemy Huk in resolving the Huk Wars, before sustaining incredible injuries in the crash of his personal shuttle, the Martyr. Only the use of Force lightning by Count Dooku kept his heart beat­ ing, and Grievous was nursed back to health.
@@ -2040,13 +2018,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): General Grievous: "Grievous was a master strategist and weapons master and was one of a handful of beings who were known to have killed multiple Jedi Knights." Source: The Complete Star Wars Encyclopedia, Vol. I, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.369 — full quote as printed](quotes/v1-p369-grievous-was-a-master-strategist-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:193`
 
 > Only the use of Force lightning by Count Dooku kept his heart beating, and Grievous was nursed back to health.
 — Source: scan pages 361–398; Count Dooku; General Grievous.
 Note (our notes, around the quote): Count Dooku; General Grievous: "Only the use of Force lightning by Count Dooku kept his heart beating, and Grievous was nursed back to health." Source: The Complete Star Wars Encyclopedia, Vol. I, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.369 — full quote as printed](quotes/v1-p369-only-the-use-of-force-lightning.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:195`
 
 > He was re-created as a part-alien, part-droid monstrosity on the planet Geonosis, a transformation that was funded by San Hill and carried out by Poggle the Lesser. Grievous was then presented as a strange sort ofgift to Count Dooku. Grievous's armored body was created in the image of a Krath war droid, giving it a fearsome appearance. Instead of requiring sleep to recuperate, Grievous was provided with a stasis chamber in which he could liter­ ally recharge. His droid anatomy augmented his already powerful body and abilities, and Grievous was a quick study in the art of light­ saber combat. Dooku himself was surprised when Grievous proved to be a student who surpassed other apprentices after mere weeks of training. Although Grievous participated in the Battle of Geonosis, none who faced him survived to warn the Republic. After Geono­ sis, Grievous was promoted to Supreme Com­ mander of the Droid Armies, a position that put him on par with Count Dooku. Grievous first appeared in command of the Sepa­ ratist forces during the Battle of Hypori, then began a march Coreward along the Corellian Trade Spine. He was consid­ ered by many military experts to have been a tactical genius, but others argued that, because he had limitless droids at his disposal, he lacked subtlety in his methods.
@@ -2054,7 +2030,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Count Dooku; General Grievous: "Dooku himself was surprised when Grievous proved to be a student who surpassed other apprentices after mere weeks of training." Source: The Complete Star Wars Encyclopedia, Vol. I, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.369 — full quote as printed](quotes/v1-p369-dooku-himself-was-surprised-when-grievous.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:197`
 
 > Grievous was then presented as a strange sort ofgift to Count Dooku. Grievous's armored body was created in the image of a Krath war droid, giving it a fearsome appearance. Instead of requiring sleep to recuperate, Grievous was provided with a stasis chamber in which he could liter­ ally recharge. His droid anatomy augmented his already powerful body and abilities, and Grievous was a quick study in the art of light­ saber combat. Dooku himself was surprised when Grievous proved to be a student who surpassed other apprentices after mere weeks of training. Although Grievous participated in the Battle of Geonosis, none who faced him survived to warn the Republic. After Geono­ sis, Grievous was promoted to Supreme Com­ mander of the Droid Armies, a position that put him on par with Count Dooku. Grievous first appeared in command of the Sepa­ ratist forces during the Battle of Hypori, then began a march Coreward along the Corellian Trade Spine. He was consid­ ered by many military experts to have been a tactical genius, but others argued that, because he had limitless droids at his disposal, he lacked subtlety in his methods. After the planet Duro was captured from the Old Republic, Grievous directly addressed the Republic, speaking in a Confederacy HoloNet broadcast that was tapped into the main Republic HoloNet.
@@ -2062,7 +2037,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): General Grievous: "Although Grievous participated in the Battle of Geonosis, none who faced him survived to warn the Republic." Source: The Complete Star Wars Encyclopedia, Vol. I, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.369 — full quote as printed](quotes/v1-p369-although-grievous-participated-in-the-battle.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:199`
 
 > There he arranged for the transfer of the Separatist leadership to Mustafar before being located by Clone Intel­ ligence Units. General Kenobi was dis­ patchedto Utapau with a contin­ gent of clones to find Grievous, who was alerted to the Jedi's presence shortly after his arrival. When Kenobi emerged in the midst of a hangar full of droids, Grievous initially let his Magna­ Guards attack the Jedi. Obi-Wan quickly eliminated them, forc­ ing Grievous to attack. Their battle raged through Pau City, until Kenobi managed to crack Amise Griff open the chest plates that were protecting Grievous's innards. With a volley of well-placed blaster shots, the Jedi Master was able to destroy Grievous and put an end to his reign of terror. His droid form was left behind on Utapau, where it was later exhumed by Imperial forces and turned over to Nycolai Kinesworthy for use in the development ofN-K Necrosis droids. Griff,AmiseA fleet admiral, he supervised construction ofDarth Vader's Super-class Star Destroyer Executor. Admiral Griff was also in charge of the Imperial blockade of Yavin 4 after the destruction of the first Death Star. He and his ship were destroyed when, in an attempt to intercept the fleeing Rebel fleet, Griff miscalculated a hyperspace jump and dropped out of hyperspace-nearly landing on the Executor.
@@ -2070,7 +2044,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): General Grievous: "With a volley of well-placed blaster shots, the Jedi Master was able to destroy Grievous and put an end to his reign of terror." Source: The Complete Star Wars Encyclopedia, Vol. I, p.370
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.370 — full quote as printed](quotes/v1-p370-with-a-volley-of-well-placed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:206`
 
 > Guardian Squadron A Y-wing bomber squadron, it was part of General Salm's Defender Wing serving the New Republic. Guardstar An Imperial patrol frigate, it was orbit­ ing Tatooine when Boba Fett returned from Bespin with Han Solo's carbonite­ encased body. It tried to in­ tercept the bounty hunter, but Darth Vader commanded the crew to stand down and Gudb let Fett land. Guarja ShipyardsA starship repair facil­ ity, it was located on Nal Hutta during the last decades of the Old Republic. Guarlara An Old Republic Venator-class Star Destroyer, it was one of many vessels that tried unsuccessfully to eliminate General Grievous's Invisible Hand at the beginning of the Clone Wars. But during the Battle of Cor­ uscant, the Guarlara was able to fire the blasts that crippled the Invisible Hand and sent it spiraling toward the surface of Coruscant. guarlaraA large equine creature native to Naboo, it was related to the smaller gualama, but with jet-black fur and defensive tusks on either side of its mouth. GudbA rat-faced gangster in the employ of Great Bogga the Hutt, he led a conspiracy to kill Jedi trainee Andur Sunrider at the Sten­ ness hyperspace terminal 4,000 years before the Galactic Civil War. He carried out the deed with his poisonous pet gorm-worm, Skritch.
@@ -2078,7 +2051,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): General Grievous: "Guarlara An Old Republic Venator-class Star Destroyer, it was one of many vessels that tried unsuccessfully to eliminate General Grievous's [Invisible Hand at the beginning of the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.374
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.374 — full quote as printed](quotes/v1-p374-guarlara-an-old-republic-venator-class.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:240`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -2086,115 +2058,96 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > A task force was dispatched to Hypori by the Jedi Council and the Army of the Republic, but much of it was destroyed by General Grievous before it could reach the surface.
 — Source: scan pages 41–80; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "A task force was dispatched to Hypori by the Jedi Council and the Army of the Republic, but much of it was destroyed by General Grievous before it could reach the surface." Source: The Complete Star Wars Encyclopedia, Vol. II, p.71
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.71 — full quote as printed](quotes/v2-p71-a-task-force-was-dispatched-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:260`
 
 > Grievous demanded that he be given a group of droids capable of defeating a Jedi Knight in combat.
 — Source: scan pages 81–120; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Grievous demanded that he be given a group of droids capable of defeating a Jedi Knight in combat." Source: The Complete Star Wars Encyclopedia, Vol. II, p.78
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.78 — full quote as printed](quotes/v2-p78-grievous-demanded-that-he-be-given.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:27`
 
 > The Magna- Guards also were given portions of Grievous's own combat programming, making them more than a match for most Jedi Knights.
 — Source: scan pages 81–120; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "The Magna- Guards also were given portions of Grievous's own combat programming, making them more than a match for most Jedi Knights." Source: The Complete Star Wars Encyclopedia, Vol. II, p.79
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.79 — full quote as printed](quotes/v2-p79-the-magna-guards-also-were-given.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:34`
 
 > 1G-138: Destroyed by Grievous during his lightsaber instruction from Count Dooku.
 — Source: scan pages 81–120; General Grievous; Count Dooku.
 Note (our notes, around the quote): General Grievous; Count Dooku: "1G-138: Destroyed by Grievous during his lightsaber instruction from Count Dooku." Source: The Complete Star Wars Encyclopedia, Vol. II, p.79
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.79 — full quote as printed](quotes/v2-p79-1g-138-destroyed-by-grievous-during.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:38`
 
 > The IBC also financed the resurrection of Durge and General Grievous, actions that IBC leader San Hill believed made Darth Sidious indebted to the clan.
 — Source: scan pages 81–120; General Grievous; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Palpatine (Darth Sidious): "The IBC also financed the resurrection of Durge and General Grievous, actions that IBC leader San Hill believed made Darth Sidious indebted to the clan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.107
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.107 — full quote as printed](quotes/v2-p107-the-ibc-also-financed-the-resurrection.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:206`
 
 > Grievous nearly killed Gunray over the dispute; only Sidious's demand that the Trade Federation remain part of the Confederacy of Independent Systems kept him from killing the Viceroy.
 — Source: scan pages 81–120; General Grievous; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Palpatine (Darth Sidious): "Grievous nearly killed Gunray over the dispute; only Sidious's demand that the Trade Federation remain part of the Confederacy of Independent Systems kept him from killing the Viceroy." Source: The Complete Star Wars Encyclopedia, Vol. II, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.110 — full quote as printed](quotes/v2-p110-grievous-nearly-killed-gunray-over-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:233`
 
 > The common bonds among them were their loyalty to Grievous and their desire to destroy the Huk occupation forces on their planet.
 — Source: scan pages 121–160; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "The common bonds among them were their loyalty to Grievous and their desire to destroy the Huk occupation forces on their planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.127 — full quote as printed](quotes/v2-p127-the-common-bonds-among-them-were.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:94`
 
 > It was believed that the members of the Izvoshra were all killed in the crash of Grievous's shuttle, the Martyr, an event that nearly killed Grievous himself.
 — Source: scan pages 121–160; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "It was believed that the members of the Izvoshra were all killed in the crash of Grievous's shuttle, the Martyr, an event that nearly killed Grievous himself." Source: The Complete Star Wars Encyclopedia, Vol. II, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.127 — full quote as printed](quotes/v2-p127-it-was-believed-that-the-members.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:96`
 
 > San Hill told General Grievous that his body had been recovered from the banks of the Jenuwaa Sea after his shuttle was sabotaged and exploded.
 — Source: scan pages 161–200; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "San Hill told General Grievous that his body had been recovered from the banks of the Jenuwaa Sea after his shuttle was sabotaged and exploded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.156
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.156 — full quote as printed](quotes/v2-p156-san-hill-told-general-grievous-that.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:17`
 
 > Jmmaar This Viraanntesse Jedi Master, a native of Vvaw, was killed during the Clone Wars by General Grievous on Vandos.
 — Source: scan pages 161–200; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Jmmaar This Viraanntesse Jedi Master, a native of Vvaw, was killed during the Clone Wars by General Grievous on Vandos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.168
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.168 — full quote as printed](quotes/v2-p168-jmmaar-this-viraanntesse-jedi-master-a.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:113`
 
 > Grievous, who was known during the Huk Wars as Qymaen jai Sheelal, never forgot the role of the two Jedi in the virtual subjugation of his people, and happily cut down Master Jmmaar when he had the chance.
 — Source: scan pages 161–200; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Grievous, who was known during the Huk Wars as Qymaen jai Sheelal, never forgot the role of the two Jedi in the virtual subjugation of his people, and happily cut down Master Jmmaar when he had the chance." Source: The Complete Star Wars Encyclopedia, Vol. II, p.168
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.168 — full quote as printed](quotes/v2-p168-grievous-who-was-known-during-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:115`
 
 > Kenobi was nearly bested, but in the course of the brawl, the Jedi had loosened the plates that protected Grievous's organic innards.
 — Source: scan pages 201–240; Obi-Wan Kenobi; General Grievous.
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous: "Kenobi was nearly bested, but in the course of the brawl, the Jedi had loosened the plates that protected Grievous's organic innards." Source: The Complete Star Wars Encyclopedia, Vol. II, p.211
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.211 — full quote as printed](quotes/v2-p211-kenobi-was-nearly-bested-but-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:166`
 
 > During a mission to destroy the droid foundries on Hypori, K'Kruhk was gravely wounded by General Grievous.
 — Source: scan pages 201–240; K'Kruhk; General Grievous — entry/section: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk; General Grievous — entry/section: K'Kruhk: "During a mission to destroy the droid foundries on Hypori, K'Kruhk was gravely wounded by General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. II, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.221 — full quote as printed](quotes/v2-p221-during-a-mission-to-destroy-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:272`
 
 > Tone was killed while trying to delay Grievous.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Tone was killed while trying to delay Grievous." Source: The Complete Star Wars Encyclopedia, Vol. II, p.237
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.237 — full quote as printed](quotes/v2-p237-tone-was-killed-while-trying-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:36`
 
 > General Grievous used the Loedorvian Brain Plague to eliminate all the clone troopers of the Grand Army of the Republic in the Weemell sector, and nearly killed the sector's entire human population as well.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "General Grievous used the Loedorvian Brain Plague to eliminate all the clone troopers of the Grand Army of the Republic in the Weemell sector, and nearly killed the sector's entire human population as well." Source: The Complete Star Wars Encyclopedia, Vol. II, p.259
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.259 — full quote as printed](quotes/v2-p259-general-grievous-used-the-loedorvian-brain.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:218`
 
 > Lucid Voice A Providence-class destroyer, it was one of two sister ships of the Invisible Hand. \t often was deployed throughout the Mid Rim in order to confuse intelligence agents of the Galactic Republic about the exact whereabouts of General Grievous during the Clone Wars.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Lucid Voice A Providence-class destroyer, it was one of two sister ships of the Invisible Hand. \t often was deployed throughout the Mid Rim in order to confuse intelligence agents of the Galactic Republic about the exact whereabouts of General Grievous during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. II, p.264
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.264 — full quote as printed](quotes/v2-p264-lucid-voice-a-providence-class-destroyer.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:265`
 
 > The ship, under the command of General Grievous, had destroyed the Republic's Fourth Fleet and counted a dozen vessels among its victims.
 — Source: scan pages 281–320; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "The ship, under the command of General Grievous, had destroyed the Republic's Fourth Fleet and counted a dozen vessels among its victims." Source: The Complete Star Wars Encyclopedia, Vol. II, p.280
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.280 — full quote as printed](quotes/v2-p280-the-ship-under-the-command-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:57`
 
 > Grievous was defeated by Obi-Wan Kenobi, but then the clone commandos were told to execute Order 66 by Darth Sidious.
 — Source: scan pages 281–320; General Grievous; Obi-Wan Kenobi; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Obi-Wan Kenobi; Palpatine (Darth Sidious): "Grievous was defeated by Obi-Wan Kenobi, but then the clone commandos were told to execute Order 66 by Darth Sidious." Source: The Complete Star Wars Encyclopedia, Vol. II, p.301
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.301 — full quote as printed](quotes/v2-p301-grievous-was-defeated-by-obi-wan.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:234`
 
 > Nystammall This Vuvrian was one of the many Jedi Masters killed by General Grievous during the Clone Wars.
 — Source: scan pages 401–440; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Nystammall This Vuvrian was one of the many Jedi Masters killed by General Grievous during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. II, p.399
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.399 — full quote as printed](quotes/v2-p399-nystammall-this-vuvrian-was-one-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:36`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -2202,103 +2155,86 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > There he was slain by General Grievous.
 — Source: scan pages 1–40; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "There he was slain by General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. III, p.4
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.4 — full quote as printed](quotes/v3-p4-there-he-was-slain-by-general.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:57`
 
 > Prominence (2) A Galactic Republic Dreadnaught destroyed during the Clone Wars when General Grievous's task force invaded Duro.
 — Source: scan pages 41–80; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Prominence (2) A Galactic Republic Dreadnaught destroyed during the Clone Wars when General Grievous's task force invaded Duro." Source: The Complete Star Wars Encyclopedia, Vol. III, p.46
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.46 — full quote as printed](quotes/v3-p46-prominence-2-a-galactic-republic-dreadnaught.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:95`
 
 > Puroth A four-armed Eirrauc Jedi Master killed by General Grievous during the Galactic Civil War, alongside her former Padawan Nystammall on the flame-grass plains of Tovarskl.
 — Source: scan pages 41–80; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Puroth A four-armed Eirrauc Jedi Master killed by General Grievous during the Galactic Civil War, alongside her former Padawan Nystammall on the flame-grass plains of Tovarskl." Source: The Complete Star Wars Encyclopedia, Vol. III, p.50
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.50 — full quote as printed](quotes/v3-p50-puroth-a-four-armed-eirrauc-jedi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:123`
 
 > During the rescue of Chancellor Palpatine from General Grievous's clutches, R2-D2 destroyed super battle droids in a melee that erupted in the hangar bay of Grievous's flagship.
 — Source: scan pages 41–80; Palpatine (Darth Sidious); General Grievous.
 Note (our notes, around the quote): Palpatine (Darth Sidious); General Grievous: "During the rescue of Chancellor Palpatine from General Grievous's clutches, R2-D2 destroyed super battle droids in a melee that erupted in the hangar bay of Grievous's flagship." Source: The Complete Star Wars Encyclopedia, Vol. III, p.68
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.68 — full quote as printed](quotes/v3-p68-during-the-rescue-of-chancellor-palpatine.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:255`
 
 > It was killed by Kit Fisto and Nahdar Vebb during the Clone Wars, when they infiltrated Grievous's sanctuary.
 — Source: scan pages 81–120; Kit Fisto; General Grievous.
 Note (our notes, around the quote): Kit Fisto; General Grievous: "It was killed by Kit Fisto and Nahdar Vebb during the Clone Wars, when they infiltrated Grievous's sanctuary." Source: The Complete Star Wars Encyclopedia, Vol. III, p.106
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.106 — full quote as printed](quotes/v3-p106-it-was-killed-by-kit-fisto.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:245`
 
 > A captive R2-D2 was taken here by General Grievous for dissection, but was rescued by Anakin Skywalker and his clone troopers, who also destroyed the post.
 — Source: scan pages 121–160; General Grievous; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): General Grievous; Darth Vader (Anakin Skywalker): "A captive R2-D2 was taken here by General Grievous for dissection, but was rescued by Anakin Skywalker and his clone troopers, who also destroyed the post." Source: The Complete Star Wars Encyclopedia, Vol. III, p.117
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.117 — full quote as printed](quotes/v3-p117-a-captive-r2-d2-was-taken.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:24`
 
 > Following defeats at Metalorn and Muunilinst, Lord Sidious ordered that the entire Separatist Council be under the protection of General Grievous for the remainder of the war.
 — Source: scan pages 121–160; Palpatine (Darth Sidious); General Grievous.
 Note (our notes, around the quote): Palpatine (Darth Sidious); General Grievous: "Following defeats at Metalorn and Muunilinst, Lord Sidious ordered that the entire Separatist Council be under the protection of General Grievous for the remainder of the war." Source: The Complete Star Wars Encyclopedia, Vol. III, p.139
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.139 — full quote as printed](quotes/v3-p139-following-defeats-at-metalorn-and-muunilinst.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:192`
 
 > Its most notable action came on Utapau, when Jedi General Obi-Wan Kenobi finally destroyed General Grievous at the end of the Clone Wars.
 — Source: scan pages 201–240; Obi-Wan Kenobi; General Grievous.
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous: "Its most notable action came on Utapau, when Jedi General Obi-Wan Kenobi finally destroyed General Grievous at the end of the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. III, p.205
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.205 — full quote as printed](quotes/v3-p205-its-most-notable-action-came-on.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:102`
 
 > A tall, imposing Coway distinguished by the shield that covered the left side of his face and the cybernetic replacement of his right hand, Master Tone was one of a handful of Jedi who wanted to destroy General Grievous before he could kill any more innocent beings.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "A tall, imposing Coway distinguished by the shield that covered the left side of his face and the cybernetic replacement of his right hand, Master Tone was one of a handful of Jedi who wanted to destroy General Grievous before he could kill any more innocent beings." Source: The Complete Star Wars Encyclopedia, Vol. III, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.253 — full quote as printed](quotes/v3-p253-a-tall-imposing-coway-distinguished-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:172`
 
 > The injuries to Tone's face and arm came from an encounter with Grievous on Nadiem, and his first Padawan was killed by the general in the fighting.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "The injuries to Tone's face and arm came from an encounter with Grievous on Nadiem, and his first Padawan was killed by the general in the fighting." Source: The Complete Star Wars Encyclopedia, Vol. III, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.253 — full quote as printed](quotes/v3-p253-the-injuries-to-tones-face-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:174`
 
 > Thus, when he learned that Flynn Kybo had survived an encounter with the Separatist military leader, he sought out the Padawan to discuss the young man's plans for going after Grievous.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Thus, when he learned that Flynn Kybo had survived an encounter with the Separatist military leader, he sought out the Padawan to discuss the young man's plans for going after Grievous." Source: The Complete Star Wars Encyclopedia, Vol. III, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.253 — full quote as printed](quotes/v3-p253-thus-when-he-learned-that-flynn.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:176`
 
 > During the Clone Wars, General Grievous defeated the Ugnaughts on Belsus, a moon in the Anoat system.
 — Source: scan pages 281–320; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "During the Clone Wars, General Grievous defeated the Ugnaughts on Belsus, a moon in the Anoat system." Source: The Complete Star Wars Encyclopedia, Vol. III, p.277
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.277 — full quote as printed](quotes/v3-p277-during-the-clone-wars-general-grievous.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:22`
 
 > Unknown to Grievous, many of the Ugnaughts lived underground and survived.
 — Source: scan pages 281–320; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Unknown to Grievous, many of the Ugnaughts lived underground and survived." Source: The Complete Star Wars Encyclopedia, Vol. III, p.277
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.277 — full quote as printed](quotes/v3-p277-unknown-to-grievous-many-of-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:24`
 
 > Rather than let Grievous escape again, Kenobi single-handedly attacked and eventually defeated the half-alien, half-droid general.
 — Source: scan pages 281–320; General Grievous; Obi-Wan Kenobi.
 Note (our notes, around the quote): General Grievous; Obi-Wan Kenobi: "Rather than let Grievous escape again, Kenobi single-handedly attacked and eventually defeated the half-alien, half-droid general." Source: The Complete Star Wars Encyclopedia, Vol. III, p.284
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.284 — full quote as printed](quotes/v3-p284-rather-than-let-grievous-escape-again.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:67`
 
 > Unfortunately, Master Utrila was no match for Grievous's strength and skills, and was cut down by the cyborg warrior while trying to prevent Grievous from reaching Palpatine.
 — Source: scan pages 281–320; General Grievous; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Palpatine (Darth Sidious): "Unfortunately, Master Utrila was no match for Grievous's strength and skills, and was cut down by the cyborg warrior while trying to prevent Grievous from reaching Palpatine." Source: The Complete Star Wars Encyclopedia, Vol. III, p.285
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.285 — full quote as printed](quotes/v3-p285-unfortunately-master-utrila-was-no-match.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:74`
 
 > Vigilance This Old Republic Venator-class Star Destroyer was deployed to Utapau as the flagship of a task force under the command of Obi-Wan Kenobi, during the search for General Grievous in the wake of the First Battle of Coruscant.
 — Source: scan pages 281–320; Obi-Wan Kenobi; General Grievous.
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous: "Vigilance This Old Republic Venator-class Star Destroyer was deployed to Utapau as the flagship of a task force under the command of Obi-Wan Kenobi, during the search for General Grievous in the wake of the First Battle of Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. III, p.306
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.306 — full quote as printed](quotes/v3-p306-vigilance-this-old-republic-venator-class.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:259`
 
 > Zephata'ru'tor was killed during the Battle of Nadiem as General Grievous fled the planet on his Belbullab-22 fighter.
 — Source: scan pages 361–385; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Zephata'ru'tor was killed during the Battle of Nadiem as General Grievous fled the planet on his Belbullab-22 fighter." Source: The Complete Star Wars Encyclopedia, Vol. III, p.371
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.371 — full quote as printed](quotes/v3-p371-zephatarutor-was-killed-during-the-battle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:156`
 
 ## Characters/Miniatures/Artificial Armies.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2310,7 +2246,6 @@ Our notes: `notes/materials/037-sw-d20-folder/092-artificial-armies.md:10`
 > As a fully mechanical army, they need no food, housing, or entertainment. Their major weakness, a lack of creativity, is offset by the cyborg leader known as General Grievous.
 — Source: Characters/Miniatures/Artificial Armies.pdf [Star Wars Roleplaying Game R.
 Note (our notes, around the quote): General Grievous — entry/section: Grievous offsets the droids' lack of creativity: "As a fully mechanical army, they need no food, housing, or entertainment. Their major weakness, a lack of creativity, is offset by the cyborg leader known as General Grievous." Source: *Artificial Armies* (SWRPG d20 Revised Core), p.1
-![Quote image: *Artificial Armies* (SWRPG d20 Revised Core), p.1 — full quote as printed](quotes/d092-p1-as-a-fully-mechanical-army-they.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/092-artificial-armies.md:12`
 
 ## Characters/Heroes of Revenge of the Sith.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2320,7 +2255,6 @@ Our notes: `notes/materials/037-sw-d20-folder/092-artificial-armies.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious); General Grievous; Count Dooku — entry/section: Obi-Wan Kenobi, Jedi Master: "General Kenobi, now a member of the Jedi Council, and his former Padawan, Anakin Skywalker, returned from the Outer Rim sieges to rescue Palpatine from General Grievous and Count Dooku. Later sent to hunt for Grievous on Utapau, Kenobi was unable to provide guidance to Anakin in his darkest hour -- and, after surviving his clone troopers' assassination attempt, he learned the terrible truth behind the massacre at the Jedi Temple. On Mustafar, the Master and his former student would cross blades -- but not for the last time." Source: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d140-s1-general-kenobi-now-a-member-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.md:12`
 
 > 25–29: Init +4; Defense 35; Atk +24/+19/+14/+9 melee (2d6+5d8+6/18–20, short lightsaber) or +22/+17/+12/+7 ranged (by weapon); Dex 18; Tumble +15. 30 or more: Init +5; Defense 36; Atk +25/+20/+15/+10 melee (2d6+5d8+7/18–20, short lightsaber) or +23/+18/+13/+8 ranged (by weapon); Dex 20; Tumble +16. Mace Windu In the days before Grievous’s attack on Coruscant, Mace Windu was closing in on the identity of Darth Sidious; however, the kidnapping of Palpatine made the trail turn cold. When Anakin Skywalker discovered that Palpatine is Sidious, Windu was quick to act. Soon after, his fellow Masters were cut down by Palpatine’s blade. In the cold night wind of Coruscant, Mace Windu confronted the true face of evil, his fate in the hands of the Chosen One. Mace Windu: Male Human Jedi guardian 5/Jedi weapon master PotJ 7/Jedi Master 7; Init +2 (+2 Dex); Defense 25 (+2 Dex, +13 class), 29 with Knight Defense; Spd 10 m; VP/WP 149/15; Atk +23/+18/+13/+8 melee* (7d8+1/18– 20, lightsaber) or +20/+15/+10/+5 melee (2d4+1/19–20, unarmed) or +21/+16/+11/+6 ranged (by weapon); SQ block, deflect (attack –3, defense +3, extend defense and attack), force secret (Battlemind +1, Force Strike +1, Heal Self +1), weapon mastery (rapid strike, superior weapon focus); SV Fort +14, Ref +14, Will +15; SZ M; FP 12; Rep +9; Str 12, Dex 14, Con 15, Int 16, Wis 17, Cha 18.
@@ -2328,7 +2262,6 @@ Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): Mace Windu; Palpatine (Darth Sidious); General Grievous; Darth Vader (Anakin Skywalker) — entry/section: Mace Windu, Jedi Master: "In the days before Grievous's attack on Coruscant, Mace Windu was closing in on the identity of Darth Sidious; however, the kidnapping of Palpatine made the trail turn cold. When Anakin Skywalker discovered that Palpatine is Sidious, Windu was quick to act. Soon after, his fellow Masters were cut down by Palpatine's blade. In the cold night wind of Coruscant, Mace Windu confronted the true face of evil, his fate in the hands of the Chosen One." Source: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d140-s2-in-the-days-before-grievouss-attack.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.md:30`
 
 ## Characters/Villains of Revenge of the Sith.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2342,7 +2275,6 @@ Our notes: `notes/materials/037-sw-d20-folder/152-villains-of-revenge-of-the-sit
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 Note (our notes, around the quote): General Grievous; Count Dooku — entry/section: General Grievous, Supreme Commander: "Once a warlord in a war between the Kaleesh and Huk species, Grievous was rebuilt by the Commerce Guild after a shuttle crash. He has been trained in lightsaber techniques by Count Dooku, and he takes pride in collecting lightsabers from the Jedi he defeats. He was first encountered by the Jedi in the disastrous battle on Hypori, shortly after the start of the Clone Wars." Source: *Villains of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Villains of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d152-s2-once-a-warlord-in-a-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/152-villains-of-revenge-of-the-sith.md:27`
 
 - Note (summary from our notes, not a quotation): Page contents: Grievous feats; MagnaGuard bodyguard droid (Holowan Mechanicals) stats and loyal protector features; DT-57 Annihilator stats (hand-read)
@@ -2367,7 +2299,6 @@ Our notes: `notes/materials/037-sw-d20-folder/235-jedi-counseling-67.md:44`
 
 - Note (summary from our notes, not a quotation): A: The Battle Droid would get +8 to attack in addition to getting Double Attack from General Grievous. These bonuses do indeed stack -- one is a commander effect, but the other is just a special ability. (Hypothetically, if both were commander effects, they wouldn't stack; you'd just get the better of the two bonuses.)" Source: *Jedi Counseling 67* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 67.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 67* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d235-s3-q-lets-say-i-have-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/235-jedi-counseling-67.md:45`
 
 ## Jedi Counselling/Jedi Counseling 70.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2378,7 +2309,6 @@ Our notes: `notes/materials/037-sw-d20-folder/239-jedi-counseling-70.md:37`
 
 - Note (summary from our notes, not a quotation): A: Yes. Grievous is considered to be both a droid and a non-droid, so he can be considered a droid for this purpose." Source: *Jedi Counseling 70* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 70.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 70* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d239-s2-q-i-have-a-few-questions.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/239-jedi-counseling-70.md:38`
 
 ## Jedi Counselling/Jedi Counseling 71.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2399,7 +2329,6 @@ Our notes: `notes/materials/037-sw-d20-folder/250-jedi-counseling-80.md:30`
 
 - Note (summary from our notes, not a quotation): General Grievous — entry/section: General Grievous, Jedi Hunter lacks Jedi Hunter: "A: No. "Jedi Hunter," in this case, is simply a part of his name. It's there for the sole purpose of distinguishing him from the other General Grievous figures. If he were meant to have the Jedi Hunter special ability, it would appear on his stat card." Source: *Jedi Counseling 80* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 80.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 80* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d250-s3-a-no-jedi-hunter-in-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/250-jedi-counseling-80.md:32`
 
 ## Jedi Counselling/Jedi Counseling 87.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2414,7 +2343,6 @@ Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:31`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 87 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_87_pdf_c566699411`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_87_pdf`.)
 Note (our notes, around the quote): General Grievous — entry/section: Grievous and the Super Battle Droid Commander stack: "A: Commander effects that provide a bonus to the same statistic do not stack. However, in this case, they aren't providing bonuses to the same statistic:" Source: *Jedi Counseling 87* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 87* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d257-s3-a-commander-effects-that-provide-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:33`
 
 > Thus, affected droids would gain +4 to all attacks. In addition, if they don't move, they can attack twice and with an additional +4 bonus on each attack. Q: Okay, expanding on the example above, what if you also had a Battle Droid Officer in your squad? Would you get another +4 to attacks, or would it not stack with commander effect from Grievous (which also grants +4 to attacks)? A: It would stack. The Battle Droid Officer's Fire Control is not a commander effect, so it would stack with a commander effect that grants a bonus to the same statistic. Thus, a droid follower in a squad with a Battle Droid Officer and within 6 squares of General Grievous, Supreme Commander and the Super Battle Droid Commander would get a +8 bonus to attacks, Double Attack, and Careful Shot +4. This would mean the droid follower could make two attacks with a +12 bonus to both attacks if it didn't move. Q: San Hill's commander effect says, "You activate only 1 character each phase." Does this mean that (assuming I win initiative) during the first phase I activate one character, then during the second phase I activate one character and my opponent activates his two characters, then during the third phase I activate one character, and so on?
@@ -2422,7 +2350,6 @@ Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:33`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 87 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_87_pdf_c566699411`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 87 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_87_pdf_c566699411`).)
 Note (our notes, around the quote): General Grievous — entry/section: Battle Droid Officer + Grievous: two attacks at +12: "A: It would stack. The Battle Droid Officer's Fire Control is not a commander effect, so it would stack with a commander effect that grants a bonus to the same statistic. Thus, a droid follower in a squad with a Battle Droid Officer and within 6 squares of General Grievous, Supreme Commander and the Super Battle Droid Commander would get a +8 bonus to attacks, Double Attack, and Careful Shot +4. This would mean the droid follower could make two attacks with a +12 bonus to both attacks if it didn't move." Source: *Jedi Counseling 87* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 87* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d257-s3-a-it-would-stack-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:35`
 
 ## Jedi Counselling/Jedi Counseling 89.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2432,7 +2359,6 @@ Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:35`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 89 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_89_pdf_5c07c571c8`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 89 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_89_pdf_5c07c571c8`).)
 Note (our notes, around the quote): General Grievous — entry/section: Explosive decompression (the Invisible Hand): "In the event of explosive decompression (as when General Grievous shattered the viewport on the bridge of the Invisible Hand), you must make a Climb check (DC 20 minus the distance to the breach in meters) to grab something. If you fail the check, you're blown out into space." Source: *Jedi Counseling 89* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 89* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d259-s2-in-the-event-of-explosive-decompression.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:30`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 5/510 - Heart of Evil - A Hero Seeks Not Vengeance.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2442,7 +2368,6 @@ Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from me Revised Core Living Force Campaign Adventures Among the Stars Year 5 510 Heart of Evil A Hero Seeks Not Vengeance (text copy `me_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_510_Heart_of_Evil_A_Hero_Seeks_Not_Vengeance_pdf_f00b6d75d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from me Revised Core Living Force Campaign Adventures Among the Stars Year 5 510 Heart of Evil A Hero Seeks Not Vengeance (text copy `me_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_510_Heart_of_Evil_A_Hero_Seeks_Not_Vengeance_pdf_f00b6d75d7`).)
 Note (our notes, around the quote): General Grievous: "Although the evil droid Separatist leader, General Grievous, is suffering defeats at every turn, he has still managed to elude the valiant Republic Clone Army and its Jedi allies." Source: *510 - Heart of Evil - A Hero Seeks Not Vengeance* (SWRPG d20 Revised Core), p.7
-![Quote image: *510 - Heart of Evil - A Hero Seeks Not Vengeance* (SWRPG d20 Revised Core), p.7 — full quote as printed](quotes/d350-p7-although-the-evil-droid-separatist-leader.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/350-510-heart-of-evil-a-hero-seeks.md:79`
 
 ## Living Force Campaign/Articles/Year 4/11:04:04 - Zero Zero Zero.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2451,7 +2376,6 @@ Our notes: `notes/materials/037-sw-d20-folder/350-510-heart-of-evil-a-hero-seeks
 — Source: Living Force Campaign/Articles/Year 4/11:04:04 - Zero Zero Zero.pdf [Star.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard zero zero zero by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_zero_zero_zero_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): General Grievous — entry/section: Senator Lavina Wren (on the Confederacy's Jedi-killing general): "Then, last week, I learned more of the leader of the Confederacy army, a general who seems to exist to kill Jedi. My heart nearly stopped. If the goal of this creature is to kill Jedi, then the single place where he can do the most damage is in our home. It wouldn't just be the Jedi who died, though. He would come with an army, and Cularin would be wiped from the galaxy." Source: *11:04:04 - Zero Zero Zero* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *11:04:04 - Zero Zero Zero* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d483-s2-then-last-week-i-learned-more.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/483-11-04-04-zero-zero-zero.md:21`
 
 ## Living Force Campaign/Articles/Year 5/10:13:05 - What Are We, Then?.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2464,7 +2388,6 @@ Our notes: `notes/materials/037-sw-d20-folder/516-10-13-05-what-are-we-then.md:1
 — Source: Living Force Campaign/Articles/Year 5/10:13:05 - What Are We, Then?.pdf [.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard what are we then by minos felkona as transcribed by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_what_are_we_then_by_minos_felkona_as_transcribed_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious); General Grievous — entry/section: Minos Fel'Kona: "Which brings us to the matter of Palpatine's pet, this Vader. I'm not sure which of the rumors about him to believe. That he's dangerous, there can be no doubt. Grievous was dangerous as well. The Jedi-killer droid, which sounds more and more like Grievous, was dangerous." Source: *10:13:05 - What Are We, Then?* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *10:13:05 - What Are We, Then?* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d516-s1-which-brings-us-to-the-matter.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/516-10-13-05-what-are-we-then.md:14`
 
 ## Sourcebooks/Revenge of the Sith Collection.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2478,7 +2401,6 @@ Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 Note (our notes, around the quote): General Grievous; Count Dooku — entry/section: General Grievous: "He has been trained in lightsaber techniques by Count Dooku, and he takes pride in collecting lightsabers from the Jedi he defeats." Source: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.7
-![Quote image: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.7 — full quote as printed](quotes/d670-s7-he-has-been-trained-in-lightsaber.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection.md:46`
 
 - Note (summary from our notes, not a quotation): Page contents: Ch3 Equipment and Droids: IG-series 100 MagnaGuard bodyguard droid (trained by Grievous to fight Jedi) stats and loyal protector features; buzz droid; buzz-droid missile. (hand-read)
@@ -2490,7 +2412,6 @@ Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Villains of Revenge of the Sith (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Villains_of_Revenge_of_the_Sith_pdf_2f14e4299e`).)
 Note (our notes, around the quote): General Grievous — entry/section: IG-100 MagnaGuards trained by Grievous: "Holowan Mechanicals built the IG-series 100 MagnaGuard to General Grievous’s specifications, and he personally trained them in fighting Jedi. The following stats represent a typical MagnaGuard, but more experienced droids do exist." Source: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.8
-![Quote image: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.8 — full quote as printed](quotes/d670-s8-holowan-mechanicals-built-the-ig-series.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection.md:53`; `notes/materials/037-sw-d20-folder/152-villains-of-revenge-of-the-sith.md:41`
 
 - Note (summary from our notes, not a quotation): Page contents: Buzz droid stats; new weapons: BlasTech DT-57 Annihilator (Obi-Wan used one to defeat Grievous on Utapau); electrostaff (phrik alloy retains DR vs lightsabers). (hand-read)
@@ -2502,7 +2423,6 @@ Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous — entry/section: DT-57 Annihilator: Obi-Wan defeats Grievous: "A “superheavy” blaster pistol like the Caliban Model X and the BlasTech T-6 “Thunderer,” the DT-57 “Annihilator” packs a heavy punch without loss of range. Obi-Wan Kenobi used a DT-57 to defeat General Grievous on Utapau." Source: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.9
-![Quote image: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.9 — full quote as printed](quotes/d670-s9-a-superheavy-blaster-pistol-like-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection.md:60`
 
 - Note (summary from our notes, not a quotation): Page contents: Ch4 Starships: Venator-class Star Destroyer; Grievous's flagship Invisible Hand (Providence-class carrier/destroyer) stats. (hand-read)
@@ -2514,7 +2434,6 @@ Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): General Grievous; Count Dooku; Palpatine (Darth Sidious) — entry/section: Invisible Hand: "Spearheading the attack during the Battle of Coruscant, the Invisible Hand is where Grievous and Dooku kept the captive Palpatine. Before its destruction, Grievous cleverly confused Republic efforts to track it by frequently switching patrols with her sister ship, Lucid Voice." Source: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.11
-![Quote image: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.11 — full quote as printed](quotes/d670-s11-spearheading-the-attack-during-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection.md:72`
 
 - Note (summary from our notes, not a quotation): Page contents: ISP swamp speeder; Grievous's Tsmeu-6 wheel bike. (hand-read)
@@ -2530,7 +2449,6 @@ Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): General Grievous — entry/section: Grievous shatters the Invisible Hand viewport: "In the event of explosive decompression (as when Grievous shattered the viewport on the bridge of the Invisible Hand), you must make a Climb check (DC 20 - distance to the breach in meters) to grab something; if you fail, you're blown out into space." Source: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.24
-![Quote image: *Revenge of the Sith Collection* (SWRPG d20 Revised Core), scan p.24 — full quote as printed](quotes/d670-s24-in-the-event-of-explosive-decompression.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/670-revenge-of-the-sith-collection.md:143`
 
 ## Vehicles/Miniatures/Starship Battles Preview 5.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2542,7 +2460,6 @@ Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:
 > This particular ship, the Invisible Hand, was originally commissioned as a flagship for Nute Gunray and his advisors. But Darth Sidious forced him to give the ship to General Grievous when the cyborg general took command of the Separatist forces.
 — Source: Vehicles/Miniatures/Starship Battles Preview 5.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Nute Gunray; Palpatine (Darth Sidious); General Grievous — entry/section: The Invisible Hand: "This particular ship, the Invisible Hand, was originally commissioned as a flagship for Nute Gunray and his advisors. But Darth Sidious forced him to give the ship to General Grievous when the cyborg general took command of the Separatist forces." Source: *Starship Battles Preview 5* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Starship Battles Preview 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d696-s2-this-particular-ship-the-invisible-hand.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:17`
 
 - Note (summary from our notes, not a quotation): Page contents: Invisible Hand modifications by Grievous, Battle of Coruscant, tactics, stats. (hand-read)
@@ -2552,7 +2469,6 @@ Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:
 > The Invisible Hand became infamous during the Clone Wars, and Grievous took advantage of its fearsome reputation by using her sister ships (Lucid Voice and Colicoid Swarm) as decoys to confuse Republic forces. Spearheading the attack during the Battle of Coruscant, the Invisible Hand is where Grievous and Dooku kept the captive Palpatine. Ultimately, the ship broke apart after being crippled by the relentless broadsides of Venator-class star destroyers, but Anakin Skywalker and his allies managed to crash land the forward half of the ship on Coruscant's surface.
 — Source: Vehicles/Miniatures/Starship Battles Preview 5.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): General Grievous; Count Dooku; Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker) — entry/section: The Invisible Hand: "The Invisible Hand became infamous during the Clone Wars, and Grievous took advantage of its fearsome reputation by using her sister ships (Lucid Voice and Colicoid Swarm) as decoys to confuse Republic forces. Spearheading the attack during the Battle of Coruscant, the Invisible Hand is where Grievous and Dooku kept the captive Palpatine. Ultimately, the ship broke apart after being crippled by the relentless broadsides of Venator-class star destroyers, but Anakin Skywalker and his allies managed to crash land the forward half of the ship on Coruscant's surface." Source: *Starship Battles Preview 5* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Starship Battles Preview 5* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d696-s3-the-invisible-hand-became-infamous-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:24`
 
 ## Vehicles/Miniatures/Starship Battles Preview 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2560,7 +2476,6 @@ Our notes: `notes/materials/037-sw-d20-folder/696-starship-battles-preview-5.md:
 > When the Separatists occupied Utapau during the Clone Wars, Port Administrator Tion Medon ordered the militia to hide its starfighter forces (including squadrons of P-38s) in the sinkholes and caves that dot the surface of the planet. After the arrival of General Kenobi, these starfighters were readied to aid the Republic in liberating the planet from Grievous and his droids.
 — Source: Vehicles/Miniatures/Starship Battles Preview 6.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous — entry/section: Utapaun P-38 Starfighter: "When the Separatists occupied Utapau during the Clone Wars, Port Administrator Tion Medon ordered the militia to hide its starfighter forces (including squadrons of P-38s) in the sinkholes and caves that dot the surface of the planet. After the arrival of General Kenobi, these starfighters were readied to aid the Republic in liberating the planet from Grievous and his droids." Source: *Starship Battles Preview 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Starship Battles Preview 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d697-s2-when-the-separatists-occupied-utapau-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/697-starship-battles-preview-6.md:17`
 
 ## Vehicles/Starships and Vehicles of Revenge of the Sith.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2578,7 +2493,6 @@ Our notes: `notes/materials/037-sw-d20-folder/702-starships-and-vehicles-of-reve
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): General Grievous — entry/section: Grievous's Wheel Bike: "Grievous's wheel bike was modified to mount a double laser cannon instead of a passenger seat, and he also typically an electrostaff on board." Source: *Starships and Vehicles of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.10
-![Quote image: *Starships and Vehicles of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.10 — full quote as printed](quotes/d702-s10-grievouss-wheel-bike-was-modified-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/702-starships-and-vehicles-of-revenge-of-the.md:61`
 
 ## Adventures/Dawn of Defiance/07 - A Reckoning of Wraiths.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -2590,7 +2504,6 @@ Our notes: `notes/materials/037-sw-d20-folder/709-07-a-reckoning-of-wraiths.md:4
 > Any hero who succeeds on a DC 15 Knowledge (galactic lore) check learns that the /nvisible Hand was the name of General Grievous's flagship during the Clone Wars, and that the vessel was destroyed during the Battle of Coruscant.
 — Source: Adventures/Dawn of Defiance/07 - A Reckoning of Wraiths.pdf [Star Wars Ro; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "Any hero who succeeds on a DC 15 Knowledge (galactic lore) check learns that the /nvisible Hand was the name of General Grievous's flagship during the Clone Wars, and that the vessel was destroyed during the Battle of Coruscant." Source: *07 - A Reckoning of Wraiths* (SWRPG Saga Edition), scan p.6
-![Quote image: *07 - A Reckoning of Wraiths* (SWRPG Saga Edition), scan p.6 — full quote as printed](quotes/d709-s6-any-hero-who-succeeds-on-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/709-07-a-reckoning-of-wraiths.md:47`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -2628,7 +2541,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:
 > General, you are our last hope against the Huk in this war. May the spirits of our ancestors watch over you and your troops.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): General Grievous — entry/section: Pull quote: Kaleesh holy man blessing Grievous: ""General, you are our last hope against the Huk in this war. May the spirits of our ancestors watch over you and your troops." —Kaleesh holy man, blessing Grievous and the Izvoshra prior to a planned attack on Oben" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.114
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d715-s114-general-you-are-our-last-hope.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:329`
 
 ## Sourcebooks/Official Errata October 2008.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -2660,7 +2572,6 @@ Our notes: `notes/materials/037-sw-d20-folder/721-official-faq-and-errata-compil
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Official FAQ and Errata Compilation (text copy `_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Official_FAQ_and_Errata_Compilation_pdf_53330b085c`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Official FAQ and Errata Compilation (text copy `_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Official_FAQ_and_Errata_Compilation_pdf_53330b085c`).)
 Note (our notes, around the quote): General Grievous: "It would seem Grievous and others were capable of doing so in the Clone Wars cartoons." Source: *Official FAQ and Errata Compilation* (SWRPG Saga Edition), p.39
-![Quote image: *Official FAQ and Errata Compilation* (SWRPG Saga Edition), p.39 — full quote as printed](quotes/d721-p39-it-would-seem-grievous-and-others.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/721-official-faq-and-errata-compilation-scan-001-060.md:206`
 
 - Note (summary from our notes, not a quotation): Page contents: E19 Main Character Stat Changes (Errata) for chapter 15 characters (Reflex Defenses of Darth Vader, Luke Skywalker, Boba Fett, General Grievous; Vader BAB; Han Solo; Grievous; R2-D2). E20 Mechanics untrained (official optional rule: no take 10/20; failure moves object -1 step or destroys if disabled). E21 Noble BAB +10/+11/+12 at 14th-16th. E22 ARC Trooper Reflex 23 (flat-footed 21) and Delay Damage. E23 readying is a standard action. E24 Ride armor check penalty only for fast mount/dismount. (hand-read)
@@ -2678,7 +2589,6 @@ Our notes: `notes/materials/037-sw-d20-folder/721-official-faq-and-errata-compil
 > We imagine ourselves piloting X-wing starfighters down the Death Star trench or engaging in fight-to-the-death lightsaber duels with Darth Maul, Count Dooku, or General Grievous.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Darth Maul; Count Dooku; General Grievous.
 Note (our notes, around the quote): Darth Maul; Count Dooku; General Grievous: "We imagine ourselves piloting X-wing starfighters down the Death Star trench or engaging in fight-to-the-death lightsaber duels with Darth Maul, Count Dooku, or General Grievous." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.10
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.10 — full quote as printed](quotes/d723-s10-we-imagine-ourselves-piloting-x-wing.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-001-060.md:57`
 
 ## Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–295)
@@ -2690,7 +2600,6 @@ Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-sca
 > Count Dooku trains Grievous in lightsaber dueling techniques, and Grievous proudly collects the lightsabers from the Jedi he defeats. Grievous has four metal arms and can fight with four lightsabers at once, making him a terrifying opponent in melee combat.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa.
 Note (our notes, around the quote): General Grievous; Count Dooku; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker) — entry/section: General Grievous (Saga Edition Core Rulebook, Ch16): "Count Dooku trains Grievous in lightsaber dueling techniques, and Grievous proudly collects the lightsabers from the Jedi he defeats. Grievous has four metal arms and can fight with four lightsabers at once, making him a terrifying opponent in melee combat." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.279
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.279 — full quote as printed](quotes/d723-s279-count-dooku-trains-grievous-in-lightsaber.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:269`
 
 ## Sourcebooks/Scavenger's Guide to Droids.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -2730,7 +2639,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Count Dooku is a well-known Jedi traitor; General Grievous is a reputedly brilliant military leader whose visage intimidates his enemies; Generali Loathsom is a vicious brute, Asajj Ventress an aspiring Sith, and Durge an immortal bounty huater.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Count Dooku; General Grievous; Asajj Ventress.
 Note (our notes, around the quote): Count Dooku; General Grievous; Asajj Ventress: "Count Dooku is a well-known Jedi traitor; General Grievous is a reputedly brilliant military leader whose visage intimidates his enemies; Generali Loathsom is a vicious brute, Asajj Ventress an aspiring Sith, and Durge an immortal bounty huater." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.21
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.21 — full quote as printed](quotes/d728-s21-count-dooku-is-a-well-known.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-001-060.md:149`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -2818,7 +2726,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > It is so formidable in combat that General Grievous uses one, the Invisible Hand, as his flagship in the assault on Coruscant.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; General Grievous. POV: General Grievous.
 Note (our notes, around the quote): General Grievous: "It is so formidable in combat that General Grievous uses one, the Invisible Hand, as his flagship in the assault on Coruscant." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.209
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.209 — full quote as printed](quotes/d728-s209-it-is-so-formidable-in-combat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:247`
 
 - Note (summary from our notes, not a quotation): Page contents: Punworcca 116-class Sloop (Huppla Pasa Tisc Shipwrights Collective; Dooku's custom sloop, a gift from Poggle the Lesser, fitted with an antique solar sail; CL 6). Sheathipede-class Shuttle (Haor Chall; "Neimoidian shuttle"; CL 4). Subjugator-class Heavy Cruiser begins (Quarren Separatists at Pammant; ion pulse cannons; Grievous's Malevolence; Tactical Fire). (hand-read)
@@ -2874,7 +2781,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:3
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): General Grievous; Asajj Ventress — entry/section: Saga Edition Web Articles: "This trouble included going face to face with some of the most powerful villains leading the Separatists, including Asajj Ventress and General Grievous." Source: *Web Articles* (SWRPG Saga Edition), scan p.280
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.280 — full quote as printed](quotes/d732-s280-this-trouble-included-going-face-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:378`
 
 - Note (summary from our notes, not a quotation): Page contents: Obi Wan Kenobi Jedi General (Galaxy at War Preview 1 cont.): background (defeating "Darth Mual" [sic], Grievous and his apprentice; Soresu; clone armor; jet pack) and miniatures tactics (Surprise Move, Flight; Captain Rex; "Mas Ammeda" [sic]) - T records; Saga stats Obi-Wan Kenobi CL 16 Medium Human Jedi 8/soldier 1/Jedi Knight 5/officer 1/Jedi Master 1 (Destiny 5; Force 7; Dark Side 0; Init +15; Perception +11; Basic, Shyriiwook [understand], Binary [understand]; Ref 31, Fort 31, Will 35; Block, Deflect, Soresu; hp 142; immune fear; lightsaber +19 (2d8+12) or +14/+14 with Double Attack; Force powers incl. Circle of Shelter, High Ground Defense, Saber Swarm, Force Cloak; Force Regimens incl. Vo'ren's First and Second Cadence; Sokan, Soresu, Grand Leader; Force Regimen Mastery, Triple Crit; Use the Force +25; possessions incl. Jedi ornamental armor, jet pack; footnote: fulfilled the Education destiny, Saga core p114 - T record). (hand-read)
@@ -2886,7 +2792,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:3
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): General Grievous; Obi-Wan Kenobi — entry/section: Saga Edition Web Articles: "Obi Wan Kenobi Jedi General Although not the most powerful Jedi of the Republic during the Clone Wars, Obi Wan Kenobi is the hero responsible for defeating Darth Mual, General Grievous and his apprentice when he turned to the Dark Side of the Force." Source: *Web Articles* (SWRPG Saga Edition), scan p.281
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.281 — full quote as printed](quotes/d732-s281-obi-wan-kenobi-jedi-general-although.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:396`
 
 - Note (summary from our notes, not a quotation): Page contents: Galaxy at War Miniatures Preview 3: Battle Droid Sergeant and Commando Droid Captain by Jack Irons: intro; Galaxy at War set announcement (based on the Clone Wars cartoon, in stores October 27th); Battle Droid Sergeant background and miniatures tactics (Roger Roger; HK-50, ASN and IG-86 assassin droids; General Grievous, Droid Army Commander - T record; Super Battle Droid Commander; Battle Droid Officer; Chameleon Droid); Saga stats Battle Droid Sergeant CL 3 Medium droid (4th-degree) nonheroic 6/soldier 1 (low-light vision; Ref 11, Fort 12, Will 10; hp 20; blaster rifle +6 (3d8); "Base Attack 5+" as printed; Battle Analysis; Knowledge (tactics) +6; heuristic processor; availability Military; cost 4,200). Generic, S only. (hand-read)
@@ -2920,7 +2825,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:153`
 > He will definitely have some kind of processing to his voice. I don't know just what yet.
 — Source: Star Wars Insider #75 (2004); General Grievous — entry/section: Burtt on the new villain's voice.
 Note (our notes, around the quote): General Grievous — entry/section: Burtt on the new villain's voice: ""He will definitely have some kind of processing to his voice. I don't know just what yet." —Ben Burtt, Star Wars Insider 75, p. 32" Source: *Star Wars Insider #75* (2004), scan p.32
-![Quote image: *Star Wars Insider #75* (2004), scan p.32 — full quote as printed](quotes/ins075-s32-he-will-definitely-have-some-kind.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:200`
 
 - Note (summary from our notes, not a quotation): Page contents: "Evolution of Evil" opener: concept illustrations of General Grievous, including paintings by Erik Tiemens. (hand-read)
@@ -2946,7 +2850,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:388`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #75 (2004); General Grievous; Darth Vader (Anakin Skywalker) — entry/section: Fu.
 Note (our notes, around the quote): General Grievous; Darth Vader (Anakin Skywalker) — entry/section: Fu: "Darth Vader's mask will always be the best": ""Congratulations," Iain McCaig told the young artist. "You've created a new icon of evil." "Maybe so," says Fu, "but Darth Vader's mask will always be the best." —Warren Fu, Star Wars Insider 75, p. 64" Source: *Star Wars Insider #75* (2004), scan p.64
-![Quote image: *Star Wars Insider #75* (2004), scan p.64 — full quote as printed](quotes/ins075-s64-congratulations-iain-mccaig-told-the-young.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:390`
 
 > A droid is just built,
@@ -2962,7 +2865,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:390`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #75 (2004); General Grievous — entry/section: Church and Barnes on Grievous's vanity.
 Note (our notes, around the quote): General Grievous — entry/section: Church and Barnes on Grievous's vanity: ""A droid is just built," Church explains, "but this guy, we thought, has an ego – probably a very big ego. We thought he would be the first droid who cares how he looks. We wanted to give him a look that he'd designed himself. He's not this extruded, metallic, clunky thing; he's a very aesthetic thing." "He's actually developed a sense of vanity," suggests Barnes, "a pride in how he looks, but he also considers the mechanical to be the ideal, so he's redesigned himself over time. No component of him is off the shelf." —Ryan Church and Robert Barnes, Star Wars Insider 75, p. 64" Source: *Star Wars Insider #75* (2004), scan p.64
-![Quote image: *Star Wars Insider #75* (2004), scan p.64 — full quote as printed](quotes/ins075-s64-a-droid-is-just-built-church.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:392`
 
 - Note (summary from our notes, not a quotation): Page contents: Barnes's "mechanical decadence" (no visible circles, cylinders or spheres) and Star Wars iconography; Grievous debuts in the Clone Wars micro-series finale (Genndy Tartakovsky, art director Paul Rudish: a "Boba-Fett-with-the-Holiday-Special" sneak preview); hoof-like grasping feet; capoeira sidebar. (hand-read)
@@ -2972,7 +2874,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:397`
 > “General Grievous is a master strategist and the greatest hand-tohand Jedi killer the galaxy has ever known,” warns Star Wars producer Rick McCallum.
 — Source: Star Wars Insider #75 (2004); General Grievous — entry/section: Star Wars Insider 075 (2004).
 Note (our notes, around the quote): General Grievous — entry/section: Star Wars Insider 075 (2004): "“General Grievous is a master strategist and the greatest hand-tohand Jedi killer the galaxy has ever known,” warns Star Wars producer Rick McCallum." Source: *Star Wars Insider #75* (2004), scan p.65
-![Quote image: *Star Wars Insider #75* (2004), scan p.65 — full quote as printed](quotes/ins075-s65-general-grievous-is-a-master-strategist.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:399`
 
 > We wanted to avoid established mechanical devices – hydraulic cylinders, circular joints for elbows and knees and so on,
@@ -2981,7 +2882,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:399`
 > The term that I gave it was 'mechanical decadence.'
 — Source: Star Wars Insider #75 (2004); General Grievous — entry/section: Barnes: "mechanical decadence".
 Note (our notes, around the quote): General Grievous — entry/section: Barnes: "mechanical decadence": ""We wanted to avoid established mechanical devices – hydraulic cylinders, circular joints for elbows and knees and so on," says Barnes. "In fact, we wanted to avoid any visible circles, cylinders and spheres in his body. "The term that I gave it was 'mechanical decadence.'" —Robert Barnes, Star Wars Insider 75, p. 65" Source: *Star Wars Insider #75* (2004), scan p.65
-![Quote image: *Star Wars Insider #75* (2004), scan p.65 — full quote as printed](quotes/ins075-s65-we-wanted-to-avoid-established-mechanical.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:401`
 
 - Note (summary from our notes, not a quotation): Page contents: Republic HoloNet News feature "Duro Falls to Grievous: Confederacy Now Controls Vital System" (illustrations by Joe Corroney) — Grievous takes Duro after destroying the Acclamator-class Founder, Anteater and Doughty; Jyvus Space City captured, planetary shields dropped. (hand-read)
@@ -3021,7 +2921,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:47`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #77 (2004); General Grievous — entry/section: Star Wars Insider 077 (2004).
 Note (our notes, around the quote): General Grievous — entry/section: Star Wars Insider 077 (2004): "We too were very shocked to see General Grievous mow down so many powerful Jedi and with such relative" Source: *Star Wars Insider #77* (2004), scan p.8
-![Quote image: *Star Wars Insider #77* (2004), scan p.8 — full quote as printed](quotes/ins077-s8-we-too-were-very-shocked-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:49`
 
 - Note (summary from our notes, not a quotation): Page contents: Skywalking continued: a new 12-minute-per-episode Clone Wars miniseries from Genndy Tartakovsky (Howard Roffman, Jim Samples) with an expanded role for General Grievous; the London Symphony Orchestra plays the Star Wars theme at its centenary concert before the Queen; THX 1138 comes to DVD September 14. (hand-read)
@@ -3075,7 +2974,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:153`
 > I think Darth Vader at least had some redeeming characteristics. After all, his fondest wish was for his kids to come into the family business. What's so bad about that?
 — Source: Star Wars Insider #80 (2005).
 Note (our notes, around the quote): General Grievous; Darth Vader (Anakin Skywalker) — entry/section: Dixon: truly mean: ""He's truly, truly mean," says Dixon of his subject. "I think Darth Vader at least had some redeeming characteristics. After all, his fondest wish was for his kids to come into the family business. What's so bad about that?" —Chuck Dixon, Star Wars Insider 80, p. 24" Source: *Star Wars Insider #80* (2005), scan p.24
-![Quote image: *Star Wars Insider #80* (2005), scan p.24 — full quote as printed](quotes/ins080-s24-hes-truly-truly-mean-says-dixon.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:155`
 
 > I suppose he's somewhat like the Terminator but with more free will and lots more personality,
@@ -3084,7 +2982,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:155`
 > [And] a touch of the Phantom of the Opera. He also seems to be more of his own man than other Star Wars villains. Well, half of his own man.
 — Source: Star Wars Insider #80 (2005); General Grievous — entry/section: Dixon: Terminator and Phantom.
 Note (our notes, around the quote): General Grievous — entry/section: Dixon: Terminator and Phantom: ""I suppose he's somewhat like the Terminator but with more free will and lots more personality," he muses. "[And] a touch of the Phantom of the Opera. He also seems to be more of his own man than other Star Wars villains. Well, half of his own man." —Chuck Dixon, Star Wars Insider 80, p. 24" Source: *Star Wars Insider #80* (2005), scan p.24
-![Quote image: *Star Wars Insider #80* (2005), scan p.24 — full quote as printed](quotes/ins080-s24-i-suppose-hes-somewhat-like-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:157`
 
 - Note (summary from our notes, not a quotation): Page contents: Grievous comic art with pull quote on Grievous enjoying being nasty; link to starwars.com comics. (hand-read)
@@ -3098,7 +2995,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:243`
 > We have the rescue of Ki-Adi-Mundi, so we start where we left off with him and Grievous. And it's a pretty cool rescue because it involves ARC Troopers, which is very reminiscent of the first episodes.
 — Source: Star Wars Insider #80 (2005).
 Note (our notes, around the quote): Ki-Adi-Mundi; General Grievous — entry/section: Season two opens with Ki-Adi-Mundi's rescue: ""We have the rescue of Ki-Adi-Mundi, so we start where we left off with him and Grievous. And it's a pretty cool rescue because it involves ARC Troopers, which is very reminiscent of the first episodes." —Genndy Tartakovsky, Star Wars Insider 80, p. 37" Source: *Star Wars Insider #80* (2005), scan p.37
-![Quote image: *Star Wars Insider #80* (2005), scan p.37 — full quote as printed](quotes/ins080-s37-we-have-the-rescue-of-ki.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:252`
 
 > angle of incidence will equal the angle of reflection
@@ -3147,7 +3043,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:164`
 > It follows him from his mysterious shuttle accident as a noble Khalee general to his rebirth as a cold-blooded cyborg. I figured that the fans would like to know how Grievous came to be. This is my chance to not only tell them but also to show them.
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): General Grievous; Darth Vader (Anakin Skywalker) — entry/section: The birth of General Grievous: ""My story essentially deals with the birth of General Grievous," he says. "It follows him from his mysterious shuttle accident as a noble Khalee general to his rebirth as a cold-blooded cyborg. I figured that the fans would like to know how Grievous came to be. This is my chance to not only tell them but also to show them." —Warren Fu, Star Wars Insider 82, p. 26" Source: *Star Wars Insider #82* (2005), scan p.26
-![Quote image: *Star Wars Insider #82* (2005), scan p.26 — full quote as printed](quotes/ins082-s26-my-story-essentially-deals-with-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:168`
 
 - Note (summary from our notes, not a quotation): Page contents: Ask the Master (Pablo Hidalgo), "A Grab Bag of Lightsabers": Grievous' trophy lightsaber is Obi-Wan's (Ty Teiger prop; Luke's Episode VI saber resembles it); did the Sith continue (Vader and Sidious seeking secret apprentices; Emperor's Hands; Vader's apprentices Tyne Vost, Hethrir, Shira Brie/Lumiya; Sith relics and followers). Questioners omitted. (hand-read)
@@ -3231,7 +3126,6 @@ Our notes: `notes/materials/038-star-wars-insider/084-ins084.md:460`
 > It's a way of introducing Grievous the way Vader was introduced to us, when he strangles that Rebel officer. You know he's a bad guy.
 — Source: Star Wars Insider #84 (2005); General Grievous — entry/section: McCaig on Grievous' introduction.
 Note (our notes, around the quote): General Grievous — entry/section: McCaig on Grievous' introduction: ""It's a way of introducing Grievous the way Vader was introduced to us, when he strangles that Rebel officer. You know he's a bad guy." —Ian McCaig, Star Wars Insider 84, pp. 80–81" Source: *Star Wars Insider #84* (2005), scan p.81
-![Quote image: *Star Wars Insider #84* (2005), scan p.81 — full quote as printed](quotes/ins084-s81-its-a-way-of-introducing-grievous.jpg)
 Our notes: `notes/materials/038-star-wars-insider/084-ins084.md:472`
 
 ## Star Wars Insider #85 (2006)
@@ -3262,7 +3156,6 @@ Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:181`
 > It's an early version of the technology used to save Vader but in Grievous's case, the technology is not quite working. So, as formidable as he is, he's also a bit sickly. He's a skulking, miserable villain with a hacking cough, and we had a great time working with him because we love creating bad guys!
 — Source: Star Wars Insider #85 (2006).
 Note (our notes, around the quote): General Grievous; Darth Vader (Anakin Skywalker) — entry/section: Rob Coleman on Grievous: ""George wanted a visually interesting antagonist who represented the technology that will ultimately consume Anakin," says Coleman. "It's an early version of the technology used to save Vader but in Grievous's case, the technology is not quite working. So, as formidable as he is, he's also a bit sickly. He's a skulking, miserable villain with a hacking cough, and we had a great time working with him because we love creating bad guys!" —Rob Coleman, Star Wars Insider 85, p. 30" Source: *Star Wars Insider #85* (2006), scan p.30
-![Quote image: *Star Wars Insider #85* (2006), scan p.30 — full quote as printed](quotes/ins085-s30-george-wanted-a-visually-interesting-antagonist.jpg)
 Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:183`
 
 - Note (summary from our notes, not a quotation): Page contents: Art of ROTS: Vader Construction (Warren Fu), Grievous/Obi-Wan Face-Off (Derek Thompson) (hand-read)
@@ -3292,7 +3185,6 @@ Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:487`
 > I guess he was a little freaked out after getting his chest crushed by Mace Windu. He became a little bit more apprehensive about the Jedi after that.
 — Source: Star Wars Insider #85 (2006).
 Note (our notes, around the quote): General Grievous; Mace Windu — entry/section: Matt Wood on Grievous as coward: ""I guess he was a little freaked out after getting his chest crushed by Mace Windu. He became a little bit more apprehensive about the Jedi after that." —Matthew Wood, Star Wars Insider 85, p. 83" Source: *Star Wars Insider #85* (2006), scan p.83
-![Quote image: *Star Wars Insider #85* (2006), scan p.83 — full quote as printed](quotes/ins085-s83-i-guess-he-was-a-little.jpg)
 Our notes: `notes/materials/038-star-wars-insider/085-ins085.md:489`
 
 ## Star Wars Insider #86 (2006)
@@ -3398,13 +3290,11 @@ Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:657`
 > Grievous was voiced by my sound design partner, Matt Wood. We did a lot of the voices together in the last few films. Matt is a good actor and he tried out for the part of General Grievous—anonymously—and won it.
 — Source: Star Wars Insider #99 (2008); none — entry/section: Matt Wood as Grievous.
 Note (our notes, around the quote): none — entry/section: Matt Wood as Grievous: ""Grievous was voiced by my sound design partner, Matt Wood. We did a lot of the voices together in the last few films. Matt is a good actor and he tried out for the part of General Grievous—anonymously—and won it." —Ben Burtt, Star Wars Insider 99, p. 47" Source: *Star Wars Insider #99* (2008), scan p.47
-![Quote image: *Star Wars Insider #99* (2008), scan p.47 — full quote as printed](quotes/ins099-s47-grievous-was-voiced-by-my-sound.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:436`
 
 > That was George Lucas' idea from the beginning, that Grievous would be coughing. We kind of questioned it, because we weren't sure what that meant for the story. Did it have something to do with Grievous' backstory? How did it connect to the history of the character? We were a little puzzled, but we do what George wants. He wanted Grievous to have these breathing troubles because he is a forerunner of the type of technology that eventually creates Darth Vader.
 — Source: Star Wars Insider #99 (2008); Darth Vader (Anakin Skywalker) — entry/section: Grievous' cough.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Grievous' cough: ""That was George Lucas' idea from the beginning, that Grievous would be coughing. We kind of questioned it, because we weren't sure what that meant for the story. Did it have something to do with Grievous' backstory? How did it connect to the history of the character? We were a little puzzled, but we do what George wants. He wanted Grievous to have these breathing troubles because he is a forerunner of the type of technology that eventually creates Darth Vader." —Ben Burtt, Star Wars Insider 99, p. 47" Source: *Star Wars Insider #99* (2008), scan p.47
-![Quote image: *Star Wars Insider #99* (2008), scan p.47 — full quote as printed](quotes/ins099-s47-that-was-george-lucas-idea-from.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:438`
 
 > General Grievous ARTFX Statue, approximately 11
@@ -3541,7 +3431,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:740`
 — Source: Star Wars Insider #103 (2008).
 (Full sentence/passage taken from the source text on file: `primary_essential_guides_eg_readers_companion_2012_Star_Wars_The_Essential_Readers_Companion_Pablo_Hidalgo_8O9y2bib_epub`.)
 Note (our notes, around the quote): General Grievous — entry/section: Gilroy's early Clone Wars episode titles: ""Here's a few that don't give anything away: "Rising Malevolence," "Cloak of Darkness," "Lair of Grievous," "Downfall of a Droid," and "Ambush in the Outer Rim."" —Henry Gilroy, Star Wars Insider 103, p. 13" Source: *Star Wars Insider #103* (2008), scan p.13
-![Quote image: *Star Wars Insider #103* (2008), scan p.13 — full quote as printed](quotes/ins103-s13-heres-a-few-that-dont-give.jpg)
 Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:134`
 
 - Note (summary from our notes, not a quotation): Page contents: Screen Idols (folio "INSIDER 27"): General Grievous and Clone Commander Rex profiles with Clone Wars art and name plates (hand-read)
@@ -3571,7 +3460,6 @@ Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:15`
 > Sound the alarm, we have stowaways on board!
 — Source: Star Wars Insider #105 (2008); General Grievous — entry/section: Grievous epigraph (contents page).
 Note (our notes, around the quote): General Grievous — entry/section: Grievous epigraph (contents page): ""Sound the alarm, we have stowaways on board!" —General Grievous, Star Wars Insider 105, p. 2" Source: *Star Wars Insider #105* (2008), scan p.2
-![Quote image: *Star Wars Insider #105* (2008), scan p.2 — full quote as printed](quotes/ins105-s2-sound-the-alarm-we-have-stowaways.jpg)
 Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:17`
 
 - Note (summary from our notes, not a quotation): Page contents: Contents page continued: variant-cover note, departments list (Science of Star Wars, A Long Time Ago 1996, Versus Ventress vs Brood, Books Millennium Falcon, Comics Legacy Vector, lunch pails collecting, Toys, Bounty Hunters, Bantha Tracks Comic-Con, Classic Moment Obi-Wan vs Grievous); out-of-universe. (hand-read)
@@ -3648,19 +3536,16 @@ Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:117`
 > Those who have power should restrain themselves from using it.
 — Source: Star Wars Insider #106 (2009); Kit Fisto — entry/section: Kit Fisto ("Lair of Grievous").
 Note (our notes, around the quote): Kit Fisto — entry/section: Kit Fisto ("Lair of Grievous"): ""Those who have power should restrain themselves from using it." —Kit Fisto, Star Wars Insider 106, p. 16" Source: *Star Wars Insider #106* (2009), scan p.16
-![Quote image: *Star Wars Insider #106* (2009), scan p.16 — full quote as printed](quotes/ins106-s16-those-who-have-power-should-restrain.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:119`
 
 > [To Grievous] Don't make me destroy you!
 — Source: Star Wars Insider #106 (2009).
 Note (our notes, around the quote): Nahdar Vebb; General Grievous — entry/section: Nahdar Vebb to Grievous ("Lair of Grievous"): ""[To Grievous] Don't make me destroy you!" —Nahdar Vebb, Star Wars Insider 106, p. 16" Source: *Star Wars Insider #106* (2009), scan p.16
-![Quote image: *Star Wars Insider #106* (2009), scan p.16 — full quote as printed](quotes/ins106-s16-to-grievous-dont-make-me-destroy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:121`
 
 > I will rest when the Jedi are dead.
 — Source: Star Wars Insider #106 (2009); General Grievous — entry/section: Grievous ("Lair of Grievous").
 Note (our notes, around the quote): General Grievous — entry/section: Grievous ("Lair of Grievous"): ""I will rest when the Jedi are dead." —General Grievous, Star Wars Insider 106, p. 16" Source: *Star Wars Insider #106* (2009), scan p.16
-![Quote image: *Star Wars Insider #106* (2009), scan p.16 — full quote as printed](quotes/ins106-s16-i-will-rest-when-the-jedi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:123`
 
 > captained by General Grievous' elite guard, the silent and deadly MagnaGuard Droids
@@ -3701,7 +3586,6 @@ Our notes: `notes/materials/038-star-wars-insider/108-ins108.md:209`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #109 (2009).
 Note (our notes, around the quote): Darth Maul; Darth Vader (Anakin Skywalker); General Grievous — entry/section: Ray Park: Maul surviving into Episode III; dream duels: ""I would have loved for him to come back in Episode III to fight Anakin and, in turn, Darth Vader." … [If Maul could duel anyone:] "General Grievous or Darth Vader." —Ray Park, Star Wars Insider 109, p. 9" Source: *Star Wars Insider #109* (2009), scan p.9
-![Quote image: *Star Wars Insider #109* (2009), scan p.9 — full quote as printed](quotes/ins109-s9-i-would-have-loved-for-him.jpg)
 Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:54`
 
 > heroes on both sides
@@ -3731,7 +3615,6 @@ Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:338`
 > One of the things we wanted to do in The Clone Wars was bring a new look; something different to Star Wars. George Lucas talked early on about having an anime influence. Well, rather than just have an influence, we flew all the way to Japan and worked with Production I.G., bringing one of their really great artists, Atsushi Takeuchi, right into The Clone Wars. I wanted Takeuchi-san to do all kinds of things. One of them was designing General Grievous. He has such an amazing ability to break something down mechanically and show all the insides and outsides and parts and places.
 — Source: Star Wars Insider #112 (2009); General Grievous — entry/section: Filoni on Takeuchi designing Grievous.
 Note (our notes, around the quote): General Grievous — entry/section: Filoni on Takeuchi designing Grievous: ""One of the things we wanted to do in The Clone Wars was bring a new look; something different to Star Wars. George Lucas talked early on about having an anime influence. Well, rather than just have an influence, we flew all the way to Japan and worked with Production I.G., bringing one of their really great artists, Atsushi Takeuchi, right into The Clone Wars. I wanted Takeuchi-san to do all kinds of things. One of them was designing General Grievous. He has such an amazing ability to break something down mechanically and show all the insides and outsides and parts and places." —Dave Filoni, Star Wars Insider 112, p. 77" Source: *Star Wars Insider #112* (2009), scan p.77
-![Quote image: *Star Wars Insider #112* (2009), scan p.77 — full quote as printed](quotes/ins112-s77-one-of-the-things-we-wanted.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:477`
 
 ## Star Wars Insider #114 (2010)
@@ -3841,7 +3724,6 @@ Our notes: `notes/materials/038-star-wars-insider/130-ins130.md:416`
 > We get to see Obi-Wan taking on this huge number of droids, and he just dispatches them this quickly, so we can see the more ruthless side of him, where he's kind of fed up with Grievous and all these droids.
 — Source: Star Wars Insider #130 (2012).
 Note (our notes, around the quote): Obi-Wan Kenobi; General Grievous — entry/section: Obi-Wan dispatches the droids: ""We get to see Obi-Wan taking on this huge number of droids, and he just dispatches them this quickly, so we can see the more ruthless side of him, where he's kind of fed up with Grievous and all these droids." —Rob Coleman, ROTS DVD audio commentary, Star Wars Insider 130, p. 75" Source: *Star Wars Insider #130* (2012), scan p.75
-![Quote image: *Star Wars Insider #130* (2012), scan p.75 — full quote as printed](quotes/ins130-s75-we-get-to-see-obi-wan.jpg)
 Our notes: `notes/materials/038-star-wars-insider/130-ins130.md:418`
 
 ## Star Wars Insider #131 (2012)
@@ -4362,20 +4244,20 @@ Our notes: `notes/materials/048-ultimate-visual-guide/uvg-04-behind-scenes-back-
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Grievous's eye: his first appearance in the story](panels/ob4-p19-grievous-eye.jpg)
+- Note (summary from our notes, not a quotation): ![Grievous's eye: his first appearance in the story](../../notes/materials/049-obsession/panels/ob4-p19-grievous-eye.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:55`
 
-- Note (summary from our notes, not a quotation): ![Grievous ambushes Adi Gallia and Soon Bayts](panels/ob4-p20-grievous-ambush.jpg)
+- Note (summary from our notes, not a quotation): ![Grievous ambushes Adi Gallia and Soon Bayts](../../notes/materials/049-obsession/panels/ob4-p20-grievous-ambush.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:58`
 
 > I was built to kill your kind.
 — Source: Star Wars: Obsession: daily-image candidates; ![Grievous vs Adi Gallia.
-Note (our notes, around the quote): ![Grievous vs Adi Gallia: "I was built to kill your kind."](panels/ob5-p08-grievous-vs-gallia.jpg)
+Note (our notes, around the quote): ![Grievous vs Adi Gallia: "I was built to kill your kind."](../../notes/materials/049-obsession/panels/ob5-p08-grievous-vs-gallia.jpg)
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:73`
 
-- Note (summary from our notes, not a quotation): ![Mace Windu on a giant skull faces Grievous over Gallia's body](panels/ob5-p09-mace-on-skull.jpg)
+- Note (summary from our notes, not a quotation): ![Mace Windu on a giant skull faces Grievous over Gallia's body](../../notes/materials/049-obsession/panels/ob5-p09-mace-on-skull.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:76`
 

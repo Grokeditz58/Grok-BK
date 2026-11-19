@@ -23,13 +23,11 @@ Our notes: `notes/materials/037-sw-d20-folder/174-jedi-counseling-11-illusion-co
 > [fragment — full passage not on file]
 — Source: Jedi Counselling/Jedi Counseling 11 - Illusion Confusion.pdf [Star Wars R.
 Note (our notes, around the quote): So, Valara creates her illusion, and Darth Vader comes around the corner and walks halfway down the corridor, stopping 1 meter from the hidden boneworm. He then ignites his lightsaber, and intones "Leave now or be destroyed." Here's how everyone reacts:" Source: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d174-s1-valara-wants-to-scare-everyone-away.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/174-jedi-counseling-11-illusion-confusion.md:13`
 
 > Valara, meanwhile, peering around the corner but staying in the shadows, can see the illusionary Vader as a kind of hazy Vaderlike hologram. When the vornskr attacks her, though, she ceases spending vitality on the illusion, and Vader simply vanishes.
 — Source: Jedi Counselling/Jedi Counseling 11 - Illusion Confusion.pdf [Star Wars R.
 Note (our notes, around the quote): Valara Saar; Darth Vader (Anakin Skywalker) — entry/section: Valara sees her own illusion: "Valara, meanwhile, peering around the corner but staying in the shadows, can see the illusionary Vader as a kind of hazy Vaderlike hologram. When the vornskr attacks her, though, she ceases spending vitality on the illusion, and Vader simply vanishes." Source: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 11 - Illusion Confusion* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d174-s2-valara-meanwhile-peering-around-the-corner.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/174-jedi-counseling-11-illusion-confusion.md:20`
 
 # Debate and forum claims (unverified)

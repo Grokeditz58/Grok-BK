@@ -14,7 +14,6 @@
 > Sidious worked behind the scenes with his agent, Kinman Doriana, to gather a huge, 15-ship task force that would intercept and destroy Outbound Flight.
 — Source: scan pages 401–440; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Palpatine (Darth Sidious): "Sidious worked behind the scenes with his agent, Kinman Doriana, to gather a huge, 15-ship task force that would intercept and destroy Outbound Flight." Source: The Complete Star Wars Encyclopedia, Vol. II, p.430
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.430 — full quote as printed](quotes/v2-p430-sidious-worked-behind-the-scenes-with.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:267`
 
 ## The New Essential Guide to Characters (2002)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Mitth'raw'nuruodo wiped out these invaders, sparing only one—Palpatine's adviser Kinman Doriana, who explained to him the purpose of the mission.
 — Source: scan pages 151–180; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Palpatine (Darth Sidious): "Mitth'raw'nuruodo wiped out these invaders, sparing only one—Palpatine's adviser Kinman Doriana, who explained to him the purpose of the mission." Source: The New Essential Guide to Characters, p.185
-![Quote image: The New Essential Guide to Characters, p.185 — full quote as printed](quotes/negc-p185-mitthrawnuruodo-wiped-out-these-invaders-sparing.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:225`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–118)
@@ -40,7 +38,6 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.
 > While a Chiss prisoner, Car'das made the acquaintance of Kinman Doriana, who had been sent by Darth Sidious to destroy the Republic's Outbound Flight before both it and Doriana crossed Chiss space.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Palpatine (Darth Sidious): "While a Chiss prisoner, Car'das made the acquaintance of Kinman Doriana, who had been sent by Darth Sidious to destroy the Republic's Outbound Flight before both it and Doriana crossed Chiss space." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.110
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.110 — full quote as printed](quotes/d725-s110-while-a-chiss-prisoner-cardas-made.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:304`
 
 ## Star Wars Insider #68 (2003)
@@ -52,7 +49,6 @@ Our notes: `notes/materials/038-star-wars-insider/068-ins068.md:255`
 > He shook his head firmly. No, that would never happen. Sidious was too powerful, and Doriana himself too clever, to ever allow such a useful relationship to be ruined.
 — Source: Star Wars Insider #68 (2003).
 Note (our notes, around the quote): Palpatine (Darth Sidious); Kinman Doriana — entry/section: Zahn Clone Wars story: Doriana on Sidious: "He shook his head firmly. No, that would never happen. Sidious was too powerful, and Doriana himself too clever, to ever allow such a useful relationship to be ruined." Source: *Star Wars Insider #68* (2003), scan p.56
-![Quote image: *Star Wars Insider #68* (2003), scan p.56 — full quote as printed](quotes/ins068-s56-he-shook-his-head-firmly-no.jpg)
 Our notes: `notes/materials/038-star-wars-insider/068-ins068.md:287`
 
 ## Star Wars Insider #96 (2007)

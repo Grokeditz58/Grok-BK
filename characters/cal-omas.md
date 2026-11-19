@@ -32,7 +32,6 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-6-inferno-notes.md:491`
 > Ben came to believe that Jacen had killed his mother, but Jacen instead implicated the former Galactic Alliance Chief of State, Cal Omas.
 — Source: scan pages 161–200; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Jacen Solo (Darth Caedus): "Ben came to believe that Jacen had killed his mother, but Jacen instead implicated the former Galactic Alliance Chief of State, Cal Omas." Source: The Complete Star Wars Encyclopedia, Vol. III, p.162
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.162 — full quote as printed](quotes/v3-p162-ben-came-to-believe-that-jacen.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:79`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)

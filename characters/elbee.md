@@ -14,7 +14,6 @@
 > Although T1-LB's original body had been destroyed, the Arkanian engineer Camper managed to restore his main cognitive centers and storage banks, allowing Zayne to witness the murders of his fellow students.
 — Source: scan pages 201–240; Zayne Carrick. POV: Zayne Carrick, about Elbee (T1-LB).
 Note (our notes, around the quote): Zayne Carrick: "Although T1-LB's original body had been destroyed, the Arkanian engineer Camper managed to restore his main cognitive centers and storage banks, allowing Zayne to witness the murders of his fellow students." Source: The Complete Star Wars Encyclopedia, Vol. III, p.207
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.207 — full quote as printed](quotes/v3-p207-although-t1-lbs-original-body-had.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:122`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)

@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:
 > Lightning Squadron! Reckless, snobbish glory-hounds and special-forces wannabes. Yeah, they rejected my application. But I didn't want to join them, anyway.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): Sergeant Frumm — entry/section: Pull quote: Sergeant Frumm on Lightning Squadron: ""Lightning Squadron! Reckless, snobbish glory-hounds and special-forces wannabes. Yeah, they rejected my application. But I didn't want to join them, anyway." —Sergeant Frumm, hero of the Battle of Vulcusion" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.118
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.118 — full quote as printed](quotes/d715-s118-lightning-squadron-reckless-snobbish-glory-hounds.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:374`
 
 # Debate and forum claims (unverified)

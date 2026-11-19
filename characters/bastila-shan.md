@@ -1930,50 +1930,42 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:5007`
 > During the Jedi Civil War, the Jedi Knight Bastila Shan used a rare and powerful ability known as battle meditation to inspire, coordinate, and strengthen whole legions of Republic soldiers.
 — Source: The Jedi Order; Bastila Shan — Path of the Light Side.
 Note (our notes, around the quote): Bastila Shan — Path of the Light Side: "During the Jedi Civil War, the Jedi Knight Bastila Shan used a rare and powerful ability known as battle meditation to inspire, coordinate, and strengthen whole legions of Republic soldiers." Source: The Old Republic Encyclopedia, p.64
-![Quote image: The Old Republic Encyclopedia, p.64 — full quote as printed](quotes/tore-p64-during-the-jedi-civil-war-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:18`
 
 > Under the command of the powerful Jedi Bastila Shan, the strike team attacked Revan's flagship, boarded his vessel, and confronted the mighty Sith.
 — Source: The Jedi Order; Bastila Shan; Revan — Revan's Rebirth.
 Note (our notes, around the quote): Bastila Shan; Revan — Revan's Rebirth: "Under the command of the powerful Jedi Bastila Shan, the strike team attacked Revan's flagship, boarded his vessel, and confronted the mighty Sith." Source: The Old Republic Encyclopedia, p.71, sidebar
-![Quote image: The Old Republic Encyclopedia, p.71 — full quote as printed](quotes/tore-p71-under-the-command-of-the-powerful.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:63`
 
 > It was there that the Jedi healed not only Revan's wounded body, but the scars and traumas that wracked his mind. Their combined power erased Revan's memories of his dark past.
 — Source: The Jedi Order; Revan; Bastila Shan — Revan's Rebirth.
 Note (our notes, around the quote): Revan; Bastila Shan — Revan's Rebirth: "It was there that the Jedi healed not only Revan's wounded body, but the scars and traumas that wracked his mind. Their combined power erased Revan's memories of his dark past." Source: The Old Republic Encyclopedia, p.71, sidebar
-![Quote image: The Old Republic Encyclopedia, p.71 — full quote as printed](quotes/tore-p71-it-was-there-that-the-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:67`
 
 > By reaching out with the Force, Bastila could unite entire armies, boosting their morale and coordinating their attack. Darth Malak desired such power.
 — Source: The Jedi Order; Bastila Shan; Darth Malak — Taris Bombarded.
 Note (our notes, around the quote): Bastila Shan; Darth Malak — Taris Bombarded: "By reaching out with the Force, Bastila could unite entire armies, boosting their morale and coordinating their attack. Darth Malak desired such power." Source: The Old Republic Encyclopedia, p.71, sidebar
-![Quote image: The Old Republic Encyclopedia, p.71 — full quote as printed](quotes/tore-p71-by-reaching-out-with-the-force.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:69`
 
 > Revan dueled Malak until Bastila sacrificed herself to aid Revan's escape.
 — Source: The Jedi Order; Revan; Darth Malak; Bastila Shan — Facing the Past.
 Note (our notes, around the quote): Revan; Darth Malak; Bastila Shan — Facing the Past: "Revan dueled Malak until Bastila sacrificed herself to aid Revan's escape." Source: The Old Republic Encyclopedia, p.72
-![Quote image: The Old Republic Encyclopedia, p.72 — full quote as printed](quotes/tore-p72-revan-dueled-malak-until-bastila-sacrificed.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:78`
 
 > Revan boarded the station—but his progress was blocked by Bastila Shan, now corrupted as Malak's apprentice. Revan overpowered Bastila and saved her from Malak's insidious influence, thus restoring her to the path of the light side.
 — Source: The Jedi Order; Revan; Bastila Shan — Battle of Rakata Prime.
 Note (our notes, around the quote): Revan; Bastila Shan — Battle of Rakata Prime: "Revan boarded the station—but his progress was blocked by Bastila Shan, now corrupted as Malak's apprentice. Revan overpowered Bastila and saved her from Malak's insidious influence, thus restoring her to the path of the light side." Source: The Old Republic Encyclopedia, p.72
-![Quote image: The Old Republic Encyclopedia, p.72 — full quote as printed](quotes/tore-p72-revan-boarded-the-station-but-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:80`
 
 > AGE: 300+ (prolonged by Sith alchemy) TITLES: The Revanchist, Darth Revan HONORS: Cross of Glory (Jedi Civil War) FAMILY: Bastila Shan (wife), Vaner Shan (son), Satele Shan (distant descendant)
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Revan — Revan data box.
 Note (our notes, around the quote): Revan — Revan data box: "AGE: 300+ (prolonged by Sith alchemy) TITLES: The Revanchist, Darth Revan HONORS: Cross of Glory (Jedi Civil War) FAMILY: Bastila Shan (wife), Vaner Shan (son), Satele Shan (distant descendant)" Source: The Old Republic Encyclopedia, p.73, sidebar
-![Quote image: The Old Republic Encyclopedia, p.73 — full quote as printed](quotes/tore-p73-age-300-prolonged-by-sith-alchemy.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:92`
 
 > Darth Malak tortured the Jedi Bastila Shan for days before she finally succumbed and became his apprentice.
 — Source: The Sith; Darth Malak; Bastila Shan — Resisting Temptation.
 Note (our notes, around the quote): Darth Malak; Bastila Shan — Resisting Temptation: "Darth Malak tortured the Jedi Bastila Shan for days before she finally succumbed and became his apprentice." Source: The Old Republic Encyclopedia, p.148
-![Quote image: The Old Republic Encyclopedia, p.148 — full quote as printed](quotes/tore-p148-darth-malak-tortured-the-jedi-bastila.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:47`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -1982,13 +1974,12 @@ Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:47`
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Bastila Shan; Revan; Darth Malak — Bastila captures Revan.
 Note (our notes, around the quote): Bastila Shan; Revan; Darth Malak — Bastila captures Revan: "The Jedi Knight Bastila Shan, a master of Battle Meditation, helped prevent the Republic's defeat" Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-bastila-captures-revan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:200`
 
 > Instead they Force-scoured the memories from the fallen Jedi's brain, placing Bastila in charge of a powerful warrior who was now little more than a blank slate.
 — Source: Part One: Tales of the Ancient Republic; Revan; Bastila Shan — memory wipe.
 Note (our notes, around the quote): Revan; Bastila Shan — memory wipe: "Instead they Force-scoured the memories from the fallen Jedi's brain, placing Bastila in charge of a powerful warrior who was now little more than a blank slate." Source: The New Essential Chronology, p.24
-![Quote image: The New Essential Chronology, p.24 — full quote as printed](quotes/nec-p24-memory-wipe.jpg)
+![Quote image: The New Essential Chronology, p.24 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p24-memory-wipe.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:202`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -1996,7 +1987,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > Malak dispatched Bandon to stop the mindwiped Revan and Bastila Shan's search for the Star Forge, and Revan slew Bandon.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Darth Bandon; Darth Malak; Revan; Bastila Shan — entry/section: Bandon, Darth: "Malak dispatched Bandon to stop the mindwiped Revan and Bastila Shan's search for the Star Forge, and Revan slew Bandon." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-malak-dispatched-bandon-to-stop-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:255`
 
 > Davik would joke that it was the best thing he had ever stolen, though it wasn't clear how he came into pos­ session of the Ebon Hawk. The ship's primary systems were modified so many times that the original classification as a Core Systems Dynamic-class freighter was difficult to spot.
@@ -2010,7 +2000,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Revan; Bastila Shan; Darth Malak: "Ownership of the Ebon Hawk changed hands to the rehabilitated Revan and Carth Onasi after Davik was killed in an altercation following the rescue of Bastila Shan, shortly before Taris was destroyed by Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. I, p.224
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.224 — full quote as printed](quotes/v1-p224-ownership-of-the-ebon-hawk-changed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:310`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -2018,13 +2007,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > He dogged Bastila Shan, Carth Onasi, and the Jedi Knights who were searching for the Star Forge along with Darth Malak, and was believed to have been killed on Taris.
 — Source: scan pages 361–400; Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Bastila Shan; Darth Malak: "He dogged Bastila Shan, Carth Onasi, and the Jedi Knights who were searching for the Star Forge along with Darth Malak, and was believed to have been killed on Taris." Source: The Complete Star Wars Encyclopedia, Vol. II, p.389
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.389 — full quote as printed](quotes/v2-p389-he-dogged-bastila-shan-carth-onasi.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:280`
 
 > He found himself unable to trust anyone, particularly the inscrutable Jedi he was often teamed with during his missions, He still carried out his duty, escaping from the Endar Spire over Taris and freeing the captive Jedi Bastila Shan before that world was also destroyed by the Sith.
 — Source: scan pages 401–440; Bastila Shan. POV: Bastila Shan.
 Note (our notes, around the quote): Bastila Shan: "He found himself unable to trust anyone, particularly the inscrutable Jedi he was often teamed with during his missions, He still carried out his duty, escaping from the Endar Spire over Taris and freeing the captive Jedi Bastila Shan before that world was also destroyed by the Sith." Source: The Complete Star Wars Encyclopedia, Vol. II, p.412
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.412 — full quote as printed](quotes/v2-p412-he-found-himself-unable-to-trust.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:141`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -2036,19 +2023,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > Shan, Bastila A skilled Jedi from Talravin who specialized in Jedi battle meditation during the years of the Jedi Civil War.
 — Source: scan pages 121–160; Bastila Shan — entry/section: Shan, Bastila.
 Note (our notes, around the quote): Bastila Shan — entry/section: Shan, Bastila: "Shan, Bastila A skilled Jedi from Talravin who specialized in Jedi battle meditation during the years of the Jedi Civil War." Source: The Complete Star Wars Encyclopedia, Vol. III, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.144 — full quote as printed](quotes/v3-p144-shan-bastila-a-skilled-jedi-from.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:241`
 
 > Bastila Shan was brash and impulsive, turning every fiber of her being toward defeating the Sith menace and proving herself to the leading Jedi.
 — Source: scan pages 121–160; Bastila Shan — entry/section: Shan, Bastila.
 Note (our notes, around the quote): Bastila Shan — entry/section: Shan, Bastila: "Bastila Shan was brash and impulsive, turning every fiber of her being toward defeating the Sith menace and proving herself to the leading Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.144 — full quote as printed](quotes/v3-p144-bastila-shan-was-brash-and-impulsive.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:243`
 
 > During his search for Bastila Shan, Darth Malak ordered an orbital bombardment of Taris that devastated the planet's cities and killed billions.
 — Source: scan pages 201–240; Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Bastila Shan; Darth Malak: "During his search for Bastila Shan, Darth Malak ordered an orbital bombardment of Taris that devastated the planet's cities and killed billions." Source: The Complete Star Wars Encyclopedia, Vol. III, p.220
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.220 — full quote as printed](quotes/v3-p220-during-his-search-for-bastila-shan.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:235`
 
 ## Characters/Miniatures/Champions of the Force Preview 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2056,7 +2040,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > In truth, HK-47 was an assassin droid owned by the Sith Lord Darth Revan, and he'd been modified to function as a translator during Revan's search for the long-lost Star Forge. Revan altered HK-47's memory core to hide all references to himself, leaving the secret information in heavily protected files until he could later regain control of the droid. But the Sith Lord’s plan was complicated by the fact that his own memories were wiped clean during the capture spearheaded by Bastila Shan. Only when Revan's true identity reemerged was HK-47 able to reactivate all of his old programming.
 — Source: Characters/Miniatures/Champions of the Force Preview 1.pdf [Star Wars Rol.
 Note (our notes, around the quote): HK-47; Revan; Bastila Shan — entry/section: HK-47 and Darth Revan's locked memories: "In truth, HK-47 was an assassin droid owned by the Sith Lord Darth Revan, and he'd been modified to function as a translator during Revan's search for the long-lost Star Forge. Revan altered HK-47's memory core to hide all references to himself, leaving the secret information in heavily protected files until he could later regain control of the droid. But the Sith Lord’s plan was complicated by the fact that his own memories were wiped clean during the capture spearheaded by Bastila Shan. Only when Revan's true identity reemerged was HK-47 able to reactivate all of his old programming." Source: *Champions of the Force Preview 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Champions of the Force Preview 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d100-s1-in-truth-hk-47-was-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/100-champions-of-the-force-preview-1.md:14`
 
 ## Characters/Miniatures/Champions of the Force Preview 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2068,19 +2051,16 @@ Our notes: `notes/materials/037-sw-d20-folder/105-champions-of-the-force-preview
 > She also has Lightsaber Sweep and Lightsaber Deflect, again nicely fitting this second-tier niche.
 — Source: Characters/Miniatures/Champions of the Force Preview 6.pdf [Star Wars Rol; Bastila Shan — entry/section: Bastila Shan.
 Note (our notes, around the quote): Bastila Shan — entry/section: Bastila Shan: "She also has Lightsaber Sweep and Lightsaber Deflect, again nicely fitting this second-tier niche." Source: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d105-s1-she-also-has-lightsaber-sweep-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/105-champions-of-the-force-preview-6.md:16`
 
 > Bastila's real strength, of course, is in Force Valor and Battle Meditation, both of which allow her to assume a commander effect for the remainder of the skirmish.
 — Source: Characters/Miniatures/Champions of the Force Preview 6.pdf [Star Wars Rol; Bastila Shan — entry/section: Bastila Shan.
 Note (our notes, around the quote): Bastila Shan — entry/section: Bastila Shan: "Bastila's real strength, of course, is in Force Valor and Battle Meditation, both of which allow her to assume a commander effect for the remainder of the skirmish." Source: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d105-s1-bastilas-real-strength-of-course-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/105-champions-of-the-force-preview-6.md:18`
 
 > In fact, Battle Meditation allows Bastila to neutralize (and effectively steal) Darth Malak's commander effect, thus making her a very good match for the Sith Lord in a skirmish.
 — Source: Characters/Miniatures/Champions of the Force Preview 6.pdf [Star Wars Rol; Bastila Shan; Darth Malak — entry/section: Bastila Shan.
 Note (our notes, around the quote): Bastila Shan; Darth Malak — entry/section: Bastila Shan: "In fact, Battle Meditation allows Bastila to neutralize (and effectively steal) Darth Malak's commander effect, thus making her a very good match for the Sith Lord in a skirmish." Source: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Champions of the Force Preview 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d105-s1-in-fact-battle-meditation-allows-bastila.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/105-champions-of-the-force-preview-6.md:20`
 
 - Note (summary from our notes, not a quotation): Page contents: Bastila stats end (from image: SV Fort +12, Ref +13, Will +13; FP 6; DSP 2; Rep +6; Challenge Code G), skills, Force skills, feats; Crab Droid (Muckrackers, Utapau) description, tactics, card, RPG stats (hand-read)
@@ -2099,7 +2079,6 @@ Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:44`
 
 - Note (summary from our notes, not a quotation): A: Yes. Bastila isn't using just the Battle Meditation feat. In space battles, she would actually be using Inspire (a Force skill that requires Battle Meditation), which can potentially affect allies throughout an entire sector. For close-range battles, she (or the Jedi exile in Knights of the Old Republic II) may instead use Battle Meditation to aid allies or the Battle Influence skill (also requiring Battle Meditation feat) to confuse enemies. All of these are found in the Power of the Jedi Sourcebook." Source: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.4
   — Source: Jedi Counselling/Jedi Counseling 81.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d251-s4-q-its-always-seemed-to-me.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:45`
 
 ## Jedi Counselling/Jedi Counseling 95.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -2113,7 +2092,6 @@ Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:23`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 Note (our notes, around the quote): Bastila Shan — entry/section: Bastila's Battle Meditation and Force Valor stack: "A: Yes. The commander effect provided by Battle Meditation increases the bonus a character provides by combining fire, but it is not providing a bonus to the attacker himself. Thus, Old Republic Soldier A would get +2 from the Force Valor commander effect and +6 from Soldier B combining fire, for a total bonus of +8 to his Attack." Source: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d266-s2-a-yes-the-commander-effect-provided.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:30`
 
 > Q: Okay, but what if there are two Old Republic Soldiers, B and C, combining fire with A? Would both B and C provide the extra +2 when combining fire, or would only one of them provide the bonus? A: Both B and C would provide the extra +2 Attack when combining fire, yielding a bonus of +6 from each of them (+12 for both together). As before, this would still stack with the Force Valor commander effect, so A would get a total of +14 to his Attack. Q: If Bastila Shan has not activated either Force Valor or Battle Meditation, is she considered a follower? A: Yes, Bastila is considered a follower as long as she has not activated either Force Valor or Battle Meditation. Once she activates either of these Force powers, of course, she is considered a commander. Q: If Bastila Shan activates Battle Meditation, can enemy characters within 6 squares of Thrawn (and thus affected by Ysalamiri) still combine fire? A: No. Even though Battle Meditation itself is a Force power, it creates a commander effect once it is activated. Ysalamiri does nothing to stop commander effects.
@@ -2121,7 +2099,6 @@ Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 Note (our notes, around the quote): Bastila Shan — entry/section: Bastila is a follower until she activates: "A: Yes, Bastila is considered a follower as long as she has not activated either Force Valor or Battle Meditation. Once she activates either of these Force powers, of course, she is considered a commander." Source: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d266-s2-a-yes-bastila-is-considered-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:32`
 
 > A: Yes. Q: If a character with Master Speed gains Force Spirit, allowing Force points to be spent twice, would the character be able to use Master Speed twice to move 18 and attack? This works with Move Faster. A: No, the normal stacking rules apply ­­ you can't apply Master Speed twice at the same time. (Move Faster is an exception to the normal stacking rules.) Q: Here's the situation: Bastila Shan has activated Battle Meditation and Force Valor. Old Republic Soldier A is within 6 squares (and thus subject to the commander effect created by Force Valor), but Old Republic Soldier B is not. If Old Republic Soldier A makes an attack and Old Republic Soldier B combines fire with him, will the +2 Attack from the Force Valor commander effect stack with the additional +2 Attack that B provides when combining fire (from the Battle Meditation commander effect)? A: Yes. The commander effect provided by Battle Meditation increases the bonus a character provides by combining fire, but it is not providing a bonus to the attacker himself.
@@ -2129,7 +2106,6 @@ Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:32`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 Note (our notes, around the quote): Bastila Shan: "Q: Here's the situation: Bastila Shan has activated Battle Meditation and Force Valor." Source: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d266-s2-q-heres-the-situation-bastila-shan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:34`
 
 > Thus, Old Republic Soldier A would get +2 from the Force Valor commander effect and +6 from Soldier B combining fire, for a total bonus of +8 to his Attack. Q: Okay, but what if there are two Old Republic Soldiers, B and C, combining fire with A? Would both B and C provide the extra +2 when combining fire, or would only one of them provide the bonus? A: Both B and C would provide the extra +2 Attack when combining fire, yielding a bonus of +6 from each of them (+12 for both together). As before, this would still stack with the Force Valor commander effect, so A would get a total of +14 to his Attack. Q: If Bastila Shan has not activated either Force Valor or Battle Meditation, is she considered a follower? A: Yes, Bastila is considered a follower as long as she has not activated either Force Valor or Battle Meditation. Once she activates either of these Force powers, of course, she is considered a commander. Q: If Bastila Shan activates Battle Meditation, can enemy characters within 6 squares of Thrawn (and thus affected by Ysalamiri) still combine fire? A: No.
@@ -2137,7 +2113,6 @@ Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:34`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 95 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_95_pdf_ef621a1b3b`).)
 Note (our notes, around the quote): Bastila Shan: "Q: If Bastila Shan has not activated either Force Valor or Battle Meditation, is she considered a follower?" Source: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 95* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d266-s2-q-if-bastila-shan-has-not.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:36`
 
 - Note (summary from our notes, not a quotation): Bastila Shan; Grand Admiral Thrawn — entry/section: Battle Meditation vs Ysalamiri: "Q: If Bastila Shan activates Battle Meditation, can enemy characters within 6 squares of Thrawn (and thus affected by Ysalamiri) still combine fire?
@@ -2149,7 +2124,6 @@ Our notes: `notes/materials/037-sw-d20-folder/266-jedi-counseling-95.md:43`
 > Malak turns on his master, and Revan is struck down, only to be saved by a young Jedi named Bastila Shan.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Malak; Revan; Bastila Shan. POV: Bastila Shan; about Bastila Shan.
 Note (our notes, around the quote): Darth Malak; Revan; Bastila Shan: "Malak turns on his master, and Revan is struck down, only to be saved by a young Jedi named Bastila Shan." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d718-s8-malak-turns-on-his-master-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:65`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -2157,7 +2131,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > A Jedi strike team, led by legendary Jedi Knight Bastila Shan, lands on Darth Revan's flagship, captures him, and brings him back to the Republic.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Bastila Shan; Revan — entry/section: Knights of the Old Republic Campaign Guide (Saga): "A Jedi strike team, led by legendary Jedi Knight Bastila Shan, lands on Darth Revan's flagship, captures him, and brings him back to the Republic." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131 — full quote as printed](quotes/d718-s131-a-jedi-strike-team-led-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:72`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption "LUCIEN DRAAY AND BASTILA SHAN"; Bastila Shan bio and stats (Jedi Civil War; Human Jedi 10/Jedi Knight 7, CL 17; talents incl. Battle Meditation, Improved Battle Meditation, Telepathic Link; feats incl. Dual Weapon Mastery I–III, Withdrawal Strike). (hand-read)
@@ -2167,13 +2140,11 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > This sweeping Force power, which infuses allies with hope while simultaneously strangling enemy morale, has in the past reversed whole wars, and as the Jedi Civil War engulfs the galaxy, Bastila hopes to turn the tide toward Jedi favor.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Bastila Shan. POV: Bastila Shan.
 Note (our notes, around the quote): Bastila Shan: "This sweeping Force power, which infuses allies with hope while simultaneously strangling enemy morale, has in the past reversed whole wars, and as the Jedi Civil War engulfs the galaxy, Bastila hopes to turn the tide toward Jedi favor." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.138
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.138 — full quote as printed](quotes/d718-s138-this-sweeping-force-power-which-infuses.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:157`
 
 > Revan asks her to come back from the dark side for both their sakes, and after witnessing Revan's compassion, Bastila returns to the light, going on to use her invaluable battle meditation to help defeat the Sith Empire.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Revan; Bastila Shan. POV: Bastila Shan; about Bastila Shan.
 Note (our notes, around the quote): Revan; Bastila Shan: "Revan asks her to come back from the dark side for both their sakes, and after witnessing Revan's compassion, Bastila returns to the light, going on to use her invaluable battle meditation to help defeat the Sith Empire." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.138
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.138 — full quote as printed](quotes/d718-s138-revan-asks-her-to-come-back.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:159`
 
 ## Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -2185,7 +2156,6 @@ Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-sca
 > Kyp Durron (in the expanded Star Wors universe) performed act of dramatic heroism by destroying the Sun Crusher, a super ote Additionally, Jedi history tells of a Jedi named Bastila n Knights of the Old Republic) falling to the dark side, but in an amatic heroism she turned the Republic fleet against Darth Malak ful form of Battie Meditation. accepts the act as being appropriately heroic, dramatic, and Cheracter's Dark Side Score drops to 1, and he clears all but on his Dark Side Score tracker (so that he has a number equal to one less than his Wisdom score).
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Kyp Durron; Sun Crusher (superweapon); Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Kyp Durron; Sun Crusher (superweapon); Bastila Shan; Darth Malak: "Kyp Durron (in the expanded Star Wors universe) performed act of dramatic heroism by destroying the Sun Crusher, a super ote Additionally, Jedi history tells of a Jedi named Bastila n Knights of the Old Republic) falling to the dark side, but in an amatic heroism she turned the Republic fleet against Darth Malak ful form of Battie Meditation. accepts the act as being appropriately heroic, dramatic, and Cheracter's Dark Side Score drops to 1, and he clears all but on his Dark Side Score tracker (so that he has a number equal to one less than his Wisdom score)." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.103
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.103 — full quote as printed](quotes/d723-s103-kyp-durron-in-the-expanded-star.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-061-120.md:224`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

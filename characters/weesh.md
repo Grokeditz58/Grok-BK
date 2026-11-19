@@ -21,7 +21,6 @@ Our notes: `notes/materials/037-sw-d20-folder/168-space-worrt.md:12`
 
 - Note (summary from our notes, not a quotation): A mass case of spaceborne rubbernecking followed as dozens of ships swooped through the belt trying to get a glimpse of the enormous worrt that ate a Rodian. Space worrts follow the camouflaged tactics of their desert cousins and were difficult to spot at first (Weesh's last mistake)." Source: *Space Worrt* (SWRPG d20 Revised Core), scan p.1
   — Source: Creatures/Space Worrt.pdf [Star Wars Roleplaying Game Revised Core (d20,.
-![Quote image: *Space Worrt* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d168-s1-weesh-never-returned-but-toorpa-survived.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/168-space-worrt.md:13`
 
 # Debate and forum claims (unverified)

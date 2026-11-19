@@ -975,13 +975,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1139`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Shaak Ti — Shaak Ti and the ARCs: "The ARC troopers and Shaak Ti mowed through the advancing super battle droids, scattering body fragments like metallic sawdust." Source: The New Essential Chronology, p.57
-![Quote image: The New Essential Chronology, p.57 — full quote as printed](quotes/nec-p57-shaak-ti-and-the-arcs.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:253`
 
 > General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): General Grievous; Ki-Adi-Mundi; K'Kruhk; Shaak Ti; Aayla Secura — Grievous on Hypori: "General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-grievous-on-hypori.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:284`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -997,7 +995,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Stass Allie; Shaak Ti — Grievous captures Palpatine: "directly by General Grievous, butcher of a thousand worlds." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-grievous-captures-palpatine.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:479`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -1013,7 +1010,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Shaak Ti — none could stop Grievous: "Palpatine's Jedi defenders, including Mace Windu, Kit Fisto, Stass Allie, and Shaak Ti, hustled the chancellor to a hovertrain, and then a hardened command bunker, but none of them could stop Grievous." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-none-could-stop-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:481`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -1023,19 +1019,16 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Shaak Ti; Quinlan Vos: "During the Clone Wars, Sagoro escaped imprisonment on Brentaal IV and helped Jedi Shaak Ti and Quinlan Vos defeat Confederacy forces there, earning him immunity for past crimes." Source: The Complete Star Wars Encyclopedia, Vol. I, p.49
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.49 — full quote as printed](quotes/v1-p49-during-the-clone-wars-sagoro-escaped.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:185`
 
 > The initial attack against Brentaal proved disastrous until Jedi Master Shaak Ti was able to lead an insertion team that killed Tok and sabotaged Brentaal's defenses.
 — Source: scan pages 81–120; Shaak Ti. POV: Shaak Ti.
 Note (our notes, around the quote): Shaak Ti: "The initial attack against Brentaal proved disastrous until Jedi Master Shaak Ti was able to lead an insertion team that killed Tok and sabotaged Brentaal's defenses." Source: The Complete Star Wars Encyclopedia, Vol. I, p.93
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.93 — full quote as printed](quotes/v1-p93-the-initial-attack-against-brentaal-proved.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:221`
 
 > Darc, Artel A Separatist dark sider defeated by Shaak Ti during the Clone Wars.
 — Source: scan pages 161–200; Shaak Ti. POV: Shaak Ti.
 Note (our notes, around the quote): Shaak Ti: "Darc, Artel A Separatist dark sider defeated by Shaak Ti during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.165 — full quote as printed](quotes/v1-p165-darc-artel-a-separatist-dark-sider.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:175`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -1043,7 +1036,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > After being granted her freedom to help the Jedi bring down planetary leader Shogar Tok, she betrayed the Jedi and shot Shaak Ti, who survived.
 — Source: scan pages 241–280; Shaak Ti. POV: Shaak Ti.
 Note (our notes, around the quote): Shaak Ti: "After being granted her freedom to help the Jedi bring down planetary leader Shogar Tok, she betrayed the Jedi and shot Shaak Ti, who survived." Source: The Complete Star Wars Encyclopedia, Vol. II, p.269
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.269 — full quote as printed](quotes/v2-p269-after-being-granted-her-freedom-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:320`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -1051,13 +1043,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > During the Clone Wars, a scrange attacked Shaak Ti's team in the sewers of Brentaal IV, impaling the Wookiee Ryyk before Ti killed the creature with her lightsaber.
 — Source: scan pages 121–160; Shaak Ti. POV: Shaak Ti.
 Note (our notes, around the quote): Shaak Ti: "During the Clone Wars, a scrange attacked Shaak Ti's team in the sewers of Brentaal IV, impaling the Wookiee Ryyk before Ti killed the creature with her lightsaber." Source: The Complete Star Wars Encyclopedia, Vol. III, p.131
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.131 — full quote as printed](quotes/v3-p131-during-the-clone-wars-a-scrange.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:122`
 
 > After Starkiller killed Jedi Council member Shaak Ti on Felucia, Darth Vader recalled him to the Executor, promising that they would at last confront the Emperor.
 — Source: scan pages 161–200; Galen Marek; Shaak Ti; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Galen Marek; Shaak Ti; Darth Vader (Anakin Skywalker): "After Starkiller killed Jedi Council member Shaak Ti on Felucia, Darth Vader recalled him to the Executor, promising that they would at last confront the Emperor." Source: The Complete Star Wars Encyclopedia, Vol. III, p.188
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.188 — full quote as printed](quotes/v3-p188-after-starkiller-killed-jedi-council-member.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:379`
 
 - Note (summary from our notes, not a quotation): Page contents: 723 words, 15 paragraphs | headings/entries: Thyne, Zekka; Ti, Kirana; Ti, Sanola; Ti, Shaak
@@ -1067,25 +1057,21 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Shaak Ti was a female Togruta from Shili who trained two Padawans, though both were killed by criminals shortly after the completion of their training.
 — Source: scan pages 241–280; Shaak Ti — entry/section: Ti, Shaak.
 Note (our notes, around the quote): Shaak Ti — entry/section: Ti, Shaak: "Shaak Ti was a female Togruta from Shili who trained two Padawans, though both were killed by criminals shortly after the completion of their training." Source: The Complete Star Wars Encyclopedia, Vol. III, p.243
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.243 — full quote as printed](quotes/v3-p243-shaak-ti-was-a-female-togruta.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:90`
 
 > Shaak Tis companions—Jedi Masters Roron Corobb and Foul Moudama—were killed.
 — Source: scan pages 241–280; Shaak Ti; Roron Corobb; Foul Moudama — entry/section: Ti, Shaak.
 Note (our notes, around the quote): Shaak Ti; Roron Corobb; Foul Moudama — entry/section: Ti, Shaak: "Shaak Tis companions—Jedi Masters Roron Corobb and Foul Moudama—were killed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.243
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.243 — full quote as printed](quotes/v3-p243-shaak-tis-companions-jedi-masters-roron.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:92`
 
 > When Anakin Skywalker led an attack on the Jedi Temple, many believed that he killed Shaak Ti.
 — Source: scan pages 241–280; Shaak Ti; Darth Vader (Anakin Skywalker) — entry/section: Ti, Shaak.
 Note (our notes, around the quote): Shaak Ti; Darth Vader (Anakin Skywalker) — entry/section: Ti, Shaak: "When Anakin Skywalker led an attack on the Jedi Temple, many believed that he killed Shaak Ti." Source: The Complete Star Wars Encyclopedia, Vol. III, p.243
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.243 — full quote as printed](quotes/v3-p243-when-anakin-skywalker-led-an-attack.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:94`
 
 > When Shaak Ti recovered, Shogar Tok tried to kill her but was no match for the Jedi.
 — Source: scan pages 241–280; Shaak Ti. POV: Shaak Ti.
 Note (our notes, around the quote): Shaak Ti: "When Shaak Ti recovered, Shogar Tok tried to kill her but was no match for the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.252
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.252 — full quote as printed](quotes/v3-p252-when-shaak-ti-recovered-shogar-tok.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:163`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -1097,7 +1083,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > The Togruta species is also rumored to be venomous, and Master Shaak Ti made no real effort to dispel this rumor, Shaak Ti used her species' reputation to its full advantage when it was convenient to do so, frequently stealing up behind people before speaking to them or baring her sharp incisors in a grotesque approximation of a human smile, though she was entirely capable of managing a perfectly ordinary smile.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Shaak Ti — entry/section: Shaak Ti, Jedi Master.
 Note (our notes, around the quote): Shaak Ti — entry/section: Shaak Ti, Jedi Master: "The Togruta species is also rumored to be venomous, and Master Shaak Ti made no real effort to dispel this rumor, Shaak Ti used her species' reputation to its full advantage when it was convenient to do so, frequently stealing up behind people before speaking to them or baring her sharp incisors in a grotesque approximation of a human smile, though she was entirely capable of managing a perfectly ordinary smile." Source: Power of the Jedi Sourcebook, p.126
-![Quote image: Power of the Jedi Sourcebook, p.126 — full quote as printed](quotes/potj-p126-the-togruta-species-is-also-rumored.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:252`
 
 ## The New Essential Guide to Characters (2002)
@@ -1128,7 +1113,6 @@ Our notes: `notes/materials/037-sw-d20-folder/239-jedi-counseling-70.md:51`
 
 - Note (summary from our notes, not a quotation): A: Calculate the bonus when you start each attack in the Lightsaber Sweep. In your example, the first attack will get +14, but if Shaak Ti defeats that opponent, the next attack will get only +12, and so on." Source: *Jedi Counseling 70* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 70.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 70* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d239-s3-q-does-shaak-tis-crowd-fighting.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/239-jedi-counseling-70.md:52`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -1136,7 +1120,6 @@ Our notes: `notes/materials/037-sw-d20-folder/239-jedi-counseling-70.md:52`
 > The ARC troopers first saw combat during the Separatist attacks on the Kamino cloning facilities at Tipoca City, fighting alongside Master Ti’s forces.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Shaak Ti — entry/section: ARC troopers fight alongside Master Ti.
 Note (our notes, around the quote): Shaak Ti — entry/section: ARC troopers fight alongside Master Ti: "The ARC troopers first saw combat during the Separatist attacks on the Kamino cloning facilities at Tipoca City, fighting alongside Master Ti’s forces." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.82
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.82 — full quote as printed](quotes/d667-s82-the-arc-troopers-first-saw-combat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:164`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -1156,7 +1139,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > Although the Empire wiped out the Jedi Order, for at least some time, many survivors of Order 66 continue to train Padawans (as Shaak Ti does with Maris Brood).
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Shaak Ti; Maris Brood.
 Note (our notes, around the quote): Shaak Ti; Maris Brood: "Although the Empire wiped out the Jedi Order, for at least some time, many survivors of Order 66 continue to train Padawans (as Shaak Ti does with Maris Brood)." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.23
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.23 — full quote as printed](quotes/d722-s23-although-the-empire-wiped-out-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-001-060.md:140`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -1176,7 +1158,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Galen Marek; Kazdan Paratus; Shaak Ti; Rahm Kota — entry/section: The Force Unleashed Campaign Guide (Saga): "Operating in secret, Vader's apprentice hunted down and killed Jedi Masters such as Kazdan Paratus and Shaak Ti, and nearly destroyed Jedi Master Rahm Kota as well." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.187 — full quote as printed](quotes/d729-s187-operating-in-secret-vaders-apprentice-hunted.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:59`
 
 - Note (summary from our notes, not a quotation): Page contents: Kazdan Paratus cont. and stat block. Shaak Ti begins. (hand-read)
@@ -1190,13 +1171,11 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > Her efforts to train the Felucians, her concern for Maris Brood's divergence from the Jedi path, and the constant struggle to remain hidden distract Shaak Ti when one of Vader's Jedi hunters appears and destroys her, leaving her Padawan and the Felucians to their own devices.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Maris Brood; Shaak Ti; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Maris Brood; Shaak Ti; Darth Vader (Anakin Skywalker): "Her efforts to train the Felucians, her concern for Maris Brood's divergence from the Jedi path, and the constant struggle to remain hidden distract Shaak Ti when one of Vader's Jedi hunters appears and destroys her, leaving her Padawan and the Felucians to their own devices." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d729-s221-her-efforts-to-train-the-felucians.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:364`
 
 > After Vader's minion defeats Shaak Ti, Brood is left on her own with the Force-sensitive natives and the harsh Felucian wilderness.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Darth Vader (Anakin Skywalker); Shaak Ti.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Shaak Ti: "After Vader's minion defeats Shaak Ti, Brood is left on her own with the Force-sensitive natives and the harsh Felucian wilderness." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d729-s221-after-vaders-minion-defeats-shaak-ti.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:366`
 
 - Note (summary from our notes, not a quotation): Page contents: Note: faint text at the bottom of p223 is show-through of the p221 Shaak Ti epigraph (verified by crop c729_223a), not a separate quote. (hand-read)

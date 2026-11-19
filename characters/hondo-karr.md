@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Hondo is the center of the issue, alongside Rogue Squadron and more of the Galactic Alliance fleet. We'll learn how and why Hondo left the Mandos, and why one particular Mandalorian is hunting him for a very personal reason. Fair warning: not all the Rogues will return alive from this mission.
 — Source: Star Wars Insider #112 (2009); Hondo Karr — entry/section: Ostrander on Hondo and the Mandos.
 Note (our notes, around the quote): Hondo Karr — entry/section: Ostrander on Hondo and the Mandos: ""Hondo is the center of the issue, alongside Rogue Squadron and more of the Galactic Alliance fleet. We'll learn how and why Hondo left the Mandos, and why one particular Mandalorian is hunting him for a very personal reason. Fair warning: not all the Rogues will return alive from this mission." —John Ostrander, Star Wars Insider 112, p. 58" Source: *Star Wars Insider #112* (2009), scan p.58
-![Quote image: *Star Wars Insider #112* (2009), scan p.58 — full quote as printed](quotes/ins112-s58-hondo-is-the-center-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:365`
 
 ## Star Wars: Legacy (Dark Horse, 2006–2010) single issues #20–#50, hand-read
@@ -82,17 +81,17 @@ Our notes: `notes/materials/009-legacy-book-1.md:783`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Counter-feat: Hondo Karr.
 Label in our notes: Counter-feat: Hondo Karr (p138
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p138 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p138 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:403`
 
-- Note (summary from our notes, not a quotation): ![p138 Hondo Karr survives Maleval](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+- Note (summary from our notes, not a quotation): ![p138 Hondo Karr survives Maleval](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p138 Hondo Karr survives Maleval — `p138-hondo-karr-maleval.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:409`
 
 - Note (summary from our notes, not a quotation): Gar Stazi CL 16, Will 35 (p135). Gial Gahan CL 14 (p138). Hondo Karr CL 10, hp 91 (p139). Jaius Yorub CL 13 (p140). Jhoram Bey CL 12 (p136).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p138 Hondo Karr survives Maleval](011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
+![p138 Hondo Karr survives Maleval](../notes/materials/011-legacy-era-campaign-guide-panels/p138-hondo-karr-maleval.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:952`
 
 ## Star Wars: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels
@@ -123,7 +122,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:536`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Maleval: CL 13. UtF +13. "one of the Empire's most capable Jedi hunters". Hondo Karr survives him when Karr's troopers open fire (p138). (material 011; p172)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
 Our notes: `legends-feats.md:2471`
 
 # Debate and forum claims (unverified)

@@ -241,11 +241,11 @@ Our notes: `notes/materials/010-legacy-war.md:739`
 > WE HAVE SWORN AN OATH OF LOYALTY—AND THE EMPEROR HAS SPOKEN.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Not statted: Mohrgan Fel, Ganner Krieg, Sigel Dare and Elke Vetter appear only as names on the example list (p45). Krieg pull quote (p46): "WE HAVE SWORN AN OATH OF LOYALTY—AND THE EMPEROR HAS SPOKEN."
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p046-we-have-sworn-an-oath-of.jpg)
-![p163 generic Imperial Knight CL 11 (bio and stat)](011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
-![p162 THE IMPERIAL KNIGHTS: "train strictly for combat, not contemplation"; Vader-derived armour](011-legacy-era-campaign-guide-panels/p162-imperial-knights.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p046-the-offensive-lightsaber-style-favored-by.jpg)
-![p46 Oath of Duty; Praetoria Vonil](011-legacy-era-campaign-guide-panels/p046-ik-talents-oath-vonil.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p046-we-have-sworn-an-oath-of.jpg)
+![p163 generic Imperial Knight CL 11 (bio and stat)](../notes/materials/011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
+![p162 THE IMPERIAL KNIGHTS: "train strictly for combat, not contemplation"; Vader-derived armour](../notes/materials/011-legacy-era-campaign-guide-panels/p162-imperial-knights.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p46 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p046-the-offensive-lightsaber-style-favored-by.jpg)
+![p46 Oath of Duty; Praetoria Vonil](../notes/materials/011-legacy-era-campaign-guide-panels/p046-ik-talents-oath-vonil.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Ganner Krieg — entry/section: Pull quote.
 Also noted as: Ganner Krieg — entry/section: Pull quote: ""WE HAVE SWORN AN OATH OF LOYALTY—AND THE EMPEROR HAS SPOKEN." —GANNER KRIEG" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.46
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:550`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:329`
@@ -259,10 +259,10 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:550`; `notes/materi
 > WE'RE GOING TO WIN BACK THE EMPEROR'S TRUST.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Sense the GA guards' hidden blasters. p71 (#9 Trust Issues) [009 p210]. Red-bordered quote caption: "FEEL IT. THEIR NERVES ARE ON EDGE. MY GUESS IS THAT THEY SMUGGLED BLASTER PARTS ON BOARD AND REASSEMBLED THEM. IT'S WHAT I WOULD HAVE DONE." · Draco: "MAKE SURE YOU CAN GET YOUR SABER IF YOU NEED IT. I DON'T TRUST THIS BUNCH." · "WE'RE GOING TO WIN BACK THE EMPEROR'S TRUST."
-![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+![p71 the Knights on the Wheel](../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:211`
 
-- Note (summary from our notes, not a quotation): ![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+- Note (summary from our notes, not a quotation): ![p71 the Knights on the Wheel](../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p71 — `p071-knights-sense-ga-guards.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:213`
@@ -271,16 +271,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:213`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Deflect GA blaster fire; Draco Force-pushes Admiral Stazi off Bovark. p89 (#10 Trust Issues)–p92 (#10) [009 p228–231]
-![p89 Krieg holds the corridor](012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
-![p90 Draco Force-pushes Admiral Stazi](012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
+![p89 Krieg holds the corridor](../notes/materials/012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
+![p90 Draco Force-pushes Admiral Stazi](../notes/materials/012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:216`
 
-- Note (summary from our notes, not a quotation): ![p89 Krieg holds the corridor](012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
+- Note (summary from our notes, not a quotation): ![p89 Krieg holds the corridor](../notes/materials/012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p89 — `p089-draco-krieg-deflect.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:219`
 
-- Note (summary from our notes, not a quotation): ![p90 Draco Force-pushes Admiral Stazi](012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
+- Note (summary from our notes, not a quotation): ![p90 Draco Force-pushes Admiral Stazi](../notes/materials/012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p90 — `p090-draco-pushes-stazi.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:222`

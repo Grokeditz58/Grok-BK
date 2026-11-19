@@ -65,9 +65,9 @@ Our notes: `notes/materials/010-legacy-war.md:56`
 > KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Wyyrlok holds the Temple (p10). He claims rule (.
 Note (our notes, around the quote): Wyyrlok holds the Temple (p10). He claims rule ("KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."), sends Saarai away and gets Stryfe's "MIGHT DECIDES" answer.
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Also cited as: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p10 Wyyrlok.
-Also noted as: ![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+Also noted as: ![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:86`; `notes/materials/010-legacy-war.md:523`
 
 > "SOME OF YOU BELIEVE THAT BECAUSE YOU SAW LORD KRAYT IN A VISION THAT HE IS ALIVE. KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM." · "HIS HEALTH FAILED AND HIS MIND WITH IT. HE WAS TOO WEAK TO LEAD THE ONE SITH! WERE HE THE KRAYT OF OLD, I COULD NOT HAVE DONE IT. I AM NOW THE ONE SITH'S LEADER." · "IF THIS PRETENDER COMES TO CORUSCANT, THE ONE SITH WILL FIGHT HIM. AND I WILL KILL HIM. THUS SHALL IT BE." · "I HAVE FRACTURED THE ORDER, DARTH STRYFE. THE COMING BATTLE WILL DETERMINE ITS FATE." · "I WILL FACE KRAYT AS A WARRIOR OF THE DARK SIDE."
@@ -82,7 +82,7 @@ Our notes: `notes/materials/010-legacy-war.md:520`
 > IT IS MY WILL. YOUR POWER IS NASCENT, AND NOT FULLY REALIZED. BE PATIENT. YOUR TIME WILL COME. GO NOW.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; > Saarai.
 Label in our notes: · Wyyrlok: · Saarai: "NO!" · Wyyrlok
-![p10 Wyyrlok and Saarai](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg) *(p10)*
+![p10 Wyyrlok and Saarai](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg) *(p10)*
 Our notes: `notes/materials/010-legacy-war.md:537`
 
 - Note (summary from our notes, not a quotation): "NASCENT" is lettered dialogue (Wyyrlok's), not just a forum caption.
@@ -91,7 +91,7 @@ Our notes: `notes/materials/010-legacy-war.md:540`
 
 - Note (summary from our notes, not a quotation): Saarai has no feat in War. She speaks only on p10 and leaves through a doorway.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:541`
 
 > ragdolled Stryfe
@@ -100,8 +100,8 @@ Our notes: `notes/materials/010-legacy-war.md:541`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): No Saarai–Stryfe encounter occurs anywhere in War #1–6. Stryfe's only War fight is the mutual kill with Sazen (p113–114). The "ragdolled Stryfe / grabbed his heart" feat therefore cannot be War. Azronger's citation to *Legacy* #34 stands (see legends-feats correction).
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:542`
 
 - Note (summary from our notes, not a quotation): Saarai via War (debate #48).

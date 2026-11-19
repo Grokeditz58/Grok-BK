@@ -635,13 +635,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/dark-lord-novel-feats.md:852`
 > Anno, Klossi A Chalactan Jedi who survived Order 66, she joined up with similar survivors led by Roan Shryne.
 — Source: scan pages 41–80; Roan Shryne. POV: Roan Shryne.
 Note (our notes, around the quote): Roan Shryne: "Anno, Klossi A Chalactan Jedi who survived Order 66, she joined up with similar survivors led by Roan Shryne." Source: The Complete Star Wars Encyclopedia, Vol. I, p.31
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.31 — full quote as printed](quotes/v1-p31-anno-klossi-a-chalactan-jedi-who.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:51`
 
 > Appo was killed by Roan Shryne on Kashyyyk.
 — Source: scan pages 41–80; Roan Shryne. POV: Roan Shryne.
 Note (our notes, around the quote): Roan Shryne: "Appo was killed by Roan Shryne on Kashyyyk." Source: The Complete Star Wars Encyclopedia, Vol. I, p.38
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.38 — full quote as printed](quotes/v1-p38-appo-was-killed-by-roan-shryne.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:104`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -649,7 +647,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Nalual managed to escape unharmed, but Forte and Iwo Kulka were killed before Roan Shryne sacrificed his own life to allow others to escape.
 — Source: scan pages 361–400; Roan Shryne. POV: Roan Shryne.
 Note (our notes, around the quote): Roan Shryne: "Nalual managed to escape unharmed, but Forte and Iwo Kulka were killed before Roan Shryne sacrificed his own life to allow others to escape." Source: The Complete Star Wars Encyclopedia, Vol. II, p.358
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.358 — full quote as printed](quotes/v2-p358-nalual-managed-to-escape-unharmed-but.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:41`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -661,25 +658,21 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > She survived, but her son died in a struggle with Vader on Kashyyyk.
 — Source: scan pages 121–160; Roan Shryne; Darth Vader (Anakin Skywalker) — entry/section: Shryne, Jula.
 Note (our notes, around the quote): Roan Shryne; Darth Vader (Anakin Skywalker) — entry/section: Shryne, Jula: "She survived, but her son died in a struggle with Vader on Kashyyyk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.149
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.149 — full quote as printed](quotes/v3-p149-she-survived-but-her-son-died.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:296`
 
 > Shryne tried to rescue Senator Fang Zar on Alderaan, but Vader killed Zar.
 — Source: scan pages 121–160; Roan Shryne; Darth Vader (Anakin Skywalker) — entry/section: Shryne, Roan.
 Note (our notes, around the quote): Roan Shryne; Darth Vader (Anakin Skywalker) — entry/section: Shryne, Roan: "Shryne tried to rescue Senator Fang Zar on Alderaan, but Vader killed Zar." Source: The Complete Star Wars Encyclopedia, Vol. III, p.149
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.149 — full quote as printed](quotes/v3-p149-shryne-tried-to-rescue-senator-fang.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:298`
 
 > Ultimately, Shryne confronted Darth Vader on Kashyyyk and perished in the duel that followed.
 — Source: scan pages 121–160; Roan Shryne; Darth Vader (Anakin Skywalker) — entry/section: Shryne, Roan.
 Note (our notes, around the quote): Roan Shryne; Darth Vader (Anakin Skywalker) — entry/section: Shryne, Roan: "Ultimately, Shryne confronted Darth Vader on Kashyyyk and perished in the duel that followed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.149
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.149 — full quote as printed](quotes/v3-p149-ultimately-shryne-confronted-darth-vader-on.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:300`
 
 > They were enslaved by the dominant Ssi-ruuk.
 — Source: scan pages 121–160; Roan Shryne — entry/section: Shryne, Roan.
 Note (our notes, around the quote): Roan Shryne — entry/section: Shryne, Roan: "They were enslaved by the dominant Ssi-ruuk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.149
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.149 — full quote as printed](quotes/v3-p149-they-were-enslaved-by-the-dominant.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:302`
 
 ## Star Wars Insider #83 (2005)

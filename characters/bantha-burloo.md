@@ -76,12 +76,10 @@ Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:65
 > I desire three day old bantha meat.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/202 - Blinking Ey.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: The Neon Bantha passphrase: ""To get in to see him, tell the butchers Baash koy unda tra bantha jouwa." (Dosh for "I desire three day old bantha meat.")" Source: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.9
-![Quote image: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.9 — full quote as printed](quotes/d288-p9-to-get-in-to-see-him.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:77`
 
 - Note (summary from our notes, not a quotation): No single roster character (rules/setting/general) — entry/section: Neon Bantha: "Haku?": ""Haku?" is the response ("What?" in Huttese)." Source: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.10
   — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/202 - Blinking Ey.
-![Quote image: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d288-p10-haku-is-the-response-what-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:90`
 
 - Note (summary from our notes, not a quotation): Page contents: 844 words, 23 paragraphs | headings/entries: Halves; Neon Bantha knows the following:; Encounter Four: The Holo Man; Page 11
@@ -93,7 +91,6 @@ Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:95
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 2 202 Blinking Eyes Halves (text copy `_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_202_Blinking_Eyes_Halves_pdf_70c4b24efc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 2 202 Blinking Eyes Halves (text copy `_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_202_Blinking_Eyes_Halves_pdf_70c4b24efc`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Neon Bantha (feats): "Feats: Fame, Gearhead, Improved Initiative, Skill Emphasis (Computer Use), Weapon Proficiency Group (blaster pistols, simple weapons)." Source: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.11
-![Quote image: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.11 — full quote as printed](quotes/d288-p11-feats-fame-gearhead-improved-initiative-skill.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:97`
 
 > With a little pressure, Neon Bantha will admit the files are of his creation. If the heroes have already discovered that Neon Bantha is the likely source for the fake files, they can confront/question him. He will plead innocence at first, but break down as the interrogation progresses. Neon Bantha knows the following: • Why did you create these files? I was hired by a guy to make them. • Who hired you? He gave me his name as Dasc. Probably not his real name though. His money was good enough. That’s all I care about. • What did he look like? Human. Male. Not too tall. Not too short.
@@ -101,7 +98,6 @@ Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:97
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 2 202 Blinking Eyes Halves (text copy `_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_202_Blinking_Eyes_Halves_pdf_70c4b24efc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 2 202 Blinking Eyes Halves (text copy `_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_2_202_Blinking_Eyes_Halves_pdf_70c4b24efc`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Neon Bantha on "Dasc": "He gave me his name as Dasc. Probably not his real name though. His money was good enough. That's all I care about." Source: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.11
-![Quote image: *202 - Blinking Eyes - Halves* (SWRPG d20 Revised Core), p.11 — full quote as printed](quotes/d288-p11-he-gave-me-his-name-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/288-202-blinking-eyes-halves.md:99`
 
 - Note (summary from our notes, not a quotation): Page contents: Enc 3: Neon Bantha (hand-read)
@@ -316,7 +312,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:25`
 > I felt a sense of responsibility for making it better. I mean, if you get the chance to do it over again, the only reason to do it is to do it better.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Han Solo; Leia Organa Solo — entry/section: Harrison Ford on changing Han's reply to "I know" (to Bantha Tracks, 1980, as reported): "Leia's "I love you" from an echoing "I love you, too" to "I know" was a fight that Ford was wise to wage. As he told Bantha Tracks, a Star Wars fanzine, in 1980, "I felt a sense of responsibility for making it better. I mean, if you get the chance to do it over again, the only reason to do it is to do it better." Under Ford's watchful eye, Han Solo became a deeper, more significant character, and reviewers took notice. —Harrison Ford, Star Wars Insider 59, p. 29" Source: *Star Wars Insider #59* (2002), scan p.29
-![Quote image: *Star Wars Insider #59* (2002), scan p.29 — full quote as printed](quotes/ins059-s29-leias-i-love-you-from-an.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:183`
 
 > I grew up in the Star Wars saga
@@ -331,7 +326,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:246`
 > While everyone else was 25 to 30, I was only 19 when the filming started. I wasn't even fully formed physically. You can see me growing in each new episode.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Leia Organa Solo — entry/section: Carrie Fisher on growing up in the saga (to Bantha Tracks, 1982, as reported): ""I grew up in the Star Wars saga," Fisher told Bantha Tracks, the original newsletter of the Official Star Wars Fan Club (and predecessor to the Insider), in 1982. "While everyone else was 25 to 30, I was only 19 when the filming started. I wasn't even fully formed physically. You can see me growing in each new episode." —Carrie Fisher, Star Wars Insider 59, p. 38" Source: *Star Wars Insider #59* (2002), scan p.38
-![Quote image: *Star Wars Insider #59* (2002), scan p.38 — full quote as printed](quotes/ins059-s38-i-grew-up-in-the-star.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:248`
 
 > Bantha Tracks: Looking back at the original Fan Club
@@ -353,7 +347,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:526`
 > I have to go. Han is not going to stay around too long and Chewie is real crabby today.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Chewbacca — entry/section: Mark Hamill (Bantha Tracks issue 3) on calling a sick child as Luke: "Normally I don't say I'm Luke Skywalker. I try to keep my identity separate from that of the film character, but in this case I made an exception. I called and said "Hi! It's Luke Skywalker. Are you in the hospital? I heard you're sick. The Rebel Alliance needs you, we have to beat the Empire." He said, "Luke? Where are you?" And I said, "I'm here in your galaxy for just a little bit. We just stopped off to regroup our forces." He got so thrilled and excited, he said, "I knew it was you!" He just went crazy. Then I said, "I have to go. Han is not going to stay around too long and Chewie is real crabby today." —Mark Hamill, Star Wars Insider 59, p. 70" Source: *Star Wars Insider #59* (2002), scan p.70
-![Quote image: *Star Wars Insider #59* (2002), scan p.70 — full quote as printed](quotes/ins059-s70-normally-i-dont-say-im-luke.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:528`
 
 > with the character that survives Star Wars III
@@ -370,13 +363,11 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:533`
 > How'd you like to be on a contract?
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Han Solo — entry/section: Harrison Ford (Bantha Tracks issue 5) on his first break: "I walked out, went down the hall to the elevators, realized I had to use the bathroom. I went to the bathroom and when I came out, his assistant is coming down the hall saying to me, "Come back, he wants to talk to you." If I'd gone on the elevator, I would have been gone and nobody would have bothered to chase me. When I went back, the first thing the guy says is, "How'd you like to be on a contract?" —Harrison Ford, Star Wars Insider 59, p. 71" Source: *Star Wars Insider #59* (2002), scan p.71
-![Quote image: *Star Wars Insider #59* (2002), scan p.71 — full quote as printed](quotes/ins059-s71-i-walked-out-went-down-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:535`
 
 > I think I ran over a Wookie back there!
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): R2-D2; Chewbacca — entry/section: George Lucas (Bantha Tracks issue 8) on naming R2-D2 and the Wookiee: "The truth is I was mixing the soundtrack of American Graffiti with the sound editor, Walter Murch. Walter asked me to go to the rack and get R2-D2—reel two, dialogue track two. When I heard that, I thought it was a great name and wrote it down. A similar thing happened with Chewbacca, the Wookie. A friend of mine and I were riding in his car one day when he said, "I think I ran over a Wookie back there!" I asked him what a Wookie was and he said he didn't know, that he had just made it up. I loved the word, so I wrote it down and planned to use it when I had a chance. —George Lucas, Star Wars Insider 59, p. 71" Source: *Star Wars Insider #59* (2002), scan p.71
-![Quote image: *Star Wars Insider #59* (2002), scan p.71 — full quote as printed](quotes/ins059-s71-the-truth-is-i-was-mixing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:537`
 
 > Is Darth Vader really Luke's father? *("Why would Obi-Wan lie?")*
@@ -400,7 +391,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:551`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Luke Skywalker — entry/section: Mark Hamill (Bantha Tracks) on the Dagobah snakes: "I didn't mind the snakes that much; I just didn't like to handle them. I was pulling snakes from the X-wing's engines. The handler told me to hold them about 18 inches from the head so the snake would writhe around and everyone would see it's not rubber. Every time I touched him, he flinched, so I flinched. I still think that's some of the best acting I've ever done. I look so calm and yet inside I was going, "Yecch." The snake bit me on the eighth take and drew blood. He wasn't poisonous, of course, but the idea of actually being struck is really scary. The snake handler said, "He didn't so much bite you, as sort of nicked you." "Hey," I said. "Let's not get into semantics right now!" He got his little snaky lips all over my hand and now I'm bleeding. It was terrible! The whole film is constructed to make me look like a hero and I'm running around yelling, "Yeow! He bit me!" in front of everyone. —Mark Hamill, Star Wars Insider 59, p. 73" Source: *Star Wars Insider #59* (2002), scan p.73
-![Quote image: *Star Wars Insider #59* (2002), scan p.73 — full quote as printed](quotes/ins059-s73-i-didnt-mind-the-snakes-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:553`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks cont. (magazine p. 74): another contest story summary; letter in issue 23 from the then-14-year-old Ewok actor (gerbil, roller skates on set; later three roles in The Phantom Menace); "The Ewok Era" - issues 25-29 (Ewok movies, Jonathan Ke Quan, optical department, Miki Herman); Fisher at the 42nd World Science Fiction Convention; "After Star Wars" - issues 30-35 (Labyrinth, Howard the Duck, Captain Eo, Star Tours); Random Access prizes (Death Star sections, Bunker model, C-3PO costume piece, grand prize C-3PO's hand); issue 34 Soundsheet Edition (Ben Burtt, Randy Thom, Gary Summers); Lucas's farewell letter in issue 33. (hand-read)
@@ -411,7 +401,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:558`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Leia Organa Solo; Luke Skywalker — entry/section: Carrie Fisher (Bantha Tracks issue 26) on learning Leia had a twin: "Q: Carrie, what was your reaction when you discovered that you had a twin brother? CF: I was stunned, my parents were stunned. No, I was very surprised. We had different colored eyes, but it meant I got to date Harrison. Q: Would you be willing to work on another Star Wars film? CF: As an old, old woman, I think I would like to play one of the monsters. Q: What was your most exciting scene in all three movies? CF: I liked the scene in Star Wars when we did the swing across the chasm. We were so frightened. We thought surely we would hit the opposite wall and melt down its face. —Carrie Fisher, Star Wars Insider 59, p. 74" Source: *Star Wars Insider #59* (2002), scan p.74
-![Quote image: *Star Wars Insider #59* (2002), scan p.74 — full quote as printed](quotes/ins059-s74-q-carrie-what-was-your-reaction.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:560`
 
 ## Star Wars Insider #62 (2002)
@@ -998,7 +987,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:852`
 > I sent copies of these pictures to Bantha Tracks back then, but they did not run them in the newsletter.
 — Source: Star Wars Insider #94 (2007); none — entry/section: Noble on old photos.
 Note (our notes, around the quote): none — entry/section: Noble on old photos: ""I sent copies of these pictures to Bantha Tracks back then, but they did not run them in the newsletter." —Lawrence Noble, Star Wars Insider 94, p. 81" Source: *Star Wars Insider #94* (2007), scan p.81
-![Quote image: *Star Wars Insider #94* (2007), scan p.81 — full quote as printed](quotes/ins094-s81-i-sent-copies-of-these-pictures.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:854`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks Editorial "Life Without Star Wars" by Mary Franklin, Editor, Bantha Tracks (sections More Money, Very Different Memories, Fewer Friends Worldwide); fan art of Han Solo and Greedo in the cantina (artist name omitted) (hand-read)
@@ -1129,7 +1117,6 @@ Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:35`
 > The Insider took over as our main means of fan communications after our internal newsletter, Bantha Tracks, published its last issue in 1987. To some, it seemed like a strange time to start a new Star Wars magazine since there were no new movies on the horizon. But one fan had a dream, and he made it come true. That's one reason that Insider has always meant so much to us here at Lucasfilm—it's a magazine written and produced by fans for other fans.
 — Source: Star Wars Insider #100 (2008); none — entry/section: Insider after Bantha Tracks.
 Note (our notes, around the quote): none — entry/section: Insider after Bantha Tracks: ""The Insider took over as our main means of fan communications after our internal newsletter, Bantha Tracks, published its last issue in 1987. To some, it seemed like a strange time to start a new Star Wars magazine since there were no new movies on the horizon. But one fan had a dream, and he made it come true. That's one reason that Insider has always meant so much to us here at Lucasfilm—it's a magazine written and produced by fans for other fans." —George Lucas, Star Wars Insider 100, p. 7" Source: *Star Wars Insider #100* (2008), scan p.7
-![Quote image: *Star Wars Insider #100* (2008), scan p.7 — full quote as printed](quotes/ins100-s7-the-insider-took-over-as-our.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:58`
 
 > 'I've gotta GOOD feeling about this!' *(Brian J. Robb, Editor)*
@@ -1192,7 +1179,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:601`
 > Bantha and his clan are the closest thing to family  for Cade. He never knew his mother, though by now he has at least met her, and at some point he had to find Bantha after the fall of Ossus. John and I knew a lot about Bantha, but what kind of woman would he find compatible? Droo is a rare, one of a kind woman who can kill a man a dozen different ways before breakfast, as well as make a mean bilaberry patoga. The 'kits' were also  fun to invent and each has their own personality. I see the Rawks as another layer in Cade's life where he can go when things get too hot.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: the Rawks: "Says artist Jan Duursema, "Bantha and his clan are the closest thing to family  for Cade. He never knew his mother, though by now he has at least met her, and at some point he had to find Bantha after the fall of Ossus. John and I knew a lot about Bantha, but what kind of woman would he find compatible? Droo is a rare, one of a kind woman who can kill a man a dozen different ways before breakfast, as well as make a mean bilaberry patoga. The 'kits' were also  fun to invent and each has their own personality. I see the Rawks as another layer in Cade's life where he can go when things get too hot." —Jan Duursema, Star Wars Insider 101, p. 61" Source: *Star Wars Insider #101* (2008), scan p.61
-![Quote image: *Star Wars Insider #101* (2008), scan p.61 — full quote as printed](quotes/ins101-s61-says-artist-jan-duursema-bantha-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:672`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks Submission Guidelines: original art, envelope art, comics, illustrations, news, stories, meeting information or other materials voluntarily submitted become the property of Bantha Tracks; no compensation, no guarantee of publication, submissions not returned; each must include the creator's name, age, contact information, date created, and a statement that the work is original and that the person is a member of the Official Star Wars Fan Club; electronic and postal submissions go to Bantha Tracks c/o Mary Franklin (Lucasfilm) (email and postal address not transcribed) (hand-read)
@@ -2731,20 +2717,20 @@ Our notes: `notes/materials/010-legacy-war.md:68`
 > KOL ALWAYS SAID THAT -- ALWAYS HOPED HE WAS WRONG. WE TAKE WHAT IS GIVEN, EH?
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Rawk reactivates (p48–49, #3).
 Label in our notes: · He ignites a yellow saber
-![p48 Rawk: I'M REACTIVATING AS A JEDI](010-legacy-war-panels/p048-rawk-reactivating-as-a-jedi.jpg) *(p48)*
-![p49 Rawk ignites his yellow saber](010-legacy-war-panels/p049-rawk-ignites-yellow-saber.jpg) *(p49)*
+![p48 Rawk: I'M REACTIVATING AS A JEDI](../notes/materials/010-legacy-war-panels/p048-rawk-reactivating-as-a-jedi.jpg) *(p48)*
+![p49 Rawk ignites his yellow saber](../notes/materials/010-legacy-war-panels/p049-rawk-ignites-yellow-saber.jpg) *(p49)*
 Our notes: `notes/materials/010-legacy-war.md:830`
 
 > MAIN REASON WE BUILT THE TEMPLE HERE WAS THAT THE MAGNETIC PROPERTIES OF THE ROCK MESSES UP ORBITAL TARGETING.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Taivas, p62 (#3).
-![p62 the Taivas trap plan](010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
+![p62 the Taivas trap plan](../notes/materials/010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
 Our notes: `notes/materials/010-legacy-war.md:833`
 
 > YOU'RE MY FAVORITE NEPHEW.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p68 (#3): forgives Cade (.
 Label in our notes: p68 (#3): forgives Cade
-![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
+![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](../notes/materials/010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
 Our notes: `notes/materials/010-legacy-war.md:834`
 
 > MASTERS DUN'LA, TE CORSO, DROK -- STICK WITH CADE AND ME. COVER MASTER SAA UNTIL SHE'S READY.
@@ -2754,7 +2740,7 @@ Our notes: `notes/materials/010-legacy-war.md:834`
 > INSTINCT, BOY. BRACE YOURSELF.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p79–80 (#4).
-![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
+![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](../notes/materials/010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
 Our notes: `notes/materials/010-legacy-war.md:836`
 
 > WITHIN THE COUNCIL CHAMBER T'RA SAA'S ROOTS GO DEEP INTO THE SOIL ON WHICH SHE STANDS.
@@ -2766,26 +2752,26 @@ Our notes: `notes/materials/010-legacy-war.md:836`
 >
 > SHE SEES THE BATTLE NOW AS A PURE VISION, ITS OUTCOME IN HER CONTROL. SHE KNOWS HOW IT WILL END.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; T'ra Saa's battle meditation (p74, #4).
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
 Our notes: `notes/materials/010-legacy-war.md:837`
 
 - Note (summary from our notes, not a quotation): Rawk's sacrifice (p84–86, #4):
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:838`
 
 - Note (summary from our notes, not a quotation): Force barrier vs the troopers (p84).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Rawk's sacrifice (p84–86, #4):
-![p84 Rawk's Force barrier vs the troopers](010-legacy-war-panels/p084-rawk-force-barrier-troopers.jpg) *(p84)*
+![p84 Rawk's Force barrier vs the troopers](../notes/materials/010-legacy-war-panels/p084-rawk-force-barrier-troopers.jpg) *(p84)*
 Our notes: `notes/materials/010-legacy-war.md:839`
 
 > LOVE YOU, DROO. ALWAYS AND FOREVER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Under the Jedi Code captions, struck by fire beside T'ra Saa: "LOVE YOU, DROO. ALWAYS AND FOREVER."
 Context: Rawk's sacrifice (p84–86, #4):
-![p85 Rawk under the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg) *(p85)*
+![p85 Rawk under the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg) *(p85)*
 Our notes: `notes/materials/010-legacy-war.md:842`
 
 > BUT IN THAT MOMENT, TWO MINDS FOCUS THAT ENERGY...
@@ -2796,35 +2782,35 @@ Our notes: `notes/materials/010-legacy-war.md:842`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p86 captions: "DEATH STRIKES." "ENERGY IS RELEASED." "BUT IN THAT MOMENT, TWO MINDS FOCUS THAT ENERGY..." "...SENDING IT SKYWARD..." "...SWEEPING ASIDE THOSE WAITING TO WREAK CARNAGE." A vast beam rises from the canyon through the Sith ships in orbit.
 Context: Rawk's sacrifice (p84–86, #4):
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:844`
 
 > the life energy of Taivas
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Who the "TWO MINDS" are: not named on the page. Rawk and T'ra Saa by implication: both are in the struck chamber, and the root-form spirals in the light column. The released energy is the death strike itself, so the source is the fighter's strike plus their deaths. The page does not say "the life energy of Taivas".
-![p86 TWO MINDS focus the beam skyward](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg) *(p86)*
+![p86 TWO MINDS focus the beam skyward](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg) *(p86)*
 Our notes: `notes/materials/010-legacy-war.md:845`
 
 - Note (summary from our notes, not a quotation): Damage: at least two capital ships are drawn caught or broken. The number destroyed is not stated.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
-![p81 "THE HIDDEN TEMPLE RISES."](010-legacy-war-panels/p081-hidden-temple-rises.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p81 "THE HIDDEN TEMPLE RISES."](../notes/materials/010-legacy-war-panels/p081-hidden-temple-rises.jpg)
 Our notes: `notes/materials/010-legacy-war.md:847`
 
-- Note (summary from our notes, not a quotation): ![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+- Note (summary from our notes, not a quotation): ![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p74 — `p074-tra-saa-battle-meditation.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:849`
 
-- Note (summary from our notes, not a quotation): ![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+- Note (summary from our notes, not a quotation): ![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p85 — `p085-rawk-sacrifice-jedi-code.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:852`
 
-- Note (summary from our notes, not a quotation): ![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+- Note (summary from our notes, not a quotation): ![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p86 — `p086-two-minds-focus-beam-skyward.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:855`
@@ -2832,7 +2818,7 @@ Our notes: `notes/materials/010-legacy-war.md:855`
 > THE HIDDEN TEMPLE RISES.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p81.
-Note (our notes, around the quote): ![p81 "THE HIDDEN TEMPLE RISES."](010-legacy-war-panels/p081-hidden-temple-rises.jpg)
+Note (our notes, around the quote): ![p81 "THE HIDDEN TEMPLE RISES."](../notes/materials/010-legacy-war-panels/p081-hidden-temple-rises.jpg)
 (*Panel: p81 — `p081-hidden-temple-rises.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:858`
 
@@ -2846,9 +2832,9 @@ Our notes: `notes/materials/010-legacy-war.md:861`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; "Bantha" Rawk (p208–209).
 Note (our notes, around the quote): "Bantha" Rawk (p208–209): "Once a Jedi named Nat Skywalker who left the Jedi Order". CL 8 scoundrel 8; Force 4; hp 51. No Jedi levels, UtF or powers.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p208 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p208-once-a-jedi-named-nat-skywalker.jpg)
-![p209 Cade: "the last of the Skywalkers… the Force is strong in him"](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
-![p209 Cade bio (both columns)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p208 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p208-once-a-jedi-named-nat-skywalker.jpg)
+![p209 Cade: "the last of the Skywalkers… the Force is strong in him"](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![p209 Cade bio (both columns)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:714`
 
 - Note (summary from our notes, not a quotation): Others: Nyna Calixte / Morrigan Corde (CL15), Gar Stazi (CL16), Morlish Veed (CL15), Rulf and Gunn Yage, "Bantha" Rawk (CL8), the Yuuzhan Vong NPCs, and all vehicles.
@@ -2878,7 +2864,6 @@ Our notes: `legends-feats.md:2997`
 > I'm just the technician here—name's Varan Cormin. You must be the Rebels they were talking about. Don't worry; I hate their guts as much as you do. Got assigned to work in this pile of Bantha fodder while they kept my wife in a work camp. Anything you need, just let me know, because those Imperials are going to come back, and I don't want to go down without a fight.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): Varan Cormin — entry/section: Varan Cormin surrenders: ""Don't shoot!" he pleads. "I'm just the technician here—name's Varan Cormin. You must be the Rebels they were talking about. Don't worry; I hate their guts as much as you do. Got assigned to work in this pile of Bantha fodder while they kept my wife in a work camp. Anything you need, just let me know, because those Imperials are going to come back, and I don't want to go down without a fight."" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.178
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.178 — full quote as printed](quotes/d715-s178-dont-shoot-he-pleads-im-just.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:369`
 
 ## Star Wars Insider #131 (2012)

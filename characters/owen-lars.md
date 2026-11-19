@@ -14,7 +14,6 @@
 > When the droids R2-D2 and C-3P0 fell into possession of Owen Lars, destiny began to catch up with Luke, He discovered that the droids were on a mission for a beautiful young woman who sought the help of Obi-Wan Kenobi.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Luke Skywalker; Obi-Wan Kenobi.
 Note (our notes, around the quote): Luke Skywalker; Obi-Wan Kenobi: "When the droids R2-D2 and C-3P0 fell into possession of Owen Lars, destiny began to catch up with Luke, He discovered that the droids were on a mission for a beautiful young woman who sought the help of Obi-Wan Kenobi." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.39
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.39 — full quote as printed](quotes/d043-s39-when-the-droids-r2-d2-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:233`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–112)
@@ -75,19 +74,16 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:158`
 > Most people talk about Uncle Owen as this awful character because he's trying to stop Luke from fulfilling his dreams, that he was a bit of a dream-squasher. But I never thought of him like that. I always saw him as a father figure that was trying to act in Luke's best interests.
 — Source: Star Wars Insider #58 (2002).
 Note (our notes, around the quote): Owen Lars; Luke Skywalker — entry/section: Joel Edgerton on Owen as a father figure: ""Most people talk about Uncle Owen as this awful character because he's trying to stop Luke from fulfilling his dreams, that he was a bit of a dream-squasher. But I never thought of him like that. I always saw him as a father figure that was trying to act in Luke's best interests." —Joel Edgerton, Star Wars Insider 58, p. 30" Source: *Star Wars Insider #58* (2002), scan p.24
-![Quote image: *Star Wars Insider #58* (2002), scan p.24 — full quote as printed](quotes/ins058-s24-most-people-talk-about-uncle-owen.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:165`
 
 > When we find Owen as a young man, he obviously hasn't had too much experience in the way of what eventually happened with Anakin and Obi-Wan. I wanted to bring him back to a nice and somewhat eager country boy. He was probably curious about the world outside, and I think he's eager to understand and be told stories of places.
 — Source: Star Wars Insider #58 (2002).
 Note (our notes, around the quote): Owen Lars; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Joel Edgerton on playing the young Owen: ""When we find Owen as a young man, he obviously hasn't had too much experience in the way of what eventually happened with Anakin and Obi-Wan. I wanted to bring him back to a nice and somewhat eager country boy. He was probably curious about the world outside, and I think he's eager to understand and be told stories of places." —Joel Edgerton, Star Wars Insider 58, p. 30" Source: *Star Wars Insider #58* (2002), scan p.24
-![Quote image: *Star Wars Insider #58* (2002), scan p.24 — full quote as printed](quotes/ins058-s24-when-we-find-owen-as-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:167`
 
 > That's a good thing about going back to him as a young man: This is perhaps prior to any of that heavy experience. I'm sure he was a bit of a Luke himself—working away in this country town and wondering whether or not to go explore.
 — Source: Star Wars Insider #58 (2002).
 Note (our notes, around the quote): Owen Lars; Luke Skywalker — entry/section: Joel Edgerton on Owen before the hard years: ""That's a good thing about going back to him as a young man: This is perhaps prior to any of that heavy experience. I'm sure he was a bit of a Luke himself—working away in this country town and wondering whether or not to go explore." —Joel Edgerton, Star Wars Insider 58, p. 31" Source: *Star Wars Insider #58* (2002), scan p.25
-![Quote image: *Star Wars Insider #58* (2002), scan p.25 — full quote as printed](quotes/ins058-s25-thats-a-good-thing-about-going.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:174`
 
 > Australian actor Joel Edgerton takes on the role of Owen Lars in Episode II. Photo by Sue Adler. *(hand-read)*
@@ -125,7 +121,6 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:567`
 > Yet Owen still treats him with contempt, and a whole empire wants to kill him.
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Obi-Wan Kenobi; Owen Lars; Darth Maul — entry/section: Bad blood with Uncle Owen: ""After all [Obi-Wan] lost, he still chose to protect the children of the man who tried to kill him in the hopes of one day restoring peace," McBride points out. "Yet Owen still treats him with contempt, and a whole empire wants to kill him." —Aaron McBride, Star Wars Insider 82, p. 27" Source: *Star Wars Insider #82* (2005), scan p.27
-![Quote image: *Star Wars Insider #82* (2005), scan p.27 — full quote as printed](quotes/ins082-s27-after-all-obi-wan-lost-he.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:175`
 
 > We started the studio work here the first day for Episode IV,
@@ -134,7 +129,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:175`
 > I think it was the kitchen. You know, where Aunt Beru is in there cooking and Owen comes in looking for Luke.
 — Source: Star Wars Insider #82 (2005).
 Note (our notes, around the quote): Owen Lars; Beru Lars; Luke Skywalker — entry/section: Elstree Stage 8: the Lars kitchen: ""We started the studio work here the first day for Episode IV," Lucas says, looking around at the dark interior of Stage 8. "I think it was the kitchen. You know, where Aunt Beru is in there cooking and Owen comes in looking for Luke." —George Lucas, Star Wars Insider 82, p. 76" Source: *Star Wars Insider #82* (2005), scan p.76
-![Quote image: *Star Wars Insider #82* (2005), scan p.76 — full quote as printed](quotes/ins082-s76-we-started-the-studio-work-here.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:494`
 
 ## Star Wars Insider #94 (2007)
@@ -142,7 +136,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:494`
 > He was a straight-forward curmudgeon - which I am anyway, so it was easy for me to play. I've been a curmudgeon a long time.
 — Source: Star Wars Insider #94 (2007); Owen Lars — entry/section: Curmudgeon.
 Note (our notes, around the quote): Owen Lars — entry/section: Curmudgeon: ""He was a straight-forward curmudgeon - which I am anyway, so it was easy for me to play. I've been a curmudgeon a long time." —Phil Brown, Star Wars Insider 94, p. 33" Source: *Star Wars Insider #94* (2007), scan p.33
-![Quote image: *Star Wars Insider #94* (2007), scan p.33 — full quote as printed](quotes/ins094-s33-he-was-a-straight-forward-curmudgeon.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:319`
 
 ## Star Wars Insider #105 (2008)

@@ -44,13 +44,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:106
 > Obi-Wan Kenobi mounted his own speeder bike and led a squad of Republic lancers in a classic joust that ended with Durge's defeat.
 — Source: Part Two: The Fall of the Republic; Obi-Wan Kenobi — Obi-Wan jousts Durge.
 Note (our notes, around the quote): Obi-Wan Kenobi — Obi-Wan jousts Durge: "Obi-Wan Kenobi mounted his own speeder bike and led a squad of Republic lancers in a classic joust that ended with Durge's defeat." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-obi-wan-jousts-durge.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:278`
 
 > The hulking Gen'Dai put up a brutal fight, but Anakin succeeded where other Jedi had failed by mainlining the power of the dark side. Forcing the beaten Durge into an escape pod, Anakin sent the pod into the burning arms of a nearby sun.
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker) — Anakin kills Durge.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — Anakin kills Durge: "The hulking Gen'Dai put up a brutal fight, but Anakin succeeded where other Jedi had failed by mainlining the power of the dark side. Forcing the beaten Durge into an escape pod, Anakin sent the pod into the burning arms of a nearby sun." Source: The New Essential Chronology, p.79
-![Quote image: The New Essential Chronology, p.79 — full quote as printed](quotes/nec-p79-anakin-kills-durge.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:453`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -60,7 +58,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Obi-Wan Kenobi: "Able-472 One of the Muunilinst 10 clone troopers who worked with General Obi-Wan Kenobi to defeat Durge and his IG lancer droid forces." Source: The Complete Star Wars Encyclopedia, Vol. I, p.6
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.6 — full quote as printed](quotes/v1-p6-able-472-one-of-the-muunilinst.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:124`
 
 - Note (summary from our notes, not a quotation): Page contents: 997 words, 42 paragraphs | headings/entries: Dura-Kahn; Duranc, Ak; Durane, Giles; Durasha, Celia; Durastar; Durasteel Corporation; Dureya, Grand Moff; Durge
@@ -72,7 +69,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Anakin Skywalker was finally able to destroy Durge in the final months of the Clone Wars by trapping him within an escape pod and directing it into the heart of a sun." Source: The Complete Star Wars Encyclopedia, Vol. I, p.217
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.217 — full quote as printed](quotes/v1-p217-anakin-skywalker-was-finally-able-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:249`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -80,25 +76,21 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > During the early stages of the Clone Wars, Obi-Wan Kenobi believed that he had defeated Durge in a tremendous battle outside Harnaidan, only to confront the bounty hunter again.
 — Source: scan pages 1–40; Obi-Wan Kenobi. POV: Obi-Wan Kenobi, about Durge.
 Note (our notes, around the quote): Obi-Wan Kenobi: "During the early stages of the Clone Wars, Obi-Wan Kenobi believed that he had defeated Durge in a tremendous battle outside Harnaidan, only to confront the bounty hunter again." Source: The Complete Star Wars Encyclopedia, Vol. II, p.20
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.20 — full quote as printed](quotes/v2-p20-during-the-early-stages-of-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:177`
 
 > The IBC also financed the resurrection of Durge and General Grievous, actions that IBC leader San Hill believed made Darth Sidious indebted to the clan.
 — Source: scan pages 81–120; General Grievous; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Palpatine (Darth Sidious): "The IBC also financed the resurrection of Durge and General Grievous, actions that IBC leader San Hill believed made Darth Sidious indebted to the clan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.107
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.107 — full quote as printed](quotes/v2-p107-the-ibc-also-financed-the-resurrection.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:206`
 
 > In the resulting chaos, Kenobi learned that it was Durge who had killed Korr.
 — Source: scan pages 201–240; Obi-Wan Kenobi. POV: Obi-Wan Kenobi, about Durge.
 Note (our notes, around the quote): Obi-Wan Kenobi: "In the resulting chaos, Kenobi learned that it was Durge who had killed Korr." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-in-the-resulting-chaos-kenobi-learned.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:331`
 
 > Young Boba stole his miter-like hat and fled the ship with the children, while Durge set out to destroy Libkath.
 — Source: scan pages 241–280; Boba Fett. POV: Boba Fett, about Durge.
 Note (our notes, around the quote): Boba Fett: "Young Boba stole his miter-like hat and fled the ship with the children, while Durge set out to destroy Libkath." Source: The Complete Star Wars Encyclopedia, Vol. II, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.253 — full quote as printed](quotes/v2-p253-young-boba-stole-his-miter-like.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:174`
 
 - Note (summary from our notes, not a quotation): Page contents: 1157 words, 29 paragraphs | headings/entries: Operation Blue Harvest; Operation Blue Plug; Operation Case White; Operation Durge's Lance; Operation Emperor's Hammer; Operation Emperor's Spear; Operation Flotsam; Operation Hammerblow; Operation Joystick; Operation Katabatic; Operation Noble Savage
@@ -110,7 +102,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > On Queyta, Ventress and Durge tried to secure the antidote to the swamp gas, but Obi-Wan Kenobi and his companions bested her.
 — Source: scan pages 281–320; Asajj Ventress; Obi-Wan Kenobi.
 Note (our notes, around the quote): Asajj Ventress; Obi-Wan Kenobi: "On Queyta, Ventress and Durge tried to secure the antidote to the swamp gas, but Obi-Wan Kenobi and his companions bested her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.302 — full quote as printed](quotes/v3-p302-on-queyta-ventress-and-durge-tried.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:225`
 
 ## Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -122,13 +113,11 @@ Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.
 > The Separatists draw upon many bounty hunters to assist their cause. One is the ancient Gen'Dai known as Durge, whose bounty-hunting career has spanned over a thousand years. After killing a Mandalorian leader, he was captured and tortured. This ordeal pushed the unstable Durge over the edge of sanity.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role; Durge — entry/section: Durge, ancient Gen'Dai.
 Note (our notes, around the quote): Durge — entry/section: Durge, ancient Gen'Dai: "The Separatists draw upon many bounty hunters to assist their cause. One is the ancient Gen'Dai known as Durge, whose bounty-hunting career has spanned over a thousand years. After killing a Mandalorian leader, he was captured and tortured. This ordeal pushed the unstable Durge over the edge of sanity." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d113-s2-the-separatists-draw-upon-many-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:27`
 
 > Because of his suffering, Durge despises the Mandalorians. Count Dooku was able to use this hate by informing the bounty hunter that the Republic's clone troopers are based off the genetic template of a Mandalorian. Durge quickly joined the Separatist cause.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role; Durge; Count Dooku — entry/section: Durge's hatred of Mandalorians.
 Note (our notes, around the quote): Durge; Count Dooku — entry/section: Durge's hatred of Mandalorians: "Because of his suffering, Durge despises the Mandalorians. Count Dooku was able to use this hate by informing the bounty hunter that the Republic's clone troopers are based off the genetic template of a Mandalorian. Durge quickly joined the Separatist cause." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d113-s2-because-of-his-suffering-durge-despises.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:29`
 
 - Note (summary from our notes, not a quotation): Page contents: Durge skills/feats; Rodian Jedi Guardian (Jedi Guardian 4, CC C from image); Qui-Gon Jinn (Jedi Guardian 10/Jedi Master 5, CC F) (hand-read)
@@ -147,12 +136,10 @@ Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:30`
 
 - Note (summary from our notes, not a quotation): Durge — entry/section: Durge's commander effect Momentum isn't kept: "A: No. They get the benefit of the Momentum special ability if they end their move within 6 squares of Durge, but they don't get to "keep" it. Of course, Momentum does you no good unless you happen to end that turn adjacent to an opponent." Source: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 59.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d226-s3-a-no-they-get-the-benefit.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:32`
 
 - Note (summary from our notes, not a quotation): Durge — entry/section: Durge regenerates while using Double Attack: "A: Remember, there are no "move actions" like in the Star Wars Roleplaying Game. In Star Wars Minis, a character either moves or doesn't, and "move" is meant quite literally. Since Durge isn't moving, he gets the benefit of Regeneration in any round he uses Double Attack." Source: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 59.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 59* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d226-s3-a-remember-there-are-no-move.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/226-jedi-counseling-59.md:34`
 
 ## Jedi Counselling/Jedi Counseling 66.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -177,7 +164,6 @@ Our notes: `notes/materials/037-sw-d20-folder/241-jedi-counseling-72.md:42`
 
 - Note (summary from our notes, not a quotation): And, just to be perfectly clear, this was exactly what the designers had in mind when they wrote the rules for Dominate. Durge might get the benefits of Regeneration twice in a round, Darth Maul might get to make two Triple Attacks in a round, and so on." Source: *Jedi Counseling 72* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 72.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 72* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d241-s3-a-when-sly-moore-uses-dominate.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/241-jedi-counseling-72.md:43`
 
 ## Jedi Counselling/Jedi Counseling 73.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -190,7 +176,6 @@ Our notes: `notes/materials/037-sw-d20-folder/242-jedi-counseling-73.md:27`
 — Source: Jedi Counselling/Jedi Counseling 73.pdf [Star Wars Roleplaying Game Revis; Durge — entry/section: Durge flying indoors in the cantina.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 73 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_73_pdf_4d86f4c01e`).)
 Note (our notes, around the quote): Durge — entry/section: Durge flying indoors in the cantina: "Q: Characters with Flight ignore attacks of opportunity, low objects, and pits, but are restricted by walls when moving. This got me wondering about rules for indoor flight. For instance, how high should ceilings be assumed to be? In the cantina in A New Hope, it would be improbable, if not impossible, for a character like Durge to fly through the doorway and be able to fly over low obstacles (like the bar, stools, and so on) unless he were moving horizontally the entire time, which would require constant movement indoors. Outdoor hovering doesn't seem to cause the same problem. Are there rules I'm missing, or is the game meant to run this way?" Source: *Jedi Counseling 73* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 73* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d242-s3-q-characters-with-flight-ignore-attacks.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/242-jedi-counseling-73.md:38`
 
 ## Jedi Counselling/Jedi Counseling 74.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -204,7 +189,6 @@ Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:31`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 74 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_74_pdf_40b465ad26`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 74 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_74_pdf_40b465ad26`).)
 Note (our notes, around the quote): Durge — entry/section: Durge doesn't have Momentum: "A: Actually, you're making a mistake in reading Durge's stat card: He doesn't have Momentum. His commander effect grants Momentum to non-Unique followers who end their move within 6 squares. Durge himself doesn't get this benefit at all, of course." Source: *Jedi Counseling 74* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 74* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d243-s3-a-actually-youre-making-a-mistake.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:36`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -221,7 +205,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Count Dooku is a well-known Jedi traitor; General Grievous is a reputedly brilliant military leader whose visage intimidates his enemies; Generali Loathsom is a vicious brute, Asajj Ventress an aspiring Sith, and Durge an immortal bounty huater.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Count Dooku; General Grievous; Asajj Ventress.
 Note (our notes, around the quote): Count Dooku; General Grievous; Asajj Ventress: "Count Dooku is a well-known Jedi traitor; General Grievous is a reputedly brilliant military leader whose visage intimidates his enemies; Generali Loathsom is a vicious brute, Asajj Ventress an aspiring Sith, and Durge an immortal bounty huater." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.21
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.21 — full quote as printed](quotes/d728-s21-count-dooku-is-a-well-known.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-001-060.md:149`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -260,7 +243,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Still thirsting far vengeance against the Mandalorians, Durge learns that the last of their eumber, Jango Fett, has been killed—but that he had left behind hundreds of thousands of clones, and the Separatist's leader, Count Dooku, recruits Durge to help kill them.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett; Count Dooku.
 Note (our notes, around the quote): Jango Fett; Count Dooku: "Still thirsting far vengeance against the Mandalorians, Durge learns that the last of their eumber, Jango Fett, has been killed—but that he had left behind hundreds of thousands of clones, and the Separatist's leader, Count Dooku, recruits Durge to help kill them." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.186
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.186 — full quote as printed](quotes/d728-s186-still-thirsting-far-vengeance-against-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:74`
 
 - Note (summary from our notes, not a quotation): Page contents: Durge concluded (faces Kit Fisto and Plo Koon; Karthakk system; launched into a star by Anakin). Durge stat block (CL 16; Large Gen'Dai cyborg soldier 8/elite trooper 2/scout 3/bounty hunter 3; Dark Side 24). (hand-read)
@@ -294,7 +276,6 @@ Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:194`
 > The one where Obi-Wan Kenobi fights his main bad guy, [Durge]. I kind of like how that fight turned out because it's fast and brutal. I also love the two Mace episodes. He's on his own, beating the heck out of tons of droids in pure Jedi style and that was a lot of fun. We don't really get to see Mace do too much in the movie—just a little bit at the end of Episode II—and he's supposed to be second to Yoda, so it was our chance to really flex Mace's muscles.
 — Source: Star Wars Insider #70 (2003).
 Note (our notes, around the quote): Mace Windu; Obi-Wan Kenobi; Durge — entry/section: Clone Wars field report: Bryan Andrews on the Durge and Mace episodes: ""The one where Obi-Wan Kenobi fights his main bad guy, [Durge]. I kind of like how that fight turned out because it's fast and brutal. I also love the two Mace episodes. He's on his own, beating the heck out of tons of droids in pure Jedi style and that was a lot of fun. We don't really get to see Mace do too much in the movie—just a little bit at the end of Episode II—and he's supposed to be second to Yoda, so it was our chance to really flex Mace's muscles." —Bryan Andrews, Star Wars Insider 70, p. 37" Source: *Star Wars Insider #70* (2003), scan p.37
-![Quote image: *Star Wars Insider #70* (2003), scan p.37 — full quote as printed](quotes/ins070-s37-the-one-where-obi-wan-kenobi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:196`
 
 - Note (summary from our notes, not a quotation): Page contents: Hasbro Clone Wars toy line: Jedi figures, Durge, Asajj Ventress, ARC trooper. (hand-read)
@@ -356,7 +337,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:161`
 > The battle scene section with Obi-Wan Kenobi and the clones, with Durge rampaging, was my favorite piece to illustrate for the book.
 — Source: Star Wars Insider #94 (2007); Obi-Wan Kenobi; Durge — entry/section: Durge rampaging.
 Note (our notes, around the quote): Obi-Wan Kenobi; Durge — entry/section: Durge rampaging: ""The battle scene section with Obi-Wan Kenobi and the clones, with Durge rampaging, was my favorite piece to illustrate for the book." —Tom Hodges, Star Wars Insider 94, p. 17" Source: *Star Wars Insider #94* (2007), scan p.17
-![Quote image: *Star Wars Insider #94* (2007), scan p.17 — full quote as printed](quotes/ins094-s17-the-battle-scene-section-with-obi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:163`
 
 > Luke's Duel Against the Dark Side on Dagobah....
@@ -430,14 +410,14 @@ Our notes: `notes/materials/047-visual-dictionaries/vd3-ep3.md:56`
 > you will not kill me!
 > [fragment — full passage not on file]
 — Source: Star Wars: Obsession: daily-image candidates; ![Durge rises from the wreckage.
-Note (our notes, around the quote): ![Durge rises from the wreckage: "you will not kill me!"](panels/ob2-p21-durge-rises.jpg)
+Note (our notes, around the quote): ![Durge rises from the wreckage: "you will not kill me!"](../notes/materials/049-obsession/panels/ob2-p21-durge-rises.jpg)
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:28`
 
-- Note (summary from our notes, not a quotation): ![Durge's Gen'Dai face exposed](panels/ob3-p12-durge-face.jpg)
+- Note (summary from our notes, not a quotation): ![Durge's Gen'Dai face exposed](../notes/materials/049-obsession/panels/ob3-p12-durge-face.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:31`
 
-- Note (summary from our notes, not a quotation): ![Durge's escape pod, Force-launched by Anakin, burns up in the star](panels/ob3-p16-pod-into-star.jpg)
+- Note (summary from our notes, not a quotation): ![Durge's escape pod, Force-launched by Anakin, burns up in the star](../notes/materials/049-obsession/panels/ob3-p16-pod-into-star.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:34`
 

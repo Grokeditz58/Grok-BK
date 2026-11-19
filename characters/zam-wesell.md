@@ -14,13 +14,11 @@
 > The analysis droids SP-4 and JN- 66 helped Jedi Knight Obi-Wan Kenobi when he asked them to identify the small toxic dart that killed Zam Wesell.
 — Source: scan pages 161–200; Obi-Wan Kenobi. POV: Obi-Wan Kenobi, about Zam Wesell.
 Note (our notes, around the quote): Obi-Wan Kenobi: "The analysis droids SP-4 and JN- 66 helped Jedi Knight Obi-Wan Kenobi when he asked them to identify the small toxic dart that killed Zam Wesell." Source: The Complete Star Wars Encyclopedia, Vol. III, p.180
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.180 — full quote as printed](quotes/v3-p180-the-analysis-droids-sp-4-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:313`
 
 > Zam Wesell was also a rival of Jango Fett, as the two were generally considered the best bounty hunters of their generation.
 — Source: scan pages 321–360; Jango Fett. POV: Jango Fett, about Zam Wesell.
 Note (our notes, around the quote): Jango Fett: "Zam Wesell was also a rival of Jango Fett, as the two were generally considered the best bounty hunters of their generation." Source: The Complete Star Wars Encyclopedia, Vol. III, p.326
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.326 — full quote as printed](quotes/v3-p326-zam-wesell-was-also-a-rival.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:91`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -48,7 +46,6 @@ Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Aurra Sing; Zam Wesell — entry/section: Two deadly bounty hunters: "This time out, we've got a pair of slimy Hutts (for a change) that became the targets, and then the victims, of two deadly bounty hunters: Wallanooga, one-time owner of the Jedi stalker Aurra Sing, and Dreddon, who met his end at the hands of the shapeshifter Zam Wesell." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d090-s1-this-time-out-weve-got-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: Wallanooga skills; Dreddon, Zam Wesell, Vigo Antonin, Jango Fett; Dreddon stats; Nightsaber teaser (hand-read)
@@ -60,7 +57,6 @@ Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:25`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Zam Wesell; Jango Fett; Aurra Sing — entry/section: The double double-cross: "(He picked up much of the late Wallanooga's gunrunning business when the one-eyed Hutt was killed by Aurra Sing.) He met his end five years before the Battle of Geonosis, when Zam Wesell took a contract on his life. The man who had hired her, the Black Sun Vigo Antonin, was killed by Jango Fett before she could collect her pay. In the end, neither hunter was rewarded -- as it turned out, Dreddon was the one who'd hired Fett." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d090-s2-he-picked-up-much-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:27`
 
 ## Characters/Miniatures/Scum and Villainy.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -72,12 +68,10 @@ Our notes: `notes/materials/037-sw-d20-folder/111-scum-and-villainy.md:10`
 > The Separatist movement saw Padme Amidala as a possible threat to fulfilling their ultimate goals. As a result, they hired the shapechanging assassin Zam Wesell to kill the young senator from Naboo. After failing to kill her on a landing bay on Naboo, Zam was given two kouhuns by Jango Fett to assist in a second attempt. Amidala's Jedi protectors, Anakin Skywalker and Obi-Wan Kenobi, foiled this attempt and captured the would-be assassin after a wild chase. But before she could talk, Zam was silenced by a poisoned dart fired by Jango Fett.
 — Source: Characters/Miniatures/Scum and Villainy.pdf [Star Wars Roleplaying Game R.
 Note (our notes, around the quote): Zam Wesell; Padmé Amidala; Jango Fett; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Zam Wesell's attempts on Amidala: "The Separatist movement saw Padme Amidala as a possible threat to fulfilling their ultimate goals. As a result, they hired the shapechanging assassin Zam Wesell to kill the young senator from Naboo. After failing to kill her on a landing bay on Naboo, Zam was given two kouhuns by Jango Fett to assist in a second attempt. Amidala's Jedi protectors, Anakin Skywalker and Obi-Wan Kenobi, foiled this attempt and captured the would-be assassin after a wild chase. But before she could talk, Zam was silenced by a poisoned dart fired by Jango Fett." Source: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d111-s1-the-separatist-movement-saw-padme-amidala.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/111-scum-and-villainy.md:12`
 
 - Note (summary from our notes, not a quotation): Zam Wesell — entry/section: Zam Wesell at the time of her death: "Zam Wesell was first described in the article "Clawdite Assassin" by JD Wiker in issue 10 of Star Wars Gamer. This version is a slightly more experienced Zam, representing her abilities at the time of her death. Her statistics make her equally useful as a bounty hunter, a pirate captain, or a suitable leader for other militant fringe groups." Source: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Miniatures/Scum and Villainy.pdf [Star Wars Roleplaying Game R.
-![Quote image: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d111-s1-zam-wesell-was-first-described-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/111-scum-and-villainy.md:14`
 
 ## Jedi Counselling/Jedi Counseling 57.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -94,7 +88,6 @@ Our notes: `notes/materials/037-sw-d20-folder/224-jedi-counseling-57.md:34`
 
 - Note (summary from our notes, not a quotation): Zam Wesell — entry/section: Zam's Kouhun Infestation vs droids: "As for your last question, yes, Kouhun Infestation does apply against droids. In a "realistic" sense this may seem a bit odd, but it's meant to work that way for purposes of play balance (especially given the number of droids in the Clone Strike set). If you need an "in-universe" explanation, though, assume that Zam actually carries different types of critters for different types of targets. Maybe she's actually sending little baby mynocks to chew on a droid's power cables." Source: *Jedi Counseling 64* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 64.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 64* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d232-s3-as-for-your-last-question-yes.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/232-jedi-counseling-64.md:39`
 
 - Note (summary from our notes, not a quotation): Zam Wesell — entry/section: Zam Wesell's point cost: "Q: Isn't Zam Wesell's point cost a bit low for someone who can inflict 60 damage every single round? I mean, someone with Triple Attack who does 20 damage can inflict this much, but they have to roll to hit. Am I missing something?
@@ -124,7 +117,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > In an incident that left Greyshade afire with rage, Padawan learner Anakin Skywalker “borrowed” the senator's aircar to pursue fugitive assassin Zam Wesell.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Zam Wesell — entry/section: Anakin borrows Greyshade's aircar: "In an incident that left Greyshade afire with rage, Padawan learner Anakin Skywalker “borrowed” the senator's aircar to pursue fugitive assassin Zam Wesell." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.19
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.19 — full quote as printed](quotes/d665-s19-in-an-incident-that-left-greyshade.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:110`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -187,7 +179,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:237`
 > Imagine that—a figurine of me! I love Star Wars! This has all been so good for me and for the acting community in Australia.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Zam Wesell — entry/section: Leeanna Walsman on a Zam Wesell action figure (sidebar): ""I've got to have a little figurine of me!" Leeanna Walsman says, thinking ahead to when action figures of her character Zam Wesell might appear in toy stores around the world. "Imagine that—a figurine of me! I love Star Wars! This has all been so good for me and for the acting community in Australia." —Leeanna Walsman, Star Wars Insider 57, p. 44" Source: *Star Wars Insider #57* (2001), scan p.36
-![Quote image: *Star Wars Insider #57* (2001), scan p.36 — full quote as printed](quotes/ins057-s36-ive-got-to-have-a-little.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:239`
 
 > even the small characters still get attention
@@ -209,7 +200,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:262`
 > I wear a helmet, but I have my own face most of the time. I briefly wear a veil so I can be anonymous, but it flies off at some point. That costume and the weaponry really help make the character. You look at yourself in the mirror, and you say, 'This is how I'm going to be.' And then it's all about dodging light sabers, flying spacecraft, running down streets. It was all completely different than anything else I'd ever done.
 — Source: Star Wars Insider #57 (2001); Zam Wesell — entry/section: Leeanna Walsman on Zam Wesell's costume.
 Note (our notes, around the quote): Zam Wesell — entry/section: Leeanna Walsman on Zam Wesell's costume: ""It's all about the costume," she says, noting that getting fixed up with outfits and weaponry took up plenty of time. In fact, various parts of her leather-and-Lycra costume, like the armor, had different crewmembers attending them, as did her guns. "I wear a helmet, but I have my own face most of the time. I briefly wear a veil so I can be anonymous, but it flies off at some point. That costume and the weaponry really help make the character. You look at yourself in the mirror, and you say, 'This is how I'm going to be.' And then it's all about dodging light sabers, flying spacecraft, running down streets. It was all completely different than anything else I'd ever done." —Leeanna Walsman, Star Wars Insider 57, p. 48" Source: *Star Wars Insider #57* (2001), scan p.40
-![Quote image: *Star Wars Insider #57* (2001), scan p.40 — full quote as printed](quotes/ins057-s40-its-all-about-the-costume-she.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:269`
 
 - Note (summary from our notes, not a quotation): Page contents: Walsman feature conclusion (magazine p. 50; p. 49 not in scan): Australian crew; no lightsaber but a great gun; "Setting Her Sights on the Future" - whether Zam Wesell will rival Darth Maul or Boba Fett, fan mail, Old Masters, Hollywood agent; pull quote on wanting lead roles like Audrey Hepburn's; sidebar "Guises and Disguises" credits list 1996-2001 (Blackrock through Farscape and Old Masters). (hand-read)
@@ -222,7 +212,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:278`
 > But I'll tell you: I had a great gun. I was very pleased with my weaponry.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Zam Wesell — entry/section: Leeanna Walsman on being a bounty hunter, not a Jedi: ""I didn't get to play with a lightsaber," Walsman admits. "But I'll tell you: I had a great gun. I was very pleased with my weaponry." —Leeanna Walsman, Star Wars Insider 57, p. 50" Source: *Star Wars Insider #57* (2001), scan p.41
-![Quote image: *Star Wars Insider #57* (2001), scan p.41 — full quote as printed](quotes/ins057-s41-i-didnt-get-to-play-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:280`
 
 > I had no idea how big it was at the time,
@@ -231,7 +220,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:280`
 > Honestly, I didn't even know what a bounty hunter was when they offered me the role. But I didn't want to admit that and look stupid, of course. So now I can't believe that I already have people sending me fan mail. I think that's surreal! Then there are these Internet sites where people are already talking about me and about my character. I think it's phenomenal. I hope everyone likes me.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Zam Wesell — entry/section: Leeanna Walsman on not knowing what a bounty hunter was: ""I had no idea how big it was at the time," she says. "Honestly, I didn't even know what a bounty hunter was when they offered me the role. But I didn't want to admit that and look stupid, of course. So now I can't believe that I already have people sending me fan mail. I think that's surreal! Then there are these Internet sites where people are already talking about me and about my character. I think it's phenomenal. I hope everyone likes me." —Leeanna Walsman, Star Wars Insider 57, p. 50" Source: *Star Wars Insider #57* (2001), scan p.41
-![Quote image: *Star Wars Insider #57* (2001), scan p.41 — full quote as printed](quotes/ins057-s41-i-had-no-idea-how-big.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:282`
 
 ## Star Wars Insider #58 (2002)
@@ -251,7 +239,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:411`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #58 (2002); Zam Wesell — entry/section: Ted Naifeh on drawing Zam Wesell.
 Note (our notes, around the quote): Zam Wesell — entry/section: Ted Naifeh on drawing Zam Wesell: "Zam seems pretty relaxed and cool, unlike many action characters these days, who have that permanent scowl. She can go from friendly, civil conversation to sharp action, and she doesn't seem to lose control. In the reference I have of her, she just oozes composed deadliness. —Ted Naifeh, Star Wars Insider 58, p. 81" Source: *Star Wars Insider #58* (2002), scan p.64
-![Quote image: *Star Wars Insider #58* (2002), scan p.64 — full quote as printed](quotes/ins058-s64-zam-seems-pretty-relaxed-and-cool.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:413`
 
 ## Star Wars Insider #59 (2002)
@@ -278,7 +265,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:189`
 > This bounty hunter has been killed in my arms with a little toxic dart, and the Jedi archives can't find any trace of it. They don't know where it's come from, and then I get a lead. There's some nice underworld stuff.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Zam Wesell — entry/section: Ewan McGregor on Obi-Wan's detective mission: ""I go on a kind of Dick Tracy detective spree, and it's really good," McGregor said. "This bounty hunter has been killed in my arms with a little toxic dart, and the Jedi archives can't find any trace of it. They don't know where it's come from, and then I get a lead. There's some nice underworld stuff." —Ewan McGregor, Star Wars Insider 60, p. 28" Source: *Star Wars Insider #60* (2002), scan p.28
-![Quote image: *Star Wars Insider #60* (2002), scan p.28 — full quote as printed](quotes/ins060-s28-i-go-on-a-kind-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:191`
 
 > We chase her into this club, she attempts to kill me, and I cut her arm off,
@@ -288,7 +274,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:191`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Zam Wesell — entry/section: Ewan McGregor on cutting off Zam Wesell's arm: ""We chase her into this club, she attempts to kill me, and I cut her arm off," he said, "which is cool, because Obi-Wan Kenobi cuts an arm off in the first film [in the Mos Eisley Cantina]. So he's obviously a bit of an arm cutter, isn't he? It's hero stuff when you calmly take someone's arm off and return to your drink. So I get to do that and mirror it a little bit." —Ewan McGregor, Star Wars Insider 60, p. 28" Source: *Star Wars Insider #60* (2002), scan p.28
-![Quote image: *Star Wars Insider #60* (2002), scan p.28 — full quote as printed](quotes/ins060-s28-we-chase-her-into-this-club.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:193`
 
 > ASN-121 Assassin/Sentry droid. *(hand-read)*
@@ -325,7 +310,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:377`
 > On the other hand, he was willing to defy the Jedi Council to train Anakin as a Padawan, and he knew enough about the insular order's limitations to take to the depths of Coruscant to solve the mystery of who killed Zam Wesell. Obi-Wan's youth made this apparent paradox more clear.
 — Source: Star Wars Insider #62 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi — entry/section: Who's Who: Obi-Wan defies the Council: "On the other hand, he was willing to defy the Jedi Council to train Anakin as a Padawan, and he knew enough about the insular order's limitations to take to the depths of Coruscant to solve the mystery of who killed Zam Wesell. Obi-Wan's youth made this apparent paradox more clear." Source: *Star Wars Insider #62* (2002), scan p.22
-![Quote image: *Star Wars Insider #62* (2002), scan p.22 — full quote as printed](quotes/ins062-s22-on-the-other-hand-he-was.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:128`
 
 ## Star Wars Insider #64 (2002)

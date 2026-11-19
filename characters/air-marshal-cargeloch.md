@@ -22,7 +22,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > He earned his rank by blasting a rebellious city to rubble with only four TIE bombers.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Air Marshal Cargeloch — entry/section: Cargeloch's four TIE bombers.
 Note (our notes, around the quote): Air Marshal Cargeloch — entry/section: Cargeloch's four TIE bombers: "He earned his rank by blasting a rebellious city to rubble with only four TIE bombers." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.34
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.34 — full quote as printed](quotes/d665-s34-he-earned-his-rank-by-blasting.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:248`
 
 # Debate and forum claims (unverified)

@@ -24,7 +24,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Booster reveals even more surprises: Not only does he transport his son-in-law, the expatriate Jedi Corran Horn, but, somehow Booster has picked up most of the Array's crew and Shada D'ukal, who got to an escape pod before Idiot's Array exploded.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Corran Horn. POV: Corran Horn, about Shada D'ukal.
 Note (our notes, around the quote): Corran Horn: "Booster reveals even more surprises: Not only does he transport his son-in-law, the expatriate Jedi Corran Horn, but, somehow Booster has picked up most of the Array's crew and Shada D'ukal, who got to an escape pod before Idiot's Array exploded." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.117
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.117 — full quote as printed](quotes/d049-s117-booster-reveals-even-more-surprises-not.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:364`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -32,21 +31,18 @@ Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-
 > Shada, when will you learn to trust my instincts? When have I ever gotten you killed?
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Talon Karrde; Shada D'ukal — entry/section: Conquest excerpt.
 Note (our notes, around the quote): Talon Karrde; Shada D'ukal — entry/section: Conquest excerpt: ""Shada, when will you learn to trust my instincts? When have I ever gotten you killed?"" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.24
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.24 — full quote as printed](quotes/d052-s24-shada-when-will-you-learn-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:151`
 
 > If the rumors are true, Shada may be the single most deadly combatant in the smugglers' coalition;
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Shada D'ukal — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Shada D'ukal — entry/section: Smugglers' Alliance: "If the rumors are true, Shada may be the single most deadly combatant in the smugglers' coalition;" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.57
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.57 — full quote as printed](quotes/d052-s57-if-the-rumors-are-true-shada.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:359`
 
 > The needles are not decorative; Shada uses them in combat, and has been known to hurl them with sufficient force to penetrate even Stormtrooper armor,
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Shada D'ukal — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Shada D'ukal — entry/section: Smugglers' Alliance: "The needles are not decorative; Shada uses them in combat, and has been known to hurl them with sufficient force to penetrate even Stormtrooper armor," Source: *Star Wars Gamer 03* (SWRPG d20), scan p.57
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.57 — full quote as printed](quotes/d052-s57-the-needles-are-not-decorative-shada.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:361`
 
 ## Star Wars Insider #95 (2007)

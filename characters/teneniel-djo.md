@@ -14,7 +14,6 @@
 > The old hag nearly defeated Singing Clan witch Teneniel Djo and Luke Skywalker with one of her spells—she sucked the wind from their lungs and barraged them with Force lightning.
 — Source: scan pages 401–440; Luke Skywalker. POV: Luke Skywalker, about Teneniel Djo.
 Note (our notes, around the quote): Luke Skywalker: "The old hag nearly defeated Singing Clan witch Teneniel Djo and Luke Skywalker with one of her spells—she sucked the wind from their lungs and barraged them with Force lightning." Source: The Complete Star Wars Encyclopedia, Vol. II, p.402
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.402 — full quote as printed](quotes/v2-p402-the-old-hag-nearly-defeated-singing.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:55`
 
 ## Adventures/Nightsaber.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -36,7 +35,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Native witch Teneniel Djo married the off-worlder Prince Isolder to become the Queen Mother of the Hapes Consortium, while several other witches left the planet to study at Luke Skywalker’s Jedi academy.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Teneniel Djo; Luke Skywalker — entry/section: Teneniel Djo becomes Queen Mother: "Native witch Teneniel Djo married the off-worlder Prince Isolder to become the Queen Mother of the Hapes Consortium, while several other witches left the planet to study at Luke Skywalker’s Jedi academy." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32 — full quote as printed](quotes/d667-s32-native-witch-teneniel-djo-married-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:214`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

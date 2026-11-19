@@ -14,13 +14,11 @@
 > Thousands of years before the founding of the Republic, Tython was home to an ancient society of Force-sensitive beings known as the Je'daii. Comprised of the brightest philosophers, scientists, and warriors from all corners of the galaxy, this society would unite to study a mysterious power called the Force. Over the next thousand years, this civilization would rise, fall, and finally evolve to become the Jedi Order.
 — Source: Species, technology, planets and the future; Tython intro. POV: Tython intro, about Je'daii Temple Masters.
 Note (our notes, around the quote): Tython intro: "Thousands of years before the founding of the Republic, Tython was home to an ancient society of Force-sensitive beings known as the Je'daii. Comprised of the brightest philosophers, scientists, and warriors from all corners of the galaxy, this society would unite to study a mysterious power called the Force. Over the next thousand years, this civilization would rise, fall, and finally evolve to become the Jedi Order." Source: The Old Republic Encyclopedia, p.286
-![Quote image: The Old Republic Encyclopedia, p.286 — full quote as printed](quotes/tore-p286-thousands-of-years-before-the-founding.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:216`
 
 > For thousands of years, the Jedi's ancestors—the Je'daii—studied the ways of the Balanced Force, which encompassed both the light and dark sides of the Force as exemplified by Tython's two moons, Ashia and Bogan. As their understanding of the Force grew, so did the temptation to use it for personal gain. Many followers of the Balance ultimately abandoned their teachings and dedicated their lives to harnessing the dark side of the Force. The clash between the followers of light and dark ignited the Force Wars on Tython. Fighting continued for years, finally ending with a tremendous Force Cataclysm that devastated the civilizations of the Tython system.
 — Source: Species, technology, planets and the future; Force Wars box. POV: Force Wars box, about Je'daii Temple Masters.
 Note (our notes, around the quote): Force Wars box: "For thousands of years, the Jedi's ancestors—the Je'daii—studied the ways of the Balanced Force, which encompassed both the light and dark sides of the Force as exemplified by Tython's two moons, Ashia and Bogan. As their understanding of the Force grew, so did the temptation to use it for personal gain. Many followers of the Balance ultimately abandoned their teachings and dedicated their lives to harnessing the dark side of the Force. The clash between the followers of light and dark ignited the Force Wars on Tython. Fighting continued for years, finally ending with a tremendous Force Cataclysm that devastated the civilizations of the Tython system." Source: The Old Republic Encyclopedia, p.286
-![Quote image: The Old Republic Encyclopedia, p.286 — full quote as printed](quotes/tore-p286-for-thousands-of-years-the-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:220`
 
 ## Star Wars Insider #132 (2012)
@@ -33,7 +31,6 @@ Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:333`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #132 (2012).
 Note (our notes, around the quote): Xesh — entry/section: Duursema: Rakata dark-side tech and the Force Hound Xesh: ""The Rakata have a kind of hyperdrive technology and possess ships powered by the dark side ... Rakata overlords use Force-sensitive beings they call Force Hounds to seek out worlds to dominate. One Force Hound named Xesh finds his story and destiny interwoven with the Je'daii on Tython." —Jan Duursema, Star Wars Insider 132, p. 64" Source: *Star Wars Insider #132* (2012), scan p.64
-![Quote image: *Star Wars Insider #132* (2012), scan p.64 — full quote as printed](quotes/ins132-s64-the-rakata-have-a-kind-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:345`
 
 ## Star Wars Insider #138 (2013)
@@ -41,7 +38,6 @@ Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:345`
 > People are sent to the moon when the Je'daii find them out of balance in the Force, and it's safe to say that Daegen Lok is seriously out of balance. In fact, Daegen Lok is not quite sane. If you're a powerful Je'daii, that's very dangerous.
 — Source: Star Wars Insider #138 (2013); Daegen Lok — entry/section: Ostrander on Daegen Lok.
 Note (our notes, around the quote): Daegen Lok — entry/section: Ostrander on Daegen Lok: ""People are sent to the moon when the Je'daii find them out of balance in the Force, and it's safe to say that Daegen Lok is seriously out of balance. In fact, Daegen Lok is not quite sane. If you're a powerful Je'daii, that's very dangerous." —John Ostrander, Star Wars Insider 138, p. 61" Source: *Star Wars Insider #138* (2013), scan p.61
-![Quote image: *Star Wars Insider #138* (2013), scan p.61 — full quote as printed](quotes/ins138-s61-people-are-sent-to-the-moon.jpg)
 Our notes: `notes/materials/038-star-wars-insider/138-ins138.md:316`
 
 - Note (summary from our notes, not a quotation): Page contents: Dawn of the Jedi continued: Lok and Xesh stage a jailbreak; the Rakata send the Force Hound Trill to find Tython; new worlds (Kaleth's Krev Cover, Nox, Shikaakwa); the Force Wars end in a cataclysm that sends the Je'daii from Tython to become the Jedi; five-issue run. (hand-read)
@@ -83,7 +79,6 @@ Our notes: `notes/materials/038-star-wars-insider/141-ins141.md:321`
 > The Je'daii have fought wars before, but nothing like this. The Rakata are powerful Force users, relying on the dark side, and they are as powerful, or more, than the Je'daii.
 — Source: Star Wars Insider #146 (2014); none — entry/section: Rakata vs Je'daii.
 Note (our notes, around the quote): none — entry/section: Rakata vs Je'daii: ""The Je'daii have fought wars before, but nothing like this. The Rakata are powerful Force users, relying on the dark side, and they are as powerful, or more, than the Je'daii." —John Ostrander, Star Wars Insider 146, p. 64" Source: *Star Wars Insider #146* (2014), scan p.64
-![Quote image: *Star Wars Insider #146* (2014), scan p.64 — full quote as printed](quotes/ins146-s64-the-jedaii-have-fought-wars-before.jpg)
 Our notes: `notes/materials/038-star-wars-insider/146-ins146.md:388`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

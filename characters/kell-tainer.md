@@ -28,7 +28,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Kell survived on Dathomir for the next three centuries, and eventually turned the reader tapes over to Luke Skywalker before dying of old age.
 — Source: scan pages 201–240; Luke Skywalker. POV: Luke Skywalker, about Kell Tainer.
 Note (our notes, around the quote): Luke Skywalker: "Kell survived on Dathomir for the next three centuries, and eventually turned the reader tapes over to Luke Skywalker before dying of old age." Source: The Complete Star Wars Encyclopedia, Vol. II, p.207
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.207 — full quote as printed](quotes/v2-p207-kell-survived-on-dathomir-for-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:118`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -40,7 +39,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Tainer, Doran Born to Kell Tainer and Tyria Sarkin several years after the defeat of Warlord Zsinj, Doran studied at Luke Skywalker's Jedi praxeum after the Yuuzhan Vong War and trained to become a Jedi.
 — Source: scan pages 201–240; Luke Skywalker. POV: Luke Skywalker, about Kell Tainer.
 Note (our notes, around the quote): Luke Skywalker: "Tainer, Doran Born to Kell Tainer and Tyria Sarkin several years after the defeat of Warlord Zsinj, Doran studied at Luke Skywalker's Jedi praxeum after the Yuuzhan Vong War and trained to become a Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.212
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.212 — full quote as printed](quotes/v3-p212-tainer-doran-born-to-kell-tainer.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:167`
 
 ## Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–114)
@@ -48,13 +46,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Deathraven is the personal craft of Erron Kell, a mercenary pilot-for-hire. Kell was a Rebel pilot who fought at the Battle of Endor. When he found the more orderly New Republic military was not to his liking, he resigned his commission. During The New Jedi Order era, Kell is a freelance pilot selling his skills to the highest bidder.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Erron Kell — entry/section: Deathraven.
 Note (our notes, around the quote): Erron Kell — entry/section: Deathraven: "Deathraven is the personal craft of Erron Kell, a mercenary pilot-for-hire. Kell was a Rebel pilot who fought at the Battle of Endor. When he found the more orderly New Republic military was not to his liking, he resigned his commission. During The New Jedi Order era, Kell is a freelance pilot selling his skills to the highest bidder." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.81
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.81 — full quote as printed](quotes/d047-s81-deathraven-is-the-personal-craft-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:122`
 
 > Kell's contacts within the New Republic got him access to a few B-wing/E2s that were considered too badly damaged to be worth repairing. With the help of engineers at the Kuat Drive Yards, Kell merged the damaged ships into a unique double-hulled B-wing variant, with both bodies rotating around a central expanded cockpit.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Erron Kell — entry/section: Deathraven.
 Note (our notes, around the quote): Erron Kell — entry/section: Deathraven: "Kell's contacts within the New Republic got him access to a few B-wing/E2s that were considered too badly damaged to be worth repairing. With the help of engineers at the Kuat Drive Yards, Kell merged the damaged ships into a unique double-hulled B-wing variant, with both bodies rotating around a central expanded cockpit." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.81
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.81 — full quote as printed](quotes/d047-s81-kells-contacts-within-the-new-republic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:124`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -68,7 +64,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 > Feats: Armor Proficiency (heavy, light, medium), Far Shot, Multishot, Point Blank Shot, Precise Shot, Quick Draw, Rapid Shot, Weapons Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons).
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/208 - Almas, Swee.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Sellot Kell (feats): "Feats: Armor Proficiency (heavy, light, medium), Far Shot, Multishot, Point Blank Shot, Precise Shot, Quick Draw, Rapid Shot, Weapons Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons)." Source: *208 - Almas, Sweet Almas - A Dark Fortress* (SWRPG d20 Revised Core), p.17
-![Quote image: *208 - Almas, Sweet Almas - A Dark Fortress* (SWRPG d20 Revised Core), p.17 — full quote as printed](quotes/d294-p17-feats-armor-proficiency-heavy-light-medium.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/294-208-almas-sweet-almas-a-dark-fortress.md:177`
 
 - Note (summary from our notes, not a quotation): Page contents: Gilloma's Report; maps; NPC stats (Misha and Sellot Kell lines from the images); cargo skiff; critical event summary (hand-read)

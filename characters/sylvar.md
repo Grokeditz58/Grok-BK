@@ -22,14 +22,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:76`
 
 - Note (summary from our notes, not a quotation): Claws Exar Kun's face in sparring (his scar). Source: Dark Lords of the Sith #1, p23–24
   — Source: Dark Lords of the Sith #1, p23–24 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p24: Sylvar scars Exar](panels/dlots1-p24-sylvar-scars-exar.jpg)
+![Dark Lords of the Sith #1 p24: Sylvar scars Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p24-sylvar-scars-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:225`
 
 - Note (summary from our notes, not a quotation): Saves Vima Sunrider during the Deneba droid attack. Source: Dark Lords of the Sith #3, p18–21
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p19: Sylvar saves Vima Sunrider from the Krath droids on Deneba](panels/dlots3-p19-sylvar-saves-vima.jpg)
-![Dark Lords of the Sith #3 p20: Arca Jeth short-circuits the Krath war droids with the Force and saves Ulic](024-tales-of-the-jedi/panels/dlots3-p20-arca-short-circuits-droids.jpg)
-![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
+![Dark Lords of the Sith #3 p19: Sylvar saves Vima Sunrider from the Krath droids on Deneba](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p19-sylvar-saves-vima.jpg)
+![Dark Lords of the Sith #3 p20: Arca Jeth short-circuits the Krath war droids with the Force and saves Ulic](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p20-arca-short-circuits-droids.jpg)
+![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:226`
 
 - Note (summary from our notes, not a quotation): | 2 | Sylvar vs Exar Kun | Dantooine | p23–24 (#1) | Sylvar scars Exar | Sparring, temper |
@@ -37,11 +37,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:226`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:273`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p24: Sylvar scars Exar](panels/dlots1-p24-sylvar-scars-exar.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p24: Sylvar scars Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p24-sylvar-scars-exar.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:291`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p24: Sylvar scars Exar](panels/dlots1-p24-sylvar-scars-exar.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p24: Sylvar scars Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p24-sylvar-scars-exar.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:293`
 
@@ -61,55 +61,55 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:34`
 
 - Note (summary from our notes, not a quotation): Ossus evacuation; Cay shoots down war-mounts (p4–11). Ood Bnar vs Exar (p12–16). Sylvar vs Massassi; Exar refuses to fight her (p17–18). Tott (p19–20). Ulic kills Cay (p21–26).
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #5 p15: Ood Bnar blasts Exar back](panels/sw5-p15-ood-bnar-blasts-exar.jpg)
-![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
-![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
-![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](024-tales-of-the-jedi/panels/sw5-p21-cay-crash-lands-ranger.jpg)
-![The Sith War #5 p24: Ulic kills Cay](panels/sw5-p24-ulic-kills-cay.jpg)
+![The Sith War #5 p15: Ood Bnar blasts Exar back](../notes/materials/024-tales-of-the-jedi/panels/sw5-p15-ood-bnar-blasts-exar.jpg)
+![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
+![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](../notes/materials/024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
+![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p21-cay-crash-lands-ranger.jpg)
+![The Sith War #5 p24: Ulic kills Cay](../notes/materials/024-tales-of-the-jedi/panels/sw5-p24-ulic-kills-cay.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:40`
 
 - Note (summary from our notes, not a quotation): Force-hurls Sylvar away with a gesture. Source: The Sith War #3, p26
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p26: Exar Kun hurls Sylvar aside: "Stay out of this, Sylvar"](panels/sw3-p26-exar-hurls-sylvar.jpg)
+![The Sith War #3 p26: Exar Kun hurls Sylvar aside: "Stay out of this, Sylvar"](../notes/materials/024-tales-of-the-jedi/panels/sw3-p26-exar-hurls-sylvar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:58`
 
 - Note (summary from our notes, not a quotation): Refuses to fight Sylvar and sends Massassi at her instead. Source: The Sith War #5, p17–18
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](panels/sw5-p17-sylvar-attacks-exar.jpg)
-![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](panels/sw5-p18-exar-leaves-sylvar.jpg)
+![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
+![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](../notes/materials/024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:69`
 
 - Note (summary from our notes, not a quotation): Cuts through Massassi warriors barehanded with her claws in the Senate chamber. Source: The Sith War #3, p17
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](panels/sw3-p17-sylvar-claws-massassi.jpg)
+![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](../notes/materials/024-tales-of-the-jedi/panels/sw3-p17-sylvar-claws-massassi.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:209`
 
 - Note (summary from our notes, not a quotation): Force-hurled away by Exar Kun when she attacks him with a Massassi polearm. Source: The Sith War #3, p26
   — Source: The Sith War #3, p26 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p26: Exar Kun hurls Sylvar aside: "Stay out of this, Sylvar"](024-tales-of-the-jedi/panels/sw3-p26-exar-hurls-sylvar.jpg)
+![The Sith War #3 p26: Exar Kun hurls Sylvar aside: "Stay out of this, Sylvar"](../notes/materials/024-tales-of-the-jedi/panels/sw3-p26-exar-hurls-sylvar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:211`
 
 - Note (summary from our notes, not a quotation): Knocks Oss Wilum unconscious and claws Crado's face on Ambria. Source: The Sith War #4, p9
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:212`
 
 - Note (summary from our notes, not a quotation): Carves through multiple Massassi with her lightsaber on Ossus; Exar refuses to fight her. Source: The Sith War #5, p17–18
   — Source: The Sith War #5, p17–18 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
-![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
+![The Sith War #5 p17: Sylvar attacks Exar Kun: "Now you will die by my lightsaber!"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p17-sylvar-attacks-exar.jpg)
+![The Sith War #5 p18: Exar Kun refuses to fight Sylvar ("I have better things to do with my time") and leaves her to the Massassi](../notes/materials/024-tales-of-the-jedi/panels/sw5-p18-exar-leaves-sylvar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:214`
 
 - Note (summary from our notes, not a quotation): Flees Ambria after Sylvar claws his face. Source: The Sith War #4, p9–10
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
-![The Sith War #4 p10: Crado flees Ambria with Sylvar's claw marks on his face](panels/sw4-p10-crado-flees-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p10: Crado flees Ambria with Sylvar's claw marks on his face](../notes/materials/024-tales-of-the-jedi/panels/sw4-p10-crado-flees-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:217`
 
 > SZRRR! IT IS AN EVIL DAY. I HAVE BEEN DRIVEN TO KILL.
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Kills one of the Ambria lake beasts.
 Note (our notes, around the quote): Kills one of the Ambria lake beasts: "SZRRR! IT IS AN EVIL DAY. I HAVE BEEN DRIVEN TO KILL." Source: The Sith War #4, p9
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:231`
 
 - Note (summary from our notes, not a quotation): | 6 | Exar Kun vs Sylvar | Coruscant Senate | p26 (#3) | Sylvar hurled away | Force gesture |
@@ -127,7 +127,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:275`
 > Kun easily defeated Crado in a lightsaber duel, then fought against Sylvar; as tensions escalated, she slashed him across the face with her claws. Master Vodo stepped in, and Kun met the challenge, defeating his own teacher.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Crado; Sylvar; Vodo-Siosk Baas — Exar Kun defeats Crado, Sylvar and Master Vodo: "Kun easily defeated Crado in a lightsaber duel, then fought against Sylvar; as tensions escalated, she slashed him across the face with her claws. Master Vodo stepped in, and Kun met the challenge, defeating his own teacher." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-exar-kun-defeats-crado-sylvar-and.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:107`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -137,7 +136,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Sylvar; Tott Doneeta: "Accompanied by Sylvar on his return to Ryloth, Tott Doneeta later was instrumental in reaching a peaceful resolution between his clan and the R'lyek, a rival clan." Source: The Complete Star Wars Encyclopedia, Vol. I, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.197 — full quote as printed](quotes/v1-p197-accompanied-by-sylvar-on-his-return.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:91`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -145,7 +143,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Hoggon believed that he would be venerated by the Jedi for killing Qel- Droma, and was surprised when Sylvar nearly killed him.
 — Source: scan pages 41–80; Sylvar. POV: Sylvar.
 Note (our notes, around the quote): Sylvar: "Hoggon believed that he would be venerated by the Jedi for killing Qel- Droma, and was surprised when Sylvar nearly killed him." Source: The Complete Star Wars Encyclopedia, Vol. II, p.49
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.49 — full quote as printed](quotes/v2-p49-hoggon-believed-that-he-would-be.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:102`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -153,13 +150,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > Kun and Ulic Qel-Droma's bloody campaign against the Republic—which became known as the Great Sith War—left Sylvar alone and angry, Qel-Droma survived the fighting and was exiled, but Sylvar did not feel that was enough punishment for his actions.
 — Source: scan pages 201–240; Ulic Qel-Droma; Sylvar.
 Note (our notes, around the quote): Ulic Qel-Droma; Sylvar: "Kun and Ulic Qel-Droma's bloody campaign against the Republic—which became known as the Great Sith War—left Sylvar alone and angry, Qel-Droma survived the fighting and was exiled, but Sylvar did not feel that was enough punishment for his actions." Source: The Complete Star Wars Encyclopedia, Vol. III, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.203 — full quote as printed](quotes/v3-p203-kun-and-ulic-qel-dromas-bloody.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:82`
 
 > She sought vengeance, and eventually flew to Rhen Var to settle scores, Seeing that Qel- Droma had redeemed himself, Sylvar couldn't bring herself to kill him, but an ambitious, hero-worshipping pilot named Hoggon shot and killed Ulic, thinking he was ridding the Republic of a great villain.
 — Source: scan pages 201–240; Sylvar; Ulic Qel-Droma.
 Note (our notes, around the quote): Sylvar; Ulic Qel-Droma: "She sought vengeance, and eventually flew to Rhen Var to settle scores, Seeing that Qel- Droma had redeemed himself, Sylvar couldn't bring herself to kill him, but an ambitious, hero-worshipping pilot named Hoggon shot and killed Ulic, thinking he was ridding the Republic of a great villain." Source: The Complete Star Wars Encyclopedia, Vol. III, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.203 — full quote as printed](quotes/v3-p203-she-sought-vengeance-and-eventually-flew.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:84`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -167,7 +162,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > While Nomi and Vima discussed her training, others arrived: the Jedi Knight Sylvar, whose mate Crado had been slain by the supernova; and Hoggon, the tramp freighter pilot who had brought Ulic to Rhen Var in the first place.
 — Source: Chapter One: History of the Jedi; Nomi Sunrider; Vima-Da-Boda; Sylvar; Crado; Ulic Qel-Droma.
 Note (our notes, around the quote): Nomi Sunrider; Vima-Da-Boda; Sylvar; Crado; Ulic Qel-Droma: "While Nomi and Vima discussed her training, others arrived: the Jedi Knight Sylvar, whose mate Crado had been slain by the supernova; and Hoggon, the tramp freighter pilot who had brought Ulic to Rhen Var in the first place." Source: Power of the Jedi Sourcebook, p.7
-![Quote image: Power of the Jedi Sourcebook, p.7 — full quote as printed](quotes/potj-p7-while-nomi-and-vima-discussed-her.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:36`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -179,7 +173,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > Two of the greatest Cathar heroes, the female Sylvar and her mate Crado, were powerful Jedi Knights. Four thousand years before the Galactic Civil War, Crado fell to the dark side under the tutelage of Exar Kun. He was destroyed in an explosion after trying to activate an ancient Sith superweapon for his master. Sylvar, angry over the death of her mate, almost fell to the dark side herself before regaining the Jedi path. Both are remembered on Cathar itself in meticulously carved works of tree-art.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Sylvar; Crado; Exar Kun — entry/section: Cathar heroes.
 Note (our notes, around the quote): Sylvar; Crado; Exar Kun — entry/section: Cathar heroes: "Two of the greatest Cathar heroes, the female Sylvar and her mate Crado, were powerful Jedi Knights. Four thousand years before the Galactic Civil War, Crado fell to the dark side under the tutelage of Exar Kun. He was destroyed in an explosion after trying to activate an ancient Sith superweapon for his master. Sylvar, angry over the death of her mate, almost fell to the dark side herself before regaining the Jedi path. Both are remembered on Cathar itself in meticulously carved works of tree-art." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.29
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.29 — full quote as printed](quotes/d673-s29-two-of-the-greatest-cathar-heroes.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:158`
 
 ## Star Wars Insider #100 (2008)

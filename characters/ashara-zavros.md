@@ -14,7 +14,6 @@
 > A YOUNG AND ZEALOUS JEDI PADAWAN, Ashara Zavros descends from a long line of powerful Togruta Force users.
 — Source: The Sith; Ashara Zavros — Ashara Zavros.
 Note (our notes, around the quote): Ashara Zavros — Ashara Zavros: "A YOUNG AND ZEALOUS JEDI PADAWAN, Ashara Zavros descends from a long line of powerful Togruta Force users." Source: The Old Republic Encyclopedia, p.187, sidebar
-![Quote image: The Old Republic Encyclopedia, p.187 — full quote as printed](quotes/tore-p187-a-young-and-zealous-jedi-padawan.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:522`
 
 ## "The Order of Revan - Complete Analysis" (DarthAnt66)

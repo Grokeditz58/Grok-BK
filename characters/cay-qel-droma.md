@@ -23,12 +23,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:113`
 > [fragment — full passage not on file]
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Cay Qel-Droma to Ulic Qel-Droma. POV: Cay Qel-Droma.
 Note (our notes, around the quote): Cay Qel-Droma to Ulic Qel-Droma: "STANG. ULIC...I...I'LL NEVER SEE YOU AGAIN. I JUST KNOW IT." Source: Dark Lords of the Sith #4, p13
-![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](panels/dlots4-p13-cay-never-see-you-again.jpg)
+![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p13-cay-never-see-you-again.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:238`
 
 - Note (summary from our notes, not a quotation): Force-blasted aside by Ulic (with Tott Doneeta) when Ulic kills Satal. Source: Dark Lords of the Sith #5, p24–25
   — Source: Dark Lords of the Sith #5, p24–25 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](panels/dlots5-p25-ulic-kills-satal.jpg)
+![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p25-ulic-kills-satal.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:240`
 
 - Note (summary from our notes, not a quotation): Onderon c. 3998 BBY, after the *Tales of the Jedi* "Ulic Qel-Droma and the Beast Wars of Onderon" arc (not part of this delivery). Ulic, Cay and Tott are Arca's apprentices; Nomi is Thon's apprentice. Freedon Nadd is a spirit; King Ommin practises Sith magic he learned from him.
@@ -39,7 +39,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:19`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Leads the charge into Ommin's lair with Cay. POV: narrator, about Cay Qel-Droma.
 Note (our notes, around the quote): Leads the charge into Ommin's lair with Cay: "DRIVEN BY A CLEAR PERCEPTION OF THEIR MASTER'S PAIN, CAY AND ULIC QEL-DROMA LEAD THE CHARGE THROUGH THE PHALANX OF DARK-SIDE PROTECTORS AND WAR DROIDS--" · NARRATION. Source: Freedon Nadd Uprising #2, p14
-![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](panels/fnu2-p14-ulic-cay-lead-charge.jpg)
+![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:36`
 
 > HOLD TO THE LIGHT CAY-- MASTER ARCA IS ALL THAT MATTERS!
@@ -55,14 +55,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:140`
 > HOLD TO THE LIGHT, OSS! IT'S ALL WE'VE GOT!
 — Source: Freedon Nadd Uprising #1, p9 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Fights Warb Null alongside Oss Wilum; Cay to Oss.
 Note (our notes, around the quote): Fights Warb Null alongside Oss Wilum; Cay to Oss: "HOLD TO THE LIGHT, OSS! IT'S ALL WE'VE GOT!" Source: Freedon Nadd Uprising #1, p9
-![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:148`
 
 > ULIC...THIS PLACE... HAVE YOU EVER FELT SUCH EVIL GLOOM?
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Leads the charge into Ommin's lair with Ulic; senses the evil: "ULIC...THIS PLACE... HAVE YOU EVER FELT SUCH EVIL GLOOM?" Source: Freedon Nadd Uprising #2, p14
-![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](panels/fnu2-p14-ulic-cay-lead-charge.jpg)
+![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:149`
 
 > 'SOKAY, ULIC-- THE DARK SIDE SCUM CHOPPED MY DROID ARM!
@@ -72,8 +72,8 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:149`
 > RETRIEVING HIS LIGHTSABER WITH HIS GOOD ARM, CAY QEL-DROMA CLEAVES THE SITH WAR DROID IN TWO!
 — Source: Freedon Nadd Uprising #2, p14–15 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes. POV: narrator, about Cay Qel-Droma.
 Note (our notes, around the quote): Loses his droid arm to a Sith war droid, then cuts the droid in two: "'SOKAY, ULIC-- THE DARK SIDE SCUM CHOPPED MY DROID ARM!" "I'VE STILL GOT THE FLESH 'N' BLOOD ONE!" "RETRIEVING HIS LIGHTSABER WITH HIS GOOD ARM, CAY QEL-DROMA CLEAVES THE SITH WAR DROID IN TWO!" · NARRATION. Source: Freedon Nadd Uprising #2, p14–15
-![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
-![Freedon Nadd Uprising #2 p15: Cay cleaves the Sith war droid](panels/fnu2-p15-cay-cleaves-war-droid.jpg)
+![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
+![Freedon Nadd Uprising #2 p15: Cay cleaves the Sith war droid](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p15-cay-cleaves-war-droid.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:151`
 
 - Note (summary from our notes, not a quotation): | 1 | Warb Null vs Cay Qel-Droma and Oss Wilum | Iziz cortege | p8–10 | Warb Null takes the sarcophagi and retreats |
@@ -86,15 +86,15 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:271`
 Context: | # | Fight | Where | Pages | Outcome |
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:276`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:285`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:287`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p15: Cay cleaves the Sith war droid](panels/fnu2-p15-cay-cleaves-war-droid.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p15: Cay cleaves the Sith war droid](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p15-cay-cleaves-war-droid.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:317`
 
@@ -111,12 +111,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:339`
 > Ulic excelled, learning and mastering the techniques presented by Arca more quickly than any of his fellow apprentices. But his relentless efforts and his sometimes reckless attempts to prove his ability brought concerned words from Cay, Tott, and Arca.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Cay Qel-Droma.
 Note (our notes, around the quote): Narrative bio: "Ulic excelled, learning and mastering the techniques presented by Arca more quickly than any of his fellow apprentices. But his relentless efforts and his sometimes reckless attempts to prove his ability brought concerned words from Cay, Tott, and Arca." Source: Tales of the Jedi Companion (WEG, 1996), p.34
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.34 — full quote as printed](quotes/companion-p34-ulic-excelled-learning-and-mastering-the.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.34 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p34-ulic-excelled-learning-and-mastering-the.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:112`
 
 - Note (summary from our notes, not a quotation): Narrative bio: "Cay had always had a "mechanical mind," as his mother called it." Source: Tales of the Jedi Companion (WEG, 1996), p.20
   — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes. POV: Narrative bio, about Cay Qel-Droma.
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.20 — full quote as printed](quotes/companion-p20-cay-had-always-had-a-mechanical.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.20 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p20-cay-had-always-had-a-mechanical.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:148`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Cay Qel-Droma, Jedi Knight. Force skills Control 2D, Sense 1D+2, Alter 1D. Lightsaber 4D+1, Dexterity 3D, droid repair 4D+2. Force Points 2, Character Points 8. Source: Tales of the Jedi Companion (WEG, 1996), p.21
@@ -144,13 +144,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:102`
 > EVEN CAY QEL-DROMA'S CRACK PILOTING SKILLS ARE BARELY SUFFICIENT TO AVERT TOTAL DISASTER.
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Note (our notes, around the quote): Shoots down Mandalorian war-mounts over Ossus; crash-lands his ship (the Ranger): "EVEN CAY QEL-DROMA'S CRACK PILOTING SKILLS ARE BARELY SUFFICIENT TO AVERT TOTAL DISASTER." Source: The Sith War #5, p4–11, p21
-![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](panels/sw5-p21-cay-crash-lands-ranger.jpg)
+![The Sith War #5 p21: "Even Cay Qel-Droma's crack piloting skills are barely sufficient to avert total disaster"](../notes/materials/024-tales-of-the-jedi/panels/sw5-p21-cay-crash-lands-ranger.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:235`
 
 > ULIC, I LOVE YOU! THAT'S WHY I'M DOING THIS!
 — Source: The Sith War #5, p22–24 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Note (our notes, around the quote): Killed by Ulic Qel-Droma after losing his cybernetic arm; Cay: "ULIC, I LOVE YOU! THAT'S WHY I'M DOING THIS!" Source: The Sith War #5, p22–24
-![The Sith War #5 p24: Ulic kills Cay](panels/sw5-p24-ulic-kills-cay.jpg)
+![The Sith War #5 p24: Ulic kills Cay](../notes/materials/024-tales-of-the-jedi/panels/sw5-p24-ulic-kills-cay.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:237`
 
 - Note (summary from our notes, not a quotation): | 11 | Ulic Qel-Droma vs Cay Qel-Droma | Ossus | p21–24 (#5) | Ulic kills Cay | Ulic Sith-poisoned |
@@ -158,11 +158,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:237`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:279`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #5 p24: Ulic kills Cay](panels/sw5-p24-ulic-kills-cay.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #5 p24: Ulic kills Cay](../notes/materials/024-tales-of-the-jedi/panels/sw5-p24-ulic-kills-cay.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:327`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #5 p24: Ulic kills Cay](panels/sw5-p24-ulic-kills-cay.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #5 p24: Ulic kills Cay](../notes/materials/024-tales-of-the-jedi/panels/sw5-p24-ulic-kills-cay.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:329`
 
@@ -172,19 +172,16 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:329`
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Queen Amanoa; Cay Qel-Droma — Amanoa outclasses the Jedi.
 Note (our notes, around the quote): Queen Amanoa; Cay Qel-Droma — Amanoa outclasses the Jedi: "in her outrage she called upon the dark side to destroy Oron Kira's people. The Jedi fought back, but they were outclassed—in the struggle Cay Qel-Droma lost his arm" Source: The New Essential Chronology, p.14
-![Quote image: The New Essential Chronology, p.14 — full quote as printed](quotes/nec-p14-amanoa-outclasses-the-jedi.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:92`
 
 > Ulic unleashed his anger and, in a devastating fury, struck down Cay, killing him.
 — Source: Part One: Tales of the Ancient Republic; Ulic Qel-Droma; Cay Qel-Droma — Ulic kills Cay.
 Note (our notes, around the quote): Ulic Qel-Droma; Cay Qel-Droma — Ulic kills Cay: "Ulic unleashed his anger and, in a devastating fury, struck down Cay, killing him." Source: The New Essential Chronology, p.20
-![Quote image: The New Essential Chronology, p.20 — full quote as printed](quotes/nec-p20-ulic-kills-cay.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:158`
 
 > Qel-Droma's Force-imbued robe, once worn by Cay Qel-Droma, would be found by Darth Revan decades later.
 — Source: Part One: Tales of the Ancient Republic; Revan; Cay Qel-Droma — Qel-Droma robe.
 Note (our notes, around the quote): Revan; Cay Qel-Droma — Qel-Droma robe: "Qel-Droma's Force-imbued robe, once worn by Cay Qel-Droma, would be found by Darth Revan decades later." Source: The New Essential Chronology, p.21
-![Quote image: The New Essential Chronology, p.21 — full quote as printed](quotes/nec-p21-qel-droma-robe.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:171`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -192,7 +189,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > Meanwhile, Ulic confronted and killed his brother, Cay, and was seized with horror and regret over what he had done.
 — Source: scan pages 401–440; Ulic Qel-Droma; Cay Qel-Droma.
 Note (our notes, around the quote): Ulic Qel-Droma; Cay Qel-Droma: "Meanwhile, Ulic confronted and killed his brother, Cay, and was seized with horror and regret over what he had done." Source: The Complete Star Wars Encyclopedia, Vol. II, p.428
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.428 — full quote as printed](quotes/v2-p428-meanwhile-ulic-confronted-and-killed-his.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:253`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -204,13 +200,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan
 > Trained along with his younger brother, Cay, on the mining world of Arkania by Jedi Master Arca Jeth, Ulic Qel-Droma quickly mastered the art of lightsaber dueling.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Ulic Qel-Droma; Cay Qel-Droma; Arca Jeth — entry/section: Qel-Droma, Ulic: "Trained along with his younger brother, Cay, on the mining world of Arkania by Jedi Master Arca Jeth, Ulic Qel-Droma quickly mastered the art of lightsaber dueling." Source: The Complete Star Wars Encyclopedia, Vol. III, p.55
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.55 — full quote as printed](quotes/v3-p55-trained-along-with-his-younger-brother.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:154`
 
 > But after Ulic murdered his brother, Cay, Nomi lashed out with her Force abilities in an attack so powerful that she severed his connection to the Force.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Nomi Sunrider; Ulic Qel-Droma; Cay Qel-Droma — entry/section: Sunrider, Nomi: "But after Ulic murdered his brother, Cay, Nomi lashed out with her Force abilities in an attack so powerful that she severed his connection to the Force." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-but-after-ulic-murdered-his-brother.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:47`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -218,7 +212,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Though Cay survived the crash unscathed (most likely due to safety features he added), Ulic had become a slave to the dark side.
 — Source: Chapter Four: Equipment (great lightsabers); Cay Qel-Droma; Ulic Qel-Droma.
 Note (our notes, around the quote): Cay Qel-Droma; Ulic Qel-Droma: "Though Cay survived the crash unscathed (most likely due to safety features he added), Ulic had become a slave to the dark side." Source: Power of the Jedi Sourcebook, p.59
-![Quote image: Power of the Jedi Sourcebook, p.59 — full quote as printed](quotes/potj-p59-though-cay-survived-the-crash-unscathed.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/04-ch4-equipment.md:37`
 
 - Note (summary from our notes, not a quotation): Page contents: 725 words, 19 paragraphs | headings/entries: Nomi Sunrider, Jedi Knight; Cay Gel-Droma, Jedi Knight
@@ -228,25 +221,21 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > While his brother perfected his combat skills by defeating training droids, Cay was more interested in putting the dismantled droids back together.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Cay Qel-Droma — entry/section: Cay Gel-Droma, Jedi Knight.
 Note (our notes, around the quote): Cay Qel-Droma — entry/section: Cay Gel-Droma, Jedi Knight: "While his brother perfected his combat skills by defeating training droids, Cay was more interested in putting the dismantled droids back together." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-while-his-brother-perfected-his-combat.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:82`
 
 > Cay Qel-Droma was among the many Jedi who helped defeat Lord Ommin's sect of Naddist worshipers during the Freedon Nadd uprising.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Cay Qel-Droma; King Ommin; Freedon Nadd — entry/section: Cay Gel-Droma, Jedi Knight: "Cay Qel-Droma was among the many Jedi who helped defeat Lord Ommin's sect of Naddist worshipers during the Freedon Nadd uprising." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-cay-qel-droma-was-among-the.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:84`
 
 > The Sith poison coursing through Ulic's blood controlled his actions as he cut down Cay Qel-Droma in a fit of anger.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Cay Qel-Droma; Ulic Qel-Droma — entry/section: Cay Gel-Droma, Jedi Knight: "The Sith poison coursing through Ulic's blood controlled his actions as he cut down Cay Qel-Droma in a fit of anger." Source: Power of the Jedi Sourcebook, p.105
-![Quote image: Power of the Jedi Sourcebook, p.105 — full quote as printed](quotes/potj-p105-the-sith-poison-coursing-through-ulics.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:91`
 
 > Moments later, Nomi Sunrider avenged Cay by severing Ulic's connection to the Force.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Cay Qel-Droma; Nomi Sunrider; Ulic Qel-Droma — entry/section: Cay Gel-Droma, Jedi Knight: "Moments later, Nomi Sunrider avenged Cay by severing Ulic's connection to the Force." Source: Power of the Jedi Sourcebook, p.105
-![Quote image: Power of the Jedi Sourcebook, p.105 — full quote as printed](quotes/potj-p105-moments-later-nomi-sunrider-avenged-cay.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:93`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -256,7 +245,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ulic Qel-Droma; Cay Qel-Droma: "The bitter war continued until Ulic Qel-Droma killed his own brother, the Jedi Cay." Source: Dark Side Sourcebook, p.8
-![Quote image: Dark Side Sourcebook, p.8 — full quote as printed](quotes/dss-p8-the-bitter-war-continued-until-ulic.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:28`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -264,7 +252,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:28`
 > The tide turns once more in favor of the Republic as the brothers Ulic and Cay Qel-Droma engage in a vicious duel on Ossus.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Cay Qel-Droma; Ulic Qel-Droma — entry/section: Knights of the Old Republic Campaign Guide (Saga): "The tide turns once more in favor of the Republic as the brothers Ulic and Cay Qel-Droma engage in a vicious duel on Ossus." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.7
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.7 — full quote as printed](quotes/d718-s7-the-tide-turns-once-more-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:42`
 
 ## Star Wars Insider #26 (1995)

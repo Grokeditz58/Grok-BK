@@ -21,14 +21,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:162`
 > THEY SAY HE'S WITH THE LIGHT!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Vodo-Siosk Baas about Andur Sunrider. POV: Vodo-Siosk Baas, about Andur Sunrider.
 Note (our notes, around the quote): Vodo-Siosk Baas about Andur Sunrider: "ANDUR SUNRIDER? I KNEW HIM WELL." "THEY SAY HE'S WITH THE LIGHT!" Source: Freedon Nadd Uprising #1, p20
-![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](panels/fnu1-p20-vodo-andur-shoaneb.jpg)
+![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p20-vodo-andur-shoaneb.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:189`
 
 > SHOANEB IS VERY DEXTEROUS... ALTHOUGH SHE ONLY SEES IN THE FORCE.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Vodo-Siosk Baas about Shoaneb Culu. POV: Vodo-Siosk Baas, about Andur Sunrider.
 Note (our notes, around the quote): Vodo-Siosk Baas about Shoaneb Culu: "SHOANEB IS VERY DEXTEROUS... ALTHOUGH SHE ONLY SEES IN THE FORCE." Source: Freedon Nadd Uprising #1, p20
-![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](panels/fnu1-p20-vodo-andur-shoaneb.jpg)
+![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p20-vodo-andur-shoaneb.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:197`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Andur Sunrider, Jedi Apprentice. Force skills Control 2D, Sense 1D+1, Alter 1D+1. Lightsaber 6D, Dexterity 4D. Force Points 2, Character Points 7. Source: Tales of the Jedi Companion (WEG, 1996), p.18
@@ -39,7 +39,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio: under Master Chamma.
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Narrative bio: under Master Chamma, "Andur worked hard to absorb and comprehend all that Master Chamma taught, and succeeded more quickly" (sentence continues on the next page). Source: Tales of the Jedi Companion (WEG, 1996), p.18
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.18 — full quote as printed](quotes/companion-p18-andur-worked-hard-to-absorb-and.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.18 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p18-andur-worked-hard-to-absorb-and.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:188`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Chamma, Jedi Master (Andur Sunrider's teacher). Force skills Control 7D, Sense 10D, Alter 8D. Lightsaber 9D+2, Dexterity 2D+2. Powers include rage, feed on dark side, inflict pain, telekinetic kill, dim other's senses. Force Points 24, Character Points 28. Source: Tales of the Jedi Companion (WEG, 1996), p.23
@@ -62,13 +62,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Andur's wife, Nomi, then killed Quanto with Andur's lightsaber in self-defense.
 — Source: scan pages 41–80; Andur Sunrider; Nomi Sunrider.
 Note (our notes, around the quote): Andur Sunrider; Nomi Sunrider: "Andur's wife, Nomi, then killed Quanto with Andur's lightsaber in self-defense." Source: The Complete Star Wars Encyclopedia, Vol. III, p.59
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.59 — full quote as printed](quotes/v3-p59-andurs-wife-nomi-then-killed-quanto.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:194`
 
 > He was involved in the conspiracy to kill Jedi Andur Sunrider at the Stenness hyperspace terminal and was, in turn, killed by Andur's wife, Nomi.
 — Source: scan pages 81–120; Andur Sunrider; Nomi Sunrider.
 Note (our notes, around the quote): Andur Sunrider; Nomi Sunrider: "He was involved in the conspiracy to kill Jedi Andur Sunrider at the Stenness hyperspace terminal and was, in turn, killed by Andur's wife, Nomi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.90
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.90 — full quote as printed](quotes/v3-p90-he-was-involved-in-the-conspiracy.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:141`
 
 - Note (summary from our notes, not a quotation): Page contents: 1058 words, 16 paragraphs | headings/entries: Sunn-Childe, Cody; Sunrider, Andur; Sunrider, Nomi; Sunrider, Vima
@@ -78,13 +76,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Sunrider, Andur The husband of Nomi Sunrider and father of Vima, this Jedi was killed some 4,000 years before the Galactic Civil War in a senseless battle with petty gangsters at the Stenness hyperspace terminal while he was on his way to visit Jedi Master Thon on Ambria.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Andur Sunrider; Nomi Sunrider; Vima-Da-Boda; Master Thon — entry/section: Sunrider, Andur: "Sunrider, Andur The husband of Nomi Sunrider and father of Vima, this Jedi was killed some 4,000 years before the Galactic Civil War in a senseless battle with petty gangsters at the Stenness hyperspace terminal while he was on his way to visit Jedi Master Thon on Ambria." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-sunrider-andur-the-husband-of-nomi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:41`
 
 > She was accompanying her husband on a mission to take some Adegan crystals, used to construct lightsabers, to Jedi Master Thon in the Ambria system when Andur was cut down by several henchmen of Great Bogga the Hutt.
 — Source: scan pages 201–240; Nomi Sunrider; Master Thon; Andur Sunrider — entry/section: Sunrider, Nomi.
 Note (our notes, around the quote): Nomi Sunrider; Master Thon; Andur Sunrider — entry/section: Sunrider, Nomi: "She was accompanying her husband on a mission to take some Adegan crystals, used to construct lightsabers, to Jedi Master Thon in the Ambria system when Andur was cut down by several henchmen of Great Bogga the Hutt." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-she-was-accompanying-her-husband-on.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:43`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -92,13 +88,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Greedy gangsters discovered their hidden treasure and killed Andur.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Andur Sunrider. POV: Andur Sunrider.
 Note (our notes, around the quote): Andur Sunrider: "Greedy gangsters discovered their hidden treasure and killed Andur." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-greedy-gangsters-discovered-their-hidden-treasure.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:74`
 
 > Andur's killers followed Nomi to Ambria and were defeated by Master Thon.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Nomi Sunrider; Andur Sunrider; Master Thon — entry/section: Nomi Sunrider, Jedi Knight: "Andur's killers followed Nomi to Ambria and were defeated by Master Thon." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-andurs-killers-followed-nomi-to-ambria.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:76`
 
 ## Star Wars Insider #26 (1995)

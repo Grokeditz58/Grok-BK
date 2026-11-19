@@ -14,7 +14,6 @@
 > When Shiner was destroyed in battle, Myn Donos experienced severe emotional trauma—the droid had been the only other surviving member of Donos's original Talon Squadron.
 — Source: scan pages 121–160; Darth Talon. POV: Darth Talon, about Myn Donos.
 Note (our notes, around the quote): Darth Talon: "When Shiner was destroyed in battle, Myn Donos experienced severe emotional trauma—the droid had been the only other surviving member of Donos's original Talon Squadron." Source: The Complete Star Wars Encyclopedia, Vol. III, p.147
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.147 — full quote as printed](quotes/v3-p147-when-shiner-was-destroyed-in-battle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:276`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -38,7 +37,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:45
 > One of the most famous sharpshooters in the New Republic was Myn Donos, a former member of the Corellian militia who earned his Corellian bloodstripes as a sniper. His shooting and flying skill prompted Wedge Antilles to recruit him as a member of Wraith Squadron, the New Republic Special Forces group that was instrumental in defeating Imperial Warlord Zsinj.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Myn Donos; Wedge Antilles — entry/section: Myn Donos, famous New Republic sharpshooter: "One of the most famous sharpshooters in the New Republic was Myn Donos, a former member of the Corellian militia who earned his Corellian bloodstripes as a sniper. His shooting and flying skill prompted Wedge Antilles to recruit him as a member of Wraith Squadron, the New Republic Special Forces group that was instrumental in defeating Imperial Warlord Zsinj." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.68
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.68 — full quote as printed](quotes/d668-s68-one-of-the-most-famous-sharpshooters.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:47`
 
 ## Star Wars Insider #59 (2002)

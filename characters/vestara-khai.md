@@ -27,7 +27,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:316`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #116 (2010).
 Note (our notes, around the quote): Vestara Khai — entry/section: Allston on Vestara Khai as the new breed of Sith: ""is an example of the new breed of Sith, one that is potentially very dangerous to the Jedi because they are so much like the Jedi." —Aaron Allston, Star Wars Insider 116, p. 70" Source: *Star Wars Insider #116* (2010), scan p.70
-![Quote image: *Star Wars Insider #116* (2010), scan p.70 — full quote as printed](quotes/ins116-s70-is-an-example-of-the-new.jpg)
 Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:363`
 
 ## Star Wars Insider #117 (2010)
@@ -35,7 +34,6 @@ Our notes: `notes/materials/038-star-wars-insider/116-ins116.md:363`
 > Ben has a family history of saving people from the dark side. And Vestara would score a lot of brownie points back home if she could turn the son of Luke Skywalker to the dark side. Plus they're two young, attractive people constantly facing danger together. Never discount the power of hormones!
 — Source: Star Wars Insider #117 (2010).
 Note (our notes, around the quote): Ben Skywalker; Vestara Khai — entry/section: Golden on Ben and Vestara: ""Ben has a family history of saving people from the dark side. And Vestara would score a lot of brownie points back home if she could turn the son of Luke Skywalker to the dark side. Plus they're two young, attractive people constantly facing danger together. Never discount the power of hormones!" —Christie Golden, Star Wars Insider 117, p. 60" Source: *Star Wars Insider #117* (2010), scan p.60
-![Quote image: *Star Wars Insider #117* (2010), scan p.60 — full quote as printed](quotes/ins117-s60-ben-has-a-family-history-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/117-ins117.md:329`
 
 ## Star Wars Insider #122 (2011)

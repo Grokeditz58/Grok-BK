@@ -25,24 +25,20 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Lord Kaan; Darth Bane — Brotherhood of Darkness, Kaan poisons Bane: "Lord Kaan eventually raised his own army, the Brotherhood of Darkness, numbering twenty thousand warriors and dedicated to the principle of "rule by the strong." Fearful that Bane would usurp his position as head of the Brotherhood of Darkness, Kaan poisoned his rival and left him for dead." Source: The New Essential Chronology, p.26
-![Quote image: The New Essential Chronology, p.26 — full quote as printed](quotes/nec-p26-brotherhood-of-darkness-kaan-poisons-bane.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:224`
 
 > Gathering all the Sith Lords on a mountaintop, Bane channeled their dark energies into a Force storm that aged the lush Ruusan landscape into dust and ash.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Darth Bane; Lord Kaan; Lord Hoth — Bane's Force storm at Ruusan: "Gathering all the Sith Lords on a mountaintop, Bane channeled their dark energies into a Force storm that aged the lush Ruusan landscape into dust and ash." Source: The New Essential Chronology, p.27
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-banes-force-storm-at-ruusan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:231`
 
 - Note (summary from our notes, not a quotation): Lord Kaan; Lord Hoth — thought bomb: "Kaan and his disciples hunkered in their underground chambers and used their powers to create a "thought bomb"—a volatile cauldron of seething Force energy." Source: The New Essential Chronology, p.27
   — Source: Part One: Tales of the Ancient Republic.
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-thought-bomb.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:233`
 
 > A furious explosion of energy annihilated nearly every member of both armies, sucking their disembodied spirits into an unbreakable state of equilibrium.
 — Source: Part One: Tales of the Ancient Republic; Lord Kaan; Lord Hoth — thought bomb detonation.
 Note (our notes, around the quote): Lord Kaan; Lord Hoth — thought bomb detonation: "A furious explosion of energy annihilated nearly every member of both armies, sucking their disembodied spirits into an unbreakable state of equilibrium." Source: The New Essential Chronology, p.27
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-thought-bomb-detonation.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:235`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -52,7 +48,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Lord Kaan: "After a lengthy campaign on Ruusan, both opposing forces were wiped out by Lord Kaan's thought bomb weapon." Source: The Complete Star Wars Encyclopedia, Vol. I, p.42
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.42 — full quote as printed](quotes/v1-p42-after-a-lengthy-campaign-on-ruusan.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:140`
 
 > Kaan used Githany to poison Bane. On Ambria, the toxin coursed through his veins, and Bane lashed out, trying to find a focus in the dark side that would allow him to purge the poison from his body. He used the Force to slaugh­ ter a young boy and his brothers before their anguished father's eyes, and drew in the pain and griefto once againgrow strong in the dark side. A cured Bane arrived on Ruusan, much to Lord Kaan's surprise. Bane witnessed the Or­ der'sweakness as other Sith Lords approached him with offers to conspire against Kaan. Bane was galvanized to restructure the Order. When Kaan used Bane's knowledge to create and detonate the thought bomb, the resulting cataclysm destroyed the Jedi and Sith armies, leaving Bane the sole Sith survivor. In the aftermath of Ruusan, Bane discov­ ered a young girl named Zannah, and tasked her with rendezvousing with him on Onderon if she was to receive training from him. En route to Onderon, Bane crashed his vessel the V alcyn on the beast moon of Dxun. There he adopted a living suit of armor that covered most of his body. Hard-shelled, parasitic crea- Admiral Banjeer tures called orbalisks at- Banking Clan communications f rigate tached themselves as he struggled through the dense jungles of Dxun.
@@ -60,20 +55,17 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Lord Kaan: "When Kaan used Bane's knowledge to create and detonate the thought bomb, the resulting cataclysm destroyed the Jedi and Sith armies, leaving Bane the sole Sith survivor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.58
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.58 — full quote as printed](quotes/v1-p58-when-kaan-used-banes-knowledge-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:266`
 
 > thought bomb,' which annihilated every last member of the Army of Light and the Brotherhood of Darkness, leaving Darth Bane behind to secretly rebuild the Sith Order in a new guise.
 > [fragment — full passage not on file]
 — Source: scan pages 81–120.
 Note (our notes, around the quote): Lord Kaan; Darth Bane: "Rather than surrender, Lord Kaan triggered a "thought bomb,' which annihilated every last member of the Army of Light and the Brotherhood of Darkness, leaving Darth Bane behind to secretly rebuild the Sith Order in a new guise." Source: The Complete Star Wars Encyclopedia, Vol. I, p.95
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.95 — full quote as printed](quotes/v1-p95-rather-than-surrender-lord-kaan-triggered.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:237`
 
 > Like the rest of the Sith fleet, the Fury was crewed by individuals who were joined to the battle meditation of Lord Kaan, who directed the battle from the flagship Nightfall.
 — Source: scan pages 281–320; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "Like the rest of the Sith fleet, the Fury was crewed by individuals who were joined to the battle meditation of Lord Kaan, who directed the battle from the flagship Nightfall." Source: The Complete Star Wars Encyclopedia, Vol. I, p.299
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.299 — full quote as printed](quotes/v1-p299-like-the-rest-of-the-sith.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:253`
 
 > Galey Ratambo Gale Sector Authority, the news agency was second only to Imperial HoloVision in terms of overall readers during the height of the New Order.
@@ -92,7 +84,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Lord Kaan: "Gale, Lord One of the many Jedi Knights who gathered on Ruusan to fight against Lord Kaan and the Brotherhood of Darkness, he was killed in one of the early struggles against the Sith." Source: The Complete Star Wars Encyclopedia, Vol. I, p.314
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.314 — full quote as printed](quotes/v1-p314-gale-lord-one-of-the-many.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:60`
 
 > When the Empire attacked the New Republic there, Gingal was unsure how to retreat. He began to order a fallback, but Cracken interrupted him before he could broadcast the orders to the entire fleet . . . and to the Imperials waiting to attack them. Gingal took Pash's advice, saving much of Gingal's fleet. The resulting tactic became known as the Cracken Twist. GingerOne of manyyoung children brought to Ruusan to help the Army of Light fight against the Brotherhood of Darkness during the Battle of Ruusan. Ginger, like the rest of the Jedi, was killed when Lord Kaan activated his thought bomb. GJnJvex-class starftghterSee Geono­ sian Fanblade starfighter. glnnthoAlso known as the Utapaun spider, this large arachnid was domesticated as a pet by the Utapauns. A ginntho had six separate spinnerets, each of which was capable of pro­ ducing an exceptionally strong silk webbing. Many Utapauns trained their ginnthos to spin webs on command, a skill that was put to widespread use in setting traps during the Separatist occupation of Utapau near the end ofthe Clone Wars. Glnorra,LexlaA Jedi Padawan during the last years ofthe Old Republic, she abandoned the Jedi Order after she was abducted by a criminal kingpin on Kamparas and slaughtered her kidnappers to escape.
@@ -100,7 +91,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Lord Kaan: "Ginger, like the rest of the Jedi, was killed when Lord Kaan activated his thought bomb." Source: The Complete Star Wars Encyclopedia, Vol. I, p.342
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.342 — full quote as printed](quotes/v1-p342-ginger-like-the-rest-of-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:262`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -108,13 +98,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > When Sith Lord Kaan activated a thought bomb, Hardin's life force was drained from his body, but his suffering came to a sudden end when he was struck and killed by a falling stalactite.
 — Source: scan pages 1–40; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "When Sith Lord Kaan activated a thought bomb, Hardin's life force was drained from his body, but his suffering came to a sudden end when he was struck and killed by a falling stalactite." Source: The Complete Star Wars Encyclopedia, Vol. II, p.18
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.18 — full quote as printed](quotes/v2-p18-when-sith-lord-kaan-activated-a.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:159`
 
 > Hoth, Lord This Jedi Master was the leader of the Army of Light, sent to Ruusan to defeat Lord Kaan and the Brotherhood of Darkness a thousand years before the Galactic Civil War.
 — Source: scan pages 41–80; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "Hoth, Lord This Jedi Master was the leader of the Army of Light, sent to Ruusan to defeat Lord Kaan and the Brotherhood of Darkness a thousand years before the Galactic Civil War." Source: The Complete Star Wars Encyclopedia, Vol. II, p.61
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.61 — full quote as printed](quotes/v2-p61-hoth-lord-this-jedi-master-was.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:184`
 
 - Note (summary from our notes, not a quotation): Page contents: 1173 words, 20 paragraphs | headings/entries: Kaaldar, Dr.; Kaan, Loiric; Kaan, Lord; Kaantay; Kaarenth Dissension; Kabaira; Kabal; Kabat
@@ -124,19 +112,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > Kaan, Lord One of the few Sith Lords who survived the internal violence that tore the Sith Order apart during the New Sith Wars.
 — Source: scan pages 161–200; Lord Kaan — entry/section: Kaan, Lord.
 Note (our notes, around the quote): Lord Kaan — entry/section: Kaan, Lord: "Kaan, Lord One of the few Sith Lords who survived the internal violence that tore the Sith Order apart during the New Sith Wars." Source: The Complete Star Wars Encyclopedia, Vol. II, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.189 — full quote as printed](quotes/v2-p189-kaan-lord-one-of-the-few.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:240`
 
 > So Bane sent Kaan the incantations necessary to form a devastating thought bomb, as a last-ditch effort to destroy the Jedi.
 — Source: scan pages 161–200; Lord Kaan — entry/section: Kaan, Lord.
 Note (our notes, around the quote): Lord Kaan — entry/section: Kaan, Lord: "So Bane sent Kaan the incantations necessary to form a devastating thought bomb, as a last-ditch effort to destroy the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. II, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.189 — full quote as printed](quotes/v2-p189-so-bane-sent-kaan-the-incantations.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:242`
 
 > Lord Kaan, and virtually every Sith and Jedi warrior in the battle, was obliterated.
 — Source: scan pages 161–200; Lord Kaan — entry/section: Kaan, Lord.
 Note (our notes, around the quote): Lord Kaan — entry/section: Kaan, Lord: "Lord Kaan, and virtually every Sith and Jedi warrior in the battle, was obliterated." Source: The Complete Star Wars Encyclopedia, Vol. II, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.189 — full quote as printed](quotes/v2-p189-lord-kaan-and-virtually-every-sith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:244`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -144,25 +129,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > When the Sith were wiped out by Lord Kaan's use of a terrible thought bomb weapon, Pad was among the mercs left behind.
 — Source: scan pages 1–40; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "When the Sith were wiped out by Lord Kaan's use of a terrible thought bomb weapon, Pad was among the mercs left behind." Source: The Complete Star Wars Encyclopedia, Vol. III, p.4
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.4 — full quote as printed](quotes/v3-p4-when-the-sith-were-wiped-out.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:59`
 
 > This resulted in a furious explosion of energy that annihilated every last member of Hoth's Army of Light and Kaan's Brotherhood of Darkness.
 — Source: scan pages 121–160; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "This resulted in a furious explosion of energy that annihilated every last member of Hoth's Army of Light and Kaan's Brotherhood of Darkness." Source: The Complete Star Wars Encyclopedia, Vol. III, p.116
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.116 — full quote as printed](quotes/v3-p116-this-resulted-in-a-furious-explosion.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:17`
 
 > Lord Kaan and his followers triggered the bomb against the armies of Lord Hoth, resulting in a furious explosion of energy that annihilated every last member of Hoth's Army of Light and Kaan's Brotherhood of Darkness.
 — Source: scan pages 241–280; Lord Kaan; Lord Hoth.
 Note (our notes, around the quote): Lord Kaan; Lord Hoth: "Lord Kaan and his followers triggered the bomb against the armies of Lord Hoth, resulting in a furious explosion of energy that annihilated every last member of Hoth's Army of Light and Kaan's Brotherhood of Darkness." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-lord-kaan-and-his-followers-triggered.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:41`
 
 > She was later discovered by Darth Bane, after Sith Lord Kaan set off a thought bomb that wiped out thousands of Sith and many Jedi.
 — Source: scan pages 361–385; Darth Zannah; Darth Bane; Lord Kaan — entry/section: Zannah, Darth.
 Note (our notes, around the quote): Darth Zannah; Darth Bane; Lord Kaan — entry/section: Zannah, Darth: "She was later discovered by Darth Bane, after Sith Lord Kaan set off a thought bomb that wiped out thousands of Sith and many Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.368
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.368 — full quote as printed](quotes/v3-p368-she-was-later-discovered-by-darth.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:123`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -170,19 +151,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan
 > A thousand years before the fall of the Old Republic, a Sith Lord named Kaan survived the best efforts of the Jedi Order to destroy the dark side cult to which he had devoted his life.
 — Source: Chapter Seven: Where the Force is strong; Index; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "A thousand years before the fall of the Old Republic, a Sith Lord named Kaan survived the best efforts of the Jedi Order to destroy the dark side cult to which he had devoted his life." Source: Power of the Jedi Sourcebook, p.153
-![Quote image: Power of the Jedi Sourcebook, p.153 — full quote as printed](quotes/potj-p153-a-thousand-years-before-the-fall.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:147`
 
 > Hoth proved a wily opponent, taking advantage of Kaan's belief that the Jedi were weak and unwilling to pay the price necessary to defeat him.
 — Source: Chapter Seven: Where the Force is strong; Index; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "Hoth proved a wily opponent, taking advantage of Kaan's belief that the Jedi were weak and unwilling to pay the price necessary to defeat him." Source: Power of the Jedi Sourcebook, p.153
-![Quote image: Power of the Jedi Sourcebook, p.153 — full quote as printed](quotes/potj-p153-hoth-proved-a-wily-opponent-taking.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:149`
 
 > Here Hoth and Kaan squared off before the Sith Lord destroyed both assembled armies in a torrent of hatred.
 — Source: Chapter Seven: Where the Force is strong; Index; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "Here Hoth and Kaan squared off before the Sith Lord destroyed both assembled armies in a torrent of hatred." Source: Power of the Jedi Sourcebook, p.155
-![Quote image: Power of the Jedi Sourcebook, p.155 — full quote as printed](quotes/potj-p155-here-hoth-and-kaan-squared-off.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:161`
 
 ## The New Essential Guide to Characters (2002)
@@ -190,12 +168,10 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 > Bane represented a threat to Kaan's leadership, and on the eve of battle against a Jedi battalion, Kaan had his rival poisoned.
 — Source: scan pages 1–30; Lord Kaan. POV: Lord Kaan.
 Note (our notes, around the quote): Lord Kaan: "Bane represented a threat to Kaan's leadership, and on the eve of battle against a Jedi battalion, Kaan had his rival poisoned." Source: The New Essential Guide to Characters, p.25
-![Quote image: The New Essential Guide to Characters, p.25 — full quote as printed](quotes/negc-p25-bane-represented-a-threat-to-kaans.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:135`
 
 - Note (summary from our notes, not a quotation): Lord Kaan; Darth Bane: "Weak-willed leader of the Brotherhood of Darkness, Lord Kaan poisoned his rival Darth Bane but failed to kill him, and ultimately perished in a "thought bomb" explosion on Ruusan." Source: The New Essential Guide to Characters, p.210
   — Source: scan pages 181–210.
-![Quote image: The New Essential Guide to Characters, p.210 — full quote as printed](quotes/negc-p210-weak-willed-leader-of-the-brotherhood.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:162`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -205,7 +181,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Lord Kaan: "Sith Lord Kaan survived this bloodbath and gath-ered twenty thousand devotees to establish an empire dedicated to rule by the strong." Source: Dark Side Sourcebook, p.9
-![Quote image: Dark Side Sourcebook, p.9 — full quote as printed](quotes/dss-p9-sith-lord-kaan-survived-this-bloodbath.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:35`
 
 > The word "Sith" itself came to mean a sect devoted to the dark side, though true students of Sith teachings were few and far between. One such student was a rogue Jedi who abscondeo from the Jedi temple with a rare Sith holocron. Armed with its corrupt knowledge, this Jedi founded a new order of Sith, who flourished over the next thousand years. Though the Sith were strong enough to threaten their ancient Jedi enemies, they began fighting among themselves, and a great many of them were destroyed. The survivors, united under Sith Lord Kaan, gathered together to found a new Sith empire, but were driven back over the course of several battles to the planet Ruusan. There, Kaan's Sith warriors made their final stand, constructinga Force-powered "thought bomb." When the Jedi arrived for the final conflict, Lord Kaan detonated the device, destroying himself, his Sith army, and theJd Knights. The Jedi grieved at their losses, but also rejoiced that the Sith threat was finally ended. Unfortunately, this was not so. One Sith Lord, Darth Bane survived. Force Skills: Affect Mind +13, Alchemy +24, Battlemind +18, Enhance Ability +13, Force Defense +21, Force Push +14, Move Object +14, See Force + 12.
@@ -213,7 +188,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:35`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Lord Kaan: "When the Jedi arrived for the final conflict, Lord Kaan detonated the device, destroying himself, his Sith army, and theJd Knights." Source: Dark Side Sourcebook, p.78
-![Quote image: Dark Side Sourcebook, p.78 — full quote as printed](quotes/dss-p78-when-the-jedi-arrived-for-the.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:105`
 
 > Every hour that the character remains within the influence of the dark side site, he or she must make another saving throw The following examples of dark side sites can be used in your campaign, or can serve as models for designing your own sites. Remember that dark side sites should not be common. Even in the days of the Sith Empire, the circumstances and power needed to create a dark side site didn't come together very often. Minor Site: Lake Krul During the time period that culminated in the Battle of Ruusan, a particularly evil dark side marauder named Kaox Krul roamed the galaxy. One of the strongest warriors to serve Sith Lord Kaan and the Brotherhood of Darkness, Krul died in one of the skirmishes that led up to the battle between the forces of light and darkness. On a small, uninhabited world in the Mid Rim, Krul met a Jedi Knight and her Padawan learner in fierce combat. The Jedi crashlanded on the planet after a wild battle and chase through the star system. Krul followed them to the surface and hunted the Jedi for two days before finally cornering them on the shore of a beautiful lake.
@@ -221,7 +195,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:105`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Darth Krul; Lord Kaan — entry/section: Minor Site: Lake Krul: "One of the strongest warriors to serve Sith Lord Kaan and the Brotherhood of Darkness, Krul died in one of the skirmishes that led up to the battle between the forces of light and darkness." Source: Dark Side Sourcebook, p.144
-![Quote image: Dark Side Sourcebook, p.144 — full quote as printed](quotes/dss-p144-one-of-the-strongest-warriors-to.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:34`
 
 ## Book of Sith: Secrets from the Dark Side (2012)
@@ -229,33 +202,28 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:34`
 > Kaan's third and final mistake came at Ruusan, a worthless world where he hoped to defeat Lord Hoth and the Jedi Army of Light.
 — Source: Secrets from the Dark Side (2012): Darth Bane: the Rule of Two; Lord Kaan; Lord Hoth.
 Note (our notes, around the quote): Lord Kaan; Lord Hoth: "Kaan's third and final mistake came at Ruusan, a worthless world where he hoped to defeat Lord Hoth and the Jedi Army of Light." Source: Book of Sith, scan p.68
-![Quote image: Book of Sith, scan p.68 — full quote as printed](quotes/bos-s68-kaans-third-and-final-mistake-came.jpg)
 Our notes: `notes/materials/036-book-of-sith/03-darth-bane.md:29`
 
 > In the end, Kaan followed my suggestion and pooled the abilities of the other Sith Lords to create a brute-force wonder: the thought bomb.
 — Source: Secrets from the Dark Side (2012): Darth Bane: the Rule of Two; Darth Bane; Lord Kaan.
 Note (our notes, around the quote): Darth Bane; Lord Kaan: "In the end, Kaan followed my suggestion and pooled the abilities of the other Sith Lords to create a brute-force wonder: the thought bomb." Source: Book of Sith, scan p.70
-![Quote image: Book of Sith, scan p.70 — full quote as printed](quotes/bos-s70-in-the-end-kaan-followed-my.jpg)
 Our notes: `notes/materials/036-book-of-sith/03-darth-bane.md:43`
 
 > It is no accident that I took the title of Darth when I gained a mastery of the dark side, nor is it an accident that Kaan and his followers rejected it.
 — Source: Secrets from the Dark Side (2012): Darth Bane: the Rule of Two; Darth Bane; Lord Kaan.
 Note (our notes, around the quote): Darth Bane; Lord Kaan: "It is no accident that I took the title of Darth when I gained a mastery of the dark side, nor is it an accident that Kaan and his followers rejected it." Source: Book of Sith, scan p.71
-![Quote image: Book of Sith, scan p.71 — full quote as printed](quotes/bos-s71-it-is-no-accident-that-i.jpg)
 Our notes: `notes/materials/036-book-of-sith/03-darth-bane.md:52`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
 
 - Note (summary from our notes, not a quotation): Lord Kaan — entry/section: Bane of the Sith: "The insidious "thought bomb" set off in a glorious suicidal gesture by Sith Lord Kaan had also obliterated all of the Jedi Knights under Lord Hoth's command." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.16
   — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,.
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.16 — full quote as printed](quotes/d052-s16-the-insidious-thought-bomb-set-off.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:87`; `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:89`
 
 > He called up his Sith abilities, letting his mind expand to encompass the festering evil, the brooding potential power available to him. Though under the tutelage of Lord Qordis, Bane had never finished his training. He had listened to other instructors, studied some of the ancient writings, but there was much about the dark side he had yet to learn. Now, Bane had no choice but to teach himself, and he had the incentive to achieve Sith skills. He hoped Kaan's avatar would assist him, but even without its sinister aid, Bane would do everything possible to resurrect the Sith Brotherhood. Disoriented in the dense undergrowth, he trudged for hours in the direction that the shimmering spirit of Lord Kaan had gone. He followed his instincts like a compass directing him toward the concentration of dark side energies, a powerful well-spring that had long lurked on Dxun.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Lord Kaan. POV: Lord Kaan.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Bane of the Sith pdf x.txt (text copy `MEGA_Bane_of_the_Sith_pdf_x`).)
 Note (our notes, around the quote): Lord Kaan: "Now, Bane had no choice but to teach himself, and he had the incentive to achieve Sith skills, He hoped Kaan's avatar would assist him, but even without its sinister aid, Bane would do everything possible to resurrect the Sith Brotherhood." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.18 — full quote as printed](quotes/d052-s18-now-bane-had-no-choice-but.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:109`
 
 - Note (summary from our notes, not a quotation): Page contents: Bane finds Freedon Nadd's tomb and a Sith holocron guided by Kaan's avatar; gharzr (Dxunian stalker) stats (hand-read)
@@ -267,13 +235,11 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-06
 > One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself, Vaa longed to revive the long-tost arts of Sith aleherny and create a store house of wicked creatures pulled from the chilling recesses of the dark side One of Vaa's test worlds was none other than Aduba-3, though the planet bore a dif ferent name at that time, It was the site of an early experiment.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Naga Sadow; Lord Kaan — entry/section: Star Wars Gamer 04.
 Note (our notes, around the quote): Naga Sadow; Lord Kaan — entry/section: Star Wars Gamer 04: "One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself, Vaa longed to revive the long-tost arts of Sith aleherny and create a store house of wicked creatures pulled from the chilling recesses of the dark side One of Vaa's test worlds was none other than Aduba-3, though the planet bore a dif ferent name at that time, It was the site of an early experiment." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.44
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.44 — full quote as printed](quotes/d053-s44-one-of-kaan-s-greatest-underlings.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:256`
 
 > One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Seviss Vaa; Lord Kaan — entry/section: Onacra's Secret: Seviss Vaa.
 Note (our notes, around the quote): Seviss Vaa; Lord Kaan — entry/section: Onacra's Secret: Seviss Vaa: "One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.44
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.44 — full quote as printed](quotes/d053-s44-one-of-kaan-s-greatest-underlings-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:258`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -287,7 +253,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Qu Rahn; Jan Ors; Morgan Katarn; Lord Kaan — entry/section: Kyle on Ruusan: "One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-one-year-after-the-destruction-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:16`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -298,7 +263,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 
 - Note (summary from our notes, not a quotation): Darth Millennial; Lord Kaan; Darth Bane — entry/section: Darth Millennial's Dark Force: "The Dark Force religion was brought to Dromund Kaas by the Sith apprentice Darth Millennial. The apprentice abandoned his master to focus on the philosophy of Rule by the Strong, espoused by the "Dark One" Lord Kaan, rather than on Darth Bane's restrictive Rule of Two." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.3
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d132-s3-the-dark-force-religion-was-brought.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:52`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -309,13 +273,11 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 
 - Note (summary from our notes, not a quotation): Lord Kaan; Lord Hoth; Exar Kun; Kyle Katarn — entry/section: The Valley of the Jedi: "Sith Lord Kaan's Brotherhood of Darkness carved rooms within the valley, which were used to store their war resources -- everything from exotic weapons and technology to plain old food. The valley became the final resting place of Lord Hoth's Army of Light and Kaan's Brotherhood of Darkness when Kaan detonated a dark side "Thought Bomb," annihilating both armies and trapping their spirits in a Sith globe, similar to that used by the Dark Lord Exar Kun to trap the spirits of Massassi children. It would be a more than a thousand years before the Jedi Kyle Katarn would find and release them." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-sith-lord-kaans-brotherhood-of-darkness.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:54`
 
 > Bringing the fight to the home turf of the New Sith Empire, Lord Hoth's Jedi Army chased Lord Kaan's Sith Brotherhood from their home in the nearly impregnable region of space known as the Cloak of the Sith and waged battle across the galaxy, from Hoth to Dromund Kaas to Malrev IV, before ending up in the lush forests of Ruusan. Kaan's Thought Bomb then proceeded to destroy nearly everyone with any knowledge of Ruusan's coordinates. Time silenced the rest, and Ruusan became lost to the ages.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Lord Hoth; Lord Kaan — entry/section: The last New Sith War: "Bringing the fight to the home turf of the New Sith Empire, Lord Hoth's Jedi Army chased Lord Kaan's Sith Brotherhood from their home in the nearly impregnable region of space known as the Cloak of the Sith and waged battle across the galaxy, from Hoth to Dromund Kaas to Malrev IV, before ending up in the lush forests of Ruusan. Kaan's Thought Bomb then proceeded to destroy nearly everyone with any knowledge of Ruusan's coordinates. Time silenced the rest, and Ruusan became lost to the ages." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-bringing-the-fight-to-the-home.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:56`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -327,7 +289,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 > Set Harth began his training at the Jedi Academy on Coruscant more than 1,000 years before the Battle of Yavin. He was impetuous and hot-headed, preferring fighting to talking and scoffing at the non-violent teachings of the Jedi Academy. His Jedi Master, Aru-Wen, worked with the boy to soften these tendencies before his student was lost to the dark side. Before he could accomplish this, however, Aru-Wen left Coruscant to join Jedi Master Hoth’s Army of Light as they did battle with the dark forces of the Sith Lord Kaan. Set Harth was left behind to pursue his own twisted version of the Force. He did so without a Jedi Master at his side.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Set Harth; Lord Hoth; Lord Kaan — entry/section: Set Harth.
 Note (our notes, around the quote): Set Harth; Lord Hoth; Lord Kaan — entry/section: Set Harth: "Set Harth began his training at the Jedi Academy on Coruscant more than 1,000 years before the Battle of Yavin. He was impetuous and hot-headed, preferring fighting to talking and scoffing at the non-violent teachings of the Jedi Academy. His Jedi Master, Aru-Wen, worked with the boy to soften these tendencies before his student was lost to the dark side. Before he could accomplish this, however, Aru-Wen left Coruscant to join Jedi Master Hoth’s Army of Light as they did battle with the dark forces of the Sith Lord Kaan. Set Harth was left behind to pursue his own twisted version of the Force. He did so without a Jedi Master at his side." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.34
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.34 — full quote as printed](quotes/d672-s34-set-harth-began-his-training-at.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:201`
 
 ## Adventures/Dawn of Defiance/04 - Echoes of the Jedi.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -337,7 +298,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from rimary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 04 Echoes of the Jedi (text copy `rimary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_04_Echoes_of_the_Jedi_pdf_a29c93f76a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from rimary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 04 Echoes of the Jedi (text copy `rimary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_04_Echoes_of_the_Jedi_pdf_a29c93f76a`).)
 Note (our notes, around the quote): Darth Rivan; Lord Hoth; Lord Kaan — entry/section: Darth Rivan's Fate: "Caught in the eye of this unnatural tempest, Rivan was flung to a time and place far removed from Almas. He found himself on the planet Ruusan, caught in the War of Light and Dark between Lord Hoth's Army of Light and Lord Kaan's Brotherhood of Darkness. The Darkstaff left Rivan bereft of the Force, and when he encountered a Force-user of inconsequential power, the Dark Lord was easily dispatched." Source: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.39
-![Quote image: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.39 — full quote as printed](quotes/d706-s39-caught-in-the-eye-of-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/706-04-echoes-of-the-jedi.md:263`; `suspect-insight/respect-threads/thread-respect-the-draggulch-sith-2022.md:396`
 
 ## Star Wars Insider #88 (2006)

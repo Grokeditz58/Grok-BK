@@ -14,7 +14,6 @@
 > Black Sun agent Kaird killed Bleyd.
 — Source: scan pages 81–120; Kaird; Bleyd.
 Note (our notes, around the quote): Kaird; Bleyd: "Black Sun agent Kaird killed Bleyd." Source: The Complete Star Wars Encyclopedia, Vol. I, p.79
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.79 — full quote as printed](quotes/v1-p79-black-sun-agent-kaird-killed-bleyd.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:103`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > Bleyd had no intention of bowing to Black Sun, and killed Mathal, later arranging for it to appear that the agent had died after leaving MedStar.
 — Source: scan pages 281–320; Bleyd. POV: Bleyd.
 Note (our notes, around the quote): Bleyd: "Bleyd had no intention of bowing to Black Sun, and killed Mathal, later arranging for it to appear that the agent had died after leaving MedStar." Source: The Complete Star Wars Encyclopedia, Vol. II, p.293
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.293 — full quote as printed](quotes/v2-p293-bleyd-had-no-intention-of-bowing.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:164`
 
 # Debate and forum claims (unverified)

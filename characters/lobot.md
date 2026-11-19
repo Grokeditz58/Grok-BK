@@ -14,7 +14,6 @@
 > Calrissian repaired the damage, and Lobot then disarmed bombs that the Ugnaughts had planted all over the city.
 — Source: scan pages 241–280; Lando Calrissian. POV: Lando Calrissian, about Lobot.
 Note (our notes, around the quote): Lando Calrissian: "Calrissian repaired the damage, and Lobot then disarmed bombs that the Ugnaughts had planted all over the city." Source: The Complete Star Wars Encyclopedia, Vol. II, p.258
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.258 — full quote as printed](quotes/v2-p258-calrissian-repaired-the-damage-and-lobot.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:211`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Lando was saved from certain death by his cyborg aide, Lobot, and the two joined forces with rebellious Ugnaughts to defeat the Imperial forces.
 — Source: scan pages 241–280; Lando Calrissian. POV: Lando Calrissian, about Lobot.
 Note (our notes, around the quote): Lando Calrissian: "Lando was saved from certain death by his cyborg aide, Lobot, and the two joined forces with rebellious Ugnaughts to defeat the Imperial forces." Source: The Complete Star Wars Encyclopedia, Vol. III, p.261
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.261 — full quote as printed](quotes/v3-p261-lando-was-saved-from-certain-death.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:232`
 
 ## The New Essential Guide to Characters (2002)
@@ -30,7 +28,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Calrissian worked closely with Lobot for more than two years, battling a bounty hunter when Raynor put out a contract on his life, and stopping the crazed droid EV-9D9 before she destroyed all of the city's automaton population.
 — Source: scan pages 31–60; Lando Calrissian. POV: Lando Calrissian, about Lobot.
 Note (our notes, around the quote): Lando Calrissian: "Calrissian worked closely with Lobot for more than two years, battling a bounty hunter when Raynor put out a contract on his life, and stopping the crazed droid EV-9D9 before she destroyed all of the city's automaton population." Source: The New Essential Guide to Characters, p.40
-![Quote image: The New Essential Guide to Characters, p.40 — full quote as printed](quotes/negc-p40-calrissian-worked-closely-with-lobot-for.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:28`
 
 ## Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–89)
@@ -64,7 +61,6 @@ Our notes: `notes/materials/037-sw-d20-folder/581-part-5-an-exclusive.md:20`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from der files Star Wars Roleplaying Game Revised Core Locations Planet Hoppers Bespin Action Tidings Part 5 An Exclusive (text copy `der_files_Star_Wars_Roleplaying_Game_Revised_Core_Locations_Planet_Hoppers_Bespin_Action_Tidings_Part_5_An_Exclusive_pdf_0f065a9d87`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from der files Star Wars Roleplaying Game Revised Core Locations Planet Hoppers Bespin Action Tidings Part 5 An Exclusive (text copy `der_files_Star_Wars_Roleplaying_Game_Revised_Core_Locations_Planet_Hoppers_Bespin_Action_Tidings_Part_5_An_Exclusive_pdf_0f065a9d87`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Luke Skywalker to Treece (Marvel dialogue): "Hey, Hotshot! You blew it! The Lobot wasn't the only one who can move things without touching them! Take a look!" Source: *Part 5 - An Exclusive!* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Part 5 - An Exclusive!* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d581-s3-hey-hotshot-you-blew-it-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/581-part-5-an-exclusive.md:22`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -82,7 +78,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-121-180.md:32
 > Luke Skywalker gains a cybernetic replacement for his right hand, lost in battle against Darth Vader—who in turn, had much of his own body replaced with cybernetics years before. On Cloud City, Lando Calrissian's administrative assistant, Lobot, had a sophisticated computer system attached to his head, with a direct neural interface.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Lobot; Lando Calrissian — entry/section: Cybernetics of Luke, Vader and Lobot: "Luke Skywalker gains a cybernetic replacement for his right hand, lost in battle against Darth Vader—who in turn, had much of his own body replaced with cybernetics years before. On Cloud City, Lando Calrissian's administrative assistant, Lobot, had a sophisticated computer system attached to his head, with a direct neural interface." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.125
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.125 — full quote as printed](quotes/d668-s125-luke-skywalker-gains-a-cybernetic-replacement.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-121-180.md:34`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)
@@ -433,7 +428,6 @@ Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:326`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #110 (2009).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Wullf Yularen; Grand Moff Tarkin — entry/section: Ask Lobot: Does Yularen know Vader is Anakin?: ""The true identity of Darth Vader is a closely guarded secret. Even Grand Moff Tarkin, who knows enough to acknowledge that Vader was the "last of his religion," is not privy to the fact that Vader was once Anakin. Though Wolffe Yularen served with Anakin for quite some time, there is nothing about Vader that would give him any clue that he was the same Jedi general with whom he served during the Clone Wars." —Leland Y. Chee (Ask Lobot), Star Wars Insider 110, p. 56" Source: *Star Wars Insider #110* (2009), scan p.56
-![Quote image: *Star Wars Insider #110* (2009), scan p.56 — full quote as printed](quotes/ins110-s56-the-true-identity-of-darth-vader.jpg)
 Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:349`
 
 > balance to the Force
@@ -443,7 +437,6 @@ Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:349`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #110 (2009).
 Note (our notes, around the quote): Mace Windu; Darth Vader (Anakin Skywalker) — entry/section: Ask Lobot: Jedi losing their mastery of the Force (AOTC): ""In the eyes of the Jedi, "balance to the Force" is not an equilibrium between the dark and light. Instead, balance is achieved when the dark side does not prevail. The discovery that the Sith have returned only confirms that the Force is no longer in balance. As to whether it is really Anakin who brings balance will continue to be a source of debate for years to come." —Leland Y. Chee (Ask Lobot), Star Wars Insider 110, p. 56" Source: *Star Wars Insider #110* (2009), scan p.56
-![Quote image: *Star Wars Insider #110* (2009), scan p.56 — full quote as printed](quotes/ins110-s56-in-the-eyes-of-the-jedi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:351`
 
 - Note (summary from our notes, not a quotation): Page contents: Ask Lobot: Hostage Crisis building error (Senate Office Building vs Executive Annex) — acknowledged production mistake. Out-of-universe. (hand-read)
@@ -462,7 +455,6 @@ Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:279`
 > It was designed to look exactly like the Staff of Ra (without the crystal in the eye), but as far as it being the Staff of Ra, you shouldn't read any more into it beyond it being a fun Easter egg to look for. You may have also noticed the Ark of the Covenant among Wat Tambor's treasures in the final Ryloth episode! The Staff of Ra and Ark of the Covenant as seen in Raiders are not part of Star Wars continuity, though crossovers between the two Lucasfilm franchises have been a running gag since the beginning.
 — Source: Star Wars Insider #111 (2009).
 Note (our notes, around the quote): Wat Tambor; Jar Jar Binks — entry/section: Ask Lobot: Staff of Ra / Ark of the Covenant: ""It was designed to look exactly like the Staff of Ra (without the crystal in the eye), but as far as it being the Staff of Ra, you shouldn't read any more into it beyond it being a fun Easter egg to look for. You may have also noticed the Ark of the Covenant among Wat Tambor's treasures in the final Ryloth episode! The Staff of Ra and Ark of the Covenant as seen in Raiders are not part of Star Wars continuity, though crossovers between the two Lucasfilm franchises have been a running gag since the beginning." —Leland Y. Chee, Star Wars Insider 111, p. 47" Source: *Star Wars Insider #111* (2009), scan p.47
-![Quote image: *Star Wars Insider #111* (2009), scan p.47 — full quote as printed](quotes/ins111-s47-it-was-designed-to-look-exactly.jpg)
 Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:291`
 
 ## Star Wars Insider #112 (2009)

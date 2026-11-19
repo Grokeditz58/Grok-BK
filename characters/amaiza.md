@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > He and Dafi captured Jaxxon on a backrocket planet, but the rabbit-like alien was rescued by Amaiza, who killed Dafi and Fud.
 — Source: scan pages 281–320; Jaxxon. POV: Jaxxon, about Amaiza.
 Note (our notes, around the quote): Jaxxon: "He and Dafi captured Jaxxon on a backrocket planet, but the rabbit-like alien was rescued by Amaiza, who killed Dafi and Fud." Source: The Complete Star Wars Encyclopedia, Vol. I, p.298
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.298 — full quote as printed](quotes/v1-p298-he-and-dafi-captured-jaxxon-on.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:244`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Jaxxon was nearly killed in the battle, and was saved at the last moment by Amaiza Foxtrain.
 — Source: scan pages 121–160; Jaxxon — entry/section: Jaxxon.
 Note (our notes, around the quote): Jaxxon — entry/section: Jaxxon: "Jaxxon was nearly killed in the battle, and was saved at the last moment by Amaiza Foxtrain." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-jaxxon-was-nearly-killed-in-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:229`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -34,7 +32,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > No offense, but if I hung around with a guy who looks like a big green rabbit, folks might start to talk.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Amaiza — entry/section: Amaiza on Jaxxon.
 Note (our notes, around the quote): Amaiza — entry/section: Amaiza on Jaxxon: "No offense, but if I hung around with a guy who looks like a big green rabbit, folks might start to talk." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.41
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.41 — full quote as printed](quotes/d053-s41-no-offense-but-if-i-hung.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:220`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

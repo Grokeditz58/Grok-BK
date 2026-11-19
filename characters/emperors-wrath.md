@@ -77,97 +77,81 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:3305`
 > Revan and Scourge attempt to assassinate the Emperor, but the ruler's power overwhelms them. Scourge betrays Revan and is rewarded with the title of the Emperor's Wrath. Revan is imprisoned, an ordeal that lasts for centuries.
 — Source: Front matter and introduction.
 Note (our notes, around the quote): Revan; Lord Scourge; Vitiate (the Sith Emperor); Meetra Surik — Timeline c. 3,950 BBY, Revan Seeks Out the Emperor: "Revan and Scourge attempt to assassinate the Emperor, but the ruler's power overwhelms them. Scourge betrays Revan and is rewarded with the title of the Emperor's Wrath. Revan is imprisoned, an ordeal that lasts for centuries." Source: The Old Republic Encyclopedia, p.18
-![Quote image: The Old Republic Encyclopedia, p.18 — full quote as printed](quotes/tore-p18-revan-and-scourge-attempt-to-assassinate.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/01-front-introduction.md:94`
 
 > There was only one Scourge, his life prolonged by Sith alchemy, and his battle prowess enhanced by the Emperor.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Lord Scourge; Vitiate (the Sith Emperor) — Lord Scourge, the "Emperor's Wrath": "There was only one Scourge, his life prolonged by Sith alchemy, and his battle prowess enhanced by the Emperor." Source: The Old Republic Encyclopedia, p.94
-![Quote image: The Old Republic Encyclopedia, p.94 — full quote as printed](quotes/tore-p94-there-was-only-one-scourge-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:321`
 
 > Lord Scourge's service to the Emperor has been an elaborate ruse played out over centuries. The Emperor's Wrath has patiently waited for a moment of destiny: to betray his Sith Master and join the Jedi Knight's mission.
 — Source: The Jedi Order; Lord Scourge — Lord Scourge, the "Emperor's Wrath".
 Note (our notes, around the quote): Lord Scourge — Lord Scourge, the "Emperor's Wrath": "Lord Scourge's service to the Emperor has been an elaborate ruse played out over centuries. The Emperor's Wrath has patiently waited for a moment of destiny: to betray his Sith Master and join the Jedi Knight's mission." Source: The Old Republic Encyclopedia, p.94
-![Quote image: The Old Republic Encyclopedia, p.94 — full quote as printed](quotes/tore-p94-lord-scourge-s-service-to-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:323`
 
 > In a historic move, Force-sensitive slaves are being dragged from labor camps and thrust into the Sith Academy—where they will prove their worth as Sith or die trying.
 — Source: The Sith Empire.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Emperor's Wrath (Sith Warrior) — Slavery (top-right): "In a historic move, Force-sensitive slaves are being dragged from labor camps and thrust into the Sith Academy—where they will prove their worth as Sith or die trying." Source: The Old Republic Encyclopedia, p.113, sidebar
-![Quote image: The Old Republic Encyclopedia, p.113 — full quote as printed](quotes/tore-p113-in-a-historic-move-force-sensitive.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:60`
 
 > The first Wrath was Lord Scourge, a pureblood Sith. Lord Scourge secretly allied with the Jedi Revan three centuries ago before betraying the Jedi's assassination attempt against the Emperor. For his dedication, Lord Scourge was rewarded with the title of the Emperor's Wrath and an eternally agonizing immortality. But unlike the servants of the Hand, the Wrath was spared the crippling binding process so that he may wield his full might to crush the enemies of the Emperor.
 — Source: The Sith; Lord Scourge; Revan; Vitiate (the Sith Emperor) — The Wrath.
 Note (our notes, around the quote): Lord Scourge; Revan; Vitiate (the Sith Emperor) — The Wrath: "The first Wrath was Lord Scourge, a pureblood Sith. Lord Scourge secretly allied with the Jedi Revan three centuries ago before betraying the Jedi's assassination attempt against the Emperor. For his dedication, Lord Scourge was rewarded with the title of the Emperor's Wrath and an eternally agonizing immortality. But unlike the servants of the Hand, the Wrath was spared the crippling binding process so that he may wield his full might to crush the enemies of the Emperor." Source: The Old Republic Encyclopedia, p.163, sidebar
-![Quote image: The Old Republic Encyclopedia, p.163 — full quote as printed](quotes/tore-p163-the-first-wrath-was-lord-scourge.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:216`
 
 > Millions of the galaxy's most powerful Sith were considered, but ultimately only one would prove worthy to serve the Emperor.
 — Source: The Sith; Emperor's Wrath (Sith Warrior) — The Wrath.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior) — The Wrath: "Millions of the galaxy's most powerful Sith were considered, but ultimately only one would prove worthy to serve the Emperor." Source: The Old Republic Encyclopedia, p.163, sidebar
-![Quote image: The Old Republic Encyclopedia, p.163 — full quote as printed](quotes/tore-p163-millions-of-the-galaxy-s-most.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:218`
 
 > Tremel's plans were soon disrupted when his mixed-blood acolyte Vemrin earned the favor of Darth Baras. Desperate to block Vemrin's ascension to power, Overseer Tremel recruited a powerful new acolyte to destroy Vemrin and replace him as Baras's apprentice.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Overseer Tremel.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Overseer Tremel: "Tremel's plans were soon disrupted when his mixed-blood acolyte Vemrin earned the favor of Darth Baras. Desperate to block Vemrin's ascension to power, Overseer Tremel recruited a powerful new acolyte to destroy Vemrin and replace him as Baras's apprentice." Source: The Old Republic Encyclopedia, p.165, sidebar
-![Quote image: The Old Republic Encyclopedia, p.165 — full quote as printed](quotes/tore-p165-tremel-s-plans-were-soon-disrupted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:239`
 
 > FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Data box.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Data box: "FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-family-darth-ekkage-sister-rivals-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:396`
 
 > A powerful Sith warrior rises amidst the ruins of peace to achieve a destiny that will rally the Empire to war and devastate the Republic.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior) — Top-right tagline: Path of Destruction tagline: "A powerful Sith warrior rises amidst the ruins of peace to achieve a destiny that will rally the Empire to war and devastate the Republic." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-a-powerful-sith-warrior-rises-amidst.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:428`
 
 > One such Force-sensitive is fated to rise rapidly to power and become one of the most powerful Sith in the galaxy. Under the instruction of Overseer Tremel, this privileged acolyte begins an accelerated training regimen in the Sith Academy of Korriban. The acolyte conquers the Sith trials, dominates the other students, and displays unrivaled strength in battle to become the cunning Sith Lord Darth Baras's apprentice and the Empire's newest, most promising Sith warrior.
 — Source: The Sith; Emperor's Wrath (Sith Warrior); Darth Baras — Path of Destruction intro.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras — Path of Destruction intro: "One such Force-sensitive is fated to rise rapidly to power and become one of the most powerful Sith in the galaxy. Under the instruction of Overseer Tremel, this privileged acolyte begins an accelerated training regimen in the Sith Academy of Korriban. The acolyte conquers the Sith trials, dominates the other students, and displays unrivaled strength in battle to become the cunning Sith Lord Darth Baras's apprentice and the Empire's newest, most promising Sith warrior." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-one-such-force-sensitive-is-fated.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:430`
 
 > The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-the-sith-warrior-ultimately-strikes-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:434`
 
 > But when Darth Baras secretly betrays his Master and leads Vengean's flagship into a Republic ambush, Vengean loses face in the Empire. On Darth Baras's bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth Baras claims his former Master's Dark Council seat and the galaxy erupts once more into open warfare.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras; Darth Vengean — Plan Zero (top-right): "But when Darth Baras secretly betrays his Master and leads Vengean's flagship into a Republic ambush, Vengean loses face in the Empire. On Darth Baras's bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth Baras claims his former Master's Dark Council seat and the galaxy erupts once more into open warfare." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-but-when-darth-baras-secretly-betrays.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:436`
 
 > A subterranean cave-in nearly crushes the Sith, until the wounded Sith Lord is saved from the rubble by a secretive and mysterious group known as the Emperor's Hand. They anoint the Sith warrior as the Emperor's personal executioner—the Emperor's Wrath. The Hand then reveals that Darth Baras intends to usurp the Emperor's power, an act of treason only made possible because the absent Emperor is preparing for a greater calling.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras; Vitiate (the Sith Emperor) — Revenge of the Wrath: "A subterranean cave-in nearly crushes the Sith, until the wounded Sith Lord is saved from the rubble by a secretive and mysterious group known as the Emperor's Hand. They anoint the Sith warrior as the Emperor's personal executioner—the Emperor's Wrath. The Hand then reveals that Darth Baras intends to usurp the Emperor's power, an act of treason only made possible because the absent Emperor is preparing for a greater calling." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-a-subterranean-cave-in-nearly-crushes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:438`
 
 > The Wrath emerges triumphant, striking down the ruined and seething Darth Baras. With vengeance delivered and the Emperor's will satisfied, the Dark Council bows to the unquestionable might of the Emperor's Wrath.
 — Source: The Sith; Emperor's Wrath (Sith Warrior); Darth Baras — Revenge of the Wrath.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras — Revenge of the Wrath: "The Wrath emerges triumphant, striking down the ruined and seething Darth Baras. With vengeance delivered and the Emperor's will satisfied, the Dark Council bows to the unquestionable might of the Emperor's Wrath." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-the-wrath-emerges-triumphant-striking-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:440`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:152`
 
 > This warrior's unstoppable might and raw potency attracts allies from across the galaxy.
 — Source: The Sith; Emperor's Wrath (Sith Warrior) — Companions intro.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior) — Companions intro: "This warrior's unstoppable might and raw potency attracts allies from across the galaxy." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-this-warrior-s-unstoppable-might-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:449`
 
 > Her faith in the Jedi Order and the light side of the Force are ultimately challenged by Darth Baras's powerful apprentice, a mighty Sith warrior who promises to free Jaesa from the hypocrisy of her former Jedi Master.
 — Source: The Sith; Jaesa Willsaam; Emperor's Wrath (Sith Warrior) — Jaesa Willsaam.
 Note (our notes, around the quote): Jaesa Willsaam; Emperor's Wrath (Sith Warrior) — Jaesa Willsaam: "Her faith in the Jedi Order and the light side of the Force are ultimately challenged by Darth Baras's powerful apprentice, a mighty Sith warrior who promises to free Jaesa from the hypocrisy of her former Jedi Master." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-her-faith-in-the-jedi-order.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:457`
 
 ## feat and cited-statement extraction

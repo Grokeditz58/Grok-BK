@@ -1481,7 +1481,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [viqi-shesh.md](viqi-shesh.md) | Viqi Shesh (NEW 2026-10-30) | NJO | untiered | 1 | 1 | 0 | 0 | Viqi Shesh, Shesh | 69 | 68 | 0 | 68 |
 | [visas-marr.md](visas-marr.md) | Visas Marr | KOTOR II | untiered | 124 | 124 | 0 | 6 | Visas Marr, Visas | 117 | 71 | n/a | n/a |
 | [vischera.md](vischera.md) | Vischera (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Vischera | 2 | 0 | 0 | 0 |
-| [vitiate/](vitiate/README.md) | Vitiate / Valkorion / the Sith Emperor | TOR | DEEP | 1849 | 1847 | 2 | 244 | Vitiate / Valkorion / the Sith Emperor, Vitiate, Valkorion, Tenebrae, Sith Emperor | 1838 | 1036 | 75 | 452 |
+| [vitiate/](vitiate/README.md) | Vitiate / Valkorion / the Sith Emperor | TOR | DEEP | 1849 | 1847 | 2 | 244 | Vitiate / Valkorion / the Sith Emperor, Vitiate, Valkorion, Tenebrae, Sith Emperor | 104 | 104 | n/a | n/a |
 | [viun-gaalan.md](viun-gaalan.md) | Viun Gaalan | Old Republic | untiered | 23 | 23 | 0 | 3 | Viun Gaalan, Gaalan | 23 | 19 | 12 | 19 |
 | [vlaydm-churhee.md](vlaydm-churhee.md) | Vlaydm Churhee (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Vlaydm Churhee | 1 | 0 | 0 | 0 |
 | [vlix.md](vlix.md) | Vlix (NEW 2026-10-30) | GCW | untiered | 2 | 2 | 0 | 0 | Vlix | 2 | 1 | 0 | 7 |

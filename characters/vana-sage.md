@@ -32,7 +32,6 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-10
 > By twenty, she had mastered the Maw, earned the respect of Borvo the Hutt, and worked side by side with infamous bounty hunters.
 — Source: Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20,; Vana Sage — entry/section: Starfighter Aces: Vana Sage.
 Note (our notes, around the quote): Vana Sage — entry/section: Starfighter Aces: Vana Sage: "By twenty, she had mastered the Maw, earned the respect of Borvo the Hutt, and worked side by side with infamous bounty hunters." Source: *Star Wars Gamer 02* (SWRPG d20), scan p.87
-![Quote image: *Star Wars Gamer 02* (SWRPG d20), scan p.87 — full quote as printed](quotes/d051-s87-by-twenty-she-had-mastered-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-061-089.md:144`
 
 - Note (summary from our notes, not a quotation): Page contents: 565 words, 63 paragraphs | headings/entries: Dex): Defense +0 [+7 class, +2; Wis 11. Cha 16; Equipment: Personal starship (Guardian; Mantis), blaster pistol, knife, comlink,; Skills: Astrogate +13, Bluff +12, Computer Use; The Guardian Mantis; Modified Prototype Nubian Bomber; Starfighter \s Not for sale Small x; Crew: Unique; Passengers: 3 Cargo Capacity: Consumables:; Attack Bonus:; Range modifiers:; Vana's Guardian Mantis; Even at first glance, the Guardian Mantis; The Guardian Mantis is armed mnons; Weapon: Laser Cannons 6 fire; Front; PB +0,5 40, M/Liai/a; Fire are:; Weapon: Rotatinf laser turret; Turret; PB 40,5 40, M/L n/a; Fire arc: Attack Bonus: Damage:; Range modifiers:; Bomb chute; Ventral; Weapon:; Fire arc: Attack Bon; Damage:; STAR WARS GAMER 7
@@ -43,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-061-08
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20,; Vana Sage — entry/section: Starfighter Aces: Guardian Mantis.
 Note (our notes, around the quote): Vana Sage — entry/section: Starfighter Aces: Guardian Mantis: "With the IES system at full power, a charged sensor tag can completely disable a standard starfighter" Source: *Star Wars Gamer 02* (SWRPG d20), scan p.88
-![Quote image: *Star Wars Gamer 02* (SWRPG d20), scan p.88 — full quote as printed](quotes/d051-s88-with-the-ies-system-at-full.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-061-089.md:153`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–105)

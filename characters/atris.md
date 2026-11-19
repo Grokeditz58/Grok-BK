@@ -1365,7 +1365,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Having retaken the title of Darth Traya, she fled to Telos with Atris and set out to destroy the planet.
 — Source: scan pages 201–240; Kreia; Atris — entry/section: Kreia.
 Note (our notes, around the quote): Kreia; Atris — entry/section: Kreia: "Having retaken the title of Darth Traya, she fled to Telos with Atris and set out to destroy the planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.231 — full quote as printed](quotes/v2-p231-having-retaken-the-title-of-darth.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:388`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -1373,7 +1372,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > WE ALL HAVE OUR HEROES. AND WHEN WE WATCH THEM FALL, WE DIE INSIDE.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Atris — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Atris — entry/section: Pull quote: ""WE ALL HAVE OUR HEROES. AND WHEN WE WATCH THEM FALL, WE DIE INSIDE." —MASTER ATRIS" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.134
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.134 — full quote as printed](quotes/d718-s134-we-all-have-our-heroes-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:102`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption "VISAS MARR"; Visas Marr (Dark Wars) stats (Miraluka Jedi 7/Sith apprentice 2, CL 9); Atris bio begins. (hand-read)
@@ -1387,7 +1385,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > But Atris's pride is no match for the Jedi Exile’s lightsaber prowess.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol. POV: speaker not named in our notes.
 Note (our notes, around the quote): Meetra Surik; Atris — entry/section: Knights of the Old Republic Campaign Guide (Saga): "But Atris's pride is no match for the Jedi Exile’s lightsaber prowess." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.143
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.143 — full quote as printed](quotes/d718-s143-but-atriss-pride-is-no-match.jpg)
 Also cited as: SI respect-thread directory: Jedi Exile Meetra Surik: Chronological Respect Thread (2019) — https://www.suspectinsightforums.com/t171-jedi-exile-meetra-surik-chronological-respect-thread-2019.
 Also noted as: Despite her vast prowess as a combatant, she was no match for the Exile's lightsaber skill:
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:241`; `suspect-insight/respect-threads/meetra-surik.md:262`
@@ -1395,13 +1392,11 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Atris becomes a captive in her own sanctum until such time as her role in nearly destroying the Jedi can be judged by Mical and a new Jedi Council.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Atris. POV: Atris.
 Note (our notes, around the quote): Atris: "Atris becomes a captive in her own sanctum until such time as her role in nearly destroying the Jedi can be judged by Mical and a new Jedi Council." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.143
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.143 — full quote as printed](quotes/d718-s143-atris-becomes-a-captive-in-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:243`
 
 > Thanks to the foolish ambitions of the Jedi Atris, Nihilus is able to wipe out almost all of the remaining Jedi, leaving only a small handful alive.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Atris; Darth Nihilus. POV: Darth Nihilus; about Atris.
 Note (our notes, around the quote): Atris; Darth Nihilus: "Thanks to the foolish ambitions of the Jedi Atris, Nihilus is able to wipe out almost all of the remaining Jedi, leaving only a small handful alive." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.147 — full quote as printed](quotes/d718-s147-thanks-to-the-foolish-ambitions-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:285`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)

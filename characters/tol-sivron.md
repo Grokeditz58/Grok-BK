@@ -86,19 +86,16 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:148`
 > Alas, Sivron — blinded by a desire to recapture the Sun Crusher — manages to pilot the terror weapon beyond the event horizon and into oblivion.
 — Source: Chapter Six: Maw Installation.
 Note (our notes, around the quote): Tol Sivron; Sun Crusher — The Prototype Death Star (sidebar) — its end: "Alas, Sivron — blinded by a desire to recapture the Sun Crusher — manages to pilot the terror weapon beyond the event horizon and into oblivion." Source: The Jedi Academy Sourcebook, p.67, sidebar/caption
-![Quote image: The Jedi Academy Sourcebook, p.67 — full quote as printed](quotes/jas-p67-the-prototype-death-star-sidebar-its.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:42`
 
 > In pursuing Kyp in the Sun Crusher, he is lured beyond the event horizon, and is slain along with most of his remaining scientists when the Death Star is sucked down into the black hole.
 — Source: Chapter Six: Maw Installation; Tol Sivron; Kyp Durron; Sun Crusher — Tol Sivron — death.
 Note (our notes, around the quote): Tol Sivron; Kyp Durron; Sun Crusher — Tol Sivron — death: "In pursuing Kyp in the Sun Crusher, he is lured beyond the event horizon, and is slain along with most of his remaining scientists when the Death Star is sucked down into the black hole." Source: The Jedi Academy Sourcebook, p.72
-![Quote image: The Jedi Academy Sourcebook, p.72 — full quote as printed](quotes/jas-p72-tol-sivron-death.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:83`
 
 > This works reasonably well until Kyp Durron taunts Sivron past rational thought and lures the Death Star and its passengers to their doom.
 — Source: Chapter Six: Maw Installation.
 Note (our notes, around the quote): Kyp Durron; Tol Sivron — Captain Fredja — Kyp lures the Death Star: "This works reasonably well until Kyp Durron taunts Sivron past rational thought and lures the Death Star and its passengers to their doom." Source: The Jedi Academy Sourcebook, p.77
-![Quote image: The Jedi Academy Sourcebook, p.77 — full quote as printed](quotes/jas-p77-captain-fredja-kyp-lures-the-death.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:118`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -106,7 +103,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.
 > But Sivron killed them there, taking their meager possessions to increase his own chances for survival.
 — Source: scan pages 161–200; Tol Sivron. POV: Tol Sivron.
 Note (our notes, around the quote): Tol Sivron: "But Sivron killed them there, taking their meager possessions to increase his own chances for survival." Source: The Complete Star Wars Encyclopedia, Vol. III, p.157
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.157 — full quote as printed](quotes/v3-p157-but-sivron-killed-them-there-taking.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:26`
 
 # Debate and forum claims (unverified)

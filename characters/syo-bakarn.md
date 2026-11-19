@@ -14,19 +14,16 @@
 > Maintains good relations with many Jedi Masters, including [CLASSIFIED], Syo Bakarn, and Jaric Kaedan.
 — Source: The Galactic Republic; Ardun Kothe — Ardun Kothe dossier.
 Note (our notes, around the quote): Ardun Kothe — Ardun Kothe dossier: "Maintains good relations with many Jedi Masters, including [CLASSIFIED], Syo Bakarn, and Jaric Kaedan." Source: The Old Republic Encyclopedia, p.61, sidebar
-![Quote image: The Old Republic Encyclopedia, p.61 — full quote as printed](quotes/tore-p61-maintains-good-relations-with-many-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:209`
 
 > Though Master Syo's martial prowess was impressive, he found no solace in serving on the front lines.
 — Source: The Jedi Order; Syo Bakarn — Master Syo Bakarn.
 Note (our notes, around the quote): Syo Bakarn — Master Syo Bakarn: "Though Master Syo's martial prowess was impressive, he found no solace in serving on the front lines." Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-though-master-syo-s-martial-prowess.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:225`
 
 > When the Jedi Syo Bakarn and Duras Fain pursued an Imperial fugitive to Nar Shaddaa, they hired Tharan to build a tracking device for them.
 — Source: The Jedi Order; Syo Bakarn — Tharan Cedrax.
 Note (our notes, around the quote): Syo Bakarn — Tharan Cedrax: "When the Jedi Syo Bakarn and Duras Fain pursued an Imperial fugitive to Nar Shaddaa, they hired Tharan to build a tracking device for them." Source: The Old Republic Encyclopedia, p.101, sidebar
-![Quote image: The Old Republic Encyclopedia, p.101 — full quote as printed](quotes/tore-p101-when-the-jedi-syo-bakarn-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:374`
 
 # Debate and forum claims (unverified)

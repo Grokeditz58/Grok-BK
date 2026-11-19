@@ -170,13 +170,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > When Darth Malak attacked and destroyed the Jedi Enclave on Dantooine, Master Vrook went into hiding for many years, until he was captured by Azkul and his mercenaries.
 — Source: scan pages 241–280; Vrook Lamar; Darth Malak — entry/section: Lamar, Master Vrook.
 Note (our notes, around the quote): Vrook Lamar; Darth Malak — entry/section: Lamar, Master Vrook: "When Darth Malak attacked and destroyed the Jedi Enclave on Dantooine, Master Vrook went into hiding for many years, until he was captured by Azkul and his mercenaries." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-when-darth-malak-attacked-and-destroyed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:81`
 
 > Master Vrook was among the many Jedi who were killed when Darth Traya attacked and destroyed the Enclave 3,952 years before the Battle of Yavin.
 — Source: scan pages 241–280; Vrook Lamar; Kreia — entry/section: Lamar, Master Vrook.
 Note (our notes, around the quote): Vrook Lamar; Kreia — entry/section: Lamar, Master Vrook: "Master Vrook was among the many Jedi who were killed when Darth Traya attacked and destroyed the Enclave 3,952 years before the Battle of Yavin." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-master-vrook-was-among-the-many.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:83`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -184,7 +182,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > IF WE'RE GOING TO HAVE A JEDI COUNCIL AT ALL, THEN SOMEBODY, SOMEWHERE, IS GOING TO DO WHAT IT TELLS THEM!
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Vrook Lamar — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Vrook Lamar — entry/section: Pull quote: ""IF WE'RE GOING TO HAVE A JEDI COUNCIL AT ALL, THEN SOMEBODY, SOMEWHERE, IS GOING TO DO WHAT IT TELLS THEM!" —MASTER VROOK LAMAR" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.131 — full quote as printed](quotes/d718-s131-if-were-going-to-have-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:74`
 
 ## Prima *Star Wars Knights of the Old Republic II: The Sith Lords* Official Game Guide (2004)

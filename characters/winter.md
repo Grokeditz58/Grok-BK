@@ -27,7 +27,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/champions-of-the-force.md:3
 > Winter's gift became a silent curse, for she could never shake the memories of her departed friends and destroyed world.
 — Source: scan pages 121–160; Winter Celchu. POV: Winter Celchu.
 Note (our notes, around the quote): Winter Celchu: "Winter's gift became a silent curse, for she could never shake the memories of her departed friends and destroyed world." Source: The Complete Star Wars Encyclopedia, Vol. I, p.114
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.114 — full quote as printed](quotes/v1-p114-winters-gift-became-a-silent-curse.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:76`
 
 > Her rigid control over her emotions and her no­ nonsense approach to her duties caused some to comment that her name befit her icy per­ sonality. Working for the Rebel Alliance, Winter supplied valuable intelligence regarding the location and layout of Imperial supply caches. This information proved vital to Alliance raid­ ing parties, who could generate extremely de­ tailed maps based on Winter's recollections. Her effectiveness gained her a position on the Empire's most-wanted list, though the Imperi­ als knew her only by her code name of Targeter. Winter kept mobile during the Galactic Civil War, serving in a number of commands under a variety of code names. As a Rebel special forces operative, Winter crossed paths with Rogue Squadron following the defeat of the Empire at Endor. She started up a romantic relationship with Tycho Celchu, a fellow Alderaanian. Rogue Squadron first helped Winter during her undercover work on behalf of the Cilpari Resistance, where she disguised herself as Princess Leia to act as a di­ version while the Rogues took out an Imperial base. Later, as the Rogues worked undercover to plan the retaking of Coruscant, Winter as­ sisted them under the name of Rima Borealis. As Leia became a fixture in New Republic politics, Winter was by her side.
@@ -35,13 +34,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Winter Celchu: "As a Rebel special forces operative, Winter crossed paths with Rogue Squadron following the defeat of the Empire at Endor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.114
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.114 — full quote as printed](quotes/v1-p114-as-a-rebel-special-forces-operative.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:78`
 
 > At first, Winter relied on Noghri bodyguards to help safeguard the children, but when Imperial threats escalated following the resurrected Emperor's destructive campaign against the New Republic, greater precautions were taken.
 — Source: scan pages 121–160; Winter Celchu. POV: Winter Celchu.
 Note (our notes, around the quote): Winter Celchu: "At first, Winter relied on Noghri bodyguards to help safeguard the children, but when Imperial threats escalated following the resurrected Emperor's destructive campaign against the New Republic, greater precautions were taken." Source: The Complete Star Wars Encyclopedia, Vol. I, p.114
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.114 — full quote as printed](quotes/v1-p114-at-first-winter-relied-on-noghri.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:80`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -49,7 +46,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 > When Han Solo joined the mission to destroy Grand Admiral Thrawn's cloning facility on Wayland, Cakhmaim protected Leia, Winter, and the children, Jaina and Jacen Solo.
 — Source: scan pages 321–360.
 Note (our notes, around the quote): Han Solo; Grand Admiral Thrawn; Leia Organa Solo; Winter Celchu; Jaina Solo; Jacen Solo (Darth Caedus): "When Han Solo joined the mission to destroy Grand Admiral Thrawn's cloning facility on Wayland, Cakhmaim protected Leia, Winter, and the children, Jaina and Jacen Solo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.322
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.322 — full quote as printed](quotes/v2-p322-when-han-solo-joined-the-mission.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:55`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -69,7 +65,6 @@ Our notes: `notes/materials/037-sw-d20-folder/273-103-eye-of-the-sun-revelation-
 > We're proud to announce the opening of the Cularin Shipyard at Winter Fantasy (and with ships and payments, can the repo beings be far behind?).
 — Source: Living Force Campaign/Articles/Year 2/02:07:02 - Transmissions - February.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Cularin Shipyard: "We're proud to announce the opening of the Cularin Shipyard at Winter Fantasy (and with ships and payments, can the repo beings be far behind?)." Source: *02:07:02 - Transmissions - February 2002* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *02:07:02 - Transmissions - February 2002* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d394-s2-were-proud-to-announce-the-opening.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/394-02-07-02-transmissions-february-2002.md:27`
 
 ## Living Force Campaign/Articles/Year 2/03:07:02 - Transmissions - March 2002.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -88,42 +83,36 @@ Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-previe
 — Source: Living Force Campaign/Articles/Year 2/12:19:02 - Winter Fantasy Preview.p; No single roster character (rules/setting/general) — entry/section: Kirlocca.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca: "It is not my natural way, to sit and wait. I have always favored action over inaction. It is one of my flaws." Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-it-is-not-my-natural-way.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:12`
 
 > But I will continue to meditate until I have come to some deeper understanding of the business of the system. A great deal of pain emanates from the Tarasin settlements on Cularin. It seems apparent that all is not well there, but the Tarasin have long tended to keep to themselves when things went badly. I cannot blame their mistrust of outsiders. It was, after all, outsiders who cut their ch'hala trees, and outsiders who instigated the bloody and unfortunate uprising several years ago. The Jedi have maintained good relations with them, but the failing health of Mother Dariana threatens to remove one of the unifying elements of the system. She is a truly good individual who has seen the path of darkness and has denied its power over her.
 — Source: Living Force Campaign/Articles/Year 2/12:19:02 - Winter Fantasy Preview.p; No single roster character (rules/setting/general) — entry/section: Kirlocca.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca: "I cannot blame their mistrust of outsiders. It was, after all, outsiders who cut their ch'hala trees, and outsiders who instigated the bloody and unfortunate uprising several years ago." Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-i-cannot-blame-their-mistrust-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:14`
 
 > I cannot blame their mistrust of outsiders. It was, after all, outsiders who cut their ch'hala trees, and outsiders who instigated the bloody and unfortunate uprising several years ago. The Jedi have maintained good relations with them, but the failing health of Mother Dariana threatens to remove one of the unifying elements of the system. She is a truly good individual who has seen the path of darkness and has denied its power over her. She is a model that more Jedi could justifiably choose to follow. So much anger I sense in my students. I speak with them, and then they go out into the world and use their anger against others.
 — Source: Living Force Campaign/Articles/Year 2/12:19:02 - Winter Fantasy Preview.p; No single roster character (rules/setting/general) — entry/section: Dariana.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Dariana: "She is a truly good individual who has seen the path of darkness and has denied its power over her. She is a model that more Jedi could justifiably choose to follow." Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-she-is-a-truly-good-individual.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:16`
 
 > The Jedi have maintained good relations with them, but the failing health of Mother Dariana threatens to remove one of the unifying elements of the system. She is a truly good individual who has seen the path of darkness and has denied its power over her. She is a model that more Jedi could justifiably choose to follow. So much anger I sense in my students. I speak with them, and then they go out into the world and use their anger against others. I can sense the dark side growing in some of them, but for every one we send from the Academy, two more pop up with the potential to cause trouble. The students must learn to police their own; they will not always have us around, and if they begin losing their fellows to the dark side, they must understand that they, too, are a step closer to the darkness.
 — Source: Living Force Campaign/Articles/Year 2/12:19:02 - Winter Fantasy Preview.p; No single roster character (rules/setting/general) — entry/section: Kirlocca.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca: "So much anger I sense in my students. I speak with them, and then they go out into the world and use their anger against others." Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-so-much-anger-i-sense-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:18`
 
 > All of us must work to understand the sources of anger, and to work past such negative emotions. There are rumors that the Believers have brought another fallen Jedi to their cause. How they find so many, I do not know. How few we lost, for so long, and now, how many we have seen! I hope that our Padawans and our Knights can find the strength and skill to do what must be done, and to keep the system safe. It would be easier, I suppose, if we could stop the trappings of life.
 — Source: Living Force Campaign/Articles/Year 2/12:19:02 - Winter Fantasy Preview.p; No single roster character (rules/setting/general) — entry/section: Kirlocca.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca: "How few we lost, for so long, and now, how many we have seen!" Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-how-few-we-lost-for-so.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:20`
 
 > I hope that our Padawans and our Knights can find the strength and skill to do what must be done, and to keep the system safe. It would be easier, I suppose, if we could stop the trappings of life. It would be easier if we could put a moratorium on gatherings, meetings, and celebrations. But life must go on, and we must watch, protect, and serve the will of the Force. I have a bad feeling, though, about many of the upcoming gatherings in Cularin. That we are suddenly "back" does not mean it is a good idea for everyone to come here. That novelty provides too good a cover for those who wish to do ill.
 — Source: Living Force Campaign/Articles/Year 2/12:19:02 - Winter Fantasy Preview.p; No single roster character (rules/setting/general) — entry/section: Kirlocca.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca: "But life must go on, and we must watch, protect, and serve the will of the Force. I have a bad feeling, though, about many of the upcoming gatherings in Cularin." Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-but-life-must-go-on-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:22`
 
 > It would be easier, I suppose, if we could stop the trappings of life. It would be easier if we could put a moratorium on gatherings, meetings, and celebrations. But life must go on, and we must watch, protect, and serve the will of the Force. I have a bad feeling, though, about many of the upcoming gatherings in Cularin. That we are suddenly "back" does not mean it is a good idea for everyone to come here. That novelty provides too good a cover for those who wish to do ill. I must meditate on these thoughts. - - from Master Kirlocca's personal logs The "Forces of Cularin" trilogy, to premiere at Winter Fantasy 2003, begins with "Force Concession," follows with "Force Contention," and concludes with "Force Convention." An interactive event, "Force Conflagration," will also play at Winter Fantasy. Come - see what has Master Kirlocca so concerned. ..
@@ -131,7 +120,6 @@ Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-previe
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 (Fragment completed 2026-11-17 with the full excerpt, word for word from Sw wizard winter fantasy preview by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_winter_fantasy_preview_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca: "I must meditate on these thoughts. -- from Master Kirlocca's personal logs" Source: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *12:19:02 - Winter Fantasy Preview* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d422-s1-i-must-meditate-on-these-thoughts.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/422-12-19-02-winter-fantasy-preview.md:24`
 
 ## Living Force Campaign/Campaign Guide/What's the Living Force?.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -155,7 +143,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > Similarly, Han Solo’s luck is easily represented by the scoundrel class ability Lucky. The “perfect memory” of the character Winter, while unusual, should really be a feat rather than a Heroic Quality.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Winter Celchu — entry/section: Moderation: Han's luck, Winter's memory: "Similarly, Han Solo’s luck is easily represented by the scoundrel class ability Lucky. The “perfect memory” of the character Winter, while unusual, should really be a feat rather than a Heroic Quality." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.143
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.143 — full quote as printed](quotes/d666-s143-similarly-han-solo-s-luck-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:130`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

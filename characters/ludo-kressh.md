@@ -25,19 +25,16 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4026`; `not
 > [fragment — full passage not on file]
 — Source: The Sith Empire.
 Note (our notes, around the quote): Marka Ragnos; Naga Sadow; Ludo Kressh — Golden Age of the Sith: "Under the leadership of Marka Ragnos, the united Sith enjoyed strength and prosperity in a time known as the Golden Age of the Sith. But when Marka Ragnos died, the golden age came to a violent end. Two Sith Lords, Naga Sadow and Ludo Kressh, fought to fill the sudden power vacuum" Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-under-the-leadership-of-marka-ragnos.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:20`
 
 > The two Sith fleets clashed over Korriban, and Naga Sadow defeated Ludo Kressh to emerge triumphant.
 — Source: The Sith Empire; Naga Sadow; Ludo Kressh — The Empire Falls.
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh — The Empire Falls: "The two Sith fleets clashed over Korriban, and Naga Sadow defeated Ludo Kressh to emerge triumphant." Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-the-two-sith-fleets-clashed-over.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:28`
 
 > The first great Kressh, Ludo, had already won a Kaggath when he battled Naga Sadow for the Empire's throne after the Sith ruler Marka Ragnos died. Ludo perished in a decisive fleet engagement, but his proud bloodline lived on.
 — Source: The Sith.
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow; Marka Ragnos — The Kressh Legacy (top-right): "The first great Kressh, Ludo, had already won a Kaggath when he battled Naga Sadow for the Empire's throne after the Sith ruler Marka Ragnos died. Ludo perished in a decisive fleet engagement, but his proud bloodline lived on." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-the-first-great-kressh-ludo-had.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:324`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -49,7 +46,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Kressh, Ludo An ancient Sith magician, he was Naga Sadow's contemporary and rival for the position of Dark Lord of the Sith.
 — Source: scan pages 201–240; Ludo Kressh; Naga Sadow — entry/section: Kressh, Ludo.
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow — entry/section: Kressh, Ludo: "Kressh, Ludo An ancient Sith magician, he was Naga Sadow's contemporary and rival for the position of Dark Lord of the Sith." Source: The Complete Star Wars Encyclopedia, Vol. II, p.232
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.232 — full quote as printed](quotes/v2-p232-kressh-ludo-an-ancient-sith-magician.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:399`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -57,7 +53,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Soon after his demise, his ghostly visage appeared before Ludo Kressh and Naga Sadow, who were engaged in a duel to determine who would succeed Ragnos; the spirit urged the two aspiring Dark Lords to make peace in order to advance the Sith Empire.
 — Source: scan pages 41–80; Marka Ragnos; Ludo Kressh; Naga Sadow — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos; Ludo Kressh; Naga Sadow — entry/section: Ragnos, Marka: "Soon after his demise, his ghostly visage appeared before Ludo Kressh and Naga Sadow, who were engaged in a duel to determine who would succeed Ragnos; the spirit urged the two aspiring Dark Lords to make peace in order to advance the Sith Empire." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-soon-after-his-demise-his-ghostly.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:299`
 
 ## The New Essential Guide to Characters (2002)
@@ -65,7 +60,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan
 > Sadow schemed to become the next Dark Lord by discrediting his rival Ludo Kressh, and the arrival of Republic explorers Jori and Gav Daragon provided the needed catalyst.
 — Source: scan pages 121–150; Naga Sadow; Ludo Kressh.
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "Sadow schemed to become the next Dark Lord by discrediting his rival Ludo Kressh, and the arrival of Republic explorers Jori and Gav Daragon provided the needed catalyst." Source: The New Essential Guide to Characters, p.142
-![Quote image: The New Essential Guide to Characters, p.142 — full quote as printed](quotes/negc-p142-sadow-schemed-to-become-the-next.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:90`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -75,7 +69,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "As rival leaders Naga Sadow and Ludo Kressh struggled for the Dark Lord's crown, a pair of Republic hyper-space mappers arrived in Sith territory in their ship, Starbreaker 12." Source: Dark Side Sourcebook, p.7
-![Quote image: Dark Side Sourcebook, p.7 — full quote as printed](quotes/dss-p7-as-rival-leaders-naga-sadow-and.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:19`
 
 > With this ruse he convinced the other Sith Lords to declare him their new leader, and he took his place as Dark Lord of the Sith. After destroying Ludo Kressh's flagship-with Kressh presumably on board-Sallow marshaled the Sith Lords and set off for Republic space with a vast battle fleet. His strike was swift and brutal, and world after world fell before his might. Soon he threatened Coruscant itself, but was ultimately defeated and forced to retreat. Naga Sallow paid the price for his ambition. When he returned to Sith space, he discovered that Ludo Kressh had used his empty flagship to stage his own death, Now Kressh had his own fleet, and he fell upon Sadow's badly damaged ships. Though Naga Sallow destroyed Ludo Kressh for certain this time, he could not enjoy his victory. A Republic fleet had followed him back to the Sith Empire and attacked while he was still recovering from his battle with Kressh's fleet. Sallow sacrificed the remainder of his fleet so that he could escape in his flagship. Taking a cue from Kressh, he staged his own death while simultaneously destroying his pursuers between binary suns. His force reduced to only a handful of Sith followers and a small Massassi crew, Naga Sallow searched out a new home for the Sith Empire.
@@ -83,7 +76,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:19`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ludo Kressh: "Though Naga Sallow destroyed Ludo Kressh for certain this time, he could not enjoy his victory." Source: Dark Side Sourcebook, p.71
-![Quote image: Dark Side Sourcebook, p.71 — full quote as printed](quotes/dss-p71-though-naga-sallow-destroyed-ludo-kressh.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:24`
 
 > Equipment: Sith sword, Sith amulet, Sith talisman, dark armor (damage reduction 5), Sith battleship, alchemical apparatus. Skills: Bluff +15, Computer Use +6, Diplomacy +13, Intimidate +16, Knowledge (Sith lore) +14, Listen +4, Read/Wdte Sith, Sense Motive +8, Speak Basic, Speak Massassi, Speak Sith, Spot +4, Survival +11. Force Skills: Affect Mind +9, Alchemy +12, Battlemind +12, Control Mind +17, Enhance Ability + 14, Force Defense + 12, Force Grip + 10, See Force +10. Feats: Armor Proficiency (light), Armor Proficiency (medium), Exotic Weapon Proficiency (Sith sword), Force-Sensitive, Infamy, Persuasive, Sith Sword Defense, Sith Sword Expertise, Trustworthy, Weapon Focus (Sith sword), Weapon Group Proficiency (primitive weapons), Weapon Group Proficiency (simple weapons). Force Feats: Alter, Control, Drain Force, Force Mind, Sense, Sith Sorcery. Ludo Hressh, Aspiring Sith Lord The most powerful of the Sith to oppose Naga Sadow's rise to power was Ludo Kressh, a conservative among the Sith Lords, who believed that the Sith Empire must grow strong within itself before looking for new foes to conquer. After the death of Marka Ragnos, Ludo Kressh was fully prepared to accept the reins of power. With the unexpected arrival of Gav and Jori Daragon, hyperspace explorers from the Republic, his plans were thrown into chaos. The safest plan, Kressh knew, would be to execute the brother and sister.
@@ -91,7 +83,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:24`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow: "Ludo Hressh, Aspiring Sith Lord The most powerful of the Sith to oppose Naga Sadow's rise to power was Ludo Kressh, a conservative among the Sith Lords, who believed that the Sith Empire must grow strong within itself before looking for new foes to conquer." Source: Dark Side Sourcebook, p.71
-![Quote image: Dark Side Sourcebook, p.71 — full quote as printed](quotes/dss-p71-ludo-hressh-aspiring-sith-lord-the.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:26`
 
 > Thinking Ludo Kressh dead, Naga Sallow assembled his war fleet and embarked for the worlds of the Republic. Meanwhile, Kressh rallied the Sith Lords who remained behind, promising them wealth and power if they allied with him against Naga Sallow. With their support, Ludo Kressh declared himself the new Dark Lord of the Sith. When Sadow's badly damaged battle fleet returned, Kressh was waiting. His ships devastated Sadow's ships, but Sallow was the better strategist. Sallow ordered one of his own damaged ships to ram Kressh's new flagship. Both ships were destroyed, along with Ludo KreSSh's dreams of ruling the Sith Empire. Ludo Kressh: Male Sith (near-Human), Force Adept 4/Sith Acolyte 10; ]nit +1 ; Defense 22 (+11 class, +l Dex); Spd 10m; VP/WP 122/17; Atk +13/+8 melee (2d6+3/19-20, Sith sword) or +10/+5 ranged; SV Fort +12, Ref +8, Will +16; SZ M; FP 6; DSP 14; Rep 10; Str 16, Dex 12, Con 17, lnt 16, Wis 14, Cha 15. Challenge Code: E. Equipment: Sith sword, Sith talisman, Sith amulet, Sith armor (damage reduction 5), Sith battleship, alchemical apparatus. Skills: Bluff +15, Computer Use +6, Diplomacy +10, Intimidate +17, Knowledge (Sith lore) +12, Listen +5, Read/Write Sith, Sense Motive +12, Speak Basic, Speak Massassi, Speak Sith, Spot +6, Survival +6.
@@ -99,7 +90,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:26`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ludo Kressh: "Both ships were destroyed, along with Ludo KreSSh's dreams of ruling the Sith Empire." Source: Dark Side Sourcebook, p.71
-![Quote image: Dark Side Sourcebook, p.71 — full quote as printed](quotes/dss-p71-both-ships-were-destroyed-along-with.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:28`
 
 > Finally, there is the Sith Empire. At the start of this age, the Sith Empire has been cut off from Republic space for thousands of years. While the Sith Empire has grown powerful, and individual Sith Lords have unlocked untold secrets of the dark side, the evil government has reached a period of crisis. The Empire has been slowly starving for centuries, gripped by a fierce and terrible hunger for fresh land and new resources. There appear to be no new worlds to conquer, no new enemies to subjugate and exploit. Factions have arisen, and two powerful Sith Lords vie for control of the stagnating Empire. Naga Sadow and Ludo KreSSh, rivals for the coveted title of Dark Lord of the Sith, gather supporters and prepare to launch a civil war that could very well destroy the Empire. Soon, hyperspace explorers from the Republic will inadvertently wander into Sith space. Then a new goal will suggest itself, offering a new hope to the floundering Empire. The Republic, unaware, unsuspecting, makes a tempting target. To expand the Sith Empire, the Sith Lords plan to launch a war of conquest against the Republic and revitalize the Sith's Golden Age.
@@ -107,7 +97,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:28`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "Naga Sadow and Ludo KreSSh, rivals for the coveted title of Dark Lord of the Sith, gather supporters and prepare to launch a civil war that could very well destroy the Empire." Source: Dark Side Sourcebook, p.150
-![Quote image: Dark Side Sourcebook, p.150 — full quote as printed](quotes/dss-p150-naga-sadow-and-ludo-kressh-rivals.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:68`
 
 > The ineffectiveness and overt corruption of the Rise of the Empire era are still many millennia away at this point in time. The Sith This period begins with the Sith Empire still cut off from the Republic. In fact, neither the Republic nor the Sith believes that the other still exists-both have been reduced to the status of legends in the other's region of space. After a century of iron rule, Dark Lord Marka Ragnos has died, leaving a power vacuum that threatens to erupt in civil war. The Sith Empire has grown stagnant and is in need of new worlds to conquer and exploit. Many powerful Sith seek to gain control of the Empire. The strongest of these are Ludo Kressh and Naga Sadow, who both command impressive bands of followers from among the Sith. As these two rivals attempt to win the Empire, a hyperspace mapping ship from the Republic accidentally stumbles into Sith space. The feuding Sith Lords have no interest in peaceful trade with the Republic, however. The conservative Kressh believes the intrusion to be the precursor of invasion, while the ambitious Sadow sees an opportunity for conquest and glory. The Sith command vast armies of followers, including creatures they have mutated using Sith alchemy and magic.
@@ -115,7 +104,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:68`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow: "The strongest of these are Ludo Kressh and Naga Sadow, who both command impressive bands of followers from among the Sith." Source: Dark Side Sourcebook, p.152
-![Quote image: Dark Side Sourcebook, p.152 — full quote as printed](quotes/dss-p152-the-strongest-of-these-are-ludo.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:80`
 
 > In Republic space, Sith heroes must deal with Republic agents of all types, corporate security forces, crime lords and their minions, pirates, raiders, and anyone else who considers them to be invaders. Eventually the focus will turn to the battle between light and dark as the war escalates, but save battles with Jedi for important adventures and climatic scenes. Adventure Hooks Here are a few story nuggets for a dark side campaign that you can develop into complete adventures. Each of these is set in the time of the Great Hyperspace War. Prove Your Loyalty Start up your dark side campaign by letting the Istlevel Sith heroes demonstrate their loyalty and devotion to the dark side and the Sith Lord they call master. Whether your heroes pledge allegiance to Naga Sadow or Ludo Kressh or some other rival Sith Lord, they need to prove themselves before earning the complete trust and respect of their leader. To accomplish this, the Sith Lord sends them on a mission to a distant part of the Sith Empire. On the planet Korriz, the Sith heroes must overtake the servants of Lord Garu before they reach the alchemy workshop of Tritos Nal. This ancient master of Sith magic has crafted a powerful Sith sword especially for Lord Garu. The Sith heroes are ordered to dispatch Garu's servants and "acquire" the weapon for their Patron.
@@ -123,7 +111,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:80`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "Whether your heroes pledge allegiance to Naga Sadow or Ludo Kressh or some other rival Sith Lord, they need to prove themselves before earning the complete trust and respect of their leader." Source: Dark Side Sourcebook, p.155
-![Quote image: Dark Side Sourcebook, p.155 — full quote as printed](quotes/dss-p155-whether-your-heroes-pledge-allegiance-to.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:97`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -143,7 +130,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Ludo Kressh: "Ludo Kressh's War Sword: Sith alchemical war sword, steeped in the dark side (Medium simple weapon, 1d8 damage, can spend a Force Point to gain bonus to damage equal to Dark Side Score, steeped in the dark side)." Source: *Web Articles* (SWRPG Saga Edition), scan p.242
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.242 — full quote as printed](quotes/d732-s242-ludo-kresshs-war-sword-sith-alchemical.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:25`
 
 ## Star Wars Insider #88 (2006)

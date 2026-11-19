@@ -42,12 +42,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:293`
 > THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE. *(p311)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Hosk Trey'lis (Bothan healer). Force-pushes Syn on Lok (p48). Senses Cade's strength (p61). Maladi breaks his will (p198). In captivity (p327): "THE ANGER IN YOU IS LIKE A DAGGER IN THE FORCE, YOUNG SKYWALKER." · "MY TRUE TALENT IS AS A HEALER AND I CAN SENSE SOMETHING... BROKEN IN YOU." Krayt kills him (p414–415). Wyyrlok: "THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE." (p311): a trained Jedi healer failed where Cade is Krayt's hope.
-![p327](009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
-![p61](009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
-![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+![p327](../notes/materials/009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
+![p61](../notes/materials/009-legacy-book-1-panels/p061-hosk-force-very-strong-in-you.jpg)
+![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p311](../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p414 Krayt runs Hosk through](../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+![p415](../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:954`
 
 > Captured by a group of bounty hunters led by Ca[de] Skywalker…
@@ -64,7 +64,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:954`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; p465: Hosk Trey'lis.
 Note (our notes, around the quote): p465: Hosk Trey'lis: "Captured by a group of bounty hunters led by Ca[de] Skywalker…" Shado Vao: "Kol Skywalker's former Padawan, Shado has honed his martial skills and has yet to find his equal with a lightsaber. The Twi'lek and Cade Skywalker were boyhood friends." Wolf Sazen: "Kol Skywalker's former apprentice and Cade's Master. Contemplative and serious, Wolf follows the living Force..." · "He lost his right arm in the battle and nearly lost his life. He has since retrained himself to wield his lightsaber with his left hand, keeping an 'empty sleeve' rather than replace his right arm and hand." · "...Wolf believes the return of a Skywalker to the Order's head could unite the Jedi and enable them to defeat the Sith."
-![p465 handbook: Hosk, Shado, Wolf](009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
+![p465 handbook: Hosk, Shado, Wolf](../notes/materials/009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1138`
 
 - Note (summary from our notes, not a quotation): Jedi: Cade Skywalker (130 and 137 ABY), Kol Skywalker, Wolf Sazen, Shado Vao, K'Kruhk, Hosk Trey'lis.
@@ -82,7 +82,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:132`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: Bio: a Bothan Jedi healer
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:637`
 
 - Note (summary from our notes, not a quotation): CL 10; Bothan Jedi 7/noble 2/Jedi Knight 1. Destiny 2; Force 5.
@@ -113,18 +113,18 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1103`
 
 - Note (summary from our notes, not a quotation): #9: Maladi breaks the Jedi healer Hosk Trey'lis with interrogator droids and her will (p58–60). Krayt wants Cade "ALIVE"; Maladi doesn't know why (p61). Calixte tells Veed that Maladi's top agent is "JOR TOLIN" (sic; Torlin elsewhere), Sith-raised but lacking "SUFFICIENT FORCE SENSITIVITY", and reactivates "Morrigan Corde" (p62). She spots Cade on the Wheel's security vids (p63–64). On Bastion, Fel punishes Draco and Krieg for their rescue mission with medals and the most dangerous assignments, and sends them to escort Capt. Bovark to GA Admiral Gar Stazi on the Wheel (p65–67). Talks begin (p68–70). The two Knights sense the GA guards' concealed blasters (p71). On the Wheel's lower levels, Torlin fights a gang that Corde set on him. Corde joins in, Torlin strangles her, and she shocks him unconscious (p72–79).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
-![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
-![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
-![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p62 "JOR TOLIN" dossier](../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](../notes/materials/012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
+![p71 the Knights on the Wheel](../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:52`
 
 > THE FORCE...IT'S VERY STRONG IN YOU! NOT SITH...
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Broken by Maladi (p58–60). Security-cam holo of Cade healing him: "THE FORCE...IT'S VERY STRONG IN YOU! NOT SITH..." "JEDI...?!" (p141). The Sith torture him in the Coruscant Temple, per Luke's spirit (p168).
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
-![p168 Luke's spirit and Hosk](012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p168 Luke's spirit and Hosk](../notes/materials/012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:353`
 
 ## Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels
@@ -146,7 +146,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:121`
 > THE SKILLS OF THE JEDI HEALER, HOSK, HAVE PROVEN INADEQUATE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Broken by the Sith. POV: Broken by the Sith.
 Note (our notes, around the quote): Broken by the Sith: "THE SITH... BROKE ME." · "I TOLD THEM ABOUT YOU -- EVERYTHING." (p26). Healer's sense: "MY TRUE TALENT IS AS A HEALER AND I CAN SENSE SOMETHING... BROKEN IN YOU." (p26). Krayt's healers' failure (Wyyrlok, p10): "THE SKILLS OF THE JEDI HEALER, HOSK, HAVE PROVEN INADEQUATE."
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:421`
 
 > I AM JEDI. I DO NOT FEAR DEATH.
@@ -155,11 +155,11 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:421`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Death and vanishing body. p113–114 (#18).
 Note (our notes, around the quote): Death and vanishing body. p113–114 (#18): "I AM JEDI. I DO NOT FEAR DEATH." · His robes collapse empty after Krayt's thrust; a blue Force-voice balloon: "THERE IS NO DEATH. THE FORCE WILL BE WITH YOU, CADE SKYWALKER..."
-![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
-![p113 Krayt runs Hosk through](013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
+![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+![p113 Krayt runs Hosk through](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:422`
 
-- Note (summary from our notes, not a quotation): ![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p114 — `p114-hosk-vanishes-no-one-dies.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:424`

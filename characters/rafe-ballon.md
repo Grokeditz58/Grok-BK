@@ -19,7 +19,6 @@ Our notes: `notes/materials/038-star-wars-insider/145-ins145.md:272`
 — Source: Star Wars Insider #145 (2013); Leia Organa Solo; Rafe Ballon — entry/section: Constant Spirit.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 02BBY: Constant Spirit (Jennifer Heddle) (text copy `MEGA_All_Short_Stories_02BBY_Constant_Spirit_Jennifer_Heddle_epub`).)
 Note (our notes, around the quote): Leia Organa Solo; Rafe Ballon — entry/section: Constant Spirit: ""My entire life is a risk. And I'm not going to let anyone die who doesn't need to." —Leia Organa, Star Wars Insider 145, p. 50" Source: *Star Wars Insider #145* (2013), scan p.50
-![Quote image: *Star Wars Insider #145* (2013), scan p.50 — full quote as printed](quotes/ins145-s50-my-entire-life-is-a-risk.jpg)
 Our notes: `notes/materials/038-star-wars-insider/145-ins145.md:283`
 
 - Note (summary from our notes, not a quotation): Page contents: "Constant Spirit": shields gone, hyperdrive out; Rafe launches the escape pod straight at the Gatekeeper's bridge. (hand-read)

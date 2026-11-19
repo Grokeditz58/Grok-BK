@@ -129,7 +129,6 @@ Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:424`
 > The radio dramatization of A New Hope holds the answer to this query. Right before Darth Vader's Star Destroyer attacks Tantive IV, Captain Antilles recruits his droids, R2-D2 and C-3PO, to help Princess Leia.
 — Source: Star Wars Insider #71 (2003).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Leia Organa Solo — entry/section: Q&A: why Threepio didn't recognize Leia: "The radio dramatization of A New Hope holds the answer to this query. Right before Darth Vader's Star Destroyer attacks Tantive IV, Captain Antilles recruits his droids, R2-D2 and C-3PO, to help Princess Leia." Source: *Star Wars Insider #71* (2003), scan p.79
-![Quote image: *Star Wars Insider #71* (2003), scan p.79 — full quote as printed](quotes/ins071-s79-the-radio-dramatization-of-a-new.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:426`
 
 ## Star Wars Insider #74 (2004)

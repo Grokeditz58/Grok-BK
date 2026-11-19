@@ -18,20 +18,20 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:19`
 > CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER FIND ITS MARK!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Cuts down Ommin's warriors after he is cut off from his master: "CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER FIND ITS MARK!" Source: Freedon Nadd Uprising #1, p15
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:31`
 
 > Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about King Ommin.
 Note (our notes, around the quote): Recap of #1: "Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:34`
 
 > DRIVEN BY A CLEAR PERCEPTION OF THEIR MASTER'S PAIN, CAY AND ULIC QEL-DROMA LEAD THE CHARGE THROUGH THE PHALANX OF DARK-SIDE PROTECTORS AND WAR DROIDS--
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Leads the charge into Ommin's lair with Cay. POV: narrator, about King Ommin.
 Note (our notes, around the quote): Leads the charge into Ommin's lair with Cay: "DRIVEN BY A CLEAR PERCEPTION OF THEIR MASTER'S PAIN, CAY AND ULIC QEL-DROMA LEAD THE CHARGE THROUGH THE PHALANX OF DARK-SIDE PROTECTORS AND WAR DROIDS--" · NARRATION. Source: Freedon Nadd Uprising #2, p14
-![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](panels/fnu2-p14-ulic-cay-lead-charge.jpg)
+![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:36`
 
 > --WITH THE LIGHT SIDE OF THE FORCE AS HIS ALLY, ULIC QEL-DROMA SMASHES THROUGH THE DELUGE OF BALEFUL ENERGIES!
@@ -49,7 +49,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:38`
 > FIGHT WELL, YOUNG JEDI--A GREAT DESTINY AWAITS YOU!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Freedon Nadd's spirit to Ulic Qel-Droma. POV: Freedon Nadd's spirit, about King Ommin.
 Note (our notes, around the quote): Freedon Nadd's spirit to Ulic Qel-Droma: "FIGHT WELL, YOUNG JEDI--A GREAT DESTINY AWAITS YOU!" Source: Freedon Nadd Uprising #1, p15
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:41`
 
 > TODAY THE JEDI KNIGHTS HAVE TRIUMPHED OVER THE DARK SIDE.
@@ -85,22 +85,22 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:67`
 > THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes. POV: Ommin.
 Note (our notes, around the quote): Ommin about Freedon Nadd: "HERE LET ME SHOW YOU MY WONDERFUL AMULETS--" "THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:81`
 
 > IN SPITE OF THE NEED FOR MACHINERY TO SUPPORT HIS SOFTENED BONES, OMMIN IS FILLED WITH POWER.
 — Source: Freedon Nadd Uprising #1, p14 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Lurches from his life-support armature and overpowers Arca Jeth.
 Note (our notes, around the quote): Lurches from his life-support armature and overpowers Arca Jeth: "IN SPITE OF THE NEED FOR MACHINERY TO SUPPORT HIS SOFTENED BONES, OMMIN IS FILLED WITH POWER." Source: Freedon Nadd Uprising #1, p14
-![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
+![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:91`
 
 > --AAIEE! ARCA'S SMOTHERED IN DARK-SIDE ENERGY!
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #1, p14–16 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Smothers Arca Jeth in dark-side energy and carries him off: "--AAIEE! ARCA'S SMOTHERED IN DARK-SIDE ENERGY!" Source: Freedon Nadd Uprising #1, p14–16
-![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
-![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](panels/fnu1-p16-ulic-kills-warb-null.jpg)
+![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:92`
 
 > ULIC... THE DARK SIDERS.. HAVE STRUCK BACK!
@@ -112,7 +112,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:93`
 > The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about King Ommin.
 Note (our notes, around the quote): Recap of #1: "The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!" · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:94`
 
 > MY MOST PRIZED POSSESSION...
@@ -122,7 +122,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:94`
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #2, p13 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Holds Arca Jeth captive in dark-side energy.
 Note (our notes, around the quote): Holds Arca Jeth captive in dark-side energy: "MY MOST PRIZED POSSESSION..." "A JEDI MASTER." "HIS NAME IS ARCA... HE'S QUITE ALIVE... BUT SUFFERING MIGHTILY UNDER THE CRUSHING POWER OF THE DARK SIDE." Source: Freedon Nadd Uprising #2, p13
-![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](panels/fnu2-p13-arca-captive.jpg)
+![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p13-arca-captive.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:96`
 
 > SOMEONE VERY POWERFUL... LUNGED AT ME THROUGH THE FORCE, WHEN I TRIED TO MEDITATE THE FIGHT.
@@ -135,7 +135,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:96`
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #2, p8–9 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Attacks Nomi Sunrider through the Force when she uses battle meditation, knocking her down without a wound: Nomi: "SOMEONE VERY POWERFUL... LUNGED AT ME THROUGH THE FORCE, WHEN I TRIED TO MEDITATE THE FIGHT." "I SAW HIM... AN EMACIATED MAN ON A METAL ARMATURE." Ulic: "THAT'LL BE KING OMMIN." Source: Freedon Nadd Uprising #2, p8–9
-![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](panels/fnu2-p08-ommin-strikes-nomi.jpg)
+![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p08-ommin-strikes-nomi.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:97`
 
 > THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE...
@@ -145,19 +145,19 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:97`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): His Sith magic drains the Jedi at Modon Kira's citadel: Tott: "THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE..." "SITH MAGIC IS AT WORK--" Narration: "FOR MONTHS OMMIN'S OPPRESSIVE SITH MAGIC HAS INFECTED THE WILL OF ARCA'S JEDI PEACE-KEEPERS..." Source: Freedon Nadd Uprising #2, p7
-![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](panels/fnu2-p07-jedi-strength-returns.jpg)
+![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p07-jedi-strength-returns.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:98`
 
 > AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Makes Satal's mind whirl with a gesture. POV: narrator, about King Ommin.
 Note (our notes, around the quote): Makes Satal's mind whirl with a gesture: "AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND." · NARRATION. Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:100`
 
 > DRAWING ON THE DARK SIDE OF THE FORCE, KING OMMIN CONCENTRATES INFINITE HATRED AGAINST THE YOUNG JEDI!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Hurls Ulic and Nomi with a green dark-side blast. POV: narrator, about King Ommin.
 Note (our notes, around the quote): Hurls Ulic and Nomi with a green dark-side blast: "DRAWING ON THE DARK SIDE OF THE FORCE, KING OMMIN CONCENTRATES INFINITE HATRED AGAINST THE YOUNG JEDI!" · NARRATION. Source: Freedon Nadd Uprising #2, p16
-![Freedon Nadd Uprising #2 p16: King Ommin's green dark-side blast hurls Ulic and Nomi](panels/fnu2-p16-ommin-blasts-ulic-nomi.jpg)
+![Freedon Nadd Uprising #2 p16: King Ommin's green dark-side blast hurls Ulic and Nomi](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p16-ommin-blasts-ulic-nomi.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:102`
 
 > BELIEVE ME, JEDI-- THE SITH WAY WILL LIVE FOREVER!
@@ -214,10 +214,10 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:111`
 > WITH KING OMMIN DEAD AND HIS CLANDESTINE POWER DISPERSED, REPUBLIC FORCES QUICKLY RESTORE ORDER TO ONDERON.
 — Source: Freedon Nadd Uprising #2, p17–20 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Defeated by Ulic Qel-Droma (armature cut, p17), then killed by Freedon Nadd's spirit (p19). Narration: "WITH KING OMMIN DEAD AND HIS CLANDESTINE POWER DISPERSED, REPUBLIC FORCES QUICKLY RESTORE ORDER TO ONDERON." Source: Freedon Nadd Uprising #2, p17–20
-![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](panels/fnu2-p17-ulic-cuts-ommin.jpg)
-![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](panels/fnu2-p18-nadd-gives-swords.jpg)
-![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
-![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p17-ulic-cuts-ommin.jpg)
+![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p18-nadd-gives-swords.jpg)
+![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
+![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:114`
 
 - Note (summary from our notes, not a quotation): Overpowered and carried off by King Ommin. Source: Freedon Nadd Uprising #1, p14–16
@@ -228,7 +228,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:120`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about King Ommin.
 Note (our notes, around the quote): Recap of #1: "Master Arca is felled by a blow of dark Force"; Ommin's bolts subdue him. · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:121`
 
 > SUFFERING MIGHTILY UNDER THE CRUSHING POWER OF THE DARK SIDE
@@ -246,13 +246,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:133`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Leads the charge into Ommin's lair with Ulic; senses the evil: "ULIC...THIS PLACE... HAVE YOU EVER FELT SUCH EVIL GLOOM?" Source: Freedon Nadd Uprising #2, p14
-![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](panels/fnu2-p14-ulic-cay-lead-charge.jpg)
+![Freedon Nadd Uprising #2 p14: Cay and Ulic Qel-Droma lead the charge into Ommin's lair; Cay: "Have you ever felt such evil gloom?"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p14-ulic-cay-lead-charge.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:149`
 
 > THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Her battle meditation is blocked by Ommin.
 Note (our notes, around the quote): Her battle meditation is blocked by Ommin: "THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!" Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:169`
 
 > WITH HER GROWING SENSITIVITY TO THE INNER WORKING OF THE FORCE, IT IS ALMOST MORE THAN SHE CAN HANDLE.
@@ -288,33 +288,33 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:184`
 > OF COURSE YOU CAN, MY SON.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Reads the Sith book with Ommin's amulet.
 Note (our notes, around the quote): Reads the Sith book with Ommin's amulet: "GIDDY WITH THE SWIRLING ENERGIES OF THE DARK SIDE, SATAL IS IN NO MOOD TO REFUSE THE URGINGS OF HIS COUSIN." Satal: "BY THE EMPRESS! I...I CAN READ IT PERFECTLY!" Ommin: "OF COURSE YOU CAN, MY SON." Source: Freedon Nadd Uprising #2, p12
-![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](panels/fnu2-p12-satal-reads-sith-book.jpg)
+![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p12-satal-reads-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:223`
 
 > ALEEMA...I FEEL SUDDENLY ILL.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Satal Keto. POV: Satal Keto, about King Ommin.
 Note (our notes, around the quote): Satal Keto: "ALEEMA...I FEEL SUDDENLY ILL." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:225`
 
 > ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Aleema Keto in Ommin's lair. POV: Aleema Keto in Ommin's lair.
 Note (our notes, around the quote): Aleema Keto in Ommin's lair: "ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!" Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:236`
 
 > As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap (Galia's role). POV: Recap, about King Ommin.
 Note (our notes, around the quote): Recap (Galia's role): "As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:245`
 
 > THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE...
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Tott Doneeta on Ommin's Sith magic. POV: Tott Doneeta, about King Ommin.
 Note (our notes, around the quote): Tott Doneeta on Ommin's Sith magic: "THE DARK SIDE...IT'S EATING AT OUR LIFE FORCE..." "SITH MAGIC IS AT WORK--" Source: Freedon Nadd Uprising #2, p7
-![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](panels/fnu2-p07-jedi-strength-returns.jpg)
+![Freedon Nadd Uprising #2 p7: Tott: "The dark side... it's eating at our life force"; Ulic feels stronger with his fellow Jedi there](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p07-jedi-strength-returns.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:251`
 
 > --BUT SWIFT DARK-SIDER FIRE INFLICTS A MORTAL WOUND!
@@ -335,7 +335,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:257`
 > I'LL DO IT MYSELF, LORD OMMIN.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Ommin's servant copies the Sith book himself: Ommin.
 Note (our notes, around the quote): Ommin's servant copies the Sith book himself: Ommin: "HERE, NOVAR... HAVE A SCRIBE COPY THIS AT ONCE." Novar: "I'LL DO IT MYSELF, LORD OMMIN." Source: Freedon Nadd Uprising #2, p12
-![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](panels/fnu2-p12-satal-reads-sith-book.jpg)
+![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p12-satal-reads-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:260`
 
 - Note (summary from our notes, not a quotation): | 2 | Ommin vs Arca Jeth | Ommin's chamber | p13–16 | Arca smothered and carried off |
@@ -377,38 +377,38 @@ Note (our notes, around the quote): | 9 | Arca Jeth vs Freedon Nadd's spirit | O
 Context: | # | Fight | Where | Pages | Outcome |
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:279`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:293`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:295`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](panels/fnu2-p08-ommin-strikes-nomi.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p08-ommin-strikes-nomi.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:309`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](panels/fnu2-p08-ommin-strikes-nomi.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p08-ommin-strikes-nomi.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](panels/fnu2-p08-ommin-strikes-nomi.jpg)
+![Freedon Nadd Uprising #2 p8: Ommin strikes Nomi in the Force](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p08-ommin-strikes-nomi.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:311`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](panels/fnu2-p17-ulic-cuts-ommin.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p17-ulic-cuts-ommin.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:321`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](panels/fnu2-p17-ulic-cuts-ommin.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p17-ulic-cuts-ommin.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:323`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:329`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:331`
 
 - Note (summary from our notes, not a quotation): Ulic: the dark side that took Arca is "TOO STRONG FOR US" (p17). Nadd's spirit calls itself "POWERLESS IN MY PRESENT STATE" (p13); (ANALYSIS) Ommin is the active threat here.
@@ -443,14 +443,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Freedon Nadd Uprising summary, Ommin vs Arca: "Suddenly, Ommin leaps up, striking out at Master Arca. It appears that, although Ommin must rely on a mechanical apparatus to support his physical form, his power in the Force remains. Arca falls, enveloped by dark side energy." Source: Tales of the Jedi Companion (WEG, 1996), p.14
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](quotes/companion-p14-suddenly-ommin-leaps-up-striking-out.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p14-suddenly-ommin-leaps-up-striking-out.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:58`
 
 > if King Ommin had 6D in alter, he could lower any one of Master Arca's Force skills
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; RPG MECHANICS (rules example, not his block): dark side web.
 Note (our notes, around the quote): RPG MECHANICS (rules example, not his block): dark side web, "if King Ommin had 6D in alter, he could lower any one of Master Arca's Force skills" by up to that many dice. Source: Tales of the Jedi Companion (WEG, 1996), p.87
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.87 — full quote as printed](quotes/companion-p87-if-king-ommin-had-6d-in.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.87 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p87-if-king-ommin-had-6d-in.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:63`
 
 > He realized then that he was invincible with the dark side at his back. Nothing could topple him. Nothing could harm or destroy him ever again, not even the dark side itself. His normal vision returned, and he saw the ghostly form of Freedon Nadd hovering close by. Ommin felt stronger than he ever had, and he wanted to show his mentor what he had accomplished. He pushed himself up from his ancient throne, and then collapsed under his own weight, his legs no longer able to support him. Nadd made a deep, staccato sound that Ommin could only guess was laughter. "The dark side does not come without its price," the Sith spirit said. "You have power over the Force, but in exchange you have lost power over your own body." Nadd had warned him of the dark side's initiation tithe a decade ago when his training had begun. He couldn't remember whether he had chosen to accept that price or whether he had purposely sealed it away in the recesses of his memory. It didn't matter now, anyway.
@@ -459,7 +459,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_weg_companion_txt`.)
 Note (our notes, around the quote): Freedon Nadd's spirit to Ommin: "The dark side does not come without its price ... You have power over the Force, but in exchange you have lost power over your own body." Source: Tales of the Jedi Companion (WEG, 1996), p.74
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.74 — full quote as printed](quotes/companion-p74-the-dark-side-does-not-come.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.74 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p74-the-dark-side-does-not-come.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:96`
 
 > Ommin agrees to give 5atal the amulet if 5atal allows him to make a copy of the 5ith tome. Ommin shows the two heirs his prized possession- Master Area, writhing under the power of the dark side. Ommin's goal is to extinguish the light from Area and to then raise him up as a dark Jed!. The seven apprentice Jedi sense Master Area's torment, and charge past the dark-side protectors and the 5ith war droids, descending into the depths of the undercity, where theycome face to face with KingOmmin. Ommin throws a wave a dark side hatred at the Jedi, battering them back. Ulic, bathed in the light side, fights off the darkness and rushes forward, slashing with his lightsaber at the metal armature that holds Ommin erect. Without support, Ommin collapses. - -,,_c."'t.:-y 17i"4/~P ~/t..aN"'!fJ,Jt(Jlrw .a c.AJ?e~t/I.-t. y PlF~/N5P A1/~~/t?N- - 5atal and Aleema retreat into the recesses of the sublevels as Ulic demands to know what has happened to Master Area. Ommin tells them that Area has gone to the dark side, as will they. In a deep access corridor, the spirit of Freedon Nadd appears to 5atal and Aleema, giving them the book, the amulet, and a pair of 5ith swords.
@@ -467,7 +467,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): FNU summary vs Ommin: "Ommin throws a wave a dark side hatred at the Jedi, battering them back. Ulic, bathed in the light side, fights off the darkness and rushes forward, slashing with his lightsaber at the metal armature that holds Ommin erect. Without support, Ommin collapses." Source: Tales of the Jedi Companion (WEG, 1996), p.15
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](quotes/companion-p15-ommin-throws-a-wave-a-dark.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p15-ommin-throws-a-wave-a-dark.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:120`
 
 > When her efforts failed she fell into a deep brooding, for she did not know how to help her husband. Over the years, however, that depression turned into anger at the king for having made the dark alliance in the first place, and then into outright hatred. At the same time, Ommin decided his queen was ready to join him, to share in the power that he had cultivated over a lifetime. The queen tread slowly into the darkness, but once she passed beyond the point where light could no longer reach, she opened herself completely to the dark side. Ommin and the spirit of Freedon Nadd instructed her in the Force and in Sith techniques, and she gradually grew in power, eventually becoming a formidable sorceress in her own right. Soon after, however, Ommin began to suffer from a strange ifIness that seemed to consume the very marrow --e%.J'f we we~e. e:XPfU.-nN(, a &Hl'£A.,- ..;ep/ 11fA6,~-Nb'r tJlrt.M'V"l'"Cl'tE-t7 'IOV1"I-f• .J AMANOA The darkness did not come easily to Amanoa, but when she finally embraced it, there was no lettinggo. Freedon Nadd brought the teachings of the Sith to Onderon 350 years before the birth of Queen Amanoa, spreading the wicked ways of the dark side to his followers.
@@ -475,7 +475,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Narrative bio: "Ommin and the spirit of Freedon Nadd instructed her in the Force and in Sith techniques, and she gradually grew in power, eventually becoming a formidable sorceress in her own right." Source: Tales of the Jedi Companion (WEG, 1996), p.68
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.68 — full quote as printed](quotes/companion-p68-ommin-and-the-spirit-of-freedon.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.68 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p68-ommin-and-the-spirit-of-freedon.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:233`
 
 > Capsule: King Ommin rose to power in the same manner as his ancestors of the last three centuries: by dominating the populace of Onderon with the dark side. A direct descendant of the Sith Freedon Nadd, who ruled the world for more than SO years, Ommin had the ability to call on Nadd's spirit so that he might learn and master the ways of the dark side and the Sith. When his father passed into the Force, Ommin took his rightful position as ruler of Iziz, and married Lady Amanoa, the beautiful daughter of a wealthy noble. Not too long afterward, Amanoa gave birth to Calia, the only heir Ommin would ever have. But the king had by this time lost interest in the mundane activities of daily life; his dark side training under the tutelage of Freedon Nadd had begun in earnest. Eventually Ommin became a moderately powerful Sith sorcerer, but in the effort had lost control of his own body. A metal armature replaced his bones and muscle-a device that wouid iead to his demise. The young Jedi Ulic Qel- Drama destroyed the apparatus, and Ommin collapsed, helpless. The spirit of Freedon Nadd appeared and absorbed the fallen king into the dark side of force. 7'2 -.._-_.
@@ -484,7 +484,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Narrative bio: "Eventually Ommin became a moderately powerful Sith sorcerer, but in the effort had lost control of his own body. A metal armature replaced his bones and muscle". Source: Tales of the Jedi Companion (WEG, 1996), p.72
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.72 — full quote as printed](quotes/companion-p72-eventually-ommin-became-a-moderately-powerful.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.72 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p72-eventually-ommin-became-a-moderately-powerful.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:244`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: King Ommin, Sith Sorcerer. Force skills Control 5D+1, Sense 6D+2, Alter 6D+1. Powers include bolt of hatred, dark side web, telekinesis, enhance attribute, shift sense, feed on dark side, inflict pain, affect mind, lesser Force shield. Scholar: Sith lore 8D+2. Equipment: steel exoskeleton, Sith tomes, necklace of shielding. Force Points 0, Dark Side Points 8, Character Points 22. Move 4. Source: Tales of the Jedi Companion (WEG, 1996), p.72
@@ -505,7 +505,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > The spirit-avatar of Nadd joined forces with Ommin, crippling Master Arca with lightning bolts of energy.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Arca Jeth — Nadd's spirit and Ommin cripple Arca: "The spirit-avatar of Nadd joined forces with Ommin, crippling Master Arca with lightning bolts of energy." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-nadds-spirit-and-ommin-cripple-arca.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:103`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -513,19 +512,16 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > In his fury, Ommin destroyed Kad with a ball of flame conjured from the dark side of the Force.
 — Source: scan pages 161–200; King Ommin. POV: King Ommin.
 Note (our notes, around the quote): King Ommin: "In his fury, Ommin destroyed Kad with a ball of flame conjured from the dark side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.190
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.190 — full quote as printed](quotes/v2-p190-in-his-fury-ommin-destroyed-kad.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:253`
 
 > Nebo and his father, fellow zealot Rask, then attempted to protect the sarcophagi of King Ommin, Queen Amanoa, and Freedon Nadd from Kun, who killed them both.
 — Source: scan pages 361–400; King Ommin; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): King Ommin; Queen Amanoa; Freedon Nadd: "Nebo and his father, fellow zealot Rask, then attempted to protect the sarcophagi of King Ommin, Queen Amanoa, and Freedon Nadd from Kun, who killed them both." Source: The Complete Star Wars Encyclopedia, Vol. II, p.365
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.365 — full quote as printed](quotes/v2-p365-nebo-and-his-father-fellow-zealot.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:92`
 
 > When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive.
 — Source: scan pages 361–400.
 Note (our notes, around the quote): Warb Null; Arca Jeth; King Ommin; Freedon Nadd — entry/section: Null, Warb: "When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive." Source: The Complete Star Wars Encyclopedia, Vol. II, p.394
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.394 — full quote as printed](quotes/v2-p394-when-jedi-master-arca-jeth-appealed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:327`
 
 - Note (summary from our notes, not a quotation): Page contents: 1178 words, 30 paragraphs | headings/entries: Ominaz, Ignar; Omin-Oreh; Ommin, King; Ommis, Kesin; Omnino, Baroness; Omogg; Omonda, Canna; Omonoth; Omwat
@@ -535,7 +531,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > The spirit of Freedon Nadd absorbed Ommin's final gasps of life and drew him to the dark side.
 — Source: scan pages 401–440; King Ommin; Freedon Nadd — entry/section: Ommin, King.
 Note (our notes, around the quote): King Ommin; Freedon Nadd — entry/section: Ommin, King: "The spirit of Freedon Nadd absorbed Ommin's final gasps of life and drew him to the dark side." Source: The Complete Star Wars Encyclopedia, Vol. II, p.411
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.411 — full quote as printed](quotes/v2-p411-the-spirit-of-freedon-nadd-absorbed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:130`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -543,25 +538,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Their quest for knowledge had introduced them to King Ommin shortly before his defeat.
 — Source: Chapter One: History of the Jedi; King Ommin. POV: King Ommin.
 Note (our notes, around the quote): King Ommin: "Their quest for knowledge had introduced them to King Ommin shortly before his defeat." Source: Power of the Jedi Sourcebook, p.7
-![Quote image: Power of the Jedi Sourcebook, p.7 — full quote as printed](quotes/potj-p7-their-quest-for-knowledge-had-introduced.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:28`
 
 > If his scheme succeeded, Ommin would have destroyed Arca's body and raised the former Jedi as a dark side spirit.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Arca Jeth; King Ommin — entry/section: Arca Jeth, Watchman of Onderon: "If his scheme succeeded, Ommin would have destroyed Arca's body and raised the former Jedi as a dark side spirit." Source: Power of the Jedi Sourcebook, p.100
-![Quote image: Power of the Jedi Sourcebook, p.100 — full quote as printed](quotes/potj-p100-if-his-scheme-succeeded-ommin-would.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:30`
 
 > Ommin was defeated, and Freedon Nadd's remains were moved to Dxun.
 — Source: Chapter Six: Jedi traditions and famous Jedi; King Ommin; Freedon Nadd.
 Note (our notes, around the quote): King Ommin; Freedon Nadd: "Ommin was defeated, and Freedon Nadd's remains were moved to Dxun." Source: Power of the Jedi Sourcebook, p.100
-![Quote image: Power of the Jedi Sourcebook, p.100 — full quote as printed](quotes/potj-p100-ommin-was-defeated-and-freedon-nadds.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:32`
 
 > Cay Qel-Droma was among the many Jedi who helped defeat Lord Ommin's sect of Naddist worshipers during the Freedon Nadd uprising.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Cay Qel-Droma; King Ommin; Freedon Nadd — entry/section: Cay Gel-Droma, Jedi Knight: "Cay Qel-Droma was among the many Jedi who helped defeat Lord Ommin's sect of Naddist worshipers during the Freedon Nadd uprising." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-cay-qel-droma-was-among-the.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:84`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -575,7 +566,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:40`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): King Ommin; Ulic Qel-Droma — entry/section: King Ommin of Onderon, Sith Sorcerer: "Though Ommin overcame Master Area with his dark side power, he himself was beaten when the Jedi Ulic Qel-Droma severed the connection to his support exoskeleton, leaving King Ommin barely able to speak or move, let alone draw upon the power of the dark side." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-though-ommin-overcame-master-area-with.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:51`
 
 > Sith Acolytes Aleema Keto and her cousin Satal Keto, son of the ruler of the Empress Teta system and heir to the corrupt government, were spoiled, bored, and rich. Along with their friends, the pair dabbled in Sith magic and amused themselves with artifacts from the time of the Great Hyperspace War. To gain more power, Aleema persuaded Satal to steal an ancient book of Sith secrets from a Coruscant museum, but they couldn't read the text. They went in search of someone who could. Armed with rumors of Sith practitioners on Onderon, the two aristocrats used their money and novice dark side skills to reach King Ommin. The delighted ruler gave Satal a Sith amulet and had a scribe start work on translating the arcane tome. The specter of Freedon Nadd had been assisting King Ommin, but decided that Satal and Aleema held the key to resurrecting the golden age of the Sith. The dark side avatar appeared before the pair and offered to guide them in their rise to power. Spurred on and encouraged by the spirit's attention, Satal and his cousin extracted a wealth of Sith artifacts and returned to the Empress Teta system. Nadd's spirit, meanwhile, was trapped within an armored tomb on the moon of Dxun. With the artifacts and Sith tome in hand, Satal and Aleema quickly grew in dark side power.
@@ -583,7 +573,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:51`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Satal Keto; Aleema Keto: "The specter of Freedon Nadd had been assisting King Ommin, but decided that Satal and Aleema held the key to resurrecting the golden age of the Sith." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-the-specter-of-freedon-nadd-had.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

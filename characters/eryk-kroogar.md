@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > He managed to resist the poison's effects and battle the panther to a draw.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Eryk Kroogar — entry/section: Kroogar battles the panther.
 Note (our notes, around the quote): Eryk Kroogar — entry/section: Kroogar battles the panther: "He managed to resist the poison's effects and battle the panther to a draw." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.74
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.74 — full quote as printed](quotes/d665-s74-he-managed-to-resist-the-poisons.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:99`
 
 # Debate and forum claims (unverified)

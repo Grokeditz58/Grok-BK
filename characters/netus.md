@@ -14,7 +14,7 @@
 > I SUGGEST THAT THE REPUBLIC FLEET MOVE AT ONCE.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Senator Netus (UNCLEAR attribution) urges the Republic fleet to Onderon.
 Note (our notes, around the quote): Senator Netus (UNCLEAR attribution) urges the Republic fleet to Onderon: "I SUGGEST THAT THE REPUBLIC FLEET MOVE AT ONCE." Source: Freedon Nadd Uprising #1, p23
-![Freedon Nadd Uprising #1 p23: Senate session: "I suggest that the Republic fleet move at once"](panels/fnu1-p23-netus-fleet-move.jpg)
+![Freedon Nadd Uprising #1 p23: Senate session: "I suggest that the Republic fleet move at once"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p23-netus-fleet-move.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:240`
 
 - Note (summary from our notes, not a quotation): | 89–99 | Neutrals / allies | Bogga, Netus, A-3DO, rocket-jumpers etc. |
@@ -29,8 +29,8 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > NEVER TO UNDERESTIMATE THE POWER OF THE SITH! *(p27)*
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Note (our notes, around the quote): Kemplex Nine ruse; Vanicus and Netus (p4–7). On Yavin 4 Oss Wilum resists, Exar crushes the Sith holocron and Sith spirits possess the students (p8–15). Coruscant assault: Mandalore steals the MK prototype, Ulic seizes the war room, Aleema betrays him (p16–23). Vodo, Nomi and the Jedi block Ulic (p24–25). Exar: "NEVER TO UNDERESTIMATE THE POWER OF THE SITH!" (p27).
-![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](024-tales-of-the-jedi/panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
-![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
+![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](../notes/materials/024-tales-of-the-jedi/panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:31`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)

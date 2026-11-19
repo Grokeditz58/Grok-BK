@@ -111,7 +111,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1149`; `su
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Cin Drallig: "When Darth Vader and his clone troopers attacked the Jedi Temple the night of Order 66, Vader choked Bene with one hand while he dueled Drallig with the other." Source: The Complete Star Wars Encyclopedia, Vol. I, p.70
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.70 — full quote as printed](quotes/v1-p70-when-darth-vader-and-his-clone.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:40`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -119,7 +118,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > However, she was killed in battle during the Clone Wars, and Jukassa's training fell to Cin Drallig.
 — Source: scan pages 161–200; Cin Drallig. POV: Cin Drallig.
 Note (our notes, around the quote): Cin Drallig: "However, she was killed in battle during the Clone Wars, and Jukassa's training fell to Cin Drallig." Source: The Complete Star Wars Encyclopedia, Vol. II, p.178
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.178 — full quote as printed](quotes/v2-p178-however-she-was-killed-in-battle.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:175`
 
 ## Star Wars Insider #87 (2006)

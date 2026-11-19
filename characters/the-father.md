@@ -24,7 +24,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:249`
 > The Ewok hunting party and Teebo, assisted by the magical forces of the forest, battle and defeat the cowardly Duloks. Vulgarr takes Teebo hostage only to be foiled by the Grudakk, who is revealed to be the guardian of the Father Tree.
 — Source: Star Wars Insider #74 (2004).
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ewoks cartoon: the Father Tree (no character slug): "The Ewok hunting party and Teebo, assisted by the magical forces of the forest, battle and defeat the cowardly Duloks. Vulgarr takes Teebo hostage only to be foiled by the Grudakk, who is revealed to be the guardian of the Father Tree." Source: *Star Wars Insider #74* (2004), scan p.36
-![Quote image: *Star Wars Insider #74* (2004), scan p.36 — full quote as printed](quotes/ins074-s36-the-ewok-hunting-party-and-teebo.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:251`
 
 ## Star Wars Insider #123 (2011)

@@ -14,7 +14,6 @@
 > He and his fleet of Sabaoth Destroyers were defeated by forces led by Adi Gallia and Nym.
 — Source: scan pages 241–280; Adi Gallia. POV: Adi Gallia.
 Note (our notes, around the quote): Adi Gallia: "He and his fleet of Sabaoth Destroyers were defeated by forces led by Adi Gallia and Nym." Source: The Complete Star Wars Encyclopedia, Vol. III, p.256
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.256 — full quote as printed](quotes/v3-p256-he-and-his-fleet-of-sabaoth.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:199`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -26,13 +25,11 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > One of the bounty hunter's booby traps defeated Adi Gallia, but failed to kill her.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Adi Gallia. POV: Adi Gallia.
 Note (our notes, around the quote): Adi Gallia: "One of the bounty hunter's booby traps defeated Adi Gallia, but failed to kill her." Source: Power of the Jedi Sourcebook, p.116
-![Quote image: Power of the Jedi Sourcebook, p.116 — full quote as printed](quotes/potj-p116-one-of-the-bounty-hunters-booby.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:184`
 
 > Adi Gallia's parents were nearly killed by Red laro terrorists.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Adi Gallia — entry/section: Adi Gallia, Jedi Master.
 Note (our notes, around the quote): Adi Gallia — entry/section: Adi Gallia, Jedi Master: "Adi Gallia's parents were nearly killed by Red laro terrorists." Source: Power of the Jedi Sourcebook, p.116
-![Quote image: Power of the Jedi Sourcebook, p.116 — full quote as printed](quotes/potj-p116-adi-gallias-parents-were-nearly-killed.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:186`
 
 ## The New Essential Guide to Characters (2002)
@@ -64,7 +61,6 @@ Our notes: `notes/materials/037-sw-d20-folder/648-heros-guide-web-enhancement-li
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from evised Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Lightsaber Forms and the Fallanassi (text copy `evised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Lightsaber_Forms_and_the_Fallanassi_pdf_03813bf3fe`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from evised Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Lightsaber Forms and the Fallanassi (text copy `evised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Lightsaber_Forms_and_the_Fallanassi_pdf_03813bf3fe`).)
 Note (our notes, around the quote): Adi Gallia — entry/section: Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi: "Adi Gallia was one of the few Jedi around the time of the Clone Wars known to actively practice the form, as was the Anzati Jedi called Nikkos Tyris." Source: *Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hero's Guide Web Enhancement - Lightsaber Forms and the Fallanassi* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d648-s2-adi-gallia-was-one-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/648-heros-guide-web-enhancement-lightsaber-forms-and.md:17`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–185)
@@ -84,7 +80,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 Note (our notes, around the quote): Adi Gallia: "Believing it was tapping communications between them, Adi Gallia destroyed the ship from her Delta-7 Aethersprite-class light interceptor." Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.71
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.71 — full quote as printed](quotes/d716-s71-believing-it-was-tapping-communications-between.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-120.md:66`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -105,7 +100,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > They are first seen launching from Sabaoth destroyers in battic over Geonosis, where they meet the Jedi starfighters of Adi Gallia and Siri Tachi.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Adi Gallia. POV: Adi Gallia.
 Note (our notes, around the quote): Adi Gallia: "They are first seen launching from Sabaoth destroyers in battic over Geonosis, where they meet the Jedi starfighters of Adi Gallia and Siri Tachi." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d728-s221-they-are-first-seen-launching-from.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:351`
 
 ## Star Wars Insider #67 (2003)
@@ -118,7 +112,6 @@ Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:575`
 
 - Note (summary from our notes, not a quotation): Adi Gallia — entry/section: Star Wars Galaxies: Lok: "The planet is exceedingly harsh, with the landscape dominated by a large volcano (known as "Adi's Rest," presumably named after Nym's one-time ally, the Jedi Adi Gallia)." Source: *Star Wars Insider #70* (2003), scan p.55
   — Source: Star Wars Insider #70 (2003).
-![Quote image: *Star Wars Insider #70* (2003), scan p.55 — full quote as printed](quotes/ins070-s55-the-planet-is-exceedingly-harsh-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:301`
 
 ## Star Wars Insider #88 (2006)
@@ -186,13 +179,13 @@ Our notes: `notes/materials/047-visual-dictionaries/vd1x-expanded.md:19`
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Grievous ambushes Adi Gallia and Soon Bayts](panels/ob4-p20-grievous-ambush.jpg)
+- Note (summary from our notes, not a quotation): ![Grievous ambushes Adi Gallia and Soon Bayts](../notes/materials/049-obsession/panels/ob4-p20-grievous-ambush.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:58`
 
 > I was built to kill your kind.
 — Source: Star Wars: Obsession: daily-image candidates; ![Grievous vs Adi Gallia.
-Note (our notes, around the quote): ![Grievous vs Adi Gallia: "I was built to kill your kind."](panels/ob5-p08-grievous-vs-gallia.jpg)
+Note (our notes, around the quote): ![Grievous vs Adi Gallia: "I was built to kill your kind."](../notes/materials/049-obsession/panels/ob5-p08-grievous-vs-gallia.jpg)
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:73`
 
 > Fortunately, we have some of the greatest minds in the Jedi Order at our disposal...

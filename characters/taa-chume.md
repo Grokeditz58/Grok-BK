@@ -18,7 +18,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Ta'a Chume began to plot a new pathway to power, working a deal with the Gorog hive to have Jacen and Tenel Ka's infant daughter killed.
 — Source: scan pages 201–240; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Jacen Solo (Darth Caedus): "Ta'a Chume began to plot a new pathway to power, working a deal with the Gorog hive to have Jacen and Tenel Ka's infant daughter killed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.208
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.208 — full quote as printed](quotes/v3-p208-taa-chume-began-to-plot-a.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:131`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -48,7 +47,6 @@ Our notes: `notes/materials/037-sw-d20-folder/595-part-2-return-to-the-planet-of
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Locations Planet Hoppers Hapes Ladies First Part 2 Return to the Planet of the Amazons (text copy `Roleplaying_Game_Revised_Core_Locations_Planet_Hoppers_Hapes_Ladies_First_Part_2_Return_to_the_Planet_of_the_Amazons_pdf_740c7d5675`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Roleplaying Game Revised Core Locations Planet Hoppers Hapes Ladies First Part 2 Return to the Planet of the Amazons (text copy `Roleplaying_Game_Revised_Core_Locations_Planet_Hoppers_Hapes_Ladies_First_Part_2_Return_to_the_Planet_of_the_Amazons_pdf_740c7d5675`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Bricker and Faal: "You are now guests of the Hapes Consortium. You will not speak unless spoken to. You will answer all of my questions, and the questions of my subordinates, or you will die. When I learn what I want to know, you may even be allowed to go free. I am the queen mother of the amazons of Hapes, Ta'a Chume, and until I say otherwise, you belong to me." Source: *Part 2 - Return to the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Part 2 - Return to the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d595-s3-you-are-now-guests-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/595-part-2-return-to-the-planet-of.md:24`
 
 ## Locations/Planet Hoppers/Hapes - Ladies First/Part 3 - Beneath the Planet of the Amazons.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -60,7 +58,6 @@ Our notes: `notes/materials/037-sw-d20-folder/596-part-3-beneath-the-planet-of-t
 > I seek information about one of your . . . kinsman. Another Hapan pirate, who has also left the galaxy behind. My son, Isolder.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 3 - Beneath the Planet.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Kelan Faal: "I seek information about one of your . . . kinsman. Another Hapan pirate, who has also left the galaxy behind. My son, Isolder." Source: *Part 3 - Beneath the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 3 - Beneath the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d596-s1-i-seek-information-about-one-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/596-part-3-beneath-the-planet-of-the.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: Execution threatened at dawn; Kelan's assurance; GM notes: "Ta'a Chume" is a title; Isolder hunting his brother's killer; stats Noble 19, Cha 22, gun of command, CL H; Part Four teaser; "Jedi Counseling" plug (hand-read)
@@ -70,7 +67,6 @@ Our notes: `notes/materials/037-sw-d20-folder/596-part-3-beneath-the-planet-of-t
 > Very well. I will have you executed if you do not reveal his location. You shall spill your blood on Hapan soil, pirate, and the women of Hapes will rejoice, because of the crimes they will be told you have committed. You have until dawn tomorrow to change your mind.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 3 - Beneath the Planet.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Kelan Faal: "Very well. I will have you executed if you do not reveal his location. You shall spill your blood on Hapan soil, pirate, and the women of Hapes will rejoice, because of the crimes they will be told you have committed. You have until dawn tomorrow to change your mind." Source: *Part 3 - Beneath the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 3 - Beneath the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d596-s2-very-well-i-will-have-you.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/596-part-3-beneath-the-planet-of-the.md:19`
 
 ## Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Planet of the Amazons.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -86,25 +82,21 @@ Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-
 > Shut up, mother, and order the release of Captain Bricker and the crew of the Mourning Glory. Immediately. After that, why don't you just stare into the sky for awhile?
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Pl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Isolder ("Kelan Faal") to Ta'a Chume: "Shut up, mother, and order the release of Captain Bricker and the crew of the Mourning Glory. Immediately. After that, why don't you just stare into the sky for awhile?" Source: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d597-s2-shut-up-mother-and-order-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-of.md:17`
 
 > Chume'da, leave this life and come home.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Pl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Isolder: "Chume'da, leave this life and come home." Source: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d597-s2-chumeda-leave-this-life-and-come.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-of.md:19`
 
 > I could still have you executed, but that moment seems to have passed. I could use this weapon to order you to leave and forget all you have seen, but eventually the memories would come back. I could imprison you forever, but frankly, your Corellian stench overwhelms me.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Pl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Bricker: "I could still have you executed, but that moment seems to have passed. I could use this weapon to order you to leave and forget all you have seen, but eventually the memories would come back. I could imprison you forever, but frankly, your Corellian stench overwhelms me." Source: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d597-s2-i-could-still-have-you-executed.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-of.md:21`
 
 > Do not push your luck, Corellian.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Pl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Bricker: "Do not push your luck, Corellian." Source: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d597-s3-do-not-push-your-luck-corellian.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-of.md:28`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

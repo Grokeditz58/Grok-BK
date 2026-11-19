@@ -63,7 +63,7 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-9-invincible-notes.md:2
 > Isolder and Djo soon had a daughter, Tenel Ka, who proved to be very strong in the Force.
 — Source: Part Six: Birth of the New Republic; Tenel Ka. POV: Tenel Ka, about Isolder.
 Note (our notes, around the quote): Tenel Ka: "Isolder and Djo soon had a daughter, Tenel Ka, who proved to be very strong in the Force." Source: The New Essential Chronology, p.145
-![Quote image: The New Essential Chronology, p.145 — full quote as printed](quotes/nec-p145-tenel-ka.jpg)
+![Quote image: The New Essential Chronology, p.145 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p145-tenel-ka.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:128`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -71,13 +71,11 @@ Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-th
 > Another, an Eliminator model 434, tried to kill Princess Leia Organa on Coruscant, but it was destroyed by Prince Isolder's bodyguard Captain Astarta.
 — Source: scan pages 41–80; Leia Organa Solo. POV: Leia Organa Solo, about Isolder.
 Note (our notes, around the quote): Leia Organa Solo: "Another, an Eliminator model 434, tried to kill Princess Leia Organa on Coruscant, but it was destroyed by Prince Isolder's bodyguard Captain Astarta." Source: The Complete Star Wars Encyclopedia, Vol. I, p.45
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.45 — full quote as printed](quotes/v1-p45-another-an-eliminator-model-434-tried.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:161`
 
 > Isolder refused and Caedus angrily strangled him with the Force, then ordered the Beam Racer destroyed.
 — Source: scan pages 41–80; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Jacen Solo (Darth Caedus): "Isolder refused and Caedus angrily strangled him with the Force, then ordered the Beam Racer destroyed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.65
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.65 — full quote as printed](quotes/v1-p65-isolder-refused-and-caedus-angrily-strangled.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:323`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -85,19 +83,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > But when Leia Organa Solo pleaded with the Consortium for help in combating the Yuuzhan Vong, it took an honor duel between Prince Isolder and Archon Beed Thane to get the necessary support.
 — Source: scan pages 1–40; Leia Organa Solo. POV: Leia Organa Solo, about Isolder.
 Note (our notes, around the quote): Leia Organa Solo: "But when Leia Organa Solo pleaded with the Consortium for help in combating the Yuuzhan Vong, it took an honor duel between Prince Isolder and Archon Beed Thane to get the necessary support." Source: The Complete Star Wars Encyclopedia, Vol. II, p.16
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.16 — full quote as printed](quotes/v2-p16-but-when-leia-organa-solo-pleaded.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:145`
 
 > Caedus's arrival came during his attempt to destroy the Jedi Order's base in the Transitory Mists, and Isolder believed that his interrogation had finally come.
 — Source: scan pages 121–160; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Jacen Solo (Darth Caedus): "Caedus's arrival came during his attempt to destroy the Jedi Order's base in the Transitory Mists, and Isolder believed that his interrogation had finally come." Source: The Complete Star Wars Encyclopedia, Vol. II, p.121
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.121 — full quote as printed](quotes/v2-p121-caeduss-arrival-came-during-his-attempt.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:54`
 
 > Isolder's freedom was only guaranteed if he removed himself from the battle zone, since Caedus and his technicians had rigged the Beam Racer to explode if it was shot just once.
 — Source: scan pages 121–160; Jacen Solo (Darth Caedus).
 Note (our notes, around the quote): Jacen Solo (Darth Caedus): "Isolder's freedom was only guaranteed if he removed himself from the battle zone, since Caedus and his technicians had rigged the Beam Racer to explode if it was shot just once." Source: The Complete Star Wars Encyclopedia, Vol. II, p.121
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.121 — full quote as printed](quotes/v2-p121-isolders-freedom-was-only-guaranteed-if.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:56`
 
 ## The New Essential Guide to Characters (2002)
@@ -105,7 +100,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > A noninterventionist Hapan ambassador, Archon Beed Thane of Vergill, deliberately insulted Leia in order to provoke Isolder into an honor duel.
 — Source: scan pages 61–90; Leia Organa Solo. POV: Leia Organa Solo, about Isolder.
 Note (our notes, around the quote): Leia Organa Solo: "A noninterventionist Hapan ambassador, Archon Beed Thane of Vergill, deliberately insulted Leia in order to provoke Isolder into an honor duel." Source: The New Essential Guide to Characters, p.87
-![Quote image: The New Essential Guide to Characters, p.87 — full quote as printed](quotes/negc-p87-a-noninterventionist-hapan-ambassador-archon-beed.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:149`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -123,7 +117,6 @@ Our notes: `notes/materials/037-sw-d20-folder/596-part-3-beneath-the-planet-of-t
 > I seek information about one of your . . . kinsman. Another Hapan pirate, who has also left the galaxy behind. My son, Isolder.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 3 - Beneath the Planet.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Kelan Faal: "I seek information about one of your . . . kinsman. Another Hapan pirate, who has also left the galaxy behind. My son, Isolder." Source: *Part 3 - Beneath the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 3 - Beneath the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d596-s1-i-seek-information-about-one-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/596-part-3-beneath-the-planet-of-the.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: Execution threatened at dawn; Kelan's assurance; GM notes: "Ta'a Chume" is a title; Isolder hunting his brother's killer; stats Noble 19, Cha 22, gun of command, CL H; Part Four teaser; "Jedi Counseling" plug (hand-read)
@@ -139,13 +132,11 @@ Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-
 > Shut up, mother, and order the release of Captain Bricker and the crew of the Mourning Glory. Immediately. After that, why don't you just stare into the sky for awhile?
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Pl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Isolder ("Kelan Faal") to Ta'a Chume: "Shut up, mother, and order the release of Captain Bricker and the crew of the Mourning Glory. Immediately. After that, why don't you just stare into the sky for awhile?" Source: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d597-s2-shut-up-mother-and-order-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-of.md:17`
 
 > Chume'da, leave this life and come home.
 — Source: Locations/Planet Hoppers/Hapes - Ladies First/Part 4 - Escape from the Pl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ta'a Chume to Isolder: "Chume'da, leave this life and come home." Source: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 4 - Escape from the Planet of the Amazons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d597-s2-chumeda-leave-this-life-and-come.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/597-part-4-escape-from-the-planet-of.md:19`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -163,7 +154,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Native witch Teneniel Djo married the off-worlder Prince Isolder to become the Queen Mother of the Hapes Consortium, while several other witches left the planet to study at Luke Skywalker’s Jedi academy.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Teneniel Djo; Luke Skywalker — entry/section: Teneniel Djo becomes Queen Mother: "Native witch Teneniel Djo married the off-worlder Prince Isolder to become the Queen Mother of the Hapes Consortium, while several other witches left the planet to study at Luke Skywalker’s Jedi academy." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32 — full quote as printed](quotes/d667-s32-native-witch-teneniel-djo-married-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:214`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

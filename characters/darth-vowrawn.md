@@ -15,37 +15,31 @@
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Jadus; Darth Thanaton; Darth Vowrawn — Spheres (top-right).
 Note (our notes, around the quote): Darth Jadus; Darth Thanaton; Darth Vowrawn — Spheres (top-right): "The Ministry of Intelligence and its many divisions answer to this sphere's current overseer, Darth Jadus. … After ascending to the Dark Council, Darth Thanaton oversees the ancient knowledge sphere and directs the Imperial Reclamation Service to excavate Sith artifacts for the good of the Empire. … Darth Vowrawn controls this sphere, and the Ministry of Logistics reports directly to him. … While overseeing this sphere, Darth Ravage favored acts of expansion over diplomacy." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-the-ministry-of-intelligence-and-its.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:353`
 
 > Vowrawn survived largely due to his reputation as a master gamesman; fueled by his enthusiastic passion for power grabs and well-played deception, Vowrawn has orchestrated the rise and fall of many a Dark Council member.
 — Source: The Sith; Darth Vowrawn — Darth Vowrawn.
 Note (our notes, around the quote): Darth Vowrawn — Darth Vowrawn: "Vowrawn survived largely due to his reputation as a master gamesman; fueled by his enthusiastic passion for power grabs and well-played deception, Vowrawn has orchestrated the rise and fall of many a Dark Council member." Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-vowrawn-survived-largely-due-to-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:374`
 
 > AGE: 76 SPECIES: Sith Pureblood SPHERE OF INFLUENCE: Production and Logistics APPRENTICE: Lord Qet FAVORITE LIBATIONS: Korriban Sunset, Dromund brandy, Dusk of Ragnos
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Vowrawn — Data box.
 Note (our notes, around the quote): Darth Vowrawn — Data box: "AGE: 76 SPECIES: Sith Pureblood SPHERE OF INFLUENCE: Production and Logistics APPRENTICE: Lord Qet FAVORITE LIBATIONS: Korriban Sunset, Dromund brandy, Dusk of Ragnos" Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-age-76-species-sith-pureblood-sphere.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:376`
 
 > FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Data box.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Data box: "FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-family-darth-ekkage-sister-rivals-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:396`
 
 - Note (summary from our notes, not a quotation): Naga Sadow; Darth Vowrawn; Darth Ikoral — Sith Pureblood data box: "BIOLOGICAL TRAITS: Often Force-sensitive; may show more or fewer "pureblooded" features depending on lineage NOTABLE SITH PUREBLOODS: Darth Ikoral, Naga Sadow, Darth Vowrawn" Source: The Old Republic Encyclopedia, p.256
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.256 — full quote as printed](quotes/tore-p256-biological-traits-often-force-sensitive-may.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:39`
 
 > The sculpture was originally commissioned by Lord Qet as a monument to the power of his Master, the Dark Council member Darth Vowrawn. But construction ended violently when the slave workforce revolted. Darth Vowrawn condemned the project, punished his apprentice for failing to keep the slaves in line, and executed the designer who so spectacularly failed to capture Vowrawn's grandiose stature.
 — Source: Species, technology, planets and the future; Darth Vowrawn — The Colossus box.
 Note (our notes, around the quote): Darth Vowrawn — The Colossus box: "The sculpture was originally commissioned by Lord Qet as a monument to the power of his Master, the Dark Council member Darth Vowrawn. But construction ended violently when the slave workforce revolted. Darth Vowrawn condemned the project, punished his apprentice for failing to keep the slaves in line, and executed the designer who so spectacularly failed to capture Vowrawn's grandiose stature." Source: The Old Republic Encyclopedia, p.304
-![Quote image: The Old Republic Encyclopedia, p.304 — full quote as printed](quotes/tore-p304-the-sculpture-was-originally-commissioned-by.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:341`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker) — Anakin's potential.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — Anakin's potential: "Shmi Skywalker had given birth to a child more powerful in the Force than any other in history" Source: The New Essential Chronology, p.32
-![Quote image: The New Essential Chronology, p.32 — full quote as printed](quotes/nec-p32-anakins-potential.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:28`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -25,7 +24,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Ghost Oasis The Tusken Raider name for the campsite that Anakin Skywalker destroyed in an act of revenge for the Tusken torture of his mother, Shmi." Source: The Complete Star Wars Encyclopedia, Vol. I, p.338
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.338 — full quote as printed](quotes/v1-p338-ghost-oasis-the-tusken-raider-name.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:228`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -39,7 +37,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Fortunately, Gardulla had also bought Anakin's mother, Shmi, and their strong bond made it possible for Anakin to survive his enslavement with remarkable good humor.
 — Source: scan pages 121–150; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Fortunately, Gardulla had also bought Anakin's mother, Shmi, and their strong bond made it possible for Anakin to survive his enslavement with remarkable good humor." Source: The New Essential Guide to Characters, p.155
-![Quote image: The New Essential Guide to Characters, p.155 — full quote as printed](quotes/negc-p155-fortunately-gardulla-had-also-bought-anakins.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:167`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -47,7 +44,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-1
 > Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Gardulla the Hutt; Jabba the Hutt; Shmi Skywalker; Darth Vader (Anakin Skywalker); Sebulba — entry/section: Gardulla the Hutt: "Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite." Source: *Secrets of Tatooine* (SWRPG d20), scan p.37
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.37 — full quote as printed](quotes/d045-s37-gambling-on-the-podraces-gradually-drained.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:220`
 
 - Note (summary from our notes, not a quotation): Page contents: 864 words, 22 paragraphs | headings/entries: The Slave Quarter; Slave Tracking Devices; Shmi Skywalker; Feats: Skill Emphasis (Craft [electronics}); CITIES OF TATOUINE
@@ -57,7 +53,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Anakin Skywalker's mother, Shmi, is a woman moved by destiny—some would say the Force—to bring about a great change in the galaxy. She does not know what that change will be, but she knows that it somehow involves her son.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Shmi Skywalker; Darth Vader (Anakin Skywalker) — entry/section: Shmi Skywalker.
 Note (our notes, around the quote): Shmi Skywalker; Darth Vader (Anakin Skywalker) — entry/section: Shmi Skywalker: "Anakin Skywalker's mother, Shmi, is a woman moved by destiny—some would say the Force—to bring about a great change in the galaxy. She does not know what that change will be, but she knows that it somehow involves her son." Source: *Secrets of Tatooine* (SWRPG d20), scan p.38
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.38 — full quote as printed](quotes/d045-s38-anakin-skywalkers-mother-shmi-is-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:233`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–118)
@@ -75,7 +70,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-11
 > Had Qui- Gon not been killed, or had Shmi Skywalker died before Anakin reached her, it would not have produced much of a response from the audience.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Had Qui- Gon not been killed, or had Shmi Skywalker died before Anakin reached her, it would not have produced much of a response from the audience." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.29
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.29 — full quote as printed](quotes/d666-s29-had-qui-gon-not-been-killed.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:168`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -210,7 +204,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:351`
 > It's a set that is not used to that emotional aspect. Even though Star Wars movies have a gripping, emotional quality to them, people weren't going in every day and crying, and leaving emotionally exhausted. I felt like I got a chance to do that.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Shmi Skywalker — entry/section: Hayden Christensen on scenes with Pernilla August: "Of shooting his powerful scenes with Pernilla August on the Clones set at Fox Studios Australia, the actor observed, "It's a set that is not used to that emotional aspect. Even though Star Wars movies have a gripping, emotional quality to them, people weren't going in every day and crying, and leaving emotionally exhausted. I felt like I got a chance to do that." —Hayden Christensen, Star Wars Insider 60, p. 50" Source: *Star Wars Insider #60* (2002), scan p.50
-![Quote image: *Star Wars Insider #60* (2002), scan p.50 — full quote as printed](quotes/ins060-s50-of-shooting-his-powerful-scenes-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:355`
 
 ## Star Wars Insider #66 (2003)
@@ -317,7 +310,6 @@ Our notes: `notes/materials/038-star-wars-insider/145-ins145.md:77`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #145 (2013).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Shmi Skywalker — entry/section: Allston on the Tusken massacre: ""But lack of empathy causes people to do cruel things without thought or reservation. Not every Tusken Raider Anakin killed was necessarily guilty of harming Shmi... but they all ended up identically dead." —Aaron Allston, Star Wars Insider 145, p. 14" Source: *Star Wars Insider #145* (2013), scan p.14
-![Quote image: *Star Wars Insider #145* (2013), scan p.14 — full quote as printed](quotes/ins145-s14-but-lack-of-empathy-causes-people.jpg)
 Our notes: `notes/materials/038-star-wars-insider/145-ins145.md:79`
 
 ## Star Wars Insider Special Edition (2012)

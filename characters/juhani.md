@@ -165,7 +165,6 @@ Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:39`
 
 - Note (summary from our notes, not a quotation): A: No, but she's not the most common type of Cathar. Juhani is a member of a somewhat stealthier subspecies with the ability to alter the pigments in their fur very quickly, thus creating a sort of instant camouflage (50% concealment as per a stealth field generator, above, except that it grants no bonus to characters using sensors to detect the Cathar). Using this ability requires focus and concentration on the part of the Cathar, who must use an attack action to activate or maintain this ability. This subspecies has less prominent claws than its larger relatives, so they do not have natural weapons (as per the Cathar species traits)." Source: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.4
   — Source: Jedi Counselling/Jedi Counseling 81.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 81* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d251-s4-q-juhani-a-cathar-jedi-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/251-jedi-counseling-81.md:40`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -177,7 +176,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > JUST LET ME VENT MY ANGER! I NEED SOMEONE TO BLAME . . . SOMETHING, ANYTHING!
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Juhani — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Juhani — entry/section: Pull quote: ""JUST LET ME VENT MY ANGER! I NEED SOMEONE TO BLAME . . . SOMETHING, ANYTHING!" —JUHANI" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.139
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.139 — full quote as printed](quotes/d718-s139-just-let-me-vent-my-anger.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:175`
 
 - Note (summary from our notes, not a quotation): Page contents: Juhani (Jedi Civil War) stats (Cathar Jedi 8, CL 8; Claw Lock, Lightsaber Throw); Vandar Tokare bio and stats (Dark Wars; Small Jedi 7/Jedi Knight 5/Jedi Master 5, CL 17; Ataru, Battle Meditation, Force Suppression; feats incl. Strong in the Force, Triple Crit). (hand-read)

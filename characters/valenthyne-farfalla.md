@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Lord Hoth; Valenthyne Farfalla — Jedi champions of the dark age.
 Note (our notes, around the quote): Lord Hoth; Valenthyne Farfalla — Jedi champions of the dark age: "raised their own champions, such as the stalwart Lord Hoth and his Army of Light, the charismatic Kiel Charny, and Lord Farfalla" Source: The New Essential Chronology, p.26
-![Quote image: The New Essential Chronology, p.26 — full quote as printed](quotes/nec-p26-jedi-champions-of-the-dark-age.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:222`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -27,7 +26,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > Within the ancient edifice, the Sith Lords attacked the Jedi team, and Bane beheaded Farfalla.
 — Source: scan pages 241–280; Valenthyne Farfalla — entry/section: Farfalla, Lord Valenthyne.
 Note (our notes, around the quote): Valenthyne Farfalla — entry/section: Farfalla, Lord Valenthyne: "Within the ancient edifice, the Sith Lords attacked the Jedi team, and Bane beheaded Farfalla." Source: The Complete Star Wars Encyclopedia, Vol. I, p.255
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.255 — full quote as printed](quotes/v1-p255-within-the-ancient-edifice-the-sith.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:187`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -35,19 +33,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > In a strange twist of fate, when Darth Bane set in motion his own plans to destroy the Brotherhood of Darkness, Farfalla was able to break through the blockade and land his reinforcements, and the combined Jedi forces began to turn the tide.
 — Source: scan pages 41–80; Darth Bane; Valenthyne Farfalla.
 Note (our notes, around the quote): Darth Bane; Valenthyne Farfalla: "In a strange twist of fate, when Darth Bane set in motion his own plans to destroy the Brotherhood of Darkness, Farfalla was able to break through the blockade and land his reinforcements, and the combined Jedi forces began to turn the tide." Source: The Complete Star Wars Encyclopedia, Vol. II, p.61
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.61 — full quote as printed](quotes/v2-p61-in-a-strange-twist-of-fate.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:188`
 
 > After delivering a warning about the impending detonation, Kopecz challenged Farfalla to a duel.
 — Source: scan pages 201–240; Lord Kopecz; Valenthyne Farfalla — entry/section: Kopecz, Lord.
 Note (our notes, around the quote): Lord Kopecz; Valenthyne Farfalla — entry/section: Kopecz, Lord: "After delivering a warning about the impending detonation, Kopecz challenged Farfalla to a duel." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-after-delivering-a-warning-about-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:325`
 
 > Lahzar and his forces were soundly defeated, but they delayed Farfalla sufficiently to allow the Sith to begin their attacks on Ruusan.
 — Source: scan pages 241–280; Valenthyne Farfalla. POV: Valenthyne Farfalla.
 Note (our notes, around the quote): Valenthyne Farfalla: "Lahzar and his forces were soundly defeated, but they delayed Farfalla sufficiently to allow the Sith to begin their attacks on Ruusan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-lahzar-and-his-forces-were-soundly.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:71`
 
 ## "My Problems with Caedus Wank: Why I find Caedus = Maul more believable than Caedus = Yoda" (Master Azronger)

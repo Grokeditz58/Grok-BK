@@ -36,7 +36,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Heroes visiting before The New Jedi Order period will find Bright Tree ruled by Chief Chirpa and the shaman Logray. Logray was banished after the Battle of Endor and replaced by Paploo; a few years later, Chirpa stepped down and Wicket became Bright Tree's chief.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Wicket W. Warrick — entry/section: Wicket becomes Bright Tree's chief.
 Note (our notes, around the quote): Wicket W. Warrick — entry/section: Wicket becomes Bright Tree's chief: "Heroes visiting before The New Jedi Order period will find Bright Tree ruled by Chief Chirpa and the shaman Logray. Logray was banished after the Battle of Endor and replaced by Paploo; a few years later, Chirpa stepped down and Wicket became Bright Tree's chief." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.43
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.43 — full quote as printed](quotes/d667-s43-heroes-visiting-before-the-new-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:291`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -142,7 +141,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:971`
 > We have just such an article lined up for an issue in the near future, complete with interviews with some of the stars you remember so fondly. Nothing's too good for our little Ewok buddies.
 — Source: Star Wars Insider #60 (2002); Wicket W. Warrick — entry/section: Editors on upcoming Ewok article.
 Note (our notes, around the quote): Wicket W. Warrick — entry/section: Editors on upcoming Ewok article: ""We have just such an article lined up for an issue in the near future, complete with interviews with some of the stars you remember so fondly. Nothing's too good for our little Ewok buddies." —Editors, Star Wars Insider 60, p. 123" Source: *Star Wars Insider #60* (2002), scan p.123
-![Quote image: *Star Wars Insider #60* (2002), scan p.123 — full quote as printed](quotes/ins060-s123-we-have-just-such-an-article.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:973`
 
 ## Star Wars Insider #62 (2002)
@@ -156,7 +154,6 @@ Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:387`
 > While we were in America, Kenny got ill, and they called me in at the last minute to do that scene with Carrie Fisher, and I became Wicket.
 — Source: Star Wars Insider #62 (2002); Wicket W. Warrick — entry/section: Warwick Davis on becoming Wicket.
 Note (our notes, around the quote): Wicket W. Warrick — entry/section: Warwick Davis on becoming Wicket: ""As soon as I saw R2-D2, I went over to him and started acting in an inquisitive nature, as you might do if you haven't seen something . . . being a younger Ewok, I was a bit foolhardy and more curious, and they liked that." Lucas and Marquand were impressed. "While we were in America, Kenny got ill, and they called me in at the last minute to do that scene with Carrie Fisher, and I became Wicket." —Warwick Davis, Star Wars Insider 62, p. 48" Source: *Star Wars Insider #62* (2002), scan p.48
-![Quote image: *Star Wars Insider #62* (2002), scan p.48 — full quote as printed](quotes/ins062-s48-as-soon-as-i-saw-r2.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:389`
 
 ## Star Wars Insider #67 (2003)
@@ -189,7 +186,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:265`
 > I think the animal forms I had in mind were perhaps a problem to animate, but I thought that they would be a little more believable.
 — Source: Star Wars Insider #79 (2005); Wicket W. Warrick — entry/section: McQuarrie's Ewoks.
 Note (our notes, around the quote): Wicket W. Warrick — entry/section: McQuarrie's Ewoks: ""I'd drawn some little creatures with long-haired, fuzzy, golden-furred heads and doglike snouts that I liked pretty well," he recalls. "I think the animal forms I had in mind were perhaps a problem to animate, but I thought that they would be a little more believable." —Ralph McQuarrie, Star Wars Insider 79, p. 55" Source: *Star Wars Insider #79* (2005), scan p.55
-![Quote image: *Star Wars Insider #79* (2005), scan p.55 — full quote as printed](quotes/ins079-s55-id-drawn-some-little-creatures-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:370`
 
 ## Star Wars Insider #81 (2005)
@@ -337,7 +333,6 @@ Our notes: `notes/materials/038-star-wars-insider/143-ins143.md:80`
 > [The Ewoks] showed how a short, very primitive species could go up against the technologically advanced Empire and win, because what they believed in was so great. I'm sure that was what George Lucas had in mind. Their passion and their belief in the cause was what allowed them to overcome this tremendous evil; the Empire was far too complacent.
 — Source: Star Wars Insider #143 (2013).
 Note (our notes, around the quote): Wicket W. Warrick — entry/section: Warwick Davis on the Ewoks beating the Empire: ""[The Ewoks] showed how a short, very primitive species could go up against the technologically advanced Empire and win, because what they believed in was so great. I'm sure that was what George Lucas had in mind. Their passion and their belief in the cause was what allowed them to overcome this tremendous evil; the Empire was far too complacent." —Warwick Davis (interviewed in Star Wars Insider #110, quoted), Star Wars Insider 143, p. 72" Source: *Star Wars Insider #143* (2013), scan p.72
-![Quote image: *Star Wars Insider #143* (2013), scan p.72 — full quote as printed](quotes/ins143-s72-the-ewoks-showed-how-a-short.jpg)
 Our notes: `notes/materials/038-star-wars-insider/143-ins143.md:383`
 
 ## Star Wars Insider #152 (2014)

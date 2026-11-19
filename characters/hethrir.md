@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Part Nine: Uprisings and Insurgencies.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious) — Hethrir trained by Vader: "During the Empire's reign, Hethrir and his mate, Rillao, had been trained by Darth Vader in the ways of the Dark Jedi. Palpatine was so impressed with Hethrir's abilities that he promoted him to Procurator of Justice" Source: The New Essential Chronology, p.177
-![Quote image: The New Essential Chronology, p.177 — full quote as printed](quotes/nec-p177-hethrir-trained-by-vader.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:11`
 
 > Chairman tyon tried to reassure the Chief of State by speculating that the Incident was a “coup abduc- Son’~in Codru-Ji society, chikiren of royal birth were routinely kidnapped and ransomed by rival political factions. The truth was much more complicated.
@@ -27,13 +26,11 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): art caption: "Hethrir, leader of the Empire Reborn, contemplates grand schemes." Source: The New Essential Chronology, p.177, caption
-![Quote image: The New Essential Chronology, p.177 — full quote as printed](quotes/nec-p177-caption-hethrir-leader-of-the-empire.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:13`
 
 > His skills with the dark side of the Force, while minor compared to those of Vader or Palpatine, were enough to win over any doubters.
 — Source: Part Nine: Uprisings and Insurgencies.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious) — Hethrir minor next to Vader or Palpatine: "His skills with the dark side of the Force, while minor compared to those of Vader or Palpatine, were enough to win over any doubters." Source: The New Essential Chronology, p.178
-![Quote image: The New Essential Chronology, p.178 — full quote as printed](quotes/nec-p178-hethrir-minor-next-to-vader-or.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:20`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -53,7 +50,6 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Han Solo; Leia Organa Solo; Luke Skywalker — Hethrir — rescue of the Solo children: "However, Han Solo, his wife Leia, and Luke Skywalker join with Rillao and manage to rescue the abductees, although Anakin is nearly lost." Source: Jedi Academy Training Manual, p.120
-![Quote image: Jedi Academy Training Manual, p.120 — full quote as printed](quotes/jatm-p120-hethrir-rescue-of-the-solo-children.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:60`
 
 > After pushing Rillao and their unborn son out of his life, Hethrir develops his abilities and proves his commitment by destroying his own homeworld of Firrerre.
@@ -69,7 +65,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Luke Skywalker; Kyle Katarn — Hethrir — the Reborn: "However, the Reborn are defeated by Luke Skywalker and Kyle Katarn." Source: Jedi Academy Training Manual, p.120
-![Quote image: Jedi Academy Training Manual, p.120 — full quote as printed](quotes/jatm-p120-hethrir-the-reborn.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:62`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -83,7 +78,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > Both had been students of Darth Vader, but while Hethrir embraced the dark side of the Force and even helped destroy his own world as proof of his loyalty to the Empire, Rillao's powers came from the light side and she fled with her unborn child.
 — Source: scan pages 241–280; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Both had been students of Darth Vader, but while Hethrir embraced the dark side of the Force and even helped destroy his own world as proof of his loyalty to the Empire, Rillao's powers came from the light side and she fled with her unborn child." Source: The Complete Star Wars Encyclopedia, Vol. III, p.247
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.247 — full quote as printed](quotes/v3-p247-both-had-been-students-of-darth.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:122`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -97,18 +91,15 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:117`
 > Eventually, Desann crossed paths with Imperial Admiral Galak Fyyar, who promptly took the Chistori to meet his obscure master, the Procurator of Justice Lord Hethrir. Despite the Procurator's prejudice toward aliens, Lord Hethrir made Desann his right hand in his Empire Reborn, reasoning that even Emperor Palpatine had made some exceptions.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Admiral Galak Fyyar; Lord Hethrir; Palpatine (Darth Sidious) — entry/section: Desann and Hethrir: "Eventually, Desann crossed paths with Imperial Admiral Galak Fyyar, who promptly took the Chistori to meet his obscure master, the Procurator of Justice Lord Hethrir. Despite the Procurator's prejudice toward aliens, Lord Hethrir made Desann his right hand in his Empire Reborn, reasoning that even Emperor Palpatine had made some exceptions." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-eventually-desann-crossed-paths-with-imperial.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:37`
 
 - Note (summary from our notes, not a quotation): Desann; Lord Hethrir; Tavion Axmis — entry/section: Desann trains Tavion: "Hethrir entrusted Desann with training a number of his Empire Youths, individuals who had shown a potent Force-sensitivity and devotion to Hethrir's cause and had been specially "purified" by a demigod known as Waru. Desann took one of these Youths, Tavion, as his apprentice. He even experimented with imbuing Human Empire Youths who had little to no talent in the Force -- chosen by Hethrir due to the magistrate’s racist philosophies -- with dark side powers using atrusian crystals and Sith alchemy." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-hethrir-entrusted-desann-with-training-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:39`
 
 > Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Lord Hethrir; Antinnis Tremayne; Kyle Katarn — entry/section: The Reborn: "Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-lastly-hethrir-tasked-desann-with-finding.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:41`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -116,7 +107,6 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > By deceiving Kyle Katarn into giving away the location of the Valley of the Jedi and the Force nexus located there, Hethrir increased his powers fourfold by absorbing energy from ancient Jedi and Sith spirits.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Kyle Katarn. POV: Kyle Katarn, about Hethrir.
 Note (our notes, around the quote): Kyle Katarn: "By deceiving Kyle Katarn into giving away the location of the Valley of the Jedi and the Force nexus located there, Hethrir increased his powers fourfold by absorbing energy from ancient Jedi and Sith spirits." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30 — full quote as printed](quotes/d731-s30-by-deceiving-kyle-katarn-into-giving.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:216`
 
 ## Star Wars Insider #82 (2005)

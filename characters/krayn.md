@@ -14,7 +14,6 @@
 > Though Krayn could have been apprehended, Anakin used his new lightsaber to burn a hole through the slaver's chest.
 — Source: Part Two: The Fall of the Republic; Darth Vader (Anakin Skywalker) — Anakin kills Krayn.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — Anakin kills Krayn: "Though Krayn could have been apprehended, Anakin used his new lightsaber to burn a hole through the slaver's chest." Source: The New Essential Chronology, p.47
-![Quote image: The New Essential Chronology, p.47 — full quote as printed](quotes/nec-p47-anakin-kills-krayn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:165`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,13 +25,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Anakin chased down Krayn and fought him, eventually disarming the larger man.
 — Source: scan pages 201–240; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Anakin chased down Krayn and fought him, eventually disarming the larger man." Source: The Complete Star Wars Encyclopedia, Vol. II, p.230
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.230 — full quote as printed](quotes/v2-p230-anakin-chased-down-krayn-and-fought.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:371`
 
 > Despite Obi-Wan's cries to keep Krayn alive, Anakin drove his lightsaber through Krayn's chest and killed him.
 — Source: scan pages 201–240; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker): "Despite Obi-Wan's cries to keep Krayn alive, Anakin drove his lightsaber through Krayn's chest and killed him." Source: The Complete Star Wars Encyclopedia, Vol. II, p.230
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.230 — full quote as printed](quotes/v2-p230-despite-obi-wans-cries-to-keep.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:373`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -40,7 +37,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > About three years after the Battle of Naboo, she worked with Anakin Skywalker to destroy Krayn's organization.
 — Source: scan pages 201–240; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "About three years after the Battle of Naboo, she worked with Anakin Skywalker to destroy Krayn's organization." Source: The Complete Star Wars Encyclopedia, Vol. III, p.210
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.210 — full quote as printed](quotes/v3-p210-about-three-years-after-the-battle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:147`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -52,7 +48,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > The galaxy has seen very little of the T’surr species, and thankfully so. Its most infamous representative is the notorious pirate and slave trader, Krayn, who not only plundered ships but also sold the captive crews into slavery.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Krayn — entry/section: T'surr.
 Note (our notes, around the quote): Krayn — entry/section: T'surr: "The galaxy has seen very little of the T’surr species, and thankfully so. Its most infamous representative is the notorious pirate and slave trader, Krayn, who not only plundered ships but also sold the captive crews into slavery." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.169
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.169 — full quote as printed](quotes/d673-s169-the-galaxy-has-seen-very-little.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-121-180.md:264`
 
 ## Star Wars Insider #57 (2001)
@@ -73,7 +68,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:406`
 > This wasn't gratuitous action, as it establishes Krayn's relationship with various other characters, not to mention his brutal ways. The Jedi Council figures into another extra scene.
 — Source: Star Wars Insider #57 (2001); Krayn — entry/section: Krayn in the comic.
 Note (our notes, around the quote): Krayn — entry/section: Krayn in the comic: ""I think there's a quite bit more space-pirate action in the comic," says Windham, explaining where he branched off from the novel's plot. "This wasn't gratuitous action, as it establishes Krayn's relationship with various other characters, not to mention his brutal ways. The Jedi Council figures into another extra scene." —Ryder Windham, Star Wars Insider 57, p. 73" Source: *Star Wars Insider #57* (2001), scan p.53
-![Quote image: *Star Wars Insider #57* (2001), scan p.53 — full quote as printed](quotes/ins057-s53-i-think-theres-a-quite-bit.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:408`
 
 ## Star Wars Insider #111 (2009)

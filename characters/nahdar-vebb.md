@@ -14,7 +14,6 @@
 > It was killed by Kit Fisto and Nahdar Vebb during the Clone Wars, when they infiltrated Grievous's sanctuary.
 — Source: scan pages 81–120; Kit Fisto; General Grievous.
 Note (our notes, around the quote): Kit Fisto; General Grievous: "It was killed by Kit Fisto and Nahdar Vebb during the Clone Wars, when they infiltrated Grievous's sanctuary." Source: The Complete Star Wars Encyclopedia, Vol. III, p.106
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.106 — full quote as printed](quotes/v3-p106-it-was-killed-by-kit-fisto.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:245`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -34,7 +33,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > [To Grievous] Don't make me destroy you!
 — Source: Star Wars Insider #106 (2009).
 Note (our notes, around the quote): Nahdar Vebb; General Grievous — entry/section: Nahdar Vebb to Grievous ("Lair of Grievous"): ""[To Grievous] Don't make me destroy you!" —Nahdar Vebb, Star Wars Insider 106, p. 16" Source: *Star Wars Insider #106* (2009), scan p.16
-![Quote image: *Star Wars Insider #106* (2009), scan p.16 — full quote as printed](quotes/ins106-s16-to-grievous-dont-make-me-destroy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:121`
 
 ## Star Wars Insider #124 (2011)

@@ -18,188 +18,157 @@ Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:3`
 > As the last survivors of those who sought a new path to power, we ultimately fell victim to the military excess of the Jedi at the Rout of Corbos.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "As the last survivors of those who sought a new path to power, we ultimately fell victim to the military excess of the Jedi at the Rout of Corbos." Source: Book of Sith, scan p.10
-![Quote image: Book of Sith, scan p.10 — full quote as printed](quotes/bos-s10-as-the-last-survivors-of-those.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:12`
 
 > For years, I extracted information from refugees and cataloged rumors, searching for proof that the kingdom of Sith—Sith Purebloods—existed.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "For years, I extracted information from refugees and cataloged rumors, searching for proof that the kingdom of Sith—Sith Purebloods—existed." Source: Book of Sith, scan p.10
-![Quote image: Book of Sith, scan p.10 — full quote as printed](quotes/bos-s10-for-years-i-extracted-information-from.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:14`
 
 > What lies before us is a limitless pool of steadfast warriors and an untapped wealth of knowledge about the dark side of the Force.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "What lies before us is a limitless pool of steadfast warriors and an untapped wealth of knowledge about the dark side of the Force." Source: Book of Sith, scan p.10
-![Quote image: Book of Sith, scan p.10 — full quote as printed](quotes/bos-s10-what-lies-before-us-is-a.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:16`
 
 > XKoKaan, myself, Ajunta Pall, an Drey par—not our Pending but rather our triumph over the Sith eee marked our arrival.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy; Sorzus Syn; Ajunta Pall.
 Note (our notes, around the quote): Sorzus Syn; Ajunta Pall: "XKoKaan, myself, Ajunta Pall, an Drey par—not our Pending but rather our triumph over the Sith eee marked our arrival." Source: Book of Sith, scan p.10
-![Quote image: Book of Sith, scan p.10 — full quote as printed](quotes/bos-s10-xkokaan-myself-ajunta-pall-an-drey.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:18`
 
 > I foresee what 3 y 3 will become a magnificent Sith Empire. < While Corbos was the last battle of the Hundred-Year Darkness, 5 : eS the conflict began with the most recent Great Schism.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I foresee what 3 y 3 will become a magnificent Sith Empire. < While Corbos was the last battle of the Hundred-Year Darkness, 5 : eS the conflict began with the most recent Great Schism." Source: Book of Sith, scan p.12
-![Quote image: Book of Sith, scan p.12 — full quote as printed](quotes/bos-s12-i-foresee-what-3-y-3.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:30`
 
 > It was the Jedi who took up arms to keep us from revealing the truth about the Force.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "It was the Jedi who took up arms to keep us from revealing the truth about the Force." Source: Book of Sith, scan p.14
-![Quote image: Book of Sith, scan p.14 — full quote as printed](quotes/bos-s14-it-was-the-jedi-who-took.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:42`
 
 > By boldly venturing into the Force's expanse, we gained powers that no Jedi had ever possessed.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "By boldly venturing into the Force's expanse, we gained powers that no Jedi had ever possessed." Source: Book of Sith, scan p.14
-![Quote image: Book of Sith, scan p.14 — full quote as printed](quotes/bos-s14-by-boldly-venturing-into-the-forces.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:44`
 
 > Until we annihilate the old Order, the pattern will continue repeating forever.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Until we annihilate the old Order, the pattern will continue repeating forever." Source: Book of Sith, scan p.14
-![Quote image: Book of Sith, scan p.14 — full quote as printed](quotes/bos-s14-until-we-annihilate-the-old-order.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:46`
 
 > Despite our obvious superior powers, we were not hailed as gods when we arrived.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Despite our obvious superior powers, we were not hailed as gods when we arrived." Source: Book of Sith, scan p.17
-![Quote image: Book of Sith, scan p.17 — full quote as printed](quotes/bos-s17-despite-our-obvious-superior-powers-we.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:63`
 
 > It took weeks for us to understand the power structure of their culture, to undermine it, and to annihilate the current king.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "It took weeks for us to understand the power structure of their culture, to undermine it, and to annihilate the current king." Source: Book of Sith, scan p.17
-![Quote image: Book of Sith, scan p.17 — full quote as printed](quotes/bos-s17-it-took-weeks-for-us-to.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:65`
 
 > Ajunta Pall beheaded their ruler, Hakagram Graush, and claimed the throne as the blood heir to the ancestral King Adas—and we became his Shadow Hands.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy; Sorzus Syn; Ajunta Pall; King Adas.
 Note (our notes, around the quote): Sorzus Syn; Ajunta Pall; King Adas: "Ajunta Pall beheaded their ruler, Hakagram Graush, and claimed the throne as the blood heir to the ancestral King Adas—and we became his Shadow Hands." Source: Book of Sith, scan p.17
-![Quote image: Book of Sith, scan p.17 — full quote as printed](quotes/bos-s17-ajunta-pall-beheaded-their-ruler-hakagram.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:67`
 
 > From that time on, I made it my goal to understand the Sith, Sith Space, and the treasures that might await us in this realm.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "From that time on, I made it my goal to understand the Sith, Sith Space, and the treasures that might await us in this realm." Source: Book of Sith, scan p.17
-![Quote image: Book of Sith, scan p.17 — full quote as printed](quotes/bos-s17-from-that-time-on-i-made.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:69`
 
 > It is where we erected our own palaces to rule as Sith % Lords.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "It is where we erected our own palaces to rule as Sith % Lords." Source: Book of Sith, scan p.18
-![Quote image: Book of Sith, scan p.18 — full quote as printed](quotes/bos-s18-it-is-where-we-erected-our.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:76`
 
 > The Sith respect power, and they are content to serve us.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "The Sith respect power, and they are content to serve us." Source: Book of Sith, scan p.18
-![Quote image: Book of Sith, scan p.18 — full quote as printed](quotes/bos-s18-the-sith-respect-power-and-they.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:78`
 
 > I know Dreypa, for one, has had his eye on a Sith
 > [fragment — full passage not on file]
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I know Dreypa, for one, has had his eye on a Sith" a we priestess." Source: Book of Sith, scan p.19
-![Quote image: Book of Sith, scan p.19 — full quote as printed](quotes/bos-s19-i-know-dreypa-for-one-has.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:85`
 
 > They are rooted in primitivism, while we were ofé ww once the Republic's greatest Jedi.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "They are rooted in primitivism, while we were ofé ww once the Republic's greatest Jedi." Source: Book of Sith, scan p.19
-![Quote image: Book of Sith, scan p.19 — full quote as printed](quotes/bos-s19-they-are-rooted-in-primitivism-while.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:87`
 
 > Those of us who came to this world with rank and ambition make up Ziost's new Sith Council.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Those of us who came to this world with rank and ambition make up Ziost's new Sith Council." Source: Book of Sith, scan p.20
-![Quote image: Book of Sith, scan p.20 — full quote as printed](quotes/bos-s20-those-of-us-who-came-to.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:94`
 
 > The Sith caste system under our rufe—our will is imposed on the Kisses priests, the Zuguruk engineers, an) the Massassi warriors.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "The Sith caste system under our rufe—our will is imposed on the Kisses priests, the Zuguruk engineers, an) the Massassi warriors." Source: Book of Sith, scan p.20
-![Quote image: Book of Sith, scan p.20 — full quote as printed](quotes/bos-s20-the-sith-caste-system-under-our.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:96`
 
 > Sith Sword: While we exiles wielded lightsabers when we fought the Hundred-Year Darkness, the Sith have developed edged weapons honed and strengthened through the Force— mirrors of the swords carried by the first Jedi on Tython.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Sith Sword: While we exiles wielded lightsabers when we fought the Hundred-Year Darkness, the Sith have developed edged weapons honed and strengthened through the Force— mirrors of the swords carried by the first Jedi on Tython." Source: Book of Sith, scan p.22
-![Quote image: Book of Sith, scan p.22 — full quote as printed](quotes/bos-s22-sith-sword-while-we-exiles-wielded.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:108`
 
 > Sith abbatar: Were it not for this relic, I would not have attained such easy mastery of the Sith tongue.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Sith abbatar: Were it not for this relic, I would not have attained such easy mastery of the Sith tongue." Source: Book of Sith, scan p.24
-![Quote image: Book of Sith, scan p.24 — full quote as printed](quotes/bos-s24-sith-abbatar-were-it-not-for.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:120`
 
 > The third shall be far stronger than the others, and it shall be mine alone.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "The third shall be far stronger than the others, and it shall be mine alone." Source: Book of Sith, scan p.26
-![Quote image: Book of Sith, scan p.26 — full quote as printed](quotes/bos-s26-the-third-shall-be-far-stronger.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:132`
 
 > Here I found scrolls detailing Sith alchemy.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Here I found scrolls detailing Sith alchemy." Source: Book of Sith, scan p.29
-![Quote image: Book of Sith, scan p.29 — full quote as printed](quotes/bos-s29-here-i-found-scrolls-detailing-sith.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:149`
 
 > I believe the Sith Purebloods may have built their first holocron after wresting the secret from the ancient alien conquerors, the Rakata.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I believe the Sith Purebloods may have built their first holocron after wresting the secret from the ancient alien conquerors, the Rakata." Source: Book of Sith, scan p.30
-![Quote image: Book of Sith, scan p.30 — full quote as printed](quotes/bos-s30-i-believe-the-sith-purebloods-may.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:156`
 
 > Within the Nakgru Holocron, I learned the history of the Sith Purebloods in vivid detail not found through oral histories or brittle scrolls.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Within the Nakgru Holocron, I learned the history of the Sith Purebloods in vivid detail not found through oral histories or brittle scrolls." Source: Book of Sith, scan p.32
-![Quote image: Book of Sith, scan p.32 — full quote as printed](quotes/bos-s32-within-the-nakgru-holocron-i-learned.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:168`
 
 > I learned these warlike people are living proof that the smug Jedi who banished us are wrong about the dark side.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I learned these warlike people are living proof that the smug Jedi who banished us are wrong about the dark side." Source: Book of Sith, scan p.32
-![Quote image: Book of Sith, scan p.32 — full quote as printed](quotes/bos-s32-i-learned-these-warlike-people-are.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:170`
 
 > Since gaining this knowledge, I have sought out these conquered Sith worlds to gather information.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Since gaining this knowledge, I have sought out these conquered Sith worlds to gather information." Source: Book of Sith, scan p.35
-![Quote image: Book of Sith, scan p.35 — full quote as printed](quotes/bos-s35-since-gaining-this-knowledge-i-have.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:189`
 
 > I confirmed the Sith indeed struck the Republic world of Draethos, though the time frame remains murky.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I confirmed the Sith indeed struck the Republic world of Draethos, though the time frame remains murky." Source: Book of Sith, scan p.35
-![Quote image: Book of Sith, scan p.35 — full quote as printed](quotes/bos-s35-i-confirmed-the-sith-indeed-struck.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:191`
 
 > Sith alchemists have had ages to perfect their art, and their knowledge is now mine.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Sith alchemists have had ages to perfect their art, and their knowledge is now mine." Source: Book of Sith, scan p.40
-![Quote image: Book of Sith, scan p.40 — full quote as printed](quotes/bos-s40-sith-alchemists-have-had-ages-to.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:218`
 
 > Alchemy is my science, yet I have found the Sith Purebloods possess a new understanding of how to manipulate the dark side.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Alchemy is my science, yet I have found the Sith Purebloods possess a new understanding of how to manipulate the dark side." Source: Book of Sith, scan p.42
-![Quote image: Book of Sith, scan p.42 — full quote as printed](quotes/bos-s42-alchemy-is-my-science-yet-i.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:230`
 
 > Proof is in the Sith scrolls I acquired.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Proof is in the Sith scrolls I acquired." Source: Book of Sith, scan p.44
-![Quote image: Book of Sith, scan p.44 — full quote as printed](quotes/bos-s44-proof-is-in-the-sith-scrolls.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:242`
 
 > If we were to create a Sith Code, it must point to the failings of Jedi beliefs while laying bare a path to mastery of the Force.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "If we were to create a Sith Code, it must point to the failings of Jedi beliefs while laying bare a path to mastery of the Force." Source: Book of Sith, scan p.46
-![Quote image: Book of Sith, scan p.46 — full quote as printed](quotes/bos-s46-if-we-were-to-create-a.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:254`
 
 > “Through victory, my chains are broken.”
@@ -208,25 +177,21 @@ Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:254`
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Knight Errant (John Jackson Miller), Chapter Seven (text copy `MEGA_Legend_Standalones_Star_Wars_Knight_Errant_John_Jackson_Miller_epub`).)
 Note (our notes, around the quote): Sorzus Syn: "Through victory my chains are broken, The Force shall 'free me." Source: Book of Sith, scan p.47
-![Quote image: Book of Sith, scan p.47 — full quote as printed](quotes/bos-s47-through-victory-my-chains-are-broken.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:261`
 
 > I know the Jedi myth of Mortis, of a Chosen One who will destroy the dark side and bring balance to the Force.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I know the Jedi myth of Mortis, of a Chosen One who will destroy the dark side and bring balance to the Force." Source: Book of Sith, scan p.47
-![Quote image: Book of Sith, scan p.47 — full quote as printed](quotes/bos-s47-i-know-the-jedi-myth-of.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:263`
 
 > I admire the first tenet, because breaking chains is the essence of the dark side and the foundation of my own Sith Code.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "I admire the first tenet, because breaking chains is the essence of the dark side and the foundation of my own Sith Code." Source: Book of Sith, scan p.48
-![Quote image: Book of Sith, scan p.48 — full quote as printed](quotes/bos-s48-i-admire-the-first-tenet-because.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:270`
 
 > Though I have never put my faith in farseeing, I remain convinced the Force called me here.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy. POV: Sorzus Syn.
 Note (our notes, around the quote): Sorzus Syn: "Though I have never put my faith in farseeing, I remain convinced the Force called me here." Source: Book of Sith, scan p.48
-![Quote image: Book of Sith, scan p.48 — full quote as printed](quotes/bos-s48-though-i-have-never-put-my.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:272`
 
 ## https://starwars.fandom.com/wiki/Darth_Plagueis/Legends

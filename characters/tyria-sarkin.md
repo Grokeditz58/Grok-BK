@@ -28,7 +28,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Tainer, Doran Born to Kell Tainer and Tyria Sarkin several years after the defeat of Warlord Zsinj, Doran studied at Luke Skywalker's Jedi praxeum after the Yuuzhan Vong War and trained to become a Jedi.
 — Source: scan pages 201–240; Luke Skywalker. POV: Luke Skywalker, about Tyria Sarkin.
 Note (our notes, around the quote): Luke Skywalker: "Tainer, Doran Born to Kell Tainer and Tyria Sarkin several years after the defeat of Warlord Zsinj, Doran studied at Luke Skywalker's Jedi praxeum after the Yuuzhan Vong War and trained to become a Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.212
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.212 — full quote as printed](quotes/v3-p212-tainer-doran-born-to-kell-tainer.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:167`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

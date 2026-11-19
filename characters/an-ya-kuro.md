@@ -20,7 +20,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): An'ya Kuro (Dark Woman) — entry/section: Dark Woman: "His entire unit was wiped out at the Battle of Geonosis and he was reassigned to Omega Squad." Source: The Complete Star Wars Encyclopedia, Vol. I, p.169
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.169 — full quote as printed](quotes/v1-p169-his-entire-unit-was-wiped-out.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:209`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -38,13 +37,11 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Her apprentices could expect at least one lightsaber duel with her every week.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): An'ya Kuro (Dark Woman) — entry/section: The Dark Woman, Jedi Master: "Her apprentices could expect at least one lightsaber duel with her every week." Source: Power of the Jedi Sourcebook, p.120
-![Quote image: Power of the Jedi Sourcebook, p.120 — full quote as printed](quotes/potj-p120-her-apprentices-could-expect-at-least.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:212`
 
 > Though she knew she had not killed Aurra, the Dark Woman began to wonder if Aurra had left to avoid the punishing exercises.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): An'ya Kuro (Dark Woman) — entry/section: The Dark Woman, Jedi Master: "Though she knew she had not killed Aurra, the Dark Woman began to wonder if Aurra had left to avoid the punishing exercises." Source: Power of the Jedi Sourcebook, p.120
-![Quote image: Power of the Jedi Sourcebook, p.120 — full quote as printed](quotes/potj-p120-though-she-knew-she-had-not.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:214`
 
 ## The New Essential Guide to Characters (2002)
@@ -52,13 +49,11 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Shortly before the Battle of Yavin, Vader killed the Dark Woman, one of the last stragglers from the Jedi Purge and a woman who'd known Anakin when he was still an uncorrupted boy.
 — Source: scan pages 121–150; Darth Vader (Anakin Skywalker); An'ya Kuro (Dark Woman).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); An'ya Kuro (Dark Woman): "Shortly before the Battle of Yavin, Vader killed the Dark Woman, one of the last stragglers from the Jedi Purge and a woman who'd known Anakin when he was still an uncorrupted boy." Source: The New Essential Guide to Characters, p.156
-![Quote image: The New Essential Guide to Characters, p.156 — full quote as printed](quotes/negc-p156-shortly-before-the-battle-of-yavin.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:176`
 
 > Rumor has it that she located the legendary Jedi Master known as the Dark Woman hiding on Cophrigin V, but the Emperor gave that particular extermination job to Darth Vader.
 — Source: scan pages 151–180; An'ya Kuro (Dark Woman); Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): An'ya Kuro (Dark Woman); Darth Vader (Anakin Skywalker): "Rumor has it that she located the legendary Jedi Master known as the Dark Woman hiding on Cophrigin V, but the Emperor gave that particular extermination job to Darth Vader." Source: The New Essential Guide to Characters, p.161
-![Quote image: The New Essential Guide to Characters, p.161 — full quote as printed](quotes/negc-p161-rumor-has-it-that-she-located.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:43`
 
 ## Characters/Hutts/Wallanooga and Dreddon.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -68,7 +63,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Aurra Sing; An'ya Kuro (Dark Woman) — entry/section: Aurra Sing's capture and sale: "Years before the Trade Federation's blockade of Naboo, the notorious Jedi killer Aurra Sing was herself a Jedi trainee apprenticed to the Dark Woman, a Jedi Master so devoted to the Force she had even forsaken her own name. Sennex pirates captured young Aurra on Ord Namurt, and her master believed the girl was lost. The pirates told Aurra that her master had abandoned her, and her hatred for the Jedi grew. She was soon purchased by Wallanooga the Hutt, who had her trained by Anzati assassins." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d090-s1-years-before-the-trade-federations-blockade.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:14`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

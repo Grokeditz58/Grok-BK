@@ -15,90 +15,75 @@
 > [fragment — full passage not on file]
 — Source: The Jedi Order.
 Note (our notes, around the quote): Satele Shan; Darth Malgus; Darth Baras; Hero of Tython (Jedi Knight) — Satele data box: "FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-famous-allies-the-hero-of-tython.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:202`
 
 > Master Orgus Din spent more time serving among Republic soldiers than anyone else in the Order.
 — Source: The Jedi Order; Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din.
 Note (our notes, around the quote): Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din: "Master Orgus Din spent more time serving among Republic soldiers than anyone else in the Order." Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-master-orgus-din-spent-more-time.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:227`
 
 > He guided the Order's resurgence and took on his first Padawan in many years—the Knight who would become known as the Hero of Tython.
 — Source: The Jedi Order; Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din.
 Note (our notes, around the quote): Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din: "He guided the Order's resurgence and took on his first Padawan in many years—the Knight who would become known as the Hero of Tython." Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-he-guided-the-order-s-resurgence.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:229`
 
 > A lone Jedi Knight must survive war, darkness, and betrayal to save the besieged Republic from the malevolent Sith Empire's mightiest warriors.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight) — Top-right tagline: Jedi Knight story tagline: "A lone Jedi Knight must survive war, darkness, and betrayal to save the besieged Republic from the malevolent Sith Empire's mightiest warriors." Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-a-lone-jedi-knight-must-survive.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:284`
 
 > ONE OF THE STRONGEST PADAWANS the Jedi have seen for generations races into peril when a surprise attack by savage native warriors nearly devastates the Order on Tython.
 — Source: The Jedi Order; Hero of Tython (Jedi Knight) — To Battle with Darkness intro.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight) — To Battle with Darkness intro: "ONE OF THE STRONGEST PADAWANS the Jedi have seen for generations races into peril when a surprise attack by savage native warriors nearly devastates the Order on Tython." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-one-of-the-strongest-padawans-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:286`
 
 > The Knight races across the galaxy on a desperate hunt for Darth Angral's battle cruiser and its Desolator superweapon, a devastating device capable of laying waste to entire Republic worlds. The Knight survives impossible odds to defeat Angral's menacing Sith apprentices and thwart their plans to unleash world-shattering destruction.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Darth Angral — The Vengeance of Darth Angral: "The Knight races across the galaxy on a desperate hunt for Darth Angral's battle cruiser and its Desolator superweapon, a devastating device capable of laying waste to entire Republic worlds. The Knight survives impossible odds to defeat Angral's menacing Sith apprentices and thwart their plans to unleash world-shattering destruction." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-the-knight-races-across-the-galaxy.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:288`
 
 > As Darth Angral brings the Desolator superweapon to bear on the Jedi homeworld of Tython, the Knight races to confront Angral in a final duel to decide the fate of the Jedi Order. Though Darth Angral falls in defeat, the Empire he served breaks the Treaty of Coruscant to war against the Republic once more.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Darth Angral — The Vengeance of Darth Angral: "As Darth Angral brings the Desolator superweapon to bear on the Jedi homeworld of Tython, the Knight races to confront Angral in a final duel to decide the fate of the Jedi Order. Though Darth Angral falls in defeat, the Empire he served breaks the Treaty of Coruscant to war against the Republic once more." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-as-darth-angral-brings-the-desolator.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:290`
 
 > The Emperor is more than a man—he is the living embodiment of the dark side. Armed with incalculable powers of corruption, the Emperor easily defeats the Knight, Master Braga, and their fellow Jedi, twisting them all to the dark side.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Hero of Tython (Jedi Knight); Tol Braga — Hunt for the Sith Emperor: "The Emperor is more than a man—he is the living embodiment of the dark side. Armed with incalculable powers of corruption, the Emperor easily defeats the Knight, Master Braga, and their fellow Jedi, twisting them all to the dark side." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-the-emperor-is-more-than-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:292`
 
 > When Master Orgus Din, an old ally reaches out through the Force, the Knight is able to break the Emperor's mental domination.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Orgus Din; Vitiate (the Sith Emperor) — Hunt for the Sith Emperor: "When Master Orgus Din, an old ally reaches out through the Force, the Knight is able to break the Emperor's mental domination." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-when-master-orgus-din-an-old.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:294`
 
 - Note (summary from our notes, not a quotation): Lord Scourge; Hero of Tython (Jedi Knight) — Hunt for the Sith Emperor: "There is one final surprise in store, however: a confrontation with Sith executioner Lord Scourge, the notorious "Emperor's Wrath." To the heroes' stunned surprise, Lord Scourge pledges to help the Knight defeat the Emperor; he surrenders and demands to be taken before the Jedi High Council." Source: The Old Republic Encyclopedia, p.92
   — Source: The Jedi Order.
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-there-is-one-final-surprise-in.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:296`
 
 > Scourge experienced a vision that revealed his Master's secret plot—and the brave Jedi Knight who would thwart it.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Lord Scourge; Hero of Tython (Jedi Knight) — Racing Against Doomsday (top-right): "Scourge experienced a vision that revealed his Master's secret plot—and the brave Jedi Knight who would thwart it." Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-scourge-experienced-a-vision-that-revealed.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:300`
 
 > In a final apocalyptic duel, the Knight battles the Sith Emperor for the fate of the galaxy—and changes it forever.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Vitiate (the Sith Emperor) — Racing Against Doomsday (top-right): "In a final apocalyptic duel, the Knight battles the Sith Emperor for the fate of the galaxy—and changes it forever." Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-in-a-final-apocalyptic-duel-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:304`
 
 > With the galaxy's fate hanging in the balance, the Sith Emperor unleashes his terrifying power on the lone Jedi Knight.
 — Source: The Jedi Order; Vitiate (the Sith Emperor); Hero of Tython (Jedi Knight) — caption.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Hero of Tython (Jedi Knight) — caption: "With the galaxy's fate hanging in the balance, the Sith Emperor unleashes his terrifying power on the lone Jedi Knight." Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-with-the-galaxy-s-fate-hanging.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:306`
 
 > In an ancient ruined temple on the Sith Empire's capital world of Dromund Kaas, the Knight and trusty astromech droid T7-01 stand triumphant over the defeated Emperor. But can such relentless evil truly die?
 — Source: The Jedi Order; Hero of Tython (Jedi Knight); Vitiate (the Sith Emperor) — caption.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Vitiate (the Sith Emperor) — caption: "In an ancient ruined temple on the Sith Empire's capital world of Dromund Kaas, the Knight and trusty astromech droid T7-01 stand triumphant over the defeated Emperor. But can such relentless evil truly die?" Source: The Old Republic Encyclopedia, p.93, sidebar
-![Quote image: The Old Republic Encyclopedia, p.93 — full quote as printed](quotes/tore-p93-in-an-ancient-ruined-temple-on.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:308`
 
 > When the Dark Council suffers multiple losses in the war and the Emperor vanishes after battling a lone Jedi Knight on Dromund Kaas, Darth Malgus senses the opportunity to seize supreme authority. Malgus summons his allies to the Emperor's abandoned space fortress and broadcasts a galaxy-wide message declaring himself leader of a new Empire.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Malgus; Vitiate (the Sith Emperor); Hero of Tython (Jedi Knight) — Taking the Throne: "When the Dark Council suffers multiple losses in the war and the Emperor vanishes after battling a lone Jedi Knight on Dromund Kaas, Darth Malgus senses the opportunity to seize supreme authority. Malgus summons his allies to the Emperor's abandoned space fortress and broadcasts a galaxy-wide message declaring himself leader of a new Empire." Source: The Old Republic Encyclopedia, p.169, sidebar
-![Quote image: The Old Republic Encyclopedia, p.169 — full quote as printed](quotes/tore-p169-when-the-dark-council-suffers-multiple.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:305`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -112,7 +97,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Wesell escaped to the Outlander Club, but Jango refused to have his plans compromised and killed Wesell with a poison dart as the Jedi were about to capture her.
 — Source: scan pages 321–360; Hero of Tython; Jango Fett.
 Note (our notes, around the quote): Hero of Tython; Jango Fett: "Wesell escaped to the Outlander Club, but Jango refused to have his plans compromised and killed Wesell with a poison dart as the Jedi were about to capture her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.327
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.327 — full quote as printed](quotes/v3-p327-wesell-escaped-to-the-outlander-club.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:98`
 
 ## Locations/Planet Hoppers/Coruscant - Center of the Empire/Part 4 - Eyes of Red and Blue.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -129,7 +113,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 
 - Note (summary from our notes, not a quotation): Hero of Tython: "Roxe also owns several nightclubs, including the Outlander, which has made him a target for rival gangsters who periodically try to put "the wolfman" in his place." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.27
   — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game. POV: Hero of Tython.
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.27 — full quote as printed](quotes/d665-s27-roxe-also-owns-several-nightclubs-including.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:163`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

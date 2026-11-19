@@ -44,17 +44,17 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:18`
 
 - Note (summary from our notes, not a quotation): Exar studies forbidden Sith lore on Ossus; Arca refuses to help him (p5–7). Nomi sees through the Krath space-grazer illusions at Koros Major (p12–14). Exar saves Naddists Nebo and Rask on Dxun, kills beasts, opens the Mandalorian-iron tomb with Nadd's help, and kills the Naddists (p16–22). Nomi tears Aleema's illusion apart (p24–25); Ulic is wounded by Krath kamikaze slag (p26–27). Korriban revealed (p28).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](panels/dlots2-p07-exar-arca-refuses.jpg)
+![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p07-exar-arca-refuses.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:33`
 
 - Note (summary from our notes, not a quotation): The Jedi assembly on Deneba (Odan-Urr presiding). Nadd's spirit collapses the Korriban crystal mausoleum on Exar (p12–13); Exar accepts the dark side to live (p16–17). Krath war droids attack Deneba; Arca is killed from behind (p21–22). Exar reads Sith glyphs and kills the tomb guardians in anger (p23–26). Ulic decides to destroy the Krath from within (p27).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p13: Korriban mausoleum collapse](024-tales-of-the-jedi/panels/dlots3-p13-korriban-collapse.jpg)
-![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
-![Dark Lords of the Sith #3 p22: Arca Jeth passes into the Force](024-tales-of-the-jedi/panels/dlots3-p22-arca-body-vanishes.jpg)
-![Dark Lords of the Sith #3 p24: Exar Kun: "This is astounding! I can read these Sith hieroglyphs now!" (notes cite p23)](024-tales-of-the-jedi/panels/dlots3-p24-exar-reads-sith-glyphs.jpg)
-![Dark Lords of the Sith #3 p25: The Korriban tomb guardians attack Exar Kun](024-tales-of-the-jedi/panels/dlots3-p25-tomb-guardians-attack.jpg)
-![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](024-tales-of-the-jedi/panels/dlots3-p26-river-of-rage.jpg)
+![Dark Lords of the Sith #3 p13: Korriban mausoleum collapse](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p13-korriban-collapse.jpg)
+![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
+![Dark Lords of the Sith #3 p22: Arca Jeth passes into the Force](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p22-arca-body-vanishes.jpg)
+![Dark Lords of the Sith #3 p24: Exar Kun: "This is astounding! I can read these Sith hieroglyphs now!" (notes cite p23)](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p24-exar-reads-sith-glyphs.jpg)
+![Dark Lords of the Sith #3 p25: The Korriban tomb guardians attack Exar Kun](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p25-tomb-guardians-attack.jpg)
+![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p26-river-of-rage.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:37`
 
 - Note (summary from our notes, not a quotation): Massassi seize Exar on Yavin 4 (p4–9). Ood Bnar and Odan-Urr warn Ulic (p10–12); Cay's farewell (p13). Ulic joins the Krath by "saving" Aleema (p17–21). The Sith amulet clamps to Exar's arm; he destroys Sadow's alchemical horrors (p22–24) and kills Nadd's spirit (p25–26).
@@ -63,13 +63,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:40`
 
 - Note (summary from our notes, not a quotation): Draws on Nadd's help to breach Freedon Nadd's Mandalorian-iron tomb on Dxun. Source: Dark Lords of the Sith #2, p19–20
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p19: Exar Kun's lightsaber cuts through the Mandalorian iron of Nadd's tomb, helped by a power that wants to help him](panels/dlots2-p19-exar-breaches-nadd-tomb.jpg)
+![Dark Lords of the Sith #2 p19: Exar Kun's lightsaber cuts through the Mandalorian iron of Nadd's tomb, helped by a power that wants to help him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p19-exar-breaches-nadd-tomb.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:54`
 
 - Note (summary from our notes, not a quotation): With his light side blocked and Nadd holding his lightsaber, kills the Korriban tomb guardians with anger. Source: Dark Lords of the Sith #3, p23–26
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p25: The Korriban tomb guardians attack Exar Kun](panels/dlots3-p25-tomb-guardians-attack.jpg)
-![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](panels/dlots3-p26-river-of-rage.jpg)
+![Dark Lords of the Sith #3 p25: The Korriban tomb guardians attack Exar Kun](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p25-tomb-guardians-attack.jpg)
+![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p26-river-of-rage.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:62`
 
 > AS HE DIES A SECOND DEATH, NADD REACHES OUT IN DESPERATION TO OTHERS HE HAS LED DOWN THE DARK PATH--
@@ -92,7 +92,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:66`
 > EXAR KUN WILL USE THE DARK SIDE THAT IS HIS TRUE POWER NOW!
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Massassi Zythmnr about Exar Kun. POV: Massassi Zythmnr, about Freedon Nadd.
 Note (our notes, around the quote): Massassi Zythmnr about Exar Kun: "MNNT YYTL GYTHH...WYRL TMMN ZYRTH!!" "HE IS THE ONE WE HAVE WAITED FOR...BRING HIM TO THE TEMPLE OF FIRE!" Freedon Nadd (watching): "THE FOOL...I HAVE GIVEN HIM EVERYTHING AND HE STILL PRETENDS NOTHING HAS CHANGED." "I MADE CERTAIN HIS SEDUCTION WAS COMPLETE." "EXAR KUN WILL USE THE DARK SIDE THAT IS HIS TRUE POWER NOW!" Source: Dark Lords of the Sith #4, p9
-![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](panels/dlots4-p09-zythmnr-the-one.jpg)
+![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p09-zythmnr-the-one.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:90`
 
 > ...RIVER OF RAGE FLOWS UNIMPEDED THROUGH EXAR KUN, AND HE EASILY DEMOLISHES THE TOMB GUARDIANS.
@@ -102,7 +102,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:90`
 > [fragment — full passage not on file]
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Narration on Exar Kun. POV: narrator, about Freedon Nadd.
 Note (our notes, around the quote): Narration on Exar Kun: "...RIVER OF RAGE FLOWS UNIMPEDED THROUGH EXAR KUN, AND HE EASILY DEMOLISHES THE TOMB GUARDIANS." · NARRATION. Spectral voice (ancient Sith Lords, UNCLEAR) to Freedon Nadd about Exar Kun: "HE IS READY, NADD." Source: Dark Lords of the Sith #3, p26
-![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](panels/dlots3-p26-river-of-rage.jpg)
+![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p26-river-of-rage.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:92`
 
 > MY CHILDREN--I COME TO WARN YOU! IT IS NOT QEL-DROMA YOU MUST FEAR!
@@ -117,7 +117,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:92`
 > [fragment — full passage not on file]
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Freedon Nadd's spirit (dying) to Satal and Aleema Keto. POV: Freedon Nadd's spirit.
 Note (our notes, around the quote): Freedon Nadd's spirit (dying) to Satal and Aleema Keto: "MY CHILDREN--I COME TO WARN YOU! IT IS NOT QEL-DROMA YOU MUST FEAR!" "BEWARE OF EXAR KUN. HE HAS ACQUIRED GREAT SITH POWERS AND HE HAS AMBITION WITHOUT LIMIT--" "I NOW DECLARE IT...EXAR KUN IS A PRETENDER TO THE SITH LEGACY..." "...THE REAL POWER OF THE SITH RESTS WITH YOU...THREE..." Source: Dark Lords of the Sith #4, p26
-![Dark Lords of the Sith #4 p26: Freedon Nadd's spirit warns: "Beware of Exar Kun"](panels/dlots4-p26-nadd-beware-exar.jpg)
+![Dark Lords of the Sith #4 p26: Freedon Nadd's spirit warns: "Beware of Exar Kun"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p26-nadd-beware-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:94`
 
 > NADD, I'VE HAD ENOUGH OF YOU GUIDING ME, TESTING ME...
@@ -136,22 +136,22 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:128`
 
 - Note (summary from our notes, not a quotation): Spirit helps Exar Kun open the Dxun tomb and hands him the Sith scrolls. Source: Dark Lords of the Sith #2, p19–21
   — Source: Dark Lords of the Sith #2, p19–21 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p19: Exar Kun's lightsaber cuts through the Mandalorian iron of Nadd's tomb, helped by a power that wants to help him](024-tales-of-the-jedi/panels/dlots2-p19-exar-breaches-nadd-tomb.jpg)
+![Dark Lords of the Sith #2 p19: Exar Kun's lightsaber cuts through the Mandalorian iron of Nadd's tomb, helped by a power that wants to help him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p19-exar-breaches-nadd-tomb.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:188`
 
 - Note (summary from our notes, not a quotation): Spirit collapses the Korriban crystal mausoleum on Exar Kun. Source: Dark Lords of the Sith #3, p12–13
   — Source: Dark Lords of the Sith #3, p12–13 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p13: Korriban mausoleum collapse](024-tales-of-the-jedi/panels/dlots3-p13-korriban-collapse.jpg)
+![Dark Lords of the Sith #3 p13: Korriban mausoleum collapse](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p13-korriban-collapse.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:189`
 
 - Note (summary from our notes, not a quotation): Spirit's hatred knocks Vodo-Siosk Baas down across the galaxy. Source: Dark Lords of the Sith #3, p14–15
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p15: Freedon Nadd's hatred lashes out across the galaxy and throws Vodo-Siosk Baas to the deck](panels/dlots3-p15-nadd-hatred-vodo.jpg)
+![Dark Lords of the Sith #3 p15: Freedon Nadd's hatred lashes out across the galaxy and throws Vodo-Siosk Baas to the deck](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p15-nadd-hatred-vodo.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:190`; `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:202`
 
 - Note (summary from our notes, not a quotation): Spirit killed by Exar Kun with the Sith amulet ("SECOND DEATH"). Source: Dark Lords of the Sith #4, p25
   — Source: Dark Lords of the Sith #4, p25 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](panels/dlots4-p25-exar-destroys-nadd.jpg)
+![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p25-exar-destroys-nadd.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:194`
 
 - Note (summary from our notes, not a quotation): | 7 | Exar Kun vs Freedon Nadd's spirit | Yavin 4 | p25 (#4) | Nadd destroyed | Sith amulet |
@@ -159,13 +159,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:194`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:278`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](panels/dlots4-p25-exar-destroys-nadd.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p25-exar-destroys-nadd.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:311`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](panels/dlots4-p25-exar-destroys-nadd.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p25-exar-destroys-nadd.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](panels/dlots4-p25-exar-destroys-nadd.jpg)
+![Dark Lords of the Sith #4 p25: Exar destroys Freedon Nadd spirit](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p25-exar-destroys-nadd.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:313`
 
 - Note (summary from our notes, not a quotation): Nadd's spirit to Ulic: "YOU WILL BE ONE OF THE GREAT ONES" / "THERE IS ANOTHER EVEN GREATER THAN YOU" (DLotS #1 p21–22) — (ANALYSIS) the "greater" one is Exar Kun.
@@ -179,19 +179,19 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:19`
 > CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER FIND ITS MARK!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Cuts down Ommin's warriors after he is cut off from his master: "CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER FIND ITS MARK!" Source: Freedon Nadd Uprising #1, p15
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:31`
 
 > FIGHT WELL, YOUNG JEDI--A GREAT DESTINY AWAITS YOU!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Freedon Nadd's spirit to Ulic Qel-Droma. POV: Freedon Nadd's spirit.
 Note (our notes, around the quote): Freedon Nadd's spirit to Ulic Qel-Droma: "FIGHT WELL, YOUNG JEDI--A GREAT DESTINY AWAITS YOU!" Source: Freedon Nadd Uprising #1, p15
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:41`
 
 > THE AIR SIZZLES WITH BLUE FIRE AS A SPIRIT FORM TAKES SHAPE BEHIND THE DYING KING.
 — Source: Freedon Nadd Uprising #1, p13 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Spirit form manifests behind King Ommin.
 Note (our notes, around the quote): Spirit form manifests behind King Ommin: "THE AIR SIZZLES WITH BLUE FIRE AS A SPIRIT FORM TAKES SHAPE BEHIND THE DYING KING." Source: Freedon Nadd Uprising #1, p13
-![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](panels/fnu1-p13-nadd-spirit-appears.jpg)
+![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p13-nadd-spirit-appears.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:65`
 
 > SATAL AND ALEEMA... I AM NADD.
@@ -208,7 +208,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:65`
 > KING OMMIN WILL NO LONGER NEED THEM.
 — Source: Freedon Nadd Uprising #2, p18 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Spirit appears to Satal and Aleema Keto and gives them the Sith book, the talisman and two Sith swords: "SATAL AND ALEEMA... I AM NADD." "YOU MAY KEEP THE BOOK... AND THE TALISMAN." "BOTH RIGHTFULLY BELONG TO YOU." "AS DO THESE SWORDS OF THE SITH." "KING OMMIN WILL NO LONGER NEED THEM." Source: Freedon Nadd Uprising #2, p18
-![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](panels/fnu2-p18-nadd-gives-swords.jpg)
+![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p18-nadd-gives-swords.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:66`
 
 > THEN, IN A FLASH OF BLUE FIRE, NADD APPEARS AT THE SIDE OF THE FALLEN KING--
@@ -222,7 +222,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:66`
 > GREETINGS, ARCA--HAS KING OMMIN'S DEATH FREED YOU?
 — Source: Freedon Nadd Uprising #2, p19 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Spirit kills (claims) the broken King Ommin.
 Note (our notes, around the quote): Spirit kills (claims) the broken King Ommin: "THEN, IN A FLASH OF BLUE FIRE, NADD APPEARS AT THE SIDE OF THE FALLEN KING--" Nadd: "LET THESE YOUNG JEDI GO! THEY DON'T BELONG TO YOU! IT IS YOUR TIME TO DIE!" "I'M SORRY, OMMIN... THEY DON'T BELONG TO THE DARK SIDE BUT YOU DO!" Ommin: "NYAAAAAA!" Nadd to Arca: "GREETINGS, ARCA--HAS KING OMMIN'S DEATH FREED YOU?" Source: Freedon Nadd Uprising #2, p19
-![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:67`
 
 > NOW ALL THAT REMAINS IS TO DEAL WITH THIS ROGUE SPIRIT!
@@ -270,26 +270,26 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:73`
 > ARCA KNOWS THAT FREEDON NADD WAS A STUDENT OF ANCIENT SITH LORDS WHO LEARNED TO FOCUS DARK-SIDE ENERGIES THROUGH THEIR TEMPLES AND AMULETS.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Freedon Nadd. POV: narrator, about Freedon Nadd.
 Note (our notes, around the quote): Narration on Freedon Nadd: "ARCA KNOWS THAT FREEDON NADD WAS A STUDENT OF ANCIENT SITH LORDS WHO LEARNED TO FOCUS DARK-SIDE ENERGIES THROUGH THEIR TEMPLES AND AMULETS." · NARRATION. Source: Freedon Nadd Uprising #1, p7
-![Freedon Nadd Uprising #1 p7: Arca knows Freedon Nadd was a student of ancient Sith Lords](panels/fnu1-p07-arca-on-freedon-nadd.jpg)
+![Freedon Nadd Uprising #1 p7: Arca knows Freedon Nadd was a student of ancient Sith Lords](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p07-arca-on-freedon-nadd.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:76`
 
 > BUT HE'S BEEN DEAD FOR FOUR HUNDRED YEARS!
 — Source: Freedon Nadd Uprising #1, p13 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Galia about Freedon Nadd. POV: Galia, about Freedon Nadd.
 Note (our notes, around the quote): Galia about Freedon Nadd: "BUT HE'S BEEN DEAD FOR FOUR HUNDRED YEARS!" Source: Freedon Nadd Uprising #1, p13
-![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](panels/fnu1-p13-nadd-spirit-appears.jpg)
+![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p13-nadd-spirit-appears.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:78`
 
 > IT IS AS I FEARED--FREEDON NADD AND QUEEN AMANOA ARE DEAD...BUT THEIR SITH MAGIC IS VERY MUCH ALIVE!
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Arca Jeth. POV: Arca Jeth, about Freedon Nadd.
 Note (our notes, around the quote): Arca Jeth: "IT IS AS I FEARED--FREEDON NADD AND QUEEN AMANOA ARE DEAD...BUT THEIR SITH MAGIC IS VERY MUCH ALIVE!" Source: Freedon Nadd Uprising #1, p11
-![Freedon Nadd Uprising #1 p11: Arca: "Freedon Nadd and Queen Amanoa are dead... but their Sith magic is very much alive!"](panels/fnu1-p11-arca-nadd-magic-alive.jpg)
+![Freedon Nadd Uprising #1 p11: Arca: "Freedon Nadd and Queen Amanoa are dead... but their Sith magic is very much alive!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p11-arca-nadd-magic-alive.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:79`
 
 > THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes. POV: Ommin, about Freedon Nadd.
 Note (our notes, around the quote): Ommin about Freedon Nadd: "HERE LET ME SHOW YOU MY WONDERFUL AMULETS--" "THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:81`
 
 > NADD SPOKE OF THE ANCIENT SITH FORETELLINGS... THAT THE DARK LORDS WILL COME AGAIN.
@@ -299,7 +299,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:81`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Arca Jeth about Freedon Nadd. POV: Arca Jeth, about Freedon Nadd.
 Note (our notes, around the quote): Arca Jeth about Freedon Nadd: "NADD SPOKE OF THE ANCIENT SITH FORETELLINGS... THAT THE DARK LORDS WILL COME AGAIN." "I HEARD SIMILAR STORIES... FROM THE JEDI HOLOCRON." Source: Freedon Nadd Uprising #2, p22
-![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](panels/fnu2-p22-dxun-entombment-arca.jpg)
+![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p22-dxun-entombment-arca.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:83`
 
 > A GREAT TOMB HAS BEEN BUILT ON BARBAROUS DXUN, DESIGNED TO WITHSTAND THE RAVAGES OF TIME.
@@ -307,35 +307,35 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:83`
 > THERE THE ROYAL REMAINS WILL BE HELD SECURE UNTIL THEY FINALLY RETURN TO DUST.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on the Dxun tomb. POV: narrator, about Freedon Nadd.
 Note (our notes, around the quote): Narration on the Dxun tomb: "A GREAT TOMB HAS BEEN BUILT ON BARBAROUS DXUN, DESIGNED TO WITHSTAND THE RAVAGES OF TIME." "THERE THE ROYAL REMAINS WILL BE HELD SECURE UNTIL THEY FINALLY RETURN TO DUST." · NARRATION. Source: Freedon Nadd Uprising #2, p21
-![Freedon Nadd Uprising #2 p21: Arca directs the cleansing of Onderon; a great tomb is built on Dxun](panels/fnu2-p21-dxun-tomb-built.jpg)
+![Freedon Nadd Uprising #2 p21: Arca directs the cleansing of Onderon; a great tomb is built on Dxun](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p21-dxun-tomb-built.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:85`
 
 > AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Makes Satal's mind whirl with a gesture. POV: narrator, about Freedon Nadd.
 Note (our notes, around the quote): Makes Satal's mind whirl with a gesture: "AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND." · NARRATION. Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:100`
 
 > WITH KING OMMIN DEAD AND HIS CLANDESTINE POWER DISPERSED, REPUBLIC FORCES QUICKLY RESTORE ORDER TO ONDERON.
 — Source: Freedon Nadd Uprising #2, p17–20 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Defeated by Ulic Qel-Droma (armature cut, p17), then killed by Freedon Nadd's spirit (p19). Narration: "WITH KING OMMIN DEAD AND HIS CLANDESTINE POWER DISPERSED, REPUBLIC FORCES QUICKLY RESTORE ORDER TO ONDERON." Source: Freedon Nadd Uprising #2, p17–20
-![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](panels/fnu2-p17-ulic-cuts-ommin.jpg)
-![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](panels/fnu2-p18-nadd-gives-swords.jpg)
-![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
-![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+![Freedon Nadd Uprising #2 p17: Ulic cuts Ommin's armature](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p17-ulic-cuts-ommin.jpg)
+![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p18-nadd-gives-swords.jpg)
+![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
+![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:114`
 
 > ALEEMA...I FEEL SUDDENLY ILL.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Satal Keto. POV: Satal Keto, about Freedon Nadd.
 Note (our notes, around the quote): Satal Keto: "ALEEMA...I FEEL SUDDENLY ILL." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:225`
 
 > ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Aleema Keto in Ommin's lair. POV: Aleema Keto in Ommin's lair, about Freedon Nadd.
 Note (our notes, around the quote): Aleema Keto in Ommin's lair: "ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!" Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:236`
 
 - Note (summary from our notes, not a quotation): | 8 | Freedon Nadd's spirit vs Ommin | Ommin's lair | #2 p19 | Nadd kills Ommin |
@@ -352,36 +352,36 @@ Note (our notes, around the quote): | 9 | Arca Jeth vs Freedon Nadd's spirit | O
 Context: | # | Fight | Where | Pages | Outcome |
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:279`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](panels/fnu1-p13-nadd-spirit-appears.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p13-nadd-spirit-appears.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:289`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](panels/fnu1-p13-nadd-spirit-appears.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p13: Freedon Nadd spirit appears](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p13-nadd-spirit-appears.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:291`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](panels/fnu2-p18-nadd-gives-swords.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p18-nadd-gives-swords.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:325`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](panels/fnu2-p18-nadd-gives-swords.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p18: Nadd's spirit gives the Ketos the Sith swords](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p18-nadd-gives-swords.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:327`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:329`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](panels/fnu2-p19-nadd-kills-ommin.jpg)
+![Freedon Nadd Uprising #2 p19: Nadd's spirit kills Ommin](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p19-nadd-kills-ommin.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:331`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:333`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:335`
 
@@ -410,7 +410,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio: as he fled Ossus, Nadd's own aim was.
 Note (our notes, around the quote): Narrative bio: as he fled Ossus, Nadd's own aim was "to become the greatest Sith sorcerer that had ever existed, and then he would return to take his revenge on the Jedi ..." This is his ambition, not narrator fact. Source: Tales of the Jedi Companion (WEG, 1996), p.70
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.70 — full quote as printed](quotes/companion-p70-to-become-the-greatest-sith-sorcerer.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.70 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p70-to-become-the-greatest-sith-sorcerer.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:91`
 
 > Master Arca uses his bailie meditation ability to dismiss the darkness, and the tide of confrontation turns again in favor of the beast-riders. The city falls. Arca is not pleased with his students. He admonishes them for not informing him the moment they learned of the presence of the dark side. By instinct alone, Master Arca leads the Jedi and Galia to Freedon Nadd's tomb in the deepest sub-levels of the palace. Arca disrupts the darkness, breaking its hold on Queen Amanoa, who dies as a result. Area then tells his students that Freedon Nadd embraced the dark side and apprenticed himself to a Dark Lord of the Sith. Since there could never be more than one Dark Lord, Nadd murdered his teacher and assumed the title. Upon his death, his tomb became a focus of dark side energy, which Galia's ancestors used through the centuries. In a formal ceremony, the marriage of Oron Kira and Galia is recognized by the Galactic Republic, and the world of Onderon becomes unified for the first time in centuries. Master Arca warns his Jedi students that Freedon Nadd still has followers in the city. The struggle against the dark side on Onderon has not yet come to an end.
@@ -419,7 +419,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Beast Wars summary, Arca tells his students that Nadd "apprenticed himself to a Dark Lord of the Sith. Since there could never be more than one Dark Lord, Nadd murdered his teacher and assumed the title." Source: Tales of the Jedi Companion (WEG, 1996), p.11
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](quotes/companion-p11-apprenticed-himself-to-a-dark-lord.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p11-apprenticed-himself-to-a-dark-lord.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:93`
 
 - Note (summary from our notes, not a quotation): Bio fiction: on Ossus, Nadd kills Jedi Master Matta Tremayne with his lightsaber during a test, then flees to Ashas Ree. Source: Tales of the Jedi Companion (WEG, 1996), p.69-70
@@ -432,14 +432,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_weg_companion_txt`.)
 Note (our notes, around the quote): Freedon Nadd's spirit to Ommin: "The dark side does not come without its price ... You have power over the Force, but in exchange you have lost power over your own body." Source: Tales of the Jedi Companion (WEG, 1996), p.74
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.74 — full quote as printed](quotes/companion-p74-the-dark-side-does-not-come.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.74 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p74-the-dark-side-does-not-come.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:96`
 
 > the spirit of Freedon Nadd appears to Satal and Aleema, giving them the book, the amulet, and a pair of Sith swords.
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; FNU summary. POV: FNU summary.
 Note (our notes, around the quote): FNU summary: "the spirit of Freedon Nadd appears to Satal and Aleema, giving them the book, the amulet, and a pair of Sith swords." Source: Tales of the Jedi Companion (WEG, 1996), p.15
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](quotes/companion-p15-the-spirit-of-freedon-nadd-appears.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p15-the-spirit-of-freedon-nadd-appears.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:100`
 
 > When her efforts failed she fell into a deep brooding, for she did not know how to help her husband. Over the years, however, that depression turned into anger at the king for having made the dark alliance in the first place, and then into outright hatred. At the same time, Ommin decided his queen was ready to join him, to share in the power that he had cultivated over a lifetime. The queen tread slowly into the darkness, but once she passed beyond the point where light could no longer reach, she opened herself completely to the dark side. Ommin and the spirit of Freedon Nadd instructed her in the Force and in Sith techniques, and she gradually grew in power, eventually becoming a formidable sorceress in her own right. Soon after, however, Ommin began to suffer from a strange ifIness that seemed to consume the very marrow --e%.J'f we we~e. e:XPfU.-nN(, a &Hl'£A.,- ..;ep/ 11fA6,~-Nb'r tJlrt.M'V"l'"Cl'tE-t7 'IOV1"I-f• .J AMANOA The darkness did not come easily to Amanoa, but when she finally embraced it, there was no lettinggo. Freedon Nadd brought the teachings of the Sith to Onderon 350 years before the birth of Queen Amanoa, spreading the wicked ways of the dark side to his followers.
@@ -447,7 +447,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Narrative bio: "Ommin and the spirit of Freedon Nadd instructed her in the Force and in Sith techniques, and she gradually grew in power, eventually becoming a formidable sorceress in her own right." Source: Tales of the Jedi Companion (WEG, 1996), p.68
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.68 — full quote as printed](quotes/companion-p68-ommin-and-the-spirit-of-freedon.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.68 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p68-ommin-and-the-spirit-of-freedon.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:233`
 
 > These exiles eventually developed a symbiotic and combat, Jedi history, and - for the more advanced relationship with the warbeasts, earning the derogatory students - the nature of the dark side. Special training name "beast-riders." areas throughout the complex allow would-be Jedi to The Beast Wars raged on lor centuries, ending only practice Iightsaber cadences or engage in battle with after the intercession of the Jedi Knights. Queen Galia, mechanical remotes, or, at times, with trueJedi Masters. the first in her line to cast off the pall of the dark side that Secluded chambers and gardens provide excellent sites had consumed each of her ancestors, and the beast lord for meditation and contemplation of the Jedi Masters' Odon Kira now rule Onderon in relative peace, and have words. Large living compounds offer adequate, though recently requested admittance to the Galactic Republic. sparsely furnished, rooms, and several dining areas The sarcophagi of King Ommin, Queen Amanoa, and handle the nourishment needs of all present.
@@ -466,7 +466,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_weg_paged_txt`.)
 Note (our notes, around the quote): Onderon site entry: the remains of Freedon Nadd "lie on Dxun within a deep tomb sealed by the light side of the Force and guarded by warbeasts." Source: Tales of the Jedi Companion (WEG, 1996), p.132
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.132 — full quote as printed](quotes/companion-p132-lie-on-dxun-within-a-deep.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.132 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p132-lie-on-dxun-within-a-deep.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:297`
 
 - Note (summary from our notes, not a quotation): | Freedon Nadd (Sith Master) | 14D+2 | 15D | 14D+1 | 12D | p.70 |
@@ -480,7 +480,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:28`
 
 - Note (summary from our notes, not a quotation): Projects an illusion of his fight with Freedon Nadd from his Sith amulet (passed off as a "JEDI AMULET") to recruit students on Ossus. Source: The Sith War #1, p10
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #1 p10: Exar Kun's 'ancient Jedi amulet' illusion to win over Ulic's Jedi](panels/sw1-p10-exar-amulet-illusion.jpg)
+![The Sith War #1 p10: Exar Kun's 'ancient Jedi amulet' illusion to win over Ulic's Jedi](../notes/materials/024-tales-of-the-jedi/panels/sw1-p10-exar-amulet-illusion.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:50`
 
 ## Star Wars: The Old Republic Encyclopedia (DK, 2012): power-scaling and lore notes
@@ -488,13 +488,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:50`
 > Unsurprisingly, Jedi who have fallen to the dark side, such as Exar Kun and Freedon Nadd, are remembered as some of the galaxy's worst tyrants.
 — Source: The Sith; Exar Kun; Freedon Nadd — Resisting Temptation.
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — Resisting Temptation: "Unsurprisingly, Jedi who have fallen to the dark side, such as Exar Kun and Freedon Nadd, are remembered as some of the galaxy's worst tyrants." Source: The Old Republic Encyclopedia, p.148
-![Quote image: The Old Republic Encyclopedia, p.148 — full quote as printed](quotes/tore-p148-unsurprisingly-jedi-who-have-fallen-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:45`
 
 > The spirits of powerful Sith Lords such as Marka Ragnos, Freedon Nadd, and Karness Muur influenced galactic events and inspired others to evil long after their physical deaths. For this reason, the Dark Temple on Dromund Kaas, which houses sarcophagi of the Sith Emperor's deceased enemies, is as much prison as tomb.
 — Source: The Sith.
 Note (our notes, around the quote): Marka Ragnos; Freedon Nadd; Karness Muur; Vitiate (the Sith Emperor) — Force Spirits: "The spirits of powerful Sith Lords such as Marka Ragnos, Freedon Nadd, and Karness Muur influenced galactic events and inspired others to evil long after their physical deaths. For this reason, the Dark Temple on Dromund Kaas, which houses sarcophagi of the Sith Emperor's deceased enemies, is as much prison as tomb." Source: The Old Republic Encyclopedia, p.152
-![Quote image: The Old Republic Encyclopedia, p.152 — full quote as printed](quotes/tore-p152-the-spirits-of-powerful-sith-lords.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:73`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -503,13 +501,11 @@ Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:73`
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Freedon Nadd; Naga Sadow — Freedon Nadd awakens and kills Sadow.
 Note (our notes, around the quote): Freedon Nadd; Naga Sadow — Freedon Nadd awakens and kills Sadow: "Nadd awakened the ancient Sith Lord, and Sadow instructed the Jedi in the dark twistings of the Force. Freedon Nadd then killed his mentor" Source: The New Essential Chronology, p.12
-![Quote image: The New Essential Chronology, p.12 — full quote as printed](quotes/nec-p12-freedon-nadd-awakens-and-kills-sadow.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:76`
 
 > Freedon Nadd, with his knowledge of Sith magic, easily made himself the leader of these people.
 — Source: Part One: Tales of the Ancient Republic; Freedon Nadd — Nadd rules Onderon.
 Note (our notes, around the quote): Freedon Nadd — Nadd rules Onderon: "Freedon Nadd, with his knowledge of Sith magic, easily made himself the leader of these people." Source: The New Essential Chronology, p.12
-![Quote image: The New Essential Chronology, p.12 — full quote as printed](quotes/nec-p12-nadd-rules-onderon.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:78`
 
 > The predators took a terrible toll on the population until the people constructed a walled city, liz, for their protection.
@@ -527,26 +523,22 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Freedon Nadd — Nadd's sarcophagus: "After Nadd's death, the sarcophagus containing his body became a focus of dark side energy that was used by his descendants." Source: The New Essential Chronology, p.12
-![Quote image: The New Essential Chronology, p.12 — full quote as printed](quotes/nec-p12-nadds-sarcophagus.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:80`
 
 > The spirit-avatar of Nadd joined forces with Ommin, crippling Master Arca with lightning bolts of energy.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Arca Jeth — Nadd's spirit and Ommin cripple Arca: "The spirit-avatar of Nadd joined forces with Ommin, crippling Master Arca with lightning bolts of energy." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-nadds-spirit-and-ommin-cripple-arca.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:103`
 
 > The flood of dark side power blasted away the rubble, knitted his broken bones, and left him lying naked on the dry clay of Korriban. Exar Kun let out a tremendous shriek that echoed across the galaxy
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — Kun healed by the dark side on Korriban: "The flood of dark side power blasted away the rubble, knitted his broken bones, and left him lying naked on the dry clay of Korriban. Exar Kun let out a tremendous shriek that echoed across the galaxy" Source: The New Essential Chronology, p.17
-![Quote image: The New Essential Chronology, p.17 — full quote as printed](quotes/nec-p17-kun-healed-by-the-dark-side.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:119`
 
 > In the tomb of Freedon Nadd, he meditated on Sith power as barnacle-like orbalisks covered him in a permanent suit of living armor.
 — Source: Part One: Tales of the Ancient Republic; Darth Bane — orbalisk armor on Dxun.
 Note (our notes, around the quote): Darth Bane — orbalisk armor on Dxun: "In the tomb of Freedon Nadd, he meditated on Sith power as barnacle-like orbalisks covered him in a permanent suit of living armor." Source: The New Essential Chronology, p.27
-![Quote image: The New Essential Chronology, p.27 — full quote as printed](quotes/nec-p27-orbalisk-armor-on-dxun.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:237`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -564,7 +556,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — Vodo-Siosk Baas — Nadd breaks Kun: "Kun ventures to Dxun and enters the tomb of Freedon Nadd. The dark spirit of Freedon Nadd directs Exar Kun to travel to Korriban, where Nadd attacks Kun and shatters every bone in his body." Source: Jedi Academy Training Manual, p.111
-![Quote image: Jedi Academy Training Manual, p.111 — full quote as printed](quotes/jatm-p111-vodo-siosk-baas-nadd-breaks-kun.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:103`
 
 > After a long and arduous battle, Kanos slays Jax with his vibroblade.
@@ -580,7 +571,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Palpatine (Darth Sidious) — Dark Side Spirit (template) — examples: "Naga Sadow, Freedon Nadd, and Exar Kun are just a few examples of former Sith Lords who have maintained a spiritual presence in the galaxy years and even centuries after they were thought to be dead. Even Emperor Palpatine manages to avoid permanent death for a while through means unknown to the vast majority of the galaxy's populace." Source: Jedi Academy Training Manual, p.118
-![Quote image: Jedi Academy Training Manual, p.118 — full quote as printed](quotes/jatm-p118-dark-side-spirit-template-examples.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:51`
 
 > The massive creatures they are sent to hunt might become the least of their problems.
@@ -598,7 +588,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Darth Bane — Korriban — Nadd's repository: "Over the years, several of the artifacts regain their power and are able to be used by the likes of Exar Kun and Darth Bane." Source: Jedi Academy Training Manual, p.158
-![Quote image: Jedi Academy Training Manual, p.158 — full quote as printed](quotes/jatm-p158-korriban-nadds-repository.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/07-ch7-studying-abroad-back-cover.md:47`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -616,7 +605,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/07-ch7-studying-abr
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — The Seduction of Exar Kun — Nadd: "Kun agreed, sure that he could use Nadd without himself being used." Source: The Jedi Academy Sourcebook, p.48
-![Quote image: The Jedi Academy Sourcebook, p.48 — full quote as printed](quotes/jas-p48-the-seduction-of-exar-kun-nadd.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:11`
 
 > Disregarding his master’s warnings that only very advanced and experienced Jedi Masters could safely study the Sith teachings without going to the dark side, Kun traveled to one of the preserved strongholds on Onderon. There he located the tomb of Freedon Nadd, a great Sith initiate who had brought the dark side to Onderon and retired there.
@@ -630,7 +618,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — The Seduction of Exar Kun — destroying Nadd: "There, Exar Kun fully embraced the dark side and destroyed Freedon Nadd." Source: The Jedi Academy Sourcebook, p.48
-![Quote image: The Jedi Academy Sourcebook, p.48 — full quote as printed](quotes/jas-p48-the-seduction-of-exar-kun-destroying.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:13`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -638,7 +625,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 > Some 4,000 years before the Galactic Civil War, after the evil Queen Amanoa oflziz was defeated by the Jedi, the inhabitants of Onderon built a Mandalorian iron tomb on Dxun to house the remains of their queen and of the Dark Jedi Freedon Nadd.
 — Source: scan pages 201–240; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd: "Some 4,000 years before the Galactic Civil War, after the evil Queen Amanoa oflziz was defeated by the Jedi, the inhabitants of Onderon built a Mandalorian iron tomb on Dxun to house the remains of their queen and of the Dark Jedi Freedon Nadd." Source: The Complete Star Wars Encyclopedia, Vol. I, p.220
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.220 — full quote as printed](quotes/v1-p220-some-4-000-years-before-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:280`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -646,13 +632,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > After defeating Amanoa's bid for power, Master Jeth concealed Freedon Nadd's Sith lore in a tomb on the Dxun moon.
 — Source: scan pages 161–200; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd: "After defeating Amanoa's bid for power, Master Jeth concealed Freedon Nadd's Sith lore in a tomb on the Dxun moon." Source: The Complete Star Wars Encyclopedia, Vol. II, p.159
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.159 — full quote as printed](quotes/v2-p159-after-defeating-amanoas-bid-for-power.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:46`
 
 > Then he headed for the Empress Teta system to destroy Nadd's final Sith followers.
 — Source: scan pages 241–280; Freedon Nadd. POV: Freedon Nadd.
 Note (our notes, around the quote): Freedon Nadd: "Then he headed for the Empress Teta system to destroy Nadd's final Sith followers." Source: The Complete Star Wars Encyclopedia, Vol. II, p.236
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.236 — full quote as printed](quotes/v2-p236-then-he-headed-for-the-empress.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:23`
 
 - Note (summary from our notes, not a quotation): Page contents: 979 words, 24 paragraphs | headings/entries: Nadd, Freedon; Nadiem; Nadill, Memit; Nadon Farms; Nad'Ris; Naduarr
@@ -662,37 +646,31 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > In his anger, Nadd struck down his Master, Matta Tremayne, and succumbed to the dark side of the Force.
 — Source: scan pages 361–400; Freedon Nadd; Antinnis Tremayne — entry/section: Nadd, Freedon.
 Note (our notes, around the quote): Freedon Nadd; Antinnis Tremayne — entry/section: Nadd, Freedon: "In his anger, Nadd struck down his Master, Matta Tremayne, and succumbed to the dark side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-in-his-anger-nadd-struck-down.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:12`
 
 > When he felt strong enough, Nadd destroyed Sadow's spirit and set out to become the next Sith Lord.
 — Source: scan pages 361–400; Freedon Nadd; Naga Sadow — entry/section: Nadd, Freedon.
 Note (our notes, around the quote): Freedon Nadd; Naga Sadow — entry/section: Nadd, Freedon: "When he felt strong enough, Nadd destroyed Sadow's spirit and set out to become the next Sith Lord." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-when-he-felt-strong-enough-nadd.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:14`
 
 > There was a pitched battle, and eventually Freedon Nadd was defeated.
 — Source: scan pages 361–400; Freedon Nadd — entry/section: Nadd, Freedon.
 Note (our notes, around the quote): Freedon Nadd — entry/section: Nadd, Freedon: "There was a pitched battle, and eventually Freedon Nadd was defeated." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-there-was-a-pitched-battle-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:16`
 
 > Nebo and his father, fellow zealot Rask, then attempted to protect the sarcophagi of King Ommin, Queen Amanoa, and Freedon Nadd from Kun, who killed them both.
 — Source: scan pages 361–400; King Ommin; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): King Ommin; Queen Amanoa; Freedon Nadd: "Nebo and his father, fellow zealot Rask, then attempted to protect the sarcophagi of King Ommin, Queen Amanoa, and Freedon Nadd from Kun, who killed them both." Source: The Complete Star Wars Encyclopedia, Vol. II, p.365
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.365 — full quote as printed](quotes/v2-p365-nebo-and-his-father-fellow-zealot.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:92`
 
 > When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive.
 — Source: scan pages 361–400.
 Note (our notes, around the quote): Warb Null; Arca Jeth; King Ommin; Freedon Nadd — entry/section: Null, Warb: "When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive." Source: The Complete Star Wars Encyclopedia, Vol. II, p.394
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.394 — full quote as printed](quotes/v2-p394-when-jedi-master-arca-jeth-appealed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:327`
 
 > The spirit of Freedon Nadd absorbed Ommin's final gasps of life and drew him to the dark side.
 — Source: scan pages 401–440; King Ommin; Freedon Nadd — entry/section: Ommin, King.
 Note (our notes, around the quote): King Ommin; Freedon Nadd — entry/section: Ommin, King: "The spirit of Freedon Nadd absorbed Ommin's final gasps of life and drew him to the dark side." Source: The Complete Star Wars Encyclopedia, Vol. II, p.411
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.411 — full quote as printed](quotes/v2-p411-the-spirit-of-freedon-nadd-absorbed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:130`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -700,31 +678,26 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Master Arca traveled to Onderon to defeat Queen Amanoa personally, but he could not end Freedon Nadd's powerful influence.
 — Source: Chapter One: History of the Jedi; Arca Jeth; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Arca Jeth; Queen Amanoa; Freedon Nadd: "Master Arca traveled to Onderon to defeat Queen Amanoa personally, but he could not end Freedon Nadd's powerful influence." Source: Power of the Jedi Sourcebook, p.6
-![Quote image: Power of the Jedi Sourcebook, p.6 — full quote as printed](quotes/potj-p6-master-arca-traveled-to-onderon-to.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:19`
 
 > Ommin was defeated, and Freedon Nadd's remains were moved to Dxun.
 — Source: Chapter Six: Jedi traditions and famous Jedi; King Ommin; Freedon Nadd.
 Note (our notes, around the quote): King Ommin; Freedon Nadd: "Ommin was defeated, and Freedon Nadd's remains were moved to Dxun." Source: Power of the Jedi Sourcebook, p.100
-![Quote image: Power of the Jedi Sourcebook, p.100 — full quote as printed](quotes/potj-p100-ommin-was-defeated-and-freedon-nadds.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:32`
 
 > The spirit of Freedon Nadd appeared before Ulic and proclaimed he would one day become one of the most powerful Sith Lords in history.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Ulic Qel-Droma; Freedon Nadd — entry/section: Ulic Qel-Droma.
 Note (our notes, around the quote): Ulic Qel-Droma; Freedon Nadd — entry/section: Ulic Qel-Droma,: "The spirit of Freedon Nadd appeared before Ulic and proclaimed he would one day become one of the most powerful Sith Lords in history." Source: Power of the Jedi Sourcebook, p.103
-![Quote image: Power of the Jedi Sourcebook, p.103 — full quote as printed](quotes/potj-p103-the-spirit-of-freedon-nadd-appeared.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:63`
 
 > Cay Qel-Droma was among the many Jedi who helped defeat Lord Ommin's sect of Naddist worshipers during the Freedon Nadd uprising.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Cay Qel-Droma; King Ommin; Freedon Nadd — entry/section: Cay Gel-Droma, Jedi Knight: "Cay Qel-Droma was among the many Jedi who helped defeat Lord Ommin's sect of Naddist worshipers during the Freedon Nadd uprising." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-cay-qel-droma-was-among-the.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:84`
 
 > The Jedi forces defeated the Naddists and entombed Freedon Nadd's remains on Onderon's beast moon, Dxun.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Dace Diath; Freedon Nadd — entry/section: Dace Diath, Jedi Knight.
 Note (our notes, around the quote): Dace Diath; Freedon Nadd — entry/section: Dace Diath, Jedi Knight: "The Jedi forces defeated the Naddists and entombed Freedon Nadd's remains on Onderon's beast moon, Dxun." Source: Power of the Jedi Sourcebook, p.106
-![Quote image: Power of the Jedi Sourcebook, p.106 — full quote as printed](quotes/potj-p106-the-jedi-forces-defeated-the-naddists.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:102`
 
 ## The New Essential Guide to Characters (2002)
@@ -732,7 +705,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > After obliterating Nadd's lingering spirit, Exar Kun made Yavin 4 the new fulcrum of Sith power.
 — Source: scan pages 91–120; Freedon Nadd; Exar Kun.
 Note (our notes, around the quote): Freedon Nadd; Exar Kun: "After obliterating Nadd's lingering spirit, Exar Kun made Yavin 4 the new fulcrum of Sith power." Source: The New Essential Guide to Characters, p.108
-![Quote image: The New Essential Guide to Characters, p.108 — full quote as printed](quotes/negc-p108-after-obliterating-nadds-lingering-spirit-exar.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:92`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -742,7 +714,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd: "Exar Kun next traveled to Yavin 4, where he used his newfound Sith powers to destroy the spirit of Freedon Nadd." Source: Dark Side Sourcebook, p.8
-![Quote image: Dark Side Sourcebook, p.8 — full quote as printed](quotes/dss-p8-exar-kun-next-traveled-to-yavin.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:26`
 
 - Note (summary from our notes, not a quotation): Page contents: 656 words, 23 paragraphs | headings/entries: Freedon Nadd, Jedi Expatriate The
@@ -758,7 +729,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:33`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m035 (text copy `research_audit_work_src_m035_txt_896fdf1186`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m035 (text copy `research_audit_work_src_m035_txt_896fdf1186`).)
 Note (our notes, around the quote): Freedon Nadd — entry/section: Freedon Nadd, Jedi Expatriate The: "One gotten his start in the ways of the Sith, his spin such Jedi was Freedon Nadd, who slew his own master to was destroyed forever." Source: Dark Side Sourcebook, p.72
-![Quote image: Dark Side Sourcebook, p.72 — full quote as printed](quotes/dss-p72-one-gotten-his-start-in-the.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:35`
 
 > His corruption tainted his new wife, Amanoa, who became a powerful Sith sorceress in her own right. Ommin looked forward to the day when they could indoctrinate their daughter Galia into the ways of the Sith as well. But before Ommin could realize his dream, Jedi Knights came to Onderon to settle a dispute between the Onderonians and the barbaric beastriding warriors who lived in Onderon's wilderness. Investigating, the Jedi learned that the beast-riders were fighting for their survival against the tyranny of Queen Amanoa, and aided them against her. After a fierce battle, the Jedi confronted Amanoa, who called upon the spirit of Freedon Nadd for aid-only to be defeated by the light side power of the Jedi Master Arca Jeth. Nadd's spirit was driven off, and Amanoa was killed. King Ommin joined her in death only a short time later, after his loyalists attempted to steal the sarcophagi of Amanoa and Freedon Nadd and to depose Galia and her husband, Oron Kira. Though Ommin overcame Master Area with his dark side power, he himself was beaten when the Jedi Ulic Qel-Droma severed the connection to his support exoskeleton, leaving King Ommin barely able to speak or move, let alone draw upon the power of the dark side.
@@ -766,7 +736,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:35`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd; Arca Jeth: "After a fierce battle, the Jedi confronted Amanoa, who called upon the spirit of Freedon Nadd for aid-only to be defeated by the light side power of the Jedi Master Arca Jeth." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-after-a-fierce-battle-the-jedi.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:47`
 
 > Ommin looked forward to the day when they could indoctrinate their daughter Galia into the ways of the Sith as well. But before Ommin could realize his dream, Jedi Knights came to Onderon to settle a dispute between the Onderonians and the barbaric beastriding warriors who lived in Onderon's wilderness. Investigating, the Jedi learned that the beast-riders were fighting for their survival against the tyranny of Queen Amanoa, and aided them against her. After a fierce battle, the Jedi confronted Amanoa, who called upon the spirit of Freedon Nadd for aid-only to be defeated by the light side power of the Jedi Master Arca Jeth. Nadd's spirit was driven off, and Amanoa was killed. King Ommin joined her in death only a short time later, after his loyalists attempted to steal the sarcophagi of Amanoa and Freedon Nadd and to depose Galia and her husband, Oron Kira. Though Ommin overcame Master Area with his dark side power, he himself was beaten when the Jedi Ulic Qel-Droma severed the connection to his support exoskeleton, leaving King Ommin barely able to speak or move, let alone draw upon the power of the dark side. Freedon Nadd claimed King Ommin's corrupted spirit and departed, only to return some time later to corrupt the Jedi Knight Exar Kun.
@@ -774,7 +743,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:47`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; Queen Amanoa: "Nadd's spirit was driven off, and Amanoa was killed." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-nadds-spirit-was-driven-off-and.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:49`
 
 > Sith Acolytes Aleema Keto and her cousin Satal Keto, son of the ruler of the Empress Teta system and heir to the corrupt government, were spoiled, bored, and rich. Along with their friends, the pair dabbled in Sith magic and amused themselves with artifacts from the time of the Great Hyperspace War. To gain more power, Aleema persuaded Satal to steal an ancient book of Sith secrets from a Coruscant museum, but they couldn't read the text. They went in search of someone who could. Armed with rumors of Sith practitioners on Onderon, the two aristocrats used their money and novice dark side skills to reach King Ommin. The delighted ruler gave Satal a Sith amulet and had a scribe start work on translating the arcane tome. The specter of Freedon Nadd had been assisting King Ommin, but decided that Satal and Aleema held the key to resurrecting the golden age of the Sith. The dark side avatar appeared before the pair and offered to guide them in their rise to power. Spurred on and encouraged by the spirit's attention, Satal and his cousin extracted a wealth of Sith artifacts and returned to the Empress Teta system. Nadd's spirit, meanwhile, was trapped within an armored tomb on the moon of Dxun. With the artifacts and Sith tome in hand, Satal and Aleema quickly grew in dark side power.
@@ -782,7 +750,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:49`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Satal Keto; Aleema Keto: "The specter of Freedon Nadd had been assisting King Ommin, but decided that Satal and Aleema held the key to resurrecting the golden age of the Sith." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-the-specter-of-freedon-nadd-had.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 
 > One, Exar Kun, turned to the dark side in a quest for knowledge long forbidden by the Order. The other, Ulic Qel-Droma, sought to destroy the dark side sect of Satal and Aleema Keto frorn the inside, only to be turned to evil himself by dark side poison. By the time he was finally defeated, Ulic Qel-Droma had become a formidable Dark Lord of the Sith, second only to his partner Exar Kun. Ulic and his brother Cay Qel-Droma trained under Jedi Master Arca Jeth on the world of Arkania, alongside a Twi'lek Jedi named Tott Doneeta. Master Arca sent the three Jedi students to the world of Onderon to settle the dispute between Iziz and the beast-riders of Onderon. Ulic encountered the dark side spirit of Freedon Nadd in the Sith storehouses below the royal palace. Nadd foretold that Ulic would one day be a great Sith Lord, equal to the mightiest Jedi masters. Though Ulic brushed off Freedon Nadd's prophecy, it also chilled him. He was a devoted follower of the light side; how could he become a Sith Lord? The beginning of the answer came when a dark side sect led by Satal and Aleema Keto, heirs to the throne of Cinnagar in the Empress Teta system, seized control of the entire system. The Tetans suffered under the pair's cruel dark side rule.
@@ -790,7 +757,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; Ulic Qel-Droma: "Nadd foretold that Ulic would one day be a great Sith Lord, equal to the mightiest Jedi masters." Source: Dark Side Sourcebook, p.76
-![Quote image: Dark Side Sourcebook, p.76 — full quote as printed](quotes/dss-p76-nadd-foretold-that-ulic-would-one.jpg)
 Also cited as: Darth Caedus (DC77) vs Exar Kun (AncientPower) — https://www.suspectinsightforums.com/t568-ss-darth-caedus-dc77-vs-exar-kun-ladykulvax.
 Also noted as: Q7 — Source: The Dark Side Sourcebook | [IMG: https://comicvine1.cbsistatic.com/uploads/original/11124/111242954/4703379-accolade2.png]
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:75`; `suspect-insight/debates/059-darth-caedus-vs-exar-kun.md:91`
@@ -800,7 +766,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:75`; `
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — entry/section: Exar Kun, Former Jedi Knight, Sith Lord: "He then turned the weapon on Freedon Nadd, destroying the dark side spirit forever." Source: Dark Side Sourcebook, p.77
-![Quote image: Dark Side Sourcebook, p.77 — full quote as printed](quotes/dss-p77-he-then-turned-the-weapon-on.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:96`
 
 > In reverent tribute, shamanistic dark side priests manipulated the residual energies of Sadow's temples. Prophecies told of one who would come and release the Massassi people from their centuries of bondage and isolation on the jungle moon. A thousand years after Sadow's arrival, the Jedi Exar Kun-still trying to convince himself that he was simply searching for ways to combat the dark side, not embrace it-arrived on the jungle moon seeking the secrets of the ancient Sith Lords. He was immediately attacked by the primitive Massassi, who took him to their Temple of Fire as a blood sacrifice to a creature they treated as a dark god-Naga Sadow's Sith wyrm. Neither Exar Kun nor the Massassi realized that this was just another of Freedon Nadd's tests for Exar Kun, a means to force him to embrace the dark side. When Kun destroyed the creature with an ancient Sith amulet, he won the approval of Nadd, the full strength of the dark side, and the worship of the Massassi. Kun set the Massassi to work, expanding the remaining temples. The Sith disciple also continued the fiendish work of the alchemist Naga Sadow. Using Sadow's ancient apparatus, he began to further mutate the Massassi into armored monsters bred for pure violence.
@@ -808,7 +773,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:96`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd: "When Kun destroyed the creature with an ancient Sith amulet, he won the approval of Nadd, the full strength of the dark side, and the worship of the Massassi." Source: Dark Side Sourcebook, p.115
-![Quote image: Dark Side Sourcebook, p.115 — full quote as printed](quotes/dss-p115-when-kun-destroyed-the-creature-with.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:40`
 
 > This predatory upbringing gives primitive Massassi a +2 species bonus on Listen, Spot, and Survival checks. Primitive Massassi receive the Track feat for free. Primitive-This trait conforms to the "Primitive penalty" given to the Ewoks on page 30 of the Star Wars Roleplaying Game. Orbalisk Lord Kaan's aborted assault on the Republic left one incompletely trained Sith Lord alive: Darth Bane. To save the Sith from extinction, Bane instituted his most important legacy: the rule of two. After that day, the Sith would consist of a master and an apprentice, "no more, no less." Since Bane's own master had been killed at Ruusan, he journeyed to Dxun, the legendary demon moon of Onderon, to find what knowledge he could at the tomb of Freedon Nadd. Despite his best efforts, Exar Kun did not have sufficient time to strip Freedon Nadd's tomb of all the Sith artifacts and mysteries it contained. As Bane entered the Onderon system, the spirit of his former master, Lord Qordis, appeared to the Sith warrior. The dead man taunted Bane and accused him of cowardice, despite Bane's claim that he acted for the survival of the Sith. Not satisfied with this answer, Qordis used the dark side to knock Bane's ship out of the sky.
@@ -816,7 +780,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd: "Since Bane's own master had been killed at Ruusan, he journeyed to Dxun, the legendary demon moon of Onderon, to find what knowledge he could at the tomb of Freedon Nadd." Source: Dark Side Sourcebook, p.117
-![Quote image: Dark Side Sourcebook, p.117 — full quote as printed](quotes/dss-p117-since-banes-own-master-had-been.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:54`
 
 > As Bane entered the Onderon system, the spirit of his former master, Lord Qordis, appeared to the Sith warrior. The dead man taunted Bane and accused him of cowardice, despite Bane's claim that he acted for the survival of the Sith. Not satisfied with this answer, Qordis used the dark side to knock Bane's ship out of the sky. Darth Bane barely survived the impact by using all the Sith power at his command. Goaded on by Lord Qordis's ghost and that of the mad Sith Lord Kaan, the evil genius who had detonated the suicidal "thought bomb" on Ruusan, Bane hacked his way through the poisonous foliage and razor-backed predators guarding the crypt-and approached his destiny. Darth Bane found the tomb of Freedon Nadd much as Kun had left it. However, since Kun had destroyed Nadd's spirit on Yavin 4, the entity no longer lurked in its crypt. Bane quickly spotted an ancient Sith hOlOCron that had eluded Kun's hasty search. As soon as he set foot inside the tomb, he realized he had been tricked. With a wet slurp, two mollusklike creatures dropped from the ceiling onto his body. Bane felt his entire body twist with the most potent pain he'd felt in his life.
@@ -824,7 +787,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd: "However, since Kun had destroyed Nadd's spirit on Yavin 4, the entity no longer lurked in its crypt." Source: Dark Side Sourcebook, p.117
-![Quote image: Dark Side Sourcebook, p.117 — full quote as printed](quotes/dss-p117-however-since-kun-had-destroyed-nadds.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:58`
 
 > Unable to use the light side of the Force, but unpracticed with the dark side, Exar Kun fell to the hunter-warriors and was taken to their Temple of Fire. There, a Massassi shaman named Zythmnr offered Kun to a creature they thought of as a god: a Sith wyrm. The monster was an absolutely enormous reptile/insect hybrid Naga Sadow had created centuries earlier. The Sith Wyrm prepared to devour Exar Kun. Unknown to either the Massassi or Exar Kun, the spirit of Freedon Nadd was engineering this conflict to turn Exar Kun to the dark side. Freedon Nadd knew that Kun could only defeat the wyrm by taking up an ancient Sith amulet and focusing the energy of the dark side in concentrated blasts. The wyrm soon fell to Kun, who used his newfound power to destroy the spirit of Freedou Nadd as well. By then, however, Exar Kun was so fully enslaved by the dark side that it dominated his destiny forever. The Sith wyrm was once a larval space slug that had attached itself to the hull of Naga Sadow's battleship en route to Yavin. Sadow, failing to tame the creature and seeing little other use for it, chose to mutate it into a colossal monster capable of swallowing a Jedi in one gulp.
@@ -832,7 +794,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd: "Freedon Nadd knew that Kun could only defeat the wyrm by taking up an ancient Sith amulet and focusing the energy of the dark side in concentrated blasts." Source: Dark Side Sourcebook, p.121
-![Quote image: Dark Side Sourcebook, p.121 — full quote as printed](quotes/dss-p121-freedon-nadd-knew-that-kun-could.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:84`
 
 > There, a Massassi shaman named Zythmnr offered Kun to a creature they thought of as a god: a Sith wyrm. The monster was an absolutely enormous reptile/insect hybrid Naga Sadow had created centuries earlier. The Sith Wyrm prepared to devour Exar Kun. Unknown to either the Massassi or Exar Kun, the spirit of Freedon Nadd was engineering this conflict to turn Exar Kun to the dark side. Freedon Nadd knew that Kun could only defeat the wyrm by taking up an ancient Sith amulet and focusing the energy of the dark side in concentrated blasts. The wyrm soon fell to Kun, who used his newfound power to destroy the spirit of Freedou Nadd as well. By then, however, Exar Kun was so fully enslaved by the dark side that it dominated his destiny forever. The Sith wyrm was once a larval space slug that had attached itself to the hull of Naga Sadow's battleship en route to Yavin. Sadow, failing to tame the creature and seeing little other use for it, chose to mutate it into a colossal monster capable of swallowing a Jedi in one gulp. It is unknown whether Sadow was able to encourage the slug to reproduce asexually; if so, many more such beasts may exist deep underground on Yavin 4.
@@ -840,7 +801,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd: "The wyrm soon fell to Kun, who used his newfound power to destroy the spirit of Freedou Nadd as well." Source: Dark Side Sourcebook, p.121
-![Quote image: Dark Side Sourcebook, p.121 — full quote as printed](quotes/dss-p121-the-wyrm-soon-fell-to-kun.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:86`
 
 > By the time of Darth Bane, the entire demon moon became a dark side site. The dense jungle is considered to be a minor dark side site. There are also a few major sites scattered throughout the jungle and at least two major sites: Freedon Nadd's tomb and the well of darkness. The iron tomb that houses the remains of three powerful darksiders has contained a wealth of Sith artifacts over the centuries, and some of those items probably remain locked away well into The New Jedi Order era. This extreme site radiates with the presence of a dark side master and his descendants. Although Exar Kun destroyed Freedon Nadd's spirit, the dark lord's presence can still be felt, even if he can no longer manifest and influence the actions of any visitors who may come to pay their respects-or loot his final resting place. The well of darkness is a great pit located within a cave filled with orbalisks. For some reason that may never be known, the dark side power that seeped out of Freedon Nadd's tomb seems to have pooled in the fissure that looks like an open wound in Dxun's rocky flesh. Those who enter the cave claim to hear the whispered voices of long-dead Sith Lords calling to them from deep within the well.
@@ -848,7 +808,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd: "Although Exar Kun destroyed Freedon Nadd's spirit, the dark lord's presence can still be felt, even if he can no longer manifest and influence the actions of any visitors who may come to pay their respects-or loot his final resting place." Source: Dark Side Sourcebook, p.147
-![Quote image: Dark Side Sourcebook, p.147 — full quote as printed](quotes/dss-p147-although-exar-kun-destroyed-freedon-nadds.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:51`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -857,14 +816,12 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:51`
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Freedon Nadd — entry/section: Star Wars Gamer 03.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Bane of the Sith pdf x.txt (text copy `MEGA_Bane_of_the_Sith_pdf_x`).)
 Note (our notes, around the quote): Freedon Nadd — entry/section: Star Wars Gamer 03: "He had heard of this place, knew it to be a focus of dark side power: the tomb of Freedon Nadd, a hidden structure meant to hold the evil energies that had infected the bodies of legendary dark Force-users." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.18 — full quote as printed](quotes/d052-s18-he-had-heard-of-this-place.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:103`
 
 > But the cities remained fortified, the culture continued to be warlike, and some of the leaders had schooled themselves in the dark side. The once-great Freedon Nadd had ruled here for a time, and the ancient nobles, King Ommin and Queen Amanoa, had also used Sith secrets to cement their rule. Ommin and Amanoa had been entombed beside Freedon Nadd here on the beast moon. Years later Exar Kun, the Dark Lord of the Sith who had first resurrected the Sith Brotherhood, also came to Dxun, raiding Nadd's ancient tomb in search of dark side secrets. Darth Bane knew there must be more to gain from this tainted, sinister place ... Light as a feather, yet moving with an assassin's power and grace, a sleek feline creature dropped out of the gnarled branches above.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Exar Kun; Freedon Nadd.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Bane of the Sith pdf x.txt (text copy `MEGA_Bane_of_the_Sith_pdf_x`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd: "Years later Exar Kun, the Dark Lord of the Sith who had first resurrected the Sith Brotherhood, also came to Dxun, raiding Nadd's ancient tomb in search of dark side secrets." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.18 — full quote as printed](quotes/d052-s18-years-later-exar-kun-the-dark.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:107`
 
 - Note (summary from our notes, not a quotation): Page contents: Bane finds Freedon Nadd's tomb and a Sith holocron guided by Kaan's avatar; gharzr (Dxunian stalker) stats (hand-read)
@@ -886,13 +843,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Six centuries later, the Jedi Knight Freedon Nadd discovered Sadow’s resting place, guarded by the Massassi's degenerate descendents, and learned the Sith arts on the jungle moon.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Freedon Nadd; Naga Sadow — entry/section: Freedon Nadd on Yavin 4: "Six centuries later, the Jedi Knight Freedon Nadd discovered Sadow’s resting place, guarded by the Massassi's degenerate descendents, and learned the Sith arts on the jungle moon." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153 — full quote as printed](quotes/d667-s153-six-centuries-later-the-jedi-knight.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:250`
 
 > A Jedi named Exar Kun awakened Nadd’s spirit four centuries after that in the Onderon system. Kun was lured to Yavin 4, where the Massassi captured him. Kun fought free, annihilated Nadd, and proclaimed himself Dark Lord of the Sith. He then launched the fury of the Sith War against the galaxy; when the tide turned, the Jedi chased him back to Yavin 4. In a final spasm of Sith magic, Kun drained the Massassi’s life energies in order to preserve his own spirit.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — entry/section: Exar Kun on Yavin 4: "A Jedi named Exar Kun awakened Nadd’s spirit four centuries after that in the Onderon system. Kun was lured to Yavin 4, where the Massassi captured him. Kun fought free, annihilated Nadd, and proclaimed himself Dark Lord of the Sith. He then launched the fury of the Sith War against the galaxy; when the tide turned, the Jedi chased him back to Yavin 4. In a final spasm of Sith magic, Kun drained the Massassi’s life energies in order to preserve his own spirit." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153 — full quote as printed](quotes/d667-s153-a-jedi-named-exar-kun-awakened.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:252`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -900,7 +855,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > However, Nadd realizes that the King is on the brink of defeat by Jedi and Republic forces, so he transfers his support to Satal and Aleema, promising to guide them into a new Sith Golden Age.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Freedon Nadd; Satal Keto; Aleema Keto. POV: Aleema Keto; about Freedon Nadd.
 Note (our notes, around the quote): Freedon Nadd; Satal Keto; Aleema Keto: "However, Nadd realizes that the King is on the brink of defeat by Jedi and Republic forces, so he transfers his support to Satal and Aleema, promising to guide them into a new Sith Golden Age." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.60
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.60 — full quote as printed](quotes/d718-s60-however-nadd-realizes-that-the-king.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:384`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -915,7 +869,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Kun continues unabated, discovering and enslaving devolved Massassi Sith on Yavin 4, where he also repays Nadd by destroying the wraith with dark energy.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Freedon Nadd. POV: Freedon Nadd.
 Note (our notes, around the quote): Freedon Nadd: "Kun continues unabated, discovering and enslaving devolved Massassi Sith on Yavin 4, where he also repays Nadd by destroying the wraith with dark energy." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.154
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.154 — full quote as printed](quotes/d718-s154-kun-continues-unabated-discovering-and-enslaving.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:337`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)
@@ -929,7 +882,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Freedon Nadd: "Freedon Nadd's Short Lightsaber: Legendary icon short lightsaber with a rubat crystal (Small lightsaber, 2d8 damage, legendary icon)." Source: *Web Articles* (SWRPG Saga Edition), scan p.242
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.242 — full quote as printed](quotes/d732-s242-freedon-nadds-short-lightsaber-legendary-icon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:23`
 
 ## Star Wars Insider #33 (1997)

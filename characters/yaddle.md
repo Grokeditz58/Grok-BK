@@ -14,7 +14,6 @@
 > Jedi Council member Yaddle sacrificed her life to prevent Omega from poisoning the population with dinoxalon gas.
 — Source: Part Two: The Fall of the Republic; Yaddle — Yaddle's sacrifice.
 Note (our notes, around the quote): Yaddle — Yaddle's sacrifice: "Jedi Council member Yaddle sacrificed her life to prevent Omega from poisoning the population with dinoxalon gas." Source: The New Essential Chronology, p.48
-![Quote image: The New Essential Chronology, p.48 — full quote as printed](quotes/nec-p48-yaddles-sacrifice.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:176`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -22,13 +21,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > After defeating Polvin Kut and Yaddle in battle, Tulak retired and eventually died.
 — Source: scan pages 201–240; Yaddle; Tulak Hord.
 Note (our notes, around the quote): Yaddle; Tulak Hord: "After defeating Polvin Kut and Yaddle in battle, Tulak retired and eventually died." Source: The Complete Star Wars Encyclopedia, Vol. II, p.223
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.223 — full quote as printed](quotes/v2-p223-after-defeating-polvin-kut-and-yaddle.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:288`
 
 > The Jedi were successful in restoring peace to Mawan but paid a high price: Master Yaddle died after using the Force to absorb a deadly chemical weapon so that others could live.
 — Source: scan pages 281–320; Yaddle. POV: Yaddle.
 Note (our notes, around the quote): Yaddle: "The Jedi were successful in restoring peace to Mawan but paid a high price: Master Yaddle died after using the Force to absorb a deadly chemical weapon so that others could live." Source: The Complete Star Wars Encyclopedia, Vol. II, p.295
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.295 — full quote as printed](quotes/v2-p295-the-jedi-were-successful-in-restoring.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:188`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -36,7 +33,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > Yaddle's sacrifice in absorbing a dihexalon bomb persuaded her to remain, but only to double-cross the Jedi.
 — Source: scan pages 201–240; Yaddle. POV: Yaddle.
 Note (our notes, around the quote): Yaddle: "Yaddle's sacrifice in absorbing a dihexalon bomb persuaded her to remain, but only to double-cross the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.213
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.213 — full quote as printed](quotes/v3-p213-yaddles-sacrifice-in-absorbing-a-dihexalon.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:174`
 
 - Note (summary from our notes, not a quotation): Page contents: 813 words, 17 paragraphs | headings/entries: Yablari; Yaddle; Yaddle Yaga Minor; Yag'Dhul
@@ -56,19 +52,16 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Kut was killed and Yaddle was captured.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Yaddle — entry/section: Yaddle, Jedi Master.
 Note (our notes, around the quote): Yaddle — entry/section: Yaddle, Jedi Master: "Kut was killed and Yaddle was captured." Source: Power of the Jedi Sourcebook, p.113
-![Quote image: Power of the Jedi Sourcebook, p.113 — full quote as printed](quotes/potj-p113-kut-was-killed-and-yaddle-was.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:159`
 
 > Yaddle defeated Kalut in combat and liberated the Kobans from the Advozse warlords.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Yaddle — entry/section: Yaddle, Jedi Master.
 Note (our notes, around the quote): Yaddle — entry/section: Yaddle, Jedi Master: "Yaddle defeated Kalut in combat and liberated the Kobans from the Advozse warlords." Source: Power of the Jedi Sourcebook, p.113
-![Quote image: Power of the Jedi Sourcebook, p.113 — full quote as printed](quotes/potj-p113-yaddle-defeated-kalut-in-combat-and.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:161`
 
 > The Council members were overwhelmingly in favor of Yaddle's advancement and appointment.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Yaddle — entry/section: Yaddle, Jedi Master.
 Note (our notes, around the quote): Yaddle — entry/section: Yaddle, Jedi Master: "The Council members were overwhelmingly in favor of Yaddle's advancement and appointment." Source: Power of the Jedi Sourcebook, p.113
-![Quote image: Power of the Jedi Sourcebook, p.113 — full quote as printed](quotes/potj-p113-the-council-members-were-overwhelmingly-in.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:163`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

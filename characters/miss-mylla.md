@@ -20,7 +20,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > “So what brings you 'round these parts, stranger?”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Miss Mylla — entry/section: Miss Mylla, Falleen courtesan.
 Note (our notes, around the quote): Miss Mylla — entry/section: Miss Mylla, Falleen courtesan: "“So what brings you 'round these parts, stranger?”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.25
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.25 — full quote as printed](quotes/d056-s25-so-what-brings-you-round-these.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:160`
 
 - Note (summary from our notes, not a quotation): Page contents: Miss Mylla's Saloon in Center Sphere: Falleen courtesan of mysterious (perhaps royal) origin, protective of 'her girls', sweet on Chief Liddell; Chagrian bouncer 'Bantha' Burloo (hand-read)
@@ -36,7 +35,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-10
 > “I don't know if you've been to see Miss Mylla yet. She's hard to miss—about six feet tall, green, legs up to here—but she runs a fine establishment.
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Mix Liddell — entry/section: Liddell sends the heroes to Miss Mylla's: "“I don't know if you've been to see Miss Mylla yet. She's hard to miss—about six feet tall, green, legs up to here—but she runs a fine establishment." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.68
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.68 — full quote as printed](quotes/d056-s68-i-dont-know-if-youve-been.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:57`
 
 - Note (summary from our notes, not a quotation): Page contents: Reckonings outcomes by Diplomacy: ceasefire, ore-for-food trade, or Menahuun joining Landing society; ORO withdraws, Bartyn fills the tunnel, the Landing gets its first elected Administrator; further adventures: a new black-robed 'Padawan' shoots Mix Liddell at a rally, the pirate 'the Red Quarren', Guther Bartyn sends two dozen MMV droids; Dark Days war (Miss Mylla flees to Little Mon Cal) (hand-read)

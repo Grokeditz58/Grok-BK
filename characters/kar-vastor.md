@@ -14,7 +14,6 @@
 > A primal warrior, Vastor defeated Mace in a one-on-one brawl by turning the living jungle against his opponent.
 — Source: Part Two: The Fall of the Republic; Kar Vastor; Mace Windu — Vastor defeats Mace.
 Note (our notes, around the quote): Kar Vastor; Mace Windu — Vastor defeats Mace: "A primal warrior, Vastor defeated Mace in a one-on-one brawl by turning the living jungle against his opponent." Source: The New Essential Chronology, p.64
-![Quote image: The New Essential Chronology, p.64 — full quote as printed](quotes/nec-p64-vastor-defeats-mace.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:302`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > CRC-09/571 was killed by warlord Kar Vastor.
 — Source: scan pages 161–200; Kar Vastor. POV: Kar Vastor.
 Note (our notes, around the quote): Kar Vastor: "CRC-09/571 was killed by warlord Kar Vastor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.151
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.151 — full quote as printed](quotes/v1-p151-crc-09-571-was-killed-by.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:55`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)

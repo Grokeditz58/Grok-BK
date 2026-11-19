@@ -174,7 +174,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:28
 > The same goes for company head and founder Raith Sienar. Despite being something of a dreamer himself—rumor has it that the Death Star was originally his idea—Sienar has a keen grasp of his company's value to the Empire. So long as Sienar Fleet Systems continues to develop and produce weapons of destruction for the Emperor, SFS—and, by extension, its CEO—will survive. He doesn't like to think about the alternative.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Raith Sienar; Darth Vader (Anakin Skywalker) — entry/section: Raith Sienar and the Death Star rumor: "The same goes for company head and founder Raith Sienar. Despite being something of a dreamer himself—rumor has it that the Death Star was originally his idea—Sienar has a keen grasp of his company's value to the Empire. So long as Sienar Fleet Systems continues to develop and produce weapons of destruction for the Emperor, SFS—and, by extension, its CEO—will survive. He doesn't like to think about the alternative." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d668-s111-the-same-goes-for-company-head.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:282`
 
 - Note (summary from our notes, not a quotation): Page contents: Sienar Joining (Raith Sienar interviews), Leaving; feats Sienar Service Contract, Starship Power Override; Sienar Engineer prestige class and Table 5-13. (hand-read)
@@ -198,7 +197,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Examples of this destiny include Grand Moff Tarkin and the construction of the Death Star, Raith Sienar and the TIE fighter, and Walex Blissex and the Victory-class Star Destroyers.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Grand Moff Tarkin. POV: Grand Moff Tarkin, about Raith Sienar.
 Note (our notes, around the quote): Grand Moff Tarkin: "Examples of this destiny include Grand Moff Tarkin and the construction of the Death Star, Raith Sienar and the TIE fighter, and Walex Blissex and the Victory-class Star Destroyers." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.37
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.37 — full quote as printed](quotes/d729-s37-examples-of-this-destiny-include-grand.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-001-060.md:244`
 
 ## Star Wars Insider #46 (1999)

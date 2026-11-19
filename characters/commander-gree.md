@@ -24,13 +24,11 @@ Our notes: `notes/materials/037-sw-d20-folder/100-champions-of-the-force-preview
 > Commander Gree, originally designated CC 1004, became an early beneficiary of a special clone commander training program that encouraged more individuality and independent thought than allowed in average clones. CC 1004 was selected partially for his intense interest in obscure alien cultures. To emphasize the unique nature of his individuality, CC 1004 took the name Gree, in reference to a little-known Republic species.
 — Source: Characters/Miniatures/Champions of the Force Preview 1.pdf [Star Wars Rol; Commander Gree — entry/section: Commander Gree's individuality.
 Note (our notes, around the quote): Commander Gree — entry/section: Commander Gree's individuality: "Commander Gree, originally designated CC 1004, became an early beneficiary of a special clone commander training program that encouraged more individuality and independent thought than allowed in average clones. CC 1004 was selected partially for his intense interest in obscure alien cultures. To emphasize the unique nature of his individuality, CC 1004 took the name Gree, in reference to a little-known Republic species." Source: *Champions of the Force Preview 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d100-s2-commander-gree-originally-designated-cc-1004.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/100-champions-of-the-force-preview-1.md:27`
 
 > In deference to his unusual knowledge base, Commander Gree's camouflageclad 41st Elite Corps deployed to worlds with indigenous species. He served under Yoda on the Wookiee homeworld of Kashyyyk. Loyal to the Republic to the end, the Commander lost his life to the Jedi Master while attempting to carry out Order 66.
 — Source: Characters/Miniatures/Champions of the Force Preview 1.pdf [Star Wars Rol.
 Note (our notes, around the quote): Commander Gree; Yoda — entry/section: Gree on Kashyyyk and Order 66: "In deference to his unusual knowledge base, Commander Gree's camouflageclad 41st Elite Corps deployed to worlds with indigenous species. He served under Yoda on the Wookiee homeworld of Kashyyyk. Loyal to the Republic to the end, the Commander lost his life to the Jedi Master while attempting to carry out Order 66." Source: *Champions of the Force Preview 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Champions of the Force Preview 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d100-s2-in-deference-to-his-unusual-knowledge.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/100-champions-of-the-force-preview-1.md:29`
 
 ## Characters/Miniatures/Champions of the Force Preview 3.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -47,7 +45,6 @@ Our notes: `notes/materials/037-sw-d20-folder/102-champions-of-the-force-preview
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 94 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_94_pdf_5a0921ef08`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_94_pdf`.)
 Note (our notes, around the quote): Commander Gree — entry/section: Clone Commander Gree: both Order 66 and Mobile Attack: "A: It means "both Order 66 and Mobile Attack." If we had meant it to be read the second way, we would have said "Order 66 or Mobile Attack" to make it clear." Source: *Jedi Counseling 94* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 94* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d265-s3-a-it-means-both-order-66.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/265-jedi-counseling-94.md:38`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)

@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Yet the Force still wasn't done with the jungle moon: Before escaping Yavin 4, Anakin Solo helped redeem Vua Rapuung, one of the Yuuzhan Vong’s Shamed Ones.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Anakin Solo; Vua Rapuung — entry/section: Vua Rapuung redeemed.
 Note (our notes, around the quote): Anakin Solo; Vua Rapuung — entry/section: Vua Rapuung redeemed: "Yet the Force still wasn't done with the jungle moon: Before escaping Yavin 4, Anakin Solo helped redeem Vua Rapuung, one of the Yuuzhan Vong’s Shamed Ones." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154 — full quote as printed](quotes/d667-s154-yet-the-force-still-wasnt-done.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:265`
 
 ## NJO 7, *Edge of Victory I: Conquest* (Greg Keyes, Del Rey 2001): FULL consecutive re-read (2026-11-16 CST)

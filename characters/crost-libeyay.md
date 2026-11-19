@@ -14,7 +14,6 @@
 > StarForge is run by an administrator, usually one elected by the Council of Tenants. For most of the Rebellion era, the administrator was Crost Lib'eyay, a Bothan ex-spy.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Crost Lib'eyay — entry/section: StarForge Station.
 Note (our notes, around the quote): Crost Lib'eyay — entry/section: StarForge Station: "StarForge is run by an administrator, usually one elected by the Council of Tenants. For most of the Rebellion era, the administrator was Crost Lib'eyay, a Bothan ex-spy." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.110
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.110 — full quote as printed](quotes/d047-s110-starforge-is-run-by-an-administrator.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:335`
 
 # Debate and forum claims (unverified)

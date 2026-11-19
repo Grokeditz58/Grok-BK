@@ -59,13 +59,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:275`
 > For a moment, an impasse holds, until young Anakin causes a power droid to distract Furgan long enough for Terpfen to snatch the baby away.
 — Source: Chapter Five: Forces of the Empire; Anakin Solo; Ambassador Furgan; Terpfen — Ambassador Furgan — Anakin's rescue.
 Note (our notes, around the quote): Anakin Solo; Ambassador Furgan; Terpfen — Ambassador Furgan — Anakin's rescue: "For a moment, an impasse holds, until young Anakin causes a power droid to distract Furgan long enough for Terpfen to snatch the baby away." Source: The Jedi Academy Sourcebook, p.54
-![Quote image: The Jedi Academy Sourcebook, p.54 — full quote as printed](quotes/jas-p54-ambassador-furgan-anakins-rescue.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:33`
 
 > Furgan attempts to flee in one of the spider walkers, but is destroyed by Terpfen before he can escape the area.
 — Source: Chapter Five: Forces of the Empire; Ambassador Furgan; Terpfen — Ambassador Furgan — death.
 Note (our notes, around the quote): Ambassador Furgan; Terpfen — Ambassador Furgan — death: "Furgan attempts to flee in one of the spider walkers, but is destroyed by Terpfen before he can escape the area." Source: The Jedi Academy Sourcebook, p.54
-![Quote image: The Jedi Academy Sourcebook, p.54 — full quote as printed](quotes/jas-p54-ambassador-furgan-death.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:35`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)

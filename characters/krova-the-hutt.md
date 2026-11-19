@@ -34,7 +34,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Krova, Lieutenant A communications officer in the Galactic Alliance military assigned to the Star Destroyer Anakin Solo during the Alliance's war with the Confederation.
 — Source: scan pages 201–240; Anakin Solo. POV: Anakin Solo, about Krova the Hutt.
 Note (our notes, around the quote): Anakin Solo: "Krova, Lieutenant A communications officer in the Galactic Alliance military assigned to the Star Destroyer Anakin Solo during the Alliance's war with the Confederation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.233
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.233 — full quote as printed](quotes/v2-p233-krova-lieutenant-a-communications-officer-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:410`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–118)

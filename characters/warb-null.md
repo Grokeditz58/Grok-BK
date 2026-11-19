@@ -26,37 +26,37 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:33`
 > Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Warb Null.
 Note (our notes, around the quote): Recap of #1: "Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:34`
 
 > The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Warb Null.
 Note (our notes, around the quote): Recap of #1: "The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!" · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:94`
 
 > Master Arca is felled by a blow of dark Force
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Warb Null.
 Note (our notes, around the quote): Recap of #1: "Master Arca is felled by a blow of dark Force"; Ommin's bolts subdue him. · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:121`
 
 > AS CAY QEL-DROMA AND OSS WILUM ENGAGE THE PRODIGIOUS WARRIOR WITH CLASHING LIGHTSABERS-- --THEY FEEL THE FULL POWER OF THE WARRIOR'S CRUSHING BLOWS!
 — Source: Freedon Nadd Uprising #1, p9 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Fights Cay Qel-Droma and Oss Wilum at once.
 Note (our notes, around the quote): Fights Cay Qel-Droma and Oss Wilum at once: "AS CAY QEL-DROMA AND OSS WILUM ENGAGE THE PRODIGIOUS WARRIOR WITH CLASHING LIGHTSABERS-- --THEY FEEL THE FULL POWER OF THE WARRIOR'S CRUSHING BLOWS!" Source: Freedon Nadd Uprising #1, p9
-![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:140`
 
 - Note (summary from our notes, not a quotation): Presses a wall of dark Force on Ulic Qel-Droma; killed by one blow. Source: Freedon Nadd Uprising #1, p16
   — Source: Freedon Nadd Uprising #1, p16 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](panels/fnu1-p16-ulic-kills-warb-null.jpg)
+![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:141`
 
 > THEIR LEADER IS AN ARMORED WARRIOR WHO COMBINES MARTIAL PROWESS WITH HIS PRACTICE IN THE DARK SIDE OF THE FORCE.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Warb Null. POV: narrator, about Warb Null.
 Note (our notes, around the quote): Narration on Warb Null: "THEIR LEADER IS AN ARMORED WARRIOR WHO COMBINES MARTIAL PROWESS WITH HIS PRACTICE IN THE DARK SIDE OF THE FORCE." · NARRATION. Source: Freedon Nadd Uprising #1, p8
-![Freedon Nadd Uprising #1 p8: Warb Null, an armored warrior who combines martial prowess with the dark side](panels/fnu1-p08-warb-null-intro.jpg)
+![Freedon Nadd Uprising #1 p8: Warb Null, an armored warrior who combines martial prowess with the dark side](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p08-warb-null-intro.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:144`
 
 > HOLD TO THE LIGHT, OSS! IT'S ALL WE'VE GOT!
@@ -73,7 +73,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:156`
 > As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap (Galia's role). POV: Recap, about Warb Null.
 Note (our notes, around the quote): Recap (Galia's role): "As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:245`
 
 - Note (summary from our notes, not a quotation): | 1 | Warb Null vs Cay Qel-Droma and Oss Wilum | Iziz cortege | p8–10 | Warb Null takes the sarcophagi and retreats |
@@ -86,22 +86,22 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:271`
 Context: | # | Fight | Where | Pages | Outcome |
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:273`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:285`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:287`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](panels/fnu1-p16-ulic-kills-warb-null.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:297`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](panels/fnu1-p16-ulic-kills-warb-null.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](panels/fnu1-p16-ulic-kills-warb-null.jpg)
+![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:299`
 
 - Note (summary from our notes, not a quotation): | 66–76 | The Sith | Bios + stat blocks: Queen Amanoa, Freedon Nadd, King Ommin, Novar, Warb Null; Sith fiction |
@@ -131,13 +131,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive.
 — Source: scan pages 361–400.
 Note (our notes, around the quote): Warb Null; Arca Jeth; King Ommin; Freedon Nadd — entry/section: Null, Warb: "When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive." Source: The Complete Star Wars Encyclopedia, Vol. II, p.394
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.394 — full quote as printed](quotes/v2-p394-when-jedi-master-arca-jeth-appealed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:327`
 
 > Warb Null, however, was struck down and killed by Ulic Qel-Droma.
 — Source: scan pages 361–400; Warb Null; Ulic Qel-Droma — entry/section: Null, Warb.
 Note (our notes, around the quote): Warb Null; Ulic Qel-Droma — entry/section: Null, Warb: "Warb Null, however, was struck down and killed by Ulic Qel-Droma." Source: The Complete Star Wars Encyclopedia, Vol. II, p.394
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.394 — full quote as printed](quotes/v2-p394-warb-null-however-was-struck-down.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:329`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -157,7 +155,6 @@ Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:196`
 > (TOT], DLOS) Warb Null-—The leader of the dissident Naddists, Null combined martial prowess with his mastery of the dark-side of the Force.
 — Source: Star Wars Insider #28 (1996); Warb Null — entry/section: Star Wars Insider 028 (1996).
 Note (our notes, around the quote): Warb Null — entry/section: Star Wars Insider 028 (1996): "(TOT], DLOS) Warb Null-—The leader of the dissident Naddists, Null combined martial prowess with his mastery of the dark-side of the Force." Source: *Star Wars Insider #28* (1996), scan p.58
-![Quote image: *Star Wars Insider #28* (1996), scan p.58 — full quote as printed](quotes/ins028-s58-tot-dlos-warb-null-the-leader.jpg)
 Our notes: `notes/materials/038-star-wars-insider/028-ins028.md:327`
 
 ## Star Wars Insider #147 (2014)
@@ -169,7 +166,6 @@ Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:315`
 > Do not worry, my disciple. You will have your place in the history of the galaxy. You will go where I cannot and help restore the glory of the Sith, Warb Null.
 — Source: Star Wars Insider #147 (2014); Warb Null — entry/section: Hammer.
 Note (our notes, around the quote): Warb Null — entry/section: Hammer: ""Do not worry, my disciple. You will have your place in the history of the galaxy. You will go where I cannot and help restore the glory of the Sith, Warb Null." —unnamed voice in vision, Hammer, Star Wars Insider 147, p. 51" Source: *Star Wars Insider #147* (2014), scan p.51
-![Quote image: *Star Wars Insider #147* (2014), scan p.51 — full quote as printed](quotes/ins147-s51-do-not-worry-my-disciple-you.jpg)
 Our notes: `notes/materials/038-star-wars-insider/147-ins147.md:317`
 
 ## Star Wars Insider #151 (2014)

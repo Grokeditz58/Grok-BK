@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/150-tru-veld-jedi-padawan.md:10`
 > Tru Veld's master is the enigmatic and soft-spoken Master Ry-Gaul, who has the respect of the entire Jedi Temple.
 — Source: Characters/Tru Veld, Jedi Padawan.pdf [Star Wars Roleplaying Game Revised; Tru Veld; Ry-Gaul — entry/section: Tru Veld's master.
 Note (our notes, around the quote): Tru Veld; Ry-Gaul — entry/section: Tru Veld's master: "Tru Veld's master is the enigmatic and soft-spoken Master Ry-Gaul, who has the respect of the entire Jedi Temple." Source: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d150-s1-tru-velds-master-is-the-enigmatic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/150-tru-veld-jedi-padawan.md:16`
 
 # Debate and forum claims (unverified)

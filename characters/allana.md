@@ -606,7 +606,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 > Luke Skywalker and the new Jedi Order used the planet as arendezvous point on their mission to destroy Centerpoint Station and rescue Allana, the daughter of the Hapan Queen Mother Tenel Ka.
 — Source: scan pages 361–398; Luke Skywalker. POV: Luke Skywalker, about Allana.
 Note (our notes, around the quote): Luke Skywalker: "Luke Skywalker and the new Jedi Order used the planet as arendezvous point on their mission to destroy Centerpoint Station and rescue Allana, the daughter of the Hapan Queen Mother Tenel Ka." Source: The Complete Star Wars Encyclopedia, Vol. I, p.379
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.379 — full quote as printed](quotes/v1-p379-luke-skywalker-and-the-new-jedi.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:279`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

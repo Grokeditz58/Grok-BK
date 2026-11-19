@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 > Welcome to Mos Eisley, friend. I am Nibao Glumm, expediter, entrepreneur, and native of this depraved city.
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Nibao Glumm — entry/section: Nibao Glumm introduces Mos Eisley.
 Note (our notes, around the quote): Nibao Glumm — entry/section: Nibao Glumm introduces Mos Eisley: "Welcome to Mos Eisley, friend. I am Nibao Glumm, expediter, entrepreneur, and native of this depraved city." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.36
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.36 — full quote as printed](quotes/d056-s36-welcome-to-mos-eisley-friend-i.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:242`
 
 # Debate and forum claims (unverified)

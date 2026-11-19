@@ -14,7 +14,6 @@
 > Just before the Clone Wars, Phow Ji won the tournament in Aslaja, defeating the Jedi Knight Joclad Danva in a 47-minute fight.
 — Source: scan pages 161–200; Phow Ji. POV: Phow Ji, about Joclad Danva.
 Note (our notes, around the quote): Phow Ji: "Just before the Clone Wars, Phow Ji won the tournament in Aslaja, defeating the Jedi Knight Joclad Danva in a 47-minute fight." Source: The Complete Star Wars Encyclopedia, Vol. II, p.162
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.162 — full quote as printed](quotes/v2-p162-just-before-the-clone-wars-phow.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:63`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > The art of Teräs Käsi is about control and mastery of one's self.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Joclad Danva — entry/section: Pull quote.
 Note (our notes, around the quote): Joclad Danva — entry/section: Pull quote: ""The art of Teräs Käsi is about control and mastery of one's self." —Joclad Danua [sic, printed for Danva], Jedi Knight" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.54
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.54 — full quote as printed](quotes/d731-s54-the-art-of-ter-s-k.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:418`
 
 ## Star Wars Insider #112 (2009)

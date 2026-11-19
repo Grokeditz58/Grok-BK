@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-22
 > Half a mil transferred. Not bad for two days' work, eh? My contacts will meet your crew tomorrow at 1200 hours for the pickup. Nice doing business with you.
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi.
 Note (our notes, around the quote): Bandor Ootka — entry/section: Ootka pays: ""There," says Ootka. "Half a mil transferred. Not bad for two days' work, eh? My contacts will meet your crew tomorrow at 1200 hours for the pickup. Nice doing business with you."" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.182
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.182 — full quote as printed](quotes/d716-s182-there-says-ootka-half-a-mil.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-226.md:19`
 
 # Debate and forum claims (unverified)

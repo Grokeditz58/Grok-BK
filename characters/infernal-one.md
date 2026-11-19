@@ -15,18 +15,15 @@
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Revan — Rakata data box.
 Note (our notes, around the quote): Revan — Rakata data box: "KEY CREATIONS: The Star Forge, the Foundry, The Tomb on Belsavis KNOWN SURVIVORS: Soa, the Infernal One (warlord); Gorshaa (Belsavis warden)" Source: The Old Republic Encyclopedia, p.270
-![Quote image: The Old Republic Encyclopedia, p.270 — full quote as printed](quotes/tore-p270-key-creations-the-star-forge-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:128`
 
 - Note (summary from our notes, not a quotation): The Infernal One (Rakata warlord) — The Eternity Vault box: "The great evil sitting at the center of the Eternity Vault is a Force-using Rakata warlord who once brought Korriban to its knees. Now, the despot known as "The Infernal One" intends to conquer a galaxy that has forgotten him." Source: The Old Republic Encyclopedia, p.333, sidebar
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.333 — full quote as printed](quotes/tore-p333-the-great-evil-sitting-at-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:471`
 
 > The Rakata known as the Infernal One is a being of terrifying power, threatening Jedi and Sith alike.
 — Source: Species, technology, planets and the future; The Infernal One (Rakata warlord) — Eternity Vault caption.
 Note (our notes, around the quote): The Infernal One (Rakata warlord) — Eternity Vault caption: "The Rakata known as the Infernal One is a being of terrifying power, threatening Jedi and Sith alike." Source: The Old Republic Encyclopedia, p.333, sidebar
-![Quote image: The Old Republic Encyclopedia, p.333 — full quote as printed](quotes/tore-p333-the-rakata-known-as-the-infernal.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:473`
 
 # Debate and forum claims (unverified)

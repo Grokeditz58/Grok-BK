@@ -13,7 +13,7 @@
 
 - Note (summary from our notes, not a quotation): Saves Vima Sunrider during the Deneba droid attack. Source: Dark Lords of the Sith #3, p18–21
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p19: Sylvar saves Vima Sunrider from the Krath droids on Deneba](panels/dlots3-p19-sylvar-saves-vima.jpg)
+![Dark Lords of the Sith #3 p19: Sylvar saves Vima Sunrider from the Krath droids on Deneba](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p19-sylvar-saves-vima.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:226`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -21,13 +21,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:226`
 > To everyone's astonishment, though he had been blinded to the Force, Ulic Qel-Droma vanished into the light, a technique known only to a true Jedi Master.
 — Source: Part One: Tales of the Ancient Republic; Ulic Qel-Droma; Vima Sunrider — Ulic vanishes into the light.
 Note (our notes, around the quote): Ulic Qel-Droma; Vima Sunrider — Ulic vanishes into the light: "To everyone's astonishment, though he had been blinded to the Force, Ulic Qel-Droma vanished into the light, a technique known only to a true Jedi Master." Source: The New Essential Chronology, p.22
-![Quote image: The New Essential Chronology, p.22 — full quote as printed](quotes/nec-p22-ulic-vanishes-into-the-light.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:178`
 
 > Vima Sunrider learned much and eventually became one of the greatest Jedi of her age.
 — Source: Part One: Tales of the Ancient Republic; Vima Sunrider — Vima's later greatness.
 Note (our notes, around the quote): Vima Sunrider — Vima's later greatness: "Vima Sunrider learned much and eventually became one of the greatest Jedi of her age." Source: The New Essential Chronology, p.22
-![Quote image: The New Essential Chronology, p.22 — full quote as printed](quotes/nec-p22-vimas-later-greatness.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:180`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -35,7 +33,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > After he leaves to fight Mandalorians in the early skirmishes before the outbreak of the Mandalorian Wars, she trains with other masters, including Vima Sunrider, who cautions the Jedi Exile to be mindful of her powers, particularly her aptitude for severing another's connection to the Force.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Vima Sunrider; Meetra Surik. POV: Meetra Surik; about Vima Sunrider.
 Note (our notes, around the quote): Vima Sunrider; Meetra Surik: "After he leaves to fight Mandalorians in the early skirmishes before the outbreak of the Mandalorian Wars, she trains with other masters, including Vima Sunrider, who cautions the Jedi Exile to be mindful of her powers, particularly her aptitude for severing another's connection to the Force." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.141
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.141 — full quote as printed](quotes/d718-s141-after-he-leaves-to-fight-mandalorians.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:203`
 
 ## Star Wars Handbook 3: Dark Empire (Dark Horse, 1998) + Star Wars Insider #157–159 "The Making of Dark Empire" (Titan, 2015)

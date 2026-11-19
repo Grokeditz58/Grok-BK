@@ -176,7 +176,6 @@ Our notes: `notes/materials/037-sw-d20-folder/265-jedi-counseling-94.md:46`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 94 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_94_pdf_5a0921ef08`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 94 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_94_pdf_5a0921ef08`).)
 Note (our notes, around the quote): Mas Amedda — entry/section: Mas Amedda's Booming Voice: exactly 6 squares: "A: Booming Voice applies only to commander effects that have a range of exactly 6 squares." Source: *Jedi Counseling 94* (SWRPG d20 Revised Core), scan p.4
-![Quote image: *Jedi Counseling 94* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d265-s4-a-booming-voice-applies-only-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/265-jedi-counseling-94.md:48`
 
 - Note (summary from our notes, not a quotation): Mas Amedda; Grand Admiral Thrawn — entry/section: Mas Amedda and Thrawn: "Q: If Mas Amedda is in an Imperial squad with Grand Admiral Thrawn, can Thrawn really swap allied characters anywhere on the map?

@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:
 > At 0300 we established an airhead. At 0308 we encountered armed resistance. By the time the rest of the army arrived at 0400, there wasn't any character left for them to fight.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Barkin — entry/section: Pull quote: journal of Master Jumper Barkin.
 Note (our notes, around the quote): Barkin — entry/section: Pull quote: journal of Master Jumper Barkin: ""At 0300 we established an airhead. At 0308 we encountered armed resistance. By the time the rest of the army arrived at 0400, there wasn't any character left for them to fight." —From the journal of Master Jumper Barkin, 4789 BBY" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.128
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.128 — full quote as printed](quotes/d715-s128-at-0300-we-established-an-airhead.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:66`
 
 # Debate and forum claims (unverified)

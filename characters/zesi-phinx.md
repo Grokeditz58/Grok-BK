@@ -22,7 +22,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > If the evidence is to be believed, Phinx has survived on the capital planet for millennia and is responsible for murders numbering in the hundreds of thousands.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Zesi Phinx — entry/section: Zesi Phinx's millennia of murders.
 Note (our notes, around the quote): Zesi Phinx — entry/section: Zesi Phinx's millennia of murders: "If the evidence is to be believed, Phinx has survived on the capital planet for millennia and is responsible for murders numbering in the hundreds of thousands." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33 — full quote as printed](quotes/d665-s33-if-the-evidence-is-to-be.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:231`
 
 # Debate and forum claims (unverified)

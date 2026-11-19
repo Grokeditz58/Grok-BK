@@ -24,7 +24,6 @@ Our notes: `notes/materials/038-star-wars-insider/136-ins136.md:287`
 > When Krell is talking to Obi-Wan at the beginning of this episode [via hologram], there's that moment where he's like Robert Duvall in Apocalypse Now. All the explosions are going off, and he's just standing there, unfazed by it.
 — Source: Star Wars Insider #136 (2012); Pong Krell — entry/section: Krell unfazed under fire (Umbara commentary).
 Note (our notes, around the quote): Pong Krell — entry/section: Krell unfazed under fire (Umbara commentary): ""When Krell is talking to Obi-Wan at the beginning of this episode [via hologram], there's that moment where he's like Robert Duvall in Apocalypse Now. All the explosions are going off, and he's just standing there, unfazed by it." —Jason Tucker, Star Wars Insider 136, p. 56" Source: *Star Wars Insider #136* (2012), scan p.56
-![Quote image: *Star Wars Insider #136* (2012), scan p.56 — full quote as printed](quotes/ins136-s56-when-krell-is-talking-to-obi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/136-ins136.md:289`
 
 ## Star Wars Insider #138 (2013)

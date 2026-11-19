@@ -14,13 +14,11 @@
 > In private he trained a number of Force-sensitive individuals in the ways of the dark side, and recruited high-powered killers to silence his enemies.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Count Dooku; Asajj Ventress; Sev'rance Tann; General Grievous — Dooku's dark side minions: "In private he trained a number of Force-sensitive individuals in the ways of the dark side, and recruited high-powered killers to silence his enemies." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-dookus-dark-side-minions.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:183`
 
 > Calling on the power of the dark side, Echuu Shen-Jon cut Sev'rance Tann in half with a mighty sweep of his energy blade.
 — Source: Part Two: The Fall of the Republic; Sev'rance Tann — Echuu Shen-Jon kills Sev'rance Tann.
 Note (our notes, around the quote): Sev'rance Tann — Echuu Shen-Jon kills Sev'rance Tann: "Calling on the power of the dark side, Echuu Shen-Jon cut Sev'rance Tann in half with a mighty sweep of his energy blade." Source: The New Essential Chronology, p.55
-![Quote image: The New Essential Chronology, p.55 — full quote as printed](quotes/nec-p55-echuu-shen-jon-kills-sevrance-tann.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:233`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -28,19 +26,16 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Boorka the Hutt A Hutt rival to Jabba the Hutt on Tatooine near Mos Osnoe, he allied himself with Sev'Rance Tann during the Clone Wars.
 — Source: scan pages 81–120; Sev'rance Tann. POV: Sev'rance Tann.
 Note (our notes, around the quote): Sev'rance Tann: "Boorka the Hutt A Hutt rival to Jabba the Hutt on Tatooine near Mos Osnoe, he allied himself with Sev'Rance Tann during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.86
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.86 — full quote as printed](quotes/v1-p86-boorka-the-hutt-a-hutt-rival.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:168`
 
 > Sev'Rance Tann oversaw the development of the tank on the manufacturing planet of Krant, until the facilities were destroyed by Jedi Master Echuu Shen-Jon and his clone troopers.
 — Source: scan pages 161–200; Sev'rance Tann. POV: Sev'rance Tann.
 Note (our notes, around the quote): Sev'rance Tann: "Sev'Rance Tann oversaw the development of the tank on the manufacturing planet of Krant, until the facilities were destroyed by Jedi Master Echuu Shen-Jon and his clone troopers." Source: The Complete Star Wars Encyclopedia, Vol. I, p.178
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.178 — full quote as printed](quotes/v1-p178-sevrance-tann-oversaw-the-development-of.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:290`
 
 > Drakas,Jor A Twi'lek Jedi Knight whocommanded the Republic base at Mount Corvast on Sarapin, he was slain in battle by Sev'Rance Tann during the Clone Wars.
 — Source: scan pages 201–240; Sev'rance Tann. POV: Sev'rance Tann.
 Note (our notes, around the quote): Sev'rance Tann: "Drakas,Jor A Twi'lek Jedi Knight whocommanded the Republic base at Mount Corvast on Sarapin, he was slain in battle by Sev'Rance Tann during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.205
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.205 — full quote as printed](quotes/v1-p205-drakas-jor-a-twilek-jedi-knight.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:167`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -48,13 +43,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Reath, Stam The Padawan learner of Echuu Shen-Jon, he was slain by Sev'Rance Tann when he impetuously attempted to pursue Count Dooku during the Battle of Geonosis.
 — Source: scan pages 81–120; Sev'rance Tann; Count Dooku.
 Note (our notes, around the quote): Sev'rance Tann; Count Dooku: "Reath, Stam The Padawan learner of Echuu Shen-Jon, he was slain by Sev'Rance Tann when he impetuously attempted to pursue Count Dooku during the Battle of Geonosis." Source: The Complete Star Wars Encyclopedia, Vol. III, p.85
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.85 — full quote as printed](quotes/v3-p85-reath-stam-the-padawan-learner-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:102`
 
 > Shen-Jon led a Republic army to Krant, killed Separatist general Sev'Rance Tann and then disappeared into the Krant wilderness.
 — Source: scan pages 121–160; Sev'rance Tann. POV: Sev'rance Tann.
 Note (our notes, around the quote): Sev'rance Tann: "Shen-Jon led a Republic army to Krant, killed Separatist general Sev'Rance Tann and then disappeared into the Krant wilderness." Source: The Complete Star Wars Encyclopedia, Vol. III, p.145
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.145 — full quote as printed](quotes/v3-p145-shen-jon-led-a-republic-army.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:256`
 
 - Note (summary from our notes, not a quotation): Page contents: 1203 words, 25 paragraphs | headings/entries: Tangle Gun 7; Tango; Tangrene; Tank; Tann, General Sev'Rance; Tanogo; Tannath
@@ -64,7 +57,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > She became a general in command of the Separatist military, participating in the Battle of Geonosis and defeating the Republic on Sarapin with her experimental Decimator tanks.
 — Source: scan pages 201–240; Sev'rance Tann — entry/section: Tann, General Sev'Rance.
 Note (our notes, around the quote): Sev'rance Tann — entry/section: Tann, General Sev'Rance: "She became a general in command of the Separatist military, participating in the Battle of Geonosis and defeating the Republic on Sarapin with her experimental Decimator tanks." Source: The Complete Star Wars Encyclopedia, Vol. III, p.217
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.217 — full quote as printed](quotes/v3-p217-she-became-a-general-in-command.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:210`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -77,7 +69,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > The Confederacy forces, led by Sev'rance Tann, destroy the spaceport and wipe out the smail Republic force that had occupied it.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Sev'rance Tann. POV: Sev'rance Tann.
 Note (our notes, around the quote): Sev'rance Tann: "The Confederacy forces, led by Sev'rance Tann, destroy the spaceport and wipe out the smail Republic force that had occupied it." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.120
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.120 — full quote as printed](quotes/d728-s120-the-confederacy-forces-led-by-sevrance.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-061-120.md:434`
 
 ## https://starwars.fandom.com/wiki/Grievous/Legends

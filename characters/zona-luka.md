@@ -13,8 +13,8 @@
 
 - Note (summary from our notes, not a quotation): Sith-possessed student; duels and kills her master Master Dominus, and dies in the same fight. Source: The Sith War #4, p12–13
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p12: Zona Luka, Sith-possessed, duels her master Dominus: "Nothing personal, Master Dominus"](panels/sw4-p12-zona-luka-duels-dominus.jpg)
-![The Sith War #4 p13: Three Jedi find Dominus and Zona Luka dead; Qrrrl Toq: "Looks like he put up a good fight"](panels/sw4-p13-zona-luka-dominus-dead.jpg)
+![The Sith War #4 p12: Zona Luka, Sith-possessed, duels her master Dominus: "Nothing personal, Master Dominus"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p12-zona-luka-duels-dominus.jpg)
+![The Sith War #4 p13: Three Jedi find Dominus and Zona Luka dead; Qrrrl Toq: "Looks like he put up a good fight"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p13-zona-luka-dominus-dead.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:240`; `notes/materials/024-tales-of-the-jedi/the-sith-war.md:245`
 
 - Note (summary from our notes, not a quotation): | 8 | Zona Luka vs Master Dominus | unnamed | p12–13 (#4) | Both die | — |

@@ -22,7 +22,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:190
 > Ysanne Isard and Sate Pestage discuss who will inherit the Emperor's throne.
 — Source: Part Six: Birth of the New Republic; art caption.
 Note (our notes, around the quote): art caption: "Ysanne Isard and Sate Pestage discuss who will inherit the Emperor's throne." Source: The New Essential Chronology, p.132, caption
-![Quote image: The New Essential Chronology, p.132 — full quote as printed](quotes/nec-p132-caption-ysanne-isard-and-sate-pestage.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:29`
 
 ## The New Essential Guide to Characters (2002)

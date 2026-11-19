@@ -150,30 +150,26 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:215`
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Grand Moff Tarkin; Palpatine (Darth Sidious) — Tarkin seduced by Sidious.
 Note (our notes, around the quote): Grand Moff Tarkin; Palpatine (Darth Sidious) — Tarkin seduced by Sidious: "Tarkin had already been contacted by Darth Sidious and was seduced by the Sith Lord's vision of a Human High Culture" Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-tarkin-seduced-by-sidious.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:154`
 
 - Note (summary from our notes, not a quotation): Grand Moff Tarkin — art caption: "Grand Moff Wilhuff Tarkin" Source: The New Essential Chronology, p.87, caption
   — Source: Part Three: The Empire and the New Order.
-![Quote image: The New Essential Chronology, p.87 — full quote as printed](quotes/nec-p87-caption-grand-moff-wilhuff-tarkin.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/03-part-three-empire-new-order.md:37`
 
 > When completed, the weapon would be able to destroy entire planets with its hypermatter-fueled superlaser.
 — Source: Part Three: The Empire and the New Order; Grand Moff Tarkin — Death Star.
 Note (our notes, around the quote): Grand Moff Tarkin — Death Star: "When completed, the weapon would be able to destroy entire planets with its hypermatter-fueled superlaser." Source: The New Essential Chronology, p.87
-![Quote image: The New Essential Chronology, p.87 — full quote as printed](quotes/nec-p87-death-star.jpg)
+![Quote image: The New Essential Chronology, p.87 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p87-death-star.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/03-part-three-empire-new-order.md:39`
 
 > When a warship arrived under the command of Wilhuff Tarkin, it landed on top of the protesters and killed hundreds.
 — Source: Part Three: The Empire and the New Order; Grand Moff Tarkin; Palpatine (Darth Sidious) — Ghorman Massacre.
 Note (our notes, around the quote): Grand Moff Tarkin; Palpatine (Darth Sidious) — Ghorman Massacre: "When a warship arrived under the command of Wilhuff Tarkin, it landed on top of the protesters and killed hundreds." Source: The New Essential Chronology, p.88
-![Quote image: The New Essential Chronology, p.88 — full quote as printed](quotes/nec-p88-ghorman-massacre.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/03-part-three-empire-new-order.md:46`
 
 > Rule through the fear of force, rather than by force itself.
 — Source: Part Five: The Galactic Civil War; Grand Moff Tarkin — Tarkin Doctrine.
 Note (our notes, around the quote): Grand Moff Tarkin — Tarkin Doctrine: ""Rule through the fear of force, rather than by force itself."" Source: The New Essential Chronology, p.107
-![Quote image: The New Essential Chronology, p.107 — full quote as printed](quotes/nec-p107-tarkin-doctrine.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:18`
 
 > If a small ship were to or the bounty hunter Valance could extract a confession. fly into a surface trench and launch a proton torpedo into a Through the torture of another informant, Vader finally got | tiny thermal exhaust port, the torpedo could reach the hyper- the confirmation he sought—the Death Star's destroyer was matter core and annihilate the battle station in a catastrophic Luke Skywalker, Vader's own son. chain reaction.
@@ -188,7 +184,6 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Luke Skywalker; Grand Moff Tarkin — Battle of Yavin: "one pilot—Luke Skywalker, using his newfound skills with the Force—scored a direct hit. The Death Star exploded, killing Grand Moff Tarkin" Source: The New Essential Chronology, p.110
-![Quote image: The New Essential Chronology, p.110 — full quote as printed](quotes/nec-p110-battle-of-yavin.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:45`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -204,13 +199,11 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — Tarkin's protege: "She absorbed every lesson Tarkin taught her, and came to analyze every scenario and situation in light of how he might respond to it." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-tarkins-protege.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:53`
 
 > Her plan is tactically flawless, but it reveals her greatest weakness: her tendency to rely on Tarkin's strategies rather than her own instincts.
 — Source: Chapter Five: Forces of the Empire; Admiral Daala — Admiral Daala — Calamari.
 Note (our notes, around the quote): Admiral Daala — Admiral Daala — Calamari: "Her plan is tactically flawless, but it reveals her greatest weakness: her tendency to rely on Tarkin's strategies rather than her own instincts." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-calamari.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:61`
 
 > This —_ asteroid). allowed him to keep the location of Maw Instal- The Hub is the only asteroid with an internal lation secret even from the upper levels of the — docking baylarge enough to accommodate more government, Tarkin successfully kept knowl- — than two shuttles at a time. There are weapon edge of the installation from otherImperiallead- _ batteries scattered here and there on the sur- ers, having no desire to subject his pet project face of the Hub, though they are not seriously totheir political games and intrigues. He played intended to fend off invaders. The Star Destroy- afar more dangerous game by seeking to hide —_— ers are intended to provide defense should Maw the specifics of his project from the Emperor. Installation come under attack.
@@ -222,13 +215,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Admiral Daala — Maw Installation — secret from the Emperor: "Tarkin and Daala believed that Palpatine never did learn the location of Maw Installation." Source: The Jedi Academy Sourcebook, p.65
-![Quote image: The Jedi Academy Sourcebook, p.65 — full quote as printed](quotes/jas-p65-maw-installation-secret-from-the-emperor.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:28`
 
 > Of the 10 Omwati children who entered the program, only Qwi made it through all the training.
 — Source: Chapter Six: Maw Installation; Qwi Xux — Qwi Xux — Tarkin's training program.
 Note (our notes, around the quote): Qwi Xux — Qwi Xux — Tarkin's training program: "Of the 10 Omwati children who entered the program, only Qwi made it through all the training." Source: The Jedi Academy Sourcebook, p.75
-![Quote image: The Jedi Academy Sourcebook, p.75 — full quote as printed](quotes/jas-p75-qwi-xux-tarkins-training-program.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.md:102`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -236,13 +227,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/06-ch6-maw-installation.
 > One of the first to be enslaved, Ackbar eventually became an interpreter for Grand Moff Tarkin.
 — Source: scan pages 1–40; Admiral Ackbar; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Grand Moff Tarkin: "One of the first to be enslaved, Ackbar eventually became an interpreter for Grand Moff Tarkin." Source: The Complete Star Wars Encyclopedia, Vol. I, p.9
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.9 — full quote as printed](quotes/v1-p9-one-of-the-first-to-be.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:143`
 
 > It was Tarkin's influence that allowed Daala to ascend to the rank of admiral, and he placed her in command of a quartet of Imperial Star Destroyers patrolling the Outer Rim Territories.
 — Source: scan pages 161–200; Grand Moff Tarkin; Admiral Daala.
 Note (our notes, around the quote): Grand Moff Tarkin; Admiral Daala: "It was Tarkin's influence that allowed Daala to ascend to the rank of admiral, and he placed her in command of a quartet of Imperial Star Destroyers patrolling the Outer Rim Territories." Source: The Complete Star Wars Encyclopedia, Vol. I, p.159
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.159 — full quote as printed](quotes/v1-p159-it-was-tarkins-influence-that-allowed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:115`
 
 > The Death Star had the horrifying ability to destroy an entire planet teeming with life with a relatively short burst ofits superlaser. Emperor Pal­ patine hoped it would instill the terror needed to keep thousands of star systems in line. It was rule by fear of force. That doctrine, and the development of the superweapon, came from the mind of Wilhuff Tarkin, who was inspired by Raith Sienar's initial visions of an Expeditionary Battle Plan­ etoid. Sienar's technical genius foresaw that a moon-sized battle station was feasible, but it was Tarkin who understood how it could be applied to enforce order in the galaxy. During the Separatist crisis, Sith Lord Darth Tyranus tapped into the engineering prowess of many of the galaxy's leading build­ ers, and had the Geonosians develop a set of working schematics for such a battle station. Dooku then delivered these secret plans to his master, Darth Sidious, who-as Chancellor Palpatine-was in a position to make the sta­ tion a reality once he supplanted the Galactic Republic with the New Order. Tarkin had great difficulty in adapting the Geonosian plans into a working model, so he ordered a think tank of engineers within a top-secret research facility, the Maw Instal­ lation, to review the schematics for feasibil­ ity from top to bottom and create a working prototype Death Star.
@@ -250,7 +239,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Grand Moff Tarkin: "Sienar's technical genius foresaw that a moon-sized battle station was feasible, but it was Tarkin who understood how it could be applied to enforce order in the galaxy." Source: The Complete Star Wars Encyclopedia, Vol. I, p.176
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.176 — full quote as printed](quotes/v1-p176-sienars-technical-genius-foresaw-that-a.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:270`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -258,55 +246,46 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > Invincible (4) The flagship of the small, independent war fleet amassed by Ranulph Tarkin before the Stark Hyperspace Conflict.
 — Source: scan pages 81–120; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Invincible (4) The flagship of the small, independent war fleet amassed by Ranulph Tarkin before the Stark Hyperspace Conflict." Source: The Complete Star Wars Encyclopedia, Vol. II, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.110 — full quote as printed](quotes/v2-p110-invincible-4-the-flagship-of-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:227`
 
 > The Invincible survived the navigational computer virus developed by laco Stark and unleashed on Tarkin's ships.
 — Source: scan pages 81–120; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "The Invincible survived the navigational computer virus developed by laco Stark and unleashed on Tarkin's ships." Source: The Complete Star Wars Encyclopedia, Vol. II, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.110 — full quote as printed](quotes/v2-p110-the-invincible-survived-the-navigational-computer.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:229`
 
 > In short order, the /nvincible was destroyed, although many officers and crew managed to evacuate, including Tarkin.
 — Source: scan pages 81–120; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "In short order, the /nvincible was destroyed, although many officers and crew managed to evacuate, including Tarkin." Source: The Complete Star Wars Encyclopedia, Vol. II, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.110 — full quote as printed](quotes/v2-p110-in-short-order-the-nvincible-was.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:231`
 
 > According to Jarvis's report, Tarkin was traveling to the Tallaan Shipyard when his shuttle malfunctioned and exploded.
 — Source: scan pages 121–160; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "According to Jarvis's report, Tarkin was traveling to the Tallaan Shipyard when his shuttle malfunctioned and exploded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.141
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.141 — full quote as printed](quotes/v2-p141-according-to-jarviss-report-tarkin-was.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:190`
 
 > He was chosen for the position because Palpatine wanted to avoid the hubris that killed Wilhuff Tarkin and lost the first Death Star.
 — Source: scan pages 161–200; Palpatine (Darth Sidious); Grand Moff Tarkin.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Moff Tarkin: "He was chosen for the position because Palpatine wanted to avoid the hubris that killed Wilhuff Tarkin and lost the first Death Star." Source: The Complete Star Wars Encyclopedia, Vol. II, p.158
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.158 — full quote as printed](quotes/v2-p158-he-was-chosen-for-the-position.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:37`
 
 > Manticore One of the four Star Destroyers stationed at the Maw Installation by Grand Moff Tarkin during the New Order.
 — Source: scan pages 281–320; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Manticore One of the four Star Destroyers stationed at the Maw Installation by Grand Moff Tarkin during the New Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.286
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.286 — full quote as printed](quotes/v2-p286-manticore-one-of-the-four-star.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:107`
 
 > The Manticore never completed its mission, however: It was destroyed when Admiral Ackbar recognized Daala's tactics as those of Tarkin.
 — Source: scan pages 281–320; Admiral Ackbar; Admiral Daala; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Admiral Daala; Grand Moff Tarkin: "The Manticore never completed its mission, however: It was destroyed when Admiral Ackbar recognized Daala's tactics as those of Tarkin." Source: The Complete Star Wars Encyclopedia, Vol. II, p.287
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.287 — full quote as printed](quotes/v2-p287-the-manticore-never-completed-its-mission.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:114`
 
 > Many Mon Calamari were enslaved by the Empire, including Ackbar, who was forced to be the personal servant of Grand Moff Tarkin.
 — Source: scan pages 321–360; Admiral Ackbar; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Grand Moff Tarkin: "Many Mon Calamari were enslaved by the Empire, including Ackbar, who was forced to be the personal servant of Grand Moff Tarkin." Source: The Complete Star Wars Encyclopedia, Vol. II, p.325
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.325 — full quote as printed](quotes/v2-p325-many-mon-calamari-were-enslaved-by.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:78`
 
 > However, when Nord decided to use the ionic cannon aboard the Tarkin to take out Luke Skywalker and Leia Organa, the superweapon exploded.
 — Source: scan pages 361–400; Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo.
 Note (our notes, around the quote): Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo: "However, when Nord decided to use the ionic cannon aboard the Tarkin to take out Luke Skywalker and Leia Organa, the superweapon exploded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.389
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.389 — full quote as printed](quotes/v2-p389-however-when-nord-decided-to-use.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:282`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -314,19 +293,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Taken aboard the Death Star, Leia was able to block interrogation probes, but the battle station's commander, Grand Moff Tarkin, threatened to destroy Leia's planet of Alderaan—home to her father and billions of other residents—if she didn't reveal the site of the secret Rebel base.
 — Source: scan pages 161–200; Leia Organa Solo; Grand Moff Tarkin.
 Note (our notes, around the quote): Leia Organa Solo; Grand Moff Tarkin: "Taken aboard the Death Star, Leia was able to block interrogation probes, but the battle station's commander, Grand Moff Tarkin, threatened to destroy Leia's planet of Alderaan—home to her father and billions of other residents—if she didn't reveal the site of the secret Rebel base." Source: The Complete Star Wars Encyclopedia, Vol. III, p.177
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.177 — full quote as printed](quotes/v3-p177-taken-aboard-the-death-star-leia.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:270`
 
 > Quietly, she named Dantooine, a lie that Tarkin believed, but he ordered Alderaan to be destroyed anyway.
 — Source: scan pages 161–200; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Quietly, she named Dantooine, a lie that Tarkin believed, but he ordered Alderaan to be destroyed anyway." Source: The Complete Star Wars Encyclopedia, Vol. III, p.177
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.177 — full quote as printed](quotes/v3-p177-quietly-she-named-dantooine-a-lie.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:272`
 
 > When Grand Moff Tarkin was killed aboard the first Death Star, the Empire released an official statement claiming that Tarkin had actually died in a shuttle crash at the Tallaan shipyards.
 — Source: scan pages 201–240; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "When Grand Moff Tarkin was killed aboard the first Death Star, the Empire released an official statement claiming that Tarkin had actually died in a shuttle crash at the Tallaan shipyards." Source: The Complete Star Wars Encyclopedia, Vol. III, p.214
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.214 — full quote as printed](quotes/v3-p214-when-grand-moff-tarkin-was-killed.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:183`
 
 - Note (summary from our notes, not a quotation): Page contents: 858 words, 16 paragraphs | headings/entries: Tarhassan; Taris; Tarkin, Gideon
@@ -340,13 +316,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > After interrogations failed, Tarkin made Leia watch as he destroyed her adopted planet of Alderaan and its billions of inhabitants with the Death Star's main weapon.
 — Source: scan pages 201–240; Grand Moff Tarkin; Leia Organa Solo — entry/section: Tarkin, Gideon.
 Note (our notes, around the quote): Grand Moff Tarkin; Leia Organa Solo — entry/section: Tarkin, Gideon: "After interrogations failed, Tarkin made Leia watch as he destroyed her adopted planet of Alderaan and its billions of inhabitants with the Death Star's main weapon." Source: The Complete Star Wars Encyclopedia, Vol. III, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.221 — full quote as printed](quotes/v3-p221-after-interrogations-failed-tarkin-made-leia.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:244`
 
 > When Colonel Nord decided to use the ionic cannon aboard the Tarkin to take out Luke Skywalker and Leia Organa, the superweapon exploded.
 — Source: scan pages 281–320; Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo.
 Note (our notes, around the quote): Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo: "When Colonel Nord decided to use the ionic cannon aboard the Tarkin to take out Luke Skywalker and Leia Organa, the superweapon exploded." Source: The Complete Star Wars Encyclopedia, Vol. III, p.309
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.309 — full quote as printed](quotes/v3-p309-when-colonel-nord-decided-to-use.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:286`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -354,13 +328,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Grand Moff Tarkin maneuvered the dreaded Death Star into position to destroy the moon with its superlaser.
 — Source: Chapter Seven: Where the Force is strong; Index; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Grand Moff Tarkin maneuvered the dreaded Death Star into position to destroy the moon with its superlaser." Source: Power of the Jedi Sourcebook, p.138
-![Quote image: Power of the Jedi Sourcebook, p.138 — full quote as printed](quotes/potj-p138-grand-moff-tarkin-maneuvered-the-dreaded.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:58`
 
 > The Death Star was destroyed—and Grand Moff Tarkin along with it.
 — Source: Chapter Seven: Where the Force is strong; Index; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "The Death Star was destroyed—and Grand Moff Tarkin along with it." Source: Power of the Jedi Sourcebook, p.138
-![Quote image: Power of the Jedi Sourcebook, p.138 — full quote as printed](quotes/potj-p138-the-death-star-was-destroyed-and.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:62`
 
 ## The New Essential Guide to Characters (2002)
@@ -368,13 +340,11 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 > From them, she learned of Tarkin's death and the Empire's defeat at Yavin.
 — Source: scan pages 31–60; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "From them, she learned of Tarkin's death and the Empire's defeat at Yavin." Source: The New Essential Guide to Characters, p.48
-![Quote image: The New Essential Guide to Characters, p.48 — full quote as printed](quotes/negc-p48-from-them-she-learned-of-tarkins.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:82`
 
 > Motivated by fear, he set to work designing the second Death Star, and also built the Tarkin superlaser.
 — Source: scan pages 91–120; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Motivated by fear, he set to work designing the second Death Star, and also built the Tarkin superlaser." Source: The New Essential Guide to Characters, p.112
-![Quote image: The New Essential Guide to Characters, p.112 — full quote as printed](quotes/negc-p112-motivated-by-fear-he-set-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:120`
 
 - Note (summary from our notes, not a quotation): Page contents: 607 words, 18 paragraphs | headings/entries: Five years before the Battle of; Tarkin moved back to Eriadu full; TT penne wow enmeere yeh berh midlet
@@ -383,37 +353,31 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 
 - Note (summary from our notes, not a quotation): Grand Moff Tarkin: "Three years after the Battle of Naboo, Tarkin saw an opportunity for advancement if he could acquire one of the legendary "living starships" from the hidden world Zonama Sekot." Source: The New Essential Guide to Characters, p.180
   — Source: scan pages 151–180. POV: Grand Moff Tarkin.
-![Quote image: The New Essential Guide to Characters, p.180 — full quote as printed](quotes/negc-p180-three-years-after-the-battle-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:182`
 
 > Tarkin briefly met young Anakin, who tried to use a Force chokehold on the older man.
 — Source: scan pages 151–180; Grand Moff Tarkin; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Grand Moff Tarkin; Darth Vader (Anakin Skywalker): "Tarkin briefly met young Anakin, who tried to use a Force chokehold on the older man." Source: The New Essential Guide to Characters, p.180
-![Quote image: The New Essential Guide to Characters, p.180 — full quote as printed](quotes/negc-p180-tarkin-briefly-met-young-anakin-who.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:184`
 
 > Tarkin's first act as commander of the Death Star was to destroy the penal planet around which it orbited.
 — Source: scan pages 151–180; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Tarkin's first act as commander of the Death Star was to destroy the penal planet around which it orbited." Source: The New Essential Guide to Characters, p.181
-![Quote image: The New Essential Guide to Characters, p.181 — full quote as printed](quotes/negc-p181-tarkins-first-act-as-commander-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:191`
 
 > Tarkin couldn't help but imagine what a colossal bargaining chip he would hold should he train the Death Star's superlaser on Coruscant.
 — Source: scan pages 151–180; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Tarkin couldn't help but imagine what a colossal bargaining chip he would hold should he train the Death Star's superlaser on Coruscant." Source: The New Essential Guide to Characters, p.181
-![Quote image: The New Essential Guide to Characters, p.181 — full quote as printed](quotes/negc-p181-tarkin-couldnt-help-but-imagine-what.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:193`
 
 > When Princess Leia refused to divulge the location of the main Rebel base, Tarkin destroyed the peaceful world of Alderaan on his own initiative, without consulting the Emperor, then moved against the Rebel base on Yavin 4.
 — Source: scan pages 151–180; Leia Organa Solo; Grand Moff Tarkin.
 Note (our notes, around the quote): Leia Organa Solo; Grand Moff Tarkin: "When Princess Leia refused to divulge the location of the main Rebel base, Tarkin destroyed the peaceful world of Alderaan on his own initiative, without consulting the Emperor, then moved against the Rebel base on Yavin 4." Source: The New Essential Guide to Characters, p.181
-![Quote image: The New Essential Guide to Characters, p.181 — full quote as printed](quotes/negc-p181-when-princess-leia-refused-to-divulge.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:195`
 
 > More than three years after Tarkin's death, Imperial officers honored his memory by naming an experimental superlaser test bed— essentially a scaled-down Death Star—for the late Grand Moff.
 — Source: scan pages 151–180; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "More than three years after Tarkin's death, Imperial officers honored his memory by naming an experimental superlaser test bed— essentially a scaled-down Death Star—for the late Grand Moff." Source: The New Essential Guide to Characters, p.181
-![Quote image: The New Essential Guide to Characters, p.181 — full quote as printed](quotes/negc-p181-more-than-three-years-after-tarkins.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:197`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -423,7 +387,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Grand Moff Tarkin; Leia Organa Solo: "The evil Tarkin demonstrated the battle station's power to Rebel leader Princess Leia Organa by destroying her homeworld of Alderaan." Source: Dark Side Sourcebook, p.92
-![Quote image: Dark Side Sourcebook, p.92 — full quote as printed](quotes/dss-p92-the-evil-tarkin-demonstrated-the-battle.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:227`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -435,13 +398,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Although he spent little time on Coruscant, preferring to work from his Outer Rim home of Eriadu, Tarkin was nonetheless a powerful figure in the Emperor's court. In matters of philosophy and policy, only the Emperor's opinions carried more weight.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin second only to the Emperor: "Although he spent little time on Coruscant, preferring to work from his Outer Rim home of Eriadu, Tarkin was nonetheless a powerful figure in the Emperor's court. In matters of philosophy and policy, only the Emperor's opinions carried more weight." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.19
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.19 — full quote as printed](quotes/d043-s19-although-he-spent-little-time-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:104`
 
 > He also kept the capabilities of Force-users keenly in mind, maintaining a close relationship with Darth Vader over the decades, and calling on the Dark Lord's services almost as frequently as the Emperor himself did.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Grand Moff Tarkin; Darth Vader (Anakin Skywalker) — entry/section: Tarkin's use of Vader: "He also kept the capabilities of Force-users keenly in mind, maintaining a close relationship with Darth Vader over the decades, and calling on the Dark Lord's services almost as frequently as the Emperor himself did." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.19
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.19 — full quote as printed](quotes/d043-s19-he-also-kept-the-capabilities-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:106`
 
 - Note (summary from our notes, not a quotation): Page contents: Death Star's final test upon completion was the destruction of Horuz (penal system); Tarkin believed it 'invincible'; Bevel Lemelisk Expert 12 (hand-read)
@@ -451,31 +412,26 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > He believed that the fully functional battle station was invincible—the ultimate, impervious pinnacle of military technology.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin Doctrine (Rebellion Era Sourcebook, Ch1): "He believed that the fully functional battle station was invincible—the ultimate, impervious pinnacle of military technology." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.20
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.20 — full quote as printed](quotes/d043-s20-he-believed-that-the-fully-functional.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:119`
 
 > Thanks to the twisted genius of Grand Moff Tarkin's -_- . think tank, the Death Star could be used to destroy any r 1¢ Death Star was created to be the ultimate too! of : es vorld that would not bend to Imperial might. ¢ conquest and subjugation, The original Death Star was the largest mobile space station ever built.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Thanks to the twisted genius of Grand Moff Tarkin's -_- . think tank, the Death Star could be used to destroy any r 1¢ Death Star was created to be the ultimate too! of : es vorld that would not bend to Imperial might. ¢ conquest and subjugation, The original Death Star was the largest mobile space station ever built." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.42
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.42 — full quote as printed](quotes/d043-s42-thanks-to-the-twisted-genius-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:257`
 
 > The Death Star was designed to destroy planets, Most Imperial strategists assumed that the threat the battle station posed would be deterrent enough for most worlds and their populations, but Grand Moff Tarkin believed that the Rebellion was growing too audacious, too bold, Tarkin convinced the Emperor that the best course of action would be to demonstrate the full power of the Death Star by eliminating a Rebel target.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "The Death Star was designed to destroy planets, Most Imperial strategists assumed that the threat the battle station posed would be deterrent enough for most worlds and their populations, but Grand Moff Tarkin believed that the Rebellion was growing too audacious, too bold, Tarkin convinced the Emperor that the best course of action would be to demonstrate the full power of the Death Star by eliminating a Rebel target." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.43
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.43 — full quote as printed](quotes/d043-s43-the-death-star-was-designed-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:264`
 
 > When Princess Leia fell into Tarkin's hands, the Grand Moff threatened to destroy her homeworld unless she revealed the location of the main Rebel base.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Leia Organa Solo; Grand Moff Tarkin.
 Note (our notes, around the quote): Leia Organa Solo; Grand Moff Tarkin: "When Princess Leia fell into Tarkin's hands, the Grand Moff threatened to destroy her homeworld unless she revealed the location of the main Rebel base." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.43
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.43 — full quote as printed](quotes/d043-s43-when-princess-leia-fell-into-tarkins.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:266`
 
 > Grand Moff Tarkin finally convinced her to reveal the location of the Rebel base when he threatened to destroy her home planet of Alderaan.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Grand Moff Tarkin finally convinced her to reveal the location of the Rebel base when he threatened to destroy her home planet of Alderaan." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.57
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.57 — full quote as printed](quotes/d043-s57-grand-moff-tarkin-finally-convinced-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:348`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -489,13 +445,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > It wasn't long thereafter when Ackbar, who made a habit of studying Imperial tactics and defenses while enslaved by Tarkin, returned to Mon Calamari and convinced his people to join the Alliance.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Admiral Ackbar; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Grand Moff Tarkin: "It wasn't long thereafter when Ackbar, who made a habit of studying Imperial tactics and defenses while enslaved by Tarkin, returned to Mon Calamari and convinced his people to join the Alliance." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.138
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.138 — full quote as printed](quotes/d043-s138-it-wasnt-long-thereafter-when-ackbar.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:146`
 
 > Warlord Zsinj becomes one of the most powerful Imperial warlords of the New Republic era.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Grand Moff Tarkin — entry/section: Warlords (Rebellion Era Sourcebook, Ch4).
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Warlords (Rebellion Era Sourcebook, Ch4): "Warlord Zsinj becomes one of the most powerful Imperial warlords of the New Republic era." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.159 — full quote as printed](quotes/d043-s159-warlord-zsinj-becomes-one-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:293`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–108)
@@ -503,7 +457,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Vader's tearm relies on Star Destroyers and Tarkin's technological terror to cover the system during the initial three planets, but the Sith Master isn't particularly con cerned with space—notice that he doesn't even have his own TIE with him in this deck The capital ships are there to be sacrificed if necessary.
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Darth Vader (Anakin Skywalker); Grand Moff Tarkin.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Grand Moff Tarkin: "Vader's tearm relies on Star Destroyers and Tarkin's technological terror to cover the system during the initial three planets, but the Sith Master isn't particularly con cerned with space—notice that he doesn't even have his own TIE with him in this deck The capital ships are there to be sacrificed if necessary." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.90
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.90 — full quote as printed](quotes/d056-s90-vaders-tearm-relies-on-star-destroyers.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:198`
 
 ## Characters/Miniatures/Icons of New Hope.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -517,7 +470,6 @@ Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:44`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Icons of New Hope (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Icons_of_New_Hope_pdf_8b98da6091`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Icons of New Hope (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Icons_of_New_Hope_pdf_8b98da6091`).)
 Note (our notes, around the quote): Grand Moff Tarkin; Luke Skywalker — entry/section: Tarkin's dream and death: "The former Governor Wilhuff Tarkin was on board the Death Star during the Battle of Yavin. It was his dream that the entire galaxy would be ruled by fear, and he believed that the destruction of the Rebel Alliance by his battle station would bring the dream to reality. Grand Moff Tarkin decided not to evacuate during what he thought would be a moment of triumph, and he was killed when Luke Skywalker destroyed the Death Star." Source: *Icons of New Hope* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Icons of New Hope* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d110-s3-the-former-governor-wilhuff-tarkin-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:50`
 
 - Note (summary from our notes, not a quotation): Page contents: Tarkin skills end, feats (hand-read)
@@ -530,7 +482,6 @@ Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:61`
 — Source: Jedi Counselling/Jedi Counseling 18 - Cortosis Bullets.pdf [Star Wars Rol; Grand Moff Tarkin — entry/section: Fooled just like Tarkin.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 18 Cortosis Bullets (text copy `ary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_18_Cortosis_Bullets_pdf_7bb8857c51`).)
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Fooled just like Tarkin: "Second, give them incomplete information, and let them draw inaccurate conclusions. Tell them that they know where the Rebel base is, and let them set a course for it, go into hyperspace -- and ultimately set down on Dantooine, fooled just like Grand Moff Tarkin was." Source: *Jedi Counseling 18 - Cortosis Bullets* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 18 - Cortosis Bullets* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d181-s3-second-give-them-incomplete-information-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/181-jedi-counseling-18-cortosis-bullets.md:28`
 
 ## Jedi Counselling/Jedi Counseling 25 - Dark Side Downside.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -540,7 +491,6 @@ Our notes: `notes/materials/037-sw-d20-folder/181-jedi-counseling-18-cortosis-bu
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 25 Dark Side Downside (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_25_Dark_Side_Downside_pdf_3f17174ea1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 25 Dark Side Downside (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_25_Dark_Side_Downside_pdf_3f17174ea1`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Moff Tarkin — entry/section: Who gets the Dark Side Point for Alderaan (question): "Q: Here's an additional question: Say the Emperor orders Grand Moff Tarkin to destroy Alderaan. Tarkin orders an officer to pull the switch. Who gets the DSP? All of them? Or were the lower two merely following orders?" Source: *Jedi Counseling 25 - Dark Side Downside* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 25 - Dark Side Downside* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d189-s1-q-heres-an-additional-question-say.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/189-jedi-counseling-25-dark-side-downside.md:16`
 
 > Just a suggestion. Q: Here's an additional question: Say the Emperor orders Grand Moff Tarkin to destroy Alderaan. Tarkin orders an officer to pull the switch. Who gets the DSP? All of them? Or were the lower two merely following orders? A: Yikes! That line of reasoning didn't work at Nuremburg, and it won't work in the Star Wars universe, either. All three of them would get DSPs (though in A New Hope, it was actually Grand Moff Tarkin's decision; the Emperor didn't order it). Q: Apologies if you've already answered this, but I've gone through several of your archives and I haven't seen this addressed anywhere. The rules in Chapter Nine state: "A tainted character . . . takes a ­4 penalty on any Force skill checks made to use light side Force skills." But what exactly are light side skills? Everything that isn't dark?
@@ -548,7 +498,6 @@ Our notes: `notes/materials/037-sw-d20-folder/189-jedi-counseling-25-dark-side-d
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 25 Dark Side Downside (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_25_Dark_Side_Downside_pdf_3f17174ea1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from y sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 25 Dark Side Downside (text copy `y_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_25_Dark_Side_Downside_pdf_3f17174ea1`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Moff Tarkin — entry/section: Who gets the Dark Side Point for Alderaan: "A: Yikes! That line of reasoning didn't work at Nuremburg, and it won't work in the Star Wars universe, either. All three of them would get DSPs (though in A New Hope, it was actually Grand Moff Tarkin's decision; the Emperor didn't order it)." Source: *Jedi Counseling 25 - Dark Side Downside* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 25 - Dark Side Downside* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d189-s1-a-yikes-that-line-of-reasoning.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/189-jedi-counseling-25-dark-side-downside.md:18`
 
 ## Jedi Counselling/Jedi Counseling 56.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -563,7 +512,6 @@ Our notes: `notes/materials/037-sw-d20-folder/223-jedi-counseling-56.md:29`
 
 - Note (summary from our notes, not a quotation): A: No. Remember, Tarkin isn't activating the characters, you (the player) are. Tarkin only needs line of sight to an enemy at the start of any given phase." Source: *Jedi Counseling 56* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 56.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 56* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d223-s3-q-i-have-a-few-questions.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/223-jedi-counseling-56.md:30`
 
 ## Jedi Counselling/Jedi Counseling 92.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -572,7 +520,6 @@ Our notes: `notes/materials/037-sw-d20-folder/223-jedi-counseling-56.md:30`
 — Source: Jedi Counselling/Jedi Counseling 92.pdf [Star Wars Roleplaying Game Revis.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 92 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_92_pdf_781788762d`).)
 Note (our notes, around the quote): San Hill; Grand Moff Tarkin — entry/section: San Hill and combined fire: "A: No. When you activate characters to combine fire, they don't count against your limit of activations per phase. Thus, regardless of the number of activations you can make in a phase (whether it's the normal 2 or a different number resulting from San Hill, Grand Moff Tarkin, and so on), you can activate any number of additional characters to combine fire." Source: *Jedi Counseling 92* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 92* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d263-s3-a-no-when-you-activate-characters.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/263-jedi-counseling-92.md:31`
 
 ## Locations/Planet Hoppers/Carida - Heavy Duty/Part 3 - War Games.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -598,7 +545,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Grand Moff Tarkin ordered that Alderaan would be the first test of the Death Star's weaponry. In a single, searing blast, all the beauty, culture, and majesty that was Alderaan vanished in a heartbeat.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Grand Moff Tarkin — entry/section: Tarkin destroys Alderaan.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin destroys Alderaan: "Grand Moff Tarkin ordered that Alderaan would be the first test of the Death Star's weaponry. In a single, searing blast, all the beauty, culture, and majesty that was Alderaan vanished in a heartbeat." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.42
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.42 — full quote as printed](quotes/d665-s42-grand-moff-tarkin-ordered-that-alderaan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:312`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -610,7 +556,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Upon Palpatine’s restructuring of the galactic government, the ambitious Wilhuff Tarkin is granted command of the Seswenna Sector, and Eriadu serves as Governor Tarkin's base of operations.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Grand Moff Tarkin — entry/section: Tarkin granted the Seswenna Sector.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin granted the Seswenna Sector: "Upon Palpatine’s restructuring of the galactic government, the ambitious Wilhuff Tarkin is granted command of the Seswenna Sector, and Eriadu serves as Governor Tarkin's base of operations." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.47
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.47 — full quote as printed](quotes/d667-s47-upon-palpatine-s-restructuring-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:321`
 
 - Note (summary from our notes, not a quotation): Page contents: Eriadu: people (Wilhuff Tarkin's rise; slave population); Eriadu City (Accutronics, Tarkin Memorial Conference Center); Phelar Port. (hand-read)
@@ -620,7 +565,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > The privileged consist of such luminaries as Wilhuff Tarkin (who rises from Lieutenant Governor to Grand Moff between the Battle of Naboo and the Battle of Yavin), as well as several Outer Rim business leaders and high-level bureaucrats.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Grand Moff Tarkin — entry/section: Tarkin's rise.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin's rise: "The privileged consist of such luminaries as Wilhuff Tarkin (who rises from Lieutenant Governor to Grand Moff between the Battle of Naboo and the Battle of Yavin), as well as several Outer Rim business leaders and high-level bureaucrats." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.48
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.48 — full quote as printed](quotes/d667-s48-the-privileged-consist-of-such-luminaries.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:328`
 
 - Note (summary from our notes, not a quotation): Page contents: Eriadu: Eriadu Manufacturing Shipyards (Valorum family financing); Tarkin Memorial Conference Center map; hooks Yours for the Tarkin (Shella Motti) and The Conference Job begins. (hand-read)
@@ -630,7 +574,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > It was at one such function that Rivoche met a dashing young Academy cadet by the name of Biggs Darklighter. Eventually cognizant of Darklighter’s “questionable” ties, Rivoche steeled herself and made the decision to pass Darklighter some sensitive information she was privy to regarding a pending CompForce strike against Duro insurgents. Her hunch about young Darklighter was proven right: The Imperial plans were foiled, thanks to her information. And so it was the young Tarkin passed the point of no return. For the fledgling Rebel Alliance, it was a blessing.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Rivoche Tarkin; Biggs Darklighter — entry/section: Rivoche Tarkin and Biggs Darklighter: "It was at one such function that Rivoche met a dashing young Academy cadet by the name of Biggs Darklighter. Eventually cognizant of Darklighter’s “questionable” ties, Rivoche steeled herself and made the decision to pass Darklighter some sensitive information she was privy to regarding a pending CompForce strike against Duro insurgents. Her hunch about young Darklighter was proven right: The Imperial plans were foiled, thanks to her information. And so it was the young Tarkin passed the point of no return. For the fledgling Rebel Alliance, it was a blessing." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.50
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.50 — full quote as printed](quotes/d667-s50-it-was-at-one-such-function.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:342`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -642,7 +585,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Mon Cal warships entered Alliance service, Rebel warships were dispatched to protect the sector, and the legendary Ackbar served as an unofficial member of the Alliance's high command following his rescue from enslavement at the hands of Grand Moff Tarkin.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Admiral Ackbar; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Grand Moff Tarkin: "Mon Cal warships entered Alliance service, Rebel warships were dispatched to protect the sector, and the legendary Ackbar served as an unofficial member of the Alliance's high command following his rescue from enslavement at the hands of Grand Moff Tarkin." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.98
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.98 — full quote as printed](quotes/d667-s98-mon-cal-warships-entered-alliance-service.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:284`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -655,7 +597,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Grand Moff Tarkin — entry/section: The lost shuttle.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: The lost shuttle: "Or it could be something or someone that could change the course of" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.157
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.157 — full quote as printed](quotes/d667-s157-or-it-could-be-something-or.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:298`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 301–360)
@@ -663,7 +604,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > By the time the Emperor assigns him to assist Grand Moff Tarkin in the construction of the Death Star battle station, Vader is the deadliest warrior of his generation, shielded by imposing armor, steeled by countless combats, and empowered by the dark side of the Force.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Anakin Skywalker (Lord Darth Vader) (Revised Core Rulebook, Ch13): "By the time the Emperor assigns him to assist Grand Moff Tarkin in the construction of the Death Star battle station, Vader is the deadliest warrior of his generation, shielded by imposing armor, steeled by countless combats, and empowered by the dark side of the Force." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.302
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.302 — full quote as printed](quotes/d671-s302-by-the-time-the-emperor-assigns.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:27`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -682,7 +622,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Death Star (Michael Reaves), Chapter 65 (text copy `MEGA_Legend_Standalones_Star_Wars_Death_Star_Michael_Reaves_Steve_Perry_epub`).)
 Note (our notes, around the quote): Grand Moff Tarkin; Darth Vader (Anakin Skywalker) — entry/section: Pull quote (Tarkin): ""I'M TAKING AN AWFUL RISK, VADER. THIS HAD BETTER WORK." -GRAND MOFF TARKIN" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.8
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d716-s8-im-taking-an-awful-risk-vader.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-001-060.md:47`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -699,7 +638,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-061-12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 Note (our notes, around the quote): Grand Moff Tarkin: "Under his guidance, TaggeCo becomes a scientific brain trust rivaled only by government-sponsored efforts on Arkania and projects managed by the Empire's Grand Moff Tarkin and Grand Admiral Zaarin." Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.122
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.122 — full quote as printed](quotes/d716-s122-under-his-guidance-taggeco-becomes-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:21`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -707,7 +645,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 > The Trail was named in honor of Admiral Ackbar's famous journey from slavery under Grand Moff Tarkin to becoming a Rebel Alliance Admiral who defeated his former masters, the original Galactic Empire.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Admiral Ackbar; Grand Moff Tarkin.
 Note (our notes, around the quote): Admiral Ackbar; Grand Moff Tarkin: "The Trail was named in honor of Admiral Ackbar's famous journey from slavery under Grand Moff Tarkin to becoming a Rebel Alliance Admiral who defeated his former masters, the original Galactic Empire." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.128
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.128 — full quote as printed](quotes/d719-s128-the-trail-was-named-in-honor.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:75`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -732,7 +669,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > Examples of this destiny include Grand Moff Tarkin and the construction of the Death Star, Raith Sienar and the TIE fighter, and Walex Blissex and the Victory-class Star Destroyers.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Examples of this destiny include Grand Moff Tarkin and the construction of the Death Star, Raith Sienar and the TIE fighter, and Walex Blissex and the Victory-class Star Destroyers." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.37
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.37 — full quote as printed](quotes/d729-s37-examples-of-this-destiny-include-grand.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-001-060.md:244`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -748,7 +684,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > At the simplest level, using a Star Destroyer to intimidate the characters is a prime display of the Tarkin Doctrine.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "At the simplest level, using a Star Destroyer to intimidate the characters is a prime display of the Tarkin Doctrine." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.169
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.169 — full quote as printed](quotes/d729-s169-at-the-simplest-level-using-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-121-180.md:362`
 
 - Note (summary from our notes, not a quotation): Page contents: AT-ST Pilot; Death Star Trooper (trained by Tarkin; loyal to the Navy and Tarkin); Elite Death Star Trooper stat blocks. (hand-read)
@@ -768,7 +703,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > Tarkin is distinctive in appearance and commands a room in a way that no other Imperial military officer is capable of.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Tarkin is distinctive in appearance and commands a room in a way that no other Imperial military officer is capable of." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.192
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.192 — full quote as printed](quotes/d729-s192-tarkin-is-distinctive-in-appearance-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:124`
 
 - Note (summary from our notes, not a quotation): Page contents: Escort Carrier cont. (Tactical Fire). Gladiator-class Star Destroyer (Walex Blissex; Rendili StarDrive; Kuat Drive Yards; Tarkin Doctrine) and stat block. (hand-read)
@@ -798,7 +732,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Grand Moff Tarkin; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker) — entry/section: Saga Edition Web Articles: "Obi-Wan Kenobi, Jedi Spirit "Surely he must be dead by now." -- Grand Moff Tarkin "If you strike me down,|shall become more powerful than you can possibly imagine." -- Obi-Wan Kenobi With a mighty slash of his red blade, Darth Vader, Lord of the Sith, finally struck down his former master turned nemesis, Obi-Wan Kenobi." Source: *Web Articles* (SWRPG Saga Edition), scan p.254
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.254 — full quote as printed](quotes/d732-s254-obi-wan-kenobi-jedi-spirit-surely.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:164`
 
 > However, the Trandoshan's restricted movement will prevent that combination from coming into play unless you set it up properly. Star Wars Miniatures Stat Card Preview Faction: Fringe Cost: 9 Hit Points: 20 Defense: 15 Attack: +4 Damage: 20 Special Abilities: Double Claw Attack, Mercenary, Regeneration 10, Rend +10 Star Wars Roleplaying Game: Saga Edition Statistics Trandoshan Mercenary CL 2 Medium Trandoshan nonheroic 6 Init +7; Senses darkvision, Perception +2 Languages Basic, Dosh Defenses Ref 15 (flat-footed 13), Fort 10, Will 10; +2 armor, +1 natural hp 21; Threshold 15; limb regeneration Speed 6 squares Melee unarmed +7 (1d8+3) or Melee unarmed –3 (1d8+3) and unarmed –3 (1d8+3) or Ranged heavy blaster rifle +4 (3d10) Base Atk +4; Grp +7 Abilities Str 16, Dex 10, Con 11, Int 9, Wis 10, Cha 8 Feats Armor Proficiency (light), Improved Damage Threshold, Martial Arts I, Martial Arts II, Toughness, Weapon Proficiency (rifles, simple weapons) Skills Initiative +7 Possessions blast vest (treat as blast helmet and vest), heavy blaster rifle, comlink 254 Obi-Wan Kenobi, Jedi Spirit "Surely he must be dead by now." -- Grand Moff Tarkin "If you strike me down, I shall become more powerful than you can possibly imagine." -- Obi-Wan Kenobi With a mighty slash of his red blade, Darth Vader, Lord of the Sith, finally struck down his former master turned nemesis, Obi-Wan Kenobi. But suddenly, Kenobi completely disappeared, vanishing in the blink of an eye and the swing of a lightsaber.
@@ -806,7 +739,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Grand Moff Tarkin; Obi-Wan Kenobi — entry/section: Alliance and Empire Preview 2: Obi-Wan Kenobi, Jedi Spirit (epigraph): ""Surely he must be dead by now." —Grand Moff Tarkin" Source: *Web Articles* (SWRPG Saga Edition), scan p.254
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.254 — full quote as printed](quotes/d732-s254-surely-he-must-be-dead-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:166`
 
 - Note (summary from our notes, not a quotation): Page contents: Alliance and Empire Preview 4: Imperial Governor Tarkin and Wookiee Freedom Fighter by Gary M. Sarli and Sterling Hershey: Tarkin background and miniatures tactics (T records; text layer italic errors "A//iance", "Aebe/ Storm" corrected; dropped "cover." restored from OCR); stat card (Imperial; cost 22; HP 50; Def 14; Atk +5; Dmg 10; Unique, Doctrine of Fear; commander effect Extra Attack for allied commanders); Saga stats Imperial Governor Wilhuff Tarkin CL 7 Medium Human noble 7 (Destiny 1; Force 5; Dark Side 13; Perception +14; Basic, High Galactic, Shyriiwook, Sullustese; Ref 18, Fort 17, Will 20; hp 45; blaster pistol +5 (3d6+3); Coordinated Attack; Born Leader, Demand Surrender, Educated, Presence; Knowledge (Bureaucracy) +15, Persuasion +15; possessions Imperial uniform, rank cylinders, comlink, credit chip, blaster pistol). (hand-read)
@@ -907,7 +839,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:441`
 > I think my favorite line, which I try to work in as much as possible in conversation is Grand Moff Tarkin's old, 'Evacuate? In our moment of triumph? I think you overestimate their chances.' It's one of the really great unsung lines of a dude who's just about to get blown from the stars.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Kevin Smith on his favorite Star Wars line: ""I think my favorite line, which I try to work in as much as possible in conversation is Grand Moff Tarkin's old, 'Evacuate? In our moment of triumph? I think you overestimate their chances.' It's one of the really great unsung lines of a dude who's just about to get blown from the stars." —Kevin Smith, Star Wars Insider 56, p. 16 (Kevin Smith flip section)" Source: *Star Wars Insider #56* (2001), scan p.75
-![Quote image: *Star Wars Insider #56* (2001), scan p.75 — full quote as printed](quotes/ins056-s75-i-think-my-favorite-line-which.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:447`
 
 ## Star Wars Insider #58 (2002)
@@ -923,7 +854,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:443`
 > I knew a few of the expanded universe characters, like Xizor and Mara Jade, but for many of them I had to visit the comics and novels to see what they were about. With the Episode II illustrations, I had to ask Lucasfilm questions to get a feel for them, since I thought it was crucial to capture the character's personality in addition to the costume. For example, imagine putting Grand Moff Tarkin in an action pose. It just doesn't work.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Grand Moff Tarkin; Mara Jade Skywalker — entry/section: Illustrator Michael Sutfin on researching characters: ""I knew a few of the expanded universe characters, like Xizor and Mara Jade, but for many of them I had to visit the comics and novels to see what they were about. With the Episode II illustrations, I had to ask Lucasfilm questions to get a feel for them, since I thought it was crucial to capture the character's personality in addition to the costume. For example, imagine putting Grand Moff Tarkin in an action pose. It just doesn't work." —Michael Sutfin, Star Wars Insider 59, p. 61" Source: *Star Wars Insider #59* (2002), scan p.61
-![Quote image: *Star Wars Insider #59* (2002), scan p.61 — full quote as printed](quotes/ins059-s61-i-knew-a-few-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:467`
 
 ## Star Wars Insider #61 (2002)
@@ -934,7 +864,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:262`
 
 - Note (summary from our notes, not a quotation): No single roster character (rules/setting/general) — entry/section: David Michelinie on drifting into Return of the Jedi territory: ""Occasionally, I'd unwittingly drift into Jedi territory, such as when I plotted a story that involved the construction of a second Death Star [#51/52 "Resurrection of Evil"/"To Take the Tarkin"]." —David Michelinie" Source: *Star Wars Insider #61* (2002), scan p.83
   — Source: Star Wars Insider #61 (2002).
-![Quote image: *Star Wars Insider #61* (2002), scan p.83 — full quote as printed](quotes/ins061-s83-occasionally-id-unwittingly-drift-into-jedi.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:533`
 
 ## Star Wars Insider #63 (2002)
@@ -942,7 +871,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:533`
 > If the humanoid Tusken Raiders are monsters, is the torturer Darth Vader also one? How about the planet-destroying Grand Moff Tarkin? Including them broadens the definition of “monster” so much that it could include half the Empire. So, let’s call Vader, Tarkin, and other bad people “villains.”
 — Source: Star Wars Insider #63 (2002).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Grand Moff Tarkin — entry/section: Editorial: monsters vs. villains: "If the humanoid Tusken Raiders are monsters, is the torturer Darth Vader also one? How about the planet-destroying Grand Moff Tarkin? Including them broadens the definition of “monster” so much that it could include half the Empire. So, let’s call Vader, Tarkin, and other bad people “villains.”" Source: *Star Wars Insider #63* (2002), p.5
-![Quote image: *Star Wars Insider #63* (2002), p.5 — full quote as printed](quotes/ins063-p5-if-the-humanoid-tusken-raiders-are.jpg)
 Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:32`
 
 ## Star Wars Insider #71 (2003)
@@ -977,7 +905,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:362`
 > He looks very powerful sitting in his chair. There are no guns or weapons, nothing exciting in that way – but there's something about the way the piece comes together. He looks lost in thought.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Jung on the Tarkin mini-bust: ""I like the way that piece came together," says Jung "He looks very powerful sitting in his chair. There are no guns or weapons, nothing exciting in that way – but there's something about the way the piece comes together. He looks lost in thought." —Joseph Jung, Star Wars Insider 75, p. 60" Source: *Star Wars Insider #75* (2004), scan p.60
-![Quote image: *Star Wars Insider #75* (2004), scan p.60 — full quote as printed](quotes/ins075-s60-i-like-the-way-that-piece.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:364`
 
 ## Star Wars Insider #83 (2005)
@@ -1015,7 +942,6 @@ Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:84`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #87 (2006); Grand Moff Tarkin — entry/section: Tarkin's one-second cameo.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin's one-second cameo: ""The thing is, there was never any doubt that Tarkin was only going to be there for that one second," says Elsey, "but it was going to be such a cool fan boy moment for people who knew about it." —Dave Elsey, Star Wars Insider 87, p. 15" Source: *Star Wars Insider #87* (2006), scan p.15
-![Quote image: *Star Wars Insider #87* (2006), scan p.15 — full quote as printed](quotes/ins087-s15-the-thing-is-there-was-never.jpg)
 Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:86`
 
 ## Star Wars Insider #91 (2007)
@@ -1045,7 +971,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:478`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007).
 Note (our notes, around the quote): Grand Moff Tarkin; Obi-Wan Kenobi — entry/section: Would rather be Kenobi: ""Originally the idea was for me to play Ben Kenobi, but when I met George Lucas, he said, "You would be so right for Moff Tarkin. Would you mind playing that part instead?" I said, "No, not at all." Frankly, it would have been nicer to have played Kenobi." —Peter Cushing, Star Wars Insider 94, p. 48" Source: *Star Wars Insider #94* (2007), scan p.48
-![Quote image: *Star Wars Insider #94* (2007), scan p.48 — full quote as printed](quotes/ins094-s48-originally-the-idea-was-for-me.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:480`
 
 > Do you want me to look as if I have body odor?
@@ -1054,7 +979,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:480`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007).
 Note (our notes, around the quote): Grand Moff Tarkin; Leia Organa Solo — entry/section: Body odor: ""I turned to George Lucas and asked innocently: "Do you want me to look as if I have body odor?"" —Peter Cushing, Star Wars Insider 94, p. 48" Source: *Star Wars Insider #94* (2007), scan p.48
-![Quote image: *Star Wars Insider #94* (2007), scan p.48 — full quote as printed](quotes/ins094-s48-i-turned-to-george-lucas-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:482`
 
 - Note (summary from our notes, not a quotation): Page contents: Peter Cushing tribute concl.: Tarkin stills (Death Star conference room, behind-the-scenes, Tarkin and Leia); tributes "Alec Guinness on Peter Cushing", "Carrie Fisher on Peter Cushing", "Rick McCallum on Peter Cushing" (hand-read)
@@ -1102,7 +1026,6 @@ Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:529`
 > I designed the chairs so they were all basically the same, with a slit in the back. Those chairs weren't quite like anything we could have bought, particularly in the number we needed, so we made them.
 — Source: Star Wars Insider #96 (2007); Grand Moff Tarkin — entry/section: Chairs.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Chairs: ""I designed the chairs so they were all basically the same, with a slit in the back. Those chairs weren't quite like anything we could have bought, particularly in the number we needed, so we made them." —John Barry, Star Wars Insider 96, p. 58" Source: *Star Wars Insider #96* (2007), scan p.58
-![Quote image: *Star Wars Insider #96* (2007), scan p.58 — full quote as printed](quotes/ins096-s58-i-designed-the-chairs-so-they.jpg)
 Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:533`
 
 ## Star Wars Insider #104 (2008)
@@ -1146,7 +1069,6 @@ Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:89`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #110 (2009).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Wullf Yularen; Grand Moff Tarkin — entry/section: Ask Lobot: Does Yularen know Vader is Anakin?: ""The true identity of Darth Vader is a closely guarded secret. Even Grand Moff Tarkin, who knows enough to acknowledge that Vader was the "last of his religion," is not privy to the fact that Vader was once Anakin. Though Wolffe Yularen served with Anakin for quite some time, there is nothing about Vader that would give him any clue that he was the same Jedi general with whom he served during the Clone Wars." —Leland Y. Chee (Ask Lobot), Star Wars Insider 110, p. 56" Source: *Star Wars Insider #110* (2009), scan p.56
-![Quote image: *Star Wars Insider #110* (2009), scan p.56 — full quote as printed](quotes/ins110-s56-the-true-identity-of-darth-vader.jpg)
 Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:349`
 
 ## Star Wars Insider #112 (2009)
@@ -2003,7 +1925,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:164`
 > Had the Rebels not destroyed the Death Star when they did, it's possible that the power structure of the Empire could have vastly changed with Tarkin and Motti in command.
 — Source: scan pages 321–360; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "Had the Rebels not destroyed the Death Star when they did, it's possible that the power structure of the Empire could have vastly changed with Tarkin and Motti in command." Source: The Complete Star Wars Encyclopedia, Vol. II, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.337 — full quote as printed](quotes/v2-p337-had-the-rebels-not-destroyed-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:158`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -2011,13 +1932,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Later the Tarkin was destroyed by an elite team of Rebels that included Luke Skywalker, Leia Organa, Chewbacca, C-3PO, and R2-D2.
 — Source: scan pages 201–240; Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo; Chewbacca.
 Note (our notes, around the quote): Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo; Chewbacca: "Later the Tarkin was destroyed by an elite team of Rebels that included Luke Skywalker, Leia Organa, Chewbacca, C-3PO, and R2-D2." Source: The Complete Star Wars Encyclopedia, Vol. III, p.220
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.220 — full quote as printed](quotes/v3-p220-later-the-tarkin-was-destroyed-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:237`
 
 > When, at the Battle of Yavin, advisers told Tarkin that there was a slim chance the Rebels might be able to destroy the Death Star, Tarkin was incredulous and refused to evacuate his glorious weapon.
 — Source: scan pages 201–240; Grand Moff Tarkin — entry/section: Tarkin, Gideon.
 Note (our notes, around the quote): Grand Moff Tarkin — entry/section: Tarkin, Gideon: "When, at the Battle of Yavin, advisers told Tarkin that there was a slim chance the Rebels might be able to destroy the Death Star, Tarkin was incredulous and refused to evacuate his glorious weapon." Source: The Complete Star Wars Encyclopedia, Vol. III, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.221 — full quote as printed](quotes/v3-p221-when-at-the-battle-of-yavin.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:246`
 
 ## The New Essential Guide to Characters (2002)
@@ -2025,7 +1944,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > And had the Rebels not destroyed the Death Star, Tarkin might have been the ruler of the galaxy.
 — Source: scan pages 151–180; Grand Moff Tarkin. POV: Grand Moff Tarkin.
 Note (our notes, around the quote): Grand Moff Tarkin: "And had the Rebels not destroyed the Death Star, Tarkin might have been the ruler of the galaxy." Source: The New Essential Guide to Characters, p.179
-![Quote image: The New Essential Guide to Characters, p.179 — full quote as printed](quotes/negc-p179-and-had-the-rebels-not-destroyed.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:175`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -2033,7 +1951,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 > Even worse, the Rebels stole the plans for the battle station, then lured it to the remote world of Yavin, where they treacherously destroyed it with all hands aboard—including its respected administrator, Grand Moff Tarkin, who was conducting a final inspection. Only Darth Vader— battling the Rebel ships in his own custom TIE fighter—survived the devastation.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Grand Moff Tarkin — entry/section: Vader the sole survivor of the Death Star: "Even worse, the Rebels stole the plans for the battle station, then lured it to the remote world of Yavin, where they treacherously destroyed it with all hands aboard—including its respected administrator, Grand Moff Tarkin, who was conducting a final inspection. Only Darth Vader— battling the Rebel ships in his own custom TIE fighter—survived the devastation." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.95
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.95 — full quote as printed](quotes/d668-s95-even-worse-the-rebels-stole-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:192`
 
 ## Star Wars Insider #130 (2012)

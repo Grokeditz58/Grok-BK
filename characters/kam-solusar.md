@@ -46,13 +46,12 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:70`
 > Solusar faced Skywalker in an ancient and risky Jedi game called lightsider. After Skywalker bested him, Solusar agreed to join the Jedi.
 — Source: Part Seven: Empire Resurgent; Kam Solusar; Luke Skywalker — lightsider.
 Note (our notes, around the quote): Kam Solusar; Luke Skywalker — lightsider: "Solusar faced Skywalker in an ancient and risky Jedi game called lightsider. After Skywalker bested him, Solusar agreed to join the Jedi." Source: The New Essential Chronology, p.157
-![Quote image: The New Essential Chronology, p.157 — full quote as printed](quotes/nec-p157-lightsider.jpg)
+![Quote image: The New Essential Chronology, p.157 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p157-lightsider.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:106`
 
 > He knew that his sister Leia, her three children, Kam Solusar, the Witches of Dathomir, Kyle Katarn, and Mara Jade had all exhibited an aptitude for the Force.
 — Source: Part Eight: The Return of the Jedi Knights; Luke Skywalker — academy recruits. POV: speaker not named in our notes.
 Note (our notes, around the quote): Luke Skywalker — academy recruits: "He knew that his sister Leia, her three children, Kam Solusar, the Witches of Dathomir, Kyle Katarn, and Mara Jade had all exhibited an aptitude for the Force." Source: The New Essential Chronology, p.162
-![Quote image: The New Essential Chronology, p.162 — full quote as printed](quotes/nec-p162-academy-recruits.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:11`
 
 > On snowy Dolls 3, a band of Imperial partisans viewed the looming nuptials with contempt Believing the event to be more proof thal the Empire had been watered down like weak caf, the loyalists made plans to slip into Coruscant and sabotage the ceremony.
@@ -65,7 +64,6 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Kam Solusar; Luke Skywalker; Mara Jade Skywalker — Kam officiates: "the happy couple joined together in a private Jedi ceremony officiated by Kam Solusar in the renovated Jedi Temple." Source: The New Essential Chronology, p.194
-![Quote image: The New Essential Chronology, p.194 — full quote as printed](quotes/nec-p194-kam-officiates.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/10-part-ten-a-lasting-peace.md:49`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -79,7 +77,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/00-front-matter-int
 > He has encountered several potential Jedi in his travels, among them Mara Jade, Kirana Ti and Kam Solusar.
 — Source: Chapter Three: The Jedi Academy.
 Note (our notes, around the quote): Luke Skywalker; Mara Jade Skywalker; Kirana Ti; Kam Solusar — The Jedi Search Begins: "He has encountered several potential Jedi in his travels, among them Mara Jade, Kirana Ti and Kam Solusar." Source: The Jedi Academy Sourcebook, p.30
-![Quote image: The Jedi Academy Sourcebook, p.30 — full quote as printed](quotes/jas-p30-the-jedi-search-begins.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:11`
 
 > That much he could feel, and for now that was enough.
@@ -95,7 +92,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Luke Skywalker; Kam Solusar — Jedi Training — Kam Solusar's school: "He also draws on the Jedi training Kam Solusar received as a young man, because his master, Ranik Solusar, came from a different school of Jedi training than did Obi-Wan and Yoda." Source: The Jedi Academy Sourcebook, p.32
-![Quote image: The Jedi Academy Sourcebook, p.32 — full quote as printed](quotes/jas-p32-jedi-training-kam-solusars-school.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:29`
 
 > 1, running 4D KNOWLEDGE 5D Alien species 5D+2, bureaucracy 5D+2, bureaucracy:
@@ -115,7 +111,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kam Solusar; Darth Vader (Anakin Skywalker) — Kam Solusar — the purge: "Ranik fell at the hands of Lord Darth Vader, and Kam himself barely escaped the Imperial inquisition." Source: The Jedi Academy Sourcebook, p.39
-![Quote image: The Jedi Academy Sourcebook, p.39 — full quote as printed](quotes/jas-p39-kam-solusar-the-purge.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:140`
 
 > The Force runs strong in his family, and Kam's father, Ranik Solusar, was a great Jedi master.
@@ -131,13 +126,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kam Solusar; Luke Skywalker; Kyp Durron — Kam Solusar — brush with the dark side: "Like Luke and Kyp, Kam has had his brush with the dark side of the Force. While in exile, he was captured and tortured by evil Jedi, and twisted to serve the dark side. Luke won him back over to the light side, and brought him back to the Core to serve as his apprentice." Source: The Jedi Academy Sourcebook, p.39
-![Quote image: The Jedi Academy Sourcebook, p.39 — full quote as printed](quotes/jas-p39-kam-solusar-brush-with-the-dark.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:142`
 
 > Kam's grasp of the Force is astounding in some areas, and remarkably weak in others, because he was forced to leave his master before he could complete his training.
 — Source: Chapter Three: The Jedi Academy; Kam Solusar — Kam Solusar — uneven grasp of the Force.
 Note (our notes, around the quote): Kam Solusar — Kam Solusar — uneven grasp of the Force: "Kam's grasp of the Force is astounding in some areas, and remarkably weak in others, because he was forced to leave his master before he could complete his training." Source: The Jedi Academy Sourcebook, p.39
-![Quote image: The Jedi Academy Sourcebook, p.39 — full quote as printed](quotes/jas-p39-kam-solusar-uneven-grasp-of-the.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:144`
 
 > Kam's grasp of the Force is astounding in some areas, and remarkably weak in others, because he was forced to leave his master be- fore he could complete his training. Though he has received advanced training in certain areas, he still knows little about many aspects of the Force. m Kam Solusar Type: Jedi Apprentice DEXTERITY 4D Blaster 6D+2, brawling parry 5D, dodge 5D-2, lightsaber 5D, melee combat 5D+2, melee parry 4D-2, running 5D, thrown weapons 5D KNOWLEDGE 4D Alien species 5D, cultures 5D+1, intimidation 6D, lan- guages 4D+2, planetary systems 5D, streetwise 5D+2, survival 4D+2, survival: Yavin Four 5D, value 5D, will- power 6D MECHANICAL 3D Archaic starship piloting 4D+2, astrogation 4D+1, beast riding 5D, ground vehicle operation 4D-+2, repulsorlift operation 5D, sensors 3D+2, space transports 5D, starship gunnery 4D+2, starship shields 4D PERCEPTION 3D Bargain 4D+1, command 4D+2, forgery 3D+1, hide 4D, persuasion 5D+2, search 4D+2, sneak 5D STRENGTH 2D Brawling 4D, climbing/jumping 5D+1, stamina 5D TECHNICAL 2D Blaster repair 3D+1, computer programming/repair 4D, droid programming 3D, first aid 4D, lightsaber repair 4D+1, repulsorlift repair 3D+1, security 4D, space trans- ports repair 3D+2 Special Abilities:
@@ -150,7 +143,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Kam Solusar — Kam Solusar — stat block, combat skills (RPG mechanics) — RPG mechanics (weaker source): "Blaster 6D+2, brawling parry 5D, dodge 5D+2, lightsaber 5D, melee combat 5D+2," Source: The Jedi Academy Sourcebook, p.39, stat block
-![Quote image: The Jedi Academy Sourcebook, p.39 — full quote as printed](quotes/jas-p39-kam-solusar-stat-block-combat-skills.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:146`
 
 > Kam's grasp of the Force is astounding in some areas, and remarkably weak in others, because he was forced to leave his master be- fore he could complete his training. Though he has received advanced training in certain areas, he still knows little about many aspects of the Force. m Kam Solusar Type: Jedi Apprentice DEXTERITY 4D Blaster 6D+2, brawling parry 5D, dodge 5D-2, lightsaber 5D, melee combat 5D+2, melee parry 4D-2, running 5D, thrown weapons 5D KNOWLEDGE 4D Alien species 5D, cultures 5D+1, intimidation 6D, lan- guages 4D+2, planetary systems 5D, streetwise 5D+2, survival 4D+2, survival: Yavin Four 5D, value 5D, will- power 6D MECHANICAL 3D Archaic starship piloting 4D+2, astrogation 4D+1, beast riding 5D, ground vehicle operation 4D-+2, repulsorlift operation 5D, sensors 3D+2, space transports 5D, starship gunnery 4D+2, starship shields 4D PERCEPTION 3D Bargain 4D+1, command 4D+2, forgery 3D+1, hide 4D, persuasion 5D+2, search 4D+2, sneak 5D STRENGTH 2D Brawling 4D, climbing/jumping 5D+1, stamina 5D TECHNICAL 2D Blaster repair 3D+1, computer programming/repair 4D, droid programming 3D, first aid 4D, lightsaber repair 4D+1, repulsorlift repair 3D+1, security 4D, space trans- ports repair 3D+2 Special Abilities:
@@ -162,7 +154,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kam Solusar — Kam Solusar — stat block, Force skills (RPG mechanics) — RPG mechanics (weaker source): "Force Skills: Control 2D+2, sense 4D+1, alter 6D" Source: The Jedi Academy Sourcebook, p.39, stat block
-![Quote image: The Jedi Academy Sourcebook, p.39 — full quote as printed](quotes/jas-p39-kam-solusar-stat-block-force-skills.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:148`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -170,13 +161,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 > Luke Skywalker once bested Kam Solusar at it during the early years of the New Republic.
 — Source: scan pages 241–280; Luke Skywalker; Kam Solusar.
 Note (our notes, around the quote): Luke Skywalker; Kam Solusar: "Luke Skywalker once bested Kam Solusar at it during the early years of the New Republic." Source: The Complete Star Wars Encyclopedia, Vol. II, p.256
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.256 — full quote as printed](quotes/v2-p256-luke-skywalker-once-bested-kam-solusar.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:191`
 
 > Murra A tribesman of the Ysanna on Ossus, Murra was the first to help Okko attempt to defeat Luke Skywalker and Kam Solusar when they arrived on the planet.
 — Source: scan pages 321–360; Luke Skywalker; Kam Solusar.
 Note (our notes, around the quote): Luke Skywalker; Kam Solusar: "Murra A tribesman of the Ysanna on Ossus, Murra was the first to help Okko attempt to defeat Luke Skywalker and Kam Solusar when they arrived on the planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.343
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.343 — full quote as printed](quotes/v2-p343-murra-a-tribesman-of-the-ysanna.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:202`
 
 - Note (summary from our notes, not a quotation): Page contents: 1224 words, 27 paragraphs | headings/entries: Nakay, Pell; Naked Hutt Cantina; N'a-kee-tula; Nak'har; Nakhym, Golov; Nakk, Urman; Nalan; Naldar; Nale, Kam; Nalgol; Nal Hutta; Nal Hutta Kal'tamok; Nali-Erun; Nalju; Nalju, Count
@@ -188,7 +177,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > They realized that their relationship was now stronger than ever, and they were soon wed; once in a Jedi ceremony performed by Kam Solusar, and again in a public ceremony on Coruscant.
 — Source: scan pages 161–200; Kam Solusar. POV: Kam Solusar.
 Note (our notes, around the quote): Kam Solusar: "They realized that their relationship was now stronger than ever, and they were soon wed; once in a Jedi ceremony performed by Kam Solusar, and again in a public ceremony on Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. III, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.166 — full quote as printed](quotes/v3-p166-they-realized-that-their-relationship-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:155`
 
 - Note (summary from our notes, not a quotation): Page contents: 990 words, 17 paragraphs | headings/entries: Solomahal; Solusar, Kam
@@ -198,7 +186,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > Solusar united with Skywalker's other Jedi students in defeating Exar Kun's spirit.
 — Source: scan pages 161–200; Kam Solusar; Exar Kun — entry/section: Solusar, Kam.
 Note (our notes, around the quote): Kam Solusar; Exar Kun — entry/section: Solusar, Kam: "Solusar united with Skywalker's other Jedi students in defeating Exar Kun's spirit." Source: The Complete Star Wars Encyclopedia, Vol. III, p.178
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.178 — full quote as printed](quotes/v3-p178-solusar-united-with-skywalkers-other-jedi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:299`
 
 - Note (summary from our notes, not a quotation): Page contents: 1396 words, 22 paragraphs | headings/entries: Solusar, Ranik; Solusar, Tionne; Somerce, Akeeli; Sommos, Noma; Somoril, Vak; Somov Rit; Sonniod; Sonsen, Jenica; Sooflie 1X, Prince R'cardo; Sookcool, Avaro
@@ -208,13 +195,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > He escaped the slaughter of Order 66, but was later killed by Darth Vader during the Empire's Purge of Jedi survivors.
 — Source: scan pages 161–200; Kam Solusar; Darth Vader (Anakin Skywalker) — entry/section: Solusar, Ranik.
 Note (our notes, around the quote): Kam Solusar; Darth Vader (Anakin Skywalker) — entry/section: Solusar, Ranik: "He escaped the slaughter of Order 66, but was later killed by Darth Vader during the Empire's Purge of Jedi survivors." Source: The Complete Star Wars Encyclopedia, Vol. III, p.179
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.179 — full quote as printed](quotes/v3-p179-he-escaped-the-slaughter-of-order.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:306`
 
 > Soon after Solusar's conversion, three Ysanna prisoners from Ossus were taken to Vjun to serve as raw material in creating new clone bodies for Emperor Palpatine.
 — Source: scan pages 281–320; Kam Solusar; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Kam Solusar; Palpatine (Darth Sidious): "Soon after Solusar's conversion, three Ysanna prisoners from Ossus were taken to Vjun to serve as raw material in creating new clone bodies for Emperor Palpatine." Source: The Complete Star Wars Encyclopedia, Vol. III, p.309
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.309 — full quote as printed](quotes/v3-p309-soon-after-solusars-conversion-three-ysanna.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:282`
 
 ## The New Essential Guide to Characters (2002)
@@ -226,13 +211,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-1
 > After Palpatine's defeat and apparent death at the New Republic's Pinnacle Base, Solusar encountered Luke Skywalker on the abandoned space city Nespis VIII.
 — Source: scan pages 151–180; Palpatine (Darth Sidious); Kam Solusar; Luke Skywalker.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Kam Solusar; Luke Skywalker: "After Palpatine's defeat and apparent death at the New Republic's Pinnacle Base, Solusar encountered Luke Skywalker on the abandoned space city Nespis VIII." Source: The New Essential Guide to Characters, p.177
-![Quote image: The New Essential Guide to Characters, p.177 — full quote as printed](quotes/negc-p177-after-palpatines-defeat-and-apparent-death.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:157`
 
 > Skywalker sensed the goodness the Emperor had smothered, and bested Solusar in the ancient Jedi game of lightsider.
 — Source: scan pages 151–180; Kam Solusar. POV: Kam Solusar.
 Note (our notes, around the quote): Kam Solusar: "Skywalker sensed the goodness the Emperor had smothered, and bested Solusar in the ancient Jedi game of lightsider." Source: The New Essential Guide to Characters, p.177
-![Quote image: The New Essential Guide to Characters, p.177 — full quote as printed](quotes/negc-p177-skywalker-sensed-the-goodness-the-emperor.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:159`
 
 ## Adventures/Rebel Jedi.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -246,7 +229,6 @@ Our notes: `notes/materials/037-sw-d20-folder/072-rebel-jedi.md:37`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Rebel Jedi (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Rebel_Jedi_pdf_ea4ca0868e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Rebel Jedi (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Rebel_Jedi_pdf_ea4ca0868e`).)
 Note (our notes, around the quote): Kam Solusar; Luke Skywalker — entry/section: Rebel Jedi: "“Some of my students here—Keiran Halcyon and Kam Solusar in particular—are gifted lightsaber duelists, but neither has all that much experience as yet.” Should a hero accept Luke’s offer, the sparring takes place on the landing pad, and if the hero wins, Luke takes it in good grace." Source: *Rebel Jedi* (SWRPG d20 Revised Core), scan p.4
-![Quote image: *Rebel Jedi* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d072-s4-some-of-my-students-here-keiran.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/072-rebel-jedi.md:39`
 
 > With that, the locals produce an assortment of melee weapons and a few battered, latemodel blaster pistols. If the heroes don’t initiate combat, the locals do (or try to). Carry out the combat, treating the locals as mid-level thugs, and their leader as a mid-level outlaw (see Chapter 14: Allies and Opponents, in the revised core rulebook). He REBEL JEDI 004 If any of the heroes are Force-Sensitive, Skywalker remarks on this fact. “I hadn’t heard that you had Jedi training,” he says. “Perhaps, when things are a little less chaotic, we can share what we’ve both learned. I may be the teacher here, but I’m also a student.” If the hero is agreeable, Luke even suggests that they spar—with lightsabers set on low power, of course—to give each other a good challenge. “Some of my students here—Keiran Halcyon and Kam Solusar in particular—are gifted lightsaber duelists, but neither has all that much experience as yet.” Should a hero accept Luke’s offer, the sparring takes place on the landing pad, and if the hero wins, Luke takes it in good grace. He comments on the hero’s fighting style, no matter who wins, and asks about the hero’s experiences with the Force.
@@ -254,7 +236,6 @@ Our notes: `notes/materials/037-sw-d20-folder/072-rebel-jedi.md:39`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Rebel Jedi (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Rebel_Jedi_pdf_ea4ca0868e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Rebel Jedi (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Rebel_Jedi_pdf_ea4ca0868e`).)
 Note (our notes, around the quote): Luke Skywalker — entry/section: Luke offers to spar: "If any of the heroes are Force-Sensitive, Skywalker remarks on this fact. “I hadn't heard that you had Jedi training,” he says. “Perhaps, when things are a little less chaotic, we can share what we've both learned. I may be the teacher here, but I'm also a student.” If the hero is agreeable, Luke even suggests that they spar—with lightsabers set on low power, of course—to give each other a good challenge. “Some of my students here—Keiran Halcyon and Kam Solusar in particular—are gifted lightsaber duelists, but neither has all that much experience as yet.”" Source: *Rebel Jedi* (SWRPG d20 Revised Core), scan p.4
-![Quote image: *Rebel Jedi* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d072-s4-if-any-of-the-heroes-are.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/072-rebel-jedi.md:43`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -266,13 +247,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > (Their descendants, over the centuries, constitute the Ysanna society that Luke Skywalker and Kam Solusar encounter some years after the Battle of Endor.)
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Luke Skywalker; Kam Solusar — entry/section: The Ysanna.
 Note (our notes, around the quote): Luke Skywalker; Kam Solusar — entry/section: The Ysanna: "(Their descendants, over the centuries, constitute the Ysanna society that Luke Skywalker and Kam Solusar encounter some years after the Battle of Endor.)" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110 — full quote as printed](quotes/d667-s110-their-descendants-over-the-centuries-constitute.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:379`
 
 > The aged Neti Jedi Master Ood Bnar also stayed behind to protect Ossus’ lightsaber vaults from the plundering Sith and Krath looters. Exar Kun and his followers succeeded in stealing some relics and dark side lore, but even they had to flee the pending destruction. Master Bnar, however, survived the intense radiation rained on the world’s surface and, nearly four thousand years later, was still able to assist Skywalker and Solusar in their struggle against Executor Sedriss.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ood Bnar; Exar Kun; Luke Skywalker; Kam Solusar — entry/section: Ood Bnar stays behind: "The aged Neti Jedi Master Ood Bnar also stayed behind to protect Ossus’ lightsaber vaults from the plundering Sith and Krath looters. Exar Kun and his followers succeeded in stealing some relics and dark side lore, but even they had to flee the pending destruction. Master Bnar, however, survived the intense radiation rained on the world’s surface and, nearly four thousand years later, was still able to assist Skywalker and Solusar in their struggle against Executor Sedriss." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.110 — full quote as printed](quotes/d667-s110-the-aged-neti-jedi-master-ood.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:381`
 
 - Note (summary from our notes, not a quotation): Page contents: Ossus: Knossa Spaceport (Ossus Day; Alliance cruiser Ossus Day); Knossa Security Knight stats; Great Jedi Library (Odan-Urr and Empress Teta; Exar Kun slays Odan-Urr; Exis Station on Teedio; Luke Skywalker and Tionne retrieve records). Ossus: sidebar Archaeological Campaigning begins (Luke Skywalker and Kam Solusar defeat Sedriss; Obroan Institute, Hanna Institute, NRAC, University of Agamar). (hand-read)
@@ -283,7 +262,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Luke Skywalker; Kam Solusar — entry/section: Ossus after Sedriss.
 Note (our notes, around the quote): Luke Skywalker; Kam Solusar — entry/section: Ossus after Sedriss: "After Luke Skywalker and Kam Solusar defeat Sedriss and establish relations with the Ysanna, the ruins of Ossus are a key archaeological site for the New Republic and for the new order of Jedi," Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d667-s111-after-luke-skywalker-and-kam-solusar.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:398`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -295,7 +273,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Years later, the Kushiban Jedi Master Ikrit and the Jedi Knights Kam Solusar and Tionne lived there as three members of the Jedi academy’s small permanent staff.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Kam Solusar; Tionne — entry/section: Academy staff.
 Note (our notes, around the quote): Kam Solusar; Tionne — entry/section: Academy staff: "Years later, the Kushiban Jedi Master Ikrit and the Jedi Knights Kam Solusar and Tionne lived there as three members of the Jedi academy’s small permanent staff." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.154 — full quote as printed](quotes/d667-s154-years-later-the-kushiban-jedi-master.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:267`
 
 ## Star Wars Insider #57 (2001)

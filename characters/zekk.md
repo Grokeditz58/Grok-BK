@@ -471,12 +471,10 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-9-invincible-notes.md:3
 > Aboard the Shadow Academy, Brakiss showed Zekk how to tap into unsuspected Jedi potential. Suddenly, Zekk found himself in control of great powers he had never dreamed of—and became an easy mark for Imperial brainwashing. He turned into one of the most exceptional of the new Dark Jedi.
 — Source: Part Eleven: Generations of Jedi; Brakiss — Brakiss unlocks Zekk.
 Note (our notes, around the quote): Brakiss — Brakiss unlocks Zekk: "Aboard the Shadow Academy, Brakiss showed Zekk how to tap into unsuspected Jedi potential. Suddenly, Zekk found himself in control of great powers he had never dreamed of—and became an easy mark for Imperial brainwashing. He turned into one of the most exceptional of the new Dark Jedi." Source: The New Essential Chronology, p.199
-![Quote image: The New Essential Chronology, p.199 — full quote as printed](quotes/nec-p199-brakiss-unlocks-zekk.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:47`
 
 - Note (summary from our notes, not a quotation): Jaina Solo — art caption: "Jaina Solo and Zekk" Source: The New Essential Chronology, p.201, caption
   — Source: Part Eleven: Generations of Jedi.
-![Quote image: The New Essential Chronology, p.201 — full quote as printed](quotes/nec-p201-caption-jaina-solo-and-zekk.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:65`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -484,7 +482,6 @@ Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generati
 > When Serpa tried to capture and harm the younglings there, Delpho was overpowered by Jaina Solo, who was working with Zekk and Jagged Fel to free the students.
 — Source: scan pages 161–200; Jaina Solo. POV: Jaina Solo, about Zekk.
 Note (our notes, around the quote): Jaina Solo: "When Serpa tried to capture and harm the younglings there, Delpho was overpowered by Jaina Solo, who was working with Zekk and Jagged Fel to free the students." Source: The Complete Star Wars Encyclopedia, Vol. I, p.181
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.181 — full quote as printed](quotes/v1-p181-when-serpa-tried-to-capture-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:317`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -492,7 +489,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 > At Terephon, the crew recovered Jaina Solo and Zekk, who had been on the planet doing their own investigation when the Ducha Galney ordered them killed.
 — Source: scan pages 81–120; Jaina Solo. POV: Jaina Solo, about Zekk.
 Note (our notes, around the quote): Jaina Solo: "At Terephon, the crew recovered Jaina Solo and Zekk, who had been on the planet doing their own investigation when the Ducha Galney ordered them killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.111
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.111 — full quote as printed](quotes/v2-p111-at-terephon-the-crew-recovered-jaina.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:240`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -500,13 +496,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan
 > As Serpa raised a blaster to fire on Jaina, Zekk severed his arm with his lightsaber.
 — Source: scan pages 121–160; Jaina Solo. POV: Jaina Solo, about Zekk.
 Note (our notes, around the quote): Jaina Solo: "As Serpa raised a blaster to fire on Jaina, Zekk severed his arm with his lightsaber." Source: The Complete Star Wars Encyclopedia, Vol. III, p.140
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.140 — full quote as printed](quotes/v3-p140-as-serpa-raised-a-blaster-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:205`
 
 > Sneaker was later destroyed on Terephon when Jaina and Zekk questioned the Ducha Galney about an assassination attempt on the life of the Queen Mother, Tenel Ka.
 — Source: scan pages 161–200; Jaina Solo. POV: Jaina Solo, about Zekk.
 Note (our notes, around the quote): Jaina Solo: "Sneaker was later destroyed on Terephon when Jaina and Zekk questioned the Ducha Galney about an assassination attempt on the life of the Queen Mother, Tenel Ka." Source: The Complete Star Wars Encyclopedia, Vol. III, p.170
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.170 — full quote as printed](quotes/v3-p170-sneaker-was-later-destroyed-on-terephon.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:195`
 
 - Note (summary from our notes, not a quotation): Page contents: 1230 words, 33 paragraphs | headings/entries: Zeetsa; Zark Squadron; Zatec-Cha; Zatoq, Lyyr; Zeffliffl; Zebulon Dak Speeder Corporation; ZeHethbra; Zeebo; Zeemacht Cluster; Zeison Sha; Zekk
@@ -517,7 +511,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan
 
 - Note (summary from our notes, not a quotation): Brakiss — entry/section: Brakiss made his way to the Deep: "Brakiss gave Zekk a lightsaber, and when Zekk proved his skill in a duel to the death against a fellow student, he became Brakiss's "Darkest Knight."" Source: The New Essential Guide to Characters, p.32
   — Source: scan pages 1–30.
-![Quote image: The New Essential Guide to Characters, p.32 — full quote as printed](quotes/negc-p32-brakiss-gave-zekk-a-lightsaber-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:184`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -531,7 +524,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:362`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Jaina Solo: "Zekk dueled with Jaina, but fled rather than deliberately injure her." Source: Dark Side Sourcebook, p.109
-![Quote image: Dark Side Sourcebook, p.109 — full quote as printed](quotes/dss-p109-zekk-dueled-with-jaina-but-fled.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:364`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -552,7 +544,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:298`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Tenel Ka; Raynar Thul; Zekk — entry/section: Troy Denning on the Young Jedi Knights characters: ""One of the really pleasant surprises I had was to find out how interesting these characters really were." ... "by the end of the series I really thought I knew these kids." —Troy Denning, Star Wars Insider 56, p. 68" Source: *Star Wars Insider #56* (2001), scan p.51
-![Quote image: *Star Wars Insider #56* (2001), scan p.51 — full quote as printed](quotes/ins056-s51-one-of-the-really-pleasant-surprises.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:302`
 
 ## Star Wars Insider #58 (2002)

@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > During a recent job for Black Sun, Boushh made the mistake of insulting Prince Xizor. Guri, Prince Xizor's trusted bodyguard, killed the Ubese as punishment for the infraction. Guri later gave Boushh's outfit to Leia Organa so that she could sneak into Imperial Center.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Guri; Prince Xizor; Leia Organa Solo — entry/section: Guri killed Boushh: "During a recent job for Black Sun, Boushh made the mistake of insulting Prince Xizor. Guri, Prince Xizor's trusted bodyguard, killed the Ubese as punishment for the infraction. Guri later gave Boushh's outfit to Leia Organa so that she could sneak into Imperial Center." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.132
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.132 — full quote as printed](quotes/d043-s132-during-a-recent-job-for-black.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:104`
 
 ## Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–89)
@@ -45,7 +44,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:42`
 
 - Note (summary from our notes, not a quotation): Boushh took many contracts from the Black Sun crime syndicate during the Galactic Civil War, but he was ultimately caught trying to swindle the syndicate out of money. Prince Xizor's bodyguard/assassin droid, Guri, made short work of Boushh, but his fate was not widely known. Xizor kept Boushh's equipment in case it proved useful one day. Eventually, he gave it to Princess Leia to use as a disguise so she could get through Imperial security checkpoints and meet Xizor at his palace on Coruscant. (Leia, being such a high-profile member of the Rebel Alliance, almost certainly would have been recognized and detained, but "Boushh" could pass through without a second glance.) When Leia escaped from Xizor's palace, as described in Shadows of the Empire, she kept the Boushh disguise and later used it during her attempt to rescue Han Solo." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d270-s3-a-no-boushh-does-not-count.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:43`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -57,7 +55,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > In Return of the Jedi, Princess Leia, disguised as the bounty hunter Boushh, proves her criminal nature by “capturing” Chewbacca and then threatening Jabba over the reward money.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Leia Organa Solo; Chewbacca; Jabba the Hutt — entry/section: Leia as Boushh: "In Return of the Jedi, Princess Leia, disguised as the bounty hunter Boushh, proves her criminal nature by “capturing” Chewbacca and then threatening Jabba over the reward money." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.155
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.155 — full quote as printed](quotes/d666-s155-in-return-of-the-jedi-princess.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:234`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -106,7 +103,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:273`
 > They found a way for her to be very nice while remaining strong and committed. Leia is quite feminine, and her character is as clearly defined as the boys are—and she even dresses like a woman.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Leia Organa Solo; Luke Skywalker; Jabba the Hutt — entry/section: Carrie Fisher on Leia in Return of the Jedi: "Fisher then returned to the Star Wars saga one last time, filming the movie that was initially going to be called Revenge of the Jedi, in 1982 and in which Leia dons a disguise as bounty hunter Boushh and later chokes Jabba the Hutt with a chain. The final episode turned out to be Fisher's biggest acting challenge yet, as the character sheds her caustic façade and displays a softer side when she discovers that Luke is her brother. "Leia's character undergoes quite a change in Jedi," she said. "They found a way for her to be very nice while remaining strong and committed. Leia is quite feminine, and her character is as clearly defined as the boys are—and she even dresses like a woman." —Carrie Fisher, Star Wars Insider 59, p. 41" Source: *Star Wars Insider #59* (2002), scan p.41
-![Quote image: *Star Wars Insider #59* (2002), scan p.41 — full quote as printed](quotes/ins059-s41-fisher-then-returned-to-the-star.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:275`
 
 ## Star Wars Insider #71 (2003)
@@ -114,7 +110,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:275`
 > The divergence takes place right at the beginning of the film in Jabba's palace. There's a moment between Jabba and Leia [disguised as Boushh] where Jabba strikes See-Threepio because he's unhappy with his translations. In the film, Threepio is just knocked around a bit, but in Infinities, he falls, and his head pops off and there's no one to translate between Jabba and Leia.
 — Source: Star Wars Insider #71 (2003).
 Note (our notes, around the quote): C-3PO; Jabba the Hutt; Leia Organa Solo — entry/section: Infinities: Return of the Jedi divergence: ""The divergence takes place right at the beginning of the film in Jabba's palace. There's a moment between Jabba and Leia [disguised as Boushh] where Jabba strikes See-Threepio because he's unhappy with his translations. In the film, Threepio is just knocked around a bit, but in Infinities, he falls, and his head pops off and there's no one to translate between Jabba and Leia." —Adam Gallardo, Star Wars Insider 71, p. 65" Source: *Star Wars Insider #71* (2003), scan p.65
-![Quote image: *Star Wars Insider #71* (2003), scan p.65 — full quote as printed](quotes/ins071-s65-the-divergence-takes-place-right-at.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:354`
 
 ## Star Wars Insider #77 (2004)
@@ -140,7 +135,6 @@ Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:158`
 > Pat Welsh ended up doing all of the classic E.T. lines, like 'E.T. phone home,' 'Elliot' and that sort of stuff. She was also the voice of Boussh in Return of the Jedi.
 — Source: Star Wars Insider #98 (2008); Leia Organa Solo — entry/section: E.T. and Boushh voice.
 Note (our notes, around the quote): Leia Organa Solo — entry/section: E.T. and Boushh voice: ""Pat Welsh ended up doing all of the classic E.T. lines, like 'E.T. phone home,' 'Elliot' and that sort of stuff. She was also the voice of Boussh in Return of the Jedi." —Ben Burtt, Star Wars Insider 98, p. 22" Source: *Star Wars Insider #98* (2008), scan p.22
-![Quote image: *Star Wars Insider #98* (2008), scan p.22 — full quote as printed](quotes/ins098-s22-pat-welsh-ended-up-doing-all.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:190`
 
 ## Star Wars Insider #99 (2008)

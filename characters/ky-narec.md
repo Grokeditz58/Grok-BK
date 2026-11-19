@@ -14,7 +14,6 @@
 > A native of the planet Rattatak, Asajj Ventress was a ruthless and cunning adversary, known for her military expertise and her corrupt mastery over the Force, Her parents were murdered by Osika Kirske when she was young, and she might have died if not for the sudden appearance of Jedi Master Ky Narec.
 — Source: scan pages 281–320; Asajj Ventress. POV: Asajj Ventress, about Ky Narec.
 Note (our notes, around the quote): Asajj Ventress: "A native of the planet Rattatak, Asajj Ventress was a ruthless and cunning adversary, known for her military expertise and her corrupt mastery over the Force, Her parents were murdered by Osika Kirske when she was young, and she might have died if not for the sudden appearance of Jedi Master Ky Narec." Source: The Complete Star Wars Encyclopedia, Vol. III, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.302 — full quote as printed](quotes/v3-p302-a-native-of-the-planet-rattatak.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:219`
 
 ## Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -26,7 +25,6 @@ Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.
 > Asajj Ventress's early life on her war-torn home planet of Rattatak prepared her for the hardships that she would face. Her potential in the Force was discovered by a stranded Jedi named Ky Narec, and he decided to train the young Asajj. The partnership worked for a while, but Ky was killed by the powerful warlords on Rattatak before he could complete her training. As a result, her hatred of the Republic grew as she believed it abandoned her Master and her home planet.
 — Source: Characters/Miniatures/The Force Is With Them (Mostly).pdf [Star Wars Role.
 Note (our notes, around the quote): Asajj Ventress; Ky Narec — entry/section: Asajj Ventress and Ky Narec: "Asajj Ventress's early life on her war-torn home planet of Rattatak prepared her for the hardships that she would face. Her potential in the Force was discovered by a stranded Jedi named Ky Narec, and he decided to train the young Asajj. The partnership worked for a while, but Ky was killed by the powerful warlords on Rattatak before he could complete her training. As a result, her hatred of the Republic grew as she believed it abandoned her Master and her home planet." Source: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Force Is With Them (Mostly)* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d113-s1-asajj-ventresss-early-life-on-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/113-the-force-is-with-them-mostly.md:12`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -38,7 +36,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > When Ky Narec is killed, Ventress is unable to control her anger, vowing vengeance not only on the warlords whose squabbles caused Ky Narec's death but also on the Jedi Order for not sending anyone to help.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Asajj Ventress. POV: Asajj Ventress, about Ky Narec.
 Note (our notes, around the quote): Asajj Ventress: "When Ky Narec is killed, Ventress is unable to control her anger, vowing vengeance not only on the warlords whose squabbles caused Ky Narec's death but also on the Jedi Order for not sending anyone to help." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.185 — full quote as printed](quotes/d728-s185-when-ky-narec-is-killed-ventress.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:55`
 
 ## Star Wars Insider #105 (2008)

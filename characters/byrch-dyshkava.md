@@ -25,19 +25,16 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-2-notes.md:273`
 > Embodying true skill and dedication, the Padawan confronts the spirit of an ancient Jedi known as Rajivari, and defeats a vengeful young man who had pledged himself to learning Rajivari's secrets.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular) — Emissary of the Rift Alliance intro.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular) — Emissary of the Rift Alliance intro: "Embodying true skill and dedication, the Padawan confronts the spirit of an ancient Jedi known as Rajivari, and defeats a vengeful young man who had pledged himself to learning Rajivari's secrets." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-embodying-true-skill-and-dedication-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:351`
 
 > Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work.
 — Source: The Sith; Jaesa Willsaam; Nomen Karr — Hunt for the Padawan.
 Note (our notes, around the quote): Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-together-master-and-apprentice-discover-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:432`
 
 > The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-the-sith-warrior-ultimately-strikes-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:434`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -51,7 +48,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:434`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Darth Maul — Maul kills Darsha Assant and Lom Pavan: "Maul chased them through the undercity past cannibalistic Cthons and a train-sized taozin worm, and eventually killed the Padawan." Source: The New Essential Chronology, p.39
-![Quote image: The New Essential Chronology, p.39 — full quote as printed](quotes/nec-p39-maul-kills-darsha-assant-and-lom.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:89`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -59,7 +55,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Thus, when he learned that Flynn Kybo had survived an encounter with the Separatist military leader, he sought out the Padawan to discuss the young man's plans for going after Grievous.
 — Source: scan pages 241–280; General Grievous. POV: General Grievous, about Byrch Dyshkava.
 Note (our notes, around the quote): General Grievous: "Thus, when he learned that Flynn Kybo had survived an encounter with the Separatist military leader, he sought out the Padawan to discuss the young man's plans for going after Grievous." Source: The Complete Star Wars Encyclopedia, Vol. III, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.253 — full quote as printed](quotes/v3-p253-thus-when-he-learned-that-flynn.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:176`
 
 ## The New Essential Guide to Characters (2002)
@@ -67,7 +62,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > She killed Hett, but his son A'Sharad survived and became the Padawan learner of Ki-Adi-Mundi.
 — Source: scan pages 121–150; Darth Krayt; Ki-Adi-Mundi.
 Note (our notes, around the quote): Darth Krayt; Ki-Adi-Mundi: "She killed Hett, but his son A'Sharad survived and became the Padawan learner of Ki-Adi-Mundi." Source: The New Essential Guide to Characters, p.154
-![Quote image: The New Essential Guide to Characters, p.154 — full quote as printed](quotes/negc-p154-she-killed-hett-but-his-son.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:158`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -81,19 +75,16 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 > “Watch where you're walking,” he growls. Your smell offends me.”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Byrch Dyshkava — entry/section: The hooded Padawan accosts the heroes.
 Note (our notes, around the quote): Byrch Dyshkava — entry/section: The hooded Padawan accosts the heroes: "“Watch where you're walking,” he growls. Your smell offends me.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.66
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.66 — full quote as printed](quotes/d056-s66-watch-where-youre-walking-he-growls.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:37`
 
 > “Liddell!” He shouts with all his remaining might. “Liddell! You owe me a death! I can't wait forever!”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Byrch Dyshkava — entry/section: The collapsed Padawan cries out.
 Note (our notes, around the quote): Byrch Dyshkava — entry/section: The collapsed Padawan cries out: "“Liddell!” He shouts with all his remaining might. “Liddell! You owe me a death! I can't wait forever!”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.67
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.67 — full quote as printed](quotes/d056-s67-liddell-he-shouts-with-all-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:44`
 
 > “Mix! You swore you'd kill me! You swore!”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Byrch Dyshkava — entry/section: The Padawan wakes in Doc's care.
 Note (our notes, around the quote): Byrch Dyshkava — entry/section: The Padawan wakes in Doc's care: "“Mix! You swore you'd kill me! You swore!”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.68
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.68 — full quote as printed](quotes/d056-s68-mix-you-swore-youd-kill-me.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:55`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/206 - Almas, Sweet Almas - The Kaluthin Are Always Greener.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -101,7 +92,7 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-10
 > We discovered the identity of the Gungan Jedi. His name was Kosa-Yin Hadu. He was the Padawan of a Knight named Kin-Ya Dosun, who was also a Gungan. The pair of them disappeared on a mission for the Coruscant temple about two years ago. We're trying to find out what that mission was and where they were lost, but all our inquiries are coming up empty. I'll see that you're kept informed.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/206 - Almas, Swee.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Seenlu Kir on Kosa-Yin Hadu: ""We discovered the identity of the Gungan Jedi. His name was Kosa-Yin Hadu. He was the Padawan of a Knight named Kin-Ya Dosun, who was also a Gungan. The pair of them disappeared on a mission for the Coruscant temple about two years ago. We're trying to find out what that mission was and where they were lost, but all our inquiries are coming up empty. I'll see that you're kept informed."" Source: *206 - Almas, Sweet Almas - The Kaluthin Are Always Greener* (SWRPG d20 Revised Core), p.11–12
-![Quote image: *206 - Almas, Sweet Almas - The Kaluthin Are Always Greener* (SWRPG d20 Revised Core), p.11–12 — full quote as printed](quotes/d292-p11–12-we-discovered-the-identity-of-the.jpg)
+![Quote image: *206 - Almas, Sweet Almas - The Kaluthin Are Always Greener* (SWRPG d20 Revised Core), p.11–12 — full quote as printed](../notes/materials/037-sw-d20-folder/quotes/d292-p11–12-we-discovered-the-identity-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/292-206-almas-sweet-almas-the-kaluthin-are.md:156`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 3/303 - Forces of Cularin - Force Convention.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -109,7 +100,6 @@ Our notes: `notes/materials/037-sw-d20-folder/292-206-almas-sweet-almas-the-kalu
 > In the middle of the room, two lightsabers flash. Master Kirlocca and another Jedi struggle against the t'salak onslaught. The pair dances around, back-toback. Their lightsabers swing furiously to keep the t'salaks back.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 3/303 - Forces of C.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kirlocca and the Padawan: "In the middle of the room, two lightsabers flash. Master Kirlocca and another Jedi struggle against the t'salak onslaught. The pair dances around, back-toback. Their lightsabers swing furiously to keep the t'salaks back." Source: *303 - Forces of Cularin - Force Convention* (SWRPG d20 Revised Core), p.12
-![Quote image: *303 - Forces of Cularin - Force Convention* (SWRPG d20 Revised Core), p.12 — full quote as printed](quotes/d307-p12-in-the-middle-of-the-room.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/307-303-forces-of-cularin-force-convention.md:96`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 4/402 - Jedi Code - The Way of the Force.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -127,7 +117,6 @@ Our notes: `notes/materials/037-sw-d20-folder/325-402-jedi-code-the-way-of-the.m
 > Defeating that which has been feared is not necessarily a sign of success, if fear or anger were tools in the Padawan's victory.
 — Source: Living Force Campaign/Articles/Year 2/03:07:02 - Now I Am the Master.pdf.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Almas Jedi Academy: "Defeating that which has been feared is not necessarily a sign of success, if fear or anger were tools in the Padawan's victory." Source: *03:07:02 - Now I Am the Master* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *03:07:02 - Now I Am the Master* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d397-s3-defeating-that-which-has-been-feared.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/397-03-07-02-now-i-am-the.md:42`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -141,7 +130,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Now, beginning with Attack of the Clones, it's Ewan McGregor's job to bridge the gap, to bring together the Padawan whose stunning lightsaber duel with Darth Maul thrilled audiences in The Phantom Menace and the jaded Jedi Knight who faced off against his former pupil Darth Vader in A New Hope.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Maul; Darth Vader (Anakin Skywalker) — entry/section: Ewan McGregor bridging the gap: "Now, beginning with Attack of the Clones, it's Ewan McGregor's job to bridge the gap, to bring together the Padawan whose stunning lightsaber duel with Darth Maul thrilled audiences in The Phantom Menace and the jaded Jedi Knight who faced off against his former pupil Darth Vader in A New Hope." Source: *Star Wars Insider #60* (2002), scan p.27
-![Quote image: *Star Wars Insider #60* (2002), scan p.27 — full quote as printed](quotes/ins060-s27-now-beginning-with-attack-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:184`
 
 ## Star Wars Insider #70 (2003)
@@ -156,7 +144,6 @@ Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:50`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #73 (2004).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Ki-Adi-Mundi; Obi-Wan Kenobi — entry/section: Ostrander on Anakin in Republic #62: ""Anakin is now the Padawan, at least temporarily, to Ki-Adi-Mundi … He's having dreams—visions—of Obi-Wan still being alive but in pain or danger. The last time he had that was when his mother died. We all know how he reacted to that. Will Anakin abandon his duty to look for his Master and friend? He wouldn't be Anakin if he didn't." —John Ostrander, Star Wars Insider 73, p. 73" Source: *Star Wars Insider #73* (2004), scan p.73
-![Quote image: *Star Wars Insider #73* (2004), scan p.73 — full quote as printed](quotes/ins073-s73-anakin-is-now-the-padawan-at.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:437`
 
 ## Star Wars Insider #115 (2010)

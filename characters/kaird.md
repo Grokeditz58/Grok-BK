@@ -14,7 +14,6 @@
 > Black Sun agent Kaird killed Bleyd.
 — Source: scan pages 81–120; Kaird; Bleyd.
 Note (our notes, around the quote): Kaird; Bleyd: "Black Sun agent Kaird killed Bleyd." Source: The Complete Star Wars Encyclopedia, Vol. I, p.79
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.79 — full quote as printed](quotes/v1-p79-black-sun-agent-kaird-killed-bleyd.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:103`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > However, Thula and Squa Tront double-crossed him, and Kaird would have been killed if he hadn't discovered their trap.
 — Source: scan pages 161–200; Kaird — entry/section: Kaird.
 Note (our notes, around the quote): Kaird — entry/section: Kaird: "However, Thula and Squa Tront double-crossed him, and Kaird would have been killed if he hadn't discovered their trap." Source: The Complete Star Wars Encyclopedia, Vol. II, p.193
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.193 — full quote as printed](quotes/v2-p193-however-thula-and-squa-tront-double.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:280`
 
 # Debate and forum claims (unverified)

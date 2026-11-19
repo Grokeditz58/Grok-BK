@@ -22,7 +22,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Plo Koon; Tyvokka — Plo Koon at Mount Avos: "In a series of punishing ground battles against Stark's troops, Koon rallied the Republic soldiers under his command and drove back the enemy despite overwhelming odds." Source: The New Essential Chronology, p.33
-![Quote image: The New Essential Chronology, p.33 — full quote as printed](quotes/nec-p33-plo-koon-at-mount-avos.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:41`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -34,7 +33,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > In the ensuing firefight, Master Tyvokka was killed when the Trade Federation's battle droids opened fire into the melee.
 — Source: scan pages 241–280; Tyvokka — entry/section: Tyvokka.
 Note (our notes, around the quote): Tyvokka — entry/section: Tyvokka: "In the ensuing firefight, Master Tyvokka was killed when the Trade Federation's battle droids opened fire into the melee." Source: The Complete Star Wars Encyclopedia, Vol. III, p.273
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.273 — full quote as printed](quotes/v3-p273-in-the-ensuing-firefight-master-tyvokka.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:324`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

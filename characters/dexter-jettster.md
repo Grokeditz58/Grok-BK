@@ -28,7 +28,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Leia Organa Solo: "After he ran into Han and Leia Organa Solo at the medical facility treating Eelysa, Dex was shot and killed in the ensuing firefight." Source: The Complete Star Wars Encyclopedia, Vol. I, p.187
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.187 — full quote as printed](quotes/v1-p187-after-he-ran-into-han-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:19`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -319,7 +318,6 @@ Our notes: `notes/materials/037-sw-d20-folder/152-villains-of-revenge-of-the-sit
 
 - Note (summary from our notes, not a quotation): No single roster character (rules/setting/general) — entry/section: Imperial Royal Guard armor stats: "A: Almost. Guardsman's armor was described on page 43 of Star Wars Gamer #10 -- the armor used by the Supreme Chancellor's Guard and the Imperial Royal Guard was identical. It is powered armor with DR 5, Max Dex +2, and Armor Check Penalty —2; it provides a +2 equipment bonus to Listen, Search, and Spot checks; and its cost is 8,000 credits. (Note that this cost is for comparative purposes only. The armor would never be sold on the open market, and since so few Guardsmen exist, it would have an extremely high "collector's value" in the black market and sell for 10 to 100 times as much, maybe even more.)" Source: *Jedi Counseling 56* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 56.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 56* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d223-s1-a-almost-guardsmans-armor-was-described.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/223-jedi-counseling-56.md:12`
 
 ## Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -330,7 +328,7 @@ Our notes: `notes/materials/037-sw-d20-folder/223-jedi-counseling-56.md:12`
 (Two heads: Because their two heads watch out for each other, Troigs gain a +4 bonus to Spot checks for determining surprise.)
 (Bonus feat: Multidexterity (Ultimate Alien Anthology page 218) -- Troigs ignore the Dex 15 prerequisite for this feat.)
 (Extra limbs: Troigs have four arms. A Troig has one primary hand and three off hands. A Troig can wield up to four weapons, but the normal penalties for fighting with multiple weapons apply. (Unlike a Xexto, a Troig's two sets of arms are controlled independently by each head, so they aren't coordinated well enough to grant a bonus to Climb or grapple checks.)" Source: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2)
-![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d236-s2-troig-species-traits-medium-size-as.jpg)
+![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](../notes/materials/037-sw-d20-folder/quotes/d236-s2-troig-species-traits-medium-size-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:18`
 
 ## Jedi Counselling/Jedi Counseling 74.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -342,7 +340,6 @@ What it shows (our notes): A: First, when the rules say "average" skill for the 
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 74 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_74_pdf_40b465ad26`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_74_pdf`.)
 (Second, regarding the listed initiative modifiers for starships, that's actually an error. Space transports and capital ships are supposed to use a flat initiative modifier equal to their size modifier (no adjustment for Dex or anything). Starfighters (and only starfighters) get to add the pilot's personal initiative modifier (see page 211 of the revised Star Wars Roleplaying Game rulebook). Of course, there is no listing for a crew's Dex modifier, but I think you could assume that Untrained and Normal crews have a Dex modifier of +0, Skilled and Expert crews have a Dex modifier of +1, and Ace crews have a Dex modifier of +2." Source: *Jedi Counseling 74* (SWRPG d20 Revised Core), scan p.2)
-![Quote image: *Jedi Counseling 74* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d243-s2-q-in-the-starship-rules-it.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:25`
 
 ## Jedi Counselling/Jedi Counseling 87.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -352,7 +349,6 @@ Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:25`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 87 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_87_pdf_c566699411`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 87 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_87_pdf_c566699411`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Optional Rule: Antivehicle Mode for cannons: "Antivehicle Mode: A cannon in antivehicle mode is fired with a longer pulse that can penetrate heavier armor if it is held very steady during firing. Using this mode is a full-round action that provokes an attack of opportunity, and you lose your Dex bonus to Defense. Furthermore, you take double the normal speed penalties to your attack roll if on board a moving vehicle or starship. For every point by which your attack roll exceeds the target's Defense, you ignore 1 point of Damage Reduction (up to a maximum of 15)." Source: *Jedi Counseling 87* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 87* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d257-s1-antivehicle-mode-a-cannon-in-antivehicle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:16`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/215 - Looking In - Outward Bound.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -360,7 +356,6 @@ Our notes: `notes/materials/037-sw-d20-folder/257-jedi-counseling-87.md:16`
 > Clone troopers: Human Male Thug 6; IM +1; Def 13 (+2 class, +1 Dex); Spd 8m; VP/WP -/12; Atk +7/+2 melee (1d3, unarmed) or +7/+2 ranged (3d8 or DC 18 stun, crit 19-20, blaster rifle); SQ DR 5 (armor), Immunities (cannot be bribed, blackmailed, or seduced); SV Fort +6, Ref +3, Will +1; SZ M; Rep +1; Str 12, Dex 13, Con 12, Int 10, Wis 8, Cha 9.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 2/215 - Looking In.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Clone troopers stat block: "Clone troopers: Human Male Thug 6; IM +1; Def 13 (+2 class, +1 Dex); Spd 8m; VP/WP -/12; Atk +7/+2 melee (1d3, unarmed) or +7/+2 ranged (3d8 or DC 18 stun, crit 19-20, blaster rifle); SQ DR 5 (armor), Immunities (cannot be bribed, blackmailed, or seduced); SV Fort +6, Ref +3, Will +1; SZ M; Rep +1; Str 12, Dex 13, Con 12, Int 10, Wis 8, Cha 9." Source: *215 - Looking In - Outward Bound* (SWRPG d20 Revised Core), p.23
-![Quote image: *215 - Looking In - Outward Bound* (SWRPG d20 Revised Core), p.23 — full quote as printed](quotes/d301-p23-clone-troopers-human-male-thug-6.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/301-215-looking-in-outward-bound.md:158`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/217 - Looking In - Memories.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -456,7 +451,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > His old friend Obi-Wan Kenobi brought him a poisoned Kaminoan saberdart, and Jettster's identification of the artifact touched off a chain of events that led to the start of the Clone Wars.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Dexter Jettster; Obi-Wan Kenobi — entry/section: Dexter identifies the saberdart: "His old friend Obi-Wan Kenobi brought him a poisoned Kaminoan saberdart, and Jettster's identification of the artifact touched off a chain of events that led to the start of the Clone Wars." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.31
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.31 — full quote as printed](quotes/d665-s31-his-old-friend-obi-wan-kenobi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:206`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -758,7 +752,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:451`
 > It's not anything challenging really, but I like it a lot. We also get to do the Clone Wars, which is like the battle of Naboo, and like the Death Star battle, only it's much more straightforward and intense. We've never done anything like this before—this is really pushing it.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Dexter Jettster — entry/section: George Lucas on Dex's diner and the Clone Wars: ""That's been a really fun scene," he said. "It's not anything challenging really, but I like it a lot. We also get to do the Clone Wars, which is like the battle of Naboo, and like the Death Star battle, only it's much more straightforward and intense. We've never done anything like this before—this is really pushing it." —George Lucas, Star Wars Insider 60, p. 60" Source: *Star Wars Insider #60* (2002), scan p.60
-![Quote image: *Star Wars Insider #60* (2002), scan p.60 — full quote as printed](quotes/ins060-s60-thats-been-a-really-fun-scene.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:455`
 
 ## Star Wars Insider #63 (2002)
@@ -774,7 +767,6 @@ Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:168`
 > The main challenge on Dexter was his face. With his large mouth, small eyes and that bony ridge just above the eyebrows, it was tough to come up with a balance to get the facial expressions to read clearly.
 — Source: Star Wars Insider #63 (2002); Dexter Jettster — entry/section: Behind the Magic: animating Dexter's face.
 Note (our notes, around the quote): Dexter Jettster — entry/section: Behind the Magic: animating Dexter's face: ""The main challenge on Dexter was his face. With his large mouth, small eyes and that bony ridge just above the eyebrows, it was tough to come up with a balance to get the facial expressions to read clearly." —Steve Rawlins, Star Wars Insider 63, p. 63" Source: *Star Wars Insider #63* (2002), p.63
-![Quote image: *Star Wars Insider #63* (2002), p.63 — full quote as printed](quotes/ins063-p63-the-main-challenge-on-dexter-was.jpg)
 Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:394`
 
 ## Star Wars Insider #65 (2003)

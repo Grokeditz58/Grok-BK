@@ -3630,12 +3630,12 @@ Our notes: `notes/materials/008-caedus-wank-problems-caedus-maul-vs-yoda.md:761`
 > its wielder ignores restrictions on Sense Force and Sense Surroundings imposed by Yuuzhan Vong
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Anakin Solo's lightsaber (p98). POV: Anakin Solo's lightsaber.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p98 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p098-its-wielder-ignores-restrictions-on-sense.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p98 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p098-its-wielder-ignores-restrictions-on-sense.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:875`
 
 - Note (summary from our notes, not a quotation): Counter: lightning, telekinesis on non-biotech objects and lightsabers still work. Anakin Solo's saber lets its wielder ignore the Vong sensing limits (p98).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p98 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p098-its-wielder-ignores-restrictions-on-sense.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p98 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p098-its-wielder-ignores-restrictions-on-sense.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1048`
 
 ## https://starwars.fandom.com/wiki/Darth_Caedus

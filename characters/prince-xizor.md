@@ -14,7 +14,6 @@
 > Xizor had masterminded the Bounty Hunter Wars a few years earlier and was now said to be the third most powerful person in the galaxy, behind Palpatine and Vader.
 — Source: Part Five: The Galactic Civil War.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker) — Xizor third most powerful: "Xizor had masterminded the Bounty Hunter Wars a few years earlier and was now said to be the third most powerful person in the galaxy, behind Palpatine and Vader." Source: The New Essential Chronology, p.121
-![Quote image: The New Essential Chronology, p.121 — full quote as printed](quotes/nec-p121-xizor-third-most-powerful.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:150`
 
 > When Xizor realized he had less than five minutes before the thermal detonator de- stroyed his fortress, he fled to his orbiting skyhook, Falleen’s Fist. The resulting implosion of Xizor’s castle left a gaping hole in the Coruscant cityscape.
@@ -28,13 +27,11 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — never subtle or patient: "Darth Vader, never a subtle or patient man, had been driven over the edge by Xizor's brazen attempt to eliminate Skywalker." Source: The New Essential Chronology, p.122
-![Quote image: The New Essential Chronology, p.122 — full quote as printed](quotes/nec-p122-never-subtle-or-patient.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:161`
 
 > Prince Xizor, head of Black Sun.
 — Source: Part Five: The Galactic Civil War; art caption.
 Note (our notes, around the quote): art caption: "Prince Xizor, head of Black Sun." Source: The New Essential Chronology, p.123, caption
-![Quote image: The New Essential Chronology, p.123 — full quote as printed](quotes/nec-p123-caption-prince-xizor-head-of-black.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:172`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -42,32 +39,27 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 > Seeking to curry favor as well as personal gain, the criminal mastermind Prince Xizor notified Emperor Palpatine of the base, which also was near the main facilities of Ororo Transportation, a major competitor of Xizor's company, XTS, and a front for the rival Tenloss Syndicate.
 — Source: scan pages 41–80; Prince Xizor; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Prince Xizor; Palpatine (Darth Sidious): "Seeking to curry favor as well as personal gain, the criminal mastermind Prince Xizor notified Emperor Palpatine of the base, which also was near the main facilities of Ororo Transportation, a major competitor of Xizor's company, XTS, and a front for the rival Tenloss Syndicate." Source: The Complete Star Wars Encyclopedia, Vol. I, p.55
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.55 — full quote as printed](quotes/v1-p55-seeking-to-curry-favor-as-well.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:233`
 
 > Xizor, at the time possibly the third most powerful man in the galaxy after the Emperor and Vader, vowed vengeance on the Dark Lord, but ended up on the losing side of a battle to the death.
 — Source: scan pages 241–280; Prince Xizor; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker): "Xizor, at the time possibly the third most powerful man in the galaxy after the Emperor and Vader, vowed vengeance on the Dark Lord, but ended up on the losing side of a battle to the death." Source: The Complete Star Wars Encyclopedia, Vol. I, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.253 — full quote as printed](quotes/v1-p253-xizor-at-the-time-possibly-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:171`
 
 > It was the pride and joy of the crime king, but during a final showdown with Darth Vader, the Dark Lord ordered a Star Destroyer to annihilate Xizor's skyhook.
 — Source: scan pages 241–280; Darth Vader (Anakin Skywalker); Prince Xizor.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Prince Xizor: "It was the pride and joy of the crime king, but during a final showdown with Darth Vader, the Dark Lord ordered a Star Destroyer to annihilate Xizor's skyhook." Source: The Complete Star Wars Encyclopedia, Vol. I, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.253 — full quote as printed](quotes/v1-p253-it-was-the-pride-and-joy.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:173`
 
 > While Green was one of the smartest of the Vigos, he was also a traitor to Black Sun who was exposed and promptly executed by Guri, Xizor's human replica droid aide, who choked him to death.
 — Source: scan pages 361–398; Guri; Prince Xizor.
 Note (our notes, around the quote): Guri; Prince Xizor: "While Green was one of the smartest of the Vigos, he was also a traitor to Black Sun who was exposed and promptly executed by Guri, Xizor's human replica droid aide, who choked him to death." Source: The Complete Star Wars Encyclopedia, Vol. I, p.366
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.366 — full quote as printed](quotes/v1-p366-while-green-was-one-of-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:166`
 
 > She quickly became Xizor's top lieutenant, enforcing the crime lord's wishes and maintaining the dayto-day continuity of his enterprises...as she killed again and again.
 > [fragment — full passage not on file]
 — Source: scan pages 361–398; Guri; Prince Xizor — entry/section: Guri.
 Note (our notes, around the quote): Guri; Prince Xizor — entry/section: Guri: "She quickly became Xizor's top lieutenant, enforcing the crime lord's wishes and maintaining the dayto-day continuity of his enterprises...as she killed again and again." Source: The Complete Star Wars Encyclopedia, Vol. I, p.377
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.377 — full quote as printed](quotes/v1-p377-she-quickly-became-xizors-top-lieutenant.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:261`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -75,25 +67,21 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Kuat of Kuat used one to hide the falsified recording he had made to frame Prince Xizor in the deaths of Owen and Beru Lars, but the droid was not delivered before its courier, Ree Duptom, was killed.
 — Source: scan pages 81–120; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "Kuat of Kuat used one to hide the falsified recording he had made to frame Prince Xizor in the deaths of Owen and Beru Lars, but the droid was not delivered before its courier, Ree Duptom, was killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.101
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.101 — full quote as printed](quotes/v2-p101-kuat-of-kuat-used-one-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:166`
 
 > When Ororo tried to overturn the XTS domination of the spice trade in the Bajic sector, Xizor's trusted aide, the replica droid Guri, killed a number of top Ororo executives, including Z.
 — Source: scan pages 241–280; Prince Xizor; Guri.
 Note (our notes, around the quote): Prince Xizor; Guri: "When Ororo tried to overturn the XTS domination of the spice trade in the Bajic sector, Xizor's trusted aide, the replica droid Guri, killed a number of top Ororo executives, including Z." Source: The Complete Star Wars Encyclopedia, Vol. II, p.256
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.256 — full quote as printed](quotes/v2-p256-when-ororo-tried-to-overturn-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:195`
 
 > After the encounter with Xizor, Zonder was captured and brought before Darth Vader, who challenged the Selonian to a duel.
 — Source: scan pages 241–280; Prince Xizor; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker): "After the encounter with Xizor, Zonder was captured and brought before Darth Vader, who challenged the Selonian to a duel." Source: The Complete Star Wars Encyclopedia, Vol. II, p.259
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.259 — full quote as printed](quotes/v2-p259-after-the-encounter-with-xizor-zonder.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:220`
 
 > Xizor had played the galaxy's most powerful men into his plans.
 — Source: scan pages 401–440; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "Xizor had played the galaxy's most powerful men into his plans." Source: The Complete Star Wars Encyclopedia, Vol. II, p.425
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.425 — full quote as printed](quotes/v2-p425-xizor-had-played-the-galaxys-most.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:232`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -101,19 +89,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Enraged at the loss of his priceless Jedi and Sith artifacts, Palpatine banished the Rendar family and transferred their holdings to the rival Xizor Transport Systems.
 — Source: scan pages 81–120; Palpatine (Darth Sidious); Prince Xizor.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Prince Xizor: "Enraged at the loss of his priceless Jedi and Sith artifacts, Palpatine banished the Rendar family and transferred their holdings to the rival Xizor Transport Systems." Source: The Complete Star Wars Encyclopedia, Vol. III, p.92
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.92 — full quote as printed](quotes/v3-p92-enraged-at-the-loss-of-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:159`
 
 > Despite his charismatic advantages, Xizor was defeated.
 — Source: scan pages 161–200; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "Despite his charismatic advantages, Xizor was defeated." Source: The Complete Star Wars Encyclopedia, Vol. III, p.177
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.177 — full quote as printed](quotes/v3-p177-despite-his-charismatic-advantages-xizor-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:280`
 
 > Xizor's top aide, Guri, choked Tuyay, then held a blaster up to his left eyeball and killed him.
 — Source: scan pages 241–280; Prince Xizor; Guri.
 Note (our notes, around the quote): Prince Xizor; Guri: "Xizor's top aide, Guri, choked Tuyay, then held a blaster up to his left eyeball and killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.269
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.269 — full quote as printed](quotes/v3-p269-xizors-top-aide-guri-choked-tuyay.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:288`
 
 - Note (summary from our notes, not a quotation): Page contents: 1122 words, 20 paragraphs | headings/entries: Xhaxin, Captain Urias; Xi Charrian; Xi'Dee; Xiss, Zule; Xist; Xizor, Prince
@@ -123,19 +108,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > Prince Xizor was also highly political and was probably the third most powerful individual in the galaxy.
 — Source: scan pages 321–360; Prince Xizor — entry/section: Xizor, Prince.
 Note (our notes, around the quote): Prince Xizor — entry/section: Xizor, Prince: "Prince Xizor was also highly political and was probably the third most powerful individual in the galaxy." Source: The Complete Star Wars Encyclopedia, Vol. III, p.342
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.342 — full quote as printed](quotes/v3-p342-prince-xizor-was-also-highly-political.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:227`
 
 > An accident let a tissue-destroying bacterium escape, so Vader ordered the city near the lab burned to ashes, killing 200,000 Falleen including Xizor's entire family.
 — Source: scan pages 321–360; Prince Xizor; Darth Vader (Anakin Skywalker) — entry/section: Xizor, Prince.
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker) — entry/section: Xizor, Prince: "An accident let a tissue-destroying bacterium escape, so Vader ordered the city near the lab burned to ashes, killing 200,000 Falleen including Xizor's entire family." Source: The Complete Star Wars Encyclopedia, Vol. III, p.343
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.343 — full quote as printed](quotes/v3-p343-an-accident-let-a-tissue-destroying.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:234`
 
 > Xizor, who was offworld, destroyed all records of the family tragedy so that no one would know of his personal reasons for despising Vader and his pledge to avenge the deaths.
 — Source: scan pages 321–360; Prince Xizor; Darth Vader (Anakin Skywalker) — entry/section: Xizor, Prince.
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker) — entry/section: Xizor, Prince: "Xizor, who was offworld, destroyed all records of the family tragedy so that no one would know of his personal reasons for despising Vader and his pledge to avenge the deaths." Source: The Complete Star Wars Encyclopedia, Vol. III, p.343
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.343 — full quote as printed](quotes/v3-p343-xizor-who-was-offworld-destroyed-all.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:236`
 
 ## The New Essential Guide to Characters (2002)
@@ -143,25 +125,21 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > He also enjoyed pitting Darth Vader against Black Sun leader Prince Xizor, a game that ended when Vader vaporized his rival.
 — Source: scan pages 91–120.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker); Prince Xizor — entry/section: Emperor Palpatine named Sate: "He also enjoyed pitting Darth Vader against Black Sun leader Prince Xizor, a game that ended when Vader vaporized his rival." Source: The New Essential Guide to Characters, p.127
-![Quote image: The New Essential Guide to Characters, p.127 — full quote as printed](quotes/negc-p127-he-also-enjoyed-pitting-darth-vader.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:219`
 
 > Vader refused to allow anyone to touch Skywalker before he had a chance to recruit him, and he punished Xizor by vaporizing the Falleen crime lord aboard his luxury skyhook.
 — Source: scan pages 121–150; Darth Vader (Anakin Skywalker); Prince Xizor.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Prince Xizor: "Vader refused to allow anyone to touch Skywalker before he had a chance to recruit him, and he punished Xizor by vaporizing the Falleen crime lord aboard his luxury skyhook." Source: The New Essential Guide to Characters, p.157
-![Quote image: The New Essential Guide to Characters, p.157 — full quote as printed](quotes/negc-p157-vader-refused-to-allow-anyone-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:187`
 
 > Her mission a failure, Mara accepted Palpatine's alternate assignment to assassinate Dequc, a criminal underlord who'd been trying to fill the power vacuum left behind after Darth Vader killed Prince Xizor.
 — Source: scan pages 151–180.
 Note (our notes, around the quote): Mara Jade Skywalker; Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker); Prince Xizor: "Her mission a failure, Mara accepted Palpatine's alternate assignment to assassinate Dequc, a criminal underlord who'd been trying to fill the power vacuum left behind after Darth Vader killed Prince Xizor." Source: The New Essential Guide to Characters, p.161
-![Quote image: The New Essential Guide to Characters, p.161 — full quote as printed](quotes/negc-p161-her-mission-a-failure-mara-accepted.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:45`
 
 > Xizor escaped to the Falleen's Fist and ordered his private navy to destroy the fleeing Millennium Falcon.
 — Source: scan pages 181–210; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "Xizor escaped to the Falleen's Fist and ordered his private navy to destroy the fleeing Millennium Falcon." Source: The New Essential Guide to Characters, p.200
-![Quote image: The New Essential Guide to Characters, p.200 — full quote as printed](quotes/negc-p200-xizor-escaped-to-the-falleens-fist.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:88`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -173,7 +151,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > In an effort to end the threat of the bounty hunters, the leader of Black Sun, Prince Xizor of Falleen, convinced the Emperor to disenfranchise the Bounty Hunters' Guild. The Emperor contracted Boba Fett to engineer the downfall of the guild.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Prince Xizor; Palpatine (Darth Sidious); Boba Fett — entry/section: Xizor got the Guild disbanded; Fett engineered its downfall: "In an effort to end the threat of the bounty hunters, the leader of Black Sun, Prince Xizor of Falleen, convinced the Emperor to disenfranchise the Bounty Hunters' Guild. The Emperor contracted Boba Fett to engineer the downfall of the guild." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.99
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.99 — full quote as printed](quotes/d043-s99-in-an-effort-to-end-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:251`
 
 - Note (summary from our notes, not a quotation): Page contents: Between Hoth and Endor: Xizor, 'longtime rival of Darth Vader', 'one of the few non-Humans to have the ear of the Emperor', wanted Vader's spot as a step to the throne; Vader destroys Xizor's vessel after he refuses to surrender; Admiral Zaarin's coup, later eliminated by Grand Admiral Thrawn (hand-read)
@@ -184,7 +161,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "Xizor, refusing to let the matter end, sends his perso avy . deal wi " Xizor, prince of the Falleen and longtime rival of Dart n pursuit of the escaping transport." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.115
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.115 — full quote as printed](quotes/d043-s115-xizor-refusing-to-let-the-matter.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:374`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -196,7 +172,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Falleen prince himself does not truly know the extent of his him nea U Indeed, Xizor privately vies to destroy Darth Vader and replace vast wealth.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Prince Xizor; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker): "Falleen prince himself does not truly know the extent of his him nea U Indeed, Xizor privately vies to destroy Darth Vader and replace vast wealth." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.123
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.123 — full quote as printed](quotes/d043-s123-falleen-prince-himself-does-not-truly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:22`
 
 - Note (summary from our notes, not a quotation): Page contents: Xizor should never be underestimated (no crop): 'He also practices a variety of martial arts and combat techniques, despite his army of bodyguards and the personal protection of the enigmatic Guri (see the next page). Xizor is always prepared to crush an opponent physically as well as financially. The Falleen prince is an expert pilot, though few enemies have seen him fly his personal fighter, Virago, and lived to tell about it. Xizor should never be underestimated.' (hand-read)
@@ -206,7 +181,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Among the dead was Xizor's entire family, and the prince iffect others gives a Falleen a +2 circumstance bonus on swore vengeance on Vader, The Underlord has destroyed all S = Bluff and Diplomacy checks.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker) — entry/section: Xizor after he was finished with her: "Among the dead was Xizor's entire family, and the prince iffect others gives a Falleen a +2 circumstance bonus on swore vengeance on Vader, The Underlord has destroyed all S = Bluff and Diplomacy checks." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.124
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.124 — full quote as printed](quotes/d043-s124-among-the-dead-was-xizors-entire.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:31`
 
 - Note (summary from our notes, not a quotation): Page contents: 1060 words, 44 paragraphs | headings/entries: Guri, Human Replica Droid; Mtl! The Right Hand of Xizor; Challenge Code: f; Feats: Ambidexterity, Armor Proficiencies (light, medium; Jump +12,; Stinger; Small (28 m long); Crew: 1; Passengers:; Weapon: Twin laser cannon; Fire Arc: Turret; Durg The Hutt things), / zation, |
@@ -216,13 +190,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Few beings can get the better of Guri in any situation. Even if someone were to learn her secret—that she is actually a mechanical construct—there is little chance that individual would live long enough to spread the news. Her strength and dexterity are far above the Human norm, and in most cases she does not need a weapon to kill with great efficiency (although her training in all types of weapons has not been ignored).
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Guri; Prince Xizor — entry/section: Few beings can get the better of Guri: "Few beings can get the better of Guri in any situation. Even if someone were to learn her secret—that she is actually a mechanical construct—there is little chance that individual would live long enough to spread the news. Her strength and dexterity are far above the Human norm, and in most cases she does not need a weapon to kill with great efficiency (although her training in all types of weapons has not been ignored)." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.125
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.125 — full quote as printed](quotes/d043-s125-few-beings-can-get-the-better.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:43`
 
 > The most powerful crime lord on Rodia is also one of Xizor's most reliable—and least flashy—lieutenants.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "The most powerful crime lord on Rodia is also one of Xizor's most reliable—and least flashy—lieutenants." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.126
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.126 — full quote as printed](quotes/d043-s126-the-most-powerful-crime-lord-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:54`
 
 - Note (summary from our notes, not a quotation): Page contents: 'Xizor expects complete loyalty, and he doesn't tolerate betrayal. For all of their feuding, Xizor and Darth Vader share this trait, and both have eliminated more than one subordinate for failing them.' Green (CC C); Perit 'may be the only being that Xizor truly considers a friend' (hand-read)
@@ -232,19 +204,16 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Howzim is very good at his job—in all the years that Xizor has employed him, not one intruder has made it inside Xizor's palace.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Prince Xizor — entry/section: Howzim: not one intruder.
 Note (our notes, around the quote): Prince Xizor — entry/section: Howzim: not one intruder: "Howzim is very good at his job—in all the years that Xizor has employed him, not one intruder has made it inside Xizor's palace." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.128
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.128 — full quote as printed](quotes/d043-s128-howzim-is-very-good-at-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:66`
 
 > The Pike sisters had already earned a considerable reputation on the underground fighting circuit of the remote Pacanth Reach when they first came to Xizor's attention. The sisters single-handedly defeated and killed over two dozen opponents in one memorable match. Even more impressive to Xizor, the twins used no weapons to accomplish this feat. He immediately offered them jobs as highly paid assassins.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Pike Sisters (Zan and Zu); Prince Xizor — entry/section: Pike sisters: two dozen opponents, no weapons: "The Pike sisters had already earned a considerable reputation on the underground fighting circuit of the remote Pacanth Reach when they first came to Xizor's attention. The sisters single-handedly defeated and killed over two dozen opponents in one memorable match. Even more impressive to Xizor, the twins used no weapons to accomplish this feat. He immediately offered them jobs as highly paid assassins." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.129
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.129 — full quote as printed](quotes/d043-s129-the-pike-sisters-had-already-earned.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:77`
 
 > Pacanth Reach when they sisters single-handedly defeated an ver two dozen mpressive to Xizor, the twins uscd no weapons to accomplish this feat.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "Pacanth Reach when they sisters single-handedly defeated an ver two dozen mpressive to Xizor, the twins uscd no weapons to accomplish this feat." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.129
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.129 — full quote as printed](quotes/d043-s129-pacanth-reach-when-they-sisters-single.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:79`
 
 - Note (summary from our notes, not a quotation): Page contents: Jabba 'respects and admires Xizor and his Black Sun operation'; Big Gizz Thug 12 CC D; swoop gang (hand-read)
@@ -254,7 +223,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > During a recent job for Black Sun, Boushh made the mistake of insulting Prince Xizor. Guri, Prince Xizor's trusted bodyguard, killed the Ubese as punishment for the infraction. Guri later gave Boushh's outfit to Leia Organa so that she could sneak into Imperial Center.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Guri; Prince Xizor; Leia Organa Solo — entry/section: Guri killed Boushh: "During a recent job for Black Sun, Boushh made the mistake of insulting Prince Xizor. Guri, Prince Xizor's trusted bodyguard, killed the Ubese as punishment for the infraction. Guri later gave Boushh's outfit to Leia Organa so that she could sneak into Imperial Center." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.132
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.132 — full quote as printed](quotes/d043-s132-during-a-recent-job-for-black.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:104`
 
 - Note (summary from our notes, not a quotation): Page contents: Remnants: Pellaeon ordered retreat; Harrsk first warlord; Sate Pestage assumed the throne; Ruling Circle; Black Sun never recovers from Xizor's death, niece Savan; Grand Admirals: 'If the remaining Grand Admirals had united after Endor, they might have been able to wipe out the New Republic'; most died with the second Death Star, Takel executed, Grunger and Pitta annihilated each other; Thrawn 'the last and most dangerous Grand Admiral' (hand-read)
@@ -281,7 +249,6 @@ Our notes: `notes/materials/037-sw-d20-folder/253-jedi-counseling-83.md:46`
   — Source: Jedi Counselling/Jedi Counseling 83.pdf [Star Wars Roleplaying Game Revis.
 (Q: Another question on Pheromones: Does it work against Droids?)
 (A: Yes. If it helps, imagine that the Droids have olfactory sensors whose input is disrupted and confused by the Pheromones, making targeting more difficult." Source: *Jedi Counseling 83* (SWRPG d20 Revised Core), scan p.4)
-![Quote image: *Jedi Counseling 83* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d253-s4-q-the-card-text-for-prince.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/253-jedi-counseling-83.md:47`
 
 ## Jedi Counselling/Jedi Counseling 88.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -304,7 +271,6 @@ Our notes: `notes/materials/037-sw-d20-folder/264-jedi-counseling-93.md:27`
 — Source: Jedi Counselling/Jedi Counseling 93.pdf [Star Wars Roleplaying Game Revis.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 93 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_93_pdf_946a2ebf8a`).)
 Note (our notes, around the quote): Prince Xizor; Grand Admiral Thrawn — entry/section: Xizor's Bodyguard is Bodyguard: "A: The latest errata will note that any special ability whose name includes Bodyguard (such as Emperor's Bodyguard, Xizor's Bodyguard, Thrawn's Bodyguard, and so on) is treated as the Bodyguard ability for all purposes except as noted on the stat card. Thus, all rules and clarifications regarding Bodyguard will apply, its effects will not stack with any other Bodyguard ability, and so forth." Source: *Jedi Counseling 93* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 93* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d264-s3-a-the-latest-errata-will-note.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/264-jedi-counseling-93.md:29`
 
 ## Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -315,7 +281,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:42`
 
 - Note (summary from our notes, not a quotation): Boushh took many contracts from the Black Sun crime syndicate during the Galactic Civil War, but he was ultimately caught trying to swindle the syndicate out of money. Prince Xizor's bodyguard/assassin droid, Guri, made short work of Boushh, but his fate was not widely known. Xizor kept Boushh's equipment in case it proved useful one day. Eventually, he gave it to Princess Leia to use as a disguise so she could get through Imperial security checkpoints and meet Xizor at his palace on Coruscant. (Leia, being such a high-profile member of the Rebel Alliance, almost certainly would have been recognized and detained, but "Boushh" could pass through without a second glance.) When Leia escaped from Xizor's palace, as described in Shadows of the Empire, she kept the Boushh disguise and later used it during her attempt to rescue Han Solo." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d270-s3-a-no-boushh-does-not-count.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:43`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -335,7 +300,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Despite the millions spent on security, Xizor's castle proved surprisingly vulnerable to internal sabotage—after infiltrating the structure, Lando Calrissian collapsed it by dropping a thermal detonator down the trash chute.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Lando Calrissian; Prince Xizor — entry/section: Lando collapses Xizor's castle.
 Note (our notes, around the quote): Lando Calrissian; Prince Xizor — entry/section: Lando collapses Xizor's castle: "Despite the millions spent on security, Xizor's castle proved surprisingly vulnerable to internal sabotage—after infiltrating the structure, Lando Calrissian collapsed it by dropping a thermal detonator down the trash chute." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.14
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.14 — full quote as printed](quotes/d665-s14-despite-the-millions-spent-on-security.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:83`
 
 - Note (summary from our notes, not a quotation): Page contents: Mal Coramma (Black Sun envoy; Xizor's death, allied with Savan) stats; Mazumoda (Worrite) stats; Archa Sabis (mad cyborg industrialist) (hand-read)
@@ -357,7 +321,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > The Gricul Salvage Yards is one of the bestknown chop-shop and repair yards in the Outer Rim; it is owned by Xizor Transport Systems (XTS), the massive Black Sun front company.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Prince Xizor — entry/section: Gricul Salvage Yards.
 Note (our notes, around the quote): Prince Xizor — entry/section: Gricul Salvage Yards: "The Gricul Salvage Yards is one of the bestknown chop-shop and repair yards in the Outer Rim; it is owned by Xizor Transport Systems (XTS), the massive Black Sun front company." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.129
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.129 — full quote as printed](quotes/d667-s129-the-gricul-salvage-yards-is-one.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:70`
 
 - Note (summary from our notes, not a quotation): Page contents: Sriluur: hooks A Cult Wind Blows - Part II (Ma'kis'shaalas; Sora Bulq or Kossex) and Drop 'n' Chop (Xizor Transport Systems chop shop); Sora Bulq biography begins (with Master Windu developed Vaapad). (hand-read)
@@ -373,13 +336,11 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:10
 > In the Rebellion era, the leader of Black Sun, the Falleen Prince Xizor, has close ties with the Emperor— almost as close as Darth Vader's. As such, Xizor is perhaps the third most powerful person in the galaxy. To increase his standing, he constantly plots and schemes Darth Vader's downfall—just as Vader plots Xizor's. Emperor Palpatine, meanwhile, plays one off against the other, perhaps to keep two such powerful individuals from allying against him.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious); Guri — entry/section: Xizor, third most powerful person in the galaxy: "In the Rebellion era, the leader of Black Sun, the Falleen Prince Xizor, has close ties with the Emperor— almost as close as Darth Vader's. As such, Xizor is perhaps the third most powerful person in the galaxy. To increase his standing, he constantly plots and schemes Darth Vader's downfall—just as Vader plots Xizor's. Emperor Palpatine, meanwhile, plays one off against the other, perhaps to keep two such powerful individuals from allying against him." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79 — full quote as printed](quotes/d668-s79-in-the-rebellion-era-the-leader.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:104`
 
 > Assisting Xizor in his rise to power is his lovely aide Guri—a cunningly designed Human replica droid virtually indistinguishable from a real Human woman. Xizor is the hidden power behind Black Sun, and Guri is his bodyguard and personal enforcer.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2; Guri; Prince Xizor — entry/section: Guri, Xizor's bodyguard.
 Note (our notes, around the quote): Guri; Prince Xizor — entry/section: Guri, Xizor's bodyguard: "Assisting Xizor in his rise to power is his lovely aide Guri—a cunningly designed Human replica droid virtually indistinguishable from a real Human woman. Xizor is the hidden power behind Black Sun, and Guri is his bodyguard and personal enforcer." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.79 — full quote as printed](quotes/d668-s79-assisting-xizor-in-his-rise-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:106`
 
 - Note (summary from our notes, not a quotation): Page contents: Rise of the Empire factions cont.; The New Republic era (Thrawn, Daala, Pellaeon, Xizor's death); The New Jedi Order era; Creating New Factions (Talon Karrde's Smugglers' Alliance). (hand-read)
@@ -390,7 +351,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:30
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Prince Xizor; Luke Skywalker — entry/section: Black Sun after Xizor; Luke's academy: "Sienar Fleet Systems loses much of its importance as well, and Black Sun all but disappears after the death of its greatest leader, Prince Xizor, shortly before the Battle of Endor. ... This era also sees the return of the Jedi Order, in the form of Luke Skywalker's training academy on Yavin 4—but the group is too small to be considered a true faction." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.115 — full quote as printed](quotes/d668-s115-sienar-fleet-systems-loses-much-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:308`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -414,13 +374,11 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > By the Rebellion era, Black Sun is a supremely powerful and shadowy organization under the secret leadership of the Falleen Prince Xizor.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Prince Xizor — entry/section: Rebellion Era Campaign Guide (Saga).
 Note (our notes, around the quote): Prince Xizor — entry/section: Rebellion Era Campaign Guide (Saga): "By the Rebellion era, Black Sun is a supremely powerful and shadowy organization under the secret leadership of the Falleen Prince Xizor." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.146
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.146 — full quote as printed](quotes/d722-s146-by-the-rebellion-era-black-sun.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-121-161.md:205`
 
 > When the prince fails to do so, Vader destroys Xizor's skyhook, killing everyone on board.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Prince Xizor — entry/section: Rebellion Era Campaign Guide (Saga): "When the prince fails to do so, Vader destroys Xizor's skyhook, killing everyone on board." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.146
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.146 — full quote as printed](quotes/d722-s146-when-the-prince-fails-to-do.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-121-161.md:207`
 
 - Note (summary from our notes, not a quotation): Page contents: AEG-77 "Vigo" (mainstay of Xizor Transport Systems, Black Sun front) gunship stat block (CL 10), transport version note. Kihraxz Light Fighter (TransGalMeg for Black Sun; Vaksai variant) stat block. (hand-read)
@@ -446,13 +404,11 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.
 > In addition to his vicious cunning, Prince Xizor also keeps himself in peak physical condition, and is skilled in a variety of martial arts and marksmanship.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Prince Xizor — entry/section: Scum and Villainy (Saga).
 Note (our notes, around the quote): Prince Xizor — entry/section: Scum and Villainy (Saga): "In addition to his vicious cunning, Prince Xizor also keeps himself in peak physical condition, and is skilled in a variety of martial arts and marksmanship." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.112
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.112 — full quote as printed](quotes/d725-s112-in-addition-to-his-vicious-cunning.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:328`
 
 > The enigmatic leader of the Black Sun crime syndicate leading up to and during the Galactic Civil War, Prince Xizor is a dangerous Falleen whose physical prowess it outmatched only by his brilliance and cunning.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "The enigmatic leader of the Black Sun crime syndicate leading up to and during the Galactic Civil War, Prince Xizor is a dangerous Falleen whose physical prowess it outmatched only by his brilliance and cunning." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.112
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.112 — full quote as printed](quotes/d725-s112-the-enigmatic-leader-of-the-black.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:330`
 
 - Note (summary from our notes, not a quotation): Page contents: Prince Xizor cont. (skyhook above Coruscant; StarViper-class). Stat block CL 16 (Medium Falleen noble 7/crime lord 9; Guri; Virago). Snoova (Wookiee bounty hunter; Aurodium Sword; Black Sun; cybernetic eyepatch). Stat block (soldier 4/scout 3/bounty hunter 3). (hand-read)
@@ -468,7 +424,6 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-121-180.
 > Black Sun is one of the most iconic criminal organizations in the Stor Wars saga, and the organization reached such heights of power that its leader, Prince Xizor, was nearly powerful enough to challenge Darth Vader himself.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition.
 Note (our notes, around the quote): Prince Xizor; Darth Vader (Anakin Skywalker) — entry/section: Scum and Villainy (Saga): "Black Sun is one of the most iconic criminal organizations in the Stor Wars saga, and the organization reached such heights of power that its leader, Prince Xizor, was nearly powerful enough to challenge Darth Vader himself." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.124
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.124 — full quote as printed](quotes/d725-s124-black-sun-is-one-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-121-180.md:27`
 
 ## Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–162)
@@ -480,13 +435,11 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-1
 > To ensure that his ship remained unique and unrivaled, Xizor purchased all rights to the new design.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga; Prince Xizor — entry/section: Starships of the Galaxy.
 Note (our notes, around the quote): Prince Xizor — entry/section: Starships of the Galaxy: "To ensure that his ship remained unique and unrivaled, Xizor purchased all rights to the new design." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.135
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.135 — full quote as printed](quotes/d727-s135-to-ensure-that-his-ship-remained.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-121-162.md:102`
 
 > It was eventually lost over Coruscant when Xizor's skyhook was destroyed by the Imperial Super Star Destroyer Executor.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga; Prince Xizor. POV: Prince Xizor.
 Note (our notes, around the quote): Prince Xizor: "It was eventually lost over Coruscant when Xizor's skyhook was destroyed by the Imperial Super Star Destroyer Executor." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.135
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.135 — full quote as printed](quotes/d727-s135-it-was-eventually-lost-over-coruscant.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-121-162.md:104`
 
 ## Sourcebooks/The Unknown Regions.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -555,7 +508,6 @@ Our notes: `notes/materials/038-star-wars-insider/040-ins040.md:347`
 > I knew a few of the expanded universe characters, like Xizor and Mara Jade, but for many of them I had to visit the comics and novels to see what they were about. With the Episode II illustrations, I had to ask Lucasfilm questions to get a feel for them, since I thought it was crucial to capture the character's personality in addition to the costume. For example, imagine putting Grand Moff Tarkin in an action pose. It just doesn't work.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Grand Moff Tarkin; Mara Jade Skywalker — entry/section: Illustrator Michael Sutfin on researching characters: ""I knew a few of the expanded universe characters, like Xizor and Mara Jade, but for many of them I had to visit the comics and novels to see what they were about. With the Episode II illustrations, I had to ask Lucasfilm questions to get a feel for them, since I thought it was crucial to capture the character's personality in addition to the costume. For example, imagine putting Grand Moff Tarkin in an action pose. It just doesn't work." —Michael Sutfin, Star Wars Insider 59, p. 61" Source: *Star Wars Insider #59* (2002), scan p.61
-![Quote image: *Star Wars Insider #59* (2002), scan p.61 — full quote as printed](quotes/ins059-s61-i-knew-a-few-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:467`
 
 ## Star Wars Insider #89 (2006)

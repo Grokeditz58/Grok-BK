@@ -39,7 +39,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-10
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Professor Eliss — entry/section: Nosaurians.
 Note (our notes, around the quote): Professor Eliss — entry/section: Nosaurians: "I'm ashamed to admit I didn't even know her name," Source: *Star Wars Gamer 09* (SWRPG d20), scan p.77
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.77 — full quote as printed](quotes/d058-s77-im-ashamed-to-admit-i-didnt.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-104.md:139`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)

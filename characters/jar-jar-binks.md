@@ -40,7 +40,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-0
 > In his years of service, Tarpals has seen many threats come and go. Chief among these, of course, have been the many varieties of lethal sea creatures roaming the murky depths around his underwater city. However, no sea creature has ever tested his mettle as much as Gungan-in-exile Jar Jar Binks.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Captain Tarpals; Jar Jar Binks — entry/section: Captain Tarpals.
 Note (our notes, around the quote): Captain Tarpals; Jar Jar Binks — entry/section: Captain Tarpals: "In his years of service, Tarpals has seen many threats come and go. Chief among these, of course, have been the many varieties of lethal sea creatures roaming the murky depths around his underwater city. However, no sea creature has ever tested his mettle as much as Gungan-in-exile Jar Jar Binks." Source: *Secrets Of Naboo* (SWRPG d20), scan p.48
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.48 — full quote as printed](quotes/d044-s48-in-his-years-of-service-tarpals.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:289`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 181–240)
@@ -83,7 +82,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 
 - Note (summary from our notes, not a quotation): Qui-Gon Jinn; Jar Jar Binks — entry/section: Vehicle rams: Qui-Gon and Jar Jar under the MTT: "Second, if the vehicle would physically fill the character's entire square, you should handle it as per falling objects and assume the character is moved to the nearest "safe" square (as above). Note, however, that many vehicles won't require this sort of "reaction movement" at all. For example, a character can evade many repulsorlift vehicles simply by crouching or laying prone (as Qui-Gon and Jar Jar did when overrun by a MTT on Naboo)." Source: *Jedi Counseling 76* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 76.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 76* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d245-s1-second-if-the-vehicle-would-physically.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/245-jedi-counseling-76.md:12`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 1/102 - Eye of the Sun - The Resistance Within.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -93,7 +91,6 @@ Our notes: `notes/materials/037-sw-d20-folder/245-jedi-counseling-76.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from g Game Revised Core Living Force Campaign Adventures Among the Stars Year 1 102 Eye of the Sun The Resistance Within (text copy `g_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_1_102_Eye_of_the_Sun_The_Resistance_Within_pdf_839b8e9e05`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from g Game Revised Core Living Force Campaign Adventures Among the Stars Year 1 102 Eye of the Sun The Resistance Within (text copy `g_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_1_102_Eye_of_the_Sun_The_Resistance_Within_pdf_839b8e9e05`).)
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Not all Gungans are Jar Jar Binks: "NOTE TO JUDGES: Not all Gungans are Jar Jar Binks. While they will be WRITTEN in the pidgin dialect of basic that Jar Jar and his brethren made famous, they do not exist solely for comic relief. Remember, this is Star Wars, where the farm boy can save the galaxy. The potential for heroism is present in all of us, so PLEASE do not use Gungans just as goofy, laughable NPCs." Source: *102 - Eye of the Sun - The Resistance Within* (SWRPG d20 Revised Core), p.5
-![Quote image: *102 - Eye of the Sun - The Resistance Within* (SWRPG d20 Revised Core), p.5 — full quote as printed](quotes/d272-p5-note-to-judges-not-all-gungans.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/272-102-eye-of-the-sun-the-resistance.md:41`
 
 > Broof can tell them: • Wesa ganna fight! • Gungans are warriors! • After da Battle of Naboo, mesa come here, looken for work since da bombad Traders gone. And what did mesa find? Bombad Trader wannabes! Eegods! • Wesa fought da Traders and da bombad droid army, now wesa doen it again. Did mesa say Gungans are warriors? Yes, you may use your Jar Jar voice for Broof, but he’s much more purposely competent than Binks – whom he never met, but whom he heard did great things at the battle. There were a lot of Gungans there, after all, and Binks (he refers to him by his last name) wasn’t one who was around Otoh Gunga much before the battle, since he’d been banished. So he knows him by reputation only. After everyone’s had a chance to talk to the trio, proceed to the following. The tunnel opens up into an enormous natural cavern, lit by jury-rigged rows of lights set atop poles that weave among a tent city. Males and females of all species mill about, probably close to 200 of them all told, most of whom nod respectfully as the trio you are with walks past. A large, multicolored tent occupies the center of the cavern, easily fifty meters across and probably ten meters high.
@@ -101,7 +98,6 @@ Our notes: `notes/materials/037-sw-d20-folder/272-102-eye-of-the-sun-the-resista
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from g Game Revised Core Living Force Campaign Adventures Among the Stars Year 1 102 Eye of the Sun The Resistance Within (text copy `g_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_1_102_Eye_of_the_Sun_The_Resistance_Within_pdf_839b8e9e05`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from g Game Revised Core Living Force Campaign Adventures Among the Stars Year 1 102 Eye of the Sun The Resistance Within (text copy `g_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_1_102_Eye_of_the_Sun_The_Resistance_Within_pdf_839b8e9e05`).)
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Broof Yurdel knows Binks by reputation: "Yes, you may use your Jar Jar voice for Broof, but he's much more purposely competent than Binks -- whom he never met, but whom he heard did great things at the battle. There were a lot of Gungans there, after all, and Binks (he refers to him by his last name) wasn't one who was around Otoh Gunga much before the battle, since he'd been banished. So he knows him by reputation only." Source: *102 - Eye of the Sun - The Resistance Within* (SWRPG d20 Revised Core), p.16
-![Quote image: *102 - Eye of the Sun - The Resistance Within* (SWRPG d20 Revised Core), p.16 — full quote as printed](quotes/d272-p16-yes-you-may-use-your-jar.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/272-102-eye-of-the-sun-the-resistance.md:132`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Revised Core Rulebook Errata 2006.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -303,7 +299,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:142`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Lucas, asked about so-called "virtual" actors from Jar Jar to Final Fantasy's Aki: ""The whole debate over this issue is ludicrous, because there is no such thing as a virtual actor." He then described how all of these characters were the creation not of a computer, but of very human artists, engineers, editors and directors, who achieve their results with craft, inspiration and talent. "No computer will be able to be an actor," said George, "until you have an AI able to think and react in as quirky a manner as a human. And that won't happen in our lifetimes." —George Lucas (reported by Terry Coleman), Star Wars Insider 56, p. 35" Source: *Star Wars Insider #56* (2001), scan p.30
-![Quote image: *Star Wars Insider #56* (2001), scan p.30 — full quote as printed](quotes/ins056-s30-the-whole-debate-over-this-issue.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:161`
 
 > Jar Jar Binks Take 2: An Interview with Ahmed Best
@@ -319,7 +314,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:176`
 > I was so excited about what Jar Jar was going to look like, how he was going to move, how he was going to be completed, and now I pretty much know that. I still love playing the character, just the nuance, and the discovery of him.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Ahmed Best on discovering Jar Jar in Episode I: ""I was so excited about what Jar Jar was going to look like, how he was going to move, how he was going to be completed, and now I pretty much know that. I still love playing the character, just the nuance, and the discovery of him." —Ahmed Best, Star Wars Insider 56, p. 39" Source: *Star Wars Insider #56* (2001), scan p.33
-![Quote image: *Star Wars Insider #56* (2001), scan p.33 — full quote as printed](quotes/ins056-s33-i-was-so-excited-about-what.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:178`
 
 - Note (summary from our notes, not a quotation): Page contents: Ahmed Best interview cont. (magazine p. 40): pull quote on positive feedback; letters from children; Episode II easier with Rob Coleman and John Knoll; 6:30 a.m. days and costume; Jar Jar wearing Air Jordans in Episode II (never seen on screen); On Location interviews; caption on Best interviewing behind the camera; "Best's Best" box (favorite Star Wars moment, favorite non-Star Wars movie Raiders of the Lost Ark / Crouching Tiger, Hidden Dragon, favorite website). (hand-read)
@@ -332,7 +326,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:183`
 > People don't realize that as much negativity as there was, there was maybe ten times as much positive feedback that I got personally.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Ahmed Best on the reaction to Jar Jar: ""Jar Jar was a part that I played, and I played it to the best of my ability. That's all that I really cared about and was concerned with," he says. "People don't realize that as much negativity as there was, there was maybe ten times as much positive feedback that I got personally." —Ahmed Best, Star Wars Insider 56, p. 40" Source: *Star Wars Insider #56* (2001), scan p.34
-![Quote image: *Star Wars Insider #56* (2001), scan p.34 — full quote as printed](quotes/ins056-s34-jar-jar-was-a-part-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:185`
 
 - Note (summary from our notes, not a quotation): Page contents: Ahmed Best interview cont. (magazine p. 41): people acting nervous on camera, favorite On Location piece (lightsaber duel with Nick Gillard), wanting to interview cinematographer David Tattersall about digital capture, Best's view that digital filming changes nothing for the actor; photos of Best with microphone and a costumed Jar Jar stand-in. (hand-read)
@@ -350,7 +343,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:197`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Ahmed Best on aging Jar Jar for Episode II: "Jar Jar is now ten years older and has matured, having "seen the worlds, so to speak." ... "That was probably my biggest challenge in Episode II—trying to make Jar Jar seem mature, without taking away any of his sense of fun, and any of his child-like sense of discovery," he says. —Ahmed Best, Star Wars Insider 56, p. 42" Source: *Star Wars Insider #56* (2001), scan p.36
-![Quote image: *Star Wars Insider #56* (2001), scan p.36 — full quote as printed](quotes/ins056-s36-jar-jar-is-now-ten-years.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:199`
 
 > Death Star contractors—very funny
@@ -365,7 +357,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:420`
 > I guess Jar Jar was a little much for some people, but on the second viewing, he actually made me laugh a few times.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Jar Jar Binks — entry/section: Kevin Smith on Jar Jar Binks: ""I guess Jar Jar was a little much for some people, but on the second viewing, he actually made me laugh a few times." —Kevin Smith, Star Wars Insider 56, p. 11 (Kevin Smith flip section)" Source: *Star Wars Insider #56* (2001), scan p.72
-![Quote image: *Star Wars Insider #56* (2001), scan p.72 — full quote as printed](quotes/ins056-s72-i-guess-jar-jar-was-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:424`
 
 ## Star Wars Insider #59 (2002)
@@ -375,7 +366,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:424`
 > That's constructive criticism. I just don't like these people who go off on Jar Jar. . . . I get real defensive.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Han Solo; Jar Jar Binks — entry/section: Mark Hamill on The Phantom Menace (to Entertainment Tonight, as reported): "He critqiued what he considered a missing element. "There was no voice of skepticism [in The Phantom Menace]. . . . Since everyone was so serious in [our films], we had Han Solo who would say, 'Whatever. I'm in it for the money, pal.'" Pointedly, he adds, "That's constructive criticism. I just don't like these people who go off on Jar Jar. . . . I get real defensive." —Mark Hamill, Star Wars Insider 59, p. 50" Source: *Star Wars Insider #59* (2002), scan p.50
-![Quote image: *Star Wars Insider #59* (2002), scan p.50 — full quote as printed](quotes/ins059-s50-he-critqiued-what-he-considered-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:350`
 
 - Note (summary from our notes, not a quotation): Page contents: TCG cont. (magazine p. 81): Ready, Command and Battle phases; using the Force; Jar Jar Binks (A) card ability quoted; "You Aren't All-Powerful, Yet" - deck building rules; "Powerful You Will Become" - league stores, Celebration II demos, Star Wars Gamer #10 card reproductions; sidebar "Rules of Engagement" (tapping, speed order, hits on 4-6, damage counters); Jango Fett card image. (hand-read)
@@ -491,7 +481,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:455`
 > That opened the door for everyone else.
 — Source: Star Wars Insider #94 (2007); Jar Jar Binks; Sebulba; Watto — entry/section: Believable characters.
 Note (our notes, around the quote): Jar Jar Binks; Sebulba; Watto — entry/section: Believable characters: ""We made Jar Jar, Sebulba, and Watto believable characters who could act," "That opened the door for everyone else." —George Lucas, Star Wars Insider 94, p. 46" Source: *Star Wars Insider #94* (2007), scan p.46
-![Quote image: *Star Wars Insider #94* (2007), scan p.46 — full quote as printed](quotes/ins094-s46-we-made-jar-jar-sebulba-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:459`
 
 - Note (summary from our notes, not a quotation): Page contents: Star Wars Effect Part 2 sidebar "The George Lucas Educational Foundation" (GLEF, founded 1991; Edutopia); captions: THX sound, a Lucasfilm innovation; the Death Star cable-car service never caught on; Lucas believes learning should be exciting; Jar Jar "How wude!"; pull quote Lucas on Jar Jar, Sebulba and Watto; reader prompt to write in about other Star Wars effects (hand-read)
@@ -641,7 +630,6 @@ Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:139`
 > It was designed to look exactly like the Staff of Ra (without the crystal in the eye), but as far as it being the Staff of Ra, you shouldn't read any more into it beyond it being a fun Easter egg to look for. You may have also noticed the Ark of the Covenant among Wat Tambor's treasures in the final Ryloth episode! The Staff of Ra and Ark of the Covenant as seen in Raiders are not part of Star Wars continuity, though crossovers between the two Lucasfilm franchises have been a running gag since the beginning.
 — Source: Star Wars Insider #111 (2009).
 Note (our notes, around the quote): Wat Tambor; Jar Jar Binks — entry/section: Ask Lobot: Staff of Ra / Ark of the Covenant: ""It was designed to look exactly like the Staff of Ra (without the crystal in the eye), but as far as it being the Staff of Ra, you shouldn't read any more into it beyond it being a fun Easter egg to look for. You may have also noticed the Ark of the Covenant among Wat Tambor's treasures in the final Ryloth episode! The Staff of Ra and Ark of the Covenant as seen in Raiders are not part of Star Wars continuity, though crossovers between the two Lucasfilm franchises have been a running gag since the beginning." —Leland Y. Chee, Star Wars Insider 111, p. 47" Source: *Star Wars Insider #111* (2009), scan p.47
-![Quote image: *Star Wars Insider #111* (2009), scan p.47 — full quote as printed](quotes/ins111-s47-it-was-designed-to-look-exactly.jpg)
 Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:291`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks Art Galaxy: reader fan art (Jar Jar Binks vs. Darth Maul poster, a clone trooper). Artist names omitted. Out-of-universe. (hand-read)

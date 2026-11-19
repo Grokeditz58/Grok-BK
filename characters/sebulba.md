@@ -14,7 +14,6 @@
 > During the Boonta Eve Classic, which was eventually won by young Anakin Skywalker, Mawhonic's green GPE-3130 Podracer was disabled when the Gran swerved to avoid Sebulba—but crashed into a massive rock formation and exploded.
 — Source: scan pages 281–320; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "During the Boonta Eve Classic, which was eventually won by young Anakin Skywalker, Mawhonic's green GPE-3130 Podracer was disabled when the Gran swerved to avoid Sebulba—but crashed into a massive rock formation and exploded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.296
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.296 — full quote as printed](quotes/v2-p296-during-the-boonta-eve-classic-which.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:197`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -26,13 +25,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > Sebulba was Mos Espa's reigning Podrace champion until he entered the Boonta Eve Classic, where he was defeated by young Anakin Skywalker.
 — Source: scan pages 121–160; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Sebulba was Mos Espa's reigning Podrace champion until he entered the Boonta Eve Classic, where he was defeated by young Anakin Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. III, p.133
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.133 — full quote as printed](quotes/v3-p133-sebulba-was-mos-espas-reigning-podrace.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:138`
 
 > Unfortunately for Tyerell and his family, he was killed during the Boonta Eve Classic on Tatooine, which saw Anakin Skywalker defeat Sebulba.
 — Source: scan pages 241–280; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Unfortunately for Tyerell and his family, he was killed during the Boonta Eve Classic on Tatooine, which saw Anakin Skywalker defeat Sebulba." Source: The Complete Star Wars Encyclopedia, Vol. III, p.271
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.271 — full quote as printed](quotes/v3-p271-unfortunately-for-tyerell-and-his-family.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:306`
 
 ## The New Essential Guide to Characters (2002)
@@ -44,7 +41,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-1
 > Anakin Skywalker's upset victory in the Boonta Eve Classic wounded Sebulba's pride and destroyed his Split-X Mammoth.
 — Source: scan pages 121–150; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Anakin Skywalker's upset victory in the Boonta Eve Classic wounded Sebulba's pride and destroyed his Split-X Mammoth." Source: The New Essential Guide to Characters, p.146
-![Quote image: The New Essential Guide to Characters, p.146 — full quote as printed](quotes/negc-p146-anakin-skywalkers-upset-victory-in-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:112`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -56,13 +52,11 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Gardulla the Hutt; Jabba the Hutt; Shmi Skywalker; Darth Vader (Anakin Skywalker); Sebulba — entry/section: Gardulla the Hutt: "Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite." Source: *Secrets of Tatooine* (SWRPG d20), scan p.37
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.37 — full quote as printed](quotes/d045-s37-gambling-on-the-podraces-gradually-drained.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:220`
 
 > Their most dynamic event so far was the Boonta Eve Classic on Tatooine, where the virtual unknown Anakin Skywalker unseated the reigning champion, Sebulba.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Darth Vader (Anakin Skywalker); Sebulba — entry/section: Fode and Beed.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Sebulba — entry/section: Fode and Beed: "Their most dynamic event so far was the Boonta Eve Classic on Tatooine, where the virtual unknown Anakin Skywalker unseated the reigning champion, Sebulba." Source: *Secrets of Tatooine* (SWRPG d20), scan p.39
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.39 — full quote as printed](quotes/d045-s39-their-most-dynamic-event-so-far.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:244`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–95)
@@ -76,7 +70,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-0
 > Although that Podracer is now so much junk—destroyed in a race against the vile Sebulba—Anakin has put his extraordinary mechanical skills to good use, building a replacement in secret behind the slave quarters where he lives.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Although that Podracer is now so much junk—destroyed in a race against the vile Sebulba—Anakin has put his extraordinary mechanical skills to good use, building a replacement in secret behind the slave quarters where he lives." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.229
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.229 — full quote as printed](quotes/d046-s229-although-that-podracer-is-now-so.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:289`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -100,7 +93,6 @@ Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-061-09
 > The sequel to the popular Star Wars Episode | Racer, released on Nintendo 64 and PC in conjunction with Episode |, Racer Revenge continues the tradition of console Podracing—and updates the first game's storyline, Racer Il takes place eight years after Episode | and pits an older, tougher Anakin Skywalker against Sebulba, who is obsessed with defeating the teenager.
 — Source: Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20,; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "The sequel to the popular Star Wars Episode | Racer, released on Nintendo 64 and PC in conjunction with Episode |, Racer Revenge continues the tradition of console Podracing—and updates the first game's storyline, Racer Il takes place eight years after Episode | and pits an older, tougher Anakin Skywalker against Sebulba, who is obsessed with defeating the teenager." Source: *Star Wars Gamer 06* (SWRPG d20), scan p.84
-![Quote image: *Star Wars Gamer 06* (SWRPG d20), scan p.84 — full quote as printed](quotes/d055-s84-the-sequel-to-the-popular-star.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-061-095.md:157`
 
 ## Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–112)
@@ -122,7 +114,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-061-12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from oleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 408 Jigsaw Cloak and Vibroblade (text copy `oleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_408_Jigsaw_Cloak_and_Vibroblade_pdf_585cc280c9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from oleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 408 Jigsaw Cloak and Vibroblade (text copy `oleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_408_Jigsaw_Cloak_and_Vibroblade_pdf_585cc280c9`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Ribuk: "Even though over a decade has passed since Sebulba was the king of the pod circuit every dug racer is compared to him and wants to surpass his records." Source: *408 - Jigsaw - Cloak and Vibroblade* (SWRPG d20 Revised Core), p.19
-![Quote image: *408 - Jigsaw - Cloak and Vibroblade* (SWRPG d20 Revised Core), p.19 — full quote as printed](quotes/d331-p19-even-though-over-a-decade-has.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/331-408-jigsaw-cloak-and-vibroblade.md:145`
 
 > (This requires a DC 14/16/18/20 Diplomacy check to accomplish, modified by the heroes’ roleplaying at the GM’s discretion; if any of the heroes participated in the events of In the Name of the Maker, Imik Suum can vouch for those characters and forgo the need for the check.) Team 2 This is the heroes’ team. Team 3 This team consists of five Gotals, rather furry beings with a pair of fleshy cones protruding from the tops of their skulls. They are the most affable team in competition, but they also have no information of use to the heroes. Their pilot is Arum Oru. Team 4 Four Dugs comprise this team. They tend to be a rather surly bunch, as they suffer from endless comparisons to their more successful and less ethical cousin, Sebulba; wherever they go to compete, everyone seems to think that they’re planning on cheating. As long as these stereotypes are not raised, however, they can be friendly. They do not have any information, however. Riduk the Dug is their pilot. Team 5 This team is made up of members of the Blood Raptors gang, the very same who conducted the kidnapping of Di’hal’uma.
@@ -130,7 +121,6 @@ Our notes: `notes/materials/037-sw-d20-folder/331-408-jigsaw-cloak-and-vibroblad
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from oleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 408 Jigsaw Cloak and Vibroblade (text copy `oleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_408_Jigsaw_Cloak_and_Vibroblade_pdf_585cc280c9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from oleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 408 Jigsaw Cloak and Vibroblade (text copy `oleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_408_Jigsaw_Cloak_and_Vibroblade_pdf_585cc280c9`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Team 4: "They tend to be a rather surly bunch, as they suffer from endless comparisons to their more successful and less ethical cousin, Sebulba; wherever they go to compete, everyone seems to think that they're planning on cheating." Source: *408 - Jigsaw - Cloak and Vibroblade* (SWRPG d20 Revised Core), p.25
-![Quote image: *408 - Jigsaw - Cloak and Vibroblade* (SWRPG d20 Revised Core), p.25 — full quote as printed](quotes/d331-p25-they-tend-to-be-a-rather.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/331-408-jigsaw-cloak-and-vibroblade.md:200`
 
 ## Living Force Campaign/Articles/Year 4/05:06:04 - Swoop and Dive.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -143,7 +133,6 @@ Our notes: `notes/materials/037-sw-d20-folder/463-05-06-04-swoop-and-dive.md:22`
 — Source: Living Force Campaign/Articles/Year 4/05:06:04 - Swoop and Dive.pdf [Star.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard swoop and dive by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_swoop_and_dive_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Kerd K'Kerren (on young Anakin): "This one time, on Tatooine, there was this little kid who took out Sebulba in a race. Just a runty guy, and Sebulba -- well, he used to be pretty cool. And everybody made a big deal about this kid. I don't even remember his name. He doesn't race any more -- one of those child-star types." Source: *05:06:04 - Swoop and Dive* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *05:06:04 - Swoop and Dive* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d463-s3-this-one-time-on-tatooine-there.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/463-05-06-04-swoop-and-dive.md:24`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -155,7 +144,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > In the Boonta Eve Podrace in The Phantom Menace, Anakin Skywalker faces numerous perils that in the game would require an entire battery of Pilot checks to negotiate the twists and obstacles of the race course (with appropriate modifiers for his craft’s maneuverability and speed), attempt a few risky maneuvers, and maintain control of his Podracer after Sebulba sideswipes it.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Sebulba — entry/section: Anakin in the Boonta Eve Podrace: "In the Boonta Eve Podrace in The Phantom Menace, Anakin Skywalker faces numerous perils that in the game would require an entire battery of Pilot checks to negotiate the twists and obstacles of the race course (with appropriate modifiers for his craft’s maneuverability and speed), attempt a few risky maneuvers, and maintain control of his Podracer after Sebulba sideswipes it." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.45
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.45 — full quote as printed](quotes/d666-s45-in-the-boonta-eve-podrace-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:260`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -254,7 +242,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:455`
 > That opened the door for everyone else.
 — Source: Star Wars Insider #94 (2007); Jar Jar Binks; Sebulba; Watto — entry/section: Believable characters.
 Note (our notes, around the quote): Jar Jar Binks; Sebulba; Watto — entry/section: Believable characters: ""We made Jar Jar, Sebulba, and Watto believable characters who could act," "That opened the door for everyone else." —George Lucas, Star Wars Insider 94, p. 46" Source: *Star Wars Insider #94* (2007), scan p.46
-![Quote image: *Star Wars Insider #94* (2007), scan p.46 — full quote as printed](quotes/ins094-s46-we-made-jar-jar-sebulba-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:459`
 
 - Note (summary from our notes, not a quotation): Page contents: Star Wars Effect Part 2 sidebar "The George Lucas Educational Foundation" (GLEF, founded 1991; Edutopia); captions: THX sound, a Lucasfilm innovation; the Death Star cable-car service never caught on; Lucas believes learning should be exciting; Jar Jar "How wude!"; pull quote Lucas on Jar Jar, Sebulba and Watto; reader prompt to write in about other Star Wars effects (hand-read)

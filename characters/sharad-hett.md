@@ -13,13 +13,12 @@
 
 - Note (summary from our notes, not a quotation): Sharad Hett: "the Jedi lost one of their greatest warriors, Sharad Hett "the Howlrunner."" Source: The New Essential Chronology, p.33
   — Source: Part Two: The Fall of the Republic. POV: Sharad Hett.
-![Quote image: The New Essential Chronology, p.33 — full quote as printed](quotes/nec-p33-sharad-hett.jpg)
+![Quote image: The New Essential Chronology, p.33 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p33-sharad-hett.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:39`
 
 > Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice.
 — Source: Part Two: The Fall of the Republic; Aurra Sing kills Sharad Hett. POV: Aurra Sing kills Sharad Hett.
 Note (our notes, around the quote): Aurra Sing kills Sharad Hett: "Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice." Source: The New Essential Chronology, p.45
-![Quote image: The New Essential Chronology, p.45 — full quote as printed](quotes/nec-p45-aurra-sing-kills-sharad-hett.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:141`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -27,7 +26,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > On Tatooine, the very air and sunlight are one's enemies.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Sharad Hett — entry/section: Pull quote.
 Note (our notes, around the quote): Sharad Hett — entry/section: Pull quote: ""On Tatooine, the very air and sunlight are one's enemies." —Sharad Hett" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.119
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.119 — full quote as printed](quotes/d731-s119-on-tatooine-the-very-air-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-061-120.md:401`
 
 ## Star Wars Insider #45 (1999)

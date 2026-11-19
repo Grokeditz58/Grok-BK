@@ -25,26 +25,22 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-10
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Dannik Jerriko — entry/section: Anzati: Dannik Jerriko.
 Note (our notes, around the quote): Dannik Jerriko — entry/section: Anzati: Dannik Jerriko: "lerriko operates mostly on the Outer Rim. Over a thousand years old, he has wandered much of the galaxy, but finds frontier locales like Tatooine and Nar Shadaa perfectly suited to his needs in that the authorities rarely bother to autopsy the dead." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-lerriko-operates-mostly-on-the-outer.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:117`
 
 > Jabba the Hutt first attracted the meticulous Jerriko in Hutt Space, where the Anzat was able to dispose of a certain trouble some Force wizard without attracting undue attention, either to
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Dannik Jerriko; Jabba the Hutt — entry/section: Anzati: Dannik Jerriko.
 Note (our notes, around the quote): Dannik Jerriko; Jabba the Hutt — entry/section: Anzati: Dannik Jerriko: "Jabba the Hutt first attracted the meticulous Jerriko in Hutt Space, where the Anzat was able to dispose of a certain trouble some Force wizard without attracting undue attention, either to" Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-jabba-the-hutt-first-attracted-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:119`
 
 > Though the Anzat was doubtful he could take the old Jedi's soup—and the Jedi's young apprentice, local boy Luke Skywalker, was not fully sea soned yet—the Corellian smuggler's soup was almost irre sistible.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Dannik Jerriko; Obi-Wan Kenobi; Han Solo — entry/section: Anzati: Dannik Jerriko: "Though the Anzat was doubtful he could take the old Jedi's soup—and the Jedi's young apprentice, local boy Luke Skywalker, was not fully sea soned yet—the Corellian smuggler's soup was almost irre sistible." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-though-the-anzat-was-doubtful-he.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:121`
 
 > In a confusing flurry of events, the young Skywalker returned—almost as seasoned as his old master, Kenobi, had been—killed Jabba's rancor, and was taken out to the Great Pit of Carkoon, where he somehow man aged to kill Jabba.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Dannik Jerriko; Luke Skywalker — entry/section: Anzati: Dannik Jerriko.
 Note (our notes, around the quote): Dannik Jerriko; Luke Skywalker — entry/section: Anzati: Dannik Jerriko: "In a confusing flurry of events, the young Skywalker returned—almost as seasoned as his old master, Kenobi, had been—killed Jabba's rancor, and was taken out to the Great Pit of Carkoon, where he somehow man aged to kill Jabba." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-in-a-confusing-flurry-of-events.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:123`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)

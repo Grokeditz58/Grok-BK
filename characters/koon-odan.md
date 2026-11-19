@@ -21,7 +21,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf`.)
 Note (our notes, around the quote): Belai Kaleeg; Koon Odan — entry/section: Kaleeg orders the chase: ""bring that Zabrak back!"" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.166
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.166 — full quote as printed](quotes/d716-s166-bring-that-zabrak-back.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:303`
 
 - Note (summary from our notes, not a quotation): Page contents: Encounter: Chase Through the Clouds (CL 2); Koon Odan (CL 4 stats, tactics); Assassin (unnamed Zabrak, CL 4 stats). (hand-read)
@@ -33,7 +32,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 Note (our notes, around the quote): Koon Odan — entry/section: Odan surrenders: ""I was sent here by my government to oversee the treaty signing. But it appears I was blacklisted—that assassin is one of our agents. Perhaps my government had second thoughts about my mission. It seems there are more sinister forces at work here."" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.168
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.168 — full quote as printed](quotes/d716-s168-i-was-sent-here-by-my.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:319`
 
 # Debate and forum claims (unverified)

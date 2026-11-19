@@ -25,13 +25,11 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Shawnkyr Nuruodo — entry/section: Shawnkyr's parting order to Jag.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 19ABY: Red Sky, Blue Flame (Elaine Cunningham) (text copy `MEGA_All_Short_Stories_19ABY_Red_Sky_Blue_Flame_Elaine_Cunningham_epub`).)
 Note (our notes, around the quote): Shawnkyr Nuruodo — entry/section: Shawnkyr's parting order to Jag: "“We want the enemy to land and seek easy plunder. Do not dissuade them by flying too well.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.16
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.16 — full quote as printed](quotes/d056-s16-we-want-the-enemy-to-land.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:91`
 
 > “Defeat can be the shortest path to deception.”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Jagged Fel — entry/section: Jag replies to Shawnkyr.
 Note (our notes, around the quote): Jagged Fel — entry/section: Jag replies to Shawnkyr: "“Defeat can be the shortest path to deception.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.16
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.16 — full quote as printed](quotes/d056-s16-defeat-can-be-the-shortest-path.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:93`
 
 - Note (summary from our notes, not a quotation): Page contents: Red Sky, Blue Flame climax: Jag downs two pirate X-wings with torpedoes and a Z-95 with an ejected overloaded hyperdrive, feigns a crash with a cadet's body; the surviving cadets hang from ropes above mirrored transparisteel plates so the pirates fire low; Shawnkyr hands Jag her cadet commander insignia (hand-read)
@@ -42,7 +40,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Shawnkyr Nuruodo — entry/section: Shawnkyr to Jag.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 19ABY: Red Sky, Blue Flame (Elaine Cunningham) (text copy `MEGA_All_Short_Stories_19ABY_Red_Sky_Blue_Flame_Elaine_Cunningham_epub`).)
 Note (our notes, around the quote): Shawnkyr Nuruodo — entry/section: Shawnkyr to Jag: "“I have high hopes for you, Lieutenant,” she said quietly. “Do not disappoint me by acting the hero's part.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.18 — full quote as printed](quotes/d056-s18-i-have-high-hopes-for-you.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:109`
 
 # Debate and forum claims (unverified)

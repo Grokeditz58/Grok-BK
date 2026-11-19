@@ -49,7 +49,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1099`
 > On Mustafar, Anakin Skywalker killed the members of the Separatist Council, including Wat Tambor.
 — Source: scan pages 201–240; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "On Mustafar, Anakin Skywalker killed the members of the Separatist Council, including Wat Tambor." Source: The Complete Star Wars Encyclopedia, Vol. III, p.216
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.216 — full quote as printed](quotes/v3-p216-on-mustafar-anakin-skywalker-killed-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:201`
 
 ## Jedi Counselling/Jedi Counseling 65.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -60,7 +59,6 @@ Our notes: `notes/materials/037-sw-d20-folder/233-jedi-counseling-65.md:29`
 
 - Note (summary from our notes, not a quotation): Wat Tambor — entry/section: Wat Tambor's Droid Reinforcements follow faction rules: "A: No. You must still abide by the faction rules when using Droid Reinforcements. (If we had intended it to break faction rules, we would have used the phrase "regardless of faction," as we did for Order 66.) Thus, Wat Tambor can only bring Separatist and Fringe Droid characters into a Separatist squad." Source: *Jedi Counseling 65* (SWRPG d20 Revised Core), scan p.4
   — Source: Jedi Counselling/Jedi Counseling 65.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 65* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d233-s4-a-no-you-must-still-abide.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/233-jedi-counseling-65.md:31`
 
 ## Jedi Counselling/Jedi Counseling 70.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -94,7 +92,6 @@ Our notes: `notes/materials/037-sw-d20-folder/253-jedi-counseling-83.md:57`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 83 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_83_pdf_2ab93e9433`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 83 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_83_pdf_2ab93e9433`).)
 Note (our notes, around the quote): Wat Tambor — entry/section: Wat Tambor's Droid Reinforcements: non-Unique: "A: As before, the additional restriction imposed by the stat card is correct: Wat Tambor's Droid Reinforcements only allow non-Unique droids." Source: *Jedi Counseling 83* (SWRPG d20 Revised Core), scan p.5
-![Quote image: *Jedi Counseling 83* (SWRPG d20 Revised Core), scan p.5 — full quote as printed](quotes/d253-s5-a-as-before-the-additional-restriction.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/253-jedi-counseling-83.md:59`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -172,7 +169,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:439`
 > In A New Threat, Jabba gives Boba his first big assignment: to capture Wat Tambor. Fans will remember Wat Tambor as one of the Separatist conspirators who meets with Dooku in Episode II. After escaping a Republic prison, Tambor has fled to Xagobah, a strange, fogbound world covered with toxic fungi and dominated by the eerie Mazariyan Citadel.
 — Source: Star Wars Insider #76 (2004).
 Note (our notes, around the quote): Boba Fett; Wat Tambor; Jabba the Hutt; Count Dooku — entry/section: Boba's first big assignment: "In A New Threat, Jabba gives Boba his first big assignment: to capture Wat Tambor. Fans will remember Wat Tambor as one of the Separatist conspirators who meets with Dooku in Episode II. After escaping a Republic prison, Tambor has fled to Xagobah, a strange, fogbound world covered with toxic fungi and dominated by the eerie Mazariyan Citadel." Source: *Star Wars Insider #76* (2004), scan p.76
-![Quote image: *Star Wars Insider #76* (2004), scan p.76 — full quote as printed](quotes/ins076-s76-in-a-new-threat-jabba-gives.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:441`
 
 ## Star Wars Insider #110 (2009)
@@ -186,7 +182,6 @@ Our notes: `notes/materials/038-star-wars-insider/110-ins110.md:244`
 > It was designed to look exactly like the Staff of Ra (without the crystal in the eye), but as far as it being the Staff of Ra, you shouldn't read any more into it beyond it being a fun Easter egg to look for. You may have also noticed the Ark of the Covenant among Wat Tambor's treasures in the final Ryloth episode! The Staff of Ra and Ark of the Covenant as seen in Raiders are not part of Star Wars continuity, though crossovers between the two Lucasfilm franchises have been a running gag since the beginning.
 — Source: Star Wars Insider #111 (2009).
 Note (our notes, around the quote): Wat Tambor; Jar Jar Binks — entry/section: Ask Lobot: Staff of Ra / Ark of the Covenant: ""It was designed to look exactly like the Staff of Ra (without the crystal in the eye), but as far as it being the Staff of Ra, you shouldn't read any more into it beyond it being a fun Easter egg to look for. You may have also noticed the Ark of the Covenant among Wat Tambor's treasures in the final Ryloth episode! The Staff of Ra and Ark of the Covenant as seen in Raiders are not part of Star Wars continuity, though crossovers between the two Lucasfilm franchises have been a running gag since the beginning." —Leland Y. Chee, Star Wars Insider 111, p. 47" Source: *Star Wars Insider #111* (2009), scan p.47
-![Quote image: *Star Wars Insider #111* (2009), scan p.47 — full quote as printed](quotes/ins111-s47-it-was-designed-to-look-exactly.jpg)
 Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:291`
 
 ## Star Wars Insider #116 (2010)

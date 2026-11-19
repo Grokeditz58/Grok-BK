@@ -28,7 +28,6 @@ Our notes: `notes/materials/038-star-wars-insider/141-ins141.md:347`
 > His approach is to be two steps ahead of his prey, to be where Vader is going. Stealth and patience are his main weapons. Well, other than his two custom cortosis-weave vibroblades.
 — Source: Star Wars Insider #141 (2013).
 Note (our notes, around the quote): Ninth Assassin; Darth Vader (Anakin Skywalker) — entry/section: Ninth Assassin's methods and weapons: ""His approach is to be two steps ahead of his prey, to be where Vader is going. Stealth and patience are his main weapons. Well, other than his two custom cortosis-weave vibroblades." —Tim Siedell, Star Wars Insider 141, p. 64" Source: *Star Wars Insider #141* (2013), scan p.64
-![Quote image: *Star Wars Insider #141* (2013), scan p.64 — full quote as printed](quotes/ins141-s64-his-approach-is-to-be-two.jpg)
 Our notes: `notes/materials/038-star-wars-insider/141-ins141.md:349`
 
 ## Star Wars Insider #146 (2014)

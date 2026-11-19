@@ -47,7 +47,6 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-6-inferno-notes.md:487`
 > Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice.
 — Source: Part Two: The Fall of the Republic; Aurra Sing kills Sharad Hett. POV: Aurra Sing kills Sharad Hett.
 Note (our notes, around the quote): Aurra Sing kills Sharad Hett: "Sing killed Sharad Hett, and Ki-Adi-Mundi took A'Sharad back to Coruscant as his new apprentice." Source: The New Essential Chronology, p.45
-![Quote image: The New Essential Chronology, p.45 — full quote as printed](quotes/nec-p45-aurra-sing-kills-sharad-hett.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:141`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -57,19 +56,16 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Andeddu; Roan Fel; Darth Krayt — entry/section: Andeddu, Darth: "Over a century later, during the time of Roan Fel's empire, Darth Krayt was in possession of Andeddu's holocron." Source: The Complete Star Wars Encyclopedia, Vol. I, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.30 — full quote as printed](quotes/v1-p30-over-a-century-later-during-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:40`
 
 > With help from loyalists, Fel retook control of the planet and began planning to destroy Darth Krayt's Sith Empire.
 — Source: scan pages 241–280; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "With help from loyalists, Fel retook control of the planet and began planning to destroy Darth Krayt's Sith Empire." Source: The Complete Star Wars Encyclopedia, Vol. I, p.260
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.260 — full quote as printed](quotes/v1-p260-with-help-from-loyalists-fel-retook.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:226`
 
 > A group of Jedi Knights, searching for clues as to the whereabouts of the Star Forge and Darth Malak, helped Komad Fortuna defeat a Krayt dragon that had been causing damage to his homestead.
 — Source: scan pages 281–320; Darth Malak; Darth Krayt.
 Note (our notes, around the quote): Darth Malak; Darth Krayt: "A group of Jedi Knights, searching for clues as to the whereabouts of the Star Forge and Darth Malak, helped Komad Fortuna defeat a Krayt dragon that had been causing damage to his homestead." Source: The Complete Star Wars Encyclopedia, Vol. I, p.291
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.291 — full quote as printed](quotes/v1-p291-a-group-of-jedi-knights-searching.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:203`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -77,7 +73,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > His injuries kept him out of the action when new recruit Anson Trask shot and killed Darth Krayt's personal liaison, Darth Maleval, after the Sith Lord demanded that Lieutenant Gil Cassel execute his own brother to prove his loyalty.
 — Source: scan pages 1–40; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "His injuries kept him out of the action when new recruit Anson Trask shot and killed Darth Krayt's personal liaison, Darth Maleval, after the Sith Lord demanded that Lieutenant Gil Cassel execute his own brother to prove his loyalty." Source: The Complete Star Wars Encyclopedia, Vol. II, p.19
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.19 — full quote as printed](quotes/v2-p19-his-injuries-kept-him-out-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:168`
 
 - Note (summary from our notes, not a quotation): Page contents: 1059 words, 27 paragraphs | headings/entries: Hessler, Evan; Hestiv, General; HE-suit; Hesz, Tal; Het, Doton; Heth, Morturr; Hethar; Hethrir, Lord; Hetsime, Nala; Hett, A'Sharad
@@ -87,13 +82,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > He honored her memory by completing the mission, allowing the Republic to retake Saleucami and destroy the Separatist cloning facilities beneath the planet's surface.
 — Source: scan pages 41–80; Darth Krayt — entry/section: Hett, A'Sharad.
 Note (our notes, around the quote): Darth Krayt — entry/section: Hett, A'Sharad: "He honored her memory by completing the mission, allowing the Republic to retake Saleucami and destroy the Separatist cloning facilities beneath the planet's surface." Source: The Complete Star Wars Encyclopedia, Vol. II, p.38
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.38 — full quote as printed](quotes/v2-p38-he-honored-her-memory-by-completing.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:33`
 
 > Following the guidance found in an ancient Sith Holocron, he eventually gave himself over to the power of the dark side, and became the Dark Lord known as Darth Krayt, a name honoring one of Tatooine's most formidable predators.
 — Source: scan pages 41–80; Darth Krayt — entry/section: Hett, A'Sharad.
 Note (our notes, around the quote): Darth Krayt — entry/section: Hett, A'Sharad: "Following the guidance found in an ancient Sith Holocron, he eventually gave himself over to the power of the dark side, and became the Dark Lord known as Darth Krayt, a name honoring one of Tatooine's most formidable predators." Source: The Complete Star Wars Encyclopedia, Vol. II, p.38
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.38 — full quote as printed](quotes/v2-p38-following-the-guidance-found-in-an.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:35`
 
 - Note (summary from our notes, not a quotation): Page contents: 1117 words, 14 paragraphs | headings/entries: Krath; Krax, General; Krayn; Krayt, Darth
@@ -103,7 +96,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Despite his hatred of the alien invaders, Krayt was among the first beings who openly accepted the bioengineering of the Yuuzhan Vong, using implants and grafts to augment his already formidable body.
 — Source: scan pages 201–240; Darth Krayt — entry/section: Krayt, Darth.
 Note (our notes, around the quote): Darth Krayt — entry/section: Krayt, Darth: "Despite his hatred of the alien invaders, Krayt was among the first beings who openly accepted the bioengineering of the Yuuzhan Vong, using implants and grafts to augment his already formidable body." Source: The Complete Star Wars Encyclopedia, Vol. II, p.230
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.230 — full quote as printed](quotes/v2-p230-despite-his-hatred-of-the-alien.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:375`
 
 - Note (summary from our notes, not a quotation): Page contents: 1164 words, 21 paragraphs | headings/entries: Krayt's Honor; Kreet'ah; Kre'fey, Karka; Kre'fey, Laryn; Kre'fey, Traest; Kreia
@@ -115,19 +107,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Vader ultimately killed his Master, weakening the Sith Order until Darth Krayt slowly began to rebuild it to its former strength.
 — Source: scan pages 161–200; Darth Vader (Anakin Skywalker); Darth Krayt.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Darth Krayt: "Vader ultimately killed his Master, weakening the Sith Order until Darth Krayt slowly began to rebuild it to its former strength." Source: The Complete Star Wars Encyclopedia, Vol. III, p.155
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.155 — full quote as printed](quotes/v3-p155-vader-ultimately-killed-his-master-weakening.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:12`
 
 > Wyyrlok's knowledge of Sith lore, rituals, and history was rivaled only by that of Krayt himself.
 — Source: scan pages 321–360; Darth Wyyrlok III; Darth Krayt — entry/section: Wyyrlok, Darth.
 Note (our notes, around the quote): Darth Wyyrlok III; Darth Krayt — entry/section: Wyyrlok, Darth: "Wyyrlok's knowledge of Sith lore, rituals, and history was rivaled only by that of Krayt himself." Source: The Complete Star Wars Encyclopedia, Vol. III, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.337 — full quote as printed](quotes/v3-p337-wyyrloks-knowledge-of-sith-lore-rituals.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:192`
 
 > When Hett opened himself up to her teachings, he absorbed her knowledge and eventually became Darth Krayt.
 — Source: scan pages 321–360; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "When Hett opened himself up to her teachings, he absorbed her knowledge and eventually became Darth Krayt." Source: The Complete Star Wars Encyclopedia, Vol. III, p.344
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.344 — full quote as printed](quotes/v3-p344-when-hett-opened-himself-up-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:247`
 
 ## The New Essential Guide to Characters (2002)
@@ -135,7 +124,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > She killed Hett, but his son A'Sharad survived and became the Padawan learner of Ki-Adi-Mundi.
 — Source: scan pages 121–150; Darth Krayt; Ki-Adi-Mundi.
 Note (our notes, around the quote): Darth Krayt; Ki-Adi-Mundi: "She killed Hett, but his son A'Sharad survived and became the Padawan learner of Ki-Adi-Mundi." Source: The New Essential Guide to Characters, p.154
-![Quote image: The New Essential Guide to Characters, p.154 — full quote as printed](quotes/negc-p154-she-killed-hett-but-his-son.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:158`
 
 ## Adventures/The Storm's Edge.pdf [Star Wars Roleplaying Game (d20, 2000)]
@@ -161,7 +149,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Jabba the Hutt has long been interested in capturing a krayt dragon—originally because of the rumor of the dragon pearls, but in later years because he wanted to see how his pet rancor would fare against one of the giant lizards.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt — entry/section: Krayt Dragon.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Krayt Dragon: "Jabba the Hutt has long been interested in capturing a krayt dragon—originally because of the rumor of the dragon pearls, but in later years because he wanted to see how his pet rancor would fare against one of the giant lizards." Source: *Secrets of Tatooine* (SWRPG d20), scan p.15
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.15 — full quote as printed](quotes/d045-s15-jabba-the-hutt-has-long-been.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:88`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -202,7 +189,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi; Darth Krayt — entry/section: Pull quote (Darth Krayt).
 Note (our notes, around the quote): Darth Krayt — entry/section: Pull quote (Darth Krayt): ""MY VISION OF GALACTIC ORDER IS NOT YET A REALITY BUT IT WILL BE...IT WILL BE..." -DARTH KRAYT" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.154
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.154 — full quote as printed](quotes/d716-s154-my-vision-of-galactic-order-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:228`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -247,7 +233,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > AS I HAVE BENT THE FORCE TO MY WILL, SO I WILL BEND THE GALAXY AND IT WILL KNOW ORDER.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Krayt — entry/section: Pull quote: ""AS I HAVE BENT THE FORCE TO MY WILL, SO I WILL BEND THE GALAXY AND IT WILL KNOW ORDER." —DARTH KRAYT" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.6
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.6 — full quote as printed](quotes/d719-s6-as-i-have-bent-the-force.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:37`
 
 - Note (summary from our notes, not a quotation): Page contents: Species in the Legacy era; Krayt's Empire treats all species more or less equally; Mon Calamari punished. (hand-read)
@@ -257,7 +242,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > HENCEFORTH, YOU WILL TAKE ORDERS ONLY FROM ME—REPORT ONLY TO ME.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Krayt — entry/section: Pull quote: ""HENCEFORTH, YOU WILL TAKE ORDERS ONLY FROM ME—REPORT ONLY TO ME." —DARTH KRAYT" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.44
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.44 — full quote as printed](quotes/d719-s44-henceforth-you-will-take-orders-only.jpg)
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Also noted as: "HENCEFORTH, YOU WILL TAKE ORDERS ONLY FROM ME—REPORT ONLY TO ME" (p44).
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:312`; `notes/materials/011-legacy-era-campaign-guide.md:196`
@@ -265,7 +249,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > A former Emperor's Hand, Lumiya, helped carry on the Sith tradition for a while, but the true resurrection of the Sith begins on the planet Korriban, where a devotee named A'Sharad Hett learns the ways of the Sith tradition and discovers a group of Sith cultists planting the seeds of their eventual return.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Lumiya; Darth Krayt.
 Note (our notes, around the quote): Lumiya; Darth Krayt: "A former Emperor's Hand, Lumiya, helped carry on the Sith tradition for a while, but the true resurrection of the Sith begins on the planet Korriban, where a devotee named A'Sharad Hett learns the ways of the Sith tradition and discovers a group of Sith cultists planting the seeds of their eventual return." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.53
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.53 — full quote as printed](quotes/d719-s53-a-former-emperors-hand-lumiya-helped.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:385`
 
 - Note (summary from our notes, not a quotation): Page contents: Sidebar "Darth Krayt's Holocron"; Force powers: Ballistakinesis, Combustion, Dark Transfer, Detonate. (hand-read)
@@ -281,7 +264,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > I HAD NEVER SEEN A SHIP LIKE THE ONE THAT ENGULFED ME, OR WARRIORS LIKE THE ONES I FACED, OR WEAPONS LIKE THE ONES THAT DOWNED ME.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Krayt — entry/section: Pull quote: ""I HAD NEVER SEEN A SHIP LIKE THE ONE THAT ENGULFED ME, OR WARRIORS LIKE THE ONES I FACED, OR WEAPONS LIKE THE ONES THAT DOWNED ME." —DARTH KRAYT" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.67
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.67 — full quote as printed](quotes/d719-s67-i-had-never-seen-a-ship.jpg)
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Also noted as: "I HAD NEVER SEEN A SHIP LIKE THE ONE THAT ENGULFED ME, OR WARRIORS LIKE THE ONES I FACED, OR WEAPONS LIKE THE ONES THAT DOWNED ME" (p67).
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:63`; `notes/materials/011-legacy-era-campaign-guide.md:192`
@@ -289,13 +271,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > When the Galactic Alliance crumbles and the Darth Krayt takes his place upon the throne, Imperial officials order the Roche collective to immediately cease production of the IX-6 heavy combat droid and destroy all existing models.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "When the Galactic Alliance crumbles and the Darth Krayt takes his place upon the throne, Imperial officials order the Roche collective to immediately cease production of the IX-6 heavy combat droid and destroy all existing models." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.76
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.76 — full quote as printed](quotes/d719-s76-when-the-galactic-alliance-crumbles-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:133`
 
 > 25 Ossus was home to the Jedi until Darth Krayt's Empire wiped out the temple there.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "25 Ossus was home to the Jedi until Darth Krayt's Empire wiped out the temple there." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.112
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.112 — full quote as printed](quotes/d719-s112-25-ossus-was-home-to-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:430`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -303,13 +283,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > After Admiral Stazi and the Galactic Alliance Core Fleet steal the prototype Star Destroyer imperious from the Dac shipyards, with help from former Triumvirate member Gial Gahan, Darth Krayt orders the execution of millions of Mon Calamari and has the remaining Mon Calamari rounded up into internment camps.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "After Admiral Stazi and the Galactic Alliance Core Fleet steal the prototype Star Destroyer imperious from the Dac shipyards, with help from former Triumvirate member Gial Gahan, Darth Krayt orders the execution of millions of Mon Calamari and has the remaining Mon Calamari rounded up into internment camps." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.127
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.127 — full quote as printed](quotes/d719-s127-after-admiral-stazi-and-the-galactic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:62`
 
 > Gial is killed by Darth Krayt personally, and he is but the first.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga): "Gial is killed by Darth Krayt personally, and he is but the first." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.137
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.137 — full quote as printed](quotes/d719-s137-gial-is-killed-by-darth-krayt.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:148`
 
 - Note (summary from our notes, not a quotation): Page contents: Chapter introduction; Darth Krayt's Empire: continuation of Palpatine's Empire; history from the Yuuzhan Vong invasion through the Ossus Project and the Sith proposal brought by Moff Nyna Calixte to the Council of Moffs, who pressure Emperor Roan Fel into accepting the Sith proposal, just as they had pressured him into the war in the first place. (hand-read)
@@ -333,13 +311,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > However, in recent times she has resurrected her alter ego to rescue her son from the clutches of Darth Krayt.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "However, in recent times she has resurrected her alter ego to rescue her son from the clutches of Darth Krayt." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.168
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.168 — full quote as printed](quotes/d719-s168-however-in-recent-times-she-has.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:362`
 
 > DARTH KRAYT Arguably the most powerful man in the galaxy, Darth Krayt is both the leader of the Sith and the reigning Emperor.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga): "DARTH KRAYT Arguably the most powerful man in the galaxy, Darth Krayt is both the leader of the Sith and the reigning Emperor." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.169
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.169 — full quote as printed](quotes/d719-s169-darth-krayt-arguably-the-most-powerful.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:375`
 
 > DARTH KRAYT AND DARTH WYYRLOK.
@@ -355,7 +331,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag.
 Note (our notes, around the quote): Darth Talon; Darth Nihl; Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga): "With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173 — full quote as printed](quotes/d719-s173-with-her-master-dead-by-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:421`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption: "DARTH TALON." Darth Talon stat block CL 13 (Twi'lek Jedi 7/Sith apprentice 5/Sith Lord 1). Darth Wyyrlok: the third Sith Lord to bear the name; Chagrian; Darth Krayt's closest aide and confidante; Loremaster of the Sith; master of illusions. (hand-read)
@@ -365,7 +340,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > OUR LORD KEEPS HIS OWN SECRETS, AND WE, AS LOYAL SITH, ARE BOUND TO OBEY WITHOUT QUESTION.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Maladi; Darth Krayt — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Maladi; Darth Krayt — entry/section: Pull quote: ""OUR LORD KEEPS HIS OWN SECRETS, AND WE, AS LOYAL SITH, ARE BOUND TO OBEY WITHOUT QUESTION." —DARTH MALADI" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.174 — full quote as printed](quotes/d719-s174-our-lord-keeps-his-own-secrets.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:441`
 
 - Note (summary from our notes, not a quotation): Page contents: Roan Fel: rightful ruler to many; leader of the Empire-in-exile; Darth Krayt's most wanted enemy; trained as an Imperial Knight. Stat block CL 20 (Jedi 3/noble 6/Imperial Knight 5/officer 6; Talents incl. Band of Brothers, Oath of Duty, Strength of the Empire, Trust). (hand-read)
@@ -387,13 +361,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > IMPERIOUS-CLASS STAR DESTROYER After the Sith-Imperial War, Darth Krayt's Empire struggles to deal with nsurgents and rebels from a variety of factions.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "IMPERIOUS-CLASS STAR DESTROYER After the Sith-Imperial War, Darth Krayt's Empire struggles to deal with nsurgents and rebels from a variety of factions." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.191
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.191 — full quote as printed](quotes/d719-s191-imperious-class-star-destroyer-after-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:79`
 
 > While the Pellaeon-class Star Destroyer proves a capable command vessel, Darth Krayt demands that the Empire continue to upgrade its fleets to quash sedition.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "While the Pellaeon-class Star Destroyer proves a capable command vessel, Darth Krayt demands that the Empire continue to upgrade its fleets to quash sedition." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.191
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.191 — full quote as printed](quotes/d719-s191-while-the-pellaeon-class-star-destroyer.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:81`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -405,7 +377,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > The M22-T Krayt gunship was originally commissioned by Jabba the Hutt to serve as a command ship for his most powerful and loyal lieutenants.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Darth Krayt. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "The M22-T Krayt gunship was originally commissioned by Jabba the Hutt to serve as a command ship for his most powerful and loyal lieutenants." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.66
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.66 — full quote as printed](quotes/d722-s66-the-m22-t-krayt-gunship-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-061-120.md:37`
 
 ## Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -427,7 +398,6 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-0
 > Coming into service more than a hundred years after the Battle of Endor, the Pellaeon-class Star Destroyer can be found both in Darth Krayt's Empire and in Emperor Roan Fel's Empire-in-exile.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga; Darth Krayt; Roan Fel.
 Note (our notes, around the quote): Darth Krayt; Roan Fel: "Coming into service more than a hundred years after the Battle of Endor, the Pellaeon-class Star Destroyer can be found both in Darth Krayt's Empire and in Emperor Roan Fel's Empire-in-exile." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.100
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.100 — full quote as printed](quotes/d727-s100-coming-into-service-more-than-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-061-120.md:269`
 
 ## Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–162)
@@ -477,7 +447,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Darth Krayt: "In the Star Wars Miniatures Game, Darth Krayt is a formidable unit." Source: *Web Articles* (SWRPG Saga Edition), scan p.316
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.316 — full quote as printed](quotes/d732-s316-in-the-star-wars-miniatures-game.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:167`
 
 ## Star Wars Insider #70 (2003)
@@ -527,13 +496,11 @@ Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:1042`
 > Cade and Krayt have a different sort of affiliation.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Cade Skywalker; Darth Krayt — entry/section: Duursema: different affiliation: ""Luke and Vader's story is one of a wayward father redeemed," explains Duursema. "Cade and Krayt have a different sort of affiliation." —Jan Duursema, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-luke-and-vaders-story-is-one.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:688`
 
 > Luke could turn Vader only because of the ties between them. We've seen just how merciless and dangerous Krayt can get when mad. Cade understands that, so long as Krayt lives, the Sith Order will be intact and Cade will never know peace. Cade is not concerned about redeeming Krayt or about saving the galaxy, when you come right down to it. He wants people to leave him alone. He wants to live his life on his own terms, not anyone else's. Krayt needs to die. Now, whether or not he can do that is an entirely different question. Cade's gotten himself in over his head before. We'll see if it happens again.
 — Source: Star Wars Insider #101 (2008).
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Cade Skywalker; Darth Krayt — entry/section: Ostrander: Krayt needs to die: "Adds Ostrander, "Luke could turn Vader only because of the ties between them. We've seen just how merciless and dangerous Krayt can get when mad. Cade understands that, so long as Krayt lives, the Sith Order will be intact and Cade will never know peace. Cade is not concerned about redeeming Krayt or about saving the galaxy, when you come right down to it. He wants people to leave him alone. He wants to live his life on his own terms, not anyone else's. Krayt needs to die. Now, whether or not he can do that is an entirely different question. Cade's gotten himself in over his head before. We'll see if it happens again." —John Ostrander, Star Wars Insider 101, p. 62" Source: *Star Wars Insider #101* (2008), scan p.62
-![Quote image: *Star Wars Insider #101* (2008), scan p.62 — full quote as printed](quotes/ins101-s62-adds-ostrander-luke-could-turn-vader.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:690`
 
 ## Star Wars Insider #102 (2008)
@@ -603,7 +570,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:321`
 > Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever.
 — Source: Star Wars Insider #114 (2010); Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death.
 Note (our notes, around the quote): Cade Skywalker — entry/section: Duursema: Cade after Krayt's apparent death: ""Cade found that taking down Krayt wasn't the glorious moment he'd imagined, and he's wondering if the galaxy is going to be any better for it. The Sith didn't splinter as he'd hoped, Darth Wyyrlok is in charge, and the Sith seem to have as tight a hold as ever." —Jan Duursema, Star Wars Insider 114, p. 58" Source: *Star Wars Insider #114* (2010), scan p.58
-![Quote image: *Star Wars Insider #114* (2010), scan p.58 — full quote as printed](quotes/ins114-s58-cade-found-that-taking-down-krayt.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:323`
 
 > This is a promise—or a threat!
@@ -614,7 +580,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:328`
 > Two Sith in a room always equals trouble. Put Nyna Calixte into that room and war is likely. Krayt's death has caused internal strife within the Sith Empire as factions see opportunities arising.
 — Source: Star Wars Insider #114 (2010).
 Note (our notes, around the quote): Darth Wyyrlok III; Nyna Calixte — entry/section: Duursema: Sith infighting after Krayt's death: ""Two Sith in a room always equals trouble. Put Nyna Calixte into that room and war is likely. Krayt's death has caused internal strife within the Sith Empire as factions see opportunities arising." —Jan Duursema, Star Wars Insider 114, p. 59" Source: *Star Wars Insider #114* (2010), scan p.59
-![Quote image: *Star Wars Insider #114* (2010), scan p.59 — full quote as printed](quotes/ins114-s59-two-sith-in-a-room-always.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:330`
 
 ## Star Wars Insider #118 (2010)
@@ -642,7 +607,6 @@ Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:327`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #121 (2010); Darth Krayt — entry/section: Duursema on the resurrected Krayt.
 Note (our notes, around the quote): Darth Krayt — entry/section: Duursema on the resurrected Krayt: """In Legacy: War we see Krayt free of the Vong parasites and at the most powerful he's ever been," she says. "It's as if the Yuuzhan Vong biots were dampening his power. I wanted the new design to reflect all that he had been through. I finally decided on giving him an aged look, like a mummy who has been reanimated, but I kept him looking strong. He is a being who has defeated age and disease. He has cheated death and believes himself to be immortal. He is the Krayt who would have been, had the Yuuzhan Vong not experimented on him."" —Jan Duursema, Star Wars Insider 121, p. 62" Source: *Star Wars Insider #121* (2010), scan p.62
-![Quote image: *Star Wars Insider #121* (2010), scan p.62 — full quote as printed](quotes/ins121-s62-in-legacy-war-we-see-krayt.jpg)
 Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:329`
 
 ## Star Wars Insider #123 (2011)
@@ -1555,21 +1519,21 @@ Our notes: `notes/materials/009-legacy-book-1.md:35`
 
 - Note (summary from our notes, not a quotation): Flashbacks: A'Sharad Hett as a Jedi general in the Clone Wars and his survival of Order 66 (p361–362). Hett vs Obi-Wan Kenobi on Tatooine (p363–370; set in the early Imperial period while Luke is a child on the Lars farm, p371). Hett apprenticed to XoXaan on Korriban, emerging after Vader and Palpatine were "BOTH GONE" (p392, p399). Hett captured by the Vong and taught by Vergere before the Vong invasion (p400–406).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p361](009-legacy-book-1-panels/p361-krayt-prolonging-life-served-with-anakin.jpg)
-![p362](009-legacy-book-1-panels/p362-hett-order66-killed-clones.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
-![p392 XoXaan](009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
-![p399 Cade in the Embrace of Pain](009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
+![p361](../../notes/materials/009-legacy-book-1-panels/p361-krayt-prolonging-life-served-with-anakin.jpg)
+![p362](../../notes/materials/009-legacy-book-1-panels/p362-hett-order66-killed-clones.jpg)
+![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p392 XoXaan](../../notes/materials/009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
+![p399 Cade in the Embrace of Pain](../../notes/materials/009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:37`
 
 - Note (summary from our notes, not a quotation): #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like Force surge (p21). Wolf warns him it pushed him to the edge of the dark side (p25). Cade flies off in a fighter to take revenge, and it explodes (p26–29).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p15 Krayt holocron prologue](009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
-![p19 Kol holds the landing pad](009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
-![p21 Cade's blue Force surge revives Wolf](009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
-![p22 Nihl's lightning on Kol](009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
-![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
-![p25](009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
+![p15 Krayt holocron prologue](../../notes/materials/009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
+![p19 Kol holds the landing pad](../../notes/materials/009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
+![p21 Cade's blue Force surge revives Wolf](../../notes/materials/009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
+![p22 Nihl's lightning on Kol](../../notes/materials/009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
+![p24 Kol dies among dead Sith](../../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+![p25](../../notes/materials/009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:43`
 
 > DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH
@@ -1577,10 +1541,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:43`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): On Coruscant, Krayt, Maladi, Nihl and Wyyrlok enter the throne room, cut down the Imperial Knights and kill "Roan Fel". The victim turns out to be a double. Krayt proclaims himself Emperor (p30–35). Krayt is physically spent; he senses a "DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH" and vows to find that Jedi (p36).
 Context: #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like
-![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
-![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p31 Krayt confronts "Fel"](../../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+![p32 Krayt cuts down Imperial Knights](../../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+![p35 Krayt blasts Maladi](../../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p36 Krayt overextended; senses Cade's healing](../../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:44`
 
 - Note (summary from our notes, not a quotation): #2–3 (137 ABY): Wolf, Shado, Hosk and others are ambushed by Sith on Daluuj (p37–41). Cade, now a bounty hunter with Jariah Syn and Deliah Blue, captures the Jedi healer Hosk Trey'lis on Lok and sells him to Rav on Socorro (p42–64). Krayt has Talon kill her master, Darth Ruyn, and names her a Hand (p53–55). Talon kills Imperial Knight Elke Vetter (p56–57).
@@ -1589,11 +1553,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:45`
 
 - Note (summary from our notes, not a quotation): #5: Krayt questions the Korriban holocrons of Bane, Andeddu and Nihilus. They call him a "PRETENDER", and he blasts them away (p81–84). On Vendaxa, Wolf and Shado meet Cade's crew. Talon fights Wolf and Shado and swats Marasiah aside. Cade instinctively stops a hurled wreck and Force-pushes Talon away (p85–99). Krayt sends Nihl (p101–102).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p81 Krayt summons the holocrons](009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
-![p82 Bane's holocron: "PRETENDER"](009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
-![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
-![p84 Krayt dispels the holocron images with lightning](009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
-![p102](009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
+![p81 Krayt summons the holocrons](../../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+![p82 Bane's holocron: "PRETENDER"](../../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+![p84 Krayt dispels the holocron images with lightning](../../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+![p102](../../notes/materials/009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:47`
 
 - Note (summary from our notes, not a quotation): #7: Cade fights Nihl with a lightsaber in one hand and a blaster in the other, with Syn's help, and is Force-blasted aside (p125–133). Everyone escapes on the *Mynock* (p134–135). Draco attacks Cade; Wolf and Cade argue about the dark side; Cade heals the dying Marasiah through the dark side (p137–142). Talon reports her failure. Krayt spares her and wants the Skywalker "ALIVE" (p146).
@@ -1611,12 +1575,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:65`
 
 - Note (summary from our notes, not a quotation): #14: From stasis, Krayt senses "SKYWALKER IS COMING" (p311). Cade evades Skull Squadron (p313–315), infiltrates the Sith Temple and frees Hosk (p325–328). He duels Talon, Nihl takes him from behind, and he is captured (p328–331). Sazen senses this from Ossus (p332).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
-![p315](009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
-![p325](009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
-![p327](009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
-![p328](009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
-![p329](009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
+![p311](../../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p315](../../notes/materials/009-legacy-book-1-panels/p315-cade-loses-skull-squadron.jpg)
+![p325](../../notes/materials/009-legacy-book-1-panels/p325-cade-infiltrates-sith-temple.jpg)
+![p327](../../notes/materials/009-legacy-book-1-panels/p327-hosk-anger-dagger-in-force.jpg)
+![p328](../../notes/materials/009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
+![p329](../../notes/materials/009-legacy-book-1-panels/p329-cade-vs-talon-kick.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:73`
 
 - Note (summary from our notes, not a quotation): #15: Moff politics (p333–337). Maladi notes that Cade purges ixetal cilona "LIKE A SITH" (p338). Krayt has Maladi trigger coral seeds in Jariah and Deliah, and Cade heals both at once (p339–346). Krayt and Cade strike a bargain (p346–347). Maladi and Nihl argue about rank (p351). Over dinner, Krayt reveals he is A'Sharad Hett (p352–354).
@@ -1625,56 +1589,56 @@ Our notes: `notes/materials/009-legacy-book-1.md:74`
 
 - Note (summary from our notes, not a quotation): #16: Corde is tasked to extract Cade and reveals she is his mother to the crew (p355–360). Krayt tells his history: Clone Wars, Order 66, the Tuskens, and the duel and maiming by Kenobi (p361–371). Cade Force-blasts Talon and threatens to "EXPLODE" her weak point, then heals her and asks Krayt to teach him (p371–374). Stryfe senses Jedi on Ossus (p375–376).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p355](009-legacy-book-1-panels/p355-corde-veed-get-him-out-or-kill.jpg)
-![p358](009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
-![p360](009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
-![p372 Cade's blast; hand on Talon's head](009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
-![p373](009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
+![p355](../../notes/materials/009-legacy-book-1-panels/p355-corde-veed-get-him-out-or-kill.jpg)
+![p358](../../notes/materials/009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
+![p360](../../notes/materials/009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
+![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p372 Cade's blast; hand on Talon's head](../../notes/materials/009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
+![p373](../../notes/materials/009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:75`
 
 - Note (summary from our notes, not a quotation): #17: Nihl and Maladi discuss succession and Krayt's "AFFLICTION" (p377). Talon trains Cade (p378–381, p388–393). Krayt and Wyyrlok discuss turning Cade (p382). Corde infiltrates the Temple with Vong bugs (p387). The Jedi mind-trick the troopers on Ossus. Stryfe orders the ruins bombarded (p396–398).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p377](009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
-![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
-![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
-![p387](009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
+![p377](../../notes/materials/009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
+![p379](../../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+![p380](../../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+![p381 dark-side self-healing](../../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p382](../../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p387](../../notes/materials/009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:76`
 
 > THAT WHICH CAN HEAL CAN ALSO BREAK. *(p416)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): #18: Krayt in the Embrace of Pain tells the rest of his history: XoXaan, the Vong, Vergere, the escape, Caedus and stasis (p399–408). Talon ambushes Cade (p411). Krayt orders Cade to kill Hosk, then kills Hosk himself (p412–415). Kol's ghost appears: "THAT WHICH CAN HEAL CAN ALSO BREAK." (p416). Cade's Force burst makes the Sith recoil; he strikes Talon (p417–418).
-![p411](009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
-![p412](009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
-![p413](009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
-![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
-![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
-![p416](009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
+![p411](../../notes/materials/009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
+![p412](../../notes/materials/009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
+![p413](../../notes/materials/009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
+![p414 Krayt runs Hosk through](../../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+![p415](../../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+![p416](../../notes/materials/009-legacy-book-1-panels/p416-kol-ghost-heal-can-break.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:77`
 
 > I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM. *(p438)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): #19: Cade beats Nihl and refuses to kill him (p425–427). He crosses sabers with Krayt and taunts him about his illness (p429–430). Corde shoots Krayt through the window (p433). Cade leaps from the tower and Syn catches him at the *Mynock*'s hatch (p434–437). Krayt: "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM." (p438). Calixte, alone with the hologram of Kol and baby Cade: "RUN." (p442)
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
-![p429 Krayt's dual red sabers vs Cade](009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
-![p430](009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
-![p433 Corde shoots Krayt](009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
+![p425](../../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p426](../../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p427](../../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p429 Krayt's dual red sabers vs Cade](../../notes/materials/009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
+![p430](../../notes/materials/009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
+![p433 Corde shoots Krayt](../../notes/materials/009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
 Also cited as: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p137.
-Also noted as: ![p137 "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM."](013-legacy-vol-3-claws-of-the-dragon-panels/p137-krayt-break-him-use-him-kill-him.jpg)
+Also noted as: ![p137 "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p137-krayt-break-him-use-him-kill-him.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:78`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:153`
 
 > "I HAVE BROKEN THE SPINE OF THE GALAXY." … "AS I HAVE BENT THE FORCE TO MY WILL, SO I WILL BEND THE GALAXY AND IT WILL KNOW ORDER." — "FROM THE HOLOCRON OF DARTH KRAYT, LORD OF THE SITH."
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 1. Holocron mission statement (framing splash). p15 (#1 Broken)
-![p15 Krayt holocron prologue](009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
+![p15 Krayt holocron prologue](../../notes/materials/009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:86`
 
-- Note (summary from our notes, not a quotation): ![p15 Krayt holocron prologue](009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
+- Note (summary from our notes, not a quotation): ![p15 Krayt holocron prologue](../../notes/materials/009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p15 Krayt holocron prologue — `p015-krayt-holocron-broken-spine.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:89`
@@ -1687,16 +1651,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:93`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 2. Throne-room coup: cuts through the Imperial Knights. p31 (#1 Broken)–p32 (#1 Broken)
-![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
-![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+![p31 Krayt confronts "Fel"](../../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+![p32 Krayt cuts down Imperial Knights](../../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:95`
 
-- Note (summary from our notes, not a quotation): ![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+- Note (summary from our notes, not a quotation): ![p31 Krayt confronts "Fel"](../../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p31 Krayt confronts "Fel" — `p031-krayt-your-life-emperor.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:98`
 
-- Note (summary from our notes, not a quotation): ![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+- Note (summary from our notes, not a quotation): ![p32 Krayt cuts down Imperial Knights](../../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p32 Krayt cuts down Imperial Knights — `p032-krayt-cuts-down-imperial-knights.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:101`
@@ -1707,11 +1671,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:101`
 > WE WILL HONOR THEIR SACRIFICES AND ESCAPE.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 3. Kills Mohrgan and about six Imperial Knights alone (Allies retelling). p166 (#8 Allies)–p167 (#8 Allies) The sequence is wordless. Afterwards the escort Knight says: "MOHRGAN... THE OTHERS --!" and Fel answers: "I FELT IT, TOO." · "WE WILL HONOR THEIR SACRIFICES AND ESCAPE." *(Speakers corrected 2026-10-21; checked on zoomed crops of both scans.)*
-![p166 Krayt vs a squad of Imperial Knights (wordless)](009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
-![p167](009-legacy-book-1-panels/p167-fel-felt-knights-die.jpg)
+![p166 Krayt vs a squad of Imperial Knights (wordless)](../../notes/materials/009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
+![p167](../../notes/materials/009-legacy-book-1-panels/p167-fel-felt-knights-die.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:105`
 
-- Note (summary from our notes, not a quotation): ![p166 Krayt vs a squad of Imperial Knights (wordless)](009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
+- Note (summary from our notes, not a quotation): ![p166 Krayt vs a squad of Imperial Knights (wordless)](../../notes/materials/009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p166 Krayt vs a squad of Imperial Knights (wordless) — `p166-krayt-kills-imperial-knights-melee.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:107`
@@ -1729,10 +1693,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:111`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 4. Punishes Maladi with a Force blast; rates Fel. p35 (#1 Broken)
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p35 Krayt blasts Maladi](../../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:113`; `notes/materials/009-legacy-book-1.md:1100`
 
-- Note (summary from our notes, not a quotation): ![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+- Note (summary from our notes, not a quotation): ![p35 Krayt blasts Maladi](../../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p35 Krayt blasts Maladi — `p035-krayt-blasts-maladi-fel-fully-trained.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:116`
@@ -1741,10 +1705,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:116`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 5. Physical cost: "MY BODY FAILS ME." p36 (#1 Broken)
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p36 Krayt overextended; senses Cade's healing](../../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:120`
 
-- Note (summary from our notes, not a quotation): ![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+- Note (summary from our notes, not a quotation): ![p36 Krayt overextended; senses Cade's healing](../../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p36 Krayt overextended; senses Cade's healing — `p036-krayt-body-fails-healing-murmur.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:123`
@@ -1759,16 +1723,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:127`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 6. Ritual authority: Talon kills Ruyn on command; Krayt lightning "test". p53 (#2 Broken)–p55 (#2 Broken)
-![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p53 Krayt orders Talon to kill Ruyn](../../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+![p55 Krayt names Darth Talon](../../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:129`
 
-- Note (summary from our notes, not a quotation): ![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+- Note (summary from our notes, not a quotation): ![p53 Krayt orders Talon to kill Ruyn](../../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p53 Krayt orders Talon to kill Ruyn — `p053-krayt-kill-him-talon-ruyn.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:132`
 
-- Note (summary from our notes, not a quotation): ![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+- Note (summary from our notes, not a quotation): ![p55 Krayt names Darth Talon](../../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p55 Krayt names Darth Talon — `p055-krayt-lightning-talon-final-test.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:135`
@@ -1777,28 +1741,28 @@ Our notes: `notes/materials/009-legacy-book-1.md:135`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 7. Questions the Sith holocrons; Bane, Andeddu and Nihilus call him a pretender. p81 (#5 Broken)–p84 (#5 Broken)
-![p81 Krayt summons the holocrons](009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
-![p82 Bane's holocron: "PRETENDER"](009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
-![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
-![p84 Krayt dispels the holocron images with lightning](009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+![p81 Krayt summons the holocrons](../../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+![p82 Bane's holocron: "PRETENDER"](../../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+![p84 Krayt dispels the holocron images with lightning](../../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:139`; `legends-feats.md:1111`
 
-- Note (summary from our notes, not a quotation): ![p81 Krayt summons the holocrons](009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+- Note (summary from our notes, not a quotation): ![p81 Krayt summons the holocrons](../../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p81 Krayt summons the holocrons — `p081-krayt-summons-sith-holocrons.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:142`
 
-- Note (summary from our notes, not a quotation): ![p82 Bane's holocron: "PRETENDER"](009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p82 Bane's holocron: "PRETENDER"](../../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p82 Bane's holocron: "PRETENDER" — `p082-bane-holocron-you-are-not-a-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:145`
 
-- Note (summary from our notes, not a quotation): ![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+- Note (summary from our notes, not a quotation): ![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p83 Krayt asks how Bane, Andeddu and Nihilus beat death — `p083-krayt-asks-bane-andeddu-nihilus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:148`
 
-- Note (summary from our notes, not a quotation): ![p84 Krayt dispels the holocron images with lightning](009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+- Note (summary from our notes, not a quotation): ![p84 Krayt dispels the holocron images with lightning](../../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p84 Krayt dispels the holocron images with lightning — `p084-krayt-living-lord-of-sith-begone.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:151`
@@ -1810,10 +1774,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:155`
 > "I'M SENDING DARTH NIHL AND OTHERS TO ASSIST TALON. IF ROAN FEL COMES, HE MAY WELL BRING HIS IMPERIAL KNIGHTS." · "MY PATIENCE IS NOT INEXHAUSTIBLE. SHE KNOWS WHERE HER FATHER IS. WE WILL CAPTURE HER AND TEAR THE INFORMATION FROM HER."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 8. Sends Nihl after the princess; patience "NOT INEXHAUSTIBLE". p102 (#5 Broken)
-![p102](009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
+![p102](../../notes/materials/009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:157`
 
-- Note (summary from our notes, not a quotation): ![p102](009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
+- Note (summary from our notes, not a quotation): ![p102](../../notes/materials/009-legacy-book-1-panels/p102-krayt-sending-nihl-imperial-knights.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p102 — `p102-krayt-sending-nihl-imperial-knights.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:160`
@@ -1821,10 +1785,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:160`
 > "THERE IS A SKYWALKER." · "AND HE IS POWERFUL IN THE FORCE." · "HE ALSO LEARNED THIS SKYWALKER HEALED THE PRINCESS. SO HE IS VERY POWERFUL INDEED." · "I OFTEN WONDER IF I SHOULDN'T HAVE ENDED THE SKYWALKER LINEAGE WHEN I HAD THE CHANCE. PERHAPS IT WAS FATED THAT I DID NOT." · "NO. BUT I DO WANT HIM FOUND AND BROUGHT TO ME -- ALIVE. HE MAY HAVE ABILITIES THAT WOULD BE USEFUL TO ME."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 9. Rates Cade "VERY POWERFUL"; hints he spared the Skywalker line. p146 (#7 Broken)
-![p146](009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
+![p146](../../notes/materials/009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:164`; `notes/materials/009-legacy-book-1.md:1096`
 
-- Note (summary from our notes, not a quotation): ![p146](009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
+- Note (summary from our notes, not a quotation): ![p146](../../notes/materials/009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p146 — `p146-krayt-skywalker-very-powerful-alive.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:167`
@@ -1833,11 +1797,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:167`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 10. Overrules Maladi's schemes. p261 (#13 Ready to Die)–p262 (#13 Ready to Die)
-![p262](009-legacy-book-1-panels/p262-krayt-maladi-do-not-scheme.jpg)
-![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+![p262](../../notes/materials/009-legacy-book-1-panels/p262-krayt-maladi-do-not-scheme.jpg)
+![p261 Maladi kills Dorn](../../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:171`
 
-- Note (summary from our notes, not a quotation): ![p262](009-legacy-book-1-panels/p262-krayt-maladi-do-not-scheme.jpg)
+- Note (summary from our notes, not a quotation): ![p262](../../notes/materials/009-legacy-book-1-panels/p262-krayt-maladi-do-not-scheme.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p262 — `p262-krayt-maladi-do-not-scheme.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:174`
@@ -1845,10 +1809,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:174`
 > Wyyrlok captions: "MY LORD IS DYING. HE IS BEING CONSUMED. NOTHING IN THE SITH LORE HELPS, INCLUDING THE ANCIENT KNOWLEDGE OF XOXAAN." · "THE SKILLS OF THE JEDI HEALER HOSK HAVE PROVEN INADEQUATE." · Krayt (in the stasis pod, eyes open): "SKYWALKER IS COMING."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 11. Precognition from stasis; dying (Wyyrlok's narration). p311 (#14 Claws)
-![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+![p311](../../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:178`
 
-- Note (summary from our notes, not a quotation): ![p311](009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
+- Note (summary from our notes, not a quotation): ![p311](../../notes/materials/009-legacy-book-1-panels/p311-wyyrlok-krayt-dying-skywalker-coming.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p311 — `p311-wyyrlok-krayt-dying-skywalker-coming.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:181`
@@ -1857,34 +1821,34 @@ Our notes: `notes/materials/009-legacy-book-1.md:181`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 12. Tests Cade's power: coral seeds in both friends. p339 (#15 Claws)–p347 (#15 Claws)
-![p339](009-legacy-book-1-panels/p339-krayt-power-dark-side-healing-abilities.jpg)
-![p342 Krayt narrates Maladi's coral seeds](009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
-![p343 Krayt frees Cade with the Force](009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
-![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
-![p347](009-legacy-book-1-panels/p347-krayt-bargain-friends-freed.jpg)
+![p339](../../notes/materials/009-legacy-book-1-panels/p339-krayt-power-dark-side-healing-abilities.jpg)
+![p342 Krayt narrates Maladi's coral seeds](../../notes/materials/009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
+![p343 Krayt frees Cade with the Force](../../notes/materials/009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
+![p346](../../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+![p347](../../notes/materials/009-legacy-book-1-panels/p347-krayt-bargain-friends-freed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:185`
 
-- Note (summary from our notes, not a quotation): ![p339](009-legacy-book-1-panels/p339-krayt-power-dark-side-healing-abilities.jpg)
+- Note (summary from our notes, not a quotation): ![p339](../../notes/materials/009-legacy-book-1-panels/p339-krayt-power-dark-side-healing-abilities.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p339 — `p339-krayt-power-dark-side-healing-abilities.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:188`
 
-- Note (summary from our notes, not a quotation): ![p342 Krayt narrates Maladi's coral seeds](009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
+- Note (summary from our notes, not a quotation): ![p342 Krayt narrates Maladi's coral seeds](../../notes/materials/009-legacy-book-1-panels/p342-maladi-coral-seeds-krayt-narration.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p342 Krayt narrates Maladi's coral seeds — `p342-maladi-coral-seeds-krayt-narration.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:191`
 
-- Note (summary from our notes, not a quotation): ![p343 Krayt frees Cade with the Force](009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
+- Note (summary from our notes, not a quotation): ![p343 Krayt frees Cade with the Force](../../notes/materials/009-legacy-book-1-panels/p343-krayt-choose-life-for-one.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p343 Krayt frees Cade with the Force — `p343-krayt-choose-life-for-one.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:194`
 
-- Note (summary from our notes, not a quotation): ![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+- Note (summary from our notes, not a quotation): ![p346](../../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p346 — `p346-krayt-bargaining-not-equals.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:197`
 
-- Note (summary from our notes, not a quotation): ![p347](009-legacy-book-1-panels/p347-krayt-bargain-friends-freed.jpg)
+- Note (summary from our notes, not a quotation): ![p347](../../notes/materials/009-legacy-book-1-panels/p347-krayt-bargain-friends-freed.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p347 — `p347-krayt-bargain-friends-freed.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:200`
@@ -1893,29 +1857,29 @@ Our notes: `notes/materials/009-legacy-book-1.md:200`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 13. Reveal: Krayt is A'Sharad Hett; longevity. p352 (#15 Claws)–p354 (#15 Claws), p361 (#16 Claws)
-![p352](009-legacy-book-1-panels/p352-krayt-jedi-agents-of-chaos.jpg)
-![p353 Kol's lightsaber displayed as a trophy](009-legacy-book-1-panels/p353-krayt-sith-born-within-jedi.jpg)
-![p354 splash: "BUT I WAS BORN A'SHARAD HETT."](009-legacy-book-1-panels/p354-krayt-unmasked-ashrad-hett-splash.jpg)
-![p361](009-legacy-book-1-panels/p361-krayt-prolonging-life-served-with-anakin.jpg)
+![p352](../../notes/materials/009-legacy-book-1-panels/p352-krayt-jedi-agents-of-chaos.jpg)
+![p353 Kol's lightsaber displayed as a trophy](../../notes/materials/009-legacy-book-1-panels/p353-krayt-sith-born-within-jedi.jpg)
+![p354 splash: "BUT I WAS BORN A'SHARAD HETT."](../../notes/materials/009-legacy-book-1-panels/p354-krayt-unmasked-ashrad-hett-splash.jpg)
+![p361](../../notes/materials/009-legacy-book-1-panels/p361-krayt-prolonging-life-served-with-anakin.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:204`
 
-- Note (summary from our notes, not a quotation): ![p352](009-legacy-book-1-panels/p352-krayt-jedi-agents-of-chaos.jpg)
+- Note (summary from our notes, not a quotation): ![p352](../../notes/materials/009-legacy-book-1-panels/p352-krayt-jedi-agents-of-chaos.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p352 — `p352-krayt-jedi-agents-of-chaos.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:207`
 
-- Note (summary from our notes, not a quotation): ![p353 Kol's lightsaber displayed as a trophy](009-legacy-book-1-panels/p353-krayt-sith-born-within-jedi.jpg)
+- Note (summary from our notes, not a quotation): ![p353 Kol's lightsaber displayed as a trophy](../../notes/materials/009-legacy-book-1-panels/p353-krayt-sith-born-within-jedi.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p353 Kol's lightsaber displayed as a trophy — `p353-krayt-sith-born-within-jedi.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:210`
 
 > BUT I WAS BORN A'SHARAD HETT.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; ![p354 splash.
-Note (our notes, around the quote): ![p354 splash: "BUT I WAS BORN A'SHARAD HETT."](009-legacy-book-1-panels/p354-krayt-unmasked-ashrad-hett-splash.jpg)
+Note (our notes, around the quote): ![p354 splash: "BUT I WAS BORN A'SHARAD HETT."](../../notes/materials/009-legacy-book-1-panels/p354-krayt-unmasked-ashrad-hett-splash.jpg)
 (*Panel: p354 splash: "BUT I WAS BORN A'SHARAD HETT." — `p354-krayt-unmasked-ashrad-hett-splash.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:213`
 
-- Note (summary from our notes, not a quotation): ![p361](009-legacy-book-1-panels/p361-krayt-prolonging-life-served-with-anakin.jpg)
+- Note (summary from our notes, not a quotation): ![p361](../../notes/materials/009-legacy-book-1-panels/p361-krayt-prolonging-life-served-with-anakin.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p361 — `p361-krayt-prolonging-life-served-with-anakin.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:216`
@@ -1923,10 +1887,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:216`
 > "I KILLED THE CLONES ASSIGNED TO EXECUTE ME, SAVING ONLY ONE LONG ENOUGH TO LEARN WHY." · "I REACHED OUT THROUGH THE FORCE, BUT COULD NOT SENSE ANY OTHER JEDI." · "I MADE MY WAY TO TATOOINE AND BECAME WAR LEADER OF SEVERAL CLANS OF TUSKEN RAIDERS, AS MY FATHER HAD BEEN BEFORE ME."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 14. Order 66 survival. p362 (#16 Claws)
-![p362](009-legacy-book-1-panels/p362-hett-order66-killed-clones.jpg)
+![p362](../../notes/materials/009-legacy-book-1-panels/p362-hett-order66-killed-clones.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:220`
 
-- Note (summary from our notes, not a quotation): ![p362](009-legacy-book-1-panels/p362-hett-order66-killed-clones.jpg)
+- Note (summary from our notes, not a quotation): ![p362](../../notes/materials/009-legacy-book-1-panels/p362-hett-order66-killed-clones.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p362 — `p362-hett-order66-killed-clones.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:223`
@@ -1935,22 +1899,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:223`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 15. A'Sharad Hett vs Obi-Wan Kenobi (Tatooine, early Imperial era): Hett loses. p363 (#16 Claws)–p370 (#16 Claws)
-![p366 Hett (two green sabers and a gaderffii) vs Kenobi](009-legacy-book-1-panels/p366-hett-vs-kenobi-duel.jpg)
-![p369 Kenobi severs Hett's hand](009-legacy-book-1-panels/p369-kenobi-severs-hett-hand.jpg)
-![p370](009-legacy-book-1-panels/p370-hett-disgraced-swear.jpg)
+![p366 Hett (two green sabers and a gaderffii) vs Kenobi](../../notes/materials/009-legacy-book-1-panels/p366-hett-vs-kenobi-duel.jpg)
+![p369 Kenobi severs Hett's hand](../../notes/materials/009-legacy-book-1-panels/p369-kenobi-severs-hett-hand.jpg)
+![p370](../../notes/materials/009-legacy-book-1-panels/p370-hett-disgraced-swear.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:227`
 
-- Note (summary from our notes, not a quotation): ![p366 Hett (two green sabers and a gaderffii) vs Kenobi](009-legacy-book-1-panels/p366-hett-vs-kenobi-duel.jpg)
+- Note (summary from our notes, not a quotation): ![p366 Hett (two green sabers and a gaderffii) vs Kenobi](../../notes/materials/009-legacy-book-1-panels/p366-hett-vs-kenobi-duel.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p366 Hett (two green sabers and a gaderffii) vs Kenobi — `p366-hett-vs-kenobi-duel.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:230`
 
-- Note (summary from our notes, not a quotation): ![p369 Kenobi severs Hett's hand](009-legacy-book-1-panels/p369-kenobi-severs-hett-hand.jpg)
+- Note (summary from our notes, not a quotation): ![p369 Kenobi severs Hett's hand](../../notes/materials/009-legacy-book-1-panels/p369-kenobi-severs-hett-hand.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p369 Kenobi severs Hett's hand — `p369-kenobi-severs-hett-hand.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:233`
 
-- Note (summary from our notes, not a quotation): ![p370](009-legacy-book-1-panels/p370-hett-disgraced-swear.jpg)
+- Note (summary from our notes, not a quotation): ![p370](../../notes/materials/009-legacy-book-1-panels/p370-hett-disgraced-swear.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p370 — `p370-hett-disgraced-swear.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:236`
@@ -1964,11 +1928,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:240`
 > "I CAN FEEL THE ANGER IN YOU, CADE SKYWALKER. I KNOW IT AS I KNOW MY OWN, AS I FELT IT AT THE BETRAYAL BY THE CLONES -- AND AT MY HUMILIATION BY OBI-WAN KENOBI." · "YOU HAVE GREAT RAW POWER BUT IT NEEDS FOCUS." · (p374) "DARTH TALON WILL BE YOUR TEACHER. HER FIRST LESSON TO YOU: NEVER ASK FOR MY MERCY. FROM THIS DAY FORWARD, I ALONE SHAPE YOUR DESTINY." · "THE WAY OF THE JEDI FAILED YOU -- AS IT FAILED ME."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 16. Rates Cade: "GREAT RAW POWER BUT IT NEEDS FOCUS". p373 (#16 Claws)–p374 (#16 Claws)
-![p373](009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
-![p374 Krayt stops him; Cade heals Talon instead](009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
+![p373](../../notes/materials/009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
+![p374 Krayt stops him; Cade heals Talon instead](../../notes/materials/009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:242`
 
-- Note (summary from our notes, not a quotation): ![p373](009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
+- Note (summary from our notes, not a quotation): ![p373](../../notes/materials/009-legacy-book-1-panels/p373-krayt-great-raw-power-needs-focus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p373 — `p373-krayt-great-raw-power-needs-focus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:245`
@@ -1977,16 +1941,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:245`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 17. Strategy for turning Cade; Wyyrlok questions him. p382 (#17 Claws), p395 (#17 Claws)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
-![p395](009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
+![p382](../../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p395](../../notes/materials/009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:249`
 
-- Note (summary from our notes, not a quotation): ![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+- Note (summary from our notes, not a quotation): ![p382](../../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p382 — `p382-krayt-wyyrlok-cade-will-cure-me.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:252`
 
-- Note (summary from our notes, not a quotation): ![p395](009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
+- Note (summary from our notes, not a quotation): ![p395](../../notes/materials/009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p395 — `p395-krayt-served-with-jedi-who-played-dark.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:255`
@@ -1995,45 +1959,45 @@ Our notes: `notes/materials/009-legacy-book-1.md:255`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 18. Embrace of Pain origin; XoXaan; Vergere; Vong body. p392 (#17 Claws), p399 (#18 Claws)–p406 (#18 Claws)
-![p392 XoXaan](009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
-![p399 Cade in the Embrace of Pain](009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
-![p402 Vergere](009-legacy-book-1-panels/p402-vergere-coral-seeds-hett.jpg)
-![p403 Krayt's vision](009-legacy-book-1-panels/p403-krayt-body-enhanced-vision.jpg)
-![p404](009-legacy-book-1-panels/p404-krayt-sith-many-but-one-bane.jpg)
-![p405 Hett breaks out and destroys the Vong ship](009-legacy-book-1-panels/p405-hett-escapes-vong-ship-destroyed.jpg)
+![p392 XoXaan](../../notes/materials/009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
+![p399 Cade in the Embrace of Pain](../../notes/materials/009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
+![p402 Vergere](../../notes/materials/009-legacy-book-1-panels/p402-vergere-coral-seeds-hett.jpg)
+![p403 Krayt's vision](../../notes/materials/009-legacy-book-1-panels/p403-krayt-body-enhanced-vision.jpg)
+![p404](../../notes/materials/009-legacy-book-1-panels/p404-krayt-sith-many-but-one-bane.jpg)
+![p405 Hett breaks out and destroys the Vong ship](../../notes/materials/009-legacy-book-1-panels/p405-hett-escapes-vong-ship-destroyed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:259`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:528`
 
-- Note (summary from our notes, not a quotation): ![p392 XoXaan](009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
+- Note (summary from our notes, not a quotation): ![p392 XoXaan](../../notes/materials/009-legacy-book-1-panels/p392-xoxaan-first-sith-lords.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p392 XoXaan — `p392-xoxaan-first-sith-lords.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:262`
 
-- Note (summary from our notes, not a quotation): ![p399 Cade in the Embrace of Pain](009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
+- Note (summary from our notes, not a quotation): ![p399 Cade in the Embrace of Pain](../../notes/materials/009-legacy-book-1-panels/p399-krayt-embrace-of-pain-vader-palpatine.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p399 Cade in the Embrace of Pain — `p399-krayt-embrace-of-pain-vader-palpatine.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:265`
 
-- Note (summary from our notes, not a quotation): ![p402 Vergere](009-legacy-book-1-panels/p402-vergere-coral-seeds-hett.jpg)
+- Note (summary from our notes, not a quotation): ![p402 Vergere](../../notes/materials/009-legacy-book-1-panels/p402-vergere-coral-seeds-hett.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p402 Vergere — `p402-vergere-coral-seeds-hett.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:268`
 
-- Note (summary from our notes, not a quotation): ![p403 Krayt's vision](009-legacy-book-1-panels/p403-krayt-body-enhanced-vision.jpg)
+- Note (summary from our notes, not a quotation): ![p403 Krayt's vision](../../notes/materials/009-legacy-book-1-panels/p403-krayt-body-enhanced-vision.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p403 Krayt's vision — `p403-krayt-body-enhanced-vision.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:271`
 
-- Note (summary from our notes, not a quotation): ![p404](009-legacy-book-1-panels/p404-krayt-sith-many-but-one-bane.jpg)
+- Note (summary from our notes, not a quotation): ![p404](../../notes/materials/009-legacy-book-1-panels/p404-krayt-sith-many-but-one-bane.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p404 — `p404-krayt-sith-many-but-one-bane.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:274`
 
-- Note (summary from our notes, not a quotation): ![p405 Hett breaks out and destroys the Vong ship](009-legacy-book-1-panels/p405-hett-escapes-vong-ship-destroyed.jpg)
+- Note (summary from our notes, not a quotation): ![p405 Hett breaks out and destroys the Vong ship](../../notes/materials/009-legacy-book-1-panels/p405-hett-escapes-vong-ship-destroyed.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p405 Hett breaks out and destroys the Vong ship — `p405-hett-escapes-vong-ship-destroyed.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:277`
 
-- Note (summary from our notes, not a quotation): ![p406](009-legacy-book-1-panels/p406-krayt-born-stasis-wyyrlok-caedus.jpg)
+- Note (summary from our notes, not a quotation): ![p406](../../notes/materials/009-legacy-book-1-panels/p406-krayt-born-stasis-wyyrlok-caedus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p406 — `p406-krayt-born-stasis-wyyrlok-caedus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:280`
@@ -2046,10 +2010,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:284`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 19. Needs healing. p408 (#18 Claws)
-![p408](009-legacy-book-1-panels/p408-krayt-need-healing-nihl-slew-village.jpg)
+![p408](../../notes/materials/009-legacy-book-1-panels/p408-krayt-need-healing-nihl-slew-village.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:286`
 
-- Note (summary from our notes, not a quotation): ![p408](009-legacy-book-1-panels/p408-krayt-need-healing-nihl-slew-village.jpg)
+- Note (summary from our notes, not a quotation): ![p408](../../notes/materials/009-legacy-book-1-panels/p408-krayt-need-healing-nihl-slew-village.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p408 — `p408-krayt-need-healing-nihl-slew-village.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:289`
@@ -2058,28 +2022,28 @@ Our notes: `notes/materials/009-legacy-book-1.md:289`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 20. Kills Hosk Trey'lis. p412 (#18 Claws)–p415 (#18 Claws)
-![p412](009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
-![p413](009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
-![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
-![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+![p412](../../notes/materials/009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
+![p413](../../notes/materials/009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
+![p414 Krayt runs Hosk through](../../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+![p415](../../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:293`
 
-- Note (summary from our notes, not a quotation): ![p412](009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
+- Note (summary from our notes, not a quotation): ![p412](../../notes/materials/009-legacy-book-1-panels/p412-krayt-kill-hosk-or-die.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p412 — `p412-krayt-kill-hosk-or-die.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:296`
 
-- Note (summary from our notes, not a quotation): ![p413](009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
+- Note (summary from our notes, not a quotation): ![p413](../../notes/materials/009-legacy-book-1-panels/p413-cade-threats-mean-squat-krayt-strike-me-down.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p413 — `p413-cade-threats-mean-squat-krayt-strike-me-down.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:299`
 
-- Note (summary from our notes, not a quotation): ![p414 Krayt runs Hosk through](009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
+- Note (summary from our notes, not a quotation): ![p414 Krayt runs Hosk through](../../notes/materials/009-legacy-book-1-panels/p414-krayt-kills-hosk.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p414 Krayt runs Hosk through — `p414-krayt-kills-hosk.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:302`
 
-- Note (summary from our notes, not a quotation): ![p415](009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
+- Note (summary from our notes, not a quotation): ![p415](../../notes/materials/009-legacy-book-1-panels/p415-krayt-no-one-dies-for-me-lie.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p415 — `p415-krayt-no-one-dies-for-me-lie.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:305`
@@ -2088,40 +2052,40 @@ Our notes: `notes/materials/009-legacy-book-1.md:305`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 21. Final confrontation with Cade (Krayt doesn't win, by the plot's design). p417 (#18 Claws), p420 (#18 Claws), p427 (#19 Claws)–p438 (#19 Claws)
-![p420](009-legacy-book-1-panels/p420-krayt-destroy-nihl-revenge.jpg)
-![p429 Krayt's dual red sabers vs Cade](009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
-![p430](009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
-![p433 Corde shoots Krayt](009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
-![p434](009-legacy-book-1-panels/p434-krayt-sheer-drop-doom-galaxy.jpg)
-![p438](009-legacy-book-1-panels/p438-krayt-break-him-use-him-kill-him.jpg)
+![p420](../../notes/materials/009-legacy-book-1-panels/p420-krayt-destroy-nihl-revenge.jpg)
+![p429 Krayt's dual red sabers vs Cade](../../notes/materials/009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
+![p430](../../notes/materials/009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
+![p433 Corde shoots Krayt](../../notes/materials/009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
+![p434](../../notes/materials/009-legacy-book-1-panels/p434-krayt-sheer-drop-doom-galaxy.jpg)
+![p438](../../notes/materials/009-legacy-book-1-panels/p438-krayt-break-him-use-him-kill-him.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:309`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:523`; `notes/materials/009-legacy-book-1.md:1097`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:531`
 
-- Note (summary from our notes, not a quotation): ![p420](009-legacy-book-1-panels/p420-krayt-destroy-nihl-revenge.jpg)
+- Note (summary from our notes, not a quotation): ![p420](../../notes/materials/009-legacy-book-1-panels/p420-krayt-destroy-nihl-revenge.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p420 — `p420-krayt-destroy-nihl-revenge.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:312`
 
-- Note (summary from our notes, not a quotation): ![p429 Krayt's dual red sabers vs Cade](009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
+- Note (summary from our notes, not a quotation): ![p429 Krayt's dual red sabers vs Cade](../../notes/materials/009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p429 Krayt's dual red sabers vs Cade — `p429-krayt-thousands-killed-blood-of-vader.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:315`
 
-- Note (summary from our notes, not a quotation): ![p430](009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
+- Note (summary from our notes, not a quotation): ![p430](../../notes/materials/009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p430 — `p430-cade-sees-krayt-sick-vong-growth.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:318`
 
-- Note (summary from our notes, not a quotation): ![p433 Corde shoots Krayt](009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
+- Note (summary from our notes, not a quotation): ![p433 Corde shoots Krayt](../../notes/materials/009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p433 Corde shoots Krayt — `p433-corde-blasts-krayt-get-away-from-my-son.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:321`
 
-- Note (summary from our notes, not a quotation): ![p434](009-legacy-book-1-panels/p434-krayt-sheer-drop-doom-galaxy.jpg)
+- Note (summary from our notes, not a quotation): ![p434](../../notes/materials/009-legacy-book-1-panels/p434-krayt-sheer-drop-doom-galaxy.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p434 — `p434-krayt-sheer-drop-doom-galaxy.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:324`
 
-- Note (summary from our notes, not a quotation): ![p438](009-legacy-book-1-panels/p438-krayt-break-him-use-him-kill-him.jpg)
+- Note (summary from our notes, not a quotation): ![p438](../../notes/materials/009-legacy-book-1-panels/p438-krayt-break-him-use-him-kill-him.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p438 — `p438-krayt-break-him-use-him-kill-him.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:327`
@@ -2142,7 +2106,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:331`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 22. Handbook (p448). See the Handbook section: "Ancient and deadly…"; "now there is only the One"; "even Krayt cannot live forever".
-![p448 handbook: Krayt and Wyyrlok](009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
+![p448 handbook: Krayt and Wyyrlok](../../notes/materials/009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:333`
 
 > HEALING ME LIKE YOU DID WAS NOT SOMETHING YOU WERE TAUGHT -- YOU DID THAT BY INSTINCT ALONE! *(p106)*
@@ -2162,7 +2126,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:495`
 Context: 15. HEALS TWO PEOPLE AT ONCE: accelerated coral seeds (Jariah and Deliah). p343 (#15 Claws)–p346 (#15 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:502`
 
-- Note (summary from our notes, not a quotation): ![p345 Maladi and Krayt react](009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
+- Note (summary from our notes, not a quotation): ![p345 Maladi and Krayt react](../../notes/materials/009-legacy-book-1-panels/p345-krayt-see-limit-of-his-power.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p345 Maladi and Krayt react — `p345-krayt-see-limit-of-his-power.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:508`
@@ -2171,7 +2135,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:508`
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Our notes: `notes/materials/009-legacy-book-1.md:512`
 
-- Note (summary from our notes, not a quotation): ![p374 Krayt stops him; Cade heals Talon instead](009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
+- Note (summary from our notes, not a quotation): ![p374 Krayt stops him; Cade heals Talon instead](../../notes/materials/009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p374 Krayt stops him; Cade heals Talon instead — `p374-krayt-teach-you-cade-heals-talon.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:523`
@@ -2215,12 +2179,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:580`
 > IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Becomes a Hand by killing her master on command. p53 (#2 Broken)–p55 (#2 Broken) (see Krayt 6). Talon: "BECAUSE YOU ORDERED IT, MASTER." · "I AM HONORED, MASTER." Later (p389): "HAD MY TEACHER NOT DEEMED ME READY, HE WOULD HAVE BLOCKED MY ATTACK. INSTEAD, HE EMBRACED DEATH SO THAT I MIGHT TOUCH THE DARK SIDE." · "KRAYT'S SITH ORDER IS MORE THAN TWO." · "IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH."
-![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
-![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p389](../../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+![p53 Krayt orders Talon to kill Ruyn](../../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+![p55 Krayt names Darth Talon](../../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:589`
 
-- Note (summary from our notes, not a quotation): ![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+- Note (summary from our notes, not a quotation): ![p389](../../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p389 — `p389-talon-killed-master-krayt-order-more-than-two.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:591`
@@ -2233,16 +2197,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:595`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 2. Kills Imperial Knight Elke Vetter (Socorro). p56 (#2 Broken)–p57 (#2 Broken)
-![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
-![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+![p56 Talon vs Elke Vetter](../../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+![p57 Talon finishes Elke](../../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:597`
 
-- Note (summary from our notes, not a quotation): ![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+- Note (summary from our notes, not a quotation): ![p56 Talon vs Elke Vetter](../../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p56 Talon vs Elke Vetter — `p056-talon-vs-imperial-knight-elke-vetter.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:600`
 
-- Note (summary from our notes, not a quotation): ![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+- Note (summary from our notes, not a quotation): ![p57 Talon finishes Elke](../../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p57 Talon finishes Elke — `p057-talon-kills-elke-vetter.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:603`
@@ -2255,28 +2219,28 @@ Our notes: `notes/materials/009-legacy-book-1.md:607`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 3. Fights Wolf Sazen and Shado Vao at once; lightning on Wolf; disarms Marasiah. p91 (#5 Broken)–p96 (#5 Broken)
-![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
-![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
-![p94](009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
-![p96 Talon deflects bolts and Force-disarms the guns](009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
+![p92 Talon vs Wolf and Shado](../../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+![p93 Talon Force-pushes Shado and lightnings Wolf](../../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+![p94](../../notes/materials/009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
+![p96 Talon deflects bolts and Force-disarms the guns](../../notes/materials/009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:609`
 
-- Note (summary from our notes, not a quotation): ![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+- Note (summary from our notes, not a quotation): ![p92 Talon vs Wolf and Shado](../../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p92 Talon vs Wolf and Shado — `p092-talon-vs-wolf-and-shado.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:612`
 
-- Note (summary from our notes, not a quotation): ![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+- Note (summary from our notes, not a quotation): ![p93 Talon Force-pushes Shado and lightnings Wolf](../../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p93 Talon Force-pushes Shado and lightnings Wolf — `p093-talon-lightning-wolf-nihl-marked-you.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:615`
 
-- Note (summary from our notes, not a quotation): ![p94](009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
+- Note (summary from our notes, not a quotation): ![p94](../../notes/materials/009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p94 — `p094-talon-marasiah-merely-a-student.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:618`
 
-- Note (summary from our notes, not a quotation): ![p96 Talon deflects bolts and Force-disarms the guns](009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
+- Note (summary from our notes, not a quotation): ![p96 Talon deflects bolts and Force-disarms the guns](../../notes/materials/009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p96 Talon deflects bolts and Force-disarms the guns — `p096-talon-force-disarms-blasters.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:621`
@@ -2289,11 +2253,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:625`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 4. Talon vs Shado (Vendaxa second round). p117 (#6 Broken), p127 (#7 Broken), p134 (#7 Broken)–p135 (#7 Broken)
-![p127 Shado vs Talon (Force clash)](009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
-![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+![p127 Shado vs Talon (Force clash)](../../notes/materials/009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
+![p135](../../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:627`
 
-- Note (summary from our notes, not a quotation): ![p127 Shado vs Talon (Force clash)](009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
+- Note (summary from our notes, not a quotation): ![p127 Shado vs Talon (Force clash)](../../notes/materials/009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p127 Shado vs Talon (Force clash) — `p127-shado-vs-talon-assumes-you-can-kill-me.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:630`
@@ -2305,29 +2269,29 @@ Our notes: `notes/materials/009-legacy-book-1.md:634`
 > Nihl: "THERE IS NOTHING LEFT FOR YOU BUT TO REPORT YOUR FAILURE TO OUR MASTER." · "AFTER ALL, THIS MISSION WAS UNDER YOUR COMMAND. AND WHEN HE KILLS YOU, HE WILL AGAIN HAVE ONLY ONE 'HAND,' WHICH WILL BE SUFFICIENT."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 5. Nihl blames Talon for the failure; Krayt spares her. p135 (#7 Broken), p146 (#7 Broken)
-![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
-![p146](009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
+![p135](../../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+![p146](../../notes/materials/009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:636`
 
-- Note (summary from our notes, not a quotation): ![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+- Note (summary from our notes, not a quotation): ![p135](../../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p135 — `p135-nihl-talon-report-failure.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:639`
 
 - Note (summary from our notes, not a quotation): 6. (Withdrawn 2026-10-21.) The p261 execution of Governor Dorn was listed here by mistake. The killer is Darth Maladi (white-dotted headdress, no lekku; Krayt then addresses her). See Darth Maladi below.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+![p261 Maladi kills Dorn](../../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:643`
 
 > I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 7. Trainer and jailer of Cade; ambushes and floors him; struck down by him. See Cade 13, 16–18 and 20 (p328 (#14 Claws)–p331 (#14 Claws), p371 (#16 Claws)–p381 (#17 Claws), p411 (#18 Claws), p418 (#18 Claws)). Talon to Krayt (p395): "I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD."
-![p328](009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
-![p331](009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p395](009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
-![p411](009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
+![p328](../../notes/materials/009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
+![p331](../../notes/materials/009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
+![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p381 dark-side self-healing](../../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p395](../../notes/materials/009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
+![p411](../../notes/materials/009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:646`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): across the book, Talon vs Cade comes out roughly even. She wins the ambush (p411) and in training (p381), the first temple fight is a draw interrupted by Nihl, and he wins the cuffed surprise blast (p372) and the p418 strike. The framing makes her his superior in skill, while he out-classes her in raw power.
@@ -2359,7 +2323,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:723`
 Note (our notes, around the quote): Lineage. p406 (#18 Claws): "THE FIRST DARTH WYYRLOK BECAME THE INSTRUMENT OF MY WILL IN THOSE DAYS". Handbook (p448): "The third Sith Master to hold this name, Wyyrlok is Krayt's second-in-command, a master of ritual lore of the Sith and of all the ways of the dark side."
 Our notes: `notes/materials/009-legacy-book-1.md:726`; `notes/materials/009-legacy-book-1.md:1123`
 
-- Note (summary from our notes, not a quotation): ![p448 handbook: Krayt and Wyyrlok](009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
+- Note (summary from our notes, not a quotation): ![p448 handbook: Krayt and Wyyrlok](../../notes/materials/009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p448 handbook: Krayt and Wyyrlok — `p448-handbook-krayt-wyyrlok.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:729`
@@ -2391,21 +2355,21 @@ Our notes: `notes/materials/009-legacy-book-1.md:761`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Senses Jedi through their emptiness meditation; orders the bombardment of Ossus. p376 (#16 Claws), p398 (#17 Claws)
-![p376](009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
-![p398 Stryfe orders the bombardment](009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
+![p376](../../notes/materials/009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
+![p398 Stryfe orders the bombardment](../../notes/materials/009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:765`
 
-- Note (summary from our notes, not a quotation): ![p376](009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
+- Note (summary from our notes, not a quotation): ![p376](../../notes/materials/009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p376 — `p376-sazen-sith-eyes-stryfe-whisper.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:769`
 
-- Note (summary from our notes, not a quotation): ![p398 Stryfe orders the bombardment](009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p398 Stryfe orders the bombardment](../../notes/materials/009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p398 Stryfe orders the bombardment — `p398-stryfe-smell-jedi-bombard-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:772`
 
-- Note (summary from our notes, not a quotation): ![p450 handbook: Stryfe](009-legacy-book-1-panels/p450-handbook-stryfe-fist.jpg)
+- Note (summary from our notes, not a quotation): ![p450 handbook: Stryfe](../../notes/materials/009-legacy-book-1-panels/p450-handbook-stryfe-fist.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p450 handbook: Stryfe — `p450-handbook-stryfe-fist.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:775`
@@ -2514,10 +2478,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:1073`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels. POV: Darth Krayt.
 Note (our notes, around the quote): Darth Krayt: "THE LIVING LORD OF THE SITH" (p84); "DARTH KRAYT, LORD OF THE SITH, EMPEROR OF THE GALAXY" (Talon, p371). Rule of One: "INSTEAD OF TWO THERE IS NOW ONLY ONE -- THE SITH ORDER ITSELF." (p82). "WE ARE NOT [equals]" (p346).
-![p82 Bane's holocron: "PRETENDER"](009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
-![p84 Krayt dispels the holocron images with lightning](009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
-![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p82 Bane's holocron: "PRETENDER"](../../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p84 Krayt dispels the holocron images with lightning](../../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+![p346](../../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+![p371](../../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1079`
 
 > MY OWN PERSONAL ASSASSIN … YOU WILL TAKE ORDERS ONLY FROM ME *(p55)*
@@ -2552,7 +2516,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1111`
 >
 > Following the disastrous Battle of Caamas, the Galactic Alliance was defeated. Many Jedi were subsequently killed in the Massacre of Ossus and the rest scattered as fugitives throughout the galaxy. Within days of the defeat, the Sith also moved against Emperor Fel. He, however, escaped into exile, and the Moff Council's supposed victory was turned into defeat as the Sith's leader, Darth Krayt, proclaimed himself emperor . . .
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; The State of the Galaxy (p445–446).
-![p445 Handbook: The State of the Galaxy](009-legacy-book-1-panels/p445-handbook-state-of-the-galaxy.jpg) *(p445)*
+![p445 Handbook: The State of the Galaxy](../../notes/materials/009-legacy-book-1-panels/p445-handbook-state-of-the-galaxy.jpg) *(p445)*
 Our notes: `notes/materials/009-legacy-book-1.md:1118`
 
 > Ancient and deadly, Darth Krayt spent nearly a century secretly building a new Sith Order on Korriban. The Rule of Two is gone, banished by the new Sith leader. Now there is only the One—the Sith Order itself.
@@ -2564,7 +2528,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1118`
 > Darth Krayt's legion of Sith now outnumber the Jedi. *(The art shows Krayt with Force lightning crackling from his hands.)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Darth Krayt (p448).
 Note (our notes, around the quote): Darth Krayt (p448): "Ancient and deadly, Darth Krayt spent nearly a century secretly building a new Sith Order on Korriban. The Rule of Two is gone, banished by the new Sith leader. Now there is only the One—the Sith Order itself." · "Known only to a few is the fact that Krayt was once known as A'Sharrad Hett [sic], a Jedi who had survived the Clone Wars and who had become embittered about the fate of the galaxy. Hett discovered—and learned from—an ancient Sith holocron on the planet Korriban; was captured, tortured, and transformed by the Yuuzhan Vong; and finally emerged as Darth Krayt. A combination of stasis chambers and Sith meditation has allowed him to artificially extend his life, but even Krayt cannot live forever." · "Krayt seeks someone who can heal him of the Yuuzhan Vong infection which is slowly overtaking his body. But thus far his efforts to rid himself of the Vong parasites have failed." · "Darth Krayt's legion of Sith now outnumber the Jedi." (The art shows Krayt with Force lightning crackling from his hands.)
-![p448 handbook: Krayt and Wyyrlok](009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
+![p448 handbook: Krayt and Wyyrlok](../../notes/materials/009-legacy-book-1-panels/p448-handbook-krayt-wyyrlok.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1122`
 
 > One of Krayt's 'Hands,' she exists s[UNCLEAR] her Master's will. Talon's tattoos w[UNCLEAR] ritual combat and inscribed by Krayt hi[UNCLEAR].
@@ -2577,7 +2541,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1124`
 
 > The other of Darth Krayt's Hands, this Nagai warrior was a warlord on his home planet before joining the Sith. He is the top enforcer of Krayt's will out in the galaxy at large, and within the Sith Order itself.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Darth Nihl (p449).
-![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+![p449 handbook: Talon, Nihl, Maladi](../../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1125`; `suspect-insight/debates/067-daegen-lok-vs-wolf-sazen.md:329`
 
 > Perhaps the most brutal of Darth Krayt's followers, Darth Stryfe is raw power personified, waiting to be unleashed. He is currently Krayt's Fist, the head of the military, a position that Nihl once occupied before becoming a Hand.
@@ -2602,7 +2566,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1129`
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Our notes: `notes/materials/009-legacy-book-1.md:1146`
 
-- Note (summary from our notes, not a quotation): ![p480 Charest pin-up: Cade vs Krayt](009-legacy-book-1-panels/p480-gallery-charest-cade-vs-krayt.jpg)
+- Note (summary from our notes, not a quotation): ![p480 Charest pin-up: Cade vs Krayt](../../notes/materials/009-legacy-book-1-panels/p480-gallery-charest-cade-vs-krayt.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p480 Charest pin-up: Cade vs Krayt — `p480-gallery-charest-cade-vs-krayt.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1171`
@@ -2660,7 +2624,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1191`
 - Note (summary from our notes, not a quotation): Counter: not in Book 1. In Claws the clash is a few panels long. Krayt is restrained by need ("YOU WANT ME ALIVE. I CAN FEEL THAT", p346), and Corde's blaster plus a jump out of the window end it. Cite the later issues (Legacy #27 and on) for any prolonged-duel claim.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Cade "held off Krayt" (legends-feats.md, debate #81).
-![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+![p346](../../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1192`
 
 - Note (summary from our notes, not a quotation): Con: untrained Cade's reflex push blows her away (p98), and she's ambushed twice by Cade. A fair Book 1 placement is ≥ an individual Jedi Knight or Imperial Knight, below the Krayt/Wyyrlok tier.
@@ -2671,8 +2635,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1197`
 - Note (summary from our notes, not a quotation): Counter: Draco himself has no named-Sith win in Book 1, and Krayt wiped out a Knight squad (p166). The cortosis gauntlet is a real antagonist-neutralising tool, but its effect lasts only "THE NEXT FEW MINUTES" (p257).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Imperial Knights (debate #17, Draco).
-![p166 Krayt vs a squad of Imperial Knights (wordless)](009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
-![p257 cortosis gauntlet](009-legacy-book-1-panels/p257-fel-cortosis-gauntlet-krul-lightning.jpg)
+![p166 Krayt vs a squad of Imperial Knights (wordless)](../../notes/materials/009-legacy-book-1-panels/p166-krayt-kills-imperial-knights-melee.jpg)
+![p257 cortosis gauntlet](../../notes/materials/009-legacy-book-1-panels/p257-fel-cortosis-gauntlet-krul-lightning.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1200`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt / A'Sharad Hett, Darth Talon, Darth Nihl, Darth Wyyrlok (III), Darth Maladi, Darth Stryfe, Darth Maleval, Darth Krul, Darth Ruyn.
@@ -2687,7 +2651,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1224`
 
 - Note (summary from our notes, not a quotation): Related owner material: 008 (Caedus; Krayt's "CAEDUS… WAS A SITH LIGHTNING ROD" line, p406, is relevant to the Caedus/Krayt link).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p406](009-legacy-book-1-panels/p406-krayt-born-stasis-wyyrlok-caedus.jpg)
+![p406](../../notes/materials/009-legacy-book-1-panels/p406-krayt-born-stasis-wyyrlok-caedus.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1227`
 
 ## Star Wars: Legacy—War #1–6 (2010–11): power-scaling notes with panels
@@ -2739,7 +2703,7 @@ Our notes: `notes/materials/010-legacy-war.md:57`
 > NOW I AM BACK. MY BETRAYER WILL KNOW MY REVENGE. THEN, I WILL BEND THE GALAXY TO MY WILL.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Krayt's memories (p2–4). Krayt narrates his lives as Tusken, Jedi Master A'Sharad Hett and Darth Krayt, Karness Muur's words, his defeat and Wyyrlok's betrayal. He describes "HEALING MYSELF WITH THE FORCE" inside the stasis field until Talon released him: "NOW I AM BACK. MY BETRAYER WILL KNOW MY REVENGE. THEN, I WILL BEND THE GALAXY TO MY WILL."
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
 Our notes: `notes/materials/010-legacy-war.md:84`
 
 - Note (summary from our notes, not a quotation): Cade's vision and the *Mynock* (p5–9). In a recurring vision Cade, with orange Sith eyes, cuts down Sazen and Rawk for Krayt (p5). He tells Sazen and the crew he must kill Krayt (p6–9).
@@ -2748,17 +2712,17 @@ Our notes: `notes/materials/010-legacy-war.md:85`
 
 - Note (summary from our notes, not a quotation): The Temple assault (p15–23). Krayt's group cuts through the guards (p15–16). Krayt kills Wyyrlok in a duel of lightning, telekinesis, sabers and a mind attack (p17–22). Krayt demotes Veed from Regent to Grand Admiral and declares war (p23).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p17 "I WOULD ACCEPT NONE. BEGIN."](010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p17 "I WOULD ACCEPT NONE. BEGIN."](../../notes/materials/010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
+![p18 lightning web, rocks stopped and thrown back](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p20 Wyyrlok's mind attack](../../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p22 double impalement](../../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:88`
 
 - Note (summary from our notes, not a quotation): Krayt's war (p25–26). Veed reports on the war. Krayt senses "A SPY WITHIN THE EMPIRE" and gives Veed the hunt.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p26 Krayt: I SENSE THERE IS A SPY WITHIN THE EMPIRE](010-legacy-war-panels/p026-krayt-senses-spy-within-empire.jpg) *(p26)*
+![p26 Krayt: I SENSE THERE IS A SPY WITHIN THE EMPIRE](../../notes/materials/010-legacy-war-panels/p026-krayt-senses-spy-within-empire.jpg) *(p26)*
 Our notes: `notes/materials/010-legacy-war.md:92`
 
 - Note (summary from our notes, not a quotation): The *Darklight* (p27–31). Cade and Sazen board the cruiser at Falleen, with Rogue Squadron and the *Mynock* in support. Cade drops "BOOM" down the reactor and records a message for Krayt, and the ship falls.
@@ -2771,7 +2735,7 @@ Our notes: `notes/materials/010-legacy-war.md:99`
 
 - Note (summary from our notes, not a quotation): Krayt's war room (p60). Krayt orders the Taivas attack and tells Nihl the Moffs "ARE MERELY BAIT".
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p60 "THEY ARE MERELY BAIT"](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
 Our notes: `notes/materials/010-legacy-war.md:106`
 
 > LORD KRAYT, WE'RE TRAPPED!
@@ -2797,34 +2761,34 @@ Our notes: `notes/materials/010-legacy-war.md:127`
 
 - Note (summary from our notes, not a quotation): Cade vs Krayt (p116–118). Krayt and Nihl by holo ("AS YOU FORESAW") (p116). Talon is slammed into a pillar (p116). Cade arrives, and Krayt pushes, catches and lightnings him (p117–118).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
-![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:131`
 
 - Note (summary from our notes, not a quotation): Dark transfer (p122–125). Krayt pours dark-transfer lightning into Cade, who sees the vision (p122–123). Cade rises, calls his saber and stabs Krayt (p124–125).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:134`
 
 > WALKIN' IN THE SKY...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Into the sun (p128–131). Cade still hears Krayt's voice and takes the body to the sun with Corde's locket (a tracer). Krayt's voice claims "TRANSFER ESSENCE". Luke's ghost speaks. The body burns and Cade drifts in space, "WALKIN' IN THE SKY...".
-![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
-![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
-![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
+![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
+![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](../../notes/materials/010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
 Our notes: `notes/materials/010-legacy-war.md:137`
 
 > (p2) "I REMEMBER SEARING PAIN, EVERY NERVE FIBER ABLAZE...THEN DARKNESS AND COLD. I REMEMBER THE YAWNING ABYSS OF THE GRAVE WAITING TO SUCK ME ALL THE WAY IN." · "I REMEMBER A SECRET I LEARNED THAT OPENED THE GALAXY TO ME ANEW, AND MADE ME SEE IT DIFFERENTLY. ASTRIDE THE GRAVE, I SAW THE TRUTH OF THINGS AND FOUGHT MY WAY BACK." · (p3) "I REMEMBER THE WORDS SPOKEN BY KARNESS MUUR, AN ANCIENT SITH LORD, THAT OPENED MY EYES -- FAR MORE THAN HE INTENDED." · "I BARELY REMEMBER WRAPPING MYSELF IN THE FORCE TO SURVIVE." · (p4) "I DIMLY REMEMBER DRIVING MY CONSCIOUSNESS, MY LIFE FORCE, DEEP WITHIN MYSELF, SEEKING SAFE HAVEN, WHILE MY BODY SERVED AS A PROP TO ANOTHER'S AMBITION." · "I REMEMBER HEALING MYSELF WITH THE FORCE, GRADUALLY BECOMING STRONGER, MY BODY PROTECTED AND TRAPPED BY THE STASIS FIELD." · "I REMEMBER THE FAITHFUL ONE, TALON, NEAR ENOUGH TO HEAR THE THOUGHTS I PROJECTED INTO HER MIND..." · "...TO SENSE MY LIFE FORCE AND RELEASE ME." · "NOW I AM BACK. MY BETRAYER WILL KNOW MY REVENGE. THEN, I WILL BEND THE GALAXY TO MY WILL."
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 1. Rebirth: his own account of how he survived Wyyrlok. p2–4 (#1)
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
 Our notes: `notes/materials/010-legacy-war.md:148`
 
 > Darth Krayt ... has been reborn from his near death at the hands of Darth Wyyrlok; he has sent ripples through the Force so that all Sith know he is alive and well.
@@ -2832,11 +2796,11 @@ Our notes: `notes/materials/010-legacy-war.md:148`
 >
 > What no one knows is that Darth Krayt is returning better than before, with a new army of unquestionably obedient Sith Troopers, and a powerful armada of new ships . . .
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Recap narration (p1). POV: Recap narration, about Darth Krayt / A'Sharad Hett.
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
-![p1 recap/credits page (#1), 138 ABY](010-legacy-war-panels/p001-recap-138-aby.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p1 recap/credits page (#1), 138 ABY](../../notes/materials/010-legacy-war-panels/p001-recap-138-aby.jpg)
 Our notes: `notes/materials/010-legacy-war.md:151`; `notes/materials/010-legacy-war.md:1027`
 
-- Note (summary from our notes, not a quotation): ![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+- Note (summary from our notes, not a quotation): ![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p4 — `p004-krayt-rebirth-captions.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:153`
@@ -2866,113 +2830,113 @@ Our notes: `notes/materials/010-legacy-war.md:159`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 2. Group assault on the Temple of the Sith. p15–16 (#1)
-![p15 Coruscant; Krayt and his Sith reach the throne room](010-legacy-war-panels/p015-krayt-sith-reach-throne-room.jpg) *(p15)*
-![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
+![p15 Coruscant; Krayt and his Sith reach the throne room](../../notes/materials/010-legacy-war-panels/p015-krayt-sith-reach-throne-room.jpg) *(p15)*
+![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](../../notes/materials/010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
 Our notes: `notes/materials/010-legacy-war.md:161`
 
 - Note (summary from our notes, not a quotation): On the page: Krayt (hooded), Talon, Nihl and two masked Sith troopers cut through red-saber Sith guards on the steps. One trooper holds a Zabrak Sith by the throat in a blue-glowing gauntlet.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
+![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](../../notes/materials/010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
 Our notes: `notes/materials/010-legacy-war.md:166`
 
 > (p17) Wyyrlok: "YOU ARE DEAD! I KILLED YOU!" · Krayt: "YOU BETRAYED ME, LORD WYYRLOK. OF ALL WHO FOLLOWED ME, YOU WERE THE CLOSEST." · Wyyrlok: "I BEHAVED AS ANY SITH WOULD. AS A SITH SHOULD -- KILLING HIS MASTER. I OFFER NO APOLOGY." · Krayt: "I WOULD ACCEPT NONE. BEGIN." · (p20) Wyyrlok: "YOU ARE STRONG, LORD KRAYT -- BUT I KNOW WHO YOU ARE, WHO YOU WERE, AND WHERE YOUR WEAKNESSES LIE!" · (p21) "I AM GREATER THAN YOU EVER SUSPECTED. AND YOU ARE SO MUCH LESS THAN YOU BELIEVED YOURSELF TO BE." · Krayt: "I HAVE BECOME SO MUCH MORE THAN YOU CAN KNOW, TRAITOR. THIS IS NOT *YOUR* TRAP -- IT IS *MINE*, AND IT IS TIME YOU DIED."
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 3. KRAYT vs DARTH WYYRLOK III: Krayt wins by impalement. p17–22 (#1)
-![p17 "I WOULD ACCEPT NONE. BEGIN."](010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p17 "I WOULD ACCEPT NONE. BEGIN."](../../notes/materials/010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
+![p18 lightning web, rocks stopped and thrown back](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p20 Wyyrlok's mind attack](../../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p22 double impalement](../../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:169`
 
 - Note (summary from our notes, not a quotation): p18 (wordless, five tiers).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p18 lightning web, rocks stopped and thrown back](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
 Our notes: `notes/materials/010-legacy-war.md:173`
 
 - Note (summary from our notes, not a quotation): Both fire Force lightning and the streams meet.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:174`
 
 - Note (summary from our notes, not a quotation): Krayt stands grinning, arms flung wide, inside a web of lightning that fills the panel. He takes it on his bare hands and body with no visible damage.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:176`
 
 - Note (summary from our notes, not a quotation): Wyyrlok swings a stream of rubble at him with telekinesis.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:178`
 
 - Note (summary from our notes, not a quotation): Krayt stops the rocks with an open hand in a blue Force glow.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:180`
 
 - Note (summary from our notes, not a quotation): Krayt flings them back and Wyyrlok shields inside a white Force sphere.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p18 (wordless, five tiers).
-![p18 Krayt vs Wyyrlok: lightning and hurled rocks](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
+![p18 Krayt vs Wyyrlok: lightning and hurled rocks](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg) *(p18)*
 Our notes: `notes/materials/010-legacy-war.md:182`
 
 - Note (summary from our notes, not a quotation): p19 (wordless). Krayt now has two blades, red and green. There are about four saber beats: a leap-in that Wyyrlok blocks overhead, Wyyrlok spinning over him on the stairs, a red-on-green bind, and Krayt's spin-past with the green arc crossing Wyyrlok's torso. No wound is drawn.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p19 Krayt with two blades vs Wyyrlok (wordless)](010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
+![p19 Krayt with two blades vs Wyyrlok (wordless)](../../notes/materials/010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
 Our notes: `notes/materials/010-legacy-war.md:184`
 
 > WE HID YOUR WEAKNESS!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p20–21: Wyyrlok's mind attack. A blue Force sphere and a montage of Krayt's past: Tusken life, "THE LOSS OF THE ONE YOU LOVED", Order 66 and the Vong torture. Krayt crouches clutching his head while Wyyrlok stands over him with his saber raised. Wyyrlok's "WE HID YOUR WEAKNESS!" speech comes here.
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p20 Wyyrlok's mind attack](../../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
 Our notes: `notes/materials/010-legacy-war.md:186`
 
 - Note (summary from our notes, not a quotation): p22 (wordless). Krayt drives both blades through Wyyrlok's chest at close range. They exit his back while Wyyrlok's own saber is still raised. Witnesses are Calixte, Veed and Stryfe. Stryfe catches the dying Wyyrlok, then kneels to Krayt.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p17 "I WOULD ACCEPT NONE. BEGIN."](010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p17 "I WOULD ACCEPT NONE. BEGIN."](../../notes/materials/010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
+![p18 lightning web, rocks stopped and thrown back](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p20 Wyyrlok's mind attack](../../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p22 double impalement](../../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:187`
 
 > I WOULD ACCEPT NONE. BEGIN.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p17.
-Note (our notes, around the quote): ![p17 "I WOULD ACCEPT NONE. BEGIN."](010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
+Note (our notes, around the quote): ![p17 "I WOULD ACCEPT NONE. BEGIN."](../../notes/materials/010-legacy-war-panels/p017-krayt-wyyrlok-begin.jpg)
 (*Panel: p17 — `p017-krayt-wyyrlok-begin.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:189`
 
-- Note (summary from our notes, not a quotation): ![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+- Note (summary from our notes, not a quotation): ![p18 lightning web, rocks stopped and thrown back](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p18 — `p018-krayt-wyyrlok-lightning-rocks.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:192`
 
-- Note (summary from our notes, not a quotation): ![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+- Note (summary from our notes, not a quotation): ![p20 Wyyrlok's mind attack](../../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p20 — `p020-wyyrlok-mind-attack.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:195`
 
-- Note (summary from our notes, not a quotation): ![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+- Note (summary from our notes, not a quotation): ![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p21 — `p021-krayt-this-is-not-your-trap.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:198`
 
-- Note (summary from our notes, not a quotation): ![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+- Note (summary from our notes, not a quotation): ![p22 double impalement](../../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p22 — `p022-krayt-impales-wyyrlok.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:201`
 
-- Note (summary from our notes, not a quotation): ![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+- Note (summary from our notes, not a quotation): ![p22 Stryfe kneels to the victor](../../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p22 — `p022-stryfe-kneels.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:204`
@@ -2992,7 +2956,7 @@ Our notes: `notes/materials/010-legacy-war.md:209`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The lightning exchange starts as a clash. On the page Krayt then takes the whole torrent on his body grinning (p18), which supports Wookieepedia's Krayt page ("blocked the barrage with his bare hands") over the Wyyrlok page's "rivaled".
 Context: Scaling (ANALYSIS):
-![p18 lightning web, rocks stopped and thrown back](010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
+![p18 lightning web, rocks stopped and thrown back](../../notes/materials/010-legacy-war-panels/p018-krayt-wyyrlok-lightning-rocks.jpg)
 Our notes: `notes/materials/010-legacy-war.md:210`
 
 > hacking apart his horns
@@ -3006,32 +2970,32 @@ Our notes: `notes/materials/010-legacy-war.md:211`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 4. Krayt's war aims. p23 (#1), p46 (#2), p60 (#3)
-![p23 "I WILL BRING CHAOS. IT IS TIME FOR WAR."](010-legacy-war-panels/p023-krayt-i-will-bring-chaos.jpg)
-![p46 "YOU WILL BEND, YOU WILL BREAK... BUT FIRST -- YOU MUST DIE."](010-legacy-war-panels/p046-krayt-you-must-die.jpg)
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p23 "I WILL BRING CHAOS. IT IS TIME FOR WAR."](../../notes/materials/010-legacy-war-panels/p023-krayt-i-will-bring-chaos.jpg)
+![p46 "YOU WILL BEND, YOU WILL BREAK... BUT FIRST -- YOU MUST DIE."](../../notes/materials/010-legacy-war-panels/p046-krayt-you-must-die.jpg)
+![p60 "THEY ARE MERELY BAIT"](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
 Our notes: `notes/materials/010-legacy-war.md:213`; `notes/materials/010-legacy-war.md:1035`; `notes/materials/010-legacy-war.md:1001`
 
 > I WILL BRING CHAOS. IT IS TIME FOR WAR.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p23.
-Note (our notes, around the quote): ![p23 "I WILL BRING CHAOS. IT IS TIME FOR WAR."](010-legacy-war-panels/p023-krayt-i-will-bring-chaos.jpg)
+Note (our notes, around the quote): ![p23 "I WILL BRING CHAOS. IT IS TIME FOR WAR."](../../notes/materials/010-legacy-war-panels/p023-krayt-i-will-bring-chaos.jpg)
 (*Panel: p23 — `p023-krayt-i-will-bring-chaos.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:216`
 
 > YOU WILL BEND, YOU WILL BREAK... BUT FIRST -- YOU MUST DIE.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p46.
-Note (our notes, around the quote): ![p46 "YOU WILL BEND, YOU WILL BREAK... BUT FIRST -- YOU MUST DIE."](010-legacy-war-panels/p046-krayt-you-must-die.jpg)
+Note (our notes, around the quote): ![p46 "YOU WILL BEND, YOU WILL BREAK... BUT FIRST -- YOU MUST DIE."](../../notes/materials/010-legacy-war-panels/p046-krayt-you-must-die.jpg)
 (*Panel: p46 — `p046-krayt-you-must-die.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:219`
 
-- Note (summary from our notes, not a quotation): ![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+- Note (summary from our notes, not a quotation): ![p60 "THEY ARE MERELY BAIT"](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p60 — `p060-krayt-moffs-are-bait.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:222`
 
 - Note (summary from our notes, not a quotation): 5. Foresight and strategy: Taivas, the troopers, and Omega Red as his own trap.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 Krayt: the Moffs are bait](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg) *(p60)*
+![p60 Krayt: the Moffs are bait](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg) *(p60)*
 Our notes: `notes/materials/010-legacy-war.md:225`
 
 - Note (summary from our notes, not a quotation): Taivas: p26 (#2), p45 (#2), p69 (#3), p75 (#4).
@@ -3042,7 +3006,7 @@ Our notes: `notes/materials/010-legacy-war.md:227`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p26).
 Note (our notes, around the quote): (p26) "I SENSE THERE IS A SPY WITHIN THE EMPIRE." He sensed it but did not identify Calixte; Chalk named her (p38).
 Context: Taivas: p26 (#2), p45 (#2), p69 (#3), p75 (#4).
-![p26 Krayt: I SENSE THERE IS A SPY WITHIN THE EMPIRE](010-legacy-war-panels/p026-krayt-senses-spy-within-empire.jpg) *(p26)*
+![p26 Krayt: I SENSE THERE IS A SPY WITHIN THE EMPIRE](../../notes/materials/010-legacy-war-panels/p026-krayt-senses-spy-within-empire.jpg) *(p26)*
 Our notes: `notes/materials/010-legacy-war.md:228`
 
 > TAIVAS. I AM PLEASED, DARTH TALON.
@@ -3051,7 +3015,7 @@ Our notes: `notes/materials/010-legacy-war.md:228`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p45) Krayt.
 Context: Taivas: p26 (#2), p45 (#2), p69 (#3), p75 (#4).
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:230`
 
 > LORD KRAYT, WE'RE TRAPPED!
@@ -3059,7 +3023,7 @@ Our notes: `notes/materials/010-legacy-war.md:230`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p69) Veed.
 Label in our notes: Krayt (holo, smiling): "YES."
 Context: Taivas: p26 (#2), p45 (#2), p69 (#3), p75 (#4).
-![p69 "WE'RE TRAPPED!" / "YES."](010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
+![p69 "WE'RE TRAPPED!" / "YES."](../../notes/materials/010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:231`
 
 > ...THEY TURN THE BATTLE TO OUR FAVOR.
@@ -3069,7 +3033,7 @@ Our notes: `notes/materials/010-legacy-war.md:231`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Coruscant: p116 (#6). Nihl.
 Note (our notes, around the quote): Coruscant: p116 (#6). Nihl: "...THEY TURN THE BATTLE TO OUR FAVOR." "AS YOU FORESAW." Krayt: "YES, NIHL...AS I FORESAW..."
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:233`
 
 - Note (summary from our notes, not a quotation): The toxin: p108 (#5), p123 (#6).
@@ -3079,9 +3043,9 @@ Our notes: `notes/materials/010-legacy-war.md:234`
 > PROMISES KEPT. IT IS DONE, MY LORD KRAYT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Maladi, alone after giving Fel the canister.
 Context: The toxin: p108 (#5), p123 (#6).
-![p69 "WE'RE TRAPPED!" / "YES."](010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
-![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+![p69 "WE'RE TRAPPED!" / "YES."](../../notes/materials/010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:235`
 
 > I PROMISED CHAOS AND I BROUGHT IT HERE. A SITH TOXIN -- CREATED BY DARTH MALADI AND DISPERSED BY THE EMPEROR'S OWN HAND TO KILL ME -- WAS THE VECTOR.
@@ -3089,12 +3053,12 @@ Our notes: `notes/materials/010-legacy-war.md:235`
 > BUT THE TOXIN WILL NOT KILL SITH. BY DESIGN, WE ARE IMMUNE TO IT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Krayt in Cade's vision. POV: Krayt in Cade's vision.
 Context: The toxin: p108 (#5), p123 (#6).
-![p69 "WE'RE TRAPPED!" / "YES."](010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
-![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+![p69 "WE'RE TRAPPED!" / "YES."](../../notes/materials/010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:236`
 
-- Note (summary from our notes, not a quotation): ![p69 "WE'RE TRAPPED!" / "YES."](010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
+- Note (summary from our notes, not a quotation): ![p69 "WE'RE TRAPPED!" / "YES."](../../notes/materials/010-legacy-war-panels/p069-we-are-trapped-krayt-yes.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p69 — `p069-we-are-trapped-krayt-yes.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:238`
@@ -3102,13 +3066,13 @@ Our notes: `notes/materials/010-legacy-war.md:238`
 > UNLEASH THE SITH TROOPERS.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p75.
-Note (our notes, around the quote): ![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+Note (our notes, around the quote): ![p75 "UNLEASH THE SITH TROOPERS."](../../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
 (*Panel: p75 — `p075-krayt-unleash-sith-troopers.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:241`
 
 > PROMISES KEPT. IT IS DONE, MY LORD KRAYT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p108 Maladi.
-Note (our notes, around the quote): ![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+Note (our notes, around the quote): ![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 (*Panel: p108 — `p108-maladi-promises-kept-lord-krayt.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:244`
 
@@ -3125,24 +3089,24 @@ Our notes: `notes/materials/010-legacy-war.md:249`
 - Note (summary from our notes, not a quotation): Omega Red would have worked too had Fel launched it. On the page Draco stops the launch (p126), so the toxin was never released, and the "dispersed" Coruscant of p123 is part of the vision.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Scaling (ANALYSIS):
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:250`
 
 > (p117) Cade: "KRAYT." · Krayt: "SKYWALKER." · (p118) "SURRENDER." · "YOU FLED OUR LAST FIGHT -- AND I AM SO MUCH MORE NOW THAN I WAS THEN." · Cade: "YOU AND DARTH SCHUTTA TAUGHT ME A COUPLE OF TRICKS WHILE I WAS HERE. I'M A FAST LEARNER." "AND I MAKE THINGS UP AS I GO." · Krayt: "IT DOESN'T MATTER." · "AS WITH YOUR ALLIES, YOUR BATTLE HERE WAS LOST BEFORE YOU ARRIVED. SURRENDER." · Cade: "NOT GONNA HAPPEN!"
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 6. KRAYT vs CADE: the final duel. p116–125 (#6). Full sequence under "Krayt's fate in detail" below.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:252`
 
 - Note (summary from our notes, not a quotation): On p118, Krayt's palm blast throws Cade across the chamber. Krayt catches Cade's flying saber attack bare-handed in a violet Force sphere, then unleashes torrential Force lightning, which Cade leaps through.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
-![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:256`
 
-- Note (summary from our notes, not a quotation): ![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
+- Note (summary from our notes, not a quotation): ![p117 "KRAYT." / "SKYWALKER."](../../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p117 — `p117-krayt-skywalker.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:258`
@@ -3150,7 +3114,7 @@ Our notes: `notes/materials/010-legacy-war.md:258`
 > SURRENDER. YOU FLED OUR LAST FIGHT...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p118.
-Note (our notes, around the quote): ![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+Note (our notes, around the quote): ![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
 (*Panel: p118 — `p118-krayt-surrender-lightning.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:261`; `notes/materials/010-legacy-war.md:1184`
 
@@ -3158,13 +3122,13 @@ Our notes: `notes/materials/010-legacy-war.md:261`; `notes/materials/010-legacy-
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 7. Dark transfer turned into a weapon; Krayt credits Cade as the source. p122 (#6)
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:264`; `notes/materials/010-legacy-war.md:967`
 
 > YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p122.
-Note (our notes, around the quote): ![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+Note (our notes, around the quote): ![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
 (*Panel: p122 — `p122-krayt-you-showed-me-dark-transfer.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:267`
 
@@ -3197,15 +3161,15 @@ Our notes: `notes/materials/010-legacy-war.md:274`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 8. The vision: Cade reborn dark; Krayt's "until I become you". p123 (#6)
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
 Our notes: `notes/materials/010-legacy-war.md:276`
 
 - Note (summary from our notes, not a quotation): In the vision Cade appears red-eyed and feral, then as a split face that is half Krayt and half Cade, with Krayt's red iris in Cade's eye.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
 Our notes: `notes/materials/010-legacy-war.md:279`
 
-- Note (summary from our notes, not a quotation): ![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+- Note (summary from our notes, not a quotation): ![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p123 — `p123-vision-reborn-promised-chaos.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:281`
@@ -3214,20 +3178,20 @@ Our notes: `notes/materials/010-legacy-war.md:281`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 9. Krayt dies: stabbed by Cade's recalled saber; his voice and "TRANSFER ESSENCE"; body burned in the sun. p124–131 (#6). See "Krayt's fate in detail".
-![p125 I AM A JEDI; Cade stabs Krayt](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
-![p131 Krayt's body burns in the sun; Cade adrift](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
+![p125 I AM A JEDI; Cade stabs Krayt](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p131 Krayt's body burns in the sun; Cade adrift](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
 Our notes: `notes/materials/010-legacy-war.md:284`; `notes/materials/010-legacy-war.md:978`; `notes/materials/017-dissecting-legacy-4-krayt-vs-yoda.md:47`
 
 - Note (summary from our notes, not a quotation): The page spells it "ANDEDDU" (zoom-checked).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:290`
 
 > LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p130.
-Note (our notes, around the quote): ![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+Note (our notes, around the quote): ![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 (*Panel: p130 — `p130-transfer-essence-luke-ghost.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:292`
 
@@ -3235,24 +3199,24 @@ Our notes: `notes/materials/010-legacy-war.md:292`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 10. Talon slammed into a pillar. p116 (#6)
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:295`
 
 - Note (summary from our notes, not a quotation): Talon is yanked backwards and slammed into a stone pillar. The next panel is Cade's green saber igniting. The page does not show who threw her (UNCLEAR). Wookieepedia says Krayt lifted and slammed her. The panel order (Talon thrown, then Cade's blade lit, then Cade's entrance on p117) could equally be read as Cade's push. Don't cite it as a Krayt feat.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
 Our notes: `notes/materials/010-legacy-war.md:298`
 
-- Note (summary from our notes, not a quotation): ![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+- Note (summary from our notes, not a quotation): ![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p116 — `p116-talon-hurled-into-pillar.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:300`
 
 - Note (summary from our notes, not a quotation): 11. The Sith troopers' link to Krayt (his creation). p94 (#5), p127 (#6). See the Sith troopers entry.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](../../notes/materials/010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:303`
 
 - Note (summary from our notes, not a quotation): 12. Not found in War #1–6. None of the following appears anywhere in this file. Check *Legacy* #50 (not in this file) before using any of them.
@@ -3266,7 +3230,7 @@ Our notes: `notes/materials/010-legacy-war.md:308`
 
 - Note (summary from our notes, not a quotation): The p1 recap only *reports* the ripples.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p1 recap/credits page (#1), 138 ABY](010-legacy-war-panels/p001-recap-138-aby.jpg)
+![p1 recap/credits page (#1), 138 ABY](../../notes/materials/010-legacy-war-panels/p001-recap-138-aby.jpg)
 Our notes: `notes/materials/010-legacy-war.md:310`
 
 > (p5) Krayt (vision): "YOU ARE READY. KILL THEM!" · Cade (orange Sith eyes): "I SERVE, MASTER." · (p6) "I KILLED YOU, MASTER! AGAIN! EVERY MEDITATION OR DREAM -- I ALWAYS KILL YOU! I BECOME KRAYT'S TOOL!" · Sazen: "THERE IS NO DEATH, CADE. YOU HAVE TO PURGE FEAR FROM YOUR HEART -- FIND PEACE WITH WHAT YOU CANNOT KNOW. IF YOUR HEART IS GREEDY FOR VICTORY, YOU CANNOT WIN." · T'ra Saa (holo): "...NO JEDI, NOT EVEN THE COUNCIL OF MEDITATION, SENSED THE EVENT HE CLAIMS TO HAVE FELT." · Sazen: "NO JEDI SENSED WHAT YOU SAY YOU DID, CADE. ONLY THE SITH -- AND YOU." · (p7) "IN THE PAST YEAR, CADE, YOU'VE BEEN AS WILLING TO USE THE DARK SIDE AS YOU HAVE THE LIGHT SIDE OF THE FORCE. ... YOU ARE OPEN -- NO, MORE THAN OPEN -- YOU ARE DRAWN TO THE SAME DARKNESS WHERE THE SITH ABIDE!"
@@ -3298,8 +3262,8 @@ Our notes: `notes/materials/010-legacy-war.md:445`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 13. CADE vs KRAYT: survives the push, the sphere-catch, lightning and dark transfer; rejects Krayt and stabs him. p117–125 (#6)
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
-![p125 I AM A JEDI; Cade stabs Krayt](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p125 I AM A JEDI; Cade stabs Krayt](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg) *(p125)*
 Our notes: `notes/materials/010-legacy-war.md:449`
 
 - Note (summary from our notes, not a quotation): p124: Cade crouches beside Krayt, with his own hilt lying on the floor. Krayt's saber is lowered and he is addressing Cade as "APPRENTICE".
@@ -3331,12 +3295,12 @@ Our notes: `notes/materials/010-legacy-war.md:470`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 14. Krayt's voice; flies the body into the sun; Luke's ghost; hibernation trance. p128–135 (#6)
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
-![p131 Krayt's body burns in the sun; Cade adrift](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
-![p128 Krayt's voice; Cade takes the body to the sun](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg) *(p128)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p131 Krayt's body burns in the sun; Cade adrift](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg) *(p131)*
+![p128 Krayt's voice; Cade takes the body to the sun](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg) *(p128)*
 Our notes: `notes/materials/010-legacy-war.md:472`; `notes/materials/010-legacy-war.md:980`; `notes/materials/010-legacy-war.md:979`
 
-- Note (summary from our notes, not a quotation): ![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
+- Note (summary from our notes, not a quotation): ![p131 Krayt's body burns; Cade adrift: "CAN'T FEEL YOU"](../../notes/materials/010-legacy-war-panels/p131-krayt-burns-cade-adrift.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p131 — `p131-krayt-burns-cade-adrift.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:483`
@@ -3377,7 +3341,7 @@ Our notes: `notes/materials/010-legacy-war.md:529`
 
 - Note (summary from our notes, not a quotation): He blocks and binds through about four saber beats (p19).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p19 Krayt with two blades vs Wyyrlok (wordless)](010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
+![p19 Krayt with two blades vs Wyyrlok (wordless)](../../notes/materials/010-legacy-war-panels/p019-krayt-two-blades-vs-wyyrlok.jpg) *(p19)*
 Our notes: `notes/materials/010-legacy-war.md:530`
 
 - Note (summary from our notes, not a quotation): He attacks Krayt's mind with a vision of his past (p20–21), and is impaled by both blades while standing over a crouching Krayt (p22).
@@ -3386,43 +3350,43 @@ Our notes: `notes/materials/010-legacy-war.md:532`
 
 - Note (summary from our notes, not a quotation): Released Krayt (p4), joins the Temple assault (p15–16), and plays the illusion "Marasiah" in Havok's breaking of Draco (p44–45, orange Sith eye).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:546`
 
 - Note (summary from our notes, not a quotation): The Wheel (p56–58, #3): delivers Draco ("A LIFELINE BETWEEN EXISTENCE AND DEATH FOR THE JEDI"). Unsensed by Cade. Force-pushes three crew at once, spars briefly, kicks Cade and leaves.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+![p57 Cade vs Talon on the Wheel](../../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
 Our notes: `notes/materials/010-legacy-war.md:547`
 
 > CADE IS... STRONGER... THAN HE WAS.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Coruscant tunnels (p110–114, #5): loses to Cade's pushes. "CADE IS... STRONGER... THAN HE WAS."
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:548`
 
 - Note (summary from our notes, not a quotation): p116 (#6): slammed into a pillar (thrower not shown).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:549`
 
 - Note (summary from our notes, not a quotation): Not in War: Talon going into hiding under Nihl's orders (W). On the page she does not appear after p116.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:550`
 
 - Note (summary from our notes, not a quotation): p60 (#3): loads the trooper ships; the Moffs are not to know.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p60 "THEY ARE MERELY BAIT"](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
 Our notes: `notes/materials/010-legacy-war.md:554`
 
 - Note (summary from our notes, not a quotation): p75 (#4): "ALL UNITS -- ATTACK."
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
 Our notes: `notes/materials/010-legacy-war.md:555`
 
 - Note (summary from our notes, not a quotation): p116 (#6): "AS YOU FORESAW."
@@ -3432,7 +3396,7 @@ Our notes: `notes/materials/010-legacy-war.md:556`
 > "ALL SHIPS. LORD KRAYT IS DEAD. WITHDRAW FROM CORUSCANT AND ASSEMBLE AT THE PREDETERMINED COORDINATES." · "DESTROY ALL SITH TROOPERS!"
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p127 (#6): on his bridge, cuts down a Sith trooper with his red saber.
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:557`
 
 - Note (summary from our notes, not a quotation): p134 (#6), Korriban:
@@ -3443,9 +3407,9 @@ Our notes: `notes/materials/010-legacy-war.md:559`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; A red-masked Sith reports. POV: A red-masked Sith reports, about Darth Krayt / A'Sharad Hett.
 Note (our notes, around the quote): A red-masked Sith reports: "THOSE ON KORRIBAN WHO COULD EVACUATE HAVE DONE SO, MY LORD. THOSE WHO COULD NOT ARE DEAD." The Sith is not named on the page; the look matches Havok's metal mask on p14, and Wookieepedia says Havok.
 Context: p134 (#6), Korriban:
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:560`
 
 > WE WILL DISPERSE INTO THE GALAXY IN SMALL NUMBERS, MASKING OURSELVES, HIDING AMIDST THE ENEMY.
@@ -3459,20 +3423,20 @@ Our notes: `notes/materials/010-legacy-war.md:560`
 > HE LIVES IN US. THE SITH WILL PREVAIL.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Dispersal captions, then close-up.
 Context: p134 (#6), Korriban:
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:562`
 
 > LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p127 K'Kruhk warns of suicide runs; Nihl.
-Note (our notes, around the quote): ![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+Note (our notes, around the quote): ![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 (*Panel: p127 — `p127-kkruhk-nihl-krayt-is-dead.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:564`
 
 > HE LIVES IN US. THE SITH WILL PREVAIL.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p134 Nihl's dispersal speech.
-Note (our notes, around the quote): ![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+Note (our notes, around the quote): ![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 (*Panel: p134 — `p134-nihl-sith-will-prevail.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:567`; `notes/materials/010-legacy-war.md:985`
 
@@ -3499,9 +3463,9 @@ Our notes: `notes/materials/010-legacy-war.md:619`
 
 - Note (summary from our notes, not a quotation): 1. Arrival and power framing. p75–79 (#4)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
-![p77 Sith troopers advance](010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
-![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p77 Sith troopers advance](../../notes/materials/010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
+![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](../../notes/materials/010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
 Our notes: `notes/materials/010-legacy-war.md:629`
 
 > THE SITH FLEET WILL SHOOT THROUGH THEM TO GET TO THE ENEMY. *(Stryfe)*
@@ -3509,53 +3473,53 @@ Our notes: `notes/materials/010-legacy-war.md:629`
 > WE ARE UNDER HEAVY ATTACK BY NEW FIGHTERS! THEY'RE PENETRATING OUR SHIELDS!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p76). POV: Stryfe, about Darth Krayt / A'Sharad Hett.
 Label in our notes: Stryfe) · Starrunner
-![p76 LORD KRAYT'S DRAGONS; the Sith fleet shoots through](010-legacy-war-panels/p076-stryfe-sith-fleet-shoot-through.jpg) *(p76)*
+![p76 LORD KRAYT'S DRAGONS; the Sith fleet shoots through](../../notes/materials/010-legacy-war-panels/p076-stryfe-sith-fleet-shoot-through.jpg) *(p76)*
 Our notes: `notes/materials/010-legacy-war.md:630`
 
 > WE'RE TAKING FIRE FROM THEM!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p77) Geist.
 Note (our notes, around the quote): (p77) Geist: "WE'RE TAKING FIRE FROM THEM!" Imperial troops are shot down in the way.
-![p77 Sith troopers advance](010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
+![p77 Sith troopers advance](../../notes/materials/010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
 Our notes: `notes/materials/010-legacy-war.md:632`
 
 > YOU TIRE. I DON'T. YOU DIE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p89).
-![p89 "YOU TIRE. I DON'T. YOU DIE."](010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
+![p89 "YOU TIRE. I DON'T. YOU DIE."](../../notes/materials/010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
 Our notes: `notes/materials/010-legacy-war.md:634`
 
 > Scientist: "SUBJECT -- KNOWN AS A SITH TROOPER -- IS SENTIENT, AND APPEARS FULLY INTEGRATED INTO ITS ARMOR." · "IT IS EVIDENT THAT THE GRAFTING PROCESS BEGINS EARLY -- POSSIBLY FROM INFANCY." · "PORTALS AT THE TERMINATION OF THE GRAFTS SUGGEST THAT THEY CAN HARDWIRE THEMSELVES INTO THEIR FIGHTERS." · Trooper: "DEATH DOES NOT...MATTER. WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE. HIS WILL IS...OUR WILL. HIS LIFE...OUR LIFE." · "WE OBEY... LORD KRAYT!" · Hogrum: "DID YOU FEEL IT, YOUR MAJESTY? THE PURITY OF ITS HATE!" · (p104, a pilot) "SITH TROOPERS! THE WILL OF KRAYT IS OUR WILL! DESTROY!"
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 2. Autopsy: bred, grafted and linked to Krayt. p94–95 (#5)
-![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
-![p77 Sith troopers advance](010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
-![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
-![p95 "THE FINAL DECISION WILL BE MINE ALONE."](010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
+![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](../../notes/materials/010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
+![p77 Sith troopers advance](../../notes/materials/010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
+![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](../../notes/materials/010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
+![p95 "THE FINAL DECISION WILL BE MINE ALONE."](../../notes/materials/010-legacy-war-panels/p095-fel-toxin-final-decision-mine.jpg)
 Our notes: `notes/materials/010-legacy-war.md:636`
 
 > WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p94.
-Note (our notes, around the quote): ![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
+Note (our notes, around the quote): ![p94 "WE MILLIONS...SERVE LORD KRAYT...LINKED THROUGH THE DARK SIDE."](../../notes/materials/010-legacy-war-panels/p094-we-millions-linked-dark-side.jpg)
 (*Panel: p94 — `p094-we-millions-linked-dark-side.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:639`
 
-- Note (summary from our notes, not a quotation): ![p77 Sith troopers advance](010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
+- Note (summary from our notes, not a quotation): ![p77 Sith troopers advance](../../notes/materials/010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p77 — `p077-sith-troopers-arrive.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:642`
 
 > THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p79.
-Note (our notes, around the quote): ![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
+Note (our notes, around the quote): ![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](../../notes/materials/010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
 (*Panel: p79 — `p079-sith-unlike-any-we-have-faced.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:645`
 
 > Trooper: "LORD KRAYT IS DEAD! LONG LIVE THE SITH -- UHK!" (Shado runs him through) · K'Kruhk: "HIS SITH TROOPERS APPEAR TO HAVE GONE MAD!" "WATCH OUT FOR SUICIDE RUNS! KRAYT'S SITH TROOPERS MAY ATTEMPT TO FOLLOW HIM INTO THE ABYSS!"
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 3. Madness at Krayt's death. p127 (#6)
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:648`
 
 > culled from those strongest in the Force shortly after their birth *(ILS)*
@@ -3572,9 +3536,9 @@ Our notes: `notes/materials/010-legacy-war.md:653`
 - Note (summary from our notes, not a quotation): One on one: one trooper outlasted a tired Cade (p89) and fell to his lightning (p90). One chokes a Temple guard (p16). Shado kills one in a single thrust (p127), and others die to blaster fire on the *Mynock*'s ramp (p88).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Scaling (ANALYSIS):
-![p89 "YOU TIRE. I DON'T. YOU DIE."](010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p89 "YOU TIRE. I DON'T. YOU DIE."](../../notes/materials/010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:654`
 
 - Note (summary from our notes, not a quotation): Use them as an army-level threat, not a duelling rung above Talon or Nihl.
@@ -3596,7 +3560,7 @@ Our notes: `notes/materials/010-legacy-war.md:732`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; The page leaves the.
 Label in our notes: question open (cf. 009 p472
 Context: Luke (p130, #6): a glowing outline behind Cade in the cockpit. His only line: "WHAT IF KRAYT IS ONLY A VOICE IN YOUR OWN HEAD, CADE?" Cade answers: "WHAT IF *YOU* ARE?"
-![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
+![p130 Krayt's voice: TRANSFER ESSENCE; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg) *(p130)*
 Our notes: `notes/materials/010-legacy-war.md:869`
 
 > You are a Jedi. Time to choose your own path.
@@ -3607,8 +3571,8 @@ Our notes: `notes/materials/010-legacy-war.md:871`
 
 - Note (summary from our notes, not a quotation): Moffs: Fehlaaur becomes chief intelligence officer (p60). Geist apparently dies under fire from Krayt's ships (p77; his comm cuts off: "GEIST?!" "GEIST?!").
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
-![p77 Sith troopers advance](010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
+![p60 "THEY ARE MERELY BAIT"](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p77 Sith troopers advance](../../notes/materials/010-legacy-war-panels/p077-sith-troopers-arrive.jpg)
 Our notes: `notes/materials/010-legacy-war.md:916`
 
 - Note (summary from our notes, not a quotation): | 1 | Krayt + Talon + Nihl + 2 Sith troopers vs Temple guards | Temple steps | p15–16 (#1) | Guards cut down; a trooper chokes a Zabrak | Group assault |
@@ -3638,7 +3602,7 @@ Our notes: `notes/materials/010-legacy-war.md:951`
 
 - Note (summary from our notes, not a quotation): p116. Krayt with Nihl's holo: "AS YOU FORESAW." Talon is slammed into a pillar; the thrower is not shown.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:955`
 
 - Note (summary from our notes, not a quotation): p117. "KRAYT." / "SKYWALKER."
@@ -3648,13 +3612,13 @@ Our notes: `notes/materials/010-legacy-war.md:956`
 - Note (summary from our notes, not a quotation): Krayt: "SURRENDER." His palm blast throws Cade across the room.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels. POV: Krayt.
 Context: p118.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:958`
 
 - Note (summary from our notes, not a quotation): Cade's flying saber attack is caught on a violet Force sphere in Krayt's bare palm.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p118.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:961`
 
 > ...YOUR BATTLE HERE WAS LOST BEFORE YOU ARRIVED. SURRENDER.
@@ -3662,13 +3626,13 @@ Our notes: `notes/materials/010-legacy-war.md:961`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): "IT DOESN'T MATTER." Torrential Force lightning. "...YOUR BATTLE HERE WAS LOST BEFORE YOU ARRIVED. SURRENDER." Cade leaps through it: "NOT GONNA HAPPEN!"
 Context: p118.
-![p118 Krayt: SURRENDER; lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
+![p118 Krayt: SURRENDER; lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg) *(p118)*
 Our notes: `notes/materials/010-legacy-war.md:963`
 
 - Note (summary from our notes, not a quotation): p119–121. Cutaways to the fleet and the *Jagged Fel*.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
-![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
+![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](../../notes/materials/010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
 Our notes: `notes/materials/010-legacy-war.md:965`
 
 > THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL.
@@ -3676,7 +3640,7 @@ Our notes: `notes/materials/010-legacy-war.md:965`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Krayt grips Cade's head and pours lightning in. He names the "RED LINES OF FIRE -- THE SHATTERPOINTS" and credits Cade for "THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."
 Context: p122.
-![p122 Krayt's dark transfer into Cade](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg) *(p122)*
+![p122 Krayt's dark transfer into Cade](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg) *(p122)*
 Our notes: `notes/materials/010-legacy-war.md:968`
 
 > WE ARE ALIKE, YOU AND I...
@@ -3692,7 +3656,7 @@ Our notes: `notes/materials/010-legacy-war.md:970`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p123. The vision: Cade reborn dark; Coruscant dead under the toxin "DISPERSED BY THE EMPEROR'S OWN HAND"; "WE ARE IMMUNE TO IT"; "UNTIL I BECOME YOU"; "CAN YOU HEAL YOURSELF?"
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
 Our notes: `notes/materials/010-legacy-war.md:971`
 
 > APPRENTICE. DID YOU SEE?
@@ -3705,7 +3669,7 @@ Our notes: `notes/materials/010-legacy-war.md:971`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p124..
 Label in our notes: Cade: He calls his saber
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 Our notes: `notes/materials/010-legacy-war.md:972`
 
 > I AM A JEDI.
@@ -3714,13 +3678,13 @@ Our notes: `notes/materials/010-legacy-war.md:972`
 > AND YOU ARE NOT MY MASTER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p125..
 Note (our notes, around the quote): p125. "I AM A JEDI." Cade's blade goes into Krayt's chest, and Krayt falls with his red saber dropping. "AND YOU ARE NOT MY MASTER." Krayt lies smoking.
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:973`
 
 > A DARK SHUDDER IN THE FORCE! KRAYT IS DEAD!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p126. On the *Jagged Fel*, Draco senses it.
 Note (our notes, around the quote): p126. On the *Jagged Fel*, Draco senses it: "A DARK SHUDDER IN THE FORCE! KRAYT IS DEAD!"
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:974`
 
 > REPORTS ARE COMING IN THAT KRAYT IS DEAD!
@@ -3733,7 +3697,7 @@ Our notes: `notes/materials/010-legacy-war.md:975`
 
 - Note (summary from our notes, not a quotation): p128. "STONE COLD..." Cade hears Krayt's voice ("THAT HIS BODY WILL HEAL AND LIFE WILL RETURN") and takes the body.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
+![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](../../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
 Our notes: `notes/materials/010-legacy-war.md:976`
 
 > CAN'T HEAR YOU. CAN'T FEEL YOU.
@@ -3745,7 +3709,7 @@ Our notes: `notes/materials/010-legacy-war.md:981`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Shado. POV: Shado, about Darth Krayt / A'Sharad Hett.
 Label in our notes: Corde: "KRAYT WON'T RETURN."
 Context: p132–134.
-![p132 Fel's funeral; Shado and Corde](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg) *(p132)*
+![p132 Fel's funeral; Shado and Corde](../../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg) *(p132)*
 Our notes: `notes/materials/010-legacy-war.md:983`
 
 > KRAYT'S GONE. I'M FREE.
@@ -3781,12 +3745,12 @@ Our notes: `notes/materials/010-legacy-war.md:992`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The Wookieepedia claims that Krayt "vaporize[d]" stone pillars and dragged Cade "across and through a wall" are not on these pages. #6 has only 21 story pages, and p118→p122 could hide a missing page (see Gaps). The HP_Legend "starts inside, ends outside the Temple" framing fits the art: the chamber of p117–118 opens onto the balcony seen on p124–128. The distance isn't shown.
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
-![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:993`
 
 - Note (summary from our notes, not a quotation): Darth Krayt, Emperor. He returns and kills the usurper (#1).
@@ -3802,27 +3766,27 @@ Our notes: `notes/materials/010-legacy-war.md:1000`
 - Note (summary from our notes, not a quotation): Talon: "THE FAITHFUL ONE" (Krayt, p4).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels. POV: Talon, about Darth Krayt / A'Sharad Hett.
 Context: Hands: Talon and Nihl.
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1004`
 
 - Note (summary from our notes, not a quotation): Nihl runs the trooper fleet (p60, p75) and leads after Krayt ("MY LORD", p134).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Hands: Talon and Nihl.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p60 "THEY ARE MERELY BAIT"](../../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1005`
 
 - Note (summary from our notes, not a quotation): Maladi, Krayt's agent inside Bastion (p108).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Others:
-![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
+![p108 Maladi: "PROMISES KEPT. IT IS DONE, MY LORD KRAYT."](../../notes/materials/010-legacy-war-panels/p108-maladi-promises-kept-lord-krayt.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1009`
 
 > HIDE THE FLEET. THE SITH NOW WALK A DIFFERENT PATH. *(Nihl, p134)*
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; After Krayt. POV: Nihl, about Darth Krayt / A'Sharad Hett.
 Note (our notes, around the quote): After Krayt: "HIDE THE FLEET. THE SITH NOW WALK A DIFFERENT PATH." (Nihl, p134). They disperse to infiltrate.
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1012`; `notes/materials/010-legacy-war.md:561`
 
 > Cade Skywalker was the only non-Sith to feel Krayt's return.
@@ -3880,8 +3844,8 @@ Our notes: `notes/materials/010-legacy-war.md:1064`
 - Note (summary from our notes, not a quotation): Cade wins only after Krayt lowers his blade to address "APPRENTICE" (p124–125).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Counter:
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
-![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p125 "I AM A JEDI." / "AND YOU ARE NOT MY MASTER."](../../notes/materials/010-legacy-war-panels/p125-i-am-a-jedi-not-my-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1065`
 
 - Note (summary from our notes, not a quotation): Krayt used one blade; he dual-wielded against Wyyrlok.
@@ -3896,8 +3860,8 @@ Our notes: `notes/materials/010-legacy-war.md:1068`
 - Note (summary from our notes, not a quotation): The mind attack puts Krayt on his knees (p20–21).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Use:
-![p20 Wyyrlok's mind attack](010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
-![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
+![p20 Wyyrlok's mind attack](../../notes/materials/010-legacy-war-panels/p020-wyyrlok-mind-attack.jpg)
+![p21 "THIS IS NOT YOUR TRAP -- IT IS MINE"](../../notes/materials/010-legacy-war-panels/p021-krayt-this-is-not-your-trap.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1073`
 
 - Note (summary from our notes, not a quotation): Krayt then takes the whole torrent on his body grinning (p18).
@@ -3929,9 +3893,9 @@ Our notes: `notes/materials/010-legacy-war.md:1123`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): War: Cade's own count of dark-side heals (p53), and Krayt's "YOU SHOWED ME ... HOW TO HEAL... AND HOW TO KILL." (p122).
 Context: Dark transfer.
-![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
-![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+![p53 Corde's "TWO TRUTHS"](../../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1126`
 
 > 'NO ONE DIES FOR ME.' ISN'T THAT WHAT YOU SAID, SKYWALKER? *(Krayt, 013 p114)*
@@ -3939,7 +3903,7 @@ Our notes: `notes/materials/010-legacy-war.md:1126`
 > 'NO ONE DIES FOR ME.' WHAT A JOKE, HUH, BLUE? *(p91)*
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Hosk → Rawk..
 Note (our notes, around the quote): Hosk → Rawk. "'NO ONE DIES FOR ME.' ISN'T THAT WHAT YOU SAID, SKYWALKER?" (Krayt, 013 p114) is answered by Cade's own "'NO ONE DIES FOR ME.' WHAT A JOKE, HUH, BLUE?" (p91).
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1127`
 
 - Note (summary from our notes, not a quotation): Luke's ghost. 009 p472's handbook doubt is untouched. War's Luke only asks whether Krayt is a voice in Cade's head (p130).
@@ -4006,23 +3970,23 @@ Our notes: `notes/materials/010-legacy-war.md:1189`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Dark-transfer teacher: Krayt credits Cade (p122). The Battle of Coruscant page's "Muur showed him how to use and control it" is not on the page. Muur and Andeddu are credited only for essence transfer (p130).
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p130 "LORD ANDEDDU AND KARNESS MUUR SHOWED ME THE WAY OF TRANSFER ESSENCE"; Luke's ghost](../../notes/materials/010-legacy-war-panels/p130-transfer-essence-luke-ghost.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1197`
 
 > Killed and revived Cade
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): "Killed and revived Cade": the page shows "YOU ARE DYING", the vision, then Cade rising. No revival by Krayt is shown (p122–124).
-![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](010-legacy-war-panels/p124-my-eyes-are-open.jpg)
+![p122 "YOU SHOWED ME HOW TO USE THIS DARK TRANSFER OF ENERGY -- HOW TO HEAL... AND HOW TO KILL."](../../notes/materials/010-legacy-war-panels/p122-krayt-you-showed-me-dark-transfer.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p124 "MY EYES ARE OPEN... I KNOW MY PLACE IN THE GALAXY."](../../notes/materials/010-legacy-war-panels/p124-my-eyes-are-open.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1198`
 
 - Note (summary from our notes, not a quotation): Omega Red: never released. Draco strikes Fel down before the launch (p126). The dead Coruscant is part of Krayt's vision (p123).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p123 the vision: "UNTIL I BECOME YOU"](010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
-![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
+![p123 the vision: "UNTIL I BECOME YOU"](../../notes/materials/010-legacy-war-panels/p123-vision-reborn-promised-chaos.jpg)
+![p126 "ALL SITH WILL DIE!"; Draco strikes Fel down](../../notes/materials/010-legacy-war-panels/p126-fel-all-sith-will-die-draco-strikes.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1199`
 
 - Note (summary from our notes, not a quotation): Talon slammed by Krayt (W): the thrower is not shown (p116).
@@ -4059,12 +4023,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:9`
 
 - Note (summary from our notes, not a quotation): Darth Krayt and Emperor Roan Fel are the only CL 20 characters in the book, and both have Use the Force +22 (p170, p178; appendix p224). Krayt has better defences and attack (Ref 36/Fort 38/Will 38; lightsaber +24, 2d8+12 ×3 crit). Fel has more hit points (157 vs 135).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
-![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
-![p178 Roan Fel bio](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
-![p178 Emperor Roan Fel CL 20](011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
+![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p170 Darth Krayt CL 20 stat block](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+![p170 art: "Darth Krayt and Darth Wyyrlok"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+![p178 Roan Fel bio](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![p178 Emperor Roan Fel CL 20](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:30`
 
 > Arguably the most powerful man in the galaxy *(p169)*
@@ -4074,31 +4038,31 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:30`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Krayt's prose framing is maximal, but his body is failing.
 Note (our notes, around the quote): Krayt's prose framing is maximal, but his body is failing: "Arguably the most powerful man in the galaxy" (p169), and "The Yuuzhan Vong implants used to extend his life begin to consume him. Furthermore, healing trances and Force healing become less effective" (p170). A sidebar states flatly that he "is dying" (p54). His Con is 10, so his hp (135) is lower than Nihl's (145), Azard's and Draco's (137) and Fel's (157).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p54 sidebar: Darth Krayt "is dying"](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p054-dark-transfer.jpg)
-![p169 Krayt bio: "Arguably the most powerful man in the galaxy"](011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in-2.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p54 sidebar: Darth Krayt "is dying"](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-dark-transfer.jpg)
+![p169 Krayt bio: "Arguably the most powerful man in the galaxy"](../../notes/materials/011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in-2.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:31`
 
 > one of the most formidable lightsaber duelists in the Sith Order *(p173–174, p163)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Sith rank order by the numbers: Krayt CL20 (UtF +22) > Wyyrlok III CL16 (UtF +20) ≈ Nihl CL16 (UtF +15, but the best Sith duelist line after Krayt: +21, 2d10+10) > Azard CL15 / Maladi CL15 > Talon CL13 / Maleval CL13. Talon is statted barely above the generic Imperial Knight (CL11), despite the bio calling her "one of the most formidable lightsaber duelists in the Sith Order" (p173–174, p163).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-the-imperial-knights-learn-how-use.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-no-students-fail-out-of-imperial.jpg)
-![p163 generic Imperial Knight CL 11 (bio and stat)](011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
-![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-the-imperial-knights-learn-how-use.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-no-students-fail-out-of-imperial.jpg)
+![p163 generic Imperial Knight CL 11 (bio and stat)](../../notes/materials/011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
+![p173 Darth Nihl CL 16 (part 1)](../../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 
 > are immune to any Force effect that targets Will Defense (including Force powers and aspects of the Use the Force skill) *(p17, p34–35)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Yuuzhan Vong Force immunity is hard-coded: Vong.
 Note (our notes, around the quote): Yuuzhan Vong Force immunity is hard-coded: Vong "are immune to any Force effect that targets Will Defense (including Force powers and aspects of the Use the Force skill)" (p17, p34–35). Their bio-implants cost Force-users −1 UtF each, up to −5 (p68). Krayt carries two such implants (p170).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p17 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p017-vong-force-immunity.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p17 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p017-vong-force-immunity.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:41`
 
 > The Legacy era begins over 130 years after the Battle of Yavin.
@@ -4106,16 +4070,16 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:41`
 > AS I HAVE BENT THE FORCE TO MY WILL, SO I WILL BEND THE GALAXY AND IT WILL KNOW ORDER.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Intro (p6).
 Label in our notes: Krayt pull quote
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p6 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p006-the-legacy-era-begins-over-130.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p6 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p006-as-i-have-bent-the-force.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p6 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p006-the-legacy-era-begins-over-130.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p6 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p006-as-i-have-bent-the-force.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:58`
 
 > Darth Krayt seizes control of the Empire by force. He murders the man he believes is Emperor Roan Fel—a man later revealed to be a decoy *(p8)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Ascent of the Empire (130 ABY–136 ABY).
 Label in our notes: p8
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p008-timeline-caamas-ossus-ascent.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p008-the-jedi-scattered-across-the-galaxy.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p008-timeline-caamas-ossus-ascent.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p8 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p008-the-jedi-scattered-across-the-galaxy.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:71`
 
 > He rescinds the Rule of Two put in place by Darth Bane… He issues the Rule of One: the declaration that there will be one Sith Order composed of many Sith Lords and apprentices, all united under his rule *(p53)*
@@ -4134,10 +4098,10 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:71`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Krayt's Galactic Empire (One Sith plus the Moff Council)..
 Note (our notes, around the quote): Krayt's Galactic Empire (One Sith plus the Moff Council). "He rescinds the Rule of Two put in place by Darth Bane… He issues the Rule of One: the declaration that there will be one Sith Order composed of many Sith Lords and apprentices, all united under his rule" (p53). "Krayt is the supreme ruler of the Empire, and his word is law" (p157). "Krayt's Sith Lords operate in the open, unlike the secret apprentices and dark Force-users that served under Palpatine and Darth Vader" (p157). The Emperor's Hands sidebar (p158) says the title is "fought over among the Sith Lords viciously", partly to "get close enough to him to be in position should the Emperor stumble and the chance to strike him down arise. Rumors exist that Krayt has at least one non-Sith Hand, though none of the Sith Lords have ever seen or heard from such an individual."
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p53 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p053-rule-of-one.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p157 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p157-sith-lords-hierarchy.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p158 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p158-emperors-hands.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p53 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p053-lack-the-power-of-a-full.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p53 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p053-rule-of-one.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p157 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p157-sith-lords-hierarchy.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p158 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p158-emperors-hands.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p53 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p053-lack-the-power-of-a-full.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:85`
 
 > Roan Fel, the third Emperor of the Fel Dynasty
@@ -4150,14 +4114,14 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:85`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Roan Fel's Empire-in-exile and the Imperial Knights (Bastion). "Roan Fel, the third Emperor of the Fel Dynasty"; "the Empire-in-exile has managed to repel Darth Krayt's forces and foil attempts on the lives of both Roan Fel and his daughter, Marasiah" (p161). Bastion: "The planet's defensive systems are nigh impenetrable. Bastion is as well defended as Coruscant, which is why Darth Krayt has not launched an attack on the planet" (p107).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p161 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p107 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p107-bastion-defenses.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p161 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p161-roan-empire-in-exile.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p107 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p107-bastion-defenses.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:89`
 
 > Krayt is the supreme ruler of the Empire
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-Note (our notes, around the quote): ![p157 Sith Lords operate in the open; "Krayt is the supreme ruler of the Empire"](011-legacy-era-campaign-guide-panels/p157-sith-lords-hierarchy.jpg)
+Note (our notes, around the quote): ![p157 Sith Lords operate in the open; "Krayt is the supreme ruler of the Empire"](../../notes/materials/011-legacy-era-campaign-guide-panels/p157-sith-lords-hierarchy.jpg)
 (*Panel: p157 Sith Lords operate in the open; "Krayt is the supreme ruler of the Empire" — `p157-sith-lords-hierarchy.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:100`
 
@@ -4166,7 +4130,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:100`
 Context: | # | Character | Page | CL | Classes | UtF | Ref / Fort / Will | HP (Thr.) | DSS | Destiny / FP | Best lightsaber line |
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:116`
 
-- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
+- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](../../notes/materials/011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16) — `p224-appendix-cl-list-top.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:140`
@@ -4177,36 +4141,36 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:153`
 
 > Arguably the most powerful man in the galaxy, Darth Krayt is both the leader of the Sith and the reigning Emperor. Born and raised among Tusken Raiders on Tatooine, Darth Krayt's original name is A'Sharad Hett. Trained as a Jedi Knight, Hett manages to survive Order 66 by escaping his clone troopers and then slaying them.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in-2.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in-2.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:154`
 
 > …he clashes with Obi-Wan Kenobi… After his duel with Kenobi, Hett is forced to flee Tatooine in disgrace.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p169-he-clashes-with-obi-wan-kenobi.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-he-clashes-with-obi-wan-kenobi.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:156`
 
 > Oddly, time seems to pass more slowly for Hett than for the galaxy at large.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:158`
 
 > Hett allows Vergere's words to seduce him into surrendering to his agony and to the dark side.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; On Vergere, after his Vong capture.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:160`
 
 > …when it becomes clear that he cannot live long enough to fulfill his vision, Darth Krayt begins placing himself in stasis, issuing his orders telepathically while artificially extending his lifespan with a combination of healing trances and Yuuzhan Vong implants.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:162`
 
 > By the end of the Sith-Imperial War, Darth Krayt declares himself Emperor. However, his body suffers the effects of having lived far beyond its natural lifespan. The Yuuzhan Vong implants used to extend his life begin to consume him. Furthermore, healing trances and Force healing become less effective. Darth Krayt knows that his time is limited unless a new solution is found. At one point he captures Cade Skywalker, an heir to the Skywalker bloodline gifted with incredible healing powers, in the hopes that one day he will be able to harness those same powers to prolong his life.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Bio, continued (p170).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
-![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p170 Darth Krayt CL 20 stat block](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+![p170 art: "Darth Krayt and Darth Wyyrlok"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:165`
 
 - Note (summary from our notes, not a quotation): Stat block (p170, zoom-verified):
@@ -4251,14 +4215,14 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:177`
 
 > There is a secret known only to two individuals in the galaxy that could prove to be the catalyst for great change: Darth Krayt, Emperor of the galaxy and ruler of the Sith, is dying. However, this is not the only secret shared by Darth Krayt and Darth Wyyrlok.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Holocron sidebar (p54).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:180`; `notes/materials/011-legacy-era-campaign-guide.md:901`
 
 > killed by Darth Krayt personally, and he is but the first *(p137)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Gial Gahan.
 Label in our notes: p137
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:182`
 
 > In a rage, Lord Krayt orders the extermination of one-tenth of the Mon Calamari people *(p116)*
@@ -4268,22 +4232,22 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:182`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Mon Calamari.
 Label in our notes: p116). He (p191
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p116 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p116-mon-cal-one-tenth.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p191 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p191-decimates-the-mon-calamari-population.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p116 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p116-mon-cal-one-tenth.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p191 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p191-decimates-the-mon-calamari-population.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:184`
 
 > In a dramatic encounter, Darth Krayt kills Hosk in an attempt to turn Cade to the dark side *(p195)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Hosk.
 Label in our notes: p195
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:187`
 
 > A'Sharad Hett owned an early prototype R-28 starfighter, which he crashed before being captured by the Yuuzhan Vong
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; R-28 starfighter (p85).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p85 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p085-a-sharad-hett-owned-an-early.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p85 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p085-a-sharad-hett-owned-an-early.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:189`
 
 > I SHOULD NOT HAVE SURVIVED WHAT THE VONG DID TO ME—YET I ENDURED *(p222)*
@@ -4291,7 +4255,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:189`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p222
 Context: Pull quotes:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p222 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p222-krayt-quote-vong-endured.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p222 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p222-krayt-quote-vong-endured.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Krayt — entry/section: Pull quote.
 Also noted as: Darth Krayt — entry/section: Pull quote: ""I SHOULD NOT HAVE SURVIVED WHAT THE VONG DID TO ME—YET I ENDURED." —DARTH KRAYT" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.222
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:194`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:380`
@@ -4300,7 +4264,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:194`; `notes/materi
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Training droids: Krayt uses Roving Eye droids.
 Note (our notes, around the quote): Training droids: Krayt uses Roving Eye droids "to closely monitor the training of his disciples, including the brief training received by Cade Skywalker on Coruscant". He also keeps Aggressor-Series, IX-6 and LON-29 battle droids as training droids for his Sith (p70–78).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p74 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p074-to-closely-monitor-the-training-of.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p74 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p074-to-closely-monitor-the-training-of.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:198`
 
 - Note (summary from our notes, not a quotation): He is the book's apex: the highest attack, the highest Fort and Will, the most Force Points (10) and the only full set of five Force secrets.
@@ -4326,30 +4290,30 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:206`
 > Arguably the most powerful man in the galaxy
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p169 Krayt bio.
-Note (our notes, around the quote): ![p169 Krayt bio: "Arguably the most powerful man in the galaxy"](011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
+Note (our notes, around the quote): ![p169 Krayt bio: "Arguably the most powerful man in the galaxy"](../../notes/materials/011-legacy-era-campaign-guide-panels/p169-krayt-bio-most-powerful-man.jpg)
 (*Panel: p169 Krayt bio: "Arguably the most powerful man in the galaxy" — `p169-krayt-bio-most-powerful-man.jpg`*)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:208`
 
 > begin to consume him
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p170 Krayt bio: implants.
-Note (our notes, around the quote): ![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+Note (our notes, around the quote): ![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
 (*Panel: p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers" — `p170-krayt-bio-dying-cade-healing.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:212`
 
-- Note (summary from our notes, not a quotation): ![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+- Note (summary from our notes, not a quotation): ![p170 Darth Krayt CL 20 stat block](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p170 Darth Krayt CL 20 stat block — `p170-darth-krayt-stat-cl20.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:215`
 
-- Note (summary from our notes, not a quotation): ![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+- Note (summary from our notes, not a quotation): ![p170 art: "Darth Krayt and Darth Wyyrlok"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p170 art: "Darth Krayt and Darth Wyyrlok" — `p170-art-krayt-and-wyyrlok.jpg`*)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:218`
 
-- Note (summary from our notes, not a quotation): ![p54 sidebar: Darth Krayt "is dying"](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+- Note (summary from our notes, not a quotation): ![p54 sidebar: Darth Krayt "is dying"](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p54 sidebar: Darth Krayt "is dying" — `p054-krayt-holocron-dying.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:222`
@@ -4357,39 +4321,39 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:222`
 > is killed by Darth Krayt personally
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p137 Gial Gahan.
-Note (our notes, around the quote): ![p137 Gial Gahan "is killed by Darth Krayt personally"](011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
+Note (our notes, around the quote): ![p137 Gial Gahan "is killed by Darth Krayt personally"](../../notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
 (*Panel: p137 Gial Gahan "is killed by Darth Krayt personally" — `p137-gial-gahan.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:225`
 
 > orders the extermination of one-tenth of the Mon Calamari people
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p116 Krayt.
-Note (our notes, around the quote): ![p116 Krayt "orders the extermination of one-tenth of the Mon Calamari people"](011-legacy-era-campaign-guide-panels/p116-mon-cal-one-tenth.jpg)
+Note (our notes, around the quote): ![p116 Krayt "orders the extermination of one-tenth of the Mon Calamari people"](../../notes/materials/011-legacy-era-campaign-guide-panels/p116-mon-cal-one-tenth.jpg)
 (*Panel: p116 Krayt "orders the extermination of one-tenth of the Mon Calamari people" — `p116-mon-cal-one-tenth.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:228`
 
 > decimates the Mon Calamari population
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p191 Krayt.
-Note (our notes, around the quote): ![p191 Krayt "decimates the Mon Calamari population"](011-legacy-era-campaign-guide-panels/p191-krayt-decimates-moncal.jpg)
+Note (our notes, around the quote): ![p191 Krayt "decimates the Mon Calamari population"](../../notes/materials/011-legacy-era-campaign-guide-panels/p191-krayt-decimates-moncal.jpg)
 (*Panel: p191 Krayt "decimates the Mon Calamari population" — `p191-krayt-decimates-moncal.jpg`*)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p191 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p191-decimates-the-mon-calamari-population.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p191 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p191-decimates-the-mon-calamari-population.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:231`
 
-- Note (summary from our notes, not a quotation): ![p222 Krayt pull quote](011-legacy-era-campaign-guide-panels/p222-krayt-quote-vong-endured.jpg)
+- Note (summary from our notes, not a quotation): ![p222 Krayt pull quote](../../notes/materials/011-legacy-era-campaign-guide-panels/p222-krayt-quote-vong-endured.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p222 Krayt pull quote — `p222-krayt-quote-vong-endured.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:235`
 
 > Actually the third Sith Lord to bear the name, Darth Wyyrlok is a Chagrian Sith Lord who serves as Darth Krayt's closest aide and confidante. Known as the Loremaster of the Sith, Darth Wyyrlok is one of the greatest scholars of Jedi, Sith, and other Force-using traditions in the galaxy.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:242`
 
 > utterly dedicated to serving Darth Krayt and will go to the ends of the galaxy to find a way to restore his master's body to its youthful form.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; He is.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p174 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-wyyrlok-bio-prakith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:244`
 
 > Nihl = premier duelist and enforcer, not a Force titan
@@ -4400,7 +4364,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:297`
 
 > The final step on her path to becoming a Sith Lord comes when she is ordered by Darth Krayt to slay the Sith Lord that had trained her, Darth Ruyn. With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:317`; `suspect-insight/debates/081-cade-skywalker-vs-darth-nox.md:83`
 
 - Note (summary from our notes, not a quotation): On the stat sheet she sits around a strong Imperial Knight, well below Nihl and Krayt.
@@ -4410,20 +4374,20 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:337`
 > Darth Maladi also serves as Darth Krayt's personal physician.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p171-darth-maladi-stat.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:374`
 
 > Krayt's spymaster and the head of Sith Intelligence
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p51 calls her.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:376`
 
 > Considered by many to be the rightful ruler of the galaxy, Roan Fel is the leader of the Empire-in-exile and is Darth Krayt's most wanted enemy. Roan Fel is a hard man who believes in the strength of order but not the violence of tyranny
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:432`
 
 - Note (summary from our notes, not a quotation): He matches Krayt in CL and UtF, but half his levels are noble and officer, i.e. leadership.
@@ -4442,7 +4406,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:451`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Read it as game balance for a CL20 ally or antagonist, not as an in-universe power claim. The bio's only power statement is "Darth Krayt's most wanted enemy".
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:452`
 
 - Note (summary from our notes, not a quotation): His Power Attack lines (2d8+23; 3d8+23 with Rapid Strike) hit harder than any other lightsaber line in the book except Krayt's ×3 crits.
@@ -4453,27 +4417,27 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:489`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p179 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p179-a-member-of-the-jedi-order.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:519`
 
 > In a dramatic encounter, Darth Krayt kills Hosk in an attempt to turn Cade to the dark side. Hosk, however, is not so easily defeated. He forgives Cade… A peaceful healer to the end, his body disappears, and he becomes a Force spirit.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: Bio: a Bothan Jedi healer
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p195-in-a-dramatic-encounter-darth-krayt.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:637`
 
 > Darth Krayt kills Hosk
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p195 Hidden Temple council; Hosk bio (.
-Note (our notes, around the quote): ![p195 Hidden Temple council; Hosk bio ("Darth Krayt kills Hosk")](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+Note (our notes, around the quote): ![p195 Hidden Temple council; Hosk bio ("Darth Krayt kills Hosk")](../../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 (*Panel: p195 Hidden Temple council; Hosk bio ("Darth Krayt kills Hosk") — `p195-hidden-temple-hosk-bio.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:660`
 
 > Cade is captured in the Sith Temple on Coruscant. For a time, he pretends to go along with Darth Krayt's teachings… Ultimately, Cade is unable to save Hosk from Darth Krayt, but he escapes the Sith Temple with help from a mother he didn't know existed, and his mostly loyal friends.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:673`
 
 > in charge of the largest spy and information network in the galaxy
@@ -4483,20 +4447,20 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:673`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Nyna Calixte / Morrigan Corde (p168).
 Note (our notes, around the quote): Nyna Calixte / Morrigan Corde (p168): "in charge of the largest spy and information network in the galaxy"; she "has resurrected her alter ego to rescue her son from the clutches of Darth Krayt". CL 15; Ref 33; hp 77; Destiny 3; Force 7; DS 8. No Force stats.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p168-calixte.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p168-has-resurrected-her-alter-ego-to.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p168-calixte.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p168-has-resurrected-her-alter-ego-to.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:711`
 
 > many of the Sith in Darth Krayt's Empire are former members of other Force traditions, among them former Jensaarai Defenders, Nightsisters, and other Force adepts
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p51.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p051-many-of-the-sith-in-darth.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p051-many-of-the-sith-in-darth.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p51 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p051-force-users-legacy-era.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:783`
 
 > At any given time, there are as few as a dozen Imperial Knights or as many as three score. Casualties within the Order have been high since Darth Krayt declared himself Emperor.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p44.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:798`
 
 - Note (summary from our notes, not a quotation): ANALYSIS: this is the rules basis for Krayt's untreatable decline.
@@ -4506,7 +4470,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:852`
 > a sacred artifact to the Sith of the Legacy era, and any hero who comes to possess it will likely be stalked by agents of Darth Krayt
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Emperor Palpatine's Lightsaber (2d8). POV: Emperor Palpatine's Lightsaber, about Darth Krayt / A'Sharad Hett.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p99 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p099-palpatine-saber.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p99 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p099-palpatine-saber.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:873`
 
 > Krayt is the supreme ruler of the Empire, and his word is law.
@@ -4537,12 +4501,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:990`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Roan Fel has the same CL (20) and UtF (+22) as Krayt (p170, p178), yet no Legends source treats Fel as Krayt's peer. This directly supports ILS's debate #114 point that UtF "predicts same-era fights badly".
 Context: Counters from this book:
-![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
-![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
-![p178 Roan Fel bio](011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
-![p178 Emperor Roan Fel CL 20](011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
+![p170 Krayt bio: implants "begin to consume him"; Cade's "incredible healing powers"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p170 Darth Krayt CL 20 stat block](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+![p170 art: "Darth Krayt and Darth Wyyrlok"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+![p178 Roan Fel bio](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![p178 Emperor Roan Fel CL 20](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-emperor-roan-fel-stat-cl20.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p178-the-jedi-have-nothing-to-fear.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:992`
 
 - Note (summary from our notes, not a quotation): The block is pre-*Legacy: War* (first printed March 2009, p3), so it can't describe reborn Krayt.
@@ -4568,7 +4532,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:998`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Casualties have been.
 Label in our notes: p44
 Context: Counter:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p44 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p044-imperial-knight-class.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1015`
 
 > ≥ an individual Jedi Knight or Imperial Knight, below the Krayt/Wyyrlok tier
@@ -4592,12 +4556,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1067`
 > [fragment — full passage not on file]
 — Source: (debate #6) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; **Krayt.
 Note (our notes, around the quote): Krayt "Fatigue after Imperial Knights… per… Legacy Era Campaign Guide" (debate #6) — PARTIAL CORRECTION. The guide supports the coral-seed and implant decline (p54 "is dying"; p170 implants "begin to consume him"; p218 Vongspawn). It has no statement about fatigue after fighting Imperial Knights. That part comes only from the comic (009 p36) and the issue #15 summary.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![p54 sidebar: Darth Krayt "is dying"](011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p054-dark-transfer.jpg)
-![p170 Darth Krayt CL 20 stat block](011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
-![p170 art: "Darth Krayt and Darth Wyyrlok"](011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p218 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p218-vongspawn-coral-seeds-sith-activated.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![p54 sidebar: Darth Krayt "is dying"](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-dark-transfer.jpg)
+![p170 Darth Krayt CL 20 stat block](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-darth-krayt-stat-cl20.jpg)
+![p170 art: "Darth Krayt and Darth Wyyrlok"](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-art-krayt-and-wyyrlok.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p218 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p218-vongspawn-coral-seeds-sith-activated.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1073`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt (CL20), Darth Wyyrlok III (CL16), Darth Nihl (CL16), Darth Azard (CL15), Darth Maladi (CL15), Darth Talon (CL13), Darth Maleval (CL13), Jor Torlin (CL11).
@@ -4662,10 +4626,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:44`
 
 - Note (summary from our notes, not a quotation): #9: Maladi breaks the Jedi healer Hosk Trey'lis with interrogator droids and her will (p58–60). Krayt wants Cade "ALIVE"; Maladi doesn't know why (p61). Calixte tells Veed that Maladi's top agent is "JOR TOLIN" (sic; Torlin elsewhere), Sith-raised but lacking "SUFFICIENT FORCE SENSITIVITY", and reactivates "Morrigan Corde" (p62). She spots Cade on the Wheel's security vids (p63–64). On Bastion, Fel punishes Draco and Krieg for their rescue mission with medals and the most dangerous assignments, and sends them to escort Capt. Bovark to GA Admiral Gar Stazi on the Wheel (p65–67). Talks begin (p68–70). The two Knights sense the GA guards' concealed blasters (p71). On the Wheel's lower levels, Torlin fights a gang that Corde set on him. Corde joins in, Torlin strangles her, and she shocks him unconscious (p72–79).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
-![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
-![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
-![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p62 "JOR TOLIN" dossier](../../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+![p65 Fel: "WE PUT FIVE OF THEM ON HIS SHIP, KRIEG."](../../notes/materials/012-legacy-vol-2-shards-panels/p065-fel-five-homing-devices.jpg)
+![p71 the Knights on the Wheel](../../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:52`
 
 - Note (summary from our notes, not a quotation): On Munto Codru, clan chief Rikkar-Du tries to unite the Codru-Ji clans against the Empire after Darth Krul ("KRUHL") offers him rule (p104–107). Krul kills him, his son Jassar and their dog. Elder Kassek-Ka, now the Sith's man, killed Rikkar's wife Tassa (p108–112). Maladi uses Governor Vikar Dorn and the ISD *Dauntless* as a "defection" to get Krul onto Bastion (p113–116). Krul slips out and confronts Fel in the Pellaeon Gardens. Fel jams Krul's saber with a cortosis gauntlet, catches his lightning on his own blade and turns it back, brawls with him, and shoots him with a holdout blaster (p117–123). Fel has the *Dauntless* crew killed and sends Dorn back to Krayt with Krul's hilt. Maladi runs Dorn through (p124). Krayt warns her not to "SCHEME FOR SCHEMING'S SAKE" (p125).
@@ -4676,15 +4640,15 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:57`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Solo-kills Mohrgan Fel and the Imperial Knight squad in the throne room. p25 (#8 Allies)–p27 (#8 Allies) [009 p164–166]
-![p27 Krayt cuts down the Knights](012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
+![p27 Krayt cuts down the Knights](../../notes/materials/012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:70`
 
 - Note (summary from our notes, not a quotation): p27 is wordless. Krayt, with two red blades, is the only Sith drawn in the melee: a Knight's saber and hand fly off, another is slashed, and Krayt grabs Mohrgan's sword arm and runs him through. About five or six Knights charge on p25, two of them women.
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p27 Krayt cuts down the Knights](012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
+![p27 Krayt cuts down the Knights](../../notes/materials/012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:73`
 
-- Note (summary from our notes, not a quotation): ![p27 Krayt cuts down the Knights](012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
+- Note (summary from our notes, not a quotation): ![p27 Krayt cuts down the Knights](../../notes/materials/012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p27 Krayt cuts down the Knights — `p027-krayt-cuts-down-knights.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:75`
@@ -4697,10 +4661,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:78`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Kills Fel's double and takes the throne. p29 (#8 Allies)
-![p29 Krayt kills the double and sits the throne](012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
+![p29 Krayt kills the double and sits the throne](../../notes/materials/012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:80`
 
-- Note (summary from our notes, not a quotation): ![p29 Krayt kills the double and sits the throne](012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
+- Note (summary from our notes, not a quotation): ![p29 Krayt kills the double and sits the throne](../../notes/materials/012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p29 — `p029-krayt-kills-double-throne.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:83`
@@ -4709,11 +4673,11 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:83`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 3. Overrules Maladi (137 ABY). p124 (#13 Ready to Die)–p125 (#13 Ready to Die) [009 p261–262]
-![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p125 Krayt warns Maladi with Krul's saber](../../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+![p124 Maladi kills Dorn](../../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:86`
 
-- Note (summary from our notes, not a quotation): ![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+- Note (summary from our notes, not a quotation): ![p125 Krayt warns Maladi with Krul's saber](../../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p125 — `p125-krayt-warns-maladi.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:89`
@@ -4723,7 +4687,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:89`
 > IT IS DARTH KRAYT'S COMMAND. THAT'S ALL YOU NEED TO KNOW. *(p60)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Wants Cade alive, without telling his own spymaster why. p61 (#9 Trust Issues): Maladi, alone with Cade's holo: "WHY DOES MY MASTER REQUIRE YOU, SKYWALKER? AND WHY DOES HE NEED YOU ALIVE?" · Maladi to Calixte: "IT IS DARTH KRAYT'S COMMAND. THAT'S ALL YOU NEED TO KNOW." (p60).
-![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
+![p61 Maladi: WHY DOES MY MASTER NEED YOU ALIVE?](../../notes/materials/012-legacy-vol-2-shards-panels/p061-maladi-why-does-master-need-you-alive.jpg) *(p61)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:92`
 
 > DISLODGING FEL FROM THAT FORTRESS WOULD TAKE MOST OF OUR FLEET -- ASSUMING ALL OF OUR FORCES WOULD REMAIN LOYAL, WHICH IS DEBATABLE.
@@ -4731,17 +4695,17 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:92`
 > HE KNOWS AN ALL-OUT ATTACK ON BASTION WOULD DECIMATE HIS FORCES AND CRIPPLE HIS ABILITY TO COMMAND THE GALAXY.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 5. Strategic statement about Bastion (Maladi, for Krayt). p114 (#13 Ready to Die): "DISLODGING FEL FROM THAT FORTRESS WOULD TAKE MOST OF OUR FLEET -- ASSUMING ALL OF OUR FORCES WOULD REMAIN LOYAL, WHICH IS DEBATABLE." Fel says the same on p66: "HE KNOWS AN ALL-OUT ATTACK ON BASTION WOULD DECIMATE HIS FORCES AND CRIPPLE HIS ABILITY TO COMMAND THE GALAXY."
-![p114 Maladi: DISLODGING FEL FROM THAT FORTRESS](012-legacy-vol-2-shards-panels/p114-maladi-dislodging-fel-bastion.jpg) *(p114)*
+![p114 Maladi: DISLODGING FEL FROM THAT FORTRESS](../../notes/materials/012-legacy-vol-2-shards-panels/p114-maladi-dislodging-fel-bastion.jpg) *(p114)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:95`
 
 > "IF YOUR WILL WAS STRONGER, JEDI, YOUR DEFIANCE WOULD MEAN MORE. YOU WERE TRAINED, HOWEVER, AS A HEALER. YOUR WILL IS NO MATCH FOR MINE." · "TELL ME." · Hosk: "HE TRAVELS WITH A FORMER PIRATE NAMED JARIAH SYN AND A ZELTRON NAMED DELIAH BLUE." · (p60) "SO MUCH FOR DEFIANCE." · "FROM NOW ON, ANYTHING I OR ANY OTHER SITH ASKS, YOU WILL ANSWER. IS THAT UNDERSTOOD?" · Hosk: "...YES..."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Breaks the Jedi healer Hosk's will (with droids). p58 (#9 Trust Issues)–p60 (#9 Trust Issues) [009 p197–199]
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:100`
 
-- Note (summary from our notes, not a quotation): ![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+- Note (summary from our notes, not a quotation): ![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p59 — `p059-maladi-will-breaks-hosk.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:103`
@@ -4754,16 +4718,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:106`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Kills Governor Dorn on the spot, a lightsaber through the body. p124 (#13 Ready to Die) [009 p261]
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:108`
 
 > IT WENT AS I EXPECTED, MY LORD. *(009 named the killer as Talon; corrected, see below.)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): The killer is Maladi: red skin, white-dotted headdress, long black hair, no lekku. That matches her p114 hologram, and she then says "IT WENT AS I EXPECTED, MY LORD." (009 named the killer as Talon; corrected, see below.)
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:111`
 
-- Note (summary from our notes, not a quotation): ![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+- Note (summary from our notes, not a quotation): ![p124 Maladi kills Dorn](../../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p124 Maladi kills Dorn — `p124-maladi-kills-dorn.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:113`
@@ -4777,15 +4741,15 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:113`
 > THE TRUE KILLING STROKE, WHEN IT COMES, WILL COME FROM WITHIN. *(Foreshadowing of an inside agent.)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 3. Planner of the Krul strike on Bastion; uses hostages. p114–116 (#13): "WITH THIS SHIP AS BAIT, AND THE FORMER GOVERNOR'S GOOD REPUTATION AS CAMOUFLAGE." · "FAILURE WILL RESULT IN NOT ONLY YOUR OWN DEATH, BUT YOUR SON'S, AS WELL. SUCCESS IS MORE IMPORTANT THAN SURVIVAL." · (p125) "ROAN FEL HAS BESTED MY ASSASSIN AND THAT WILL MAKE HIM COMPLACENT." · "THE TRUE KILLING STROKE, WHEN IT COMES, WILL COME FROM WITHIN." (Foreshadowing of an inside agent.)
-![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+![p125 Krayt warns Maladi with Krul's saber](../../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:116`
 
 > (p16) "GATHERED TOGETHER THEY WOULD HAVE BEEN MORE DIFFICULT TO DEFEAT. THEY ARE SCATTERED, WITHOUT LEADERSHIP, WITHOUT A BASE. WE WILL HUNT THEM." · (p17) "MY MASTER, DARTH KRAYT, BELIEVES IT IS TIME ANOTHER SAT ON THE THRONE." · (p30, saber at Calixte's throat) "MY MASTER IS NOT PLEASED... AND I SENSE YOUR HAND IN THIS, NYNA CALIXTE!" · (p31) "I WONDER... IF I DISSECTED YOUR MIND, WOULD I LEARN THE TRUTH ABOUT YOU?" · "YOUR PLOTS, YOUR BETRAYALS, YOUR DESIRE FOR CONTROL -- HAD YOU FORCE ABILITY, YOU MIGHT HAVE MADE A GOOD SITH -- UNDER DARTH SIDIOUS." · "UNDER DARTH KRAYT, WE ARE A DIFFERENT BREED." · Calixte (aside): "SO YOU BELIEVE, LADY MALADI --" "-- AND THAT WILL BE THE KNIFE THAT KILLS YOU..."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 4. 130 ABY: Krayt's voice to the Moffs. p16–17, p30–31 (#8 Allies)
-![p17 Maladi to the Moffs: MY MASTER, DARTH KRAYT, BELIEVES](012-legacy-vol-2-shards-panels/p017-maladi-krayt-believes-moffs.jpg) *(p17)*
-![p30 Maladi and Calixte: Krayt's voice to the Moffs](012-legacy-vol-2-shards-panels/p030-maladi-calixte-you-need-my-help.jpg) *(p30)*
+![p17 Maladi to the Moffs: MY MASTER, DARTH KRAYT, BELIEVES](../../notes/materials/012-legacy-vol-2-shards-panels/p017-maladi-krayt-believes-moffs.jpg) *(p17)*
+![p30 Maladi and Calixte: Krayt's voice to the Moffs](../../notes/materials/012-legacy-vol-2-shards-panels/p030-maladi-calixte-you-need-my-help.jpg) *(p30)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:118`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): Maladi "senses" Calixte's involvement but can't confirm it. That fits Calixte's p23 claim of "SOME SUCCESS IN SHIELDING MY THOUGHTS FROM FORCE USERS". Veed's Ossus casualty line (p16: "MORE THAN HALF OF THEM MUST STILL BE ALIVE") is the main on-page number for how many Jedi escaped Ossus.
@@ -4811,8 +4775,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:425`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Darth Krayt: Maladi's "MY MASTER, DARTH KRAYT" (p17, p30). He takes the throne in 130 (p29). In 137 he overrules Maladi: "YES, MALADI. AS I WILL." (p125).
-![p29 Krayt kills the double and sits the throne](012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
-![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+![p29 Krayt kills the double and sits the throne](../../notes/materials/012-legacy-vol-2-shards-panels/p029-krayt-kills-double-throne.jpg)
+![p125 Krayt warns Maladi with Krul's saber](../../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:435`
 
 - Note (summary from our notes, not a quotation): Darth Maladi: head of Sith intelligence. "THE LABORATORY OF DARTH MALADI -- HEAD OF SITH INTELLIGENCE" (p58). Calixte "WILL REPORT TO ME" (p31). She tasks the Sith Lord Krul by hologram (p114–116) and executes Dorn in front of Krayt (p124).
@@ -4840,7 +4804,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:473`
 - Note (summary from our notes, not a quotation): Use: p27, wordless; Krayt is the only Sith drawn fighting.
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: Krayt "solo'd a squad of Imperial Knights" (debates #6, #8, #114).
-![p27 Krayt cuts down the Knights](012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
+![p27 Krayt cuts down the Knights](../../notes/materials/012-legacy-vol-2-shards-panels/p027-krayt-cuts-down-knights.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:474`
 
 - Note (summary from our notes, not a quotation): Counter: the Knights are unnamed apart from Mohrgan, and the fight is one page. The #1 retelling (009 p32) has other Sith in the room, and 009 p36 has him "OVEREXTENDED". Best read: a strong anti-Knight feat for 130 ABY Krayt, but it doesn't measure him against a Master-level duelist.
@@ -4851,8 +4815,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:475`
 - Note (summary from our notes, not a quotation): Use: the "YOUR WILL IS NO MATCH FOR MINE" mind-breaking (p59), and executing Dorn in Krayt's presence (p124).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: Maladi (debate #35).
-![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p59 Maladi: "YOUR WILL IS NO MATCH FOR MINE"](../../notes/materials/012-legacy-vol-2-shards-panels/p059-maladi-will-breaks-hosk.jpg)
+![p124 Maladi kills Dorn](../../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:490`
 
 - Note (summary from our notes, not a quotation): Counter: both deaths have conditions on the page: Maleval was distracted and stabbed first; Krul was disarmed by cortosis and then shot. Krayt's Sith "vary widely" is the honest takeaway.
@@ -4870,35 +4834,35 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:532`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): `[local path]`: Krayt (debates #2, #6, #8, #108, #114), Cade (debates #61, #81, #85, #91), K'Kruhk (#18, #24, #28, #131), Imperial Knights / Draco (#17), Wolf Sazen (#67), Kol (#115). New *Shards* items are appended under "## Appended — Legacy Vol 2 Shards (owner material 012)". The existing 009 appendix entry "Fel vs Darth Krul" (009 p257) is the same feat as 012 p120–121.
-![p120 cortosis gauntlet; Krul's lightning](012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
-![p121 Fel turns the lightning back](012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
+![p120 cortosis gauntlet; Krul's lightning](../../notes/materials/012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
+![p121 Fel turns the lightning back](../../notes/materials/012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:555`
 
 - Note (summary from our notes, not a quotation): `[local path]`: #6 and #114 (Krayt vs Revan: the Knight squad), #17 (Draco: cortosis and the "ALL MY KNIGHTS" line), #18, #24, #28 and #131 (K'Kruhk: no combat here; the "Warmaster" simile), #35 (Maladi), #61, #81, #85 and #91 (Cade: the rusty-floor caveat), #67 (Wolf Sazen), #115 (Bane vs Kol: the p161 holding-action line).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p161 Sazen on Kol's last stand](../../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:556`
 
 ## Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels
 
 - Note (summary from our notes, not a quotation): Flashbacks, narrated by Krayt or Talon (framing by an interested narrator): Jedi General A'Sharad Hett at Order 66 (p61); Hett as Tusken warlord vs Obi-Wan Kenobi on Tatooine while Luke is hidden on the Lars farm (p62–70); Hett as bounty hunter, then XoXaan's apprentice on Korriban (p89–91, p98); Hett's capture and shaping by the Yuuzhan Vong and his meetings with Vergere (p99–104); the founding of Krayt's Order, Lumiya and "CADEUS", stasis (p105–106).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
-![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
-![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
-![p103 Hett and Vergere on the Rule of Two](013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
-![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
-![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+![p61 Hett kills his clone squad](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+![p100 Hett downed by the Vong](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+![p102 "MY BODY WAS ENHANCED"; the vision](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+![p103 Hett and Vergere on the Rule of Two](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
+![p104 Hett's lightning; the Vong scout ship explodes](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:33`
 
 - Note (summary from our notes, not a quotation): From stasis, Krayt senses "SKYWALKER IS COMING" while Wyyrlok fears he is dying (p10). Cade shakes off a four-ship Skull Squadron flight in Coruscant traffic and hides his ship in the undercity (p11–14, p22). He leaves the *Mynock*'s codes with Queen Jool at Rik's cantina for Syn and Deliah (p17–21). Gunner Yage is dressed down by her father (p22–23). Cade slips into the Sith Temple, finds Hosk with the Force and frees him (p24–27). Talon ambushes them; Cade has the better of the first exchange until Nihl strikes him from behind (p27–30). Sazen senses Cade's darkness from Ossus (p31).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
-![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
-![p24 "AH! FOUND YOU."](013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
-![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p22 "AN ACE PILOT TO DUST ALL FOUR OF US"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p022-skull-dust-all-four-of-us.jpg)
+![p24 "AH! FOUND YOU."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p024-cade-force-finds-hosk.jpg)
+![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p29 Sith eyes; Nihl from behind](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:40`
 
 - Note (summary from our notes, not a quotation): Maladi calls off the Imperial search; the Moffs squabble, and Calixte, Veed and the Yages trade barbs (p32–36). Maladi tortures Cade with ixetal cilona, which he keeps purging; Krayt arrives (p37–38). Talon brings in Syn and Deliah; Maladi triggers coral seeds in them, Krayt frees one of Cade's hands with the Force, and Cade heals both at once with dark-side power (p39–45). Cade trades his freedom for theirs (p45–46). Calixte and Veed plan to use Corde (p47–48). Wyyrlok keeps Nihl and Maladi outside; they argue over birth and rank (p49–50). Over dinner Krayt shows Cade Kol's encased lightsaber and reveals he was the Jedi A'Sharad Hett (p51–53).
@@ -4912,12 +4876,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:48`
 > THAT WHICH CAN HEAL CAN ALSO BREAK. *(p115)*
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Cade hangs in the Vong "EMBRACE OF PAIN" while Krayt tells the rest: Vong capture, shaping, Vergere, his vision, the escape, the new Order, Lumiya and "CADEUS", stasis, and his dying body (p98–107). Cade slips out of his cell; the crew launches (p108–109). Talon is waiting in Maladi's lab and drops him (p110). Krayt orders him to kill Hosk; Cade refuses, Hosk forgives everyone, and Krayt runs Hosk through; Hosk's body vanishes (p111–114). Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK." (p115). Cade's telekinetic burst shatters the case, he calls Kol's saber, strikes Talon and engages Nihl while Krayt urges revenge (p116–119).
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
-![p111 "DID YOU THINK YOU COULD HIDE..."](013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
-![p113 Krayt runs Hosk through](013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
-![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p111 "DID YOU THINK YOU COULD HIDE..."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p113 Krayt runs Hosk through](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
+![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:56`
 
 > BECAUSE YOU WANT ME TO!
@@ -4931,10 +4895,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:60`
 > Krayt (stasis, eyes open): "SKYWALKER IS COMING." · Wyyrlok captions: "MY LORD IS DYING. HE IS BEING CONSUMED. NOTHING IN THE SITH LORE HELPS, INCLUDING THE ANCIENT KNOWLEDGE OF XOXAAN." · "THE SKILLS OF THE JEDI HEALER, HOSK, HAVE PROVEN INADEQUATE." · "I WONDER NOW IF I SHALL BE THE LAST." · "MY LINE CONTINUES WITH A DAUGHTER IN TRAINING ON KORRIBAN."
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 1. Senses Cade's approach from stasis. p10 (#14) [009 p311]
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:68`
 
-- Note (summary from our notes, not a quotation): ![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+- Note (summary from our notes, not a quotation): ![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p10 — `p010-wyyrlok-my-lord-is-dying.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:71`
@@ -4943,16 +4907,16 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:71`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 2. Telekinesis at a distance: snaps Cade's shackle open; sets the two-patient healing test. p42 (#15)–p45 (#15) [009 p343–346]
-![p42 Krayt opens the shackle with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p042-krayt-tk-shackle-two-at-once.jpg)
-![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+![p42 Krayt opens the shackle with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p042-krayt-tk-shackle-two-at-once.jpg)
+![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:74`
 
-- Note (summary from our notes, not a quotation): ![p42 Krayt opens the shackle with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p042-krayt-tk-shackle-two-at-once.jpg)
+- Note (summary from our notes, not a quotation): ![p42 Krayt opens the shackle with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p042-krayt-tk-shackle-two-at-once.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p42 — `p042-krayt-tk-shackle-two-at-once.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:77`
 
-- Note (summary from our notes, not a quotation): ![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+- Note (summary from our notes, not a quotation): ![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p45 — `p045-krayt-you-have-power-bargain.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:80`
@@ -4961,17 +4925,17 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:80`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 3. Identity and age: A'Sharad Hett, a Clone Wars Jedi general who served with Anakin. p52 (#15)–p53 (#15), p60 (#16) [009 p353–354, p361]
-![p53 "BUT I WAS BORN A'SHARAD HETT."](013-legacy-vol-3-claws-of-the-dragon-panels/p053-krayt-born-ashard-hett.jpg)
-![p60 Hett served with Anakin; life-prolonging techniques](013-legacy-vol-3-claws-of-the-dragon-panels/p060-hett-served-with-anakin.jpg)
+![p53 "BUT I WAS BORN A'SHARAD HETT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p053-krayt-born-ashard-hett.jpg)
+![p60 Hett served with Anakin; life-prolonging techniques](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p060-hett-served-with-anakin.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:83`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:620`
 
 > BUT I WAS BORN A'SHARAD HETT.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p53.
-Note (our notes, around the quote): ![p53 "BUT I WAS BORN A'SHARAD HETT."](013-legacy-vol-3-claws-of-the-dragon-panels/p053-krayt-born-ashard-hett.jpg)
+Note (our notes, around the quote): ![p53 "BUT I WAS BORN A'SHARAD HETT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p053-krayt-born-ashard-hett.jpg)
 (*Panel: p53 — `p053-krayt-born-ashard-hett.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:86`
 
-- Note (summary from our notes, not a quotation): ![p60 Hett served with Anakin; life-prolonging techniques](013-legacy-vol-3-claws-of-the-dragon-panels/p060-hett-served-with-anakin.jpg)
+- Note (summary from our notes, not a quotation): ![p60 Hett served with Anakin; life-prolonging techniques](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p060-hett-served-with-anakin.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p60 — `p060-hett-served-with-anakin.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:89`
@@ -4980,11 +4944,11 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:89`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 4. Rates Cade's raw power; names his own Kenobi loss a "HUMILIATION". p72 (#16)–p73 (#16) [009 p373–374]
-![p72 "YOU HAVE GREAT RAW POWER"](013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
-![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+![p72 "YOU HAVE GREAT RAW POWER"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
+![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:92`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:524`
 
-- Note (summary from our notes, not a quotation): ![p72 "YOU HAVE GREAT RAW POWER"](013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
+- Note (summary from our notes, not a quotation): ![p72 "YOU HAVE GREAT RAW POWER"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p72 — `p072-krayt-great-raw-power.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:95`
@@ -4993,16 +4957,16 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:95`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 5. Sees through Cade's pretence. p81 (#17), p94 (#17), p111 (#18) [009 p382, p395, p412]
-![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
-![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
-![p111 "DID YOU THINK YOU COULD HIDE..."](013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
+![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
+![p94 Talon reports; Krayt's "JEDI OF OLD"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+![p111 "DID YOU THINK YOU COULD HIDE..."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:98`
 
 - Note (summary from our notes, not a quotation): The p94 Jedi is unnamed on the page (by content, Quinlan Vos: ANALYSIS).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:101`
 
-- Note (summary from our notes, not a quotation): ![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
+- Note (summary from our notes, not a quotation): ![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p81 — `p081-krayt-cade-arrogance-cure-me.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:103`
@@ -5010,7 +4974,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:103`
 > DID YOU THINK YOU COULD HIDE...
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p111.
-Note (our notes, around the quote): ![p111 "DID YOU THINK YOU COULD HIDE..."](013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
+Note (our notes, around the quote): ![p111 "DID YOU THINK YOU COULD HIDE..."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p111-krayt-saw-through-pretense.jpg)
 (*Panel: p111 — `p111-krayt-saw-through-pretense.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:106`
 
@@ -5018,22 +4982,22 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:106`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 6. Vong enhancement, Vong eye, and the coral seeds that are killing him (his own account). p101 (#18)–p107 (#18) [009 p402–408]
-![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
-![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
-![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
+![p102 "MY BODY WAS ENHANCED"; the vision](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:109`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:527`
 
-- Note (summary from our notes, not a quotation): ![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+- Note (summary from our notes, not a quotation): ![p102 "MY BODY WAS ENHANCED"; the vision](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p102 — `p102-hett-body-enhanced-vision.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:112`
 
-- Note (summary from our notes, not a quotation): ![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+- Note (summary from our notes, not a quotation): ![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p105 — `p105-krayt-should-not-have-survived-cadeus.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:115`
 
-- Note (summary from our notes, not a quotation): ![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
+- Note (summary from our notes, not a quotation): ![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p107 — `p107-krayt-coral-consume-nihl-village.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:118`
@@ -5042,8 +5006,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:118`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 7. Kills Hosk Trey'lis with a saber thrust. p112 (#18)–p114 (#18) [009 p413–415]
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
-![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:121`; `notes/materials/009-legacy-book-1.md:1099`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:526`
 
 > DO NOT LET HIM TURN ME INTO A WEAPON AGAINST YOU!
@@ -5053,11 +5017,11 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:124`
 
 > NOTHING LESS WILL EVEN MAKE ME PAUSE!
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p112.
-Note (our notes, around the quote): ![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+Note (our notes, around the quote): ![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
 (*Panel: p112 — `p112-krayt-nothing-less-make-me-pause.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:126`
 
-- Note (summary from our notes, not a quotation): ![p113 Krayt runs Hosk through](013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
+- Note (summary from our notes, not a quotation): ![p113 Krayt runs Hosk through](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p113-krayt-kills-hosk.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p113 — `p113-krayt-kills-hosk.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:129`
@@ -5070,28 +5034,28 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:132`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 8. KRAYT vs CADE, Krayt's tower: Krayt has Cade on the floor when Corde shoots him from outside. p126 (#19)–p133 (#19) [009 p427–434]
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:134`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:530`
 
 - Note (summary from our notes, not a quotation): On the page: Cade leaps at Krayt (p126); Krayt fights with two red blades; Cade flips over them, they clash, Krayt grabs his arm (p128); Cade blocks a rage swing (p129). Through the window on p132 Krayt stands over Cade, who is down on the floor with his saber still in hand, both red blades raised. Corde's heavy-blaster shot blows in the window and hurls Krayt back amid the glass. He is up again on p133.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
-![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:137`
 
-- Note (summary from our notes, not a quotation): ![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+- Note (summary from our notes, not a quotation): ![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p128 — `p128-krayt-killed-thousands.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:139`
 
-- Note (summary from our notes, not a quotation): ![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+- Note (summary from our notes, not a quotation): ![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p129 — `p129-cade-reads-krayt-illness.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:142`
 
-- Note (summary from our notes, not a quotation): ![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+- Note (summary from our notes, not a quotation): ![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p132 — `p132-corde-shoots-krayt.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:145`
@@ -5104,17 +5068,17 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:148`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 9. Wants Cade back "ALIVE AND IN CHAINS". p137 (#19) [009 p438]
-![p137 "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM."](013-legacy-vol-3-claws-of-the-dragon-panels/p137-krayt-break-him-use-him-kill-him.jpg)
+![p137 "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p137-krayt-break-him-use-him-kill-him.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:150`
 
 > (p51) "THEIR EXTERMINATION WAS -- AND IS -- NECESSARY. THEY ARE AGENTS OF CHAOS -- MIRED AND BLINDED BY THE LIGHT SIDE OF THE FORCE." · (p103) Hett: "POWER WITHOUT PURPOSE IS MEANINGLESS. THE GALAXY IS CHAOTIC. ORDER MUST BE IMPOSED BECAUSE IT WILL NEVER BE CHOSEN." · "MY SITH WILL BE MANY BUT THEY WILL BE ONE. THE ORDER ITSELF ABOVE ALL. POWER MAGNIFIED BY ITS FOCUS." · Vergere: "LORD BANE SAID THAT POWER CANNOT BE SHARED. THAT THERE MUST BE ONLY TWO -- ONE WITH POWER AND THE OTHER TO CRAVE IT." · Hett: "WHEN THEY BEGAN, THE SITH WERE MANY. BANE CHANGED THE RULES AND CHANGED THE SITH -- NOW I WILL CHANGE THEM AGAIN." · (p106) "AS SITH WE UNDERSTAND THE NEED TO IMPOSE OUR WILL -- ON THE FORCE AND ON THE GALAXY. WHEN THE GALAXY SERVES US, WE WILL SAVE THE GALAXY."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 10. Philosophy and Order statements. p51 (#15), p103 (#18), p106 (#18)
-![p103 Hett and Vergere on the Rule of Two](013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
+![p103 Hett and Vergere on the Rule of Two](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:156`
 
-- Note (summary from our notes, not a quotation): ![p103 Hett and Vergere on the Rule of Two](013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
+- Note (summary from our notes, not a quotation): ![p103 Hett and Vergere on the Rule of Two](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p103 — `p103-hett-vergere-rule-of-two.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:159`
@@ -5122,15 +5086,15 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:159`
 > "I WAS SCOUTING, APART FROM MY TROOPS, WHEN ORDER 66 WAS ISSUED". · "I KILLED THE CLONES ASSIGNED TO EXECUTE ME, SAVING ONLY ONE LONG ENOUGH TO LEARN WHY. THEN I FLED THE PLANET." · "I REACHED OUT THROUGH THE FORCE, BUT COULD NOT SENSE ANY OTHER JEDI." · "I MADE MY WAY TO TATOOINE AND BECAME WAR LEADER OF SEVERAL CLANS OF TUSKEN RAIDERS, AS MY FATHER HAD BEEN BEFORE ME."
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 1. Order 66: kills his clone execution squad alone. p61 (#16) [009 p362]
-![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+![p61 Hett kills his clone squad](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:164`
 
 - Note (summary from our notes, not a quotation): At least three troopers are drawn in the panel; the squad size isn't given. Hett wields two green blades.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+![p61 Hett kills his clone squad](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:167`
 
-- Note (summary from our notes, not a quotation): ![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+- Note (summary from our notes, not a quotation): ![p61 Hett kills his clone squad](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p61 — `p061-hett-kills-clone-squad.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:169`
@@ -5139,27 +5103,27 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:169`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 2. A'SHARAD HETT vs OBI-WAN KENOBI, Tatooine: Kenobi wins decisively and spares him. p63 (#16)–p69 (#16) [009 p364–370]
-![p69 Hett defeated and spared](013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
+![p69 Hett defeated and spared](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:172`
 
 - Note (summary from our notes, not a quotation): Pages 65–68 are wordless apart from grunts. Hett (Tusken mask, two green blades) attacks; Kenobi (one blue blade, two-handed) defends. Hett lands a kick to the chest that sends Kenobi flying (p66; whether a Force push follows through is UNCLEAR) and a kick or knee to his midsection (p67). Then Kenobi blocks one blade overhead, palms Hett's mask with a Force glow, severs his right hand at the wrist, and Force-pushes him away (p68). He pulls off Hett's mask in front of the mounted Tuskens.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
-![p68 Kenobi severs Hett's hand and Force-pushes him](013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
-![p69 Hett defeated and spared](013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
+![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
+![p68 Kenobi severs Hett's hand and Force-pushes him](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
+![p69 Hett defeated and spared](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:175`
 
-- Note (summary from our notes, not a quotation): ![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
+- Note (summary from our notes, not a quotation): ![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p64 — `p064-hett-greatest-jedi-kenobi-great-jedi.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:177`
 
-- Note (summary from our notes, not a quotation): ![p68 Kenobi severs Hett's hand and Force-pushes him](013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
+- Note (summary from our notes, not a quotation): ![p68 Kenobi severs Hett's hand and Force-pushes him](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p68 — `p068-kenobi-severs-hett-hand-force-push.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:180`
 
-- Note (summary from our notes, not a quotation): ![p69 Hett defeated and spared](013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
+- Note (summary from our notes, not a quotation): ![p69 Hett defeated and spared](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p69 — `p069-hett-defeated-spared.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:183`
@@ -5175,8 +5139,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:186`
 > BOUNTY'S THE SAME, DEAD OR ALIVE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 3. Bounty hunter: deflects Resk's blaster fire and kills him. p89 (#17)–p90 (#17) [009 p390–391], narrated by Talon: "FOLLOWING HIS EXILE FROM TATOOINE, A'SHARAD HETT BECAME A BOUNTY HUNTER, MASKING HIS JEDI SKILLS." · Hett: "FAR BETTER THAN YOU HAVE TRIED, RESK." · "BOUNTY'S THE SAME, DEAD OR ALIVE." Non-Force target. Hett again wields two green blades; the replacement for the severed hand isn't commented on until p101 ("MY CYBERNETIC HAND").
-![p89 Hett becomes a bounty hunter; vs Resk](013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
-![p90 Hett deflects Resk's fire and kills him](013-legacy-vol-3-claws-of-the-dragon-panels/p090-hett-kills-resk.jpg) *(p90)*
+![p89 Hett becomes a bounty hunter; vs Resk](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
+![p90 Hett deflects Resk's fire and kills him](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p090-hett-kills-resk.jpg) *(p90)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:188`
 
 > USING THE FORCE, MY MASTER SHATTERED THE BARRIER TO FIND...
@@ -5190,22 +5154,22 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:188`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Breaks into XoXaan's tomb with the Force; becomes her apprentice. p91 (#17) [009 p392]: "USING THE FORCE, MY MASTER SHATTERED THE BARRIER TO FIND..." · XoXaan: "I WAS ONE OF THE FIRST OF THE SITH LORDS; ONE OF THOSE WHO ABANDONED THE JEDI ORDER TO SEEK A DARKER PATH TO TRUTH." · "MY BRETHREN AND I INVENTED WHAT IT MEANS TO BE A SITH." · Hett: "MASTER... I AM." · (p98, Krayt) "WHEN I EMERGED FROM THE TOMBS, I DISCOVERED I HAD BEEN ON KORRIBAN LONGER THAN I THOUGHT. I LEARNED THAT VADER AND PALPATINE WERE BOTH GONE". The barrier is a doorway-sized seal (one panel).
-![p91 Hett shatters the barrier; XoXaan](013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
+![p91 Hett shatters the barrier; XoXaan](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:192`
 
 > (p99) "THE FORCE WAS TELLING ME NOTHING OF MY ATTACKERS." · (p100) "I HAD NEVER SEEN A SHIP LIKE THE ONE THAT ENGULFED ME..." "...OR WARRIORS LIKE THE ONES I FACED..." "...OR WEAPONS LIKE THE ONES THAT DOWNED ME."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 5. Downed and captured by Yuuzhan Vong warriors. p99 (#18)–p100 (#18) [009 p400–401]
-![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+![p100 Hett downed by the Vong](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:195`
 
 - Note (summary from our notes, not a quotation): He leaps from his crashed ship with two green blades, blocks an amphistaff, and is hit in the chest by several thud bugs; the Vong carry him off.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+![p100 Hett downed by the Vong](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:198`
 
-- Note (summary from our notes, not a quotation): ![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+- Note (summary from our notes, not a quotation): ![p100 Hett downed by the Vong](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p100 — `p100-hett-downed-by-vong.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:200`
@@ -5217,10 +5181,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:203`
 > "TIME PASSED. WHEN THE MOMENT CAME, I SEIZED IT." · "FIRE AND RED RUIN MARKED MY PATH." · "THE VONG IMPLANTS ENABLED ME TO USE THE COGNITION HOOD IN ONE OF THEIR CORALSKIPPERS AND ESCAPE." · "IT WAS NECESSARY FOR THE VONGS TO BELIEVE I WAS DEAD, SO THE ENTIRE SHIP AND ALL ON IT NEEDED TO DIE." · "ON THE EVE OF THE YUUZHAN VONGS INVASION, I ESCAPED BACK INTO THE GALAXY."
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 6. Escape: Force lightning through Vong warriors; "THE ENTIRE SHIP AND ALL ON IT NEEDED TO DIE". p104 (#18) [009 p405]
-![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+![p104 Hett's lightning; the Vong scout ship explodes](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:205`
 
-- Note (summary from our notes, not a quotation): ![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+- Note (summary from our notes, not a quotation): ![p104 Hett's lightning; the Vong scout ship explodes](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p104 — `p104-hett-lightning-destroys-vong-ship.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:208`
@@ -5261,7 +5225,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:302`
 
 > SLAY THE ONE WHO KILLED YOUR FATHER!
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p119 Krayt.
-Note (our notes, around the quote): ![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
+Note (our notes, around the quote): ![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
 (*Panel: p119 — `p119-krayt-slay-the-one-who-killed-father.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:307`
 
@@ -5288,37 +5252,37 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:330`
 > HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Ambush and first fight with Cade. p27 (#14)–p30 (#14) [009 p328–331]. See Cade 3. On p30 the balloon "I AM HERE ON ORDERS FROM OUR LORD KRAYT. SKYWALKER IS WANTED ALIVE." is Talon's (zoom: the tail exits left to the off-panel Talon, whose saber enters from the left); Nihl answers "PITY." · "HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?"
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p27 Cade blocks Talon's ambush](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:339`
 
 > I AM HERE ON ORDERS FROM OUR LORD KRAYT.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p30 Talon.
-Note (our notes, around the quote): ![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+Note (our notes, around the quote): ![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 (*Panel: p30 — `p030-talon-here-on-orders.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:341`
 
 - Note (summary from our notes, not a quotation): 2. Throws Cade with telekinesis (not a kick), then is blasted down by him. p70 (#16)–p73 (#16). See Cade 6.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:344`
 
 - Note (summary from our notes, not a quotation): 3. Beats Cade in training and in the p110 ambush. p78–80 (#17), p87 (#17), p110 (#18). See Cade 7–8. Kills a combat droid from above mid-flip (p78).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p78 Talon: "NO THREAT, NO PURPOSE."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p110 Talon repels Cade: "IDIOT."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:346`
 
 > (p87) "WE SITH ARE NOT BARBARIC. WE ARE WARRIORS, BUT WE POSSESS A CULTURE AND A CIVILIZATION TO RIVAL ANY IN THE GALAXY." · Cade: "WHERE IS THE OLD MURGLAK?" · (p88) Talon: "I KILLED HIM." · "DARTH KRAYT COMMANDED IT. WE SITH DO NOT QUESTION OUR MASTER." · "KRAYT'S SITH ORDER IS MORE THAN TWO." · "HAD MY TEACHER NOT DEEMED ME READY, HE WOULD HAVE BLOCKED MY ATTACK. INSTEAD, HE EMBRACED DEATH SO THAT I MIGHT TOUCH THE DARK SIDE." · "IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH." · "I WAS BORN SITH."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 4. Killed her own master on Krayt's order. p87 (#17)–p88 (#17) [009 p388–389]
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:348`
 
-- Note (summary from our notes, not a quotation): ![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+- Note (summary from our notes, not a quotation): ![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p88 — `p088-talon-killed-her-master-more-than-two.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:351`
@@ -5332,10 +5296,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:354`
 > Have your eyes been opened yet, Skywalker?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; 5. Sees through Cade's act. p94 (#17) [009 p395].
 Note (our notes, around the quote): 5. Sees through Cade's act. p94 (#17) [009 p395]: "I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD." · (p92, whisper lettering) "Have your eyes been opened yet, Skywalker?"
-![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+![p94 Talon reports; Krayt's "JEDI OF OLD"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:356`
 
-- Note (summary from our notes, not a quotation): ![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+- Note (summary from our notes, not a quotation): ![p94 Talon reports; Krayt's "JEDI OF OLD"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p94 — `p094-talon-cade-liar-krayt-jedi-of-old.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:358`
@@ -5405,7 +5369,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:421`
 Note (our notes, around the quote): Death and vanishing body. p113–114 (#18): "I AM JEDI. I DO NOT FEAR DEATH." · His robes collapse empty after Krayt's thrust; a blue Force-voice balloon: "THERE IS NO DEATH. THE FORCE WILL BE WITH YOU, CADE SKYWALKER..."
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:422`
 
-- Note (summary from our notes, not a quotation): ![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Hosk's body vanishes; Krayt: "IT'S A LIE!"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p114-hosk-vanishes-no-one-dies.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p114 — `p114-hosk-vanishes-no-one-dies.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:424`
@@ -5413,7 +5377,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:424`
 > YOUR FATHER'S LIGHTSABER -- ENCASED IN TRANSPARISTEEL AND GIVEN A PLACE OF HONOR TO MARK A FALLEN, BUT ESTEEMED FOE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Krayt honours his saber. p52 (#15).
 Note (our notes, around the quote): Krayt honours his saber. p52 (#15): "YOUR FATHER'S LIGHTSABER -- ENCASED IN TRANSPARISTEEL AND GIVEN A PLACE OF HONOR TO MARK A FALLEN, BUT ESTEEMED FOE."
-![p52 Kol's saber encased in transparisteel](013-legacy-vol-3-claws-of-the-dragon-panels/p052-krayt-honours-kol-saber.jpg) *(p52)*
+![p52 Kol's saber encased in transparisteel](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p052-krayt-honours-kol-saber.jpg) *(p52)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:430`
 
 > YOU'RE THE MONSTER WHO IS RESPONSIBLE FOR MY FATHER'S DEATH
@@ -5451,8 +5415,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:442`; `notes
 
 - Note (summary from our notes, not a quotation): XoXaan (p89, p91): Talon calls her Krayt's "FIRST AND GREATEST TEACHER"; she calls herself "ONE OF THE FIRST OF THE SITH LORDS".
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p89 Hett becomes a bounty hunter; vs Resk](013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
-![p91 Hett shatters the barrier; XoXaan](013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
+![p89 Hett becomes a bounty hunter; vs Resk](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
+![p91 Hett shatters the barrier; XoXaan](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:443`
 
 > MINE INVOLVES A FAST RIDE AND A BIG BLASTER. *(p120)*
@@ -5511,15 +5475,15 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:504`
 > BARGAINING ASSUMES WE ARE EQUALS. WE ARE NOT. *(p45)*
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Darth Krayt. POV: Darth Krayt.
 Label in our notes: Talon, p70). (Talon, p88). (p45
-![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+![p70 Talon throws Cade with the Force](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:510`
 
 - Note (summary from our notes, not a quotation): Darth Wyyrlok: "ALWAYS THE FIRST OF HIS SERVANTS" (p10); bars a Hand at the door on Krayt's order (p49); questions Krayt as "ONE OF MY DUTIES" (p81).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels. POV: Darth Wyyrlok, about Darth Krayt / A'Sharad Hett.
-![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
-![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
+![p10 Wyyrlok: "MY LORD IS DYING"; Krayt: "SKYWALKER IS COMING."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p010-wyyrlok-my-lord-is-dying.jpg)
+![p81 Krayt: "SKYWALKER'S ARROGANCE WILL BE HIS UNDOING"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p081-krayt-cade-arrogance-cure-me.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:511`
 
 > THEY THREATEN TO CONSUME ME.
@@ -5539,7 +5503,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:538`
 - Note (summary from our notes, not a quotation): Use: p128, Krayt's own statement, with "TRAINING AS BOTH JEDI AND SITH" and Clone Wars service.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: "Killed thousands of opponents" (debates #2, #6, #8, #108, #114).
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:548`
 
 - Note (summary from our notes, not a quotation): Vong-enhanced Krayt vs CW Hett (debates #2, #45).
@@ -5569,11 +5533,11 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:555`
 - Note (summary from our notes, not a quotation): Use: beats Nihl one-on-one (p124–126); the burst makes four Sith incl. Krayt recoil (p116); double dark-side healing (p44); purges a lethal drug dose (p38); Krayt's "GREAT RAW POWER" (p72); flees Krayt's tower alive.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: End-of-Claws Cade (debates #61, #81, #85, #91).
-![p44 Cade heals both at once](013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
-![p72 "YOU HAVE GREAT RAW POWER"](013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
-![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p44 Cade heals both at once](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
+![p72 "YOU HAVE GREAT RAW POWER"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
+![p116 the burst; four Sith recoil](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p125 Cade beats Nihl](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:557`
 
 - Note (summary from our notes, not a quotation): Counter: the Nihl win comes right after a surprise burst caught Nihl, and Cade is in a heightened rage state. Talon beats him twice (p78–80, p110). Against Krayt he ends up on the floor before Corde's shot (p132), and Krayt is holding back because he needs him alive (p112). Krayt's own rating: "NEITHER JEDI NOR SITH" (p128).
@@ -5585,9 +5549,9 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:558`
 > [fragment — full passage not on file]
 — Source: (debate #81 note in legends-feats) — Owner Material 013 — Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Cade "held off Krayt" (debate #81 note in legends-feats). Claws doesn't show a prolonged duel: about three panels of contact, Cade floored, Krayt interrupted by a blaster (p128–133). Use it only as "survived a handicapped Krayt with outside help".
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
-![p129 Cade reads Krayt's illness](013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p129 Cade reads Krayt's illness](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p129-cade-reads-krayt-illness.jpg)
+![p132 Corde shoots Krayt off Cade](../../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:560`
 
 - Note (summary from our notes, not a quotation): Wyyrlok III (debates #31, #60, #93). Claws gives no combat at all; only "FIRST OF HIS SERVANTS" status (p10) and Krayt's trust (p81).
@@ -7009,8 +6973,8 @@ Our notes: `legends-feats.md:2360`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU). POV: Bio, about Darth Krayt / A'Sharad Hett.
 Context: Bio: "Arguably the most powerful man in the galaxy"; survived Order 66 by slaying his clones; fled Tatooine "in disgrace" after the Kenobi duel (material 011; p169)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in-2.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in-2.jpg)
 Our notes: `legends-feats.md:2406`; `notes/materials/011-legacy-era-campaign-guide.md:900`
 
 > "The Yuuzhan Vong implants used to extend his life begin to consume him. Furthermore, healing trances and Force healing become less effective. Darth Krayt knows that his time is limited unless a new solution is found."
@@ -7024,9 +6988,9 @@ Our notes: `legends-feats.md:2406`; `notes/materials/011-legacy-era-campaign-gui
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Decline: Vong implants "begin to consume him"; healing trances weaken; secretly "is dying" (material 011; p54, p170). Supports the coral-seed decline argued in debate #6. The guide does not mention fatigue after fighting Imperial Knights.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p54 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p054-krayt-holocron-dying.jpg)
 Our notes: `legends-feats.md:2413`
 
 - Note (summary from our notes, not a quotation): Stats (pre-Legacy: War version; debates #6, #114, #129): CL 20 (Jedi 7/Jedi Knight 4/Sith apprentice 4/Sith Lord 5). UtF +22. Ref 36, Fort 38, Will 38. hp 135. Dark Side 20. Force Points 10. Lightsaber +24 (2d8+12, ×3 crit), or +20/+20/+20 with Double Attack and Dual Weapon Mastery II. Five Force secrets. Force lightning (2), dark rage. (material 011; p170)
@@ -7043,7 +7007,7 @@ Our notes: `legends-feats.md:2425`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Kills Gial Gahan personally; orders the extermination of one-tenth of the Mon Calamari; kills Hosk (material 011; p137, p116, p195)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p137 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p137-gial-gahan.jpg)
 Our notes: `legends-feats.md:2426`
 
 > "Despite her relative inexperience, Darth Talon is still one of the most formidable lightsaber duelists in the Sith Order."
@@ -7052,20 +7016,20 @@ Our notes: `legends-feats.md:2426`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: "One of the most formidable lightsaber duelists in the Sith Order" despite "relative inexperience"; killed her master Darth Ruyn on Krayt's order (material 011; p173; debate #67)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `legends-feats.md:2457`
 
 - Note (summary from our notes, not a quotation): Maladi: CL 15. UtF +19. hp 97, DR 10. Lightsaber +14. A "'true' Sith Lord"; Krayt's personal physician. (material 011; p171; debate #35)
   — Source: Legends Feats & Quotes (Star Wars Legends / EU).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
 Our notes: `legends-feats.md:2468`
 
 > Darth Krayt's most wanted enemy
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Roan Fel: CL 20. UtF +22. Ref 35, Fort 34, Will 36. hp 157. Lightsaber +22 (2d8+12). No Force secrets. "Darth Krayt's most wanted enemy". (material 011; p178)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p178 — full quote as printed (panel)](../../notes/materials/011-legacy-era-campaign-guide-panels/p178-roan-fel-bio.jpg)
 Our notes: `legends-feats.md:2500`
 
 - Note (summary from our notes, not a quotation): 130 ABY coup: the only Sith drawn fighting in the wordless Knight massacre; runs Mohrgan through (material 012; p25–27, Legacy #8). Mohrgan expected the Sith to have "LOST THE ELEMENT OF SURPRISE" (p23).
@@ -7629,7 +7593,7 @@ Our notes: `notes/materials/008-caedus-wank-problems-caedus-maul-vs-yoda.md:141`
 - Note (summary from our notes, not a quotation): #114 (Revan vs Krayt): the "Legacy CG" stat connections rest on this book's Krayt (CL20, UtF +22). ILS's date ("Legacy Era Campaign Guide: Mar 17, 2009") fits the book's "First Printing: March 2009" (p3); the exact day isn't printed. The pre-rebirth point stands.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Posted by: Revan vs Krayt.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p3 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p003-first-printing-march-2009.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p3 — full quote as printed](../../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p003-first-printing-march-2009.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1084`
 
 > Krayt ~ RotS Yoda by stats

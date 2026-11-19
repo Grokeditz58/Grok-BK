@@ -14,7 +14,6 @@
 > Despite the efforts of Ferus Olin to protect both Palpatine and Teda, a seeker droid killed Teda with a single blast to the chest.
 — Source: scan pages 201–240; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Palpatine (Darth Sidious): "Despite the efforts of Ferus Olin to protect both Palpatine and Teda, a seeker droid killed Teda with a single blast to the chest." Source: The Complete Star Wars Encyclopedia, Vol. III, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.227 — full quote as printed](quotes/v3-p227-despite-the-efforts-of-ferus-olin.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:290`
 
 ## Star Wars Insider #86 (2006)
@@ -34,7 +33,6 @@ Our notes: `notes/materials/038-star-wars-insider/088-ins088.md:341`
 > He loses his strong connection to the Force; he makes attachments. He gains a sense of humor; he's easier in his own skin. He knows what it's like to be loved, and that makes him vulnerable.
 — Source: Star Wars Insider #102 (2008); Ferus Olin — entry/section: Watson on Ferus's change.
 Note (our notes, around the quote): Ferus Olin — entry/section: Watson on Ferus's change: ""He loses his strong connection to the Force; he makes attachments. He gains a sense of humor; he's easier in his own skin. He knows what it's like to be loved, and that makes him vulnerable." —Jude Watson, Star Wars Insider 102, p. 61" Source: *Star Wars Insider #102* (2008), scan p.61
-![Quote image: *Star Wars Insider #102* (2008), scan p.61 — full quote as printed](quotes/ins102-s61-he-loses-his-strong-connection-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:646`
 
 ## https://starwars.fandom.com/wiki/Darth_Vader/Legends ; https://starwars.fandom.com/wiki/Anakin_Skywalker/Legends

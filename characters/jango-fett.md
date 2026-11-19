@@ -77,7 +77,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:703`; `not
 > The Mandalorian army fought to the last man; only their commander Jango survived, to become the prisoner of slavers.
 — Source: Part Two: The Fall of the Republic; Jango Fett; Count Dooku — Galidraan — Jango sole survivor.
 Note (our notes, around the quote): Jango Fett; Count Dooku — Galidraan — Jango sole survivor: "The Mandalorian army fought to the last man; only their commander Jango survived, to become the prisoner of slavers." Source: The New Essential Chronology, p.35
-![Quote image: The New Essential Chronology, p.35 — full quote as printed](quotes/nec-p35-galidraan-jango-sole-survivor.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:55`
 
 > As a final test of loyalty for his would-be ap- prentice, he ordered Dooku to kill Sifo-Dyas, After the Gandestine murder, Dooku erased all races of Kamino from the Jedi archives and an- nounced his intention to leave the Order. Now a true Sth Lord, Dooku took the secret name of Darth Tyra- sus. He rctumed to his native Serenno, taking up the Sve and holdings due to him as the planet's hereditary Count, then disappeared from public view. Dooku be- came the newest Jedi Master to leave the Order, mak- ing the Lost Nineteen into the Lost Twenty.
@@ -89,31 +88,27 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Jango Fett; Count Dooku — Jango the Prime Clone: "Dooku had his eye on Jango Fett, the greatest (and one of the last) of the Mandalorians." Source: The New Essential Chronology, p.43
-![Quote image: The New Essential Chronology, p.43 — full quote as printed](quotes/nec-p43-jango-the-prime-clone.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:123`
 
 > Having heard that Jango had also tracked down and killed Vizsla of the Mandalorian Death Watch, it was clear to Dooku that slavery had done nothing to dull Jango's edge.
 — Source: Part Two: The Fall of the Republic; Jango Fett — Jango kills Vizsla.
 Note (our notes, around the quote): Jango Fett — Jango kills Vizsla: "Having heard that Jango had also tracked down and killed Vizsla of the Mandalorian Death Watch, it was clear to Dooku that slavery had done nothing to dull Jango's edge." Source: The New Essential Chronology, p.43
-![Quote image: The New Essential Chronology, p.43 — full quote as printed](quotes/nec-p43-jango-kills-vizsla.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:125`
 
 > Although Jango got the drop on Komari Vosa, it was Dooku who delivered the killing blow.
 — Source: Part Two: The Fall of the Republic; Jango Fett; Count Dooku — Komari Vosa.
 Note (our notes, around the quote): Jango Fett; Count Dooku — Komari Vosa: "Although Jango got the drop on Komari Vosa, it was Dooku who delivered the killing blow." Source: The New Essential Chronology, p.44
-![Quote image: The New Essential Chronology, p.44 — full quote as printed](quotes/nec-p44-komari-vosa.jpg)
+![Quote image: The New Essential Chronology, p.44 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p44-komari-vosa.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:132`
 
 > Jango bested Obi-Wan in combat and escaped with Boba in Slave I.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Jango Fett; Obi-Wan Kenobi — Jango bests Obi-Wan on Kamino: "Jango bested Obi-Wan in combat and escaped with Boba in Slave I." Source: The New Essential Chronology, p.52
-![Quote image: The New Essential Chronology, p.52 — full quote as printed](quotes/nec-p52-jango-bests-obi-wan-on-kamino.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:208`
 
 > Mace Windu beheaded Jango Fett, yet Dooku's forces held the upper hand until Yoda's armies arrived aboard laser-spewing Republic gunships.
 — Source: Part Two: The Fall of the Republic; Mace Windu; Jango Fett — Mace beheads Jango.
 Note (our notes, around the quote): Mace Windu; Jango Fett — Mace beheads Jango: "Mace Windu beheaded Jango Fett, yet Dooku's forces held the upper hand until Yoda's armies arrived aboard laser-spewing Republic gunships." Source: The New Essential Chronology, p.54
-![Quote image: The New Essential Chronology, p.54 — full quote as printed](quotes/nec-p54-mace-beheads-jango.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:222`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -121,7 +116,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Antonin's forces were no match for Jango Fett.
 — Source: scan pages 41–80; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Antonin's forces were no match for Jango Fett." Source: The Complete Star Wars Encyclopedia, Vol. I, p.36
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.36 — full quote as printed](quotes/v1-p36-antonins-forces-were-no-match-for.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:88`
 
 > Rakir Banai was wanted by Hutt crime lords, and his ship was captured by bounty hunters when Kitster and his mother were sold into slavery. banda Tiny nibbling insects found on Ta­ tooine. Bandeam, Sors A frightened human youngling killed in Darth Vader's attack on the Jedi Temple after Order 66. bandflllA musical instrument that featured a number of mounted horn bells. Bane,CadCD Bando Gora A clandestine criminal or­ ganization and Force-worshipping cult that targeted large corporations in the final years of the Old Republic. It was based out of the planet Kohlma. Sando Gora's machinations conflicted with Darth Sidious's master plan, so the Sith Lord had Count Dooku deal with the cult, which came under the command of his fallen disciple Komari Vosa. To that end, Dooku hired rival bounty hunters Jango Fett and Montross to track down Vosa. With Vosa's defeat, Sando Gora disintegrated as a threat, and Fett proved himself capable enough in Dooku's eyes to become the template of the Republic's clone army. Sando Gora cultists seemed twisted by the dark side, often donning hoods and masks to increase their fearsome appearance. BandomeerBefore being despoiled by the invading Yuuzhan Vong, this planet rich in mineral resources was home to the native, silver-haired Meerian species.
@@ -129,13 +123,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Count Dooku; Jango Fett: "To that end, Dooku hired rival bounty hunters Jango Fett and Montross to track down Vosa." Source: The Complete Star Wars Encyclopedia, Vol. I, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.57 — full quote as printed](quotes/v1-p57-to-that-end-dooku-hired-rival.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:251`
 
 > Jango Fett destroyed the vessel, forcing Vizsla to eject in an escape pod.
 — Source: scan pages 161–200; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Jango Fett destroyed the vessel, forcing Vizsla to eject in an escape pod." Source: The Complete Star Wars Encyclopedia, Vol. I, p.176
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.176 — full quote as printed](quotes/v1-p176-jango-fett-destroyed-the-vessel-forcing.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:266`
 
 > Ferlonlc Nebula A small nebula, it was located near the Dantooine system. Ferlanl, Luthus The leader of the Ferlani criminal family based on Esseles, he spent much of his youth representing the family on business throughout the Darpa sector and within Hutt space. Outwardly, Luthus Ferlani seemed like a kindly gentleman, but once he got angry or was disappointed, he could be terrifying. Fernooda As the liaison between Annoo­ dat radical General Ashaar Khorda and the outside world, this Dug hired both Jango Fett and Zam Wesell to steal the Infant of Shaa-a tiny religious statue that contained huge amounts of Force energy-in a plot to de­ stroy Coruscant. Jango succeeded and got his bounty, but in the end strangled Fernooda to death as he and Wesell thwarted the plot. Ferob, Captain An Imperial captain, he commanded the Victory-class Star Destroyer Iron Fist in the Unknown Regions under the watchful eye of Grand Admiral Thrawn. fero xyn This vicious predator, once native to the galaxy of the Yuuzhan Vong, was the only creature from their homeworld that had genetic material compatible with a vornskr. The initial Yuuzhan Vong attempts to create a Jedi-hunting creature from pure vornskr stock proved only mildly successful-the beast wasn't ferocious enough.
@@ -143,7 +135,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jango Fett: "Jango succeeded and got his bounty, but in the end strangled Fernooda to death as he and Wesell thwarted the plot." Source: The Complete Star Wars Encyclopedia, Vol. I, p.264
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.264 — full quote as printed](quotes/v1-p264-jango-succeeded-and-got-his-bounty.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:256`
 
 > Sent to apprehend the bounty hunter for the attempted assassina­ tion of a Naboo Senator, Kenobi brawled with Jango as the Fetts sought to escape from Ka­ mino. Young Boba helped his father by pin­ ning the Jedi down with explosive laserfire from the Fett starship, SlaveI. Fleeing, the Fetts journeyed to Geono­ sis, where Jango's benefactor, Darth Tyranus, resided. Boba watched as his father's en­ emies were sentenced to death-but Jedi proved very hard to kill. A huge battle erupted as Jedi reinforcements stormed Geonosis to free their col­ leagues. Jango entered the fray, only to be killed by Jedi Master Mace Windu. Boba was shocked to witness his fa­ ther's swift death, and he quietly cra­ dled Jango's empty helmet as Geonosis erupted into all-out war. After Jango's death, Boba picked up the pieces of his shattered life with the help of his "black book;' an en­ coded message unit written by Jango with instructions for survival should Boba ever find himself alone. After the Battle of Geonosis, Boba quietly buried his father's body on Mandalore from fallen prey-that underscored his lethality. Fett's weapon of choice was a sawed-offBlasTech EE-3 rifle.
@@ -151,7 +142,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jango Fett; Mace Windu: "Jango entered the fray, only to be killed by Jedi Master Mace Windu." Source: The Complete Star Wars Encyclopedia, Vol. I, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.266 — full quote as printed](quotes/v1-p266-jango-entered-the-fray-only-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:14`
 
 - Note (summary from our notes, not a quotation): Page contents: 1184 words, 18 paragraphs | headings/entries: Fett, Jango; Fevye'starn; Fex-M3; Fey'ja, Maja; Fey'jia, Torel
@@ -163,19 +153,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jango Fett — entry/section: Fett, Jango: "Jango Fett was orphaned at an early age, the son of simple Concord Dawn farmers killed by brutal marauders." Source: The Complete Star Wars Encyclopedia, Vol. I, p.268
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.268 — full quote as printed](quotes/v1-p268-jango-fett-was-orphaned-at-an.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:32`
 
 > Though the Mandalorian supercommandos were wiped out by the Jedi Knights, Jango was one of the few left to still wear the armor.
 — Source: scan pages 281–320; Jango Fett — entry/section: Fett, Jango.
 Note (our notes, around the quote): Jango Fett — entry/section: Fett, Jango: "Though the Mandalorian supercommandos were wiped out by the Jedi Knights, Jango was one of the few left to still wear the armor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.268
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.268 — full quote as printed](quotes/v1-p268-though-the-mandalorian-supercommandos-were-wiped.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:34`
 
 > His blaster skills killed several Jedi, but Jango was not quite prepared to face off against Jedi Master Mace Windu.
 — Source: scan pages 281–320; Jango Fett; Mace Windu — entry/section: Fett, Jango.
 Note (our notes, around the quote): Jango Fett; Mace Windu — entry/section: Fett, Jango: "His blaster skills killed several Jedi, but Jango was not quite prepared to face off against Jedi Master Mace Windu." Source: The Complete Star Wars Encyclopedia, Vol. I, p.268
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.268 — full quote as printed](quotes/v1-p268-his-blaster-skills-killed-several-jedi.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:38`
 
 > Kenobi and his compatriots were captured on Geonosis, which was revealed to be a Separatist stronghold. They were to be executed in grand Geonosian fashion, but their deaths were stalled by the sudden ar­ rival ofJedi reinforcements. Tasked with protect­ ing Lord Tyranus, Jango entered the fray against the Jedi. His blaster skills killed several Jedi, but Jango was not quite prepared to face off against Jedi Master Mace W indu. Windu did not break stride as he deflected Jango's incoming blasts and swiftly cleaved off the hunter's head with a single stroke of his luminescent blade. Jango's battle-dented helm bounced along the dusty ground ofthe Geonosian arena, to be picked up by a stunned and newly orphaned Boba Fett. fever wasp Native to the jungles of Haruun Kal, this vicious insect was a parasite that laid its eggs in every living being it could bite. The lar­ vae ofthe fever wasp fed on blood and flesh; they also liked to consume thyssel bark, and those Ko­ runnai who chewed the bark as a stimulant and were bitten by fever wasps died quickly. When the larvae reached the brain of their host, they continued to grow until they hatched, feeding on the brain cells and eventuallykilling the host.
@@ -183,13 +170,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jango Fett; Mace Windu — entry/section: Fett, Jango: "Windu did not break stride as he deflected Jango's incoming blasts and swiftly cleaved off the hunter's head with a single stroke of his luminescent blade." Source: The Complete Star Wars Encyclopedia, Vol. I, p.268
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.268 — full quote as printed](quotes/v1-p268-windu-did-not-break-stride-as.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:40`
 
 > Half of the Jedi task force was killed while the Mandalorians were wiped out—except for Jango Fett, who was turned over to the governor.
 — Source: scan pages 321–360; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Half of the Jedi task force was killed while the Mandalorians were wiped out—except for Jango Fett, who was turned over to the governor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.315
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.315 — full quote as printed](quotes/v1-p315-half-of-the-jedi-task-force.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:67`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -197,7 +182,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Jango Fett established one for his son Boba before he was killed on Geonosis.
 — Source: scan pages 41–80; Jango Fett; Boba Fett.
 Note (our notes, around the quote): Jango Fett; Boba Fett: "Jango Fett established one for his son Boba before he was killed on Geonosis." Source: The Complete Star Wars Encyclopedia, Vol. II, p.41
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.41 — full quote as printed](quotes/v2-p41-jango-fett-established-one-for-his.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:56`
 
 - Note (summary from our notes, not a quotation): Page contents: 1092 words, 26 paragraphs | headings/entries: Jangelile; Jangoed; Jango Fett Arena; Jangotat; Janguine; Janiidakara; Janissariad; Jankok; Janks; Jan-lo, Sunnar; Janna, Neile; Jannick, Jerus
@@ -207,37 +191,31 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > General Khorda nearly succeeded in destroying the Infant near Coruscant's central power core, but was killed in a struggle with Jango Fett and Jedi Master Yarael Poof.
 — Source: scan pages 201–240; Jango Fett; Yarael Poof.
 Note (our notes, around the quote): Jango Fett; Yarael Poof: "General Khorda nearly succeeded in destroying the Infant near Coruscant's central power core, but was killed in a struggle with Jango Fett and Jedi Master Yarael Poof." Source: The Complete Star Wars Encyclopedia, Vol. II, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.215 — full quote as printed](quotes/v2-p215-general-khorda-nearly-succeeded-in-destroying.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:218`
 
 > A handful of Death Watchmen survived, as did the True Mandalorian Jango Fett.
 — Source: scan pages 281–320; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "A handful of Death Watchmen survived, as did the True Mandalorian Jango Fett." Source: The Complete Star Wars Encyclopedia, Vol. II, p.284
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.284 — full quote as printed](quotes/v2-p284-a-handful-of-death-watchmen-survived.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:87`
 
 > Vizsla tried to destroy the True Mandalorians on Concord Dawn, but Mereel and a small force managed to survive, thanks in part to the efforts of a young Jango Fett.
 — Source: scan pages 281–320; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Vizsla tried to destroy the True Mandalorians on Concord Dawn, but Mereel and a small force managed to survive, thanks in part to the efforts of a young Jango Fett." Source: The Complete Star Wars Encyclopedia, Vol. II, p.307
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.307 — full quote as printed](quotes/v2-p307-vizsla-tried-to-destroy-the-true.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:280`
 
 > Myles A Mandalorian shock trooper who served under Jango Fett, Myles was killed when he was cut in half by a Jedi Knight during the Battle of Galidraan.
 — Source: scan pages 321–360; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Myles A Mandalorian shock trooper who served under Jango Fett, Myles was killed when he was cut in half by a Jedi Knight during the Battle of Galidraan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.347
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.347 — full quote as printed](quotes/v2-p347-myles-a-mandalorian-shock-trooper-who.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:236`
 
 > Fett survived a missile blast, and got the back-up set of armor—once worn by Jango Fett—that he kept on Ma'ar Shaddam.
 — Source: scan pages 361–400; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Fett survived a missile blast, and got the back-up set of armor—once worn by Jango Fett—that he kept on Ma'ar Shaddam." Source: The Complete Star Wars Encyclopedia, Vol. II, p.393
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.393 — full quote as printed](quotes/v2-p393-fett-survived-a-missile-blast-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:316`
 
 > She wanted them destroyed, but Orun Wa stepped in and asked Jango Fett to evaluate them.
 — Source: scan pages 401–440; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "She wanted them destroyed, but Orun Wa stepped in and asked Jango Fett to evaluate them." Source: The Complete Star Wars Encyclopedia, Vol. II, p.395
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.395 — full quote as printed](quotes/v2-p395-she-wanted-them-destroyed-but-orun.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:12`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -245,43 +223,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Boba Fett used a robot scoop to carry away the body of his father, Jango Fett, from the arena where he was beheaded by Mace Windu.
 — Source: scan pages 81–120; Boba Fett; Jango Fett; Mace Windu.
 Note (our notes, around the quote): Boba Fett; Jango Fett; Mace Windu: "Boba Fett used a robot scoop to carry away the body of his father, Jango Fett, from the arena where he was beheaded by Mace Windu." Source: The Complete Star Wars Encyclopedia, Vol. III, p.103
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.103 — full quote as printed](quotes/v3-p103-boba-fett-used-a-robot-scoop.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:228`
 
 > After the outbreak of the Clone Wars and the death of Jango Fett, Spar went to work rebuilding Jango's supercommandos from local police on Mandalore, where rumor spread that the son of Jango Fett, the last True Mandalorian, had survived to lead them.
 — Source: scan pages 161–200; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "After the outbreak of the Clone Wars and the death of Jango Fett, Spar went to work rebuilding Jango's supercommandos from local police on Mandalore, where rumor spread that the son of Jango Fett, the last True Mandalorian, had survived to lead them." Source: The Complete Star Wars Encyclopedia, Vol. III, p.182
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.182 — full quote as printed](quotes/v3-p182-after-the-outbreak-of-the-clone.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:329`
 
 > Unfortunately, his lack of combat experience became clear during the early stages of the battle when the bounty hunter Jango Fett shot and killed him.
 — Source: scan pages 241–280; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Unfortunately, his lack of combat experience became clear during the early stages of the battle when the bounty hunter Jango Fett shot and killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.261
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.261 — full quote as printed](quotes/v3-p261-unfortunately-his-lack-of-combat-experience.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:230`
 
 > Vizsla seemed to gain the upper hand when he injected poison into Jango's body but was unprepared for the pack of dire-cats that ripped him apart and ate him.
 — Source: scan pages 281–320; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Vizsla seemed to gain the upper hand when he injected poison into Jango's body but was unprepared for the pack of dire-cats that ripped him apart and ate him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.309
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.309 — full quote as printed](quotes/v3-p309-vizsla-seemed-to-gain-the-upper.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:280`
 
 > Although Kamino was devastated during the Clone Wars, Taun We survived, along with a portion of the genetic material harvested from Jango Fett.
 — Source: scan pages 321–360; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Although Kamino was devastated during the Clone Wars, Taun We survived, along with a portion of the genetic material harvested from Jango Fett." Source: The Complete Star Wars Encyclopedia, Vol. III, p.323
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.323 — full quote as printed](quotes/v3-p323-although-kamino-was-devastated-during-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:62`
 
 > Zam Wesell was also a rival of Jango Fett, as the two were generally considered the best bounty hunters of their generation.
 — Source: scan pages 321–360; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Zam Wesell was also a rival of Jango Fett, as the two were generally considered the best bounty hunters of their generation." Source: The Complete Star Wars Encyclopedia, Vol. III, p.326
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.326 — full quote as printed](quotes/v3-p326-zam-wesell-was-also-a-rival.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:91`
 
 > Wesell escaped to the Outlander Club, but Jango refused to have his plans compromised and killed Wesell with a poison dart as the Jedi were about to capture her.
 — Source: scan pages 321–360; Hero of Tython; Jango Fett.
 Note (our notes, around the quote): Hero of Tython; Jango Fett: "Wesell escaped to the Outlander Club, but Jango refused to have his plans compromised and killed Wesell with a poison dart as the Jedi were about to capture her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.327
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.327 — full quote as printed](quotes/v3-p327-wesell-escaped-to-the-outlander-club.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:98`
 
 ## The New Essential Guide to Characters (2002)
@@ -289,13 +260,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > Jango Fett is killed by Mace Windu.
 — Source: scan pages 1–30; Jango Fett; Mace Windu.
 Note (our notes, around the quote): Jango Fett; Mace Windu: "Jango Fett is killed by Mace Windu." Source: The New Essential Guide to Characters, p.13
-![Quote image: The New Essential Guide to Characters, p.13 — full quote as printed](quotes/negc-p13-jango-fett-is-killed-by-mace.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:39`
 
 > Orphaned when his settler parents were killed in an uprising, Jango Fett joined the Mandalorian peacekeepers, a group of nomadic mercenaries with whom he traveled for a few years.
 — Source: scan pages 61–90; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Orphaned when his settler parents were killed in an uprising, Jango Fett joined the Mandalorian peacekeepers, a group of nomadic mercenaries with whom he traveled for a few years." Source: The New Essential Guide to Characters, p.69
-![Quote image: The New Essential Guide to Characters, p.69 — full quote as printed](quotes/negc-p69-orphaned-when-his-settler-parents-were.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:21`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -343,7 +312,6 @@ Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 Note (our notes, around the quote): Jango Fett — entry/section: Jango traps the heroes in the arena: "“You’re not going anywhere!” Jango Fett shouts. “Did you really think we would let you go that easily? You still have more guards to fight!”" Source: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d064-s2-you-re-not-going-anywhere-jango.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced-missions.md:19`
 
 > If your Hero gets knocked out, you don’t get any bonus points. Advanced Mission 2: Jango Attacks! The Heroes try to escape the Battle Arena. Suddenly, the armored figure of Jango Fett appears on the arena balcony. He touches a control on his wrist, and all of the arena doors slam shut. The Heroes are trapped, at the mercy of the bounty hunter! They can’t escape and help the Republic until Jango Fett is defeated! Jango’s Message One player should read this section aloud: “You’re not going anywhere!” Jango Fett shouts. “Did you really think we would let you go that easily? You still have more guards to fight!”
@@ -351,7 +319,6 @@ Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 Note (our notes, around the quote): Jango Fett — entry/section: Advanced Mission 2: Jango Attacks!: "They can't escape and help the Republic until Jango Fett is defeated!" Source: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d064-s2-they-cant-escape-and-help-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced-missions.md:25`
 
 ## Characters/Hutts/Wallanooga and Dreddon.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -365,7 +332,6 @@ Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:25`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Wallanooga and Dreddon (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Wallanooga_and_Dreddon_pdf_44f04ad903`).)
 Note (our notes, around the quote): Zam Wesell; Jango Fett; Aurra Sing — entry/section: The double double-cross: "(He picked up much of the late Wallanooga's gunrunning business when the one-eyed Hutt was killed by Aurra Sing.) He met his end five years before the Battle of Geonosis, when Zam Wesell took a contract on his life. The man who had hired her, the Black Sun Vigo Antonin, was killed by Jango Fett before she could collect her pay. In the end, neither hunter was rewarded -- as it turned out, Dreddon was the one who'd hired Fett." Source: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Wallanooga and Dreddon* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d090-s2-he-picked-up-much-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/090-wallanooga-and-dreddon.md:27`
 
 ## Characters/Miniatures/Grand Army of the Republic.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -377,7 +343,6 @@ Our notes: `notes/materials/037-sw-d20-folder/109-grand-army-of-the-republic.md:
 > The most advanced troops of the Republic Army are specialized clones known as ARC Troopers. These clones have not been modified like the standard Clone Trooper, resulting in fighters that are more independent. ARC Troopers were hand-trained by Jango Fett, making them excellent combatants but slightly mistrustful of their Jedi Generals.
 — Source: Characters/Miniatures/Grand Army of the Republic.pdf [Star Wars Roleplayi; Jango Fett — entry/section: ARC Troopers trained by Jango Fett.
 Note (our notes, around the quote): Jango Fett — entry/section: ARC Troopers trained by Jango Fett: "The most advanced troops of the Republic Army are specialized clones known as ARC Troopers. These clones have not been modified like the standard Clone Trooper, resulting in fighters that are more independent. ARC Troopers were hand-trained by Jango Fett, making them excellent combatants but slightly mistrustful of their Jedi Generals." Source: *Grand Army of the Republic* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Grand Army of the Republic* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d109-s3-the-most-advanced-troops-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/109-grand-army-of-the-republic.md:24`
 
 ## Characters/Miniatures/Scum and Villainy.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -385,7 +350,6 @@ Our notes: `notes/materials/037-sw-d20-folder/109-grand-army-of-the-republic.md:
 > The Separatist movement saw Padme Amidala as a possible threat to fulfilling their ultimate goals. As a result, they hired the shapechanging assassin Zam Wesell to kill the young senator from Naboo. After failing to kill her on a landing bay on Naboo, Zam was given two kouhuns by Jango Fett to assist in a second attempt. Amidala's Jedi protectors, Anakin Skywalker and Obi-Wan Kenobi, foiled this attempt and captured the would-be assassin after a wild chase. But before she could talk, Zam was silenced by a poisoned dart fired by Jango Fett.
 — Source: Characters/Miniatures/Scum and Villainy.pdf [Star Wars Roleplaying Game R.
 Note (our notes, around the quote): Zam Wesell; Padmé Amidala; Jango Fett; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Zam Wesell's attempts on Amidala: "The Separatist movement saw Padme Amidala as a possible threat to fulfilling their ultimate goals. As a result, they hired the shapechanging assassin Zam Wesell to kill the young senator from Naboo. After failing to kill her on a landing bay on Naboo, Zam was given two kouhuns by Jango Fett to assist in a second attempt. Amidala's Jedi protectors, Anakin Skywalker and Obi-Wan Kenobi, foiled this attempt and captured the would-be assassin after a wild chase. But before she could talk, Zam was silenced by a poisoned dart fired by Jango Fett." Source: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Scum and Villainy* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d111-s1-the-separatist-movement-saw-padme-amidala.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/111-scum-and-villainy.md:12`
 
 ## Characters/ARC Trooper.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -401,19 +365,16 @@ Our notes: `notes/materials/037-sw-d20-folder/134-arc-trooper.md:10`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from True Colors (Karen Traviss) (text copy `MEGA_Legend_The_Republic_Commando_Series_Star_Wars_Clone_Wars_10_Republic_Commando_03_True_Colors_Karen_Traviss_epub`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from True Colors (Karen Traviss) (text copy `MEGA_Legend_The_Republic_Commando_Series_Star_Wars_Clone_Wars_10_Republic_Commando_03_True_Colors_Karen_Traviss_epub`).)
 Note (our notes, around the quote): Jango Fett; Obi-Wan Kenobi — entry/section: ARC troopers: Jango's secret orders: "Not every copy of Jango Fett became an unquestioningly loyal clone trooper in the Republic Army. Some specimens were bred to retain Jango's independent streak and display even more combat ferocity and skill, so the cloners of Kamino put them through special commando training. The Kaminoans held these special Advanced Recon Commandos, or ARC troopers, in reserve after Jango's death, both to provide genetic material and to defend the cloning operation itself, should the Clone Wars engulf the ocean world. Unknown to the Kaminoans, Jango Fett had instilled orders in the ARC troopers himself -- orders that should the Confederacy come for the youngest clones, those clones were to be destroyed. As one ARC trooper told Obi-Wan Kenobi, "They grow up loyal to the Republic, or they don't grow up at all."" Source: *ARC Trooper* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *ARC Trooper* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d134-s1-not-every-copy-of-jango-fett.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/134-arc-trooper.md:12`
 
 > Unfortunately for Kamino, that time has indeed come, but, luckily, the ARC troopers have performed splendidly. Although they don't mask their distrust of their Jedi generals and might even. refuse to follow orders with which they disagree, their effectiveness on the battlefield is without question. ARC troopers work most effectively in small squads assigned specific missions that require innovation. As more and more Jedi fall in battle, these super commandos help balance the scales between the upstart Confederates and the great Republic. Their numbers are not large, but they get the job done at all costs.
 — Source: Characters/ARC Trooper.pdf [Star Wars Roleplaying Game Revised Core (d20,; Jango Fett — entry/section: ARC troopers in battle.
 Note (our notes, around the quote): Jango Fett — entry/section: ARC troopers in battle: "Unfortunately for Kamino, that time has indeed come, but, luckily, the ARC troopers have performed splendidly. Although they don't mask their distrust of their Jedi generals and might even. refuse to follow orders with which they disagree, their effectiveness on the battlefield is without question. ARC troopers work most effectively in small squads assigned specific missions that require innovation. As more and more Jedi fall in battle, these super commandos help balance the scales between the upstart Confederates and the great Republic. Their numbers are not large, but they get the job done at all costs." Source: *ARC Trooper* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *ARC Trooper* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d134-s1-unfortunately-for-kamino-that-time-has.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/134-arc-trooper.md:14`
 
 > Unknown to the Kaminoans, r Jango Fett had instilled orders in the ARC troopers himself -- orders that should the Confederacy come for the youngest clones, those clones were to be destroyed.
 — Source: Characters/ARC Trooper.pdf [Star Wars Roleplaying Game Revised Core (d20,; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Unknown to the Kaminoans, r Jango Fett had instilled orders in the ARC troopers himself -- orders that should the Confederacy come for the youngest clones, those clones were to be destroyed." Source: *ARC Trooper* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *ARC Trooper* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d134-s1-unknown-to-the-kaminoans-r-jango.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/134-arc-trooper.md:16`
 
 ## Characters/Boba Fett (NJO Era).pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -421,7 +382,6 @@ Our notes: `notes/materials/037-sw-d20-folder/134-arc-trooper.md:16`
 > Long thought dead by many, Boba Fett -- possibly the last surviving clone of Jango -- has survived many brushes with death over the years. As the Yuuzhan Vong invade the galaxy, Fett mysteriously reappears with a band of Mandalorian hunters at his side. Fett and his team aid Han Solo and Princess Leia against the Yuuzhan Vong, though as always, Fett's true motivations are unclear. Is he bent merely on hunting the Vong? Or will he join the shattered forces of the Republic and the Jedi he has hated for so long?
 — Source: Characters/Boba Fett (NJO Era).pdf [Star Wars Roleplaying Game Revised Co.
 Note (our notes, around the quote): Boba Fett; Jango Fett; Han Solo; Leia Organa Solo — entry/section: Boba Fett in the NJO era: "Long thought dead by many, Boba Fett -- possibly the last surviving clone of Jango -- has survived many brushes with death over the years. As the Yuuzhan Vong invade the galaxy, Fett mysteriously reappears with a band of Mandalorian hunters at his side. Fett and his team aid Han Solo and Princess Leia against the Yuuzhan Vong, though as always, Fett's true motivations are unclear. Is he bent merely on hunting the Vong? Or will he join the shattered forces of the Republic and the Jedi he has hated for so long?" Source: *Boba Fett (NJO Era)* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Boba Fett (NJO Era)* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d135-s1-long-thought-dead-by-many-boba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/135-boba-fett-njo-era.md:12`
 
 ## Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -433,13 +393,11 @@ Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:10`
 > With the death of Jango Fett at the Battle of Geonosis, Count Dooku was left without a right-hand man. Although Jango's son Boba, who had found his way to Dooku's lair, would one day grow into a fierce warrior in his own right, Dooku needed another strongman, and quickly. The Sith apprentice found that strongman in Cydon Prax, an armored, reptilian Chistori with a heart of ice. In addition to giving him other missions, Dooku charged Prax with keeping an eye on young Boba, though the cold-blooded warrior was a poor substitute for the young clone's lost father.
 — Source: Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Cydon Prax; Count Dooku; Jango Fett; Boba Fett — entry/section: Dooku's new strongman: "With the death of Jango Fett at the Battle of Geonosis, Count Dooku was left without a right-hand man. Although Jango's son Boba, who had found his way to Dooku's lair, would one day grow into a fierce warrior in his own right, Dooku needed another strongman, and quickly. The Sith apprentice found that strongman in Cydon Prax, an armored, reptilian Chistori with a heart of ice. In addition to giving him other missions, Dooku charged Prax with keeping an eye on young Boba, though the cold-blooded warrior was a poor substitute for the young clone's lost father." Source: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d136-s1-with-the-death-of-jango-fett.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:12`
 
 > Cydon Prax's reptilian nature is not immediately apparent -- like Jango Fett, he usually wears imposing battle armor. Though Prax's armor is not Mandalorian in origin, it does boast an augmented shoulder-mounted blaster (the weapon has a +2 damage bonus, and Prax's Weapon Specialization feat adds another +2) and keeps his body temperature constant in any environment, negating Chistori cold-blooded penalties. Prax, a talented pilot, tangled with Anakin Skywalker during one of the first major engagements of the Clone Wars.
 — Source: Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Cydon Prax; Jango Fett; Darth Vader (Anakin Skywalker) — entry/section: Prax's armor: "Cydon Prax's reptilian nature is not immediately apparent -- like Jango Fett, he usually wears imposing battle armor. Though Prax's armor is not Mandalorian in origin, it does boast an augmented shoulder-mounted blaster (the weapon has a +2 damage bonus, and Prax's Weapon Specialization feat adds another +2) and keeps his body temperature constant in any environment, negating Chistori cold-blooded penalties. Prax, a talented pilot, tangled with Anakin Skywalker during one of the first major engagements of the Clone Wars." Source: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d136-s1-cydon-praxs-reptilian-nature-is-not.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:14`
 
 ## Jedi Counselling/Jedi Counseling 10 - Force Lightning.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -452,14 +410,12 @@ Our notes: `notes/materials/037-sw-d20-folder/173-jedi-counseling-10-force-light
 
 - Note (summary from our notes, not a quotation): Jango Fett; Boba Fett — entry/section: Flamethrowers cannot be deflected: "A: That's basically correct: The burst of flame from a flamethrower cannot be deflected. But remember that some nonblaster attacks can also be deflected (like slugthrowers, for example). The deciding factor should be whether or not the attacker makes an attack roll, and flamethrowers generally require a Reflex save, rather than making an attack roll. (This would mean that the flamethrower gauntlet on the armor worn by Jango and Boba Fett is in error; ignore the number in the "Critical" column.)" Source: *Jedi Counseling 16 - New Rules?* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 16 - New Rules?.pdf [Star Wars Roleplayi.
-![Quote image: *Jedi Counseling 16 - New Rules?* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d179-s2-a-thats-basically-correct-the-burst.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/179-jedi-counseling-16-new-rules.md:17`
 
 ## Jedi Counselling/Jedi Counseling 34 - Shifty Shi'ido.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Darth Vader (Anakin Skywalker); Jango Fett; Boba Fett — entry/section: Why armor is less useful (Vader, Jango, Boba): "A: The design team deliberately made armor less attractive to characters because we had observed that the heroes in the Star Wars movies didn't wear armor. So, in order to preserve the flavor of Star Wars, we made armor less useful than it is in, say Dungeons & Dragons. Characters like Darth Vader, Jango Fett, and Boba Fett all have their own reasons for wearing armor, and they've mostly adapted to it. Otherwise, armor is usually reserved for the "grunts": clone troopers and stormtroopers, and a little bit of armor padding worn by Rebel troops." Source: *Jedi Counseling 34 - Shifty Shi'ido* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 34 - Shifty Shi'ido.pdf [Star Wars Rolep.
-![Quote image: *Jedi Counseling 34 - Shifty Shi'ido* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d199-s2-a-the-design-team-deliberately-made.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/199-jedi-counseling-34-shifty-shiido.md:19`
 
 ## Jedi Counselling/Jedi Counseling 57.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -470,7 +426,6 @@ Our notes: `notes/materials/037-sw-d20-folder/224-jedi-counseling-57.md:17`
 
 - Note (summary from our notes, not a quotation): However, you may freely use Fringe characters from either set in your squads. (It's therefore possible for Jango and Boba Fett to fight side by side.)" Source: *Jedi Counseling 57* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 57.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 57* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d224-s2-a-technically-no-because-this-would.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/224-jedi-counseling-57.md:18`
 
 ## Jedi Counselling/Jedi Counseling 62.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -484,7 +439,6 @@ Our notes: `notes/materials/037-sw-d20-folder/230-jedi-counseling-62.md:22`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 62 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_62_pdf_f6d7ec13b1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 62 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_62_pdf_f6d7ec13b1`).)
 Note (our notes, around the quote): Obi-Wan Kenobi; Count Dooku; Mace Windu; Jango Fett — entry/section: Minis characters aren't holistic (Mace Windu vs Jango Fett): "And, yes, in the movie, Obi-Wan blocks Dooku's lightning with his lightsaber, but the Star Wars Minis game isn't designed to capture all the capabilities of a character. For example, why would Mace Windu have Lightsaber Block but not Lightsaber Deflect when we clearly see him deflecting Jango Fett's shots in the arena? The answer is that the characters in the Star Wars Minis game are built to make an exciting and fast-paced game, not to be a holistic representation of what that character can do. If you want that kind of detail, the Star Wars Roleplaying Game is better suited for it." Source: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 62* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d230-s3-and-yes-in-the-movie-obi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/230-jedi-counseling-62.md:27`
 
 ## Jedi Counselling/Jedi Counseling 64.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -494,7 +448,6 @@ Our notes: `notes/materials/037-sw-d20-folder/230-jedi-counseling-62.md:27`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 64 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_64_pdf_6789ebc7d0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 64 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_64_pdf_6789ebc7d0`).)
 Note (our notes, around the quote): Jango Fett; Obi-Wan Kenobi — entry/section: Jango's natural 20 in the Kamino rain: "A: Sorry, but your friend is right. A critical hit occurs on roll of a natural 20 -- in other words, when the number on the actual face of the die is 20. All other modifiers are irrelevant. The —2 penalty in that scenario applies to the total roll (to determine if your attack actually hits), but it doesn't change the natural roll. A natural 20 is a critical hit, and a natural 1 is an automatic miss." Source: *Jedi Counseling 64* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 64* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d232-s2-a-sorry-but-your-friend-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/232-jedi-counseling-64.md:30`
 
 ## Jedi Counselling/Jedi Counseling 69.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -505,7 +458,6 @@ Our notes: `notes/materials/037-sw-d20-folder/237-jedi-counseling-69.md:31`
 
 - Note (summary from our notes, not a quotation): As for characters with Flight, they, too, stop at the edge of the pit and take double damage. Again, you might visualize this as being unable to activate a jet pack quickly enough (Jango Fett) or perhaps slamming on the brakes and jarring oneself in the process (Battle Droid on STAP)." Source: *Jedi Counseling 69* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 69.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 69* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d237-s3-a-actually-pit-squares-should-be.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/237-jedi-counseling-69.md:32`
 
 ## Jedi Counselling/Jedi Counseling 74.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -516,7 +468,6 @@ Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:21`
 
 - Note (summary from our notes, not a quotation): A: Keep in mind that we didn't have this footage (or even the footage of Jango Fett's missile attack on Obi-Wan over Geonosis in Attack of the Clones) at the time those rules were written, so our original estimate of missile speed may not have been quite the same as what the special effects team at Industrial Light & Magic had in mind. Thus, consider this to be errata: Missiles have a speed of 15 in starship combat, just slightly faster than an Eta-2 interceptor or A-wing. (In atmosphere, missiles move 26 squares/action.)" Source: *Jedi Counseling 74* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 74.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 74* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d243-s2-q-i-have-a-question-about.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:22`
 
 - Note (summary from our notes, not a quotation): Page contents: R2-D2 Tow Cable passenger, Riposte limit, Durge Momentum, Jango vs Kenobi natural 20, Gungan Cavalry; author bio (hand-read)
@@ -534,7 +485,6 @@ Our notes: `notes/materials/037-sw-d20-folder/243-jedi-counseling-74.md:38`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 75 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_75_pdf_b7dab592ce`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 75 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_75_pdf_b7dab592ce`).)
 Note (our notes, around the quote): Jango Fett; Boba Fett; Palpatine (Darth Sidious) — entry/section: Mixing eras in one squad: "Q: What about cases where you have characters from different eras showing up in the same squad? For example, Jango Fett and Boba Fett (as an adult, from Rebel Storm) could be in the same Separatist squad, and clone troopers and stormtroopers could be in the same Imperial squad (if you have Emperor Palpatine, Sith Lord, anyway). Is there any way around this?" Source: *Jedi Counseling 75* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 75* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d244-s3-q-what-about-cases-where-you.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/244-jedi-counseling-75.md:29`
 
 ## Jedi Counselling/Jedi Counseling 96.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -551,7 +501,6 @@ Our notes: `notes/materials/037-sw-d20-folder/267-jedi-counseling-96.md:52`
 
 - Note (summary from our notes, not a quotation): Boba Fett; Jango Fett — entry/section: Boba and Jango Fett and the Mandalorian tradition: "A: It is absolutely true that Boba and Jango Fett are closely linked to the Mandalorian tradition. This was described in detail in the article "The History of the Mandalorians" in Star Wars Insider #80 (March/April 2005). In fact, the word "Mandalorian" was first used in reference to Boba Fett's armor. As such, I can understand how this might be confusing." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d270-s2-a-it-is-absolutely-true-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:28`
 
 > The Mandalorians in the Bounty Hunters set hail from the ranks of the Mandalorian Crusaders and Neo­Crusaders during the Old Sith Wars, a series of conflicts that includes the Great Sith War, the Cleansing of the Nine Houses, the Mandalorian Wars, and the War of the Star Forge. All of these conflicts occurred thousands of years before the events portrayed in the Star Wars trilogies, and as such they're almost a "prehistory" of how the Star Wars universe came to be. In the following millennia, Mandalorians were most often mercenaries (including a few bounty hunters), at least until the Mandalorian Civil War between the True Mandalorians under Jaster Mareel and the Death Watchmen led by Vizsla. That being the case, the Mandalorian faction, as depicted in the Star Wars Miniatures Game, has little in common with post­Mandalorian Civil War notables such as Boba and Jango Fett. Despite being a part of the same lineage and cultural heritage, the gulf of time between them is simply too vast. Thus, Boba and Jango Fett are not members of the Mandalorian faction for the same reason that Darth Vader is not a member of the Sith faction. Although he is indeed a Sith, he has no real connection to the ancient Sith of a nigh­forgotten age. Q: When Boba Fett, Bounty Hunter uses Flamethrower 20, does Twin Attack apply? A: No.
@@ -559,14 +508,12 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:28`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 99 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_99_pdf_5f5ad9c03e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 99 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_99_pdf_5f5ad9c03e`).)
 Note (our notes, around the quote): Boba Fett; Jango Fett; Darth Vader (Anakin Skywalker) — entry/section: Fetts not Mandalorian faction, as Vader is not Sith faction: "That being the case, the Mandalorian faction, as depicted in the Star Wars Miniatures Game, has little in common with post-Mandalorian Civil War notables such as Boba and Jango Fett. Despite being a part of the same lineage and cultural heritage, the gulf of time between them is simply too vast. Thus, Boba and Jango Fett are not members of the Mandalorian faction for the same reason that Darth Vader is not a member of the Sith faction. Although he is indeed a Sith, he has no real connection to the ancient Sith of a nigh-forgotten age." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d270-s3-that-being-the-case-the-mandalorian.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:37`
 
 ## Living Force Campaign/Articles/Year 4/03:18:04 - Only a Master of Evil.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Palpatine (Darth Sidious); Darth Vader (Anakin Skywalker); Darth Maul; Count Dooku; Jango Fett — entry/section: GM article (JD Wiker): "After all, look at the combination of "thinker" and "doer" in Star Wars: the Emperor and Vader, Sidious and Maul, and Dooku and Jango Fett." Source: *03:18:04 - Only a Master of Evil* (SWRPG d20 Revised Core), scan p.1
   — Source: Living Force Campaign/Articles/Year 4/03:18:04 - Only a Master of Evil.pd.
-![Quote image: *03:18:04 - Only a Master of Evil* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d456-s1-after-all-look-at-the-combination.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/456-03-18-04-only-a-master-of.md:14`
 
 ## Living Force Campaign/Articles/Year 5/06:02:05 - Conspiracy.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -575,14 +522,12 @@ Our notes: `notes/materials/037-sw-d20-folder/456-03-18-04-only-a-master-of.md:1
 — Source: Living Force Campaign/Articles/Year 5/06:02:05 - Conspiracy.pdf [Star War.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard conspiracy by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_conspiracy_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): Jango Fett — entry/section: San Herrera and Nia Reston (on the clone template): "As regards our first point, we have come into possession of information stating that the clones that make up the Grand Army of the Republic (GAotR, for future reference) are, in fact, clones of a single individual. While we have not obtained his name, we understand that he was a bounty hunter -- an individual tasked with hunting down and in some cases killing other living beings. There are those who would argue that this is precisely the type of individual best suited to having a clone army created in his image: ruthless, cold, and willing to take lives." Source: *06:02:05 - Conspiracy* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *06:02:05 - Conspiracy* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d497-s1-as-regards-our-first-point-we.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/497-06-02-05-conspiracy.md:12`
 
 > They are constantly in competition with other bounty hunters, trying to find and capture or kill the target before anyone else does. They are ill-suited to cooperation, and are notoriously bad at following orders. For all we know, this particular bounty hunter may have been mentally unstable; he wouldn't be the first in his profession to not be playing with a full sabacc deck. If a clone army to be led by Jedi were to be created, why not clone someone more suited to serving the galaxy? Why not an army of Mace Windu clones? Why utilize an individual with an unpredictable, dangerous temperament? The choice indicates a severe lack of judgment on the part of whoever commissioned the GAotR, since we now find ourselves defended by several thousand (likely imperfect, due to the nature of the technology) copies of what most of us would consider an individual of questionable moral fiber. The choice also indicates the possibility that the army may have been constructed with some secondary purpose in mind.
 — Source: Living Force Campaign/Articles/Year 5/06:02:05 - Conspiracy.pdf [Star War.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard conspiracy by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_conspiracy_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): Jango Fett; Mace Windu — entry/section: San Herrera and Nia Reston: "If a clone army to be led by Jedi were to be created, why not clone someone more suited to serving the galaxy? Why not an army of Mace Windu clones? Why utilize an individual with an unpredictable, dangerous temperament?" Source: *06:02:05 - Conspiracy* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *06:02:05 - Conspiracy* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d497-s1-if-a-clone-army-to-be.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/497-06-02-05-conspiracy.md:14`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Galactic Campaign Guide - Quick Starfields.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -592,7 +537,6 @@ Our notes: `notes/materials/037-sw-d20-folder/497-06-02-05-conspiracy.md:14`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Wars Roleplaying Game Revised Core Sourcebooks Sourcebook Web Enhancements Galactic Campaign Guide Quick Starfields (text copy `_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Galactic_Campaign_Guide_Quick_Starfields_pdf_f6ca720325`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from  Wars Roleplaying Game Revised Core Sourcebooks Sourcebook Web Enhancements Galactic Campaign Guide Quick Starfields (text copy `_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Sourcebook_Web_Enhancements_Galactic_Campaign_Guide_Quick_Starfields_pdf_f6ca720325`).)
 Note (our notes, around the quote): Jango Fett; Obi-Wan Kenobi — entry/section: Slave I evades Obi-Wan in asteroid field (AOTC example): "In Attack of the Clones, Jango Fett flies Slave I into an asteroid field to evade Obi-Wan Kenobi in his Jedi starfighter, deploying concussion mines to further hinder pursuit." Source: *Galactic Campaign Guide - Quick Starfields* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Galactic Campaign Guide - Quick Starfields* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d643-s2-in-attack-of-the-clones-jango.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/643-galactic-campaign-guide-quick-starfields.md:17`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Hero's Guide Web Enhancement - Character Templates and Prestige Classes.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -606,7 +550,6 @@ Our notes: `notes/materials/037-sw-d20-folder/646-heros-guide-web-enhancement-ch
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Character Templates and Prestige Classes (text copy `d_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Character_Templates_and_Prestige_Classes_pdf_b192fa225a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Character Templates and Prestige Classes (text copy `d_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Character_Templates_and_Prestige_Classes_pdf_b192fa225a`).)
 Note (our notes, around the quote): Jango Fett — entry/section: Clone template: Jango cloned for clone troopers: "The Kaminoans, known to the galaxy as master cloners, created the perfect soldiers when they cloned Jango Fett and altered his genetic material to create the clone troopers." Source: *Hero's Guide Web Enhancement - Character Templates and Prestige Classes* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hero's Guide Web Enhancement - Character Templates and Prestige Classes* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d646-s2-the-kaminoans-known-to-the-galaxy.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/646-heros-guide-web-enhancement-character-templates-and.md:17`
 
 > Clone The Kaminoans, known to the galaxy as master cloners, created the perfect soldiers when they cloned Jango Fett and altered his genetic material to create the clone troopers. After the success of the Republic military forces during the Clone Wars, the art of cloning faded into relative obscurity. It wasn’t until several years after the Emperor’s death that widespread use of clones made a resurgence under the banner of Grand Admiral Thrawn. From time to time, clones were created to act as “backup bodies” in case of an important individual’s death (as in the case of both the Emperor and Thrawn himself), but this technique was rarely used due to the unavailability of cloning technology and the difficulties involved in growing clones too quickly. The clones created by the Kaminoans had their genetic structure altered to make them more efficient in combat and more willing to follow orders and take commands. This was the perfect combination for the clone troopers, who needed to be totally obedient to Supreme Chancellor Palpatine while at the same time effective and durable soldiers. Other clones might be genetically altered or exact replicas of their hosts. The Kaminoans and a few others knew how to create clones that did not suffer from mental instability, but those who lacked such knowledge often saw their results tainted with everything from paranoia to complete insanity.
@@ -614,7 +557,6 @@ Our notes: `notes/materials/037-sw-d20-folder/646-heros-guide-web-enhancement-ch
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Character Templates and Prestige Classes (text copy `d_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Character_Templates_and_Prestige_Classes_pdf_b192fa225a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d Core Sourcebooks Sourcebook Web Enhancements Hero s Guide Web Enhancement Character Templates and Prestige Classes (text copy `d_Core_Sourcebooks_Sourcebook_Web_Enhancements_Hero_s_Guide_Web_Enhancement_Character_Templates_and_Prestige_Classes_pdf_b192fa225a`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Jango Fett — entry/section: Clone troopers engineered for obedience to Palpatine: "The clones created by the Kaminoans had their genetic structure altered to make them more efficient in combat and more willing to follow orders and take commands. This was the perfect combination for the clone troopers, who needed to be totally obedient to Supreme Chancellor Palpatine while at the same time effective and durable soldiers." Source: *Hero's Guide Web Enhancement - Character Templates and Prestige Classes* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hero's Guide Web Enhancement - Character Templates and Prestige Classes* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d646-s2-the-clones-created-by-the-kaminoans.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/646-heros-guide-web-enhancement-character-templates-and.md:21`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -626,7 +568,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Though some details still remain clouded, it is generally acknowledged that some ten years prior to the Battle of Geonosis, the Kaminoans were contracted by Darth Tyrannus (under the guise of Jedi Knight Sifo-Dyas) to create an army of clones for use by the Republic. When Jedi Obi-Wan Kenobi tracked an assassination attempt on Senator Amidala of Naboo to Kamino, the clone army-in-progress was discovered, and since those events and the onset of the Clone Wars, Kamino has played a largely unseen but key role in galactic affairs. Under the stewardship of Prime Minister Lama Su, the Kaminoans issued their first armies of clone troopers based on the genetic template of the bounty hunter Jango Fett.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Count Dooku; Obi-Wan Kenobi; Padmé Amidala; Jango Fett — entry/section: Kamino's clone army: "Though some details still remain clouded, it is generally acknowledged that some ten years prior to the Battle of Geonosis, the Kaminoans were contracted by Darth Tyrannus (under the guise of Jedi Knight Sifo-Dyas) to create an army of clones for use by the Republic. When Jedi Obi-Wan Kenobi tracked an assassination attempt on Senator Amidala of Naboo to Kamino, the clone army-in-progress was discovered, and since those events and the onset of the Clone Wars, Kamino has played a largely unseen but key role in galactic affairs. Under the stewardship of Prime Minister Lama Su, the Kaminoans issued their first armies of clone troopers based on the genetic template of the bounty hunter Jango Fett." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.74
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.74 — full quote as printed](quotes/d667-s74-though-some-details-still-remain-clouded.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:99`
 
 - Note (summary from our notes, not a quotation): Page contents: Kamino: Malio Preserve Units; Derem City Ruins and map; technology - pocker (Jango Fett makes young Boba turn off the sights). (hand-read)
@@ -636,13 +577,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > (Jango Fett, for example, makes young Boba turn off the sighting mechanisms so that Boba develops his natural instincts and doesn't learn to rely on technology to survive.)
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Jango trains Boba with a pocker: "(Jango Fett, for example, makes young Boba turn off the sighting mechanisms so that Boba develops his natural instincts and doesn't learn to rely on technology to survive.)" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.77
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.77 — full quote as printed](quotes/d667-s77-jango-fett-for-example-makes-young.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:116`
 
 > She serves as the Project Coordinator for the Republic clone army, and she helps rear and tutor young Boba Fett when his father Jango is away on “business.”
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Boba Fett; Jango Fett — entry/section: Taun We tutors Boba.
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Taun We tutors Boba: "She serves as the Project Coordinator for the Republic clone army, and she helps rear and tutor young Boba Fett when his father Jango is away on “business.”" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.78
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.78 — full quote as printed](quotes/d667-s78-she-serves-as-the-project-coordinator.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:123`
 
 - Note (summary from our notes, not a quotation): Page contents: Kamino: Kina Ha stat block (Female Kaminoan Jedi Guardian 10); Spar (rogue clone of the first ARC test class; Male Human Thug 8); ARC Trooper description (trained by Jango Fett). (hand-read)
@@ -652,19 +591,16 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > One of the initial one hundred exhibited such independence and free-thinking that he refused the mantle of anonymity and eventually managed to flee the Tipoca City facilities after eight and half years, when he was grown to 17 biological years. The man with whom he shared his genetics, Jango Fett, was off-world, and the Kaminoans were unable to contain him. When he left the planet, he took with him the name he'd heard clone handlers use for him: Spar.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Jango Fett — entry/section: Spar, the rogue clone.
 Note (our notes, around the quote): Jango Fett — entry/section: Spar, the rogue clone: "One of the initial one hundred exhibited such independence and free-thinking that he refused the mantle of anonymity and eventually managed to flee the Tipoca City facilities after eight and half years, when he was grown to 17 biological years. The man with whom he shared his genetics, Jango Fett, was off-world, and the Kaminoans were unable to contain him. When he left the planet, he took with him the name he'd heard clone handlers use for him: Spar." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.81
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.81 — full quote as printed](quotes/d667-s81-one-of-the-initial-one-hundred.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:148`
 
 > Exceptionally capable, the ARC troopers were personally trained by Jango Fett himself for the most critical missions. Because they are somewhat unpredictable, displaying Fett’s personality and independence, the troopers are contained in stasis tubes similar to the Spaarti cylinders encountered by New Republic forces at Mount Tantiss decades later.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Jango Fett — entry/section: Jango trains the ARC troopers.
 Note (our notes, around the quote): Jango Fett — entry/section: Jango trains the ARC troopers: "Exceptionally capable, the ARC troopers were personally trained by Jango Fett himself for the most critical missions. Because they are somewhat unpredictable, displaying Fett’s personality and independence, the troopers are contained in stasis tubes similar to the Spaarti cylinders encountered by New Republic forces at Mount Tantiss decades later." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.81
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.81 — full quote as printed](quotes/d667-s81-exceptionally-capable-the-arc-troopers-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:150`
 
 > Like the standard clonetroopers, the ARC troopers are based on Jango Fett's genetic template but have had their personality dampening lessened relative to the standard trooper, allowing for more independent thinking and enabling the trooper to be capable of more creative crisis resolution and unorthodox means.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Like the standard clonetroopers, the ARC troopers are based on Jango Fett's genetic template but have had their personality dampening lessened relative to the standard trooper, allowing for more independent thinking and enabling the trooper to be capable of more creative crisis resolution and unorthodox means." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.81
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.81 — full quote as printed](quotes/d667-s81-like-the-standard-clonetroopers-the-arc.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:152`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -678,7 +614,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-121-180.md:22
 > Jango acquired the Firespray-class patrol ship from the prison colony at Oovo IV, after the son guards destroyed his own ship, Jaster's Shadow.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Jango Fett; Jaster Mereel.
 Note (our notes, around the quote): Jango Fett; Jaster Mereel: "Jango acquired the Firespray-class patrol ship from the prison colony at Oovo IV, after the son guards destroyed his own ship, Jaster's Shadow." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.233
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.233 — full quote as printed](quotes/d671-s233-jango-acquired-the-firespray-class-patrol.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181-240.md:284`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 301–360)
@@ -686,7 +621,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181
 > Mace Windu’s fighting skills are put to the ultimate test ton Geonosis, where he not only leads a Jedi assault against he Separatists’ battle droid army but also confronts the Hounty hunter Jango Fett.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Mace Windu; Jango Fett — entry/section: Mace Windu (Revised Core Rulebook, Ch13): "Mace Windu’s fighting skills are put to the ultimate test ton Geonosis, where he not only leads a Jedi assault against he Separatists’ battle droid army but also confronts the Hounty hunter Jango Fett." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.313
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.313 — full quote as printed](quotes/d671-s313-mace-windu-s-fighting-skills-are.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:164`
 
 - Note (summary from our notes, not a quotation): Page contents: 775 words, 20 paragraphs | headings/entries: COUNT DOOKU; Jango Fett
@@ -696,7 +630,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > He is charged with a mission to locate and terminate the leader of a group of Force-using raiders, the Bando Gora.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Jango Fett; Count Dooku — entry/section: Jango Fett (Revised Core Rulebook, Ch13): "He is charged with a mission to locate and terminate the leader of a group of Force-using raiders, the Bando Gora." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.317
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.317 — full quote as printed](quotes/d671-s317-he-is-charged-with-a-mission.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:223`
 
 - Note (summary from our notes, not a quotation): Page contents: Sidebar "Equipment of Jango and Boba Fett": full gadget list (jet pack 500 m flight, missile launcher 5d6+2, flamethrower 2d6, whipcord, rocket darts, Boba's laser gauntlet, sonic beam, spiked boots, Jango's wrist rocket launcher, sabredarts with kouhun venom, wrist blades). (hand-read)
@@ -706,7 +639,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > At the Battle of Geonosis, 10-year-old Boba is orphaned When Jedi Master Mace Windu kills his father.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Boba Fett; Mace Windu; Jango Fett — entry/section: Boba Fett (Revised Core Rulebook, Ch13): "At the Battle of Geonosis, 10-year-old Boba is orphaned When Jedi Master Mace Windu kills his father." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.319
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.319 — full quote as printed](quotes/d671-s319-at-the-battle-of-geonosis-10.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:241`
 
 ## Adventures/Dawn of Defiance/02 - A Wretched Hive.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -716,7 +648,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 Note (our notes, around the quote): Jango Fett — entry/section: Imperial Visitors: "The two men are actually stormtroopers who have removed their armor; each is one of the few remaining clones of Jango Fett left over from the Clone Wars." Source: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.12
-![Quote image: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.12 — full quote as printed](quotes/d704-s12-the-two-men-are-actually-stormtroopers.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/704-02-a-wretched-hive.md:71`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -728,7 +659,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:
 > The Protectors believed Spar to be the son of Jango Fett, and as inspiration, Spar took the title Mandalore the Resurrector.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "The Protectors believed Spar to be the son of Jango Fett, and as inspiration, Spar took the title Mandalore the Resurrector." Source: *Galaxy at War* (SWRPG Saga Edition), scan p.119
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.119 — full quote as printed](quotes/d715-s119-the-protectors-believed-spar-to-be.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:387`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -742,7 +672,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-001-06
 > The ARC Troopers (Advanced Recon Commandos) are elite clone units that were personally trained by Jango Fett. Whereas most clone troopers are trained to work as a unit, ARC Troopers function well as individuals, making them even more formidable as foes.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa.
 Note (our notes, around the quote): Jango Fett — entry/section: ARC Troopers (Saga Edition Core Rulebook, Ch16): "The ARC Troopers (Advanced Recon Commandos) are elite clone units that were personally trained by Jango Fett. Whereas most clone troopers are trained to work as a unit, ARC Troopers function well as individuals, making them even more formidable as foes." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.290
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.290 — full quote as printed](quotes/d723-s290-the-arc-troopers-advanced-recon-commandos.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:330`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -750,7 +679,6 @@ Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-sca
 > However, such missions were Just business for Zam: She took no particular pleasure in killing or death. ladeed, when Jango Fett brought a powerful artifact to a rogue general who intended to use it to destroy Coruscant, Zam convinced Jango to steal it back and help prevent the destruction of the planet.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "However, such missions were Just business for Zam: She took no particular pleasure in killing or death. ladeed, when Jango Fett brought a powerful artifact to a rogue general who intended to use it to destroy Coruscant, Zam convinced Jango to steal it back and help prevent the destruction of the planet." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.114
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.114 — full quote as printed](quotes/d725-s114-however-such-missions-were-just-business.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:357`
 
 ## Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -778,13 +706,11 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Taken as a prize by Montross, a well-known Mandalorian bounty hunter and rival of Jango Fett, Hell's Anvil is heavily modified and converted for use as a prisoner transport and mobile base.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Taken as a prize by Montross, a well-known Mandalorian bounty hunter and rival of Jango Fett, Hell's Anvil is heavily modified and converted for use as a prisoner transport and mobile base." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80 — full quote as printed](quotes/d728-s80-taken-as-a-prize-by-montross.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-061-120.md:147`
 
 > The most notorious of Hell's Anvii's modifications is a pair of solar ionization cannons, devastating weapons that are unaffected by conventional deflector shields, With Montross's death at the hands of Jango Fett, the Hell's Anvil fades into obscurity.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "The most notorious of Hell's Anvii's modifications is a pair of solar ionization cannons, devastating weapons that are unaffected by conventional deflector shields, With Montross's death at the hands of Jango Fett, the Hell's Anvil fades into obscurity." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80 — full quote as printed](quotes/d728-s80-the-most-notorious-of-hells-anviis.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-061-120.md:149`
 
 - Note (summary from our notes, not a quotation): Page contents: Powerful Personality cont. (smuggler turned pirate captain example). Militarization intro. Conversion of Civilian Assets. Forces of the Clone Wars (clone troopers, V-19 starfighters, AT-XT walkers; Recusant-class destroyers; off-duty clone troopers in a cantina) begins. Yellow sidebar (missed by base OCR; re-OCR from crop c728_092b/d): Clone Heroes (ARC Troopers or Republic clone commandos, based on the original Jango Fett template with more of Fett's personality) and Republic Clone Species Traits (Str 15, Dex 13, Con 10, Int 12, Wis 10, Cha 8, +2 to one ability; Medium; speed 6; bonus trained skill; bonus feat; Automatic Languages: Basic). (hand-read)
@@ -812,7 +738,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Even among the clones of Jango Fett, there are a select number that prove themselves capable of understanding and executing naval strategy to a greater degree than their comrades.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Even among the clones of Jango Fett, there are a select number that prove themselves capable of understanding and executing naval strategy to a greater degree than their comrades." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.152
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.152 — full quote as printed](quotes/d728-s152-even-among-the-clones-of-jango.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:317`
 
 - Note (summary from our notes, not a quotation): Page contents: Commander Rex (clone commander under General Anakin Skywalker; two heavy blaster pistols like Jango Fett); stat block (CL 10; soldier 7/officer 3; Assault Tactics, Battle Analysis, Shift Defense I; Dual Weapon Mastery II). Mas Amedda (Speaker of the Senate; Senator of Champala; nominated by Orn Free Taa; manipulated Valorum; outwitted by Palpatine). Art caption: Mas Amedda. (hand-read)
@@ -822,7 +747,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Commander Rex is a skilled warrior who has survived many battles, He is known for wieiding two heavy blaster pistols a1 oncee—like Jango Fett—but is trained in a variety of tactics and fighting styles, and can iead specialty clone units inte battle whenever the situation cails for them.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett. POV: Jango Fett.
 Note (our notes, around the quote): Jango Fett: "Commander Rex is a skilled warrior who has survived many battles, He is known for wieiding two heavy blaster pistols a1 oncee—like Jango Fett—but is trained in a variety of tactics and fighting styles, and can iead specialty clone units inte battle whenever the situation cails for them." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.159
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.159 — full quote as printed](quotes/d728-s159-commander-rex-is-a-skilled-warrior.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:391`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -834,7 +758,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Still thirsting far vengeance against the Mandalorians, Durge learns that the last of their eumber, Jango Fett, has been killed—but that he had left behind hundreds of thousands of clones, and the Separatist's leader, Count Dooku, recruits Durge to help kill them.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Jango Fett; Count Dooku.
 Note (our notes, around the quote): Jango Fett; Count Dooku: "Still thirsting far vengeance against the Mandalorians, Durge learns that the last of their eumber, Jango Fett, has been killed—but that he had left behind hundreds of thousands of clones, and the Separatist's leader, Count Dooku, recruits Durge to help kill them." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.186
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.186 — full quote as printed](quotes/d728-s186-still-thirsting-far-vengeance-against-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:74`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -846,19 +769,16 @@ Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001
 > WwANGO FETT Bounty hunter, assassin, and mercenary, in his day Jango Fett was one of the most feared individuals in the galaxy.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Jango Fett — entry/section: Threats of the Galaxy (Saga).
 Note (our notes, around the quote): Jango Fett — entry/section: Threats of the Galaxy (Saga): "WwANGO FETT Bounty hunter, assassin, and mercenary, in his day Jango Fett was one of the most feared individuals in the galaxy." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20 — full quote as printed](quotes/d731-s20-wwango-fett-bounty-hunter-assassin-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:149`
 
 > After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal!
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed.
 Note (our notes, around the quote): Count Dooku; Jango Fett — entry/section: Threats of the Galaxy (Saga): "After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal!" Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20 — full quote as printed](quotes/d731-s20-after-chasing-komari-vosa-the-former.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:151`
 
 > After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal! feat, considering that the fallen Jedi was a skilled lightsaber duelist and a master of the Force.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Count Dooku; Jango Fett.
 Note (our notes, around the quote): Count Dooku; Jango Fett: "After chasing Komari Vosa, the former apprentice of Count Dooku, across the galaxy, Jango Fett finally caught up with her and killed her; this was no smal! feat, considering that the fallen Jedi was a skilled lightsaber duelist and a master of the Force." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.20 — full quote as printed](quotes/d731-s20-after-chasing-komari-vosa-the-former-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:153`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -946,31 +866,26 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:129`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett — entry/section: Temuera Morrison on finding Jango Fett through the costume: ""You get most of your stuff from your outfit," he said, "because it gives you all that texture. It starts from all these organic feelings you get while you're in costume: You have to walk the way you can walk in it, which gives you a little bit of character as well." —Temuera Morrison, Star Wars Insider 57, p. 30" Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-you-get-most-of-your-stuff.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:131`
 
 > When Robin called to tell me, I wasn't quite sure who it was. She said, 'You're playing Jango Fett, Boba Fett's father,' and I just said, 'Great! Beautiful! That sounds good!' Then, when I hung up, I said, 'Who the hell is that?'
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Temuera Morrison on learning he was cast as Jango Fett: ""When Robin called to tell me, I wasn't quite sure who it was. She said, 'You're playing Jango Fett, Boba Fett's father,' and I just said, 'Great! Beautiful! That sounds good!' Then, when I hung up, I said, 'Who the hell is that?'" —Temuera Morrison, Star Wars Insider 57, pp. 30-31" Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-when-robin-called-to-tell-me.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:133`
 
 > More than just any old bad guy, Jango Fett is the bounty hunting bad guy who is the progenitor of legendary mercenary Boba Fett.
 — Source: Star Wars Insider #57 (2001); Jango Fett; Boba Fett.
 Note (our notes, around the quote): Jango Fett; Boba Fett: "More than just any old bad guy, Jango Fett is the bounty hunting bad guy who is the progenitor of legendary mercenary Boba Fett." Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-more-than-just-any-old-bad.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:137`
 
 > I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Temuera Morrison on playing Boba Fett's father: ""I asked around, and everybody said, 'Boba Fett—he was the coolest! Everybody had a Boba Fett toy.' Now I know that Boba Fett was one of the most popular characters in the Star Wars saga. With Fett, I'm fortunate to have such a dynamic role, to be playing the father of one of the popular characters from the earlier trilogy. "I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me." —Temuera Morrison, Star Wars Insider 57, p. 31" Source: *Star Wars Insider #57* (2001), scan p.25
-![Quote image: *Star Wars Insider #57* (2001), scan p.25 — full quote as printed](quotes/ins057-s25-i-asked-around-and-everybody-said.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:148`
 
 > When the helmet was on my head, I had trouble breathing, seeing, and everything—so there were a lot of curse words underneath my helmet.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett — entry/section: Temuera Morrison pull quote on the Jango Fett helmet: ""When the helmet was on my head, I had trouble breathing, seeing, and everything—so there were a lot of curse words underneath my helmet." —Temuera Morrison, Star Wars Insider 57, p. 31" Source: *Star Wars Insider #57* (2001), scan p.25
-![Quote image: *Star Wars Insider #57* (2001), scan p.25 — full quote as printed](quotes/ins057-s25-when-the-helmet-was-on-my.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:150`
 
 - Note (summary from our notes, not a quotation): Page contents: Morrison interview (magazine p. 32): caption on George Lucas and Morrison discussing a scene in Jango Fett's apartment; Morrison's water business and Maori TV projects; Harrison Ford's advice against directing (Six Days, Seven Nights); career from extra to Other Halves, Never Say Die, The Piano, Shortland Street, Once Were Warriors and its sequel, Crooked Earth, Barb Wire, The Island of Dr. Moreau, Speed 2, Vertical Limit; meeting casting director Robin Gurland. (Magazine p. 33 is not in the scan; text jumps.) (hand-read)
@@ -987,7 +902,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:164`
 > But after a day or two, I let the stunt guy have his turn.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett — entry/section: Temuera Morrison on Jango Fett's rain fight scenes: ""I had a lot of fight scenes in the rain, and at first I was quite willing to do it," Morrison said. "But after a day or two, I let the stunt guy have his turn." —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-i-had-a-lot-of-fight.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:166`
 
 > It was a little bit weird for me when I saw the woman who played my wife in Once Were Warriors, Rena Owen, wearing a helmet and something like a cardboard cut-out on her head, too,
@@ -996,7 +910,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:166`
 > We do this scene with Obi-Wan Kenobi, and she's in there as well with this ridiculous thing on her head. We tried to keep ourselves from laughing too much.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Taun We; Obi-Wan Kenobi — entry/section: Temuera Morrison on Rena Owen standing in for Taun We: ""It was a little bit weird for me when I saw the woman who played my wife in Once Were Warriors, Rena Owen, wearing a helmet and something like a cardboard cut-out on her head, too," he said with a laugh. "We do this scene with Obi-Wan Kenobi, and she's in there as well with this ridiculous thing on her head. We tried to keep ourselves from laughing too much." —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-it-was-a-little-bit-weird.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:168`
 
 > I had a couple of scenes with Samuel,
@@ -1005,7 +918,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:168`
 > That was lovely, because I've always respected his work. He's very focused, and there's a good kind of stillness about him, a powerful presence. He's quite still in his acting as well. It was nice to come eyeball-to-eyeball with Samuel L. Jackson. That's what we actors enjoy—that vibe that happens between us, which is caused by that internal energy.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Mace Windu — entry/section: Temuera Morrison on his scenes with Samuel L. Jackson's Mace Windu: ""I had a couple of scenes with Samuel," he said. "That was lovely, because I've always respected his work. He's very focused, and there's a good kind of stillness about him, a powerful presence. He's quite still in his acting as well. It was nice to come eyeball-to-eyeball with Samuel L. Jackson. That's what we actors enjoy—that vibe that happens between us, which is caused by that internal energy." —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-i-had-a-couple-of-scenes.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:170`
 
 > We always kept copies of these reels to show potential clients our work and also to screen for visiting big shots who were getting a tour. My favorite to show people was the one from The Empire Strikes Back. That one always impressed people. It was exciting and contained great work. The funny thing is that almost no one has ever seen these reels and they are amazing because they were all of the “wow” scenes from major effects films cut into a nonstop reel of action.
@@ -1016,14 +928,12 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:170`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Inside the Star Wars Empire (Bill Kimberlin) (text copy `novels_tmp_lucas_bts_kimberlin_inside_the_star_wars_empire_epub_0d4920d9fb`).)
 (Full sentence/passage taken from the source text on file: `novels_tmp_lucas_bts_kimberlin_inside_the_star_wars_empire_epub`.)
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Temuera Morrison on Jeremy Bulloch, his "son": ""The funny thing is," he said, "the guy who used to play Boba Fett, Jeremy Bulloch, goes to one of my favorite restaurants in L.A. all the time, and every time I turn up there, they go, 'Oh, your son was just in here'—which is funny because he's about 20 years older than me. I'm going to tell the guys at the restaurant to tell me when he's coming back, and I'll come in. I need to meet my son, Boba Fett!" —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-the-funny-thing-is-he-said.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:172`
 
 > I feel like Jango Fett is a little cooler than Boba Fett,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Temuera Morrison comparing Jango and Boba: ""I feel like Jango Fett is a little cooler than Boba Fett," the actor said. —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-i-feel-like-jango-fett-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:174`
 
 > a sweet, lovely boy
@@ -1051,7 +961,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:205`
 > They're probably going to think Jango Fett is Boba Fett. They'll be like, 'Yeah! Boba Fett!' And then this little guy comes in. They'll say, 'Hey, who's that? Did Boba Fett have a son?'
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Daniel Logan predicting audiences' reaction to Jango Fett: ""I think people are going to be attracted to Jango Fett because of Boba Fett," Daniel said. "They're probably going to think Jango Fett is Boba Fett. They'll be like, 'Yeah! Boba Fett!' And then this little guy comes in. They'll say, 'Hey, who's that? Did Boba Fett have a son?'" —Daniel Logan, Star Wars Insider 57, p. 40" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-i-think-people-are-going-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:215`
 
 > He's always with his dad,
@@ -1060,7 +969,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:215`
 > He does things with his dad, lives with his dad, loves his dad, and is always there for his dad. Jango Fett is his idol.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Daniel Logan on Boba Fett and his father: ""He's always with his dad," Daniel said. "He does things with his dad, lives with his dad, loves his dad, and is always there for his dad. Jango Fett is his idol." —Daniel Logan, Star Wars Insider 57, pp. 40-41" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-hes-always-with-his-dad-daniel.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:217`
 
 ## Star Wars Insider #58 (2002)
@@ -1098,7 +1006,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:411`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #58 (2002).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Tom Fowler on Jango vs. Boba: "Jango has a really sleek look to him as opposed to Boba. His armor is newer, all blue and silver. With Boba I always got the impression he was patched together. Jango is like the James Bond of Star Wars. —Tom Fowler, Star Wars Insider 58, p. 81" Source: *Star Wars Insider #58* (2002), scan p.64
-![Quote image: *Star Wars Insider #58* (2002), scan p.64 — full quote as printed](quotes/ins058-s64-jango-has-a-really-sleek-look.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:415`
 
 ## Star Wars Insider #59 (2002)
@@ -1143,13 +1050,11 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:70`
 > And even he was digitally manipulated. We changed the timing of Ewan's movement so that he could deflect a blast from Jango in the revised shot.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Jango Fett — entry/section: Pablo Helman on the digital Obi-Wan shot: ""Obi-Wan is the only real element in this shot," says Pablo Helman. "And even he was digitally manipulated. We changed the timing of Ewan's movement so that he could deflect a blast from Jango in the revised shot." —Pablo Helman, Star Wars Insider 60, p. 10" Source: *Star Wars Insider #60* (2002), scan p.10
-![Quote image: *Star Wars Insider #60* (2002), scan p.10 — full quote as printed](quotes/ins060-s10-obi-wan-is-the-only-real.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:72`
 
 > At best the bounty hunter might overwhelm Obi-Wan with so many bolts that he'll be unable to deflect them back at Jango.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Jango Fett — entry/section: Fast Parry: Jango vs. Obi-Wan: "At best the bounty hunter might overwhelm Obi-Wan with so many bolts that he'll be unable to deflect them back at Jango." Source: *Star Wars Insider #60* (2002), scan p.10
-![Quote image: *Star Wars Insider #60* (2002), scan p.10 — full quote as printed](quotes/ins060-s10-at-best-the-bounty-hunter-might.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:74`
 
 - Note (summary from our notes, not a quotation): Page contents: "Duel at the Landing Platform" continued (magazine p. 11): yellow boxes "Blaster Pistols" (Jango's pistols) and "Autumn Weather" (Kaminoans prefer their planet's autumn season; summer heat and brightness are unpleasant to their large eyes and delicate skin); blue boxes "Jango Fett" (Helman: Jango is digital whenever he flies) and "Landing Platform" (the floor done digitally for camera control). (hand-read)
@@ -1162,7 +1067,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:83`
 > Whenever he flies he's digital. We want to believe that he flies via the rockets, and the only way to do that is to have complete control, to get rid of gravity. Some things like this are easier to do in CG than with an actor flying on wires.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Jango Fett — entry/section: Pablo Helman on the digital Jango Fett: ""Jango is digital here," Helman says. "Whenever he flies he's digital. We want to believe that he flies via the rockets, and the only way to do that is to have complete control, to get rid of gravity. Some things like this are easier to do in CG than with an actor flying on wires." —Pablo Helman, Star Wars Insider 60, p. 11" Source: *Star Wars Insider #60* (2002), scan p.11
-![Quote image: *Star Wars Insider #60* (2002), scan p.11 — full quote as printed](quotes/ins060-s11-jango-is-digital-here-helman-says.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:85`
 
 > I'm trying to do his voice the best I can,
@@ -1171,7 +1075,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:85`
 > I'm trying to imitate the tune in his voice. There are also moments when I'm going into Jango Fett's apartment, where it's like the scene on the Death Star when Guinness is going around with his hood up to turn off the tractor beam. There are moments that remind me of him—and other bits that don't.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Obi-Wan Kenobi; Jango Fett — entry/section: Ewan McGregor on mirroring Alec Guinness: ""I'm trying to do his voice the best I can," the actor said. "I'm trying to imitate the tune in his voice. There are also moments when I'm going into Jango Fett's apartment, where it's like the scene on the Death Star when Guinness is going around with his hood up to turn off the tractor beam. There are moments that remind me of him—and other bits that don't." —Ewan McGregor, Star Wars Insider 60, p. 28" Source: *Star Wars Insider #60* (2002), scan p.28
-![Quote image: *Star Wars Insider #60* (2002), scan p.28 — full quote as printed](quotes/ins060-s28-im-trying-to-do-his-voice.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:195`
 
 > I'm free to be as creative in whatever way I want to be—which means that if I make mistakes, they are my own mistakes.
@@ -1182,7 +1085,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:412`
 > He is a background character, but I needed a device, a bounty hunter to do things. That particular bounty hunter had become a rather popular character, and even though people were writing all kinds of things about where he came from, in my mind he was always connected to the stormtroopers. I realized I could use Jango Fett as the bounty hunter, and he would be Boba's father, and then it all fell into place. But even if he wasn't a popular character, it probably would have fallen into place. There are lots of little stories going on in this one, sidebars of how things came to be. Some of it was written back then, mainly the main characters. But all the secondary characters, like Boba Fett, were added later.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: George Lucas on Boba Fett and Jango Fett: ""Probably not," Lucas said. "He is a background character, but I needed a device, a bounty hunter to do things. That particular bounty hunter had become a rather popular character, and even though people were writing all kinds of things about where he came from, in my mind he was always connected to the stormtroopers. I realized I could use Jango Fett as the bounty hunter, and he would be Boba's father, and then it all fell into place. But even if he wasn't a popular character, it probably would have fallen into place. There are lots of little stories going on in this one, sidebars of how things came to be. Some of it was written back then, mainly the main characters. But all the secondary characters, like Boba Fett, were added later." —George Lucas, Star Wars Insider 60, p. 57" Source: *Star Wars Insider #60* (2002), scan p.57
-![Quote image: *Star Wars Insider #60* (2002), scan p.57 — full quote as printed](quotes/ins060-s57-probably-not-lucas-said-he-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:414`
 
 > 'There's always danger, Captain,' the other responded in a distinctly female voice. 'Sometimes we're just lucky enough to avoid it.'
@@ -1211,14 +1113,12 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:871`
 > Four key events that transform him and put him on a different path. Throughout the series, we see him go from an innocent, to a soldier, to a hardened killer.
 — Source: Star Wars Insider #60 (2002); Jango Fett — entry/section: Blackman on Open Seasons title.
 Note (our notes, around the quote): Jango Fett — entry/section: Blackman on Open Seasons title: ""I chose the title Open Seasons because the story is really about four seasons in Jango's life," explains Blackman. "Four key events that transform him and put him on a different path. Throughout the series, we see him go from an innocent, to a soldier, to a hardened killer." —Haden Blackman, Star Wars Insider 60, p. 112" Source: *Star Wars Insider #60* (2002), scan p.112
-![Quote image: *Star Wars Insider #60* (2002), scan p.112 — full quote as printed](quotes/ins060-s112-i-chose-the-title-open-seasons.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:873`
 
 > I'm really trying to show Jango as a soldier, a grunt,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #60 (2002); Jango Fett — entry/section: Blackman: Jango as a soldier.
 Note (our notes, around the quote): Jango Fett — entry/section: Blackman: Jango as a soldier: ""I'm really trying to show Jango as a soldier, a grunt," Blackman clarifies. —Haden Blackman, Star Wars Insider 60, p. 112" Source: *Star Wars Insider #60* (2002), scan p.112
-![Quote image: *Star Wars Insider #60* (2002), scan p.112 — full quote as printed](quotes/ins060-s112-im-really-trying-to-show-jango.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:875`
 
 - Note (summary from our notes, not a quotation): Page contents: Open Seasons end: Jaster Mereel in Fett's life, Jango as cult hero, artists Ramon F. Bachs and Raul Fernandez (Barcelona) on Star Wars in Spain. Comic panels (Death Watch, Vizsla, Jaster Mereel, Concord Dawn). Sidebar "The Marvel Series Returns": Dark Horse reprinting the Marvel series in seven trade paperbacks (first volume June 5), with quote from editor David Land. (hand-read)
@@ -1228,13 +1128,11 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:880`
 > We thought it was plausible that Jaster Mereel had been someone in Fett's life and that the two histories got confused over time.
 — Source: Star Wars Insider #60 (2002); Jaster Mereel; Jango Fett — entry/section: Blackman on Jaster Mereel.
 Note (our notes, around the quote): Jaster Mereel; Jango Fett — entry/section: Blackman on Jaster Mereel: ""We thought it was plausible that Jaster Mereel had been someone in Fett's life and that the two histories got confused over time." —Haden Blackman, Star Wars Insider 60, p. 113" Source: *Star Wars Insider #60* (2002), scan p.113
-![Quote image: *Star Wars Insider #60* (2002), scan p.113 — full quote as printed](quotes/ins060-s113-we-thought-it-was-plausible-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:882`
 
 > Who knew that Wedge would become such a fan favorite? Jango's a bounty hunter with a cool suit of armor and lots of gadgets—what's not cool about that? He's technically a villain, but you get the feeling that there's more to him than just a hired gun, that he has some depth. And, of course, he can whack just about anyone in the galaxy.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Jango Fett; Wedge Antilles — entry/section: Blackman on Jango as cult hero: ""Who knew that Wedge would become such a fan favorite? Jango's a bounty hunter with a cool suit of armor and lots of gadgets—what's not cool about that? He's technically a villain, but you get the feeling that there's more to him than just a hired gun, that he has some depth. And, of course, he can whack just about anyone in the galaxy." —Haden Blackman, Star Wars Insider 60, p. 113" Source: *Star Wars Insider #60* (2002), scan p.113
-![Quote image: *Star Wars Insider #60* (2002), scan p.113 — full quote as printed](quotes/ins060-s113-who-knew-that-wedge-would-become.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:884`
 
 > Now That You Bought It, Where Do You Put It? — Sleeping on Action Figures, a Leia Gender Change, Programs, Posters, and Glasses for a Ticket
@@ -1253,7 +1151,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:955`
 > It was very difficult to create a sense of individuality when all of these guys had the exact same height and the same outfit. With a crowd of real actors, you would have different heights, different speeds of reaction, and so on.
 — Source: Star Wars Insider #61 (2002).
 Note (our notes, around the quote): Jango Fett — entry/section: Pablo Helman on the digital clone crowd: ""It was very difficult to create a sense of individuality when all of these guys had the exact same height and the same outfit. With a crowd of real actors, you would have different heights, different speeds of reaction, and so on." —Pablo Helman, Star Wars Insider 61, p. 18" Source: *Star Wars Insider #61* (2002), scan p.18
-![Quote image: *Star Wars Insider #61* (2002), scan p.18 — full quote as printed](quotes/ins061-s18-it-was-very-difficult-to-create.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:103`
 
 > old-fashioned movie music
@@ -1273,7 +1170,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:245`
 > Other LEGO artwork included a life-size Jango Fett, battle droid, and destroyer droid, plus dioramas of some of the most memorable Star Wars scenes.
 — Source: Star Wars Insider #61 (2002); Jango Fett — entry/section: LEGO artwork at Celebration II.
 Note (our notes, around the quote): Jango Fett — entry/section: LEGO artwork at Celebration II: "Other LEGO artwork included a life-size Jango Fett, battle droid, and destroyer droid, plus dioramas of some of the most memorable Star Wars scenes." Source: *Star Wars Insider #61* (2002), scan p.38
-![Quote image: *Star Wars Insider #61* (2002), scan p.38 — full quote as printed](quotes/ins061-s38-other-lego-artwork-included-a-life.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:247`
 
 - Note (summary from our notes, not a quotation): Page contents: World Cup campaign ads: "The Other 'Group of Death'" (Dooku, Jango Fett, Zam Wesell and a droid army); "On Our Pitch, Size Matters Not" and "Yodinho!" (Yoda); captions on the Group of Death and pitch size. (hand-read)
@@ -1328,7 +1224,6 @@ Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:408`
 > To us, Jango Fett is a classic character. We feel he would fit perfectly in Episodes IV, V, and VI.
 — Source: Star Wars Insider #63 (2002).
 Note (our notes, around the quote): Jango Fett — entry/section: Bounty Hunter: Brisbois on Jango as classic character: ""To us, Jango Fett is a classic character. We feel he would fit perfectly in Episodes IV, V, and VI." —Joe Brisbois, Star Wars Insider 63, p. 65" Source: *Star Wars Insider #63* (2002), p.65
-![Quote image: *Star Wars Insider #63* (2002), p.65 — full quote as printed](quotes/ins063-p65-to-us-jango-fett-is-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:410`
 
 ## Star Wars Insider #64 (2002)
@@ -1374,7 +1269,6 @@ Our notes: `notes/materials/038-star-wars-insider/066-ins066.md:509`
 > Jango Fett is one of the finest specimens we ever encountered. Not only did he provide his genetic material, he also aided in training the first batch.
 — Source: Star Wars Insider #67 (2003).
 Note (our notes, around the quote): Jango Fett — entry/section: Star Wars Insider 067 (2003): Lama Su on Jango: "Jango Fett is one of the finest specimens we ever encountered. Not only did he provide his genetic material, he also aided in training the first batch." Source: *Star Wars Insider #67* (2003), scan p.98
-![Quote image: *Star Wars Insider #67* (2003), scan p.98 — full quote as printed](quotes/ins067-s98-jango-fett-is-one-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/067-ins067.md:561`
 
 - Note (summary from our notes, not a quotation): Page contents: Q&A: Answers to Your Star Wars Questions with Pablo Hidalgo (Jango's vs. Boba's helmet; afterlife; Beggar's Canyon; other questions). (hand-read)
@@ -1428,7 +1322,6 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:623`
 > In the final years of the Republic, Jango Fett was regarded as the best bounty hunter In the galaxy.
 — Source: Star Wars Insider #79 (2005); Jango Fett — entry/section: Star Wars Insider 079 (2005).
 Note (our notes, around the quote): Jango Fett — entry/section: Star Wars Insider 079 (2005): "In the final years of the Republic, Jango Fett was regarded as the best bounty hunter In the galaxy." Source: *Star Wars Insider #79* (2005), scan p.93
-![Quote image: *Star Wars Insider #79* (2005), scan p.93 — full quote as printed](quotes/ins079-s93-in-the-final-years-of-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:625`
 
 ## Star Wars Insider #80 (2005)
@@ -1444,7 +1337,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:186`
 > Jango died as the Clone Wars began, but thanks to one of his clones, the Mandalorian tradition survived.
 — Source: Star Wars Insider #80 (2005); Jango Fett — entry/section: The Mandalorian tradition survives.
 Note (our notes, around the quote): Jango Fett — entry/section: The Mandalorian tradition survives: "Jango died as the Clone Wars began, but thanks to one of his clones, the Mandalorian tradition survived." Source: *Star Wars Insider #80* (2005), scan p.29
-![Quote image: *Star Wars Insider #80* (2005), scan p.29 — full quote as printed](quotes/ins080-s29-jango-died-as-the-clone-wars.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:188`
 
 - Note (summary from our notes, not a quotation): Page contents: Set Piece: Jango Fett's apartment on Kamino ("A Stark Space for a Simple Man") — the set at Fox Studios Australia; Lucas directs Daniel Logan's suspicious look (McGregor's whispered advice); furniture built slightly higher for seven-foot Kaminoans (set decorator Peter Walpole: not "the Land of the Giants"); white decor ties to clone and stormtrooper armor; Lucas rejected white armor for Jango. (hand-read)
@@ -1454,7 +1346,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:217`
 > It looked too slick. I needed something a little rougher than that but still reminiscent of the stormtroopers.
 — Source: Star Wars Insider #80 (2005).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Lucas on Jango's armor: "Lucas soon felt that white still wasn't right for Jango in this film: "It looked too slick. I needed something a little rougher than that but still reminiscent of the stormtroopers." —George Lucas, Star Wars Insider 80, p. 32" Source: *Star Wars Insider #80* (2005), scan p.32
-![Quote image: *Star Wars Insider #80* (2005), scan p.32 — full quote as printed](quotes/ins080-s32-lucas-soon-felt-that-white-still.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:219`
 
 - Note (summary from our notes, not a quotation): Page contents: Set Piece captions: Daniel Logan (13, New Zealand) on McGregor; Obi-Wan's grown hair and beard; Temuera Morrison once chased Harrison Ford in Six Days Seven Nights; Jango was not the first name considered; armor finish and hero suits. (hand-read)
@@ -1534,7 +1425,6 @@ Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:439`
 > I'd breathe and it would fog up and I couldn't see anything. I also couldn't hear anything inside it, so I'd be standing there, wondering if they'd said 'action' or not.
 — Source: Star Wars Insider #97 (2007); Jango Fett — entry/section: Helmet fog.
 Note (our notes, around the quote): Jango Fett — entry/section: Helmet fog: ""I'd breathe and it would fog up and I couldn't see anything. I also couldn't hear anything inside it, so I'd be standing there, wondering if they'd said 'action' or not." —Temuera Morrison, Star Wars Insider 97, p. 55" Source: *Star Wars Insider #97* (2007), scan p.55
-![Quote image: *Star Wars Insider #97* (2007), scan p.55 — full quote as printed](quotes/ins097-s55-id-breathe-and-it-would-fog.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:543`
 
 - Note (summary from our notes, not a quotation): Page contents: Set Piece cont.: boxes Jango Fett, Art, Slave I, Set Design, Stunts (hand-read)
@@ -1563,7 +1453,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:202`
 > People often ask me about the voice, which wasn't mine to start with. It was dubbed by an American actor named Jason Wingreen. On the new DVD versions it was re-dubbed by Temuera. I understand why they did it. It was originally raspy, but now has the New Zealand stress on different words. They've done it so there is strong continuity between films.
 — Source: Star Wars Insider #99 (2008); Boba Fett; Jango Fett — entry/section: Fett's voice.
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Fett's voice: ""People often ask me about the voice, which wasn't mine to start with. It was dubbed by an American actor named Jason Wingreen. On the new DVD versions it was re-dubbed by Temuera. I understand why they did it. It was originally raspy, but now has the New Zealand stress on different words. They've done it so there is strong continuity between films." —Jeremy Bulloch, Star Wars Insider 99, p. 24" Source: *Star Wars Insider #99* (2008), scan p.24
-![Quote image: *Star Wars Insider #99* (2008), scan p.24 — full quote as printed](quotes/ins099-s24-people-often-ask-me-about-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:204`
 
 > Update: Data card access accepted
@@ -1673,7 +1562,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:438`
 > With Fett, I'm fortunate to have such a dynamic role, to be playing the father of one of the popular characters from the earlier trilogy. I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me.
 — Source: Star Wars Insider #114 (2010); Jango Fett — entry/section: Temuera Morrison.
 Note (our notes, around the quote): Jango Fett — entry/section: Temuera Morrison: "I'm the original bounty hunter": ""With Fett, I'm fortunate to have such a dynamic role, to be playing the father of one of the popular characters from the earlier trilogy. I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me." —Temuera Morrison (Jango Fett), quoted from Star Wars Insider #57, Star Wars Insider 114, p. 79" Source: *Star Wars Insider #114* (2010), scan p.79
-![Quote image: *Star Wars Insider #114* (2010), scan p.79 — full quote as printed](quotes/ins114-s79-with-fett-im-fortunate-to-have.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:440`
 
 ## Star Wars Insider #115 (2010)
@@ -1720,7 +1608,6 @@ Our notes: `notes/materials/038-star-wars-insider/119-ins119.md:401`
 > But unlike Vader who is doing evil and knows it, or Palpatine who is doing evil and loves it, with Boba (or Jango) it's all business. He may know that by taking you in for the bounty on your head that he's ruining the lives of your entire family, but it's never personal. He neither regrets nor relishes the fallout from his actions. He's really more of an anti-hero than a true bad guy.
 — Source: Star Wars Insider #119 (2010).
 Note (our notes, around the quote): Boba Fett; Jango Fett; Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious) — entry/section: Stradley on the Fetts' appeal: ""But unlike Vader who is doing evil and knows it, or Palpatine who is doing evil and loves it, with Boba (or Jango) it's all business. He may know that by taking you in for the bounty on your head that he's ruining the lives of your entire family, but it's never personal. He neither regrets nor relishes the fallout from his actions. He's really more of an anti-hero than a true bad guy." —Randy Stradley, Star Wars Insider 119, p. 79" Source: *Star Wars Insider #119* (2010), scan p.79
-![Quote image: *Star Wars Insider #119* (2010), scan p.79 — full quote as printed](quotes/ins119-s79-but-unlike-vader-who-is-doing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/119-ins119.md:413`
 
 ## Star Wars Insider #120 (2010)

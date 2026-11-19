@@ -43,7 +43,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > After the Battle of Naboo, the Toydarian is also famous for having lost all his money betting against his own slave, Anakin Skywalker, in the Boonta Eve Podrace.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Watto; Darth Vader (Anakin Skywalker) — entry/section: Watto's Junk Shop.
 Note (our notes, around the quote): Watto; Darth Vader (Anakin Skywalker) — entry/section: Watto's Junk Shop: "After the Battle of Naboo, the Toydarian is also famous for having lost all his money betting against his own slave, Anakin Skywalker, in the Boonta Eve Podrace." Source: *Secrets of Tatooine* (SWRPG d20), scan p.37
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.37 — full quote as printed](quotes/d045-s37-after-the-battle-of-naboo-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:222`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 181–240)
@@ -55,7 +54,6 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > To Anakin, being allowed to fly a Podracer is the next best thing to being in the cockpit of a starfighter, and when Watto recognized the boy's astounding reflexes, Anakin jumped at his master's offer to pilot a Podracer on Watto's behalf.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — entry/section: Key Characters: Anakin Skywalker (Rise of the Empire): "To Anakin, being allowed to fly a Podracer is the next best thing to being in the cockpit of a starfighter, and when Watto recognized the boy's astounding reflexes, Anakin jumped at his master's offer to pilot a Podracer on Watto's behalf." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.229
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.229 — full quote as printed](quotes/d046-s229-to-anakin-being-allowed-to-fly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:287`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -90,12 +88,10 @@ Our notes: `notes/materials/037-sw-d20-folder/193-jedi-counseling-29-sabers-for-
 
 - Note (summary from our notes, not a quotation): Watto — entry/section: Watto's flying (question): "Q: In the Ultimate Alien Anthology, the Toydarian species is listed as having a flight speed 18 with "poor" maneuverability. However, in Episode I and Episode II, Watto is clearly able to hover and fly backwards. This would require a maneuverability of at least "good." Should the Toydarian race have Good Maneuverability, since they are basically balloons with wings, or should I simply tell my players that Watto is an exception, not the rule, and that he has the "Improved Flight" feat?" Source: *Jedi Counseling 29 - 'Sabers for Sale* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 29 - 'Sabers for Sale.pdf [Star Wars Rol.
-![Quote image: *Jedi Counseling 29 - 'Sabers for Sale* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d193-s2-q-in-the-ultimate-alien-anthology.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/193-jedi-counseling-29-sabers-for-sale.md:19`
 
 - Note (summary from our notes, not a quotation): Watto — entry/section: All Toydarians fly like Watto: "A: Well spotted! I talked with the developer of the Ultimate Alien Anthology, and we agreed that Watto is not an exception; all Toydarians should have "good" maneuverability." Source: *Jedi Counseling 29 - 'Sabers for Sale* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 29 - 'Sabers for Sale.pdf [Star Wars Rol.
-![Quote image: *Jedi Counseling 29 - 'Sabers for Sale* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d193-s2-a-well-spotted-i-talked-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/193-jedi-counseling-29-sabers-for-sale.md:21`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -103,7 +99,6 @@ Our notes: `notes/materials/037-sw-d20-folder/193-jedi-counseling-29-sabers-for-
 > Obi-Wan Kenobi successfully uses this application of the skill to get past the stormtrooper checkpoint in A New Hope. Jabba the Hutt and Watto both make their Will saves against this application of the skill in Return of the Jedi and The Phantom Menace, respectively.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi — entry/section: Affect Mind examples (Revised Core Rulebook, Ch4 Force skills): "Obi-Wan Kenobi successfully uses this application of the skill to get past the stormtrooper checkpoint in A New Hope. Jabba the Hutt and Watto both make their Will saves against this application of the skill in Return of the Jedi and The Phantom Menace, respectively." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.78
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.78 — full quote as printed](quotes/d671-s78-obi-wan-kenobi-successfully-uses-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-061-120.md:97`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–240)
@@ -111,7 +106,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-061
 > Qui-Gon Jinn, for example, might have earned a Dark Side Point for using the Force to cheat Watto.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Qui-Gon Jinn — entry/section: Minor Transgression — Using the Force to Cause Inconvenience (Revised Core Rulebook, Ch9): "Qui-Gon Jinn, for example, might have earned a Dark Side Point for using the Force to cheat Watto." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.184
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.184 — full quote as printed](quotes/d671-s184-qui-gon-jinn-for-example-might.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181-240.md:31`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -256,7 +250,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:362`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #58 (2002).
 Note (our notes, around the quote): Watto; Darth Vader (Anakin Skywalker) — entry/section: Rob Coleman on Watto's backstory: "Other elements to Watto's backstory included that he was a gambler, a rough customer who aspired to more wealth and social standing. To help convey that aspect of his personality, the animators squinted one eye to make him look more like a pirate. He was older and tended to be grumpy, a quality he demonstrates the first time Anakin arrives on screen. To show his age, animators decided that Watto would fly all the time because his legs hurt. If you look carefully, you can see him scratching his legs to relieve the pain in a couple of scenes. —Rob Coleman, Star Wars Insider 58, p. 73" Source: *Star Wars Insider #58* (2002), scan p.57
-![Quote image: *Star Wars Insider #58* (2002), scan p.57 — full quote as printed](quotes/ins058-s57-other-elements-to-wattos-backstory-included.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:364`
 
 > Watto You Looking At?
@@ -302,7 +295,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:455`
 > That opened the door for everyone else.
 — Source: Star Wars Insider #94 (2007); Jar Jar Binks; Sebulba; Watto — entry/section: Believable characters.
 Note (our notes, around the quote): Jar Jar Binks; Sebulba; Watto — entry/section: Believable characters: ""We made Jar Jar, Sebulba, and Watto believable characters who could act," "That opened the door for everyone else." —George Lucas, Star Wars Insider 94, p. 46" Source: *Star Wars Insider #94* (2007), scan p.46
-![Quote image: *Star Wars Insider #94* (2007), scan p.46 — full quote as printed](quotes/ins094-s46-we-made-jar-jar-sebulba-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:459`
 
 - Note (summary from our notes, not a quotation): Page contents: Star Wars Effect Part 2 sidebar "The George Lucas Educational Foundation" (GLEF, founded 1991; Edutopia); captions: THX sound, a Lucasfilm innovation; the Death Star cable-car service never caught on; Lucas believes learning should be exciting; Jar Jar "How wude!"; pull quote Lucas on Jar Jar, Sebulba and Watto; reader prompt to write in about other Star Wars effects (hand-read)
@@ -324,20 +316,17 @@ Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:922`
 > It should be cheap, but it should be creative. It's being able to see something and re-adapt it so it's not recognizable, but using its best facility to make it into something completely different.
 — Source: Star Wars Insider #100 (2008); Watto — entry/section: Peter Walpole on design.
 Note (our notes, around the quote): Watto — entry/section: Peter Walpole on design: ""It should be cheap, but it should be creative. It's being able to see something and re-adapt it so it's not recognizable, but using its best facility to make it into something completely different." —Peter Walpole, set decorator, Star Wars Insider 100, p. 86" Source: *Star Wars Insider #100* (2008), scan p.86
-![Quote image: *Star Wars Insider #100* (2008), scan p.86 — full quote as printed](quotes/ins100-s86-it-should-be-cheap-but-it.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:924`
 
 > He created little nuances with his hands, his face, his head, and his eyes, all of which I had the animators recreate,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #100 (2008); Watto — entry/section: Rob Coleman on Secombe.
 Note (our notes, around the quote): Watto — entry/section: Rob Coleman on Secombe: ""He created little nuances with his hands, his face, his head, and his eyes, all of which I had the animators recreate," —Rob Coleman, animation director, Star Wars Insider 100, p. 86" Source: *Star Wars Insider #100* (2008), scan p.86
-![Quote image: *Star Wars Insider #100* (2008), scan p.86 — full quote as printed](quotes/ins100-s86-he-created-little-nuances-with-his.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:926`
 
 > The way Andy played him, there was something endearing about Watto, even though he's this shifty character.
 — Source: Star Wars Insider #100 (2008); Watto — entry/section: Rob Coleman box.
 Note (our notes, around the quote): Watto — entry/section: Rob Coleman box: ""The way Andy played him, there was something endearing about Watto, even though he's this shifty character." —Rob Coleman, animation director, Star Wars Insider 100, p. 86" Source: *Star Wars Insider #100* (2008), scan p.86
-![Quote image: *Star Wars Insider #100* (2008), scan p.86 — full quote as printed](quotes/ins100-s86-the-way-andy-played-him-there.jpg)
 Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:928`
 
 - Note (summary from our notes, not a quotation): Page contents: Set Piece (cont.): annotated Watto's shop set photo with callouts Ionizer, Art (Qui-Gon's holoprojector), Droids, Props, Temperature, Floors; Qui-Gon, Watto, Anakin, C-3PO in scene; temperature callout line start partly obscured (hand-read)

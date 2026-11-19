@@ -18,7 +18,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > When Longspar was defeated in combat by Luke Skywalker, Darial Anglethorn was able to destroy water-holding tanks and restore the planet's water supply.
 — Source: scan pages 241–280; Luke Skywalker. POV: Luke Skywalker, about Gideon Longspar.
 Note (our notes, around the quote): Luke Skywalker: "When Longspar was defeated in combat by Luke Skywalker, Darial Anglethorn was able to destroy water-holding tanks and restore the planet's water supply." Source: The Complete Star Wars Encyclopedia, Vol. II, p.261
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.261 — full quote as printed](quotes/v2-p261-when-longspar-was-defeated-in-combat.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:234`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -36,7 +35,6 @@ Our notes: `notes/materials/037-sw-d20-folder/573-part-1-return-to-prosperity.md
 > When Luke Skywalker was stranded on the planet in the wake of the skirmish at Golrath, he helped Anglethorn release the Tirrith from Longspar's enslavement.
 — Source: Locations/Planet Hoppers/Beheboth - Blood and Water/Part 1 - Return to Pr; Luke Skywalker. POV: Luke Skywalker, about Gideon Longspar.
 Note (our notes, around the quote): Luke Skywalker: "When Luke Skywalker was stranded on the planet in the wake of the skirmish at Golrath, he helped Anglethorn release the Tirrith from Longspar's enslavement." Source: *Part 1 - Return to Prosperity* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 1 - Return to Prosperity* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d573-s1-when-luke-skywalker-was-stranded-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/573-part-1-return-to-prosperity.md:12`
 
 ## Locations/Planet Hoppers/Beheboth - Blood and Water/Part 2 - Who Slew Berl Matoone?.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

@@ -14,7 +14,6 @@
 > Compound of the rogue Sith Lord Grathan, this jungle estate outside Kaas City has become the last refuge of an ambitious Sith who declared himself the thirteenth Dark Council member.
 — Source: Species, technology, planets and the future; Lord Grathan — Lord Grathan's Estate box.
 Note (our notes, around the quote): Lord Grathan — Lord Grathan's Estate box: "Compound of the rogue Sith Lord Grathan, this jungle estate outside Kaas City has become the last refuge of an ambitious Sith who declared himself the thirteenth Dark Council member." Source: The Old Republic Encyclopedia, p.305, sidebar
-![Quote image: The Old Republic Encyclopedia, p.305 — full quote as printed](quotes/tore-p305-compound-of-the-rogue-sith-lord.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:347`
 
 # Debate and forum claims (unverified)

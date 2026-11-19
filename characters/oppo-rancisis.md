@@ -14,7 +14,6 @@
 > During the prolonged siege at Saleucami, Bulg killed venerated Jedi Master Oppo Rancisis.
 — Source: scan pages 81–120; Oppo Rancisis. POV: Oppo Rancisis.
 Note (our notes, around the quote): Oppo Rancisis: "During the prolonged siege at Saleucami, Bulg killed venerated Jedi Master Oppo Rancisis." Source: The Complete Star Wars Encyclopedia, Vol. I, p.97
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.97 — full quote as printed](quotes/v1-p97-during-the-prolonged-siege-at-saleucami.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:253`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -26,25 +25,21 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan
 > When Rancisis was placed in command of Republic operations on Saleucami to destroy a Confederacy cloning operation involving Morgukai warriors, Rancisis chose Vos as his second in command.
 — Source: scan pages 81–120; Oppo Rancisis; Quinlan Vos — entry/section: Rancisis, Oppo.
 Note (our notes, around the quote): Oppo Rancisis; Quinlan Vos — entry/section: Rancisis, Oppo: "When Rancisis was placed in command of Republic operations on Saleucami to destroy a Confederacy cloning operation involving Morgukai warriors, Rancisis chose Vos as his second in command." Source: The Complete Star Wars Encyclopedia, Vol. III, p.78
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.78 — full quote as printed](quotes/v3-p78-when-rancisis-was-placed-in-command.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:39`
 
 > Rancisis was trained in the ancient art of Jedi battle meditation, and was soon deep in contemplation, subtly altering the will of the fighting forces to coax victory for the Republic.
 — Source: scan pages 81–120; Oppo Rancisis — entry/section: Rancisis, Oppo.
 Note (our notes, around the quote): Oppo Rancisis — entry/section: Rancisis, Oppo: "Rancisis was trained in the ancient art of Jedi battle meditation, and was soon deep in contemplation, subtly altering the will of the fighting forces to coax victory for the Republic." Source: The Complete Star Wars Encyclopedia, Vol. III, p.78
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.78 — full quote as printed](quotes/v3-p78-rancisis-was-trained-in-the-ancient.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:41`; `suspect-insight/debates/111-darth-caedus-vs-kyle-katarn-and-mara-jade.md:250`
 
 > Though the Republic ultimately stopped the Confederacy plot on the planet, Rancisis was killed by the traitorous Jedi Sora Bulg.
 — Source: scan pages 81–120; Oppo Rancisis — entry/section: Rancisis, Oppo.
 Note (our notes, around the quote): Oppo Rancisis — entry/section: Rancisis, Oppo: "Though the Republic ultimately stopped the Confederacy plot on the planet, Rancisis was killed by the traitorous Jedi Sora Bulg." Source: The Complete Star Wars Encyclopedia, Vol. III, p.78
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.78 — full quote as printed](quotes/v3-p78-though-the-republic-ultimately-stopped-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:43`
 
 > There, he assumed command of the mission when Bulg killed Rancisis and created his own battle plan, allowing him to eliminate Sora Bulg.
 — Source: scan pages 281–320; Oppo Rancisis. POV: Oppo Rancisis.
 Note (our notes, around the quote): Oppo Rancisis: "There, he assumed command of the mission when Bulg killed Rancisis and created his own battle plan, allowing him to eliminate Sora Bulg." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-there-he-assumed-command-of-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:321`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -74,7 +69,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > A Thisspiasian named Oppo Rancisis inherited the position of monarch but later relinquished the title in favor of staying with the Jedi Order. During the Clone Wars, Rancisis attempted to persuade the ruling monarch to take a stand against Count Dooku and the Separatists. After losing to Rancisis in a trial of unarmed combat, the Thisspiasian monarch grudgingly allowed Thisspiasian warriors to aid the Republic in several critical battles. When the Republic gave way to the Empire, the Imperials bombarded the Thisspiasian homeworld and enslaved the survivors. An over-zealous Imperial governor seeking to impress the Emperor executed the Thisspiasian monarch and enslaved the crown prince. The Thisspiasians were furious and rebelled, but their initial counterattacks proved futile. It wasn’t until Rebel spies infiltrated the governor's ranks and rescued the Thisspiasian heir that his people regained hope. The humiliated governor threatened to annihilate the Thisspiasians; ironically, the Emperor sent one of his agents, an Emperor's Hand, to “deal with the embarrassment,” eliminating the witless governor and enforcing a planetwide quarantine.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Oppo Rancisis; Count Dooku; Palpatine (Darth Sidious) — entry/section: Thisspiasian.
 Note (our notes, around the quote): Oppo Rancisis; Count Dooku; Palpatine (Darth Sidious) — entry/section: Thisspiasian: "A Thisspiasian named Oppo Rancisis inherited the position of monarch but later relinquished the title in favor of staying with the Jedi Order. During the Clone Wars, Rancisis attempted to persuade the ruling monarch to take a stand against Count Dooku and the Separatists. After losing to Rancisis in a trial of unarmed combat, the Thisspiasian monarch grudgingly allowed Thisspiasian warriors to aid the Republic in several critical battles. When the Republic gave way to the Empire, the Imperials bombarded the Thisspiasian homeworld and enslaved the survivors. An over-zealous Imperial governor seeking to impress the Emperor executed the Thisspiasian monarch and enslaved the crown prince. The Thisspiasians were furious and rebelled, but their initial counterattacks proved futile. It wasn’t until Rebel spies infiltrated the governor's ranks and rescued the Thisspiasian heir that his people regained hope. The humiliated governor threatened to annihilate the Thisspiasians; ironically, the Emperor sent one of his agents, an Emperor's Hand, to “deal with the embarrassment,” eliminating the witless governor and enforcing a planetwide quarantine." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.160
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.160 — full quote as printed](quotes/d673-s160-a-thisspiasian-named-oppo-rancisis-inherited.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-121-180.md:215`
 
 - Note (summary from our notes, not a quotation): Page contents: Thisspiasian traits (example names incl. Oppo Rancisis); Tiss'shar. (hand-read)

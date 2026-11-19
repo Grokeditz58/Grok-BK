@@ -28,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > WE NO LONGER SEEK CONTRACTS. BUT WE MAY ACCEPT ALLIES.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Arkoh Adasca — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Arkoh Adasca — entry/section: Pull quote: ""WE NO LONGER SEEK CONTRACTS. BUT WE MAY ACCEPT ALLIES." —LORD ARKOH ADASCA" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.211
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.211 — full quote as printed](quotes/d718-s211-we-no-longer-seek-contracts-but.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:283`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 241–300)

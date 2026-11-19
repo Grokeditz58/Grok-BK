@@ -49,7 +49,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:103`
 > Vima Sunrider learned much and eventually became one of the greatest Jedi of her age.
 — Source: Part One: Tales of the Ancient Republic; Vima Sunrider — Vima's later greatness.
 Note (our notes, around the quote): Vima Sunrider — Vima's later greatness: "Vima Sunrider learned much and eventually became one of the greatest Jedi of her age." Source: The New Essential Chronology, p.22
-![Quote image: The New Essential Chronology, p.22 — full quote as printed](quotes/nec-p22-vimas-later-greatness.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:180`
 
 > New Republic Commander Kyle Katam also joined the first batch of students, having spent the previous year battling Palpatine's Imperials and in- vestigating a Sith temple on Oromund Kaas with Mara Jade, where he nearly fell to the dark side. Luke chose the aban: doned Rebel base on Yavin 4 for his “praxeum,’ a place for the leaming of action. In the tempie ruins left by the ancient Massassi, Luke began to Instruct his candidates In the ways of the Force, Maw INstattation 11 ABLY.
@@ -69,7 +68,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Kyp Durron — Kyp's Force affinity: "The young man had a strong affinity for the Force, having been trained by Vima-Da-Boda during her stay in the mines." Source: The New Essential Chronology, p.162
-![Quote image: The New Essential Chronology, p.162 — full quote as printed](quotes/nec-p162-kyps-force-affinity.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:15`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -89,7 +87,6 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Kyp Durron — Kyp Durron — Vima-Da-Boda: "Kyp knows he has a talent for the Force, thanks to a provident encounter with a strange old woman named Vima-Da-Boda." Source: The Jedi Academy Sourcebook, p.35
-![Quote image: The Jedi Academy Sourcebook, p.35 — full quote as printed](quotes/jas-p35-kyp-durron-vima-da-boda.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.md:80`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -97,13 +94,11 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/03-ch3-the-jedi-academy.
 > Invincible (1) The Star Destroyer used by Zasm Katth and Baddon Fass to go to Nar Shaddaa to kill Vima-Da-Boda and Han Solo.
 — Source: scan pages 81–120; Vima-Da-Boda; Han Solo.
 Note (our notes, around the quote): Vima-Da-Boda; Han Solo: "Invincible (1) The Star Destroyer used by Zasm Katth and Baddon Fass to go to Nar Shaddaa to kill Vima-Da-Boda and Han Solo." Source: The Complete Star Wars Encyclopedia, Vol. II, p.109
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.109 — full quote as printed](quotes/v2-p109-invincible-1-the-star-destroyer-used.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:220`
 
 > Second, they were to hunt down and destroy Vima-Da-Boda.
 — Source: scan pages 201–240; Vima-Da-Boda. POV: Vima-Da-Boda.
 Note (our notes, around the quote): Vima-Da-Boda: "Second, they were to hunt down and destroy Vima-Da-Boda." Source: The Complete Star Wars Encyclopedia, Vol. II, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.204 — full quote as printed](quotes/v2-p204-second-they-were-to-hunt-down.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:89`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -115,13 +110,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Sunrider, Andur The husband of Nomi Sunrider and father of Vima, this Jedi was killed some 4,000 years before the Galactic Civil War in a senseless battle with petty gangsters at the Stenness hyperspace terminal while he was on his way to visit Jedi Master Thon on Ambria.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Andur Sunrider; Nomi Sunrider; Vima-Da-Boda; Master Thon — entry/section: Sunrider, Andur: "Sunrider, Andur The husband of Nomi Sunrider and father of Vima, this Jedi was killed some 4,000 years before the Galactic Civil War in a senseless battle with petty gangsters at the Stenness hyperspace terminal while he was on his way to visit Jedi Master Thon on Ambria." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-sunrider-andur-the-husband-of-nomi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:41`
 
 > When Ulic was killed by Hoggon, Vima and Nomi saw Ulic's body disappear into the Force, and realized that he still had the heart of a Jedi.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Vima-Da-Boda; Ulic Qel-Droma; Nomi Sunrider — entry/section: Sunrider, Vima: "When Ulic was killed by Hoggon, Vima and Nomi saw Ulic's body disappear into the Force, and realized that he still had the heart of a Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-when-ulic-was-killed-by-hoggon.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:51`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -129,7 +122,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > While Nomi and Vima discussed her training, others arrived: the Jedi Knight Sylvar, whose mate Crado had been slain by the supernova; and Hoggon, the tramp freighter pilot who had brought Ulic to Rhen Var in the first place.
 — Source: Chapter One: History of the Jedi; Nomi Sunrider; Vima-Da-Boda; Sylvar; Crado; Ulic Qel-Droma.
 Note (our notes, around the quote): Nomi Sunrider; Vima-Da-Boda; Sylvar; Crado; Ulic Qel-Droma: "While Nomi and Vima discussed her training, others arrived: the Jedi Knight Sylvar, whose mate Crado had been slain by the supernova; and Hoggon, the tramp freighter pilot who had brought Ulic to Rhen Var in the first place." Source: Power of the Jedi Sourcebook, p.7
-![Quote image: Power of the Jedi Sourcebook, p.7 — full quote as printed](quotes/potj-p7-while-nomi-and-vima-discussed-her.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:36`
 
 ## Star Wars: Dark Empire (1991–92), Dark Empire II (1994–95), Empire's End (1995), single issues, hand-read

@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:2
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 Note (our notes, around the quote): Celor Teon — entry/section: Control Room: ""Well, what was so important that you had to land this instant? We run the show here, not you. You're just lucky my assistant allowed you to land. I would've let you buzz around this building till your wings fell off!"" Source: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.40
-![Quote image: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.40 — full quote as printed](quotes/d708-s40-well-what-was-so-important-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:251`
 
 # Debate and forum claims (unverified)

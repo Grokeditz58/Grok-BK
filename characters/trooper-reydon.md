@@ -28,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/255-jedi-counseling-85.md:21`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 85 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_85_pdf_58ce5e372e`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_85_pdf`.)
 Note (our notes, around the quote): -- from "Comments on the E-Web by Imperial Trooper Reydon," Imperial Sourcebook page 124, West End Games" Source: *Jedi Counseling 85* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 85* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d255-s2-without-a-second-man-its-very.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/255-jedi-counseling-85.md:22`
 
 # Debate and forum claims (unverified)

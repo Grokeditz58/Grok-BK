@@ -37,7 +37,6 @@ Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:367`
 > Zayne is always self-effacing and deals with his failures through humor. Haazen is looking for a shortcut, and the shortcut he finds are Sith artifacts. This being a comic book about con artists in a way, Haazen is really running the long con. He's been there, like Emperor Palpatine, biding his time and watching pieces go together, figuring out his opening to get his revenge.
 — Source: Star Wars Insider #104 (2008); Haazen; Zayne Carrick — entry/section: Miller on Haazen and Zayne.
 Note (our notes, around the quote): Haazen; Zayne Carrick — entry/section: Miller on Haazen and Zayne: ""Haazen feels a sense of entitlement; he reacts to criticism with anger," explains Miller. "Zayne is always self-effacing and deals with his failures through humor. Haazen is looking for a shortcut, and the shortcut he finds are Sith artifacts. This being a comic book about con artists in a way, Haazen is really running the long con. He's been there, like Emperor Palpatine, biding his time and watching pieces go together, figuring out his opening to get his revenge." —John Jackson Miller, Star Wars Insider 104, p. 61" Source: *Star Wars Insider #104* (2008), scan p.61
-![Quote image: *Star Wars Insider #104* (2008), scan p.61 — full quote as printed](quotes/ins104-s61-haazen-feels-a-sense-of-entitlement.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:381`
 
 # Debate and forum claims (unverified)

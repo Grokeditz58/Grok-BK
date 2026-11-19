@@ -14,7 +14,6 @@
 > You can put the weapon away, Major. The Mistryl Shadow Guard does not kill casually or without cause.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): Flim (Thrawn impostor) — entry/section: Pull quote: the Thrawn stand-in on the Mistryl: ""You can put the weapon away, Major. The Mistryl Shadow Guard does not kill casually or without cause." —The Imperial Remnant's Grand Admiral Thrawn stand-in" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.122
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.122 — full quote as printed](quotes/d715-s122-you-can-put-the-weapon-away.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:21`
 
 ## Specter of the Past (Timothy Zahn) — Hand of Thrawn 1

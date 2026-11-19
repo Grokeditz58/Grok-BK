@@ -18,12 +18,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:19`
 
 - Note (summary from our notes, not a quotation): Satal tortures Ulic and injects Sith poison (p4–6). Exar enslaves the Massassi and finds Sadow's ship and laboratory (p7–10). Nomi lets herself be captured (p11–13); her battle meditation turns the guards on each other (p20–21). Ulic kills Satal's assassin and then Satal (p22–25) and becomes Krath leader (p27).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](024-tales-of-the-jedi/panels/dlots5-p05-satal-tortures-ulic.jpg)
-![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](024-tales-of-the-jedi/panels/dlots5-p06-ulic-force-impulse.jpg)
-![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](024-tales-of-the-jedi/panels/dlots5-p07-massassi-build-temples.jpg)
-![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](024-tales-of-the-jedi/panels/dlots5-p10-sadow-ship-and-lab.jpg)
-![Dark Lords of the Sith #5 p13: Nomi Sunrider must defend herself against the unexpectedly powerful Krath warriors](024-tales-of-the-jedi/panels/dlots5-p13-nomi-vs-krath-warriors.jpg)
-![Dark Lords of the Sith #5 p21: Nomi's battle meditation turns her Krath guards on each other](024-tales-of-the-jedi/panels/dlots5-p21-nomi-guards-turn.jpg)
+![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p05-satal-tortures-ulic.jpg)
+![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p06-ulic-force-impulse.jpg)
+![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p07-massassi-build-temples.jpg)
+![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p10-sadow-ship-and-lab.jpg)
+![Dark Lords of the Sith #5 p13: Nomi Sunrider must defend herself against the unexpectedly powerful Krath warriors](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p13-nomi-vs-krath-warriors.jpg)
+![Dark Lords of the Sith #5 p21: Nomi's battle meditation turns her Krath guards on each other](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p21-nomi-guards-turn.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:43`
 
 > MY CHILDREN--I COME TO WARN YOU! IT IS NOT QEL-DROMA YOU MUST FEAR!
@@ -38,18 +38,18 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:43`
 > [fragment — full passage not on file]
 — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes; Freedon Nadd's spirit (dying) to Satal and Aleema Keto. POV: Freedon Nadd's spirit, about Satal Keto.
 Note (our notes, around the quote): Freedon Nadd's spirit (dying) to Satal and Aleema Keto: "MY CHILDREN--I COME TO WARN YOU! IT IS NOT QEL-DROMA YOU MUST FEAR!" "BEWARE OF EXAR KUN. HE HAS ACQUIRED GREAT SITH POWERS AND HE HAS AMBITION WITHOUT LIMIT--" "I NOW DECLARE IT...EXAR KUN IS A PRETENDER TO THE SITH LEGACY..." "...THE REAL POWER OF THE SITH RESTS WITH YOU...THREE..." Source: Dark Lords of the Sith #4, p26
-![Dark Lords of the Sith #4 p26: Freedon Nadd's spirit warns: "Beware of Exar Kun"](panels/dlots4-p26-nadd-beware-exar.jpg)
+![Dark Lords of the Sith #4 p26: Freedon Nadd's spirit warns: "Beware of Exar Kun"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p26-nadd-beware-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:94`
 
 - Note (summary from our notes, not a quotation): Gives off a "MASSIVE IMPULSE OF FORCE ENERGY" when Satal injects him with Sith poison. Source: Dark Lords of the Sith #5, p4–6
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](panels/dlots5-p05-satal-tortures-ulic.jpg)
-![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](panels/dlots5-p06-ulic-force-impulse.jpg)
+![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p05-satal-tortures-ulic.jpg)
+![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p06-ulic-force-impulse.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:108`; `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:178`
 
 - Note (summary from our notes, not a quotation): Modernises the Krath arsenal as their new commander. Source: Dark Lords of the Sith #5, p14–15
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p14: The Krath arsenal is obsolete; Satal proposes giving Ulic Qel-Droma command](panels/dlots5-p14-krath-arsenal-obsolete.jpg)
+![Dark Lords of the Sith #5 p14: The Krath arsenal is obsolete; Satal proposes giving Ulic Qel-Droma command](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p14-krath-arsenal-obsolete.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:111`
 
 - Note (summary from our notes, not a quotation): Kills Satal Keto; the Sith poison is ignited by his anger; Force-blasts his brother Cay and Tott Doneeta away. Source: Dark Lords of the Sith #5, p24–25
@@ -58,7 +58,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:113`
 
 - Note (summary from our notes, not a quotation): Blasts Nomi Sunrider with Satal's Sith amulet. Source: Dark Lords of the Sith #6, p18–19
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #6 p19: Ulic Qel-Droma blasts Nomi Sunrider with Satal's Sith amulet](panels/dlots6-p19-ulic-blasts-nomi-amulet.jpg)
+![Dark Lords of the Sith #6 p19: Ulic Qel-Droma blasts Nomi Sunrider with Satal's Sith amulet](../notes/materials/024-tales-of-the-jedi/panels/dlots6-p19-ulic-blasts-nomi-amulet.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:114`
 
 - Note (summary from our notes, not a quotation): Cuts down Satal's assassin Norgor. Source: Dark Lords of the Sith #5, p22
@@ -67,20 +67,20 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:118`
 
 - Note (summary from our notes, not a quotation): Wounded by Krath kamikaze slag; the wound will not heal by Jedi means. Source: Dark Lords of the Sith #2, p26–27; #3, p4–6
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](panels/dlots2-p26-krath-chaos-fighters.jpg)
-![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](panels/dlots2-p27-ulic-hit-by-slag.jpg)
-![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](panels/dlots3-p06-ulic-wound-deneba.jpg)
+![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
+![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
+![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p06-ulic-wound-deneba.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:122`
 
 - Note (summary from our notes, not a quotation): Hypnotic Krath kamikaze chaos fighters (Satal's command) wound Ulic. Source: Dark Lords of the Sith #2, p26–27
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](panels/dlots2-p26-krath-chaos-fighters.jpg)
-![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](panels/dlots2-p27-ulic-hit-by-slag.jpg)
+![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
+![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:175`
 
 - Note (summary from our notes, not a quotation): Killed by Ulic Qel-Droma. Source: Dark Lords of the Sith #5, p24–25
   — Source: Dark Lords of the Sith #5, p24–25 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](panels/dlots5-p25-ulic-kills-satal.jpg)
+![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p25-ulic-kills-satal.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:183`
 
 - Note (summary from our notes, not a quotation): Force-blasted aside by Ulic (with Tott Doneeta) when Ulic kills Satal. Source: Dark Lords of the Sith #5, p24–25
@@ -92,13 +92,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:240`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:280`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](panels/dlots5-p25-ulic-kills-satal.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p25-ulic-kills-satal.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:319`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](panels/dlots5-p25-ulic-kills-satal.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p25-ulic-kills-satal.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](panels/dlots5-p25-ulic-kills-satal.jpg)
+![Dark Lords of the Sith #5 p25: Ulic kills Satal Keto](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p25-ulic-kills-satal.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:321`
 
 > SATAL AND ALEEMA... I AM NADD.
@@ -129,27 +129,27 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:72`
 > THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes. POV: Ommin, about Satal Keto.
 Note (our notes, around the quote): Ommin about Freedon Nadd: "HERE LET ME SHOW YOU MY WONDERFUL AMULETS--" "THEY WERE LEFT TO ME BY MY ANCIENT FOREBEAR, FREEDON NADD." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:81`
 
 > AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Makes Satal's mind whirl with a gesture. POV: narrator, about Satal Keto.
 Note (our notes, around the quote): Makes Satal's mind whirl with a gesture: "AS KING OMMIN GESTURES, SATAL'S MIND WHIRLS IN A DARK WIND." · NARRATION. Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:100`
 
 > YES... I WONDER IF ANYONE BUT US CAN FEEL IT.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Steals a Sith book from the Galactic Museum's "Sith Hall"; Satal: "YES... I WONDER IF ANYONE BUT US CAN FEEL IT." Source: Freedon Nadd Uprising #1, p25–26
-![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](panels/fnu1-p25-ketos-galactic-museum.jpg)
-![Freedon Nadd Uprising #1 p26: Satal Keto with the stolen Sith book](panels/fnu1-p26-satal-sith-book.jpg)
+![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p25-ketos-galactic-museum.jpg)
+![Freedon Nadd Uprising #1 p26: Satal Keto with the stolen Sith book](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p26-satal-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:218`
 
 > HOLD TIGHT, COUSIN-- I'M NOT LETTING THE REPUBLIC GET TO THOSE SITH MAGICIANS BEFORE WE DO!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Satal Keto. POV: Satal Keto.
 Note (our notes, around the quote): Satal Keto: "HOLD TIGHT, COUSIN-- I'M NOT LETTING THE REPUBLIC GET TO THOSE SITH MAGICIANS BEFORE WE DO!" Source: Freedon Nadd Uprising #1, p27
-![Freedon Nadd Uprising #1 p27: Satal Keto: "Hold tight, cousin--I'm not letting the Republic get to those Sith magicians before we do!"](panels/fnu1-p27-satal-hold-tight.jpg)
+![Freedon Nadd Uprising #1 p27: Satal Keto: "Hold tight, cousin--I'm not letting the Republic get to those Sith magicians before we do!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p27-satal-hold-tight.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:221`
 
 > GIDDY WITH THE SWIRLING ENERGIES OF THE DARK SIDE, SATAL IS IN NO MOOD TO REFUSE THE URGINGS OF HIS COUSIN.
@@ -160,14 +160,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:221`
 > OF COURSE YOU CAN, MY SON.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Reads the Sith book with Ommin's amulet.
 Note (our notes, around the quote): Reads the Sith book with Ommin's amulet: "GIDDY WITH THE SWIRLING ENERGIES OF THE DARK SIDE, SATAL IS IN NO MOOD TO REFUSE THE URGINGS OF HIS COUSIN." Satal: "BY THE EMPRESS! I...I CAN READ IT PERFECTLY!" Ommin: "OF COURSE YOU CAN, MY SON." Source: Freedon Nadd Uprising #2, p12
-![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](panels/fnu2-p12-satal-reads-sith-book.jpg)
+![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p12-satal-reads-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:223`
 
 > ALEEMA...I FEEL SUDDENLY ILL.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Satal Keto. POV: Satal Keto.
 Note (our notes, around the quote): Satal Keto: "ALEEMA...I FEEL SUDDENLY ILL." Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:225`
 
 > CONCEALED AMONGST THE DEPARTING TRAVELERS, SATAL KETO AND HIS COUSIN ALEEMA RETURN ACROSS THE GALAXY TO THE EMPRESS TETA SYSTEM...
@@ -177,25 +177,25 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:225`
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #2, p20 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Leaves Onderon with the Sith book, amulet and swords. POV: narrator, about Satal Keto.
 Note (our notes, around the quote): Leaves Onderon with the Sith book, amulet and swords: "CONCEALED AMONGST THE DEPARTING TRAVELERS, SATAL KETO AND HIS COUSIN ALEEMA RETURN ACROSS THE GALAXY TO THE EMPRESS TETA SYSTEM..." "...WITH PRECIOUS SITH TREASURES IN THEIR BAGGAGE!" · NARRATION. Source: Freedon Nadd Uprising #2, p20
-![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:227`
 
 > THERE'S POWER IN THESE THINGS, SATAL.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Senses Sith amulets in the museum.
 Note (our notes, around the quote): Senses Sith amulets in the museum: "THERE'S POWER IN THESE THINGS, SATAL." Source: Freedon Nadd Uprising #1, p25
-![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](panels/fnu1-p25-ketos-galactic-museum.jpg)
+![Freedon Nadd Uprising #1 p25: Satal and Aleema Keto in the Galactic Museum's Sith exhibits: "There's power in these things, Satal"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p25-ketos-galactic-museum.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:230`
 
 > AS A WAY OF AMUSING THEMSELVES, THE INDOLENT YOUNG ARISTOCRATS HAVE BEEN DABBLING IN THE LORE OF MAGIC.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Satal Keto and Aleema Keto. POV: narrator, about Satal Keto.
 Note (our notes, around the quote): Narration on Satal Keto and Aleema Keto: "AS A WAY OF AMUSING THEMSELVES, THE INDOLENT YOUNG ARISTOCRATS HAVE BEEN DABBLING IN THE LORE OF MAGIC." · NARRATION. Source: Freedon Nadd Uprising #1, p24
-![Freedon Nadd Uprising #1 p24: The young Tetan aristocrats Satal and Aleema Keto have been dabbling in the lore of magic](panels/fnu1-p24-ketos-dabbling-in-magic.jpg)
+![Freedon Nadd Uprising #1 p24: The young Tetan aristocrats Satal and Aleema Keto have been dabbling in the lore of magic](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p24-ketos-dabbling-in-magic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:232`
 
 > ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Aleema Keto in Ommin's lair. POV: Aleema Keto in Ommin's lair, about Satal Keto.
 Note (our notes, around the quote): Aleema Keto in Ommin's lair: "ALL I SENSE IS GREAT POWER THAT WANTS TO HELP US!" Source: Freedon Nadd Uprising #2, p11
-![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](panels/fnu2-p11-ommin-amulets.jpg)
+![Freedon Nadd Uprising #2 p11: Ommin shows the Ketos Freedon Nadd's amulets; Satal's mind whirls; Aleema senses "great power that wants to help us"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p11-ommin-amulets.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:236`
 
 > HERE, NOVAR... HAVE A SCRIBE COPY THIS AT ONCE.
@@ -204,7 +204,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:236`
 > I'LL DO IT MYSELF, LORD OMMIN.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Ommin's servant copies the Sith book himself: Ommin.
 Note (our notes, around the quote): Ommin's servant copies the Sith book himself: Ommin: "HERE, NOVAR... HAVE A SCRIBE COPY THIS AT ONCE." Novar: "I'LL DO IT MYSELF, LORD OMMIN." Source: Freedon Nadd Uprising #2, p12
-![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](panels/fnu2-p12-satal-reads-sith-book.jpg)
+![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p12-satal-reads-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:260`
 
 - Note (summary from our notes, not a quotation): Coverage: the book covers *Tales of the Jedi* up to *The Freedon Nadd Uprising* only. It came out before *Dark Lords of the Sith* and *The Sith War* were collected. So it has no stat block for Exar Kun, and he is named only once (p.78). There are also no stat blocks for Naga Sadow, Aleema, Satal or Mandalore.
@@ -215,7 +215,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; FNU summary. POV: FNU summary.
 Note (our notes, around the quote): FNU summary: "the spirit of Freedon Nadd appears to Satal and Aleema, giving them the book, the amulet, and a pair of Sith swords." Source: Tales of the Jedi Companion (WEG, 1996), p.15
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](quotes/companion-p15-the-spirit-of-freedon-nadd-appears.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.15 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p15-the-spirit-of-freedon-nadd-appears.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:100`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -223,7 +223,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > Instead, Ulic killed Keto in a great duel, then took his place beside Aleema as the new ruler of the Krath.
 — Source: Part One: Tales of the Ancient Republic; Ulic Qel-Droma; Satal Keto — Ulic kills Satal Keto.
 Note (our notes, around the quote): Ulic Qel-Droma; Satal Keto — Ulic kills Satal Keto: "Instead, Ulic killed Keto in a great duel, then took his place beside Aleema as the new ruler of the Krath." Source: The New Essential Chronology, p.17
-![Quote image: The New Essential Chronology, p.17 — full quote as printed](quotes/nec-p17-ulic-kills-satal-keto.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:121`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -235,7 +234,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > He eventually was killed by Jedi Ulic Qel-Droma for instigating the death of Qel- Droma's teacher, Jedi Master Arca Jeth.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Satal Keto; Ulic Qel-Droma; Arca Jeth — entry/section: Keto, Satal: "He eventually was killed by Jedi Ulic Qel-Droma for instigating the death of Qel- Droma's teacher, Jedi Master Arca Jeth." Source: The Complete Star Wars Encyclopedia, Vol. II, p.214
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.214 — full quote as printed](quotes/v2-p214-he-eventually-was-killed-by-jedi.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:203`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -243,13 +241,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > He survived an assassination attempt by Satal and saw Nomi escape imprisonment by Satal just hours before Ulic had agreed to kill her to prove his loyalty to the Krath.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Ulic Qel-Droma; Satal Keto; Nomi Sunrider — entry/section: Qel-Droma, Ulic: "He survived an assassination attempt by Satal and saw Nomi escape imprisonment by Satal just hours before Ulic had agreed to kill her to prove his loyalty to the Krath." Source: The Complete Star Wars Encyclopedia, Vol. III, p.55
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.55 — full quote as printed](quotes/v3-p55-he-survived-an-assassination-attempt-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:158`
 
 > Anger inside Ulic exploded, leading him to kill Satal.
 — Source: scan pages 41–80; Ulic Qel-Droma; Satal Keto — entry/section: Qel-Droma, Ulic.
 Note (our notes, around the quote): Ulic Qel-Droma; Satal Keto — entry/section: Qel-Droma, Ulic: "Anger inside Ulic exploded, leading him to kill Satal." Source: The Complete Star Wars Encyclopedia, Vol. III, p.55
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.55 — full quote as printed](quotes/v3-p55-anger-inside-ulic-exploded-leading-him.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:160`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -265,7 +261,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Satal Keto; Aleema Keto: "The specter of Freedon Nadd had been assisting King Ommin, but decided that Satal and Aleema held the key to resurrecting the golden age of the Sith." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-the-specter-of-freedon-nadd-had.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 
 > Later, Ulic disguised himself as a fallen Jedi and made his way to Satal and Aleema's stronghold in the city of Cinnagar. An assassin threatened to end Aleema's life, but Ulic intervened. He killed the assassin and was accepted into the usurper's sect by the beautiful Aleema. Satal, jealous and suspicious of Ulic, tortured the Jedi, seeking to make him confess to being a spy. Even under the influence of Sith poison, Ulic denied the charges, though his mind was clouded by the foul substance. Aleema scoffed at Satal's suspicions and made Ulic general of their military forces-and her personal pet Jedi. When Satal Keto eventually discovered Ulic's true plans, he confronted the fallen Jedi in a great duel that had terrible repercussions: Ulic unleashed his fury, killing Satal but completing his slide to the dark side. Aleema allowed Ulic to claim his place beside her as the new ruler of their dark side sect. Ulic's military genius, combined with Aleema's Sith illusions, allowed the sect to gain a number of victories against the Republic. In the end, however, a brave band of Jedi Knights captured Ulic and stripped him of his power. Aleema escaped, leaving her one time pet to his fate.
@@ -273,7 +268,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:53`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Satal Keto; Ulic Qel-Droma: "When Satal Keto eventually discovered Ulic's true plans, he confronted the fallen Jedi in a great duel that had terrible repercussions: Ulic unleashed his fury, killing Satal but completing his slide to the dark side." Source: Dark Side Sourcebook, p.75
-![Quote image: Dark Side Sourcebook, p.75 — full quote as printed](quotes/dss-p75-when-satal-keto-eventually-discovered-ulics.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:62`
 
 > Force Skills: Affect Mind+8, Alchemy +5, Empathy +6, Fear +9, Force Grip +I], Force Push +8, Illusion +13, Move Object +6. Feats: Dark Side Skill Emphasis (Fear), Dark Side Skill Emphasis (Force Grip), Force-Sensitive, Iron Will, Persuasive, Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons). Force Feats: Alter, Control, Sense, Sith Sorcery. Ulic Qel-Droma, Former Jedi Hnight, Sith Lord Almost four thousand years before the coming of Darth Vader, two other Jedi Knights embraced the dark side, eventually challenging and almost decimating the ranks of the Jedi Order they once loyally served. One, Exar Kun, turned to the dark side in a quest for knowledge long forbidden by the Order. The other, Ulic Qel-Droma, sought to destroy the dark side sect of Satal and Aleema Keto frorn the inside, only to be turned to evil himself by dark side poison. By the time he was finally defeated, Ulic Qel-Droma had become a formidable Dark Lord of the Sith, second only to his partner Exar Kun. Ulic and his brother Cay Qel-Droma trained under Jedi Master Arca Jeth on the world of Arkania, alongside a Twi'lek Jedi named Tott Doneeta. Master Arca sent the three Jedi students to the world of Onderon to settle the dispute between Iziz and the beast-riders of Onderon.
@@ -281,7 +275,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:62`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ulic Qel-Droma; Satal Keto; Aleema Keto — entry/section: Ulic Qel-Droma, Former Jedi Hnight, Sith Lord: "The other, Ulic Qel-Droma, sought to destroy the dark side sect of Satal and Aleema Keto frorn the inside, only to be turned to evil himself by dark side poison." Source: Dark Side Sourcebook, p.75
-![Quote image: Dark Side Sourcebook, p.75 — full quote as printed](quotes/dss-p75-the-other-ulic-qel-droma-sought.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:66`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -289,7 +282,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:66`
 > However, Nadd realizes that the King is on the brink of defeat by Jedi and Republic forces, so he transfers his support to Satal and Aleema, promising to guide them into a new Sith Golden Age.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Freedon Nadd; Satal Keto; Aleema Keto. POV: Aleema Keto; about Satal Keto.
 Note (our notes, around the quote): Freedon Nadd; Satal Keto; Aleema Keto: "However, Nadd realizes that the King is on the brink of defeat by Jedi and Republic forces, so he transfers his support to Satal and Aleema, promising to guide them into a new Sith Golden Age." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.60
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.60 — full quote as printed](quotes/d718-s60-however-nadd-realizes-that-the-king.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:384`
 
 ## Star Wars Insider #28 (1996)
@@ -297,7 +289,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Vlic planned to infiltrate the Krath asa means of defeating them, but was ultimately se: duced by the dark side of the Force — helped along by the Sith poisons injected into ham by Satal Keto — and joined with Exar Kun as his foremost apprentice to attempt to bring back the glory days of the Sith.
 — Source: Star Wars Insider #28 (1996).
 Note (our notes, around the quote): Ulic Qel-Droma; Exar Kun; Satal Keto — entry/section: Ulic Qel-Droma (glossary): "Vlic planned to infiltrate the Krath asa means of defeating them, but was ultimately se: duced by the dark side of the Force — helped along by the Sith poisons injected into ham by Satal Keto — and joined with Exar Kun as his foremost apprentice to attempt to bring back the glory days of the Sith." Source: *Star Wars Insider #28* (1996), scan p.58
-![Quote image: *Star Wars Insider #28* (1996), scan p.58 — full quote as printed](quotes/ins028-s58-vlic-planned-to-infiltrate-the-krath.jpg)
 Our notes: `notes/materials/038-star-wars-insider/028-ins028.md:329`
 
 ## Star Wars Insider #151 (2014)

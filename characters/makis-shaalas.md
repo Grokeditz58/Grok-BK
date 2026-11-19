@@ -28,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Ma’kis’shaalas’s history, however, is another story, one of which only Master Yoda, Master Windu, and a Nikto warrior known as Tsyr are aware.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Yoda; Mace Windu; Tsyr — entry/section: Ma'kis'shaalas's secret history.
 Note (our notes, around the quote): Yoda; Mace Windu; Tsyr — entry/section: Ma'kis'shaalas's secret history: "Ma’kis’shaalas’s history, however, is another story, one of which only Master Yoda, Master Windu, and a Nikto warrior known as Tsyr are aware." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.90
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.90 — full quote as printed](quotes/d667-s90-ma-kis-shaalas-s-history-however.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:221`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)

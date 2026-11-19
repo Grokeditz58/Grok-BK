@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Jaizen Suel — entry/section: CloakShape Fighter.
 Note (our notes, around the quote): Jaizen Suel — entry/section: CloakShape Fighter: "Jedi ace Jaizen Suel used a modified CloakShape fighter called Dawn Raider as her personal fighter in the late years of the Old Republic. (Modifications included a maneuvering fin, hyperdrive sled, and two weeks of consumables; the ship was valued at 110,000 credits.) Jaizen was considered something of a renegade by many other Jedi of the time, since she saw it as her duty to keep order in many of the" Source: *Starships Of The Galaxy* (SWRPG d20), scan p.67
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.67 — full quote as printed](quotes/d047-s67-jedi-ace-jaizen-suel-used-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:42`
 
 # Debate and forum claims (unverified)

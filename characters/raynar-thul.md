@@ -22,7 +22,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): art caption: "Raynar Thul, spokesbeing for the Killik hive mind" Source: The New Essential Chronology, p.228, caption
-![Quote image: The New Essential Chronology, p.228 — full quote as printed](quotes/nec-p228-caption-raynar-thul-spokesbeing-for-the.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:238`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -30,13 +29,11 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 > Five years after the defeat of the Yuuzhan Vong, Alema Rar was one of seven young Jedi veterans of the Myrkr mission who responded to the telepathic call of Unu- Thul, the joined consciousness of Raynar Thul and the Killik hive that had found and nurtured him back to health.
 — Source: scan pages 81–120; Alema Rar. POV: Alema Rar, about Raynar Thul.
 Note (our notes, around the quote): Alema Rar: "Five years after the defeat of the Yuuzhan Vong, Alema Rar was one of seven young Jedi veterans of the Myrkr mission who responded to the telepathic call of Unu- Thul, the joined consciousness of Raynar Thul and the Killik hive that had found and nurtured him back to health." Source: The Complete Star Wars Encyclopedia, Vol. III, p.80
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.80 — full quote as printed](quotes/v3-p80-five-years-after-the-defeat-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:57`
 
 > During the Swarm War, Luke faced two former Force-users, Raynar Thul and Lomi Plo, who had become absorbed into the hivemind of the Killiks that made up the Colony.
 — Source: scan pages 161–200; Luke Skywalker; Plo Koon.
 Note (our notes, around the quote): Luke Skywalker; Plo Koon: "During the Swarm War, Luke faced two former Force-users, Raynar Thul and Lomi Plo, who had become absorbed into the hivemind of the Killiks that made up the Colony." Source: The Complete Star Wars Encyclopedia, Vol. III, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.165 — full quote as printed](quotes/v3-p165-during-the-swarm-war-luke-faced.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:124`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–162)
@@ -57,7 +54,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:298`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Tenel Ka; Raynar Thul; Zekk — entry/section: Troy Denning on the Young Jedi Knights characters: ""One of the really pleasant surprises I had was to find out how interesting these characters really were." ... "by the end of the series I really thought I knew these kids." —Troy Denning, Star Wars Insider 56, p. 68" Source: *Star Wars Insider #56* (2001), scan p.51
-![Quote image: *Star Wars Insider #56* (2001), scan p.51 — full quote as printed](quotes/ins056-s51-one-of-the-really-pleasant-surprises.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:302`
 
 ## The Dark Nest Trilogy (Troy Denning, Del Rey 2005): FULL consecutive re-read (2026-11-16 CST)

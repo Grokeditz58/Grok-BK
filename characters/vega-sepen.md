@@ -23,13 +23,11 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 (Full sentence/passage taken from the source text on file: `njo_eov_txt`.)
 Note (our notes, around the quote): Vega Sepen — entry/section: Vega Sepen: "“Not our fight,” she cautioned, "We're rescue fliers, not bounty hunters”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.13
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.13 — full quote as printed](quotes/d057-s13-not-our-fight-she-cautioned-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-060.md:83`
 
 > He grinned tightly, remembering what Vega would say: “if” is just a short way of saying, “we're doomed.”
 — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,; Vega Sepen; Uldir Lochett — entry/section: Vega Sepen.
 Note (our notes, around the quote): Vega Sepen; Uldir Lochett — entry/section: Vega Sepen: "He grinned tightly, remembering what Vega would say: “if” is just a short way of saying, “we're doomed.”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.15
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.15 — full quote as printed](quotes/d057-s15-he-grinned-tightly-remembering-what-vega.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-060.md:95`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

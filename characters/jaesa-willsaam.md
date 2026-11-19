@@ -14,44 +14,37 @@
 > He has devoted himself to uncovering these spies with the help of his new Padawan, Jaesa Willsaam, said to possess the ability to discern the true nature of any being. But Darth Baras has not forgotten the betrayal of his former friend. Both men know there will eventually be a reckoning between them.
 — Source: The Jedi Order; Nomen Karr; Darth Baras; Jaesa Willsaam — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr; Darth Baras; Jaesa Willsaam — Master Nomen Karr profile: "He has devoted himself to uncovering these spies with the help of his new Padawan, Jaesa Willsaam, said to possess the ability to discern the true nature of any being. But Darth Baras has not forgotten the betrayal of his former friend. Both men know there will eventually be a reckoning between them." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-he-has-devoted-himself-to-uncovering.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:134`
 
 > Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work.
 — Source: The Sith; Jaesa Willsaam; Nomen Karr — Hunt for the Padawan.
 Note (our notes, around the quote): Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-together-master-and-apprentice-discover-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:432`
 
 > The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-the-sith-warrior-ultimately-strikes-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:434`
 
 > SPECIES: Human FAMILY: Parvin and Gregor (parents) HOMEWORLD: Alderaan UNIQUE FORCE POWER: Ability to discern the true nature of any being AGE: 21
 > [fragment — full passage not on file]
 — Source: The Sith; Jaesa Willsaam — Jaesa data box.
 Note (our notes, around the quote): Jaesa Willsaam — Jaesa data box: "SPECIES: Human FAMILY: Parvin and Gregor (parents) HOMEWORLD: Alderaan UNIQUE FORCE POWER: Ability to discern the true nature of any being AGE: 21" Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-species-human-family-parvin-and-gregor.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:451`
 
 > BORN TO SERVANTS OF HOUSE ORGANA, Jaesa was raised from meager beginnings amid the pomp of Alderaanian nobles. She stood out with a talent for discerning the true nature and intent of anyone she met.
 — Source: The Sith; Jaesa Willsaam — Jaesa Willsaam.
 Note (our notes, around the quote): Jaesa Willsaam — Jaesa Willsaam: "BORN TO SERVANTS OF HOUSE ORGANA, Jaesa was raised from meager beginnings amid the pomp of Alderaanian nobles. She stood out with a talent for discerning the true nature and intent of anyone she met." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-born-to-servants-of-house-organa.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:453`
 
 > Jaesa's unique talent to discern a person's true nature drew Jedi Master Nomen Karr's attention. He recognized the girl's Force-sensitivity and took her as his Padawan. As Jaesa learned the Jedi path, she used her power to root out Imperial spies.
 — Source: The Sith; Jaesa Willsaam; Nomen Karr — Jaesa Willsaam.
 Note (our notes, around the quote): Jaesa Willsaam; Nomen Karr — Jaesa Willsaam: "Jaesa's unique talent to discern a person's true nature drew Jedi Master Nomen Karr's attention. He recognized the girl's Force-sensitivity and took her as his Padawan. As Jaesa learned the Jedi path, she used her power to root out Imperial spies." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-jaesa-s-unique-talent-to-discern.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:455`
 
 > Her faith in the Jedi Order and the light side of the Force are ultimately challenged by Darth Baras's powerful apprentice, a mighty Sith warrior who promises to free Jaesa from the hypocrisy of her former Jedi Master.
 — Source: The Sith; Jaesa Willsaam; Emperor's Wrath (Sith Warrior) — Jaesa Willsaam.
 Note (our notes, around the quote): Jaesa Willsaam; Emperor's Wrath (Sith Warrior) — Jaesa Willsaam: "Her faith in the Jedi Order and the light side of the Force are ultimately challenged by Darth Baras's powerful apprentice, a mighty Sith warrior who promises to free Jaesa from the hypocrisy of her former Jedi Master." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-her-faith-in-the-jedi-order.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:457`
 
 # Debate and forum claims (unverified)

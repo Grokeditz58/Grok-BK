@@ -14,13 +14,11 @@
 > Say. The Clone Wars are going on, right? Which side does Ryloth support? Senator Orn Free Taa is a staunch Loyalist and supports Supreme Chancellor Palpatine.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 3/304 - Twi'light S; Orn Free Taa — entry/section: Master Devan on Ryloth's loyalty.
 Note (our notes, around the quote): Orn Free Taa — entry/section: Master Devan on Ryloth's loyalty: "Say. The Clone Wars are going on, right? Which side does Ryloth support? Senator Orn Free Taa is a staunch Loyalist and supports Supreme Chancellor Palpatine." Source: *304 - Twi'light Storm* (SWRPG d20 Revised Core), p.6
-![Quote image: *304 - Twi'light Storm* (SWRPG d20 Revised Core), p.6 — full quote as printed](quotes/d309-p6-say-the-clone-wars-are-going.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/309-304-twilight-storm.md:56`
 
 > Twi'lek senator Orn Free Taa is returning to Ryloth to unify the major cities and form a planetary defense force.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 3/304 - Twi'light S; Orn Free Taa — entry/section: Fungus Pit rumor.
 Note (our notes, around the quote): Orn Free Taa — entry/section: Fungus Pit rumor: "Twi'lek senator Orn Free Taa is returning to Ryloth to unify the major cities and form a planetary defense force." Source: *304 - Twi'light Storm* (SWRPG d20 Revised Core), p.10
-![Quote image: *304 - Twi'light Storm* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d309-p10-twilek-senator-orn-free-taa-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/309-304-twilight-storm.md:83`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -93,7 +91,6 @@ Our notes: `notes/materials/038-star-wars-insider/081-ins081.md:534`
 > Why don't you look on eBay?
 — Source: Star Wars Insider #81 (2005); Orn Free Taa — entry/section.
 Note (our notes, around the quote): Orn Free Taa — entry/section: "Rick should play him": ""Rick should play him," said Lucas. "Of all the characters you could play, this should be the one." At the time, VFX Producer Janet Lewin was updating Lucas on the status of Orn Free Taa's makeup appliances since some of the pieces had gone missing. "Why don't you look on eBay?" deadpanned Lucas. —George Lucas, Star Wars Insider 81, p. 81" Source: *Star Wars Insider #81* (2005), scan p.81
-![Quote image: *Star Wars Insider #81* (2005), scan p.81 — full quote as printed](quotes/ins081-s81-rick-should-play-him-said-lucas.jpg)
 Our notes: `notes/materials/038-star-wars-insider/081-ins081.md:536`
 
 ## Star Wars Insider #110 (2009)

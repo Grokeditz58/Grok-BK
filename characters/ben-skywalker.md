@@ -247,13 +247,11 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-9-invincible-notes.md:2
 > Adarakh was killed by Yuuzhan Vong collaborator Vigi Shesh on Coruscant while he was trying to defend Leia and the infant Ben Skywalker.
 — Source: scan pages 1–40; Leia Organa Solo; Ben Skywalker.
 Note (our notes, around the quote): Leia Organa Solo; Ben Skywalker: "Adarakh was killed by Yuuzhan Vong collaborator Vigi Shesh on Coruscant while he was trying to defend Leia and the infant Ben Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. I, p.10
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.10 — full quote as printed](quotes/v1-p10-adarakh-was-killed-by-yuuzhan-vong.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:158`
 
 > To that end, Jacen killed Nelani Dinn and altered Ben Skywalker's memories of the events.
 — Source: scan pages 201–240; Jacen Solo (Darth Caedus); Ben Skywalker.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Ben Skywalker: "To that end, Jacen killed Nelani Dinn and altered Ben Skywalker's memories of the events." Source: The Complete Star Wars Encyclopedia, Vol. I, p.190
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.190 — full quote as printed](quotes/v1-p190-to-that-end-jacen-killed-nelani.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:42`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -261,7 +259,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Ovvit was killed on Ziost by Ben Skywalker, who managed to use the Force to dislodge several heavy boulders and drop them on Ovvit's TIE fighter.
 — Source: scan pages 401–440; Ben Skywalker. POV: Ben Skywalker.
 Note (our notes, around the quote): Ben Skywalker: "Ovvit was killed on Ziost by Ben Skywalker, who managed to use the Force to dislodge several heavy boulders and drop them on Ovvit's TIE fighter." Source: The Complete Star Wars Encyclopedia, Vol. II, p.433
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.433 — full quote as printed](quotes/v2-p433-ovvit-was-killed-on-ziost-by.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:284`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -269,24 +266,20 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > The Bith tended to injuries Jacen sustained after dueling with Luke and Ben Skywalker.
 — Source: scan pages 41–80; Jacen Solo (Darth Caedus); Luke Skywalker; Ben Skywalker.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Luke Skywalker; Ben Skywalker: "The Bith tended to injuries Jacen sustained after dueling with Luke and Ben Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. III, p.56
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.56 — full quote as printed](quotes/v3-p56-the-bith-tended-to-injuries-jacen.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:171`
 
 - Note (summary from our notes, not a quotation): Obi-Wan Kenobi; Ben Skywalker: "Named to honor the memory of Obi-Wan "Ben" Kenobi, Ben Skywalker was born aboard the converted Star Destroyer Errant Venture during the Yuuzhan Vong War." Source: The Complete Star Wars Encyclopedia, Vol. III, p.162
   — Source: scan pages 161–200.
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.162 — full quote as printed](quotes/v3-p162-named-to-honor-the-memory-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:73`
 
 > Just as Jacen showed up, Mara's body disappeared, becoming one with the Force—a sure sign to Ben Skywalker that his mother was revealing that she had been killed by Jacen.
 — Source: scan pages 161–200; Jacen Solo (Darth Caedus); Mara Jade Skywalker; Ben Skywalker.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Mara Jade Skywalker; Ben Skywalker: "Just as Jacen showed up, Mara's body disappeared, becoming one with the Force—a sure sign to Ben Skywalker that his mother was revealing that she had been killed by Jacen." Source: The Complete Star Wars Encyclopedia, Vol. III, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.166 — full quote as printed](quotes/v3-p166-just-as-jacen-showed-up-maras.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:157`
 
 > In the days that followed, Leia and Jaina met with Ben Skywalker, encouraging him to find evidence that would prove that Jacen had killed Mara Jade Skywalker.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Jaina Solo; Leia Organa Solo; Ben Skywalker; Jacen Solo (Darth Caedus); Mara Jade Skywalker — entry/section: Solo, Jaina: "In the days that followed, Leia and Jaina met with Ben Skywalker, encouraging him to find evidence that would prove that Jacen had killed Mara Jade Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. III, p.178
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.178 — full quote as printed](quotes/v3-p178-in-the-days-that-followed-leia.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:297`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–162)
@@ -337,7 +330,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:556`
 > Ben has a family history of saving people from the dark side. And Vestara would score a lot of brownie points back home if she could turn the son of Luke Skywalker to the dark side. Plus they're two young, attractive people constantly facing danger together. Never discount the power of hormones!
 — Source: Star Wars Insider #117 (2010).
 Note (our notes, around the quote): Ben Skywalker; Vestara Khai — entry/section: Golden on Ben and Vestara: ""Ben has a family history of saving people from the dark side. And Vestara would score a lot of brownie points back home if she could turn the son of Luke Skywalker to the dark side. Plus they're two young, attractive people constantly facing danger together. Never discount the power of hormones!" —Christie Golden, Star Wars Insider 117, p. 60" Source: *Star Wars Insider #117* (2010), scan p.60
-![Quote image: *Star Wars Insider #117* (2010), scan p.60 — full quote as printed](quotes/ins117-s60-ben-has-a-family-history-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/117-ins117.md:329`
 
 ## Star Wars Insider #132 (2012)
@@ -345,7 +337,6 @@ Our notes: `notes/materials/038-star-wars-insider/117-ins117.md:329`
 > He's powerful, yet constantly in the company of people who are even more powerful.
 — Source: Star Wars Insider #132 (2012).
 Note (our notes, around the quote): Ben Skywalker — entry/section: Allston: Ben powerful, yet surrounded by people even more powerful: ""He's powerful, yet constantly in the company of people who are even more powerful." —Aaron Allston, Star Wars Insider 132, p. 39" Source: *Star Wars Insider #132* (2012), scan p.39
-![Quote image: *Star Wars Insider #132* (2012), scan p.39 — full quote as printed](quotes/ins132-s39-hes-powerful-yet-constantly-in-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:208`
 
 ## Star Wars Insider Special Edition (2010)

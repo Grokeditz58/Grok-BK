@@ -149,7 +149,7 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1099`
 > But the greatest among them was Grievous, an alien battlefield commander who had been critically injured in a shuttle crash arranged by San Hill of the Inter-Galactic Banking Clan.
 — Source: Part Two: The Fall of the Republic; General Grievous; Count Dooku — Grievous.
 Note (our notes, around the quote): General Grievous; Count Dooku — Grievous: "But the greatest among them was Grievous, an alien battlefield commander who had been critically injured in a shuttle crash arranged by San Hill of the Inter-Galactic Banking Clan." Source: The New Essential Chronology, p.49
-![Quote image: The New Essential Chronology, p.49 — full quote as printed](quotes/nec-p49-grievous.jpg)
+![Quote image: The New Essential Chronology, p.49 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p49-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:185`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -157,13 +157,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > The IBC also financed the resurrection of Durge and General Grievous, actions that IBC leader San Hill believed made Darth Sidious indebted to the clan.
 — Source: scan pages 81–120; General Grievous; Palpatine (Darth Sidious).
 Note (our notes, around the quote): General Grievous; Palpatine (Darth Sidious): "The IBC also financed the resurrection of Durge and General Grievous, actions that IBC leader San Hill believed made Darth Sidious indebted to the clan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.107
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.107 — full quote as printed](quotes/v2-p107-the-ibc-also-financed-the-resurrection.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:206`
 
 > San Hill told General Grievous that his body had been recovered from the banks of the Jenuwaa Sea after his shuttle was sabotaged and exploded.
 — Source: scan pages 161–200; General Grievous. POV: General Grievous, about San Hill.
 Note (our notes, around the quote): General Grievous: "San Hill told General Grievous that his body had been recovered from the banks of the Jenuwaa Sea after his shuttle was sabotaged and exploded." Source: The Complete Star Wars Encyclopedia, Vol. II, p.156
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.156 — full quote as printed](quotes/v2-p156-san-hill-told-general-grievous-that.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:17`
 
 ## Jedi Counselling/Jedi Counseling 73.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -196,7 +194,6 @@ Our notes: `notes/materials/037-sw-d20-folder/263-jedi-counseling-92.md:27`
 — Source: Jedi Counselling/Jedi Counseling 92.pdf [Star Wars Roleplaying Game Revis.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 92 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_92_pdf_781788762d`).)
 Note (our notes, around the quote): San Hill; Grand Moff Tarkin — entry/section: San Hill and combined fire: "A: No. When you activate characters to combine fire, they don't count against your limit of activations per phase. Thus, regardless of the number of activations you can make in a phase (whether it's the normal 2 or a different number resulting from San Hill, Grand Moff Tarkin, and so on), you can activate any number of additional characters to combine fire." Source: *Jedi Counseling 92* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 92* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d263-s3-a-no-when-you-activate-characters.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/263-jedi-counseling-92.md:31`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -208,7 +205,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Tost helped IGBC Chairman San Hill escape the debacle at Geonosis and commanded Hailfire Droids during the Clone Wars—experiences that taught him Muun power was better wielded in the boardroom rather than on the battlefield.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; San Hill — entry/section: Riklon Tost and San Hill.
 Note (our notes, around the quote): San Hill — entry/section: Riklon Tost and San Hill: "Tost helped IGBC Chairman San Hill escape the debacle at Geonosis and commanded Hailfire Droids during the Clone Wars—experiences that taught him Muun power was better wielded in the boardroom rather than on the battlefield." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.108
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.108 — full quote as printed](quotes/d667-s108-tost-helped-igbc-chairman-san-hill.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:356`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)

@@ -27,7 +27,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > These commanders need the guidance only seasoned combat veterans can provide.
 — Source: Star Wars Insider #74 (2004); Alpha-17 — entry/section: Alpha-17 on training clone commanders.
 Note (our notes, around the quote): Alpha-17 — entry/section: Alpha-17 on training clone commanders: ""The canned edu-packs can teach a soldier only so much," said Alpha-17, lead instructor at the Tipoca City training facility. "These commanders need the guidance only seasoned combat veterans can provide." —Alpha-17, Star Wars Insider 74, p. 61" Source: *Star Wars Insider #74* (2004), scan p.61
-![Quote image: *Star Wars Insider #74* (2004), scan p.61 — full quote as printed](quotes/ins074-s61-the-canned-edu-packs-can-teach.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:402`
 
 ## Star Wars Insider #84 (2005)

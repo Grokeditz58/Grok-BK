@@ -14,7 +14,6 @@
 > Brandl became angry and killed Arruna with the Force.
 — Source: scan pages 241–280; Adalric Brandl. POV: Adalric Brandl.
 Note (our notes, around the quote): Adalric Brandl: "Brandl became angry and killed Arruna with the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.246
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.246 — full quote as printed](quotes/v2-p246-brandl-became-angry-and-killed-arruna.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:107`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

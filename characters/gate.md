@@ -75,7 +75,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:1150`
 > Vos defeated Zalem's plot to use the Infinity Gate to destroy Coruscant.
 — Source: scan pages 161–200; Quinlan Vos. POV: Quinlan Vos, about Gate.
 Note (our notes, around the quote): Quinlan Vos: "Vos defeated Zalem's plot to use the Infinity Gate to destroy Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. I, p.173
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.173 — full quote as printed](quotes/v1-p173-vos-defeated-zalems-plot-to-use.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:241`
 
 - Note (summary from our notes, not a quotation): Page contents: 891 words, 31 paragraphs | headings/entries: Endor Gate; Endorian Port
@@ -95,7 +94,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan
 > After she was injured in Vos's successful destruction of the Infinity Gate, which could have destroyed Coruscant, Vos sensed the light side within Lai and brought her back with him to the Jedi Temple on the capital planet.
 — Source: scan pages 241–280; Quinlan Vos. POV: Quinlan Vos, about Gate.
 Note (our notes, around the quote): Quinlan Vos: "After she was injured in Vos's successful destruction of the Infinity Gate, which could have destroyed Coruscant, Vos sensed the light side within Lai and brought her back with him to the Jedi Temple on the capital planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-after-she-was-injured-in-voss.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:75`
 
 ## The New Essential Guide to Characters (2002)
@@ -103,7 +101,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Zalem directed an Infinity Wave to destroy Coruscant, but Vos redirected the stream of energy to wipe out the Gate itself.
 — Source: scan pages 181–210; Quinlan Vos — entry/section: UINLAN Vos.
 Note (our notes, around the quote): Quinlan Vos — entry/section: UINLAN Vos —: "Zalem directed an Infinity Wave to destroy Coruscant, but Vos redirected the stream of energy to wipe out the Gate itself." Source: The New Essential Guide to Characters, p.193
-![Quote image: The New Essential Guide to Characters, p.193 — full quote as printed](quotes/negc-p193-zalem-directed-an-infinity-wave-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:45`
 
 ## Sourcebooks/Invasion Of Theed.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -166,14 +163,12 @@ Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Yara Grugara: "Friends, this is Yara Grugara, reporting on matters most distressing." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d416-s1-friends-this-is-yara-grugara-reporting.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:12`
 
 > She takes a sip and picks up a different piece of paper to straighten as she again searches for her place on the teleprompter. Yara Given their proximity, it is conceivable that they have amassed substantial power while we were - well, wherever we were. Under the rubric of self-defense from whatever it was that seemed to so completely annihilate us, they have more than quadrupled their military power, and over the past several weeks, have slowly put into place a perimeter around Cularin. They have also moved more ships into the system, including - that can't be right. The Air Up Thaere Adventure Summary The nearby Thaereian system doesn't offer much more than a stopover on most astrogation charts, but it's one of the primary "gateways" to Cularin. Thus, a great deal of the trade moves through here, both to and from Cularin.
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Yara Grugara: "They have also moved more ships into the system, including - that can't be right." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d416-s1-they-have-also-moved-more-ships.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:14`
 
 > An adventure for Living Force heroes of levels 4 to 9. Part two in the "Looking In" trilogy. Play after "Looking In" part one and before part three. Yara's fingers close around the paper she has been holding for support, her knuckles growing white. The paper rips in two and she looks down at it, then reaches up to adjust her earpiece. Yara No, that can't be right. She releases her grip on the two half-sheets of paper, which are now little more than crumpled messes, and picks up a small stack of papers. She begins to straighten them mechanically as she looks back to the teleprompter. Yara They have also moved more ships into the system, including a pair of capital ships that apparently are hidden deep within the clouds of Genarius. This information is preliminary, and as yet unconfirmed, but reliable sources indicate that the capital ships may be part of a larger force that is being moved into the system.
@@ -181,48 +176,41 @@ Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 (Fragment completed 2026-11-17 with the full excerpt, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Yara Grugara: "No, that can't be right." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d416-s1-no-that-cant-be-right.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:16`
 
 > It is expected that a denial will be forthcoming quickly, if at all. Commander Osten Dal'Nay, of the Cularin Militia, has issued the following statement on behalf of the militia. The screen flickers, then the youthful face of Osten Dal'Nay appears. He looks as serious as a rancor about to feed. Osten People of Cularin, let me assure you that your militia stands ready in case a crisis ensues. While we have not had as much time as the Thaereians to prepare for conflict, we are confident that our officers and soldiers and all those who have sought to serve the system will do so to the best of their ability.
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Osten Dal'Nay: "He looks as serious as a rancor about to feed." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d416-s2-he-looks-as-serious-as-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:23`
 
 > The screen flickers, then the youthful face of Osten Dal'Nay appears. He looks as serious as a rancor about to feed. Osten People of Cularin, let me assure you that your militia stands ready in case a crisis ensues. While we have not had as much time as the Thaereians to prepare for conflict, we are confident that our officers and soldiers and all those who have sought to serve the system will do so to the best of their ability. Do not panic.
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Osten Dal'Nay: "People of Cularin, let me assure you that your militia stands ready in case a crisis ensues." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d416-s2-people-of-cularin-let-me-assure.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:25`
 
 > He looks as serious as a rancor about to feed. Osten People of Cularin, let me assure you that your militia stands ready in case a crisis ensues. While we have not had as much time as the Thaereians to prepare for conflict, we are confident that our officers and soldiers and all those who have sought to serve the system will do so to the best of their ability. Do not panic. It is possible that this is nothing, but we will treat it as a threat until we have reason to do otherwise. Be ready - but do not be angry. Do not give in to that darkness. We will work together, and, if the Force is with us, we will prevail. He says nothing for several seconds, and the screen flickers back to Yara. Her hair has been pulled up in a tight, quick bun, and she looks slightly more composed.
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Osten Dal'Nay: "Do not panic. It is possible that this is nothing, but we will treat it as a threat until we have reason to do otherwise. Be ready - but do not be angry. Do not give in to that darkness. We will work together, and, if the Force is with us, we will prevail." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d416-s2-do-not-panic-it-is-possible.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:27`
 
 > Citizens of Cularin, on behalf of the people of Thaere, I wish to assure you that our military is not now, nor has it ever been, a threat to your well-being.
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Jir Tramsig: ""Citizens of Cularin, on behalf of the people of Thaere, I wish to assure you that our military is not now, nor has it ever been, a threat to your well-being." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d416-s2-citizens-of-cularin-on-behalf-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:29`
 
 > She takes a deep breath and squints at the teleprompter. Yara (reading) "Citizens of Cularin, on behalf of the people of Thaere, I wish to assure you that our military is not now, nor has it ever been, a threat to your wellbeing. We exist for your protection, and the protection of other systems. Rumors of ships smuggled into your system are preposterous. Rumors of hidden bases are so exaggerated as to be farcical." Yara snorts, then covers her mouth and nose and looks abashedly at the camera before continuing. Yara (still reading) "We have recently begun a series of maneuvers organized to provide a stronger barrier to the Cularin system, to prevent a repeat of the previous near-disaster.
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Jir Tramsig: "Rumors of ships smuggled into your system are preposterous. Rumors of hidden bases are so exaggerated as to be farcical."" Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d416-s2-rumors-of-ships-smuggled-into-your.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:31`
 
 > I wish you all good evening, and may the Force be with you." Yara frowns at the teleprompter, then looks back to the camera while adjusting her earpiece. Yara Friends, I don't know about you, but I smell a womp-rat. I've been told that the Militia has yet to stand down, and that ships throughout the system continue to be on alert. We will keep you apprised of any changes to the situation...
 — Source: Living Force Campaign/Articles/Year 2/10:10:02 - The Creaking Gate.pdf [S.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard the creaking gate scenario supplement for the air up thaere by morrie mullins pdf x.txt (text copy `MEGA_Sw_wizard_the_creaking_gate_scenario_supplement_for_the_air_up_thaere_by_morrie_mullins_pdf_x`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Yara Grugara: "Friends, I don't know about you, but I smell a womp-rat." Source: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *10:10:02 - The Creaking Gate* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d416-s2-friends-i-dont-know-about-you.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/416-10-10-02-the-creaking-gate.md:33`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -234,7 +222,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Approximately a year after the Battle of Naboo, the Jedi Council sent Jedi Knight Quinlan Vos to investigate reports of an ancient “Infinity Gate” buried beneath the surface of Dathomir. Going undercover on the interdicted world, Vos discovered that the hidden teleportation chamber had been built millennia earlier by the reptilian Kwa species (whose de-evolved descendants still lived on Dathomir as the animalistic Kwi). Under the malevolent hands of the Nightsisters, the Infinity Gate almost destroyed Coruscant with a wave of energy before Jedi Vos engineered the machine's destruction.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Quinlan Vos — entry/section: Vos destroys the Infinity Gate.
 Note (our notes, around the quote): Quinlan Vos — entry/section: Vos destroys the Infinity Gate: "Approximately a year after the Battle of Naboo, the Jedi Council sent Jedi Knight Quinlan Vos to investigate reports of an ancient “Infinity Gate” buried beneath the surface of Dathomir. Going undercover on the interdicted world, Vos discovered that the hidden teleportation chamber had been built millennia earlier by the reptilian Kwa species (whose de-evolved descendants still lived on Dathomir as the animalistic Kwi). Under the malevolent hands of the Nightsisters, the Infinity Gate almost destroyed Coruscant with a wave of energy before Jedi Vos engineered the machine's destruction." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.31
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.31 — full quote as printed](quotes/d667-s31-approximately-a-year-after-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:201`
 
 ## Star Wars Insider #130 (2012)

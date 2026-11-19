@@ -17,7 +17,6 @@ Our notes: `notes/materials/037-sw-d20-folder/161-lobotomized-ogre.md:10`
 
 - Note (summary from our notes, not a quotation): Melen Toobo — entry/section: Melen Toobo's program: "Finally, in the waning years of the Republic, a CWMD head with some ambition named Melen Toobo decided to try to "domesticate" a few ogres. In an attempt to calm the violent brutes and harness their massive bulk for productive uses, Toobo began a program of lobotomizing the ogres and refitting their brains with cybernetic implants. The goal was to create a small workforce of docile creatures, like organic droids, while reducing money spent on containing them." Source: *Lobotomized Ogre* (SWRPG d20 Revised Core), scan p.1
   — Source: Creatures/Lobotomized Ogre.pdf [Star Wars Roleplaying Game Revised Core (.
-![Quote image: *Lobotomized Ogre* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d161-s1-finally-in-the-waning-years-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/161-lobotomized-ogre.md:12`
 
 # Debate and forum claims (unverified)

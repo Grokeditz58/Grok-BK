@@ -22,13 +22,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Ulric Tagge grew up on the Core World of Tepasi surrounded by his ancient family’s wealth and luxury, and overshadowed by three older brothers: Orman, groomed from birth as the next baron; Silas, a born scientist with no interest in worldly concerns; and Cassio, a cautious, plodding strategist.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ulric Tagge; Orman Tagge; Silas Tagge; Cassio Tagge — entry/section: Ulric Tagge's brothers: "Ulric Tagge grew up on the Core World of Tepasi surrounded by his ancient family’s wealth and luxury, and overshadowed by three older brothers: Orman, groomed from birth as the next baron; Silas, a born scientist with no interest in worldly concerns; and Cassio, a cautious, plodding strategist." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-ulric-tagge-grew-up-on-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:321`
 
 > But after Cassio died aboard the Death Star, Ulric found himself a pawn in his eldest brother's plots to gain the Emperor's favor.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ulric Tagge; Cassio Tagge; Orman Tagge; Palpatine (Darth Sidious) — entry/section: Ulric Tagge after the Death Star: "But after Cassio died aboard the Death Star, Ulric found himself a pawn in his eldest brother's plots to gain the Emperor's favor." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-but-after-cassio-died-aboard-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:323`
 
 ## Star Wars Insider #96 (2007)
@@ -44,7 +42,6 @@ Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:305`
 > The scientist Silas Tagge dreamed up a design for a base that would hide in the troposphere of a gas giant and generate a vortex that starfighters could use as a launch corridor, After the Empire dismissed the idea, Baron Orman Tagge committed millions of credits to make his brother's design a reality, naming it after a stealthy forest predator from the Tagge homeworld of Tepasi. Tagge ships towed the station into the Yavin system through a part of the Imperial blockade overseen by a third brother, General Ulric Tagge, and they used the station to harass the Rebels until Luke Skywalker destroyed it in a captured TIE fighter.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Silas Tagge; Orman Tagge; Ulric Tagge; Luke Skywalker — entry/section: Achtnak Turbine Station: "The scientist Silas Tagge dreamed up a design for a base that would hide in the troposphere of a gas giant and generate a vortex that starfighters could use as a launch corridor, After the Empire dismissed the idea, Baron Orman Tagge committed millions of credits to make his brother's design a reality, naming it after a stealthy forest predator from the Tagge homeworld of Tepasi. Tagge ships towed the station into the Yavin system through a part of the Imperial blockade overseen by a third brother, General Ulric Tagge, and they used the station to harass the Rebels until Luke Skywalker destroyed it in a captured TIE fighter." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.155
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.155 — full quote as printed](quotes/d667-s155-the-scientist-silas-tagge-dreamed-up.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:278`
 
 # Debate and forum claims (unverified)

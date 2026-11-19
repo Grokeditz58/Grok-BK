@@ -13,8 +13,8 @@
 
 - Note (summary from our notes, not a quotation): Sith-possessed student; duels and kills her master Master Dominus, and dies in the same fight. Source: The Sith War #4, p12–13
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p12: Zona Luka, Sith-possessed, duels her master Dominus: "Nothing personal, Master Dominus"](panels/sw4-p12-zona-luka-duels-dominus.jpg)
-![The Sith War #4 p13: Three Jedi find Dominus and Zona Luka dead; Qrrrl Toq: "Looks like he put up a good fight"](panels/sw4-p13-zona-luka-dominus-dead.jpg)
+![The Sith War #4 p12: Zona Luka, Sith-possessed, duels her master Dominus: "Nothing personal, Master Dominus"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p12-zona-luka-duels-dominus.jpg)
+![The Sith War #4 p13: Three Jedi find Dominus and Zona Luka dead; Qrrrl Toq: "Looks like he put up a good fight"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p13-zona-luka-dominus-dead.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:240`; `notes/materials/024-tales-of-the-jedi/the-sith-war.md:245`
 
 - Note (summary from our notes, not a quotation): | 8 | Zona Luka vs Master Dominus | unnamed | p12–13 (#4) | Both die | — |
@@ -33,7 +33,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > She was turned to the dark side, and killed Dominus during the Sith War.
 — Source: scan pages 241–280; Master Dominus. POV: Master Dominus.
 Note (our notes, around the quote): Master Dominus: "She was turned to the dark side, and killed Dominus during the Sith War." Source: The Complete Star Wars Encyclopedia, Vol. II, p.265
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.265 — full quote as printed](quotes/v2-p265-she-was-turned-to-the-dark.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:272`
 
 # Debate and forum claims (unverified)

@@ -290,14 +290,12 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-2-notes.md:290`
 > After Vaklu was defeated, Kavar chose to teach the Exile new lightsaber combat techniques before setting out for Dantooine to rebuild the Jedi Order.
 — Source: scan pages 201–240; Kavar; Meetra Surik — entry/section: Kavar.
 Note (our notes, around the quote): Kavar; Meetra Surik — entry/section: Kavar: "After Vaklu was defeated, Kavar chose to teach the Exile new lightsaber combat techniques before setting out for Dantooine to rebuild the Jedi Order." Source: The Complete Star Wars Encyclopedia, Vol. II, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.204 — full quote as printed](quotes/v2-p204-after-vaklu-was-defeated-kavar-chose.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:93`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
 
 - Note (summary from our notes, not a quotation): Kreia; Meetra Surik — entry/section: Traya, Darth: "After the Jedi Exile traveled to Onderon and defeated General Vaklu, Kreia realized that her "pupil" was growing in strength and would become a threat to her triumverate of power." Source: The Complete Star Wars Encyclopedia, Vol. III, p.260
   — Source: scan pages 241–280.
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.260 — full quote as printed](quotes/v3-p260-after-the-jedi-exile-traveled-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:223`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

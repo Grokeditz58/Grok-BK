@@ -141,9 +141,9 @@ Our notes: `notes/materials/039-legacy-2006/legacy-25.md:27`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; "Bantha" Rawk (p208–209).
 Note (our notes, around the quote): "Bantha" Rawk (p208–209): "Once a Jedi named Nat Skywalker who left the Jedi Order". CL 8 scoundrel 8; Force 4; hp 51. No Jedi levels, UtF or powers.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p208 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p208-once-a-jedi-named-nat-skywalker.jpg)
-![p209 Cade: "the last of the Skywalkers… the Force is strong in him"](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
-![p209 Cade bio (both columns)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p208 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p208-once-a-jedi-named-nat-skywalker.jpg)
+![p209 Cade: "the last of the Skywalkers… the Force is strong in him"](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![p209 Cade bio (both columns)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:714`
 
 # Debate and forum claims (unverified)

@@ -14,7 +14,6 @@
 > His stormtroopers made several passes through the Jedi Temple facilities and found no trace of the Jedi, prompting Darth Stryfe to order that the Jedi Temple building be destroyed from orbit.
 — Source: scan pages 281–320; Darth Stryfe. POV: Darth Stryfe.
 Note (our notes, around the quote): Darth Stryfe: "His stormtroopers made several passes through the Jedi Temple facilities and found no trace of the Jedi, prompting Darth Stryfe to order that the Jedi Temple building be destroyed from orbit." Source: The Complete Star Wars Encyclopedia, Vol. II, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.302 — full quote as printed](quotes/v2-p302-his-stormtroopers-made-several-passes-through.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:243`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -279,21 +278,21 @@ Our notes: `notes/materials/009-legacy-book-1.md:76`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Senses Jedi through their emptiness meditation; orders the bombardment of Ossus. p376 (#16 Claws), p398 (#17 Claws)
-![p376](009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
-![p398 Stryfe orders the bombardment](009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
+![p376](../notes/materials/009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
+![p398 Stryfe orders the bombardment](../notes/materials/009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:765`
 
-- Note (summary from our notes, not a quotation): ![p376](009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
+- Note (summary from our notes, not a quotation): ![p376](../notes/materials/009-legacy-book-1-panels/p376-sazen-sith-eyes-stryfe-whisper.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p376 — `p376-sazen-sith-eyes-stryfe-whisper.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:769`
 
-- Note (summary from our notes, not a quotation): ![p398 Stryfe orders the bombardment](009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p398 Stryfe orders the bombardment](../notes/materials/009-legacy-book-1-panels/p398-stryfe-smell-jedi-bombard-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p398 Stryfe orders the bombardment — `p398-stryfe-smell-jedi-bombard-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:772`
 
-- Note (summary from our notes, not a quotation): ![p450 handbook: Stryfe](009-legacy-book-1-panels/p450-handbook-stryfe-fist.jpg)
+- Note (summary from our notes, not a quotation): ![p450 handbook: Stryfe](../notes/materials/009-legacy-book-1-panels/p450-handbook-stryfe-fist.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p450 handbook: Stryfe — `p450-handbook-stryfe-fist.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:775`
@@ -304,7 +303,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:779`
 
 - Note (summary from our notes, not a quotation): The Fist, Darth Stryfe: head of the military; "raw power personified" (handbook, p450).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p450 handbook: Stryfe](009-legacy-book-1-panels/p450-handbook-stryfe-fist.jpg)
+![p450 handbook: Stryfe](../notes/materials/009-legacy-book-1-panels/p450-handbook-stryfe-fist.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1082`
 
 > Perhaps the most brutal of Darth Krayt's followers, Darth Stryfe is raw power personified, waiting to be unleashed. He is currently Krayt's Fist, the head of the military, a position that Nihl once occupied before becoming a Hand.
@@ -339,24 +338,24 @@ Our notes: `notes/materials/010-legacy-war.md:57`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Wyyrlok holds the Temple (p10). He claims rule (.
 Note (our notes, around the quote): Wyyrlok holds the Temple (p10). He claims rule ("KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."), sends Saarai away and gets Stryfe's "MIGHT DECIDES" answer.
 Also cited as: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p10 Wyyrlok.
-Also noted as: ![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+Also noted as: ![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
 Our notes: `notes/materials/010-legacy-war.md:86`; `notes/materials/010-legacy-war.md:523`
 
 > TIME TO END IT.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The tunnels (p110–114). Talon and Stryfe ambush the team in the Temple tunnels (p110–111). Cade floors Talon with Force pushes (p112). Stryfe challenges Sazen, and they kill each other in one pass (p113–114). Talon flees to warn Krayt and Cade follows: "TIME TO END IT."
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:127`
 
 - Note (summary from our notes, not a quotation): p22 (wordless). Krayt drives both blades through Wyyrlok's chest at close range. They exit his back while Wyyrlok's own saber is still raised. Witnesses are Calixte, Veed and Stryfe. Stryfe catches the dying Wyyrlok, then kneels to Krayt.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Our notes: `notes/materials/010-legacy-war.md:187`
 
-- Note (summary from our notes, not a quotation): ![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+- Note (summary from our notes, not a quotation): ![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p22 — `p022-stryfe-kneels.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:204`
@@ -372,16 +371,16 @@ Our notes: `notes/materials/010-legacy-war.md:542`
 > MIGHT DECIDES. I WILL FOLLOW THE VICTOR. IT IS THE WAY OF THE SITH.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p10 (#1).
 Note (our notes, around the quote): p10 (#1): "MIGHT DECIDES. I WILL FOLLOW THE VICTOR. IT IS THE WAY OF THE SITH." He catches the dying Wyyrlok and kneels to Krayt (p22).
-![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
-![p22 double impalement](010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
-![p22 Stryfe kneels to the victor](010-legacy-war-panels/p022-stryfe-kneels.jpg)
+![p10 Wyyrlok: "KRAYT IS DEAD. I KNOW BECAUSE I KILLED HIM."; Saarai; Stryfe](../notes/materials/010-legacy-war-panels/p010-wyyrlok-killed-him-saarai-nascent-stryfe.jpg)
+![p22 double impalement](../notes/materials/010-legacy-war-panels/p022-krayt-impales-wyyrlok.jpg)
+![p22 Stryfe kneels to the victor](../notes/materials/010-legacy-war-panels/p022-stryfe-kneels.jpg)
 Our notes: `notes/materials/010-legacy-war.md:574`; `notes/materials/010-legacy-war.md:1007`
 
 > -- YOU'D BEST WITHDRAW YOUR FLEET AND TROOPS, ADMIRAL VEED. THE SITH FLEET WILL SHOOT THROUGH THEM TO GET TO THE ENEMY.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p76 (#4), on Veed's bridge: "LORD KRAYT'S DRAGONS --.
 Note (our notes, around the quote): p76 (#4), on Veed's bridge: "LORD KRAYT'S DRAGONS --" "-- YOU'D BEST WITHDRAW YOUR FLEET AND TROOPS, ADMIRAL VEED. THE SITH FLEET WILL SHOOT THROUGH THEM TO GET TO THE ENEMY."
-![p76 LORD KRAYT'S DRAGONS; the Sith fleet shoots through](010-legacy-war-panels/p076-stryfe-sith-fleet-shoot-through.jpg) *(p76)*
+![p76 LORD KRAYT'S DRAGONS; the Sith fleet shoots through](../notes/materials/010-legacy-war-panels/p076-stryfe-sith-fleet-shoot-through.jpg) *(p76)*
 Our notes: `notes/materials/010-legacy-war.md:575`
 
 > MOFF GEIST. SEND IN THE GROUND TROOPS.
@@ -392,10 +391,10 @@ Our notes: `notes/materials/010-legacy-war.md:577`
 > LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p113–114 (#5), vs Wolf Sazen.
 Note (our notes, around the quote): p113–114 (#5), vs Wolf Sazen: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER." Mutual kill in a single pass (see Sazen).
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Also cited as: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p113 Stryfe.
-Also noted as: ![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+Also noted as: ![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
 Our notes: `notes/materials/010-legacy-war.md:578`; `notes/materials/010-legacy-war.md:580`
 
 > THE SITH FLEET WILL SHOOT THROUGH THEM TO GET TO THE ENEMY. *(Stryfe)*
@@ -403,7 +402,7 @@ Our notes: `notes/materials/010-legacy-war.md:578`; `notes/materials/010-legacy-
 > WE ARE UNDER HEAVY ATTACK BY NEW FIGHTERS! THEY'RE PENETRATING OUR SHIELDS!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; (p76). POV: Stryfe.
 Label in our notes: Stryfe) · Starrunner
-![p76 LORD KRAYT'S DRAGONS; the Sith fleet shoots through](010-legacy-war-panels/p076-stryfe-sith-fleet-shoot-through.jpg) *(p76)*
+![p76 LORD KRAYT'S DRAGONS; the Sith fleet shoots through](../notes/materials/010-legacy-war-panels/p076-stryfe-sith-fleet-shoot-through.jpg) *(p76)*
 Our notes: `notes/materials/010-legacy-war.md:630`
 
 - Note (summary from our notes, not a quotation): Stryfe challenges. Cade: "MASTER?" / "NO." The "NO." balloon is in Cade's panel; giving it to Cade is a reading.
@@ -421,7 +420,7 @@ Our notes: `notes/materials/010-legacy-war.md:776`
 Context: SAZEN vs STRYFE, p113–114 (#5):
 Our notes: `notes/materials/010-legacy-war.md:777`
 
-- Note (summary from our notes, not a quotation): ![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p114 — `p114-sazen-stryfe-mutual-kill.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:782`
@@ -509,9 +508,9 @@ Our notes: `notes/materials/010-legacy-war.md:1254`
 
 - Note (summary from our notes, not a quotation): Not statted: Darth Stryfe, Darth Krul and Darth Ruyn have no stat blocks. Ruyn is mentioned only as Talon's victim (p173).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
-![p173 Darth Nihl (part 2)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
+![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![p173 Darth Nihl CL 16 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![p173 Darth Nihl (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:425`
 
 - Note (summary from our notes, not a quotation): Refinement to 009's Depth tier: 009 lists Stryfe, Krul and Ruyn among the Sith with Book 1 coverage. This guide adds nothing for them: no stat blocks, and Ruyn appears only as Talon's victim.
@@ -532,13 +531,13 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:48`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: Senses Jedi through their concealment; orders an orbital bombardment. p75 (#16), p97 (#17) [009 p376, p398]
-![p97 Stryfe: "STILL, I SMELL JEDI."; the bombardment](013-legacy-vol-3-claws-of-the-dragon-panels/p097-stryfe-smell-jedi-bombard.jpg)
+![p97 Stryfe: "STILL, I SMELL JEDI."; the bombardment](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p097-stryfe-smell-jedi-bombard.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:399`
 
 > STILL, I SMELL JEDI.
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p97 Stryfe.
-Note (our notes, around the quote): ![p97 Stryfe: "STILL, I SMELL JEDI."; the bombardment](013-legacy-vol-3-claws-of-the-dragon-panels/p097-stryfe-smell-jedi-bombard.jpg)
+Note (our notes, around the quote): ![p97 Stryfe: "STILL, I SMELL JEDI."; the bombardment](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p097-stryfe-smell-jedi-bombard.jpg)
 (*Panel: p97 — `p097-stryfe-smell-jedi-bombard.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:402`
 
@@ -553,7 +552,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:495`
 
 - Note (summary from our notes, not a quotation): Darth Stryfe: commands the Ossus search ship (p75, p97).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p97 Stryfe: "STILL, I SMELL JEDI."; the bombardment](013-legacy-vol-3-claws-of-the-dragon-panels/p097-stryfe-smell-jedi-bombard.jpg)
+![p97 Stryfe: "STILL, I SMELL JEDI."; the bombardment](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p097-stryfe-smell-jedi-bombard.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:514`
 
 > I SENSE... A WHISPER IN THE FORCE.

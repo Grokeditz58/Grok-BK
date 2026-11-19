@@ -21,7 +21,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)].
 Note (our notes, around the quote): Boss Nass — entry/section: Leaders of the Gungans: "The current Boss is named Nass. Sources characterize him alternately as "fair but stubborn" and a "self-important, pompous windbag." Regardless of which description is accurate, Boss Nass is obviously an intimidating figure to his people." Source: *Secrets Of Naboo* (SWRPG d20), scan p.45
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.45 — full quote as printed](quotes/d044-s45-the-current-boss-is-named-nass.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:268`
 
 - Note (summary from our notes, not a quotation): Page contents: 668 words, 20 paragraphs | headings/entries: Boss Nass; The Rep Council; Captain Tarpals; Armed Forces

@@ -19,7 +19,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > They are first seen launching from Sabaoth destroyers in battic over Geonosis, where they meet the Jedi starfighters of Adi Gallia and Siri Tachi.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Adi Gallia. POV: Adi Gallia, about Siri Tachi.
 Note (our notes, around the quote): Adi Gallia: "They are first seen launching from Sabaoth destroyers in battic over Geonosis, where they meet the Jedi starfighters of Adi Gallia and Siri Tachi." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d728-s221-they-are-first-seen-launching-from.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-181-225.md:351`
 
 ## Star Wars Insider #88 (2006)

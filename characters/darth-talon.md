@@ -14,7 +14,6 @@
 > Donos, Lieutenant Myn A male Corellian fighter pilot and marksman, he was leader of Talon Squadron until it was wiped out during an ambush at Gravan VII.
 — Source: scan pages 201–240; Darth Talon. POV: Darth Talon.
 Note (our notes, around the quote): Darth Talon: "Donos, Lieutenant Myn A male Corellian fighter pilot and marksman, he was leader of Talon Squadron until it was wiped out during an ambush at Gravan VII." Source: The Complete Star Wars Encyclopedia, Vol. I, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.197 — full quote as printed](quotes/v1-p197-donos-lieutenant-myn-a-male-corellian.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:93`
 
 > 260 Roan Fe/ Fel finally agreed to take on the challenge of uniting the GA military and ending the war with the Confederation. Fel, Maraslah The beautiful daughter and only child of Emperor Roan Fel, the Princess was considered to be her father's eventual successor, al­ though the Moff Council was not happy with the idea of a woman ruling the New Empire. Marasiah Fel, known to her confidantes as Sia, had beentrained asan Imperial Knight, but had to flee into hiding during an Imperial mission on So­ corro when Darth Krayt took over the galaxy by force. Eventually she was tracked down by Darth Talon, but escaped an initial assassination attempt. In fleeing, she met Cade Skywalker and his bounty hunter colleagues, who helped her escape to Vendaxa. Darth Talon attacked again, but Cade and his friends defeated the Sith. They were soon joined by two of her father's closest aides . . . and then four more Sith Lords, one of whom almost killed Soontir Fe/ the Princess with lightsaber blows. Cade Skywalker saved her life with the help of the Force. The two of them re­ alized that the Jedi and Imperial Knights needed toabandon their long-simmering antagonism and join together if there was ever to be a chance to defeat the new Sith Empire.
@@ -22,7 +21,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Darth Talon; Cade Skywalker: "Darth Talon attacked again, but Cade and his friends defeated the Sith." Source: The Complete Star Wars Encyclopedia, Vol. I, p.260
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.260 — full quote as printed](quotes/v1-p260-darth-talon-attacked-again-but-cade.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:224`
 
 - Note (summary from our notes, not a quotation): Page contents: 870 words, 25 paragraphs | headings/entries: Gurtt, Tyresi; Gus Talon; Gus Treta; Guta-Nay; Guz, Brakko; Gwann; G'wenee; Gwig; G-wing; Gwori Revolutionary Industries; Gyad, Athadar; Gymsnor-3; Gyndine
@@ -38,7 +36,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Karrde, Talon The lawless shadows of the underworld spawned despicable characters possessed of greed, vice, and a lack of scruples—kingpins like Jabba the Hutt, capable of killing without compunction.
 — Source: scan pages 201–240; Darth Talon — entry/section: Karrde, Talon.
 Note (our notes, around the quote): Darth Talon — entry/section: Karrde, Talon: "Karrde, Talon The lawless shadows of the underworld spawned despicable characters possessed of greed, vice, and a lack of scruples—kingpins like Jabba the Hutt, capable of killing without compunction." Source: The Complete Star Wars Encyclopedia, Vol. II, p.200
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.200 — full quote as printed](quotes/v2-p200-karrde-talon-the-lawless-shadows-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:49`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -46,13 +43,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > When Shiner was destroyed in battle, Myn Donos experienced severe emotional trauma—the droid had been the only other surviving member of Donos's original Talon Squadron.
 — Source: scan pages 121–160; Darth Talon. POV: Darth Talon.
 Note (our notes, around the quote): Darth Talon: "When Shiner was destroyed in battle, Myn Donos experienced severe emotional trauma—the droid had been the only other surviving member of Donos's original Talon Squadron." Source: The Complete Star Wars Encyclopedia, Vol. III, p.147
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.147 — full quote as printed](quotes/v3-p147-when-shiner-was-destroyed-in-battle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:276`
 
 > Talon (1) An Imperial Strike-class cruiser that was destroyed by the Rebel Alliance during the Galactic Civil War.
 — Source: scan pages 201–240; Darth Talon. POV: Darth Talon.
 Note (our notes, around the quote): Darth Talon: "Talon (1) An Imperial Strike-class cruiser that was destroyed by the Rebel Alliance during the Galactic Civil War." Source: The Complete Star Wars Encyclopedia, Vol. III, p.214
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.214 — full quote as printed](quotes/v3-p214-talon-1-an-imperial-strike-class.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:185`
 
 - Note (summary from our notes, not a quotation): Page contents: 1077 words, 27 paragraphs | headings/entries: Talon, Darth; Taloon, Rhya; Taloraan; Talos Spaceport; Talpron; Talisava; Talshib, Captain; Talu; Talus; Tal'yo, Nescan; Tamban
@@ -62,7 +57,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > She dueled Cade again in Coruscant's Sith Temple, and would have fallen to his lightsaber if Darth Nihl hadn't intervened.
 — Source: scan pages 201–240; Darth Talon; Cade Skywalker; Darth Nihl — entry/section: Talon, Darth.
 Note (our notes, around the quote): Darth Talon; Cade Skywalker; Darth Nihl — entry/section: Talon, Darth: "She dueled Cade again in Coruscant's Sith Temple, and would have fallen to his lightsaber if Darth Nihl hadn't intervened." Source: The Complete Star Wars Encyclopedia, Vol. III, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.215 — full quote as printed](quotes/v3-p215-she-dueled-cade-again-in-coruscants.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:192`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -76,7 +70,6 @@ Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-
 > What are you doing on Talon turf?
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 4/408 - Jigsaw - Cl.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Seng Windrunner: ""I'm Seng," the driver says, bracing himself against the swoop. A dirty gray cast can be seen wrapped around his lower leg. "What are you doing on Talon turf?"" Source: *408 - Jigsaw - Cloak and Vibroblade* (SWRPG d20 Revised Core), p.8
-![Quote image: *408 - Jigsaw - Cloak and Vibroblade* (SWRPG d20 Revised Core), p.8 — full quote as printed](quotes/d331-p8-im-seng-the-driver-says-bracing.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/331-408-jigsaw-cloak-and-vibroblade.md:62`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 4/415 - Hunting the Wyrd.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -98,13 +91,11 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > They are used throughout the galaxy as upper-atmosphere patrol craft, though they are capable of lower-altitude operations as well.
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Darth Talon — entry/section: Ubrikkian Talon | Combat Cloud Car.
 Note (our notes, around the quote): Darth Talon — entry/section: Ubrikkian Talon | Combat Cloud Car: "They are used throughout the galaxy as upper-atmosphere patrol craft, though they are capable of lower-altitude operations as well." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.71
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.71 — full quote as printed](quotes/d663-s71-they-are-used-throughout-the-galaxy.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-061-097.md:62`
 
 > The Talon | has no shields, depending on heavy armor plating and high-speed maneuvers to survive in combat against more powerful craft.
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Darth Talon — entry/section: Ubrikkian Talon | Combat Cloud Car.
 Note (our notes, around the quote): Darth Talon — entry/section: Ubrikkian Talon | Combat Cloud Car: "The Talon | has no shields, depending on heavy armor plating and high-speed maneuvers to survive in combat against more powerful craft." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.71
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.71 — full quote as printed](quotes/d663-s71-the-talon-has-no-shields-depending.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-061-097.md:64`
 
 ## Adventures/Dawn of Defiance/03 - Queen of Air and Darkness.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -125,7 +116,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Talon — entry/section: Pull quote.
 Note (our notes, around the quote): Darth Talon — entry/section: Pull quote: ""NO THREAT, NO PURPOSE." —DARTH TALON" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.73
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.73 — full quote as printed](quotes/d719-s73-no-threat-no-purpose-darth-talon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:112`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -141,13 +131,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag.
 Note (our notes, around the quote): Darth Talon; Darth Nihl; Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga): "With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173 — full quote as printed](quotes/d719-s173-with-her-master-dead-by-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:421`
 
 > Despite her relative inexperience, Darth Talon is still one of the most formidable lightsaber duelists in the Sith Order.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Talon — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Darth Talon — entry/section: Legacy Era Campaign Guide (Saga): "Despite her relative inexperience, Darth Talon is still one of the most formidable lightsaber duelists in the Sith Order." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173 — full quote as printed](quotes/d719-s173-despite-her-relative-inexperience-darth-talon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:423`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption: "DARTH TALON." Darth Talon stat block CL 13 (Twi'lek Jedi 7/Sith apprentice 5/Sith Lord 1). Darth Wyyrlok: the third Sith Lord to bear the name; Chagrian; Darth Krayt's closest aide and confidante; Loremaster of the Sith; master of illusions. (hand-read)
@@ -169,7 +157,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Shado Vao; Darth Talon — entry/section: Legacy of the Force Preview 1: Shado Vao: ""Your plan has a flaw. It assumes you can kill me." —Shado Vao to Darth Talon" Source: *Web Articles* (SWRPG Saga Edition), scan p.308
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.308 — full quote as printed](quotes/d732-s308-your-plan-has-a-flaw-it.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:80`
 
 ## Star Wars Insider #70 (2003)
@@ -614,8 +601,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:47`
 
 - Note (summary from our notes, not a quotation): #6: Fel refuses a rescue mission, but Draco and Krieg come anyway (p103, p112–114). Nihl and Talon spring the trap. Marasiah is struck down saving Cade, and Cade takes up her lightsaber (p115–124).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p113](009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
-![p114 Draco and Krieg face Talon, Nihl and Sith](009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
+![p113](../notes/materials/009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
+![p114 Draco and Krieg face Talon, Nihl and Sith](../notes/materials/009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:48`
 
 - Note (summary from our notes, not a quotation): #7: Cade fights Nihl with a lightsaber in one hand and a blaster in the other, with Syn's help, and is Force-blasted aside (p125–133). Everyone escapes on the *Mynock* (p134–135). Draco attacks Cade; Wolf and Cade argue about the dark side; Cade heals the dying Marasiah through the dark side (p137–142). Talon reports her failure. Krayt spares her and wants the Skywalker "ALIVE" (p146).
@@ -632,12 +619,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:75`
 
 - Note (summary from our notes, not a quotation): #17: Nihl and Maladi discuss succession and Krayt's "AFFLICTION" (p377). Talon trains Cade (p378–381, p388–393). Krayt and Wyyrlok discuss turning Cade (p382). Corde infiltrates the Temple with Vong bugs (p387). The Jedi mind-trick the troopers on Ossus. Stryfe orders the ruins bombarded (p396–398).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p377](009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
-![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
-![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
-![p387](009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
+![p377](../notes/materials/009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
+![p379](../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+![p380](../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+![p381 dark-side self-healing](../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p382](../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p387](../notes/materials/009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:76`
 
 > THAT WHICH CAN HEAL CAN ALSO BREAK. *(p416)*
@@ -651,12 +638,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:77`
 Context: 6. Ritual authority: Talon kills Ruyn on command; Krayt lightning "test". p53 (#2 Broken)–p55 (#2 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:129`
 
-- Note (summary from our notes, not a quotation): ![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+- Note (summary from our notes, not a quotation): ![p53 Krayt orders Talon to kill Ruyn](../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p53 Krayt orders Talon to kill Ruyn — `p053-krayt-kill-him-talon-ruyn.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:132`
 
-- Note (summary from our notes, not a quotation): ![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+- Note (summary from our notes, not a quotation): ![p55 Krayt names Darth Talon](../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p55 Krayt names Darth Talon — `p055-krayt-lightning-talon-final-test.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:135`
@@ -675,12 +662,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:259`
 Note (our notes, around the quote): 5. Stops Talon's hurled starship wreck and Force-pushes her away with it. p97 (#5 Broken)–p98 (#5 Broken). Cade instinctively raises a hand ("NO!"); the wreck stops and turns, and a blue Force wave sends Talon flying with the debris. · Cade: "LET'S GET TO THE MYNOCK." · (p99) Syn: "WHY DIDN'T SHE JUST VAPORIZE THE MYNOCK LIKE SHE DID THE JEDI SHIP?"
 Our notes: `notes/materials/009-legacy-book-1.md:381`
 
-- Note (summary from our notes, not a quotation): ![p97 Talon hurls the wreck; Cade raises his hand](009-legacy-book-1-panels/p097-cade-stops-hurled-wreck.jpg)
+- Note (summary from our notes, not a quotation): ![p97 Talon hurls the wreck; Cade raises his hand](../notes/materials/009-legacy-book-1-panels/p097-cade-stops-hurled-wreck.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p97 Talon hurls the wreck; Cade raises his hand — `p097-cade-stops-hurled-wreck.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:383`
 
-- Note (summary from our notes, not a quotation): ![p98 Cade's Force wave blows Talon away](009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
+- Note (summary from our notes, not a quotation): ![p98 Cade's Force wave blows Talon away](../notes/materials/009-legacy-book-1-panels/p098-cade-force-push-talon.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p98 Cade's Force wave blows Talon away — `p098-cade-force-push-talon.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:386`
@@ -728,12 +715,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:495`
 Context: 16. Force-blasts Talon while cuffed; sees her "RED LINES"; threatens to "EXPLODE" her weak point (healing reversed). p371 (#16 Claws)–p372 (#16 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:514`
 
-- Note (summary from our notes, not a quotation): ![p372 Cade's blast; hand on Talon's head](009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
+- Note (summary from our notes, not a quotation): ![p372 Cade's blast; hand on Talon's head](../notes/materials/009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p372 Cade's blast; hand on Talon's head — `p372-cade-force-blast-talon-explode-point.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:520`
 
-- Note (summary from our notes, not a quotation): ![p374 Krayt stops him; Cade heals Talon instead](009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
+- Note (summary from our notes, not a quotation): ![p374 Krayt stops him; Cade heals Talon instead](../notes/materials/009-legacy-book-1-panels/p374-krayt-teach-you-cade-heals-talon.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p374 Krayt stops him; Cade heals Talon instead — `p374-krayt-teach-you-cade-heals-talon.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:523`
@@ -773,12 +760,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:563`
 > IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Becomes a Hand by killing her master on command. p53 (#2 Broken)–p55 (#2 Broken) (see Krayt 6). Talon: "BECAUSE YOU ORDERED IT, MASTER." · "I AM HONORED, MASTER." Later (p389): "HAD MY TEACHER NOT DEEMED ME READY, HE WOULD HAVE BLOCKED MY ATTACK. INSTEAD, HE EMBRACED DEATH SO THAT I MIGHT TOUCH THE DARK SIDE." · "KRAYT'S SITH ORDER IS MORE THAN TWO." · "IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH."
-![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
-![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p389](../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+![p53 Krayt orders Talon to kill Ruyn](../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+![p55 Krayt names Darth Talon](../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:589`
 
-- Note (summary from our notes, not a quotation): ![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+- Note (summary from our notes, not a quotation): ![p389](../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p389 — `p389-talon-killed-master-krayt-order-more-than-two.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:591`
@@ -791,16 +778,16 @@ Our notes: `notes/materials/009-legacy-book-1.md:595`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 2. Kills Imperial Knight Elke Vetter (Socorro). p56 (#2 Broken)–p57 (#2 Broken)
-![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
-![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+![p56 Talon vs Elke Vetter](../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+![p57 Talon finishes Elke](../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:597`
 
-- Note (summary from our notes, not a quotation): ![p56 Talon vs Elke Vetter](009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
+- Note (summary from our notes, not a quotation): ![p56 Talon vs Elke Vetter](../notes/materials/009-legacy-book-1-panels/p056-talon-vs-imperial-knight-elke-vetter.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p56 Talon vs Elke Vetter — `p056-talon-vs-imperial-knight-elke-vetter.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:600`
 
-- Note (summary from our notes, not a quotation): ![p57 Talon finishes Elke](009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
+- Note (summary from our notes, not a quotation): ![p57 Talon finishes Elke](../notes/materials/009-legacy-book-1-panels/p057-talon-kills-elke-vetter.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p57 Talon finishes Elke — `p057-talon-kills-elke-vetter.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:603`
@@ -813,28 +800,28 @@ Our notes: `notes/materials/009-legacy-book-1.md:607`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 3. Fights Wolf Sazen and Shado Vao at once; lightning on Wolf; disarms Marasiah. p91 (#5 Broken)–p96 (#5 Broken)
-![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
-![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
-![p94](009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
-![p96 Talon deflects bolts and Force-disarms the guns](009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
+![p92 Talon vs Wolf and Shado](../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+![p93 Talon Force-pushes Shado and lightnings Wolf](../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+![p94](../notes/materials/009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
+![p96 Talon deflects bolts and Force-disarms the guns](../notes/materials/009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:609`
 
-- Note (summary from our notes, not a quotation): ![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+- Note (summary from our notes, not a quotation): ![p92 Talon vs Wolf and Shado](../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p92 Talon vs Wolf and Shado — `p092-talon-vs-wolf-and-shado.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:612`
 
-- Note (summary from our notes, not a quotation): ![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+- Note (summary from our notes, not a quotation): ![p93 Talon Force-pushes Shado and lightnings Wolf](../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p93 Talon Force-pushes Shado and lightnings Wolf — `p093-talon-lightning-wolf-nihl-marked-you.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:615`
 
-- Note (summary from our notes, not a quotation): ![p94](009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
+- Note (summary from our notes, not a quotation): ![p94](../notes/materials/009-legacy-book-1-panels/p094-talon-marasiah-merely-a-student.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p94 — `p094-talon-marasiah-merely-a-student.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:618`
 
-- Note (summary from our notes, not a quotation): ![p96 Talon deflects bolts and Force-disarms the guns](009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
+- Note (summary from our notes, not a quotation): ![p96 Talon deflects bolts and Force-disarms the guns](../notes/materials/009-legacy-book-1-panels/p096-talon-force-disarms-blasters.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p96 Talon deflects bolts and Force-disarms the guns — `p096-talon-force-disarms-blasters.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:621`
@@ -847,11 +834,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:625`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 4. Talon vs Shado (Vendaxa second round). p117 (#6 Broken), p127 (#7 Broken), p134 (#7 Broken)–p135 (#7 Broken)
-![p127 Shado vs Talon (Force clash)](009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
-![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+![p127 Shado vs Talon (Force clash)](../notes/materials/009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
+![p135](../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:627`
 
-- Note (summary from our notes, not a quotation): ![p127 Shado vs Talon (Force clash)](009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
+- Note (summary from our notes, not a quotation): ![p127 Shado vs Talon (Force clash)](../notes/materials/009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p127 Shado vs Talon (Force clash) — `p127-shado-vs-talon-assumes-you-can-kill-me.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:630`
@@ -863,29 +850,29 @@ Our notes: `notes/materials/009-legacy-book-1.md:634`
 > Nihl: "THERE IS NOTHING LEFT FOR YOU BUT TO REPORT YOUR FAILURE TO OUR MASTER." · "AFTER ALL, THIS MISSION WAS UNDER YOUR COMMAND. AND WHEN HE KILLS YOU, HE WILL AGAIN HAVE ONLY ONE 'HAND,' WHICH WILL BE SUFFICIENT."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 5. Nihl blames Talon for the failure; Krayt spares her. p135 (#7 Broken), p146 (#7 Broken)
-![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
-![p146](009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
+![p135](../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+![p146](../notes/materials/009-legacy-book-1-panels/p146-krayt-skywalker-very-powerful-alive.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:636`
 
-- Note (summary from our notes, not a quotation): ![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+- Note (summary from our notes, not a quotation): ![p135](../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p135 — `p135-nihl-talon-report-failure.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:639`
 
 - Note (summary from our notes, not a quotation): 6. (Withdrawn 2026-10-21.) The p261 execution of Governor Dorn was listed here by mistake. The killer is Darth Maladi (white-dotted headdress, no lekku; Krayt then addresses her). See Darth Maladi below.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+![p261 Maladi kills Dorn](../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:643`
 
 > I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): 7. Trainer and jailer of Cade; ambushes and floors him; struck down by him. See Cade 13, 16–18 and 20 (p328 (#14 Claws)–p331 (#14 Claws), p371 (#16 Claws)–p381 (#17 Claws), p411 (#18 Claws), p418 (#18 Claws)). Talon to Krayt (p395): "I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD."
-![p328](009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
-![p331](009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p395](009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
-![p411](009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
+![p328](../notes/materials/009-legacy-book-1-panels/p328-cade-vs-talon-sabers.jpg)
+![p331](../notes/materials/009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
+![p371](../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p381 dark-side self-healing](../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p395](../notes/materials/009-legacy-book-1-panels/p395-krayt-served-with-jedi-who-played-dark.jpg)
+![p411](../notes/materials/009-legacy-book-1-panels/p411-talon-ambush-cade-idiot.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:646`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): across the book, Talon vs Cade comes out roughly even. She wins the ambush (p411) and in training (p381), the first temple fight is a draw interrupted by Nihl, and he wins the cuffed surprise blast (p372) and the p418 strike. The framing makes her his superior in skill, while he out-classes her in raw power.
@@ -907,7 +894,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:739`
 
 - Note (summary from our notes, not a quotation): Darth Ruyn. Talon's master; he allows himself to be killed (p53 (#2 Broken)–p54 (#2 Broken)).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p53 Krayt orders Talon to kill Ruyn](009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
+![p53 Krayt orders Talon to kill Ruyn](../notes/materials/009-legacy-book-1-panels/p053-krayt-kill-him-talon-ruyn.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:814`
 
 > I FELT YOU KILL ELKE VETTER.
@@ -932,7 +919,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:864`
 Context: Antares Draco and Ganner Krieg. p112 (#6 Broken)–p114 (#6 Broken), p128 (#7 Broken), p137 (#7 Broken)–p139 (#7 Broken), p228 (#10 Trust Issues)–p231 (#10 Trust Issues)
 Our notes: `notes/materials/009-legacy-book-1.md:866`
 
-- Note (summary from our notes, not a quotation): ![p114 Draco and Krieg face Talon, Nihl and Sith](009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Draco and Krieg face Talon, Nihl and Sith](../notes/materials/009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p114 Draco and Krieg face Talon, Nihl and Sith — `p114-draco-krieg-vs-talon-nihl.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:872`
@@ -944,9 +931,9 @@ Our notes: `notes/materials/009-legacy-book-1.md:894`
 
 - Note (summary from our notes, not a quotation): Senses Talon as "A FLICKERING SHADOW IN THE FORCE" (p99 (#5 Broken)). Holds against Talon's lightning alongside Shado (p93 (#5 Broken)–p95 (#5 Broken)). Duels Nihl to an interruption (p116 (#6 Broken)).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p93 Talon Force-pushes Shado and lightnings Wolf](009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
-![p99](009-legacy-book-1-panels/p099-wolf-flickering-shadow-in-force.jpg)
-![p116](009-legacy-book-1-panels/p116-nihl-vs-wolf-kill-twice.jpg)
+![p93 Talon Force-pushes Shado and lightnings Wolf](../notes/materials/009-legacy-book-1-panels/p093-talon-lightning-wolf-nihl-marked-you.jpg)
+![p99](../notes/materials/009-legacy-book-1-panels/p099-wolf-flickering-shadow-in-force.jpg)
+![p116](../notes/materials/009-legacy-book-1-panels/p116-nihl-vs-wolf-kill-twice.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:910`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS) for debate #67 (Daegen Lok vs Wolf Sazen): Book 1 Wolf is a solid Knight or Master-level fighter who loses an arm to Nihl in the massacre. One-armed, he survives Talon (with Shado) and Nihl (with the battle around them). His standout traits are sensing and bond feats, not offensive power.
@@ -961,12 +948,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:923`
 > Shado has honed his martial skills and has yet to find his equal with a lightsaber.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Two-on-one vs Talon with Wolf; one-on-one vs Talon with no result (p92 (#5 Broken), p127 (#7 Broken), p135 (#7 Broken)). Mocks Draco (p139 (#7 Broken)). Mind-tricks troopers on Ossus: "THERE IS NO ONE ON OSSUS. IT IS TIME TO LEAVE." · Trooper: "NEVER MIND. JUST A SHADOW." (p397 (#17 Claws)). Handbook (p465): "Shado has honed his martial skills and has yet to find his equal with a lightsaber."
-![p397](009-legacy-book-1-panels/p397-jedi-mind-trick-no-one-on-ossus.jpg)
-![p92 Talon vs Wolf and Shado](009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
-![p127 Shado vs Talon (Force clash)](009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
-![p135](009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
-![p139 Draco vs Shado posturing; Wolf on dark-side healing](009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
-![p465 handbook: Hosk, Shado, Wolf](009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
+![p397](../notes/materials/009-legacy-book-1-panels/p397-jedi-mind-trick-no-one-on-ossus.jpg)
+![p92 Talon vs Wolf and Shado](../notes/materials/009-legacy-book-1-panels/p092-talon-vs-wolf-and-shado.jpg)
+![p127 Shado vs Talon (Force clash)](../notes/materials/009-legacy-book-1-panels/p127-shado-vs-talon-assumes-you-can-kill-me.jpg)
+![p135](../notes/materials/009-legacy-book-1-panels/p135-nihl-talon-report-failure.jpg)
+![p139 Draco vs Shado posturing; Wolf on dark-side healing](../notes/materials/009-legacy-book-1-panels/p139-wolf-healing-touch-dark-side.jpg)
+![p465 handbook: Hosk, Shado, Wolf](../notes/materials/009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:926`
 
 > yet to find his equal with a lightsaber
@@ -1024,10 +1011,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:1071`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels. POV: Darth Krayt, about Darth Talon.
 Note (our notes, around the quote): Darth Krayt: "THE LIVING LORD OF THE SITH" (p84); "DARTH KRAYT, LORD OF THE SITH, EMPEROR OF THE GALAXY" (Talon, p371). Rule of One: "INSTEAD OF TWO THERE IS NOW ONLY ONE -- THE SITH ORDER ITSELF." (p82). "WE ARE NOT [equals]" (p346).
-![p82 Bane's holocron: "PRETENDER"](009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
-![p84 Krayt dispels the holocron images with lightning](009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
-![p346](009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
-![p371](009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
+![p82 Bane's holocron: "PRETENDER"](../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p84 Krayt dispels the holocron images with lightning](../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+![p346](../notes/materials/009-legacy-book-1-panels/p346-krayt-bargaining-not-equals.jpg)
+![p371](../notes/materials/009-legacy-book-1-panels/p371-talon-respect-his-power-beware-mine.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1079`
 
 > MY OWN PERSONAL ASSASSIN … YOU WILL TAKE ORDERS ONLY FROM ME *(p55)*
@@ -1040,15 +1027,15 @@ Our notes: `notes/materials/009-legacy-book-1.md:1079`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; The Hands, Talon and Nihl. POV: Maladi, about Darth Talon.
 Note (our notes, around the quote): The Hands, Talon and Nihl: "MY OWN PERSONAL ASSASSIN … YOU WILL TAKE ORDERS ONLY FROM ME" (p55). Nihl is "the top enforcer of Krayt's will out in the galaxy at large, and within the Sith Order itself" (handbook, p449). Nihl was "INTENDED TO BE LORD KRAYT'S FIST… YOU ARE ONLY A HAND BECAUSE YOUR PREDECESSOR DIED... PREMATURELY" (Maladi, p351).
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
-![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
-![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+![p55 Krayt names Darth Talon](../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1081`
 
 - Note (summary from our notes, not a quotation): Rank-and-file Sith Lords: Maleval, Krul, Ruyn. Talon ("I WAS BORN SITH", p389) versus Nihl ("WARLORD ON YOUR OWN BACKWATER WORLD", p351).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
-![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+![p389](../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1084`
 
 > One of Krayt's 'Hands,' she exists s[UNCLEAR] her Master's will. Talon's tattoos w[UNCLEAR] ritual combat and inscribed by Krayt hi[UNCLEAR].
@@ -1059,7 +1046,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1084`
 Note (our notes, around the quote): Darth Talon (p449): "One of Krayt's 'Hands,' she exists s[UNCLEAR] her Master's will. Talon's tattoos w[UNCLEAR] ritual combat and inscribed by Krayt hi[UNCLEAR]." (Parts are washed out by the art glow. The likely reading is "solely to [serve]… were earned in… himself", but that's a guess and isn't quoted.)
 Our notes: `notes/materials/009-legacy-book-1.md:1124`
 
-- Note (summary from our notes, not a quotation): ![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+- Note (summary from our notes, not a quotation): ![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p449 handbook: Talon, Nihl, Maladi — `p449-handbook-talon-nihl-maladi.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1150`
@@ -1067,8 +1054,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1150`
 - Note (summary from our notes, not a quotation): Counter: in Book 1 the "break" use is only *threatened* against a restrained or surprised Talon (p372) and used once, with an effect that is UNCLEAR on the page (p418). It needs touch, and Cade says he has to see the "RED LINES". It's no instant-kill hax against a mobile duelist at range.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Cade's healing as a combat weapon (debates #61, #81, #85, #91).
-![p372 Cade's blast; hand on Talon's head](009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
-![p418](009-legacy-book-1-panels/p418-cade-strikes-talon-nihl-engages.jpg)
+![p372 Cade's blast; hand on Talon's head](../notes/materials/009-legacy-book-1-panels/p372-cade-force-blast-talon-explode-point.jpg)
+![p418](../notes/materials/009-legacy-book-1-panels/p418-cade-strikes-talon-nihl-engages.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1190`
 
 - Note (summary from our notes, not a quotation): Pro: she kills an Imperial Knight (p56–57) and pressures Wolf and Shado together (p92–96).
@@ -1088,8 +1075,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1215`
 - Note (summary from our notes, not a quotation): Handbook p449 (Talon bio, washed out by the art glow), p459 (right edge cropped), p468 (Chak bio partly washed out), p469 (Syn bio's last line cut off) and p471 (gutter letters).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: UNCLEAR:
-![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
-![p471 handbook: Cade](009-legacy-book-1-panels/p471-handbook-cade.jpg)
+![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+![p471 handbook: Cade](../notes/materials/009-legacy-book-1-panels/p471-handbook-cade.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1233`
 
 - Note (summary from our notes, not a quotation): What exactly Cade's p418 palm-burst does to Talon.
@@ -1125,7 +1112,7 @@ Our notes: `notes/materials/010-legacy-war.md:84`
 
 - Note (summary from our notes, not a quotation): Draco broken (p44–45). Havok breaks Draco with a staged illusion: a false Marasiah who is Talon in disguise. Draco names "TAIVAS".
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:98`
 
 - Note (summary from our notes, not a quotation): Krayt's answer (p46). He orders Talon to make Cade "A GIFT OF YOUR BROKEN IMPERIAL KNIGHT". He plays Cade's holo threat and replies: "...YOU MUST DIE."
@@ -1134,24 +1121,24 @@ Our notes: `notes/materials/010-legacy-war.md:99`
 
 - Note (summary from our notes, not a quotation): Talon's gift (p56–59). Talon drops in under a "TRUCE", Force-pushes the crew, spars briefly with Cade and leaves Draco in carbonite in the hold. Draco confesses.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+![p57 Cade vs Talon on the Wheel](../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
 Our notes: `notes/materials/010-legacy-war.md:105`
 
 > TIME TO END IT.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): The tunnels (p110–114). Talon and Stryfe ambush the team in the Temple tunnels (p110–111). Cade floors Talon with Force pushes (p112). Stryfe challenges Sazen, and they kill each other in one pass (p113–114). Talon flees to warn Krayt and Cade follows: "TIME TO END IT."
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:127`
 
 - Note (summary from our notes, not a quotation): Cade vs Krayt (p116–118). Krayt and Nihl by holo ("AS YOU FORESAW") (p116). Talon is slammed into a pillar (p116). Cade arrives, and Krayt pushes, catches and lightnings him (p117–118).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
-![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:131`
 
 - Note (summary from our notes, not a quotation): The rebirth is self-healing inside a stasis field, helped by projecting his thoughts into Talon's mind. Krayt credits a "SECRET" he learned "ASTRIDE THE GRAVE" and Muur's words.
@@ -1163,13 +1150,13 @@ Our notes: `notes/materials/010-legacy-war.md:157`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 2. Group assault on the Temple of the Sith. p15–16 (#1)
-![p15 Coruscant; Krayt and his Sith reach the throne room](010-legacy-war-panels/p015-krayt-sith-reach-throne-room.jpg) *(p15)*
-![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
+![p15 Coruscant; Krayt and his Sith reach the throne room](../notes/materials/010-legacy-war-panels/p015-krayt-sith-reach-throne-room.jpg) *(p15)*
+![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](../notes/materials/010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
 Our notes: `notes/materials/010-legacy-war.md:161`
 
 - Note (summary from our notes, not a quotation): On the page: Krayt (hooded), Talon, Nihl and two masked Sith troopers cut through red-saber Sith guards on the steps. One trooper holds a Zabrak Sith by the throat in a blue-glowing gauntlet.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
+![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](../notes/materials/010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
 Our notes: `notes/materials/010-legacy-war.md:166`
 
 > (p23) "ONCE, I THOUGHT TO BRING PEACE AND ORDER TO THE GALAXY THROUGH THE EXISTING GOVERNMENTS -- TO ALIGN THE WORLDS TO THE RULE OF THE ONE SITH." · "THAT CANNOT WORK. THE GALAXY MUST EXPERIENCE THE PAIN OF DEATH AND THE RAPTURE OF REBIRTH AS I HAVE." · "I WILL BRING CHAOS." · "IT IS TIME FOR WAR." · (p46, to Talon) "WHEN I CALLED TO THE ONE SITH THROUGH THE FORCE, I FELT SKYWALKER'S PRESENCE. AS MUCH AS THE BOY BELIEVES HE WALKS IN THE LIGHT, DARKNESS STILL SHROUDS HIM." · "FIND HIM AND MAKE HIM A GIFT OF YOUR BROKEN IMPERIAL KNIGHT." · (to Cade's holo) "DEATH IS NOT AN ENDING, BOY -- BUT IT IS A PASSAGEWAY TO SOMETHING GREATER. IT IS SOMETHING YOU, TOO, MUST EXPERIENCE, CADE SKYWALKER." · "FOR I HAVE HAD A VISION. YOU WILL BEND, YOU WILL BREAK, AND YOU WILL SERVE AT MY SIDE. BUT FIRST -- YOU MUST DIE." · (p60) "UNTIL THE FORCE SPEAKS TO YOU, DO NOT QUESTION MY JUDGMENT, GRAND ADMIRAL." · (to Nihl) "NONE. THEY ARE MERELY BAIT. I HAVE FORESEEN HOW THIS ALLIANCE WILL REACT TO THE IMMINENT ATTACK. THIS IS THE FIRST STEP IN MY FINAL PLAN TO BRING THE GALAXY TO HEEL."
@@ -1188,7 +1175,7 @@ Our notes: `notes/materials/010-legacy-war.md:295`
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Our notes: `notes/materials/010-legacy-war.md:298`
 
-- Note (summary from our notes, not a quotation): ![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+- Note (summary from our notes, not a quotation): ![p116 Talon hurled into a pillar (thrower not shown)](../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p116 — `p116-talon-hurled-into-pillar.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:300`
@@ -1201,19 +1188,19 @@ Our notes: `notes/materials/010-legacy-war.md:361`
 
 - Note (summary from our notes, not a quotation): Talon's one-hand Force push sends the crew flying.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Talon's Force push; Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
+![p57 Talon's Force push; Cade vs Talon on the Wheel](../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
 Our notes: `notes/materials/010-legacy-war.md:365`
 
 - Note (summary from our notes, not a quotation): Two or three saber exchanges.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Talon's Force push; Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
+![p57 Talon's Force push; Cade vs Talon on the Wheel](../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg) *(p57)*
 Our notes: `notes/materials/010-legacy-war.md:367`
 
 - Note (summary from our notes, not a quotation): Talon flips over Cade, kicks him in the head and leaps out of the bay. The crew's shots miss.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Our notes: `notes/materials/010-legacy-war.md:369`
 
-- Note (summary from our notes, not a quotation): ![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+- Note (summary from our notes, not a quotation): ![p57 Cade vs Talon on the Wheel](../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p57 — `p057-cade-vs-talon-wheel.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:371`
@@ -1232,7 +1219,7 @@ Our notes: `notes/materials/010-legacy-war.md:430`
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Our notes: `notes/materials/010-legacy-war.md:433`
 
-- Note (summary from our notes, not a quotation): ![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+- Note (summary from our notes, not a quotation): ![p112 Cade's Force pushes floor Talon](../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p112 — `p112-cade-vs-talon-force-push.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:438`
@@ -1256,36 +1243,36 @@ Our notes: `notes/materials/010-legacy-war.md:513`
 
 - Note (summary from our notes, not a quotation): Released Krayt (p4), joins the Temple assault (p15–16), and plays the illusion "Marasiah" in Havok's breaking of Draco (p44–45, orange Sith eye).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:546`
 
 - Note (summary from our notes, not a quotation): The Wheel (p56–58, #3): delivers Draco ("A LIFELINE BETWEEN EXISTENCE AND DEATH FOR THE JEDI"). Unsensed by Cade. Force-pushes three crew at once, spars briefly, kicks Cade and leaves.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p57 Cade vs Talon on the Wheel](010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
+![p57 Cade vs Talon on the Wheel](../notes/materials/010-legacy-war-panels/p057-cade-vs-talon-wheel.jpg)
 Our notes: `notes/materials/010-legacy-war.md:547`
 
 > CADE IS... STRONGER... THAN HE WAS.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Coruscant tunnels (p110–114, #5): loses to Cade's pushes. "CADE IS... STRONGER... THAN HE WAS."
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
-![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p112 Cade's Force pushes floor Talon](../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p113 Stryfe: "LET'S FINISH THIS, JEDI. THE DIANOGAS HUNGER."](../notes/materials/010-legacy-war-panels/p113-stryfe-dianogas-hunger.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:548`
 
 - Note (summary from our notes, not a quotation): p116 (#6): slammed into a pillar (thrower not shown).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:549`
 
 - Note (summary from our notes, not a quotation): Not in War: Talon going into hiding under Nihl's orders (W). On the page she does not appear after p116.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
 Our notes: `notes/materials/010-legacy-war.md:550`
 
-- Note (summary from our notes, not a quotation): ![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+- Note (summary from our notes, not a quotation): ![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p45 — `p045-havok-lightning-draco-taivas.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:603`
@@ -1295,7 +1282,7 @@ Our notes: `notes/materials/010-legacy-war.md:603`
 Context: Scaling (ANALYSIS):
 Our notes: `notes/materials/010-legacy-war.md:655`
 
-- Note (summary from our notes, not a quotation): ![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p114 — `p114-sazen-stryfe-mutual-kill.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:782`
@@ -1341,7 +1328,7 @@ Our notes: `notes/materials/010-legacy-war.md:1003`
 - Note (summary from our notes, not a quotation): Talon: "THE FAITHFUL ONE" (Krayt, p4).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels. POV: Talon.
 Context: Hands: Talon and Nihl.
-![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
+![p4 Krayt's rebirth captions: "I REMEMBER HEALING MYSELF WITH THE FORCE"](../notes/materials/010-legacy-war-panels/p004-krayt-rebirth-captions.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1004`
 
 - Note (summary from our notes, not a quotation): Nihl runs the trooper fleet (p60, p75) and leads after Krayt ("MY LORD", p134).
@@ -1357,7 +1344,7 @@ Our notes: `notes/materials/010-legacy-war.md:1062`
 - Note (summary from our notes, not a quotation): Two-push win over Talon (p112).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Use:
-![p112 Cade's Force pushes floor Talon](010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
+![p112 Cade's Force pushes floor Talon](../notes/materials/010-legacy-war-panels/p112-cade-vs-talon-force-push.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1082`
 
 - Note (summary from our notes, not a quotation): Cade Skywalker (vision, healing, dark-side moments, Talon, Krayt, hibernation trance, epilogue).
@@ -1389,28 +1376,28 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:125`
 
 > Beautiful, alluring, and dangerous, Darth Talon is a Twi'lek Sith Lord raised in the Sith tradition. Darth Talon grows up on Korriban, where she is taught how to use the Force and the art of lightsaber combat, and conditioned to be in top physical condition. Her training is harsh, as all Sith training is, yet she manages to survive and flourish.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:315`
 
 > The final step on her path to becoming a Sith Lord comes when she is ordered by Darth Krayt to slay the Sith Lord that had trained her, Darth Ruyn. With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:317`; `suspect-insight/debates/081-cade-skywalker-vs-darth-nox.md:83`
 
 > The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:319`
 
 > Despite her relative inexperience, Darth Talon is still one of the most formidable lightsaber duelists in the Sith Order. She helps oversee the training of Cade Skywalker in the ways of the Sith during his brief captivity on Coruscant.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:321`
 
 > NO THREAT, NO PURPOSE.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Pull quote (p73).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p73 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p073-no-threat-no-purpose.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p73 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p073-no-threat-no-purpose.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:323`
 
 - Note (summary from our notes, not a quotation): CL 13; Medium Twi'lek Jedi 7/Sith apprentice 5/Sith Lord 1. Destiny 2; Force 6; Dark Side 14. Init +9.
@@ -1448,7 +1435,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:338`
 > one of the most formidable lightsaber duelists in the Sith Order
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p173 Talon bio.
-Note (our notes, around the quote): ![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+Note (our notes, around the quote): ![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 (*Panel: p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order" — `p173-darth-talon-bio.jpg`*)
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Also noted as: Sith rank order by the numbers: Krayt CL20 (UtF +22) > Wyyrlok III CL16 (UtF +20) ≈ Nihl CL16 (UtF +15, but the best Sith duelist line after Krayt: +21, 2d10+10) > Azard CL15 / Maladi CL15 > Talon CL13 / Maleval CL13. Talon is statted barely above the generic Imperial Knight (CL11), despite the bio calling her "one of the most formidable lightsaber duelists in the Sith Order" (p173–174, p163).
@@ -1456,7 +1443,7 @@ Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with
 Also noted as: The bio's hype ("one of the most formidable lightsaber duelists in the Sith Order") isn't matched by the numbers.
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:340`; `notes/materials/011-legacy-era-campaign-guide.md:34`; `notes/materials/011-legacy-era-campaign-guide.md:334`
 
-- Note (summary from our notes, not a quotation): ![p174 Darth Talon CL 13 (part 1)](011-legacy-era-campaign-guide-panels/p174-darth-talon-stat-a.jpg)
+- Note (summary from our notes, not a quotation): ![p174 Darth Talon CL 13 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p174-darth-talon-stat-a.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p174 Darth Talon CL 13 (part 1) — `p174-darth-talon-stat-a.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:343`; `notes/materials/011-legacy-era-campaign-guide.md:346`
@@ -1465,14 +1452,14 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:343`; `notes/materi
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; She.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p171 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p171-maladi-bio-true-sith.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:372`
 
 - Note (summary from our notes, not a quotation): Not statted: Darth Stryfe, Darth Krul and Darth Ruyn have no stat blocks. Ruyn is mentioned only as Talon's victim (p173).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
-![p173 Darth Nihl (part 2)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
+![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![p173 Darth Nihl CL 16 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![p173 Darth Nihl (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:425`
 
 - Note (summary from our notes, not a quotation): Statted level with the Sith Lords Azard and Maladi (CL15), and above Talon and Maleval (CL13).
@@ -1481,7 +1468,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:488`
 
 > After battles with Darth Nihl and Darth Talon, Cade quickly concludes that he needs to return to his Jedi training, if nothing else than for self-defense.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:671`
 
 > one of the most deadly combatants around
@@ -1546,19 +1533,19 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:111`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Who kills Governor Dorn (012 p124 = 009 p261): it's Darth Maladi, not Darth Talon. In both scans the killer has Maladi's white-dotted headdress and no lekku, and she answers Krayt's "YOUR STRATAGEM FAILED, MALADI." 009 listed it as a Talon feat ("Executes Governor Dorn") and named the crop `p261-talon-kills-dorn…` (now renamed `p261-maladi-kills-dorn-krayt-stratagem-failed.jpg`; the p229 crop is now `p229-draco-force-push-stazi.jpg`).
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:532`
 
 ## Star Wars: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels
 
 - Note (summary from our notes, not a quotation): Flashbacks, narrated by Krayt or Talon (framing by an interested narrator): Jedi General A'Sharad Hett at Order 66 (p61); Hett as Tusken warlord vs Obi-Wan Kenobi on Tatooine while Luke is hidden on the Lars farm (p62–70); Hett as bounty hunter, then XoXaan's apprentice on Korriban (p89–91, p98); Hett's capture and shaping by the Yuuzhan Vong and his meetings with Vergere (p99–104); the founding of Krayt's Order, Lumiya and "CADEUS", stasis (p105–106).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
-![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
-![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
-![p103 Hett and Vergere on the Rule of Two](013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
-![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
-![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
+![p61 Hett kills his clone squad](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+![p100 Hett downed by the Vong](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+![p102 "MY BODY WAS ENHANCED"; the vision](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+![p103 Hett and Vergere on the Rule of Two](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
+![p104 Hett's lightning; the Vong scout ship explodes](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+![p105 "I SHOULD NOT HAVE SURVIVED"; Lumiya, "CADEUS"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p105-krayt-should-not-have-survived-cadeus.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:33`
 
 - Note (summary from our notes, not a quotation): From stasis, Krayt senses "SKYWALKER IS COMING" while Wyyrlok fears he is dying (p10). Cade shakes off a four-ship Skull Squadron flight in Coruscant traffic and hides his ship in the undercity (p11–14, p22). He leaves the *Mynock*'s codes with Queen Jool at Rik's cantina for Syn and Deliah (p17–21). Gunner Yage is dressed down by her father (p22–23). Cade slips into the Sith Temple, finds Hosk with the Force and frees him (p24–27). Talon ambushes them; Cade has the better of the first exchange until Nihl strikes him from behind (p27–30). Sazen senses Cade's darkness from Ossus (p31).
@@ -1593,15 +1580,15 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:98`
 > "I WAS SCOUTING, APART FROM MY TROOPS, WHEN ORDER 66 WAS ISSUED". · "I KILLED THE CLONES ASSIGNED TO EXECUTE ME, SAVING ONLY ONE LONG ENOUGH TO LEARN WHY. THEN I FLED THE PLANET." · "I REACHED OUT THROUGH THE FORCE, BUT COULD NOT SENSE ANY OTHER JEDI." · "I MADE MY WAY TO TATOOINE AND BECAME WAR LEADER OF SEVERAL CLANS OF TUSKEN RAIDERS, AS MY FATHER HAD BEEN BEFORE ME."
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 1. Order 66: kills his clone execution squad alone. p61 (#16) [009 p362]
-![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+![p61 Hett kills his clone squad](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:164`
 
 - Note (summary from our notes, not a quotation): At least three troopers are drawn in the panel; the squad size isn't given. Hett wields two green blades.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+![p61 Hett kills his clone squad](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:167`
 
-- Note (summary from our notes, not a quotation): ![p61 Hett kills his clone squad](013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
+- Note (summary from our notes, not a quotation): ![p61 Hett kills his clone squad](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p061-hett-kills-clone-squad.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p61 — `p061-hett-kills-clone-squad.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:169`
@@ -1610,27 +1597,27 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:169`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 2. A'SHARAD HETT vs OBI-WAN KENOBI, Tatooine: Kenobi wins decisively and spares him. p63 (#16)–p69 (#16) [009 p364–370]
-![p69 Hett defeated and spared](013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
+![p69 Hett defeated and spared](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:172`
 
 - Note (summary from our notes, not a quotation): Pages 65–68 are wordless apart from grunts. Hett (Tusken mask, two green blades) attacks; Kenobi (one blue blade, two-handed) defends. Hett lands a kick to the chest that sends Kenobi flying (p66; whether a Force push follows through is UNCLEAR) and a kick or knee to his midsection (p67). Then Kenobi blocks one blade overhead, palms Hett's mask with a Force glow, severs his right hand at the wrist, and Force-pushes him away (p68). He pulls off Hett's mask in front of the mounted Tuskens.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
-![p68 Kenobi severs Hett's hand and Force-pushes him](013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
-![p69 Hett defeated and spared](013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
+![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
+![p68 Kenobi severs Hett's hand and Force-pushes him](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
+![p69 Hett defeated and spared](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:175`
 
-- Note (summary from our notes, not a quotation): ![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
+- Note (summary from our notes, not a quotation): ![p64 "THE GREATEST JEDI OF HIS AGE" / "YOU WERE A GREAT JEDI"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p064-hett-greatest-jedi-kenobi-great-jedi.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p64 — `p064-hett-greatest-jedi-kenobi-great-jedi.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:177`
 
-- Note (summary from our notes, not a quotation): ![p68 Kenobi severs Hett's hand and Force-pushes him](013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
+- Note (summary from our notes, not a quotation): ![p68 Kenobi severs Hett's hand and Force-pushes him](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p068-kenobi-severs-hett-hand-force-push.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p68 — `p068-kenobi-severs-hett-hand-force-push.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:180`
 
-- Note (summary from our notes, not a quotation): ![p69 Hett defeated and spared](013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
+- Note (summary from our notes, not a quotation): ![p69 Hett defeated and spared](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p069-hett-defeated-spared.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p69 — `p069-hett-defeated-spared.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:183`
@@ -1646,8 +1633,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:186`
 > BOUNTY'S THE SAME, DEAD OR ALIVE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 3. Bounty hunter: deflects Resk's blaster fire and kills him. p89 (#17)–p90 (#17) [009 p390–391], narrated by Talon: "FOLLOWING HIS EXILE FROM TATOOINE, A'SHARAD HETT BECAME A BOUNTY HUNTER, MASKING HIS JEDI SKILLS." · Hett: "FAR BETTER THAN YOU HAVE TRIED, RESK." · "BOUNTY'S THE SAME, DEAD OR ALIVE." Non-Force target. Hett again wields two green blades; the replacement for the severed hand isn't commented on until p101 ("MY CYBERNETIC HAND").
-![p89 Hett becomes a bounty hunter; vs Resk](013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
-![p90 Hett deflects Resk's fire and kills him](013-legacy-vol-3-claws-of-the-dragon-panels/p090-hett-kills-resk.jpg) *(p90)*
+![p89 Hett becomes a bounty hunter; vs Resk](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
+![p90 Hett deflects Resk's fire and kills him](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p090-hett-kills-resk.jpg) *(p90)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:188`
 
 > USING THE FORCE, MY MASTER SHATTERED THE BARRIER TO FIND...
@@ -1661,22 +1648,22 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:188`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Breaks into XoXaan's tomb with the Force; becomes her apprentice. p91 (#17) [009 p392]: "USING THE FORCE, MY MASTER SHATTERED THE BARRIER TO FIND..." · XoXaan: "I WAS ONE OF THE FIRST OF THE SITH LORDS; ONE OF THOSE WHO ABANDONED THE JEDI ORDER TO SEEK A DARKER PATH TO TRUTH." · "MY BRETHREN AND I INVENTED WHAT IT MEANS TO BE A SITH." · Hett: "MASTER... I AM." · (p98, Krayt) "WHEN I EMERGED FROM THE TOMBS, I DISCOVERED I HAD BEEN ON KORRIBAN LONGER THAN I THOUGHT. I LEARNED THAT VADER AND PALPATINE WERE BOTH GONE". The barrier is a doorway-sized seal (one panel).
-![p91 Hett shatters the barrier; XoXaan](013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
+![p91 Hett shatters the barrier; XoXaan](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:192`
 
 > (p99) "THE FORCE WAS TELLING ME NOTHING OF MY ATTACKERS." · (p100) "I HAD NEVER SEEN A SHIP LIKE THE ONE THAT ENGULFED ME..." "...OR WARRIORS LIKE THE ONES I FACED..." "...OR WEAPONS LIKE THE ONES THAT DOWNED ME."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 5. Downed and captured by Yuuzhan Vong warriors. p99 (#18)–p100 (#18) [009 p400–401]
-![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+![p100 Hett downed by the Vong](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:195`
 
 - Note (summary from our notes, not a quotation): He leaps from his crashed ship with two green blades, blocks an amphistaff, and is hit in the chest by several thud bugs; the Vong carry him off.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+![p100 Hett downed by the Vong](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:198`
 
-- Note (summary from our notes, not a quotation): ![p100 Hett downed by the Vong](013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
+- Note (summary from our notes, not a quotation): ![p100 Hett downed by the Vong](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p100-hett-downed-by-vong.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p100 — `p100-hett-downed-by-vong.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:200`
@@ -1688,10 +1675,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:203`
 > "TIME PASSED. WHEN THE MOMENT CAME, I SEIZED IT." · "FIRE AND RED RUIN MARKED MY PATH." · "THE VONG IMPLANTS ENABLED ME TO USE THE COGNITION HOOD IN ONE OF THEIR CORALSKIPPERS AND ESCAPE." · "IT WAS NECESSARY FOR THE VONGS TO BELIEVE I WAS DEAD, SO THE ENTIRE SHIP AND ALL ON IT NEEDED TO DIE." · "ON THE EVE OF THE YUUZHAN VONGS INVASION, I ESCAPED BACK INTO THE GALAXY."
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 6. Escape: Force lightning through Vong warriors; "THE ENTIRE SHIP AND ALL ON IT NEEDED TO DIE". p104 (#18) [009 p405]
-![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+![p104 Hett's lightning; the Vong scout ship explodes](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:205`
 
-- Note (summary from our notes, not a quotation): ![p104 Hett's lightning; the Vong scout ship explodes](013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
+- Note (summary from our notes, not a quotation): ![p104 Hett's lightning; the Vong scout ship explodes](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p104-hett-lightning-destroys-vong-ship.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p104 — `p104-hett-lightning-destroys-vong-ship.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:208`
@@ -1710,7 +1697,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:228`
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:231`
 
-- Note (summary from our notes, not a quotation): ![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+- Note (summary from our notes, not a quotation): ![p27 Cade blocks Talon's ambush](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p27 — `p027-cade-blocks-talon-ambush.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:233`
@@ -1725,17 +1712,17 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:239`
 Context: 6. Blasts Talon across the room while still cuffed; threatens to "EXPLODE" her weak point; then heals her. p70 (#16)–p73 (#16) [009 p371–374]
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:258`
 
-- Note (summary from our notes, not a quotation): ![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p70 Talon throws Cade with the Force](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p70 — `p070-talon-force-flips-cade.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:261`
 
-- Note (summary from our notes, not a quotation): ![p71 Cade blasts Talon: "EXPLODE THAT POINT"](013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
+- Note (summary from our notes, not a quotation): ![p71 Cade blasts Talon: "EXPLODE THAT POINT"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p71 — `p071-cade-blasts-talon-explode-threat.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:264`
 
-What it shows (our notes): ![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+What it shows (our notes): ![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 > “Superbly,” he admitted.
 >
 > “Superbly,” he admitted.
@@ -1807,11 +1794,11 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:272`
 > NO THREAT, NO PURPOSE.
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p78 Talon.
-Note (our notes, around the quote): ![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+Note (our notes, around the quote): ![p78 Talon: "NO THREAT, NO PURPOSE."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
 (*Panel: p78 — `p078-talon-kicks-cade-no-threat-no-purpose.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:277`
 
-- Note (summary from our notes, not a quotation): ![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+- Note (summary from our notes, not a quotation): ![p80 Talon's cut; "HEAL YOURSELF"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p80 — `p080-talon-cuts-cade-self-heal.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:280`
@@ -1825,7 +1812,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:280`
 Note (our notes, around the quote): 8. Ambushed and dropped by Talon. p110 (#18) [009 p411]: Talon: "KNEW YOU'D COME. I'VE BEEN WAITING FOR YOU..." · Cade (blue sparks at the fingers gripping her face): "I MISSED YOUR TOUCH..." · Talon meets his palm with a violet Force sphere and blows him down: "IDIOT."
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:283`
 
-- Note (summary from our notes, not a quotation): ![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+- Note (summary from our notes, not a quotation): ![p110 Talon repels Cade: "IDIOT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p110 — `p110-talon-repels-cade-idiot.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:285`
@@ -1840,7 +1827,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:288`
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:291`
 
-- Note (summary from our notes, not a quotation): ![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p117 Cade calls the saber, strikes Talon, faces Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p117 — `p117-cade-strikes-talon-faces-nihl.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:299`
@@ -1850,37 +1837,37 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:299`
 > HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Ambush and first fight with Cade. p27 (#14)–p30 (#14) [009 p328–331]. See Cade 3. On p30 the balloon "I AM HERE ON ORDERS FROM OUR LORD KRAYT. SKYWALKER IS WANTED ALIVE." is Talon's (zoom: the tail exits left to the off-panel Talon, whose saber enters from the left); Nihl answers "PITY." · "HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?"
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
-![p27 Cade blocks Talon's ambush](013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p27 Cade blocks Talon's ambush](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p027-cade-blocks-talon-ambush.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:339`
 
 > I AM HERE ON ORDERS FROM OUR LORD KRAYT.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; ![p30 Talon.
-Note (our notes, around the quote): ![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+Note (our notes, around the quote): ![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 (*Panel: p30 — `p030-talon-here-on-orders.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:341`
 
 - Note (summary from our notes, not a quotation): 2. Throws Cade with telekinesis (not a kick), then is blasted down by him. p70 (#16)–p73 (#16). See Cade 6.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
+![p70 Talon throws Cade with the Force](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p73 Cade heals Talon: "TEACH ME THE WAYS OF THE SITH... MASTER."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p073-cade-heals-talon-teach-me-master.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:344`
 
 - Note (summary from our notes, not a quotation): 3. Beats Cade in training and in the p110 ambush. p78–80 (#17), p87 (#17), p110 (#18). See Cade 7–8. Kills a combat droid from above mid-flip (p78).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p78 Talon: "NO THREAT, NO PURPOSE."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p110 Talon repels Cade: "IDIOT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:346`
 
 > (p87) "WE SITH ARE NOT BARBARIC. WE ARE WARRIORS, BUT WE POSSESS A CULTURE AND A CIVILIZATION TO RIVAL ANY IN THE GALAXY." · Cade: "WHERE IS THE OLD MURGLAK?" · (p88) Talon: "I KILLED HIM." · "DARTH KRAYT COMMANDED IT. WE SITH DO NOT QUESTION OUR MASTER." · "KRAYT'S SITH ORDER IS MORE THAN TWO." · "HAD MY TEACHER NOT DEEMED ME READY, HE WOULD HAVE BLOCKED MY ATTACK. INSTEAD, HE EMBRACED DEATH SO THAT I MIGHT TOUCH THE DARK SIDE." · "IF YOU EVER BECOME SKILLED ENOUGH TO KILL ME, YOU WILL HONOR US BOTH WITH MY DEATH." · "I WAS BORN SITH."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 4. Killed her own master on Krayt's order. p87 (#17)–p88 (#17) [009 p388–389]
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:348`
 
-- Note (summary from our notes, not a quotation): ![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+- Note (summary from our notes, not a quotation): ![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p88 — `p088-talon-killed-her-master-more-than-two.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:351`
@@ -1894,10 +1881,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:354`
 > Have your eyes been opened yet, Skywalker?
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; 5. Sees through Cade's act. p94 (#17) [009 p395].
 Note (our notes, around the quote): 5. Sees through Cade's act. p94 (#17) [009 p395]: "I HAVE DEEPENED THE BOND THAT SKYWALKER FORGED BETWEEN US WHEN HE HEALED ME. BUT HE IS A LIAR WHO ONLY PRETENDS TO BE ONE OF US, MY LORD." · (p92, whisper lettering) "Have your eyes been opened yet, Skywalker?"
-![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+![p94 Talon reports; Krayt's "JEDI OF OLD"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:356`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:332`
 
-- Note (summary from our notes, not a quotation): ![p94 Talon reports; Krayt's "JEDI OF OLD"](013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
+- Note (summary from our notes, not a quotation): ![p94 Talon reports; Krayt's "JEDI OF OLD"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p094-talon-cade-liar-krayt-jedi-of-old.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p94 — `p094-talon-cade-liar-krayt-jedi-of-old.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:358`
@@ -1916,8 +1903,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:384`
 
 - Note (summary from our notes, not a quotation): XoXaan (p89, p91): Talon calls her Krayt's "FIRST AND GREATEST TEACHER"; she calls herself "ONE OF THE FIRST OF THE SITH LORDS".
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p89 Hett becomes a bounty hunter; vs Resk](013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
-![p91 Hett shatters the barrier; XoXaan](013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
+![p89 Hett becomes a bounty hunter; vs Resk](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p089-hett-bounty-hunter-resk.jpg) *(p89)*
+![p91 Hett shatters the barrier; XoXaan](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p091-hett-shatters-barrier-xoxaan.jpg) *(p91)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:443`
 
 - Note (summary from our notes, not a quotation): | 3 | Cade vs Talon; Nihl intervenes | Sith Temple lower levels | p27–30 (#14) | Cade ahead (Talon tumbles), then Nihl drops him from behind | Talon's ambush sensed; both Sith under orders to take him alive |
@@ -1953,9 +1940,9 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:500`
 > BARGAINING ASSUMES WE ARE EQUALS. WE ARE NOT. *(p45)*
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Darth Krayt. POV: Darth Krayt, about Darth Talon.
 Label in our notes: Talon, p70). (Talon, p88). (p45
-![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p45 "YOU HAVE POWER, SKYWALKER" / the bargain](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p045-krayt-you-have-power-bargain.jpg)
+![p70 Talon throws Cade with the Force](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:510`
 
 > YOU WERE INTENDED TO BE LORD KRAYT'S FIST ... YOU ARE ONLY A HAND BECAUSE YOUR PREDECESSOR DIED...PREMATURELY...AND TALON WAS NOT YET READY. *(Maladi, p50)*
@@ -1965,8 +1952,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:510`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels. POV: Maladi, about Darth Talon.
 Note (our notes, around the quote): The Hands, Talon and Nihl: Nihl, "AS ONE OF DARTH KRAYT'S HANDS" (p49); "YOU WERE INTENDED TO BE LORD KRAYT'S FIST ... YOU ARE ONLY A HAND BECAUSE YOUR PREDECESSOR DIED...PREMATURELY...AND TALON WAS NOT YET READY." (Maladi, p50). Talon: "I WAS BORN SITH." (p88).
-![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:512`
 
 > KRAYT'S SITH ORDER IS MORE THAN TWO. *(Talon, p88)*
@@ -1976,15 +1963,15 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:512`
 > BANE CHANGED THE RULES AND CHANGED THE SITH -- NOW I WILL CHANGE THEM AGAIN. *(p103)*
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Rule of One. POV: Rule of One, about Darth Talon.
 Label in our notes: Talon, p88). (Hett, p103). (p103
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
-![p103 Hett and Vergere on the Rule of Two](013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p103 Hett and Vergere on the Rule of Two](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p103-hett-vergere-rule-of-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:516`
 
 > CLAIMED TO HAVE BEEN TRAINED AS A SITH BY THE EMPEROR *(p102)*
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels. POV: Talon.
 Note (our notes, around the quote): Lineage: XoXaan, "ONE OF THE FIRST OF THE SITH LORDS" (p91), "HIS FIRST AND GREATEST TEACHER" (Talon, p89); Vergere "CLAIMED TO HAVE BEEN TRAINED AS A SITH BY THE EMPEROR" (p102).
-![p102 "MY BODY WAS ENHANCED"; the vision](013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
+![p102 "MY BODY WAS ENHANCED"; the vision](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p102-hett-body-enhanced-vision.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:517`
 
 - Note (summary from our notes, not a quotation): Counter: the Nihl win comes right after a surprise burst caught Nihl, and Cade is in a heightened rage state. Talon beats him twice (p78–80, p110). Against Krayt he ends up on the floor before Corde's shot (p132), and Krayt is holding back because he needs him alive (p112). Krayt's own rating: "NEITHER JEDI NOR SITH" (p128).
@@ -1994,10 +1981,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:558`
 
 - Note (summary from our notes, not a quotation): Talon. Use: her training wins and the p110 ambush; her TK throw (p70). Counter: Cade's surprise blasts drop her twice (p71, p117). Roughly even overall, framed as more skilled.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
-![p71 Cade blasts Talon: "EXPLODE THAT POINT"](013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p70 Talon throws Cade with the Force](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p71 Cade blasts Talon: "EXPLODE THAT POINT"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
+![p110 Talon repels Cade: "IDIOT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:564`
 
 > NO, YOU USE THE FORCE TO PURGE YOURSELF, BENDING IT TO YOUR WILL...LIKE A SITH...
@@ -2006,12 +1993,12 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:564`
 > THEN HE REALIZES THE LIMITATIONS OF THE JEDI TEACHINGS.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): The torturer on p37 (= 009 p338) is Darth Maladi, not Talon. "DESPITE A FULL DAY OF INJECTIONS…", "I SUPPLY THEM." and "NO, YOU USE THE FORCE TO PURGE YOURSELF, BENDING IT TO YOUR WILL...LIKE A SITH..." are Maladi's; "THEN HE REALIZES THE LIMITATIONS OF THE JEDI TEACHINGS." is the arriving Krayt (009 had the speaker UNCLEAR; the crop is renamed `p338-maladi-cade-purges-drug-like-sith.jpg`).
-![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
+![p37 Maladi: "BENDING IT TO YOUR WILL...LIKE A SITH..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p037-maladi-cade-purges-ixetal.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:605`
 
 - Note (summary from our notes, not a quotation): 009 p371 (= 013 p70): Talon throws Cade with telekinesis (a violet Force sphere), not a kick.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p70 Talon throws Cade with the Force](013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
+![p70 Talon throws Cade with the Force](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p070-talon-force-flips-cade.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:621`
 
 - Note (summary from our notes, not a quotation): p79 whether Talon has two sabers in the spar.
@@ -2022,7 +2009,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:645`
 - Note (summary from our notes, not a quotation): p117 whether Cade's strike on Talon is a saber cut or a palm burst.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: UNCLEAR:
-![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+![p117 Cade calls the saber, strikes Talon, faces Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:648`
 
 - Note (summary from our notes, not a quotation): p137 whether Krayt physically grabs Talon.
@@ -2111,8 +2098,8 @@ Our notes: `legends-feats.md:2353`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: "One of the most formidable lightsaber duelists in the Sith Order" despite "relative inexperience"; killed her master Darth Ruyn on Krayt's order (material 011; p173; debate #67)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `legends-feats.md:2457`
 
 - Note (summary from our notes, not a quotation): Stats: CL 13. UtF +14 (below the generic Imperial Knight's +16). Ref 30, Fort 29, Will 28. hp 109. Lightsaber +18 (2d8+8). (material 011; p174)

@@ -14,7 +14,6 @@
 > In a one-on-one blaster duel, Gallandro outdrew Han and incapacitated the Corellian with a blaster wound to the shoulder.
 — Source: Part Four: Profiles in History; Han Solo — Gallandro outdraws Han.
 Note (our notes, around the quote): Han Solo — Gallandro outdraws Han: "In a one-on-one blaster duel, Gallandro outdrew Han and incapacitated the Corellian with a blaster wound to the shoulder." Source: The New Essential Chronology, p.95
-![Quote image: The New Essential Chronology, p.95 — full quote as printed](quotes/nec-p95-gallandro-outdraws-han.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:54`
 
 > Tre Return of Brack Sun 24 ABY.
@@ -28,7 +27,6 @@ Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-i
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Han Solo — Anja, Gallandro's daughter: "She revealed that she was the daughter of Gallandro, the gunslinger whom Han Solo had battled in his early smuggling days." Source: The New Essential Chronology, p.202
-![Quote image: The New Essential Chronology, p.202 — full quote as printed](quotes/nec-p202-anja-gallandros-daughter.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:72`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -42,7 +40,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Gallandro — entry/section: Gallandro: "Han found the treasure chambers and Gallandro challenged him to a duel." Source: The Complete Star Wars Encyclopedia, Vol. I, p.315
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.315 — full quote as printed](quotes/v1-p315-han-found-the-treasure-chambers-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:69`
 
 > She origi­ nally hoped to get revenge against Han Solo for her father's death, but after the twins helped her through her spice addiction she changed her mind. Lando Calrissian offered her a job as a pilot, and she accepted. Gallant (/) An Alliance escort carrier, it was active during the height of the Galactic Civil War. Gallant (2) A Victory-class Star Destroyer, it was dispatched to Murkhana during the final stages of the Clone Wars. Gallant (3) A New Republic Majestic-class heavy cruiser, it was part of the Fifth Battle Group activated in the Yevethan crisis. It took part in the unsuccessful blockade of Doornik- 319, but survived the counterassault. jedi MasterAdi Ga/lia Gallant Haven An assault frigate Mark II capital ship, it was active a couple ofyears be­ fore the Battle of Yavin. Gallant Sun A Victory-class Imperial Star Destroyer, it was destroyed by Rebel Alliance forces at the shipyards at Pendari. The Alli­ ance employed a computer slicer to discover the ship's refitting schedule, and the infor­ mation allowed Rebels to destroy the ship with minimal loss of life. GallapraxlssystemA star sys­ tem, it once was under the control of the crime lord Drex. Galle, Lieutenant A member of the 327th Star Corps of the Grand Army of the Republic during the Clone Wars, his official designation was CT-6734.
@@ -50,13 +47,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Gallandro — entry/section: Gallandro: "It took part in the unsuccessful blockade of Doornik- 319, but survived the counterassault." Source: The Complete Star Wars Encyclopedia, Vol. I, p.316
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.316 — full quote as printed](quotes/v1-p316-it-took-part-in-the-unsuccessful.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:76`
 
 > After much fighting, Goelitz was defeated by members of the Ylix militia, including the infamous gunman Gallandro.
 — Source: scan pages 361–398; Gallandro. POV: Gallandro.
 Note (our notes, around the quote): Gallandro: "After much fighting, Goelitz was defeated by members of the Ylix militia, including the infamous gunman Gallandro." Source: The Complete Star Wars Encyclopedia, Vol. I, p.350
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.350 — full quote as printed](quotes/v1-p350-after-much-fighting-goelitz-was-defeated.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:38`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -64,7 +59,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Nearly half the Inner Circle was killed during its brief feud with Gallandro.
 — Source: scan pages 81–120; Gallandro. POV: Gallandro.
 Note (our notes, around the quote): Gallandro: "Nearly half the Inner Circle was killed during its brief feud with Gallandro." Source: The Complete Star Wars Encyclopedia, Vol. II, p.104
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.104 — full quote as printed](quotes/v2-p104-nearly-half-the-inner-circle-was.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:187`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -72,7 +66,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan
 > Though proficient at laying traps, he was accidentally killed by Anja Gallandro's explosives.
 — Source: scan pages 41–80; Gallandro. POV: Gallandro.
 Note (our notes, around the quote): Gallandro: "Though proficient at laying traps, he was accidentally killed by Anja Gallandro's explosives." Source: The Complete Star Wars Encyclopedia, Vol. III, p.47
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.47 — full quote as printed](quotes/v3-p47-though-proficient-at-laying-traps-he.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:106`
 
 ## Star Wars Insider #31 (1996)

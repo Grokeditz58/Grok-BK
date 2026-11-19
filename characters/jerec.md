@@ -14,13 +14,12 @@
 > A few Jedi, such as the blind archaeologist Jerec, embraced the dark side to save their own lives.
 — Source: Part Three: The Empire and the New Order; Jerec — Jerec.
 Note (our notes, around the quote): Jerec — Jerec: "A few Jedi, such as the blind archaeologist Jerec, embraced the dark side to save their own lives." Source: The New Essential Chronology, p.85
-![Quote image: The New Essential Chronology, p.85 — full quote as printed](quotes/nec-p85-jerec.jpg)
+![Quote image: The New Essential Chronology, p.85 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p85-jerec.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/03-part-three-empire-new-order.md:11`
 
 > Jerec planned to use the valley's power to topple Isard and rule a vast new Empire. Katarn single-handedly defeated Jerec and his minions before the Dark Jedi's grandiose plans could come to fruition.
 — Source: Part Six: Birth of the New Republic; Jerec — Katarn defeats Jerec.
 Note (our notes, around the quote): Jerec — Katarn defeats Jerec: "Jerec planned to use the valley's power to topple Isard and rule a vast new Empire. Katarn single-handedly defeated Jerec and his minions before the Dark Jedi's grandiose plans could come to fruition." Source: The New Essential Chronology, p.136
-![Quote image: The New Essential Chronology, p.136 — full quote as printed](quotes/nec-p136-katarn-defeats-jerec.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:57`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -32,49 +31,41 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > Rather than allow himself to be killed, Jerec pledged his allegiance to the Empire and obtained training from the Dark Side Adepts of Palpatine's own Prophets of the Dark Side.
 — Source: scan pages 161–200; Jerec; Palpatine (Darth Sidious) — entry/section: Jerec.
 Note (our notes, around the quote): Jerec; Palpatine (Darth Sidious) — entry/section: Jerec: "Rather than allow himself to be killed, Jerec pledged his allegiance to the Empire and obtained training from the Dark Side Adepts of Palpatine's own Prophets of the Dark Side." Source: The Complete Star Wars Encyclopedia, Vol. II, p.157
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.157 — full quote as printed](quotes/v2-p157-rather-than-allow-himself-to-be.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:26`
 
 > It was unknown how Jerec survived the explosion, but he managed to escape in a Starfly and ordered a recovery team to pick up the pieces of the Vengeance.
 — Source: scan pages 161–200; Jerec — entry/section: Jerec.
 Note (our notes, around the quote): Jerec — entry/section: Jerec: "It was unknown how Jerec survived the explosion, but he managed to escape in a Starfly and ordered a recovery team to pick up the pieces of the Vengeance." Source: The Complete Star Wars Encyclopedia, Vol. II, p.157
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.157 — full quote as printed](quotes/v2-p157-it-was-unknown-how-jerec-survived.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:28`
 
 > Jerec himself briefly experienced the true power of the Valley, but his rapturous connection was severed by Katarn.
 — Source: scan pages 161–200; Jerec; Kyle Katarn — entry/section: Jerec.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec: "Jerec himself briefly experienced the true power of the Valley, but his rapturous connection was severed by Katarn." Source: The Complete Star Wars Encyclopedia, Vol. II, p.157
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.157 — full quote as printed](quotes/v2-p157-jerec-himself-briefly-experienced-the-true.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:30`
 
 > Deep in the Valley of the Jedi, Kyle confronted Jerec, the very man who had killed his father.
 — Source: scan pages 201–240; Kyle Katarn; Jerec — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Katarn, Kyle: "Deep in the Valley of the Jedi, Kyle confronted Jerec, the very man who had killed his father." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-deep-in-the-valley-of-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:74`
 
 > The two battled, and when Katarn slew Jerec, he fulfilled an ancient prophecy.
 — Source: scan pages 201–240; Kyle Katarn; Jerec — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Katarn, Kyle: "The two battled, and when Katarn slew Jerec, he fulfilled an ancient prophecy." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-the-two-battled-and-when-katarn.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:76`
 
 > When Morgan was trying to protect the Valley of the Jedi from being exploited by Jerec, the Dark Jedi decapitated him and placed his severed head on a pike.
 — Source: scan pages 201–240; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "When Morgan was trying to protect the Valley of the Jedi from being exploited by Jerec, the Dark Jedi decapitated him and placed his severed head on a pike." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-when-morgan-was-trying-to-protect.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:82`
 
 > Maw was one of the few Jedi who survived the devastating Jedi Purge, but he was hunted down by Jerec and turned to the dark side of the Force.
 — Source: scan pages 281–320; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "Maw was one of the few Jedi who survived the devastating Jedi Purge, but he was hunted down by Jerec and turned to the dark side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.295
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.295 — full quote as printed](quotes/v2-p295-maw-was-one-of-the-few.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:184`
 
 > Katarn used the ship for many years, until the Moldy Crow was destroyed during a mission to defeat Jerec.
 — Source: scan pages 321–360; Kyle Katarn; Jerec.
 Note (our notes, around the quote): Kyle Katarn; Jerec: "Katarn used the ship for many years, until the Moldy Crow was destroyed during a mission to defeat Jerec." Source: The Complete Star Wars Encyclopedia, Vol. II, p.324
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.324 — full quote as printed](quotes/v2-p324-katarn-used-the-ship-for-many.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:71`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -82,25 +73,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > She also helped train the dark sider Merili, and was often part of the Secret Order entourage sent to the Super Star Destroyer Vengeance to confer with the Dark Jedi Jerec.
 — Source: scan pages 121–160; Sariss; Jerec — entry/section: Sariss.
 Note (our notes, around the quote): Sariss; Jerec — entry/section: Sariss: "She also helped train the dark sider Merili, and was often part of the Secret Order entourage sent to the Super Star Destroyer Vengeance to confer with the Dark Jedi Jerec." Source: The Complete Star Wars Encyclopedia, Vol. III, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.127 — full quote as printed](quotes/v3-p127-she-also-helped-train-the-dark.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:96`
 
 > Prior to the Battle of Endor, the Dark Jedi Jerec sought out Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance.
 — Source: scan pages 161–200; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "Prior to the Battle of Endor, the Dark Jedi Jerec sought out Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance." Source: The Complete Star Wars Encyclopedia, Vol. III, p.184
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.184 — full quote as printed](quotes/v3-p184-prior-to-the-battle-of-endor.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:343`
 
 > When he lost the vessel in the effort, Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance Il, though with its predecessor destroyed, the numerical amendment was infrequently applied.
 — Source: scan pages 281–320; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "When he lost the vessel in the effort, Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance Il, though with its predecessor destroyed, the numerical amendment was infrequently applied." Source: The Complete Star Wars Encyclopedia, Vol. III, p.302
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.302 — full quote as printed](quotes/v3-p302-when-he-lost-the-vessel-in.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:215`
 
 > After Kyle defeated Jerec and returned to the New Republic, he took WeeGee with him, and the droid gladly accepted a position on a naval maintenance team.
 — Source: scan pages 321–360; Kyle Katarn; Jerec.
 Note (our notes, around the quote): Kyle Katarn; Jerec: "After Kyle defeated Jerec and returned to the New Republic, he took WeeGee with him, and the droid gladly accepted a position on a naval maintenance team." Source: The Complete Star Wars Encyclopedia, Vol. III, p.324
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.324 — full quote as printed](quotes/v3-p324-after-kyle-defeated-jerec-and-returned.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:69`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -108,13 +95,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > Kyle easily defeated Jerec's minions and sought out the Dark Jedi for revenge.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor: "Kyle easily defeated Jerec's minions and sought out the Dark Jedi for revenge." Source: Power of the Jedi Sourcebook, p.131
-![Quote image: Power of the Jedi Sourcebook, p.131 — full quote as printed](quotes/potj-p131-kyle-easily-defeated-jerecs-minions-and.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:287`
 
 > Kyle's yearning for revenge was nearly his undoing, but he ultimately prevailed, defeating Jerec without giving into hatred and thus fulfilling a thousand-year-old prophecy.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor: "Kyle's yearning for revenge was nearly his undoing, but he ultimately prevailed, defeating Jerec without giving into hatred and thus fulfilling a thousand-year-old prophecy." Source: Power of the Jedi Sourcebook, p.131
-![Quote image: Power of the Jedi Sourcebook, p.131 — full quote as printed](quotes/potj-p131-kyles-yearning-for-revenge-was-nearly.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:289`
 
 ## The New Essential Guide to Characters (2002)
@@ -122,49 +107,41 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Jerec tries to unlock the power of Ruusan's Valley of the Jedi but is defeated by Kyle Katarn.
 — Source: scan pages 1–30; Jerec; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Kyle Katarn: "Jerec tries to unlock the power of Ruusan's Valley of the Jedi but is defeated by Kyle Katarn." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-jerec-tries-to-unlock-the-power.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:52`
 
 > He killed Morgan Katarn, father to Imperial Cadet Kyle Katarn, then a short time later Jerec decorated Kyle at the Caridan Academy's graduation ceremony.
 — Source: scan pages 61–90; Kyle Katarn; Jerec.
 Note (our notes, around the quote): Kyle Katarn; Jerec: "He killed Morgan Katarn, father to Imperial Cadet Kyle Katarn, then a short time later Jerec decorated Kyle at the Caridan Academy's graduation ceremony." Source: The New Essential Guide to Characters, p.95
-![Quote image: The New Essential Guide to Characters, p.95 — full quote as printed](quotes/negc-p95-he-killed-morgan-katarn-father-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:197`
 
 > Jerec planned to use Spore's contaminated army to overthrow the Emperor, but space slugs in Ithor's asteroid field destroyed the Vengeance.
 — Source: scan pages 61–90; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "Jerec planned to use Spore's contaminated army to overthrow the Emperor, but space slugs in Ithor's asteroid field destroyed the Vengeance." Source: The New Essential Guide to Characters, p.96
-![Quote image: The New Essential Guide to Characters, p.96 — full quote as printed](quotes/negc-p96-jerec-planned-to-use-spores-contaminated.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:204`
 
 > Though he survived, Jerec became more cautious, and he postponed further coup attempts.
 — Source: scan pages 61–90; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "Though he survived, Jerec became more cautious, and he postponed further coup attempts." Source: The New Essential Guide to Characters, p.96
-![Quote image: The New Essential Guide to Characters, p.96 — full quote as printed](quotes/negc-p96-though-he-survived-jerec-became-more.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:206`
 
 > Katarn had already defeated three of Jerec's allies, Yun, Gore, and Pic, and Jerec set a trap for the Jedi initiate at the Ruusan tower, threatening the life of Katarn's partner in the hope of luring Katarn to the dark side.
 — Source: scan pages 61–90; Kyle Katarn; Jerec; Yun (Dark Jedi).
 Note (our notes, around the quote): Kyle Katarn; Jerec; Yun (Dark Jedi): "Katarn had already defeated three of Jerec's allies, Yun, Gore, and Pic, and Jerec set a trap for the Jedi initiate at the Ruusan tower, threatening the life of Katarn's partner in the hope of luring Katarn to the dark side." Source: The New Essential Guide to Characters, p.96
-![Quote image: The New Essential Guide to Characters, p.96 — full quote as printed](quotes/negc-p96-katarn-had-already-defeated-three-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:208`
 
 > One year after Endor, he learned from the droid information broker 8t88 that Jerec—the same Dark Jedi who had awarded him his Imperial medal—had been the one who'd killed his father.
 — Source: scan pages 91–120; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "One year after Endor, he learned from the droid information broker 8t88 that Jerec—the same Dark Jedi who had awarded him his Imperial medal—had been the one who'd killed his father." Source: The New Essential Guide to Characters, p.103
-![Quote image: The New Essential Guide to Characters, p.103 — full quote as printed](quotes/negc-p103-one-year-after-endor-he-learned.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:53`
 
 > Jerec's six underlings—Yun, Gore, Pic, Maw, Sariss, and Boc the Crude— proved no match for Katarn, inexperienced though he was.
 — Source: scan pages 91–120; Jerec; Yun (Dark Jedi); Sariss; Boc Aseca; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Yun (Dark Jedi); Sariss; Boc Aseca; Kyle Katarn: "Jerec's six underlings—Yun, Gore, Pic, Maw, Sariss, and Boc the Crude— proved no match for Katarn, inexperienced though he was." Source: The New Essential Guide to Characters, p.103
-![Quote image: The New Essential Guide to Characters, p.103 — full quote as printed](quotes/negc-p103-jerecs-six-underlings-yun-gore-pic.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:55`
 
 > In the final showdown with Jerec, in the Valley of the Jedi, he put aside his hatred, refusing to kill Jerec in cold blood and defeating him in fair combat.
 — Source: scan pages 91–120; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "In the final showdown with Jerec, in the Valley of the Jedi, he put aside his hatred, refusing to kill Jerec in cold blood and defeating him in fair combat." Source: The New Essential Guide to Characters, p.103
-![Quote image: The New Essential Guide to Characters, p.103 — full quote as printed](quotes/negc-p103-in-the-final-showdown-with-jerec.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:57`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -178,7 +155,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:284`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Jerec; Kyle Katarn: "Jerec slew Rahn and Katarn and eventually discovered the location of the Valley of the Jedi on Ruusan." Source: Dark Side Sourcebook, p.102
-![Quote image: Dark Side Sourcebook, p.102 — full quote as printed](quotes/dss-p102-jerec-slew-rahn-and-katarn-and.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:293`
 
 > Jerec learned that a Jedi named Qu Rahn was also seeking the Valley of the Jedi, and that Qu Rahn learned which planet it was on from a Rebel named Morgan Katarn. Jerec slew Rahn and Katarn and eventually discovered the location of the Valley of the Jedi on Ruusan. Pursued by Katarn's vengeful son, Kyle Katarn, Jerec and his Dark Jedi hurried to Ruusan. JereC'S followers held Kyle off long enough for Jerec to access the Valley's secrets and gain phenomenal Force powers. But even with his increased might, Jerec was unable to defeat Kyle or to prevent him from freeing the Valley's trapped Jedi spirits. Jerec: Male Human, Jedi Guardian 15; lnit +2; Defense 23 (+11 class, +2 Dex); Spd l0m; VP/WP 108/15; Atk +17/+12/+7 melee (5d8+2/19-20, lightsaber) or +17/+12/+7 ranged; SV Fort +11, Ref +11, Will +8; SZ M; FP 7; DSP 15; Rep 8; Str 14, Dex 15, Con 15, lnt 14, Wis 13, Cha 14. Challenge Code: G. Equipment: Lightsaber. Skills: Computer Use +6, Intimidate +10, Knowledge (Jedi lore) +8, Knowledge (Sith lore) +6, Read/Write Basic, Read/Wdte Sith, Speak Basic, Speak Sith.
@@ -186,7 +162,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:293`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Jerec; Kyle Katarn: "But even with his increased might, Jerec was unable to defeat Kyle or to prevent him from freeing the Valley's trapped Jedi spirits." Source: Dark Side Sourcebook, p.102
-![Quote image: Dark Side Sourcebook, p.102 — full quote as printed](quotes/dss-p102-but-even-with-his-increased-might.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:295`
 
 - Note (summary from our notes, not a quotation): Page contents: 1258 words, 121 paragraphs | headings/entries: Index; Drain Energy 14, 17; Drain Force 17; Drain Knowledge 15, 17, 40; Durron, Kyp 12, 104, 105; Dxun tomb beast 112; Emperor Reborn 120, 126; Empress Teta system 8, 74, 75, 76; Endor 10, 91, 92, 94, 110; Force, the 6, 7, 40, 55; Force illusions 16; Force Points, gaining 40; Force-based skills 13, 17; Gepta, Rokur 80; Gethzerion 81, 82, 108, 134; Great Hyperspace War, the 7,; Harth, Set 83; Hatred (feat) 18; Hethrir, Lord 92, 93; Illusion (feat) 15, 17; Imperial campaign 51; Imperial Sentinel 99; Imperial Sovereign Protector 92, 99; Interrogator droid 63; Ismaren, trek 106; Jade, Mara 26, 53, 99; Jedgar 94, 96; Jedi characters 20; Jedi consular 158; Jedi, corrupted 31; Jedi guardian 157; Jedi, history of 7; Jedi hunters 87; Jerec 101; Kadanm 94, 96, 97 Kai,; Tamith 108, 109; Kalgrath 116; Sedriss, Executor 99, 102; Sense (feat) 54; Sing, Aurra 87, 88; Sith acolyte 31, 74; Skywalker, Luk
@@ -204,7 +179,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > Although he defeated Jerec, he ultimately decided that the way of the Jedi was not for him.
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Kyle Katarn; Jerec — entry/section: Star Wars Gamer 09.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Star Wars Gamer 09: "Although he defeated Jerec, he ultimately decided that the way of the Jedi was not for him." Source: *Star Wars Gamer 09* (SWRPG d20), scan p.92
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.92 — full quote as printed](quotes/d058-s92-although-he-defeated-jerec-he-ultimately.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-104.md:244`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -222,19 +196,16 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > Thus, Kyle joined the Academy on Carida as soon as he turned 18, hoping to alleviate some of the burden on his father while getting a first-rate free education. At the Academy, Kyle excelled at cybernetics systems theory and information engineering. Tragedy struck again, however, when the Dark Jedi Jerec discovered Morgan Katarn's Rebel ties and personally beheaded him. When Kyle discovered the treachery of his Imperial masters, he went rogue, working as a mercenary, pirate, and loose Rebel operative with his close friend Jan Ors to undermine the Imperial war machine.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Morgan Katarn; Jan Ors — entry/section: Kyle goes rogue: "Thus, Kyle joined the Academy on Carida as soon as he turned 18, hoping to alleviate some of the burden on his father while getting a first-rate free education. At the Academy, Kyle excelled at cybernetics systems theory and information engineering. Tragedy struck again, however, when the Dark Jedi Jerec discovered Morgan Katarn's Rebel ties and personally beheaded him. When Kyle discovered the treachery of his Imperial masters, he went rogue, working as a mercenary, pirate, and loose Rebel operative with his close friend Jan Ors to undermine the Imperial war machine." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-thus-kyle-joined-the-academy-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:14`
 
 > One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Qu Rahn; Jan Ors; Morgan Katarn; Lord Kaan — entry/section: Kyle on Ruusan: "One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-one-year-after-the-destruction-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:16`
 
 > Nearly eight years after Kyle defeated Jerec on Ruusan, the valley was threatened once again, this time by a former student of Master Skywalker called Desann, forcing Kyle to work alongside Luke to protect the galaxy. After defeating the Dark Jedi, Kyle returned to the Jedi academy with renewed confidence.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Luke Skywalker; Desann — entry/section: Kyle and Desann.
 Note (our notes, around the quote): Kyle Katarn; Luke Skywalker; Desann — entry/section: Kyle and Desann: "Nearly eight years after Kyle defeated Jerec on Ruusan, the valley was threatened once again, this time by a former student of Master Skywalker called Desann, forcing Kyle to work alongside Luke to protect the galaxy. After defeating the Dark Jedi, Kyle returned to the Jedi academy with renewed confidence." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-nearly-eight-years-after-kyle-defeated.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:27`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -247,7 +218,6 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > [fragment — full passage not on file]
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Qu Rahn; Yoda; Halagad Ventor; Darth Vader (Anakin Skywalker); Jerec — entry/section: Rahn and Yoda's gold lightsaber: "One of the survivors of the Jedi Purge, Master Qu Rahn had been trained by Master Yoda years earlier while a Jedi youngling in the Katarn Clan, so named for a deadly Kashyyyk predator. A passionately loyal Jedi, Rahn was among the Jedi hidden at the location betrayed by the Jedi Halagad Ventor to Darth Vader. Deeply sickened by the actions of Jedi traitors like Vader, Ventor, and Jerec, Rahn made a risky visit to Yoda on Dagobah to soothe his troubled mind. Instead, Yoda digressed cryptically about a "valley of Jedi souls," handed Rahn a gold lightsaber, and elevated him to the rank of Jedi Master, promising Rahn that one day he would understand. Puzzled, Rahn accepted the gift, vowing to protect the lightsaber as it would him." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d129-s2-one-of-the-survivors-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:29`
 
 > One of Master Yoda’s pronouncements floated up from his memory. If once you start down the dark path, his old teacher had warned, forever will it dominate your destiny. “It did, too, didn’t it?” he murmured, half to himself, as all the errors and mistakes and, yes, the arrogance of the past nine years rose accusingly before his eyes. “What was I thinking?”
@@ -258,19 +228,16 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Vision of the Future (Timothy Zahn), Chapter 15 (text copy `MEGA_Legend_The_Hand_of_Thrawn_Duology_Star_Wars_Hand_of_Thrawn_02_Vision_of_the_Future_Timothy_Zahn_epub`).)
 (Full sentence/passage taken from the source text on file: `novels_tmp_vision_of_the_future_vision_of_the_future_epub`.)
 Note (our notes, around the quote): Qu Rahn; Jerec; Halagad Ventor; Yoda — entry/section: Rahn's obsessive search: "Rahn spent the following decades looking obsessively for the so-called Valley of the Souls, but the place seemed as mythic as Millinar or the Lost City of the Jedi. What's more, the Inquisitorius looked for Jedi just as obsessively, and eventually the Inquisitor Jerec learned about Rahn's search. The race was now on. At times, Rahn almost hoped Jerec would find him, so he could exact justice on the traitor. Rahn even heard one day that another of the Jedi betrayers, Ventor, had been found by a Rebel team and redeemed, but Rahn dismissed the incredulous rumor. "Once you start down the dark path," Yoda had said, "forever will it dominate your destiny.” Turncoats like Ventor and Vader were beyond redemption." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d129-s2-rahn-spent-the-following-decades-looking.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:31`
 
 > Rahn was eventually captured by Jerec and his Dark Jedi, and Yoda's lightsaber stripped from his possession. Having foreseen this event, Rahn attempted to will himself to die, but such Jedi tricks were old hat for Imperial Inquisitors. Jerec prevented Rahn from taking his own life and leeched the information he required from the Jedi's mind. Failing to keep his master's weapon and betraying the secret of the valley, Rahn was crushed. He was no better than the Jedi traitors he despised, he realized. At that moment, the Jedi Master gave into despair, stealing the Dark Jedi Yun's lightsaber and launching himself aggressively at his Dark Side captors.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa; Qu Rahn; Jerec; Yun (Dark Jedi) — entry/section: Rahn's capture.
 Note (our notes, around the quote): Qu Rahn; Jerec; Yun (Dark Jedi) — entry/section: Rahn's capture: "Rahn was eventually captured by Jerec and his Dark Jedi, and Yoda's lightsaber stripped from his possession. Having foreseen this event, Rahn attempted to will himself to die, but such Jedi tricks were old hat for Imperial Inquisitors. Jerec prevented Rahn from taking his own life and leeched the information he required from the Jedi's mind. Failing to keep his master's weapon and betraying the secret of the valley, Rahn was crushed. He was no better than the Jedi traitors he despised, he realized. At that moment, the Jedi Master gave into despair, stealing the Dark Jedi Yun's lightsaber and launching himself aggressively at his Dark Side captors." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d129-s2-rahn-was-eventually-captured-by-jerec.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:35`
 
 > All proved for naught, however, as a telekinetic blast of darkness from Jerec brought Rahn to his knees, and the Dark Jedi approached to slay him. Yoda's promise of understanding echoed in Rahn's mind as Jerec struck him down. At that moment, an explosion of light filled Rahn's vision and the glowing spirits of Anakin Skywalker and Halagad Ventor appeared before him, men the Jedi Master had never known yet had truly hated his entire life. Rahn smiled at this, Master Yoda's final lesson, before fading into the Light.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Qu Rahn; Jerec; Darth Vader (Anakin Skywalker); Halagad Ventor; Yoda — entry/section: Rahn's death: "All proved for naught, however, as a telekinetic blast of darkness from Jerec brought Rahn to his knees, and the Dark Jedi approached to slay him. Yoda's promise of understanding echoed in Rahn's mind as Jerec struck him down. At that moment, an explosion of light filled Rahn's vision and the glowing spirits of Anakin Skywalker and Halagad Ventor appeared before him, men the Jedi Master had never known yet had truly hated his entire life. Rahn smiled at this, Master Yoda's final lesson, before fading into the Light." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d129-s2-all-proved-for-naught-however-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:37`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 3.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -281,7 +248,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 
 - Note (summary from our notes, not a quotation): Jerec; Palpatine (Darth Sidious); Kyle Katarn; Morgan Katarn — entry/section: Jerec's Dark Side Elite: "One man who took the title of Dark Jedi with pride was Jerec -- the enigmatic Force-user who murdered Kyle Katarn's father -- but he did not do so alone. Inspired by glimpses into the Emperor's Dark Side Compendium, Jerec intended to bring to fruition an experiment Palpatine had spoken of in his malignant tome: the creation of a unit of seven Dark Jedi perfectly absorbed into the Emperor's will, a "Dark Side Elite." Unfortunately for Jerec, the Emperor readily recognized the darksider's ambition and denied Jerec further access to the Compendium, ending the audacious experiment. Nonetheless, Jerec at least managed to assemble a cabal of Dark Jedi willing to do his bidding." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 3.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d130-s1-one-man-who-took-the-title.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:12`; `suspect-insight/debates/102-darth-tyranus-vs-marka-ragnos.md:291`
 
 > His mind absorbed her teachings, while his ears took in the soft sound of her voice, his nose her sweet Nova Starlight fragrance, his eyes the tantalizing gold locks that escaped her concealing hood. His affections did not go unnoticed or unreturned. The woman seduced Yun, but claimed she was constrained from acting on her ardor by her vow to Yun's father. Yun committed patricide for love and succumbed to the dark side. The woman, Sariss, seized the baron's assets, bringing them and the tainted Yun to Jerec. Physical indulgence and death became common for Yun in Sariss's company, and eventually the young man found both wanting. He could feel that Sariss didn't truly love him, not as he did her, and he wondered if she'd been worth his father's murder . . . or that of his Palawan masters . . . or any of a number of other senseless slayings. Sariss had taught Yun how to suppress his guilt by the time he participated in Rahn's execution, for which he felt little remorse. But when he was bested and spared by Kyle Katarn, who'd also lost his father thanks to Jerec, Yun's feelings of guilt resurfaced. The spirit of Jedi Master Rahn further encouraged Yun to seek redemption. The young Jedi did so by betraying his mentor Sariss and saving Kyle from the blade of her lightsaber.
@@ -289,7 +255,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 Note (our notes, around the quote): Yun (Dark Jedi); Sariss; Jerec — entry/section: Yun's doubts: "The woman, Sariss, seized the baron's assets, bringing them and the tainted Yun to Jerec. Physical indulgence and death became common for Yun in Sariss's company, and eventually the young man found both wanting. He could feel that Sariss didn't truly love him, not as he did her, and he wondered if she'd been worth his father's murder . . . or that of his Palawan masters . . . or any of a number of other senseless slayings." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d130-s1-the-woman-sariss-seized-the-barons.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:18`
 
 > Physical indulgence and death became common for Yun in Sariss's company, and eventually the young man found both wanting. He could feel that Sariss didn't truly love him, not as he did her, and he wondered if she'd been worth his father's murder . . . or that of his Palawan masters . . . or any of a number of other senseless slayings. Sariss had taught Yun how to suppress his guilt by the time he participated in Rahn's execution, for which he felt little remorse. But when he was bested and spared by Kyle Katarn, who'd also lost his father thanks to Jerec, Yun's feelings of guilt resurfaced. The spirit of Jedi Master Rahn further encouraged Yun to seek redemption. The young Jedi did so by betraying his mentor Sariss and saving Kyle from the blade of her lightsaber. Yun was surprised when Sariss reflexively dealt him a killing blow, but felt only a mixture of pity for his teacher and rapture when the light of the Force engulfed him. Yun: Male Epicanthix* Noble 2/Force Adept 3/Jedi Guardian 1; Init +2; Defense 18 (+2 Dex, +6 class); Spd 10 m; VP/WP 30/11; Atk +6/+1 melee (2d8+1/19–20, lightsaber) or +6/+1 ranged; SQ call in a favor +1, deflect (defense +1), inspire confidence; SV Fort +5, Ref +8, Will +7; FP 3; DSP 6; Str 12, Dex 14, Con 11, Int 12, Wis 10, Cha 12.
@@ -297,7 +262,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 Note (our notes, around the quote): Yun (Dark Jedi); Sariss; Kyle Katarn; Qu Rahn — entry/section: Yun's redemption: "Sariss had taught Yun how to suppress his guilt by the time he participated in Rahn's execution, for which he felt little remorse. But when he was bested and spared by Kyle Katarn, who'd also lost his father thanks to Jerec, Yun's feelings of guilt resurfaced. The spirit of Jedi Master Rahn further encouraged Yun to seek redemption. The young Jedi did so by betraying his mentor Sariss and saving Kyle from the blade of her lightsaber. Yun was surprised when Sariss reflexively dealt him a killing blow, but felt only a mixture of pity for his teacher and rapture when the light of the Force engulfed him." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d130-s1-sariss-had-taught-yun-how-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:20`
 
 - Note (summary from our notes, not a quotation): Page contents: Sariss, the Prophetess: Prophets of the Dark Side, Tatooine, Merili, Jerec; recruits Yun; death; Sariss stats (Jedi Consular 5/Dark Side Devotee 3/Dark Side Marauder 4, CC D); Adventure Seed: Now I Am the Master! (Bunduki, Palawa, Arden Lyn) (hand-read)
@@ -309,7 +273,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 Note (our notes, around the quote): Sariss; Jerec — entry/section: The Prophetess and Jerec: "The prophets had agents on several planets. On Tatooine, Sariss worked for Governor Tour Aryon, going by the name Prophetess. She also helped train the darksider Merili, and was often part of the Secret Order entourage sent to the Super Star Destroyer Vengeance to confer with Jerec, whom she'd first met during his time on Dromund Kaas years earlier. She became strongly attracted to the enigmatic Inquisitor and his visions of ruling the galaxy. Through violent and masochistic lightsaber sessions, Jerec turned Sariss from one of Palpatine's magicky pets into his quasi-loyal second-in-command. When the population of Tatooine rebelled against their Imperial oppressors following the Battle of Endor, Sariss saw the perfect opportunity to disappear and join Jerec." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d130-s2-the-prophets-had-agents-on-several.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:33`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -321,12 +284,10 @@ Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md
 > Maw was once a vain Jedi Knight, but his refusal to take on a Padawan and his general selfishness meant that he never attained the rank of Jedi Master. He had always been a relentless tracker, though, and was attached to a group of Jedi Shadows, Jedi investigators intent on rooting out and destroying any sign of the dark side. After the Clone Wars, Maw and his clan of compatriots were hunted down by Inquisitor Jerec, who succeeded in turning Maw to the dark side while the rest were slaughtered by Jerec and the newly turned Dark Jedi. Jerec afterward took the animalistic Maw under his wing, teaching him to smell the panic of his prey and taste their fear like a trained bloodsniffer.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa; Maw (Dark Jedi); Jerec — entry/section: Maw turned by Jerec.
 Note (our notes, around the quote): Maw (Dark Jedi); Jerec — entry/section: Maw turned by Jerec: "Maw was once a vain Jedi Knight, but his refusal to take on a Padawan and his general selfishness meant that he never attained the rank of Jedi Master. He had always been a relentless tracker, though, and was attached to a group of Jedi Shadows, Jedi investigators intent on rooting out and destroying any sign of the dark side. After the Clone Wars, Maw and his clan of compatriots were hunted down by Inquisitor Jerec, who succeeded in turning Maw to the dark side while the rest were slaughtered by Jerec and the newly turned Dark Jedi. Jerec afterward took the animalistic Maw under his wing, teaching him to smell the panic of his prey and taste their fear like a trained bloodsniffer." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d131-s1-maw-was-once-a-vain-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:16`
 
 - Note (summary from our notes, not a quotation): Maw (Dark Jedi); Jerec; Boc Aseca; Morgan Katarn; Kyle Katarn — entry/section: Maw's end: "Maw took Morgan Katarn's head after Jerec severed it with his Jengardin double-bladed vibroblade and, along with the Dark Jedi Boc, used it and the heads of Morgan's fellow Rebel conspirators to "decorate" the walls of the Sulon spaceport. Maw's tyranny came to an end, however, when he taunted Kyle with details of his participation in Morgan's death. Kyle sunk his lightsaber into Maw's deltoid, through the chest, and out the latissimus dorsi -- a blow the already once-halved Boltrunian could not survive. The last thing Maw sensed before dying was the delicious gush of loathing from his killer." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d131-s1-maw-took-morgan-katarns-head-after.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:18`
 
 - Note (summary from our notes, not a quotation): Page contents: Boc the Crude: Twi'lek heroes and villains, Anoon Bondara, Nejaa Halcyon, Newar Forrth idols, Screed, Jerec, dual lightsabers, death in the Valley; image placeholder {{insert boc.jpeg}}; Boc stats (Force Adept 4/Dark Side Marauder 6, CC E); Lightsaber Combat: Trispzest (Majestrix of Skye, sai cha; heirs Maw and Nazish); Trispzest Mastery feat begins (hand-read)
@@ -336,7 +297,6 @@ Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md
 > However, when the Empire rose up, so did alien prejudice and the Twi'lek slave trade. Boc became the manservant of the pitiless bigot Vice- Admiral Terrinald Screed. When Inquisitor Jerec came across the Force-sensitive Boc, he demanded that Screed hand him over for execution, but Jerec didn't kill the Twi'lek. Instead, he ripped the information about Ruusan from Boc's mind. Taking the Twi'lek as a slave, Jerec rewarded Boc's strength in the Force with a brutal indentured servitude, a cruel quasi-apprenticeship that naturally exacerbated Boc's hatred toward Humans. But in the end, Boc emerged a Jedi after all -- a Dark Jedi.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
 Note (our notes, around the quote): Boc Aseca; Vice-Admiral Terrinald Screed; Jerec — entry/section: Boc enslaved by Jerec: "However, when the Empire rose up, so did alien prejudice and the Twi'lek slave trade. Boc became the manservant of the pitiless bigot Vice- Admiral Terrinald Screed. When Inquisitor Jerec came across the Force-sensitive Boc, he demanded that Screed hand him over for execution, but Jerec didn't kill the Twi'lek. Instead, he ripped the information about Ruusan from Boc's mind. Taking the Twi'lek as a slave, Jerec rewarded Boc's strength in the Force with a brutal indentured servitude, a cruel quasi-apprenticeship that naturally exacerbated Boc's hatred toward Humans. But in the end, Boc emerged a Jedi after all -- a Dark Jedi." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d131-s2-however-when-the-empire-rose-up.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:35`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -344,13 +304,11 @@ Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md
 > Jerec and Sariss took the time to give all their fellow Dark Jedi cronies a crash course in the teachings of the Dark Force, the religion of the true Prophets of the Dark Side (not to be confused with the Imperial Center-backed mockery, the Church of the Dark Side). There is, however, a connection between the two institutions: Lord Cronal, more commonly known as the former Prophet of the Dark Side Blackhole, helped establish the phony places of worship after the Battle of Endor. Blackhole was also responsible for cooking up Jerec's dastardly pair of dark side mutants: the gargantuan Gorc and the pint-sized Pic, the so-called Brothers of the Sith.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Sariss; Blackhole (Emperor's Hand); Gorc and Pic — entry/section: The Brothers of the Sith: "Jerec and Sariss took the time to give all their fellow Dark Jedi cronies a crash course in the teachings of the Dark Force, the religion of the true Prophets of the Dark Side (not to be confused with the Imperial Center-backed mockery, the Church of the Dark Side). There is, however, a connection between the two institutions: Lord Cronal, more commonly known as the former Prophet of the Dark Side Blackhole, helped establish the phony places of worship after the Battle of Endor. Blackhole was also responsible for cooking up Jerec's dastardly pair of dark side mutants: the gargantuan Gorc and the pint-sized Pic, the so-called Brothers of the Sith." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-jerec-and-sariss-took-the-time.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:12`
 
 > Gorc and Pic certainly made an odd couple -- one was less than a meter tall and weighed just 20 kilos, while the other stood over 3 meters and weighed 200 kilos. The appearance of these Brothers of the Sith could be comical, but the combination of Pic's speed and intelligence and Gorc's incredible power was more likely to leave slaughter in its wake than laughter. Pic became adept at using a Sith dagger, while Gorc wielded a massive lightsaber resembling a Gamorrean thogk club. When Jerec captured Jedi Master Qu Rahn, Pic also gained one of Master Yoda's lightsabers for his own.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Gorc and Pic; Qu Rahn; Yoda; Jerec — entry/section: An odd couple: "Gorc and Pic certainly made an odd couple -- one was less than a meter tall and weighed just 20 kilos, while the other stood over 3 meters and weighed 200 kilos. The appearance of these Brothers of the Sith could be comical, but the combination of Pic's speed and intelligence and Gorc's incredible power was more likely to leave slaughter in its wake than laughter. Pic became adept at using a Sith dagger, while Gorc wielded a massive lightsaber resembling a Gamorrean thogk club. When Jerec captured Jedi Master Qu Rahn, Pic also gained one of Master Yoda's lightsabers for his own." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-gorc-and-pic-certainly-made-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:16`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -362,44 +320,37 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > Many have sought the Valley of the Jedi, but few have found it. One was Lord Hoth's former apprentice Johun Othone, who set up vain shrines in the valley in honor of his beloved master. Another was the Sith Lord Darth Zannah, who returned to the valley years after abandoning her brother there during the Battle of Ruusan and engaged her sibling in a final deadly confrontation. The valley has had few visitors since, but two of the most recent were power-hungry individuals of the worst kind: the treacherous Dark Jedi Jerec, and an outcast from Luke's New Jedi Order, the reptilian Desann.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Lord Hoth; Darth Zannah; Jerec; Desann — entry/section: Seekers of the Valley: "Many have sought the Valley of the Jedi, but few have found it. One was Lord Hoth's former apprentice Johun Othone, who set up vain shrines in the valley in honor of his beloved master. Another was the Sith Lord Darth Zannah, who returned to the valley years after abandoning her brother there during the Battle of Ruusan and engaged her sibling in a final deadly confrontation. The valley has had few visitors since, but two of the most recent were power-hungry individuals of the worst kind: the treacherous Dark Jedi Jerec, and an outcast from Luke's New Jedi Order, the reptilian Desann." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-many-have-sought-the-valley-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:12`
 
 > Mistakenly believed to be a blind Human, the man known as Jerec is actually a Miraluka and was born without physical means of sight. But, fatefully, he was not born blind to the Force. Jerec came to the attention of the haughty Jedi Jocasta Nu during her days as an archaeologist for the Jedi ExplorCorps, and was taken on as her Padawan learner. Jerec learned a great deal under Nu's tutelage, inheriting not only much of his master's supercilious bearing and delicate mannerisms, but also her love of knowledge. Nu encouraged her apprentice never to stop searching for answers, as many were found only by the most ardent seekers. Watching his Force powers grow with the learning he accumulated, Jerec slowly came to understand that knowledge truly was power. And realizing there was always more to learn, Jerec's appetite for knowledge became insatiable.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Jocasta Nu — entry/section: Jerec, Padawan of Jocasta Nu.
 Note (our notes, around the quote): Jerec; Jocasta Nu — entry/section: Jerec, Padawan of Jocasta Nu: "Mistakenly believed to be a blind Human, the man known as Jerec is actually a Miraluka and was born without physical means of sight. But, fatefully, he was not born blind to the Force. Jerec came to the attention of the haughty Jedi Jocasta Nu during her days as an archaeologist for the Jedi ExplorCorps, and was taken on as her Padawan learner. Jerec learned a great deal under Nu's tutelage, inheriting not only much of his master's supercilious bearing and delicate mannerisms, but also her love of knowledge. Nu encouraged her apprentice never to stop searching for answers, as many were found only by the most ardent seekers. Watching his Force powers grow with the learning he accumulated, Jerec slowly came to understand that knowledge truly was power. And realizing there was always more to learn, Jerec's appetite for knowledge became insatiable." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-mistakenly-believed-to-be-a-blind.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:14`
 
 > After training his Padawan Ameesa Darys to knighthood and becoming a Jedi Master, Jerec felt he had exhausted all that the light side of the Force had to offer. During the Clone Wars, he traveled with a group of Jedi artifact finders to the Unknown Regions in search of other sources of wisdom. After being caught by the Imperial Inquisitor Tremayne, Jerec declared his allegiance to the Empire, and joined the Inquisitorius himself. He also studied the Dark Force religion of Palpatine's Prophets of the Dark Side. It was from the prophet Lord Cronal, father to the sorceress Sariss and the man later known as the shadowy Dark Side magus Blackhole, that Jerec learned of the Valley of the Jedi. To him, it seemed a fabled place that promised to grant him understanding unlimited, a place steeped in the Forcepower of thousands and thousands of Sith and Jedi spirits.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Antinnis Tremayne; Blackhole (Emperor's Hand); Sariss — entry/section: Jerec joins the Inquisitorius: "After training his Padawan Ameesa Darys to knighthood and becoming a Jedi Master, Jerec felt he had exhausted all that the light side of the Force had to offer. During the Clone Wars, he traveled with a group of Jedi artifact finders to the Unknown Regions in search of other sources of wisdom. After being caught by the Imperial Inquisitor Tremayne, Jerec declared his allegiance to the Empire, and joined the Inquisitorius himself. He also studied the Dark Force religion of Palpatine's Prophets of the Dark Side. It was from the prophet Lord Cronal, father to the sorceress Sariss and the man later known as the shadowy Dark Side magus Blackhole, that Jerec learned of the Valley of the Jedi. To him, it seemed a fabled place that promised to grant him understanding unlimited, a place steeped in the Forcepower of thousands and thousands of Sith and Jedi spirits." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-after-training-his-padawan-ameesa-darys.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:16`
 
 > Jerec remained very busy in the time leading up to the Battle of Endor. For a time, he became governor of Kyle Katarn's homeworld Sulon, having an extravagant palace built in honor of himself. Jerec's ambition also drove him to seek out a mind-controlling monster called Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance. Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance II, though with its predecessor destroyed, the numerical amendment was infrequently applied. Jerec eventually ordered the ship's captain to join Admiral Ozzel's Death Squadron, as the Dark Jedi already had a Super Star Destroyer being built to accommodate his unceasingly swelling ego.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn — entry/section: Jerec's ambition.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's ambition: "Jerec remained very busy in the time leading up to the Battle of Endor. For a time, he became governor of Kyle Katarn's homeworld Sulon, having an extravagant palace built in honor of himself. Jerec's ambition also drove him to seek out a mind-controlling monster called Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance. Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance II, though with its predecessor destroyed, the numerical amendment was infrequently applied. Jerec eventually ordered the ship's captain to join Admiral Ozzel's Death Squadron, as the Dark Jedi already had a Super Star Destroyer being built to accommodate his unceasingly swelling ego." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-jerec-remained-very-busy-in-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:18`
 
 > Approximately a year after the Battle of Endor, however, Jerec was contacted by the former Prophet Blackhole, who revealed that Emperor Palpatine was in fact alive and watching galactic events from the Deep Core at the center of the galaxy. Blackhole charged Jerec with finding the fabled Valley of the Jedi for the glory of the Emperor, and Jerec pledged his submission to the reincarnated dictator, giving Blackhole the Vengeance II to take back to the planet Byss as a sign of his commitment.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Blackhole (Emperor's Hand); Palpatine (Darth Sidious) — entry/section: Jerec and Blackhole: "Approximately a year after the Battle of Endor, however, Jerec was contacted by the former Prophet Blackhole, who revealed that Emperor Palpatine was in fact alive and watching galactic events from the Deep Core at the center of the galaxy. Blackhole charged Jerec with finding the fabled Valley of the Jedi for the glory of the Emperor, and Jerec pledged his submission to the reincarnated dictator, giving Blackhole the Vengeance II to take back to the planet Byss as a sign of his commitment." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-approximately-a-year-after-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:20`
 
 > What Blackhole couldn't have known, however, was that Jerec was already searching for the valley on behalf of not only the Pentastar Alignment but also his old mentors, the true Prophets of the Dark Side. Resembling a Divoran holochess grandmaster, Jerec pulled resources from all three parties while playing each side against the middle, intending to be the only true victor. Once he secured the coordinates to the Valley of the Jedi, Jerec converged on the site with his Dark Jedi.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Blackhole (Emperor's Hand) — entry/section: Jerec's triple game.
 Note (our notes, around the quote): Jerec; Blackhole (Emperor's Hand) — entry/section: Jerec's triple game: "What Blackhole couldn't have known, however, was that Jerec was already searching for the valley on behalf of not only the Pentastar Alignment but also his old mentors, the true Prophets of the Dark Side. Resembling a Divoran holochess grandmaster, Jerec pulled resources from all three parties while playing each side against the middle, intending to be the only true victor. Once he secured the coordinates to the Valley of the Jedi, Jerec converged on the site with his Dark Jedi." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-what-blackhole-couldnt-have-known-however.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:22`
 
 > Ultimately, all of Jerec's pupils were killed by the Jedi Kyle Katarn, but the price was worth the reward. Jerec at last gained access to the valley, and for one lucid moment, absolute omniscience was his. The will of the Force, Chaos, the ancient civilizations of the Rakata and
 > [fragment — full passage not on file]
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's omniscience (part 1 of 2, continues next page): "Ultimately, all of Jerec's pupils were killed by the Jedi Kyle Katarn, but the price was worth the reward. Jerec at last gained access to the valley, and for one lucid moment, absolute omniscience was his. The will of the Force, Chaos, the ancient civilizations of the Rakata and" Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-ultimately-all-of-jerecs-pupils-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:24`
 
 - Note (summary from our notes, not a quotation): Page contents: Jerec's omniscience and death; Jerec stats (Jedi Guardian 8/Jedi Master 3/Imperial Inquisitor 4, CC H) and SQs Quick Reaction, Force Sight; Desann, Jedi Outcast: Chistori, Havet Storm murder, Galak Fyyar, Lord Hethrir, Empire Youths, Tavion, the Reborn, death at Yavin 4; caption: A Miraluka, from Ultimate Alien Anthology (hand-read)
@@ -409,19 +360,16 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > Xim, what lay beyond the galactic barrier, and the origins of the universe -- Jerec understood them all, and endowed with Force powers beyond imagination, he would have ruled accordingly.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's omniscience (part 2 of 2, continued from previous page): "Xim, what lay beyond the galactic barrier, and the origins of the universe -- Jerec understood them all, and endowed with Force powers beyond imagination, he would have ruled accordingly." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-xim-what-lay-beyond-the-galactic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:31`
 
 > However, during this rapturous illumination, Kyle used an ancient Force technique to sever Jerec's connection to the Force with a wall of pure light. Kyle then proceeded to cut the Dark Jedi down, sending Jerec's soul screaming toward Chaos alongside the Sith spirits of a thousand years hence. Thanks to his enlightenment, Jerec was well aware of the torture without respite that awaited him there.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn — entry/section: Jerec's end.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's end: "However, during this rapturous illumination, Kyle used an ancient Force technique to sever Jerec's connection to the Force with a wall of pure light. Kyle then proceeded to cut the Dark Jedi down, sending Jerec's soul screaming toward Chaos alongside the Sith spirits of a thousand years hence. Thanks to his enlightenment, Jerec was well aware of the torture without respite that awaited him there." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-however-during-this-rapturous-illumination-kyle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:33`
 
 > After defeating Jerec, Kyle kept the location of the valley to himself, fearing it would be misused.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Kyle Katarn: "After defeating Jerec, Kyle kept the location of the valley to himself, fearing it would be misused." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-after-defeating-jerec-kyle-kept-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:58`
 
 ## Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–162)
@@ -433,7 +381,6 @@ Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-1
 > The latter vessel served as the command ship for the Dark Jedi named Jerec, and though visually distinctive it had the same specifications as other Super Star Destroyers.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga; Jerec. POV: Jerec.
 Note (our notes, around the quote): Jerec: "The latter vessel served as the command ship for the Dark Jedi named Jerec, and though visually distinctive it had the same specifications as other Super Star Destroyers." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.137
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.137 — full quote as printed](quotes/d727-s137-the-latter-vessel-served-as-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-121-162.md:121`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -445,7 +392,6 @@ Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001
 > During the Rebellion against the Empire, Jerec served as an Imperial Inquisitor, hunting down his former comrades and destroying them wherever he found them.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Jerec — entry/section: Threats of the Galaxy (Saga).
 Note (our notes, around the quote): Jerec — entry/section: Threats of the Galaxy (Saga): "During the Rebellion against the Empire, Jerec served as an Imperial Inquisitor, hunting down his former comrades and destroying them wherever he found them." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.32
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.32 — full quote as printed](quotes/d731-s32-during-the-rebellion-against-the-empire.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:237`
 
 ## Web Articles.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 301–360)
@@ -459,7 +405,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Jerec: "Later, he discovered his Force sensitivity and learned the ways of the Jedi, protecting the Lost Valley of the Jedi from falling into Imperial hands by defeating the Dark Jedi Jerec and his minions." Source: *Web Articles* (SWRPG Saga Edition), scan p.317
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.317 — full quote as printed](quotes/d732-s317-later-he-discovered-his-force-sensitivity.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:183`
 
 ## Star Wars Insider #31 (1996)

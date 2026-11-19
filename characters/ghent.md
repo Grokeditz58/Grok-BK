@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > When Ghent survived a crash landing, Vader offered him a chance to train an elite squad of Imperial starfighter pilots aboard the Crucible.
 — Source: scan pages 321–360; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "When Ghent survived a crash landing, Vader offered him a chance to train an elite squad of Imperial starfighter pilots aboard the Crucible." Source: The Complete Star Wars Encyclopedia, Vol. I, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.337 — full quote as printed](quotes/v1-p337-when-ghent-survived-a-crash-landing.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:221`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,13 +25,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Mak An Imperial general who accompanied Darth Vader and Nas Ghent when they set out to find the Star Destroyer Crucible during the Galactic Civil War.
 — Source: scan pages 281–320; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Mak An Imperial general who accompanied Darth Vader and Nas Ghent when they set out to find the Star Destroyer Crucible during the Galactic Civil War." Source: The Complete Star Wars Encyclopedia, Vol. II, p.277
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.277 — full quote as printed](quotes/v2-p277-mak-an-imperial-general-who-accompanied.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:26`
 
 > Ghent survived, and Millavec lied to him, claiming that it was Vader himself who ordered Maneuver 717 as part of his assignment.
 — Source: scan pages 281–320; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Ghent survived, and Millavec lied to him, claiming that it was Vader himself who ordered Maneuver 717 as part of his assignment." Source: The Complete Star Wars Encyclopedia, Vol. II, p.313
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.313 — full quote as printed](quotes/v2-p313-ghent-survived-and-millavec-lied-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:324`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -44,7 +41,6 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-06
 > Barely more than a teenager, Ghent is one of the galaxy's foremost computer security experts. What he doesn't know about codes, droids, or computer networks probably isn't worth knowing.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Ghent — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Ghent — entry/section: Smugglers' Alliance: "Barely more than a teenager, Ghent is one of the galaxy's foremost computer security experts. What he doesn't know about codes, droids, or computer networks probably isn't worth knowing." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.56
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.56 — full quote as printed](quotes/d052-s56-barely-more-than-a-teenager-ghent.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:344`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

@@ -14,7 +14,6 @@
 > Defeating an enraged Yomin Carr and witnessing the speed of the planet's environmental reprogramming, they realized the face of their enemy and the breathtaking extent of their foes' biology-based powers.
 — Source: Part Twelve: The New Jedi Order; Luke Skywalker; Mara Jade Skywalker — Luke and Mara at Belkadan.
 Note (our notes, around the quote): Luke Skywalker; Mara Jade Skywalker — Luke and Mara at Belkadan: "Defeating an enraged Yomin Carr and witnessing the speed of the planet's environmental reprogramming, they realized the face of their enemy and the breathtaking extent of their foes' biology-based powers." Source: The New Essential Chronology, p.204
-![Quote image: The New Essential Chronology, p.204 — full quote as printed](quotes/nec-p204-luke-and-mara-at-belkadan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:24`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

@@ -14,7 +14,6 @@
 > Gethzerion turned traitor, killing all the Imperial guards—including Zsinj's longtime aide, General Melvar—with a crushing blow of Force energy.
 — Source: Part Six: Birth of the New Republic; Gethzerion's Force blow. POV: Gethzerion's Force blow.
 Note (our notes, around the quote): Gethzerion's Force blow: "Gethzerion turned traitor, killing all the Imperial guards—including Zsinj's longtime aide, General Melvar—with a crushing blow of Force energy." Source: The New Essential Chronology, p.145
-![Quote image: The New Essential Chronology, p.145 — full quote as printed](quotes/nec-p145-gethzerions-force-blow.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:124`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -24,7 +23,6 @@ Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-th
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Gethzerion: "Gethzerion, he ordered all the prison's ships destroyed to prevent her from leaving the planet." Source: The Complete Star Wars Encyclopedia, Vol. I, p.173
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.173 — full quote as printed](quotes/v1-p173-gethzerion-he-ordered-all-the-prisons.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:243`
 
 > Vos de­ feated Zalem's plot to use the Infinity Gate to destroy Coruscant. With this disaster averted, the Jedi Council ordered all navigational data on Da­ thomir restricted to keep such secrets from falling into the wrong hands. With the rise of the NewOrder,Imperialforces constructed orbital ship­ yards and a penal colony on Dathomir's surface. But after Emperor Palpatine learned the power of the Nightsisters' leader, Gethzerion, he ordered all the prison's ships destroyed to prevent her from leaving the planet. The stranded Imperials at the prison were then enslaved by Gethzerion and the other Nightsisters. Four years after the Battle of Endor, Han Solo won the planet in a high­ stakes sabacc game from Warlord Omogg, who claimed it had been in her family for generations. Han's subsequent adventures on Dathomir resulted in the destruction of both the Nightsisters and the forces of Warlord Zsinj. About 15 years after the Battle ofEndor, a new order of Nightsisters based in the Great Canyon emerged. This clan, founded by Luke Skywalker's former student Brakiss, allied it­ self with the remnants of the Empire, treated males as equals, and sent the best Force stu­ dents to be trained at the Empire's Shadow Academy.
@@ -32,7 +30,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Gethzerion: "The stranded Imperials at the prison were then enslaved by Gethzerion and the other Nightsisters." Source: The Complete Star Wars Encyclopedia, Vol. I, p.173
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.173 — full quote as printed](quotes/v1-p173-the-stranded-imperials-at-the-prison.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:245`
 
 - Note (summary from our notes, not a quotation): Page contents: 955 words, 27 paragraphs | headings/entries: Gethzerion; Gettiarn; Gev, Mirta; Gevarak, Malindin; Gevarno Cluster; Gevtes, Pagda
@@ -44,7 +41,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Gethzerion — entry/section: Gethzerion: "Despite this promise, Zsinj's men opened fire and destroyed both the ship and Gethzerion." Source: The Complete Star Wars Encyclopedia, Vol. I, p.336
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.336 — full quote as printed](quotes/v1-p336-despite-this-promise-zsinjs-men-opened.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:210`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -52,7 +48,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Melvar was killed on Dathomir by Gethzerion when she used the dark side of the Force to eliminate an entire platoon of Imperial stormtroopers and their officers who were poised to bring Han Solo to Zsinj.
 — Source: scan pages 281–320; Gethzerion; Han Solo.
 Note (our notes, around the quote): Gethzerion; Han Solo: "Melvar was killed on Dathomir by Gethzerion when she used the dark side of the Force to eliminate an entire platoon of Imperial stormtroopers and their officers who were poised to bring Han Solo to Zsinj." Source: The Complete Star Wars Encyclopedia, Vol. II, p.305
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.305 — full quote as printed](quotes/v2-p305-melvar-was-killed-on-dathomir-by.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:264`
 
 ## The New Essential Guide to Characters (2002)
@@ -60,7 +55,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > Gethzerion and her followers made it as far as Dathomir orbit, where Zsinj's Star Destroyers blasted them to bits.
 — Source: scan pages 181–210; Gethzerion. POV: Gethzerion.
 Note (our notes, around the quote): Gethzerion: "Gethzerion and her followers made it as far as Dathomir orbit, where Zsinj's Star Destroyers blasted them to bits." Source: The New Essential Guide to Characters, p.205
-![Quote image: The New Essential Guide to Characters, p.205 — full quote as printed](quotes/negc-p205-gethzerion-and-her-followers-made-it.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:125`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -72,7 +66,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:126`
 > SkillEmphasis (Disguise), Skill Emphasis But Gethzerion (Illusion), and Augwynne Weapon Group Proficiency (blaster frequently pistols), Weapon Group Proficiency clashed on (primitive weapons), interpretations of Weapon Group Proficiency The Book of Law, (simple weapons). the text passed Force Feats: Alter, Control, Force down to the Mastery, Sense. witches of yi 3 Dathomir by the Nightsisters of original Force ' witch, Allya.
 — Source: Chapter Five: Dark Side Traditions (Sith Empire, Set Harth, prophets, Brakiss…); Gethzerion. POV: Gethzerion.
 Note (our notes, around the quote): Gethzerion: "SkillEmphasis (Disguise), Skill Emphasis But Gethzerion (Illusion), and Augwynne Weapon Group Proficiency (blaster frequently pistols), Weapon Group Proficiency clashed on (primitive weapons), interpretations of Weapon Group Proficiency The Book of Law, (simple weapons). the text passed Force Feats: Alter, Control, Force down to the Mastery, Sense. witches of yi 3 Dathomir by the Nightsisters of original Force ' witch, Allya." Source: Dark Side Sourcebook, p.81
-![Quote image: Dark Side Sourcebook, p.81 — full quote as printed](quotes/dss-p81-skillemphasis-disguise-skill-emphasis-but-gethzerion.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:128`
 
 > Though it broke her heart to do so, she knew it was the only way to separate Gethzerion from The Book of Law, and give her daughter a chance to cleanse her Spirit and return peacefully to her clan. But circumstances conspired to drive a wedge even farther between the two exiled Force witches and the Singing Mountain Clan. Attacked by three other outcast Force witches, Baritha and Gethzerion managed to prevail, slaying two of the three attackers. The survivor begged to be spared, and promised her loyalty in exchange for mercy. Though Baritha wanted to kill the third one as well, Gethzerion realized that she did not need to rule the Singing Mountain Clan if she were leader of her own clan, a clan more powerful than Augwynne'sone that could take The Book of Law by force. Gethzerion and Baritha began seeking out other exiled Force witches to join their new clan, which they called the Nightsisters. The Nightsisters explored the forbidden magic that Gethzerion could recall from The Book of Law, and through trial and error learned to master the dark arts of Dathomir. They fought periodic battles with the other clans of Dathomir, and whenever possible, they promised to spare captives if they would forswear their old clan and join the Nightsisters. In some cases, other Force witches tried to use their own dark magic against them.
@@ -80,7 +73,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:128`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Gethzerion: "Though Baritha wanted to kill the third one as well, Gethzerion realized that she did not need to rule the Singing Mountain Clan if she were leader of her own clan, a clan more powerful than Augwynne'sone that could take The Book of Law by force." Source: Dark Side Sourcebook, p.82
-![Quote image: Dark Side Sourcebook, p.82 — full quote as printed](quotes/dss-p82-though-baritha-wanted-to-kill-the.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:135`
 
 > Skills: Bluff +9, Computer Use +5, Craft (lightsaber) +11, Diplomacy +7, Gather Information +7, Intimidate +11, Knowledge (Jedi lore) +5, Move Silently +5, Read/Write Basic, Search +5, Sense Motive +7, Speak Basic, Speak Paeeian. Force Skills: Affect Mind +9, Empathy +9, Force Defense +7, Friendship +18, Heal Self +7, Move Object +7. Feats: Force-Sensitive, Sharp-Eyed, Skill Emphasis (Friendship), Weapon Group Proficiency (blaster pistols), Weapon Group Proficiency (simple weapons). Force Feats: Alter, Control, Deflect Blasters, Force Lightning, Sense. Tamith Kai After the death of their leader Gethzerion, the Nightsisters of Dathomir were all but gone. Most of their dark clan was killed when Luke Skywalker destroyed Gethzerion's transport. The few survivors surrendered to the Force witches, to seek redemption. But not all of them found that redemption, and after a few years they were driven into exile again. Some of these formed a new clan of Nightsisters, drawing on Gethzerion's Book of Shadows to guide their endeavor. To ensure their success this time, they threw away several hundred years of tradition and embraced more modern thinking, not only allying themselves with representatives of the former Empire, but actually affording men equal status in their organization and training them in the ways of the Nightsisters.
@@ -88,7 +80,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:135`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Luke Skywalker; Gethzerion: "Most of their dark clan was killed when Luke Skywalker destroyed Gethzerion's transport." Source: Dark Side Sourcebook, p.108
-![Quote image: Dark Side Sourcebook, p.108 — full quote as printed](quotes/dss-p108-most-of-their-dark-clan-was.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:357`
 
 > After learning the secrets of what she called "Shadow Magic," she formed a sect of dark side Force adepts known as the Nightsisters. The light side Force-users of that world, the witches of Dathomir, wanted nothing to do with Gethzerion for the most part. However, a few of them were curious enough to join her and study her teachings. Gethzerion and her Nightsisters formed their own clan, opposing the lawful efforts of their light side rivals. Throughout this conflict, Emperor Palpatine ensured that Dathomir remained a primitive, rancor infested world where he could trap all known Force witches, light and dark. Luke Skywalker later rediscovered the clan, but when Gethzerion and her followers attempted to escape into the greater galaxy, Luke was forced to destroy their starship. While Palpatine kept the Nightsisters on Dathomir, they grew strong. If not for the loss of so many of their number, they may have become a true threat in the greater galaxy. Still, the Nightsisters are survivors. After a shift in their belief system, many eventually found their way off Dathomir.
@@ -96,7 +87,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:357`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Luke Skywalker; Gethzerion: "Luke Skywalker later rediscovered the clan, but when Gethzerion and her followers attempted to escape into the greater galaxy, Luke was forced to destroy their starship." Source: Dark Side Sourcebook, p.134
-![Quote image: Dark Side Sourcebook, p.134 — full quote as printed](quotes/dss-p134-luke-skywalker-later-rediscovered-the-clan.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:159`
 
 - Note (summary from our notes, not a quotation): Page contents: 1258 words, 121 paragraphs | headings/entries: Index; Drain Energy 14, 17; Drain Force 17; Drain Knowledge 15, 17, 40; Durron, Kyp 12, 104, 105; Dxun tomb beast 112; Emperor Reborn 120, 126; Empress Teta system 8, 74, 75, 76; Endor 10, 91, 92, 94, 110; Force, the 6, 7, 40, 55; Force illusions 16; Force Points, gaining 40; Force-based skills 13, 17; Gepta, Rokur 80; Gethzerion 81, 82, 108, 134; Great Hyperspace War, the 7,; Harth, Set 83; Hatred (feat) 18; Hethrir, Lord 92, 93; Illusion (feat) 15, 17; Imperial campaign 51; Imperial Sentinel 99; Imperial Sovereign Protector 92, 99; Interrogator droid 63; Ismaren, trek 106; Jade, Mara 26, 53, 99; Jedgar 94, 96; Jedi characters 20; Jedi consular 158; Jedi, corrupted 31; Jedi guardian 157; Jedi, history of 7; Jedi hunters 87; Jerec 101; Kadanm 94, 96, 97 Kai,; Tamith 108, 109; Kalgrath 116; Sedriss, Executor 99, 102; Sense (feat) 54; Sing, Aurra 87, 88; Sith acolyte 31, 74; Skywalker, Luk
@@ -113,13 +103,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Gethzerion — entry/section: Palpatine strands the Dathomir prison: "it wasn't long before Palpatine ordered all the prison’s starships destroyed from orbit—apparently to ensure that no Nightsisters could escape off-world to upset his personal hierarchy of Force-using servants. The stranded prison staff became slaves for the Nightsisters and their leader, Gethzerion." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32 — full quote as printed](quotes/d667-s32-it-wasnt-long-before-palpatine-ordered.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:210`
 
 > Following Palpatine’s death, Warlord Zsinj seized control of the Quelii Sector from the dominant Drackmarians. He soon discovered rich veins of ore on one of Dathomir’s moons, and he built a ten-kilometer shipbuilding facility in planetary orbit, which he nicknamed “Rancor Base.” Zsinj lost his shipyard—and his life—in battle with New Republic general Han Solo four years after Endor. The same conflict saw the death of Nightsister Gethzerion and the end of Dathomir’s isolation.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Warlord Zsinj; Han Solo; Gethzerion — entry/section: Zsinj's Rancor Base and death: "Following Palpatine’s death, Warlord Zsinj seized control of the Quelii Sector from the dominant Drackmarians. He soon discovered rich veins of ore on one of Dathomir’s moons, and he built a ten-kilometer shipbuilding facility in planetary orbit, which he nicknamed “Rancor Base.” Zsinj lost his shipyard—and his life—in battle with New Republic general Han Solo four years after Endor. The same conflict saw the death of Nightsister Gethzerion and the end of Dathomir’s isolation." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.32 — full quote as printed](quotes/d667-s32-following-palpatine-s-death-warlord-zsinj.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:212`
 
 ## Star Wars Insider #55 (2001)

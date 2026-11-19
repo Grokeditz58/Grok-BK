@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 > With the help of Anakin's new Padawan, Ahsoka Tano, the Jedi were able to lower the energy shield protecting the Separatist army and defeat their forces.
 — Source: scan pages 121–160; Darth Vader (Anakin Skywalker); Ahsoka Tano.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Ahsoka Tano: "With the help of Anakin's new Padawan, Ahsoka Tano, the Jedi were able to lower the energy shield protecting the Separatist army and defeat their forces." Source: The Complete Star Wars Encyclopedia, Vol. I, p.126
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.126 — full quote as printed](quotes/v1-p126-with-the-help-of-anakins-new.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:172`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 > He was outsmarted by Obi-Wan Kenobi on Christophsis, The Jedi Master stalled the general long enough during a supposed surrender parley for Anakin Skywalker and Ahsoka Tano to disable the deflector shields protecting his forces.
 — Source: scan pages 241–280; Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Ahsoka Tano.
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Ahsoka Tano: "He was outsmarted by Obi-Wan Kenobi on Christophsis, The Jedi Master stalled the general long enough during a supposed surrender parley for Anakin Skywalker and Ahsoka Tano to disable the deflector shields protecting his forces." Source: The Complete Star Wars Encyclopedia, Vol. II, p.258
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.258 — full quote as printed](quotes/v2-p258-he-was-outsmarted-by-obi-wan.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:207`
 
 ## Sourcebooks/Scavenger's Guide to Droids.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -207,7 +205,6 @@ Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:126`
 > Their snappy big brother/little sister interaction was a blast to write and I have high hopes for Ahsoka as a character who will soften the heart of even the most skeptical Star Wars fan.
 — Source: Star Wars Insider #103 (2008); Ahsoka Tano — entry/section: Gilroy on Anakin and Ahsoka.
 Note (our notes, around the quote): Ahsoka Tano — entry/section: Gilroy on Anakin and Ahsoka: ""Their snappy big brother/little sister interaction was a blast to write and I have high hopes for Ahsoka as a character who will soften the heart of even the most skeptical Star Wars fan." —Henry Gilroy, Star Wars Insider 103, p. 13" Source: *Star Wars Insider #103* (2008), scan p.13
-![Quote image: *Star Wars Insider #103* (2008), scan p.13 — full quote as printed](quotes/ins103-s13-their-snappy-big-brother-little-sister.jpg)
 Our notes: `notes/materials/038-star-wars-insider/103-ins103.md:128`
 
 - Note (summary from our notes, not a quotation): Page contents: Screen Idols (folio "24"): Obi-Wan Kenobi and Ahsoka Tano profiles with Clone Wars art and name plates (hand-read)
@@ -294,7 +291,6 @@ Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:105`
 > [To Ahsoka] If it isn't Skywalker's filthy, obnoxious little pet. Stand down, little girl, and I'll give you a cookie.
 — Source: Star Wars Insider #106 (2009).
 Note (our notes, around the quote): Asajj Ventress; Ahsoka Tano — entry/section: Ventress to Ahsoka ("Cloak of Darkness"): ""[To Ahsoka] If it isn't Skywalker's filthy, obnoxious little pet. Stand down, little girl, and I'll give you a cookie." —Asajj Ventress, Star Wars Insider 106, p. 15" Source: *Star Wars Insider #106* (2009), scan p.15
-![Quote image: *Star Wars Insider #106* (2009), scan p.15 — full quote as printed](quotes/ins106-s15-to-ahsoka-if-it-isnt-skywalkers.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:107`
 
 ## Star Wars Insider #107 (2009)
@@ -353,7 +349,6 @@ Our notes: `notes/materials/038-star-wars-insider/108-ins108.md:95`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #108 (2009).
 Note (our notes, around the quote): Ahsoka Tano; Asajj Ventress; Luminara Unduli — entry/section: Eckstein on Ahsoka's fighting style: ""I really had no idea about Ahsoka's fighting style or lightsaber techniques. I had no idea how tough she was until I actually saw her fighting Ventress. There was a deleted scene from the movie, when Ahsoka fights a giant rancor. I had no idea what that would look like. Of course, Dave explained it's this giant monster, but I had no idea how big this monster was and how little Ahsoka was, and how agile. I didn't realize how cat-like she was, and how good she was with her body movements. She's like a little gymnast! She can go anywhere and flip anywhere. ... In Cloak of Darkness, Luminara and Ahsoka fight Ventress and I had no idea what she could do with a lightsaber!" —Ashley Eckstein, Star Wars Insider 108, p. 18" Source: *Star Wars Insider #108* (2009), scan p.18
-![Quote image: *Star Wars Insider #108* (2009), scan p.18 — full quote as printed](quotes/ins108-s18-i-really-had-no-idea-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/108-ins108.md:97`
 
 - Note (summary from our notes, not a quotation): Page contents: Interview cont.: Eckstein on Cloak of Darkness ("female Jedi power!") and Ahsoka as a role model for girls. (hand-read)
@@ -371,7 +366,6 @@ Our notes: `notes/materials/038-star-wars-insider/109-ins109.md:347`
 > We always have Ahsoka Tano, and her theme is probably my favorite I've written for the show.
 — Source: Star Wars Insider #111 (2009); Ahsoka Tano — entry/section: Kiner on Ahsoka's theme.
 Note (our notes, around the quote): Ahsoka Tano — entry/section: Kiner on Ahsoka's theme: ""We always have Ahsoka Tano, and her theme is probably my favorite I've written for the show." —Kevin Kiner, Star Wars Insider 111, p. 29" Source: *Star Wars Insider #111* (2009), scan p.29
-![Quote image: *Star Wars Insider #111* (2009), scan p.29 — full quote as printed](quotes/ins111-s29-we-always-have-ahsoka-tano-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:185`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks Art Galaxy cont.: reader art of Obi-Wan vs. Vader and "School of Coruscant", a Star Wars take on Raphael's "School of Athens" with Ahsoka. Artist names omitted. Out-of-universe. (hand-read)
@@ -383,7 +377,6 @@ Our notes: `notes/materials/038-star-wars-insider/111-ins111.md:378`
 > Dave's vision for Obi-Wan in this series is very specific. He's trying to show Anakin the right way, but he's also the calm in the storm. I'm always the straight guy. Most of the time, I'm pulling the reins back on Anakin and Ahsoka, so I'm like the older brother. Nothing really gets to him.
 — Source: Star Wars Insider #112 (2009).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Ahsoka Tano — entry/section: Taylor on Filoni's vision for Obi-Wan: ""Dave's vision for Obi-Wan in this series is very specific. He's trying to show Anakin the right way, but he's also the calm in the storm. I'm always the straight guy. Most of the time, I'm pulling the reins back on Anakin and Ahsoka, so I'm like the older brother. Nothing really gets to him." —James Arnold Taylor, Star Wars Insider 112, p. 26" Source: *Star Wars Insider #112* (2009), scan p.26
-![Quote image: *Star Wars Insider #112* (2009), scan p.26 — full quote as printed](quotes/ins112-s26-daves-vision-for-obi-wan-in.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:174`
 
 ## Star Wars Insider #113 (2009)
@@ -436,13 +429,11 @@ Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:156`
 > Barriss follows the rules and does what her Master tells her. She studies hard and learns everything. When obstacles arise that aren't in the playbook, she doesn't really know what to do because she hasn't learned to rely on her instincts the way Ahsoka has. I think they really do complement each other, because she's learning so much from Ahsoka.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Barriss Offee; Ahsoka Tano — entry/section: Salenger on Barriss versus Ahsoka: ""Barriss follows the rules and does what her Master tells her. She studies hard and learns everything. When obstacles arise that aren't in the playbook, she doesn't really know what to do because she hasn't learned to rely on her instincts the way Ahsoka has. I think they really do complement each other, because she's learning so much from Ahsoka." —Meredith Salenger, Star Wars Insider 115, pp. 29-30" Source: *Star Wars Insider #115* (2010), scan p.29
-![Quote image: *Star Wars Insider #115* (2010), scan p.29 — full quote as printed](quotes/ins115-s29-barriss-follows-the-rules-and-does.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:178`
 
 > I like that she is becoming less rigid in her thinking. She's so brave and willing to sacrifice herself for the good of everybody else, and I think that's a really good quality. I think that as she grows and spends more time with Ahsoka, she'll learn that there are other ways to get out of situations, that not everything has to be done the way she's been taught.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Barriss Offee — entry/section: Salenger on Barriss' self-sacrifice and growth: ""I like that she is becoming less rigid in her thinking. She's so brave and willing to sacrifice herself for the good of everybody else, and I think that's a really good quality. I think that as she grows and spends more time with Ahsoka, she'll learn that there are other ways to get out of situations, that not everything has to be done the way she's been taught." —Meredith Salenger, Star Wars Insider 115, p. 30" Source: *Star Wars Insider #115* (2010), scan p.30
-![Quote image: *Star Wars Insider #115* (2010), scan p.30 — full quote as printed](quotes/ins115-s30-i-like-that-she-is-becoming.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:185`
 
 ## Star Wars Insider #116 (2010)
@@ -509,7 +500,6 @@ Our notes: `notes/materials/038-star-wars-insider/121-ins121.md:439`
 > Oh yeah, definitely [laughs]! Asajj is very powerful, but Ahsoka's got so much heart, and she cares so much. I think it would be a great fight.
 — Source: Star Wars Insider #122 (2011); Asajj Ventress; Ahsoka Tano — entry/section: Voicing Ventress.
 Note (our notes, around the quote): Asajj Ventress; Ahsoka Tano — entry/section: Voicing Ventress: ""Oh yeah, definitely [laughs]! Asajj is very powerful, but Ahsoka's got so much heart, and she cares so much. I think it would be a great fight." —Nika Futterman (asked whether Asajj could take down Ahsoka), Star Wars Insider 122, p. 65" Source: *Star Wars Insider #122* (2011), scan p.65
-![Quote image: *Star Wars Insider #122* (2011), scan p.65 — full quote as printed](quotes/ins122-s65-oh-yeah-definitely-laughs-asajj-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/122-ins122.md:371`
 
 ## Star Wars Insider #123 (2011)
@@ -539,7 +529,6 @@ Our notes: `notes/materials/038-star-wars-insider/123-ins123.md:252`
 > She's spent so much time with Anakin, Obi-Wan, and Plo Koon that she's taking on their fighting skills, especially Anakin's. Ahsoka has no fear, no fear at all. She just goes right at it.
 — Source: Star Wars Insider #123 (2011).
 Note (our notes, around the quote): Ahsoka Tano; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi; Plo Koon — entry/section: Ashley Eckstein interview: ""She's spent so much time with Anakin, Obi-Wan, and Plo Koon that she's taking on their fighting skills, especially Anakin's. Ahsoka has no fear, no fear at all. She just goes right at it." —Ashley Eckstein, Star Wars Insider 123, p. 43" Source: *Star Wars Insider #123* (2011), scan p.44
-![Quote image: *Star Wars Insider #123* (2011), scan p.44 — full quote as printed](quotes/ins123-s44-shes-spent-so-much-time-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/123-ins123.md:254`
 
 > really blew my mind
@@ -688,13 +677,11 @@ Our notes: `notes/materials/038-star-wars-insider/140-ins140.md:100`
 > We wanted to challenge her, so the opening sequence in the first part of the arc shows her flying toward Cato Neimoidia and the action is all about showing her in her prime, and how she is now capable. Anakin shouldn't have to worry about her, because she's the one that saves him. She has a bit of an edge to her, not unlike Anakin.
 — Source: Star Wars Insider #140 (2013).
 Note (our notes, around the quote): Ahsoka Tano; Darth Vader (Anakin Skywalker) — entry/section: Filoni on Ahsoka in her prime: ""We wanted to challenge her, so the opening sequence in the first part of the arc shows her flying toward Cato Neimoidia and the action is all about showing her in her prime, and how she is now capable. Anakin shouldn't have to worry about her, because she's the one that saves him. She has a bit of an edge to her, not unlike Anakin." —Dave Filoni, Star Wars Insider 140, p. 19" Source: *Star Wars Insider #140* (2013), scan p.19
-![Quote image: *Star Wars Insider #140* (2013), scan p.19 — full quote as printed](quotes/ins140-s19-we-wanted-to-challenge-her-so.jpg)
 Our notes: `notes/materials/038-star-wars-insider/140-ins140.md:102`
 
 > The reason that Barriss is the head conspirator with these people that have been protesting the Jedi Order is because she believes the Order is corrupt, and are following a corrupt senate. She thinks they have lost their way and that the only thing the Council reacts to or believes in anymore is violence. And she's right, everything she says is true, but her reaction to the situation is wrong and it's devastating to Ahsoka.
 — Source: Star Wars Insider #140 (2013); Barriss Offee — entry/section: Filoni on Barriss's motive.
 Note (our notes, around the quote): Barriss Offee — entry/section: Filoni on Barriss's motive: ""The reason that Barriss is the head conspirator with these people that have been protesting the Jedi Order is because she believes the Order is corrupt, and are following a corrupt senate. She thinks they have lost their way and that the only thing the Council reacts to or believes in anymore is violence. And she's right, everything she says is true, but her reaction to the situation is wrong and it's devastating to Ahsoka." —Dave Filoni, Star Wars Insider 140, p. 19" Source: *Star Wars Insider #140* (2013), scan p.19
-![Quote image: *Star Wars Insider #140* (2013), scan p.19 — full quote as printed](quotes/ins140-s19-the-reason-that-barriss-is-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/140-ins140.md:104`
 
 - Note (summary from our notes, not a quotation): Page contents: "Challenging the Fans": the Council offers to take Ahsoka back and she turns them down (changed from the original plan to bring her back); Lucas and Filoni have planned her ultimate fate; recording the final Ahsoka/Anakin scene with only Eckstein and Lanter; Kevin Kiner's music; Joel Aron's lighting (the sky from a photo Filoni took). (hand-read)

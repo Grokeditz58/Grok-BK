@@ -14,13 +14,11 @@
 > NO ONE WANTS TO SEE AN UNHAPPY WOOKIEE.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Kee (smuggler); Chak (Wookiee bounty hunter) — entry/section: Pull quote.
 Note (our notes, around the quote): Kee (smuggler); Chak (Wookiee bounty hunter) — entry/section: Pull quote: ""NO ONE WANTS TO SEE AN UNHAPPY WOOKIEE." —KEE" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.214
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.214 — full quote as printed](quotes/d719-s214-no-one-wants-to-see-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:313`
 
 > THE GRINNING LIAR WAS A LOAN—NOT A GIFT. I WANT MY SHIP BACK. NOW.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Chak (Wookiee bounty hunter) — entry/section: Pull quote.
 Note (our notes, around the quote): Chak (Wookiee bounty hunter) — entry/section: Pull quote: ""THE GRINNING LIAR WAS A LOAN—NOT A GIFT. I WANT MY SHIP BACK. NOW." —CHAK" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.220
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.220 — full quote as printed](quotes/d719-s220-the-grinning-liar-was-a-loan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:366`
 
 ## Survivor’s Quest (Timothy Zahn) + Fool’s Bargain

@@ -66,68 +66,57 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:25`
 > [fragment — full passage not on file]
 — Source: The Sith Empire.
 Note (our notes, around the quote): Marka Ragnos; Naga Sadow; Ludo Kressh — Golden Age of the Sith: "Under the leadership of Marka Ragnos, the united Sith enjoyed strength and prosperity in a time known as the Golden Age of the Sith. But when Marka Ragnos died, the golden age came to a violent end. Two Sith Lords, Naga Sadow and Ludo Kressh, fought to fill the sudden power vacuum" Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-under-the-leadership-of-marka-ragnos.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:20`
 
 > Finally, a Sith Lord arose who exemplified the virtues of the Sith. Marka Ragnos was an imposing, merciless figure, a master of the Force and the arts of war. He set his enemies at each others' throats and battled for supreme power. With the defeat of his last rival, Marka Ragnos became the new Dark Lord of the Sith. He ruled for over a century, unchallenged, in a period of stability later called the Golden Age of the Sith.
 — Source: The Sith; Marka Ragnos — The Golden Age (top-right).
 Note (our notes, around the quote): Marka Ragnos — The Golden Age (top-right): "Finally, a Sith Lord arose who exemplified the virtues of the Sith. Marka Ragnos was an imposing, merciless figure, a master of the Force and the arts of war. He set his enemies at each others' throats and battled for supreme power. With the defeat of his last rival, Marka Ragnos became the new Dark Lord of the Sith. He ruled for over a century, unchallenged, in a period of stability later called the Golden Age of the Sith." Source: The Old Republic Encyclopedia, p.147, sidebar
-![Quote image: The Old Republic Encyclopedia, p.147 — full quote as printed](quotes/tore-p147-finally-a-sith-lord-arose-who.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:24`
 
 > In Sith philosophy, that which goes unchallenged grows weak. Marka Ragnos did not lose his power—he died of old age—but his eventual successor, Naga Sadow, believed the Sith had stagnated without the chance to expand their borders or face new enemies.
 — Source: The Sith; Marka Ragnos; Naga Sadow — Driven by Conquest.
 Note (our notes, around the quote): Marka Ragnos; Naga Sadow — Driven by Conquest: "In Sith philosophy, that which goes unchallenged grows weak. Marka Ragnos did not lose his power—he died of old age—but his eventual successor, Naga Sadow, believed the Sith had stagnated without the chance to expand their borders or face new enemies." Source: The Old Republic Encyclopedia, p.147, sidebar
-![Quote image: The Old Republic Encyclopedia, p.147 — full quote as printed](quotes/tore-p147-in-sith-philosophy-that-which-goes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:26`
 
 > The spirits of powerful Sith Lords such as Marka Ragnos, Freedon Nadd, and Karness Muur influenced galactic events and inspired others to evil long after their physical deaths. For this reason, the Dark Temple on Dromund Kaas, which houses sarcophagi of the Sith Emperor's deceased enemies, is as much prison as tomb.
 — Source: The Sith.
 Note (our notes, around the quote): Marka Ragnos; Freedon Nadd; Karness Muur; Vitiate (the Sith Emperor) — Force Spirits: "The spirits of powerful Sith Lords such as Marka Ragnos, Freedon Nadd, and Karness Muur influenced galactic events and inspired others to evil long after their physical deaths. For this reason, the Dark Temple on Dromund Kaas, which houses sarcophagi of the Sith Emperor's deceased enemies, is as much prison as tomb." Source: The Old Republic Encyclopedia, p.152
-![Quote image: The Old Republic Encyclopedia, p.152 — full quote as printed](quotes/tore-p152-the-spirits-of-powerful-sith-lords.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:73`
 
 > Known as the beast of Marka Ragnos, this ferocious terentatek was warped into a Sithspawn eons ago by Marka Ragnos. Now, a Sith wages battle to fell the beast.
 — Source: The Sith; Marka Ragnos — Beast caption.
 Note (our notes, around the quote): Marka Ragnos — Beast caption: "Known as the beast of Marka Ragnos, this ferocious terentatek was warped into a Sithspawn eons ago by Marka Ragnos. Now, a Sith wages battle to fell the beast." Source: The Old Republic Encyclopedia, p.154
-![Quote image: The Old Republic Encyclopedia, p.154 — full quote as printed](quotes/tore-p154-known-as-the-beast-of-marka.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:94`
 
 > With all of Medriaas under his power, Tenebrae traveled to Korriban and met Sith Lord Marka Ragnos, ruler of all Sith. Marka Ragnos recognized Tenebrae's incredible power and named the boy Lord Vitiate.
 — Source: The Sith; Vitiate (the Sith Emperor); Marka Ragnos — Lord Vitiate.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Marka Ragnos — Lord Vitiate: "With all of Medriaas under his power, Tenebrae traveled to Korriban and met Sith Lord Marka Ragnos, ruler of all Sith. Marka Ragnos recognized Tenebrae's incredible power and named the boy Lord Vitiate." Source: The Old Republic Encyclopedia, p.160
-![Quote image: The Old Republic Encyclopedia, p.160 — full quote as printed](quotes/tore-p160-with-all-of-medriaas-under-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:165`
 
 > A true master of the dark side demands immortality by eliminating every rival along the path to eternity. Wars lasting for generations are waged to claim this final domination, for even death itself cannot deter the strongest-willed foes.
 — Source: The Sith; Marka Ragnos — The Journal of Marka Ragnos.
 Note (our notes, around the quote): Marka Ragnos — The Journal of Marka Ragnos: ""A true master of the dark side demands immortality by eliminating every rival along the path to eternity. Wars lasting for generations are waged to claim this final domination, for even death itself cannot deter the strongest-willed foes." The Journal of Marka Ragnos" Source: The Old Republic Encyclopedia, p.170
-![Quote image: The Old Republic Encyclopedia, p.170 — full quote as printed](quotes/tore-p170-a-true-master-of-the-dark.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:316`
 
 > The first great Kressh, Ludo, had already won a Kaggath when he battled Naga Sadow for the Empire's throne after the Sith ruler Marka Ragnos died. Ludo perished in a decisive fleet engagement, but his proud bloodline lived on.
 — Source: The Sith.
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow; Marka Ragnos — The Kressh Legacy (top-right): "The first great Kressh, Ludo, had already won a Kaggath when he battled Naga Sadow for the Empire's throne after the Sith ruler Marka Ragnos died. Ludo perished in a decisive fleet engagement, but his proud bloodline lived on." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-the-first-great-kressh-ludo-had.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:324`
 
 > The Tomb of Marka Ragnos on Korriban is a grand Sith monument. It stands as a testament to his long and impressive rule of the Sith Empire that ended almost 1,400 years ago.
 — Source: The Sith; Marka Ragnos — Tomb caption.
 Note (our notes, around the quote): Marka Ragnos — Tomb caption: "The Tomb of Marka Ragnos on Korriban is a grand Sith monument. It stands as a testament to his long and impressive rule of the Sith Empire that ended almost 1,400 years ago." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-the-tomb-of-marka-ragnos-on.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:328`
 
 > AGE: 76 SPECIES: Sith Pureblood SPHERE OF INFLUENCE: Production and Logistics APPRENTICE: Lord Qet FAVORITE LIBATIONS: Korriban Sunset, Dromund brandy, Dusk of Ragnos
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Vowrawn — Data box.
 Note (our notes, around the quote): Darth Vowrawn — Data box: "AGE: 76 SPECIES: Sith Pureblood SPHERE OF INFLUENCE: Production and Logistics APPRENTICE: Lord Qet FAVORITE LIBATIONS: Korriban Sunset, Dromund brandy, Dusk of Ragnos" Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-age-76-species-sith-pureblood-sphere.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:376`
 
 > Sith Lords such as Tulak Hord and Marka Ragnos were entombed within, along with their powerful dark artifacts—protected by vicious traps and deadly guardians.
 — Source: Species, technology, planets and the future; Tulak Hord; Marka Ragnos — Blood and Sand intro.
 Note (our notes, around the quote): Tulak Hord; Marka Ragnos — Blood and Sand intro: "Sith Lords such as Tulak Hord and Marka Ragnos were entombed within, along with their powerful dark artifacts—protected by vicious traps and deadly guardians." Source: The Old Republic Encyclopedia, p.292
-![Quote image: The Old Republic Encyclopedia, p.292 — full quote as printed](quotes/tore-p292-sith-lords-such-as-tulak-hord.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:267`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -135,14 +124,12 @@ Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:26
 > After a century of iron-handed rule, Dark Lord Marka Ragnos had died.
 — Source: Part One: Tales of the Ancient Republic; Marka Ragnos — death of Marka Ragnos.
 Note (our notes, around the quote): Marka Ragnos — death of Marka Ragnos: "After a century of iron-handed rule, Dark Lord Marka Ragnos had died." Source: The New Essential Chronology, p.8
-![Quote image: The New Essential Chronology, p.8 — full quote as printed](quotes/nec-p8-death-of-marka-ragnos.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:53`
 
 > He and Ulic fought with a blazing clash of Jedi blades—and during the conflict the Sith amulets both men wore began to shimmer. Before them appeared the image of the long-dead Dark Lord of the Sith Marka Ragnos
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Ulic Qel-Droma; Marka Ragnos — Kun vs Ulic, Ragnos appears: "He and Ulic fought with a blazing clash of Jedi blades—and during the conflict the Sith amulets both men wore began to shimmer. Before them appeared the image of the long-dead Dark Lord of the Sith Marka Ragnos" Source: The New Essential Chronology, p.18
-![Quote image: The New Essential Chronology, p.18 — full quote as printed](quotes/nec-p18-kun-vs-ulic-ragnos-appears.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:132`
 
 > The last of the ships, the Nebula-class New Republic Star Destroyer, was christened eleven years after Endor, One year later, enough of the New Class had been produced at the Kuat yards to make an entire armada, the New Repubiic’s Fifth Fleet. Some Senators began to ques- tion the Chief of State, even going so far as to compare the Fifth Fleet to the sweeping military expansions of Emperor Palpatine.
@@ -159,7 +146,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Marka Ragnos — Marka Ragnos's spirit: "the spirit of long-dead Sith Lord Marka Ragnos had survived for five millennia in the tombs of Korriban, and was largely responsible for this latest dark side outbreak." Source: The New Essential Chronology, p.179
-![Quote image: The New Essential Chronology, p.179 — full quote as printed](quotes/nec-p179-marka-ragnoss-spirit.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:33`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -182,7 +168,6 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Marka Ragnos: "Shamed by her defeat, she went into hiding and emerged some time later as part of the Disciples of Ragnos." Source: The Complete Star Wars Encyclopedia, Vol. I, p.50
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.50 — full quote as printed](quotes/v1-p50-shamed-by-her-defeat-she-went.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:196`
 
 > Awmetth,Veedaaz A Senator from the Vensensor sector who attended the funeral of Padme Amidala. Axmis,TavionAn apprentice of the Dark Jedi Desann who challenged Luke Skywalk­ er's Jedi academy after the Battle of Endor. Kyle Katarn defeated her in a lightsaber duel but chose to spare her life, demonstrating his adherence to the light side of the Force. Shamed by her defeat, she went into hiding and emerged some time later as part of the Disciples ofRagnos. The Twi'lek Alora served as her student. Jedi student Jaden Korr con­ fronted Axmis on Korriban, where she had used an ancient Sith artifact to reawaken the spirit of Marka Ragnos. Briefly possessed by Ragnos, Axmis wielded incredible power, yet she was still defeated by Korr. AX/RXA modified MD droid used by Kh'aris Fenn to torture Jedi Master Tholme on Kintan during the Clone Wars. AX/RX couldemit pain­ ful electrical shocks. Tholme fooled the droid with a Jedi breathing technique that stopped his heartbeat. A surprise attack by Tholme and Aayla Secura then destroyed the droid.
@@ -190,13 +175,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Marka Ragnos: "Briefly possessed by Ragnos, Axmis wielded incredible power, yet she was still defeated by Korr." Source: The Complete Star Wars Encyclopedia, Vol. I, p.50
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.50 — full quote as printed](quotes/v1-p50-briefly-possessed-by-ragnos-axmis-wielded.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:198`
 
 > Eight years later, during Tavion Axmis's campaign to resurrect the spirit of long-dead Sith Lord Marka Ragnos, she ventured to the rocky remains of Byss to siphon dark side energy for use in her cult rituals.
 — Source: scan pages 81–120; Marka Ragnos. POV: Marka Ragnos.
 Note (our notes, around the quote): Marka Ragnos: "Eight years later, during Tavion Axmis's campaign to resurrect the spirit of long-dead Sith Lord Marka Ragnos, she ventured to the rocky remains of Byss to siphon dark side energy for use in her cult rituals." Source: The Complete Star Wars Encyclopedia, Vol. I, p.99
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.99 — full quote as printed](quotes/v1-p99-eight-years-later-during-tavion-axmiss.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:271`
 
 > Vydel was unaware of her dark per­ sona, and during the Clone Wars led the investigation to hunt down Kardem. She was finally stopped by the Man­ dalorian Feskitt Bobb. dlscblade A thrown razor-edged weapon used by the Zeison Sha warriors, it was imbued with super­ natural accuracy by the Force. Disciples of Ragnos A dark side cult led by Ta­ vion Axmis a decade into Discord missile the New Republic's rule, it at­ tempted to resurrect the an­ cient Sith Lord, Marka Ragnos. The cultists targeted worlds with known con­ centrations ofForce energy-Yavin 4, Corellia, Hoth, Tatooine, and Yjun-to empower the Scepter of Ragnos Sith artifact. Jedi Knight Jaden Korr defeated Axmis and her cult on Korriban, preventing the return of Ragnos. discord missile A specialized projectile used by Confederacy starfighters to deposit buzz droids onto enemy targets during the Clone Wars. Dlscrl�class attack cruisers Eighty­ five-meter-long capital warships armed with turret-mounted laser cannons, tri-particle beamers, and tri-laser cannons, they were built on Daupherm for use in that planet's de­ fense fleet. Disra,MoHVlllmAn Imperial officer who started his career as a chief administrator for Governor Barshnis Choard in the Shelsha sector, liaising with the BloodScar pirates.
@@ -204,7 +187,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos: "Jedi Knight Jaden Korr defeated Axmis and her cult on Korriban, preventing the return of Ragnos." Source: The Complete Star Wars Encyclopedia, Vol. I, p.191
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.191 — full quote as printed](quotes/v1-p191-jedi-knight-jaden-korr-defeated-axmis.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:49`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -212,13 +194,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > He confronted Tavion, and was able to defeat her in combat just as she reawakened the spirit of Marka Ragnos.
 — Source: scan pages 201–240; Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden.
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden: "He confronted Tavion, and was able to defeat her in combat just as she reawakened the spirit of Marka Ragnos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.227 — full quote as printed](quotes/v2-p227-he-confronted-tavion-and-was-able.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:340`
 
 > Jaden defeated the ancient undead Sith spirit, destroying the Scepter of Ragnos and cutting off any pathway to the spirit world.
 — Source: scan pages 201–240; Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden.
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden: "Jaden defeated the ancient undead Sith spirit, destroying the Scepter of Ragnos and cutting off any pathway to the spirit world." Source: The Complete Star Wars Encyclopedia, Vol. II, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.227 — full quote as printed](quotes/v2-p227-jaden-defeated-the-ancient-undead-sith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:342`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -230,19 +210,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan
 > Soon after his demise, his ghostly visage appeared before Ludo Kressh and Naga Sadow, who were engaged in a duel to determine who would succeed Ragnos; the spirit urged the two aspiring Dark Lords to make peace in order to advance the Sith Empire.
 — Source: scan pages 41–80; Marka Ragnos; Ludo Kressh; Naga Sadow — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos; Ludo Kressh; Naga Sadow — entry/section: Ragnos, Marka: "Soon after his demise, his ghostly visage appeared before Ludo Kressh and Naga Sadow, who were engaged in a duel to determine who would succeed Ragnos; the spirit urged the two aspiring Dark Lords to make peace in order to advance the Sith Empire." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-soon-after-his-demise-his-ghostly.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:299`
 
 > In the time of the New Republic, a decade after the Battle of Endor, the Dark Jedi Tavion Axmis acquired the Scepter of Ragnos—an archaeological relic—and used it in an effort to resurrect the Dark Lord's spirit.
 — Source: scan pages 41–80; Marka Ragnos — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos — entry/section: Ragnos, Marka: "In the time of the New Republic, a decade after the Battle of Endor, the Dark Jedi Tavion Axmis acquired the Scepter of Ragnos—an archaeological relic—and used it in an effort to resurrect the Dark Lord's spirit." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-in-the-time-of-the-new.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:301`
 
 > Her cult, the Disciples of Ragnos, nearly succeeded on Korriban, but they were defeated by Jaden Korr.
 — Source: scan pages 41–80; Marka Ragnos; Jaden Korr — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos; Jaden Korr — entry/section: Ragnos, Marka: "Her cult, the Disciples of Ragnos, nearly succeeded on Korriban, but they were defeated by Jaden Korr." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-her-cult-the-disciples-of-ragnos.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:303`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -256,7 +233,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:10`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Marka Ragnos — entry/section: Marka Ragnos, Sith Lord: "He believed the Sith were not yet read to enter into a protracted war with the forces of the Republic, especially if the Jedi were still as strong as they had been when they defeated his ancestors." Source: Dark Side Sourcebook, p.69
-![Quote image: Dark Side Sourcebook, p.69 — full quote as printed](quotes/dss-p69-he-believed-the-sith-were-not.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: 623 words, 21 paragraphs | headings/entries: Naga Sadow. Sith Lord; When Marka Ragnos, the Dark Lord of

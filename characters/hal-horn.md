@@ -14,7 +14,6 @@
 > During a quick stopover on Corellia, Bossk shot and killed CorSec officer Hal Horn.
 — Source: scan pages 1–30; Bossk. POV: Bossk, about Hal Horn.
 Note (our notes, around the quote): Bossk: "During a quick stopover on Corellia, Bossk shot and killed CorSec officer Hal Horn." Source: The New Essential Guide to Characters, p.29
-![Quote image: The New Essential Guide to Characters, p.29 — full quote as printed](quotes/negc-p29-during-a-quick-stopover-on-corellia.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:161`
 
 ## Star Wars Insider #66 (2003)

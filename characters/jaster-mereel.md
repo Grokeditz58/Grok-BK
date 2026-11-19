@@ -18,7 +18,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > However, before he could capture Fust and make his escape, Jaster's Legacy was destroyed by one of the prison's Firespray-class patrol ships.
 — Source: scan pages 121–160; Jaster Mereel — entry/section: Jaster's Legacy.
 Note (our notes, around the quote): Jaster Mereel — entry/section: Jaster's Legacy: "However, before he could capture Fust and make his escape, Jaster's Legacy was destroyed by one of the prison's Firespray-class patrol ships." Source: The Complete Star Wars Encyclopedia, Vol. II, p.142
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.142 — full quote as printed](quotes/v2-p142-however-before-he-could-capture-fust.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:199`
 
 - Note (summary from our notes, not a quotation): Page contents: 1239 words, 30 paragraphs | headings/entries: Mereel, Jaster; Merenzane Gold; Merf; Merglyn; Merick; Meridian; Meridian; Meriko, Miracle; Merikon; Merili; Merisee Hope; Merit, Klo; Merkon, Dr.; Merkon, Tem
@@ -28,7 +27,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > Mereel, Jaster A Journeyman Protector from the planet Concord Dawn, he killed another Protector in the line of duty.
 — Source: scan pages 281–320; Jaster Mereel — entry/section: Mereel, Jaster.
 Note (our notes, around the quote): Jaster Mereel — entry/section: Mereel, Jaster: "Mereel, Jaster A Journeyman Protector from the planet Concord Dawn, he killed another Protector in the line of duty." Source: The Complete Star Wars Encyclopedia, Vol. II, p.307
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.307 — full quote as printed](quotes/v2-p307-mereel-jaster-a-journeyman-protector-from.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:278`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -36,13 +34,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > His original ship, Jaster's Legacy, was destroyed during the mission.
 — Source: scan pages 161–200; Jaster Mereel. POV: Jaster Mereel.
 Note (our notes, around the quote): Jaster Mereel: "His original ship, Jaster's Legacy, was destroyed during the mission." Source: The Complete Star Wars Encyclopedia, Vol. III, p.167
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.167 — full quote as printed](quotes/v3-p167-his-original-ship-jasters-legacy-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:174`
 
 > Vizsla shot and killed Jaster Mereel, then celebrated the victory.
 — Source: scan pages 281–320; Jaster Mereel. POV: Jaster Mereel.
 Note (our notes, around the quote): Jaster Mereel: "Vizsla shot and killed Jaster Mereel, then celebrated the victory." Source: The Complete Star Wars Encyclopedia, Vol. III, p.309
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.309 — full quote as printed](quotes/v3-p309-vizsla-shot-and-killed-jaster-mereel.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:278`
 
 ## The New Essential Guide to Characters (2002)
@@ -50,7 +46,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Years before, Montross had killed Mandalorian officer Jaster Mereel and mounted his armor—bearing the skull insignia of Mereel's regiment—in his home as a grim trophy.
 — Source: scan pages 61–90; Jaster Mereel. POV: Jaster Mereel.
 Note (our notes, around the quote): Jaster Mereel: "Years before, Montross had killed Mandalorian officer Jaster Mereel and mounted his armor—bearing the skull insignia of Mereel's regiment—in his home as a grim trophy." Source: The New Essential Guide to Characters, p.69
-![Quote image: The New Essential Guide to Characters, p.69 — full quote as printed](quotes/negc-p69-years-before-montross-had-killed-mandalorian.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:23`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -66,7 +61,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-061-12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 99 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_99_pdf_5f5ad9c03e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 99 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_99_pdf_5f5ad9c03e`).)
 Note (our notes, around the quote): Jaster Mereel — entry/section: Mandalorian Civil War: Jaster Mareel vs Vizsla: "In the following millennia, Mandalorians were most often mercenaries (including a few bounty hunters), at least until the Mandalorian Civil War between the True Mandalorians under Jaster Mareel and the Death Watchmen led by Vizsla." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d270-s3-in-the-following-millennia-mandalorians-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:35`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–240)
@@ -74,7 +68,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:35`
 > Jango acquired the Firespray-class patrol ship from the prison colony at Oovo IV, after the son guards destroyed his own ship, Jaster's Shadow.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Jango Fett; Jaster Mereel.
 Note (our notes, around the quote): Jango Fett; Jaster Mereel: "Jango acquired the Firespray-class patrol ship from the prison colony at Oovo IV, after the son guards destroyed his own ship, Jaster's Shadow." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.233
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.233 — full quote as printed](quotes/d671-s233-jango-acquired-the-firespray-class-patrol.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181-240.md:284`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -109,7 +102,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:880`
 > We thought it was plausible that Jaster Mereel had been someone in Fett's life and that the two histories got confused over time.
 — Source: Star Wars Insider #60 (2002); Jaster Mereel; Jango Fett — entry/section: Blackman on Jaster Mereel.
 Note (our notes, around the quote): Jaster Mereel; Jango Fett — entry/section: Blackman on Jaster Mereel: ""We thought it was plausible that Jaster Mereel had been someone in Fett's life and that the two histories got confused over time." —Haden Blackman, Star Wars Insider 60, p. 113" Source: *Star Wars Insider #60* (2002), scan p.113
-![Quote image: *Star Wars Insider #60* (2002), scan p.113 — full quote as printed](quotes/ins060-s113-we-thought-it-was-plausible-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:882`
 
 ## Star Wars Insider #75 (2004)

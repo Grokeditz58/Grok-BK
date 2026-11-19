@@ -18,7 +18,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:19`
 > A JEDI KNIGHT TRAINED BY MASTER THON OF AMBRIA.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Introduced. POV: Introduced, about Master Thon.
 Note (our notes, around the quote): Introduced: "A JEDI KNIGHT TRAINED BY MASTER THON OF AMBRIA." Source: Freedon Nadd Uprising #1, p5
-![Freedon Nadd Uprising #1 p5: Oss Wilum, "a Jedi Knight trained by Master Thon of Ambria", arrives on Onderon](panels/fnu1-p05-oss-wilum-intro.jpg)
+![Freedon Nadd Uprising #1 p5: Oss Wilum, "a Jedi Knight trained by Master Thon of Ambria", arrives on Onderon](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p05-oss-wilum-intro.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:154`
 
 > AS NOMI SUNRIDER TOUCHES ITS ACTIVATOR, A POWERFUL ENERGY BEAM PULSES FROM THE NEWLY CONSTRUCTED LIGHTSABER.
@@ -30,25 +30,25 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:162`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Nomi Sunrider. POV: narrator, about Master Thon.
 Note (our notes, around the quote): Narration on Nomi Sunrider: "DURING THE WEEKS THAT FOLLOW, NOMI ADVANCES RAPIDLY IN THE JEDI WAY...UNTIL ONE DAY A FATEFUL ASSEMBLY IS CALLED--" · NARRATION. Source: Freedon Nadd Uprising #1, p22
-![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](panels/fnu1-p22-onderon-rescue-team.jpg)
+![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p22-onderon-rescue-team.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:163`
 
 > YOUR SPIRIT IS RUSHING TOWARD DESTINY!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Thon to Nomi Sunrider. POV: Thon.
 Note (our notes, around the quote): Thon to Nomi Sunrider: "YOUR SPIRIT IS RUSHING TOWARD DESTINY!" Source: Freedon Nadd Uprising #1, p22
-![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](panels/fnu1-p22-onderon-rescue-team.jpg)
+![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p22-onderon-rescue-team.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:177`; `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:165`; `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:213`; `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:199`
 
 > A GREAT JEDI MASTER, THON OF AMBRIA, HAS BROUGHT HIS NEW APPRENTICE TO OSSUS TO TRAIN AND STUDY.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Brings Nomi Sunrider to Ossus. POV: Brings Nomi Sunrider, about Master Thon.
 Note (our notes, around the quote): Brings Nomi Sunrider to Ossus: "A GREAT JEDI MASTER, THON OF AMBRIA, HAS BROUGHT HIS NEW APPRENTICE TO OSSUS TO TRAIN AND STUDY." · NARRATION. Source: Freedon Nadd Uprising #1, p18
-![Freedon Nadd Uprising #1 p18: Thon of Ambria brings his new apprentice Nomi to Ossus](panels/fnu1-p18-thon-brings-nomi-ossus.jpg)
+![Freedon Nadd Uprising #1 p18: Thon of Ambria brings his new apprentice Nomi to Ossus](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p18-thon-brings-nomi-ossus.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:193`
 
 - Note (summary from our notes, not a quotation): Learning lightsaber construction under Vodo; chosen for the Onderon rescue team. Source: Freedon Nadd Uprising #1, p19, p22
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](panels/fnu1-p22-onderon-rescue-team.jpg)
-![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
+![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p22-onderon-rescue-team.jpg)
+![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:205`
 
 - Note (summary from our notes, not a quotation): All 27 pages of #1 and all 22 pages of #2 read (NEW 2026-10-27). The Onderon arc is complete for Freedon Nadd, Ommin, Arca Jeth, Galia and the Jedi team. Thon does not appear in #2.
@@ -64,7 +64,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Narrative bio: "Apparently, Thon arrived on Ossus already possessing great skill as a Jedi. He even taught the assembled Masters several unknown powers, increasing their desire to know more about Thon's origins." Source: Tales of the Jedi Companion (WEG, 1996), p.31
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.31 — full quote as printed](quotes/companion-p31-apparently-thon-arrived-on-ossus-already.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.31 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p31-apparently-thon-arrived-on-ossus-already.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:69`
 
 > The Republic's Bureau of Xenology has arbitrarily chosen to name Thon's species Whorl for lack of any other meaningful designation. Thon has not commented on this decision or on any of the other data contained in the archive, and scientists have therefore given up sending inquiries to the reclusive Jedi. Interviews with other Jedi Masters have uncovered additional information that has further deepened the mystery surrounding this all-too-silent being. Apparently, Thon arrived on Ossus already possessing great skill as a Jedi. He even taught the assembled Masters several unknown powers, increasing their desire to know more about Thon's origins. Thon responded to their questions by saying in his deep, guttural voice, "It is better that you do not know - at least, not yet." The Jedi accepted Thon's response - although it further piqued their interest. After several years on Ossus, Thon decided to relocate to a more remote world where he could teach his apprentices "in peace." Taking only a single item - an ancient lightsaber - he vaulted across the galaxy guided by nothing other than the Force. Somewhere beyond the range of his ship's sensors, a point of utter blackness called his attention, and for several weeks he meditated on its presence as his ship slowly made its way toward the Force-stain.
@@ -72,24 +72,24 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Thon, when asked about his origins: "It is better that you do not know - at least, not yet." Source: Tales of the Jedi Companion (WEG, 1996), p.31
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.31 — full quote as printed](quotes/companion-p31-it-is-better-that-you-do.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.31 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p31-it-is-better-that-you-do.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:71`
 
 > Thon swam out into the middle of Lake Natth and surrendered himself to the dark side. But as the Sith spirits converged on his limp form, Thon lashed out with the Force, ensnaring his enemies in a lattice-work of light-side energy.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Traps the Sith spirits of Ambria (bio narration).
 Note (our notes, around the quote): Traps the Sith spirits of Ambria (bio narration): "Thon swam out into the middle of Lake Natth and surrendered himself to the dark side. But as the Sith spirits converged on his limp form, Thon lashed out with the Force, ensnaring his enemies in a lattice-work of light-side energy." Source: Tales of the Jedi Companion (WEG, 1996), p.32
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.32 — full quote as printed](quotes/companion-p32-thon-swam-out-into-the-middle.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.32 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p32-thon-swam-out-into-the-middle.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:75`
 
 - Note (summary from our notes, not a quotation): Ambria site entry: "Jedi Master Thon, guided by the Force, eventually sought out Ambria and drove the darkness that had reigned upon the planet for millennia into an immense body of water he dubbed Natth, which means "cage" in his native tongue." Source: Tales of the Jedi Companion (WEG, 1996), p.130
   — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes. POV: Ambria site entry, about Master Thon.
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.130 — full quote as printed](quotes/companion-p130-jedi-master-thon-guided-by-the.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.130 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p130-jedi-master-thon-guided-by-the.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:77`
 
 > Thon deflects the laser cannon blasts of the pirates with the Force as he tries to get Nomi to take up the lightsaber.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Nomi saga summary. POV: Nomi saga summary.
 Note (our notes, around the quote): Nomi saga summary: "Thon deflects the laser cannon blasts of the pirates with the Force as he tries to get Nomi to take up the lightsaber." Source: Tales of the Jedi Companion (WEG, 1996), p.13
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.13 — full quote as printed](quotes/companion-p13-thon-deflects-the-laser-cannon-blasts.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.13 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p13-thon-deflects-the-laser-cannon-blasts.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:79`
 
 > bestial companion rushes out and quickly ends the
@@ -100,13 +100,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes.
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_weg_paged_txt`.)
 Note (our notes, around the quote): Nomi saga summary (Thon, called "Oss's bestial companion" at this point in the story): Thon "quickly ends the confrontation by throwing off a force field that knocks the attackers back." Source: Tales of the Jedi Companion (WEG, 1996), p.12
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.12 — full quote as printed](quotes/companion-p12-quickly-ends-the-confrontation-by-throwing.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.12 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p12-quickly-ends-the-confrontation-by-throwing.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:81`
 
 > Thon has access to all Jedi powers listed in this book, plus many others as yet undiscovered.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes.
 Note (our notes, around the quote): RPG MECHANICS: Thon (Wharl Jedi Master). Force skills Control 10D+2, Sense 12D+1, Alter 11D+2. Stat note: "Thon has access to all Jedi powers listed in this book, plus many others as yet undiscovered." No lightsaber skill listed. Brawling 11D, brawling parry 9D, melee combat 10D+2, Strength 5D, willpower 11D+1, scholar: Jedi lore 10D. Force Points 18, Dark Side Points 2, Character Points 29. Move 14. Source: Tales of the Jedi Companion (WEG, 1996), p.33
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.33 — full quote as printed](quotes/companion-p33-thon-has-access-to-all-jedi.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.33 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p33-thon-has-access-to-all-jedi.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:85`
 
 > It had never occurred to him to look deeper, to examine his life, to seek ways in which he could better the galaxy - whatever that might mean. But now he saw the truth. The time for reevaluation had come, and he would not allow himself to ignore his duties any longer. After more than a year of introspection and of observation of the galaxy around him, Oss decided to join the Jedi Knights. Master Thon immediately recognized Oss's aptitude for connecting with the Force, and the Jedi brought his new apprentice to the remote world of Ambria to begin his training. After five years, Oss had exceeded Thon's expectations, especially since the Vultan had begun his apprenticeship so late in life. When Tott Doneeta arrived to Ambria to ask assistance in the fight against the dark siders on Onderon, Oss - with the approval of Master Thon - accepted the invitation. OSS WILUM Type: Vultan Jedi Knight DEXTERITY 3D+2 Brawling parry 40+ I, dodge 40. IIghtsaber 50, melee parry 40+2. pulse-wave weapons 40...
@@ -114,7 +114,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Narrative bio: "After five years, Oss had exceeded Thon's expectations, especially since the Vultan had begun his apprenticeship so late in life." Source: Tales of the Jedi Companion (WEG, 1996), p.28
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.28 — full quote as printed](quotes/companion-p28-after-five-years-oss-had-exceeded.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.28 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p28-after-five-years-oss-had-exceeded.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:166`
 
 > Fighting past a wall of dark force, Ulic manages to destroy Warb Null. Galia and Ulic return to the upper levels of the city to find that the Naddists have taken the palace. The Jedi decide that they cannot fight this darkness alone. They must call on the Jedi Knights and the forces of the Republic. A base of operations is set up in Modon Kira's forest stronghold. On Ossus, the third planet of the Adegan system, Master Thon and his apprenticeNomi Sunrider arrive to an ancient Jedi stronghold that is now a thriving Jedi training center. Thon and Nomi visit Master Vodo-Siosk Baas, the great Jedi who will train Nomi in the art of lightsaber construction. Within a week Nomi has built her lightsaber using the Adegan crystals her husband had intended as gift for Master Thon. She quickly advances in her skills over the ensuing weeks. A Jedi assembly is called and it is announced that volunteers are needed to rescue Master Arca from the forces of the dark side on the planet Onderon. The entire assembly volunteers, but only five are chosen: Dace Diath, Shoaneb Culu, Qrrri Toq, Kith Kark, and Nomi Sunrider.
@@ -122,7 +122,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Nomi saga summary: "Thon and Nomi visit Master Vodo-Siosk Baas, the great Jedi who will train Nomi in the art of lightsaber construction." Source: Tales of the Jedi Companion (WEG, 1996), p.14
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](quotes/companion-p14-thon-and-nomi-visit-master-vodo.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p14-thon-and-nomi-visit-master-vodo.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:277`
 
 - Note (summary from our notes, not a quotation): | Thon (Jedi Master) | 10D+2 | 12D+1 | 11D+2 | — (melee 10D+2) | p.33 |
@@ -142,7 +142,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:18`
 > [fragment — full passage not on file]
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Thon to Exar Kun. POV: Thon.
 Note (our notes, around the quote): Thon to Exar Kun: "EXAR KUN, NGGRRSSH, YOUR DREAM OF A SITH GOLDEN AGE IS BUT A NIGHTMARE..." "...FROM WHICH WE MUST NOW AWAKEN." Source: The Sith War #6, p18
-![The Sith War #6 p18: Master Thon: "Exar Kun, your dream of a Sith golden age is but a nightmare"](panels/sw6-p18-thon-golden-age-nightmare.jpg)
+![The Sith War #6 p18: Master Thon: "Exar Kun, your dream of a Sith golden age is but a nightmare"](../notes/materials/024-tales-of-the-jedi/panels/sw6-p18-thon-golden-age-nightmare.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:83`
 
 > DO NOT GRIEVE FOR ME, THON. THIS IS MY METAMORPHOSIS, MY LIFE CYCLE.
@@ -165,7 +165,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:228`
 > SZRRR! IT IS AN EVIL DAY. I HAVE BEEN DRIVEN TO KILL.
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Kills one of the Ambria lake beasts.
 Note (our notes, around the quote): Kills one of the Ambria lake beasts: "SZRRR! IT IS AN EVIL DAY. I HAVE BEEN DRIVEN TO KILL." Source: The Sith War #4, p9
-![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](panels/sw4-p09-sylvar-crado-ambria.jpg)
+![The Sith War #4 p9: Sylvar kills a lake beast ("It is an evil day. I have been driven to kill"), fells Oss Wilum and claws Crado](../notes/materials/024-tales-of-the-jedi/panels/sw4-p09-sylvar-crado-ambria.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:231`
 
 - Note (summary from our notes, not a quotation): | 7 | Thon, Nomi, Sylvar vs Oss Wilum, Crado + beasts | Ambria | p5–10 (#4) | Jedi win; Crado flees | Nomi carrying Vima |
@@ -184,7 +184,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:275`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Crado; Master Thon — Thon defeats Crado: "Kun's lieutenant, Crado, attempted to kill his former Master, but Thon defeated him and Crado fled." Source: The New Essential Chronology, p.19
-![Quote image: The New Essential Chronology, p.19 — full quote as printed](quotes/nec-p19-thon-defeats-crado.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:149`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -192,7 +191,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > When Stonebone's men tried to murder Jedi Master Thon and Nomi Sunrider, Nomi used the Jedi battle meditation technique to force the pirates to turn on one another.
 — Source: scan pages 281–320; Master Thon; Nomi Sunrider.
 Note (our notes, around the quote): Master Thon; Nomi Sunrider: "When Stonebone's men tried to murder Jedi Master Thon and Nomi Sunrider, Nomi used the Jedi battle meditation technique to force the pirates to turn on one another." Source: The Complete Star Wars Encyclopedia, Vol. I, p.283
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.283 — full quote as printed](quotes/v1-p283-when-stonebones-men-tried-to-murder.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:139`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -200,13 +198,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > Sunrider, Andur The husband of Nomi Sunrider and father of Vima, this Jedi was killed some 4,000 years before the Galactic Civil War in a senseless battle with petty gangsters at the Stenness hyperspace terminal while he was on his way to visit Jedi Master Thon on Ambria.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Andur Sunrider; Nomi Sunrider; Vima-Da-Boda; Master Thon — entry/section: Sunrider, Andur: "Sunrider, Andur The husband of Nomi Sunrider and father of Vima, this Jedi was killed some 4,000 years before the Galactic Civil War in a senseless battle with petty gangsters at the Stenness hyperspace terminal while he was on his way to visit Jedi Master Thon on Ambria." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-sunrider-andur-the-husband-of-nomi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:41`
 
 > She was accompanying her husband on a mission to take some Adegan crystals, used to construct lightsabers, to Jedi Master Thon in the Ambria system when Andur was cut down by several henchmen of Great Bogga the Hutt.
 — Source: scan pages 201–240; Nomi Sunrider; Master Thon; Andur Sunrider — entry/section: Sunrider, Nomi.
 Note (our notes, around the quote): Nomi Sunrider; Master Thon; Andur Sunrider — entry/section: Sunrider, Nomi: "She was accompanying her husband on a mission to take some Adegan crystals, used to construct lightsabers, to Jedi Master Thon in the Ambria system when Andur was cut down by several henchmen of Great Bogga the Hutt." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-she-was-accompanying-her-husband-on.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:43`
 
 - Note (summary from our notes, not a quotation): Page contents: 1128 words, 20 paragraphs | headings/entries: Tholos; Thomork; Thon; Thon, Master; Tho'natu, Master
@@ -216,13 +212,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Thon A continent on the destroyed planet Alderaan, it was the location of the Uplands.
 — Source: scan pages 241–280; Master Thon — entry/section: Thon.
 Note (our notes, around the quote): Master Thon — entry/section: Thon: "Thon A continent on the destroyed planet Alderaan, it was the location of the Uplands." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-thon-a-continent-on-the-destroyed.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:35`
 
 > But Thon, with help, defeated the beasts, captured Wilum, and brought him out of his Sith spell.
 — Source: scan pages 321–360; Master Thon. POV: Master Thon.
 Note (our notes, around the quote): Master Thon: "But Thon, with help, defeated the beasts, captured Wilum, and brought him out of his Sith spell." Source: The Complete Star Wars Encyclopedia, Vol. III, p.330
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.330 — full quote as printed](quotes/v3-p330-but-thon-with-help-defeated-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:125`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -234,19 +228,16 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > The Jedi and the Republic clashed with the Krath, Exar Kun, and Ulic Qel-Droma many times before defeating the Sith forces.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Master Thon; Exar Kun; Ulic Qel-Droma — entry/section: Thon, Watchman of Stennes: "The Jedi and the Republic clashed with the Krath, Exar Kun, and Ulic Qel-Droma many times before defeating the Sith forces." Source: Power of the Jedi Sourcebook, p.101
-![Quote image: Power of the Jedi Sourcebook, p.101 — full quote as printed](quotes/potj-p101-the-jedi-and-the-republic-clashed.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:39`
 
 > Andur's killers followed Nomi to Ambria and were defeated by Master Thon.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Nomi Sunrider; Andur Sunrider; Master Thon — entry/section: Nomi Sunrider, Jedi Knight: "Andur's killers followed Nomi to Ambria and were defeated by Master Thon." Source: Power of the Jedi Sourcebook, p.104
-![Quote image: Power of the Jedi Sourcebook, p.104 — full quote as printed](quotes/potj-p104-andurs-killers-followed-nomi-to-ambria.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:76`
 
 > They defeated Oss in combat, but Master Thon, who drove the gangsters off, spared the young Jedi's life.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Oss Wilum; Master Thon.
 Note (our notes, around the quote): Oss Wilum; Master Thon: "They defeated Oss in combat, but Master Thon, who drove the gangsters off, spared the young Jedi's life." Source: Power of the Jedi Sourcebook, p.106
-![Quote image: Power of the Jedi Sourcebook, p.106 — full quote as printed](quotes/potj-p106-they-defeated-oss-in-combat-but.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:100`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 5/504 - Plea Bargain.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -257,7 +248,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Full sentence/passage taken from the source text on file: `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf`.)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: "He will make a blaster shape out of his fingers and point it at the heroes, give them a" Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.10
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.10 — full quote as printed](quotes/d344-p10-he-will-make-a-blaster-shape.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:91`
 
 > He has already given a full deposition to the authorities and will be traveling to Cularin shortly for the hearing and trial. • KEY: Larimhor used his personal com to contact the authorities as soon as he realized Di’San was attempting to kill Rysko. Yes, he was the first to report the fight. He commed out about the same time Di’San began smashing Rysko’s head against the pillar. • KEY: Once Larimhor gets talking about the upcoming inquest and trial he will inform the characters he has already made contact with Rysko’s mother. He has hired a high priced attorney and plans to sue the CTA for millions and millions of credits for the wrongful murder of her only son. • KEY: Sense motive checks will reveal only that Larimhor is a smooth talker. Friendship and Diplomacy checks have no effect since Larimhor is openly friendly to the heroes. Intimidation attempts only cause Larimhor to laugh and call the heroes Crusaders of the Lost Cause. He will buy the characters drinks, introduce them to various customers as they walk by, in general he appears to be extremely social and outgoing. However, the heroes will walk away with the distinct feeling he was simply toying with them as a cat would a mouse. • KEY: (After talking with Yatter) Larimhor denies stepping out to the loading dock. He was looking for a medkit.
@@ -265,7 +255,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:91`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: "Intimidation attempts only cause Larimhor to laugh and call the heroes Crusaders of the Lost Cause." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.11
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.11 — full quote as printed](quotes/d344-p11-intimidation-attempts-only-cause-larimhor-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:98`
 
 > He commed out about the same time Di’San began smashing Rysko’s head against the pillar. • KEY: Once Larimhor gets talking about the upcoming inquest and trial he will inform the characters he has already made contact with Rysko’s mother. He has hired a high priced attorney and plans to sue the CTA for millions and millions of credits for the wrongful murder of her only son. • KEY: Sense motive checks will reveal only that Larimhor is a smooth talker. Friendship and Diplomacy checks have no effect since Larimhor is openly friendly to the heroes. Intimidation attempts only cause Larimhor to laugh and call the heroes Crusaders of the Lost Cause. He will buy the characters drinks, introduce them to various customers as they walk by, in general he appears to be extremely social and outgoing. However, the heroes will walk away with the distinct feeling he was simply toying with them as a cat would a mouse. • KEY: (After talking with Yatter) Larimhor denies stepping out to the loading dock. He was looking for a medkit. He never even saw Rysko’s body until it was being taken away. If pressed, Larimhor’s attitude will change and he will become cold and hard. Leaning close to the hero that pressed the issue he will tell the hero it would be best if he left, immediately.
@@ -273,7 +262,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:98`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: "However, the heroes will walk away with the distinct feeling he was simply toying with them as a cat would a mouse." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.11
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.11 — full quote as printed](quotes/d344-p11-however-the-heroes-will-walk-away.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:100`
 
 > She is scared and stays close to as many persons as possible. Over the last few days Larimhor has become increasingly agitated and short tempered. She Plea Bargain Page 17 feels the whole plan to extort credits from the CTA is falling apart. When the heroes locate her she will tell them to leave her alone and go away. If the heroes insisted, and they should, Kalani will select a table in the center of the dining area and gesture the heroes to sit. In a hushed and shaky voice Kalani will confide in the heroes. “This was all Thon’s plan. He has done it several times before. Paying someone to provoke a fight and lose, then, after the fight, inflicting additional injuries in order to obtain a larger settlement. Di’San wasn’t supposed to be killed, but Thon must have been surprised at the viciousness of Di’San attack. When he saw Rysko had a head injury he must of seen it as a perfect opportunity to frame Di’San.” Kalani will look around the dining area, the room is fairly crowded and there is a low, steady hum of conversations and laughter. Chay is working the bar, and Wuglik and Yatter are playing cards at a back table.
@@ -281,7 +269,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:100`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kalani: ""This was all Thon's plan. He has done it several times before. Paying someone to provoke a fight and lose, then, after the fight, inflicting additional injuries in order to obtain a larger settlement." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17 — full quote as printed](quotes/d344-p17-this-was-all-thons-plan-he.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:155`
 
 > Chay is working the bar, and Wuglik and Yatter are playing cards at a back table. Kalani will let out an audible sigh and face the heroes again. “OK, that’s all I can tell you. I don’t think Di’San is responsible for Rysko’s death. Now will you go away? Please? When Di’San is cleared Thon will be angry, but he will get over it, there is always another scam to run.” Kalani will refuse to leave with the heroes; attempts to convince her, either through intimidation or diplomacy will simply firm her resolve. An intimidation check (DC: 18/23/28) will scare her to the point of jumping up from the table and seeking help from Chay, the bartender. She firmly believes Thon loves her and though he uses her he would never seriously harm her as long as she stays with him. If she betrays him though, she knows he will kill her.
@@ -289,7 +276,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:155`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kalani: "When Di'San is cleared Thon will be angry, but he will get over it, there is always another scam to run."" Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17 — full quote as printed](quotes/d344-p17-when-disan-is-cleared-thon-will.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:157`
 
 > I don’t think Di’San is responsible for Rysko’s death. Now will you go away? Please? When Di’San is cleared Thon will be angry, but he will get over it, there is always another scam to run.” Kalani will refuse to leave with the heroes; attempts to convince her, either through intimidation or diplomacy will simply firm her resolve. An intimidation check (DC: 18/23/28) will scare her to the point of jumping up from the table and seeking help from Chay, the bartender. She firmly believes Thon loves her and though he uses her he would never seriously harm her as long as she stays with him. If she betrays him though, she knows he will kill her. The players may come up with their own solution to convince Kalani to testify against Larimhor. Any plan must convince Kalani her life is forfeit whether she stays on Dorumaa with Larimhor or testifies against him. The plan should let her realize her best chance for safety is with the heroes. Kalani is unaware of the death of Hukno Rit.
@@ -297,7 +283,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:157`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kalani: "She firmly believes Thon loves her and though he uses her he would never seriously harm her as long as she stays with him. If she betrays him though, she knows he will kill her." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17 — full quote as printed](quotes/d344-p17-she-firmly-believes-thon-loves-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:159`
 
 > When the heroes locate her she will tell them to leave her alone and go away. If the heroes insisted, and they should, Kalani will select a table in the center of the dining area and gesture the heroes to sit. In a hushed and shaky voice Kalani will confide in the heroes. “This was all Thon’s plan. He has done it several times before. Paying someone to provoke a fight and lose, then, after the fight, inflicting additional injuries in order to obtain a larger settlement. Di’San wasn’t supposed to be killed, but Thon must have been surprised at the viciousness of Di’San attack. When he saw Rysko had a head injury he must of seen it as a perfect opportunity to frame Di’San.” Kalani will look around the dining area, the room is fairly crowded and there is a low, steady hum of conversations and laughter. Chay is working the bar, and Wuglik and Yatter are playing cards at a back table. Kalani will let out an audible sigh and face the heroes again.
@@ -305,7 +290,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:159`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): Master Thon: "Di'San wasn't supposed to be killed, but Thon must have been surprised at the viciousness of Di'San attack." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.17 — full quote as printed](quotes/d344-p17-disan-wasnt-supposed-to-be-killed.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:161`
 
 > The heroes can seek Larimhor out at either the Cantina Oceana or his warehouse. Whichever one is chosen, Larimhor will be there. As you enter the main dining room <warehouse office> you spot Larimhor talking rapidly with several tough looking thugs. Larimhor glances up as he realizes someone has entered the area. His eyes narrow and his mouth hardens into a tight line. Grapping the closet thug by the shoulder he spins him around and shoves him toward the heroes. “Kill them you fools, or none of you will see daylight again!” With that Larimhor flees from the building. The thugs are not meant to be more than a brief hindrance to the heroes and delay them enough to allow Larimhor a few rounds headstart. An Intimidate Check (DC: 17/22/27) will cause the thugs to do nothing more than 1 round of combat. Diplomacy requires more time than the heroes can expend without allowing Larimhor to get away.
@@ -313,18 +297,15 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:161`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: ""Kill them you fools, or none of you will see daylight again!" With that Larimhor flees from the building." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.21
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.21 — full quote as printed](quotes/d344-p21-kill-them-you-fools-or-none.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:190`
 
 - Note (summary from our notes, not a quotation): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: ""NOOOOO!!!!" Larimhor screams. But it's too late. There is only he and you left on the tarmac." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.22
   — Source: Living Force Campaign/Adventures/Among the Stars/Year 5/504 - Plea Bargai.
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.22 — full quote as printed](quotes/d344-p22-nooooo-larimhor-screams-but-its-too.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:203`
 
 > But in Larimhor's case friendly is only skin deep. He is constantly watching for a lucrative Opportunity to run a high profit, low risk scam.
 — Source: Living Force Campaign/Adventures/Among the Stars/Year 5/504 - Plea Bargai.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: "But in Larimhor's case friendly is only skin deep. He is constantly watching for a lucrative Opportunity to run a high profit, low risk scam." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.34
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.34 — full quote as printed](quotes/d344-p34-but-in-larimhors-case-friendly-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:282`
 
 > Tactics: Larimhor never moves around without two or three hired thugs watching his back. In the event he is threatened he will quickly flee, leaving others to fight for him. He makes use of his Cularin Law knowledge to turn the tables on his enemies, getting them arrested, or worse, via totally legal methods. As such, he is a firm supporter of Law Enforcement provided they are working for him and not against him. Middle Tier (Average hero Level 1-3) Thon Larimhor: Zabrak Male, Scoundrel 6: Init +2 (+2 Dex); Def: 16 (+2 Dex, +4 Class); DR: 0, Speed: 10m; VP/WP: 25/10; Atk +5 melee (1d3+1, unarmed) or +6 ranged (3d6 or DC 15 stun, blaster pistol); SV Fort +3, Ref +6, Will +6; FP 3; DSP 3; Rep +4; Str 12, Dex 14, Con 10, Int 12, Wis 13, Cha 14.
@@ -332,7 +313,6 @@ Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:282`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from les Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 504 Plea Bargain (text copy `les_Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_504_Plea_Bargain_pdf_8d643cd133`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Thon Larimhor: "As such, he is a firm supporter of Law Enforcement provided they are working for him and not against him." Source: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.34
-![Quote image: *504 - Plea Bargain* (SWRPG d20 Revised Core), p.34 — full quote as printed](quotes/d344-p34-as-such-he-is-a-firm.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/344-504-plea-bargain.md:284`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Ultimate Alien Anthology - The Meerians and the Tchuukthai.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

@@ -15,13 +15,11 @@
 > [fragment — full passage not on file]
 — Source: Part Seven: Empire Resurgent; Kanos kills Jax. POV: Kanos kills Jax.
 Note (our notes, around the quote): Kanos kills Jax: "On an elevated platform suspended above a bottomless pit, Kanos killed his rival" Source: The New Essential Chronology, p.159
-![Quote image: The New Essential Chronology, p.159 — full quote as printed](quotes/nec-p159-kanos-kills-jax.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:128`
 
 > Royal Guardsman Kir Kanos fights Imperial troops on Phaeda.
 — Source: Part Seven: Empire Resurgent; art caption.
 Note (our notes, around the quote): art caption: "Royal Guardsman Kir Kanos fights Imperial troops on Phaeda." Source: The New Essential Chronology, p.161, caption
-![Quote image: The New Essential Chronology, p.161 — full quote as printed](quotes/nec-p161-caption-royal-guardsman-kir-kanos-fights.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:140`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -31,25 +29,21 @@ Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-re
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kir Kanos: "Kir Kanos used an APA-5 droid to fly the scimitar bomber that defeated the Star Destoyer Emperor's Revenge." Source: The Complete Star Wars Encyclopedia, Vol. I, p.37
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.37 — full quote as printed](quotes/v1-p37-kir-kanos-used-an-apa-5.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:97`
 
 > Bounty hunter Kenix Kil (in truth, the Royal Guard Kir Kanos) infiltrated Banjeer's organization and wiped out many of his hunters.
 — Source: scan pages 41–80; Kir Kanos. POV: Kir Kanos.
 Note (our notes, around the quote): Kir Kanos: "Bounty hunter Kenix Kil (in truth, the Royal Guard Kir Kanos) infiltrated Banjeer's organization and wiped out many of his hunters." Source: The Complete Star Wars Encyclopedia, Vol. I, p.58
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.58 — full quote as printed](quotes/v1-p58-bounty-hunter-kenix-kil-in-truth.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:268`
 
 > Blim was killed by Sish Sadeet mere seconds before he could shoot Kanos.
 — Source: scan pages 81–120; Kir Kanos. POV: Kir Kanos.
 Note (our notes, around the quote): Kir Kanos: "Blim was killed by Sish Sadeet mere seconds before he could shoot Kanos." Source: The Complete Star Wars Encyclopedia, Vol. I, p.79
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.79 — full quote as printed](quotes/v1-p79-blim-was-killed-by-sish-sadeet.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:107`
 
 > But his new position made him a target for both Grappa the Hutt and Kir Kanos, who eventually tracked down the traitor and killed him.
 — Source: scan pages 121–160; Kir Kanos. POV: Kir Kanos.
 Note (our notes, around the quote): Kir Kanos: "But his new position made him a target for both Grappa the Hutt and Kir Kanos, who eventually tracked down the traitor and killed him." Source: The Complete Star Wars Encyclopedia, Vol. I, p.109
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.109 — full quote as printed](quotes/v1-p109-but-his-new-position-made-him.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:35`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -57,49 +51,41 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 > Hannad held off Jax's troops long enough for Kanos to escape, but eventually was overwhelmed and killed.
 — Source: scan pages 1–40; Jax Pavan; Kir Kanos.
 Note (our notes, around the quote): Jax Pavan; Kir Kanos: "Hannad held off Jax's troops long enough for Kanos to escape, but eventually was overwhelmed and killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.14
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.14 — full quote as printed](quotes/v2-p14-hannad-held-off-jaxs-troops-long.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:127`
 
 > Carnor Jax (left) faces Kir Kanos in a duel to the death.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Carnor Jax (left) faces Kir Kanos in a duel to the death." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-carnor-jax-left-faces-kir-kanos.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:215`
 
 > Jax learned that Kanos survived, and knew that he had to eliminate the threat he posed.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Jax learned that Kanos survived, and knew that he had to eliminate the threat he posed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-jax-learned-that-kanos-survived-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:219`
 
 > Kanos wiped out the entire squadron, leaving Jax to face him in one-on-one combat in the Squall.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Kanos wiped out the entire squadron, leaving Jax to face him in one-on-one combat in the Squall." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-kanos-wiped-out-the-entire-squadron.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:221`
 
 > After Blim was eliminated by Mirith Sinn and Sish Sadeet, Jax nearly defeated Kanos.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "After Blim was eliminated by Mirith Sinn and Sish Sadeet, Jax nearly defeated Kanos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-after-blim-was-eliminated-by-mirith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:223`
 
 > But in a short duel, Kanos drove the blade of his staff through Jax's breastplate, piercing his heart and killing him instantly.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "But in a short duel, Kanos drove the blade of his staff through Jax's breastplate, piercing his heart and killing him instantly." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-but-in-a-short-duel-kanos.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:225`
 
 > Even after Palpatine was defeated at Endor, Kanos and his fellow Royal Guardsmen remained true to the Imperial ideal.
 — Source: scan pages 201–240; Palpatine (Darth Sidious); Kir Kanos.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Kir Kanos: "Even after Palpatine was defeated at Endor, Kanos and his fellow Royal Guardsmen remained true to the Imperial ideal." Source: The Complete Star Wars Encyclopedia, Vol. II, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.198 — full quote as printed](quotes/v2-p198-even-after-palpatine-was-defeated-at.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:31`
 
 > Kennede, Tav Although not an Imperial Royal Guardsman himself, he allied himself with Kir Kanos to gain vengeance on those who had killed his father.
 — Source: scan pages 201–240; Kir Kanos. POV: Kir Kanos.
 Note (our notes, around the quote): Kir Kanos: "Kennede, Tav Although not an Imperial Royal Guardsman himself, he allied himself with Kir Kanos to gain vengeance on those who had killed his father." Source: The Complete Star Wars Encyclopedia, Vol. II, p.208
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.208 — full quote as printed](quotes/v2-p208-kennede-tav-although-not-an-imperial.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:129`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -107,13 +93,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > When Sadeet ran at them, Kanos killed the Trandoshan instantly.
 — Source: scan pages 121–160; Kir Kanos. POV: Kir Kanos.
 Note (our notes, around the quote): Kir Kanos: "When Sadeet ran at them, Kanos killed the Trandoshan instantly." Source: The Complete Star Wars Encyclopedia, Vol. III, p.122
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.122 — full quote as printed](quotes/v3-p122-when-sadeet-ran-at-them-kanos.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:59`
 
 > General Wessel made a fatal mistake by bringing Kir Kanos's bomb-rigged ship aboard Jax's Star Destroyer Emperor's Revenge. \t exploded and killed everyone on board.
 — Source: scan pages 321–360; Kir Kanos; Jax Pavan.
 Note (our notes, around the quote): Kir Kanos; Jax Pavan: "General Wessel made a fatal mistake by bringing Kir Kanos's bomb-rigged ship aboard Jax's Star Destroyer Emperor's Revenge. \t exploded and killed everyone on board." Source: The Complete Star Wars Encyclopedia, Vol. III, p.327
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.327 — full quote as printed](quotes/v3-p327-general-wessel-made-a-fatal-mistake.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:102`
 
 ## The New Essential Guide to Characters (2002)
@@ -121,19 +105,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan
 > After Palpatine's final defeat, former Royal Guardsman Kir Kanos assassinates all members of the Imperial Interim Ruling Council.
 — Source: scan pages 1–30; Palpatine (Darth Sidious); Kir Kanos.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Kir Kanos: "After Palpatine's final defeat, former Royal Guardsman Kir Kanos assassinates all members of the Imperial Interim Ruling Council." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-after-palpatines-final-defeat-former-royal.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:54`
 
 > As Kanos stood over his partner's broken body, Darth Vader attacked and defeated the victorious guardsman, leaving Kanos with a jagged facial scar—and a reminder of his place in the Emperor's hierarchy.
 — Source: scan pages 91–120; Kir Kanos; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Kir Kanos; Darth Vader (Anakin Skywalker): "As Kanos stood over his partner's broken body, Darth Vader attacked and defeated the victorious guardsman, leaving Kanos with a jagged facial scar—and a reminder of his place in the Emperor's hierarchy." Source: The New Essential Guide to Characters, p.99
-![Quote image: The New Essential Guide to Characters, p.99 — full quote as printed](quotes/negc-p99-as-kanos-stood-over-his-partners.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:19`
 
 > Kanos won the duel, and in doing so became the last Royal Guard.
 — Source: scan pages 91–120; Kir Kanos. POV: Kir Kanos.
 Note (our notes, around the quote): Kir Kanos: "Kanos won the duel, and in doing so became the last Royal Guard." Source: The New Essential Guide to Characters, p.99
-![Quote image: The New Essential Guide to Characters, p.99 — full quote as printed](quotes/negc-p99-kanos-won-the-duel-and-in.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:23`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -141,7 +122,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 > Jax was killed by Kir Kanos, The Imperial Ruling Council immediately moved against Sarcev, dumping him like refuse at Nar Shaddaa after a week-long torture session that prompted uncharacteristically inelegant screams from the Hand Adventure Seed; Unfinished Business Following his imprisonment and torture, Sarcev Quest disappeared ARDEN LYN The Followers of Palawa were intense contemplators of exis tence.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Kir Kanos — entry/section: Star Wars Gamer 05.
 Note (our notes, around the quote): Kir Kanos — entry/section: Star Wars Gamer 05: "Jax was killed by Kir Kanos, The Imperial Ruling Council immediately moved against Sarcev, dumping him like refuse at Nar Shaddaa after a week-long torture session that prompted uncharacteristically inelegant screams from the Hand Adventure Seed; Unfinished Business Following his imprisonment and torture, Sarcev Quest disappeared ARDEN LYN The Followers of Palawa were intense contemplators of exis tence." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.41
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.41 — full quote as printed](quotes/d054-s41-jax-was-killed-by-kir-kanos.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:254`
 
 ## Adventures/Nightsaber.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -159,7 +139,6 @@ Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:35`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Nightsaber (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Nightsaber_pdf_2d577894a5`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Nightsaber (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Nightsaber_pdf_2d577894a5`).)
 Note (our notes, around the quote): Kir Kanos; Darth Vader (Anakin Skywalker) — entry/section: Kanos (as Burr Danid) explains his lightsaber scar: "A character familiar with lightsaber wounds can make an Intelligence check (DC 10) to recognize the scar on Danid's face as a lightsaber scar, but Danid explains this by saying that he once tangled, very briefly, with Darth Vader. "This was Vader's way of teaching me a lesson about not feeling remorse. And if you don't mind, I don't like talking about it."" Source: *Nightsaber* (SWRPG d20 Revised Core), scan p.6
-![Quote image: *Nightsaber* (SWRPG d20 Revised Core), scan p.6 — full quote as printed](quotes/d068-s6-a-character-familiar-with-lightsaber-wounds.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:37`
 
 - Note (summary from our notes, not a quotation): Page contents: Comm center (Computer Use DC 35/25, message to the Hapan Royal Communications Authority); Kanos can take the comm center single-handedly; Dal Konur, now armed with a lightsaber by General Vit, attacks lightsaber-wielders first and calls on the dark side every round if needed; Supporting Cast: Dal Konur stat block; Kir Kanos dons his Royal Guard armor, plows through foes, then reveals his identity and threatens Luke Skywalker (hand-read)
@@ -171,12 +150,10 @@ Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:47`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Nightsaber (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Nightsaber_pdf_2d577894a5`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Nightsaber (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Nightsaber_pdf_2d577894a5`).)
 Note (our notes, around the quote): Kir Kanos — entry/section: Kanos can hold the comm center alone: "If the heroes choose to tackle other foes, Burr Danid says that he might be able to use his Imperial disguise one more time to get inside the comm center and hold it long enough for the heroes to arrive and send the message to the Hapes Consortium. (What he really means is that, using his Royal Guard training and equipment, he can take the comm center single-handedly.)" Source: *Nightsaber* (SWRPG d20 Revised Core), scan p.8
-![Quote image: *Nightsaber* (SWRPG d20 Revised Core), scan p.8 — full quote as printed](quotes/d068-s8-if-the-heroes-choose-to-tackle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:49`
 
 - Note (summary from our notes, not a quotation): Kir Kanos — entry/section: Kanos in the final battle: "Despite the full-face helmet he wears, the heroes should quickly figure out that the Royal Guard fighting their enemies is an ally— and they can probably guess that he's "Burr Danid." Kanos makes it clear to the heroes that he's only looking out for his own interests, and as soon as they fulfill their part of the bargain, he's gone. But, in the meantime, he readily plows through whatever foes he needs to fight." Source: *Nightsaber* (SWRPG d20 Revised Core), scan p.8
   — Source: Adventures/Nightsaber.pdf [Star Wars Roleplaying Game Revised Core (d20,.
-![Quote image: *Nightsaber* (SWRPG d20 Revised Core), scan p.8 — full quote as printed](quotes/d068-s8-despite-the-full-face-helmet-he.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:51`
 
 > Kanos makes it clear to the heroes that he’s only looking out for his own interests, and as soon as they fulfill their part of the bargain, he’s gone. But, in the meantime, he readily plows through whatever foes he needs to fight. After the fighting is over, Kir Kanos reveals his true name and a little bit of his story: that he’s the last of the Royal Guards, and loyal to the memory of the Emperor, if not the Empire. He has no interest in joining the New Republic, becoming a Jedi, or even “teaming up” with the heroes for any length of time. His current mission is to make Sigit Ranth pay for his part in the Emperor’s demise, and beyond fulfilling that goal, he’d just as soon kill the heroes as help them. “If the time comes that I bring Luke Skywalker to justice and you get in my way, I won’t feel any compunctions about cutting you down.” WHAT ABOUT KIR KANOS? Force Skills: Affect Mind +5, Force Stealth +3. Feats: Advanced Martial Arts, Armor Proficiency (light, medium, heavy), Dodge, Force-Sensitive, Heroic Surge, Improved Initiative, Improved Martial Arts, Martial Arts, Mobility, Point Blank Shot, Precise Shot, Shot on the Run, Spring Attack, Weapon Focus (blaster pistol),Weapon Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons). Force Feats: Alter, Control.
@@ -184,7 +161,6 @@ Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:51`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Nightsaber (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Nightsaber_pdf_2d577894a5`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Nightsaber (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Nightsaber_pdf_2d577894a5`).)
 Note (our notes, around the quote): Kir Kanos; Luke Skywalker — entry/section: Kanos warns the heroes: ""If the time comes that I bring Luke Skywalker to justice and you get in my way, I won't feel any compunctions about cutting you down."" Source: *Nightsaber* (SWRPG d20 Revised Core), scan p.8
-![Quote image: *Nightsaber* (SWRPG d20 Revised Core), scan p.8 — full quote as printed](quotes/d068-s8-if-the-time-comes-that-i.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/068-nightsaber.md:53`
 
 - Note (summary from our notes, not a quotation): Page contents: Rest of Dal Konur's stats; Kir Kanos stat block; Dathomiri Dark Force Witch stat blocks (high, mid, low level) (hand-read)
@@ -216,7 +192,6 @@ Our notes: `notes/materials/038-star-wars-insider/091-ins091.md:538`
 > What has Kir Kanos been doing since the end of Crimson Empire? Why, amassing the funds necessary to take revenge on Luke Skywalker!
 — Source: Star Wars Insider #124 (2011); Kir Kanos; Luke Skywalker — entry/section: Crimson Empire III prelude.
 Note (our notes, around the quote): Kir Kanos; Luke Skywalker — entry/section: Crimson Empire III prelude: ""What has Kir Kanos been doing since the end of Crimson Empire? Why, amassing the funds necessary to take revenge on Luke Skywalker!" —Randy Stradley, Star Wars Insider 124, p. 62" Source: *Star Wars Insider #124* (2011), scan p.62
-![Quote image: *Star Wars Insider #124* (2011), scan p.62 — full quote as printed](quotes/ins124-s62-what-has-kir-kanos-been-doing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/124-ins124.md:354`
 
 ## Star Wars Insider #129 (2011)

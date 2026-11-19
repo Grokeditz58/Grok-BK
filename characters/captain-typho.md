@@ -40,7 +40,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Typho employed Cordé as a stand-in for Padmé upon their arrival, a move that likely saved the Senator's life when their starship was destroyed by a bomb.
 — Source: scan pages 241–280; Padmé Amidala. POV: Padmé Amidala, about Captain Typho.
 Note (our notes, around the quote): Padmé Amidala: "Typho employed Cordé as a stand-in for Padmé upon their arrival, a move that likely saved the Senator's life when their starship was destroyed by a bomb." Source: The Complete Star Wars Encyclopedia, Vol. III, p.272
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.272 — full quote as printed](quotes/v3-p272-typho-employed-cord-as-a-stand.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:315`
 
 ## Characters/Miniatures/Soldiers of Fortune.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -52,13 +51,11 @@ Our notes: `notes/materials/037-sw-d20-folder/112-soldiers-of-fortune.md:10`
 > Senator Amidala's head of security was the young Typho who welcomed the assistance of Amidala's Jedi friends to eliminate threats against her life. When it became too dangerous for the senator to remain on Coruscant, she fled with her Jedi protector, Anakin Skywalker. Captain Typho and the disguised handmaiden Dorme remained to make it appear that Amidala was still present.
 — Source: Characters/Miniatures/Soldiers of Fortune.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Captain Typho; Padmé Amidala; Darth Vader (Anakin Skywalker) — entry/section: Captain Typho, Amidala's head of security: "Senator Amidala's head of security was the young Typho who welcomed the assistance of Amidala's Jedi friends to eliminate threats against her life. When it became too dangerous for the senator to remain on Coruscant, she fled with her Jedi protector, Anakin Skywalker. Captain Typho and the disguised handmaiden Dorme remained to make it appear that Amidala was still present." Source: *Soldiers of Fortune* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Soldiers of Fortune* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d112-s1-senator-amidalas-head-of-security-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/112-soldiers-of-fortune.md:12`
 
 > Typho was blinded in one eye while serving as a junior palace guard during the Battle of Naboo. As a result, he suffers a —1 penalty to all ranged attacks due to his poor depth perception.
 — Source: Characters/Miniatures/Soldiers of Fortune.pdf [Star Wars Roleplaying Game; Captain Typho — entry/section: Typho's lost eye.
 Note (our notes, around the quote): Captain Typho — entry/section: Typho's lost eye: "Typho was blinded in one eye while serving as a junior palace guard during the Battle of Naboo. As a result, he suffers a —1 penalty to all ranged attacks due to his poor depth perception." Source: *Soldiers of Fortune* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Soldiers of Fortune* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d112-s1-typho-was-blinded-in-one-eye.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/112-soldiers-of-fortune.md:14`
 
 - Note (summary from our notes, not a quotation): Page contents: Captain Typho stats (Soldier 4/Bodyguard 2, CC D); Naboo Soldier (Thug 1, CC A); Wookiee Commando (Scout 3/Soldier 1; from image: Defense 16, VP/WP 25/11, Atk +4 melee 2d10+1 vibro-ax, CC C) (hand-read)

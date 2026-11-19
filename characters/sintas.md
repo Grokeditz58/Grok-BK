@@ -32,7 +32,6 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-8-revelation-notes.md:3
 > Sintas Vel and Boba Fett confronted Pizztov, and Fett killed him.
 — Source: scan pages 1–40; Boba Fett. POV: Boba Fett, about Sintas.
 Note (our notes, around the quote): Boba Fett: "Sintas Vel and Boba Fett confronted Pizztov, and Fett killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.28
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.28 — full quote as printed](quotes/v3-p28-sintas-vel-and-boba-fett-confronted.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:249`
 
 - Note (summary from our notes, not a quotation): Page contents: 1300 words, 32 paragraphs | headings/entries: Vek; Vekker; Vekki; Veknoid; Vel; Vel, Ailyn; Vel, Sintas; Veld, Tru; Veiga Prime

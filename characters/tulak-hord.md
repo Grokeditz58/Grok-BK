@@ -21,68 +21,57 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-1-notes.md:13`
 > Zavakon's experts had found details and made connections that the previous explorers missed entirely, and documented the teachings of ancient Sith lords such as Ajunta Pall and Tulak Hord that had been lost for centuries.
 — Source: The Sith Empire; Ajunta Pall; Tulak Hord — History of the Historians.
 Note (our notes, around the quote): Ajunta Pall; Tulak Hord — History of the Historians: "Zavakon's experts had found details and made connections that the previous explorers missed entirely, and documented the teachings of ancient Sith lords such as Ajunta Pall and Tulak Hord that had been lost for centuries." Source: The Old Republic Encyclopedia, p.124
-![Quote image: The Old Republic Encyclopedia, p.124 — full quote as printed](quotes/tore-p124-zavakon-s-experts-had-found-details.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:110`
 
 > As Kallig rose to power, Tulak Hord—a mighty Sith Lord with legendary lightsaber skills—was waging war against the planets Yn and Chabosh.
 — Source: The Sith; Tulak Hord; Aloysius Kallig — Aloysius Kallig (top-right).
 Note (our notes, around the quote): Tulak Hord; Aloysius Kallig — Aloysius Kallig (top-right): "As Kallig rose to power, Tulak Hord—a mighty Sith Lord with legendary lightsaber skills—was waging war against the planets Yn and Chabosh." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-as-kallig-rose-to-power-tulak.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:79`
 
 > In an attack planned by Tulak Hord, Kallig was ambushed and killed. As Kallig's family fled into hiding, Kallig was entombed on Dromund Kaas. His spirit lay trapped within the Dark Temple for millennia until his distant descendant, a powerful Sith inquisitor, awakened him from his eternal slumber.
 — Source: The Sith.
 Note (our notes, around the quote): Aloysius Kallig; Tulak Hord; Darth Nox (Sith Inquisitor) — Aloysius Kallig (top-right): "In an attack planned by Tulak Hord, Kallig was ambushed and killed. As Kallig's family fled into hiding, Kallig was entombed on Dromund Kaas. His spirit lay trapped within the Dark Temple for millennia until his distant descendant, a powerful Sith inquisitor, awakened him from his eternal slumber." Source: The Old Republic Encyclopedia, p.153, sidebar
-![Quote image: The Old Republic Encyclopedia, p.153 — full quote as printed](quotes/tore-p153-in-an-attack-planned-by-tulak.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:81`; `suspect-insight/respect-threads/tulak-hord--tulak-hord-rei.md:329`
 
 > Sith Lord Tulak Hord's infamous crusade was fought beyond the furthest edge of the galaxy, where there are no stars or light.
 — Source: The Sith; Tulak Hord — The Kaggath.
 Note (our notes, around the quote): Tulak Hord — The Kaggath: "Sith Lord Tulak Hord's infamous crusade was fought beyond the furthest edge of the galaxy, where there are no stars or light." Source: The Old Republic Encyclopedia, p.170
-![Quote image: The Old Republic Encyclopedia, p.170 — full quote as printed](quotes/tore-p170-sith-lord-tulak-hord-s-infamous.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:320`
 
 > At Zash's bidding, the inquisitor sabotages and ultimately destroys the cyborg Darth Skotia, thus paving the way for Zash to take his place and become a Darth. Zash graces her apprentice with power and sets the Sith inquisitor on a new mission: the recovery of artifacts once belonging to the ancient Sith Tulak Hord. With these artifacts, Darth Zash will complete a ritual to bestow considerable power on Zash and her apprentice.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Zash; Tulak Hord — Scion of Kallig: "At Zash's bidding, the inquisitor sabotages and ultimately destroys the cyborg Darth Skotia, thus paving the way for Zash to take his place and become a Darth. Zash graces her apprentice with power and sets the Sith inquisitor on a new mission: the recovery of artifacts once belonging to the ancient Sith Tulak Hord. With these artifacts, Darth Zash will complete a ritual to bestow considerable power on Zash and her apprentice." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-at-zash-s-bidding-the-inquisitor.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:487`
 
 > Millennia ago, Khem Val loyally served the Sith Lord Tulak Hord after the powerful Sith proved his superiority over Khem by defeating him in battle. This was the first time any Force user had bested Khem Val. Under Tulak Hord's command, Khem Val devoured the life energy from thousands of Jedi in ancient battles waged on the planets Yn and Chabosh. One of Khem Val's proudest victories came during the Battle of Chabosh, where he fought by Tulak Hord's side to conquer an army of Jedi 1,000 strong.
 — Source: The Sith; Khem Val; Tulak Hord — Khem Val.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Khem Val: "Millennia ago, Khem Val loyally served the Sith Lord Tulak Hord after the powerful Sith proved his superiority over Khem by defeating him in battle. This was the first time any Force user had bested Khem Val. Under Tulak Hord's command, Khem Val devoured the life energy from thousands of Jedi in ancient battles waged on the planets Yn and Chabosh. One of Khem Val's proudest victories came during the Battle of Chabosh, where he fought by Tulak Hord's side to conquer an army of Jedi 1,000 strong." Source: The Old Republic Encyclopedia, p.186
-![Quote image: The Old Republic Encyclopedia, p.186 — full quote as printed](quotes/tore-p186-millennia-ago-khem-val-loyally-served.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:518`
 
 > As Tulak Hord's enemies plotted his downfall, he sensed their treachery and took measures to guard against them. To preserve his power base, Hord secretly sealed Khem Val within a subterranean stasis chamber. Tulak Hord promised his loyal assassin that he would return for him when the time was right, but Hord was ultimately slain before he could fulfill his promise.
 — Source: The Sith; Khem Val; Tulak Hord — Khem Val.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Khem Val: "As Tulak Hord's enemies plotted his downfall, he sensed their treachery and took measures to guard against them. To preserve his power base, Hord secretly sealed Khem Val within a subterranean stasis chamber. Tulak Hord promised his loyal assassin that he would return for him when the time was right, but Hord was ultimately slain before he could fulfill his promise." Source: The Old Republic Encyclopedia, p.186
-![Quote image: The Old Republic Encyclopedia, p.186 — full quote as printed](quotes/tore-p186-as-tulak-hord-s-enemies-plotted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:520`
 
 > Born with a natural resistance to the Force, the Dashade are simultaneously valued allies and among the most dangerous enemies of Force users. Although the Jedi Order shies from accepting the fearsome Dashade into its ranks, powerful Sith Lords have been known to hire Dashade as assassins to eliminate Jedi and their Sith rivals.
 — Source: Species, technology, planets and the future; Khem Val; Tulak Hord — Dashade.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Dashade: "Born with a natural resistance to the Force, the Dashade are simultaneously valued allies and among the most dangerous enemies of Force users. Although the Jedi Order shies from accepting the fearsome Dashade into its ranks, powerful Sith Lords have been known to hire Dashade as assassins to eliminate Jedi and their Sith rivals." Source: The Old Republic Encyclopedia, p.262
-![Quote image: The Old Republic Encyclopedia, p.262 — full quote as printed](quotes/tore-p262-born-with-a-natural-resistance-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:78`
 
 > DISTINCTIVE FEATURES: Force-resistant NOTABLE DASHADE: Khem Val, former servant to Sith Lord Tulak Hord
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Khem Val; Tulak Hord — Dashade data box.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Dashade data box: "DISTINCTIVE FEATURES: Force-resistant NOTABLE DASHADE: Khem Val, former servant to Sith Lord Tulak Hord" Source: The Old Republic Encyclopedia, p.262
-![Quote image: The Old Republic Encyclopedia, p.262 — full quote as printed](quotes/tore-p262-distinctive-features-force-resistant-notable-das.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:80`
 
 > Sith Lords such as Tulak Hord and Marka Ragnos were entombed within, along with their powerful dark artifacts—protected by vicious traps and deadly guardians.
 — Source: Species, technology, planets and the future; Tulak Hord; Marka Ragnos — Blood and Sand intro.
 Note (our notes, around the quote): Tulak Hord; Marka Ragnos — Blood and Sand intro: "Sith Lords such as Tulak Hord and Marka Ragnos were entombed within, along with their powerful dark artifacts—protected by vicious traps and deadly guardians." Source: The Old Republic Encyclopedia, p.292
-![Quote image: The Old Republic Encyclopedia, p.292 — full quote as printed](quotes/tore-p292-sith-lords-such-as-tulak-hord.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:267`
 
 > Lord of Hate, conqueror of the planets Yn and Chabosh, and master of Sith sorcery, Tulak Hord was buried within his tomb on Korriban along with his secret teachings. The Jedi Revan later desecrated the tomb and stole untold artifacts during the Jedi Civil War.
 — Source: Species, technology, planets and the future; Tulak Hord; Revan — Tomb of Tulak Hord box.
 Note (our notes, around the quote): Tulak Hord; Revan — Tomb of Tulak Hord box: "Lord of Hate, conqueror of the planets Yn and Chabosh, and master of Sith sorcery, Tulak Hord was buried within his tomb on Korriban along with his secret teachings. The Jedi Revan later desecrated the tomb and stole untold artifacts during the Jedi Civil War." Source: The Old Republic Encyclopedia, p.293, sidebar
-![Quote image: The Old Republic Encyclopedia, p.293 — full quote as printed](quotes/tore-p293-lord-of-hate-conqueror-of-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:275`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -94,7 +83,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan
 > After defeating Polvin Kut and Yaddle in battle, Tulak retired and eventually died.
 — Source: scan pages 201–240; Yaddle; Tulak Hord.
 Note (our notes, around the quote): Yaddle; Tulak Hord: "After defeating Polvin Kut and Yaddle in battle, Tulak retired and eventually died." Source: The Complete Star Wars Encyclopedia, Vol. II, p.223
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.223 — full quote as printed](quotes/v2-p223-after-defeating-polvin-kut-and-yaddle.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:288`
 
 ## https://starwars.fandom.com/wiki/Tulak_Hord

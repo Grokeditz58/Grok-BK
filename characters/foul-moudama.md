@@ -20,7 +20,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Shaak Tis companions—Jedi Masters Roron Corobb and Foul Moudama—were killed.
 — Source: scan pages 241–280; Shaak Ti; Roron Corobb; Foul Moudama — entry/section: Ti, Shaak.
 Note (our notes, around the quote): Shaak Ti; Roron Corobb; Foul Moudama — entry/section: Ti, Shaak: "Shaak Tis companions—Jedi Masters Roron Corobb and Foul Moudama—were killed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.243
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.243 — full quote as printed](quotes/v3-p243-shaak-tis-companions-jedi-masters-roron.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:92`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

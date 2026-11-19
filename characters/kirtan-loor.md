@@ -14,7 +14,6 @@
 > Kirtan Loor, now working directly for Ysanne Isard, tried to destroy Corran and his squadron mates.
 — Source: scan pages 61–90; Corran Horn. POV: Corran Horn, about Kirtan Loor.
 Note (our notes, around the quote): Corran Horn: "Kirtan Loor, now working directly for Ysanne Isard, tried to destroy Corran and his squadron mates." Source: The New Essential Guide to Characters, p.79
-![Quote image: The New Essential Guide to Characters, p.79 — full quote as printed](quotes/negc-p79-kirtan-loor-now-working-directly-for.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:89`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)

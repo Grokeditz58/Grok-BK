@@ -14,39 +14,33 @@
 > Republic forces initially ignored the treaty and continued to defend the planet, forcing Jedi Master Dar'Nala and her former Padawan Satele Shan to personally force a stand-down.
 — Source: The Galactic Republic; Satele Shan; Dar'Nala — Ceasefire box.
 Note (our notes, around the quote): Satele Shan; Dar'Nala — Ceasefire box: "Republic forces initially ignored the treaty and continued to defend the planet, forcing Jedi Master Dar'Nala and her former Padawan Satele Shan to personally force a stand-down." Source: The Old Republic Encyclopedia, p.30
-![Quote image: The Old Republic Encyclopedia, p.30 — full quote as printed](quotes/tore-p30-republic-forces-initially-ignored-the-treaty.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:62`
 
 > While attending the peace talks on Alderaan, she sensed the smug satisfaction of Sith Lord Baras as the Empire sacked Coruscant.
 — Source: The Galactic Republic; Dar'Nala; Darth Baras — Sabotaging the Peace: Dar'Nala.
 Note (our notes, around the quote): Dar'Nala; Darth Baras — Sabotaging the Peace: Dar'Nala: "While attending the peace talks on Alderaan, she sensed the smug satisfaction of Sith Lord Baras as the Empire sacked Coruscant." Source: The Old Republic Encyclopedia, p.32
-![Quote image: The Old Republic Encyclopedia, p.32 — full quote as printed](quotes/tore-p32-while-attending-the-peace-talks-on.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:73`
 
 > masterminded the bombing of the Senate Tower on Coruscant
 > [fragment — full passage not on file]
 — Source: The Galactic Republic; Dar'Nala — Dar'Nala's greatest effort.
 Note (our notes, around the quote): Dar'Nala — Dar'Nala's greatest effort: "masterminded the bombing of the Senate Tower on Coruscant" Source: The Old Republic Encyclopedia, p.32
-![Quote image: The Old Republic Encyclopedia, p.32 — full quote as printed](quotes/tore-p32-masterminded-the-bombing-of-the-senate.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:75`
 
 > Master Dar'Nala hoped to temper Satele's impatience and aggression born from many years of warfare.
 — Source: The Jedi Order; Satele Shan — Forged by War.
 Note (our notes, around the quote): Satele Shan — Forged by War: "Master Dar'Nala hoped to temper Satele's impatience and aggression born from many years of warfare." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-master-dar-nala-hoped-to-temper.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:208`
 
 > After the war ended in a tense truce, Braden was swept up in a plot conceived by Jedi Master Dar'Nala to reignite the conflict. Despite suffering the initial blame for a terrorist attack on the Senate Tower on Coruscant, Braden cleared his name and left the Republic behind.
 — Source: Mandalorians, the underworld and the Hutts; Braden; Dar'Nala — Braden.
 Note (our notes, around the quote): Braden; Dar'Nala — Braden: "After the war ended in a tense truce, Braden was swept up in a plot conceived by Jedi Master Dar'Nala to reignite the conflict. Despite suffering the initial blame for a terrorist attack on the Senate Tower on Coruscant, Braden cleared his name and left the Republic behind." Source: The Old Republic Encyclopedia, p.229, sidebar
-![Quote image: The Old Republic Encyclopedia, p.229 — full quote as printed](quotes/tore-p229-after-the-war-ended-in-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/06-mandalorians-underworld-hutts.md:175`
 
 > NOTABLE TOGRUTAS: Jedi Master Bela Kiwiiks, Master to Kira Carsen; Master Dar'Nala, former Master to Satele Shan
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Bela Kiwiiks; Kira Carsen; Dar'Nala; Satele Shan — Togruta data box.
 Note (our notes, around the quote): Bela Kiwiiks; Kira Carsen; Dar'Nala; Satele Shan — Togruta data box: "NOTABLE TOGRUTAS: Jedi Master Bela Kiwiiks, Master to Kira Carsen; Master Dar'Nala, former Master to Satele Shan" Source: The Old Republic Encyclopedia, p.255, sidebar
-![Quote image: The Old Republic Encyclopedia, p.255 — full quote as printed](quotes/tore-p255-notable-togrutas-jedi-master-bela-kiwiiks.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:22`
 
 ## Star Wars Insider #116 (2010)

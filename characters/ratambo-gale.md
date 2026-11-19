@@ -22,7 +22,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > In all that time, encompassing scores of Chandrilan assassinations, he has never been caught.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Ratambo Gale — entry/section: Ratambo Gale never caught.
 Note (our notes, around the quote): Ratambo Gale — entry/section: Ratambo Gale never caught: "In all that time, encompassing scores of Chandrilan assassinations, he has never been caught." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.69
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.69 — full quote as printed](quotes/d665-s69-in-all-that-time-encompassing-scores.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:68`
 
 # Debate and forum claims (unverified)

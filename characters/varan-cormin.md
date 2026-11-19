@@ -30,7 +30,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:
 > I'm just the technician here—name's Varan Cormin. You must be the Rebels they were talking about. Don't worry; I hate their guts as much as you do. Got assigned to work in this pile of Bantha fodder while they kept my wife in a work camp. Anything you need, just let me know, because those Imperials are going to come back, and I don't want to go down without a fight.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): Varan Cormin — entry/section: Varan Cormin surrenders: ""Don't shoot!" he pleads. "I'm just the technician here—name's Varan Cormin. You must be the Rebels they were talking about. Don't worry; I hate their guts as much as you do. Got assigned to work in this pile of Bantha fodder while they kept my wife in a work camp. Anything you need, just let me know, because those Imperials are going to come back, and I don't want to go down without a fight."" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.178
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.178 — full quote as printed](quotes/d715-s178-dont-shoot-he-pleads-im-just.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:369`
 
 # Debate and forum claims (unverified)

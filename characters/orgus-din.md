@@ -14,31 +14,26 @@
 > Humility is the hardest lesson, and the finest teacher.
 — Source: The Jedi Order; Orgus Din — Pull quote (top-left).
 Note (our notes, around the quote): Orgus Din — Pull quote (top-left): ""Humility is the hardest lesson, and the finest teacher." Master Orgus Din" Source: The Old Republic Encyclopedia, p.76
-![Quote image: The Old Republic Encyclopedia, p.76 — full quote as printed](quotes/tore-p76-humility-is-the-hardest-lesson-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:124`
 
 > Master Orgus Din spent more time serving among Republic soldiers than anyone else in the Order.
 — Source: The Jedi Order; Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din.
 Note (our notes, around the quote): Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din: "Master Orgus Din spent more time serving among Republic soldiers than anyone else in the Order." Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-master-orgus-din-spent-more-time.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:227`
 
 > He guided the Order's resurgence and took on his first Padawan in many years—the Knight who would become known as the Hero of Tython.
 — Source: The Jedi Order; Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din.
 Note (our notes, around the quote): Orgus Din; Hero of Tython (Jedi Knight) — Master Orgus Din: "He guided the Order's resurgence and took on his first Padawan in many years—the Knight who would become known as the Hero of Tython." Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-he-guided-the-order-s-resurgence.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:229`
 
 > A Jedi Knight is a weapon, just like a lightsaber. One hopes it's never needed, but it's always at the ready just in case.
 — Source: The Jedi Order; Orgus Din — pull quote.
 Note (our notes, around the quote): Orgus Din — pull quote: ""A Jedi Knight is a weapon, just like a lightsaber. One hopes it's never needed, but it's always at the ready just in case." Master Orgus Din" Source: The Old Republic Encyclopedia, p.90
-![Quote image: The Old Republic Encyclopedia, p.90 — full quote as printed](quotes/tore-p90-a-jedi-knight-is-a-weapon.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:273`
 
 > When Master Orgus Din, an old ally reaches out through the Force, the Knight is able to break the Emperor's mental domination.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Orgus Din; Vitiate (the Sith Emperor) — Hunt for the Sith Emperor: "When Master Orgus Din, an old ally reaches out through the Force, the Knight is able to break the Emperor's mental domination." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-when-master-orgus-din-an-old.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:294`
 
 ## Star Wars Insider #110 (2009)

@@ -15,7 +15,7 @@
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio: under Master Chamma.
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Narrative bio: under Master Chamma, "Andur worked hard to absorb and comprehend all that Master Chamma taught, and succeeded more quickly" (sentence continues on the next page). Source: Tales of the Jedi Companion (WEG, 1996), p.18
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.18 — full quote as printed](quotes/companion-p18-andur-worked-hard-to-absorb-and.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.18 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p18-andur-worked-hard-to-absorb-and.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:188`
 
 > The beams of light collided in a loud cracklehiss, neither yielding to the strength of the other. Chamma squinted against the harsh glare of the frenzied energy emanating from the blades' contact point. He strained to see past the pressing lightsaber, but the dark of the night sky shrouded his enemy. Even the meager illumination shed by the lightsabers seemed to be repelled from this shadowed stalker, leaving Chamma with no conception of the being's nature other than his impressivestatureand strength. With the initial shock of the sudden attack now subsiding, Chamma regained enough of his composure to turn to the Force. But as he focused on his enemy, a backlash of darkness swept over him, knocking him backward. The sharp splash of water sliced through the thick humidity as Chamma landed in the shallow edge of the pond, suddenly bereft of the wind in his lungs. As he struggled for air, a shadowy form - visible only because it was twice as black as the surrounding darkness appeared at his feet. Wispy tendrils ofwhatever shadowmatter the creature was composed of danced as if possessed, making Chamma wonder whether the being was corporeal at all.
@@ -24,7 +24,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Bio fiction: Chamma fights a dark-side shadow creature at night. "as he focused on his enemy, a backlash of darkness swept over him, knocking him backward." Source: Tales of the Jedi Companion (WEG, 1996), p.21
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.21 — full quote as printed](quotes/companion-p21-as-he-focused-on-his-enemy.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.21 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p21-as-he-focused-on-his-enemy.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:194`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Chamma, Jedi Master (Andur Sunrider's teacher). Force skills Control 7D, Sense 10D, Alter 8D. Lightsaber 9D+2, Dexterity 2D+2. Powers include rage, feed on dark side, inflict pain, telekinetic kill, dim other's senses. Force Points 24, Character Points 28. Source: Tales of the Jedi Companion (WEG, 1996), p.23

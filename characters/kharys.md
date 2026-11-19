@@ -14,7 +14,6 @@
 > Claremont again gives us a pivotal story in Luke Skywalker's continuing evolution as the Hero of Heroes. He gives us Kharys, who is not just a compelling villain, but the first pupil of Darth Vader and a female one at that.
 — Source: Star Wars Insider #146 (2014).
 Note (our notes, around the quote): Kharys; Darth Vader (Anakin Skywalker); Luke Skywalker — entry/section: Kharys, Vader's first pupil: ""Claremont again gives us a pivotal story in Luke Skywalker's continuing evolution as the Hero of Heroes. He gives us Kharys, who is not just a compelling villain, but the first pupil of Darth Vader and a female one at that." —Abel G. Peña, Star Wars Insider 146, p. 46" Source: *Star Wars Insider #146* (2014), scan p.46
-![Quote image: *Star Wars Insider #146* (2014), scan p.46 — full quote as printed](quotes/ins146-s46-claremont-again-gives-us-a-pivotal.jpg)
 Our notes: `notes/materials/038-star-wars-insider/146-ins146.md:265`
 
 # Debate and forum claims (unverified)

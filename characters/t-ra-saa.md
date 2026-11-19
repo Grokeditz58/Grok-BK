@@ -14,7 +14,6 @@
 > It was believed that Ood Bnar was the only surviving member of the species, being offworld when the planet Ryyk was destroyed, until T'ra Saa was discovered by other Jedi centuries before the Clone Wars.
 — Source: scan pages 361–400; Ood Bnar; T'ra Saa.
 Note (our notes, around the quote): Ood Bnar; T'ra Saa: "It was believed that Ood Bnar was the only surviving member of the species, being offworld when the planet Ryyk was destroyed, until T'ra Saa was discovered by other Jedi centuries before the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. II, p.372
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.372 — full quote as printed](quotes/v2-p372-it-was-believed-that-ood-bnar.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:153`
 
 ## Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -30,7 +29,6 @@ Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:10`
 > Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis.
 — Source: Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 20.
 Note (our notes, around the quote): T'ra Saa; Tholme; Quinlan Vos; Volfe Karkko — entry/section: T'ra Saa before the Clone Wars: "Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis." Source: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d148-s1-before-the-outbreak-of-open-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:14`
 
 ## Star Wars Insider #107 (2009)
@@ -145,14 +143,14 @@ Our notes: `notes/materials/010-legacy-war.md:68`
 
 - Note (summary from our notes, not a quotation): Battle meditation (p71–74). The battle swings to the allies (p71–73). T'ra Saa roots herself in battle meditation (p74).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p73 "SENSE WHERE THE DARK IS, MASTER."; Cade vs several Sith](../notes/materials/010-legacy-war-panels/p073-sense-where-the-dark-is-cade-multi-sith.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
 Our notes: `notes/materials/010-legacy-war.md:113`
 
 - Note (summary from our notes, not a quotation): Rawk and T'ra Saa (p84–86). Rawk pushes Cade clear and dies beside T'ra Saa. "TWO MINDS" send the released energy skyward through the Sith fleet. Stazi orders the retreat.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:117`
 
 > (p5) Krayt (vision): "YOU ARE READY. KILL THEM!" · Cade (orange Sith eyes): "I SERVE, MASTER." · (p6) "I KILLED YOU, MASTER! AGAIN! EVERY MEDITATION OR DREAM -- I ALWAYS KILL YOU! I BECOME KRAYT'S TOOL!" · Sazen: "THERE IS NO DEATH, CADE. YOU HAVE TO PURGE FEAR FROM YOUR HEART -- FIND PEACE WITH WHAT YOU CANNOT KNOW. IF YOUR HEART IS GREEDY FOR VICTORY, YOU CANNOT WIN." · T'ra Saa (holo): "...NO JEDI, NOT EVEN THE COUNCIL OF MEDITATION, SENSED THE EVENT HE CLAIMS TO HAVE FELT." · Sazen: "NO JEDI SENSED WHAT YOU SAY YOU DID, CADE. ONLY THE SITH -- AND YOU." · (p7) "IN THE PAST YEAR, CADE, YOU'VE BEEN AS WILLING TO USE THE DARK SIDE AS YOU HAVE THE LIGHT SIDE OF THE FORCE. ... YOU ARE OPEN -- NO, MORE THAN OPEN -- YOU ARE DRAWN TO THE SAME DARKNESS WHERE THE SITH ABIDE!"
@@ -167,20 +165,20 @@ Our notes: `notes/materials/010-legacy-war.md:314`
 > KOL ALWAYS SAID THAT -- ALWAYS HOPED HE WAS WRONG. WE TAKE WHAT IS GIVEN, EH?
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Rawk reactivates (p48–49, #3).
 Label in our notes: · He ignites a yellow saber
-![p48 Rawk: I'M REACTIVATING AS A JEDI](010-legacy-war-panels/p048-rawk-reactivating-as-a-jedi.jpg) *(p48)*
-![p49 Rawk ignites his yellow saber](010-legacy-war-panels/p049-rawk-ignites-yellow-saber.jpg) *(p49)*
+![p48 Rawk: I'M REACTIVATING AS A JEDI](../notes/materials/010-legacy-war-panels/p048-rawk-reactivating-as-a-jedi.jpg) *(p48)*
+![p49 Rawk ignites his yellow saber](../notes/materials/010-legacy-war-panels/p049-rawk-ignites-yellow-saber.jpg) *(p49)*
 Our notes: `notes/materials/010-legacy-war.md:830`
 
 > MAIN REASON WE BUILT THE TEMPLE HERE WAS THAT THE MAGNETIC PROPERTIES OF THE ROCK MESSES UP ORBITAL TARGETING.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Taivas, p62 (#3).
-![p62 the Taivas trap plan](010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
+![p62 the Taivas trap plan](../notes/materials/010-legacy-war-panels/p062-cade-taivas-trap-plan.jpg)
 Our notes: `notes/materials/010-legacy-war.md:833`
 
 > YOU'RE MY FAVORITE NEPHEW.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p68 (#3): forgives Cade (.
 Label in our notes: p68 (#3): forgives Cade
-![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
+![p68 Cade fights beside Rawk: YOU'RE MY FAVORITE NEPHEW](../notes/materials/010-legacy-war-panels/p068-cade-rawk-fight-favorite-nephew.jpg) *(p68)*
 Our notes: `notes/materials/010-legacy-war.md:834`
 
 > MASTERS DUN'LA, TE CORSO, DROK -- STICK WITH CADE AND ME. COVER MASTER SAA UNTIL SHE'S READY.
@@ -190,7 +188,7 @@ Our notes: `notes/materials/010-legacy-war.md:834`
 > INSTINCT, BOY. BRACE YOURSELF.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p79–80 (#4).
-![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
+![p79 "THEY ARE SITH, BUT UNLIKE ANY WE HAVE EVER FACED."](../notes/materials/010-legacy-war-panels/p079-sith-unlike-any-we-have-faced.jpg)
 Our notes: `notes/materials/010-legacy-war.md:836`
 
 > WITHIN THE COUNCIL CHAMBER T'RA SAA'S ROOTS GO DEEP INTO THE SOIL ON WHICH SHE STANDS.
@@ -202,26 +200,26 @@ Our notes: `notes/materials/010-legacy-war.md:836`
 >
 > SHE SEES THE BATTLE NOW AS A PURE VISION, ITS OUTCOME IN HER CONTROL. SHE KNOWS HOW IT WILL END.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; T'ra Saa's battle meditation (p74, #4).
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
 Our notes: `notes/materials/010-legacy-war.md:837`
 
 - Note (summary from our notes, not a quotation): Rawk's sacrifice (p84–86, #4):
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:838`
 
 - Note (summary from our notes, not a quotation): Force barrier vs the troopers (p84).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Rawk's sacrifice (p84–86, #4):
-![p84 Rawk's Force barrier vs the troopers](010-legacy-war-panels/p084-rawk-force-barrier-troopers.jpg) *(p84)*
+![p84 Rawk's Force barrier vs the troopers](../notes/materials/010-legacy-war-panels/p084-rawk-force-barrier-troopers.jpg) *(p84)*
 Our notes: `notes/materials/010-legacy-war.md:839`
 
 > LOVE YOU, DROO. ALWAYS AND FOREVER.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Under the Jedi Code captions, struck by fire beside T'ra Saa: "LOVE YOU, DROO. ALWAYS AND FOREVER."
 Context: Rawk's sacrifice (p84–86, #4):
-![p85 Rawk under the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg) *(p85)*
+![p85 Rawk under the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg) *(p85)*
 Our notes: `notes/materials/010-legacy-war.md:842`
 
 > BUT IN THAT MOMENT, TWO MINDS FOCUS THAT ENERGY...
@@ -232,35 +230,35 @@ Our notes: `notes/materials/010-legacy-war.md:842`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p86 captions: "DEATH STRIKES." "ENERGY IS RELEASED." "BUT IN THAT MOMENT, TWO MINDS FOCUS THAT ENERGY..." "...SENDING IT SKYWARD..." "...SWEEPING ASIDE THOSE WAITING TO WREAK CARNAGE." A vast beam rises from the canyon through the Sith ships in orbit.
 Context: Rawk's sacrifice (p84–86, #4):
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
 Our notes: `notes/materials/010-legacy-war.md:844`
 
 > the life energy of Taivas
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Who the "TWO MINDS" are: not named on the page. Rawk and T'ra Saa by implication: both are in the struck chamber, and the root-form spirals in the light column. The released energy is the death strike itself, so the source is the fighter's strike plus their deaths. The page does not say "the life energy of Taivas".
-![p86 TWO MINDS focus the beam skyward](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg) *(p86)*
+![p86 TWO MINDS focus the beam skyward](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg) *(p86)*
 Our notes: `notes/materials/010-legacy-war.md:845`
 
 - Note (summary from our notes, not a quotation): Damage: at least two capital ships are drawn caught or broken. The number destroyed is not stated.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
-![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
-![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
-![p81 "THE HIDDEN TEMPLE RISES."](010-legacy-war-panels/p081-hidden-temple-rises.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+![p81 "THE HIDDEN TEMPLE RISES."](../notes/materials/010-legacy-war-panels/p081-hidden-temple-rises.jpg)
 Our notes: `notes/materials/010-legacy-war.md:847`
 
-- Note (summary from our notes, not a quotation): ![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+- Note (summary from our notes, not a quotation): ![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p74 — `p074-tra-saa-battle-meditation.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:849`
 
-- Note (summary from our notes, not a quotation): ![p85 Rawk's sacrifice; the Jedi Code captions](010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
+- Note (summary from our notes, not a quotation): ![p85 Rawk's sacrifice; the Jedi Code captions](../notes/materials/010-legacy-war-panels/p085-rawk-sacrifice-jedi-code.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p85 — `p085-rawk-sacrifice-jedi-code.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:852`
 
-- Note (summary from our notes, not a quotation): ![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
+- Note (summary from our notes, not a quotation): ![p86 "TWO MINDS FOCUS THAT ENERGY... SENDING IT SKYWARD"](../notes/materials/010-legacy-war-panels/p086-two-minds-focus-beam-skyward.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p86 — `p086-two-minds-focus-beam-skyward.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:855`
@@ -268,7 +266,7 @@ Our notes: `notes/materials/010-legacy-war.md:855`
 > THE HIDDEN TEMPLE RISES.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p81.
-Note (our notes, around the quote): ![p81 "THE HIDDEN TEMPLE RISES."](010-legacy-war-panels/p081-hidden-temple-rises.jpg)
+Note (our notes, around the quote): ![p81 "THE HIDDEN TEMPLE RISES."](../notes/materials/010-legacy-war-panels/p081-hidden-temple-rises.jpg)
 (*Panel: p81 — `p081-hidden-temple-rises.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:858`
 
@@ -283,9 +281,9 @@ Our notes: `notes/materials/010-legacy-war.md:938`
 
 - Note (summary from our notes, not a quotation): Jedi: council on Taivas. K'Kruhk sums up the council's decision (p63). T'ra Saa runs the battle meditation (p74). Fel names "MASTER K'KRUHK AND THE SENIOR JEDI ... OVERALL COMMAND" for Coruscant (p100).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1016`
 
 - Note (summary from our notes, not a quotation): No Grand Master is named anywhere.
@@ -314,7 +312,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:93`
 > a Jedi Council of three masters know and control the Hidden Temple: Master Tili Qua and two of the oldest surviving Masters, K'Kruhk and T'ra Saa.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p195.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:653`
 
 ## https://starwars.fandom.com/wiki/Kit_Fisto/Legends
@@ -330,7 +328,7 @@ Our notes: `external/mega-notes/kit-fisto-quotes.txt:31`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); No stat block. The only content is.
 Note (our notes, around the quote): No stat block. The only content is "two of the oldest surviving Masters, K'Kruhk and T'ra Saa" (Hidden Temple council) and custody of the Jedi artifacts. (material 011; p194–195; debates #18, #24, #28, #131)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 Our notes: `legends-feats.md:2520`
 
 > SHE SEES THE BATTLE NOW AS A PURE VISION, ITS OUTCOME IN HER CONTROL. SHE KNOWS HOW IT WILL END.

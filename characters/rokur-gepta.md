@@ -24,19 +24,17 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Rokur Gepta: "The mysterious gray-cloaked wizard was a disciple of ancient Sith teachings, eager to get his hands on the artifact for his own purposes." Source: The New Essential Chronology, p.99
-![Quote image: The New Essential Chronology, p.99 — full quote as printed](quotes/nec-p99-rokur-gepta.jpg)
+![Quote image: The New Essential Chronology, p.99 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p99-rokur-gepta.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:84`
 
 > He also enjoyed an amicable relationship with Emperor Palpatine, who had given the Sorcerer a decommissioned Republic cruiser and granted him near-total autonomy within the confines of the Centrality.
 — Source: Part Four: Profiles in History; Palpatine (Darth Sidious) — Gepta's Imperial powers.
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Gepta's Imperial powers: "He also enjoyed an amicable relationship with Emperor Palpatine, who had given the Sorcerer a decommissioned Republic cruiser and granted him near-total autonomy within the confines of the Centrality." Source: The New Essential Chronology, p.101
-![Quote image: The New Essential Chronology, p.101 — full quote as printed](quotes/nec-p101-geptas-imperial-powers.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:96`
 
 > Zipped up in spacesuits, Lando and the Sorcerer of Tund faced off in the middle of the watching fleet. They shot at one another while maneuvering for position with jet packs. One of Lando's wild shots caught Gepta in the ankle.
 — Source: Part Four: Profiles in History; Lando Calrissian — Lando vs Gepta.
 Note (our notes, around the quote): Lando Calrissian — Lando vs Gepta: "Zipped up in spacesuits, Lando and the Sorcerer of Tund faced off in the middle of the watching fleet. They shot at one another while maneuvering for position with jet packs. One of Lando's wild shots caught Gepta in the ankle." Source: The New Essential Chronology, p.102
-![Quote image: The New Essential Chronology, p.102 — full quote as printed](quotes/nec-p102-lando-vs-gepta.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:103`
 
 > If Lando refused, he would fire an electromagnetic tor- pedo and lethally irradiate everything In the nebula, The holographic log recorder aboard the Star Destroyer Eminence recorded the single combat, much to the gratitude of future historians. Zipped up in spacesuits, Lando and the Seoxcerer of Tund faced off in the middie of the watching fleet.
@@ -50,7 +48,6 @@ Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-i
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Gepta a Croke: "The Emperor had long been interested in the Sorcerers of Tund, since their religious teachings were based on an archaic interpretation of original Sith doctrine." Source: The New Essential Chronology, p.102
-![Quote image: The New Essential Chronology, p.102 — full quote as printed](quotes/nec-p102-gepta-a-croke.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:105`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -60,7 +57,6 @@ Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-i
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Rokur Gepta; Lando Calrissian: "But after Gepta felt that he had finally achieved his goal of trapping Calrissian, he decided that Fybot had outlived his usefulness, and killed the avian being in cold blood." Source: The Complete Star Wars Encyclopedia, Vol. I, p.300
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.300 — full quote as printed](quotes/v1-p300-but-after-gepta-felt-that-he.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:262`
 
 - Note (summary from our notes, not a quotation): Page contents: 859 words, 15 paragraphs | headings/entries: Gepparin; Gep's Grill; Gepta, Rokur; Geptun, Lorz
@@ -72,13 +68,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Rokur Gepta — entry/section: Gepta, Rokur: "Rokur Gepta's arrogance and sheer malice led him to obliterate all living things on the planet." Source: The Complete Star Wars Encyclopedia, Vol. I, p.334
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.334 — full quote as printed](quotes/v1-p334-rokur-geptas-arrogance-and-sheer-malice.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:194`
 
 > Lando Calrissian battled Gepta and defeated him, in the process discovering that the Sorcerer was actually a vicious Croke—a small, snaillike being with hairy black legs that used illusion to make its way through life.
 — Source: scan pages 321–360; Rokur Gepta; Lando Calrissian — entry/section: Gepta, Rokur.
 Note (our notes, around the quote): Rokur Gepta; Lando Calrissian — entry/section: Gepta, Rokur: "Lando Calrissian battled Gepta and defeated him, in the process discovering that the Sorcerer was actually a vicious Croke—a small, snaillike being with hairy black legs that used illusion to make its way through life." Source: The Complete Star Wars Encyclopedia, Vol. I, p.334
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.334 — full quote as printed](quotes/v1-p334-lando-calrissian-battled-gepta-and-defeated.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:196`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -86,7 +80,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Lehesu caught up to the courier and destroyed it, thereby cutting off Gepta's fleet from the rest of the Empire and ensuring that the ThonBoka would remain isolated and free.
 — Source: scan pages 241–280; Rokur Gepta. POV: Rokur Gepta.
 Note (our notes, around the quote): Rokur Gepta: "Lehesu caught up to the courier and destroyed it, thereby cutting off Gepta's fleet from the rest of the Empire and ensuring that the ThonBoka would remain isolated and free." Source: The Complete Star Wars Encyclopedia, Vol. II, p.249
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.249 — full quote as printed](quotes/v2-p249-lehesu-caught-up-to-the-courier.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:136`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -94,13 +87,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > After Vuffi Raa reverted to his original programming, he helped Calrissian defeat Whett's boss Rokur Gepta in the defense of the ThonBoka.
 — Source: scan pages 281–320; Lando Calrissian; Rokur Gepta.
 Note (our notes, around the quote): Lando Calrissian; Rokur Gepta: "After Vuffi Raa reverted to his original programming, he helped Calrissian defeat Whett's boss Rokur Gepta in the defense of the ThonBoka." Source: The Complete Star Wars Encyclopedia, Vol. III, p.314
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.314 — full quote as printed](quotes/v3-p314-after-vuffi-raa-reverted-to-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:337`
 
 > Gepta had built a small windowless chamber near the ship's drive tubes with 2-meter-thick walls to contain the bioweapon that he had used to destroy the planet Tund.
 — Source: scan pages 321–360; Rokur Gepta. POV: Rokur Gepta.
 Note (our notes, around the quote): Rokur Gepta: "Gepta had built a small windowless chamber near the ship's drive tubes with 2-meter-thick walls to contain the bioweapon that he had used to destroy the planet Tund." Source: The Complete Star Wars Encyclopedia, Vol. III, p.326
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.326 — full quote as printed](quotes/v3-p326-gepta-had-built-a-small-windowless.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:85`
 
 ## The New Essential Guide to Characters (2002)
@@ -112,30 +103,25 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > Gepta joined their society, learned their secrets, then annihilated them—and all life on their planet—with the radiation of a unique bioweapon.
 — Source: scan pages 61–90; Rokur Gepta. POV: Rokur Gepta.
 Note (our notes, around the quote): Rokur Gepta: "Gepta joined their society, learned their secrets, then annihilated them—and all life on their planet—with the radiation of a unique bioweapon." Source: The New Essential Guide to Characters, p.74
-![Quote image: The New Essential Guide to Characters, p.74 — full quote as printed](quotes/negc-p74-gepta-joined-their-society-learned-their.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:50`
 
 > As Emperor, he took a personal interest in Rokur Gepta, making him one of the most powerful individuals in the Centrality region.
 — Source: scan pages 61–90; Rokur Gepta. POV: Rokur Gepta.
 Note (our notes, around the quote): Rokur Gepta: "As Emperor, he took a personal interest in Rokur Gepta, making him one of the most powerful individuals in the Centrality region." Source: The New Essential Guide to Characters, p.74
-![Quote image: The New Essential Guide to Characters, p.74 — full quote as printed](quotes/negc-p74-as-emperor-he-took-a-personal.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:52`
 
 > Gepta teamed up with Mer to obtain the legendary Mindharp of Sharu by exploiting Lando Calrissian.
 — Source: scan pages 61–90.
 Note (our notes, around the quote): Rokur Gepta; Lando Calrissian — entry/section: R okur Gepta, self-proclaimed Sor-: "Gepta teamed up with Mer to obtain the legendary Mindharp of Sharu by exploiting Lando Calrissian." Source: The New Essential Guide to Characters, p.74
-![Quote image: The New Essential Guide to Characters, p.74 — full quote as printed](quotes/negc-p74-gepta-teamed-up-with-mer-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:54`
 
 > During the laser duel Calrissian shot Gepta in the ankle, where the actual Croke lay nestled within his larger phantom form.
 — Source: scan pages 61–90.
 Note (our notes, around the quote): Rokur Gepta; Lando Calrissian — entry/section: R okur Gepta, self-proclaimed Sor-: "During the laser duel Calrissian shot Gepta in the ankle, where the actual Croke lay nestled within his larger phantom form." Source: The New Essential Guide to Characters, p.74
-![Quote image: The New Essential Guide to Characters, p.74 — full quote as printed](quotes/negc-p74-during-the-laser-duel-calrissian-shot.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:58`
 
 - Note (summary from our notes, not a quotation): Rokur Gepta; Lando Calrissian — entry/section: R okur Gepta, self-proclaimed Sor-: "The "body" of Gepta vanished, and Calrissian crushed the tiny Croke between his gloves." Source: The New Essential Guide to Characters, p.74
   — Source: scan pages 61–90.
-![Quote image: The New Essential Guide to Characters, p.74 — full quote as printed](quotes/negc-p74-the-body-of-gepta-vanished-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:60`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -145,7 +131,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Rokur Gepta: "Eager to extend his reach beyond the tiny world of Tund, Gepta exploited the Sorcerers' knowledge for his own plans of galactic dominatior After learning all the Sorcerers could teach him, Gepta killed the last of the Sorcerers and laid waste to their planet." Source: Dark Side Sourcebook, p.80
-![Quote image: Dark Side Sourcebook, p.80 — full quote as printed](quotes/dss-p80-eager-to-extend-his-reach-beyond.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:119`
 
 - Note (summary from our notes, not a quotation): Page contents: 1258 words, 121 paragraphs | headings/entries: Index; Drain Energy 14, 17; Drain Force 17; Drain Knowledge 15, 17, 40; Durron, Kyp 12, 104, 105; Dxun tomb beast 112; Emperor Reborn 120, 126; Empress Teta system 8, 74, 75, 76; Endor 10, 91, 92, 94, 110; Force, the 6, 7, 40, 55; Force illusions 16; Force Points, gaining 40; Force-based skills 13, 17; Gepta, Rokur 80; Gethzerion 81, 82, 108, 134; Great Hyperspace War, the 7,; Harth, Set 83; Hatred (feat) 18; Hethrir, Lord 92, 93; Illusion (feat) 15, 17; Imperial campaign 51; Imperial Sentinel 99; Imperial Sovereign Protector 92, 99; Interrogator droid 63; Ismaren, trek 106; Jade, Mara 26, 53, 99; Jedgar 94, 96; Jedi characters 20; Jedi consular 158; Jedi, corrupted 31; Jedi guardian 157; Jedi, history of 7; Jedi hunters 87; Jerec 101; Kadanm 94, 96, 97 Kai,; Tamith 108, 109; Kalgrath 116; Sedriss, Executor 99, 102; Sense (feat) 54; Sing, Aurra 87, 88; Sith acolyte 31, 74; Skywalker, Luk
@@ -167,7 +152,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:281`
 > After infiltrating the Sorcerers' ranks and learning their dark side magic, Gepta (a tiny alien Croke) annihilated them all with a weapon of mass destruction.
 — Source: Star Wars Insider #56 (2001); Rokur Gepta — entry/section: Rokur Gepta.
 Note (our notes, around the quote): Rokur Gepta — entry/section: Rokur Gepta: "After infiltrating the Sorcerers' ranks and learning their dark side magic, Gepta (a tiny alien Croke) annihilated them all with a weapon of mass destruction." Source: *Star Wars Insider #56* (2001), scan p.48
-![Quote image: *Star Wars Insider #56* (2001), scan p.48 — full quote as printed](quotes/ins056-s48-after-infiltrating-the-sorcerers-ranks-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:283`
 
 # Debate and forum claims (unverified)

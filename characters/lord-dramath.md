@@ -104,14 +104,12 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4023`; `not
 > By the age of ten, Tenebrae was feared across Medriaas as the entire northern continent fell under his sway. Sith Lord Dramath, planetary governor of Medriaas, set out to bring the boy in line. Tenebrae broke Lord Dramath's mind, but not before revealing that he was actually his son.
 — Source: The Sith; Vitiate (the Sith Emperor); Lord Dramath — Lord Vitiate.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Lord Dramath — Lord Vitiate: "By the age of ten, Tenebrae was feared across Medriaas as the entire northern continent fell under his sway. Sith Lord Dramath, planetary governor of Medriaas, set out to bring the boy in line. Tenebrae broke Lord Dramath's mind, but not before revealing that he was actually his son." Source: The Old Republic Encyclopedia, p.160
-![Quote image: The Old Republic Encyclopedia, p.160 — full quote as printed](quotes/tore-p160-by-the-age-of-ten-tenebrae.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:163`
 
 > AGE: 1,300+ NAMES: Tenebrae, Lord Vitiate HOMEWORLD: Nathema (formerly Medriaas) FAMILY: Lord Dramath (father), unidentified farmer (mother) APPRENTICE: Exal Kressh (deceased) SERVANTS: The Hand, the Wrath, the Voice, the Children of the Emperor, the Imperial Guard
 > [fragment — full passage not on file]
 — Source: The Sith; Vitiate (the Sith Emperor) — Data box.
 Note (our notes, around the quote): Vitiate (the Sith Emperor) — Data box: "AGE: 1,300+ NAMES: Tenebrae, Lord Vitiate HOMEWORLD: Nathema (formerly Medriaas) FAMILY: Lord Dramath (father), unidentified farmer (mother) APPRENTICE: Exal Kressh (deceased) SERVANTS: The Hand, the Wrath, the Voice, the Children of the Emperor, the Imperial Guard" Source: The Old Republic Encyclopedia, p.160
-![Quote image: The Old Republic Encyclopedia, p.160 — full quote as printed](quotes/tore-p160-age-1-300-names-tenebrae-lord.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:169`
 
 ## "SWTOR Scaling - A New Perspective (2024)" (DarthAnt66)

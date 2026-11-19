@@ -16,13 +16,13 @@
 > BUT NOMI'S GREATEST TALENT, IS THE INTERNAL VISUALIZATION SHE USED TO DEFEAT MASTER THON'S ENEMIES ON AMBRIA!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Nomi Sunrider. POV: narrator, about Qrrrl Toq.
 Note (our notes, around the quote): Narration on Nomi Sunrider: "AND NOMI SUNRIDER--A JEDI ONLY A FEW SHORT MONTHS--IS ALREADY ADEPT IN BATTLE SKILLS SHE LEARNED ON OSSUS." "BUT NOMI'S GREATEST TALENT, IS THE INTERNAL VISUALIZATION SHE USED TO DEFEAT MASTER THON'S ENEMIES ON AMBRIA!" · NARRATION. Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:167`
 
 > THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Her battle meditation is blocked by Ommin.
 Note (our notes, around the quote): Her battle meditation is blocked by Ommin: "THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!" Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:169`
 
 > SHOANEB CULU, A MIRALUKA JEDI, DEMONSTRATES UNCANNY ABILITY WITH THE LIGHTSABER!
@@ -31,18 +31,18 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:169`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Shoaneb Culu. POV: narrator, about Qrrrl Toq.
 Note (our notes, around the quote): Narration on Shoaneb Culu: "SHOANEB CULU, A MIRALUKA JEDI, DEMONSTRATES UNCANNY ABILITY WITH THE LIGHTSABER!" "THE MIRALUKA OF ALPHERIDIES ARE BORN WITHOUT EYES--BUT SEE EVERYTHING...IN THE FORCE!" · NARRATION. Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:201`
 
 > JEDI KNIGHTS, KITH KARK, DACE DIATH, AND QRRRL TOQ WIELD THEIR LIGHTSABERS WITH FEARLESS EFFECTIVENESS.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on the rescue Knights. POV: narrator, about Qrrrl Toq.
 Note (our notes, around the quote): Narration on the rescue Knights: "JEDI KNIGHTS, KITH KARK, DACE DIATH, AND QRRRL TOQ WIELD THEIR LIGHTSABERS WITH FEARLESS EFFECTIVENESS." · NARRATION. Source: Freedon Nadd Uprising #2, p5
-![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](panels/fnu2-p05-kira-citadel-battle.jpg)
+![Freedon Nadd Uprising #2 p5: Battle at Modon Kira's citadel: Kith Kark, Dace Diath, Qrrrl Toq, Shoaneb Culu and Nomi (whose battle meditation is blocked)](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p05-kira-citadel-battle.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:208`; `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:255`
 
 - Note (summary from our notes, not a quotation): Chosen for the Onderon rescue team ("QRRRL TOQ"). Source: Freedon Nadd Uprising #1, p22
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](panels/fnu1-p22-onderon-rescue-team.jpg)
+![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p22-onderon-rescue-team.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:213`
 
 > QRRRL TOQ, NAZZAR PRINCE AND JEDI KNIGHT, ALSO SENSES THE INVISIBLE MALEVOLENCE CONCENTRATED AGAINST THE JEDI--
@@ -51,7 +51,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:213`
 > WHY AREN'T ULIC AND CAY JOINING THE FIGHT? HAS THIS STRANGE DARK POWER ALREADY SNUFFED OUT THEIR SPIRITS?
 — Source: Freedon Nadd Uprising #2, p6 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Senses the hidden Sith attack.
 Note (our notes, around the quote): Senses the hidden Sith attack: "QRRRL TOQ, NAZZAR PRINCE AND JEDI KNIGHT, ALSO SENSES THE INVISIBLE MALEVOLENCE CONCENTRATED AGAINST THE JEDI--" Qrrrl Toq: "WHY AREN'T ULIC AND CAY JOINING THE FIGHT? HAS THIS STRANGE DARK POWER ALREADY SNUFFED OUT THEIR SPIRITS?" · NARRATION. Source: Freedon Nadd Uprising #2, p6
-![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](panels/fnu2-p06-kith-kark-shield-fails.jpg)
+![Freedon Nadd Uprising #2 p6: Kith Kark's Force shield fails](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p06-kith-kark-shield-fails.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:215`
 
 > Though he did not know why, Qrrl found himself drawn to this Force that they spoke of, and he expressed his interest in learning to become a Jed!. Once on Ossus, Qrrl became the apprentice of Master Vodo-Siosk Baas, who instructed the Nazzar prince in every aspect of the Jedi Way, from the basic understanding of the Force to the construction of lightsabers. Not long after his arrival- and because he had progressed more quickly than anyone had expected - Qrrl joined the force of Jedi sent to destroy the dark side's grasp on the people of Onderon.
@@ -60,7 +60,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:215`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Narrative bio: "because he had progressed more quickly than anyone had expected - Qrrl joined the force of Jedi sent to destroy the dark side's grasp on" Onderon. Source: Tales of the Jedi Companion (WEG, 1996), p.30
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.30 — full quote as printed](quotes/companion-p30-because-he-had-progressed-more-quickly.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.30 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p30-because-he-had-progressed-more-quickly.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:215`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Qrrl Toq, Nazzar Jedi Knight (the comics spell it Qrrrl). Force skills Control 2D, Sense 1D+2, Alter 1D+2. Lightsaber 3D+2, Dexterity 2D+2. Powers include telekinesis. Force Points 1, Character Points 5. Source: Tales of the Jedi Companion (WEG, 1996), p.30
@@ -83,8 +83,8 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:149`
 
 - Note (summary from our notes, not a quotation): Sith-possessed student; duels and kills her master Master Dominus, and dies in the same fight. Source: The Sith War #4, p12–13
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p12: Zona Luka, Sith-possessed, duels her master Dominus: "Nothing personal, Master Dominus"](panels/sw4-p12-zona-luka-duels-dominus.jpg)
-![The Sith War #4 p13: Three Jedi find Dominus and Zona Luka dead; Qrrrl Toq: "Looks like he put up a good fight"](panels/sw4-p13-zona-luka-dominus-dead.jpg)
+![The Sith War #4 p12: Zona Luka, Sith-possessed, duels her master Dominus: "Nothing personal, Master Dominus"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p12-zona-luka-duels-dominus.jpg)
+![The Sith War #4 p13: Three Jedi find Dominus and Zona Luka dead; Qrrrl Toq: "Looks like he put up a good fight"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p13-zona-luka-dominus-dead.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:240`; `notes/materials/024-tales-of-the-jedi/the-sith-war.md:245`
 
 - Note (summary from our notes, not a quotation): Killed with Shoaneb Culu and Qrrrl Toq ("QREL TOQ") by Aleema's stellar core. Source: The Sith War #4, p21–22
@@ -105,7 +105,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:353`
 > In an instant, the resulting supemova incinerated many Jedi Knights, including Qrrrl Toq, Dace Diath, and Shoaneb Culu.
 — Source: Chapter One: History of the Jedi; Qrrrl Toq; Dace Diath; Shoaneb Culu.
 Note (our notes, around the quote): Qrrrl Toq; Dace Diath; Shoaneb Culu: "In an instant, the resulting supemova incinerated many Jedi Knights, including Qrrrl Toq, Dace Diath, and Shoaneb Culu." Source: Power of the Jedi Sourcebook, p.7
-![Quote image: Power of the Jedi Sourcebook, p.7 — full quote as printed](quotes/potj-p7-in-an-instant-the-resulting-supemova.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:34`
 
 # Debate and forum claims (unverified)

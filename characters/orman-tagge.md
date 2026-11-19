@@ -14,7 +14,6 @@
 > The Rebel Alliance fleet attacked the vessel, but both Silas and Orman Tagge survived in a sealed chamber, which was recovered by Darth Vader.
 — Source: scan pages 201–240; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "The Rebel Alliance fleet attacked the vessel, but both Silas and Orman Tagge survived in a sealed chamber, which was recovered by Darth Vader." Source: The Complete Star Wars Encyclopedia, Vol. III, p.211
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.211 — full quote as printed](quotes/v3-p211-the-rebel-alliance-fleet-attacked-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:158`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -22,13 +21,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Ulric Tagge grew up on the Core World of Tepasi surrounded by his ancient family’s wealth and luxury, and overshadowed by three older brothers: Orman, groomed from birth as the next baron; Silas, a born scientist with no interest in worldly concerns; and Cassio, a cautious, plodding strategist.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ulric Tagge; Orman Tagge; Silas Tagge; Cassio Tagge — entry/section: Ulric Tagge's brothers: "Ulric Tagge grew up on the Core World of Tepasi surrounded by his ancient family’s wealth and luxury, and overshadowed by three older brothers: Orman, groomed from birth as the next baron; Silas, a born scientist with no interest in worldly concerns; and Cassio, a cautious, plodding strategist." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-ulric-tagge-grew-up-on-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:321`
 
 > But after Cassio died aboard the Death Star, Ulric found himself a pawn in his eldest brother's plots to gain the Emperor's favor.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Ulric Tagge; Cassio Tagge; Orman Tagge; Palpatine (Darth Sidious) — entry/section: Ulric Tagge after the Death Star: "But after Cassio died aboard the Death Star, Ulric found himself a pawn in his eldest brother's plots to gain the Emperor's favor." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.159 — full quote as printed](quotes/d667-s159-but-after-cassio-died-aboard-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:323`
 
 ## Star Wars Insider #74 (2004)
@@ -43,7 +40,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:400`
 > I vow to put aside any past competitive differences we may have had with other firms that are still loyal to the Republic, and I extend an invitation to the best engineers and scientists from Sienar, Kuat, Rendili and Corellian Engineering to counter the growing threat.
 — Source: Star Wars Insider #74 (2004); Orman Tagge — entry/section: Orman Tagge's vow.
 Note (our notes, around the quote): Orman Tagge — entry/section: Orman Tagge's vow: ""The bold ideas of the House of Tagge have kept us leaders for generations," said Tagge. "I vow to put aside any past competitive differences we may have had with other firms that are still loyal to the Republic, and I extend an invitation to the best engineers and scientists from Sienar, Kuat, Rendili and Corellian Engineering to counter the growing threat." —Orman Tagge, Star Wars Insider 74, p. 61" Source: *Star Wars Insider #74* (2004), scan p.61
-![Quote image: *Star Wars Insider #74* (2004), scan p.61 — full quote as printed](quotes/ins074-s61-the-bold-ideas-of-the-house.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:408`
 
 # CANON (Disney canon — kept separate)
@@ -53,7 +49,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:408`
 > The scientist Silas Tagge dreamed up a design for a base that would hide in the troposphere of a gas giant and generate a vortex that starfighters could use as a launch corridor, After the Empire dismissed the idea, Baron Orman Tagge committed millions of credits to make his brother's design a reality, naming it after a stealthy forest predator from the Tagge homeworld of Tepasi. Tagge ships towed the station into the Yavin system through a part of the Imperial blockade overseen by a third brother, General Ulric Tagge, and they used the station to harass the Rebels until Luke Skywalker destroyed it in a captured TIE fighter.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Silas Tagge; Orman Tagge; Ulric Tagge; Luke Skywalker — entry/section: Achtnak Turbine Station: "The scientist Silas Tagge dreamed up a design for a base that would hide in the troposphere of a gas giant and generate a vortex that starfighters could use as a launch corridor, After the Empire dismissed the idea, Baron Orman Tagge committed millions of credits to make his brother's design a reality, naming it after a stealthy forest predator from the Tagge homeworld of Tepasi. Tagge ships towed the station into the Yavin system through a part of the Imperial blockade overseen by a third brother, General Ulric Tagge, and they used the station to harass the Rebels until Luke Skywalker destroyed it in a captured TIE fighter." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.155
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.155 — full quote as printed](quotes/d667-s155-the-scientist-silas-tagge-dreamed-up.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:278`
 
 # Debate and forum claims (unverified)

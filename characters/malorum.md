@@ -14,7 +14,6 @@
 > The settlement was attacked by agents of Malorum, and Hume was among those killed.
 — Source: scan pages 41–80; Grand Inquisitor Malorum. POV: Grand Inquisitor Malorum.
 Note (our notes, around the quote): Grand Inquisitor Malorum: "The settlement was attacked by agents of Malorum, and Hume was among those killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.67
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.67 — full quote as printed](quotes/v2-p67-the-settlement-was-attacked-by-agents.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:232`
 
 - Note (summary from our notes, not a quotation): Page contents: 1055 words, 24 paragraphs | headings/entries: Maliss, Ket; Malkite Poisoners; Mallar, Plat; Mallat, Zeven; Mallif Cove; Mallixer; Malo, Lanah; Malorm Family; Malorum; Malreaux
@@ -24,19 +23,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > In an effort to appease the Emperor, Malorum set about destroying Solace and her underground hideout, but he failed at that, too.
 — Source: scan pages 281–320; Grand Inquisitor Malorum — entry/section: Malorum.
 Note (our notes, around the quote): Grand Inquisitor Malorum — entry/section: Malorum: "In an effort to appease the Emperor, Malorum set about destroying Solace and her underground hideout, but he failed at that, too." Source: The Complete Star Wars Encyclopedia, Vol. II, p.281
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.281 — full quote as printed](quotes/v2-p281-in-an-effort-to-appease-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:64`
 
 > He plummeted into the core of the Theed Palace power generator station, and was killed.
 — Source: scan pages 281–320; Grand Inquisitor Malorum — entry/section: Malorum.
 Note (our notes, around the quote): Grand Inquisitor Malorum — entry/section: Malorum: "He plummeted into the core of the Theed Palace power generator station, and was killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.281
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.281 — full quote as printed](quotes/v2-p281-he-plummeted-into-the-core-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:66`
 
 > Olin convinced her to return to the Jedi Temple, in an effort to stop Malorum from destroying the settlement.
 — Source: scan pages 401–440; Grand Inquisitor Malorum. POV: Grand Inquisitor Malorum.
 Note (our notes, around the quote): Grand Inquisitor Malorum: "Olin convinced her to return to the Jedi Temple, in an effort to stop Malorum from destroying the settlement." Source: The Complete Star Wars Encyclopedia, Vol. II, p.408
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.408 — full quote as printed](quotes/v2-p408-olin-convinced-her-to-return-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:101`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -44,13 +40,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > However, when Olin explained that Inquisitor Malorum had planted a spy in her midst, Solace agreed to return to the Jedi Temple with him and discover the spy's identity before her un d settlement could be destroyed.
 — Source: scan pages 161–200; Grand Inquisitor Malorum. POV: Grand Inquisitor Malorum.
 Note (our notes, around the quote): Grand Inquisitor Malorum: "However, when Olin explained that Inquisitor Malorum had planted a spy in her midst, Solace agreed to return to the Jedi Temple with him and discover the spy's identity before her un d settlement could be destroyed." Source: The Complete Star Wars Encyclopedia, Vol. III, p.172
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.172 — full quote as printed](quotes/v3-p172-however-when-olin-explained-that-inquisitor.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:215`
 
 > Inquisitor Malorum, seeking information on Padmé's death, killed Ryoo.
 — Source: scan pages 241–280; Grand Inquisitor Malorum; Padmé Amidala.
 Note (our notes, around the quote): Grand Inquisitor Malorum; Padmé Amidala: "Inquisitor Malorum, seeking information on Padmé's death, killed Ryoo." Source: The Complete Star Wars Encyclopedia, Vol. III, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.242 — full quote as printed](quotes/v3-p242-inquisitor-malorum-seeking-information-on-padm.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:77`
 
 # Debate and forum claims (unverified)

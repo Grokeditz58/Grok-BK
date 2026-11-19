@@ -14,49 +14,41 @@
 > But one slave displays incredible cunning and a fearsome talent for the dark side. Begrudgingly instructed by Overseer Harkun, the slave acolyte conquers the trials, dominates a Dashade assassin named Khem Val into servitude, and overwhelms the other students, including a Sith pureblood groomed for success.
 — Source: The Sith; Darth Nox (Sith Inquisitor); Khem Val — Ascension to Power intro.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Khem Val — Ascension to Power intro: "But one slave displays incredible cunning and a fearsome talent for the dark side. Begrudgingly instructed by Overseer Harkun, the slave acolyte conquers the trials, dominates a Dashade assassin named Khem Val into servitude, and overwhelms the other students, including a Sith pureblood groomed for success." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-but-one-slave-displays-incredible-cunning.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:485`
 
 > Zash welcomes her apprentice and reveals her terrible secret: Zash's youthful appearance is only an illusion—in fact, the Sith Lord is ancient, and her body disfigured by the dark side. Zash now plots to achieve eternal youth by possessing the inquisitor as her next body. But when the inquisitor attacks Darth Zash, the Dashade Khem Val sabotages the ritual—inadvertently trapping Zash's consciousness inside his body.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Zash; Darth Nox (Sith Inquisitor); Khem Val — Scion of Kallig: "Zash welcomes her apprentice and reveals her terrible secret: Zash's youthful appearance is only an illusion—in fact, the Sith Lord is ancient, and her body disfigured by the dark side. Zash now plots to achieve eternal youth by possessing the inquisitor as her next body. But when the inquisitor attacks Darth Zash, the Dashade Khem Val sabotages the ritual—inadvertently trapping Zash's consciousness inside his body." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-zash-welcomes-her-apprentice-and-reveals.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:491`
 
 - Note (summary from our notes, not a quotation): Khem Val — Khem Val data box: "SPECIES: Dashade AGE: 2,000+ HOMEWORLD: Urkupp TITLES: "Devourer," "Shadow Killer"" Source: The Old Republic Encyclopedia, p.186
   — Source: The Sith.
-![Quote image: The Old Republic Encyclopedia, p.186 — full quote as printed](quotes/tore-p186-species-dashade-age-2-000-homeworld.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:514`
 
 > RUTHLESS, BRUTAL, AND POWERFUL, Khem Val is a cunning Dashade assassin. His resistance to the Force marks him as a deadly threat to all Jedi and Sith who oppose him.
 — Source: The Sith; Khem Val — Khem Val.
 Note (our notes, around the quote): Khem Val — Khem Val: "RUTHLESS, BRUTAL, AND POWERFUL, Khem Val is a cunning Dashade assassin. His resistance to the Force marks him as a deadly threat to all Jedi and Sith who oppose him." Source: The Old Republic Encyclopedia, p.186
-![Quote image: The Old Republic Encyclopedia, p.186 — full quote as printed](quotes/tore-p186-ruthless-brutal-and-powerful-khem-val.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:516`
 
 > Millennia ago, Khem Val loyally served the Sith Lord Tulak Hord after the powerful Sith proved his superiority over Khem by defeating him in battle. This was the first time any Force user had bested Khem Val. Under Tulak Hord's command, Khem Val devoured the life energy from thousands of Jedi in ancient battles waged on the planets Yn and Chabosh. One of Khem Val's proudest victories came during the Battle of Chabosh, where he fought by Tulak Hord's side to conquer an army of Jedi 1,000 strong.
 — Source: The Sith; Khem Val; Tulak Hord — Khem Val.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Khem Val: "Millennia ago, Khem Val loyally served the Sith Lord Tulak Hord after the powerful Sith proved his superiority over Khem by defeating him in battle. This was the first time any Force user had bested Khem Val. Under Tulak Hord's command, Khem Val devoured the life energy from thousands of Jedi in ancient battles waged on the planets Yn and Chabosh. One of Khem Val's proudest victories came during the Battle of Chabosh, where he fought by Tulak Hord's side to conquer an army of Jedi 1,000 strong." Source: The Old Republic Encyclopedia, p.186
-![Quote image: The Old Republic Encyclopedia, p.186 — full quote as printed](quotes/tore-p186-millennia-ago-khem-val-loyally-served.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:518`
 
 > As Tulak Hord's enemies plotted his downfall, he sensed their treachery and took measures to guard against them. To preserve his power base, Hord secretly sealed Khem Val within a subterranean stasis chamber. Tulak Hord promised his loyal assassin that he would return for him when the time was right, but Hord was ultimately slain before he could fulfill his promise.
 — Source: The Sith; Khem Val; Tulak Hord — Khem Val.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Khem Val: "As Tulak Hord's enemies plotted his downfall, he sensed their treachery and took measures to guard against them. To preserve his power base, Hord secretly sealed Khem Val within a subterranean stasis chamber. Tulak Hord promised his loyal assassin that he would return for him when the time was right, but Hord was ultimately slain before he could fulfill his promise." Source: The Old Republic Encyclopedia, p.186
-![Quote image: The Old Republic Encyclopedia, p.186 — full quote as printed](quotes/tore-p186-as-tulak-hord-s-enemies-plotted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:520`
 
 > Born with a natural resistance to the Force, the Dashade are simultaneously valued allies and among the most dangerous enemies of Force users. Although the Jedi Order shies from accepting the fearsome Dashade into its ranks, powerful Sith Lords have been known to hire Dashade as assassins to eliminate Jedi and their Sith rivals.
 — Source: Species, technology, planets and the future; Khem Val; Tulak Hord — Dashade.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Dashade: "Born with a natural resistance to the Force, the Dashade are simultaneously valued allies and among the most dangerous enemies of Force users. Although the Jedi Order shies from accepting the fearsome Dashade into its ranks, powerful Sith Lords have been known to hire Dashade as assassins to eliminate Jedi and their Sith rivals." Source: The Old Republic Encyclopedia, p.262
-![Quote image: The Old Republic Encyclopedia, p.262 — full quote as printed](quotes/tore-p262-born-with-a-natural-resistance-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:78`
 
 > DISTINCTIVE FEATURES: Force-resistant NOTABLE DASHADE: Khem Val, former servant to Sith Lord Tulak Hord
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Khem Val; Tulak Hord — Dashade data box.
 Note (our notes, around the quote): Khem Val; Tulak Hord — Dashade data box: "DISTINCTIVE FEATURES: Force-resistant NOTABLE DASHADE: Khem Val, former servant to Sith Lord Tulak Hord" Source: The Old Republic Encyclopedia, p.262
-![Quote image: The Old Republic Encyclopedia, p.262 — full quote as printed](quotes/tore-p262-distinctive-features-force-resistant-notable-das.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:80`
 
 ## https://starwars.fandom.com/wiki/Tulak_Hord

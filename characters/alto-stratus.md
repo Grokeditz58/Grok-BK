@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:
 > One of our patrols has spotted a Republic convoy moving toward Cobalt Station. We have them trapped. They're heading right into a minefield.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
 Note (our notes, around the quote): Colonel Mazzi; Alto Stratus — entry/section: Pull quote: Colonel Mazzi to Alto Stratus: ""One of our patrols has spotted a Republic convoy moving toward Cobalt Station. We have them trapped. They're heading right into a minefield." —Nimbus Colonel Mazzi, reporting to Alto Stratus at the Battle of Jabiim" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.124
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.124 — full quote as printed](quotes/d715-s124-one-of-our-patrols-has-spotted.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:37`
 
 ## Star Wars Insider #69 (2003)

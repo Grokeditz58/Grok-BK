@@ -14,39 +14,33 @@
 > The defeat and imprisonment of the Dread Masters, six powerful Sith Lords who served the Sith Emperor, was a major victory for the Council's expert Sith hunter, Master Jaric Kaedan, during the Great War.
 — Source: The Jedi Order; Jaric Kaedan; Vitiate (the Sith Emperor) — Defenders of Justice.
 Note (our notes, around the quote): Jaric Kaedan; Vitiate (the Sith Emperor) — Defenders of Justice: "The defeat and imprisonment of the Dread Masters, six powerful Sith Lords who served the Sith Emperor, was a major victory for the Council's expert Sith hunter, Master Jaric Kaedan, during the Great War." Source: The Old Republic Encyclopedia, p.83, sidebar
-![Quote image: The Old Republic Encyclopedia, p.83 — full quote as printed](quotes/tore-p83-the-defeat-and-imprisonment-of-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:173`
 
 > The Dread Masters are a group of Sith Lords who wield the dark side to break entire armies with crippling fear and mass hysteria. On Dromund Kaas, they served the Emperor as prophets and advisors, meditating in isolation together. Over centuries, they became inseparable, discovering that their remarkable Force abilities were only possible when they worked in unison.
 — Source: The Sith; The Dread Masters (top-right). POV: The Dread Masters.
 Note (our notes, around the quote): The Dread Masters (top-right): "The Dread Masters are a group of Sith Lords who wield the dark side to break entire armies with crippling fear and mass hysteria. On Dromund Kaas, they served the Emperor as prophets and advisors, meditating in isolation together. Over centuries, they became inseparable, discovering that their remarkable Force abilities were only possible when they worked in unison." Source: The Old Republic Encyclopedia, p.149, sidebar
-![Quote image: The Old Republic Encyclopedia, p.149 — full quote as printed](quotes/tore-p149-the-dread-masters-are-a-group.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:49`
 
 > Raptus is a cold, contemptuous man who is the voice of the Masters, and the master manipulator, Tyrans, can destroy alliances with a well-placed word. Calphayus is a master of prophecy and foresight, while Bestia brought the insights of the Masters to the Emperor, and saw that his commands were carried out in return. The ruthless experimenter of the group is Styrak, who devised many of the rites used by the Masters, and the youngest Master, the silent scholar Brontes, led the research into the Phobis devices.
 — Source: The Sith; The Dread Masters (top-right). POV: The Dread Masters.
 Note (our notes, around the quote): The Dread Masters (top-right): "Raptus is a cold, contemptuous man who is the voice of the Masters, and the master manipulator, Tyrans, can destroy alliances with a well-placed word. Calphayus is a master of prophecy and foresight, while Bestia brought the insights of the Masters to the Emperor, and saw that his commands were carried out in return. The ruthless experimenter of the group is Styrak, who devised many of the rites used by the Masters, and the youngest Master, the silent scholar Brontes, led the research into the Phobis devices." Source: The Old Republic Encyclopedia, p.149, sidebar
-![Quote image: The Old Republic Encyclopedia, p.149 — full quote as printed](quotes/tore-p149-raptus-is-a-cold-contemptuous-man.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:51`
 
 > When the Sith Empire attempted to conquer the Republic, the Dread Masters used their powers to destroy entire Republic fleets.
 — Source: The Sith; The Dread Masters (top-right). POV: The Dread Masters.
 Note (our notes, around the quote): The Dread Masters (top-right): "When the Sith Empire attempted to conquer the Republic, the Dread Masters used their powers to destroy entire Republic fleets." Source: The Old Republic Encyclopedia, p.149, sidebar
-![Quote image: The Old Republic Encyclopedia, p.149 — full quote as printed](quotes/tore-p149-when-the-sith-empire-attempted-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:53`
 
 > NOTEWORTHY RESIDENTS: The Dread Masters, Nyranos, Ivory, the World Razer, SCORPIO, Hallow Voice
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Belsavis data box (top-right). POV: Belsavis data box, about Dread Masters.
 Note (our notes, around the quote): Belsavis data box (top-right): "NOTEWORTHY RESIDENTS: The Dread Masters, Nyranos, Ivory, the World Razer, SCORPIO, Hallow Voice" Source: The Old Republic Encyclopedia, p.331, sidebar
-![Quote image: The Old Republic Encyclopedia, p.331 — full quote as printed](quotes/tore-p331-noteworthy-residents-the-dread-masters-nyranos.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:456`
 
 > Shape-changers, cyborgs, and Force-sensitives are among the most difficult prisoners to incarcerate. They are naturally armed and dangerous at all times. … The Dread Masters, terrifying Sith Lords of incalculable power, were first kept in Maximum Security. The psychic trauma the Sith inflicted on nearby prisoners caused so many deaths that it emptied every cell in a 300 meter radius around them. After that, the Dread Masters were rendered unconscious and moved far away from any other prisoners.
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Maximum Security box (top-right, zoomed). POV: Maximum Security box, about Dread Masters.
 Note (our notes, around the quote): Maximum Security box (top-right, zoomed): "Shape-changers, cyborgs, and Force-sensitives are among the most difficult prisoners to incarcerate. They are naturally armed and dangerous at all times. … The Dread Masters, terrifying Sith Lords of incalculable power, were first kept in Maximum Security. The psychic trauma the Sith inflicted on nearby prisoners caused so many deaths that it emptied every cell in a 300 meter radius around them. After that, the Dread Masters were rendered unconscious and moved far away from any other prisoners." Source: The Old Republic Encyclopedia, p.333, sidebar
-![Quote image: The Old Republic Encyclopedia, p.333 — full quote as printed](quotes/tore-p333-shape-changers-cyborgs-and-force-sensitives.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:467`
 
 ## "SWTOR Scaling - The Truth" (Menace test-blog; response to Material 003)

@@ -13,7 +13,6 @@
 
 - Note (summary from our notes, not a quotation): art caption: "Borsk Fey'lya" Source: The New Essential Chronology, p.116, caption
   — Source: Part Five: The Galactic Civil War.
-![Quote image: The New Essential Chronology, p.116 — full quote as printed](quotes/nec-p116-caption-borsk-feylya.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:103`
 
 ## The New Essential Guide to Characters (2002)
@@ -21,7 +20,6 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 > Despite a political smear campaign orchestrated by Borsk Fey'lya, Ackbar played a key role in the defeat of Thrawn at Bilbringi and Admiral Krennel at Ciutric.
 — Source: scan pages 1–30; Admiral Ackbar; Grand Admiral Thrawn.
 Note (our notes, around the quote): Admiral Ackbar; Grand Admiral Thrawn: "Despite a political smear campaign orchestrated by Borsk Fey'lya, Ackbar played a key role in the defeat of Thrawn at Bilbringi and Admiral Krennel at Ciutric." Source: The New Essential Guide to Characters, p.17
-![Quote image: The New Essential Guide to Characters, p.17 — full quote as printed](quotes/negc-p17-despite-a-political-smear-campaign-orchestrated.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:81`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -73,7 +71,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > When the Yuuzhan Vong invaded Coruscant, Chief of State Borsk Fey'lya detonated a suicide bomb and took out 20,000 enemy warriors.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Borsk Fey'lya — entry/section: Borsk Fey'lya's suicide bomb.
 Note (our notes, around the quote): Borsk Fey'lya — entry/section: Borsk Fey'lya's suicide bomb: "When the Yuuzhan Vong invaded Coruscant, Chief of State Borsk Fey'lya detonated a suicide bomb and took out 20,000 enemy warriors." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.11
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.11 — full quote as printed](quotes/d665-s11-when-the-yuuzhan-vong-invaded-coruscant.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:64`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -81,7 +78,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > When Admiral Ackbar retired from New Republic service following the Emperor’s World Devastator attacks, he researched the Mkbuto region's tectonic plate activity from a floating habitat in the Seatree Preserve. Later, during Borsk Fey'lya’s tenure as chief of state, Ackbar returned to his cozy seapod to complete his memoirs.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Admiral Ackbar — entry/section: Ackbar's retreat in the Mkbuto Seatree Preserve: "When Admiral Ackbar retired from New Republic service following the Emperor’s World Devastator attacks, he researched the Mkbuto region's tectonic plate activity from a floating habitat in the Seatree Preserve. Later, during Borsk Fey'lya’s tenure as chief of state, Ackbar returned to his cozy seapod to complete his memoirs." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.99
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.99 — full quote as printed](quotes/d667-s99-when-admiral-ackbar-retired-from-new.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:293`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)

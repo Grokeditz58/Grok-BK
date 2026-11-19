@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.
 > In his years of service, Tarpals has seen many threats come and go. Chief among these, of course, have been the many varieties of lethal sea creatures roaming the murky depths around his underwater city. However, no sea creature has ever tested his mettle as much as Gungan-in-exile Jar Jar Binks.
 — Source: Sourcebooks/Secrets Of Naboo.pdf [Star Wars Roleplaying Game (d20, 2000)]; Captain Tarpals; Jar Jar Binks — entry/section: Captain Tarpals.
 Note (our notes, around the quote): Captain Tarpals; Jar Jar Binks — entry/section: Captain Tarpals: "In his years of service, Tarpals has seen many threats come and go. Chief among these, of course, have been the many varieties of lethal sea creatures roaming the murky depths around his underwater city. However, no sea creature has ever tested his mettle as much as Gungan-in-exile Jar Jar Binks." Source: *Secrets Of Naboo* (SWRPG d20), scan p.48
-![Quote image: *Secrets Of Naboo* (SWRPG d20), scan p.48 — full quote as printed](quotes/d044-s48-in-his-years-of-service-tarpals.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/044-secrets-of-naboo-scan-001-060.md:289`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

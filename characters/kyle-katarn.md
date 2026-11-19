@@ -299,25 +299,21 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-7-fury-notes.md:493`
 > Jerec planned to use the valley's power to topple Isard and rule a vast new Empire. Katarn single-handedly defeated Jerec and his minions before the Dark Jedi's grandiose plans could come to fruition.
 — Source: Part Six: Birth of the New Republic; Jerec — Katarn defeats Jerec.
 Note (our notes, around the quote): Jerec — Katarn defeats Jerec: "Jerec planned to use the valley's power to topple Isard and rule a vast new Empire. Katarn single-handedly defeated Jerec and his minions before the Dark Jedi's grandiose plans could come to fruition." Source: The New Essential Chronology, p.136
-![Quote image: The New Essential Chronology, p.136 — full quote as printed](quotes/nec-p136-katarn-defeats-jerec.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:57`
 
 > He knew that his sister Leia, her three children, Kam Solusar, the Witches of Dathomir, Kyle Katarn, and Mara Jade had all exhibited an aptitude for the Force.
 — Source: Part Eight: The Return of the Jedi Knights; Luke Skywalker — academy recruits. POV: speaker not named in our notes.
 Note (our notes, around the quote): Luke Skywalker — academy recruits: "He knew that his sister Leia, her three children, Kam Solusar, the Witches of Dathomir, Kyle Katarn, and Mara Jade had all exhibited an aptitude for the Force." Source: The New Essential Chronology, p.162
-![Quote image: The New Essential Chronology, p.162 — full quote as printed](quotes/nec-p162-academy-recruits.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:11`
 
 - Note (summary from our notes, not a quotation): Katarn defeats Desann: "After reenergizing himself with a trip to Ruusan's Valley of the Jedi, Katarn proved to be more than a match for Desann's "Reborn" warriors. ... In a lightsaber duel on the jungle moon's surface, Katarn killed the power-mad Chistori." Source: The New Essential Chronology, p.173
   — Source: Part Eight: The Return of the Jedi Knights. POV: Katarn defeats Desann.
-![Quote image: The New Essential Chronology, p.173 — full quote as printed](quotes/nec-p173-katarn-defeats-desann.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:124`
 
 > New Republic agent Kyle Katarn
 > [fragment — full passage not on file]
 — Source: Part Nine: Uprisings and Insurgencies; art caption.
 Note (our notes, around the quote): art caption: "New Republic agent Kyle Katarn" Source: The New Essential Chronology, p.178, caption
-![Quote image: The New Essential Chronology, p.178 — full quote as printed](quotes/nec-p178-caption-new-republic-agent-kyle-katarn.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:22`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -331,7 +327,6 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Luke Skywalker; Kyle Katarn — Kyle Katarn — contrast with Luke: "While Skywalker mastered the force through empathy and feeling, Katarn did so through discipline and will." Source: Jedi Academy Training Manual, p.102
-![Quote image: Jedi Academy Training Manual, p.102 — full quote as printed](quotes/jatm-p102-kyle-katarn-contrast-with-luke.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:66`; `suspect-insight/debates/111-darth-caedus-vs-kyle-katarn-and-mara-jade.md:319`
 
 > After pushing Rillao and their unborn son out of his life, Hethrir develops his abilities and proves his commitment by destroying his own homeworld of Firrerre.
@@ -347,7 +342,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Luke Skywalker; Kyle Katarn — Hethrir — the Reborn: "However, the Reborn are defeated by Luke Skywalker and Kyle Katarn." Source: Jedi Academy Training Manual, p.120
-![Quote image: Jedi Academy Training Manual, p.120 — full quote as printed](quotes/jatm-p120-hethrir-the-reborn.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:62`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -357,7 +351,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyle Katarn: "The Arc Hammer was General Rom Mohc's flagship until it was destroyed by Rebel agent Kyle Katarn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.40
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.40 — full quote as printed](quotes/v1-p40-the-arc-hammer-was-general-rom.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:122`
 
 > With theriseofthe Empire, Aseca was enslaved, serving as manservant to Admiral Screed. His Force sensitivity was again discovered, and he was trained by the Dark Jedi Jerec. Aseca was a cunning and brash individual. Crude and loud, he was a playful joker. When he drew upon the Force to do battle, however, he overcame his otherwise brutish, clumsy nature to become a formidable opponent. Aseca carried two lightsabers, making him 44 an uncommon and dangerous opponent. Kyle Katarn defeated him in the Valley of the Jedi. A-series assassin droid See Pollux as­ sassin droid. Asha The long-lost older sister of the Ewok PrincessKneesaa,she was attacked by a terrifying hanadak when she, her sister, and their mother Ra-Lee were on an outing on Endor. By the time Kneesaa ran to the village and got help, Asha was missing and Ra-Lee had been slain. Years later, Kneesaa's best friend, Wicket W.
@@ -365,7 +358,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyle Katarn: "Kyle Katarn defeated him in the Valley of the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. I, p.44
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.44 — full quote as printed](quotes/v1-p44-kyle-katarn-defeated-him-in-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:154`
 
 > The lightweight RZ-1 A-wing, co-designed by General Jan Dodonna and Alliance engineer Walex Blissex to outrun any ship in the Im­ perial Navy, had especially strong avionics, including a powerful jamming system that disrupted sensor readings and let pilots blind enemy targets prior to attack. Originally de­ signed for escort duty, the A-wing proved more suited to hit-and-run missions, blasting enemy sites and spacecraft with twin wing­ mounted pivoting laser cannons and concus­ sion missiles. The downside of the A-wing's speed and agility was its relatively high vulner­ ability in dogfights; the position ofthe cockpit left pilots exposed to enemy fire, making the craft's speed even more important. Awmetth,Veedaaz A Senator from the Vensensor sector who attended the funeral of Padme Amidala. Axmis,TavionAn apprentice of the Dark Jedi Desann who challenged Luke Skywalk­ er's Jedi academy after the Battle of Endor. Kyle Katarn defeated her in a lightsaber duel but chose to spare her life, demonstrating his adherence to the light side of the Force. Shamed by her defeat, she went into hiding and emerged some time later as part of the Disciples ofRagnos. The Twi'lek Alora served as her student. Jedi student Jaden Korr con­ fronted Axmis on Korriban, where she had used an ancient Sith artifact to reawaken the spirit of Marka Ragnos.
@@ -373,25 +365,21 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyle Katarn: "Kyle Katarn defeated her in a lightsaber duel but chose to spare her life, demonstrating his adherence to the light side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. I, p.50
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.50 — full quote as printed](quotes/v1-p50-kyle-katarn-defeated-her-in-a.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:194`
 
 > Desann eventually was slain by Kyle Katarn.
 — Source: scan pages 161–200; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Desann eventually was slain by Kyle Katarn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.185
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.185 — full quote as printed](quotes/v1-p185-desann-eventually-was-slain-by-kyle.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:345`
 
 > Donar ill, Nathan A rival of Kyle Katarn's at the Imperial Academy on Carida, he and his father Governor Dol Donar II were killed when the captured Rebel droid A- Cee self-destructed.
 — Source: scan pages 201–240; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Donar ill, Nathan A rival of Kyle Katarn's at the Imperial Academy on Carida, he and his father Governor Dol Donar II were killed when the captured Rebel droid A- Cee self-destructed." Source: The Complete Star Wars Encyclopedia, Vol. I, p.197
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.197 — full quote as printed](quotes/v1-p197-donar-ill-nathan-a-rival-of.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:89`
 
 > Kyle Katarn infiltrated the ship during its assault of Luke Skywalker's Jedi praxeum on Yavin 4, disabling its shield generators, which allowed Rogue Squadron to destroy the vessel.
 — Source: scan pages 201–240; Kyle Katarn; Luke Skywalker.
 Note (our notes, around the quote): Kyle Katarn; Luke Skywalker: "Kyle Katarn infiltrated the ship during its assault of Luke Skywalker's Jedi praxeum on Yavin 4, disabling its shield generators, which allowed Rogue Squadron to destroy the vessel." Source: The Complete Star Wars Encyclopedia, Vol. I, p.199
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.199 — full quote as printed](quotes/v1-p199-kyle-katarn-infiltrated-the-ship-during.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:119`
 
 > Eredenn The fourth planet in the Erediss system, this partially frozen world featured huge areas of snowy fields and ice lakes. In the warm season, the snow melted away to reveal a fertile land that blossomed. Eredenn had three moons, none of which was habit­ able. The Galactic Republic was believed to have had a secret base of operations there, from which several military projects were run during the Clone Wars, including a powerful weapon called the Decimator. Erg Es 992 A star in the Meridian sector, it was orbited by the planet Cybloc and its in­ habited moon, Cybloc XII. Ergo An Imperial fuel station. Kyle Katarn boarded a smuggler's ship at Ergo in order to sneak his way onto the Super Star Destroyer Executor. ErladuA polluted factory planet and capital of the Seswenna sector, this world was a trad­ ing and governmental hub in the Outer Rim. The Eriaduans were some of the finest weapons developers in the known galaxy. They de­ veloped new blasters, armor, and helmets. The seat ofpower for the influential Tarkin fam­ ily, Eriadu became a major front in the Clone Wars when members proved their loyalty to the Chancellor by defending their borders from Separatist attack.
@@ -399,7 +387,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyle Katarn: "Kyle Katarn boarded a smuggler's ship at Ergo in order to sneak his way onto the Super Star Destroyer Executor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.239
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.239 — full quote as printed](quotes/v1-p239-kyle-katarn-boarded-a-smugglers-ship.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:91`
 
 > Lieutenant Grenn imprisoned the Exile and Jedi Master Kreia, and confiscated the Ebon Hawk, when the for­ mer Jedi arrived on Telos in search of answers about Darth Sian. Grenn arrested them after learning of the destruction of the Peragus Mining Colony, but freed them after learning the truth. He then asked for the Exile's assistance in bringing several criminals to justice. Grenna Base An Alliance base, it was used by Daino Hyk as a treatment center for res­ cued Ylesian slaves. 368 Ottegru Grey Grentho A muscular man, he was one of 8t88'sbodyguards at the height ofthe Galactic Civil War. Grentho was killed on Nar Shaddaa when 8t88 tried to eliminate Kyle Katarn. GrenwlckAn Imperial corporal, he was se­ nior tactical adviser to Sergeant Major Enfield aboard the first Death Star. Assigned to secu­ rity duties in Detention Block AA-23, Gren­ wick was a witness to the interrogation of Leia Organa by Darth Vader. Grey, Ottegru In a galaxy engulfed by a terrible civil war rife with spies and assas­ sins, politicians began to rightly fear for their lives. After several close calls involving venge­ ful Aqualish Separatists hiding in Coruscant's underlevels, Chairman Tannon Praji of the Ministry of Ingress (CMoi) turned to Ottegru Grey, a trusted friend of the Praji family and special agent for the Bank of the Core.
@@ -407,7 +394,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kyle Katarn: "Grentho was killed on Nar Shaddaa when 8t88 tried to eliminate Kyle Katarn." Source: The Complete Star Wars Encyclopedia, Vol. I, p.368
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.368 — full quote as printed](quotes/v1-p368-grentho-was-killed-on-nar-shaddaa.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:184`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -415,31 +401,26 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Hontho and his companions were killed by Kyle Katarn in his effort to capture 8t88.
 — Source: scan pages 41–80; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Hontho and his companions were killed by Kyle Katarn in his effort to capture 8t88." Source: The Complete Star Wars Encyclopedia, Vol. II, p.55
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.55 — full quote as printed](quotes/v2-p55-hontho-and-his-companions-were-killed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:136`
 
 > Valin recovered just as Solo drove his lightsaber into Master Katarn's chest, and he rushed Solo alongside Kolir Hu'lya and Thann Mithric, However, the three Jedi were no match for Solo's control of the dark side of the Force.
 — Source: scan pages 41–80; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Valin recovered just as Solo drove his lightsaber into Master Katarn's chest, and he rushed Solo alongside Kolir Hu'lya and Thann Mithric, However, the three Jedi were no match for Solo's control of the dark side of the Force." Source: The Complete Star Wars Encyclopedia, Vol. II, p.60
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.60 — full quote as printed](quotes/v2-p60-valin-recovered-just-as-solo-drove.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:175`
 
 > She was injured when Solo used the Force to deflect a passing speeder into Katarn.
 — Source: scan pages 41–80; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "She was injured when Solo used the Force to deflect a passing speeder into Katarn." Source: The Complete Star Wars Encyclopedia, Vol. II, p.66
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.66 — full quote as printed](quotes/v2-p66-she-was-injured-when-solo-used.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:223`
 
 > Hu'lya shrugged off the injury and confronted Solo after he defeated Katarn in a lightsaber duel.
 — Source: scan pages 41–80; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Hu'lya shrugged off the injury and confronted Solo after he defeated Katarn in a lightsaber duel." Source: The Complete Star Wars Encyclopedia, Vol. II, p.66
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.66 — full quote as printed](quotes/v2-p66-hulya-shrugged-off-the-injury-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:225`
 
 > Jerec himself briefly experienced the true power of the Valley, but his rapturous connection was severed by Katarn.
 — Source: scan pages 161–200; Jerec; Kyle Katarn — entry/section: Jerec.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec: "Jerec himself briefly experienced the true power of the Valley, but his rapturous connection was severed by Katarn." Source: The Complete Star Wars Encyclopedia, Vol. II, p.157
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.157 — full quote as printed](quotes/v2-p157-jerec-himself-briefly-experienced-the-true.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:30`
 
 - Note (summary from our notes, not a quotation): Page contents: 1121 words, 24 paragraphs | headings/entries: Kas'im; Kaskutal; Kassa, Ossk; Kast, Jodo; Katarkus, Ludwin; Katarn, Kyle
@@ -449,13 +430,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > While Kyle was at the Academy, his father was killed.
 — Source: scan pages 201–240; Kyle Katarn — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Katarn, Kyle: "While Kyle was at the Academy, his father was killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.202
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.202 — full quote as printed](quotes/v2-p202-while-kyle-was-at-the-academy.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:65`
 
 > Kyle learned the truth, however, from a Rebel agent named Jan Ors: His father had been captured by the Empire for treason, and killed by the Dark JediJerec.
 — Source: scan pages 201–240; Kyle Katarn — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Katarn, Kyle: "Kyle learned the truth, however, from a Rebel agent named Jan Ors: His father had been captured by the Empire for treason, and killed by the Dark JediJerec." Source: The Complete Star Wars Encyclopedia, Vol. II, p.202
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.202 — full quote as printed](quotes/v2-p202-kyle-learned-the-truth-however-from.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:67`
 
 - Note (summary from our notes, not a quotation): Page contents: 1146 words, 29 paragraphs | headings/entries: Katarn, Morgan; Katarn Clan; Katarra; Katharsis; Kathol Republic; Kattada
@@ -465,43 +444,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Deep in the Valley of the Jedi, Kyle confronted Jerec, the very man who had killed his father.
 — Source: scan pages 201–240; Kyle Katarn; Jerec — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Katarn, Kyle: "Deep in the Valley of the Jedi, Kyle confronted Jerec, the very man who had killed his father." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-deep-in-the-valley-of-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:74`
 
 > The two battled, and when Katarn slew Jerec, he fulfilled an ancient prophecy.
 — Source: scan pages 201–240; Kyle Katarn; Jerec — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Katarn, Kyle: "The two battled, and when Katarn slew Jerec, he fulfilled an ancient prophecy." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-the-two-battled-and-when-katarn.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:76`
 
 > He also traveled to Sarm with Master Skywalker, on the mission to eliminate Lomi Plo and force UnuThul to sever his contact with the Colony.
 — Source: scan pages 201–240; Kyle Katarn; Plo Koon — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn; Plo Koon — entry/section: Katarn, Kyle: "He also traveled to Sarm with Master Skywalker, on the mission to eliminate Lomi Plo and force UnuThul to sever his contact with the Colony." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-he-also-traveled-to-sarm-with.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:78`
 
 > Katarn survived the attack, although he spent many weeks on the Forest Moon of Endor recovering.
 — Source: scan pages 201–240; Kyle Katarn — entry/section: Katarn, Kyle.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Katarn, Kyle: "Katarn survived the attack, although he spent many weeks on the Forest Moon of Endor recovering." Source: The Complete Star Wars Encyclopedia, Vol. II, p.203
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.203 — full quote as printed](quotes/v2-p203-katarn-survived-the-attack-although-he.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:80`
 
 > For all his power, though, Maw was defeated in combat by Kyle Katarn during the search for the Valley of the Jedi.
 — Source: scan pages 281–320; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "For all his power, though, Maw was defeated in combat by Kyle Katarn during the search for the Valley of the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. II, p.295
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.295 — full quote as printed](quotes/v2-p295-for-all-his-power-though-maw.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:186`
 
 > Mohc himself wore the phase-three dark trooper exoskeleton into battle against Katarn, but was killed by the Alliance agent.
 — Source: scan pages 321–360; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Mohc himself wore the phase-three dark trooper exoskeleton into battle against Katarn, but was killed by the Alliance agent." Source: The Complete Star Wars Encyclopedia, Vol. II, p.323
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.323 — full quote as printed](quotes/v2-p323-mohc-himself-wore-the-phase-three.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:64`
 
 > Katarn used the ship for many years, until the Moldy Crow was destroyed during a mission to defeat Jerec.
 — Source: scan pages 321–360; Kyle Katarn; Jerec.
 Note (our notes, around the quote): Kyle Katarn; Jerec: "Katarn used the ship for many years, until the Moldy Crow was destroyed during a mission to defeat Jerec." Source: The Complete Star Wars Encyclopedia, Vol. II, p.324
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.324 — full quote as printed](quotes/v2-p324-katarn-used-the-ship-for-many.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:71`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -509,43 +481,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > Gorc and Pic were defeated by Kyle Katarn during the search for the Valley of the Jedi, when they tried to apprehend him aboard the Sulon Star.
 — Source: scan pages 1–40; Gorc and Pic; Kyle Katarn.
 Note (our notes, around the quote): Gorc and Pic; Kyle Katarn: "Gorc and Pic were defeated by Kyle Katarn during the search for the Valley of the Jedi, when they tried to apprehend him aboard the Sulon Star." Source: The Complete Star Wars Encyclopedia, Vol. III, p.25
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.25 — full quote as printed](quotes/v3-p25-gorc-and-pic-were-defeated-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:220`
 
 > In a three-way firefight, Porg was shot and killed by an Aqualish bounty hunter, who was later killed by Katarn.
 — Source: scan pages 41–80; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "In a three-way firefight, Porg was shot and killed by an Aqualish bounty hunter, who was later killed by Katarn." Source: The Complete Star Wars Encyclopedia, Vol. III, p.37
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.37 — full quote as printed](quotes/v3-p37-in-a-three-way-firefight-porg.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:30`
 
 > In a fierce battle with Kyle Katarn, Sariss accidentally struck down Yun, and Katarn stabbed Yun's own lightsaber through Sariss's chest.
 — Source: scan pages 121–160; Sariss; Kyle Katarn; Yun (Dark Jedi) — entry/section: Sariss.
 Note (our notes, around the quote): Sariss; Kyle Katarn; Yun (Dark Jedi) — entry/section: Sariss: "In a fierce battle with Kyle Katarn, Sariss accidentally struck down Yun, and Katarn stabbed Yun's own lightsaber through Sariss's chest." Source: The Complete Star Wars Encyclopedia, Vol. III, p.127
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.127 — full quote as printed](quotes/v3-p127-in-a-fierce-battle-with-kyle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:98`
 
 > While Katarn was at the Academy, Imperials raided Sulon and killed his family, though they claimed the deaths were the result of Rebel terrorists.
 — Source: scan pages 201–240; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "While Katarn was at the Academy, Imperials raided Sulon and killed his family, though they claimed the deaths were the result of Rebel terrorists." Source: The Complete Star Wars Encyclopedia, Vol. III, p.196
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.196 — full quote as printed](quotes/v3-p196-while-katarn-was-at-the-academy.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:17`
 
 > After Kyle defeated Jerec and returned to the New Republic, he took WeeGee with him, and the droid gladly accepted a position on a naval maintenance team.
 — Source: scan pages 321–360; Kyle Katarn; Jerec.
 Note (our notes, around the quote): Kyle Katarn; Jerec: "After Kyle defeated Jerec and returned to the New Republic, he took WeeGee with him, and the droid gladly accepted a position on a naval maintenance team." Source: The Complete Star Wars Encyclopedia, Vol. III, p.324
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.324 — full quote as printed](quotes/v3-p324-after-kyle-defeated-jerec-and-returned.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:69`
 
 > Later, during the search for the Valley of the Jedi, Yun attempted to kill Kyle Katarn at Baron's Hed, but was defeated.
 — Source: scan pages 361–385; Yun (Dark Jedi); Kyle Katarn — entry/section: Yun.
 Note (our notes, around the quote): Yun (Dark Jedi); Kyle Katarn — entry/section: Yun: "Later, during the search for the Valley of the Jedi, Yun attempted to kill Kyle Katarn at Baron's Hed, but was defeated." Source: The Complete Star Wars Encyclopedia, Vol. III, p.360
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.360 — full quote as printed](quotes/v3-p360-later-during-the-search-for-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:65`
 
 > Yun stepped in to prevent Sariss from killing Katarn, but she showed no such mercy and killed Yun.
 — Source: scan pages 361–385; Yun (Dark Jedi); Sariss; Kyle Katarn — entry/section: Yun.
 Note (our notes, around the quote): Yun (Dark Jedi); Sariss; Kyle Katarn — entry/section: Yun: "Yun stepped in to prevent Sariss from killing Katarn, but she showed no such mercy and killed Yun." Source: The Complete Star Wars Encyclopedia, Vol. III, p.360
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.360 — full quote as printed](quotes/v3-p360-yun-stepped-in-to-prevent-sariss.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:67`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -557,25 +522,21 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Before reporting to his first post, he was shown irrefutable evidence that the Empire, not the Rebellion, killed Morgan Katarn.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Kyle Katarn — entry/section: Kyle Katarn, Combat Instructor.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Kyle Katarn, Combat Instructor: "Before reporting to his first post, he was shown irrefutable evidence that the Empire, not the Rebellion, killed Morgan Katarn." Source: Power of the Jedi Sourcebook, p.131
-![Quote image: Power of the Jedi Sourcebook, p.131 — full quote as printed](quotes/potj-p131-before-reporting-to-his-first-post.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:285`
 
 > Kyle easily defeated Jerec's minions and sought out the Dark Jedi for revenge.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor: "Kyle easily defeated Jerec's minions and sought out the Dark Jedi for revenge." Source: Power of the Jedi Sourcebook, p.131
-![Quote image: Power of the Jedi Sourcebook, p.131 — full quote as printed](quotes/potj-p131-kyle-easily-defeated-jerecs-minions-and.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:287`
 
 > Kyle's yearning for revenge was nearly his undoing, but he ultimately prevailed, defeating Jerec without giving into hatred and thus fulfilling a thousand-year-old prophecy.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Kyle Katarn, Combat Instructor: "Kyle's yearning for revenge was nearly his undoing, but he ultimately prevailed, defeating Jerec without giving into hatred and thus fulfilling a thousand-year-old prophecy." Source: Power of the Jedi Sourcebook, p.131
-![Quote image: Power of the Jedi Sourcebook, p.131 — full quote as printed](quotes/potj-p131-kyles-yearning-for-revenge-was-nearly.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:289`
 
 > During the Emperor's resurrection, Kyle was lured to a long-forgotten Sith world and seduced by the dark side.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Kyle Katarn — entry/section: Kyle Katarn, Combat Instructor.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Kyle Katarn, Combat Instructor: "During the Emperor's resurrection, Kyle was lured to a long-forgotten Sith world and seduced by the dark side." Source: Power of the Jedi Sourcebook, p.131
-![Quote image: Power of the Jedi Sourcebook, p.131 — full quote as printed](quotes/potj-p131-during-the-emperors-resurrection-kyle-was.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:291`
 
 ## The New Essential Guide to Characters (2002)
@@ -583,31 +544,26 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Kyle Katarn leads the mission to destroy the Empire's dark troopers.
 — Source: scan pages 1–30; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "Kyle Katarn leads the mission to destroy the Empire's dark troopers." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-kyle-katarn-leads-the-mission-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:48`
 
 > Jerec tries to unlock the power of Ruusan's Valley of the Jedi but is defeated by Kyle Katarn.
 — Source: scan pages 1–30; Jerec; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Kyle Katarn: "Jerec tries to unlock the power of Ruusan's Valley of the Jedi but is defeated by Kyle Katarn." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-jerec-tries-to-unlock-the-power.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:52`
 
 > He tracked Katarn to Coruscant but botched the kill, and Katarn went on to destroy Mohc's Dark Trooper Project.
 — Source: scan pages 31–60; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "He tracked Katarn to Coruscant but botched the kill, and Katarn went on to destroy Mohc's Dark Trooper Project." Source: The New Essential Guide to Characters, p.67
-![Quote image: The New Essential Guide to Characters, p.67 — full quote as printed](quotes/negc-p67-he-tracked-katarn-to-coruscant-but.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:203`
 
 > He killed Morgan Katarn, father to Imperial Cadet Kyle Katarn, then a short time later Jerec decorated Kyle at the Caridan Academy's graduation ceremony.
 — Source: scan pages 61–90; Kyle Katarn; Jerec.
 Note (our notes, around the quote): Kyle Katarn; Jerec: "He killed Morgan Katarn, father to Imperial Cadet Kyle Katarn, then a short time later Jerec decorated Kyle at the Caridan Academy's graduation ceremony." Source: The New Essential Guide to Characters, p.95
-![Quote image: The New Essential Guide to Characters, p.95 — full quote as printed](quotes/negc-p95-he-killed-morgan-katarn-father-to.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:197`
 
 > Katarn had already defeated three of Jerec's allies, Yun, Gore, and Pic, and Jerec set a trap for the Jedi initiate at the Ruusan tower, threatening the life of Katarn's partner in the hope of luring Katarn to the dark side.
 — Source: scan pages 61–90; Kyle Katarn; Jerec; Yun (Dark Jedi).
 Note (our notes, around the quote): Kyle Katarn; Jerec; Yun (Dark Jedi): "Katarn had already defeated three of Jerec's allies, Yun, Gore, and Pic, and Jerec set a trap for the Jedi initiate at the Ruusan tower, threatening the life of Katarn's partner in the hope of luring Katarn to the dark side." Source: The New Essential Guide to Characters, p.96
-![Quote image: The New Essential Guide to Characters, p.96 — full quote as printed](quotes/negc-p96-katarn-had-already-defeated-three-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:208`
 
 - Note (summary from our notes, not a quotation): Page contents: 464 words, 21 paragraphs | headings/entries: ARYLE Katarn; Si AAD bah abt reeeebore ae
@@ -617,13 +573,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 > Jerec's six underlings—Yun, Gore, Pic, Maw, Sariss, and Boc the Crude— proved no match for Katarn, inexperienced though he was.
 — Source: scan pages 91–120; Jerec; Yun (Dark Jedi); Sariss; Boc Aseca; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Yun (Dark Jedi); Sariss; Boc Aseca; Kyle Katarn: "Jerec's six underlings—Yun, Gore, Pic, Maw, Sariss, and Boc the Crude— proved no match for Katarn, inexperienced though he was." Source: The New Essential Guide to Characters, p.103
-![Quote image: The New Essential Guide to Characters, p.103 — full quote as printed](quotes/negc-p103-jerecs-six-underlings-yun-gore-pic.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:55`
 
 > During the resurrected Emperor's campaign, Captain Katarn helped defend a New Republic outpost on Altyr 5.
 — Source: scan pages 91–120; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "During the resurrected Emperor's campaign, Captain Katarn helped defend a New Republic outpost on Altyr 5." Source: The New Essential Guide to Characters, p.103
-![Quote image: The New Essential Guide to Characters, p.103 — full quote as printed](quotes/negc-p103-during-the-resurrected-emperors-campaign-captain.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:59`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -633,7 +587,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Jerec; Kyle Katarn: "Jerec slew Rahn and Katarn and eventually discovered the location of the Valley of the Jedi on Ruusan." Source: Dark Side Sourcebook, p.102
-![Quote image: Dark Side Sourcebook, p.102 — full quote as printed](quotes/dss-p102-jerec-slew-rahn-and-katarn-and.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:293`
 
 > He researched the existence of the legendary Valley of the Jedi, which he believed to be the repository of vast power, just waiting to be claimed by someone brave enough to unlock it and strong enough to control it. Jerec learned that a Jedi named Qu Rahn was also seeking the Valley of the Jedi, and that Qu Rahn learned which planet it was on from a Rebel named Morgan Katarn. Jerec slew Rahn and Katarn and eventually discovered the location of the Valley of the Jedi on Ruusan. Pursued by Katarn's vengeful son, Kyle Katarn, Jerec and his Dark Jedi hurried to Ruusan. JereC'S followers held Kyle off long enough for Jerec to access the Valley's secrets and gain phenomenal Force powers. But even with his increased might, Jerec was unable to defeat Kyle or to prevent him from freeing the Valley's trapped Jedi spirits. Jerec: Male Human, Jedi Guardian 15; lnit +2; Defense 23 (+11 class, +2 Dex); Spd l0m; VP/WP 108/15; Atk +17/+12/+7 melee (5d8+2/19-20, lightsaber) or +17/+12/+7 ranged; SV Fort +11, Ref +11, Will +8; SZ M; FP 7; DSP 15; Rep 8; Str 14, Dex 15, Con 15, lnt 14, Wis 13, Cha 14. Challenge Code: G. Equipment: Lightsaber.
@@ -641,7 +594,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:293`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Jerec; Kyle Katarn: "But even with his increased might, Jerec was unable to defeat Kyle or to prevent him from freeing the Valley's trapped Jedi spirits." Source: Dark Side Sourcebook, p.102
-![Quote image: Dark Side Sourcebook, p.102 — full quote as printed](quotes/dss-p102-but-even-with-his-increased-might.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:295`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -669,7 +621,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-10
 > Although he defeated Jerec, he ultimately decided that the way of the Jedi was not for him.
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Kyle Katarn; Jerec — entry/section: Star Wars Gamer 09.
 Note (our notes, around the quote): Kyle Katarn; Jerec — entry/section: Star Wars Gamer 09: "Although he defeated Jerec, he ultimately decided that the way of the Jedi was not for him." Source: *Star Wars Gamer 09* (SWRPG d20), scan p.92
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.92 — full quote as printed](quotes/d058-s92-although-he-defeated-jerec-he-ultimately.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-061-104.md:244`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -695,7 +646,6 @@ Our notes: `notes/materials/037-sw-d20-folder/086-groodo-and-kapa.md:23`
 > I trust Ka'Pa exactly as far as I can throw him. And I can't.
 — Source: Characters/Hutts/Groodo and Ka'Pa.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Kyle Katarn on Ka'Pa: "As Kyle Katarn, one of Ka'Pa's frequent NR contacts, often said, "I trust Ka'Pa exactly as far as I can throw him. And I can't."" Source: *Groodo and Ka'Pa* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Groodo and Ka'Pa* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d086-s2-as-kyle-katarn-one-of-kapas.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/086-groodo-and-kapa.md:27`
 
 ## Characters/Miniatures/Champions of the Force Preview 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -706,7 +656,6 @@ Our notes: `notes/materials/037-sw-d20-folder/103-champions-of-the-force-preview
 
 - Note (summary from our notes, not a quotation): Kyle Katarn — entry/section: Kyle Katarn destroys the Dark Trooper Project: "After the destruction of the original Death Star, Imperial General Rom Mohc received permission to pursue his Dark Trooper Project. Dark Troopers were droids designed and built as "super stormtroopers." The secret project was developed aboard a manufacturing ship called the Arc Hammer. Ultimately, Rebel operative and future Jedi Kyle Katarn discovered and destroyed the Dark Trooper Project before it saw widespread deployment." Source: *Champions of the Force Preview 4* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Miniatures/Champions of the Force Preview 4.pdf [Star Wars Rol.
-![Quote image: *Champions of the Force Preview 4* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d103-s1-after-the-destruction-of-the-original.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/103-champions-of-the-force-preview-4.md:12`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -718,31 +667,26 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > No one said fulfilling a Jedi prophecy is easy -- just ask the Skywalkers. For Kyle Katarn, it stole his innocence, took his parents, and nearly plunged him into the dark side.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn — entry/section: Kyle Katarn and the Jedi prophecy.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Kyle Katarn and the Jedi prophecy: "No one said fulfilling a Jedi prophecy is easy -- just ask the Skywalkers. For Kyle Katarn, it stole his innocence, took his parents, and nearly plunged him into the dark side." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-no-one-said-fulfilling-a-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:12`
 
 > Thus, Kyle joined the Academy on Carida as soon as he turned 18, hoping to alleviate some of the burden on his father while getting a first-rate free education. At the Academy, Kyle excelled at cybernetics systems theory and information engineering. Tragedy struck again, however, when the Dark Jedi Jerec discovered Morgan Katarn's Rebel ties and personally beheaded him. When Kyle discovered the treachery of his Imperial masters, he went rogue, working as a mercenary, pirate, and loose Rebel operative with his close friend Jan Ors to undermine the Imperial war machine.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Morgan Katarn; Jan Ors — entry/section: Kyle goes rogue: "Thus, Kyle joined the Academy on Carida as soon as he turned 18, hoping to alleviate some of the burden on his father while getting a first-rate free education. At the Academy, Kyle excelled at cybernetics systems theory and information engineering. Tragedy struck again, however, when the Dark Jedi Jerec discovered Morgan Katarn's Rebel ties and personally beheaded him. When Kyle discovered the treachery of his Imperial masters, he went rogue, working as a mercenary, pirate, and loose Rebel operative with his close friend Jan Ors to undermine the Imperial war machine." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-thus-kyle-joined-the-academy-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:14`
 
 > One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jerec; Qu Rahn; Jan Ors; Morgan Katarn; Lord Kaan — entry/section: Kyle on Ruusan: "One year after the destruction of that battle station at Endor, Kyle fulfilled the ancient prophecy that set free the Jedi spirits on Ruusan -- originally trapped during the Light and Dark War by Sith Lord Kaan -- by defeating no fewer than seven Dark Jedi. But the cost was great. Kyle often found himself relying on the dark side in order to defeat his powerful opponents. Only the combination of the Jedi Master Rahn's guidance, Kyle's love for Jan, and the memory of his father kept him from succumbing completely to the dark side in his final confrontation with the Dark Jedi Jerec." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-one-year-after-the-destruction-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:16`
 
 > During this time, Luke Skywalker offered to further Kyle's Force training, but Kyle's fears of the darkness within him kept him from accepting. One person who understood Kyle's reluctance was Mara Jade, the former Emperor's Hand. She and Kyle took up the rare bond of reciprocal apprenticeship, a facet of the Jedi Concordance of Fealty little practiced since the Cleansing of the Nine Houses. When Kyle fell to the dark side on Drommund Kaas, Mara was able to turn him back, if only temporarily.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Mara Jade Skywalker; Luke Skywalker — entry/section: Kyle and Mara Jade: "During this time, Luke Skywalker offered to further Kyle's Force training, but Kyle's fears of the darkness within him kept him from accepting. One person who understood Kyle's reluctance was Mara Jade, the former Emperor's Hand. She and Kyle took up the rare bond of reciprocal apprenticeship, a facet of the Jedi Concordance of Fealty little practiced since the Cleansing of the Nine Houses. When Kyle fell to the dark side on Drommund Kaas, Mara was able to turn him back, if only temporarily." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-during-this-time-luke-skywalker-offered.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:18`
 
 > Kyle also took part in a SpecForce mission put together by Rebel operative Corwin Shelvay, in which he teamed up with Force-sensitives Shira Brie and Erling Tredway to render inoperative the superlaser of the second Death Star en route to D'rinba IV.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Lumiya — entry/section: Kyle Katarn, Jedi Knight.
 Note (our notes, around the quote): Kyle Katarn; Lumiya — entry/section: Kyle Katarn, Jedi Knight: "Kyle also took part in a SpecForce mission put together by Rebel operative Corwin Shelvay, in which he teamed up with Force-sensitives Shira Brie and Erling Tredway to render inoperative the superlaser of the second Death Star en route to D'rinba IV." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d128-s1-kyle-also-took-part-in-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:20`
 
 - Note (summary from our notes, not a quotation): Page contents: Kyle exiles himself, Desann, battlemaster (Jaden Korr, Jeng Droga), Yuuzhan Vong war, Cloak of the Sith; Kyle Katarn (NJO) stats; Bryar pistol (3d4/3d6, 20/50 m); Rom Mohc, Soldier for the Empire: Clone Wars hero (hand-read)
@@ -752,31 +696,26 @@ Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md
 > Nearly eight years after Kyle defeated Jerec on Ruusan, the valley was threatened once again, this time by a former student of Master Skywalker called Desann, forcing Kyle to work alongside Luke to protect the galaxy. After defeating the Dark Jedi, Kyle returned to the Jedi academy with renewed confidence.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Luke Skywalker; Desann — entry/section: Kyle and Desann.
 Note (our notes, around the quote): Kyle Katarn; Luke Skywalker; Desann — entry/section: Kyle and Desann: "Nearly eight years after Kyle defeated Jerec on Ruusan, the valley was threatened once again, this time by a former student of Master Skywalker called Desann, forcing Kyle to work alongside Luke to protect the galaxy. After defeating the Dark Jedi, Kyle returned to the Jedi academy with renewed confidence." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-nearly-eight-years-after-kyle-defeated.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:27`
 
 > Kyle became the academy's foremost battlemaster, honing the skills of countless Jedi students like Jaden Korr, and stopping the dark side berserker Jeng Droga. During the Yuuzhan Vong invasion, Kyle helped develop strategies against the invaders, freed the human captives of the Imperial Remnant world Ord Sedra, and flew a living Sekotan starship in the final battle for the planet Zonama Sekot.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Jaden Korr; Jeng Droga — entry/section: Kyle the battlemaster: "Kyle became the academy's foremost battlemaster, honing the skills of countless Jedi students like Jaden Korr, and stopping the dark side berserker Jeng Droga. During the Yuuzhan Vong invasion, Kyle helped develop strategies against the invaders, freed the human captives of the Imperial Remnant world Ord Sedra, and flew a living Sekotan starship in the final battle for the planet Zonama Sekot." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-kyle-became-the-academys-foremost-battlemaster.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:29`
 
 > Like outdated battle mausers, Bryar rifles were popular during the waning days of the Old Republic and are now highly sought after by blaster aficionados. Kyle's father gave him a Bryar rifle as a parting gift on the eve of his attending the Academy, but Morgan Katarn sawed it down so that it wouldn't appear quite so old-fashioned. The Bryar is incredibly accurate at long distances. Unlike most Jedi, Kyle has never given up the use of his blaster.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn; Morgan Katarn — entry/section: Kyle's Bryar.
 Note (our notes, around the quote): Kyle Katarn; Morgan Katarn — entry/section: Kyle's Bryar: "Like outdated battle mausers, Bryar rifles were popular during the waning days of the Old Republic and are now highly sought after by blaster aficionados. Kyle's father gave him a Bryar rifle as a parting gift on the eve of his attending the Academy, but Morgan Katarn sawed it down so that it wouldn't appear quite so old-fashioned. The Bryar is incredibly accurate at long distances. Unlike most Jedi, Kyle has never given up the use of his blaster." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-like-outdated-battle-mausers-bryar-rifles.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:31`
 
 > While in Imperial Remnant space, Kyle heard a rumor that the Sith had possibly survived all these years after Endor.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa; Kyle Katarn — entry/section: Kyle Katarn, Jedi Knight.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Kyle Katarn, Jedi Knight: "While in Imperial Remnant space, Kyle heard a rumor that the Sith had possibly survived all these years after Endor." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d128-s2-while-in-imperial-remnant-space-kyle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:35`
 
 > Mohc at last met his match when the Imperial traitor Kyle Katarn, whom Mohc had last seen receiving the prized Medal of Valor, confronted him on the Arc Hammer. Despite donning one of the only Phase Three Dark Trooper exosuits produced aboard the massive craft, Mohc was defeated by the Rebel in handto-hand combat. The general was atomized along with the rest of the Dark Trooper project when Kyle destroyed the mobile production facility.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 1.pdf [Star Wa.
 Note (our notes, around the quote): General Rom Mohc; Kyle Katarn — entry/section: Mohc meets his match: "Mohc at last met his match when the Imperial traitor Kyle Katarn, whom Mohc had last seen receiving the prized Medal of Valor, confronted him on the Arc Hammer. Despite donning one of the only Phase Three Dark Trooper exosuits produced aboard the massive craft, Mohc was defeated by the Rebel in handto-hand combat. The general was atomized along with the rest of the Dark Trooper project when Kyle destroyed the mobile production facility." Source: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 1* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d128-s3-mohc-at-last-met-his-match.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/128-the-dark-forces-saga-part-1.md:46`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -788,24 +727,20 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > Why Jan Ors left the extremist group for the Alliance is one of the operative's many mysteries, though it's suspected that the close relationship her parents shared with Mon Mothma years before had something to do with it. Jan had already infiltrated Imperial Intelligence under the name Jan Strange when she contacted the Alliance, providing priceless counter-intelligence. Within Intell, she and Imperial cadet Kyle Katarn had their first brief interactions, though the two remained largely oblivious to each other.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Mon Mothma; Kyle Katarn — entry/section: Jan Ors infiltrates Imperial Intelligence: "Why Jan Ors left the extremist group for the Alliance is one of the operative's many mysteries, though it's suspected that the close relationship her parents shared with Mon Mothma years before had something to do with it. Jan had already infiltrated Imperial Intelligence under the name Jan Strange when she contacted the Alliance, providing priceless counter-intelligence. Within Intell, she and Imperial cadet Kyle Katarn had their first brief interactions, though the two remained largely oblivious to each other." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-why-jan-ors-left-the-extremist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:12`
 
 > Yet the stage was set. When Jan crossed paths with Kyle again during a wild and bloody Imperial raid on the asteroid AX-456, the extreme circumstances, including Kyle's newfound self-confidence (not to mention facial hair), along with Jan's Rebel fatigues, combined to create a surreal encounter. Locking eyes for the first time, Jan and Kyle shared a heartstopping moment of vague recognition, as if they'd once met in a dream. Their destinies henceforth became permanently intertwined.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Kyle Katarn — entry/section: Jan and Kyle lock eyes: "Yet the stage was set. When Jan crossed paths with Kyle again during a wild and bloody Imperial raid on the asteroid AX-456, the extreme circumstances, including Kyle's newfound self-confidence (not to mention facial hair), along with Jan's Rebel fatigues, combined to create a surreal encounter. Locking eyes for the first time, Jan and Kyle shared a heartstopping moment of vague recognition, as if they'd once met in a dream. Their destinies henceforth became permanently intertwined." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-yet-the-stage-was-set-when.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:14`
 
 - Note (summary from our notes, not a quotation): Jan Ors; Kyle Katarn; Mara Jade Skywalker; Mon Mothma; Admiral Hiram Drayson — entry/section: Jan and Kyle declare their love: "Her attitude changed, however, during the race for the Valley of the Jedi, during which Jan and Kyle declared their love. As freedom fighters, Jan and Kyle's relationship was far from ideal, particularly with Kyle's dark mood swings and the close bond he formed with the former Emperor's Hand Mara Jade, but the pair pulled through. On Mon Mothma's recommendation, Jan joined Admiral Hiram Drayson's secretive Alpha Blue intelligence agency, where she helped expose the Yevethan hypocrisy. She also kept a vigilant eye on ambiguous threats like the socialites of the Order of the Canted Circle and the Azurite Society of Lords, and the "retired" Grand Admiral Grant. In her new capacity, Jan was able to assign Kyle and accompany him on off-the-record missions against the Imperial Remnant." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-her-attitude-changed-however-during-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:16`
 
 > Eventually, Admiral Drayson retired from Alpha Blue and Jan took over his position -- just in time for the Yuuzhan Vong invasion. During the crisis, she enlisted the aid of Lurrian genetic engineers and the Chiss, among others, for a way to defeat the enemy, ultimately resulting in the genocidal concoction codenamed Alpha Red. More recently, she has spent every spare moment working with Kyle's one-time Jedi apprentice Jaden Korr, zealously searching for any leads to Kyle's whereabouts.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Jan Ors; Admiral Hiram Drayson; Jaden Korr; Kyle Katarn — entry/section: Jan heads Alpha Blue: "Eventually, Admiral Drayson retired from Alpha Blue and Jan took over his position -- just in time for the Yuuzhan Vong invasion. During the crisis, she enlisted the aid of Lurrian genetic engineers and the Chiss, among others, for a way to defeat the enemy, ultimately resulting in the genocidal concoction codenamed Alpha Red. More recently, she has spent every spare moment working with Kyle's one-time Jedi apprentice Jaden Korr, zealously searching for any leads to Kyle's whereabouts." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d129-s1-eventually-admiral-drayson-retired-from-alpha.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:18`
 
 - Note (summary from our notes, not a quotation): Page contents: Jan stats end; Adventure Seed: Jedi Search (Daye Azur-Jamin, Force-strong Yuuzhan Vong); Qu Rahn, Jedi Master: Katarn Clan, Yoda's gold lightsaber, Valley search, Morgan Katarn, capture and death at Jerec's hands, vision of Anakin and Ventor; Qu Rahn stats (hand-read)
@@ -816,26 +751,22 @@ Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md
 > [fragment — full passage not on file]
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Qu Rahn; Yoda; Halagad Ventor; Darth Vader (Anakin Skywalker); Jerec — entry/section: Rahn and Yoda's gold lightsaber: "One of the survivors of the Jedi Purge, Master Qu Rahn had been trained by Master Yoda years earlier while a Jedi youngling in the Katarn Clan, so named for a deadly Kashyyyk predator. A passionately loyal Jedi, Rahn was among the Jedi hidden at the location betrayed by the Jedi Halagad Ventor to Darth Vader. Deeply sickened by the actions of Jedi traitors like Vader, Ventor, and Jerec, Rahn made a risky visit to Yoda on Dagobah to soothe his troubled mind. Instead, Yoda digressed cryptically about a "valley of Jedi souls," handed Rahn a gold lightsaber, and elevated him to the rank of Jedi Master, promising Rahn that one day he would understand. Puzzled, Rahn accepted the gift, vowing to protect the lightsaber as it would him." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d129-s2-one-of-the-survivors-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:29`
 
 > And a Knight shall come, a battle will be fought, and the prisoners go free. Rahn, having also foreseen his own capture in the vision that brought him to Morgan, told the mystified farmer to give the coordinates to his son Kyle, along with Rahn's personal lightsaber.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa.
 Note (our notes, around the quote): Qu Rahn; Morgan Katarn; Kyle Katarn — entry/section: Rahn and the prophecy: "After long years of fruitless investigation, Rahn nearly gave into despair, but then a vision led him to a man tellingly named Morgan Katarn. Morgan knew the coordinates of the Valley of the Jedi on Rusaan, and he told Rahn of the natives' thousand-year-old prophecy: "And a Knight shall come, a battle will be fought, and the prisoners go free. Rahn, having also foreseen his own capture in the vision that brought him to Morgan, told the mystified farmer to give the coordinates to his son Kyle, along with Rahn's personal lightsaber." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d129-s2-after-long-years-of-fruitless-investigation.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:33`
 
 > The Moldy Crow was produced approximately a decade after the last Old Republic Battle of Coruscant as part of the Corellian Engineering Corporation's Hawk series of transports. One of the ship's earliest owners was the smuggler Roark Garnet, who, after inheriting the Dorion Discus from his dead gunslinging sister Neena, used it as payment for debts incurred to Grappa the Hutt. Filched from Grappa by Dace Bonearm and IG-72, the Moldy Crow was subsequently dumped on the planet Teth after the two hunters used it as a decoy to capture Rebel commander Winfrid Dagore and claim the Imperial bounty on her. The Crow then fell into the hands of Lieutenant Palob Godalhi, who gave up the beat-up freighter to the Rebel dreadnaught New Hope. There it was refitted and later requisitioned by Kyle Katarn, though Jan Ors more frequently piloted the ship. The Crow was demolished during Kyle and Jan's mission to the Valley of the Jedi, and eventually replaced by the ship Raven's Claw.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 2.pdf [Star Wa; Kyle Katarn; Jan Ors — entry/section: The Moldy Crow.
 Note (our notes, around the quote): Kyle Katarn; Jan Ors — entry/section: The Moldy Crow: "The Moldy Crow was produced approximately a decade after the last Old Republic Battle of Coruscant as part of the Corellian Engineering Corporation's Hawk series of transports. One of the ship's earliest owners was the smuggler Roark Garnet, who, after inheriting the Dorion Discus from his dead gunslinging sister Neena, used it as payment for debts incurred to Grappa the Hutt. Filched from Grappa by Dace Bonearm and IG-72, the Moldy Crow was subsequently dumped on the planet Teth after the two hunters used it as a decoy to capture Rebel commander Winfrid Dagore and claim the Imperial bounty on her. The Crow then fell into the hands of Lieutenant Palob Godalhi, who gave up the beat-up freighter to the Rebel dreadnaught New Hope. There it was refitted and later requisitioned by Kyle Katarn, though Jan Ors more frequently piloted the ship. The Crow was demolished during Kyle and Jan's mission to the Valley of the Jedi, and eventually replaced by the ship Raven's Claw." Source: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 2* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d129-s3-the-moldy-crow-was-produced-approximately.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/129-the-dark-forces-saga-part-2.md:48`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 3.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Jerec; Palpatine (Darth Sidious); Kyle Katarn; Morgan Katarn — entry/section: Jerec's Dark Side Elite: "One man who took the title of Dark Jedi with pride was Jerec -- the enigmatic Force-user who murdered Kyle Katarn's father -- but he did not do so alone. Inspired by glimpses into the Emperor's Dark Side Compendium, Jerec intended to bring to fruition an experiment Palpatine had spoken of in his malignant tome: the creation of a unit of seven Dark Jedi perfectly absorbed into the Emperor's will, a "Dark Side Elite." Unfortunately for Jerec, the Emperor readily recognized the darksider's ambition and denied Jerec further access to the Compendium, ending the audacious experiment. Nonetheless, Jerec at least managed to assemble a cabal of Dark Jedi willing to do his bidding." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 3.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d130-s1-one-man-who-took-the-title.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:12`; `suspect-insight/debates/102-darth-tyranus-vs-marka-ragnos.md:291`
 
 > Physical indulgence and death became common for Yun in Sariss's company, and eventually the young man found both wanting. He could feel that Sariss didn't truly love him, not as he did her, and he wondered if she'd been worth his father's murder . . . or that of his Palawan masters . . . or any of a number of other senseless slayings. Sariss had taught Yun how to suppress his guilt by the time he participated in Rahn's execution, for which he felt little remorse. But when he was bested and spared by Kyle Katarn, who'd also lost his father thanks to Jerec, Yun's feelings of guilt resurfaced. The spirit of Jedi Master Rahn further encouraged Yun to seek redemption. The young Jedi did so by betraying his mentor Sariss and saving Kyle from the blade of her lightsaber. Yun was surprised when Sariss reflexively dealt him a killing blow, but felt only a mixture of pity for his teacher and rapture when the light of the Force engulfed him. Yun: Male Epicanthix* Noble 2/Force Adept 3/Jedi Guardian 1; Init +2; Defense 18 (+2 Dex, +6 class); Spd 10 m; VP/WP 30/11; Atk +6/+1 melee (2d8+1/19–20, lightsaber) or +6/+1 ranged; SQ call in a favor +1, deflect (defense +1), inspire confidence; SV Fort +5, Ref +8, Will +7; FP 3; DSP 6; Str 12, Dex 14, Con 11, Int 12, Wis 10, Cha 12.
@@ -843,7 +774,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 Note (our notes, around the quote): Yun (Dark Jedi); Sariss; Kyle Katarn; Qu Rahn — entry/section: Yun's redemption: "Sariss had taught Yun how to suppress his guilt by the time he participated in Rahn's execution, for which he felt little remorse. But when he was bested and spared by Kyle Katarn, who'd also lost his father thanks to Jerec, Yun's feelings of guilt resurfaced. The spirit of Jedi Master Rahn further encouraged Yun to seek redemption. The young Jedi did so by betraying his mentor Sariss and saving Kyle from the blade of her lightsaber. Yun was surprised when Sariss reflexively dealt him a killing blow, but felt only a mixture of pity for his teacher and rapture when the light of the Force engulfed him." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d130-s1-sariss-had-taught-yun-how-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:20`
 
 > In the process, she recruited Yun, an inexperienced boy whom she derived pleasure in manipulating as the prophets had her. Sariss knew that her actions were cruel, but felt she needed to educate the boy in more than merely the dark side, preparing him for the wretched place the galaxy truly was. She likened Yun to a son, though having never known the appropriate bond between a parent and child, she couldn't say for sure. In a fierce battle with Kyle Katarn, the prophetess accidentally struck down Yun, and Katarn stabbed Yun's own lightsaber through Sariss's chest, melting her heart. Yun's dying words -- "Sariss, can you see the light?" -- reverberated in her mind, cutting more deeply than any lightsaber wound. In her final moments, Sariss saw only darkness. Sariss: Female Human Jedi Consular 5/Dark Side Devotee 3/Dark Side Marauder 4; Init + 3; Defense 23 (+3 Dex, +10 class); Spd 10 m; VP/WP 88/14; Atk +12/+7/+2 melee (3d8+1/19–20, lightsaber) or +12/+7/+2 ranged; SQ Dark Side talisman +2, deflect (defense +1, attack –4, extend defense and attack); SV Fort +11, Ref +12, Will +9; SZ M; FP 4; DSP 12; Rep 5; Str 12, Dex 16, Con 14, Int 15, Wis 13, Cha 15. Challenge Code D. Equipment: Lightsaber*, comlink.
@@ -851,7 +781,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from d20 folder files Star Wars Roleplaying Game Revised Core Characters The Dark Forces Saga The Dark Forces Saga Part 3 (text copy `d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_The_Dark_Forces_Saga_The_Dark_Forces_Saga_Part_3_pdf_5322bc99a6`).)
 Note (our notes, around the quote): Sariss; Yun (Dark Jedi); Kyle Katarn — entry/section: Sariss's death: "In a fierce battle with Kyle Katarn, the prophetess accidentally struck down Yun, and Katarn stabbed Yun's own lightsaber through Sariss's chest, melting her heart. Yun's dying words -- "Sariss, can you see the light?” -- reverberated in her mind, cutting more deeply than any lightsaber wound. In her final moments, Sariss saw only darkness." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d130-s2-in-a-fierce-battle-with-kyle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:37`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -862,13 +791,11 @@ Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md
 
 - Note (summary from our notes, not a quotation): Maw (Dark Jedi); Jerec; Boc Aseca; Morgan Katarn; Kyle Katarn — entry/section: Maw's end: "Maw took Morgan Katarn's head after Jerec severed it with his Jengardin double-bladed vibroblade and, along with the Dark Jedi Boc, used it and the heads of Morgan's fellow Rebel conspirators to "decorate" the walls of the Sulon spaceport. Maw's tyranny came to an end, however, when he taunted Kyle with details of his participation in Morgan's death. Kyle sunk his lightsaber into Maw's deltoid, through the chest, and out the latissimus dorsi -- a blow the already once-halved Boltrunian could not survive. The last thing Maw sensed before dying was the delicious gush of loathing from his killer." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d131-s1-maw-took-morgan-katarns-head-after.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:18`
 
 > The copycat tactic ultimately didn't help him, however. Upon meeting Kyle Katarn, Boc smashed the lightsaber Master Qu Rahn had given to Kyle. But Kyle later used Yun's lightsaber to end Boc's Jedi dreams, cutting the Twi'lek down at the foot of a statue honoring Newar Forrth in the Valley of the Jedi.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 4.pdf [Star Wa.
 Note (our notes, around the quote): Boc Aseca; Kyle Katarn; Qu Rahn; Yun (Dark Jedi); Newar Forrth — entry/section: Boc's end: "The copycat tactic ultimately didn't help him, however. Upon meeting Kyle Katarn, Boc smashed the lightsaber Master Qu Rahn had given to Kyle. But Kyle later used Yun's lightsaber to end Boc's Jedi dreams, cutting the Twi'lek down at the foot of a statue honoring Newar Forrth in the Valley of the Jedi." Source: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 4* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d131-s2-the-copycat-tactic-ultimately-didnt-help.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/131-the-dark-forces-saga-part-4.md:39`
 
 - Note (summary from our notes, not a quotation): Boc Aseca; Jeng Droga; Kyle Katarn; Luke Skywalker; Lumiya; Mace Windu — entry/section: Jar'Kai stylists: "Though Jedi and Sith since those early times have taken to substituting laser swords in place of steel ones, the ancient Jedi Awdrysta Pina favored dual Jedi Katana, while the Dark Underlord insisted on using twin Sith Swords despite being outmoded by the time of the New Sith Wars. The Jedi Kyle Katarn has faced and exterminated two Jar’Kai stylists: the Dark Jedi Boc and the Emperor's Hand Jeng Droga.
@@ -884,7 +811,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 > In his confrontation with Kyle Katarn aboard the ship Sulon Star, Gorc overestimated the ease with which he'd be able to squash his opponent. Kyle blasted the ogre in the face, obliterating his brain. Pic, who felt as if half of him had died, proceeded to assault Kyle in an untamed frenzy, stabbing him repeatedly with his Sith dagger. Katarn brought an end to the battle by taking the severed head of the droid 8t88 and using it to cave in the mutant monkey-lizard's skull.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Gorc and Pic; Kyle Katarn — entry/section: Deaths of Gorc and Pic: "In his confrontation with Kyle Katarn aboard the ship Sulon Star, Gorc overestimated the ease with which he'd be able to squash his opponent. Kyle blasted the ogre in the face, obliterating his brain. Pic, who felt as if half of him had died, proceeded to assault Kyle in an untamed frenzy, stabbing him repeatedly with his Sith dagger. Katarn brought an end to the battle by taking the severed head of the droid 8t88 and using it to cave in the mutant monkey-lizard's skull." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d132-s1-in-his-confrontation-with-kyle-katarn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:21`
 
 - Note (summary from our notes, not a quotation): Page contents: Pic SQ Abominable Presence and Darkness Shared; Gorc stats from image (Soldier 3/Jedi Guardian 2/Dark Side Marauder 3, Init -1, CC D) and SQs; Adventure Seed: Jedi Search II (Yoda's lightsaber on Sulon Star); Adventure Seed: Kyle Katarn, Meet Mara Jade (Byss, Blackhole, Senex sector); Dromund Kaas header (hand-read)
@@ -902,7 +828,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 - Note (summary from our notes, not a quotation): To punish her, Palpatine has sent his minions to intercept Mara during her trip to the Senex sector as a representative of the Smugglers' Alliance. Though Luke is busy along with the rest of the New Republic dealing with an Imperial Mutiny taking place in the Core Worlds, he calls in a favor to Jan Ors at New Republic Intelligence. Ors has dispatched a ragtag group of heroes led by the equally maverick Jedi Kyle Katarn.
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 (The heroes will have to help free Mara from the clutches of one of the Emperor's powerful dark side adepts, the former Prophet of the Dark Side Blackhole, and report to Kyle and Luke about clues they've discovered concerning a Sith temple." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2)
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d132-s2-over-the-years-convalescing-on-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:38`
 
 - Note (summary from our notes, not a quotation): Page contents: Dromund Kaas planet stats (Dromund system planets); history (deleted from Jedi archives, Kyle's fall, Darth Sidious, Grand Admiral Declann, Luke's decision); The Dark Force Temple; Using the Dark Force Temple in Your Campaign (Darth Millennial, Lord Kaan, Darth Bane) (hand-read)
@@ -912,7 +837,6 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 > Kyle Katarn traveled there after learning of the witchworld in ancient inscriptions, battling a host of Sith abominations in the planet's seemingly endless bogs before succumbing to the spell of the dark side of the Force. After his rescue by Mara Jade, Kyle, Luke Skywalker, and other Jedi heroes were able to piece together parts of the fabled system's history. Dromund Kaas had been founded by a Sith apostate who rejected the Rule of Two, and was ruled over by a succession of prophets until its discovery by Darth Sidious. Sidious turned the Prophets of the Dark Side to his service. Emperor Palpatine kept Dromund Kaas' location a secret, but he used the planet as a testing ground for his dark side adepts, including the Force-sensitive Grand Admiral Declann.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 5.pdf [Star Wa.
 Note (our notes, around the quote): Kyle Katarn; Mara Jade Skywalker; Luke Skywalker; Palpatine (Darth Sidious) — entry/section: Kyle on Dromund Kaas: "Kyle Katarn traveled there after learning of the witchworld in ancient inscriptions, battling a host of Sith abominations in the planet's seemingly endless bogs before succumbing to the spell of the dark side of the Force. After his rescue by Mara Jade, Kyle, Luke Skywalker, and other Jedi heroes were able to piece together parts of the fabled system's history. Dromund Kaas had been founded by a Sith apostate who rejected the Rule of Two, and was ruled over by a succession of prophets until its discovery by Darth Sidious. Sidious turned the Prophets of the Dark Side to his service. Emperor Palpatine kept Dromund Kaas' location a secret, but he used the planet as a testing ground for his dark side adepts, including the Force-sensitive Grand Admiral Declann." Source: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 5* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d132-s3-kyle-katarn-traveled-there-after-learning.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md:50`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -920,49 +844,41 @@ Our notes: `notes/materials/037-sw-d20-folder/132-the-dark-forces-saga-part-5.md
 > Jerec remained very busy in the time leading up to the Battle of Endor. For a time, he became governor of Kyle Katarn's homeworld Sulon, having an extravagant palace built in honor of himself. Jerec's ambition also drove him to seek out a mind-controlling monster called Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance. Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance II, though with its predecessor destroyed, the numerical amendment was infrequently applied. Jerec eventually ordered the ship's captain to join Admiral Ozzel's Death Squadron, as the Dark Jedi already had a Super Star Destroyer being built to accommodate his unceasingly swelling ego.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn — entry/section: Jerec's ambition.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's ambition: "Jerec remained very busy in the time leading up to the Battle of Endor. For a time, he became governor of Kyle Katarn's homeworld Sulon, having an extravagant palace built in honor of himself. Jerec's ambition also drove him to seek out a mind-controlling monster called Spore in order to create an army of slaves, though the beast instead destroyed Jerec's Imperial Star Destroyer Vengeance. Jerec had the ship's computer core salvaged from the wreckage and transferred to a new Star Destroyer called the Vengeance II, though with its predecessor destroyed, the numerical amendment was infrequently applied. Jerec eventually ordered the ship's captain to join Admiral Ozzel's Death Squadron, as the Dark Jedi already had a Super Star Destroyer being built to accommodate his unceasingly swelling ego." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-jerec-remained-very-busy-in-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:18`
 
 > Ultimately, all of Jerec's pupils were killed by the Jedi Kyle Katarn, but the price was worth the reward. Jerec at last gained access to the valley, and for one lucid moment, absolute omniscience was his. The will of the Force, Chaos, the ancient civilizations of the Rakata and
 > [fragment — full passage not on file]
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's omniscience (part 1 of 2, continues next page): "Ultimately, all of Jerec's pupils were killed by the Jedi Kyle Katarn, but the price was worth the reward. Jerec at last gained access to the valley, and for one lucid moment, absolute omniscience was his. The will of the Force, Chaos, the ancient civilizations of the Rakata and" Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d133-s1-ultimately-all-of-jerecs-pupils-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:24`
 
 > Xim, what lay beyond the galactic barrier, and the origins of the universe -- Jerec understood them all, and endowed with Force powers beyond imagination, he would have ruled accordingly.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's omniscience (part 2 of 2, continued from previous page): "Xim, what lay beyond the galactic barrier, and the origins of the universe -- Jerec understood them all, and endowed with Force powers beyond imagination, he would have ruled accordingly." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-xim-what-lay-beyond-the-galactic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:31`
 
 > However, during this rapturous illumination, Kyle used an ancient Force technique to sever Jerec's connection to the Force with a wall of pure light. Kyle then proceeded to cut the Dark Jedi down, sending Jerec's soul screaming toward Chaos alongside the Sith spirits of a thousand years hence. Thanks to his enlightenment, Jerec was well aware of the torture without respite that awaited him there.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn — entry/section: Jerec's end.
 Note (our notes, around the quote): Jerec; Kyle Katarn — entry/section: Jerec's end: "However, during this rapturous illumination, Kyle used an ancient Force technique to sever Jerec's connection to the Force with a wall of pure light. Kyle then proceeded to cut the Dark Jedi down, sending Jerec's soul screaming toward Chaos alongside the Sith spirits of a thousand years hence. Thanks to his enlightenment, Jerec was well aware of the torture without respite that awaited him there." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-however-during-this-rapturous-illumination-kyle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:33`
 
 > Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Lord Hethrir; Antinnis Tremayne; Kyle Katarn — entry/section: The Reborn: "Lastly, Hethrir tasked Desann with finding a fabled Jedi valley made known to him by his ally, Inquisitor Tremayne. Tricking the Jedi Kyle Katarn into revealing the location of the Valley of the Jedi, Desann led his band of trainees to the Force nexus on Ruusan, quadrupling their innate powers with the residue of the ancient Jedi sprits. To these specially empowered Empire Youths Desann gave the name the Reborn." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-lastly-hethrir-tasked-desann-with-finding.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:41`
 
 > Desann and Kyle had multiple hazardous confrontations, during which each combatant attempted to persuade the other to join his cause. In the end, Kyle chased the Dark Jedi to the temples of Luke's Jedi academy on Yavin 4, where he and Desann engaged in furious lightsaber battle for a final time. Only Kyle emerged alive from the conflict.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Desann; Kyle Katarn — entry/section: Desann's end.
 Note (our notes, around the quote): Desann; Kyle Katarn — entry/section: Desann's end: "Desann and Kyle had multiple hazardous confrontations, during which each combatant attempted to persuade the other to join his cause. In the end, Kyle chased the Dark Jedi to the temples of Luke's Jedi academy on Yavin 4, where he and Desann engaged in furious lightsaber battle for a final time. Only Kyle emerged alive from the conflict." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-desann-and-kyle-had-multiple-hazardous.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:43`
 
 - Note (summary from our notes, not a quotation): Lord Kaan; Lord Hoth; Exar Kun; Kyle Katarn — entry/section: The Valley of the Jedi: "Sith Lord Kaan's Brotherhood of Darkness carved rooms within the valley, which were used to store their war resources -- everything from exotic weapons and technology to plain old food. The valley became the final resting place of Lord Hoth's Army of Light and Kaan's Brotherhood of Darkness when Kaan detonated a dark side "Thought Bomb," annihilating both armies and trapping their spirits in a Sith globe, similar to that used by the Dark Lord Exar Kun to trap the spirits of Massassi children. It would be a more than a thousand years before the Jedi Kyle Katarn would find and release them." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-sith-lord-kaans-brotherhood-of-darkness.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:54`
 
 > After defeating Jerec, Kyle kept the location of the valley to himself, fearing it would be misused.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa; Jerec; Kyle Katarn.
 Note (our notes, around the quote): Jerec; Kyle Katarn: "After defeating Jerec, Kyle kept the location of the valley to himself, fearing it would be misused." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d133-s3-after-defeating-jerec-kyle-kept-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:58`
 
 ## Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -970,7 +886,6 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > Little is known about the reptilian Chistori. They resemble bipedal lizards, with prominent snouts, mouthfuls of teeth, and beady eyes, and they have a fiercely independent warrior society. The Chistori are a secretive people, and even the Jedi Archives have no record of their homeworld. Like many reptilian species, they are coldblooded, and like the Trandoshans, they gain a natural armor bonus to Defense. Other than Cydon Prax, the only widely known Chistori is the Dark Jedi Desann, a failed student of the Yavin 4 academy who would make life extremely difficult for Luke Skywalker and Kyle Katarn decades after the Clone Wars. Many lesser-known Chistori have found work as bounty hunters.
 — Source: Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Cydon Prax; Desann; Luke Skywalker; Kyle Katarn — entry/section: The Chistori: "Little is known about the reptilian Chistori. They resemble bipedal lizards, with prominent snouts, mouthfuls of teeth, and beady eyes, and they have a fiercely independent warrior society. The Chistori are a secretive people, and even the Jedi Archives have no record of their homeworld. Like many reptilian species, they are coldblooded, and like the Trandoshans, they gain a natural armor bonus to Defense. Other than Cydon Prax, the only widely known Chistori is the Dark Jedi Desann, a failed student of the Yavin 4 academy who would make life extremely difficult for Luke Skywalker and Kyle Katarn decades after the Clone Wars. Many lesser-known Chistori have found work as bounty hunters." Source: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d136-s1-little-is-known-about-the-reptilian.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:16`
 
 ## Jedi Counselling/Jedi Counseling 55 - Ship Squadrons.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -984,7 +899,6 @@ Our notes: `notes/materials/037-sw-d20-folder/222-jedi-counseling-55-ship-squadr
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 55 Ship Squadrons (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_55_Ship_Squadrons_pdf_c6cc5448cc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 55 Ship Squadrons (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_55_Ship_Squadrons_pdf_c6cc5448cc`).)
 Note (our notes, around the quote): Kyle Katarn — entry/section: Kyle Katarn's saber vs cortosis armor in Jedi Outcast: "Q: Having read many of your rulings, I've learned that when a lightsaber strikes something with a cortosis weave, it immediately shuts off. But from what I've seen in other Star Wars games such as Knights of the Old Republic and Jedi Knight II: Jedi Outcast, the main character fights opponents who use cortosis swords or armor. In Jedi Knight II, Kyle Katarn fights numerous dark Jedi who are wearing whole suits of cortosis armor, and his saber never shuts off. Should I use your rules for cortosis or theirs?" Source: *Jedi Counseling 55 - Ship Squadrons* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 55 - Ship Squadrons* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d222-s2-q-having-read-many-of-your.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/222-jedi-counseling-55-ship-squadrons.md:17`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/210 - Shadows in Green.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -1002,7 +916,6 @@ Our notes: `notes/materials/037-sw-d20-folder/601-part-4-a-brief-thaw.md:10`
 > They were looking for the planet that you trained on. They were looking for Dagobah, and somewhere in the computer core, I think they found it.
 — Source: Locations/Planet Hoppers/Hoth - Under the Ice/Part 4 - A Brief Thaw.pdf [.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Kyle Katarn to Luke Skywalker: "They were looking for the planet that you trained on. They were looking for Dagobah, and somewhere in the computer core, I think they found it." Source: *Part 4 - A Brief Thaw* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 4 - A Brief Thaw* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d601-s1-they-were-looking-for-the-planet.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/601-part-4-a-brief-thaw.md:12`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -1020,7 +933,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-061-
 > Katarn are capable of moving very quietly, often managing to get close to their prey before attacking.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Kyle Katarn — entry/section: Katarn.
 Note (our notes, around the quote): Kyle Katarn — entry/section: Katarn: "Katarn are capable of moving very quietly, often managing to get close to their prey before attacking." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.94
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.94 — full quote as printed](quotes/d672-s94-katarn-are-capable-of-moving-very.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-061-120.md:177`
 
 - Note (summary from our notes, not a quotation): Page contents: Katarn traits/stats; Kilassin; Kkekkrrg Rro (shadow keepers, Kashyyyk). (hand-read)
@@ -1046,14 +958,12 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:
 > KATARN COMMANDOS HisToORY The Katarn Commandos are the most celebrated black ops unit of the New Republic—the ones who get the call when impregnable strongholds need breaching or invincible superweapons need destroying.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Kyle Katarn — entry/section: Galaxy at War (Saga).
 Note (our notes, around the quote): Kyle Katarn — entry/section: Galaxy at War (Saga): "KATARN COMMANDOS HisToORY The Katarn Commandos are the most celebrated black ops unit of the New Republic—the ones who get the call when impregnable strongholds need breaching or invincible superweapons need destroying." Source: *Galaxy at War* (SWRPG Saga Edition), scan p.115
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.115 — full quote as printed](quotes/d715-s115-katarn-commandos-histoory-the-katarn-commandos.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:338`
 
 > tossing a nest of fire wasps into a bursa's lair and seeing what happens next.
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Carlist Rieekan — entry/section: Rieekan on the Katarn Commandos.
 Note (our notes, around the quote): Carlist Rieekan — entry/section: Rieekan on the Katarn Commandos: ""tossing a nest of fire wasps into a bursa's lair and seeing what happens next."" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.115
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.115 — full quote as printed](quotes/d715-s115-tossing-a-nest-of-fire-wasps.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:340`
 
 > Kyle Katarn sometimes led the team, but more often, he served as its heavy-weapons specialist under Page's direction
@@ -1064,13 +974,11 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:
 
 - Note (summary from our notes, not a quotation): Kyle Katarn; Judder Page — entry/section: Sidebar memo: Klavisor to Moff Heedra on the Katarn Commandos: "To: Moff Heedra From: Commander Klavisor, Elliirad Platform Subject: Summary of losses sustained in Rebel attack (attributed to "Katarn Commandos") Body of Message: 2,400 metric tons cargo; 5 exterior fuel modules (S-type); 1 Class-H hypermatter reactor core; 2 Strike-class medium cruisers . . . <MORE>" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.116
   — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2.
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.116 — full quote as printed](quotes/d715-s116-to-moff-heedra-from-commander-klavisor.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:352`
 
 > A perfect mission relies solely on stealth, with enemy forces realizing that the Katarn Commandos has paid a visit only when their ion cannon explodes.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "A perfect mission relies solely on stealth, with enemy forces realizing that the Katarn Commandos has paid a visit only when their ion cannon explodes." Source: *Galaxy at War* (SWRPG Saga Edition), scan p.116
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.116 — full quote as printed](quotes/d715-s116-a-perfect-mission-relies-solely-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:354`
 
 ## Sourcebooks/Scavenger's Guide to Droids.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)
@@ -1106,7 +1014,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > By deceiving Kyle Katarn into giving away the location of the Valley of the Jedi and the Force nexus located there, Hethrir increased his powers fourfold by absorbing energy from ancient Jedi and Sith spirits.
 — Source: Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Ed; Kyle Katarn. POV: Kyle Katarn.
 Note (our notes, around the quote): Kyle Katarn: "By deceiving Kyle Katarn into giving away the location of the Valley of the Jedi and the Force nexus located there, Hethrir increased his powers fourfold by absorbing energy from ancient Jedi and Sith spirits." Source: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30
-![Quote image: *Threats of the Galaxy* (SWRPG Saga Edition), scan p.30 — full quote as printed](quotes/d731-s30-by-deceiving-kyle-katarn-into-giving.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/731-threats-of-the-galaxy-scan-001-060.md:216`
 
 ## Sourcebooks/Threats of the Galaxy.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1136,7 +1043,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Luke Skywalker; Kyle Katarn — entry/section: Saga Edition Web Articles: "Over the decades, Kyle Katarn joined Luke Skywalker's Jedi praxeum, eventually becoming a legendary Jedi battlemaster and member of the High Council of the New Jedi Order." Source: *Web Articles* (SWRPG Saga Edition), scan p.317
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.317 — full quote as printed](quotes/d732-s317-over-the-decades-kyle-katarn-joined.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:181`
 
 ## Star Wars Insider #30 (1996)
@@ -1326,7 +1232,6 @@ Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:39`
 > As a boy, he crafted his own lightsaber. As a young man, he received training from Kyle Katarn, who dabbled in powers typically associated with the dark side such as Force lightning. In Kyle, this represented a broad understanding of the Force. But to Jaden, looking in from the outside, it represented ambiguity. In my mind, this created in Jaden the potential to achieve the kind of understanding embodied by Kyle, but also, perhaps, a greater propensity for a fall.
 — Source: Star Wars Insider #115 (2010).
 Note (our notes, around the quote): Jaden Korr; Kyle Katarn — entry/section: Kemp on Jaden Korr and Kyle Katarn's influence: ""As a boy, he crafted his own lightsaber. As a young man, he received training from Kyle Katarn, who dabbled in powers typically associated with the dark side such as Force lightning. In Kyle, this represented a broad understanding of the Force. But to Jaden, looking in from the outside, it represented ambiguity. In my mind, this created in Jaden the potential to achieve the kind of understanding embodied by Kyle, but also, perhaps, a greater propensity for a fall." —Paul S. Kemp, Star Wars Insider 115, p. 56" Source: *Star Wars Insider #115* (2010), scan p.56
-![Quote image: *Star Wars Insider #115* (2010), scan p.56 — full quote as printed](quotes/ins115-s56-as-a-boy-he-crafted-his.jpg)
 Our notes: `notes/materials/038-star-wars-insider/115-ins115.md:322`
 
 ## Star Wars Insider #116 (2010)
@@ -2137,7 +2042,6 @@ Our notes: `notes/materials/154-new-essential-guide-to-vehicles-vessels-2003/quo
 
 - Note (summary from our notes, not a quotation): Kyle Katarn — entry/section: ARYLE Katarn: "Moments after graduation, Kyle learned that his father was dead—"killed by Rebels," as the official Imperial report stated." Source: The New Essential Guide to Characters, p.102
   — Source: scan pages 91–120.
-![Quote image: The New Essential Guide to Characters, p.102 — full quote as printed](quotes/negc-p102-moments-after-graduation-kyle-learned-that.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:46`
 
 ## *Dark Forces Official Player's Guide* (1995), filed in MEGA's "Prima Guides" folder but not a Prima book

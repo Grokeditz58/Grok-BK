@@ -18,7 +18,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan
 > Rooty once bested Lando Calrissian in a game of sabacc.
 — Source: scan pages 81–120; Lando Calrissian. POV: Lando Calrissian, about Rooty.
 Note (our notes, around the quote): Lando Calrissian: "Rooty once bested Lando Calrissian in a game of sabacc." Source: The Complete Star Wars Encyclopedia, Vol. III, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.110 — full quote as printed](quotes/v3-p110-rooty-once-bested-lando-calrissian-in.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:271`
 
 ## Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan
 > Shortly before that infamous engagement, Calrissian lost a significant sum (some estimates put it at around 20,000 credits) to Rooty in a game of Sabacc, Unable to cover his boss, Calrissian was only saved from a severe mauling at the hands of the enraged Cragmoloid by the intervention of agents working for a Hutt who had business interests with the legendary gambler.
 — Source: Star Wars Gamer/Star Wars Gamer 06.pdf [Star Wars Roleplaying Game (d20,; Lando Calrissian. POV: Lando Calrissian, about Rooty.
 Note (our notes, around the quote): Lando Calrissian: "Shortly before that infamous engagement, Calrissian lost a significant sum (some estimates put it at around 20,000 credits) to Rooty in a game of Sabacc, Unable to cover his boss, Calrissian was only saved from a severe mauling at the hands of the enraged Cragmoloid by the intervention of agents working for a Hutt who had business interests with the legendary gambler." Source: *Star Wars Gamer 06* (SWRPG d20), scan p.58
-![Quote image: *Star Wars Gamer 06* (SWRPG d20), scan p.58 — full quote as printed](quotes/d055-s58-shortly-before-that-infamous-engagement-calrissian.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/055-star-wars-gamer-06-scan-001-060.md:357`
 
 # Debate and forum claims (unverified)

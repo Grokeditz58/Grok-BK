@@ -28,7 +28,6 @@ Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 Note (our notes, around the quote): Klin-Fa Gi — entry/section: Klin-Fa Gi: ""I'll bet it doesn't. CSA attorneys can find a loophole when there isn't even a loop.”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.15
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.15 — full quote as printed](quotes/d057-s15-ill-bet-it-doesnt-csa-attorneys.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-060.md:97`
 
 - Note (summary from our notes, not a quotation): Page contents: Battle on Bonadan: Uldir hauls Klin-Fa back aboard one-handed while she deflects bolts, and flies into a Bonadan weather-control 'sweeper storm' built for maximum ionization (hand-read)
@@ -54,7 +53,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Emissary of the Void Part II pdf x.txt (text copy `MEGA_Emissary_of_the_Void_Part_II_pdf_x`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 Note (our notes, around the quote): Klin-Fa Gi — entry/section: Emissary of the Void: "“The Force can prevail against any odds,” she insisted firmly." Source: *Star Wars Gamer 09* (SWRPG d20), scan p.13
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.13 — full quote as printed](quotes/d058-s13-the-force-can-prevail-against-any.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-060.md:72`
 
 - Note (summary from our notes, not a quotation): Page contents: Emissary of the Void II: Klin-Fa runs from the Vong because 'my Jedi powers are useless against the Vong', since 'My mission cannot fail'; Bonadan's badlands are an erosion scar from Corporate Sector industrialization; Uldir hides his comlink under a rock because his crew knows asyui-in means 'not' in Dug (hand-read)
@@ -65,7 +63,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20,; Klin-Fa Gi — entry/section: Emissary of the Void.
 Note (our notes, around the quote): Klin-Fa Gi — entry/section: Emissary of the Void: ""Scared? No. I'm scared of nothing, But my Jedi powers are useless against the Vong. If|fight,|might lose, and I can't afford that. The galaxy can't afford it. My mission cannot fail,”" Source: *Star Wars Gamer 09* (SWRPG d20), scan p.14
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.14 — full quote as printed](quotes/d058-s14-scared-no-im-scared-of-nothing.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-060.md:79`
 
 > Uldir replied. "They'll look in a radius around the signal. Now, come on." "Wait," she said. In the next instant, she bounded up the side of the ravine, just as Uldir noticed the sound of the flier returning. Klin-Fa reached the lip of the chasm as the patrol vessel came over. Blaster fire kicked up dust around her feet, but she dodged lightly, and her lightsaber was suddenly on. In the next instant it was a whirling disk of brilliance, shearing through the nose of the flier. More blaster fire from somewhere else made a spectral bridge over the arroyo top, but by then, Klin-Fa had dropped back below the rim, the deadly lightsaber returning to her hand and extinguished. "Carbon flush!" Uldir breathed.
@@ -74,7 +71,6 @@ Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 (Full sentence/passage taken from the source text on file: `njo_eov_txt`.)
 Note (our notes, around the quote): Klin-Fa Gi — entry/section: Emissary of the Void: "and her lightsaber was suddenly on. in the next instant it was a : whirling disk of brilliance, shearing through the nose of the flier." Source: *Star Wars Gamer 09* (SWRPG d20), scan p.15
-![Quote image: *Star Wars Gamer 09* (SWRPG d20), scan p.15 — full quote as printed](quotes/d058-s15-and-her-lightsaber-was-suddenly-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/058-star-wars-gamer-09-scan-001-060.md:86`
 
 - Note (summary from our notes, not a quotation): Page contents: Emissary of the Void II: Klin-Fa deflects bolts as a living shield until the fliers encircle them; the rescue comes on a parade float shaped like a giant head, with Leaft the Dug firing blasters from three hand-feet and Vega with a rifle; the astromech Uvee (U'V-002) flies the No Luck Required alone; they escape Bonadan without shields and with an undependable hyperdrive (hand-read)
@@ -161,7 +157,6 @@ Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:319`
 — Source: Star Wars Insider #63 (2002).
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from njo eov (text copy `njo_eov_txt_5204571113`).)
 Note (our notes, around the quote): Klin-Fa Gi — entry/section: Emissary of the Void: Klin-Fa on Bey: ""That isn't what this is about. It's not about Bey, or me. Jedi fight, Jedi die. We know the risks." —Klin-Fa Gi, Star Wars Insider 63, p. 50" Source: *Star Wars Insider #63* (2002), p.50
-![Quote image: *Star Wars Insider #63* (2002), p.50 — full quote as printed](quotes/ins063-p50-that-isnt-what-this-is-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/063-ins063.md:321`
 
 - Note (summary from our notes, not a quotation): Page contents: Fiction cont.: Uldir on why he is a rescue pilot; the Yuuzhan Vong slave transport and four coralskippers; Klin-Fa's plan to breach the hull at the dovin basal's dead spot; Vook duels Vintul Qat. (hand-read)

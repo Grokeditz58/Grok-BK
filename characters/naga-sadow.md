@@ -69,12 +69,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:40`
 
 - Note (summary from our notes, not a quotation): Satal tortures Ulic and injects Sith poison (p4–6). Exar enslaves the Massassi and finds Sadow's ship and laboratory (p7–10). Nomi lets herself be captured (p11–13); her battle meditation turns the guards on each other (p20–21). Ulic kills Satal's assassin and then Satal (p22–25) and becomes Krath leader (p27).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](024-tales-of-the-jedi/panels/dlots5-p05-satal-tortures-ulic.jpg)
-![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](024-tales-of-the-jedi/panels/dlots5-p06-ulic-force-impulse.jpg)
-![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](024-tales-of-the-jedi/panels/dlots5-p07-massassi-build-temples.jpg)
-![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](024-tales-of-the-jedi/panels/dlots5-p10-sadow-ship-and-lab.jpg)
-![Dark Lords of the Sith #5 p13: Nomi Sunrider must defend herself against the unexpectedly powerful Krath warriors](024-tales-of-the-jedi/panels/dlots5-p13-nomi-vs-krath-warriors.jpg)
-![Dark Lords of the Sith #5 p21: Nomi's battle meditation turns her Krath guards on each other](024-tales-of-the-jedi/panels/dlots5-p21-nomi-guards-turn.jpg)
+![Dark Lords of the Sith #5 p5: Satal Keto tortures the captive Ulic Qel-Droma and prepares the Sith poison](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p05-satal-tortures-ulic.jpg)
+![Dark Lords of the Sith #5 p6: The Sith poison takes hold: Ulic gives off a massive impulse of Force energy](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p06-ulic-force-impulse.jpg)
+![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p07-massassi-build-temples.jpg)
+![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p10-sadow-ship-and-lab.jpg)
+![Dark Lords of the Sith #5 p13: Nomi Sunrider must defend herself against the unexpectedly powerful Krath warriors](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p13-nomi-vs-krath-warriors.jpg)
+![Dark Lords of the Sith #5 p21: Nomi's battle meditation turns her Krath guards on each other](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p21-nomi-guards-turn.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:43`
 
 > EXAR KUN SUDDENLY FEELS HIS RAGE MULTIPLY A THOUSAND TIMES...THEN A HUNDRED THOUSAND TIMES-- *(narration, p23)*
@@ -85,18 +85,18 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:65`
 
 - Note (summary from our notes, not a quotation): Enslaves the Massassi, has them build temples, finds Sadow's ship and laboratory. Source: Dark Lords of the Sith #5, p7–10
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](panels/dlots5-p07-massassi-build-temples.jpg)
-![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](panels/dlots5-p10-sadow-ship-and-lab.jpg)
+![Dark Lords of the Sith #5 p7: Exar Kun becomes leader of the Massassi on Yavin 4 and orders them to build Sith temples](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p07-massassi-build-temples.jpg)
+![Dark Lords of the Sith #5 p10: Exar Kun finds Naga Sadow's starship and his Sith alchemy equipment](../notes/materials/024-tales-of-the-jedi/panels/dlots5-p10-sadow-ship-and-lab.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:67`
 
 - Note (summary from our notes, not a quotation): Narration flashback: Naga Sadow destroys the Denarii Nova. Source: Dark Lords of the Sith #1, p5–6
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p6: Flashback: Naga Sadow destroys the Denarii Nova](panels/dlots1-p06-sadow-denarii-nova.jpg)
+![Dark Lords of the Sith #1 p6: Flashback: Naga Sadow destroys the Denarii Nova](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p06-sadow-denarii-nova.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:263`
 
 - Note (summary from our notes, not a quotation): His alchemical beast awakens in the Yavin 4 Temple of Fire after a Massassi sacrifice. Source: Dark Lords of the Sith #4, p15–16
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #4 p16: Naga Sadow's alchemical beast awakens in the Temple of Fire](panels/dlots4-p16-sadow-beast-awakens.jpg)
+![Dark Lords of the Sith #4 p16: Naga Sadow's alchemical beast awakens in the Temple of Fire](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p16-sadow-beast-awakens.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:265`
 
 - Note (summary from our notes, not a quotation): | 6 | Exar Kun vs Sadow's horrors | Yavin 4 | p22–24 (#4) | Exar wins | Sith amulet |
@@ -104,13 +104,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:265`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:277`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:307`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
+![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:309`
 
 - Note (summary from our notes, not a quotation): Coverage: the book covers *Tales of the Jedi* up to *The Freedon Nadd Uprising* only. It came out before *Dark Lords of the Sith* and *The Sith War* were collected. So it has no stat block for Exar Kun, and he is named only once (p.78). There are also no stat blocks for Naga Sadow, Aleema, Satal or Mandalore.
@@ -123,7 +123,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_weg_companion_txt`.)
 Note (our notes, around the quote): The book's only mention of Exar Kun: "Sith history before the reign of Dark Lord Naga Sadow a thousand years before the time of Ulic Qel-Droma and Exar Kun lies masked in shadow". It has no stat block or Force dice for Exar Kun. Source: Tales of the Jedi Companion (WEG, 1996), p.78
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.78 — full quote as printed](quotes/companion-p78-sith-history-before-the-reign-of.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.78 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p78-sith-history-before-the-reign-of.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:281`
 
 - Note (summary from our notes, not a quotation): Sith essence: the first Dark Lords were fallen Jedi who dominated the Sith species. Naga Sadow's holocron is discussed. Source: Tales of the Jedi Companion (WEG, 1996), p.78-79
@@ -132,7 +132,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 
 - Note (summary from our notes, not a quotation): Shows Aleema how to use Naga Sadow's ship ("THE POWER TO WRENCH FIRE FROM THE STARS"); the plan uses her to trigger the Cron supernova. Source: The Sith War #4, p15–24
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #4 p15: In Naga Sadow's ancient Sith ship Exar shows Aleema the power "to wrench fire from the stars"](panels/sw4-p15-sadow-ship-fire-from-stars.jpg)
+![The Sith War #4 p15: In Naga Sadow's ancient Sith ship Exar shows Aleema the power "to wrench fire from the stars"](../notes/materials/024-tales-of-the-jedi/panels/sw4-p15-sadow-ship-fire-from-stars.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:60`
 
 - Note (summary from our notes, not a quotation): Using Naga Sadow's ship, rips the core out of one of the ten Cron stars and hurls it at the pursuing Jedi, killing Dace Diath, Shoaneb Culu and Qrrrl Toq. Source: The Sith War #4, p17–22
@@ -149,50 +149,42 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:277`
 > As the Jedi reeled from the sudden crushing attack, the cunning Sith Lord Naga Sadow led the Imperial invasion and brought the Republic to its knees.
 — Source: The Galactic Republic; Naga Sadow — Great Hyperspace War box.
 Note (our notes, around the quote): Naga Sadow — Great Hyperspace War box: "As the Jedi reeled from the sudden crushing attack, the cunning Sith Lord Naga Sadow led the Imperial invasion and brought the Republic to its knees." Source: The Old Republic Encyclopedia, p.25
-![Quote image: The Old Republic Encyclopedia, p.25 — full quote as printed](quotes/tore-p25-as-the-jedi-reeled-from-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:25`
 
 > Under the leadership of Marka Ragnos, the united Sith enjoyed strength and prosperity in a time known as the Golden Age of the Sith. But when Marka Ragnos died, the golden age came to a violent end. Two Sith Lords, Naga Sadow and Ludo Kressh, fought to fill the sudden power vacuum
 > [fragment — full passage not on file]
 — Source: The Sith Empire.
 Note (our notes, around the quote): Marka Ragnos; Naga Sadow; Ludo Kressh — Golden Age of the Sith: "Under the leadership of Marka Ragnos, the united Sith enjoyed strength and prosperity in a time known as the Golden Age of the Sith. But when Marka Ragnos died, the golden age came to a violent end. Two Sith Lords, Naga Sadow and Ludo Kressh, fought to fill the sudden power vacuum" Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-under-the-leadership-of-marka-ragnos.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:20`
 
 > Strengthened by Naga Sadow's battle meditation, the Sith wage a fearsome battle against the Jedi for control of Coruscant.
 — Source: The Sith Empire; Naga Sadow — caption (top-right).
 Note (our notes, around the quote): Naga Sadow — caption (top-right): "Strengthened by Naga Sadow's battle meditation, the Sith wage a fearsome battle against the Jedi for control of Coruscant." Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-strengthened-by-naga-sadow-s-battle.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:22`
 
 > His powerful battle meditation strengthened Imperial forces. Sadow also used the Force to create illusions, bolstering the Empire's fleets with imaginary numbers of unstoppable magnitude.
 — Source: The Sith Empire; Naga Sadow — Great Hyperspace War.
 Note (our notes, around the quote): Naga Sadow — Great Hyperspace War: "His powerful battle meditation strengthened Imperial forces. Sadow also used the Force to create illusions, bolstering the Empire's fleets with imaginary numbers of unstoppable magnitude." Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-his-powerful-battle-meditation-strengthened-impe.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:24`
 
 > The two Sith fleets clashed over Korriban, and Naga Sadow defeated Ludo Kressh to emerge triumphant.
 — Source: The Sith Empire; Naga Sadow; Ludo Kressh — The Empire Falls.
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh — The Empire Falls: "The two Sith fleets clashed over Korriban, and Naga Sadow defeated Ludo Kressh to emerge triumphant." Source: The Old Republic Encyclopedia, p.109, sidebar
-![Quote image: The Old Republic Encyclopedia, p.109 — full quote as printed](quotes/tore-p109-the-two-sith-fleets-clashed-over.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:28`
 
 > Discovered ancient Sith temple belonging to the Sadow'een, the personal assassins of renowned Sith Lord Naga Sadow.
 — Source: The Sith Empire; Naga Sadow — Hoth entry (top-right).
 Note (our notes, around the quote): Naga Sadow — Hoth entry (top-right): "Discovered ancient Sith temple belonging to the Sadow'een, the personal assassins of renowned Sith Lord Naga Sadow." Source: The Old Republic Encyclopedia, p.125, sidebar
-![Quote image: The Old Republic Encyclopedia, p.125 — full quote as printed](quotes/tore-p125-discovered-ancient-sith-temple-belonging-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:112`
 
 > In Sith philosophy, that which goes unchallenged grows weak. Marka Ragnos did not lose his power—he died of old age—but his eventual successor, Naga Sadow, believed the Sith had stagnated without the chance to expand their borders or face new enemies.
 — Source: The Sith; Marka Ragnos; Naga Sadow — Driven by Conquest.
 Note (our notes, around the quote): Marka Ragnos; Naga Sadow — Driven by Conquest: "In Sith philosophy, that which goes unchallenged grows weak. Marka Ragnos did not lose his power—he died of old age—but his eventual successor, Naga Sadow, believed the Sith had stagnated without the chance to expand their borders or face new enemies." Source: The Old Republic Encyclopedia, p.147, sidebar
-![Quote image: The Old Republic Encyclopedia, p.147 — full quote as printed](quotes/tore-p147-in-sith-philosophy-that-which-goes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:26`
 
 > Through their focus on these elements of the Force, the Sith have developed terrifying powers, such as the ability to drain a being of its life force, or unleash their hatred as crackling bolts of energy. The Sith Emperor, history's most powerful dark side master, performed a ritual of incredible scope to consume the life energy of every being on his homeworld. Ancient Sith were also masters of these arts—Lord Naga Sadow was able to affect the stars themselves, and caused the red supergiant Primus Goluud to go nova.
 — Source: The Sith; Vitiate (the Sith Emperor); Naga Sadow — Sith: Masters of Darkness.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Naga Sadow — Sith: Masters of Darkness: "Through their focus on these elements of the Force, the Sith have developed terrifying powers, such as the ability to drain a being of its life force, or unleash their hatred as crackling bolts of energy. The Sith Emperor, history's most powerful dark side master, performed a ritual of incredible scope to consume the life energy of every being on his homeworld. Ancient Sith were also masters of these arts—Lord Naga Sadow was able to affect the stars themselves, and caused the red supergiant Primus Goluud to go nova." Source: The Old Republic Encyclopedia, p.148
-![Quote image: The Old Republic Encyclopedia, p.148 — full quote as printed](quotes/tore-p148-through-their-focus-on-these-elements.jpg)
 Also cited as: SI respect-thread directory: Marka Ragnos Respect Thread — https://www.suspectinsightforums.com/t4117-marka-ragnos-respect-thread.
 Also noted as: The following quote expresses Ragnos’ capability of using force drain and lightning. While this is not exactly new information considering the previously established force mastery that Ragnos possesses, this quote does reveal that Ragnos had the knowledge (and the power) to affect stars as well as replicate Vitiate’s planet draining ritual:
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:41`; `suspect-insight/respect-threads/marka-ragnos.md:89`; `suspect-insight/debates/123-exar-kun-vs-darth-sidious.md:1519`; `suspect-insight/debates/121-lord-hoth-vs-odan-urr.md:99`
@@ -200,61 +192,51 @@ Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:41`; `suspect-insigh
 > The Sith Lord Naga Sadow was a powerful sorcerer and a cunning strategist, who lived on Korriban before the rise of the Emperor more than a thousand years ago.
 — Source: The Sith; Naga Sadow — Naga Sadow.
 Note (our notes, around the quote): Naga Sadow — Naga Sadow: "The Sith Lord Naga Sadow was a powerful sorcerer and a cunning strategist, who lived on Korriban before the rise of the Emperor more than a thousand years ago." Source: The Old Republic Encyclopedia, p.155, sidebar
-![Quote image: The Old Republic Encyclopedia, p.155 — full quote as printed](quotes/tore-p155-the-sith-lord-naga-sadow-was.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:106`
 
 > He used a meditation sphere, a rare form of starship infused with Sith technology, to project illusions of terrifying monsters and endless armies into the minds of his enemies.
 — Source: The Sith; Naga Sadow — Naga Sadow.
 Note (our notes, around the quote): Naga Sadow — Naga Sadow: "He used a meditation sphere, a rare form of starship infused with Sith technology, to project illusions of terrifying monsters and endless armies into the minds of his enemies." Source: The Old Republic Encyclopedia, p.155, sidebar
-![Quote image: The Old Republic Encyclopedia, p.155 — full quote as printed](quotes/tore-p155-he-used-a-meditation-sphere-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:108`
 
 > When Sadow was eventually defeated, he fled to the jungle planet of Yavin IV, where he used Sith alchemy and experimentation to mutate his servants, the primitive Massassi who once dwelled on Korriban, into deadly warriors.
 — Source: The Sith; Naga Sadow — Naga Sadow.
 Note (our notes, around the quote): Naga Sadow — Naga Sadow: "When Sadow was eventually defeated, he fled to the jungle planet of Yavin IV, where he used Sith alchemy and experimentation to mutate his servants, the primitive Massassi who once dwelled on Korriban, into deadly warriors." Source: The Old Republic Encyclopedia, p.155, sidebar
-![Quote image: The Old Republic Encyclopedia, p.155 — full quote as printed](quotes/tore-p155-when-sadow-was-eventually-defeated-he.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:110`
 
 > United by a dominating and all-powerful new Emperor, the Sith fled Korriban as Republic strike squads reduced their homeworld to ruin.
 — Source: The Sith; Vitiate (the Sith Emperor); Naga Sadow — Long Exile intro.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Naga Sadow — Long Exile intro: "United by a dominating and all-powerful new Emperor, the Sith fled Korriban as Republic strike squads reduced their homeworld to ruin." Source: The Old Republic Encyclopedia, p.156
-![Quote image: The Old Republic Encyclopedia, p.156 — full quote as printed](quotes/tore-p156-united-by-a-dominating-and-all.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:119`
 
 > To become Sith, an acolyte must face and conquer many trials. Each challenge tests combat prowess, talent with the dark side, and knowledge of the Sith Code. Such trials can occur anywhere on Korriban, from the dank cells of the Sith Academy jail to the deadly tomb of Naga Sadow.
 — Source: The Sith; Trials of the Sith (top-right).
 Note (our notes, around the quote): Trials of the Sith (top-right): "To become Sith, an acolyte must face and conquer many trials. Each challenge tests combat prowess, talent with the dark side, and knowledge of the Sith Code. Such trials can occur anywhere on Korriban, from the dank cells of the Sith Academy jail to the deadly tomb of Naga Sadow." Source: The Old Republic Encyclopedia, p.165, sidebar
-![Quote image: The Old Republic Encyclopedia, p.165 — full quote as printed](quotes/tore-p165-to-become-sith-an-acolyte-must.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:235`
 
 > The first great Kressh, Ludo, had already won a Kaggath when he battled Naga Sadow for the Empire's throne after the Sith ruler Marka Ragnos died. Ludo perished in a decisive fleet engagement, but his proud bloodline lived on.
 — Source: The Sith.
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow; Marka Ragnos — The Kressh Legacy (top-right): "The first great Kressh, Ludo, had already won a Kaggath when he battled Naga Sadow for the Empire's throne after the Sith ruler Marka Ragnos died. Ludo perished in a decisive fleet engagement, but his proud bloodline lived on." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-the-first-great-kressh-ludo-had.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:324`
 
 > DARK WEAPONS: Inquisitors unleash the dark side of the Force to destroy everything in their wake. … INFAMOUS RELICS OF DARK KNOWLEDGE: Phobis Devices—instruments of fear; Holocron of Exar Kun, which contains information on Force spirits; The interrogation blade of Yasoma; Holocron of Naga Sadow, which explores the secrets of Sith alchemy NOTABLE SITH INQUISITORS: Darth Jadus, Lord Vindican, Darth Baras, Naga Sadow
 > [fragment — full passage not on file]
 — Source: The Sith.
 Note (our notes, around the quote): Exar Kun; Naga Sadow; Darth Jadus; Darth Baras — Profile: Sith Inquisitor: "DARK WEAPONS: Inquisitors unleash the dark side of the Force to destroy everything in their wake. … INFAMOUS RELICS OF DARK KNOWLEDGE: Phobis Devices—instruments of fear; Holocron of Exar Kun, which contains information on Force spirits; The interrogation blade of Yasoma; Holocron of Naga Sadow, which explores the secrets of Sith alchemy NOTABLE SITH INQUISITORS: Darth Jadus, Lord Vindican, Darth Baras, Naga Sadow" Source: The Old Republic Encyclopedia, p.183, sidebar
-![Quote image: The Old Republic Encyclopedia, p.183 — full quote as printed](quotes/tore-p183-dark-weapons-inquisitors-unleash-the-dark.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:474`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:94`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:46`
 
 > Once the name of the warrior caste of the Sith species, the Massassi are now fearsome, red-skinned savages who haunt the jungles of worlds like Yavin IV. Occasionally the Massassi have been called to serve Sith Lords such as Exar Kun or Naga Sadow in war, and earned a reputation as ferocious warriors.
 — Source: Species, technology, planets and the future; Exar Kun; Naga Sadow — Sith Pureblood.
 Note (our notes, around the quote): Exar Kun; Naga Sadow — Sith Pureblood: "Once the name of the warrior caste of the Sith species, the Massassi are now fearsome, red-skinned savages who haunt the jungles of worlds like Yavin IV. Occasionally the Massassi have been called to serve Sith Lords such as Exar Kun or Naga Sadow in war, and earned a reputation as ferocious warriors." Source: The Old Republic Encyclopedia, p.256
-![Quote image: The Old Republic Encyclopedia, p.256 — full quote as printed](quotes/tore-p256-once-the-name-of-the-warrior.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:35`
 
 - Note (summary from our notes, not a quotation): Naga Sadow; Darth Vowrawn; Darth Ikoral — Sith Pureblood data box: "BIOLOGICAL TRAITS: Often Force-sensitive; may show more or fewer "pureblooded" features depending on lineage NOTABLE SITH PUREBLOODS: Darth Ikoral, Naga Sadow, Darth Vowrawn" Source: The Old Republic Encyclopedia, p.256
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.256 — full quote as printed](quotes/tore-p256-biological-traits-often-force-sensitive-may.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:39`
 
 > The vengeful, manipulative, and brilliant Naga Sadow led the Sith Empire's first clash against the Republic in the Great Hyperspace War. Though Naga Sadow died years later on Yavin IV, his tomb had already been carved into the Valley of the Dark Lords. To this day, Sith Lords vie to claim the artifacts sealed inside.
 — Source: Species, technology, planets and the future; Naga Sadow — Tomb of Naga Sadow (sidebar, zoomed).
 Note (our notes, around the quote): Naga Sadow — Tomb of Naga Sadow (sidebar, zoomed): "The vengeful, manipulative, and brilliant Naga Sadow led the Sith Empire's first clash against the Republic in the Great Hyperspace War. Though Naga Sadow died years later on Yavin IV, his tomb had already been carved into the Valley of the Dark Lords. To this day, Sith Lords vie to claim the artifacts sealed inside." Source: The Old Republic Encyclopedia, p.293, sidebar
-![Quote image: The Old Republic Encyclopedia, p.293 — full quote as printed](quotes/tore-p293-the-vengeful-manipulative-and-brilliant-naga.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:273`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -262,28 +244,24 @@ Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:27
 > He flew his warship between a tight binary star, the Denarii Nova, and used Sith powers to manipulate solar flares that destroyed the Republic ships in his wake.
 — Source: Part One: Tales of the Ancient Republic; Naga Sadow — Great Hyperspace War — Sadow's sorcery at Denarii Nova.
 Note (our notes, around the quote): Naga Sadow — Great Hyperspace War — Sadow's sorcery at Denarii Nova: "He flew his warship between a tight binary star, the Denarii Nova, and used Sith powers to manipulate solar flares that destroyed the Republic ships in his wake." Source: The New Essential Chronology, p.9
-![Quote image: The New Essential Chronology, p.9 — full quote as printed](quotes/nec-p9-great-hyperspace-war-sadows-sorcery-at.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:60`
 
 > Using Sith technology and sorcery, he cocooned himself in a suspended animation chamber
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Naga Sadow — Sadow's suspended animation on Yavin 4.
 Note (our notes, around the quote): Naga Sadow — Sadow's suspended animation on Yavin 4: "Using Sith technology and sorcery, he cocooned himself in a suspended animation chamber" Source: The New Essential Chronology, p.9
-![Quote image: The New Essential Chronology, p.9 — full quote as printed](quotes/nec-p9-sadows-suspended-animation-on-yavin-4.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:62`
 
 > Nadd awakened the ancient Sith Lord, and Sadow instructed the Jedi in the dark twistings of the Force. Freedon Nadd then killed his mentor
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Freedon Nadd; Naga Sadow — Freedon Nadd awakens and kills Sadow.
 Note (our notes, around the quote): Freedon Nadd; Naga Sadow — Freedon Nadd awakens and kills Sadow: "Nadd awakened the ancient Sith Lord, and Sadow instructed the Jedi in the dark twistings of the Force. Freedon Nadd then killed his mentor" Source: The New Essential Chronology, p.12
-![Quote image: The New Essential Chronology, p.12 — full quote as printed](quotes/nec-p12-freedon-nadd-awakens-and-kills-sadow.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:76`
 
 > From the Jedi library, Kun stole the original Sith Holocron used by Naga Sadow. Caretaker Odan-Urr was killed during the theft
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Odan-Urr — Kun steals the Sith Holocron, Odan-Urr killed: "From the Jedi library, Kun stole the original Sith Holocron used by Naga Sadow. Caretaker Odan-Urr was killed during the theft" Source: The New Essential Chronology, p.18
-![Quote image: The New Essential Chronology, p.18 — full quote as printed](quotes/nec-p18-kun-steals-the-sith-holocron-odan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:134`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -301,7 +279,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Palpatine (Darth Sidious) — Dark Side Spirit (template) — examples: "Naga Sadow, Freedon Nadd, and Exar Kun are just a few examples of former Sith Lords who have maintained a spiritual presence in the galaxy years and even centuries after they were thought to be dead. Even Emperor Palpatine manages to avoid permanent death for a while through means unknown to the vast majority of the galaxy's populace." Source: Jedi Academy Training Manual, p.118
-![Quote image: Jedi Academy Training Manual, p.118 — full quote as printed](quotes/jatm-p118-dark-side-spirit-template-examples.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:51`
 
 > Within these chambers also lie Sith holocrons and other dark side relics recovered from those who used them for their own dark purposes. Access to these items is understandably restricted.
@@ -313,7 +290,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Luke Skywalker — Yavin 4 Jedi Academy — why Yavin 4: "Yavin 4 is where the Sith Lord Naga Sadow created the Massassi people as merciless dark side warriors and Exar Kun corrupted several Jedi Knights and brought the wrath of the Republic down upon the moon. Luke Skywalker chooses the moon as the location of the New Jedi Order because of these dark side influences, as a means to test his students." Source: Jedi Academy Training Manual, p.154
-![Quote image: Jedi Academy Training Manual, p.154 — full quote as printed](quotes/jatm-p154-yavin-4-jedi-academy-why-yavin.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/07-ch7-studying-abroad-back-cover.md:33`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -323,25 +299,21 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/07-ch7-studying-abr
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Exar Kun; Naga Sadow: "The battle hydra was an example of Exar Kun's alchemical mastery and Naga Sadow's dark legacy." Source: The Complete Star Wars Encyclopedia, Vol. I, p.64
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.64 — full quote as printed](quotes/v1-p64-the-battle-hydra-was-an-example.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:310`
 
 > In the conflict, Gav's former friend, Aarrba the Hutt, was killed and Gav realized that he had made a grave error in trusting Naga Sadow.
 — Source: scan pages 161–200; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "In the conflict, Gav's former friend, Aarrba the Hutt, was killed and Gav realized that he had made a grave error in trusting Naga Sadow." Source: The Complete Star Wars Encyclopedia, Vol. I, p.165
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.165 — full quote as printed](quotes/v1-p165-in-the-conflict-gavs-former-friend.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:171`
 
 > Gorrm was killed when Ssk Kahorr and the Starbreaker 12 were destroyed by Naga Sadow.
 — Source: scan pages 361–398; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "Gorrm was killed when Ssk Kahorr and the Starbreaker 12 were destroyed by Naga Sadow." Source: The Complete Star Wars Encyclopedia, Vol. I, p.354
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.354 — full quote as printed](quotes/v1-p354-gorrm-was-killed-when-ssk-kahorr.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:78`
 
 > Meanwhile, Sadow defeated Kressh in an epic interstellar war in the Sith Empire, but his forces were unable to defend themselves against the might of Empress Teta's forces.
 — Source: scan pages 361–398; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "Meanwhile, Sadow defeated Kressh in an epic interstellar war in the Sith Empire, but his forces were unable to defend themselves against the might of Empress Teta's forces." Source: The Complete Star Wars Encyclopedia, Vol. I, p.363
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.363 — full quote as printed](quotes/v1-p363-meanwhile-sadow-defeated-kressh-in-an.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:141`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -349,43 +321,36 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > The ship was targeted and destroyed by Sith Lord Naga Sadow, killing Kahorr.
 — Source: scan pages 161–200; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "The ship was targeted and destroyed by Sith Lord Naga Sadow, killing Kahorr." Source: The Complete Star Wars Encyclopedia, Vol. II, p.192
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.192 — full quote as printed](quotes/v2-p192-the-ship-was-targeted-and-destroyed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:273`
 
 > Kressh, Ludo An ancient Sith magician, he was Naga Sadow's contemporary and rival for the position of Dark Lord of the Sith.
 — Source: scan pages 201–240; Ludo Kressh; Naga Sadow — entry/section: Kressh, Ludo.
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow — entry/section: Kressh, Ludo: "Kressh, Ludo An ancient Sith magician, he was Naga Sadow's contemporary and rival for the position of Dark Lord of the Sith." Source: The Complete Star Wars Encyclopedia, Vol. II, p.232
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.232 — full quote as printed](quotes/v2-p232-kressh-ludo-an-ancient-sith-magician.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:399`
 
 > Kressh was believed to have been killed over Khar Delba, where Naga Sadow's fleet destroyed Kressh's forces.
 — Source: scan pages 201–240; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "Kressh was believed to have been killed over Khar Delba, where Naga Sadow's fleet destroyed Kressh's forces." Source: The Complete Star Wars Encyclopedia, Vol. II, p.232
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.232 — full quote as printed](quotes/v2-p232-kressh-was-believed-to-have-been.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:401`
 
 > In the end, though, Sadow was able to use the dark side of the Force to coerce one of his own starship captains to ram Kressh's flagship, destroying the ship and killing Kressh in the explosion.
 — Source: scan pages 201–240; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "In the end, though, Sadow was able to use the dark side of the Force to coerce one of his own starship captains to ram Kressh's flagship, destroying the ship and killing Kressh in the explosion." Source: The Complete Star Wars Encyclopedia, Vol. II, p.232
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.232 — full quote as printed](quotes/v2-p232-in-the-end-though-sadow-was.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:403`
 
 > After his defeat, Sadow and his warriors fled to the far reaches of the galaxy, eventually landing on Yavin 4.
 — Source: scan pages 281–320; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "After his defeat, Sadow and his warriors fled to the far reaches of the galaxy, eventually landing on Yavin 4." Source: The Complete Star Wars Encyclopedia, Vol. II, p.292
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.292 — full quote as printed](quotes/v2-p292-after-his-defeat-sadow-and-his.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:153`
 
 > The sphere was ultimately destroyed, although Sadow escaped unharmed.
 — Source: scan pages 281–320; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "The sphere was ultimately destroyed, although Sadow escaped unharmed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.301
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.301 — full quote as printed](quotes/v2-p301-the-sphere-was-ultimately-destroyed-although.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:232`
 
 > When he felt strong enough, Nadd destroyed Sadow's spirit and set out to become the next Sith Lord.
 — Source: scan pages 361–400; Freedon Nadd; Naga Sadow — entry/section: Nadd, Freedon.
 Note (our notes, around the quote): Freedon Nadd; Naga Sadow — entry/section: Nadd, Freedon: "When he felt strong enough, Nadd destroyed Sadow's spirit and set out to become the next Sith Lord." Source: The Complete Star Wars Encyclopedia, Vol. II, p.355
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.355 — full quote as printed](quotes/v2-p355-when-he-felt-strong-enough-nadd.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:14`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -393,7 +358,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Soon after his demise, his ghostly visage appeared before Ludo Kressh and Naga Sadow, who were engaged in a duel to determine who would succeed Ragnos; the spirit urged the two aspiring Dark Lords to make peace in order to advance the Sith Empire.
 — Source: scan pages 41–80; Marka Ragnos; Ludo Kressh; Naga Sadow — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos; Ludo Kressh; Naga Sadow — entry/section: Ragnos, Marka: "Soon after his demise, his ghostly visage appeared before Ludo Kressh and Naga Sadow, who were engaged in a duel to determine who would succeed Ragnos; the spirit urged the two aspiring Dark Lords to make peace in order to advance the Sith Empire." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-soon-after-his-demise-his-ghostly.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:299`
 
 - Note (summary from our notes, not a quotation): Page contents: 903 words, 25 paragraphs | headings/entries: Sabé; Sabodor; Sacul, Jorg; Sadeet, Sish; Sadow, Naga
@@ -403,13 +367,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > He was eventually betrayed by Naga Sadow, who crushed the Sith warlord's life-support crystal and killed the wizened magician instantly.
 — Source: scan pages 121–160; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "He was eventually betrayed by Naga Sadow, who crushed the Sith warlord's life-support crystal and killed the wizened magician instantly." Source: The Complete Star Wars Encyclopedia, Vol. III, p.152
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.152 — full quote as printed](quotes/v3-p152-he-was-eventually-betrayed-by-naga.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:335`
 
 > By the time the Sith mobilized, Starbreaker 12 was under the ownership of the unscrupulous merchant Ssk Kahorr, who was killed when Sadow, in his first act of aggression after entering the Koros system, ordered the ship's total destruction.
 — Source: scan pages 161–200; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "By the time the Sith mobilized, Starbreaker 12 was under the ownership of the unscrupulous merchant Ssk Kahorr, who was killed when Sadow, in his first act of aggression after entering the Koros system, ordered the ship's total destruction." Source: The Complete Star Wars Encyclopedia, Vol. III, p.186
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.186 — full quote as printed](quotes/v3-p186-by-the-time-the-sith-mobilized.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:355`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -417,13 +379,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > Approximately four thousand years before the fall of the Old Republic, Dark Lord of the Sith Naga Sadow and his followers fled to Yavin 4 to escape the Jedi, who had defeated him in battle.
 — Source: Chapter Seven: Where the Force is strong; Index; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "Approximately four thousand years before the fall of the Old Republic, Dark Lord of the Sith Naga Sadow and his followers fled to Yavin 4 to escape the Jedi, who had defeated him in battle." Source: Power of the Jedi Sourcebook, p.138
-![Quote image: Power of the Jedi Sourcebook, p.138 — full quote as printed](quotes/potj-p138-approximately-four-thousand-years-before-the.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:54`
 
 > When Sadow finally met his end, the Massassi devolved into a primitive species, although they were still capable of using the dark side as their ancestors had.
 — Source: Chapter Seven: Where the Force is strong; Index; Naga Sadow. POV: Naga Sadow.
 Note (our notes, around the quote): Naga Sadow: "When Sadow finally met his end, the Massassi devolved into a primitive species, although they were still capable of using the dark side as their ancestors had." Source: Power of the Jedi Sourcebook, p.138
-![Quote image: Power of the Jedi Sourcebook, p.138 — full quote as printed](quotes/potj-p138-when-sadow-finally-met-his-end.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:56`
 
 ## The New Essential Guide to Characters (2002)
@@ -431,7 +391,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 > Sadow schemed to become the next Dark Lord by discrediting his rival Ludo Kressh, and the arrival of Republic explorers Jori and Gav Daragon provided the needed catalyst.
 — Source: scan pages 121–150; Naga Sadow; Ludo Kressh.
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "Sadow schemed to become the next Dark Lord by discrediting his rival Ludo Kressh, and the arrival of Republic explorers Jori and Gav Daragon provided the needed catalyst." Source: The New Essential Guide to Characters, p.142
-![Quote image: The New Essential Guide to Characters, p.142 — full quote as printed](quotes/negc-p142-sadow-schemed-to-become-the-next.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-121-150.md:90`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -441,13 +400,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/04-negc-scan-1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "As rival leaders Naga Sadow and Ludo Kressh struggled for the Dark Lord's crown, a pair of Republic hyper-space mappers arrived in Sith territory in their ship, Starbreaker 12." Source: Dark Side Sourcebook, p.7
-![Quote image: Dark Side Sourcebook, p.7 — full quote as printed](quotes/dss-p7-as-rival-leaders-naga-sadow-and.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/01-ch1-the-dark-side.md:19`
 
 > Former In addition to enough provisions to keep Maul (and Jedi Exar Kun, having turned to the dark side, arrived to up to six passengers-or captives) alive for a take possession of Sadow's long-forgotten refuge.
 — Source: Chapter Four: Dark Side Equipment, vehicles and starships; Darth Maul; Exar Kun; Naga Sadow.
 Note (our notes, around the quote): Darth Maul; Exar Kun; Naga Sadow: "Former In addition to enough provisions to keep Maul (and Jedi Exar Kun, having turned to the dark side, arrived to up to six passengers-or captives) alive for a take possession of Sadow's long-forgotten refuge." Source: Dark Side Sourcebook, p.63
-![Quote image: Dark Side Sourcebook, p.63 — full quote as printed](quotes/dss-p63-former-in-addition-to-enough-provisions.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/04-ch4-equipment.md:37`
 
 - Note (summary from our notes, not a quotation): Page contents: 623 words, 21 paragraphs | headings/entries: Naga Sadow. Sith Lord; When Marka Ragnos, the Dark Lord of
@@ -459,7 +416,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:17`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow: "Ludo Hressh, Aspiring Sith Lord The most powerful of the Sith to oppose Naga Sadow's rise to power was Ludo Kressh, a conservative among the Sith Lords, who believed that the Sith Empire must grow strong within itself before looking for new foes to conquer." Source: Dark Side Sourcebook, p.71
-![Quote image: Dark Side Sourcebook, p.71 — full quote as printed](quotes/dss-p71-ludo-hressh-aspiring-sith-lord-the.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:26`
 
 > Spirits of the dead have returned to their places of burial to control the living. Shambling monstrosities and insane spirits now guard their evil tombs. Witness the monsters of the dark side. The Physical World: Dark Creatures Battle Hydra Five thousand years before the Rebellion established a secret base on Yavin 4, Naga Sadow built temples there to focus the power of the dark side. Around the Massassi temples, the aura of the dark side mutated living creatures in the moon's lush jungle environment. When the tainted Jedi Exar Kun later commanded the Massassi to expand the temples, he altered many of these beasts even further as a test of his newfound Sith abilities. The battle hydra is an example of Exar Kun's alchemical mastery and Naga Sadow's dark legacy. While no two are identical, each fits the same general description: a large, dragon-like reptile with broad, leathery wings over 2 meters across and a trailing, hook-tipped tail. Most battle hydras have a pair of heads mounted on sinewy necks. (Variations on this theme are common: Luke Skywalker's Jedi academy students reported encounters with a three-headed variety with no forelegs.) The monster also wields a long, leathery tail like a whip, sinking its poisonous tip into foes and prey alike.
@@ -467,7 +423,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:26`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Exar Kun; Naga Sadow: "The battle hydra is an example of Exar Kun's alchemical mastery and Naga Sadow's dark legacy." Source: Dark Side Sourcebook, p.111
-![Quote image: Dark Side Sourcebook, p.111 — full quote as printed](quotes/dss-p111-the-battle-hydra-is-an-example.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:12`
 
 > Unknown to either the Massassi or Exar Kun, the spirit of Freedon Nadd was engineering this conflict to turn Exar Kun to the dark side. Freedon Nadd knew that Kun could only defeat the wyrm by taking up an ancient Sith amulet and focusing the energy of the dark side in concentrated blasts. The wyrm soon fell to Kun, who used his newfound power to destroy the spirit of Freedou Nadd as well. By then, however, Exar Kun was so fully enslaved by the dark side that it dominated his destiny forever. The Sith wyrm was once a larval space slug that had attached itself to the hull of Naga Sadow's battleship en route to Yavin. Sadow, failing to tame the creature and seeing little other use for it, chose to mutate it into a colossal monster capable of swallowing a Jedi in one gulp. It is unknown whether Sadow was able to encourage the slug to reproduce asexually; if so, many more such beasts may exist deep underground on Yavin 4. By the time of the Rebellion, most scholars believe that the wyrm of legend was the only one to surface in thousands of years. Let us hope they were correct.
@@ -475,7 +430,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow: "Sadow, failing to tame the creature and seeing little other use for it, chose to mutate it into a colossal monster capable of swallowing a Jedi in one gulp." Source: Dark Side Sourcebook, p.121
-![Quote image: Dark Side Sourcebook, p.121 — full quote as printed](quotes/dss-p121-sadow-failing-to-tame-the-creature.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes.md:90`
 
 > Finally, there is the Sith Empire. At the start of this age, the Sith Empire has been cut off from Republic space for thousands of years. While the Sith Empire has grown powerful, and individual Sith Lords have unlocked untold secrets of the dark side, the evil government has reached a period of crisis. The Empire has been slowly starving for centuries, gripped by a fierce and terrible hunger for fresh land and new resources. There appear to be no new worlds to conquer, no new enemies to subjugate and exploit. Factions have arisen, and two powerful Sith Lords vie for control of the stagnating Empire. Naga Sadow and Ludo KreSSh, rivals for the coveted title of Dark Lord of the Sith, gather supporters and prepare to launch a civil war that could very well destroy the Empire. Soon, hyperspace explorers from the Republic will inadvertently wander into Sith space. Then a new goal will suggest itself, offering a new hope to the floundering Empire. The Republic, unaware, unsuspecting, makes a tempting target. To expand the Sith Empire, the Sith Lords plan to launch a war of conquest against the Republic and revitalize the Sith's Golden Age.
@@ -483,7 +437,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/06-ch6-creatures-archetypes
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "Naga Sadow and Ludo KreSSh, rivals for the coveted title of Dark Lord of the Sith, gather supporters and prepare to launch a civil war that could very well destroy the Empire." Source: Dark Side Sourcebook, p.150
-![Quote image: Dark Side Sourcebook, p.150 — full quote as printed](quotes/dss-p150-naga-sadow-and-ludo-kressh-rivals.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:68`
 
 > The ineffectiveness and overt corruption of the Rise of the Empire era are still many millennia away at this point in time. The Sith This period begins with the Sith Empire still cut off from the Republic. In fact, neither the Republic nor the Sith believes that the other still exists-both have been reduced to the status of legends in the other's region of space. After a century of iron rule, Dark Lord Marka Ragnos has died, leaving a power vacuum that threatens to erupt in civil war. The Sith Empire has grown stagnant and is in need of new worlds to conquer and exploit. Many powerful Sith seek to gain control of the Empire. The strongest of these are Ludo Kressh and Naga Sadow, who both command impressive bands of followers from among the Sith. As these two rivals attempt to win the Empire, a hyperspace mapping ship from the Republic accidentally stumbles into Sith space. The feuding Sith Lords have no interest in peaceful trade with the Republic, however. The conservative Kressh believes the intrusion to be the precursor of invasion, while the ambitious Sadow sees an opportunity for conquest and glory. The Sith command vast armies of followers, including creatures they have mutated using Sith alchemy and magic.
@@ -491,7 +444,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:68`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Ludo Kressh; Naga Sadow: "The strongest of these are Ludo Kressh and Naga Sadow, who both command impressive bands of followers from among the Sith." Source: Dark Side Sourcebook, p.152
-![Quote image: Dark Side Sourcebook, p.152 — full quote as printed](quotes/dss-p152-the-strongest-of-these-are-ludo.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:80`
 
 > In Republic space, Sith heroes must deal with Republic agents of all types, corporate security forces, crime lords and their minions, pirates, raiders, and anyone else who considers them to be invaders. Eventually the focus will turn to the battle between light and dark as the war escalates, but save battles with Jedi for important adventures and climatic scenes. Adventure Hooks Here are a few story nuggets for a dark side campaign that you can develop into complete adventures. Each of these is set in the time of the Great Hyperspace War. Prove Your Loyalty Start up your dark side campaign by letting the Istlevel Sith heroes demonstrate their loyalty and devotion to the dark side and the Sith Lord they call master. Whether your heroes pledge allegiance to Naga Sadow or Ludo Kressh or some other rival Sith Lord, they need to prove themselves before earning the complete trust and respect of their leader. To accomplish this, the Sith Lord sends them on a mission to a distant part of the Sith Empire. On the planet Korriz, the Sith heroes must overtake the servants of Lord Garu before they reach the alchemy workshop of Tritos Nal. This ancient master of Sith magic has crafted a powerful Sith sword especially for Lord Garu. The Sith heroes are ordered to dispatch Garu's servants and "acquire" the weapon for their Patron.
@@ -499,7 +451,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:80`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Naga Sadow; Ludo Kressh: "Whether your heroes pledge allegiance to Naga Sadow or Ludo Kressh or some other rival Sith Lord, they need to prove themselves before earning the complete trust and respect of their leader." Source: Dark Side Sourcebook, p.155
-![Quote image: Dark Side Sourcebook, p.155 — full quote as printed](quotes/dss-p155-whether-your-heroes-pledge-allegiance-to.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:97`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -507,13 +458,11 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:97`
 > One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself, Vaa longed to revive the long-tost arts of Sith aleherny and create a store house of wicked creatures pulled from the chilling recesses of the dark side One of Vaa's test worlds was none other than Aduba-3, though the planet bore a dif ferent name at that time, It was the site of an early experiment.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Naga Sadow; Lord Kaan — entry/section: Star Wars Gamer 04.
 Note (our notes, around the quote): Naga Sadow; Lord Kaan — entry/section: Star Wars Gamer 04: "One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself, Vaa longed to revive the long-tost arts of Sith aleherny and create a store house of wicked creatures pulled from the chilling recesses of the dark side One of Vaa's test worlds was none other than Aduba-3, though the planet bore a dif ferent name at that time, It was the site of an early experiment." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.44
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.44 — full quote as printed](quotes/d053-s44-one-of-kaan-s-greatest-underlings.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:256`
 
 > One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Seviss Vaa; Lord Kaan — entry/section: Onacra's Secret: Seviss Vaa.
 Note (our notes, around the quote): Seviss Vaa; Lord Kaan — entry/section: Onacra's Secret: Seviss Vaa: "One of Kaan’s greatest underlings was the Sith Lord Seviss Vaa, a scholar who poured over ancient alchemical texts written by Naga Sadow himself." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.44
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.44 — full quote as printed](quotes/d053-s44-one-of-kaan-s-greatest-underlings-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:258`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -527,7 +476,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > Q: I've noticed there aren't many dark side Force powers used by dark Jedi that would make them particularly tough opponents if they were up against large numbers of characters. For example, in the Tales of the Jedi comics, Exar Kun held the entirety of the Republic senate immobile. And in another issue, Sith Lord Naga Sadow used the dark side to drag solar flares from a pair of binary suns, destroying a fleet that was pursuing him. Where are these powers?
 — Source: Jedi Counselling/Jedi Counseling 12 - Ewok Jedi?.pdf [Star Wars Roleplayi.
 Note (our notes, around the quote): Exar Kun; Naga Sadow — entry/section: Epic dark side powers (question): "Q: I've noticed there aren't many dark side Force powers used by dark Jedi that would make them particularly tough opponents if they were up against large numbers of characters. For example, in the Tales of the Jedi comics, Exar Kun held the entirety of the Republic senate immobile. And in another issue, Sith Lord Naga Sadow used the dark side to drag solar flares from a pair of binary suns, destroying a fleet that was pursuing him. Where are these powers?" Source: *Jedi Counseling 12 - Ewok Jedi?* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Jedi Counseling 12 - Ewok Jedi?* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d175-s1-q-ive-noticed-there-arent-many.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/175-jedi-counseling-12-ewok-jedi.md:12`
 
 - Note (summary from our notes, not a quotation): Exar Kun; Naga Sadow — entry/section: Why epic dark side powers were left out: "A: We deliberately chose not to include such powers in the game. Were they to exist in the game, darksiders could destroy entire planets or defeat entire cities at a time. That makes for a great epic story, but in games, where some level of balance is necessary, even with severe limitations, a character could probably use this ability several times in the course of his career. And that means that little or nothing could stand against such a character.
@@ -539,7 +487,6 @@ Our notes: `notes/materials/037-sw-d20-folder/175-jedi-counseling-12-ewok-jedi.m
 > The first name, at the top of the hall, is that of Naga Sadow, and it is widely believed that this is Darth Rivan's Sith lineage, which he traced back several thousand years.
 — Source: Living Force Campaign/Articles/Year 2/04:25:02 - The Sith Fortress.pdf [S; Darth Rivan — entry/section: Darth Rivan.
 Note (our notes, around the quote): Darth Rivan — entry/section: Darth Rivan: "The first name, at the top of the hall, is that of Naga Sadow, and it is widely believed that this is Darth Rivan's Sith lineage, which he traced back several thousand years." Source: *04:25:02 - The Sith Fortress* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *04:25:02 - The Sith Fortress* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d401-s2-the-first-name-at-the-top.jpg)
 Also cited as: SI respect-thread directory: Respect The Draggulch Sith (2022) — https://www.suspectinsightforums.com/t4446-respect-the-draggulch-sith-2022.
 Also noted as: Rivan might have written down his lineage, which goes back thousands of years and acknowledges Naga Sadow as his supposed ancestor:
 Our notes: `notes/materials/037-sw-d20-folder/401-04-25-02-the-sith-fortress.md:29`; `suspect-insight/respect-threads/thread-respect-the-draggulch-sith-2022.md:404`
@@ -553,7 +500,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Before the Sith invasion, Naga Sadow summoned his top commanders, including Ra- Zyrth, and used dark side alchemy to transform them into muscular monstrosities.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Ra-Zyrth; Naga Sadow — entry/section: Naga Sadow transforms his commanders: "Before the Sith invasion, Naga Sadow summoned his top commanders, including Ra- Zyrth, and used dark side alchemy to transform them into muscular monstrosities." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33 — full quote as printed](quotes/d665-s33-before-the-sith-invasion-naga-sadow.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:233`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -565,13 +511,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Yavin 4 was first settled some five thousand years before the Battle of Yavin by the Sith Lord Naga Sadow and his minions, among them members of the Sith warrior species known as the Massassi. Sadow forced the Massassi to construct great temples and used Sith sorcery to place himself in suspended animation.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Naga Sadow — entry/section: Naga Sadow settles Yavin 4.
 Note (our notes, around the quote): Naga Sadow — entry/section: Naga Sadow settles Yavin 4: "Yavin 4 was first settled some five thousand years before the Battle of Yavin by the Sith Lord Naga Sadow and his minions, among them members of the Sith warrior species known as the Massassi. Sadow forced the Massassi to construct great temples and used Sith sorcery to place himself in suspended animation." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153 — full quote as printed](quotes/d667-s153-yavin-4-was-first-settled-some.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:248`
 
 > Six centuries later, the Jedi Knight Freedon Nadd discovered Sadow’s resting place, guarded by the Massassi's degenerate descendents, and learned the Sith arts on the jungle moon.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Freedon Nadd; Naga Sadow — entry/section: Freedon Nadd on Yavin 4: "Six centuries later, the Jedi Knight Freedon Nadd discovered Sadow’s resting place, guarded by the Massassi's degenerate descendents, and learned the Sith arts on the jungle moon." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.153 — full quote as printed](quotes/d667-s153-six-centuries-later-the-jedi-knight.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-121-162.md:250`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -598,7 +542,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > Though Sadow's ship, under Exar Kun's control, would eventually be destroyed at the conclusion of the war, knowledge of the ship's construction is handed down to a small number of Sith exiles who kept the secret of the ship's design.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Naga Sadow; Exar Kun. POV: Exar Kun; about Naga Sadow.
 Note (our notes, around the quote): Naga Sadow; Exar Kun: "Though Sadow's ship, under Exar Kun's control, would eventually be destroyed at the conclusion of the war, knowledge of the ship's construction is handed down to a small number of Sith exiles who kept the secret of the ship's design." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.164
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.164 — full quote as printed](quotes/d718-s164-though-sadows-ship-under-exar-kuns.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:480`
 
 ## Sourcebooks/The Unknown Regions.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)

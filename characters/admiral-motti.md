@@ -56,7 +56,6 @@ Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:294`
 > The actual crushing of the officer's neck was produced by putting some walnut shells in a grapefruit rind and then crushing the whole thing, so you got a smooshing and crackling all at the same time. It seemed to sound like his neck was being broken.
 — Source: Star Wars Insider #96 (2007); Admiral Motti; Darth Vader (Anakin Skywalker) — entry/section: Walnut shells.
 Note (our notes, around the quote): Admiral Motti; Darth Vader (Anakin Skywalker) — entry/section: Walnut shells: ""The actual crushing of the officer's neck was produced by putting some walnut shells in a grapefruit rind and then crushing the whole thing, so you got a smooshing and crackling all at the same time. It seemed to sound like his neck was being broken." —Ben Burtt, Star Wars Insider 96, p. 58" Source: *Star Wars Insider #96* (2007), scan p.58
-![Quote image: *Star Wars Insider #96* (2007), scan p.58 — full quote as printed](quotes/ins096-s58-the-actual-crushing-of-the-officers.jpg)
 Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:535`
 
 ## Star Wars Insider #111 (2009)

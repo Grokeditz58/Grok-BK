@@ -29,13 +29,11 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-10
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Zardra — entry/section: Cloud Cover.
 Note (our notes, around the quote): Zardra — entry/section: Cloud Cover: "the heroes get to see the cold, calculated killer that hides behind the beauty and professionalism" Source: *Star Wars Gamer 03* (SWRPG d20), scan p.85
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.85 — full quote as printed](quotes/d052-s85-the-heroes-get-to-see-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:155`
 
 > She lets the heroes believe that Boba Fett is her partner (if they mention that name), or otherwise simply calls her associate The Bounty Hunter.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Zardra; Boba Fett — entry/section: Cloud Cover.
 Note (our notes, around the quote): Zardra; Boba Fett — entry/section: Cloud Cover: "She lets the heroes believe that Boba Fett is her partner (if they mention that name), or otherwise simply calls her associate The Bounty Hunter." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.85
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.85 — full quote as printed](quotes/d052-s85-she-lets-the-heroes-believe-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:157`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)

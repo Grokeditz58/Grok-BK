@@ -40,7 +40,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:957`
 > THEIR DEATHS WOULD ONLY HAVE CONFIRMED OUR PRESENCE, CHOKA SKELL.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Restraint. p96: Liaan Lah.
 Note (our notes, around the quote): Restraint. p96: Liaan Lah: "WE SHOULD HAVE FACED THEM LIKE WARRIORS AND SLAIN THEM ALL." · K'Kruhk (likely, by tail): "THEIR DEATHS WOULD ONLY HAVE CONFIRMED OUR PRESENCE, CHOKA SKELL." No combat on panel for any of them.
-![p96 Shado: THERE IS NO ONE ON OSSUS](013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
+![p96 Shado: THERE IS NO ONE ON OSSUS](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:416`
 
 # Debate and forum claims (unverified)

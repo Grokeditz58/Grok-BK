@@ -14,7 +14,6 @@
 > Korriban was wrought by the true-blooded Sith millennia ago.
 — Source: Species, technology, planets and the future; Lord Abaron — Korriban pull-quote.
 Note (our notes, around the quote): Lord Abaron — Korriban pull-quote: ""Korriban was wrought by the true-blooded Sith millennia ago." Sith Lord Abaron" Source: The Old Republic Encyclopedia, p.290
-![Quote image: The Old Republic Encyclopedia, p.290 — full quote as printed](quotes/tore-p290-korriban-was-wrought-by-the-true.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:248`
 
 # Debate and forum claims (unverified)

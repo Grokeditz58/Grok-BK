@@ -14,148 +14,124 @@
 > In light of the Empire's successful deception, Sith Lord Baras presented a new treaty with terms that heavily favored the Sith Empire.
 — Source: The Galactic Republic; Darth Baras — Treaty of Coruscant box.
 Note (our notes, around the quote): Darth Baras — Treaty of Coruscant box: "In light of the Empire's successful deception, Sith Lord Baras presented a new treaty with terms that heavily favored the Sith Empire." Source: The Old Republic Encyclopedia, p.27
-![Quote image: The Old Republic Encyclopedia, p.27 — full quote as printed](quotes/tore-p27-in-light-of-the-empire-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:44`
 
 > While attending the peace talks on Alderaan, she sensed the smug satisfaction of Sith Lord Baras as the Empire sacked Coruscant.
 — Source: The Galactic Republic; Dar'Nala; Darth Baras — Sabotaging the Peace: Dar'Nala.
 Note (our notes, around the quote): Dar'Nala; Darth Baras — Sabotaging the Peace: Dar'Nala: "While attending the peace talks on Alderaan, she sensed the smug satisfaction of Sith Lord Baras as the Empire sacked Coruscant." Source: The Old Republic Encyclopedia, p.32
-![Quote image: The Old Republic Encyclopedia, p.32 — full quote as printed](quotes/tore-p32-while-attending-the-peace-talks-on.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:73`
 
 > In time, Nomen Karr met the Sith Lord Darth Baras, and the two of them became friends. However, Darth Baras had begun to suspect that there was an infiltrator in the Sith and eventually uncovered Nomen Karr's deception.
 — Source: The Jedi Order; Nomen Karr; Darth Baras — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr; Darth Baras — Master Nomen Karr profile: "In time, Nomen Karr met the Sith Lord Darth Baras, and the two of them became friends. However, Darth Baras had begun to suspect that there was an infiltrator in the Sith and eventually uncovered Nomen Karr's deception." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-in-time-nomen-karr-met-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:132`
 
 > He has devoted himself to uncovering these spies with the help of his new Padawan, Jaesa Willsaam, said to possess the ability to discern the true nature of any being. But Darth Baras has not forgotten the betrayal of his former friend. Both men know there will eventually be a reckoning between them.
 — Source: The Jedi Order; Nomen Karr; Darth Baras; Jaesa Willsaam — Master Nomen Karr profile.
 Note (our notes, around the quote): Nomen Karr; Darth Baras; Jaesa Willsaam — Master Nomen Karr profile: "He has devoted himself to uncovering these spies with the help of his new Padawan, Jaesa Willsaam, said to possess the ability to discern the true nature of any being. But Darth Baras has not forgotten the betrayal of his former friend. Both men know there will eventually be a reckoning between them." Source: The Old Republic Encyclopedia, p.77, sidebar
-![Quote image: The Old Republic Encyclopedia, p.77 — full quote as printed](quotes/tore-p77-he-has-devoted-himself-to-uncovering.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:134`
 
 > FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran
 > [fragment — full passage not on file]
 — Source: The Jedi Order.
 Note (our notes, around the quote): Satele Shan; Darth Malgus; Darth Baras; Hero of Tython (Jedi Knight) — Satele data box: "FAMOUS ALLIES: The Hero of Tython, former Havoc Squad commander Jace Malcom, smuggler Nico Okarr, Supreme Chancellor Janarus NOTORIOUS ENEMIES: Darth Malgus, Thresh-ahantu Azuloz, Darth Baras, Grand Moff Kilran" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-famous-allies-the-hero-of-tython.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:202`
 
 > Tremel's plans were soon disrupted when his mixed-blood acolyte Vemrin earned the favor of Darth Baras. Desperate to block Vemrin's ascension to power, Overseer Tremel recruited a powerful new acolyte to destroy Vemrin and replace him as Baras's apprentice.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Overseer Tremel.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Overseer Tremel: "Tremel's plans were soon disrupted when his mixed-blood acolyte Vemrin earned the favor of Darth Baras. Desperate to block Vemrin's ascension to power, Overseer Tremel recruited a powerful new acolyte to destroy Vemrin and replace him as Baras's apprentice." Source: The Old Republic Encyclopedia, p.165, sidebar
-![Quote image: The Old Republic Encyclopedia, p.165 — full quote as printed](quotes/tore-p165-tremel-s-plans-were-soon-disrupted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:239`
 
 > Rumors spread that Darth Baras himself masterminded Tremel's downfall, but the truth remains a mystery.
 — Source: The Sith; Darth Baras — Overseer Tremel.
 Note (our notes, around the quote): Darth Baras — Overseer Tremel: "Rumors spread that Darth Baras himself masterminded Tremel's downfall, but the truth remains a mystery." Source: The Old Republic Encyclopedia, p.165, sidebar
-![Quote image: The Old Republic Encyclopedia, p.165 — full quote as printed](quotes/tore-p165-rumors-spread-that-darth-baras-himself.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:241`
 
 > Darth Baras notably exterminated the entire rival Jarastok family in a process that took a decade to complete.
 — Source: The Sith; Darth Baras — Dark Conspirators.
 Note (our notes, around the quote): Darth Baras — Dark Conspirators: "Darth Baras notably exterminated the entire rival Jarastok family in a process that took a decade to complete." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-darth-baras-notably-exterminated-the-entire.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:270`
 
 > The inscrutable mask worn by Darth Baras projects a facade of impassive calm, but seething rage lurks beneath it.
 — Source: The Sith; Darth Baras — Caption.
 Note (our notes, around the quote): Darth Baras — Caption: "The inscrutable mask worn by Darth Baras projects a facade of impassive calm, but seething rage lurks beneath it." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-the-inscrutable-mask-worn-by-darth.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:272`
 
 > Deceptive spymaster, calculating diplomat, and a powerful Sith Lord aspiring to join the Dark Council, the manipulative Darth Baras has served many vital roles in the Empire. Baras first honed his powers with the dark side of the Force under the instruction of his Master, Darth Vengean. But where Vengean relished brute force, Baras favored tearing down his opponents through cunning and sabotage.
 — Source: The Sith; Darth Baras — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras — Darth Baras (top-right): "Deceptive spymaster, calculating diplomat, and a powerful Sith Lord aspiring to join the Dark Council, the manipulative Darth Baras has served many vital roles in the Empire. Baras first honed his powers with the dark side of the Force under the instruction of his Master, Darth Vengean. But where Vengean relished brute force, Baras favored tearing down his opponents through cunning and sabotage." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-deceptive-spymaster-calculating-diplomat-and-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:388`
 
 > With support from his sister, the Sith assassin Darth Ekkage, Baras formed a vast network of spies … By the final days of the Great War, Baras had minions embedded in every level of the Republic.
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Baras — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras — Darth Baras (top-right): "With support from his sister, the Sith assassin Darth Ekkage, Baras formed a vast network of spies … By the final days of the Great War, Baras had minions embedded in every level of the Republic." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-with-support-from-his-sister-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:390`
 
 > Lord Retrost was in fact a Jedi named Nomen Karr who sought to infiltrate the Sith and expose their deceptions. Baras exposed Nomen Karr, attacked the Jedi, and drove the wounded spy from the Empire. Revenge consumed Baras for years after as he plotted the destruction of the only Jedi ever to deceive him.
 — Source: The Sith; Darth Baras; Nomen Karr — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras; Nomen Karr — Darth Baras (top-right): "Lord Retrost was in fact a Jedi named Nomen Karr who sought to infiltrate the Sith and expose their deceptions. Baras exposed Nomen Karr, attacked the Jedi, and drove the wounded spy from the Empire. Revenge consumed Baras for years after as he plotted the destruction of the only Jedi ever to deceive him." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-lord-retrost-was-in-fact-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:392`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:88`; `legends-feats.md:748`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:39`
 
 > Determined to seize his Master's Dark Council seat, Darth Baras set a plan in motion to hasten Vengean's downfall. His plot would take years, starting as Baras himself officiated the peace talks that ultimately ended the war.
 — Source: The Sith; Darth Baras — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras — Darth Baras (top-right): "Determined to seize his Master's Dark Council seat, Darth Baras set a plan in motion to hasten Vengean's downfall. His plot would take years, starting as Baras himself officiated the peace talks that ultimately ended the war." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-determined-to-seize-his-master-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:394`
 
 > FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Data box.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Data box: "FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-family-darth-ekkage-sister-rivals-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:396`
 
 > One such Force-sensitive is fated to rise rapidly to power and become one of the most powerful Sith in the galaxy. Under the instruction of Overseer Tremel, this privileged acolyte begins an accelerated training regimen in the Sith Academy of Korriban. The acolyte conquers the Sith trials, dominates the other students, and displays unrivaled strength in battle to become the cunning Sith Lord Darth Baras's apprentice and the Empire's newest, most promising Sith warrior.
 — Source: The Sith; Emperor's Wrath (Sith Warrior); Darth Baras — Path of Destruction intro.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras — Path of Destruction intro: "One such Force-sensitive is fated to rise rapidly to power and become one of the most powerful Sith in the galaxy. Under the instruction of Overseer Tremel, this privileged acolyte begins an accelerated training regimen in the Sith Academy of Korriban. The acolyte conquers the Sith trials, dominates the other students, and displays unrivaled strength in battle to become the cunning Sith Lord Darth Baras's apprentice and the Empire's newest, most promising Sith warrior." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-one-such-force-sensitive-is-fated.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:430`
 
 > Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work.
 — Source: The Sith; Jaesa Willsaam; Nomen Karr — Hunt for the Padawan.
 Note (our notes, around the quote): Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "Together, Master and apprentice discover the threat: a young Padawan with the ability to discern the true nature of any being. Guided by Jedi Master Nomen Karr, an old rival of Darth Baras, this Padawan uses the Force to sense the embedded spies and single-handedly tears down decades of Baras's work." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-together-master-and-apprentice-discover-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:432`
 
 > The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Jaesa Willsaam; Nomen Karr — Hunt for the Padawan: "The Sith warrior ultimately strikes down Nomen Karr and holds the Jedi Master captive to draw Jaesa from her seclusion. Jaesa fights valiantly to save her Master, but the Sith's strength in the dark side overpowers the fledgling Padawan. The Sith warrior then breaks Jaesa and takes her as an apprentice, saving Darth Baras's spy network and dealing the final devastating blow to the Jedi Master Nomen Karr." Source: The Old Republic Encyclopedia, p.178
-![Quote image: The Old Republic Encyclopedia, p.178 — full quote as printed](quotes/tore-p178-the-sith-warrior-ultimately-strikes-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:434`
 
 > But when Darth Baras secretly betrays his Master and leads Vengean's flagship into a Republic ambush, Vengean loses face in the Empire. On Darth Baras's bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth Baras claims his former Master's Dark Council seat and the galaxy erupts once more into open warfare.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras; Darth Vengean — Plan Zero (top-right): "But when Darth Baras secretly betrays his Master and leads Vengean's flagship into a Republic ambush, Vengean loses face in the Empire. On Darth Baras's bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth Baras claims his former Master's Dark Council seat and the galaxy erupts once more into open warfare." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-but-when-darth-baras-secretly-betrays.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:436`
 
 > A subterranean cave-in nearly crushes the Sith, until the wounded Sith Lord is saved from the rubble by a secretive and mysterious group known as the Emperor's Hand. They anoint the Sith warrior as the Emperor's personal executioner—the Emperor's Wrath. The Hand then reveals that Darth Baras intends to usurp the Emperor's power, an act of treason only made possible because the absent Emperor is preparing for a greater calling.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras; Vitiate (the Sith Emperor) — Revenge of the Wrath: "A subterranean cave-in nearly crushes the Sith, until the wounded Sith Lord is saved from the rubble by a secretive and mysterious group known as the Emperor's Hand. They anoint the Sith warrior as the Emperor's personal executioner—the Emperor's Wrath. The Hand then reveals that Darth Baras intends to usurp the Emperor's power, an act of treason only made possible because the absent Emperor is preparing for a greater calling." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-a-subterranean-cave-in-nearly-crushes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:438`
 
 > The Wrath emerges triumphant, striking down the ruined and seething Darth Baras. With vengeance delivered and the Emperor's will satisfied, the Dark Council bows to the unquestionable might of the Emperor's Wrath.
 — Source: The Sith; Emperor's Wrath (Sith Warrior); Darth Baras — Revenge of the Wrath.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras — Revenge of the Wrath: "The Wrath emerges triumphant, striking down the ruined and seething Darth Baras. With vengeance delivered and the Emperor's will satisfied, the Dark Council bows to the unquestionable might of the Emperor's Wrath." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-the-wrath-emerges-triumphant-striking-down.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:440`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:152`
 
 > Her faith in the Jedi Order and the light side of the Force are ultimately challenged by Darth Baras's powerful apprentice, a mighty Sith warrior who promises to free Jaesa from the hypocrisy of her former Jedi Master.
 — Source: The Sith; Jaesa Willsaam; Emperor's Wrath (Sith Warrior) — Jaesa Willsaam.
 Note (our notes, around the quote): Jaesa Willsaam; Emperor's Wrath (Sith Warrior) — Jaesa Willsaam: "Her faith in the Jedi Order and the light side of the Force are ultimately challenged by Darth Baras's powerful apprentice, a mighty Sith warrior who promises to free Jaesa from the hypocrisy of her former Jedi Master." Source: The Old Republic Encyclopedia, p.180
-![Quote image: The Old Republic Encyclopedia, p.180 — full quote as printed](quotes/tore-p180-her-faith-in-the-jedi-order.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:457`
 
 > He quickly distinguished himself as a confident strategist, drawing the eye of Darth Baras. Quinn was recruited into Baras's spy network.
 — Source: The Sith; Darth Baras — Malavai Quinn.
 Note (our notes, around the quote): Darth Baras — Malavai Quinn: "He quickly distinguished himself as a confident strategist, drawing the eye of Darth Baras. Quinn was recruited into Baras's spy network." Source: The Old Republic Encyclopedia, p.181, sidebar
-![Quote image: The Old Republic Encyclopedia, p.181 — full quote as printed](quotes/tore-p181-he-quickly-distinguished-himself-as-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:459`
 
 > DARK WEAPONS: Inquisitors unleash the dark side of the Force to destroy everything in their wake. … INFAMOUS RELICS OF DARK KNOWLEDGE: Phobis Devices—instruments of fear; Holocron of Exar Kun, which contains information on Force spirits; The interrogation blade of Yasoma; Holocron of Naga Sadow, which explores the secrets of Sith alchemy NOTABLE SITH INQUISITORS: Darth Jadus, Lord Vindican, Darth Baras, Naga Sadow
 > [fragment — full passage not on file]
 — Source: The Sith.
 Note (our notes, around the quote): Exar Kun; Naga Sadow; Darth Jadus; Darth Baras — Profile: Sith Inquisitor: "DARK WEAPONS: Inquisitors unleash the dark side of the Force to destroy everything in their wake. … INFAMOUS RELICS OF DARK KNOWLEDGE: Phobis Devices—instruments of fear; Holocron of Exar Kun, which contains information on Force spirits; The interrogation blade of Yasoma; Holocron of Naga Sadow, which explores the secrets of Sith alchemy NOTABLE SITH INQUISITORS: Darth Jadus, Lord Vindican, Darth Baras, Naga Sadow" Source: The Old Republic Encyclopedia, p.183, sidebar
-![Quote image: The Old Republic Encyclopedia, p.183 — full quote as printed](quotes/tore-p183-dark-weapons-inquisitors-unleash-the-dark.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:474`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:94`; `suspect-insight/debates/109-ben-skywalker-vs-darth-baras.md:46`
 
 > When Darth Baras desired a mask to match his indomitable secrecy, he disappeared for months before emerging as a masked entity of deceit.
 — Source: The Sith; Darth Baras — Masks of Darkness.
 Note (our notes, around the quote): Darth Baras — Masks of Darkness: "When Darth Baras desired a mask to match his indomitable secrecy, he disappeared for months before emerging as a masked entity of deceit." Source: The Old Republic Encyclopedia, p.188
-![Quote image: The Old Republic Encyclopedia, p.188 — full quote as printed](quotes/tore-p188-when-darth-baras-desired-a-mask.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:537`
 
 ## Star Wars Insider #110 (2009)

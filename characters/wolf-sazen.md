@@ -27,7 +27,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:7
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Wolf Sazen: "He survived a devastating Sith attack on the Jedi Temple on Ossus, piloting a ship that carried the last Jedi survivors, including many Padawans and Jedi Master Wolf Sazen." Source: *Web Articles* (SWRPG Saga Edition), scan p.308
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.308 — full quote as printed](quotes/d732-s308-he-survived-a-devastating-sith-attack.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:82`
 
 ## Star Wars Insider #88 (2006)
@@ -243,7 +242,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:625`
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Our notes: `notes/materials/009-legacy-book-1.md:659`
 
-- Note (summary from our notes, not a quotation): ![p18 Nihl vs Wolf Sazen, Ossus](009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p18 Nihl vs Wolf Sazen, Ossus](../notes/materials/009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p18 Nihl vs Wolf Sazen, Ossus — `p018-nihl-vs-wolf-sazen-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:661`
@@ -270,7 +269,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:765`
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Our notes: `notes/materials/009-legacy-book-1.md:907`
 
-- Note (summary from our notes, not a quotation): ![p332 Sazen senses Cade across the galaxy](009-legacy-book-1-panels/p332-sazen-senses-cade-from-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p332 Sazen senses Cade across the galaxy](../notes/materials/009-legacy-book-1-panels/p332-sazen-senses-cade-from-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p332 Sazen senses Cade across the galaxy — `p332-sazen-senses-cade-from-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:919`
@@ -334,7 +333,7 @@ Our notes: `notes/materials/010-legacy-war.md:54`
 
 - Note (summary from our notes, not a quotation): Cade's vision and the *Mynock* (p5–9). In a recurring vision Cade, with orange Sith eyes, cuts down Sazen and Rawk for Krayt (p5). He tells Sazen and the crew he must kill Krayt (p6–9).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p6 Sazen: "THERE IS NO DEATH, CADE..."](010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
+![p6 Sazen: "THERE IS NO DEATH, CADE..."](../notes/materials/010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
 Our notes: `notes/materials/010-legacy-war.md:85`
 
 - Note (summary from our notes, not a quotation): The *Darklight* (p27–31). Cade and Sazen board the cruiser at Falleen, with Rogue Squadron and the *Mynock* in support. Cade drops "BOOM" down the reactor and records a message for Krayt, and the ship falls.
@@ -361,21 +360,21 @@ Our notes: `notes/materials/010-legacy-war.md:314`
 > THERE IS NO DEATH, CADE...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p6 Sazen.
-Note (our notes, around the quote): ![p6 Sazen: "THERE IS NO DEATH, CADE..."](010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
+Note (our notes, around the quote): ![p6 Sazen: "THERE IS NO DEATH, CADE..."](../notes/materials/010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
 (*Panel: p6 — `p006-sazen-there-is-no-death.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:319`
 
 > "BOOM'S AWAY!" · "JUST SENDING ALONG A MESSAGE TO THE ONE SITH. I WANT KRAYT TO KNOW I BLEW UP HIS SHIP." · (p36) "C'MON, VEDO. I TOOK OUT A STAR DESTROYER."
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 3. *Darklight* sabotage at Falleen. p27–31 (#2)
-![p29 Cade and Sazen fight aboard the Darklight](010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
-![p31 The Darklight's core chain reaction; the cruiser crashes](010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
+![p29 Cade and Sazen fight aboard the Darklight](../notes/materials/010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
+![p31 The Darklight's core chain reaction; the cruiser crashes](../notes/materials/010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
 Our notes: `notes/materials/010-legacy-war.md:331`
 
 - Note (summary from our notes, not a quotation): Cade and Sazen fight stormtroopers and a red-saber Sith (p29). Planted charges set off a core chain reaction and the cruiser crashes (p31).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p29 Cade and Sazen fight aboard the Darklight](010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
-![p31 The Darklight's core chain reaction; the cruiser crashes](010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
+![p29 Cade and Sazen fight aboard the Darklight](../notes/materials/010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
+![p31 The Darklight's core chain reaction; the cruiser crashes](../notes/materials/010-legacy-war-panels/p031-darklight-core-chain-reaction-crash.jpg) *(p31)*
 Our notes: `notes/materials/010-legacy-war.md:336`
 
 > "WRONG. KRAYT WANTS CHAOS -- TO FLUSH HIS PREY OUT INTO THE OPEN." · "THE SITH THINK THE JEDI ARE HIDING AND DEFENSELESS, BUT TAIVAS IS A NATURAL FORTRESS. LURE THEM IN -- COMBINE FORCES TO CRUSH THEM BETWEEN THE PLANET AND SPACE!" · "HIDE THEM HERE -- DEEP IN THE CAVES, AND EVACUATE THEM LATER. YOU GOTTA BE WILLING TO TAKE SOME RISK!" · Sazen: "LIKE YOU DID ON UTAPAU?" · Cade: "EXACTLY LIKE I DID ON UTAPAU! WE ALL GOT OUR PART TO PLAY -- EVEN THE YOUNGLINGS. YOU DON'T WIN BY PLAYING SAFE."
@@ -416,37 +415,37 @@ Our notes: `notes/materials/010-legacy-war.md:578`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p6–7 (#1).
 Note (our notes, around the quote): p6–7 (#1): "THERE IS NO DEATH, CADE..." He warns Cade about the dark side.
-![p6 Sazen: "THERE IS NO DEATH, CADE..."](010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
+![p6 Sazen: "THERE IS NO DEATH, CADE..."](../notes/materials/010-legacy-war-panels/p006-sazen-there-is-no-death.jpg)
 Our notes: `notes/materials/010-legacy-war.md:766`
 
 - Note (summary from our notes, not a quotation): p28–30 (#2): boards the *Darklight* with Cade and Force-pushes a trooper (p29).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p29 Cade and Sazen fight aboard the Darklight](010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
+![p29 Cade and Sazen fight aboard the Darklight](../notes/materials/010-legacy-war-panels/p029-cade-sazen-darklight-boarding.jpg) *(p29)*
 Our notes: `notes/materials/010-legacy-war.md:767`
 
 > RIGHT WHERE WE WANT 'EM, SHADO!
 >
 > YOU DEAL DEATH WITHOUT COMPUNCTION, SHADO.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p67 (#3).
-![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
 Our notes: `notes/materials/010-legacy-war.md:769`
 
 > TIME'S UP! THE FLEET IS ARRIVING NOW! WE MUST DISABLE THESE COMPUTERS!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p102 (#5).
-![p102 TIME'S UP! WE MUST DISABLE THESE COMPUTERS; vs a Sith trooper](010-legacy-war-panels/p102-time-is-up-disable-computers-sith-trooper.jpg) *(p102)*
+![p102 TIME'S UP! WE MUST DISABLE THESE COMPUTERS; vs a Sith trooper](../notes/materials/010-legacy-war-panels/p102-time-is-up-disable-computers-sith-trooper.jpg) *(p102)*
 Our notes: `notes/materials/010-legacy-war.md:770`
 
 > CADE, YOU ARE CERTAIN ABOUT THIS? YOU DO NOT HAVE TO FACE KRAYT ALONE.
 >
 > I'M PROUD OF YOU, MY FORMER APPRENTICE. THE FORCE WILL BE WITH YOU.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p106 (#5).
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
 Our notes: `notes/materials/010-legacy-war.md:772`
 
 > SHADO AND I LEARNED ABOUT THE SECRET TUNNELS IN AND OUT OF THIS PLACE WHEN WE WERE KIDS...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p110 (#5).
-![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
+![p110 "WELCOME HOME, CADE SKYWALKER." / "OH YEAH."](../notes/materials/010-legacy-war-panels/p110-talon-welcome-home-oh-yeah.jpg)
 Our notes: `notes/materials/010-legacy-war.md:773`
 
 - Note (summary from our notes, not a quotation): SAZEN vs STRYFE, p113–114 (#5):
@@ -456,31 +455,31 @@ Our notes: `notes/materials/010-legacy-war.md:774`
 - Note (summary from our notes, not a quotation): Stryfe challenges. Cade: "MASTER?" / "NO." The "NO." balloon is in Cade's panel; giving it to Cade is a reading.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels. POV: Stryfe challenges. Cade.
 Context: SAZEN vs STRYFE, p113–114 (#5):
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:775`
 
 - Note (summary from our notes, not a quotation): Sazen leaps down on Stryfe. The two pass each other in one exchange: Sazen's green blade cuts through Stryfe's torso as Stryfe's red blade passes through Sazen's midsection.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: SAZEN vs STRYFE, p113–114 (#5):
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:776`
 
 - Note (summary from our notes, not a quotation): Stryfe lies face-down beside Sazen's empty-looking robes, belt and hilt. Reading: Sazen's body vanished into the Force; zoom-checked, but not certain.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: SAZEN vs STRYFE, p113–114 (#5):
-![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:777`
 
 > I'M PROUD OF YOU, MY FORMER APPRENTICE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p106.
-Note (our notes, around the quote): ![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
+Note (our notes, around the quote): ![p106 "I'M PROUD OF YOU, MY FORMER APPRENTICE."](../notes/materials/010-legacy-war-panels/p106-sazen-proud-of-you.jpg)
 (*Panel: p106 — `p106-sazen-proud-of-you.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:779`
 
-- Note (summary from our notes, not a quotation): ![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p114 — `p114-sazen-stryfe-mutual-kill.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:782`
@@ -546,7 +545,7 @@ Our notes: `notes/materials/010-legacy-war.md:1211`
 
 - Note (summary from our notes, not a quotation): Sazen's body: p114's robes look empty (vanished into the Force by reading; not certain).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
+![p114 Sazen and Stryfe kill each other; Talon: "CADE IS... STRONGER..."](../notes/materials/010-legacy-war-panels/p114-sazen-stryfe-mutual-kill.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1260`
 
 ## Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels
@@ -555,9 +554,9 @@ Our notes: `notes/materials/010-legacy-war.md:1260`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Jedi numbers: Wolf Sazen is CL15 (UtF +19), but his build is purely defensive and utility, with no battle strike and no multi-attack. Kol Skywalker is CL14 with UtF +20 and Strong in the Force, and "falls while fighting off a torrent of Sith attackers, including Darth Nihl" (p196). Early-series Cade is only CL11: UtF +12 per the Force Powers line (+11 per Skills), lightsaber +11, plus dark transfer.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
-![p196 Kol Skywalker CL 14](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p196-i-am-kol-skywalker-servant-of.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![p196 Kol Skywalker CL 14](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p196-i-am-kol-skywalker-servant-of.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:39`
 
 - Note (summary from our notes, not a quotation): | 8 | Wolf Sazen | p198 | 15 | Jedi 7 / Jedi Knight 6 / Jedi Master 2 | +19 | 31 (ff 28) / 28 / 32 | 107 (28) | — | 3 / 7 | +17 (2d8+7) |
@@ -569,20 +568,20 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:123`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p197
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:294`
 
 > Kol is killed in the Ossus massacre. He falls while fighting off a torrent of Sith attackers, including Darth Nihl. His death enables other Jedi to escape, including Jedi Master Wolf Sazen, Cade Skywalker, Shado Vao, and many younglings and Padawans.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p196.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:569`
 
 > Jedi Master Wolf Sazen is Kol Skywalker's apprentice before becoming Cade Skywalker's master and teacher. A follower of the living Force, Sazen is serious, thoughtful, and forward-thinking.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p198 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p198 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:592`
 
 > Sazen loses his right arm fighting Darth Nihl on Ossus. He elects not to replace the lost arm, and instead retrains himself to use his left arm instead. His 'empty sleeve' serves as a reminder to the Sith that, no matter what the cost, the Jedi will continue to fight them *(p197)*
@@ -590,10 +589,10 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:592`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p197
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
-![p197 Shado Vao CL 10](011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![p197 Shado Vao CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:594`
 
 > He believes that Cade is the secret to restoring the Jedi Order and defeating the Sith *(p198)*
@@ -601,8 +600,8 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:594`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p198
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p198 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
-![p198 Wolf Sazen (part 2)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-b.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p198 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
+![p198 Wolf Sazen (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:596`
 
 - Note (summary from our notes, not a quotation): CL 15; Zabrak Jedi 7/Jedi Knight 6/Jedi Master 2. Destiny 3; Force 7.
@@ -643,25 +642,25 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:606`
 - Note (summary from our notes, not a quotation): The build has no battle strike, no Rapid Strike and no multi-attack: it reads as a defensive, one-armed teacher.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Scaling (ANALYSIS):
-![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
-![p198 Wolf Sazen CL 15 (part 1)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
-![p198 Wolf Sazen (part 2)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-b.jpg)
+![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![p198 Wolf Sazen CL 15 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
+![p198 Wolf Sazen (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:607`
 
 - Note (summary from our notes, not a quotation): Relevant to debate #67 (Daegen Lok vs Wolf), where the Wolf side relied on *Legacy: War* feats rather than these stats.
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Context: Scaling (ANALYSIS):
-![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
-![p198 Wolf Sazen CL 15 (part 1)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
-![p198 Wolf Sazen (part 2)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-b.jpg)
+![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![p198 Wolf Sazen CL 15 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
+![p198 Wolf Sazen (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:608`
 
-- Note (summary from our notes, not a quotation): ![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p197 Wolf bio: lost his right arm to Nihl; "empty sleeve" — `p197-wolf-sazen-bio-arm-nihl.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:610`
 
-- Note (summary from our notes, not a quotation): ![p198 Wolf Sazen CL 15 (part 1)](011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
+- Note (summary from our notes, not a quotation): ![p198 Wolf Sazen CL 15 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p198-wolf-sazen-stat-a.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p198 Wolf Sazen CL 15 (part 1) — `p198-wolf-sazen-stat-a.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:613`; `notes/materials/011-legacy-era-campaign-guide.md:616`
@@ -671,12 +670,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:613`; `notes/materi
 > Master K'Kruhk is given custody of the surviving Jedi artifacts
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p194.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p194 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p194-remnants-jedi-order-half-survive.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p194 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p194-remnants-jedi-order-half-survive.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:651`
 
 > After losing his father, Kol Skywalker, Cade uses an extraordinary healing power that taps into the dark side of the Force to save his dying Master, Wolf Sazen.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:669`
 
 - Note (summary from our notes, not a quotation): Jedi: Wolf Sazen (CL15), Kol Skywalker (CL14), Cade Skywalker (CL11, early series), Shado Vao (CL10), Hosk Trey'lis (CL10).
@@ -696,12 +695,12 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:61`
 > NO ONE DIES FOR ME. NEVER AGAIN. *(p171)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): #12: A Vong warrior pins Cade. Master Shaper Nei Rin stops the fight, and Sazen and K'Kruhk arrive (p150–151). Nei Rin explains the Ossus Project, the Sith sabotage, and Kol's funeral: "WITHIN THE FLAMES, HIS BODY DISAPPEARED." She offers Cade the Jedi legacy, and he refuses it (p152–155). At the spot where Kol died, Cade attacks Sazen and loses. Sazen tells him his healings drew on the dark side and calls Kol's last stand a selfless holding action (p156–161). In the meditation of emptiness, Cade remembers drifting in space and his rescue by Rav and Jariah (p162–166). He then sees the tortured Hosk, and Luke's spirit tells him to make it right (p167–168). Nei Rin gives him Kol's lightsaber, now with a Vong-shaped lambent crystal, and K'Kruhk gives him R2-D2 (p169–170). Shado: "IF HE EVER GOES COMPLETELY OVER TO THE DARK SIDE, I WILL END HIM." (p170). Cade heads for Coruscant: "NO ONE DIES FOR ME. NEVER AGAIN." (p171).
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p168 Luke's spirit and Hosk](012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
+![p150 a Vong warrior pins Cade](../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p159 Sazen on Cade's dark-side healing](../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p168 Luke's spirit and Hosk](../notes/materials/012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:62`
 
 > Shado (sparring): "YOU'RE NOT IN BAD SHAPE FOR A BOUNTY HUNTER, CADE. TERRIBLE SHAPE FOR A JEDI, BUT..." · Cade: "STOW IT, VAO. DON'T NEED TO CATCH MY QUARRY -- JUST AIM AT 'EM. BLASTER'S GOT A LONGER REACH THAN A LIGHTSABER." · Sazen: "HE HAS RAW POWER, BUT HIS FINER SKILLS HAVE ATROPHIED. HE DOESN'T HAVE THE FOCUS HE USED TO HAVE --" · "IT SHOULDN'T TAKE HIM LONG TO REGAIN FORM AND FOCUS. HE WAS ALMOST READY FOR HIS TRIALS WHEN... OSSUS FELL."
@@ -721,7 +720,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:249`
 Context: 5. Dark-side healing, as his teachers put it. p159 (#12), p170 (#12) [009 p296, p307]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:251`; `notes/materials/012-legacy-vol-2-shards.md:457`
 
-- Note (summary from our notes, not a quotation): ![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+- Note (summary from our notes, not a quotation): ![p159 Sazen on Cade's dark-side healing](../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p159 — `p159-sazen-vs-cade-dark-side-healing.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:254`
@@ -730,18 +729,18 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:254`
 >
 > CADE IS THE ONLY SKYWALKER WE HAVE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Sazen (p144). POV: Sazen.
-![p144 Sazen: A SKYWALKER REUNITED THE JEDI](012-legacy-vol-2-shards-panels/p144-sazen-vision-skywalker-reunited-jedi.jpg) *(p144)*
+![p144 Sazen: A SKYWALKER REUNITED THE JEDI](../notes/materials/012-legacy-vol-2-shards-panels/p144-sazen-vision-skywalker-reunited-jedi.jpg) *(p144)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:277`
 
 > (p156) "I CAN FEEL YOUR ANGER, CADE, AND YOUR HUNGER FOR THE IXETAL CILONA DRUG YOU HOLD IN YOUR HAND." · "YOU CAME BACK TO OSSUS TO DIE." · (p158) "I FELT MUCH THE SAME AT FIRST. IF I HAD JUST MOVED MORE QUICKLY -- IF I HAD JUST SEEN A SPLIT-SECOND FURTHER AHEAD!" · (p159) "SO YOU HAVE REPLACED CORUSCANT AS THE CENTER OF THE GALAXY. EVERYTHING REVOLVES AROUND YOU, DOES IT, CADE?" · (p160) "ALONE, A JEDI IS STRONG. BUT TOGETHER WE ARE STRONGER. THIS NEW BREED OF SITH SEE THAT AND TRY TO IMITATE IT. YOU, HOWEVER, INSIST ON BEING ALONE. YOUR FEAR, YOUR ANGER DEMANDS IT -- AND MAKES YOU WEAK."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Beats an enraged Cade bare-handed and lectures him. p156 (#12 Ghosts)–p161 (#12) [009 p293–298]
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:289`
 
-- Note (summary from our notes, not a quotation): ![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p160 — `p160-sazen-flips-cade.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:292`
@@ -750,7 +749,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:292`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Conditions: no sabers. Cade is angry and craving death sticks. Sazen fights one-armed (he lost an arm at Ossus: "HIS LOSS WAS MORE BITTER TO ME THAN THE LOSS OF MY ARM", p161).
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:295`
 
 > ONCE WE WERE CLOSE ENOUGH, I COULD SENSE YOU. I SENSED THE PRESENCE OF ANOTHER HERE AS WELL -- MASTER K'KRUHK.
@@ -759,8 +758,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:295`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 2. Senses at range. p138 (#11).
 Note (our notes, around the quote): 2. Senses at range. p138 (#11): "ONCE WE WERE CLOSE ENOUGH, I COULD SENSE YOU. I SENSED THE PRESENCE OF ANOTHER HERE AS WELL -- MASTER K'KRUHK." · p151 (#12), arriving: "SHADO! WE SENSED YOU WERE IN DANGER..."
-![p138 Cade: I SENSED THE PRESENCE OF ANOTHER -- MASTER K'KRUHK](012-legacy-vol-2-shards-panels/p138-cade-sensed-kkruhk.jpg) *(p138)*
-![p151 WE SENSED YOU WERE IN DANGER](012-legacy-vol-2-shards-panels/p151-shado-we-sensed-you-in-danger.jpg) *(p151)*
+![p138 Cade: I SENSED THE PRESENCE OF ANOTHER -- MASTER K'KRUHK](../notes/materials/012-legacy-vol-2-shards-panels/p138-cade-sensed-kkruhk.jpg) *(p138)*
+![p151 WE SENSED YOU WERE IN DANGER](../notes/materials/012-legacy-vol-2-shards-panels/p151-shado-we-sensed-you-in-danger.jpg) *(p151)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:297`
 
 > YOUR ANGER IS LIKE A VIOLENT STORM, CADE.
@@ -768,7 +767,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:297`
 > YOU MUST CENTER YOURSELF WITHIN THAT CALM EYE -- IN THE LIGHT.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 3. Guides the "meditation of emptiness". p162–163 (#12).
 Note (our notes, around the quote): 3. Guides the "meditation of emptiness". p162–163 (#12): "YOUR ANGER IS LIKE A VIOLENT STORM, CADE." · "YOU MUST CENTER YOURSELF WITHIN THAT CALM EYE -- IN THE LIGHT." In the meditation, Cade gets a true vision of Hosk's torture (p167–168).
-![p168 Luke's spirit and Hosk](012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
+![p168 Luke's spirit and Hosk](../notes/materials/012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:301`
 
 > "KOL WAS MY MASTER WHEN I WAS AN APPRENTICE AND HE WAS MY FRIEND WHEN I BECAME A KNIGHT." · "I KNOW, HOWEVER -- AND ACCEPT -- THAT KOL'S SACRIFICE WAS SELFLESS. IT SAVED YOU, ME, SHADO, THE YOUNGLINGS." · "KOL KNEW WHAT HE WAS DOING. THE ODDS AGAINST US WERE INSURMOUNTABLE. HE KNEW HE COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM." · "LIVING -- HIS OWN SURVIVAL -- WAS NOT THE POINT. BUYING TIME FOR US WAS." · Sazen (off-panel over Cade's close-up): "AND THAT WOULD HAVE MADE YOUR FATHER'S SACRIFICE MEANINGLESS."
@@ -776,7 +775,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:301`
 Context: 1. "Could only hold off the Sith for a time -- not defeat them" (Sazen). p161 (#12 Ghosts) [009 p298]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:305`; `notes/materials/012-legacy-vol-2-shards.md:454`
 
-- Note (summary from our notes, not a quotation): ![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p161 — `p161-kol-could-only-hold-off-sith.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:308`
@@ -800,9 +799,9 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:440`
 
 - Note (summary from our notes, not a quotation): Sazen was Kol's apprentice: "KOL WAS MY MASTER WHEN I WAS AN APPRENTICE" (p161). K'Kruhk was Cade's teacher ("OF ALL MY LEARNERS", p135) and remembers "THE FIRST TIME THE JEDI FELL" (p144). Cade was "ALMOST READY FOR HIS TRIALS WHEN... OSSUS FELL" (p143). Shado and Cade were "APPRENTICES TOGETHER" (p170).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels. POV: Sazen was Kol's apprentice.
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:448`
 
 > COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM
@@ -810,16 +809,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:448`
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Counter: Sazen, his own apprentice, says Kol.
 Note (our notes, around the quote): Counter: Sazen, his own apprentice, says Kol "COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM" against "INSURMOUNTABLE" odds (p161). Nei Rin's line is Vong honour framing, not a ranking by the Jedi. The body vanishing is a Force-tradition marker, not a combat feat.
 Context: Kol Skywalker's level (debate #115, Bane vs Kol).
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:481`
 
 - Note (summary from our notes, not a quotation): Use against Cade: in Shards he loses to a Vong warrior (p150) and to an unarmed one-armed Sazen (p157–160), and his "FINER SKILLS HAVE ATROPHIED" (p143).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: "Druggie" Cade vs post-Claws Cade (debates #61, #81, #85, #91).
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p150 a Vong warrior pins Cade](../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p159 Sazen on Cade's dark-side healing](../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:483`
 
 - Note (summary from our notes, not a quotation): Counter: these are explicitly rusty, drug-affected states with conditions on the page: the Vong are Force-blind, it's a surprise, and Sazen's fight is a no-saber lecture. They set a *floor* for 137 ABY Cade before training resumes; don't use them for the end-of-Claws or Legacy—War versions.
@@ -862,8 +861,8 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:335`
 > VISIONS ARE NOT ALWAYS TRUTH, MASTER.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Sazen's vision of Cade. p31 (#14): "WOLF IS TROUBLED. HE SENSES SOMETHING IN THE FORCE --" "-- DARKNESS RIPPLING --" "-- A VISION OR A WARNING --" · Sazen: "...CADE!" · (p75) "I CANNOT REACH OUT TO CADE. AND MY VISION OF HIM STILL HAUNTS ME." · Shado: "VISIONS ARE NOT ALWAYS TRUTH, MASTER."
-![p31 Ossus: Sazen's vision, DARKNESS RIPPLING](013-legacy-vol-3-claws-of-the-dragon-panels/p031-sazen-vision-darkness-rippling.jpg) *(p31)*
-![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
+![p31 Ossus: Sazen's vision, DARKNESS RIPPLING](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p031-sazen-vision-darkness-rippling.jpg) *(p31)*
+![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:409`
 
 ## https://starwars.fandom.com/wiki/Cade_Skywalker
@@ -963,8 +962,8 @@ Our notes: `legends-feats.md:2395`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Kol: "a powerful and influential Jedi named Kol Skywalker" (p7). Stats: CL 14. UtF +20. Strong in the Force. hp 116. Lightsaber +18. (material 011; p196; debate #115)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `legends-feats.md:2505`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen: lost his right arm to Nihl and kept the "empty sleeve". Stats: CL 15. UtF +19. Will 32. hp 107. Lightsaber +17. A defensive build with no battle strike. (material 011; p197–198; debate #67)
@@ -975,14 +974,14 @@ Our notes: `legends-feats.md:2512`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Note (our notes, around the quote): Cade (early series, just after escaping the Coruscant Sith Temple): CL 11. UtF +12 (Force Powers line; +11 in Skills). hp 115. Lightsaber +11. Has dark transfer. "the last of the Skywalkers, and like his predecessors, the Force is strong in him" (p209). (material 011; p209–210; debates #17, #61, #81, #85, #91)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-last-skywalker.jpg)
 Our notes: `legends-feats.md:2513`
 
 > revive a creature that died since the end of your last turn *(DC 25 UtF)*
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); Improved Dark Transfer: spend a Force Point to.
 Note (our notes, around the quote): Improved Dark Transfer: spend a Force Point to "revive a creature that died since the end of your last turn" (DC 25 UtF). (material 011; p56)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p56 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p056-improved-dark-transfer.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p56 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p056-improved-dark-transfer.jpg)
 Our notes: `legends-feats.md:2515`
 
 > HE HAS RAW POWER, BUT HIS FINER SKILLS HAVE ATROPHIED. HE DOESN'T HAVE THE FOCUS HE USED TO HAVE -- — Wolf Sazen, Star Wars: Legacy #11, p143

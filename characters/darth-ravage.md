@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Jadus; Darth Thanaton; Darth Vowrawn — Spheres (top-right).
 Note (our notes, around the quote): Darth Jadus; Darth Thanaton; Darth Vowrawn — Spheres (top-right): "The Ministry of Intelligence and its many divisions answer to this sphere's current overseer, Darth Jadus. … After ascending to the Dark Council, Darth Thanaton oversees the ancient knowledge sphere and directs the Imperial Reclamation Service to excavate Sith artifacts for the good of the Empire. … Darth Vowrawn controls this sphere, and the Ministry of Logistics reports directly to him. … While overseeing this sphere, Darth Ravage favored acts of expansion over diplomacy." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-the-ministry-of-intelligence-and-its.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:353`
 
 # Debate and forum claims (unverified)

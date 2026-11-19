@@ -14,7 +14,6 @@
 > Harpori A planet in the Mid Rim near the Balowa system, it was the site of a Duros settlement wiped out by Kaox Krul six months before the Battle of Ruusan.
 — Source: scan pages 1–40; Darth Krul. POV: Darth Krul, about Kaox Krul.
 Note (our notes, around the quote): Darth Krul: "Harpori A planet in the Mid Rim near the Balowa system, it was the site of a Duros settlement wiped out by Kaox Krul six months before the Battle of Ruusan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.21
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.21 — full quote as printed](quotes/v2-p21-harpori-a-planet-in-the-mid.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:184`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -35,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Darth Krul — entry/section: Star Wars Gamer 05.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Darkness Shared pdf x.txt (text copy `MEGA_Darkness_Shared_pdf_x`).)
 Note (our notes, around the quote): Darth Krul — entry/section: Star Wars Gamer 05: "Their survival would almost certainly fall to Crian, but she held secret doubts as to whether she was ready to face Kaox Krul, He was insane, powerful, full of the dark side, hungry for the kill." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.28
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.28 — full quote as printed](quotes/d054-s28-their-survival-would-almost-certainly-fall.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:167`
 
 > Your darkness betrays you, Kaox Krul,
@@ -45,7 +43,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Crian Maru; Kaox Krul — entry/section: Crian and Kaox before their duel: ""Your darkness betrays you, Kaox Krul," Crian said. "And you deny the darkness within you, Jedi," Kaox retorted." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.29
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.29 — full quote as printed](quotes/d054-s29-your-darkness-betrays-you-kaox-krul.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:174`
 
 - Note (summary from our notes, not a quotation): Page contents: 558 words, 25 paragraphs | headings/entries: Kaox Krul; Crian Maru; Dree Vandap; Equipment: ightsaber, comilink, Jedi robes, Rodian hunt; Battliemind 4+«; Force Skills; Feats: Exotic Weapon Proficiency (Cightsaber), Force-Sen 8; Weapon; Proficiencies (blaster pistols, simple weapons; BB vo.wMmeée i NUMeER G

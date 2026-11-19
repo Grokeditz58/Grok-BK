@@ -14,7 +14,6 @@
 > After he defeated Darrin Arkanian, Tremayne was disfigured in battle during Shelvay's escape, losing an eye as well as his right arm.
 — Source: scan pages 241–280; Antinnis Tremayne — entry/section: Tremayne, High Inquisitor Antinnis.
 Note (our notes, around the quote): Antinnis Tremayne — entry/section: Tremayne, High Inquisitor Antinnis: "After he defeated Darrin Arkanian, Tremayne was disfigured in battle during Shelvay's escape, losing an eye as well as his right arm." Source: The Complete Star Wars Encyclopedia, Vol. III, p.262
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.262 — full quote as printed](quotes/v3-p262-after-he-defeated-darrin-arkanian-tremayne.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:239`
 
 # Debate and forum claims (unverified)

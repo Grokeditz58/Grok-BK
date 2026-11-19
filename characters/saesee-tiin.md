@@ -261,7 +261,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:962`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Mace Windu; Saesee Tiin; Kit Fisto; Agen Kolar — Palpatine kills three Masters: "Palpatine at last dropped the facade and unleashed his full fury, killing the three lesser Jedi." Source: The New Essential Chronology, p.82
-![Quote image: The New Essential Chronology, p.82 — full quote as printed](quotes/nec-p82-palpatine-kills-three-masters.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:500`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -269,7 +268,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > She later repaid his kindness by destroying a battle droid that was about to shoot him, Master Tiin and Na-Jia were later apprehended by a squad of snow droids and thrown into prison at a Separatist laboratory.
 — Source: scan pages 361–400; Saesee Tiin. POV: Saesee Tiin.
 Note (our notes, around the quote): Saesee Tiin: "She later repaid his kindness by destroying a battle droid that was about to shoot him, Master Tiin and Na-Jia were later apprehended by a squad of snow droids and thrown into prison at a Separatist laboratory." Source: The Complete Star Wars Encyclopedia, Vol. II, p.356
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.356 — full quote as printed](quotes/v2-p356-she-later-repaid-his-kindness-by.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:27`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -277,7 +275,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Although the Sharp Spiral lacked deflector shields, Tiin was able to fly rings around the well-trained soldiers.
 — Source: scan pages 121–160; Saesee Tiin. POV: Saesee Tiin.
 Note (our notes, around the quote): Saesee Tiin: "Although the Sharp Spiral lacked deflector shields, Tiin was able to fly rings around the well-trained soldiers." Source: The Complete Star Wars Encyclopedia, Vol. III, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.144 — full quote as printed](quotes/v3-p144-although-the-sharp-spiral-lacked-deflector.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:245`
 
 - Note (summary from our notes, not a quotation): Page contents: 1049 words, 21 paragraphs | headings/entries: Tiin, Saesee; Tika; Tikkes, Senator; Till, Essara; Tilotny; Tingel Arm; Tinn VI
@@ -287,19 +284,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Their orders were to secure the fleet or destroy it, a stance that led the crew of the Mersel Kebir to mutiny and attempt to remain at Rendili.
 — Source: scan pages 241–280; Saesee Tiin — entry/section: Tiin, Saesee.
 Note (our notes, around the quote): Saesee Tiin — entry/section: Tiin, Saesee: "Their orders were to secure the fleet or destroy it, a stance that led the crew of the Mersel Kebir to mutiny and attempt to remain at Rendili." Source: The Complete Star Wars Encyclopedia, Vol. III, p.248
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.248 — full quote as printed](quotes/v3-p248-their-orders-were-to-secure-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:129`
 
 > When Master Koon was taken hostage, Master Tiin was forced to act to destroy the fleet.
 — Source: scan pages 241–280; Saesee Tiin — entry/section: Tiin, Saesee.
 Note (our notes, around the quote): Saesee Tiin — entry/section: Tiin, Saesee: "When Master Koon was taken hostage, Master Tiin was forced to act to destroy the fleet." Source: The Complete Star Wars Encyclopedia, Vol. III, p.248
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.248 — full quote as printed](quotes/v3-p248-when-master-koon-was-taken-hostage.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:131`
 
 > However, the Jedi were unprepared for Palpatine's dark side powers, and Saesee Tiin was quickly defeated.
 — Source: scan pages 241–280; Saesee Tiin; Palpatine (Darth Sidious) — entry/section: Tiin, Saesee.
 Note (our notes, around the quote): Saesee Tiin; Palpatine (Darth Sidious) — entry/section: Tiin, Saesee: "However, the Jedi were unprepared for Palpatine's dark side powers, and Saesee Tiin was quickly defeated." Source: The Complete Star Wars Encyclopedia, Vol. III, p.248
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.248 — full quote as printed](quotes/v3-p248-however-the-jedi-were-unprepared-for.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:133`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -307,7 +301,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > Saesee Tiin was among the many Jedi killed during the Battle of Geonosis.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Saesee Tiin. POV: Saesee Tiin.
 Note (our notes, around the quote): Saesee Tiin: "Saesee Tiin was among the many Jedi killed during the Battle of Geonosis." Source: Power of the Jedi Sourcebook, p.118
-![Quote image: Power of the Jedi Sourcebook, p.118 — full quote as printed](quotes/potj-p118-saesee-tiin-was-among-the-many.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:200`
 
 ## The New Essential Guide to Characters (2002)
@@ -349,7 +342,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Saesec Tiin proves himself during the Clone Wars as @ formidable opponent and a highly competent pilot.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Saesee Tiin. POV: Saesee Tiin.
 Note (our notes, around the quote): Saesee Tiin: "Saesec Tiin proves himself during the Clone Wars as @ formidable opponent and a highly competent pilot." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.136
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.136 — full quote as printed](quotes/d728-s136-saesec-tiin-proves-himself-during-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:161`
 
 > We must move quickly if the Jedi Order is to survive.
@@ -388,7 +380,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:447`
 > After each chapter, you'll return to the Jedi Council for a non-lethal lightsaber duel. Your first battle is against a training droid, but subsequent battles pit you against Jedi Masters Ki-Adi-Mundi, Saesee Tin, and eventually Mace Windu.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Ki-Adi-Mundi; Saesee Tiin; Mace Windu — entry/section: Jedi Knight II game: "After each chapter, you'll return to the Jedi Council for a non-lethal lightsaber duel. Your first battle is against a training droid, but subsequent battles pit you against Jedi Masters Ki-Adi-Mundi, Saesee Tin, and eventually Mace Windu." Source: *Star Wars Insider #57* (2001), scan p.57
-![Quote image: *Star Wars Insider #57* (2001), scan p.57 — full quote as printed](quotes/ins057-s57-after-each-chapter-youll-return-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:449`
 
 ## Star Wars Insider #62 (2002)
@@ -400,7 +391,6 @@ Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:159`
 > A telepath from Iktotch, the sharp-toothed, horned Saesee Tiin was one of the fiercest-looking Jedi Masters to serve on the Council. An expert pilot, Tiin could often be found behind the controls of his SoroSuub Cutlass-9 starfighter. Tiin's master, the Wol Cabbashite Jedi Omo Bouri, was slain 10 years before the Battle of Naboo, and Tiin was obsessed with using the Force to communicate with his dead master.
 — Source: Star Wars Insider #62 (2002); Saesee Tiin — entry/section: Who's Who: Saesee Tiin.
 Note (our notes, around the quote): Saesee Tiin — entry/section: Who's Who: Saesee Tiin: "A telepath from Iktotch, the sharp-toothed, horned Saesee Tiin was one of the fiercest-looking Jedi Masters to serve on the Council. An expert pilot, Tiin could often be found behind the controls of his SoroSuub Cutlass-9 starfighter. Tiin's master, the Wol Cabbashite Jedi Omo Bouri, was slain 10 years before the Battle of Naboo, and Tiin was obsessed with using the Force to communicate with his dead master." Source: *Star Wars Insider #62* (2002), scan p.24
-![Quote image: *Star Wars Insider #62* (2002), scan p.24 — full quote as printed](quotes/ins062-s24-a-telepath-from-iktotch-the-sharp.jpg)
 Our notes: `notes/materials/038-star-wars-insider/062-ins062.md:161`
 
 ## Star Wars Insider #76 (2004)

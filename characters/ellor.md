@@ -14,7 +14,6 @@
 > Ambushed by an Interdictor cruiser—and facing a death penalty for smuggling spice—Karrde and Ellor desperately outmaneuvered the Interdictor until they made hyperspace.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Ellor; Talon Karrde — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Ellor; Talon Karrde — entry/section: Smugglers' Alliance: "Ambushed by an Interdictor cruiser—and facing a death penalty for smuggling spice—Karrde and Ellor desperately outmaneuvered the Interdictor until they made hyperspace." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.60
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.60 — full quote as printed](quotes/d052-s60-ambushed-by-an-interdictor-cruiser-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:397`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 2/218 - No Place Like Home.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

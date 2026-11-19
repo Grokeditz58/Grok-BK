@@ -14,13 +14,11 @@
 > Sunber overpowered the bully but never | earned his respect.
 — Source: scan pages 121–160; Janek Sunber. POV: Janek Sunber.
 Note (our notes, around the quote): Janek Sunber: "Sunber overpowered the bully but never | earned his respect." Source: The Complete Star Wars Encyclopedia, Vol. I, p.132
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.132 — full quote as printed](quotes/v1-p132-sunber-overpowered-the-bully-but-never.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:212`
 
 > Instead, he railed at Sunber and the Imperials, claiming that Luke Skywalker—the man who'd single-handedly destroyed the first Death Star—would eventually detroy the Empire as well.
 — Source: scan pages 161–200; Janek Sunber; Luke Skywalker.
 Note (our notes, around the quote): Janek Sunber; Luke Skywalker: "Instead, he railed at Sunber and the Imperials, claiming that Luke Skywalker—the man who'd single-handedly destroyed the first Death Star—would eventually detroy the Empire as well." Source: The Complete Star Wars Encyclopedia, Vol. I, p.178
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.178 — full quote as printed](quotes/v1-p178-instead-he-railed-at-sunber-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:292`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -44,13 +42,11 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > On his next assignment, Sunber captures an underground Rebel fortress on Jabiim and enslaves the survivors.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Janek Sunber. POV: Janek Sunber.
 Note (our notes, around the quote): Janek Sunber: "On his next assignment, Sunber captures an underground Rebel fortress on Jabiim and enslaves the survivors." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.127
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.127 — full quote as printed](quotes/d722-s127-on-his-next-assignment-sunber-captures.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-121-161.md:62`
 
 > A shot from the Imperial fleet takes out the flagship's artificial gravity, and Sunber is apparently killed.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Janek Sunber. POV: Janek Sunber.
 Note (our notes, around the quote): Janek Sunber: "A shot from the Imperial fleet takes out the flagship's artificial gravity, and Sunber is apparently killed." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.127
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.127 — full quote as printed](quotes/d722-s127-a-shot-from-the-imperial-fleet.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-121-161.md:64`
 
 ## Star Wars Insider #72 (2003)
@@ -62,7 +58,6 @@ Our notes: `notes/materials/038-star-wars-insider/072-ins072.md:428`
 > You have to keep in mind that the Empire might not exist without Anakin, and the Alliance might not be successful without Luke. They're the pillars that hold up the tent. What happens with Janek Sunber in 'To the Last Man' won't greatly affect the Empire or the Alliance, but the events definitely affect Sunber.
 — Source: Star Wars Insider #72 (2003).
 Note (our notes, around the quote): Janek Sunber; Darth Vader (Anakin Skywalker); Luke Skywalker — entry/section: Stradley on Sunber: ""You have to keep in mind that the Empire might not exist without Anakin, and the Alliance might not be successful without Luke. They're the pillars that hold up the tent. What happens with Janek Sunber in 'To the Last Man' won't greatly affect the Empire or the Alliance, but the events definitely affect Sunber." —Randy Stradley, Star Wars Insider 72, p. 69" Source: *Star Wars Insider #72* (2003), scan p.69
-![Quote image: *Star Wars Insider #72* (2003), scan p.69 — full quote as printed](quotes/ins072-s69-you-have-to-keep-in-mind.jpg)
 Our notes: `notes/materials/038-star-wars-insider/072-ins072.md:430`
 
 ## Star Wars Insider #87 (2006)

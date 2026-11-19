@@ -182,7 +182,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > With the power of the Dark Side, Nihilus obliterates all life on Katarr—all but Visas Marr.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Darth Nihilus; Visas Marr. POV: Visas Marr; about Visas Marr.
 Note (our notes, around the quote): Darth Nihilus; Visas Marr: "With the power of the Dark Side, Nihilus obliterates all life on Katarr—all but Visas Marr." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.141
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.141 — full quote as printed](quotes/d718-s141-with-the-power-of-the-dark.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:211`
 
 - Note (summary from our notes, not a quotation): Page contents: Caption "VISAS MARR"; Visas Marr (Dark Wars) stats (Miraluka Jedi 7/Sith apprentice 2, CL 9); Atris bio begins. (hand-read)
@@ -192,7 +191,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > At last dispelling her grief for the butchery at Katarr, Visas leads the Jedi Exile to her Sith master, and together they defeat the Dark Lord.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Visas Marr; Meetra Surik. POV: Meetra Surik; about Visas Marr.
 Note (our notes, around the quote): Visas Marr; Meetra Surik: "At last dispelling her grief for the butchery at Katarr, Visas leads the Jedi Exile to her Sith master, and together they defeat the Dark Lord." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.142
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.142 — full quote as printed](quotes/d718-s142-at-last-dispelling-her-grief-for.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:226`
 
 ## Star Wars: The Ultimate Visual Guide (Ryder Windham, DK 2005)

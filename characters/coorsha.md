@@ -14,7 +14,6 @@
 > One of the few exceptions was an escort carrier that fell into the hands of a Rodian pirate named Coorsha, who immediately renamed it Coorsha's Cross. With a ragtag squadron of Howlrunners, Z-95's, and Cloak- Shape fighters, Coorsha raided areas of space near the Kathol sector. During the early stages of the Yuuzhon Vong invasion, Coorsha may have acted as a Yuuzhon Vong agent or allied himself with the New Republic.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Coorsha — entry/section: Coorsha's Cross.
 Note (our notes, around the quote): Coorsha — entry/section: Coorsha's Cross: "One of the few exceptions was an escort carrier that fell into the hands of a Rodian pirate named Coorsha, who immediately renamed it Coorsha's Cross. With a ragtag squadron of Howlrunners, Z-95's, and Cloak- Shape fighters, Coorsha raided areas of space near the Kathol sector. During the early stages of the Yuuzhon Vong invasion, Coorsha may have acted as a Yuuzhon Vong agent or allied himself with the New Republic." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.97
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.97 — full quote as printed](quotes/d047-s97-one-of-the-few-exceptions-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:248`
 
 # Debate and forum claims (unverified)

@@ -119,7 +119,7 @@ Our notes: `notes/materials/039-legacy-2006/legacy-47.md:175`
 
 - Note (summary from our notes, not a quotation): Rogue and Skull squadrons: Andurgo is shot down (p105). Ronto is lost (p119).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p83 Yage shoots the Sith on his bridge and defects](010-legacy-war-panels/p083-yage-shoots-sith-defects.jpg)
+![p83 Yage shoots the Sith on his bridge and defects](../notes/materials/010-legacy-war-panels/p083-yage-shoots-sith-defects.jpg)
 Our notes: `notes/materials/010-legacy-war.md:917`
 
 # Debate and forum claims (unverified)

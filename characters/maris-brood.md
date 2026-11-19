@@ -14,7 +14,6 @@
 > There she trained the Zabrak Maris Brood, whose own Master had been killed while trying to return to Coruscant.
 — Source: scan pages 241–280; Maris Brood. POV: Maris Brood.
 Note (our notes, around the quote): Maris Brood: "There she trained the Zabrak Maris Brood, whose own Master had been killed while trying to return to Coruscant." Source: The Complete Star Wars Encyclopedia, Vol. III, p.243
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.243 — full quote as printed](quotes/v3-p243-there-she-trained-the-zabrak-maris.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:96`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -28,7 +27,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > Although the Empire wiped out the Jedi Order, for at least some time, many survivors of Order 66 continue to train Padawans (as Shaak Ti does with Maris Brood).
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Shaak Ti; Maris Brood.
 Note (our notes, around the quote): Shaak Ti; Maris Brood: "Although the Empire wiped out the Jedi Order, for at least some time, many survivors of Order 66 continue to train Padawans (as Shaak Ti does with Maris Brood)." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.23
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.23 — full quote as printed](quotes/d722-s23-although-the-empire-wiped-out-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-001-060.md:140`
 
 ## Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–226)
@@ -40,7 +38,6 @@ Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-g
 > Her efforts to train the Felucians, her concern for Maris Brood's divergence from the Jedi path, and the constant struggle to remain hidden distract Shaak Ti when one of Vader's Jedi hunters appears and destroys her, leaving her Padawan and the Felucians to their own devices.
 — Source: Sourcebooks/The Force Unleashed Campaign Guide.pdf [Star Wars Roleplaying; Maris Brood; Shaak Ti; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Maris Brood; Shaak Ti; Darth Vader (Anakin Skywalker): "Her efforts to train the Felucians, her concern for Maris Brood's divergence from the Jedi path, and the constant struggle to remain hidden distract Shaak Ti when one of Vader's Jedi hunters appears and destroys her, leaving her Padawan and the Felucians to their own devices." Source: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *The Force Unleashed Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d729-s221-her-efforts-to-train-the-felucians.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/729-the-force-unleashed-campaign-guide-scan-181-226.md:364`
 
 - Note (summary from our notes, not a quotation): Page contents: Maris Brood stat block; Felucians; Felucian Shamans and stat block. (hand-read)
@@ -124,14 +121,12 @@ Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:211`
 > She has lots of different dimensions to her and does things that might go against her conscience. But in the end, she'll do what she has to in order to survive. It makes her a complicated character, which I like. She's not just good or bad. She's trying not to hurt anybody more than she has to, but she can definitely take care of herself, and if it comes down to it, she will stand her ground. She's trying to get through day by day without dying and without losing her mind.
 — Source: Star Wars Insider #105 (2008).
 Note (our notes, around the quote): Maris Brood — entry/section: Adrienne Wilkinson on Maris Brood (creator/actor quote): ""She has lots of different dimensions to her and does things that might go against her conscience. But in the end, she'll do what she has to in order to survive. It makes her a complicated character, which I like. She's not just good or bad. She's trying not to hurt anybody more than she has to, but she can definitely take care of herself, and if it comes down to it, she will stand her ground. She's trying to get through day by day without dying and without losing her mind." —Adrienne Wilkinson, Star Wars Insider 105, p. 35" Source: *Star Wars Insider #105* (2008), scan p.35
-![Quote image: *Star Wars Insider #105* (2008), scan p.35 — full quote as printed](quotes/ins105-s35-she-has-lots-of-different-dimensions.jpg)
 Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:243`
 
 > She has two lightsaber tonfas [ancient weapons, known in-fantasy as guard shotos], which is a first in the Star Wars universe,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #105 (2008).
 Note (our notes, around the quote): Maris Brood — entry/section: Adrienne Wilkinson on Brood's weapons (creator/actor quote): ""She has two lightsaber tonfas [ancient weapons, known in-fantasy as guard shotos], which is a first in the Star Wars universe," —Adrienne Wilkinson, Star Wars Insider 105, p. 35" Source: *Star Wars Insider #105* (2008), scan p.35
-![Quote image: *Star Wars Insider #105* (2008), scan p.35 — full quote as printed](quotes/ins105-s35-she-has-two-lightsaber-tonfas-ancient.jpg)
 Our notes: `notes/materials/038-star-wars-insider/105-ins105.md:245`
 
 ## Prima Official Game Guide: *Star Wars: The Force Unleashed* (2008)

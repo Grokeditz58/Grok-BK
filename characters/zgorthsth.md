@@ -14,7 +14,6 @@
 > The Riflemen are worth their high fee, and they should be kept on retainer for future needs.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Zgorth'sth — entry/section: Pull quote: Captain Zgorth'sth on Churhee's Riflemen.
 Note (our notes, around the quote): Zgorth'sth — entry/section: Pull quote: Captain Zgorth'sth on Churhee's Riflemen: ""The Riflemen are worth their high fee, and they should be kept on retainer for future needs." —Captain Zgorth'sth, New Republic Department of Threat Assessment" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.110
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.110 — full quote as printed](quotes/d715-s110-the-riflemen-are-worth-their-high.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-061-120.md:297`
 
 # Debate and forum claims (unverified)

@@ -29,12 +29,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:17`
 
 - Note (summary from our notes, not a quotation): Exar studies forbidden Sith lore on Ossus; Arca refuses to help him (p5–7). Nomi sees through the Krath space-grazer illusions at Koros Major (p12–14). Exar saves Naddists Nebo and Rask on Dxun, kills beasts, opens the Mandalorian-iron tomb with Nadd's help, and kills the Naddists (p16–22). Nomi tears Aleema's illusion apart (p24–25); Ulic is wounded by Krath kamikaze slag (p26–27). Korriban revealed (p28).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](panels/dlots2-p07-exar-arca-refuses.jpg)
-![Dark Lords of the Sith #2 p13: An illusory Krath creature looms over the Republic fleet at Koros Major](024-tales-of-the-jedi/panels/dlots2-p13-krath-illusion-creature.jpg)
-![Dark Lords of the Sith #2 p14: Nomi Sunrider sees through the Krath illusions: "We are being assailed with the power of the dark side"](024-tales-of-the-jedi/panels/dlots2-p14-nomi-sees-through-illusions.jpg)
-![Dark Lords of the Sith #2 p25: Nomi's "fingers of bright Force" tear apart Aleema's illusion](024-tales-of-the-jedi/panels/dlots2-p25-nomi-fingers-of-force.jpg)
-![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
-![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
+![Dark Lords of the Sith #2 p7: Exar Kun comes to Onderon to study Freedon Nadd's lore; King Arca refuses him](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p07-exar-arca-refuses.jpg)
+![Dark Lords of the Sith #2 p13: An illusory Krath creature looms over the Republic fleet at Koros Major](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p13-krath-illusion-creature.jpg)
+![Dark Lords of the Sith #2 p14: Nomi Sunrider sees through the Krath illusions: "We are being assailed with the power of the dark side"](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p14-nomi-sees-through-illusions.jpg)
+![Dark Lords of the Sith #2 p25: Nomi's "fingers of bright Force" tear apart Aleema's illusion](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p25-nomi-fingers-of-force.jpg)
+![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
+![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:33`
 
 - Note (summary from our notes, not a quotation): The Jedi assembly on Deneba (Odan-Urr presiding). Nadd's spirit collapses the Korriban crystal mausoleum on Exar (p12–13); Exar accepts the dark side to live (p16–17). Krath war droids attack Deneba; Arca is killed from behind (p21–22). Exar reads Sith glyphs and kills the tomb guardians in anger (p23–26). Ulic decides to destroy the Krath from within (p27).
@@ -43,15 +43,15 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:37`
 
 - Note (summary from our notes, not a quotation): Short-circuits Krath war droids with the Force and saves Ulic. Source: Dark Lords of the Sith #3, p18–21
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p20: Arca Jeth short-circuits the Krath war droids with the Force and saves Ulic](panels/dlots3-p20-arca-short-circuits-droids.jpg)
-![Dark Lords of the Sith #3 p19: Sylvar saves Vima Sunrider from the Krath droids on Deneba](024-tales-of-the-jedi/panels/dlots3-p19-sylvar-saves-vima.jpg)
-![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
+![Dark Lords of the Sith #3 p20: Arca Jeth short-circuits the Krath war droids with the Force and saves Ulic](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p20-arca-short-circuits-droids.jpg)
+![Dark Lords of the Sith #3 p19: Sylvar saves Vima Sunrider from the Krath droids on Deneba](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p19-sylvar-saves-vima.jpg)
+![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:211`
 
 - Note (summary from our notes, not a quotation): Stabbed from behind by a war droid and dies; his body vanishes. Source: Dark Lords of the Sith #3, p21–22
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](panels/dlots3-p21-arca-falls.jpg)
-![Dark Lords of the Sith #3 p22: Arca Jeth passes into the Force](panels/dlots3-p22-arca-body-vanishes.jpg)
+![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
+![Dark Lords of the Sith #3 p22: Arca Jeth passes into the Force](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p22-arca-body-vanishes.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:215`
 
 > SO SHALL WE. A WALL OF LIGHT, CREATED BY MANY JEDI JOINED TOGETHER, CAN PUSH THEM BACK...
@@ -70,19 +70,19 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:19`
 > CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER FIND ITS MARK!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Note (our notes, around the quote): Cuts down Ommin's warriors after he is cut off from his master: "CUT OFF FROM HIS MASTER BY OMMIN'S WARRIORS, ULIC LETS HIS FLASHING LIGHTSABER FIND ITS MARK!" Source: Freedon Nadd Uprising #1, p15
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:31`
 
 > Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Arca Jeth.
 Note (our notes, around the quote): Recap of #1: "Ulic narrowly defeats Null in a deadly lightsaber duel, but not before Ommin escapes with Master Arca as his prisoner." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:34`
 
 > FIGHT WELL, YOUNG JEDI--A GREAT DESTINY AWAITS YOU!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Freedon Nadd's spirit to Ulic Qel-Droma. POV: Freedon Nadd's spirit, about Arca Jeth.
 Note (our notes, around the quote): Freedon Nadd's spirit to Ulic Qel-Droma: "FIGHT WELL, YOUNG JEDI--A GREAT DESTINY AWAITS YOU!" Source: Freedon Nadd Uprising #1, p15
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:41`
 
 > TODAY THE JEDI KNIGHTS HAVE TRIUMPHED OVER THE DARK SIDE.
@@ -96,7 +96,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:45`; 
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Arca Jeth to Ulic Qel-Droma. POV: Arca Jeth.
 Note (our notes, around the quote): Arca Jeth to Ulic Qel-Droma: "REMEMBER, ULIC... WHERE THERE IS LIGHT... THERE CAN BE NO DARKNESS." Source: Freedon Nadd Uprising #2, p22
-![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](panels/fnu2-p22-dxun-entombment-arca.jpg)
+![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p22-dxun-entombment-arca.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:46`
 
 > THEN, IN A FLASH OF BLUE FIRE, NADD APPEARS AT THE SIDE OF THE FALLEN KING--
@@ -148,14 +148,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:73`
 > ARCA KNOWS THAT FREEDON NADD WAS A STUDENT OF ANCIENT SITH LORDS WHO LEARNED TO FOCUS DARK-SIDE ENERGIES THROUGH THEIR TEMPLES AND AMULETS.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on Freedon Nadd. POV: narrator, about Arca Jeth.
 Note (our notes, around the quote): Narration on Freedon Nadd: "ARCA KNOWS THAT FREEDON NADD WAS A STUDENT OF ANCIENT SITH LORDS WHO LEARNED TO FOCUS DARK-SIDE ENERGIES THROUGH THEIR TEMPLES AND AMULETS." · NARRATION. Source: Freedon Nadd Uprising #1, p7
-![Freedon Nadd Uprising #1 p7: Arca knows Freedon Nadd was a student of ancient Sith Lords](panels/fnu1-p07-arca-on-freedon-nadd.jpg)
+![Freedon Nadd Uprising #1 p7: Arca knows Freedon Nadd was a student of ancient Sith Lords](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p07-arca-on-freedon-nadd.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:76`
 
 > IT IS AS I FEARED--FREEDON NADD AND QUEEN AMANOA ARE DEAD...BUT THEIR SITH MAGIC IS VERY MUCH ALIVE!
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Arca Jeth. POV: Arca Jeth.
 Note (our notes, around the quote): Arca Jeth: "IT IS AS I FEARED--FREEDON NADD AND QUEEN AMANOA ARE DEAD...BUT THEIR SITH MAGIC IS VERY MUCH ALIVE!" Source: Freedon Nadd Uprising #1, p11
-![Freedon Nadd Uprising #1 p11: Arca: "Freedon Nadd and Queen Amanoa are dead... but their Sith magic is very much alive!"](panels/fnu1-p11-arca-nadd-magic-alive.jpg)
+![Freedon Nadd Uprising #1 p11: Arca: "Freedon Nadd and Queen Amanoa are dead... but their Sith magic is very much alive!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p11-arca-nadd-magic-alive.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:79`
 
 > NADD SPOKE OF THE ANCIENT SITH FORETELLINGS... THAT THE DARK LORDS WILL COME AGAIN.
@@ -165,7 +165,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:79`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Arca Jeth about Freedon Nadd. POV: Arca Jeth.
 Note (our notes, around the quote): Arca Jeth about Freedon Nadd: "NADD SPOKE OF THE ANCIENT SITH FORETELLINGS... THAT THE DARK LORDS WILL COME AGAIN." "I HEARD SIMILAR STORIES... FROM THE JEDI HOLOCRON." Source: Freedon Nadd Uprising #2, p22
-![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](panels/fnu2-p22-dxun-entombment-arca.jpg)
+![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p22-dxun-entombment-arca.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:83`
 
 > A GREAT TOMB HAS BEEN BUILT ON BARBAROUS DXUN, DESIGNED TO WITHSTAND THE RAVAGES OF TIME.
@@ -173,7 +173,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:83`
 > THERE THE ROYAL REMAINS WILL BE HELD SECURE UNTIL THEY FINALLY RETURN TO DUST.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Narration on the Dxun tomb. POV: narrator, about Arca Jeth.
 Note (our notes, around the quote): Narration on the Dxun tomb: "A GREAT TOMB HAS BEEN BUILT ON BARBAROUS DXUN, DESIGNED TO WITHSTAND THE RAVAGES OF TIME." "THERE THE ROYAL REMAINS WILL BE HELD SECURE UNTIL THEY FINALLY RETURN TO DUST." · NARRATION. Source: Freedon Nadd Uprising #2, p21
-![Freedon Nadd Uprising #2 p21: Arca directs the cleansing of Onderon; a great tomb is built on Dxun](panels/fnu2-p21-dxun-tomb-built.jpg)
+![Freedon Nadd Uprising #2 p21: Arca directs the cleansing of Onderon; a great tomb is built on Dxun](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p21-dxun-tomb-built.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:85`
 
 > IN SPITE OF THE NEED FOR MACHINERY TO SUPPORT HIS SOFTENED BONES, OMMIN IS FILLED WITH POWER.
@@ -196,7 +196,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:93`
 > The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Arca Jeth.
 Note (our notes, around the quote): Recap of #1: "The crippled old King lashes out at Arca with blistering bolts of dark side energy, subduing the Jedi Master!" · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:94`
 
 > MY MOST PRIZED POSSESSION...
@@ -221,28 +221,28 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:108`
 
 - Note (summary from our notes, not a quotation): Suffers an "INVISIBLE BLOW" from the dark side during the attack. Source: Freedon Nadd Uprising #1, p9
   — Source: Freedon Nadd Uprising #1, p9 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](panels/fnu1-p09-warb-null-crushing-blows.jpg)
+![Freedon Nadd Uprising #1 p9: Warb Null vs Cay and Oss](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p09-warb-null-crushing-blows.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:119`
 
 - Note (summary from our notes, not a quotation): Overpowered and carried off by King Ommin. Source: Freedon Nadd Uprising #1, p14–16
   — Source: Freedon Nadd Uprising #1, p14–16 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
-![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
-![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](panels/fnu1-p16-ulic-kills-warb-null.jpg)
+![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
+![Freedon Nadd Uprising #1 p15: Ulic cut off from Arca by Ommin's warriors; Freedon Nadd's spirit: "Fight well, young Jedi--a great destiny awaits you!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p15-ulic-cut-off-nadd-spirit.jpg)
+![Freedon Nadd Uprising #1 p16: Ulic kills Warb Null with one blow](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p16-ulic-kills-warb-null.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:120`
 
 > Master Arca is felled by a blow of dark Force
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap of #1. POV: narrator, about Arca Jeth.
 Note (our notes, around the quote): Recap of #1: "Master Arca is felled by a blow of dark Force"; Ommin's bolts subdue him. · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:121`
 
 > SUFFERING MIGHTILY UNDER THE CRUSHING POWER OF THE DARK SIDE
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #2, p13 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Survives Ommin's captivity: bound in green dark-side energy.
 Note (our notes, around the quote): Survives Ommin's captivity: bound in green dark-side energy, "SUFFERING MIGHTILY UNDER THE CRUSHING POWER OF THE DARK SIDE", but not turned. Source: Freedon Nadd Uprising #2, p13
-![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](panels/fnu2-p13-arca-captive.jpg)
+![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p13-arca-captive.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:123`
 
 > THE DARK SIDE OF THE FORCE.. THE CITY IS STILL PERMEATED WITH IT...
@@ -277,25 +277,25 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:129`
 > [fragment — full passage not on file]
 — Source: Freedon Nadd Uprising #2, p13 — Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Still senses his Knights while bound.
 Note (our notes, around the quote): Still senses his Knights while bound: "LISTEN... DO YOU HEAR IT?" "MY JEDI KNIGHTS...ARE WITH US." Source: Freedon Nadd Uprising #2, p13
-![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](panels/fnu2-p13-arca-captive.jpg)
+![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p13-arca-captive.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:132`
 
 > THE WORK OF REMOVING THE DARK-SIDE INFLUENCES FROM ONDERON CONTINUES, UNDER THE DIRECTION OF MASTER ARCA AND HIS APPRENTICES.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Directs the cleansing of Onderon.
 Note (our notes, around the quote): Directs the cleansing of Onderon: "THE WORK OF REMOVING THE DARK-SIDE INFLUENCES FROM ONDERON CONTINUES, UNDER THE DIRECTION OF MASTER ARCA AND HIS APPRENTICES." · NARRATION. Source: Freedon Nadd Uprising #2, p21
-![Freedon Nadd Uprising #2 p21: Arca directs the cleansing of Onderon; a great tomb is built on Dxun](panels/fnu2-p21-dxun-tomb-built.jpg)
+![Freedon Nadd Uprising #2 p21: Arca directs the cleansing of Onderon; a great tomb is built on Dxun](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p21-dxun-tomb-built.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:134`
 
 > As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Recap (Galia's role). POV: Recap, about Arca Jeth.
 Note (our notes, around the quote): Recap (Galia's role): "As he recovers, Arca learns from Queen Galia that her father King Ommin is being kept alive in a secret life-support facility." · NARRATION. Source: Freedon Nadd Uprising #2, p1
-![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
+![Freedon Nadd Uprising #2 p1: Recap page "Initiates of the Sith": Arca felled by dark Force, Ommin's bolts, Ulic defeats Warb Null, Galia's role](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p01-recap-initiates-of-the-sith.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:245`
 
 > AS ORON KIRA'S MEN HOLD BACK THE UNTAMED CREATURES OF DXUN, THE ENTOMBMENT CEREMONY GOES FORWARD WITHOUT A HITCH.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Oron Kira's men guard the Dxun entombment. POV: narrator, about Arca Jeth.
 Note (our notes, around the quote): Oron Kira's men guard the Dxun entombment: "AS ORON KIRA'S MEN HOLD BACK THE UNTAMED CREATURES OF DXUN, THE ENTOMBMENT CEREMONY GOES FORWARD WITHOUT A HITCH." · NARRATION. (Galia and Oron Kira stand at the tomb; no Force feats.) Source: Freedon Nadd Uprising #2, p22
-![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](panels/fnu2-p22-dxun-entombment-arca.jpg)
+![Freedon Nadd Uprising #2 p22: Dxun entombment guarded by Oron Kira's men; Arca: "Where there is light... there can be no darkness"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p22-dxun-entombment-arca.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:247`
 
 - Note (summary from our notes, not a quotation): | 2 | Ommin vs Arca Jeth | Ommin's chamber | p13–16 | Arca smothered and carried off |
@@ -312,27 +312,27 @@ Note (our notes, around the quote): | 9 | Arca Jeth vs Freedon Nadd's spirit | O
 Context: | # | Fight | Where | Pages | Outcome |
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:279`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:293`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](panels/fnu1-p14-ommin-smothers-arca.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #1 p14: Ommin smothers Arca in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p14-ommin-smothers-arca.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:295`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](panels/fnu2-p13-arca-captive.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p13-arca-captive.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:313`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](panels/fnu2-p13-arca-captive.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p13: Arca held in dark-side energy](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p13-arca-captive.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:315`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:333`
 
-- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
+- Note (summary from our notes, not a quotation): ![Freedon Nadd Uprising #2 p20: Arca confronts Nadd's spirit](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p20-arca-vs-nadd-spirit.jpg)
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:335`
 
@@ -366,14 +366,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Arca Jeth.
 Note (our notes, around the quote): Narrative bio: "Jedi Master Arca Jeth first earned his legendary status as an expert swordsman in the Hyabb-Twith Campaigns," Source: Tales of the Jedi Companion (WEG, 1996), p.18
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.18 — full quote as printed](quotes/companion-p18-jedi-master-arca-jeth-first-earned.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.18 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p18-jedi-master-arca-jeth-first-earned.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:42`
 
 > Decades later, Arca became a Jedi Master, specializing in the power of Jedi battle meditation. He set up a training compound on the planet Arkania ... At any given time he had twenty Jedi apprentices in attendance, all potential masters of lightsaber combat, a skill in which Arca himself had a natural affinity.
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Arca Jeth.
 Note (our notes, around the quote): Narrative bio: "Decades later, Arca became a Jedi Master, specializing in the power of Jedi battle meditation. He set up a training compound on the planet Arkania ... At any given time he had twenty Jedi apprentices in attendance, all potential masters of lightsaber combat, a skill in which Arca himself had a natural affinity." Source: Tales of the Jedi Companion (WEG, 1996), p.20
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.20 — full quote as printed](quotes/companion-p20-decades-later-arca-became-a-jedi.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.20 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p20-decades-later-arca-became-a-jedi.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:44`
 
 > His companions were less than a heartbeat behind, forming a ring of defenders around their fallen friends. The battle did not go well for the Jed!. Slowly their numbers dwindled -though they overcame five foes for every one of their own fallen companions. Area realized then that they had no hope for survival. And as that eventuality settled in his mind, he became aware of the ferocity of his attacks - something had caused him to abandon his training, to shun the Force and rely on his own emotion. Even as he continued to counter his enemies' attacks, he changed his focus, forming an image of victory in his mind and offering it to the Force. And with a swift suddenness, the tide of the battle changed as the light side swept across the battlefield, strengthening the remaining Jedi and weakening the Marauders. The Jedi Knights were victorious, but their success was tempered by the loss of half of their force. Over the ensuing weeks, the Jedi, led by Area Jeth, chased down the remainder of the Marauder forces who were scattered throughout the Corridor-destroying the Nelori sphere of control forever. Decades later, Area became a Jedi Master, specializing in the power of Jedi battle meditation. He set up a training compound on the planet Arkania, a tundra world once immersed in dark-side energy.
@@ -382,7 +382,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Battle meditation turns a battle (bio narration): "forming an image of victory in his mind and offering it to the Force. And with a swift suddenness, the tide of the battle changed as the light side swept across the battlefield, strengthening the remaining Jedi and weakening the Marauders." Source: Tales of the Jedi Companion (WEG, 1996), p.20
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.20 — full quote as printed](quotes/companion-p20-forming-an-image-of-victory-in.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.20 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p20-forming-an-image-of-victory-in.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:48`
 
 > Another Jedi ship suddenly descends toward the bailie site. Master Arca uses his bailie meditation ability to dismiss the darkness, and the tide of confrontation turns again in favor of the beast-riders. The city falls. Arca is not pleased with his students. He admonishes them for not informing him the moment they learned of the presence of the dark side. By instinct alone, Master Arca leads the Jedi and Galia to Freedon Nadd's tomb in the deepest sub-levels of the palace. Arca disrupts the darkness, breaking its hold on Queen Amanoa, who dies as a result. Area then tells his students that Freedon Nadd embraced the dark side and apprenticed himself to a Dark Lord of the Sith. Since there could never be more than one Dark Lord, Nadd murdered his teacher and assumed the title. Upon his death, his tomb became a focus of dark side energy, which Galia's ancestors used through the centuries. In a formal ceremony, the marriage of Oron Kira and Galia is recognized by the Galactic Republic, and the world of Onderon becomes unified for the first time in centuries.
@@ -390,7 +390,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Beast Wars summary: "Arca disrupts the darkness, breaking its hold on Queen Amanoa, who dies as a result." Source: Tales of the Jedi Companion (WEG, 1996), p.11
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](quotes/companion-p11-arca-disrupts-the-darkness-breaking-its.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p11-arca-disrupts-the-darkness-breaking-its.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:50`
 
 > The Jedi Masters would bring their students with them so that the training of new Jedi Knights would not cease. Master Arca Jeth set up his training compound on Arkania, discovering upon his arrival that the planet had become a mining colony. Geologists had found that the planet's core held pure diamonds the size of Ryloth melon-fruits, plus dozens of other types of gems. Within months, Arca and his students had erected rudimentary living quarters and training areas. During that time he had also surveyed the remainder of the planet, searching for the presence of the dark side, no matter how slight. While he sensed no sentient beings with a dark-side nature, he did feel a general aura of Sith magic, though he has still not been able to discover its source. Once he settles events on Onderon - the system of which he is the Jedi watchman - he plans to return to the search. ARKANIA Type: Tundra world Temperature: Cool to frigid (at the poles) Atmosphere: Type J (breathable) Hydrosphere: Moderate Gravity: Standard Terrain: Tundra, canyons Length of Day: 18 standard hours Length of Year: 277 local days Sapient Species: None Starport: Limited service Population: 100 Planet Function: Mining colony, Jedi training center Government: None Tech Level: Stone Major Exports: Precious gems Major Imports: None System: Pcrave Star.
@@ -399,13 +399,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Arkania site entry: "While he sensed no sentient beings with a dark-side nature, he did feel a general aura of Sith" magic on the planet. Source: Tales of the Jedi Companion (WEG, 1996), p.131
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.131 — full quote as printed](quotes/companion-p131-while-he-sensed-no-sentient-beings.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.131 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p131-while-he-sensed-no-sentient-beings.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:52`
 
 > During the confrontation, Master Arca suffers an invisible blow from the dark side.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Freedon Nadd Uprising summary. POV: Freedon Nadd Uprising summary.
 Note (our notes, around the quote): Freedon Nadd Uprising summary: "During the confrontation, Master Arca suffers an invisible blow from the dark side." Source: Tales of the Jedi Companion (WEG, 1996), p.13
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.13 — full quote as printed](quotes/companion-p13-during-the-confrontation-master-arca-suffers.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.13 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p13-during-the-confrontation-master-arca-suffers.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:56`
 
 > Area realizes that they need help to defeat the Naddists. Galia mentions that her father, King Ommin, knows more about the dark side than her mother. The king has been confined for years to a life-support facility. As Master Area begins to speak with King Ommin, the spirit of Freedon Nadd appears, saying that the king called him back from the chaos. Nadd imparted his knowledge to the old man, who has been practicing Sith magic ever since. AN ERA OF CONFLlCT _U ; _W ~ - - - - ." .' - 13 Suddenly, Ommin leaps up, striking out at Master Arca. It appears that, although Ommin must rely on a mechanical apparatus to support his physical form, his power in the Force remains. Arca falls, enveloped by dark side energy. Warb Null appears, and Ulic strikes out against Ommin's minions. In the meantime, King Ommin steals Arca's body and escapes. Fighting past a wall of dark force, Ulic manages to destroy Warb Null. Galia and Ulic return to the upper levels of the city to find that the Naddists have taken the palace.
@@ -413,7 +413,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Freedon Nadd Uprising summary, Ommin vs Arca: "Suddenly, Ommin leaps up, striking out at Master Arca. It appears that, although Ommin must rely on a mechanical apparatus to support his physical form, his power in the Force remains. Arca falls, enveloped by dark side energy." Source: Tales of the Jedi Companion (WEG, 1996), p.14
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](quotes/companion-p14-suddenly-ommin-leaps-up-striking-out.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p14-suddenly-ommin-leaps-up-striking-out.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:58`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Arca Jeth, Jedi Master. Force skills Control 12D+1, Sense 14D+2, Alter 14D. Lightsaber 10D. Dexterity 2D+1, melee combat 7D+2, melee parry 7D+1, dodge 6D. Command 8D+2, willpower 9D, planetary systems 10D+1. Force Points 37, Dark Side Points 1, Character Points 52. Powers include absorb/dissipate energy, force of will, injure/kill, telekinesis, farseeing, projective telepathy, affect mind, battle meditation, control mind, enhanced coordination, Force harmony, lesser Force shield. Source: Tales of the Jedi Companion (WEG, 1996), p.20
@@ -424,7 +424,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > [fragment — full passage not on file]
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; RPG MECHANICS (rules example, not his block): dark side web.
 Note (our notes, around the quote): RPG MECHANICS (rules example, not his block): dark side web, "if King Ommin had 6D in alter, he could lower any one of Master Arca's Force skills" by up to that many dice. Source: Tales of the Jedi Companion (WEG, 1996), p.87
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.87 — full quote as printed](quotes/companion-p87-if-king-ommin-had-6d-in.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.87 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p87-if-king-ommin-had-6d-in.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:63`
 
 > Master Arca uses his bailie meditation ability to dismiss the darkness, and the tide of confrontation turns again in favor of the beast-riders. The city falls. Arca is not pleased with his students. He admonishes them for not informing him the moment they learned of the presence of the dark side. By instinct alone, Master Arca leads the Jedi and Galia to Freedon Nadd's tomb in the deepest sub-levels of the palace. Arca disrupts the darkness, breaking its hold on Queen Amanoa, who dies as a result. Area then tells his students that Freedon Nadd embraced the dark side and apprenticed himself to a Dark Lord of the Sith. Since there could never be more than one Dark Lord, Nadd murdered his teacher and assumed the title. Upon his death, his tomb became a focus of dark side energy, which Galia's ancestors used through the centuries. In a formal ceremony, the marriage of Oron Kira and Galia is recognized by the Galactic Republic, and the world of Onderon becomes unified for the first time in centuries. Master Arca warns his Jedi students that Freedon Nadd still has followers in the city. The struggle against the dark side on Onderon has not yet come to an end.
@@ -433,13 +433,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_WEG40082_pdf`.)
 Note (our notes, around the quote): Beast Wars summary, Arca tells his students that Nadd "apprenticed himself to a Dark Lord of the Sith. Since there could never be more than one Dark Lord, Nadd murdered his teacher and assumed the title." Source: Tales of the Jedi Companion (WEG, 1996), p.11
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](quotes/companion-p11-apprenticed-himself-to-a-dark-lord.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p11-apprenticed-himself-to-a-dark-lord.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:93`
 
 > Ulic excelled, learning and mastering the techniques presented by Arca more quickly than any of his fellow apprentices. But his relentless efforts and his sometimes reckless attempts to prove his ability brought concerned words from Cay, Tott, and Arca.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Arca Jeth.
 Note (our notes, around the quote): Narrative bio: "Ulic excelled, learning and mastering the techniques presented by Arca more quickly than any of his fellow apprentices. But his relentless efforts and his sometimes reckless attempts to prove his ability brought concerned words from Cay, Tott, and Arca." Source: Tales of the Jedi Companion (WEG, 1996), p.34
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.34 — full quote as printed](quotes/companion-p34-ulic-excelled-learning-and-mastering-the.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.34 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p34-ulic-excelled-learning-and-mastering-the.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:112`
 
 - Note (summary from our notes, not a quotation): | Arca Jeth (Jedi Master) | 12D+1 | 14D+2 | 14D | 10D | p.20 |
@@ -456,13 +456,11 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:353`
 > Arca used Jedi battle meditation to influence the forces on the battlefield and turn the tide of the conflict.
 — Source: Part One: Tales of the Ancient Republic; Arca Jeth — Arca's battle meditation.
 Note (our notes, around the quote): Arca Jeth — Arca's battle meditation: "Arca used Jedi battle meditation to influence the forces on the battlefield and turn the tide of the conflict." Source: The New Essential Chronology, p.14
-![Quote image: The New Essential Chronology, p.14 — full quote as printed](quotes/nec-p14-arcas-battle-meditation.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:94`
 
 > The spirit-avatar of Nadd joined forces with Ommin, crippling Master Arca with lightning bolts of energy.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Freedon Nadd; King Ommin; Arca Jeth — Nadd's spirit and Ommin cripple Arca: "The spirit-avatar of Nadd joined forces with Ommin, crippling Master Arca with lightning bolts of energy." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-nadds-spirit-and-ommin-cripple-arca.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:103`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -480,19 +478,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan
 > He eventually was killed by Jedi Ulic Qel-Droma for instigating the death of Qel- Droma's teacher, Jedi Master Arca Jeth.
 — Source: scan pages 201–240.
 Note (our notes, around the quote): Satal Keto; Ulic Qel-Droma; Arca Jeth — entry/section: Keto, Satal: "He eventually was killed by Jedi Ulic Qel-Droma for instigating the death of Qel- Droma's teacher, Jedi Master Arca Jeth." Source: The Complete Star Wars Encyclopedia, Vol. II, p.214
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.214 — full quote as printed](quotes/v2-p214-he-eventually-was-killed-by-jedi.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:203`
 
 > The Nelori Marauders were eventually defeated by Jedi including Arca Jeth and were forced to retreat to their homeworld.
 — Source: scan pages 361–400; Arca Jeth. POV: Arca Jeth.
 Note (our notes, around the quote): Arca Jeth: "The Nelori Marauders were eventually defeated by Jedi including Arca Jeth and were forced to retreat to their homeworld." Source: The Complete Star Wars Encyclopedia, Vol. II, p.369
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.369 — full quote as printed](quotes/v2-p369-the-nelori-marauders-were-eventually-defeated.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:128`
 
 > When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive.
 — Source: scan pages 361–400.
 Note (our notes, around the quote): Warb Null; Arca Jeth; King Ommin; Freedon Nadd — entry/section: Null, Warb: "When Jedi Master Arca Jeth appealed to King Ommin for aid in recovering the remains of Freedon Nadd, Ommin and Warb Null attacked, overpowering the Jedi and taking him captive." Source: The Complete Star Wars Encyclopedia, Vol. II, p.394
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.394 — full quote as printed](quotes/v2-p394-when-jedi-master-arca-jeth-appealed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:327`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -500,13 +495,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Trained along with his younger brother, Cay, on the mining world of Arkania by Jedi Master Arca Jeth, Ulic Qel-Droma quickly mastered the art of lightsaber dueling.
 — Source: scan pages 41–80.
 Note (our notes, around the quote): Ulic Qel-Droma; Cay Qel-Droma; Arca Jeth — entry/section: Qel-Droma, Ulic: "Trained along with his younger brother, Cay, on the mining world of Arkania by Jedi Master Arca Jeth, Ulic Qel-Droma quickly mastered the art of lightsaber dueling." Source: The Complete Star Wars Encyclopedia, Vol. III, p.55
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.55 — full quote as printed](quotes/v3-p55-trained-along-with-his-younger-brother.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:154`
 
 > Nomi stayed to train with Arca in the Force mind technique known as Jedi battle meditation, gaining in both physical strength and self-confidence.
 — Source: scan pages 201–240; Nomi Sunrider; Arca Jeth — entry/section: Sunrider, Nomi.
 Note (our notes, around the quote): Nomi Sunrider; Arca Jeth — entry/section: Sunrider, Nomi: "Nomi stayed to train with Arca in the Force mind technique known as Jedi battle meditation, gaining in both physical strength and self-confidence." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-nomi-stayed-to-train-with-arca.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:45`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -514,13 +507,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan
 > Master Arca traveled to Onderon to defeat Queen Amanoa personally, but he could not end Freedon Nadd's powerful influence.
 — Source: Chapter One: History of the Jedi; Arca Jeth; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Arca Jeth; Queen Amanoa; Freedon Nadd: "Master Arca traveled to Onderon to defeat Queen Amanoa personally, but he could not end Freedon Nadd's powerful influence." Source: Power of the Jedi Sourcebook, p.6
-![Quote image: Power of the Jedi Sourcebook, p.6 — full quote as printed](quotes/potj-p6-master-arca-traveled-to-onderon-to.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:19`
 
 > Dozens of Jedi were killed, including Master Arca Jeth.
 — Source: Chapter One: History of the Jedi; Arca Jeth. POV: Arca Jeth.
 Note (our notes, around the quote): Arca Jeth: "Dozens of Jedi were killed, including Master Arca Jeth." Source: Power of the Jedi Sourcebook, p.7
-![Quote image: Power of the Jedi Sourcebook, p.7 — full quote as printed](quotes/potj-p7-dozens-of-jedi-were-killed-including.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:30`
 
 - Note (summary from our notes, not a quotation): Page contents: 729 words, 13 paragraphs | headings/entries: Arca Jeth, Watchman of Onderon
@@ -530,13 +521,11 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > If his scheme succeeded, Ommin would have destroyed Arca's body and raised the former Jedi as a dark side spirit.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Arca Jeth; King Ommin — entry/section: Arca Jeth, Watchman of Onderon: "If his scheme succeeded, Ommin would have destroyed Arca's body and raised the former Jedi as a dark side spirit." Source: Power of the Jedi Sourcebook, p.100
-![Quote image: Power of the Jedi Sourcebook, p.100 — full quote as printed](quotes/potj-p100-if-his-scheme-succeeded-ommin-would.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:30`
 
 > Among the casualties was Arca Jeth, who was killed after saving Ulic's life.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Ulic Qel-Droma; Arca Jeth — entry/section: Ulic Qel-Droma.
 Note (our notes, around the quote): Ulic Qel-Droma; Arca Jeth — entry/section: Ulic Qel-Droma,: "Among the casualties was Arca Jeth, who was killed after saving Ulic's life." Source: Power of the Jedi Sourcebook, p.103
-![Quote image: Power of the Jedi Sourcebook, p.103 — full quote as printed](quotes/potj-p103-among-the-casualties-was-arca-jeth.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:65`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -546,7 +535,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd; Arca Jeth: "After a fierce battle, the Jedi confronted Amanoa, who called upon the spirit of Freedon Nadd for aid-only to be defeated by the light side power of the Jedi Master Arca Jeth." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-after-a-fierce-battle-the-jedi.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:47`
 
 > The beginning of the answer came when a dark side sect led by Satal and Aleema Keto, heirs to the throne of Cinnagar in the Empress Teta system, seized control of the entire system. The Tetans suffered under the pair's cruel dark side rule. The Republic finally intervened, sending a small group of Jedi led by Ulic Qel-Droma to deal with the crisis. During the space battle Ulic was injured, and the wound-inflicted by a twisted shred of alchemically altered metal refused to heal. When the Jedi Order onvened on the world of Deneba to discuss a solution to the problem of the dark side sect, Satal and Aleema sent a battle force of warships arid droids to attack them. During the fight Arca Jeth was killed, and the loss of his master gave Ulic all the incentive he needed to carry out plan to infiltrate the sect and destroy it from within. Ulic journeyed to the Empress Teta system, where he presented plan to infiltrate the sect and destroy it from within. Ulic journeyed to the Empress Teta system, where he presented himself to Satal and Aleema, who promptly imprisoned him. Though Ulic explained that he had come to join them, Satal did not trust the Jedi.
@@ -554,7 +542,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:47`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Arca Jeth; Ulic Qel-Droma: "During the fight Arca Jeth was killed, and the loss of his master gave Ulic all the incentive he needed to carry out plan to infiltrate the sect and destroy it from within." Source: Dark Side Sourcebook, p.76
-![Quote image: Dark Side Sourcebook, p.76 — full quote as printed](quotes/dss-p76-during-the-fight-arca-jeth-was.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:77`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -566,7 +553,6 @@ Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:
 > What followed now seems almost inevitable—the Onderonian outcasts learned to survive in the wilds, and even to subdue the beasts and conquer them. Onderon became a divided world, one that rapidly degenerated to a state of permanent war.
 — Source: Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2; Arca Jeth — entry/section: Pull quote: Arca Jeth on Onderon.
 Note (our notes, around the quote): Arca Jeth — entry/section: Pull quote: Arca Jeth on Onderon: ""What followed now seems almost inevitable—the Onderonian outcasts learned to survive in the wilds, and even to subdue the beasts and conquer them. Onderon became a divided world, one that rapidly degenerated to a state of permanent war." —Jedi Master Arca Jeth" Source: *Galaxy at War* (SWRPG Saga Edition), scan p.126
-![Quote image: *Galaxy at War* (SWRPG Saga Edition), scan p.126 — full quote as printed](quotes/d715-s126-what-followed-now-seems-almost-inevitable.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/715-galaxy-at-war-scan-121-180.md:54`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -578,7 +564,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > THE ONLY THING MORE DANGEROUS THAN A FOOLISH ARKANIAN IS A SMART ONE.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Arca Jeth — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Arca Jeth — entry/section: Pull quote: ""THE ONLY THING MORE DANGEROUS THAN A FOOLISH ARKANIAN IS A SMART ONE." —MASTER ARCA JETH" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.117
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.117 — full quote as printed](quotes/d718-s117-the-only-thing-more-dangerous-than.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-061-120.md:399`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -586,7 +571,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > But when Arca falls fighting the Krath, Ulic infiltrates the cult, seeking revenge by learning the Krath's dark-side secrets and using them to try and destroy the organization.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Arca Jeth; Ulic Qel-Droma. POV: Ulic Qel-Droma; about Arca Jeth.
 Note (our notes, around the quote): Arca Jeth; Ulic Qel-Droma: "But when Arca falls fighting the Krath, Ulic infiltrates the cult, seeking revenge by learning the Krath's dark-side secrets and using them to try and destroy the organization." Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.135
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.135 — full quote as printed](quotes/d718-s135-but-when-arca-falls-fighting-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-121-180.md:109`
 
 ## Star Wars Insider #26 (1995)
@@ -600,7 +584,6 @@ Our notes: `notes/materials/038-star-wars-insider/026-ins026.md:87`
 > Skilled users of dis technique include Master Arca aml Nomi Sunrider.
 — Source: Star Wars Insider #27 (1995).
 Note (our notes, around the quote): Arca Jeth; Nomi Sunrider — entry/section: Star Wars Insider 027 (1995): "Skilled users of dis technique include Master Arca aml Nomi Sunrider." Source: *Star Wars Insider #27* (1995), scan p.59
-![Quote image: *Star Wars Insider #27* (1995), scan p.59 — full quote as printed](quotes/ins027-s59-skilled-users-of-dis-technique-include.jpg)
 Our notes: `notes/materials/038-star-wars-insider/027-ins027.md:330`
 
 ## Star Wars Insider #28 (1996)
@@ -608,7 +591,6 @@ Our notes: `notes/materials/038-star-wars-insider/027-ins027.md:330`
 > He was killed by Ulic Qel-Droma for instigating the death of Master Arca.
 — Source: Star Wars Insider #28 (1996).
 Note (our notes, around the quote): Ulic Qel-Droma; Arca Jeth — entry/section: Star Wars Insider 028 (1996): "He was killed by Ulic Qel-Droma for instigating the death of Master Arca." Source: *Star Wars Insider #28* (1996), scan p.57
-![Quote image: *Star Wars Insider #28* (1996), scan p.57 — full quote as printed](quotes/ins028-s57-he-was-killed-by-ulic-qel.jpg)
 Our notes: `notes/materials/038-star-wars-insider/028-ins028.md:292`
 
 ## Star Wars Insider #81 (2005)

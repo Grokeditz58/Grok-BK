@@ -14,7 +14,6 @@
 > Krakana's Claw was constructed from a stripped-down Skipray blastboat by the bounty hunter Irackant, a Mon Calamari bounty hunter who tracked down Imperial war criminals during The New Jedi Order era.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Irackant — entry/section: Krakana's Claw.
 Note (our notes, around the quote): Irackant — entry/section: Krakana's Claw: "Krakana's Claw was constructed from a stripped-down Skipray blastboat by the bounty hunter Irackant, a Mon Calamari bounty hunter who tracked down Imperial war criminals during The New Jedi Order era." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.86
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.86 — full quote as printed](quotes/d047-s86-krakanas-claw-was-constructed-from-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:171`
 
 # Debate and forum claims (unverified)

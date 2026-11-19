@@ -125,7 +125,6 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-1-notes.md:219`
 > Wynn and Yuthura attacked the Jedi, but both were defeated in combat.
 — Source: scan pages 321–360; Yuthura Ban. POV: Yuthura Ban.
 Note (our notes, around the quote): Yuthura Ban: "Wynn and Yuthura attacked the Jedi, but both were defeated in combat." Source: The Complete Star Wars Encyclopedia, Vol. III, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.337 — full quote as printed](quotes/v3-p337-wynn-and-yuthura-attacked-the-jedi.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:190`
 
 ## https://starwars.fandom.com/wiki/Revan/Legends

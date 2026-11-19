@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-18
 > You cannot negotiate with these monsters! For Mon Calamari!
 — Source: Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Editi.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Mon Calamari radical: ""Traitor!" screams one of the bureaucrats as he rushes toward Nuukol. "You cannot negotiate with these monsters! For Mon Calamari!"" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.173
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.173 — full quote as printed](quotes/d716-s173-traitor-screams-one-of-the-bureaucrats.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-121-180.md:356`
 
 - Note (summary from our notes, not a quotation): Page contents: Loodux stats cont., tactics; Conclusion (Avreet is Ambassador Nuukol); map key; Features of the Area. (hand-read)

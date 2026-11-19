@@ -34,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Terak was killed several months before the Battle of Endor, but for a century prior, he was one of the planet's biggest scourges, discussed only in whispers in Ewok villages and Yuzzum burrows alike.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; King Terak — entry/section: King Terak.
 Note (our notes, around the quote): King Terak — entry/section: King Terak: "Terak was killed several months before the Battle of Endor, but for a century prior, he was one of the planet's biggest scourges, discussed only in whispers in Ewok villages and Yuzzum burrows alike." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.45
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.45 — full quote as printed](quotes/d667-s45-terak-was-killed-several-months-before.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-001-060.md:303`
 
 ## Star Wars Insider #62 (2002)

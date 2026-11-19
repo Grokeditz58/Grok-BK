@@ -14,7 +14,6 @@
 > The Jedi value this world as highly as Tython itself. We will keep it from them at any cost.
 — Source: Species, technology, planets and the future; Darth Arho — Ilum pull-quote.
 Note (our notes, around the quote): Darth Arho — Ilum pull-quote: ""The Jedi value this world as highly as Tython itself. We will keep it from them at any cost." Darth Arho, Dark Council member" Source: The Old Republic Encyclopedia, p.342
-![Quote image: The Old Republic Encyclopedia, p.342 — full quote as printed](quotes/tore-p342-the-jedi-value-this-world-as.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:524`
 
 ## https://starwars.fandom.com/wiki/Darth_Malgus

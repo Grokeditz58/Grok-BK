@@ -14,7 +14,6 @@
 > SITH LORD ADRASS leads a bold and violent assault against the Jedi Temple on Coruscant in the final hours of the Great War. Aided by Darth Malgus, Lord Adraas and his fellow Sith crashed a hijacked transport ship through the front gates of the Jedi Temple before spilling forth to wreak their destruction.
 — Source: The Sith; Lord Adraas; Darth Malgus — Sacking art caption.
 Note (our notes, around the quote): Lord Adraas; Darth Malgus — Sacking art caption: "SITH LORD ADRASS leads a bold and violent assault against the Jedi Temple on Coruscant in the final hours of the Great War. Aided by Darth Malgus, Lord Adraas and his fellow Sith crashed a hijacked transport ship through the front gates of the Jedi Temple before spilling forth to wreak their destruction." Source: The Old Republic Encyclopedia, p.159, sidebar
-![Quote image: The Old Republic Encyclopedia, p.159 — full quote as printed](quotes/tore-p159-sith-lord-adrass-leads-a-bold.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:144`
 
 ## Book of Sith: Secrets from the Dark Side (2012)

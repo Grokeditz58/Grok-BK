@@ -14,44 +14,37 @@
 > From Battlemaster to diplomat, general to Barsen'thor, Jedi fulfill many roles in service to the Force, their Order, and the Republic.
 — Source: The Jedi Order; Top-right tagline: Roles of the Jedi tagline.
 Note (our notes, around the quote): Top-right tagline: Roles of the Jedi tagline: "From Battlemaster to diplomat, general to Barsen'thor, Jedi fulfill many roles in service to the Force, their Order, and the Republic." Source: The Old Republic Encyclopedia, p.81, sidebar
-![Quote image: The Old Republic Encyclopedia, p.81 — full quote as printed](quotes/tore-p81-from-battlemaster-to-diplomat-general-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:148`
 
 > Warden of the Order.
 > [fragment — full passage not on file]
 — Source: The Jedi Order. POV: Ceremonial Titles, about Barsen'thor (Jedi Consular).
 Note (our notes, around the quote): Ceremonial Titles: "The ceremonial rank "Barsen'thor" is a Cerean word translating as "Warden of the Order." It was originally bestowed by a Cerean Jedi Master upon her student, Lorian Sakku, who defended the Order against his own brother Lyhesh." Source: The Old Republic Encyclopedia, p.80
-![Quote image: The Old Republic Encyclopedia, p.80 — full quote as printed](quotes/tore-p80-the-ceremonial-rank-barsen-thor-is.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:152`
 
 > As the Warden of the Jedi Order, the Jedi Consular proves to be an exceptional leader who guides and protects the Republic in its darkest hours.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular) — Top-right tagline: Consular story tagline.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular) — Top-right tagline: Consular story tagline: "As the Warden of the Jedi Order, the Jedi Consular proves to be an exceptional leader who guides and protects the Republic in its darkest hours." Source: The Old Republic Encyclopedia, p.99, sidebar
-![Quote image: The Old Republic Encyclopedia, p.99 — full quote as printed](quotes/tore-p99-as-the-warden-of-the-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:349`
 
 > Embodying true skill and dedication, the Padawan confronts the spirit of an ancient Jedi known as Rajivari, and defeats a vengeful young man who had pledged himself to learning Rajivari's secrets.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular) — Emissary of the Rift Alliance intro.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular) — Emissary of the Rift Alliance intro: "Embodying true skill and dedication, the Padawan confronts the spirit of an ancient Jedi known as Rajivari, and defeats a vengeful young man who had pledged himself to learning Rajivari's secrets." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-embodying-true-skill-and-dedication-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:351`
 
 > The Consular—now the only Jedi in the galaxy who knows the secrets of this shielding technique—sets out on a dangerous adventure to seek out others afflicted by the plague and determine its cause.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar: "The Consular—now the only Jedi in the galaxy who knows the secrets of this shielding technique—sets out on a dangerous adventure to seek out others afflicted by the plague and determine its cause." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-the-consular-now-the-only-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:353`
 
 > Boarding Vivicar's flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague's original creator, the ancient Sith Lord Terrak Morrhage.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular); Lord Vivicar — The Plague of Lord Vivicar: "Boarding Vivicar's flagship, the Consular challenges and defeats Vivicar, only to discover that Vivicar is possessed by the spirit of the plague's original creator, the ancient Sith Lord Terrak Morrhage." Source: The Old Republic Encyclopedia, p.98
-![Quote image: The Old Republic Encyclopedia, p.98 — full quote as printed](quotes/tore-p98-boarding-vivicar-s-flagship-the-consular.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:357`
 
 > In a climactic final battle with the galaxy at stake, these two masters of the Force cross sabers. The Consular ultimately defeats the First Son and emerges victorious.
 — Source: The Jedi Order; Barsen'thor (Jedi Consular) — Children of the Emperor.
 Note (our notes, around the quote): Barsen'thor (Jedi Consular) — Children of the Emperor: "In a climactic final battle with the galaxy at stake, these two masters of the Force cross sabers. The Consular ultimately defeats the First Son and emerges victorious." Source: The Old Republic Encyclopedia, p.99, sidebar
-![Quote image: The Old Republic Encyclopedia, p.99 — full quote as printed](quotes/tore-p99-in-a-climactic-final-battle-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:361`
 
 # Debate and forum claims (unverified)

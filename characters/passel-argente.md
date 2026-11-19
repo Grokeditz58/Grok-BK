@@ -42,7 +42,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > When C'baoth destroyed a slinker missile that was supposed to assassinate both Gilfrome and Passel Argente, C'baoth was securing mining rights for the Brolfi while protecting the Corporate Alliance's investments on Barlok.
 — Source: scan pages 321–360; Joruus C'baoth. POV: Joruus C'baoth, about Passel Argente.
 Note (our notes, around the quote): Joruus C'baoth: "When C'baoth destroyed a slinker missile that was supposed to assassinate both Gilfrome and Passel Argente, C'baoth was securing mining rights for the Brolfi while protecting the Corporate Alliance's investments on Barlok." Source: The Complete Star Wars Encyclopedia, Vol. I, p.341
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.341 — full quote as printed](quotes/v1-p341-when-cbaoth-destroyed-a-slinker-missile.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:249`
 
 ## Star Wars Gamer/Star Wars Gamer 10.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -60,7 +59,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-
 > Corporate Alliance tank droids were deployed during the Battle of Geonosis to protect Alliance Magistrate Passel Argente. When the Separatists retreated from the Republics overwhelming clone army, tank droids escorted the Magistrate to safety.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Passel Argente — entry/section: Corporate Alliance Tank Droid.
 Note (our notes, around the quote): Passel Argente — entry/section: Corporate Alliance Tank Droid: "Corporate Alliance tank droids were deployed during the Battle of Geonosis to protect Alliance Magistrate Passel Argente. When the Separatists retreated from the Republics overwhelming clone army, tank droids escorted the Magistrate to safety." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.152
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.152 — full quote as printed](quotes/d672-s152-corporate-alliance-tank-droids-were-deployed.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-162.md:179`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)

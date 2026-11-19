@@ -32,7 +32,6 @@ Our notes: `notes/materials/038-star-wars-insider/148-ins148.md:176`
 > Scarlet Hark is an adventuress in the same mold as Irene Adler or Lara Croft. She's idealistic in a way that Han isn't yet, and at heart she thrives on chaos in a way that Leia would prefer not to.
 — Source: Star Wars Insider #148 (2014).
 Note (our notes, around the quote): Scarlet Hark; Han Solo; Leia Organa Solo — entry/section: Corey on Scarlet Hark: ""Scarlet Hark is an adventuress in the same mold as Irene Adler or Lara Croft. She's idealistic in a way that Han isn't yet, and at heart she thrives on chaos in a way that Leia would prefer not to." —James S. A. Corey, Star Wars Insider 148, p. 75" Source: *Star Wars Insider #148* (2014), scan p.75
-![Quote image: *Star Wars Insider #148* (2014), scan p.75 — full quote as printed](quotes/ins148-s75-scarlet-hark-is-an-adventuress-in.jpg)
 Our notes: `notes/materials/038-star-wars-insider/148-ins148.md:447`
 
 # Debate and forum claims (unverified)

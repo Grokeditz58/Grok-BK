@@ -14,18 +14,15 @@
 > The Emperor's Inquisitors also awoke Arden Lyn of the Legions of Lettow after a sleep of twenty-five millennia. Lyn killed one Inquisitor, but lost her arm to another.
 — Source: Part Three: The Empire and the New Order; Palpatine (Darth Sidious) — Arden Lyn and the Emperor's Hands.
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Arden Lyn and the Emperor's Hands: "The Emperor's Inquisitors also awoke Arden Lyn of the Legions of Lettow after a sleep of twenty-five millennia. Lyn killed one Inquisitor, but lost her arm to another." Source: The New Essential Chronology, p.86
-![Quote image: The New Essential Chronology, p.86 — full quote as printed](quotes/nec-p86-arden-lyn-and-the-emperors-hands.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/03-part-three-empire-new-order.md:24`
 
 - Note (summary from our notes, not a quotation): art caption: "Arden Lyn and Grand Admiral Zaarin" Source: The New Essential Chronology, p.122, caption
   — Source: Part Five: The Galactic Civil War.
-![Quote image: The New Essential Chronology, p.122 — full quote as printed](quotes/nec-p122-caption-arden-lyn-and-grand-admiral.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:157`
 
 > The coup failed thanks to the appearance of loyal Imperial forces, and Zaarin soon died in a confrontation with Grand Admiral Thrawn. Palpatine later took revenge on the twenty-five-thousand-year-old Lyn, killing her at last.
 — Source: Part Five: The Galactic Civil War.
 Note (our notes, around the quote): Palpatine (Darth Sidious); Grand Admiral Thrawn — Palpatine kills Arden Lyn; Zaarin's coup: "The coup failed thanks to the appearance of loyal Imperial forces, and Zaarin soon died in a confrontation with Grand Admiral Thrawn. Palpatine later took revenge on the twenty-five-thousand-year-old Lyn, killing her at last." Source: The New Essential Chronology, p.123
-![Quote image: The New Essential Chronology, p.123 — full quote as printed](quotes/nec-p123-palpatine-kills-arden-lyn-zaarins-coup.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:168`
 
 > One warlord, Admiral Harrsk, began shuttling troops out of the Deep Core and amassing a force in the Atravis sextor in the Outer Rim, where he was supported by several Imperial fortress workds. While New Republic Intelligence kept a close eye on this development, they completely missed the oml- nous stinings in the Senex and Juvex sectors of the Mid Rim.
@@ -41,7 +38,6 @@ Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-c
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Mara Jade Skywalker — Emperor's Hands: "Palpatine, of course, had employed many Hands. Arden Lyn had been among the first, and Mara Jade was arguably the best." Source: The New Essential Chronology, p.167
-![Quote image: The New Essential Chronology, p.167 — full quote as printed](quotes/nec-p167-emperors-hands.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:74`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -49,7 +45,6 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 > Zaarin outraced Imperial pursuit in his Star Destroyer Glory and reached Coruscant, but was unable to capture Palpatine's shuttle despite the assistance of Emperor's Hand Arden Lyn.
 — Source: scan pages 361–385; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Palpatine (Darth Sidious): "Zaarin outraced Imperial pursuit in his Star Destroyer Glory and reached Coruscant, but was unable to capture Palpatine's shuttle despite the assistance of Emperor's Hand Arden Lyn." Source: The Complete Star Wars Encyclopedia, Vol. III, p.366
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.366 — full quote as printed](quotes/v3-p366-zaarin-outraced-imperial-pursuit-in-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:109`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -76,7 +71,6 @@ Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md
 
 - Note (summary from our notes, not a quotation): Things unexpectedly heat up for the heroes when ex-Emperor's Hand and master of teras kasi Arden Lyn makes a surprise appearance and joins the fray. Though she may initially help the Imperials, settling some old scores with the Bunduki hermits, Lyn has no love for the Empire either. The heroes will have to decide whether it is more prudent to carry out Yun's order to destroy the Followers of Palawa, or grudgingly join forces with the monks to dispatch this mutual enemy." Source: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.2
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 3.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 3* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d130-s2-egged-on-by-sariss-yun-has.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/130-the-dark-forces-saga-part-3.md:40`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

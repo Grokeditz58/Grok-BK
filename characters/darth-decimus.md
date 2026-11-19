@@ -15,26 +15,22 @@
 > [fragment — full passage not on file]
 — Source: The Sith Empire; Darth Decimus — Ministry of War.
 Note (our notes, around the quote): Darth Decimus — Ministry of War: "One such recent operation was the invasion of Corellia, Masterminded by Darth Decimus and the Minister of War after peace collapsed" Source: The Old Republic Encyclopedia, p.115, sidebar
-![Quote image: The Old Republic Encyclopedia, p.115 — full quote as printed](quotes/tore-p115-one-such-recent-operation-was-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:69`
 
 - Note (summary from our notes, not a quotation): Darth Decimus — Champions of Battle (top-right): "Darth Decimus, known as "the Bastion Lord" by his troops, has a reputation for leading from the front, charging into battle, and breaking apart enemy lines through sheer force of will." Source: The Old Republic Encyclopedia, p.167, sidebar
   — Source: The Sith.
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-darth-decimus-known-as-the-bastion.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:256`
 
 > DEFENSE OF THE EMPIRE … Currently controlled by Darth Marr … MILITARY OFFENSE … Since the end of the Great War, Darth Vengean has been consolidating this sphere's power in anticipation of the next onslaught against the Republic. MILITARY STRATEGY … When the Empire plotted to seize Corellia, Darth Decimus organized this sphere to orchestrate the planet's occupation.
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Marr; Darth Vengean; Darth Decimus — Spheres of Influence.
 Note (our notes, around the quote): Darth Marr; Darth Vengean; Darth Decimus — Spheres of Influence: "DEFENSE OF THE EMPIRE … Currently controlled by Darth Marr … MILITARY OFFENSE … Since the end of the Great War, Darth Vengean has been consolidating this sphere's power in anticipation of the next onslaught against the Republic. MILITARY STRATEGY … When the Empire plotted to seize Corellia, Darth Decimus organized this sphere to orchestrate the planet's occupation." Source: The Old Republic Encyclopedia, p.172
-![Quote image: The Old Republic Encyclopedia, p.172 — full quote as printed](quotes/tore-p172-defense-of-the-empire-currently-controlled.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:351`
 
 > BATTLE DUTIES: Intimidation, commanding armies, oppressive assaults, breaking enemy defenses, rallying Imperials PRIMARY WEAPONS: A Sith warrior's lightsaber is a deadly tool of aggression, designed to cut down enemies with brutal ease. Additionally, Sith warriors wield the dark side of the Force to decimate all who stand in their way LIGHTSABER FORMS: Shii-Cho, Juyo, Soresu, Shien NOTABLE SITH WARRIORS: Darth Malgus, Darth Marr, Darth Decimus
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Malgus; Darth Marr; Darth Decimus — Profile: Sith Warrior.
 Note (our notes, around the quote): Darth Malgus; Darth Marr; Darth Decimus — Profile: Sith Warrior: "BATTLE DUTIES: Intimidation, commanding armies, oppressive assaults, breaking enemy defenses, rallying Imperials PRIMARY WEAPONS: A Sith warrior's lightsaber is a deadly tool of aggression, designed to cut down enemies with brutal ease. Additionally, Sith warriors wield the dark side of the Force to decimate all who stand in their way LIGHTSABER FORMS: Shii-Cho, Juyo, Soresu, Shien NOTABLE SITH WARRIORS: Darth Malgus, Darth Marr, Darth Decimus" Source: The Old Republic Encyclopedia, p.176
-![Quote image: The Old Republic Encyclopedia, p.176 — full quote as printed](quotes/tore-p176-battle-duties-intimidation-commanding-armies-opp.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:415`
 
 # Debate and forum claims (unverified)

@@ -13,35 +13,35 @@
 
 - Note (summary from our notes, not a quotation): The Jedi assembly on Deneba (Odan-Urr presiding). Nadd's spirit collapses the Korriban crystal mausoleum on Exar (p12–13); Exar accepts the dark side to live (p16–17). Krath war droids attack Deneba; Arca is killed from behind (p21–22). Exar reads Sith glyphs and kills the tomb guardians in anger (p23–26). Ulic decides to destroy the Krath from within (p27).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p13: Korriban mausoleum collapse](024-tales-of-the-jedi/panels/dlots3-p13-korriban-collapse.jpg)
-![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
-![Dark Lords of the Sith #3 p22: Arca Jeth passes into the Force](024-tales-of-the-jedi/panels/dlots3-p22-arca-body-vanishes.jpg)
-![Dark Lords of the Sith #3 p24: Exar Kun: "This is astounding! I can read these Sith hieroglyphs now!" (notes cite p23)](024-tales-of-the-jedi/panels/dlots3-p24-exar-reads-sith-glyphs.jpg)
-![Dark Lords of the Sith #3 p25: The Korriban tomb guardians attack Exar Kun](024-tales-of-the-jedi/panels/dlots3-p25-tomb-guardians-attack.jpg)
-![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](024-tales-of-the-jedi/panels/dlots3-p26-river-of-rage.jpg)
+![Dark Lords of the Sith #3 p13: Korriban mausoleum collapse](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p13-korriban-collapse.jpg)
+![Dark Lords of the Sith #3 p21: A war droid stabs Arca Jeth from behind: "A Jedi Master is fallen"](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p21-arca-falls.jpg)
+![Dark Lords of the Sith #3 p22: Arca Jeth passes into the Force](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p22-arca-body-vanishes.jpg)
+![Dark Lords of the Sith #3 p24: Exar Kun: "This is astounding! I can read these Sith hieroglyphs now!" (notes cite p23)](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p24-exar-reads-sith-glyphs.jpg)
+![Dark Lords of the Sith #3 p25: The Korriban tomb guardians attack Exar Kun](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p25-tomb-guardians-attack.jpg)
+![Dark Lords of the Sith #3 p26: Exar Kun's river of rage demolishes the tomb guardians](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p26-river-of-rage.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:37`
 
 - Note (summary from our notes, not a quotation): Massassi seize Exar on Yavin 4 (p4–9). Ood Bnar and Odan-Urr warn Ulic (p10–12); Cay's farewell (p13). Ulic joins the Krath by "saving" Aleema (p17–21). The Sith amulet clamps to Exar's arm; he destroys Sadow's alchemical horrors (p22–24) and kills Nadd's spirit (p25–26).
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #4 p7: A Massassi disc strikes Exar Kun's head; his light side is blocked](024-tales-of-the-jedi/panels/dlots4-p07-massassi-disc-strikes-exar.jpg)
-![Dark Lords of the Sith #4 p8: The Massassi capture Exar Kun and bring him to Zythmnr](024-tales-of-the-jedi/panels/dlots4-p08-massassi-capture-exar.jpg)
-![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](024-tales-of-the-jedi/panels/dlots4-p09-zythmnr-the-one.jpg)
-![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](024-tales-of-the-jedi/panels/dlots4-p13-cay-never-see-you-again.jpg)
-![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](024-tales-of-the-jedi/panels/dlots4-p21-ulic-saves-aleema.jpg)
-![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
+![Dark Lords of the Sith #4 p7: A Massassi disc strikes Exar Kun's head; his light side is blocked](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p07-massassi-disc-strikes-exar.jpg)
+![Dark Lords of the Sith #4 p8: The Massassi capture Exar Kun and bring him to Zythmnr](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p08-massassi-capture-exar.jpg)
+![Dark Lords of the Sith #4 p9: Zythmnr: "He is the one we have waited for"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p09-zythmnr-the-one.jpg)
+![Dark Lords of the Sith #4 p13: Cay Qel-Droma: "Ulic... I'll never see you again. I just know it"](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p13-cay-never-see-you-again.jpg)
+![Dark Lords of the Sith #4 p21: Ulic Qel-Droma brushes aside the attackers to save Aleema, unaware she planned it](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p21-ulic-saves-aleema.jpg)
+![Dark Lords of the Sith #4 p23: Exar vs Sadow horrors](../notes/materials/024-tales-of-the-jedi/panels/dlots4-p23-exar-vs-sadow-horrors.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:40`
 
 - Note (summary from our notes, not a quotation): Wounded by Krath kamikaze slag; the wound will not heal by Jedi means. Source: Dark Lords of the Sith #2, p26–27; #3, p4–6
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](panels/dlots2-p26-krath-chaos-fighters.jpg)
-![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](panels/dlots2-p27-ulic-hit-by-slag.jpg)
-![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](panels/dlots3-p06-ulic-wound-deneba.jpg)
+![Dark Lords of the Sith #2 p26: Satal Keto's hypnotic spell turns the Krath chaos fighters into living weapons against the Republic flagship](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p26-krath-chaos-fighters.jpg)
+![Dark Lords of the Sith #2 p27: Ulic Qel-Droma is struck by flying slag from a chaos fighter](../notes/materials/024-tales-of-the-jedi/panels/dlots2-p27-ulic-hit-by-slag.jpg)
+![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p06-ulic-wound-deneba.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:122`
 
 - Note (summary from our notes, not a quotation): Presides over the Deneba assembly; keeper of antiquities (a Sith holocron) on Ossus; warns Ulic with Ood Bnar. Source: Dark Lords of the Sith #3, p4–6; #4, p10–12
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](panels/dlots3-p06-ulic-wound-deneba.jpg)
-![Dark Lords of the Sith #3 p5: The Jedi assembly on Deneba begins under Odan-Urr](panels/dlots3-p05-deneba-assembly.jpg)
+![Dark Lords of the Sith #3 p6: On Deneba Ulic's wound will not heal ('Sith magic'); Odan-Urr presides over the assembly](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p06-ulic-wound-deneba.jpg)
+![Dark Lords of the Sith #3 p5: The Jedi assembly on Deneba begins under Odan-Urr](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p05-deneba-assembly.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:233`
 
 - Note (summary from our notes, not a quotation): | #1 | 1–28 | (1 of 6) | Empress Teta system, Kuar, Ossus, Foerost | Mandalore attacks Teta; Ulic beats Mandalore on the chains of Harkul. Exar recruits on Ossus; Odan-Urr Force-pushes Exar, then dies; Exar takes the Sith holocron. Foerost raid: 300 warships. |
@@ -64,7 +64,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:74`
 > ODAN-URR HAS GONE TO THE FORCE, LEAVING THE DARKEST POWER IN THE GALAXY TO WALK AWAY WITH SOMETHING THAT WILL MAKE HIM EVEN STRONGER.
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Narration on Odan-Urr and Exar Kun. POV: narrator, about Odan-Urr.
 Note (our notes, around the quote): Narration on Odan-Urr and Exar Kun: "ODAN-URR HAS GONE TO THE FORCE, LEAVING THE DARKEST POWER IN THE GALAXY TO WALK AWAY WITH SOMETHING THAT WILL MAKE HIM EVEN STRONGER." · NARRATION. Source: The Sith War #1, p20
-![The Sith War #1 p20: "Odan-Urr has gone to the Force, leaving the darkest power in the galaxy to walk away"](panels/sw1-p20-odan-urr-gone.jpg)
+![The Sith War #1 p20: "Odan-Urr has gone to the Force, leaving the darkest power in the galaxy to walk away"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p20-odan-urr-gone.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:77`
 
 > MASTER, DO YOU REALLY KNOW WHO I AM?
@@ -87,13 +87,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:87`
 
 - Note (summary from our notes, not a quotation): Blocked from the Force by Vodo-Siosk Baas, Nomi Sunrider and the other Jedi with a "TEMPORARY WALL OF LIGHT" in the Coruscant war room. Source: The Sith War #2, p24–25
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
-![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
+![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](../notes/materials/024-tales-of-the-jedi/panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:105`; `notes/materials/024-tales-of-the-jedi/the-sith-war.md:180`
 
 - Note (summary from our notes, not a quotation): With Vodo-Siosk Baas, raises Odan-Urr's blocking wall of light on Ulic in the Coruscant war room. Source: The Sith War #2, p25
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:131`
 
 > THIS TECHNIQUE BLINDS YOUR ENEMY TO THE FORCE WITH A WALL OF LIGHT, A PERMANENT BLOCKAGE IF YOU SO CHOOSE...RENDERING HIM UNABLE TO USE JEDI POWERS.
@@ -102,14 +102,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:131`
 > AND IT IS THE MOST DEVASTATING ATTACK POSSIBLE USING THE POWERS OF THE LIGHT SIDE. TO BLOCK A JEDI FROM THE FORCE--EVEN A DARK JEDI--IS A TERRIBLE THING.
 — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Odan-Urr to Nomi Sunrider about the blocking technique.
 Note (our notes, around the quote): Odan-Urr to Nomi Sunrider about the blocking technique: "THIS TECHNIQUE BLINDS YOUR ENEMY TO THE FORCE WITH A WALL OF LIGHT, A PERMANENT BLOCKAGE IF YOU SO CHOOSE...RENDERING HIM UNABLE TO USE JEDI POWERS." ... "AND IT IS THE MOST DEVASTATING ATTACK POSSIBLE USING THE POWERS OF THE LIGHT SIDE. TO BLOCK A JEDI FROM THE FORCE--EVEN A DARK JEDI--IS A TERRIBLE THING." Source: The Sith War #1, p17
-![The Sith War #1 p17: Odan-Urr teaches Nomi the blocking technique: "a wall of light... rendering him unable to use Jedi powers"](panels/sw1-p17-odan-urr-blocking-technique.jpg)
+![The Sith War #1 p17: Odan-Urr teaches Nomi the blocking technique: "a wall of light... rendering him unable to use Jedi powers"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p17-odan-urr-blocking-technique.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:138`
 
 > DARK JEDI, YOU DO NOT BELONG IN THIS PLACE.
 — Source: The Sith War #1, p19–20 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes; Force-pushes Exar Kun back into the archive bookshelves (.
 Note (our notes, around the quote): Force-pushes Exar Kun back into the archive bookshelves ("DARK JEDI, YOU DO NOT BELONG IN THIS PLACE." "AWAY!"), then dies of age. Source: The Sith War #1, p19–20
-![The Sith War #1 p19: Odan-Urr pushes Exar](panels/sw1-p19-odan-urr-pushes-exar.jpg)
-![The Sith War #1 p20: "Odan-Urr has gone to the Force, leaving the darkest power in the galaxy to walk away"](024-tales-of-the-jedi/panels/sw1-p20-odan-urr-gone.jpg)
+![The Sith War #1 p19: Odan-Urr pushes Exar](../notes/materials/024-tales-of-the-jedi/panels/sw1-p19-odan-urr-pushes-exar.jpg)
+![The Sith War #1 p20: "Odan-Urr has gone to the Force, leaving the darkest power in the galaxy to walk away"](../notes/materials/024-tales-of-the-jedi/panels/sw1-p20-odan-urr-gone.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:190`
 
 > IN THE DAYS OF THE FALL OF THE SITH EMPIRE, I MYSELF BECAME ADEPT AT SUCH POWERS.
@@ -127,13 +127,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:193`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:270`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #1 p19: Odan-Urr pushes Exar](panels/sw1-p19-odan-urr-pushes-exar.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #1 p19: Odan-Urr pushes Exar](../notes/materials/024-tales-of-the-jedi/panels/sw1-p19-odan-urr-pushes-exar.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:291`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #1 p19: Odan-Urr pushes Exar](panels/sw1-p19-odan-urr-pushes-exar.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #1 p19: Odan-Urr pushes Exar](../notes/materials/024-tales-of-the-jedi/panels/sw1-p19-odan-urr-pushes-exar.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #1 p19: Odan-Urr pushes Exar](panels/sw1-p19-odan-urr-pushes-exar.jpg)
+![The Sith War #1 p19: Odan-Urr pushes Exar](../notes/materials/024-tales-of-the-jedi/panels/sw1-p19-odan-urr-pushes-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:293`
 
 ## Star Wars: The Old Republic Encyclopedia (DK, 2012): power-scaling and lore notes
@@ -141,14 +141,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:293`
 > Knowledge is the foundation of peace.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Odan-Urr — Speak Little, Listen Much: "As the great Master Odan-Urr famously noted, "Knowledge is the foundation of peace."" Source: The Old Republic Encyclopedia, p.87, sidebar
-![Quote image: The Old Republic Encyclopedia, p.87 — full quote as printed](quotes/tore-p87-as-the-great-master-odan-urr.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:223`
 
 > NOTABLE JEDI CONSULARS: Odan Urr: Defined the Jedi Code, founded the Great Library on Ossus, and served as Watchman of Koros. Jolee Bindo: Fought Exar Kun in the Great Sith War, then alongside Revan in the Jedi Civil War
 > [fragment — full passage not on file]
 — Source: The Jedi Order.
 Note (our notes, around the quote): Odan-Urr; Jolee Bindo; Exar Kun; Revan — Jedi Consular data box: "NOTABLE JEDI CONSULARS: Odan Urr: Defined the Jedi Code, founded the Great Library on Ossus, and served as Watchman of Koros. Jolee Bindo: Fought Exar Kun in the Great Sith War, then alongside Revan in the Jedi Civil War" Source: The Old Republic Encyclopedia, p.96
-![Quote image: The Old Republic Encyclopedia, p.96 — full quote as printed](quotes/tore-p96-notable-jedi-consulars-odan-urr-defined.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:338`
 
 ## Star Wars: The New Essential Chronology (Del Rey, 2005): power-scaling and lore notes
@@ -157,7 +155,6 @@ Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:338`
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Odan-Urr — Kun steals the Sith Holocron, Odan-Urr killed: "From the Jedi library, Kun stole the original Sith Holocron used by Naga Sadow. Caretaker Odan-Urr was killed during the theft" Source: The New Essential Chronology, p.18
-![Quote image: The New Essential Chronology, p.18 — full quote as printed](quotes/nec-p18-kun-steals-the-sith-holocron-odan.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:134`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -173,7 +170,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun — Oss Willum — the smashed holocron: "Oss travels with Exar Kun to Yavin 4, where Kun smashes a Sith holocron he had stolen from Jedi Master Odan-Urr. The fragments pierce Oss Willum's flesh, causing him to be possessed by Sith spirits." Source: Jedi Academy Training Manual, p.107
-![Quote image: Jedi Academy Training Manual, p.107 — full quote as printed](quotes/jatm-p107-oss-willum-the-smashed-holocron.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:94`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -188,7 +184,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Odan-Urr: "Meanwhile, Jedi Masters Odan-Urr and Ooroo tried unsuccessfully to use Jedi battle meditation on the advancing Massassi forces that swarmed the planet Coruscant, but soon realized that the majority of the opposing army was an illusion." Source: The Complete Star Wars Encyclopedia, Vol. I, p.363
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.363 — full quote as printed](quotes/v1-p363-meanwhile-jedi-masters-odan-urr-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:139`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -200,25 +195,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > There Odan-Urr used Jedi battle meditation to unify Empress Teta's forces and push back the resistance on the planet Kirrek.
 — Source: scan pages 401–440; Odan-Urr — entry/section: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr — entry/section: Odan-Urr: "There Odan-Urr used Jedi battle meditation to unify Empress Teta's forces and push back the resistance on the planet Kirrek." Source: The Complete Star Wars Encyclopedia, Vol. II, p.403
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.403 — full quote as printed](quotes/v2-p403-there-odan-urr-used-jedi-battle.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:62`
 
 > Remembering his master's insistence that he pass on what he learned, Odan-Urr decided to build a repository of Jedi knowledge on the world of Ossus, a library that eventually grew to legendary proportions.
 — Source: scan pages 401–440; Odan-Urr — entry/section: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr — entry/section: Odan-Urr: "Remembering his master's insistence that he pass on what he learned, Odan-Urr decided to build a repository of Jedi knowledge on the world of Ossus, a library that eventually grew to legendary proportions." Source: The Complete Star Wars Encyclopedia, Vol. II, p.403
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.403 — full quote as printed](quotes/v2-p403-remembering-his-masters-insistence-that-he.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:64`
 
 > Kun killed Odan-Urr with the power of the dark side.
 — Source: scan pages 401–440; Odan-Urr — entry/section: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr — entry/section: Odan-Urr: "Kun killed Odan-Urr with the power of the dark side." Source: The Complete Star Wars Encyclopedia, Vol. II, p.403
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.403 — full quote as printed](quotes/v2-p403-kun-killed-odan-urr-with-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:66`
 
 > Before he departed, Kun killed Master Odan-Urr and stole a Sith Holocron from the Jedi library.
 — Source: scan pages 401–440; Odan-Urr. POV: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr: "Before he departed, Kun killed Master Odan-Urr and stole a Sith Holocron from the Jedi library." Source: The Complete Star Wars Encyclopedia, Vol. II, p.428
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.428 — full quote as printed](quotes/v2-p428-before-he-departed-kun-killed-master.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:251`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -226,13 +217,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Odan-Urr employed the littleknown art of Jedi battle meditation to resolve the conflict.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Odan-Urr. POV: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr: "Odan-Urr employed the littleknown art of Jedi battle meditation to resolve the conflict." Source: Power of the Jedi Sourcebook, p.98
-![Quote image: Power of the Jedi Sourcebook, p.98 — full quote as printed](quotes/potj-p98-odan-urr-employed-the-littleknown-art.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:12`
 
 > Convinced that battle meditation was the key to victory, Odan-Urr learned that the single-minded determination of the Massassi warriors could not be easily overcome.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Odan-Urr. POV: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr: "Convinced that battle meditation was the key to victory, Odan-Urr learned that the single-minded determination of the Massassi warriors could not be easily overcome." Source: Power of the Jedi Sourcebook, p.98
-![Quote image: Power of the Jedi Sourcebook, p.98 — full quote as printed](quotes/potj-p98-convinced-that-battle-meditation-was-the.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:14`
 
 - Note (summary from our notes, not a quotation): Page contents: 774 words, 19 paragraphs | headings/entries: Force Skills: Affect Mind +14, Empathy +7,; Odan-Urr, Keeper of Antiquities
@@ -242,19 +231,16 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Odan-Urr, assisted by Empress Teta's Jedi advisor Memit Nadill, used the Jedi battle meditation technique to defeat the Kirrek rebels and reach an accord with the pirate leaders.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Odan-Urr — entry/section: Odan-Urr, Keeper of Antiquities.
 Note (our notes, around the quote): Odan-Urr — entry/section: Odan-Urr, Keeper of Antiquities: "Odan-Urr, assisted by Empress Teta's Jedi advisor Memit Nadill, used the Jedi battle meditation technique to defeat the Kirrek rebels and reach an accord with the pirate leaders." Source: Power of the Jedi Sourcebook, p.99
-![Quote image: Power of the Jedi Sourcebook, p.99 — full quote as printed](quotes/potj-p99-odan-urr-assisted-by-empress-tetas.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:21`
 
 > Odan-Urr offered him a tale from a Sith holocron that showed how a Jedi once thought he could defeat the dark side from within, and was forever lost.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Odan-Urr — entry/section: Odan-Urr, Keeper of Antiquities.
 Note (our notes, around the quote): Odan-Urr — entry/section: Odan-Urr, Keeper of Antiquities: "Odan-Urr offered him a tale from a Sith holocron that showed how a Jedi once thought he could defeat the dark side from within, and was forever lost." Source: Power of the Jedi Sourcebook, p.99
-![Quote image: Power of the Jedi Sourcebook, p.99 — full quote as printed](quotes/potj-p99-odan-urr-offered-him-a-tale.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:23`
 
 > Before departing the planet, he slew Odan-Urr and stole a Sith holocron from the Chamber of Antiquities.
 — Source: Chapter Seven: Where the Force is strong; Index; Odan-Urr. POV: Odan-Urr.
 Note (our notes, around the quote): Odan-Urr: "Before departing the planet, he slew Odan-Urr and stole a Sith holocron from the Chamber of Antiquities." Source: Power of the Jedi Sourcebook, p.135
-![Quote image: Power of the Jedi Sourcebook, p.135 — full quote as printed](quotes/potj-p135-before-departing-the-planet-he-slew.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-index.md:27`
 
 ## Sourcebooks/Invasion Of Theed.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -272,7 +258,6 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > So begins the famous commentary upon the Jedi Code by Master Odan-Unrr, written almost four thousand years before the time of Master Mace Windu. His musings on the proper behavior of a Jedi formed the foundation of the Jedi Order as it was known near the end of the Old Republic.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep.
 Note (our notes, around the quote): Odan-Urr — entry/section: SIDEBAR: The Teachings of Master Odan-Urr: "So begins the famous commentary upon the Jedi Code by Master Odan-Unrr, written almost four thousand years before the time of Master Mace Windu. His musings on the proper behavior of a Jedi formed the foundation of the Jedi Order as it was known near the end of the Old Republic." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.155
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.155 — full quote as printed](quotes/d046-s155-so-begins-the-famous-commentary-upon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-121-180.md:186`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -284,7 +269,6 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-06
 > If a Jedi ignites his lightsaber, he must be ready to take a life. If he ts not so prepared, he must keep his weapon at his side.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Odan-Urr — entry/section: Understanding the Jedi Code: "Master Odan-Urr said: "If a Jedi ignites his lightsaber, he must be ready to take a life. If he ts not so prepared, he must keep his weapon at his side."" Source: *Star Wars Gamer 01* (SWRPG d20), scan p.35
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.35 — full quote as printed](quotes/d050-s35-master-odan-urr-said-if-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:194`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -296,25 +280,21 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > While there, he slays Master Odan-Urr and steals a Sith holocron from the Chamber of Antiquities.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Exar Kun; Odan-Urr — entry/section: Geonosis and the Outer Rim Worlds: "While there, he slays Master Odan-Urr and steals a Sith holocron from the Chamber of Antiquities." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d667-s111-while-there-he-slays-master-odan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:388`
 
 > The library's construction was initiated by Odan-Urr shortly after he helped Empress Teta unify the planet Kirrek to her system, and it quickly became a repository for knowledge of all sorts and a training facility for Jedi Knights from across the Republic.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Odan-Urr — entry/section: Odan-Urr founds the Great Jedi Library: "The library's construction was initiated by Odan-Urr shortly after he helped Empress Teta unify the planet Kirrek to her system, and it quickly became a repository for knowledge of all sorts and a training facility for Jedi Knights from across the Republic." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d667-s111-the-librarys-construction-was-initiated-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:390`
 
 > A researcher seeking to learn of the dark side must have the permission of both the Jedi Council and Master Odan-Urr himself.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Odan-Urr — entry/section: Access to dark side lore.
 Note (our notes, around the quote): Odan-Urr — entry/section: Access to dark side lore: "A researcher seeking to learn of the dark side must have the permission of both the Jedi Council and Master Odan-Urr himself." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d667-s111-a-researcher-seeking-to-learn-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:392`
 
 > During the Sith War, Exar Kun comes to Ossus to recruit other Jedi to the dark side. While there, he slays Master Odan-Urr and steals a Sith holocron from the Chamber of Antiquities. Later, cronies of Kun and Ulic Qel-Droma cause the Cron Cluster to go nova.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Exar Kun; Odan-Urr; Ulic Qel-Droma — entry/section: Exar Kun slays Odan-Urr: "During the Sith War, Exar Kun comes to Ossus to recruit other Jedi to the dark side. While there, he slays Master Odan-Urr and steals a Sith holocron from the Chamber of Antiquities. Later, cronies of Kun and Ulic Qel-Droma cause the Cron Cluster to go nova." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.111 — full quote as printed](quotes/d667-s111-during-the-sith-war-exar-kun.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:394`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -326,14 +306,12 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-121
 > So begins the famous commentary upon the Jedi Code by Master Odan-Urr, written almost four thousand years befor the time of Master Mace Windu. His musings on the proper behavior of a Jedi formed the foundation of the Jedi Ordu as it was known near the end of the Old Republic.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Odan-Urr; Mace Windu — entry/section: The Teachings of Master Odan-Urr (Revised Core Rulebook, Ch9): "So begins the famous commentary upon the Jedi Code by Master Odan-Urr, written almost four thousand years befor the time of Master Mace Windu. His musings on the proper behavior of a Jedi formed the foundation of the Jedi Ordu as it was known near the end of the Old Republic." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.178
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.178 — full quote as printed](quotes/d671-s178-so-begins-the-famous-commentary-upon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-121-180.md:303`
 
 > “A Jedi's training in the Force never ends.” —Master Vodo Siask-Baas
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Vodo-Siosk Baas — entry/section: The Teachings of Master Odan-Urr — Training (Revised Core Rulebook, Ch9): "“A Jedi's training in the Force never ends.” —Master Vodo Siask-Baas" Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.179
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.179 — full quote as printed](quotes/d671-s179-a-jedis-training-in-the-force.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-121-180.md:310`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–240)
@@ -341,7 +319,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-121
 > It warns Jedi iudents to develop their other talents and abilities, to not rely solely on the Force.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Odan-Urr — entry/section: The Teachings of Master Odan-Urr — Dependence (Revised Core Rulebook, Ch9): "It warns Jedi iudents to develop their other talents and abilities, to not rely solely on the Force." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.181
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.181 — full quote as printed](quotes/d671-s181-it-warns-jedi-iudents-to-develop.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-181-240.md:12`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

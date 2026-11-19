@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Clyngunn — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Clyngunn — entry/section: Smugglers' Alliance: "After setting the record for most sentient opponents downed in a single round of competition, Clyngunn took his prize purse and bought a star yacht," Source: *Star Wars Gamer 03* (SWRPG d20), scan p.61
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.61 — full quote as printed](quotes/d052-s61-after-setting-the-record-for-most.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:12`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–105)

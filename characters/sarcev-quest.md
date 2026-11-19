@@ -24,14 +24,12 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > Jax was killed by Kir Kanos, The Imperial Ruling Council immediately moved against Sarcev, dumping him like refuse at Nar Shaddaa after a week-long torture session that prompted uncharacteristically inelegant screams from the Hand Adventure Seed; Unfinished Business Following his imprisonment and torture, Sarcev Quest disappeared ARDEN LYN The Followers of Palawa were intense contemplators of exis tence.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Kir Kanos — entry/section: Star Wars Gamer 05.
 Note (our notes, around the quote): Kir Kanos — entry/section: Star Wars Gamer 05: "Jax was killed by Kir Kanos, The Imperial Ruling Council immediately moved against Sarcev, dumping him like refuse at Nar Shaddaa after a week-long torture session that prompted uncharacteristically inelegant screams from the Hand Adventure Seed; Unfinished Business Following his imprisonment and torture, Sarcev Quest disappeared ARDEN LYN The Followers of Palawa were intense contemplators of exis tence." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.41
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.41 — full quote as printed](quotes/d054-s41-jax-was-killed-by-kir-kanos.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:254`
 
 > Without power, one dies.
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Sarcev Quest — entry/section: Pestage's maxim adopted by Quest: "Quest agreed with Pestage's oft-quoted maxim: "Without power, one dies."" Source: *Star Wars Gamer 05* (SWRPG d20), scan p.41
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.41 — full quote as printed](quotes/d054-s41-quest-agreed-with-pestages-oft-quoted.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:256`
 
 # Debate and forum claims (unverified)

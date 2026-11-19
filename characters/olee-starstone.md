@@ -297,19 +297,16 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > This small success gave Starstone the idea of establishing a link to the Jedi Archives, then downloading information on the whereabouts of any Jedi who might have survived Order 66.
 — Source: scan pages 161–200; Olee Starstone — entry/section: Starstone, Olee.
 Note (our notes, around the quote): Olee Starstone — entry/section: Starstone, Olee: "This small success gave Starstone the idea of establishing a link to the Jedi Archives, then downloading information on the whereabouts of any Jedi who might have survived Order 66." Source: The Complete Star Wars Encyclopedia, Vol. III, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.189 — full quote as printed](quotes/v3-p189-this-small-success-gave-starstone-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:392`
 
 > She took them to Kashyyyk, where she confronted Darth Vader after the Dark Lord killed or injured her companions.
 — Source: scan pages 161–200; Olee Starstone; Darth Vader (Anakin Skywalker) — entry/section: Starstone, Olee.
 Note (our notes, around the quote): Olee Starstone; Darth Vader (Anakin Skywalker) — entry/section: Starstone, Olee: "She took them to Kashyyyk, where she confronted Darth Vader after the Dark Lord killed or injured her companions." Source: The Complete Star Wars Encyclopedia, Vol. III, p.189
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.189 — full quote as printed](quotes/v3-p189-she-took-them-to-kashyyyk-where.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:394`
 
 > Vagabond Trader A converted SX troop transport used by Olee Starstone and her crew of Jedi to search out any other members of the Jedi Order who survived Order 66.
 — Source: scan pages 281–320; Olee Starstone. POV: Olee Starstone.
 Note (our notes, around the quote): Olee Starstone: "Vagabond Trader A converted SX troop transport used by Olee Starstone and her crew of Jedi to search out any other members of the Jedi Order who survived Order 66." Source: The Complete Star Wars Encyclopedia, Vol. III, p.290
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.290 — full quote as printed](quotes/v3-p290-vagabond-trader-a-converted-sx-troop.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:121`
 
 ## Star Wars Insider #83 (2005)

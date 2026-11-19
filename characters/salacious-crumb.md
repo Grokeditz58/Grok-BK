@@ -30,7 +30,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Crumb's job as jester is to make Jabba laugh at least once each day—or be eaten (either by the rancor, or Jabba himself). He has managed to survive years at Jabba's side, and everyone in Jabba's employ hates him, so he has plainly done his job well. (There are as many plots to kill Salacious Crumb as there are to kill Jabba himself.)
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Salacious Crumb; Jabba the Hutt — entry/section: Salacious Crumb.
 Note (our notes, around the quote): Salacious Crumb; Jabba the Hutt — entry/section: Salacious Crumb: "Crumb's job as jester is to make Jabba laugh at least once each day—or be eaten (either by the rancor, or Jabba himself). He has managed to survive years at Jabba's side, and everyone in Jabba's employ hates him, so he has plainly done his job well. (There are as many plots to kill Salacious Crumb as there are to kill Jabba himself.)" Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-crumbs-job-as-jester-is-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:352`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

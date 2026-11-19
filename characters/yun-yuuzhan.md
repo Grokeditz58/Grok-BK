@@ -20,7 +20,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan
 > Calling the species “the Vong” offends the creator god Yun-Yuuzhan and is blasphemy of the highest order.
 — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,; Yun-Yuuzhan — entry/section: Being Yuuzhan Vong.
 Note (our notes, around the quote): Yun-Yuuzhan — entry/section: Being Yuuzhan Vong: "Calling the species “the Vong” offends the creator god Yun-Yuuzhan and is blasphemy of the highest order." Source: *Star Wars Gamer 08* (SWRPG d20), scan p.40
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.40 — full quote as printed](quotes/d057-s40-calling-the-species-the-vong-offends.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-001-060.md:300`
 
 ## Star Wars Gamer/Star Wars Gamer 09.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

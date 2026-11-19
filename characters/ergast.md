@@ -14,7 +14,6 @@
 > Impressed by the powerful Force spirits, Sith Lord Ergast developed a Force-walking ritual thousands of years ago to absorb the restless spirits of the dead and feed off their incredible hunger.
 — Source: The Sith; Ergast — Force Spirits.
 Note (our notes, around the quote): Ergast — Force Spirits: "Impressed by the powerful Force spirits, Sith Lord Ergast developed a Force-walking ritual thousands of years ago to absorb the restless spirits of the dead and feed off their incredible hunger." Source: The Old Republic Encyclopedia, p.152
-![Quote image: The Old Republic Encyclopedia, p.152 — full quote as printed](quotes/tore-p152-impressed-by-the-powerful-force-spirits.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:75`
 
 # Debate and forum claims (unverified)

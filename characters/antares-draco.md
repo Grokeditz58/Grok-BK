@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Antares Six One of two New Republic escort frigates that accompanied the Millennium Falcon to Coruscant to rescue the crew of the Liberator, the Antares Six saved Lando Calrissian and Wedge Antilles after their Star Destroyer, Emancipator, was destroyed by an Imperial World Devastator.
 — Source: scan pages 41–80; Antares Draco; Lando Calrissian — entry/section: Antares Six.
 Note (our notes, around the quote): Antares Draco; Lando Calrissian — entry/section: Antares Six: "Antares Six One of two New Republic escort frigates that accompanied the Millennium Falcon to Coruscant to rescue the crew of the Liberator, the Antares Six saved Lando Calrissian and Wedge Antilles after their Star Destroyer, Emancipator, was destroyed by an Imperial World Devastator." Source: The Complete Star Wars Encyclopedia, Vol. I, p.33
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.33 — full quote as printed](quotes/v1-p33-antares-six-one-of-two-new.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:65`
 
 - Note (summary from our notes, not a quotation): Page contents: 997 words, 32 paragraphs | headings/entries: Draay, Lucien; Dracmus; Draco, Antares; Draco, Valin; Dracos; D'rag; Draggle, Skeck; Dragon Cave
@@ -295,12 +294,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:1217`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p14 (#1): resists torture.
 Label in our notes: p14 (#1): resists torture
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:712`
 
 - Note (summary from our notes, not a quotation): p45 (#2): breaks under the illusion.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:713`
 
 > DARTH HAVOK -- KNEW MY WEAKNESS. FOUND MY BREAKING POINT. I...
@@ -309,7 +308,7 @@ Our notes: `notes/materials/010-legacy-war.md:713`
 > ...BROKE. I TOLD THE SITH OF THE HIDDEN TEMPLE AND ITS LOCATION.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p59 (#3).
-![p59 Draco: HAVOK FOUND MY BREAKING POINT](010-legacy-war-panels/p059-draco-havok-found-my-breaking-point.jpg) *(p59)*
+![p59 Draco: HAVOK FOUND MY BREAKING POINT](../notes/materials/010-legacy-war-panels/p059-draco-havok-found-my-breaking-point.jpg) *(p59)*
 Our notes: `notes/materials/010-legacy-war.md:714`
 
 > FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY.
@@ -317,19 +316,19 @@ Our notes: `notes/materials/010-legacy-war.md:714`
 > MY WILL WAS BROKEN...I BELIEVED THE SITH HAD RECAPTURED YOU...WERE ABOUT TO KILL YOU! IT WAS A SITH ILLUSION...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p61 (#3).
-![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
 Our notes: `notes/materials/010-legacy-war.md:716`
 
 > I CAN FIGHT BESIDE YOU, MY PRINCESS! TO HONOR OR TO DEATH!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p67 (#3).
-![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
+![p67 Shado: "LET THEM TAKE WHAT IS GIVEN"](../notes/materials/010-legacy-war-panels/p067-shado-take-what-is-given.jpg)
 Our notes: `notes/materials/010-legacy-war.md:717`
 
 > I BROKE AND THE SITH USED ME AS A WEAPON!
 >
 > WHAT IF THEY PROGRAMMED ME IN WAYS I DO NOT KNOW?
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p98 (#5).
-![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](010-legacy-war-panels/p098-krieg-none-better.jpg)
+![p98 Krieg: "WE ARE IMPERIAL KNIGHTS. THERE ARE NONE BETTER."](../notes/materials/010-legacy-war-panels/p098-krieg-none-better.jpg)
 Our notes: `notes/materials/010-legacy-war.md:718`
 
 > FORGIVE ME, MY EMPEROR...
@@ -340,7 +339,7 @@ Our notes: `notes/materials/010-legacy-war.md:718`
 >
 > I WOULD FORFEIT MY LIFE FOR YOU AND THE HONOR OF THE EMPIRE, MAJESTY!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p100 (#5).
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
 Our notes: `notes/materials/010-legacy-war.md:719`
 
 > MY LIEGE, NO! THIS IS DARK SIDE! THE TOXIN WILL WIPE OUT ALL LIFE ON CORUSCANT! YOUR TROOPS AND ALLIES ARE DOWN THERE FIGHTING! BILLIONS OF INNOCENTS WILL DIE!
@@ -355,33 +354,33 @@ Our notes: `notes/materials/010-legacy-war.md:719`
 >
 > YOU STAND ON THE EDGE, MY LIEGE. DO NOT MAKE ME FULFILL MY OATH.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p120–121 (#6), the Knights' oath.
-![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
-![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
+![p120 "THERE ARE NO INNOCENTS ON CORUSCANT!"; Fel's push; Marasiah](../notes/materials/010-legacy-war-panels/p120-fel-no-innocents-marasiah-become-krayt.jpg)
+![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](../notes/materials/010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
 Our notes: `notes/materials/010-legacy-war.md:720`
 
 > A DARK SHUDDER IN THE FORCE!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Senses Krayt's death across space. POV: Senses Krayt's death across space, about Antares Draco.
 Context: p126 (#6):
-![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
-![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
+![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](../notes/materials/010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
 Our notes: `notes/materials/010-legacy-war.md:722`
 
 > IT IS NOT UP TO US! IF THE FORCE WILLS, THEN THE USURPER WILL FALL!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p126 (#6):
-![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
-![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
+![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](../notes/materials/010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
 Our notes: `notes/materials/010-legacy-war.md:723`
 
 > FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p61 Draco.
-Note (our notes, around the quote): ![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
+Note (our notes, around the quote): ![p61 Draco: "FORGIVENESS IS IMPOSSIBLE, I KNOW, MY LADY."](../notes/materials/010-legacy-war-panels/p061-draco-forgiveness-impossible.jpg)
 (*Panel: p61 — `p061-draco-forgiveness-impossible.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:726`
 
 > OR KILL HIM, IF HE WILL NOT.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p121 the Imperial Knights' oath.
-Note (our notes, around the quote): ![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
+Note (our notes, around the quote): ![p121 the Imperial Knights' oath: "OR KILL HIM, IF HE WILL NOT."](../notes/materials/010-legacy-war-panels/p121-draco-oath-kill-him-if-he-will-not.jpg)
 (*Panel: p121 — `p121-draco-oath-kill-him-if-he-will-not.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:729`
 
@@ -403,35 +402,35 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:120`
 
 > The highest-ranking member of the Imperial Knights, Antares Draco is a powerful Force-user whose dedication to Roan Fel is second to none.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:465`
 
 > was a member of the Inquisitorius under Palpatine
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; His ancestor.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:467`
 
 > An accomplished pilot as well as a skilled lightsaber duelist, Draco has earned his position of command of the Imperial Knights through years of hard work, discipline, and an unflinching loyalty that proves time and again that he is nearly incorruptible.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:469`; `suspect-insight/respect-threads/antares-draco.md:85`
 
 > Draco has defied Roan Fel's wishes on a few occasions, such as the time he traveled to Vendaxa to rescue Marasiah.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:471`
 
 > listening to the Force and heeding one's insights are traits that make the Imperial Knights more than just lightsaber-toting soldiers.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p175-listening-to-the-force-and-heeding.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p175-listening-to-the-force-and-heeding.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:473`
 
 > a warrior who is cunning, loyal, and incredibly competent.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p175-a-warrior-who-is-cunning-loyal.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p175-a-warrior-who-is-cunning-loyal.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:475`
 
 - Note (summary from our notes, not a quotation): CL 15; Medium Human Jedi 7/Imperial Knight 8. Destiny 1; Force 7; no Dark Side listed. Init +19; Perception +13 (stray "]" in print).
@@ -477,11 +476,11 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:490`
 > highest-ranking member of the Imperial Knights… a powerful Force-user
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p175 Draco bio.
-Note (our notes, around the quote): ![p175 Draco bio: "highest-ranking member of the Imperial Knights… a powerful Force-user"](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+Note (our notes, around the quote): ![p175 Draco bio: "highest-ranking member of the Imperial Knights… a powerful Force-user"](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 (*Panel: p175 Draco bio: "highest-ranking member of the Imperial Knights… a powerful Force-user" — `p175-antares-draco-bio.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:492`
 
-- Note (summary from our notes, not a quotation): ![p175 Antares Draco CL 15](011-legacy-era-campaign-guide-panels/p175-antares-draco-stat.jpg)
+- Note (summary from our notes, not a quotation): ![p175 Antares Draco CL 15](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-stat.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p175 Antares Draco CL 15 — `p175-antares-draco-stat.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:495`
@@ -492,12 +491,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:495`
 > [fragment — full passage not on file]
 — Source: (debate #17) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Draco quote (debate #17) — VERIFIED..
 Note (our notes, around the quote): Draco quote (debate #17) — VERIFIED. "The highest-ranking member of the Imperial Knights, Antares Draco is a powerful Force-user whose dedication to Roan Fel is second to none." is verbatim on p175 (printed 174). The "cortosis gauntlet; Vader-model armour" label is also verified (p175 possessions; armour text on p162 and p184).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p162 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p162-the-emperor-himself-trained-as-an.jpg)
-![p162 THE IMPERIAL KNIGHTS: "train strictly for combat, not contemplation"; Vader-derived armour](011-legacy-era-campaign-guide-panels/p162-imperial-knights.jpg)
-![p175 Antares Draco CL 15](011-legacy-era-campaign-guide-panels/p175-antares-draco-stat.jpg)
-![p175 Darth Wyyrlok CL 16](011-legacy-era-campaign-guide-panels/p175-darth-wyyrlok-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p162 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p162-the-emperor-himself-trained-as-an.jpg)
+![p162 THE IMPERIAL KNIGHTS: "train strictly for combat, not contemplation"; Vader-derived armour](../notes/materials/011-legacy-era-campaign-guide-panels/p162-imperial-knights.jpg)
+![p175 Antares Draco CL 15](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-stat.jpg)
+![p175 Darth Wyyrlok CL 16](../notes/materials/011-legacy-era-campaign-guide-panels/p175-darth-wyyrlok-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p175-draco-has-defied-roan-fel-s.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1071`
 
 - Note (summary from our notes, not a quotation): Fel Empire: Emperor Roan Fel (CL20), Antares Draco (CL15), Azlyn Rae (CL11), Marasiah Fel (CL10), the generic Imperial Knight (CL11), Knighthunter (CL7).
@@ -513,10 +512,10 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1102`
 > WE'RE GOING TO WIN BACK THE EMPEROR'S TRUST.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Sense the GA guards' hidden blasters. p71 (#9 Trust Issues) [009 p210]. Red-bordered quote caption: "FEEL IT. THEIR NERVES ARE ON EDGE. MY GUESS IS THAT THEY SMUGGLED BLASTER PARTS ON BOARD AND REASSEMBLED THEM. IT'S WHAT I WOULD HAVE DONE." · Draco: "MAKE SURE YOU CAN GET YOUR SABER IF YOU NEED IT. I DON'T TRUST THIS BUNCH." · "WE'RE GOING TO WIN BACK THE EMPEROR'S TRUST."
-![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+![p71 the Knights on the Wheel](../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:211`
 
-- Note (summary from our notes, not a quotation): ![p71 the Knights on the Wheel](012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
+- Note (summary from our notes, not a quotation): ![p71 the Knights on the Wheel](../notes/materials/012-legacy-vol-2-shards-panels/p071-knights-sense-ga-guards.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p71 — `p071-knights-sense-ga-guards.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:213`
@@ -525,16 +524,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:213`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 2. Deflect GA blaster fire; Draco Force-pushes Admiral Stazi off Bovark. p89 (#10 Trust Issues)–p92 (#10) [009 p228–231]
-![p89 Krieg holds the corridor](012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
-![p90 Draco Force-pushes Admiral Stazi](012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
+![p89 Krieg holds the corridor](../notes/materials/012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
+![p90 Draco Force-pushes Admiral Stazi](../notes/materials/012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:216`
 
-- Note (summary from our notes, not a quotation): ![p89 Krieg holds the corridor](012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
+- Note (summary from our notes, not a quotation): ![p89 Krieg holds the corridor](../notes/materials/012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p89 — `p089-draco-krieg-deflect.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:219`
 
-- Note (summary from our notes, not a quotation): ![p90 Draco Force-pushes Admiral Stazi](012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
+- Note (summary from our notes, not a quotation): ![p90 Draco Force-pushes Admiral Stazi](../notes/materials/012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p90 — `p090-draco-pushes-stazi.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:222`
@@ -574,7 +573,7 @@ Our notes: `legends-feats.md:533`; `suspect-insight/debates/017-antares-draco-vs
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Antares Draco: quote verified (the debate #17 citation is verbatim, p175). Stats: CL 15 (Jedi 7/Imperial Knight 8). UtF +19. Ref 33, Fort 32, Will 29. hp 137. Lightsaber +21 (2d8+13), or +16 (2d8+23) with Power Attack. Cortosis gauntlet. Juggernaut talent.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p175 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p175-antares-draco-bio.jpg)
 Our notes: `legends-feats.md:2492`
 
 > TO SERVE THE FORCE AS EMBODIED BY THE EMPEROR. AND IF THE EMPEROR HIMSELF STRAYS, TO BRING HIM BACK TO THE LIGHT -- OR KILL HIM, IF HE WILL NOT.

@@ -53,7 +53,6 @@ Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:289`
 > It was so regal that it made me walk and behave very differently than a twenty-two-year-old Sydney girl. Her entire role really is to support Amidala, and her safety is Dormé's top priority. That helped give me focus.
 — Source: Star Wars Insider #61 (2002); Padmé Amidala — entry/section: Rose Byrne on playing Dormé.
 Note (our notes, around the quote): Padmé Amidala — entry/section: Rose Byrne on playing Dormé: ""What really helped me get into the character of Dormé was definitely her costume," she admits. "It was so regal that it made me walk and behave very differently than a twenty-two-year-old Sydney girl. Her entire role really is to support Amidala, and her safety is Dormé's top priority. That helped give me focus." —Rose Byrne, Star Wars Insider 61, p. 46" Source: *Star Wars Insider #61* (2002), scan p.46
-![Quote image: *Star Wars Insider #61* (2002), scan p.46 — full quote as printed](quotes/ins061-s46-what-really-helped-me-get-into.jpg)
 Our notes: `notes/materials/038-star-wars-insider/061-ins061.md:291`
 
 > of course, of course, of course!

@@ -20,7 +20,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > Nunb, along with the Jedi Knights Jaina Solo and Lowbacca, defeated Czethros and booted his henchmen off Kessel for good.
 — Source: scan pages 91–120; Jaina Solo; Lowbacca.
 Note (our notes, around the quote): Jaina Solo; Lowbacca: "Nunb, along with the Jedi Knights Jaina Solo and Lowbacca, defeated Czethros and booted his henchmen off Kessel for good." Source: The New Essential Guide to Characters, p.122
-![Quote image: The New Essential Guide to Characters, p.122 — full quote as printed](quotes/negc-p122-nunb-along-with-the-jedi-knights.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:186`
 
 ## Characters/Nien Nunb, Kessel Administrator.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -36,13 +35,11 @@ Our notes: `notes/materials/037-sw-d20-folder/145-nien-nunb-kessel-administrator
 > Nien Nunb once flew freight for the Sullustan corporation SoroSuub, but he defected to the Rebellion when he saw his own employers willingly align themselves with the bigots of the Empire. After helping the Rebellion win many crucial victories -- most notably when he co-piloted the Millennium Falcon with Lando Calrissian at the Battle of Endor, destroying the second Death Star -- Nien Nunb continued to serve as a pilot and instructor in the New Republic forces for several years. He flew sorties against the Nagai, and when Han Solo needed a co-pilot for a low-profile mission to the planet Vandelhelm, Nunb volunteered for the job and ended up saving General Solo and the Millennium Falcon's passengers from certain death.
 — Source: Characters/Nien Nunb, Kessel Administrator.pdf [Star Wars Roleplaying Gam.
 Note (our notes, around the quote): Nien Nunb; Lando Calrissian; Han Solo — entry/section: Nien Nunb's career: "Nien Nunb once flew freight for the Sullustan corporation SoroSuub, but he defected to the Rebellion when he saw his own employers willingly align themselves with the bigots of the Empire. After helping the Rebellion win many crucial victories -- most notably when he co-piloted the Millennium Falcon with Lando Calrissian at the Battle of Endor, destroying the second Death Star -- Nien Nunb continued to serve as a pilot and instructor in the New Republic forces for several years. He flew sorties against the Nagai, and when Han Solo needed a co-pilot for a low-profile mission to the planet Vandelhelm, Nunb volunteered for the job and ended up saving General Solo and the Millennium Falcon's passengers from certain death." Source: *Nien Nunb, Kessel Administrator* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Nien Nunb, Kessel Administrator* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d145-s1-nien-nunb-once-flew-freight-for.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/145-nien-nunb-kessel-administrator.md:12`
 
 > With Calrissian's help, Nien Nunb later found success of a different type as the new administrator of the mining facility on Kessel. The Sullustan replaced slave driver Moruth Doole and has turned the mining operation into a profitable, legitimate business in a remarkably short time. His experience running freight early in his career, along with the tactical knowledge he gained in his time as a New Republic pilot, have served him well.
 — Source: Characters/Nien Nunb, Kessel Administrator.pdf [Star Wars Roleplaying Gam.
 Note (our notes, around the quote): Nien Nunb; Lando Calrissian; Moruth Doole — entry/section: Nien Nunb on Kessel: "With Calrissian's help, Nien Nunb later found success of a different type as the new administrator of the mining facility on Kessel. The Sullustan replaced slave driver Moruth Doole and has turned the mining operation into a profitable, legitimate business in a remarkably short time. His experience running freight early in his career, along with the tactical knowledge he gained in his time as a New Republic pilot, have served him well." Source: *Nien Nunb, Kessel Administrator* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Nien Nunb, Kessel Administrator* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d145-s1-with-calrissians-help-nien-nunb-later.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/145-nien-nunb-kessel-administrator.md:14`
 
 ## Jedi Counselling/Jedi Counseling 79.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -63,7 +60,6 @@ Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:38`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 Note (our notes, around the quote): A: The real question here is, "Does flavor text count for rules purposes?" The answer is no, flavor text does not count. (It didn't count for Chewbacca or Tarfful, after all, and that's why we had to issue errata to identify them as Wookiees.) Thus, Nien Nunb does not count as a pilot unless the designers decide to change it with errata." Source: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d248-s3-q-is-nien-nunb-supposed-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:39`
 
 ## Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 1 - File Vandelhelm­LC:hsnn.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -81,19 +77,16 @@ Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.m
 > Calrissian owes me my own combat freighter for this.
 — Source: Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 4 - The Dem.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Nien Nunb, personal log: "Calrissian owes me my own combat freighter for this." Source: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d623-s1-calrissian-owes-me-my-own-combat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.md:12`
 
 > Though it required more than a little arm-twisting in the case of both parties, Han Solo and Nien Nunb accepted an invitation to return to Vandelhelm and take honorary possession of the fleet in an elaborate ceremony.
 — Source: Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 4 - The Dem; Han Solo. POV: Han Solo, about Nien Nunb.
 Note (our notes, around the quote): Han Solo: "Though it required more than a little arm-twisting in the case of both parties, Han Solo and Nien Nunb accepted an invitation to return to Vandelhelm and take honorary possession of the fleet in an elaborate ceremony." Source: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d623-s1-though-it-required-more-than-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.md:14`
 
 > According to multiple complaints C-3PO filed with the New Republic Head of State at the time, Chewbacca threatened to disarm the droid Wookiee-style when he pointed out that protocol called for only Solo and Nien Nunb to attend.
 — Source: Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 4 - The Dem; Chewbacca. POV: Chewbacca, about Nien Nunb.
 Note (our notes, around the quote): Chewbacca: "According to multiple complaints C-3PO filed with the New Republic Head of State at the time, Chewbacca threatened to disarm the droid Wookiee-style when he pointed out that protocol called for only Solo and Nien Nunb to attend." Source: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d623-s1-according-to-multiple-complaints-c-3po.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.md:16`
 
 - Note (summary from our notes, not a quotation): Page contents: Nunb destroys the droid; Han subdues Endro, who plotted to frame Nunb and sell the fleet; heading home; April teaser (Adumar); Greater Javin mini-adventure plug (hand-read)
@@ -103,7 +96,6 @@ Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.m
 > Yeah, Calrissian owes us both, and Solo owes me even more. Maybe not a ship. Maybe just some peace.
 — Source: Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 4 - The Dem.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Nien Nunb, personal log: "Yeah, Calrissian owes us both, and Solo owes me even more. Maybe not a ship. Maybe just some peace." Source: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d623-s2-yeah-calrissian-owes-us-both-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.md:23`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -121,7 +113,6 @@ Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-
 > The existence of spice spiders was not common knowledge until late in the Rebellion era. Until that time, these creatures were only rumors. The Imperial agents who ran the Kessel mines for some time were aware that something was killing workers in the lower levels of the mine, but closed off those sections instead of investigating the cause. It was only after the Sullustan Nien Nunb came to run the mines that the true nature of spice spiders was discovered.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Nien Nunb — entry/section: Spice Spider: Era Notes.
 Note (our notes, around the quote): Nien Nunb — entry/section: Spice Spider: Era Notes: "The existence of spice spiders was not common knowledge until late in the Rebellion era. Until that time, these creatures were only rumors. The Imperial agents who ran the Kessel mines for some time were aware that something was killing workers in the lower levels of the mine, but closed off those sections instead of investigating the cause. It was only after the Sullustan Nien Nunb came to run the mines that the true nature of spice spiders was discovered." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.122
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.122 — full quote as printed](quotes/d672-s122-the-existence-of-spice-spiders-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-121-162.md:17`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -163,7 +154,6 @@ Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:441`
 > I'd have to go with Nien Nunb. I thought he looked pretty good, and I thought his speech pattern was phenomenal. He's one of those quick hits—he's in and out of the picture. Followed closely by Admiral Ackbar, also a good-looking character from Jedi. They really did kind of nail them by then.
 — Source: Star Wars Insider #56 (2001).
 Note (our notes, around the quote): Nien Nunb; Admiral Ackbar — entry/section: Kevin Smith on his favorite Star Wars alien: ""I'd have to go with Nien Nunb. I thought he looked pretty good, and I thought his speech pattern was phenomenal. He's one of those quick hits—he's in and out of the picture. Followed closely by Admiral Ackbar, also a good-looking character from Jedi. They really did kind of nail them by then." —Kevin Smith, Star Wars Insider 56, p. 16 (Kevin Smith flip section)" Source: *Star Wars Insider #56* (2001), scan p.75
-![Quote image: *Star Wars Insider #56* (2001), scan p.75 — full quote as printed](quotes/ins056-s75-id-have-to-go-with-nien.jpg)
 Our notes: `notes/materials/038-star-wars-insider/056-ins056.md:445`
 
 ## Star Wars Insider #59 (2002)

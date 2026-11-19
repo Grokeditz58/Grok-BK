@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > To hone his skills, Khlor is fond of releasing sentient beings on the island and hunting them down over a few days until he becomes bored.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Khlor — entry/section: Khlor hunts sentients for sport.
 Note (our notes, around the quote): Khlor — entry/section: Khlor hunts sentients for sport: "To hone his skills, Khlor is fond of releasing sentient beings on the island and hunting them down over a few days until he becomes bored." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.158
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.158 — full quote as printed](quotes/d665-s158-to-hone-his-skills-khlor-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-121-162.md:276`
 
 - Note (summary from our notes, not a quotation): Page contents: For the GM: Missing Aquascout, Escape from Khlor's Island; Khlor, Bounty Hunter (Scoundrel 6/Soldier 4/Bounty Hunter 5) begins; island map (hand-read)

@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-10
 > “Unless the Landing's champions defeat those of the Menahuun, we'll overrun 'the Slayer's' land and kill all in our path.”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Eeytch — entry/section: The Menahuun shaman to the heroes.
 Note (our notes, around the quote): Eeytch — entry/section: The Menahuun shaman to the heroes: "“Unless the Landing's champions defeat those of the Menahuun, we'll overrun 'the Slayer's' land and kill all in our path.”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.77
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.77 — full quote as printed](quotes/d056-s77-unless-the-landings-champions-defeat-those.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:114`
 
 # Debate and forum claims (unverified)

@@ -14,7 +14,6 @@
 > FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr.
 — Source: The Sith; Darth Baras; Emperor's Wrath (Sith Warrior) — Data box.
 Note (our notes, around the quote): Darth Baras; Emperor's Wrath (Sith Warrior) — Data box: "FAMILY: Darth Ekkage (sister) RIVALS: Jedi Master Nomen Karr, Darth Vowrawn, Lord Rathari APPRENTICES: Lord Draahg; the Sith warrior who became the Emperor's Wrath SPECIAL FEATURES: His mask—a symbol of indomitable secrecy. He has worn it since he exposed Nomen Karr." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-family-darth-ekkage-sister-rivals-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:396`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

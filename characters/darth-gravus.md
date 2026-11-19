@@ -14,7 +14,6 @@
 > Under the command of Sith Lord Darth Gravus, Imperial forces descended on Taris. Shock troopers razed buildings, starships firebombed settlements, and Sith began a merciless campaign to eradicate all life among the ruins.
 — Source: Species, technology, planets and the future; Darth Gravus — Return to Ruin box (top-right).
 Note (our notes, around the quote): Darth Gravus — Return to Ruin box (top-right): "Under the command of Sith Lord Darth Gravus, Imperial forces descended on Taris. Shock troopers razed buildings, starships firebombed settlements, and Sith began a merciless campaign to eradicate all life among the ruins." Source: The Old Republic Encyclopedia, p.309, sidebar
-![Quote image: The Old Republic Encyclopedia, p.309 — full quote as printed](quotes/tore-p309-under-the-command-of-sith-lord.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:365`
 
 # Debate and forum claims (unverified)

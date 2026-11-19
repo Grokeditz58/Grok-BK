@@ -26,7 +26,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-22
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf`.)
 Note (our notes, around the quote): Tehlan Aleece; Snaeb Fronk — entry/section: Fronk confronts Aleece: ""Oh? And what is that?" she replies. "Don't play naive with me! I've seen you—I've been watching you," he says. "You and your little network of spies—" You hear a slap. "You're a feisty one," Fronk continues. "But no matter. It's too late for you. I've informed your uncle of your treasonous ways. You'll be in the spice mines of Kessel before this is done."" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.186
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.186 — full quote as printed](quotes/d716-s186-oh-and-what-is-that-she.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-226.md:57`
 
 # Debate and forum claims (unverified)

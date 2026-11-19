@@ -14,7 +14,6 @@
 > With the help of Lady Valarian, he tried to have the rancor smuggled offworld, but on the morning the escape was to take place the rancor was killed by Luke Skywalker.
 — Source: scan pages 281–320; Luke Skywalker. POV: Luke Skywalker, about Lady Valarian.
 Note (our notes, around the quote): Luke Skywalker: "With the help of Lady Valarian, he tried to have the rancor smuggled offworld, but on the morning the escape was to take place the rancor was killed by Luke Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. II, p.279
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.279 — full quote as printed](quotes/v2-p279-with-the-help-of-lady-valarian.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:50`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -42,26 +41,22 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > She finally reached agreements with Jabba in which she paid him an exorbitant sum to leave him in peace and promised not to try to extend her criminal operations farther than the spaceport. Officially, they both honor their side of the bargain—but the truce between them is a shaky one. Each is constantly testing the other's defenses, seeking a way to eliminate the competition once and for all.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Lady Valarian; Jabba the Hutt — entry/section: Lady Valarian.
 Note (our notes, around the quote): Lady Valarian; Jabba the Hutt — entry/section: Lady Valarian: "She finally reached agreements with Jabba in which she paid him an exorbitant sum to leave him in peace and promised not to try to extend her criminal operations farther than the spaceport. Officially, they both honor their side of the bargain—but the truce between them is a shaky one. Each is constantly testing the other's defenses, seeking a way to eliminate the competition once and for all." Source: *Secrets of Tatooine* (SWRPG d20), scan p.49
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.49 — full quote as printed](quotes/d045-s49-she-finally-reached-agreements-with-jabba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:296`
 
 > warrior of the huge bounty on Han Solo's head. Predictably, D'Wopp decided to set out at once to collect the prize. Valarian objected—violently—to her new mate's poor timing (and choice of patrons), and in the ensuing argument, she killed her own newlywed husband.
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Lady Valarian; Han Solo; Jabba the Hutt — entry/section: Lady Valarian: "warrior of the huge bounty on Han Solo's head. Predictably, D'Wopp decided to set out at once to collect the prize. Valarian objected—violently—to her new mate's poor timing (and choice of patrons), and in the ensuing argument, she killed her own newlywed husband." Source: *Secrets of Tatooine* (SWRPG d20), scan p.50
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.50 — full quote as printed](quotes/d045-s50-warrior-of-the-huge-bounty-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:303`
 
 > With Jabba's own death just before the Battle of Endor, Valarian finally had her chance to seize Jabba's empire. Assuming that all Jabba's lieutenants had been killed aboard his sail barge—there certainly wasn't any news coming out of Jabba's palace—Valarian quickly took over Jabba's operations in and around Mos Eisley and began extending her reach into Tatooine's other cities as well. Of course, without Jabba around to call the shots, most of the Hutt's smuggler contacts drifted to other patrons, notably the elusive Talon Karrde.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Lady Valarian; Jabba the Hutt; Talon Karrde — entry/section: Lady Valarian: "With Jabba's own death just before the Battle of Endor, Valarian finally had her chance to seize Jabba's empire. Assuming that all Jabba's lieutenants had been killed aboard his sail barge—there certainly wasn't any news coming out of Jabba's palace—Valarian quickly took over Jabba's operations in and around Mos Eisley and began extending her reach into Tatooine's other cities as well. Of course, without Jabba around to call the shots, most of the Hutt's smuggler contacts drifted to other patrons, notably the elusive Talon Karrde." Source: *Secrets of Tatooine* (SWRPG d20), scan p.50
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.50 — full quote as printed](quotes/d045-s50-with-jabbas-own-death-just-before.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:305`
 
 > When Jabba smeared meat all over the assassin droid and threw it to his rancor, all that was left was twisted scraps of metal and broken gears. Lady Valarian rescued the scrap and paid to have it rebuilt and reprogrammed—all because she knew it would spoil Jabba's fun.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt; Lady Valarian — entry/section: Eefive-Tootoo.
 Note (our notes, around the quote): Jabba the Hutt; Lady Valarian — entry/section: Eefive-Tootoo: "When Jabba smeared meat all over the assassin droid and threw it to his rancor, all that was left was twisted scraps of metal and broken gears. Lady Valarian rescued the scrap and paid to have it rebuilt and reprogrammed—all because she knew it would spoil Jabba's fun." Source: *Secrets of Tatooine* (SWRPG d20), scan p.50
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.50 — full quote as printed](quotes/d045-s50-when-jabba-smeared-meat-all-over.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:307`
 
 - Note (summary from our notes, not a quotation): Page contents: NJO era: Mos Entha model city; Valarian bought a city council seat via deal with the New Republic; protégé Shiri'ani (Twi'lek Expert 2/Diplomat 3, CC D) bought as a child slave by Bib Fortuna (hand-read)
@@ -71,13 +66,11 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > She has had a progressively more difficult time staying disassociated from criminal incidents and has been the target of no less than seven recent assassination attempts—some of which originated within the ranks of her own organization.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Lady Valarian — entry/section: Who's In Charge.
 Note (our notes, around the quote): Lady Valarian — entry/section: Who's In Charge: "She has had a progressively more difficult time staying disassociated from criminal incidents and has been the target of no less than seven recent assassination attempts—some of which originated within the ranks of her own organization." Source: *Secrets of Tatooine* (SWRPG d20), scan p.57
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.57 — full quote as printed](quotes/d045-s57-she-has-had-a-progressively-more.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:371`
 
 > Her eagerness has blinded her, though, and she is allowing Olan to gradually turn her against Lady Valarian. With each passing day, she channels more of her resources into aiding Firith Olan instead of her mentor—never guessing that he secretly is Bib Fortuna, his brain implanted in Olan's body.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna; Lady Valarian — entry/section: Shiri'ani.
 Note (our notes, around the quote): Bib Fortuna; Lady Valarian — entry/section: Shiri'ani: "Her eagerness has blinded her, though, and she is allowing Olan to gradually turn her against Lady Valarian. With each passing day, she channels more of her resources into aiding Firith Olan instead of her mentor—never guessing that he secretly is Bib Fortuna, his brain implanted in Olan's body." Source: *Secrets of Tatooine* (SWRPG d20), scan p.60
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.60 — full quote as printed](quotes/d045-s60-her-eagerness-has-blinded-her-though.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:390`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–95)
@@ -85,7 +78,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Fortuna is content to let Shiri'ani believe what she likes until he has crushed Valarian, at which point he will dispose of her—perhaps by selling her into slavery again, or letting the monks enlighten her as they once did him.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna; Lady Valarian — entry/section: Bib Fortuna Returns.
 Note (our notes, around the quote): Bib Fortuna; Lady Valarian — entry/section: Bib Fortuna Returns: "Fortuna is content to let Shiri'ani believe what she likes until he has crushed Valarian, at which point he will dispose of her—perhaps by selling her into slavery again, or letting the monks enlighten her as they once did him." Source: *Secrets of Tatooine* (SWRPG d20), scan p.63
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.63 — full quote as printed](quotes/d045-s63-fortuna-is-content-to-let-shiriani.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:24`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -107,7 +99,6 @@ Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:293`
 > The tubby rancor-keeper is best remembered for his crying jag following the death of his pet. Tales from Jabba's Palace explored the bond between trainer and monster, revealing that Malakili had plotted with Jabba's Whipid rival Lady Valarian to free the rancor from its cruel captivity, only to see those hopes dashed when Luke Skywalker brought a gate down on the creature's head. More recently, the Star Wars ongoing comic gave a glimpse of Malakili's early days in the Circus Horrificus, and LucasArts' Star Wars Demolition allowed gamers to control Malakili and his rancor as contestants in a smash-and-crash vehicular brawl.
 — Source: Star Wars Insider #60 (2002); Luke Skywalker; Lady Valarian; Jabba's Rancor — entry/section: Malakili.
 Note (our notes, around the quote): Luke Skywalker; Lady Valarian; Jabba's Rancor — entry/section: Malakili: "The tubby rancor-keeper is best remembered for his crying jag following the death of his pet. Tales from Jabba's Palace explored the bond between trainer and monster, revealing that Malakili had plotted with Jabba's Whipid rival Lady Valarian to free the rancor from its cruel captivity, only to see those hopes dashed when Luke Skywalker brought a gate down on the creature's head. More recently, the Star Wars ongoing comic gave a glimpse of Malakili's early days in the Circus Horrificus, and LucasArts' Star Wars Demolition allowed gamers to control Malakili and his rancor as contestants in a smash-and-crash vehicular brawl." Source: *Star Wars Insider #60* (2002), scan p.84
-![Quote image: *Star Wars Insider #60* (2002), scan p.84 — full quote as printed](quotes/ins060-s84-the-tubby-rancor-keeper-is-best.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:638`
 
 # Debate and forum claims (unverified)

@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:2
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ry sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 06 The Core of Corruption (text copy `ry_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_06_The_Core_of_Corruption_pdf_ae23e5a72e`).)
 Note (our notes, around the quote): Nolor — entry/section: Inquisitor Nolor: "Inquisitor Nolor was a young Jedi who fell to the dark side while fighting Separatists at the end of the Clone Wars. He narrowly avoided Order 66 and was hunted down by the earliest Inquisitors. They recognized his potential and molded him into an adept interrogator." Source: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.47
-![Quote image: *06 - The Core of Corruption* (SWRPG Saga Edition), scan p.47 — full quote as printed](quotes/d708-s47-inquisitor-nolor-was-a-young-jedi.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/708-06-the-core-of-corruption.md:288`
 
 - Note (summary from our notes, not a quotation): Page contents: Nolor tactics; conclusion. (hand-read)

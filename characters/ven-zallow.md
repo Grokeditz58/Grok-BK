@@ -14,36 +14,30 @@
 > The Jedi fought valiantly to defend their temple, but Malgus crushed their leader, Master Ven Zallow, and led the Sith to an overwhelming victory.
 — Source: The Galactic Republic; Darth Malgus; Ven Zallow — Sacking of Coruscant box.
 Note (our notes, around the quote): Darth Malgus; Ven Zallow — Sacking of Coruscant box: "The Jedi fought valiantly to defend their temple, but Malgus crushed their leader, Master Ven Zallow, and led the Sith to an overwhelming victory." Source: The Old Republic Encyclopedia, p.27
-![Quote image: The Old Republic Encyclopedia, p.27 — full quote as printed](quotes/tore-p27-the-jedi-fought-valiantly-to-defend.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:40`
 
 > Sith Lord Darth Malgus and Jedi Master Ven Zallow's battle on Coruscant was another clash in the unending battle between light and dark.
 — Source: The Jedi Order; Darth Malgus; Ven Zallow — Enemies of the Sith caption.
 Note (our notes, around the quote): Darth Malgus; Ven Zallow — Enemies of the Sith caption: "Sith Lord Darth Malgus and Jedi Master Ven Zallow's battle on Coruscant was another clash in the unending battle between light and dark." Source: The Old Republic Encyclopedia, p.67, sidebar
-![Quote image: The Old Republic Encyclopedia, p.67 — full quote as printed](quotes/tore-p67-sith-lord-darth-malgus-and-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:31`
 
 - Note (summary from our notes, not a quotation): Revan; Ven Zallow; Kao Cen Darach — Jedi Knight data box: "NOTABLE JEDI KNIGHTS: Revan, Ven Zallow, Kao Cen Darach" Source: The Old Republic Encyclopedia, p.90
   — Source: The Jedi Order.
-![Quote image: The Old Republic Encyclopedia, p.90 — full quote as printed](quotes/tore-p90-notable-jedi-knights-revan-ven-zallow.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:275`
 
 > In reality, Jedi Master Ven Zallow had dispatched T7 to work undercover inside the galactic underworld.
 — Source: The Jedi Order; Ven Zallow — T7-01.
 Note (our notes, around the quote): Ven Zallow — T7-01: "In reality, Jedi Master Ven Zallow had dispatched T7 to work undercover inside the galactic underworld." Source: The Old Republic Encyclopedia, p.95, sidebar
-![Quote image: The Old Republic Encyclopedia, p.95 — full quote as printed](quotes/tore-p95-in-reality-jedi-master-ven-zallow.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:327`
 
 > NOTABLE MODELS: T7-01, owned by Jedi Master Ven Zallow and notorious smuggler Nico Okarr; T3-M4, owned by Sith Lord Darth Revan
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future.
 Note (our notes, around the quote): Revan; Ven Zallow — Astromech data box (top-left of right page, zoomed): "NOTABLE MODELS: T7-01, owned by Jedi Master Ven Zallow and notorious smuggler Nico Okarr; T3-M4, owned by Sith Lord Darth Revan" Source: The Old Republic Encyclopedia, p.279, sidebar
-![Quote image: The Old Republic Encyclopedia, p.279 — full quote as printed](quotes/tore-p279-notable-models-t7-01-owned-by.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:178`
 
 - Note (summary from our notes, not a quotation): Ven Zallow — Jedi Temple caption: "The main hall of the Jedi Temple is dominated by the "Eye of Zallow," a monument to the fallen members of the Jedi Order." Source: The Old Republic Encyclopedia, p.289, sidebar
   — Source: Species, technology, planets and the future.
-![Quote image: The Old Republic Encyclopedia, p.289 — full quote as printed](quotes/tore-p289-the-main-hall-of-the-jedi.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:237`
 
 ## "My Problems with Caedus Wank: Why I find Caedus = Maul more believable than Caedus = Yoda" (Master Azronger)

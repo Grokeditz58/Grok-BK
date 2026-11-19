@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Part Seven: Empire Resurgent; Kanos kills Jax. POV: Kanos kills Jax, about Jax Pavan.
 Note (our notes, around the quote): Kanos kills Jax: "On an elevated platform suspended above a bottomless pit, Kanos killed his rival" Source: The New Essential Chronology, p.159
-![Quote image: The New Essential Chronology, p.159 — full quote as printed](quotes/nec-p159-kanos-kills-jax.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:128`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -23,7 +22,6 @@ Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-re
 > Hannad held off Jax's troops long enough for Kanos to escape, but eventually was overwhelmed and killed.
 — Source: scan pages 1–40; Jax Pavan; Kir Kanos.
 Note (our notes, around the quote): Jax Pavan; Kir Kanos: "Hannad held off Jax's troops long enough for Kanos to escape, but eventually was overwhelmed and killed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.14
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.14 — full quote as printed](quotes/v2-p14-hannad-held-off-jaxs-troops-long.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:127`
 
 - Note (summary from our notes, not a quotation): Page contents: 864 words, 19 paragraphs | headings/entries: Jax, Carnor; Jax, Hukta; Jaxa; Jaxal, Solo; Jaxus; Jaxxon; Jay
@@ -33,49 +31,41 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > Jax was the son of a Thyrsian Sun Guard member who was killed by Darth Sidious.
 — Source: scan pages 121–160.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Palpatine (Darth Sidious) — entry/section: Jax, Carnor: "Jax was the son of a Thyrsian Sun Guard member who was killed by Darth Sidious." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-jax-was-the-son-of-a.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:213`
 
 > Carnor Jax (left) faces Kir Kanos in a duel to the death.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Carnor Jax (left) faces Kir Kanos in a duel to the death." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-carnor-jax-left-faces-kir-kanos.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:215`
 
 > When Palpatine's clones were destroyed at Byss, Jax made his bid for control of the Empire by creating the Imperial Interim Ruling Council and assuming its leadership.
 — Source: scan pages 121–160.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Palpatine (Darth Sidious) — entry/section: Jax, Carnor: "When Palpatine's clones were destroyed at Byss, Jax made his bid for control of the Empire by creating the Imperial Interim Ruling Council and assuming its leadership." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-when-palpatines-clones-were-destroyed-at.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:217`
 
 > Jax learned that Kanos survived, and knew that he had to eliminate the threat he posed.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Jax learned that Kanos survived, and knew that he had to eliminate the threat he posed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-jax-learned-that-kanos-survived-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:219`
 
 > Kanos wiped out the entire squadron, leaving Jax to face him in one-on-one combat in the Squall.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Kanos wiped out the entire squadron, leaving Jax to face him in one-on-one combat in the Squall." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-kanos-wiped-out-the-entire-squadron.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:221`
 
 > After Blim was eliminated by Mirith Sinn and Sish Sadeet, Jax nearly defeated Kanos.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "After Blim was eliminated by Mirith Sinn and Sish Sadeet, Jax nearly defeated Kanos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-after-blim-was-eliminated-by-mirith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:223`
 
 > But in a short duel, Kanos drove the blade of his staff through Jax's breastplate, piercing his heart and killing him instantly.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "But in a short duel, Kanos drove the blade of his staff through Jax's breastplate, piercing his heart and killing him instantly." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-but-in-a-short-duel-kanos.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:225`
 
 > After Jax was killed on Yinchorr, Nolyds took control of the Council.
 — Source: scan pages 361–400; Jax Pavan. POV: Jax Pavan.
 Note (our notes, around the quote): Jax Pavan: "After Jax was killed on Yinchorr, Nolyds took control of the Council." Source: The Complete Star Wars Encyclopedia, Vol. II, p.387
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.387 — full quote as printed](quotes/v2-p387-after-jax-was-killed-on-yinchorr.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:268`
 
 - Note (summary from our notes, not a quotation): Page contents: 1189 words, 39 paragraphs | headings/entries: Norquest; Norric's; Norsh, Galinda; Northaykk; North Barris Spaceport; North Beach; North Conical Mountains; Northeast Refineries; Northern Bands; Northern Dune Sea; Northern Lakes; Northern Province; Northern Sea; North Horn Flightknife; North Market; Norveel, Jax; Norufu; Norulac; Norys; Norval W
@@ -91,13 +81,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan
 > When Jax was killed, Quest was ostracized by the Ruling Council and went into hiding.
 — Source: scan pages 41–80; Jax Pavan. POV: Jax Pavan.
 Note (our notes, around the quote): Jax Pavan: "When Jax was killed, Quest was ostracized by the Ruling Council and went into hiding." Source: The Complete Star Wars Encyclopedia, Vol. III, p.62
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.62 — full quote as printed](quotes/v3-p62-when-jax-was-killed-quest-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:219`
 
 > General Wessel made a fatal mistake by bringing Kir Kanos's bomb-rigged ship aboard Jax's Star Destroyer Emperor's Revenge. \t exploded and killed everyone on board.
 — Source: scan pages 321–360; Kir Kanos; Jax Pavan.
 Note (our notes, around the quote): Kir Kanos; Jax Pavan: "General Wessel made a fatal mistake by bringing Kir Kanos's bomb-rigged ship aboard Jax's Star Destroyer Emperor's Revenge. \t exploded and killed everyone on board." Source: The Complete Star Wars Encyclopedia, Vol. III, p.327
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.327 — full quote as printed](quotes/v3-p327-general-wessel-made-a-fatal-mistake.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:102`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -113,7 +101,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-06
 > Jax was killed by Kir Kanos, The Imperial Ruling Council immediately moved against Sarcev, dumping him like refuse at Nar Shaddaa after a week-long torture session that prompted uncharacteristically inelegant screams from the Hand Adventure Seed; Unfinished Business Following his imprisonment and torture, Sarcev Quest disappeared ARDEN LYN The Followers of Palawa were intense contemplators of exis tence.
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Kir Kanos — entry/section: Star Wars Gamer 05.
 Note (our notes, around the quote): Kir Kanos — entry/section: Star Wars Gamer 05: "Jax was killed by Kir Kanos, The Imperial Ruling Council immediately moved against Sarcev, dumping him like refuse at Nar Shaddaa after a week-long torture session that prompted uncharacteristically inelegant screams from the Hand Adventure Seed; Unfinished Business Following his imprisonment and torture, Sarcev Quest disappeared ARDEN LYN The Followers of Palawa were intense contemplators of exis tence." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.41
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.41 — full quote as printed](quotes/d054-s41-jax-was-killed-by-kir-kanos.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:254`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 1/102 - Eye of the Sun - The Resistance Within.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -134,7 +121,6 @@ Our notes: `notes/materials/037-sw-d20-folder/272-102-eye-of-the-sun-the-resista
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from laying Game Revised Core Living Force Campaign Adventures Among the Stars Year 4 403 Jedi Code The Dark Side Beckons (text copy `laying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_403_Jedi_Code_The_Dark_Side_Beckons_pdf_5dc0060dc9`).)
 (Full sentence/passage taken from the source text on file: `laying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_4_403_Jedi_Code_The_Dark_Side_Beckons_pdf`.)
 Note (our notes, around the quote): Jax Pavan: ""You'll get us all killed!" and then they shoot Jax in the back, killing him, and try to run off." Source: *403 - Jedi Code - The Dark Side Beckons* (SWRPG d20 Revised Core), p.24
-![Quote image: *403 - Jedi Code - The Dark Side Beckons* (SWRPG d20 Revised Core), p.24 — full quote as printed](quotes/d326-p24-youll-get-us-all-killed-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/326-403-jedi-code-the-dark-side-beckons.md:205`
 
 ## Living Force Campaign/Adventures/Among the Stars/Year 5/515 - EndTimes - The Eye.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -173,7 +159,6 @@ Our notes: `notes/materials/038-star-wars-insider/139-ins139.md:316`
 > Jax's ultimate fate is in some ways hostage to his history with Anakin Skywalker, because Jax is everything Anakin might have been. So saying that Jax is a thorn in the Dark Lord's side is putting it mildly. Vader hates Jax and everything he symbolizes.
 — Source: Star Wars Insider #139 (2013).
 Note (our notes, around the quote): Jax Pavan; Darth Vader (Anakin Skywalker) — entry/section: Bohnhoff on Vader's fixation on Jax: ""Killing Jax has become a bit of an obsession with Vader," says Bohnhoff. "Jax's ultimate fate is in some ways hostage to his history with Anakin Skywalker, because Jax is everything Anakin might have been. So saying that Jax is a thorn in the Dark Lord's side is putting it mildly. Vader hates Jax and everything he symbolizes." —Maya Kaathryn Bohnhoff, Star Wars Insider 139, p. 60" Source: *Star Wars Insider #139* (2013), scan p.60
-![Quote image: *Star Wars Insider #139* (2013), scan p.60 — full quote as printed](quotes/ins139-s60-killing-jax-has-become-a-bit.jpg)
 Our notes: `notes/materials/038-star-wars-insider/139-ins139.md:318`
 
 ## Star Wars Insider #145 (2013)
@@ -181,7 +166,6 @@ Our notes: `notes/materials/038-star-wars-insider/139-ins139.md:318`
 > Once a person or group was targeted for blame, Anakin set out with single-minded will to destroy them. Tusken Raiders, Jedi (in the Coruscant Nights books, Jax Pavan, a fellow Jedi), even the woman he supposedly loved were blamed and targeted for destruction.
 — Source: Star Wars Insider #145 (2013).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Jax Pavan — entry/section: Bohnhoff: Anakin targets those he blames: ""Once a person or group was targeted for blame, Anakin set out with single-minded will to destroy them. Tusken Raiders, Jedi (in the Coruscant Nights books, Jax Pavan, a fellow Jedi), even the woman he supposedly loved were blamed and targeted for destruction." —Maya Kaathryn Bohnhoff, Star Wars Insider 145, p. 13" Source: *Star Wars Insider #145* (2013), scan p.13
-![Quote image: *Star Wars Insider #145* (2013), scan p.13 — full quote as printed](quotes/ins145-s13-once-a-person-or-group-was.jpg)
 Our notes: `notes/materials/038-star-wars-insider/145-ins145.md:72`
 
 ## Coruscant Nights IV: The Last Jedi (Michael Reaves & Maya Kaathryn Bohnhoff)

@@ -139,7 +139,6 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:1332`; `not
 > [fragment — full passage not on file]
 — Source: The Jedi Order.
 Note (our notes, around the quote): Odan-Urr; Jolee Bindo; Exar Kun; Revan — Jedi Consular data box: "NOTABLE JEDI CONSULARS: Odan Urr: Defined the Jedi Code, founded the Great Library on Ossus, and served as Watchman of Koros. Jolee Bindo: Fought Exar Kun in the Great Sith War, then alongside Revan in the Jedi Civil War" Source: The Old Republic Encyclopedia, p.96
-![Quote image: The Old Republic Encyclopedia, p.96 — full quote as printed](quotes/tore-p96-notable-jedi-consulars-odan-urr-defined.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:338`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -153,13 +152,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > LOOK, EVERYBODY ALWAYS FIGURES THE TIME THEY LIVE IN IS THE MOST EPIC, MOST IMPORTANT AGE TO END ALL AGES. BUT TYRANTS AND HEROES RISE AND FALL, AND HISTORIANS SORT OUT THE PIECES.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Jolee Bindo — entry/section: Pull quote (Jolee Bindo). POV: speaker not named in our notes.
 Note (our notes, around the quote): Jolee Bindo — entry/section: Pull quote (Jolee Bindo): ""LOOK, EVERYBODY ALWAYS FIGURES THE TIME THEY LIVE IN IS THE MOST EPIC, MOST IMPORTANT AGE TO END ALL AGES. BUT TYRANTS AND HEROES RISE AND FALL, AND HISTORIANS SORT OUT THE PIECES." —JOLEE BINDO" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.8 — full quote as printed](quotes/d718-s8-look-everybody-always-figures-the-time.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:63`
 
 > I'M ALLOWED TO BE ENIGMATIC WHEN I WANT TO BE!
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Jolee Bindo — entry/section: Pull quote (Jolee Bindo). POV: speaker not named in our notes.
 Note (our notes, around the quote): Jolee Bindo — entry/section: Pull quote (Jolee Bindo): ""I'M ALLOWED TO BE ENIGMATIC WHEN I WANT TO BE!" —JOLEE BINDO" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.54
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.54 — full quote as printed](quotes/d718-s54-im-allowed-to-be-enigmatic-when.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-001-060.md:340`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

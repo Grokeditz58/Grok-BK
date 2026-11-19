@@ -14,19 +14,16 @@
 > Raegar, Dr. An Imperial scientist whose ambitious studies revealed the possible existence of the Sunstar, a mystical gem possessed by the Ewoks.
 — Source: scan pages 41–80; Sunstar. POV: Sunstar.
 Note (our notes, around the quote): Sunstar: "Raegar, Dr. An Imperial scientist whose ambitious studies revealed the possible existence of the Sunstar, a mystical gem possessed by the Ewoks." Source: The Complete Star Wars Encyclopedia, Vol. III, p.73
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.73 — full quote as printed](quotes/v3-p73-raegar-dr-an-imperial-scientist-whose.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:288`
 
 > Raegar used his status to divert a Star Destroyer to the Forest Moon of Endor in a bid to capture the Sunstar and place himself as the master of the universe.
 — Source: scan pages 41–80; Sunstar. POV: Sunstar.
 Note (our notes, around the quote): Sunstar: "Raegar used his status to divert a Star Destroyer to the Forest Moon of Endor in a bid to capture the Sunstar and place himself as the master of the universe." Source: The Complete Star Wars Encyclopedia, Vol. III, p.73
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.73 — full quote as printed](quotes/v3-p73-raegar-used-his-status-to-divert.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:290`
 
 > Chirpa's tribe, allied with a renegade droid, infiltrated Raegar's Destroyer and battled with stormtroopers to reclaim the Sunstar.
 — Source: scan pages 41–80; Sunstar. POV: Sunstar.
 Note (our notes, around the quote): Sunstar: "Chirpa's tribe, allied with a renegade droid, infiltrated Raegar's Destroyer and battled with stormtroopers to reclaim the Sunstar." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-chirpas-tribe-allied-with-a-renegade.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:297`
 
 # Debate and forum claims (unverified)

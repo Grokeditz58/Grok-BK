@@ -67,26 +67,22 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-1-notes.md:223`
 > Zavakon's experts had found details and made connections that the previous explorers missed entirely, and documented the teachings of ancient Sith lords such as Ajunta Pall and Tulak Hord that had been lost for centuries.
 — Source: The Sith Empire; Ajunta Pall; Tulak Hord — History of the Historians.
 Note (our notes, around the quote): Ajunta Pall; Tulak Hord — History of the Historians: "Zavakon's experts had found details and made connections that the previous explorers missed entirely, and documented the teachings of ancient Sith lords such as Ajunta Pall and Tulak Hord that had been lost for centuries." Source: The Old Republic Encyclopedia, p.124
-![Quote image: The Old Republic Encyclopedia, p.124 — full quote as printed](quotes/tore-p124-zavakon-s-experts-had-found-details.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:110`
 
 > Led by the great commander Ajunta Pall, who still seethed at their defeat, the Dark Jedi found a refuge on the distant desert world of Korriban. Here, they encountered primitive red-skinned aliens, the native Sith species. These aliens looked on the Dark Jedi's powers and technology with awe and bowed down to them as gods.
 — Source: The Sith; Ajunta Pall — The Leviathans of Corbos.
 Note (our notes, around the quote): Ajunta Pall — The Leviathans of Corbos: "Led by the great commander Ajunta Pall, who still seethed at their defeat, the Dark Jedi found a refuge on the distant desert world of Korriban. Here, they encountered primitive red-skinned aliens, the native Sith species. These aliens looked on the Dark Jedi's powers and technology with awe and bowed down to them as gods." Source: The Old Republic Encyclopedia, p.147, sidebar
-![Quote image: The Old Republic Encyclopedia, p.147 — full quote as printed](quotes/tore-p147-led-by-the-great-commander-ajunta.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:22`
 
 > Thousands of years after the fall of Adas, exiled Dark Jedi landed on Korriban and dominated the Sith, who became willing slaves. Under the command of the Dark Jedi Ajunta Pall, a new Sith civilization was forged, with the exiled Jedi worshipped as gods.
 — Source: Species, technology, planets and the future; Ajunta Pall — Korriban intro.
 Note (our notes, around the quote): Ajunta Pall — Korriban intro: "Thousands of years after the fall of Adas, exiled Dark Jedi landed on Korriban and dominated the Sith, who became willing slaves. Under the command of the Dark Jedi Ajunta Pall, a new Sith civilization was forged, with the exiled Jedi worshipped as gods." Source: The Old Republic Encyclopedia, p.290
-![Quote image: The Old Republic Encyclopedia, p.290 — full quote as printed](quotes/tore-p290-thousands-of-years-after-the-fall.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:250`
 
 > The tomb of Ajunta Pall, ancient Dark Lord of the Sith
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Ajunta Pall — Caption.
 Note (our notes, around the quote): Ajunta Pall — Caption: "The tomb of Ajunta Pall, ancient Dark Lord of the Sith" Source: The Old Republic Encyclopedia, p.293, sidebar
-![Quote image: The Old Republic Encyclopedia, p.293 — full quote as printed](quotes/tore-p293-the-tomb-of-ajunta-pall-ancient.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:277`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -100,13 +96,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan
 > XKoKaan, myself, Ajunta Pall, an Drey par—not our Pending but rather our triumph over the Sith eee marked our arrival.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy; Sorzus Syn; Ajunta Pall.
 Note (our notes, around the quote): Sorzus Syn; Ajunta Pall: "XKoKaan, myself, Ajunta Pall, an Drey par—not our Pending but rather our triumph over the Sith eee marked our arrival." Source: Book of Sith, scan p.10
-![Quote image: Book of Sith, scan p.10 — full quote as printed](quotes/bos-s10-xkokaan-myself-ajunta-pall-an-drey.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:18`
 
 > Ajunta Pall beheaded their ruler, Hakagram Graush, and claimed the throne as the blood heir to the ancestral King Adas—and we became his Shadow Hands.
 — Source: Secrets from the Dark Side (2012): Sorzus Syn: chronicle and Sith alchemy; Sorzus Syn; Ajunta Pall; King Adas.
 Note (our notes, around the quote): Sorzus Syn; Ajunta Pall; King Adas: "Ajunta Pall beheaded their ruler, Hakagram Graush, and claimed the throne as the blood heir to the ancestral King Adas—and we became his Shadow Hands." Source: Book of Sith, scan p.17
-![Quote image: Book of Sith, scan p.17 — full quote as printed](quotes/bos-s17-ajunta-pall-beheaded-their-ruler-hakagram.jpg)
 Our notes: `notes/materials/036-book-of-sith/01-sorzus-syn.md:67`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

@@ -14,14 +14,12 @@
 > Conquered worlds are scoured for Force-adept slaves, and all displaying a talent are forced into the grueling trials. Some take to the training, such as the ruthless Kaleesh slave named Xalek.
 — Source: The Sith; Xalek — The Chosen.
 Note (our notes, around the quote): Xalek — The Chosen: "Conquered worlds are scoured for Force-adept slaves, and all displaying a talent are forced into the grueling trials. Some take to the training, such as the ruthless Kaleesh slave named Xalek." Source: The Old Republic Encyclopedia, p.164
-![Quote image: The Old Republic Encyclopedia, p.164 — full quote as printed](quotes/tore-p164-conquered-worlds-are-scoured-for-force.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:231`
 
 > He emerged as a natural warrior, aided by his violent affinity for the Force. … He even reportedly used the Force to smash a competitor's speeder into the cliffs of Korriban.
 > [fragment — full passage not on file]
 — Source: The Sith; Xalek — Xalek.
 Note (our notes, around the quote): Xalek — Xalek: "He emerged as a natural warrior, aided by his violent affinity for the Force. … He even reportedly used the Force to smash a competitor's speeder into the cliffs of Korriban." Source: The Old Republic Encyclopedia, p.187, sidebar
-![Quote image: The Old Republic Encyclopedia, p.187 — full quote as printed](quotes/tore-p187-he-emerged-as-a-natural-warrior.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:524`
 
 # Debate and forum claims (unverified)

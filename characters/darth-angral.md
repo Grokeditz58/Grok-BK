@@ -14,49 +14,41 @@
 > Darth Angral deployed Imperial troops and personally assassinated Supreme Chancellor Berooken, the leader of the Republic.
 — Source: The Galactic Republic; Darth Angral — Sacking of Coruscant box.
 Note (our notes, around the quote): Darth Angral — Sacking of Coruscant box: "Darth Angral deployed Imperial troops and personally assassinated Supreme Chancellor Berooken, the leader of the Republic." Source: The Old Republic Encyclopedia, p.27
-![Quote image: The Old Republic Encyclopedia, p.27 — full quote as printed](quotes/tore-p27-darth-angral-deployed-imperial-troops-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:42`
 
 > Master Braga continually seeks dialogue with the Empire and has corresponded regularly with dark side servants from Darth Angral to Lord Zash. He has even attempted communication with the Emperor himself.
 — Source: The Jedi Order; Tol Braga; Darth Zash; Darth Angral — Master Tol Braga.
 Note (our notes, around the quote): Tol Braga; Darth Zash; Darth Angral — Master Tol Braga: "Master Braga continually seeks dialogue with the Empire and has corresponded regularly with dark side servants from Darth Angral to Lord Zash. He has even attempted communication with the Emperor himself." Source: The Old Republic Encyclopedia, p.89, sidebar
-![Quote image: The Old Republic Encyclopedia, p.89 — full quote as printed](quotes/tore-p89-master-braga-continually-seeks-dialogue-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:260`
 
 > The Knight races across the galaxy on a desperate hunt for Darth Angral's battle cruiser and its Desolator superweapon, a devastating device capable of laying waste to entire Republic worlds. The Knight survives impossible odds to defeat Angral's menacing Sith apprentices and thwart their plans to unleash world-shattering destruction.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Darth Angral — The Vengeance of Darth Angral: "The Knight races across the galaxy on a desperate hunt for Darth Angral's battle cruiser and its Desolator superweapon, a devastating device capable of laying waste to entire Republic worlds. The Knight survives impossible odds to defeat Angral's menacing Sith apprentices and thwart their plans to unleash world-shattering destruction." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-the-knight-races-across-the-galaxy.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:288`
 
 > As Darth Angral brings the Desolator superweapon to bear on the Jedi homeworld of Tython, the Knight races to confront Angral in a final duel to decide the fate of the Jedi Order. Though Darth Angral falls in defeat, the Empire he served breaks the Treaty of Coruscant to war against the Republic once more.
 — Source: The Jedi Order.
 Note (our notes, around the quote): Hero of Tython (Jedi Knight); Darth Angral — The Vengeance of Darth Angral: "As Darth Angral brings the Desolator superweapon to bear on the Jedi homeworld of Tython, the Knight races to confront Angral in a final duel to decide the fate of the Jedi Order. Though Darth Angral falls in defeat, the Empire he served breaks the Treaty of Coruscant to war against the Republic once more." Source: The Old Republic Encyclopedia, p.92
-![Quote image: The Old Republic Encyclopedia, p.92 — full quote as printed](quotes/tore-p92-as-darth-angral-brings-the-desolator.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:290`
 
 > Warriors and commanders such as Darth Malgus, Darth Angral, and Grand Moff Kilran blazed a path of ruin through Republic worlds across the galaxy.
 — Source: The Sith Empire; Darth Malgus; Darth Angral — Vengeful Return.
 Note (our notes, around the quote): Darth Malgus; Darth Angral — Vengeful Return: "Warriors and commanders such as Darth Malgus, Darth Angral, and Grand Moff Kilran blazed a path of ruin through Republic worlds across the galaxy." Source: The Old Republic Encyclopedia, p.111, sidebar
-![Quote image: The Old Republic Encyclopedia, p.111 — full quote as printed](quotes/tore-p111-warriors-and-commanders-such-as-darth.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/04-sith-empire.md:45`
 
 > One of the Empire's most celebrated warlords, the cold-blooded Darth Angral led the fleet that invaded and sacked Coruscant. Angral personally beheaded the Republic Supreme Chancellor in the Senate Tower, and was preparing to force an unconditional surrender when the Emperor declared peace.
 — Source: The Sith; Darth Angral — Darth Angral.
 Note (our notes, around the quote): Darth Angral — Darth Angral: "One of the Empire's most celebrated warlords, the cold-blooded Darth Angral led the fleet that invaded and sacked Coruscant. Angral personally beheaded the Republic Supreme Chancellor in the Senate Tower, and was preparing to force an unconditional surrender when the Emperor declared peace." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-one-of-the-empire-s-most.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:264`
 
 > As that plan came to fruition, Angral trained a trio of Sith apprentices, the Lords Sadic, Praven, and Nefarid. Together, they prepared to destroy the Republic once and for all.
 — Source: The Sith; Darth Angral — Darth Angral.
 Note (our notes, around the quote): Darth Angral — Darth Angral: "As that plan came to fruition, Angral trained a trio of Sith apprentices, the Lords Sadic, Praven, and Nefarid. Together, they prepared to destroy the Republic once and for all." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-as-that-plan-came-to-fruition.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:266`
 
 > Some Sith believe Darth Angral's distinguished-looking appearance is a sign of weakness and a lack of dark side power.
 — Source: The Sith; Darth Angral — Caption.
 Note (our notes, around the quote): Darth Angral — Caption: "Some Sith believe Darth Angral's distinguished-looking appearance is a sign of weakness and a lack of dark side power." Source: The Old Republic Encyclopedia, p.167, sidebar
-![Quote image: The Old Republic Encyclopedia, p.167 — full quote as printed](quotes/tore-p167-some-sith-believe-darth-angral-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:268`
 
 ## Star Wars Insider #110 (2009)

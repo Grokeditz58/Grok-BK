@@ -90,7 +90,6 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:237`
 
 - Note (summary from our notes, not a quotation): Chewbacca — art caption: "Chewbacca" Source: The New Essential Chronology, p.92, caption
   — Source: Part Four: Profiles in History.
-![Quote image: The New Essential Chronology, p.92 — full quote as printed](quotes/nec-p92-caption-chewbacca.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:33`
 
 > Since the Chiss had a moral principle against making first strikes, Formbi had hoped the Vagaari would take advantage of the Outbound Flight bait and make an aggressive move, Now that they had, war had been declared between the Chiss Ascendancy and the Vagaari.
@@ -107,26 +106,22 @@ Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-i
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Full sentence/passage taken from the source text on file: `research_primary_new_essential_chronology_nec_paged_txt`.)
 Note (our notes, around the quote): Jacen Solo; Jaina Solo — young Jedi Knights: "Together with their companions Tenel Ka ... and Lowbacca, the Wookiee nephew of Chewbacca, they fought for the New Republic with as much bravery as the legendary Jedi Knights of old." Source: The New Essential Chronology, p.198
-![Quote image: The New Essential Chronology, p.198 — full quote as printed](quotes/nec-p198-young-jedi-knights.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/11-part-eleven-generations-of-jedi.md:38`
 
 > Han Solo, Anakin Solo, and Chewbacca ... did all they could to save the doomed world, but not even the Force could slow the moon once it had slipped into a terminal orbit.
 > [fragment — full passage not on file]
 — Source: Part Twelve: The New Jedi Order; Han Solo; Anakin Solo; Chewbacca — not even the Force.
 Note (our notes, around the quote): Han Solo; Anakin Solo; Chewbacca — not even the Force: "Han Solo, Anakin Solo, and Chewbacca ... did all they could to save the doomed world, but not even the Force could slow the moon once it had slipped into a terminal orbit." Source: The New Essential Chronology, p.204
-![Quote image: The New Essential Chronology, p.204 — full quote as printed](quotes/nec-p204-not-even-the-force.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:26`
 
 > Chewbacca dies a hero's death on Sernpidal.
 — Source: Part Twelve: The New Jedi Order; Chewbacca — art caption.
 Note (our notes, around the quote): Chewbacca — art caption: "Chewbacca dies a hero's death on Sernpidal." Source: The New Essential Chronology, p.204, caption
-![Quote image: The New Essential Chronology, p.204 — full quote as printed](quotes/nec-p204-caption-chewbacca-dies-a-heros-death.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:28`
 
 > Han, watching from the boarding ramp, saw Chewbacca receding in the distance, his fists raised in defiance at the sinking moon as the atmosphere superheated around him.
 — Source: Part Twelve: The New Jedi Order; Chewbacca; Anakin Solo — Chewbacca's last stand.
 Note (our notes, around the quote): Chewbacca; Anakin Solo — Chewbacca's last stand: "Han, watching from the boarding ramp, saw Chewbacca receding in the distance, his fists raised in defiance at the sinking moon as the atmosphere superheated around him." Source: The New Essential Chronology, p.206
-![Quote image: The New Essential Chronology, p.206 — full quote as printed](quotes/nec-p206-chewbaccas-last-stand.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:40`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -140,7 +135,6 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 Note (our notes, around the quote): Admiral Daala; Han Solo; Kyp Durron; Chewbacca; Sun Crusher — Admiral Daala — loss of the Sun Crusher: "Han Solo, Kyp, and Chewbacca escape with her prize superweapon, the Sun Crusher, and destroy the Hydra, one of her four Star Destroyers." Source: The Jedi Academy Sourcebook, p.56
-![Quote image: The Jedi Academy Sourcebook, p.56 — full quote as printed](quotes/jas-p56-admiral-daala-loss-of-the-sun.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-empire.md:59`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -150,7 +144,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/05-ch5-forces-of-the-emp
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Han Solo; Chewbacca; Luke Skywalker; Leia Organa Solo: "He was killed in the line of duty when Han Solo, Chewbacca, and Luke Skywalker freed Leia." Source: The Complete Star Wars Encyclopedia, Vol. I, p.107
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.107 — full quote as printed](quotes/v1-p107-he-was-killed-in-the-line.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:19`
 
 - Note (summary from our notes, not a quotation): Page contents: 956 words, 28 paragraphs | headings/entries: Chewbacca
@@ -160,7 +153,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 > Although the Falcon's upkeep was a labor of love, many a time Chewie unleashed his legendary temper on the recalcitrant freighter, banging his massive furry hands against delicate components that refused to behave.
 — Source: scan pages 121–160; Chewbacca — entry/section: Chewbacca.
 Note (our notes, around the quote): Chewbacca — entry/section: Chewbacca: "Although the Falcon's upkeep was a labor of love, many a time Chewie unleashed his legendary temper on the recalcitrant freighter, banging his massive furry hands against delicate components that refused to behave." Source: The Complete Star Wars Encyclopedia, Vol. I, p.122
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.122 — full quote as printed](quotes/v1-p122-although-the-falcons-upkeep-was-a.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:140`
 
 > At the start of the Yuuzhan Vong invasion, Han Solo and Chewbacca were on the planet Sernpidal when it became a target ofthe alien menace. Using massive gravity-altering crea­ tures called dovin basals, the Yuuzhan Vong began to drag Sernpidal's moon Dobido from its orbit to the planet's surface. Han Solo, his teenage son Anakin, and Chewbacca began organizing a desperate evacuation, cramming as many escapees aboard the Falcon as they could. Solo and Chewbacca enjoyed many close calls through the years, and executed countless last-second escapes; Sernpidal was not to be one of them. As the moon rushed closer to the surface, Chewbacca was cut offfrom the Falcon. age assignment landed them Chewbacca spenthours modifying and tinkering with the Millennium Falcon. Chewbacca and Han Solo were a well-known smuggling duo whose exploits became legendary. Chiewab Amalgam­ ated Pharmaceuti­ cals One of the original sponsors of the Corporate Sector, this conglomerate owned over 600 sytems and was the leader in bio­ technological research and development. Its strengths were in chemistry and electronics. Chiewab was constantly seeking out new planets and new substances that might be developed for its new product fam­ ily. Subsidiaries included Geentech Laboratories, Corellian Chemical Cor­ poration, Chiewab Nutri- Anakin was faced with a terrible decision.
@@ -168,13 +160,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Chewbacca; Han Solo — entry/section: Chewbacca: "Chewbacca and Han Solo were a well-known smuggling duo whose exploits became legendary." Source: The Complete Star Wars Encyclopedia, Vol. I, p.123
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.123 — full quote as printed](quotes/v1-p123-chewbacca-and-han-solo-were-a.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:147`
 
 > The Darker eventually was defeated by Chewbacca, who threw the being into the force screen, destroying him and the underground city.
 — Source: scan pages 161–200; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "The Darker eventually was defeated by Chewbacca, who threw the being into the force screen, destroying him and the underground city." Source: The Complete Star Wars Encyclopedia, Vol. I, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.166 — full quote as printed](quotes/v1-p166-the-darker-eventually-was-defeated-by.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:182`
 
 > Fasgo was killed when one ofthe yammosk's tentacles struck and shattered his skull. Fass,Haddon A Dark Side Adept who had worked for Emperor Pal­ patine, Fass was assigned with fellow adept Zasm Katth to track down Han and Leia Organa Solo and the Millen­ nium Falcon, which was hidden on Nar Shaddaa. They failed miserably, and Fass was killed along with his entire crew when his Star DestroyerInvincible acci­ dentally locked on to the NarShaddaacontroltower and collided with it. Fass, Egome A humanoid-like Houk with a square jaw and tiny, gleaming eyes set deep beneath a thick, bony brow, he worked for the outlaw twins J'uoch and R'all, guard­ ing their Dellalt mining operations. He was reputed to rival the mighty Wookiee Chewbacca in both height and strength. But the Wookiee killed Fass in hand-to-hand combat during the search for the fabled starship Queen o f Ranroon, reputedly filled with the trea­ sures of Xim the Despot when it disap­ peared several millennia before the birth of the Empire. Fassa,MajorA Gungan offi­ cer in the Grand Army, she was a niece of Boss Nass. Sent with Rep Teers to look into the con­ struction of the Lake Umber­ boo! arena, she got caught in its accidental collapse and was rescued by Jar Jar Binks.
@@ -182,13 +172,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Egome Fass; Chewbacca — entry/section: Fass, Egome: "He was reputed to rival the mighty Wookiee Chewbacca in both height and strength." Source: The Complete Star Wars Encyclopedia, Vol. I, p.257
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.257 — full quote as printed](quotes/v1-p257-he-was-reputed-to-rival-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:199`
 
 > Thirteen years after the Battle of Endor, Lando Calrissian was captured by Nandreeson and nearly killed before Han Solo and Chewbacca rescued him.
 — Source: scan pages 361–398; Lando Calrissian; Han Solo; Chewbacca.
 Note (our notes, around the quote): Lando Calrissian; Han Solo; Chewbacca: "Thirteen years after the Battle of Endor, Lando Calrissian was captured by Nandreeson and nearly killed before Han Solo and Chewbacca rescued him." Source: The Complete Star Wars Encyclopedia, Vol. I, p.346
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.346 — full quote as printed](quotes/v1-p346-thirteen-years-after-the-battle-of.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:12`
 
 > Gor-ravvus The primary liai­ son between Lhosan Industries and the Old Republic in the years following the Great Sith War, he lobbied the Galactic Senate to recog­ nize Taris and its neighboring systems as part ofthe Republic after Lhosan decided to estab­ lish a manufacturing facility there. Gor-rawus later was named a full Senator. Unfortunately for the people of Taris, Senator Gor-rawus fled the planet at the first hint of a Mandalo­ rian attack. GorrlynA female Wookiee, she was chosen by Salporin as a mate shortly before the start of the Clone Wars. The two were separated when the Empire enslaved the Wookiees, and Gorrlyn was widowed when Salporin died trying to protect Chewbacca and Leia Organa Solo on Kashyyyk. GorrmA tall and thin simian sentient, he was Ssk Kahorr's chief navigator. Gorrm was killed when Ssk Kahorr and the Starbreaker 12 were de­ stroyed by Naga Sadow. gorros'fen An immense worm bioengineered by the Yuuzhan Vong, it served as a tube through which a Koros­ Strohna worldship could obtain nutrients from a planet-based location. The gorros'fen worm extended down from the worldship and literally sucked the nutrients from a planet's crust and mantle.
@@ -196,19 +184,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Chewbacca; Leia Organa Solo: "The two were separated when the Empire enslaved the Wookiees, and Gorrlyn was widowed when Salporin died trying to protect Chewbacca and Leia Organa Solo on Kashyyyk." Source: The Complete Star Wars Encyclopedia, Vol. I, p.354
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.354 — full quote as printed](quotes/v1-p354-the-two-were-separated-when-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:76`
 
 > The Graveyard was destroyed prior to the Battle of Hoth when Arakkus trapped Han Solo, Luke Skywalker, and Chewbacca aboard the Millennium Falcon.
 — Source: scan pages 361–398; Han Solo; Luke Skywalker; Chewbacca.
 Note (our notes, around the quote): Han Solo; Luke Skywalker; Chewbacca: "The Graveyard was destroyed prior to the Battle of Hoth when Arakkus trapped Han Solo, Luke Skywalker, and Chewbacca aboard the Millennium Falcon." Source: The Complete Star Wars Encyclopedia, Vol. I, p.360
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.360 — full quote as printed](quotes/v1-p360-the-graveyard-was-destroyed-prior-to.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:122`
 
 > He hired Han Solo and Chewbacca for a brief time before the pair became involved in the Galactic Civil War—but not before Solo upstaged and outclassed his boss during one last airshow.
 — Source: scan pages 361–398; Han Solo; Chewbacca.
 Note (our notes, around the quote): Han Solo; Chewbacca: "He hired Han Solo and Chewbacca for a brief time before the pair became involved in the Galactic Civil War—but not before Solo upstaged and outclassed his boss during one last airshow." Source: The Complete Star Wars Encyclopedia, Vol. I, p.370
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.370 — full quote as printed](quotes/v1-p370-he-hired-han-solo-and-chewbacca.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:210`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -216,31 +201,26 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Bossk purchased it after the Wookiee Chewbacca and Han Solo destroyed his previous ship on Gandolo IV.
 — Source: scan pages 41–80; Bossk; Chewbacca; Han Solo.
 Note (our notes, around the quote): Bossk; Chewbacca; Han Solo: "Bossk purchased it after the Wookiee Chewbacca and Han Solo destroyed his previous ship on Gandolo IV." Source: The Complete Star Wars Encyclopedia, Vol. II, p.63
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.63 — full quote as printed](quotes/v2-p63-bossk-purchased-it-after-the-wookiee.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:204`
 
 > The ship was captured by Luke Skywalker, Han Solo, and Chewbacca at Kessel, but Volz decided that it was too dangerous and destroyed it himself.
 — Source: scan pages 81–120; Luke Skywalker; Han Solo; Chewbacca.
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Chewbacca: "The ship was captured by Luke Skywalker, Han Solo, and Chewbacca at Kessel, but Volz decided that it was too dangerous and destroyed it himself." Source: The Complete Star Wars Encyclopedia, Vol. II, p.112
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.112 — full quote as printed](quotes/v2-p112-the-ship-was-captured-by-luke.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:251`
 
 > ISBy This slicer droid, an ISB-120 model, was employed by the interrogation droid known as IT to break into a datapad that was owned by Leia Organa Solo, ISBy was destroyed when Chewbacca and his wife, Mallatobuck, tried to rescue their son Lumpawarrump from IT.
 — Source: scan pages 121–160; Leia Organa Solo; Chewbacca.
 Note (our notes, around the quote): Leia Organa Solo; Chewbacca: "ISBy This slicer droid, an ISB-120 model, was employed by the interrogation droid known as IT to break into a datapad that was owned by Leia Organa Solo, ISBy was destroyed when Chewbacca and his wife, Mallatobuck, tried to rescue their son Lumpawarrump from IT." Source: The Complete Star Wars Encyclopedia, Vol. II, p.118
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.118 — full quote as printed](quotes/v2-p118-isby-this-slicer-droid-an-isb.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:31`
 
 > Chewbacca managed to disable the IT, and his wife, Mallatobuck, destroyed it.
 — Source: scan pages 121–160; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Chewbacca managed to disable the IT, and his wife, Mallatobuck, destroyed it." Source: The Complete Star Wars Encyclopedia, Vol. II, p.122
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.122 — full quote as printed](quotes/v2-p122-chewbacca-managed-to-disable-the-it.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:65`
 
 > He was killed at the Maw by Nawruun, who rose up against his master when Chewbacca and Han Solo fled the Installation during the New Republic's attempt to take control.
 — Source: scan pages 241–280; Chewbacca; Han Solo.
 Note (our notes, around the quote): Chewbacca; Han Solo: "He was killed at the Maw by Nawruun, who rose up against his master when Chewbacca and Han Solo fled the Installation during the New Republic's attempt to take control." Source: The Complete Star Wars Encyclopedia, Vol. II, p.242
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.242 — full quote as printed](quotes/v2-p242-he-was-killed-at-the-maw.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:79`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -248,61 +228,51 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > They helped evacuate the planet, but Chewbacca was killed in the cataclysm.
 — Source: scan pages 121–160; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "They helped evacuate the planet, but Chewbacca was killed in the cataclysm." Source: The Complete Star Wars Encyclopedia, Vol. III, p.140
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.140 — full quote as printed](quotes/v3-p140-they-helped-evacuate-the-planet-but.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:201`
 
 > Shoran A Wookiee cousin of Chewbacca, he was killed during the rescue of Han Solo aboard the Pride of Yevetha.
 — Source: scan pages 121–160; Chewbacca; Han Solo.
 Note (our notes, around the quote): Chewbacca; Han Solo: "Shoran A Wookiee cousin of Chewbacca, he was killed during the rescue of Han Solo aboard the Pride of Yevetha." Source: The Complete Star Wars Encyclopedia, Vol. III, p.148
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.148 — full quote as printed](quotes/v3-p148-shoran-a-wookiee-cousin-of-chewbacca.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:287`
 
 > Luke, Han, and Chewbacca—along with the droids R2-D2 and C-3PO—became a second family to her, helping to ease some of the shock and pain left by the annihilation of Alderaan.
 — Source: scan pages 161–200; Luke Skywalker; Chewbacca.
 Note (our notes, around the quote): Luke Skywalker; Chewbacca: "Luke, Han, and Chewbacca—along with the droids R2-D2 and C-3PO—became a second family to her, helping to ease some of the shock and pain left by the annihilation of Alderaan." Source: The Complete Star Wars Encyclopedia, Vol. III, p.177
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.177 — full quote as printed](quotes/v3-p177-luke-han-and-chewbacca-along-with.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:276`
 
 > This starship, capable of interdimensional travel, fled the known galaxy for many years until Lando Calrissian and Chewbacca stumbled upon it shortly after the Battle of Hoth.
 — Source: scan pages 201–240; Lando Calrissian; Chewbacca.
 Note (our notes, around the quote): Lando Calrissian; Chewbacca: "This starship, capable of interdimensional travel, fled the known galaxy for many years until Lando Calrissian and Chewbacca stumbled upon it shortly after the Battle of Hoth." Source: The Complete Star Wars Encyclopedia, Vol. III, p.198
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.198 — full quote as printed](quotes/v3-p198-this-starship-capable-of-interdimensional-travel.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:39`
 
 > His clan's grudge against Chewbacca did not cease when Chewbacca was killed at Sernpidal, and seemed to extend to Han Solo as well.
 — Source: scan pages 241–280; Chewbacca; Han Solo.
 Note (our notes, around the quote): Chewbacca; Han Solo: "His clan's grudge against Chewbacca did not cease when Chewbacca was killed at Sernpidal, and seemed to extend to Han Solo as well." Source: The Complete Star Wars Encyclopedia, Vol. III, p.252
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.252 — full quote as printed](quotes/v3-p252-his-clans-grudge-against-chewbacca-did.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:159`
 
 > Tojjevvuk An albino Wookiee who was Chewbacca's rival for the affections of Mallatobuck.
 — Source: scan pages 241–280; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Tojjevvuk An albino Wookiee who was Chewbacca's rival for the affections of Mallatobuck." Source: The Complete Star Wars Encyclopedia, Vol. III, p.252
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.252 — full quote as printed](quotes/v3-p252-tojjevvuk-an-albino-wookiee-who-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:161`
 
 > He was defeated by Lando Calrissian and Han Solo, who had returned to Kashyyyk with Chewbacca to help him thwart the slavers.
 — Source: scan pages 281–320; Lando Calrissian; Han Solo; Chewbacca.
 Note (our notes, around the quote): Lando Calrissian; Han Solo; Chewbacca: "He was defeated by Lando Calrissian and Han Solo, who had returned to Kashyyyk with Chewbacca to help him thwart the slavers." Source: The Complete Star Wars Encyclopedia, Vol. III, p.296
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.296 — full quote as printed](quotes/v3-p296-he-was-defeated-by-lando-calrissian.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:167`
 
 > A swoop gang he hired was no match for Luke, Han Solo, and Wedge Antilles, and Venan himself was incapacitated by Chewbacca.
 — Source: scan pages 281–320; Luke Skywalker; Han Solo; Chewbacca.
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Chewbacca: "A swoop gang he hired was no match for Luke, Han Solo, and Wedge Antilles, and Venan himself was incapacitated by Chewbacca." Source: The Complete Star Wars Encyclopedia, Vol. III, p.301
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.301 — full quote as printed](quotes/v3-p301-a-swoop-gang-he-hired-was.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:206`
 
 > When Han Solo and Chewbacca were able to turn the tables on Zlarb, Wadda was one of the handful of slavers who were themselves enslaved after Solo turned them over to a group of Lurrian geneticists.
 — Source: scan pages 321–360; Han Solo; Chewbacca.
 Note (our notes, around the quote): Han Solo; Chewbacca: "When Han Solo and Chewbacca were able to turn the tables on Zlarb, Wadda was one of the handful of slavers who were themselves enslaved after Solo turned them over to a group of Lurrian geneticists." Source: The Complete Star Wars Encyclopedia, Vol. III, p.317
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.317 — full quote as printed](quotes/v3-p317-when-han-solo-and-chewbacca-were.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:26`
 
 > The cloning complex and most of the mountain were destroyed when Lando Calrissian and Chewbacca sabotaged the central equipment column.
 — Source: scan pages 321–360; Lando Calrissian; Chewbacca.
 Note (our notes, around the quote): Lando Calrissian; Chewbacca: "The cloning complex and most of the mountain were destroyed when Lando Calrissian and Chewbacca sabotaged the central equipment column." Source: The Complete Star Wars Encyclopedia, Vol. III, p.323
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.323 — full quote as printed](quotes/v3-p323-the-cloning-complex-and-most-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:60`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -317,44 +287,37 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/07-ch7-locations-in
 > [fragment — full passage not on file]
 — Source: scan pages 1–30; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Chewbacca is killed on Sernpidal." Source: The New Essential Guide to Characters, p.14
-![Quote image: The New Essential Guide to Characters, p.14 — full quote as printed](quotes/negc-p14-chewbacca-is-killed-on-sernpidal.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/00-negc-scan-001-030.md:58`
 
 > Once, when Trandoshan slavers attacked his home city, Chewbacca ripped the leader's arms from their sockets, saving a beautiful Wookiee named Mallatobuck.
 — Source: scan pages 31–60; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Once, when Trandoshan slavers attacked his home city, Chewbacca ripped the leader's arms from their sockets, saving a beautiful Wookiee named Mallatobuck." Source: The New Essential Guide to Characters, p.45
-![Quote image: The New Essential Guide to Characters, p.45 — full quote as printed](quotes/negc-p45-once-when-trandoshan-slavers-attacked-his.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:57`
 
 > Chewbacca dismembered the head slaver, who survived to regenerate his limbs years later.
 — Source: scan pages 31–60; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Chewbacca dismembered the head slaver, who survived to regenerate his limbs years later." Source: The New Essential Guide to Characters, p.45
-![Quote image: The New Essential Guide to Characters, p.45 — full quote as printed](quotes/negc-p45-chewbacca-dismembered-the-head-slaver-who.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:59`
 
 > Chewbacca killed a quillarat for the lovely Mallatobuck and she ate from it, signifying their love.
 — Source: scan pages 31–60; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Chewbacca killed a quillarat for the lovely Mallatobuck and she ate from it, signifying their love." Source: The New Essential Guide to Characters, p.46
-![Quote image: The New Essential Guide to Characters, p.46 — full quote as printed](quotes/negc-p46-chewbacca-killed-a-quillarat-for-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:66`
 
 > Chewbacca helped destroy the probe droid that uncovered Echo Base on Hoth, and endured torture in a Cloud City holding cell.
 — Source: scan pages 31–60; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Chewbacca helped destroy the probe droid that uncovered Echo Base on Hoth, and endured torture in a Cloud City holding cell." Source: The New Essential Guide to Characters, p.47
-![Quote image: The New Essential Guide to Characters, p.47 — full quote as printed](quotes/negc-p47-chewbacca-helped-destroy-the-probe-droid.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:73`
 
 > Sernpidal's falling moon killed Chewbacca.
 > [fragment — full passage not on file]
 — Source: scan pages 151–180; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Sernpidal's falling moon killed Chewbacca." Source: The New Essential Guide to Characters, p.165
-![Quote image: The New Essential Guide to Characters, p.165 — full quote as printed](quotes/negc-p165-sernpidals-falling-moon-killed-chewbacca.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:75`
 
 > Chewbacca rescued Han Solo from Spaar's Super Star Destroyer.
 — Source: scan pages 151–180; Chewbacca; Han Solo.
 Note (our notes, around the quote): Chewbacca; Han Solo: "Chewbacca rescued Han Solo from Spaar's Super Star Destroyer." Source: The New Essential Guide to Characters, p.178
-![Quote image: The New Essential Guide to Characters, p.178 — full quote as printed](quotes/negc-p178-chewbacca-rescued-han-solo-from-spaars.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/05-negc-scan-151-180.md:168`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -366,7 +329,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Organa, Han Solo, Chewbacca, and the droids R2-D2 and C- 3PO, the Death Star was destroyed and the Alliance won its first major victory.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Han Solo; Chewbacca.
 Note (our notes, around the quote): Han Solo; Chewbacca: "Organa, Han Solo, Chewbacca, and the droids R2-D2 and C- 3PO, the Death Star was destroyed and the Alliance won its first major victory." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.57
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.57 — full quote as printed](quotes/d043-s57-organa-han-solo-chewbacca-and-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-001-060.md:350`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -374,7 +336,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Bossk began his career hunting escaped Wookiee slaves and has a running feud with Han Solo's partner, Chewbacca. Though they have tangled multiple times, it is always Bossk who comes up short—short a limb, generally.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Bossk; Chewbacca — entry/section: Bossk's feud with Chewbacca.
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Bossk's feud with Chewbacca: "Bossk began his career hunting escaped Wookiee slaves and has a running feud with Han Solo's partner, Chewbacca. Though they have tangled multiple times, it is always Bossk who comes up short—short a limb, generally." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.100
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.100 — full quote as printed](quotes/d043-s100-bossk-began-his-career-hunting-escaped.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:260`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -388,13 +349,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. Infuriated, Jabba attempted to execute Skywalker, Solo, and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc. But Solo's companions turned the tables on Jabba. The sluglike crime lord died aboard his sail barge over the Great Pit of Carkoon, strangled to death by Leia Organa.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Leia Organa Solo; Luke Skywalker; Han Solo; Chewbacca; Jabba's Rancor — entry/section: Jabba the Hutt: "Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. Infuriated, Jabba attempted to execute Skywalker, Solo, and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc. But Solo's companions turned the tables on Jabba. The sluglike crime lord died aboard his sail barge over the Great Pit of Carkoon, strangled to death by Leia Organa." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-han-solos-friends-including-the-newly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:348`
 
 > Keeping Solo brought about Jabba's death, Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. infuriated, Jabba attempted to execute Skywalker, Solo, -and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Han Solo; Luke Skywalker; Chewbacca.
 Note (our notes, around the quote): Han Solo; Luke Skywalker; Chewbacca: "Keeping Solo brought about Jabba's death, Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. infuriated, Jabba attempted to execute Skywalker, Solo, -and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-keeping-solo-brought-about-jabbas-death.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:354`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 181–240)
@@ -402,7 +361,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > With the mighty Chewbacca watching his back, Han feels almost invincible—though he still has the common sense to run when things get out of control.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "With the mighty Chewbacca watching his back, Han feels almost invincible—though he still has the common sense to run when things get out of control." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.235
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.235 — full quote as printed](quotes/d046-s235-with-the-mighty-chewbacca-watching-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:371`
 
 - Note (summary from our notes, not a quotation): Page contents: 1010 words, 24 paragraphs | headings/entries: Chewbacca; R2-D2, Astromech Droid; THieTceN; I | a6
@@ -412,7 +370,6 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > At Han Solo's side, Chewbacca has acquired a reputation as one of the most dangerous smugglers in the galaxy, based on tales of his great strength and even greater temper. But those who know Chewie well realize that much of his reputation is simply fanciful hype. In point of fact, Chewbacca is the more cautious of the two, sometimes almost to the point of cowardice.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Chewbacca; Han Solo — entry/section: Key Characters: Chewbacca.
 Note (our notes, around the quote): Chewbacca; Han Solo — entry/section: Key Characters: Chewbacca: "At Han Solo's side, Chewbacca has acquired a reputation as one of the most dangerous smugglers in the galaxy, based on tales of his great strength and even greater temper. But those who know Chewie well realize that much of his reputation is simply fanciful hype. In point of fact, Chewbacca is the more cautious of the two, sometimes almost to the point of cowardice." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.236
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.236 — full quote as printed](quotes/d046-s236-at-han-solos-side-chewbacca-has.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:385`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 241–300)
@@ -420,7 +377,6 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > Chewbacca has remained Han's friend through countless adventures, helping to rescue him from the clutches of the gangster Jabba the Hutt, facing the three-eyed Trioculus, recruiting the smuggler Talon Karrde and the assassin Mara Jade to fight Grand Admiral Thrawn, destroying the Wayland weapons and cloning facilities, and even helping to raise Han's children.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Chewbacca; Mara Jade Skywalker; Grand Admiral Thrawn.
 Note (our notes, around the quote): Chewbacca; Mara Jade Skywalker; Grand Admiral Thrawn: "Chewbacca has remained Han's friend through countless adventures, helping to rescue him from the clutches of the gangster Jabba the Hutt, facing the three-eyed Trioculus, recruiting the smuggler Talon Karrde and the assassin Mara Jade to fight Grand Admiral Thrawn, destroying the Wayland weapons and cloning facilities, and even helping to raise Han's children." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243 — full quote as printed](quotes/d046-s243-chewbacca-has-remained-hans-friend-through.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:46`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 301–322)
@@ -434,13 +390,11 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > Twenty years ago, Chewbacca helped defeat the Empire.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Twenty years ago, Chewbacca helped defeat the Empire." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.42
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.42 — full quote as printed](quotes/d049-s42-twenty-years-ago-chewbacca-helped-defeat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-001-060.md:245`
 
 > It's been two months since the mighty Chewbacca fell, crushed beneath Sernpidal’s moon.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Chewbacca — entry/section: Dark Tide (The New Jedi Order Sourcebook, Ch2): "It's been two months since the mighty Chewbacca fell, crushed beneath Sernpidal’s moon." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.45
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.45 — full quote as printed](quotes/d049-s45-its-been-two-months-since-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-001-060.md:262`
 
 ## Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–120)
@@ -448,7 +402,6 @@ Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-
 > To Han's mind, Anakin killed Chewie by abandoning him.
 — Source: Sourcebooks/The New Jedi Order Sourcebook.pdf [Star Wars Roleplaying Game; Darth Vader (Anakin Skywalker); Chewbacca.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Chewbacca: "To Han's mind, Anakin killed Chewie by abandoning him." Source: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.75
-![Quote image: *The New Jedi Order Sourcebook* (SWRPG d20), scan p.75 — full quote as printed](quotes/d049-s75-to-hans-mind-anakin-killed-chewie.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/049-the-new-jedi-order-sourcebook-scan-061-120.md:114`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -460,7 +413,6 @@ Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-06
 > Chewbacca pulled them together, and with parts they had smuggied aboard in their mouths, they built a crude fusion cutter. Soon, the Trandoshan slavers were dead, and the Wookiees were free.
 — Source: Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20,; Chewbacca — entry/section: Chewbacca frees the slaver ship.
 Note (our notes, around the quote): Chewbacca — entry/section: Chewbacca frees the slaver ship: "Chewbacca pulled them together, and with parts they had smuggied aboard in their mouths, they built a crude fusion cutter. Soon, the Trandoshan slavers were dead, and the Wookiees were free." Source: *Star Wars Gamer 04* (SWRPG d20), scan p.51
-![Quote image: *Star Wars Gamer 04* (SWRPG d20), scan p.51 — full quote as printed](quotes/d053-s51-chewbacca-pulled-them-together-and-with.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-060.md:303`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -468,7 +420,6 @@ Our notes: `notes/materials/037-sw-d20-folder/053-star-wars-gamer-04-scan-001-06
 > Hound's Tooth The bounty hunter Bossk had the Hounds Tooth built after Han Solo and Chewbacca destroyed his previous ship.
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Bossk; Han Solo; Chewbacca.
 Note (our notes, around the quote): Bossk; Han Solo; Chewbacca: "Hound's Tooth The bounty hunter Bossk had the Hounds Tooth built after Han Solo and Chewbacca destroyed his previous ship." Source: *Star Wars Gamer 07* (SWRPG d20), scan p.48
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.48 — full quote as printed](quotes/d056-s48-hounds-tooth-the-bounty-hunter-bossk.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:320`
 
 ## Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–108)
@@ -498,7 +449,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 > In Malta's case, Lando was one of the treasure hunters seeking the Vassilika, and Calrissian outwitted the Hutt's bounty hunters with the help of Han Solo, Chewbacca, and a few others.
 — Source: Characters/Hutts/Malta and Quaffug.pdf [Star Wars Roleplaying Game Revise.
 Note (our notes, around the quote): Lando Calrissian; Han Solo; Chewbacca — entry/section: Lando outwits Malta's hunters: "In Malta's case, Lando was one of the treasure hunters seeking the Vassilika, and Calrissian outwitted the Hutt's bounty hunters with the help of Han Solo, Chewbacca, and a few others." Source: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d088-s1-in-maltas-case-lando-was-one.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:12`
 
 ## Characters/Miniatures/Bounty Hunters Preview 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -508,7 +458,6 @@ Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett — entry/section: Bossk's screen history and rivalry with Chewbacca: "The reptilian Bossk first appeared on screen in The Empire Strikes Back as one of the elite bounty hunters personally invited by Darth Vader to pursue the Millennium Falcon. He didn't manage to capture the Falcon, or steal the frozen Han Solo from Boba Fett. But Bossk maintained a long rivalry with Chewbacca before and after the incident. Bossk is a Trandoshan, which is one of the native species of the Kashyyyk system and a longtime enemy of the Wookiees." Source: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d093-s1-the-reptilian-bossk-first-appeared-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:12`
 
 ## Characters/Miniatures/Icons of New Hope.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -518,7 +467,6 @@ Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Icons of New Hope (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Icons_of_New_Hope_pdf_8b98da6091`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Icons of New Hope (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Icons_of_New_Hope_pdf_8b98da6091`).)
 Note (our notes, around the quote): Obi-Wan Kenobi; Luke Skywalker; Han Solo; Chewbacca — entry/section: Luke joins Obi-Wan: "While Obi-Wan Kenobi told the young Luke stories from the Old Republic and the Jedi Order, the Empire tracked down the droids to the Lars homestead and killed Owen and Beru. The carnage proved to Luke the evil of the Empire, and he joined Obi-Wan Kenobi in rebellion. Luke, Ben, and the two droids left for Alderaan after finding the pilot Han Solo and copilot Chewbacca in Mos Eisley." Source: *Icons of New Hope* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Icons of New Hope* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d110-s2-while-obi-wan-kenobi-told-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:30`
 
 > Feats: Acrobatic, Dodge, Exotic Weapon (lightsaber), Force­Sensitive, Low Profile, Quick Draw, Starship Operation (starfighter), Weapon Group Proficiencies (blaster pistol, simple weapons). Force Feats: Alter, Burst of Speed, Control, Knight Defense, Lightsaber Defense, Sense. Princess Leia, Senator When they arrived in the Alderaan system, the crew of the Millennium Falcon discovered that the planet had been blown away. Although the ship was captured by the Empire's new battle station ­­ known as the Death Star ­­ the heroes evaded the search parties and Ben set off to disable the tractor beam. The droids discovered that Princess Leia was being held prisoner, which convinced Luke to mount a rescue. After releasing her from her cell, it was Princess Leia's quick thinking that led Luke, Han, and Chewbacca into a unique escape path through the garbage smashers. Princess Leia, Senator: Female Human Noble 4/Soldier 2; Init +1 (+1 Dex); Defense 15 (+4 class, +1 Dex); Spd 10 m; VP/WP 33/13; Atk +6 melee (1d3+1, unarmed) or +7 ranged (3d4 or DC 12 stun, sporting blaster); SQ Force Point use as though three levels higher, Skywalkers get Force­Sensitive feat free and ignore the "Force Level 1st" prerequisite when selecting the Force feats Control, Sense, and Alter; bonus class skill (Bluff), favor +2, inspire confidence, resource access, coordinate +1; SV Fort +5, Ref +3, Will +8; SZ M; FP 5; DSP 0; Rep +3; Str 12, Dex 13, Con 13, Int 14, Wis 14, Cha 14. Challenge Code D.
@@ -526,7 +474,6 @@ Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Icons of New Hope (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Icons_of_New_Hope_pdf_8b98da6091`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Icons of New Hope (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Icons_of_New_Hope_pdf_8b98da6091`).)
 Note (our notes, around the quote): Leia Organa Solo; Luke Skywalker; Han Solo; Chewbacca — entry/section: Leia's rescue: "The droids discovered that Princess Leia was being held prisoner, which convinced Luke to mount a rescue. After releasing her from her cell, it was Princess Leia's quick thinking that led Luke, Han, and Chewbacca into a unique escape path through the garbage smashers." Source: *Icons of New Hope* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Icons of New Hope* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d110-s2-the-droids-discovered-that-princess-leia.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:34`
 
 ## Characters/Miniatures/We Don't Need That Scum.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -536,7 +483,6 @@ Our notes: `notes/materials/037-sw-d20-folder/110-icons-of-new-hope.md:34`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Bossk; Darth Vader (Anakin Skywalker); Han Solo; Chewbacca — entry/section: Bossk hunts Chewbacca: "While most bounty hunters summoned by Darth Vader after the battle of Hoth were there to hunt down Han Solo, the Trandoshan Bossk's real target was the Wookiee Chewbacca. After years of skinning and collecting the pelts of Wookiees, he saw Chewbacca as the ultimate prize coat." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d115-s2-while-most-bounty-hunters-summoned-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:26`
 
 ## Characters/Heroes of Revenge of the Sith.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -550,7 +496,6 @@ Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from earch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Sourcebooks Revenge of the Sith Collection (text copy `earch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Sourcebooks_Revenge_of_the_Sith_Collection_pdf_ab7058c5d7`).)
 Note (our notes, around the quote): Chewbacca; Yoda — entry/section: Chewbacca of Kashyyyk: "Long before he became the co-pilot of the Millennium Falcon, Chewbacca fought in the defense of Kachirho and helped design and build the escape pods that were to be used should they be overrun by the Separatists. His pathfinding skills were critical in eluding the treacherous clone troopers and guiding Yoda to safety." Source: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.4
-![Quote image: *Heroes of Revenge of the Sith* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d140-s4-long-before-he-became-the-co.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/140-heroes-of-revenge-of-the-sith.md:59`
 
 ## Jedi Counselling/Jedi Counseling 63.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -571,7 +516,6 @@ Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:35`
 
 - Note (summary from our notes, not a quotation): Tarfful; Chewbacca — entry/section: Tarfful and Chewbacca of Kashyyyk count as Wookiees: "A: This requires actual errata because the text on the card would have to be changed in order to fix this. That being the case, the process is long and the new text has to jump through a bunch of hoops. Until that happens, though, I would recommend that you go with common sense and treat Tarfful and Chewbacca as "Wookiees" for all purposes." Source: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d236-s3-a-this-requires-actual-errata-because.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:45`
 
 > Betrayal can't prevent a character from rerolling the attack roll, because Betrayal doesn't actually happen until after the character has a chance to reroll if he desires. Q: Are Tarfful and Chewbacca of Kashyyyk considered to be Wookiees? They don't have Wookiee in their name, but the quotes on the back of their cards state: "This young and noble Wookiee," and "A brave Wookiee warrior . . ." So, what do we do here? Do we go with the technical definition of "Wookiee" or do we go with common sense? "Rrrrowwwuhroowr!" (Translation: "Well, we ain't Ewoks, pal!") A: This requires actual errata because the text on the card would have to be changed in order to fix this. That being the case, the process is long and the new text has to jump through a bunch of hoops. Until that happens, though, I would recommend that you go with common sense and treat Tarfful and Chewbacca as "Wookiees" for all purposes. Q: Should I do the same thing with Count Dooku and Darth Tyranus?
@@ -580,7 +524,6 @@ Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:45`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 68 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_68_pdf_8fdf2fb5e0`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_68_pdf`.)
 Note (our notes, around the quote): Chewbacca — entry/section: Wookiee caption: ""Rrrrowwwuhroowr!" (Translation: "Well, we ain't Ewoks, pal!")" Source: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 68* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d236-s3-rrrrowwwuhroowr-translation-well-we-aint-ewoks.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:47`
 
 ## Jedi Counselling/Jedi Counseling 79.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -590,7 +533,6 @@ Our notes: `notes/materials/037-sw-d20-folder/236-jedi-counseling-68.md:47`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 Note (our notes, around the quote): Chewbacca — entry/section: Wookiee rage and Battlemind: "A: The effects of Battlemind (and other Force skills with a duration, such as Enhance Ability or Force Defense) continue during a rage. This applies to the effects of the Rage feat as well." Source: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d248-s2-a-the-effects-of-battlemind-and.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:27`
 
 > That said, if Luke were to use Lightsaber Throw while adjacent to the target with Damage Reduction, he would indeed ignore the Damage Reduction. However, this would be a pretty dumb move on the part of Luke's player because the only benefit of Lightsaber Throw is the ability to hit a target at range. If Luke were adjacent, he'd be much better off saving a Force Point by making a normal attack (or using Triple Attack). Q: Is Vonduun Crab Armor considered to be Damage Reduction for purposes of Chewbacca, Rebel Hero's Demolish special ability or characters carrying lightsabers? A: No. Vonduun Crab Armor is not the same as Damage Reduction, nor are any other abilities that reduce damage (such as Shields). Always interpret rules very literally, because even similar abilities are not usually meant to be treated the same way. In the case of Vonduun Crab Armor, the New Jedi Order series of novels makes it clear that Yuuzhan Vong armor is resistant to lightsabers; presumably, the alien nature of Yuuzhan Vong technology interferes with Chewbacca's Demolish ability as well. Q: I have a question about the Hailfire Droid's Missiles 40 ability. It says, "40 damage to target and to each character adjacent to that target; save 11." Does this mean that only the target makes a save, or does each character affected get a save?
@@ -598,7 +540,6 @@ Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:27`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 Note (our notes, around the quote): Chewbacca — entry/section: Vonduun Crab Armor vs Chewbacca's Demolish: "A: No. Vonduun Crab Armor is not the same as Damage Reduction, nor are any other abilities that reduce damage (such as Shields). Always interpret rules very literally, because even similar abilities are not usually meant to be treated the same way. In the case of Vonduun Crab Armor, the New Jedi Order series of novels makes it clear that Yuuzhan Vong armor is resistant to lightsabers; presumably, the alien nature of Yuuzhan Vong technology interferes with Chewbacca's Demolish ability as well." Source: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d248-s3-a-no-vonduun-crab-armor-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:36`
 
 What it shows (our notes): Nien Nunb; Wedge Antilles; Chewbacca; Tarfful — entry/section: Is Nien Nunb a pilot?: "Q: Is Nien Nunb supposed to be counted as a pilot? His flavor text says, "This Sullustan pilot flew the copilot chair of the Millennium Falcon at the Battle of Endor." This seems to say that he's supposed to be a pilot, which would be helpful when using Wedge Antilles in the same squad.
@@ -613,7 +554,6 @@ Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:38`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 79 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_79_pdf_e66a484f5a`).)
 Note (our notes, around the quote): A: The real question here is, "Does flavor text count for rules purposes?" The answer is no, flavor text does not count. (It didn't count for Chewbacca or Tarfful, after all, and that's why we had to issue errata to identify them as Wookiees.) Thus, Nien Nunb does not count as a pilot unless the designers decide to change it with errata." Source: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 79* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d248-s3-q-is-nien-nunb-supposed-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/248-jedi-counseling-79.md:39`
 
 ## Jedi Counselling/Jedi Counseling 95.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -636,7 +576,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:42`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from g Game Revised Core Living Force Campaign Adventures Among the Stars Year 1 102 Eye of the Sun The Resistance Within (text copy `g_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_1_102_Eye_of_the_Sun_The_Resistance_Within_pdf_839b8e9e05`).)
 (Full sentence/passage taken from the source text on file: `g_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_1_102_Eye_of_the_Sun_The_Resistance_Within_pdf`.)
 Note (our notes, around the quote): Han Solo; Chewbacca — entry/section: E1-6RA greets "Captain Solo" and "the mighty Chewbacca": "She will then speak to each hero in turn (it is important for her to demonstrate knowledge of their names), saying something like, "Ah, the resourceful Captain Solo, it is truly a pleasure to meet you," or, "The mighty Chewbacca, I've heard of your prowess" or some such." Source: *102 - Eye of the Sun - The Resistance Within* (SWRPG d20 Revised Core), p.4
-![Quote image: *102 - Eye of the Sun - The Resistance Within* (SWRPG d20 Revised Core), p.4 — full quote as printed](quotes/d272-p4-she-will-then-speak-to-each.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/272-102-eye-of-the-sun-the-resistance.md:34`
 
 ## Locations/Planet Hoppers/Arbra - Sanctuary In the Storm/Part 3 - The Darker.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -662,7 +601,6 @@ Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.m
 > According to multiple complaints C-3PO filed with the New Republic Head of State at the time, Chewbacca threatened to disarm the droid Wookiee-style when he pointed out that protocol called for only Solo and Nien Nunb to attend.
 — Source: Locations/Planet Hoppers/Vandelhelm - Enemies and Alloys/Part 4 - The Dem; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "According to multiple complaints C-3PO filed with the New Republic Head of State at the time, Chewbacca threatened to disarm the droid Wookiee-style when he pointed out that protocol called for only Solo and Nien Nunb to attend." Source: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 4 - The Demands of Supply* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d623-s1-according-to-multiple-complaints-c-3po.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/623-part-4-the-demands-of-supply.md:16`
 
 ## Sourcebooks/Sourcebook Web Enhancements/Revised Core Rulebook Errata 2006.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -680,7 +618,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Approximately fourteen years after the Battle of Endor, Chewbacca and the Solo children traveled to Drall, escorted by their Drallish tutor, Ebrihim. While there, they discovered the planetary repulsor system and used it to disable Centerpoint Station, a powerful weapon commandeered by anti-Rebellion extremists.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Chewbacca; Jacen Solo (Darth Caedus); Jaina Solo; Anakin Solo — entry/section: Disabling Centerpoint from Drall: "Approximately fourteen years after the Battle of Endor, Chewbacca and the Solo children traveled to Drall, escorted by their Drallish tutor, Ebrihim. While there, they discovered the planetary repulsor system and used it to disable Centerpoint Station, a powerful weapon commandeered by anti-Rebellion extremists." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.81
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.81 — full quote as printed](quotes/d665-s81-approximately-fourteen-years-after-the-battle.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-061-120.md:154`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -692,13 +629,11 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > After all, Han and Chewbacca certainly had more experience under their belts than Luke and Leia, and Qui-Gon was far more experienced than Amidala, Anakin, or even Obi-Wan.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Chewbacca; Luke Skywalker; Leia Organa Solo; Qui-Gon Jinn; Padmé Amidala; Darth Vader (Anakin Skywalker); Obi-Wan Kenobi — entry/section: Han and Chewbacca more experienced: "After all, Han and Chewbacca certainly had more experience under their belts than Luke and Leia, and Qui-Gon was far more experienced than Amidala, Anakin, or even Obi-Wan." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d666-s12-after-all-han-and-chewbacca-certainly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:67`
 
 > Han Solo and Chewbacca initially take the roles of scouts to find and destroy the Imperial probe droid, and then spend most of the actual battle preparing the Millennium Falcon for their escape and rescuing Princess Leia.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Han Solo; Chewbacca; Leia Organa Solo.
 Note (our notes, around the quote): Han Solo; Chewbacca; Leia Organa Solo: "Han Solo and Chewbacca initially take the roles of scouts to find and destroy the Imperial probe droid, and then spend most of the actual battle preparing the Millennium Falcon for their escape and rescuing Princess Leia." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.42
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.42 — full quote as printed](quotes/d666-s42-han-solo-and-chewbacca-initially-take.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:243`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -706,7 +641,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > He meets allies—Han Solo, Chewbacca, and Princess Leia—and faces the nearly insurmountable challenge of destroying the Death Star.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Chewbacca; Leia Organa Solo — entry/section: Luke Skywalker's Journey: "He meets allies—Han Solo, Chewbacca, and Princess Leia—and faces the nearly insurmountable challenge of destroying the Death Star." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.147
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.147 — full quote as printed](quotes/d666-s147-he-meets-allies-han-solo-chewbacca.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:184`
 
 - Note (summary from our notes, not a quotation): Page contents: Trust (Leia as Boushh with Chewbacca before Jabba); Vengeance; Archetypal Adventure Plots: Collection, Delivery (hand-read)
@@ -716,7 +650,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > In Return of the Jedi, Princess Leia, disguised as the bounty hunter Boushh, proves her criminal nature by “capturing” Chewbacca and then threatening Jabba over the reward money.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Leia Organa Solo; Chewbacca; Jabba the Hutt — entry/section: Leia as Boushh: "In Return of the Jedi, Princess Leia, disguised as the bounty hunter Boushh, proves her criminal nature by “capturing” Chewbacca and then threatening Jabba over the reward money." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.155
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.155 — full quote as printed](quotes/d666-s155-in-return-of-the-jedi-princess.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:234`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -724,7 +657,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > Lord Vader began a one-man hunt for the chief figures in the Death Star's destruction: Princess Leia Organa, former senator of Alderaan, who had couriered the station's stolen plans; Han Solo and Chewbacca, her smuggler accomplices, who had liberated Leia after she had been arrested for the crime; and Luke Skywalker, a misguided (perhaps even delusional) young starfighter pilot who had personally fired the shot that had destroyed the battle station.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Leia Organa Solo; Han Solo; Chewbacca; Luke Skywalker — entry/section: Vader's one-man hunt (Imperial view): "Lord Vader began a one-man hunt for the chief figures in the Death Star's destruction: Princess Leia Organa, former senator of Alderaan, who had couriered the station's stolen plans; Han Solo and Chewbacca, her smuggler accomplices, who had liberated Leia after she had been arrested for the crime; and Luke Skywalker, a misguided (perhaps even delusional) young starfighter pilot who had personally fired the shot that had destroyed the battle station." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.95
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.95 — full quote as printed](quotes/d668-s95-lord-vader-began-a-one-man.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:194`
 
 ## Sourcebooks/Revenge of the Sith Collection.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -742,13 +674,11 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > At Han Solo’s side, Chewbacca has acquired a reputation as one of the most dangerous smugglers in the galaxy, based on tales of his great strength and even greater temper. But those who know Chewie well realize that much of his reputation is simply fanciful hype.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Chewbacca — entry/section: Chewbacca (Revised Core Rulebook, Ch13).
 Note (our notes, around the quote): Chewbacca — entry/section: Chewbacca (Revised Core Rulebook, Ch13): "At Han Solo’s side, Chewbacca has acquired a reputation as one of the most dangerous smugglers in the galaxy, based on tales of his great strength and even greater temper. But those who know Chewie well realize that much of his reputation is simply fanciful hype." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.309
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.309 — full quote as printed](quotes/d671-s309-at-han-solo-s-side-chewbacca.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:108`
 
 > Although Wookiees are widely recognized as one of the strongest and fiercest intelligent species in the galaxy, other creatures on Kashyyyk are so powerful that the Wookiees are relegated to living in the tops of the world’s giant trees.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Chewbacca — entry/section: Wookiees (Revised Core Rulebook, Ch14).
 Note (our notes, around the quote): Chewbacca — entry/section: Wookiees (Revised Core Rulebook, Ch14): "Although Wookiees are widely recognized as one of the strongest and fiercest intelligent species in the galaxy, other creatures on Kashyyyk are so powerful that the Wookiees are relegated to living in the tops of the world’s giant trees." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.330
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.330 — full quote as printed](quotes/d671-s330-although-wookiees-are-widely-recognized-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:307`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -756,31 +686,26 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett; Jabba the Hutt — entry/section: Bossk and Chewbacca: "Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d672-s12-bossk-jumped-at-the-chance-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:75`
 
 > He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Chewbacca — entry/section: Ultimate Adversaries (Revised Core).
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Ultimate Adversaries (Revised Core): "He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-he-is-at-his-prime-during.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:82`
 
 > Bossk loves being a bounty hunter and can think of nothing he would rather do. He scrounges any piece of information he can get on Chewbacca, and has followed the Wookiee all over the galaxy only to come up empty handed each time they have fought. Bossk no longer wishes to collect the bounty on the Wookiee, instead just wishing to see him dead. Even when he takes jobs in other parts of the galaxy, his arch-nemesis is never far from his mind.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Chewbacca — entry/section: Bossk: Goals.
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Bossk: Goals: "Bossk loves being a bounty hunter and can think of nothing he would rather do. He scrounges any piece of information he can get on Chewbacca, and has followed the Wookiee all over the galaxy only to come up empty handed each time they have fought. Bossk no longer wishes to collect the bounty on the Wookiee, instead just wishing to see him dead. Even when he takes jobs in other parts of the galaxy, his arch-nemesis is never far from his mind." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-loves-being-a-bounty-hunter.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:84`
 
 > Bossk is well known among bounty hunters, and his experience has helped him garner several large and ongoing contracts. Lesser bounty hunters often pay Bossk to complete a particularly challenging bounty that they have failed to accomplish, a task he does in return for later favors. In this way, Bossk has managed to accumulate a vast network of resources at his disposal. He is also known to feud with those who displease him, such as when Boba Fett refused to turn over Chewbacca after capturing he and Han Solo in Cloud City.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Boba Fett; Chewbacca; Han Solo — entry/section: Bossk: Affiliations.
 Note (our notes, around the quote): Bossk; Boba Fett; Chewbacca; Han Solo — entry/section: Bossk: Affiliations: "Bossk is well known among bounty hunters, and his experience has helped him garner several large and ongoing contracts. Lesser bounty hunters often pay Bossk to complete a particularly challenging bounty that they have failed to accomplish, a task he does in return for later favors. In this way, Bossk has managed to accumulate a vast network of resources at his disposal. He is also known to feud with those who displease him, such as when Boba Fett refused to turn over Chewbacca after capturing he and Han Solo in Cloud City." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-is-well-known-among-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:86`
 
 > Bossk is still a young Trandoshan during the Rise of the Empire era and has not grown into the fearsome bounty hunter that he will become. Still, his attitudes and abilities are not uncommon among his species and the stats provided could be used for any similar Trandoshan. He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest. During the New Jedi Order period, Bossk is an old and broken figure. He blindly pursues Chewbacca well past the point that his body could handle another encounter with the Wookiee, as they years of injuries have finally caught up to him.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Chewbacca — entry/section: Bossk: Era Notes.
 Note (our notes, around the quote): Bossk; Chewbacca — entry/section: Bossk: Era Notes: "Bossk is still a young Trandoshan during the Rise of the Empire era and has not grown into the fearsome bounty hunter that he will become. Still, his attitudes and abilities are not uncommon among his species and the stats provided could be used for any similar Trandoshan. He is at his prime during the Rebellion Era, when his running feud with Chewbacca is at its strongest. During the New Jedi Order period, Bossk is an old and broken figure. He blindly pursues Chewbacca well past the point that his body could handle another encounter with the Wookiee, as they years of injuries have finally caught up to him." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-is-still-a-young-trandoshan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:88`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–225)
@@ -800,7 +725,6 @@ Our notes: `notes/materials/037-sw-d20-folder/676-dare-to-be-different.md:15`
 > Where the Falcon really stands out is in its abilities. Its Antifighter Targeting +7 makes it lethal to most starfighters, which often have Defense scores at the low end of the scale.
 — Source: Vehicles/Miniatures/Starship Battles Preview 3.pdf [Star Wars Roleplaying; Han Solo; Chewbacca — entry/section: The Millennium Falcon.
 Note (our notes, around the quote): Han Solo; Chewbacca — entry/section: The Millennium Falcon: "Where the Falcon really stands out is in its abilities. Its Antifighter Targeting +7 makes it lethal to most starfighters, which often have Defense scores at the low end of the scale." Source: *Starship Battles Preview 3* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Starship Battles Preview 3* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d694-s3-where-the-falcon-really-stands-out.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/694-starship-battles-preview-3.md:22`
 
 ## Adventures/Dawn of Defiance/08 - The Gem of Alderaan.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -843,13 +767,11 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Chewbacca's Bowcaster The favored weapon of the loyal and dedicated hero Chewbacca, this bowcaster represents decades of battle prowess in the hands of one of the greatest Wookiees of all time.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Chewbacca — entry/section: Legacy Era Campaign Guide (Saga).
 Note (our notes, around the quote): Chewbacca — entry/section: Legacy Era Campaign Guide (Saga): "Chewbacca's Bowcaster The favored weapon of the loyal and dedicated hero Chewbacca, this bowcaster represents decades of battle prowess in the hands of one of the greatest Wookiees of all time." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.99
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.99 — full quote as printed](quotes/d719-s99-chewbaccas-bowcaster-the-favored-weapon-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:317`
 
 > Chewbacca's Bowcaster: Medium bowcaster (3d10 damage) and legendary icon (grants favorable circumstances on Charisma-based skill checks, except for Use the Force checks).
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Chewbacca. POV: Chewbacca.
 Note (our notes, around the quote): Chewbacca: "Chewbacca's Bowcaster: Medium bowcaster (3d10 damage) and legendary icon (grants favorable circumstances on Charisma-based skill checks, except for Use the Force checks)." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.99
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.99 — full quote as printed](quotes/d719-s99-chewbaccas-bowcaster-medium-bowcaster-3d10-damage.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:323`
 
 ## Sourcebooks/Official Errata October 2008.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -873,7 +795,6 @@ Our notes: `notes/materials/037-sw-d20-folder/721-official-faq-and-errata-compil
 > The mighty Chewbacca fights in the Clone Wars to defend the Republic, ; working closely with Jedi Master Yoda.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Chewbacca; Yoda — entry/section: Chewbacca (Saga Edition Core Rulebook, Ch16).
 Note (our notes, around the quote): Chewbacca; Yoda — entry/section: Chewbacca (Saga Edition Core Rulebook, Ch16): "The mighty Chewbacca fights in the Clone Wars to defend the Republic, ; working closely with Jedi Master Yoda." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.274
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.274 — full quote as printed](quotes/d723-s274-the-mighty-chewbacca-fights-in-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:214`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -887,7 +808,6 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.
 > The end of Return of the Jedi is a perfect example of this: Luke fights Vader on the Death Star while Lando fights a few TIE fighters inside the station's superstructure, Admiral Ackbar engages in fleet combat, and Han, Leia, and Chewbacca battle stormtroopers around the Imperial deflector shield station.
 — Source: Sourcebooks/Starships of the Galaxy.pdf [Star Wars Roleplaying Game Saga.
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Lando Calrissian; Admiral Ackbar; Leia Organa Solo; Chewbacca: "The end of Return of the Jedi is a perfect example of this: Luke fights Vader on the Death Star while Lando fights a few TIE fighters inside the station's superstructure, Admiral Ackbar engages in fleet combat, and Han, Leia, and Chewbacca battle stormtroopers around the Imperial deflector shield station." Source: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.32
-![Quote image: *Starships of the Galaxy* (SWRPG Saga Edition), scan p.32 — full quote as printed](quotes/d727-s32-the-end-of-return-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/727-starships-of-the-galaxy-scan-001-060.md:185`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -1104,7 +1024,6 @@ Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:443`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Vector Prime (R.A. Salvatore) (text copy `MEGA_Legend_The_New_Jedi_Order_Series_Star_Wars_New_Jedi_Order_01_Vector_Prime_R_A_Salvatore_epub`).)
 (Full sentence/passage taken from the source text on file: `njo_vp_epub`.)
 Note (our notes, around the quote): Chewbacca; Anakin Solo — entry/section: Vector Prime excerpt: "held him there easily, with just one hand, while his other hand reached down to Anakin's belt and pulled free his lightsaber." Source: *Star Wars Insider #45* (1999), scan p.84
-![Quote image: *Star Wars Insider #45* (1999), scan p.84 — full quote as printed](quotes/ins045-s84-held-him-there-easily-with-just.jpg)
 Our notes: `notes/materials/038-star-wars-insider/045-ins045.md:445`
 
 ## Star Wars Insider #46 (1999)
@@ -1131,12 +1050,10 @@ Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:142`
 > He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books.
 — Source: Star Wars Insider #47 (1999); Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff).
 Note (our notes, around the quote): Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff): "He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books." Source: *Star Wars Insider #47* (1999), scan p.27
-![Quote image: *Star Wars Insider #47* (1999), scan p.27 — full quote as printed](quotes/ins047-s27-he-outran-a-fleet-of-bounty.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:144`
 
 - Note (summary from our notes, not a quotation): Chewbacca — entry/section: Back, and Returr ed Although Chewie's: "So when they told me about Chewie getting Killed off 25 years after Jedi, | thought, "Well all right."" Source: *Star Wars Insider #47* (1999), scan p.27
   — Source: Star Wars Insider #47 (1999).
-![Quote image: *Star Wars Insider #47* (1999), scan p.27 — full quote as printed](quotes/ins047-s27-so-when-they-told-me-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:146`
 
 - Note (summary from our notes, not a quotation): Page contents: Shapiro on why Chewie was killed (stakes, growth for Han); Mayhew on Chewie's appeal. (hand-read)
@@ -1146,7 +1063,6 @@ Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:151`
 > Luke is practically omnipotent, everybody's been kidnapped 500 times, and there's no danger for them—you don't ever really worry about them.
 — Source: Star Wars Insider #47 (1999).
 Note (our notes, around the quote): Luke Skywalker; Chewbacca; Han Solo — entry/section: "Why Chewie?" sidebar (Shelly Shapiro, Del Rey NJO editor): "Luke is practically omnipotent, everybody's been kidnapped 500 times, and there's no danger for them—you don't ever really worry about them." Source: *Star Wars Insider #47* (1999), scan p.28
-![Quote image: *Star Wars Insider #47* (1999), scan p.28 — full quote as printed](quotes/ins047-s28-luke-is-practically-omnipotent-everybodys-been.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:153`
 
 - Note (summary from our notes, not a quotation): Page contents: Mayhew: chess scene, Han frozen reaction, casting (chose Chewie over Vader). Actor commentary. (hand-read)
@@ -1186,7 +1102,6 @@ Our notes: `notes/materials/038-star-wars-insider/049-ins049.md:149`
 > When Han, Leia and Chewie are led to the dining hall where Vader and Fett are waiting. Vader deflects Han's laser bolts with his hand! I never knew Vader was that powerful until then.
 — Source: Star Wars Insider #50 (2000).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Han Solo — entry/section: Rebel Rumblings letter, printed p. 8: "When Han, Leia and Chewie are led to the dining hall where Vader and Fett are waiting. Vader deflects Han's laser bolts with his hand! I never knew Vader was that powerful until then." Source: *Star Wars Insider #50* (2000), scan p.8
-![Quote image: *Star Wars Insider #50* (2000), scan p.8 — full quote as printed](quotes/ins050-s8-when-han-leia-and-chewie-are.jpg)
 Our notes: `notes/materials/038-star-wars-insider/050-ins050.md:47`
 
 ## Star Wars Insider #51 (2000)
@@ -1200,7 +1115,6 @@ Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:432`
 > Even though he was killed when Luke rescued Han and Chewie in Rerurn of the Jedi, this scoundrel can live to fight another day in your collection.
 — Source: Star Wars Insider #52 (2000); Luke Skywalker; Chewbacca.
 Note (our notes, around the quote): Luke Skywalker; Chewbacca: "Even though he was killed when Luke rescued Han and Chewie in Rerurn of the Jedi, this scoundrel can live to fight another day in your collection." Source: *Star Wars Insider #52* (2000), scan p.36
-![Quote image: *Star Wars Insider #52* (2000), scan p.36 — full quote as printed](quotes/ins052-s36-even-though-he-was-killed-when.jpg)
 Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:201`
 
 - Note (summary from our notes, not a quotation): Page contents: Comics Link: Han (Shadeshine, Bounty Hunter of Ord Mantell, Jawas of Doom); Vader (Dark Lord's Conscience, Extinction, Dark Encounter); Chewbacca miniseries; pull-quote on Luke in Dark Empire. (hand-read)
@@ -1212,7 +1126,6 @@ Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:322`
 > The more they focus their line, the greater the pull. One was used to pull down a moon onto the planet Sernpidal, resulting in the deaths of millions—including Han Solo's close friend Chewbacca.
 — Source: Star Wars Insider #53 (2001).
 Note (our notes, around the quote): yuuzhan-vong; Chewbacca — entry/section: Essential Guide to Alien Species excerpt (dovin basal), printed p. 56: "The more they focus their line, the greater the pull. One was used to pull down a moon onto the planet Sernpidal, resulting in the deaths of millions—including Han Solo's close friend Chewbacca." Source: *Star Wars Insider #53* (2001), scan p.56
-![Quote image: *Star Wars Insider #53* (2001), scan p.56 — full quote as printed](quotes/ins053-s56-the-more-they-focus-their-line.jpg)
 Our notes: `notes/materials/038-star-wars-insider/053-ins053.md:315`
 
 - Note (summary from our notes, not a quotation): Page contents: Scouting the Galaxy Q&A pp. 67-69 (documentaries, Pepsi standees, Revenge flyer, cookie jars, bootlegs; Chewie red cloak = Holiday Special). No power content. (hand-read)
@@ -1252,7 +1165,6 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:307`
 > They were loyal, and both groups had a very positive message to give. That's different than much of the culture today, but one thing we were able to do in the '70s was be positive and truthful at the same time.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Luke Skywalker; Leia Organa Solo; Han Solo; Chewbacca — entry/section: Muppet performer Dave Goelz comparing the core Muppets with the core Star Wars heroes (verified on crop): ""They were loyal, and both groups had a very positive message to give. That's different than much of the culture today, but one thing we were able to do in the '70s was be positive and truthful at the same time." —Dave Goelz, Star Wars Insider 55, p. 54" Source: *Star Wars Insider #55* (2001), scan p.42
-![Quote image: *Star Wars Insider #55* (2001), scan p.42 — full quote as printed](quotes/ins055-s42-they-were-loyal-and-both-groups.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:309`
 
 - Note (summary from our notes, not a quotation): Page contents: Muppet Show feature cont. (magazine p. 55): "In a Vaudeville House Far, Far Away" (Angus McGonagle; Luke, C-3PO and R2-D2 blast into the dressing room); "Gotcha Copy Right Here" box on the Time-Life video; "Every Little Thing Counts" box (Summertime lyrics, non-Star Wars scenes, Chewbacca's "Wookiee Waltz", Hamill and Skywalker as separate characters, Koozebane); caption: Chewbacca and R2-D2 in a dance routine. (hand-read)
@@ -1262,7 +1174,6 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:314`
 > I have got two left feet.
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Chewbacca — entry/section: Peter Mayhew on Chewbacca's "Wookiee Waltz" in The Muppet Show episode (verified on crop): ""I have got two left feet." —Peter Mayhew, Star Wars Insider 55, p. 55" Source: *Star Wars Insider #55* (2001), scan p.43
-![Quote image: *Star Wars Insider #55* (2001), scan p.43 — full quote as printed](quotes/ins055-s43-i-have-got-two-left-feet.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:318`
 
 - Note (summary from our notes, not a quotation): Page contents: Muppet Show feature cont. (magazine p. 56): episode plot (Kermit, McGonagle, C-3PO, Chewbacca kidnapped); "The Muppet Connection" box (taped at ATV Borehamwood near Elstree; Henson first asked to create and perform Yoda; C-3PO and R2-D2 on Sesame Street in 1981); "Anthony Daniels Talks About the Muppets" interview opener (fan of the Muppets). (hand-read)
@@ -1282,7 +1193,6 @@ Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:434`
 > Do you know why I had Chewbacca work with a welding torch on the Falcon? That was the only thing I could find where you could see what he was doing. If he was screwing something with a tool, you wouldn't see anything. So whenever anything needs fixing, you'll notice the characters are welding!
 — Source: Star Wars Insider #55 (2001).
 Note (our notes, around the quote): Chewbacca — entry/section: Director Irvin Kershner on why Chewbacca works with a welding torch on the Falcon (verified on crop): ""Do you know why I had Chewbacca work with a welding torch on the Falcon? That was the only thing I could find where you could see what he was doing. If he was screwing something with a tool, you wouldn't see anything. So whenever anything needs fixing, you'll notice the characters are welding!" —Irvin Kershner, Star Wars Insider 55, p. 85" Source: *Star Wars Insider #55* (2001), scan p.63
-![Quote image: *Star Wars Insider #55* (2001), scan p.63 — full quote as printed](quotes/ins055-s63-do-you-know-why-i-had.jpg)
 Our notes: `notes/materials/038-star-wars-insider/055-ins055.md:436`
 
 - Note (summary from our notes, not a quotation): Page contents: "Dear 2-1B" humor column (magazine p. 96): contributing editor Scott Chernoff's note introducing medical assistant droid FX-7 as co-columnist; reader letter scolding 2-1B; 2-1B's in-character reply belittling Chewbacca and George Lucas's casting; FX-7's polite reply begins; illustrations by Stan Shaw (letter-writer names omitted). T below for 2-1B's in-character statements. (hand-read)
@@ -1367,7 +1277,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:420`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Chewbacca; Han Solo — entry/section: Why Chewbacca died: "Shapiro notes it was a logical choice for the story. Chewie, she says, "is a difficult character to do much with in terms of point of view, and yet he was sufficiently beloved by the other characters that his death would have a real impact on them." (To which she adds with a grin that she refused to kill off Han Solo.) —Shelly Shapiro, Star Wars Insider 57, p. 74" Source: *Star Wars Insider #57* (2001), scan p.54
-![Quote image: *Star Wars Insider #57* (2001), scan p.54 — full quote as printed](quotes/ins057-s54-shapiro-notes-it-was-a-logical.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:422`
 
 ## Star Wars Insider #58 (2002)
@@ -1400,7 +1309,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:215`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Chewbacca; Darth Vader (Anakin Skywalker) — entry/section: Peter Mayhew on his Chewbacca casting: "Though originally called in to read for Vader, the lanky Mayhew admits, "It needed someone with a bit more muscle than I've got." He saw several Ralph McQuarrie character sketches on the wall while waiting, and saw one labeled Chewbacca, "Eight foot plus, with a question mark ... the original one, with the pointed ears. It had a vest and Bermuda shorts." —Peter Mayhew, Star Wars Insider 59, p. 33" Source: *Star Wars Insider #59* (2002), scan p.33
-![Quote image: *Star Wars Insider #59* (2002), scan p.33 — full quote as printed](quotes/ins059-s33-though-originally-called-in-to-read.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:217`
 
 > You can't control the characters
@@ -1416,7 +1324,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:222`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Chewbacca — entry/section: Peter Mayhew on Chewbacca in Empire: "Despite passing out, the actor says that Empire is his favorite of the three Star Wars films. "Chewie came alive," he says proudly. "He became ... a full character. By the time Empire came around, I knew what I could do with him. It was amazing." —Peter Mayhew, Star Wars Insider 59, p. 34" Source: *Star Wars Insider #59* (2002), scan p.34
-![Quote image: *Star Wars Insider #59* (2002), scan p.34 — full quote as printed](quotes/ins059-s34-despite-passing-out-the-actor-says.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:224`
 
 > Hi! It's Luke Skywalker. Are you in the hospital? I heard you're sick. The Rebel Alliance needs you, we have to beat the Empire.
@@ -1432,13 +1339,11 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:224`
 > I have to go. Han is not going to stay around too long and Chewie is real crabby today.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Chewbacca — entry/section: Mark Hamill (Bantha Tracks issue 3) on calling a sick child as Luke: "Normally I don't say I'm Luke Skywalker. I try to keep my identity separate from that of the film character, but in this case I made an exception. I called and said "Hi! It's Luke Skywalker. Are you in the hospital? I heard you're sick. The Rebel Alliance needs you, we have to beat the Empire." He said, "Luke? Where are you?" And I said, "I'm here in your galaxy for just a little bit. We just stopped off to regroup our forces." He got so thrilled and excited, he said, "I knew it was you!" He just went crazy. Then I said, "I have to go. Han is not going to stay around too long and Chewie is real crabby today." —Mark Hamill, Star Wars Insider 59, p. 70" Source: *Star Wars Insider #59* (2002), scan p.70
-![Quote image: *Star Wars Insider #59* (2002), scan p.70 — full quote as printed](quotes/ins059-s70-normally-i-dont-say-im-luke.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:528`
 
 > I think I ran over a Wookie back there!
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): R2-D2; Chewbacca — entry/section: George Lucas (Bantha Tracks issue 8) on naming R2-D2 and the Wookiee: "The truth is I was mixing the soundtrack of American Graffiti with the sound editor, Walter Murch. Walter asked me to go to the rack and get R2-D2—reel two, dialogue track two. When I heard that, I thought it was a great name and wrote it down. A similar thing happened with Chewbacca, the Wookie. A friend of mine and I were riding in his car one day when he said, "I think I ran over a Wookie back there!" I asked him what a Wookie was and he said he didn't know, that he had just made it up. I loved the word, so I wrote it down and planned to use it when I had a chance. —George Lucas, Star Wars Insider 59, p. 71" Source: *Star Wars Insider #59* (2002), scan p.71
-![Quote image: *Star Wars Insider #59* (2002), scan p.71 — full quote as printed](quotes/ins059-s71-the-truth-is-i-was-mixing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:537`
 
 - Note (summary from our notes, not a quotation): Page contents: Jawa Trader catalog (Fan Club store at swfan.wizards.com): Attack of the Clones / Power of the Jedi / Saga action figures with keywords and member prices (Darth Vader, Chewbacca, Obi-Wan, Qui-Gon, Leia, Padmé, R2-D2, Super Battle Droid, AT-AT driver and others), action figure stands, and the Luke Skywalker in Bacta Tank figure with a short product story (Luke rescued by Han after the wampa attack, recovering in the bacta tank in Echo Base in time for the Battle of Hoth). (hand-read)
@@ -1454,7 +1359,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:921`
 > The glasses—which feature designs of Luke and Leia, Han and Chewie, the droids and Darth Vader—have a wonderful retro look.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Luke Skywalker; Leia Organa Solo; Han Solo; Chewbacca; Darth Vader (Anakin Skywalker) — entry/section: Sansweet on 1977 Burger King glasses: ""The glasses—which feature designs of Luke and Leia, Han and Chewie, the droids and Darth Vader—have a wonderful retro look." —Steve Sansweet, Star Wars Insider 60, p. 117" Source: *Star Wars Insider #60* (2002), scan p.117
-![Quote image: *Star Wars Insider #60* (2002), scan p.117 — full quote as printed](quotes/ins060-s117-the-glasses-which-feature-designs-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:925`
 
 > Jar Jar Binks Is 31 Today!
@@ -1573,7 +1477,6 @@ Our notes: `notes/materials/038-star-wars-insider/072-ins072.md:108`
 > I hear that me and Hayden will have some big kickoff fight. But until some fan told me about it, I didn't even know Chewbacca was back.
 — Source: Star Wars Insider #72 (2003).
 Note (our notes, around the quote): Obi-Wan Kenobi; Darth Vader (Anakin Skywalker); Chewbacca — entry/section: Ewan McGregor before Episode III filming: ""I hear that me and Hayden will have some big kickoff fight. But until some fan told me about it, I didn't even know Chewbacca was back." —Ewan McGregor, Star Wars Insider 72, p. 17" Source: *Star Wars Insider #72* (2003), scan p.17
-![Quote image: *Star Wars Insider #72* (2003), scan p.17 — full quote as printed](quotes/ins072-s17-i-hear-that-me-and-hayden.jpg)
 Our notes: `notes/materials/038-star-wars-insider/072-ins072.md:110`
 
 ## Star Wars Insider #74 (2004)
@@ -1599,7 +1502,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:200`
 > Chewie’s father provides a fitting epitaph in Dark Horse's Chewbacca: “How <an 4 meré moon be a match for my son?
 — Source: Star Wars Insider #74 (2004); Chewbacca — entry/section: Star Wars Insider 074 (2004).
 Note (our notes, around the quote): Chewbacca — entry/section: Star Wars Insider 074 (2004): "Chewie’s father provides a fitting epitaph in Dark Horse's Chewbacca: “How <an 4 meré moon be a match for my son?" Source: *Star Wars Insider #74* (2004), scan p.30
-![Quote image: *Star Wars Insider #74* (2004), scan p.30 — full quote as printed](quotes/ins074-s30-chewie-s-father-provides-a-fitting.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:202`
 
 - Note (summary from our notes, not a quotation): Page contents: Storybooks: The Mystery of the Rebellious Robot (Artoo goes berserk from oil contaminated by Jawa saboteurs; Chewie captures the Jawas and gets his medal from Leia); the gap after 1979, the Rebel Mission to Ord Mantell record and read-alongs; the 1984 wave of Ewok books; Joe Johnston's The Adventures of Teebo. (hand-read)
@@ -1613,7 +1515,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:256`
 > In my original outline for the Black Fleet Crisis, I proposed that one of the reasons Chewbacca returned to [his hometown of] Rwookrrorro was to find a mate, and that when the Millennium Falcon reappeared for the rescue in Book Three, it would be crewed by Chewbacca and his several wives. This was the only major story point that was vetoed by Lucasfilm, and the reason it was vetoed was that – unbeknownst to me – Chewbacca already had a family in the official Star Wars chronology.
 — Source: Star Wars Insider #74 (2004); Chewbacca — entry/section: Kube-McDowell on Chewbacca's vetoed wives.
 Note (our notes, around the quote): Chewbacca — entry/section: Kube-McDowell on Chewbacca's vetoed wives: ""In my original outline for the Black Fleet Crisis, I proposed that one of the reasons Chewbacca returned to [his hometown of] Rwookrrorro was to find a mate, and that when the Millennium Falcon reappeared for the rescue in Book Three, it would be crewed by Chewbacca and his several wives. This was the only major story point that was vetoed by Lucasfilm, and the reason it was vetoed was that – unbeknownst to me – Chewbacca already had a family in the official Star Wars chronology." —Michael P. Kube-McDowell, Star Wars Insider 74, p. 38" Source: *Star Wars Insider #74* (2004), scan p.38
-![Quote image: *Star Wars Insider #74* (2004), scan p.38 — full quote as printed](quotes/ins074-s38-in-my-original-outline-for-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:267`
 
 - Note (summary from our notes, not a quotation): Page contents: Action Figure Archive continued: FlashBack Wave 1 Ben (Obi-Wan) Kenobi with lightsaber, Emperor Palpatine with Force lightning (first with individually sculpted legs), Darth Vader ("double cape"), Hoth Chewbacca with bowcaster. (hand-read)
@@ -1628,7 +1529,6 @@ Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:580`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #74 (2004); Chewbacca — entry/section: Lucas on Kashyyyk's underworld.
 Note (our notes, around the quote): Chewbacca — entry/section: Lucas on Kashyyyk's underworld: ""Underneath the trees, it's very murky down there. Very dark and very swampy and very dreary and mucky and all kinds of ugly little creatures ... a lot of white, soggy things live down there. ... Balls of ugly white pasty flesh with no eyes that absorb things like giant amoebas ... especially Wookiees." —George Lucas (developmental notes), Star Wars Insider 74, p. 88" Source: *Star Wars Insider #74* (2004), scan p.88
-![Quote image: *Star Wars Insider #74* (2004), scan p.88 — full quote as printed](quotes/ins074-s88-underneath-the-trees-its-very-murky.jpg)
 Our notes: `notes/materials/038-star-wars-insider/074-ins074.md:593`
 
 - Note (summary from our notes, not a quotation): Page contents: Back cover: Hasbro Star Wars Unleashed ad — Clone Trooper standing over a fallen battle droid, with Luke Skywalker and Chewbacca. (hand-read)
@@ -1645,7 +1545,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:196`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Chewbacca — entry/section: Burtt on Chewbacca's dialogue: ""I'm always amazed when I go back and find that we have plenty of unused Chewbacca that we can use. (Thank goodness for the "Holiday Special"!) There will probably be some new stuff as well." —Ben Burtt, Star Wars Insider 75, p. 32" Source: *Star Wars Insider #75* (2004), scan p.32
-![Quote image: *Star Wars Insider #75* (2004), scan p.32 — full quote as printed](quotes/ins075-s32-im-always-amazed-when-i-go.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:198`
 
 - Note (summary from our notes, not a quotation): Page contents: Gentle Giant: scanning size doesn't matter; actors scanned repeatedly (Jeremy Bulloch scanned at Comic-Con); digital cleanup (Navarrete) of a sandtrooper-on-dewback file; sculptor Joseph Jung's 12-inch Chewbacca carrying a disassembled C-3PO. (hand-read)
@@ -1680,7 +1579,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:114`
 > We just weren't ready to do it. First, we had to find people tall enough to play the Wookiees, which we did, eventually – we hired some basketball players. After that, it took six months to build their Wookiee suits.
 — Source: Star Wars Insider #76 (2004); Chewbacca — entry/section: Casting the Wookiees.
 Note (our notes, around the quote): Chewbacca — entry/section: Casting the Wookiees: ""No Wookiee footage was done when we were in Sydney last year," said McCallum. "We just weren't ready to do it. First, we had to find people tall enough to play the Wookiees, which we did, eventually – we hired some basketball players. After that, it took six months to build their Wookiee suits." —Rick McCallum, Star Wars Insider 76, p. 21" Source: *Star Wars Insider #76* (2004), scan p.21
-![Quote image: *Star Wars Insider #76* (2004), scan p.21 — full quote as printed](quotes/ins076-s21-no-wookiee-footage-was-done-when.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:116`
 
 - Note (summary from our notes, not a quotation): Page contents: The Old Master continued: Threepio made "a boy"; the droid's final look with Liz Moore; Chewbacca designs and Stuart Freeborn's lemur-like Wookiee. (hand-read)
@@ -1699,7 +1597,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:303`
 > We did the whole thing in two days. The actors were in fantastic shape—mentally and physically, they were ready for the shoot, and everything went really well.
 — Source: Star Wars Insider #77 (2004); Chewbacca — entry/section: The Wookiee shoot.
 Note (our notes, around the quote): Chewbacca — entry/section: The Wookiee shoot: ""The Wookiee shoot was a fabulous experience," said McCallum. "We did the whole thing in two days. The actors were in fantastic shape—mentally and physically, they were ready for the shoot, and everything went really well." —Rick McCallum, Star Wars Insider 77, p. 28" Source: *Star Wars Insider #77* (2004), scan p.28
-![Quote image: *Star Wars Insider #77* (2004), scan p.28 — full quote as printed](quotes/ins077-s28-the-wookiee-shoot-was-a-fabulous.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:155`
 
 - Note (summary from our notes, not a quotation): Page contents: OTC continued: a Toys "R" Us Vader TIE fighter and Y-wing with Gold Leader; a Target Slave I with Boba Fett; DVD-themed multipacks; a Kay Bee 12-inch Chewbacca. (hand-read)
@@ -1731,13 +1628,11 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:232`
 > When we finally got the costume done, we went to George to get his approval and Rick walked in and said, 'There he is—now that's a Wookiee.'
 — Source: Star Wars Insider #79 (2005); Chewbacca — entry/section: Now that's a Wookiee.
 Note (our notes, around the quote): Chewbacca — entry/section: Now that's a Wookiee: ""When we finally got the costume done, we went to George to get his approval and Rick walked in and said, 'There he is—now that's a Wookiee.'" —Peter Mayhew, Star Wars Insider 79, p. 37" Source: *Star Wars Insider #79* (2005), scan p.37
-![Quote image: *Star Wars Insider #79* (2005), scan p.37 — full quote as printed](quotes/ins079-s37-when-we-finally-got-the-costume.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:234`
 
 > He's a very comforting character. Chewie is one of the connections that helps bridge the gap between Episodes III and IV.
 — Source: Star Wars Insider #79 (2005); Chewbacca — entry/section: Bridging the trilogies.
 Note (our notes, around the quote): Chewbacca — entry/section: Bridging the trilogies: ""He's a very comforting character. Chewie is one of the connections that helps bridge the gap between Episodes III and IV." —Peter Mayhew, Star Wars Insider 79, p. 37" Source: *Star Wars Insider #79* (2005), scan p.37
-![Quote image: *Star Wars Insider #79* (2005), scan p.37 — full quote as printed](quotes/ins079-s37-hes-a-very-comforting-character-chewie.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:236`
 
 - Note (summary from our notes, not a quotation): Page contents: Mayhew interview continued: prequels vs. original films, bluescreen acting from memory, instant digital replay; getting into character; photos of Mayhew in makeup and the Chewbacca suit. (hand-read)
@@ -1748,13 +1643,11 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:241`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #79 (2005); Chewbacca — entry/section: Chewie came alive.
 Note (our notes, around the quote): Chewbacca — entry/section: Chewie came alive: ""As soon as I put the costume on, the character came out... The moment I put on the mask, I became the character—Chewie literally came alive. It was quite amazing." —Peter Mayhew, Star Wars Insider 79, p. 38" Source: *Star Wars Insider #79* (2005), scan p.38
-![Quote image: *Star Wars Insider #79* (2005), scan p.38 — full quote as printed](quotes/ins079-s38-as-soon-as-i-put-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:243`
 
 > Like me, Chewie is very tolerant. I would never do anything unless I have a pretty good reason to do it. Not only that, he is also Han [Solo's] conscience.
 — Source: Star Wars Insider #79 (2005); Chewbacca; Han Solo — entry/section: Han's conscience.
 Note (our notes, around the quote): Chewbacca; Han Solo — entry/section: Han's conscience: ""Like me, Chewie is very tolerant. I would never do anything unless I have a pretty good reason to do it. Not only that, he is also Han [Solo's] conscience." —Peter Mayhew, Star Wars Insider 79, p. 38" Source: *Star Wars Insider #79* (2005), scan p.38
-![Quote image: *Star Wars Insider #79* (2005), scan p.38 — full quote as printed](quotes/ins079-s38-like-me-chewie-is-very-tolerant.jpg)
 Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:245`
 
 - Note (summary from our notes, not a quotation): Page contents: Best of Hyperspace: Webcam (pickup shoots at Shepperton Studios) and Photoreceptor archive photos (Fisher and Hamill's chasm swing; Chewbacca in Cloud City; Gary Kurtz and a cut Jedi test; Vader's single viewport set; Bob Anderson dueling Hamill; Owen Lars and the Jawas; Fisher on the sail barge), edited by Paul Ens, content by Pablo Hidalgo and Bonnie Burton; crossword answers. (hand-read)
@@ -1775,7 +1668,6 @@ Our notes: `notes/materials/038-star-wars-insider/079-ins079.md:654`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #80 (2005); Chewbacca — entry/section: Kashyyyk shoot.
 Note (our notes, around the quote): Chewbacca — entry/section: Kashyyyk shoot: ""we shot in Thailand for the aerial views, then we shot in China for all the backgrounds—and they look absolutely fantastic. I think audiences will be very happy with the work we're putting into bringing Kashyyyk alive. It's a great little sequence," —Rick McCallum, Star Wars Insider 80, p. 13" Source: *Star Wars Insider #80* (2005), scan p.13
-![Quote image: *Star Wars Insider #80* (2005), scan p.13 — full quote as printed](quotes/ins080-s13-we-shot-in-thailand-for-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:84`
 
 ## Star Wars Insider #81 (2005)
@@ -1803,7 +1695,6 @@ Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:103`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #82 (2005); Darth Vader (Anakin Skywalker); Chewbacca — entry/section.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Chewbacca — entry/section: "Everyone remembers the villain": "Dave Prowse was initially offered his choice of two roles, Chewbacca or Darth Vader. He immediately chose the Dark Lord. "In my experience, everyone remembers the villain," he said. —David Prowse, Star Wars Insider 82, p. 37" Source: *Star Wars Insider #82* (2005), scan p.37
-![Quote image: *Star Wars Insider #82* (2005), scan p.37 — full quote as printed](quotes/ins082-s37-dave-prowse-was-initially-offered-his.jpg)
 Our notes: `notes/materials/038-star-wars-insider/082-ins082.md:246`
 
 - Note (summary from our notes, not a quotation): Page contents: StarWarsShop.com: Episode III poster T-shirt, life-size General Grievous standee, Star Wars Racing Jeff Gordon T-shirt, Elliott Sadler M&M's hat, LEGO keychain set (Vader, Chewbacca, R2-D2), Episode III blaster assortment. (hand-read)
@@ -1832,7 +1723,6 @@ Our notes: `notes/materials/038-star-wars-insider/084-ins084.md:560`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #89 (2006); Chewbacca; Han Solo — entry/section: What annoys Chewie about Han.
 Note (our notes, around the quote): Chewbacca; Han Solo — entry/section: What annoys Chewie about Han: "He's never up for a haunch of nerf...mmm, good eating.... He got a medal and I didn't. He got to shoot Greedo, and I didn't. He keeps changing outfits. Who are we fighting, the fashion police? —Peter Mayhew, Star Wars Insider 89, p. 12" Source: *Star Wars Insider #89* (2006), scan p.12
-![Quote image: *Star Wars Insider #89* (2006), scan p.12 — full quote as printed](quotes/ins089-s12-hes-never-up-for-a-haunch.jpg)
 Our notes: `notes/materials/038-star-wars-insider/089-ins089.md:67`
 
 ## Star Wars Insider #90 (2006)
@@ -1848,7 +1738,6 @@ Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:199`
 > This is what would have been one of these little buildings, but we built it on a separate scale, because this is the model where the camera is inside. Yoda's in there, Chewbacca is in there. It's [used] when Order 66 goes down and the clone troopers try to kill Yoda, just before he escapes Kashyyyk, so all of that that is going on inside this [model].
 — Source: Star Wars Insider #90 (2006); Yoda; Chewbacca — entry/section: Gernand on the Yoda pagoda.
 Note (our notes, around the quote): Yoda; Chewbacca — entry/section: Gernand on the Yoda pagoda: ""This is what would have been one of these little buildings, but we built it on a separate scale, because this is the model where the camera is inside. Yoda's in there, Chewbacca is in there. It's [used] when Order 66 goes down and the clone troopers try to kill Yoda, just before he escapes Kashyyyk, so all of that that is going on inside this [model]." —Brian Gernand, Star Wars Insider 90, p. 35" Source: *Star Wars Insider #90* (2006), scan p.35
-![Quote image: *Star Wars Insider #90* (2006), scan p.35 — full quote as printed](quotes/ins090-s35-this-is-what-would-have-been.jpg)
 Our notes: `notes/materials/038-star-wars-insider/090-ins090.md:201`
 
 - Note (summary from our notes, not a quotation): Page contents: Galactic Gallery cont.: McQuarrie painting of Colin Cantwell's conceptual Y-wing with bubble-dome turret; Iain McCaig Mustafar lava monster; early storyboard of prototype Leia and Chewbacca; Ryan Church octuptarra precursor; Joe Johnston wampa explorations (hand-read)
@@ -1898,7 +1787,6 @@ Our notes: `notes/materials/038-star-wars-insider/092-ins092.md:204`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #92 (2007); Chewbacca — entry/section: Wookiees too savvy for Endor.
 Note (our notes, around the quote): Chewbacca — entry/section: Wookiees too savvy for Endor: ""I had established the Wookiees, by then, as technologically savvy," Lucas says, "so I had to invent another species to bring down the Empire." —George Lucas, Star Wars Insider 92, p. 37" Source: *Star Wars Insider #92* (2007), scan p.37
-![Quote image: *Star Wars Insider #92* (2007), scan p.37 — full quote as printed](quotes/ins092-s37-i-had-established-the-wookiees-by.jpg)
 Our notes: `notes/materials/038-star-wars-insider/092-ins092.md:292`
 
 - Note (summary from our notes, not a quotation): Page contents: Unknown Origins: The Star Wars: From the Adventures of Luke Starkiller, Third Draft (August 1975): Luke as son of Annikin Starkiller; Luke floating prisoner of the Tusken Raiders (reused for Obi-Wan on Geonosis); Luke's dreams of Leia; Chewbacca carries Leia (hand-read)
@@ -1983,19 +1871,16 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:335`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007); Chewbacca — entry/section: Big hairy creature: ""She said.
 Note (our notes, around the quote): Chewbacca — entry/section: Big hairy creature: ""She said, "Well, it's a big hairy creature, and we want someone as big as we possibly can get." I said that was fine, what did I have to do?" —Peter Mayhew, Star Wars Insider 94, p. 35" Source: *Star Wars Insider #94* (2007), scan p.35
-![Quote image: *Star Wars Insider #94* (2007), scan p.35 — full quote as printed](quotes/ins094-s35-she-said-well-its-a-big.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:337`
 
 > Then George came into the office and at the time I'd been sitting down on a chair, so I stood up and his eyes almost popped out of his head.
 — Source: Star Wars Insider #94 (2007); Chewbacca — entry/section: Stood up.
 Note (our notes, around the quote): Chewbacca — entry/section: Stood up: ""Then George came into the office and at the time I'd been sitting down on a chair, so I stood up and his eyes almost popped out of his head." —Peter Mayhew, Star Wars Insider 94, p. 35" Source: *Star Wars Insider #94* (2007), scan p.35
-![Quote image: *Star Wars Insider #94* (2007), scan p.35 — full quote as printed](quotes/ins094-s35-then-george-came-into-the-office.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:339`
 
 > It was the scene on Docking Bay 94 with Jabba and Han Solo, where they consult each other. That was my first day's shooting, and it will stay in my mind forever and ever, because I was a new boy, a new costume and everything was still strange.
 — Source: Star Wars Insider #94 (2007); Jabba the Hutt; Han Solo; Chewbacca — entry/section: First day.
 Note (our notes, around the quote): Jabba the Hutt; Han Solo; Chewbacca — entry/section: First day: ""It was the scene on Docking Bay 94 with Jabba and Han Solo, where they consult each other. That was my first day's shooting, and it will stay in my mind forever and ever, because I was a new boy, a new costume and everything was still strange." —Peter Mayhew, Star Wars Insider 94, p. 35" Source: *Star Wars Insider #94* (2007), scan p.35
-![Quote image: *Star Wars Insider #94* (2007), scan p.35 — full quote as printed](quotes/ins094-s35-it-was-the-scene-on-docking.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:343`
 
 - Note (summary from our notes, not a quotation): Page contents: Ford & Mayhew cont.: boxes on improvisation, technical dialogue, acting behind a mask, being an action figure, Han vs. Indiana Jones, pre-release jitters, Han's similarity to John Wayne, Mayhew on Ford, Ford on George Lucas; photos Han and Chewbacca posed, Falcon hold chess scene, group on Yavin (hand-read)
@@ -2006,13 +1891,11 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:348`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #94 (2007); Chewbacca; Obi-Wan Kenobi; Han Solo — entry/section: Cantina.
 Note (our notes, around the quote): Chewbacca; Obi-Wan Kenobi; Han Solo — entry/section: Cantina: ""Chewie worked from the moment you first see him in the background, talking to Obi-Wan in the Cantina. Kenobi's looking for a ship, Harrison is sitting over in the corner.... bang, bang, bang.... the whole scene just worked." —Peter Mayhew, Star Wars Insider 94, p. 36" Source: *Star Wars Insider #94* (2007), scan p.36
-![Quote image: *Star Wars Insider #94* (2007), scan p.36 — full quote as printed](quotes/ins094-s36-chewie-worked-from-the-moment-you.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:350`
 
 > You don't do three movies playing closest buddies without some of it rubbing off a little bit.
 — Source: Star Wars Insider #94 (2007); Han Solo; Chewbacca — entry/section: Closest buddies.
 Note (our notes, around the quote): Han Solo; Chewbacca — entry/section: Closest buddies: ""You don't do three movies playing closest buddies without some of it rubbing off a little bit." —Peter Mayhew, Star Wars Insider 94, p. 36" Source: *Star Wars Insider #94* (2007), scan p.36
-![Quote image: *Star Wars Insider #94* (2007), scan p.36 — full quote as printed](quotes/ins094-s36-you-dont-do-three-movies-playing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:354`
 
 - Note (summary from our notes, not a quotation): Page contents: Ford & Mayhew concl. (Ford on the success of Star Wars, Mayhew on the public reaction, Ford on the legacy, George Lucas on Harrison Ford; photo Chewbacca makeup with Stuart Freeborn) and "Declan Mulholland: Jabba the Hutt" (human stand-in, died 1999; boxes on his Star Wars experience, his co-star, his director); stills of the cut Docking Bay 94 scene (hand-read)
@@ -2022,7 +1905,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:361`
 > When Lucas offered me the role in Star Wars, it was for the part of Chewbacca.
 — Source: Star Wars Insider #94 (2007); Darth Vader (Anakin Skywalker); Chewbacca — entry/section: Offered Chewbacca.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Chewbacca — entry/section: Offered Chewbacca: ""When Lucas offered me the role in Star Wars, it was for the part of Chewbacca." —David Prowse, Star Wars Insider 94, p. 51" Source: *Star Wars Insider #94* (2007), scan p.51
-![Quote image: *Star Wars Insider #94* (2007), scan p.51 — full quote as printed](quotes/ins094-s51-when-lucas-offered-me-the-role.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:501`
 
 > The Empire Strikes Fact: A Cornucopia of Essential Star Wars Trivia
@@ -2114,7 +1996,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:567`
 > In A New Hope, both Luke and Leia's families are taken from them and they end up creating a new family with Han, Chewie, and the droids.
 — Source: Star Wars Insider #95 (2007); Han Solo; Chewbacca — entry/section: Theme of family.
 Note (our notes, around the quote): Han Solo; Chewbacca — entry/section: Theme of family: ""The theme of family is a natural for Star Wars," ... "In A New Hope, both Luke and Leia's families are taken from them and they end up creating a new family with Han, Chewie, and the droids." —Mick Harrison, Star Wars Insider 95, p. 55" Source: *Star Wars Insider #95* (2007), scan p.55
-![Quote image: *Star Wars Insider #95* (2007), scan p.55 — full quote as printed](quotes/ins095-s55-the-theme-of-family-is-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:595`
 
 - Note (summary from our notes, not a quotation): Page contents: Scouting the Galaxy cont.: "Revenge or Bust, and Finding an Unknown Fett" (1982 Variety Revenge of the Jedi supplement, alternate-color 12-inch Boba Fett, ILM Chewbacca bust); "Dust, Buster!" (collection dust care); submission addresses box; photos (two 12-inch Boba Fetts, Chewbacca bust, Revenge of the Jedi supplement) (hand-read)
@@ -2124,7 +2005,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:666`
 > The Revenge of the Jedi Variety advertising supplement is very cool - but not very rare. Tens of thousands of them were printed up both for use in the trade-industry newspaper and for marketing and publicity use by Lucasfilm and Twentieth Century Fox. They are a $10 to $20 item. The Chewbacca bust was indeed a Lucasfilm gift - but it was given to every employee as a holiday gift in 2005.
 — Source: Star Wars Insider #95 (2007); Chewbacca — entry/section: Variety supplement.
 Note (our notes, around the quote): Chewbacca — entry/section: Variety supplement: ""The Revenge of the Jedi Variety advertising supplement is very cool - but not very rare. Tens of thousands of them were printed up both for use in the trade-industry newspaper and for marketing and publicity use by Lucasfilm and Twentieth Century Fox. They are a $10 to $20 item. The Chewbacca bust was indeed a Lucasfilm gift - but it was given to every employee as a holiday gift in 2005." —Steve Sansweet, Star Wars Insider 95, p. 62" Source: *Star Wars Insider #95* (2007), scan p.62
-![Quote image: *Star Wars Insider #95* (2007), scan p.62 — full quote as printed](quotes/ins095-s62-the-revenge-of-the-jedi-variety.jpg)
 Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:668`
 
 > In the Great White North — Exploring the weird world of international collectibles: check out the curious Canadian action figure variations!
@@ -2137,7 +2017,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:680`
 > I've also love any chance to write pre-Episode IV adventures of Han and Chewbacca, or anything involving the bounty hunters and droids, characters who aren't necessarily Force-powered. For some reason, I've always been intrigued by the characters who are just trying to survive and make ends meet in the Star Wars galaxy.
 — Source: Star Wars Insider #97 (2007); Han Solo; Chewbacca — entry/section: Survive and make ends meet.
 Note (our notes, around the quote): Han Solo; Chewbacca — entry/section: Survive and make ends meet: ""I've also love any chance to write pre-Episode IV adventures of Han and Chewbacca, or anything involving the bounty hunters and droids, characters who aren't necessarily Force-powered. For some reason, I've always been intrigued by the characters who are just trying to survive and make ends meet in the Star Wars galaxy." —Ryder Windham, Star Wars Insider 97, p. 42" Source: *Star Wars Insider #97* (2007), scan p.42
-![Quote image: *Star Wars Insider #97* (2007), scan p.42 — full quote as printed](quotes/ins097-s42-ive-also-love-any-chance-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:395`
 
 - Note (summary from our notes, not a quotation): Page contents: Bantha Tracks cont.: fan artwork (Leia/Luke/Han montage, Vader & Sidious, Anakin, Chewbacca, X-wing replica, stormtrooper heart, Boba Fett) and a fan costuming-group pull quote — fan names omitted (hand-read)
@@ -2157,7 +2036,6 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:10`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #98 (2008).
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Chewbacca; Leia Organa Solo — entry/section: Flee not flea: ""Han, Chewie, Princess Leia, and I had to flee from Death Star — not "flea". To flee means to escape. A flea is an annoying little bug. Flee and flea are homophones." —Luke Skywalker (workbook dialog bubble), Star Wars Insider 98, p. 9" Source: *Star Wars Insider #98* (2008), scan p.9
-![Quote image: *Star Wars Insider #98* (2008), scan p.9 — full quote as printed](quotes/ins098-s9-han-chewie-princess-leia-and-i.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:78`
 
 > On Chewie's Chance Cubes.... *(hand-read)*
@@ -2177,13 +2055,11 @@ Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:140`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #98 (2008).
 Note (our notes, around the quote): Chewbacca; R2-D2 — entry/section: Wolfman character: ""I saw this 'wolfman' character—I didn't know what a Wookiee was! I thought, "Gee, there's never been anything like this. This looks like my kind of movie!" A few months later, I'm working with R2-D2! It changed my life—an unbelievable education, and my entry into genre films, surrounded by stuff I loved." —Mick Garris, Star Wars Insider 98, p. 26" Source: *Star Wars Insider #98* (2008), scan p.26
-![Quote image: *Star Wars Insider #98* (2008), scan p.26 — full quote as printed](quotes/ins098-s26-i-saw-this-wolfman-character-i.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:242`
 
 > Chewbacca was perhaps the most complicated, because he had a one-piece, pink-knitted Angora suit, with all the hair put on by a wig maker. It was actually a complete wig-making job. I think we made two of them. It was all great fun!
 — Source: Star Wars Insider #98 (2008); Chewbacca — entry/section: Pink Angora suit.
 Note (our notes, around the quote): Chewbacca — entry/section: Pink Angora suit: ""Chewbacca was perhaps the most complicated, because he had a one-piece, pink-knitted Angora suit, with all the hair put on by a wig maker. It was actually a complete wig-making job. I think we made two of them. It was all great fun!" —John Mollo, Star Wars Insider 98, p. 35" Source: *Star Wars Insider #98* (2008), scan p.35
-![Quote image: *Star Wars Insider #98* (2008), scan p.35 — full quote as printed](quotes/ins098-s35-chewbacca-was-perhaps-the-most-complicated.jpg)
 Our notes: `notes/materials/038-star-wars-insider/098-ins098.md:338`
 
 - Note (summary from our notes, not a quotation): Page contents: Set Piece cont.: annotated throne-room still with caption boxes "Art" (medals; Luke's blaster), "Princess Leia", "Jewelry", "Chewbacca", "Han Solo", "The Extras", "The Droids" (hand-read)
@@ -2218,19 +2094,16 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:245`
 > Chewie's basic voice was made up from the sounds of bears. I worked with a lot of animal trainers to get bears to vocalize. Out of those recordings, I extracted bits and pieces that seemed to have an emotional content to them. It was really just editing lots of little sounds, phrasing them together, that made Chewbacca's vocabulary.
 — Source: Star Wars Insider #99 (2008); Chewbacca — entry/section: Chewie's voice from bears.
 Note (our notes, around the quote): Chewbacca — entry/section: Chewie's voice from bears: ""Chewie's basic voice was made up from the sounds of bears. I worked with a lot of animal trainers to get bears to vocalize. Out of those recordings, I extracted bits and pieces that seemed to have an emotional content to them. It was really just editing lots of little sounds, phrasing them together, that made Chewbacca's vocabulary." —Ben Burtt, Star Wars Insider 99, p. 44" Source: *Star Wars Insider #99* (2008), scan p.44
-![Quote image: *Star Wars Insider #99* (2008), scan p.44 — full quote as printed](quotes/ins099-s44-chewies-basic-voice-was-made-up.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:403`
 
 > It's all actually animal sounds, with some dog, lion, and walrus in there, but it's mostly adolescent bears. To those of us who have worked on the Star Wars films for a long time, the characters voices become very familiar because we're always working with them. We can speak R2-D2 and make Wookiee sounds in the editing room to get our ideas across.
 — Source: Star Wars Insider #99 (2008); Chewbacca; R2-D2 — entry/section: Animal sounds.
 Note (our notes, around the quote): Chewbacca; R2-D2 — entry/section: Animal sounds: ""It's all actually animal sounds, with some dog, lion, and walrus in there, but it's mostly adolescent bears. To those of us who have worked on the Star Wars films for a long time, the characters voices become very familiar because we're always working with them. We can speak R2-D2 and make Wookiee sounds in the editing room to get our ideas across." —Ben Burtt, Star Wars Insider 99, p. 44" Source: *Star Wars Insider #99* (2008), scan p.44
-![Quote image: *Star Wars Insider #99* (2008), scan p.44 — full quote as printed](quotes/ins099-s44-its-all-actually-animal-sounds-with.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:405`
 
 > For somebody as well established as Chewie, I have a sound library that goes all the way back to 1977. For Sith, we were able to re-use it, just as we use Anthony Daniels again for C-3PO, as that's how C-3PO should sound. For Chewbacca, all I had to do was open up my Chewbacca library of sounds. We didn't really add much to Chewie for Episode III. There are always things in the sound library that we haven't used yet, and we can make new Chewbacca sounds from components we already have. Nothing new was recorded for him in Episode III, but we used new combinations made from the building blocks of his distinctive sounds.
 — Source: Star Wars Insider #99 (2008); Chewbacca; C-3PO — entry/section: Chewie library for Sith.
 Note (our notes, around the quote): Chewbacca; C-3PO — entry/section: Chewie library for Sith: ""For somebody as well established as Chewie, I have a sound library that goes all the way back to 1977. For Sith, we were able to re-use it, just as we use Anthony Daniels again for C-3PO, as that's how C-3PO should sound. For Chewbacca, all I had to do was open up my Chewbacca library of sounds. We didn't really add much to Chewie for Episode III. There are always things in the sound library that we haven't used yet, and we can make new Chewbacca sounds from components we already have. Nothing new was recorded for him in Episode III, but we used new combinations made from the building blocks of his distinctive sounds." —Ben Burtt, Star Wars Insider 99, p. 44" Source: *Star Wars Insider #99* (2008), scan p.44
-![Quote image: *Star Wars Insider #99* (2008), scan p.44 — full quote as printed](quotes/ins099-s44-for-somebody-as-well-established-as.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:407`
 
 > Chewie was made up from the sounds of bears, with some dog, lion, and walrus in there.
@@ -2360,7 +2233,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:224`
 > He looked at it very carefully and, as he did with Chewbacca, said 'Yes! That's it' and that's how Yoda was born.
 — Source: Star Wars Insider #102 (2008); Yoda — entry/section: Freeborn on Yoda's creation.
 Note (our notes, around the quote): Yoda — entry/section: Freeborn on Yoda's creation: ""He looked at it very carefully and, as he did with Chewbacca, said 'Yes! That's it' and that's how Yoda was born." —Stuart Freeborn, Star Wars Insider 102, p. 24" Source: *Star Wars Insider #102* (2008), scan p.24
-![Quote image: *Star Wars Insider #102* (2008), scan p.24 — full quote as printed](quotes/ins102-s24-he-looked-at-it-very-carefully.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:237`
 
 - Note (summary from our notes, not a quotation): Page contents: Dudman interview pt 1: B&W photo of Stuart Freeborn with Chewbacca mask; claw/feet prop photo; Yoda and bald alien head photos; pull quote; Q&A column; folio 30 INSIDER (hand-read)
@@ -2370,7 +2242,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:309`
 > Chewbacca was fantastic, but the cantina scene with all the creatures that Rick Baker had done in the background and Stuart's in the foreground was wonderful.
 — Source: Star Wars Insider #102 (2008); Chewbacca — entry/section: Dudman on the cantina scene.
 Note (our notes, around the quote): Chewbacca — entry/section: Dudman on the cantina scene: ""Chewbacca was fantastic, but the cantina scene with all the creatures that Rick Baker had done in the background and Stuart's in the foreground was wonderful." —Nick Dudman, Star Wars Insider 102, p. 30" Source: *Star Wars Insider #102* (2008), scan p.30
-![Quote image: *Star Wars Insider #102* (2008), scan p.30 — full quote as printed](quotes/ins102-s30-chewbacca-was-fantastic-but-the-cantina.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:313`
 
 - Note (summary from our notes, not a quotation): Page contents: Dudman interview pt 2: wampa head photo; B&W photo of Freeborn at work on a Chewbacca head; Gamorrean-type green mask photo; pull quote; Q&A columns; vertical ghosted "Master and Apprentice" graphic (hand-read)
@@ -2641,7 +2512,6 @@ Our notes: `notes/materials/038-star-wars-insider/125-ins125.md:225`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #125 (2011); Chewbacca; Darth Vader (Anakin Skywalker) — entry/section: Peter Mayhew interview.
 Note (our notes, around the quote): Chewbacca; Darth Vader (Anakin Skywalker) — entry/section: Peter Mayhew interview: ""I think he's a big teddy bear and someone that could look after you if things started to go wrong. He's extremely loyal to certain people and yet he's quite capable of pulling his enemies' arms off and destroying stuff in a rage... A lot of fans love him because he's so good in a fight! I don't even think Darth Vader would have messed with him." —Peter Mayhew, Star Wars Insider 125, p. 40" Source: *Star Wars Insider #125* (2011), scan p.40
-![Quote image: *Star Wars Insider #125* (2011), scan p.40 — full quote as printed](quotes/ins125-s40-i-think-hes-a-big-teddy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/125-ins125.md:227`
 
 - Note (summary from our notes, not a quotation): Page contents: Ad: Star Wars: The Clone Wars comic (Chewbacca season finale issue). (hand-read)
@@ -4581,14 +4451,13 @@ Our notes: `notes/materials/148-essential-guide-to-vehicles-vessels-1996/egvv-st
 > Later the Tarkin was destroyed by an elite team of Rebels that included Luke Skywalker, Leia Organa, Chewbacca, C-3PO, and R2-D2.
 — Source: scan pages 201–240; Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo; Chewbacca.
 Note (our notes, around the quote): Grand Moff Tarkin; Luke Skywalker; Leia Organa Solo; Chewbacca: "Later the Tarkin was destroyed by an elite team of Rebels that included Luke Skywalker, Leia Organa, Chewbacca, C-3PO, and R2-D2." Source: The Complete Star Wars Encyclopedia, Vol. III, p.220
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.220 — full quote as printed](quotes/v3-p220-later-the-tarkin-was-destroyed-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:237`
 
 ## Jedi Counselling/Jedi Counseling 63.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): A: It's a draw until one side fulfills its victory conditions. The Rebels are no longer capable of winning, but the Imperials haven't yet fulfilled their victory conditions. The only remaining victory condition would be to defeat both Han and Chewbacca; they can no longer inspect the droids. The scenario can end in a draw if they don't fulfill that condition before the Rebels exit the map." Source: *Jedi Counseling 63* (SWRPG d20 Revised Core), scan p.3
   — Source: Jedi Counselling/Jedi Counseling 63.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 63* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d231-s3-q-in-the-race-to-docking.jpg)
+![Quote image: *Jedi Counseling 63* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](../notes/materials/037-sw-d20-folder/quotes/d231-s3-q-in-the-race-to-docking.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/231-jedi-counseling-63.md:32`
 
 ## Star Wars Insider #23 (1994)

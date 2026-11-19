@@ -15,7 +15,7 @@
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Arca Jeth. POV: Arca Jeth, about Queen Amanoa.
 Note (our notes, around the quote): Arca Jeth: "IT IS AS I FEARED--FREEDON NADD AND QUEEN AMANOA ARE DEAD...BUT THEIR SITH MAGIC IS VERY MUCH ALIVE!" Source: Freedon Nadd Uprising #1, p11
-![Freedon Nadd Uprising #1 p11: Arca: "Freedon Nadd and Queen Amanoa are dead... but their Sith magic is very much alive!"](panels/fnu1-p11-arca-nadd-magic-alive.jpg)
+![Freedon Nadd Uprising #1 p11: Arca: "Freedon Nadd and Queen Amanoa are dead... but their Sith magic is very much alive!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p11-arca-nadd-magic-alive.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:79`
 
 - Note (summary from our notes, not a quotation): | 66–76 | The Sith | Bios + stat blocks: Queen Amanoa, Freedon Nadd, King Ommin, Novar, Warb Null; Sith fiction |
@@ -28,20 +28,20 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Beast Wars summary: "Arca disrupts the darkness, breaking its hold on Queen Amanoa, who dies as a result." Source: Tales of the Jedi Companion (WEG, 1996), p.11
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](quotes/companion-p11-arca-disrupts-the-darkness-breaking-its.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p11-arca-disrupts-the-darkness-breaking-its.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:50`
 
 > At the same time, Ommin decided his queen was ready to join him, to share in the power that he had cultivated over a lifetime. The queen tread slowly into the darkness, but once she passed beyond the point where light could no longer reach, she opened herself completely to the dark side. Ommin and the spirit of Freedon Nadd instructed her in the Force and in Sith techniques, and she gradually grew in power, eventually becoming a formidable sorceress in her own right. Soon after, however, Ommin began to suffer from a strange ifIness that seemed to consume the very marrow --e%.J'f we we~e. e:XPfU.-nN(, a &Hl'£A.,- ..;ep/ 11fA6,~-Nb'r tJlrt.M'V"l'"Cl'tE-t7 'IOV1"I-f• .J AMANOA The darkness did not come easily to Amanoa, but when she finally embraced it, there was no lettinggo. Freedon Nadd brought the teachings of the Sith to Onderon 350 years before the birth of Queen Amanoa, spreading the wicked ways of the dark side to his followers.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Narrative bio. POV: Narrative bio, about Queen Amanoa.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Narrative bio: "Ommin and the spirit of Freedon Nadd instructed her in the Force and in Sith techniques, and she gradually grew in power, eventually becoming a formidable sorceress in her own right." Source: Tales of the Jedi Companion (WEG, 1996), p.68
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.68 — full quote as printed](quotes/companion-p68-ommin-and-the-spirit-of-freedon.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.68 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p68-ommin-and-the-spirit-of-freedon.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:233`
 
 > She calls upon the dark side to sap the will from her enemies. Suddenly, the tide of the battle changes, and the beast-riders' onslaught falters.
 — Source: Owner Material 024d — Tales of the Jedi Companion (West End Games, 1996): power-scaling notes; Beast Wars summary. POV: Beast Wars summary.
 Note (our notes, around the quote): Beast Wars summary: "She calls upon the dark side to sap the will from her enemies. Suddenly, the tide of the battle changes, and the beast-riders' onslaught falters." Source: Tales of the Jedi Companion (WEG, 1996), p.11
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](quotes/companion-p11-she-calls-upon-the-dark-side.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.11 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p11-she-calls-upon-the-dark-side.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:235`
 
 - Note (summary from our notes, not a quotation): RPG MECHANICS: Queen Amanoa, Sith Adept. Force skills Control 5D+1, Sense 4D, Alter 4D+2. Powers include bolt of hatred, aura of uneasiness, feed on dark side, waves of darkness, dim other's senses, rage. Scholar: Sith lore 9D+2. Equipment: Sith tomes, Sith amulet of concentration (2D). Force Points 2, Dark Side Points 10, Character Points 24. Source: Tales of the Jedi Companion (WEG, 1996), p.68
@@ -59,7 +59,6 @@ Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md
 > [fragment — full passage not on file]
 — Source: Part One: Tales of the Ancient Republic; Queen Amanoa; Cay Qel-Droma — Amanoa outclasses the Jedi.
 Note (our notes, around the quote): Queen Amanoa; Cay Qel-Droma — Amanoa outclasses the Jedi: "in her outrage she called upon the dark side to destroy Oron Kira's people. The Jedi fought back, but they were outclassed—in the struggle Cay Qel-Droma lost his arm" Source: The New Essential Chronology, p.14
-![Quote image: The New Essential Chronology, p.14 — full quote as printed](quotes/nec-p14-amanoa-outclasses-the-jedi.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:92`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -67,7 +66,6 @@ Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-rep
 > Some 4,000 years before the Galactic Civil War, after the evil Queen Amanoa oflziz was defeated by the Jedi, the inhabitants of Onderon built a Mandalorian iron tomb on Dxun to house the remains of their queen and of the Dark Jedi Freedon Nadd.
 — Source: scan pages 201–240; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd: "Some 4,000 years before the Galactic Civil War, after the evil Queen Amanoa oflziz was defeated by the Jedi, the inhabitants of Onderon built a Mandalorian iron tomb on Dxun to house the remains of their queen and of the Dark Jedi Freedon Nadd." Source: The Complete Star Wars Encyclopedia, Vol. I, p.220
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.220 — full quote as printed](quotes/v1-p220-some-4-000-years-before-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:280`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -75,19 +73,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > Master Jeth later assisted them there when Queen Amanoa was revealed to have been one of the most powerful Naddists on the planet.
 — Source: scan pages 161–200; Queen Amanoa. POV: Queen Amanoa.
 Note (our notes, around the quote): Queen Amanoa: "Master Jeth later assisted them there when Queen Amanoa was revealed to have been one of the most powerful Naddists on the planet." Source: The Complete Star Wars Encyclopedia, Vol. II, p.159
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.159 — full quote as printed](quotes/v2-p159-master-jeth-later-assisted-them-there.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:44`
 
 > After defeating Amanoa's bid for power, Master Jeth concealed Freedon Nadd's Sith lore in a tomb on the Dxun moon.
 — Source: scan pages 161–200; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd: "After defeating Amanoa's bid for power, Master Jeth concealed Freedon Nadd's Sith lore in a tomb on the Dxun moon." Source: The Complete Star Wars Encyclopedia, Vol. II, p.159
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.159 — full quote as printed](quotes/v2-p159-after-defeating-amanoas-bid-for-power.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:46`
 
 > Nebo and his father, fellow zealot Rask, then attempted to protect the sarcophagi of King Ommin, Queen Amanoa, and Freedon Nadd from Kun, who killed them both.
 — Source: scan pages 361–400; King Ommin; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): King Ommin; Queen Amanoa; Freedon Nadd: "Nebo and his father, fellow zealot Rask, then attempted to protect the sarcophagi of King Ommin, Queen Amanoa, and Freedon Nadd from Kun, who killed them both." Source: The Complete Star Wars Encyclopedia, Vol. II, p.365
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.365 — full quote as printed](quotes/v2-p365-nebo-and-his-father-fellow-zealot.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:92`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -95,25 +90,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > He initially sent his three apprentices to keep peace in the system, but Queen Amanoa soon overpowered them.
 — Source: Chapter One: History of the Jedi; Queen Amanoa. POV: Queen Amanoa.
 Note (our notes, around the quote): Queen Amanoa: "He initially sent his three apprentices to keep peace in the system, but Queen Amanoa soon overpowered them." Source: Power of the Jedi Sourcebook, p.6
-![Quote image: Power of the Jedi Sourcebook, p.6 — full quote as printed](quotes/potj-p6-he-initially-sent-his-three-apprentices.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:17`
 
 > Master Arca traveled to Onderon to defeat Queen Amanoa personally, but he could not end Freedon Nadd's powerful influence.
 — Source: Chapter One: History of the Jedi; Arca Jeth; Queen Amanoa; Freedon Nadd.
 Note (our notes, around the quote): Arca Jeth; Queen Amanoa; Freedon Nadd: "Master Arca traveled to Onderon to defeat Queen Amanoa personally, but he could not end Freedon Nadd's powerful influence." Source: Power of the Jedi Sourcebook, p.6
-![Quote image: Power of the Jedi Sourcebook, p.6 — full quote as printed](quotes/potj-p6-master-arca-traveled-to-onderon-to.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:19`
 
 > For two years following Amanoa's defeat, a shadow sat over Onderon.
 — Source: Chapter One: History of the Jedi; Queen Amanoa. POV: Queen Amanoa.
 Note (our notes, around the quote): Queen Amanoa: "For two years following Amanoa's defeat, a shadow sat over Onderon." Source: Power of the Jedi Sourcebook, p.6
-![Quote image: Power of the Jedi Sourcebook, p.6 — full quote as printed](quotes/potj-p6-for-two-years-following-amanoas-defeat.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/01-ch1-history.md:21`
 
 > The assembled beast armies could not withstand Queen Amanoa's technologically advanced forces, and their defeat was inevitable.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Queen Amanoa. POV: Queen Amanoa.
 Note (our notes, around the quote): Queen Amanoa: "The assembled beast armies could not withstand Queen Amanoa's technologically advanced forces, and their defeat was inevitable." Source: Power of the Jedi Sourcebook, p.103
-![Quote image: Power of the Jedi Sourcebook, p.103 — full quote as printed](quotes/potj-p103-the-assembled-beast-armies-could-not.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:61`
 
 - Note (summary from our notes, not a quotation): Page contents: 893 words, 159 paragraphs | headings/entries: Ae; Ne sey aS / ar; Index; Abhean 132; Abraxin 79; Ackbar, Admiral 130; Adega system 135; Adegan crystals 104, 107, 155; Advozse 112, 113; Afarathu 108; AgriCorps worker 86; Alderaan 10, 64, 110; Aleema 107; Almania 83, 127; Amanoa, Queen 7, 100, 103, 104, 105; Ambria 101, 104, 105, 106, 145-147; Anselmi 71; Arkanian 64, 73, 100; Ashla, the 6; Asmeru 113, 114, 118; Assant, Darsha 121; Auril sector 135; Baltimn 150, 151; Bane, Darth 9; Battle Influence 12; Battle Meditation 15; Beast Language 15; Belasco 116; Bespin 128; Billaba, Depa 114; Black Sun 121; Bnar, Ood 136; Bondara, Anoon 121, 122, 124; Bouri, Omo 118; Brotherhood of Darkness 9, 141, 153; Caamasi 64, 110; Callista 9, 130; Carida 131; Cathar 65; Celegian 66, 98; Cerean 119; Chalactan 114; Chatos Academy 6; Chewbacca 11; Cho Leem, Thracia 123; Chu'unthor 132-135; Cilghal 11, 130; Cinnagar 8, 98, 103; Core Worlds 6, 7, 9, 70, 130
@@ -131,7 +122,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:40`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Queen Amanoa; Freedon Nadd; Arca Jeth: "After a fierce battle, the Jedi confronted Amanoa, who called upon the spirit of Freedon Nadd for aid-only to be defeated by the light side power of the Jedi Master Arca Jeth." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-after-a-fierce-battle-the-jedi.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:47`
 
 > Ommin looked forward to the day when they could indoctrinate their daughter Galia into the ways of the Sith as well. But before Ommin could realize his dream, Jedi Knights came to Onderon to settle a dispute between the Onderonians and the barbaric beastriding warriors who lived in Onderon's wilderness. Investigating, the Jedi learned that the beast-riders were fighting for their survival against the tyranny of Queen Amanoa, and aided them against her. After a fierce battle, the Jedi confronted Amanoa, who called upon the spirit of Freedon Nadd for aid-only to be defeated by the light side power of the Jedi Master Arca Jeth. Nadd's spirit was driven off, and Amanoa was killed. King Ommin joined her in death only a short time later, after his loyalists attempted to steal the sarcophagi of Amanoa and Freedon Nadd and to depose Galia and her husband, Oron Kira. Though Ommin overcame Master Area with his dark side power, he himself was beaten when the Jedi Ulic Qel-Droma severed the connection to his support exoskeleton, leaving King Ommin barely able to speak or move, let alone draw upon the power of the dark side. Freedon Nadd claimed King Ommin's corrupted spirit and departed, only to return some time later to corrupt the Jedi Knight Exar Kun.
@@ -139,7 +129,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:47`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Freedon Nadd; Queen Amanoa: "Nadd's spirit was driven off, and Amanoa was killed." Source: Dark Side Sourcebook, p.74
-![Quote image: Dark Side Sourcebook, p.74 — full quote as printed](quotes/dss-p74-nadds-spirit-was-driven-off-and.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:49`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

@@ -14,7 +14,6 @@
 > Many Sith Lords who rose to power after Darth Ruin believed that the loss of the Veeshas Tuwan complex was one of the costliest blows the Sith had ever been dealt since a great portion of their history was destroyed or stolen by the Jedi.
 — Source: scan pages 281–320; Darth Ruin. POV: Darth Ruin.
 Note (our notes, around the quote): Darth Ruin: "Many Sith Lords who rose to power after Darth Ruin believed that the loss of the Veeshas Tuwan complex was one of the costliest blows the Sith had ever been dealt since a great portion of their history was destroyed or stolen by the Jedi." Source: The Complete Star Wars Encyclopedia, Vol. III, p.299
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.299 — full quote as printed](quotes/v3-p299-many-sith-lords-who-rose-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:190`
 
 ## Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Weakened by infighting, the Sith were easily wiped out by the Jedi at the Battle of Ruusan, one thousand years after Darth Ruin founded the order.
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa; Darth Ruin. POV: Darth Ruin.
 Note (our notes, around the quote): Darth Ruin: "Weakened by infighting, the Sith were easily wiped out by the Jedi at the Battle of Ruusan, one thousand years after Darth Ruin founded the order." Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.113
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.113 — full quote as printed](quotes/d723-s113-weakened-by-infighting-the-sith-were.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-061-120.md:280`
 
 ## Star Wars Insider #88 (2006)

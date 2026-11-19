@@ -40,18 +40,18 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:75`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi dark lords of the sith 2 (text copy `research_primary_tales_of_the_jedi_dark_lords_of_the_sith_2_pdf_9d0b261c2f`).)
 (Full sentence/passage taken from the source text on file: `research_primary_tales_of_the_jedi_dark_lords_of_the_sith_2_pdf`.)
 Note (our notes, around the quote): Vodo-Siosk Baas to Exar Kun, after their duel: "HMM...A MIGHTY JEDI...TWO LIGHTSABERS AGAINST MY POOR STICK." "EXAR KUN, YOU ARE THE MOST FORMIDABLE STUDENT I HAVE EVER HAD..." "BUT I SENSE SOMETHING IS MISSING IN YOU." "--AN EMPTY PLACE HIDDEN EVEN FROM YOURSELF--" "--A PLACE THAT REMAINS UNSEEN BECAUSE NO LIGHT ESCAPES FROM THAT REGION OF YOUR HEART." Exar Kun: "ONLY I KNOW MY HEART, MASTER." Source: Dark Lords of the Sith #1, p28
-![Dark Lords of the Sith #1 p28: Vodo-Siosk Baas: "Exar Kun, you are the most formidable student I have ever had"](panels/dlots1-p28-vodo-praises-exar.jpg)
+![Dark Lords of the Sith #1 p28: Vodo-Siosk Baas: "Exar Kun, you are the most formidable student I have ever had"](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p28-vodo-praises-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:87`
 
 - Note (summary from our notes, not a quotation): Spirit's hatred knocks Vodo-Siosk Baas down across the galaxy. Source: Dark Lords of the Sith #3, p14–15
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #3 p15: Freedon Nadd's hatred lashes out across the galaxy and throws Vodo-Siosk Baas to the deck](panels/dlots3-p15-nadd-hatred-vodo.jpg)
+![Dark Lords of the Sith #3 p15: Freedon Nadd's hatred lashes out across the galaxy and throws Vodo-Siosk Baas to the deck](../notes/materials/024-tales-of-the-jedi/panels/dlots3-p15-nadd-hatred-vodo.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:190`; `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:202`
 
 - Note (summary from our notes, not a quotation): Staff vs lightsaber: defeats Exar Kun in a sparring duel, throwing him and beating his two-saber attack. Source: Dark Lords of the Sith #1, p25–28
   — Source: Dark Lords of the Sith #1, p25–28 — Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](panels/dlots1-p27-vodo-beats-exar.jpg)
-![Dark Lords of the Sith #1 p28: Vodo-Siosk Baas: "Exar Kun, you are the most formidable student I have ever had"](024-tales-of-the-jedi/panels/dlots1-p28-vodo-praises-exar.jpg)
+![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p27-vodo-beats-exar.jpg)
+![Dark Lords of the Sith #1 p28: Vodo-Siosk Baas: "Exar Kun, you are the most formidable student I have ever had"](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p28-vodo-praises-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:199`
 
 > ONCE THE CHOICE IS MADE, THE WAY IS THROUGH, NOT BACK.
@@ -69,13 +69,13 @@ Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:206`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:274`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](panels/dlots1-p27-vodo-beats-exar.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p27-vodo-beats-exar.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:295`
 
-- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](panels/dlots1-p27-vodo-beats-exar.jpg)
+- Note (summary from our notes, not a quotation): ![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p27-vodo-beats-exar.jpg)
   — Source: Owner Material 024b — Tales of the Jedi: Dark Lords of the Sith #1–6 (1994–95): power-scaling notes.
-![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](panels/dlots1-p27-vodo-beats-exar.jpg)
+![Dark Lords of the Sith #1 p27: Vodo-Siosk Baas beats Exar](../notes/materials/024-tales-of-the-jedi/panels/dlots1-p27-vodo-beats-exar.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/dark-lords-of-the-sith.md:297`
 
 > AS NOMI SUNRIDER TOUCHES ITS ACTIVATOR, A POWERFUL ENERGY BEAM PULSES FROM THE NEWLY CONSTRUCTED LIGHTSABER.
@@ -90,14 +90,14 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:162`
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Vodo-Siosk Baas about Nomi Sunrider. POV: Vodo-Siosk Baas.
 Note (our notes, around the quote): Vodo-Siosk Baas about Nomi Sunrider: "THE FORCE TELLS ME THAT NOMI SUNRIDER CAN BE A GREAT JEDI... ...IF SHE LISTENS TO THE FORCE." "AND SO THE LITTLE ONE...ALSO A GREAT JEDI." Source: Freedon Nadd Uprising #1, p19
-![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
+![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:175`
 
 > NO, DACE... YOU SEE THE CRYSTALS MUST BE ALIGNED JUST SO...
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Teaches lightsaber construction on Ossus (.
 Note (our notes, around the quote): Teaches lightsaber construction on Ossus ("NO, DACE... YOU SEE THE CRYSTALS MUST BE ALIGNED JUST SO..."). Source: Freedon Nadd Uprising #1, p19
-![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
+![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:187`
 
 > ANDUR SUNRIDER? I KNEW HIM WELL.
@@ -105,20 +105,20 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:187`
 > THEY SAY HE'S WITH THE LIGHT!
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Vodo-Siosk Baas about Andur Sunrider. POV: Vodo-Siosk Baas.
 Note (our notes, around the quote): Vodo-Siosk Baas about Andur Sunrider: "ANDUR SUNRIDER? I KNEW HIM WELL." "THEY SAY HE'S WITH THE LIGHT!" Source: Freedon Nadd Uprising #1, p20
-![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](panels/fnu1-p20-vodo-andur-shoaneb.jpg)
+![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p20-vodo-andur-shoaneb.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:189`
 
 > SHOANEB IS VERY DEXTEROUS... ALTHOUGH SHE ONLY SEES IN THE FORCE.
 > [fragment — full passage not on file]
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Vodo-Siosk Baas about Shoaneb Culu. POV: Vodo-Siosk Baas.
 Note (our notes, around the quote): Vodo-Siosk Baas about Shoaneb Culu: "SHOANEB IS VERY DEXTEROUS... ALTHOUGH SHE ONLY SEES IN THE FORCE." Source: Freedon Nadd Uprising #1, p20
-![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](panels/fnu1-p20-vodo-andur-shoaneb.jpg)
+![Freedon Nadd Uprising #1 p20: Vodo on Shoaneb ("she only sees in the Force") and Andur Sunrider ("I knew him well")](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p20-vodo-andur-shoaneb.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:197`
 
 - Note (summary from our notes, not a quotation): Learning lightsaber construction under Vodo; chosen for the Onderon rescue team. Source: Freedon Nadd Uprising #1, p19, p22
   — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes.
-![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](panels/fnu1-p22-onderon-rescue-team.jpg)
-![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
+![Freedon Nadd Uprising #1 p22: Nomi advances in the Jedi way; five Jedi chosen for the Onderon rescue team; Thon: "Your spirit is rushing toward destiny!"](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p22-onderon-rescue-team.jpg)
+![Freedon Nadd Uprising #1 p19: Vodo-Siosk Baas teaches lightsaber construction on Ossus and says Nomi can be a great Jedi](../notes/materials/024-tales-of-the-jedi/panels/fnu1-p19-vodo-nomi-lightsaber-class.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:205`
 
 > Fighting past a wall of dark force, Ulic manages to destroy Warb Null. Galia and Ulic return to the upper levels of the city to find that the Naddists have taken the palace. The Jedi decide that they cannot fight this darkness alone. They must call on the Jedi Knights and the forces of the Republic. A base of operations is set up in Modon Kira's forest stronghold. On Ossus, the third planet of the Adegan system, Master Thon and his apprenticeNomi Sunrider arrive to an ancient Jedi stronghold that is now a thriving Jedi training center. Thon and Nomi visit Master Vodo-Siosk Baas, the great Jedi who will train Nomi in the art of lightsaber construction. Within a week Nomi has built her lightsaber using the Adegan crystals her husband had intended as gift for Master Thon. She quickly advances in her skills over the ensuing weeks. A Jedi assembly is called and it is announced that volunteers are needed to rescue Master Arca from the forces of the dark side on the planet Onderon. The entire assembly volunteers, but only five are chosen: Dace Diath, Shoaneb Culu, Qrrri Toq, Kith Kark, and Nomi Sunrider.
@@ -126,7 +126,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:205`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary tales of the jedi WEG40082 (text copy `research_primary_tales_of_the_jedi_WEG40082_pdf_afa57d0500`).)
 Note (our notes, around the quote): Nomi saga summary: "Thon and Nomi visit Master Vodo-Siosk Baas, the great Jedi who will train Nomi in the art of lightsaber construction." Source: Tales of the Jedi Companion (WEG, 1996), p.14
-![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](quotes/companion-p14-thon-and-nomi-visit-master-vodo.png)
+![Quote image: Tales of the Jedi Companion (WEG, 1996), p.14 — full quote as printed](../notes/materials/024-tales-of-the-jedi/quotes/companion-p14-thon-and-nomi-visit-master-vodo.png)
 Our notes: `notes/materials/024-tales-of-the-jedi/tales-of-the-jedi-companion.md:277`
 
 - Note (summary from our notes, not a quotation): | #2 | 1–29 | (2 of 6) | Kemplex Nine, Yavin 4, Coruscant | Exar crushes the Sith holocron and possesses his students with Sith spirits. Coruscant assault; Aleema betrays Ulic; Vodo, Nomi and the Jedi block Ulic with a wall of light. |
@@ -146,12 +146,12 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:31`
 
 - Note (summary from our notes, not a quotation): Vodo splits a rock (p4). Aleema's serpent eats dissenters (p5). Ulic's trial (p9–14); Exar orders the masters killed (p10–11). Exar's Sith spell freezes the Senate (p15–16); Sylvar claws through Massassi (p17); Exar stops, puppets and kills the Senate leader (p18–20). Exar kills Vodo (p21–25) and Force-hurls Sylvar (p26).
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](024-tales-of-the-jedi/panels/sw3-p04-vodo-staff-splits-rock.jpg)
-![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](024-tales-of-the-jedi/panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
-![The Sith War #3 p16: Senate frozen by Sith spell](024-tales-of-the-jedi/panels/sw3-p16-senate-frozen.jpg)
-![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](024-tales-of-the-jedi/panels/sw3-p17-sylvar-claws-massassi.jpg)
-![The Sith War #3 p18: Exar Kun stops the Senate leader's staff bare-handed and grips his head](024-tales-of-the-jedi/panels/sw3-p18-exar-grips-senate-leader.jpg)
-![The Sith War #3 p20: Exar Kun: "The Republic is not even worthy of the fight" over the slain Senate leader](024-tales-of-the-jedi/panels/sw3-p20-senate-leader-killed.jpg)
+![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](../notes/materials/024-tales-of-the-jedi/panels/sw3-p04-vodo-staff-splits-rock.jpg)
+![The Sith War #3 p5: Aleema's serpent illusion devours Krath dissenters](../notes/materials/024-tales-of-the-jedi/panels/sw3-p05-aleema-serpent-devours-dissenters.jpg)
+![The Sith War #3 p16: Senate frozen by Sith spell](../notes/materials/024-tales-of-the-jedi/panels/sw3-p16-senate-frozen.jpg)
+![The Sith War #3 p17: Sylvar tears through Massassi warriors in the Senate chamber](../notes/materials/024-tales-of-the-jedi/panels/sw3-p17-sylvar-claws-massassi.jpg)
+![The Sith War #3 p18: Exar Kun stops the Senate leader's staff bare-handed and grips his head](../notes/materials/024-tales-of-the-jedi/panels/sw3-p18-exar-grips-senate-leader.jpg)
+![The Sith War #3 p20: Exar Kun: "The Republic is not even worthy of the fight" over the slain Senate leader](../notes/materials/024-tales-of-the-jedi/panels/sw3-p20-senate-leader-killed.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:34`
 
 - Note (summary from our notes, not a quotation): Kills Vodo-Siosk Baas in a lightsaber-vs-staff rematch: Vodo's staff turns his blade until Exar ignites the second blade of his double-bladed lightsaber, shears the staff and cuts Vodo down. Source: The Sith War #3, p21–25
@@ -201,24 +201,24 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:91`
 
 - Note (summary from our notes, not a quotation): Blocked from the Force by Vodo-Siosk Baas, Nomi Sunrider and the other Jedi with a "TEMPORARY WALL OF LIGHT" in the Coruscant war room. Source: The Sith War #2, p24–25
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
-![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
+![The Sith War #2 p24: "The Jedi Knights are all together now, a more powerful force arrayed against Ulic than all the military defenses of Coruscant"](../notes/materials/024-tales-of-the-jedi/panels/sw2-p24-jedi-confront-ulic-war-room.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:105`; `notes/materials/024-tales-of-the-jedi/the-sith-war.md:180`
 
 - Note (summary from our notes, not a quotation): With Vodo-Siosk Baas, raises Odan-Urr's blocking wall of light on Ulic in the Coruscant war room. Source: The Sith War #2, p25
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
+![The Sith War #2 p25: Vodo and Nomi summon Odan-Urr's blocking technique, a temporary wall of light that blinds Ulic to the Force](../notes/materials/024-tales-of-the-jedi/panels/sw2-p25-wall-of-light-blocks-ulic.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:131`
 
 - Note (summary from our notes, not a quotation): Splits a rock with a blow of his staff. Source: The Sith War #3, p4
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](panels/sw3-p04-vodo-staff-splits-rock.jpg)
+![The Sith War #3 p4: Vodo-Siosk Baas: "I must make things right" -- his staff splits a rock (KERRAKK)](../notes/materials/024-tales-of-the-jedi/panels/sw3-p04-vodo-staff-splits-rock.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:178`
 
 - Note (summary from our notes, not a quotation): Blocks Exar Kun's lightsaber repeatedly with his wooden staff, until Exar's double-bladed saber shears the staff and kills him. Source: The Sith War #3, p22–25
   — Source: The Sith War #3, p22–25 — Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p24: Exar double-bladed saber vs Vodo](panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
-![The Sith War #3 p25: Exar kills Vodo](panels/sw3-p25-exar-kills-vodo.jpg)
+![The Sith War #3 p24: Exar double-bladed saber vs Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
+![The Sith War #3 p25: Exar kills Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p25-exar-kills-vodo.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:185`
 
 - Note (summary from our notes, not a quotation): | 3 | Jedi (Vodo, Nomi, others) vs Ulic | Coruscant war room | p24–25 (#2) | Ulic blocked from the Force, arrested | Many vs one |
@@ -231,22 +231,22 @@ Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:271`
 Context: | # | Fight | Where | Pages (issue) | Outcome | Conditions |
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:273`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #3 p24: Exar double-bladed saber vs Vodo](panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #3 p24: Exar double-bladed saber vs Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:303`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #3 p24: Exar double-bladed saber vs Vodo](panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #3 p24: Exar double-bladed saber vs Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p24: Exar double-bladed saber vs Vodo](panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
+![The Sith War #3 p24: Exar double-bladed saber vs Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p24-exar-double-blade-vs-vodo.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:305`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #3 p25: Exar kills Vodo](panels/sw3-p25-exar-kills-vodo.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #3 p25: Exar kills Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p25-exar-kills-vodo.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:307`
 
-- Note (summary from our notes, not a quotation): ![The Sith War #3 p25: Exar kills Vodo](panels/sw3-p25-exar-kills-vodo.jpg)
+- Note (summary from our notes, not a quotation): ![The Sith War #3 p25: Exar kills Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p25-exar-kills-vodo.jpg)
   — Source: Owner Material 024c — Tales of the Jedi: The Sith War #1–6 (1995–96): power-scaling notes.
-![The Sith War #3 p25: Exar kills Vodo](panels/sw3-p25-exar-kills-vodo.jpg)
+![The Sith War #3 p25: Exar kills Vodo](../notes/materials/024-tales-of-the-jedi/panels/sw3-p25-exar-kills-vodo.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/the-sith-war.md:309`
 
 - Note (summary from our notes, not a quotation): Vodo claims Exar once beat him "IN A LIGHTSABER BATTLE" (Sith War #3 p4), which contradicts the on-page DLotS #1 result (Vodo won). (ANALYSIS) Treat as Vodo's framing; Exar himself says Vodo "BESTED ME" (Sith War #3 p22).
@@ -291,19 +291,16 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/dark-apprentice.md:82`
 > Kun easily defeated Crado in a lightsaber duel, then fought against Sylvar; as tensions escalated, she slashed him across the face with her claws. Master Vodo stepped in, and Kun met the challenge, defeating his own teacher.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Crado; Sylvar; Vodo-Siosk Baas — Exar Kun defeats Crado, Sylvar and Master Vodo: "Kun easily defeated Crado in a lightsaber duel, then fought against Sylvar; as tensions escalated, she slashed him across the face with her claws. Master Vodo stepped in, and Kun met the challenge, defeating his own teacher." Source: The New Essential Chronology, p.15
-![Quote image: The New Essential Chronology, p.15 — full quote as printed](quotes/nec-p15-exar-kun-defeats-crado-sylvar-and.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:107`
 
 > Exar Kun, now armed with a double-bladed lightsaber and the tricks of Sith magic, struck down and killed Master Vodo.
 — Source: Part One: Tales of the Ancient Republic.
 Note (our notes, around the quote): Exar Kun; Vodo-Siosk Baas — Kun kills Vodo in the Senate: "Exar Kun, now armed with a double-bladed lightsaber and the tricks of Sith magic, struck down and killed Master Vodo." Source: The New Essential Chronology, p.19
-![Quote image: The New Essential Chronology, p.19 — full quote as printed](quotes/nec-p19-kun-kills-vodo-in-the-senate.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/01-part-one-ancient-republic.md:147`
 
 > In a final battle, fighting alongside the spirit-forms of Luke Skywalker and even the long-dead Jedi Master Vodo Siosk-Baas, the students vanquished Exar Kun for all time.
 — Source: Part Eight: The Return of the Jedi Knights; Exar Kun; Luke Skywalker — Exar Kun vanquished. POV: speaker not named in our notes.
 Note (our notes, around the quote): Exar Kun; Luke Skywalker — Exar Kun vanquished: "In a final battle, fighting alongside the spirit-forms of Luke Skywalker and even the long-dead Jedi Master Vodo Siosk-Baas, the students vanquished Exar Kun for all time." Source: The New Essential Chronology, p.165
-![Quote image: The New Essential Chronology, p.165 — full quote as printed](quotes/nec-p165-exar-kun-vanquished.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:52`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -312,7 +309,6 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 — Source: Chapter V: Instructors and Alumni; Exar Kun; Vodo-Siosk Baas — Vodo-Siosk Baas — Kun's swordsmanship.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Vodo-Siosk Baas — Vodo-Siosk Baas — Kun's swordsmanship: "His strongest apprentice, however, is a young pupil named Exar Kun. Kun's skill with a lightsaber is so great that he claimed victory over his master many times when they sparred together." Source: Jedi Academy Training Manual, p.111
-![Quote image: Jedi Academy Training Manual, p.111 — full quote as printed](quotes/jatm-p111-vodo-siosk-baas-kuns-swordsmanship.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:101`
 
 > Languages: Basic, Dromnyr.
@@ -328,7 +324,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Freedon Nadd — Vodo-Siosk Baas — Nadd breaks Kun: "Kun ventures to Dxun and enters the tomb of Freedon Nadd. The dark spirit of Freedon Nadd directs Exar Kun to travel to Korriban, where Nadd attacks Kun and shatters every bone in his body." Source: Jedi Academy Training Manual, p.111
-![Quote image: Jedi Academy Training Manual, p.111 — full quote as printed](quotes/jatm-p111-vodo-siosk-baas-nadd-breaks-kun.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:103`
 
 > At that point, ey Baas feels Kun's pain through the Force and stretches J out to aid him, but he is also attacked by Nadd and prevented from assisting his apprentice.
@@ -340,7 +335,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Exar Kun; Vodo-Siosk Baas — Vodo-Siosk Baas — killed by Kun: "Exar Kun interrupts the proceedings and challenges Baas in combat—a duel that costs Master Baas his life." Source: Jedi Academy Training Manual, p.111
-![Quote image: Jedi Academy Training Manual, p.111 — full quote as printed](quotes/jatm-p111-vodo-siosk-baas-killed-by-kun.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-and-alumni.md:105`
 
 ## The Jedi Academy Sourcebook (WEG, 1996): power-scaling and lore notes
@@ -359,7 +353,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/05-ch5-instructors-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy sourcebook jas clean (text copy `research_primary_jedi_academy_sourcebook_jas_clean_txt_04b8ab0d44`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_sourcebook_jas_clean_txt`.)
 Note (our notes, around the quote): Exar Kun; Kirana Ti; Streen; Vodo-Siosk Baas; Luke Skywalker — The Return of Exar Kun — the final blow: "Kirana Ti and Streen jointly deliver the final blow, using the lightsabers of Luke and Gantoris to destroy Exar" Source: The Jedi Academy Sourcebook, p.49
-![Quote image: The Jedi Academy Sourcebook, p.49 — full quote as printed](quotes/jas-p49-the-return-of-exar-kun-the.jpg)
 Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sith.md:42`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -367,7 +360,6 @@ Our notes: `notes/materials/029-jedi-academy-sourcebook/04-ch4-echoes-of-the-sit
 > Later, the spirit of Vodo-Siosk Baas, along with Skywalker and his trainees, destroyed Kun forever.
 — Source: scan pages 41–80; Vodo-Siosk Baas. POV: Vodo-Siosk Baas.
 Note (our notes, around the quote): Vodo-Siosk Baas: "Later, the spirit of Vodo-Siosk Baas, along with Skywalker and his trainees, destroyed Kun forever." Source: The Complete Star Wars Encyclopedia, Vol. I, p.53
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.53 — full quote as printed](quotes/v1-p53-later-the-spirit-of-vodo-siosk.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:219`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -375,25 +367,21 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Four thousand years before the Battle of Yavin, Master Vodo's strongest apprentice was a young Human named Exar Kun.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Vodo-Siosk Baas; Exar Kun.
 Note (our notes, around the quote): Vodo-Siosk Baas; Exar Kun: "Four thousand years before the Battle of Yavin, Master Vodo's strongest apprentice was a young Human named Exar Kun." Source: Power of the Jedi Sourcebook, p.102
-![Quote image: Power of the Jedi Sourcebook, p.102 — full quote as printed](quotes/potj-p102-four-thousand-years-before-the-battle.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:46`
 
 > Kun was a master of lightsaber combat and had even bested Master Vodo's quarterstaff during sparring practice.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Vodo-Siosk Baas. POV: Vodo-Siosk Baas.
 Note (our notes, around the quote): Vodo-Siosk Baas: "Kun was a master of lightsaber combat and had even bested Master Vodo's quarterstaff during sparring practice." Source: Power of the Jedi Sourcebook, p.102
-![Quote image: Power of the Jedi Sourcebook, p.102 — full quote as printed](quotes/potj-p102-kun-was-a-master-of-lightsaber.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:48`
 
 > If Ulic Qel-Droma is destroyed, he will destroy himself.
 — Source: Chapter Six: Jedi traditions and famous Jedi.
 Note (our notes, around the quote): Vodo-Siosk Baas; Ulic Qel-Droma: "The assembly granted the Jedi permission, but Master Vodo warned them again: "If Ulic Qel-Droma is destroyed, he will destroy himself."" Source: Power of the Jedi Sourcebook, p.102
-![Quote image: Power of the Jedi Sourcebook, p.102 — full quote as printed](quotes/potj-p102-the-assembly-granted-the-jedi-permission.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:50`
 
 > The two fought, and Vodo-Siosk Baas was no match for Exar Kun's doublebladed lightsaber and deep reserve of dark side power.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Vodo-Siosk Baas; Exar Kun.
 Note (our notes, around the quote): Vodo-Siosk Baas; Exar Kun: "The two fought, and Vodo-Siosk Baas was no match for Exar Kun's doublebladed lightsaber and deep reserve of dark side power." Source: Power of the Jedi Sourcebook, p.102
-![Quote image: Power of the Jedi Sourcebook, p.102 — full quote as printed](quotes/potj-p102-the-two-fought-and-vodo-siosk.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:52`
 
 ## The New Essential Guide to Characters (2002)
@@ -401,7 +389,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > Kun strode into the heart of Coruscant and slew his former Master Vodo Siosk-Baas on the floor of the Senate chamber.
 — Source: scan pages 91–120; Vodo-Siosk Baas. POV: Vodo-Siosk Baas.
 Note (our notes, around the quote): Vodo-Siosk Baas: "Kun strode into the heart of Coruscant and slew his former Master Vodo Siosk-Baas on the floor of the Senate chamber." Source: The New Essential Guide to Characters, p.108
-![Quote image: The New Essential Guide to Characters, p.108 — full quote as printed](quotes/negc-p108-kun-strode-into-the-heart-of.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:94`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -409,7 +396,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 > A Jedi's training in the Force never ends.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,.
 Note (our notes, around the quote): Vodo-Siosk Baas — entry/section: Understanding the Jedi Code: "Master Vodo said: "A Jedi's training in the Force never ends."" Source: *Star Wars Gamer 01* (SWRPG d20), scan p.34
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.34 — full quote as printed](quotes/d050-s34-master-vodo-said-a-jedis-training.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-001-060.md:187`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -424,7 +410,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Full sentence/passage taken from the source text on file: `research_primary_cse_vol1_pdf`.)
 Note (our notes, around the quote): Exar Kun; Vodo-Siosk Baas — entry/section: Duel in the original Senate Hall: "the original Senate Hall in which Vodo Siosk-Baas and Exar Kun battled to the death" Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.11
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.11 — full quote as printed](quotes/d665-s11-the-original-senate-hall-in-which.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:66`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -433,7 +418,6 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Vodo-Siosk Baas — entry/section: The Teachings of Master Odan-Urr — Training (Revised Core Rulebook, Ch9): "“A Jedi's training in the Force never ends.” —Master Vodo Siask-Baas" Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.179
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.179 — full quote as printed](quotes/d671-s179-a-jedis-training-in-the-force.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-121-180.md:310`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -445,7 +429,6 @@ Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-
 > The Dantari are so few that the New Republic, like the Empire and the Old Republic before it, considers Dantooine an uninhabited world—though Dantooine has been colonized at least twice in the past. Jedi Master Vodo-Siosk Baas settled there four thousand years before the Battle of Yavin, and refugees from the volcanic world of Eol Sha made a new home on Dantooine seven years after Battle of Endor. In between, before the Battle of Yavin, Dantooine served as a base for the Rebel Alliance. The settlers from Eol Sha met an unfortunate end, utterly wiped out by Admiral Daala, the Imperial commander in charge of the Maw Cluster installation near Kessel. Curiously, the arrival of Daala’s forces was an event of unprecedented awe to the primitive Dantari, who began incorporating Imperial symbology into their own belief systems.
 — Source: Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revi; Vodo-Siosk Baas; Admiral Daala — entry/section: Dantari: Dantooine's Colonists.
 Note (our notes, around the quote): Vodo-Siosk Baas; Admiral Daala — entry/section: Dantari: Dantooine's Colonists: "The Dantari are so few that the New Republic, like the Empire and the Old Republic before it, considers Dantooine an uninhabited world—though Dantooine has been colonized at least twice in the past. Jedi Master Vodo-Siosk Baas settled there four thousand years before the Battle of Yavin, and refugees from the volcanic world of Eol Sha made a new home on Dantooine seven years after Battle of Endor. In between, before the Battle of Yavin, Dantooine served as a base for the Rebel Alliance. The settlers from Eol Sha met an unfortunate end, utterly wiped out by Admiral Daala, the Imperial commander in charge of the Maw Cluster installation near Kessel. Curiously, the arrival of Daala’s forces was an event of unprecedented awe to the primitive Dantari, who began incorporating Imperial symbology into their own belief systems." Source: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.43
-![Quote image: *Ultimate Alien Anthology* (SWRPG d20 Revised Core), scan p.43 — full quote as printed](quotes/d673-s43-the-dantari-are-so-few-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/673-ultimate-alien-anthology-scan-001-060.md:236`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -471,7 +454,6 @@ Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-001-0
 > Exar Kun—A Dark Lord of the Sith, As a Jedi, he was appren: ticed to Master Vodo-Siosk Baas, who admitted that Kun was the most formidable student he ever had.
 — Source: Star Wars Insider #26 (1995); Exar Kun; Vodo-Siosk Baas — entry/section: Exar Kun (glossary).
 Note (our notes, around the quote): Exar Kun; Vodo-Siosk Baas — entry/section: Exar Kun (glossary): "Exar Kun—A Dark Lord of the Sith, As a Jedi, he was appren: ticed to Master Vodo-Siosk Baas, who admitted that Kun was the most formidable student he ever had." Source: *Star Wars Insider #26* (1995), scan p.15
-![Quote image: *Star Wars Insider #26* (1995), scan p.15 — full quote as printed](quotes/ins026-s15-exar-kun-a-dark-lord-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/026-ins026.md:89`
 
 ## Star Wars Insider #36 (1998)

@@ -2284,7 +2284,6 @@ Our notes: `notes/materials/023-kotor-and-revan/revan-novel-notes.md:4974`
 > But only twice in the Empire's long history has the Dark Council been completely purged. The first purge occurred in the Empire's infancy, when a coalition of bold Dark Council members attempted to overthrow the Emperor. The second occurred three centuries ago when the Emperor discovered that Darth Nyriss, a senior Dark Council member, plotted the Emperor's assassination. In both cases, all members of the Dark Council were destroyed.
 — Source: The Sith; Vitiate (the Sith Emperor); Darth Nyriss — Purging of the Council.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Darth Nyriss — Purging of the Council: "But only twice in the Empire's long history has the Dark Council been completely purged. The first purge occurred in the Empire's infancy, when a coalition of bold Dark Council members attempted to overthrow the Emperor. The second occurred three centuries ago when the Emperor discovered that Darth Nyriss, a senior Dark Council member, plotted the Emperor's assassination. In both cases, all members of the Dark Council were destroyed." Source: The Old Republic Encyclopedia, p.172
-![Quote image: The Old Republic Encyclopedia, p.172 — full quote as printed](quotes/tore-p172-but-only-twice-in-the-empire.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:349`
 
 ## "SWTOR Scaling - A New Perspective (2024)" (DarthAnt66)

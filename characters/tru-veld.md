@@ -22,19 +22,16 @@ Our notes: `notes/materials/037-sw-d20-folder/150-tru-veld-jedi-padawan.md:10`
 > Tru Veld, a member of the humanoid Teevan race, is a major new character appearing in The Way of the Apprentice, the first novel in the new Jedi Quest series from Scholastic. Tru bears the metallic sheen and silvery almond eyes typical of his species. Like all Teevans, Tru has great flexibility and can maneuver with ease into spaces that would break a Human's bones.
 — Source: Characters/Tru Veld, Jedi Padawan.pdf [Star Wars Roleplaying Game Revised; Tru Veld — entry/section: Tru Veld.
 Note (our notes, around the quote): Tru Veld — entry/section: Tru Veld: "Tru Veld, a member of the humanoid Teevan race, is a major new character appearing in The Way of the Apprentice, the first novel in the new Jedi Quest series from Scholastic. Tru bears the metallic sheen and silvery almond eyes typical of his species. Like all Teevans, Tru has great flexibility and can maneuver with ease into spaces that would break a Human's bones." Source: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d150-s1-tru-veld-a-member-of-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/150-tru-veld-jedi-padawan.md:12`
 
 > Anakin Skywalker and Tru Veld met in a junk heap while being pursued by Manikons, and they became close friends while growing up in and around the Jedi Temple. The pair shared an intense interest in (and prodigious talent for) tech work -- droids, computers, engines, and anything else with wires and circuits.
 — Source: Characters/Tru Veld, Jedi Padawan.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Tru Veld; Darth Vader (Anakin Skywalker) — entry/section: Tru Veld and Anakin: "Anakin Skywalker and Tru Veld met in a junk heap while being pursued by Manikons, and they became close friends while growing up in and around the Jedi Temple. The pair shared an intense interest in (and prodigious talent for) tech work -- droids, computers, engines, and anything else with wires and circuits." Source: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d150-s1-anakin-skywalker-and-tru-veld-met.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/150-tru-veld-jedi-padawan.md:14`
 
 > Tru Veld's master is the enigmatic and soft-spoken Master Ry-Gaul, who has the respect of the entire Jedi Temple.
 — Source: Characters/Tru Veld, Jedi Padawan.pdf [Star Wars Roleplaying Game Revised; Tru Veld; Ry-Gaul — entry/section: Tru Veld's master.
 Note (our notes, around the quote): Tru Veld; Ry-Gaul — entry/section: Tru Veld's master: "Tru Veld's master is the enigmatic and soft-spoken Master Ry-Gaul, who has the respect of the entire Jedi Temple." Source: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Tru Veld, Jedi Padawan* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d150-s1-tru-velds-master-is-the-enigmatic.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/150-tru-veld-jedi-padawan.md:16`
 
 # Debate and forum claims (unverified)

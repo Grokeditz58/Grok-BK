@@ -14,14 +14,14 @@
 > This is MY command!
 > [fragment — full passage not on file]
 — Source: Darth Vader and the Lost Command: daily-image candidates; ![Force choke of Captain Shale.
-Note (our notes, around the quote): ![Force choke of Captain Shale: "This is MY command!"](panels/lc2-p07-choke-shale.jpg)
+Note (our notes, around the quote): ![Force choke of Captain Shale: "This is MY command!"](../notes/materials/042-lost-command/panels/lc2-p07-choke-shale.jpg)
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:28`
 
-- Note (summary from our notes, not a quotation): ![Unmasked Vader vs Shale's storm commandos](panels/lc4-p03-unmasked-saber-commandos.jpg)
+- Note (summary from our notes, not a quotation): ![Unmasked Vader vs Shale's storm commandos](../notes/materials/042-lost-command/panels/lc4-p03-unmasked-saber-commandos.jpg)
   — Source: Darth Vader and the Lost Command: daily-image candidates.
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:49`
 
-- Note (summary from our notes, not a quotation): ![Vader braced in Shale's suicide blast](panels/lc5-p12-suicide-blast.jpg)
+- Note (summary from our notes, not a quotation): ![Vader braced in Shale's suicide blast](../notes/materials/042-lost-command/panels/lc5-p12-suicide-blast.jpg)
   — Source: Darth Vader and the Lost Command: daily-image candidates.
 Our notes: `notes/materials/042-lost-command/daily-image-candidates.md:94`
 

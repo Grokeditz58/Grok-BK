@@ -18,25 +18,21 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > It was Kopecz who turned the opening battle for the Sith when he singlehandedly flew a starfighter into the hangar of a Republic flagship and slew the Jedi Master who was controlling the Republic's battle meditation.
 — Source: scan pages 201–240; Lord Kopecz — entry/section: Kopecz, Lord.
 Note (our notes, around the quote): Lord Kopecz — entry/section: Kopecz, Lord: "It was Kopecz who turned the opening battle for the Sith when he singlehandedly flew a starfighter into the hangar of a Republic flagship and slew the Jedi Master who was controlling the Republic's battle meditation." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-it-was-kopecz-who-turned-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:319`
 
 > However, when the Sith massed to destroy the Jedi's main camp, Kopecz and many others began to worry that events were conspiring against them.
 — Source: scan pages 201–240; Lord Kopecz — entry/section: Kopecz, Lord.
 Note (our notes, around the quote): Lord Kopecz — entry/section: Kopecz, Lord: "However, when the Sith massed to destroy the Jedi's main camp, Kopecz and many others began to worry that events were conspiring against them." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-however-when-the-sith-massed-to.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:321`
 
 > When he finally realized that the combined strength of the Sith Lords would not prevent their annihilation, Kopecz decided that he didn't want to die without a fight.
 — Source: scan pages 201–240; Lord Kopecz — entry/section: Kopecz, Lord.
 Note (our notes, around the quote): Lord Kopecz — entry/section: Kopecz, Lord: "When he finally realized that the combined strength of the Sith Lords would not prevent their annihilation, Kopecz decided that he didn't want to die without a fight." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-when-he-finally-realized-that-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:323`
 
 > After delivering a warning about the impending detonation, Kopecz challenged Farfalla to a duel.
 — Source: scan pages 201–240; Lord Kopecz; Valenthyne Farfalla — entry/section: Kopecz, Lord.
 Note (our notes, around the quote): Lord Kopecz; Valenthyne Farfalla — entry/section: Kopecz, Lord: "After delivering a warning about the impending detonation, Kopecz challenged Farfalla to a duel." Source: The Complete Star Wars Encyclopedia, Vol. II, p.226
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.226 — full quote as printed](quotes/v2-p226-after-delivering-a-warning-about-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:325`
 
 # Debate and forum claims (unverified)

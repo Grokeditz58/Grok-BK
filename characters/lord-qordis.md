@@ -18,13 +18,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan
 > Bane killed Qordis with the Force, although his spirit lived on to hound Bane for a time, reaching from beyond the grave to cause Bane to crash-land the Valcyn in the wilderness of Dxun.
 — Source: scan pages 41–80; Lord Qordis — entry/section: Qordis.
 Note (our notes, around the quote): Lord Qordis — entry/section: Qordis: "Bane killed Qordis with the Force, although his spirit lived on to hound Bane for a time, reaching from beyond the grave to cause Bane to crash-land the Valcyn in the wilderness of Dxun." Source: The Complete Star Wars Encyclopedia, Vol. III, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.57 — full quote as printed](quotes/v3-p57-bane-killed-qordis-with-the-force.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:178`
 
 > Qordis hoped to make Bane's life a living hell but, as with many other trials, Bane emerged stronger and more powerful for having survived the incident.
 — Source: scan pages 41–80; Lord Qordis — entry/section: Qordis.
 Note (our notes, around the quote): Lord Qordis — entry/section: Qordis: "Qordis hoped to make Bane's life a living hell but, as with many other trials, Bane emerged stronger and more powerful for having survived the incident." Source: The Complete Star Wars Encyclopedia, Vol. III, p.57
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.57 — full quote as printed](quotes/v3-p57-qordis-hoped-to-make-banes-life.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:180`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

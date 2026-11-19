@@ -14,7 +14,6 @@
 > Centuries later, his descendent, Vodal Kressh, led a bitter revolt against the current Sith Empire's ruler, Darth Vitiate. Vodal was forced into exile on the planet Athiss, but one of his descendants returned to become the Emperor's personal apprentice. Exal Kressh eventually turned on her Emperor and was killed for this betrayal by the young Sith Teneb Kel, who became Darth Thanaton.
 — Source: The Sith.
 Note (our notes, around the quote): Vitiate (the Sith Emperor); Darth Thanaton — The Kressh Legacy (top-right): "Centuries later, his descendent, Vodal Kressh, led a bitter revolt against the current Sith Empire's ruler, Darth Vitiate. Vodal was forced into exile on the planet Athiss, but one of his descendants returned to become the Emperor's personal apprentice. Exal Kressh eventually turned on her Emperor and was killed for this betrayal by the young Sith Teneb Kel, who became Darth Thanaton." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-centuries-later-his-descendent-vodal-kressh.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:326`
 
 # Debate and forum claims (unverified)

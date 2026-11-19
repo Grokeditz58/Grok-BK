@@ -151,7 +151,6 @@ Our notes: `notes/materials/023-kotor-and-revan/kotor-1-notes.md:206`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Revan; Bastila Shan; Darth Malak: "Ownership of the Ebon Hawk changed hands to the rehabilitated Revan and Carth Onasi after Davik was killed in an altercation following the rescue of Bastila Shan, shortly before Taris was destroyed by Darth Malak." Source: The Complete Star Wars Encyclopedia, Vol. I, p.224
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.224 — full quote as printed](quotes/v1-p224-ownership-of-the-ebon-hawk-changed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:310`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -159,7 +158,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan
 > He dogged Bastila Shan, Carth Onasi, and the Jedi Knights who were searching for the Star Forge along with Darth Malak, and was believed to have been killed on Taris.
 — Source: scan pages 361–400; Bastila Shan; Darth Malak.
 Note (our notes, around the quote): Bastila Shan; Darth Malak: "He dogged Bastila Shan, Carth Onasi, and the Jedi Knights who were searching for the Star Forge along with Darth Malak, and was believed to have been killed on Taris." Source: The Complete Star Wars Encyclopedia, Vol. II, p.389
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.389 — full quote as printed](quotes/v2-p389-he-dogged-bastila-shan-carth-onasi.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:280`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -177,7 +175,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > THE MILITARY'S LIKE LIFE. YOU GO WHERE IT TAKES YOU.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Carth Onasi — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Carth Onasi — entry/section: Pull quote: ""THE MILITARY'S LIKE LIFE. YOU GO WHERE IT TAKES YOU." —CARTH ONASI" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.186
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.186 — full quote as printed](quotes/d718-s186-the-militarys-like-life-you-go.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:47`
 
 ## Star Wars Insider #97 (2007)
@@ -185,7 +182,6 @@ Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-ca
 > There's still a way to go—not to mention a couple of wars—before hitting the game's opening crawl!
 — Source: Star Wars Insider #97 (2007); Carth Onasi — entry/section: Before the opening crawl.
 Note (our notes, around the quote): Carth Onasi — entry/section: Before the opening crawl: ""There's still a way to go—not to mention a couple of wars—before hitting the game's opening crawl!" —John Jackson Miller, Star Wars Insider 97, p. 43" Source: *Star Wars Insider #97* (2007), scan p.43
-![Quote image: *Star Wars Insider #97* (2007), scan p.43 — full quote as printed](quotes/ins097-s43-theres-still-a-way-to-go.jpg)
 Our notes: `notes/materials/038-star-wars-insider/097-ins097.md:410`
 
 ## Prima *Star Wars Knights of the Old Republic II: The Sith Lords* Official Game Guide (2004)

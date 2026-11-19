@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > The Pike sisters had already earned a considerable reputation on the underground fighting circuit of the remote Pacanth Reach when they first came to Xizor's attention. The sisters single-handedly defeated and killed over two dozen opponents in one memorable match. Even more impressive to Xizor, the twins used no weapons to accomplish this feat. He immediately offered them jobs as highly paid assassins.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Pike Sisters (Zan and Zu); Prince Xizor — entry/section: Pike sisters: two dozen opponents, no weapons: "The Pike sisters had already earned a considerable reputation on the underground fighting circuit of the remote Pacanth Reach when they first came to Xizor's attention. The sisters single-handedly defeated and killed over two dozen opponents in one memorable match. Even more impressive to Xizor, the twins used no weapons to accomplish this feat. He immediately offered them jobs as highly paid assassins." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.129
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.129 — full quote as printed](quotes/d043-s129-the-pike-sisters-had-already-earned.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:77`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

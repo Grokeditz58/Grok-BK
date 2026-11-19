@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: The Galactic Republic; Zayne Carrick — Carrick Station.
 Note (our notes, around the quote): Zayne Carrick — Carrick Station: "it was renamed to honor the Jedi Padawan Zayne Carrick who underwent a similar twist of fate during the Mandalorian Wars." Source: The Old Republic Encyclopedia, p.38
-![Quote image: The Old Republic Encyclopedia, p.38 — full quote as printed](quotes/tore-p38-it-was-renamed-to-honor-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:106`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -29,7 +28,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Zayne Carrick — entry/section: Carrick, Zayne: "In a preemptive strike, they killed their students, except Zayne." Source: The Complete Star Wars Encyclopedia, Vol. I, p.110
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.110 — full quote as printed](quotes/v1-p110-in-a-preemptive-strike-they-killed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan-121-160.md:42`
 
 > Covenant,theA secret enclave of Jedi Knights formed by Lady Krynda Draay, active 4,000 years before the Battle of Yavin. These talented seers were devoted to stopping any hint of a Sith uprising following the devastation of the Great Sith War. Their members included Lucien Draay, Krynda's son; Q'Anilia, a Miralukan seer; Xanar, a Khil; Raana Tey, a Togruta; and Fein, a Feeorin. The vast Draay fortune was funneled through numerous fronts and investments in preparation for defense of the galaxy. Covenant members be­ came the ranking Jedi Masters on Taris, where they experienced visions of one oftheir students somehow bringing about the scourge of the Jedi. As a preventive measure, the Covenant killed all of the graduating Padawans, but one resourceful student, Zayne Carrick, escaped. covertshroudmaneuverA clever trac­ tor beam escape maneuver, it involved a tar­ geted decoy starship carrying an escape craft. When a tractor beam locked on to the larger vessel. it came apart in a cloud of reflective chaff, confounding the tractor beam lock and allowing the smaller vessel to escape. Covis, Spane A Rebel officer, he was the SpecForce Sentinel on Nar Shaddaawhofirstno­ ticed thearrivalofImperial troops and thwarted the element of surprise in their attack. Cov-Prim,AlexisA star of several Impe­ rial holovids, she was famous at the height of the New Order.
@@ -37,19 +35,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/03-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Zayne Carrick: "As a preventive measure, the Covenant killed all of the graduating Padawans, but one resourceful student, Zayne Carrick, escaped." Source: The Complete Star Wars Encyclopedia, Vol. I, p.149
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.149 — full quote as printed](quotes/v1-p149-as-a-preventive-measure-the-covenant.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:37`
 
 > When a vision of the future showed that one of their students would rise to bring unparalleled destruction to the galaxy and the Jedi, they preemptively slaughtered their graduating class, but Lucien's Padawan, Zayne Carrick, escaped.
 — Source: scan pages 201–240; Lucien Draay; Zayne Carrick — entry/section: Draay, Lucien.
 Note (our notes, around the quote): Lucien Draay; Zayne Carrick — entry/section: Draay, Lucien: "When a vision of the future showed that one of their students would rise to bring unparalleled destruction to the galaxy and the Jedi, they preemptively slaughtered their graduating class, but Lucien's Padawan, Zayne Carrick, escaped." Source: The Complete Star Wars Encyclopedia, Vol. I, p.204
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.204 — full quote as printed](quotes/v1-p204-when-a-vision-of-the-future.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:160`
 
 > Only Zayne Carrick survived because of his late arrival.
 — Source: scan pages 321–360; Zayne Carrick. POV: Zayne Carrick.
 Note (our notes, around the quote): Zayne Carrick: "Only Zayne Carrick survived because of his late arrival." Source: The Complete Star Wars Encyclopedia, Vol. I, p.337
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.337 — full quote as printed](quotes/v1-p337-only-zayne-carrick-survived-because-of.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:217`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -57,19 +52,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan
 > Only Zayne survived, having arrived late to the ceremony.
 — Source: scan pages 121–160; Zayne Carrick. POV: Zayne Carrick.
 Note (our notes, around the quote): Zayne Carrick: "Only Zayne survived, having arrived late to the ceremony." Source: The Complete Star Wars Encyclopedia, Vol. II, p.154
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.154 — full quote as printed](quotes/v2-p154-only-zayne-survived-having-arrived-late.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:307`
 
 > Goaded by Jedi Covenant member Raana Tey, Shel almost succeeded in her mission, but the truth eventually surfaced that it was the Covenant that had killed her brother and not Zayne.
 — Source: scan pages 121–160; Zayne Carrick. POV: Zayne Carrick.
 Note (our notes, around the quote): Zayne Carrick: "Goaded by Jedi Covenant member Raana Tey, Shel almost succeeded in her mission, but the truth eventually surfaced that it was the Covenant that had killed her brother and not Zayne." Source: The Complete Star Wars Encyclopedia, Vol. II, p.154
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.154 — full quote as printed](quotes/v2-p154-goaded-by-jedi-covenant-member-raana.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:309`
 
 > In a preemptive move to prevent this cataclysm, the Jedi slew their Padawans, though Zayne Carrick survived.
 — Source: scan pages 401–440; Zayne Carrick. POV: Zayne Carrick.
 Note (our notes, around the quote): Zayne Carrick: "In a preemptive move to prevent this cataclysm, the Jedi slew their Padawans, though Zayne Carrick survived." Source: The Complete Star Wars Encyclopedia, Vol. II, p.414
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.414 — full quote as printed](quotes/v2-p414-in-a-preemptive-move-to-prevent.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan-401-440.md:153`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -77,13 +69,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/10-v2-scan
 > The Covenant preemptively killed the graduating class of Padawans at the satellite academy on Taris, but one luckless apprentice—Zayne Carrick—survived by being late.
 — Source: scan pages 41–80; Zayne Carrick. POV: Zayne Carrick.
 Note (our notes, around the quote): Zayne Carrick: "The Covenant preemptively killed the graduating class of Padawans at the satellite academy on Taris, but one luckless apprentice—Zayne Carrick—survived by being late." Source: The Complete Star Wars Encyclopedia, Vol. III, p.54
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.54 — full quote as printed](quotes/v3-p54-the-covenant-preemptively-killed-the-graduating.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:147`
 
 > Although T1-LB's original body had been destroyed, the Arkanian engineer Camper managed to restore his main cognitive centers and storage banks, allowing Zayne to witness the murders of his fellow students.
 — Source: scan pages 201–240; Zayne Carrick. POV: Zayne Carrick.
 Note (our notes, around the quote): Zayne Carrick: "Although T1-LB's original body had been destroyed, the Arkanian engineer Camper managed to restore his main cognitive centers and storage banks, allowing Zayne to witness the murders of his fellow students." Source: The Complete Star Wars Encyclopedia, Vol. III, p.207
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.207 — full quote as printed](quotes/v3-p207-although-t1-lbs-original-body-had.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:122`
 
 ## Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -107,7 +97,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:5
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Zayne Carrick; Lucien Draay: "Convinced that Zayne is indeed the future Dark Lord, Lucien obsessively hunts his former student in pursuit of his personal vendetta against the Sith that destroyed his childhood." Source: *Web Articles* (SWRPG Saga Edition), scan p.295
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.295 — full quote as printed](quotes/d732-s295-convinced-that-zayne-is-indeed-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-241-300.md:533`
 
 ## Star Wars Insider #86 (2006)
@@ -140,7 +129,6 @@ Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:367`
 > Zayne is always self-effacing and deals with his failures through humor. Haazen is looking for a shortcut, and the shortcut he finds are Sith artifacts. This being a comic book about con artists in a way, Haazen is really running the long con. He's been there, like Emperor Palpatine, biding his time and watching pieces go together, figuring out his opening to get his revenge.
 — Source: Star Wars Insider #104 (2008); Haazen; Zayne Carrick — entry/section: Miller on Haazen and Zayne.
 Note (our notes, around the quote): Haazen; Zayne Carrick — entry/section: Miller on Haazen and Zayne: ""Haazen feels a sense of entitlement; he reacts to criticism with anger," explains Miller. "Zayne is always self-effacing and deals with his failures through humor. Haazen is looking for a shortcut, and the shortcut he finds are Sith artifacts. This being a comic book about con artists in a way, Haazen is really running the long con. He's been there, like Emperor Palpatine, biding his time and watching pieces go together, figuring out his opening to get his revenge." —John Jackson Miller, Star Wars Insider 104, p. 61" Source: *Star Wars Insider #104* (2008), scan p.61
-![Quote image: *Star Wars Insider #104* (2008), scan p.61 — full quote as printed](quotes/ins104-s61-haazen-feels-a-sense-of-entitlement.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:381`
 
 > Todd, roleplaying as a Jedi
@@ -158,13 +146,11 @@ Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:370`
 > After outsmarting Golliard [the Republic Navy deserter-turned-slaver who kidnapped Jarael as a child], Zayne underestimates the Crucible. He figures they'll be easy to deal with using his normal methods of subterfuge. He's wrong—very wrong.
 — Source: Star Wars Insider #112 (2009); Zayne Carrick — entry/section: Miller on Zayne underestimating the Crucible.
 Note (our notes, around the quote): Zayne Carrick — entry/section: Miller on Zayne underestimating the Crucible: ""After outsmarting Golliard [the Republic Navy deserter-turned-slaver who kidnapped Jarael as a child], Zayne underestimates the Crucible. He figures they'll be easy to deal with using his normal methods of subterfuge. He's wrong—very wrong." —John Jackson Miller, Star Wars Insider 112, p. 59" Source: *Star Wars Insider #112* (2009), scan p.59
-![Quote image: *Star Wars Insider #112* (2009), scan p.59 — full quote as printed](quotes/ins112-s59-after-outsmarting-golliard-the-republic-navy.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:376`
 
 > But we have to remember that Zayne is still a fairly young guy, 19, and he's trying to figure out relationships in general.
 — Source: Star Wars Insider #112 (2009); Zayne Carrick — entry/section: Miller: Zayne is 19.
 Note (our notes, around the quote): Zayne Carrick — entry/section: Miller: Zayne is 19: ""But we have to remember that Zayne is still a fairly young guy, 19, and he's trying to figure out relationships in general." —John Jackson Miller, Star Wars Insider 112, p. 59" Source: *Star Wars Insider #112* (2009), scan p.59
-![Quote image: *Star Wars Insider #112* (2009), scan p.59 — full quote as printed](quotes/ins112-s59-but-we-have-to-remember-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/112-ins112.md:380`
 
 ## Star Wars Insider #113 (2009)
@@ -176,7 +162,6 @@ Our notes: `notes/materials/038-star-wars-insider/113-ins113.md:503`
 > I think we gave Zayne the chance to discover that he didn't need the mantle of a Jedi Knight to do the right thing or to realize his potential. What Zayne said about Gryph being the best teacher he ever had has the ring of truth. He learned how to employ his talents in ways his Masters never would have advised him to, and he wound up helping a lot more people. He's an unsung hero, but he doesn't care.
 — Source: Star Wars Insider #113 (2009).
 Note (our notes, around the quote): Zayne Carrick — entry/section: Miller on Zayne not needing the Jedi mantle: ""I think we gave Zayne the chance to discover that he didn't need the mantle of a Jedi Knight to do the right thing or to realize his potential. What Zayne said about Gryph being the best teacher he ever had has the ring of truth. He learned how to employ his talents in ways his Masters never would have advised him to, and he wound up helping a lot more people. He's an unsung hero, but he doesn't care." —John Jackson Miller, Star Wars Insider 113, p. 76" Source: *Star Wars Insider #113* (2009), scan p.76
-![Quote image: *Star Wars Insider #113* (2009), scan p.76 — full quote as printed](quotes/ins113-s76-i-think-we-gave-zayne-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/113-ins113.md:505`
 
 ## Star Wars Insider #116 (2010)
@@ -206,7 +191,6 @@ Our notes: `notes/materials/038-star-wars-insider/131-ins131.md:447`
 > And Zayne, of course, is a special case. Yes, he has Force skills, but he also has a very strong aversion to killing. But this is war. How can one person change how it's fought? It seems foolish to try. But Zayne, often fortune's fool, has beaten the odds before.
 — Source: Star Wars Insider #131 (2012).
 Note (our notes, around the quote): Zayne Carrick — entry/section: John Jackson Miller on Zayne in KotOR: War: ""And Zayne, of course, is a special case. Yes, he has Force skills, but he also has a very strong aversion to killing. But this is war. How can one person change how it's fought? It seems foolish to try. But Zayne, often fortune's fool, has beaten the odds before." —John Jackson Miller, Star Wars Insider 131, p. 80" Source: *Star Wars Insider #131* (2012), scan p.80
-![Quote image: *Star Wars Insider #131* (2012), scan p.80 — full quote as printed](quotes/ins131-s80-and-zayne-of-course-is-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/131-ins131.md:449`
 
 - Note (summary from our notes, not a quotation): Page contents: KotOR: War cover art: Zayne Carrick under fire (no text). (hand-read)

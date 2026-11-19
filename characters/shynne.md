@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/584-part-3-prakith.md:24`
 > Inquisitor Shynne One of the most devout among all the Inquisitors, Inquisitor Shynne is a hard woman with dark features and an angular face that gives her body an appearance of sharpness.
 — Source: Locations/Planet Hoppers/Byss and the Deep Core/Part 3 - Prakith.pdf [Sta; Inquisitor Shynne — entry/section: Part 3 - Prakith.
 Note (our notes, around the quote): Inquisitor Shynne — entry/section: Part 3 - Prakith: "Inquisitor Shynne One of the most devout among all the Inquisitors, Inquisitor Shynne is a hard woman with dark features and an angular face that gives her body an appearance of sharpness." Source: *Part 3 - Prakith* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Part 3 - Prakith* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d584-s3-inquisitor-shynne-one-of-the-most.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/584-part-3-prakith.md:26`
 
 # Debate and forum claims (unverified)

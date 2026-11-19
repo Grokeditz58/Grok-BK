@@ -23,13 +23,11 @@ Our notes: `notes/materials/026-jedi-academy-trilogy/jedi-search.md:42`
 > [fragment — full passage not on file]
 — Source: Part Five: The Galactic Civil War; Luke Skywalker — Jabba's sail barge.
 Note (our notes, around the quote): Luke Skywalker — Jabba's sail barge: "but the rookie Jedi Knight decimated the Hutt's entourage with ease. Leia strangled Jabba, leading to the collapse of the Desilijic crime family." Source: The New Essential Chronology, p.123
-![Quote image: The New Essential Chronology, p.123 — full quote as printed](quotes/nec-p123-jabbas-sail-barge.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:170`
 
 > Beldorian, at nine meters, was staggeringly large even for a Hutt, and possessed none of the corpulent rolls that immobilized lazy Hutts like Jabba. All muscle and fire, he slithered toward Leia like a snake, but a long, swift side cut with her lightsaber messily ended the career of Beldorian the Splendid.
 — Source: Part Eight: The Return of the Jedi Knights; Leia Organa Solo — Leia kills Beldorian. POV: speaker not named in our notes.
 Note (our notes, around the quote): Leia Organa Solo — Leia kills Beldorian: "Beldorian, at nine meters, was staggeringly large even for a Hutt, and possessed none of the corpulent rolls that immobilized lazy Hutts like Jabba. All muscle and fire, he slithered toward Leia like a snake, but a long, swift side cut with her lightsaber messily ended the career of Beldorian the Splendid." Source: The New Essential Chronology, p.175
-![Quote image: The New Essential Chronology, p.175 — full quote as printed](quotes/nec-p175-leia-kills-beldorian.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:138`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -37,19 +35,16 @@ Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of
 > Beedo A relative of Greedo from the Tetsus clan, he took the bounty hunter's place in Jabba the Hutt's gang after Greedo was killed by Han Solo at the Mos Eisley cantina.
 — Source: scan pages 81–120; Greedo; Han Solo.
 Note (our notes, around the quote): Greedo; Han Solo: "Beedo A relative of Greedo from the Tetsus clan, he took the bounty hunter's place in Jabba the Hutt's gang after Greedo was killed by Han Solo at the Mos Eisley cantina." Source: The Complete Star Wars Encyclopedia, Vol. I, p.66
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.66 — full quote as printed](quotes/v1-p66-beedo-a-relative-of-greedo-from.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:12`
 
 > Boorka the Hutt A Hutt rival to Jabba the Hutt on Tatooine near Mos Osnoe, he allied himself with Sev'Rance Tann during the Clone Wars.
 — Source: scan pages 81–120; Sev'rance Tann. POV: Sev'rance Tann, about Jabba the Hutt.
 Note (our notes, around the quote): Sev'rance Tann: "Boorka the Hutt A Hutt rival to Jabba the Hutt on Tatooine near Mos Osnoe, he allied himself with Sev'Rance Tann during the Clone Wars." Source: The Complete Star Wars Encyclopedia, Vol. I, p.86
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.86 — full quote as printed](quotes/v1-p86-boorka-the-hutt-a-hutt-rival.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:168`
 
 > Bossk then spent some time in Jabba's palace, but fled the Hutt's sail barge before Luke Skywalker and Princess Leia destroyed the craft.
 — Source: scan pages 81–120; Bossk; Luke Skywalker; Leia Organa Solo — entry/section: Bossk.
 Note (our notes, around the quote): Bossk; Luke Skywalker; Leia Organa Solo — entry/section: Bossk: "Bossk then spent some time in Jabba's palace, but fled the Hutt's sail barge before Luke Skywalker and Princess Leia destroyed the craft." Source: The Complete Star Wars Encyclopedia, Vol. I, p.88
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.88 — full quote as printed](quotes/v1-p88-bossk-then-spent-some-time-in.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:188`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -57,7 +52,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > After Han Solo killed Greedo in the Mos Eisley cantina, Jabba ordered Heater to hire bounty hunters to bring Solo to justice.
 — Source: scan pages 1–40; Han Solo; Greedo.
 Note (our notes, around the quote): Han Solo; Greedo: "After Han Solo killed Greedo in the Mos Eisley cantina, Jabba ordered Heater to hire bounty hunters to bring Solo to justice." Source: The Complete Star Wars Encyclopedia, Vol. II, p.30
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.30 — full quote as printed](quotes/v2-p30-after-han-solo-killed-greedo-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:243`
 
 - Note (summary from our notes, not a quotation): Page contents: 1044 words, 17 paragraphs | headings/entries: Jab, JillJoo; Jabba; Jabba's Throne Room
@@ -67,19 +61,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > As a fight erupted on and near Jabba's desert sail barge, Princess Leia Organa—who had been put in chains and a skimpy outfit by Jabba—pulled her chain leash around the Hutt's neck, strangling him.
 — Source: scan pages 121–160; Leia Organa Solo. POV: Leia Organa Solo, about Jabba the Hutt.
 Note (our notes, around the quote): Leia Organa Solo: "As a fight erupted on and near Jabba's desert sail barge, Princess Leia Organa—who had been put in chains and a skimpy outfit by Jabba—pulled her chain leash around the Hutt's neck, strangling him." Source: The Complete Star Wars Encyclopedia, Vol. II, p.130
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.130 — full quote as printed](quotes/v2-p130-as-a-fight-erupted-on-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:115`
 
 > Karrde, Talon The lawless shadows of the underworld spawned despicable characters possessed of greed, vice, and a lack of scruples—kingpins like Jabba the Hutt, capable of killing without compunction.
 — Source: scan pages 201–240; Darth Talon — entry/section: Karrde, Talon.
 Note (our notes, around the quote): Darth Talon — entry/section: Karrde, Talon: "Karrde, Talon The lawless shadows of the underworld spawned despicable characters possessed of greed, vice, and a lack of scruples—kingpins like Jabba the Hutt, capable of killing without compunction." Source: The Complete Star Wars Encyclopedia, Vol. II, p.200
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.200 — full quote as printed](quotes/v2-p200-karrde-talon-the-lawless-shadows-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:49`
 
 > After learning that Luke had survived the encounter, Vader ordered Kohvrekhar to Tatooine to ensure that Jabba the Hutt and his henchmen didn't capture or kill Skywalker.
 — Source: scan pages 201–240; Luke Skywalker; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker): "After learning that Luke had survived the encounter, Vader ordered Kohvrekhar to Tatooine to ensure that Jabba the Hutt and his henchmen didn't capture or kill Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. II, p.223
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.223 — full quote as printed](quotes/v2-p223-after-learning-that-luke-had-survived.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:290`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -87,30 +78,25 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > The towering monster was killed by Luke Skywalker when the Jedi was forced into the pit by Jabba's treachery.
 — Source: scan pages 81–120; Luke Skywalker. POV: Luke Skywalker, about Jabba the Hutt.
 Note (our notes, around the quote): Luke Skywalker: "The towering monster was killed by Luke Skywalker when the Jedi was forced into the pit by Jabba's treachery." Source: The Complete Star Wars Encyclopedia, Vol. III, p.78
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.78 — full quote as printed](quotes/v3-p78-the-towering-monster-was-killed-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:45`
 
 > Years later, Nat Secura suffered severe burns when Jabba the Hutt enslaved many natives of Ryloth, and Bib Fortuna brought him to Jabba's palace.
 — Source: scan pages 121–160; Aayla Secura — entry/section: Secura, Nat.
 Note (our notes, around the quote): Aayla Secura — entry/section: Secura, Nat: "Years later, Nat Secura suffered severe burns when Jabba the Hutt enslaved many natives of Ryloth, and Bib Fortuna brought him to Jabba's palace." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-years-later-nat-secura-suffered-severe.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:149`
 
 - Note (summary from our notes, not a quotation): Luke Skywalker: "She beat him to Jabba's palace and went undercover as "Arica," but she failed in her mission, and Luke went on to help destroy the Emperor along with his second Death Star battle station." Source: The Complete Star Wars Encyclopedia, Vol. III, p.166
   — Source: scan pages 161–200. POV: Luke Skywalker, about Jabba the Hutt.
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.166 — full quote as printed](quotes/v3-p166-she-beat-him-to-jabbas-palace.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:149`
 
 > Pote Snitkin piloted one of Jabba's skiffs and was among those killed during Luke Skywalker's rescue of Han Solo and Princess Leia from the Hutt.
 — Source: scan pages 161–200; Luke Skywalker; Han Solo; Leia Organa Solo.
 Note (our notes, around the quote): Luke Skywalker; Han Solo; Leia Organa Solo: "Pote Snitkin piloted one of Jabba's skiffs and was among those killed during Luke Skywalker's rescue of Han Solo and Princess Leia from the Hutt." Source: The Complete Star Wars Encyclopedia, Vol. III, p.170
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.170 — full quote as printed](quotes/v3-p170-pote-snitkin-piloted-one-of-jabbas.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:203`
 
 > She eventually killed Jabba by strangling him with the very chain that bound her.
 — Source: scan pages 161–200; Jaina Solo — entry/section: Solo, Jaina.
 Note (our notes, around the quote): Jaina Solo — entry/section: Solo, Jaina: "She eventually killed Jabba by strangling him with the very chain that bound her." Source: The Complete Star Wars Encyclopedia, Vol. III, p.177
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.177 — full quote as printed](quotes/v3-p177-she-eventually-killed-jabba-by-strangling.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:282`
 
 ## The New Essential Guide to Characters (2002)
@@ -118,13 +104,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > Jabba, however, foresaw Dengar's betrayal and staked the bounty hunter out in the desert to die.
 — Source: scan pages 31–60; Dengar. POV: Dengar, about Jabba the Hutt.
 Note (our notes, around the quote): Dengar: "Jabba, however, foresaw Dengar's betrayal and staked the bounty hunter out in the desert to die." Source: The New Essential Guide to Characters, p.54
-![Quote image: The New Essential Guide to Characters, p.54 — full quote as printed](quotes/negc-p54-jabba-however-foresaw-dengars-betrayal-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:122`
 
 > Dengar survived, but Jabba didn't return from his trip to the Great Pit of Carkoon.
 — Source: scan pages 31–60; Dengar. POV: Dengar, about Jabba the Hutt.
 Note (our notes, around the quote): Dengar: "Dengar survived, but Jabba didn't return from his trip to the Great Pit of Carkoon." Source: The New Essential Guide to Characters, p.54
-![Quote image: The New Essential Guide to Characters, p.54 — full quote as printed](quotes/negc-p54-dengar-survived-but-jabba-didnt-return.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:124`
 
 - Note (summary from our notes, not a quotation): Page contents: 425 words, 14 paragraphs | headings/entries: Fe all his infamy, Jabba the Hutt; CH ae a as,
@@ -138,7 +122,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > Ki-Adi-Mundi opposed him again, and Jabba fought off a takeover attempt raised by his rival Gardulla.
 — Source: scan pages 61–90; Ki-Adi-Mundi. POV: Ki-Adi-Mundi, about Jabba the Hutt.
 Note (our notes, around the quote): Ki-Adi-Mundi: "Ki-Adi-Mundi opposed him again, and Jabba fought off a takeover attempt raised by his rival Gardulla." Source: The New Essential Guide to Characters, p.88
-![Quote image: The New Essential Guide to Characters, p.88 — full quote as printed](quotes/negc-p88-ki-adi-mundi-opposed-him-again.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:156`
 
 - Note (summary from our notes, not a quotation): Page contents: 410 words, 10 paragraphs | headings/entries: With word of Jabba's demise,
@@ -180,7 +163,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Lando, meanwhile, : Sé j \fter d Ti it } reat post by Prince Xiz and the i f # inally took action as well, A confusing battle ensued, When types walker and his compan . ver, the Sarlace had consumed Boba Fett and many quard a oY ent on to rescue Han Solo from the clutches of the A : ; of Jabba's quards, Leia had strangled Jabba with the chair his h ile ¢ qstcr iba the Hutt ¢ complex plat put Land t that bound her to the Hutt, and Luke had destroyed the ' mask Calrissian into Jabba's palace, where he disquised himself as : ; : : massive sail barge, The companions were free, Jabba wi : f ne of ba ) ce quards.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Lando Calrissian; Boba Fett; Han Solo; Leia Organa Solo; Luke Skywalker: "Lando, meanwhile, : Sé j \fter d Ti it } reat post by Prince Xiz and the i f # inally took action as well, A confusing battle ensued, When types walker and his compan . ver, the Sarlace had consumed Boba Fett and many quard a oY ent on to rescue Han Solo from the clutches of the A : ; of Jabba's quards, Leia had strangled Jabba with the chair his h ile ¢ qstcr iba the Hutt ¢ complex plat put Land t that bound her to the Hutt, and Luke had destroyed the ' mask Calrissian into Jabba's palace, where he disquised himself as : ; : : massive sail barge, The companions were free, Jabba wi : f ne of ba ) ce quards." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.131
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.131 — full quote as printed](quotes/d043-s131-lando-meanwhile-s-j-fter-d.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:95`
 
 - Note (summary from our notes, not a quotation): Page contents: Jabba's court: Bib Fortuna, Salacious Crumb, Ephant Mon; Gamorrean captain Ortugg Thug 4 CC B (hand-read)
@@ -196,13 +178,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > It is a massive, fearsome monster that hides itself under the endless sand and drags in unwary passersby to slowly digest them over the course of several centuries. Criminals frequently use it to dispose of victims or rivals, and Jabba the Hutt finds the screams of the Sarlacc's meals particularly soothing.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): The Sarlacc; Jabba the Hutt — entry/section: Great Pit of Carkoon: "It is a massive, fearsome monster that hides itself under the endless sand and drags in unwary passersby to slowly digest them over the course of several centuries. Criminals frequently use it to dispose of victims or rivals, and Jabba the Hutt finds the screams of the Sarlacc's meals particularly soothing." Source: *Secrets of Tatooine* (SWRPG d20), scan p.8
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.8 — full quote as printed](quotes/d045-s8-it-is-a-massive-fearsome-monster.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:47`
 
 > Jabba the Hutt has long been interested in capturing a krayt dragon—originally because of the rumor of the dragon pearls, but in later years because he wanted to see how his pet rancor would fare against one of the giant lizards.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt — entry/section: Krayt Dragon.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Krayt Dragon: "Jabba the Hutt has long been interested in capturing a krayt dragon—originally because of the rumor of the dragon pearls, but in later years because he wanted to see how his pet rancor would fare against one of the giant lizards." Source: *Secrets of Tatooine* (SWRPG d20), scan p.15
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.15 — full quote as printed](quotes/d045-s15-jabba-the-hutt-has-long-been.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:88`
 
 - Note (summary from our notes, not a quotation): Page contents: Jedi Knights Sidrona Diath and son Dace Diath came from Tatooine in the early-settler era; worrt once attacked its own reflection; Jabba keeps worrts at his palace (hand-read)
@@ -224,13 +204,11 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Always accustomed to bribing and extorting Republic officials who bothered to visit Tatooine, the Hutts actually found life somewhat easier for the two decades prior to the establishment of Imperial rule. The Hutts' best guess was that someone located close to the Republic Senate was diverting attention away from Tatooine for some unknown reason.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Palpatine (Darth Sidious) — entry/section: The Rise of the Empire Era: "Always accustomed to bribing and extorting Republic officials who bothered to visit Tatooine, the Hutts actually found life somewhat easier for the two decades prior to the establishment of Imperial rule. The Hutts' best guess was that someone located close to the Republic Senate was diverting attention away from Tatooine for some unknown reason." Source: *Secrets of Tatooine* (SWRPG d20), scan p.31
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.31 — full quote as printed](quotes/d045-s31-always-accustomed-to-bribing-and-extorting.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:170`
 
 > Each of the Hutts on Tatooine is trying to edge out the others, to one degree or another. Unfortunately for the rest, Jabba is much more focused on his scheming than he pretends to be. Unless something changes radically in the near future, he will attain his goal much sooner than the others suspect.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt — entry/section: Who's In Charge.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Who's In Charge: "Each of the Hutts on Tatooine is trying to edge out the others, to one degree or another. Unfortunately for the rest, Jabba is much more focused on his scheming than he pretends to be. Unless something changes radically in the near future, he will attain his goal much sooner than the others suspect." Source: *Secrets of Tatooine* (SWRPG d20), scan p.32
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.32 — full quote as printed](quotes/d045-s32-each-of-the-hutts-on-tatooine.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:177`
 
 - Note (summary from our notes, not a quotation): Page contents: 739 words, 38 paragraphs | headings/entries: Semple Ciess One Infrections; Sample Class Two Infractions; Murder or manslaughter of a free citizen,; Semple Class Three Infrections; CITIES OF TATOOINE; Jabba the Hutt; Pa -
@@ -240,31 +218,26 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > To draw attention away from his acquisition of power, Jabba graciously surrendered control of Mos Espa's slave trade to his onetime rival Gardulla—just in time for the Republic to finally enforce its antislavery laws on the last few Outer Rim worlds that still allowed the industry. Gardulla was ruined, and Jabba was that much closer to controlling Tatooine.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Gardulla the Hutt — entry/section: Jabba the Hutt: "To draw attention away from his acquisition of power, Jabba graciously surrendered control of Mos Espa's slave trade to his onetime rival Gardulla—just in time for the Republic to finally enforce its antislavery laws on the last few Outer Rim worlds that still allowed the industry. Gardulla was ruined, and Jabba was that much closer to controlling Tatooine." Source: *Secrets of Tatooine* (SWRPG d20), scan p.34
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.34 — full quote as printed](quotes/d045-s34-to-draw-attention-away-from-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:189`
 
 > The first was Naroon Cuthus, who was so efficient that Jabba ultimately had to eliminate him; he knew far too much to live. A pair of ambitious smugglers replaced Cuthus: Bidlo Kwerve, a Corellian, and Bib Fortuna, a Twi'lek. Jabba played them against each other to prevent either from becoming a threat to him, but Fortuna eventually got the upper hand. Kwerve received the dubious distinction of becoming the first being Jabba fed to his pet rancor.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Ephant Mon; Bib Fortuna — entry/section: Jabba the Hutt: "The first was Naroon Cuthus, who was so efficient that Jabba ultimately had to eliminate him; he knew far too much to live. A pair of ambitious smugglers replaced Cuthus: Bidlo Kwerve, a Corellian, and Bib Fortuna, a Twi'lek. Jabba played them against each other to prevent either from becoming a threat to him, but Fortuna eventually got the upper hand. Kwerve received the dubious distinction of becoming the first being Jabba fed to his pet rancor." Source: *Secrets of Tatooine* (SWRPG d20), scan p.35
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.35 — full quote as printed](quotes/d045-s35-the-first-was-naroon-cuthus-who.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:196`
 
 > (Ultimately, Ephant Mon earned Jabba's scorn because of his respect for the Jedi powers of Luke Skywalker — but that respect also enabled him to outlive Jabba.)
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Ephant Mon; Jabba the Hutt; Luke Skywalker — entry/section: Jabba the Hutt: "(Ultimately, Ephant Mon earned Jabba's scorn because of his respect for the Jedi powers of Luke Skywalker — but that respect also enabled him to outlive Jabba.)" Source: *Secrets of Tatooine* (SWRPG d20), scan p.35
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.35 — full quote as printed](quotes/d045-s35-ultimately-ephant-mon-earned-jabbas-scorn.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:198`
 
 > Jabba planned to execute them, but they had prepared for such a contingency, and instead killed Jabba. This of course delighted Bib Fortuna, who had been preparing to assassinate Jabba himself anyway. But when he returned to the palace to seize his prize, he discovered that the B'omarr monks had concealed their own plans from him. Bib Fortuna soon found himself a disembodied brain floating in a containment sphere amid the most enlightened minds of the B'omarr.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt; Han Solo — entry/section: Bib Fortuna: "Jabba planned to execute them, but they had prepared for such a contingency, and instead killed Jabba. This of course delighted Bib Fortuna, who had been preparing to assassinate Jabba himself anyway. But when he returned to the palace to seize his prize, he discovered that the B'omarr monks had concealed their own plans from him. Bib Fortuna soon found himself a disembodied brain floating in a containment sphere amid the most enlightened minds of the B'omarr." Source: *Secrets of Tatooine* (SWRPG d20), scan p.36
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.36 — full quote as printed](quotes/d045-s36-jabba-planned-to-execute-them-but.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:209`
 
 > Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Gardulla the Hutt; Jabba the Hutt; Shmi Skywalker; Darth Vader (Anakin Skywalker); Sebulba — entry/section: Gardulla the Hutt: "Gambling on the Podraces gradually drained away Gardulla's fortunes, and she found herself giving up various luxuries, such as slaves (including Shmi Skywalker and her infant son Anakin) on unlucky bets. Jabba tricked her into backing a Xexto pilot named Gasgano and betting heavily on him. Jabba already knew (by virtue of his astromech droid's oddsfiguring skills) that Gasgano could never beat Sebulba—Jabba's favorite." Source: *Secrets of Tatooine* (SWRPG d20), scan p.37
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.37 — full quote as printed](quotes/d045-s37-gambling-on-the-podraces-gradually-drained.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:220`
 
 - Note (summary from our notes, not a quotation): Page contents: Rebellion era: governor Tour Aryon keeps Tatooine from the Emperor's notice and quietly removes Jabba's rivals; "Lady" Valarian the Whiphid runs the Lucky Despot (hand-read)
@@ -282,26 +255,22 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > She finally reached agreements with Jabba in which she paid him an exorbitant sum to leave him in peace and promised not to try to extend her criminal operations farther than the spaceport. Officially, they both honor their side of the bargain—but the truce between them is a shaky one. Each is constantly testing the other's defenses, seeking a way to eliminate the competition once and for all.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Lady Valarian; Jabba the Hutt — entry/section: Lady Valarian.
 Note (our notes, around the quote): Lady Valarian; Jabba the Hutt — entry/section: Lady Valarian: "She finally reached agreements with Jabba in which she paid him an exorbitant sum to leave him in peace and promised not to try to extend her criminal operations farther than the spaceport. Officially, they both honor their side of the bargain—but the truce between them is a shaky one. Each is constantly testing the other's defenses, seeking a way to eliminate the competition once and for all." Source: *Secrets of Tatooine* (SWRPG d20), scan p.49
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.49 — full quote as printed](quotes/d045-s49-she-finally-reached-agreements-with-jabba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:296`
 
 > warrior of the huge bounty on Han Solo's head. Predictably, D'Wopp decided to set out at once to collect the prize. Valarian objected—violently—to her new mate's poor timing (and choice of patrons), and in the ensuing argument, she killed her own newlywed husband.
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Lady Valarian; Han Solo; Jabba the Hutt — entry/section: Lady Valarian: "warrior of the huge bounty on Han Solo's head. Predictably, D'Wopp decided to set out at once to collect the prize. Valarian objected—violently—to her new mate's poor timing (and choice of patrons), and in the ensuing argument, she killed her own newlywed husband." Source: *Secrets of Tatooine* (SWRPG d20), scan p.50
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.50 — full quote as printed](quotes/d045-s50-warrior-of-the-huge-bounty-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:303`
 
 > With Jabba's own death just before the Battle of Endor, Valarian finally had her chance to seize Jabba's empire. Assuming that all Jabba's lieutenants had been killed aboard his sail barge—there certainly wasn't any news coming out of Jabba's palace—Valarian quickly took over Jabba's operations in and around Mos Eisley and began extending her reach into Tatooine's other cities as well. Of course, without Jabba around to call the shots, most of the Hutt's smuggler contacts drifted to other patrons, notably the elusive Talon Karrde.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Lady Valarian; Jabba the Hutt; Talon Karrde — entry/section: Lady Valarian: "With Jabba's own death just before the Battle of Endor, Valarian finally had her chance to seize Jabba's empire. Assuming that all Jabba's lieutenants had been killed aboard his sail barge—there certainly wasn't any news coming out of Jabba's palace—Valarian quickly took over Jabba's operations in and around Mos Eisley and began extending her reach into Tatooine's other cities as well. Of course, without Jabba around to call the shots, most of the Hutt's smuggler contacts drifted to other patrons, notably the elusive Talon Karrde." Source: *Secrets of Tatooine* (SWRPG d20), scan p.50
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.50 — full quote as printed](quotes/d045-s50-with-jabbas-own-death-just-before.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:305`
 
 > When Jabba smeared meat all over the assassin droid and threw it to his rancor, all that was left was twisted scraps of metal and broken gears. Lady Valarian rescued the scrap and paid to have it rebuilt and reprogrammed—all because she knew it would spoil Jabba's fun.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt; Lady Valarian — entry/section: Eefive-Tootoo.
 Note (our notes, around the quote): Jabba the Hutt; Lady Valarian — entry/section: Eefive-Tootoo: "When Jabba smeared meat all over the assassin droid and threw it to his rancor, all that was left was twisted scraps of metal and broken gears. Lady Valarian rescued the scrap and paid to have it rebuilt and reprogrammed—all because she knew it would spoil Jabba's fun." Source: *Secrets of Tatooine* (SWRPG d20), scan p.50
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.50 — full quote as printed](quotes/d045-s50-when-jabba-smeared-meat-all-over.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:307`
 
 - Note (summary from our notes, not a quotation): Page contents: Ortugg Gamorrean captain Thug 4 (vibro-ax +9, 2d10+4); Tessek Quarren accountant skimming Jabba's money; Zutton "Snaggletooth" Scout 3/Soldier 3 VP/WP 55/14 paints his targets (hand-read)
@@ -311,7 +280,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > While unswervingly loyal to Jabba, Ephant Mon is hardly an exemplary individual. Throughout his long life, he has been a mercenary, a slaver, and has even tangled with the Jedi—once actually kidnapping the daughter of Cerean Jedi Master Ki-Adi-Mundi. The Chevin has survived for so long largely by betraying his business associates faster than they can betray him.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Ephant Mon; Ki-Adi-Mundi — entry/section: Ephant Mon.
 Note (our notes, around the quote): Ephant Mon; Ki-Adi-Mundi — entry/section: Ephant Mon: "While unswervingly loyal to Jabba, Ephant Mon is hardly an exemplary individual. Throughout his long life, he has been a mercenary, a slaver, and has even tangled with the Jedi—once actually kidnapping the daughter of Cerean Jedi Master Ki-Adi-Mundi. The Chevin has survived for so long largely by betraying his business associates faster than they can betray him." Source: *Secrets of Tatooine* (SWRPG d20), scan p.51
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.51 — full quote as printed](quotes/d045-s51-while-unswervingly-loyal-to-jabba-ephant.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:318`
 
 - Note (summary from our notes, not a quotation): Page contents: 431 words, 24 paragraphs | headings/entries: Jabba's Palsce; JABBA'S THRONE ROOM >; S SSR SS; SCALE IN METERS
@@ -321,37 +289,31 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Like every resident before him, Jabba arrogantly believes that the monks are merely pacifistic scholars who suffer the series of occupations as only the weak truly can. Little does he know that the monks are planning to one day remove his brain and make him one of them.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt — entry/section: Jabba's Palace.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Jabba's Palace: "Like every resident before him, Jabba arrogantly believes that the monks are merely pacifistic scholars who suffer the series of occupations as only the weak truly can. Little does he know that the monks are planning to one day remove his brain and make him one of them." Source: *Secrets of Tatooine* (SWRPG d20), scan p.53
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.53 — full quote as printed](quotes/d045-s53-like-every-resident-before-him-jabba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:334`
 
 > The bounty was finally claimed by the infamous bounty hunter Boba Fett, who managed to increase the sum even further by suggesting that Han Solo (now frozen in carbonite) could be considered not just a bounty, but a piece of artwork—created by none other than the Dark Lord of the Sith, Darth Vader. Amused at the notion, Jabba paid Boba Fett 250,000 credits for Solo.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Han Solo; Jabba the Hutt; Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Jabba the Hutt: "The bounty was finally claimed by the infamous bounty hunter Boba Fett, who managed to increase the sum even further by suggesting that Han Solo (now frozen in carbonite) could be considered not just a bounty, but a piece of artwork—created by none other than the Dark Lord of the Sith, Darth Vader. Amused at the notion, Jabba paid Boba Fett 250,000 credits for Solo." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-the-bounty-was-finally-claimed-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:346`
 
 > Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. Infuriated, Jabba attempted to execute Skywalker, Solo, and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc. But Solo's companions turned the tables on Jabba. The sluglike crime lord died aboard his sail barge over the Great Pit of Carkoon, strangled to death by Leia Organa.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba the Hutt; Leia Organa Solo; Luke Skywalker; Han Solo; Chewbacca; Jabba's Rancor — entry/section: Jabba the Hutt: "Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. Infuriated, Jabba attempted to execute Skywalker, Solo, and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc. But Solo's companions turned the tables on Jabba. The sluglike crime lord died aboard his sail barge over the Great Pit of Carkoon, strangled to death by Leia Organa." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-han-solos-friends-including-the-newly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:348`
 
 > Jabba rewarded Bib Fortuna by making him his majordomo—and rewarded Bidlo Kwerve by making him the rancor's first meal. Jabba's rancor is actually somewhat small for its species; it has been in captivity for so long that it hasn't completely matured physically.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Jabba's Rancor; Bib Fortuna; Jabba the Hutt — entry/section: The Rancor: "Jabba rewarded Bib Fortuna by making him his majordomo—and rewarded Bidlo Kwerve by making him the rancor's first meal. Jabba's rancor is actually somewhat small for its species; it has been in captivity for so long that it hasn't completely matured physically." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-jabba-rewarded-bib-fortuna-by-making.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:350`
 
 > Crumb's job as jester is to make Jabba laugh at least once each day—or be eaten (either by the rancor, or Jabba himself). He has managed to survive years at Jabba's side, and everyone in Jabba's employ hates him, so he has plainly done his job well. (There are as many plots to kill Salacious Crumb as there are to kill Jabba himself.)
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Salacious Crumb; Jabba the Hutt — entry/section: Salacious Crumb.
 Note (our notes, around the quote): Salacious Crumb; Jabba the Hutt — entry/section: Salacious Crumb: "Crumb's job as jester is to make Jabba laugh at least once each day—or be eaten (either by the rancor, or Jabba himself). He has managed to survive years at Jabba's side, and everyone in Jabba's employ hates him, so he has plainly done his job well. (There are as many plots to kill Salacious Crumb as there are to kill Jabba himself.)" Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-crumbs-job-as-jester-is-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:352`
 
 > Keeping Solo brought about Jabba's death, Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. infuriated, Jabba attempted to execute Skywalker, Solo, -and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Han Solo; Luke Skywalker; Chewbacca.
 Note (our notes, around the quote): Han Solo; Luke Skywalker; Chewbacca: "Keeping Solo brought about Jabba's death, Han Solo's friends-including the newly trained Jedi Knight, Luke Skywalker—attempted a rescue, but earned Jabba's wrath when they not only freed Han from the carbonite, but killed his pet rancor. infuriated, Jabba attempted to execute Skywalker, Solo, -and Solo's copilot, the Wookiee Chewbacca, by feeding them to the Sarlacc." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-keeping-solo-brought-about-jabbas-death.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:354`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–95)
@@ -359,7 +321,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Unfortunately for him, in a moment of weakness Olan found himself at the mercy of Bib Fortuna. Now, with the aid of the B'omarr monks, the Twi'leks have traded places, and it is Bib Fortuna who rules the monastery while Firith Olan is forced to watch from a transparent globe jar. Meanwhile, Bib Fortuna has not only his own funds and Jabba's mountain of treasure, but Firith Olan's accounts—as well as Olan's face, voice, eyes, fingerprints, and cell structure, for purposes of identification.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna — entry/section: Bib Fortuna Returns.
 Note (our notes, around the quote): Bib Fortuna — entry/section: Bib Fortuna Returns: "Unfortunately for him, in a moment of weakness Olan found himself at the mercy of Bib Fortuna. Now, with the aid of the B'omarr monks, the Twi'leks have traded places, and it is Bib Fortuna who rules the monastery while Firith Olan is forced to watch from a transparent globe jar. Meanwhile, Bib Fortuna has not only his own funds and Jabba's mountain of treasure, but Firith Olan's accounts—as well as Olan's face, voice, eyes, fingerprints, and cell structure, for purposes of identification." Source: *Secrets of Tatooine* (SWRPG d20), scan p.62
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.62 — full quote as printed](quotes/d045-s62-unfortunately-for-him-in-a-moment.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:17`
 
 - Note (summary from our notes, not a quotation): Page contents: Adventure Between Sand and Sky: Devaronian crime lord Ranon Djelkh at war with Jabba plots to kill him with a mole serpent lured by tirginni cologne; enforcer Oggun Bantha-Horn; smuggler Harbo Wiis (hand-read)
@@ -369,13 +330,11 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-0
 > If they advertise on Tatooine that they have it, they receive a visit from a Twi'lek named Bib Fortuna, who asks where they got it. If they tell him, Fortuna asserts that the cologne belongs to his master—Jabba the Hutt. Jabba purchased it from Harbo Wiis, but the smuggler turned up dead without the cologne, and Jabba has been searching for it ever since.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Bib Fortuna; Jabba the Hutt — entry/section: Epilogue.
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt — entry/section: Epilogue: "If they advertise on Tatooine that they have it, they receive a visit from a Twi'lek named Bib Fortuna, who asks where they got it. If they tell him, Fortuna asserts that the cologne belongs to his master—Jabba the Hutt. Jabba purchased it from Harbo Wiis, but the smuggler turned up dead without the cologne, and Jabba has been searching for it ever since." Source: *Secrets of Tatooine* (SWRPG d20), scan p.91
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.91 — full quote as printed](quotes/d045-s91-if-they-advertise-on-tatooine-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:174`
 
 > He moved his way up the underworld food chain, trafficking in whatever the black market wanted, until he finally hit his ceiling: Jabba the Hutt. Jabba had previously ignored Ranon, but when the Devaronian finally came to his attention, Jabba offered him a job. Ranon was infuriated—he wasn't going to settle for a position as a Hutt's minion!
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Jabba the Hutt — entry/section: Ranon Djelkh.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Ranon Djelkh: "He moved his way up the underworld food chain, trafficking in whatever the black market wanted, until he finally hit his ceiling: Jabba the Hutt. Jabba had previously ignored Ranon, but when the Devaronian finally came to his attention, Jabba offered him a job. Ranon was infuriated—he wasn't going to settle for a position as a Hutt's minion!" Source: *Secrets of Tatooine* (SWRPG d20), scan p.92
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.92 — full quote as printed](quotes/d045-s92-he-moved-his-way-up-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-095.md:181`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 241–300)
@@ -383,7 +342,6 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-061-0
 > Chewbacca has remained Han's friend through countless adventures, helping to rescue him from the clutches of the gangster Jabba the Hutt, facing the three-eyed Trioculus, recruiting the smuggler Talon Karrde and the assassin Mara Jade to fight Grand Admiral Thrawn, destroying the Wayland weapons and cloning facilities, and even helping to raise Han's children.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Chewbacca; Mara Jade Skywalker; Grand Admiral Thrawn.
 Note (our notes, around the quote): Chewbacca; Mara Jade Skywalker; Grand Admiral Thrawn: "Chewbacca has remained Han's friend through countless adventures, helping to rescue him from the clutches of the gangster Jabba the Hutt, facing the three-eyed Trioculus, recruiting the smuggler Talon Karrde and the assassin Mara Jade to fight Grand Admiral Thrawn, destroying the Wayland weapons and cloning facilities, and even helping to raise Han's children." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243 — full quote as printed](quotes/d046-s243-chewbacca-has-remained-hans-friend-through.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:46`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–100)
@@ -392,19 +350,16 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Dannik Jerriko; Jabba the Hutt — entry/section: Anzati: Dannik Jerriko.
 Note (our notes, around the quote): Dannik Jerriko; Jabba the Hutt — entry/section: Anzati: Dannik Jerriko: "Jabba the Hutt first attracted the meticulous Jerriko in Hutt Space, where the Anzat was able to dispose of a certain trouble some Force wizard without attracting undue attention, either to" Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-jabba-the-hutt-first-attracted-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:119`
 
 > In a confusing flurry of events, the young Skywalker returned—almost as seasoned as his old master, Kenobi, had been—killed Jabba's rancor, and was taken out to the Great Pit of Carkoon, where he somehow man aged to kill Jabba.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Dannik Jerriko; Luke Skywalker — entry/section: Anzati: Dannik Jerriko.
 Note (our notes, around the quote): Dannik Jerriko; Luke Skywalker — entry/section: Anzati: Dannik Jerriko: "In a confusing flurry of events, the young Skywalker returned—almost as seasoned as his old master, Kenobi, had been—killed Jabba's rancor, and was taken out to the Great Pit of Carkoon, where he somehow man aged to kill Jabba." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-in-a-confusing-flurry-of-events.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:123`
 
 > But someone—a Human female, vaguely reminiscent of the young Skywalker—beat him to it, and Solo was placed under heavy guard, In a confusing flurry of events, the young Skywalker returned—almost as seasoned as his old master, Kenobi, had been—killed Jabba's rancor, and was taken out to the Great Pit of Carkoon, where he somehow man aged to kill Jabba.
 — Source: Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20,; Obi-Wan Kenobi. POV: Obi-Wan Kenobi, about Jabba the Hutt.
 Note (our notes, around the quote): Obi-Wan Kenobi: "But someone—a Human female, vaguely reminiscent of the young Skywalker—beat him to it, and Solo was placed under heavy guard, In a confusing flurry of events, the young Skywalker returned—almost as seasoned as his old master, Kenobi, had been—killed Jabba's rancor, and was taken out to the Great Pit of Carkoon, where he somehow man aged to kill Jabba." Source: *Star Wars Gamer 01* (SWRPG d20), scan p.82
-![Quote image: *Star Wars Gamer 01* (SWRPG d20), scan p.82 — full quote as printed](quotes/d050-s82-but-someone-a-human-female-vaguely.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-100.md:125`
 
 - Note (summary from our notes, not a quotation): Page contents: Demolition: Jabba's illegal vehicular combat tournament between ESB and ROTJ; Boba Fett reigning champion; Lando as Tamtel Skreej; Malakili rides the rancor (hand-read)
@@ -455,19 +410,16 @@ Our notes: `notes/materials/037-sw-d20-folder/084-aruk-and-jiliac.md:10`
 
 - Note (summary from our notes, not a quotation): Jabba the Hutt — entry/section: Family feud, Hutt style: "Time to play the family feud, Hutt style. In this salivating installment of "Hutt! Hutt! Hutt!" we'll take a look at two bitter enemies whose ongoing competition will leave both in the cold, cold ground -- and Jabba the Hutt the most powerful gangster in the galaxy." Source: *Aruk and Jiliac* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Hutts/Aruk and Jiliac.pdf [Star Wars Roleplaying Game Revised.
-![Quote image: *Aruk and Jiliac* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d084-s1-time-to-play-the-family-feud.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/084-aruk-and-jiliac.md:12`
 
 > Besadii's main competition, the Desilijic clan led by Jiliac and his offspring Jabba, are unable to make inroads at Ylesia with Aruk in charge. The Desilijic solution? Poison.
 — Source: Characters/Hutts/Aruk and Jiliac.pdf [Star Wars Roleplaying Game Revised; Jabba the Hutt — entry/section: The Desilijic solution: poison.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: The Desilijic solution: poison: "Besadii's main competition, the Desilijic clan led by Jiliac and his offspring Jabba, are unable to make inroads at Ylesia with Aruk in charge. The Desilijic solution? Poison." Source: *Aruk and Jiliac* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Aruk and Jiliac* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d084-s1-besadiis-main-competition-the-desilijic-clan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/084-aruk-and-jiliac.md:14`
 
 > Jiliac's oldest, Jabba, never lets family get in the way of ambition.
 — Source: Characters/Hutts/Aruk and Jiliac.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Jabba never lets family get in the way: "Jiliac's oldest, Jabba, never lets family get in the way of ambition." Source: *Aruk and Jiliac* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Aruk and Jiliac* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d084-s1-jiliacs-oldest-jabba-never-lets-family.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/084-aruk-and-jiliac.md:16`
 
 ## Characters/Hutts/Groodo and Ka'Pa.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -475,7 +427,6 @@ Our notes: `notes/materials/037-sw-d20-folder/084-aruk-and-jiliac.md:16`
 > He was one of the only Hutts to do regular business with the New Republic after Jabba's death despite that organization's political elevation of his murderer, Leia Organa.
 — Source: Characters/Hutts/Groodo and Ka'Pa.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Leia Organa Solo; Jabba the Hutt — entry/section: Ka'Pa deals with the New Republic despite Leia: "He was one of the only Hutts to do regular business with the New Republic after Jabba's death despite that organization's political elevation of his murderer, Leia Organa." Source: *Groodo and Ka'Pa* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Groodo and Ka'Pa* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d086-s2-he-was-one-of-the-only.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/086-groodo-and-kapa.md:25`
 
 ## Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -487,7 +438,6 @@ Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:10`
 > This month, a pair of big slugs with blood ties to the mighty (and mighty infamous) Jabba Desilijic Tiure -- the Tatooine kingpin's jailbird pop Zorba and his ambitious nephew Gorga. Neither one was quite the legend Jabba was, but then, Jabba was one of the most powerful Hutts ever to lick a dancing girl.
 — Source: Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revise.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Jabba, one of the most powerful Hutts: "This month, a pair of big slugs with blood ties to the mighty (and mighty infamous) Jabba Desilijic Tiure -- the Tatooine kingpin's jailbird pop Zorba and his ambitious nephew Gorga. Neither one was quite the legend Jabba was, but then, Jabba was one of the most powerful Hutts ever to lick a dancing girl." Source: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d087-s1-this-month-a-pair-of-big.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:12`
 
 - Note (summary from our notes, not a quotation): Jabba the Hutt — entry/section: Jabba takes control of the Desilijic clan: "Jabba, of course, did far better than his father ever anticipated. The younger Hutt undertook a series of shrewd
@@ -503,12 +453,10 @@ Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:10`
 > Lando went up against Quaffug the Hutt, on the other hand, alone, and on two separate occasions -- once not long before the hunt for the Vassilika, and another time just before the rescue of Han Solo from Jabba's clutches.
 — Source: Characters/Hutts/Malta and Quaffug.pdf [Star Wars Roleplaying Game Revise.
 Note (our notes, around the quote): Lando Calrissian; Han Solo; Jabba the Hutt — entry/section: Lando vs Quaffug twice: "Lando went up against Quaffug the Hutt, on the other hand, alone, and on two separate occasions -- once not long before the hunt for the Vassilika, and another time just before the rescue of Han Solo from Jabba's clutches." Source: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d088-s1-lando-went-up-against-quaffug-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:14`
 
 - Note (summary from our notes, not a quotation): Jabba the Hutt — entry/section: Malta, Jabba's 'friend': "Malta the Hutt is one of many sycophants that, had they both been members of a different species, would have been called Jabba's friend. But few Hutts have "friends" per se, and Malta learned that old saw anew when he entered a betting competition with Jabba and Embra, another Hutt hanger-on. Though Malta, as one might expect, attempted to ensure he would win the bet by cheating, he failed spectacularly." Source: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1
   — Source: Characters/Hutts/Malta and Quaffug.pdf [Star Wars Roleplaying Game Revise.
-![Quote image: *Malta and Quaffug* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d088-s1-malta-the-hutt-is-one-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:16`
 
 ## Characters/Miniatures/Bounty Hunters Preview 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -518,13 +466,11 @@ Our notes: `notes/materials/037-sw-d20-folder/088-malta-and-quaffug.md:16`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 6 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_6_pdf_715ac16dd3`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 6 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_6_pdf_715ac16dd3`).)
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt — entry/section: Bib Fortuna's rise in Jabba's service: "Bib Fortuna was Jabba the Hutt's scheming major-domo, a manipulative advisor with grand plans to take over the Hutt's criminal empire. Fortuna started out as a ryll smuggler on his homeworld of Ryloth. He was arrested, but he escaped to Tatooine where he and his associate Bidlo Kwerve ran spice runs for Jabba. However, Fortuna had bigger plans, which he put in motion by becoming a slaver for the Hutt. Jabba was impressed enough to make him an advisor." Source: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d098-s2-bib-fortuna-was-jabba-the-hutts.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/098-bounty-hunters-preview-6.md:21`
 
 > Fortuna quickly did away with his rivals within the criminal organization, becoming majordomo and caretaker of day-to-day operations. Unfortunately for the Twi'lek, his plans to eliminate Jabba and take full control fell apart, ironically enough, because of Jabba's death. The B'omarr monks that had agreed to help Fortuna captured him instead. He was doomed to become a disembodied brain among the B'omarr until an ally named Firth Olan provided Fortuna with a replacement body.
 — Source: Characters/Miniatures/Bounty Hunters Preview 6.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Bib Fortuna; Jabba the Hutt — entry/section: Bib Fortuna's fall to the B'omarr monks: "Fortuna quickly did away with his rivals within the criminal organization, becoming majordomo and caretaker of day-to-day operations. Unfortunately for the Twi'lek, his plans to eliminate Jabba and take full control fell apart, ironically enough, because of Jabba's death. The B'omarr monks that had agreed to help Fortuna captured him instead. He was doomed to become a disembodied brain among the B'omarr until an ally named Firth Olan provided Fortuna with a replacement body." Source: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Bounty Hunters Preview 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d098-s2-fortuna-quickly-did-away-with-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/098-bounty-hunters-preview-6.md:23`
 
 ## Characters/Miniatures/Bounty Hunters Preview 7.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -532,7 +478,6 @@ Our notes: `notes/materials/037-sw-d20-folder/098-bounty-hunters-preview-6.md:23
 > Formerly a smuggler, currently a Rebel, and always a scoundrel, this miniature represents Han Solo around the time of the Battle of Hoth and his capture on Bespin. He's more capable than he was the day he signed on to take an old man, a farm boy, and two droids to Alderaan, but he's not yet the leader he'll become when he takes command of a team sent to destroy the shield bunker on Endor. Despite having worked with the Rebel Alliance for years, a recent run-in with a bounty hunter on Ord Mantell reminded Han of his former career -- and his staggering debt to Jabba the Hutt.
 — Source: Characters/Miniatures/Bounty Hunters Preview 7.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Han Solo; Jabba the Hutt — entry/section: Han Solo between Alderaan and Endor: "Formerly a smuggler, currently a Rebel, and always a scoundrel, this miniature represents Han Solo around the time of the Battle of Hoth and his capture on Bespin. He's more capable than he was the day he signed on to take an old man, a farm boy, and two droids to Alderaan, but he's not yet the leader he'll become when he takes command of a team sent to destroy the shield bunker on Endor. Despite having worked with the Rebel Alliance for years, a recent run-in with a bounty hunter on Ord Mantell reminded Han of his former career -- and his staggering debt to Jabba the Hutt." Source: *Bounty Hunters Preview 7* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 7* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d099-s1-formerly-a-smuggler-currently-a-rebel.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/099-bounty-hunters-preview-7.md:12`
 
 ## Characters/Miniatures/Fringe Benefits.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -546,7 +491,6 @@ Our notes: `notes/materials/037-sw-d20-folder/107-fringe-benefits.md:15`
 > One of the most surprising bounty hunters is the protocol droid 4-LOM. After becoming independent, 4-LOM explored the galaxy as an unusual broker of information. He eventually found employment from Jabba the Hutt. The crime lord saw promise in 4-LOM as a bounty hunter, so he upgraded the droid and introduced him to his partner Zuckuss.
 — Source: Characters/Miniatures/We Don't Need That Scum.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): 4-LOM; Jabba the Hutt; Zuckuss — entry/section: 4-LOM becomes a bounty hunter: "One of the most surprising bounty hunters is the protocol droid 4-LOM. After becoming independent, 4-LOM explored the galaxy as an unusual broker of information. He eventually found employment from Jabba the Hutt. The crime lord saw promise in 4-LOM as a bounty hunter, so he upgraded the droid and introduced him to his partner Zuckuss." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d115-s1-one-of-the-most-surprising-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:12`
 
 > Equipment: Customized blaster rifle (+1 to hit, –1 damage), Relby­v10 micro grenade launcher (see below), 10 stun grenades, customized padded flight suit (–1 armor check penalty), binders, modified YV­666 light freighter (Hound's Tooth). Skills: Astrogate +4, Computer Use +3, Gather Information +5, Hide +5, Intimidate +5, Knowledge (alien species) +3, Knowledge (streetwise) +3, Knowledge (Trandosha) +5, Move Silently +7, Pilot +7, Read/Write Basic, Read/Write Dosh, Search +3, Speak Basic, Speak Dosh, Speak Shyriiwook (understand only), Spot +2, Survival +3, Swim +4. Feats: Armor Proficiency (light, medium), Dodge, Point Blank Shot, Starship Operations (space transports), Track, Weapon Focus (blaster rifles), Weapon Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons). Dengar Ever since he was involved in a swoop accident with a young Han Solo, Dengar's life has been fueled by a desire for revenge. After the accident, his body was rebuilt by the Empire and he became a cold­hearted assassin only having the feelings of anger and revenge. He eventually left this career and became a bounty hunter often used by Jabba the Hutt. This version of Dengar is from the early days of his bounty hunter career. He has not yet acquired the riot gun that he is seen wielding in The Empire Strikes Back. An alternate version of Dengar can be found in issue #6 of Star Wars Gamer magazine.
@@ -554,7 +498,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:12`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Dengar; Han Solo; Jabba the Hutt — entry/section: Dengar's revenge: "Ever since he was involved in a swoop accident with a young Han Solo, Dengar's life has been fueled by a desire for revenge. After the accident, his body was rebuilt by the Empire and he became a cold-hearted assassin only having the feelings of anger and revenge. He eventually left this career and became a bounty hunter often used by Jabba the Hutt." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d115-s2-ever-since-he-was-involved-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:28`
 
 > Equipment: Padded battle armor, Valken­38 blaster carbine, binder cuffs, blaster pistol, utility belt, modified Corellion JumpMaster 5000 (Punishing One). Skills: Astrogate +4, Bluff +5, Computer Use +6, Demolitions +6, Gather Information +6, Hide +7, Intimidate +6, Knowledge (streetwise) +6, Listen +5, Move Silently +8, Pilot +12, Profession (bounty hunter) +4, Profession (gambler) +4, Read/Write Basic, Repair +3, Speak Basic, Speak Huttese, Spot +5, Survival +23 Treat Injury +2. Feats: Armor Proficiency (light, medium), Point Blank Shot, Precise Shot, Skill Emphasis (pilot), Starship Operations (starfighter), Track, Weapon Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons). Greedo Greedo spent his adolescent years living in a seedy spaceport on Nar Shaddaa. It was there that he was brought into a life of crime that eventually led to employment by Jabba the Hutt. Greedo had the potential for being a dangerous bounty hunter, but he made the fatal mistake of underestimating one of his first targets: the smuggler known as Han Solo. Greedo: Male Rodian Scoundrel 4; Init +2 (+2 Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 19/11; Atk +4 melee (1d4+1, knife) or +6 ranged (3d8+2 or DC 18 stun, heavy blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +1; SZ M; FP 0; DSP 1; Rep +1; Str 13, Dex 14, Con 11, Int 12, Wis 8, Cha 9. Challenge Code C.
@@ -563,7 +506,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:28`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Full sentence/passage taken from the source text on file: `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf`.)
 Note (our notes, around the quote): Greedo; Jabba the Hutt; Han Solo — entry/section: Greedo's fatal mistake (part 1 of 2, continues next page): "Greedo spent his adolescent years living in a seedy spaceport on Nar Shaddaa. It was there that he was brought into a life of crime that eventually led to employment by Jabba the Hutt. Greedo had the potential for being a" Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d115-s2-greedo-spent-his-adolescent-years-living.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:30`
 
 > Skills: Astrogate +4, Bluff +5, Computer Use +6, Demolitions +6, Gather Information +6, Hide +7, Intimidate +6, Knowledge (streetwise) +6, Listen +5, Move Silently +8, Pilot +12, Profession (bounty hunter) +4, Profession (gambler) +4, Read/Write Basic, Repair +3, Speak Basic, Speak Huttese, Spot +5, Survival +23 Treat Injury +2. Feats: Armor Proficiency (light, medium), Point Blank Shot, Precise Shot, Skill Emphasis (pilot), Starship Operations (starfighter), Track, Weapon Group Proficiency (blaster pistols, blaster rifles, heavy weapons, simple weapons, vibro weapons). Greedo Greedo spent his adolescent years living in a seedy spaceport on Nar Shaddaa. It was there that he was brought into a life of crime that eventually led to employment by Jabba the Hutt. Greedo had the potential for being a dangerous bounty hunter, but he made the fatal mistake of underestimating one of his first targets: the smuggler known as Han Solo. Greedo: Male Rodian Scoundrel 4; Init +2 (+2 Dex); Defense 15 (+3 class, +2 Dex); Spd 10 m; VP/WP 19/11; Atk +4 melee (1d4+1, knife) or +6 ranged (3d8+2 or DC 18 stun, heavy blaster pistol); SQ Illicit barter, lucky (1/day), precise attack +1; SV Fort +1, Ref +6, Will +1; SZ M; FP 0; DSP 1; Rep +1; Str 13, Dex 14, Con 11, Int 12, Wis 8, Cha 9. Challenge Code C.
@@ -572,7 +514,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Full sentence/passage taken from the source text on file: `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf`.)
 Note (our notes, around the quote): Greedo; Jabba the Hutt; Han Solo — entry/section: Greedo's fatal mistake (part 2 of 2, continued from previous page): "dangerous bounty hunter, but he made the fatal mistake of underestimating one of his first targets: the smuggler known as Han Solo." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d115-s3-dangerous-bounty-hunter-but-he-made.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:42`
 
 ## Jedi Counselling/Jedi Counseling 30 - Cross Breeding.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -583,7 +524,6 @@ Our notes: `notes/materials/037-sw-d20-folder/195-jedi-counseling-30-cross-breed
 
 - Note (summary from our notes, not a quotation): That said, there has been at least one cross-breed in Star Wars: Rystall, the redhaired dancer in Jabba's Palace in Return of the Jedi. She's described as the half-breed product of a union between a Human father and an alien mother. So it's possible for some species to interbreed, but it seems unlikely that there are half-Human/half-Twi'lek characters, or we'd have seen some evidence of them in the Star Wars universe by now. Unlikely, but not impossible -- it is, after all, your campaign." Source: *Jedi Counseling 30 - Cross Breeding* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 30 - Cross Breeding.pdf [Star Wars Rolep.
-![Quote image: *Jedi Counseling 30 - Cross Breeding* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d195-s1-a-technically-its-not-possible-for.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/195-jedi-counseling-30-cross-breeding.md:13`
 
 ## Jedi Counselling/Jedi Counseling 47 - Clone Cost.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -609,7 +549,6 @@ Our notes: `notes/materials/037-sw-d20-folder/219-jedi-counseling-52-zap.md:20`
 > A: You build a 100-point squad, look at your opponent, and then add 30 points of Fringe characters. Yes, this does give you a total of 130 points of characters, but you do not score any points for defeating any of these extra 30 points of characters. (They are built into Jabba the Hutt's point value -- by himself, he definitely isn't worth 50 points!)
 — Source: Jedi Counselling/Jedi Counseling 52 - Zap!.pdf [Star Wars Roleplaying Gam; Jabba the Hutt — entry/section: Jabba's Fringe Reinforcements.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Jabba's Fringe Reinforcements: "A: You build a 100-point squad, look at your opponent, and then add 30 points of Fringe characters. Yes, this does give you a total of 130 points of characters, but you do not score any points for defeating any of these extra 30 points of characters. (They are built into Jabba the Hutt's point value -- by himself, he definitely isn't worth 50 points!)" Source: *Jedi Counseling 52 - Zap!* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Jedi Counseling 52 - Zap!* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d219-s2-a-you-build-a-100-point.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/219-jedi-counseling-52-zap.md:22`
 
 ## Jedi Counselling/Jedi Counseling 72.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -625,7 +564,6 @@ Our notes: `notes/materials/037-sw-d20-folder/241-jedi-counseling-72.md:30`
 - Note (summary from our notes, not a quotation): A: Yes, Jabba the Hutt (or any Large-size character, for that matter) can indeed use the speeder bike tile. And yes, it may seem a little silly. But if you imagine that speeder bikes have adjustable seats -- very adjustable, with entire foldout platforms to hold up Jabba's massive frame -- it's not quite so ridiculous. After all, the speeder bike manufacturers don't only sell to Humans, right? They should have plenty of leeway for adjustable seating and controls; otherwise, that would be a big market to lose!
   — Source: Jedi Counselling/Jedi Counseling 72.pdf [Star Wars Roleplaying Game Revis.
 (In any event, Jabba on a speeder bike isn't that impressive. His speed doesn't increase, after all, so perhaps the speeder's engine is spending so much power staying aloft that it can't devote much to thrust!" Source: *Jedi Counseling 72* (SWRPG d20 Revised Core), scan p.2)
-![Quote image: *Jedi Counseling 72* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d241-s2-q-i-have-a-question-about.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/241-jedi-counseling-72.md:31`
 
 ## Jedi Counselling/Jedi Counseling 77.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -647,7 +585,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:42`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 515 EndTimes The Eye (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_515_EndTimes_The_Eye_pdf_eb445617f0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Star Wars Roleplaying Game Revised Core Living Force Campaign Adventures Among the Stars Year 5 515 EndTimes The Eye (text copy `Star_Wars_Roleplaying_Game_Revised_Core_Living_Force_Campaign_Adventures_Among_the_Stars_Year_5_515_EndTimes_The_Eye_pdf_eb445617f0`).)
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Encounter 3: "This is the kind of fight where Force points can be come and go faster than dancing girls at Jabba's palace." Source: *515 - EndTimes - The Eye* (SWRPG d20 Revised Core), p.11
-![Quote image: *515 - EndTimes - The Eye* (SWRPG d20 Revised Core), p.11 — full quote as printed](quotes/d353-p11-this-is-the-kind-of-fight.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/353-515-endtimes-the-eye.md:142`
 
 ## Living Force Campaign/Articles/Year 4/05:06:04 - Swoop and Dive.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -669,7 +606,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > Much of Han Solo’s motivation during Star Wars: A New Hope focuses on accumulating credits to pay his debt to Jabba the Hutt. Qui-Gon Jinn’s activities on Tatooine during The Phantom Menace focus on finding local currency to buy a new hyperdrive for Queen Amidala’s Royal Starship.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Jabba the Hutt; Qui-Gon Jinn — entry/section: Pay Off the Debt examples: "Much of Han Solo’s motivation during Star Wars: A New Hope focuses on accumulating credits to pay his debt to Jabba the Hutt. Qui-Gon Jinn’s activities on Tatooine during The Phantom Menace focus on finding local currency to buy a new hyperdrive for Queen Amidala’s Royal Starship." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.17
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.17 — full quote as printed](quotes/d666-s17-much-of-han-solo-s-motivation.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:98`
 
 - Note (summary from our notes, not a quotation): Page contents: Pacing (Battle of Endor; Jabba's palace scenes alternate interaction and action); Cliffhangers (hand-read)
@@ -679,13 +615,11 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > The protagonists have all faced defeat in one form or another: Han Solo has been captured and transported to Jabba the Hutt and an unknown fate; Luke Skywalker has been seriously injured physically and psychologically in his confrontation with Darth Vader; and so on.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Han Solo; Luke Skywalker; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Han Solo; Luke Skywalker; Darth Vader (Anakin Skywalker): "The protagonists have all faced defeat in one form or another: Han Solo has been captured and transported to Jabba the Hutt and an unknown fate; Luke Skywalker has been seriously injured physically and psychologically in his confrontation with Darth Vader; and so on." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.33
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.33 — full quote as printed](quotes/d666-s33-the-protagonists-have-all-faced-defeat.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:196`
 
 > Han Solo helps rescue Princess Leia from the Death Star because Luke Skywalker claims he'll be rewarded with credits the smuggler intends to use in paying off his debt to Jabba the Hutt. He later changes his mind, knowing that the reward of friendship with the Rebel Alliance, and Luke and Leia in particular, has far greater value. In The Phantom Menace, Obi-Wan Kenobi serves Qui-Gon Jinn as his Padawan, with the aspirations of gaining experience to become a full Jedi Knight.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Han Solo; Leia Organa Solo; Luke Skywalker; Obi-Wan Kenobi; Qui-Gon Jinn — entry/section: Han's reward changes: "Han Solo helps rescue Princess Leia from the Death Star because Luke Skywalker claims he'll be rewarded with credits the smuggler intends to use in paying off his debt to Jabba the Hutt. He later changes his mind, knowing that the reward of friendship with the Rebel Alliance, and Luke and Leia in particular, has far greater value. In The Phantom Menace, Obi-Wan Kenobi serves Qui-Gon Jinn as his Padawan, with the aspirations of gaining experience to become a full Jedi Knight." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.47
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.47 — full quote as printed](quotes/d666-s47-han-solo-helps-rescue-princess-leia.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:272`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -693,7 +627,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > The ventilation tube into which Luke Skywalker fell after his confrontation with Darth Vader on Cloud City was a form of pitfall. Although he suffered no damage due to the chutelike interior, he fell through a “trap door,” more accurately called a debris vent to keep the system clear. A deadlier pitfall was the trap door Jabba installed in his throne room, which didn’t deal any direct damage but led to a chute that deposited victims in the den of his pet rancor.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Luke Skywalker; Darth Vader (Anakin Skywalker); Jabba the Hutt — entry/section: Cloud City vent and Jabba's trap door: "The ventilation tube into which Luke Skywalker fell after his confrontation with Darth Vader on Cloud City was a form of pitfall. Although he suffered no damage due to the chutelike interior, he fell through a “trap door,” more accurately called a debris vent to keep the system clear. A deadlier pitfall was the trap door Jabba installed in his throne room, which didn’t deal any direct damage but led to a chute that deposited victims in the den of his pet rancor." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.102
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.102 — full quote as printed](quotes/d666-s102-the-ventilation-tube-into-which-luke.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-061-120.md:219`
 
 - Note (summary from our notes, not a quotation): Page contents: Gambler cont. (Lando's deal with Vader, rescue from Jabba); Law Enforcement Officer; Man on the Street; Mechanic; Instant Contacts sidebar (hand-read)
@@ -704,7 +637,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Lando Calrissian; Darth Vader (Anakin Skywalker); Jabba the Hutt — entry/section: Lando the classy gambler: "even riskier venture: A legitimate business in a Tibanna gas mining facility on Bespin. He puts all his assets in danger by making a dangerous deal with Darth Vader and betraying his old friends, yet eventually puts his loyalty, skills, and past experience on the line to save them from Jabba the Hutt." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.108
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.108 — full quote as printed](quotes/d666-s108-even-riskier-venture-a-legitimate-business.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-061-120.md:251`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -716,7 +648,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > Han Solo loses his honor in the smuggling community by failing to pay off his debts to Jabba; he forges a new reputation by helping his friends eliminate the Hutt crime lord.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Han Solo; Jabba the Hutt — entry/section: Han's lost honor.
 Note (our notes, around the quote): Han Solo; Jabba the Hutt — entry/section: Han's lost honor: "Han Solo loses his honor in the smuggling community by failing to pay off his debts to Jabba; he forges a new reputation by helping his friends eliminate the Hutt crime lord." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.154
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.154 — full quote as printed](quotes/d666-s154-han-solo-loses-his-honor-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:227`
 
 - Note (summary from our notes, not a quotation): Page contents: Trust (Leia as Boushh with Chewbacca before Jabba); Vengeance; Archetypal Adventure Plots: Collection, Delivery (hand-read)
@@ -726,7 +657,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > In Return of the Jedi, Princess Leia, disguised as the bounty hunter Boushh, proves her criminal nature by “capturing” Chewbacca and then threatening Jabba over the reward money.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Leia Organa Solo; Chewbacca; Jabba the Hutt — entry/section: Leia as Boushh: "In Return of the Jedi, Princess Leia, disguised as the bounty hunter Boushh, proves her criminal nature by “capturing” Chewbacca and then threatening Jabba over the reward money." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.155
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.155 — full quote as printed](quotes/d666-s155-in-return-of-the-jedi-princess.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:234`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -742,7 +672,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Hutt lords such as Jabba, Zorba, and Durga have further popularized the creature's use as a guard (and attack) beast.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Jabba the Hutt — entry/section: Hutts' Kintan striders.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Hutts' Kintan striders: "Hutt lords such as Jabba, Zorba, and Durga have further popularized the creature's use as a guard (and attack) beast." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.90
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.90 — full quote as printed](quotes/d667-s90-hutt-lords-such-as-jabba-zorba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:223`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -754,7 +683,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:20
 > Among the most powerful of these, for many years at least, was Jabba, leader of the Desilijic clan. Though he was a criminal mastermind, many considered him little more than a decadent thug. Jabba ruled his clan from his palace on the edge of Tatooine's Dune Sea—an awful place from which few were lucky enough to ever return. Sooner or later, all smuggling, all loan-sharking, all assassination, slavery, piracy, protection, and spice passed across Jabba's plate, and he always helped himself to a hefty slice. The rest of the Hutt leaders would gladly have eliminated him, but Jabba is nothing if not well defended; his palace is a veritable fortress, virtually unassailable. It wasn't until he crossed paths with Jedi Luke Skywalker that his reign—and life—came to an end.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Jabba the Hutt; Luke Skywalker — entry/section: Jabba, leader of the Desilijic clan: "Among the most powerful of these, for many years at least, was Jabba, leader of the Desilijic clan. Though he was a criminal mastermind, many considered him little more than a decadent thug. Jabba ruled his clan from his palace on the edge of Tatooine's Dune Sea—an awful place from which few were lucky enough to ever return. Sooner or later, all smuggling, all loan-sharking, all assassination, slavery, piracy, protection, and spice passed across Jabba's plate, and he always helped himself to a hefty slice. The rest of the Hutt leaders would gladly have eliminated him, but Jabba is nothing if not well defended; his palace is a veritable fortress, virtually unassailable. It wasn't until he crossed paths with Jedi Luke Skywalker that his reign—and life—came to an end." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.97
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.97 — full quote as printed](quotes/d668-s97-among-the-most-powerful-of-these.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:206`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -762,7 +690,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:20
 > Obi-Wan Kenobi successfully uses this application of the skill to get past the stormtrooper checkpoint in A New Hope. Jabba the Hutt and Watto both make their Will saves against this application of the skill in Return of the Jedi and The Phantom Menace, respectively.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi — entry/section: Affect Mind examples (Revised Core Rulebook, Ch4 Force skills): "Obi-Wan Kenobi successfully uses this application of the skill to get past the stormtrooper checkpoint in A New Hope. Jabba the Hutt and Watto both make their Will saves against this application of the skill in Return of the Jedi and The Phantom Menace, respectively." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.78
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.78 — full quote as printed](quotes/d671-s78-obi-wan-kenobi-successfully-uses-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-061-120.md:97`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -770,13 +697,11 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-061
 > Darth Vader, Boba Fett, and Jabba the Hutt all opposed Luke Skywalker in his quest to reestablish the Jedi Order. Darth Sidious, Darth Maul, and Count Dooku worked to eliminate the Jedi and establish dominion over all the worlds of the Old Republic.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Boba Fett; Jabba the Hutt; Luke Skywalker; Palpatine (Darth Sidious); Darth Maul; Count Dooku — entry/section: Chapter One: Villains: "Darth Vader, Boba Fett, and Jabba the Hutt all opposed Luke Skywalker in his quest to reestablish the Jedi Order. Darth Sidious, Darth Maul, and Count Dooku worked to eliminate the Jedi and establish dominion over all the worlds of the Old Republic." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.8
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.8 — full quote as printed](quotes/d672-s8-darth-vader-boba-fett-and-jabba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:49`
 
 > Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett; Jabba the Hutt — entry/section: Bossk and Chewbacca: "Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d672-s12-bossk-jumped-at-the-chance-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:75`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -818,7 +743,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > The M22-T Krayt gunship was originally commissioned by Jabba the Hutt to serve as a command ship for his most powerful and loyal lieutenants.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Darth Krayt. POV: Darth Krayt, about Jabba the Hutt.
 Note (our notes, around the quote): Darth Krayt: "The M22-T Krayt gunship was originally commissioned by Jabba the Hutt to serve as a command ship for his most powerful and loyal lieutenants." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.66
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.66 — full quote as printed](quotes/d722-s66-the-m22-t-krayt-gunship-was.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-061-120.md:37`
 
 - Note (summary from our notes, not a quotation): Page contents: Imperial Pursuit (Vader leads the hunt; ISB and COMPNOR; Hoth; Luke trains with Yoda and duels Vader on Cloud City; death of Prince Xizor; Leia kills Jabba). The Battle of Endor and the Dawn of the New Republic (Vader turned back and throws the Emperor to his death; Alliance of Free Planets; Mon Mothma as Chief Councilor; Imperial warlords). (hand-read)
@@ -834,7 +758,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > The pair is freed after Jabba is killed by Princess Leia at the Great Pit of Carkoon.
 — Source: Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game; Leia Organa Solo. POV: Leia Organa Solo, about Jabba the Hutt.
 Note (our notes, around the quote): Leia Organa Solo: "The pair is freed after Jabba is killed by Princess Leia at the Great Pit of Carkoon." Source: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.145
-![Quote image: *Rebellion Era Campaign Guide* (SWRPG Saga Edition), scan p.145 — full quote as printed](quotes/d722-s145-the-pair-is-freed-after-jabba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-scan-121-161.md:192`
 
 - Note (summary from our notes, not a quotation): Page contents: Jabba the Hutt's Criminal Organization (Desilijic clan, B'omarr monastery palace, rancor, sarlacc; after Jabba's death Kumac and Jelasi, then Zorba). Jabba the Hutt biography and Jabba the Hutt (Episode VI) stat block (CL 12). Bib Fortuna biography (Bidlo Kwerve, rancor, BT-16 brain jar, Firith Olan) and stat block (CL 5) start. (hand-read)
@@ -921,7 +844,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-181-240.md:2
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Lando Calrissian: "Lando makes a Pilot check, rolling a 13 for a result of 29, which is enough to increase the skiff's speed by an additional 2 squares, allowing them to pick up the droids and flee to safety as Jabba's sail barge explodes in a ball of fire in the sands behind them." Source: *Web Articles* (SWRPG Saga Edition), scan p.202
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.202 — full quote as printed](quotes/d732-s202-lando-makes-a-pilot-check-rolling.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-181-240.md:263`
 
 - Note (summary from our notes, not a quotation): Page contents: Bringing Balance cont.: (Not So) Fast Tracks: celebrations (Hail to the Winner, Anakin Skywalker; The Parade; Throne Room/End Title; Victory Celebration/End Title), alien encounters (Jar Jar's Introduction and the Swim to Otoh Gunga; The Dune Sea of Tatooine/Jawa Sandcrawler; Arrival on Dagobah; Ewok Feast/Part of the Tribe), enemy encounters (Enter Darth Maul; Zam the Assassin; Grievous Speaks to Lord Sidious; Imperial Attack; Imperial Starfleet Deployed/City in the Clouds; Shuttle Tydirium Approaches Endor), establishment views (Mos Espa Arena Band; Cantina Band; Jabba's Baroque Recital; Jedi Rocks); album-cover image. (hand-read)
@@ -1116,7 +1038,6 @@ Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:107`
 > Dancing Mara: Mara took on the identity of Arica, a dancer in Jabba's palace, beating Luke there in a failed attempt to assassinate him.
 — Source: Star Wars Insider #47 (1999).
 Note (our notes, around the quote): Mara Jade Skywalker; Luke Skywalker — entry/section: Mara Jade feature caption, printed p. 55: "Dancing Mara: Mara took on the identity of Arica, a dancer in Jabba's palace, beating Luke there in a failed attempt to assassinate him." Source: *Star Wars Insider #47* (1999), scan p.57
-![Quote image: *Star Wars Insider #47* (1999), scan p.57 — full quote as printed](quotes/ins047-s57-dancing-mara-mara-took-on-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:306`
 
 ## Star Wars Insider #50 (2000)
@@ -1189,7 +1110,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:92`
 > What rival did Boba Fett outduel in space above Tatooine to deliver Han Solo to Jabba the Hutt?
 — Source: Star Wars Insider #57 (2001); Boba Fett; Han Solo — entry/section: Quiz question.
 Note (our notes, around the quote): Boba Fett; Han Solo — entry/section: Quiz question: "What rival did Boba Fett outduel in space above Tatooine to deliver Han Solo to Jabba the Hutt?" Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-what-rival-did-boba-fett-outduel.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:135`
 
 ## Star Wars Insider #58 (2002)
@@ -1216,7 +1136,6 @@ Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:273`
 > They found a way for her to be very nice while remaining strong and committed. Leia is quite feminine, and her character is as clearly defined as the boys are—and she even dresses like a woman.
 — Source: Star Wars Insider #59 (2002).
 Note (our notes, around the quote): Leia Organa Solo; Luke Skywalker; Jabba the Hutt — entry/section: Carrie Fisher on Leia in Return of the Jedi: "Fisher then returned to the Star Wars saga one last time, filming the movie that was initially going to be called Revenge of the Jedi, in 1982 and in which Leia dons a disguise as bounty hunter Boushh and later chokes Jabba the Hutt with a chain. The final episode turned out to be Fisher's biggest acting challenge yet, as the character sheds her caustic façade and displays a softer side when she discovers that Luke is her brother. "Leia's character undergoes quite a change in Jedi," she said. "They found a way for her to be very nice while remaining strong and committed. Leia is quite feminine, and her character is as clearly defined as the boys are—and she even dresses like a woman." —Carrie Fisher, Star Wars Insider 59, p. 41" Source: *Star Wars Insider #59* (2002), scan p.41
-![Quote image: *Star Wars Insider #59* (2002), scan p.41 — full quote as printed](quotes/ins059-s41-fisher-then-returned-to-the-star.jpg)
 Our notes: `notes/materials/038-star-wars-insider/059-ins059.md:275`
 
 > Set Piece: Rebel Alliance Briefing Room - Take a seat, but keep an eye out for pigeons
@@ -1250,7 +1169,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:631`
 > The tubby rancor-keeper is best remembered for his crying jag following the death of his pet. Tales from Jabba's Palace explored the bond between trainer and monster, revealing that Malakili had plotted with Jabba's Whipid rival Lady Valarian to free the rancor from its cruel captivity, only to see those hopes dashed when Luke Skywalker brought a gate down on the creature's head. More recently, the Star Wars ongoing comic gave a glimpse of Malakili's early days in the Circus Horrificus, and LucasArts' Star Wars Demolition allowed gamers to control Malakili and his rancor as contestants in a smash-and-crash vehicular brawl.
 — Source: Star Wars Insider #60 (2002); Luke Skywalker; Lady Valarian; Jabba's Rancor — entry/section: Malakili.
 Note (our notes, around the quote): Luke Skywalker; Lady Valarian; Jabba's Rancor — entry/section: Malakili: "The tubby rancor-keeper is best remembered for his crying jag following the death of his pet. Tales from Jabba's Palace explored the bond between trainer and monster, revealing that Malakili had plotted with Jabba's Whipid rival Lady Valarian to free the rancor from its cruel captivity, only to see those hopes dashed when Luke Skywalker brought a gate down on the creature's head. More recently, the Star Wars ongoing comic gave a glimpse of Malakili's early days in the Circus Horrificus, and LucasArts' Star Wars Demolition allowed gamers to control Malakili and his rancor as contestants in a smash-and-crash vehicular brawl." Source: *Star Wars Insider #60* (2002), scan p.84
-![Quote image: *Star Wars Insider #60* (2002), scan p.84 — full quote as printed](quotes/ins060-s84-the-tubby-rancor-keeper-is-best.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:638`
 
 - Note (summary from our notes, not a quotation): Page contents: Who's Who cont.: Beedo (end), Salacious Crumb, Hermi Odle, Ortugg, Ree-Yees, Pote Snitkin, Weequay. "Test Your Knowledge" quiz box (5 questions) with upside-down answers: 1. Jabba disintegrated him; 2. Jabba the Hutt (in Star Wars: A New Hope Special Edition); 3. He had hibernation sickness; 4. Fifteen percent; 5. Gran and Humans. (hand-read)
@@ -1324,7 +1242,6 @@ Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:352`
 > The divergence takes place right at the beginning of the film in Jabba's palace. There's a moment between Jabba and Leia [disguised as Boushh] where Jabba strikes See-Threepio because he's unhappy with his translations. In the film, Threepio is just knocked around a bit, but in Infinities, he falls, and his head pops off and there's no one to translate between Jabba and Leia.
 — Source: Star Wars Insider #71 (2003).
 Note (our notes, around the quote): C-3PO; Jabba the Hutt; Leia Organa Solo — entry/section: Infinities: Return of the Jedi divergence: ""The divergence takes place right at the beginning of the film in Jabba's palace. There's a moment between Jabba and Leia [disguised as Boushh] where Jabba strikes See-Threepio because he's unhappy with his translations. In the film, Threepio is just knocked around a bit, but in Infinities, he falls, and his head pops off and there's no one to translate between Jabba and Leia." —Adam Gallardo, Star Wars Insider 71, p. 65" Source: *Star Wars Insider #71* (2003), scan p.65
-![Quote image: *Star Wars Insider #71* (2003), scan p.65 — full quote as printed](quotes/ins071-s65-the-divergence-takes-place-right-at.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:354`
 
 - Note (summary from our notes, not a quotation): Page contents: Hasbro column: Jedi Master Points eBay auction program (Jorg Sacul, Toy Fair Vader); 2004 basic figures in monthly themed waves; the Ultra line (wampa with cave, Ultra Jabba); Comic-Con Clone Wars figures (Asajj Ventress). (hand-read)
@@ -1360,7 +1277,6 @@ Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:301`
 > I wanted to emulate the movie-Jabba as closely as possible, so I gained 5,000 pounds. Didn't do much for my love life, though.
 — Source: Star Wars Insider #73 (2004); Jabba the Hutt — entry/section: Asner on playing Jabba.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Asner on playing Jabba: ""I blew myself up in bullfrog fashion each time I spoke," adding, "man, you can really get stretch marks." … "I wanted to emulate the movie-Jabba as closely as possible, so I gained 5,000 pounds. Didn't do much for my love life, though." —Edward Asner, Star Wars Insider 73, p. 50" Source: *Star Wars Insider #73* (2004), scan p.50
-![Quote image: *Star Wars Insider #73* (2004), scan p.50 — full quote as printed](quotes/ins073-s50-i-blew-myself-up-in-bullfrog.jpg)
 Our notes: `notes/materials/038-star-wars-insider/073-ins073.md:303`
 
 - Note (summary from our notes, not a quotation): Page contents: Toy Box photos, Basic Wave 3 Jabba's Palace: J'Quille ("Tooth Face"), holographic Luke, Lando as the skiff guard Tamtel Skreej, and Tanus Spijek, an Elom and former Rebel spy. (hand-read)
@@ -1396,7 +1312,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:553`
 > In A New Threat, Jabba gives Boba his first big assignment: to capture Wat Tambor. Fans will remember Wat Tambor as one of the Separatist conspirators who meets with Dooku in Episode II. After escaping a Republic prison, Tambor has fled to Xagobah, a strange, fogbound world covered with toxic fungi and dominated by the eerie Mazariyan Citadel.
 — Source: Star Wars Insider #76 (2004).
 Note (our notes, around the quote): Boba Fett; Wat Tambor; Jabba the Hutt; Count Dooku — entry/section: Boba's first big assignment: "In A New Threat, Jabba gives Boba his first big assignment: to capture Wat Tambor. Fans will remember Wat Tambor as one of the Separatist conspirators who meets with Dooku in Episode II. After escaping a Republic prison, Tambor has fled to Xagobah, a strange, fogbound world covered with toxic fungi and dominated by the eerie Mazariyan Citadel." Source: *Star Wars Insider #76* (2004), scan p.76
-![Quote image: *Star Wars Insider #76* (2004), scan p.76 — full quote as printed](quotes/ins076-s76-in-a-new-threat-jabba-gives.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:441`
 
 - Note (summary from our notes, not a quotation): Page contents: Q&A continued: Jabba's Gamorrean guards; no Endor holocaust (The Glove of Darth Vader's wormhole); why Jar Jar was banished; Luke's changed line in the ESB Special Edition; Luke and Asajj Ventress are not Sith Lords. (hand-read)
@@ -1651,7 +1566,6 @@ Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:335`
 > It was the scene on Docking Bay 94 with Jabba and Han Solo, where they consult each other. That was my first day's shooting, and it will stay in my mind forever and ever, because I was a new boy, a new costume and everything was still strange.
 — Source: Star Wars Insider #94 (2007); Jabba the Hutt; Han Solo; Chewbacca — entry/section: First day.
 Note (our notes, around the quote): Jabba the Hutt; Han Solo; Chewbacca — entry/section: First day: ""It was the scene on Docking Bay 94 with Jabba and Han Solo, where they consult each other. That was my first day's shooting, and it will stay in my mind forever and ever, because I was a new boy, a new costume and everything was still strange." —Peter Mayhew, Star Wars Insider 94, p. 35" Source: *Star Wars Insider #94* (2007), scan p.35
-![Quote image: *Star Wars Insider #94* (2007), scan p.35 — full quote as printed](quotes/ins094-s35-it-was-the-scene-on-docking.jpg)
 Our notes: `notes/materials/038-star-wars-insider/094-ins094.md:343`
 
 - Note (summary from our notes, not a quotation): Page contents: Ford & Mayhew concl. (Ford on the success of Star Wars, Mayhew on the public reaction, Ford on the legacy, George Lucas on Harrison Ford; photo Chewbacca makeup with Stuart Freeborn) and "Declan Mulholland: Jabba the Hutt" (human stand-in, died 1999; boxes on his Star Wars experience, his co-star, his director); stills of the cut Docking Bay 94 scene (hand-read)
@@ -1689,7 +1603,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:245`
 > I usually take the sketch that our planning division provides us and draw out an overall image. Then I create a rough sculpt. Afterwards, I work on the detail. I mainly use Sculpey [clay] to mold. I try to maintain whatever makes the character unique. Zuckuss took me about 20 days, especially working on the skin texture. I'd like to work on Jabba the Hutt, all the Jedi, the Rancor that dwells under Jabba's palace—in fact, all creatures in general!
 — Source: Star Wars Insider #99 (2008); Zuckuss; Jabba the Hutt — entry/section: Abe on sculpting Zuckuss.
 Note (our notes, around the quote): Zuckuss; Jabba the Hutt — entry/section: Abe on sculpting Zuckuss: ""I usually take the sketch that our planning division provides us and draw out an overall image. Then I create a rough sculpt. Afterwards, I work on the detail. I mainly use Sculpey [clay] to mold. I try to maintain whatever makes the character unique. Zuckuss took me about 20 days, especially working on the skin texture. I'd like to work on Jabba the Hutt, all the Jedi, the Rancor that dwells under Jabba's palace—in fact, all creatures in general!" —Junnosuke Abe, Star Wars Insider 99, p. 34" Source: *Star Wars Insider #99* (2008), scan p.34
-![Quote image: *Star Wars Insider #99* (2008), scan p.34 — full quote as printed](quotes/ins099-s34-i-usually-take-the-sketch-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:305`
 
 ## Star Wars Insider #100 (2008)
@@ -1711,7 +1624,6 @@ Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:131`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #101 (2008); Jabba the Hutt — entry/section: Watts on Jedi locations.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Watts on Jedi locations: ""Return of the Jedi was the only one of three where we didn't start on location. We did all of the studio interiors like Jabba's palace first, at Elstree. Once we'd wrapped up in England we went to Yuma, Arizona. We actually stayed in California, just across the state line. We shot the exterior of Jabba's sail barge with the Sarlacc pit. ... Then we moved up from there to the most north-westerly point in California, a place called Smith River." —Robert Watts, Star Wars Insider 101, p. 20" Source: *Star Wars Insider #101* (2008), scan p.20
-![Quote image: *Star Wars Insider #101* (2008), scan p.20 — full quote as printed](quotes/ins101-s20-return-of-the-jedi-was-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/101-ins101.md:235`
 
 ## Star Wars Insider #102 (2008)
@@ -1727,7 +1639,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:224`
 > I envisaged Jabba as having a more pointed face, but when the latex was stretched across the framework, it flattened his face.
 — Source: Star Wars Insider #102 (2008); Jabba the Hutt — entry/section: Freeborn on Jabba's face.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Freeborn on Jabba's face: ""I envisaged Jabba as having a more pointed face, but when the latex was stretched across the framework, it flattened his face." —Stuart Freeborn, Star Wars Insider 102, p. 23" Source: *Star Wars Insider #102* (2008), scan p.23
-![Quote image: *Star Wars Insider #102* (2008), scan p.23 — full quote as printed](quotes/ins102-s23-i-envisaged-jabba-as-having-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:226`; `notes/materials/038-star-wars-insider/102-ins102.md:255`
 
 - Note (summary from our notes, not a quotation): Page contents: Freeborn feature (end): Yoda puppet photo; Jabba the Hutt puppet photo; "Expanded Universe" yellow box; "Jabba Meets Jedi!" section; special-thanks line; folio INSIDER 25 (hand-read)
@@ -1737,7 +1648,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:253`
 > Just as the director was about to call action, he suddenly decided to place the bowl on the other side! It shows that no matter how ready you think you might be, something can always go wrong.
 — Source: Star Wars Insider #102 (2008); Jabba the Hutt — entry/section: Freeborn on the toad scene.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Freeborn on the toad scene: ""Just as the director was about to call action, he suddenly decided to place the bowl on the other side! It shows that no matter how ready you think you might be, something can always go wrong." —Stuart Freeborn, Star Wars Insider 102, p. 25" Source: *Star Wars Insider #102* (2008), scan p.25
-![Quote image: *Star Wars Insider #102* (2008), scan p.25 — full quote as printed](quotes/ins102-s25-just-as-the-director-was-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:257`
 
 - Note (summary from our notes, not a quotation): Page contents: Dudman interview pt 3: montage of Return of the Jedi creature masks/puppets (Gamorrean guard, Bib Fortuna, Jawa-like, Ewok and Jabba's palace aliens); vertical "Master and Apprentice" graphic; pull quote; Q&A column; folio 32 INSIDER (hand-read)
@@ -1747,7 +1657,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:335`
 > Certainly with Jabba the Hutt, we were pushing an envelope.
 — Source: Star Wars Insider #102 (2008); Jabba the Hutt — entry/section: Dudman on Jabba.
 Note (our notes, around the quote): Jabba the Hutt — entry/section: Dudman on Jabba: ""Certainly with Jabba the Hutt, we were pushing an envelope." —Nick Dudman, Star Wars Insider 102, p. 32" Source: *Star Wars Insider #102* (2008), scan p.32
-![Quote image: *Star Wars Insider #102* (2008), scan p.32 — full quote as printed](quotes/ins102-s32-certainly-with-jabba-the-hutt-we.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:337`
 
 - Note (summary from our notes, not a quotation): Page contents: Dudman interview end: Jabba's palace throne-room miniature/diorama photo (Jabba and court); wampa head photo; pull quote; Q&A columns; folio INSIDER 33 (hand-read)

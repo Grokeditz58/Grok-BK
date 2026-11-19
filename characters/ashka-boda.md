@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from rimary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 04 Echoes of the Jedi (text copy `rimary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_04_Echoes_of_the_Jedi_pdf_a29c93f76a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from rimary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 04 Echoes of the Jedi (text copy `rimary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_04_Echoes_of_the_Jedi_pdf_a29c93f76a`).)
 Note (our notes, around the quote): Denia (Jedi); Ashka Boda; Halagad Ventor; Lanius Qel-Bertuk — entry/section: Denia's Briefing: ""Some time before I traveled to Cato Neimoidia, Master Ashka Boda contacted me with news that he had joined the former Almas Academy student Halagad Ventor in trying to form a network between the scattered Jedi survivors of the destruction of the academy."" Source: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.5
-![Quote image: *04 - Echoes of the Jedi* (SWRPG Saga Edition), scan p.5 — full quote as printed](quotes/d706-s5-some-time-before-i-traveled-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/706-04-echoes-of-the-jedi.md:38`
 
 ## Dark Empire Sourcebook (West End Games, 1993), hand-read

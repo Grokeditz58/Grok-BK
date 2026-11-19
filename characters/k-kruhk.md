@@ -36,13 +36,11 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:106
 > General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): General Grievous; Ki-Adi-Mundi; K'Kruhk; Shaak Ti; Aayla Secura — Grievous on Hypori: "General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-grievous-on-hypori.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:284`
 
 > he ran afoul of the Whiphid Jedi Master K'Kruhk, hero of Teyr and former dissident Jedi. K'Kruhk nearly died in his pursuit of Quinlan through the vertical city.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos; K'Kruhk — K'Kruhk nearly dies.
 Note (our notes, around the quote): Quinlan Vos; K'Kruhk — K'Kruhk nearly dies: "he ran afoul of the Whiphid Jedi Master K'Kruhk, hero of Teyr and former dissident Jedi. K'Kruhk nearly died in his pursuit of Quinlan through the vertical city." Source: The New Essential Chronology, p.72
-![Quote image: The New Essential Chronology, p.72 — full quote as printed](quotes/nec-p72-kkruhk-nearly-dies.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:380`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -54,19 +52,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Master K'Kruhk was badly injured in a lightsaber duel with Ventress.
 — Source: scan pages 201–240; K'Kruhk; Asajj Ventress — entry/section: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk; Asajj Ventress — entry/section: K'Kruhk: "Master K'Kruhk was badly injured in a lightsaber duel with Ventress." Source: The Complete Star Wars Encyclopedia, Vol. II, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.221 — full quote as printed](quotes/v2-p221-master-kkruhk-was-badly-injured-in.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:270`
 
 > During a mission to destroy the droid foundries on Hypori, K'Kruhk was gravely wounded by General Grievous.
 — Source: scan pages 201–240; K'Kruhk; General Grievous — entry/section: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk; General Grievous — entry/section: K'Kruhk: "During a mission to destroy the droid foundries on Hypori, K'Kruhk was gravely wounded by General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. II, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.221 — full quote as printed](quotes/v2-p221-during-a-mission-to-destroy-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:272`
 
 > Masters K'Kruhk and Jeisel were placed in charge of the ground forces that attacked the Separatist stronghold on the planet, ultimately destroying the primary shield generator that protected the cloning facilities for the Shadow Army.
 — Source: scan pages 201–240; K'Kruhk — entry/section: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk — entry/section: K'Kruhk: "Masters K'Kruhk and Jeisel were placed in charge of the ground forces that attacked the Separatist stronghold on the planet, ultimately destroying the primary shield generator that protected the cloning facilities for the Shadow Army." Source: The Complete Star Wars Encyclopedia, Vol. II, p.221
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.221 — full quote as printed](quotes/v2-p221-masters-kkruhk-and-jeisel-were-placed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:274`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -74,19 +69,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > K'Kruhk and Piru defeated the criminals and transported the clan elsewhere.
 — Source: scan pages 1–40; K'Kruhk. POV: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk: "K'Kruhk and Piru defeated the criminals and transported the clan elsewhere." Source: The Complete Star Wars Encyclopedia, Vol. III, p.27
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.27 — full quote as printed](quotes/v3-p27-kkruhk-and-piru-defeated-the-criminals.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:240`
 
 > Only K'Kruhk survived the attack, and Teyr fell to the Separatists.
 — Source: scan pages 201–240; K'Kruhk. POV: K'Kruhk.
 Note (our notes, around the quote): K'Kruhk: "Only K'Kruhk survived the attack, and Teyr fell to the Separatists." Source: The Complete Star Wars Encyclopedia, Vol. III, p.234
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.234 — full quote as printed](quotes/v3-p234-only-kkruhk-survived-the-attack-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:353`
 
 > Master K'kruhk and Quinlan Vos struggled, but Vos killed Viento before K'kruhk could stop him.
 — Source: scan pages 281–320; K'Kruhk; Quinlan Vos.
 Note (our notes, around the quote): K'Kruhk; Quinlan Vos: "Master K'kruhk and Quinlan Vos struggled, but Vos killed Viento before K'kruhk could stop him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.306
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.306 — full quote as printed](quotes/v3-p306-master-kkruhk-and-quinlan-vos-struggled.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:257`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 181–225)
@@ -312,18 +304,18 @@ Our notes: `notes/materials/010-legacy-war.md:107`
 
 - Note (summary from our notes, not a quotation): The temple lifts off (p80–81). The younglings' ship goes out with K'Kruhk at the controls (p80), and the temple's towers lift off as ships (p81).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p81 "THE HIDDEN TEMPLE RISES."](010-legacy-war-panels/p081-hidden-temple-rises.jpg)
+![p81 "THE HIDDEN TEMPLE RISES."](../notes/materials/010-legacy-war-panels/p081-hidden-temple-rises.jpg)
 Our notes: `notes/materials/010-legacy-war.md:115`
 
 - Note (summary from our notes, not a quotation): Aftermath in battle (p127). The troopers go mad. Shado kills one, K'Kruhk warns of suicide runs, and Nihl orders the withdrawal and the troopers' destruction.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:136`
 
 > LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p127 K'Kruhk warns of suicide runs; Nihl.
-Note (our notes, around the quote): ![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+Note (our notes, around the quote): ![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 (*Panel: p127 — `p127-kkruhk-nihl-krayt-is-dead.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:564`
 
@@ -334,19 +326,19 @@ Our notes: `notes/materials/010-legacy-war.md:648`
 
 > AGREED THEN. IT'S WORTH THE RISK OF LOSING OUR HOME TO DELIVER A SEVERE, PERHAPS FATAL, BLOW TO THE SITH EMPIRE. THIS IS THE BATTLE WE HAVE BEEN PREPARING FOR SINCE OSSUS.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p63 (#3), presiding over the council.
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
 Our notes: `notes/materials/010-legacy-war.md:808`
 
 > THE FORCE BE WITH YOU, MASTER SAA.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p80 (#4): at the controls of the younglings' ship, with Tili Qua: "THE FORCE BE WITH YOU, MASTER SAA."
-![p80 THE FORCE BE WITH YOU, MASTER SAA](010-legacy-war-panels/p080-tra-saa-younglings-ship-force-be-with-you.jpg) *(p80)*
+![p80 THE FORCE BE WITH YOU, MASTER SAA](../notes/materials/010-legacy-war-panels/p080-tra-saa-younglings-ship-force-be-with-you.jpg) *(p80)*
 Our notes: `notes/materials/010-legacy-war.md:809`
 
 - Note (summary from our notes, not a quotation): Identified by zoom as the white-maned grey Whiphid with tusks, on a ship's bridge.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p127 (#6): "ALL SHIPS! REPORTS ARE COMING IN THAT KRAYT IS DEAD! HIS SITH TROOPERS APPEAR TO HAVE GONE MAD!" "WATCH OUT FOR SUICIDE RUNS! KRAYT'S SITH TROOPERS MAY ATTEMPT TO FOLLOW HIM INTO THE ABYSS!"
-![p127 K'Kruhk: KRAYT IS DEAD](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg) *(p127)*
+![p127 K'Kruhk: KRAYT IS DEAD](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg) *(p127)*
 Our notes: `notes/materials/010-legacy-war.md:813`
 
 > ...THE GALACTIC FEDERATION TRIUMVIRATE...
@@ -355,34 +347,34 @@ Our notes: `notes/materials/010-legacy-war.md:813`
 > ...WHICH WILL BE HEADED BY ADMIRAL GAR STAZI, JEDI MASTER K'KRUHK, AND HIS IMPERIAL HIGHNESS'S DAUGHTER, EMPRESS MARASIAH FEL.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p132 (#6), eulogy.
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:815`
 
 - Note (summary from our notes, not a quotation): Title check, every page: K'Kruhk is "MASTER K'KRUHK" (p100) and "JEDI MASTER K'KRUHK" (p132). "Grand Master" never appears in War #1–6, for K'Kruhk or anyone else. He is a Triumvir (p132).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:816`
 
 - Note (summary from our notes, not a quotation): No personal combat feat in War. His role is presiding, piloting, battle meditation and command, and the warning.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:817`
 
-- Note (summary from our notes, not a quotation): ![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+- Note (summary from our notes, not a quotation): ![p63 K'Kruhk: "AGREED THEN."](../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p63 — `p063-kkruhk-council-agrees.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:819`
 
 > MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p100.
-Note (our notes, around the quote): ![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+Note (our notes, around the quote): ![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
 (*Panel: p100 — `p100-kkruhk-battle-meditation-command.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:822`; `notes/materials/010-legacy-war.md:811`
 
-- Note (summary from our notes, not a quotation): ![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+- Note (summary from our notes, not a quotation): ![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p132 — `p132-fel-funeral-triumvirate.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:825`
@@ -397,9 +389,9 @@ Our notes: `notes/materials/010-legacy-war.md:975`
 
 - Note (summary from our notes, not a quotation): Jedi: council on Taivas. K'Kruhk sums up the council's decision (p63). T'ra Saa runs the battle meditation (p74). Fel names "MASTER K'KRUHK AND THE SENIOR JEDI ... OVERALL COMMAND" for Coruscant (p100).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p63 K'Kruhk: "AGREED THEN."](010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
-![p74 T'ra Saa's battle meditation](010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p63 K'Kruhk: "AGREED THEN."](../notes/materials/010-legacy-war-panels/p063-kkruhk-council-agrees.jpg)
+![p74 T'ra Saa's battle meditation](../notes/materials/010-legacy-war-panels/p074-tra-saa-battle-meditation.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1016`
 
 - Note (summary from our notes, not a quotation): No Grand Master is named anywhere.
@@ -414,8 +406,8 @@ Our notes: `notes/materials/010-legacy-war.md:1113`
 - Note (summary from our notes, not a quotation): Counter: the page says "MASTER K'KRUHK" (p100) and "JEDI MASTER K'KRUHK", Triumvir (p132). There is no Grand Master title. K'Kruhk debaters should use "oldest/most senior" framing from elsewhere, plus his battle-meditation command (p100).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: K'Kruhk "GM by War" (debates #18, #28).
-![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p100 "MASTER K'KRUHK AND THE SENIOR JEDI WILL FORM A BATTLE MEDITATION AND HAVE OVERALL COMMAND."](../notes/materials/010-legacy-war-panels/p100-kkruhk-battle-meditation-command.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1114`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen, Shado Vao, K'Kruhk, Rawk, T'ra Saa, Tili Qua, and the ghosts of Kol and Luke.
@@ -453,13 +445,13 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:93`
 > Master K'Kruhk is given custody of the surviving Jedi artifacts
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p194.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p194 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p194-remnants-jedi-order-half-survive.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p194 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p194-remnants-jedi-order-half-survive.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:651`
 
 > a Jedi Council of three masters know and control the Hidden Temple: Master Tili Qua and two of the oldest surviving Masters, K'Kruhk and T'ra Saa.
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p195.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:653`
 
 - Note (summary from our notes, not a quotation): K'Kruhk has no stat block. The lines above are all the guide says about him (debates #18, #24, #28, #131).
@@ -483,12 +475,12 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:61`
 > NO ONE DIES FOR ME. NEVER AGAIN. *(p171)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): #12: A Vong warrior pins Cade. Master Shaper Nei Rin stops the fight, and Sazen and K'Kruhk arrive (p150–151). Nei Rin explains the Ossus Project, the Sith sabotage, and Kol's funeral: "WITHIN THE FLAMES, HIS BODY DISAPPEARED." She offers Cade the Jedi legacy, and he refuses it (p152–155). At the spot where Kol died, Cade attacks Sazen and loses. Sazen tells him his healings drew on the dark side and calls Kol's last stand a selfless holding action (p156–161). In the meditation of emptiness, Cade remembers drifting in space and his rescue by Rav and Jariah (p162–166). He then sees the tortured Hosk, and Luke's spirit tells him to make it right (p167–168). Nei Rin gives him Kol's lightsaber, now with a Vong-shaped lambent crystal, and K'Kruhk gives him R2-D2 (p169–170). Shado: "IF HE EVER GOES COMPLETELY OVER TO THE DARK SIDE, I WILL END HIM." (p170). Cade heads for Coruscant: "NO ONE DIES FOR ME. NEVER AGAIN." (p171).
-![p150 a Vong warrior pins Cade](012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
-![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
-![p159 Sazen on Cade's dark-side healing](012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p168 Luke's spirit and Hosk](012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
+![p150 a Vong warrior pins Cade](../notes/materials/012-legacy-vol-2-shards-panels/p150-vong-pin-cade.jpg)
+![p154 Nei Rin: "KOL SKYWALKER WAS YOUR GREATEST WARRIOR"](../notes/materials/012-legacy-vol-2-shards-panels/p154-nei-rin-greatest-warrior.jpg)
+![p159 Sazen on Cade's dark-side healing](../notes/materials/012-legacy-vol-2-shards-panels/p159-sazen-vs-cade-dark-side-healing.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p168 Luke's spirit and Hosk](../notes/materials/012-legacy-vol-2-shards-panels/p168-luke-ghost-hosk.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:62`
 
 > TELL YOU A SECRET, MASTER. I'LL JUST TAP A LITTLE INTO MY HEALING POWER -- LIKE I ALWAYS DO -- AND I'LL BE GOOD AS NEW.
@@ -502,10 +494,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:260`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Light-side healing of "your whole being". p135 (#11)–p137 (#11) [009 p272–274]
-![p136 K'Kruhk heals Cade](012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
+![p136 K'Kruhk heals Cade](../notes/materials/012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:335`
 
-- Note (summary from our notes, not a quotation): ![p136 K'Kruhk heals Cade](012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
+- Note (summary from our notes, not a quotation): ![p136 K'Kruhk heals Cade](../notes/materials/012-legacy-vol-2-shards-panels/p136-kkruhk-heals-cade.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p136 — `p136-kkruhk-heals-cade.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:338`
@@ -521,20 +513,20 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:338`
 > MY OWN FEELINGS, MY OWN PERSPECTIVE, ARE NOT INFALLIBLE. I DEEPLY RESPECT MASTER SAZEN. HIS VISION MAY BE THE TRUE ONE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; **2. Clone Wars survivor; came because of.
 Label in our notes: ** p144 (#11): · p151 (#12): · p170
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:341`
 
 > NEI RIN, WE BOTH KNOW I'M NOT THE RIGHT CARETAKER FOR THE LEGACY. LET K'KRUHK DO IT. AMONG THE JEDI HE IS LIKE BOTH WARMASTER AND HIGH PRIEST -- AND A FAR BETTER CHOICE THAN ME.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 3. The "Warmaster" label is Cade's description, not a rank. p169 (#12): "NEI RIN, WE BOTH KNOW I'M NOT THE RIGHT CARETAKER FOR THE LEGACY. LET K'KRUHK DO IT. AMONG THE JEDI HE IS LIKE BOTH WARMASTER AND HIGH PRIEST -- AND A FAR BETTER CHOICE THAN ME." K'Kruhk has no combat on panel in this volume.
-![p169 Kol's lightsaber with a lambent crystal](012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
+![p169 Kol's lightsaber with a lambent crystal](../notes/materials/012-legacy-vol-2-shards-panels/p169-kols-lightsaber-lambent.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:343`
 
 - Note (summary from our notes, not a quotation): Sazen was Kol's apprentice: "KOL WAS MY MASTER WHEN I WAS AN APPRENTICE" (p161). K'Kruhk was Cade's teacher ("OF ALL MY LEARNERS", p135) and remembers "THE FIRST TIME THE JEDI FELL" (p144). Cade was "ALMOST READY FOR HIS TRIALS WHEN... OSSUS FELL" (p143). Shado and Cade were "APPRENTICES TOGETHER" (p170).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels. POV: Sazen was Kol's apprentice.
-![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
-![p161 Sazen on Kol's last stand](012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
-![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
+![p143 "RAW POWER ... FINER SKILLS HAVE ATROPHIED"](../notes/materials/012-legacy-vol-2-shards-panels/p143-raw-power-atrophied.jpg)
+![p161 Sazen on Kol's last stand](../notes/materials/012-legacy-vol-2-shards-panels/p161-kol-could-only-hold-off-sith.jpg)
+![p170 Shado: "HE TWISTED IT TO HIS WILL" / "I WILL END HIM"](../notes/materials/012-legacy-vol-2-shards-panels/p170-shado-twisted-it-end-him.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:448`
 
 - Note (summary from our notes, not a quotation): K'Kruhk (debates #18, #24, #28, #131).
@@ -572,7 +564,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:557`
 > CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Force concealment. p75 (K'Kruhk, by tail; ambiguous).
 Note (our notes, around the quote): Force concealment. p75 (K'Kruhk, by tail; ambiguous): "CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED." Neither Jedi ship nor "LIAAN LAH'S CORALSKIPPER" is found (p74).
-![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
+![p75 CONCENTRATE ON EMPTINESS AND WE WILL NOT BE DETECTED](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p075-concentrate-on-emptiness.jpg) *(p75)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:412`
 
 > WE SHOULD HAVE FACED THEM LIKE WARRIORS AND SLAIN THEM ALL.
@@ -580,7 +572,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:412`
 > THEIR DEATHS WOULD ONLY HAVE CONFIRMED OUR PRESENCE, CHOKA SKELL.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels; Restraint. p96: Liaan Lah.
 Note (our notes, around the quote): Restraint. p96: Liaan Lah: "WE SHOULD HAVE FACED THEM LIKE WARRIORS AND SLAIN THEM ALL." · K'Kruhk (likely, by tail): "THEIR DEATHS WOULD ONLY HAVE CONFIRMED OUR PRESENCE, CHOKA SKELL." No combat on panel for any of them.
-![p96 Shado: THERE IS NO ONE ON OSSUS](013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
+![p96 Shado: THERE IS NO ONE ON OSSUS](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p096-shado-no-one-on-ossus-mind-trick.jpg) *(p96)*
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:416`
 
 ## https://starwars.fandom.com/wiki/Grievous/Legends
@@ -658,7 +650,7 @@ Our notes: `legends-feats.md:2395`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); No stat block. The only content is.
 Note (our notes, around the quote): No stat block. The only content is "two of the oldest surviving Masters, K'Kruhk and T'ra Saa" (Hidden Temple council) and custody of the Jedi artifacts. (material 011; p194–195; debates #18, #24, #28, #131)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 Our notes: `legends-feats.md:2520`
 
 > THERE IS NO PHYSICAL WOUND. I'M FOCUSING ON HEALING YOUR WHOLE BEING.
@@ -736,7 +728,7 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:205`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): #18, #24, #28, #131 (K'Kruhk): the guide gives no stats, only "two of the oldest surviving Masters" (p195) and custody of the Jedi artifacts (p194). Any "WotC stats K'Kruhk at…" claim does not come from this book.
 Posted by: K'Kruhk.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p195 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p195-hidden-temple-hosk-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1087`
 
 ## "Dissecting Legacy #5: Darth Krayt's Sith Troopers" (Suspect Insight Forums)

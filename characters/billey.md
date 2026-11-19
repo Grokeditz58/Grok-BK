@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Billey — entry/section: Smugglers' Alliance.
 Note (our notes, around the quote): Billey — entry/section: Smugglers' Alliance: "The aging Billey is a legend among smugglers. His career started some six decades ago," Source: *Star Wars Gamer 03* (SWRPG d20), scan p.59
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.59 — full quote as printed](quotes/d052-s59-the-aging-billey-is-a-legend.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-001-060.md:385`
 
 ## Star Wars Gamer/Star Wars Gamer 04.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–105)

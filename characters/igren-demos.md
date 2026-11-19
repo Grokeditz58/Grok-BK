@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Adventures Dawn of Defiance 02 A Wretched Hive (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Adventures_Dawn_of_Defiance_02_A_Wretched_Hive_pdf_1ed234e3b1`).)
 Note (our notes, around the quote): Valin Draco; Igren Demos — entry/section: The Majordomo: "Demos has secretly been in contact with Imperial Inquisitor Valin Draco, a former Jedi who pledged himself to the service of the Empire after witnessing the horrors of the Clone Wars." Source: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.16
-![Quote image: *02 - A Wretched Hive* (SWRPG Saga Edition), scan p.16 — full quote as printed](quotes/d704-s16-demos-has-secretly-been-in-contact.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/704-02-a-wretched-hive.md:101`
 
 - Note (summary from our notes, not a quotation): Page contents: Encounter: Confrontation with Demos; Igren Demos stats. (hand-read)

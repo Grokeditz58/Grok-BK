@@ -61,7 +61,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > Unlike the popular image of a Sith Lord, Darth Vectivus did not conquer star systems and wipe out entire populations.
 — Source: scan pages 281–320; Darth Vectivus — entry/section: Vectivus, Darth.
 Note (our notes, around the quote): Darth Vectivus — entry/section: Vectivus, Darth: "Unlike the popular image of a Sith Lord, Darth Vectivus did not conquer star systems and wipe out entire populations." Source: The Complete Star Wars Encyclopedia, Vol. III, p.298
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.298 — full quote as printed](quotes/v3-p298-unlike-the-popular-image-of-a.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:181`
 
 ## Legacy of the Force, own full read (Betrayal, Revelation, Invincible)

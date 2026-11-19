@@ -14,7 +14,6 @@
 > She's come to understand that her personal mission as a Jedi alone in Sith space is different than the mission she began with. She's not an army; she's not the whole Jedi Order.
 — Source: Star Wars Insider #123 (2011); Kerra Holt — entry/section: Comics: Knight Errant "Aflame".
 Note (our notes, around the quote): Kerra Holt — entry/section: Comics: Knight Errant "Aflame": ""She's come to understand that her personal mission as a Jedi alone in Sith space is different than the mission she began with. She's not an army; she's not the whole Jedi Order." —John Jackson Miller, Star Wars Insider 123, p. 64" Source: *Star Wars Insider #123* (2011), scan p.65
-![Quote image: *Star Wars Insider #123* (2011), scan p.65 — full quote as printed](quotes/ins123-s65-shes-come-to-understand-that-her.jpg)
 Our notes: `notes/materials/038-star-wars-insider/123-ins123.md:373`
 
 ## Star Wars Insider #124 (2011)
@@ -48,7 +47,6 @@ Our notes: `notes/materials/038-star-wars-insider/133-ins133.md:357`
 > Kerra's new mission requires her to infiltrate the Odionate—the dark and hopeless realm of Lord Odion, ravager of her homeworld and would-be destroyer of the universe.
 — Source: Star Wars Insider #133 (2012).
 Note (our notes, around the quote): Lord Odion; Kerra Holt — entry/section: Miller: Lord Odion, would-be destroyer of the universe: ""Kerra's new mission requires her to infiltrate the Odionate—the dark and hopeless realm of Lord Odion, ravager of her homeworld and would-be destroyer of the universe." —John Jackson Miller, Star Wars Insider 133, p. 66" Source: *Star Wars Insider #133* (2012), scan p.66
-![Quote image: *Star Wars Insider #133* (2012), scan p.66 — full quote as printed](quotes/ins133-s66-kerras-new-mission-requires-her-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/133-ins133.md:359`
 
 - Note (summary from our notes, not a quotation): Page contents: Comics art: Knight Errant: Escape cover (Kerra Holt with a red lightsaber over a slain beast). (hand-read)

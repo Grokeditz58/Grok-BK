@@ -14,70 +14,59 @@
 > The regal Darth Marr hides his face behind such a mask. Rumors surround Moff Xerxian's private audience with Marr, after the Moff failed to quell a violent uprising on Sullust. Supposedly Marr removed his mask and Moff Xerxian gazed upon the Dark Lord's ruined visage. Afterward, the Moff dictated a letter of resignation, and then shot himself.
 — Source: The Sith; Darth Marr — Masters of Terror.
 Note (our notes, around the quote): Darth Marr — Masters of Terror: "The regal Darth Marr hides his face behind such a mask. Rumors surround Moff Xerxian's private audience with Marr, after the Moff failed to quell a violent uprising on Sullust. Supposedly Marr removed his mask and Moff Xerxian gazed upon the Dark Lord's ruined visage. Afterward, the Moff dictated a letter of resignation, and then shot himself." Source: The Old Republic Encyclopedia, p.166
-![Quote image: The Old Republic Encyclopedia, p.166 — full quote as printed](quotes/tore-p166-the-regal-darth-marr-hides-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:252`
 
 > Darth Marr's impressive armored battle suit suggests the nightmarish appearance of a Sithspawn creature.
 — Source: The Sith; Darth Marr — Caption.
 Note (our notes, around the quote): Darth Marr — Caption: "Darth Marr's impressive armored battle suit suggests the nightmarish appearance of a Sithspawn creature." Source: The Old Republic Encyclopedia, p.166
-![Quote image: The Old Republic Encyclopedia, p.166 — full quote as printed](quotes/tore-p166-darth-marr-s-impressive-armored-battle.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:254`
 
 > DEFENSE OF THE EMPIRE … Currently controlled by Darth Marr … MILITARY OFFENSE … Since the end of the Great War, Darth Vengean has been consolidating this sphere's power in anticipation of the next onslaught against the Republic. MILITARY STRATEGY … When the Empire plotted to seize Corellia, Darth Decimus organized this sphere to orchestrate the planet's occupation.
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Marr; Darth Vengean; Darth Decimus — Spheres of Influence.
 Note (our notes, around the quote): Darth Marr; Darth Vengean; Darth Decimus — Spheres of Influence: "DEFENSE OF THE EMPIRE … Currently controlled by Darth Marr … MILITARY OFFENSE … Since the end of the Great War, Darth Vengean has been consolidating this sphere's power in anticipation of the next onslaught against the Republic. MILITARY STRATEGY … When the Empire plotted to seize Corellia, Darth Decimus organized this sphere to orchestrate the planet's occupation." Source: The Old Republic Encyclopedia, p.172
-![Quote image: The Old Republic Encyclopedia, p.172 — full quote as printed](quotes/tore-p172-defense-of-the-empire-currently-controlled.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:351`
 
 > Born Teneb Kel, the young Sith rose to prominence under his Master, Lord Calypho, during the Great War more than three decades ago. But when Lord Calypho's power grab earned the ire of the Dark Council, Darth Marr ordered Teneb Kel to strike down his disgraced Master.
 — Source: The Sith; Darth Thanaton; Darth Marr — Darth Thanaton.
 Note (our notes, around the quote): Darth Thanaton; Darth Marr — Darth Thanaton: "Born Teneb Kel, the young Sith rose to prominence under his Master, Lord Calypho, during the Great War more than three decades ago. But when Lord Calypho's power grab earned the ire of the Dark Council, Darth Marr ordered Teneb Kel to strike down his disgraced Master." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-born-teneb-kel-the-young-sith.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:359`
 
 > Warlord and master of the dark side, Darth Marr is the most senior member of the Dark Council. Few know how Marr rose to power, and none speak of the man before he became a Lord of the Sith.
 — Source: The Sith; Darth Marr — Darth Marr.
 Note (our notes, around the quote): Darth Marr — Darth Marr: "Warlord and master of the dark side, Darth Marr is the most senior member of the Dark Council. Few know how Marr rose to power, and none speak of the man before he became a Lord of the Sith." Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-warlord-and-master-of-the-dark.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:378`
 
 > Life is the enemy. Death is our solace.
 — Source: The Sith; Darth Marr — Darth Marr: "Darth Marr's creed is.
 Note (our notes, around the quote): Darth Marr — Darth Marr: "Darth Marr's creed is "Life is the enemy. Death is our solace." Fueled by a zealous dedication to battle, he believes that personal strength and evolution are won only through conflict." Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-darth-marr-s-creed-is-life.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:380`
 
 > When a Republic fleet fought to reclaim Korriban, Darth Marr drove them back in defeat. When the Republic attempted to conquer the Sith world of Ziost, Darth Marr destroyed the bold offensive. Tales spread through the Republic of the masked Dark Council member who routed whole armies and deflected assaults more thoroughly than any planetary shield.
 — Source: The Sith; Darth Marr — Darth Marr.
 Note (our notes, around the quote): Darth Marr — Darth Marr: "When a Republic fleet fought to reclaim Korriban, Darth Marr drove them back in defeat. When the Republic attempted to conquer the Sith world of Ziost, Darth Marr destroyed the bold offensive. Tales spread through the Republic of the masked Dark Council member who routed whole armies and deflected assaults more thoroughly than any planetary shield." Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-when-a-republic-fleet-fought-to.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:382`
 
 > But beneath Marr's armor lies a mind and body transformed by decades of immersion in the dark side. Stripped of emotions and most of his humanity, Darth Marr recognizes that his death is approaching. As his final legacy, Marr vows to ensure that the Empire is strong enough to survive long into the future.
 — Source: The Sith; Darth Marr — Darth Marr.
 Note (our notes, around the quote): Darth Marr — Darth Marr: "But beneath Marr's armor lies a mind and body transformed by decades of immersion in the dark side. Stripped of emotions and most of his humanity, Darth Marr recognizes that his death is approaching. As his final legacy, Marr vows to ensure that the Empire is strong enough to survive long into the future." Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-but-beneath-marr-s-armor-lies.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:384`
 
 > AGE: 62 SPHERE OF INFLUENCE: Defense of the Empire APPRENTICE: Darth Lachris ADVANTAGES IN COMBAT: Augmented lightsaber, customized battle armor, no fear of death
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Marr — Data box.
 Note (our notes, around the quote): Darth Marr — Data box: "AGE: 62 SPHERE OF INFLUENCE: Defense of the Empire APPRENTICE: Darth Lachris ADVANTAGES IN COMBAT: Augmented lightsaber, customized battle armor, no fear of death" Source: The Old Republic Encyclopedia, p.174
-![Quote image: The Old Republic Encyclopedia, p.174 — full quote as printed](quotes/tore-p174-age-62-sphere-of-influence-defense.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:386`
 
 > BATTLE DUTIES: Intimidation, commanding armies, oppressive assaults, breaking enemy defenses, rallying Imperials PRIMARY WEAPONS: A Sith warrior's lightsaber is a deadly tool of aggression, designed to cut down enemies with brutal ease. Additionally, Sith warriors wield the dark side of the Force to decimate all who stand in their way LIGHTSABER FORMS: Shii-Cho, Juyo, Soresu, Shien NOTABLE SITH WARRIORS: Darth Malgus, Darth Marr, Darth Decimus
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Malgus; Darth Marr; Darth Decimus — Profile: Sith Warrior.
 Note (our notes, around the quote): Darth Malgus; Darth Marr; Darth Decimus — Profile: Sith Warrior: "BATTLE DUTIES: Intimidation, commanding armies, oppressive assaults, breaking enemy defenses, rallying Imperials PRIMARY WEAPONS: A Sith warrior's lightsaber is a deadly tool of aggression, designed to cut down enemies with brutal ease. Additionally, Sith warriors wield the dark side of the Force to decimate all who stand in their way LIGHTSABER FORMS: Shii-Cho, Juyo, Soresu, Shien NOTABLE SITH WARRIORS: Darth Malgus, Darth Marr, Darth Decimus" Source: The Old Republic Encyclopedia, p.176
-![Quote image: The Old Republic Encyclopedia, p.176 — full quote as printed](quotes/tore-p176-battle-duties-intimidation-commanding-armies-opp.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:415`
 
 > DARTH MARR steps forward from his Dark Council seat to guide the Empire's resurgence. Aliens join the Imperial ranks, as Sith recognize the wisdom of Darth Malgus's inclusive ideals.
 — Source: Species, technology, planets and the future; Darth Marr; Darth Malgus — New Era of the Empire box.
 Note (our notes, around the quote): Darth Marr; Darth Malgus — New Era of the Empire box: "DARTH MARR steps forward from his Dark Council seat to guide the Empire's resurgence. Aliens join the Imperial ranks, as Sith recognize the wisdom of Darth Malgus's inclusive ideals." Source: The Old Republic Encyclopedia, p.345, sidebar
-![Quote image: The Old Republic Encyclopedia, p.345 — full quote as printed](quotes/tore-p345-darth-marr-steps-forward-from-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:545`
 
 ## "The Order of Revan - Complete Analysis" (DarthAnt66)

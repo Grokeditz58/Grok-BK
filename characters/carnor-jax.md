@@ -14,7 +14,6 @@
 > Lumiya fled the battle and retreated to the ancient Sith worlds, where she trained her first apprentice, Flint, and later the Royal Guardsman Carnor Jax.
 — Source: Part Six: Birth of the New Republic; Lumiya trains Flint and Carnor Jax.
 Note (our notes, around the quote): Lumiya trains Flint and Carnor Jax: "Lumiya fled the battle and retreated to the ancient Sith worlds, where she trained her first apprentice, Flint, and later the Royal Guardsman Carnor Jax." Source: The New Essential Chronology, p.130
-![Quote image: The New Essential Chronology, p.130 — full quote as printed](quotes/nec-p130-lumiya-trains-flint-and-carnor-jax.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-the-new-republic.md:11`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -28,7 +27,6 @@ Our notes: `notes/materials/027-new-essential-chronology/06-part-six-birth-of-th
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Carnor Jax; Palpatine (Darth Sidious) — Carnor Jax — sabotaging the clones: "When Palpatine returns in one of his cloned bodies, Jax rejoins the Royal Guard to better arrange the clone's assassination and bribes the Emperor's physician into sabotaging the remaining clones." Source: Jedi Academy Training Manual, p.117
-![Quote image: Jedi Academy Training Manual, p.117 — full quote as printed](quotes/jatm-p117-carnor-jax-sabotaging-the-clones.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:44`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -36,7 +34,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 > Emperor's Revenge An Imperial Star Destroyer under the command of Carnor Jax that also served as his flagship.
 — Source: scan pages 241–280; Carnor Jax. POV: Carnor Jax.
 Note (our notes, around the quote): Carnor Jax: "Emperor's Revenge An Imperial Star Destroyer under the command of Carnor Jax that also served as his flagship." Source: The Complete Star Wars Encyclopedia, Vol. I, p.233
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.233 — full quote as printed](quotes/v1-p233-emperors-revenge-an-imperial-star-destroyer.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:57`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -44,7 +41,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > Most of the guards were killed by Carnor Jax when they returned to Yinchorr.
 — Source: scan pages 1–40; Carnor Jax. POV: Carnor Jax.
 Note (our notes, around the quote): Carnor Jax: "Most of the guards were killed by Carnor Jax when they returned to Yinchorr." Source: The Complete Star Wars Encyclopedia, Vol. II, p.14
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.14 — full quote as printed](quotes/v2-p14-most-of-the-guards-were-killed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:125`
 
 - Note (summary from our notes, not a quotation): Page contents: 864 words, 19 paragraphs | headings/entries: Jax, Carnor; Jax, Hukta; Jaxa; Jaxal, Solo; Jaxus; Jaxxon; Jay
@@ -54,43 +50,36 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > Jax was the son of a Thyrsian Sun Guard member who was killed by Darth Sidious.
 — Source: scan pages 121–160.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Palpatine (Darth Sidious) — entry/section: Jax, Carnor: "Jax was the son of a Thyrsian Sun Guard member who was killed by Darth Sidious." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-jax-was-the-son-of-a.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:213`
 
 > Carnor Jax (left) faces Kir Kanos in a duel to the death.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Carnor Jax (left) faces Kir Kanos in a duel to the death." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-carnor-jax-left-faces-kir-kanos.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:215`
 
 > When Palpatine's clones were destroyed at Byss, Jax made his bid for control of the Empire by creating the Imperial Interim Ruling Council and assuming its leadership.
 — Source: scan pages 121–160.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Palpatine (Darth Sidious) — entry/section: Jax, Carnor: "When Palpatine's clones were destroyed at Byss, Jax made his bid for control of the Empire by creating the Imperial Interim Ruling Council and assuming its leadership." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-when-palpatines-clones-were-destroyed-at.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:217`
 
 > Jax learned that Kanos survived, and knew that he had to eliminate the threat he posed.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Jax learned that Kanos survived, and knew that he had to eliminate the threat he posed." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-jax-learned-that-kanos-survived-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:219`
 
 > Kanos wiped out the entire squadron, leaving Jax to face him in one-on-one combat in the Squall.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "Kanos wiped out the entire squadron, leaving Jax to face him in one-on-one combat in the Squall." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-kanos-wiped-out-the-entire-squadron.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:221`
 
 > After Blim was eliminated by Mirith Sinn and Sish Sadeet, Jax nearly defeated Kanos.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "After Blim was eliminated by Mirith Sinn and Sish Sadeet, Jax nearly defeated Kanos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-after-blim-was-eliminated-by-mirith.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:223`
 
 > But in a short duel, Kanos drove the blade of his staff through Jax's breastplate, piercing his heart and killing him instantly.
 — Source: scan pages 121–160; Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor.
 Note (our notes, around the quote): Jax Pavan; Carnor Jax; Kir Kanos — entry/section: Jax, Carnor: "But in a short duel, Kanos drove the blade of his staff through Jax's breastplate, piercing his heart and killing him instantly." Source: The Complete Star Wars Encyclopedia, Vol. II, p.144
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.144 — full quote as printed](quotes/v2-p144-but-in-a-short-duel-kanos.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:225`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -98,7 +87,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan
 > Opportunity struck when Wessel conspired with Carnor Jax and the Emperor's physician to destroy Palpatine's clones and rule the Empire.
 — Source: scan pages 321–360; Carnor Jax; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Carnor Jax; Palpatine (Darth Sidious): "Opportunity struck when Wessel conspired with Carnor Jax and the Emperor's physician to destroy Palpatine's clones and rule the Empire." Source: The Complete Star Wars Encyclopedia, Vol. III, p.327
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.327 — full quote as printed](quotes/v3-p327-opportunity-struck-when-wessel-conspired-with.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:100`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)

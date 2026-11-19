@@ -14,7 +14,6 @@
 > Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Quinlan Vos; Tholme; Volfe Karkko; Aayla Secura — Quinlan kills Volfe Karkko: "Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell." Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-quinlan-kills-volfe-karkko.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:150`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > Vos returned to Kiffex with the Jedi Knights, however, and defeated Karkko in combat.
 — Source: scan pages 201–240; Quinlan Vos; Volfe Karkko.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko: "Vos returned to Kiffex with the Jedi Knights, however, and defeated Karkko in combat." Source: The Complete Star Wars Encyclopedia, Vol. II, p.199
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.199 — full quote as printed](quotes/v2-p199-vos-returned-to-kiffex-with-the.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:40`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -30,31 +28,26 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > Vos killed Karkko, freeing Secura from his grasp.
 — Source: scan pages 121–160; Aayla Secura; Quinlan Vos; Volfe Karkko — entry/section: Secura, Aayla.
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos; Volfe Karkko — entry/section: Secura, Aayla: "Vos killed Karkko, freeing Secura from his grasp." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-vos-killed-karkko-freeing-secura-from.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:145`
 
 > Master Tholme was later dispatched to Kiffex to monitor Quinlan during the investigation into the reemergence of Volfe Karkko, and helped Quinlan defeat the feral Anzati warriors.
 — Source: scan pages 241–280; Tholme; Quinlan Vos; Volfe Karkko.
 Note (our notes, around the quote): Tholme; Quinlan Vos; Volfe Karkko: "Master Tholme was later dispatched to Kiffex to monitor Quinlan during the investigation into the reemergence of Volfe Karkko, and helped Quinlan defeat the feral Anzati warriors." Source: The Complete Star Wars Encyclopedia, Vol. III, p.237
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.237 — full quote as printed](quotes/v3-p237-master-tholme-was-later-dispatched-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:24`
 
 > Vos's parents, Quian and Pethros, were members of the Guardians of Kiffu, but were killed by a group of rogue Anzati under the command of Volfe Karkko.
 — Source: scan pages 281–320; Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian: "Vos's parents, Quian and Pethros, were members of the Guardians of Kiffu, but were killed by a group of rogue Anzati under the command of Volfe Karkko." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-voss-parents-quian-and-pethros-were.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:313`
 
 > The trail led to the prison world of Kiffex, where the Dark Jedi Volfe Karkko had enslaved Aayla Secura.
 — Source: scan pages 281–320; Volfe Karkko; Aayla Secura.
 Note (our notes, around the quote): Volfe Karkko; Aayla Secura: "The trail led to the prison world of Kiffex, where the Dark Jedi Volfe Karkko had enslaved Aayla Secura." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-the-trail-led-to-the-prison.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:315`
 
 > Vos defeated Karkko but left Kiffu with the Devaronian con artist Vilmarh Grahrk.
 — Source: scan pages 281–320; Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian.
 Note (our notes, around the quote): Quinlan Vos; Volfe Karkko — entry/section: Vos, Quinian: "Vos defeated Karkko but left Kiffu with the Devaronian con artist Vilmarh Grahrk." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-vos-defeated-karkko-but-left-kiffu.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:317`
 
 ## Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -66,14 +59,12 @@ Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:10`
 > Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis.
 — Source: Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 20.
 Note (our notes, around the quote): T'ra Saa; Tholme; Quinlan Vos; Volfe Karkko — entry/section: T'ra Saa before the Clone Wars: "Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis." Source: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d148-s1-before-the-outbreak-of-open-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:14`
 
 ## Jedi Counselling/Jedi Counseling 37 - Up the Walls.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Volfe Karkko; Quinlan Vos — entry/section: Volfe Karkko's illusion vs Quinlan Vos (question): "Q: Is it possible to use the skill Illusion to create duplicates of yourself (perhaps to fool an enemy)? In the Dark Horse Comics story "Darkness," the dark Jedi Volfe Karkko deflects one of Quinlan Vos's attacks and disappears, creating an illusion of various unruly-looking creatures around Vos. So is it possible to create a duplicate -- or several duplicates -- to draw fire while the actual target hides?" Source: *Jedi Counseling 37 - Up the Walls* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 37 - Up the Walls.pdf [Star Wars Rolepla.
-![Quote image: *Jedi Counseling 37 - Up the Walls* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d202-s2-q-is-it-possible-to-use.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/202-jedi-counseling-37-up-the-walls.md:21`
 
 ## Sourcebooks/The Unknown Regions.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -90,7 +81,6 @@ Our notes: `notes/materials/037-sw-d20-folder/730-the-unknown-regions-scan-001-0
 > Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: Aayla had to open Quin's eyes: ""We knew there had to be a confrontation between them," says Duursema, speaking of the straight-arrow Jedi student and her deeply flawed mentor. "Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-we-knew-there-had-to-be.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:522`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

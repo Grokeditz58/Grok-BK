@@ -105,19 +105,16 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:955
 > Quinlan possessed the Kiffu talent of psychometrics, allowing him to read memories and impressions directly off the surface of objects.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos; Tholme — Quinlan's psychometry.
 Note (our notes, around the quote): Quinlan Vos; Tholme — Quinlan's psychometry: "Quinlan possessed the Kiffu talent of psychometrics, allowing him to read memories and impressions directly off the surface of objects." Source: The New Essential Chronology, p.45
-![Quote image: The New Essential Chronology, p.45 — full quote as printed](quotes/nec-p45-quinlans-psychometry.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:143`
 
 > Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Quinlan Vos; Tholme; Volfe Karkko; Aayla Secura — Quinlan kills Volfe Karkko: "Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell." Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-quinlan-kills-volfe-karkko.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:150`
 
 > Bulq hired teachers from the elite Anzati assassin school to train his own clone soldiers, grown from the genetic material of Nikto Morgukai warriors. Jedi Master Tholme helped put an end to Bulq's plans.
 — Source: Part Two: The Fall of the Republic; Sora Bulq; Quinlan Vos; Tholme — Sora Bulq's clones.
 Note (our notes, around the quote): Sora Bulq; Quinlan Vos; Tholme — Sora Bulq's clones: "Bulq hired teachers from the elite Anzati assassin school to train his own clone soldiers, grown from the genetic material of Nikto Morgukai warriors. Jedi Master Tholme helped put an end to Bulq's plans." Source: The New Essential Chronology, p.78
-![Quote image: The New Essential Chronology, p.78 — full quote as printed](quotes/nec-p78-sora-bulqs-clones.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:446`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -127,7 +124,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Tholme; Aayla Secura: "A surprise attack by Tholme and Aayla Secura then destroyed the droid." Source: The Complete Star Wars Encyclopedia, Vol. I, p.50
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.50 — full quote as printed](quotes/v1-p50-a-surprise-attack-by-tholme-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:200`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -135,31 +131,26 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > She teamed with Quinlan Vos and two Jedi Masters, Tholme and Zao, to defeat the Anzati Sith magician.
 — Source: scan pages 121–160; Quinlan Vos; Tholme.
 Note (our notes, around the quote): Quinlan Vos; Tholme: "She teamed with Quinlan Vos and two Jedi Masters, Tholme and Zao, to defeat the Anzati Sith magician." Source: The Complete Star Wars Encyclopedia, Vol. III, p.121
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.121 — full quote as printed](quotes/v3-p121-she-teamed-with-quinlan-vos-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:48`
 
 > When Tholme defeated his opponents, Akku Seii revealed that the entire battle had simply been a training session for his students.
 — Source: scan pages 121–160; Tholme. POV: Tholme.
 Note (our notes, around the quote): Tholme: "When Tholme defeated his opponents, Akku Seii revealed that the entire battle had simply been a training session for his students." Source: The Complete Star Wars Encyclopedia, Vol. III, p.135
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.135 — full quote as printed](quotes/v3-p135-when-tholme-defeated-his-opponents-akku.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:158`
 
 > Master Tholme was later dispatched to Kiffex to monitor Quinlan during the investigation into the reemergence of Volfe Karkko, and helped Quinlan defeat the feral Anzati warriors.
 — Source: scan pages 241–280; Tholme; Quinlan Vos; Volfe Karkko.
 Note (our notes, around the quote): Tholme; Quinlan Vos; Volfe Karkko: "Master Tholme was later dispatched to Kiffex to monitor Quinlan during the investigation into the reemergence of Volfe Karkko, and helped Quinlan defeat the feral Anzati warriors." Source: The Complete Star Wars Encyclopedia, Vol. III, p.237
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.237 — full quote as printed](quotes/v3-p237-master-tholme-was-later-dispatched-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:24`
 
 > Bulq was captured in the fighting, and Master Tholme was blinded in his left eye in a lightsaber duel with Dooku.
 — Source: scan pages 241–280; Sora Bulq; Tholme; Count Dooku.
 Note (our notes, around the quote): Sora Bulq; Tholme; Count Dooku: "Bulq was captured in the fighting, and Master Tholme was blinded in his left eye in a lightsaber duel with Dooku." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-bulq-was-captured-in-the-fighting.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:31`
 
 > On Saleucami, Tholme set out to destroy the Separatist cloning facilities Sora Bulq had built in the magma caverns, Tholme was forced to fight Quinlan, who refused to acknowledge that he was too close to the dark side.
 — Source: scan pages 241–280; Tholme; Sora Bulq; Quinlan Vos.
 Note (our notes, around the quote): Tholme; Sora Bulq; Quinlan Vos: "On Saleucami, Tholme set out to destroy the Separatist cloning facilities Sora Bulq had built in the magma caverns, Tholme was forced to fight Quinlan, who refused to acknowledge that he was too close to the dark side." Source: The Complete Star Wars Encyclopedia, Vol. III, p.238
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.238 — full quote as printed](quotes/v3-p238-on-saleucami-tholme-set-out-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:33`
 
 ## Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -171,7 +162,6 @@ Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:10`
 > Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis.
 — Source: Characters/T'ra Saa.pdf [Star Wars Roleplaying Game Revised Core (d20, 20.
 Note (our notes, around the quote): T'ra Saa; Tholme; Quinlan Vos; Volfe Karkko — entry/section: T'ra Saa before the Clone Wars: "Before the outbreak of open war, T'ra Saa served as the Jedi defender of the sector that held Kiffex and Kiffu (after her old friend Tholme abandoned the post to train young Quinlan Vos) and was later instrumental in the defeat of the Anzati Sith magician Volfe Karkko. Like most Jedi Masters, she reluctantly accepted the rank of Republic General during the Clone Wars. The Neti consular has seen fierce action on Devaron and Geonosis." Source: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *T'ra Saa* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d148-s1-before-the-outbreak-of-open-war.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/148-tra-saa.md:14`; `suspect-insight/respect-threads/volfe-karkko.md:86`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)

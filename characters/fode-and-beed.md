@@ -14,7 +14,6 @@
 > But when Leia Organa Solo pleaded with the Consortium for help in combating the Yuuzhan Vong, it took an honor duel between Prince Isolder and Archon Beed Thane to get the necessary support.
 — Source: scan pages 1–40; Leia Organa Solo. POV: Leia Organa Solo, about Fode and Beed.
 Note (our notes, around the quote): Leia Organa Solo: "But when Leia Organa Solo pleaded with the Consortium for help in combating the Yuuzhan Vong, it took an honor duel between Prince Isolder and Archon Beed Thane to get the necessary support." Source: The Complete Star Wars Encyclopedia, Vol. II, p.16
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.16 — full quote as printed](quotes/v2-p16-but-when-leia-organa-solo-pleaded.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:145`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -28,7 +27,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > A noninterventionist Hapan ambassador, Archon Beed Thane of Vergill, deliberately insulted Leia in order to provoke Isolder into an honor duel.
 — Source: scan pages 61–90; Leia Organa Solo. POV: Leia Organa Solo, about Fode and Beed.
 Note (our notes, around the quote): Leia Organa Solo: "A noninterventionist Hapan ambassador, Archon Beed Thane of Vergill, deliberately insulted Leia in order to provoke Isolder into an honor duel." Source: The New Essential Guide to Characters, p.87
-![Quote image: The New Essential Guide to Characters, p.87 — full quote as printed](quotes/negc-p87-a-noninterventionist-hapan-ambassador-archon-beed.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:149`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -36,7 +34,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > Their most dynamic event so far was the Boonta Eve Classic on Tatooine, where the virtual unknown Anakin Skywalker unseated the reigning champion, Sebulba.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200; Darth Vader (Anakin Skywalker); Sebulba — entry/section: Fode and Beed.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Sebulba — entry/section: Fode and Beed: "Their most dynamic event so far was the Boonta Eve Classic on Tatooine, where the virtual unknown Anakin Skywalker unseated the reigning champion, Sebulba." Source: *Secrets of Tatooine* (SWRPG d20), scan p.39
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.39 — full quote as printed](quotes/d045-s39-their-most-dynamic-event-so-far.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:244`
 
 ## Jedi Counselling/Jedi Counseling 68.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]

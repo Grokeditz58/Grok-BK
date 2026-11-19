@@ -25,7 +25,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Obersken — entry/section: Obersken scolds Jag.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 19ABY: Red Sky, Blue Flame (Elaine Cunningham) (text copy `MEGA_All_Short_Stories_19ABY_Red_Sky_Blue_Flame_Elaine_Cunningham_epub`).)
 Note (our notes, around the quote): Obersken — entry/section: Obersken scolds Jag: "“Rash, undisciplined. There's no room for heroes in this corp. How many times have I told you that?”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.12
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.12 — full quote as printed](quotes/d056-s12-rash-undisciplined-theres-no-room-for.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-060.md:67`
 
 # Debate and forum claims (unverified)

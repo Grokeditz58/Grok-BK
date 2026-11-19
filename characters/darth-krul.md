@@ -14,7 +14,6 @@
 > Harpori A planet in the Mid Rim near the Balowa system, it was the site of a Duros settlement wiped out by Kaox Krul six months before the Battle of Ruusan.
 — Source: scan pages 1–40; Darth Krul. POV: Darth Krul.
 Note (our notes, around the quote): Darth Krul: "Harpori A planet in the Mid Rim near the Balowa system, it was the site of a Duros settlement wiped out by Kaox Krul six months before the Battle of Ruusan." Source: The Complete Star Wars Encyclopedia, Vol. II, p.21
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.21 — full quote as printed](quotes/v2-p21-harpori-a-planet-in-the-mid.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:184`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -28,7 +27,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:32`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Darth Krul; Lord Kaan — entry/section: Minor Site: Lake Krul: "One of the strongest warriors to serve Sith Lord Kaan and the Brotherhood of Darkness, Krul died in one of the skirmishes that led up to the battle between the forces of light and darkness." Source: Dark Side Sourcebook, p.144
-![Quote image: Dark Side Sourcebook, p.144 — full quote as printed](quotes/dss-p144-one-of-the-strongest-warriors-to.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:34`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -37,7 +35,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/07-ch7-campaigns.md:34`
 — Source: Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20,; Darth Krul — entry/section: Star Wars Gamer 05.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Darkness Shared pdf x.txt (text copy `MEGA_Darkness_Shared_pdf_x`).)
 Note (our notes, around the quote): Darth Krul — entry/section: Star Wars Gamer 05: "Their survival would almost certainly fall to Crian, but she held secret doubts as to whether she was ready to face Kaox Krul, He was insane, powerful, full of the dark side, hungry for the kill." Source: *Star Wars Gamer 05* (SWRPG d20), scan p.28
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.28 — full quote as printed](quotes/d054-s28-their-survival-would-almost-certainly-fall.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-001-060.md:167`
 
 ## Star Wars: Legacy Book 1 (omnibus): power-scaling notes with panels
@@ -53,10 +50,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:11`
 > ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF. *(p245–249; corrected 2026-10-21)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Darth Krul (lettered "KRUHL" in dialogue) kills clan chief Rikkar-Du, his son and their dog, while the elder Kassek-Ka kills Rikkar's wife Tassa: "ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF." (p245–249; corrected 2026-10-21). Maladi kills Governor Dorn (p261). He infiltrates Bastion and duels Roan Fel. Fel jams Krul's lightsaber with a cortosis gauntlet, catches his Force lightning on his own saber and turns it back, fights him hand to hand, and shoots him dead (p254–260). Maladi kills Dorn, and Krayt tells her her stratagem failed (p261–262).
-![p247](009-legacy-book-1-panels/p247-krul-kills-rikkar-du.jpg)
-![p249](009-legacy-book-1-panels/p249-krul-hate-is-sith-weapon.jpg)
-![p261 Maladi kills Dorn](009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
-![p262](009-legacy-book-1-panels/p262-krayt-maladi-do-not-scheme.jpg)
+![p247](../notes/materials/009-legacy-book-1-panels/p247-krul-kills-rikkar-du.jpg)
+![p249](../notes/materials/009-legacy-book-1-panels/p249-krul-hate-is-sith-weapon.jpg)
+![p261 Maladi kills Dorn](../notes/materials/009-legacy-book-1-panels/p261-maladi-kills-dorn-krayt-stratagem-failed.jpg)
+![p262](../notes/materials/009-legacy-book-1-panels/p262-krayt-maladi-do-not-scheme.jpg)
 Also cited as: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Also noted as: Note: Rikkar's wife Tassa was killed by the elder Kassek-Ka, not by Krul: "ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF." (p112).
 Our notes: `notes/materials/009-legacy-book-1.md:65`; `notes/materials/012-legacy-vol-2-shards.md:138`
@@ -72,9 +69,9 @@ Our notes: `notes/materials/009-legacy-book-1.md:738`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Darth Krul ("KRUHL" in dialogue; Ready to Die, #13). p245 (#13 Ready to Die)–p260 (#13 Ready to Die)
-![p247](009-legacy-book-1-panels/p247-krul-kills-rikkar-du.jpg)
-![p249](009-legacy-book-1-panels/p249-krul-hate-is-sith-weapon.jpg)
-![p260](009-legacy-book-1-panels/p260-fel-blaster-kills-krul-backups.jpg)
+![p247](../notes/materials/009-legacy-book-1-panels/p247-krul-kills-rikkar-du.jpg)
+![p249](../notes/materials/009-legacy-book-1-panels/p249-krul-hate-is-sith-weapon.jpg)
+![p260](../notes/materials/009-legacy-book-1-panels/p260-fel-blaster-kills-krul-backups.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:804`
 
 > (p255) Fel: "I'VE BEEN EXPECTING YOU." · (p256) Fel: "I FELT A DARK RIPPLE IN THE FORCE WHEN YOU LANDED." · Krul: "BUT YOU DID NOT SUMMON YOUR KNIGHTS." · Fel: "I AM A KNIGHT. FULLY CAPABLE OF HANDLING A SITH." · Krul: "EASY TO SAY. ONLY ONE WAY IT CAN BE PROVED." · (p257) Fel: "PURE CORTOSIS GAUNTLET. ALL MY KNIGHTS HAVE THEM. THE METAL DISRUPTS A LIGHTSABER. YOURS WILL BE USELESS FOR THE NEXT FEW MINUTES." · Krul: "A SITH HAS MANY WAYS TO KILL." · (p258) Fel catches the lightning on his blade and turns it back; Krul: "UHHN!" · (p259) Fel: "SURRENDER! EVEN IF YOU SUCCEED, THERE IS NO WAY OFF BASTION FOR YOU!" · Krul: "I AM PREPARED TO DIE." · Fel: "GOOD. I'M PREPARED TO KILL YOU." · (p260) Fel shoots him with a holdout blaster: "I BELIEVE IN HAVING BACKUPS." · Draco: "MASTER! I FELT SOMETHING IN THE FORCE! ARE YOU --?!"
@@ -95,8 +92,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1061`
 
 - Note (summary from our notes, not a quotation): Rank-and-file Sith Lords: Maleval, Krul, Ruyn. Talon ("I WAS BORN SITH", p389) versus Nihl ("WARLORD ON YOUR OWN BACKWATER WORLD", p351).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
-![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+![p389](../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1084`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt / A'Sharad Hett, Darth Talon, Darth Nihl, Darth Wyyrlok (III), Darth Maladi, Darth Stryfe, Darth Maleval, Darth Krul, Darth Ruyn.
@@ -107,9 +104,9 @@ Our notes: `notes/materials/009-legacy-book-1.md:1215`
 
 - Note (summary from our notes, not a quotation): Not statted: Darth Stryfe, Darth Krul and Darth Ruyn have no stat blocks. Ruyn is mentioned only as Talon's victim (p173).
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
-![p173 Darth Nihl (part 2)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
+![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![p173 Darth Nihl CL 16 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![p173 Darth Nihl (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:425`
 
 - Note (summary from our notes, not a quotation): Taken at face value, that makes Fel a near-peer of Krayt in raw Force skill. This clashes with the comics' hierarchy: Krayt is the overwhelming threat, and Fel's Book 1 showcase is against Darth Krul (material 009, p255–258).
@@ -132,11 +129,11 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1109`
 
 - Note (summary from our notes, not a quotation): On Munto Codru, clan chief Rikkar-Du tries to unite the Codru-Ji clans against the Empire after Darth Krul ("KRUHL") offers him rule (p104–107). Krul kills him, his son Jassar and their dog. Elder Kassek-Ka, now the Sith's man, killed Rikkar's wife Tassa (p108–112). Maladi uses Governor Vikar Dorn and the ISD *Dauntless* as a "defection" to get Krul onto Bastion (p113–116). Krul slips out and confronts Fel in the Pellaeon Gardens. Fel jams Krul's saber with a cortosis gauntlet, catches his lightning on his own blade and turns it back, brawls with him, and shoots him with a holdout blaster (p117–123). Fel has the *Dauntless* crew killed and sends Dorn back to Krayt with Krul's hilt. Maladi runs Dorn through (p124). Krayt warns her not to "SCHEME FOR SCHEMING'S SAKE" (p125).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p104 the Ready to Die page missing from 009](012-legacy-vol-2-shards-panels/p104-ready-to-die-missing-page.jpg)
-![p110 Krul vs Rikkar-Du](012-legacy-vol-2-shards-panels/p110-krul-vs-rikkar.jpg)
-![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
-![p124 Maladi kills Dorn](012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
-![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+![p104 the Ready to Die page missing from 009](../notes/materials/012-legacy-vol-2-shards-panels/p104-ready-to-die-missing-page.jpg)
+![p110 Krul vs Rikkar-Du](../notes/materials/012-legacy-vol-2-shards-panels/p110-krul-vs-rikkar.jpg)
+![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](../notes/materials/012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
+![p124 Maladi kills Dorn](../notes/materials/012-legacy-vol-2-shards-panels/p124-maladi-kills-dorn.jpg)
+![p125 Krayt warns Maladi with Krul's saber](../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:57`
 
 > (p124) "YOUR STRATAGEM FAILED, MALADI." · Maladi: "IT WENT AS I EXPECTED, MY LORD." · (p125) Krayt ignites Krul's recovered red saber beside her head: "BE CAREFUL, MALADI, THAT YOU DO NOT SCHEME FOR SCHEMING'S SAKE. DO NOT BECOME SO ENAMORED OF YOUR PLOTTING THAT YOU LOSE SIGHT OF YOUR GOAL -- THE DEATH OF ROAN FEL." · Maladi: "AS YOU WILL, MY LORD." · Krayt: "YES, MALADI. AS I WILL."
@@ -145,7 +142,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:57`
 Context: 3. Overrules Maladi (137 ABY). p124 (#13 Ready to Die)–p125 (#13 Ready to Die) [009 p261–262]
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:86`
 
-- Note (summary from our notes, not a quotation): ![p125 Krayt warns Maladi with Krul's saber](012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
+- Note (summary from our notes, not a quotation): ![p125 Krayt warns Maladi with Krul's saber](../notes/materials/012-legacy-vol-2-shards-panels/p125-krayt-warns-maladi.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p125 — `p125-krayt-warns-maladi.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:89`
@@ -165,28 +162,28 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:116`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 1. Kills the four-armed knife-fighter Rikkar-Du, his son and their dog. p108 (#13 Ready to Die)–p112 (#13 Ready to Die) [009 p245–249]
-![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
+![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](../notes/materials/012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:127`
 
 - Note (summary from our notes, not a quotation): The droids on p108 drop at a gesture: they were already deactivated, so this is not a Force feat. On p110 one of Rikkar's knife hands is cut off.
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p110 Krul vs Rikkar-Du](012-legacy-vol-2-shards-panels/p110-krul-vs-rikkar.jpg)
-![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
+![p110 Krul vs Rikkar-Du](../notes/materials/012-legacy-vol-2-shards-panels/p110-krul-vs-rikkar.jpg)
+![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](../notes/materials/012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:130`
 
-- Note (summary from our notes, not a quotation): ![p110 Krul vs Rikkar-Du](012-legacy-vol-2-shards-panels/p110-krul-vs-rikkar.jpg)
+- Note (summary from our notes, not a quotation): ![p110 Krul vs Rikkar-Du](../notes/materials/012-legacy-vol-2-shards-panels/p110-krul-vs-rikkar.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p110 — `p110-krul-vs-rikkar.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:132`
 
-- Note (summary from our notes, not a quotation): ![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
+- Note (summary from our notes, not a quotation): ![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](../notes/materials/012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p112 — `p112-hate-is-a-sith-weapon.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:135`
 
 - Note (summary from our notes, not a quotation): 2. Infiltrates Bastion past security, then loses to Roan Fel. p117 (#13)–p123 (#13). He slips out from under the shuttle and through the arcades unseen (p117, wordless; no guards are killed on the page). For the duel see Roan Fel 1.
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
+![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](../notes/materials/012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:140`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): a mid- or low-tier Sith Lord. He handles non-Force fighters easily, loses one-on-one to Fel, and has no named-Jedi feat. Not statted in the Campaign Guide (011).
@@ -201,11 +198,11 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:175`; `notes/materials/01
 
 > IT'S WHAT I WOULD HAVE DONE.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p118 Krul arrives; Fel.
-Note (our notes, around the quote): ![p118 Krul arrives; Fel: "IT'S WHAT I WOULD HAVE DONE."](012-legacy-vol-2-shards-panels/p118-krul-arrives-fel-line.jpg)
+Note (our notes, around the quote): ![p118 Krul arrives; Fel: "IT'S WHAT I WOULD HAVE DONE."](../notes/materials/012-legacy-vol-2-shards-panels/p118-krul-arrives-fel-line.jpg)
 (*Panel: p118 — `p118-krul-arrives-fel-line.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:178`
 
-- Note (summary from our notes, not a quotation): ![p120 cortosis gauntlet; Krul's lightning](012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
+- Note (summary from our notes, not a quotation): ![p120 cortosis gauntlet; Krul's lightning](../notes/materials/012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p120 — `p120-cortosis-gauntlet-lightning.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:181`
@@ -213,7 +210,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:181`
 > I BELIEVE IN HAVING BACKUPS.
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; ![p123 Fel shoots Krul.
-Note (our notes, around the quote): ![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
+Note (our notes, around the quote): ![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](../notes/materials/012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
 (*Panel: p123 — `p123-fel-shoots-krul.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:187`
 
@@ -237,7 +234,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:436`
 
 - Note (summary from our notes, not a quotation): Rank-and-file Sith Lords: Krul ("MY MASTER'S INTERESTS", p108) and Maleval (attached to the 407th).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
-![p108 Krul: MY MASTER'S INTERESTS](012-legacy-vol-2-shards-panels/p108-krul-my-masters-interests.jpg) *(p108)*
+![p108 Krul: MY MASTER'S INTERESTS](../notes/materials/012-legacy-vol-2-shards-panels/p108-krul-my-masters-interests.jpg) *(p108)*
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:437`
 
 > HATE IS A SITH WEAPON. *(Krul, p112)*
@@ -250,23 +247,23 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:437`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Sith philosophy lines. POV: Sith philosophy lines, about Darth Krul.
 Note (our notes, around the quote): Sith philosophy lines: "HATE IS A SITH WEAPON." (Krul, p112). "LIFE... DEATH... THE ONE IS THE SAME AS THE OTHER." (p109). Sazen on the "NEW BREED OF SITH" imitating Jedi cooperation (p160). The backstory page (p6) has "a new breed of Sith, numbering more than two and led by Darth Krayt".
-![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
-![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
+![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](../notes/materials/012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
+![p160 Sazen throws Cade: "TOGETHER WE ARE STRONGER"](../notes/materials/012-legacy-vol-2-shards-panels/p160-sazen-flips-cade.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:440`
 
 - Note (summary from our notes, not a quotation): Use: Fel catches and returns Krul's lightning with a saber (p121). He has the cortosis gauntlet, and "ALL MY KNIGHTS HAVE THEM" (p120). He senses Krul's landing (p119).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: Roan Fel / Imperial Knights vs Sith (debate #17, Draco; Knight-tier placement).
-![p120 cortosis gauntlet; Krul's lightning](012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
-![p121 Fel turns the lightning back](012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
+![p120 cortosis gauntlet; Krul's lightning](../notes/materials/012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
+![p121 Fel turns the lightning back](../notes/materials/012-legacy-vol-2-shards-panels/p121-fel-redirects-lightning.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:477`
 
 - Note (summary from our notes, not a quotation): Counter: Krul is a low-tier Sith Lord. The disarm is tech that lasts "THE NEXT FEW MINUTES", Fel's own saber flies away, and the kill is a holdout blaster (p123). For Draco specifically, this volume gives only routine deflections and a push on a non-Force admiral (p89–90).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: Roan Fel / Imperial Knights vs Sith (debate #17, Draco; Knight-tier placement).
-![p89 Krieg holds the corridor](012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
-![p90 Draco Force-pushes Admiral Stazi](012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
-![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
+![p89 Krieg holds the corridor](../notes/materials/012-legacy-vol-2-shards-panels/p089-draco-krieg-deflect.jpg)
+![p90 Draco Force-pushes Admiral Stazi](../notes/materials/012-legacy-vol-2-shards-panels/p090-draco-pushes-stazi.jpg)
+![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](../notes/materials/012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:478`
 
 > Sith Lords are fodder *(Maleval, Krul)*
@@ -278,8 +275,8 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:492`
 - Note (summary from our notes, not a quotation): Use: Maleval dies to trooper blaster bolts (p53), and Krul loses to Fel (p123).
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: "Sith Lords are fodder" (Maleval, Krul).
-![p53 Maleval survives the knife; bolts hit his head](012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
-![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
+![p53 Maleval survives the knife; bolts hit his head](../notes/materials/012-legacy-vol-2-shards-panels/p053-maleval-survives-headshot.jpg)
+![p123 Fel shoots Krul: "I BELIEVE IN HAVING BACKUPS."](../notes/materials/012-legacy-vol-2-shards-panels/p123-fel-shoots-krul.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:493`
 
 - Note (summary from our notes, not a quotation): Counter: both deaths have conditions on the page: Maleval was distracted and stabbed first; Krul was disarmed by cortosis and then shot. Krayt's Sith "vary widely" is the honest takeaway.
@@ -290,7 +287,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:494`
 > A SITH HAS MANY WAYS TO KILL.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; Ready to Die p120 (= 009 p257): Krul's line is.
 Note (our notes, around the quote): Ready to Die p120 (= 009 p257): Krul's line is "A SITH HAS MANY WAYS TO KILL." with a full stop. Both scans letter a period; 009 transcribed "...".
-![p120 cortosis gauntlet; Krul's lightning](012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
+![p120 cortosis gauntlet; Krul's lightning](../notes/materials/012-legacy-vol-2-shards-panels/p120-cortosis-gauntlet-lightning.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:537`
 
 > a Codru-Ji family
@@ -299,7 +296,7 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:537`
 > ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF.
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): Ready to Die p112 (= 009 p249): 009 summarised Krul as massacring "a Codru-Ji family". On the page Krul kills Rikkar-Du, the boy Jassar and the dog. Kassek-Ka says he killed Tassa: "ALREADY DEAD. I KILLED HER AS SOON AS THE BOY RAN OFF."
-![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
+![p112 "HATE IS A SITH WEAPON"; Kassek-Ka killed Tassa](../notes/materials/012-legacy-vol-2-shards-panels/p112-hate-is-a-sith-weapon.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:538`
 
 > Krul kills guards en route

@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 > Eventually, Desann crossed paths with Imperial Admiral Galak Fyyar, who promptly took the Chistori to meet his obscure master, the Procurator of Justice Lord Hethrir. Despite the Procurator's prejudice toward aliens, Lord Hethrir made Desann his right hand in his Empire Reborn, reasoning that even Emperor Palpatine had made some exceptions.
 — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
 Note (our notes, around the quote): Desann; Admiral Galak Fyyar; Lord Hethrir; Palpatine (Darth Sidious) — entry/section: Desann and Hethrir: "Eventually, Desann crossed paths with Imperial Admiral Galak Fyyar, who promptly took the Chistori to meet his obscure master, the Procurator of Justice Lord Hethrir. Despite the Procurator's prejudice toward aliens, Lord Hethrir made Desann his right hand in his Empire Reborn, reasoning that even Emperor Palpatine had made some exceptions." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-eventually-desann-crossed-paths-with-imperial.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:37`
 
 ## https://starwars.fandom.com/wiki/Kyle_Katarn

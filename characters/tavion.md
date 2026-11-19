@@ -18,7 +18,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 > Eight years later, during Tavion Axmis's campaign to resurrect the spirit of long-dead Sith Lord Marka Ragnos, she ventured to the rocky remains of Byss to siphon dark side energy for use in her cult rituals.
 — Source: scan pages 81–120; Marka Ragnos. POV: Marka Ragnos, about Tavion Axmis.
 Note (our notes, around the quote): Marka Ragnos: "Eight years later, during Tavion Axmis's campaign to resurrect the spirit of long-dead Sith Lord Marka Ragnos, she ventured to the rocky remains of Byss to siphon dark side energy for use in her cult rituals." Source: The Complete Star Wars Encyclopedia, Vol. I, p.99
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.99 — full quote as printed](quotes/v1-p99-eight-years-later-during-tavion-axmiss.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:271`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -26,7 +25,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > He confronted Tavion, and was able to defeat her in combat just as she reawakened the spirit of Marka Ragnos.
 — Source: scan pages 201–240; Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden.
 Note (our notes, around the quote): Jaden Korr; Marka Ragnos — entry/section: Korr, Jaden: "He confronted Tavion, and was able to defeat her in combat just as she reawakened the spirit of Marka Ragnos." Source: The Complete Star Wars Encyclopedia, Vol. II, p.227
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.227 — full quote as printed](quotes/v2-p227-he-confronted-tavion-and-was-able.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:340`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -34,7 +32,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan
 > In the time of the New Republic, a decade after the Battle of Endor, the Dark Jedi Tavion Axmis acquired the Scepter of Ragnos—an archaeological relic—and used it in an effort to resurrect the Dark Lord's spirit.
 — Source: scan pages 41–80; Marka Ragnos — entry/section: Ragnos, Marka.
 Note (our notes, around the quote): Marka Ragnos — entry/section: Ragnos, Marka: "In the time of the New Republic, a decade after the Battle of Endor, the Dark Jedi Tavion Axmis acquired the Scepter of Ragnos—an archaeological relic—and used it in an effort to resurrect the Dark Lord's spirit." Source: The Complete Star Wars Encyclopedia, Vol. III, p.74
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.74 — full quote as printed](quotes/v3-p74-in-the-time-of-the-new.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:301`
 
 ## Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -45,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md
 
 - Note (summary from our notes, not a quotation): Desann; Lord Hethrir; Tavion Axmis — entry/section: Desann trains Tavion: "Hethrir entrusted Desann with training a number of his Empire Youths, individuals who had shown a potent Force-sensitivity and devotion to Hethrir's cause and had been specially "purified" by a demigod known as Waru. Desann took one of these Youths, Tavion, as his apprentice. He even experimented with imbuing Human Empire Youths who had little to no talent in the Force -- chosen by Hethrir due to the magistrate’s racist philosophies -- with dark side powers using atrusian crystals and Sith alchemy." Source: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2
   — Source: Characters/The Dark Forces Saga/The Dark Forces Saga, Part 6.pdf [Star Wa.
-![Quote image: *The Dark Forces Saga, Part 6* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d133-s2-hethrir-entrusted-desann-with-training-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/133-the-dark-forces-saga-part-6.md:39`
 
 ## Star Wars Insider #88 (2006)

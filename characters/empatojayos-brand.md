@@ -15,13 +15,11 @@
 > [fragment — full passage not on file]
 — Source: Part Seven: Empire Resurgent; Darth Vader (Anakin Skywalker) — Empatojayos Brand.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker) — Empatojayos Brand: "another Jedi warrior, Empatojayos Brand, who had lost much of his body during an earlier battle with Darth Vader." Source: The New Essential Chronology, p.158
-![Quote image: The New Essential Chronology, p.158 — full quote as printed](quotes/nec-p158-empatojayos-brand.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:115`
 
 > As the Emperor fell toward death yet again, he attempted to send his spirit into the baby Anakin—but Empatojayos Brand intercepted the dark essence. Clasping himself to the evil, Brand held the Emperor's presence within his body as they both succumbed to death.
 — Source: Part Seven: Empire Resurgent; Palpatine (Darth Sidious) — Brand holds the Emperor's spirit.
 Note (our notes, around the quote): Palpatine (Darth Sidious) — Brand holds the Emperor's spirit: "As the Emperor fell toward death yet again, he attempted to send his spirit into the baby Anakin—but Empatojayos Brand intercepted the dark essence. Clasping himself to the evil, Brand held the Emperor's presence within his body as they both succumbed to death." Source: The New Essential Chronology, p.159
-![Quote image: The New Essential Chronology, p.159 — full quote as printed](quotes/nec-p159-brand-holds-the-emperors-spirit.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/07-part-seven-empire-resurgent.md:126`
 
 ## Star Wars: Dark Empire (1991–92), Dark Empire II (1994–95), Empire's End (1995), single issues, hand-read

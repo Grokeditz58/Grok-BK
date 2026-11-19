@@ -18,7 +18,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > During the Rebellion era, after she and Mungo Baobab defeat Governor Koong, Auren Yomm is an active member of Rebellion-allied resistance groups, inciting animosity toward the Empire through various means (all the while dedicated to her love, the dashing Baobab).
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Auren Yomm; Mungo Baobab; Governor Koong — entry/section: Auren Yomm joins the resistance: "During the Rebellion era, after she and Mungo Baobab defeat Governor Koong, Auren Yomm is an active member of Rebellion-allied resistance groups, inciting animosity toward the Empire through various means (all the while dedicated to her love, the dashing Baobab)." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.117
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.117 — full quote as printed](quotes/d667-s117-during-the-rebellion-era-after-she.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:442`
 
 - Note (summary from our notes, not a quotation): Page contents: Roon: Auren Yomm stats (Female Human Fringer 6); Gaff (Kobok assassin for Koong; Male Kobok Soldier 6/Elite Trooper 2); new species Kobok begins. (hand-read)

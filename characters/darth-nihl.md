@@ -14,7 +14,6 @@
 > She dueled Cade again in Coruscant's Sith Temple, and would have fallen to his lightsaber if Darth Nihl hadn't intervened.
 — Source: scan pages 201–240; Darth Talon; Cade Skywalker; Darth Nihl — entry/section: Talon, Darth.
 Note (our notes, around the quote): Darth Talon; Cade Skywalker; Darth Nihl — entry/section: Talon, Darth: "She dueled Cade again in Coruscant's Sith Temple, and would have fallen to his lightsaber if Darth Nihl hadn't intervened." Source: The Complete Star Wars Encyclopedia, Vol. III, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.215 — full quote as printed](quotes/v3-p215-she-dueled-cade-again-in-coruscants.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:192`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -30,7 +29,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag.
 Note (our notes, around the quote): Darth Talon; Darth Nihl; Darth Krayt — entry/section: Legacy Era Campaign Guide (Saga): "With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl The Twi'lek Sith Lord is fast, agile, and has a diverse array of skills that makes her one of the most deadly combatants around." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.173 — full quote as printed](quotes/d719-s173-with-her-master-dead-by-her.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-121-180.md:421`
 
 ## Star Wars Insider #88 (2006)
@@ -403,12 +401,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:35`
 
 - Note (summary from our notes, not a quotation): #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like Force surge (p21). Wolf warns him it pushed him to the edge of the dark side (p25). Cade flies off in a fighter to take revenge, and it explodes (p26–29).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p15 Krayt holocron prologue](009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
-![p19 Kol holds the landing pad](009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
-![p21 Cade's blue Force surge revives Wolf](009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
-![p22 Nihl's lightning on Kol](009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
-![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
-![p25](009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
+![p15 Krayt holocron prologue](../notes/materials/009-legacy-book-1-panels/p015-krayt-holocron-broken-spine.jpg)
+![p19 Kol holds the landing pad](../notes/materials/009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
+![p21 Cade's blue Force surge revives Wolf](../notes/materials/009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
+![p22 Nihl's lightning on Kol](../notes/materials/009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
+![p24 Kol dies among dead Sith](../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+![p25](../notes/materials/009-legacy-book-1-panels/p025-wolf-bringing-back-edge-dark-side.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:43`
 
 > DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH
@@ -416,10 +414,10 @@ Our notes: `notes/materials/009-legacy-book-1.md:43`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): On Coruscant, Krayt, Maladi, Nihl and Wyyrlok enter the throne room, cut down the Imperial Knights and kill "Roan Fel". The victim turns out to be a double. Krayt proclaims himself Emperor (p30–35). Krayt is physically spent; he senses a "DARK LIGHT IN THE FORCE -- DRAWING LIFE BACK FROM DEATH" and vows to find that Jedi (p36).
 Context: #1 (130 ABY): Krayt's holocron prologue (p15). At the Ossus Massacre, Nihl's Sith overrun the Jedi Academy. Kol Skywalker holds the landing pad and dies in Nihl's Force lightning, surrounded by dead Sith (p19–24). Padawan Cade pulls the dying Wolf Sazen back to life with a blue, lightning-like
-![p31 Krayt confronts "Fel"](009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
-![p32 Krayt cuts down Imperial Knights](009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
-![p35 Krayt blasts Maladi](009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
-![p36 Krayt overextended; senses Cade's healing](009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
+![p31 Krayt confronts "Fel"](../notes/materials/009-legacy-book-1-panels/p031-krayt-your-life-emperor.jpg)
+![p32 Krayt cuts down Imperial Knights](../notes/materials/009-legacy-book-1-panels/p032-krayt-cuts-down-imperial-knights.jpg)
+![p35 Krayt blasts Maladi](../notes/materials/009-legacy-book-1-panels/p035-krayt-blasts-maladi-fel-fully-trained.jpg)
+![p36 Krayt overextended; senses Cade's healing](../notes/materials/009-legacy-book-1-panels/p036-krayt-body-fails-healing-murmur.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:44`
 
 - Note (summary from our notes, not a quotation): #5: Krayt questions the Korriban holocrons of Bane, Andeddu and Nihilus. They call him a "PRETENDER", and he blasts them away (p81–84). On Vendaxa, Wolf and Shado meet Cade's crew. Talon fights Wolf and Shado and swats Marasiah aside. Cade instinctively stops a hurled wreck and Force-pushes Talon away (p85–99). Krayt sends Nihl (p101–102).
@@ -428,8 +426,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:47`
 
 - Note (summary from our notes, not a quotation): #6: Fel refuses a rescue mission, but Draco and Krieg come anyway (p103, p112–114). Nihl and Talon spring the trap. Marasiah is struck down saving Cade, and Cade takes up her lightsaber (p115–124).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p113](009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
-![p114 Draco and Krieg face Talon, Nihl and Sith](009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
+![p113](../notes/materials/009-legacy-book-1-panels/p113-talon-vs-imperial-knights-draco.jpg)
+![p114 Draco and Krieg face Talon, Nihl and Sith](../notes/materials/009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:48`
 
 - Note (summary from our notes, not a quotation): #7: Cade fights Nihl with a lightsaber in one hand and a blaster in the other, with Syn's help, and is Force-blasted aside (p125–133). Everyone escapes on the *Mynock* (p134–135). Draco attacks Cade; Wolf and Cade argue about the dark side; Cade heals the dying Marasiah through the dark side (p137–142). Talon reports her failure. Krayt spares her and wants the Skywalker "ALIVE" (p146).
@@ -446,23 +444,23 @@ Our notes: `notes/materials/009-legacy-book-1.md:74`
 
 - Note (summary from our notes, not a quotation): #17: Nihl and Maladi discuss succession and Krayt's "AFFLICTION" (p377). Talon trains Cade (p378–381, p388–393). Krayt and Wyyrlok discuss turning Cade (p382). Corde infiltrates the Temple with Vong bugs (p387). The Jedi mind-trick the troopers on Ossus. Stryfe orders the ruins bombarded (p396–398).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p377](009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
-![p379](009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
-![p380](009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
-![p381 dark-side self-healing](009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
-![p382](009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
-![p387](009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
+![p377](../notes/materials/009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
+![p379](../notes/materials/009-legacy-book-1-panels/p379-talon-trains-cade-no-threat.jpg)
+![p380](../notes/materials/009-legacy-book-1-panels/p380-cade-everything-im-after-is-here.jpg)
+![p381 dark-side self-healing](../notes/materials/009-legacy-book-1-panels/p381-talon-heal-yourself-dark-side.jpg)
+![p382](../notes/materials/009-legacy-book-1-panels/p382-krayt-wyyrlok-cade-will-cure-me.jpg)
+![p387](../notes/materials/009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:76`
 
 > I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM. *(p438)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): #19: Cade beats Nihl and refuses to kill him (p425–427). He crosses sabers with Krayt and taunts him about his illness (p429–430). Corde shoots Krayt through the window (p433). Cade leaps from the tower and Syn catches him at the *Mynock*'s hatch (p434–437). Krayt: "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM." (p438). Calixte, alone with the hologram of Kol and baby Cade: "RUN." (p442)
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
-![p429 Krayt's dual red sabers vs Cade](009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
-![p430](009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
-![p433 Corde shoots Krayt](009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
+![p425](../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p426](../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p427](../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p429 Krayt's dual red sabers vs Cade](../notes/materials/009-legacy-book-1-panels/p429-krayt-thousands-killed-blood-of-vader.jpg)
+![p430](../notes/materials/009-legacy-book-1-panels/p430-cade-sees-krayt-sick-vong-growth.jpg)
+![p433 Corde shoots Krayt](../notes/materials/009-legacy-book-1-panels/p433-corde-blasts-krayt-get-away-from-my-son.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:78`
 
 > Maladi: "HE WAS A DOUBLE!" · Krayt: "THE REAL ROAN FEL COULD HAVE RESISTED! HE IS A FULLY TRAINED JEDI LIKE HIS IMPERIAL KNIGHTS!" · "THE TRUE ROAN FEL KNEW WE WERE COMING. HE SMELLED A TRAP AND HAS NOW ESCAPED..." · Nihl: "BY HIMSELF, FEL IS NOTHING!..."
@@ -482,7 +480,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:157`
 Context: 7. Takes up a lightsaber; fights Nihl with saber and blaster; Talon warns "THE FORCE ALMOST BLAZES IN THIS ONE". p124 (#6 Broken)–p133 (#7 Broken)
 Our notes: `notes/materials/009-legacy-book-1.md:402`
 
-- Note (summary from our notes, not a quotation): ![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+- Note (summary from our notes, not a quotation): ![p133 Nihl's Force blast floors Cade and Syn](../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p133 Nihl's Force blast floors Cade and Syn — `p133-nihl-force-blast-one-fool-at-a-time.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:417`
@@ -525,21 +523,21 @@ Our notes: `notes/materials/009-legacy-book-1.md:648`
 > "THESE ARE THE LAST. FINISH THEM AND OUR MASTER'S WILL IS ACCOMPLISHED." · "MY MASTER WILL NOT MAKE PALPATINE'S MISTAKE. ALL JEDI MUST DIE."
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 1. Leads the Ossus Massacre. p17 (#1 Broken)–p24 (#1 Broken)
-![p17](009-legacy-book-1-panels/p017-nihl-all-jedi-must-die.jpg)
-![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+![p17](../notes/materials/009-legacy-book-1-panels/p017-nihl-all-jedi-must-die.jpg)
+![p24 Kol dies among dead Sith](../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:652`
 
-- Note (summary from our notes, not a quotation): ![p17](009-legacy-book-1-panels/p017-nihl-all-jedi-must-die.jpg)
+- Note (summary from our notes, not a quotation): ![p17](../notes/materials/009-legacy-book-1-panels/p017-nihl-all-jedi-must-die.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p17 — `p017-nihl-all-jedi-must-die.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:655`
 
 - Note (summary from our notes, not a quotation): 2. Takes Wolf Sazen's arm and leaves him for dead. p18 (#1 Broken)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p18 Nihl vs Wolf Sazen, Ossus](009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
+![p18 Nihl vs Wolf Sazen, Ossus](../notes/materials/009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:659`
 
-- Note (summary from our notes, not a quotation): ![p18 Nihl vs Wolf Sazen, Ossus](009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
+- Note (summary from our notes, not a quotation): ![p18 Nihl vs Wolf Sazen, Ossus](../notes/materials/009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p18 Nihl vs Wolf Sazen, Ossus — `p018-nihl-vs-wolf-sazen-ossus.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:661`
@@ -548,22 +546,22 @@ Our notes: `notes/materials/009-legacy-book-1.md:661`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 3. Kills Kol Skywalker with Force lightning, as part of a group. p19 (#1 Broken)–p24 (#1 Broken)
-![p19 Kol holds the landing pad](009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
-![p22 Nihl's lightning on Kol](009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
-![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+![p19 Kol holds the landing pad](../notes/materials/009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
+![p22 Nihl's lightning on Kol](../notes/materials/009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
+![p24 Kol dies among dead Sith](../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:665`
 
-- Note (summary from our notes, not a quotation): ![p19 Kol holds the landing pad](009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
+- Note (summary from our notes, not a quotation): ![p19 Kol holds the landing pad](../notes/materials/009-legacy-book-1-panels/p019-kol-none-of-you-will-pass.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p19 Kol holds the landing pad — `p019-kol-none-of-you-will-pass.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:668`
 
-- Note (summary from our notes, not a quotation): ![p22 Nihl's lightning on Kol](009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
+- Note (summary from our notes, not a quotation): ![p22 Nihl's lightning on Kol](../notes/materials/009-legacy-book-1-panels/p022-nihl-lightning-kills-kol.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p22 Nihl's lightning on Kol — `p022-nihl-lightning-kills-kol.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:671`
 
-- Note (summary from our notes, not a quotation): ![p24 Kol dies among dead Sith](009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p24 Kol dies among dead Sith](../notes/materials/009-legacy-book-1-panels/p024-kol-dies-amid-slain-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p24 Kol dies among dead Sith — `p024-kol-dies-amid-slain-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:674`
@@ -575,7 +573,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:674`
 Note (our notes, around the quote): Conditions (ANALYSIS): Kol was holding the pad against multiple Sith and troopers. Cade says "IT TOOK HALF A DOZEN SITH TO DO IT" (p130). Sazen: "HE KNEW HE COULD ONLY HOLD OFF THE SITH FOR A TIME -- NOT DEFEAT THEM." (p298). Nihl himself: "I SLEW MANY JEDI THAT DAY, INCLUDING KOL SKYWALKER." (p351). A Nihl kill under heavy numbers advantage, not a one-on-one.
 Our notes: `notes/materials/009-legacy-book-1.md:678`; `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:537`
 
-- Note (summary from our notes, not a quotation): ![p298](009-legacy-book-1-panels/p298-sazen-kol-could-only-hold-off-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p298](../notes/materials/009-legacy-book-1-panels/p298-sazen-kol-could-only-hold-off-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p298 — `p298-sazen-kol-could-only-hold-off-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:680`
@@ -583,27 +581,27 @@ Our notes: `notes/materials/009-legacy-book-1.md:680`
 > Nihl: "YOU SHOULD HAVE STAYED DEAD ON OSSUS, ONE-ARM!" · "I DISLIKE HAVING TO KILL MY OPPONENTS TWICE!" · Wolf: "PERHAPS THE FORCE HAD A PURPOSE IN SENDING ME BACK -- TO BREAK YOUR HOLD ON THE GALAXY!"
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 4. Wolf Sazen rematch (Vendaxa). p116 (#6 Broken)
-![p116](009-legacy-book-1-panels/p116-nihl-vs-wolf-kill-twice.jpg)
+![p116](../notes/materials/009-legacy-book-1-panels/p116-nihl-vs-wolf-kill-twice.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:684`
 
-- Note (summary from our notes, not a quotation): ![p116](009-legacy-book-1-panels/p116-nihl-vs-wolf-kill-twice.jpg)
+- Note (summary from our notes, not a quotation): ![p116](../notes/materials/009-legacy-book-1-panels/p116-nihl-vs-wolf-kill-twice.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p116 — `p116-nihl-vs-wolf-kill-twice.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:687`
 
 - Note (summary from our notes, not a quotation): Outcome: interrupted when the battle shifts and Wolf covers the retreat (p129). Inconclusive.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p129 Wolf covers the retreat; Shado: GO, I'LL COVER YOU](009-legacy-book-1-panels/p129-wolf-covers-retreat-shado-go.jpg) *(p129)*
+![p129 Wolf covers the retreat; Shado: GO, I'LL COVER YOU](../notes/materials/009-legacy-book-1-panels/p129-wolf-covers-retreat-shado-go.jpg) *(p129)*
 Our notes: `notes/materials/009-legacy-book-1.md:691`
 
 - Note (summary from our notes, not a quotation): 5. Out-classes early-137 Cade and Syn together. p130 (#7 Broken)–p133 (#7 Broken) (see Cade 7).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p132 Syn fires at Nihl, who deflects](009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
-![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
-![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+![p132 Syn fires at Nihl, who deflects](../notes/materials/009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
+![p130](../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+![p133 Nihl's Force blast floors Cade and Syn](../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:694`
 
-- Note (summary from our notes, not a quotation): ![p132 Syn fires at Nihl, who deflects](009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
+- Note (summary from our notes, not a quotation): ![p132 Syn fires at Nihl, who deflects](../notes/materials/009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p132 Syn fires at Nihl, who deflects — `p132-syn-shoots-nihl-sith-are-worse.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:696`
@@ -611,11 +609,11 @@ Our notes: `notes/materials/009-legacy-book-1.md:696`
 > "I DO NOT DO THIS TO ASSIST YOU. I DO IT BECAUSE THIS ONE INTERESTS ME." · Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT. SKYWALKER IS WANTED ALIVE." · Nihl: "PITY." · "HOWEVER, LORD KRAYT WILLS, AND WE OBEY. DON'T WE?" *(the "ORDERS" balloon is Talon's, corrected 2026-10-21 from 013 p30)*
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: 6. Disables Cade from behind; "THIS ONE INTERESTS ME". p330 (#14 Claws)–p331 (#14 Claws)
-![p331](009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
-![p330](009-legacy-book-1-panels/p330-nihl-strikes-cade-from-behind.jpg)
+![p331](../notes/materials/009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
+![p330](../notes/materials/009-legacy-book-1-panels/p330-nihl-strikes-cade-from-behind.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:700`
 
-- Note (summary from our notes, not a quotation): ![p331](009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
+- Note (summary from our notes, not a quotation): ![p331](../notes/materials/009-legacy-book-1-panels/p331-nihl-talon-krayt-wants-alive.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p331 — `p331-nihl-talon-krayt-wants-alive.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:703`
@@ -626,20 +624,20 @@ Our notes: `notes/materials/009-legacy-book-1.md:703`
 Context: 7. Rank dispute with Maladi; claims Kol's kill; Holocron study and succession. p351 (#15 Claws), p377 (#17 Claws), p408 (#18 Claws)
 Our notes: `notes/materials/009-legacy-book-1.md:707`
 
-- Note (summary from our notes, not a quotation): ![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+- Note (summary from our notes, not a quotation): ![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p351 — `p351-nihl-slew-kol-maladi-fist-hand.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:710`
 
-- Note (summary from our notes, not a quotation): ![p377](009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
+- Note (summary from our notes, not a quotation): ![p377](../notes/materials/009-legacy-book-1-panels/p377-maladi-nihl-krayt-heir.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p377 — `p377-maladi-nihl-krayt-heir.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:713`
 
 - Note (summary from our notes, not a quotation): 8. Beaten by end-of-Claws Cade. p425 (#19 Claws)–p427 (#19 Claws) (see Cade 21).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p425](../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p427](../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:717`
 
 > one fool at a time
@@ -648,7 +646,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:717`
 Note (our notes, around the quote): Scaling (ANALYSIS) for debates #22, #36 and #131 (Nihl vs Kam Solusar / K'Kruhk): Book 1 gives Nihl one-armed-Sazen (an arm off), the Kol kill (with help), "one fool at a time" against Cade and Syn, and a loss to empowered Cade. He's never shown losing to a Jedi Master here.
 Our notes: `notes/materials/009-legacy-book-1.md:719`
 
-- Note (summary from our notes, not a quotation): ![p114 Draco and Krieg face Talon, Nihl and Sith](009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p114 Draco and Krieg face Talon, Nihl and Sith](../notes/materials/009-legacy-book-1-panels/p114-draco-krieg-vs-talon-nihl.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p114 Draco and Krieg face Talon, Nihl and Sith — `p114-draco-krieg-vs-talon-nihl.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:872`
@@ -657,9 +655,9 @@ Our notes: `notes/materials/009-legacy-book-1.md:872`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Loses his right arm to Nihl and nearly dies; revived by Cade. p18 (#1 Broken), p21 (#1 Broken); handbook (p465): "He lost his right arm in the battle and nearly lost his life. He has since retrained himself to wield his lightsaber with his left hand, keeping an 'empty sleeve'".
-![p18 Nihl vs Wolf Sazen, Ossus](009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
-![p21 Cade's blue Force surge revives Wolf](009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
-![p465 handbook: Hosk, Shado, Wolf](009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
+![p18 Nihl vs Wolf Sazen, Ossus](../notes/materials/009-legacy-book-1-panels/p018-nihl-vs-wolf-sazen-ossus.jpg)
+![p21 Cade's blue Force surge revives Wolf](../notes/materials/009-legacy-book-1-panels/p021-cade-revives-wolf-ossus.jpg)
+![p465 handbook: Hosk, Shado, Wolf](../notes/materials/009-legacy-book-1-panels/p465-handbook-shado-wolf-hosk.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:908`
 
 - Note (summary from our notes, not a quotation): Senses Talon as "A FLICKERING SHADOW IN THE FORCE" (p99 (#5 Broken)). Holds against Talon's lightning alongside Shado (p93 (#5 Broken)–p95 (#5 Broken)). Duels Nihl to an interruption (p116 (#6 Broken)).
@@ -740,9 +738,9 @@ Our notes: `notes/materials/009-legacy-book-1.md:1072`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; The Hands, Talon and Nihl. POV: Maladi, about Darth Nihl.
 Note (our notes, around the quote): The Hands, Talon and Nihl: "MY OWN PERSONAL ASSASSIN … YOU WILL TAKE ORDERS ONLY FROM ME" (p55). Nihl is "the top enforcer of Krayt's will out in the galaxy at large, and within the Sith Order itself" (handbook, p449). Nihl was "INTENDED TO BE LORD KRAYT'S FIST… YOU ARE ONLY A HAND BECAUSE YOUR PREDECESSOR DIED... PREMATURELY" (Maladi, p351).
-![p55 Krayt names Darth Talon](009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
-![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
-![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+![p55 Krayt names Darth Talon](../notes/materials/009-legacy-book-1-panels/p055-krayt-lightning-talon-final-test.jpg)
+![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1081`
 
 - Note (summary from our notes, not a quotation): Darth Maladi: head of intelligence, assassination and torture (p197, handbook p449). She is kept outside with Nihl (p351).
@@ -751,20 +749,20 @@ Our notes: `notes/materials/009-legacy-book-1.md:1083`
 
 - Note (summary from our notes, not a quotation): Rank-and-file Sith Lords: Maleval, Krul, Ruyn. Talon ("I WAS BORN SITH", p389) versus Nihl ("WARLORD ON YOUR OWN BACKWATER WORLD", p351).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p351](009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
-![p389](009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
+![p351](../notes/materials/009-legacy-book-1-panels/p351-nihl-slew-kol-maladi-fist-hand.jpg)
+![p389](../notes/materials/009-legacy-book-1-panels/p389-talon-killed-master-krayt-order-more-than-two.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1084`
 
 > The other of Darth Krayt's Hands, this Nagai warrior was a warlord on his home planet before joining the Sith. He is the top enforcer of Krayt's will out in the galaxy at large, and within the Sith Order itself.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Darth Nihl (p449).
-![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1125`
 
 > Perhaps the most brutal of Darth Krayt's followers, Darth Stryfe is raw power personified, waiting to be unleashed. He is currently Krayt's Fist, the head of the military, a position that Nihl once occupied before becoming a Hand.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Darth Stryfe (p450).
 Our notes: `notes/materials/009-legacy-book-1.md:1128`; `notes/materials/009-legacy-book-1.md:767`
 
-- Note (summary from our notes, not a quotation): ![p449 handbook: Talon, Nihl, Maladi](009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
+- Note (summary from our notes, not a quotation): ![p449 handbook: Talon, Nihl, Maladi](../notes/materials/009-legacy-book-1-panels/p449-handbook-talon-nihl-maladi.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p449 handbook: Talon, Nihl, Maladi — `p449-handbook-talon-nihl-maladi.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1150`
@@ -778,12 +776,12 @@ Our notes: `notes/materials/009-legacy-book-1.md:1193`
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): p130–133 (Nihl dominates) vs p425–427 (Cade wins) is the cleanest within-book growth arc. Use it to fix "end-of-Claws Cade ≥ Nihl". The counters are the shockwave softening Nihl first and Cade's heightened, Sith-eyed state.
 Context: Cade vs Nihl as a progression marker.
-![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
-![p132 Syn fires at Nihl, who deflects](009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
-![p133 Nihl's Force blast floors Cade and Syn](009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
-![p425](009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
-![p427](009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
+![p130](../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+![p132 Syn fires at Nihl, who deflects](../notes/materials/009-legacy-book-1-panels/p132-syn-shoots-nihl-sith-are-worse.jpg)
+![p133 Nihl's Force blast floors Cade and Syn](../notes/materials/009-legacy-book-1-panels/p133-nihl-force-blast-one-fool-at-a-time.jpg)
+![p425](../notes/materials/009-legacy-book-1-panels/p425-cade-vs-nihl-sith-eyes.jpg)
+![p426](../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p427](../notes/materials/009-legacy-book-1-panels/p427-cade-refuses-kill-nihl-attacks-krayt.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1194`
 
 - Note (summary from our notes, not a quotation): Use: he maimed Sazen and killed Kol.
@@ -794,7 +792,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1202`
 - Note (summary from our notes, not a quotation): Counter: both happened in a massacre with numbers; Cade says "IT TOOK HALF A DOZEN SITH" (p130). Nihl's one-on-ones in Book 1 are Wolf (rematch interrupted), early Cade (a win) and late Cade (a loss).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: Nihl vs Jedi Masters (debates #22, #36, #131).
-![p130](009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
+![p130](../notes/materials/009-legacy-book-1-panels/p130-cade-vs-nihl-no-chance-boy.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1203`
 
 - Note (summary from our notes, not a quotation): Sith: Darth Krayt / A'Sharad Hett, Darth Talon, Darth Nihl, Darth Wyyrlok (III), Darth Maladi, Darth Stryfe, Darth Maleval, Darth Krul, Darth Ruyn.
@@ -804,7 +802,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:1215`
 - Note (summary from our notes, not a quotation): Whether Nihl's arm or saber is cut on p426.
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Context: UNCLEAR:
-![p426](009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
+![p426](../notes/materials/009-legacy-book-1-panels/p426-cade-defeats-nihl.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1236`
 
 ## Star Wars: Legacy—War #1–6 (2010–11): power-scaling notes with panels
@@ -820,19 +818,19 @@ Our notes: `notes/materials/010-legacy-war.md:57`
 
 - Note (summary from our notes, not a quotation): Krayt's war room (p60). Krayt orders the Taivas attack and tells Nihl the Moffs "ARE MERELY BAIT".
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p60 "THEY ARE MERELY BAIT"](../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
 Our notes: `notes/materials/010-legacy-war.md:106`
 
 - Note (summary from our notes, not a quotation): Cade vs Krayt (p116–118). Krayt and Nihl by holo ("AS YOU FORESAW") (p116). Talon is slammed into a pillar (p116). Cade arrives, and Krayt pushes, catches and lightnings him (p117–118).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p116 Talon hurled into a pillar (thrower not shown)](010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
-![p117 "KRAYT." / "SKYWALKER."](010-legacy-war-panels/p117-krayt-skywalker.jpg)
-![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
+![p116 Talon hurled into a pillar (thrower not shown)](../notes/materials/010-legacy-war-panels/p116-talon-hurled-into-pillar.jpg)
+![p117 "KRAYT." / "SKYWALKER."](../notes/materials/010-legacy-war-panels/p117-krayt-skywalker.jpg)
+![p118 "SURRENDER. YOU FLED OUR LAST FIGHT..." Force sphere and lightning](../notes/materials/010-legacy-war-panels/p118-krayt-surrender-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:131`
 
 - Note (summary from our notes, not a quotation): Aftermath in battle (p127). The troopers go mad. Shado kills one, K'Kruhk warns of suicide runs, and Nihl orders the withdrawal and the troopers' destruction.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:136`
 
 - Note (summary from our notes, not a quotation): Cade recovered (p133–135). The *Mynock* crew recovers Cade, not breathing (p133). Nihl disperses the Sith (p134). Cade wakes from a "JEDI HIBERNATION TRANCE" (p135).
@@ -843,13 +841,13 @@ Our notes: `notes/materials/010-legacy-war.md:139`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: 2. Group assault on the Temple of the Sith. p15–16 (#1)
-![p15 Coruscant; Krayt and his Sith reach the throne room](010-legacy-war-panels/p015-krayt-sith-reach-throne-room.jpg) *(p15)*
-![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
+![p15 Coruscant; Krayt and his Sith reach the throne room](../notes/materials/010-legacy-war-panels/p015-krayt-sith-reach-throne-room.jpg) *(p15)*
+![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](../notes/materials/010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
 Our notes: `notes/materials/010-legacy-war.md:161`
 
 - Note (summary from our notes, not a quotation): On the page: Krayt (hooded), Talon, Nihl and two masked Sith troopers cut through red-saber Sith guards on the steps. One trooper holds a Zabrak Sith by the throat in a blue-glowing gauntlet.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
+![p16 Krayt, Talon, Nihl and Sith troopers cut through the temple guards](../notes/materials/010-legacy-war-panels/p016-sith-assault-temple-guards.jpg) *(p16)*
 Our notes: `notes/materials/010-legacy-war.md:166`
 
 > (p23) "ONCE, I THOUGHT TO BRING PEACE AND ORDER TO THE GALAXY THROUGH THE EXISTING GOVERNMENTS -- TO ALIGN THE WORLDS TO THE RULE OF THE ONE SITH." · "THAT CANNOT WORK. THE GALAXY MUST EXPERIENCE THE PAIN OF DEATH AND THE RAPTURE OF REBIRTH AS I HAVE." · "I WILL BRING CHAOS." · "IT IS TIME FOR WAR." · (p46, to Talon) "WHEN I CALLED TO THE ONE SITH THROUGH THE FORCE, I FELT SKYWALKER'S PRESENCE. AS MUCH AS THE BOY BELIEVES HE WALKS IN THE LIGHT, DARKNESS STILL SHROUDS HIM." · "FIND HIM AND MAKE HIM A GIFT OF YOUR BROKEN IMPERIAL KNIGHT." · (to Cade's holo) "DEATH IS NOT AN ENDING, BOY -- BUT IT IS A PASSAGEWAY TO SOMETHING GREATER. IT IS SOMETHING YOU, TOO, MUST EXPERIENCE, CADE SKYWALKER." · "FOR I HAVE HAD A VISION. YOU WILL BEND, YOU WILL BREAK, AND YOU WILL SERVE AT MY SIDE. BUT FIRST -- YOU MUST DIE." · (p60) "UNTIL THE FORCE SPEAKS TO YOU, DO NOT QUESTION MY JUDGMENT, GRAND ADMIRAL." · (to Nihl) "NONE. THEY ARE MERELY BAIT. I HAVE FORESEEN HOW THIS ALLIANCE WILL REACT TO THE IMMINENT ATTACK. THIS IS THE FIRST STEP IN MY FINAL PLAN TO BRING THE GALAXY TO HEEL."
@@ -873,12 +871,12 @@ Our notes: `notes/materials/010-legacy-war.md:550`
 
 - Note (summary from our notes, not a quotation): p60 (#3): loads the trooper ships; the Moffs are not to know.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p60 "THEY ARE MERELY BAIT"](../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
 Our notes: `notes/materials/010-legacy-war.md:554`
 
 - Note (summary from our notes, not a quotation): p75 (#4): "ALL UNITS -- ATTACK."
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
 Our notes: `notes/materials/010-legacy-war.md:555`
 
 - Note (summary from our notes, not a quotation): p116 (#6): "AS YOU FORESAW."
@@ -888,7 +886,7 @@ Our notes: `notes/materials/010-legacy-war.md:556`
 > "ALL SHIPS. LORD KRAYT IS DEAD. WITHDRAW FROM CORUSCANT AND ASSEMBLE AT THE PREDETERMINED COORDINATES." · "DESTROY ALL SITH TROOPERS!"
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: p127 (#6): on his bridge, cuts down a Sith trooper with his red saber.
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 Our notes: `notes/materials/010-legacy-war.md:557`
 
 - Note (summary from our notes, not a quotation): p134 (#6), Korriban:
@@ -899,9 +897,9 @@ Our notes: `notes/materials/010-legacy-war.md:559`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; A red-masked Sith reports. POV: A red-masked Sith reports, about Darth Nihl.
 Note (our notes, around the quote): A red-masked Sith reports: "THOSE ON KORRIBAN WHO COULD EVACUATE HAVE DONE SO, MY LORD. THOSE WHO COULD NOT ARE DEAD." The Sith is not named on the page; the look matches Havok's metal mask on p14, and Wookieepedia says Havok.
 Context: p134 (#6), Korriban:
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:560`
 
 > WE WILL DISPERSE INTO THE GALAXY IN SMALL NUMBERS, MASKING OURSELVES, HIDING AMIDST THE ENEMY.
@@ -915,20 +913,20 @@ Our notes: `notes/materials/010-legacy-war.md:560`
 > HE LIVES IN US. THE SITH WILL PREVAIL.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Dispersal captions, then close-up.
 Context: p134 (#6), Korriban:
-![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:562`
 
 > LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p127 K'Kruhk warns of suicide runs; Nihl.
-Note (our notes, around the quote): ![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
+Note (our notes, around the quote): ![p127 K'Kruhk warns of suicide runs; Nihl: "LORD KRAYT IS DEAD... DESTROY ALL SITH TROOPERS!"](../notes/materials/010-legacy-war-panels/p127-kkruhk-nihl-krayt-is-dead.jpg)
 (*Panel: p127 — `p127-kkruhk-nihl-krayt-is-dead.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:564`
 
 > HE LIVES IN US. THE SITH WILL PREVAIL.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p134 Nihl's dispersal speech.
-Note (our notes, around the quote): ![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+Note (our notes, around the quote): ![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 (*Panel: p134 — `p134-nihl-sith-will-prevail.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:567`
 
@@ -983,15 +981,15 @@ Our notes: `notes/materials/010-legacy-war.md:1004`
 - Note (summary from our notes, not a quotation): Nihl runs the trooper fleet (p60, p75) and leads after Krayt ("MY LORD", p134).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: Hands: Talon and Nihl.
-![p60 "THEY ARE MERELY BAIT"](010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
-![p75 "UNLEASH THE SITH TROOPERS."](010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p60 "THEY ARE MERELY BAIT"](../notes/materials/010-legacy-war-panels/p060-krayt-moffs-are-bait.jpg)
+![p75 "UNLEASH THE SITH TROOPERS."](../notes/materials/010-legacy-war-panels/p075-krayt-unleash-sith-troopers.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1005`
 
 > HIDE THE FLEET. THE SITH NOW WALK A DIFFERENT PATH. *(Nihl, p134)*
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; After Krayt. POV: Nihl.
 Note (our notes, around the quote): After Krayt: "HIDE THE FLEET. THE SITH NOW WALK A DIFFERENT PATH." (Nihl, p134). They disperse to infiltrate.
-![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
+![p134 Nihl's dispersal speech: "HE LIVES IN US. THE SITH WILL PREVAIL."](../notes/materials/010-legacy-war-panels/p134-nihl-sith-will-prevail.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1012`; `notes/materials/010-legacy-war.md:561`
 
 - Note (summary from our notes, not a quotation): Wyyrlok III, Saarai, Talon, Nihl, Stryfe, Havok, Maladi, Rauder and the Sith troopers.
@@ -1013,20 +1011,20 @@ Our notes: `notes/materials/010-legacy-war.md:1191`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Krayt's prose framing is maximal, but his body is failing.
 Note (our notes, around the quote): Krayt's prose framing is maximal, but his body is failing: "Arguably the most powerful man in the galaxy" (p169), and "The Yuuzhan Vong implants used to extend his life begin to consume him. Furthermore, healing trances and Force healing become less effective" (p170). A sidebar states flatly that he "is dying" (p54). His Con is 10, so his hp (135) is lower than Nihl's (145), Azard's and Draco's (137) and Fel's (157).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p169 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p169-arguably-the-most-powerful-man-in.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p170 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p170-krayt-bio-dying-cade-healing.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:31`
 
 > one of the most formidable lightsaber duelists in the Sith Order *(p173–174, p163)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Sith rank order by the numbers: Krayt CL20 (UtF +22) > Wyyrlok III CL16 (UtF +20) ≈ Nihl CL16 (UtF +15, but the best Sith duelist line after Krayt: +21, 2d10+10) > Azard CL15 / Maladi CL15 > Talon CL13 / Maleval CL13. Talon is statted barely above the generic Imperial Knight (CL11), despite the bio calling her "one of the most formidable lightsaber duelists in the Sith Order" (p173–174, p163).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-the-imperial-knights-learn-how-use.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p163-no-students-fail-out-of-imperial.jpg)
-![p163 generic Imperial Knight CL 11 (bio and stat)](011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
-![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-among-the-most-talented-and-dangerous.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-the-imperial-knights-learn-how-use.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p163 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p163-no-students-fail-out-of-imperial.jpg)
+![p163 generic Imperial Knight CL 11 (bio and stat)](../notes/materials/011-legacy-era-campaign-guide-panels/p163-imperial-knight-generic-stat.jpg)
+![p173 Darth Nihl CL 16 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 
 - Note (summary from our notes, not a quotation): | 4 | Darth Nihl | p173 | 16 | soldier 7 / officer 3 / Sith apprentice 5 / Sith Lord 1 | +15 | 34 (ff 31) / 33 / 32 | 145 (33) | 14 | 3 / 8 | long-handle +21 (2d10+10); +19 (3d10+10) RS |
@@ -1034,7 +1032,7 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:34`
 Context: | # | Character | Page | CL | Classes | UtF | Ref / Fort / Will | HP (Thr.) | DSS | Destiny / FP | Best lightsaber line |
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:119`
 
-- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
+- Note (summary from our notes, not a quotation): ![p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16)](../notes/materials/011-legacy-era-campaign-guide-panels/p224-appendix-cl-list-top.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p224 appendix: top of the CL list (Krayt CL20 and Roan Fel CL20; Nihl, Wyyrlok and Stazi CL16) — `p224-appendix-cl-list-top.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:140`
@@ -1043,24 +1041,24 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:140`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p172
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p172-darth-nihl-bio.jpg)
-![p172 Darth Maleval CL 13](011-legacy-era-campaign-guide-panels/p172-darth-maleval-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p172-darth-nihl-bio.jpg)
+![p172 Darth Maleval CL 13](../notes/materials/011-legacy-era-campaign-guide-panels/p172-darth-maleval-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:275`
 
 > Darth Nihl is a master of the long-handle lightsaber, for which he has developed his own unique fighting style. A man filled with arrogance, rage, and loathing, Darth Nihl shows no mercy toward his enemies. As the Emperor's Hand… the Nagai Sith Lord particularly relishes dealing with Jedi who escaped the attack on Ossus (which Darth Nihl himself led) *(p173)*
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p173
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
-![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
-![p173 Darth Nihl (part 2)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![p173 Talon bio: "one of the most formidable lightsaber duelists in the Sith Order"](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![p173 Darth Nihl (part 2)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-b.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:277`; `notes/materials/011-legacy-era-campaign-guide.md:908`
 
 > I HAVE PROVEN MY LOYALTY—AND MY WORTH—COUNTLESS TIMES...
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Pull quote (p15).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p15 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p015-i-have-proven-my-loyalty-and.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p15 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p015-i-have-proven-my-loyalty-and.jpg)
 Also cited as: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Darth Nihl — entry/section: Pull quote.
 Also noted as: Darth Nihl — entry/section: Pull quote: ""I HAVE PROVEN MY LOYALTY—AND MY WORTH—COUNTLESS TIMES..." —DARTH NIHL" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.15
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:279`; `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:115`
@@ -1097,10 +1095,10 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:289`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p197
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
-![p197 Shado Vao CL 10](011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![p197 Shado Vao CL 10](../notes/materials/011-legacy-era-campaign-guide-panels/p197-shado-vao-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-his-prowess-with-the-double-bladed.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p197-shado-has-vowed-to-kill-cade.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:294`
 
 > Nihl = premier duelist and enforcer, not a Force titan
@@ -1109,12 +1107,12 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:294`
 Note (our notes, around the quote): Scaling (ANALYSIS): the hardest-hitting Sith after Krayt, with the most hp of any Sith (145) and Ref 34. His UtF (+15) is low because he is a soldier/officer build. That fits "Nihl = premier duelist and enforcer, not a Force titan".
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:297`
 
-- Note (summary from our notes, not a quotation): ![p172 Nihl bio: Nagai warlord; Emperor's Hand](011-legacy-era-campaign-guide-panels/p172-darth-nihl-bio.jpg)
+- Note (summary from our notes, not a quotation): ![p172 Nihl bio: Nagai warlord; Emperor's Hand](../notes/materials/011-legacy-era-campaign-guide-panels/p172-darth-nihl-bio.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p172 Nihl bio: Nagai warlord; Emperor's Hand — `p172-darth-nihl-bio.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:299`
 
-- Note (summary from our notes, not a quotation): ![p173 Darth Nihl CL 16 (part 1)](011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+- Note (summary from our notes, not a quotation): ![p173 Darth Nihl CL 16 (part 1)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p173 Darth Nihl CL 16 (part 1) — `p173-darth-nihl-stat-a.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:302`; `notes/materials/011-legacy-era-campaign-guide.md:305`
@@ -1122,13 +1120,13 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:302`; `notes/materi
 > A weapon favored by the Sith Lord Darth Nihl
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; ![p63 long-handle lightsaber (.
-Note (our notes, around the quote): ![p63 long-handle lightsaber ("A weapon favored by the Sith Lord Darth Nihl")](011-legacy-era-campaign-guide-panels/p063-long-handle-saber.jpg)
+Note (our notes, around the quote): ![p63 long-handle lightsaber ("A weapon favored by the Sith Lord Darth Nihl")](../notes/materials/011-legacy-era-campaign-guide-panels/p063-long-handle-saber.jpg)
 (*Panel: p63 long-handle lightsaber ("A weapon favored by the Sith Lord Darth Nihl") — `p063-long-handle-saber.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:308`
 
 > The final step on her path to becoming a Sith Lord comes when she is ordered by Darth Krayt to slay the Sith Lord that had trained her, Darth Ruyn. With her master dead by her hands, Darth Talon becomes Darth Krayt's Hand, a special agent for the Emperor and the counterpart to Darth Nihl.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-talon-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:317`; `suspect-insight/debates/081-cade-skywalker-vs-darth-nox.md:83`
 
 - Note (summary from our notes, not a quotation): On the stat sheet she sits around a strong Imperial Knight, well below Nihl and Krayt.
@@ -1138,14 +1136,14 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:337`
 > Kol is killed in the Ossus massacre. He falls while fighting off a torrent of Sith attackers, including Darth Nihl. His death enables other Jedi to escape, including Jedi Master Wolf Sazen, Cade Skywalker, Shado Vao, and many younglings and Padawans.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; p196.
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:569`
 
 > A torrent of Sith attackers, including Darth Nihl
 > [fragment — full passage not on file]
 — Source: (debate #115, Bane vs Kol) — Owner Material 011 — Star Wars Saga Edition: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Note (our notes, around the quote): Scaling (ANALYSIS): his UtF (+20) ties Wyyrlok and is the highest of any Jedi in the book. "A torrent of Sith attackers, including Darth Nihl" supports 009's reading that Kol fell to numbers (debate #115, Bane vs Kol).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:579`
 
 > Sazen loses his right arm fighting Darth Nihl on Ossus. He elects not to replace the lost arm, and instead retrains himself to use his left arm instead. His 'empty sleeve' serves as a reminder to the Sith that, no matter what the cost, the Jedi will continue to fight them *(p197)*
@@ -1153,25 +1151,25 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:579`
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Label in our notes: p197
 Context: Bio:
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p197 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:594`
 
-- Note (summary from our notes, not a quotation): ![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p197 Wolf bio: lost his right arm to Nihl; "empty sleeve"](../notes/materials/011-legacy-era-campaign-guide-panels/p197-wolf-sazen-bio-arm-nihl.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p197 Wolf bio: lost his right arm to Nihl; "empty sleeve" — `p197-wolf-sazen-bio-arm-nihl.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:610`
 
 > After battles with Darth Nihl and Darth Talon, Cade quickly concludes that he needs to return to his Jedi training, if nothing else than for self-defense.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p209 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p209-cade-skywalker-bio.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:671`
 
 > A weapon favored by the Sith Lord Darth Nihl, the long-handle lightsaber caters to a particular fighting style.
 >
 > When you wield the lightsaber two-handed, you can choose to forego doubling your Strength bonus to damage and instead increase the lightsaber's base damage to 2d10.
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Long-handle lightsaber (p63)..
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p63 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p063-long-handle-saber.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p63 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p063-also-used-by-the-sith-lord.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p63 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p063-long-handle-saber.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p63 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p063-also-used-by-the-sith-lord.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:840`
 
 - Note (summary from our notes, not a quotation): Wyyrlok III and Kol (both UtF +20) outrank Nihl (+15), even though Nihl killed Kol (in a group) and maimed Wolf (+19).
@@ -1191,9 +1189,9 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1061`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Additional detail: Nihl became.
 Note (our notes, around the quote): Additional detail: Nihl became "Emperor's Hand after his predecessor dies under mysterious circumstances" (p172). 009's handbook says he was Fist before becoming Hand (p450). These don't contradict each other; the guide just doesn't mention the Fist post.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p172-darth-nihl-bio.jpg)
-![p172 Darth Maleval CL 13](011-legacy-era-campaign-guide-panels/p172-darth-maleval-stat.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p172-darth-nihl-bio.jpg)
+![p172 Darth Maleval CL 13](../notes/materials/011-legacy-era-campaign-guide-panels/p172-darth-maleval-stat.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p172 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p172-one-of-the-empire-s-most.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:1064`
 
 - Note (summary from our notes, not a quotation): Nihl and Talon bio quotes (debate #67, Q14 and Q15) — VERIFIED verbatim (p172, p173).
@@ -1258,7 +1256,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:56`
 Note (our notes, around the quote): Corde rocketpacks up the Temple; Syn's bugs blow the main hangar (p120–122), the "signal" Veed recognises (p123). Cade beats Nihl but refuses to kill him "BECAUSE YOU WANT ME TO!" and attacks Krayt (p124–126). Skull Squadron is ordered off (p127, p130–131). Krayt boasts and Cade taunts him about the Vong growths (p128–129); Krayt has Cade on the floor when Corde shoots him through the window (p132). Cade jumps from the tower and Syn catches him in the *Mynock* (p133–135). Corde tells Cade she is his mother and leaves by the undercity (p136). Krayt: "I WILL BREAK HIM AND I WILL USE HIM AND THEN I WILL KILL HIM." (p137). Veed and Calixte discuss the outcome; alone, Calixte plays a hologram of Kol, herself and toddler Cade: "RUN." (p138–141).
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:60`
 
-- Note (summary from our notes, not a quotation): ![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
+- Note (summary from our notes, not a quotation): ![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p107 — `p107-krayt-coral-consume-nihl-village.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:118`
@@ -1273,7 +1271,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:228`
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:231`
 
-- Note (summary from our notes, not a quotation): ![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+- Note (summary from our notes, not a quotation): ![p29 Sith eyes; Nihl from behind](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p29 — `p029-cade-sith-eyes-nihl-from-behind.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:236`
@@ -1282,7 +1280,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:236`
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:291`
 
-- Note (summary from our notes, not a quotation): ![p117 Cade calls the saber, strikes Talon, faces Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p117 Cade calls the saber, strikes Talon, faces Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p117-cade-strikes-talon-faces-nihl.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p117 — `p117-cade-strikes-talon-faces-nihl.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:299`
@@ -1291,7 +1289,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:299`
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:305`
 
-- Note (summary from our notes, not a quotation): ![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+- Note (summary from our notes, not a quotation): ![p125 Cade beats Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p125 — `p125-cade-beats-nihl.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:310`
@@ -1322,21 +1320,21 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:361`
 > I DO IT BECAUSE THIS ONE INTERESTS ME.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Takes Cade down from behind. p29 (#14)–p30 (#14). See Cade 3. "I DO IT BECAUSE THIS ONE INTERESTS ME."
-![p29 Sith eyes; Nihl from behind](013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
-![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
+![p29 Sith eyes; Nihl from behind](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p029-cade-sith-eyes-nihl-from-behind.jpg)
+![p30 Talon: "I AM HERE ON ORDERS FROM OUR LORD KRAYT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p030-talon-here-on-orders.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:365`
 
 > (p49) Wyyrlok: "ONLY DARTH TALON, THE PRISONER AND MYSELF ARE TO ENTER. YOU QUESTION DARTH KRAYT'S DIRECT ORDER?" · (p50) Maladi: "IT'S BECAUSE YOU WERE NOT BORN SITH." · "YOU, LORD NIHL, BEGAN AS A WARLORD ON YOUR OWN BACKWATER WORLD BEFORE YOU BECAME AN INITIATE OF THE SITH." · Nihl: "I HAVE PROVEN MY LOYALTY -- AND MY WORTH -- COUNTLESS TIMES AND NEVER MORE THAN WHEN LEADING THE ASSAULT ON OSSUS." · "I EARNED MY PLACE AS A HAND. I SLEW MANY JEDI THAT DAY, INCLUDING KOL SKYWALKER." · Maladi: "YOU WERE INTENDED TO BE LORD KRAYT'S FIST -- HIS MILITARY LEADER. YOU ARE ONLY A HAND BECAUSE YOUR PREDECESSOR DIED...PREMATURELY...AND TALON WAS NOT YET READY." · **Nihl**: "YOU WERE BORN SITH, YET YOU STAND HERE WITH ME. OUTSIDE."
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 2. Claims Kol's kill; rank quarrel with Maladi. p49 (#15)–p50 (#15) [009 p350–351]
-![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
+![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:367`
 
 > YOU WERE BORN SITH, YET...
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-Note (our notes, around the quote): ![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
+Note (our notes, around the quote): ![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
 (*Panel: p50 — `p050-nihl-slew-kol-born-sith.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:370`
 
@@ -1349,15 +1347,15 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:373`; `notes
 > THE FIRST TIME DARTH NIHL EXPERIENCED THE EMBRACE, HIS ANGER AND PAIN WERE SO KEEN THAT HE SLEW AN ENTIRE VILLAGE.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. "SLEW AN ENTIRE VILLAGE" in his first Embrace (Krayt's statement). p107 (#18): "THE FIRST TIME DARTH NIHL EXPERIENCED THE EMBRACE, HIS ANGER AND PAIN WERE SO KEEN THAT HE SLEW AN ENTIRE VILLAGE." No method or numbers are given.
-![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
+![p107 "THEY THREATEN TO CONSUME ME"; Nihl's village](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p107-krayt-coral-consume-nihl-village.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:376`
 
 > ...AND MAIMED YOUR TEACHER!
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 5. Loses one-on-one to Cade; spared. p117–126. See Cade 10. Krayt twice names him Kol's killer (p119, p126: "...AND MAIMED YOUR TEACHER!").
-![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p119 Krayt: "SLAY THE ONE WHO KILLED YOUR FATHER!"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p119-krayt-slay-the-one-who-killed-father.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:378`
 
 - Note (summary from our notes, not a quotation): Scaling (ANALYSIS): for debates #22, #36 and #131, Claws gives Nihl a from-behind takedown of a Cade who was engaged with Talon, a clean loss to the heightened end-of-Claws Cade, and two kill claims (Kol, a village) with no on-page demonstration. Nihl's own Kol claim is "MANY JEDI THAT DAY, INCLUDING KOL SKYWALKER" during an assault he led, not a duel.
@@ -1393,13 +1391,13 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:501`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels. POV: Maladi, about Darth Nihl.
 Note (our notes, around the quote): The Hands, Talon and Nihl: Nihl, "AS ONE OF DARTH KRAYT'S HANDS" (p49); "YOU WERE INTENDED TO BE LORD KRAYT'S FIST ... YOU ARE ONLY A HAND BECAUSE YOUR PREDECESSOR DIED...PREMATURELY...AND TALON WAS NOT YET READY." (Maladi, p50). Talon: "I WAS BORN SITH." (p88).
-![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
-![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
+![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
+![p88 Talon: "I KILLED HIM." / "MORE THAN TWO"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p088-talon-killed-her-master-more-than-two.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:512`
 
 - Note (summary from our notes, not a quotation): Darth Maladi: intelligence and biotech; "LADY MALADI" (p32, p76); kept outside with Nihl (p49–50).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
-![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
+![p50 Nihl: "INCLUDING KOL SKYWALKER"; "YOU WERE BORN SITH, YET..."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p050-nihl-slew-kol-born-sith.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:513`
 
 > HE SLEW AN ENTIRE VILLAGE.
@@ -1412,31 +1410,31 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:538`
 - Note (summary from our notes, not a quotation): Use: beats Nihl one-on-one (p124–126); the burst makes four Sith incl. Krayt recoil (p116); double dark-side healing (p44); purges a lethal drug dose (p38); Krayt's "GREAT RAW POWER" (p72); flees Krayt's tower alive.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: End-of-Claws Cade (debates #61, #81, #85, #91).
-![p44 Cade heals both at once](013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
-![p72 "YOU HAVE GREAT RAW POWER"](013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
-![p116 the burst; four Sith recoil](013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
-![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p44 Cade heals both at once](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p044-cade-heals-two-at-once.jpg)
+![p72 "YOU HAVE GREAT RAW POWER"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p072-krayt-great-raw-power.jpg)
+![p116 the burst; four Sith recoil](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p116-cade-shockwave-four-sith-recoil.jpg)
+![p125 Cade beats Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:557`
 
 - Note (summary from our notes, not a quotation): Counter: the Nihl win comes right after a surprise burst caught Nihl, and Cade is in a heightened rage state. Talon beats him twice (p78–80, p110). Against Krayt he ends up on the floor before Corde's shot (p132), and Krayt is holding back because he needs him alive (p112). Krayt's own rating: "NEITHER JEDI NOR SITH" (p128).
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: End-of-Claws Cade (debates #61, #81, #85, #91).
-![p78 Talon: "NO THREAT, NO PURPOSE."](013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
-![p80 Talon's cut; "HEAL YOURSELF"](013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
-![p110 Talon repels Cade: "IDIOT."](013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
-![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
-![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p78 Talon: "NO THREAT, NO PURPOSE."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p078-talon-kicks-cade-no-threat-no-purpose.jpg)
+![p80 Talon's cut; "HEAL YOURSELF"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p080-talon-cuts-cade-self-heal.jpg)
+![p110 Talon repels Cade: "IDIOT."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p110-talon-repels-cade-idiot.jpg)
+![p112 "NOTHING LESS WILL EVEN MAKE ME PAUSE!"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p112-krayt-nothing-less-make-me-pause.jpg)
+![p128 "I'VE KILLED THOUSANDS OF OPPONENTS SINCE THEN"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p128-krayt-killed-thousands.jpg)
+![p132 Corde shoots Krayt off Cade](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:558`
 
 - Note (summary from our notes, not a quotation): Hax note: the "break" side of his healing (p71 threat, p115 cue, p125–126 use on a pinned Nihl) needs touch and the "RED LINES"; it isn't a ranged instant kill.
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: End-of-Claws Cade (debates #61, #81, #85, #91).
-![p71 Cade blasts Talon: "EXPLODE THAT POINT"](013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
-![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
-![p125 Cade beats Nihl](013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
-![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
+![p71 Cade blasts Talon: "EXPLODE THAT POINT"](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p071-cade-blasts-talon-explode-threat.jpg)
+![p115 Kol's ghost: "THAT WHICH CAN HEAL CAN ALSO BREAK."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p115-kol-ghost-heal-can-break.jpg)
+![p125 Cade beats Nihl](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p125-cade-beats-nihl.jpg)
+![p126 "NIHL IS THE SITH WHO KILLED YOUR FATHER" / "NO."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p126-krayt-nihl-killed-father-cade-no.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:559`
 
 - Note (summary from our notes, not a quotation): Nihl (debates #22, #36, #131).
@@ -1563,8 +1561,8 @@ Our notes: `legends-feats.md:2360`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Led the Ossus attack; "master of the long-handle lightsaber… his own unique fighting style" (material 011; p173; debates #22, #36, #131)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p173 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p173-darth-nihl-stat-a.jpg)
 Our notes: `legends-feats.md:2444`
 
 - Note (summary from our notes, not a quotation): Stats: CL 16 (soldier 7/officer 3/Sith apprentice 5/Sith Lord 1). UtF +15. Ref 34, Fort 33, Will 32. hp 145. Long-handle lightsaber +21 (2d10+10). (material 011; p173)
@@ -1575,7 +1573,7 @@ Our notes: `legends-feats.md:2451`
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU); Kol's death was a group kill: Kol.
 Note (our notes, around the quote): Kol's death was a group kill: Kol "falls while fighting off a torrent of Sith attackers, including Darth Nihl" (p196).
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 Also noted as: Jedi numbers: Wolf Sazen is CL15 (UtF +19), but his build is purely defensive and utility, with no battle strike and no multi-attack. Kol Skywalker is CL14 with UtF +20 and Strong in the Force, and "falls while fighting off a torrent of Sith attackers, including Darth Nihl" (p196). Early-series Cade is only CL11: UtF +12 per the Force Powers line (+11 per Skills), lightsaber +11, plus dark transfer.
 Also cited as: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Kol.
@@ -1591,8 +1589,8 @@ Our notes: `legends-feats.md:2452`; `notes/materials/011-legacy-era-campaign-gui
 > [fragment — full passage not on file]
 — Source: Legends Feats & Quotes (Star Wars Legends / EU).
 Context: Kol: "a powerful and influential Jedi named Kol Skywalker" (p7). Stats: CL 14. UtF +20. Strong in the Force. hp 116. Lightsaber +18. (material 011; p196; debate #115)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p7 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p007-timeline.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p196 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p196-kol-skywalker-bio-nihl.jpg)
 Our notes: `legends-feats.md:2505`; `notes/materials/011-legacy-era-campaign-guide.md:582`
 
 - Note (summary from our notes, not a quotation): Wolf Sazen: lost his right arm to Nihl and kept the "empty sleeve". Stats: CL 15. UtF +19. Will 32. hp 107. Lightsaber +17. A defensive build with no battle strike. (material 011; p197–198; debate #67)

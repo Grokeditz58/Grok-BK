@@ -18,7 +18,6 @@ Our notes: `notes/materials/038-star-wars-insider/036-ins036.md:271`
 > Thrawn's battle nearly ended in disaster when Cbaoth petulantly seized control of the Beil cose’s turbolaser batteries and focused them all on a single vessel, a small New Republic craft that had had the effrontery to strike at his flag- Ship, The vessel was destroyed, but Chacth's nearmutiny at Taanab was a harbinger of the unpredictable bravado that would later trigger the descent of Thrawn's pet Jedi into self-destructive madness.
 — Source: Star Wars Insider #36 (1998); Grand Admiral Thrawn — entry/section: Star Wars Insider 036 (1998).
 Note (our notes, around the quote): Grand Admiral Thrawn — entry/section: Star Wars Insider 036 (1998): "Thrawn's battle nearly ended in disaster when Cbaoth petulantly seized control of the Beil cose’s turbolaser batteries and focused them all on a single vessel, a small New Republic craft that had had the effrontery to strike at his flag- Ship, The vessel was destroyed, but Chacth's nearmutiny at Taanab was a harbinger of the unpredictable bravado that would later trigger the descent of Thrawn's pet Jedi into self-destructive madness." Source: *Star Wars Insider #36* (1998), p.52
-![Quote image: *Star Wars Insider #36* (1998), p.52 — full quote as printed](quotes/ins036-p52-thrawns-battle-nearly-ended-in-disaster.jpg)
 Our notes: `notes/materials/038-star-wars-insider/036-ins036.md:289`
 
 ## Star Wars Insider #125 (2011)

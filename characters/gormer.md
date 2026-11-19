@@ -14,7 +14,6 @@
 > WE'RE NOMADS. WE DON'T HAVE HEADQUARTERS.
 — Source: Sourcebooks/Knights of the Old Rebuplic Campaign Guide.pdf [Star Wars Rol; Gormer (Nomad) — entry/section: Pull quote. POV: speaker not named in our notes.
 Note (our notes, around the quote): Gormer (Nomad) — entry/section: Pull quote: ""WE'RE NOMADS. WE DON'T HAVE HEADQUARTERS." —GORMER" Source: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.208
-![Quote image: *Knights of the Old Rebuplic Campaign Guide* (SWRPG Saga Edition), scan p.208 — full quote as printed](quotes/d718-s208-were-nomads-we-dont-have-headquarters.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/718-knights-of-the-old-rebuplic-campaign-guide-scan-181-226.md:258`
 
 # Debate and forum claims (unverified)

@@ -19,7 +19,6 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-4-exile-notes.md:163`
 
 - Note (summary from our notes, not a quotation): art caption: "The pilots of Rogue Squadron: Derek "Hobbie" Klivian, Wedge Antilles, Wes Janson, and Tycho Celchu" Source: The New Essential Chronology, p.175, caption
   — Source: Part Eight: The Return of the Jedi Knights. POV: speaker not named in our notes.
-![Quote image: The New Essential Chronology, p.175 — full quote as printed](quotes/nec-p175-caption-the-pilots-of-rogue-squadron.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/08-part-eight-return-of-the-jedi-knights.md:144`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -47,13 +46,11 @@ Our notes: `notes/materials/037-sw-d20-folder/556-part-2-four-is-green-lighted.m
 > One man, a pilot on an alien world, standing up for honor and the life of an unconscious woman. That guy didn't know what hit him.
 — Source: Locations/Planet Hoppers/Adumar - Pilots Wanted/Part 3 - Three, Ready For.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Wes Janson on the duel: "One man, a pilot on an alien world, standing up for honor and the life of an unconscious woman. That guy didn't know what hit him." Source: *Part 3 - Three, Ready For a Furball* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Part 3 - Three, Ready For a Furball* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d557-s1-one-man-a-pilot-on-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/557-part-3-three-ready-for-a-furball.md:12`
 
 > So I used the unfamiliar weapon to draw his attention away to the left, which was enough to open him up for an old-fashioned sucker punch. And then another sucker punch, and a sucker kick or two. Maybe a sucker elbow.
 — Source: Locations/Planet Hoppers/Adumar - Pilots Wanted/Part 3 - Three, Ready For.
 Note (our notes, around the quote): No single roster character (rules/setting/general) — entry/section: Wes Janson on winning the duel: "So I used the unfamiliar weapon to draw his attention away to the left, which was enough to open him up for an old-fashioned sucker punch. And then another sucker punch, and a sucker kick or two. Maybe a sucker elbow." Source: *Part 3 - Three, Ready For a Furball* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Part 3 - Three, Ready For a Furball* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d557-s2-so-i-used-the-unfamiliar-weapon.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/557-part-3-three-ready-for-a-furball.md:19`
 
 ## Locations/Planet Hoppers/Hoth - Under the Ice/Part 3 - Merchants of Death.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -72,7 +69,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-121-180.md:15
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Starfighters of Adumar (Aaron Allston), Chapter 3 (text copy `MEGA_Legend_The_X_Wing_Series_Star_Wars_X_Wing_09_Starfighters_of_Adumar_Aaron_Allston_epub`).)
 Note (our notes, around the quote): Wes Janson — entry/section: Wes Janson on the blastsword: "In the words of Wes Janson, "It's like a blaster you have to hit someone with."" Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.122
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.122 — full quote as printed](quotes/d668-s122-in-the-words-of-wes-janson.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-121-180.md:17`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

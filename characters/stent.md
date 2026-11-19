@@ -34,7 +34,6 @@ Our notes: `notes/materials/037-sw-d20-folder/153-voss-parck.md:10`
 > Eighteen years after the Battle of Endor, Voss Parck still commands the secret base, helping oversee the ever-expanding territories taken by Chiss expeditionary forces loyal to the memory of Thrawn. He is rarely without his right-hand man, the Chiss named Stent. Neither should be underestimated as a foe on the battlefield or at the conference table, but Parck knows where the power ultimately lies -- with Mitth'raw'nuruodo, be he living or dead.
 — Source: Characters/Voss Parck.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Voss Parck; Grand Admiral Thrawn; Stent — entry/section: Voss Parck at Nirauan: "Eighteen years after the Battle of Endor, Voss Parck still commands the secret base, helping oversee the ever-expanding territories taken by Chiss expeditionary forces loyal to the memory of Thrawn. He is rarely without his right-hand man, the Chiss named Stent. Neither should be underestimated as a foe on the battlefield or at the conference table, but Parck knows where the power ultimately lies -- with Mitth'raw'nuruodo, be he living or dead." Source: *Voss Parck* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Voss Parck* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d153-s1-eighteen-years-after-the-battle-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/153-voss-parck.md:18`
 
 ## Star Wars Insider #29 (1996)

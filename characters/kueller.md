@@ -14,39 +14,33 @@
 > Over several years, Kueller employed dark side skills to exterminate the Jehar and become Almania's undisputed leader.
 — Source: Part Nine: Uprisings and Insurgencies; Kueller — Kueller's dark side.
 Note (our notes, around the quote): Kueller — Kueller's dark side: "Over several years, Kueller employed dark side skills to exterminate the Jehar and become Almania's undisputed leader." Source: The New Essential Chronology, p.182
-![Quote image: The New Essential Chronology, p.182 — full quote as printed](quotes/nec-p182-kuellers-dark-side.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:58`
 
 > Kueller had helped put him back together, and Brakiss served the powerful man out of gratitude and fear.
 — Source: Part Nine: Uprisings and Insurgencies; Brakiss; Kueller — Brakiss serves Kueller.
 Note (our notes, around the quote): Brakiss; Kueller — Brakiss serves Kueller: "Kueller had helped put him back together, and Brakiss served the powerful man out of gratitude and fear." Source: The New Essential Chronology, p.183
-![Quote image: The New Essential Chronology, p.183 — full quote as printed](quotes/nec-p183-brakiss-serves-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:67`
 
 > In addition to the Senate bombing, Kueller used rigged droids to obliterate the populations of Pydyr and Auyemesh, two of the three inhabited moons orbiting Almania.
 — Source: Part Nine: Uprisings and Insurgencies; Kueller — rigged droids.
 Note (our notes, around the quote): Kueller — rigged droids: "In addition to the Senate bombing, Kueller used rigged droids to obliterate the populations of Pydyr and Auyemesh, two of the three inhabited moons orbiting Almania." Source: The New Essential Chronology, p.183
-![Quote image: The New Essential Chronology, p.183 — full quote as printed](quotes/nec-p183-rigged-droids.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:69`
 
 > Brakiss (foreground) and Kueller
 > [fragment — full passage not on file]
 — Source: Part Nine: Uprisings and Insurgencies; Brakiss; Kueller — art caption.
 Note (our notes, around the quote): Brakiss; Kueller — art caption: "Brakiss (foreground) and Kueller" Source: The New Essential Chronology, p.183, caption
-![Quote image: The New Essential Chronology, p.183 — full quote as printed](quotes/nec-p183-caption-brakiss-foreground-and-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:71`
 
 > Kueller ignited his energy blade and joined battle with Luke, who realized that his aggression was only making Kueller stronger.
 — Source: Part Nine: Uprisings and Insurgencies; Luke Skywalker; Kueller — Luke vs Kueller.
 Note (our notes, around the quote): Luke Skywalker; Kueller — Luke vs Kueller: "Kueller ignited his energy blade and joined battle with Luke, who realized that his aggression was only making Kueller stronger." Source: The New Essential Chronology, p.184
-![Quote image: The New Essential Chronology, p.184 — full quote as printed](quotes/nec-p184-luke-vs-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:78`
 
 > a native thernbee animal—carrying Force-repelling ysalamiri in its belly—nullified Kueller's Force advantage.
 > [fragment — full passage not on file]
 — Source: Part Nine: Uprisings and Insurgencies; Kueller; Luke Skywalker — ysalamiri nullify Kueller.
 Note (our notes, around the quote): Kueller; Luke Skywalker — ysalamiri nullify Kueller: "a native thernbee animal—carrying Force-repelling ysalamiri in its belly—nullified Kueller's Force advantage." Source: The New Essential Chronology, p.184
-![Quote image: The New Essential Chronology, p.184 — full quote as printed](quotes/nec-p184-ysalamiri-nullify-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:80`
 
 > In a blind rage, Kueller pulled oul a master detonator that could trig- ger the explosion of every drolé manufactured on Telti.
@@ -64,7 +58,6 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Leia Organa Solo; Kueller — Leia kills Kueller: "Drawing a blaster, she shot Kueller cleanly in the head. Was her deed—a violent killing committed in anger—an act born from the dark side? At that moment, she didn't care." Source: The New Essential Chronology, p.184
-![Quote image: The New Essential Chronology, p.184 — full quote as printed](quotes/nec-p184-leia-kills-kueller.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-and-insurgencies.md:82`
 
 ## Star Wars Saga Edition: Jedi Academy Training Manual (WotC, 2009): power-scaling and lore notes
@@ -84,7 +77,6 @@ Our notes: `notes/materials/027-new-essential-chronology/09-part-nine-uprisings-
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Brakiss; Kueller — Brakiss — with Kueller and the Second Imperium: "Brakiss immediately swears his allegiance to the Second Imperium and begins building an academy equal to Skywalker's but devoted entirely to the dark side." Source: Jedi Academy Training Manual, p.116
-![Quote image: Jedi Academy Training Manual, p.116 — full quote as printed](quotes/jatm-p116-brakiss-with-kueller-and-the-second.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:35`
 
 > After less than a year, Dolph receives the news of his parents’ death by the Je‘har regime, the new government on Almania. After returning to his homeworld and confirming the news, he falls to the dark side and blames the New Republic for its inaction. Seeking revenge, he dons a suit of armor along with a Hendanyn death mask and changes his name to Kueller, the name of a long-dead Almanian general. He forms an army, attracting members of the local population, and overthrows the Je'har regime.
@@ -97,13 +89,11 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Full sentence/passage taken from the source text on file: `research_primary_jedi_academy_training_manual_jatm_paged_txt`.)
 Note (our notes, around the quote): Brakiss; Kueller — Kueller — recruits Brakiss: "he encounters Brakiss, who also trained under Skywalker and was emotionally torn when forced to confront his inner demons. Kueller repairs Brakiss's damaged psyche and brings him into the fold by assigning him to supervise a droid factory on Telti." Source: Jedi Academy Training Manual, p.122
-![Quote image: Jedi Academy Training Manual, p.122 — full quote as printed](quotes/jatm-p122-kueller-recruits-brakiss.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:76`
 
 > After defeating Skywalker in a lightsaber duel on Pydyr and imprisoning him to use as bait for Leia Organa-Solo.
 — Source: Chapter VI: Dangers of Study; Kueller; Luke Skywalker — Kueller — first duel.
 Note (our notes, around the quote): Kueller; Luke Skywalker — Kueller — first duel: "After defeating Skywalker in a lightsaber duel on Pydyr and imprisoning him to use as bait for Leia Organa-Solo." Source: Jedi Academy Training Manual, p.122
-![Quote image: Jedi Academy Training Manual, p.122 — full quote as printed](quotes/jatm-p122-kueller-first-duel.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:78`
 
 > Kueller sets a trap for Luke Skywalker and lures him to Pydyr. After defeat- ing Skywalker in a lightsaber duel on Pydyr and imprisoning him to use as bait for Leia Organa-Solo. He issues demands that he become the new leader of the New Republic after displaying footage of Luke and detonating the explo- sives on Auyemesh as a demonstration of his power. After the Senate issues a Vote of No Confidence in her leadership, Leia resigns her position to Mon Mothma and leads an attack force against Almania to free her brother.
@@ -123,7 +113,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary jedi academy training manual jatm paged (text copy `research_primary_jedi_academy_training_manual_jatm_paged_txt_fea130719f`).)
 Note (our notes, around the quote): Kueller; Luke Skywalker; Leia Organa Solo — Kueller — second duel and death: "Kueller defeats the Jedi Master again and is about to strike him down when the untimely arrival of a ysalamir cancels his Force abilities. With most of his defenses down, Leia shoots and kills Kueller." Source: Jedi Academy Training Manual, p.122
-![Quote image: Jedi Academy Training Manual, p.122 — full quote as printed](quotes/jatm-p122-kueller-second-duel-and-death.jpg)
 Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-study.md:80`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -131,7 +120,6 @@ Our notes: `notes/materials/028-jedi-academy-training-manual/06-ch6-dangers-of-s
 > The New Republic launched an offensive, the Battle of Almania, and Leia eventually killed a weakened Kueller with a blaster shot while he was battling Luke.
 — Source: scan pages 1–40; Leia Organa Solo; Kueller; Luke Skywalker.
 Note (our notes, around the quote): Leia Organa Solo; Kueller; Luke Skywalker: "The New Republic launched an offensive, the Battle of Almania, and Leia eventually killed a weakened Kueller with a blaster shot while he was battling Luke." Source: The Complete Star Wars Encyclopedia, Vol. I, p.24
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.24 — full quote as printed](quotes/v1-p24-the-new-republic-launched-an-offensive.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan-001-040.md:250`
 
 > The sensors instantly alerted a central station, which transmitted signals closing airtight bulkhead doors for automatic sealup. automixer A bartending droid that de­ tected the species of user to ensure palatable potables. autotourniquet A medical device that sealed over wounds and amputations to re­ strict blood loss and promote healing. It was also referred to as a constrictor. autovalet These devices, which automati­ cally cleaned and pressed clothing, could be found in hotels and luxury starships as well as the homes of the wealthy. They were some­ times full-scale droids. AuyemeshOne ofthree moons orbitingthe planet Almania. Its population was destroyed by the dark sider who called himself Kueller 13 years after the Battle of Endor. He did so to harvest the wealth of the inhabitants and to add credence to his ultimatum demanding that New Republic Chief of State Leia Organa Solo step down and hand over her power to him. AV-6R7 A supervisor droid that spent some time aboard the bridge of the Executor as well as overseeing work droids for Moff Jerjerrod on the second Death Star. avabush spice This spice caused sleepiness and was some­ times stirred into drinks or baked into sweets. Used properly, it could AvatarOrbital Platform(l} Avatar-7 enhancedsuper battle droid also act as a truth serum.
@@ -139,13 +127,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/00-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kueller: "Its population was destroyed by the dark sider who called himself Kueller 13 years after the Battle of Endor." Source: The Complete Star Wars Encyclopedia, Vol. I, p.49
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.49 — full quote as printed](quotes/v1-p49-its-population-was-destroyed-by-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:187`
 
 > Davis, a man whom Blue secretly loved, was killed in one of Kueller's bombing attacks, and she then told Solo everything she knew about the operation.
 — Source: scan pages 81–120; Kueller. POV: Kueller.
 Note (our notes, around the quote): Kueller: "Davis, a man whom Blue secretly loved, was killed in one of Kueller's bombing attacks, and she then told Solo everything she knew about the operation." Source: The Complete Star Wars Encyclopedia, Vol. I, p.80
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.80 — full quote as printed](quotes/v1-p80-davis-a-man-whom-blue-secretly.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:120`
 
 > He flew as wingman to Kenobi in missions to Teth and led Squad Seven during the Battle ofCoruscant. Davin,CortAn ex-Journeyman Protector from Concord Dawn, he assisted the Kami­ noan cloners in the training of ARC troopers and clone commanders. A non-Mandalorian, he counted Commander Bacara as one of his most successful students. Daughters of the Ffib Davip,CommanderEldoA New Repub­ lic fleet officer in command of the Super Star Destroyer Lusankya during the war against the Yuuzhan Vong. He single-handedly piloted the modified warship during the evacuation of Bor­ leias, slamming the vessel into Czulkang Lah's worldship and escaping aboard a Y-wing fighter. Davis A handsome blond smuggler from Fwatna, he saved Han Solo from a gang of Glottalphibs on Skip 5 in the Smuggler's Run asteroid field. Davis was later killed in one of the bombings by the Dark Jedi Kueller. Only then did Sinewy Ana Blue reveal that she was secretly in love with him. Davnar This planet was the homeworld of the famed winged predator, the kalidor. The KalidorCrescent, the highestaward that could be bestowed upon Rebel Alliance pilots, was named in honor of the creature. Dawferim Selfhood States A group of worlds that formed their own protective feder­ ation during the turmoil and constant warfare in the six years following the Battle of Endor.
@@ -153,7 +139,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kueller: "Davis was later killed in one of the bombings by the Dark Jedi Kueller." Source: The Complete Star Wars Encyclopedia, Vol. I, p.174
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.174 — full quote as printed](quotes/v1-p174-davis-was-later-killed-in-one.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan-161-200.md:254`
 
 > Like Kueller, Femon wore a death mask, but hers looked less real­ istic than Kueller's own. She had been serving Kueller since the beginning of his campaign against the New Republic. Her family had been killed when the Imperial battlemoon Eye o f Palpatine swept over her planet. In some ways, her need for revenge was even more severe than Kueller's. She withdrew her support from Kueller once she believed that he was exhibiting the same weakness that she attributed to the New Republic: not ruling with the iron fist necessary to squash dan­ gerous outside elements. Because she lacked confidence in him, Kueller killed her with his Force powers. Fen, Calk One of )abba the Hutt's accoun­ tants, he was responsible for maintaining the file on Han Solo's debt in the years following the Battle of Yavin. Fen recommended that )abba forget about capturing Solo and con­ centrate on claiming possession ofthe Millen­ nium Falcon instead. Fenald The chief of security for the impor­ tant Kuat Drive Yards, he seemed loyal to the shipyard's owner, Kuat of Kuat, a direct de­ scendant of one of the founding families of Kuat civilization. But Fenald had a secret ar­ rangement with Kodir of Kuhlvult and aided her scheme to take over the vital shipyards during the rise ofthe New Order.
@@ -161,7 +146,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/04-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Kueller: "Because she lacked confidence in him, Kueller killed her with his Force powers." Source: The Complete Star Wars Encyclopedia, Vol. I, p.262
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.262 — full quote as printed](quotes/v1-p262-because-she-lacked-confidence-in-him.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:244`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -169,7 +153,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > Together Luke and Leia faced down Kueller, and when his dark side powers were curtailed by several ysalamiri that Han Solo brought to Almania, Leia killed Kueller with a blaster shot to the head.
 — Source: scan pages 241–280; Luke Skywalker; Leia Organa Solo; Kueller; Han Solo.
 Note (our notes, around the quote): Luke Skywalker; Leia Organa Solo; Kueller; Han Solo: "Together Luke and Leia faced down Kueller, and when his dark side powers were curtailed by several ysalamiri that Han Solo brought to Almania, Leia killed Kueller with a blaster shot to the head." Source: The Complete Star Wars Encyclopedia, Vol. II, p.235
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.235 — full quote as printed](quotes/v2-p235-together-luke-and-leia-faced-down.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:12`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -177,19 +160,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Pydyr One of the moons of Almania, it was where the Dark Jedi Kueller killed 1,651,305 people during the first bombing campaign in his reign of terror against the New Republic.
 — Source: scan pages 41–80; Kueller. POV: Kueller.
 Note (our notes, around the quote): Kueller: "Pydyr One of the moons of Almania, it was where the Dark Jedi Kueller killed 1,651,305 people during the first bombing campaign in his reign of terror against the New Republic." Source: The Complete Star Wars Encyclopedia, Vol. III, p.51
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.51 — full quote as printed](quotes/v3-p51-pydyr-one-of-the-moons-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:130`
 
 > Later, at Han Solo's request, Jade and Karrde located and brought to the planet Almania several Force-bending ysalamiri, which Solo used to help Luke and Leia defeat the Dark Jedi Kueller.
 — Source: scan pages 161–200; Han Solo; Luke Skywalker; Leia Organa Solo; Kueller.
 Note (our notes, around the quote): Han Solo; Luke Skywalker; Leia Organa Solo; Kueller: "Later, at Han Solo's request, Jade and Karrde located and brought to the planet Almania several Force-bending ysalamiri, which Solo used to help Luke and Leia defeat the Dark Jedi Kueller." Source: The Complete Star Wars Encyclopedia, Vol. III, p.166
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.166 — full quote as printed](quotes/v3-p166-later-at-han-solos-request-jade.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:153`
 
 > Crises—and self-doubts—were never far away, spurred by the likes of Yevethan strongman Nil Spaar or the Dark Jedi Kueller, whom she personally killed in battle.
 — Source: scan pages 161–200; Kueller. POV: Kueller.
 Note (our notes, around the quote): Kueller: "Crises—and self-doubts—were never far away, spurred by the likes of Yevethan strongman Nil Spaar or the Dark Jedi Kueller, whom she personally killed in battle." Source: The Complete Star Wars Encyclopedia, Vol. III, p.178
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.178 — full quote as printed](quotes/v3-p178-crises-and-self-doubts-were-never.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:291`
 
 ## The New Essential Guide to Characters (2002)
@@ -197,7 +177,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan
 > Karrde helped Han Solo obtain the ysalamiri used to defeat the tyrant Kueller during the Almanian crisis.
 — Source: scan pages 91–120; Han Solo; Kueller.
 Note (our notes, around the quote): Han Solo; Kueller: "Karrde helped Han Solo obtain the ysalamiri used to defeat the tyrant Kueller during the Almanian crisis." Source: The New Essential Guide to Characters, p.101
-![Quote image: The New Essential Guide to Characters, p.101 — full quote as printed](quotes/negc-p101-karrde-helped-han-solo-obtain-the.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:39`
 
 - Note (summary from our notes, not a quotation): Page contents: 493 words, 18 paragraphs | headings/entries: TSS TOTS SSeS TSSees Sst; L uke Skywalker first knew Kueller; Ne
@@ -207,7 +186,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-0
 > Skywalker had already escaped from Kueller's dungeon, but Kueller intercepted him and forced a lightsaber duel.
 — Source: scan pages 91–120; Kueller. POV: Kueller.
 Note (our notes, around the quote): Kueller: "Skywalker had already escaped from Kueller's dungeon, but Kueller intercepted him and forced a lightsaber duel." Source: The New Essential Guide to Characters, p.107
-![Quote image: The New Essential Guide to Characters, p.107 — full quote as printed](quotes/negc-p107-skywalker-had-already-escaped-from-kuellers.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/03-negc-scan-091-120.md:85`
 
 ## Dark Side Sourcebook (d20, 2001)
@@ -221,7 +199,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:329`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Kueller — entry/section: Kueller: "He ruled the world of Almania-the homeworld of the people who slew his parents and set him on the path to the dark side." Source: Dark Side Sourcebook, p.106
-![Quote image: Dark Side Sourcebook, p.106 — full quote as printed](quotes/dss-p106-he-ruled-the-world-of-almania.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:331`
 
 > Before long he realized his goal, taking the planet and exterminating the Je'har. Then he turned his attention to the New Republic. The New Republic held a special place of hatred in Kueller's heart. Because the New Republic Senate long ignored the atrocities committed by the Je'har, Kueller felt that they too should pay for the suffering he endured. At his droid factory on Telti, he persuaded Brakiss, another failed student from the nmJedi academy, to install potent bombs in droids bound for the New Republic, and used one of these to attack the Senate Hall during an address by Leia Organa Solo, the New Republic Chief of State. Doing so attracted the attention of Luke Skywalker, who followed the trail of clues back to Almania, where he was forced to bail out of his sabotaged X-wing fighter, leaving him injured and easy prey for a lightsaber duel with Kueller. Kueller vowed to kill Skywalker if Leia Organa Solo did not step down from her position. The Chief of State resigned, leaving former Chief of State Mon Mothma in charge, to go to her brother's rescue. On Almania, Leia rescued Luke while Kueller's fleet of Victoryclass Star Destroyers and TIE fighters did battle with the New Republic forces Mon Mothma sent to help. Skywalker and Organa Solo were left to face KUelier.
@@ -229,7 +206,6 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:331`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Kueller; Luke Skywalker — entry/section: Kueller: "Doing so attracted the attention of Luke Skywalker, who followed the trail of clues back to Almania, where he was forced to bail out of his sabotaged X-wing fighter, leaving him injured and easy prey for a lightsaber duel with Kueller." Source: Dark Side Sourcebook, p.107
-![Quote image: Dark Side Sourcebook, p.107 — full quote as printed](quotes/dss-p107-doing-so-attracted-the-attention-of.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:338`
 
 > At his droid factory on Telti, he persuaded Brakiss, another failed student from the nmJedi academy, to install potent bombs in droids bound for the New Republic, and used one of these to attack the Senate Hall during an address by Leia Organa Solo, the New Republic Chief of State. Doing so attracted the attention of Luke Skywalker, who followed the trail of clues back to Almania, where he was forced to bail out of his sabotaged X-wing fighter, leaving him injured and easy prey for a lightsaber duel with Kueller. Kueller vowed to kill Skywalker if Leia Organa Solo did not step down from her position. The Chief of State resigned, leaving former Chief of State Mon Mothma in charge, to go to her brother's rescue. On Almania, Leia rescued Luke while Kueller's fleet of Victoryclass Star Destroyers and TIE fighters did battle with the New Republic forces Mon Mothma sent to help. Skywalker and Organa Solo were left to face KUelier. He should not have been a match for either of them, but powered by his rage and with Skywalker still wounded, Kueller got the better of them. Skywalker almost surrendered to death, but then a local creature called a thernbee stumbled onto the scene.
@@ -237,14 +213,12 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:338`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Kueller; Leia Organa Solo; Luke Skywalker — entry/section: Kueller: "On Almania, Leia rescued Luke while Kueller's fleet of Victoryclass Star Destroyers and TIE fighters did battle with the New Republic forces Mon Mothma sent to help." Source: Dark Side Sourcebook, p.107
-![Quote image: Dark Side Sourcebook, p.107 — full quote as printed](quotes/dss-p107-on-almania-leia-rescued-luke-while.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:340`
 
 > The Chief of State resigned, leaving former Chief of State Mon Mothma in charge, to go to her brother's rescue. On Almania, Leia rescued Luke while Kueller's fleet of Victoryclass Star Destroyers and TIE fighters did battle with the New Republic forces Mon Mothma sent to help. Skywalker and Organa Solo were left to face KUelier. He should not have been a match for either of them, but powered by his rage and with Skywalker still wounded, Kueller got the better of them. Skywalker almost surrendered to death, but then a local creature called a thernbee stumbled onto the scene. The beast had just devoured several cages containing ysalamiri-Forcedampening reptiles native to the planet Myrkr-and their ability had not yet faded.
 — Source: Chapter Five: Dark Side Traditions (Sith Empire, Set Harth, prophets, Brakiss…); Kueller — entry/section: Kueller.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary dark side sourcebook dss (text copy `research_primary_dark_side_sourcebook_dss_pdf_9cd3453f4a`).)
 Note (our notes, around the quote): Kueller — entry/section: Kueller: "He should not have been a match for either of them, but powered by his rage and with Skywalker still wounded, Kueller got the better of them." Source: Dark Side Sourcebook, p.107
-![Quote image: Dark Side Sourcebook, p.107 — full quote as printed](quotes/dss-p107-he-should-not-have-been-a.jpg)
 Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:342`
 
 ## Legends Feats & Quotes (Star Wars Legends / EU)

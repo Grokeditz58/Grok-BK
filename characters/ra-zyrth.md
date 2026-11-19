@@ -24,13 +24,11 @@ Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-
 > Before the Sith invasion, Naga Sadow summoned his top commanders, including Ra- Zyrth, and used dark side alchemy to transform them into muscular monstrosities.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game.
 Note (our notes, around the quote): Ra-Zyrth; Naga Sadow — entry/section: Naga Sadow transforms his commanders: "Before the Sith invasion, Naga Sadow summoned his top commanders, including Ra- Zyrth, and used dark side alchemy to transform them into muscular monstrosities." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33 — full quote as printed](quotes/d665-s33-before-the-sith-invasion-naga-sadow.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:233`
 
 > Some say Ra-Zyrth awoke immediately and fought Coruscant's Jedi defenders to the death.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Ra-Zyrth — entry/section: Ra-Zyrth fights the Jedi.
 Note (our notes, around the quote): Ra-Zyrth — entry/section: Ra-Zyrth fights the Jedi: "Some say Ra-Zyrth awoke immediately and fought Coruscant's Jedi defenders to the death." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.33 — full quote as printed](quotes/d665-s33-some-say-ra-zyrth-awoke-immediately.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-001-060.md:235`
 
 # Debate and forum claims (unverified)

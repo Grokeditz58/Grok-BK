@@ -14,7 +14,6 @@
 > In this major turning point of the Great War, Jedi Master Belth Allusis and less than a hundred of his fellow Jedi joined forces with 4,000 Republic troops to repel an Imperial invasion. The enemy forces were over 50,000 strong, and all of the Republic's heroes perished in the ensuing battle.
 — Source: The Jedi Order; Belth Allusis — Military Cooperation.
 Note (our notes, around the quote): Belth Allusis — Military Cooperation: "In this major turning point of the Great War, Jedi Master Belth Allusis and less than a hundred of his fellow Jedi joined forces with 4,000 Republic troops to repel an Imperial invasion. The enemy forces were over 50,000 strong, and all of the Republic's heroes perished in the ensuing battle." Source: The Old Republic Encyclopedia, p.86
-![Quote image: The Old Republic Encyclopedia, p.86 — full quote as printed](quotes/tore-p86-in-this-major-turning-point-of.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:219`
 
 # Debate and forum claims (unverified)

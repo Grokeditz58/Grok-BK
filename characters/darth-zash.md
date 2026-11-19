@@ -14,49 +14,41 @@
 > Master Braga continually seeks dialogue with the Empire and has corresponded regularly with dark side servants from Darth Angral to Lord Zash. He has even attempted communication with the Emperor himself.
 — Source: The Jedi Order; Tol Braga; Darth Zash; Darth Angral — Master Tol Braga.
 Note (our notes, around the quote): Tol Braga; Darth Zash; Darth Angral — Master Tol Braga: "Master Braga continually seeks dialogue with the Empire and has corresponded regularly with dark side servants from Darth Angral to Lord Zash. He has even attempted communication with the Emperor himself." Source: The Old Republic Encyclopedia, p.89, sidebar
-![Quote image: The Old Republic Encyclopedia, p.89 — full quote as printed](quotes/tore-p89-master-braga-continually-seeks-dialogue-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:260`
 
 > When Lord Zash personally demanded that Harkun present her with a suitable apprentice, he personally groomed a pureblood named Ffon for the role. Harkun watched in horror when a powerful slave acolyte surpassed Ffon to become Lord Zash's apprentice.
 — Source: The Sith; Darth Zash; Darth Nox (Sith Inquisitor) — Overseer Harkun.
 Note (our notes, around the quote): Darth Zash; Darth Nox (Sith Inquisitor) — Overseer Harkun: "When Lord Zash personally demanded that Harkun present her with a suitable apprentice, he personally groomed a pureblood named Ffon for the role. Harkun watched in horror when a powerful slave acolyte surpassed Ffon to become Lord Zash's apprentice." Source: The Old Republic Encyclopedia, p.164
-![Quote image: The Old Republic Encyclopedia, p.164 — full quote as printed](quotes/tore-p164-when-lord-zash-personally-demanded-that.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:233`
 
 > The bright, energetic, and disarmingly friendly Lord Zash is a devoted Sith and master of the dark arts.
 — Source: The Sith; Darth Zash — Lord Zash.
 Note (our notes, around the quote): Darth Zash — Lord Zash: "The bright, energetic, and disarmingly friendly Lord Zash is a devoted Sith and master of the dark arts." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-the-bright-energetic-and-disarmingly-friendly.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:332`
 
 > Lord Zash's casual demeanor and lack of pretension, combined with her seemingly impossible youth and unmarred beauty, give hope to frightened young students apprehensive about the deadly tests ahead of them. It is these same qualities that ring warning bells in the minds of experienced Dark Lords. They recognize Zash's true nature and an unquenchable thirst for domination lurk below her carefully constructed facade. Only a Sith who has mastered fear and is in full possession of her own potential could be so deceptively unassuming.
 — Source: The Sith; Darth Zash — Lord Zash.
 Note (our notes, around the quote): Darth Zash — Lord Zash: "Lord Zash's casual demeanor and lack of pretension, combined with her seemingly impossible youth and unmarred beauty, give hope to frightened young students apprehensive about the deadly tests ahead of them. It is these same qualities that ring warning bells in the minds of experienced Dark Lords. They recognize Zash's true nature and an unquenchable thirst for domination lurk below her carefully constructed facade. Only a Sith who has mastered fear and is in full possession of her own potential could be so deceptively unassuming." Source: The Old Republic Encyclopedia, p.171, sidebar
-![Quote image: The Old Republic Encyclopedia, p.171 — full quote as printed](quotes/tore-p171-lord-zash-s-casual-demeanor-and.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:334`
 
 > But his plans are momentarily disrupted when his underling, Darth Skotia, is killed by the upstart Sith Lord Zash and her powerful new apprentice.
 — Source: The Sith; Darth Thanaton; Darth Zash; Darth Nox (Sith Inquisitor) — Darth Thanaton.
 Note (our notes, around the quote): Darth Thanaton; Darth Zash; Darth Nox (Sith Inquisitor) — Darth Thanaton: "But his plans are momentarily disrupted when his underling, Darth Skotia, is killed by the upstart Sith Lord Zash and her powerful new apprentice." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-but-his-plans-are-momentarily-disrupted.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:363`
 
 > At Zash's bidding, the inquisitor sabotages and ultimately destroys the cyborg Darth Skotia, thus paving the way for Zash to take his place and become a Darth. Zash graces her apprentice with power and sets the Sith inquisitor on a new mission: the recovery of artifacts once belonging to the ancient Sith Tulak Hord. With these artifacts, Darth Zash will complete a ritual to bestow considerable power on Zash and her apprentice.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Nox (Sith Inquisitor); Darth Zash; Tulak Hord — Scion of Kallig: "At Zash's bidding, the inquisitor sabotages and ultimately destroys the cyborg Darth Skotia, thus paving the way for Zash to take his place and become a Darth. Zash graces her apprentice with power and sets the Sith inquisitor on a new mission: the recovery of artifacts once belonging to the ancient Sith Tulak Hord. With these artifacts, Darth Zash will complete a ritual to bestow considerable power on Zash and her apprentice." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-at-zash-s-bidding-the-inquisitor.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:487`
 
 > Zash welcomes her apprentice and reveals her terrible secret: Zash's youthful appearance is only an illusion—in fact, the Sith Lord is ancient, and her body disfigured by the dark side. Zash now plots to achieve eternal youth by possessing the inquisitor as her next body. But when the inquisitor attacks Darth Zash, the Dashade Khem Val sabotages the ritual—inadvertently trapping Zash's consciousness inside his body.
 — Source: The Sith.
 Note (our notes, around the quote): Darth Zash; Darth Nox (Sith Inquisitor); Khem Val — Scion of Kallig: "Zash welcomes her apprentice and reveals her terrible secret: Zash's youthful appearance is only an illusion—in fact, the Sith Lord is ancient, and her body disfigured by the dark side. Zash now plots to achieve eternal youth by possessing the inquisitor as her next body. But when the inquisitor attacks Darth Zash, the Dashade Khem Val sabotages the ritual—inadvertently trapping Zash's consciousness inside his body." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-zash-welcomes-her-apprentice-and-reveals.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:491`
 
 > Zash reveals her true face, desiccated and ravaged by the destructive dark arts she has dedicated her life to mastering.
 — Source: The Sith; Darth Zash — Caption.
 Note (our notes, around the quote): Darth Zash — Caption: "Zash reveals her true face, desiccated and ravaged by the destructive dark arts she has dedicated her life to mastering." Source: The Old Republic Encyclopedia, p.184
-![Quote image: The Old Republic Encyclopedia, p.184 — full quote as printed](quotes/tore-p184-zash-reveals-her-true-face-desiccated.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:493`
 
 # Debate and forum claims (unverified)

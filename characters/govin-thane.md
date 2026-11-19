@@ -14,7 +14,6 @@
 > But when Leia Organa Solo pleaded with the Consortium for help in combating the Yuuzhan Vong, it took an honor duel between Prince Isolder and Archon Beed Thane to get the necessary support.
 — Source: scan pages 1–40; Leia Organa Solo. POV: Leia Organa Solo, about Govin Thane.
 Note (our notes, around the quote): Leia Organa Solo: "But when Leia Organa Solo pleaded with the Consortium for help in combating the Yuuzhan Vong, it took an honor duel between Prince Isolder and Archon Beed Thane to get the necessary support." Source: The Complete Star Wars Encyclopedia, Vol. II, p.16
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.16 — full quote as printed](quotes/v2-p16-but-when-leia-organa-solo-pleaded.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:145`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -28,7 +27,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan
 > A noninterventionist Hapan ambassador, Archon Beed Thane of Vergill, deliberately insulted Leia in order to provoke Isolder into an honor duel.
 — Source: scan pages 61–90; Leia Organa Solo. POV: Leia Organa Solo, about Govin Thane.
 Note (our notes, around the quote): Leia Organa Solo: "A noninterventionist Hapan ambassador, Archon Beed Thane of Vergill, deliberately insulted Leia in order to provoke Isolder into an honor duel." Source: The New Essential Guide to Characters, p.87
-![Quote image: The New Essential Guide to Characters, p.87 — full quote as printed](quotes/negc-p87-a-noninterventionist-hapan-ambassador-archon-beed.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:149`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -44,7 +42,6 @@ Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-10
 > Kal Vorusk has one mission: to kill as many of the heroes as possible before fleeing to rejoin the rest of the imperial hit squad.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Kal Vorusk; Govin Thane — entry/section: Cloud Cover.
 Note (our notes, around the quote): Kal Vorusk; Govin Thane — entry/section: Cloud Cover: "Kal Vorusk has one mission: to kill as many of the heroes as possible before fleeing to rejoin the rest of the imperial hit squad." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.89
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.89 — full quote as printed](quotes/d052-s89-kal-vorusk-has-one-mission-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:183`
 
 # Debate and forum claims (unverified)

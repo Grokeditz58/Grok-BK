@@ -14,7 +14,6 @@
 > His revelation showed a sandcrawler being attacked by whitearmored “skeletal” warriors. When he informed his shaman of the vision, he was ridiculed and punished. Two days later, his tribe discovered the remains of a destroyed sandcrawler.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Deja (shaman visionary) — entry/section: Deja's vision.
 Note (our notes, around the quote): Deja (shaman visionary) — entry/section: Deja's vision: "His revelation showed a sandcrawler being attacked by whitearmored “skeletal” warriors. When he informed his shaman of the vision, he was ridiculed and punished. Two days later, his tribe discovered the remains of a destroyed sandcrawler." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.123
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.123 — full quote as printed](quotes/d665-s123-his-revelation-showed-a-sandcrawler-being.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-121-162.md:26`
 
 # Debate and forum claims (unverified)

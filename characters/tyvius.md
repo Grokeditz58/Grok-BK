@@ -14,7 +14,6 @@
 > “Stay back!” he cries. “I'm warning you, come any closer and I'll shoot you! One stray shot from this and the explosives in this room will vaporize us in an instant!”
 — Source: Star Wars Gamer/Star Wars Gamer 08.pdf [Star Wars Roleplaying Game (d20,; Tyvius — entry/section: Hive of the Infidel.
 Note (our notes, around the quote): Tyvius — entry/section: Hive of the Infidel: "“Stay back!” he cries. “I'm warning you, come any closer and I'll shoot you! One stray shot from this and the explosives in this room will vaporize us in an instant!”" Source: *Star Wars Gamer 08* (SWRPG d20), scan p.72
-![Quote image: *Star Wars Gamer 08* (SWRPG d20), scan p.72 — full quote as printed](quotes/d057-s72-stay-back-he-cries-im-warning.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/057-star-wars-gamer-08-scan-061-112.md:88`
 
 # Debate and forum claims (unverified)

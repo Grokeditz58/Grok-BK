@@ -24,7 +24,6 @@ Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-11
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Talnar s Rescue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Talnar_s_Rescue_pdf_92b1551689`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Talnar s Rescue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Talnar_s_Rescue_pdf_92b1551689`).)
 Note (our notes, around the quote): Rel Acol — entry/section: Rel Acol springs the trap: ""I told you, Rebels are good money."" Source: *Star Wars Gamer 05* (SWRPG d20), scan p.95
-![Quote image: *Star Wars Gamer 05* (SWRPG d20), scan p.95 — full quote as printed](quotes/d054-s95-i-told-you-rebels-are-good.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/054-star-wars-gamer-05-scan-061-118.md:203`
 
 # Debate and forum claims (unverified)

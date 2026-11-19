@@ -23,7 +23,6 @@ Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-22
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Sourcebooks Galaxy of Intrigue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf_7fa4ad4ee9`).)
 (Full sentence/passage taken from the source text on file: `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Sourcebooks_Galaxy_of_Intrigue_pdf`.)
 Note (our notes, around the quote): Doon Gorot — entry/section: Gorot on the deal: ""Everything is going according to plan," says the Duros. "The weapons that you requested are ready for pickup in Bay 6-AT4 on Mezhra Station. I have several of my crew waiting up there to keep things safe until you arrive. They'll expect you to give them the second half of the payment immediately. But now, let's talk about the first half of the payment. Where are my credits?"" Source: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.182
-![Quote image: *Galaxy of Intrigue* (SWRPG Saga Edition), scan p.182 — full quote as printed](quotes/d716-s182-everything-is-going-according-to-plan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/716-galaxy-of-intrigue-scan-181-226.md:17`
 
 # Debate and forum claims (unverified)

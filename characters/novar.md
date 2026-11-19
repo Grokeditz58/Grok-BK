@@ -19,7 +19,7 @@
 > OF COURSE YOU CAN, MY SON.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Reads the Sith book with Ommin's amulet.
 Note (our notes, around the quote): Reads the Sith book with Ommin's amulet: "GIDDY WITH THE SWIRLING ENERGIES OF THE DARK SIDE, SATAL IS IN NO MOOD TO REFUSE THE URGINGS OF HIS COUSIN." Satal: "BY THE EMPRESS! I...I CAN READ IT PERFECTLY!" Ommin: "OF COURSE YOU CAN, MY SON." Source: Freedon Nadd Uprising #2, p12
-![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](panels/fnu2-p12-satal-reads-sith-book.jpg)
+![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p12-satal-reads-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:223`
 
 > HERE, NOVAR... HAVE A SCRIBE COPY THIS AT ONCE.
@@ -28,7 +28,7 @@ Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:223`
 > I'LL DO IT MYSELF, LORD OMMIN.
 — Source: Owner Material 024a — Tales of the Jedi: The Freedon Nadd Uprising #1–2 (1994): power-scaling notes; Ommin's servant copies the Sith book himself: Ommin.
 Note (our notes, around the quote): Ommin's servant copies the Sith book himself: Ommin: "HERE, NOVAR... HAVE A SCRIBE COPY THIS AT ONCE." Novar: "I'LL DO IT MYSELF, LORD OMMIN." Source: Freedon Nadd Uprising #2, p12
-![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](panels/fnu2-p12-satal-reads-sith-book.jpg)
+![Freedon Nadd Uprising #2 p12: Satal reads the Sith book with Ommin's amulet; Novar: "I'll do it myself, Lord Ommin"](../notes/materials/024-tales-of-the-jedi/panels/fnu2-p12-satal-reads-sith-book.jpg)
 Our notes: `notes/materials/024-tales-of-the-jedi/freedon-nadd-uprising.md:260`
 
 - Note (summary from our notes, not a quotation): | 66–76 | The Sith | Bios + stat blocks: Queen Amanoa, Freedon Nadd, King Ommin, Novar, Warb Null; Sith fiction |
@@ -54,7 +54,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > The king, in a great fit of rage, destroyed Kad with Sith magic and promoted Novar in his place.
 — Source: scan pages 361–400; Novar — entry/section: Novar.
 Note (our notes, around the quote): Novar — entry/section: Novar: "The king, in a great fit of rage, destroyed Kad with Sith magic and promoted Novar in his place." Source: The Complete Star Wars Encyclopedia, Vol. II, p.392
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.392 — full quote as printed](quotes/v2-p392-the-king-in-a-great-fit.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:307`
 
 ## Sourcebooks/Galaxy of Intrigue.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)

@@ -14,44 +14,37 @@
 > As an adolescent, Satele trained with Battlemaster Kao Cen Darach. It was he who taught Satele to fight with a double-bladed lightsaber and guided her through the final trials to become a full-fledged Jedi Knight.
 — Source: The Jedi Order; Satele Shan; Kao Cen Darach — Forged by War.
 Note (our notes, around the quote): Satele Shan; Kao Cen Darach — Forged by War: "As an adolescent, Satele trained with Battlemaster Kao Cen Darach. It was he who taught Satele to fight with a double-bladed lightsaber and guided her through the final trials to become a full-fledged Jedi Knight." Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-as-an-adolescent-satele-trained-with.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:204`; `suspect-insight/debates/028-darth-angral-vs-k-kruhk.md:163`
 
 > As fate would have it, Satele and Darach faced the returning Sith Empire at the Battle of Korriban. Master Darach tragically perished in that conflict
 > [fragment — full passage not on file]
 — Source: The Jedi Order; Satele Shan; Kao Cen Darach — Forged by War.
 Note (our notes, around the quote): Satele Shan; Kao Cen Darach — Forged by War: "As fate would have it, Satele and Darach faced the returning Sith Empire at the Battle of Korriban. Master Darach tragically perished in that conflict" Source: The Old Republic Encyclopedia, p.85, sidebar
-![Quote image: The Old Republic Encyclopedia, p.85 — full quote as printed](quotes/tore-p85-as-fate-would-have-it-satele.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:206`
 
 - Note (summary from our notes, not a quotation): Revan; Ven Zallow; Kao Cen Darach — Jedi Knight data box: "NOTABLE JEDI KNIGHTS: Revan, Ven Zallow, Kao Cen Darach" Source: The Old Republic Encyclopedia, p.90
   — Source: The Jedi Order.
-![Quote image: The Old Republic Encyclopedia, p.90 — full quote as printed](quotes/tore-p90-notable-jedi-knights-revan-ven-zallow.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/03-jedi-order.md:275`
 
 > Those who show an affinity for the Force are able to be taken for training at an older age than other species due to the mental discipline that is engrained in all Zabrak. … NOTABLE ZABRAK: Jedi Master Kao Cen Darach Master to Satele Shan
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Kao Cen Darach; Satele Shan — Zabrak.
 Note (our notes, around the quote): Kao Cen Darach; Satele Shan — Zabrak: "Those who show an affinity for the Force are able to be taken for training at an older age than other species due to the mental discipline that is engrained in all Zabrak. … NOTABLE ZABRAK: Jedi Master Kao Cen Darach Master to Satele Shan" Source: The Old Republic Encyclopedia, p.258
-![Quote image: The Old Republic Encyclopedia, p.258 — full quote as printed](quotes/tore-p258-those-who-show-an-affinity-for.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:50`
 
 > A Miraluka called Shol Bestros famously turned his back on the Jedi throughout his childhood. His mind was changed when a Jedi Master, Kao Cen Darach, recognized the young Miraulkan's ability and encouraged him to join the Order. Bestros went on to achieve the rank of Jedi Master and joined the Jedi Council.
 — Source: Species, technology, planets and the future; Kao Cen Darach; Shol Bestros — Miraluka.
 Note (our notes, around the quote): Kao Cen Darach; Shol Bestros — Miraluka: "A Miraluka called Shol Bestros famously turned his back on the Jedi throughout his childhood. His mind was changed when a Jedi Master, Kao Cen Darach, recognized the young Miraulkan's ability and encouraged him to join the Order. Bestros went on to achieve the rank of Jedi Master and joined the Jedi Council." Source: The Old Republic Encyclopedia, p.261, sidebar
-![Quote image: The Old Republic Encyclopedia, p.261 — full quote as printed](quotes/tore-p261-a-miraluka-called-shol-bestros-famously.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:65`
 
 > Jedi Master Kao Cen Darach strikes a surprise fatal blow against Sith Lord Vindican in the battle for Korriban.
 — Source: Species, technology, planets and the future; Kao Cen Darach; Lord Vindican — Korriban caption.
 Note (our notes, around the quote): Kao Cen Darach; Lord Vindican — Korriban caption: "Jedi Master Kao Cen Darach strikes a surprise fatal blow against Sith Lord Vindican in the battle for Korriban." Source: The Old Republic Encyclopedia, p.291, sidebar
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-jedi-master-kao-cen-darach-strikes.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:252`
 
 > The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world.
 — Source: Species, technology, planets and the future.
 Note (our notes, around the quote): Darth Malgus; Lord Vindican; Kao Cen Darach; Satele Shan — Return from Exile: "The Sith Lord Vindican and his apprentice, Malgus, boarded the orbital station to lead the charge against the meager Republic defenses. Jedi Master Kao Cen Darach held the Sith off just long enough to aid the escape of his apprentice, Satele Shan, future Havoc Squad commander Jace Malcom, and the smuggler Nico Okarr. Malgus ultimately defeated Master Darach and watched with vengeful pleasure as the Sith Empire reclaimed its ancient holy world." Source: The Old Republic Encyclopedia, p.291, sidebar
-![Quote image: The Old Republic Encyclopedia, p.291 — full quote as printed](quotes/tore-p291-the-sith-lord-vindican-and-his.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:256`
 
 ## https://starwars.fandom.com/wiki/Darth_Malgus

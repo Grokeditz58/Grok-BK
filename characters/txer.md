@@ -20,7 +20,6 @@ Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-06
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from novels tmp emissary of the void eov 03 war on wayland (text copy `novels_tmp_emissary_of_the_void_eov_03_war_on_wayland_pdf_fb8d8df923`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from novels tmp emissary of the void eov 03 war on wayland (text copy `novels_tmp_emissary_of_the_void_eov_03_war_on_wayland_pdf_fb8d8df923`).)
 Note (our notes, around the quote): Txer — entry/section: Txer's vow against the offworlders: "We fight them," Txer said firmly, "And if you lie, we fight you too. We fight until offworlders all gone, or until we all die." Source: *Star Wars Gamer 10* (SWRPG d20), scan p.18
-![Quote image: *Star Wars Gamer 10* (SWRPG d20), scan p.18 — full quote as printed](quotes/d059-s18-we-fight-them-txer-said-firmly.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/059-star-wars-gamer-10-scan-001-060.md:119`
 
 # Debate and forum claims (unverified)

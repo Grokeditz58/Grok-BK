@@ -14,7 +14,6 @@
 > Adar Tallon devised a battle plan that earned him the title Victor of Balamak in which Anakin Skywalker destroyed a Separatist jamming craft.
 — Source: scan pages 41–80; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker): "Adar Tallon devised a battle plan that earned him the title Victor of Balamak in which Anakin Skywalker destroyed a Separatist jamming craft." Source: The Complete Star Wars Encyclopedia, Vol. I, p.56
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.56 — full quote as printed](quotes/v1-p56-adar-tallon-devised-a-battle-plan.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:242`
 
 ## The Lucasfilm Fan Club Magazine #6 (1989)

@@ -23,7 +23,6 @@ Our notes: `notes/materials/037-sw-d20-folder/195-jedi-counseling-30-cross-breed
 
 - Note (summary from our notes, not a quotation): That said, there has been at least one cross-breed in Star Wars: Rystall, the redhaired dancer in Jabba's Palace in Return of the Jedi. She's described as the half-breed product of a union between a Human father and an alien mother. So it's possible for some species to interbreed, but it seems unlikely that there are half-Human/half-Twi'lek characters, or we'd have seen some evidence of them in the Star Wars universe by now. Unlikely, but not impossible -- it is, after all, your campaign." Source: *Jedi Counseling 30 - Cross Breeding* (SWRPG d20 Revised Core), scan p.1
   — Source: Jedi Counselling/Jedi Counseling 30 - Cross Breeding.pdf [Star Wars Rolep.
-![Quote image: *Jedi Counseling 30 - Cross Breeding* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d195-s1-a-technically-its-not-possible-for.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/195-jedi-counseling-30-cross-breeding.md:13`
 
 ## Star Wars Insider #67 (2003)

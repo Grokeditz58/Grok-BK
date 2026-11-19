@@ -627,7 +627,6 @@ Our notes: `notes/materials/022-dark-lord-trilogy/rots-novel-notes.md:631`
 > [fragment — full passage not on file]
 — Source: Part Two: The Fall of the Republic; Kit Fisto — art caption.
 Note (our notes, around the quote): Kit Fisto — art caption: "Jedi Master Kit Fisto, who led clone scuba troopers in the Battle of Mon Calamari" Source: The New Essential Chronology, p.61, caption
-![Quote image: The New Essential Chronology, p.61 — full quote as printed](quotes/nec-p61-caption-jedi-master-kit-fisto-who.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:271`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -643,7 +642,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Stass Allie; Shaak Ti — Grievous captures Palpatine: "directly by General Grievous, butcher of a thousand worlds." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-grievous-captures-palpatine.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:479`
 
 > After experiencing a vision quest in the _ GSeeness of an Ill-omened cavern, Anakin uncov- _ es = Separatist research facility where CIS sien- Shad been experimenting on captured Nelvaan gators Anakin shut down the facility, but, more D ecortantly, he touched the minds of the mutated _-seSves and convinced them to retum to their vil- | S2= Gemonstrating his fitness as a Jedi.
@@ -659,7 +657,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): General Grievous; Mace Windu; Kit Fisto; Shaak Ti — none could stop Grievous: "Palpatine's Jedi defenders, including Mace Windu, Kit Fisto, Stass Allie, and Shaak Ti, hustled the chancellor to a hovertrain, and then a hardened command bunker, but none of them could stop Grievous." Source: The New Essential Chronology, p.81
-![Quote image: The New Essential Chronology, p.81 — full quote as printed](quotes/nec-p81-none-could-stop-grievous.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:481`
 
 > Palpatine had carefully cullivated Anakin’s hopes for preventing this dire premonition, and had revealed everything to Anakin; Palpatine’s secret identity as Darth Sidious. His murder of his own Master, Darth Plaguels.
@@ -673,7 +670,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Mace Windu; Saesee Tiin; Kit Fisto; Agen Kolar — Palpatine kills three Masters: "Palpatine at last dropped the facade and unleashed his full fury, killing the three lesser Jedi." Source: The New Essential Chronology, p.82
-![Quote image: The New Essential Chronology, p.82 — full quote as printed](quotes/nec-p82-palpatine-kills-three-masters.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:500`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -681,7 +677,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 > He was killed on the Vassek moon when Vebb and Kit Fisto searched the lair of General Grievous.
 — Source: scan pages 281–320; Kit Fisto; General Grievous.
 Note (our notes, around the quote): Kit Fisto; General Grievous: "He was killed on the Vassek moon when Vebb and Kit Fisto searched the lair of General Grievous." Source: The Complete Star Wars Encyclopedia, Vol. I, p.272
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.272 — full quote as printed](quotes/v1-p272-he-was-killed-on-the-vassek.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:64`
 
 > Fisto later was involved in important engagements on Devaron and Ord Cestus, and hunted for escaped prisoner Nute Gunray in General Grievous's lair on the Vassek moon. His close friendship with and concern for fellow Jedi Aayla Secura occasionally pushed the rules against attachment. They shared a deep respect for each other that, had they been outside the Jedi Order, might have gone further. As the Clone Wars ground on, Master Fisto was appointed to the Jedi Council. He was among the group of Jedi Masters who ac­ companied Mace Windu to arrest Chancellor Palpatine after the politician had finally been revealed as Darth Sidious. However, the Jedi were unprepared for Palpatine's powers, and Fisto was quickly killed during the fighting, leaving Mace Windu to face Palpatine alone. Fltca Prime This planet was the primary world in the Fitca system, located within the Lesser Plooriod Cluster. The planet and sys­ tem were subjugated by the Empire's High In­ quisitor Mox Slosin during the early years of the New Order. Fitch A Ferroan, he was one of a group that accepted a newly shaped Sekotan starship from the Langhesi and finished its creation. They filled any seams or cracks left behind by the Jentari, then calibrated the ship's systems to its new owner.
@@ -689,13 +684,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Palpatine (Darth Sidious); Kit Fisto; Mace Windu: "However, the Jedi were unprepared for Palpatine's powers, and Fisto was quickly killed during the fighting, leaving Mace Windu to face Palpatine alone." Source: The Complete Star Wars Encyclopedia, Vol. I, p.277
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.277 — full quote as printed](quotes/v1-p277-however-the-jedi-were-unprepared-for.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:97`
 
 > Forry helped Kit Fisto train the commandos of the Desert Wind terrorist group, and was among the survivors who managed to escape their lair when Asajj Ventress sent a group of infiltration droids to destroy them all.
 — Source: scan pages 281–320; Kit Fisto; Asajj Ventress.
 Note (our notes, around the quote): Kit Fisto; Asajj Ventress: "Forry helped Kit Fisto train the commandos of the Desert Wind terrorist group, and was among the survivors who managed to escape their lair when Asajj Ventress sent a group of infiltration droids to destroy them all." Source: The Complete Star Wars Encyclopedia, Vol. I, p.290
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.290 — full quote as printed](quotes/v1-p290-forry-helped-kit-fisto-train-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:194`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -703,19 +696,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > After defeating a droideka and ARC trooper CT-36/732 in one-on-one combat, JK-13 was pitted in battle against Jedi Master Kit Fisto.
 — Source: scan pages 161–200; Kit Fisto. POV: Kit Fisto.
 Note (our notes, around the quote): Kit Fisto: "After defeating a droideka and ARC trooper CT-36/732 in one-on-one combat, JK-13 was pitted in battle against Jedi Master Kit Fisto." Source: The Complete Star Wars Encyclopedia, Vol. II, p.167
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.167 — full quote as printed](quotes/v2-p167-after-defeating-a-droideka-and-arc.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:104`
 
 > Only Master Fisto's unusual attacks allowed him to defeat the droid.
 — Source: scan pages 161–200; Kit Fisto. POV: Kit Fisto.
 Note (our notes, around the quote): Kit Fisto: "Only Master Fisto's unusual attacks allowed him to defeat the droid." Source: The Complete Star Wars Encyclopedia, Vol. II, p.167
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.167 — full quote as printed](quotes/v2-p167-only-master-fistos-unusual-attacks-allowed.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:106`
 
 > With the help of Jedi Master Kit Fisto, the Mon Calamari Knights managed to defeat the Quarren and restore peace to Mon Calamari.
 — Source: scan pages 321–360; Kit Fisto. POV: Kit Fisto.
 Note (our notes, around the quote): Kit Fisto: "With the help of Jedi Master Kit Fisto, the Mon Calamari Knights managed to defeat the Quarren and restore peace to Mon Calamari." Source: The Complete Star Wars Encyclopedia, Vol. II, p.326
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.326 — full quote as printed](quotes/v2-p326-with-the-help-of-jedi-master.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:87`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -723,19 +713,16 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan
 > The Jedi Kit Fisto and his clone troopers were able to defeat the league, and brought peace again to Mon Calamari.
 — Source: scan pages 41–80; Kit Fisto. POV: Kit Fisto.
 Note (our notes, around the quote): Kit Fisto: "The Jedi Kit Fisto and his clone troopers were able to defeat the league, and brought peace again to Mon Calamari." Source: The Complete Star Wars Encyclopedia, Vol. III, p.60
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.60 — full quote as printed](quotes/v3-p60-the-jedi-kit-fisto-and-his.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:203`
 
 > The Republic soon arrived, and with clone trooper forces led by General Kit Fisto, they defeated the Quarren Isolation League.
 — Source: scan pages 41–80; Kit Fisto. POV: Kit Fisto.
 Note (our notes, around the quote): Kit Fisto: "The Republic soon arrived, and with clone trooper forces led by General Kit Fisto, they defeated the Quarren Isolation League." Source: The Complete Star Wars Encyclopedia, Vol. III, p.61
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.61 — full quote as printed](quotes/v3-p61-the-republic-soon-arrived-and-with.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:210`
 
 > It was killed by Kit Fisto and Nahdar Vebb during the Clone Wars, when they infiltrated Grievous's sanctuary.
 — Source: scan pages 81–120; Kit Fisto; General Grievous.
 Note (our notes, around the quote): Kit Fisto; General Grievous: "It was killed by Kit Fisto and Nahdar Vebb during the Clone Wars, when they infiltrated Grievous's sanctuary." Source: The Complete Star Wars Encyclopedia, Vol. III, p.106
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.106 — full quote as printed](quotes/v3-p106-it-was-killed-by-kit-fisto.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:245`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -757,7 +744,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from imary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Geonosis Battle Arena Advanced Missions (text copy `imary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Geonosis_Battle_Arena_Advanced_Missions_pdf_25d77adfe1`).)
 Note (our notes, around the quote): Kit Fisto: "SPECIAL POWER Deflect Blaster Bolt: Kit Fisto can deflect any blaster bolt that misses him." Source: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.4
-![Quote image: *Geonosis Battle Arena Advanced Missions* (SWRPG d20 Revised Core), scan p.4 — full quote as printed](quotes/d064-s4-special-power-deflect-blaster-bolt-kit.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/064-geonosis-battle-arena-advanced-missions.md:43`
 
 ## Adventures/Only the Force.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -771,7 +757,6 @@ Our notes: `notes/materials/037-sw-d20-folder/069-only-the-force.md:147`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Only the Force (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Only_the_Force_pdf_f982d22263`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Only the Force (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Only_the_Force_pdf_f982d22263`).)
 Note (our notes, around the quote): Kit Fisto — entry/section: Shalimin fought beside Kit Fisto on Mon Calamari: "You came to Argul with a contingent of Jedi fresh from the battle on Mon Calamari, the homeworld of your people, where you fought the Quarren Separatists alongside Jedi Master Kit Fisto." Source: *Only the Force* (SWRPG d20 Revised Core), p.24
-![Quote image: *Only the Force* (SWRPG d20 Revised Core), p.24 — full quote as printed](quotes/d069-p24-you-came-to-argul-with-a.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/069-only-the-force.md:149`
 
 ## Jedi Counselling/Jedi Counseling 93.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -843,7 +828,6 @@ Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:132`
 > Fisto's profile is dominated by a dozen or more fleshy tentacles.
 — Source: Star Wars Insider #70 (2003); Kit Fisto. POV: Kit Fisto.
 Note (our notes, around the quote): Kit Fisto: "Fisto's profile is dominated by a dozen or more fleshy tentacles." Source: *Star Wars Insider #70* (2003), scan p.25
-![Quote image: *Star Wars Insider #70* (2003), scan p.25 — full quote as printed](quotes/ins070-s25-fistos-profile-is-dominated-by-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/070-ins070.md:134`
 
 ## Star Wars Insider #71 (2003)
@@ -855,7 +839,6 @@ Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:97`
 > I'm also Anakin's double, a bodyguard, and a few droids as well.
 — Source: Star Wars Insider #71 (2003).
 Note (our notes, around the quote): Kit Fisto — entry/section: Set Diary: Ben Cooke, the new Kit Fisto: ""I'm also Anakin's double, a bodyguard, and a few droids as well." —Ben Cooke, Star Wars Insider 71, p. 18" Source: *Star Wars Insider #71* (2003), scan p.18
-![Quote image: *Star Wars Insider #71* (2003), scan p.18 — full quote as printed](quotes/ins071-s18-im-also-anakins-double-a-bodyguard.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:99`
 
 ## Star Wars Insider #72 (2003)
@@ -882,7 +865,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:460`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #77 (2004); Nate (ARC trooper) — entry/section: Independent hopes and dreams.
 Note (our notes, around the quote): Nate (ARC trooper) — entry/section: Independent hopes and dreams: ""I wanted to give one of those characters independent hopes and dreams and see what happened," says Steven Barnes of The Cestus Deception (Del Rey, $25.95). That character is CT-96/298, nicknamed "Nate," an ARC Trooper dispatched to Ord Cestus as part of a unit supporting Jedi Knights Obi-Wan Kenobi and Kit Fisto. —Steven Barnes, Star Wars Insider 77, p. 84" Source: *Star Wars Insider #77* (2004), scan p.84
-![Quote image: *Star Wars Insider #77* (2004), scan p.84 — full quote as printed](quotes/ins077-s84-i-wanted-to-give-one-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:544`
 
 ## Star Wars Insider #79 (2005)
@@ -955,7 +937,6 @@ Our notes: `notes/materials/038-star-wars-insider/100-ins100.md:380`
 > In truth, there's so many characters in the films that we didn't really get to see a lot, like Kit Fisto and Plo Koon. You could go around the [Jedi] Council's chairs, and have 12 episodes right there.
 — Source: Star Wars Insider #102 (2008); Kit Fisto; Plo Koon — entry/section: Filoni on Jedi Council.
 Note (our notes, around the quote): Kit Fisto; Plo Koon — entry/section: Filoni on Jedi Council: ""In truth, there's so many characters in the films that we didn't really get to see a lot, like Kit Fisto and Plo Koon. You could go around the [Jedi] Council's chairs, and have 12 episodes right there." —Dave Filoni, Star Wars Insider 102, p. 19" Source: *Star Wars Insider #102* (2008), scan p.19
-![Quote image: *Star Wars Insider #102* (2008), scan p.19 — full quote as printed](quotes/ins102-s19-in-truth-theres-so-many-characters.jpg)
 Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:183`
 
 ## Star Wars Insider #104 (2008)
@@ -963,7 +944,6 @@ Our notes: `notes/materials/038-star-wars-insider/102-ins102.md:183`
 > We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?
 — Source: Star Wars Insider #104 (2008).
 Note (our notes, around the quote): Kit Fisto; Luminara Unduli; Plo Koon — entry/section: Filoni on obscure characters: ""We're able to tackle a whole bunch of different issues and scenarios. That's really exciting. We had a real opportunity to do really unique things with Star Wars. We can deal with just the ground troops on the front line with the clones. We can take obscure characters out of the backgrounds of scenes, like Kit Fisto or Luminara or Plo Koon, and say, what were they like? What did they sound like? How did they interact with the troops? We tell a broad spectrum of stories. What's Padmé doing in the Senate and dealing with Palpatine?" —Dave Filoni, Star Wars Insider 104, p. 7" Source: *Star Wars Insider #104* (2008), scan p.7
-![Quote image: *Star Wars Insider #104* (2008), scan p.7 — full quote as printed](quotes/ins104-s7-were-able-to-tackle-a-whole.jpg)
 Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:58`
 
 ## Star Wars Insider #106 (2009)
@@ -971,7 +951,6 @@ Our notes: `notes/materials/038-star-wars-insider/104-ins104.md:58`
 > Those who have power should restrain themselves from using it.
 — Source: Star Wars Insider #106 (2009); Kit Fisto — entry/section: Kit Fisto ("Lair of Grievous").
 Note (our notes, around the quote): Kit Fisto — entry/section: Kit Fisto ("Lair of Grievous"): ""Those who have power should restrain themselves from using it." —Kit Fisto, Star Wars Insider 106, p. 16" Source: *Star Wars Insider #106* (2009), scan p.16
-![Quote image: *Star Wars Insider #106* (2009), scan p.16 — full quote as printed](quotes/ins106-s16-those-who-have-power-should-restrain.jpg)
 Our notes: `notes/materials/038-star-wars-insider/106-ins106.md:119`; `external/mega-notes/kit-fisto-quotes.txt:77`
 
 ## Star Wars Insider #110 (2009)

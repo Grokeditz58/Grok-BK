@@ -27,13 +27,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 > With victories at the Battle of Lorshan Pass and the capture of Pelek Baw, Masters Windu and Billaba helped the Korunnai finally defeat the Balawai.
 — Source: scan pages 201–240; Mace Windu. POV: Mace Windu, about Depa Billaba.
 Note (our notes, around the quote): Mace Windu: "With victories at the Battle of Lorshan Pass and the capture of Pelek Baw, Masters Windu and Billaba helped the Korunnai finally defeat the Balawai." Source: The Complete Star Wars Encyclopedia, Vol. III, p.196
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.196 — full quote as printed](quotes/v3-p196-with-victories-at-the-battle-of.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:19`
 
 > He took as his Padawan learner the Chalactan child Depa Billaba, after he rescued her from space pirates who had killed her parents.
 — Source: scan pages 321–360; Mace Windu — entry/section: Windu, Mace.
 Note (our notes, around the quote): Mace Windu — entry/section: Windu, Mace: "He took as his Padawan learner the Chalactan child Depa Billaba, after he rescued her from space pirates who had killed her parents." Source: The Complete Star Wars Encyclopedia, Vol. III, p.331
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.331 — full quote as printed](quotes/v3-p331-he-took-as-his-padawan-learner.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/08-v3-scan-321-360.md:134`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -59,7 +57,6 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Soergg and Gargonn (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Soergg_and_Gargonn_pdf_ac89d8292d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Hutts Soergg and Gargonn (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Hutts_Soergg_and_Gargonn_pdf_ac89d8292d`).)
 Note (our notes, around the quote): Mace Windu; Depa Billaba — entry/section: Windu and Billaba vs Gargonn: "Jedi Masters Mace Windu and Depa Billaba encountered the hideously deformed Gargonn when the Hutt began smuggling rare akk dogs off Windu's homeworld of Haruun Kal for cruel gladiatorial combat. Though the Jedi were able to put a stop to the operation, Gargonn is still at large." Source: *Soergg and Gargonn* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Soergg and Gargonn* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d089-s2-jedi-masters-mace-windu-and-depa.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/089-soergg-and-gargonn.md:25`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)

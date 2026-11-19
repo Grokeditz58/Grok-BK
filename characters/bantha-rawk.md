@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Bantha Rawk — entry/section: Pull quote.
 Note (our notes, around the quote): Bantha Rawk — entry/section: Pull quote: ""NEVER SEEN A ZELTRON JEALOUS BEFORE..." —BANTHA RAWK" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.18
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.18 — full quote as printed](quotes/d719-s18-never-seen-a-zeltron-jealous-before.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-001-060.md:132`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -33,7 +32,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > MYNOCK IS ONE OF A KIND—I SHOULD KNOW, I HELPED BUILD HER—AND INSTANTLY IDENTIFIABLE.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Bantha Rawk — entry/section: Pull quote.
 Note (our notes, around the quote): Bantha Rawk — entry/section: Pull quote: ""MYNOCK IS ONE OF A KIND—I SHOULD KNOW, I HELPED BUILD HER—AND INSTANTLY IDENTIFIABLE." —BANTHA RAWK" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.221
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.221 — full quote as printed](quotes/d719-s221-mynock-is-one-of-a-kind.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-181-225.md:373`
 
 ## Star Wars: Legacy (Dark Horse, 2006–2010) single issues #20–#50, hand-read

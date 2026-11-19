@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Chewbacca; Leia Organa Solo: "The two were separated when the Empire enslaved the Wookiees, and Gorrlyn was widowed when Salporin died trying to protect Chewbacca and Leia Organa Solo on Kashyyyk." Source: The Complete Star Wars Encyclopedia, Vol. I, p.354
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.354 — full quote as printed](quotes/v1-p354-the-two-were-separated-when-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:76`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)

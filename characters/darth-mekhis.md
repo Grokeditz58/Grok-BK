@@ -14,21 +14,18 @@
 > The Dark Council member Darth Mekhis led Imperial forces in a crushing invasion against the Outer Rim planet of Rhen Var. The Empire annihilated the Republic to claim the planet, until a Republic counter-attack rallied by Jedi Knights Satele Shan and Jaric Kaedan drove the Sith off Rhen Var.
 — Source: The Galactic Republic.
 Note (our notes, around the quote): Darth Mekhis; Satele Shan; Jaric Kaedan — Battle of Rhen Var box: "The Dark Council member Darth Mekhis led Imperial forces in a crushing invasion against the Outer Rim planet of Rhen Var. The Empire annihilated the Republic to claim the planet, until a Republic counter-attack rallied by Jedi Knights Satele Shan and Jaric Kaedan drove the Sith off Rhen Var." Source: The Old Republic Encyclopedia, p.27
-![Quote image: The Old Republic Encyclopedia, p.27 — full quote as printed](quotes/tore-p27-the-dark-council-member-darth-mekhis.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/02-republic.md:38`
 
 > BIOTIC SCIENCE … Cybernetic augmentations, catastrophic plagues, the Empire's medical needs, and bio-engineered abominations—sometimes aided by Sith alchemy—fall under the oversight of Darth Acharon. TECHNOLOGY … Darth Mekhis created the Sun Razer installation to mass produce superweapons. SITH PHILOSOPHY … As overseer of this sphere, Darth Aruk attempts to weed out Revanite cultists who dilute the Sith with heresy concerning Darth Revan's balanced approach to the Force. KEEPER OF MYSTERIES … Only the controller, Darth Rictus, is known. LAWS AND JUSTICE … Darth Mortis ensures that rules are enforced.
 > [fragment — full passage not on file]
 — Source: The Sith; Spheres (top-right). POV: Spheres, about Darth Mekhis.
 Note (our notes, around the quote): Spheres (top-right): "BIOTIC SCIENCE … Cybernetic augmentations, catastrophic plagues, the Empire's medical needs, and bio-engineered abominations—sometimes aided by Sith alchemy—fall under the oversight of Darth Acharon. TECHNOLOGY … Darth Mekhis created the Sun Razer installation to mass produce superweapons. SITH PHILOSOPHY … As overseer of this sphere, Darth Aruk attempts to weed out Revanite cultists who dilute the Sith with heresy concerning Darth Revan's balanced approach to the Force. KEEPER OF MYSTERIES … Only the controller, Darth Rictus, is known. LAWS AND JUSTICE … Darth Mortis ensures that rules are enforced." Source: The Old Republic Encyclopedia, p.173, sidebar
-![Quote image: The Old Republic Encyclopedia, p.173 — full quote as printed](quotes/tore-p173-biotic-science-cybernetic-augmentations-catastro.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:355`
 
 > the hammer that would shatter the rib cage of the Republic.
 > [fragment — full passage not on file]
 — Source: The Sith.
 Note (our notes, around the quote): Darth Mekhis — Fury-class intro: "Darth Mekhis called the completed Fury "the hammer that would shatter the rib cage of the Republic."" Source: The Old Republic Encyclopedia, p.190
-![Quote image: The Old Republic Encyclopedia, p.190 — full quote as printed](quotes/tore-p190-darth-mekhis-called-the-completed-fury.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:554`
 
 # Debate and forum claims (unverified)

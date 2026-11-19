@@ -147,13 +147,11 @@ Our notes: `notes/materials/021-legacy-of-the-force/lotf-9-invincible-notes.md:2
 > Jango bested Obi-Wan in combat and escaped with Boba in Slave I.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Jango Fett; Obi-Wan Kenobi — Jango bests Obi-Wan on Kamino: "Jango bested Obi-Wan in combat and escaped with Boba in Slave I." Source: The New Essential Chronology, p.52
-![Quote image: The New Essential Chronology, p.52 — full quote as printed](quotes/nec-p52-jango-bests-obi-wan-on-kamino.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:208`
 
 > Although Boba Fett succeeded in penetrating Tambor's citadel, General Grievous humiliated Boba in combat and ensured the escape of the Separatist leader.
 — Source: Part Two: The Fall of the Republic; General Grievous; Boba Fett — Grievous humiliates Boba.
 Note (our notes, around the quote): General Grievous; Boba Fett — Grievous humiliates Boba: "Although Boba Fett succeeded in penetrating Tambor's citadel, General Grievous humiliated Boba in combat and ensured the escape of the Separatist leader." Source: The New Essential Chronology, p.80
-![Quote image: The New Essential Chronology, p.80 — full quote as printed](quotes/nec-p80-grievous-humiliates-boba.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:466`
 
 > Their dis- * maneuverings would Inevitably be replaced by deadly On Nar Shaddaa, the Smugglers’ Moon, Han Solo and acca were introduced to illicit Hult activitles by © Spince, Han’s old friend from the Academy. As the ‘enths passed, the new partners met dozens of offbeat “meividuals, such as Shug Ninx, Salla Zend, and Xaverrl.
@@ -169,13 +167,11 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Boba Fett; Han Solo — galaxy's best bounty hunter: "The galaxy's best bounty hunter was hired to bring in Solo's hide." Source: The New Essential Chronology, p.93
-![Quote image: The New Essential Chronology, p.93 — full quote as printed](quotes/nec-p93-galaxys-best-bounty-hunter.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:40`
 
 > The galaxy's most notorious bounty hunters assemble for the funeral of Greedo.
 — Source: Part Four: Profiles in History; Boba Fett — art caption.
 Note (our notes, around the quote): Boba Fett — art caption: "The galaxy's most notorious bounty hunters assemble for the funeral of Greedo." Source: The New Essential Chronology, p.97, caption
-![Quote image: The New Essential Chronology, p.97 — full quote as printed](quotes/nec-p97-caption-the-galaxys-most-notorious-bounty.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:68`
 
 > Han Passed on the information to Tharen’s surviving family.
@@ -195,25 +191,21 @@ Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-i
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary new essential chronology nec paged (text copy `research_primary_new_essential_chronology_nec_paged_txt_88b808b5bc`).)
 Note (our notes, around the quote): Lando Calrissian; Boba Fett — Lando drugs Fett: "He injected the bounty hunter with an obedience drug and ordered him to fly off to the Rim of the galaxy." Source: The New Essential Chronology, p.98
-![Quote image: The New Essential Chronology, p.98 — full quote as printed](quotes/nec-p98-lando-drugs-fett.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/04-part-four-profiles-in-history.md:75`
 
 > Boba Fett, now the most notorious bounty hunter in the galaxy, was hired to be the agent of the guild's destruction.
 — Source: Part Five: The Galactic Civil War; Boba Fett — Bounty Hunter Wars.
 Note (our notes, around the quote): Boba Fett — Bounty Hunter Wars: "Boba Fett, now the most notorious bounty hunter in the galaxy, was hired to be the agent of the guild's destruction." Source: The New Essential Chronology, p.111
-![Quote image: The New Essential Chronology, p.111 — full quote as printed](quotes/nec-p111-bounty-hunter-wars.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:60`
 
 > Before the Battle of Yavin, Fett had recovered the severed head of an Icarii prophetess on the Dark Lord's behalf, a contest in which each player had exhibited his full depth of skill.
 — Source: Part Five: The Galactic Civil War; Boba Fett; Darth Vader (Anakin Skywalker) — Fett and Vader.
 Note (our notes, around the quote): Boba Fett; Darth Vader (Anakin Skywalker) — Fett and Vader: "Before the Battle of Yavin, Fett had recovered the severed head of an Icarii prophetess on the Dark Lord's behalf, a contest in which each player had exhibited his full depth of skill." Source: The New Essential Chronology, p.118
-![Quote image: The New Essential Chronology, p.118 — full quote as printed](quotes/nec-p118-fett-and-vader.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/05-part-five-galactic-civil-war.md:121`
 
 > There, Han Solo received help from the last man he ever expected—Boba Fett, flanked by a new squad of Mandalorian Supercommandos. The armored warriors put the fear of Mandalore into the attacking Yuuzhan Vong, and Han escaped the station with a newfound respect for the veteran hunter.
 — Source: Part Twelve: The New Jedi Order; Boba Fett; Han Solo — Fett's Mandalorians at Caluula.
 Note (our notes, around the quote): Boba Fett; Han Solo — Fett's Mandalorians at Caluula: "There, Han Solo received help from the last man he ever expected—Boba Fett, flanked by a new squad of Mandalorian Supercommandos. The armored warriors put the fear of Mandalore into the attacking Yuuzhan Vong, and Han escaped the station with a newfound respect for the veteran hunter." Source: The New Essential Chronology, p.225
-![Quote image: The New Essential Chronology, p.225 — full quote as printed](quotes/nec-p225-fetts-mandalorians-at-caluula.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi-order.md:209`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -221,7 +213,6 @@ Our notes: `notes/materials/027-new-essential-chronology/12-part-twelve-new-jedi
 > A thousand BL units armed with AAP-II blaster boxes fought in the front lines, and most were destroyed at Norval IL BL-17 was a Battle Legionnaire that served Boba Fett in the Empire's early days.
 — Source: scan pages 41–80; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "A thousand BL units armed with AAP-II blaster boxes fought in the front lines, and most were destroyed at Norval IL BL-17 was a Battle Legionnaire that served Boba Fett in the Empire's early days." Source: The Complete Star Wars Encyclopedia, Vol. I, p.64
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.64 — full quote as printed](quotes/v1-p64-a-thousand-bl-units-armed-with.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:312`
 
 > The death escalated tensions and resulted in a civil war that lasted a year. Blessings A Dreadnaught in Nil Spaar's Black Eleven Fleet. Bleyd,TarneseSakiyan commander of a MedStar medical frigate who was secretly working to double-cross Black Sun during the Clone Wars. He hoped to profit off bota taken from Drongar, thereby bringing honor back to his family lost by an earlier dealing with the criminal syndicate. Black Sun agent Kaird killed Bleyd. Bley-sanThe owner of a cantina on Tatoo­ ine, she owed a favor to Ygabba Hise, one of the children under the control of Gilramos Libkath.
@@ -242,7 +233,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Boba Fett: "After Boba Fett killed Libkath, Ygabba believed that Bley-san could help the children find their families." Source: The Complete Star Wars Encyclopedia, Vol. I, p.79
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.79 — full quote as printed](quotes/v1-p79-after-boba-fett-killed-libkath-ygabba.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:105`
 
 > The open cockpit allowed him to leap directly from the vehicle and into combat.
@@ -254,13 +244,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research audit work src m030 (text copy `research_audit_work_src_m030_txt_69ea9f4a41`).)
 Note (our notes, around the quote): Boba Fett: "They were then wiped out by Boba Fett's Mandalorian supercommandos." Source: The Complete Star Wars Encyclopedia, Vol. I, p.80
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.80 — full quote as printed](quotes/v1-p80-they-were-then-wiped-out-by.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:118`
 
 > Boz A short Lizling, he vowed revenge on Boba Fett after the bounty hunter killed his friend Ry-Kooda.
 — Source: scan pages 81–120; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Boz A short Lizling, he vowed revenge on Boba Fett after the bounty hunter killed his friend Ry-Kooda." Source: The Complete Star Wars Encyclopedia, Vol. I, p.90
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.90 — full quote as printed](quotes/v1-p90-boz-a-short-lizling-he-vowed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan-081-120.md:202`
 
 > Ealewon Electronics A company that manufactured encryption devices. Ean A Mon Calamari, he was a member of Wedge Antilles's command crew on the Y avin, a New Republic star cruiser. Earl of Vis A historical figure on Naboo, cousin to an ancient king, who built a large banquet rotunda in the city of Theed. earworm A Corellian slang term for any nuisance or pest. East DistrictTrail A travel route on Lu­ cazec, little more than a dirt road. Eastgate One of the largest commer­ cial and warehouse districts of the Upper City of Taris, prior to its devastation by Darth Malak. East Minor A residential borough on Coruscant's southern hemisphere, home to the famous Traphill Gardens. East Platform The landing platform used by Boba Fett on Cloud City when he took possession of the carbon-frozen Han Solo. EastportOne ofthe three largest space­ E522 Assassin was extensively damaged during the Yuuzhan Vong invasion and subsequent transforma­ tion of the capital world. Easy Spacer A popular ho­ lovid starring Isriner Korosson, re­ leased prior to the Clone Wars. Eater of Fire Creepers A Qom Jha Bargainer who welcomed Luke Skywalker to Nirauan. However, he resented the presence ofMara Jade because of her former allegiance to the Empire.
@@ -268,7 +256,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/02-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Boba Fett; Han Solo: "East Platform The landing platform used by Boba Fett on Cloud City when he took possession of the carbon-frozen Han Solo." Source: The Complete Star Wars Encyclopedia, Vol. I, p.224
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.224 — full quote as printed](quotes/v1-p224-east-platform-the-landing-platform-used.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/05-v1-scan-201-240.md:308`
 
 - Note (summary from our notes, not a quotation): Page contents: 1138 words, 36 paragraphs | headings/entries: Feswin, Chau; Fett, Boba
@@ -278,7 +265,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 > He was a legendary bounty hunter, accepting warrants from both the Empire and the criminal underworld.
 — Source: scan pages 281–320; Boba Fett — entry/section: Fett, Boba.
 Note (our notes, around the quote): Boba Fett — entry/section: Fett, Boba: "He was a legendary bounty hunter, accepting warrants from both the Empire and the criminal underworld." Source: The Complete Star Wars Encyclopedia, Vol. I, p.266
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.266 — full quote as printed](quotes/v1-p266-he-was-a-legendary-bounty-hunter.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:12`
 
 > A doctor gave him just a year or two to live; there was no help this time from Taun We, since she had disappeared. Fett decided to locate his daughter Ailyn, who had been born during a three-year marriage to bounty hunter Sintas Vel. But Ailyn had vanished, secretly taking on Corellian secessionist Thrackan Sal-Solo's bounty on the heads of Han and Leia. Ailyn's daughter Mirta Gev approached Fett without revealing that she was his granddaughter to enlist him in the search for her mother. She Fett,Cassus Q accompanied the 71-year-old Fett when he took on the job of assassinating Thrackan, fir­ ing the first three shots into Sal-Solo's head. It was then that they learned that Ailyn had been captured, tortured, and killed by Jacen Solo. After confronting the animosity his grand­ daughter held toward him, Fett realized that it was time he reclaimed his Mandalorian roots. Fett and Gev journeyed to Mandalore and Fett resumed his role as leader, although he felt undeserving. Fett was able to obtain a serum that rapidly restored his health, and he helped Mandalore return as a power in the galaxy. It was with great trepidation that Fett dis­ covered that Sintas Vel, his former wife and grandmother of Mirta Gev, was still alive.
@@ -286,7 +272,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Boba Fett; Jacen Solo (Darth Caedus) — entry/section: Fett, Boba: "It was then that they learned that Ailyn had been captured, tortured, and killed by Jacen Solo." Source: The Complete Star Wars Encyclopedia, Vol. I, p.267
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.267 — full quote as printed](quotes/v1-p267-it-was-then-that-they-learned.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:21`
 
 > It proved to be incredibly successful and served as the model for future cities built in the Genarius's atmosphere. frog-dog A reptilian species with prehen­ sile tongues and bulbous purple eyes atop a Sise Fromm green head, they were intelligent, but rarely let others know that. Instead, frog-dogs such as Bubo chose to work as spies and mercenar­ ies. Most regarded them as common pets. Fromm, Sise An old yet powerful crime boss, he operated out of a strong­ hold on the planet Annoo during the early days of the Empire. An Annoo­ dat, he ran a legitimate import­ export business that was a front for extortion, kidnapping, and blaster­ running. He controlled most of the world by fear, having sent the Trigon One weap­ ons satellite into orbit around the planet. He wanted Thall Joben and his friends killed for angering him, and so he employed Boba Fett to kill them in the speeder races on Boonta. Fromm, covering all his bases, also planted a bomb on Joben's speeder. When Fett made his attempt on Joben dur­ ing the races, he activated a magnet in order to draw Joben nearer. However, the mag­ net dislodged Fromm's bomb, and Fett was nearly destroyed. In his anger, Fett captured Sise Fromm and his entire gang, and turned them over to Jabba the Hutt.
@@ -294,19 +279,16 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Boba Fett: "He wanted Thall Joben and his friends killed for angering him, and so he employed Boba Fett to kill them in the speeder races on Boonta." Source: The Complete Star Wars Encyclopedia, Vol. I, p.297
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.297 — full quote as printed](quotes/v1-p297-he-wanted-thall-joben-and-his.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/07-v1-scan-281-320.md:237`
 
 > Gann (2) A human male member of Nevo's assassin unit, he was killed by Boba Fett in a photo booth on Starstation 12.
 — Source: scan pages 321–360; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Gann (2) A human male member of Nevo's assassin unit, he was killed by Boba Fett in a photo booth on Starstation 12." Source: The Complete Star Wars Encyclopedia, Vol. I, p.321
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.321 — full quote as printed](quotes/v1-p321-gann-2-a-human-male-member.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:111`
 
 > Grakouine The site of a Rebel Alliance storage base, it was where the New Republic parked Boba Fett's ship, Slave I, after the bounty hunter was presumed killed by the Sarlacc on Tatooine.
 — Source: scan pages 361–398; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Grakouine The site of a Rebel Alliance storage base, it was where the New Republic parked Boba Fett's ship, Slave I, after the bounty hunter was presumed killed by the Sarlacc on Tatooine." Source: The Complete Star Wars Encyclopedia, Vol. I, p.357
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.357 — full quote as printed](quotes/v1-p357-grakouine-the-site-of-a-rebel.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:99`
 
 > Greglik A former Rebel Alliance pilot, he captained an ore hauler used to transport ma­ terial following the Battle ofHoth. Greglik was addicted to various drugs, and that habit killed not only him but also 17 other Alliance pilots in a collision with an asteroid. Grejic the Hutt The president of the Hutt Grand Council in the century leading up to the Battle of Yavin, he decided that clan Besadii should be punished for rais­ ing the price of raw spice in the aftermath of the Battle of Nar Shaddaa. The punish­ ment was one million credits, to be divided among those clans that had lost resources in the battle. GreJJAn Imperial lieutenant, he commanded an AT-AT walker stationed at the garrison on Vryssa. Like Lieutenant Byrga, Grejj was killed when Boba Fett came to the planet to recover Rivo Xarran. Fett had acquired control of an AT-AT from Byrga and used it to destroy Grejj's vehicle. Grek-class troop shuttle Designed and manufactured by the Corellian Engineering Corporation, this 30-meter-long shuttle found use aboard Imperial Nebulon-B frigates as well as other local navies. The Grek-class shuttle re­ quired a pilot and copilot, and could transport up to 50 troops and minimal cargo. Itwas armed with a computer-controlled laser cannon.
@@ -314,7 +296,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Boba Fett: "Like Lieutenant Byrga, Grejj was killed when Boba Fett came to the planet to recover Rivo Xarran." Source: The Complete Star Wars Encyclopedia, Vol. I, p.367
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.367 — full quote as printed](quotes/v1-p367-like-lieutenant-byrga-grejj-was-killed.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan-361-398.md:175`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -322,43 +303,36 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/09-v1-scan
 > Jango Fett established one for his son Boba before he was killed on Geonosis.
 — Source: scan pages 41–80; Jango Fett; Boba Fett.
 Note (our notes, around the quote): Jango Fett; Boba Fett: "Jango Fett established one for his son Boba before he was killed on Geonosis." Source: The Complete Star Wars Encyclopedia, Vol. II, p.41
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.41 — full quote as printed](quotes/v2-p41-jango-fett-established-one-for-his.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/01-v2-scan-041-080.md:56`
 
 > Fifteen years before the Battle of Hoth, Boba Fett killed a spice dealer named Hallolar Voors on Jubilar.
 — Source: scan pages 161–200; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Fifteen years before the Battle of Hoth, Boba Fett killed a spice dealer named Hallolar Voors on Jubilar." Source: The Complete Star Wars Encyclopedia, Vol. II, p.176
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.176 — full quote as printed](quotes/v2-p176-fifteen-years-before-the-battle-of.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/04-v2-scan-161-200.md:163`
 
 > Young Boba stole his miter-like hat and fled the ship with the children, while Durge set out to destroy Libkath.
 — Source: scan pages 241–280; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Young Boba stole his miter-like hat and fled the ship with the children, while Durge set out to destroy Libkath." Source: The Complete Star Wars Encyclopedia, Vol. II, p.253
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.253 — full quote as printed](quotes/v2-p253-young-boba-stole-his-miter-like.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan-241-280.md:174`
 
 > In the wake of the Galactic Civil War, Boba Fett took on the role of Mandalor for the scattered Mandalorians who survived throughout the galaxy, although he was never regarded as a true Mandalorian.
 — Source: scan pages 281–320; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "In the wake of the Galactic Civil War, Boba Fett took on the role of Mandalor for the scattered Mandalorians who survived throughout the galaxy, although he was never regarded as a true Mandalorian." Source: The Complete Star Wars Encyclopedia, Vol. II, p.283
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.283 — full quote as printed](quotes/v2-p283-in-the-wake-of-the-galactic.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:78`
 
 > Mit, N'haz Boba Fett tracked Mit to the planet Necropolis, where he killed him.
 — Source: scan pages 321–360; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Mit, N'haz Boba Fett tracked Mit to the planet Necropolis, where he killed him." Source: The Complete Star Wars Encyclopedia, Vol. II, p.320
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.320 — full quote as printed](quotes/v2-p320-mit-nhaz-boba-fett-tracked-mit.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:43`
 
 > Murthé was later hunted down and killed by Boba Fett, who had been hired by Slique Brighteyes to avenge the Gulmarids.
 — Source: scan pages 321–360; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Murthé was later hunted down and killed by Boba Fett, who had been hired by Slique Brighteyes to avenge the Gulmarids." Source: The Complete Star Wars Encyclopedia, Vol. II, p.343
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.343 — full quote as printed](quotes/v2-p343-murth-was-later-hunted-down-and.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/08-v2-scan-321-360.md:206`
 
 > Shug Ninx and Salla Zend left the spaceport after Han Solo accidentally destroyed one of their prized cruisers escaping from Boba Fett, and after Zasm Katth and Baddon Fass had ransacked the garage.
 — Source: scan pages 361–400; Han Solo; Boba Fett.
 Note (our notes, around the quote): Han Solo; Boba Fett: "Shug Ninx and Salla Zend left the spaceport after Han Solo accidentally destroyed one of their prized cruisers escaping from Boba Fett, and after Zasm Katth and Baddon Fass had ransacked the garage." Source: The Complete Star Wars Encyclopedia, Vol. II, p.383
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.383 — full quote as printed](quotes/v2-p383-shug-ninx-and-salla-zend-left.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan-361-400.md:238`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -366,67 +340,56 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/09-v2-scan
 > Sintas Vel and Boba Fett confronted Pizztov, and Fett killed him.
 — Source: scan pages 1–40; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Sintas Vel and Boba Fett confronted Pizztov, and Fett killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.28
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.28 — full quote as printed](quotes/v3-p28-sintas-vel-and-boba-fett-confronted.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/00-v3-scan-001-040.md:249`
 
 > Led by Vitor Reige, the crew forced the Moffs to lock themselves in the ship's command center, where they were wiped out by Boba Fett and his Mandalorian supercommandos.
 — Source: scan pages 41–80; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Led by Vitor Reige, the crew forced the Moffs to lock themselves in the ship's command center, where they were wiped out by Boba Fett and his Mandalorian supercommandos." Source: The Complete Star Wars Encyclopedia, Vol. III, p.64
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.64 — full quote as printed](quotes/v3-p64-led-by-vitor-reige-the-crew.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:231`
 
 > Boba Fett used a robot scoop to carry away the body of his father, Jango Fett, from the arena where he was beheaded by Mace Windu.
 — Source: scan pages 81–120; Boba Fett; Jango Fett; Mace Windu.
 Note (our notes, around the quote): Boba Fett; Jango Fett; Mace Windu: "Boba Fett used a robot scoop to carry away the body of his father, Jango Fett, from the arena where he was beheaded by Mace Windu." Source: The Complete Star Wars Encyclopedia, Vol. III, p.103
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.103 — full quote as printed](quotes/v3-p103-boba-fett-used-a-robot-scoop.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:228`
 
 > Boba Fett tracked him there and killed Karda.
 — Source: scan pages 121–160; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Boba Fett tracked him there and killed Karda." Source: The Complete Star Wars Encyclopedia, Vol. III, p.136
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.136 — full quote as printed](quotes/v3-p136-boba-fett-tracked-him-there-and.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:169`
 
 > When Gev described the man to Boba Fett, the bounty hunter became intensely interested in finding him: He would have been one of the few clones to have survived the rapid aging that had been genetically coded into their cells.
 — Source: scan pages 161–200; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "When Gev described the man to Boba Fett, the bounty hunter became intensely interested in finding him: He would have been one of the few clones to have survived the rapid aging that had been genetically coded into their cells." Source: The Complete Star Wars Encyclopedia, Vol. III, p.159
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.159 — full quote as printed](quotes/v3-p159-when-gev-described-the-man-to.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:40`
 
 > Jaina trained under Boba Fett, learning Mandalorian combat techniques to effectively surprise and defeat Jacen.
 — Source: scan pages 161–200.
 Note (our notes, around the quote): Jacen Solo (Darth Caedus); Jaina Solo; Boba Fett — entry/section: Solo, Jacen: "Jaina trained under Boba Fett, learning Mandalorian combat techniques to effectively surprise and defeat Jacen." Source: The Complete Star Wars Encyclopedia, Vol. III, p.176
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.176 — full quote as printed](quotes/v3-p176-jaina-trained-under-boba-fett-learning.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/04-v3-scan-161-200.md:251`
 
 > Tawr, Vatok One of the few Mandalorian commandos who accompanied Boba Fett to the Nickel One asteroid, in the wake of the Second Battle of Fondor, to drive off the forces of the Imperial Remnant that had taken control of the asteroid and enslaved the native Verpine.
 — Source: scan pages 201–240; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Tawr, Vatok One of the few Mandalorian commandos who accompanied Boba Fett to the Nickel One asteroid, in the wake of the Second Battle of Fondor, to drive off the forces of the Imperial Remnant that had taken control of the asteroid and enslaved the native Verpine." Source: The Complete Star Wars Encyclopedia, Vol. III, p.225
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.225 — full quote as printed](quotes/v3-p225-tawr-vatok-one-of-the-few.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:272`
 
 > When Teroenza's role in the death of Aruk the Hutt came to light, Boba Fett killed him and claimed the bounty by removing his horn as proof.
 — Source: scan pages 201–240; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "When Teroenza's role in the death of Aruk the Hutt came to light, Boba Fett killed him and claimed the bounty by removing his horn as proof." Source: The Complete Star Wars Encyclopedia, Vol. III, p.231
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.231 — full quote as printed](quotes/v3-p231-when-teroenzas-role-in-the-death.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:330`
 
 > He died sometime after the Battle of Endor when Boba Fett destroyed his ship.
 — Source: scan pages 241–280; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "He died sometime after the Battle of Endor when Boba Fett destroyed his ship." Source: The Complete Star Wars Encyclopedia, Vol. III, p.255
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.255 — full quote as printed](quotes/v3-p255-he-died-sometime-after-the-battle.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:192`
 
 > A group of Mandalorians led by Boba Fett infiltrated the ship and killed the Moffs, and Veila was stabbed in the leg by Mirta Gev.
 — Source: scan pages 281–320; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "A group of Mandalorians led by Boba Fett infiltrated the ship and killed the Moffs, and Veila was stabbed in the leg by Mirta Gev." Source: The Complete Star Wars Encyclopedia, Vol. III, p.300
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.300 — full quote as printed](quotes/v3-p300-a-group-of-mandalorians-led-by.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:199`
 
 > Voors, Hallolar A young spice-trading entrepreneur on Jubilar, he was killed by Boba Fett because he dared to try to break a Hutt cartel's monopoly on black-market spice.
 — Source: scan pages 281–320; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Voors, Hallolar A young spice-trading entrepreneur on Jubilar, he was killed by Boba Fett because he dared to try to break a Hutt cartel's monopoly on black-market spice." Source: The Complete Star Wars Encyclopedia, Vol. III, p.311
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.311 — full quote as printed](quotes/v3-p311-voors-hallolar-a-young-spice-trading.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:302`
 
 ## The New Essential Guide to Characters (2002)
@@ -434,7 +397,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan
 > To restore his reputation, Boba Fett wiped out an entire Imperial garrison on Vryssa in order to nab a bounty who'd hidden there for protection.
 — Source: scan pages 31–60; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "To restore his reputation, Boba Fett wiped out an entire Imperial garrison on Vryssa in order to nab a bounty who'd hidden there for protection." Source: The New Essential Guide to Characters, p.67
-![Quote image: The New Essential Guide to Characters, p.67 — full quote as printed](quotes/negc-p67-to-restore-his-reputation-boba-fett.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/01-negc-scan-031-060.md:205`
 
 - Note (summary from our notes, not a quotation): Page contents: 764 words, 13 paragraphs | headings/entries: STAR WARS:; The galaxy at large thought Boba; THE New ESSENTIAL GUIDE TO CHARACTERS
@@ -444,13 +406,11 @@ Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-0
 > When Jodo Kast threatened to blow his cover by encouraging people to believe that he was Boba Fett, Fett ambushed Kast and killed him.
 — Source: scan pages 61–90; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "When Jodo Kast threatened to blow his cover by encouraging people to believe that he was Boba Fett, Fett ambushed Kast and killed him." Source: The New Essential Guide to Characters, p.68
-![Quote image: The New Essential Guide to Characters, p.68 — full quote as printed](quotes/negc-p68-when-jodo-kast-threatened-to-blow.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:14`
 
 > Rival hunter Boba Fett outsmarted and humiliated them both.
 — Source: scan pages 181–210; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Rival hunter Boba Fett outsmarted and humiliated them both." Source: The New Essential Guide to Characters, p.206
-![Quote image: The New Essential Guide to Characters, p.206 — full quote as printed](quotes/negc-p206-rival-hunter-boba-fett-outsmarted-and.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/06-negc-scan-181-210.md:132`
 
 ## Adventures/Tempest feud.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -468,7 +428,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > In an effort to end the threat of the bounty hunters, the leader of Black Sun, Prince Xizor of Falleen, convinced the Emperor to disenfranchise the Bounty Hunters' Guild. The Emperor contracted Boba Fett to engineer the downfall of the guild.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Prince Xizor; Palpatine (Darth Sidious); Boba Fett — entry/section: Xizor got the Guild disbanded; Fett engineered its downfall: "In an effort to end the threat of the bounty hunters, the leader of Black Sun, Prince Xizor of Falleen, convinced the Emperor to disenfranchise the Bounty Hunters' Guild. The Emperor contracted Boba Fett to engineer the downfall of the guild." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.99
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.99 — full quote as printed](quotes/d043-s99-in-an-effort-to-end-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:251`
 
 - Note (summary from our notes, not a quotation): Page contents: IG-88 (OCR '1G-88', no crop): 'Because of inadequate safety protocols, the programmers at Holowan were systematically slaughtered by their creations—a handful of unstoppable killing machines, led by the calculating and cunning IG-88. Since gaining his freedom, IG-88 has carried out his programming as an efficient killer. He answers to no one, making him an independent bounty hunter comparable in skill to Boba Fett.' (hand-read)
@@ -478,7 +437,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > It was ultimately Boba Fett who second-guessed Han Solo and followed the Millennium Falcon to Bespin. Once he realized Solo's destination, he alerted Vader, and the Imperials arrived at Cloud City ahead of the Falcon.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Boba Fett; Han Solo; Darth Vader (Anakin Skywalker) — entry/section: Fett second-guessed Han Solo: "It was ultimately Boba Fett who second-guessed Han Solo and followed the Millennium Falcon to Bespin. Once he realized Solo's destination, he alerted Vader, and the Imperials arrived at Cloud City ahead of the Falcon." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.100
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.100 — full quote as printed](quotes/d043-s100-it-was-ultimately-boba-fett-who.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:258`
 
 - Note (summary from our notes, not a quotation): Page contents: Double Bounty letter (Calk Fen to Jabba): Han Solo has cost Jabba more than 1.3 million credits; 'I am betting on Boba Fett to bring him back to Tatooine' (hand-read)
@@ -488,13 +446,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Known as the most ruthless bounty hunter in the galaxy, Boba Fett has completed an extraordinary number of successful missions.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Boba Fett — entry/section: Most ruthless bounty hunter in the galaxy: "Known as the most ruthless bounty hunter in the galaxy, Boba Fett has completed an extraordinary number of successful missions." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.101
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.101 — full quote as printed](quotes/d043-s101-known-as-the-most-ruthless-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:275`
 
 > In addition, Solo blasted your humble servant, Greedo, and has eluded or ended the careers of more bounty hunters than I care to list since he departed Tatooine with a false promise of paying what he owed with interest.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Han Solo; Boba Fett — entry/section: The Double Bounty: Solo's toll on hunters: "In addition, Solo blasted your humble servant, Greedo, and has eluded or ended the careers of more bounty hunters than I care to list since he departed Tatooine with a false promise of paying what he owed with interest." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.101
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.101 — full quote as printed](quotes/d043-s101-in-addition-solo-blasted-your-humble.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:277`
 
 - Note (summary from our notes, not a quotation): Page contents: Han Solo escaped a Star Destroyer amid jettisoned rubbish 'though he didn't fool Boba Fett, who knew the trick as well' (hand-read)
@@ -504,13 +460,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Han Solo escaped from an Imperial Star Destroyer amid the rubbish the ship cast off before its jump to hyperspace (though he didn't fool Boba Fett, who knew the trick as well).
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Han Solo; Boba Fett.
 Note (our notes, around the quote): Han Solo; Boba Fett: "Han Solo escaped from an Imperial Star Destroyer amid the rubbish the ship cast off before its jump to hyperspace (though he didn't fool Boba Fett, who knew the trick as well)." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.103
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.103 — full quote as printed](quotes/d043-s103-han-solo-escaped-from-an-imperial.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:293`
 
 > Luke would spend some time , ' +3, Far ' Boba Fett. one of the bounty hunters employed by Darth : in a bacta tank to heal his wounds, but he had survived. s nae : Force + vader t help find the Falcon, tracked So to Cloud City i The Empire, meanwhile, had discovered the location of the Feat : and alerted Vader and his troops { base.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Luke Skywalker; Boba Fett; Darth Vader (Anakin Skywalker).
 Note (our notes, around the quote): Luke Skywalker; Boba Fett; Darth Vader (Anakin Skywalker): "Luke would spend some time , ' +3, Far ' Boba Fett. one of the bounty hunters employed by Darth : in a bacta tank to heal his wounds, but he had survived. s nae : Force + vader t help find the Falcon, tracked So to Cloud City i The Empire, meanwhile, had discovered the location of the Feat : and alerted Vader and his troops { base." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.113
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.113 — full quote as printed](quotes/d043-s113-luke-would-spend-some-time-3.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-061-120.md:351`
 
 ## Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 121–161)
@@ -522,13 +476,11 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > Lando, meanwhile, : Sé j \fter d Ti it } reat post by Prince Xiz and the i f # inally took action as well, A confusing battle ensued, When types walker and his compan . ver, the Sarlace had consumed Boba Fett and many quard a oY ent on to rescue Han Solo from the clutches of the A : ; of Jabba's quards, Leia had strangled Jabba with the chair his h ile ¢ qstcr iba the Hutt ¢ complex plat put Land t that bound her to the Hutt, and Luke had destroyed the ' mask Calrissian into Jabba's palace, where he disquised himself as : ; : : massive sail barge, The companions were free, Jabba wi : f ne of ba ) ce quards.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20.
 Note (our notes, around the quote): Lando Calrissian; Boba Fett; Han Solo; Leia Organa Solo; Luke Skywalker: "Lando, meanwhile, : Sé j \fter d Ti it } reat post by Prince Xiz and the i f # inally took action as well, A confusing battle ensued, When types walker and his compan . ver, the Sarlace had consumed Boba Fett and many quard a oY ent on to rescue Han Solo from the clutches of the A : ; of Jabba's quards, Leia had strangled Jabba with the chair his h ile ¢ qstcr iba the Hutt ¢ complex plat put Land t that bound her to the Hutt, and Luke had destroyed the ' mask Calrissian into Jabba's palace, where he disquised himself as : ; : : massive sail barge, The companions were free, Jabba wi : f ne of ba ) ce quards." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.131
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.131 — full quote as printed](quotes/d043-s131-lando-meanwhile-s-j-fter-d.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:95`
 
 > Then the dr 5s R2-D2 and ( ' dead, and Boba Fett was defeated—or so thev thought.
 — Source: Sourcebooks/Rebellion Era Sourcebook.pdf [Star Wars Roleplaying Game (d20; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Then the dr 5s R2-D2 and ( ' dead, and Boba Fett was defeated—or so thev thought." Source: *Rebellion Era Sourcebook* (SWRPG d20), scan p.131
-![Quote image: *Rebellion Era Sourcebook* (SWRPG d20), scan p.131 — full quote as printed](quotes/d043-s131-then-the-dr-5s-r2-d2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-121-161.md:97`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -536,7 +488,6 @@ Our notes: `notes/materials/037-sw-d20-folder/043-rebellion-era-sourcebook-scan-
 > The bounty was finally claimed by the infamous bounty hunter Boba Fett, who managed to increase the sum even further by suggesting that Han Solo (now frozen in carbonite) could be considered not just a bounty, but a piece of artwork—created by none other than the Dark Lord of the Sith, Darth Vader. Amused at the notion, Jabba paid Boba Fett 250,000 credits for Solo.
 — Source: Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 200.
 Note (our notes, around the quote): Han Solo; Jabba the Hutt; Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Jabba the Hutt: "The bounty was finally claimed by the infamous bounty hunter Boba Fett, who managed to increase the sum even further by suggesting that Han Solo (now frozen in carbonite) could be considered not just a bounty, but a piece of artwork—created by none other than the Dark Lord of the Sith, Darth Vader. Amused at the notion, Jabba paid Boba Fett 250,000 credits for Solo." Source: *Secrets of Tatooine* (SWRPG d20), scan p.55
-![Quote image: *Secrets of Tatooine* (SWRPG d20), scan p.55 — full quote as printed](quotes/d045-s55-the-bounty-was-finally-claimed-by.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-060.md:346`
 
 ## Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 181–240)
@@ -544,13 +495,11 @@ Our notes: `notes/materials/037-sw-d20-folder/045-secrets-of-tatooine-scan-001-0
 > Laser Gauntlet: Boba Fett's right wrist gauntlet is capable of firing a wicked laser beam (see below).
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "Laser Gauntlet: Boba Fett's right wrist gauntlet is capable of firing a wicked laser beam (see below)." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.239
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.239 — full quote as printed](quotes/d046-s239-laser-gauntlet-boba-fetts-right-wrist.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:420`
 
 > On a successful hit, the target must attempt a Reflex save, with a DC equal to Boba Fett's attack roll.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Boba Fett. POV: Boba Fett.
 Note (our notes, around the quote): Boba Fett: "On a successful hit, the target must attempt a Reflex save, with a DC equal to Boba Fett's attack roll." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.239
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.239 — full quote as printed](quotes/d046-s239-on-a-successful-hit-the-target.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:422`
 
 - Note (summary from our notes, not a quotation): Page contents: 628 words, 33 paragraphs | headings/entries: Boba Fett, Bounty Hunter; Skills: Astrogate; Darth Vader, Dark Lord of the Sith; WeOltll tll at ml Hl i wl; ERAS OF PLAY EREEEEERE ET; Emperor does not share; LORD DARTH VADER
@@ -562,7 +511,6 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > Through a series of wild adventures—including kidnapping Leia Organa to prevent her from marrying a handsome rival, evading continued pursuit by the bounty hunter Boba Fett, and helping to defeat the rebom Emperor—Han has remained much the same wry adventurer he was when he first met Luke Skywalker on Tatooine.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Leia Organa Solo; Boba Fett; Luke Skywalker.
 Note (our notes, around the quote): Leia Organa Solo; Boba Fett; Luke Skywalker: "Through a series of wild adventures—including kidnapping Leia Organa to prevent her from marrying a handsome rival, evading continued pursuit by the bounty hunter Boba Fett, and helping to defeat the rebom Emperor—Han has remained much the same wry adventurer he was when he first met Luke Skywalker on Tatooine." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.243 — full quote as printed](quotes/d046-s243-through-a-series-of-wild-adventures.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-241-300.md:44`
 
 - Note (summary from our notes, not a quotation): Page contents: 734 words, 99 paragraphs | headings/entries: Defense: Speed: vP/WP: Attacks:; Damage:; Special Qualities:; Saves: Challenge Code: force Points:; Dark Side Points:; Reputation:; Skills:; Feats:; Equipment:; Boba Fett and; Aurra Sing. Note; Scoundrel 4; Fort +1, Ref +5, Will +3; Cc; Str 8, Dex 13, Con 10,; Int 12, Wis 14, Cha 16; Alertness, Low Profile; Con Artist; Crimelord; Scoundrel 6/Noble 2; Unarmed +4 melee; Hold-out blaster +6 ranged Unarmed 1d3-1; Hold-out blaster 3d4; Fort +2, Ref +9, Will +7; D; Str 8, Dex 14, Con 10,; SAAA; Scoundrel 8/Noble 4; Hold-out blaster 3d4; Command; Fort +3, Ref +10, Will +8; E; Str 8, Dex 14, Con 10,; Int 13, Wis 14, Cha 16; Dark Jedi; ALLIES AND OPPONENTS; CHAPTER four
@@ -574,7 +522,6 @@ Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-cor
 > The most famous Firespray-31 is doubtless Slave I, the personal vessel of bounty hunter Boba Fett. Slave I has been heavily modified to Fett's specifications, including a concealed turret with proton torpedoes and a tractor beam, a HoloNet transceiver, and extensive internal security systems. It also has an amazing sensor mask, increasing the DC of any Computer Use check to find Slave I with sensors by +8.
 — Source: Sourcebooks/Starships Of The Galaxy.pdf [Star Wars Roleplaying Game (d20,; Boba Fett — entry/section: Slave I.
 Note (our notes, around the quote): Boba Fett — entry/section: Slave I: "The most famous Firespray-31 is doubtless Slave I, the personal vessel of bounty hunter Boba Fett. Slave I has been heavily modified to Fett's specifications, including a concealed turret with proton torpedoes and a tractor beam, a HoloNet transceiver, and extensive internal security systems. It also has an amazing sensor mask, increasing the DC of any Computer Use check to find Slave I with sensors by +8." Source: *Starships Of The Galaxy* (SWRPG d20), scan p.82
-![Quote image: *Starships Of The Galaxy* (SWRPG d20), scan p.82 — full quote as printed](quotes/d047-s82-the-most-famous-firespray-31-is.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/047-starships-of-the-galaxy-scan-061-114.md:135`
 
 ## Star Wars Gamer/Star Wars Gamer 01.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–100)
@@ -589,7 +536,6 @@ Our notes: `notes/materials/037-sw-d20-folder/050-star-wars-gamer-01-scan-061-10
 — Source: Star Wars Gamer/Star Wars Gamer 02.pdf [Star Wars Roleplaying Game (d20,.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from 04ABY: A Credit for Your Thoughts (Tish Eggleton Pahl) (text copy `MEGA_All_Short_Stories_04ABY_A_Credit_for_Your_Thoughts_Tish_Eggleton_Pahl_Chris_Cassidy_epub`).)
 Note (our notes, around the quote): Luke Skywalker — entry/section: Fen Nabon fiction: Ghitsa Dogder on Skywalker: "“One Jedi who took out the Emperor, Darth Vader, Boba Fett, and a criminal organization that was centuries old. Imagine what more of them might do.”" Source: *Star Wars Gamer 02* (SWRPG d20), scan p.19
-![Quote image: *Star Wars Gamer 02* (SWRPG d20), scan p.19 — full quote as printed](quotes/d051-s19-one-jedi-who-took-out-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-001-060.md:104`
 
 ## Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 61–104)
@@ -598,13 +544,11 @@ Our notes: `notes/materials/037-sw-d20-folder/051-star-wars-gamer-02-scan-001-06
 > [fragment — full passage not on file]
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Jodo Kast; Boba Fett — entry/section: Cloud Cover.
 Note (our notes, around the quote): Jodo Kast; Boba Fett — entry/section: Cloud Cover: "Jodo Kast, who the heroes should be encouraged to mistake for the infamous Boba Fett, targets one of the heroes with his last guided missile," Source: *Star Wars Gamer 03* (SWRPG d20), scan p.84
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.84 — full quote as printed](quotes/d052-s84-jodo-kast-who-the-heroes-should.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:143`
 
 > She lets the heroes believe that Boba Fett is her partner (if they mention that name), or otherwise simply calls her associate The Bounty Hunter.
 — Source: Star Wars Gamer/Star Wars Gamer 03.pdf [Star Wars Roleplaying Game (d20,; Zardra; Boba Fett — entry/section: Cloud Cover.
 Note (our notes, around the quote): Zardra; Boba Fett — entry/section: Cloud Cover: "She lets the heroes believe that Boba Fett is her partner (if they mention that name), or otherwise simply calls her associate The Bounty Hunter." Source: *Star Wars Gamer 03* (SWRPG d20), scan p.85
-![Quote image: *Star Wars Gamer 03* (SWRPG d20), scan p.85 — full quote as printed](quotes/d052-s85-she-lets-the-heroes-believe-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/052-star-wars-gamer-03-scan-061-104.md:157`
 
 ## Star Wars Gamer/Star Wars Gamer 05.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -658,7 +602,6 @@ Our notes: `notes/materials/037-sw-d20-folder/079-talnars-rescue.md:40`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Talnar s Rescue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Talnar_s_Rescue_pdf_92b1551689`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Talnar s Rescue (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Talnar_s_Rescue_pdf_92b1551689`).)
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett's jet pack model: "The Mitrinomon Z-6 jet pack is perhaps best known as the model used by the infamous bounty hunter Boba Fett. Though inexpensive to purchase, the Z-6 is costly to keep fueled." Source: *Talnar's Rescue* (SWRPG d20 Revised Core), scan p.7
-![Quote image: *Talnar's Rescue* (SWRPG d20 Revised Core), scan p.7 — full quote as printed](quotes/d079-s7-the-mitrinomon-z-6-jet-pack.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/079-talnars-rescue.md:42`
 
 ## Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -670,19 +613,16 @@ Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:22`
 > Gorga was forced to hire the infamous Boba Fett to eliminate Bar-Kooda, an enemy of Anachro's father, Orko the H'uun, to help secure the bride's hand. When Gorga served up Bar-Kooda as dinner in a great feast in the old H'uun's honor, Orko could not refuse.
 — Source: Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revise; Boba Fett — entry/section: Gorga hires Boba Fett.
 Note (our notes, around the quote): Boba Fett — entry/section: Gorga hires Boba Fett: "Gorga was forced to hire the infamous Boba Fett to eliminate Bar-Kooda, an enemy of Anachro's father, Orko the H'uun, to help secure the bride's hand. When Gorga served up Bar-Kooda as dinner in a great feast in the old H'uun's honor, Orko could not refuse." Source: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d087-s2-gorga-was-forced-to-hire-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:24`
 
 > The bounty hunter rescued Anachro in typically violent fashion and charged Gorga still more of his small fortune.
 — Source: Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revise; Boba Fett — entry/section: Fett rescues Anachro.
 Note (our notes, around the quote): Boba Fett — entry/section: Fett rescues Anachro: "The bounty hunter rescued Anachro in typically violent fashion and charged Gorga still more of his small fortune." Source: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d087-s2-the-bounty-hunter-rescued-anachro-in.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:26`
 
 > Gorga hired Fett one last time for a hit on his father-in-law Orko. But Anachro was heavier than usual with offspring, and Gorga immediately regretted the decision when he realized the stress on his spouse might hurt the embryonic Hutt. Before he could stop Fett, Ry-Kooda, Bar-Kooda's vengeful brother, killed Orko himself, Fett killed the Koodan, and Anachro gave birth to a healthy baby Huttlet in an explosion of chaos.
 — Source: Characters/Hutts/Hutt! Hutt! Hutt!.pdf [Star Wars Roleplaying Game Revise; Boba Fett — entry/section: Gorga's last hire of Fett.
 Note (our notes, around the quote): Boba Fett — entry/section: Gorga's last hire of Fett: "Gorga hired Fett one last time for a hit on his father-in-law Orko. But Anachro was heavier than usual with offspring, and Gorga immediately regretted the decision when he realized the stress on his spouse might hurt the embryonic Hutt. Before he could stop Fett, Ry-Kooda, Bar-Kooda's vengeful brother, killed Orko himself, Fett killed the Koodan, and Anachro gave birth to a healthy baby Huttlet in an explosion of chaos." Source: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.2
-![Quote image: *Hutt! Hutt! Hutt!* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d087-s2-gorga-hired-fett-one-last-time.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:28`
 
 ## Characters/Miniatures/Bounty Hunters Preview 1.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -692,7 +632,6 @@ Our notes: `notes/materials/037-sw-d20-folder/087-hutt-hutt-hutt.md:28`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 1 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_1_pdf_74bca44ee0`).)
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett — entry/section: Bossk's screen history and rivalry with Chewbacca: "The reptilian Bossk first appeared on screen in The Empire Strikes Back as one of the elite bounty hunters personally invited by Darth Vader to pursue the Millennium Falcon. He didn't manage to capture the Falcon, or steal the frozen Han Solo from Boba Fett. But Bossk maintained a long rivalry with Chewbacca before and after the incident. Bossk is a Trandoshan, which is one of the native species of the Kashyyyk system and a longtime enemy of the Wookiees." Source: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 1* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d093-s1-the-reptilian-bossk-first-appeared-on.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:12`
 
 ## Characters/Miniatures/Bounty Hunters Preview 3.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -702,7 +641,6 @@ Our notes: `notes/materials/037-sw-d20-folder/093-bounty-hunters-preview-1.md:12
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 3 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_3_pdf_ce4ae6d933`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from h primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures Bounty Hunters Preview 3 (text copy `h_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_Bounty_Hunters_Preview_3_pdf_ce4ae6d933`).)
 Note (our notes, around the quote): IG-88; Boba Fett; Dash Rendar — entry/section: The end of the four IG-88s: "Over the next year, IG-88's reign came to an end. First, IG-88B confronted Boba Fett on Cloud City in an attempt to get the Han Solo bounty for himself, but Fett destroyed him and left his wreckage to the Ugnaughts in the city's smelting chambers. Later, IG-88C confronted Fett in orbit over Tatooine, but Fett's Slave I managed to destroy IG-88C's starship, IG-2000. IG-88D was reportedly destroyed by Dash Rendar on Ord Mantell. And IG-88A, who had downloaded his corrupt programming into the computer core that was installed on the second Death Star, was destroyed along with the battle station at the Battle of Endor." Source: *Bounty Hunters Preview 3* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Bounty Hunters Preview 3* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d095-s1-over-the-next-year-ig-88s.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/095-bounty-hunters-preview-3.md:16`
 
 ## Characters/Miniatures/We Don't Need That Scum.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -716,7 +654,6 @@ Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:10`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from ch primary sw d20 folder files Star Wars Roleplaying Game Revised Core Characters Miniatures We Don t Need That Scum (text copy `ch_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Characters_Miniatures_We_Don_t_Need_That_Scum_pdf_5d79f2f39d`).)
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett, the dreaded hunter: "The most famous hunter is the dreaded Boba Fett. This alternate version could represent a version of Boba from slightly before Episode IV." Source: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *We Don't Need That Scum* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d115-s1-the-most-famous-hunter-is-the.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/115-we-dont-need-that-scum.md:14`
 
 - Note (summary from our notes, not a quotation): Page contents: Boba skills/feats; Bossk (Scout 1/Soldier 3, CC C, early career, Hound's Tooth); Dengar (Soldier 2/Scoundrel 4, CC D, Punishing One); Greedo intro (hand-read)
@@ -736,13 +673,11 @@ Our notes: `notes/materials/037-sw-d20-folder/135-boba-fett-njo-era.md:10`
 > Long thought dead by many, Boba Fett -- possibly the last surviving clone of Jango -- has survived many brushes with death over the years. As the Yuuzhan Vong invade the galaxy, Fett mysteriously reappears with a band of Mandalorian hunters at his side. Fett and his team aid Han Solo and Princess Leia against the Yuuzhan Vong, though as always, Fett's true motivations are unclear. Is he bent merely on hunting the Vong? Or will he join the shattered forces of the Republic and the Jedi he has hated for so long?
 — Source: Characters/Boba Fett (NJO Era).pdf [Star Wars Roleplaying Game Revised Co.
 Note (our notes, around the quote): Boba Fett; Jango Fett; Han Solo; Leia Organa Solo — entry/section: Boba Fett in the NJO era: "Long thought dead by many, Boba Fett -- possibly the last surviving clone of Jango -- has survived many brushes with death over the years. As the Yuuzhan Vong invade the galaxy, Fett mysteriously reappears with a band of Mandalorian hunters at his side. Fett and his team aid Han Solo and Princess Leia against the Yuuzhan Vong, though as always, Fett's true motivations are unclear. Is he bent merely on hunting the Vong? Or will he join the shattered forces of the Republic and the Jedi he has hated for so long?" Source: *Boba Fett (NJO Era)* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Boba Fett (NJO Era)* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d135-s1-long-thought-dead-by-many-boba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/135-boba-fett-njo-era.md:12`
 
 > Heroes encountering Boba Fett during this era will usually find him with four to six other Mandalorians with similar armament, though he alone carries a jet pack. Older and wiser, Boba Fett remains as dangerous as ever. He flies a familiar Firespray-class attack/patrol ship modified to his personal specifications, usually flanked by at least four Mandalorians in Gladiator fighters. Though unpredictable, he may help the heroes if his objectives coincide with his own -- and if the heroes are not Yuuzhan Vong.
 — Source: Characters/Boba Fett (NJO Era).pdf [Star Wars Roleplaying Game Revised Co; Boba Fett — entry/section: Encountering Boba Fett (NJO).
 Note (our notes, around the quote): Boba Fett — entry/section: Encountering Boba Fett (NJO): "Heroes encountering Boba Fett during this era will usually find him with four to six other Mandalorians with similar armament, though he alone carries a jet pack. Older and wiser, Boba Fett remains as dangerous as ever. He flies a familiar Firespray-class attack/patrol ship modified to his personal specifications, usually flanked by at least four Mandalorians in Gladiator fighters. Though unpredictable, he may help the heroes if his objectives coincide with his own -- and if the heroes are not Yuuzhan Vong." Source: *Boba Fett (NJO Era)* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Boba Fett (NJO Era)* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d135-s1-heroes-encountering-boba-fett-during-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/135-boba-fett-njo-era.md:14`
 
 ## Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -754,21 +689,18 @@ Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:10`
 > With the death of Jango Fett at the Battle of Geonosis, Count Dooku was left without a right-hand man. Although Jango's son Boba, who had found his way to Dooku's lair, would one day grow into a fierce warrior in his own right, Dooku needed another strongman, and quickly. The Sith apprentice found that strongman in Cydon Prax, an armored, reptilian Chistori with a heart of ice. In addition to giving him other missions, Dooku charged Prax with keeping an eye on young Boba, though the cold-blooded warrior was a poor substitute for the young clone's lost father.
 — Source: Characters/Cydon Prax.pdf [Star Wars Roleplaying Game Revised Core (d20,.
 Note (our notes, around the quote): Cydon Prax; Count Dooku; Jango Fett; Boba Fett — entry/section: Dooku's new strongman: "With the death of Jango Fett at the Battle of Geonosis, Count Dooku was left without a right-hand man. Although Jango's son Boba, who had found his way to Dooku's lair, would one day grow into a fierce warrior in his own right, Dooku needed another strongman, and quickly. The Sith apprentice found that strongman in Cydon Prax, an armored, reptilian Chistori with a heart of ice. In addition to giving him other missions, Dooku charged Prax with keeping an eye on young Boba, though the cold-blooded warrior was a poor substitute for the young clone's lost father." Source: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *Cydon Prax* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d136-s1-with-the-death-of-jango-fett.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/136-cydon-prax.md:12`
 
 ## Jedi Counselling/Jedi Counseling 16 - New Rules?.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Jango Fett; Boba Fett — entry/section: Flamethrowers cannot be deflected: "A: That's basically correct: The burst of flame from a flamethrower cannot be deflected. But remember that some nonblaster attacks can also be deflected (like slugthrowers, for example). The deciding factor should be whether or not the attacker makes an attack roll, and flamethrowers generally require a Reflex save, rather than making an attack roll. (This would mean that the flamethrower gauntlet on the armor worn by Jango and Boba Fett is in error; ignore the number in the "Critical" column.)" Source: *Jedi Counseling 16 - New Rules?* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 16 - New Rules?.pdf [Star Wars Roleplayi.
-![Quote image: *Jedi Counseling 16 - New Rules?* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d179-s2-a-thats-basically-correct-the-burst.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/179-jedi-counseling-16-new-rules.md:17`
 
 ## Jedi Counselling/Jedi Counseling 34 - Shifty Shi'ido.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Darth Vader (Anakin Skywalker); Jango Fett; Boba Fett — entry/section: Why armor is less useful (Vader, Jango, Boba): "A: The design team deliberately made armor less attractive to characters because we had observed that the heroes in the Star Wars movies didn't wear armor. So, in order to preserve the flavor of Star Wars, we made armor less useful than it is in, say Dungeons & Dragons. Characters like Darth Vader, Jango Fett, and Boba Fett all have their own reasons for wearing armor, and they've mostly adapted to it. Otherwise, armor is usually reserved for the "grunts": clone troopers and stormtroopers, and a little bit of armor padding worn by Rebel troops." Source: *Jedi Counseling 34 - Shifty Shi'ido* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 34 - Shifty Shi'ido.pdf [Star Wars Rolep.
-![Quote image: *Jedi Counseling 34 - Shifty Shi'ido* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d199-s2-a-the-design-team-deliberately-made.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/199-jedi-counseling-34-shifty-shiido.md:19`
 
 ## Jedi Counselling/Jedi Counseling 57.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -779,7 +711,6 @@ Our notes: `notes/materials/037-sw-d20-folder/224-jedi-counseling-57.md:17`
 
 - Note (summary from our notes, not a quotation): However, you may freely use Fringe characters from either set in your squads. (It's therefore possible for Jango and Boba Fett to fight side by side.)" Source: *Jedi Counseling 57* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 57.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 57* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d224-s2-a-technically-no-because-this-would.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/224-jedi-counseling-57.md:18`
 
 ## Jedi Counselling/Jedi Counseling 75.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -793,7 +724,6 @@ Our notes: `notes/materials/037-sw-d20-folder/244-jedi-counseling-75.md:27`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 75 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_75_pdf_b7dab592ce`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 75 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_75_pdf_b7dab592ce`).)
 Note (our notes, around the quote): Jango Fett; Boba Fett; Palpatine (Darth Sidious) — entry/section: Mixing eras in one squad: "Q: What about cases where you have characters from different eras showing up in the same squad? For example, Jango Fett and Boba Fett (as an adult, from Rebel Storm) could be in the same Separatist squad, and clone troopers and stormtroopers could be in the same Imperial squad (if you have Emperor Palpatine, Sith Lord, anyway). Is there any way around this?" Source: *Jedi Counseling 75* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 75* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d244-s3-q-what-about-cases-where-you.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/244-jedi-counseling-75.md:29`
 
 > Furthermore, you might require Princess Leia, Rebel Hero instead of Princess Leia, Senator or Princess Leia, Captive. This is much more arbitrary than the earlier bidding suggestion, so use it with caution (and only with mutual agreement), or you might remove all competitive characters from one squad without realizing it! Truthfully, the best way to handle these sorts of "historical" scenarios is to use the various Ultimate Missions books. They outline specific figures for use by each squad, and each scenario represents a specific event in Star Wars continuity. Q: Speaking of Boba Fett, why doesn't he have Disintegration? Vader's line to him in The Empire Strikes Back ("And I want them alive . . . [pointing to Fett] no disintegrations!") certainly implies he's done this before. Does he not have the ability just because it didn't exist when Rebel Storm came out? If so, could it be added? A: Actually, Boba Fett is not known for disintegrating his targets. That's actually bad form for a bounty hunter because it's very hard to verify that the contract has been fulfilled (at least compared to capturing the target alive or in a recognizable form).
@@ -806,7 +736,6 @@ Our notes: `notes/materials/037-sw-d20-folder/244-jedi-counseling-75.md:33`
 - Note (summary from our notes, not a quotation): A: Actually, Boba Fett is not known for disintegrating his targets. That's actually bad form for a bounty hunter because it's very hard to verify that the contract has been fulfilled (at least compared to capturing the target alive or in a recognizable form). In Star Wars history, Vader was referring to a specific incident -- one time that Boba Fett apparently went a bit over the line. But he certainly didn't make a habit of it, so it wouldn't really fit his background for him to have the Disintegration ability.
   — Source: Jedi Counselling/Jedi Counseling 75.pdf [Star Wars Roleplaying Game Revis.
 (If you insist on trying it, though, add the following ability at the cost of +3 points: "Disruptor (replaces turn; this character may make a single attack, and he gains the benefits of Disintegration on this attack)." This is just one idea, so feel free to experiment with it." Source: *Jedi Counseling 75* (SWRPG d20 Revised Core), scan p.3)
-![Quote image: *Jedi Counseling 75* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d244-s3-q-speaking-of-boba-fett-why.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/244-jedi-counseling-75.md:34`
 
 ## Jedi Counselling/Jedi Counseling 89.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -822,14 +751,12 @@ Our notes: `notes/materials/037-sw-d20-folder/259-jedi-counseling-89.md:39`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 91 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_91_pdf_66e081e827`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 91 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_91_pdf_66e081e827`).)
 Note (our notes, around the quote): Jodo Kast; Boba Fett — entry/section: Jodo Kast found out the hard way: "Finally, keep in mind that this tactic can be very dangerous -- eventually, the imitated character is likely to learn about the fake appearances. The bounty hunter Jodo Kast, who disguised himself as Boba Fett to better intimidate his targets, found this out the hard way when Fett finally caught up with him." Source: *Jedi Counseling 91* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 91* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d262-s3-finally-keep-in-mind-that-this.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/262-jedi-counseling-91.md:28`
 
 ## Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
 
 - Note (summary from our notes, not a quotation): Boba Fett; Jango Fett — entry/section: Boba and Jango Fett and the Mandalorian tradition: "A: It is absolutely true that Boba and Jango Fett are closely linked to the Mandalorian tradition. This was described in detail in the article "The History of the Mandalorians" in Star Wars Insider #80 (March/April 2005). In fact, the word "Mandalorian" was first used in reference to Boba Fett's armor. As such, I can understand how this might be confusing." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.2
   — Source: Jedi Counselling/Jedi Counseling 99.pdf [Star Wars Roleplaying Game Revis.
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.2 — full quote as printed](quotes/d270-s2-a-it-is-absolutely-true-that.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:28`
 
 > The Mandalorians in the Bounty Hunters set hail from the ranks of the Mandalorian Crusaders and Neo­Crusaders during the Old Sith Wars, a series of conflicts that includes the Great Sith War, the Cleansing of the Nine Houses, the Mandalorian Wars, and the War of the Star Forge. All of these conflicts occurred thousands of years before the events portrayed in the Star Wars trilogies, and as such they're almost a "prehistory" of how the Star Wars universe came to be. In the following millennia, Mandalorians were most often mercenaries (including a few bounty hunters), at least until the Mandalorian Civil War between the True Mandalorians under Jaster Mareel and the Death Watchmen led by Vizsla. That being the case, the Mandalorian faction, as depicted in the Star Wars Miniatures Game, has little in common with post­Mandalorian Civil War notables such as Boba and Jango Fett. Despite being a part of the same lineage and cultural heritage, the gulf of time between them is simply too vast. Thus, Boba and Jango Fett are not members of the Mandalorian faction for the same reason that Darth Vader is not a member of the Sith faction. Although he is indeed a Sith, he has no real connection to the ancient Sith of a nigh­forgotten age. Q: When Boba Fett, Bounty Hunter uses Flamethrower 20, does Twin Attack apply? A: No.
@@ -837,7 +764,6 @@ Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:28`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 99 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_99_pdf_5f5ad9c03e`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Jedi Counselling Jedi Counseling 99 (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Jedi_Counselling_Jedi_Counseling_99_pdf_5f5ad9c03e`).)
 Note (our notes, around the quote): Boba Fett; Jango Fett; Darth Vader (Anakin Skywalker) — entry/section: Fetts not Mandalorian faction, as Vader is not Sith faction: "That being the case, the Mandalorian faction, as depicted in the Star Wars Miniatures Game, has little in common with post-Mandalorian Civil War notables such as Boba and Jango Fett. Despite being a part of the same lineage and cultural heritage, the gulf of time between them is simply too vast. Thus, Boba and Jango Fett are not members of the Mandalorian faction for the same reason that Darth Vader is not a member of the Sith faction. Although he is indeed a Sith, he has no real connection to the ancient Sith of a nigh-forgotten age." Source: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3
-![Quote image: *Jedi Counseling 99* (SWRPG d20 Revised Core), scan p.3 — full quote as printed](quotes/d270-s3-that-being-the-case-the-mandalorian.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/270-jedi-counseling-99.md:37`
 
 - Note (summary from our notes, not a quotation): Boba Fett — entry/section: Boba Fett's Flamethrower and Twin Attack: "Q: When Boba Fett, Bounty Hunter uses Flamethrower 20, does Twin Attack apply?
@@ -860,7 +786,6 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Boba Fett — entry/section: Boba Fett's wrist flamer.
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett's wrist flamer: "Boba Fett, famous for his many kills, was known to have a small flamer mounted on his wrist rocket launcher in addition to his other weapons," Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.27
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.27 — full quote as printed](quotes/d663-s27-boba-fett-famous-for-his-many.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-001-060.md:150`
 
 - Note (summary from our notes, not a quotation): Page contents: BlasTech Tees launcher; other weapons and systems; CZ wrist rig (Boba Fett); flame projectors CR-24, C-22. (hand-read)
@@ -870,7 +795,6 @@ Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-
 > Boba Fett has seriously modified his CZ, stripping off the housing and incorporating it into his Kelvarek MM9 wrist rocket system, as well as hooking up the firing mechanism to his internal computer link.
 — Source: Sourcebooks/Arms and Equipment Guide.pdf [Star Wars Roleplaying Game Revi; Boba Fett — entry/section: Boba Fett's modified CZ.
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett's modified CZ: "Boba Fett has seriously modified his CZ, stripping off the housing and incorporating it into his Kelvarek MM9 wrist rocket system, as well as hooking up the firing mechanism to his internal computer link." Source: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.35
-![Quote image: *Arms and Equipment Guide* (SWRPG d20 Revised Core), scan p.35 — full quote as printed](quotes/d663-s35-boba-fett-has-seriously-modified-his.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/663-arms-and-equipment-guide-scan-001-060.md:192`
 
 ## Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -882,7 +806,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-0
 > Boba Fett might follow the Millennium Falcon to Cloud City, but the audience doesn’t know that he has alerted Darth Vader—let alone that Vader got there first and has set a trap.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis.
 Note (our notes, around the quote): Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Vader's trap at Cloud City: "Boba Fett might follow the Millennium Falcon to Cloud City, but the audience doesn’t know that he has alerted Darth Vader—let alone that Vader got there first and has set a trap." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.31
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.31 — full quote as printed](quotes/d666-s31-boba-fett-might-follow-the-millennium.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-001-060.md:180`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -894,7 +817,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > (Jango Fett, for example, makes young Boba turn off the sighting mechanisms so that Boba develops his natural instincts and doesn't learn to rely on technology to survive.)
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying. POV: Jango Fett, about Boba Fett.
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Jango trains Boba with a pocker: "(Jango Fett, for example, makes young Boba turn off the sighting mechanisms so that Boba develops his natural instincts and doesn't learn to rely on technology to survive.)" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.77
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.77 — full quote as printed](quotes/d667-s77-jango-fett-for-example-makes-young.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:116`
 
 - Note (summary from our notes, not a quotation): Page contents: Kamino: Merr-Sonn pocker stats; hooks Deep Research - Part II (Qalsneek the Bull holocron in Derem City) and Not Suitable For Cloning (Yuuzhan Vong amphistaff; Kina Ha); Taun We (ministerial assistant to Lama Su; tutors Boba Fett; Female Kaminoan Noble 10); Ko Sai biography begins. (hand-read)
@@ -904,7 +826,6 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > She serves as the Project Coordinator for the Republic clone army, and she helps rear and tutor young Boba Fett when his father Jango is away on “business.”
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying; Boba Fett; Jango Fett — entry/section: Taun We tutors Boba.
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Taun We tutors Boba: "She serves as the Project Coordinator for the Republic clone army, and she helps rear and tutor young Boba Fett when his father Jango is away on “business.”" Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.78
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.78 — full quote as printed](quotes/d667-s78-she-serves-as-the-project-coordinator.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:123`
 
 ## Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -916,7 +837,6 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:14
 > Not all bounty hunters are members of the Guild, but many of the best and brightest are. The infamous Boba Fett never joined the Guild, but several of Lord Vader's other preferred bounty hunters did.
 — Source: Sourcebooks/Hero's Guide.pdf [Star Wars Roleplaying Game Revised Core (d2.
 Note (our notes, around the quote): Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Boba Fett never joined the Guild: "Not all bounty hunters are members of the Guild, but many of the best and brightest are. The infamous Boba Fett never joined the Guild, but several of Lord Vader's other preferred bounty hunters did." Source: *Hero's Guide* (SWRPG d20 Revised Core), scan p.86
-![Quote image: *Hero's Guide* (SWRPG d20 Revised Core), scan p.86 — full quote as printed](quotes/d668-s86-not-all-bounty-hunters-are-members.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:143`
 
 ## Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 301–360)
@@ -924,13 +844,11 @@ Our notes: `notes/materials/037-sw-d20-folder/668-heros-guide-scan-061-120.md:14
 > Han’s philosophy is to never doubt his own abilities, but io also respect the abilities of his opponents. Fortunately, he farely encounters an enemy whose abilities exceed his own. (ne such foe is Boba Fett, a crafty bounty hunter who racks the Millennium Falcon to the Bespin system and jlerts the Empire.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Han Solo; Boba Fett — entry/section: Han Solo (Revised Core Rulebook, Ch13): "Han’s philosophy is to never doubt his own abilities, but io also respect the abilities of his opponents. Fortunately, he farely encounters an enemy whose abilities exceed his own. (ne such foe is Boba Fett, a crafty bounty hunter who racks the Millennium Falcon to the Bespin system and jlerts the Empire." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.307
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.307 — full quote as printed](quotes/d671-s307-han-s-philosophy-is-to-never.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:88`
 
 > The most feared bounty hunter of his time, Boba Fett racks up an unheard-of number of successful bounties that earns him a reputation as a force to be reckoned with.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised; Boba Fett — entry/section: Boba Fett (Revised Core Rulebook, Ch13).
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett (Revised Core Rulebook, Ch13): "The most feared bounty hunter of his time, Boba Fett racks up an unheard-of number of successful bounties that earns him a reputation as a force to be reckoned with." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.317
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.317 — full quote as printed](quotes/d671-s317-the-most-feared-bounty-hunter-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:225`
 
 - Note (summary from our notes, not a quotation): Page contents: Sidebar "Equipment of Jango and Boba Fett": full gadget list (jet pack 500 m flight, missile launcher 5d6+2, flamethrower 2d6, whipcord, rocket darts, Boba's laser gauntlet, sonic beam, spiked boots, Jango's wrist rocket launcher, sabredarts with kouhun venom, wrist blades). (hand-read)
@@ -940,7 +858,6 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > At the Battle of Geonosis, 10-year-old Boba is orphaned When Jedi Master Mace Windu kills his father.
 — Source: Sourcebooks/Revised Core Rulebook.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Boba Fett; Mace Windu; Jango Fett — entry/section: Boba Fett (Revised Core Rulebook, Ch13): "At the Battle of Geonosis, 10-year-old Boba is orphaned When Jedi Master Mace Windu kills his father." Source: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.319
-![Quote image: *Revised Core Rulebook* (SWRPG d20 Revised Core), scan p.319 — full quote as printed](quotes/d671-s319-at-the-battle-of-geonosis-10.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301-360.md:241`
 
 ## Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 1–60)
@@ -948,25 +865,21 @@ Our notes: `notes/materials/037-sw-d20-folder/671-revised-core-rulebook-scan-301
 > You will never find a more wretched hive of scum and villainy. —Obi-Wan Kenobi This is how Ben Kenobi described Mos Eisley Spaceport to Luke Skywalker at the beginning of their epic journey. This book contains many of the dangerous foes that Luke and Ben may have encountered during their time there, as well as a host of other challenges for heroes across the galaxy. You will not find many familiar faces within this book—such luminary villains as Boba Fett and Darth Vader have already been covered in the Star Wars Roleplaying Game and other sourcebooks.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Obi-Wan Kenobi; Luke Skywalker; Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Introduction: "You will never find a more wretched hive of scum and villainy. —Obi-Wan Kenobi This is how Ben Kenobi described Mos Eisley Spaceport to Luke Skywalker at the beginning of their epic journey. This book contains many of the dangerous foes that Luke and Ben may have encountered during their time there, as well as a host of other challenges for heroes across the galaxy. You will not find many familiar faces within this book—such luminary villains as Boba Fett and Darth Vader have already been covered in the Star Wars Roleplaying Game and other sourcebooks." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.6
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.6 — full quote as printed](quotes/d672-s6-you-will-never-find-a-more.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:37`
 
 > Darth Vader, Boba Fett, and Jabba the Hutt all opposed Luke Skywalker in his quest to reestablish the Jedi Order. Darth Sidious, Darth Maul, and Count Dooku worked to eliminate the Jedi and establish dominion over all the worlds of the Old Republic.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Boba Fett; Jabba the Hutt; Luke Skywalker; Palpatine (Darth Sidious); Darth Maul; Count Dooku — entry/section: Chapter One: Villains: "Darth Vader, Boba Fett, and Jabba the Hutt all opposed Luke Skywalker in his quest to reestablish the Jedi Order. Darth Sidious, Darth Maul, and Count Dooku worked to eliminate the Jedi and establish dominion over all the worlds of the Old Republic." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.8
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.8 — full quote as printed](quotes/d672-s8-darth-vader-boba-fett-and-jabba.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:49`
 
 > Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised.
 Note (our notes, around the quote): Bossk; Chewbacca; Boba Fett; Jabba the Hutt — entry/section: Bossk and Chewbacca: "Bossk jumped at the chance to hunt one of his longtime nemeses, the Wookiee Chewbacca. He had started his career as a bounty hunter by hunting down escaped Wookiee slaves; during one of his expeditions, he ran afoul of Chewbacca. The Wookiee defeated the bounty hunter, tearing off one of his arms at the elbow during the intense battle that followed their meeting. His constant defeats only made Bossk obsessed with catching the Wookiee, and he has been known to turn down lucrative jobs in order to pursue the one prey he has not been able to capture. His best chance came when Chewbacca and his allies were captured by Boba Fett on Cloud City, but the bounty hunter refused to release Chewbacca to Bossk since his intention was to deliver the Wookiee to Jabba the Hutt on Tatooine. This infuriated Bossk, who harbored resentment toward Boba Fett until the bounty hunter's fall into the Sarlacc Pit." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.12 — full quote as printed](quotes/d672-s12-bossk-jumped-at-the-chance-to.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:75`
 
 > Bossk is well known among bounty hunters, and his experience has helped him garner several large and ongoing contracts. Lesser bounty hunters often pay Bossk to complete a particularly challenging bounty that they have failed to accomplish, a task he does in return for later favors. In this way, Bossk has managed to accumulate a vast network of resources at his disposal. He is also known to feud with those who displease him, such as when Boba Fett refused to turn over Chewbacca after capturing he and Han Solo in Cloud City.
 — Source: Sourcebooks/Ultimate Adversaries.pdf [Star Wars Roleplaying Game Revised; Bossk; Boba Fett; Chewbacca; Han Solo — entry/section: Bossk: Affiliations.
 Note (our notes, around the quote): Bossk; Boba Fett; Chewbacca; Han Solo — entry/section: Bossk: Affiliations: "Bossk is well known among bounty hunters, and his experience has helped him garner several large and ongoing contracts. Lesser bounty hunters often pay Bossk to complete a particularly challenging bounty that they have failed to accomplish, a task he does in return for later favors. In this way, Bossk has managed to accumulate a vast network of resources at his disposal. He is also known to feud with those who displease him, such as when Boba Fett refused to turn over Chewbacca after capturing he and Han Solo in Cloud City." Source: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13
-![Quote image: *Ultimate Adversaries* (SWRPG d20 Revised Core), scan p.13 — full quote as printed](quotes/d672-s13-bossk-is-well-known-among-bounty.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/672-ultimate-adversaries-scan-001-060.md:86`
 
 ## Sourcebooks/Galaxy at War.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -1013,7 +926,6 @@ Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan
 > Reassembling Boba Fett's armor might be the subject of a personal quest undertaken by a hero in a Legacy era campaign, or the reassembled suit could be worn by an enemy wishing to capitalize on the armor's legendary status.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Boba Fett — entry/section: Boba Fett's Mandalorian Armor.
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett's Mandalorian Armor: "Reassembling Boba Fett's armor might be the subject of a personal quest undertaken by a hero in a Legacy era campaign, or the reassembled suit could be worn by an enemy wishing to capitalize on the armor's legendary status." Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.99
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.99 — full quote as printed](quotes/d719-s99-reassembling-boba-fetts-armor-might-be.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:321`
 
 ## Sourcebooks/Official Errata October 2008.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -1046,7 +958,6 @@ Our notes: `notes/materials/037-sw-d20-folder/722-rebellion-era-campaign-guide-s
 > [fragment — full passage not on file]
 — Source: Sourcebooks/Saga Edition Core Rulebook.pdf [Star Wars Roleplaying Game Sa.
 Note (our notes, around the quote): Boba Fett — entry/section: Boba Fett (Saga Edition Core Rulebook, Ch16): "The most feared bounty hunter of his time, Boba Fett racks up an unheard-of" Source: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.278
-![Quote image: *Saga Edition Core Rulebook* (SWRPG Saga Edition), scan p.278 — full quote as printed](quotes/d723-s278-the-most-feared-bounty-hunter-of.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/723-saga-edition-core-rulebook-scan-241-295.md:258`
 
 ## Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 1–60)
@@ -1068,7 +979,6 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.
 > Kast also realized that Boba Fett’s reputation was so great that anyone mistaken for the legendary bounty hunter would have an advantage in the world of freelance blasters-for-hire.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Boba Fett — entry/section: Scum and Villainy (Saga).
 Note (our notes, around the quote): Boba Fett — entry/section: Scum and Villainy (Saga): "Kast also realized that Boba Fett’s reputation was so great that anyone mistaken for the legendary bounty hunter would have an advantage in the world of freelance blasters-for-hire." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.110
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.110 — full quote as printed](quotes/d725-s110-kast-also-realized-that-boba-fett.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:302`
 
 > Zuckuss (right) and 4-LOM
@@ -1080,7 +990,6 @@ Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.
 > Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy.
 — Source: Sourcebooks/Scum and Villany.pdf [Star Wars Roleplaying Game Saga Edition; Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga).
 Note (our notes, around the quote): Boba Fett; Dengar; Bossk — entry/section: Scum and Villainy (Saga): "Although the Gand was not as feared as Boba Fett or as well known as Dengar or Bossk, Zuckuss nevertheless duilt a reputation in shadowports and underworld sanctuaries as one of the best trackers in the galaxy." Source: *Scum and Villany* (SWRPG Saga Edition), scan p.116
-![Quote image: *Scum and Villany* (SWRPG Saga Edition), scan p.116 — full quote as printed](quotes/d725-s116-although-the-gand-was-not-as.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/725-scum-and-villany-scan-061-120.md:381`
 
 ## Sourcebooks/Star Wars Gamemaster Screen.pdf [Star Wars Roleplaying Game Saga Edition (2007)]
@@ -1104,7 +1013,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > With his Firespray-31, S/ave /, in impound, Boba Feti uses of a modified Pursuer-class, dubbing it Slave ff The ship serves him well until it is nearly destroyed at Byss.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Boba Fett — entry/section: The Clone Wars Campaign Guide (Saga).
 Note (our notes, around the quote): Boba Fett — entry/section: The Clone Wars Campaign Guide (Saga): "With his Firespray-31, S/ave /, in impound, Boba Feti uses of a modified Pursuer-class, dubbing it Slave ff The ship serves him well until it is nearly destroyed at Byss." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.80 — full quote as printed](quotes/d728-s80-with-his-firespray-31-s-ave.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-061-120.md:145`
 
 ## Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 181–225)
@@ -1144,7 +1052,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-181-240.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Luke Skywalker; Boba Fett: "Luke swings his lightsaber in an attempt to destroy Boba Fett's blaster carbine." Source: *Web Articles* (SWRPG Saga Edition), scan p.197
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.197 — full quote as printed](quotes/d732-s197-luke-swings-his-lightsaber-in-an.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-181-240.md:156`
 
 - Note (summary from our notes, not a quotation): Page contents: Skirmish cont.: Round 5 (Chewbacca fights defensively; Fett's wrist blaster misses; Lando's Fortune's Favor; Han spends a Destiny Point for an automatic critical with the vibro-axe killing Boba Fett, jetpack misfire into the Sarlacc, EU note that Fett survived as "somewhat indigestible"; Luke's kick); Round 6 (Chewbacca and Han aid Lando's Climb, Lando's natural 1 saved by Fortune's Favor; Luke kills a Weequay thug). (hand-read)
@@ -1166,7 +1073,6 @@ Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:1
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Saga Edition Web Articles (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Saga_Edition_Web_Articles_pdf_6187a774ab`).)
 Note (our notes, around the quote): Boba Fett: "Even better, this version of Han is one of the best nonmelee followers in the game -- not the equal of Boba Fett, Bounty Hunter, but a fair match for almost anyone else." Source: *Web Articles* (SWRPG Saga Edition), scan p.315
-![Quote image: *Web Articles* (SWRPG Saga Edition), scan p.315 — full quote as printed](quotes/d732-s315-even-better-this-version-of-han.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/732-web-articles-scan-301-360.md:152`
 
 > 270 – Boba Fett Stat Block Reflex Defense should be 36 (33 flat-footed). p. 271 – General Grievous Stat Block Reflex Defense should be 35 (31 flat-footed). Attack bonuses on final Melee line should be +9, not +11. p. 278 – Nonheroic Class Skills Add the Ride skill to the list of Class Skills for the nonheroic character, below Table 3-3. p. 281 – Clone Trooper Perception skill bonus should be +9 and should have the Coordinated Attack feat. p. 282 – ARC Trooper On the Defenses line, the text after Ref should be “23 (21 flat-footed).” Replace the line that starts with “hp” with the following: “hp 57; DR 1Threshold 24; delay damage” Add the following line below the Abilities line: Special Qualities delay damage. p. 283 – Bounty Hunter Replace the bounty hunter’s skills with the following: Perception +14, Survival +12. Add the “H” superscript after Perception. p. 284 – Dark Side Marauder Remove “Tough as Nails” from the Special Actions line. p. 285 – Yuuzhan Vong Species Traits Change the Weapon Familiarity line to say the following: Weapon Familiarity: Yuuzhan Vong treat the amphistaff as a simple weapon instead of an exotic weapon.
@@ -1542,7 +1448,6 @@ Our notes: `notes/materials/038-star-wars-insider/046-ins046.md:166`
 > He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books.
 — Source: Star Wars Insider #47 (1999); Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff).
 Note (our notes, around the quote): Chewbacca — entry/section: Peter Mayhew interview intro (Scott Chernoff): "He outran a fleet of bounty hunters from Boba Fett to Bossk, survived the battles of Yavin, Hoth, and Endor, and nearly walked the plank at the Great Pit of Carkoon—yet for all his powers, the mighty Wookiee Chewbacca could not elude the editors at Del Rey Books." Source: *Star Wars Insider #47* (1999), scan p.27
-![Quote image: *Star Wars Insider #47* (1999), scan p.27 — full quote as printed](quotes/ins047-s27-he-outran-a-fleet-of-bounty.jpg)
 Our notes: `notes/materials/038-star-wars-insider/047-ins047.md:144`
 
 > One word, Kevin: fashion
@@ -1605,7 +1510,7 @@ Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:40`
 (» Mace Windu and Yoda in combat)
 ((not against each other, I hope))
 (» Boba Fett" Source: *Star Wars Insider #51* (2000), scan p.7)
-![Quote image: *Star Wars Insider #51* (2000), scan p.7 — full quote as printed](quotes/ins051-s7-older-jedi-anakin-new-planets-new.jpg)
+![Quote image: *Star Wars Insider #51* (2000), scan p.7 — full quote as printed](../notes/materials/038-star-wars-insider/quotes/ins051-s7-older-jedi-anakin-new-planets-new.jpg)
 Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:43`
 
 > The Emperor's Hand and the Rebel agent
@@ -1623,7 +1528,6 @@ Our notes: `notes/materials/038-star-wars-insider/051-ins051.md:427`
 > So you're going to find that there's a lot of similarity between what Anakin goes through and what Luke goes through. They follow the same path. And it's a similar situation with some of the other characters, such as Boba Fett.
 — Source: Star Wars Insider #52 (2000).
 Note (our notes, around the quote): anakin-skywalker; Luke Skywalker; Boba Fett — entry/section: George Lucas set interview, printed p. 29: "So you're going to find that there's a lot of similarity between what Anakin goes through and what Luke goes through. They follow the same path. And it's a similar situation with some of the other characters, such as Boba Fett." Source: *Star Wars Insider #52* (2000), scan p.29
-![Quote image: *Star Wars Insider #52* (2000), scan p.29 — full quote as printed](quotes/ins052-s29-so-youre-going-to-find-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/052-ins052.md:156`
 
 - Note (summary from our notes, not a quotation): Page contents: Onion feature: Star Wars headlines ("Death Star to Open Day Care Center", "University Cuts Jedi Studies Program", Boba Fett Renaissance Man); Tim Harrod. (hand-read)
@@ -1716,19 +1620,16 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:129`
 > When Robin called to tell me, I wasn't quite sure who it was. She said, 'You're playing Jango Fett, Boba Fett's father,' and I just said, 'Great! Beautiful! That sounds good!' Then, when I hung up, I said, 'Who the hell is that?'
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Temuera Morrison on learning he was cast as Jango Fett: ""When Robin called to tell me, I wasn't quite sure who it was. She said, 'You're playing Jango Fett, Boba Fett's father,' and I just said, 'Great! Beautiful! That sounds good!' Then, when I hung up, I said, 'Who the hell is that?'" —Temuera Morrison, Star Wars Insider 57, pp. 30-31" Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-when-robin-called-to-tell-me.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:133`
 
 > What rival did Boba Fett outduel in space above Tatooine to deliver Han Solo to Jabba the Hutt?
 — Source: Star Wars Insider #57 (2001); Boba Fett; Han Solo — entry/section: Quiz question.
 Note (our notes, around the quote): Boba Fett; Han Solo — entry/section: Quiz question: "What rival did Boba Fett outduel in space above Tatooine to deliver Han Solo to Jabba the Hutt?" Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-what-rival-did-boba-fett-outduel.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:135`
 
 > More than just any old bad guy, Jango Fett is the bounty hunting bad guy who is the progenitor of legendary mercenary Boba Fett.
 — Source: Star Wars Insider #57 (2001); Jango Fett; Boba Fett.
 Note (our notes, around the quote): Jango Fett; Boba Fett: "More than just any old bad guy, Jango Fett is the bounty hunting bad guy who is the progenitor of legendary mercenary Boba Fett." Source: *Star Wars Insider #57* (2001), scan p.24
-![Quote image: *Star Wars Insider #57* (2001), scan p.24 — full quote as printed](quotes/ins057-s24-more-than-just-any-old-bad.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:137`
 
 - Note (summary from our notes, not a quotation): Page contents: Morrison interview (magazine p. 31): friends told him Boba Fett "was the coolest"; pull quote on cursing under the helmet; his singing family (Sir Howard Morrison), Maori culture in Rotorua, journalism and radio career; caption on Morrison and Daniel Logan with George Lucas and assistant director James McTeigue. (hand-read)
@@ -1738,7 +1639,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:146`
 > I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Temuera Morrison on playing Boba Fett's father: ""I asked around, and everybody said, 'Boba Fett—he was the coolest! Everybody had a Boba Fett toy.' Now I know that Boba Fett was one of the most popular characters in the Star Wars saga. With Fett, I'm fortunate to have such a dynamic role, to be playing the father of one of the popular characters from the earlier trilogy. "I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me." —Temuera Morrison, Star Wars Insider 57, p. 31" Source: *Star Wars Insider #57* (2001), scan p.25
-![Quote image: *Star Wars Insider #57* (2001), scan p.25 — full quote as printed](quotes/ins057-s25-i-asked-around-and-everybody-said.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:148`
 
 - Note (summary from our notes, not a quotation): Page contents: Morrison interview conclusion (magazine p. 34): only shining when the helmet comes off; rain fight scenes and stunt coordinator Nick Gillard; green-screen work; Once Were Warriors co-star Rena Owen standing in for the CG Taun We; facing Samuel L. Jackson's Mace Windu; pull quote on the buzz of film running through a camera; Jeremy Bulloch at his favorite L.A. restaurant; Jango vs. Boba. Photo of Jango Fett. (hand-read)
@@ -1753,14 +1653,12 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:164`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Inside the Star Wars Empire (Bill Kimberlin) (text copy `novels_tmp_lucas_bts_kimberlin_inside_the_star_wars_empire_epub_0d4920d9fb`).)
 (Full sentence/passage taken from the source text on file: `novels_tmp_lucas_bts_kimberlin_inside_the_star_wars_empire_epub`.)
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Temuera Morrison on Jeremy Bulloch, his "son": ""The funny thing is," he said, "the guy who used to play Boba Fett, Jeremy Bulloch, goes to one of my favorite restaurants in L.A. all the time, and every time I turn up there, they go, 'Oh, your son was just in here'—which is funny because he's about 20 years older than me. I'm going to tell the guys at the restaurant to tell me when he's coming back, and I'll come in. I need to meet my son, Boba Fett!" —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-the-funny-thing-is-he-said.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:172`
 
 > I feel like Jango Fett is a little cooler than Boba Fett,
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Temuera Morrison comparing Jango and Boba: ""I feel like Jango Fett is a little cooler than Boba Fett," the actor said. —Temuera Morrison, Star Wars Insider 57, p. 34" Source: *Star Wars Insider #57* (2001), scan p.27
-![Quote image: *Star Wars Insider #57* (2001), scan p.27 — full quote as printed](quotes/ins057-s27-i-feel-like-jango-fett-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:174`
 
 - Note (summary from our notes, not a quotation): Page contents: "Daniel Logan: Logan's Run" opener (magazine p. 36): the 14-year-old New Zealand newcomer plays Boba Fett; two June days alone in green screen shooting 82 effects shots under visual effects supervisor Pablo Helman and an ILM crew; full-page photo of Logan in costume. (hand-read)
@@ -1780,7 +1678,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:184`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett — entry/section: Daniel Logan on the perks of playing Boba Fett: "Not that there aren't fringe benefits to being Boba Fett. "The best thing about it," he said, "is I got to drive those golf buggies [on the Fox Studios Australia lot]. I was driving everyone around. I was like the chauffeur—it was so fun!" —Daniel Logan, Star Wars Insider 57, p. 37" Source: *Star Wars Insider #57* (2001), scan p.29
-![Quote image: *Star Wars Insider #57* (2001), scan p.29 — full quote as printed](quotes/ins057-s29-not-that-there-arent-fringe-benefits.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:186`
 
 > The Fett Effect: Boba Fett's Steady Rise from Concept Art to Cult Anti-Hero
@@ -1799,7 +1696,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:205`
 > He said, 'You know how Boba Fett falls down that hole and they think he's dead? People don't think he's dead, they think he's coming back. They can't let him go.'
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett — entry/section: Daniel Logan relaying what George Lucas told him about Boba Fett: ""George said that even though he was a mysterious person, heaps of people knew him," Logan said of his bounty-hunting alter ego. "He said, 'You know how Boba Fett falls down that hole and they think he's dead? People don't think he's dead, they think he's coming back. They can't let him go.'" —Daniel Logan, Star Wars Insider 57, p. 40" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-george-said-that-even-though-he.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:209`
 
 > He's a strong guy,
@@ -1808,13 +1704,11 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:209`
 > He always sticks up for himself. I think he didn't have anything against the Jedi, and he didn't have anything against the bad guys. He was just in the middle.
 — Source: Star Wars Insider #57 (2001); Boba Fett — entry/section: Daniel Logan on Boba Fett's character.
 Note (our notes, around the quote): Boba Fett — entry/section: Daniel Logan on Boba Fett's character: ""He's a strong guy," he said. "He always sticks up for himself. I think he didn't have anything against the Jedi, and he didn't have anything against the bad guys. He was just in the middle." —Daniel Logan, Star Wars Insider 57, p. 40" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-hes-a-strong-guy-he-said.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:211`
 
 > It's because he gets to fight the Jedi, and he's so strong and mighty, and the way he's set up—his helmet—he's got all those things!
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett — entry/section: Daniel Logan on Boba Fett's appeal: "The appeal of the character can also be explained more simply, he said: "It's because he gets to fight the Jedi, and he's so strong and mighty, and the way he's set up—his helmet—he's got all those things!" —Daniel Logan, Star Wars Insider 57, p. 40" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-the-appeal-of-the-character-can.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:213`
 
 > I think people are going to be attracted to Jango Fett because of Boba Fett,
@@ -1823,7 +1717,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:213`
 > They're probably going to think Jango Fett is Boba Fett. They'll be like, 'Yeah! Boba Fett!' And then this little guy comes in. They'll say, 'Hey, who's that? Did Boba Fett have a son?'
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Daniel Logan predicting audiences' reaction to Jango Fett: ""I think people are going to be attracted to Jango Fett because of Boba Fett," Daniel said. "They're probably going to think Jango Fett is Boba Fett. They'll be like, 'Yeah! Boba Fett!' And then this little guy comes in. They'll say, 'Hey, who's that? Did Boba Fett have a son?'" —Daniel Logan, Star Wars Insider 57, p. 40" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-i-think-people-are-going-to.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:215`
 
 > He's always with his dad,
@@ -1832,7 +1725,6 @@ Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:215`
 > He does things with his dad, lives with his dad, loves his dad, and is always there for his dad. Jango Fett is his idol.
 — Source: Star Wars Insider #57 (2001).
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Daniel Logan on Boba Fett and his father: ""He's always with his dad," Daniel said. "He does things with his dad, lives with his dad, loves his dad, and is always there for his dad. Jango Fett is his idol." —Daniel Logan, Star Wars Insider 57, pp. 40-41" Source: *Star Wars Insider #57* (2001), scan p.32
-![Quote image: *Star Wars Insider #57* (2001), scan p.32 — full quote as printed](quotes/ins057-s32-hes-always-with-his-dad-daniel.jpg)
 Our notes: `notes/materials/038-star-wars-insider/057-ins057.md:217`
 
 > Just a normal 14-year-old... bounty hunter hanging around the set on his day off *(T-shirt shows his heroes)*
@@ -1904,7 +1796,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:411`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #58 (2002).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Tom Fowler on Jango vs. Boba: "Jango has a really sleek look to him as opposed to Boba. His armor is newer, all blue and silver. With Boba I always got the impression he was patched together. Jango is like the James Bond of Star Wars. —Tom Fowler, Star Wars Insider 58, p. 81" Source: *Star Wars Insider #58* (2002), scan p.64
-![Quote image: *Star Wars Insider #58* (2002), scan p.64 — full quote as printed](quotes/ins058-s64-jango-has-a-really-sleek-look.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:415`
 
 - Note (summary from our notes, not a quotation): Page contents: Star Wars Q&A: "Answers to Your Star Wars Questions" with Pablo Hidalgo, Internet Content Provider for starwars.com (magazine p. 96): no official in-universe calendar (BBY used by fans; Zahn's "pre-Empire" dating; the Empire's founding in Episode III would be the logical zero); why only two Sith; why droids have personalities (Luke never memory-wiped R2-D2, giving a near-symbiotic link to his X-wing); Boba Fett's death; Han and Luke on the Falcon ladder (gunnery wells' artificial gravity canted 90 degrees); Hutt gender begins. (hand-read)
@@ -1915,7 +1806,6 @@ Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:478`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #58 (2002); Boba Fett — entry/section: Pablo Hidalgo on Boba Fett's death.
 Note (our notes, around the quote): Boba Fett — entry/section: Pablo Hidalgo on Boba Fett's death: "I could probably dig up some plausible explanation, but when you get right down to it, karma doesn't care how hot a bounty hunter you are. —Pablo Hidalgo, Star Wars Insider 58, p. 96" Source: *Star Wars Insider #58* (2002), scan p.75
-![Quote image: *Star Wars Insider #58* (2002), scan p.75 — full quote as printed](quotes/ins058-s75-i-could-probably-dig-up-some.jpg)
 Our notes: `notes/materials/038-star-wars-insider/058-ins058.md:482`
 
 ## Star Wars Insider #59 (2002)
@@ -1959,7 +1849,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:225`
 > When Daniel opened the door and saw me for the first time, George wanted him to look very suspicious of me. I just told him to pretend like I'd done a really bad fart. Surprise and bad smells register a similar expression in the face. He was brilliant.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Boba Fett — entry/section: Ewan McGregor on Daniel Logan's Boba Fett: "Recalled McGregor, "When Daniel opened the door and saw me for the first time, George wanted him to look very suspicious of me. I just told him to pretend like I'd done a really bad fart. Surprise and bad smells register a similar expression in the face. He was brilliant." —Ewan McGregor, Star Wars Insider 60, p. 32" Source: *Star Wars Insider #60* (2002), scan p.32
-![Quote image: *Star Wars Insider #60* (2002), scan p.32 — full quote as printed](quotes/ins060-s32-recalled-mcgregor-when-daniel-opened-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:229`
 
 > I'm free to be as creative in whatever way I want to be—which means that if I make mistakes, they are my own mistakes.
@@ -1970,7 +1859,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:412`
 > He is a background character, but I needed a device, a bounty hunter to do things. That particular bounty hunter had become a rather popular character, and even though people were writing all kinds of things about where he came from, in my mind he was always connected to the stormtroopers. I realized I could use Jango Fett as the bounty hunter, and he would be Boba's father, and then it all fell into place. But even if he wasn't a popular character, it probably would have fallen into place. There are lots of little stories going on in this one, sidebars of how things came to be. Some of it was written back then, mainly the main characters. But all the secondary characters, like Boba Fett, were added later.
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: George Lucas on Boba Fett and Jango Fett: ""Probably not," Lucas said. "He is a background character, but I needed a device, a bounty hunter to do things. That particular bounty hunter had become a rather popular character, and even though people were writing all kinds of things about where he came from, in my mind he was always connected to the stormtroopers. I realized I could use Jango Fett as the bounty hunter, and he would be Boba's father, and then it all fell into place. But even if he wasn't a popular character, it probably would have fallen into place. There are lots of little stories going on in this one, sidebars of how things came to be. Some of it was written back then, mainly the main characters. But all the secondary characters, like Boba Fett, were added later." —George Lucas, Star Wars Insider 60, p. 57" Source: *Star Wars Insider #60* (2002), scan p.57
-![Quote image: *Star Wars Insider #60* (2002), scan p.57 — full quote as printed](quotes/ins060-s57-probably-not-lucas-said-he-is.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:414`
 
 > Subscribe! 6 issues only $19.95, see offer p. 121
@@ -1996,7 +1884,6 @@ Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:862`; `notes/mat
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #60 (2002).
 Note (our notes, around the quote): Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Levithan: Anakin redeems himself: "Levithan points out one key difference between Boba Fett and Anakin Skywalker: With Anakin, "at least we know he redeems himself in the very end." —David Levithan, Star Wars Insider 60, p. 111" Source: *Star Wars Insider #60* (2002), scan p.111
-![Quote image: *Star Wars Insider #60* (2002), scan p.111 — full quote as printed](quotes/ins060-s111-levithan-points-out-one-key-difference.jpg)
 Our notes: `notes/materials/038-star-wars-insider/060-ins060.md:866`
 
 ## Star Wars Insider #61 (2002)
@@ -2191,7 +2078,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:439`
 > In A New Threat, Jabba gives Boba his first big assignment: to capture Wat Tambor. Fans will remember Wat Tambor as one of the Separatist conspirators who meets with Dooku in Episode II. After escaping a Republic prison, Tambor has fled to Xagobah, a strange, fogbound world covered with toxic fungi and dominated by the eerie Mazariyan Citadel.
 — Source: Star Wars Insider #76 (2004).
 Note (our notes, around the quote): Boba Fett; Wat Tambor; Jabba the Hutt; Count Dooku — entry/section: Boba's first big assignment: "In A New Threat, Jabba gives Boba his first big assignment: to capture Wat Tambor. Fans will remember Wat Tambor as one of the Separatist conspirators who meets with Dooku in Episode II. After escaping a Republic prison, Tambor has fled to Xagobah, a strange, fogbound world covered with toxic fungi and dominated by the eerie Mazariyan Citadel." Source: *Star Wars Insider #76* (2004), scan p.76
-![Quote image: *Star Wars Insider #76* (2004), scan p.76 — full quote as printed](quotes/ins076-s76-in-a-new-threat-jabba-gives.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:441`
 
 > We are a Boba Fett family. *(hand-read)*
@@ -2207,7 +2093,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:446`
 > Very few kids stand out as evil people. Hannibal Lecter might have been a very nice kid.
 — Source: Star Wars Insider #76 (2004); Boba Fett — entry/section: Hand on Boba.
 Note (our notes, around the quote): Boba Fett — entry/section: Hand on Boba: ""As a reader but also as a writer, I tend to be drawn to dark subjects and to dark characters," Hand muses. "Part of what a writer does – hopefully – is to enable readers to identify with a character, even a flawed character." … As Hand observes, "Very few kids stand out as evil people. Hannibal Lecter might have been a very nice kid." —Elizabeth Hand, Star Wars Insider 76, p. 77" Source: *Star Wars Insider #76* (2004), scan p.77
-![Quote image: *Star Wars Insider #76* (2004), scan p.77 — full quote as printed](quotes/ins076-s77-as-a-reader-but-also-as.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:448`
 
 > A Boba Fett family
@@ -2216,7 +2101,6 @@ Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:448`
 > He asked, 'Do you know about Boba Fett?' And I said, 'I know all about Boba Fett. We are a Boba Fett family.'
 — Source: Star Wars Insider #76 (2004); Boba Fett — entry/section.
 Note (our notes, around the quote): Boba Fett — entry/section: "A Boba Fett family": ""He asked, 'Do you know about Boba Fett?' And I said, 'I know all about Boba Fett. We are a Boba Fett family.'" —Elizabeth Hand, Star Wars Insider 76, p. 77" Source: *Star Wars Insider #76* (2004), scan p.77
-![Quote image: *Star Wars Insider #76* (2004), scan p.77 — full quote as printed](quotes/ins076-s77-he-asked-do-you-know-about.jpg)
 Our notes: `notes/materials/038-star-wars-insider/076-ins076.md:450`
 
 - Note (summary from our notes, not a quotation): Page contents: Scouting the Galaxy continued: a Jeremy Bulloch–signed Silver Convention Exclusive Boba Fett (the bubble will yellow before the ink harms the card; whether autographs help value); an uncredited poster is almost certainly a $5–$10 reprint; a correction that a sabacc deck came in West End Games' Crisis on Cloud City. (hand-read)
@@ -2251,7 +2135,6 @@ Our notes: `notes/materials/038-star-wars-insider/078-ins078.md:352`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #78 (2004).
 Note (our notes, around the quote): Boba Fett; Han Solo — entry/section: Let's make him a bounty hunter: ""I did this helmet with a single eye slit, and George said, 'Let's make him a bounty hunter,'" recalls McQuarrie... —Ralph McQuarrie, Star Wars Insider 78, p. 56" Source: *Star Wars Insider #78* (2004), scan p.56
-![Quote image: *Star Wars Insider #78* (2004), scan p.56 — full quote as printed](quotes/ins078-s56-i-did-this-helmet-with-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/078-ins078.md:356`
 
 - Note (summary from our notes, not a quotation): Page contents: McQuarrie continued: Boba Fett's final Johnston helmet; the sinister-looking medical droid Too-Onebee; Yoda's look and Stuart Freeborn's Einstein-like face; Yoda's mud-hut house; pull quote on Vader in the all-white dining room. (hand-read)
@@ -2279,7 +2162,6 @@ Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:208`
 > It looked too slick. I needed something a little rougher than that but still reminiscent of the stormtroopers.
 — Source: Star Wars Insider #80 (2005).
 Note (our notes, around the quote): Jango Fett; Boba Fett — entry/section: Lucas on Jango's armor: "Lucas soon felt that white still wasn't right for Jango in this film: "It looked too slick. I needed something a little rougher than that but still reminiscent of the stormtroopers." —George Lucas, Star Wars Insider 80, p. 32" Source: *Star Wars Insider #80* (2005), scan p.32
-![Quote image: *Star Wars Insider #80* (2005), scan p.32 — full quote as printed](quotes/ins080-s32-lucas-soon-felt-that-white-still.jpg)
 Our notes: `notes/materials/038-star-wars-insider/080-ins080.md:219`
 
 - Note (summary from our notes, not a quotation): Page contents: Fan art continued: an Original Trilogy collage painting, envelope art of Boba Fett, and a painted Episode III Anakin ("Soon We Will Have Revenge"). (hand-read)
@@ -2443,7 +2325,6 @@ Our notes: `notes/materials/038-star-wars-insider/093-ins093.md:337`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #93 (2007).
 Note (our notes, around the quote): Boba Fett; Darth Vader (Anakin Skywalker) — entry/section: Anything in armor: "Dream projects? "Anything in armor," Traviss says, "by which I mean clones, stormies, Mandalorians, the Fetts and Vader." —Karen Traviss, Star Wars Insider 93, p. 42" Source: *Star Wars Insider #93* (2007), scan p.42
-![Quote image: *Star Wars Insider #93* (2007), scan p.42 — full quote as printed](quotes/ins093-s42-dream-projects-anything-in-armor-traviss.jpg)
 Our notes: `notes/materials/038-star-wars-insider/093-ins093.md:356`
 
 > Toy Invasion! Hasbro leads the 30th anniversary Star Wars celebrations *(words: Frank Parisi)*
@@ -2524,7 +2405,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:666`
 > Presuming it has not been altered by a previous owner, it appears to me to be bits and pieces of a first-shot or mold test that has been assembled either by the factory or by someone at Kenner headquarters, which was then in Cincinnati.
 — Source: Star Wars Insider #95 (2007); Boba Fett — entry/section: Alternate Fett.
 Note (our notes, around the quote): Boba Fett — entry/section: Alternate Fett: ""Presuming it has not been altered by a previous owner, it appears to me to be bits and pieces of a first-shot or mold test that has been assembled either by the factory or by someone at Kenner headquarters, which was then in Cincinnati." —Steve Sansweet, Star Wars Insider 95, p. 62" Source: *Star Wars Insider #95* (2007), scan p.62
-![Quote image: *Star Wars Insider #95* (2007), scan p.62 — full quote as printed](quotes/ins095-s62-presuming-it-has-not-been-altered.jpg)
 Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:670`
 
 - Note (summary from our notes, not a quotation): Page contents: The Anthony Grandio Company ad "Celebrate 30 Years of Star Wars Everyday": checks, address labels, checkbook covers (Star Wars Characters, Armada, Alliance; Boba Fett cover autographed by Jeremy Bulloch; 30th Anniversary LE cover; Darth Vader cover); order form (YSI094) (hand-read)
@@ -2540,7 +2420,6 @@ Our notes: `notes/materials/038-star-wars-insider/095-ins095.md:759`
 > For every Jedi costume at a Star Wars event, there are often two or three Darth Vaders, Darth Mauls, or Boba Fetts.
 — Source: Star Wars Insider #96 (2007).
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Darth Maul; Boba Fett — entry/section: Villain costumes: ""For every Jedi costume at a Star Wars event, there are often two or three Darth Vaders, Darth Mauls, or Boba Fetts." —Brian J. Robb, Star Wars Insider 96, p. 5" Source: *Star Wars Insider #96* (2007), scan p.5
-![Quote image: *Star Wars Insider #96* (2007), scan p.5 — full quote as printed](quotes/ins096-s5-for-every-jedi-costume-at-a.jpg)
 Our notes: `notes/materials/038-star-wars-insider/096-ins096.md:34`
 
 - Note (summary from our notes, not a quotation): Page contents: Strangers Among Us cont.: Sly Moore (Umbaran aide; Sei Taria; Sate Pestage, Kinman Doriana; may have impersonated Darth Sidious); The Army Builders: the Kaminoans (Sifo-Dyas, Order 66, Kaminoan rebel clones quashed by the 501st led by Boba Fett) (hand-read)
@@ -2623,7 +2502,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:63`
 > Two words: Boba Fett! The series will be about brand new characters, a group of people that we haven't seen yet, except Boba Fett, who will be an instrumental part of it. The series will also showcase other bounty hunters.
 — Source: Star Wars Insider #99 (2008); Boba Fett — entry/section: Two words: Boba Fett!.
 Note (our notes, around the quote): Boba Fett — entry/section: Two words: Boba Fett!: ""Two words: Boba Fett! The series will be about brand new characters, a group of people that we haven't seen yet, except Boba Fett, who will be an instrumental part of it. The series will also showcase other bounty hunters." —Rick McCallum, Star Wars Insider 99, p. 8" Source: *Star Wars Insider #99* (2008), scan p.8
-![Quote image: *Star Wars Insider #99* (2008), scan p.8 — full quote as printed](quotes/ins099-s8-two-words-boba-fett-the-series.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:67`
 
 > Home of the World's Largest Selection of Star Wars and G.I. Joe Toys and Collectibles from 1977 to Present
@@ -2648,7 +2526,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:165`
 > Ever since Han Solo faced off with Greedo, bounty hunters have been some of the most intriguing characters in the Star Wars galaxy. They have no rules to follow, they get the coolest weapons, and they're always living in a moral gray zone—which makes them endlessly fascinating. When we first caught sight of Boba Fett and his awesome armor, it was obvious there was a whole side of Star Wars that the movies couldn't explore. So, it was great to be able to incorporate some bounty hunters into the prequels.
 — Source: Star Wars Insider #99 (2008).
 Note (our notes, around the quote): Han Solo; Greedo; Boba Fett — entry/section: McCallum on prequel hunters: ""Ever since Han Solo faced off with Greedo, bounty hunters have been some of the most intriguing characters in the Star Wars galaxy. They have no rules to follow, they get the coolest weapons, and they're always living in a moral gray zone—which makes them endlessly fascinating. When we first caught sight of Boba Fett and his awesome armor, it was obvious there was a whole side of Star Wars that the movies couldn't explore. So, it was great to be able to incorporate some bounty hunters into the prequels." —Rick McCallum, Star Wars Insider 99, p. 19" Source: *Star Wars Insider #99* (2008), scan p.19
-![Quote image: *Star Wars Insider #99* (2008), scan p.19 — full quote as printed](quotes/ins099-s19-ever-since-han-solo-faced-off.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:169`
 
 - Note (summary from our notes, not a quotation): Page contents: "The Ultimate Hunter" opener (Jeremy Bulloch interview, Jonathan Wilkins): full-page close-up of Boba Fett's battle-damaged helmet; title lettering "ULTIMATE HUNTER" begins across spread (hand-read)
@@ -2679,13 +2556,11 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:202`
 > People often ask me about the voice, which wasn't mine to start with. It was dubbed by an American actor named Jason Wingreen. On the new DVD versions it was re-dubbed by Temuera. I understand why they did it. It was originally raspy, but now has the New Zealand stress on different words. They've done it so there is strong continuity between films.
 — Source: Star Wars Insider #99 (2008); Boba Fett; Jango Fett — entry/section: Fett's voice.
 Note (our notes, around the quote): Boba Fett; Jango Fett — entry/section: Fett's voice: ""People often ask me about the voice, which wasn't mine to start with. It was dubbed by an American actor named Jason Wingreen. On the new DVD versions it was re-dubbed by Temuera. I understand why they did it. It was originally raspy, but now has the New Zealand stress on different words. They've done it so there is strong continuity between films." —Jeremy Bulloch, Star Wars Insider 99, p. 24" Source: *Star Wars Insider #99* (2008), scan p.24
-![Quote image: *Star Wars Insider #99* (2008), scan p.24 — full quote as printed](quotes/ins099-s24-people-often-ask-me-about-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:204`
 
 > I've done a lot of work, but at least I'll be remembered as Boba Fett. People will always remember Star Wars even in 50 years time. Hopefully people will remember the theatre plays and television, but to be known for being part of the Star Wars saga, it's a part of history.
 — Source: Star Wars Insider #99 (2008); Boba Fett — entry/section: Remembered as Boba Fett.
 Note (our notes, around the quote): Boba Fett — entry/section: Remembered as Boba Fett: ""I've done a lot of work, but at least I'll be remembered as Boba Fett. People will always remember Star Wars even in 50 years time. Hopefully people will remember the theatre plays and television, but to be known for being part of the Star Wars saga, it's a part of history." —Jeremy Bulloch, Star Wars Insider 99, p. 24" Source: *Star Wars Insider #99* (2008), scan p.24
-![Quote image: *Star Wars Insider #99* (2008), scan p.24 — full quote as printed](quotes/ins099-s24-ive-done-a-lot-of-work.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:206`
 
 > I got you an audition for Star Wars!
@@ -2696,7 +2571,6 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:206`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #99 (2008).
 Note (our notes, around the quote): Boba Fett — entry/section: Logan's audition: ""My agent called and screamed "I got you an audition for Star Wars!" I go "Alright. Is that another little movie in New Zealand, or something?" I really didn't know!" —Daniel Logan, Star Wars Insider 99, p. 24" Source: *Star Wars Insider #99* (2008), scan p.24
-![Quote image: *Star Wars Insider #99* (2008), scan p.24 — full quote as printed](quotes/ins099-s24-my-agent-called-and-screamed-i.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:208`
 
 > Dead or Alive! (Extra bounty if delivered frozen in carbonite!)
@@ -2725,13 +2599,11 @@ Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:336`
 > I put lots of effort into Fett's pose, trying to recreate his dynamic movements from the films. It's as if he is just about to fly away using his jet pack. I try to embody the ideas or images of the character. I would like to make a sculpt of an early clone trooper model, like the one which was made as a mock-up for the film. I really love the style and pose.
 — Source: Star Wars Insider #99 (2008); Boba Fett — entry/section: Hagii on sculpting Fett.
 Note (our notes, around the quote): Boba Fett — entry/section: Hagii on sculpting Fett: ""I put lots of effort into Fett's pose, trying to recreate his dynamic movements from the films. It's as if he is just about to fly away using his jet pack. I try to embody the ideas or images of the character. I would like to make a sculpt of an early clone trooper model, like the one which was made as a mock-up for the film. I really love the style and pose." —Shunji Hagii, Star Wars Insider 99, p. 37" Source: *Star Wars Insider #99* (2008), scan p.37
-![Quote image: *Star Wars Insider #99* (2008), scan p.37 — full quote as printed](quotes/ins099-s37-i-put-lots-of-effort-into.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:338`
 
 > I often exaggerate the original sketch somewhat, trying to make my sculpt more impressive than the original sketch suggested. Generally it takes between one-and-a-half months to two months. It depends on how much time the approval process takes.
 — Source: Star Wars Insider #99 (2008); Boba Fett — entry/section: Hagii's method.
 Note (our notes, around the quote): Boba Fett — entry/section: Hagii's method: ""I often exaggerate the original sketch somewhat, trying to make my sculpt more impressive than the original sketch suggested. Generally it takes between one-and-a-half months to two months. It depends on how much time the approval process takes." —Shunji Hagii, Star Wars Insider 99, p. 37" Source: *Star Wars Insider #99* (2008), scan p.37
-![Quote image: *Star Wars Insider #99* (2008), scan p.37 — full quote as printed](quotes/ins099-s37-i-often-exaggerate-the-original-sketch.jpg)
 Our notes: `notes/materials/038-star-wars-insider/099-ins099.md:340`
 
 - Note (summary from our notes, not a quotation): Page contents: StarWars.com logo; "Boba Begins" opener spread left: collage art of Boba Fett firing blaster against pink Mandalorian skull emblem graffiti, mirrored stencil lettering lower left (hand-read)
@@ -3084,7 +2956,6 @@ Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:433`
 > With Fett, I'm fortunate to have such a dynamic role, to be playing the father of one of the popular characters from the earlier trilogy. I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me.
 — Source: Star Wars Insider #114 (2010); Jango Fett — entry/section: Temuera Morrison.
 Note (our notes, around the quote): Jango Fett — entry/section: Temuera Morrison: "I'm the original bounty hunter": ""With Fett, I'm fortunate to have such a dynamic role, to be playing the father of one of the popular characters from the earlier trilogy. I'm the original bounty hunter. Whatever Boba Fett is, he takes it from me." —Temuera Morrison (Jango Fett), quoted from Star Wars Insider #57, Star Wars Insider 114, p. 79" Source: *Star Wars Insider #114* (2010), scan p.79
-![Quote image: *Star Wars Insider #114* (2010), scan p.79 — full quote as printed](quotes/ins114-s79-with-fett-im-fortunate-to-have.jpg)
 Our notes: `notes/materials/038-star-wars-insider/114-ins114.md:440`
 
 ## Star Wars Insider #115 (2010)
@@ -3258,7 +3129,6 @@ Our notes: `notes/materials/038-star-wars-insider/119-ins119.md:401`
 > But unlike Vader who is doing evil and knows it, or Palpatine who is doing evil and loves it, with Boba (or Jango) it's all business. He may know that by taking you in for the bounty on your head that he's ruining the lives of your entire family, but it's never personal. He neither regrets nor relishes the fallout from his actions. He's really more of an anti-hero than a true bad guy.
 — Source: Star Wars Insider #119 (2010).
 Note (our notes, around the quote): Boba Fett; Jango Fett; Darth Vader (Anakin Skywalker); Palpatine (Darth Sidious) — entry/section: Stradley on the Fetts' appeal: ""But unlike Vader who is doing evil and knows it, or Palpatine who is doing evil and loves it, with Boba (or Jango) it's all business. He may know that by taking you in for the bounty on your head that he's ruining the lives of your entire family, but it's never personal. He neither regrets nor relishes the fallout from his actions. He's really more of an anti-hero than a true bad guy." —Randy Stradley, Star Wars Insider 119, p. 79" Source: *Star Wars Insider #119* (2010), scan p.79
-![Quote image: *Star Wars Insider #119* (2010), scan p.79 — full quote as printed](quotes/ins119-s79-but-unlike-vader-who-is-doing.jpg)
 Our notes: `notes/materials/038-star-wars-insider/119-ins119.md:413`
 
 - Note (summary from our notes, not a quotation): Page contents: "It's Mandalorian Season": Dark Horse Fett releases (Stradley on Fett's helmet second only to Vader's): Omnibus: Boba Fett, Blood Ties, Adventures: Boba Fett and the Vault of Terror (Jeremy Barlow, Daxiong). (hand-read)
@@ -3428,7 +3298,6 @@ Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:355`
 > You add in the fact that you know this silent cowboy can take out the entire saloon of gunmen as soon as he walks in the doors, and you have yourself one of the coolest characters in the galaxy.
 — Source: Star Wars Insider #132 (2012); Boba Fett — entry/section: Tom Taylor on Fett's reputation.
 Note (our notes, around the quote): Boba Fett — entry/section: Tom Taylor on Fett's reputation: ""You add in the fact that you know this silent cowboy can take out the entire saloon of gunmen as soon as he walks in the doors, and you have yourself one of the coolest characters in the galaxy." —Tom Taylor, Star Wars Insider 132, p. 66" Source: *Star Wars Insider #132* (2012), scan p.66
-![Quote image: *Star Wars Insider #132* (2012), scan p.66 — full quote as printed](quotes/ins132-s66-you-add-in-the-fact-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/132-ins132.md:357`
 
 ## Star Wars Insider #133 (2012)
@@ -5327,7 +5196,6 @@ Our notes: `external/mega-notes/zannah-quotes.txt:111`
 > Darth Vader, searching the galaxy for the Rebels and Luke Skywalker, the Rebel pilot who almost single-handedly destroyed the Death Star, came to Bespin, bringing with him a platoon of stormtroopers and a bounty hunter named Boba Fett.
 — Source: Sourcebooks/Star Wars Roleplaying Game Core Rulebook.pdf [Star Wars Rolep; Darth Vader (Anakin Skywalker); Luke Skywalker; Boba Fett.
 Note (our notes, around the quote): Darth Vader (Anakin Skywalker); Luke Skywalker; Boba Fett: "Darth Vader, searching the galaxy for the Rebels and Luke Skywalker, the Rebel pilot who almost single-handedly destroyed the Death Star, came to Bespin, bringing with him a platoon of stormtroopers and a bounty hunter named Boba Fett." Source: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.238
-![Quote image: *Star Wars Roleplaying Game Core Rulebook* (SWRPG d20), scan p.238 — full quote as printed](quotes/d046-s238-darth-vader-searching-the-galaxy-for.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/046-star-wars-roleplaying-game-core-rulebook-scan-181-240.md:409`
 
 ## Sourcebooks/Rebellion Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–161)

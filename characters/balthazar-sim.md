@@ -50,7 +50,6 @@ Our notes: `notes/materials/037-sw-d20-folder/061-beneath-aucellis-park.md:30`
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Beneath Aucellis Park (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Beneath_Aucellis_Park_pdf_0dda102beb`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary sw d20 folder files Star Wars Roleplaying Game Revised Core Adventures Beneath Aucellis Park (text copy `research_primary_sw_d20_folder_files_Star_Wars_Roleplaying_Game_Revised_Core_Adventures_Beneath_Aucellis_Park_pdf_0dda102beb`).)
 Note (our notes, around the quote): Balthazar Sim — entry/section: Sim mocks heroes who leave: "“That’s why the Empire will always win—because cowards like you won't fight them.”" Source: *Beneath Aucellis Park* (SWRPG d20 Revised Core), scan p.6
-![Quote image: *Beneath Aucellis Park* (SWRPG d20 Revised Core), scan p.6 — full quote as printed](quotes/d061-s6-that-s-why-the-empire-will.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/061-beneath-aucellis-park.md:41`
 
 - Note (summary from our notes, not a quotation): Page contents: Beneath Aucellis Park: Evin Telbre pays up to 3,000-5,000 credits each for Sim, alive or dead; Morrie Mullins was plot director for the RPGA's Living Force campaign (hand-read)

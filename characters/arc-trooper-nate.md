@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #77 (2004); Nate (ARC trooper) — entry/section: Independent hopes and dreams.
 Note (our notes, around the quote): Nate (ARC trooper) — entry/section: Independent hopes and dreams: ""I wanted to give one of those characters independent hopes and dreams and see what happened," says Steven Barnes of The Cestus Deception (Del Rey, $25.95). That character is CT-96/298, nicknamed "Nate," an ARC Trooper dispatched to Ord Cestus as part of a unit supporting Jedi Knights Obi-Wan Kenobi and Kit Fisto. —Steven Barnes, Star Wars Insider 77, p. 84" Source: *Star Wars Insider #77* (2004), scan p.84
-![Quote image: *Star Wars Insider #77* (2004), scan p.84 — full quote as printed](quotes/ins077-s84-i-wanted-to-give-one-of.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:544`
 
 # Debate and forum claims (unverified)

@@ -127,13 +127,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/06-v2-scan
 > Together they killed the Jedi Tresina Lobi; Alema also fought by Lumiya's side at Rooqoo Depot, where they attempted to defeat Luke and Mara Jade Skywalker.
 — Source: scan pages 81–120; Tresina Lobi; Alema Rar; Lumiya; Luke Skywalker; Mara Jade Skywalker.
 Note (our notes, around the quote): Tresina Lobi; Alema Rar; Lumiya; Luke Skywalker; Mara Jade Skywalker: "Together they killed the Jedi Tresina Lobi; Alema also fought by Lumiya's side at Rooqoo Depot, where they attempted to defeat Luke and Mara Jade Skywalker." Source: The Complete Star Wars Encyclopedia, Vol. III, p.81
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.81 — full quote as printed](quotes/v3-p81-together-they-killed-the-jedi-tresina.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:74`
 
 > The situation only got worse when a delegation of Bothans from the True Victory Party were found murdered on the same night that Tresina Lobi was brutally killed in Fellowship Plaza.
 — Source: scan pages 241–280; Tresina Lobi. POV: Tresina Lobi.
 Note (our notes, around the quote): Tresina Lobi: "The situation only got worse when a delegation of Bothans from the True Victory Party were found murdered on the same night that Tresina Lobi was brutally killed in Fellowship Plaza." Source: The Complete Star Wars Encyclopedia, Vol. III, p.265
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.265 — full quote as printed](quotes/v3-p265-the-situation-only-got-worse-when.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/06-v3-scan-241-280.md:258`
 
 ## Star Wars Insider #57 (2001)

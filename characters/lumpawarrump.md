@@ -14,7 +14,6 @@
 > ISBy This slicer droid, an ISB-120 model, was employed by the interrogation droid known as IT to break into a datapad that was owned by Leia Organa Solo, ISBy was destroyed when Chewbacca and his wife, Mallatobuck, tried to rescue their son Lumpawarrump from IT.
 — Source: scan pages 121–160; Leia Organa Solo; Chewbacca.
 Note (our notes, around the quote): Leia Organa Solo; Chewbacca: "ISBy This slicer droid, an ISB-120 model, was employed by the interrogation droid known as IT to break into a datapad that was owned by Leia Organa Solo, ISBy was destroyed when Chewbacca and his wife, Mallatobuck, tried to rescue their son Lumpawarrump from IT." Source: The Complete Star Wars Encyclopedia, Vol. II, p.118
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.118 — full quote as printed](quotes/v2-p118-isby-this-slicer-droid-an-isb.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/03-v2-scan-121-160.md:31`
 
 ## Star Wars Insider #47 (1999)

@@ -14,7 +14,6 @@
 > Raider Sith assassin Jor Torlin's starship during the time of Emperor Roan Fel, it was stolen by Morrigan Corde after she killed him.
 — Source: scan pages 81–120; Roan Fel. POV: Roan Fel, about Morrigan Corde.
 Note (our notes, around the quote): Roan Fel: "Raider Sith assassin Jor Torlin's starship during the time of Emperor Roan Fel, it was stolen by Morrigan Corde after she killed him." Source: The Complete Star Wars Encyclopedia, Vol. III, p.75
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.75 — full quote as printed](quotes/v3-p75-raider-sith-assassin-jor-torlins-starship.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:12`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 61–120)
@@ -22,7 +21,6 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan
 > NICE TASTE IN WEAPONS, TORLIN. NICE SHIP TOO.
 — Source: Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Sag; Morrigan Corde; Jor Torlin — entry/section: Pull quote.
 Note (our notes, around the quote): Morrigan Corde; Jor Torlin — entry/section: Pull quote: ""NICE TASTE IN WEAPONS, TORLIN. NICE SHIP TOO." —MORRIGAN CORDE" Source: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.87
-![Quote image: *Legacy Era Campaign Guide* (SWRPG Saga Edition), scan p.87 — full quote as printed](quotes/d719-s87-nice-taste-in-weapons-torlin-nice.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/719-legacy-era-campaign-guide-scan-061-120.md:215`
 
 ## Sourcebooks/Legacy Era Campaign Guide.pdf [Star Wars Roleplaying Game Saga Edition (2007)] (scan pages 121–180)
@@ -84,18 +82,18 @@ Our notes: `notes/materials/039-legacy-2006/legacy-48.md:74`
 
 - Note (summary from our notes, not a quotation): Maladi breaks Hosk with droids and her will (p197–200). Calixte reactivates "Morrigan Corde", her own alias (p201). Fel sends Draco and Krieg to escort Bovark to Admiral Stazi on the Wheel (p204–210). Corde brawls through thugs and captures Sith-trained agent Jor Torlin (p211–221). She uses C.O.L.D. limpet droids to sabotage the Imperial–GA talks. Draco and Krieg deflect fire, and Draco Force-pushes Admiral Stazi off Bovark (p225–231; corrected 2026-10-21: no guards are pushed). On Ossus, Corde kills Torlin with a nerve-toxin backup plan (p232–237). A flashback reveals she is Cade's mother (p238–240).
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
-![p198](009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
-![p200](009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
-![p201](009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
-![p236](009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
-![p238](009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
-![p239](009-legacy-book-1-panels/p239-corde-cade-trapped-by-skywalker-name.jpg)
+![p198](../notes/materials/009-legacy-book-1-panels/p198-maladi-healer-will-no-match-for-mine.jpg)
+![p200](../notes/materials/009-legacy-book-1-panels/p200-maladi-why-does-master-need-you-alive.jpg)
+![p201](../notes/materials/009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
+![p236](../notes/materials/009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
+![p238](../notes/materials/009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
+![p239](../notes/materials/009-legacy-book-1-panels/p239-corde-cade-trapped-by-skywalker-name.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:61`
 
 > AND I'VE HAD SOME SUCCESS IN SHIELDING MY THOUGHTS FROM FORCE USERS.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Shields her thoughts from Force-users, Fel included. p162 (#8 Allies): "AND I'VE HAD SOME SUCCESS IN SHIELDING MY THOUGHTS FROM FORCE USERS." · "YOU, FOR EXAMPLE."
-![p162](009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
+![p162](../notes/materials/009-legacy-book-1-panels/p162-mohrgan-test-myself-calixte-shields-thoughts.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:962`
 
 > THIS IS MORRIGAN CORDE. INACTIVE FOR TWENTY YEARS, OR SO. GOOD FIELD AGENT IN HER DAY -- AND I THINK I KNOW HOW TO CONTACT HER.
@@ -108,7 +106,7 @@ Our notes: `notes/materials/009-legacy-book-1.md:963`
 > FORCE SENSITIVE. TRAINED ON KORRIBAN BY THE SITH -- THOUGH NOT STRONG ENOUGH IN THE FORCE TO BE TRULY SITH.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Brawls through Wheel thugs bare-handed; subdues Sith-trained Jor Torlin. p211 (#9 Trust Issues)–p221 (#10 Trust Issues): "YOU WERE SAYING?" · "AND TO THINK I'D GIVEN ALL THIS UP." · (p220) "FORCE SENSITIVE. TRAINED ON KORRIBAN BY THE SITH -- THOUGH NOT STRONG ENOUGH IN THE FORCE TO BE TRULY SITH."
-![p220](009-legacy-book-1-panels/p220-corde-torlin-not-strong-enough-to-be-sith.jpg)
+![p220](../notes/materials/009-legacy-book-1-panels/p220-corde-torlin-not-strong-enough-to-be-sith.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:964`
 
 > HE'S A SKYWALKER! HEIR TO A GREAT NAME -- AND HE'LL BE JUST AS TRAPPED BY IT AS YOU ARE, KOL!
@@ -116,85 +114,85 @@ Our notes: `notes/materials/009-legacy-book-1.md:964`
 > RIGHT. AND ROAN FEL'S MY DADDY.
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Cade's mother. p238 (#10 Trust Issues)–p240 (#10 Trust Issues), p360 (#16 Claws), p437 (#19 Claws): "HE'S A SKYWALKER! HEIR TO A GREAT NAME -- AND HE'LL BE JUST AS TRAPPED BY IT AS YOU ARE, KOL!" · (p360) "I'M HIS MOTHER." · Syn: "RIGHT. AND ROAN FEL'S MY DADDY."
-![p238](009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
-![p360](009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
+![p238](../notes/materials/009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
+![p360](../notes/materials/009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:966`
 
 > MORRIGAN CORDE -- IMPERIAL AND FREE AGENT -- ASSASSINATIONS A SPECIALTY...
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Reputation. p358 (#16 Claws) Jool.
 Label in our notes: Reputation. p358 (#16 Claws) Jool
-![p358](009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
+![p358](../notes/materials/009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:967`
 
 > GET AWAY FROM MY SON!
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 Note (our notes, around the quote): Shoots Darth Krayt in the back from a jetpack. p433 (#19 Claws): "GET AWAY FROM MY SON!" Later, as Calixte alone with the hologram: "RUN." (p442 (#19 Claws)).
-![p201](009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
-![p215 Corde's brawl on the Wheel](009-legacy-book-1-panels/p215-corde-brawl-wheel.jpg)
-![p218](009-legacy-book-1-panels/p218-corde-subdues-torlin.jpg)
-![p220](009-legacy-book-1-panels/p220-corde-torlin-not-strong-enough-to-be-sith.jpg)
-![p236](009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
-![p238](009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
+![p201](../notes/materials/009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
+![p215 Corde's brawl on the Wheel](../notes/materials/009-legacy-book-1-panels/p215-corde-brawl-wheel.jpg)
+![p218](../notes/materials/009-legacy-book-1-panels/p218-corde-subdues-torlin.jpg)
+![p220](../notes/materials/009-legacy-book-1-panels/p220-corde-torlin-not-strong-enough-to-be-sith.jpg)
+![p236](../notes/materials/009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
+![p238](../notes/materials/009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:969`
 
-- Note (summary from our notes, not a quotation): ![p201](009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
+- Note (summary from our notes, not a quotation): ![p201](../notes/materials/009-legacy-book-1-panels/p201-calixte-introduces-morrigan-corde.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p201 — `p201-calixte-introduces-morrigan-corde.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:971`
 
-- Note (summary from our notes, not a quotation): ![p215 Corde's brawl on the Wheel](009-legacy-book-1-panels/p215-corde-brawl-wheel.jpg)
+- Note (summary from our notes, not a quotation): ![p215 Corde's brawl on the Wheel](../notes/materials/009-legacy-book-1-panels/p215-corde-brawl-wheel.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p215 Corde's brawl on the Wheel — `p215-corde-brawl-wheel.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:974`
 
-- Note (summary from our notes, not a quotation): ![p218](009-legacy-book-1-panels/p218-corde-subdues-torlin.jpg)
+- Note (summary from our notes, not a quotation): ![p218](../notes/materials/009-legacy-book-1-panels/p218-corde-subdues-torlin.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p218 — `p218-corde-subdues-torlin.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:977`
 
-- Note (summary from our notes, not a quotation): ![p220](009-legacy-book-1-panels/p220-corde-torlin-not-strong-enough-to-be-sith.jpg)
+- Note (summary from our notes, not a quotation): ![p220](../notes/materials/009-legacy-book-1-panels/p220-corde-torlin-not-strong-enough-to-be-sith.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p220 — `p220-corde-torlin-not-strong-enough-to-be-sith.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:980`
 
-- Note (summary from our notes, not a quotation): ![p236](009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
+- Note (summary from our notes, not a quotation): ![p236](../notes/materials/009-legacy-book-1-panels/p236-corde-nerve-toxin-backup-plan.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p236 — `p236-corde-nerve-toxin-backup-plan.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:983`
 
-- Note (summary from our notes, not a quotation): ![p238](009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
+- Note (summary from our notes, not a quotation): ![p238](../notes/materials/009-legacy-book-1-panels/p238-kol-jedi-feel-emotions-our-son.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p238 — `p238-kol-jedi-feel-emotions-our-son.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:986`
 
-- Note (summary from our notes, not a quotation): ![p239](009-legacy-book-1-panels/p239-corde-cade-trapped-by-skywalker-name.jpg)
+- Note (summary from our notes, not a quotation): ![p239](../notes/materials/009-legacy-book-1-panels/p239-corde-cade-trapped-by-skywalker-name.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p239 — `p239-corde-cade-trapped-by-skywalker-name.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:989`
 
-- Note (summary from our notes, not a quotation): ![p355](009-legacy-book-1-panels/p355-corde-veed-get-him-out-or-kill.jpg)
+- Note (summary from our notes, not a quotation): ![p355](../notes/materials/009-legacy-book-1-panels/p355-corde-veed-get-him-out-or-kill.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p355 — `p355-corde-veed-get-him-out-or-kill.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:992`
 
-- Note (summary from our notes, not a quotation): ![p358](009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
+- Note (summary from our notes, not a quotation): ![p358](../notes/materials/009-legacy-book-1-panels/p358-jool-ids-morrigan-corde.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p358 — `p358-jool-ids-morrigan-corde.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:995`
 
-- Note (summary from our notes, not a quotation): ![p360](009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
+- Note (summary from our notes, not a quotation): ![p360](../notes/materials/009-legacy-book-1-panels/p360-corde-im-his-mother.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p360 — `p360-corde-im-his-mother.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:998`
 
-- Note (summary from our notes, not a quotation): ![p387](009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
+- Note (summary from our notes, not a quotation): ![p387](../notes/materials/009-legacy-book-1-panels/p387-corde-vong-bugs-force-neutral-infiltration.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p387 — `p387-corde-vong-bugs-force-neutral-infiltration.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1001`
 
-- Note (summary from our notes, not a quotation): ![p442](009-legacy-book-1-panels/p442-calixte-run-hologram.jpg)
+- Note (summary from our notes, not a quotation): ![p442](../notes/materials/009-legacy-book-1-panels/p442-calixte-run-hologram.jpg)
   — Source: Legacy Book 1 (omnibus): power-scaling notes with panels.
 (*Panel: p442 — `p442-calixte-run-hologram.jpg`*)
 Our notes: `notes/materials/009-legacy-book-1.md:1004`
@@ -211,8 +209,8 @@ Our notes: `notes/materials/009-legacy-book-1.md:1008`
 > [fragment — full passage not on file]
 — Source: Legacy Book 1 (omnibus): power-scaling notes with panels; Morrigan Corde (p452).
 Note (our notes, around the quote): Morrigan Corde (p452): "Moff Nyna Calixte's top agent from the days before the Sith took power, and the only one that Calixte can still trust. While Corde can be counted on to complete the most dangerous missions, she has her own secrets and her own agenda: she was once secretly married to Kol Skywalker—then head of the Jedi Order—and the mother to his son. Though estranged from her child, she will do almost anything to protect him." Nyna Calixte: "In charge of Imperial Intelligence, Calixte is Morlish Veed's partner in every sense. When the Sith first approached the Empire, it was through Calixte." "...they seriously underestimate Calixte—a deadly mistake." (The handbook keeps the Corde = Calixte secret; the story reveals it, p441–442.)
-![p442](009-legacy-book-1-panels/p442-calixte-run-hologram.jpg)
-![p452 handbook: Corde and Calixte](009-legacy-book-1-panels/p452-handbook-corde-calixte.jpg)
+![p442](../notes/materials/009-legacy-book-1-panels/p442-calixte-run-hologram.jpg)
+![p452 handbook: Corde and Calixte](../notes/materials/009-legacy-book-1-panels/p452-handbook-corde-calixte.jpg)
 Our notes: `notes/materials/009-legacy-book-1.md:1130`
 
 > Hated, but respected, by his enemies
@@ -266,8 +264,8 @@ Our notes: `notes/materials/010-legacy-war.md:878`
 > I LOVED YOUR FATHER AND... WHATEVER YOU MAY THINK...HOWEVER IT SEEMS...I LOVE YOU. EXAMINE...YOUR FEELINGS. YOU KNOW...IT'S TRUE.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p53 (#3).
-![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
-![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
+![p53 "HEALING COSTS ME. GONE TO THE DARK SIDE TO DO IT EVERY TIME BUT ONE."](../notes/materials/010-legacy-war-panels/p053-cade-healing-costs-me.jpg)
+![p53 Corde's "TWO TRUTHS"](../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
 Our notes: `notes/materials/010-legacy-war.md:879`
 
 > DON'T. WE NEED ONE ALIVE...
@@ -277,8 +275,8 @@ Our notes: `notes/materials/010-legacy-war.md:879`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p90 (#4).
 Note (our notes, around the quote): p90 (#4): "DON'T. WE NEED ONE ALIVE..." She keeps the trooper alive. The intro's "helps knock it out" is wrong: Cade's lightning drops it, and Corde fires at the troopers on p88–89.
-![p89 "YOU TIRE. I DON'T. YOU DIE."](010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
-![p90 "ENOUGH." Cade's Force lightning](010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
+![p89 "YOU TIRE. I DON'T. YOU DIE."](../notes/materials/010-legacy-war-panels/p089-sith-trooper-you-tire-i-dont.jpg)
+![p90 "ENOUGH." Cade's Force lightning](../notes/materials/010-legacy-war-panels/p090-cade-enough-force-lightning.jpg)
 Our notes: `notes/materials/010-legacy-war.md:880`
 
 > BEFORE WE WERE MARRIED, I WAS AN IMPERIAL AGENT AND THE WIFE OF JEDI MASTER KOL SKYWALKER. CADE SKYWALKER IS MY SON. NYNA CALIXTE WAS A FABRICATION -- MY REAL NAME IS MORRIGAN CORDE.
@@ -293,7 +291,7 @@ Our notes: `notes/materials/010-legacy-war.md:882`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p107 (#5), Veed's death: "YOU?!" / "ME." /.
 Note (our notes, around the quote): p107 (#5), Veed's death: "YOU?!" / "ME." / "NYNA CALIXTE SENDS HER REGARDS." She shoots him point-blank.
-![p107 "NYNA CALIXTE SENDS HER REGARDS."](010-legacy-war-panels/p107-corde-nyna-calixte-sends-regards.jpg)
+![p107 "NYNA CALIXTE SENDS HER REGARDS."](../notes/materials/010-legacy-war-panels/p107-corde-nyna-calixte-sends-regards.jpg)
 Our notes: `notes/materials/010-legacy-war.md:883`
 
 > IT'S A HOLO OF YOU, ME, AND YOUR FATHER -- TOGETHER. I LOVE YOU, CADE...
@@ -306,8 +304,8 @@ Our notes: `notes/materials/010-legacy-war.md:883`
 > I'D HURRY IF I WERE YOU. DON'T THINK HE'S PLANNING A RETURN TRIP.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p128–129 (#6): gives Cade her ship and the locket (.
 Note (our notes, around the quote): p128–129 (#6): gives Cade her ship and the locket ("IT'S A HOLO OF YOU, ME, AND YOUR FATHER -- TOGETHER. I LOVE YOU, CADE..."). "AND WHEN YOU SEE KOL, TELL HIM I WILL ALWAYS LOVE HIM." · "THE LOCKET I GAVE HIM HAS A TRACER IN IT." · "I'D HURRY IF I WERE YOU. DON'T THINK HE'S PLANNING A RETURN TRIP."
-![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
-![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
+![p128 "HE'S EATING MY MIND... PLUNGE HIS BODY INTO A SUN."](../notes/materials/010-legacy-war-panels/p128-krayts-voice-plunge-into-sun.jpg)
+![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](../notes/materials/010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
 Our notes: `notes/materials/010-legacy-war.md:884`
 
 > CADE INTENDS TO FLY KRAYT'S BODY INTO THE SUN. KRAYT WON'T RETURN.
@@ -316,14 +314,14 @@ Our notes: `notes/materials/010-legacy-war.md:884`
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; p132–133 (#6).
 Label in our notes: · On Cade: "I..."
-![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
-![p107 "NYNA CALIXTE SENDS HER REGARDS."](010-legacy-war-panels/p107-corde-nyna-calixte-sends-regards.jpg)
-![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
-![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
-![p133 "HE'S NOT BREATHING!"](010-legacy-war-panels/p133-cade-not-breathing.jpg)
+![p53 Corde's "TWO TRUTHS"](../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
+![p107 "NYNA CALIXTE SENDS HER REGARDS."](../notes/materials/010-legacy-war-panels/p107-corde-nyna-calixte-sends-regards.jpg)
+![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](../notes/materials/010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
+![p132 Fel's funeral; the Triumvirate: Stazi, "JEDI MASTER K'KRUHK", Marasiah](../notes/materials/010-legacy-war-panels/p132-fel-funeral-triumvirate.jpg)
+![p133 "HE'S NOT BREATHING!"](../notes/materials/010-legacy-war-panels/p133-cade-not-breathing.jpg)
 Our notes: `notes/materials/010-legacy-war.md:885`
 
-- Note (summary from our notes, not a quotation): ![p53 Corde's "TWO TRUTHS"](010-legacy-war-panels/p053-corde-two-truths.jpg)
+- Note (summary from our notes, not a quotation): ![p53 Corde's "TWO TRUTHS"](../notes/materials/010-legacy-war-panels/p053-corde-two-truths.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p53 — `p053-corde-two-truths.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:887`
@@ -331,14 +329,14 @@ Our notes: `notes/materials/010-legacy-war.md:887`
 > NYNA CALIXTE SENDS HER REGARDS.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p107.
-Note (our notes, around the quote): ![p107 "NYNA CALIXTE SENDS HER REGARDS."](010-legacy-war-panels/p107-corde-nyna-calixte-sends-regards.jpg)
+Note (our notes, around the quote): ![p107 "NYNA CALIXTE SENDS HER REGARDS."](../notes/materials/010-legacy-war-panels/p107-corde-nyna-calixte-sends-regards.jpg)
 (*Panel: p107 — `p107-corde-nyna-calixte-sends-regards.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:890`
 
 > CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT.
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p129 Corde.
-Note (our notes, around the quote): ![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
+Note (our notes, around the quote): ![p129 Corde: "CADE KILLED KRAYT... THE LOCKET I GAVE HIM HAS A TRACER IN IT."](../notes/materials/010-legacy-war-panels/p129-corde-cade-killed-krayt-tracer.jpg)
 (*Panel: p129 — `p129-corde-cade-killed-krayt-tracer.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:893`
 
@@ -356,11 +354,11 @@ Our notes: `notes/materials/011-legacy-era-campaign-guide.md:133`
 > [fragment — full passage not on file]
 — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels; Nyna Calixte / Morrigan Corde (p168).
 Note (our notes, around the quote): Nyna Calixte / Morrigan Corde (p168): "in charge of the largest spy and information network in the galaxy"; she "has resurrected her alter ego to rescue her son from the clutches of Darth Krayt". CL 15; Ref 33; hp 77; Destiny 3; Force 7; DS 8. No Force stats.
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed (panel)](011-legacy-era-campaign-guide-panels/p168-calixte.jpg)
-![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed](011-legacy-era-campaign-guide-panels/quotes/cg-p168-has-resurrected-her-alter-ego-to.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed (panel)](../notes/materials/011-legacy-era-campaign-guide-panels/p168-calixte.jpg)
+![Quote image: Legacy Era Campaign Guide (WotC 2009), p168 — full quote as printed](../notes/materials/011-legacy-era-campaign-guide-panels/quotes/cg-p168-has-resurrected-her-alter-ego-to.jpg)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:711`
 
-- Note (summary from our notes, not a quotation): ![p168 Nyna Calixte (Morrigan Corde)](011-legacy-era-campaign-guide-panels/p168-calixte.jpg)
+- Note (summary from our notes, not a quotation): ![p168 Nyna Calixte (Morrigan Corde)](../notes/materials/011-legacy-era-campaign-guide-panels/p168-calixte.jpg)
   — Source: *Legacy Era Campaign Guide* (WotC 2009): power-scaling notes with panels.
 (*Panel: p168 Nyna Calixte (Morrigan Corde) — `p168-calixte.jpg`*)
 Our notes: `notes/materials/011-legacy-era-campaign-guide.md:721`
@@ -385,16 +383,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:52`
 > AND TO THINK I'D GIVEN ALL THIS UP. *(p79)*
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 1. Corde vs Torlin and the Wheel gang. p72 (#9)–p79 (#9) [009 p211–218]. Torlin starts the brawl: "LET'S JUST SKIP THE OPENING RITUAL." (p73). Corde had set the gang on him: "OF COURSE... I DID! NEEDED... TO MAKE CONTACT!" Torlin strangles her: "DON'T BELIEVE YOU. CAN'T TAKE CHANCES." "GOOD-BYE." (p78). She shocks him unconscious with her gauntlet: "AND TO THINK I'D GIVEN ALL THIS UP." (p79).
-![p78 Torlin strangles Corde](012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
-![p79 Corde shocks Torlin](012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
+![p78 Torlin strangles Corde](../notes/materials/012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
+![p79 Corde shocks Torlin](../notes/materials/012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:363`
 
-- Note (summary from our notes, not a quotation): ![p78 Torlin strangles Corde](012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
+- Note (summary from our notes, not a quotation): ![p78 Torlin strangles Corde](../notes/materials/012-legacy-vol-2-shards-panels/p078-torlin-strangles-corde.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p78 — `p078-torlin-strangles-corde.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:365`
 
-- Note (summary from our notes, not a quotation): ![p79 Corde shocks Torlin](012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
+- Note (summary from our notes, not a quotation): ![p79 Corde shocks Torlin](../notes/materials/012-legacy-vol-2-shards-panels/p079-corde-shocks-torlin.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p79 — `p079-corde-shocks-torlin.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:368`
@@ -407,10 +405,10 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:368`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels; 2. Torlin's Force status. p62 (#9), Calixte.
 Note (our notes, around the quote): 2. Torlin's Force status. p62 (#9), Calixte: "HER FOREMOST AGENT IS JOR TOLIN [sic]. HE WAS RAISED ON KORRIBAN AND TRAINED TO BE A SITH BUT LACKED SUFFICIENT FORCE SENSITIVITY." · p81 (#10), Corde: "FORCE SENSITIVE. TRAINED ON KORRIBAN BY THE SITH -- THOUGH NOT STRONG ENOUGH IN THE FORCE TO BE TRULY SITH." · "SITH AT HEART, THOUGH, AND GOOD AT WHAT YOU DO".
-![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+![p62 "JOR TOLIN" dossier](../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:371`
 
-- Note (summary from our notes, not a quotation): ![p62 "JOR TOLIN" dossier](012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
+- Note (summary from our notes, not a quotation): ![p62 "JOR TOLIN" dossier](../notes/materials/012-legacy-vol-2-shards-panels/p062-jor-tolin-dossier.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p62 — `p062-jor-tolin-dossier.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:373`
@@ -419,16 +417,16 @@ Our notes: `notes/materials/012-legacy-vol-2-shards.md:373`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 Context: 3. Corde kills Torlin with a pre-planted nerve toxin. p93 (#10)–p98 (#10) [009 p232–237]
-![p94 "THIS IS 'LATER.'" / "MURGLAK"](012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
-![p97 nerve toxin](012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
+![p94 "THIS IS 'LATER.'" / "MURGLAK"](../notes/materials/012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
+![p97 nerve toxin](../notes/materials/012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:376`; `notes/materials/009-legacy-book-1.md:965`
 
-- Note (summary from our notes, not a quotation): ![p94 "THIS IS 'LATER.'" / "MURGLAK"](012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
+- Note (summary from our notes, not a quotation): ![p94 "THIS IS 'LATER.'" / "MURGLAK"](../notes/materials/012-legacy-vol-2-shards-panels/p094-murglak-sniper-duel.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p94 — `p094-murglak-sniper-duel.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:379`
 
-- Note (summary from our notes, not a quotation): ![p97 nerve toxin](012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
+- Note (summary from our notes, not a quotation): ![p97 nerve toxin](../notes/materials/012-legacy-vol-2-shards-panels/p097-corde-nerve-toxin.jpg)
   — Source: Legacy Volume 2, *Shards* (TPB): power-scaling notes with panels.
 (*Panel: p97 — `p097-corde-nerve-toxin.jpg`*)
 Our notes: `notes/materials/012-legacy-vol-2-shards.md:382`
@@ -450,10 +448,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:449`
 > "I SIMPLY WALK IN." · "THE VONG BUGS ARE FORCE NEUTRAL. WITH LUCK, ANY SITH WHO DOES GIVE ME A GLANCE WILL SIMPLY THINK I'M VERY SKILLED AT SHIELDING MY THOUGHTS." · "MY SOURCES THAT SUPPLIED ME WITH THE VONG BUGS ALSO PROVIDED A SCHEMATIC OF THE TEMPLE FROM THE JEDI DAYS."
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Context: 2. Walks into the Sith Temple disguised; releases Force-neutral Vong bugs. p86 (#17) [009 p387]
-![p86 Corde walks into the Temple](013-legacy-vol-3-claws-of-the-dragon-panels/p086-corde-walks-into-temple-vong-bugs.jpg)
+![p86 Corde walks into the Temple](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p086-corde-walks-into-temple-vong-bugs.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:451`; `notes/materials/009-legacy-book-1.md:968`
 
-- Note (summary from our notes, not a quotation): ![p86 Corde walks into the Temple](013-legacy-vol-3-claws-of-the-dragon-panels/p086-corde-walks-into-temple-vong-bugs.jpg)
+- Note (summary from our notes, not a quotation): ![p86 Corde walks into the Temple](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p086-corde-walks-into-temple-vong-bugs.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p86 — `p086-corde-walks-into-temple-vong-bugs.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:454`
@@ -464,7 +462,7 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:454`
 > [fragment — full passage not on file]
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 3. Rocketpack assault; shoots Krayt off Cade through the window. p120–122, p132 (#19). "MINE INVOLVES A FAST RIDE AND A BIG BLASTER." (p120) · "GET AWAY FROM MY SON!" (p132). See Krayt 8.
-![p132 Corde shoots Krayt off Cade](013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
+![p132 Corde shoots Krayt off Cade](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p132-corde-shoots-krayt.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:457`
 
 > I REMEMBER WHEN KOL SKYWALKER FIRST BROUGHT HIS SON TO THE TEMPLE ON OSSUS. THAT'S THEM.
@@ -472,10 +470,10 @@ Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:457`
 > CORDE'S AN OLD PRO -- DID HER JOB WELL.
 — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 Note (our notes, around the quote): 4. Reveal: Corde is Calixte. p56–59 (Corde to the crew: "I'M HIS MOTHER."; Chak: "I REMEMBER WHEN KOL SKYWALKER FIRST BROUGHT HIS SON TO THE TEMPLE ON OSSUS. THAT'S THEM."), p82 (codenames "HAZARD" and "LEGATE"), p136 (to Cade: "YOUR MOTHER." · "NO, YOU WON'T."), p138–141 (Calixte in the shower, a green garment hung outside; Veed: "CORDE'S AN OLD PRO -- DID HER JOB WELL."; alone with the Kol hologram: "RUN.").
-![p141 Calixte with the hologram: "RUN."](013-legacy-vol-3-claws-of-the-dragon-panels/p141-calixte-run-hologram.jpg)
+![p141 Calixte with the hologram: "RUN."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p141-calixte-run-hologram.jpg)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:459`
 
-- Note (summary from our notes, not a quotation): ![p141 Calixte with the hologram: "RUN."](013-legacy-vol-3-claws-of-the-dragon-panels/p141-calixte-run-hologram.jpg)
+- Note (summary from our notes, not a quotation): ![p141 Calixte with the hologram: "RUN."](../notes/materials/013-legacy-vol-3-claws-of-the-dragon-panels/p141-calixte-run-hologram.jpg)
   — Source: Legacy Volume 3, *Claws of the Dragon* (TPB): power-scaling notes with panels.
 (*Panel: p141 — `p141-calixte-run-hologram.jpg`*)
 Our notes: `notes/materials/013-legacy-vol-3-claws-of-the-dragon.md:461`

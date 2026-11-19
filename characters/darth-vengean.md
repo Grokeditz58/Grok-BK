@@ -15,31 +15,26 @@
 > [fragment — full passage not on file]
 — Source: The Sith; Darth Marr; Darth Vengean; Darth Decimus — Spheres of Influence.
 Note (our notes, around the quote): Darth Marr; Darth Vengean; Darth Decimus — Spheres of Influence: "DEFENSE OF THE EMPIRE … Currently controlled by Darth Marr … MILITARY OFFENSE … Since the end of the Great War, Darth Vengean has been consolidating this sphere's power in anticipation of the next onslaught against the Republic. MILITARY STRATEGY … When the Empire plotted to seize Corellia, Darth Decimus organized this sphere to orchestrate the planet's occupation." Source: The Old Republic Encyclopedia, p.172
-![Quote image: The Old Republic Encyclopedia, p.172 — full quote as printed](quotes/tore-p172-defense-of-the-empire-currently-controlled.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:351`
 
 > Deceptive spymaster, calculating diplomat, and a powerful Sith Lord aspiring to join the Dark Council, the manipulative Darth Baras has served many vital roles in the Empire. Baras first honed his powers with the dark side of the Force under the instruction of his Master, Darth Vengean. But where Vengean relished brute force, Baras favored tearing down his opponents through cunning and sabotage.
 — Source: The Sith; Darth Baras — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras — Darth Baras (top-right): "Deceptive spymaster, calculating diplomat, and a powerful Sith Lord aspiring to join the Dark Council, the manipulative Darth Baras has served many vital roles in the Empire. Baras first honed his powers with the dark side of the Force under the instruction of his Master, Darth Vengean. But where Vengean relished brute force, Baras favored tearing down his opponents through cunning and sabotage." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-deceptive-spymaster-calculating-diplomat-and-a.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:388`
 
 > Determined to seize his Master's Dark Council seat, Darth Baras set a plan in motion to hasten Vengean's downfall. His plot would take years, starting as Baras himself officiated the peace talks that ultimately ended the war.
 — Source: The Sith; Darth Baras — Darth Baras (top-right).
 Note (our notes, around the quote): Darth Baras — Darth Baras (top-right): "Determined to seize his Master's Dark Council seat, Darth Baras set a plan in motion to hasten Vengean's downfall. His plot would take years, starting as Baras himself officiated the peace talks that ultimately ended the war." Source: The Old Republic Encyclopedia, p.175, sidebar
-![Quote image: The Old Republic Encyclopedia, p.175 — full quote as printed](quotes/tore-p175-determined-to-seize-his-master-s.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:394`
 
 > But when Darth Baras secretly betrays his Master and leads Vengean's flagship into a Republic ambush, Vengean loses face in the Empire. On Darth Baras's bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth Baras claims his former Master's Dark Council seat and the galaxy erupts once more into open warfare.
 — Source: The Sith.
 Note (our notes, around the quote): Emperor's Wrath (Sith Warrior); Darth Baras; Darth Vengean — Plan Zero (top-right): "But when Darth Baras secretly betrays his Master and leads Vengean's flagship into a Republic ambush, Vengean loses face in the Empire. On Darth Baras's bidding, the warrior defeats Darth Vengean in a ferocious duel in the Citadel of Dromund Kaas. When Vengean falls, Darth Baras claims his former Master's Dark Council seat and the galaxy erupts once more into open warfare." Source: The Old Republic Encyclopedia, p.179, sidebar
-![Quote image: The Old Republic Encyclopedia, p.179 — full quote as printed](quotes/tore-p179-but-when-darth-baras-secretly-betrays.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/05-sith.md:436`
 
 > Dromund Kaas is the heart of the Empire. It beats with the blood of millions in anticipation of war.
 — Source: Species, technology, planets and the future; Darth Vengean — Dromund Kaas pull-quote.
 Note (our notes, around the quote): Darth Vengean — Dromund Kaas pull-quote: ""Dromund Kaas is the heart of the Empire. It beats with the blood of millions in anticipation of war." Darth Vengean, Dark Council member" Source: The Old Republic Encyclopedia, p.302
-![Quote image: The Old Republic Encyclopedia, p.302 — full quote as printed](quotes/tore-p302-dromund-kaas-is-the-heart-of.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:322`
 
 # Debate and forum claims (unverified)

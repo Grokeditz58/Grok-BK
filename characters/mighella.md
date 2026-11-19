@@ -16,7 +16,6 @@
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Mighella: "Garyn surrounded himself with the strongest Vigos and even chose the Dathomir Witch Mighella as his personal bodyguard." Source: The Complete Star Wars Encyclopedia, Vol. I, p.326
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.326 — full quote as printed](quotes/v1-p326-garyn-surrounded-himself-with-the-strongest.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/08-v1-scan-321-360.md:140`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -28,13 +27,11 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > Mighella One of the more powerful Witches of Dathomir, she was taken from Dathomir by Alexi Garyn, the leader of the criminal organization Black Sun, to serve as his personal bodyguard on Ralltiir.
 — Source: scan pages 281–320; Mighella — entry/section: Mighella.
 Note (our notes, around the quote): Mighella — entry/section: Mighella: "Mighella One of the more powerful Witches of Dathomir, she was taken from Dathomir by Alexi Garyn, the leader of the criminal organization Black Sun, to serve as his personal bodyguard on Ralltiir." Source: The Complete Star Wars Encyclopedia, Vol. II, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.312 — full quote as printed](quotes/v2-p312-mighella-one-of-the-more-powerful.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:311`
 
 > She used a combination of Force lightning and other dark side tactics to keep Maul at bay until he revealed that he was, in fact, the apprentice to Darth Sidious.
 — Source: scan pages 281–320; Mighella; Darth Maul; Palpatine (Darth Sidious) — entry/section: Mighella.
 Note (our notes, around the quote): Mighella; Darth Maul; Palpatine (Darth Sidious) — entry/section: Mighella: "She used a combination of Force lightning and other dark side tactics to keep Maul at bay until he revealed that he was, in fact, the apprentice to Darth Sidious." Source: The Complete Star Wars Encyclopedia, Vol. II, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.312 — full quote as printed](quotes/v2-p312-she-used-a-combination-of-force.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan-281-320.md:313`
 
 ## Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–162)
@@ -42,7 +39,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/07-v2-scan
 > Approximately six months before the Trade Federation blockade of Naboo, Garyn, his Dathomiri assassin Mighella, and all his Vigos were killed by the Sith assassin Darth Maul.
 — Source: Sourcebooks/Coruscant and the Core Worlds.pdf [Star Wars Roleplaying Game; Darth Maul; Mighella — entry/section: Coruscant and the Core Worlds.
 Note (our notes, around the quote): Darth Maul; Mighella — entry/section: Coruscant and the Core Worlds: "Approximately six months before the Trade Federation blockade of Naboo, Garyn, his Dathomiri assassin Mighella, and all his Vigos were killed by the Sith assassin Darth Maul." Source: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.130
-![Quote image: *Coruscant and the Core Worlds* (SWRPG d20 Revised Core), scan p.130 — full quote as printed](quotes/d665-s130-approximately-six-months-before-the-trade.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/665-coruscant-and-the-core-worlds-scan-121-162.md:77`
 
 ## Star Wars Insider #122 (2011)

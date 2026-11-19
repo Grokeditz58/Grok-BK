@@ -18,7 +18,6 @@ Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:294`
 > The Wookiee loyalty is legendary. When it most matters, I am sure the Republic can count on their allegiance.
 — Source: Star Wars Insider #71 (2003); Kai Justiss — entry/section: HoloNet News: Kai Justiss on Kashyyyk.
 Note (our notes, around the quote): Kai Justiss — entry/section: HoloNet News: Kai Justiss on Kashyyyk: ""The Wookiee loyalty is legendary. When it most matters, I am sure the Republic can count on their allegiance." —Kai Justiss, Star Wars Insider 71, p. 57" Source: *Star Wars Insider #71* (2003), scan p.57
-![Quote image: *Star Wars Insider #71* (2003), scan p.57 — full quote as printed](quotes/ins071-s57-the-wookiee-loyalty-is-legendary-when.jpg)
 Our notes: `notes/materials/038-star-wars-insider/071-ins071.md:298`
 
 ## Star Wars Insider #84 (2005)

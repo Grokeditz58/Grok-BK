@@ -15,7 +15,6 @@
 > [fragment — full passage not on file]
 — Source: Species, technology, planets and the future; Revan — Rakata data box.
 Note (our notes, around the quote): Revan — Rakata data box: "KEY CREATIONS: The Star Forge, the Foundry, The Tomb on Belsavis KNOWN SURVIVORS: Soa, the Infernal One (warlord); Gorshaa (Belsavis warden)" Source: The Old Republic Encyclopedia, p.270
-![Quote image: The Old Republic Encyclopedia, p.270 — full quote as printed](quotes/tore-p270-key-creations-the-star-forge-the.jpg)
 Our notes: `notes/materials/025-tor-encyclopedia/07-species-planets-future.md:128`
 
 # Debate and forum claims (unverified)

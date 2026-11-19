@@ -36,7 +36,6 @@ Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-001-06
 > “Mix! You swore you'd kill me! You swore!”
 — Source: Star Wars Gamer/Star Wars Gamer 07.pdf [Star Wars Roleplaying Game (d20,; Byrch Dyshkava — entry/section: The Padawan wakes in Doc's care.
 Note (our notes, around the quote): Byrch Dyshkava — entry/section: The Padawan wakes in Doc's care: "“Mix! You swore you'd kill me! You swore!”" Source: *Star Wars Gamer 07* (SWRPG d20), scan p.68
-![Quote image: *Star Wars Gamer 07* (SWRPG d20), scan p.68 — full quote as printed](quotes/d056-s68-mix-you-swore-youd-kill-me.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/056-star-wars-gamer-07-scan-061-108.md:55`
 
 ## Star Wars Insider #29 (1996)

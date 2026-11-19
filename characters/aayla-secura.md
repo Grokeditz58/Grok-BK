@@ -33,41 +33,37 @@ Our notes: `notes/materials/022-dark-lord-trilogy/labyrinth-of-evil-notes.md:106
 > Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Quinlan Vos; Tholme; Volfe Karkko; Aayla Secura — Quinlan kills Volfe Karkko: "Quinlan Vos, with help from his former Master Tholme, killed Karkko and freed Aayla Secura from his Anzati spell." Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-quinlan-kills-volfe-karkko.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:150`
 
 > Quinlan Vos and Aayla Secura defeated the two Morgukai and freed the young heir.
 — Source: Part Two: The Fall of the Republic; Quinlan Vos; Aayla Secura — Morgukai.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura — Morgukai: "Quinlan Vos and Aayla Secura defeated the two Morgukai and freed the young heir." Source: The New Essential Chronology, p.46
-![Quote image: The New Essential Chronology, p.46 — full quote as printed](quotes/nec-p46-morgukai.jpg)
+![Quote image: The New Essential Chronology, p.46 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p46-morgukai.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:152`
 
 > General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): General Grievous; Ki-Adi-Mundi; K'Kruhk; Shaak Ti; Aayla Secura — Grievous on Hypori: "General Grievous chose a key moment to attack Republic forces and nearly killed the Jedi Masters Ki-Adi-Mundi, K'Kruhk, Shaak Ti, and Aayla Secura." Source: The New Essential Chronology, p.62
-![Quote image: The New Essential Chronology, p.62 — full quote as printed](quotes/nec-p62-grievous-on-hypori.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:284`
 
 > Aayla, however, proved more resourceful than Aurra Sing had anticipated. In a lightsaber duel that became a test of wills, Aayla defeated the notorious mercenary and rescued the wounded Jedi.
 — Source: Part Two: The Fall of the Republic; Aayla Secura — Aayla defeats Aurra Sing.
 Note (our notes, around the quote): Aayla Secura — Aayla defeats Aurra Sing: "Aayla, however, proved more resourceful than Aurra Sing had anticipated. In a lightsaber duel that became a test of wills, Aayla defeated the notorious mercenary and rescued the wounded Jedi." Source: The New Essential Chronology, p.65
-![Quote image: The New Essential Chronology, p.65 — full quote as printed](quotes/nec-p65-aayla-defeats-aurra-sing.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:313`
 
 - Note (summary from our notes, not a quotation): Quinlan Vos; Aayla Secura — Honoghr: "By forcing Quinlan into a position where he might have to kill her, Aayla made him realize that his obsession with rooting out the "second Sith" might not be worth the choices he had made." Source: The New Essential Chronology, p.74
   — Source: Part Two: The Fall of the Republic.
-![Quote image: The New Essential Chronology, p.74 — full quote as printed](quotes/nec-p74-honoghr.jpg)
+![Quote image: The New Essential Chronology, p.74 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p74-honoghr.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:398`
 
 - Note (summary from our notes, not a quotation): Aayla Secura; Quinlan Vos — art caption: "Jedi Knight Aayla Secura and Jedi Master Quinlan Vos" Source: The New Essential Chronology, p.74, caption
   — Source: Part Two: The Fall of the Republic.
-![Quote image: The New Essential Chronology, p.74 — full quote as printed](quotes/nec-p74-caption-jedi-knight-aayla-secura-and.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:400`
 
 > On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee.
 — Source: Part Two: The Fall of the Republic.
 Note (our notes, around the quote): Aayla Secura; Barriss Offee; Ki-Adi-Mundi; Plo Koon; Stass Allie; Obi-Wan Kenobi; Yoda — Order 66: "On Felucia, Commander Bly and other clone troopers abandoned the effort to reverse the poisoning of the water supply, and killed Aayla Secura and Barriss Offee." Source: The New Essential Chronology, p.84
-![Quote image: The New Essential Chronology, p.84 — full quote as printed](quotes/nec-p84-order-66.jpg)
+![Quote image: The New Essential Chronology, p.84 — full quote as printed](../notes/materials/027-new-essential-chronology/quotes/nec-p84-order-66.jpg)
 Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the-republic.md:518`
 
 ## The Complete Star Wars Encyclopedia, Vol. I (A–G)
@@ -77,7 +73,6 @@ Our notes: `notes/materials/027-new-essential-chronology/02-part-two-fall-of-the
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Tholme; Aayla Secura: "A surprise attack by Tholme and Aayla Secura then destroyed the droid." Source: The Complete Star Wars Encyclopedia, Vol. I, p.50
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.50 — full quote as printed](quotes/v1-p50-a-surprise-attack-by-tholme-and.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:200`
 
 > The Chiss, along with Luke Skywalker and Mara Jade, were able to defeat Bearsh. Bearus,Chairman A humanoid who was leader of the once powerful carbonite-mining guild in the Em­ press Teta system some 4,000 years before the Galactic Civil War. Beast In the Mouth of the Mountains An immense arach­ nid creature on the Forest Moon of Endor feared by the Ewoks. During the Clone Wars, Aayla Secura came to Endor to investigate a deserted Separatist outpost that was attacked by the creature. The Ewoks asked for Aayla's help in slaying the beast, and she killed it by crushing it with stalactites. A record of her feat was painted on an Ewok canvas. Beast-Lord An honorific bestowed upon the traditional leader of a group of Onderonian beast-riders. Some 4,000 years before the Battle of Yavin, the Beast-Lord Oron Kira married Onderon's BD-3000 luxury droid 65 C])beast-riders Beedo (left) speaks with aJawa. Queen Galla, bringing peace between the city­ dwellers and the beast-riders. beast-riders Ancient Onderonians who, upon being cast out from the walled city of Iziz, learned to tame and ride the great beasts from the Dxun moon.
@@ -85,13 +80,11 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from research primary cse vol1 (text copy `research_primary_cse_vol1_pdf_45a954be6d`).)
 Note (our notes, around the quote): Aayla Secura: "The Ewoks asked for Aayla's help in slaying the beast, and she killed it by crushing it with stalactites." Source: The Complete Star Wars Encyclopedia, Vol. I, p.65
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.65 — full quote as printed](quotes/v1-p65-the-ewoks-asked-for-aaylas-help.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/01-v1-scan-041-080.md:327`
 
 > Jedi General Aayla Secura and the 327th Star Corps of clone troopers liberated them, and Jedi computer prodigy Ekria calculated that there was a chance to stop the spread of Shu Mai's toxins.
 — Source: scan pages 241–280; Aayla Secura. POV: Aayla Secura.
 Note (our notes, around the quote): Aayla Secura: "Jedi General Aayla Secura and the 327th Star Corps of clone troopers liberated them, and Jedi computer prodigy Ekria calculated that there was a chance to stop the spread of Shu Mai's toxins." Source: The Complete Star Wars Encyclopedia, Vol. I, p.262
-![Quote image: The Complete Star Wars Encyclopedia, Vol. I, p.262 — full quote as printed](quotes/v1-p262-jedi-general-aayla-secura-and-the.jpg)
 Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan-241-280.md:240`
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)
@@ -99,7 +92,6 @@ Our notes: `notes/materials/030-complete-star-wars-encyclopedia-vol-1/06-v1-scan
 > Vos and his fellow Jedi Aayla Secura saved Hentz and killed Zenex.
 — Source: scan pages 1–40; Quinlan Vos; Aayla Secura.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura: "Vos and his fellow Jedi Aayla Secura saved Hentz and killed Zenex." Source: The Complete Star Wars Encyclopedia, Vol. II, p.34
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.34 — full quote as printed](quotes/v2-p34-vos-and-his-fellow-jedi-aayla.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan-001-040.md:267`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -107,7 +99,6 @@ Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/00-v2-scan
 > Aayla Secura severed the antenna during her duel with Aurra Sing on Devaron.
 — Source: scan pages 81–120; Aayla Secura. POV: Aayla Secura.
 Note (our notes, around the quote): Aayla Secura: "Aayla Secura severed the antenna during her duel with Aurra Sing on Devaron." Source: The Complete Star Wars Encyclopedia, Vol. III, p.98
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.98 — full quote as printed](quotes/v3-p98-aayla-secura-severed-the-antenna-during.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/02-v3-scan-081-120.md:197`
 
 - Note (summary from our notes, not a quotation): Page contents: 1042 words, 30 paragraphs | headings/entries: Secura, Aayla; Secura, Nat; Sedesia; Sedrian
@@ -117,37 +108,31 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan
 > Vos killed Karkko, freeing Secura from his grasp.
 — Source: scan pages 121–160; Aayla Secura; Quinlan Vos; Volfe Karkko — entry/section: Secura, Aayla.
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos; Volfe Karkko — entry/section: Secura, Aayla: "Vos killed Karkko, freeing Secura from his grasp." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-vos-killed-karkko-freeing-secura-from.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:145`
 
 > Secura defeated the bounty hunter Aurra Sing on Devaron by slicing off the antenna that sprouted from Sing's head.
 — Source: scan pages 121–160; Aayla Secura — entry/section: Secura, Aayla.
 Note (our notes, around the quote): Aayla Secura — entry/section: Secura, Aayla: "Secura defeated the bounty hunter Aurra Sing on Devaron by slicing off the antenna that sprouted from Sing's head." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-secura-defeated-the-bounty-hunter-aurra.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:147`
 
 > Years later, Nat Secura suffered severe burns when Jabba the Hutt enslaved many natives of Ryloth, and Bib Fortuna brought him to Jabba's palace.
 — Source: scan pages 121–160; Aayla Secura — entry/section: Secura, Nat.
 Note (our notes, around the quote): Aayla Secura — entry/section: Secura, Nat: "Years later, Nat Secura suffered severe burns when Jabba the Hutt enslaved many natives of Ryloth, and Bib Fortuna brought him to Jabba's palace." Source: The Complete Star Wars Encyclopedia, Vol. III, p.134
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.134 — full quote as printed](quotes/v3-p134-years-later-nat-secura-suffered-severe.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/03-v3-scan-121-160.md:149`
 
 > Secura and her Jedi team were destroyed by the 327th Star Corps on Felucia after Sidious gave the command to execute Order 66.
 — Source: scan pages 201–240; Aayla Secura; Palpatine (Darth Sidious).
 Note (our notes, around the quote): Aayla Secura; Palpatine (Darth Sidious): "Secura and her Jedi team were destroyed by the 327th Star Corps on Felucia after Sidious gave the command to execute Order 66." Source: The Complete Star Wars Encyclopedia, Vol. III, p.206
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.206 — full quote as printed](quotes/v3-p206-secura-and-her-jedi-team-were.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/05-v3-scan-201-240.md:111`
 
 > The trail led to the prison world of Kiffex, where the Dark Jedi Volfe Karkko had enslaved Aayla Secura.
 — Source: scan pages 281–320; Volfe Karkko; Aayla Secura.
 Note (our notes, around the quote): Volfe Karkko; Aayla Secura: "The trail led to the prison world of Kiffex, where the Dark Jedi Volfe Karkko had enslaved Aayla Secura." Source: The Complete Star Wars Encyclopedia, Vol. III, p.312
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.312 — full quote as printed](quotes/v3-p312-the-trail-led-to-the-prison.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/07-v3-scan-281-320.md:315`
 
 > Vos intervened before she could pull the trigger, and Aayla Secura killed Zenex.
 — Source: scan pages 361–385; Quinlan Vos; Aayla Secura.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura: "Vos intervened before she could pull the trigger, and Aayla Secura killed Zenex." Source: The Complete Star Wars Encyclopedia, Vol. III, p.371
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.371 — full quote as printed](quotes/v3-p371-vos-intervened-before-she-could-pull.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/09-v3-scan-361-385.md:154`
 
 ## Sourcebooks/Secrets of Tatooine.pdf [Star Wars Roleplaying Game (d20, 2000)] (scan pages 1–60)
@@ -176,14 +161,12 @@ Our notes: `notes/materials/037-sw-d20-folder/482-10-28-04-priorities.md:10`
 — Source: Living Force Campaign/Articles/Year 4/10:28:04 - Priorities.pdf [Star War; Aayla Secura — entry/section: Aayla Secura.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard priorities by august and cynthia hahn pdf x.txt (text copy `MEGA_Sw_wizard_priorities_by_august_and_cynthia_hahn_pdf_x`).)
 Note (our notes, around the quote): Aayla Secura — entry/section: Aayla Secura: "Have you become a collector while I was away, Darrus?" Source: *10:28:04 - Priorities* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *10:28:04 - Priorities* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d482-s1-have-you-become-a-collector-while.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/482-10-28-04-priorities.md:12`
 
 > Near the Twi'lek's left hand, one of the fighter's two slave astromechs swiveled and beeped softly. That was R4-D1; R4-D2 was on the other side of the fighter's daggerlike hull, echoing its sibling's system noises. The chatter made the blue-skinned Jedi giggle. "Your big black ship is talking to itself again, Darrus." The Delta starfighter had been assigned to him by the Council on Coruscant, though its occasionally schizophrenic nature made him acutely aware at times of just why the production-line Delta 7s had only one astromech attached. The input from two droids was sometimes more than the flight computer could take and left the ship... unstable.
 — Source: Living Force Campaign/Articles/Year 4/10:28:04 - Priorities.pdf [Star War; Aayla Secura — entry/section: Aayla Secura.
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from Sw wizard priorities by august and cynthia hahn pdf x.txt (text copy `MEGA_Sw_wizard_priorities_by_august_and_cynthia_hahn_pdf_x`).)
 Note (our notes, around the quote): Aayla Secura — entry/section: Aayla Secura: "Your big black ship is talking to itself again, Darrus." Source: *10:28:04 - Priorities* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *10:28:04 - Priorities* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d482-s1-your-big-black-ship-is-talking.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/482-10-28-04-priorities.md:14`
 
 ## Living Force Campaign/Articles/Year 6/03:02:06 - Living Force - One Minute to Midnight.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)]
@@ -195,7 +178,6 @@ Our notes: `notes/materials/037-sw-d20-folder/532-03-02-06-living-force-one-minu
 > Someday, when you are as good a Jedi as me, you won't need this.
 — Source: Living Force Campaign/Articles/Year 6/03:02:06 - Living Force - One Minut; Aayla Secura — entry/section: Aayla Secura (recalled by Darrus Jeht).
 Note (our notes, around the quote): Aayla Secura — entry/section: Aayla Secura (recalled by Darrus Jeht): "Someday, when you are as good a Jedi as me, you won't need this." Source: *03:02:06 - Living Force - One Minute to Midnight* (SWRPG d20 Revised Core), scan p.1
-![Quote image: *03:02:06 - Living Force - One Minute to Midnight* (SWRPG d20 Revised Core), scan p.1 — full quote as printed](quotes/d532-s1-someday-when-you-are-as-good.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/532-03-02-06-living-force-one-minute.md:12`
 
 - Note (summary from our notes, not a quotation): Page contents: Priority One from the Council Hall; astromech kills comms; he feels Aayla die on Felucia; lift ambush; he kills the squad (hand-read)
@@ -215,7 +197,6 @@ Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-1
 > Some Twi'leks choose to separate their names because they do not feel that they belong to their clan anymore, such as in the case of Firith Olan, who turned his back on his clan to make his own fortune in the galaxy. Others have this separation forced upon them, as in the case of Bib Fortuna, whom the Una clan cast out for his depredations on his own people.
 — Source: Sourcebooks/Galactic Campaign Guide.pdf [Star Wars Roleplaying Game Revis; Bib Fortuna; Aayla Secura — entry/section: Twi'lek name separation.
 Note (our notes, around the quote): Bib Fortuna; Aayla Secura — entry/section: Twi'lek name separation: "Some Twi'leks choose to separate their names because they do not feel that they belong to their clan anymore, such as in the case of Firith Olan, who turned his back on his clan to make his own fortune in the galaxy. Others have this separation forced upon them, as in the case of Bib Fortuna, whom the Una clan cast out for his depredations on his own people." Source: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.134
-![Quote image: *Galactic Campaign Guide* (SWRPG d20 Revised Core), scan p.134 — full quote as printed](quotes/d666-s134-some-twileks-choose-to-separate-their.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/666-galactic-campaign-guide-scan-121-162.md:77`
 
 ## Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 61–120)
@@ -231,13 +212,11 @@ Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-wor
 > Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: Geonosis and the Outer Rim Worlds: "Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89 — full quote as printed](quotes/d667-s89-ultimately-tsyr-was-felled-by-quinlan.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:212`
 
 > Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura. After recuperating from that encounter and now fitted with a prosthetic right hand, Bok went on a mission to defeat the Jedi.
 — Source: Sourcebooks/Geonosis and the Outer Rim Worlds.pdf [Star Wars Roleplaying.
 Note (our notes, around the quote): Tsyr; Bok (Morgukai); Quinlan Vos; Aayla Secura — entry/section: Tsyr and Bok: "Ultimately, Tsyr was felled by Quinlan Vos at Fortress Kh'aris on Kintan; younger Bok scarcely survived a duel against Aayla Secura. After recuperating from that encounter and now fitted with a prosthetic right hand, Bok went on a mission to defeat the Jedi." Source: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89
-![Quote image: *Geonosis and the Outer Rim Worlds* (SWRPG d20 Revised Core), scan p.89 — full quote as printed](quotes/d667-s89-ultimately-tsyr-was-felled-by-quinlan-2.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/667-geonosis-and-the-outer-rim-worlds-scan-061-120.md:214`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
@@ -261,7 +240,6 @@ Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-
 > Accepted into the Jedi Order, Aayla grows to become highly skilled with a lightsaber, mastering the Ataru style many years earlier than expected, After overcoming amazing challenges— including a period of memory loss, rescuing Vos on Ord Mantell, and freeing Thoime from the clutches of the Morgukai—Aayla’s deeds convince the High Council to promote her to Jedi Knight.
 — Source: Sourcebooks/The Clone Wars Campaign Guide.pdf [Star Wars Roleplaying Game; Aayla Secura — entry/section: The Clone Wars Campaign Guide (Saga).
 Note (our notes, around the quote): Aayla Secura — entry/section: The Clone Wars Campaign Guide (Saga): "Accepted into the Jedi Order, Aayla grows to become highly skilled with a lightsaber, mastering the Ataru style many years earlier than expected, After overcoming amazing challenges— including a period of memory loss, rescuing Vos on Ord Mantell, and freeing Thoime from the clutches of the Morgukai—Aayla’s deeds convince the High Council to promote her to Jedi Knight." Source: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.135
-![Quote image: *The Clone Wars Campaign Guide* (SWRPG Saga Edition), scan p.135 — full quote as printed](quotes/d728-s135-accepted-into-the-jedi-order-aayla.jpg)
 Our notes: `notes/materials/037-sw-d20-folder/728-the-clone-wars-campaign-guide-scan-121-180.md:147`
 
 - Note (summary from our notes, not a quotation): Page contents: Aayla Secura stat block (CL 11; Twi'lek Jedi 8/Jedi Knight 3; Ataru; Dual Weapon Mastery I; 2 lightsabers). Saesee Tiin (Padawan of Omo Bouri; fanatical conviction; stern, introspective; formidable pilot). Art caption: Saesee Tiin. (hand-read)
@@ -330,13 +308,11 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:30`
 > Jedi Knight Aayla Secura was already a well-established character within the Dark Horse Star Wars comics. But on that day in 2002, a striking cover drawing of Aayla caught George's eye, and before long I found myself transformed through the magic of makeup and wardrobe from production assistant to Twi'lek Jedi Knight.
 — Source: Star Wars Insider #75 (2004); Aayla Secura — entry/section: Amy Allen on becoming Aayla.
 Note (our notes, around the quote): Aayla Secura — entry/section: Amy Allen on becoming Aayla: ""Jedi Knight Aayla Secura was already a well-established character within the Dark Horse Star Wars comics. But on that day in 2002, a striking cover drawing of Aayla caught George's eye, and before long I found myself transformed through the magic of makeup and wardrobe from production assistant to Twi'lek Jedi Knight." —Amy Allen, Star Wars Insider 75, p. 5" Source: *Star Wars Insider #75* (2004), scan p.5
-![Quote image: *Star Wars Insider #75* (2004), scan p.5 — full quote as printed](quotes/ins075-s5-jedi-knight-aayla-secura-was-already.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:32`
 
 > In Episode II, Aayla joins the ranks of those who wage war against the forces of evil, and as a Jedi Knight she exudes grace and dignity.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Aayla Secura — entry/section: Amy Allen on Aayla in Episode II: ""In Episode II, Aayla joins the ranks of those who wage war against the forces of evil, and as a Jedi Knight she exudes grace and dignity." —Amy Allen, Star Wars Insider 75, p. 5" Source: *Star Wars Insider #75* (2004), scan p.5
-![Quote image: *Star Wars Insider #75* (2004), scan p.5 — full quote as printed](quotes/ins075-s5-in-episode-ii-aayla-joins-the.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:34`
 
 - Note (summary from our notes, not a quotation): Page contents: Knightley continued: Bend It Like Beckham, watching English soccer while filming Pirates of the Caribbean. Sidebar on Amy Allen (Aayla Secura, Episodes I, II and III): from ILM production assistant to Aayla in the Episode I DVD's Orn Free Taa pod, fighting beside Mace Windu in Attack of the Clones, and girls dressing as Aayla at conventions. (hand-read)
@@ -349,7 +325,6 @@ Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:240`
 > Their impressive minds are absolutely comparable to their male counterparts. However, what makes my character unique is her ability to follow her heart. She dives right into a situation before thinking about the potential consequences.
 — Source: Star Wars Insider #75 (2004).
 Note (our notes, around the quote): Aayla Secura — entry/section: Amy Allen on what makes Aayla unique: ""They are tough and have an overwhelming sense of purpose in a male-dominated world," says Allen. "Their impressive minds are absolutely comparable to their male counterparts. However, what makes my character unique is her ability to follow her heart. She dives right into a situation before thinking about the potential consequences." —Amy Allen, Star Wars Insider 75, p. 38" Source: *Star Wars Insider #75* (2004), scan p.38
-![Quote image: *Star Wars Insider #75* (2004), scan p.38 — full quote as printed](quotes/ins075-s38-they-are-tough-and-have-an.jpg)
 Our notes: `notes/materials/038-star-wars-insider/075-ins075.md:242`
 
 ## Star Wars Insider #76 (2004)
@@ -368,7 +343,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:234`
 > [fragment — full passage not on file]
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura — entry/section: Not for Twi'leks: ""It's lunchtime," proclaims George, "but not for Twi'leks." —George Lucas, Star Wars Insider 77, p. 40" Source: *Star Wars Insider #77* (2004), scan p.40
-![Quote image: *Star Wars Insider #77* (2004), scan p.40 — full quote as printed](quotes/ins077-s40-its-lunchtime-proclaims-george-but-not.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:236`
 
 > Obi-Wan killed your father!
@@ -387,13 +361,11 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:516`
 > He thinks he can handle the situation as long as he uses what he has learned of the dark side to help win the war for the Republic.
 — Source: Star Wars Insider #77 (2004); Quinlan Vos; Aayla Secura — entry/section: A shadowed path.
 Note (our notes, around the quote): Quinlan Vos; Aayla Secura — entry/section: A shadowed path: ""Quin has been walking a shadowed path and has not admitted to himself that he is falling to the dark side," says artist Jan Duursema. "He thinks he can handle the situation as long as he uses what he has learned of the dark side to help win the war for the Republic." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-quin-has-been-walking-a-shadowed.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:518`
 
 > A clone's armor is visible and tangible. The Jedi's armor is the Force. Aayla's faith and trust in Quin seems to be part of her armor—or is it the flaw in it?
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: The Jedi's armor is the Force: ""A clone's armor is visible and tangible. The Jedi's armor is the Force. Aayla's faith and trust in Quin seems to be part of her armor—or is it the flaw in it?" —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-a-clones-armor-is-visible-and.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:520`
 
 > We knew there had to be a confrontation between them,
@@ -402,7 +374,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:520`
 > Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: Aayla had to open Quin's eyes: ""We knew there had to be a confrontation between them," says Duursema, speaking of the straight-arrow Jedi student and her deeply flawed mentor. "Aayla had to be the one to open Quin's eyes. She is very in tune with the light side of the Force, yet she has a deep understanding of the dark side since she once fell under the thrall of the Dark Anzati Jedi, Volfe Karkko." —Jan Duursema, Star Wars Insider 77, p. 82" Source: *Star Wars Insider #77* (2004), scan p.82
-![Quote image: *Star Wars Insider #77* (2004), scan p.82 — full quote as printed](quotes/ins077-s82-we-knew-there-had-to-be.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:522`
 
 > Aayla usually trusts her instincts, but her emotional attachment to her former Master is clouding her judgment,
@@ -411,7 +382,6 @@ Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:522`
 > Quin is part of her armor—her faith in him and all that he taught her protects her. Her attachment to him is also the flaw in her armor.
 — Source: Star Wars Insider #77 (2004).
 Note (our notes, around the quote): Aayla Secura; Quinlan Vos — entry/section: The flaw in her armor: ""Aayla usually trusts her instincts, but her emotional attachment to her former Master is clouding her judgment," says Duursema. "Quin is part of her armor—her faith in him and all that he taught her protects her. Her attachment to him is also the flaw in her armor." —Jan Duursema, Star Wars Insider 77, p. 83" Source: *Star Wars Insider #77* (2004), scan p.83
-![Quote image: *Star Wars Insider #77* (2004), scan p.83 — full quote as printed](quotes/ins077-s83-aayla-usually-trusts-her-instincts-but.jpg)
 Our notes: `notes/materials/038-star-wars-insider/077-ins077.md:531`
 
 ## Star Wars Insider #81 (2005)
@@ -497,7 +467,6 @@ Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:260`
 > I'm sorry she died like that, but it was cool to see her up there.
 — Source: Star Wars Insider #87 (2006); Aayla Secura — entry/section: Ostrander on Aayla's death.
 Note (our notes, around the quote): Aayla Secura — entry/section: Ostrander on Aayla's death: ""I'm sorry she died like that, but it was cool to see her up there." —John Ostrander, Star Wars Insider 87, p. 41" Source: *Star Wars Insider #87* (2006), scan p.41
-![Quote image: *Star Wars Insider #87* (2006), scan p.41 — full quote as printed](quotes/ins087-s41-im-sorry-she-died-like-that.jpg)
 Our notes: `notes/materials/038-star-wars-insider/087-ins087.md:262`
 
 ## Star Wars Insider #93 (2007)
@@ -595,7 +564,7 @@ Our notes: `notes/materials/038-star-wars-insider/157-insspecial2010.md:818`
 
 ## Star Wars: Obsession #1–5 (Dark Horse, Nov 2004 – Apr 2005)
 
-- Note (summary from our notes, not a quotation): ![Obi-Wan leaves New Coronet in Aayla Secura's borrowed Delta-7](panels/ob1-p24-delta7-departs.jpg)
+- Note (summary from our notes, not a quotation): ![Obi-Wan leaves New Coronet in Aayla Secura's borrowed Delta-7](../notes/materials/049-obsession/panels/ob1-p24-delta7-departs.jpg)
   — Source: Star Wars: Obsession: daily-image candidates.
 Our notes: `notes/materials/049-obsession/daily-image-candidates.md:19`
 

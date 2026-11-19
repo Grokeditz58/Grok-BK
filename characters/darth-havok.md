@@ -236,7 +236,7 @@ Our notes: `notes/materials/010-legacy-war.md:87`
 
 - Note (summary from our notes, not a quotation): Draco broken (p44–45). Havok breaks Draco with a staged illusion: a false Marasiah who is Talon in disguise. Draco names "TAIVAS".
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:98`
 
 - Note (summary from our notes, not a quotation): Released Krayt (p4), joins the Temple assault (p15–16), and plays the illusion "Marasiah" in Havok's breaking of Draco (p44–45, orange Sith eye).
@@ -251,7 +251,7 @@ Our notes: `notes/materials/010-legacy-war.md:560`
 
 - Note (summary from our notes, not a quotation): p14 (#1), Korriban dungeon:
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:585`
 
 > I. WILL. TELL. YOU. NOTHING!
@@ -262,7 +262,7 @@ Our notes: `notes/materials/010-legacy-war.md:585`
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): Lightning-torture blasts Draco out of a bacta tank that shatters around him. Draco: "I. WILL. TELL. YOU. NOTHING!" "I WILL DIE FIRST!"
 Context: p14 (#1), Korriban dungeon:
-![p14 Havok tortures Draco](010-legacy-war-panels/p014-havok-i-was-his-master.jpg) *(p14)*
+![p14 Havok tortures Draco](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg) *(p14)*
 Our notes: `notes/materials/010-legacy-war.md:586`
 
 > PUT MASTER DRACO BACK INTO THE BACTA TO HEAL. CAN'T HAVE HIM DYING BEFORE HE TELLS US HIS SECRETS.
@@ -270,18 +270,18 @@ Our notes: `notes/materials/010-legacy-war.md:586`
 > AND HE WILL TELL THOSE SECRETS. I WAS HIS MASTER WHEN I WAS AN IMPERIAL KNIGHT -- AND I KNOW WHERE MY FORMER APPRENTICE IS MOST VULNERABLE.
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Havok. POV: Havok.
 Context: p14 (#1), Korriban dungeon:
-![p14 Havok tortures Draco](010-legacy-war-panels/p014-havok-i-was-his-master.jpg) *(p14)*
+![p14 Havok tortures Draco](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg) *(p14)*
 Our notes: `notes/materials/010-legacy-war.md:588`
 
 > I AM YOUR EMPRESS, NIIN! REMEMBER YOUR VOWS!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Note (our notes, around the quote): p44–45 (#2), rooftop flashback: Niin Force-pushes young Draco aside (open-hand blue sphere) while fighting Empress Elliah. Elliah: "I AM YOUR EMPRESS, NIIN! REMEMBER YOUR VOWS!"
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:590`
 
 - Note (summary from our notes, not a quotation): The breaking, in the present:
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p44 Havok: I ALLOWED YOU TO THINK YOU HAD KILLED ME](010-legacy-war-panels/p044-havok-breaks-draco-i-allowed-you.jpg) *(p44)*
+![p44 Havok: I ALLOWED YOU TO THINK YOU HAD KILLED ME](../notes/materials/010-legacy-war-panels/p044-havok-breaks-draco-i-allowed-you.jpg) *(p44)*
 Our notes: `notes/materials/010-legacy-war.md:591`
 
 > YOU WERE TOO WEAK TO SAVE EMPRESS ELLIAH, MY APPRENTICE! I ALLOWED YOU TO THINK YOU HAD KILLED ME THAT DAY. YOU SHOULD HAVE MADE CERTAIN I WAS DEAD!
@@ -289,7 +289,7 @@ Our notes: `notes/materials/010-legacy-war.md:591`
 > YOUR FAILURE IS COMPLETE -- THE PRINCESS WAS RETAKEN -- YOUR FRIENDS SLAIN. INFORMATION NOW -- OR I WILL KILL HER AS I KILLED HER MOTHER!
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 Context: The breaking, in the present:
-![p44 Havok: I ALLOWED YOU TO THINK YOU HAD KILLED ME](010-legacy-war-panels/p044-havok-breaks-draco-i-allowed-you.jpg) *(p44)*
+![p44 Havok: I ALLOWED YOU TO THINK YOU HAD KILLED ME](../notes/materials/010-legacy-war-panels/p044-havok-breaks-draco-i-allowed-you.jpg) *(p44)*
 Our notes: `notes/materials/010-legacy-war.md:593`; `notes/materials/010-legacy-war.md:1105`
 
 > THE JEDI HAVE...A HIDDEN TEMPLE...ON TAIVAS...
@@ -299,28 +299,28 @@ Our notes: `notes/materials/010-legacy-war.md:593`; `notes/materials/010-legacy-
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; Draco breaks (.
 Label in our notes: Havok: (two-handed lightning
 Context: The breaking, in the present:
-![p45 Draco breaks; Havok's lightning](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg) *(p45)*
+![p45 Draco breaks; Havok's lightning](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg) *(p45)*
 Our notes: `notes/materials/010-legacy-war.md:595`
 
 - Note (summary from our notes, not a quotation): Not in War: the Korriban Havok–Draco duel and Draco's "singlehandedly" cutting down Sith (W, cited LW#1). On p14 Draco is already a captive. Those scenes are earlier (*Legacy* #50 by Wookieepedia's account; not in this file).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:597`
 
 - Note (summary from our notes, not a quotation): Not on the page: Draco "mortally wounded" Niin. Havok's own claim is "I ALLOWED YOU TO THINK YOU HAD KILLED ME", and the flashback shows no wound.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
-![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
 Our notes: `notes/materials/010-legacy-war.md:598`
 
 > I WAS HIS MASTER...
 > [fragment — full passage not on file]
 — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels; ![p14 Havok.
-Note (our notes, around the quote): ![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+Note (our notes, around the quote): ![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 (*Panel: p14 — `p014-havok-i-was-his-master.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:600`
 
-- Note (summary from our notes, not a quotation): ![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
+- Note (summary from our notes, not a quotation): ![p45 Draco names Taivas; Havok's lightning; the illusion is Talon](../notes/materials/010-legacy-war-panels/p045-havok-lightning-draco-taivas.jpg)
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
 (*Panel: p45 — `p045-havok-lightning-draco-taivas.jpg`*)
 Our notes: `notes/materials/010-legacy-war.md:603`
@@ -343,7 +343,7 @@ Our notes: `notes/materials/010-legacy-war.md:930`
 - Note (summary from our notes, not a quotation): Havok: "LORD HAVOK" (p14).
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels. POV: Havok.
 Context: Others:
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1008`
 
 - Note (summary from our notes, not a quotation): Wyyrlok III, Saarai, Talon, Nihl, Stryfe, Havok, Maladi, Rauder and the Sith troopers.
@@ -353,7 +353,7 @@ Our notes: `notes/materials/010-legacy-war.md:1141`
 
 - Note (summary from our notes, not a quotation): Draco's Korriban last stand and the Havok duel (W, LW#1): not in War. Draco is already captive on p14.
   — Source: Legacy—War #1–6 (2010–11): power-scaling notes with panels.
-![p14 Havok: "I WAS HIS MASTER..."](010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
+![p14 Havok: "I WAS HIS MASTER..."](../notes/materials/010-legacy-war-panels/p014-havok-i-was-his-master.jpg)
 Our notes: `notes/materials/010-legacy-war.md:1203`
 
 - Note (summary from our notes, not a quotation): "Mortally wounded" Niin: not on the page. Havok: "I ALLOWED YOU TO THINK YOU HAD KILLED ME" (p44).

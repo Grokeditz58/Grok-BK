@@ -14,13 +14,11 @@
 > Poof died to keep the Infant from exploding, and the bounty hunters later returned the statue to Seylott.
 — Source: scan pages 81–120; Yarael Poof. POV: Yarael Poof.
 Note (our notes, around the quote): Yarael Poof: "Poof died to keep the Infant from exploding, and the bounty hunters later returned the statue to Seylott." Source: The Complete Star Wars Encyclopedia, Vol. II, p.101
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.101 — full quote as printed](quotes/v2-p101-poof-died-to-keep-the-infant.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/02-v2-scan-081-120.md:168`
 
 > General Khorda nearly succeeded in destroying the Infant near Coruscant's central power core, but was killed in a struggle with Jango Fett and Jedi Master Yarael Poof.
 — Source: scan pages 201–240; Jango Fett; Yarael Poof.
 Note (our notes, around the quote): Jango Fett; Yarael Poof: "General Khorda nearly succeeded in destroying the Infant near Coruscant's central power core, but was killed in a struggle with Jango Fett and Jedi Master Yarael Poof." Source: The Complete Star Wars Encyclopedia, Vol. II, p.215
-![Quote image: The Complete Star Wars Encyclopedia, Vol. II, p.215 — full quote as printed](quotes/v2-p215-general-khorda-nearly-succeeded-in-destroying.jpg)
 Our notes: `notes/materials/031-complete-star-wars-encyclopedia-vol-2/05-v2-scan-201-240.md:218`
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)
@@ -32,13 +30,11 @@ Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan
 > He could also use the Force to trigger fires by telekinetically exciting molecules of volatile substances.
 — Source: scan pages 41–80; Yarael Poof — entry/section: Poof, Yarael.
 Note (our notes, around the quote): Yarael Poof — entry/section: Poof, Yarael: "He could also use the Force to trigger fires by telekinetically exciting molecules of volatile substances." Source: The Complete Star Wars Encyclopedia, Vol. III, p.37
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.37 — full quote as printed](quotes/v3-p37-he-could-also-use-the-force.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:26`
 
 > About five years prior to the Clone Wars, Yarael Poof was killed by the Anoo-dat radical General Ashaar Khorda, stabbed by a vibroblade.
 — Source: scan pages 41–80; Yarael Poof — entry/section: Poof, Yarael.
 Note (our notes, around the quote): Yarael Poof — entry/section: Poof, Yarael: "About five years prior to the Clone Wars, Yarael Poof was killed by the Anoo-dat radical General Ashaar Khorda, stabbed by a vibroblade." Source: The Complete Star Wars Encyclopedia, Vol. III, p.37
-![Quote image: The Complete Star Wars Encyclopedia, Vol. III, p.37 — full quote as printed](quotes/v3-p37-about-five-years-prior-to-the.jpg)
 Our notes: `notes/materials/032-complete-star-wars-encyclopedia-vol-3/01-v3-scan-041-080.md:28`
 
 ## Power of the Jedi Sourcebook (d20, 2002)
@@ -50,7 +46,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > During the Stark Hyperspace Conflict, Master Yarael used battle meditation to ensure a Republic victory.
 — Source: Chapter Six: Jedi traditions and famous Jedi; Yarael Poof — entry/section: Yarael Poof, Jedi Master.
 Note (our notes, around the quote): Yarael Poof — entry/section: Yarael Poof, Jedi Master: "During the Stark Hyperspace Conflict, Master Yarael used battle meditation to ensure a Republic victory." Source: Power of the Jedi Sourcebook, p.115
-![Quote image: Power of the Jedi Sourcebook, p.115 — full quote as printed](quotes/potj-p115-during-the-stark-hyperspace-conflict-master.jpg)
 Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditions.md:177`
 
 ## The New Essential Guide to Characters (2002)
@@ -58,7 +53,6 @@ Our notes: `notes/materials/033-power-of-the-jedi-sourcebook/06-ch6-jedi-traditi
 > During the Stark Hyperspace Conflict, Yarael Poof's use of Jedi battle meditation helped ensure a victoryfor the Republic.
 — Source: scan pages 61–90; Yarael Poof. POV: Yarael Poof.
 Note (our notes, around the quote): Yarael Poof: "During the Stark Hyperspace Conflict, Yarael Poof's use of Jedi battle meditation helped ensure a victoryfor the Republic." Source: The New Essential Guide to Characters, p.92
-![Quote image: The New Essential Guide to Characters, p.92 — full quote as printed](quotes/negc-p92-during-the-stark-hyperspace-conflict-yarael.jpg)
 Our notes: `notes/materials/034-new-essential-guide-to-characters/02-negc-scan-061-090.md:180`
 
 ## Sourcebooks/Ultimate Alien Anthology.pdf [Star Wars Roleplaying Game Revised Core (d20, 2002)] (scan pages 121–180)
