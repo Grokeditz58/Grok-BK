@@ -1,4 +1,4 @@
-# Meetra Surik (the Jedi Exile)
+# Meetra Surik
 
 Evidence file for Meetra Surik, the Jedi Exile of Knights of the Old Republic II and Drew Karpyshyn's Revan, **Star Wars Legends** continuity.
 
@@ -9,6 +9,7 @@ Evidence file for Meetra Surik, the Jedi Exile of Knights of the Old Republic II
 - **†** after a source means the quote comes from a published source we could not check against the original. Treat those as secondhand.
 - Entries about the same fight are split: what she does well is under the feat sections, what goes wrong is under Limitations.
 - Sources read for this rebuild: Revan (Drew Karpyshyn, 2011), full text; the existing repo notes on Knights of the Old Republic II (kotor-2-notes, meetra-surik-quotes, the Exile player-character dialogue file). Game dialogue, guide and codex quotes come from those notes and carry †.
+- Game lines were checked against the StrategyWiki KOTOR II dialogue transcripts on file (Kreia, Visas, Atton, Handmaiden, Hanharr, HK-47, Disciple, Secret Academy, Restoration Zone, Rebuilt Jedi Enclave, Ravager and Trayus Core pages) and corrected where they differed. Lines not found in those transcripts are kept from the notes with †.
 - Narration about Meetra is under the feat sections it describes; guide and encyclopedia text is under Author and Guide Statements; what characters say to or about her is under Statements from Other Characters.
 - Canon material is not covered.
 - This file has 61 entries and 61 quotes (35 marked †).
@@ -367,10 +368,10 @@ You were a General in the Mandalorian Wars, Master. I have seen the records of y
 — HK-47 to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 32. Kreia tells the Exile: "Ah, the Mandalorians were right to fear you in battle."
+### 32. Kreia tells the Exile: "The Mandalorians were right to respect you on the field of battle."
 
 ```
-Ah, the Mandalorians were right to fear you in battle.
+The Mandalorians were right to respect you on the field of battle.
 
 — Kreia to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
@@ -450,12 +451,12 @@ Forgive me, Chodo, but the human - I could feel her suffering. I did not feel it
 — Moza and Chodo Habat, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 42. Visas Marr says she wishes to learn how the Exile "still walks when her spirit is nothing more than a shell."
+### 42. Visas Marr tells the Handmaiden she wishes to learn how the Exile still walks "when his spirit is nothing more than a shell" (the transcript on file gives the male-Exile wording).
 
 ```
-I wish to learn how it is she still walks when her spirit is nothing more than a shell... when you feel as though the Force, as if life itself, has abandoned you.
+I wish to learn how it is he still walks when his spirit is nothing more than a shell... when you feel as though the Force, as if life itself, has abandoned you.
 
-— Visas Marr, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Visas Marr to the Handmaiden, about the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
 ### 43. Kreia tells the Exile "You have grown strong in the Force - I can feel its touch upon you," and that being hounded since they met "has only made you stronger."
@@ -558,13 +559,12 @@ She was our last chance, and now she is dead. Now they have won.
 — Mical the Disciple to the Exile's companions, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
-### 54. DARK ECHOES OF MALACHOR: Zez-Kai Ell tells the Exile she feeds on the deaths she has caused and grows stronger, "You're like Malachor," and that dark places still echo within her.
+### 54. DARK ECHOES OF MALACHOR: Zez-Kai Ell tells the Exile she feeds on the deaths she has caused and grows stronger, "You're like Malachor."
 
 ```
-He's right. It's... all the deaths you've caused to get here. You feed on it, and you grow stronger. You're like Malachor... it's in you, it's what you are now. You must have noticed as you've fought across all these planets, killing hundreds, only to grow more and more powerful. Why do you think that was?
-You have almost completely restored your connection to the Force, but there are dark places, places that echo within you still.
+He's right. It's... all the death you've caused to get here. You feed on it, and you grow stronger. You're like Malachor... it's in you, it's what you are now. You must have noticed as you've fought across all these planets, killing hundreds - only to become more and more powerful. Why do you think that was?
 
-— Zez-Kai Ell to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
+— Master Zez-Kai Ell to the Exile, Knights of the Old Republic II: The Sith Lords (Obsidian Entertainment, 2004) †
 ```
 
 ### 55. STUNNED BY NIHILUS: The Complete Star Wars Encyclopedia says Darth Nihilus managed to stun the Exile before Visas Marr offered her life for hers.
