@@ -742,7 +742,7 @@ Luke blinked, then smiled at the others. “Don’t worry about me. I triggered 
 ```
 When you looked at Kyp Durron, you knew you were seeing an enormously powerful weapon. If only Jacen didn’t know how erratic that weapon had been.
 
-— Ylesia (Walter Jon Williams, 2002), ch. 1
+— Ylesia (Walter Jon Williams, 2002)
 ```
 
 ### 76. Cilghal, learning what Kyp has done, says his power is far greater than even they feared, which explains how he defeated Master Skywalker.
