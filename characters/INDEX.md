@@ -328,7 +328,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-bandon.md](darth-bandon.md) | Darth Bandon | KOTOR | untiered | 55 | 55 | 0 | 11 | Darth Bandon, Bandon | 55 | 31 | 5 | 36 |
 | [darth-bane.md](darth-bane.md) | Darth Bane | Ruusan | DEEP | 871 | 865 | 6 | 190 | Darth Bane | 206 | 207 | n/a | n/a |
 | [darth-baras.md](darth-baras.md) | Darth Baras | TOR | DEEP | 187 | 187 | 0 | 22 | Darth Baras, Baras | 187 | 120 | 18 | 27 |
-| [darth-caedus/](darth-caedus/README.md) | Darth Caedus / Jacen Solo | NJO–LotF | DEEP | 2370 | 2369 | 1 | 463 | Darth Caedus / Jacen Solo, Caedus, Jacen Solo, Jacen, TUF Jacen | 2570 | 1545 | n/a | n/a |
+| [darth-caedus.md](darth-caedus.md) | Darth Caedus / Jacen Solo | NJO–LotF | DEEP | 2370 | 2369 | 1 | 463 | Darth Caedus / Jacen Solo, Caedus, Jacen Solo, Jacen, TUF Jacen | 193 | 273 | n/a | n/a |
 | [darth-cognus.md](darth-cognus.md) | Darth Cognus | post-Ruusan | untiered | 8 | 8 | 0 | 1 | Darth Cognus, Cognus | 8 | 5 | 1 | 1 |
 | [darth-decimus.md](darth-decimus.md) | Darth Decimus | TOR | untiered | 5 | 5 | 0 | 0 | Darth Decimus, Decimus | 5 | 4 | 0 | 6 |
 | [darth-desolous.md](darth-desolous.md) | Darth Desolous | Old Republic | untiered | 36 | 36 | 0 | 0 | Darth Desolous, Desolous | 36 | 15 | 0 | 7 |
@@ -1604,7 +1604,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Luke Skywalker](luke-skywalker.md): 85
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 66
 - [Revan](revan.md): 132
-- [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2570
+- [Darth Caedus / Jacen Solo](darth-caedus.md): 193
 - [Yoda](yoda.md): 46
 - [Count Dooku / Darth Tyranus](count-dooku.md): 47
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2249
@@ -1637,7 +1637,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 66
 - [Revan](revan.md): 132
 - [Yoda](yoda.md): 46
-- [Darth Caedus / Jacen Solo](darth-caedus/README.md): 2370
+- [Darth Caedus / Jacen Solo](darth-caedus.md): 193
 - [Count Dooku / Darth Tyranus](count-dooku.md): 47
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
 - [General Grievous](general-grievous/README.md): 2198
