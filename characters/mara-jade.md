@@ -7,7 +7,7 @@ Evidence file for Mara Jade Skywalker, **Star Wars Legends** continuity, from he
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. `[…]` marks an omission inside a quote; quotes are extended to the full paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number; novellas, short stories and journals have no chapters and are cited by title only.
 - **†** after a source means the quote comes from a published source we could not check against the original. Treat those as secondhand.
-- Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
+- Entries about the same fight are split: what she does well is under the feat sections, what goes wrong is under Limitations.
 - Sources read for this rebuild: Allegiance; Choices of One; Sleight of Hand; Dark Force Rising; The Last Command; Specter of the Past; Vision of the Future; I, Jedi; Champions of the Force; Survivor's Quest; Jade Solitaire; New Jedi Order (Vector Prime, Dark Tide, Hero's Trial, Balance Point, Rebel Dream, Rebel Stand, Refugee, The Unifying Force); the Dark Nest trilogy; Legacy of the Force (Betrayal, Exile, Sacrifice, Inferno). Guide and magazine quotes (Galaxy Magazine, InQuest, The Dark Side Sourcebook, The New Jedi Order Sourcebook, The Essential Reader's Companion, The New Essential Chronology, and a Jade Solitaire game capsule) are kept from the old notes and marked † because we have no copy to check.
 - Narration and guide text is under Author and Guide Statements; what characters say or think is under Statements from Other Characters.
 - Canon material is not covered.

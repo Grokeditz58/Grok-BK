@@ -7,7 +7,7 @@ Evidence file for Jaina Solo (Jaina Solo Fel), **Star Wars Legends** continuity,
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. `[…]` marks an omission inside a quote; quotes are extended to the full paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number; novellas, short stories and journals have no chapters and are cited by title only.
 - **†** after a source means the quote comes from a published source we could not check against the original. Treat those as secondhand.
-- Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
+- Entries about the same fight are split: what she does well is under the feat sections, what goes wrong is under Limitations.
 - Sources read for this rebuild: the New Jedi Order novels (Vector Prime through The Unifying Force, with the Ylesia novella and its author interview); the Dark Nest trilogy; Legacy of the Force (Betrayal, Bloodlines, Tempest, Inferno, Revelation, Invincible); Dark Apprentice. Two quotes from Star Wars Gamer #8 and the short story Or Die Trying are kept from the old notes and marked † because we have no copy to check.
 - Narration and author interviews are under Author and Guide Statements; what characters say or think is under Statements from Other Characters.
 - Canon material is not covered.
