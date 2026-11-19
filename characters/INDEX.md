@@ -351,7 +351,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-mekhis.md](darth-mekhis.md) | Darth Mekhis | TOR | untiered | 5 | 5 | 0 | 0 | Darth Mekhis, Mekhis | 5 | 4 | 0 | 4 |
 | [darth-millennial.md](darth-millennial.md) | Darth Millennial | Old Republic | untiered | 2 | 2 | 0 | 0 | Darth Millennial | 2 | 0 | 0 | 0 |
 | [darth-mursto.md](darth-mursto.md) | Darth Mursto (NEW 2026-11-03) | Legacy (137 ABY) | untiered | 7 | 7 | 0 | 0 | Darth Mursto, Mursto | 7 | 4 | 0 | 3 |
-| [darth-nihilus.md](darth-nihilus.md) | Darth Nihilus | KOTOR II | DEEP | 466 | 466 | 0 | 32 | Darth Nihilus, Nihilus | 457 | 264 | n/a | n/a |
+| [darth-nihilus.md](darth-nihilus.md) | Darth Nihilus | KOTOR II | DEEP | 466 | 466 | 0 | 32 | Darth Nihilus, Nihilus | 48 | 48 | n/a | n/a |
 | [darth-nihl.md](darth-nihl.md) | Darth Nihl | Legacy | MASTERY (Legacy-era version only) | 325 | 325 | 0 | 18 | Darth Nihl, Nihl | 321 | 141 | 5 | 120 |
 | [darth-nostrem.md](darth-nostrem.md) | Darth Nostrem | TOR | untiered | 1 | 1 | 0 | 0 | Darth Nostrem, Nostrem | 1 | 0 | 0 | 0 |
 | [darth-nox.md](darth-nox.md) | Darth Nox (Sith Inquisitor) | TOR | DEEP | 111 | 110 | 1 | 12 | Darth Nox (Sith Inquisitor), Nox, Sith Inquisitor (SWTOR) | 111 | 60 | 1 | 40 |
