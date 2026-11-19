@@ -1612,7 +1612,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Exar Kun](exar-kun.md): 103
 - [Leia Organa Solo](leia-organa/README.md): 1975
 - [Darth Plagueis](darth-plagueis.md): 106
-- [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1838
+- [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 104
 - [Cade Skywalker](cade-skywalker/README.md): 1755
 - [Mace Windu](mace-windu.md): 144
 - [Darth Maul](darth-maul.md): 185
@@ -1643,7 +1643,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [General Grievous](general-grievous/README.md): 2198
 - [Exar Kun](exar-kun.md): 103
 - [Darth Plagueis](darth-plagueis.md): 106
-- [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 1849
+- [Vitiate / Valkorion / the Sith Emperor](vitiate/README.md): 104
 - [Cade Skywalker](cade-skywalker/README.md): 1766
 - [Mace Windu](mace-windu.md): 144
 - [Lord Scourge](lord-scourge/README.md): 1650
