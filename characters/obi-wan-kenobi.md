@@ -10,24 +10,26 @@ Evidence file for Obi-Wan Kenobi (Ben Kenobi), **Star Wars Legends** continuity,
 - Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
 - Sources read for this rebuild: the Revenge of the Sith, Attack of the Clones and The Phantom Menace novelizations; Star Wars: From the Adventures of Luke Skywalker; The Empire Strikes Back and Return of the Jedi novelizations; Kenobi (John Jackson Miller); Labyrinth of Evil; Rogue Planet; The Cestus Deception; Wild Space and the two Gambit novels (Karen Miller); Jedi Apprentice 1, 2, 4, 7, 8, 9, 12 and 13, and Jedi Apprentice Special Edition: Deceptions.
 - Narration and guide text is under Author and Guide Statements; what characters say or think is under Statements from Other Characters.
+- Backfill 2026-11-19: added Jedi Apprentice 3, 5, 6, 11, 14–18, The Followers and Darth Maul: Shadow Hunter scenes; d20 Core, Invasion of Theed, Revised Core, Revenge of the Sith web, Saga Core, Clone Wars Campaign Guide and Galaxy at War stat blocks; Complete Star Wars Encyclopedia, New Essential Chronology, New Essential Guide to Characters, Power of the Jedi Sourcebook and Star Wars Insider #62 statements. d20 stat blocks marked 'summarized in our notes' are condensed transcriptions of the stat values, not the printed layout, and carry †.
 - Canon material (including the Clone Wars TV series and the Obi-Wan Kenobi series) is not covered.
-- This file has 167 entries and 167 quotes (0 marked †).
+- This file has 221 entries and 223 quotes (28 marked †).
 
 ## Contents
 
 - [Overall Force Power](#overall-force-power) (10)
-- [Force Sense and Precognition](#force-sense-and-precognition) (12)
-- [Telekinesis](#telekinesis) (13)
-- [Telepathy and Mind Control](#telepathy-and-mind-control) (4)
+- [Force Sense and Precognition](#force-sense-and-precognition) (15)
+- [Telekinesis](#telekinesis) (14)
+- [Telepathy and Mind Control](#telepathy-and-mind-control) (5)
+- [Force Defense and Resistance](#force-defense-and-resistance) (3)
 - [Strength, Speed, Durability and Pain Tolerance](#strength-speed-durability-and-pain-tolerance) (1)
-- [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (29)
-- [Fights and Combat Feats](#fights-and-combat-feats) (27)
-- [Acrobatics and Agility](#acrobatics-and-agility) (13)
+- [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (31)
+- [Fights and Combat Feats](#fights-and-combat-feats) (35)
+- [Acrobatics and Agility](#acrobatics-and-agility) (17)
 - [Hunting, Tracking and Stealth](#hunting-tracking-and-stealth) (2)
-- [Skills, Training and Cunning](#skills-training-and-cunning) (5)
+- [Skills, Training and Cunning](#skills-training-and-cunning) (6)
 - [Statements from Other Characters](#statements-from-other-characters) (9)
-- [Author and Guide Statements](#author-and-guide-statements) (4)
-- [Limitations](#limitations) (38)
+- [Author and Guide Statements](#author-and-guide-statements) (26)
+- [Limitations](#limitations) (47)
 
 ## Overall Force Power
 
@@ -243,9 +245,33 @@ Obi-Wan assumed a defensive stance as Bruck lunged. He let the Force guide him a
 — Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 1
 ```
 
+### 23. On Vorzyd 4 he stands still in a dark room, sensing for an attacker.
+
+```
+Obi-Wan Kenobi stood perfectly still. He sensed no movement in the darkened room, yet his muscles were tensed, ready for attack. The only light came from the glowing blue blade of his lightsaber. The only discernible sounds were the hum of the blade and the Jedi's almost undetectable breathing. Obi-Wan had been standing in the same position, balanced on a thin rail, for nearly an hour. Still, he waited.
+
+— Jedi Apprentice 18: The Threat Within (Jude Watson, 2002), ch. 1
+```
+
+### 24. At the skycar crash site he senses "a powerful evil, a corruption" left behind by Darth Maul.
+
+```
+Still, he sensed something disturbing here. The sense of a powerful evil, a corruption. Obi-Wan glanced about him nervously. The street was mostly deserted and quiet, but it wasn’t a peaceful silence. Instead it bore a feeling of trepidation, of lurking danger. The temptation to snatch his lightsaber up and activate it was almost overwhelming. The combination of few street lights, towering buildings, and omnipresent cloud cover made it impossible to see more than a meter or two in any direction. An entire army could be surrounding him, invisible in the breathing darkness, poised to attack.
+
+— Darth Maul: Shadow Hunter (Michael Reaves, 2001), ch. 20
+```
+
+### 25. He meditates on the scene and senses the same corruption he felt in the street.
+
+```
+Obi-Wan knelt on the floor and allowed his senses to expand, meditating on the apparent events. The sense of corruption he’d felt before on the street came back strongly, as did the disturbances caused by many other beings—but it was all too muddled. Too much time had passed, too many people had been in and out. A Master such as Mace Windu could probably make sense of it—but Obi-Wan was not a Master. He wasn’t even a Jedi Knight yet.
+
+— Darth Maul: Shadow Hunter (Michael Reaves, 2001), ch. 26
+```
+
 ## Telekinesis
 
-### 23. With his starfighter's controls shut down by buzz droids, Obi-Wan closes his eyes and reaches into the Force, his mind following the mangled circuitry to the sublight engines' manual test board, and triggers a bench-test command: full reverse.
+### 26. With his starfighter's controls shut down by buzz droids, Obi-Wan closes his eyes and reaches into the Force, his mind following the mangled circuitry to the sublight engines' manual test board, and triggers a bench-test command: full reverse.
 
 ```
 Obi-Wan closed his eyes.
@@ -255,7 +281,7 @@ Reaching into the Force, his mind followed the starfighter’s mangled circuitry
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 24. Collapsing as if fainted, Obi-Wan lets the Force bring his lightsaber to his hand and ignite while his fall becomes a roll; the roll severs a bodyguard's leg and the Force brings him back to his feet.
+### 27. Collapsing as if fainted, Obi-Wan lets the Force bring his lightsaber to his hand and ignite while his fall becomes a roll; the roll severs a bodyguard's leg and the Force brings him back to his feet.
 
 ```
 The Force had let him collapse as though he’d suddenly fainted, then it brought his lightsaber from his belt to his hand and ignited it while he turned his fall into a roll; that roll carried his lightsaber through a crisp arc that severed the leg of one of the bodyguards, and as the Force brought Obi-Wan back to his feet, the Force also nudged the crippled bodyguard to topple sideways into the path of the blade and sent it clanging to the floor in two smoking, sparking pieces.
@@ -263,7 +289,7 @@ The Force had let him collapse as though he’d suddenly fainted, then it brough
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 25. With Anakin, Obi-Wan hurls whatever can be lifted from the floor or yanked from the walls, Force-pushing droids down while their blades hew through the rest.
+### 28. With Anakin, Obi-Wan hurls whatever can be lifted from the floor or yanked from the walls, Force-pushing droids down while their blades hew through the rest.
 
 ```
 Neither he nor Anakin was relying on lightsabers only. Calling on the Force, they hurled whatever could be lifted from the floor or yanked from the walls. Force-pushing four droids to the floor, hewing half a dozen more with his flashing blade, Anakin leapt from Obi-Wan’s side, landed on the head of a perplexed droid, and began to race toward the far side of the hall, using other heads as stepping-stones.
@@ -271,7 +297,7 @@ Neither he nor Anakin was relying on lightsabers only. Calling on the Force, the
 — Labyrinth of Evil (James Luceno, 2005), ch. 41
 ```
 
-### 26. Obi-Wan reaches and Anakin's lightsaber twists in the air into his hand; he poises both blades in a cross and says "The flaw of power is arrogance."
+### 29. Obi-Wan reaches and Anakin's lightsaber twists in the air into his hand; he poises both blades in a cross and says "The flaw of power is arrogance."
 
 ```
 Obi-Wan reached. Anakin’s lightsaber twisted in the air and flipped into his hand. He poised both blades in a cross before him. “The flaw of power is arrogance.”
@@ -279,7 +305,7 @@ Obi-Wan reached. Anakin’s lightsaber twisted in the air and flipped into his h
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 27. As Grievous fires his holdout blaster, Obi-Wan reaches with the Force: the electrostaff flips up to catch the bolt and whirls into his hand; he charges, catching every bolt with the spinning staff, and dents Grievous's stomach plate.
+### 30. As Grievous fires his holdout blaster, Obi-Wan reaches with the Force: the electrostaff flips up to catch the bolt and whirls into his hand; he charges, catching every bolt with the spinning staff, and dents Grievous's stomach plate.
 
 ```
 Obi-Wan … reached.
@@ -301,7 +327,7 @@ His following strike was a stiff stab into Grievous’s jointed stomach armor th
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 28. Hurled toward the precipice by Grievous, Obi-Wan connects with the stone through the Force as if anchored to it by a cable tether, slamming down onto the rock instead of going over the edge.
+### 31. Hurled toward the precipice by Grievous, Obi-Wan connects with the stone through the Force as if anchored to it by a cable tether, slamming down onto the rock instead of going over the edge.
 
 ```
 Grievous howled and dropped the staff to seize Obi-Wan with his three remaining arms. He lifted the Jedi Master over his head again and hurled him tumbling over the landing deck toward the precipice above the gloom-shrouded drop. Reaching into the Force, Obi-Wan was able to connect with the stone itself as if he were anchored to it with a cable tether; instead of hurtling over the edge he slammed down onto the rock hard enough to crush all breath from his lungs.
@@ -309,7 +335,7 @@ Grievous howled and dropped the staff to seize Obi-Wan with his three remaining 
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 29. In the Temple's holocomm center, Obi-Wan uses the Force to reach inside the recall beacon's mechanism and alter its pulse calibration, flipping the signal from "come home" to "run and hide" without any visible alteration.
+### 32. In the Temple's holocomm center, Obi-Wan uses the Force to reach inside the recall beacon's mechanism and alter its pulse calibration, flipping the signal from "come home" to "run and hide" without any visible alteration.
 
 ```
 In the main holocomm center of the Jedi Temple, high atop the central spire, Obi-Wan used the Force to reach deep within the shell of the recall beacon’s mechanism, subtly altering the pulse calibration to flip the signal from come home to run and hide. Done without any visible alteration, it would take the troopers quite a while to detect the recalibration, and longer still to reset it. This was all that could be done for any surviving Jedi: a warning, to give them a fighting chance.
@@ -317,7 +343,7 @@ In the main holocomm center of the Jedi Temple, high atop the central spire, Obi
 — Revenge of the Sith (Matthew Stover, 2005), ch. 19
 ```
 
-### 30. Unseen, Ben fractures the stone towers of the Pillars around Orrin, as if something invisible were pushing against the stones, bringing slabs crashing down until Orrin is pinned with a broken leg at Ben's feet.
+### 33. Unseen, Ben fractures the stone towers of the Pillars around Orrin, as if something invisible were pushing against the stones, bringing slabs crashing down until Orrin is pinned with a broken leg at Ben's feet.
 
 ```
 A cracking sound emanated from above. Reflexively, Orrin pointed his blasters upward. He’d been pounced on by Kenobi before—but the man wouldn’t get the drop on him again.
@@ -339,7 +365,7 @@ In the shadows, the cloaked figure knelt over Orrin. “I did tell you to turn b
 — Kenobi (John Jackson Miller, 2013), ch. 44
 ```
 
-### 31. When a krayt's tail shatters a pillar above a Tusken child, Ben halts half a ton of falling stone in midair "as if collected in an invisible basin" and shoves it harmlessly away.
+### 34. When a krayt's tail shatters a pillar above a Tusken child, Ben halts half a ton of falling stone in midair "as if collected in an invisible basin" and shoves it harmlessly away.
 
 ```
 It went for Ben and the Tusken child first, lashing out with its mighty tail. Orrin threw his arm in front of his face, petrified. He looked out to see Ben duck quickly, pushing the child to the ground as he did. The pillar the tail struck shattered, its pieces plummeting toward the man and child at its base. Ben started to move again. To grab the youngling, Orrin thought—
@@ -349,7 +375,7 @@ It went for Ben and the Tusken child first, lashing out with its mighty tail. Or
 — Kenobi (John Jackson Miller, 2013), ch. 45
 ```
 
-### 32. Falling from the Kamino platform, Obi-Wan uses the Force to throw the loose end of the wire binding his wrists over a crossbeam, stopping his fall.
+### 35. Falling from the Kamino platform, Obi-Wan uses the Force to throw the loose end of the wire binding his wrists over a crossbeam, stopping his fall.
 
 ```
 Obi-Wan used the Force to grab the trailing, loose end of the wire that still held him by the wrists, and he threw that end out, looping it over a crossbeam in the platform structure. His descent stopped with a sudden jerk.
@@ -357,7 +383,7 @@ Obi-Wan used the Force to grab the trailing, loose end of the wire that still he
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 18
 ```
 
-### 33. On Nar Shaddaa, Obi-Wan opens the cell door with a sideways shove of his hands, and with Anakin drops the Aqualish guards with punches, side kicks and Force pushes that send bodies sailing across the anteroom.
+### 36. On Nar Shaddaa, Obi-Wan opens the cell door with a sideways shove of his hands, and with Anakin drops the Aqualish guards with punches, side kicks and Force pushes that send bodies sailing across the anteroom.
 
 ```
 Anakin and Obi-Wan were standing by the door when the cell’s grime-encrusted illuminator faltered and died. Obi-Wan shoved his hands sideways through the air, and the door retracted.
@@ -369,7 +395,7 @@ The rest of the guards hurried out from behind the darkened console to counterat
 — Labyrinth of Evil (James Luceno, 2005), ch. 24
 ```
 
-### 34. Tumbling in a Coruscant terrorist blast, Obi-Wan summons the Force and wrenches his citibike aside just in time to avoid a burning two-seater, only to be struck from behind by a speeder bus.
+### 37. Tumbling in a Coruscant terrorist blast, Obi-Wan summons the Force and wrenches his citibike aside just in time to avoid a burning two-seater, only to be struck from behind by a speeder bus.
 
 ```
 Helplessly tumbling, Obi-Wan summoned the Force and wrenched his citibike aside just in time to avoid a burning two-seater … and was struck from behind by an out-of-control speeder bus laden with screaming passengers.
@@ -377,7 +403,7 @@ Helplessly tumbling, Obi-Wan summoned the Force and wrenched his citibike aside 
 — The Clone Wars: Wild Space (Karen Miller, 2008), ch. 5
 ```
 
-### 35. Obi-Wan calls on the Force to send a carved bust rocketing off a high shelf, missing V-Tarz by millimeters.
+### 38. Obi-Wan calls on the Force to send a carved bust rocketing off a high shelf, missing V-Tarz by millimeters.
 
 ```
 A carved bust of a serene-looking woman sat on a high shelf over them. Obi-Wan called on the Force. The bust rocketed to the edge of the shelf and flew off. It missed V-Tarz by millimeters and crashed to the floor, sending chips of marble everywhere. V-Tarz stared down at it in disbelief.
@@ -385,9 +411,17 @@ A carved bust of a serene-looking woman sat on a high shelf over them. Obi-Wan c
 — Jedi Apprentice 9: The Fight for Truth (Jude Watson, 2000), ch. 7
 ```
 
+### 39. He pulls his lightsaber and the Holocron to him with the Force, catches one in each hand, and knocks Norval's weapon away, shattering it.
+
+```
+That moment was all Obi-Wan needed. Reaching out with both hands, he used the Force to bring his lightsaber and the Holocron to him. He caught one in each hand as he leapt to his feet. Then, reigniting his lightsaber, he gracefully knocked Norval's weapon out of his hand and across the room. The crude handle shattered, and the interior crystals spilled across the floor.
+
+— Jedi Apprentice Special Edition: The Followers (Jude Watson, 2002), ch. 25
+```
+
 ## Telepathy and Mind Control
 
-### 36. At a Mos Eisley checkpoint, Kenobi makes a stormtrooper officer repeat his words: "These aren't the 'droids you're looking for," "He can go about his business," "Move along."
+### 40. At a Mos Eisley checkpoint, Kenobi makes a stormtrooper officer repeat his words: "These aren't the 'droids you're looking for," "He can go about his business," "Move along."
 
 ```
 Staring blankly back at him, the officer replied, as if it were self-evident, “I don’t need to see your identification.” His reaction was the opposite of Kenobi’s: his voice was normal, but his expression peculiar.
@@ -409,7 +443,7 @@ The expression of relief that spread across Luke’s face ought to have been as 
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 6
 ```
 
-### 37. After his death, Ben's voice rings in Luke's ears on the Death Star and speaks inside his head during the trench run: "Trust your feelings, Luke," "Luke … trust me."
+### 41. After his death, Ben's voice rings in Luke's ears on the Death Star and speaks inside his head during the trench run: "Trust your feelings, Luke," "Luke … trust me."
 
 ```
 A familiar, yet different voice rang in his ears—Ben’s voice. “Luke … listen!” was all it said.
@@ -429,7 +463,7 @@ Luke looked up through the canopy and smiled. But his smile faded as he turned b
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 12
 ```
 
-### 38. On Bandomeer, Obi-Wan bends the limited mind of an Imbat to his will, knowing he lacks the power to alter physical objects.
+### 42. On Bandomeer, Obi-Wan bends the limited mind of an Imbat to his will, knowing he lacks the power to alter physical objects.
 
 ```
 Obi-Wan summoned the Force. He knew he didn’t have the power to alter physical objects. But he was counting on the fact that the small, limited mind of an Imbat would bend to his will.
@@ -439,7 +473,7 @@ Obi-Wan summoned the Force. He knew he didn’t have the power to alter physical
 — Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 13
 ```
 
-### 39. Obi-Wan reaches into a boy's mind with the Force: "You admire the lightsaber, but do not want to possess it. You will tell us the information freely."
+### 43. Obi-Wan reaches into a boy's mind with the Force: "You admire the lightsaber, but do not want to possess it. You will tell us the information freely."
 
 ```
 No Jedi was ever willingly separated from his lightsaber. Obi-Wan reached out with the Force. He turned his attention to the boy's mind.
@@ -449,9 +483,43 @@ No Jedi was ever willingly separated from his lightsaber. Obi-Wan reached out wi
 — Jedi Apprentice 12: The Evil Experiment (Jude Watson, 2001), ch. 8
 ```
 
+### 44. On Coruscant, the Padawan seizes a lurker's will with the Force, though he is "by no means anywhere near as accomplished a practitioner" as Qui-Gon.
+
+```
+Before the lurker was fully aware that he was being probed, Obi-Wan seized his will. The Force, Master Qui-Gon had told him more than once, can have a strong influence on the weak-minded. Though Obi-Wan was by no means anywhere near as accomplished a practitioner as his tutor, it didn’t take much more than the skill of a novice to influence a mind as weak as this one.
+
+— Darth Maul: Shadow Hunter (Michael Reaves, 2001), ch. 20
+```
+
+## Force Defense and Resistance
+
+### 45. He steps out and easily deflects the guards' wild blaster shots.
+
+```
+The guards now fired blindly, unwilling to risk exposure by coming around the corner. Obi-Wan stepped out. He was easily able to deflect the wild shots with his lightsaber. Holding Tahl against his chest with one arm, Qui-Gon raised his lightsaber to catch any blaster fire that Obi-Wan was unable to deflect. Together they moved backward down the hallway toward the storage room.
+
+— Jedi Apprentice 5: The Defenders of the Dead (Jude Watson, 1999), ch. 11
+```
+
+### 46. As rocks fall, he follows Qui-Gon and deflects the falling rocks with his lightsaber to protect Eritha.
+
+```
+As rocks began to rain down, Qui-Gon leaped toward Eritha to bring her to safety. Obi-Wan followed, activating his lightsaber to deflect the rocks from the probe droid.
+
+— Jedi Apprentice 15: The Death of Hope (Jude Watson, 2001), ch. 9
+```
+
+### 47. He follows Anakin into the open, deflecting the retreating droids' blaster bolts.
+
+```
+The droids began to retreat—a swift, efficient action for those still undamaged, though the two Anakin had blinded were stumbling and weaving around the terrain, emitting high-pitched shrieks that sounded like unnatural yelps of mechanical pain. Obi-Wan followed Anakin into the open, using his lightsaber to deflect a few blaster bolts sent at him by the retreating droids.
+
+— Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 10
+```
+
 ## Strength, Speed, Durability and Pain Tolerance
 
-### 40. With the Force strengthening his arm, Obi-Wan blocks Grievous's overhand blow chest-to-chest, and the general's duranium forearm bends "like a cheap spoon"; he then rips Grievous's stomach plate free.
+### 48. With the Force strengthening his arm, Obi-Wan blocks Grievous's overhand blow chest-to-chest, and the general's duranium forearm bends "like a cheap spoon"; he then rips Grievous's stomach plate free.
 
 ```
 But Obi-Wan didn’t need to think. The Force was with him, and he knew.
@@ -475,7 +543,7 @@ Obi-Wan slammed the elbow of his blocking arm into the general’s clavicle whil
 
 ## Lightsaber Skill and Combat Mastery
 
-### 41. In Labyrinth of Evil, Obi-Wan backflips out of the path of a humanoid's raised ax that was meant to split him down the middle, and the ax cleaves a table instead.
+### 49. In Labyrinth of Evil, Obi-Wan backflips out of the path of a humanoid's raised ax that was meant to split him down the middle, and the ax cleaves a table instead.
 
 ```
 The strike only fueled the humanoid’s rage. Raising the ax over his head, he rushed forward, intent on splitting Obi-Wan down the middle. A backflip carried Obi-Wan out of the blade’s path, but Fa’ale’s bedside table wasn’t as fortunate. Cleaved, each half table fell to the floor, launching the Twi’lek’s bottle of firewater clear across the room and square into the face of the larger of the two Trandoshans. Screaming in anger, the alien raised a clawed hand to his bleeding brow ridge, even while his other hand continued to trigger bolts at Anakin. As the bolts began to go wide, Anakin raised his left hand, pushing it through the air in the Trandoshan’s direction and blowing him backward through the room’s only window.
@@ -483,7 +551,7 @@ The strike only fueled the humanoid’s rage. Raising the ax over his head, he r
 — Labyrinth of Evil (James Luceno, 2005), ch. 28
 ```
 
-### 42. Obi-Wan lifts his lightsaber into the balanced two-handed guard of Ataro, "Qui-Gon's style, and Yoda's," and tells Dooku "You won't escape us this time."
+### 50. Obi-Wan lifts his lightsaber into the balanced two-handed guard of Ataro, "Qui-Gon's style, and Yoda's," and tells Dooku "You won't escape us this time."
 
 ```
 Obi-Wan lifted his lightsaber into the balanced two-handed guard of Ataro: Qui-Gon’s style, and Yoda’s. His blade crackled into existence, and the air smelled of lightning. “You won’t escape us this time, Dooku.”
@@ -491,7 +559,7 @@ Obi-Wan lifted his lightsaber into the balanced two-handed guard of Ataro: Qui-G
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 43. With Anakin bracing him against the gale, Obi-Wan spins his lightsaber through an intricate flurry to deflect bolt after bolt from super battle droids as they fly past.
+### 51. With Anakin bracing him against the gale, Obi-Wan spins his lightsaber through an intricate flurry to deflect bolt after bolt from super battle droids as they fly past.
 
 ```
 Some of the super battle droids were still intact enough to open fire as they flew past. “Hang on to my belt!” Obi-Wan shouted and spun his lightsaber through an intricate flurry to deflect bolt after bolt. Anakin could do nothing but hold him braced against the gale; his grip on the zero-g handle was the only thing keeping him and Obi-Wan from being blown out into space and taking Palpatine with them.
@@ -499,7 +567,7 @@ Some of the super battle droids were still intact enough to open fire as they fl
 — Revenge of the Sith (Matthew Stover, 2005), ch. 6
 ```
 
-### 44. When the sphere of Grievous's blue lightsaber energy bulges toward Obi-Wan and opens like a mouth to bite him in half, Obi-Wan stands his ground, his blade still.
+### 52. When the sphere of Grievous's blue lightsaber energy bulges toward Obi-Wan and opens like a mouth to bite him in half, Obi-Wan stands his ground, his blade still.
 
 ```
 The sphere of blue lightsaber energy around him bulged toward Obi-Wan and opened like a mouth to bite him in half. Obi-Wan stood his ground, his blade still.
@@ -507,7 +575,7 @@ The sphere of blue lightsaber energy around him bulged toward Obi-Wan and opened
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 45. When Grievous thrusts an electrostaff at Boga, Obi-Wan's free hand flashes out and seizes the staff below its discharge blade; Grievous yanks and nearly pulls Obi-Wan out of the saddle, then jabs discharge sparks at his face.
+### 53. When Grievous thrusts an electrostaff at Boga, Obi-Wan's free hand flashes out and seizes the staff below its discharge blade; Grievous yanks and nearly pulls Obi-Wan out of the saddle, then jabs discharge sparks at his face.
 
 ```
 The dragonmount complied without hesitation, and when Grievous thrust again, Obi-Wan’s free hand flashed out and seized the staff below its discharge blade, holding it clear of Boga’s vulnerable flesh. Grievous yanked on the staff, nearly pulling Obi-Wan out of the saddle, then jabbed it back at him, discharge blade sparking in his face—
@@ -515,7 +583,7 @@ The dragonmount complied without hesitation, and when Grievous thrust again, Obi
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 46. Against Dooku in Revenge of the Sith, Obi-Wan meets every one of Dooku's thrusts without moving his feet, staying perfectly centered and balanced, blade never moving a millimeter more than necessary, while Dooku plans to kill him as he did Qui-Gon's Ataro.
+### 54. Against Dooku in Revenge of the Sith, Obi-Wan meets every one of Dooku's thrusts without moving his feet, staying perfectly centered and balanced, blade never moving a millimeter more than necessary, while Dooku plans to kill him as he did Qui-Gon's Ataro.
 
 ```
 Kenobi’s Master had been Qui-Gon Jinn, Dooku’s own Padawan; Dooku had fenced Qui-Gon thousands of times, and he knew every weakness of the Ataro form, with its ridiculous acrobatics. He drove a series of flashing thrusts toward Kenobi’s legs to draw the Jedi Master into a flipping overhead leap so that Dooku could burn through his spine from kidneys to shoulder blades—and this image, this plan, was so clear in Dooku’s mind that he almost failed to notice that Kenobi met every one of his thrusts without so much as moving his feet, staying perfectly centered, perfectly balanced, blade never moving a millimeter more than was necessary, deflecting without effort, riposting with flickering strikes and stabs swifter than the tongue of a Garollian ghost viper, and when Dooku felt Skywalker regain his feet and stride once more toward his back, he finally registered the source of that blinding defensive velocity Kenobi had used a moment ago, and only then, belatedly, did he understand that Kenobi’s Ataro and Shii-Cho had been ploys, as well.
@@ -529,7 +597,7 @@ His farce had suddenly, inexplicably, spun from humorous to deadly serious and w
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 47. A single lightsaber slash amputates one power droid's shoulder cannon and continues into a Force-assisted spinning kick that snaps another droid's head back hard enough to sever its cervical sensor cables.
+### 55. A single lightsaber slash amputates one power droid's shoulder cannon and continues into a Force-assisted spinning kick that snaps another droid's head back hard enough to sever its cervical sensor cables.
 
 ```
 A single slash of his lightsaber amputated the shoulder cannon of one power droid and continued into a spinning Force-assisted kick that brought his boot heel to the point of the other power droid’s duranium chin, snapping the droid’s head back hard enough to sever its cervical sensor cables. Blind and deaf, the power droid could only continue to obey its last order; it staggered in a wild circle, its convulsively firing cannon blasting random holes in droids and walls alike, until Obi-Wan deactivated it with a precise thrust that burned a thumb-sized hole through its thoracic braincase.
@@ -537,7 +605,7 @@ A single slash of his lightsaber amputated the shoulder cannon of one power droi
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 48. Against Grievous's lightsaber-wielding style, a subtle shift in the angle of one parry brings Obi-Wan's blade onto the handgrip rather than the blade.
+### 56. Against Grievous's lightsaber-wielding style, a subtle shift in the angle of one parry brings Obi-Wan's blade onto the handgrip rather than the blade.
 
 ```
 A subtle shift in the angle of a single parry brought Obi-Wan’s blade in contact not with the blade of the oncoming lightsaber, but with the handgrip.
@@ -545,7 +613,7 @@ A subtle shift in the angle of a single parry brought Obi-Wan’s blade in conta
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 49. In Labyrinth of Evil, Obi-Wan calls his lightsaber from his belt and leaps to the doorway, slicing both hands off one attacker and leaving a second to fall onto his blade.
+### 57. In Labyrinth of Evil, Obi-Wan calls his lightsaber from his belt and leaps to the doorway, slicing both hands off one attacker and leaving a second to fall onto his blade.
 
 ```
 Whirling, Obi-Wan called his lightsaber from his belt and leapt to the doorway, his blade slicing both hands off one of the humans. An agonized howl pierced the frigid air as the man sank to his knees. Unstuck, the second one fell forward, directly onto Obi-Wan’s blade. The smell of burned flesh filled the room, swirling about with smoke from the explosive that had taken out three square meters of roof, and big wet snowflakes that were drifting though the opening.
@@ -553,7 +621,7 @@ Whirling, Obi-Wan called his lightsaber from his belt and leapt to the doorway, 
 — Labyrinth of Evil (James Luceno, 2005), ch. 28
 ```
 
-### 50. On Cestus, Obi-Wan's air blurs with lightsaber slashes as speeder bikes scream in from above, with Kit Fisto deflecting blasts beside him.
+### 58. On Cestus, Obi-Wan's air blurs with lightsaber slashes as speeder bikes scream in from above, with Kit Fisto deflecting blasts beside him.
 
 ```
 The air around Obi-Wan blurred with lightsaber slashes. Speeder bikes screamed in from above now, and Obi-Wan glimpsed Kit Fisto’s speeder streak past as the Nautolan plunged into the fray, lightsaber flashing left and right, deflecting laser blasts and severing blasters at the barrel. Fortunate guards scrambled back to safety. Unfortunate ones fell clutching wounds, and a few would never move again.
@@ -561,7 +629,7 @@ The air around Obi-Wan blurred with lightsaber slashes. Speeder bikes screamed i
 — The Cestus Deception (Steven Barnes, 2004), ch. 50
 ```
 
-### 51. In Rogue Planet, Obi-Wan pulls Qui-Gon's lightsaber, shifts into full-sensory alertness, and tracks the whine of attacking starfighters by ear.
+### 59. In Rogue Planet, Obi-Wan pulls Qui-Gon's lightsaber, shifts into full-sensory alertness, and tracks the whine of attacking starfighters by ear.
 
 ```
 “Starfighters!” he shouted, and tugged Anakin down beside him, just in time to avoid four slashes of laser fire. He pulled his lightsaber—Qui-Gon’s lightsaber—from his belt, and the glowing green blade hummed to full length. Smoke from the melted rock rose on either side, cutting off their view. Obi-Wan shifted into a state of full-sensory alertness. His ears tracked the engine whine and sonic booms of the maneuvering starfighters. They were turning for another attack. He faced in that direction to deflect their fire with his blade.
@@ -569,7 +637,7 @@ The air around Obi-Wan blurred with lightsaber slashes. Speeder bikes screamed i
 — Rogue Planet (Greg Bear, 2000), ch. 42
 ```
 
-### 52. In The Phantom Menace novelization, Obi-Wan rushes Maul with side blows to bring the double-bladed saber horizontal, feints to his left, and brings his own blade over and down with such force that he severs Maul's weapon.
+### 60. In The Phantom Menace novelization, Obi-Wan rushes Maul with side blows to bring the double-bladed saber horizontal, feints to his left, and brings his own blade over and down with such force that he severs Maul's weapon.
 
 ```
 Sensing his opportunity slipping away from him and his strength waning, Obi-Wan mounted a final assault. He rushed the Sith Lord with a series of side blows designed to bring the two-bladed lightsaber horizontal. Then he feinted an attack to his enemy’s left and brought his own lightsaber over and down with such force that he severed the other’s weapon.
@@ -577,7 +645,7 @@ Sensing his opportunity slipping away from him and his strength waning, Obi-Wan 
 — Episode I: The Phantom Menace (Terry Brooks, 1999), ch. 23
 ```
 
-### 53. In Jedi Apprentice, a blindfolded young Obi-Wan uses the Force to know precisely when to duck a hissing lightsaber blade.
+### 61. In Jedi Apprentice, a blindfolded young Obi-Wan uses the Force to know precisely when to duck a hissing lightsaber blade.
 
 ```
 The blade of the lightsaber hissed through the air. Obi-Wan Kenobi could not see its red gleam through the blindfold pressing on his eyes. He used the Force to know precisely when to duck.
@@ -585,7 +653,7 @@ The blade of the lightsaber hissed through the air. Obi-Wan Kenobi could not see
 — Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 1
 ```
 
-### 54. In training, Obi-Wan swings his blade up to block, leaps high and somersaults over his attacker's head, and thrusts down where the Togorian's heart would be.
+### 62. In training, Obi-Wan swings his blade up to block, leaps high and somersaults over his attacker's head, and thrusts down where the Togorian's heart would be.
 
 ```
 Obi-Wan swung his blade up to block the next blow. The attacker’s lightsaber hummed and whirled down. Obi-Wan leaped high, somersaulting over his attacker’s head, and thrust his lightsaber down where the Togorian’s heart would be.
@@ -593,7 +661,7 @@ Obi-Wan swung his blade up to block the next blow. The attacker’s lightsaber h
 — Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 1
 ```
 
-### 55. Obi-Wan accesses the Force and leaps a wall beside Qui-Gon, neatly cleaving a probe droid in half.
+### 63. Obi-Wan accesses the Force and leaps a wall beside Qui-Gon, neatly cleaving a probe droid in half.
 
 ```
 He accessed the Force and leaped. Beside him, he saw Obi-Wan do the same. They sailed over the wall, high above. In those quick seconds, Qui- Gon had a chance to swipe two probe droids. Obi-Wan neatly cleaved one in half. The three droids fell sizzling to the ground.
@@ -601,7 +669,7 @@ He accessed the Force and leaped. Beside him, he saw Obi-Wan do the same. They s
 — Jedi Apprentice 14: The Ties That Bind (Jude Watson, 2001), ch. 13
 ```
 
-### 56. Obi-Wan steadies himself, shifts his lightsaber hand to hand, and comes on again with better measure of his cuts, reversing angle and turning a wide slash into a thrust until he has Dooku backing and working furiously to keep him at bay.
+### 64. Obi-Wan steadies himself, shifts his lightsaber hand to hand, and comes on again with better measure of his cuts, reversing angle and turning a wide slash into a thrust until he has Dooku backing and working furiously to keep him at bay.
 
 ```
 Obi-Wan steadied himself and shifted his lightsaber from hand to hand, getting a better grip on it. Then he exploded into motion, coming on again fiercely, his blue lightsaber flashing all about. He kept a better measure of his cuts this time, though, reversing his angle often, turning a wide slash into a sudden thrust, and he soon had Dooku backing, the red blade working furiously to keep Obi-Wan at bay.
@@ -609,7 +677,7 @@ Obi-Wan steadied himself and shifted his lightsaber from hand to hand, getting a
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 57. Kenobi meets Dooku on the situation table with his blade "weaving through a defensive velocity so bewilderingly fast" that Dooku dares not strike, then easily overleaps Dooku's attack.
+### 65. Kenobi meets Dooku on the situation table with his blade "weaving through a defensive velocity so bewilderingly fast" that Dooku dares not strike, then easily overleaps Dooku's attack.
 
 ```
 He threw himself spinning up and away from the two Jedi to land on the situation table, disengaging for a moment to recover his composure—that had been entirely too close—but by the time his boots touched down Kenobi was there to meet him, blade weaving through a defensive velocity so bewilderingly fast that Dooku dared not even try a strike; he threw a feint toward Kenobi’s face, then dropped and spun in a reverse ankle-sweep—
@@ -619,7 +687,7 @@ But not only did Kenobi easily overleap this attack, Dooku nearly lost his own f
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 58. In the Invisible Hand's hangar Obi-Wan whirls to meet a barrage of blaster bolts, and deflects the bursts of the last two gale-blown droids.
+### 66. In the Invisible Hand's hangar Obi-Wan whirls to meet a barrage of blaster bolts, and deflects the bursts of the last two gale-blown droids.
 
 ```
 Obi-Wan whirled, lightsaber flaring to meet a barrage of blaster bolts. “Protect the Chancellor!”
@@ -631,7 +699,7 @@ Obi-Wan whirled, lightsaber flaring to meet a barrage of blaster bolts. “Prote
 — Revenge of the Sith (Matthew Stover, 2005), ch. 6
 ```
 
-### 59. When Orrin fires on him, Ben spins and deflects the shot with a Tusken gaderffii, then deflects a second.
+### 67. When Orrin fires on him, Ben spins and deflects the shot with a Tusken gaderffii, then deflects a second.
 
 ```
 Then he fired.
@@ -645,7 +713,7 @@ Behind Ben, Orrin saw the other two invaders standing, one helping the other. Wh
 — Kenobi (John Jackson Miller, 2013), ch. 36
 ```
 
-### 60. In the cantina, in the split second a pistol is off him, Kenobi severs a human's gun arm, cleaves the rodent-thing down the middle and cuts down the multiocular creature, then salutes and deactivates his blade; the patrons give him a respectful amount of space.
+### 68. In the cantina, in the split second a pistol is off him, Kenobi severs a human's gun arm, cleaves the rodent-thing down the middle and cuts down the multiocular creature, then salutes and deactivates his blade; the patrons give him a respectful amount of space.
 
 ```
 In the split second when the gun and its owner’s attention was off him, the old man’s hand had moved to the disk slung at his side. The short human started to yell as a fiery blue-white light appeared in the dimness of the cantina.
@@ -665,7 +733,7 @@ Luke barely heard the renewed conversation. He was still shaken by the speed of 
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 6
 ```
 
-### 61. Kenobi lunges at Vader with "a move of incredible swiftness for one so old," and when Vader exploits his distraction he deflects the overhead blow while turning a complete circle.
+### 69. Kenobi lunges at Vader with "a move of incredible swiftness for one so old," and when Vader exploits his distraction he deflects the overhead blow while turning a complete circle.
 
 ```
 Executing a move of incredible swiftness for one so old, Kenobi lunged at the massive shape. Vader blocked the stab with equal speed, riposting with a counterslash that Kenobi barely parried. Another parry and Kenobi countered again, using this opportunity to move around the towering Dark Lord.
@@ -677,7 +745,7 @@ Vader took immediate advantage of the momentary distraction to bring his saber o
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 10
 ```
 
-### 62. In the Coruscant nightclub Obi-Wan turns "in a beautiful and graceful turn with perfect balance," moving with deadly speed and precision as his blade cuts two short loops at the would-be assassin.
+### 70. In the Coruscant nightclub Obi-Wan turns "in a beautiful and graceful turn with perfect balance," moving with deadly speed and precision as his blade cuts two short loops at the would-be assassin.
 
 ```
 Anakin spun as Obi-Wan spun, to see his Master coming around, lightsaber igniting, in a beautiful and graceful turn with perfect balance. It seemed almost as if in slow motion to Anakin, though of course Obi-Wan was moving with deadly speed and precision, as his blade, blue like Anakin’s, cut a short vertical loop and then a second, reaching farther out toward his foe. The would-be assassin—and he could see clearly now that it was a woman, since she had taken off her helmet—shrieked in agony as her arm, still clutching the blaster, fell free to the floor, sheared off above the elbow.
@@ -685,7 +753,7 @@ Anakin spun as Obi-Wan spun, to see his Master coming around, lightsaber ignitin
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 8
 ```
 
-### 63. On Kamino Obi-Wan deflects Jango Fett's blaster bolts with amazing reflexes, the second while tumbling, letting the Force guide his hand.
+### 71. On Kamino Obi-Wan deflects Jango Fett's blaster bolts with amazing reflexes, the second while tumbling, letting the Force guide his hand.
 
 ```
 “Get on board!” Jango called to him, but Boba hesitated, watching his father pull out his blaster and fire off a bolt at the charging Jedi. With amazing reflexes, Obi-Wan snapped his lightsaber about, deflecting the bolt harmlessly wide.
@@ -697,7 +765,7 @@ Obi-Wan tumbled headlong, turning while he rolled to come around as Jango fired 
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 18
 ```
 
-### 64. On Neimoidia, attacked by two sentry droids, Obi-Wan stands his ground and swats their bolts back so that both droids come apart under their own salvos.
+### 72. On Neimoidia, attacked by two sentry droids, Obi-Wan stands his ground and swats their bolts back so that both droids come apart under their own salvos.
 
 ```
 Attacked by two sentry droids, Obi-Wan stood his ground, twisting his upraised blade right and left to swat blaster bolts back at his enemies. Caught midsection by their own salvos, both droids came apart, with a scattering of alloy limbs.
@@ -705,7 +773,7 @@ Attacked by two sentry droids, Obi-Wan stood his ground, twisting his upraised b
 — Labyrinth of Evil (James Luceno, 2005), ch. 1
 ```
 
-### 65. Wielding his blade "with supreme skill and blinding speed," Obi-Wan steps onto the bay doors and marches toward the Sekotan ship as nine guards break ranks and retreat.
+### 73. Wielding his blade "with supreme skill and blinding speed," Obi-Wan steps onto the bay doors and marches toward the Sekotan ship as nine guards break ranks and retreat.
 
 ```
 Obi-Wan, wielding his blade with supreme skill and blinding speed, stepped up on the bay doors and marched toward the Sekotan ship. Pieces of rack dropped around him, cut down by errant and deflected laser fire. Nine guards broke ranks and retreated.
@@ -713,7 +781,7 @@ Obi-Wan, wielding his blade with supreme skill and blinding speed, stepped up on
 — Rogue Planet (Greg Bear, 2000), ch. 62
 ```
 
-### 66. Against the wounded Ventress, Obi-Wan throws caution to the winds and attacks, his blade "here, there, at all angles."
+### 74. Against the wounded Ventress, Obi-Wan throws caution to the winds and attacks, his blade "here, there, at all angles."
 
 ```
 In the same instant, Obi-Wan threw caution to the winds, and went at her. His blade was here, there, at all angles, and her wound slowed her …
@@ -721,7 +789,7 @@ In the same instant, Obi-Wan threw caution to the winds, and went at her. His bl
 — The Cestus Deception (Steven Barnes, 2004), ch. 77
 ```
 
-### 67. Fleeing through the mining tunnels, Obi-Wan brings his lightsaber over his back to deflect a Whiphid's shot without turning.
+### 75. Fleeing through the mining tunnels, Obi-Wan brings his lightsaber over his back to deflect a Whiphid's shot without turning.
 
 ```
 One Whiphid fired his blaster at Obi-Wan’s retreating form, but Obi-Wan managed to bring his lightsaber over his back and deflect the blow. He raced through the tunnels, past the startled Hutts and Whiphids. His need to find Qui-Gon was overpowering. He was astonished to feel the Jedi Knight’s warning call, to feel this connection.
@@ -729,7 +797,7 @@ One Whiphid fired his blaster at Obi-Wan’s retreating form, but Obi-Wan manage
 — Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 20
 ```
 
-### 68. Qui-Gon is astonished at how quickly and gracefully Obi-Wan moves as he leaps off a mound of lava to strike at Xanatos, driving him stumbling backward.
+### 76. Qui-Gon is astonished at how quickly and gracefully Obi-Wan moves as he leaps off a mound of lava to strike at Xanatos, driving him stumbling backward.
 
 ```
 Suddenly, Obi-Wan's lightsaber whirled. Qui-Gon was astonished at how quickly and gracefully the boy moved, leaping off a mound of lava to strike at Xanatos. Xanatos stumbled backward from the ferocity of the attack. A cloud of steam suddenly erupted, and he quickly lurched to one side, losing his balance and landing on one hand.
@@ -737,7 +805,7 @@ Suddenly, Obi-Wan's lightsaber whirled. Qui-Gon was astonished at how quickly an
 — Jedi Apprentice 8: The Day of Reckoning (Jude Watson, 2000), ch. 17
 ```
 
-### 69. Flipping backward away from a security officer, Obi-Wan turns his lightsaber "a blur of heat and energy" on the officer's electro-jabber.
+### 77. Flipping backward away from a security officer, Obi-Wan turns his lightsaber "a blur of heat and energy" on the officer's electro-jabber.
 
 ```
 "No harm, only disarm," Obi-Wan had a chance to murmur before he flipped backward to avoid a security officer who tried to come at him from his left. Obi-Wan turned, his lightsaber a blur of heat and energy, and turned the electro-jabber into a smoking heap on the floor.
@@ -745,9 +813,31 @@ Suddenly, Obi-Wan's lightsaber whirled. Qui-Gon was astonished at how quickly an
 — Jedi Apprentice Special Edition: Deceptions (Jude Watson, 2001), ch. 17
 ```
 
+### 78. His blade cuts away a one-eyed droid's arms as they wrap around Lena.
+
+```
+The one-eyed droid's arms shot out from its sides and began to wrap themselves around her. Lena ducked at the same moment Obi-Wan's lightsaber blade severed one arm, and with a mighty backswing separated the droid's head from its body.
+
+— Jedi Apprentice 17: The Only Witness (Jude Watson, 2002), ch. 14
+```
+
+### 79. Qui-Gon strikes three times and Obi-Wan blocks each one; Qui-Gon realizes that "Obi-Wan was fighting like a Jedi Knight."
+
+```
+Qui-Gon did. He brought his lightsaber down in a powerful strike - once, twice, three times. Obi-Wan was there to block each blow. The graceful arcs he made with his blade were confident and accurate. His eyes never left his Master's face.
+
+Qui-Gon suddenly realized that his Padawan's lightsaber skills had improved significantly in the past months. His physical energy was exceptional - young and true. Obi-Wan was fighting like a Jedi Knight.
+
+Not to mention trusting his instincts, Qui-Gon thought wryly. He suddenly had the feeling that one day the boy would beat him. And that such a day might not be so far away.
+
+The two Jedi dodged and weaved with incredible speed, their ignited blue and green blades blurs of energy in the Vorzyd night. But behind them pulsed something even stronger-Jedi will. Obi-Wan wanted to be treated as an equal, Qui-Gon knew. But while he had grown up a lot in the last four years, he was only seventeen. He still had much to learn.
+
+— Jedi Apprentice 18: The Threat Within (Jude Watson, 2002), ch. 17
+```
+
 ## Fights and Combat Feats
 
-### 70. Pursued by sleds, Obi-Wan brakes and lets one come alongside faster than the Rodian rider expects, with the rider's blaster bolt meant for his head.
+### 80. Pursued by sleds, Obi-Wan brakes and lets one come alongside faster than the Rodian rider expects, with the rider's blaster bolt meant for his head.
 
 ```
 A vacillating roar in his right ear told him that one of the pursuit sleds had caught up with him. Out of the corner of his streaming eye, Obi-Wan saw the sled’s human pilot bend low over the control bars to provide his Rodian rider with the clearance he needed to send a blaster bolt through Obi-Wan’s head. Braking, Obi-Wan allowed the sled to come alongside more quickly than the Rodian had planned. The rider’s first shot raced past Obi-Wan’s eyes; the second, he deflected slightly downward, straight into the sled’s engine.
@@ -755,7 +845,7 @@ A vacillating roar in his right ear told him that one of the pursuit sleds had c
 — Labyrinth of Evil (James Luceno, 2005), ch. 29
 ```
 
-### 71. Obi-Wan's lightsaber finds his hand and one swipe sends the canopy bursting away; he flips himself up into the stunningly cold gale and lets it blow him tumbling clear as his craft explodes.
+### 81. Obi-Wan's lightsaber finds his hand and one swipe sends the canopy bursting away; he flips himself up into the stunningly cold gale and lets it blow him tumbling clear as his craft explodes.
 
 ```
 His lightsaber found his hand and blue energy flared. One swipe and the canopy burst away, ripped into space by the hurricane of escaping air. Obi-Wan flipped himself up into the stunningly cold gale and let it blow him tumbling away as the remnants of his battered craft finally exploded.
@@ -763,7 +853,7 @@ His lightsaber found his hand and blue energy flared. One swipe and the canopy b
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 72. Obi-Wan shoots straight upward over Dooku's head so fast it seems he vanished, leaving only Anakin's blade driving straight for Dooku's heart where his chest had been.
+### 82. Obi-Wan shoots straight upward over Dooku's head so fast it seems he vanished, leaving only Anakin's blade driving straight for Dooku's heart where his chest had been.
 
 ```
 “Very well, then,” the Jedi said, and shot straight upward over Dooku’s head so fast it seemed he’d vanished.
@@ -771,7 +861,7 @@ His lightsaber found his hand and blue energy flared. One swipe and the canopy b
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 73. Grievous's electrodrivers move his arm so fast that it and the lightsaber within it vanish "by sheer mind-numbing speed, an imitation quantum event," and the Force answers through Obi-Wan's lips, "I don't think so."
+### 83. Grievous's electrodrivers move his arm so fast that it and the lightsaber within it vanish "by sheer mind-numbing speed, an imitation quantum event," and the Force answers through Obi-Wan's lips, "I don't think so."
 
 ```
 The Force replied through Obi-Wan’s lips, “I don’t think so.”
@@ -779,7 +869,7 @@ The Force replied through Obi-Wan’s lips, “I don’t think so.”
 — Revenge of the Sith (Matthew Stover, 2005), ch. 7
 ```
 
-### 74. Obi-Wan's blade severs Grievous's lightsaber, which winks out a hairbreadth before it would have burned through his forehead, and half of it skitters away along with the duranium thumb and first finger of the hand that held it.
+### 84. Obi-Wan's blade severs Grievous's lightsaber, which winks out a hairbreadth before it would have burned through his forehead, and half of it skitters away along with the duranium thumb and first finger of the hand that held it.
 
 ```
 The blade winked out of existence a hairbreadth before it would have burned through Obi-Wan’s forehead. Half the severed lightsaber skittered away, along with the duranium thumb and first finger of the hand that had held it.
@@ -787,7 +877,7 @@ The blade winked out of existence a hairbreadth before it would have burned thro
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 75. Muttering "Not this time," Obi-Wan cuts a path through the tangled mob of droids to the arch in a single sustained surge, in time to see Grievous take the blade-wheeler out over the sinkhole.
+### 85. Muttering "Not this time," Obi-Wan cuts a path through the tangled mob of droids to the arch in a single sustained surge, in time to see Grievous take the blade-wheeler out over the sinkhole.
 
 ```
 “Not this time,” Obi-Wan muttered, and cut a path through the tangled mob of droids all the way to the arch in a single sustained surge, reaching the open air just in time to see the blade-wheeler turn; it was an open ring with a pilot’s chair inside, and in the pilot’s chair sat Grievous, who lifted one of his bodyguards’ electrostaffs in a sardonic wave as he took the scooter straight out over the edge. Four claw-footed arms deployed, digging into the rock to carry him down the side of the sinkhole, angling away at a steep slant.
@@ -795,7 +885,7 @@ The blade winked out of existence a hairbreadth before it would have burned thro
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 76. On Grievous's flagship, Obi-Wan and Anakin act as "two parts of the same thing": Anakin flips over Obi-Wan's head at the perfect range for Obi-Wan's blade to flick out and burn through his binders.
+### 86. On Grievous's flagship, Obi-Wan and Anakin act as "two parts of the same thing": Anakin flips over Obi-Wan's head at the perfect range for Obi-Wan's blade to flick out and burn through his binders.
 
 ```
 He made a quarter turn to face Anakin, who was already in the air, having leapt simultaneously with Obi-Wan’s gentle murmur because Obi-Wan and Anakin were, after all, two parts of the same thing; Anakin’s flip carried him over Obi-Wan’s head at the perfect range for Obi-Wan’s blade to flick out and burn through his partner’s binders, and while Grievous was still flinching away from the fountain of fusion fire, Anakin landed with his own hand extended; Obi-Wan felt a liquid surge in the waterfall that he was, and Anakin’s lightsaber sang through the air and Anakin caught it, and so, one single second after Grievous had begun to summon the intent to swing, Obi-Wan Kenobi and Anakin Skywalker stood back-to-back in the center of the bridge, expressionlessly staring past the snarling blue energy of their lightsabers.
@@ -803,7 +893,7 @@ He made a quarter turn to face Anakin, who was already in the air, having leapt 
 — Revenge of the Sith (Matthew Stover, 2005), ch. 7
 ```
 
-### 77. On Mustafar, Obi-Wan twists free of Anakin's Force grip, catches his blade with the Force, and reverses it so that one parry blocks Anakin's overhand and directs both blades through the wall, then drives himself out through it using Anakin's next chop.
+### 87. On Mustafar, Obi-Wan twists free of Anakin's Force grip, catches his blade with the Force, and reverses it so that one parry blocks Anakin's overhand and directs both blades through the wall, then drives himself out through it using Anakin's next chop.
 
 ```
 Startled, Anakin instinctively shifted his Force grip, releasing one wrist to reach for his blade; in that instant Obi-Wan twisted free of his other hand and with the Force caught up his own blade, reversing it along his forearm so that his swift parry of Anakin’s thundering overhand not only blocked the strike but directed both blades to slice through the wall against which he stood. He slid Anakin’s following thrust through the wall on the opposite side, guiding both blades again up and over his head in a circular sweep so that he could use the power of Anakin’s next chop to drive himself backward through the wall, outside into the smoke and the falling cinders.
@@ -811,7 +901,7 @@ Startled, Anakin instinctively shifted his Force grip, releasing one wrist to re
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 78. Over the lava, Anakin swings on a cable with a Shien whipcrack at Obi-Wan's knees; Obi-Wan yanks his legs high and slashes through the cable above Anakin's hand, and Anakin falls.
+### 88. Over the lava, Anakin swings on a cable with a Shien whipcrack at Obi-Wan's knees; Obi-Wan yanks his legs high and slashes through the cable above Anakin's hand, and Anakin falls.
 
 ```
 Anakin kicked off from the toppling superstructure, swinging through a wide arc over the lava’s boil. Obi-Wan shoved out and met him there, holding the cable with one hand and the Force, angling his blade high. Anakin flicked a Shien whipcrack at his knees. Obi-Wan yanked his legs high and slashed through the cable above Anakin’s hand, and Anakin fell.
@@ -819,7 +909,7 @@ Anakin kicked off from the toppling superstructure, swinging through a wide arc 
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 79. Obi-Wan turns Anakin's blade aside with a two-handed block, kicks him back, then dives headlong off the crane deck, and just above the lava the Force calls a cable to his hand and swings him high and far to the shore.
+### 89. Obi-Wan turns Anakin's blade aside with a two-handed block, kicks him back, then dives headlong off the crane deck, and just above the lava the Force calls a cable to his hand and swings him high and far to the shore.
 
 ```
 He turned Anakin’s blade aside with a two-handed block and landed a solid kick that knocked the two apart. Before Anakin could recover his balance, Obi-Wan took a running leap that became a graceful dive headlong off the crane deck. He hurtled down past level after level, and only a few tens of meters above the lava itself the Force called a dangling cable to his hand, turning his dive into a swing that carried him high and far, to the very limit of the cable.
@@ -827,7 +917,7 @@ He turned Anakin’s blade aside with a two-handed block and landed a solid kick
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 80. In Labyrinth of Evil, Obi-Wan returns one of two blaster bolts to its source and parries the other at a deliberately downward angle so it ricochets around the grotto.
+### 90. In Labyrinth of Evil, Obi-Wan returns one of two blaster bolts to its source and parries the other at a deliberately downward angle so it ricochets around the grotto.
 
 ```
 Obi-Wan leapt to one side, raising his blade to deal with two bolts that got past Anakin. The first he returned toward its source; the second, he parried at a deliberately downward angle. Striking the grotto’s hard-packed floor, the deflected bolt ricocheted to one wall, then to the ceiling, to the other wall, and back to the floor, from which it caromed squarely into the control panel that operated the tunnel door.
@@ -835,7 +925,7 @@ Obi-Wan leapt to one side, raising his blade to deal with two bolts that got pas
 — Labyrinth of Evil (James Luceno, 2005), ch. 3
 ```
 
-### 81. Obi-Wan's blade strikes the other student's neck; with a Knight's saber it would have been a killing blow, but apprentices' training sabers are set to low power and give only a "searing kiss."
+### 91. Obi-Wan's blade strikes the other student's neck; with a Knight's saber it would have been a killing blow, but apprentices' training sabers are set to low power and give only a "searing kiss."
 
 ```
 “Aargh!” The other student howled in surprised rage as Obi-Wan’s hot blade struck his neck. If Obi-Wan had been using a Jedi Knight’s lightsaber, it would have been a killing blow. But apprentices in the Jedi Temple used training sabers set at low power. The touch of the blade only gave a searing kiss, one that the healers might need to tend.
@@ -843,7 +933,7 @@ Obi-Wan leapt to one side, raising his blade to deal with two bolts that got pas
 — Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 1
 ```
 
-### 82. Leaping from Boga's saddle, Obi-Wan swings both boots into Grievous's duranium skull, wrecking the wheel bike's gyros and sending it over the edge of the landing deck.
+### 92. Leaping from Boga's saddle, Obi-Wan swings both boots into Grievous's duranium skull, wrecking the wheel bike's gyros and sending it over the edge of the landing deck.
 
 ```
 As they cleared the archway to a small, concealed landing deck deep in a private sinkhole, Obi-Wan leapt from the saddle, yanking on the staff to swing both his boots hard into the side of Grievous’s duranium skull. The wheeler’s internal gyros screamed at the sudden impact and shift of balance. Their shrieks cycled up to bursts of smoke and fragments of metal as their catastrophic failure sent the wheeler tumbling in a white-hot cascade of sparks.
@@ -851,7 +941,7 @@ As they cleared the archway to a small, concealed landing deck deep in a private
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 83. Warned by the Force of Anakin's approach, Obi-Wan dives past him, rolls onto the riverbank cliff, and when Anakin leaps at his back "half a second too slow," his parry takes Anakin's knees.
+### 93. Warned by the Force of Anakin's approach, Obi-Wan dives past him, rolls onto the riverbank cliff, and when Anakin leaps at his back "half a second too slow," his parry takes Anakin's knees.
 
 ```
 But the Force whispered a warning, and Obi-Wan lifted his head in time to see Anakin come hurtling toward him out from the boil of smoke above the falls, perched on a tiny repulsorlift droid. The little droid was vastly swifter than Obi-Wan’s logy old cargo platform, and Anakin was easily able to swing around Obi-Wan and cut him off from the shore. Obi-Wan shifted weight one way, then another, but Anakin’s droid was nimble as a sand panther; there was no way around, and this close to the lava, the heat was intense enough to crisp Obi-Wan’s hair.
@@ -871,7 +961,7 @@ Obi-Wan’s whirl to parry didn’t meet Anakin’s blade. It met his knee. Then
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 84. During the Tusken raid on the Claim, Ben hurls his cape like a net to draw the Tusken's rifle fire, dives across the field of fire and drags the wounded Bohmer to cover.
+### 94. During the Tusken raid on the Claim, Ben hurls his cape like a net to draw the Tusken's rifle fire, dives across the field of fire and drags the wounded Bohmer to cover.
 
 ```
 But Ben was already on the move. Whipping off his cape, the man spread it like a net and hurled it toward the doorway in one swirling motion. The Tusken’s rifle bolts followed it upward. Ben dived downward, tumbling across the narrow field of fire. Reaching Bohmer’s side, Ben took hold of the Rodian and heaved. A second later, both figures were huddled against the synstone wall, just to the left of the open doorway. The Tusken blazed away again, raking the place where Bohmer had fallen.
@@ -879,7 +969,7 @@ But Ben was already on the move. Whipping off his cape, the man spread it like a
 — Kenobi (John Jackson Miller, 2013), ch. 16
 ```
 
-### 85. Ben fights a canyon krayt dragon of fifty or sixty meters: he slashes its teeth, backflips behind it, lifts a Tusken elder and infant out of its path with a wave, cuts its tail, survives being rolled on, and kills it with a blade driven into its brain.
+### 95. Ben fights a canyon krayt dragon of fifty or sixty meters: he slashes its teeth, backflips behind it, lifts a Tusken elder and infant out of its path with a wave, cuts its tail, survives being rolled on, and kills it with a blade driven into its brain.
 
 ```
 It was a canyon krayt, bigger than any Orrin had ever heard of. Fifty meters long? Sixty? He wasn’t about to measure it. Terrified, he scanned the debris for his blasters. One was there, smashed beneath a rock. Where was the other? Could it do any good?
@@ -913,7 +1003,7 @@ The dragon died, its head thudding to rest meters from Orrin and the child.
 — Kenobi (John Jackson Miller, 2013), ch. 45
 ```
 
-### 86. In Theed's hangar, Obi-Wan launches himself at the battle droids holding the Naboo pilots hostage, cutting into them "with ferocious determination."
+### 96. In Theed's hangar, Obi-Wan launches himself at the battle droids holding the Naboo pilots hostage, cutting into them "with ferocious determination."
 
 ```
 On the far side of the hangar, Obi-Wan Kenobi launched himself at the battle droids holding the Naboo pilots hostage, cutting into them with ferocious determination. Qui-Gon watched his progress, long hair flying out as he withstood yet another rush from the battle droids attempting to reclaim the Queen’s transport, blocking their laser bolts as he fought to hold the boarding ramp. Obi-Wan was running toward him now, a handful of the Naboo in tow. Explosions rose all around them, deadly laser fire burning into metal and flesh. Several of the Naboo went down, but the battle droids were unable to slow the Jedi.
@@ -921,7 +1011,7 @@ On the far side of the hangar, Obi-Wan Kenobi launched himself at the battle dro
 — Episode I: The Phantom Menace (Terry Brooks, 1999), ch. 7
 ```
 
-### 87. Obi-Wan leaps a blaster bolt to snap-kick the weapon from Jango's hand, breaks his hold with a stationary somersault and double kick, and trades kicks and blows with him on the rain-swept platform.
+### 97. Obi-Wan leaps a blaster bolt to snap-kick the weapon from Jango's hand, breaks his hold with a stationary somersault and double kick, and trades kicks and blows with him on the rain-swept platform.
 
 ```
 Fortunately, Slave I’s cannon went quiet, the energy pack depleted for the moment, and Obi-Wan wasted no time leaping to his feet and charging at Jango Fett, who was coming hard his way.
@@ -947,7 +1037,7 @@ The Jedi threw his head and torso back, lying flat out and lifting his left leg 
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 18
 ```
 
-### 88. Attacked by a large lizardlike creature, Obi-Wan dives aside and slashes back as he falls, opening its side from foreleg to hind leg.
+### 98. Attacked by a large lizardlike creature, Obi-Wan dives aside and slashes back as he falls, opening its side from foreleg to hind leg.
 
 ```
 He saw the large, lizardlike creature coming for him, its huge fangs dripping lines of drool. It stood on strong hind legs, its little forelegs twitching eagerly. The lightsaber hummed to life and Obi-Wan dived down to the side, slashing back as he fell, opening the creature’s side from foreleg to hind. The creature landed and tried to turn, but as it spasmed in pain, it overbalanced and fell off the trail, plummeting hundreds of feet and shrieking all the way.
@@ -955,7 +1045,7 @@ He saw the large, lizardlike creature coming for him, its huge fangs dripping li
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 19
 ```
 
-### 89. In the Geonosis arena, Obi-Wan tricks the acklay into breaking his chain, spears it in the neck with a picador's spear, and later kills it with a leaping stab to the face.
+### 99. In the Geonosis arena, Obi-Wan tricks the acklay into breaking his chain, spears it in the neck with a picador's spear, and later kills it with a leaping stab to the face.
 
 ```
 Obi-Wan quickly came to learn why the acklay was such a crowd-pleaser. The creature reared up high and came straight in at him. When Obi-Wan rushed behind the pole, the acklay took a more direct route, crashing into the pole, its gigantic claws snapping the wood and the chain. Freed by the beast’s fury, Obi-Wan turned and ran, sprinting right at the nearest picador, the acklay in fast pursuit. The Geonosian lowered his spear at the Jedi, but Obi-Wan dodged inside and grabbed it. A sudden tug pulled it free, and Obi-Wan snapped it against the picador’s mount, causing the creature to rear. Hardly slowing, Obi-Wan planted the butt of the lance in the ground and leapt, pole-vaulting the picador and his mount.
@@ -971,7 +1061,7 @@ Obi-Wan rushed in and leapt and stabbed, right in the face. He caught his foot o
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 23
 ```
 
-### 90. Obi-Wan shoots for the shipping room, deflecting bolts and mangling two super battle droids in his way.
+### 100. Obi-Wan shoots for the shipping room, deflecting bolts and mangling two super battle droids in his way.
 
 ```
 Obi-Wan shot for the room, deflecting bolts and mangling two super battle droids that stood in his way. The room beyond was stacked with coffin-sized repulsorlift shipping containers, constructed of some lightweight alloy. Treaded labor droids were moving additional containers into the room from an adjacent packaging area. Without warning, a battle droid appeared in the entrance. Obi-Wan glanced at the wall-mounted mechanism that operated the sliding doors. Adopting a defensive stance, he did just as he had done in the grotto, returning the first of the droid’s blaster bolts, and sending the second caroming around the room in a path calculated to disable the door apparatus.
@@ -979,7 +1069,7 @@ Obi-Wan shot for the room, deflecting bolts and mangling two super battle droids
 — Labyrinth of Evil (James Luceno, 2005), ch. 5
 ```
 
-### 91. Shocked by a JK droid's arms, Obi-Wan ensnares a quadrant of its arms with a lightwhip, lunges in, then with blurred vision closes his eyes and senses the weakened place in its case through the Force, striking until the droid lies thrashing on its side.
+### 101. Shocked by a JK droid's arms, Obi-Wan ensnares a quadrant of its arms with a lightwhip, lunges in, then with blurred vision closes his eyes and senses the weakened place in its case through the Force, striking until the droid lies thrashing on its side.
 
 ```
 Pain. The mechanical arms surged with energy. The hair on Obi-Wan’s head flared away from his scalp and he fought shock as the charge threatened to shut down his nervous system and paralyze his diaphragm. As it pulled him closer, attempting a retinal scan, Obi-Wan triggered the lightwhip, and it spun out at an angle, ensnaring an entire quadrant of arms in a single instant. Sparks sprayed from the torn dura-steel. He threw his hands in front of his eyes as the spray splashed across his face. He heard, but did not see, the mechanical arms as they tumbled to the ground, severed by the strands. But now he had lost both tools.
@@ -993,7 +1083,7 @@ He didn’t know how many times he struck, only that when he was finished, the J
 — The Cestus Deception (Steven Barnes, 2004), ch. 63
 ```
 
-### 92. Sparring with the clone commando Jangotat at first fall, Obi-Wan meets his attack with a finely judged sidestep and pivot and pins him in a Juzzian arm-lock.
+### 102. Sparring with the clone commando Jangotat at first fall, Obi-Wan meets his attack with a finely judged sidestep and pivot and pins him in a Juzzian arm-lock.
 
 ```
 Obi-Wan faced Jangotat. “Let’s take this up a notch. First fall?”
@@ -1005,7 +1095,7 @@ The two engaged, with Jangotat making the first aggressive move. Obi-Wan balance
 — The Cestus Deception (Steven Barnes, 2004), ch. 71
 ```
 
-### 93. Bail Organa watches Kenobi move through a smoke-filled command center as "a blur of motion and a dazzle of lightsaber," Force-pushing obstacles clear or leaping them without putting a foot wrong.
+### 103. Bail Organa watches Kenobi move through a smoke-filled command center as "a blur of motion and a dazzle of lightsaber," Force-pushing obstacles clear or leaping them without putting a foot wrong.
 
 ```
 Through the wreathing smoke he caught sight of Kenobi, a blur of motion and a dazzle of lightsaber, as he leapt and spun around the cramped, crowded command center. So many hazards in this place, so many chances to miscalculate … and die. But the Jedi didn’t put a foot wrong. If something was in his way he Force-pushed it clear or leapt it in a blur of motion, unnervingly aware of every potential obstacle. He’d taken out two more of the attack droids. At least one man. How many did that leave? He didn’t know, couldn’t count, he was punch-drunk from adrenaline, numbed by all the noise. His head was ringing. How long had they been here? It felt like days. Like moments. Like all his life had been lived in war.
@@ -1013,7 +1103,7 @@ Through the wreathing smoke he caught sight of Kenobi, a blur of motion and a da
 — The Clone Wars: Wild Space (Karen Miller, 2008), ch. 15
 ```
 
-### 94. Aboard the Monument, Obi-Wan cuts through a heavy table's legs to drop it on the Whiphids, then ducks and rolls past a charging Hutt, slashing its flank.
+### 104. Aboard the Monument, Obi-Wan cuts through a heavy table's legs to drop it on the Whiphids, then ducks and rolls past a charging Hutt, slashing its flank.
 
 ```
 Obi-Wan sprang forward, slashing at the heavy table. The lightsaber cut through the thick legs easily. With a crash, the table thudded down on the Whiphids. The flimsy stools they had been sitting on collapsed under the weight, pinning them to the floor. They howled in surprise and pain.
@@ -1025,7 +1115,7 @@ As the Hutt moved toward Obi-Wan, his enormous fists raised, Obi-Wan ducked and 
 — Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 11
 ```
 
-### 95. On Telos, sensing danger as he turns, Obi-Wan draws his lightsaber "in a motion so fast it was undetectable," then cuts down a squad of security droids, swinging from a vine to cut one in half.
+### 105. On Telos, sensing danger as he turns, Obi-Wan draws his lightsaber "in a motion so fast it was undetectable," then cuts down a squad of security droids, swinging from a vine to cut one in half.
 
 ```
 Obi-Wan knew he was in danger even as he was turning. His turn was deliberately off center, his hand already reaching for his lightsaber in a motion so fast it was undetectable. With the other hand, he reached out and pushed Andra aside.
@@ -1043,7 +1133,7 @@ Obi-Wan whirled even faster now, beheading one droid and turning to knock anothe
 — Jedi Apprentice 8: The Day of Reckoning (Jude Watson, 2000), ch. 13
 ```
 
-### 96. On Kegan, Obi-Wan Force-leaps onto two droids feet first, and later leaps and twists in midair to come down behind a line of droids, leveling four with two blows.
+### 106. On Kegan, Obi-Wan Force-leaps onto two droids feet first, and later leaps and twists in midair to come down behind a line of droids, leveling four with two blows.
 
 ```
 Obi-Wan was closest. He accessed the Force and leaped, coming down with both feet hitting the two droids squarely. The droids wobbled and the blaster fire went awry. Obi-Wan landed and swung his vibroblade at the first droid. It raised its blaster toward Obi-Wan.
@@ -1055,9 +1145,143 @@ Obi-Wan launched a quick reversal, sweeping up with his lightsaber, then leaping
 — Jedi Apprentice 13: The Dangerous Rescue (Jude Watson, 2001), ch. 20
 ```
 
+### 107. On Phindar, Obi-Wan and Qui-Gon cut down a squad of Syndicat droids: Obi-Wan slices one, rolls into the legs of another, and helps pin the last four against a wall.
+
+```
+Obi-Wan heard the flap of his Master’s cape as Qui-Gon jumped and twisted, landing on a pile of old metal crates nearby. And Obi-Wan was moving too, moving before thought, leaping over the heads of the first line of droids. His lightsaber was already in his hand. He activated it and saw the reassuring blue glow.
+
+He could hear the click and whirr of the droids’ joints as the swiveled, trying to get better aim. The Jedi had the advantage of speed and better maneuverability. Obi-Wan found that, using the Force and his own perceptions, he could predict which way a droid would move.
+
+Qui-Gon leaped down from the crate. With one stroke she sliced through three droids. Their metallic heads clattered to the floor and rolled. Their bodies twitched, puzzled, the collapsed.
+
+Obi-Wan cut through the first droid on his right, then used his momentum to twist and roll into the legs of a second. The droid wobbled, trying to aim as Obi-Wan sliced through its spindly legs with his lightsaber. As soon as the droid fell, Obi-Wan dealt a blow to the control panel on its chest. The droid collapsed, inoperative.
+
+But Obi-Wan was already moving on to the next and the next, and the next. He could sense Qui-Gon’s movements behind him, and knew that Qui-Gon was driving the droids back toward the crumbling wall of the landing platform. Fighting, slicing, always moving, Obi-Wan was able to reach the outer flank of the droids, allowing him to drive them back to where Qui-Gon wanted them.
+
+There were only four droids left standing when the Jedi were able to maneuver them against the wall. Working in tandem, Qui-Gon and Obi-Wan avoided the constant blaster fire and, with a sudden movement, rushed the droids, slicing through their jointed legs. The four collapsed in a heap, and Qui-Gon attacked again, making sure they were down for good.
+
+— Jedi Apprentice 3: The Hidden Past (Jude Watson, 1999), ch. 3
+```
+
+### 108. In a Syndicat ambush, Obi-Wan draws his lightsaber "in a movement so fast it was just a blur" and cuts down a floater driver, then dodges the triggered beams.
+
+```
+Obi-Wan’s lightsaber was in his hand in a movement so fast it was just a blur of pulsating light. He slashed at the guard, but was only able to knock the hand behind him on the speeder. Qui-Gon leaped forward but the speeder zoomed ahead, almost knocking him down. Qui-Gon was only able to deliver a glancing blow to the guard.
+
+Suddenly, a slender beam of light shot out from the wall, straight at Guerra. Guerra saw it and began to move. Qui-Gon saw the light, too, and summoned the Force to help. Guerra leaped over the beam just in time.
+
+“Disruptor beams!” Qui-Gon shouted to Obi-Wan. The weapons had been outlawed on most worlds. It sent a visible blast of energy capable of cutting someone in two.
+
+Obi-Wan charged at a floater heading for him and struck the driver across the neck with his lightsaber. The driver cried out and lost control of the floater, which crashed into the wall, knocking him unconscious. A disruptor beam suddenly shot out from the wall and hit the assassin droid, whose right-hand controls suddenly smoked and sputtered. The droid fell, but began to push off with his left-side controls. Meanwhile, the beam came straight at Obi-Wan, who leaped over it, twisting in midair to land safely next to Qui-Gon.
+
+“The beams are triggered by movement,” Qui-Gon said tersely. “Others are on constantly. Avoid them at all costs. Use the Force, Padawan.” Qui-Gon turned and sliced at the assassin droid from the downed floater, cutting off its head. Then he leaped forward and lunged at the nest floater. He dealt a glancing blow to the guard as it zoomed past and leaped over a disruptor beam.
+
+The beams left on were easy to avoid, if the Jedi didn’t allow themselves to be maneuvered into them. It was harder to predict where the beams triggered by movement would strike. Qui-Gon reached out for the Force, drawing it around him, feeling it, gaining strength from it. He sent his senses out to meet Obi-Wan’s so that the Force would multiply and fill the room.
+
+— Jedi Apprentice 3: The Hidden Past (Jude Watson, 1999), ch. 8
+```
+
+### 109. The Force tells both Jedi to jump; they vault over the guards to destroy the assassin droids, though Obi-Wan leaps too early and Qui-Gon has to cover him.
+
+```
+The Force told Obi-Wan and Qui-Gon to jump, and they did, vaulting over the guards to attack the assassin droids first. Qui-Gon cut through one, rendering it worthless. Obi-Wan went straight for the other’s control panel and with a stab of his lightsaber turned it into a sizzling junk heap.
+
+The Syndicat guards had recovered from the surprise of being knocked off their floaters and uncovering a hidden room. They pulled out force pikes and advanced on the Jedi.
+
+Qui-Gon and Obi-Wan stood their ground, lightsabers held down, pointing at the floor. Qui-Gon counted off the seconds in his head. He hoped his Padawan would have the same battle rhythm. They would need to keep their head clear their blows methodical. They could not let their exhaustion drive them. He reached out to the Force. It surged around him now; he had only to tap into it.
+
+The Syndicat guards were still a few steps away when Obi-Wan leaped forward. Too early! Qui-Gon cried in his head. But he sprang to the right to cover Obi-Wan’s flank. Obi-Wan attacked in a fury, his lightsaber a blue blur in the dimness. Qui-Gon had to match his speed or be unable to protect him. He tried to slow down the boy’s rhythm, but Obi-Wan had let his exhaustion push his control to the breaking point. Qui-Gon realized that he could not always count on Obi-Wan to pick up on his pacing. Something to work on later, when they had time. If they had time.
+
+— Jedi Apprentice 3: The Hidden Past (Jude Watson, 1999), ch. 8
+```
+
+### 110. Fighting beside Qui-Gon, Obi-Wan leaps over the Syndicat guards and feels the Force fighting the guards' dark side.
+
+```
+Qui-Gon powered up both lightsabers. They arced green and blue, glowing in the gray air. Obi-Wan leaped forward over the Syndicat guards. Qui-Gon tossed his Padawan’s lightsaber high in the air. It revolved slowly, turning in a graceful arc. Obi-Wan reached out his hand and the hilt of his lightsaber landed in his palm. As he landed, he slashed out at the front line of Syndicat guards. Baftu gaped at Obi-Wan, frozen with shock to see the boy he knew as Prince Beju on the attack.
+
+“Kill him!” he screamed at the guards.
+
+Qui-Gon was already moving forward himself, adding to Obi-Wan’s assault with his own frontal attack. They now knew where the Syndicat guards were vulnerable, and they did not waste time directing blows at their armor. Instead, they slashed out at ankles and necks, and managed to flip off the armored visors so they would have clear shots to disable them.
+
+The Force was around them, guiding them. Obi-Wan felt its power as it battled against the dark side of the cruel Syndicat guards. He felt to good energy of the Phindians at his back, helping him. His blows landed where he aimed, and he evaded blaster fire with the help of the Force, which told him when to twist, move, leap, and block.
+
+— Jedi Apprentice 3: The Hidden Past (Jude Watson, 1999), ch. 19
+```
+
+### 111. On Melida/Daan he reacts before a guard can register the threat, pushing Roenni toward the starfighters.
+
+```
+In the split second it took for the guard to fully recognize the threat, Obi-Wan was already moving. He gave Roenni a push toward the starfighters, then ran toward a stack of durasteel cargo boxes. He made an enormous leap and landed on top of them, then used the momentum to hurl himself at the guard. As blaster fire erupted around his head, he fervently wished he had his lightsaber. He had given it to Qui-Gon to take back to the Temple. Only the Jedi could carry lightsabers.
+
+— Jedi Apprentice 6: The Uncertain Path (Jude Watson, 1999), ch. 1
+```
+
+### 112. Back on Melida/Daan, he and Nield attack Mawat's crew to stop the explosives being rigged, and he deflects blaster fire as they charge the fountain.
+
+```
+Their first objective was to prevent Mawat's crew from rigging any more explosive devices. Obi-Wan and Nield attacked furiously. The lightsaber felt so right in Obi-Wan's hand. He moved gracefully, his balance perfect, the lightsaber a blur of motion. Nield attacked with his vibroblade, slashing at the equipment boxes and rendering them into piles of scrap. The Scavenger Young dropped the rest of the timing devices and ran.
+
+They beat back the Scavenger Young to a position on the plaza. There, Mawat had already organized the rest of his forces. Obi-Wan and Nield took cover behind the dry fountain. Its curving stone wall hid them from the blaster counterattack. But they would not be able to hold out for long.
+
+"What are we going to do?" Nield asked Obi-Wan, ducking his head as blaster fire pinged into the stone, sending chips flying. "I don't have a blaster, just my vibroblade."
+
+Obi-Wan quickly raised his head, then ducked down again. "We're outnumbered, that's for sure. And Mawat has probably called for reinforcements."
+
+"Well, at least they can't blow up the Hall," Nield said worriedly.
+
+"We'll figure out something," Obi-Wan assured him. But inside, he wasn't so confident. He wished Qui-Gon would appear. Together, they could take on Mawat's forces. But with only one lightsaber, Obi-Wan didn't think he could protect Nield and fight at the same time.
+
+Suddenly, blaster fire erupted behind them. Obi-Wan and Nield turned, startled. Deila, Joli, and Roenni were heading toward them, firing as they came.
+
+"We thought you might need some help," Deila said as she landed next to them behind the fountain wall. "Roenni organized the others. They're going to come at Mawat's forces from the other side."
+
+Just as Deila finished speaking, they saw more of the Young spill into the plaza, surrounding Mawat. At last the odds were even.
+
+"Let's go!" Obi-Wan shouted.
+
+They leaped up over the fountain wall and ran toward the battle. Blaster fire pinged around them, but Obi-Wan was able to deflect it with his lightsaber. With a sense of deep gratitude, he felt the Force enter and guide him. He moved without having to plan, anticipating where the fire would come.
+
+— Jedi Apprentice 6: The Uncertain Path (Jude Watson, 1999), ch. 21
+```
+
+### 113. He leaps into the fight to rescue a grieving Qui-Gon, and the two Jedi carve through waves of droids under blaster fire.
+
+```
+He had never been happier to see Obi-Wan in his life. His Padawan suddenly leaped into the fray, lightsaber swinging. With Obi-Wan's help, Qui-Gon was able to regroup and smash the two droids to his left. The two Jedi swung wide and came at the droids' line from each end. They each felled two, then leaped toward the center of the line to destroy two more droids as they shifted into position.
+
+Smoke rose, choking them. Obi-Wan took out the last droid, and they stumbled out of the small room.
+
+Obi-Wan leaned over to take a breath of pure air. "Where do you think Balog is?"
+
+The question seemed to echo inside Qui-Gon's brain. He realized that he hadn't given much thought to Balog's whereabouts. He had just charged ahead. That wasn't like him.
+
+I am not thinking clearly, he told himself. I am reacting, not acting.
+
+He realized this meant he was on the edge of his control. But even as he recognized this, he recognized something equally chilling: He did not care.
+
+And suddenly, he knew where Balog might be. Remembering the tour, he recalled a tech center on this floor. Since Balog had recently stolen the list from Irini, he was most likely accessing it on a datascreen. He would certainly waste no time erasing his name and looking for others to denounce.
+
+Before he could answer Obi-Wan, more droids wheeled around the corner behind them. They felt a warming in the Force before the blaster fire began. Once again, Qui-Gon and Obi-Wan had to use every particle of concentration to defeat the agile droids. The blaster fire seemed to come from everywhere.
+
+The droids were between them and the data center. Rage filled Qui-Gon at the delay. Every second that passed meant that Balog would have a chance to escape.
+
+He charged at the droids, swinging his lightsaber in a constant arc, hardly noticing when blaster fire zinged near his ears or barely missed an arm or hand. He savagely swung at the droids, destroying one after another. Obi-Wan tried to protect him as best he could, but even he could not keep up with the fierceness of Qui-Gon's attack.
+
+— Jedi Apprentice 16: The Call to Vengeance (Jude Watson, 2001), ch. 17
+```
+
+### 114. When a droid bartender opens fire, he drops to the floor and cuts through it with his lightsaber.
+
+```
+Events slowed and perception stretched then, as Obi-Wan Kenobi reached for the Force and his lightsaber simultaneously. He dropped flat to the floor as the bartender fired its weapon, sending pieces of the beautiful wooden bar exploding outward to shower the apprentice with splinters. He ignited his lightsaber and swung it up in a shallow arc, the superhot blade slicing almost without resistance through the bar and the blaster it concealed without touching the bartender’s prehensile limbs. He rose to his feet quickly, almost levitating with the aid of the Force, and continued the arc, twisting to face the Rodians, who had raised their weapons. He gestured, and one of the blasters leapt out of its surprised owner’s hand and seemingly flung itself across the room. His partner fired, a particle beam burst that was deflected by the cobalt-hued energy blade, sending its trajectory off into the ceiling somewhere. Obi-Wan gestured again, and the second Rodian’s blaster flew over to land at his feet.
+
+— Darth Maul: Shadow Hunter (Michael Reaves, 2001), ch. 26
+```
+
 ## Acrobatics and Agility
 
-### 97. Dropping the staff after the crash, Obi-Wan leaps again with the Force lifting him free, while Grievous's electronic reflexes throw him out of the pilot's chair in the opposite direction.
+### 115. Dropping the staff after the crash, Obi-Wan leaps again with the Force lifting him free, while Grievous's electronic reflexes throw him out of the pilot's chair in the opposite direction.
 
 ```
 Dropping the staff, Obi-Wan leapt again, the Force lifting him free of the crash.
@@ -1065,7 +1289,7 @@ Dropping the staff, Obi-Wan leapt again, the Force lifting him free of the crash
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 98. The Force carries Obi-Wan's swing out over a catenary arc "as though jumping from a swing in the Temple playrooms," and delivers him onto a slow repulsorlift platform humming above the lava river.
+### 116. The Force carries Obi-Wan's swing out over a catenary arc "as though jumping from a swing in the Temple playrooms," and delivers him onto a slow repulsorlift platform humming above the lava river.
 
 ```
 As though jumping from a swing in the Temple playrooms, his velocity sent him flying up and out over a catenary arc that shot him toward the river’s shore.
@@ -1077,7 +1301,7 @@ But the Force had led him here, and again it had not betrayed him: below, hummin
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 99. In Attack of the Clones, Obi-Wan leaps through a window, using the Force to extend his jump far through the air and catch the retreating droid assassin, leaving him hanging on to it a hundred stories up.
+### 117. In Attack of the Clones, Obi-Wan leaps through a window, using the Force to extend his jump far through the air and catch the retreating droid assassin, leaving him hanging on to it a hundred stories up.
 
 ```
 Obi-Wan leapt into the blinds, taking them with him right through the window, shattering the glass. He reached into the Force as he leapt, using it to extend his jump, to send him far through the air to catch hold of the retreating droid assassin. With his added weight, the floating droid sank considerably, but it compensated and stabilized quickly, leaving the Jedi hanging on to it a hundred stories up.
@@ -1085,7 +1309,7 @@ Obi-Wan leapt into the blinds, taking them with him right through the window, sh
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 8
 ```
 
-### 100. Aboard the Invisible Hand, Obi-Wan leaps from Dooku's far side in perfect coordination with Anakin, and when Anakin's charge puts him in his path, he Force-rolls over his partner's head while driving a slash at Dooku's blade.
+### 118. Aboard the Invisible Hand, Obi-Wan leaps from Dooku's far side in perfect coordination with Anakin, and when Anakin's charge puts him in his path, he Force-rolls over his partner's head while driving a slash at Dooku's blade.
 
 ```
 Obi-Wan leapt from Dooku’s far side in perfect coordination—and they met in midair, for the Sith Lord was no longer between them.
@@ -1101,7 +1325,7 @@ Kenobi drove a slash at the scarlet blade while he pivoted in the air, and again
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 101. Obi-Wan and Anakin battle through every level, stair and platform of the collection plant and out onto the panels under the lava cascades.
+### 119. Obi-Wan and Anakin battle through every level, stair and platform of the collection plant and out onto the panels under the lava cascades.
 
 ```
 Obi-Wan backflipped from the conduit to a coupling nexus of the main collection plant; when Anakin flew in pursuit, Obi-Wan leapt again. They spun and whirled throughout its levels, up its stairs, and across its platforms; they battled out onto the collection panels over which the cascades of lava poured, and Obi-Wan, out on the edge of the collection panel, hunching under a curve of durasteel that splashed aside gouts of lava, deflecting Force blasts and countering strikes from this creature of rage that had been his best friend, suddenly comprehended an unexpectedly profound truth.
@@ -1109,7 +1333,7 @@ Obi-Wan backflipped from the conduit to a coupling nexus of the main collection 
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 102. Obi-Wan flips through the air, lets the Force bring him to a catfooted landing on a cargo platform, and disables its guidance with one adder-quick stab so he can steer it to shore by shifting his weight.
+### 120. Obi-Wan flips through the air, lets the Force bring him to a catfooted landing on a cargo platform, and disables its guidance with one adder-quick stab so he can steer it to shore by shifting his weight.
 
 ```
 Obi-Wan flipped in the air and let the Force bring him to a catfooted landing. An adder-quick stab of his lightsaber disabled the platform’s guidance system, and Obi-Wan was able to direct it back toward the shore with a simple shift of his weight.
@@ -1117,7 +1341,7 @@ Obi-Wan flipped in the air and let the Force bring him to a catfooted landing. A
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 103. Calming himself and calling on the last of his reserves, Obi-Wan launches himself out of the melting pit with the Force, clears the rim, somersaults behind Maul and cuts him down with Qui-Gon's lightsaber.
+### 121. Calming himself and calling on the last of his reserves, Obi-Wan launches himself out of the melting pit with the Force, clears the rim, somersaults behind Maul and cuts him down with Qui-Gon's lightsaber.
 
 ```
 Eyes fixed on the Sith Lord, Obi-Wan Kenobi went deep inside himself, connecting with the Force he had worked so hard to understand. Calming himself, stilling the trembling of his heart, and banishing his anger and fear, he called upon the last of his reserves. With clarity of purpose and strength of heart, he launched himself away from the side of the pit and catapulted back toward its lip. Imbued with the power of the Force, he cleared the rim easily, somersaulting behind the Sith Lord in a single smooth, powerful motion. Even as he landed, he was drawing Qui-Gon Jinn’s fallen lightsaber to his outstretched hand.
@@ -1127,7 +1351,7 @@ Darth Maul whirled to confront him, shock and rage twisting his red and black fa
 — Episode I: The Phantom Menace (Terry Brooks, 1999), ch. 23
 ```
 
-### 104. In the Xi Charrian workshop, Obi-Wan "fairly flew" to the vaulted ceiling to grab a fleeing Xi Charrian by the rear legs, then, buried under a mound of Xi Charrians, overturns a table twenty meters away with a shove of his hand to scatter them.
+### 122. In the Xi Charrian workshop, Obi-Wan "fairly flew" to the vaulted ceiling to grab a fleeing Xi Charrian by the rear legs, then, buried under a mound of Xi Charrians, overturns a table twenty meters away with a shove of his hand to scatter them.
 
 ```
 Ten meters away, Obi-Wan paralleled the Xi Charrian’s flight into the upper reaches of the vaulted ceiling, where the chase had now roused scores of roosting Xi Charrians, inciting more than a few to join in.
@@ -1143,7 +1367,7 @@ With a shoving motion of his free hand, Obi-Wan overturned a small table twenty 
 — Labyrinth of Evil (James Luceno, 2005), ch. 16
 ```
 
-### 105. Obi-Wan leaps onto a rolling mining cart and springs off at the last moment to fly over Xanatos's head, striking down with his lightsaber.
+### 123. Obi-Wan leaps onto a rolling mining cart and springs off at the last moment to fly over Xanatos's head, striking down with his lightsaber.
 
 ```
 Obi-Wan lunged forward fiercely. He leaped onto a mining cart, which rolled toward Xanatos. At the last moment, Obi-Wan sprang off. He flew over Xanatos’ head, striking down with his lightsaber as he did so.
@@ -1151,7 +1375,7 @@ Obi-Wan lunged forward fiercely. He leaped onto a mining cart, which rolled towa
 — Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16
 ```
 
-### 106. Falling from the lindemor tree on Phindar, Obi-Wan gathers the Force from the living things around him and swings from branch to branch.
+### 124. Falling from the lindemor tree on Phindar, Obi-Wan gathers the Force from the living things around him and swings from branch to branch.
 
 ```
 The dazzling green of the lindemor leaves rushed up at him. Obi-Wan gathered the Force from the living things around him, centered it inside himself. He flew across the distance and grabbed at a lindemor branch as he fell. His fingers closed around it, and he swung forward, using the momentum to grab at the next branch down. Then to the next, and the next, until it was an easy leap to the ground. He didn’t bother looking up. Giba was most likely already summoning the royal guards. He had to make it to the Council Chamber without being seen.
@@ -1159,7 +1383,7 @@ The dazzling green of the lindemor leaves rushed up at him. Obi-Wan gathered the
 — Jedi Apprentice 4: The Mark of the Crown (Jude Watson, 1999), ch. 15
 ```
 
-### 107. Obi-Wan gathers the Force and dives off the top of the falls, landing clear of the rocks, to reach the fallen Bruck.
+### 125. Obi-Wan gathers the Force and dives off the top of the falls, landing clear of the rocks, to reach the fallen Bruck.
 
 ```
 Obi-Wan gathered the Force to him and dove off the top of the falls. He landed clear of the rocks, and pushed himself upward through the cool water. He swam quickly to the bank and vaulted out onto the grass. He felt for Bruck's vital signs.
@@ -1167,7 +1391,7 @@ Obi-Wan gathered the Force to him and dove off the top of the falls. He landed c
 — Jedi Apprentice 7: The Captive Temple (Jude Watson, 2000), ch. 17
 ```
 
-### 108. Obi-Wan makes a Force leap to a catwalk overhead and charges the bounty hunter Ona Nobis, dodging the boxes she throws.
+### 126. Obi-Wan makes a Force leap to a catwalk overhead and charges the bounty hunter Ona Nobis, dodging the boxes she throws.
 
 ```
 Tino looked up, startled by Obi-Wan's cry. Obi-Wan was already gathering the Force to make his leap. He landed on the catwalk overhead and teetered back for an instant, trying to get his balance.
@@ -1179,7 +1403,7 @@ Astri was already running up the stairs, trying to get to Tino. His lightsaber i
 — Jedi Apprentice 12: The Evil Experiment (Jude Watson, 2001), ch. 13
 ```
 
-### 109. Obi-Wan accesses the Force to jump a great distance across the fight with Kern.
+### 127. Obi-Wan accesses the Force to jump a great distance across the fight with Kern.
 
 ```
 Kern leaped over the barrels clumsily, keeping up a furious rain of fire at the Jedi. Obi-Wan jumped forward, accessing the Force to cross a great distance. He landed on the opposite side of Den. With a casual gesture, Kern turned for a split second, shot Vox, then threw him out of the pod. A wounded Vox hit the ground.
@@ -1187,9 +1411,51 @@ Kern leaped over the barrels clumsily, keeping up a furious rain of fire at the 
 — Jedi Apprentice Special Edition: Deceptions (Jude Watson, 2001), ch. 21
 ```
 
+### 128. On Melida/Daan, Obi-Wan and Qui-Gon summon the Force and leap together into midair.
+
+```
+Obi-Wan and Qui-Gon summoned the Force. When Qui-Gon felt it grow and pulse around them, he jumped, along with Obi-Wan. As they leaped into midair, they took a quick survey of what lay on the other side, blaster fire suddenly intensifying around them. Qui-Gon deflected it with his lightsaber.
+
+— Jedi Apprentice 5: The Defenders of the Dead (Jude Watson, 1999), ch. 4
+```
+
+### 129. Against the bounty hunter Magus, he Force-leaps onto a crag, grazes the hunter's fingers, and uses "his Jedi reflexes to slow time down" to catch his lightsaber in midair.
+
+```
+Obi-Wan summoned the Force. He felt the power in his muscles as he leaped from Didi's side onto the crag. He scrambled to the top in seconds. Then he bent his knees and gathered power for the spring. He leaped high in the air, so high that the bounty hunter sensed his presence in the sky and looked up, confused. She only had time to raise her arm back before Obi- Wan, in the same maneuver he had used in the house, came straight at her, feet first. He hit both of her shoulders with a mighty blow that sent her backward onto the snow. Obi-Wan landed in the snow, his feet planted on either side of her body, his lightsaber raised.
+
+"Enough," he said.
+
+She lay rigid, but he felt a flicker of movement in her right hand. He saw the glint of a vibroblade. Moving only her fingers, she flicked it with expert aim toward Astri.
+
+Obi-Wan's blow with the lightsaber was only a split second too late. It grazed the bounty hunter's fingers in a searing wound. At the same time he leaped backward, twisting in midair to try to catch the blade with his other hand. He used his Jedi reflexes to slow time down, allowing him to eye exactly where to grab it. The hilt thudded into his hand.
+
+— Jedi Apprentice 11: The Deadly Hunter (Jude Watson, 2000), ch. 16
+```
+
+### 130. Hanging from a launcher, he pushes off to draw a droid's fire away from Tahl, then leaps onto the bins to cover her.
+
+```
+One of the two remaining droids zoomed up to focus on Obi-Wan while the other continued to fire at Tahl. Obi-Wan hung from his launcher and pushed off against the building with his feet. He swung out toward the droid and attacked, missing it by centimeters. He used his feet to kick off the building again, propelling himself higher and farther. Unused to this unorthodox action from a being it was tailing, the probe droid circled, beeping. Obi-Wan slashed at it, destroying some of its circuits. It began to act erratically, circling and diving. On his next swing, Obi-Wan cut it apart.
+
+Qui-Gon saw Obi-Wan demolish the droid, but he was busy with the remaining one. "There are some durasteel garbage bins ahead," he told Tahl. "I'm going to push you behind them and go after the droid."
+
+In a few steps, he pushed Tahl down behind the bins, then leaped up on top of them. Obi-Wan saw his action and quickly ran closer on the ledge, still attached to his cable launcher. As Qui-Gon leaped high, Obi-Wan released the cable to fly down. They caught the probe droid between them and each struck a strong blow. Tumbling, on fire, the probe droid smashed into the pavement below.
+
+— Jedi Apprentice 14: The Ties That Bind (Jude Watson, 2001), ch. 15
+```
+
+### 131. He leaps into a turbolift shaft, lands "gracefully" on top of the car, and cuts his way in with his lightsaber.
+
+```
+Obi-Wan leaped into the turbolift shaft, landing gracefully on top of the lift just as it came to a halt. Activating his lightsaber, he sliced a hole in the metal and jumped down a second time. But the lift was already empty. He heard the echo of Mica's receding footsteps as she raced toward the door.
+
+— Jedi Apprentice 17: The Only Witness (Jude Watson, 2002), ch. 9
+```
+
 ## Hunting, Tracking and Stealth
 
-### 110. Hidden in the Pillars, Ben makes his voice resound through the rocks from one direction and then another as he warns Orrin to turn back.
+### 132. Hidden in the Pillars, Ben makes his voice resound through the rocks from one direction and then another as he warns Orrin to turn back.
 
 ```
 “Turn back now.” Ben’s voice resounded through the rocks, closer than before.
@@ -1205,7 +1471,7 @@ Nothing. Somewhere, he heard a Tusken child crying. Orrin growled impatiently. �
 — Kenobi (John Jackson Miller, 2013), ch. 44
 ```
 
-### 111. Aboard the Death Star, Kenobi opens a locked panel, disables the tractor beam unseen, and slips past troopers "like a night-stalking ferret," leaving one trooper sensing only "an undefinable something."
+### 133. Aboard the Death Star, Kenobi opens a locked panel, disables the tractor beam unseen, and slips past troopers "like a night-stalking ferret," leaving one trooper sensing only "an undefinable something."
 
 ```
 Two thick cables joined beneath an overlay panel. It was locked, but after careful inspection of sides, top and bottom, Ben Kenobi pressed the panel cover in a particular fashion causing it to spring aside. A blinking computer terminal was revealed beneath.
@@ -1233,7 +1499,7 @@ Ben Kenobi ducked into the shadows of a narrow passageway, seeming to become par
 
 ## Skills, Training and Cunning
 
-### 112. Obi-Wan spins his starfighter between recoiling turbo-cannons so close that energy-scatter makes his cockpit clang like a gong, while tri-fighter fire still flashes past him.
+### 134. Obi-Wan spins his starfighter between recoiling turbo-cannons so close that energy-scatter makes his cockpit clang like a gong, while tri-fighter fire still flashes past him.
 
 ```
 Obi-Wan spun his starfighter between the recoiling turbocannons close enough that energy-scatter made his cockpit clang like a gong, but still cannonfire flashed past him from the tri-fighters behind. “Anakin, they’re all over me!”
@@ -1241,7 +1507,7 @@ Obi-Wan spun his starfighter between the recoiling turbocannons close enough tha
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 113. Obi-Wan dives into a tri-fighter's pursuit with the Force to guide him, against electronic reflexes that operate at roughly the speed of light and keep it on his tail as if dragged by a tow cable.
+### 135. Obi-Wan dives into a tri-fighter's pursuit with the Force to guide him, against electronic reflexes that operate at roughly the speed of light and keep it on his tail as if dragged by a tow cable.
 
 ```
 Obi-Wan dived right in.
@@ -1251,7 +1517,7 @@ He had the Force to guide him through, and the tri-fighter had only its electron
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 114. The tri-fighter averages Obi-Wan's movements with Anakin's, staying between the two so Anakin cannot fire without hitting his partner, while the tri-fighter itself is under no such restraint.
+### 136. The tri-fighter averages Obi-Wan's movements with Anakin's, staying between the two so Anakin cannot fire without hitting his partner, while the tri-fighter itself is under no such restraint.
 
 ```
 When Obi-Wan went left and Anakin right, the tri-fighter would swing halfway through the difference. The same with up and down. It was averaging his movements with Anakin’s; somehow its droid brain had realized that as long as it stayed between the two Jedi, Anakin couldn’t fire on it without hitting his partner. The tri-fighter was under no similiar restraint: Obi-Wan flew through a storm of scarlet needles.
@@ -1259,7 +1525,7 @@ When Obi-Wan went left and Anakin right, the tri-fighter would swing halfway thr
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 115. Obi-Wan's starfighter slips through a gap vulture droids are "just a hair too big" to follow; when the first two impact, he sweeps his cannons downward and the droids' evasion programming sends them diving straight into the expanding fireball.
+### 137. Obi-Wan's starfighter slips through a gap vulture droids are "just a hair too big" to follow; when the first two impact, he sweeps his cannons downward and the droids' evasion programming sends them diving straight into the expanding fireball.
 
 ```
 The vulture droids tried to follow … but they were just a hair too big.
@@ -1267,7 +1533,7 @@ The vulture droids tried to follow … but they were just a hair too big.
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 116. Over Coruscant, Obi-Wan flares his port jets and kicks his starfighter right; a tri-fighter that cannot follow slips straight into Anakin's cannon fire.
+### 138. Over Coruscant, Obi-Wan flares his port jets and kicks his starfighter right; a tri-fighter that cannot follow slips straight into Anakin's cannon fire.
 
 ```
 Obi-Wan flared his port jets and the starfighter kicked to the right. One of the tri-fighters behind him decided it couldn’t follow and went for a ventral slip that took it directly into the blasts from Anakin’s cannons.
@@ -1275,9 +1541,49 @@ Obi-Wan flared his port jets and the starfighter kicked to the right. One of the
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
+### 139. On New Apsolon, he chases Balog's probe droid on a swoop, anticipates its moves, and dives in on a plan he and Qui-Gon reach without speaking.
+
+```
+"We can't lose that droid," Qui-Gon said urgently. He activated his lightsaber and jumped behind a boulder for cover. "Obi-Wan, get back to your swoop. One of us needs to fight the droids from the air."
+
+Obi-Wan hated to leave his Master, but he saw the wisdom of Qui-Gon's strategy. He sprinted toward his swoop. He could hear blaster fire erupt behind him, and had to discipline himself not to turn and check on Qui- Gon's safety. He had to trust his Master to handle the situation until his return.
+
+The wind whistled past his ears as he raced across the terrain. He leaped onto his swoop and pushed the engines to maximum. He zoomed back toward the canyon.
+
+Qui-Gon had jumped or climbed to a narrow ledge above the canyon floor. As the probe droid circled and dived, peppering Qui-Gon with blaster fire, Qui-Gon used his lightsaber in a series of quick defensive moves. Obi-Wan knew he was biding his time until the droid came closer, so he could leap toward it with his lightsaber. It was a waiting game.
+
+"Get that other droid!" Qui-Gon shouted.
+
+Obi-Wan wanted to protect Qui-Gon. But Qui-Gon was right. Losing a probe droid would drastically lower the odds of finding Tahl quickly.
+
+He shot up to where the probe droids were battling and activated his lightsaber. It was hard, even from close range, to tell which droid was theirs.
+
+Qui-Gon saw Obi-Wan's hesitation. "The one on the left, Padawan!" he called out.
+
+Obi-Wan focused on the two droids, noting any nicks and scratches that would identify the one he needed to destroy. Balog's droid had a deep scratch on one side. Confident now, Obi-Wan moved closer, angling to take his first strike.
+
+Balog's droid suddenly veered and dived, blasting fire at the Jedi droid. The droid took evasive action, blaster fire missing it by centimeters. Obi-Wan gunned the motor and leaned to the right, angling the swoop closer. His balance had to be perfect or the swoop would tumble end over end in midair. He made a sudden dive on top of Balog's droid, swiping with his lightsaber. But the droid had already reversed course, and he missed.
+
+Obi-Wan righted the swoop and raced up toward the probe droid. He could not let the droid get another shot out. At the same time he had to stay out of his own droid's angle of fire.
+
+Balog's probe droid veered again. Obi-Wan followed. There was only so much strategy a droid could have. Obi-Wan dived, anticipating the droid's move. At the same time, the Jedi droid fired at Balog's.
+
+"To the left, Padawan!" Qui-Gon shouted.
+
+Without looking, without thinking, Obi-Wan pulled the swoop to the left, barely missing blaster fire from his own droid. Instead of righting the swoop, he used the move to circle, then zoom up, coming at Balog's droid head on. He saw the red sensor blink as it computed his position. He had only seconds.
+
+He rammed the engines into screaming full power and leaned off the swoop as far as he could, raising his lightsaber high. The lightsaber came down and cut the droid neatly in two. Sputtering and smoking, it fell to the ground below and crashed.
+
+Obi-Wan turned the swoop again, this time heading for Balog's second droid. It had altered its flight plan to fly lower since it could not get a good reading on Qui-Gon. Obi-Wan kept to the droid's left, leaving Qui-Gon room to maneuver.
+
+He glanced quickly at Qui-Gon, who nodded. They didn't need to compare notes; they had arrived at the same plan. Obi-Wan sent the swoop into a dive at the same time as Qui-Gon leaped. The two Jedi soared toward the droid, their lightsabers pulsating. Together, they timed their blows - Qui-Gon an upward sweep, Obi-Wan a downward thrust. The probe droid had no way to escape. It fell under both blows and disintegrated in a shower of metal and sparks.
+
+— Jedi Apprentice 15: The Death of Hope (Jude Watson, 2001), ch. 6
+```
+
 ## Statements from Other Characters
 
-### 117. Dooku observes that "the ease with which Kenobi had taken command of the situation was frightening," and more frightening still that of the two, Skywalker is reportedly the greater warrior.
+### 140. Dooku observes that "the ease with which Kenobi had taken command of the situation was frightening," and more frightening still that of the two, Skywalker is reportedly the greater warrior.
 
 ```
 The ease with which Kenobi had taken command of the situation was frightening. More frightening was the fact that of the two, Skywalker was reportedly the greater warrior. And even their R2 unit could fight: the little astromech had some kind of aftermarket cable-gun it had used to entangle the legs of a super droid and yank it off its feet, and now was jerking the droid this way and that so that its arm cannons were blasting chunks off its squadmates instead of the Jedi.
@@ -1285,7 +1591,7 @@ The ease with which Kenobi had taken command of the situation was frightening. M
 — Revenge of the Sith (Matthew Stover, 2005), ch. 7
 ```
 
-### 118. Mace Windu tells Obi-Wan that of all living Jedi he has the best chance to defeat Grievous.
+### 141. Mace Windu tells Obi-Wan that of all living Jedi he has the best chance to defeat Grievous.
 
 ```
 Before Obi-Wan had left Coruscant, Mace Windu had told him of facing Grievous in single combat atop a maglev train during the general’s daring raid to capture Palpatine. Mace had told him how the computers slaved to Grievous’s brain had apparently analyzed even Mace’s unconventionally lethal Vaapad and had been able to respond in kind after a single exchange.
@@ -1295,7 +1601,7 @@ Before Obi-Wan had left Coruscant, Mace Windu had told him of facing Grievous in
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 119. Mace Windu greets Obi-Wan's attempt to mediate between him and Yoda with "Ah, of course: Kenobi the Negotiator."
+### 142. Mace Windu greets Obi-Wan's attempt to mediate between him and Yoda with "Ah, of course: Kenobi the Negotiator."
 
 ```
 “Masters, Masters, please,” Obi-Wan said. He looked from one to the other and inclined his head respectfully. “Perhaps there is a middle way.”
@@ -1307,7 +1613,7 @@ Before Obi-Wan had left Coruscant, Mace Windu had told him of facing Grievous in
 — Revenge of the Sith (Matthew Stover, 2005), ch. 10
 ```
 
-### 120. Dooku judges Kenobi the greatest obstacle to Anakin's conversion, since Kenobi's unshakable faith in the Jedi's values would keep Anakin from the Sith.
+### 143. Dooku judges Kenobi the greatest obstacle to Anakin's conversion, since Kenobi's unshakable faith in the Jedi's values would keep Anakin from the Sith.
 
 ```
 Dooku understood: not only would the death of his mentor tip Skywalker’s already unstable emotional balance down the darkest of slopes, but it would also remove the greatest obstacle to Skywalker’s successful conversion. As long as Kenobi was alive, Skywalker would never be securely in the camp of the Sith; Kenobi’s unshakable faith in the values of the Jedi would keep the Jedi blindfold on Skywalker’s eyes and the Jedi shackles on the young man’s true power.
@@ -1315,7 +1621,7 @@ Dooku understood: not only would the death of his mentor tip Skywalker’s alrea
 — Revenge of the Sith (Matthew Stover, 2005), ch. 2
 ```
 
-### 121. Mace Windu tells Obi-Wan he is not a master of the classic form but "The master," and that if he is who he is, Grievous will never defeat him.
+### 144. Mace Windu tells Obi-Wan he is not a master of the classic form but "The master," and that if he is who he is, Grievous will never defeat him.
 
 ```
 “That is so like you, Master Kenobi,” the Korun Master had said, shaking his head. “I am called a great swordsman because I invented a lethal style; but who is greater, the creator of a killing form—or the master of the classic form?”
@@ -1327,7 +1633,7 @@ Dooku understood: not only would the death of his mentor tip Skywalker’s alrea
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 122. A'Yark notes that the Tuskens saw Ben's defense, the monstrous cloud he raised in the Pillars and the krayt's corpse, and decides to warn her people away from the wizard's home.
+### 145. A'Yark notes that the Tuskens saw Ben's defense, the monstrous cloud he raised in the Pillars and the krayt's corpse, and decides to warn her people away from the wizard's home.
 
 ```
 The other Tuskens had seen Ben’s defense—had seen the monstrous cloud he raised in The Pillars, had seen the corpse of the krayt. There had to be some reason these powerful figures kept arriving amid the Sand People. Some role their clan was intended to play, in the next cycle of the story of the suns. More vocally than ever, her people spoke their longings for a powerful outsider to help them destroy their enemies.
@@ -1337,7 +1643,7 @@ Ben would never be that person. A’Yark would warn the other Tuskens away from 
 — Kenobi (John Jackson Miller, 2013), ch. 47
 ```
 
-### 123. Vader tells Tarkin that Kenobi is "the last of the Jedi—and the greatest," and that only he can deal with him.
+### 146. Vader tells Tarkin that Kenobi is "the last of the Jedi—and the greatest," and that only he can deal with him.
 
 ```
 “Escape may not be Obi-wan Kenobi’s intention,” Vader replied, struggling to control his emotions. “He is the last of the Jedi—and the greatest. The danger he presents to us must not be underestimated—yet only I can deal with him.” His head snapped around to stare fixedly at Tarkin. “Alone.”
@@ -1345,7 +1651,7 @@ Ben would never be that person. A’Yark would warn the other Tuskens away from 
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 9
 ```
 
-### 124. Sidious tells Dooku to kill Kenobi in their duel, since Kenobi's only purpose is to die and so ignite Anakin's fear and rage.
+### 147. Sidious tells Dooku to kill Kenobi in their duel, since Kenobi's only purpose is to die and so ignite Anakin's fear and rage.
 
 ```
 “You will duel them,” Sidious had said. “Kill Kenobi. His only purpose is to die and, in so doing, ignite young Skywalker to tap the depths of his fear and rage. Should you defeat Skywalker easily, then we will know that he is not prepared to serve us. Perhaps he never will be prepared. Should he by some fluke best you, however, I will control the outcome to spare you any unnecessary embarrassment, and we will have gained a powerful ally. But above all you must make the contest appear real, Lord Tyranus.”
@@ -1353,7 +1659,7 @@ Ben would never be that person. A’Yark would warn the other Tuskens away from 
 — Labyrinth of Evil (James Luceno, 2005), ch. 55
 ```
 
-### 125. Anakin tells Rikkard that Obi-Wan healed his son and risked his life twice at the power plant and refinery.
+### 148. Anakin tells Rikkard that Obi-Wan healed his son and risked his life twice at the power plant and refinery.
 
 ```
 Arms folded, Jaklin stared at the ground. Anger and fear muddied her presence in the Force. Anakin turned to Rikkard. “Teeb—Obi-Wan healed your son. He risked his life twice, first in the power plant and again when he got everyone out of the refinery. He’s no more a threat to you than I am.”
@@ -1363,7 +1669,7 @@ Arms folded, Jaklin stared at the ground. Anger and fear muddied her presence in
 
 ## Author and Guide Statements
 
-### 126. "Kenobi would rather talk than fight, but when there is fighting to be done, few can match him"; together with Skywalker he forms "a Jedi hammer that has crushed Separatist infestations on scores of worlds."
+### 149. "Kenobi would rather talk than fight, but when there is fighting to be done, few can match him"; together with Skywalker he forms "a Jedi hammer that has crushed Separatist infestations on scores of worlds."
 
 ```
 Kenobi would rather talk than fight, but when there is fighting to be done, few can match him. Skywalker is the master of audacity; his intensity, boldness, and sheer jaw-dropping luck are the perfect complement to Kenobi’s deliberate, balanced steadiness. Together, they are a Jedi hammer that has crushed Separatist infestations on scores of worlds.
@@ -1371,7 +1677,7 @@ Kenobi would rather talk than fight, but when there is fighting to be done, few 
 — Revenge of the Sith (Matthew Stover, 2005), prologue
 ```
 
-### 127. Whether Obi-Wan's legendary cleverness might beat Anakin's raw power is the subject of schoolyard fistfights and pod-chamber stinkwars across the Republic, which always end with the combatants admitting it does not matter.
+### 150. Whether Obi-Wan's legendary cleverness might beat Anakin's raw power is the subject of schoolyard fistfights and pod-chamber stinkwars across the Republic, which always end with the combatants admitting it does not matter.
 
 ```
 Obi-Wan and Anakin always answer.
@@ -1381,7 +1687,7 @@ Whether Obi-Wan’s legendary cleverness might beat Anakin’s raw power, straig
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
-### 128. The narrator calls Obi-Wan's lightsaber technique "an understated elegance," lacking the flash of Anakin Skywalker, the ferocity of Mace Windu or Depa Billaba, and the stylish grace of Shaak Ti or Dooku.
+### 151. The narrator calls Obi-Wan's lightsaber technique "an understated elegance," lacking the flash of Anakin Skywalker, the ferocity of Mace Windu or Depa Billaba, and the stylish grace of Shaak Ti or Dooku.
 
 ```
 There is an understated elegance in Obi-Wan Kenobi’s lightsaber technique, one that is quite unlike the feel one might get from the other great swordsbeings of the Jedi Order. He lacks entirely the flash, the pure bold élan of an Anakin Skywalker; there is nowhere in him the penumbral ferocity of a Mace Windu or a Depa Billaba nor the stylish grace of a Shaak Ti or a Dooku, and he is nothing resembling the whirlwind of destruction that Yoda can become.
@@ -1393,7 +1699,7 @@ That is his power.
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 129. The narrator says the greatness of Yoda, Mace Windu, Ki-Adi-Mundi and Shaak Ti pales next to the legend that has grown around Kenobi and Skywalker.
+### 152. The narrator says the greatness of Yoda, Mace Windu, Ki-Adi-Mundi and Shaak Ti pales next to the legend that has grown around Kenobi and Skywalker.
 
 ```
 Say what you will about the wisdom of ancient Master Yoda, or the deadly skill of grim Mace Windu, the courage of Ki-Adi-Mundi, or the subtle wiles of Shaak Ti; the greatness of all these Jedi is unquestioned, but it pales next to the legend that has grown around Kenobi and Skywalker.
@@ -1401,11 +1707,187 @@ Say what you will about the wisdom of ancient Master Yoda, or the deadly skill o
 — Revenge of the Sith (Matthew Stover, 2005), ch. 1
 ```
 
+### 153. d20 Core Rulebook (2000), Rise of the Empire era: Obi-Wan as a Jedi Guardian 6 with 5 Force Points, Battlemind +9 and Force Push +10. (Stat values as transcribed in our notes.)
+
+```
+Male Human Jedi Guardian 6; VP/WP 52/14; FP 5; Rep 4; Str 15, Dex 16, Con 14, Int 13, Wis 12, Cha 13; Force skills Affect Mind +6, Battlemind +9, Enhance Ability +7, Force Push +10, Move Object +6, See Force +6; Force feats Alter, Burst of Speed, Control, Deflect Blasters, Sense
+
+— Star Wars Roleplaying Game Core Rulebook (Wizards of the Coast, 2000), p. 225 †
+```
+
+### 154. The Gamer "Duel of the Fates" preview stats Obi-Wan as Jedi Guardian 6 for the Naboo duel: his total defense makes all five of Maul's attacks miss, and he cuts Maul's saber hilt. (Summarized in our notes, not verbatim.)
+
+```
+Jedi Guardian 6; VP 52 (38 at start of final duel), WP 14; Def 20 (22 melee w/ saber); lightsaber +9/+4 (3d6); Force Points 3; total defense raises Def to 28 so all five of Maul's attacks miss; cuts Maul's saber hilt (12 dmg breaks it) and kicks him down
+
+— Star Wars Roleplaying Game: Invasion of Theed (Wizards of the Coast, 2000), p. 118 †
+```
+
+### 155. The d20 Revised Core Rulebook stats Obi-Wan at the start of Episode II (Jedi Guardian 7/Jedi Master 2/Jedi Investigator 1) and at the start of Episode IV (Jedi Guardian 7/Jedi Master 5/Jedi Investigator 3, with Force Strike +9 and Master Defense). (Summarized in our notes, not verbatim.)
+
+```
+beginning of Episode II — Jedi Guardian 7/Jedi Master 2/Jedi Investigator 1, VP/WP 82/14, Atk +14/+9 lightsaber 4d8+2, Affect Mind +7, Move Object +5, See Force +7; beginning of Episode IV — Jedi Guardian 7/Jedi Master 5/Jedi Investigator 3, VP/WP 110/13, Atk +18/+13/+8 lightsaber 5d8+2/17-20, Affect Mind +12, Move Object +10, Force Strike +9, Master Defense; Challenge Code F
+
+— Star Wars Roleplaying Game Revised Core Rulebook (Wizards of the Coast, 2002), p. 299 †
+```
+
+### 156. The Revenge of the Sith d20 web collection stats Obi-Wan as Jedi Guardian 7/Jedi Master 5/Jedi Investigator 2. (Class line only, as summarized in our notes.)
+
+```
+Obi-Wan Kenobi bio + stat block (Jedi guardian 7/Jedi Master 5/Jedi investigator 2)
+
+— Star Wars Roleplaying Game: Revenge of the Sith web collection (Wizards of the Coast, 2005), ch. 1 †
+```
+
+### 157. Saga Edition Core Rulebook, Episode III Obi-Wan: CL 14, Jedi 7/Jedi Knight 5/Jedi Master 2, lightsaber +20, Use the Force +19, Soresu, with Force slam, mind trick and vital transfer. (Summarized in our notes.)
+
+```
+CL 14, Jedi 7/Jedi Knight 5/Jedi Master 2; hp 129, Threshold 29; Ref 30/Fort 29/Will 29; lightsaber +20 (2d8+13); Use the Force +19; Soresu; powers farseeing, Force slam (2), mind trick (2), move object, rebuke, surge, vital transfer
+
+— Star Wars Roleplaying Game Saga Edition Core Rulebook (Wizards of the Coast, 2007), p. 270 †
+```
+
+### 158. The Clone Wars Campaign Guide stats Obi-Wan at CL 14 (Jedi 7/Jedi Knight 5/Jedi Master 2), with Soresu, Redirect Shot, Severing Strike and Double Attack (lightsabers).
+
+```
+Obi-Wan Kenobi CL 14 Medium Human Jedi 7/Jedi Knight 5/Jedi Master 2 Destiny 2; Force 7 Init +15; Senses Perception +9 Languages Basic, Shyriiwook Defenses Ref 30 (flat-footed 27), Fort 31, Will 29; Block, Deflect, Soresu hp 129; Threshold 31 Immune fear effects Speed 6 squares Melee lightsaber +19 (2d8+13) or Melee lightsaber +14/+14 (2d8+13) […] Talents Adept Negotiator, Armored Defense, Block, Deflect, Redirect Shot, Severing Strike, Soresu, Weapon Specialization (lightsabers) Feats Armor Proficiency (light), Combat Reflexes, Double Attack (lightsabers), Force Sensitivity, Force Training (3), Skill Focus (Use the Force), Weapon Finesse, Weapon Focus (lightsabers), Weapon Proficiency (lightsabers, simple weapons)
+
+— Star Wars Roleplaying Game Saga Edition: The Clone Wars Campaign Guide (Wizards of the Coast, 2008), p. 128 †
+```
+
+### 159. A Saga Edition Galaxy at War web preview stats Obi-Wan as a Jedi General at CL 16 (Jedi 8/Soldier 1/Jedi Knight 5/Officer 1/Jedi Master 1), Will 35, immune to fear.
+
+```
+CL 16 Medium Human Jedi 8/Soldier 1/Jedi Knight 5/Officer1/Jedi Master1 Destiny 5; Force 7; Dark Side 0 Init +15; Senses Perception +11 Languages Basic, Shyriiwook [understand], Binary [understand] Defenses Ref 31 (Flatfooted 29), Fort 31, Will 35; Block, Deflect, Soresu hp 142; Threshold 31 Immune fear effects Speed 6 squares
+
+— "Galaxy at War Preview 1: Obi-Wan Kenobi, Jedi General" (Star Wars Roleplaying Game Saga Edition web article, Wizards of the Coast, 2008), collected Web Articles scan p. 281 †
+```
+
+### 160. The Clone Wars Campaign Guide says that Skywalker and Kenobi defeat Asajj Ventress shortly before the end of the war.
+
+```
+Shortly before the end of the Clone Wars, Skywalker and Kenobi defeat Asajj Ventress, and Kenobi believes that they have purged the hatred from her, redeeming her from the dark side.
+
+— Star Wars Roleplaying Game Saga Edition: The Clone Wars Campaign Guide (Wizards of the Coast, 2008), p. 186 †
+```
+
+### 161. The Complete Star Wars Encyclopedia: on Mustafar "Kenobi bested Vader, leaving the Dark Lord to die on the Mustafar riverbanks."
+
+```
+There Kenobi bested Vader, leaving the Dark Lord to die on the Mustafar riverbanks.
+
+— The Complete Star Wars Encyclopedia, Vol. II (Del Rey, 2008), p. 345 †
+```
+
+### 162. The New Essential Guide to Characters: over the years Kenobi "grew skilled in Force techniques including speed, healing, and telekinesis."
+
+```
+As the years passed Kenobi grew skilled in Force techniques including speed, healing, and telekinesis.
+
+— The New Essential Guide to Characters (Daniel Wallace, 2002), p. 105 †
+```
+
+### 163. The Complete Star Wars Encyclopedia: early in the Clone Wars, Kenobi believes he has beaten Durge "in a tremendous battle outside Harnaidan," only to face him again.
+
+```
+During the early stages of the Clone Wars, Obi-Wan Kenobi believed that he had defeated Durge in a tremendous battle outside Harnaidan, only to confront the bounty hunter again.
+
+— The Complete Star Wars Encyclopedia, Vol. II (Del Rey, 2008), p. 20 †
+```
+
+### 164. The New Essential Chronology: Obi-Wan leads Republic lancers on speeder bikes in "a classic joust that ended with Durge's defeat."
+
+```
+Obi-Wan Kenobi mounted his own speeder bike and led a squad of Republic lancers in a classic joust that ended with Durge's defeat.
+
+— The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 62 †
+```
+
+### 165. The Power of the Jedi Sourcebook: the Council knights Obi-Wan because he defeated Darth Maul after Maul killed Qui-Gon.
+
+```
+For example, the Council named Obi-Wan Kenobi a Jedi Knight because Kenobi defeated Darth Maul after he felled Master Qui-Gon Jinn.
+
+— Star Wars Roleplaying Game: Power of the Jedi Sourcebook (Wizards of the Coast, 2002), p. 43 †
+```
+
+### 166. The New Essential Chronology: Grievous duels Kenobi with four lightsabers and leads him on a chase along the sinkhole walls, and Obi-Wan kills him with a blaster shot to the gut.
+
+```
+Grievous dueled Kenobi using four lightsabers, and then led the Jedi on a wild chase along the sinkhole walls. But it was not enough. Obi-Wan shot Grievous in the gut with a blaster, killing him.
+
+— The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 82 †
+```
+
+### 167. The Complete Star Wars Encyclopedia: "Kenobi single-handedly attacked and eventually defeated" Grievous.
+
+```
+Rather than let Grievous escape again, Kenobi single-handedly attacked and eventually defeated the half-alien, half-droid general.
+
+— The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 284 †
+```
+
+### 168. The Complete Star Wars Encyclopedia: on Christophsis, Kenobi outsmarts General Loathsom by stalling him during a fake surrender parley.
+
+```
+He was outsmarted by Obi-Wan Kenobi on Christophsis, The Jedi Master stalled the general long enough during a supposed surrender parley for Anakin Skywalker and Ahsoka Tano to disable the deflector shields protecting his forces.
+
+— The Complete Star Wars Encyclopedia, Vol. II (Del Rey, 2008), p. 258 †
+```
+
+### 169. The Complete Star Wars Encyclopedia: Kenobi duels Ventress inside the castle on Teth.
+
+```
+The trio managed to flee before Obi-Wan Kenobi arrived; he dueled Ventress inside Teth castle.
+
+— The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 233 †
+```
+
+### 170. The Complete Star Wars Encyclopedia: Qui-Gon and a 13-year-old Obi-Wan kill a silan on Arorua.
+
+```
+Qui-Gon Jinn and 13-year-old Obi-Wan Kenobi slew a silan on the planet Arorua about 12 years before the Battle of Naboo.
+
+— The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 151 †
+```
+
+### 171. The New Essential Guide to Characters: on Mimban, the spirit of Obi-Wan, "fighting through Skywalker," defeats Vader and cuts through his mechanical arm.
+
+```
+When his underlings captured Luke Skywalker and Princess Leia on Mimban, Vader rushed to the world and engaged both Rebels in combat, but the spirit of Obi-Wan Kenobi, fighting through Skywalker, defeated Vader and cut through his mechanical right arm.
+
+— The New Essential Guide to Characters (Daniel Wallace, 2002), p. 157 †
+```
+
+### 172. The New Essential Chronology: Obi-Wan realizes "he could accomplish more with sacrifice than combat" and lets Vader cut him down.
+
+```
+Obi-Wan realized he could accomplish more with sacrifice than combat. Remembering the teachings of Qui-Gon Jinn, who had maintained his spirit form after entering the netherworld, Obi-Wan Kenobi let Vader cut him down.
+
+— The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005), p. 109 †
+```
+
+### 173. The Complete Star Wars Encyclopedia: "Kenobi allowed himself to be struck down by his former student."
+
+```
+In another fateful lightsaber duel, Kenobi allowed himself to be struck down by his former student, and his corporeal body disappeared as he became one with the Force.
+
+— The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 289 †
+```
+
+### 174. Star Wars Insider #62: Kenobi chooses to "surrender his body and become one with the Force", which baffles Vader.
+
+```
+Kenobi instead chooses to surrender his body and become one with the Force. Kenobi's successful effort baffles Vader as his old master's body disappears at the moment of death.
+
+— Star Wars Insider #62 (2002), p. 35 †
+```
+
 ## Limitations
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 130. XANATOS IS FASTER: Xanatos is "faster than any fighter Obi-Wan had met," and Qui-Gon, not Obi-Wan, is the one whose grace and power protect them both from the blows.
+### 175. XANATOS IS FASTER: Xanatos is "faster than any fighter Obi-Wan had met," and Qui-Gon, not Obi-Wan, is the one whose grace and power protect them both from the blows.
 
 ```
 It was hard fighting now, driven by instinct and with only the Force to help them. Xanatos was a cunning, powerful adversary. He attacked and retreated in a furious rhythm, faster than any fighter Obi-Wan had met. Qui-Gon’s grace and power were astounding as time and time again he met Xanatos with his thrusting lightsaber, protecting himself and Obi-Wan from blows.
@@ -1413,7 +1895,7 @@ It was hard fighting now, driven by instinct and with only the Force to help the
 — Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16
 ```
 
-### 131. THROWN BY DOOKU: Dooku sends a surge through the Force while Kenobi's limp body is still tumbling, accelerating his fall like a missile; he strikes the floor at a steep angle and slams into the wall so hard the permacrete buckles and collapses on him.
+### 176. THROWN BY DOOKU: Dooku sends a surge through the Force while Kenobi's limp body is still tumbling, accelerating his fall like a missile; he strikes the floor at a steep angle and slams into the wall so hard the permacrete buckles and collapses on him.
 
 ```
 While Kenobi’s bonelessly limp body was still tumbling toward the floor far below, Dooku sent a surge of energy through the Force. Kenobi’s fall suddenly accelerated like a missile burning the last of its drives before impact. The Jedi Master struck the floor at a steep angle, skidded along it, and slammed into the wall so hard the hydro-foamed permacrete buckled and collapsed onto him.
@@ -1421,7 +1903,7 @@ While Kenobi’s bonelessly limp body was still tumbling toward the floor far be
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 132. PROFICIENT ONLY IN SORESU: Obi-Wan protests that the only form in which he is truly proficient is Soresu, the most common lightsaber form, founded on the basic deflection principles all Padawans are taught and so restrained and defense-oriented.
+### 177. PROFICIENT ONLY IN SORESU: Obi-Wan protests that the only form in which he is truly proficient is Soresu, the most common lightsaber form, founded on the basic deflection principles all Padawans are taught and so restrained and defense-oriented.
 
 ```
 This pronouncement had startled Obi-Wan, and he had protested. After all, the only form in which he was truly even proficient was Soresu, which was the most common lightsaber form in the Jedi Order. Founded upon the basic deflection principles all Padawans were taught—to enable them to protect themselves from blaster bolts—Soresu was very simple, and so restrained and defense-oriented that it was very nearly downright passive.
@@ -1429,7 +1911,7 @@ This pronouncement had startled Obi-Wan, and he had protested. After all, the on
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 133. DRIVEN BACK BY ANAKIN: Anakin drives Obi-Wan back and back, slamming his blade down with strength that seems to flow from the volcano, hurling razor shards of steel at him and slashing the control panel that held back the lava storm.
+### 178. DRIVEN BACK BY ANAKIN: Anakin drives Obi-Wan back and back, slamming his blade down with strength that seems to flow from the volcano, hurling razor shards of steel at him and slashing the control panel that held back the lava storm.
 
 ```
 Anakin forced him back and back, slamming his blade down with strength that seemed to flow from the volcano overhead. He spun and whirled and sliced razor-sharp shards of steel from the wall and shot them at Obi-Wan with the full heat of his fury. He slashed through a control panel along the walkway, and the ray shield that had held back the lava storm vanished.
@@ -1437,7 +1919,7 @@ Anakin forced him back and back, slamming his blade down with strength that seem
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 134. NEARLY DISARMED BY STARFIGHTER BLASTS: In Rogue Planet, Obi-Wan deflects two starfighter blasts with his blade but their force nearly rips the lightsaber from his hands.
+### 179. NEARLY DISARMED BY STARFIGHTER BLASTS: In Rogue Planet, Obi-Wan deflects two starfighter blasts with his blade but their force nearly rips the lightsaber from his hands.
 
 ```
 As Obi-Wan rose from his stoop, a starfighter dropped from the sky, laser cannons lighting up the shattered landscape. Obi-Wan deflected two of its blasts with his blade, but their force nearly ripped the lightsaber from his hands. A third blast pulsed brilliant red to one side and hit the Blood Carver’s corpse square.
@@ -1445,7 +1927,7 @@ As Obi-Wan rose from his stoop, a starfighter dropped from the sky, laser cannon
 — Rogue Planet (Greg Bear, 2000), ch. 58
 ```
 
-### 135. MISSES THE KILLING BLOW: In the same duel Obi-Wan cuts triumphantly at Maul's head for a killing blow, and misses completely.
+### 180. MISSES THE KILLING BLOW: In the same duel Obi-Wan cuts triumphantly at Maul's head for a killing blow, and misses completely.
 
 ```
 Crying out in fury, he cut triumphantly at the Sith Lord’s horned head, a killing blow.
@@ -1455,7 +1937,7 @@ And missed completely.
 — Episode I: The Phantom Menace (Terry Brooks, 1999), ch. 23
 ```
 
-### 136. KICKED OVER THE RAILING: Maul catches Obi-Wan off balance and kicks him completely over the railing, and the novelization has him fall out of the fight.
+### 181. KICKED OVER THE RAILING: Maul catches Obi-Wan off balance and kicks him completely over the railing, and the novelization has him fall out of the fight.
 
 ```
 Then Darth Maul caught Obi-Wan off balance and with a powerful kick knocked the Jedi completely over the railing. Taking advantage of the Sith Lord’s assault on Obi-Wan, Qui-Gon forced Darth Maul over the railing as well. Down the Sith Lord tumbled, landing hard on a catwalk several levels below Obi-Wan. The force of the fall or perhaps the unexpectedness of it left him visibly stunned, and Qui-Gon leapt down after him, sensing a chance to put an end to things. But the Sith Lord struggled back to his feet quickly and raced away, taking the battle in a new direction.
@@ -1463,7 +1945,7 @@ Then Darth Maul caught Obi-Wan off balance and with a powerful kick knocked the 
 — Episode I: The Phantom Menace (Terry Brooks, 1999), ch. 22
 ```
 
-### 137. NEARLY CAUGHT BY XANATOS: Against Xanatos, Obi-Wan hopes to catch him with Qui-Gon in a pincer movement, but the lightsaber suddenly slashes toward him and he jumps back just in time, smelling the lightning of the close call.
+### 182. NEARLY CAUGHT BY XANATOS: Against Xanatos, Obi-Wan hopes to catch him with Qui-Gon in a pincer movement, but the lightsaber suddenly slashes toward him and he jumps back just in time, smelling the lightning of the close call.
 
 ```
 Obi-Wan moved off to the right, hoping that between them, he and Qui-Gon could catch Xanatos in a classic pincer movement. But suddenly the lightsaber was moving through the air, slashing toward him. He jumped back just in time. He smelled the lightning in the air from the close call.
@@ -1471,7 +1953,7 @@ Obi-Wan moved off to the right, hoping that between them, he and Qui-Gon could c
 — Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16
 ```
 
-### 138. BEATEN DOWN BY ELECTRO-JABBERS: Obi-Wan deflects one attack but an electro-jabber deals a glancing blow to his ribs, and with blinding pain he reaches for the Force dizzily, is smashed from behind and sinks to his knees.
+### 183. BEATEN DOWN BY ELECTRO-JABBERS: Obi-Wan deflects one attack but an electro-jabber deals a glancing blow to his ribs, and with blinding pain he reaches for the Force dizzily, is smashed from behind and sinks to his knees.
 
 ```
 Obi-Wan deflected the move with his lightsaber, but the electro-jabber dealt a glancing blow against his ribs. Blinding pain shot through his body. He reached out for the Force dizzily, but someone smashed him from behind. His vision turned gray and fuzzy, and he sank to his knees.
@@ -1479,7 +1961,7 @@ Obi-Wan deflected the move with his lightsaber, but the electro-jabber dealt a g
 — Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 8
 ```
 
-### 139. DISARMED BY DOOKU: In their first duel Dooku stabs under Obi-Wan's blue blade and sends it flying high, and when Obi-Wan throws himself back to parry, Dooku has already retracted into perfect defensive posture.
+### 184. DISARMED BY DOOKU: In their first duel Dooku stabs under Obi-Wan's blue blade and sends it flying high, and when Obi-Wan throws himself back to parry, Dooku has already retracted into perfect defensive posture.
 
 ```
 But with only a slight movement, the red blade stabbed under the blue, then lifted up, and Obi-Wan’s blade went flying harmlessly high of the mark. With a slight reversal of his wrist, Dooku stabbed straight ahead, and Obi-Wan had to throw himself backward. He brought his lightsaber across as he did, trying to parry, but Dooku had already retracted his blade by then and had settled back into perfect defensive posture.
@@ -1487,7 +1969,7 @@ But with only a slight movement, the red blade stabbed under the blue, then lift
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 140. WOUNDED AND DISARMED BY DOOKU: Dooku stabs into Obi-Wan's left shoulder and right thigh, drives him crashing against the wall, and rolls his red blade inside Obi-Wan's to send his lightsaber bouncing across the floor.
+### 185. WOUNDED AND DISARMED BY DOOKU: Dooku stabs into Obi-Wan's left shoulder and right thigh, drives him crashing against the wall, and rolls his red blade inside Obi-Wan's to send his lightsaber bouncing across the floor.
 
 ```
 Dooku’s red blade stabbed hard into his left shoulder, and as he lurched back, Dooku retracted the blade and stabbed along its original course, digging into Obi-Wan’s right thigh. The Jedi stumbled backward, tripping and crashing hard against the wall, but even as he fell, Dooku was there, his red blade rolling over and inside Obi-Wan’s blade, and with a sudden jerk, he sent Obi-Wan’s lightsaber bouncing across the floor.
@@ -1495,7 +1977,7 @@ Dooku’s red blade stabbed hard into his left shoulder, and as he lurched back,
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 141. OUTMANEUVERED BY DOOKU: Dooku outmaneuvers both Jedi, fighting each in turn while Kenobi comes on "in a measured Shii-Cho cadence," and judges they have learned nothing since Geonosis.
+### 186. OUTMANEUVERED BY DOOKU: Dooku outmaneuvers both Jedi, fighting each in turn while Kenobi comes on "in a measured Shii-Cho cadence," and judges they have learned nothing since Geonosis.
 
 ```
 Oh, they were certainly energetic enough, leaping and whirling, raining blows almost at random, cutting chairs to pieces and Force-hurling them in every conceivable direction, while Dooku continued, in his gracefully methodical way, to outmaneuver them so thoroughly it was all he could do to keep from laughing out loud.
@@ -1513,7 +1995,7 @@ He drew their strikes to his parries, and drove his own ripostes with thrusts of
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 142. TOO SLOW, TOO PREDICTABLE: Locked blade to blade with Kenobi, Dooku tells him his moves are too slow and too predictable.
+### 187. TOO SLOW, TOO PREDICTABLE: Locked blade to blade with Kenobi, Dooku tells him his moves are too slow and too predictable.
 
 ```
 He leaned into a thrust at Kenobi’s gut that the Jedi Master deflected with a rising parry, bringing them chest-to-chest, blades flaring, locked together a handbreadth from each other’s throats. “Your moves are too slow, Kenobi. Too predictable. You’ll have to do better.”
@@ -1521,7 +2003,7 @@ He leaned into a thrust at Kenobi’s gut that the Jedi Master deflected with a 
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 143. KICKED UNCONSCIOUS: After Kenobi's single slash dismantles two droids, Dooku's wheel-kick to the point of his chin knocks him out.
+### 188. KICKED UNCONSCIOUS: After Kenobi's single slash dismantles two droids, Dooku's wheel-kick to the point of his chin knocks him out.
 
 ```
 Kenobi reached the top of the stairs and a single slash of his lightsaber dismantled both droids. Before their pieces could even hit the floor Dooku was in motion, landing a spinning side-stamp that folded Skywalker in half; he used his last burst of dark power to continue his spin into a blindingly fast wheel-kick that brought his heel against the point of Kenobi’s chin with a crack like the report of a huge-bore slugthrower, knocking the Jedi Master back down the stairs. Sounded like he’d broken his neck.
@@ -1529,7 +2011,13 @@ Kenobi reached the top of the stairs and a single slash of his lightsaber disman
 — Revenge of the Sith (Matthew Stover, 2005), ch. 3
 ```
 
-### 144. NEARLY THROWN INTO A RAY SHIELD: Trying to cut through the deck of the ray-shield trap, Obi-Wan's blade hits a hidden shield and is almost thrown into the annihilating energy.
+```
+He bested Kenobi, knocking the Jedi unconscious with a brutal Force push, but was unable to overpower Skywalker.
+
+— The Complete Star Wars Encyclopedia, Vol. I (Del Rey, 2008), p. 199 †
+```
+
+### 189. NEARLY THROWN INTO A RAY SHIELD: Trying to cut through the deck of the ray-shield trap, Obi-Wan's blade hits a hidden shield and is almost thrown into the annihilating energy.
 
 ```
 Obi-Wan nodded, scowling darkly at the ray shield box as though seeing it for the first time; after a moment, he took out his lightsaber again, ignited it, and sank its tip into the deck at his feet. The blade burned through the durasteel plate almost without resistance—and then flared and bucked and spat lightning as it hit a shield in place in a gap below the plate, and almost threw Obi-Wan into the annihilating energy of the ray shield behind him.
@@ -1537,7 +2025,7 @@ Obi-Wan nodded, scowling darkly at the ray shield box as though seeing it for th
 — Revenge of the Sith (Matthew Stover, 2005), ch. 6
 ```
 
-### 145. PINNED BY A MAGNAGUARD: IG-101 presses Kenobi back against a console, and he might have died there but for a super battle droid's stray fire.
+### 190. PINNED BY A MAGNAGUARD: IG-101 presses Kenobi back against a console, and he might have died there but for a super battle droid's stray fire.
 
 ```
 Let his MagnaGuards fight the Jedi; that’s what they were designed for—and they were doing their jobs well. IG-101 had pressed Kenobi back against a console, lightning blazing from his electrostaff’s energy shield where it pushed on Kenobi’s blade; the Jedi general might have died then and there, except that one of the simple-minded super battle droids turned both arm cannons on his back, giving Kenobi the chance to duck and allow the hammering blaster bolts to slam 101 stumbling backward. Skywalker had stashed the Chancellor somewhere—that sniveling coward Palpatine was probably trembling under one of the control consoles—and had managed to sever both of 102’s legs below the knee, which for some reason he apparently expected to end the fight; he seemed completely astonished when 102 whirled nimbly on one end of his electrostaff and used the stumps of his legs to thump Skywalker so soundly the Jedi went down skidding.
@@ -1545,7 +2033,7 @@ Let his MagnaGuards fight the Jedi; that’s what they were designed for—and t
 — Revenge of the Sith (Matthew Stover, 2005), ch. 7
 ```
 
-### 146. THROWN BY GRIEVOUS: Grievous heaves Obi-Wan overhead to slam him to the deck with killing power, and the electrostaff blow that follows sends him sprawling.
+### 191. THROWN BY GRIEVOUS: Grievous heaves Obi-Wan overhead to slam him to the deck with killing power, and the electrostaff blow that follows sends him sprawling.
 
 ```
 Instead of waiting for an answer he spun, heaving Obi-Wan right off the deck with effortless strength, whipping him up over his head to slam him to the deck with killing power; Obi-Wan could only let go of the staff and allow the Force to angle his fall into a stumbling roll. Grievous sprang after him, swinging the electrostaff and slamming it across Obi-Wan’s flank before the Jedi Master could recover his balance. The impact sent Obi-Wan tumbling sideways and the electroburst discharge set his robe on fire. Grievous stayed right with him, attacking before Obi-Wan could even realize exactly what was happening, attacking faster than thought—
@@ -1553,7 +2041,13 @@ Instead of waiting for an answer he spun, heaving Obi-Wan right off the deck wit
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 147. WINDED AND DEFENSELESS: After the landing-deck slam, Obi-Wan still cannot breathe and has no hope of rising to meet Grievous's charge.
+```
+Kenobi was nearly bested, but in the course of the brawl, the Jedi had loosened the plates that protected Grievous's organic innards.
+
+— The Complete Star Wars Encyclopedia, Vol. II (Del Rey, 2008), p. 211 †
+```
+
+### 192. WINDED AND DEFENSELESS: After the landing-deck slam, Obi-Wan still cannot breathe and has no hope of rising to meet Grievous's charge.
 
 ```
 Obi-Wan still couldn’t breathe. He had no hope of rising to meet the general’s attack.
@@ -1561,7 +2055,7 @@ Obi-Wan still couldn’t breathe. He had no hope of rising to meet the general�
 — Revenge of the Sith (Matthew Stover, 2005), ch. 15
 ```
 
-### 148. NO CHANCE AGAINST SIDIOUS: Obi-Wan tells Yoda that Palpatine faced four of the Order's greatest swordsmen alone, and that even the two of them together would not have a chance.
+### 193. NO CHANCE AGAINST SIDIOUS: Obi-Wan tells Yoda that Palpatine faced four of the Order's greatest swordsmen alone, and that even the two of them together would not have a chance.
 
 ```
 Now Obi-Wan did face him. “Palpatine faced Mace and Agen and Kit and Saesee—four of the greatest swordsmen our Order has ever produced. By himself. Even both of us together wouldn’t have a chance.”
@@ -1569,7 +2063,7 @@ Now Obi-Wan did face him. “Palpatine faced Mace and Agen and Kit and Saesee—
 — Revenge of the Sith (Matthew Stover, 2005), ch. 19
 ```
 
-### 149. DEFLECTED BOLTS SENT BACK: Obi-Wan barely catches some blaster bolts and flips them at Anakin as a desperation move; Anakin easily sends them back.
+### 194. DEFLECTED BOLTS SENT BACK: Obi-Wan barely catches some blaster bolts and flips them at Anakin as a desperation move; Anakin easily sends them back.
 
 ```
 Obi-Wan barely caught some and flipped them at Anakin: a desperation move. Anything to distract him; anything to slow him down. Easily, contemptuously, Anakin sent them back, and the bolts flared between their blades until their galvening faded and the particles of the packeted beams dispersed into radioactive fog.
@@ -1577,7 +2071,7 @@ Obi-Wan barely caught some and flipped them at Anakin: a desperation move. Anyth
 — Revenge of the Sith (Matthew Stover, 2005), ch. 20
 ```
 
-### 150. CANNOT YET HEAR QUI-GON: Arriving on Tatooine, Obi-Wan writes that he has not heard Qui-Gon's voice since Polis Massa, though Yoda told him he could commune with him through the Force.
+### 195. CANNOT YET HEAR QUI-GON: Arriving on Tatooine, Obi-Wan writes that he has not heard Qui-Gon's voice since Polis Massa, though Yoda told him he could commune with him through the Force.
 
 ```
 I hope you can read my thoughts, Master Qui-Gon: I haven’t heard your voice since that day on Polis Massa, when Master Yoda told me I could commune with you through the Force. You’ll remember that we decided I should take Anakin’s son to his relatives for safekeeping. That mission is now accomplished.
@@ -1585,7 +2079,7 @@ I hope you can read my thoughts, Master Qui-Gon: I haven’t heard your voice si
 — Kenobi (John Jackson Miller, 2013), prologue
 ```
 
-### 151. YOUR POWERS ARE WEAK: Facing Vader, Kenobi's eyes water and sweat beads on his forehead; Vader tells him his powers are weak and later that his skill remains but his power fades.
+### 196. YOUR POWERS ARE WEAK: Facing Vader, Kenobi's eyes water and sweat beads on his forehead; Vader tells him his powers are weak and later that his skill remains but his power fades.
 
 ```
 Kenobi blinked once, shook his head, and tried to clear his eyes, which had begun to water slightly. Sweat beaded up on his forehead, and his eyelids fluttered again.
@@ -1599,7 +2093,7 @@ Kenobi blinked once, shook his head, and tried to clear his eyes, which had begu
 — Star Wars: From the Adventures of Luke Skywalker (George Lucas [Alan Dean Foster], 1976), ch. 10
 ```
 
-### 152. CANNOT INTERFERE: As a spirit, Ben tells Luke he cannot protect him: if Luke faces Vader he will do it alone, and Ben cannot interfere.
+### 197. CANNOT INTERFERE: As a spirit, Ben tells Luke he cannot protect him: if Luke faces Vader he will do it alone, and Ben cannot interfere.
 
 ```
 “I cannot protect you, Luke,” the voice of Ben Kenobi came, as his robed figure took solid form. “If you choose to face Vader, you will do it alone. Once you’ve made this decision, I cannot interfere.”
@@ -1607,7 +2101,7 @@ Kenobi blinked once, shook his head, and tried to clear his eyes, which had begu
 — The Empire Strikes Back (Donald F. Glut, 1980), ch. 11
 ```
 
-### 153. MAUL WAS STRONGER: The narrator says Maul was the stronger of the two, driven by a frenzy surpassing Obi-Wan's, and gradually wears him down until Obi-Wan feels his body weakening.
+### 198. MAUL WAS STRONGER: The narrator says Maul was the stronger of the two, driven by a frenzy surpassing Obi-Wan's, and gradually wears him down until Obi-Wan feels his body weakening.
 
 ```
 The battle wore on, and for a time it was fought evenly. But Darth Maul was the stronger of the two and was driven by a frenzy that surpassed even the frantic determination that fueled Obi-Wan. Eventually, the Sith Lord began to wear the young Jedi down. Bit by bit, he pressed him back, carrying the attack to him, looking to catch him off guard. Obi-Wan could sense his body weakening, and his fear of what it would mean if he, too, were to fall, began to grow.
@@ -1615,7 +2109,7 @@ The battle wore on, and for a time it was fought evenly. But Darth Maul was the 
 — Episode I: The Phantom Menace (Terry Brooks, 1999), ch. 23
 ```
 
-### 154. OUTFOUGHT BY JANGO: Jango reverses Obi-Wan's tackle and stops him cold, and as they slide toward the edge he punches Obi-Wan repeatedly while Obi-Wan tries to find his way back to the Force.
+### 199. OUTFOUGHT BY JANGO: Jango reverses Obi-Wan's tackle and stops him cold, and as they slide toward the edge he punches Obi-Wan repeatedly while Obi-Wan tries to find his way back to the Force.
 
 ```
 But Jango showed the Jedi why he had been chosen as the basis for the clones. He went with the flow of the tackle for a moment, then suddenly reversed his footing and his momentum, stopping Obi-Wan’s progress cold.
@@ -1627,7 +2121,7 @@ Obi-Wan kicked and tried to find his way back to the Force, but Jango punched hi
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 18
 ```
 
-### 155. DOOKU MORE EFFICIENT: Against Dooku, Obi-Wan's leaps and slashes are less efficient than Dooku's single line; his slashes are turned aside, he retreats gasping for breath, and his parries hit nothing but air as Dooku's thrusts close in.
+### 200. DOOKU MORE EFFICIENT: Against Dooku, Obi-Wan's leaps and slashes are less efficient than Dooku's single line; his slashes are turned aside, he retreats gasping for breath, and his parries hit nothing but air as Dooku's thrusts close in.
 
 ```
 Now, as the battle played out between the Count and Obi-Wan, the older way showed its brilliance. Obi-Wan leapt and spun, slashing side to side, chopping and thrusting, but all of Dooku’s movements seemed far more efficient. He followed a single line, front and back, his feet shifting to keep him constantly in perfect balance as he retreated and came on suddenly with devastating thrusts that had Obi-Wan stumbling backward.
@@ -1643,7 +2137,7 @@ And then it was Dooku suddenly pressing the attack, his red blade stabbing and r
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 24
 ```
 
-### 156. CANNOT MATCH ANAKIN'S SLED: Chased across the ice of Naos III, Obi-Wan is unable to replicate Anakin's deft turns, falls behind, and is left an easy target for the bridge gunners.
+### 201. CANNOT MATCH ANAKIN'S SLED: Chased across the ice of Naos III, Obi-Wan is unable to replicate Anakin's deft turns, falls behind, and is left an easy target for the bridge gunners.
 
 ```
 Unable to replicate Anakin’s deft turns, Obi-Wan was falling farther behind with each quarter kilometer, and was now making himself an easy target for the assassins on the bridge. With no hope of negotiating the hail of fire, he maneuvered the sled through a long turn away from the span. But no sooner did he emerge from his half circle than he found himself on a collision course with the last of the pursuit sleds.
@@ -1651,7 +2145,7 @@ Unable to replicate Anakin’s deft turns, Obi-Wan was falling farther behind wi
 — Labyrinth of Evil (James Luceno, 2005), ch. 29
 ```
 
-### 157. BLASTED AND WOUNDED ON ZONAMA SEKOT: Distracted while shielding Anakin, Obi-Wan cannot raise his lightsaber in time to deflect a laser salvo, which hurls him several meters and leaves a shard of rock in his solar plexus.
+### 202. BLASTED AND WOUNDED ON ZONAMA SEKOT: Distracted while shielding Anakin, Obi-Wan cannot raise his lightsaber in time to deflect a laser salvo, which hurls him several meters and leaves a shard of rock in his solar plexus.
 
 ```
 Obi-Wan took hold of his shoulder and pushed him low to the smooth rock surface. Thus distracted, he could not raise the lightsaber in time to provide even a partial deflection for the next laser salvo. The blast knocked him several meters and tumbled him over and over. Flecks of broken and molten rock flew through the air, burning his clothes, drilling into his skin. Instinctively, he held up one arm to shield his face and the other to protect Anakin.
@@ -1661,7 +2155,7 @@ But the boy was out of reach. Obi-Wan could not get up. Something had slammed in
 — Rogue Planet (Greg Bear, 2000), ch. 42
 ```
 
-### 158. KIT FISTO THE BETTER SWORDFIGHTER: Sparring with Kit Fisto for an hour, Obi-Wan swiftly discovers that Kit is the better swordfighter, more aggressive and intuitive than Obi-Wan's measured style.
+### 203. KIT FISTO THE BETTER SWORDFIGHTER: Sparring with Kit Fisto for an hour, Obi-Wan swiftly discovers that Kit is the better swordfighter, more aggressive and intuitive than Obi-Wan's measured style.
 
 ```
 Obi-Wan and Kit had been engaged for an hour now, each seeking holes in the other’s defense. Obi-Wan swiftly discovered that Kit was the better swordfighter, astonishingly aggressive and intuitive in comparison with Obi-Wan’s more measured style. But the Nautolan gave himself deliberate disadvantages, hampered himself in terms of balance, limited his speed, emphasized his nondominant side to force himself to full attention, the kind of full attention that can be best accessed only when life itself is at risk. To relax and feel the flow of the Force under such stress was the true road to mastery.
@@ -1669,7 +2163,7 @@ Obi-Wan and Kit had been engaged for an hour now, each seeking holes in the othe
 — The Cestus Deception (Steven Barnes, 2004), ch. 11
 ```
 
-### 159. FLOORED BY VENTRESS: Ventress's spinning kick slams Obi-Wan down onto the dock, and he is left fighting from his back with little room to move until he cuts the pilings and drops them both into the water.
+### 204. FLOORED BY VENTRESS: Ventress's spinning kick slams Obi-Wan down onto the dock, and he is left fighting from his back with little room to move until he cuts the pilings and drops them both into the water.
 
 ```
 There was no time for conscious thought, no time for anything but response as Obi-Wan ducked and spun back. Ventress drew his attention to the left and leapt into the air in a spinning kick that slammed Obi-Wan down into the dock. Once down, he never had a chance to get up again, found himself fighting from his back, wiggling and edging backwards, movement so limited that he knew the confrontation might be over within seconds. The first touch of desperation wormed its way through his emotional shields.
@@ -1681,7 +2175,7 @@ He triggered it, and sliced the pilings supporting the dock. Ventress howled in 
 — The Cestus Deception (Steven Barnes, 2004), ch. 77
 ```
 
-### 160. DRIVEN TO FRENZY ON ZIGOOLA: Under the Sith influence of Zigoola, Obi-Wan slashes indiscriminately at the forest, cutting whole trees in half as though they were his enemies.
+### 205. DRIVEN TO FRENZY ON ZIGOOLA: Under the Sith influence of Zigoola, Obi-Wan slashes indiscriminately at the forest, cutting whole trees in half as though they were his enemies.
 
 ```
 And then the Jedi plunged his lightsaber through the heart of a tree.
@@ -1693,7 +2187,7 @@ Then it wasn’t just branches falling victim to Obi-Wan’s frenzy—entire tre
 — The Clone Wars: Wild Space (Karen Miller, 2008), ch. 19
 ```
 
-### 161. CUT OFF FROM THE FORCE: On Zigoola Obi-Wan tells Bail that for all he can use the Force there he might as well be a droid.
+### 206. CUT OFF FROM THE FORCE: On Zigoola Obi-Wan tells Bail that for all he can use the Force there he might as well be a droid.
 
 ```
 “No,” said Obi-Wan, and his thin face twisted with revulsion. “For all that I can use the Force here I might as well be a droid. If you could feel what it’s like—if you had any idea—my blood has turned rancid.”
@@ -1701,7 +2195,7 @@ Then it wasn’t just branches falling victim to Obi-Wan’s frenzy—entire tre
 — The Clone Wars: Wild Space (Karen Miller, 2008), ch. 19
 ```
 
-### 162. WEAKENING ON LANTEEB: Fighting droids in the Lanteeb street, Obi-Wan sways, his lightsaber thrusts and slashes weakening until hardly any droids are falling.
+### 207. WEAKENING ON LANTEEB: Fighting droids in the Lanteeb street, Obi-Wan sways, his lightsaber thrusts and slashes weakening until hardly any droids are falling.
 
 ```
 Looking over his shoulder he saw that Obi-Wan was swaying, the thrust and slash of his lightsaber weakening. Hardly any of the attacking droids were falling now. A blaster bolt ripped by him and blew a hole in the ferrocrete less than a meter away. Any moment now they’d be surrounded—and dead.
@@ -1709,7 +2203,7 @@ Looking over his shoulder he saw that Obi-Wan was swaying, the thrust and slash 
 — The Clone Wars: Gambit: Stealth (Karen Miller, 2010), ch. 20
 ```
 
-### 163. COMPULSION FAILS ON ARRAD: In the failing Torbel refinery, Obi-Wan pours every last bit of compulsion he possesses into his eyes and voice, but Arrad snaps his wrist free and refuses to leave.
+### 208. COMPULSION FAILS ON ARRAD: In the failing Torbel refinery, Obi-Wan pours every last bit of compulsion he possesses into his eyes and voice, but Arrad snaps his wrist free and refuses to leave.
 
 ```
 Battered by noise and by the Force’s insistent push that he get out get out get out, Obi-Wan lunged for Rikkard’s son. Taking hold of the young man’s wrist, he poured every last bit of compulsion he possessed into his eyes, his voice.
@@ -1723,7 +2217,7 @@ Obi-Wan stared at him. If I force him out of here at the tip of my lightsaber, t
 — The Clone Wars: Gambit: Siege (Karen Miller, 2010), ch. 9
 ```
 
-### 164. CANNOT FORCE THE DOOR: Concentrating the Force together, Obi-Wan and Qui-Gon cannot open the door, or even turn it transparent.
+### 209. CANNOT FORCE THE DOOR: Concentrating the Force together, Obi-Wan and Qui-Gon cannot open the door, or even turn it transparent.
 
 ```
 “Together, then,” Obi-Wan suggested. They concentrated, drawing the Force to bear on the door. It did not open, or even turn transparent.
@@ -1731,7 +2225,7 @@ Obi-Wan stared at him. If I force him out of here at the tip of my lightsaber, t
 — Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 17
 ```
 
-### 165. UNUSED TO A SWORD: Dueling Beju, Obi-Wan's timing and footwork are off with a sword heavier than a lightsaber, and Beju presses his advantage.
+### 210. UNUSED TO A SWORD: Dueling Beju, Obi-Wan's timing and footwork are off with a sword heavier than a lightsaber, and Beju presses his advantage.
 
 ```
 Beju pressed forward, slashing at Obi-Wan, who parried each blow. His lightsaber training helped, but he was not used to the shock that traveled up his arm each time their swords tangled. The sword was heavier than a lightsaber, and his timing and footwork were off because of it. Beju pressed his advantage, driving forward, his sword glinting as it slashed through the air. For the first time, Obi-Wan had his doubts that he could defeat the Prince at his own game.
@@ -1739,7 +2233,7 @@ Beju pressed forward, slashing at Obi-Wan, who parried each blow. His lightsaber
 — Jedi Apprentice 4: The Mark of the Crown (Jude Watson, 1999), ch. 15
 ```
 
-### 166. KICKED ASIDE BY XANATOS: Still shaken, Obi-Wan barely parries Xanatos's blow and is sent flying backward by his kick.
+### 211. KICKED ASIDE BY XANATOS: Still shaken, Obi-Wan barely parries Xanatos's blow and is sent flying backward by his kick.
 
 ```
 The steam was sucked back into the fissure. At the same moment, Xanatos leaped forward. Still shaken, Obi-Wan was caught off guard. He barely was able to parry Xanatos' blow with his lightsaber. Xanatos whirled, one leg kicking out, sending Obi-Wan flying backward.
@@ -1747,7 +2241,7 @@ The steam was sucked back into the fissure. At the same moment, Xanatos leaped f
 — Jedi Apprentice 8: The Day of Reckoning (Jude Watson, 2000), ch. 16
 ```
 
-### 167. TANGLED BY ONA NOBIS'S WHIP: Ona Nobis's laser whip wraps around Obi-Wan's blade, and his attempt to flick it away fails as it curls back and strikes again.
+### 212. TANGLED BY ONA NOBIS'S WHIP: Ona Nobis's laser whip wraps around Obi-Wan's blade, and his attempt to flick it away fails as it curls back and strikes again.
 
 ```
 He reached the next catwalk. The whip flashed above his head. Obi-Wan saw it coming and slashed at it with the lightsaber. The two lasers tangled as the whip wrapped around the blade of his lightsaber.
@@ -1757,4 +2251,76 @@ He reached the next catwalk. The whip flashed above his head. Obi-Wan saw it com
 Ona Nobis cracked her whip. It tangled with the lightsaber. Obi-Wan twisted his wrist, hoping to flick the whip away. Instead, it curled back and struck again.
 
 — Jedi Apprentice 12: The Evil Experiment (Jude Watson, 2001), ch. 13
+```
+
+### 213. DAZED: Behind the machinery, Obi-Wan suddenly feels hazy, his vision blurs and voices echo in his ears.
+
+```
+Behind the machinery, Obi-Wan suddenly felt a little hazy. His vision blurred and the voices around him echoed in his ears. From somewhere in his daze he realized that Dr. Lundi's anger was affecting him. Yoda had told Obi-Wan that anger and hatred clouded one's mind but he'd never felt this muddled by someone else's anger before. Jedi Master Yarael Poof had amazing powers of Force suggestion. Perhaps all Quermians were telepathic.
+
+— Jedi Apprentice Special Edition: The Followers (Jude Watson, 2002), ch. 5
+```
+
+### 214. THE FORCE SLIPS AWAY: Before the battle on Melida/Daan, Obi-Wan cannot reach the Force; it "slipped away from him like an unseen sea creature".
+
+```
+Obi-Wan reached out to the Force. He would need it in this battle. But the Force slipped away from him like an unseen sea creature that brushed against him and then moved on. He could not reach it or summon it. He could only imagine its great power.
+
+— Jedi Apprentice 6: The Uncertain Path (Jude Watson, 1999), ch. 1
+```
+
+### 215. THROWN FROM A SPEEDER: The clerk rams the Jedi's speeder from behind, and Obi-Wan slides off the back end.
+
+```
+He was too late. The clerk hit the speeder behind his again, and the Jedi's speeder jolted backward. Obi-Wan felt himself slide off the back end of the speeder. He was thrown over the railing, straight into space.
+
+— Jedi Apprentice 11: The Deadly Hunter (Jude Watson, 2000), ch. 12
+```
+
+### 216. CAUGHT IN AN AWKWARD POSITION: He is attacked while cutting through durasteel and has to kick out before he can turn.
+
+```
+Obi-Wan kicked out with one leg as he tried to turn to meet the attack. He had been in an awkward position, just beginning to cut through the durasteel with his lightsaber. He felt the studded spikes on the end of the whip catch his leg as he turned. The pain seared him, but he kept moving, raising his lightsaber to meet the flashing whip.
+
+— Jedi Apprentice 11: The Deadly Hunter (Jude Watson, 2000), ch. 15
+```
+
+### 217. SLIPS ON ICE: As malias attack from the trees, his foot slides on a patch of ice and he goes down.
+
+```
+Another malia streaked toward the trees. Now they would be attacked from above as well as the ground. Obi-Wan's foot slid on a patch of ice and he went down on one hand. Qui-Gon leaped forward to cover him, but not before a malia sprang forward, alert for any weakness. Obi-Wan saw the malia's sharp teeth reach for his outstretched hand. He flipped over and risked a quick kick to the animal's flank. He summoned the Force behind it, and the surprised animal flew back across the path, snarling and spitting.
+
+— Jedi Apprentice 14: The Ties That Bind (Jude Watson, 2001), ch. 1
+```
+
+### 218. LIMITED FORCE POINTS AS JEDI GENERAL: The Galaxy at War preview notes that, unlike the earlier miniature, the Jedi General has "limited Force points".
+
+```
+He again has Soresu Style Mastery and Mettle to prevent taking damage but, unlike the previous version, he has limited Force points and doesn't have Master of the Force 2.
+
+— "Galaxy at War Preview 1: Obi-Wan Kenobi, Jedi General" (Star Wars Roleplaying Game Saga Edition web article, Wizards of the Coast, 2008), collected Web Articles scan p. 281 †
+```
+
+### 219. FORM III CANNOT BEAT VADER: Star Wars Insider #62 says that in the Death Star duel, Kenobi's Form III "cannot bring him victory against the more powerful Form V."
+
+```
+Nonetheless, it is a life-and-death battle pitting Kenobi's defensive Form III mastery against Vader's angry Form V power. Classically, Form III allows Kenobi to hold off the Dark Lord but cannot bring him victory against the more powerful Form V.
+
+— Star Wars Insider #62 (2002), p. 35 †
+```
+
+### 220. HELPLESS AS QUI-GON DIES: The Complete Star Wars Encyclopedia says that "Kenobi watched helplessly as Maul killed Jinn."
+
+```
+Kenobi watched helplessly as Maul killed Jinn, and he rushed to kill the Sith Lord in turn.
+
+— The Complete Star Wars Encyclopedia, Vol. II (Del Rey, 2008), p. 209 †
+```
+
+### 221. PRESUMED DEAD ON JABIIM: The Complete Star Wars Encyclopedia says that Obi-Wan and Alpha were "presumed killed in an AT-AT explosion."
+
+```
+Alpha continued to serve with Kenobi and Skywalker on Jabiim, where he and Obi- Wan were presumed killed in an AT-AT explosion.
+
+— The Complete Star Wars Encyclopedia, Vol. I (Del Rey, 2008), p. 25 †
 ```
