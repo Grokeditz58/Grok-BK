@@ -824,7 +824,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [kylan-dupre.md](kylan-dupre.md) | Kylan DuPre (NEW 2026-11-03) | NR (Thrawn Trilogy) | untiered | 1 | 1 | 0 | 0 | Kylan DuPre | 1 | 1 | 0 | 1 |
 | [kyle-katarn.md](kyle-katarn.md) | Kyle Katarn | GCW–NR | DEEP | 681 | 674 | 7 | 74 | Kyle Katarn, Katarn, Kyle | 678 | 413 | n/a | n/a |
 | [kylo-ren.md](kylo-ren.md) | Kylo Ren | Sequel | untiered | 1 | 1 | 0 | 0 | Kylo Ren, Ben Solo | 1 | 0 | 0 | 0 |
-| [kyp-durron.md](kyp-durron.md) | Kyp Durron | NR–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 633 | 633 | 0 | 106 | Kyp Durron, Kyp | 79 | 80 | n/a | n/a |
+| [kyp-durron.md](kyp-durron.md) | Kyp Durron | NR–LotF | MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, | 633 | 633 | 0 | 106 | Kyp Durron, Kyp | 108 | 109 | n/a | n/a |
 | [l4-3po.md](l4-3po.md) | L4-3PO (NEW 2026-10-30) | GCW | untiered | 1 | 1 | 0 | 0 | L4-3PO, Elfour | 1 | 0 | 0 | 0 |
 | [lady-saro.md](lady-saro.md) | Lady Saro (NEW 2026-11-03) | Dark Times (19 BBY) | untiered | 47 | 47 | 0 | 0 | Lady Saro, Saro, High Priestess of Atoa | 47 | 35 | 0 | 41 |
 | [lady-valarian.md](lady-valarian.md) | Lady Valarian | Galactic Civil War | untiered | 16 | 16 | 0 | 0 | Lady Valarian, Valarian | 16 | 10 | 0 | 2 |
