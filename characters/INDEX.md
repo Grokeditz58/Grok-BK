@@ -351,7 +351,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [darth-mekhis.md](darth-mekhis.md) | Darth Mekhis | TOR | untiered | 5 | 5 | 0 | 0 | Darth Mekhis, Mekhis | 5 | 4 | 0 | 4 |
 | [darth-millennial.md](darth-millennial.md) | Darth Millennial | Old Republic | untiered | 2 | 2 | 0 | 0 | Darth Millennial | 2 | 0 | 0 | 0 |
 | [darth-mursto.md](darth-mursto.md) | Darth Mursto (NEW 2026-11-03) | Legacy (137 ABY) | untiered | 7 | 7 | 0 | 0 | Darth Mursto, Mursto | 7 | 4 | 0 | 3 |
-| [darth-nihilus.md](darth-nihilus.md) | Darth Nihilus | KOTOR II | DEEP | 466 | 466 | 0 | 32 | Darth Nihilus, Nihilus | 49 | 49 | n/a | n/a |
+| [darth-nihilus.md](darth-nihilus.md) | Darth Nihilus | KOTOR II | DEEP | 466 | 466 | 0 | 32 | Darth Nihilus, Nihilus | 50 | 51 | n/a | n/a |
 | [darth-nihl.md](darth-nihl.md) | Darth Nihl | Legacy | MASTERY (Legacy-era version only) | 325 | 325 | 0 | 18 | Darth Nihl, Nihl | 321 | 141 | 5 | 120 |
 | [darth-nostrem.md](darth-nostrem.md) | Darth Nostrem | TOR | untiered | 1 | 1 | 0 | 0 | Darth Nostrem, Nostrem | 1 | 0 | 0 | 0 |
 | [darth-nox.md](darth-nox.md) | Darth Nox (Sith Inquisitor) | TOR | DEEP | 111 | 110 | 1 | 12 | Darth Nox (Sith Inquisitor), Nox, Sith Inquisitor (SWTOR) | 111 | 60 | 1 | 40 |
@@ -1442,7 +1442,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [tyvokka.md](tyvokka.md) | Tyvokka | Prequel | untiered | 64 | 64 | 0 | 5 | Tyvokka | 62 | 30 | 0 | 2 |
 | [u-3po.md](u-3po.md) | U-3PO (NEW 2026-10-30) | Rebellion | untiered | 1 | 1 | 0 | 0 | U-3PO | 1 | 0 | 0 | 0 |
 | [uldir-lochett.md](uldir-lochett.md) | Uldir Lochett | NJO | untiered | 40 | 40 | 0 | 0 | Uldir Lochett, Uldir | 84 | 52 | 1 | 45 |
-| [ulic-qel-droma.md](ulic-qel-droma.md) | Ulic Qel-Droma | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 631 | 629 | 2 | 70 | Ulic Qel-Droma, Ulic | 94 | 94 | 20 | 171 |
+| [ulic-qel-droma.md](ulic-qel-droma.md) | Ulic Qel-Droma | Great Sith War | MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Up | 631 | 629 | 2 | 70 | Ulic Qel-Droma, Ulic | 95 | 95 | 20 | 171 |
 | [ull-murub.md](ull-murub.md) | Ull Murub (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Ull Murub | 1 | 0 | 0 | 0 |
 | [ulric-tagge.md](ulric-tagge.md) | Ulric Tagge (NEW 2026-10-29) |  | untiered | 6 | 5 | 1 | 0 | Ulric Tagge | 6 | 3 | 0 | 0 |
 | [umak-leth.md](umak-leth.md) | Umak Leth (NEW 2026-11-03) | NR (Dark Empire) | untiered | 20 | 20 | 0 | 0 | Umak Leth | 20 | 17 | 0 | 20 |
