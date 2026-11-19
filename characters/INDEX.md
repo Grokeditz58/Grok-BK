@@ -1547,7 +1547,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [yarua.md](yarua.md) | Yarua | Prequel | untiered | 10 | 10 | 0 | 0 | Yarua, Senator Yarua | 10 | 6 | 0 | 4 |
 | [yesha-bergeron.md](yesha-bergeron.md) | Yesha Bergeron | NJO | untiered | 1 | 1 | 0 | 0 | Yesha Bergeron, Yesha Bergeson | 1 | 0 | 0 | 0 |
 | [yogand.md](yogand.md) | Yo'Gand | Ancient Yuuzhan Vong | untiered | 1 | 1 | 0 | 0 | Yo'Gand, Warmaster Yo'Gand | 1 | 0 | 0 | 0 |
-| [yoda.md](yoda.md) | Yoda | Prequel–GCW | DEEP | 2467 | 2384 | 83 | 358 | Yoda, Master Yoda, Grand Master Yoda | 46 | 47 | n/a | n/a |
+| [yoda.md](yoda.md) | Yoda | Prequel–GCW | DEEP | 2467 | 2384 | 83 | 358 | Yoda, Master Yoda, Grand Master Yoda | 81 | 81 | n/a | n/a |
 | [yomin-carr.md](yomin-carr.md) | Yomin Carr (NEW 2026-10-29) |  | untiered | 6 | 6 | 0 | 0 | Yomin Carr | 15 | 10 | 0 | 9 |
 | [youk.md](youk.md) | Youk (NEW 2026-10-30) | GCW | untiered | 2 | 2 | 0 | 0 | Youk | 2 | 0 | 0 | 0 |
 | [yrssk.md](yrssk.md) | Yrssk (NEW 2026-10-29) |  | untiered | 7 | 7 | 0 | 0 | Yrssk | 7 | 2 | 0 | 0 |
@@ -1605,7 +1605,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 66
 - [Revan](revan.md): 132
 - [Darth Caedus / Jacen Solo](darth-caedus.md): 193
-- [Yoda](yoda.md): 46
+- [Yoda](yoda.md): 81
 - [Count Dooku / Darth Tyranus](count-dooku.md): 47
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2249
 - [General Grievous](general-grievous/README.md): 2190
@@ -1636,7 +1636,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 - [Luke Skywalker](luke-skywalker.md): 85
 - [Obi-Wan Kenobi](obi-wan-kenobi.md): 66
 - [Revan](revan.md): 132
-- [Yoda](yoda.md): 46
+- [Yoda](yoda.md): 81
 - [Darth Caedus / Jacen Solo](darth-caedus.md): 193
 - [Count Dooku / Darth Tyranus](count-dooku.md): 47
 - [Darth Krayt / A'Sharad Hett](darth-krayt/README.md): 2270
