@@ -351,6 +351,11 @@ LORD ANDEDDU, LORD NIHILUS, LORD BANE -- ANSWER ME! TEACH ME! SUCH IS MY WILL!
 — Darth Krayt to the Sith holocrons, Star Wars: Legacy #5, Legacy Book 1 omnibus p. 81 (Dark Horse Comics, 2006) †
 ```
 
+![p81 Krayt summons the holocrons](../notes/materials/009-legacy-book-1-panels/p081-krayt-summons-sith-holocrons.jpg)
+![p82 Bane's holocron: "PRETENDER"](../notes/materials/009-legacy-book-1-panels/p082-bane-holocron-you-are-not-a-sith.jpg)
+![p83 Krayt asks how Bane, Andeddu and Nihilus beat death](../notes/materials/009-legacy-book-1-panels/p083-krayt-asks-bane-andeddu-nihilus.jpg)
+![p84 Krayt dispels the holocron images with lightning](../notes/materials/009-legacy-book-1-panels/p084-krayt-living-lord-of-sith-begone.jpg)
+
 ## Author and Guide Statements
 
 ### 37. The in-game description of Nihilus's mask calls it the last surviving piece of "the beast who died and was reborn in the shattered world of Malachor V."
