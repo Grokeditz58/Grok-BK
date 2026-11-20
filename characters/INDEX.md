@@ -66,7 +66,7 @@ Tier = research depth from `legends-feats.md` (RESEARCH DEPTH TIERS). "untiered"
 | [amira-nasrabi.md](amira-nasrabi.md) | Amira Nasrabi | NR | untiered | 1 | 1 | 0 | 0 | Amira Nasrabi, Nasrabi | 1 | 0 | 0 | 0 |
 | [amise-griff.md](amise-griff.md) | Amise Griff (NEW 2026-10-29) |  | untiered | 3 | 2 | 1 | 0 | Amise Griff | 3 | 2 | 0 | 1 |
 | [an-ya-kuro.md](an-ya-kuro.md) | An'ya Kuro (Dark Woman) | Prequel | DEEP | 38 | 37 | 1 | 0 | An'ya Kuro (Dark Woman), An'ya, An’ya, Dark Woman | 38 | 20 | 0 | 25 |
-| [anakin-solo/](anakin-solo/README.md) | Anakin Solo | NR–NJO | untiered | 243 | 243 | 0 | 14 | Anakin Solo, baby Anakin | 655 | 553 | 92 | 411 |
+| [anakin-solo/](anakin-solo/README.md) | Anakin Solo | NR–NJO | untiered | 243 | 243 | 0 | 14 | Anakin Solo, baby Anakin | 662 | 560 | 99 | 411 |
 | [ananah-kragana.md](ananah-kragana.md) | Ananah Kragana (NEW 2026-10-29) |  | untiered | 2 | 2 | 0 | 0 | Ananah Kragana | 2 | 1 | 0 | 0 |
 | [anandra-milon.md](anandra-milon.md) | Anandra Milon (NEW 2026-10-30) | GCW | untiered | 5 | 5 | 0 | 0 | Anandra Milon, Anandra | 5 | 1 | 0 | 1 |
 | [ander-rendrake.md](ander-rendrake.md) | Ander Rendrake (NEW 2026-10-29) |  | untiered | 1 | 1 | 0 | 0 | Ander Rendrake | 1 | 0 | 0 | 0 |

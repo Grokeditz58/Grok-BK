@@ -3832,6 +3832,76 @@ What it shows (our notes): Anakin is good at puzzles and sees the temple's patte
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:63`
 
+What it shows (our notes): Anakin has always been perceptive.
+> Her younger brother had always been perceptive.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21, p.212.
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:76`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): With the Force, Anakin looks inside the controls of each bacta tank and suggests improvements; he and Lowie spend hours optimizing the diagnostics relays.
+> “Far from it. I learned a thing or two from watching him. With the Force, he looked inside the controls of each of your bacta tanks, then made some suggestions to Lowie on how to improve their performance.” Zekk’s voice sank to a whisper as he glanced over at Lowbacca, who was helping the warrior girl Tenel Ka out of her bacta tank, while the medical droid assisted Jacen. “Lowie and Anakin spent hours optimizing the diagnostics relays on each of the bacta units. They ran a physiology-specific calibration on all the bacta regulators, while Lusa and I overhauled the nutrient monitors.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:12`
+
+## Young Jedi Knights 12: *Return to Ord Mantell* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Anakin reads the comets' patterns ('I see the patterns... We can go straight through-if you time it right') and senses that something is wrong before the mine cluster explodes; Han: 'you kids hadn't warned me in time'.
+> “And close to beating my record, too. Let’s keep on with it, but keep your Jedi senses alert for anything unexpected.”
+>
+> Anakin watched them intently. “I see the patterns” he said. “We can go straight through-if you time it right.”
+>
+> “I’ve got a bad feeling about this,” Jacen said. Jaina thought her brother was making a joke with their father’s oft-used phrase, but as they approached the broken comet, she felt uneasiness herself.
+>
+> “Yes, something’s wrong,” Anakin said.
+>
+> “It’s not the comet, Dad,” Jaina said. “It’s…” Then she looked up at the enhanced infrared filter and saw an array of small artificial objects, a matrix of tiny spheres, hovering just outside of the broken cometary hulk.
+>
+> “If we hadn’t been traveling so fast, and you kids hadn’t warned me in time, we would’ve been right in the middle of that cluster when it exploded. But you dodged it, Jaina. Good piloting.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 19, 20.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:25`
+
+What it shows (our notes): Anakin has 'an uncanny ability to predict things'; he reassembles the shattered mines by visualizing how the pieces fit together in three dimensions.
+> If Jacen had ever decided to gamble, he would certainly have taken his younger brother’s recommendation. Anakin had an uncanny ability to predict things such as this.
+>
+> Anakin scrutinized the shrapnel carefully and began to sort the pieces into piles he knew went to individual mines. Jaina let her younger brother work, knowing how well he was able to solve puzzles and visualize the way pieces fit together in three dimensions.
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 24, 26.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-01.md:29`
+
+What it shows (our notes): Anakin: 'Something's wrong'; Jacen is startled, as always, by how quickly his younger brother can sense things.
+> “Something’s wrong,” Anakin said. A statement, not a question.
+>
+> Startled, as always, that his younger brother could sense things so quickly,
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 34.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:13`
+
+What it shows (our notes): From the Falcon's other gun well Anakin hits a knaar in its lower leg: 'I've had a bit of target training myself, but the twins get to practice more often.'
+> A shot now fired from the other gun well, striking one of the saurians in its lower leg. The moment it collapsed, honking and howling in pain, other knaars fell upon their wounded companion.
+>
+> “I’ve had a bit of target training myself, but the twins get to practice more often.”
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 50.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:30`
+
+What it shows (our notes): Han asks Jaina and Anakin to use their Jedi senses to find the buried detonators; concentrating, they see the pattern and target them precisely with the laser cannon.
+> “I need something that not even the Falcon can do for me.
+>
+> Use your Jedi senses to help your old man find those detonators and get rid of them.”
+>
+> Anakin nodded, squinting his eyes in concentration. Jaina recalled how she had avoided the buried explosives during their desperate flight from the knaars. In her mind she saw a dotted pattern of ripples below, like a scrambled checkerboard of targets on the ground.
+>
+> Jaina fired from the copilot’s controls, and was rewarded with a large explosion, much greater than the laser should have made. “Got one!” she cried.
+>
+> “But they move around a bit. We’ll have to target each one precisely.”
+— Source: Young Jedi Knights 12: Return to Ord Mantell (Kevin J. Anderson & Rebecca Moesta, 1998), sec. 76, 77.
+(Full sentence/passage taken from the source text on file: `YJK12 Return to Ord Mantell library epub (no chapter headings; sec. = epub section break)`; misreadings corrected.)
+Our notes: `notes/materials/184-yjk-12-return-to-ord-mantell/rm-02.md:55`
+
 ## Young Jedi Knights 14: *Crisis at Crystal Reef* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
 
 What it shows (our notes): Anakin, 'the master puzzle-solver of the galaxy', works out how to expose Black Sun's sleeper agents: beam Czethros's coded message to one planet at a time on his frequency; Jaina: 'one brother who was a genius'.
