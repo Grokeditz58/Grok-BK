@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 47 (34 with quotations; 26 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 48 (35 with quotations; 27 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -443,6 +443,15 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Ta'a Chume can
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.198–199).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:47`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka: her grandmother Ta'a Chume is 'a formidable enemy'.
+> So much the better, Tenel Ka thought. The Diversity Alliance would find Ta’a Chume a formidable enemy.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 22 (p.215).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:75`
+
 
 
 

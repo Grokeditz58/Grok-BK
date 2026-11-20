@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 104 (55 with quotations; 0 quotations extended to the full sentence/passage from the source text on file; 45 marked as fragments; 48 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 118 old entries; old file: `characters/_bak/dengar.md.bak-20261117`.
+- **Entries:** 111 (62 with quotations; 7 quotations extended to the full sentence/passage from the source text on file; 45 marked as fragments; 48 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 118 old entries; old file: `characters/_bak/dengar.md.bak-20261117`. Added 2026-11-20: 7 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -471,6 +471,81 @@ Our notes: `notes/materials/047-visual-dictionaries/vd46-ep4-6.md:50`
 — Source: Star Wars: The Ultimate Visual Guide (DK, 2005): The Civil War and A New Era (pp. 72–111), hand-read notes; p98-99 Prisoners of Jabba the Hutt (3 ABY): Luke.
 Note (our notes, around the quote): p98-99 Prisoners of Jabba the Hutt (3 ABY): Luke "deliberately leaves C-3PO unaware of various details". JABBA AND THE GAMORREANS: Jabba hired 12; "it was Hutt tradition to fight blindfolded ... Jabba had his henchmen batter the Gamorreans. The nine survivors remain in awe of Jabba's fighting skills." Jabba's palace: B'omarr monastery; "ultra-strong duranium". ENTER THE JEDI: "Jabba is immune to Jedi mind tricks". Rancor "A birthday gift to Jabba from Bib Fortuna". Hutt's last gasp. BOBA FETT LIVES!: "After several agonizing days, Fett blasts his way out of the creature and is rescued by his fellow bounty hunter, Dengar." Sail barge Khetanna; Bib Fortuna escapes "in a small patrol craft".
 Our notes: `notes/materials/048-ultimate-visual-guide/uvg-03-civil-war-new-era.md:19`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Dengar: cybernetically enhanced brain; one of Vader's elite hunters; an illegal, devastating ion cannon; cybernetic reflexes.
+> His head was wrapped in bandages to cover the scars and perpetually seeping wounds from a hideous injury long ago. Once a crack flier in a swoop gang, he had suffered a severe accident caused by a young Han Solo, and later his brain had been cybernetically enhanced by the Empire. Dengar was also one of the elite hunters Darth Vader had hired to track down the Millennium Falcon after the battle of Hoth.
+>
+> Without waiting for a reply, the veteran bounty hunter fired a pulsed ion cannon, a disrupter that was as high-powered as it was illegal to own. Zekk had not imagined the device could be made with such devastating output.
+>
+> The ion blast brought down all of Zekk’s shields.
+>
+> Dengar’s ship howled close behind, demonstrating the bounty hunter’s cybernetic reflexes. Zekk leveled off at the top of another frozen plateau and streaked along, low to the ground.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.61–63).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:34`
+
+What it shows (our notes): Fett: 'Dengar is … not a fool.'
+> Fett paused, as silent as a statue. “Dengar is … not a fool.” The bandage-wrapped hunter had rescued a grievously injured Boba Fett after he blasted his way free from the sarlacc in the Pit of Carkoon.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.97).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:56`
+
+What it shows (our notes): Dengar's sudden, devastating assault on Mechis III: his cybernetic reflexes beat the automated defenses; Zekk: 'Dengar's one of the best'.
+> THE ASSAULT ON Mechis III came with such sudden force and devastation that Jacen could hardly believe only one bounty hunter was responsible.
+>
+> Targeting rooftop-cannons tracked Dengar across the sky and fired long blasts of crackling blue ion bolts or sharp green turbolasers. But the cybemetically enhanced bounty hunter reacted too quickly—flying, dodging, skipping left and right. The clumsy automated defensive systems could not keep up.
+>
+> Dengar’s ship cruised overhead, banked, then came back toward the administration building. With calculated malice, he dropped another bomb directly onto a droid fire-response fleet, obliterating them.
+>
+> “No, Dengar doesn’t work for Tyko,” Zekk agreed. “He’s after Tarkona’s bounty. He intends to bring in Bornan Thul, dead or alive—it doesn’t matter which.” He frowned, his green eyes hard as emeralds.
+>
+> “I outwitted him once, but I wouldn’t count on it again. Dengar’s one of the best.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.187–190).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:57`
+
+What it shows (our notes): Dengar recovers his falling ship at the last instant and zigzags skillfully away.
+> At the last instant, Dengar managed to power up his engines and wrench the ship out of gravity’s clutches. Spinning the craft sideways, the bounty hunter thundered through the narrow gaps between buildings. From the rooftop IG-88 launched grenades toward the stern of Dengar’s ship in an attempt to disable the engines as he departed. The explosives fell short as the bounty hunter whirled and dipped, zigzagging skillfully along a random course.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.200).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:64`
+
+What it shows (our notes): Dengar's 'dud' grenade was a limpet tracer planted on Zekk's ship.
+> “So… that ‘concussion grenade’ Dengar fired at me wasn’t a dud, after all,” Zekk said, tapping it with a fingertip. “A tracer, huh?”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.205).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:69`
+
+### Limitations and anti-feats (Delusions of Grandeur)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Jacen Force-jostles both of Dengar's shots wide; Raynar, Jacen and Tenel Ka push his ship off the roof.
+> With every ounce of his concentration, Jacen drew on the Force to nudge, push, shove.
+>
+> Dengar fired both blaster cannons.
+>
+> Using the Force, Jacen jostled the weapons. Both shots went wide, missing Tenel Ka. Behind him, Raynar was still focused on one goal.
+>
+> “And let this be a lesson to you, Dengar,” Tenel Ka said. Sensing that she was joining her efforts to Raynar’s, Jacen lent his assistance as well.
+>
+> Dengar’s ship slid backward, scraping across the rooftop. Its rear support pad dropped over the side of the building. The craft tipped and lurched, its hull grating against the rough edge of the roof.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.198).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:63`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — IG-88 disarms Dengar, slagging one cannon in his fist and blowing the muzzle off the other.
+> IG-88 opened fire again and again, but with such precision that instead of blasting the bandage-wrapped human off the rooftop, his weapon discharges tamed one of Dengar’s heavy blaster cannons to slag in his fist.
+>
+> Jacen remembered that the assassin droid’s new programming prevented him from shooting down the bounty hunter outright, even to protect his masters. But IG-88 was resourceful enough to find alternatives.
+>
+> Still expressionless, Dengar tossed the smoldering firearm away and grabbed his remaining cannon with both hands. But IG-88 targeted carefully with a volley of shots that blew away the muzzle of the second blaster, leaving Dengar unarmed.
+>
+> Then the droid bombarded the roof plates at the bounty hunter’s feet.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.199).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:65`
+
 
 # Debate and forum claims (unverified)
 

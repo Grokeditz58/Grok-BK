@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 7 (4 with quotations; 4 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/nolaa-tarkona.md.bak-20261117`. Added 2026-11-20: 4 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
+- **Entries:** 11 (8 with quotations; 8 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/nolaa-tarkona.md.bak-20261117`. Added 2026-11-20: 4 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -66,6 +66,45 @@ What it shows (our notes): Fonterrat: Nolaa planted the plague on his ship to sp
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.102).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:41` (chapter notes; this passage is quoted here from the book text)
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Nolaa's plague: 'more destructive power than the Death Star—than even the Sun Crusher', DNA-specific to humans.
+> She held up the glimmering vial so that reddish light twinkled from its crystal sides. “This vial contains more destructive power than the Death Star—than even the Sun Crusher. Selective destruction.”
+>
+> “I have learned that Derricote also developed an organism more deadly than Krytos, perhaps even as bad as the Death Seed plague. A virus so horrible that Emperor Palpatine himself feared to use it.”
+>
+> “You see, the plague was developed to be DNA-specific. It affects only victims with a human genetic structure. Aliens are immune. All of us here are breathing the same air, moving in the same room—yet the disease struck down only this pitiful Red Guard, while the rest of us went about our business unaffected.”
+>
+> “True,” Nolaa answered, “but many were also Rebels. Palpatine intended to unleash this plague to quash insurrections on colony worlds—until he realized how easily it could spread. One carrier from world to world might break a quarantine—and within weeks this disease could have made his Empire a galaxy-wide charnel house.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.80–86).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:49`
+
+What it shows (our notes): Nolaa's cunning: a human go-between as a joke, the plague planted in Fonterrat's fee locker, and an Alliance claimed to have infiltrated Coruscant.
+> She tapped her long fingernails on the arm of her chair. “It seemed a safe enough arrangement for all concerned. It amused me to enlist a human emissary to do my dirty work. Such delicious irony. I chose Bornan Thul, an arrogant merchant, who seemed to think he owned the galaxy.
+>
+> “Oddly, he hasn’t gone to the New Republic either. Perhaps he assumes that the Diversity Alliance has infiltrated the government on Coruscant. And of course we have.”
+>
+> She tapped her other fingers on the opposite arm of her chain “Unfortunately, since Fonterrat didn’t trust me enough to make the deal directly, and since my human go-between betrayed me, I still haven’t retrieved the information I paid for. I had my joke on Fonterrat, though. In the sealed locker containing his fee, I placed one of his plague samples. As soon as he unsealed the time-locked box to study his reward, a device secretly cracked open the vial.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.87–88).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:50`
+
+What it shows (our notes): Bornan Thul: Nolaa would not hesitate to use the information; 'It might result in the extinction of all humans.'
+> Thul heaved a ponderous sigh. “Perhaps you would think differently if you knew all that I know,” he said. “If Nolaa Tarkona were to get the information I am protecting, she would not hesitate to use it.
+>
+> It might result in the extinction of all humans.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.160).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:35`
+
+What it shows (our notes): Nolaa's powerful voice flows 'with rich currents of charisma'.
+> “I am very pleased to have you among our members, my Wookiee friends,” Tarkona said. Her voice was powerful, flowing with rich currents of charisma. “Raabakyysh has been one of our most loyal supporters, and I am sure that you will also do your species proud.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.184).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:52`
+
 
 
 # Debate and forum claims (unverified)

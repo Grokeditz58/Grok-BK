@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 157 (143 with quotations; 110 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
+- **Entries:** 163 (149 with quotations; 116 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1994,6 +1994,63 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie slumps to the roofto
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.84).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:30`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowie, a powerful Wookiee, springs from the temple into the Massassi boughs; the jungle moon's predators can't compare to Kashyyyk's lower levels; his solo rite of passage.
+> He had come here alone after dark, disregarding the dangers of Yavin 4’s wilderness. Lowbacca was a powerful Wookiee, and he could take care of himself. The jungle moon’s predators couldn’t hold a candle to the nightmares he’d already encountered in the lower forest levels on Kashyyyk.
+>
+> Trying to hide his inner turmoil from his friends Jacen, Jaina, and Tenel Ka, Lowie had climbed out of the partially rebuilt Great Temple in the middle of the sleeping period. Lowie had hauled himself along the dew-slick stone blocks until he reached the place from which he could spring across to the wide boughs of the nearest Massassi tree.
+>
+> It had been an important rite of passage to secure the gossamer fibers from the jaws of the carnivorous syren plant. And he had done it alone.
+>
+> Lowie had been cocky, so foolishly brave, but he had come back a hero, earning new respect from his fellow Wookiees. That newfound standing had won him the freedom to choose what he wished to do with his life. More than anything else, Lowie had wanted to be a Jedi Knight ….
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.15–17).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:16`
+
+What it shows (our notes): Lowie prides himself on reason and logic; Raaba: the Alliance could use 'a Force-talented Wookiee'.
+> He had always been confident, too, priding himself on being a deep thinker; he knew he could figure this out. Reason and logic came naturally to him—and he had no rational cause to be nervous, just because Raaba had changed.
+>
+> The Diversity Alliance could very much use the help of someone special like a Force-talented Wookiee.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 8 (p.72–75).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:45`
+
+What it shows (our notes): Hovrak: 'The fame of Lowbacca and his work as a Jedi Knight reached our ears'; Nolaa: 'you possess crucial skills'.
+> The wolfman made a deep bow toward Lowie and raised his eyebrows, letting an interrogative growl escape his throat. “The fame of Lowbacca and his work as a Jedi Knight reached our ears some time ago.
+>
+> “I am especially honored to have a Jedi among us,” Tarkona continued. “The Diversity Alliance has great work to do, and you possess crucial skills.” She stepped down to floor level. Raaba smiled, her furry face crinkling with pleasure.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.183–184).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:51`
+
+What it shows (our notes): Corrsk raises his claws; Lowie and Sirra are ready to fight with tooth and claw until Raaba steps in.
+> Instinct drew his muscles taut, and he dropped the datapad to the floor. Documents fluttered down as Corrsk raised his clawed hands to an attack position. A simmering growl bubbled like a geyser out of his throat.
+>
+> Outraged and betrayed, Lowie roared defensively at seeing the Wookiees’ natural enemy. Bristling, he stepped close to Sirra, so that he and his sister could fight together. Trandoshan bounty hunters were famous for killing Wookiees, and Lowie had no intention of losing his pelt.
+>
+> Sirra growled, also ready to fight with tooth and claw—but Raaba intervened, holding up her dark brown arms to prevent them from doing anything foolish. She cinched her red headband tighter, and her biceps bulged, holding her metal armlets in place.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.185).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:53`
+
+What it shows (our notes): Tenel Ka: 'Lowbacca is a good fighter and a talented Jedi.'
+> “Lowbacca is a good fighter and a talented Jedi. I am certain he can take care of himself.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 22 (p.214).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:75`
+
+### Limitations and anti-feats (Delusions of Grandeur)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — On Kuar the 'harmless' assassin droids blasted combat arachnids into chunks; their safety programming covered only humans, so they could have killed Lowie.
+> “But,” Jaina interrupted again, “on Kuar your assassin droids blasted several combat arachnids into dripping chunks.”
+>
+> Raynar had also gone as pale as stormtrooper armor. “Are you saying,” the young man asked in a strangled voice, “that your droids have no compunctions against killing anything—or anyone—that isn’t human?”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.166).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:40`
+
 
 
 

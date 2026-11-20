@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 260 (204 with quotations; 160 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
+- **Entries:** 272 (216 with quotations; 172 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2888,6 +2888,149 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk can't run in his envi
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.52–53).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:62`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Zekk performs a Jedi relaxation technique Luke taught him; Droq'l: 'more than I could say for some bounty hunters two or three times your age'.
+> Tossing his ponytail over his shoulder, Zekk stopped before the entrance to an enormous cone-shaped building with horizontal ridges like smooth circular waves up its sides. He took a brief moment to perform a Jedi relaxation technique, something Master Skywalker had taught him—not Brakiss of the Shadow Academy.
+>
+> “Glad to see a young trainee with some presence of mind,” he said.
+>
+> “You finished what I sent you to do, and you had the good sense to bring back proof of it. That’s more than I could say for some bounty hunters two or three times your age.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 3 (p.24–26).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:20`
+
+What it shows (our notes): Zekk feels the truth that Wary is Bornan Thul 'in his bones, in the background music of the Force'.
+> As the thought occurred to Zekk, he suddenly saw the truth of it.
+>
+> He felt it in his bones, in the background music of the Force that sang through all things. Master Wary’s synthesized voice had held an urgency when he spoke of the need to find Tyko Thul, and a tender quality when he spoke about the fleet.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 3 (p.32).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:21`
+
+What it shows (our notes): Zekk's rarely used Jedi senses warn him of Dengar's attack.
+> As he reached forward to power up the Lightning Rod, he felt suddenly uneasy in the cockpit. Were his rarely used Jedi senses sending him a warning?
+>
+> The intruder soared out of hyperspace without slowing, barreling directly toward the Lightning Rod. A warning tingle along Zekk’s spine supplemented the flashing red lights on the control panels.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.60).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:33`
+
+What it shows (our notes): Zekk faces Dengar: one of Vader's elite hunters with a cybernetically enhanced brain, an illegal ion cannon and cybernetic reflexes.
+> His head was wrapped in bandages to cover the scars and perpetually seeping wounds from a hideous injury long ago. Once a crack flier in a swoop gang, he had suffered a severe accident caused by a young Han Solo, and later his brain had been cybernetically enhanced by the Empire. Dengar was also one of the elite hunters Darth Vader had hired to track down the Millennium Falcon after the battle of Hoth.
+>
+> Without waiting for a reply, the veteran bounty hunter fired a pulsed ion cannon, a disrupter that was as high-powered as it was illegal to own. Zekk had not imagined the device could be made with such devastating output.
+>
+> The ion blast brought down all of Zekk’s shields.
+>
+> Dengar’s ship howled close behind, demonstrating the bounty hunter’s cybernetic reflexes. Zekk leveled off at the top of another frozen plateau and streaked along, low to the ground.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.61–63).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:34`
+
+What it shows (our notes): Force-assisted flying: Zekk reacts intuitively, 'like a Jedi Knight using his lightsaber to deflect blaster bolts', and avoids Dengar's rapid-fire attack.
+> Before the bandaged bounty hunter could launch another attack, though, Zekk gritted his teeth and threw every possible ounce of his piloting skills into getting away. Right then: Dengar fired laser cannons, but Zekk intuitively knew what to do, knew how to react. He jinked the Lightning Rod to the left, then curved up in a loop, elbowing back to the right, zooming in a serpentine maneuver that neatly avoided the bounty hunter’s pattern of strikes.
+>
+> Zekk felt the fluid instincts move through him, like a Jedi Knight using his lightsaber to deflect blaster bolts. The entire ship seemed a part of Zekk.
+>
+> He dodged and hopped, ducked and swerved, perfectly avoiding the rapid-fire attack. Like a Jedi. It simultaneously frightened and exhilarated him.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.64).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:36`
+
+What it shows (our notes): Zekk: 'One of these days, I'll rival even Boba Fett'; he screens his escape in steam fog and lets the Force choose his hyperspace coordinates.
+> “You may not have heard of me, Dengar,” Zekk said, “but you will.
+>
+> One of these days, I’ll rival even Boba Fett.”
+>
+> He powered up his forward laser cannons and deployed them in a wide arc, firing low and directly ahead. Using all of his weapons without slowing for an instant, Zekk strafed the frozen glacier field.
+>
+> The meltwater flashed into steam that billowed up in huge evaporating clouds and froze again into icy mist crystals. Fog swelled to fill the air behind him like an ever-expanding smoke screen. The cloud slammed into Dengar’s ship, blinding him.
+>
+> Knowing he had only a few seconds, he let the Force flow through him and punched numbers at random into the navicomputer. He’d have to trust in his inordinate “luck” to select a course by chance that wouldn’t take him through the core of a star or down the gullet of a black hole.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.64–65).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:37`
+
+What it shows (our notes): Fett on Zekk's rivals: 'Most of them are fools', but 'Dengar is … not a fool'.
+> Boba Fett said, “Many are searching for Thul.
+>
+> Most of them are fools. The value of your information depends on how much I can trust this lead.”
+>
+> Fett paused, as silent as a statue. “Dengar is … not a fool.” The bandage-wrapped hunter had rescued a grievously injured Boba Fett after he blasted his way free from the sarlacc in the Pit of Carkoon.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.97).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:56`
+
+What it shows (our notes): At the Kuar battle site Zekk's Jedi senses reconstruct the battle and the arachnids' caution, and he outruns them.
+> Keeping his weapons handy and his Jedi senses alert, Zekk followed ramps, crumbling stairs, and interlocked balconies down the crater wall. When he discovered scuffed footprints in the dust where his friends had walked, he did his best to retrace their steps. Perhaps in the aftermath of battle, some clue had been left unnoticed by one of IG-88’s droid henchmen.
+>
+> Within the chamber he saw numerous dark tunnels in the cliffside, probably the dank lairs of surviving combat arachnids. Zekk tried to keep his light from dancing inside the protective darkness of those passages. He was not afraid to fight, but he didn’t want to.
+>
+> Like discarried garbage, the torn and blasted remains of slain assassin droids were scattered everywhere. Durasteel arms, torsos, central processors, built-in weapons systems, and metallic skull-heads lay where they had fallen. Either the combat arachnids had no interest in the spare parts, or they had intentionally left the fallen enemies to show their scorn, “Must have been a titanic battle,” Zekk muttered.
+>
+> Grabbing the CPU chip that held the information he needed—as well as another, deeper puzzle—he sprinted back out to the balconies and into the hazy sunlight of Kuar. He didn’t look behind him. His legs were strong and fit and carried him at full speed back to his ship.
+>
+> The combat arachnids could give chase if they wanted, but he sensed that they would be cautious, for a short time, at least—and he would get to safety first. He had left the Lightning Rod prepped for a fast getaway.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 12 (p.116–119).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:9`
+
+What it shows (our notes): Zekk senses Bornan Thul's tension like a physical presence; 'If I had planned to capture you, I could have stunned you the moment you sat down.'
+> Thul didn’t notice Zekk at first. The man’s partially obscured gaze darted around the bar furtively, as if he were anxious about being among so many people. If Zekk had any lingering doubts about his employer’s identity, they were dispelled the moment he sensed Thul’s tension.
+>
+> Bornan Thul seemed to melt with relief, and instantly the lines around his shadowed eyes softened.
+>
+> Waves of long-repressed emotion flowed from him like a physical presence.
+>
+> Zekk decided to tell the rest of his story. “Immediately after I transmitted your message, a bounty hunter attacked me. He’d been waiting for just such a signal. He pounced, but I managed to outwit him and escape.”
+>
+> The man stiffened and looked ready to leap away in panic. Zekk held up a hand. “If I had planned to capture you, I could have stunned you the moment you sat down. Relax.” Zekk tossed his long dark hair, trying to unwind the tension in his neck. “How long did you think you could hide it? You were pretty obvious. I guessed your identity the first time we met, even in your disguise.”
+>
+> “That much is obvious,” Zekk said with a thin smile. “I’m impressed that you’ve managed to elude capture so far. You know, I’d earn incredible fame and notoriety if I were to take you in now—but that wouldn’t be honorable. The Bounty Hunter’s Creed forbids me to work against my employer. I accepted your assignment, and I won’t betray you. So you’re safe—at least until I’ve fulfilled all my obligations to you.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.157–159).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:33`
+
+What it shows (our notes): Zekk gets past the repaired targeting lasers with only a scorched sleeve, and saw through Bornan's disguise.
+> As Zekk lowered his weapons, Jaina launched herself into his arms and twirled him in a happy hug. “It’s so good to see you again! Did you get my holomessages? Hey, how did you make it past the targeted lasers?”
+>
+> Zekk indicated the singed place on his arm. “It wasn’t easy.”
+>
+> “First of all,” Zekk answered in a stern tone, “the ‘most famous names in the business’ are already out hunting for your brother.
+>
+> Second, it was Bornan Thul himself, not Aryn Dro, who hired me. He wore a disguise, but still risked his life to enlist my help.
+>
+> Just to find you. He attempted to remain anonymous, but I discovered his identity anyway.”
+>
+> “It was tempting,” Zekk admitted. “But that wouldn’t have been honorable. I can’t betray my employer.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.175–177).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:46`
+
+What it shows (our notes): Zekk again flies on Force instinct to dodge Dengar over Mechis III; Zekk: 'Dengar's one of the best'.
+> “I outwitted him once, but I wouldn’t count on it again. Dengar’s one of the best.”
+>
+> Wrestling with the piloting controls, Zekk rolled the battered old ship. He took them into a downward loop and flew beneath his enemy, jerking sideways and up. Jaina could see that subconscious instincts made Zekk use his Force skills to dodge, but she said nothing to interrupt his concentration.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.190–193).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:57`
+
+### Limitations and anti-feats (Delusions of Grandeur)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk's 'dud' grenade (ch. 6), which he wondered whether he had deactivated with the Force, was a tracer after all.
+> The grenade struck his starboard hull … but no explosion followed. He heard only a dull metallic thud, as if a hammer had smacked his cruiser. He breathed a huge sigh of relief at this incredible stroke of luck—Dengar had fired a dud!
+>
+> Master Skywalker at the Jedi academy had said there was no such thing as luck or coincidence.
+>
+> There was only the Force, which moved in mysterious ways … and Zekk wondered if he could subconsciously have used a trace of Jedi powers to deactivate the explosive.
+>
+> “So… that ‘concussion grenade’ Dengar fired at me wasn’t a dud, after all,” Zekk said, tapping it with a fingertip. “A tracer, huh?”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6, 21 (p.63–205).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:35`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 77 (74 with quotations; 20 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
+- **Entries:** 81 (78 with quotations; 24 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2055,6 +2055,57 @@ What it shows (our notes): Raynar: 'These are young Jedi Knights. They fought ag
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 7 (p.41).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:52`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Raynar spars with Jacen on the temple stairs, dodges and raps Jacen's wrist; Raynar: 'You're one of the best here at the academy.'
+> TWO CRACKLING STUN-RODS crashed against each other in a shower of sparks. Jacen descended a few steps on the temple’s rugged stairway and went on the attack. Below him, Raynar backed down two stairs as he deflected the next several blows with his own stun-rod.
+>
+> He pressed downward another step, raising his glowing pewter-colored staff. Raynar spun out of the way and danced along the wide stone ledge, dodging some scaffolding that had been erected by the repair crew, then rapped the stun-rod against Jacen’s wrist.
+>
+> “Ow!” he said, then, “Nice move, Raynar!” He hopped down to the ledge and continued the sparring match, bringing up his own staff. The pewter rods clashed again. “Pretty soon you’ll be ready to fight against a real lightsaber.”
+>
+> Raynar’s sweat-soaked training robe clung to him but did not hamper his movements. “Thanks,” he said, catching the next blow against his stun-rod.
+>
+> “That’s why I asked for your help during practice.
+>
+> You’re one of the best here at the academy.”
+>
+> Jacen fell back a step. “Jaina’s as good as I am.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.101–102).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:60`
+
+What it shows (our notes): Raynar's Jedi senses tell him the voice brings no threat.
+> Raynar knew the voice, though he couldn’t place it in the flash of adrenaline that surged through his bloodstream. Surprisingly, his Jedi senses told him that this voice brought no threat, no danger, despite the words.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.174).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:45`
+
+What it shows (our notes): Raynar, Jacen and Tenel Ka telekinetically push Dengar's ship over the roof's edge.
+> Jacen glanced over at Raynar, who stood concentrating, his gaze fixed on Dengar’s ship. Jacen felt a ripple in the Force and instantly knew what the blond boy was trying to do.
+>
+> Jacen added his own Jedi abilities to Raynar’s, concentrating on the bounty hunter’s ship. The craft had landed close to the edge of the rooftop, and its rear support pad rested …
+>
+> “And let this be a lesson to you, Dengar,” Tenel Ka said. Sensing that she was joining her efforts to Raynar’s, Jacen lent his assistance as well.
+>
+> Dengar’s ship slid backward, scraping across the rooftop. Its rear support pad dropped over the side of the building. The craft tipped and lurched, its hull grating against the rough edge of the roof.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.197–198).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:63`
+
+What it shows (our notes): Raynar redesigns the factory schematics with calm assurance; Tyko: 'nothing short of brilliant'.
+> Raynar studied the diagrams. Then, letting his eyes fall half closed, he said, “I think I might have a few modifications to suggest.”
+>
+> With calm assurance, he began altering the schematics. He worked for nearly an hour before stopping.
+>
+> Raynar shrugged. “By combining those two operations, you can run the systems in parallel. If one assembly line breaks down, you have the capacity to speed up production on the first line, make your repairs to the second one, and still meet delivery schedules.”
+>
+> “Yes!” Tyko crowed. “I see it now. It’s nothing short of brilliant!”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.206–207).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:70`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 333 (262 with quotations; 223 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
+- **Entries:** 342 (271 with quotations; 232 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2954,6 +2954,93 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — The arachnid seizes Tenel 
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.69–70).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:13`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka and Lusa run together because no one else at the academy can keep up with them; Raynar: 'no mercy whatsoever'.
+> Jacen gave a wicked grin. “How about Tenel Ka, then?” He nodded toward the base of the ancient pyramid to where the warrior girl and Lusa were setting out for a morning run. The two exercised together because no one else could keep up with them.
+>
+> Raynar shook his head, and droplets of sweat flew from side to side. “Just the opposite—no mercy whatsoever.” He turned to stare at the two runners with great interest. “Can we take a breather for a minute?”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.102).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:61`
+
+What it shows (our notes): Tenel Ka to the security droid: 'Your extreme measures would be useless against the Force.'
+> Tenel Ka withdrew her lightsaber, but did not switch it on. “We are Jedi Knights, droid.” She held the rancor-tooth handle with studied nonchalance.
+>
+> “Your ‘extreme measures’ would be useless against the Force.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.126).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:14`
+
+What it shows (our notes): Jacen and Tenel Ka sever the targeting lasers as an instinctive team and dodge the web of bolts by letting the Force guide them (the lasers were later revealed to be set to miss).
+> Drawing her lightsaber, Tenel Ka sprang to a fighting stance.
+>
+> Jacen immediately saw the threat and drew his own lightsaber. Its emerald-green blade spran out, ready for action. Needing neither explanation nor guidance, Tenel Ka streaked to the opposite side of the room, ready to do her part.
+>
+> Tenel Ka held her lightsaber in her hand, its deep turquoise throbbing with power as she slashed upward. The glowing blade severed the nearest targeting laser, leaving a stump of smoldering plasteel that sizzled and sparked.
+>
+> Jacen chopped another of the weapons to pieces.
+>
+> “Two down,” he said, “two to go.” Instinctively working as a team, he’and the warrior girl streaked toward opposite corners of the room.
+>
+> The remaining weapons fired a dizzying web of laser bolts, which the young Jedi easily managed to dodge by letting the Force guide them.
+>
+> Jacen swiped with his lightsaber blade again, trashing the third of the weapons. Lasers burned scars into the walls like black bullet holes.
+>
+> Smashing the final laser cannon, Tenel Ka stood proudly under the rain of shrapnel. “We are safe,” she announced. But loud alarms continued to blare.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.128–130).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:16`
+
+What it shows (our notes): The companions lift the heavy bulkhead using their muscles and their Jedi strength.
+> She ran to the heavy metal bulkhead. “Help me with this. We’ll need to lift it ourselves.”
+>
+> Together, the companions heaved, using their muscles and their Jedi strength. The heavy door reluctantly rolled up into its socket ….
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.130).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:17`
+
+What it shows (our notes): Tenel Ka, cool and ready to fight beside Jacen, sprints along the sheer edge of the roof as if doing her morning workout.
+> The young Jedi Knights scrambled to defensive positions. Tenel Ka took her place beside Jacen, cool and ready to fight, her hand on the hilt of her lightsaber. Even in the midst of such confusion, it made Jacen glad to see how quickly the warrior girl came over to fight next to him.
+>
+> The Hapan passenger cruiser sat where they had landed it on the opposite side of the roof. Tenel Ka sprinted along to the sheer edge, running as if she were simply doing her morning workout. Tossing her red-gold braids behind her shoulders, she glanced down, observing the extreme height with interest. “Lowbacca would have enjoyed being up here.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.188–195).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:58`
+
+What it shows (our notes): Tenel Ka shields Jacen with her body against Dengar's blaster cannons and readies her lightsaber to block the shot.
+> “You will not kill my friend,” Tenel Ka said, stepping in front of Jacen to shield him with her body. She drew her own rancor-tooth lightsaber and flashed its turquoise blade. Jacen saw her lips part in a feral grin, filled with challenge and menace toward anyone who would threaten him.
+>
+> “Let this first one be a lesson to you,” Dengar said. The bounty hunter’s finger tightened on the firing stud. Defiant and fearless, Tenel Ka held up her lightsaber, ready to block the shot.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.197).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:62`
+
+What it shows (our notes): With Raynar and Jacen, Tenel Ka telekinetically shoves Dengar's ship off the roof's edge.
+> “And let this be a lesson to you, Dengar,” Tenel Ka said. Sensing that she was joining her efforts to Raynar’s, Jacen lent his assistance as well.
+>
+> Dengar’s ship slid backward, scraping across the rooftop. Its rear support pad dropped over the side of the building. The craft tipped and lurched, its hull grating against the rough edge of the roof.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.198).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:63`
+
+What it shows (our notes): Tenel Ka: 'Lowbacca is a good fighter and a talented Jedi'; even one-handed her fingers fly over the controls.
+> “Lowbacca is a good fighter and a talented Jedi. I am certain he can take care of himself.”
+>
+> Jacen gave up his seat at the comm controls, since he knew Tenel Ka had been wanting to contact her parents in the Fountain Palace on Hapes. The warrior girl sat down and, even with only one hand, her fingers flew over the controls, setting up the hyperwave link.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 22 (p.214).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:75`
+
+### Limitations and anti-feats (Delusions of Grandeur)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: the office targeting lasers the Jedi dodged were calibrated not to hit anybody.
+> Tyko strode to the nearest of the wrecked automatic weapons in his office, grimaced, then turned to face Raynar and his friends. “You didn’t need to destroy them all, did you? I specifically calibrated the targeters not to hit anybody,” he said with a huff. “Now the entire defense grid in this room is ruined, and I’ll have to have it replaced.” He heaved a long-suffering sigh. “As if I didn’t have enough to do already.”
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.145).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-02.md:29`
+
 
 
 

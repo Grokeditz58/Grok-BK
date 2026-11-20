@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 1043 (413 with quotations; 34 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
+- **Entries:** 1045 (415 with quotations; 36 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 2 entries from Young Jedi Knights 9: Delusions of Grandeur (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -5360,6 +5360,35 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — 'A temporary setback': Nol
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.12–13).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:22`
+
+## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): The cantina falls silent when Fett enters; Zekk feels his power, 'spring-tight rage and dark energy'; 'one of the best bounty hunters in existence'.
+> The creature blinked its huge black eyes and spoke in a squeaking voice. “He laughs at your request,” the creature said. “Boba Fett always looks for other people. No one looks for him.”
+>
+> The band stopped playing, and most of the background noise in the bar dwindled to murmurs.
+>
+> The masked bounty hunter paused in the dimness, swiveling his head back and forth, exuding confidence.
+>
+> Zekk could feel Fett’s gaze burning through the black slit in his Mandalorian helmet.
+>
+> Zekk could feel the power, the spring-tight rage and dark energy in this man. Fett had killed an uncounted number of enemies, served no cause, and had at one time worn Wookiee scalps at his belt.
+>
+> Zekk could imagine no glimmer of friendship from this vicious man—but Boba Fett was one of the best bounty hunters in existence.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.94–96).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:55`
+
+What it shows (our notes): Fett: 'Most of them are fools'; 'Dengar is … not a fool.'
+> Boba Fett said, “Many are searching for Thul.
+>
+> Most of them are fools. The value of your information depends on how much I can trust this lead.”
+>
+> Fett paused, as silent as a statue. “Dengar is … not a fool.” The bandage-wrapped hunter had rescued a grievously injured Boba Fett after he blasted his way free from the sarlacc in the Pit of Carkoon.
+— Source: Young Jedi Knights 9: Delusions of Grandeur (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.97).
+(Full sentence/passage taken from the source text on file: `YJK09 Delusions of Grandeur library epub, paged from the library scan (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers are the printed pages.)
+Our notes: `notes/materials/181-yjk-09-delusions-of-grandeur/dg-01.md:56`
+
 
 
 

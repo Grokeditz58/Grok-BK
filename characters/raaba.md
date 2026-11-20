@@ -6,15 +6,16 @@ Evidence file for Raabakyysh (Raaba), the young Wookiee friend of Lowbacca and S
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README).
+- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; nothing from the missing ending is quoted); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
-- This file has 3 entries and 3 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
+- This file has 6 entries and 6 quotes.
 
 ## Contents
 
-- [Feats and Skills](#feats-and-skills) (3)
+- [Feats and Skills](#feats-and-skills) (6)
 - [Statements and Beliefs](#statements-and-beliefs) (0)
 - [Limitations](#limitations) (0)
 
@@ -52,6 +53,42 @@ Her only hope for survival lay above, in the treetops, in the safe, cozy Wookiee
 Then, knowing she would travel more easily without it, she left her pack behind as a decoy, in hopes that the bloodstained pack would draw away some of the voracious predators already on her trail. She concentrated only on climbing, climbing, increasing the distance between herself and danger. At the same time, she distanced herself mentally from her home, her friends, everything she had known.
 
 — Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 14
+```
+
+### 4. Raaba goes down to the lower forest alone and wins her syren-fiber trophy, completing her rite of passage.
+
+```
+Then, just as the first few stars brightened in the sky, a shaft of blazing light stabbed upward from the center of the stage. In the center of the light stood a chocolate-furred female Wookiee—wearing her own dazzling belt made of syren fiber. Fresh syren fiber!
+
+Sirra nearly fell backward off her branch in surprise, and Lowie fared no better. He had known Raaba set up this meeting, but the implications of her belt were enough to stun him as much as everyone else in the assembly. Surprised murmurs of recognition spread through the crowd, and Lowie heard Raaba’s name repeated over and over. Sirra glared at her brother accusingly. He had kept this a secret from her!
+
+Unable to restrain his curiosity any longer, Lowie asked Raaba when and how she had gotten her trophy. The chocolate-furred Wookiee flashed her fangs in a wide grin, pleased by his surprise.
+
+She had gone down to the world below only that afternoon, just before returning home to visit her stunned parents. Raaba had been hiding for almost a year, running away—and she wanted to have her trophy before she showed herself again. Completing the fateful mission that had been interrupted so long ago had made her return even more dramatic.
+
+— Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 14
+```
+
+### 5. Raaba's oratory: her words grow more persuasive and the crowd shakes the branches in approval.
+
+```
+She urged anyone who was willing to help to send a message to the Diversity Alliance, to go to Nolaa Tarkona herself on Ryloth, or to talk their friends into joining the cause as well. Wookiee murmurs ran through the crowd again, this time sounds of approval. Raaba’s voice grew no louder, but her words became more persuasive.
+
+Wookiees on every side shook the branches to show their approval.
+
+Swept along by the emotion, Lowie and Sirra joined in.
+
+— Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 14
+```
+
+### 6. Raaba steps between Corrsk and the Wookiees, biceps bulging.
+
+```
+Instinct drew his muscles taut, and he dropped the datapad to the floor. Documents fluttered down as Corrsk raised his clawed hands to an attack position. A simmering growl bubbled like a geyser out of his throat.
+
+Sirra growled, also ready to fight with tooth and claw—but Raaba intervened, holding up her dark brown arms to prevent them from doing anything foolish. She cinched her red headband tighter, and her biceps bulged, holding her metal armlets in place.
+
+— Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 19
 ```
 
 ## Statements and Beliefs
