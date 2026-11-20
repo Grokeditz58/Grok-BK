@@ -12,7 +12,8 @@ Evidence file for Nomi Sunrider, Jedi of the Great Sith War and master of battle
 - Comic quotes keep the capital lettering of the page. Comic page numbers are the PDF page inside each issue file (cover = p. 1), as in the repo's Tales of the Jedi notes.
 - Narration about Nomi is under the feat sections it describes; guide and sourcebook text is under Author and Guide Statements unless it describes a feat or a limitation; what characters say to or about her is under Statements from Other Characters.
 - Forum and debate material from the old file is not carried over. Canon material is not covered.
-- This file has 45 entries and 45 quotes (42 marked †).
+- Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/176-yjk-04-lightsabers/`.
+- This file has 46 entries and 46 quotes (42 marked †).
 
 ## Contents
 
@@ -23,10 +24,10 @@ Evidence file for Nomi Sunrider, Jedi of the Great Sith War and master of battle
 - [Illusions, Concealment and Stealth](#illusions-concealment-and-stealth) (2)
 - [Battle Meditation and Command](#battle-meditation-and-command) (6)
 - [Fights and Combat Feats](#fights-and-combat-feats) (3)
-- [Statements from Other Characters](#statements-from-other-characters) (8)
+- [Statements from Other Characters](#statements-from-other-characters) (9)
 - [Author and Guide Statements](#author-and-guide-statements) (3)
 - [Limitations](#limitations) (9)
-- [Comic Panels Without a Matching Entry](#comic-panels-without-a-matching-entry) (17)
+- [Comic Panels Without a Matching Entry](#comic-panels-without-a-matching-entry) (0)
 
 ## Growth and Evolution
 
@@ -352,9 +353,25 @@ Nomi Sunrider’s ballad came from the era of Exar Kun and the Sith War. She was
 — I, Jedi (Michael A. Stackpole, 1998), ch. 17
 ```
 
+### 34. Tionne's telling of Nomi Sunrider's story to the young Jedi Knights.
+
+```
+"Thousands of years ago, in a time of great evil and great good," Tionne began in her rich musical voice, "there lived a woman named Nomi Sunrider with her husband Andur, who was training to be a Jedi Knight.
+
+"When Nomi and her husband traveled to take a gift of precious Adegan crystals to Andur's new Jedi Master, they were stopped by a group of greedy bandits, who killed Nomi's husband and tried to steal the crystals. But when Nomi saw her husband lying dead, she snatched up his lightsaber and took a deadly revenge on his murderers. Afterward, seeing what she had done, Nomi was so filled with revulsion that she vowed never to touch a lightsaber again.
+
+"To fulfill the dying wish of her husband, Nomi carried the crystals to his Jedi Master, Thon. There she stayed with her baby daughter Vima and began her own training to become a Jedi. She learned and grew in wisdom and the Force, but still she refused to touch a lightsaber, although it was the weapon of the Jedi.
+
+"Eventually, however, there came a day when she discovered that her power with the Force alone could not protect the ones she loved. To save her beloved Jedi Master and to guard her daughter, Nomi once again took up a lightsaber and fought for what she knew was right.
+
+"But by this time Nomi understood the purpose and meaning of the lightsaber—and from that day forward she fought with all the power of the light side of the Force. She was never eager to use her lightsaber, but she knew it was occasionally necessary. By learning to accept this, she became a great Jedi Master and a great warrior."
+
+— Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
+```
+
 ## Author and Guide Statements
 
-### 34. A Legacy Era Campaign Guide talent calls Nomi "a powerful Jedi from the days of the Old Republic."
+### 35. A Legacy Era Campaign Guide talent calls Nomi "a powerful Jedi from the days of the Old Republic."
 
 ```
 Sunrider Legacy You are a descendant of Nomi Sunrider, a powerful Jedi from the days of the Old Republic who fought in the Great Sith War.
@@ -362,7 +379,7 @@ Sunrider Legacy You are a descendant of Nomi Sunrider, a powerful Jedi from the 
 — Legacy Era Campaign Guide (Wizards of the Coast, 2009) †
 ```
 
-### 35. The Complete Star Wars Encyclopedia says Andur was killed by Great Bogga's henchmen while Nomi accompanied him with the Adegan crystals for Master Thon.
+### 36. The Complete Star Wars Encyclopedia says Andur was killed by Great Bogga's henchmen while Nomi accompanied him with the Adegan crystals for Master Thon.
 
 ```
 She was accompanying her husband on a mission to take some Adegan crystals, used to construct lightsabers, to Jedi Master Thon in the Ambria system when Andur was cut down by several henchmen of Great Bogga the Hutt.
@@ -370,7 +387,7 @@ She was accompanying her husband on a mission to take some Adegan crystals, used
 — The Complete Star Wars Encyclopedia (Stephen J. Sansweet and Pablo Hidalgo, 2008) †
 ```
 
-### 36. The Complete Star Wars Encyclopedia says Nomi escaped Satal's imprisonment hours before Ulic had agreed to kill her to prove his loyalty.
+### 37. The Complete Star Wars Encyclopedia says Nomi escaped Satal's imprisonment hours before Ulic had agreed to kill her to prove his loyalty.
 
 ```
 He survived an assassination attempt by Satal and saw Nomi escape imprisonment by Satal just hours before Ulic had agreed to kill her to prove his loyalty to the Krath.
@@ -382,7 +399,7 @@ He survived an assassination attempt by Satal and saw Nomi escape imprisonment b
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 37. FLEES THE PIRATES: The Companion's summary of Nomi's saga: Thon deflects the pirates' laser cannon blasts with the Force while trying to make Nomi take up the lightsaber; she refuses and flees with her daughter, leaving him to face them alone.
+### 38. FLEES THE PIRATES: The Companion's summary of Nomi's saga: Thon deflects the pirates' laser cannon blasts with the Force while trying to make Nomi take up the lightsaber; she refuses and flees with her daughter, leaving him to face them alone.
 
 ```
 Nomi and Virna climb onto Thon's back, and they charge back toward his hut. Thon deflects the laser cannon blasts of the pirates with the Force as he tries to get Nomi to take up the Iightsaber. Again, Nomi refuses. Thon then rushes toward the attackers in an attempt to force Nomi to use her battle meditation to end the conflict. Nomi instead flees with her daughter, leaving Thon to confront the pirates on his own.
@@ -390,7 +407,7 @@ Nomi and Virna climb onto Thon's back, and they charge back toward his hut. Thon
 — Tales of the Jedi Companion (West End Games, 1996), p. 13 †
 ```
 
-### 38. MEDITATION BLOCKED BY OMMIN: On Onderon, an energy field blocks Nomi's battle meditation.
+### 39. MEDITATION BLOCKED BY OMMIN: On Onderon, an energy field blocks Nomi's battle meditation.
 
 ```
 THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDITATION!
@@ -398,7 +415,7 @@ THAT'S STRANGE-- HOW CAN IT BE? AN ENERGY FIELD IS BLOCKING MY JEDI BATTLE MEDIT
 — Nomi Sunrider, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 5 (Dark Horse Comics, 1994) †
 ```
 
-### 39. STRUCK DOWN BY OMMIN: In the Force duel with Ommin, he strikes with a serpent's swiftness and hurls her through the air; she is unhurt.
+### 40. STRUCK DOWN BY OMMIN: In the Force duel with Ommin, he strikes with a serpent's swiftness and hurls her through the air; she is unhurt.
 
 ```
 --NOMI'S ADVERSARY STRIKES WITH A SERPENT'S SWIFTNESS! *(she is hurled through the air)*
@@ -408,7 +425,7 @@ I...I'M ALL RIGHT...
 — Narration, Ulic Qel-Droma and Nomi Sunrider, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 8–9 (Dark Horse Comics, 1994) †
 ```
 
-### 40. STRUCK DOWN BY OMMIN (COMPANION): The Companion's summary of the same moment: "Nomi crumples under a powerful Force-blow."
+### 41. STRUCK DOWN BY OMMIN (COMPANION): The Companion's summary of the same moment: "Nomi crumples under a powerful Force-blow."
 
 ```
 Nomi crumples under a powerful Force-blow.
@@ -416,7 +433,7 @@ Nomi crumples under a powerful Force-blow.
 — Tales of the Jedi Companion (West End Games, 1996), p. 15 †
 ```
 
-### 41. BATTERED BY OMMIN'S HATRED: Ommin concentrates "infinite hatred" against Nomi and Ulic and hurls them back.
+### 42. BATTERED BY OMMIN'S HATRED: Ommin concentrates "infinite hatred" against Nomi and Ulic and hurls them back.
 
 ```
 DRAWING ON THE DARK SIDE OF THE FORCE, KING OMMIN CONCENTRATES INFINITE HATRED AGAINST THE YOUNG JEDI!
@@ -424,7 +441,7 @@ DRAWING ON THE DARK SIDE OF THE FORCE, KING OMMIN CONCENTRATES INFINITE HATRED A
 — Narration, Tales of the Jedi: The Freedon Nadd Uprising #2, p. 16 (Dark Horse Comics, 1994) †
 ```
 
-### 42. CANNOT UNDO THE BLOCK: Nomi says she has no idea how to undo what she did to Ulic, right after the line under Force Knowledge.
+### 43. CANNOT UNDO THE BLOCK: Nomi says she has no idea how to undo what she did to Ulic, right after the line under Force Knowledge.
 
 ```
 AND I HAVE NO IDEA HOW TO UNDO WHAT I HAVE DONE!
@@ -432,7 +449,7 @@ AND I HAVE NO IDEA HOW TO UNDO WHAT I HAVE DONE!
 — Nomi Sunrider to Tott Doneeta, Tales of the Jedi: The Sith War #6, p. 5 (Dark Horse Comics, 1995–96) †
 ```
 
-### 43. COUNTERED BY ALEEMA: The New Essential Chronology says Aleema countered Nomi and Ulic's Jedi abilities with her own powerful Sith illusions.
+### 44. COUNTERED BY ALEEMA: The New Essential Chronology says Aleema countered Nomi and Ulic's Jedi abilities with her own powerful Sith illusions.
 
 ```
 Ulic and Nomi assisted by using their Jedi abilities—but Aleema countered with her own powerful Sith illusions.
@@ -440,7 +457,7 @@ Ulic and Nomi assisted by using their Jedi abilities—but Aleema countered with
 — The New Essential Chronology (Daniel Wallace and Kevin J. Anderson, 2005) †
 ```
 
-### 44. A COSTLY VICTORY: After Exar Kun's defeat, Nomi says they have beaten him, but asks at what cost.
+### 45. A COSTLY VICTORY: After Exar Kun's defeat, Nomi says they have beaten him, but asks at what cost.
 
 ```
 LOOKS LIKE WE'VE DEFEATED EXAR KUN...
@@ -451,7 +468,7 @@ LOOKS LIKE WE'VE DEFEATED EXAR KUN...
 
 ![The Sith War #6 p22: Jedi wall of light over Yavin 4](../notes/materials/024-tales-of-the-jedi/panels/sw6-p22-wall-of-light-yavin.jpg)
 
-### 45. REFUSES THE LIGHTSABER: The Companion says Ood Bnar's words were hard for Nomi to accept, because the lightsaber remained a symbol of death to her.
+### 46. REFUSES THE LIGHTSABER: The Companion says Ood Bnar's words were hard for Nomi to accept, because the lightsaber remained a symbol of death to her.
 
 ```
 But Nomi found it difficult to accept Ood Bnar's words. In her mind, the Iightsaber remained a symbol of death - a symbol she was trying desperately to separate herself from.

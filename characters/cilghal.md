@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 217 (146 with quotations; 55 quotations extended to the full sentence/passage from the source text on file; 68 marked as fragments; 95 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 237 old entries; old file: `characters/_bak/cilghal.md.bak-20261117`.
+- **Entries:** 218 (147 with quotations; 56 quotations extended to the full sentence/passage from the source text on file; 68 marked as fragments; 95 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 237 old entries; old file: `characters/_bak/cilghal.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1201,6 +1201,15 @@ Our notes: `notes/materials/124-njo-10-star-by-star/sbs-07.md:38`
 — Source: Why I find Caedus = Maul more believable than Caedus = Yoda" (Master Azronger) — https://www.suspectinsightforums.com/t4493-my-problems-with-caedus-wank-why-i-find-caedus-maul-more-believable-than-caedus-yoda.
 Context: A14. Source as labelled by blogger: Star Wars: Legacy of the Force - Fury (raw thread.txt line 876)
 Our notes: `notes/materials/008-caedus-wank-problems-caedus-maul-vs-yoda.md:283`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Luke describes Cilghal's coral-like lightsaber with an ultima-pearl.
+> Luke continued, "One of my students, Cilghal, a Calamarian like Admiral Ackbar, made her lightsaber with smooth curves and protrusions, as if the handle had been grown from metallic coral. Inside, she used a rare ultima-pearl, one of the treasures found in the seabeds of her watery planet.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.18).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:58`
+
 
 # Debate and forum claims (unverified)
 

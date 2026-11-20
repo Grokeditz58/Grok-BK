@@ -6,17 +6,18 @@ Evidence file for Norys, the bullying leader of the Lost Ones gang in Coruscant'
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
+- Sources read for this file: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only). Notes: `notes/materials/175-yjk-03-the-lost-ones/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
-- This file has 8 entries and 8 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/176-yjk-04-lightsabers/`.
+- This file has 13 entries and 13 quotes.
 
 ## Contents
 
-- [Background and Gang](#background-and-gang) (3)
-- [Statements and Beliefs](#statements-and-beliefs) (3)
-- [Limitations](#limitations) (2)
+- [Background and Gang](#background-and-gang) (5)
+- [Statements and Beliefs](#statements-and-beliefs) (4)
+- [Limitations](#limitations) (4)
 
 ## Background and Gang
 
@@ -48,9 +49,39 @@ His face was broad and dark, his eyes close-set, his teeth crooked as he ground 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
+### 4. Norys becomes a stormtrooper trainee and revels in his armor.
+
+```
+BROAD-SHOULDERED NORYS, former leader of the Lost Ones gang and new stormtrooper trainee, spread his white armor on the bunk in front of him. He studied the pieces carefully, then began to assemble the glossy outfit, donning the components one at a time—and enjoying every minute of it.
+
+The boots went on first, stiff and sturdy. Then the greaves, the shin armor, the leg plates, body armor, arm plates, and finally the flexible but tough gloves. He felt as if he had been transplanted into the body of an assassin droid, a fighting machine encased in an impenetrable shell.
+
+Norys allowed himself a satisfied smile. This was much more impressive than anything his gang members had ever scrounged deep in the decaying alleys of Coruscant's underworld. He had been the toughest, meanest, angriest young brute of all the gang members. But being a stormtrooper was better . . . so much better.
+
+All of his former companions were also soldier recruits undergoing training. Norys fully expected to be the best among the new troops, just as he had been toughest among the Lost Ones.
+
+On the downside, he was no longer his own boss, free to do as he wished. He had to follow the orders of the Second Imperium. But with armor such as this and the military might of those who followed their Emperor, it was all worth it. Besides, if Norys proved himself valuable enough, his rank would increase, and he'd be placed in command of more soldiers, maybe even fly a TIE fighter. Without a doubt, he would have more power and cause much more damage than he'd ever imagined when he was just a gang leader.
+
+— Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
+### 5. Norys learns to aim and kills the holographic mynocks.
+
+```
+As the first mynock came toward him again, claws outstretched and long fangs ready to tear him to shreds, he took a second to aim and squeezed off a long bolt that sizzled through the creature's body. The mynock gurgled and fell to the floor, where it was impaled by one of the stalagmites.
+
+"Yes!" Norys shouted in triumph—but three new mynocks swirled around him, attracted by his shout. He fired again and missed. The creatures came at him from the front, side, and behind. Norys turned, remembering to think, point, aim, and shoot. He eliminated another creature.
+
+Two more emerged from the ceiling, but Norys swiveled at the waist and forced himself to concentrate. One of the two struck from behind, though its claws skittered off Norys's white stormtrooper armor. He ignored it as he set the second mynock firmly in his sights and shot it.
+
+"Gotcha!" He turned and carefully targeted the remaining creatures, one after another. Gradually, his shooting improved. He learned how to aim. He had learned how to be deadly.
+
+— Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
 ## Statements and Beliefs
 
-### 4. Norys wants the hawkbat egg and threatens to throw Zekk over the edge.
+### 6. Norys wants the hawkbat egg and threatens to throw Zekk over the edge.
 
 ```
 Then the gang leader’s eyes fixed on the precious hawkbat egg that Zekk cradled close to his chest. “What has the little trash collector found?”
@@ -64,7 +95,7 @@ Norys strode forward, his chest puffed with confidence. “Now give me that egg,
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 5. Norys vows Zekk will join the gang one way or another.
+### 7. Norys vows Zekk will join the gang one way or another.
 
 ```
 Zekk kept running while Norys yelled after them. “We’ll catch you next time, trash collector. Do you hear me?” he shouted. “You’ll join our gang-one way or another.”
@@ -72,7 +103,7 @@ Zekk kept running while Norys yelled after them. “We’ll catch you next time,
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 6. Norys says the Shadow Academy will train them, giving them a shot at being powerful.
+### 8. Norys says the Shadow Academy will train them, giving them a shot at being powerful.
 
 ```
 A brawny boy with close-set eyes and thick eyebrows stood up, glaring. “I don’t recall inviting you two.” Jacen recognized the bully Norys.
@@ -82,9 +113,17 @@ A brawny boy with close-set eyes and thick eyebrows stood up, glaring. “I don�
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
+### 9. Norys used to snipe at unsuspecting targets on Coruscant.
+
+```
+This wasn't fair! It was supposed to be target practice. He should have been able to point at a bantha's-eye or hide behind a window while shooting at an unsuspecting target in the streets below, as he had often done on Coruscant.
+
+— Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
 ## Limitations
 
-### 7. The mother hawkbat drives Norys back with a surprised yelp.
+### 10. The mother hawkbat drives Norys back with a surprised yelp.
 
 ```
 Just then a screeching sound came from above, a blood-curdling animal shriek. A predator’s heavy shadow swept like a dark blanket over the cracked windows of the walkway. With another loud scream, the mother hawkbat struck the side windows, smashing against the wire mesh that barely held the frames in place. She spat and hissed, her sharp beak ripping at the wires, her forked tongue thrashing as she dug her claws in, trying to get at Norys. The gang leader staggered backward with a surprised yelp.
@@ -92,10 +131,34 @@ Just then a screeching sound came from above, a blood-curdling animal shriek. A 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 8. Norys and the Lost Ones seem hypnotized by the Nightsisters.
+### 11. Norys and the Lost Ones seem hypnotized by the Nightsisters.
 
 ```
 The burly Norys and the other Lost Ones seemed to have been hypnotized, and Jacen wondered if Tamith Kai or the others were using some sort of Force trick to make them more susceptible to insidious suggestions.
 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 17
+```
+
+### 12. Qorl's spear smashes Norys into the wall.
+
+```
+Norys stood astonished as the deadly spearpoint hurtled toward his chest plate. He just had time to cry "Hey!" in a panicked voice amplified by his helmet speakers before the barbed tip impacted squarely with enough force to smash him backward.
+
+Norys slammed into the wall, his helmet ringing against the hard metal bulkhead. His vision sparkled with impending unconsciousness. He expected to see a spear sprouting from his heart and waited for his nerves to send shouts of mortal pain. He wanted to scream that Qorl, his supposed teacher, had betrayed him, murdered him—
+
+— Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
+```
+
+### 13. Norys misses again and again until he realizes he is overcompensating.
+
+```
+He pointed the blaster and squeezed off an energy bolt, but the beam went wide, striking a stalactite and startling up four more of the angry flying creatures. The new batch of mynocks also attacked, annoyed at him for disturbing their dark slumber.
+
+The devilish mynocks swooped and avoided the deadly beams.
+
+The blaster missed again and again as mynocks swirled around him, flapping their wings and assailing his ears with skull-splitting screeches. Norys wondered if Qorl had intentionally adjusted the blaster's aimpoint to throw the beam off.
+
+He suddenly realized that he had been aiming wrong. It was his own fault. Reacting wildly to his sudden fear, he had overcompensated.
+
+— Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```

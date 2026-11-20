@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 69 (65 with quotations; 4 quotations extended to the full sentence/passage from the source text on file; 7 marked as fragments; 9 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 91 old entries; old file: `characters/_bak/gantoris.md.bak-20261117`.
+- **Entries:** 70 (66 with quotations; 5 quotations extended to the full sentence/passage from the source text on file; 7 marked as fragments; 9 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 91 old entries; old file: `characters/_bak/gantoris.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -397,6 +397,15 @@ Our notes: `notes/materials/035-dark-side-sourcebook/05-ch5-traditions.md:318`
 (Scaling: Directly places Kun’s attack above Gantoris’s resistance in the scene.)
 (Source: Dark Apprentice [per Wookieepedia "Exar Kun/Legends" rev 15679816, ref 12; exact text match])
 Our notes: `external/mega-notes/exar-kun-legends-quotes.txt:208`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Luke calls Gantoris his first true failure as a teacher.
+> "My first true failure as a teacher was another student named Gantoris. He built his lightsaber in only a few intense days, following instructions given to him by the evil spirit of Exar Kun. Gantoris thought he was ready, and my mistake was not seeing what he was up to.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.19).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:59`
+
 
 # Debate and forum claims (unverified)
 

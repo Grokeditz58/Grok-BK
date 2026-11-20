@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 49 (38 with quotations; 12 quotations extended to the full sentence/passage from the source text on file; 3 marked as fragments; 18 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 52 old entries; old file: `characters/_bak/isolder.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 50 (39 with quotations; 13 quotations extended to the full sentence/passage from the source text on file; 3 marked as fragments; 18 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 52 old entries; old file: `characters/_bak/isolder.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -690,6 +690,19 @@ What it shows (our notes): Luke tells Tenel Ka her father Isolder's difficult de
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.87–88).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:74`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Isolder foils Yfra's attempt on his life, purges the conspirators and supports Tenel Ka's return to the academy.
+> Over the past weeks, the wrongness in her life had slowly dissolved, beginning with her parents' safe return to Hapes. Having foiled an attempt on their own lives by Ambassador Yfra's henchwomen, Teneniel Djo and Isolder had hurried back to find their daughter and her grandmother unharmed. They immediately sought out and purged the remaining conspirators from the royal court, while Ambassador Yfra awaited trial.
+>
+> To Tenel Ka's great surprise, neither of her parents had tried to talk her into wearing a synthetic arm or discontinuing her studies at the Jedi academy. In fact, when she had expressed her desire to continue her training, her mother and father had readily agreed, asking only that she stay to visit with them for a few weeks before returning to Yavin 4.
+>
+> "And I think you may teach many a future opponent that one cannot judge a warrior's worth by her outward appearance," her father added, hugging her. "Never be ashamed of what you are—or who you are."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.211–212).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:85`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 13 (9 with quotations; 3 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments; 1 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 12 old entries; old file: `characters/_bak/teneniel-djo.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 14 (10 with quotations; 4 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments; 1 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 12 old entries; old file: `characters/_bak/teneniel-djo.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -145,6 +145,19 @@ What it shows (our notes): Tenel Ka is proud that her mother is strong in the Fo
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.87).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:72`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Teneniel Djo foils Yfra's attempt, backs Tenel Ka's Jedi training and judges her a stronger warrior than ever.
+> Over the past weeks, the wrongness in her life had slowly dissolved, beginning with her parents' safe return to Hapes. Having foiled an attempt on their own lives by Ambassador Yfra's henchwomen, Teneniel Djo and Isolder had hurried back to find their daughter and her grandmother unharmed. They immediately sought out and purged the remaining conspirators from the royal court, while Ambassador Yfra awaited trial.
+>
+> "I believe you may become a stronger warrior than ever you imagined," Teneniel Djo said. "You have powerful legs, fast reflexes, and you still have your better fighting arm. From what your grandmother tells us, your wits have not been dulled, either."
+>
+> When Luke Skywalker had returned in the Shadow Chaser to take Tenel Ka and the other young Jedi Knights back to Yavin 4, there had been no mistaking her parents' pride. Her mother's final whispered words still echoed through her mind: "May the Force be with you."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.211–212).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:85`
+
 
 
 

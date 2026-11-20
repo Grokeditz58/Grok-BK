@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 67 (64 with quotations; 10 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 69 (66 with quotations; 12 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1956,6 +1956,25 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Raynar challenges Tionne's
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.86).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:41`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Raynar's garish robes.
+> One of the other young Jedi trainees, Raynar, emerged from his room dressed in garishly colored robes with an eye-popping display of intense primary blues, yellows, and reds. He seemed terribly flustered as he brushed his hands down the fabric of his robe, let out a sigh of dismay, and ducked back into his rooms.
+>
+> Behind them, Raynar emerged from his quarters again, looking much more satisfied now that he had managed to find a robe that was, if anything, even more dazzlingly bright than the first one—enough to cause tension headaches in anyone who looked too long. Raynar cinched the robe around his waist with a green and orange patterned sash, then bustled after Jacen and Jaina.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.7–8).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:28`
+
+What it shows (our notes): Raynar declares the students ready to fight for Luke; Luke corrects him.
+> From one of the front rows, where he always sat, Raynar spoke up. Jacen had to blink to clear the spots of bright color from his vision when the sandy-haired boy raised his hand. "We're ready, Master Skywalker! We're all willing to fight for you."
+>
+> Luke looked intently at the boy who had interrupted him. "I'm not asking you to fight for me, Raynar," Luke said in a calm voice. "I need your help to fight for the New Republic, and against the evil ways we thought were behind us. Not for any one person."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.10–11).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:33`
+
 
 
 # Debate and forum claims (unverified)

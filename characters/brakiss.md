@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 101 (88 with quotations; 41 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 110 (97 with quotations; 50 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -647,6 +647,85 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — The mirror beam overwhelms
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:102`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Brakiss recounts how Naga Sadow caused the Denarii Nova.
+> "More than five millennia ago the Denarii Nova exploded, ripping through these stars and reducing them to cinders," Brakiss said. "The powerful Sith sorcerer Naga Sadow caused this cataclysmic event to gain his freedom from pursuing Republic warships. With the extravagant power of the dark side, Naga Sadow tore these two stars apart and used giant flares like two slapping hands to crush the fleet behind him."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.59).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:12`
+
+What it shows (our notes): Brakiss manipulates the Denarii Nova's starfire with the Force.
+> Gazing at the stormy suns, Brakiss raised his arms to each side, spreading his fingers. His silvery robe flowed around him as if knit from silken spiderwebs. He stared into the swirling flares of the Denarii Nova. "Observe, Zekk—and learn."
+>
+> Closing his eyes, the Master of the Shadow Academy began to move his hands. Zekk watched through the observation port, his green eyes widening.
+>
+> The ocean of rarefied incandescent gases between the dying stars started to swirl like arms of fire . . . writhing, changing shape, dancing in time with the hand motions Brakiss made. The dark teacher was manipulating the starfire itself!
+>
+> He whispered to Zekk without opening his eyes, without observing the effect of his work. "The Force is in all things," Brakiss said, "from the smallest pebble to the largest star. This is just a glimmer of how Naga Sadow reached out to the stars and delivered a mortal wound five thousand years ago."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.61).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:16`
+
+What it shows (our notes): Brakiss does not know if he could make a sun explode and does not want to try.
+> "Could you make the sun explode?" Zekk asked in awe.
+>
+> Brakiss opened his eyes and looked at his young student. His smooth, perfect forehead creased. "I don't know," he said. "And I don't believe I ever want to try."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.61).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:17`
+
+What it shows (our notes): Brakiss gives Zekk a ready-made lightsaber: through the dark side things are easier.
+> "Normally," Brakiss said, "I would have suggested that you build your own weapon. But it takes time and intense concentration to assemble the components, understand the workings. And we have not the time. Through the dark side, many things are easier, more efficient. Take this lightsaber as my gift to you; wield it well in the service of the Second Imperium."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.63).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:21`
+
+What it shows (our notes): Brakiss on the twins' training and on Luke's fear of lightsabers.
+> Brakiss led the young man out of the observation tower. "We have simulation rooms," he said. "A while ago, I spent some time training your friends Jacen and Jaina. Very disappointing. They did learn how to use lightsabers, but they resisted me each step of the way.
+>
+> "I expect you, on the other hand, to excel in every routine. You, Zekk, will quickly surpass anything your friends accomplished. And I know Master Skywalker and his fears—he is too nervous to train his precious younger students with their own lightsabers. He considers the energy blades too dangerous." Brakiss laughed. "His fears are misplaced. The most truly dangerous thing is a Dark Jedi wielding such a weapon."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.64).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:23`
+
+What it shows (our notes): Brakiss sets Zekk against Vilas in a duel to the death to choose a general.
+> Brakiss paused and fixed the young man with a calm, piercing gaze. "You are about to face your most difficult trial, Zekk. Everything depends on this. You must demonstrate how talented you truly are."
+>
+> Brakiss gestured the young man inside the chamber. Zekk entered and stood waiting, but Brakiss remained outside. "Because it will be a fight to the death," he said, then slammed the door, locking Zekk inside.
+>
+> "You are all here to witness the selection of a leader for our new Dark Jedi trainees—a leader who shall be the first general of our Shadow Academy forces when the Second Imperium makes its grand foray to reclaim the galaxy. Here, before you, we will witness the great battle."
+>
+> Brakiss continued, "This will be a duel to the death between Zekk"—he paused, but none of the students cheered; they knew better, for they would have to follow whoever the victor of this contest might be—"and Vilas!"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.169–173).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:75`
+
+What it shows (our notes): Brakiss explains why the loser must die.
+> "Ah, Tamith Kai," he said, "you forget that I trained young Zekk. That counts for more than all the schooling of all your Nightsisters put together."
+>
+> "This is a different kind of contest," Brakiss said, as if explaining to one of his students. "Those other trainees know their places and will follow orders without second thoughts. These two, though . . . each thinks he is best. But only one can command. Only one can be the greatest warrior. If we allowed the loser to live, he would always resent the rule of the other—perhaps even try to undermine his authority. No, it is better that we see who is the stronger."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.177–178).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:91`
+
+What it shows (our notes): Brakiss is tense through the duel despite his outward calm.
+> The Shadow Academy Master seemed quiet and withdrawn, though. The perfectly chiseled features of his handsome face were set in an unreadable mask, his forehead showing just a trace of a frown.
+>
+> Brakiss sat, exuding outward calm, though Qorl could tell from the subtle reflexive expressions on his face each time the battle reached a new peak that this duel had filled the Shadow Academy Master with tension.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.169–177).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:91`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: kidnapping the twins and Lowie was an error, so Brakiss changed his recruiting.
+> In an earlier attempt to gain talented candidates, Brakiss had made an error by kidnapping the high-profile trainees Jacen, Jaina, and Lowbacca. When that failed, he had decided the Shadow Academy might do better with a different sort of person: downtrodden young ones who wouldn't be missed, yet had just as much potential to acquire Jedi powers—and more to gain by swearing allegiance to the Second Imperium.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.60).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:15`
+
 
 
 

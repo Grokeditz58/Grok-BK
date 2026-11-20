@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 25 (24 with quotations; 22 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 29 (28 with quotations; 26 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -270,6 +270,35 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's taunt about her
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:39`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tamith Kai's protege Vilas, trained from the Shadow Academy's construction.
+> The ominous Tamith Kai stood next to her protege Vilas. She and the new Nightsisters had begun training Vilas during the Shadow Academy's construction. They therefore considered him the first of the new Dark Jedi, stronger than the others. For now.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.110).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:40`
+
+What it shows (our notes): Tamith Kai mocks Brakiss: Vilas is more ruthless, trained by her, Vonnda Ra and Garowyn.
+> Tamith Kai's eyes blazed with violet fire as she fixed upon the battle. She spoke out of the corner of her wine-dark mouth, mocking Brakiss. "Your boy has no chance," she said. "Vilas is much more ruthless. I have trained him. Vonnda Ra has trained him. Even Garowyn has trained him. That young man is the culmination of our efforts on Dathomir. Why bother with this wasteful contest? Just give Vilas command of the new Dark Jedi."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.177).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:90`
+
+What it shows (our notes): Tamith Kai: the other trainees should see one of their number die.
+> Tamith Kai agreed. "Yes. It is good for the other Jedi trainees to see one of their number die. Only then will they understand the depth of our convictions . . . and realize that the Second Imperium may demand the supreme sacrifice of them, as well." Brakiss nodded.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.178).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:94`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tamith Kai congratulates Zekk petulantly.
+> Tamith Kai's somewhat petulant voice came next. "My congratulations, young Lord Zekk."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.182).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:103`
+
 
 
 

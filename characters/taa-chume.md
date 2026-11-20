@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 33 (20 with quotations; 12 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 47 (34 with quotations; 26 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -327,6 +327,123 @@ What it shows (our notes): The Matriarch calls Tenel Ka, sends Yfra away and adm
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.203–204).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:112`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Ta'a Chume taught swimming as a defense and once escaped an assassination by swimming underwater.
+> Ta'a Chume, on the other hand, matriarch of the Royal House of Hapes and mother of Tenel Ka's father, Prince Isolder, had taught swimming as a defense against assassins or kidnappers. In fact, her grandmother had once escaped an attempt on her life by jumping from a wavespeeder into a lake and swimming for shore underwater, so that the would-be assassins assumed she had drowned.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.29).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:80`
+
+What it shows (our notes): Ta'a Chume tells Tenel Ka that political power does not need two arms and that her destiny is to rule.
+> Her grandmother made an all-encompassing gesture. "Everything you see—Hapes and its sixty-three worlds—is yours to command." Her voice took on a persuasive tone. "Not many who fail to become Jedi Knights have such a pleasant alternative. After all, unlike the weapons of battle, wielding political power does not require the use of both arms."
+>
+> "You know," her grandmother said, leaning toward her again, as if a thought had just occurred to her, "perhaps your injury was the Force's way of showing you that you were never meant to be a Jedi Knight—that your destiny has always been to rule Hapes."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8 (p.79–80).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:57`
+
+What it shows (our notes): Ta'a Chume blocks Luke's call; she has always wanted to mold Tenel Ka into a schemer like herself.
+> Luke frowned and thought back on the direct communication he had just sent to the Fountain Palace on Hapes. He had been unable to get hold of Prince Isolder and Teneniel Djo, Tenel Ka's parents. Instead, Ta'a Chume, the matriarch of the Royal House, had come onscreen and told him in no uncertain terms that Tenel Ka's parents were traveling outside the Hapes Cluster and could not be reached, and that the princess herself had already endured enough trauma because of her Jedi training. Under no circumstances would the young woman be allowed to speak with Master Skywalker. With that, the former queen had abruptly terminated the connection, leaving Luke with an entirely new set of concerns.
+>
+> Tenel Ka's grandmother had never approved of the direction the girl had chosen for her own life. The harsh old woman had always wanted to mold her granddaughter into a scheming politician of whom she could be proud—someone just like herself.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 11 (p.96).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:15`
+
+What it shows (our notes): Ta'a Chume explains she sent Isolder and Teneniel away because of an assassination threat.
+> At last she said, "Although I no longer rule the Hapes Cluster, I still have my sources of information. I learned that an attempt would be made on the lives of the royal family, so I urged my son and his wife to pay a visit of state to another system—to negotiate a liberalization of our trade agreements. The negotiations called for a royal touch, and so my son and his wife were easily persuaded. No one but myself and my most trusted advisor knew when they left or where they went.
+>
+> "Tenel Ka's accident was an unexpected complication that, unfortunately, may put her in danger, drawing assassins to her, like piranha beetles swarming toward the scent of blood. The princess will be safer here with me than at your primitive temple. She is no longer any of your business, Jedi."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.115–116).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:55`
+
+What it shows (our notes): Ta'a Chume pilots the royal yacht herself.
+> Tenel Ka looked at each of her friends in turn. Jaina did not look well. Her straight brown hair, dull with perspiration, clung in damp clumps to her pallid face and neck. Lowie, sitting beside Ta'a Chume as she steered the yacht with nonchalant confidence, seemed too interested in the navigational computer to be affected by the waves. Jacen, on the other hand, looked boyishly enthralled by the experience.
+>
+> Tenel Ka's grandmother spoke from her position at the helm. Although royal guards accompanied them, the former queen preferred to pilot the craft herself. "We're almost to the fortress now. You'll be safe there."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 14 (p.126).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:81`
+
+What it shows (our notes): Ta'a Chume approves of Tenel Ka's ruling.
+> She was actually startled, though, when she looked behind her to see her grandmother, the iron-hard and impossible-to-please matriarch, smiling.
+>
+> "Perhaps your methods are a bit rough yet, child," her grandmother said, "but your judgment was sound."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.145).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:121`
+
+What it shows (our notes): Ta'a Chume ruled the Hapes Cluster alone for decades.
+> Ta'a Chume's eyes narrowed shrewdly. "For decades I ruled the entire Hapes Cluster by myself." The woman sighed and seemed to relent. "But perhaps you are right. I will send Ambassador Yfra back to the mainland to continue the search."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.167).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:68`
+
+What it shows (our notes): Ta'a Chume refuses to let anyone but herself control her fate and agrees to the climb.
+> The matriarch's sharp eyes flashed with determination. "I've never allowed anyone but myself to control my fate—so I suppose falling to my death while escaping would be preferable to waiting around to be killed by giant insects in my own bedchamber. It's agreed, then. We'll try the climb, as you suggest."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.196).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:41`
+
+What it shows (our notes): Ta'a Chume's two-shot holdout blaster: the second shot is for herself.
+> Sitting in back, Ta'a Chume recovered enough to reach inside her plush robes and withdraw a tiny holdout blaster. "For what it's worth," the matriarch said, "I'll use this—but it's designed for only two shots."
+>
+> "The first shot is for an attacker," Tenel Ka's grandmother answered. "The second shot . . . well, sometimes it is preferable not to be taken alive."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.203–204).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:61`
+
+What it shows (our notes): Ta'a Chume's second shot hits the Bartokk repulsorpod and sends the assault craft into the seaweed.
+> Ta'a Chume stood again, raised her tiny blaster, and aimed a second and last time.
+>
+> The matriarch took her final shot. This time the energy bolt struck one of the Bartokk repulsorpods squarely. Though the tiny weapon was not powerful enough to cause great damage, it was enough to throw the pursuing assault craft into a spin.
+>
+> The stern of the assassins' boat rose up and, as the Bartokk insects scrambled for control, the bow plunged, grazing the ravenous seaweed. Before the pilot could regain stability, a dozen spiked tentacles whipped up to wrap themselves around the rails, snatching at the hull, the repulsorpods, the laser-cannon emplacements. The insect assassins chittered, more in anger than fear, because the hive mind couldn't comprehend its impending death.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.207).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:72`
+
+What it shows (our notes): Ta'a Chume traps Yfra with her slip about the distress call.
+> "Your plot failed, Yfra. Guards, arrest this traitor!"
+>
+> "Plotting to kill the entire royal household. I am only happy that Tenel Ka's parents were absent, for I'm sure they would have been at risk as well."
+>
+> "Because you took control. How could you possibly have known we were in danger if you hadn't set up the plot yourself?"
+>
+> "Well, I—" Yfra blinked. "I simply responded to the distress call sent out from Reef Fortress, of course."
+>
+> "Ah." The matriarch pointed her long knobby finger and a smile curved her thin wrinkled lips. "Aha! But no distress signal was sent. Your Bartokk assassins blew up our power-generating station. We escaped. This is the first word that has gotten out—but you knew." The matriarch nodded confidently. "Yes, you knew."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.209–210).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:77`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: a bomb conspirator is poisoned under guard before Ta'a Chume can question her.
+> "We had one of the bomb conspirators in our grasp today," her grandmother said in a tired voice, "but before I managed to question her, she was poisoned." Ta'a Chume shook her head. "She was under guard the entire time. I don't see how an assassin was able to get to her so quickly."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.167).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:67`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Ta'a Chume's first shot misses the repulsorpod.
+> The wavespeeder jostled, but the matriarch took careful aim and fired a high-powered blaster bolt. The streak of energy skimmed the bottom of the pursuing assault craft, leaving the repulsorpod undamaged. The shot reflected off the Bartokks' metal hull and sizzled into the churning seaweed creature.
+>
+> "No damage," the matriarch said. "One chance left."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.206).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:68`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Ta'a Chume cannot hold the rope with her old hands, and has to be caught.
+> Even before they reached bottom, Jaina looked up to see Tenel Ka and her grandmother easing over the sill. The matriarch, unable to grasp the slender cord tightly enough in her old hands, steadied herself with an arm around Tenel Ka's waist. The young warrior girl had looped the rope once around her arm to allow herself more friction to control their descent.
+>
+> Lowbacca roared and with lightning-fast reflexes dropped the end of the severed rope, held out his arms, and caught the old matriarch as she plunged.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.198–199).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:47`
+
 
 
 # Debate and forum claims (unverified)

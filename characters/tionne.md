@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 59 (46 with quotations; 14 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 62 (49 with quotations; 17 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -547,6 +547,43 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tionne cannot understand L
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.136).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:14`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tionne teaches multiple solutions; her wisdom from Jedi lore.
+> Just moments after Jaina took a seat near Jacen, the Jedi historian and instructor Tionne appeared through a side door and came to stand near the three trainees. Jaina felt her brother's mood brighten at the sight of the silvery-haired Jedi woman. Tionne had taught them to look for multiple solutions to any problem, to find choices, fresh perspectives, new alternatives. As always, Jaina was struck by the wisdom in the mother-of-pearl eyes, wisdom gained from years of studying the tales and lore of ancient Jedi.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 9 (p.81–82).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:66`
+
+What it shows (our notes): Tionne leads hilt drills and ignites her silver blade.
+> Then, spacing the trainees two meters apart, each facing the same direction, Tionne took them through a series of exercises, using only the hilts of their lightsabers. Clearing her mind of all else, Jaina echoed the instructor's strong, fluid movements as if she were performing a dance.
+>
+> Apparently satisfied with their progress, Tionne ended the exercise and came to stand in front of Lowie. Gesturing for Jaina to take a position beside her, facing Jacen, Tionne pressed a stud on the handle of her weapon and a shimmering silver beam sprang from it, coruscating with energy.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 9 (p.83).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:69`
+
+What it shows (our notes): Tionne tells the tale of Nomi Sunrider to help Jaina through her fear.
+> Tionne's pearly eyes were grave as she looked at her three young charges. Picking up Jaina's discarded lightsaber, she seated herself on the cool stone of the raised platform and said, "Please, make yourselves comfortable. I need to tell you a story."
+>
+> "Thousands of years ago, in a time of great evil and great good," Tionne began in her rich musical voice, "there lived a woman named Nomi Sunrider with her husband Andur, who was training to be a Jedi Knight.
+>
+> "When Nomi and her husband traveled to take a gift of precious Adegan crystals to Andur's new Jedi Master, they were stopped by a group of greedy bandits, who killed Nomi's husband and tried to steal the crystals. But when Nomi saw her husband lying dead, she snatched up his lightsaber and took a deadly revenge on his murderers. Afterward, seeing what she had done, Nomi was so filled with revulsion that she vowed never to touch a lightsaber again.
+>
+> "To fulfill the dying wish of her husband, Nomi carried the crystals to his Jedi Master, Thon. There she stayed with her baby daughter Vima and began her own training to become a Jedi. She learned and grew in wisdom and the Force, but still she refused to touch a lightsaber, although it was the weapon of the Jedi.
+>
+> "Eventually, however, there came a day when she discovered that her power with the Force alone could not protect the ones she loved. To save her beloved Jedi Master and to guard her daughter, Nomi once again took up a lightsaber and fought for what she knew was right.
+>
+> "But by this time Nomi understood the purpose and meaning of the lightsaber—and from that day forward she fought with all the power of the light side of the Force. She was never eager to use her lightsaber, but she knew it was occasionally necessary. By learning to accept this, she became a great Jedi Master and a great warrior."
+>
+> As the story ended, Jaina drew a deep refreshing breath, coming out of the near trance she entered whenever listening to Tionne's tales. Jaina sensed that much of the horror she had felt earlier had already drained away, though her muscles were as sore and weary as if she herself had fought all of Nomi Sunrider's lightsaber battles.
+>
+> "No need to turn it on for now," the Jedi instructor said gently, looking directly into Jaina's brown eyes. "I think we've come far enough for today."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 9 (p.85–87).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:74`
+
 
 
 # Debate and forum claims (unverified)

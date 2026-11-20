@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 225 (154 with quotations; 115 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 262 (191 with quotations; 152 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1974,6 +1974,357 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka and Jacen are stu
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:47`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka's ambidextrous spear practice; she refuses to guide the spear with the Force, which she considers cheating.
+> She held a forked wooden spear that she used for target practice, throwing it with exceptional skill toward a tiny mark on the landing pad. The teenaged warrior could strike her target with either hand. She stared at her goal with cool, granite-gray eyes, focused her concentration, and then let the sharpened stick fly.
+>
+> Tenel Ka could have nudged the spear with the Force, guiding it where she wished it to go—but Jacen knew from long experience that she would probably tackle him to the ground if he dared suggest such a thing. Tenel Ka had gained her physical skill through faithful practice and was reluctant to use the Force in a way that she considered to be cheating. She was very proud of her skills.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.12).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:37`
+
+What it shows (our notes): Tenel Ka and Luke share a special bond from the rescue, and other secrets.
+> She and the Jedi Master had shared a special bond from the time the two of them had spent together searching for the kidnapped twins and Lowie and rescuing them from the Shadow Academy . . . though Jacen sensed that Tenel Ka and Uncle Luke shared other secrets as well.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.13).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:38`
+
+What it shows (our notes): Tenel Ka resents being judged by her weapon: even with a stick she can defeat an enemy.
+> Despite her fierce pride at knowing she would soon begin earnest training for real battles, Tenel Ka had resented the implication that she would somehow be judged on the basis of the weapon with which she would fight.
+>
+> Earlier, she had scaled the Great Temple using nothing more than her grappling hook, her fibercord, and her own muscles. Wasn't the warrior who wielded the weapon much more important than the weapon itself? she asked herself. Even holding a simple stick instead of a dazzling lightsaber, Tenel Ka was capable of defeating an enemy.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.27).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:77`
+
+What it shows (our notes): Tenel Ka's training regime: staff drills eyes open and closed, sword drills, then a ten-kilometer run.
+> For half an hour she practiced throwing the stick into the air and catching it, alternating between her left hand and her right, first with eyes open, then closed. Next, she practiced twirling the wooden rod over her head and jumping over it as she swung it beneath her feet.
+>
+> Finally, once Tenel Ka was satisfied that her reflexes were as finely tuned as she could wish, she grasped one end of the staff with both hands as if it were a lightsaber and began sword drills.
+>
+> Taking a deep breath, she sprinted down the steep outer stairs of the pyramid to ground level and began her ten-kilometer run for the day.
+>
+> The breeze felt cool against her face as she ran. Glancing down at herself, she assessed her lean muscular arms and long sturdy legs, reveling in the unrestricted motion and complete control. She sped up, pleased to note that her muscles were more than equal to the demands she made on them.
+>
+> Yes, she decided, the warrior was what mattered, not the weapon.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.27–28).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:78`
+
+What it shows (our notes): Tenel Ka is a strong swimmer, taught by both grandmothers; Ta'a Chume once escaped assassins by swimming underwater.
+> Tenel Ka was a strong swimmer, trained on both Hapes and Dathomir, at the insistence of both grandmothers. It was one of the few times she could remember that her parents' mothers had ever agreed on anything.
+>
+> Augwynne Djo, mother of Teneniel Djo, Tenel Ka's mother, had taught her to swim, saying that the strongest hunters and warriors were those who could not be stopped by a mere lake or river.
+>
+> Ta'a Chume, on the other hand, matriarch of the Royal House of Hapes and mother of Tenel Ka's father, Prince Isolder, had taught swimming as a defense against assassins or kidnappers. In fact, her grandmother had once escaped an attempt on her life by jumping from a wavespeeder into a lake and swimming for shore underwater, so that the would-be assassins assumed she had drowned.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.28–29).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:80`
+
+What it shows (our notes): Tenel Ka carves her lightsaber hilt from a tooth of her grandmother's rancor.
+> Tenel Ka allowed herself to sink below the surface of the river and changed to a new stroke, recalling that she had kept two teeth from her grandmother's favorite rancor when it had died a few years ago. They were not the rancor's largest teeth by far, but each was the perfect size and shape to be a lightsaber handle.
+>
+> After returning from her crystal hunt, she had applied to the rancor tooth a paste made of dampened black sand from the floor of the lava tube. When she polished the tooth to a soft luster, pigment from the dark sand had stained every crevice of her carving to bring each etched line into sharp relief. The decorated rancor tooth was a beautiful piece, worthy of a warrior.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.30–34).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:83`
+
+What it shows (our notes): Tenel Ka pries hazy crystals loose in a searing volcanic lava tube.
+> Losing patience, Tenel Ka had just about decided to turn back when she rounded one last corner and encountered a wave of searing heat. She had found what she was looking for.
+>
+> She wouldn't be able to bear the heat for long, but she had to risk it. On the floor of the tunnel lay a huge slab of glossy black rock that had broken free from a crack on the tunnel wall. Ripples of scorching air danced before her in the dimness. Rivulets of perspiration ran down her forehead and into her eyes, blurring her vision. Even so, she could not mistake the chunks of spiky crystals that grew on the broken slab, glittering and hazy.
+>
+> The rock surrounding her was too hot to touch, so Tenel Ka worked quickly. Holding her glowrod in her teeth, she pulled a small scrap of lizard hide from a pouch at her belt, wrapped it around a clump of the crystals, used her grappling hook to chip away at a few of the crystals, then pried them loose.
+>
+> Tenel Ka tucked the crystals, still wrapped in their protective lizard hide, into her belt pouch, then headed back up the tunnel at a trot. Holding the glowrod high above her head, she raised her voice in a loud ululating cry of triumph that echoed down the length of the lava tube.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.33).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:88`
+
+What it shows (our notes): Tenel Ka cleaves her invisible remote in two, tracking it by ear as well as the Force.
+> Through the red filter Jacen watched as she parried one of the lasers and leaped upward with all her might, using her lightsaber like a cleaver. A shower of sparks erupted and a smoking hole appeared in midair. Jacen heard a thunk as pieces of Tenel Ka's remote fell useless to the jungle floor.
+>
+> "Excellent, all of you—except now it looks as if I'll need a new remote," Luke said, smiling wryly at Tenel Ka. "You did very well with the Force."
+>
+> "Not only with the Force," she said, thrusting her chin upward and squaring her shoulders. "I also used my ears to track the remote. When I concentrated, I could hear it even above the sound of the lightsabers."
+>
+> Luke chuckled. "Good. A Jedi should use all available skills and resources."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.44).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:112`
+
+What it shows (our notes): Sparring with Jacen, Tenel Ka could have finished him and pulls the blow to teach him; she reads muscle tension and feints.
+> She deftly sidestepped the thrust and returned with a parry of her own as he stumbled to regain his balance. Had he been a real enemy, she could have finished him then, but she pulled her blade aside for a split second, just to demonstrate that Jacen had let his guard drop—a lesson a Jedi Knight would need to learn to avoid defeat.
+>
+> Tenel Ka watched her opponent closely, trying to judge from the tension in his muscles how soon he intended to make a surprise move, in which direction he would react, when the motion of his blade was a genuine attack and when it was merely a feint.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.52–54).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:135`
+
+What it shows (our notes): Tenel Ka leaps backward over the boulders Jacen tried to drive her into, then switches hands to show she fights equally well with either.
+> Jacen pressed Tenel Ka hard, and she skipped backward a couple of paces. It was obvious he was trying to drive her toward an outcropping of broken boulders at the edge of the clearing. Jacen must have thought she had forgotten about them, but Tenel Ka filed away every detail of her surroundings in her mind.
+>
+> Just as she reached the rocks, Jacen gave away his plans even more clearly with a broad grin. He pushed forward abruptly, no doubt expecting her to trip. But Tenel Ka leaped lightly backward over the boulders and landed on the other side, her legs planted firmly in a fighting stance. Suddenly foiled, Jacen stumbled and fell toward her, almost hitting the rocks himself. He came up sputtering in disbelief.
+>
+> Allowing herself a brief moment of self-indulgence, she switched the lightsaber to her left hand to prove she could fight just as well with either arm. She had practiced equally with her left and right hands, knowing it might prove a useful skill sometime.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.54).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:141`
+
+What it shows (our notes): In a blade lock Tenel Ka and Jacen are evenly matched.
+> Jacen's lightsaber pressed against hers, and she took a step back. They stood deadlocked, slamming energy blade against impenetrable energy blade. Fiery electricity crackled, and the air thickened with the sharp scent of ozone. Tenel Ka pushed with all her strength, but Jacen countered with equal force.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.55).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:146`
+
+What it shows (our notes): Tenel Ka throws off the Hapan droid arm with the Force: an unconscious shove, then a deliberate Force-throw against the wall.
+> "No!" Tenel Ka cried, unconsciously using the Force to give the engineer and the doctor a backward shove. The droid arm was already clamped in place against her skin, however, like a protruding cancerous growth.
+>
+> "I said NO!" Tenel Ka quite consciously used the Force to yank the contraption free and fling it with blinding speed against the nearest wall. It hit the stones with a clang and a crunch and fell in pieces to the cold tile floor.
+>
+> Gasps went up from all around the room, and a dozen pairs of eyes regarded her with shock and apprehension.
+>
+> Having vented her fury, Tenel Ka's voice was now quite calm. "And I meant no."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 10 (p.92–93).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:90`
+
+What it shows (our notes): Tenel Ka decides she will use the Force in small ways rather than depend on a machine.
+> The Force was a part of her, flowing through her just as the blood of her parents flowed through her veins. But this artificial arm was no part of her. If she accepted it, then she was allowing the loss of her limb to change her in ways that reached deeper than the eye could see. She didn't object to changing—but this change was not for the better. If she allowed herself to be transformed, it should be in the direction of becoming stronger or wiser.
+>
+> Tenel Ka decided then and there that she had not, in fact, changed that much. If she needed to use the Force from now on to assist her in small ways, then so be it. But she refused to become dependent on a machine that masqueraded as part of herself.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 10 (p.90–91).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:85`
+
+What it shows (our notes): Learning to swim one-armed, Tenel Ka beats Jacen in a real race to shore.
+> In that instant she remembered yet again that one of her arms was missing—but she also realized that, with only a slight adjustment of her posture and weight, she was able to float quite easily. By experimenting, she discovered she could propel herself at surprising speed, using nothing more than her strong legs.
+>
+> Tenel Ka drew on all of her strength, endurance, coordination, and ingenuity as she threw her body into the mad race for shore. Her entire consciousness was focused on one goal, and she drove forward with every bit of determination she possessed.
+>
+> Before she even understood what had happened, she was standing on the shore being greeted by loud cheers from Jaina and a very bedraggled-looking, wet Lowbacca, who were already standing on the rocky beach.
+>
+> Disoriented, Tenel Ka turned, looking for Jacen, and found him just emerging from the water behind her. From the surprised expression on his face, she knew their competition had been real: he had not "allowed" her to win.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 14 (p.131–133).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:91`
+
+What it shows (our notes): Tenel Ka masters her fear of the towering Mairan ambassador, then defends Lowie as a friend, not a pet.
+> Tenel Ka's initial reaction upon seeing the alien ambassador was one of fear—a giant primeval monster nearly one and a half times her own height rising out of the surf and lumbering toward her— but she pushed the reaction away. Fear could only weaken her judgment right now.
+>
+> "Wookiees are an intelligent species. They are no one's pets," Tenel Ka said. "This is my friend."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.139–141).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:111`
+
+What it shows (our notes): Tenel Ka's first ruling: she researched the records and exposes the Mairans' ditanium scheme.
+> Tenel Ka did not back down. Her voice remained stern. "The ambassador is sorely misinformed. I have made many important decisions in my life. Although this may be the first one that affects him and his kind, he may rest assured that I am no stranger to making tough choices."
+>
+> The tentacled ambassador bowed deeply in respect, but then Tenel Ka continued sharply, "I also understand that the Vergills conducted a mining survey of the oceans by satellite, well before you established your consulate city. When I consulted the access records, I learned that you Mairans received a copy of this mining report several months before you chose a location for your domed consulate. Finally, I have discovered that you identified the richest vein of ditanium picked up on the survey and chose to place your structure exactly there, knowing full well that the Vergills would eventually commence mining operations in the vicinity.
+>
+> "Yes, Ambassador, the entire ocean is available," she said as the wind whipped her hair about like red-gold flames, "but it is you who chose to bring about this dispute. You erected your consulate after you knew for certain that the Vergills would desire to mine that very same spot."
+>
+> She waited, but the Mairan said nothing. She continued. "The Vergills have also petitioned for our intervention. And so you may either change the location of your consulate—which is quite easily done, as I understand from the modular construction of your domes—or you may simply choose to tolerate the noise and disturbance."
+>
+> "Don't even bother translating that," Tenel Ka said sharply to Em Teedee, then turned to face the hulking black creature. "You came to me asking for a decision, and I have made it. In the future perhaps you will attempt to work out your own problems instead of wasting our time with your petty squabbles. I have spoken."
+>
+> "Perhaps your methods are a bit rough yet, child," her grandmother said, "but your judgment was sound."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.142–145).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:115`
+
+What it shows (our notes): Against the killer seaweed Tenel Ka wraps her legs around the rail and frees Jacen with a one-handed knife slash.
+> Tenel Ka suddenly appeared beside them. Wrapping her legs around the deck rail, one of her throwing knives gripped tightly in her hand, she bent to slash at the tentacle that grasped Jacen's arm. The seaweed cut free with a snap, and in the recoil Lowbacca managed to yank Jacen back onto the deck.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.156).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:32`
+
+What it shows (our notes): Tenel Ka stabs and severs seaweed fronds and takes a blow to the head without crying out.
+> Tenel Ka leaped in front of the deadly frond, wielding her throwing dagger. She stabbed into the thick stem of seaweed, and a syrupy green ooze gushed out.
+>
+> The seaweed recoiled, then lashed back, slapping Tenel Ka across the side of the head. A trickle of blood traced a scarlet line down her cheek. Rather than cry out in pain, Tenel Ka chose to respond with her knife, slashing through the coiled weed—and another fat tentacle thumped to the deck.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.157).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:34`
+
+What it shows (our notes): Tenel Ka realizes she fought as herself, with everything she had, and is still good with a lightsaber.
+> Tenel Ka flinched as if he had slapped her. He was right, she realized: she had not fought like some weak, pitiable invalid. Instinctively, she had battled with everything in her repertoire, drawing on all of her resources. She had truly been herself, using every weapon at her disposal.
+>
+> This was a fact, she thought in wonderment. She was indeed good with a lightsaber. Still. And she was also still a good swimmer, fighter, runner. But she had stopped believing in herself, stopped using every portion of her body and mind to their fullest ability. These things were an integral part of the person Tenel Ka had always prided herself in being—and that was what she had been missing since the accident.
+>
+> "Thank you, my friend," she said. "I had begun to forget who I was."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.164–165).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:57`
+
+What it shows (our notes): Tenel Ka senses only weariness and determination in her grandmother; she believes Ta'a Chume capable of murder but protective of her.
+> Tenel Ka considered the question seriously. "No," she said at last. "Had that been my grandmother's intention, she would have . . . disposed of me long before you arrived." Lowbacca gave an interrogative growl, and Tenel Ka continued. "Do not misunderstand me. I believe her capable of murder—but I also sense that her intention is to keep me from danger, to protect me, whether I become a queen or a Jedi."
+>
+> Stepping forward to greet her grandmother, Tenel Ka tried to sense any harmful intentions the matriarch might have. The only emotions she picked up, however, were weariness, frustration, and a sense of grim determination.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.165–167).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:62`
+
+What it shows (our notes): Tenel Ka's danger sense wakes her; she notices the missing shield hum and the destroyed generator.
+> Her skin prickled, but not from cold. She recognized the reaction of her Jedi senses transmitting messages of danger—an indefinable uneasiness that was rapidly growing closer to full-fledged alarm. Something was definitely not right.
+>
+> She heard the rushing, hissing ocean—and realized that the sound should not have been so clear.
+>
+> Where was the background hum of the night perimeter shields?
+>
+> Leaning forward, Tenel Ka narrowed her eyes to study the air. A telltale shimmer should have been visible to demonstrate that a protective field surrounded the fortress—but she saw nothing. Then her attention turned to a glimmer of light and a smudge of smoke rising into the air near the generator station.
+>
+> The shield generator had been destroyed! That meant Reef Fortress now stood unprotected.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.184–185).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:9`
+
+What it shows (our notes): Tenel Ka spears a Bartokk one-armed and rips it open.
+> The Bartokks chittered upon seeing these new and unexpected opponents, but Tenel Ka raced ahead with full momentum. Using all the muscles in her single arm, she jabbed with her spear, plunging it through the body core of the left assassin. Its upper four arms flailed in reflex, trying to bat the weapon out of Tenel Ka's grip—but she twisted the long blade, ripping it sideways. The insect's hard exoskeleton cracked and split open, spilling thick greenish-blue goop onto the stone floor. She yanked the spear free as the Bartokk clattered to the flagstones, its legs still flailing.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.189).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:22`
+
+What it shows (our notes): Tenel Ka pins a Bartokk to the wall with her spear and explains the hive's distributed brains.
+> Tenel Ka charged forward as the insect killer moved to meet her. She plunged her ornamental spear into it until the tip of her weapon bored all the way through the glossy shell and wedged into a crack between the wall blocks. She left the Bartokk pinned to the wall like a bug in a child's collection. Even so, the creature still writhed and snapped, thrashing to get at them.
+>
+> "These hive-mind assassins," Tenel Ka explained, "their brains are distributed through major nerve networks inside their bodies. Simply cutting off a head won't stop them. The pieces will still attempt to continue their mission."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.192–193).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:29`
+
+What it shows (our notes): Tenel Ka rappels one-armed down the fortress wall with her grandmother clinging to her, using the Force without reservation, then Force-slows her fall when the rope is cut.
+> Even before they reached bottom, Jaina looked up to see Tenel Ka and her grandmother easing over the sill. The matriarch, unable to grasp the slender cord tightly enough in her old hands, steadied herself with an arm around Tenel Ka's waist. The young warrior girl had looped the rope once around her arm to allow herself more friction to control their descent.
+>
+> With a firm hold on the fibercord, she slowly leaned backward, letting the strand slip through her fingers as her feet pressed against the outer wall of the fortress. The dangerous climb may have been more difficult and awkward with her handicap, but Tenel Ka did not seem the least bit hesitant. Despite her usual reluctance to use the Force, she took advantage of it this time without reservation.
+>
+> Jaina heard Tenel Ka shout, "Hold on!" as she doubled her speed, sliding down the cord so quickly that Jaina was sure she would get a rope burn on her hand and arm.
+>
+> Using the Force to control her own fall, Tenel Ka landed heavily on her feet, but without injury.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.198–199).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:47`
+
+What it shows (our notes): Tenel Ka times the Dragon's Teeth geysers for Jaina's escape run.
+> "Watch the waves—and count," Tenel Ka said, pointing as a plume of white water jetted up between the two sharp rocks. Five seconds later another plume spurted up just as high. "Timing could be our advantage."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.202).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:58`
+
+What it shows (our notes): Tenel Ka senses that Yfra is lying.
+> "Why, Ta'a Chume—I've never shown anything but loyalty to you." Yfra's voice was full of sweetness and offended innocence, though Tenel Ka could sense that she was lying. "How can you make such an accusation?"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.209).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:78`
+
+What it shows (our notes): Her parents' assessment: powerful legs, fast reflexes, her better fighting arm, undulled wits.
+> "I believe you may become a stronger warrior than ever you imagined," Teneniel Djo said. "You have powerful legs, fast reflexes, and you still have your better fighting arm. From what your grandmother tells us, your wits have not been dulled, either."
+>
+> "And I think you may teach many a future opponent that one cannot judge a warrior's worth by her outward appearance," her father added, hugging her. "Never be ashamed of what you are—or who you are."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.212).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:87`
+
+What it shows (our notes): Tenel Ka acknowledges she gained wisdom from losing her arm and will use every ability, including the Force.
+> Tenel Ka had long believed that honoring one part of her heritage implied that she must dishonor the other. Just as she had believed that trusting in the Force implied a lack of trust in herself. Wincing at the thought, she was compelled to acknowledge that she had actually gained wisdom from the loss of her arm. She knew now that she had to use every ability she possessed—including her talent with the Force—to become the best possible Jedi.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.213).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:91`
+
+What it shows (our notes): Tenel Ka builds a new lightsaber: the rancor-tooth hilt with rainbow gems from the Hapan tiara, a turquoise blade.
+> Coming to a decision, she grasped the rancor tooth tightly, lifted it over her head, and brought it smashing down on the glittering, jewel-studded tiara. The delicate crown broke into pieces.
+>
+> Yes, she decided. She was a product of two worlds, and she would learn to blend the best of her mother's and her father's. She laid down the rancor's tooth and reached for the other items she had assembled.
+>
+> Then, selecting the finest jewels from her Hapan tiara, she began to build her new lightsaber.
+>
+> A blade of sizzling energy sprang from the ivory hilt, glowing a rich turquoise, produced by the rainbow gems she had installed from her tiara. A heartbeat later, Jacen's emerald lightsaber hummed to life.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.213–215).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:92`
+
+What it shows (our notes): Tenel Ka and Jacen spar again in Force-guided trust.
+> Gray eyes searched brandy-brown while Tenel Ka considered this. Her throat was tight with unaccustomed emotion when she finally spoke. "Jacen, my friend, I know of no better way to show that I trust you . . . that I do not blame you for what happened."
+>
+> The Force flowed between them, around them, and soon they were moving in ancient patterns and rhythms, as in a well-rehearsed exercise routine, an intricate dance. Somehow both of them knew that neither would come to any harm.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.215–216).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:93`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: the rancor tooth's hollow is too small and every crystal is flawed, but she assembles the weapon anyway.
+> A yawn of contented weariness escaped her lips as Tenel Ka began to piece the components together according to Master Skywalker's directions. She frowned when she realized that the hollow inside the rancor's tooth was not quite large enough to contain the arrangement of crystals she had hoped for. She frowned again when she noticed on close inspection that each of her hazy crystals contained a tiny flaw. She suppressed another yawn and shook her head in resignation. Well, she didn't have much choice. There hadn't been time to examine the crystals more carefully in the searing lava tube, and now it was too late to search for more.
+>
+> Tenel Ka thought back over the past two weeks, the drills and exercises she had put herself through. Her reflexes were lightning-fast, her skills and senses sharp as a laser. She shrugged, trying to loosen the knot of weary tension that had crept into her shoulders. She would have to make do. After all, in the long run it was the warrior and not the weapon that determined victory.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.34–35).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:90`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: her flawed lightsaber fails in the blade lock and Jacen's blade takes her arm.
+> Her palm was sweaty, but her hand maintained its grip on the rancor-tooth handle. Inside, the components of her lightsaber vibrated, as if struggling to maintain the full energy of the blade while Tenel Ka pressed so furiously against an equally powerful weapon. She pushed harder. The handle rattled.
+>
+> "Perhaps you should," she panted, and pressed harder, ignoring the strange, unsettling sensations from her weapon. She gritted her teeth. Her arm strained. The lightsabers whined and buzzed. Jacen shoved back with all his might. His eyes glittered with the effort.
+>
+> Suddenly, something changed inside her lightsaber. She heard a sharp crack and then a loud hissing sizzle.
+>
+> Jacen pressed harder with his emerald-green blade. For the briefest instant, the golden sparks that shot through her white pulsating energy beam flickered wildly. Her blade blurred with static, grew less focused.
+>
+> The power source in Tenel Ka's lightsaber gave a shriek of electrical overload—and the blade winked out like a snuffed candle. Sparks and smoke poured from the end of the handle where an energy blade should have glowed.
+>
+> Suddenly, encountering no resistance as Jacen thrust with his last reserves of strength, the emerald-green lightsaber sliced through the opening where Tenel Ka's own blade had been just a moment before—plunging down to the only thing that stood in its way.
+>
+> Tenel Ka felt a line of blazing agony sweep across her arm just above the elbow. It burned . . . and yet below the burn she felt only a sickening, horrible coldness—a bone-deep chill like none she had ever felt before.
+>
+> Somehow her lightsaber thumped on the ground with a soft thud. Impossibly, she saw her hand clenching the carved rancor's tooth. Sparks the size of lightning bolts flashed around the handle as her weapon exploded in a burst of blinding light.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.55–57).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:147`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Tenel Ka blames her own pride, haste and stupidity, and fears what she can no longer do.
+> How could she be a true warrior now? She could not even claim her wound as the honorable result of battle. Her injury had, in fact, been caused by her own pride. And haste. And stupidity. If only she had taken more care in choosing her lightsaber components. If only she had been more meticulous in assembling the weapon. . . .
+>
+> Certain that her success or failure in battle would depend on her physical skills, she had not bothered to use her best talents when constructing her weapon. Even during her Jedi training, Tenel Ka had always proudly tried to rely solely on her natural abilities, refusing to use the Force unless there was no other way to accomplish her goals.
+>
+> But now what had become of her fighting prowess? How could she ever again climb a building using nothing but her fibercord, her grappling hook, and her own wits? How would she climb a tree? Or hunt? Or swim? Why, she couldn't even braid her own hair! And who would respect a Jedi with only one arm?
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8 (p.76).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:51`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: watching acrobats and a juggler, Tenel Ka counts the things she can no longer do.
+> Tenel Ka grimaced, not only at her grandmother's unfair assertion that she had failed in her Jedi training, but also because one of the acrobats had performed a double handspring—an act she had done countless times herself, and one she'd always assumed she'd go right on doing. She had even included flips, cartwheels, and handsprings in her daily exercises at the Jedi academy. The Jedi academy . . . she missed it already.
+>
+> Another thing I will never be able to do, Tenel Ka thought, pressing her lips into a grim line.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8 (p.79).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:58`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — STATEMENT/ANTI-FEAT: she admits warrior-over-weapon was not a fact.
+> "This is not a fact," Tenel Ka said, frowning. "My own pride caused the accident. I believed my fighting prowess could compensate for any deficiency of my weapon. I foolishly believed that the quality of the energy blade was insignificant compared with the quality of the warrior. This was also not a fact."
+>
+> Tenel Ka's eyes flashed with smoky gray fire and, using her right arm to hike up her gown to a comfortable thigh level, she plopped onto the cushioned bench. "And had I been using the Force," she argued, "I would already have known my lightsaber blade was inadequate."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.118–119).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:61`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: reaching for Jacen's arm, she forgets she has no left hand; the robe slips off one-handed.
+> Tenel Ka opened the door with her right hand and reached out to take his arm with her other—only to remember that she had no left hand. Even though Jacen could not have seen, she felt a flush of embarrassment creep into her cheeks as she grasped his arm with her good hand and led him into the room.
+>
+> Tenel Ka picked up the robe and with her one hand attempted to fling it about her shoulders, but the left side slid off, leaving the stump of her arm bare. When the matriarch moved to help her, Tenel Ka pulled away and quickly reached over to tug the garment into place.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 14, 15 (p.129–137).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:88`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: a seaweed pincer clamps her dagger and Jacen has to cut it away.
+> Tenel Ka turned to fend off an attack from one of the sharp-shelled tentacles. She slashed with her knife, but one of the clamshell pincers clenched the point of her dagger with a loud click. The razor-edged shells clacked again, pushing to reach closer to her face.
+>
+> Then Jacen was there, chopping the tentacle away with his brilliant green energy blade. He flashed Tenel Ka a roguish grin. "Just wanted to keep the score even!"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.159).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:40`
+
 
 
 

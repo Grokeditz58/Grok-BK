@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 191 (135 with quotations; 91 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 215 (159 with quotations; 115 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2244,6 +2244,209 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss whets Zekk's appet
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:69`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Zekk's background as recapped: resisted, then learned quickly; resentment of the twins.
+> His hopes for a better life had been little more than dreams until the Nightsister Tamith Kai snatched him and brought him to the Shadow Academy as part of a new recruitment drive.
+>
+> Zekk had resisted the transformation at first, fighting to stay loyal to his friends. But gradually Brakiss lured him, showing Zekk how to use the Force for one small thing, then another. Zekk discovered that he was strong in the Force, and he learned quickly.
+>
+> The experience altered his feelings toward the twins from friendship to resentment. Jaina and Jacen had never thought to include him in Jedi testing, though he felt he had as much innate talent as any of their highborn friends. Zekk's main regret in leaving his old life was that he missed his companion, old Peckhum. But now he had much more of a future. Zekk was beginning to understand Jedi powers, and he had already done things he'd never dreamed of.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.60).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:14`
+
+What it shows (our notes): Brakiss: Zekk surpasses his expectations and learns faster than Vilas.
+> Brakiss smiled again. "You're ambitious as always, young Zekk." He placed a firm hand on his prize student's shoulder. "But do not be impatient. There is more you must learn, much more. You've been such a voracious learner, surpassing my greatest expectations about how capable you are of using the power you were born with. You easily accomplish the exercises I set for you—but there comes a time when every Jedi trainee must be tested to the limit." Brakiss raised his eyebrows. "Tamith Kai continues to flaunt her greatest student, Vilas, who has been training here for more than a year. But you are learning so much faster. I believe you have reached that stage, Zekk."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.62).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:19`
+
+What it shows (our notes): Zekk receives an ancient scarlet lightsaber, attuned to the dark side, like Vader's.
+> From the folds of his robe Brakiss removed a dark, ornate cylinder. "The time has come for you to have your own lightsaber."
+>
+> Zekk took the ancient Jedi weapon and stared at it in wonder. Even deactivated, it felt powerful in his hand. He squeezed the grip and swung the handle back and forth, imagining a crackling energy blade. It felt good. Very good.
+>
+> "Normally," Brakiss said, "I would have suggested that you build your own weapon. But it takes time and intense concentration to assemble the components, understand the workings. And we have not the time. Through the dark side, many things are easier, more efficient. Take this lightsaber as my gift to you; wield it well in the service of the Second Imperium."
+>
+> Brakiss stood back as Zekk activated the lightsaber. A scarlet beam lanced outward, glowing like lava. "This is a masterful weapon," Brakiss said. "It has already been attuned for use by the dark side."
+>
+> "In fact, this lightsaber is very similar to the one Darth Vader used," Brakiss pointed out.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.63).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:20`
+
+What it shows (our notes): Zekk feels the lightsaber begging to be used.
+> The lightsaber felt warm, ready . . . begging to be used. The afterimage of the scarlet blade still blazed across his vision.
+>
+> Zekk tried to blink it away, but the bright line remained. At last he said, "Yes, I can see how such a weapon could be very dangerous indeed."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.64).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:24`
+
+What it shows (our notes): Zekk is the most powerful of Brakiss's students and wants everything the Force can give him.
+> Zekk wore his padded suit of dark leather armor and sat straight and proud, shoulders squared. His lightsaber hung comfortably at his side. After weeks of training, he had grown fully comfortable with it. It was like a part of him, an extension of his body. That, more than anything else, convinced him he was destined to be a Jedi Knight. He was a loner, but he was also the most powerful of Brakiss's students. The other trainees flashed him occasional glances. Zekk had rapidly surpassed all of them, even those who had been at the Shadow Academy for months and months.
+>
+> But then, Zekk had the greatest motivation. He wanted to be strong. He wanted everything the Force could give him.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.109–110).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:38`
+
+What it shows (our notes): Zekk's rivalry with Vilas.
+> Among those gathered in the assembly hall he noticed Vilas, the Nightsister Tamith Kai's dark-haired and brooding trainee. Vilas, who was from Dathomir, was arrogant and smug, always looking down at him, never letting him forget that it was he who had stunned Zekk when he'd resisted capture on Coruscant. Zekk wasn't about to forget. He felt a rivalry with this swarthy young man who talked too often about how he had ridden rancors and summoned storms on Dathomir—as if Zekk was supposed to be impressed.
+>
+> Zekk crossed his arms over his leather-armored chest, knowing that they were wrong. And one day, Zekk told himself, he would prove it.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.110).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:40`
+
+What it shows (our notes): Zekk defeats every simulation, including a rancor.
+> BY NOW ZEKK considered his lightsaber an old friend.
+>
+> In one battle he had even felled a ferocious rancor with his lightsaber. After that difficult victory, Zekk wished he could have watched the reaction of his rival Vilas, who seemed so enamored of the hideous beasts.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.168).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:72`
+
+What it shows (our notes): Zekk senses Brakiss's uneasiness.
+> Zekk cleared his throat, finally curious enough to speak. "Master Brakiss, I sense . . . uneasiness in you. You haven't told me about this next exercise. Is there something I should know?"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.169).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:74`
+
+What it shows (our notes): Zekk pushes his fear aside before the duel.
+> The seconds pounded by, and still the other door didn't open. Fear swelled within him, but he pushed it aside. A Jedi had no place for fear, no reason to fear. The Force was in all things, and the dark side was his ally.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.170).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:76`
+
+What it shows (our notes): Zekk Force-yanks the meteorite back into Vilas.
+> Zekk realized he had been foolish. He concentrated, using the abilities he had recently acquired. Since Vilas was no longer looking at the stone, Zekk used the Force to yank it back toward his enemy. The rock didn't have enough distance to build up much speed, but it struck a sharp blow to Vilas's shoulder. The other young man cried out, rebounding from the impact.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.174).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:83`
+
+What it shows (our notes): Zekk draws on the dark side in anger and smashes a greenhouse module into Vilas.
+> When Vilas turned with a hoot of victory, Zekk felt anger boil up from the depths of his mind, allowing him to draw more strongly on the dark side of the Force. Reaching out into the floating debris, he grabbed a pyramidal greenhouse module and smashed the massive object into Vilas with enough force to shatter its transparisteel panes.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.175).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:87`
+
+What it shows (our notes): Zekk Force-shoves himself out of Vilas's stroke and hides.
+> His face contorted with rage, Vilas kicked off of one of the floating segments and hurtled toward Zekk, who waited with his lightsaber held low. Vilas made ready to swipe his blade across the space where Zekk was. Zekk knew that if their blades clashed again, the momentum would send them both tumbling out of control. Just as Vilas drew back his lightsaber for a mighty blow, Zekk used the Force to give himself a sharp shove— away.
+>
+> Vilas swept out with full force—and the energy blade buzzed through empty air. Because nothing had stopped the stroke of his sword, Vilas spun about like a slow tornado, tumbling and disoriented.
+>
+> Zekk saw his opportunity to buy time. He shot up behind one of the larger meteoroids hanging in the center of the weightless arena and plastered himself to the rock surface, pressing his back against the rough stone.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.176).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:88`
+
+What it shows (our notes): Zekk dodges by instinct as Vilas's blade cuts through his hiding place.
+> Then, behind him through the rock, he heard a crackling sound and instinctively threw himself away just as Vilas's blazing blade sliced completely through the meteoroid, leaving each chunk of tumbling rock with a flat edge that was so smooth it looked like a molten mirror.
+>
+> If he hadn't moved at the last instant, the lightsaber would have bisected Zekk just as it had the meteoroid!
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.179).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:97`
+
+What it shows (our notes): Disarmed, Zekk improvises with a pipe, burns Vilas, and Force-calls his lightsaber back.
+> With no weapon at hand, Zekk reached beside him to grasp the still-drifting metal rod. He grabbed the pole and swung it through the air with such speed that it made a sighing sound. But, in zero gravity, he was on the other end of the pivot point, and he began to spin around like a baton.
+>
+> Vilas slashed at the oncoming metal pipe, slicing off half a meter of it. Zekk continued to spin, and Vilas swung again. The blow went wide. Zekk jabbed with the superheated end of the severed pipe, and the hot tip burned through Vilas's armor, searing his ribs.
+>
+> Vilas yowled in pain and grabbed the pipe himself, flinging it sideways and using the momentum to toss Zekk free. Zekk sailed across space, rebounded off one of the floating meteoroids, and reached out with his mind to call his lightsaber back to him. The weapon stopped its spiraling plunge toward the wall, reversed itself, and zipped into his grasp.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.180).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:99`
+
+What it shows (our notes): Zekk's premonition: he turns and kills Vilas in one stroke.
+> With a sudden powerful premonition, Zekk whirled. Vilas had to be coming for him. Using his instinct, his sense with the Force, Zekk acted without thinking.
+>
+> Before he could see, before he could consider what he was about to do, he pulled back to strike with his lightsaber, putting everything he had behind one powerful stroke.
+>
+> In that instant, through the blaze of light smearing across his eyes, he saw Vilas launch himself out of the cargo container, wearing a predatory grin. He had hidden in ambush, hoping to kill the unsuspecting Zekk.
+>
+> But Zekk had outsmarted him.
+>
+> Zekk's slashing blade encountered resistance as Vilas flew across his path. Then, with a flash of smoke and a terrible stench, the bright energy blade cleaved through flesh and bone, cauterizing as it went. Vilas made a choking, gurgling sound and continued his tumbling flight through the air—but now his body moved in two separate, smoking pieces.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.181–182).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:101`
+
+What it shows (our notes): Zekk is horrified, but takes a step farther toward the dark side.
+> Zekk stared down at his pulsating scarlet lightsaber, too horrified at what he had done even to look at the body of Vilas. The spectators still cheered. This had been no simulation, he realized. This was real.
+>
+> Zekk knew he had taken one giant step farther down the road to the dark side. He raised his head, speechless, as the voice of Brakiss echoed through the zero-gravity chamber, drowning out the praise of the onlookers.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.182).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:102`
+
+What it shows (our notes): Brakiss, Tamith Kai and the Emperor's hologram congratulate Zekk; he is named the Darkest Knight.
+> "Excellent, Zekk! I knew you could do it."
+>
+> Tamith Kai's somewhat petulant voice came next. "My congratulations, young Lord Zekk."
+>
+> Then, to his absolute amazement, overwhelming even his shock at the violence he had committed, the air in the center of the arena shimmered until an ominous image engulfed the drifting obstacles. The huge hooded head of the Emperor himself offered its grim congratulations directly to Zekk.
+>
+> "You have won this battle, Zekk," the Emperor said in a voice so filled with cold power it could freeze blood. Zekk drew in a quick gasp. All of the other trainees watched, absorbing their Great Leader's words.
+>
+> "You are my Darkest Knight, Zekk. I have chosen you to personally lead my Jedi into battle against Skywalker's Jedi academy."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.182–183).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:103`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk never built his own weapon.
+> Though he had not taken the time or care to build his own weapon, he practically lived with the scarlet beam.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.168).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:72`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk knows his simulation kills were mere phantoms.
+> Still, although Zekk had defeated ferocious creatures in the simulation chamber, those opponents had been mere phantoms. He knew that many more dangerous things might happen in a real battle with a real opponent.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.170).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:76`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: Zekk's meteorite throw sends him tumbling headfirst into a container.
+> Zekk hurled the stone with all his strength. In zero gravity the meteorite shot toward the other Dark Jedi—but the equal and opposite reaction after he threw the stone surprised Zekk, and he found himself tumbling backward from the momentum. He slammed headfirst into one of the floating metal cargo containers. A flash of bright pain burst inside his skull. His ears rang. He cleared his vision just in time to see Vilas easily nudge himself out of the path of the flying rock.
+>
+> Vilas laughed. "Is that the best you can do, trash collector?"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.174).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:82`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk floats out of control in zero gravity.
+> Zekk found himself floating out of control, unable to move where he wanted. He couldn't swim through the air, and he felt entirely disoriented. The walls spun around him. Finally, his feet pressed against the side of a drifting cargo container, and he propelled himself toward Vilas again. His lightsaber drew a fiery streak through the air as he plunged forward.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.174–175).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:84`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: Vilas's blade nicks Zekk's armor.
+> Zekk tried to locate one of the floating obstacles for something else to bounce off of—but suddenly Jedi instinct warned him to twist out of the way. In that instant, Vilas came flying by, his lightsaber slashing and humming through the air. Zekk contorted as if leaping backward over a low fence—but not quite fast enough. His enemy's fiery weapon skimmed too close, nicking Zekk's prized leather armor and leaving a smoking gash.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.175).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:86`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: a Force-driven rod hits Zekk in the back and he loses his lightsaber.
+> When Vilas's eyes were drawn for a moment to a point just behind Zekk's shoulder, Zekk barely had time to wonder what his opponent was doing before a drifting metal rod crashed into the small of his back, sending an avalanche of pain along his spine. He gasped, then released his held breath in a rush. His lightsaber, still blazing, tumbled out of his hand.
+>
+> The crowd roared as Zekk flailed in the air, trying to move away from his opponent. With an evil grin, Vilas charged toward him. Zekk could not reach his lightsaber in time: it spun like a fiery glowrod toward one of the balconies, where spectators scrambled to get out of the way.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.179–180).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:98`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — ANTI-FEAT: Vilas's tapping-stone diversion fools Zekk.
+> The noise of the crowd gave him no hints . . . but somehow he was able to hear a faint tink-tink-tink coming from behind two joined cargo containers. Zekk struck out for that point. He didn't know what Vilas was doing, but he wouldn't give the other young man time to complete his plan.
+>
+> Zekk used the Force to direct himself toward the noise, but when he grabbed the edge of the cargo container and pulled himself around it, his lightsaber at the ready, he found only a small chunk of rock invisibly tapping itself against the metal wall. Vilas had managed to distract him, creating a diversion with the Force, while he hid elsewhere and prepared to strike—
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.181).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:100`
+
 
 
 # Debate and forum claims (unverified)

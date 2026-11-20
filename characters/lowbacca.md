@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 114 (100 with quotations; 67 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 127 (113 with quotations; 80 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1626,6 +1626,117 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie is uneasy in the und
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:46`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowbacca finds a focusing lens and enhancement jewel in an old projector by instinct.
+> With a sudden bellow of triumph, Lowie reached into the cluttered interior of a small, high-resolution projection system and withdrew two glittering components: a flat focusing lens and a spherical enhancement jewel. The items had been used in the high-res display, and Lowie knew instinctively that they could be applied to the same general purpose inside his new lightsaber.
+>
+> With great delight, he held them in his long hairy fingers in front of Em Teedee's optical sensors. He growled with pleasure, and a hint of smugness.
+>
+> Em Teedee replied with some degree of petulance, "Well, of course I could be wrong."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.24–25).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:71`
+
+What it shows (our notes): Lowbacca's syren-plant belt.
+> Lowbacca wore no garment other than his belt, woven of strands he had harvested from a deadly syren plant in the deep forests on Kashyyyk.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.37).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:96`
+
+What it shows (our notes): Luke on Lowbacca: three times Jaina's strength and a longer reach.
+> Though lanky, Lowbacca was much taller than she, and Jaina knew he was about three times as strong. But in his furry expression she saw an uncertainty, a genuine discomfort that mirrored her own.
+>
+> He stepped back and motioned to Jacen and Tenel Ka, who waited on the edge of the clearing, sitting next to each other on the burned tree trunk. "You two will be next. Jaina, don't worry about Lowie being so much bigger and stronger than you are. Dueling with a lightsaber is primarily skill, and I think you're equally matched in that. Your one true disadvantage is that his reach is much longer than yours. Unfortunately," Luke said with a sigh, "circumstances don't always pit us against equal opponents. As for you, Lowie, be careful not to underestimate Jaina."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.45–46).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:115`
+
+What it shows (our notes): Lowbacca fights back with greater strength and skill once he warms up.
+> Lowbacca responded with greater strength, a better show of his abilities, as he parried her blows and struck back with his own. She had to move quickly to cross blades with him again. They clashed and struck. Sparks flew.
+>
+> Lowie spun and chopped down, but she met his lightsaber with hers, smiling, intently focused. She heard Jacen cheering from the side.
+>
+> Jaina felt the Force flowing through her; Lowbacca wore an expression of exhilaration on his furry face. He opened his mouth, showing fangs and letting out a bellow of challenge—not mean or angry, simply an outpouring of excitement.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.48).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:121`
+
+What it shows (our notes): Lowbacca's molten-bronze blade.
+> Though a frown of doubt crossed Jacen's face, he soon held a glowing emerald blade. With a snap-hiss, Lowie's blade appeared too, blazing a deep gold, like molten bronze. He held it at his side.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 9 (p.84).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-02.md:70`
+
+What it shows (our notes): Lowbacca cuts the wavespeeder free of the seaweed with two-handed lightsaber strokes.
+> Roaring, Lowbacca ignited his own blazing lightsaber and held it with both hands, a glowing bludgeon of molten-bronze light.
+>
+> Lowie raced to the rail. Bellowing a warning, he swept down with his lightsaber blade again and again, slicing through the seaweed that still held their craft.
+>
+> Grunting a reply, Lowie slashed at the tentacle, and the little translating droid said, "Excellently done, Master Lowbacca! And it's quite a comfort to hear you would rather I didn't wind up as an appetizer for a mass of salivating seaweed."
+>
+> Lowie hacked with his blade, severing the last of the seaweed tentacles holding the boat. The wavespeeder broke loose and lurched away while thorny fronds writhed and lashed out, struggling to recapture their prize.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.158–159).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:37`
+
+What it shows (our notes): Lowbacca spots that the wavespeeder's course was sabotaged.
+> Lowbacca growled and pointed toward the navigation console. "Oh, dear! Master Lowbacca suggests that it might, perhaps, be premature to feel safe and comfortable quite yet," Em Teedee translated. "You see, he hypothesizes that this wavespeeder was purposely sabotaged."
+>
+> "I think he means this." Jaina nodded down at the console, indicating the preprogrammed course coordinates. "The autopilot was set to take us into the middle of that killer seaweed—with no return course!"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.161).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:47`
+
+What it shows (our notes): Lowbacca bisects a Bartokk and smashes another against the wall.
+> Beside her, Lowbacca met the second assassin with a sideways sweep of his lightsaber that sliced the Bartokk into smoking halves that fell twitching to the floor.
+>
+> With their lightsabers ignited, Jacen and Jaina slashed in, chopping the two frontmost Bartokks into quivering bug pieces. Lowbacca barreled into a third assassin, knocking it against the stone wall with such force that its black carapace split open.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.190–191).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:23`
+
+What it shows (our notes): Lowbacca hurls a Bartokk out of the tower window and stomps its severed head.
+> With a roar, Lowbacca left his post at the rattling door and grasped the remaining Bartokk, lifting it bodily off the floor. Its many sharp arms thrashed as Lowie pushed forward to the high open window and heaved the creature over the ledge. The assassin tumbled nearly thirty meters to splatter on the jagged reef far below.
+>
+> Lowbacca marched over to where the severed insect head lay near the wall. Then with great pleasure he stomped down, squashing it as one might step on an annoying beetle.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.192–193).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:31`
+
+What it shows (our notes): Lowbacca goes down the rope first as the experienced climber and catches the falling matriarch.
+> Lowbacca blatted a comment and Em Teedee said, "Oh, dear— must I?" At the Wookiee's growled response, the little droid heaved an electronic sigh. "Master Lowbacca believes he would be the most sensible choice to go first—and unfortunately I'm forced to admit that he is correct. Firstly, because he is an experienced climber, and secondly because he is strong and will be able to hold the rope steady for the rest of you once he reaches the bottom."
+>
+> While Em Teedee twittered about the impending danger, Lowie swung himself over the sill and supported his full weight on the glistening fibercord. Then, using his long arms, he lowered himself hand-over-hand down the vertical stone wall. Em Teedee's pitiful moans grew more and more faint until finally Lowie touched down on the rocks below, stood away from the wall, and gave the rope a yank.
+>
+> Lowbacca roared and with lightning-fast reflexes dropped the end of the severed rope, held out his arms, and caught the old matriarch as she plunged.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.197–199).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:42`
+
+What it shows (our notes): Lowbacca watches the pursuit with his dark-adapted Wookiee eyes.
+> Lowbacca, sitting in the navigator's chair, turned his shaggy head to gaze back at the tall citadel with his dark-adapted Wookiee eyes. He growled, stretching out a hairy arm. Jaina risked a glance and saw the insectoid murderers swarming down the tower wall toward their assault craft.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.201).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-05.md:54`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Lowbacca's first swings at the invisible remote miss badly.
+> The buzzing lightsabers muted all other sounds, just as the red filter drowned all other colors. Suddenly Jacen heard a snapping shot, though he saw nothing. A loud Wookiee yowl preceded the vibrating hum of a lightsaber blade sweeping sideways and hitting nothing. Lowie roared again.
+>
+> "Dear me, Master Lowbacca, that wasn't even close," Em Teedee exclaimed. "I do hope you'll improve significantly with practice."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.42).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:106`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Lowbacca is reluctant to fight Jaina at first.
+> Lowie defended himself. He seemed reluctant to do battle.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.47).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:119`
+
 
 
 

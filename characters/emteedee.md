@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 22 (21 with quotations; 21 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read).
+- **Entries:** 29 (28 with quotations; 28 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 4: Lightsabers (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -185,6 +185,71 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie switches Em Teedee o
 — Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22.
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:139`
+
+## Young Jedi Knights 4: *Lightsabers* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Em Teedee is sure Lowie will never find a crystal, then concedes.
+> "Well, really! No, I don't believe you can sniff them out with your nose. What an absurd notion! How could anyone possibly sniff out a crystal?" Em Teedee's temper seemed to be getting short and Lowie wondered if perhaps the little translating droid's batteries were running low.
+>
+> "Quite the contrary," Em Teedee said. "I am not a pessimist—I'm simply being realistic. I don't know why Master Skywalker should expect everyone to simply find appropriate crystals here or there. What if one of you created an inferior lightsaber? What good would that do? I daresay it's a possibility. I really think you should give up the search."
+>
+> Em Teedee replied with some degree of petulance, "Well, of course I could be wrong."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.24–25).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:70`
+
+What it shows (our notes): Em Teedee's translations run far longer than Lowie's barks and get corrected.
+> Lowbacca gave a short bark. "It makes little difference to Master Lowbacca," Em Teedee told her. "He has already assembled the components he intends to use for his lightsaber. The primary construction on his instrument is complete, and he has only to tune it now."
+>
+> Tenel Ka blinked in surprise, not only at the length of Em Teedee's translation after Lowbacca's short reply, but also at the thought that Lowbacca— and perhaps Jacen or Jaina—was so far ahead of her.
+>
+> The Wookiee growled and dismissed this with a motion of one ginger-furred hand. "Master Lowbacca wishes to assure you that you have not inconvenienced him in the slightest," Em Teedee supplied. "It has been many days since he enjoyed solitude and meditation out in the jungle, and he delights in the opportunity to assist you in this manner."
+>
+> The Wookiee snorted and gave the little translator droid a flick with one finger. "Oh—that is to say," Em Teedee amended, "it was Master Lowbacca's intention to take a break anyway, and he's pleased he could help."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.30–31).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:84`
+
+What it shows (our notes): Em Teedee realizes the friends miss Tenel Ka.
+> "Oh, dear me!" Em Teedee said in a much subdued voice. "How terribly insensitive my processor can be. You've all been thinking of Mistress Tenel Ka, haven't you? I am dreadfully sorry."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 11 (p.95).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:13`
+
+What it shows (our notes): Em Teedee offers his protocol subroutines for Tenel Ka's diplomacy.
+> "Oh, excellent!" Em Teedee said from Lowbacca's waist. "Might I take this opportunity to remind you, Mistress Tenel Ka, that a goodly portion of my programming was adapted from protocol droid subroutines? If I can be of any assistance in your political efforts, I gladly offer my services."
+>
+> The old matriarch looked horrified.
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.136).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:103`
+
+What it shows (our notes): Em Teedee downloads the Mairan musical language an hour beforehand and translates the ambassador.
+> "Oh, my," said Em Teedee, who just an hour earlier had downloaded the Mairan language from the fortress databanks. "This is quite exciting!"
+>
+> "Ah, yes," Em Teedee said. "This musical language was indeed properly loaded into my memory banks. Thank the Maker! The Mairan ambassador formally greets you, Princess Tenel Ka."
+>
+> The tentacled creature blew another series of notes. Em Teedee translated. "And he commends you on your capture of such a magnificent and well-trained pet, with its coat of silky brown seaweed—oh, dear!" the droid chirped. "I do believe he's referring to Master Lowbacca!"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.140–141).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:112`
+
+What it shows (our notes): Em Teedee summarizes the Mairan-Vergill dispute.
+> The little droid made a sound as if it were clearing its voice speaker. "Now, then. The Mairan underwater consulate—a domed structure built on their own planet and transported here to the Hapes homeworld—is perilously close to a subsurface mining project opened by the Vergills just after the Mairan consulate was established.
+>
+> "Although the Vergill mining business is terribly productive, the Mairans have filed a formal complaint because of the noise and the silt stirred up by the drilling and excavation operations. They contend that, since the Mairans were there first, the Vergills should be required to clean up the muddied waters, cease their disruptive mining, and relocate to a place at least fifty kilometers from their consulate."
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.138–139).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-03.md:108`
+
+### Limitations and anti-feats (Lightsabers)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Em Teedee's scent analyzers cannot identify the seaweed's smell.
+> Lowie sniffed, sniffed more deeply, then growled a query. Em Teedee answered, "I couldn't tell you, Master Lowbacca—my scent analyzers can't seem to match this with the appropriate data to provide a clear answer. Salt, of course, iodine . . . and some sort of decomposing biological matter, perhaps?"
+— Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.153).
+(Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:25`
+
 
 
 
