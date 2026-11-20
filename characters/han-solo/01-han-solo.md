@@ -8,7 +8,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 1230 (744 with quotations; 52 quotations extended to the full sentence/passage from the source text on file; 289 marked as fragments; 517 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1247 old entries; old file: `characters/_bak/han-solo.md.bak-20261117`.
+- **Entries:** 1234 (748 with quotations; 56 quotations extended to the full sentence/passage from the source text on file; 289 marked as fragments; 517 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1247 old entries; old file: `characters/_bak/han-solo.md.bak-20261117`. Added 2026-11-19: 4 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)

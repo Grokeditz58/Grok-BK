@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 650 (312 with quotations; 16 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`.
+- **Entries:** 653 (315 with quotations; 19 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -4443,6 +4443,29 @@ Our notes: `notes/materials/148-essential-guide-to-vehicles-vessels-1996/egvv-la
   — Source: The Essential Guide to Vehicles and Vessels (Bill Smith, Del Rey, 1996), printed p.162, scan p.100. This 1996 printing spells the name Qui Xux. The character file remains Qwi Xux. The spelling is not normalized. The printed sentence is "stole the Sun Crusher from the Empire." The later sentence "delivered the weapon" is a different printed sentence and is kept..
 Our notes: `notes/materials/148-essential-guide-to-vehicles-vessels-1996/egvv-starlight-through-swoop.md`
 ![Quote image: Essential Guide to Vehicles and Vessels (1996), printed p.162, scan p.100 — theft paragraph complete through "black holes"; printed "stole the Sun Crusher from the Empire"](../notes/materials/148-essential-guide-to-vehicles-vessels-1996/quotes/egvv1996-p162-scan100-suncrusher-quantum-armor.jpg)
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Chewbacca tosses Jaina into the air in greeting.
+> A large form thundered down the boarding ramp. Huge heavily furred arms reached out to grab Jaina and threw her high into the air.
+>
+> “Chewie!” Jaina shrieked, laughing as the giant Wookiee caught her again on the way down. “I’m not a little kid anymore!”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.44).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:95`
+
+What it shows (our notes): Without waiting for Han's order, Chewbacca pushes the Falcon's accelerators to maximum after the TIE.
+> Chewbacca yelped in reaction. Without waiting for Han to give the order, the Wookiee copilot pushed the accelerators to maximum. The Falcon, white heat rippling from its rear sublight engines, zoomed after the TIE fighter.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.206).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:54` (chapter notes; this passage is quoted here from the book text)
+
+What it shows (our notes): Chewbacca pulls Jacen up into the Falcon one-handed, as if he were lightweight luggage.
+> Chewbacca’s hairy arm dangled down, grabbing Jacen’s hands and pulling him up into the ship as if he were a piece of lightweight luggage.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.212).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:96`
+
 
 # CANON (Disney canon — kept separate)
 

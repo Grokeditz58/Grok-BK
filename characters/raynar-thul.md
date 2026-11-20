@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 65 (62 with quotations; 8 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`.
+- **Entries:** 67 (64 with quotations; 10 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1940,6 +1940,23 @@ Our notes: `notes/materials/124-njo-10-star-by-star/sbs-06.md:72`
 — Source: Dark Nest III: The Swarm War [per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 181; exact text match]; per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 181; exact text match — Source: https://starwars.fandom.com/wiki/Luke_Skywalker/Legends — https://starwars.fandom.com/wiki/Luke_Skywalker/Legends.
 (Source: Dark Nest III: The Swarm War [per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 181; exact text match])
 Our notes: `external/mega-notes/luke-legends-quotes.txt:159`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Raynar takes a jug across the dining hall by telekinesis.
+> Raynar used his own Jedi powers to snatch the jug from their table and carry it through the air back toward himself.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.61).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:112`
+
+### Limitations and anti-feats (Heirs of the Force)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Raynar challenges Tionne's leaf-lifting assignment.
+> Raynar interrupted in a blustery voice, “How can you expect us to strengthen our skills if you take us back to a child’s level?”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.86).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:41`
+
 
 # Debate and forum claims (unverified)
 

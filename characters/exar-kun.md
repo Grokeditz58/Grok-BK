@@ -10,12 +10,13 @@ Evidence file for Exar Kun, the fallen Jedi and Dark Lord of the Sith of the Gre
 
 - **†** after a source means the quote was transcribed from a published source that was not re-checked against our own copy of the text (film dialogue, DVD commentary, guides, comics). Everything else was matched against the text on file.
 
-- This file has 113 entries and 114 quotes.
+- Backfill 2026-11-19 (Young Jedi Knights): added 1 entries from Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), read in full; OCR slips in the e-book text were corrected against the 1995 print scan. Notes: `notes/materials/173-yjk-01-heirs-of-the-force/`.
+- This file has 114 entries and 115 quotes.
 
 
 ## Contents
 
-- [Power and Reputation](#power-and-reputation) (34)
+- [Power and Reputation](#power-and-reputation) (35)
 - [Force Powers](#force-powers) (17)
 - [Combat and Duels](#combat-and-duels) (5)
 - [Leadership and Strategy](#leadership-and-strategy) (3)
@@ -300,10 +301,17 @@ Exar Kun’s temples had been erected across Yavin 4—the last archaeological r
 — Dark Apprentice (Kevin Anderson, 1994), ch. 23
 ```
 
+### 35. Tionne's ballad tells how Exar Kun, a student turned to the dark side, destroyed his master Vodo-Siosk Baas four thousand years earlier.
+
+```
+She sang of dire events that had taken place four thousand years earlier—how the strange, alien Jedi Master had been destroyed by Exar Kun, one of his own students who had turned to the dark side. Master Vodo had begged the other Jedi Masters not to do battle with Exar Kun, and had tried to reason with him alone—though his gentle hopes had ended in tragedy.
+
+— Heirs of the Force (Kevin Anderson and Rebecca Moesta, 1995), ch. 7
+```
 
 ## Force Powers
 
-### 35. Luke senses a greater, deeper menace vibrating within the stones of the Great Temple itself than his souring students pose.
+### 36. Luke senses a greater, deeper menace vibrating within the stones of the Great Temple itself than his souring students pose.
 
 ```
 His best students were going sour, getting impatient, trying to push the limits of their abilities. But he had sensed a greater, deeper menace that vibrated within the very stones of the Great Temple itself. . . evil, and well hidden.
@@ -311,7 +319,7 @@ His best students were going sour, getting impatient, trying to push the limits 
 — Dark Apprentice (Kevin Anderson, 1994), ch. 29
 ```
 
-### 36. LIMIT: Corran Horn theorizes that Kun's later dormancy is because drawing the Sun Crusher from Yavin and bringing down Luke had tired him out.
+### 37. LIMIT: Corran Horn theorizes that Kun's later dormancy is because drawing the Sun Crusher from Yavin and bringing down Luke had tired him out.
 
 ```
 The only vaguely positive explanation for Exar Kun’s dormancy that I could come up with was that his effort to draw the Sun Crusher from Yavin and to down Luke had tired him out.
@@ -319,7 +327,7 @@ The only vaguely positive explanation for Exar Kun’s dormancy that I could com
 — Corran Horn, Jedi VS. Sith: The Essential Guide to the Force †
 ```
 
-### 37. Exar Kun channels power through the Bespin hermit Streen to raise a storm around the temple, Streen's robes flapping and hair writhing as if charged with static.
+### 38. Exar Kun channels power through the Bespin hermit Streen to raise a storm around the temple, Streen's robes flapping and hair writhing as if charged with static.
 
 ```
 Streen!
@@ -348,7 +356,7 @@ Tionne and Kam Solusar raced forward, stretching out their arms, using what they
 — Champions of the Force (Kevin Anderson, 1994), ch. 7
 ```
 
-### 38. Exar Kun's obsidian gaze bores into Corran Horn, who tries to armor his mind but finds Kun in and out too quickly for it to help.
+### 39. Exar Kun's obsidian gaze bores into Corran Horn, who tries to armor his mind but finds Kun in and out too quickly for it to help.
 
 ```
 Quite droll, Keiran, not as full of anger or fear as the others." Exar Kun's obsidian gaze bored into me. I tried to armor my mind against him the way I had with Mara Jade, but he was in and out too quickly for me to stop him. "You have more experience and more maturity. You are a riper fruit.
@@ -356,7 +364,7 @@ Quite droll, Keiran, not as full of anger or fear as the others." Exar Kun's obs
 — I, Jedi †
 ```
 
-### 39. Crushed under tons of rock and unable to call on the Force, Kun gives into fear and rage, and the dark side heals his body.
+### 40. Crushed under tons of rock and unable to call on the Force, Kun gives into fear and rage, and the dark side heals his body.
 
 ```
 His body was crushed in a cave-in of tons of rocks, and Kun could not call upon the Force to help himself. Yet, the dark side offered what the Force couldn't. By giving into his fear and rage, Kun was able to heal himself and clear the obstacles. He emerged from the caverns transformed, fueled by the dark side of the Force.
@@ -364,7 +372,7 @@ His body was crushed in a cave-in of tons of rocks, and Kun could not call upon 
 — Exar Kun, Star Wars Databank †
 ```
 
-### 40. Vodo-Siosk Baas senses a disturbance in the Force, as if one great power has fallen and another has risen in its place.
+### 41. Vodo-Siosk Baas senses a disturbance in the Force, as if one great power has fallen and another has risen in its place.
 
 ```
 I sense a disturbance in the Force. As if one great power has fallen, and another has risen in its place.
@@ -372,7 +380,7 @@ I sense a disturbance in the Force. As if one great power has fallen, and anothe
 — Vodo-Siosk Baas to Nomi Sunrider, Tales of the Jedi: Dark Lords of the Sith Audiobook †
 ```
 
-### 41. Kun seeks out the only other Sith practitioner who could challenge him, Ulic Qel-Droma.
+### 42. Kun seeks out the only other Sith practitioner who could challenge him, Ulic Qel-Droma.
 
 ```
 Now, he sought out the only other Sith practitioner who could challenge him -- Ulic Qel Droma.
@@ -380,7 +388,7 @@ Now, he sought out the only other Sith practitioner who could challenge him -- U
 — Ulic Qel-Droma, Star Wars Databank †
 ```
 
-### 42. Naga Sadow's Derriphan-class battleship survived the Great Hyperspace War, buried on Yavin 4, where Kun later raises it.
+### 43. Naga Sadow's Derriphan-class battleship survived the Great Hyperspace War, buried on Yavin 4, where Kun later raises it.
 
 ```
 Though all of the Derriphan-class battleships were thought to be destroyed in the Great Hyperspace War, at least one survived. The ship, belonging to Naga Sadow, was buried on Yavin 4. During the Great Sith War, Exar Kun would raise the ship from the planet and put it back to service, similar to the way Darth Nihilus would raise the Ravager from the ruined surface of Malachor V.
@@ -388,7 +396,7 @@ Though all of the Derriphan-class battleships were thought to be destroyed in th
 — Knights of the Old Republic Campaign Guide †
 ```
 
-### 43. Kun tells a witness that with the dark side he blinded every scanning technician, so his ship's energy blasts went unnoticed.
+### 44. Kun tells a witness that with the dark side he blinded every scanning technician, so his ship's energy blasts went unnoticed.
 
 ```
 Help!"
@@ -401,7 +409,7 @@ Help!"
 — Tales of the Jedi: Dark Lords of the Sith Audiobook †
 ```
 
-### 44. Kun channels some of his powers through Kyp, Gantoris and Streen to achieve his ends.
+### 45. Kun channels some of his powers through Kyp, Gantoris and Streen to achieve his ends.
 
 ```
 Some of these powers he was able to channel through Kyp, Gantoris, and Streen to achieve his ends.
@@ -409,7 +417,7 @@ Some of these powers he was able to channel through Kyp, Gantoris, and Streen to
 — Jedi Academy Sourcebook †
 ```
 
-### 45. Exar Kun, disguised as Anakin Skywalker, appears in Luke's nightmare to urge him to dabble in the dark side, showing him Massassi laborers crushed erecting the temples.
+### 46. Exar Kun, disguised as Anakin Skywalker, appears in Luke's nightmare to urge him to dabble in the dark side, showing him Massassi laborers crushed erecting the temples.
 
 ```
 He remembered his nightmare when Exar Kun, disguised as Anakin Skywalker, had urged Luke to dabble in the dark side. Against the backdrop of history Luke had seen the labors of the broken Massassi erecting mammoth temples, working until crushed by sheer labor. Luke had cast off that nightmare, but he had not interpreted its warning soon enough.
@@ -417,7 +425,7 @@ He remembered his nightmare when Exar Kun, disguised as Anakin Skywalker, had ur
 — Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
-### 46. In Dark Apprentice, Kyp reads the history of Exar Kun learning forbidden teachings, finding a lost Sith power object on Yavin's fourth moon, and enslaving the Massassi to build temples as focal points for the dark forces.
+### 47. In Dark Apprentice, Kyp reads the history of Exar Kun learning forbidden teachings, finding a lost Sith power object on Yavin's fourth moon, and enslaving the Massassi to build temples as focal points for the dark forces.
 
 ```
 And suddenly Kyp could understand. The words snapped into focus and filled his mind, an incredible history from four thousand years ago, telling how Exar Kun had begun to learn forbidden teachings, how he had come to the fourth moon of Yavin to find a lost Sith power object, and how he had enslaved the timid and weak Massassi people, making them build enormous temples for him as focal points for the dark forces he played with.
@@ -425,7 +433,7 @@ And suddenly Kyp could understand. The words snapped into focus and filled his m
 — Dark Apprentice (Kevin Anderson, 1994), ch. 20
 ```
 
-### 47. Exar Kun's shadow joins the attack on Luke, lashing out with waves of blackness and driving long icicles of frozen poison into his body.
+### 48. Exar Kun's shadow joins the attack on Luke, lashing out with waves of blackness and driving long icicles of frozen poison into his body.
 
 ```
 Luke cried out and tried to strike back, but the shadow of Exar Kun joined the attack, adding more deadly force. The ancient Dark Lord of the Sith lashed out with waves of blackness, driving long icicles of frozen poison into Luke’s body.
@@ -433,7 +441,7 @@ Luke cried out and tried to strike back, but the shadow of Exar Kun joined the a
 — Dark Apprentice (Kevin Anderson, 1994), ch. 32
 ```
 
-### 48. In I, Jedi, Kun flicks a finger and sends Corran whirling across the courtyard into an obsidian wall, then spins him again, breaking his arm, ribs and, after lifting and dashing him down, his left leg.
+### 49. In I, Jedi, Kun flicks a finger and sends Corran whirling across the courtyard into an obsidian wall, then spins him again, breaking his arm, ribs and, after lifting and dashing him down, his left leg.
 
 ```
 Kun flicked a finger at me, sending me whirling across the courtyard. I tried to gather the Force around me to protect myself, but the shock at my error kept me from it. I slammed into an obsidian wall and heard a bone in my right forearm crack. I clutched the limb to my chest, but Kun spun me again, smashing my flank into a low wall. Ribs crunched with that impact and I felt something inside go, as well.
@@ -443,7 +451,7 @@ Kun was enjoying himself, probably for the first time in millennia, the very tho
 — I, Jedi (Michael A. Stackpole, 1998)
 ```
 
-### 49. Kun offers to show Corran, through the Force's view of past, present and future, where his hidden wife is right now, if Corran will take his help.
+### 50. Kun offers to show Corran, through the Force's view of past, present and future, where his hidden wife is right now, if Corran will take his help.
 
 ```
 I can give her to you. I can tell you exactly where she is.” Exar Kun shaped his face into what he thought was a compassionate expression. “You know the Force allows me to show you the past, the present, the future. This is where she is, your wife, right now. Hidden away, where you will never find her without my help.
@@ -451,7 +459,7 @@ I can give her to you. I can tell you exactly where she is.” Exar Kun shaped h
 — I, Jedi (Michael A. Stackpole, 1998)
 ```
 
-### 50. Exar Kun's projected image smiles cruelly at the Jedi and tells them their defense of Skywalker is only as strong as its weakest defender, then reveals Luke is vulnerable again.
+### 51. Exar Kun's projected image smiles cruelly at the Jedi and tells them their defense of Skywalker is only as strong as its weakest defender, then reveals Luke is vulnerable again.
 
 ```
 Kun doubled his image’s volume and smiled most cruelly at us. “You think your petty plans will work against me? You thought your coming here would defeat me? Never.” He looked away toward the Great Temple, then back down at us. “This may have been a brave attempt on your part, but your friends have made a grave error. Their defense of Skywalker is only as strong as the weakest person defending him, and they have left him vulnerable again.”
@@ -459,7 +467,7 @@ Kun doubled his image’s volume and smiled most cruelly at us. “You think you
 — I, Jedi (Michael A. Stackpole, 1998)
 ```
 
-### 51. Corran realizes Kun had only plucked his fears from his mind and displayed them, though the battering his mind took left him badly shaken.
+### 52. Corran realizes Kun had only plucked his fears from his mind and displayed them, though the battering his mind took left him badly shaken.
 
 ```
 The physical damage Exar Kun had done to me had healed on schedule—had I had access to and used Jedi healing techniques I might have been fitter faster, but that really didn’t matter. The battering my mind had taken shook me badly. I knew Kun had only plucked my fears from my mind and displayed them for me in all their ugly glory, but I still had to deal with the fact that they were my fears, generated by me and mine alone to conquer.
@@ -470,7 +478,7 @@ The physical damage Exar Kun had done to me had healed on schedule—had I had a
 
 ## Combat and Duels
 
-### 52. Vodo-Siosk Baas trains several apprentices on Dantooine, but his strongest is a young pupil named Exar Kun.
+### 53. Vodo-Siosk Baas trains several apprentices on Dantooine, but his strongest is a young pupil named Exar Kun.
 
 ```
 As the Jedi Watchman of Dantooine, Master Baas spends much of his time on the planet and trains multiple apprentices at a time. His strongest apprentice, however, is a young pupil named Exar Kun. Kun's skill with a lightsaber is so great that he claimed victory over his master many times when they sparred together.
@@ -478,7 +486,7 @@ As the Jedi Watchman of Dantooine, Master Baas spends much of his time on the pl
 — Jedi Academy Training Manual †
 ```
 
-### 53. A sourcebook says that as a young Jedi Knight Kun showed a strong connection to the Force and through long practice achieved unparalleled prowess in lightsaber combat.
+### 54. A sourcebook says that as a young Jedi Knight Kun showed a strong connection to the Force and through long practice achieved unparalleled prowess in lightsaber combat.
 
 ```
 As a young Jedi Knight, Exar Kun exhibited a strong connection to the Force. Through long practice he achieved unparalleled prowess in lightsaber combat.
@@ -486,7 +494,7 @@ As a young Jedi Knight, Exar Kun exhibited a strong connection to the Force. Thr
 — Master Gnost-Dural, Star Wars the Old Republic Timelines †
 ```
 
-### 54. A guide calls the battle hydra an example of Kun's alchemical mastery, its physiology forever altered.
+### 55. A guide calls the battle hydra an example of Kun's alchemical mastery, its physiology forever altered.
 
 ```
 The battle hydra is an example of Exar Kun's alchemical mastery and Naga Sadow's dark legacy.
@@ -497,7 +505,7 @@ Exar Kun combined the natural venom from many different creatures when he mutate
 — The Dark Side Sourcebook †
 ```
 
-### 55. As the battle against the Jedi escalates, Kun adds a second emitter matrix to the opposite end of his lightsaber's handgrip.
+### 56. As the battle against the Jedi escalates, Kun adds a second emitter matrix to the opposite end of his lightsaber's handgrip.
 
 ```
 As the battle against the Jedi escalated, Kun altered his normal lightsaber into a more deadly and dangerous weapon. Kun added a second emitter matrix on the opposite end of the handgrip, allowing him to release two blue-white blades simultaneously. The dark Jedi wielded the saber much as he would a quarterstaff, using one blade to block incoming attacks, then quickly spinning the handgrip to use the second blade to strike a killing blow against his opponent.
@@ -506,7 +514,7 @@ Customized controls allowed him to adjust each blade's length from half a meter 
 — The Essential Guide to Weapons and Technology †
 ```
 
-### 56. Coupling his tactics with Force abilities that predict his opponents' actions, Kun becomes virtually unstoppable in combat.
+### 57. Coupling his tactics with Force abilities that predict his opponents' actions, Kun becomes virtually unstoppable in combat.
 
 ```
 By coupling these tactics with his Force abilities to predict the actions of his opponents, Kun became virtually unstoppable in combat.
@@ -517,7 +525,7 @@ By coupling these tactics with his Force abilities to predict the actions of his
 
 ## Leadership and Strategy
 
-### 57. Freedon Nadd's spirit finds a powerful apprentice in Exar Kun, who destroys Nadd on Yavin 4 just as Nadd had killed his own lord Sadow.
+### 58. Freedon Nadd's spirit finds a powerful apprentice in Exar Kun, who destroys Nadd on Yavin 4 just as Nadd had killed his own lord Sadow.
 
 ```
 Just as Naga Sadow trained his eventual replacement, so did Freedon Nadd's spirit find a powerful apprentice in Exar Kun. And just as Nadd killed his lord Sadow, Kun destroyed Nadd's spirit here on Yavin 4. These notable deaths likely served to further imbue the moon's temples with dark power, further fueling the barbaric Massassi--as well as the succession of Dark Lords who would later reside here.
@@ -525,7 +533,7 @@ Just as Naga Sadow trained his eventual replacement, so did Freedon Nadd's spiri
 — The Dark Legacy of Yavin Four Part III Codex Entry †
 ```
 
-### 58. A sourcebook says that for well over a thousand years the dark side has flowed through Yavin 4 in ever-increasing magnitude.
+### 59. A sourcebook says that for well over a thousand years the dark side has flowed through Yavin 4 in ever-increasing magnitude.
 
 ```
 Yavin 4 also holds a great deal of interest to the Jedi and the Sith. For well over a thousand years now, the dark side of the Force has flowed through Yavin 4 in an ever-increasing magnitude. But those who visit the moon's deadly rainforests and swamps in search of an explanation for the phenomenon rarely return, and never with any answers.
@@ -533,7 +541,7 @@ Yavin 4 also holds a great deal of interest to the Jedi and the Sith. For well o
 — Yavin Four Codex Entry †
 ```
 
-### 59. A character notes that a few hundred years ago the Jedi Order bombarded Yavin 4 from orbit, trying to cleanse its dark influence.
+### 60. A character notes that a few hundred years ago the Jedi Order bombarded Yavin 4 from orbit, trying to cleanse its dark influence.
 
 ```
 A few hundred years ago, the Jedi Order thought they could cleanse Yavin 4 of its dark influence. They were more aggressive then. I’m actually impressed. The Jedi bombarded the world from orbit with a destructive manifestation of light side power in the hopes it would free the moon from its dark embrace. “The attacking Jedi destroyed much of the life on Yavin 4, which they later worked to restore to its previous state. They thought they’d won, that they’d removed the influence of the dark side. How wrong they were.
@@ -544,7 +552,7 @@ A few hundred years ago, the Jedi Order thought they could cleanse Yavin 4 of it
 
 ## Other Feats
 
-### 60. Kyp hears cheering ghosts and sees visions from four thousand years ago of Exar Kun finding the last resting place of the ancient Sith and rediscovering their teachings.
+### 61. Kyp hears cheering ghosts and sees visions from four thousand years ago of Exar Kun finding the last resting place of the ancient Sith and rediscovering their teachings.
 
 ```
 In his mind Kyp heard cheering ghosts, saw visions like a videoloop from four thousand years ago when Exar Kun had found the last resting place of the ancient Sith. Kun had rediscovered their teachings. He had built great temples, establishing the Brotherhood of the Sith among disillusioned Jedi Knights. Here on Yavin 4, Kun had used the Massassi people as expendable resources, power conduits to redefine the chaos and corruption of the Old Republic. He had challenged the foolish Jedi who followed their incompetent leaders without thinking simply because they had sworn to do so....
@@ -552,7 +560,7 @@ In his mind Kyp heard cheering ghosts, saw visions like a videoloop from four th
 — Dark Apprentice (Kevin Anderson, 1994), ch. 32
 ```
 
-### 61. The spirit of Exar Kun means to destroy the cloned Jedi student on a whim, but Kyp stops him by insisting that the Sith Lord teach him everything.
+### 62. The spirit of Exar Kun means to destroy the cloned Jedi student on a whim, but Kyp stops him by insisting that the Sith Lord teach him everything.
 
 ```
 The spirit of Exar Kun had meant to destroy the cloned Jedi student on a whim, as a gesture of power, but Kyp had stopped him, insisting instead that the Sith Lord teach him everything.
@@ -560,7 +568,7 @@ The spirit of Exar Kun had meant to destroy the cloned Jedi student on a whim, a
 — Champions of the Force (Kevin Anderson, 1994), ch. 27
 ```
 
-### 62. Kyp tells Luke that he has learned a great deal beyond Luke's feeble teachings, thanks to Exar Kun.
+### 63. Kyp tells Luke that he has learned a great deal beyond Luke's feeble teachings, thanks to Exar Kun.
 
 ```
 I've learned a great deal beyond your feeble teachings.
@@ -568,7 +576,7 @@ I've learned a great deal beyond your feeble teachings.
 — Dark Apprentice (Kevin Anderson, 1994), ch. 32
 ```
 
-### 63. LIMIT: When Master Vodo fails, the other Jedi band together in a massive strike force such as had never been gathered before.
+### 64. LIMIT: When Master Vodo fails, the other Jedi band together in a massive strike force such as had never been gathered before.
 
 ```
 When Master Vodo did not succeed, the other Jedi banded together in a massive strike force such as had never before been gathered.
@@ -576,7 +584,7 @@ When Master Vodo did not succeed, the other Jedi banded together in a massive st
 — Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
-### 64. Exar Kun shows a Jedi what is happening at that moment to the people she saved from Eol Sha.
+### 65. Exar Kun shows a Jedi what is happening at that moment to the people she saved from Eol Sha.
 
 ```
 The dark man laughed again. "Serenity? Let me show you what is happening at this moment. Do you recall the people you saved from Eol Sha? How happy you were to learn they had been taken to a place of safety, a paradise world? Observe."
@@ -587,7 +595,7 @@ Gantoris recognized most of their faces, but before he could name them, they dis
 — Dark Apprentice (Kevin Anderson, 1994), ch. 10
 ```
 
-### 65. LIMIT: Exar Kun tells Gantoris he is barred from the physical plane, but with enough other Sith followers he could be at peace and even live again.
+### 66. LIMIT: Exar Kun tells Gantoris he is barred from the physical plane, but with enough other Sith followers he could be at peace and even live again.
 
 ```
 I want your anger, Gantoris. I want you to open the doorways of power. I am barred from the physical plane--but with enough other Sith followers, I could be at peace. I could even live again.
@@ -595,7 +603,7 @@ I want your anger, Gantoris. I want you to open the doorways of power. I am barr
 — Dark Apprentice (Kevin Anderson, 1994), ch. 10
 ```
 
-### 66. Luke sees the faint images of Palpatine and Exar Kun against the blackness of space, two of the greatest focal points of the dark side he has ever faced.
+### 67. Luke sees the faint images of Palpatine and Exar Kun against the blackness of space, two of the greatest focal points of the dark side he has ever faced.
 
 ```
 There in front of him, starkly visible against the blackness of space, he could see the faint images of Emperor Palpatine and Exar Kun, two of the greatest focal points of the dark side he’d ever had to face. They were standing there before him, gazing back at him. And laughing.
@@ -603,7 +611,7 @@ There in front of him, starkly visible against the blackness of space, he could 
 — Specter of the Past (Timothy Zahn, 1997), ch. 2
 ```
 
-### 67. The trainees' combined power glows ever brighter as they weave threads reinforcing each other, and Exar Kun's spirit is trapped in the Wall of Light.
+### 68. The trainees' combined power glows ever brighter as they weave threads reinforcing each other, and Exar Kun's spirit is trapped in the Wall of Light.
 
 ```
 The glow continued to brighten as the synergy between the trainees grew more powerful, weaving threads to reinforce their weak spots, to emphasize their strengths.
@@ -624,7 +632,7 @@ The Jedi Knights stood joined together for a final moment, relishing the shared 
 — Champions of the Force (Kevin Anderson, 1994), ch. 15
 ```
 
-### 68. Hosting Exar Kun's spirit leaves Kyp moving slowly as if over shattered glass, his eyes dull and his face lined as if Kun had shed his four thousand years onto him.
+### 69. Hosting Exar Kun's spirit leaves Kyp moving slowly as if over shattered glass, his eyes dull and his face lined as if Kun had shed his four thousand years onto him.
 
 ```
 Kyp moved slowly, as if walking barefoot across shattered glass. His eyes were dull. His face was seamed with new lines, as if the dark spirit of Exar Kun had shed his four thousand years of existence onto Kyp's shoulders.
@@ -632,7 +640,7 @@ Kyp moved slowly, as if walking barefoot across shattered glass. His eyes were d
 — Champions of the Force (Kevin Anderson, 1994), ch. 21
 ```
 
-### 69. Vodo-Siosk Baas tells Exar Kun he is the most formidable student he has ever had.
+### 70. Vodo-Siosk Baas tells Exar Kun he is the most formidable student he has ever had.
 
 ```
 Exar Kun, you are the most formidable student I have ever had…
@@ -640,7 +648,7 @@ Exar Kun, you are the most formidable student I have ever had…
 — Vodo Siosk-Baas, Tales of the Jedi Omnibus Vol.2 †
 ```
 
-### 70. Freedon Nadd's spirit tells Kun he will be one of the great ones, and that another is greater than he.
+### 71. Freedon Nadd's spirit tells Kun he will be one of the great ones, and that another is greater than he.
 
 ```
 You. You will be one of the great ones and there is another greater than you.
@@ -648,7 +656,7 @@ You. You will be one of the great ones and there is another greater than you.
 — Freedon Nadd to Ulic Qel-Droma, Star Wars Omnibus: Tales of the Jedi Vol.2 †
 ```
 
-### 71. A Tales of the Jedi writer notes that the first Jedi to slice through Mandalorian iron with relative ease was Exar Kun in Dark Lords of the Sith.
+### 72. A Tales of the Jedi writer notes that the first Jedi to slice through Mandalorian iron with relative ease was Exar Kun in Dark Lords of the Sith.
 
 ```
 For the record, the first example of a Jedi slicing through Mandalorian iron with relative ease occured way back in Tales of the Jedi: Dark Lords of the Sith, when Exar Kun cuts his way into Freedon Nadd's tomb. The metal portions of Lumiya's lightwhip, shards of which go flying in her duels with Luke, also consists of Mandalorian Iron.
@@ -656,7 +664,7 @@ For the record, the first example of a Jedi slicing through Mandalorian iron wit
 — Abel G. Peña †
 ```
 
-### 72. Kun threatens to use an ancient Sith amulet to turn the Sith wyrm to ashes.
+### 73. Kun threatens to use an ancient Sith amulet to turn the Sith wyrm to ashes.
 
 ```
 If you're wasting my time, I'll use this amulet to turn you to ashes!
@@ -664,7 +672,7 @@ If you're wasting my time, I'll use this amulet to turn you to ashes!
 — Exar Kun, Tales of the Jedi: Dark Lords of the Sith Audiobook †
 ```
 
-### 73. Kun destroys the Sith wyrm with an ancient Sith amulet, winning Nadd's approval, the full strength of the dark side, and the worship of the Massassi.
+### 74. Kun destroys the Sith wyrm with an ancient Sith amulet, winning Nadd's approval, the full strength of the dark side, and the worship of the Massassi.
 
 ```
 When Kun destroyed the creature with an ancient Sith amulet, he won the approval of Nadd, the full strength of the dark side, and the worship of the Massassi. Kun set the Massassi to work, expanding the remaining temples.
@@ -672,7 +680,7 @@ When Kun destroyed the creature with an ancient Sith amulet, he won the approval
 — Dark Side Sourcebook †
 ```
 
-### 74. Kun tries a full strength blast on Freedon Nadd's spirit and finds, "Incredible, it even works on spirits!".
+### 75. Kun tries a full strength blast on Freedon Nadd's spirit and finds, "Incredible, it even works on spirits!".
 
 ```
 Now, let me try a full strength blast!"
@@ -681,7 +689,7 @@ Now, let me try a full strength blast!"
 — Exar Kun, Tales of the Jedi: Dark Lords of the Sith Audiobook †
 ```
 
-### 75. As his spirit is destroyed, Nadd warns the Ketos that it is not Qel-Droma they must fear but Exar Kun, who has acquired great Sith powers.
+### 76. As his spirit is destroyed, Nadd warns the Ketos that it is not Qel-Droma they must fear but Exar Kun, who has acquired great Sith powers.
 
 ```
 My children, it is not Qel-Droma you must fear! Beware of Exar Kun, he has acquired great Sith powers!
@@ -689,7 +697,7 @@ My children, it is not Qel-Droma you must fear! Beware of Exar Kun, he has acqui
 — Freedon Nadd to Aleema & Satal, Star Wars Omnibus: Tales of the Jedi Vol.2 †
 ```
 
-### 76. Vodo hears his apprentice calling out in evil triumph.
+### 77. Vodo hears his apprentice calling out in evil triumph.
 
 ```
 I can hear my apprentice calling out in evil triumph.
@@ -697,7 +705,7 @@ I can hear my apprentice calling out in evil triumph.
 — Vodo-Siosk Baas, Tales of the Jedi Audio Drama †
 ```
 
-### 77. Kun fuses the priest Zythmnr's skin with metallic bioarmor and enhances his skeleton and musculature.
+### 78. Kun fuses the priest Zythmnr's skin with metallic bioarmor and enhances his skeleton and musculature.
 
 ```
 The Sith disciple first altered Zythmnr physically, fusing the old priest's skin with metallic bioarmor and enhancing the Massassi's skeletal structure and musculature accordingly. Vicious claws became razored gauntlets, thick hide became hardened plating, and Zythmnr's head was encased in a shelled helmet. The process was excruciating for the Massassi. He not only survived, but also continued to worship Kun, willfully insisting the experiments continue.
@@ -706,7 +714,7 @@ Exar Kun was more than happy to comply. He took his next step: infusing his new 
 — The Dark Side Sourcebooks †
 ```
 
-### 78. Exar Kun and Ulic Qel-Droma are so evenly matched that neither gains the upper hand and their duel might have gone on for hours but for a manifestation of Sith spirits.
+### 79. Exar Kun and Ulic Qel-Droma are so evenly matched that neither gains the upper hand and their duel might have gone on for hours but for a manifestation of Sith spirits.
 
 ```
 Exar Kun and Ulic fought, but they were too evenly matched for either to gain the upper hand. Their battle might have gone on for hours but for the macabre manifestation of a host of Sith spirits, led by the shade of Marka Ragnos.
@@ -714,7 +722,7 @@ Exar Kun and Ulic fought, but they were too evenly matched for either to gain th
 — The Dark Side Sourcebook †
 ```
 
-### 79. A Databank entry says that before Vader, Maul and Sidious there was a Dark Lord of the Sith who cast a shadow of terror and destruction across the galaxy.
+### 80. A Databank entry says that before Vader, Maul and Sidious there was a Dark Lord of the Sith who cast a shadow of terror and destruction across the galaxy.
 
 ```
 Exar Kun, Star Wars Databank wrote:
@@ -724,7 +732,7 @@ For the first time since the Sith War, there would be a generation of Jedi Knigh
 — Yoda: Dark Rendezvous †
 ```
 
-### 80. According to the Tedryn Holocron, Kun assembled the first double-bladed lightsaber by following ancient Sith techniques.
+### 81. According to the Tedryn Holocron, Kun assembled the first double-bladed lightsaber by following ancient Sith techniques.
 
 ```
 The construction and use of the first double-bladed lightsaber is sometimes credited to Jedi-turned-Sith Exar Kun, but according to the Tedryn Holocron, Exar Kun assembled his weapon by following instructions from a Sith Holocron, possibly prepared by the Jedi Exiles themselves.
@@ -732,7 +740,7 @@ The construction and use of the first double-bladed lightsaber is sometimes cred
 — Jedi VS. Sith: The Essential Guide to the Force †
 ```
 
-### 81. A Rodian former laborer on Yavin IV says that in the ancient Sith temples Exar Kun gained terrible powers, raised the Sith and waged war on the Republic.
+### 82. A Rodian former laborer on Yavin IV says that in the ancient Sith temples Exar Kun gained terrible powers, raised the Sith and waged war on the Republic.
 
 ```
 There were some ancient Sith temples there, and in them Exar Kun gained terrible powers. He raised the Sith and waged a war against the Republic... much like what seems to be happening today. But Exar Kun was far more powerful than any Sith Lord who has come since. The very ground trembled beneath his feet and when he looked at you, you just...
@@ -740,7 +748,7 @@ There were some ancient Sith temples there, and in them Exar Kun gained terrible
 — Savum Tan, Knights of the Old Republic †
 ```
 
-### 82. During the Sith War, Thule serves as a base for the Sith Warriors and much of its crust is imbued with the residue of the dark side.
+### 83. During the Sith War, Thule serves as a base for the Sith Warriors and much of its crust is imbued with the residue of the dark side.
 
 ```
 During the height of the Great Sith War, Thule served as a base of operations for the Sith Warriors, and much of the planet's crust became imbued with the residue of the dark side of the Force.
@@ -748,7 +756,7 @@ During the height of the Great Sith War, Thule served as a base of operations fo
 — The Complete Star Wars Encyclopedia †
 ```
 
-### 83. When Kun and his Shadow Hand Ulic Qel-Droma are defeated, Noon and the other Sith acolytes flee to various parts of the galaxy.
+### 84. When Kun and his Shadow Hand Ulic Qel-Droma are defeated, Noon and the other Sith acolytes flee to various parts of the galaxy.
 
 ```
 When Kun and his Shadow Hand Ulic Qel-Droma were defeated, Noon and the other Sith acolytes fled to various parts of the galaxy.
@@ -756,7 +764,7 @@ When Kun and his Shadow Hand Ulic Qel-Droma were defeated, Noon and the other Si
 — Evil Never Dies: The Sith Dynasties †
 ```
 
-### 84. Comic copy warns that the storm clouds of battle gather over Yavin Four and the entire world could be a casualty.
+### 85. Comic copy warns that the storm clouds of battle gather over Yavin Four and the entire world could be a casualty.
 
 ```
 The storm clouds of battle gather over Yavin Four, and that entire world could be a casualty!
@@ -764,7 +772,7 @@ The storm clouds of battle gather over Yavin Four, and that entire world could b
 — Tales of the Jedi: The Sith War #6 †
 ```
 
-### 85. LIMIT: Though Kun had enormous power, the key to beating him was that the other Jedi combined their might and fought as a unit.
+### 86. LIMIT: Though Kun had enormous power, the key to beating him was that the other Jedi combined their might and fought as a unit.
 
 ```
 Though Kun had enormous power, it seems that the key was that the other Jedi combined their might. They fought together as a unit where all the pieces fit together, as components in a much larger machine powered by the Force.
@@ -772,7 +780,7 @@ Though Kun had enormous power, it seems that the key was that the other Jedi com
 — Tionne Solusar, Jedi Academy Volume 3: Champions of the Force †
 ```
 
-### 86. The Jedi Order falls from tens of thousands in the Sith War to barely a hundred in the Dark Wars.
+### 87. The Jedi Order falls from tens of thousands in the Sith War to barely a hundred in the Dark Wars.
 
 ```
 The Jedi Order went from tens of thousands in the Sith War to barely a hundred in the Dark Wars.
@@ -780,7 +788,7 @@ The Jedi Order went from tens of thousands in the Sith War to barely a hundred i
 — Knights of the Old Republic Campaign Guide †
 ```
 
-### 87. Kun merges with the dark side and keeps his identity, resisting the dissolution of his spirit by drawing on the focusing energies of the Massassi temples.
+### 88. Kun merges with the dark side and keeps his identity, resisting the dissolution of his spirit by drawing on the focusing energies of the Massassi temples.
 
 ```
 Exar Kun-who didn't technically die so much as merge with the dark side and retain his identity-resisted the dissolution of his spirit by drawing on the remarkable focusing energies of the Massassi temples on Yavin 4.
@@ -788,7 +796,7 @@ Exar Kun-who didn't technically die so much as merge with the dark side and reta
 — Dark Side Sourcebook †
 ```
 
-### 88. A sourcebook says long-forgotten Sith spirits have awakened on Yavin 4, and their convergence of dark side energies could give rise to a powerful and ancient threat.
+### 89. A sourcebook says long-forgotten Sith spirits have awakened on Yavin 4, and their convergence of dark side energies could give rise to a powerful and ancient threat.
 
 ```
 Long-forgotten Sith spirits have awakened on Yavin 4. This convergence of dark side energies could give rise to a powerful and ancient threat within the moon's already-treacherous jungles.
@@ -796,7 +804,7 @@ Long-forgotten Sith spirits have awakened on Yavin 4. This convergence of dark s
 — Star Wars The Old Republic website †
 ```
 
-### 89. The Jedi launch a salvo of light side energy at Yavin 4, trapping Kun's spirit there but ravaging the world, then build a city deep underground to nurse it back.
+### 90. The Jedi launch a salvo of light side energy at Yavin 4, trapping Kun's spirit there but ravaging the world, then build a city deep underground to nurse it back.
 
 ```
 The Jedi launch a salvo of light side energy at the planet, trapping Kun's spirit there, but ravaging Yavin 4 in the process. Afterward, the Jedi built a city deep underground to nurture the world back to health and guarantee Kun never returns.
@@ -804,7 +812,7 @@ The Jedi launch a salvo of light side energy at the planet, trapping Kun's spiri
 — Knights of the Old Republic Campaign Guide †
 ```
 
-### 90. A dark presence permeates the jungles of Yavin 4 around the ancient Massassi temples, brimming with Sith history and magic.
+### 91. A dark presence permeates the jungles of Yavin 4 around the ancient Massassi temples, brimming with Sith history and magic.
 
 ```
 Complicating matters were the ancient Massassi temples on Yavin 4 — brimming with Sith history and magick — and hidden Jedi secrets. A dark presence permeated the very jungles (Luke would many years later encounter the spirit of the bygone Dark Lord Exar Kun trapped in the Great Temple)
@@ -812,7 +820,7 @@ Complicating matters were the ancient Massassi temples on Yavin 4 — brimming w
 — The Star Wars Spy Game: Declassified †
 ```
 
-### 91. Kyp opens himself to Exar Kun's spirit, convincing himself the power can be harnessed for noble purposes, but the dark energies trample his naivete.
+### 92. Kyp opens himself to Exar Kun's spirit, convincing himself the power can be harnessed for noble purposes, but the dark energies trample his naivete.
 
 ```
 He opened himself to the spirit of the Sith Lord Exar Kun, convincing himself that Kun's power could be harnessed for noble purposes. Instead, the dark energies trampled over Durron's naïvité.
@@ -820,7 +828,7 @@ He opened himself to the spirit of the Sith Lord Exar Kun, convincing himself th
 — New Essential Chronology †
 ```
 
-### 92. After millennia of uneasy slumber, Kun is brought sharply awake by a dozen humans blazing with the power he needs to live again.
+### 93. After millennia of uneasy slumber, Kun is brought sharply awake by a dozen humans blazing with the power he needs to live again.
 
 ```
 Exar Kun passed the millennia in uneasy slumber.
@@ -833,7 +841,7 @@ Over a number of weeks, Kun slowly bends Kyp to his will, and begins to augment 
 — The Jedi Academy Sourcebook †
 ```
 
-### 93. Kun has many other dark powers he cannot harness without energy to fuel his disembodied will; some he channels through Kyp, Gantoris and Streen.
+### 94. Kun has many other dark powers he cannot harness without energy to fuel his disembodied will; some he channels through Kyp, Gantoris and Streen.
 
 ```
 Exar Kun himself possessed a great many other dark powers that he was unable to harness without the energy he needed to fuel his disembodied will. Some of these powers he was able to channel through Kyp, Gantoris, and Streen to achieve his ends.
@@ -841,7 +849,7 @@ Exar Kun himself possessed a great many other dark powers that he was unable to 
 — The Jedi Academy Sourcebook †
 ```
 
-### 94. LIMIT: Tionne supposes the students can defeat Kun because he no longer has servants to draw power from, and Streen is his only source.
+### 95. LIMIT: Tionne supposes the students can defeat Kun because he no longer has servants to draw power from, and Streen is his only source.
 
 ```
 She[Tionne] supposes that the students have a chance of defeating him, since Kun no longer has his servants to draw power from, he[Streen] is his only source.
@@ -849,7 +857,7 @@ She[Tionne] supposes that the students have a chance of defeating him, since Kun
 — Jedi Academy Sourcebook †
 ```
 
-### 95. Nadd's specter appears one final time to claim Kun as his own, but Kun embraces the dark side for himself and eradicates Nadd forever.
+### 96. Nadd's specter appears one final time to claim Kun as his own, but Kun embraces the dark side for himself and eradicates Nadd forever.
 
 ```
 Nadd's specter appears one final time to claim Kun as his own, but Kun embraces the power of the dark side for himself, and eradicates Nadd for ever. Exar Kun proclaims himself the new Dark Lord of the Sith, enslaves the Massassi into building structures focused in dark force energy, and locates the buried battleship of Naga Sadow. Exar Kun's power is in the ascendance.
@@ -857,7 +865,7 @@ Nadd's specter appears one final time to claim Kun as his own, but Kun embraces 
 — Chronicles of the Old Republic †
 ```
 
-### 96. Kun tells Luke that trapping his spirit inside the Yavin 4 temples was the only way he survived when the allied Jedi devastated the surface, killed the last Massassi and destroyed his body.
+### 97. Kun tells Luke that trapping his spirit inside the Yavin 4 temples was the only way he survived when the allied Jedi devastated the surface, killed the last Massassi and destroyed his body.
 
 ```
 “You will have no choice,” Kun answered, “once I have destroyed your physical body. Trapping my own spirit inside these temples was the only way I could survive when the final holocaust came. The allied Jedi Knights devastated the surface of Yavin 4. They killed off the few Massassi people I had kept alive, and they destroyed my own body in the inferno.
@@ -865,7 +873,7 @@ Nadd's specter appears one final time to claim Kun as his own, but Kun embraces 
 — Champions of the Force (Kevin Anderson, 1994), ch. 7
 ```
 
-### 97. Tionne reports that in the final battle Kun drained dry the life force of all his Massassi slaves in one last gambit, and though the Jedi obliterated his body he preserved his spirit within the temples.
+### 98. Tionne reports that in the final battle Kun drained dry the life force of all his Massassi slaves in one last gambit, and though the Jedi obliterated his body he preserved his spirit within the temples.
 
 ```
 I’ve found only sketchy information, but it seems that in the final battle the unified Jedi wiped out most of the jungles on Yavin 4, laying waste to everything in their efforts to destroy Exar Kun. Kun drained dry the life force of all his Massassi slaves in one last gambit. The ancient Jedi succeeded in destroying much of what he had built and obliterated Kun’s body, but he somehow managed to preserve his spirit within the temples. For all these years.
@@ -873,7 +881,7 @@ I’ve found only sketchy information, but it seems that in the final battle the
 — Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
-### 98. Master Vodo says Exar Kun was his greatest student, corrupted by the powers he found in ancient Sith teachings.
+### 99. Master Vodo says Exar Kun was his greatest student, corrupted by the powers he found in ancient Sith teachings.
 
 ```
 Exar Kun was my greatest student,” Master Vodo said, “yet he was corrupted. He was seduced by the powers available to him through studies of ancient Sith teachings.
@@ -886,7 +894,7 @@ Exar Kun was my greatest student,” Master Vodo said, “yet he was corrupted. 
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 99. LIMIT: All the Jedi band together and come to Yavin 4, combining their power into a massive annihilating strike against the Sith stronghold Exar Kun built.
+### 100. LIMIT: All the Jedi band together and come to Yavin 4, combining their power into a massive annihilating strike against the Sith stronghold Exar Kun built.
 
 ```
 All the Jedi banded together and came to the jungle moon in a united front against the Sith stronghold Exar Kun had built. The allied Jedi combined their power into a massive annihilating strike.
@@ -894,7 +902,7 @@ All the Jedi banded together and came to the jungle moon in a united front again
 — Dark Apprentice (Kevin Anderson, 1994), ch. 29
 ```
 
-### 100. Exar Kun boasts that four thousand years ago the entire military fleet of the Old Republic and the combined forces of hundreds of Jedi Masters could not destroy him.
+### 101. Exar Kun boasts that four thousand years ago the entire military fleet of the Old Republic and the combined forces of hundreds of Jedi Masters could not destroy him.
 
 ```
 Good! I am glad to see you have learned to respect me. Four thousand years ago the entire military fleet of the Old Republic and the combined forces of hundreds of Jedi Masters could not destroy me. You would certainly be unable to do so alone.
@@ -902,7 +910,7 @@ Good! I am glad to see you have learned to respect me. Four thousand years ago t
 — Dark Apprentice (Kevin Anderson, 1994), ch. 10
 ```
 
-### 101. LIMIT: Ood resists Kun's attempt to steal the lightsabers by plunging roots into the ground and driving Kun back with a blast of power drawn from Ossus.
+### 102. LIMIT: Ood resists Kun's attempt to steal the lightsabers by plunging roots into the ground and driving Kun back with a blast of power drawn from Ossus.
 
 ```
 Ood resists Kun's attempts to steal the lightsabers by undergoing a final metamorphosis, plunging roots into the ground and driving Kun back with a blast of power drawn from the depths of Ossus.
@@ -910,7 +918,7 @@ Ood resists Kun's attempts to steal the lightsabers by undergoing a final metamo
 — Tales of the Jedi: Dark Lords of the Sith #6 †
 ```
 
-### 102. LIMIT: The dark knowledge of the Sith teachings died with Kun, and it is extremely unlikely that any records survive on Yavin IV or elsewhere.
+### 103. LIMIT: The dark knowledge of the Sith teachings died with Kun, and it is extremely unlikely that any records survive on Yavin IV or elsewhere.
 
 ```
 The dark knowledge of the Sith teachings died with Kun, it is extremely unlikely that any records survive, either on Yavin IV or elsewhere.
@@ -918,7 +926,7 @@ The dark knowledge of the Sith teachings died with Kun, it is extremely unlikely
 — Jedi Academy Sourcebook †
 ```
 
-### 103. As the trainees' beams of light cross in the middle of Exar Kun's shadowy body, darkness floods out of him and shatters into fragments that seek a weak heart to hide in.
+### 104. As the trainees' beams of light cross in the middle of Exar Kun's shadowy body, darkness floods out of him and shatters into fragments that seek a weak heart to hide in.
 
 ```
 Their beams crossed in the middle of Exar Kun’s shadowy body—pure light intersecting pure light with an explosion of lightning. The flash of dazzling white seemed as bright as an exploding sun.
@@ -928,7 +936,7 @@ Darkness flooded out of the shade of Exar Kun. The blackness shattered, and frag
 — Champions of the Force (Kevin Anderson, 1994), ch. 15
 ```
 
-### 104. LIMIT: TRAPPED IN HIS OWN PRISON (GUIDES): The New Essential Chronology says that Kun's final spell freed his spirit but kept it inside the temples, trapping him in the prison he had created for himself.
+### 105. LIMIT: TRAPPED IN HIS OWN PRISON (GUIDES): The New Essential Chronology says that Kun's final spell freed his spirit but kept it inside the temples, trapping him in the prison he had created for himself.
 
 ```
 Exar Kun drained the power from his Massassi slaves, triggering a final wave of Sith sorcery that liberated his spirit but preserved it inside the giant structures. Kun found himself trapped, unable to escape the prison he had created for himself.
@@ -936,7 +944,7 @@ Exar Kun drained the power from his Massassi slaves, triggering a final wave of 
 — The New Essential Chronology (Del Rey, 2005), p. 20 †
 ```
 
-### 105. LIMIT: BETRAYED AND DEFEATED: Kun himself admits that his Brotherhood of the Sith fell because he was betrayed.
+### 106. LIMIT: BETRAYED AND DEFEATED: Kun himself admits that his Brotherhood of the Sith fell because he was betrayed.
 
 ```
 “The Brotherhood of the Sith could have ruled the galaxy, could have squashed the doddering Republic and turned the other Jedi Knights into mere parlor magicians—but I was betrayed.” The shadow of Exar Kun drifted about the floor of the temple, making no sound as he moved. He hovered over the sleeping and helpless form of Dorsk 81.
@@ -944,7 +952,7 @@ Exar Kun drained the power from his Massassi slaves, triggering a final wave of 
 — Dark Apprentice (Kevin Anderson, 1994), ch. 20
 ```
 
-### 106. LIMIT: FOUR THOUSAND YEARS WITHOUT A BODY: Kun tells Luke that his spirit has been cut off from his body for four thousand years, and that "the first century or two are the worst".
+### 107. LIMIT: FOUR THOUSAND YEARS WITHOUT A BODY: Kun tells Luke that his spirit has been cut off from his body for four thousand years, and that "the first century or two are the worst".
 
 ```
 Luke spun around and saw a crack form in the stone walls. It grew darker as a tarlike silhouette oozed out and congealed into the shape of a cowled man whose features were distinct now that Luke could see him in the spirit plane. The stranger had long black hair, shadowed skin, and the tattoo of a black sun emblazoned on his forehead. His eyes were like chips of obsidian and just as sharp. His mouth bore a cruel scowl, the expression of one who has been betrayed and has had much time to think bitter thoughts.
@@ -954,7 +962,7 @@ Luke spun around and saw a crack form in the stone walls. It grew darker as a ta
 — Champions of the Force (Kevin Anderson, 1994), ch. 7
 ```
 
-### 107. LIMIT: HIS ATTEMPTS ON LUKE'S BODY FAIL: Luke points out that Kun's attempts to destroy his helpless body keep failing, and calls Kun's imagined power his weakness.
+### 108. LIMIT: HIS ATTEMPTS ON LUKE'S BODY FAIL: Luke points out that Kun's attempts to destroy his helpless body keep failing, and calls Kun's imagined power his weakness.
 
 ```
 Now he turned to see the hooded form of Kun standing black against the jungle landscape, but the sight no longer had the power to make him afraid. “You’re growing bolder, Exar Kun, to keep showing yourself to me—especially when your attempts to destroy my body continue to fail.”
@@ -963,7 +971,7 @@ Now he turned to see the hooded form of Kun standing black against the jungle la
 — Champions of the Force (Kevin Anderson, 1994), ch. 13
 ```
 
-### 108. LIMIT: CORNERED BY KIRANA TI: Kirana Ti tells Kun that he is trapped in the chamber, and he flinches back from Gantoris's lightsaber.
+### 109. LIMIT: CORNERED BY KIRANA TI: Kirana Ti tells Kun that he is trapped in the chamber, and he flinches back from Gantoris's lightsaber.
 
 ```
 “You’ll never get a chance to ask them, Exar Kun. You are trapped here. You won’t leave this chamber.” She pressed forward to intimidate him by her very closeness.
@@ -974,7 +982,7 @@ Kun’s shadow distorted, but he held his ground. “You cannot threaten me.” 
 — Champions of the Force (Kevin Anderson, 1994), ch. 15
 ```
 
-### 109. LIMIT: DEFEATED BY UNITED TRAINEES: the trainees close their circle of light around Kun. His taunts no longer shake Dorsk 81, and Vodo declares him "defeated at last".
+### 110. LIMIT: DEFEATED BY UNITED TRAINEES: the trainees close their circle of light around Kun. His taunts no longer shake Dorsk 81, and Vodo declares him "defeated at last".
 
 ```
 The Jedi trainees stepped closer together, cinching the circle around the trapped shadowy form. Streen held his lightsaber high, while across the circle Kirana Ti raised hers to a striking position. The nebulous glow around the new Jedi Knights grew brighter, a luminous fog that joined them in an unbroken ring, a solid band of light forged by the power of the Force within them.
@@ -986,7 +994,7 @@ But the olive-skinned alien would not back down. “Our differences make us stro
 — Champions of the Force (Kevin Anderson, 1994), ch. 15
 ```
 
-### 110. LIMIT: REBUFFED BY CORRAN: Corran tells Kun that he weakens his own power by destroying life; Kun's laughter sounds "just a bit too shrill", and Corran refuses to join him.
+### 111. LIMIT: REBUFFED BY CORRAN: Corran tells Kun that he weakens his own power by destroying life; Kun's laughter sounds "just a bit too shrill", and Corran refuses to join him.
 
 ```
 “Yes, you do.” I nodded carefully. “And again and again that cycle repeats itself and you let it go on because you’ve forgotten the most fundamental truth of reality: Life creates the Force. When Kyp destroyed Carida, he diminished your power. When you destroyed Gantoris, you diminished your power. You’re a predator over-grazing your prey, but you can’t stop because the dark side fills you with this aching hunger that will never be satisfied.”
@@ -996,7 +1004,7 @@ But the olive-skinned alien would not back down. “Our differences make us stro
 — I, Jedi (Michael A. Stackpole, 1998), ch. 23
 ```
 
-### 111. LIMIT: WANING INFLUENCE OVER HIS BEASTS: Corran feels Kun's link tendrils wither, and one of the beasts, freed of Kun's waning influence, turns on Corran's fighter.
+### 112. LIMIT: WANING INFLUENCE OVER HIS BEASTS: Corran feels Kun's link tendrils wither, and one of the beasts, freed of Kun's waning influence, turns on Corran's fighter.
 
 ```
 My comm unit beeped and an “all-clear” signal from Artoo appeared on my main screen. I smiled and felt the little link tendrils withering and retreating back to Exar Kun. I pushed my feelings, focusing them tightly, hoping to pick up a flash of anger or disappointment from him, but I got nothing of the sort. Instead I found four more of the anomalous lifeforms winging their way to the Great Temple from deep in the jungle.
@@ -1010,7 +1018,7 @@ The last beast proved more agile than the others and, freed of Kun’s waning in
 — I, Jedi (Michael A. Stackpole, 1998), ch. 24
 ```
 
-### 112. LIMIT: FED FALSE INTELLIGENCE: Corran controls what reaches Kun through his link to Streen, making the students' plan sound hopeless so that Kun underestimates them.
+### 113. LIMIT: FED FALSE INTELLIGENCE: Corran controls what reaches Kun through his link to Streen, making the students' plan sound hopeless so that Kun underestimates them.
 
 ```
 I kept careful track of what information moved through the conduit from Streen to Exar Kun and found I really needed to inject very little into it, or edit very little from it. Twelve half-trained apprentices and two toddlers planning to annihilate someone who had survived an onslaught by the combined might of the Jedi of his age sounded ridiculous on the surface of it. Tionne carefully told us how our own little council mirrored that of the Great Council of Deneba, when the Jedi united to defeat Kun. She made it sound grand and hopeful, but with only a little push I was able to make it sound hopeless.
@@ -1018,7 +1026,7 @@ I kept careful track of what information moved through the conduit from Streen t
 — I, Jedi (Michael A. Stackpole, 1998), ch. 24
 ```
 
-### 113. LIMIT: NEEDS OTHERS TO KILL: Corran argues that Kun had to rely on Kyp, ancient monsters and Streen to try to kill Luke's body, and could not make Kyp do it.
+### 114. LIMIT: NEEDS OTHERS TO KILL: Corran argues that Kun had to rely on Kyp, ancient monsters and Streen to try to kill Luke's body, and could not make Kyp do it.
 
 ```
 “Think about it, Master Skywalker. Kun uses Kyp to force you out of your body, then spends the next ten days trying to get someone else to kill you? He uses ancient monsters and poor old Streen to get the job done, when all he needed to do was have Kyp strap your body to the Sun Crusher and fly on out into space. Or, to make it simpler, though messier, Kyp just parks the Sun Crusher on your unconscious form. Why didn’t that happen? Because Kyp didn’t want to kill you. You weren’t his enemy, only Exar Kun’s enemy. Kyp wouldn’t have attacked you except that you would have stopped him from taking the Sun Crusher out and killing Imps.”

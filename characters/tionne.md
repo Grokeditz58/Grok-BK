@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 52 (39 with quotations; 7 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`.
+- **Entries:** 59 (46 with quotations; 14 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -501,6 +501,53 @@ Our notes: `notes/materials/124-njo-10-star-by-star/sbs-04.md:68`
 (Scaling: Tionne’s historical description of the Onimi encounter; explicitly marked as a statement/hype, not treated as a standalone feat.)
 (Source: Jedi vs. Sith: The Essential Guide to the Force [per Wookieepedia "Darth Caedus" rev 15733922, ref 88; exact text match; agrees with the entry's own ref marker])
 Our notes: `external/mega-notes/caedus-legends-quotes.txt:222`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Luke names Tionne to supervise training in his absence because she knows his teachings and Jedi lore.
+> “I don’t know how long I will be gone, so I’ve asked one of my former students, the Jedi Tionne”—he gestured to the slender, shimmering-eyed woman beside him—“to supervise your training while I’m away. Not only does Tionne know my teachings almost as well as I do, but she has a rich knowledge of Jedi lore and history. As you are about to find out, she’s well worth listening to.”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.82).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:28`
+
+What it shows (our notes): Tionne's ballad carries to every corner of the great hall.
+> Her song rang clear and true. Its pure tones carried easily to the farthest corners of the great hall and transported them all to a time they had never witnessed. The music flowed around them, sweeping them along on currents of excitement and courage and triumph and sacrifice.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.83).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:39`
+
+What it shows (our notes): Tionne teaches that a Jedi's greatest power comes from understanding and trusting the Force.
+> “A Jedi’s greatest power comes not from size or from physical strength,” she said. “It comes from understanding the Force—from trusting in the Force. As part of your Jedi training you will learn to build your confidence and belief through practice. Without that practice we may not succeed when it is most important.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.85).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:32`
+
+What it shows (our notes): Tionne explains the praxeum: a place where learning is put to use.
+> Unless we practice what we learn, and unless we are tested, we never know we can trust in the Force if the need arises. That is why this Jedi academy is also called a praxeum. It is a place where we not only learn, but we put the learning to use.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.86).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:33`
+
+What it shows (our notes): In the crisis, Tionne's voice takes on the hard, crystalline edge of a true Jedi Knight.
+> Now her words had a hard, crystalline edge, the forcefulness of a true Jedi Knight.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.172).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:85`
+
+### Limitations and anti-feats (Heirs of the Force)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Jacen has heard that Tionne is not a particularly strong Jedi, but Luke clearly trusts her completely.
+> He remembered hearing that she was not a particularly strong Jedi, but from the warm smile that passed between Luke and Tionne, he could tell that they understood each other well, and that Master Skywalker must have complete trust in his former student.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.82).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:29`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tionne cannot understand Lowbacca without his translator droid.
+> Tionne’s brows knitted together in an expression of worry. She blinked her mother-of-pearl eyes. “I’m sorry, Lowbacca. I can’t understand a word you’re saying.”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.136).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:14`
+
 
 # Debate and forum claims (unverified)
 

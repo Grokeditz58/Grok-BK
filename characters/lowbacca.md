@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 70 (56 with quotations; 23 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`.
+- **Entries:** 84 (70 with quotations; 37 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1270,6 +1270,119 @@ Our notes: `notes/materials/124-njo-10-star-by-star/sbs-07.md:125`
 (Scaling: The gem was the Corusca gem he had won while mining with Lando Calrissian; he then freed Jaina and Lowbacca.)
 (Source: Young Jedi Knights: Shadow Academy [per Wookieepedia "Darth Caedus" rev 15733922, ref 54; exact text match; agrees with the entry's own ref marker])
 Our notes: `external/mega-notes/caedus-legends-quotes.txt:60`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Lowbacca is uncomfortable in wide-open spaces so close to the ground.
+> He was still uncomfortable with wide-open spaces so close to the ground. On the Wookiee homeworld all cities were built high in the tops of the massive intertwining trees, supported by sturdy branches. Even the most courageous of Wookiees seldom ventured to the inhospitable lower levels of the forest—much less all the way to the ground, where dangers abounded.
+>
+> TO Lowbacca, height meant civilization, comfort, safety, home.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6 (p.67–68).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:14`
+
+What it shows (our notes): Lowbacca runs the Falcon's navicomputer preflight twice, for enjoyment.
+> The navicomputer was an enjoyable challenge. Lowie ran through all the preflight requirements twice—not because he thought he might have missed something the first time, but because the two places he felt most at home were in the treetops and in front of a computer.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6 (p.70).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:17`
+
+What it shows (our notes): Lowbacca lands his T-23 in the uppermost branches of the Massassi trees.
+> Scarcely half an hour later, far away from the Jedi academy and the Great Temple, he landed the T-23 on the sturdy treetops, settling the craft in the uppermost branches of the Massassi trees.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6 (p.75).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:21`
+
+What it shows (our notes): Under Qorl's fire, Lowbacca surges up the tree to escape.
+> The young Wookiee let out a bellow of surprise and anger, then instinctively surged up the ancient bole of the nearest Massassi tree, climbing higher, up, where it was safe.
+>
+> He grabbed branches and vines, hauling himself up toward the thick, spicy-smelling canopy. Behind him, the Imperial fighter began shooting wildly. Explosions and bright flames from burning foliage ballooned out from where the blaster bolts struck the branches under Lowie’s feet. He smelled the ozone of energy discharge, the steam of disintegrated vegetation.
+>
+> With Wookiee strength, Lowbacca climbed higher and higher, finally reaching thick, flat branches that allowed him to make his way across the treetops toward where he had landed the T-23.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11 (p.117).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:93`
+
+What it shows (our notes): Lowbacca nurses the damaged T-23 across the treetops.
+> The T-23 jolted and dipped. Once, it bounced against some upraised branches, which scraped like long fingernails against the ship’s lower foils and bottom hull, but Lowbacca managed to wrench the T-23 back on course.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.127).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:7` (chapter notes; this passage is quoted here from the book text)
+
+What it shows (our notes): After the crash, Lowbacca tears his restraints free.
+> Finally, with a burst of determination he yanked on the straps until, loosened by the crash, they tore away. Two of the restraints came free in his hands, and he wriggled out of the remaining webbing.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.129).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:17`
+
+What it shows (our notes): Lowbacca travels through the trees all night on an injured knee, using Wookiee night vision and his other senses.
+> Sometimes when he began to tire, or when his injured knee threatened to give way beneath him, Lowbacca relied on his powerful arms instead, swinging from branch to branch, using his keen Wookiee night vision in the murky shadows.
+>
+> But he never stopped to rest. He could rest later.
+>
+> Right now all of his senses were as finely tuned as a medical droid’s laser beam. The pads of his feet and his acute sense of smell helped him to avoid decaying patches or slippery growths on the tree branches as he walked. His sharp hearing could distinguish between the sounds of wind through the leaves and the rustling of nocturnal animals as they stalked the jungle heights. For the most part, he managed to stay clear of them.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.130).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:10`
+
+What it shows (our notes): Lowbacca does not fear the jungle: Kashyyyk's held far greater dangers.
+> Lowbacca did not fear the darkness or the jungle. The jungles of Kashyyyk held far greater dangers—and he had faced those and survived.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.131).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:10`
+
+What it shows (our notes): For his rite of passage, Lowbacca chose to face the syren plant alone.
+> But Lowbacca had chosen to go alone, preferring to meet the challenge of the voracious syren plant using his own wits rather than borrowed muscles.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.131).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:11`
+
+What it shows (our notes): Lowbacca harvests the syren fibers alone and escapes as the jaws snap shut.
+> Lowie had positioned himself as close as he dared to the gently undulating petals of the hungry syren blossom, an arm’s length from the tantalizing tuft. He’d gripped the end of the long rope in his strong jaws to hold himself in place and free his hands. Then, using the loop of thin cord to lasso the tuft of precious fibers, he’d pulled himself close enough to slice them loose with his vibroblade. With a triumphant growl he’d jerked his prize toward himself, trapped the bundle against his body with one hairy arm, and stuffed the fiber into his knapsack.
+>
+> In his excitement, however, the rope had slipped from his teeth. The trailing end uncoiled, dangled precariously, and then brushed one glossy petal of the deadly flower below.
+>
+> With a surge of gut-wrenching terror, Lowbacca had grabbed the tied end of rope and hauled himself upward as the syren’s jaws snapped shut. The petals just grazed one foot as they closed with an ominous slurp and a backwash of wind.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.134).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:20`
+
+What it shows (our notes): Lowbacca makes his way from tree to tree all night, then collapses on reaching the academy.
+> Exhaustion sank its claws into every muscle as Lowbacca made his way from one Massassi tree to the next, hour after hour, all through the night.
+>
+> Distance held no more meaning for him; he had to get to the Jedi academy. He could hear nothing but his own ragged breathing. His injured leg wobbled unsteadily at each step.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.135).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:13`
+
+What it shows (our notes): Lowbacca works the comm-center controls with speed and opens a channel to the Falcon before the others catch up.
+> Lowbacca worked the controls with speed and determination, tapping his clawed fingers over the appropriate buttons. He had already established an open channel to the Falcon by the time Tionne and the others caught up with him in the Communications Center.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.174).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:88`
+
+### Limitations and anti-feats (Heirs of the Force)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowbacca collapses at the academy when his knee gives out.
+> The numbness imposed by his own determination had worn off, and his knee refused to hold him any longer. His gangly legs gave way, and he collapsed to the ground, moaning his message.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.135).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:13`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Without Em Teedee, Lowbacca cannot make anyone understand him. In frustration he pounds the stone walls.
+> Lowbacca tried to think of how to explain, but his growing frustration made it more and more difficult. He had no words they could understand.
+>
+> Yes, he could gesture back toward the jungle—but how to describe a crashed TIE fighter? A surviving Imperial pilot? The twins taken hostage?
+>
+> The young Jedi Knights had kept their little project completely secret while they were making repairs to the crashed ship. Jaina had wanted the revamped craft to be a surprise she could show off to the other trainees. But now having kept it a secret was working against them. No one could guess what he was talking about; no one knew about the crash site.
+>
+> He didn’t know what had happened to Tenel Ka, either. Had she been killed, or had she somehow escaped? Was she even now lost in the jungles by herself, being stalked by predators? He moaned in dismay.
+>
+> Unable to restrain himself, Lowie rattled off the whole story in loud Wookiee grunts and roars. Everyone around him grew agitated, unable to decipher a word he was saying. Finally, his frustration got the best of him: Lowie pounded his fists on one of the stone walls and pushed past Tionne and the other Jedi candidates into the cool shadows of the Great Temple.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.172–173).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:92`
+
 
 # Debate and forum claims (unverified)
 

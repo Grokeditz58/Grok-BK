@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 10 (6 with quotations; 0 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments; 1 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 12 old entries; old file: `characters/_bak/teneniel-djo.md.bak-20261117`.
+- **Entries:** 11 (7 with quotations; 1 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments; 1 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 12 old entries; old file: `characters/_bak/teneniel-djo.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -119,6 +119,15 @@ What it shows (our notes): Ta'a Chume: "There can be no unity without honor"; Te
 (Fragment completed 2026-11-17: full sentence/passage matched word for word in the source text on file: `MEGA_Legend_The_New_Jedi_Order_Series_Star_Wars_New_Jedi_Order_05_Agents_of_Chaos_02_Jedi_Eclipse_James_Luceno_epub`.)
 Note text that was attached to the quote line: (JE ch. 11) — **Ta'a Chume: "There can be no unity without honor"; Teneniel may return to Dathomir; "You would have been perfect for my son"; she pledges full support**
 Our notes: `notes/materials/118-njo-05-jedi-eclipse/je-02.md:30`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Teneniel Djo is proud that her daughter trains with the Singing Mountain Clan and is pleased that she chose the Jedi academy.
+> Teneniel Djo had been even more pleased when her daughter had decided to attend the academy and take instruction to become a Jedi. She had enrolled simply as Tenel Ka of Dathomir, not wanting the other trainees to treat her differently because of her royal upbringing.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.141).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:27`
+
 
 # Debate and forum claims (unverified)
 

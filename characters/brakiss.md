@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 61 (48 with quotations; 1 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`.
+- **Entries:** 64 (51 with quotations; 4 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -273,6 +273,33 @@ Our notes: `notes/materials/124-njo-10-star-by-star/sbs-07.md:30`
 — Source: Young Jedi Knights: Jedi Under Siege [per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 42; exact text match]; per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 42; exact text match — Source: https://starwars.fandom.com/wiki/Luke_Skywalker/Legends — https://starwars.fandom.com/wiki/Luke_Skywalker/Legends.
 (Source: Young Jedi Knights: Jedi Under Siege [per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 42; exact text match])
 Our notes: `external/mega-notes/luke-legends-quotes.txt:87`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Luke recounts that Brakiss, a talented student with great potential, was an Imperial spy.
+> “A few years ago I had a brilliant trainee named Brakiss. He was a talented student, a voracious learner. He had a great potential for the Force. He seemed kind and helpful, fascinated by everything I had to teach. He was also a great actor.”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.24).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:54`
+
+What it shows (our notes): Luke tested Brakiss with an illusion to make him face his own dark side.
+> “He stayed here for many months, and I took special interest in teaching him, guiding him, nudging him toward the light side of the Force in every way. He seemed to be turning, softening … but Brakiss was colder and more deceptive than even I had suspected.
+>
+> During one part of his training, I sent him on an illusionary quest that would seem real to him, a test that made him face himself.
+>
+> Brakiss had to look inward—to see his very core in a way that no one else could ever see.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.25).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:57`
+
+What it shows (our notes): Luke says Brakiss lost the battle with himself and fled.
+> “I had hoped the test would heal him, but instead Brakiss lost that battle. Perhaps he was simply not prepared to confront what he saw inside himself. It broke him somehow.
+>
+> He fled from this jungle moon, and I believe he went straight back to the Empire—taking with him everything that I had taught him of the Jedi Way.”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.25).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:58`
+
 
 # Debate and forum claims (unverified)
 

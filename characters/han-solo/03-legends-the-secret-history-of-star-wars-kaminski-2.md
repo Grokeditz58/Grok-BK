@@ -72,6 +72,39 @@ Our notes: `notes/materials/167-secret-history-of-star-wars-2008/kaminski-23-app
 (Full sentence/passage taken from the source text on file: `novels_tmp_lucas_bts_kaminski_secret_history_pdf`.)
 Our notes: `notes/materials/167-secret-history-of-star-wars-2008/kaminski-23-apph.md`
 
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Han understands Lowbacca's Shyriiwook over the comm well enough to get the story.
+> “Quiet, old buddy. I heard most of that, but a few of the details were sketchy. Something about a crashed TIE fighter and an Imperial soldier taking them hostage?”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.175).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:96`
+
+What it shows (our notes): Han fires two warning shots that bracket the TIE.
+> Han fired two warning shots. Bolts of brilliant light streaked past the squarish planar wings of the Imperial craft—bracketing it, but doing no damage.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.203).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:70`
+
+### Limitations and anti-feats (Heirs of the Force)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Han cannot get a target lock on Qorl's TIE, and his repeated shots miss.
+> “I can’t get a target lock,” Han said.
+>
+> The TIE fighter zoomed above the green jewel of the jungle moon.
+>
+> Arching around in a tight orbit, the Falcon clung to it, following closely. Han fired repeatedly with his laser cannons—but the scarlet bolts missed.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.207).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:63`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Qorl jumps to lightspeed as Han fires.
+> “It’s not my fault,” Han Solo said, gaping at the vanished target.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.207).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:65`
+
+
 # CANON (Disney canon — kept separate)
 
 ## The Complete Star Wars Encyclopedia, Vol. II (H–O)

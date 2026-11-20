@@ -4,7 +4,7 @@
 - **Era:** Great Sith War
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Tales of the Jedi 024 version only: Freedon Nadd Uprising #1–2, Dark Lords of the Sith #1–6, The Sith War #1–6; primary read 2026-10-27)
-- **Entries:** 152 (75 with quotations; 7 quotations extended to the full sentence/passage from the source text on file; 22 marked as fragments). Rebuilt 2026-11-17 from 172 old entries; old file: `characters/_bak/vodo-siosk-baas.md.bak-20261117`.
+- **Entries:** 153 (76 with quotations; 8 quotations extended to the full sentence/passage from the source text on file; 22 marked as fragments). Rebuilt 2026-11-17 from 172 old entries; old file: `characters/_bak/vodo-siosk-baas.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -576,6 +576,15 @@ Our notes: `legends-feats.md:1366`
 - Note (summary from our notes, not a quotation): TOTJ The Sith War: holds off ten Jedi (incl. Masters Thon and Vodo) in a 'stand-off' on Coruscant until they unite in a Wall of Light (debate #96)
   — Source: (debate #96) — Legends Feats & Quotes (Star Wars Legends / EU).
 Our notes: `legends-feats.md:1994`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Tionne's ballad tells how Master Vodo-Siosk Baas tried to reason with Exar Kun alone and was destroyed by him.
+> She sang of dire events that had taken place four thousand years earlier—how the strange, alien Jedi Master had been destroyed by Exar Kun, one of his own students who had turned to the dark side. Master Vodo had begged the other Jedi Masters not to do battle with Exar Kun, and had tried to reason with him alone—though his gentle hopes had ended in tragedy.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.83).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:31`
+
 
 # Debate and forum claims (unverified)
 

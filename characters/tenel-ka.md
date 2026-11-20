@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 159 (88 with quotations; 49 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`.
+- **Entries:** 173 (102 with quotations; 63 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1448,6 +1448,121 @@ Our notes: `external/mega-notes/caedus-legends-quotes.txt:351`; `notes/materials
   — Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; approximate match 0.86, verify; agrees with the entry's own ref marker]; per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; approximate match 0.86, verify; agrees with the entry's own ref marker — JAINA SOLO FEL — ARTICLE EXTRACTION — https://starwars.fandom.com/wiki/Jaina_Solo_Fel.
 (Source: Legacy of the Force: Invincible [per Wookieepedia "Jaina Solo Fel" rev 15688894, ref 90; approximate match 0.86, verify; agrees with the entry's own ref marker])
 Our notes: `external/mega-notes/jaina-solo-quotes.txt:36`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Tenel Ka is introduced as a devoted Jedi who works hard toward her dreams.
+> Tenel Ka was a devoted Jedi who worked hard to attain her dreams. She had little interest in the bookish studies, the histories and the meditations; but she was an excellent athlete who preferred action to thinking.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.18).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:45`
+
+What it shows (our notes): Tenel Ka climbs the outside of the Great Temple and rappels into the audience chamber. She relies on her body rather than the Force whenever possible.
+> She could have used her Jedi powers to speed the descent, but Tenel Ka relied on her body whenever possible and used the Force only as a last resort.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.19).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:47`
+
+What it shows (our notes): With a snap of the Force, Tenel Ka pops her grappling hook loose from the stone above and catches it.
+> With a snap from the Force she popped her grappling hook up and away from the stone above and neatly caught it in her hand as it fell.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.19).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:48`
+
+What it shows (our notes): Tenel Ka throws her grappling hook up the temple face and climbs like a lizard up a cliff.
+> The muscles in her arm rippled. At precisely the right moment she released the hook.
+>
+> Jacen and Jaina helped it with the Force, guiding the hook so that it seated properly in the moss-covered sill. Its sharp durasteel points dug into a crack in the stone blocks and held there.
+>
+> Tenel Ka grasped the fibercord in both hands, tugged backward, and began to climb up the rope. She dug the toes of her scaled boots against the wall, hauling herself up, somehow finding footing on the polished stone blocks.
+>
+> Jacen grabbed the rope next, holding it steady as Tenel Ka ascended like a lizard up a sunbaked cliff face.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3 (p.29–30).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:66`
+
+What it shows (our notes): When Qorl looks away for a split second, Tenel Ka reacts instantly and bolts into the jungle.
+> When the Imperial TIE pilot turned his eyes from her for a split second, Tenel Ka reacted with lightning speed, just as she had been taught by the warrior women on Dathomir.
+>
+> “Run!” she shouted to the others, knowing exactly what to do. She turned and bolted for the nearest tangled undergrowth, dodging expected blaster fire.
+>
+> Tenel Ka reacted so quickly and so smoothly that even her most rigid battle trainers would have been proud of her.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11 (p.115).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-02.md:90`
+
+What it shows (our notes): Only Luke knows Tenel Ka's true background as a Hapan princess. She enrolled simply as Tenel Ka of Dathomir.
+> She had enrolled simply as Tenel Ka of Dathomir, not wanting the other trainees to treat her differently because of her royal upbringing.
+>
+> At the academy, only Master Skywalker—who was an old friend of her mother’s, and the man Teneniel Djo most admired—knew Tenel Ka’s true background. She had not even told Jacen and Jaina, her closest friends on Yavin 4.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.141).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:27`
+
+What it shows (our notes): Without her flash heater, Tenel Ka lights a fire by friction using Dathomir skills.
+> It took an agonizingly long time for her strong arms to produce enough friction twirling one smooth stick of wood against a flat branch.
+>
+> Finally, she managed to coax forth a glowing ember and a tendril of smoke.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.142).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:28`
+
+What it shows (our notes): Attacked by a flock of two-headed winged reptiles in the cave, Tenel Ka kicks burning embers at them and escapes.
+> Talons raked her arm as she pushed herself backward toward the cave wall. Sharp fangs opened a gash in her bare leg, and she kicked fiercely, striking one of the creature’s two heads with her scaled boot.
+>
+> In the flickering light from the tiny fire, Tenel Ka watched in horror as an entire flock of the hideous creatures—each with a wingspan wider than she was tall—dropped from the shadowy recesses of the cave and swarmed toward her.
+>
+> She struggled for purchase on the sandy cave floor and pushed her feet against the stone wall. Tenel Ka propelled herself toward the mouth of the cave on her hands and knees.
+>
+> She kicked the embers of her fire at the flapping beasts as she scrambled past, hardly noticing the bits of charred wood and leaf that singed her own legs.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.143).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:30`
+
+What it shows (our notes): Running from the reptiles in the dark, Tenel Ka dodges by sensing the claws rather than seeing them.
+> She sensed, rather than saw, the outstretched claws, and tried to turn aside, but slipped on rotting vegetation and fell hard against a fungus-covered log. She sensed a second pair of claws rip through the air where her stomach had been only moments before. She shuddered as twin heads cried out in rage and frustration above her, tearing at thick, tangled twigs in the brush.
+>
+> Why couldn’t she remember her Jedi calming techniques when she needed them? Why hadn’t she practiced harder? She closed her eyes, sensed, and rolled to one side as the flying monster drove down for another attack.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.186).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:27`
+
+What it shows (our notes): Tenel Ka tells herself to use the Force, changes direction by reflex, and dodges talons and tails until she reaches the trees.
+> Suddenly, she changed direction, as if by reflex. She didn’t quite know why she had, for she couldn’t see where she was going in the thick night, but she knew she was right.
+>
+> Over and over, she dodged grasping talons and the thrust of stinging tails, until she came to a thick stand of Massassi trees.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.187).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:27`
+
+What it shows (our notes): Tenel Ka bandages her own wounds and jogs or marches all night back to the academy.
+> Using rudimentary first-aid supplies she kept in her belt, she had bound up the claw scratches on her arm and the gash on her leg. The wounds throbbed and burned, but did not slow her down. She jogged much of the way, and kept to a fast-paced march even when she needed to rest.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.190).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:34`
+
+What it shows (our notes): Tenel Ka recognizes Qorl's taunt to Han as a trick.
+> Tenel Ka marveled at the brilliant strategy.
+>
+> “It’s a trick,” she said. “He wants you to break off the pursuit.”
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.205).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:61`
+
+What it shows (our notes): In the Falcon's high-g climb, Tenel Ka and Lowbacca strain under the acceleration, while Han and Chewbacca are used to it.
+> The acceleration slammed Tenel Ka back against her seat, and she grimaced as the tug of additional gravities stretched her skin. She squeezed her eyes shut. Beside her, Lowbacca grunted with the strain, but Han and Chewie seemed accustomed to putting such stress on their bodies.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.206).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:62`
+
+### Limitations and anti-feats (Heirs of the Force)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lost in the jungle, Tenel Ka panics, and no Jedi calming techniques come to her.
+> Though she searched her mind, no Jedi calming techniques would come to her.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.137).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:24`
+
 
 # Debate and forum claims (unverified)
 

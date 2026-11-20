@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 47 (36 with quotations; 10 quotations extended to the full sentence/passage from the source text on file; 3 marked as fragments; 18 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 52 old entries; old file: `characters/_bak/isolder.md.bak-20261117`.
+- **Entries:** 48 (37 with quotations; 11 quotations extended to the full sentence/passage from the source text on file; 3 marked as fragments; 18 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 52 old entries; old file: `characters/_bak/isolder.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -672,6 +672,15 @@ Our notes: `notes/materials/118-njo-05-jedi-eclipse/summary.md:36`
 — Source: The Courtship of Princess Leia [per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 51; exact text match]; per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 51; exact text match — Source: https://starwars.fandom.com/wiki/Luke_Skywalker/Legends — https://starwars.fandom.com/wiki/Luke_Skywalker/Legends.
 (Source: The Courtship of Princess Leia [per Wookieepedia "Luke Skywalker/Legends" rev 15689902, ref 51; exact text match])
 Our notes: `external/mega-notes/luke-legends-quotes.txt:185`
+
+## Young Jedi Knights 1: *Heirs of the Force* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-19 CST)
+
+What it shows (our notes): Isolder told Tenel Ka that his two years as a disguised privateer prepared him for leadership better than his royal tutors did.
+> Her father, Isolder of Hapes, had always said that the two years he spent in disguise working as a privateer had done more to prepare him for leadership than any training the royal tutors of Hapes could provide.
+— Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.140).
+(Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
+Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:26`
+
 
 # Debate and forum claims (unverified)
 
