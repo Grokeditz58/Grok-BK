@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 284 (213 with quotations; 174 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries.
+- **Entries:** 309 (238 with quotations; 199 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2506,6 +2506,203 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's knife cannot pe
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.192).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:18`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka's reflexes take over before she even identifies the TIE fighters' shriek.
+> THE SHRIEK OF twin ion engines ripped apart the relative quiet of the grand audience chamber. Tenel Ka's reflexes took over even before she recognized the source of the sound, and she found herself running in a crouch toward the closest window slit, with Jaina, Jacen, and Lowbacca right beside her. Through the slit in the stone wall, Tenel Ka saw TIE fighters on a strafing run—coming straight toward the Jedi academy!
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.47).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:40`
+
+What it shows (our notes): Tenel Ka senses the students' conflicting emotions and finds no confusion or panic.
+> From where she stood, Tenel Ka observed the other Jedi trainees and judged that their reactions to Master Skywalker's orders were commendable. Several students gasped in surprise, and Tenel Ka could sense conflicting emotions—nervous anticipation, homesickness, trust in the Force, dread at the possibility of having to kill. But she caught no hint of confusion, panic, or denial.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.48).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:40`
+
+What it shows (our notes): Tenel Ka feels Tamith Kai on the battle platform and volunteers: 'The Nightsister is mine.'
+> Tenel Ka felt a stab of recognition. "Tamith Kai is there; I can feel her," she said.
+>
+> "Then we must disable that battle platform," Tenel Ka replied without a pause. "I volunteer. The Nightsister is mine."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.50).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:41`
+
+What it shows (our notes): Bred and trained for battle: one arm is a challenge, but her lightsaber and Force skills are enough for any enemy.
+> As the young Jedi Knights raced down the stairs inside the temple, Tenel Ka's mind already began moving ahead to the coming confrontation. Adrenaline pumped through her veins, and her mind was alert. She had been bred and trained for battle.
+>
+> Although fighting with only one arm would present her with new challenges, she felt neither afraid nor overconfident. She was simply ready. A Jedi must always be ready, she knew. Master Skywalker and Tionne had trained them all well. Tenel Ka had her lightsaber and her Force skills. Together, she was certain, that was enough for her to defeat any enemy.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 6 (p.51).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:42`
+
+What it shows (our notes): After the crash, Tenel Ka lets the Force flow and rocks the jammed canopy free with Lowie.
+> Lowbacca gave a few crisp barks, and Tenel Ka found herself responding to his instructions even before Em Teedee could clarify, "Master Lowbacca asks you to push against the canopy with all your might whilst throwing your weight toward the port side—to the left, you know."
+>
+> Tenel Ka knew. She pushed and rocked. Despite the choking clouds of smoke from the burning engines, she grew calm enough to let the Force flow through her.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.57).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:49`
+
+What it shows (our notes): Tenel Ka comforts Lowie with the strength of the Force.
+> Balancing on a tree limb beside Tenel Ka, Lowbacca turned to gaze at the crashed T-23 and uttered a low, mournful note. Tenel Ka could see that his distress came not from the thought of jungle creatures, but from the loss of his beloved vehicle. The warrior girl understood loss. She reached out her single hand to touch Lowbacca's arm briefly and let the strength of the Force comfort him. Then, as one, they turned to seek out their destination: the giant battle platform—and the evil Nightsister.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.58).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:50`
+
+What it shows (our notes): One-armed in the treetops, Tenel Ka trusts the Force to place her feet.
+> With only one arm to help her balance and pull herself along, Tenel Ka had to trust the Force to place her feet securely at each step. She even welcomed Lowbacca's help when he offered it in crossing weak branches or broad gaps.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.59).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:51`
+
+What it shows (our notes): A tingle up her spine warns Tenel Ka of a TIE fighter before it sweeps the canopy.
+> Suddenly, she felt a tingle run up her spine. "Halt!" she said. A TIE fighter swooped low across the leaves, rippling the canopy around them with its hot exhaust as it circled to inspect the crashed skyhopper. Lowbacca growled, and Tenel Ka held his arm to restrain him from any rash action. The Imperial ship circled again over the wreckage, as if looking for survivors. Tenel Ka hoped the pilot wouldn't blast the already-downed craft into a smoldering lump of slag and debris. After a tense moment, the enemy ship roared away in search of new prey.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.60).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:52`
+
+What it shows (our notes): Tenel Ka throws a grappling hook up to the hovering platform and climbs the fibercord one-armed, levitating herself with the Force.
+> The sounds of shouted orders and clomping booted feet carried down to them. Lowbacca pointed upward and then shrugged as if to say. What next? The platform was too high above the trees to make a jump, and they had no repulsorpacks of their own. Tenel Ka reached for the grappling hook and fibercord she kept at her belt.
+>
+> "We'll have to climb for it," she said.
+>
+> The platform hovered higher than Tenel Ka was accustomed to aiming, but the grappling hook caught firmly on the armored edge on her second throw. Tenel Ka tested her weight on the fibercord. The grappling hook did not budge. Then, wrapping her arm and her legs around the cord, she began to climb, using the Force to help levitate her when her single arm couldn't provide enough support.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.61).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:53`
+
+What it shows (our notes): Tenel Ka, one muscular arm, ready reflexes, rancor-tooth lightsaber.
+> TENEL KA STOOD at the edge of the Imperial battle platform, her muscles tense, her body and reflexes ready to react.
+>
+> She coiled her fibercord before returning it and the grappling hook to her belt. Then, with her single muscular arm, she held up her rancor-tooth lightsaber and ignited it. Beside her towered Lowbacca, ginger fur standing on end, dark lips peeled back to reveal fangs. The Wookiee used both hands to grip his clublike lightsaber with its molten bronze blade.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.121).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:40`
+
+What it shows (our notes): Tenel Ka deflects a stormtrooper's blaster bolt into the sky.
+> One of the white-armored soldiers, apparently nervous at seeing the two young Jedi Knights, fired his blaster—and Tenel Ka whipped her energy blade across to intersect the incoming energy bolt, deflecting it into the sky.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.122).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:41`
+
+What it shows (our notes): Tenel Ka and Lowie cut through the stormtroopers like a whirlwind.
+> Then, by unspoken agreement, she and Lowie charged forward, yelling. They slashed with their lightsabers so furiously that though the stormtroopers sent out a volley of blaster fire, they were thrown into chaos. Lowie and Tenel Ka forced their way through them like a whirlwind.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.122).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:42`
+
+What it shows (our notes): Tenel Ka is sure of her physical abilities: 'This would be her best battle ever.'
+> Tenel Ka slashed once more with her lightsaber, taking out another charging stormtrooper. She turned. Her heart thudded, but her breath came slow and even. Her muscles sang. She was prepared for this fight, sure of her physical abilities. This would be her best battle ever.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.123).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:43`
+
+What it shows (our notes): Tamith Kai's knee, which Tenel Ka nearly crippled; Tamith Kai: 'A one-armed child.'
+> Tenel Ka stood before the Nightsister, holding herself tall and proud, her turquoise lightsaber in front of her. She remembered the first time she had taken the evil woman by surprise and nearly crippled her. "So, how is your knee, Tamith Kai?"
+>
+> "Why not surrender now, weakling girl?" she said. "This is hardly a worthwhile test of my abilities. Ha! A one-armed child who dares to think she can be a threat to me."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.123–124).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:44`
+
+What it shows (our notes): Tenel Ka blocks Tamith Kai's blue-black lightning with her blade and pushes her back with a Force shield of positive feeling.
+> "You have been around those twin Jedi brats too long," Tamith Kai said. 'You've learned disrespect for your superiors." The Nightsister jabbed the air with her fingers and sent a bolt of blue-black lightning toward the warrior girl from Dathomir.
+>
+> "I see no one here who is my superior," Tenel Ka said, intercepting the lightning bolts with her lightsaber blade. Then she used the Force to build her own positive thoughts and feelings, which she pulled around her like a shield. The Nightsister retreated a step, taken aback.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.124).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:45`
+
+What it shows (our notes): A feint, then a Force nudge topples Tamith Kai off the command deck mid-attack.
+> The Nightsister curled her hands, and a ball of blue lightning crackled in each palm, gathering strength. Tenel Ka knew she had to use the Nightsister's moment of concentration for a quick surprise.
+>
+> Tenel Ka feinted with her lightsaber and then, completely without warning, used the Force to reach forward like an outstretched hand. She nudged the Nightsister, pushing her just enough that she stumbled over the edge. With a wild shriek, Tamith Kai toppled backward. Bolts of blue lightning sprayed harmlessly into the sky and barely missed a heavily armored TIE bomber that swooped overhead.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.125–126).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:47`
+
+What it shows (our notes): Tenel Ka dodges a TIE bomber's cannon fire by Force-sensing where the bolts will strike; the bolts are too strong to deflect.
+> From the command deck Tenel Ka looked up toward the loud sound of an approaching engine—and saw a TIE bomber cruising in low, targeting its laser cannons on her! Brilliant shots streaked out, melting holes in the deck plating at her feet.
+>
+> The warrior girl danced from one side to the other, using her attunement with the Force to second-guess where the bolts would strike. The high-powered weapons were too strong for her to deflect with a mere lightsaber. She stood all alone, unprotected—an easy target.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.126).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:49`
+
+What it shows (our notes): Tenel Ka throws her lightsaber underhand through the TIE bomber's hull; she always hits with thrown spears and knives.
+> Grimly, she made up her mind. As the Imperial fighter roared overhead, Tenel Ka locked her lightsaber blade on, then carefully estimated the proper trajectory. Underhanded, she hurled her rancor-tooth weapon up at the craft.
+>
+> She had spent a great deal of time practicing her aim, throwing spears and knives, striking her chosen target every time. But here the timing was rushed and the distance greater. Still, she never doubted her ability.
+>
+> Her lightsaber cartwheeled through the air and, with a blazing turquoise flash, struck the side of the TIE bomber. It did not slice off one of the power-array panels as she had hoped. Instead, the energy blade sheared off a stabilizer device and ripped open a hole in the bomber's hull. Her lightsaber passed completely through, then plunged downward into the jungle thickness below near the edge of the river.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.126–127).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:49`
+
+What it shows (our notes): Disarmed, Tenel Ka sweeps Tamith Kai's heel and slams her to the deck: 'never without a weapon.'
+> "And now you are disarmed," Tamith Kai sneered, looking at the stump of Tenel Ka's arm. 'You waste my time, child. Why don't you save us both some trouble and just lie down and die?"
+>
+> Tenel Ka glared at the Nightsister coldly and moved a step forward, showing no sign of hesitation. "I may be disarmed," she said, "but I am never without a weapon."
+>
+> With that, her left foot flashed out, swept around, and caught Tamith Kai just behind her heel. At the same time, Tenel Ka slammed her palm into the center of the Nightsister's chest and pushed forward, toppling her opponent to the deck.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.127–128).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:50`
+
+What it shows (our notes): Tenel Ka senses the bomber pilot's terror, reads the crash, and leaps over Tamith Kai.
+> Tenel Ka could vaguely sense the pilot's terror. He didn't know what to do and saw the platform as his last chance, a place where he might make an emergency landing. But Tenel Ka could tell from the speed of his descent and his total lack of maneuverability that a landing was impossible.
+>
+> Tenel Ka could waste no time fighting with her. She snatched her booted foot free and leaped over the black-clad Nightsister, landing among the stormtroopers next to Lowie.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.128–129).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:51`
+
+What it shows (our notes): Tenel Ka and Lowie dive overboard as the bomber destroys the battle platform.
+> Lowie and Tenel Ka dove overboard, hoping for a safe place to land.
+>
+> Behind them, the TIE bomber crashed into the Shadow Academy's battle platform and exploded in an instant. Its entire cargo of remaining explosives detonated along with the engines, blasting a hole entirely through the immense vessel.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.130).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:51`
+
+What it shows (our notes): Lando: 'quite a tough young lady'; Tenel Ka finds her lost lightsaber by sensing the rancor whose tooth it is.
+> "Your friend here is quite a tough young lady," he said approvingly.
+>
+> "This is a fact," she said, without the slightest trace of humor.
+>
+> Tenel Ka nodded, a satisfied look on her face. She pulled her arm free, plucked something from her belt, and held it out to show Jacen. It was the rancor-tooth lightsaber that she had lost during her clash with Tamith Kai on the battle platform. "It was not as difficult to locate as I had feared," she said. "Perhaps because I knew the rancor whose tooth this was, I was able to sense its location."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 26 (p.215).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:64`
+
+### Limitations and anti-feats (Jedi Under Siege)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — After the crash: seared lungs, blurred vision, dazed.
+> With every breath, Tenel Ka drew fire into her aching lungs. Nearby a Wookiee groaned, but she could not make sense of the growled words. She could see nothing.
+>
+> Tenel Ka tried to look around. She saw only roiling, changing shapes of light and dark. The shifting patterns stung her eyes, and she squeezed them tightly shut.
+>
+> "No," Tenel Ka managed to croak. "I'm alive."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.56–57).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:48`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka admits the odds are not with them.
+> Tenel Ka swallowed hard. She knew that although the Force was with them, the odds definitely were not.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.62).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:54`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's injuries from the fall: a head gash and a thigh wound; Lowie's catch saves her.
+> When she noticed the patient Raynar was currently tending, she blanched and dashed over to where Tenel Ka lay, looking feverish and bleeding heavily from a nasty gash just above one gray eye. Another shallower wound ran along her thigh and ended at the knee.
+>
+> "When we fell to the trees, Master Lowbacca was able to catch himself, but Mistress Tenel Ka struck her head on a branch. She nearly fell all the way to the forest floor, but Master Lowbacca dove after her, caught her arm, and broke their fall by landing stomach-first on a wide limb. Oh, it was bravely done, I assure you. Mistress Jaina. I'm no medical droid, of course, but I'm afraid you'll find that Master Lowbacca has a dislocated shoulder and at least three broken ribs."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.184–186).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:33`
+
 
 
 

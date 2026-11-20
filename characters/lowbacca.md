@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 137 (123 with quotations; 90 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries.
+- **Entries:** 143 (129 with quotations; 96 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1820,6 +1820,55 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie can't use his lights
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 18 (p.191).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:17`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): An urge in the back of his mind makes Lowie fly faster before he sees the Shadow Academy.
+> Lowie wasn't sure why, but senses in the back of his mind urged him to go faster still. The small skyhopper shuddered and dipped as he pushed its engines to their limits, and then beyond. He flew in among the trees, below the deadly dome of the energy shield that protected the Jedi academy against an attack from the skies.
+>
+> Lowie looked up into the sky and understood why he had felt the sudden need to accelerate. He gave a sharp bark, pointing up at the ominous spiked ring shape barely visible as a silhouette through the film of the atmosphere. "Master Lowbacca says—oh dear!—it seems that the Shadow Academy has arrived!"
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.27).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:24`
+
+What it shows (our notes): Lowie lets the Force control his weaving and dodging under TIE fire.
+> An energy bolt spat past the T-23 and sent up a plume of dirt and singed turf behind them. "Let the Force guide you, Lowbacca, my friend," Tenel Ka said from the passenger seat in back.
+>
+> Lowie rumbled an acknowledgment and took a deep calming breath. He flew onward, letting the Force control his weaving and dodging. They headed toward the wide, greenish-brown river over which Tenel Ka and Lowbacca had seen the Nightsister's sinister battle platform. Even from half a kilometer away, they could see lances of laser fire shoot out from the armored vessel, incinerating trees along the banks.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.54–55).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:46`
+
+What it shows (our notes): Hit by a TIE, Lowie's Force-directed hands bring the crippled skyhopper down onto the canopy.
+> A proximity alarm sounded the moment Lowbacca diverted his attention, and a laser cannon blast from a passing TIE fighter struck them. A jet of smoke and sparks spewed from the T-23's rear engines. The tiny skyhopper shimmied and bucked in the air. With a shriek of shearing metal, one of the attitude-control fins gave way.
+>
+> Lowie, reacting with the instinct of his Jedi training, wrestled with the controls. Directed by the Force, one of his sharp-clawed hands flew across the control panel, while his free hand guided their descent. Smoke poured into the cockpit, and the skyhopper sputtered and rocked. Without knowing quite how he did it, Lowie cut the rear engines and bled off their momentum into a steep upward climb. Then, letting the little ship fall back toward the treetops, he used one final burst from the repulsorjets to slow their descent—enough, he hoped. The T-23 crashed onto the jungle canopy.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 7 (p.55–56).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:47`
+
+What it shows (our notes): Fifteen stormtroopers against one young Wookiee.
+> The stormtroopers pressed forward, fifteen against one gangly young Wookiee. Lowbacca didn't seem to think the odds were too bad.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.123).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:43`
+
+What it shows (our notes): Lowie throws a stormtrooper one-handed into three others; crowding him is 'a big mistake.'
+> Down one level, Lowbacca slashed with his bronze lightsaber in one hand while picking up a white-armored figure with his other. He tossed the stormtrooper into three other attackers, knocking them all down. The Imperial soldiers were crowded too closely together to use their blasters. They seemed intent on taking down the angry Wookiee through the sheer force of their own numbers.
+>
+> It was a big mistake.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.124–125).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:46`
+
+### Limitations and anti-feats (Jedi Under Siege)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie dives after the falling Tenel Ka and breaks their fall: dislocated shoulder, at least three broken ribs.
+> "When we fell to the trees, Master Lowbacca was able to catch himself, but Mistress Tenel Ka struck her head on a branch. She nearly fell all the way to the forest floor, but Master Lowbacca dove after her, caught her arm, and broke their fall by landing stomach-first on a wide limb. Oh, it was bravely done, I assure you. Mistress Jaina. I'm no medical droid, of course, but I'm afraid you'll find that Master Lowbacca has a dislocated shoulder and at least three broken ribs."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.186).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:33`
+
 
 
 

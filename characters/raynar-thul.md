@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 69 (66 with quotations; 12 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 70 (67 with quotations; 13 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1974,6 +1974,22 @@ What it shows (our notes): Raynar declares the students ready to fight for Luke;
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.10–11).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:33`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+
+### Limitations and anti-feats (Jedi Under Siege)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Raynar's Force push is a slight nudge the Dark Jedi do not notice; Zekk hurls him into the river.
+> Two of Zekk's companions laughed in wholehearted amusement, ignited their lightsabers, and stalked toward the trapped young man. Raynar stepped backward until he bumped against the rough trunk of a tree. He squeezed his eyes shut, struggling to concentrate. He held his breath until his face turned bright red, then purplish.
+>
+> Zekk felt a slight invisible push as the boy attempted to use the Force to drive them back. The two lightsaber-bearing Dark Jedi seemed not even to notice.
+>
+> Thinking quickly, before his two companions could drive in and make short work of Raynar, Zekk reached out with the Force, grabbed the boy by his bright robes, and yanked him off his feet. With a flick of his mind, he hurled Raynar over the heads of his companions, tossing him out into the river. Raynar yowled as he flew, then plunged belly-first into the thin, muddy waters.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.102–103).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:24`
+
 
 
 

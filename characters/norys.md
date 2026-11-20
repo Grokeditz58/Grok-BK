@@ -6,19 +6,20 @@ Evidence file for Norys, the bullying leader of the Lost Ones gang in Coruscant'
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only). Notes: `notes/materials/175-yjk-03-the-lost-ones/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`). Young Jedi Knights 5: Darkest Knight (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`).
+- Sources read for this file: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only). Notes: `notes/materials/175-yjk-03-the-lost-ones/`. Young Jedi Knights 4: Lightsabers (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/176-yjk-04-lightsabers/`). Young Jedi Knights 5: Darkest Knight (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`). Young Jedi Knights 6: Jedi Under Siege (same authors, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/178-yjk-06-jedi-under-siege/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/176-yjk-04-lightsabers/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
-- This file has 16 entries and 16 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 4 entries from Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/178-yjk-06-jedi-under-siege/`.
+- This file has 20 entries and 20 quotes.
 
 ## Contents
 
 - [Background and Gang](#background-and-gang) (5)
-- [Statements and Beliefs](#statements-and-beliefs) (6)
-- [Limitations](#limitations) (5)
+- [Statements and Beliefs](#statements-and-beliefs) (8)
+- [Limitations](#limitations) (7)
 
 ## Background and Gang
 
@@ -140,9 +141,33 @@ Norys shrugged. "We all make a few sacrifices to meet our goals." He glanced bac
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
 ```
 
+### 12. Norys: top simulator scores; Qorl: true aptitude for weaponry and fighting skills.
+
+```
+"Excuse me, sir—I have a suggestion," Norys said. "In light of my superior performance during the simulations, since I scored better than any of these others, I think I should be the one to lead this wing."
+
+Qorl quelled his anger. "I . . . understand your reasons, Norys. You have done excellent work in your cross-training as a TIE pilot and stormtrooper. You are eager to learn and, presumably, to serve the Second Imperium, But I must turn down your request this time."
+
+The boy was rude and so often insubordinate that if he hadn't shown such a true aptitude for weaponry and fighting skills, Qorl would certainly have left him behind. Too much was at stake in this mission to allow an overeager young man to botch things up.
+
+— Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 5
+```
+
+### 13. Qorl: Norys is a bloodthirsty bully who fights only to fight.
+
+```
+He doubted, though, that his student Norys would bother to follow orders once the battles actually started and laser shots began to fly. The bully would blunder from target to target like a mad gundark, likely to cause as much damage to the Imperial plans as he did to the Rebels.
+
+Norys continued to be a great disappointment. When Qorl had selected the tough young man, he knew the bully's personality had hardened during years of harsh living, though he had lorded over the Lost Ones on Coruscant. The broad-shouldered boy had been dedicated, vowing to become an Imperial soldier because it gave him a feeling of power and confidence—exactly what the Second Imperium needed.
+
+The bully was truly bloodthirsty, wanting simply to dominate, to cause pain, to achieve utter victory. He did not fight for the glory of the Second Imperium, or for bringing back the New Order—or for any sort of political goal. He fought simply to fight. And that was a deadly attitude, no matter which side he fought for.
+
+— Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 13
+```
+
 ## Limitations
 
-### 12. The mother hawkbat drives Norys back with a surprised yelp.
+### 14. The mother hawkbat drives Norys back with a surprised yelp.
 
 ```
 Just then a screeching sound came from above, a blood-curdling animal shriek. A predator’s heavy shadow swept like a dark blanket over the cracked windows of the walkway. With another loud scream, the mother hawkbat struck the side windows, smashing against the wire mesh that barely held the frames in place. She spat and hissed, her sharp beak ripping at the wires, her forked tongue thrashing as she dug her claws in, trying to get at Norys. The gang leader staggered backward with a surprised yelp.
@@ -150,7 +175,7 @@ Just then a screeching sound came from above, a blood-curdling animal shriek. A 
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 13. Norys and the Lost Ones seem hypnotized by the Nightsisters.
+### 15. Norys and the Lost Ones seem hypnotized by the Nightsisters.
 
 ```
 The burly Norys and the other Lost Ones seemed to have been hypnotized, and Jacen wondered if Tamith Kai or the others were using some sort of Force trick to make them more susceptible to insidious suggestions.
@@ -158,7 +183,7 @@ The burly Norys and the other Lost Ones seemed to have been hypnotized, and Jace
 — The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
-### 14. Qorl's spear smashes Norys into the wall.
+### 16. Qorl's spear smashes Norys into the wall.
 
 ```
 Norys stood astonished as the deadly spearpoint hurtled toward his chest plate. He just had time to cry "Hey!" in a panicked voice amplified by his helmet speakers before the barbed tip impacted squarely with enough force to smash him backward.
@@ -168,7 +193,7 @@ Norys slammed into the wall, his helmet ringing against the hard metal bulkhead.
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 15. Norys misses again and again until he realizes he is overcompensating.
+### 17. Norys misses again and again until he realizes he is overcompensating.
 
 ```
 He pointed the blaster and squeezed off an energy bolt, but the beam went wide, striking a stalactite and startling up four more of the angry flying creatures. The new batch of mynocks also attacked, annoyed at him for disturbing their dark slumber.
@@ -182,7 +207,7 @@ He suddenly realized that he had been aiming wrong. It was his own fault. Reacti
 — Lightsabers (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 12
 ```
 
-### 16. Norys misses repeatedly, then floods the range and hits friend and foe.
+### 18. Norys misses repeatedly, then floods the range and hits friend and foe.
 
 ```
 "Because," Norys said, taking aim at an orange target, but only nicking the edge of it, "my followers are so afraid of me they'd never dare disobey my orders." He missed once more. "Is the aim-point on this blaster offset again?"
@@ -192,4 +217,24 @@ Norys bristled and missed another shot. He rounded on the former TIE pilot with 
 "Really, old man?" Norys's lips pulled back in something between a snarl and a grin. He turned back toward the targets and, moving his blaster rifle in a slow semicircle, flooded the area with blaster bolts, never removing his finger from the firing stud. When he was finished, every target had registered a hit. A complete slaughter. Norys turned back toward Qorl with a satisfied smirk. "How much more target practice v do I need, old man?"
 
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 9
+```
+
+### 19. Norys wastes shot after shot and hits only by luck.
+
+```
+Qorl was ashamed to see the TIE pilot waste shot after shot, although sheer luck allowed some of the laser bolts to strike the hull. It would be only a matter of time before the cargo ship exploded in midair.
+
+— Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 13
+```
+
+### 20. Qorl destroys Norys's TIE with one shot.
+
+```
+Qorl closed in on Norys's ship.
+
+And fired.
+
+Norys's TIE fighter exploded in the air, annihilated so quickly and completely that the young bully didn't even have time to cry out in surprise.
+
+— Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 13
 ```

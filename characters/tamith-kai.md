@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 31 (30 with quotations; 28 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 5: Darkest Knight (full read).
+- **Entries:** 37 (36 with quotations; 34 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -316,6 +316,49 @@ What it shows (our notes): Tamith Kai orders the lure: 'Do I sense hesitation?'
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 11 (p.113).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-02.md:37`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tamith Kai: power and confidence, her hair crackling with dark powers.
+> At the battle platform's helm she stood, eager for vengeance. Her long black cape slithered around her with a hissing sound, like snakes coming out to strike. Spines, taken from the carapace of a murderous giant insect, protruded from her shoulders. Her black hair curled around her head like ebony wires, writhing and crackling with dark powers, each strand seemingly alive and malevolent.
+>
+> Tamith Kai's violet eyes burned as she ordered the stormtroopers to board the battle platform, gathering her inner power. Her onyx-scaled armor clung to her muscular, well-formed body. Her demeanor spoke of power and confidence—and a yearning for destruction.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.35–36).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:31`
+
+What it shows (our notes): Tamith Kai to Tenel Ka: 'A one-armed child who dares to think she can be a threat to me.'
+> The Nightsister's violet eyes flashed, and she shook her head mockingly. "Why not surrender now, weakling girl?" she said. "This is hardly a worthwhile test of my abilities. Ha! A one-armed child who dares to think she can be a threat to me."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.123–124).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:44`
+
+What it shows (our notes): Tamith Kai's blue-black lightning.
+> "You have been around those twin Jedi brats too long," Tamith Kai said. 'You've learned disrespect for your superiors." The Nightsister jabbed the air with her fingers and sent a bolt of blue-black lightning toward the warrior girl from Dathomir.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.124).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:45`
+
+What it shows (our notes): Tamith Kai's blind blast throws the stormtroopers away from her.
+> The Nightsister crashed among the stormtroopers and Lowbacca, who snarled at her. Stormtroopers rushed the Wookiee, trying to drag him down, but Tamith Kai blindly released her anger, blasting them all away from her.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.126).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:48`
+
+### Limitations and anti-feats (Jedi Under Siege)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — A Force nudge topples Tamith Kai off the command deck.
+> Tenel Ka feinted with her lightsaber and then, completely without warning, used the Force to reach forward like an outstretched hand. She nudged the Nightsister, pushing her just enough that she stumbled over the edge. With a wild shriek, Tamith Kai toppled backward. Bolts of blue lightning sprayed harmlessly into the sky and barely missed a heavily armored TIE bomber that swooped overhead.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.125–126).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:47`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka sweeps Tamith Kai to the deck bare-handed.
+> With that, her left foot flashed out, swept around, and caught Tamith Kai just behind her heel. At the same time, Tenel Ka slammed her palm into the center of the Nightsister's chest and pushed forward, toppling her opponent to the deck.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.128).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:50`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 63 (50 with quotations; 18 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 5: Darkest Knight (full read).
+- **Entries:** 65 (52 with quotations; 20 quotations extended to the full sentence/passage from the source text on file; 8 marked as fragments; 14 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 56 old entries; old file: `characters/_bak/tionne.md.bak-20261117`. Added 2026-11-19: 7 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -591,6 +591,31 @@ What it shows (our notes): Tionne surprises Tenel Ka with an unsensed counteratt
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 1 (p.12).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-01.md:15`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tionne senses the landing field will be under attack.
+> Without waiting for a translation, Tionne said, "We can still return to the Jedi academy, but we should leave the T-23 at the edge of the jungle. I have a feeling it's not safe to approach the temple landing field or the hangar bay. It's bound to be under attack." She sat up straight between the two young Jedi trainees. "It has already begun."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 4 (p.28).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:25`
+
+What it shows (our notes): Tionne's students snatch four lightsabers with the Force and hold a slab weighing many tons over the Dark Jedi; her bluff wins their surrender.
+> "Now!" Tionne shouted. From their shadowy hiding places, four of her special students reached out with the Force: in an unexpected, irresistible move, they snatched the four lightsabers from enemy hands. The Dark Jedi cried out in alarm and surprise at losing their weapons. Then Tionne and her students emerged from the underbrush and surrounded them.
+>
+> "I wouldn't do that if I were you," Tionne said calmly, letting her pale lips show a brief smile. "You wouldn't want to distract us—a brief fluctuation in our concentration might become a crushing defeat for you."
+>
+> The Dark Jedi looked up and saw that the marble slab they had thought to be the ceiling of a crumbling temple was completely unsupported, a hovering rectangle of rock weighing many tons, balanced over their heads. It floated, held up by nothing but the power of the Force. Tionne's students maintained their concentration.
+>
+> "You can try to escape if you like," Tionne said. "Maybe you have enough power to subdue all of us with enough left over to catch that block of stone before it falls down on your heads. Maybe." She shrugged. "It's your choice, of course. But I wouldn't risk it."
+>
+> The four Dark Jedi exchanged glances, unable to find words. Finally, one by one, they lowered their clenched hands and surrendered.
+>
+> Tionne heaved a quiet but heartfelt sigh of relief.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 8 (p.67–69).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:62`
+
 
 
 

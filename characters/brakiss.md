@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 116 (103 with quotations; 56 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 5: Darkest Knight (full read).
+- **Entries:** 128 (115 with quotations; 68 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -797,6 +797,115 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — The Emperor calls Brakiss 
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 14 (p.157–159).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:30`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Brakiss senses the whole station's preparations, its dedication and its fear.
+> Though he stood isolated here, he could sense the accelerating preparations affecting everyone in the spiked station; tensions mounted, as did hunger for battle. In the undercurrent of swirling thoughts, he clearly felt the troops' dedication to the Second Imperium's great leader. Emperor Palpatine. He also detected an undertone of anxiety over the coming attack, but this only made his lips curl upward. Fear would give an added edge to their fighting abilities, enough to make them cautious . . . but not enough to paralyze them.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.12).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:15`
+
+What it shows (our notes): Brakiss couldn't fool Luke; he dabbled in the dark side enough to found his own academy.
+> Brakiss longed to see Luke Skywalker defeated. Years ago, he had infiltrated the Jedi academy as a student to absorb the methods the New Republic taught, then bring them back to the remnants of the Empire. But Brakiss hadn't been able to fool the Jedi Master. Instead, Skywalker had tried to turn him away from his devotion, undermine his dedication to the Second Imperium. Skywalker had tried to "save" him—he thought with a sneer—and Brakiss had fled.
+>
+> But because of his willingness to dabble in the dark side, Brakiss had by then learned enough to form his own Dark Jedi training center.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.12–13).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:16`
+
+What it shows (our notes): Brakiss: 'weakling do-gooder Jedi'; the Emperor warns against overconfidence.
+> Brakiss bowed again, clasping his hands in front of him. "I understand, my lord. But let us withhold the military strike force for our next major assault on the more heavily guarded worlds of the Rebel Alliance. On Yavin 4, we have only a few weakling do-gooder Jedi to deal with. They should cause no problem for my Force-trained soldiers."
+>
+> Inside his shadowy cowl, the Emperor looked skeptical. "Do not let your overconfidence betray you."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.14).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:17`
+
+What it shows (our notes): Brakiss's spiked lightsaber; 'such a waste of effort.'
+> "I did not come here to banter with you. If you won't be sensible and surrender, then I must defeat you and take the rest of your Jedi academy by force." He withdrew a lightsaber from the silvery sleeve of his robe. Long spikes like claws surrounded the energy blade that extended as he pushed the power button. Brakiss heaved a quick sigh. "This seems like such a waste of effort."
+>
+> Brakiss shrugged. "As you wish. Then I'll cut you down where you stand. That makes it easier on me." He stepped forward and swung his blade.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.142–143).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:61`
+
+What it shows (our notes): Brakiss: Luke was only partially trained; he has looked behind doors Luke locked.
+> Brakiss laughed mockingly. "And who's going to teach me—you? I no longer recognize you as a Master, Luke Skywalker. There is so much more that you yourself don't know. You think I'm weak because I left here before I completed my training? Who are you to talk? You were only partially trained yourself. A short time with Obi-Wan Kenobi before Darth Vader killed him, then a brief time with Master Yoda before you left him . . . you even came close to true greatness when you went to serve the resurrected Emperor—and you backed away. You've never completed anything!"
+>
+> "You taught that becoming a Jedi is a voyage of self-discovery," Brakiss said. "I have continued that self-discovery since I left here. I abandoned your teachings, but I found more, much more. My self-discovery has been vastly greater than your own, Luke Skywalker, because you have locked many important doors to yourself." He raised his eyebrows and his eyes glinted a challenge. "I have looked behind those doors."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.143–144).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:63`
+
+What it shows (our notes): Brakiss attacks with growing fury, opening himself to anger.
+> "Watch me," the Master of the Shadow Academy said. He attacked with greater fury, opening himself up to anger so that his viciousness grew as he struck again and again.
+>
+> Brakiss merely laughed. His perfect blond hair was tangled and plastered to his head with perspiration. "Skywalker, how many times will you try to turn me? Even after I fled your teachings, you pursued me. Don't you know when you have lost?"
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.145).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:64`
+
+What it shows (our notes): Brakiss shears a temple pillar clean through.
+> Now Brakiss took a different tack, whirling around. Instead of striking at Luke, he slashed one of the tall temple pillars, a cylinder of marble etched with ancient Sith symbols and Massassi writings. Sparks flew from the blow, and the lightsaber sheared the column completely through. Gravity, clinging vines, and the overhanging stone made it unstable.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.146).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:65`
+
+What it shows (our notes): Brakiss Force-blows the door circuits and wrenches the door aside bare-handed, right after striking down two red guards in under a second. The guard kill (READ l.1024–1030) is already quoted word for word in this file, in the Brakiss respect-thread notes under 'Debate and forum claims', so it is not repeated here; see jus-03 for the full passage.
+> He activated the sealed door mechanism. The security pass codes argued with him, so he used the Force to blow out the circuits. With his bare hands he wrenched the stubborn door aside, then strode into the Emperor's private chambers.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.166).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:18`
+
+What it shows (our notes): Brakiss cuts down the third guard: 'Now the Empire has truly fallen.'
+> The Master of the Shadow Academy stepped deeper into the chamber, his lightsaber glowing with deadly, cold fire. "You tricked us," he said, still in the grip of incredulous horror. "You tricked me—me! I was one of the Emperor's most dedicated servants, but I served a lie. There was never any chance for the Second Imperium, and now we are being destroyed here because of you! Because of poor planning. Because there is no dark heart to the Second Imperium."
+>
+> Blinded by rage again, Brakiss flowed forward like an avenging angel, his lightsaber held high. The red guard staggered away from his controls, reaching into his scarlet robes to withdraw a weapon—but Brakiss didn't give him the chance.
+>
+> He cut down the third Imperial guard, who fell smoking and lifeless onto the array of controls that had created the fake Emperor. The illusion had cheated Brakiss, and the Shadow Academy, and all his Dark Jedi . . . everyone who had devoted their lives to recreating the Empire.
+>
+> "Now the Empire has truly fallen," he said, his voice hoarse and husky, his face haggard. He was no longer calm, like a statue, no longer a well-polished representative of perfection.
+>
+> Hearing a noise outside the chopped-open door to the isolation chamber, Brakiss turned to see a flash of red—the fourth and final member of the group of charlatans. Brakiss moved slowly, feeling stiffness and pain, utterly discouraged—but he could not let this last one get away. His honor demanded that the deceivers pay. Brakiss rushed after him.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.170–171).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:20`
+
+### Limitations and anti-feats (Jedi Under Siege)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Beaten, Brakiss begs for his life and flees on a hidden repulsorpack.
+> The Master of the Shadow Academy held up his hands and staggered back. "Don't kill me, Skywalker! Please don't kill me!"
+>
+> The terror on Brakiss's face seemed all out of proportion to the threat. Surely the shadow Jedi knew that Luke Skywalker was not the type to strike down an unarmed enemy in cold blood. Brakiss clutched at his silvery robe, fumbling with the fastenings.
+>
+> Brakiss let his robes fall away, revealing a jumpsuit and repulsorpack. "No. I have other business to attend to," he said, and ignited the repulsorjets.
+>
+> As Luke stared in astonishment, Brakiss rocketed skyward, flying high out of reach. The Dark Jedi instructor must have landed his ship somewhere nearby, Luke realized, and he would no doubt head directly back to the Shadow Academy.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 17 (p.148).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:68`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss cannot reach the cold calm his fullest powers need; Skywalker's calming techniques fail too.
+> His heart still pounded from his lightsaber battle with Skywalker down at the temple ruins. His thoughts spun, filled with the resonating words of his former Master. Anger and despair swirled like an uncontrollable storm through his mind, through his emotions.
+>
+> Every method he knew failed to bring his thoughts back to the cold, quiet levels he required to draw on his fullest powers.
+>
+> Brakiss even attempted to use some of the hated calming techniques Skywalker had shown him back in his incognito student days—but nothing worked.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.161–162).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:17`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The red guard's astonishing speed; Brakiss cannot Force-freeze him.
+> With purposeful steps, Brakiss charged after the man. The red guard moved with astonishing speed, fleeing the restricted area and dashing down the empty corridors of the Shadow Academy. Brakiss ran, but the red guard knew exactly where he wanted to go. Exactly.
+>
+> Arriving at the docking bay door, Brakiss shouted, "Stop!" He held his lightsaber high, wishing he could use the Force to make the guard freeze in his tracks, to follow the command—but the charlatan did not hesitate. He dove into the lone shuttle, raised it on its repulsorlifts, and punched the code to release the magnetic atmosphere containment field.
+>
+> He felt completely alone on the Shadow Academy. An utter failure. Everything he had tried had backfired on him. And this was the final insult: tricked by a . . . guard.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 19 (p.172–173).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:21`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 227 (171 with quotations; 127 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read).
+- **Entries:** 243 (187 with quotations; 143 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2586,6 +2586,147 @@ What it shows (our notes): Brakiss: Zekk is 'an instrumental fighter in our gran
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.209).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:47`
+
+## Young Jedi Knights 6: *Jedi Under Siege* (Kevin J. Anderson & Rebecca Moesta, 1996): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): The battle lust sets the lines of Force around Zekk on fire.
+> FROM THE SHADOW Academy's crowded hangar bay, Zekk watched the final preparations for the attack. The frenzy of bustling troops, mixed with their brooding anger and lust for destruction, galvanized him. He felt as if the lines of Force around him had been set on fire.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.35).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:30`
+
+What it shows (our notes): Brakiss's prize student killed Vilas in a duel to the death; Tamith Kai senses his doubts.
+> Zekk tended to his own duties. He himself had been a target of Tamith Kai's suspicious thoughts. The Nightsister didn't trust him. She felt that his commitment to the dark side wasn't strong enough, that he was blinded by his former friendship with the Jedi twins, Jacen and Jaina Solo.
+>
+> Zekk had been trained as the prize student of Lord Brakiss, and had defeated the Nightsister's own protege Vilas in a duel to the death. By winning the duel, Zekk had gained the title of Darkest Knight. And Tamith Kai—perhaps because she was simply a sore loser, or perhaps because she sensed his flickering doubts—rarely let him out of her sight.
+>
+> But Brakiss had given him command of the Shadow Academy's new Force-wielders who would be the vanguard of the battle to reclaim the galaxy. He himself would lead the Dark Jedi strike force, dropping like death from the skies to obliterate Master Skywalker's trainees.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.36–37).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:32`
+
+What it shows (our notes): Zekk leads the Dark Jedi's repulsorpack drop, steering with the Force.
+> Zekk clapped his gloved hands, ordering the Dark Jedi to stand in ranks. "The repulsorpacks will carry you," he said, "but use your Force abilities to guide your descent. We must strike directly. These are our sworn enemies, Luke Skywalker's Jedi Knights. The future of the galaxy hinges on our victory today"
+>
+> "All right, my Dark Jedi," Zekk shouted into the howling wind. "The hour is ours. Depart!" Leading the charge, he dove into the sky, switched on his repulsorpack, and tumbled toward the unprotected Jedi academy.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 5 (p.44–46).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-01.md:36`
+
+What it shows (our notes): Zekk proved his potential; Vilas paid with his life.
+> Zekk knew little about politics. He understood only who his friends and supporters were—and who had betrayed him. Like Jacen and Jaina . . . especially Jaina. He had thought she was his friend, a close companion. Only later, after Brakiss had explained it, did Zekk understand what Jaina really thought of him, how easily she dismissed his Jedi potential and the possibility that he might be an equal to her and her highborn twin brother. But Zekk did have the potential, and he had proved it.
+>
+> In spite of this, he hoped Jacen and Jaina would not fight him, because then he would have to demonstrate his power—and his loyalty to the Second Imperium. He remembered his first test against Tamith Kai's prize student Vilas, and Vilas had paid with his life.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.97–98).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:21`
+
+What it shows (our notes): Zekk and three Dark Jedi use anger to conjure a storm, lightning and all, from a clear sky.
+> Zekk stood beside his Dark Jedi companions on the riverbank. The other fighters exchanged glances and pointed skyward. Zekk nodded, knowing what they wished to do. "Yes," he said. "Let us conjure a storm, a great wind to knock the jungle flat and send these Jedi cowards scurrying."
+>
+> He looked up into the clear blue skies and reached deep within his heart, finding a shadow of anger, the pain he had felt in his life. He knew how to use anger as a tool, a weapon. Zekk gathered the winds. Beside him, he felt the other dark-side warriors doing the same, drawing thunderheads until lumpy black clouds rolled in from the horizon.
+>
+> The wind picked up and grew colder, charged with static electricity. Zekk's scarlet-lined cape rippled around him. Stray strands of his dark hair whipped around his face as the wind snatched them free of his ponytail. Flashing bolts of lightning skittered from one thunderhead to another. The rumble of noise drowned out even the sound of TIE fighters crisscrossing overhead.
+>
+> Zekk smiled. Yes, a storm was coming, a victorious storm.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.98–99).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:22`
+
+What it shows (our notes): Zekk Force-grabs Raynar and hurls him over his companions into the river.
+> Thinking quickly, before his two companions could drive in and make short work of Raynar, Zekk reached out with the Force, grabbed the boy by his bright robes, and yanked him off his feet. With a flick of his mind, he hurled Raynar over the heads of his companions, tossing him out into the river. Raynar yowled as he flew, then plunged belly-first into the thin, muddy waters.
+>
+> "It is a greater victory to utterly humiliate your enemy than simply to kill him," Zekk said. "And we have humiliated this Jedi in a way he will never forget."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.102–103).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:25`
+
+What it shows (our notes): Jedi instincts: Zekk dodges and cuts a leaping rodent in half; his split cheek's pain feels distant.
+> Suddenly, just ahead of him, a knee-high rodent sprang from the underbrush, its claws extended. Zekk's Jedi instincts automatically took over.
+>
+> In one smooth movement Zekk withdrew his lightsaber and threw himself sideways out of the creature's path. His cheek split open as it smashed against the purplish-brown trunk of a Massassi tree; his thumb pressed the lightsaber's ignition stud at the same moment. Before Zekk could even blink or breathe, the blood-red blade sprang forth—and sliced through the rodent in mid-leap. With a shriek that broke off abruptly, the two smoking halves of the creature fell to the forest floor.
+>
+> It reminded him of how he had killed Tamith Kai's student Vilas in the zero-gravity arena aboard the Shadow Academy station—not a memory that comforted him.
+>
+> Blood trickled from the cut on Zekk's cheek, but the pain was too distant, too far away for him to feel. His ability with the Force had protected him just now—after all, he was a Dark Jedi. But what about his companions from the Second Imperium? What of their powers? Why had it all gone wrong? For today he had seen his Dark Jedi, one after another, lose their battles or be captured by Skywalker's trainees.
+>
+> He had a terrible suspicion that only he remained.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.176–177).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:26`
+
+What it shows (our notes): With their dark-side training they 'should have had no problem'; each victory was short-lived.
+> Oh, the dark side had had its victories. The commando Orvak had obviously succeeded in destroying the shield generators and had no doubt moved on to the next step in his mission. And there had been other times during the day when Zekk had felt the Shadow Academy trainees achieve surges of victory. But each victory had been shortlived.
+>
+> Brakiss, Tamith Kai, he, and his companions had all been so certain of a quick, decisive triumph. With their training in the dark side, they should have had no problem, Zekk told himself. Wasn't that what Brakiss had taught?
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.177–178).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:27`
+
+What it shows (our notes): Zekk feels Brakiss's despair as the Shadow Academy explodes.
+> Brakiss. The name whispered now in Zekk's mind. He knew that the Master had been aboard the Shadow Academy when it blew up. He could feel it. He had felt his teacher's despair—his mind crying out.
+>
+> The silvery-robed Jedi had taken Zekk in when the young man had had no hope for his future and no purpose. Brakiss had trained Zekk, given him purpose, direction, position, and skills to be proud of. At the Shadow Academy Zekk had belonged. He had been its Darkest Knight.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.179).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:28`
+
+What it shows (our notes): Zekk sizes up the wounded trainees, judging how many he could kill.
+> Zekk's eyes darted from side to side, as if he were assessing the strength of the Jedi trainees, with their various wounds, wondering how many he could kill before they took him down.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 22 (p.193).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:40`
+
+What it shows (our notes): Zekk: trained as a Dark Jedi; Brakiss gave him skills and a purpose.
+> Zekk wiped his hand on his tattered cape. "I'm a different person now than the uneducated street kid you knew on Coruscant. I don't belong there anymore. Where could I belong? I've been trained as a Dark Jedi." His expression turned bleak. "And now my teacher is dead, too. He taught me and believed in me, gave me skills and a purpose."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 22 (p.195).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:41`
+
+What it shows (our notes): Zekk's eerily smooth draw; his lunging attack on Jaina.
+> Zekk shook his head. "You never did listen to my advice. You always thought you knew better." Despite his obvious agitation, Zekk's movements were eerily smooth as he drew his lightsaber from his belt and ignited the glowing red blade with a snap-hiss.
+>
+> "You see, Jaina," he said, taking a step toward her and twitching his energy blade from side to side, "once you let it in, the dark side is like a disease for which there's no cure." He lunged toward her, and their two blades met in a sizzling struggle of red against violet. "And the only way to remove the disease"—he lunged again and again and Jaina parried—"is to"—thrust —"cut"—thrust—"it"—thrust—"out!"
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 22 (p.196–197).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:42`
+
+What it shows (our notes): Zekk: 'The dark side is like a scar that's on the inside.'
+> THE BUZZING HUM of Zekk's lightsaber filled Jaina's ears as her former friend brought it slowly down toward her neck. "You never understood, Jaina. . . . You can't understand. You've always been so protected. The dark side is like a scar that's on the inside."
+>
+> Zekk's eyes locked with hers. His hand remained steady, and he began speaking in a low voice, his words barely audible. "But these are scars that can't be healed," he went on. "You can try to cover them up"—hum; buzz —"but they're still there . . . underneath."
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 24 (p.203).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:52`
+
+### Limitations and anti-feats (Jedi Under Siege)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk's concentration falters at the sight of Peckhum's ship and the storm breaks loose.
+> His heart sank, and a wrenching dismay filled his stomach. His concentration on the storm faltered.
+>
+> In the backlash, winds whipped the trees closer to him, blowing back branches as the other Dark Jedi struggled to retain control of the gusting squall.
+>
+> He heard shouts of surprise next to him as the Dark Jedi Knights completely lost control of the gathering storm. The winds continued to snap branches and uproot saplings, then gradually dissipated as the dark-side warriors stopped manipulating the weather.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.100–101).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:23`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk senses no pursuit but fears light-side tricks that could hide them from him.
+> AS HE PLODDED ahead, Zekk could barely see two meters in front of himself in the murk of Yavin 4's unfamiliar jungle. Dense underbrush tore at his hair and cape, and his breath came in ragged gasps. His pony-tail had come entirely undone. Still Zekk pushed on. Occasionally he glanced back over his shoulder to see if any of Skywalker's Jedi trainees were pursuing him. He sensed no one following, but he couldn't be sure. Who knows? he thought. They might have light-side tricks he had never heard of, ways to keep him from sensing their presence.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 20 (p.175).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:25`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The rockfall is faster than Zekk can dodge; he knew about the bomb and saved them.
+> Zekk ran for cover, too, but the hailstorm of rock moved faster than he could dodge. A large chunk of stone struck him in the head, while other fragments pummeled his body. As Jaina watched the dark-haired young man sink to the ground, it came to her in a flash: he had known.
+>
+> Zekk had known the temple was going to blow up.
+>
+> And he had saved them all.
+— Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 24 (p.205).
+(Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:53`
+
 
 
 
