@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 1038 (408 with quotations; 29 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
+- **Entries:** 1043 (413 with quotations; 34 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -5300,6 +5300,67 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Surprised by Zekk's attack
 — Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.193–194).
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:63`
+
+## Young Jedi Knights 8: *Diversity Alliance* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Fett's self-confidence shows even through his armor; he has the charisma of a great leader.
+> Beside the bounty hunter, claws extended, Hovrak walked like a security escort. But Boba Fett exuded such self-confidence, even through his Mandalorian armor, that any idea of his following anyone was ludicrous.
+>
+> Nolaa admired him for that self-assurance and enigmatic charisma.
+>
+> Why he kept to himself—hiring out only as a bounty hunter, when he could have been a great leader—was a mystery to her. Ah, well, she thought, every creature has different goals.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.12).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:21`
+
+What it shows (our notes): Fett, as dangerous as a tightly coiled spring: 'Few have shot at me and lived'; 'Then you fired upon me with honor.'
+> Zekk could read no expression on the helmet-encased face, but he sensed a tension and a wariness in the bounty hunter’s movements. Fett stalked forward, as dangerous as a tightly coiled spring.
+>
+> “I recognized your ship as it flew over,” Boba Fett said. “You are the one who fired on me in the Alderaan rubble field.” He paused.
+>
+> “Few have shot at me and lived.”
+>
+> Boba Fett stood straight, as if taken aback. He raised his blaster pistol a little, slightly off target from Zekk. “Then you fired upon me with honor,” he said. “Understandable.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.95–96).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:43`
+
+What it shows (our notes): The Bounty Hunters Creed; 'Had I truly intended to hit you, I would have succeeded'; Fett deduces the plague is short-lived and tosses a body aside like laundry.
+> Fett snapped up his blaster pistol, then holstered it. “Your mission does not conflict with mine. No bounty hunter may kill another on a hunt unless they are direct rivals Bounty Hunters Creed. I will not harm you.”
+>
+> “Had I truly intended to hit you, I would have succeeded,” Boba Fett said.
+>
+> “My sensors indicate that the plague organism has died out,” Fett answered.
+>
+> “I deduce that the strain was fast-burning and short-lived.”
+>
+> Boba Fett nonchalantly yanked a body out of one chair as if it were no more than dirty laundry, then seated himself in front of a terminal. Zekk took his position at another screen, happy to see that the backup systems and the power grid remained functional. After a rapid search, he began to download the last few files in the logbooks.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.97–99).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:45`
+
+What it shows (our notes): 'Never cross Boba Fett.'
+> Fett spun about and began to march out of the brig. At the door, he paused, turning his sinister helmet toward Zekk. “It is against my principles to offer information at no charge, but remember this: Never cross Boba Fett.” He checked the blaster pistol at his side. “Follow that advice, and you may survive to become a great bounty hunter.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.103).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:47`
+
+### Limitations and anti-feats (Diversity Alliance)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — 'A temporary setback': Nolaa's spies say the Solo children foiled Fett and he fled in defeat; 'I am the best. I will succeed.'
+> “A temporary setback,” Fett said, his voice carefully neutral. “I encountered the children of Han Solo; they were unable to provide the information I required. I have other leads.” He paused for a moment.
+>
+> More to the point, Nolaa’s spies had reported that Jacen and Jaina Solo and their friends had actually foiled Fett out in the Alderaan rubble field, and he had fled in defeat. But she did not mention this.
+>
+> The bounty hunter knew he had failed thus far, and so did she.
+>
+> “Send out whomever you like, but I shall find Bornan Thul,” Fett said. His brusque tone was not threatening, but simply confident.
+>
+> “I am the best. I will succeed. The others will fail.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.12–13).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:22`
+
 
 
 # CANON (Disney canon — kept separate)

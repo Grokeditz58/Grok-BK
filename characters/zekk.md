@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 252 (196 with quotations; 152 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
+- **Entries:** 260 (204 with quotations; 160 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2818,6 +2818,77 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk's premonition about S
 — Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 12 (p.123–124).
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:17`
+
+## Young Jedi Knights 8: *Diversity Alliance* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Zekk's emerald eyes silence those who mock him; he could use the Force but fears the dark side.
+> Many people laughed at his youthful optimism and his battered ship. Zekk fought hard to keep his anger in check, but when his emerald eyes flashed, most of those who had joked at his expense fell silent and turned away. Naturally, Zekk could tap into the Force if he wanted to, but it frightened him to do so.
+>
+> He dreaded the possibility of slipping again into the endless gulf of the dark side, a place from which he knew he would never escape a second time.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.34).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:45`
+
+What it shows (our notes): Zekk: 'most of them aren't as good as I am'; he snaps to alert at alarm-like music.
+> “Yes. And you do know that most of them aren’t as good as I am, now don’t you?” Zekk countered.
+>
+> Suddenly loud sirens erupted, along with clanging, whoops, flashing lights, and tinging bells. Zekk jumped to attention, fully alert and ready to defend himself. “What is it? What happened? Is that an alarm?”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 6 (p.35).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:46`
+
+What it shows (our notes): Brief twinges through the Force confirm that Fonterrat came to Gammalin; a tingle warns Zekk to be cautious.
+> And Zekk’s own brief twinges through the Force told him that Droq’l must be right. But if so, where was everyone?
+>
+> A tingle ran down his back, echoes of the Force warning him to be cautious.
+>
+> This place did not look right. Did not feel right.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.51).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:60`
+
+What it shows (our notes): A sharp tingle of warning: Zekk whirls aside as Fett's bolt fuses the sand to glass.
+> Feeling a sudden sharp tingle of warning, Zekk whirled in his bulky suit and stumbled to one side just as a blaster bolt struck the ground at his feet, fusing the sand into a lump of molten glass.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.52).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:61`
+
+What it shows (our notes): Through his Force senses Zekk can tell that Fett is sincere.
+> Zekk couldn’t believe what he was hearing, but through his Force senses he could tell that Fett was sincere. He took a gamble.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.96).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:44`
+
+What it shows (our notes): Zekk nudges the cell's code with the Force to unlock it.
+> Zekk worked the controls outside the cell door. They were simple enough, but he used the Force to nudge the code and unlock the security systems. As the door swung open, Zekk stepped in, uneasy with anticipation. His breath echoed in his helmet.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.101).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:46`
+
+What it shows (our notes): Fett to Zekk: 'Never cross Boba Fett … you may survive to become a great bounty hunter.'
+> Fett spun about and began to march out of the brig. At the door, he paused, turning his sinister helmet toward Zekk. “It is against my principles to offer information at no charge, but remember this: Never cross Boba Fett.” He checked the blaster pistol at his side. “Follow that advice, and you may survive to become a great bounty hunter.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.103).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:47`
+
+### Limitations and anti-feats (Diversity Alliance)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk can't run in his environment suit, can't draw in time, doubts he could outshoot Fett, and surrenders.
+> Unable to run in his unwieldy suit, he staggered against a railing outside one of the prefab buildings and saw the helmeted form of Boba Fett stride out from a sheltered doorway.
+>
+> The bounty hunter pointed his heavy blaster directly at Zekk.
+>
+> Zekk had a weapon attached to his suit, but he would never be able to draw it in time… and he doubted he could shoot faster or more accurately than the fearsome mercenary Boba Fett.
+>
+> Slowly, he raised both of his gloved hands in surrender.
+>
+> “I had thought no one remained alive on this world,” Boba Fett said in a rough voice filtered through the speaker in his sealed Mandalorian helmet. “But I see I was wrong.
+>
+> And now you are my captive.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.52–53).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:62`
+
 
 
 

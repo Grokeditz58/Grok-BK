@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 72 (69 with quotations; 15 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
+- **Entries:** 77 (74 with quotations; 20 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2007,6 +2007,55 @@ What it shows (our notes): Raynar and Tenel Ka catch Jacen on a cushion of air.
 — Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.91–92).
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:59`
+
+## Young Jedi Knights 8: *Diversity Alliance* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Raynar meditates, using the Force to reach out for his father.
+> “I was meditating… using the Force to reach out with my mind. I thought maybe I could find out something about where my father went.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.6).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:15`
+
+What it shows (our notes): Luke senses Raynar's weakness; Raynar calms himself with a Jedi relaxation technique.
+> Dismayed that Master Skywalker had sensed this weakness in him, Raynar’s first impulse was to draw himself up and make some sort of haughty reply to indicate that he was fully in control of himself. But instead, he took another deep breath, this time a calming one, as part of a Jedi relaxation technique—opened his eyes, and nodded. A true Jedi had little need to lie, or even pretend. In this case, he knew the only one he could fool would be himself.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.23).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:31`
+
+What it shows (our notes): Tyko: Raynar 'surpasses most of your other students'; Luke: 'more Jedi potential than even he is aware of'.
+> “Success seems to come naturally to my family. To me, to my brother—I daresay you’ve noticed it even in Raynar. I’m certain he quite surpasses most of your other students in sheer Jedi ability.”
+>
+> “Raynar is a unique and earnest student who has more Jedi potential than even he is aware of.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.24–25).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:32`
+
+What it shows (our notes): Raynar struggles through the Force to make Kusk's blaster wobble, then joins the Force disarm.
+> The blaster, however, seemed to have a mind of its own. It raised and lowered and wobbled and dipped while Kusk wrestled to hold it steady. Obviously, Raynar was struggling through the Force to get a grip. on Kusk’s weapon.
+>
+> Sliding his comlink through a loop in his belt, Kusk faced the door, only mildly surprised by the intruders. His lip curled in a sneer. “I don’t really think three children and a woman can do much to thwart the plans of a trained killer and a seasoned bounty hunter.” He turned back toward his quarry. Aryn Thul glared contemptuously at the traitorous guard.
+>
+> Raynar squared his shoulders. “Maybe not,” he said. “But there’s a great deal that three Jedi can do.”
+>
+> As the guard snorted in disdain, another hammer blow from the attacker struck the Tradewyn. Taking advantage of the distraction, Jacen administered a hard Force shove against the guard’s back. At the same moment Tenel Ka lifted Kusk a few centimeters off the floor with her mind, throwing him off balance.
+>
+> Raynar held out one arm, and the astonished guard’s blaster finally spun from his grasp into the young man’s Outstretched hand.
+>
+> Open-mouthed, he retreated as if pulled by invisible strings until his back pressed against the hull of the Rock Dragon.
+>
+> “How did you do that?” he rasped.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.33).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:39`
+
+What it shows (our notes): Raynar: 'These are young Jedi Knights. They fought against the Shadow Academy and won.'
+> “It’s a very kind offer, but I’m afraid I can’t let you children—” “Mother,” Raynar interrupted, “they’re not children. These are young Jedi Knights.
+>
+> They fought against the Shadow Academy and won.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 7 (p.41).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:52`
+
 
 
 

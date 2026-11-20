@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 322 (251 with quotations; 212 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
+- **Entries:** 333 (262 with quotations; 223 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2830,6 +2830,131 @@ What it shows (our notes): Tenel Ka senses that Fett has withdrawn, though not h
 — Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20, 21 (p.197–209).
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:67`
+
+## Young Jedi Knights 8: *Diversity Alliance* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka keeps her muscles at peak with daily calisthenics; Jacen can't keep up.
+> Tenel Ka, who technically owned the ship, preferred instead to be out running, doing her exercises, toning up her body and keeping her muscles at their peak performance. Ever since she had lost her arm in a lightsaber dueling accident, Tenel Ka had taken to swimming in the river as often as she could.
+>
+> Jacen loved to spend time with the warrior girl, but he couldn’t keep up with her calisthenics.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.5).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:14`
+
+What it shows (our notes): Tenel Ka, used to traitors, kidnappers and assassins at the Hapan court: 'I will not allow the Rock Dragon or anyone in her to come to harm.'
+> “Jacen, my friend, I am used to dealing with traitors, kidnappers, and assassins.
+>
+> The Hapan court is filled with them.” One corner of her mouth quirked upward. “In fact, some of the most skilled ones are my relatives. I will not allow the Rock Dragon or anyone in her to come to harm.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 3 (p.16).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:26`
+
+What it shows (our notes): Tenel Ka also feels that something is wrong during the ambush.
+> Beside him, Tenel Ka stood up straighter and glanced around as if searching for something. Their eyes met. She felt it too.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.30).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:37`
+
+What it shows (our notes): With Jacen and Raynar, Tenel Ka disarms the 'trained killer' Kusk with the Force.
+> Sliding his comlink through a loop in his belt, Kusk faced the door, only mildly surprised by the intruders. His lip curled in a sneer. “I don’t really think three children and a woman can do much to thwart the plans of a trained killer and a seasoned bounty hunter.” He turned back toward his quarry. Aryn Thul glared contemptuously at the traitorous guard.
+>
+> Raynar squared his shoulders. “Maybe not,” he said. “But there’s a great deal that three Jedi can do.”
+>
+> As the guard snorted in disdain, another hammer blow from the attacker struck the Tradewyn. Taking advantage of the distraction, Jacen administered a hard Force shove against the guard’s back. At the same moment Tenel Ka lifted Kusk a few centimeters off the floor with her mind, throwing him off balance.
+>
+> Raynar held out one arm, and the astonished guard’s blaster finally spun from his grasp into the young man’s Outstretched hand.
+>
+> Open-mouthed, he retreated as if pulled by invisible strings until his back pressed against the hull of the Rock Dragon.
+>
+> “How did you do that?” he rasped.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.33).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:40`
+
+What it shows (our notes): Tenel Ka leaps in front of the combat arachnid and severs a footpad, then another leg, with her lightsaber.
+> “I will provide us with more light as well,” Tenel Ka said. She removed her lightsaber and gripped its intricately carved bone-white handle. She pushed the power stud, and her brilliant turquoise energy beam flashed out like a javelin made of light, dazzling them all.
+>
+> The creature charged toward them, a huge battering ram of spined legs, jointed footpads, an armored body core, and fangs… many fangs. The thing seemed as large as an Imperial scout walker.
+>
+> Tenel Ka leaped in front of the beast as the other young Jedi Knights fell back, scrambling for their lightsabers.
+>
+> The warrior girl held her lightsaber upright, her jaw set, her face grim.
+>
+> She swept the blade back and forth, ripping a gash of light through the air.
+>
+> “Stay back!” she snarled.
+>
+> The monster reached out with a long clawed foreleg, trying to grab Tenel Ka, but she slashed low, slicing off its footpad. The creature bellowed and reared back, jabbing its spined legs at her like an armful of lances. Slashing again, the warrior girl drove in and severed another of its many legs.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.67–68).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:11`
+
+What it shows (our notes): 'You can use the Force to help you balance': Tenel Ka stands perfectly balanced on the chain while Jacen struggles.
+> Tenel Ka strode to the thick corroded chain and grasped it with her one arm.
+>
+> “You can use the Force to help you balance, my friend Jacen,” she said. “If you concentrate, it will be no worse than walking on a forest path.”
+>
+> Tenel Ka stood easily on the rusty chain, legs spread, perfectly balanced in her glittering lizard-hide armor. She reached down and grabbed hold of Jacen.
+>
+> With fluid Wookiee grace, Raaba began to sprint across the incredible drop as if the sagging chain were a rope bridge. Her heavy footsteps sent jolting vibrations along the links, and even with the Force, it was all Jacen could do to maintain his balance.
+>
+> He crept along one tiny step at a time.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.79–81).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:24`
+
+What it shows (our notes): Tenel Ka's arm shoots out like lightning to catch Jacen, and together they draw on the Force to bring him back up.
+> The shock wave from the explosion hurled Jacen sideways. He spun, grabbed for balance, and then slipped from the chain but Tenel Ka’s arm shot out like lightning to seize him by the elbow and halt his terrible fall.
+>
+> Spurred by the thought of all that open air below, Jacen and Tenel Ka drew on the Force together to bring him back up again.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.83).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:28`
+
+What it shows (our notes): Tenel Ka cuts the chain anchor so the last arachnid falls.
+> With a final burst of speed, Lowbacca leaped the final several meters to the rooftop.
+>
+> The last combat arachnid charged forward like a landspeeder out of control, but Tenel Ka thought quickly, efficiently.
+>
+> In a flash of blazing turquoise, she swept her lightsaber downward to sever the ancient metal links that anchored the chain to the rooftop.
+>
+> Just as the combat arachnid reached out to grab for the companions, the chain broke free and fell away with the monster still clinging to it. The heavy links of corroded durasteel plummeted, carrying the unwilling passenger down, down, until it struck the far side of the amphitheater wall with enough force to squash the multi-legged creature.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.83–84).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:29`
+
+What it shows (our notes): Tenel Ka sleeps with a warrior's readiness, on the edge of full alertness, and springs up into her fighting stance.
+> Tenel Ka had quickly fallen asleep, using her warrior skills to snatch a moment of rest, storing her energy for whenever she might need it. Jacen could tell by the placement of her supple body, the ever-present tenseness in her limbs, and the rippling muscles beneath her smooth skin that the warrior girl was staying on the edge of full alertness. With only a moment’s warning, Tenel Ka would be wide awake again and ready for battle.
+>
+> As soon as Jaina raised her voice to say the words, Tenel Ka snapped out of her slumber. She sprang up from the ground, instinctively landing in her fighting stance.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.111).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:57`
+
+What it shows (our notes): Tenel Ka crosses her blade with Jacen's to block IG-88's laser-rifle bolt.
+> IG-88 himself clomped into the musty chamber and fixed his quarry with his flashing scarlet optical sensors. The chief droid swiveled his body core sideways, bringing up his arm and focusing its built-in laser rifle. He targeted on Jacen and fired.
+>
+> But Jacen reacted in a flash. Flowing with the Force, he brought up his lightsaber blade in the same instant that Tenel Ka reached out to protect him, crossing her turquoise blade with his emerald one.
+>
+> IG-88’s deadly bolt struck both lightsabers and ricocheted off, splashing its fire into one of the darkened side tunnels.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.117).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:63`
+
+### Limitations and anti-feats (Diversity Alliance)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The arachnid seizes Tenel Ka; 'The creature was too powerful.'
+> “Uh-oh, looks like we can’t get out,” Jacen said. He stood in front of his sister, his green lightsaber held high, but the combat arachnid swatted him aside, knocking him into Tenel Ka. In the instant the warrior girl lost her balance, the creature struck. It grabbed Tenel Ka and lifted her up into the air, ready to kill her.
+>
+> “No!” Jacen cried. “Tenel Ka!” He tried to reach the monsters mind through the Force, but the creature reared up and trumpeted a challenge.
+>
+> The enraged combat arachnid knocked him backward, its spined limbs jabbing like sharp spears in every direction. Its jaws clucked together, ready to shred flesh from Tenel Ka’s bones.
+>
+> Jacen didn’t think he could attack in time to save his friend. The creature was too powerful. It could sustain a great deal of damage and many more wounds before it suffered a mortal injury. Jacen drew a deep breath, determined to attack anyway.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.69–70).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:13`
+
 
 
 

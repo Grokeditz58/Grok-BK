@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 146 (132 with quotations; 99 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
+- **Entries:** 157 (143 with quotations; 110 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1896,6 +1896,105 @@ What it shows (our notes): In the ambush Lowie reacts 'with his Jedi senses' and
 — Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.138).
 (Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:27`
+
+## Young Jedi Knights 8: *Diversity Alliance* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Jedi-enhanced gunnery: Jaina and Lowie finish off the High Roller; Lowie's battle-ready reflexes.
+> When the weapons officer had been unable to score a hit on the swift High Roller from the control console, Tyko had called on Lowie and Jaina to assist him. The attacker’s ship had fired relentlessly at the bridge, darting and dodging all return fire—until Lowie and Jaina had joined the fray, with their Jedi-enhanced abilities.
+>
+> In the end, one of Jaina’s shots had taken out the High Roller, and the danger from outside was truly over. For the moment.
+>
+> Lowie’s battle-ready reflexes began to relax, but waves of tension still rolled from the quad laser emplacement where Jaina sat.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 7 (p.38).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:50`
+
+What it shows (our notes): Lowie lifts the heavy slab overhead and tosses it down into the crater.
+> To his great disappointment, though, he found nothing more than a flat gray slab of rock, as large as one of the serving trays back at the Jedi academy.
+>
+> “Lowbacca, my friend—?” she began, but before she could finish her request, Lowie had already lifted the slab of rock high overhead and tossed it aside down the steep edge inside the crater.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.62).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-01.md:67`
+
+What it shows (our notes): Lowie clubs off the arachnid's spines but is torn open and staggers.
+> Teeth bared, Lowbacca planted himself next to Tenel Ka, swinging his lightsaber like a club. He nipped off several sharp spines that rose from the combat arachnid’s back, but one of the creature’s forelimbs flashed out and tore into his fur, making the young Wookiee stagger backward.
+>
+> Lowbacca?” Em Teedee scolded. Lowie roared in pain as he looked at the shallow wound along his rib cage.
+>
+> Jaina chopped away another flailing leg, but the combat arachnid had too many limbs—and now it was angered and in pain. The beast pressed them back, trapping them between a pile of fallen rock and the wall.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.69).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:12`
+
+What it shows (our notes): Lowie ignores the pain of his bleeding gash.
+> Something threatening. He pressed a paw against the bleeding gash in his side, ignoring the pain of the wound as he sniffed the air.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.78).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:23`
+
+What it shows (our notes): Lowie lops off three arachnid limbs, brings up the rear with ease and holds his ground on the chain.
+> Lowie bellowed and lunged back at the creatures, sweeping his molten bronze lightsaber in a broad arc. He lopped off three limbs from the nearest creature as if they were stalks of grain.
+>
+> Lowbacca, agile from climbing trees and vines for most of his life on Kashyyyk, easily brought up the rear. He moved backward along the chain, still pressing one hand against his wound and holding his lightsaber with the other.
+>
+> Although the combat arachnids moved more slowly along the chains than the agile Wookiees, they might still be able to catch up with the humans before they reached safety. Realizing this, Lowie held his ground, wrapping his Wookiee feet around the links of the chain, bending his hairy knees, and holding his lightsaber up to defend his friends from attack. He gestured with his claws extended, urging them to go on ahead without him.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.80–81).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:25`
+
+What it shows (our notes): Knocked off the chain, Lowie swings back up on the arachnid's own leg, gashes its eye cluster and shoves it off; it took all his strength.
+> Lowie slashed with his lightsaber, but the arachnid dodged sideways, eluding the beam, In a counterstrike, it swept out a segmented leg and caught the ginger-furred Wookiee with the tip of one footpad. The blow knocked him backward—and Lowie toppled off the thick chain. Jacen and Jaina both screamed.
+>
+> At the last instant, though, Lowie reached out with his free arm and grabbed one of the heavy metal links of chain. He swung beneath it, using his momentum to bring him up and around to the other side of the combat arachnid.
+>
+> As the creature stretched down to snatch at him, like a fisher trying to scoop a meal from a stream, Lowie grasped one of the arachnid’s stable rear legs and used it to haul himself back up onto the chain.
+>
+> Lowie swung his lightsaber like a club and cleaved a long gash through the center of the monsters eye cluster. The creature roared and thrashed, spewing venomous saliva from its mouth hole. ‘ It took all of Lowie’s strength to evade the arachnid’s attack and reach its body core. Then, with a great growl he shoved the monster off the thick chain. It railed its many legs as it fell down, down, down, until it splattered in a starburst pattern far below at the bottom of the crater.
+>
+> Lowie scrambled backward, getting to his feet and regaining his balance again as the other combat arachnids hesitated, wary now that they had seen their Wookiee foe emerge triumphant from battle with one of their kind.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.81–82).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:26`
+
+What it shows (our notes): Bleeding badly, Lowie still runs and leaps the last meters.
+> Lowie bounded ahead, ignoring the gusts of wind, planting his feet firmly from one link to the next. The last combat arachnid closed the gap, its jaws clacking. Lowie could not look behind him to fight. His best chance was to reach the rooftop before the creature could grab hold of him.
+>
+> The wound in his side was bleeding profusely now, but the young Wookiee didn’t seem to notice.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.83).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:29`
+
+What it shows (our notes): Lowie senses his friends' questions, then climbs on through the pain of his wound.
+> Lowie could see curiosity about Raaba on the twins’ faces and sensed the questions that clamored to be asked. Tenel Ka’s expression was less readable, but he could sense her interest as well.
+>
+> Exhilarated at being with Raaba, though, Lowie ignored the pain in his side, careful not to tear loose the graft bandage. Soon he drew even with Raaba as they climbed higher and higher, where their Wookiee instincts told them they would be safe and protected.
+>
+> His ribs still stung, but he ignored the pain.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.86–90).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:34`
+
+What it shows (our notes): Jacen: Lowie has his lightsaber and his Jedi senses; 'He sure wouldn't have wanted to tangle with them.'
+> Jacen had worried whether, in their preoccupation with each other, the two might fall prey to some nocturnal hunter. He thought it unlikely, though, since Lowie had his lightsaber and his Jedi senses, and Raaba had a good blaster at her side. He sure wouldn’t have wanted to tangle with them.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.104).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:51`
+
+### Limitations and anti-feats (Diversity Alliance)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie's wound from the combat arachnid.
+> “No argument from me,” Jaina said, picking herself up. Lowie, pressing a hairy paw to his injured side, staggered away from the battleground. His hand rapidly became covered with blood.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.70).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:15`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie slumps to the rooftop, shaking and exhausted.
+> Lowie slumped to the rooftop, shaking and exhausted.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.84).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:30`
+
 
 
 
