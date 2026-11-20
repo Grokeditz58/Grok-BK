@@ -8,3 +8,6 @@ Status: DONE. Stamp: 2026-11-20 CST.
 - Verbatim check: 747 quoted passages in sa-01…05 were machine-matched against READ.txt with 0 mismatches. summary.md repeats 116 of them, all copied from the part files.
 - Numbering: the highest existing folder in notes/materials was 173, so this folder is 174.
 - Not done here: character-file routing is tracked in notes/INDEX.md and characters/INDEX.md.
+
+
+- Scope trim 2026-11-20: see README (scaling-relevant passages only; line numbers kept; character files unchanged).

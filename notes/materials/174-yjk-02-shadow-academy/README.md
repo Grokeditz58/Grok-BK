@@ -35,3 +35,13 @@ Characters (quick reference):
 - **Brakiss**: persuasive voice; Force lightning on Jaina; premonition. Never actually fights, and is locked out of his own office.
 - **Tamith Kai**: Force leash on three trainees and the torture regime. Blasts open her sealed door and tears out a plate; downed by one kick.
 - **Garowyn, Vonnda Ra, Vilas** (new Nightsisters), **Qorl** (droid arm, doubts, secretly opens the space doors), **Lando and Lobot** (GemDiver Station), **Augwynne Djo**, **Teneniel Djo** (recounted), **Ambassador Yfra** and the **Hapan Matriarch**, **Han and Leia**. In the preview: **Zekk**.
+
+
+## Scope trim (2026-11-20 CST)
+
+Under the owner's scope ruling of 2026-11-20, these notes were trimmed in place to scaling-relevant material only: feats of every kind (Force, lightsaber, strength, durability, speed, reflexes, agility, stamina, pain tolerance, marksmanship, hand-to-hand, tech and tactics, senses), statements about characters, narrative portrayal, and anti-feats and limitations. Plot bullets stay, so the story can still be followed.
+- Passages with nothing scaling-relevant (scenery, jokes, filler dialogue, front matter and ads) were removed. Each run of them is marked "(Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)" and then left as blank lines. That keeps every line number the same, so the `Our notes: path:line` pointers in the character files still resolve.
+- Tagged passages that were not routed to a character file keep their first quote, cut to the first two sentences. "[…]" marks a cut, and "(+N further passage(s) read, not quoted, through …)" gives the page span.
+- Passages routed to character files are kept as they were. Any context quotes in the same bullet that were not routed were dropped and marked "(+N context passage(s) read, not quoted)".
+- summary.md: the findings index now gives citations only. The quotes are in the part files.
+- Folder size: 234,667 B before, 146,820 B after. The character files were not changed.
