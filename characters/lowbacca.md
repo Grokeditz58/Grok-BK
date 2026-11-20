@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 101 (87 with quotations; 54 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 114 (100 with quotations; 67 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1534,6 +1534,99 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowbacca runs into a wall 
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20 (p.183).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:67`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowie is a computer whiz; Jacen has no chance against him at games.
+> Jacen knew he didn’t stand a chance against the computer whiz-especially not while Jaina was helping Lowie.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:16`
+
+What it shows (our notes): Lowie enjoyed optimizing the Falcon's computers.
+> The landing on Coruscant had been smooth, and he had enjoyed his time optimizing the Falcon’s computers-but he was anxious to get back into the open air. Even city air, as long as he could be high enough off the ground.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:21`
+
+What it shows (our notes): Lowie slides down the fibercord with ease.
+> Lowie slid down the fibercord with ease, while Em Teedee wailed all the way.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:64`
+
+What it shows (our notes): Lowie growls loudly enough to startle the Lost Ones, baring his fangs.
+> Lowbacca growled loudly enough to startle the Lost Ones, baring his long Wookiee fangs.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:84`
+
+What it shows (our notes): Lowie charges the gang member blocking the walkway and scatters her.
+> At the same time, Lowie-focusing on the lone woman guarding the opposite end of the walkway-let out a ferocious roar and charged forward.
+>
+> Distracted by the attacking hawkbat and startled by the snarling battering ram of Wookiee fur, the gang member backed off and leaped aside.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:90`
+
+What it shows (our notes): Lowie suggests going up to repair the mirror station, and is sure he can persuade Chewbacca.
+> “Master Lowbacca suggests that perhaps he and you, Mistress Jaina, along with his uncle Chewbacca—if we can convince him—might accompany Master Peckhum up to his mirror station to see if we can effect temporary repairs.”
+>
+> “Master Lowbacca is confident that he can use his powers of persuasion to convince his uncle Chewbacca to accompany us into orbit,” Em Teedee said.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 15.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:83`
+
+What it shows (our notes): Em Teedee: Lowie is exceedingly talented with electronic systems.
+> “Lowie, you’re good with computers. Give me a hand here.”
+>
+> “Oh, absolutely,” Em Teedee said. “Master Lowbacca is exceedingly talented when it comes to electronic systems.” Lowie growled a response, and the miniature translating droid answered, “Of course they already know that. I was simply reminding them.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 16.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:16`
+
+What it shows (our notes): From the mirror station, Lowie feels both part of the universe and apart from it.
+> Lowie had seen planets from space before, but somehow it had never struck him how intimate the setting was. Here, high above the world, he felt a part of the universe and apart from it, a piece of the cosmos and an observer at the same time. It was strange to have such a perspective, and it made the galaxy seem both small and immensely large at the same time.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 16.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:15`
+
+What it shows (our notes): Lowie has extreme patience for a Wookiee with computers and plots the debris lanes.
+> Lowie, on the other hand, had extreme patience for a Wookiee, especially around computers. He diligently plotted one blip after another, noting the more dangerous space lanes in the heavily traveled orbits around the capital world.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:90`
+
+What it shows (our notes): Lowie finds the debris-free hole in space where the Moon Dash had struck something.
+> Lowie, wedged into a chair built for humans with his knobby knees thrust high and his arms reaching almost to the ground, cradled his datapad in his lap, studying coordinates of the known items of space debris. He roared his own question, and waved the datapad in the air.
+>
+> “Attention! Excuse me!” Em Teedee shrilled. “Master Lowbacca believes he has also found something of utmost importance, an inconsistency in the positions of orbital debris. I can’t see it myself since he hasn’t shown me the datapad”—the miniature droid huffed—“but I trust it’s something highly unusual for him to become so excited. You really must calm down, Master Lowbacca, and explain yourself.”
+>
+> Instead of revealing the uncharted hazard that had destroyed the Moon Dash, though, Lowie’s map of space wreckage showed absolutely nothing in the marked zone. In fact, it was more like a forbidden area in space, an island empty of all known debris, as if somehow it had already been swept clear. But they knew the Moon Dash had struck something large enough to destroy it…
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:94`
+
+What it shows (our notes): Lowie's touch restores Jaina's strength and optimism.
+> When Lowie placed a sympathetic hand on her shoulder, Jaina felt strength and optimism flow back into her, as soothing as cool water to her burning sorrow.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:116`
+
+What it shows (our notes): Lowie's grip leaves deep indentations in the seat padding.
+> Only the deep indentations left by his hairy fingers in the foam padding of the arm cushions told Jaina that the young Wookiee felt a tension similar to hers.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:121`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie is uneasy in the undercity; the forest underworld of Kashyyyk was extremely dangerous.
+> Lowbacca looked decidedly uneasy, and Jacen remembered that the lanky Wookiee had grown up on Kashyyyk, where the deep forest underworld was an extremely dangerous place.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:46`
+
 
 
 

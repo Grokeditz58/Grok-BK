@@ -3770,6 +3770,55 @@ What it shows (our notes): TK: dragged a Y-wing; held the Falcon together throug
 (Fragment completed 2026-11-17: full sentence/passage matched word for word in the source text on file: `MEGA_Legend_The_Legacy_of_the_Force_Series_Star_Wars_Legacy_of_the_Force_08_Revelation_Karen_Traviss_epub`.)
 Our notes: `legends-feats.md:827`; `suspect-insight/debates/001-darth-caedus-vs-rotj-darth-vader.md:144`
 
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Anakin talks Leia into inviting Zekk: the Karnak people value children.
+> She glanced at her brothers, looking for support, and saw Anakin’s face take on that peculiar measuring look it always did when he was solving a problem.
+>
+> “If they value children so much, won’t the ambassador be happy to have another kid join us?” Anakin said.
+>
+> Leia’s face cleared. “Yes, of course-that’s right. Your friend Zekk is more than welcome to come. In fact, we’ll invite Lowie and Tenel Ka too.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:17`
+
+What it shows (our notes): Anakin serves the Karnak ambassador, honoring her customs.
+> Anakin—without argument or question—stood up, dutifully moved down the table, and presented the next plate of food to the Karnak ambassador.
+>
+> The ambassador chirped with surprise. “I am most honored, Chief of State,” she said to Leia, ‘that you would choose your youngest to serve me.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:41`
+
+What it shows (our notes): Anakin senses that Jacen will not answer and that something is wrong.
+> YOUNG ANAKIN SOLO stood next to the comm unit in the living area of his family’s quarters, exhausted from his long and fruitless search, and worried about his brother Jacen. Staring at the darkened screen, he willed a message to come in from Jacen, but he knew that none would come—he could feel it.
+>
+> “I can sense that something is wrong,” Anakin interrupted. “Jacen and Tenel Ka haven’t come back.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:66`
+
+What it shows (our notes): Anakin senses a lingering darkness in the Lost Ones' meeting room.
+> Even though the room was empty, Anakin sensed a lingering feeling of darkness as he entered and began to look around.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:78`
+
+What it shows (our notes): Anakin carries his glowrod like an imitation lightsaber.
+> Anakin kept his glowrod out and ready; it made him feel safer somehow, as if it were an imitation lightsaber.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:77`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Anakin nearly falls from a walkway and Leia catches him.
+> Once, at a spot where the side rail was missing, Anakin lost his footing and nearly fell off the bridge, but Leia instinctively grabbed him. She looked at her son with shock, then hugged him quickly. “Be careful,” she urged. “We’ve all got to be careful.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:72`
+
+
 # Debate and forum claims (unverified)
 
 Forum posts, Suspect Insight debates and Discord debates, respect threads, and verdicts. These are posters' arguments or quotations they typed; none is checked against the book here unless the entry says so.

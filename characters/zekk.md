@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 164 (108 with quotations; 64 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`.
+- **Entries:** 191 (135 with quotations; 91 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1990,6 +1990,259 @@ What it shows (our notes): Force barrier vs ~20 assault-cruiser cannon bolts (Sw
 — Source: (debate #1); (cited by NevesYtneves (DC77) — Legends Feats & Quotes (Star Wars Legends / EU).
 (Excerpt widened 2026-11-17 to the relevant passage, word for word from The Unseen Queen (Troy Denning) (text copy `MEGA_Legend_The_Dark_Nest_Trilogy_Star_Wars_Dark_Nest_02_The_Unseen_Queen_Troy_Denning_epub`).)
 Our notes: `legends-feats.md:809`; `suspect-insight/debates/001-darth-caedus-vs-rotj-darth-vader.md:115`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Background: a street urchin from Ennth taken in by Peckhum; he escaped the colony's disaster and stowed away from planet to planet.
+> Jaina smiled at the mention of their mischievous friend, a street urchin who had been taken in and cared for by old Peckhum, the man who brought supplies to the Jedi academy A couple of years older than the twins, Zekk had proven to be a resourceful scamp, despite his disadvantaged life. Jaina would sit and listen to Zekk for hours as he regaled her with stories of his childhood on Ennth and how, when the colony had been devastated by a natural disaster, he had escaped on the next supply ship. Jaina had to admire Zekk’s determination.
+>
+> The wild dark-haired boy never did anything unless he wanted to. In fact, when the captain of the rescue ship had suggested that Zekk might be better off in an orphanage or a foster home, Zekk had jumped ship to another outbound freighter at the very next stop and stowed away on it. From then on he had traveled from planet to planet, sometimes working as a cabin boy, sometimes stowing away, until one day he had met old Peckhum, who was on his way to Coruscant. Though both were independent, somehow a friendship had formed, and they had been together ever since.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:15`
+
+What it shows (our notes): Zekk's entrance: he drops in front of Jaina from a gargoyle statue.
+> Suddenly, a figure dropped directly in front of her from the gargoyle statue overhead - a wiry youth with shoulder-length hair one shade lighter than black. He wore a broad grin on his narrow face, and his sparkling green eyes, wide with delight, showed a darker corona surrounding the emerald irises. “Hi, guys!”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:40`
+
+What it shows (our notes): Jaina's view: slight of build but tough as blaster-proof armor.
+> Though the older boy had a slight build, he was tough as blaster-proof armor. Under the smudges of dirt and grime on his cheeks, she thought, he was probably rather nice-looking-but then, she wasn’t one to talk about smudges on the face, was she?
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:42`
+
+What it shows (our notes): Zekk guides the four through the lower levels like a native guide.
+> Like a native guide, Zekk led the four friends down connecting elevators, slide tubes, and rusty metal stairs, and across the catwalks from one building to another.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:45`
+
+What it shows (our notes): Zekk says he has always evaded the Lost Ones; he is streetwise and good at it.
+> “The Lost Ones might even be looking at us right now, but they’ve never managed to catch me yet,” he said. “It’s like a game between us.”
+>
+> “I’m just good at it. Like I’m a good scavenger,” Zekk answered, sounding cocky. “I may not be in training as a Jedi Knight, but I make do with what skills I’ve got. Just streetwise, I guess. But,” he continued, “even though I have kind of an … understanding with them, I’d rather not push it.
+>
+> Especially not while I’m with the twin children of the Chief of State.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:49`
+
+What it shows (our notes): Zekk's uncanny knack as a scavenger for finding what others missed (later shown to be Force potential).
+> Zekk made his living by scavenging: salvaging lost equipment, removing scraps of precious metal from abandoned dwellings. He found lost treasures to sell to inventors, spare parts to repair obsolete machines, trinkets that could be turned into souvenirs. He seemed to have a real skill for finding items that other scavengers had missed over the centuries, somehow knowing where to look, sometimes in the unlikeliest of places.
+>
+> “Wow!” Zekk said. “I didn’t even know this was here.” He hurried forward, edging his way along the damaged walkway. “I don’t believe it. The salvage hasn’t even been picked over. See I’m lucky again!”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:51`
+
+What it shows (our notes): Zekk moves instinctively through the maze of walkways back to his quarters.
+> She watched the dark-haired boy move instinctively, hurrying through the maze of upper and lower walkways and cross-connecting bridges as he made a beeline back to his living quarters.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:75`
+
+What it shows (our notes): Zekk resents the twins' privilege and refuses charity; he prefers living by his wits.
+> Zekk smiled thinly. “Down here you can see how I live every day. I don’t have anyone to wash my hands for me or cook my meals, you know. And I don’t have the luxury of worrying about how to amuse myself. Every day is a searchI’m just lucky I have a special knack for finding things.”
+>
+> Jaina was surprised to hear a hint of resentment behind her friend’s words.
+>
+> “Who said I wanted that?” he responded through clenched teeth. “I don’t need charity. I’ve got my freedom here. I can do whatever I want. Besides, it’s more satisfying to live by my own wits than to be pampered and coddled all the time.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:78`
+
+What it shows (our notes): Zekk says he outruns the Lost Ones and Norys wants him as his right-hand man, but he works for himself.
+> “Nothing personal”, Zekk said with shrug. He looked up at the crossin-triangle symbol. “Being a gang member doesn’t impress me either.
+>
+> Their leader Norys - who’s our age - is a big bully who likes to throw his weight around. I can run my way through the lower levels better than any of the Lost Ones, so he’s been after me to join for a long time. He’d love to have me as his right-hand man, but I’m too independent for that. I work for myself.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:79`
+
+What it shows (our notes): Zekk taunts Norys as small-minded, then breaks away from the gang's ambush by running.
+> “He talks big, but his ambitions are definitely low. He has no interest in becoming anything more than the biggest bully in a run-down section of a single building on an average planet in a big galaxy.” Zekk’s voice sounded taunting. “He’ll never go anywhere, because his dreams are small.”
+>
+> “In a case like this,” Zekk said, moving slowly, extending the mottled egg gradually, as if reluctant to surrender it to the brawny gang member, “the most sensible idea is to … run!” He whirled and dashed onto the rickety walkway. The vibration of his running knocked loose a broken wall plate, which dropped silently into the murky depths below. The young Jedi Knights reacted quickly and scrambled after their friend onto the covered bridge.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:81`
+
+What it shows (our notes): Zekk promises Peckhum a central multitasking unit.
+> “I know where we can get a central multitasking unit!” He pressed his chin against the top can in the stack to hold them all in position. “Remember that old shuttle we found? Models like that had lots of subsystems. They must have had units to run everything.”
+>
+> Zekk waved his hand in dismissal. “Relax, Peckhum—I’ll get one for you by the time you return. I promise.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:111`
+
+What it shows (our notes): At the banquet Zekk feels out of place and eats the table bouquet.
+> “I’m not sure this is such a good idea,” Zekk said. “I don’t know anything about diplomacy. I don’t know any manners or etiquette.”
+>
+> “Delicious salad,” he said. “I don’t believe I’ve ever had greens like that.”
+>
+> “That wasn’t a salad,” she whispered. “That’s the bouquet. You weren’t supposed to eat it.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:29`
+
+What it shows (our notes): Humiliated, Zekk decides he does not belong with his high-class friends.
+> Zekk was mortified, though he tried not to show it. His manners were laughable, his clothing was outdated, and he had embarrassed everyone by eating something he should have known was a decoration. He wished he had never been invited to this banquet.
+>
+> Zekk felt stung by her comment, by the fact that she had even needed to say such a thing. He didn’t belong here. That truth was etched in burning letters in his brain. He should have known better, but he had pretended that he could fit in with such high-class friends.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:47`
+
+What it shows (our notes): Alone in the lower city, Zekk thinks he has no hope and is a nobody, and tells himself his freedom is better.
+> The lower world of Coruscant was his home. He knew it well, and he could survive here—which was good, because it looked as if he would be stuck in this gloomy place for the rest of his life.
+>
+> There was no hope, no chance for advancement. He simply wasn’t the equal of those people who could look forward to a bright future—people like Jaina and Jacen.
+>
+> Zekk was a nobody.
+>
+> He smiled thinly. He had a freedom Jaina and Jacen didn’t have. When they were out exploring and having fun, the twins constantly checked their chronometers, making sure they would be back home at the appointed time, never making allowances for unexpected circumstances. They certainly didn’t want to give their protocol droid a burned worry circuit by not following their explicit orders. The twins were prisoners to their own schedules.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:69`
+
+What it shows (our notes): Tamith Kai's scanner reveals that Zekk has surprising power.
+> Tamith Kai withdrew, and Garowyn and Vilas leaned over Zekk’s bony shoulders to observe the readings. Still struggling, Zekk caught a glimpse of the glowing image, a colorful aura projected in a micro-hologram.
+>
+> “Hmmm, surprising,” Tamith Kai said. “Look at the power he has.”
+>
+> “A good find,” Garowyn agreed. “Quite fortunate.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:76`
+
+What it shows (our notes): Peckhum and the twins vouch for Zekk's reliability.
+> “Zekk may seem like a scamp, but he always does what he says he’s going to do.”
+>
+> That was unlike Zekk. He was more reliable than that. Others might brush him off as a young scoundrel or a street urchin, but Zekk knew his responsibilities well and always met them. He had promised Peckhum a new central multitasking unit, knowing how important it was to the mirror station. If Zekk told him he was going to do something, the boy did it.
+>
+> Always.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10, 13.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:100`
+
+What it shows (our notes): Brakiss tells Zekk he has fairly strong Jedi potential.
+> “Are you aware that you have Jedi potential?”
+>
+> Zekk’s green eyes widened. “A Jedi—me? I think you’ve got the wrong person.”
+>
+> Brakiss grinned. “Fairly strong potential. We were surprised ourselves.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:15`
+
+What it shows (our notes): Zekk sees himself as a nobody street kid, but defends the twins as his friends.
+> “Because I… I’m just a street kid. I’m a nobody. Jedi Knights are great protectors of the New Republic. They’re powerful and—”
+>
+> “They’re not brats,” Zekk retorted. “They’re my friends.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:16`
+
+What it shows (our notes): Zekk resists Brakiss: he hates the Empire and won't betray his friends.
+> “I hate the Empire!” Zekk said.
+>
+> Zekk shook his head, clamping his teeth together. “I won’t betray my friends,” he growled.
+>
+> Zekk searched for the strength to resist, focused on a thread of anger. “The same chance you offered to Jaina and Jacen? They told me how you kidnapped them, brought them to the Shadow Academy, and tortured them.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:24`
+
+What it shows (our notes): Zekk finds he cannot answer Brakiss's arguments, but will not agree openly.
+> The implications of Brakiss’s words terrified him, but the questions about his future bubbled to the surface again and again in his mind. Although Zekk didn’t want to admit it, he could not shake the feeling that Brakiss and his promises made a lot of sense.
+>
+> Zekk wanted to disagree, wanted to refute Brakiss’s words, but he couldn’t t in o anything to say. He clamped his lips together. Even if he couldn’t come up with any good arguments against what Brakiss said, he refused to agree openly.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11, 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:26`
+
+What it shows (our notes): Zekk's first Force use: he makes Brakiss's flame jump, then bend and stretch.
+> He squinted his green eyes and concentrated on the flame. Although he didn’t know what he was doing, he tried different things, various ways of thinking.
+>
+> He stared directly at the flame, then saw it out of the corner of his eye, tried to imagine moving it, nudging it with invisible fingers of thought. He didn’t know what he did or how to describe it—but the flame jumped!
+>
+> “Good,” Brakiss said. “Now try again.”
+>
+> Zekk concentrated, retracing the mental path he had taken before, and found it with less effort this time. The flame wavered, bent to one side, then jumped and stretched longer in the other direction. “I can do it!”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:68`
+
+What it shows (our notes): Found among the Lost Ones, Zekk now wears a uniform and tells Jacen they will ruin everything.
+> His hair, a shade lighter than black, was fastened at the nape of his neck with a leather thong instead of hanging free down to his shoulders. Jacen had never seen Zekk’s hair like that. His friend’s clothes were also different: clean, dark, padded, as if they were a uniform, and much more stylish than the suit he had worn to the diplomatic banquet for the ambassador from Karnak Alpha.
+>
+> Startled from his speech, the dark-haired young man drew himself up, frowning at Jacen and Tenel Ka. His green eyes flashed with momentary surprise and delight, but he quickly masked the expression with a scowl.
+>
+> Zekk appeared to have aged a dozen years in the few days since his disappearance.
+>
+> “Why couldn’t you have left me alone for just a little longer?”
+>
+> “Go away,” he whispered, “You’ll ruin everything!”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:32`
+
+What it shows (our notes): Zekk says the twins never tested him and the Second Imperium is giving him a chance to be someone.
+> Zekk seemed to waver for a moment, but his voice was strong. “They’re offering us—all of us—an opportunity. A chance we never had before.”
+>
+> “I do. You would have known that if you’d bothered to test me,” Zekk said defiantly. “And anybody who joins us but doesn’t have the talent will be recruited into the Imperial military forces, given responsibilities and a chance for advancement in the Second Imperium.”
+>
+> Zekk said, “You don’t understand, Jacen. You can’t because you’ve always had too much. You’ve never wanted for anything. These people”—he gestured toward the evil Nightsister and her companions—“they’re offering me something I never had in my old life. With them I have a chance to be someone.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:40`
+
+What it shows (our notes): Zekk's message: he keeps his promise to Peckhum and says he chose the Shadow Academy for himself.
+> “A central multitasking unit, of course,” Jaina whispered in amazement and delight. “From Zekk.”
+>
+> “I’m doing this against the better judgment of my teachers here,” Zekk said, “Peckhum, my friend, here’s the central multitasking unit I promised you.
+>
+> You always expected only the best from me, and I always gave it. This must be hard for you, but I want you to know that no one has kidnapped me or brainwashed me.”
+>
+> “To Jacen and”—the tiny holographic image hesitated—“and Jaina, it turns out I do have Jedi potential after all. I’m going to make more out of myself than anyone imagined I could be. We were good friends, and I’d never want to hurt you. Sorry I messed up your mother’s diplomatic banquet—but that’s one reason I’m doing this. I have the chance to become something better—a chance that I was never given by anyone in the New Republic.”
+>
+> “I know this is something you wouldn’t approve of, but I’m doing it for myself. If I ever come back, I’ll be someone you can all be proud of.”
+>
+> “Don’t worry, Peckhum, I’ll never let you down. You’ve been my truest friend, and if there’s any way I can come back to you, I will.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:126`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss and Tamith Kai capture and stun Zekk; he cannot break free.
+> The young man Vilas and the short, bronze-haired woman grabbed him from behind. Instantly, Zekk struggled, thrashing and shouting out loud. The strangers didn’t seem bothered by how much noise he made, and Zekk knew with a sinking certainty that cries for help were not at all uncommon in these abandoned levels, although brave rescuers were. Zekk tried to yank his arms free from the claw-like grasp of his captors, but to no avail.
+>
+> Vilas released his grip on the boy’s arms, and Zekk tried to run, knowing this was his last chance … but arcs of blue fire looped out, engulfing him and slamming him down into unconsciousness.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:74`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss manipulates Zekk's insecurity about his friends; Zekk's denials carry no strength.
+> No, his friends wouldn’t be looking for him, would they? He doubted Jaina and Jacen would want to be seen with him after the debacle of the diplomatic banquet.
+>
+> “Well, if that’s so,” Brakiss continued, “why didn’t they test everyone around them? Why would they just dismiss you out of hand, Zekk? I think they’ve shortchanged you; they probably never even imagined that a street kid, a lowborn scamp, would be worthy of Jedi training, no matter what his innate potential.”
+>
+> “That isn’t it,” Zekk muttered, but his words carried no strength.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:13`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss whets Zekk's appetite for the Force, and Zekk suspects it was deliberate.
+> Brakiss reached forward and snapped the flare stick together again, extinguishing the flame. Immediately, Zekk felt a sharp disappointment.
+>
+> Zekk licked his lips, feeling hungry somehow, and followed Brakiss, trying to squelch his impatience to try again with the flame. His appetite had now been whetted—and part of him suspected that was exactly what the leader of the Shadow Academy had intended…
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:69`
+
 
 # Debate and forum claims (unverified)
 

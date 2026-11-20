@@ -4,7 +4,7 @@
 - **Era:** Prequel–GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 629 (306 with quotations; 21 quotations extended to the full sentence/passage from the source text on file; 196 marked as fragments; 247 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 696 old entries; old file: `characters/_bak/c-3po.md.bak-20261117`.
+- **Entries:** 635 (312 with quotations; 27 quotations extended to the full sentence/passage from the source text on file; 196 marked as fragments; 247 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 696 old entries; old file: `characters/_bak/c-3po.md.bak-20261117`. Added 2026-11-20: 6 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -5273,6 +5273,57 @@ Our notes: `notes/materials/008-caedus-wank-problems-caedus-maul-vs-yoda.md:963`
 - Note (summary from our notes, not a quotation): On Coruscant, she and Veila fought through Yuuzhan Vong warriors, rescued Han, Leia, R2-D2, C-3PO, and a Noghri from capture, and penetrated the World Brain sanctum. [69]
   — Source: Mara Jade Skywalker — research extraction — https://starwars.fandom.com/wiki/Mara_Jade_Skywalker.
 Our notes: `external/mega-notes/mara-jade-quotes.txt:103`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Threepio's role: intricate diplomatic functions, not bravery or adventure.
+> See-Threepio moved up and down the line, fussing over items and reveling in his position. This type of duty was, after all, what a protocol droid was programmed for—not for bravery or adventure, but for intricate diplomatic functions.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:36`
+
+What it shows (our notes): Threepio traces Jacen's comlink to within ten meters and leads the rescue.
+> “Well, it is certainly not as precise a tracking system as I’d like, but I suppose that by sending a continuous signal and monitoring the feedback from the mobile comlink I could probably—”
+>
+> “I should be able to pinpoint the signal to within a radius of ten meters.”
+>
+> The protocol droid seemed to be enjoying his new importance immensely.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:70`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Threepio has no files on Karnak Alpha customs.
+> This is a matter of diplomatic pride for the New Republic, though I do wish I could have located those old files about the customs on Karnak Alpha. The place seems to have been forgotten by my protocol programmers.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:26`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Threepio nearly breaches Karnak custom by serving the ambassador first.
+> She knew instantly that Threepio meant to offer the first meal to the ambassador—which was a terribly rude thing to do, according to Karnak custom.
+>
+> “If you would allow me?” She hurried to one end of the table as the droid stopped, completely at a loss as to what to do.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:39`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Threepio does not recognize the Lost Ones' symbol and curses his inadequate sensors.
+> “I am fluent in over six million forms of communication,” Threepio said.
+>
+> “Unfortunately, that design is not in any of my databanks. I’m afraid I cannot offer any enlightenment, Master Anakin.”
+>
+> “Oh, curse my inadequate sensors—I’m certain my counterpart Artoo-Detoo could have been much more accurate—but I believe that we are now within two hundred meters of their location.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:73`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Threepio blames his slow processor for the delay in finding Jacen and Tenel Ka.
+> “Ifs all my fault!” Threepio wailed again. “Oh, curse the slowness of my processor. We should have come looking for them much sooner.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:79`
+
 
 # CANON (Disney canon — kept separate)
 

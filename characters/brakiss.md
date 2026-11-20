@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 82 (69 with quotations; 22 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 101 (88 with quotations; 41 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -469,6 +469,185 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss fears the Imperial
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.198–199).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:101`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Brakiss's handsome presence exudes peace and calm.
+> A smooth door slid aside to reveal a powerful-looking man flanked by stormtroopers. The man was tall and wore silvery robes. His hair was blond and neat, his face gentle and complacent. His exceedingly handsome features looked as finely made as a sculpture. The man’s very presence exuded an aura of peace and calm.
+>
+> “Aren’t you overreacting a bit?” the man said. His rich voice hummed with power and charisma. “We came as soon as we realized you were awake. You could have hurt yourself by pounding so hard on the walls.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:12`
+
+What it shows (our notes): Brakiss tells Zekk his friends won't look for him and apologizes for Tamith Kai's force.
+> “No they won’t.” The man shook his head. ‘We have enough information about you to know that. But don’t worry.”
+>
+> “My name is Brakiss, and I apologize for the … enthusiasm of my colleague Tamith Kai. But I do believe she authorized the use of force only because of your struggles. If you had cooperated, it could have been a much more pleasant experience.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:13`
+
+What it shows (our notes): Brakiss: the Force knows no economic boundaries; Zekk's hard life may have honed his potential.
+> Brakiss nodded impatiently. “Yes they are, but the potential to be a Jedi has nothing to do with where you live or how you were raised. The Force knows no economic boundaries. Luke Skywalker himself was just the foster son of a moisture farmer.”
+>
+> “Why shouldn’t a poor kid like you have just as much Jedi ability as, for instance, a politician’s twin children who live in luxury with all their needs cared for? In fact,” Brakiss said in a lower voice, “it could be that because your life has been so tough, your true potential as a Jedi has been honed even sharper than the potential of those pampered little brats.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:17`
+
+What it shows (our notes): Brakiss sows doubt that the twins ever valued Zekk enough to test him.
+> Brakiss rocked back on his heels. “You might not know you had any Force talent if no one ever trained you. It’s a simple enough thing to measure, though. If Jacen and Jaina were such close friends, I’m shocked to think that they never bothered to test you. Isn’t it true that Master Skywalker is desperately on the lookout for more Jedi Knights?”
+>
+> “Well, if that’s so,” Brakiss continued, “why didn’t they test everyone around them? Why would they just dismiss you out of hand, Zekk? I think they’ve shortchanged you; they probably never even imagined that a street kid, a lowborn scamp, would be worthy of Jedi training, no matter what his innate potential.”
+>
+> “Your friends,” Brakiss said. “Oh, yes … the ones who never tested you for Jedi potential, the ones who only come to visit you when it fits into their social schedule. They’re going to leave you behind, you know, as they find more ‘important’ work to do. They’ll forget about you so fast you won’t have time to blink.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:19`
+
+What it shows (our notes): Brakiss says he trains Dark Jedi for the Second Imperium by methods different from Luke's.
+> “This place is the Shadow Academy,” Brakiss said, and Zekk was startled to recognize the name of the hidden station where Jaina and Jacen had been held against their will. “I am in charge of training new Jedi for the Second Imperium. I use different methods than Master Skywalker follows at his Yavin 4 training center.”
+>
+> “Well, I am training new Jedi, powerful warriors to help bring back the glory and order of a new Empire. The Rebel Alliance is a criminal movement.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:20`
+
+What it shows (our notes): Brakiss's Imperial pitch: order, no gangs, opportunity for all.
+> “No you don’t,” Brakiss assured him. “Your friends have told you to hate the Empire, but you never witnessed any of it firsthand. You’ve only seen their version of history. You realize, of course, that whichever government is in charge always makes the defeated enemy look like a monster. I will tell you the truth. The Empire had very little political chaos. Every person had opportunities. There were no gangs running wild through the streets of Coruscant. Everyone had a task to do, and they did it willingly.”
+>
+> Would your life really change if the Chief of State were replaced by a different politician in a different Empire? If you work with us, on the other hand, your life could be much improved.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:21`
+
+What it shows (our notes): Brakiss admits kidnapping the twins was a mistake and explains the new plan to recruit from the lower levels.
+> “Tortured them?” Brakiss laughed and shook his blond head. “I suppose after being pampered all their lives, a bit of hard work might seem like torture.
+>
+> I offered to train them to become powerful Jedi—I admit it was a mistake.
+>
+> We wanted young Jedi Knights to train, but the candidates we invited were too high-profile. The risk was greater than we had anticipated, and it called too much attention to our academy.”
+>
+> “So I decided to change my plan. As I told you, the Force moves as strongly within the less-fortunate as in those who are rich and powerful. Your social status doesn’t concern me in the least, Zekk—only your talent and your willingness to develop it. Tamith Kai and I have decided to search among the lower levels of society for people whose potential is just as great as in those among the higher levels, and yet whose disappearance won’t cause such a stir. People with the incentive to work with us.’
+>
+> “If you join us, I guarantee you the name of Zekk will never be ignored or forgotten.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:25`
+
+What it shows (our notes): Brakiss coaches Zekk to move the flame and appeals to his independence.
+> “Now you try it, Zekk. Just concentrate. Feel the fire, like flowing water, like paint. Use fingers in your mind to draw it into different shapes. Swirl it around. You’ll get the feel of it.”
+>
+> “I wouldn’t want you to do it for me. Or for a government or institution you know little about. I’m asking you to do this for yourself! Haven’t you always wanted to develop your skills, your talents? You have a rare ability. Why not take advantage of this opportunity, especially you, a person whose life has had, if I may say, too few advantages. Even if you return to your old life afterward, won’t you be better off if you can use the Force, rather than relying on what you once thought of as a ‘knack’ for finding valuable objects?”
+>
+> “You are independent, Zekk. I see that. We’re looking for independent people—people who can make their own decisions, who can succeed no matter how much their so-called friends expect them to fail.
+>
+> You have your chance, here, now. If you aren’t interested in bettering yourself, if you don’t bother to make the attempt, then you fail before you’ve even begun.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:67`
+
+What it shows (our notes): Brakiss stops the lesson to leave Zekk hungry for more.
+> “No,” Brakiss said with a smile that was not unkind. “Not too much at once.
+>
+> Come with me to the docking bay. I need to show you something else.”
+>
+> Zekk licked his lips, feeling hungry somehow, and followed Brakiss, trying to squelch his impatience to try again with the flame. His appetite had now been whetted—and part of him suspected that was exactly what the leader of the Shadow Academy had intended…
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:69`
+
+What it shows (our notes): Brakiss on order versus too much freedom.
+> “You see, Zekk,” Brakiss said, knitting his pale eyebrows together, “we are truly the underdogs in this struggle. Although our movement is small and somewhat hopeless—we know we’re right. We are forced to fight for what is ours against a blundering New Republic that continually seeks to rewrite history and force its chaotic ways upon us all.”
+>
+> “We believe in freedom in the Second Imperium—truly we do,” Brakis said with great sincerity “But there’s a point at which too much freedom causes damage. The races of the galaxy need a road map, a framework of order and control, so they can go about their business and not destroy the dreams of others in their own pursuits.”
+>
+> “You are independent, Zekk. You know what you’re doing. But think about all those aimless people displaced by the changes in the galaxy, beings who have nowhere to go, no dreams to follow, no goals … and no one to tell them what to do. You can help to change that.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:75`
+
+What it shows (our notes): Brakiss's office walls show cosmic violence; he uses the dark side as his focus.
+> The Academy leader’s private chamber seemed as dark as space. The walls were made of black transparisteel, projecting images of cataclysmic astronomical events: flaming solar flares, collapsing stars, gushing lava fields.
+>
+> Brakiss always found inspiration on the walls of his Shadow Academy office, where the exploding stars, broken planets, and cascading glaciers reminded him of the fury locked within the universe. By using the dark side as his focus, Brakiss tapped into that incredible energy and used it for his own benefit, to help pave the way for the return of the Empire.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14, 18.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:65`
+
+What it shows (our notes): Brakiss reports to the Great Leader, who appears as Emperor Palpatine.
+> After performing the appropriate gestures of obeisance, he looked up into the face of the Great Leader of the Second Imperium—the hooded, wrinkled form of Emperor Palpatine himself!
+>
+> Brakiss knew that the rest of the galaxy thought the Emperor had died many years ago, first in the explosion of the second Death Star, and then six years later in the destruction of the last of Palpatine’s clones. But the Emperor’s death must have been some kind of illusion, because Brakiss could see the transmission with his own eyes. He could not guess how the Emperor had survived, what sort of trick the great man had played on everyone—but with the Force, many things were possible.
+>
+> Master Skywalker had taught him that.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:55`
+
+What it shows (our notes): Brakiss reports the stolen cargo and the underworld recruits; those without Jedi potential become elite stormtroopers.
+> “Yes, my master. I have good news to report. We are sending along the hyperdrive cores and turbolaser batteries stolen from the Rebel supply ship, as you ordered. I think your glorious military machine will make efficient use of them.”
+>
+> “Here at the Shadow Academy your new force of Dark Jedi grows more powerful each day. I am particularly pleased that we have uncovered new candidates from the underworld of Imperial Center —exactly as you suspected, my master. No one will notice their disappearance, and we are free to turn them.”
+>
+> “Naturally, many of these new candidates have no Jedi potential, but still they remain eager for opportunities. Therefore, we have begun training one group as elite stormtroopers. They know the underworld of Coruscant very well, and could prove to be effective spies or saboteurs, should we choose to employ them in such a fashion.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:58`
+
+What it shows (our notes): Luke says there is always hope, even for Brakiss.
+> “But there’s always hope—for Zekk, even for Brakiss. We have no way of knowing.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:143`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — A Rebel shuttle smashes into the cloaked Shadow Academy, and the docking tower needs two days of repairs.
+> One of the stormtroopers stopped in front of them and saluted. “I have an update for you, sir,” he said to Brakiss. “Our repairs on the upper docking tower are almost complete. We should have it fully functional in two days.”
+>
+> “Good,” Brakiss said, looking relieved. He explained to Zekk, “I still find it difficult to believe that a Rebel supply shuttle could have been so unfortunately clumsy as to smash right into the cloaked Shadow Academy!
+>
+> These Rebels cause damage even when they’re not looking!”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:72`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Speaking to his master fills Brakiss with terror; he knows his place as a dutiful slave.
+> Speaking with his ominously powerful leader filled Brakiss with both terror and awe, and he was forced to use a Jedi calming technique, though patience was very difficult.
+>
+> The Great Leader of the Second Imperium had enormous burdens and responsibilities. He was frequently late for his scheduled communications—not that Brakiss would ever dare mention it. The Leader set his own schedule; Brakiss was merely the dutiful slave who knew his place in the grand scheme.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:52`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The Great Leader has rigged the Shadow Academy to explode if its Dark Jedi get out of control; Brakiss must show success after success.
+> But Dark Jedi were notoriously dangerous and unstable, prone to delusions of grandeur. Realizing this risk, the Great Leader had taken precautions to protect himself from the Shadow Academy. The huge ring-shaped station was riddled with deadly explosives, detonators threaded through the life-support systems, the hull, and thousands of other places that Brakiss neither knew nor wanted to consider. The moment his Dark Jedi gave hints that they might get out of control, the Great Leader would detonate those explosives and end the experiment without remorse.
+>
+> Brakiss had to show success after success to keep his powerful master happy—and the Shadow Academy had recently had several spectacular accomplishments indeed.
+>
+> “Don’t disappoint me, Brakiss,” he said. “I should be most displeased if I was forced to blow up your Shadow Academy.”
+>
+> Brakiss bowed low, and his silvery robes pooled around him. “I would be displeased as well,” he said.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:54`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — After each call Brakiss trembles all over.
+> Brakiss felt himself trembling all over, as he did each time he spoke to the awesome Palpatine. Exhausted, he sat down again at his desk and began to review his next set of plans, obsessively careful not to allow any mistakes.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:62`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The mirror beam overwhelms the Shadow Academy's cloak, and the fleet scores hits before it escapes.
+> The light should have kept flying across the solar system, but when it struck the empty coordinates, space itself seemed to shimmer like golden smoke. The high-intensity flood of sunlight continued to bombard the cloaked area, finally overwhelming the invisibility shields around the Shadow Academy.
+>
+> The first of the New Republic ships soared ahead, firing laser bursts at the Shadow Academy. Several shots struck home, leaving dark blaster scoring on the outer hull; the intensity of the solar mirror must have burned out some shields.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:102`
+
 
 
 

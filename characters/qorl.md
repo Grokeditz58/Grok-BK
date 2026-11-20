@@ -6,21 +6,22 @@ Evidence file for Qorl, the TIE fighter pilot stranded on Yavin 4 after the Batt
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-19 CST. Young Jedi Knights 2: Shadow Academy (same authors, 1995), read in full on 2026-11-20 CST (notes: `notes/materials/174-yjk-02-shadow-academy/`). OCR slips in the e-book text were corrected against the 1995 print scan. Notes: `notes/materials/173-yjk-01-heirs-of-the-force/`.
-- Later Young Jedi Knights books (The Lost Ones onward) are not read yet; his later appearances will be added when they are.
+- Sources read for this file: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), read in full on 2026-11-19 CST. Young Jedi Knights 2: Shadow Academy (same authors, 1995), read in full on 2026-11-20 CST (notes: `notes/materials/174-yjk-02-shadow-academy/`). Young Jedi Knights 3: The Lost Ones (same authors, 1995), read in full on 2026-11-20 CST from the e-book (no print scan, so chapter citations only; notes: `notes/materials/175-yjk-03-the-lost-ones/`). OCR slips in the e-book text were corrected against the 1995 print scan. Notes: `notes/materials/173-yjk-01-heirs-of-the-force/`.
+- Later Young Jedi Knights books (Lightsabers onward) are not read yet; his later appearances will be added when they are.
 - Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 7 entries from Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), read in full; e-book glitches were corrected against the 1995 print scan. Notes: `notes/materials/174-yjk-02-shadow-academy/`.
-- This file has 35 entries and 35 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), read in full from the e-book (no print scan in the library, so chapter citations only; e-book spacing glitches normalized). Notes: `notes/materials/175-yjk-03-the-lost-ones/`.
+- This file has 43 entries and 43 quotes.
 
 ## Contents
 
-- [Background and Battle of Yavin](#background-and-battle-of-yavin) (6)
+- [Background and Battle of Yavin](#background-and-battle-of-yavin) (7)
 - [Survival and Endurance](#survival-and-endurance) (4)
 - [Force Defense and Resistance](#force-defense-and-resistance) (3)
-- [Piloting](#piloting) (8)
-- [Combat and Tactics](#combat-and-tactics) (4)
-- [Statements and Beliefs](#statements-and-beliefs) (8)
+- [Piloting](#piloting) (9)
+- [Combat and Tactics](#combat-and-tactics) (7)
+- [Statements and Beliefs](#statements-and-beliefs) (11)
 - [Limitations](#limitations) (2)
 
 ## Background and Battle of Yavin
@@ -97,9 +98,17 @@ I was damaged in the cross fire … one solar panel out of commission. I spun aw
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 8
 ```
 
+### 7. Qorl's droid arm replaced the arm crippled in his TIE crash on Yavin 4; it is stronger but has no feeling.
+
+```
+Qorl clenched the black-gloved hand of his bulky droid arm into a fist. His own arm had been crippled when his TIE fighter crashed on the jungle moon of Yavin 4, but Imperial engineers had replaced the twisted limb with a more powerful droid attachment. His strength had increased, though he could not feel anything with his new mechanical fingers.
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
+```
+
 ## Survival and Endurance
 
-### 7. For twenty years Qorl hid his wrecked fighter from the Rebels, surviving in rags patched with furs, his left arm crippled in the crash.
+### 8. For twenty years Qorl hid his wrecked fighter from the Rebels, surviving in rags patched with furs, his left arm crippled in the crash.
 
 ```
 The pilot’s protective uniform hung in rags from his gaunt frame, worn to tatters and patched with furs from an incredible number of years living alone in the jungle. His left arm, injured during the crash, was drawn up like a twisted claw against his chest. He stepped forward, cracking twigs under his old boots as he made his way to the crash site that was no longer secret. He had camouflaged the wrecked Imperial craft many years ago, hiding it from Rebel eyes. But now, despite all his work, it had been discovered.
@@ -107,7 +116,7 @@ The pilot’s protective uniform hung in rags from his gaunt frame, worn to tatt
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 9
 ```
 
-### 8. Qorl carved his shelter out of the bole of a half-burned Massassi tree.
+### 9. Qorl carved his shelter out of the bole of a half-burned Massassi tree.
 
 ```
 He had carved out a large shelter from the bole of a half-burned Massassi tree, in front of which he had lashed a lean-to of split branches. Altogether, it provided him with a simple but comfortable room, like a living cave.
@@ -115,7 +124,7 @@ He had carved out a large shelter from the bole of a half-burned Massassi tree, 
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 14
 ```
 
-### 9. Qorl treated his broken arm with his medi-kit and endured long pain.
+### 10. Qorl treated his broken arm with his medi-kit and endured long pain.
 
 ```
 “I used my medi-kit,” he said.
@@ -125,7 +134,7 @@ He had carved out a large shelter from the bole of a half-burned Massassi tree, 
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 14
 ```
 
-### 10. Narration notes that Qorl survived undetected in hostile territory for two decades.
+### 11. Narration notes that Qorl survived undetected in hostile territory for two decades.
 
 ```
 He had survived undetected in hostile territory for two decades.
@@ -135,7 +144,7 @@ He had survived undetected in hostile territory for two decades.
 
 ## Force Defense and Resistance
 
-### 11. Jaina's Jedi suggestion to drop his blaster runs into a mind so rigid it seems like droid programming.
+### 12. Jaina's Jedi suggestion to drop his blaster runs into a mind so rigid it seems like droid programming.
 
 ```
 But inside the Imperial fighter’s mind she ran up against a wall of thoughts so rigid, so black-and-white, so clear-cut, that it seemed like droid programming.
@@ -143,7 +152,7 @@ But inside the Imperial fighter’s mind she ran up against a wall of thoughts s
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11
 ```
 
-### 12. Jacen tries to yank the blaster from Qorl's hand with the Force, but Qorl keeps hold of it and warns them to stop their Jedi tricks.
+### 13. Jacen tries to yank the blaster from Qorl's hand with the Force, but Qorl keeps hold of it and warns them to stop their Jedi tricks.
 
 ```
 Jacen, seeing their chance slipping away, reached out with his mind and yanked at the weapon with mental brute force.
@@ -155,7 +164,7 @@ Jacen, seeing their chance slipping away, reached out with his mind and yanked a
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11
 ```
 
-### 13. Jacen's calming thoughts meet the rigid wall of brainwashing that has locked Qorl's thoughts.
+### 14. Jacen's calming thoughts meet the rigid wall of brainwashing that has locked Qorl's thoughts.
 
 ```
 Jacen desperately tried to send calming thoughts to soothe Qorl, as he so frequently did with his crystal snakes. But it was no use: his mind encountered the rigid wall of brainwashing that had locked Qorl’s thoughts into unchangeable patterns.
@@ -167,7 +176,7 @@ The TIE pilot looked away, and his temper seemed to lessen. Jacen couldn’t tel
 
 ## Piloting
 
-### 14. Qorl lifts off in the restored TIE after twenty years on the ground and climbs out of the canopy with surprisingly skillful maneuvering.
+### 15. Qorl lifts off in the restored TIE after twenty years on the ground and climbs out of the canopy with surprisingly skillful maneuvering.
 
 ```
 Qorl’s TIE fighter, which had lain hidden and crippled on the surface of Yavin 4 for more than twenty years, finally rose into the air. Its twin ion engines made the characteristic moaning sound that had struck fear into the hearts of so many Rebel fighters.
@@ -177,7 +186,7 @@ With surprisingly skillful maneuvering and a burst of speed, Qorl’s fighter cl
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 15. Qorl had been one of the best pilots in his squadron. With a badly healed arm he still flies well, and he once landed his ship under heavy fire despite grievous engine damage.
+### 16. Qorl had been one of the best pilots in his squadron. With a badly healed arm he still flies well, and he once landed his ship under heavy fire despite grievous engine damage.
 
 ```
 He had been an excellent pilot—one of the best in his squadron—soaring through mock battles and enforcing the Emperor’s unbending will.
@@ -189,7 +198,7 @@ Qorl watched the knotted green crowns of Massassi trees flowing beneath him in t
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 16. Qorl climbs at an impossibly steep angle and breaks into evasive maneuvers.
+### 17. Qorl climbs at an impossibly steep angle and breaks into evasive maneuvers.
 
 ```
 The TIE fighter zoomed upward on an impossibly steep trajectory, climbing into the air above the dense green treetops. Then the Imperial ship wheeled about in an evasive maneuver. “All right,” Han said, his anger evident. “This old ship has taken on plenty of TIE fighters in its day. We can take on one more.
@@ -197,7 +206,7 @@ The TIE fighter zoomed upward on an impossibly steep trajectory, climbing into t
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 17. Qorl breaks the Falcon's partial tractor-beam hold with alternating engine bursts, and Han whistles with reluctant admiration.
+### 18. Qorl breaks the Falcon's partial tractor-beam hold with alternating engine bursts, and Han whistles with reluctant admiration.
 
 ```
 The TIE fighter lurched and jerked to one side as the tractor beam snagged a partial hold—but the pilot alternated bursts from his twin ion engines and tore free, spinning upward in a tight corkscrew that made Han whistle with reluctant admiration.
@@ -207,7 +216,7 @@ The TIE fighter lurched and jerked to one side as the tractor beam snagged a par
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 18. Near the treetops, the TIE's maneuverability gives Qorl an advantage over the faster Falcon.
+### 19. Near the treetops, the TIE's maneuverability gives Qorl an advantage over the faster Falcon.
 
 ```
 If it were only a matter of speed, the Falcon’s more powerful engines could have outrun the TIE fighter and brought it down, but the small ship’s maneuverability among the dangerous treetops gave the Imperial pilot a definite advantage.
@@ -215,7 +224,7 @@ If it were only a matter of speed, the Falcon’s more powerful engines could ha
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 19. Just as Han gets a target lock, Qorl jumps to lightspeed on the hyperdrive Jaina installed.
+### 20. Just as Han gets a target lock, Qorl jumps to lightspeed on the hyperdrive Jaina installed.
 
 ```
 But at the last possible instant, the lone TIE fighter shot forward with a blaze of astonishing speed, becoming a molten metal point of light. It dwindled in the sudden distance, screaming forward with instant lightspeed—and plunged into hyperspace with a silent bang.
@@ -223,7 +232,7 @@ But at the last possible instant, the lone TIE fighter shot forward with a blaze
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 20. Qorl flies the ship carrying the captives to the Shadow Academy.
+### 21. Qorl flies the ship carrying the captives to the Shadow Academy.
 
 ```
 “We have reached our destination, Tamith Kai,” the pilot said, swiveling in his tall chair. Jaina’s heart leaped as she recognized the weary, hard-bitten face and iron-gray hair of the former TIE pilot who had been stranded on Yavin 4 for so many years.
@@ -233,7 +242,7 @@ But at the last possible instant, the lone TIE fighter shot forward with a blaze
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 21. Qorl works the shuttle's controls with grim proficiency.
+### 22. Qorl works the shuttle's controls with grim proficiency.
 
 ```
 The Imperial pilot worked the controls with grim proficiency, and Jacen noticed that his damaged left arm-which had never properly healed when his TIE fighter had crashed on Yavin 4-was now bulkier, encased in black leather from the shoulder down, wrapped with straps and battery packs.
@@ -241,9 +250,19 @@ The Imperial pilot worked the controls with grim proficiency, and Jacen noticed 
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 8
 ```
 
+### 23. Qorl flies the hijacked Adamant away alone, following his Imperial ships.
+
+```
+“Go!” he said to the troopers. “Take the assault shuttle and escape. I will meet you back at the base.”
+
+Secure in his suit, Qorl powered up all the engines. He fed in preprogrammed coordinates, and the Adamant lurched into motion. As the Rebel fleet zoomed in, Qorl followed his Imperial ships, carrying with him an incredible treasure that would help the Second Imperium gain its rightful place of military superiority.
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
+```
+
 ## Combat and Tactics
 
-### 22. Qorl takes a practiced firing stance against the oncoming air speeder.
+### 24. Qorl takes a practiced firing stance against the oncoming air speeder.
 
 ```
 But the armored Imperial soldier stood his ground at the center of the clearing, spreading his legs for balance and assuming a practiced firing stance. He pointed his blaster at the oncoming air speeder, unflinching.
@@ -251,7 +270,7 @@ But the armored Imperial soldier stood his ground at the center of the clearing,
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11
 ```
 
-### 23. Qorl plans his strike: trap any fighters in their hangar, collapse the Great Temple, then deal with the freighter and the power station.
+### 25. Qorl plans his strike: trap any fighters in their hangar, collapse the Great Temple, then deal with the freighter and the power station.
 
 ```
 It was probable, Qorl realized, that the Rebels kept a large force of more powerful fighters in an underground hangar bay. If so, his first task was to prevent those craft from launching—even if only by damaging the doors enough to keep the ships trapped inside.
@@ -267,7 +286,7 @@ From start to finish, it would take only a few minutes to bring the Rebels to th
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 24. When the crystal snake strikes, its fangs cannot get through Qorl's gauntlet. He rips it free one-handed and jettisons it.
+### 26. When the crystal snake strikes, its fangs cannot get through Qorl's gauntlet. He rips it free one-handed and jettisons it.
 
 ```
 The crystal snake dug its spearlike fangs into the thick leather of Qorl’s gauntlet, but was unable to penetrate all the way to his skin.
@@ -279,7 +298,7 @@ He let the TIE fighter fly itself as he reached with his good hand to grab the l
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 25. Qorl tells Han the twins were alive when he left them but the jungle is dangerous, and Tenel Ka recognizes it as a trick to break off the pursuit.
+### 27. Qorl tells Han the twins were alive when he left them but the jungle is dangerous, and Tenel Ka recognizes it as a trick to break off the pursuit.
 
 ```
 “They are your children, pilot? They were alive when I left them—but the jungle is a dangerous place. There’s no telling if they will last long enough for you to rescue them.”
@@ -291,9 +310,45 @@ Tenel Ka marveled at the brilliant strategy.
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
+### 28. Qorl leads the assault shuttle against the Adamant and cuts into its hull with the Corusca-toothed boring mouth.
+
+```
+The modified assault shuttle zeroed in on its target. At his controls the former TIE pilot Qorl guided the attack. He wore a black skull-like helmet that sealed against his skin and recirculated breathable air. The dark goggles covering his eyes transmitted important tactical data to his retinas.
+
+He positioned the shuttle’s circular cutting mouth attachment against the armor plating of the Rebel supply cruiser. The name Adamant had been stenciled on the side … Adamant, which meant impenetrable, unyielding.
+
+Qorl grunted to himself. The exceedingly tough cutting teeth were made from industrial-grade Corusca gems and could slice through any known substance.
+
+Qorl punched an important-looking red button on the controls. It set the Corusca blades spinning, chewing, until the attachment had sliced out a large circle in the Adamant’s hull, opening a hole into the supply cruiser.
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
+```
+
+### 29. Qorl strikes in the moment the Rebels let their defenses lapse, with a five-minute timetable.
+
+```
+Qorl knew that the supply cruiser’s main defenses had been on the escort ships, the fourteen heavily armed corvettes, E-wings, and X-wings that had flanked the Adamant on its trip to Coruscant. The Rebels had become complacent at their capital world, though, and they had let their defenses lapse for just a moment. Qorl, lurking in his invisible hiding place, had seized that moment to strike.
+
+“Very well,” Qorl said, standing from his command chair. “Begin the assault.
+
+We must be away from here within five standard minutes. We have no time for errors.”
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
+```
+
+### 30. Tackled by Ackbar on the bridge, Qorl knocks him out with his droid fist.
+
+```
+The dark goggles of his TIE helmet allowed little peripheral vision, and as he passed the command station, the Rebel commanding officer—a fish-faced Calamarian—leaped up and tackled him. Qorl’s blaster pistol clattered to the floor.
+
+The officer wrestled with Qorl, fighting with flipper hands, but the TIE pilot drove his powerful droid fist into the face of the alien, knocking him out cold.
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
+```
+
 ## Statements and Beliefs
 
-### 26. Qorl's creed: surrender is betrayal.
+### 31. Qorl's creed: surrender is betrayal.
 
 ```
 “Surrender is betrayal,” he said again. He stared down at his fighter, trying to see what damage the Rebel spies had caused.
@@ -301,7 +356,7 @@ Tenel Ka marveled at the brilliant strategy.
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 9
 ```
 
-### 27. Qorl insists the Empire will always rule.
+### 32. Qorl insists the Empire will always rule.
 
 ```
 “Be quiet,” Qorl said. “The Empire will always rule. The Emperor is invincible.”
@@ -313,7 +368,7 @@ Tenel Ka marveled at the brilliant strategy.
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 14
 ```
 
-### 28. Qorl threatens to shoot Jacen if the repairs go too slowly: he was trained by the Empire and will do what is necessary.
+### 33. Qorl threatens to shoot Jacen if the repairs go too slowly: he was trained by the Empire and will do what is necessary.
 
 ```
 If you cannot complete repairs faster, I will shoot your brother.
@@ -327,7 +382,7 @@ Both Jacen and Jaina looked at the TIE pilot in shock. “Qorl, you wouldn’t d
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 29. Qorl leaves the twins alive in the jungle, telling them hope is their best weapon.
+### 34. Qorl leaves the twins alive in the jungle, telling them hope is their best weapon.
 
 ```
 “You can survive if you are resourceful,” Qorl said. “I know, because I did. Perhaps someone will find you eventually. Hope is your best weapon.
@@ -337,7 +392,7 @@ It may not take twenty years for you to get home.”
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 30. Qorl's military conditioning won out, and he reported the young Jedi.
+### 35. Qorl's military conditioning won out, and he reported the young Jedi.
 
 ```
 But in the end, Qorl’s military conditioning had been too strong.
@@ -347,7 +402,7 @@ But in the end, Qorl’s military conditioning had been too strong.
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 31. Qorl is uneasy at the duel between the disguised twins and calls them among the best trainees.
+### 36. Qorl is uneasy at the duel between the disguised twins and calls them among the best trainees.
 
 ```
 Qorl remained silent for a long moment, fidgeting with restrained anxiety. Finally he said, “Isn’t this dangerous, Brakiss? With one slip, those children could kill each other. You would lose two of your best trainees at the Shadow Academy .”
@@ -361,7 +416,7 @@ Qorl turned away and walked toward the exit, so Brakiss would not see the depth 
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 32. Qorl disagrees with Brakiss's tactics but serves the Empire, and reports the escape.
+### 37. Qorl disagrees with Brakiss's tactics but serves the Empire, and reports the escape.
 
 ```
 The other Dark Jedi students were pleased to have an opportunity to increase their powers and appreciated their training; but Qorl had been certain these three would cause trouble - especially since Brakiss and Tamith Kai seemed determined to injure or kill them. Qorl had been gravely disturbed at the supposed duel to the death between the holographically disguised brother and sister. He also knew the dangerous testing routine with flying stones and knives had already been responsible for the deaths of half a dozen promising trainees. He didn’t agree with Brakiss’s tactics, but Qorl was just a pilot; no one listened to his point of view, no matter how certain he was. Yet Qorl served his Empire, and he had to do what he knew was right.
@@ -373,7 +428,7 @@ The other Dark Jedi students were pleased to have an opportunity to increase the
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
-### 33. Qorl secretly opens the space doors for the Shadow Chaser and never tells Brakiss or Tamith Kai.
+### 38. Qorl secretly opens the space doors for the Shadow Chaser and never tells Brakiss or Tamith Kai.
 
 ```
 Qorl touched the space door controls, smiled faintly to himself, and then closed the doors. He would, of course, never tell Brakiss or Tamith Kai.
@@ -381,9 +436,45 @@ Qorl touched the space door controls, smiled faintly to himself, and then closed
 — Shadow Academy (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 21
 ```
 
+### 39. Qorl orders the stunned Rebel crew put in an escape pod; he cannot let brave enemies die.
+
+```
+He hesitated. “Stuff these Rebels into an escape pod, and launch it.”
+
+“Save them, sir?” the trooper asked, perplexed. “We don’t have much time.”
+
+“Then be quick about it!” Qorl snapped. Conflicting emotions warred within him. These were the enemy, and he had sworn to fight them—but the crew on this ship had battled valiantly, and he couldn’t stomach letting them die as they lay there unconscious.
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 7
+```
+
+### 40. Qorl reports the haul to Brakiss: enough to double the Second Imperium's military strength.
+
+```
+Qorl was still in his black armored suit and cradled his skull-like helmet in his powerful droid arm. “The captured Rebel cruiser Adamant is now enclosed within our shields, Lord Brakiss,” he said.
+
+“Its weaponry is being off-loaded even as we speak.”
+
+Qorl nodded. “Affirmative, sir. The hyperdrive cores and turbolaser batteries will enable us to virtually double the Second Imperium’s military strength. It was a wise move to strike now.”
+
+“These are fine new models, Lord Brakiss,” the old TIE pilot said. “We can use them to power our weapons systems, or we can convert more of our fighters to lightspeed attack vessels, like my own former TIE fighter.”
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 11, 14
+```
+
+### 41. Jaina had hoped Qorl would turn, but his Imperial conditioning won out.
+
+```
+From Ackbar’s description, Jaina knew that the Imperial in command of the attack had been none other than Qorl, the TIE pilot she and Jacen had tried to befriend near his crashed ship on Yavin.
+
+Jaina had hoped Qorl would see the error of his ways—and though the TIE pilot had trembled on the verge of surrender, the Imperial brainwashing had won out in the end. And now Qorl continued to cause trouble for the New Republic.
+
+— The Lost Ones (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
+```
+
 ## Limitations
 
-### 34. Qorl does not recognize the Millennium Falcon.
+### 42. Qorl does not recognize the Millennium Falcon.
 
 ```
 Qorl didn’t immediately recognize the make or model of the lone ship below. It was some kind of light freighter, not a Rebel X-wing or any of the familiar battleships he had learned about during his rigorous combat training.
@@ -391,7 +482,7 @@ Qorl didn’t immediately recognize the make or model of the lone ship below. It
 — Heirs of the Force (Kevin J. Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 35. Qorl's laser cannons fail on his attack run because Jaina sabotaged them, and his diagnostics still read normal.
+### 43. Qorl's laser cannons fail on his attack run because Jaina sabotaged them, and his diagnostics still read normal.
 
 ```
 He squeezed the button again and again—and nothing happened! The weapons systems did not respond.

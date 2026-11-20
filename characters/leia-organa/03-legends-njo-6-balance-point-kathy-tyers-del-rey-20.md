@@ -7035,6 +7035,91 @@ What it shows (our notes): Leia lets Luke keep the Shadow Chaser.
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:110`
 
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Leia's workload as Chief of State; there are always threats from outside.
+> Since that time, Leia had taken on extremely heavy political duties and devoted most of her waking hours - along with quite a few of those she should have spent sleeping - to untangling knots in the threads of diplomacy.
+>
+> “I have a meeting with the Howler Tree People of Bendone … they speak a very strange language and need a team of translators. It’ll take me all morning long just to hold a conversation.”
+>
+> “And their ultrasonic voices give me a headache!” Leia drew a deep breath and forced a smile. “But it’s part of the job. We have to keep the New Republic strong.
+>
+> There are always threats from the outside.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:33`
+
+What it shows (our notes): Leia refuses Jacen's Corusca gem and tells him to find a special use for it.
+> Leia’s expression showed how deeply moved she was, but she closed her son’s fingers around the valuable gem. “Just having you offer it to me is a very special gift,” she said. “But I don’t really need any more jewels or treasures. I’d like you to keep it—find a special use for it. I’m sure you’ll think of something.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:35`
+
+What it shows (our notes): Leia presents the hawkbat egg to the Karnak Alpha ambassador as a diplomatic gift.
+> The Karnak ambassador trembled with excitement, her long hair jiggling, as Lela explained. “Madam Ambassador, we know very little about your culture—but we do know that you have a great love for unusual zoological specimens. We have heard reports of your magnificent holographic dioramas and huge alternate-environment zoos where the animals don’t even realize they are in a cage. As a diplomatic gift to you and your people, we present to you this rare and precious hawkbat egg, one of the most difficult-to-catch creatures native to Imperial City. Very few of them are in captivity.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:37`
+
+What it shows (our notes): Leia covers for Zekk by eating her own bouquet, and the whole table follows.
+> From the far end of the table Princess Leia cleared her throat. “I’m glad you liked the salad, Zekk,” she said in a voice loud enough for everyone to hear, and pulled her crystal dish toward her. She selected a frilly purple-green leaf and stuffed it in her mouth, munching contentedly. Han Solo looked at his wife as if she had gone crazy, then jerked as if he had been kicked under the table. He too began to eat his bouquet. Jaina followed suit, and soon everyone at the table had devoured their “salads.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:46`
+
+What it shows (our notes): Leia puts her children ahead of the ambassador, and the alliance is settled.
+> “As your father and I walked the ambassador and her children back to their quarters, I realized that my kids were more important to me than any ambassador. When we got to their quarters, the ambassador said she was ready to discuss her planet’s alliance with the New Republic. That’s when I amazed even myself. I said I’d be happy to talk with her about it in the morning—but that for right now I needed to be with my children.”
+>
+> Leia chuckled. “Yes I did, and you know what she said?” She sounded a bit surprised. “She said in that case she no longer had any doubts that we could form an alliance. Everything is all set.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:85`
+
+What it shows (our notes): Leia acts decisively when Jacen and Tenel Ka vanish, leading guards with Threepio tracking.
+> Her alarm growing visibly, Leia said, “He would answer—unless he’s in trouble.” She reached some sort of decision and snapped into action, demonstrating one of the qualities that made her a good Chief of State.
+>
+> “We’ve got to go find them. Tenel Ka wouldn’t let Jacen do anything dangerous. But she probably doesn’t think anything is dangerous.”
+>
+> “I’ll summon a group of guards to go with us.
+>
+> Threepio, can you trace the location of Jacen’s comlink?”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:69`
+
+What it shows (our notes): Leia catches Anakin when he slips on the walkway, and pushes bravely ahead.
+> Once, at a spot where the side rail was missing, Anakin lost his footing and nearly fell off the bridge, but Leia instinctively grabbed him. She looked at her son with shock, then hugged him quickly. “Be careful,” she urged. “We’ve all got to be careful.”
+>
+> Leia held her chin up and bravely pushed ahead with greater speed.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:72`
+
+What it shows (our notes): Leia vows decisive action against the Second Imperium.
+> Leia shook her head, her dark eyes flashing. “I think it’s about time we did something decisive about that Second Imperium!” she said. “That’s twice now they’ve hurt my children.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:83`
+
+What it shows (our notes): Luke: even Vader never sensed Leia's Jedi potential.
+> Even Darth Vader had no idea that your mother Leia had Jedi potential, though he spent quite a lot of time near her. You can’t blame yourself, Jaina.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:140`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Leia dismisses Zekk's disappearance: no resources to look for every missing teenager.
+> After that news, when Jacen poured out the story of Zekk’s disappearance, Leia didn’t seem overly concerned. She let her gaze drift across all four of the young Jedi Knights standing in her office. “All right, let me ask you this: Who knows the city better, the four of you … or Zekk?”
+>
+> “And those other times he wasn’t upset over an embarrassing diplomatic dinner, either. Look, he’s older than you are, and legally he can come and go as he pleases. But even if we knew for certain that he was missing—which we don’t—there’s very little we could do about it. The galaxy is a big place. Who knows where he might be?”
+>
+> “People turn up missing all the time, and we simply don’t have the resources to look for everybody. Just this week I’ve had reports of at least three other teenagers missing in Imperial City alone.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:99`
+
+
 
 # CANON (Disney canon — kept separate)
 

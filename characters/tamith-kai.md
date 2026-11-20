@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 17 (16 with quotations; 14 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 25 (24 with quotations; 22 quotations extended to the full sentence/passage from the source text on file; 1 marked as fragments; 2 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/tamith-kai.md.bak-20261117`. Added 2026-11-20: 14 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -196,6 +196,81 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tamith Kai limps into the 
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.199).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:102`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tamith Kai confronts Zekk in the lower city; she now walks with a pronounced limp.
+> Zekk looked up with a gasp to see a tall figure, darker than the inky shadows, step out in front of him. “Well, what have we here?” a syrupy voice said, deep and powerful.
+>
+> The figure stepped closer, and Zekk could see a tall woman with eyes that flashed a burning violet. She wore a glittering black cloak with shoulder spines like defensive armor. Long black hair flowed around her like wire-thin snakes. Her skin was pale, her lips a deep crimson. She tried to smile, but the expression looked foreign on her face.
+>
+> “Greetings, young sir,” she said, her voice oozing persuasion. “I require a moment of your time.” When she stepped more fully into the light, Zekk noticed that the woman walked with a pronounced limp.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:71`
+
+What it shows (our notes): Tamith Kai scans Zekk with a crystal-paddle device for Force potential.
+> “Just one moment of your time, boy. Vilas and Garowyn here will make sure you don’t do anything foolish,” the dangerous-looking woman said. She limped closer to him. “I am Tamith Kai, and we need to perform a test on you. It won’t hurt a bit.” Zekk thought he detected a tone of disappointment in her voice.
+>
+> Tamith Kai withdrew a strange device from the black folds of her cape.
+>
+> Unraveling wires connected to a pair of flat crystalline paddles, she switched on an additional power grid. A high-pitched hum vibrated through the machine case.
+>
+> “Some of them can be dangerous when they kick.” She leaned closer and waved the humming crystal paddles around his body, scanning him.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:73`
+
+What it shows (our notes): Tamith Kai reads Zekk's power and has him stunned.
+> “Hmmm, surprising,” Tamith Kai said. “Look at the power he has.”
+>
+> “You’ll be coming with us,” Tamith Kai said. Her tone was filled with confidence, as if she didn’t care about his objections.
+>
+> “Oh, just stun him,” Tamith Kai said impatiently, turning about on her stiff leg and limping back down the shadow-shrouded corridor. “He’ll be easier to carry that way.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:76`
+
+What it shows (our notes): Tamith Kai watches from the docking-bay control room; Brakiss says she is jealous of Zekk.
+> Up in the control room overlooking the cavernous docking bay, the black-haired Tamith Kai stood watching the activities through slitted violet eyes. Beside her were two dark allies from Dathomir, Vilas and Garowyn. Zekk flinched, his lips curling downward in anger as he noted that these were the ones who had stunned him and taken him from Imperial City.
+>
+> “Pay them no mind,” Brakiss said with a dismissive gesture. “They’re jealous because of the attention I’m paying you.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:71`
+
+What it shows (our notes): Tamith Kai calls Zekk young Lord Zekk and tells him the twins are not his friends.
+> Just then, one of the corroded doors at the far side of the chamber scraped open. “They are not your friends, young Lord Zekk,” said a woman’s voice, rich and low. “You know better than that now. They may claim to be your friends, but you’ve seen evidence of just how much they truly value you.”
+>
+> Jacen and Tenel Ka both whirled to see the ominous form of the black-cloaked Nightsister, with her static-charged ebony hair and blazing violet eyes. The upthrust spines on the shoulders of her cloak looked like spears. Two others dressed in similar fashion stood on either side of her: a young dark-haired man and a petite powerhouse of a woman, both of whom looked as rigid as the towering Nightsister herself.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:36`
+
+What it shows (our notes): Tamith Kai promises the Lost Ones equal opportunity and says highborn pups are no more worthy.
+> “They are not lies!” Tamith Kai interrupted, her melodious voice holding the potential for deadliness. “We will keep our promises. You will all be given equal opportunities, without regard to your social status in the Rebel worlds. The Second Imperium won’t judge who you are—only what you do for us.”
+>
+> “Yes,” Tamith Kai continued, “and we have learned our lesson. Highborn noble pups such as you are no more worthy of being Imperial Dark Jedi than any other student.” Her violet eyes glared daggers at Tenel Ka.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:42`
+
+What it shows (our notes): Jacen suspects Tamith Kai or the others are using a Force trick on the Lost Ones.
+> The burly Norys and the other Lost Ones seemed to have been hypnotized, and Jacen wondered if Tamith Kai or the others were using some sort of Force trick to make them more susceptible to insidious suggestions.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:44`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's taunt about her knee nearly makes Tamith Kai lose control of her rage.
+> “So, how is your knee?” she asked Tamith Kai.
+>
+> The tall woman’s face rolled with a thunderstorm of anger. Her wine-dark lips curled down, and she barely controlled her rage at being reminded of how Tenel Ka had humiliated her during the young Jedi Knights’ escape from the Shadow Academy. “Jedi brats,” she snarled, ‘You should learn when to leave well enough alone.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:39`
+
 
 
 # Debate and forum claims (unverified)

@@ -116,6 +116,37 @@ What it shows (our notes): Han wants to go after the kids himself in the Falcon.
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:106`
 
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Han tells the twins not to get cocky; they are always at a tie.
+> “Don’t get cocky, kids,” Han shouted good-naturedly from the cockpit.
+>
+> “You twins are always at a tie,” Han answered. “If I let you keep shooting until one of you scores and the other doesn’t, we’ll be circling the solar system for years. Come on back up to the cockpit. We’re almost home.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:20`
+
+What it shows (our notes): Han stays to tell the Karnak children a bedtime story.
+> “He offered to stay behind,” Leia said, raising her eyebrows, “and tell the ambassadors children one of your favorite bedtime stories. Can you guess which one?”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:86`
+
+What it shows (our notes): Han teaches Jaina to identify almost every ship ever recorded.
+> “I know my Imperial fighters,” she said. “Dad taught me to identify every ship ever recorded … well, almost every one.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:93`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Han claimed to be an expert tauntaun rider, but has plenty of difficulty.
+> Han Solo had claimed to be an expert rider of the uncooperative tauntauns, but Jaina giggled as she watched her father experience plenty of difficulty as they raced across the snows.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:10`
+
+
 
 
 # CANON (Disney canon — kept separate)

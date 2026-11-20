@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 14 (13 with quotations; 13 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 22 (21 with quotations; 21 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -125,6 +125,67 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Em Teedee, reprogrammed by
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.128–129).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:58`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Em Teedee meets Threepio, his counterpart and mentor.
+> “Ah, See-Threepio! My counterpart, my predecessor, my … mentor!
+>
+> “I doubt, however, that your tribulations are anything compared to the heavy diplomatic responsibilities I have to bear here on Coruscant. You simply couldn’t believe how easily offended some of these outworld ambassadors can be!”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:24`
+
+What it shows (our notes): Em Teedee promises to see that the young Jedi behave with the utmost caution.
+> Em Teedee spoke up from Lowbacca’s waist. “Well, you need have no fear for their safety, my conscientious colleague. I shall personally see to it that they behave with the utmost caution. You can count on me.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:39`
+
+What it shows (our notes): Em Teedee forbids Lowie to climb down, which makes Lowie agree to it.
+> Em Teedee shrilled, “Oh no, Lowbacca. You simply cannot climb down there! I absolutely forbid it.” Lowie hadn’t looked too eager at first, but the translating droid’s admonishment only served to convince him otherwise. The Wookiee growled an agreement to Zekk’s plan.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:58`
+
+What it shows (our notes): Em Teedee says he is fluent in over six forms of communication.
+> “According to my dictionary programming, I should think cramped is a better word,” Em Teedee observed. “I am fluent in over six forms of communication, you know.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 16.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:14`
+
+What it shows (our notes): Em Teedee is still vexed with the Shadow Academy for reprogramming him.
+> “Oh dear,” Em Teedee said. “I do hope our fighters manage to apprehend that Shadow Academy. I’m still exceedingly vexed with them for reprogramming me when we were all taken prisoner there.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:105`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Em Teedee wants to switch off his optical sensors rather than watch the danger.
+> Lowie slid down the fibercord with ease, while Em Teedee wailed all the way.
+>
+> “Oh, I can’t watch! I’d rather switch off my optical sensors.”
+>
+> “Oh, my!” Em Teedee squeaked. “Would anyone object if I switched off my optical sensors again so I don’t have to watch?”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2, 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:64`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Em Teedee does not understand human behavior and is too flustered to translate.
+> Lowie growled and Em Teedee translated, “Master Lowbacca suggests that perhaps Master Zekk requires a certain amount of time to overcome his embarrassment. I don’t suppose I’ll ever understand human behavior,” he added.
+>
+> “Oh, my!” Em Teedee said, too flustered to provide a translation.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10, 20.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:95`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie switches Em Teedee off before he can translate.
+> Lowie started to snarl a reply, then quickly reached toward his belt and turned off Em Teedee before the little droid could offer a translation.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:139`
+
 
 
 

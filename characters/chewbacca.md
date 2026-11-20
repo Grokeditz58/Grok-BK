@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 653 (315 with quotations; 19 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 657 (319 with quotations; 23 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -4465,6 +4465,41 @@ What it shows (our notes): Chewbacca pulls Jacen up into the Falcon one-handed, 
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.212).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:96`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Chewbacca brings his own tool kit to the mirror station.
+> Chewbacca brought his own tool kit of battered hydrospanners and diagnostics, gadgets he used while working with Han Solo to keep the Falcon up and running … if just barely.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 16.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:11`
+
+What it shows (our notes): Chewbacca watches Jaina and Lowie work like two young professionals.
+> With everyone standing around, the area was far too cramped to let Chewbacca push his way in, so the older Wookiee hung back and waited. Lowie suspected his uncle was amused to watch the two young professionals working so hard.
+>
+> Perhaps it reminded him of the way he and Han had worked together, fixing things again and again.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 16.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:19`
+
+What it shows (our notes): Chewbacca and Han identify the multitasking unit in the message pod.
+> Han glanced into the capsule and then looked over at Chewbacca and Peckhum, who had come to join them. “What do you think, Chewie?”
+>
+> Chewbacca scratched his head and gave a couple of short, surprised-sounding barks.
+>
+> “Yeah, looks like that to me, too,” Han agreed.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:125`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Chewbacca's manual repairs to the mirror adjustment systems fail.
+> Lowie’s triumphant roar brought Chewbacca from the main stabilizer unit, where he had been attempting manual repairs to the mirror adjustment systems—to no avail.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:118`
+
 
 
 # CANON (Disney canon — kept separate)

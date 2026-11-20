@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 226 (126 with quotations; 18 quotations extended to the full sentence/passage from the source text on file; 48 marked as fragments; 74 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 292 old entries; old file: `characters/_bak/admiral-ackbar.md.bak-20261117`.
+- **Entries:** 232 (132 with quotations; 24 quotations extended to the full sentence/passage from the source text on file; 48 marked as fragments; 74 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 292 old entries; old file: `characters/_bak/admiral-ackbar.md.bak-20261117`. Added 2026-11-20: 6 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1582,6 +1582,57 @@ Our notes: `notes/materials/154-new-essential-guide-to-vehicles-vessels-2003/quo
 Note (our notes, around the quote): "Be smart! Be victorious!" —Admiral Ackbar.
 Our notes: `notes/materials/155-new-essential-guide-to-weapons-technology-2004/quotes/QUOTES-INDEX.md`
 ![Quote image: New Essential Guide to Weapons and Technology (2004), printed p.85, scan p.111 — Ackbar's line is complete](../notes/materials/155-new-essential-guide-to-weapons-technology-2004/quotes/negwt2004-p85-s111-ackbar-be-smart.jpg)
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Ackbar commands the Adamant run and takes his formal inspection tour.
+> Standing ready on the cruiser’s command bridge, Admiral Ackbar remained tense despite the additional precautions that had been taken. The Adamant approached a docking zone near the Coruscant space stations, precisely according to schedule. The assault fighters powered down their weapons and split off as each squadron signaled farewell to the admiral, commander of the New Republic Fleet.
+>
+> The Adamant would deliver the components to the Kuat Drive Yards, where they would be installed in a new fleet of battleships. Ackbar had been charged with making a formal inspection tour—and he always relished the chance to be aboard a fine military ship.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:52`
+
+What it shows (our notes): Ackbar sees the Imperials want the ship and its cargo.
+> “They want to steal this ship,” Ackbar said as the cold realization struck him. “And its cargo.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:55`
+
+What it shows (our notes): Ackbar tackles Qorl on the bridge before Qorl knocks him out.
+> The dark goggles of his TIE helmet allowed little peripheral vision, and as he passed the command station, the Rebel commanding officer—a fish-faced Calamarian—leaped up and tackled him. Qorl’s blaster pistol clattered to the floor.
+>
+> The officer wrestled with Qorl, fighting with flipper hands, but the TIE pilot drove his powerful droid fist into the face of the alien, knocking him out cold.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:62`
+
+What it shows (our notes): Ackbar clears the message pod as safe.
+> “Absolutely none. We scanned it,” he said. “It’s clean. No booby traps.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:122`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Ackbar's ship is crippled by ion cannons inside the Coruscant protected zone and he cannot call for help.
+> “But we’re in the Coruscant protected zone, one of the most heavily guarded areas in the galaxy. Who could possibly attack us?” He saw the incoming fleet as it soared in like birds of prey, appearing out of nowhere. In the same moment, he felt the stunning blows from their ion cannons, which immediately crippled the Adamant’s defensive systems.
+>
+> The communications officer had begun transmitting a distress signal, but the round-faced young man looked up almost immediately, his cheeks pale. “Sir, communication systems are nonfunctional. We can’t even request help.”
+>
+> Admiral Ackbar swallowed. Coruscant would note the attack and respond within minutes, but by then, he knew, it would be too late.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:54`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Ackbar wakes in an escape pod and watches the Adamant vanish.
+> Admiral Ackbar returned to consciousness, and found himself crammed with his crew inside an escape pod that whirled out of control through space. His head ached, and he felt as if a space mine had exploded inside his skull.
+>
+> Ackbar watched the Adamant vanish before the Coruscant ships came close enough to fire a shot. He wished he could just fall back into unconsciousness, but the splitting pain in his skull kept him wide awake.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:65`
+
 
 # CANON (Disney canon — kept separate)
 

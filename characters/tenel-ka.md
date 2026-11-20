@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 204 (133 with quotations; 94 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read).
+- **Entries:** 225 (154 with quotations; 115 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1802,6 +1802,179 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — After ten lifts in Garowyn
 — Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.171–172).
 (Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
 Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:46`
+
+## Young Jedi Knights 3: *The Lost Ones* (Kevin J. Anderson & Rebecca Moesta, 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka hides her Hapan royalty and sleeps on the floor of her palace room.
+> It felt like home in the Fountain Palace on Hapes. Tenel Ka shuddered. She was a princess of Hapes, since her father, the son of the former queen, a powerful matriarch, now ruled the Hapes cluster with his Dathomiran wife. But Tenel Ka had kept this fact hidden from her friends at the Jedi academy, preferring instead to follow her mother’s heritage from wild Dathomir. This palace was a bit too much like home on the Hapes central world - and Tenel Ka was uncomfortable with such amenities right now.
+>
+> Striding to the bed, she yanked the covers off and pulled the pad onto the polished stone floor. She squatted down on it and nodded with satisfaction.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:26`
+
+What it shows (our notes): Tenel Ka on even small debris being deadly to incoming ships.
+> “Even small, such wreckage could be deadly to incoming ships,” Tenel Ka said.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:18`
+
+What it shows (our notes): Tenel Ka lassos Zekk the instant he drops in front of them.
+> Jaina gasped, but Tenel Ka reacted with dizzying speed. In the fraction of a second following Zekk’s landing, the warrior girl whipped out her fibercord rope and snapped a lasso around him, pulling the strand tight.
+>
+> “Hey!” the boy cried. “Is this the way Jedi Knights greet people?”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:41`
+
+What it shows (our notes): Tenel Ka and Lowie hold the wrecked shuttle steady while Zekk searches it.
+> Tenel Ka and Lowie held the creaking ship steady as Zekk scrambled inside to look around. He poked into storage compartments, looking for valuables.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:53`
+
+What it shows (our notes): Tenel Ka climbs down the building face by strength alone.
+> Tenel Ka attached her grappling hook to the side of the walkway. “I am a strong climber,” she said. “This is a fact.”
+>
+> Pulling the fibercord taut, Tenel Ka wrapped her hands around it and began lowering herself to the old construction crawler. Jacen had seen her descend the walls of the Great Temple on Yavin 4, but now he watched with renewed amazement as she walked backward down the side of the building, relying only on the strength of her supple arms and muscular legs.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:61`
+
+What it shows (our notes): Tenel Ka stands ready to leap down and fight the mother hawkbat to defend Jacen.
+> Tenel Ka stood poised, dagger in hand, ready to jump down and fight. Jacen felt a pleasant warm glow to think that she was willing to defend him.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:69`
+
+What it shows (our notes): Against the Lost Ones, Tenel Ka readies two throwing daggers, then covers the retreat.
+> Tenel Ka now held a throwing dagger at the ready in each hand. The Lost Ones looked at her and Lowie, then at the three seemingly easier targets of Zekk and the twins.
+>
+> Zekk ducked low to protect the hawkbat egg as he ran after her Jacen followed them, while Tenel Ka turned once to threaten the Lost Ones with her throwing daggers before bringing up the rear, sprinting along on her muscular legs.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:85`
+
+What it shows (our notes): Tenel Ka, tutored at the Hapan court, is heir to the cluster but chose Dathomir.
+> This was an important diplomatic function, and she had been well tutored by her harsh grandmother in the plush courts of the Hapes Cluster. Tenel Ka was a royal princess, after all, the heir apparent to an entire cluster; but she avoided such nonsense and spent as much as time as possible training instead on her mother’s austere world of Dathomir. Tenel Ka’s Hapan grandmother strongly disapproved of the path that the princess had chosen to follow, but Tenel Ka had a mind of her own—as she frequently demonstrated.
+>
+> Tenel Ka had spent many months at the Jedi academy in the primitive jungles of Yavin 4, and before that she had lived in the cliff cities of the Singing Mountain Clan. It had been a long time since she’d been spoiled with luxuries, but she viewed the formal evening meal with the Karnak ambassador as another challenge to face.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:30`
+
+What it shows (our notes): Tenel Ka knows the Karnak people from her time at the Hapan court.
+> Tenel Ka was glad she had thought to braid colorful ribbons into her own red-gold hair. She had seen natives of Karnak Alpha during her time at the royal court of Hapes. The hairy creatures were shy and had some unusual customs, but they were relatively easygoing.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:34`
+
+What it shows (our notes): Tenel Ka heads off Threepio's breach of Karnak custom and serves the children herself, then has Anakin serve the ambassador.
+> She knew instantly that Threepio meant to offer the first meal to the ambassador—which was a terribly rude thing to do, according to Karnak custom.
+>
+> In one quick, fluid motion she sprang to her feet and called across the table. “Excuse me, See-Threepio,” she said. “If you would allow me?” She hurried to one end of the table as the droid stopped, completely at a loss as to what to do. One by one, Tenel Ka removed the plates from the tray and reverently set them in front of each of the ambassadors children, starting with the smallest—and presumably the youngest—furball.
+>
+> “Why, thank you, young lady. You do us a great honor. This is an unexpected observance of our customs.”
+>
+> Tenel Ka nudged See-Threepio and moved him around to the other side of the table, where she tapped Anakin on the shoulder. She handed the boy a plate, then whispered into his ear.
+>
+> Anakin—without argument or question—stood up, dutifully moved down the table, and presented the next plate of food to the Karnak ambassador.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:39`
+
+What it shows (our notes): Tenel Ka explains the Karnak custom and spares the Chief of State a gaffe, but will not say how she knew.
+> “Yes, Ambassador,” she said. “We wished to show you honor by respecting the customs of Karnak Alpha, that a young member of the household provides for the guest’s children, before a child of the host family serves the most honored adult guest.”
+>
+> “I am most pleased,” the ambassador said. “We shall have a simple time making diplomatic treaties, if all members of the New Republic are so considerate of our customs.”
+>
+> Trembling with relief that she had averted what could have been a social gaffe for the Chief of State, Tenel Ka sat back down, while Jacen bent toward her, his brandy-brown eyes wide with astonishment.
+>
+> Tenel Ka shrugged beneath her reptilian armor. “It is … just something I learned,” she said, and then fell silent, reluctant to reveal her royal upbringing, even to a good friend.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-02.md:42`
+
+What it shows (our notes): Tenel Ka says she could lift Jacen easily.
+> “It is not a question of strain.” Tenel Ka coughed, but her voice remained detached and gruff. “I could lift you easily, should the need arise.” She stepped around the rubble. “But I saw no need.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 15.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:90`
+
+What it shows (our notes): Tenel Ka swings Jacen across a collapsing walkway on her fibercord.
+> A whizzing sounded in his ears, followed by a soft clank. He felt himself slide toward the deadly gap and he grasped the railing, but the corroded metal broke away in his hand. He yelled for help, reaching back for anything to hold on to-and felt a strong arm wrap around his waist, then found himself being swept forward. Almost before he realized what had happened, Tenel Ka had swung both of them across the chasm on her fibercord rope and deposited them onto a sturdy metal stairway on the opposite side.
+>
+> Tenel Ka lowered herself shakily beside him. In the dim light, her face looked troubled and serious. “I was afraid I might lose a friend.”
+>
+> Although she did not smile, Tenel Ka’s mood lightened. “This is a fact.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 15.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:97`
+
+What it shows (our notes): Tenel Ka leads through the undercity with an unerring sense of direction and senses the gang's territory.
+> Tenel Ka, however, led the way with an unerring sense of direction … which didn’t surprise Jacen a bit.
+>
+> “Ah. Aha. We have found the territory claimed by the gang of the Lost Ones,”
+>
+> Tenel Ka said, her senses sharpened like a hunter’s blade.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:25`
+
+What it shows (our notes): Tenel Ka taunts Tamith Kai about the knee she injured during the Shadow Academy escape.
+> “And Garowyn. And Vilas,” Tenel Ka said with an astonishing and unexpected expression—a feral smile—on her normally serious face. “So, how is your knee?” she asked Tamith Kai. Her grip on Jacen’s shoulder felt tight enough to crack a bone.
+>
+> The tall woman’s face rolled with a thunderstorm of anger. Her wine-dark lips curled down, and she barely controlled her rage at being reminded of how Tenel Ka had humiliated her during the young Jedi Knights’ escape from the Shadow Academy. “Jedi brats,” she snarled, ‘You should learn when to leave well enough alone.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:39`
+
+What it shows (our notes): Tenel Ka says she could carry Threepio if she had to.
+> “Mistress Tenel Ka, are you capable of walking?”
+>
+> Her granite-gray eyes narrowed, as if she suspected a veiled insult. “l could carry you, if I had to.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:84`
+
+What it shows (our notes): Tenel Ka on Zekk: he made his own choice for his own reasons.
+> Tenel Ka spoke up, a distant look in her cool gray eyes. “Zekk made his own choice for his own reasons,” she said. “We all do.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:141`
+
+### Limitations and anti-feats (The Lost Ones)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka has never even smiled at Jacen's jokes.
+> She knew full well that the young warrior woman, one of their closest friends at the Jedi academy, had never even smiled - much less laughed - at Jacen’s jokes, though he tried daily to coax a chuckle from her.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:14`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka has no sense of humor; Jacen's jokes never make her laugh.
+> Jacen admired the girl from Dathomir - but he wished he could make her laugh. He had been telling Tenel Ka his best jokes for as long as he had known her, but he still hadn’t managed to coax even the smallest smile from her. She seemed not to have a sense of humor, but he would keep trying.
+>
+> “No thank you,” Tenel Ka said. “I am not hungry.” Jacen chuckled, but he knew the warrior girl didn’t even realize she had made a joke.
+>
+> Tenel Ka gave a sage nod. “Yes. Very humorous. Now let us continue our search.”
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2, 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-01.md:62`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — A winged rodent tangles in Tenel Ka's braids; she cannot handle it without Jacen.
+> Just then a dark fluttering shape rose up behind Tenel Ka with a keening shriek. Instinctively, she whirled and lashed out at the thing, dropping her glowrod in the process—but the more Tenel Ka batted at the creature, the more frantically it shrieked and flapped about her head.
+>
+> She nodded curtly, and Jacen suspected that she was embarrassed at having been unable to handle a small flying rodent without his assistance.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 15.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-03.md:94`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka and Jacen are stunned from behind before they can escape.
+> Jacen and Tenel Ka managed to take a few running steps before stun bolts slammed into them from behind. They plunged headfirst into helpless unconsciousness.
+— Source: Young Jedi Knights 3: The Lost Ones (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
+Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:47`
+
 
 
 
