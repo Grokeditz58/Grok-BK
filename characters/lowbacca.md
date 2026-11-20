@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 84 (70 with quotations; 37 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 101 (87 with quotations; 54 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1382,6 +1382,159 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Without Em Teedee, Lowbacc
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.172–173).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:92`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowbacca programs the holoprojector's schematic of his T-23.
+> “Show-off,” Jaina said, chuckling at the speed with which Lowie had programmed the holo map. “Tell you what, from now on I build ‘em, you program ‘em - fair enough?”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1 (p.9).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:36`
+
+What it shows (our notes): Lowbacca's touch breaks Brakiss's hold on Jaina.
+> Then suddenly, for some reason-perhaps it was the light touch of a furry hand on her back-the words came into focus again, began to penetrate the complacent fog of unquestioning agreement that had blanketed her mind.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.93).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:87`
+
+What it shows (our notes): Enraged by Brakiss's lightning on Jaina, Lowbacca hurls a bench that bowls over the guards, then uses it as shield and missile.
+> Brakiss’s calm cruelty against Jaina launched Lowbacca into an unbridled rage. Unable to control himself, he leaped from his cramped seat, knocking over the blond student. He howled at the top of his lungs and bared long Wookiee fangs. Ginger-colored fur stuck out in all directions as he yanked up the bench he had been sitting on and raised it over his head.
+>
+> Lowie threw the bench at the incoming stormtroopers. His blow knocked the first cluster of guards backward into each other, tumbling them down like children’s blocks. Five more stormtroopers tripped over their fallen companions but still managed to wade into the room.
+>
+> They pointed their stun pistols and fired, but the beam caught the front of the bench, doing no damage. Lowie tossed it, and the troopers scrambled out of the way as the bench crashed against the side wall.
+>
+> Glowing blue arcs shot over Lowie’s back, missing him and striking full against three of the second set of troopers on the other side, stunning them.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.96–98).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:96`
+
+What it shows (our notes): Under Tamith Kai, Lowbacca resolves to resist his anger.
+> He could resist giving in to his anger. He pounded a furry fist against the wall at his side and bellowed his defiance. He would resist.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.121).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:43`
+
+What it shows (our notes): Lowbacca controls himself and removes his syren-fiber belt without a snarl.
+> He had risked his life to acquire these fibers from the syren plant as part of his rites of passage into Wookiee adulthood; then he had painstakingly woven them into a belt that symbolized his independence and self-reliance.
+>
+> He opened his mouth to snarl an angry objection but stopped short, realizing that this was exactly the response Tamith Kai hoped for-to goad him into anger. He would not be so easily fooled this time. He stood, resolute and passive, while the stormtroopers removed the precious belt.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.122).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:46`
+
+What it shows (our notes): Lowbacca endures hours of Tamith Kai's alternating sensory tortures.
+> Lowie concentrated, focused his mind inside himself. He mutely endured.
+>
+> From all sides, jets of icy water exploded from the walls, buffeting him with bruising force. He was drenched and shivering, but still the high-pressure streams pummeled him, invaded him. The prying liquid forced itself up under his eyelids, inside his ears and mouth, and streamed down his body, chilling him to the bone.
+>
+> Anger welled up within him, but he suppressed it, let it flow out of him as the water had streamed down his body. He tried instead to shift the sonic generator again, but to no avail.
+>
+> Instead, he concentrated on thoughts of his friends Jacen and Jaina. He would be strong.
+>
+> How long these tortures alternated, Lowie could not say.
+>
+> After a time, it seemed his life had always been a litany of lights, sound, water, lights, sound, water …And still he did not give in to his anger.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.124–126).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:49`
+
+What it shows (our notes): In the test, Lowbacca runs four remotes at once.
+> In the observation chamber, Lowbacca worked frantically at his computer controls, guiding the four defensive drones. He fired their lasers and vaporized a few targets.
+>
+> Lowie began shooting all the remotes at once-targeting, firing, targeting, firing.
+>
+> He had already slagged one of the portholes so it could no longer launch stones.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18 (p.161).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:22`
+
+What it shows (our notes): Lowbacca slices the training-room computer under pressure and crashes the whole room.
+> He worked the complex controls, calling up programming, reassigning parameters, hammering instructions with his left hand, controlling the remotes with his right hand, using everything he knew about computers. Lowie had a desperate plan - but his attempt absorbed part of his concentration. In his moment of distraction more and more of the hard rocks got through to pummel the Jedi twins. But Lowie had no choice, if he was to make his plan come off.
+>
+> He sensed that in order to demonstrate their power, the teachers at the Shadow Academy were willing to risk hurting their students. As long as they were left with the strongest trainees, they didn’t care if someone actually got killed during the exercises. Lowie’s only hope was to bring it all down.
+>
+> Lowie punched in a command string that he hoped would bypass all other informational sequences, then executed it.
+>
+> Suddenly, the entire training room shut down. The lights winked out. The porthole doors slammed shut. Everything went dark. With a heavy groan of relief, Lowie slumped back in his chair, running a broad hand over the black streak of fur above his eyebrow. At last he had managed to crash the murderous testing routine.
+>
+> “Oh, Lowbacca!” Em Teedee wailed. “Dear me, you’ve really botched everything up! Have you any idea how much trouble it will be to fix this mess?”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18 (p.162–163).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:26`
+
+What it shows (our notes): Brakiss praises Lowbacca's initiative.
+> “The Wookiee has done exactly what I told him to do,” Brakiss said. “He defended his two friends. We didn’t tell him he had to follow our rules. It seems he accomplished the objective admirably.”
+>
+> “It shows initiative,” he said. “Learning to find innovative solutions is an important skill. Lowbacca here will be a fine addition to the defenders of the Empire.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18 (p.164).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:29`
+
+What it shows (our notes): Lowbacca slices into the station's main core, drops the cloaking device and seals every door.
+> His ginger-furred fingers were a blur as he descended rapidly through menu after menu, finally penetrating all the way into the station computer’s main core.
+>
+> With two swift commands Lowie shut down the Shadow Academy’s cloaking device. Then, with a resounding clunk that echoed throughout the station, he closed and sealed every door except those the three of them would need to escape. He yowled in triumph.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20 (p.184–185).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:70`
+
+What it shows (our notes): Luke calls Lowbacca an electronics specialist.
+> “Go right ahead if you want, but I’ve got a skilled mechanic and an electronics specialist right here on Yavin 4, ready to start on the project right away - Jaina and Lowie.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.201).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:109`
+
+### Limitations and anti-feats (Shadow Academy)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowbacca tries and fails to find a Corusca gem.
+> The young Wookiee crouched in a seat that was far too small for him and rested his hands on the multiple joysticks of the controls. He directed the dangling, sizzling energy cables that trailed out like magnetic tentacles through the stormy atmosphere.
+>
+> After a few moments, Lowie groaned in frustration.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3 (p.26).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:68`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Ready to fight the raiders, Lowbacca sees he is clearly outnumbered.
+> Lowbacca looked from side to side, fingers spread, arms ready to tear something apart, until he saw he was clearly outnumbered.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.98).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:101`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowbacca reproaches himself for giving in to rage under Brakiss's teaching.
+> He had let the riptide of Brakiss’s teaching draw him further and further into his sea of anger until he had been immersed in it, swept away by its current.
+>
+> He alone, who had always prided himself on his thoughtfulness-on his dedication to studying, to learning, to understanding-had allowed himself to be influenced by the poisonous teachings. He would have to be more careful in the future. Resist, block out the words.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.120).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:42`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowbacca cannot lift the sonic generator with a calm use of the Force.
+> Lowie tried to heft the object, found that she was correct. He closed his eyes and concentrated, drawing on the Force, and tried again. The generator hardly budged. Lowie shook his head in confusion.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.125).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:51`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Shown holograms of the twins mocking him, Lowbacca breaks in rage and destroys the sonic generator in a blackout fury.
+> From deep within him, horror mixed with rage and a sense of betrayal, fanning the embers that had smoldered for so long. Flames of anger sprang up inside him, warming him with their undeniable heat, rising higher and higher until they burst from his throat in a howl of fury.
+>
+> And he knew no more.
+>
+> “With your anger you succeeded beyond my highest expectations,” Tamith Kai said, looking at him with obvious pride.
+>
+> “After you unleashed your anger, we were unable even to repair the sonic generator, as we have every time before.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.127–128).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:56`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowbacca runs into a wall of security passwords he cannot break.
+> Lowie tapped the keyboard of the computer terminal with his long hairy fingers. He hunched low to stare at the screen, which was not mounted for someone of Wookiee stature. Lowie called up the screens he needed, showing the status of the Shadow Academy’s shuttle bay.
+>
+> Lowbacca grunted in agreement and kept working, but he soon encountered an impenetrable wall of security passwords. He groaned in frustration.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20 (p.183).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:67`
+
 
 
 # Debate and forum claims (unverified)

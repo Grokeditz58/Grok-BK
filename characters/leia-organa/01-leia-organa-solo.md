@@ -8,7 +8,7 @@
 - **Era:** GCW–LotF
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 2080 (1187 with quotations; 160 quotations extended to the full sentence/passage from the source text on file; 573 marked as fragments; 905 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 2398 old entries; old file: `characters/_bak/leia-organa.md.bak-20261117`.
+- **Entries:** 2083 (1190 with quotations; 163 quotations extended to the full sentence/passage from the source text on file; 573 marked as fragments; 905 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 2398 old entries; old file: `characters/_bak/leia-organa.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)

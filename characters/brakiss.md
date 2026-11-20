@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 64 (51 with quotations; 4 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 82 (69 with quotations; 22 quotations extended to the full sentence/passage from the source text on file; 19 marked as fragments; 27 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 73 old entries; old file: `characters/_bak/brakiss.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -299,6 +299,177 @@ What it shows (our notes): Luke says Brakiss lost the battle with himself and fl
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.25).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-01.md:58`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Brakiss greets the captives at the Shadow Academy.
+> On the other side stood a young-looking man dressed in flowing silvery robes. His smooth skin and silken blond hair seemed to glow. He was one of the most beautiful humans Jacen had ever seen, perfectly formed, like a holo simulation of an ideal man, or a sculptors masterpiece chiseled out of alabaster.
+>
+> “Welcome, new recruits,” he said in a gentle voice that carried undertones of music. “I am Brakiss, leader of the Shadow Academy “
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8 (p.78).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:52`
+
+What it shows (our notes): Brakiss on Luke, the Jedi and the Second Imperium.
+> “Ah, so that’s how he tells it? Master Skywalker and I did not agree on the … particulars of training in the Force. But he had at least one good idea: He was correct to bring back the Jedi Knights. He realized that the Jedi were the preservers and protectors of the Old Republic . They unified the decaying old government and kept it alive long after it should have dissolved into anarchy.
+>
+> “And now that there is anarchy among the remnants of the Imperial forces, we need such a unifying force. We have already found a powerful new leader, a great one” - Brakiss smiled - “but we also need our own group of Dark Jedi Knights, Imperial Jedi, who will cement our factions together and give us the will to defeat the wicked and unlawful government of the New Republic and bring about the Second Imperium?”
+>
+> Brakiss said, “It all depends on your perspective.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 8 (p.78–79).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:54`
+
+What it shows (our notes): Brakiss's presence silences the lecture hall.
+> The silence in the room was instant and complete. Not a cough or a syllable challenged his compelling presence. Brakiss let his piercing eyes rove across the faces of the gathered students. When his eyes met hers, Jaina felt an inexplicable chill creep down her spine.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.92).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:84`
+
+What it shows (our notes): Brakiss's voice sways Jaina.
+> As his voice streamed around the students, Jaina felt her mind begin to relax. This wasn’t so bad after all. All of it was true. The power in Brakiss’s voice urged action, demanded agreement. Jaina saw the heads of many of the students nodding. She nodded too. Jaina could not remember the words as Brakiss led them smoothly, logically from one concept to another All she remembered were the thoughts, the feelings, the rightness of it all.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.92–93).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:86`
+
+What it shows (our notes): Brakiss's teaching.
+> “You each have the tools inside you to master yourselves, and to master the Force,” the tranquil, confident voice said. “And to draw on the strength of the Force, you must learn to draw on what is strongest in you: strong emotions, deep desires, fear, aggression, hate, anger.”
+>
+> “At this academy we do not learn only one side of the Force,” Brakiss went on, resuming his lecture, though his comments seemed directed primarily toward Jacen, Jaina, and Lowie.
+>
+> “This is not a school of darkness. I call this a Shadow Academy
+>
+> , for what does life create by its very nature, if not shadows? And it is only through using the full range of your emotions and desires the light and the dark-that you will become truly strong in the Force and fulfill your destiny. The light side by itself offers only limited power. But when the light is blended with the dark, and you work within the shadows then you achieve your full potential. Use the strength of the dark side.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.93–95).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:88`
+
+What it shows (our notes): Brakiss meditates on images of cosmic destruction.
+> Now, as he pondered, he stared at the brilliant images surrounding him on the walls: a waterfall of scarlet lava on the molten planet Nkllon; an exploding sun that spewed arcs of stellar fire in the Denarii Nova; the still-blazing core of the Cauldron Nebula, where seven giant stars had all gone supernova at once; and a vista of the broken shards of Alderaan, destroyed by the Empire’s first Death Star more than twenty years before.
+>
+> Brakiss recognized great beauty in the violence of the universe, in the unbridled power provided by the galaxy or unleashed by human ingenuity.
+>
+> Standing alone and in silence, Brakiss used Force techniques to meditate and absorb these cosmic catastrophes, crystallizing the strength within himself.
+>
+> Through the dark side, he knew how to make the Force bend to his will. The power stored within the galaxy was his to use.
+>
+> When he captured it and held it with his heart, Brakiss could maintain his calm exterior and not be prone to violence as his fellow instructor Tamith Kai so often was.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.106–107).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:9`
+
+What it shows (our notes): Brakiss's backstory and great talent with the Force.
+> Long ago, the Empire had selected Brakiss because of his untapped Jedi ability. He had undergone rigorous training and conditioning so that he could spy on Skywalker’s academy, gathering precious information. No one was supposed to know he was a scout, planted there to learn techniques that he could teach to the Second Imperium. The new Imperial leader had insisted on developing his own Dark Jedi, a symbol that those faithful to the Empire could rally around.
+>
+> Brakiss did have a great talent with the Force, and Master Skywalker had shown him how to use it. But Skywalker had repeatedly tried to contaminate Brakiss with the light side, with the platitudes and peaceful ways of the New Republic . Brakiss shuddered at the thought.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.108–109).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:13`
+
+What it shows (our notes): Brakiss on Tamith Kai.
+> The lanky Wookiee’s anger was something to take advantage of, and Tamith Kai was the best at that. The new Nightsister was a born tormentor, and she carried out her duties extremely well. Brakiss would let her train Lowbacca.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.111).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:21`
+
+What it shows (our notes): Brakiss gives Jacen a lightsaber.
+> Brakiss reached into his shimmering robes and withdrew a black cylinder about half the length of Jacen’s forearm. It had three power buttons and a series of widely spaced grooves for fingerholds.
+>
+> “You will need this for today’s training,” Brakiss said, broadening his smile. “Take it. It’s yours.”
+>
+> “Master Skywalker is holding you back unnecessarily. You already know how to use one of these. Go ahead.”
+>
+> “Here at the Shadow Academy we feel that lightsaber skills are among the first talents a Jedi should develop, because strong, able warriors are always needed. If a Jedi Knight is not ready to fight for a cause, then what good is he?”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.112–113).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:26`
+
+What it shows (our notes): Brakiss reads Jacen's ethics.
+> “You won’t kill me, young Jedi,” he said. “You would not cut down an unarmed opponent. Cold-blooded murder is not part of the training Master Skywalker gives his young trainees … unless he has changed his curriculum since I left Yavin 4?”
+>
+> “Of course if you do let loose your anger,” he said, “and slice me in half, you will have taken a significant first step down the dark path. Even though I won’t be here to see the benefits, the Empire will no doubt use your abilities to great advantage.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.114).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:30`
+
+What it shows (our notes): Brakiss's ruthlessness over the twins' duel.
+> “I doubt I’ll lose them,” Brakiss said, dismissing the thought with a wave.
+>
+> “But if one kills the other, then we will know which is the stronger fighter. That is the one we must concentrate our training on.”
+>
+> “The point is to obtain and develop the strongest fighters for the Empire. The most talented Dark Jedi.”
+>
+> “Cost is of no consequence,” Brakiss replied. “These young twins are simply tools to be used as you are, as we all are.”
+>
+> “They are ingredients … components to be installed in a great machine.
+>
+> If they do not meet our stringent testing requirements, they are no good to us.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 16 (p.142).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:89`
+
+What it shows (our notes): Brakiss senses that something is wrong.
+> Something was bothering him. He couldn’t quite put his finger on it. The day had gone routinely. The three young Jedi Knights were doing even better than he’d expected. But still Brakiss had a bad feeling, a low-level uneasiness.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.187).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:76`
+
+What it shows (our notes): Brakiss faces Luke in the docking bay.
+> “Ah, Master Skywalker. So good of you to come. I thought I sensed you here on my station. Are you impressed at how well I have done for myself?”
+>
+> “Oh, come now,” Brakiss said with a dismissive wave, “if you intended to kill me, you should have done it when I was a weak trainee. You knew I was an Imperial agent even then.”
+>
+> “Always the optimist,” Brakiss replied in an airy tone.
+>
+> “Come and get me, Master Skywalker - or are you a coward? Would your precious light side allow you to attack an unarmed man?”
+>
+> His eyes blazed now, as if he held the fury of the universe within him, ready to unleash it from his fingertips.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.193–194).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:86`
+
+### Limitations and anti-feats (Shadow Academy)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss loses his composure.
+> “Cease this disturbance!” Brakiss shouted. His normally smooth features had lost their serene composure.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 10 (p.98).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:99`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Luke's mental journey left Brakiss nearly insane, and he fled.
+> But the Imperial conditioning ran too deep. His mind was too far lost in service to the Empire, and Brakiss had nearly gone insane from that ordeal.
+>
+> He had run from Master Skywalker, taking his ship and fleeing into the depths of space. He had remained alone for a long time before finally. returning to the embrace of the Second Imperium, where he put his expertise to work …just as it had been planned from the beginning.
+>
+> Brakiss tried to deny that corruption-to comfort himself with his outer appearance-but he could not escape the ugliness in the darkness of his heart. He knew his place in the Empire would be reborn, and he had learned to be content with that service. His greatest triumph was his Shadow Academy , where he could oversee the new Dark Jedi being trained: dozens of students, some with little or no talent at all, but others with the potential for true greatness, like Darth Vader himself.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.109–110).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:17`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The Shadow Academy can be self-destructed at any time; Brakiss is effectively a hostage.
+> Of course, the new Imperial leader also recognized the danger in creating such a powerful group of Dark Jedi. Knights who had fallen to the dark side were bound to have ambitions of their own, tempted by the power they themselves controlled. It was Brakiss’s job to keep them in line. But the great leader had his own protective measures. The entire Shadow Academy was filled with self-destructive devices: hundreds, if not thousands, of chain-reaction explosives. If Brakiss did not succeed in creating his troop of Dark Jedi, or if the new trainees somehow staged a revolt against the Second Imperium, the Imperial leader would trigger the station’s self-destruct sequences. Brakiss and all the Dark Jedi would be destroyed in a flash. A hostage to darkness, Brakiss was never allowed to leave the Shadow Academy By order of the great leader, he would remain there, confined, until he and all his trainees had proven themselves.
+>
+> Brakiss found that sitting on a huge bomb made it difficult to concentrate.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 12 (p.110–111).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:19`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss is locked out of his own office.
+> But before he could get there, the door slammed shut of its own accord. Brakiss found himself trapped outside his office.
+>
+> He held the storm inside himself and strode down the halls, intent on squashing the disturbance.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.187).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:77`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Brakiss fears the Imperial leader's displeasure after the escape.
+> “Is our cloaking shield up yet? We must get it working. The Rebels will no doubt send attack fleets in search of us. We’ll have to relocate. That’s why this station was designed to be mobile.”
+>
+> “I don’t know what I’m going to say to our great Imperial leader. He can trigger this station’s self-destruct sequence at any time, if he’s displeased.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.198–199).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:101`
+
 
 
 # Debate and forum claims (unverified)

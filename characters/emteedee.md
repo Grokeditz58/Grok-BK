@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 7 (6 with quotations; 6 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 14 (13 with quotations; 13 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -65,6 +65,67 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Em Teedee shuts down rathe
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 15 (p.160).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:61`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Em Teedee's description.
+> Em Teedee was roughly oval in shape, rounded in the front and flat on the back, with irregularly spaced optical sensors and a wide speaker grill at the center.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1 (p.8).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:37`
+
+What it shows (our notes): Reprogrammed, Em Teedee reminds Lowbacca of his service to the Empire.
+> Em Teedee parroted from his place at Lowie’s waist, “Oh, most certainly-appropriate service to the Empire.”
+>
+> “You needn’t take that tone with me! I am simply reinforcing the things you need to know”, the reprogrammed Em Teedee replied, miffed.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 18 (p.154–155).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:10`
+
+What it shows (our notes): Em Teedee threatens to sound an alarm and gives in only under protest.
+> “I feel obligated to warn you that I simply must sound an alarm,” the translating droid said.
+>
+> “If you make so much as a peep,” she said, “we’ll rewire your vocal circuits so that you talk backwards and they’ll toss you in the scrap heap.”
+>
+> “Oh, all right, all right,” Em Teedee said. “But I submit to this only under stringent protest. The Empire is, after all, our friend.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20 (p.182).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:65`
+
+What it shows (our notes): Plugged into the station computer, Em Teedee finds the passwords.
+> “Oh, my,” Em Teedee said. “Ah, this is much better. I can see so many things! I feel as if my brain is full to overflowing. A wealth of information awaits me-“
+>
+> “Ah, yes, here it is. But don’t blame me if the whole lot of stormtroopers comes after you.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 20 (p.184).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:69`
+
+What it shows (our notes): Em Teedee wavers over what he has done.
+> “No, you cannot do it yourself, Lowbacca. You’re getting delusions of grandeur again. It was I who helped bring down the Shadow Academy’s defenses and … oh-oh dear, what have I done?”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.189).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:80`
+
+What it shows (our notes): Back on Yavin 4, Em Teedee has been purged of his Imperial programming.
+> “Master Lowbacca says that he most fervently hopes a comet will crash into the vacation home of the designer of this subsystem,” said Em Teedee from the clip on Lowie’s belt.
+>
+> Em Teedee had been completely purged of his corrupted Imperial programming and the irritating little droid was now back to his normal self.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.202).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:111`
+
+### Limitations and anti-feats (Shadow Academy)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Em Teedee, reprogrammed by the Empire, praises it.
+> “Well, if you ask my opinion,” Em Teedee’s thin voice piped up, “you caused a great deal of your own pain through your needless resistance.”
+>
+> The Imperials are very perceptive, you know. So perceptive, in fact, that they saw my own potential and have included me in their plans. I am most honored.”
+>
+> As an expression of their complete confidence in me, Brakiss and Tamith Kai have had my programming enhanced. I feel much better now than I ever have. I am to be an integral part of your instruction here. You must realize that they have only your best interests at heart. The Empire is your friend.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 14 (p.128–129).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:58`
+
 
 
 # Debate and forum claims (unverified)

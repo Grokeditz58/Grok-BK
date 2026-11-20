@@ -104,6 +104,19 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Qorl jumps to lightspeed a
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-04.md:65`
 
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Han wants to go after the kids himself in the Falcon.
+> “Not on your life!” Han said.
+>
+> “I’ll come get you in the Falcon” Han said.
+>
+> “Looks like I didn’t have to come after you kids in the Falcon after all!”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.50–200).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:106`
+
+
 
 # CANON (Disney canon — kept separate)
 

@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 173 (102 with quotations; 63 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 204 (133 with quotations; 94 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1562,6 +1562,247 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lost in the jungle, Tenel 
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.137).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:24`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka's Nightsister nightmare: black-cloaked figures from her mother's stories.
+> Running from black-cloaked shadowy figures with purple-splotched faces. Muddled memories of stories her mother had told her as a child swirled through her sleep-fogged brain. She had never seen those terrifying forms before, but she knew what they were-witches from Dathomir who had drawn on the dark side of the Force to work all manner of evil.
+>
+> The Nightsisters.
+>
+> But the last of the Nightsisters had been destroyed or disbanded long before Tenel Ka had even been born. Why should she dream of them now? The only Force-wielders left on Dathomir used the powers of the light side.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1 (p.6).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:31`
+
+What it shows (our notes): Tenel Ka hides that she is heir to the Hapan throne.
+> This was the day that her grandmother, Matriarch of the Hapan Royal Household, was sending an ambassador to visit Tenel Ka, heir to the Royal Throne of Hapes. And she didn’t want her friends to know she was a princess…
+>
+> Tenel Ka shuddered as she thought of her iron-willed grandmother and her ambassadors, women who would lie or even kill to preserve their power-although her grandmother no longer ruled Hapes.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1 (p.6).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:32`
+
+What it shows (our notes): Tenel Ka senses something coming as she waits on the temple ramparts.
+> She sensed an uncomfortable tingling in the depths of her mind that told her something was about to happen, as if lightning were about to strike.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.42).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:103`
+
+What it shows (our notes): Tenel Ka insists on going with Luke to find her friends.
+> “Wait,” Tenel Ka said. “These are my friends. I know how they think. I know what they would do. I cannot cower here while they are in danger. Please. I must go with you.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.46).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:112`
+
+What it shows (our notes): On GemDiver Station Tenel Ka is assailed by a sense of lingering violence.
+> At any other time Tenel Ka might have noted her surroundings, the artistry and craftsmanship that had gone into the station’s construction-but the moment the shuttle doors opened, she was assailed by a sense of lingering violence and darkness. Of wrongness.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.47).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:115`
+
+What it shows (our notes): Tenel Ka tells Leia her friends have a greater call on her than honor.
+> “Jacen, Jaina, and Lowbacca have a greater call on me than honor,” she said. “They have my friendship.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.51).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:123`
+
+What it shows (our notes): Tenel Ka's court training pays off with the Hutt's majordomo Shanko.
+> “Your hospitality is as welcome as the prospect of refreshment,” Tenel Ka replied.
+>
+> “Sssso, you have been well ssschooled,” Shanko said. “Are you perhapsss a sssscholar? A diplomat?”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.69).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:38`
+
+What it shows (our notes): Tenel Ka's dark dreams return on the way to Dathomir.
+> An urgency, a feeling that something was terribly wrong, nudged the back of her mind.
+>
+> And so she had slept, sealed away from light and sound, in one of the berths aboard the Off Chance, but her rest had again been disturbed by shadowy dreams.
+>
+> The uneasy feeling left by her dream persisted as Tenel Ka made her way to the cockpit and lowered herself into the copilot’s seat next to Luke.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.83–84).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:66`
+
+What it shows (our notes): Tenel Ka explains why she hides her Hapan heritage.
+> “My lineage is tainted by generations of bloodthirsty, power-hungry tyrants. I am not proud that I was born to the royal family of Hapes,” she spat. “I do not wish my friends to know that I am heir to the throne, because I have done nothing to earn it, choose it, or deserve it.”
+>
+> “Before I tell them, I must prove to myself that I am not like my ancestors. I choose to take pride only in what I accomplish, first through my own strength, and then through the Force-never through inherited political power. My parents are very proud that I have decided to become a Jedi.”
+>
+> “I understand,” Luke said. “You’ve chosen a difficult path.” He smiled at her warmly. “It is a good start for a Jedi.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.88).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:75`
+
+What it shows (our notes): Tenel Ka keeps pace with Luke on the steep climb to the Singing Mountain.
+> Tenel Ka paused halfway up the steep path that led to the fortress. She was not at all fatigued; she was simply savoring the moment. Luke, who had been following behind her with unwavering steps, halted without a word and waited for her to continue. He did not seem the least bit winded, his breathing slow and regular, no small feat considering the rapid pace Tenel Ka set. The longer she knew Master Skywalker, the more she admired him, and the better she understood why her mother - who did not often speak highly of any man except her husband, Isolder, had always held Luke Skywalker in high esteem.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11 (p.102).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:111`
+
+What it shows (our notes): Tenel Ka takes command at the Singing Mountain fortress.
+> “Our mission is urgent,” Tenel Ka stated, not bothering to greet the woman.
+>
+> “We must see Augwynne alone at once.” She had never used such a tone of command in Master Skywalker’s presence before, but she knew her clan sister would not be offended. At times like this, pleasantries were an unnecessary luxury among her people.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 11 (p.103).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:113`
+
+What it shows (our notes): Tenel Ka senses that the rancor rider is a Nightsister.
+> “She’s a Nightsister,” said Tenel Ka. “I can feel it.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 15 (p.132).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:68`
+
+What it shows (our notes): Tenel Ka rides the rancor expertly.
+> Tenel Ka sat in front of Luke on the whuffa-hide saddle, guiding the rancor steadily in the direction of the Great Canyon . She was a good rider, and she knew it. She had to admit that it felt good to demonstrate to Master Skywalker that she was an expert at something.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.144).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:96`
+
+What it shows (our notes): Stopped by rancor riders, Tenel Ka commands her way into the Great Canyon camp under cover as a Misty Falls Clan warrior.
+> Tenel Ka had been raised to take command, and though she rarely exercised that power, it did come naturally. She sat up straighter in the saddle and held one arm high. “Sisters and brothers of the Great Canyon Clan,” she said, “we have heard your message as far away as the Misty Falls Clan and have traveled here to join you. We are not without skill in the Force, and we wish to learn your ways, to use all of the Force and to become strong!”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.147).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:103`
+
+What it shows (our notes): Tenel Ka floats Vonnda Ra's lamp around the tent and feeds its flame, making Vonnda Ra gasp.
+> Deciding against using any theatrical gestures or words, she half-closed her eyes in concentration and grasped the lamp with her mind. She had never enjoyed showing off her skill with the Force, using it only when absolutely necessary, but this performance was not for herself. She would probably never see Jacen and Jaina and Lowbacca again if she could not show these Nightsisters her true potential.
+>
+> Without a sound the lamp glided off the platform and high into the air over their heads. Tenel Ka thought about the flame, feeding it with her mind and making it brighter, brighter, until its warm radiance reached even to the darkest corners of the pavilion. Then she sent the lamp sailing around the outer edges of the tent; it made the complete circle so quickly that she heard Vonnda Ra gasp with amazement. Through her half-closed eyes Tenel Ka watched the dark-haired woman sit up, one hand outstretched, palm up, as if to ask a question.
+>
+> Tenel Ka brought the lamp in closer for another circle, and then another, smaller and closer to the central tent post, until at last it spun around the center pole in a dizzy downward spiral, still glowing brightly-all in a matter of a few seconds. Last, Tenel Ka brought the spinning lamp lightly to rest in Vonnda Ra’s outstretched hand.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.150–151).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:108`
+
+What it shows (our notes): Tenel Ka tells Vonnda Ra she is a fool to dismiss Luke.
+> “Then I would say . . . ,” Tenel Ka replied, leveling her best cool gray stare at Vonnda Ra, “that you are a fool.”
+>
+> “This man has watched and learned the ways of the Force since before I was born.
+>
+> Not many - not many who still live - have seen his power. But I have seen it.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.151–152).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:111`
+
+What it shows (our notes): Tenel Ka tells Garowyn she will not use the Force to prove her strength.
+> “I have used the Force, and I believe that I am strong.
+>
+> However,” she added, her voice growing hard, “I will not rely on the Force so much that I become weak. If there is anything I can do under my own power, I will not use the Force to do it.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.170–171).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:44`
+
+What it shows (our notes): Held in the air by Garowyn, Tenel Ka goes limp, breaks free and snags Garowyn with her grappling hook.
+> Realizing that this was exactly what she had been doing, Tenel Ka went limp.
+>
+> As she did so, Garowyn lost her grip slightly, and Tenel Ka wobbled in midair. So, she mused, the Nightsister is not as strong as she thinks she is.
+>
+> Garowyn was still amusing herself with Tenel Ka’s “struggles” when, with a practiced flick of her wrist, Tenel Ka flung out her line; the grappling hook caught securely on its intended target. Before the Nightsister could notice, Tenel Ka went completely limp again. When Garowyn’s grasp wavered again, Tenel Ka jerked on the line and wrenched herself free, falling to the floor and landing painfully on her rear. She looked up to see Garowyn’s petite form towering over her. But instead of an angry rebuke, all she heard from the Nightsister was a short, sharp bark of amazed laughter.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.172–173).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:48`
+
+What it shows (our notes): Tenel Ka makes her first joke.
+> “Master Skywalker,” Tenel Ka said, her face serious, “I believe I now understand how it might be possible, as you said, to … Turn a situation.”
+>
+> “Tenel Ka,” he said, “I believe you just made a joke. Jacen would be proud of you.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.174).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:51`
+
+What it shows (our notes): In the docking bay Tenel Ka seals the red doors one by one.
+> While they worked, Tenel Ka raced around the docking bay, sealing all of the red doorways, making sure that none would open.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.194).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:91`
+
+What it shows (our notes): Claimed by Tamith Kai as a replacement, Tenel Ka stands in her way: 'You will have to get through me first.'
+> “And you are from Dathomir, girl! I claim you. You are a fitting replacement for the three I am about to destroy.”
+>
+> “You will have to get through me first.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.195).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:92`
+
+What it shows (our notes): Tenel Ka deflects Tamith Kai's Force blow.
+> She struck with the Force, an invisible blow that nearly knocked Tenel Ka sideways - but the young woman deflected it and stood strong, lips clamping together in determination.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.195).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:93`
+
+What it shows (our notes): As Tamith Kai charges with dark power, Tenel Ka breaks her kneecap with one kick.
+> Tenel Ka stood directly in front of her, unflinching, as the dark Force built to a climax within the Nightsister. Without warning, Tenel Ka lashed out with her foot, putting all of the strength of her muscular, athletic legs behind the kick. The sharp toe of her hard, scaled boot struck the Nightsister’s unarmored kneecap.
+>
+> Tenel Ka distinctly heard the crunch of a breaking bone and tearing muscles as her blow struck home. The Nightsister shrieked and fell to the ground, writhing in agony.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.196).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:95`
+
+What it shows (our notes): Tenel Ka: she never uses the Force unless she has to.
+> “I never use the Force unless I have to,” she said. “Sometimes old-fashioned methods are just as effective.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 21 (p.196).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:97`
+
+What it shows (our notes): Back on Yavin 4, Tenel Ka agrees with her grandmother for the first time in years.
+> “This,” Tenel Ka muttered, “is a fact.” And she realized it was the first time in years that she had agreed with her grandmother.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.204).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:112`
+
+### Limitations and anti-feats (Shadow Academy)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's turmoil dulls her awareness.
+> So great was her turmoil that she didn’t even notice that Luke Skywalker had joined her on the observation deck until he stood directly in front of her.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.43).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:106`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka is silent and intimidated beside Luke on the way to Borgo Prime.
+> She had been silent, intimidated, through most of the journey to Borgo Prime, unable to bring herself to speak. Beside her sat Master Skywalker, the most famous and revered Jedi in the entire galaxy - calmly and competently piloting the Off Chance, an old blockade runner Lando had won in a sabacc game and claimed he no longer needed.
+>
+> She tried to think, but her sluggish mind would not cooperate. Weariness clung to her like the sweat-damp clothing she wore. She squirmed in her seat and tried to suppress a nervous yawn.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.62–63).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:28`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — On Borgo Prime Tenel Ka gawks at the spaceport and forgets her cover.
+> In spite of her many rehearsals, Tenel Ka found it difficult to remember that she was supposed to be an experienced trader, used to frequenting such spaceports. She gawked openly at the tall rows of prefabricated dwellings welded up and down the inner walls and all the garish flashing lights of the alien businesses in separate atmosphere domes around them.
+>
+> “I feel … foolish. Out of place.”
+>
+> “I do not understand this place,” she said. “It both revolts and …entices me at the same time.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.65–66).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:33`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka dumps her drink into a planter, which shudders violently.
+> When the Ranat returned and conferred again with the Hutt, Tenel Ka reached over to the planter beside her chair and dumped half of her drink into it. It was only after the stalk began to shudder violently and the leaves curled up that Tenel Ka realized that the shrub was not a decoration but a plant-alien customer!
+>
+> “Are you the purchasing agent, then?” Tenel Ka said without thinking.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 7 (p.73–74).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:43`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — At the Great Canyon Tenel Ka cannot sense her friends and is caught off guard by a scout.
+> Tenel Ka let her eyes drift shut and cast about with her mind, but she sensed no trace of her three friends.
+>
+> An ululating cry rang out from the canyon rocks above them. Tenel Ka started in surprise. “A scout sounding the alarm,” she said, irritated with herself for having been caught off guard.
+>
+> Waiting for her eyes to adjust, Tenel Ka tried to sense her friends; she still found no trace, but the light touch of Master Skywalker’s hand on her arm reassured her.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 17 (p.146–149).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-03.md:100`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — After ten lifts in Garowyn's test, Tenel Ka doubts and tires.
+> Or what if - it hurt to even think it - what if he had been wrong, after all? What if the dark side really was stronger? If so, she and Master Skywalker did not stand a chance of rescuing Jacen, Jaina, and Lowbacca. Tenel Ka felt weak and drained by the time she had lifted her tenth object to satisfy Garowyn’s sense of completeness. The titanium block wobbled and shook as she lowered it to the floor of the cabin.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 19 (p.171–172).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:46`
+
 
 
 # Debate and forum claims (unverified)

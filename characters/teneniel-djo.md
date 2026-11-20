@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 11 (7 with quotations; 1 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments; 1 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 12 old entries; old file: `characters/_bak/teneniel-djo.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 13 (9 with quotations; 3 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments; 1 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 12 old entries; old file: `characters/_bak/teneniel-djo.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -127,6 +127,25 @@ What it shows (our notes): Teneniel Djo is proud that her daughter trains with t
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.141).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:27`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Teneniel Djo captured Luke Skywalker on Dathomir.
+> “But did she ever tell you how we met? That she captured me?”
+>
+> On Dathomir, a woman selected and captured the man she wanted to marry. Her mother, Teneniel Djo, had done that to Luke Skywalker?
+>
+> It brought a renewed flush of embarrassment to her face to realize that her mother had captured the greatest Jedi Master in the galaxy and had expected him to marry her and father her children.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.86).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:71`
+
+What it shows (our notes): Tenel Ka is proud that her mother is strong in the Force.
+> I am proud that my mother is strong in the Force and that she, a warrior from Dathomir, now rules the entire Hapes Cluster.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.87).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:72`
+
 
 
 # Debate and forum claims (unverified)

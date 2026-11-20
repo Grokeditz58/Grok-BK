@@ -7011,6 +7011,31 @@ Note (our notes, around the quote): "Help me Obi-Wan Kenobi, you're my only hope
 Our notes: `notes/materials/155-new-essential-guide-to-weapons-technology-2004/quotes/QUOTES-INDEX.md`
 ![Quote image: New Essential Guide to Weapons and Technology (2004), printed p.171, scan p.197 — Leia's line is complete](../../notes/materials/155-new-essential-guide-to-weapons-technology-2004/quotes/negwt2004-p171-s197-leia-only-hope.jpg)
 
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Leia wants to act, and agrees to work from Coruscant.
+> “But Luke, they’re our children,” she was saying. “We can’t simply stand by and do nothing if they’re in danger.”
+>
+> “All right, Luke,” Leia said.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.50).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:122`
+
+What it shows (our notes): Leia thanks Tenel Ka as a mother.
+> “Then I owe you my gratitude as a mother as well.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.51).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:123`
+
+What it shows (our notes): Leia lets Luke keep the Shadow Chaser.
+> “All right, Luke. We’ll send our engineers to study it, but you keep the ship there. Use it when you need to.
+>
+> You earned it rescuing Jacen, Jaina, and Lowie. Besides, you’re an important part of the New Republic . We’ll all feel better knowing you’ve got a safe, fast ship when you go running off across the galaxy-and don’t tell me you’ve forgotten how to fly a fast ship!”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.201).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:110`
+
+
 # CANON (Disney canon — kept separate)
 
 ## The Complete Star Wars Encyclopedia, Vol. III (P–Z)

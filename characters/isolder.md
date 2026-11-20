@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 48 (37 with quotations; 11 quotations extended to the full sentence/passage from the source text on file; 3 marked as fragments; 18 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 52 old entries; old file: `characters/_bak/isolder.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read).
+- **Entries:** 49 (38 with quotations; 12 quotations extended to the full sentence/passage from the source text on file; 3 marked as fragments; 18 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 52 old entries; old file: `characters/_bak/isolder.md.bak-20261117`. Added 2026-11-19: 1 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -680,6 +680,17 @@ What it shows (our notes): Isolder told Tenel Ka that his two years as a disguis
 — Source: Young Jedi Knights 1: Heirs of the Force (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 13 (p.140).
 (Full sentence/passage taken from the source text on file: `YJK01 Heirs of the Force epub`, checked against the 1995 print scan; OCR slips corrected to the printed text.)
 Our notes: `notes/materials/173-yjk-01-heirs-of-the-force/hotf-03.md:26`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Luke tells Tenel Ka her father Isolder's difficult decision was the right one.
+> “Long ago your father Isolder did something difficult and very brave. Realizing that your grandmother loved power so much she was willing to kill anyone who threatened her, he rejected her teaching. She is a strong, proud woman, but her lessons were poisonous.
+>
+> He chose instead to value and honor life wherever he found it. Your father’s difficult decision was the right one.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.87–88).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:74`
+
 
 
 # Debate and forum claims (unverified)

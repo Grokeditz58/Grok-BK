@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 142 (37 with quotations; 1 quotations extended to the full sentence/passage from the source text on file; 30 marked as fragments). Rebuilt 2026-11-17 from 168 old entries; old file: `characters/_bak/lobot.md.bak-20261117`.
+- **Entries:** 146 (41 with quotations; 5 quotations extended to the full sentence/passage from the source text on file; 30 marked as fragments). Rebuilt 2026-11-17 from 168 old entries; old file: `characters/_bak/lobot.md.bak-20261117`. Added 2026-11-20: 4 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -808,6 +808,39 @@ Our notes: `notes/materials/047-visual-dictionaries/vd46-ep4-6.md:26`
 Label in our notes: Wii p. 77
 Context: Objective: "Go to Cloud City on Bespin and meet with Senator Garm Bel Iblis."
 Our notes: `notes/materials/055-prima-force-unleashed/fu-06.md:41`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lobot pilots the Lady Luck into GemDiver Station's docking bay.
+> Lights on the mechanical apparatus implanted on the back of Lobot’s skull flashed and blinked as he studied the guidance grid and compass. Piloting smoothly, Lobot brought the Lady Luck into the main docking bay on GemDiver Station.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.13).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:46`
+
+What it shows (our notes): Lobot at the controls during the attack.
+> The cyborg was a blur of motion, hands darting from keyboard to keyboard, eyes scanning the screens around him and silently assessing details. The lights on the computer implants at the sides of his head flashed like fireworks.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.31–32).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:79`
+
+What it shows (our notes): Lobot on the raiders' equipment and his cyborg link.
+> “Their equipment was specially designed to remove a section of hull.”
+>
+> Lobot pressed a panel on the back of his head and cocked it to one side as if listening to a voice no one else could hear. A moment later he nodded.
+>
+> “Both shipments were sold through our broker on Borgo Prime.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.48–49).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:118`
+
+### Limitations and anti-feats (Shadow Academy)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lobot reports that the station's signals are jammed.
+> “I’ve already tried. We’re jammed, sir-can’t punch a signal through their screens.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.33).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:83`
+
 
 # CANON (Disney canon — kept separate)
 

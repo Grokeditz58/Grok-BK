@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 30 (17 with quotations; 9 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`.
+- **Entries:** 33 (20 with quotations; 12 quotations extended to the full sentence/passage from the source text on file; 2 marked as fragments; 5 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 33 old entries; old file: `characters/_bak/taa-chume.md.bak-20261117`. Added 2026-11-20: 3 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -299,6 +299,35 @@ What it shows (our notes): Ta'a Chume: "There can be no unity without honor"; Te
 (Fragment completed 2026-11-17: full sentence/passage matched word for word in the source text on file: `MEGA_Legend_The_New_Jedi_Order_Series_Star_Wars_New_Jedi_Order_05_Agents_of_Chaos_02_Jedi_Eclipse_James_Luceno_epub`.)
 Note text that was attached to the quote line: (JE ch. 11) — **Ta'a Chume: "There can be no unity without honor"; Teneniel may return to Dathomir; "You would have been perfect for my son"; she pledges full support**
 Our notes: `notes/materials/118-njo-05-jedi-eclipse/je-02.md:30`
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Tenel Ka's complex feelings toward her grandmother.
+> Her feelings toward her grandmother were complex: she both admired and despised the older woman. Tenel Ka preferred to dress in the lizard-skin armor of the warrior women of Dathomir, like her mother, rather than in the fine web-silks of the Royal House of the Hapes Cluster. So far, Tenel Ka had managed to tread a fine line between pleasing and annoying her grandmother. She knew that if she stepped over that line too far, assassins might someday pay her a visit.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.43).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:105`
+
+What it shows (our notes): Tenel Ka on her grandmother.
+> “Yes,” Tenel Ka gritted. “Of that part of my family, I am not proud. My grandmother is power-hungry. She manipulates. I am not sure she even knows how to love.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 9 (p.87).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-02.md:73`
+
+What it shows (our notes): The Matriarch calls Tenel Ka, sends Yfra away and admits to guarding her from a distance.
+> “Thank you for remembering to call. My sources tell me I should be very proud of you,” the Matriarch said, with what seemed to be genuine pleasure.
+>
+> Now, I’m afraid the meeting will be delayed indefinitely I was forced to send Yfra on an urgent errand to the Duros system.”
+>
+> “But you’ll forgive a concerned grandmother if she tries to find a way to look out for her granddaughter from a distance, won’t you? One or two unobtrusive guards in a nearby system, perhaps? I think that might be the best thing for both of us.”
+>
+> The image of her grandmother leaned forward to turn off the communication link, but just as the connection broke the Matriarch whispered, “Besides, I have a feeling you weren’t terribly disappointed to miss Ambassador Yfra.”
+>
+> “This,” Tenel Ka muttered, “is a fact.” And she realized it was the first time in years that she had agreed with her grandmother.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.203–204).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:112`
+
 
 # Debate and forum claims (unverified)
 

@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 444 (237 with quotations; 16 quotations extended to the full sentence/passage from the source text on file; 88 marked as fragments; 145 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 517 old entries; old file: `characters/_bak/lando-calrissian.md.bak-20261117`.
+- **Entries:** 461 (254 with quotations; 33 quotations extended to the full sentence/passage from the source text on file; 88 marked as fragments; 145 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 517 old entries; old file: `characters/_bak/lando-calrissian.md.bak-20261117`. Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3766,6 +3766,145 @@ Our notes: `notes/materials/148-essential-guide-to-vehicles-vessels-1996/egvv-re
   — Source: The New Essential Guide to Weapons and Technology (W. Haden Blackman, Del Rey, 2004), printed p.181, scan p.207. The attribution is Lando Calrissian. The printed singles close after the period in organics, then a space, then the closing double quote..
 Our notes: `notes/materials/155-new-essential-guide-to-weapons-technology-2004/quotes/QUOTES-INDEX.md`
 ![Quote image: New Essential Guide to Weapons and Technology (2004), printed p.181, scan p.207 — Lando's line is complete](../notes/materials/155-new-essential-guide-to-weapons-technology-2004/quotes/negwt2004-p181-s207-lando-organics.jpg)
+
+## Young Jedi Knights 2: *Shadow Academy* (Kevin J. Anderson & Rebecca Moesta, Boulevard 1995): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lando arrives at the Jedi academy.
+> Jaina watched with admiration as Lando Calrissian strode down the ramp of the Lady Luck, an emerald-green cape billowing out behind him and a broad smile on his dark, handsome face. His frequent companion, the bald cyborg assistant Lobot, followed him down the gangplank and stood stiffly at his side.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 1 (p.10).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:39`
+
+What it shows (our notes): Lando's security at GemDiver Station.
+> Lando’s Corusca-mining facility, GemDiver Station, was a symphony of running lights and transmitting grids surrounded by dozens of automated defensive satellites. The security satellites homed in on the Lady Luck, powering up weapons as the ship approached. But when Lando keyed in an access authorization code, the satellites acknowledged his signal, then turned back to their robotic perimeter search for intruders and pirates.
+>
+> “Can’t have too much security,” he said, “not when you’re dealing with something as valuable as these Corusca gems.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.12).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:45`
+
+What it shows (our notes): Lando tells the twins to broaden their horizons beyond Jedi training.
+> “You can’t learn everything about the universe just by sitting in the jungle and lifting rocks off the ground with your mind.” He flashed a grin. “You need to broaden your horizons-learn about the way commerce works in the New Republic . That’ll give you some useful knowledge, in case your lightsabers ever fail.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.13).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:47`
+
+What it shows (our notes): Lando on Luke's concern for the kids.
+> Seeing Jacen’s frustration, he added, “You know, your uncle Luke is concerned about your safety. He can be pretty cautious, but I trust his judgment.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.13).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:48`
+
+What it shows (our notes): Lando on Corusca gems.
+> He held the Corusca gem between thumb and forefinger; it glinted like liquid fire in his grasp. It did more than just reflect light from the glowpanels on the ceiling-the Corusca gem seemed to contain its own miniature furnace, its trapped light bouncing around inside the crystalline facets for ages until by sheer probability some of the photons found their way out.
+>
+> “Corusca gems have been found in no other place in the galaxy,” Lando said, “only the core of Yavin. Of course, prospectors keep searching other gas-giant planets, but for now my mining station is where all Corusca gems come from.
+>
+> A long time ago the Empire had a sanctioned station here. It went bankrupt pretty quickly without imperial price supports, though. Corusca mining is a hazardous job, you know, with a high investment right from the start-but it’s really paying off for me.”
+>
+> “Corusca gems are the hardest substance known,” he said. “They can slice through transparisteel like a laser goes through Sullustan jam.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 2 (p.16–17).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:52`
+
+What it shows (our notes): Lando's bravado in the deep atmosphere, and his real nerves.
+> “See? No problem,” he said with a nonchalant grin, but Jacen could see the beads of sweat on Lando’s forehead.
+>
+> Lando laughed. “Just like your father,” he said.
+>
+> He swallowed, and Jacen sensed just how nervous Lando really was to be down this far. Daredevil gem hunters willing to risk their lives for the fabulously expensive Corusca stones usually did all the deep dives.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3 (p.24–25).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:65`
+
+What it shows (our notes): Lando on the gem Jacen finds.
+> “Keep that safe, Jacen,” Lando said. “That’s enough to buy half a city block on Coruscant, I bet.”
+>
+> “Even Han never gave Leia something that valuable!
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 3 (p.28).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:71`
+
+What it shows (our notes): Lando refuses to let anyone board his station.
+> “Nobody boards my station without my permission.”
+>
+> “You kids find a safe place, and stay there!”
+>
+> So of course the young Jedi Knights followed him.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.36).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:88`
+
+What it shows (our notes): Lando shoots raiders with precise fire.
+> Then, as if in afterthought, he turned and fired three more times, catching one of the white-armored stormtroopers full in the chest.
+>
+> “I guess you were right,” he said, panting. “For some reason they are after you.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.38).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:92`
+
+What it shows (our notes): Lando's trembling fingers at the escape code.
+> “This has not been a good day,” he grumbled.
+>
+> He punched in an access code, but Lando’s fingers were trembling. A red light blinked. “ACCESS DENIED.” Lando hissed something, then rekeyed the number.
+>
+> “We can’t get you away from here-those blastboats would come after you before you knew it - but this is the safest place on the station. I’ll stand outside and guard the door.”
+>
+> He gripped his blaster pistol, feigning confidence.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.39).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:94`
+
+What it shows (our notes): Lando reports the kidnapping to Luke.
+> “Luke, buddy,” he rasped, “I’m not sure exactly what happened. They … fried our security satellites, boarded the station … must’ve stunned us. We’re okay, but-” Lando’s troubled eyes closed and his jaw tightened, “Jacen, Jaina, and Lowbacca are gone. They’ve been kidnapped.”
+>
+> It was someone connected with the Empire, though-that’s for sure.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.45).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:110`
+
+What it shows (our notes): Lando on gem brokers.
+> “Gem brokers are pretty skittish. They pay a good percentage, but they’re secretive-afraid that if we know who their customers are, we won’t need the middlemen anymore.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.49).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:119`
+
+What it shows (our notes): After the raid Lando is upgrading GemDiver's security.
+> “Lando Calrissian says something like this can never happen again.
+>
+> He’s already working with his assistant Lobot to come up with refinements to GemDiver Station’s security. I think he’s even going to use Corusca gems somehow.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 22 (p.200–201).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-04.md:107`
+
+### Limitations and anti-feats (Shadow Academy)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lando dismisses the threat.
+> Then to the twins and Lowie, he said reassuringly, “Don’t worry. We’re got station security on alert. These people don’t have a chance against our defenses.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.32).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:80`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lando is overconfident at the boarding.
+> “Well, they can knock but they can’t come in.” He smiled nervously. “Just keep all the airlocks sealed. Our station armor should hold.”
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.35).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:86`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lando is found unconscious at the door.
+> Jaina saw Lando sprawled unconscious on the floor outside the door, his green cape pooled around him, his right arm extended forward, still grasping the blaster pistol.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 4 (p.41).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:97`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lando reproaches himself for failing to save the kids.
+> “But it wasn’t enough, buddy. I couldn’t save them.” A note of anger and self-reproach crept into his voice. “I was too busy trying to defend my station-thinking they were pirates come to steal my Corusca gems. I didn’t even realize they were after the kids until it was too late.”
+>
+> Luke neither condemned nor pardoned Lando, Tenel Ka noticed. He simply listened.
+— Source: Young Jedi Knights 2: Shadow Academy (Kevin J. Anderson & Rebecca Moesta, 1995), ch. 5 (p.48).
+(Full sentence/passage taken from the source text on file: `YJK02 Shadow Academy epub`, checked against the 1995 print scan; e-book glitches corrected to the printed text.)
+Our notes: `notes/materials/174-yjk-02-shadow-academy/sa-01.md:117`
+
 
 # CANON (Disney canon — kept separate)
 
