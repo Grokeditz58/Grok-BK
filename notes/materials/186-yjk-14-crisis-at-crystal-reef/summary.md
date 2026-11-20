@@ -1,0 +1,23 @@
+# Young Jedi Knights 14: Crisis at Crystal Reef: summary, plot and strongest findings
+
+- Read 2026-11-20 CST. Every line of READ l.1–1626 was read in order: the front matter, the whole story (ch. 1–22) and the back matter. Notes are limited to scaling-relevant material (owner's rulings, 2026-11-20). The quotes are in cr-01 and cr-02; this summary is in our own words.
+- Authors: Kevin J. Anderson & Rebecca Moesta. Fourteenth and final Young Jedi Knights book (Boulevard Books, 1998), third of the 'Under a Black Sun' arc. Cites are CR ch. N, p.X (approximate printed pages).
+
+## Plot
+- **Yavin 4 (ch. 1–3):** Out of andris and in withdrawal, Anja admits to herself that she is addicted and steals Zekk's Lightning Rod. Zekk shows off his new lightsaber. Luke leaves it to the friends to go after her, and Tenel Ka deduces that she is heading for Kessel.
+- **Kessel (ch. 4–9):** Nien Nunb survives a carbonite 'accident' that kills his second administrator Torvon. Anja bluffs the gunrunner Lilmit and learns that Czethros ran the Anobis guns, deliberately addicted her, keeps a Black Sun andris stash under the ice near Crystal Reef, and plans to take over Kessel. She slices Lilmit's coolant lines. The friends arrive; Jacen senses Lilmit's lies and Tenel Ka bluffs him too. Jaina, Lowie and Em Teedee stay with Nien Nunb, and Czethros's mercenaries seize Kessel with the help of turncoat Kymn.
+- **Crystal Reef (ch. 8, 10, 12, 14):** Zekk, Jacen and Tenel Ka join Cilghal on Mon Calamari and find Anja, who confesses. In the harbormaster's minisub they smash the stash. A Great Arctic Skra'akan attacks and swallows a container of andris, and they escape by dragging an iceberg behind them with the tow beam but are trapped under the ice.
+- **Sabotage (ch. 11, 15, 17):** Using janitorial access, Jaina, Lowie and Em Teedee foam Czethros and reverse the refreshers. Em Teedee then blows up the transmitter Czethros needs for his galaxy-wide coordinated takeover. Jaina and Lowie use a Force-planted illusion to disable a guard, free Nien Nunb's workers, and ambush and seal away Kymn's team.
+- **Healing and release (ch. 16, 18):** Anja goes into agonizing withdrawal; her friends' touch eases it and Cilghal heals the toxins from her body. They cut the sub free with lightsabers underwater. Anja destroys a last vial and gives up her antique saber.
+- **End (ch. 19–22):** Czethros, fleeing and locked out of Lilmit's ship, fakes a surrender, slips in beetle blood and falls into a carbonite vat. Anakin devises a plan to expose the sleeper agents one planet at a time. Anja reconciles with Han and takes a pilot's job with Lando. The friends are honored in the Great Temple.
+
+## Strongest findings
+- **Jaina and Lowbacca, Force mind influence (ch. 17):** they calm a guard into a suggestible state through the Force and make him see a scorpion-rat on his shoulder. Also: Jaina senses Lowie's plan through the Force (ch. 11) and senses Czethros's devious intent (ch. 19).
+- **Zekk:** uses the Force unconsciously when piloting (ch. 8); is guided by Cilghal's Force (ch. 14); his self-built lightsaber works underwater and cuts ice (ch. 18); repairs the engines with makeshift tools (ch. 18). Statement: the dark side 'didn't want to let me go' (ch. 16).
+- **Cilghal:** Jedi healer and ambassador. She senses danger, lends Zekk strength through the Force, draws the andris toxins from Anja ('Not cured... Cleansed'), and leads the underwater lightsaber cutting. Her persuasive voice sways the Yarin.
+- **Jacen:** senses the creature's hunger but cannot reach its mind once it is drugged ('a storm going through its brain'); senses Lilmit's lies; his touch eases Anja's pain; slowed badly by the polar cold (anti-feat).
+- **Tenel Ka:** deduces Kessel, bluffs Lilmit ('intricate understanding of deceptions, plots, and conspiracies'), suggests the tow-beam tactic and the lightsaber escape, keeps her footing when the creature grabs the sub, ignores the polar cold, and cuts ice one-handed underwater.
+- **Anja:** her own verdict is that she 'had no strength in the Force' and that her lightsaber abilities came only from andris (key anti-feat). She is cunning (her bluff of Lilmit), sabotages Lilmit's engines with her saber, then renounces both the spice and the saber.
+- **Czethros:** Black Sun lieutenant planning a thousand simultaneous takeovers; ruthless toward his men; out of shape (anti-feat); dodges bolts to escape; dies frozen in carbonite after a fake surrender.
+- **Anakin:** 'master puzzle-solver', devises the one-planet-at-a-time decoy signal.
+- **Luke:** the Force reborn through the twins, their friends and Anakin; Jedi do 'what they believed was right-not what was simple or safe'.
