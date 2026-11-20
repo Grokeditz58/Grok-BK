@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 395 (324 with quotations; 285 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
+- **Entries:** 398 (327 with quotations; 288 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19; the ending was added later, see below). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 14 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read). Added 2026-11-20: 3 entries from the ending of Young Jedi Knights 8: Diversity Alliance (rest of ch. 19 and ch. 20, print pp.209–223, read in the 1997 paperback borrowed on archive.org).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2941,6 +2941,22 @@ What it shows (our notes): Tenel Ka crosses her blade with Jacen's to block IG-8
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:63`
 
+What it shows (our notes): Tenel Ka decapitates the combat arachnid after Jacen cuts off its mandibles.
+> “Jaina, look out!” Jacen cried, charging in as one of the combat arachnids reared up behind her, ready to pounce. Jaina whirled, jolted out of her victorious reverie.
+>
+> Jacen chopped with his lightsaber, slashing off the combat arachnid’s mandibles and leaving it to drip green ooze from its mouth. “I like animals,” he explained unrepentantly, “but not when they try to eat my sister!”
+>
+> Tenel Ka, right beside him, struck with her weapon, decapitating the monster. It tumbled to the floor like a crashing starship. All of its pointed legs flailed and thrashed with reflex nerves, but the monster was dead, and Jacen didn’t have time to worry any more about it.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (print p.211).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:16`
+
+What it shows (our notes): Tenel Ka reads the pattern behind the attacks: someone wants Thul hostages. 'We should have expected it.'
+> “Tyko should not have left the protection of the convoy fleet,” Tenel Ka said. “Someone clearly wants Thul hostages. Bornan Thul has disappeared. The traitorous guard on the Tradewyn tried to kidnap Raynar and Aryn Dro Thul. And now these droids have taken Tyko Thul prisoner.” She shook her head. “We should have expected it.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (print pp.215–216).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:23`
+
 ### Limitations and anti-feats (Diversity Alliance)
 
 What it shows (our notes): LIMITATION / ANTI-FEAT — The arachnid seizes Tenel Ka; 'The creature was too powerful.'
@@ -2954,6 +2970,20 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — The arachnid seizes Tenel 
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.69–70).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:13`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka and the others stand frozen while IG-88 carries off Tyko under threat.
+> IG-88 looked at Jacen, Jaina, Tenel Ka, and Lowie. “Do not follow—or you will be destroyed. Tyko Thul must remain alive,” the assassin droid said, as if in reassurance. “He will not be harmed… unless you force us to harm him.”
+>
+> The harsh synthesized voice sounded cold and implacable in the enclosed chamber. IG-88 extended his free arm with its built-in blaster rifle. The other assassin droid used both arms to point weapons at the young Jedi Knights, who stood frozen and uncertain.
+>
+> Then, with uncanny speed, the two droids hustled their captive out of the room and up the steeply sloping ramp, their metal footsteps thundering. Uncle Tyko’s despairing wail echoed through the chambers, then faded into the distance.
+>
+> “Hey, let’s go!” Jacen said. “We’ve got to help Tyko!”
+>
+> “How?” Jaina asked in anguish. “If we fight, they’ll kill him.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (print pp.214–215).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:22`
 
 ## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
 

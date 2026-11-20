@@ -18,14 +18,15 @@ Evidence file for Jacen Solo, later Darth Caedus, **Star Wars Legends** continui
 - Backfill 2026-11-20 (Young Jedi Knights): added 10 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Jedi Under Siege (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/178-yjk-06-jedi-under-siege/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from Shards of Alderaan (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the text layer of the print scan of the 1997 Boulevard paperback; OCR glitches corrected. Notes: `notes/materials/179-yjk-07-shards-of-alderaan/`.
-- Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; nothing from the missing ending is quoted); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
+- Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; the ending was read later in the 1997 print edition, see the next line); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
+- Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from the ending of Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997): the rest of ch. 19 and ch. 20 (print pp.209–223), missing from the library epub and read in the 1997 Boulevard paperback borrowed on archive.org. Notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 9 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 13 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 4 entries from The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (a pdftohtml conversion with no page breaks, so chapter citations only); misreadings corrected. Notes: `notes/materials/183-yjk-11-the-emperors-plague/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from Return to Ord Mantell (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (no chapter headings or page numbers in that source, so citations give the epub's section break, sec. N of 83); misreadings corrected. Notes: `notes/materials/184-yjk-12-return-to-ord-mantell/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 7 entries from Trouble on Cloud City (Kevin Anderson and Rebecca Moesta, 1998), read in full from the library archive.org epub of the 1998 Boulevard paperback (its page anchors match the printed pages; checked against the scan); OCR glitches corrected. Notes: `notes/materials/185-yjk-13-trouble-on-cloud-city/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 8 entries from Crisis at Crystal Reef (Kevin Anderson and Rebecca Moesta, 1998), read in full from the library epub; page numbers approximate, matched to the 1998 Boulevard paperback scan; OCR glitches corrected. Notes: `notes/materials/186-yjk-14-crisis-at-crystal-reef/`.
-- This file has 348 entries and 428 quotes (1 marked †).
+- This file has 351 entries and 431 quotes (1 marked †).
 
 ## Contents
 
@@ -42,10 +43,10 @@ Evidence file for Jacen Solo, later Darth Caedus, **Star Wars Legends** continui
 - [Empathy with Living Things](#empathy-with-living-things) (25)
 - [Strength, Speed, Durability and Pain Tolerance](#strength-speed-durability-and-pain-tolerance) (12)
 - [Lightsaber Skill and Combat Mastery](#lightsaber-skill-and-combat-mastery) (15)
-- [Fights and Combat Feats](#fights-and-combat-feats) (26)
+- [Fights and Combat Feats](#fights-and-combat-feats) (27)
 - [Statements from Other Characters](#statements-from-other-characters) (40)
 - [Author and Guide Statements](#author-and-guide-statements) (4)
-- [Limitations](#limitations) (73)
+- [Limitations](#limitations) (75)
 
 ## Growth and Evolution
 
@@ -2475,7 +2476,19 @@ Lowbacca roared and ignited his Jedi weapon, striking left and right with the mo
 — Darkest Knight (Kevin Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 214. Raynar raps Jacen's wrist in stun-rod sparring; Raynar: 'You're one of the best here at the academy'; Jacen: 'Jaina's as good as I am'.
+### 214. Jacen charges in and slashes the mandibles off the combat arachnid about to pounce on Jaina; Tenel Ka beheads it.
+
+```
+“Jaina, look out!” Jacen cried, charging in as one of the combat arachnids reared up behind her, ready to pounce. Jaina whirled, jolted out of her victorious reverie.
+
+Jacen chopped with his lightsaber, slashing off the combat arachnid’s mandibles and leaving it to drip green ooze from its mouth. “I like animals,” he explained unrepentantly, “but not when they try to eat my sister!”
+
+Tenel Ka, right beside him, struck with her weapon, decapitating the monster. It tumbled to the floor like a crashing starship. All of its pointed legs flailed and thrashed with reflex nerves, but the monster was dead, and Jacen didn’t have time to worry any more about it.
+
+— Diversity Alliance (Kevin Anderson and Rebecca Moesta, 1997), ch. 19
+```
+
+### 215. Raynar raps Jacen's wrist in stun-rod sparring; Raynar: 'You're one of the best here at the academy'; Jacen: 'Jaina's as good as I am'.
 
 ```
 TWO CRACKLING STUN-RODS crashed against each other in a shower of sparks. Jacen descended a few steps on the temple’s rugged stairway and went on the attack. Below him, Raynar backed down two stairs as he deflected the next several blows with his own stun-rod.
@@ -2495,7 +2508,7 @@ Jacen fell back a step. “Jaina’s as good as I am.”
 — Delusions of Grandeur (Kevin Anderson and Rebecca Moesta, 1997), ch. 11
 ```
 
-### 215. Jacen throws himself aside as a ricochet arrows through where he stood.
+### 216. Jacen throws himself aside as a ricochet arrows through where he stood.
 
 ```
 Instinctively, Jaina ducked to one side. Jacen threw himself in the opposite direction as a blast struck the hard ceiling and arrowed back down through the spot where he had stood only a moment before.
@@ -2505,7 +2518,7 @@ They raced along the tunnels, climbing toward the surface as the guards launched
 — Jedi Bounty (Kevin Anderson and Rebecca Moesta, 1997), ch. 15
 ```
 
-### 216. DURO, JACEN VS WARMASTER TSAVONG LAH: unable to sense the Yuuzhan Vong in the Force, Jacen still feels where the warmaster will strike "microseconds ahead," parries his venom-spitting baton, then commits utterly to the Force and whips the room into a vortex of lockers, chairs and Leia's desk that knocks Tsavong Lah out of the window.
+### 217. DURO, JACEN VS WARMASTER TSAVONG LAH: unable to sense the Yuuzhan Vong in the Force, Jacen still feels where the warmaster will strike "microseconds ahead," parries his venom-spitting baton, then commits utterly to the Force and whips the room into a vortex of lockers, chairs and Leia's desk that knocks Tsavong Lah out of the window.
 
 ```
 This one’s armor was different. Those scales grew out of his body, giving no clue where its weak spots might lie. Jacen still couldn’t sense him in the Force, but now he felt a rippling of anticipation. He would know, microseconds ahead of the moment, where and when the muscular alien would attack.
@@ -2541,7 +2554,7 @@ He felt the Force bring the desk back around. He heard a satisfying crunch of ar
 — Balance Point (Kathy Tyers, 2000), ch. 27
 ```
 
-### 217. On Myrkr, Jacen hunts down the voxyn queen across the dovin basal comb, takes off two of her legs, survives her claw and barb while poisoned by her blood fumes, and finishes her with a Force push into a dovin basal singularity.
+### 218. On Myrkr, Jacen hunts down the voxyn queen across the dovin basal comb, takes off two of her legs, survives her claw and barb while poisoned by her blood fumes, and finishes her with a Force push into a dovin basal singularity.
 
 ```
 The voxyn stopped at the next cell convergence, where the walls met to form a sort of island, then whirled. Jacen leapt across the dovin basal and landed at her rear flank, tottering and activating his lightsaber. The voxyn screeched, but could not bring her head around far enough to assault Jacen. He danced forward and brought his blade down behind her forward leg.
@@ -2561,7 +2574,7 @@ Too weak to kick, Jacen pushed with the Force. Another leg came free. The queen,
 — Star by Star (Troy Denning, 2001), ch. 54
 ```
 
-### 218. Against Shimrra's slayers, Jacen uses the dovin basal's gravity well to slam one face-first and stab him, leaps free of an amphistaff coil, and dampens the dovin basal with his Vongsense to throw his lightsaber into the last slayer's armpit.
+### 219. Against Shimrra's slayers, Jacen uses the dovin basal's gravity well to slam one face-first and stab him, leaps free of an amphistaff coil, and dampens the dovin basal with his Vongsense to throw his lightsaber into the last slayer's armpit.
 
 ```
 Jacen took advantage of the gravitic anomaly now, as one of the slayers lunged for him. He leapt high into the air, and the warrior flew under his feet, only to be pulled to the floor facefirst, so that by the time Jacen had twisted in the air and landed he was able to drive his blade into the small of the warrior’s back, almost pinioning him to the floor. The other two immediately rushed him from behind. Unleashing his amphistaff, one warrior managed to wind the weapon around Jacen’s legs, while the other swung his amphistaff at Jacen’s head. Ducking the swing, Jacen leapt again, taking the attenuated amphistaff with him. Yanked from the warrior’s grasp, the weapon unwound and dropped before it could strike.
@@ -2575,7 +2588,7 @@ Still twisting and writhing away from the snapping amphistaff, Jacen used his Vo
 — The Unifying Force (James Luceno, 2003), ch. 40
 ```
 
-### 219. JACEN VS ONIMI: Jacen becomes a pure conduit of the Force, neutralizes Onimi's poisons and casts them out, and draws the Supreme Overlord into "infinite smallness" until he is pinned to the bulkhead.
+### 220. JACEN VS ONIMI: Jacen becomes a pure conduit of the Force, neutralizes Onimi's poisons and casts them out, and draws the Supreme Overlord into "infinite smallness" until he is pinned to the bulkhead.
 
 ```
 He flew at Jacen with hands upraised and mouth ajar. Jacen lifted his hands in defense and he and Onimi met with blinding discharges of electrical energy that entangled both of them in a flashing web. Their hands interlocked, they whirled from one side of the bridge to the other in a kind of mad pirouette, caroming off the coarse bulkheads and smooth instrumentation. Jaina sent her twin what reinforcement she could summon, but he told her to conserve her strength.
@@ -2605,7 +2618,7 @@ Across the bridge, Shimrra’s Shamed familiar, Onimi, was pinned to the coarse 
 — The Unifying Force (James Luceno, 2003), ch. 42
 ```
 
-### 220. Ambushed by the Jedi Knight Nelani Dinn, Jacen cuts her down without looking and without putting any strength behind the blow.
+### 221. Ambushed by the Jedi Knight Nelani Dinn, Jacen cuts her down without looking and without putting any strength behind the blow.
 
 ```
 Not looking in her direction, he twisted aside and swatted at her with his lightsaber. He put no strength behind his blow; he didn’t need to. The blade caught her on the inner thigh, slicing through cloth and skin and muscle. She shrieked, flew past him, hit the stony surface of this cavern floor, and rolled, in the curious way that low gravity mandated, to a halt.
@@ -2613,7 +2626,7 @@ Not looking in her direction, he twisted aside and swatted at her with his light
 — Betrayal (Aaron Allston, 2006), ch. 33
 ```
 
-### 221. JACEN VS AURRA SING: kicked repeatedly and half-blinded, Jacen uses the pain, Force-shoves Sing across the stateroom, then cartwheels over her blade and dislocates her knee; Allana's sedative ends the fight.
+### 222. JACEN VS AURRA SING: kicked repeatedly and half-blinded, Jacen uses the pain, Force-shoves Sing across the stateroom, then cartwheels over her blade and dislocates her knee; Allana's sedative ends the fight.
 
 ```
 Sing kicked again, this time catching him near a kidney. A wave of fiery anguish rolled through his body, stealing his breath, so hot he could not even scream. The pain would have paralyzed anyone else, left him on the floor praying to die before he drew his next breath.
@@ -2637,7 +2650,7 @@ The joint dislocated with a sickening pop, and Sing collapsed to the floor shrie
 — Tempest (Troy Denning, 2006), ch. 19
 ```
 
-### 222. Hunting Mara over Hapes in his StealthX, Jacen dodges Lumiya's sphere projectile by Force sense, has Lumiya crack Mara's canopy, then turns and fires all eight proton torpedoes at Lumiya.
+### 223. Hunting Mara over Hapes in his StealthX, Jacen dodges Lumiya's sphere projectile by Force sense, has Lumiya crack Mara's canopy, then turns and fires all eight proton torpedoes at Lumiya.
 
 ```
 He didn’t have to explain it to her. Suddenly he could see an orange ball accelerating toward him on a collision course and he flipped ninety degrees just in time for it to pass under him. The next thing he heard was Lumiya’s voice saying, “Hull breach, she’s venting atmosphere.”
@@ -2653,7 +2666,7 @@ As Jacen came around again in a loop, orienting by feeling Mara in the Force onc
 — Sacrifice (Karen Traviss, 2007), ch. 19
 ```
 
-### 223. JACEN VS MARA JADE SKYWALKER, KAVAN: crushed and bleeding under the rubble Mara brought down on him, Jacen deflects her blaster bolt with a last surge of the Force and blows the debris off himself "like a detonation," knocking her flat. In the brawl that follows he wins with an illusion of Ben's face and a poison dart.
+### 224. JACEN VS MARA JADE SKYWALKER, KAVAN: crushed and bleeding under the rubble Mara brought down on him, Jacen deflects her blaster bolt with a last surge of the Force and blows the debris off himself "like a detonation," knocking her flat. In the brawl that follows he wins with an illusion of Ben's face and a poison dart.
 
 ```
 He deflected the energy bolt with one last surge of the Force and sent the rubble erupting off his crushed and bleeding body like a detonation. Bricks hammered the walls and rained fragments, knocking Mara flat like a bomb blast. She made an animal noise that was more anger than pain and flailed for a moment as she tried to get up.
@@ -2679,7 +2692,7 @@ It gave him the edge for that fraction of a moment. It was long enough to ram th
 — Sacrifice (Karen Traviss, 2007), ch. 21
 ```
 
-### 224. LUKE VS CAEDUS, EMBRACE OF PAIN CHAMBER: Caedus feeds on a lightsaber wound to his kidney, pins Luke to a wall with a Force-hurled bed of thorns, pops Luke's knee, drops a ceiling fixture on him and nearly garrotes him; to Luke's elbow he is "like hitting a permacrete wall."
+### 225. LUKE VS CAEDUS, EMBRACE OF PAIN CHAMBER: Caedus feeds on a lightsaber wound to his kidney, pins Luke to a wall with a Force-hurled bed of thorns, pops Luke's knee, drops a ceiling fixture on him and nearly garrotes him; to Luke's elbow he is "like hitting a permacrete wall."
 
 ```
 The tip sank a few centimeters, drawing a pained hiss as it touched a kidney, then Jacen’s blade made contact and knocked it aside. Even that small wound would have left most humans paralyzed with agony. But Jacen thrived on pain, fed on it to make himself stronger and faster. He simply completed his pivot and landed a rib-crunching round-house.
@@ -2719,7 +2732,7 @@ Luke slammed an elbow into Jacen’s ribs, but it was like hitting a permacrete 
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 225. Flying his StealthX against Jaina, Caedus anticipates "every shot before she took it," slipping her fire so that her bolts hit Luke instead.
+### 226. Flying his StealthX against Jaina, Caedus anticipates "every shot before she took it," slipping her fire so that her bolts hit Luke instead.
 
 ```
 Jaina locked her sights on Jacen and fired. He anticipated and slipped in the opposite direction, and one of her bolts lit up Luke’s rear shields.
@@ -2733,7 +2746,7 @@ She pressed her triggers. Again, Jacen slipped her fire, and again the bolts onl
 — Inferno (Troy Denning, 2007), ch. 17
 ```
 
-### 226. CAEDUS VS KYLE KATARN'S STRIKE TEAM (Katarn, Valin Horn, Kolir Hu'lya, Mithric), SENATE PLAZA: still not recovered from his duel with Luke, Caedus turns back the Jedi's telekinetically rolled gas grenades, blocks Katarn while hurling Hu'lya into Mithric, drops Valin with a kick, swats Katarn's thrown lightsaber away negligently, pulls a GAG speeder down onto Katarn and impales him, then catches a blow and a blaster bolt with one movement to kill Mithric and beheads him.
+### 227. CAEDUS VS KYLE KATARN'S STRIKE TEAM (Katarn, Valin Horn, Kolir Hu'lya, Mithric), SENATE PLAZA: still not recovered from his duel with Luke, Caedus turns back the Jedi's telekinetically rolled gas grenades, blocks Katarn while hurling Hu'lya into Mithric, drops Valin with a kick, swats Katarn's thrown lightsaber away negligently, pulls a GAG speeder down onto Katarn and impales him, then catches a blow and a blaster bolt with one movement to kill Mithric and beheads him.
 
 ```
 “Not to a traitor.” Caedus looked at the other three as their Force-augmented sprints came to an end, leaving them in a semicircle before him. Three Jedi Knights: the younger Horn, the Falleen Mithric, the Bothan Hu’lya. He resisted the urge to snort. Separately or collectively, these Jedi Knights were no match for him.
@@ -2793,7 +2806,7 @@ Mithric’s head fell from his shoulders. His body toppled down half a second la
 — Fury (Aaron Allston, 2007), ch. 11
 ```
 
-### 227. Facing Luke, Ben and Saba on his bridge, Caedus telekinetically slides Saba into a pit beside a droid's detonating grenade; the blast hurls her into a wall five meters up.
+### 228. Facing Luke, Ben and Saba on his bridge, Caedus telekinetically slides Saba into a pit beside a droid's detonating grenade; the blast hurls her into a wall five meters up.
 
 ```
 In the moment he had before those detonators went off, Caedus acted to whittle down the enemy numbers as they had been whittling down his. He gestured, exerting himself telekinetically, and Saba Sebatyne slipped laterally into the starboard pit, almost atop the doomed droid there.
@@ -2805,7 +2818,7 @@ Luke and Ben looked Caedus’s way. He smiled at them and shrugged. “One down.
 — Fury (Aaron Allston, 2007), ch. 36
 ```
 
-### 228. CAEDUS VS THE MANDALORIAN STRIKE ON NICKEL ONE: Caedus hurls Mirta Gev into a ceiling corner, finds that his blade only furrows Roegr's beskar, then shatters the breastplate with a light tap of his pommel. Jaina wonders if he has mastered shatterpoint.
+### 229. CAEDUS VS THE MANDALORIAN STRIKE ON NICKEL ONE: Caedus hurls Mirta Gev into a ceiling corner, finds that his blade only furrows Roegr's beskar, then shatters the breastplate with a light tap of his pommel. Jaina wonders if he has mastered shatterpoint.
 
 ```
 Caedus came out of a spin looking in Mirta’s direction. She sailed meters into the air, flipping upside down and crashing into a ceiling corner on the far side of the chamber, then dropping four meters to the floor. She landed on the crown of her helmet in a metallic crash audible even above the battle and folded in two, and she did not move again.
@@ -2829,7 +2842,7 @@ Jaina was too disciplined to let her shock distract her, but she was shocked. Be
 — Invincible (Troy Denning, 2008), ch. 8
 ```
 
-### 229. Shot in the shoulder by Jaina's sniper rifle, Caedus answers with Force lightning through her firing aperture, fights on one-handed deflecting the Mandalorians' fire, Force-chokes a Mandalorian at range, and keeps Vatok between himself and Jaina, anticipating "every adjustment she made."
+### 230. Shot in the shoulder by Jaina's sniper rifle, Caedus answers with Force lightning through her firing aperture, fights on one-handed deflecting the Mandalorians' fire, Force-chokes a Mandalorian at range, and keeps Vatok between himself and Jaina, anticipating "every adjustment she made."
 
 ```
 She had her answer an instant later when a fork of Force lightning danced through the aperture and shattered the lens of the holoprojector. Jaina slipped a fresh magazine into her QuietSnipe and continued to roll until she reached the control board where the projectionist had been standing.
@@ -2855,7 +2868,7 @@ Nor could Jaina do anything to help. Her brother seemed to anticipate every adju
 — Invincible (Troy Denning, 2008), ch. 8
 ```
 
-### 230. NICKEL ONE, CAEDUS VS "LUKE" AND JAINA: against an opponent he sees as Luke (Caedus later recalls that "they had both been there"), Caedus is driven through the seats by a Force blast, recovers, and pins his opponent under a dead Mandalorian with the Force. After losing his arm, he blasts Jaina into a wall at point-blank range with Force lightning, breaking her ribs.
+### 231. NICKEL ONE, CAEDUS VS "LUKE" AND JAINA: against an opponent he sees as Luke (Caedus later recalls that "they had both been there"), Caedus is driven through the seats by a Force blast, recovers, and pins his opponent under a dead Mandalorian with the Force. After losing his arm, he blasts Jaina into a wall at point-blank range with Force lightning, breaking her ribs.
 
 ```
 But Luke did something even more unexpected, removing one hand from his lightsaber and pushing the palm forward. An instant later, the unseen hammer of a Force blast caught Caedus in the sternum and drove him not over, but through the seats behind him.
@@ -2879,7 +2892,7 @@ A full second later, she slammed into a durasteel wall and felt a terrible poppi
 — Invincible (Troy Denning, 2008), ch. 9
 ```
 
-### 231. FINAL DUEL, JAINA VS CAEDUS: run through the gut at the start, Caedus still Force-blasts Jaina across the pit, drives her back with Force lightning, shatters her cheekbone with his pommel, breaks her forearm with a Force-driven snap-kick, and with only a glance pulls her toward the fusion incinerator so hard that it takes all her Force strength to save herself.
+### 232. FINAL DUEL, JAINA VS CAEDUS: run through the gut at the start, Caedus still Force-blasts Jaina across the pit, drives her back with Force lightning, shatters her cheekbone with his pommel, breaks her forearm with a Force-driven snap-kick, and with only a glance pulls her toward the fusion incinerator so hard that it takes all her Force strength to save herself.
 
 ```
 The invisible fist of a Force blast slammed Jaina in the chest and sent her flying back, her breath groaning from her lungs and her lightsaber hissing free of Caedus’s stomach. From the fight on Nickel One, she had learned the dangers of letting her head snap back on impact. She tucked her chin, then fought to hold it there as she struck the durasteel wall on the far side of the corridor.
@@ -2919,7 +2932,7 @@ Ankle met arm with a sharp crack. What looked like an extra joint appeared in th
 
 ## Statements from Other Characters
 
-### 232. Luke tells Jacen that he knew not to believe Brakiss because he thought for himself.
+### 233. Luke tells Jacen that he knew not to believe Brakiss because he thought for himself.
 
 ```
 “Brakiss passes the teachings of the dark side on to his students. You heard him teach. But a teacher is not always right. And because you thought for yourself, you knew not to believe him.”
@@ -2927,7 +2940,7 @@ Ankle met arm with a sharp crack. What looked like an extra joint appeared in th
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 22
 ```
 
-### 233. Jacen tells Zekk the gang's promises are lies and urges him to escape.
+### 234. Jacen tells Zekk the gang's promises are lies and urges him to escape.
 
 ```
 “Oh, Zekk,” Jacen said, shaking his head, ‘those are all lies designed to lure you into dropping your guard-“
@@ -2937,7 +2950,7 @@ Ankle met arm with a sharp crack. What looked like an extra joint appeared in th
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
-### 234. Jacen works out that Zekk's knack for salvage was Jedi potential nobody noticed.
+### 235. Jacen works out that Zekk's knack for salvage was Jedi potential nobody noticed.
 
 ```
 “Apparently he has the potential,” Jacen said. “Remember, Uncle Luke found lots of candidates who never knew they could use the Force. Zekk had a knack for finding things to salvage, even in places where other people have scavenged already We just never noticed, never put the pieces together.”
@@ -2945,7 +2958,7 @@ Ankle met arm with a sharp crack. What looked like an extra joint appeared in th
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 235. Jacen: 'There was nothing between us and those explosives except for the Force and our lightsabers.'
+### 236. Jacen: 'There was nothing between us and those explosives except for the Force and our lightsabers.'
 
 ```
 There was nothing between us and those explosives except for the Force and our lightsabers.”
@@ -2953,7 +2966,7 @@ There was nothing between us and those explosives except for the Force and our l
 — Return to Ord Mantell (Kevin Anderson and Rebecca Moesta, 1998), sec. 79
 ```
 
-### 236. Jaina: Jacen has 'fought some of the most ferocious creatures alive with his lightsaber... Including Tenel Ka.'
+### 237. Jaina: Jacen has 'fought some of the most ferocious creatures alive with his lightsaber... Including Tenel Ka.'
 
 ```
 Jaina looked up and flashed him one of the lopsided grins for which the Solos were so famous. "Zekk assured me he was just going to coach. And I don't think we need to worry about my brother. He's fought some of the most ferocious creatures alive with his lightsaber." She chuckled. "Including Tenel Ka."
@@ -2963,7 +2976,7 @@ Jaina looked up and flashed him one of the lopsided grins for which the Solos we
 — Young Jedi Knights 13: Trouble on Cloud City (Kevin Anderson and Rebecca Moesta, 1998), ch. 1, p.4
 ```
 
-### 237. Anja: 'Don't tell me Jedi Knights can fly now?' Jacen: 'never underestimate a Jedi.'
+### 238. Anja: 'Don't tell me Jedi Knights can fly now?' Jacen: 'never underestimate a Jedi.'
 
 ```
 Anja came up to Jacen, trembling. He could see the relief in her eyes, which she tried to cover up with a bland imperturbable smile. "Now, this is one story I've got to hear," she said. "Don't tell me Jedi Knights can fly now?"
@@ -2975,7 +2988,7 @@ Anja seemed unaccountably disturbed. She crossed her arms over her chest and gav
 — Young Jedi Knights 13: Trouble on Cloud City (Kevin Anderson and Rebecca Moesta, 1998), ch. 16, p.135–136
 ```
 
-### 238. Raynar (Unu): "even we are not strong enough to control Jacen," who has moved beyond anyone's control; Jaina has felt him "growing steadily stronger in the Force" during his five-year journey.
+### 239. Raynar (Unu): "even we are not strong enough to control Jacen," who has moved beyond anyone's control; Jaina has felt him "growing steadily stronger in the Force" during his five-year journey.
 
 ```
 “Perhaps, but even we are not strong enough to control Jacen,” Raynar said. “He has moved beyond our control—or anyone else’s. You know that yourself.”
@@ -2985,7 +2998,7 @@ Jaina could not argue. During Jacen’s five-year journey, she had felt him grow
 — The Joiner King (Troy Denning, 2005), ch. 31
 ```
 
-### 239. Mara, after Jacen reaches the Gorog heart-chamber before the Masters: "Jacen was, indeed, a very good Jedi."
+### 240. Mara, after Jacen reaches the Gorog heart-chamber before the Masters: "Jacen was, indeed, a very good Jedi."
 
 ```
 The happy swell of pride that suddenly filled her Force-bond with Luke told Mara that her husband had reached the same conclusion. While the two of them had been fretting over Jacen’s trustworthiness and nearly blowing the mission, Jacen had been doing what needed to be done—and preventing the coup. He was already in the heart-chamber.
@@ -2995,7 +3008,7 @@ Jacen was, indeed, a very good Jedi.
 — The Swarm War (Troy Denning, 2006), ch. 11
 ```
 
-### 240. Luke warns Jacen that changing a vision is dangerous "even for a Jedi of your talent and power."
+### 241. Luke warns Jacen that changing a vision is dangerous "even for a Jedi of your talent and power."
 
 ```
 “I see.” Luke fell quiet, wondering what he would have done, had he been in Jacen’s place and experienced such a terrifying vision. “I understand why you felt you had to act, Jacen. But trying to change what you see in a vision is dangerous—even for a Jedi of your talent and power. What you witnessed was only one of many possible futures.”
@@ -3003,7 +3016,7 @@ Jacen was, indeed, a very good Jedi.
 — The Swarm War (Troy Denning, 2006), ch. 1
 ```
 
-### 241. Mara tells Luke she feels Jacen is developing powers way beyond hers.
+### 242. Mara tells Luke she feels Jacen is developing powers way beyond hers.
 
 ```
 “No, I feel that Jacen’s developing powers way beyond mine, and that he’s good for Ben, and that he would never harm him.” She stepped back from Luke and he sensed she was shutting him out now, perhaps to stop the conversation from degenerating into an argument that would have no winners. “That makes him a good influence. Without Jacen, we’d have a teenage son with strong Force powers who won’t listen to us. Now that’s really dangerous.”
@@ -3011,7 +3024,7 @@ Jacen was, indeed, a very good Jedi.
 — Bloodlines (Karen Traviss, 2006), ch. 2
 ```
 
-### 242. Ben's Force senses are "a fraction of Jacen's."
+### 243. Ben's Force senses are "a fraction of Jacen's."
 
 ```
 Ben’s Force-senses were a fraction of Jacen’s, trained in not much more than physical skills and the beginnings of true meditation. He closed his eyes. He felt the vague tingling at the back of his throat, the hint of something dangerous but far away. The slight breeze across the plaza swept scents of foliage with it. The protest continued, now a little noisier, but still peaceful.
@@ -3019,7 +3032,7 @@ Ben’s Force-senses were a fraction of Jacen’s, trained in not much more than
 — Bloodlines (Karen Traviss, 2006), ch. 1
 ```
 
-### 243. Luke: Jacen's Force skills are "getting stronger and more subtle every day"; channeling the Force through another is new to Luke, and Jacen is "the only other Jedi Luke knew who could defeat Lomi Plo's illusion of invisibility."
+### 244. Luke: Jacen's Force skills are "getting stronger and more subtle every day"; channeling the Force through another is new to Luke, and Jacen is "the only other Jedi Luke knew who could defeat Lomi Plo's illusion of invisibility."
 
 ```
 It crossed Luke’s mind that Jacen should have been able to detect his and Mara’s presence in the Force, but it was an unkind thought. Perhaps part of shutting down his own presence was becoming insensitive to others. Luke realized Jacen’s Force skills seemed to be getting stronger and more subtle every day, and he felt uneasy.
@@ -3035,7 +3048,7 @@ Jacen was the only other Jedi Luke knew who could defeat Lomi Plo’s illusion o
 — Bloodlines (Karen Traviss, 2006), ch. 7
 ```
 
-### 244. A Jedi Council member presses for Jacen's promotion: "It's time he became a Master. We all know what he can do."
+### 245. A Jedi Council member presses for Jacen's promotion: "It's time he became a Master. We all know what he can do."
 
 ```
 “It’s time he became a Master. We all know what he can do.”
@@ -3043,7 +3056,7 @@ Jacen was the only other Jedi Luke knew who could defeat Lomi Plo’s illusion o
 — Bloodlines (Karen Traviss, 2006), ch. 12
 ```
 
-### 245. Mara: if Jacen has been making a fool of her, he won't be easy to handle, and "It'll take both of us."
+### 246. Mara: if Jacen has been making a fool of her, he won't be easy to handle, and "It'll take both of us."
 
 ```
 “You know what I mean, Skywalker,” she replied. “If you’re right—if Jacen has been making a fool of me—he won’t be easy to handle. It’ll take both of us.”
@@ -3051,7 +3064,7 @@ Jacen was the only other Jedi Luke knew who could defeat Lomi Plo’s illusion o
 — Tempest (Troy Denning, 2006), ch. 16
 ```
 
-### 246. Mara: "Jacen is too powerful already."
+### 247. Mara: "Jacen is too powerful already."
 
 ```
 “You’re right,” she said. “But we’d better work fast. Jacen is too powerful already, and if Lumiya has her hooks in him, it won’t be long before he reaches the point of no return. We can’t let that happen, Luke. We can’t let him drag the galaxy down with him.”
@@ -3059,7 +3072,7 @@ Jacen was the only other Jedi Luke knew who could defeat Lomi Plo’s illusion o
 — Tempest (Troy Denning, 2006), ch. 21
 ```
 
-### 247. Alema Rar tells Jacen that he has already proved too powerful and smart for her and Lumiya to use their powers on him.
+### 248. Alema Rar tells Jacen that he has already proved too powerful and smart for her and Lumiya to use their powers on him.
 
 ```
 “How could we forget?” Alema turned to him, the hatred in her eyes now open and honest. “We would never try to use our powers on you, Jacen. You have already proved that you are too powerful and smart for us.”
@@ -3067,7 +3080,7 @@ Jacen was the only other Jedi Luke knew who could defeat Lomi Plo’s illusion o
 — Tempest (Troy Denning, 2006), ch. 23
 ```
 
-### 248. Alema has wanted to take Jacen since he came back "so mysterious and powerful" from his five-year journey to study the Force.
+### 249. Alema has wanted to take Jacen since he came back "so mysterious and powerful" from his five-year journey to study the Force.
 
 ```
 And the first thing Alema wanted to take was Jacen, who was moving along the pedwalk toward the corner of an intersecting skylane. She had wanted to take him for a long time, since the day he had returned so mysterious and powerful from his five-year sojourn to study the Force. And now she would have him—perhaps not in the way she had once desired, but she would have him.
@@ -3075,7 +3088,7 @@ And the first thing Alema wanted to take was Jacen, who was moving along the ped
 — Tempest (Troy Denning, 2006), prologue
 ```
 
-### 249. Alema knows she "could not best Jacen Solo in a straight duel," and that she lacks the power to kill him with one attack.
+### 250. Alema knows she "could not best Jacen Solo in a straight duel," and that she lacks the power to kill him with one attack.
 
 ```
 But which way had Jacen gone—into the joy cave, or deeper into the building? Searching for him in the Force would do no good—indeed, would probably prove disastrous. Even if he wasn’t concealing his own presence, he would feel her looking for him, and Alema could not best Jacen Solo in a straight duel—not with one half-useless arm and one clumsy half foot.
@@ -3089,7 +3102,7 @@ Though Alema knew she lacked the power to kill Jacen with one attack—and that 
 — Tempest (Troy Denning, 2006), prologue
 ```
 
-### 250. Lumiya: Jacen has the potential to succeed as Sith where she and Vergere could not.
+### 251. Lumiya: Jacen has the potential to succeed as Sith where she and Vergere could not.
 
 ```
 “I know the theory,” Jacen said. “The Force can be tapped only by living beings, so people with largely cybernetic bodies can’t use it to its full potential. But, frankly, your Force powers don’t seem all that limited.”
@@ -3099,7 +3112,7 @@ Though Alema knew she lacked the power to kill Jacen with one attack—and that 
 — Tempest (Troy Denning, 2006), ch. 11
 ```
 
-### 251. Chief Omas: Jacen "possesses skills and power that not even most confirmed Masters can match." Mara answers that power is not the criterion.
+### 252. Chief Omas: Jacen "possesses skills and power that not even most confirmed Masters can match." Mara answers that power is not the criterion.
 
 ```
 “And,” Omas continued, “he has demonstrated that he possesses skills and power that not even most confirmed Masters can match.”
@@ -3109,7 +3122,7 @@ Mara sighed and finally leaned in to join the conversation. “It’s not a matt
 — Exile (Aaron Allston, 2007), ch. 3
 ```
 
-### 252. Lumiya warns, "Luke can still take you in a lightsaber fight." Jacen: "I'm already a few steps ahead of him."
+### 253. Lumiya warns, "Luke can still take you in a lightsaber fight." Jacen: "I'm already a few steps ahead of him."
 
 ```
 “Think laterally,” Lumiya said gently. “Luke can still take you in a lightsaber fight.”
@@ -3119,7 +3132,7 @@ Mara sighed and finally leaned in to join the conversation. “It’s not a matt
 — Sacrifice (Karen Traviss, 2007), ch. 7
 ```
 
-### 253. Kashyyyk: Caedus has understood Shyriiwook since he was five.
+### 254. Kashyyyk: Caedus has understood Shyriiwook since he was five.
 
 ```
 “It’s not necessary to translate. I’ve understood Shyriiwook since I was five.” Caedus leaned over her shoulder and keyed the mike. “We’re here for Han and Leia Solo and the Jedi deserters. If you’re having trouble with the Jedi deserters, we’re prepared to assist. That’s why we brought a fleet.”
@@ -3127,7 +3140,7 @@ Mara sighed and finally leaned in to join the conversation. “It’s not a matt
 — Inferno (Troy Denning, 2007), ch. 15
 ```
 
-### 254. Luke at Mara's funeral: Jacen is "swaddled in a darkness deeper than any he had felt in recent memory—perhaps since the days of Darth Vader and the Emperor."
+### 255. Luke at Mara's funeral: Jacen is "swaddled in a darkness deeper than any he had felt in recent memory—perhaps since the days of Darth Vader and the Emperor."
 
 ```
 Jacen turned and strode down the aisle, driving his boot heels into the sturdimoss and using the Force to gently move people aside. Luke watched him go in equal parts hope and dread. If anything remained of the gentle-hearted boy he remembered from the Jedi academy on Yavin 4, he could no longer find it. Jacen was swaddled in a darkness deeper than any he had felt in recent memory—perhaps since the days of Darth Vader and the Emperor—and it was not at all clear that he could be drawn back into the light. Yet Luke had to try—if not for Jacen, then for Leia and even the Alliance … but most of all for himself. After the mistake he had made with Lumiya—after his erroneous vengeance killing of her—he could not bear the thought of making such an error with his own nephew. If there was still a way to reach Jacen, he had to try.
@@ -3135,7 +3148,7 @@ Jacen turned and strode down the aisle, driving his boot heels into the sturdimo
 — Inferno (Troy Denning, 2007), ch. 3
 ```
 
-### 255. Caedus to Ben: "it will take decades to develop the power to confront me openly."
+### 256. Caedus to Ben: "it will take decades to develop the power to confront me openly."
 
 ```
 “Perhaps, given time,” Jacen allowed. “But it will take decades to develop the power to confront me openly. And I hope you understand the futility of trying to take me by surprise. Surely, your circumstances have made that painfully clear.”
@@ -3143,7 +3156,7 @@ Jacen turned and strode down the aisle, driving his boot heels into the sturdimo
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 256. In Luke's view on the Anakin Solo bridge, "Jacen was Luke's match."
+### 257. In Luke's view on the Anakin Solo bridge, "Jacen was Luke's match."
 
 ```
 Three YVH droids were left. And Jacen. Against Luke and Ben. Jacen was Luke’s match, which meant Ben had to cope with three combat droids. The odds weren’t good.
@@ -3151,7 +3164,7 @@ Three YVH droids were left. And Jacen. Against Luke and Ben. Jacen was Luke’s 
 — Fury (Aaron Allston, 2007), ch. 36
 ```
 
-### 257. Caedus judges he could beat Leia or Ben without trouble and Saba with difficulty, but Saba plus Luke would be impossible odds.
+### 258. Caedus judges he could beat Leia or Ben without trouble and Saba with difficulty, but Saba plus Luke would be impossible odds.
 
 ```
 They had to. Jacen could defeat his mother or Ben without trouble; Saba, with difficulty. Saba plus Luke would be impossible odds. One of the Masters had to fall if Caedus was to survive this day.
@@ -3159,7 +3172,7 @@ They had to. Jacen could defeat his mother or Ben without trouble; Saba, with di
 — Fury (Aaron Allston, 2007), ch. 33
 ```
 
-### 258. Jaina believes she has as much potential power as her twin, but he has had training she hasn't; Jag Fel thinks Alema was about Jag's match, and Jacen "far more dangerous."
+### 259. Jaina believes she has as much potential power as her twin, but he has had training she hasn't; Jag Fel thinks Alema was about Jag's match, and Jacen "far more dangerous."
 
 ```
 “If it is someone else, I won’t complain. But if it has to be me, I want to be ready. You showed me I wasn’t.” She took a moment to consider her words. “I’m his twin. I have as much power as he does … potentially. But he’s had training I haven’t. I need to counter it with training he hasn’t had. And the sort of ingenuity you showed me.”
@@ -3169,7 +3182,7 @@ He watched her in the deepening shadows. “I’ll give you whatever help I can.
 — Fury (Aaron Allston, 2007), ch. 38
 ```
 
-### 259. Looking back on the Luke duel, Caedus calls it "the most ferocious, most terrible lightsaber duel of his life," with the advantage "held first by Luke, then by Caedus."
+### 260. Looking back on the Luke duel, Caedus calls it "the most ferocious, most terrible lightsaber duel of his life," with the advantage "held first by Luke, then by Caedus."
 
 ```
 And she was almost right. Caedus hurt everywhere. Mere days before, he had waged the most ferocious, most terrible lightsaber duel of his life. In a secret chamber aboard his Star Destroyer, the Anakin Solo, he had been torturing Ben Skywalker to harden the young man’s spirit, to better prepare Ben for life as a Sith. But he had been caught by Ben’s father, Luke Skywalker.
@@ -3181,7 +3194,7 @@ At the end, Caedus had lost a position of advantage—Luke had slipped free of t
 — Fury (Aaron Allston, 2007), ch. 2
 ```
 
-### 260. Luke: Jacen "now commanded Master-level abilities in the Force," though he will never be made a Jedi Master.
+### 261. Luke: Jacen "now commanded Master-level abilities in the Force," though he will never be made a Jedi Master.
 
 ```
 Boarding the Anakin Solo. Finding Jacen torturing—torturing—Luke’s only child, his son Ben. The duel that followed, Luke against the nephew he’d once loved … the nephew who now commanded Master-level abilities in the Force, though he had not been, and never would be, elevated to the rank of Jedi Master.
@@ -3189,7 +3202,7 @@ Boarding the Anakin Solo. Finding Jacen torturing—torturing—Luke’s only ch
 — Fury (Aaron Allston, 2007), ch. 2
 ```
 
-### 261. Corran Horn calls Caedus "the second-most dangerous man" in the galaxy, after Luke.
+### 262. Corran Horn calls Caedus "the second-most dangerous man" in the galaxy, after Luke.
 
 ```
 “You’re no Jedi.” Corran’s voice was harsh. “Your emotions are all over the map. Even an apprentice knows that. So we can’t trust you as a Jedi, we can’t trust you to be a calm, collected operative, and now you’ve left the most dangerous man in the galaxy disappointed in you—” He gestured at Luke. “Plus, you’ve volunteered to go on a mission to capture the second-most dangerous man, when all you had to do to retain everyone’s trust was keep your mouth shut.”
@@ -3197,7 +3210,7 @@ Boarding the Anakin Solo. Finding Jacen torturing—torturing—Luke’s only ch
 — Fury (Aaron Allston, 2007), ch. 4
 ```
 
-### 262. Niathal: if Jacen can breach a planet's shield with his influence, there is probably not much his crew can do to defy him.
+### 263. Niathal: if Jacen can breach a planet's shield with his influence, there is probably not much his crew can do to defy him.
 
 ```
 Niathal was being carried along by events, but the next words that left her mouth were going to seal many fates. Could the Imperial ships even hear Jacen? “All GA vessels, Colonel Solo is relieved of duty.” Poor Captain Nevil; he was in the worst position of all. He’d have to take over the Anakin. She had a sudden cold splash of realization that she should have had before she got on that comm. If Jacen could breach a planet’s shield with his influence, there probably wasn’t much that his crew could do to defy him. She was faced with the real possibility of having to shoot down the Anakin Solo.
@@ -3205,7 +3218,7 @@ Niathal was being carried along by events, but the next words that left her mout
 — Revelation (Karen Traviss, 2008), ch. 14
 ```
 
-### 263. Jaina: she and Jacen are matched in Force strength, but he has training in techniques she does not even understand.
+### 264. Jaina: she and Jacen are matched in Force strength, but he has training in techniques she does not even understand.
 
 ```
 She didn’t react. “Jacen and I are matched in terms of Force strengths. But he’s picked up training in Force techniques I don’t even understand, so my best chance of taking him is to use skills he doesn’t have. And I’m pretty sure you never gave him the top ten Mandalorian tips on Jedi busting.”
@@ -3213,7 +3226,7 @@ She didn’t react. “Jacen and I are matched in terms of Force strengths. But 
 — Revelation (Karen Traviss, 2008), ch. 6
 ```
 
-### 264. Luke to Niathal: Caedus is "just very strong," with a battle meditation technique "that gives him a remarkable awareness of the battlefield."
+### 265. Luke to Niathal: Caedus is "just very strong," with a battle meditation technique "that gives him a remarkable awareness of the battlefield."
 
 ```
 Luke looked strangely embarrassed. She wasn’t sure why. “Not really. He’s just very strong, and he has an ability to use a battle meditation technique that gives him a remarkable awareness of the battlefield.”
@@ -3221,7 +3234,7 @@ Luke looked strangely embarrassed. She wasn’t sure why. “Not really. He’s 
 — Revelation (Karen Traviss, 2008), ch. 3
 ```
 
-### 265. Niathal: "a man who has powers like Luke Skywalker, but no rules, no moral limits."
+### 266. Niathal: "a man who has powers like Luke Skywalker, but no rules, no moral limits."
 
 ```
 But what do you do with a Sith? What do you do to restrain a man who has powers like Luke Skywalker, but no rules, no moral limits? It was hard to see him as simply someone who believed in benign dictatorship but whose law-and-order policy sometimes got out of hand. His otherness disturbed her. She could barely remember Palpatine’s reign, just his image everywhere, and Vader at parades on the holonews—occasionally. But she hadn’t known they were Sith. She didn’t even know then that Jedi existed. When she studied history at school, she learned about the Sith—Jedi wars by rote, but now that she could actually put it in a personal context of individuals she worked with, it had taken on a whole new meaning. She was a little alarmed by both sides. The mind influence was the most corrosive realization she’d had; how much of what she’d done was purely of her own volition? Luke could even deceive Jacen into fighting a fleet that wasn’t there.
@@ -3229,7 +3242,7 @@ But what do you do with a Sith? What do you do to restrain a man who has powers 
 — Revelation (Karen Traviss, 2008), ch. 12
 ```
 
-### 266. After Luke's ambush of his StealthX, Caedus decides "Luke's best shot wasn't good enough."
+### 267. After Luke's ambush of his StealthX, Caedus decides "Luke's best shot wasn't good enough."
 
 ```
 The attack on his StealthX—that was the best Luke and his wingmate could do, too. They couldn’t stop him or grab him, even with chunks of his fighter missing. And they didn’t have what it took to kill him, militarily or emotionally.
@@ -3239,7 +3252,7 @@ Luke was the greatest Jedi Master, and he’d just exposed the absolute limits o
 — Revelation (Karen Traviss, 2008), ch. 13
 ```
 
-### 267. Jaina: Luke was the one swordsman Caedus did not dare fight one-armed; Caedus's own memory of Inferno is that he started with a kidney wound and two good arms and "barely managed to survive."
+### 268. Jaina: Luke was the one swordsman Caedus did not dare fight one-armed; Caedus's own memory of Inferno is that he started with a kidney wound and two good arms and "barely managed to survive."
 
 ```
 All that mattered was that Luke was here, somehow, and that he was the one swordsman in the galaxy whom Caedus did not dare fight one-armed. Even as Luke leapt forward weaving a basket of lightsaber slashes, Caedus sprang back out of the projection booth, launching himself into a high Force flip designed to put as much distance between himself and his attacker as possible.
@@ -3253,7 +3266,7 @@ They started to drop, trading a trio of lightning-fast blows that left Caedus’
 — Invincible (Troy Denning, 2008), ch. 9
 ```
 
-### 268. Watching her brother destroy beskar with a tap, Jaina grows "more frightened than ever by the magnitude of her brother's powers."
+### 269. Watching her brother destroy beskar with a tap, Jaina grows "more frightened than ever by the magnitude of her brother's powers."
 
 ```
 Growing more frightened than ever by the magnitude of her brother’s powers—and therefore even more resolved to stop him—Jaina set her front sight on Caedus’s ear and fired a burst of three pellets … just as Caedus flipped his lightsaber around and thumbed the activation switch.
@@ -3261,7 +3274,7 @@ Growing more frightened than ever by the magnitude of her brother’s powers—a
 — Invincible (Troy Denning, 2008), ch. 8
 ```
 
-### 269. Luke foresees that every future that begins with him going after Caedus ends in darkness, though he is the only one sure to stop him. Asked if he fears losing, he says "It's worse. I win."
+### 270. Luke foresees that every future that begins with him going after Caedus ends in darkness, though he is the only one sure to stop him. Asked if he fears losing, he says "It's worse. I win."
 
 ```
 “Exactly.” Luke’s gaze slid away from the table. “Every future that begins with me going after Caedus ends in darkness. I know I’m the only one who can be sure of stopping him, but no matter how I envision it, it always leads to darkness.”
@@ -3275,7 +3288,7 @@ Growing more frightened than ever by the magnitude of her brother’s powers—a
 — Invincible (Troy Denning, 2008), ch. 5
 ```
 
-### 270. Jaina to Mirta before the final hunt: "He's magnitudes stronger than me in the Force."
+### 271. Jaina to Mirta before the final hunt: "He's magnitudes stronger than me in the Force."
 
 ```
 “That’s not really news, Mirta,” Jaina said. “Maybe not even true. He’s magnitudes stronger than me in the Force. All I’ve got on him is five weeks of Mandalorian commando training.”
@@ -3283,7 +3296,7 @@ Growing more frightened than ever by the magnitude of her brother’s powers—a
 — Invincible (Troy Denning, 2008), ch. 17
 ```
 
-### 271. Two years after his death, Leia reflects that "Jacen had been too powerful to capture and too destructive to leave free," while Raynar (UnuThul) "had not proven too powerful to capture alive."
+### 272. Two years after his death, Leia reflects that "Jacen had been too powerful to capture and too destructive to leave free," while Raynar (UnuThul) "had not proven too powerful to capture alive."
 
 ```
 A sad reminder of the price young Jedi too often paid for their service to the galaxy, Raynar Thul had gone missing on the same strike mission that had claimed the life of the Solos’ youngest son, Anakin. Years later, Raynar had reappeared as UnuThul, the badly disfigured, insane Joiner who was leading the Killik Colony’s expansion into the Chiss territories. Fortunately, Raynar had not proven too powerful to capture alive, and he had been residing in the Asylum Block for more than seven years while Cilghal helped him put his mind back together.
@@ -3299,7 +3312,7 @@ Leia’s relief was bittersweet. As happy as she was to see Raynar leaving his c
 
 ## Author and Guide Statements
 
-### 272. The Complete Star Wars Encyclopedia lists Darth Caedus with Sidious and Lumiya as the users of the rare discipline of Sith battle meditation.
+### 273. The Complete Star Wars Encyclopedia lists Darth Caedus with Sidious and Lumiya as the users of the rare discipline of Sith battle meditation.
 
 ```
 rider, Bastila Shan, and Odan-Urr. Sith battle meditation was a comparatively rare discipline, though Darth Sidious, Lumiya, and Darth Caedus proved capable of it.
@@ -3307,7 +3320,7 @@ rider, Bastila Shan, and Odan-Urr. Sith battle meditation was a comparatively ra
 — The Complete Star Wars Encyclopedia, Vol. I (Stephen J. Sansweet and Pablo Hidalgo, 2008), p. 64
 ```
 
-### 273. Jedi vs. Sith: The Essential Guide to the Force says Jacen was briefly "the most powerful manifestation of the Force on record" in his battle with Onimi.
+### 274. Jedi vs. Sith: The Essential Guide to the Force says Jacen was briefly "the most powerful manifestation of the Force on record" in his battle with Onimi.
 
 ```
 Jacen battled the invaders' Supreme Overlord and was briefly transformed into the most powerful manifestation of the Force on record.
@@ -3317,7 +3330,7 @@ Jacen battled the invaders' Supreme Overlord and was briefly transformed into th
 
 Note: Not checked against the book. Wookieepedia's Darth Caedus article cites the same line and attributes it in-universe to Tionne Solusar.
 
-### 274. Asked who is closer to Luke in power, Caedus or Krayt, Troy Denning answers with a martial-arts comparison.
+### 275. Asked who is closer to Luke in power, Caedus or Krayt, Troy Denning answers with a martial-arts comparison.
 
 ```
 @gabeblake50 That's kind of like asking whether Bruce Lee or Royce Gracie could take Von Damme. ;)
@@ -3325,7 +3338,7 @@ Note: Not checked against the book. Wookieepedia's Darth Caedus article cites th
 — Troy Denning (@TDenningauthor), X, November 22, 2016, 10:21 PM CST, replying to "who is closer to Luke in power, Caedus or Krayt?": https://x.com/TDenningauthor/status/801279472150478848
 ```
 
-### 275. Asked whether Luke would "certainly" have beaten Caedus, Troy Denning says nothing is certain: "even Luke COULD have lost to him."
+### 276. Asked whether Luke would "certainly" have beaten Caedus, Troy Denning says nothing is certain: "even Luke COULD have lost to him."
 
 ```
 @erlk_necro "Certainly?" Nothing is certain -- even Luke COULD have lost to him. (And, remember, it was Jaina who ultimately took Caedus down.)
@@ -3337,7 +3350,7 @@ Note: Not checked against the book. Wookieepedia's Darth Caedus article cites th
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 276. Facing the six-legged monster in the clearing, Jacen knows he has never tried his Force talent with animals on anything that size.
+### 277. Facing the six-legged monster in the clearing, Jacen knows he has never tried his Force talent with animals on anything that size.
 
 ```
 He had used his own talents with the Force to confront many strange animals out in the jungle, but never anything as powerful as this monster, never such a boiling mass of anger and confusion.
@@ -3345,7 +3358,7 @@ He had used his own talents with the Force to confront many strange animals out 
 — Heirs of the Force (Kevin Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 277. Jacen tries to yank Qorl's blaster away with his mind, but Qorl's grip holds.
+### 278. Jacen tries to yank Qorl's blaster away with his mind, but Qorl's grip holds.
 
 ```
 Jacen, seeing their chance slipping away, reached out with his mind and yanked at the weapon with mental brute force.
@@ -3357,7 +3370,7 @@ Jacen, seeing their chance slipping away, reached out with his mind and yanked a
 — Heirs of the Force (Kevin Anderson and Rebecca Moesta, 1995), ch. 11
 ```
 
-### 278. Bound with vines, Jacen lacks the skill and accuracy to untie the thin knots with the Force and wishes he had practiced more delicate exercises.
+### 279. Bound with vines, Jacen lacks the skill and accuracy to untie the thin knots with the Force and wishes he had practiced more delicate exercises.
 
 ```
 Jacen fervently wished he had spent more time practicing delicate and precise Force exercises. He didn’t have the skill or the accuracy to nudge and untie the thin knotted vines with his mind.
@@ -3365,7 +3378,7 @@ Jacen fervently wished he had spent more time practicing delicate and precise Fo
 — Heirs of the Force (Kevin Anderson and Rebecca Moesta, 1995), ch. 16
 ```
 
-### 279. Jacen's calming thoughts meet the rigid wall of brainwashing in Qorl's mind, and he cannot tell whether they had any effect.
+### 280. Jacen's calming thoughts meet the rigid wall of brainwashing in Qorl's mind, and he cannot tell whether they had any effect.
 
 ```
 Jacen desperately tried to send calming thoughts to soothe Qorl, as he so frequently did with his crystal snakes. But it was no use: his mind encountered the rigid wall of brainwashing that had locked Qorl’s thoughts into unchangeable patterns.
@@ -3375,7 +3388,7 @@ The TIE pilot looked away, and his temper seemed to lessen. Jacen couldn’t tel
 — Heirs of the Force (Kevin Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 280. Luke catches Jacen practicing with his lightsaber and tells him he is not ready.
+### 281. Luke catches Jacen practicing with his lightsaber and tells him he is not ready.
 
 ```
 “I’m old enough, and I’m tall enough, and I’ve been practicing in my room with a piece of pipe I got from Jaina - I’m sure I could do it.”
@@ -3385,7 +3398,7 @@ Luke smiled and shook his head. “Ah. Be careful-don’t assume a teacher is al
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 1
 ```
 
-### 281. The raiders stun Jacen, Jaina and Lowie before they can act.
+### 282. The raiders stun Jacen, Jaina and Lowie before they can act.
 
 ```
 Before Jaina could say anything else, bright blue arcs shot toward her and the others, and they were overcome by a wave of unconsciousness.
@@ -3393,7 +3406,7 @@ Before Jaina could say anything else, bright blue arcs shot toward her and the o
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 4
 ```
 
-### 282. Tamith Kai holds Jacen, Jaina and Lowie with a Force leash they cannot break.
+### 283. Tamith Kai holds Jacen, Jaina and Lowie with a Force leash they cannot break.
 
 ```
 When they made no move to comply, she pointed her polished nails at them and twitched her fingers. Suddenly, it felt as if a resilient invisible cord had wrapped around Jaina’s throat. The woman crooked her finger, yanking at Jaina as if she were a pet on a leash.
@@ -3405,7 +3418,7 @@ Jaina lurched as the invisible rope hauled her out of the cell. Lowbacca and Jac
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 6
 ```
 
-### 283. Jacen is tempted by the lightsaber Brakiss offers him.
+### 284. Jacen is tempted by the lightsaber Brakiss offers him.
 
 ```
 Jacen swallowed and did not meet Brakiss’s eyes, afraid to show how he longed to have his own lightsaber. But he didn’t want to have it in this place, under these circumstances.
@@ -3413,7 +3426,7 @@ Jacen swallowed and did not meet Brakiss’s eyes, afraid to show how he longed 
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 13
 ```
 
-### 284. Jacen tries to calm the holographic beast as he would a real animal, and it does not work.
+### 285. Jacen tries to calm the holographic beast as he would a real animal, and it does not work.
 
 ```
 He held up his free hand, palm outward, trying to use the soothing Force techniques that had proven so successful when he’d tamed new animals as his pets.
@@ -3423,7 +3436,7 @@ But the Abyssin didn’t want to be calmed, and stalked forward, swinging its lo
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 13
 ```
 
-### 285. In the blindfold test, Jacen's first attempts to see with the Force fail.
+### 286. In the blindfold test, Jacen's first attempts to see with the Force fail.
 
 ```
 Jacen reached out with the Force to see through the blindfold, to detect where the projectile would come from.
@@ -3435,7 +3448,7 @@ He swung the wooden stick, and this time grazed it with the edge. He felt a surg
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 286. A stone strikes Jacen's elbow and his arm goes numb.
+### 287. A stone strikes Jacen's elbow and his arm goes numb.
 
 ```
 Something hard and rough struck Jacen on the right arm just at the elbow, and the wave of blazing pain took his breath away. His arm went numb, and Jacen shifted the stick to his left hand, realizing that the test had reached its second stage-they were being bombarded with sharp stones.
@@ -3443,7 +3456,7 @@ Something hard and rough struck Jacen on the right arm just at the elbow, and th
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 287. Jacen and Jaina are beaten down by the stones until Jacen is on his knees with his right arm limp.
+### 288. Jacen and Jaina are beaten down by the stones until Jacen is on his knees with his right arm limp.
 
 ```
 But despite his best efforts, he missed again, and this time a rock struck Jacen in the side. The twins were both hurt now, badly bruised and reeling, though they kept fighting as best they could.
@@ -3455,7 +3468,7 @@ Stormtroopers brought out Jacen and Jaina, who stumbled as they walked, obviousl
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 18
 ```
 
-### 288. Jacen wishes he understood machinery as Jaina does.
+### 289. Jacen wishes he understood machinery as Jaina does.
 
 ```
 Jacen wished he understood machinery and electronics like his sister did, but he would do his best.
@@ -3463,7 +3476,7 @@ Jacen wished he understood machinery and electronics like his sister did, but he
 — Shadow Academy (Kevin Anderson and Rebecca Moesta, 1995), ch. 20
 ```
 
-### 289. Jacen is wrong that hawkbats have short memories.
+### 290. Jacen is wrong that hawkbats have short memories.
 
 ```
 “I thought you said hawkbats had shortened memories,” he gasped.
@@ -3473,7 +3486,7 @@ Jacen shrugged and looked sheepish. “Aren’t you glad I was wrong?”
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 3
 ```
 
-### 290. Jacen always gets lost and could never retrace the route through the lower levels.
+### 291. Jacen always gets lost and could never retrace the route through the lower levels.
 
 ```
 Jacen, on the other hand, always got lost.
@@ -3483,7 +3496,7 @@ JACEN HAD GOTTEN distracted so many times during their scavenger hunt for the ha
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 10, 17
 ```
 
-### 291. Tenel Ka stops Jacen from stumbling over rubble he did not see.
+### 292. Tenel Ka stops Jacen from stumbling over rubble he did not see.
 
 ```
 Tenel Ka’s hand rested on the sleeve of his jumpsuit. “I thought you might stumble,” she said, pointing at a small pile of rubble ahead of them, where part of the ceiling had given way. In these old buildings, nothing was repaired unless someone planned to use the space. Floors and ceilings were no exception. If she hadn’t stopped him, Jacen would have fallen on his face.
@@ -3491,7 +3504,7 @@ Tenel Ka’s hand rested on the sleeve of his jumpsuit. “I thought you might s
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 15
 ```
 
-### 292. When a walkway collapses under him, Jacen cannot save himself; Tenel Ka swings him to safety.
+### 293. When a walkway collapses under him, Jacen cannot save himself; Tenel Ka swings him to safety.
 
 ```
 “I’m pretty sure it’s just on the other—” The walkway shuddered beneath him, and his heart gave a lurch as metal support struts sheared away with a shrieking noise. He grabbed the rusty rail.
@@ -3501,7 +3514,7 @@ A whizzing sounded in his ears, followed by a soft clank. He felt himself slide 
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 15
 ```
 
-### 293. Jacen says he cannot locate a specific person with the Force.
+### 294. Jacen says he cannot locate a specific person with the Force.
 
 ```
 Jacen nodded. He didn’t think his powers were strong enough to locate any person specifically—he wasn’t sure if even Uncle Luke could do that—but all he needed was a trickle of thought, an impression, a hunch. He and Tenel Ka were wandering blindly so far, anyway, and the slightest inkling would increase their odds over pure luck.
@@ -3509,7 +3522,7 @@ Jacen nodded. He didn’t think his powers were strong enough to locate any pers
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
-### 294. Without his own lightsaber, Jacen wishes he had one for protection.
+### 295. Without his own lightsaber, Jacen wishes he had one for protection.
 
 ```
 Jacen wished fleetingly that he had his own lightsaber, like the one he had used at the Shadow Academy. He knew the Jedi weapons were dangerous and not for play, but right now he didn’t want to play with one—he wanted it for genuine protection.
@@ -3517,7 +3530,7 @@ Jacen wished fleetingly that he had his own lightsaber, like the one he had used
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
-### 295. Jacen and Tenel Ka are stunned from behind by the Nightsisters' party.
+### 296. Jacen and Tenel Ka are stunned from behind by the Nightsisters' party.
 
 ```
 He clicked on the comlink, hoping to signal Anakin and Threepio, but before he and Tenel Ka could sprint to the door, Vilas pulled out a blaster.
@@ -3527,7 +3540,7 @@ Jacen and Tenel Ka managed to take a few running steps before stun bolts slammed
 — The Lost Ones (Kevin Anderson and Rebecca Moesta, 1995), ch. 17
 ```
 
-### 296. Jacen is stung by an invisible remote and later finds his remote hovering at arm's length.
+### 297. Jacen is stung by an invisible remote and later finds his remote hovering at arm's length.
 
 ```
 Jacen's interest in the conversation vanished when a sizzling bolt shot out from behind and struck him squarely on the backside. He yelped with pain. The tiny wound burned as badly as if a stinger lizard had zapped him. He whirled, slashing with the lightsaber, but by then it was too late.
@@ -3537,7 +3550,7 @@ Tenel Ka switched off her weapon and stood with her hands on her hips, her elbow
 — Lightsabers (Kevin Anderson and Rebecca Moesta, 1996), ch. 4
 ```
 
-### 297. Jacen's blade, pushed with all his strength, passes through Tenel Ka's arm when her lightsaber fails.
+### 298. Jacen's blade, pushed with all his strength, passes through Tenel Ka's arm when her lightsaber fails.
 
 ```
 Intent on the battle, Jacen gave a final, extra push with all his strength.
@@ -3549,7 +3562,7 @@ Suddenly, encountering no resistance as Jacen thrust with his last reserves of s
 — Lightsabers (Kevin Anderson and Rebecca Moesta, 1996), ch. 5
 ```
 
-### 298. Jacen's turmoil keeps him from helping Tenel Ka with the Force.
+### 299. Jacen's turmoil keeps him from helping Tenel Ka with the Force.
 
 ```
 Jacen had known he should try to do the same, to help his friend in any way he could, but his thoughts were in such a turmoil that he was afraid his attempts would only make things worse. Perhaps that was why Master Skywalker hadn't let any of them stay with the warrior girl once they returned to the Great Temple. He had assured the friends that he would call instantly if Tenel Ka asked for them.
@@ -3557,7 +3570,7 @@ Jacen had known he should try to do the same, to help his friend in any way he c
 — Lightsabers (Kevin Anderson and Rebecca Moesta, 1996), ch. 7
 ```
 
-### 299. Jacen: had he been letting the Force direct his movements, he would have sensed something was wrong.
+### 300. Jacen: had he been letting the Force direct his movements, he would have sensed something was wrong.
 
 ```
 With a stubborn lift of his chin, Jacen looked at the stump of her left arm. It made him feel sick, and he wanted to turn away. This was the first time he had really seen her injury. "I... I won't let you take all the blame. If I'd been letting the Force direct my movements, I would have sensed something was wrong." He pointed to where her arm ended so abruptly. "And that would never have happened."
@@ -3565,7 +3578,7 @@ With a stubborn lift of his chin, Jacen looked at the stump of her left arm. It 
 — Lightsabers (Kevin Anderson and Rebecca Moesta, 1996), ch. 13
 ```
 
-### 300. Jacen touches the killer seaweed out of curiosity and is dragged overboard.
+### 301. Jacen touches the killer seaweed out of curiosity and is dragged overboard.
 
 ```
 Since he loved to investigate strange plants and animals, Jacen took the opportunity to lean over the side of the speeder again. He reached down to touch the rubbery, interesting-looking seaweed.
@@ -3579,7 +3592,7 @@ Lowbacca leaped from the nearby pilot station and grabbed his friend's legs just
 — Lightsabers (Kevin Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 301. Jacen cannot calm the seaweed with the Force: it has no brain to find.
+### 302. Jacen cannot calm the seaweed with the Force: it has no brain to find.
 
 ```
 Jacen gripped his emerald-bladed lightsaber, ready. This thing was more than a plant. It was . . . something sentient, something that could respond. He used the Force, hoping to calm it, make it leave them alone. "I can't find its brain," he said. "It seems to be all reflexes. All I can sense is that it's hungry, hungry."
@@ -3587,7 +3600,7 @@ Jacen gripped his emerald-bladed lightsaber, ready. This thing was more than a p
 — Lightsabers (Kevin Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 302. Jacen's shots all miss the TIEs flying evasive loops.
+### 303. Jacen's shots all miss the TIEs flying evasive loops.
 
 ```
 Another wing of TIE fighters swooped down, and Jacen shot wildly. So many Imperial targets, he thought, all of them bristling with lethal weaponry. . . . His quad-laser cannon spat beams of energy, but they all missed as the fighters spun evasive loops in the air.
@@ -3597,7 +3610,7 @@ Another wing of TIE fighters swooped down, and Jacen shot wildly. So many Imperi
 — Darkest Knight (Kevin Anderson and Rebecca Moesta, 1996), ch. 13
 ```
 
-### 303. Jacen stands transfixed under fire.
+### 304. Jacen stands transfixed under fire.
 
 ```
 Jacen stood transfixed, fascinated with the battle and the havoc the beast had already caused. Zekk and Vonnda Ra shouted conflicting orders.
@@ -3605,7 +3618,7 @@ Jacen stood transfixed, fascinated with the battle and the havoc the beast had a
 — Darkest Knight (Kevin Anderson and Rebecca Moesta, 1996), ch. 16
 ```
 
-### 304. Jacen is lost with the comm system: his sister is the expert.
+### 305. Jacen is lost with the comm system: his sister is the expert.
 
 ```
 Jacen fumbled with the unfamiliar comm system, tuning frequencies and feeling completely inadequate. He wished his sister were here—she was the expert on these systems. She would know how to cut through the double-talk, the chatter, the Imperial transmission block.
@@ -3613,7 +3626,7 @@ Jacen fumbled with the unfamiliar comm system, tuning frequencies and feeling co
 — Jedi Under Siege (Kevin Anderson and Rebecca Moesta, 1996), ch. 11
 ```
 
-### 305. Jacen loses his balance on the scaffold and must be caught by Tenel Ka and Raynar.
+### 306. Jacen loses his balance on the scaffold and must be caught by Tenel Ka and Raynar.
 
 ```
 Jacen was just clambering down to the next level of the scaffolding. “Hey, Dad didn’t tell us he was coming back again so soon—” He loosened his hold for only a moment, but his balance was off. Trying to protect the thyrsi from harm, he tumbled backward toward the floor— —only to be caught on a cushion of air just centimeters before he hit the flagstones. Jacen touched down lightly and breathed a sigh of relief. He raised his head to see Tenel Ka and Raynar standing together, locked in concentration.
@@ -3623,7 +3636,7 @@ Jacen was just clambering down to the next level of the scaffolding. “Hey, Dad
 — Shards of Alderaan (Kevin Anderson and Rebecca Moesta, 1997), ch. 9
 ```
 
-### 306. The arachnid swats Jacen aside, and his Force reach into its mind fails.
+### 307. The arachnid swats Jacen aside, and his Force reach into its mind fails.
 
 ```
 “Uh-oh, looks like we can’t get out,” Jacen said. He stood in front of his sister, his green lightsaber held high, but the combat arachnid swatted him aside, knocking him into Tenel Ka. In the instant the warrior girl lost her balance, the creature struck. It grabbed Tenel Ka and lifted her up into the air, ready to kill her.
@@ -3637,7 +3650,31 @@ Jacen didn’t think he could attack in time to save his friend. The creature wa
 — Diversity Alliance (Kevin Anderson and Rebecca Moesta, 1997), ch. 11
 ```
 
-### 307. The office targeting lasers the Jedi dodged were calibrated not to hit anybody.
+### 308. Jacen clips a leg off a charging combat arachnid; it does not even pause.
+
+```
+Jacen lashed out with his lightsaber, clipping off a side leg as one of the creatures galloped by. The monster did not even pause, so intent was it on stampeding into the foremost assassin droid.
+
+— Diversity Alliance (Kevin Anderson and Rebecca Moesta, 1997), ch. 19
+```
+
+### 309. Jacen and the others stand frozen while IG-88 carries off Tyko; Jaina: 'If we fight, they'll kill him.'
+
+```
+IG-88 looked at Jacen, Jaina, Tenel Ka, and Lowie. “Do not follow—or you will be destroyed. Tyko Thul must remain alive,” the assassin droid said, as if in reassurance. “He will not be harmed… unless you force us to harm him.”
+
+The harsh synthesized voice sounded cold and implacable in the enclosed chamber. IG-88 extended his free arm with its built-in blaster rifle. The other assassin droid used both arms to point weapons at the young Jedi Knights, who stood frozen and uncertain.
+
+Then, with uncanny speed, the two droids hustled their captive out of the room and up the steeply sloping ramp, their metal footsteps thundering. Uncle Tyko’s despairing wail echoed through the chambers, then faded into the distance.
+
+“Hey, let’s go!” Jacen said. “We’ve got to help Tyko!”
+
+“How?” Jaina asked in anguish. “If we fight, they’ll kill him.”
+
+— Diversity Alliance (Kevin Anderson and Rebecca Moesta, 1997), ch. 19
+```
+
+### 310. The office targeting lasers the Jedi dodged were calibrated not to hit anybody.
 
 ```
 Tyko strode to the nearest of the wrecked automatic weapons in his office, grimaced, then turned to face Raynar and his friends. “You didn’t need to destroy them all, did you? I specifically calibrated the targeters not to hit anybody,” he said with a huff. “Now the entire defense grid in this room is ruined, and I’ll have to have it replaced.” He heaved a long-suffering sigh. “As if I didn’t have enough to do already.”
@@ -3645,7 +3682,7 @@ Tyko strode to the nearest of the wrecked automatic weapons in his office, grima
 — Delusions of Grandeur (Kevin Anderson and Rebecca Moesta, 1997), ch. 15
 ```
 
-### 308. Jacen wonders whether he could deflect Dengar's high-powered explosive bolts with his lightsaber; he is sure Luke could.
+### 311. Jacen wonders whether he could deflect Dengar's high-powered explosive bolts with his lightsaber; he is sure Luke could.
 
 ```
 Dengar waited precisely five seconds. Then he raised his blaster cannons, both pointing at a single target—Jacen.
@@ -3655,7 +3692,7 @@ The young man’s heart thudded, and his hand groped for his lightsaber. He wond
 — Delusions of Grandeur (Kevin Anderson and Rebecca Moesta, 1997), ch. 20
 ```
 
-### 309. Jacen: they could probably boost themselves with the Force, but the slope is too steep and icy and his hands are numb.
+### 312. Jacen: they could probably boost themselves with the Force, but the slope is too steep and icy and his hands are numb.
 
 ```
 He swallowed, but the freezing wind had stolen all of the moisture from his mouth. Jacen blew on his hands and then folded one underneath each arm to keep them warm. “I can barely move my hands as it is. I’m not going to be able to hang on to rocks. We could probably boost ourselves with the Force, but parts of that slope look too steep to climb, and they’re covered with ice.”
@@ -3663,7 +3700,7 @@ He swallowed, but the freezing wind had stolen all of the moisture from his mout
 — Jedi Bounty (Kevin Anderson and Rebecca Moesta, 1997), ch. 17
 ```
 
-### 310. Jacen: 'Even three Jedi Knights would not be able to resist a combined attack from these hired killers'; they blundered into the trap 'in spite of sensing warnings through the Force'.
+### 313. Jacen: 'Even three Jedi Knights would not be able to resist a combined attack from these hired killers'; they blundered into the trap 'in spite of sensing warnings through the Force'.
 
 ```
 An icicle of dread slid down Jacen's back. Even three Jedi Knights would not be able to resist a combined attack from these hired killers.
@@ -3673,7 +3710,7 @@ The suspicious Ugnaught had led them into a trap. They had blundered into it in 
 — Young Jedi Knights 13: Trouble on Cloud City (Kevin Anderson and Rebecca Moesta, 1998), ch. 11, p.93–94
 ```
 
-### 311. Falling into Bespin, Jacen can use the Force to make himself lighter, but 'no matter how hard he concentrated' he cannot push himself back up; his mental call to Jaina or Tenel Ka does not connect; he keeps calm with Luke's techniques.
+### 314. Falling into Bespin, Jacen can use the Force to make himself lighter, but 'no matter how hard he concentrated' he cannot push himself back up; his mental call to Jaina or Tenel Ka does not connect; he keeps calm with Luke's techniques.
 
 ```
 In the first several seconds he let out a panicked cry for help. But he kept dropping... dropping, with no bottom in sight. A cold wind rushed past his face, roaring in his ears, rippling his clothes, making it hard for him even to draw a breath. He quickly realized that screaming only wasted his precious energy.
@@ -3687,7 +3724,7 @@ In his mind he tried to call out to his sister Jaina or to Tenel Ka, but he coul
 — Young Jedi Knights 13: Trouble on Cloud City (Kevin Anderson and Rebecca Moesta, 1998), ch. 14, p.117–118
 ```
 
-### 312. Jacen feels only 'the barest hint of a tingle' on Kessel, too faint to be a Force warning; 'I didn't really sense anything through the Force.'
+### 315. Jacen feels only 'the barest hint of a tingle' on Kessel, too faint to be a Force warning; 'I didn't really sense anything through the Force.'
 
 ```
 “Hey, don’t worry about it too much,” Jacen said. “I told you, I didn’t really sense anything through the Force. I’d just be extra careful when we land there.”
@@ -3697,7 +3734,7 @@ The young Jedi Knights followed the sour-faced man. Jacen looked around at the b
 — Young Jedi Knights 14: Crisis at Crystal Reef (Kevin Anderson and Rebecca Moesta, 1998), ch. 6, p.47–48
 ```
 
-### 313. Cutting ice under the polar cap, the cold makes Jacen's limbs sluggish and his mind 'lethargic and stupid'.
+### 316. Cutting ice under the polar cap, the cold makes Jacen's limbs sluggish and his mind 'lethargic and stupid'.
 
 ```
 Jacen found his arms and legs growing sluggish. His mind felt lethargic and stupid, as if he were thinking in slow motion.
@@ -3707,7 +3744,7 @@ Jacen felt the cold growing more and more intense all around his body. His arms 
 — Young Jedi Knights 14: Crisis at Crystal Reef (Kevin Anderson and Rebecca Moesta, 1998), ch. 18, p.160
 ```
 
-### 314. DARK RAGE: when Jacen reaches for the power to crush a woman's skull in the Force, he stops himself, and later tells Anakin's vision that he "went dark" and the lightning burned his own palms.
+### 317. DARK RAGE: when Jacen reaches for the power to crush a woman's skull in the Force, he stops himself, and later tells Anakin's vision that he "went dark" and the lightning burned his own palms.
 
 ```
 Power raged through him as though a dam had burst in his chest. He smiled, and stretched forth his hand, and made a fist.
@@ -3729,7 +3766,7 @@ Regret welled up inside him, building a pressure of guilt and self-loathing that
 — Traitor (Matthew Stover, 2002), ch. 10
 ```
 
-### 315. SHIMRRA: Jacen lunges at Shimrra's neck without his lightsaber, gets hit squarely in the chest and blacks out.
+### 318. SHIMRRA: Jacen lunges at Shimrra's neck without his lightsaber, gets hit squarely in the chest and blacks out.
 
 ```
 The bunker inclined, sending Jacen directly toward Shimrra. Without thinking—and without his lightsaber—he lunged for the neck of the towering Yuuzhan Vong. But Shimrra perceived Jacen’s intent, and threw his mighty right arm behind him. Jacen was hit squarely in the center of the chest.
@@ -3739,7 +3776,7 @@ Dropping to the floor, he blacked out.
 — The Unifying Force (James Luceno, 2003), ch. 40
 ```
 
-### 316. OVERWHELMED BY THE COLONY: when the Killik voice speaks, "an immense murky presence" overwhelms Jacen's defenses before he can shut it out.
+### 319. OVERWHELMED BY THE COLONY: when the Killik voice speaks, "an immense murky presence" overwhelms Jacen's defenses before he can shut it out.
 
 ```
 As the voice spoke, an immense murky presence rose inside Jacen’s mind, overwhelming his defenses so quickly he had no chance to shut it out. In the midst of the presence, he saw Jaina and the others, their faces filled with surprise and revulsion and pity. They were all in their flight suits, haggard and travel-worn, but healthy enough and unafraid.
@@ -3747,7 +3784,7 @@ As the voice spoke, an immense murky presence rose inside Jacen’s mind, overwh
 — The Joiner King (Troy Denning, 2005), ch. 8
 ```
 
-### 317. LOMI PLO: Jacen disarms one of her blades to save Mara, but she runs him through with the second.
+### 320. LOMI PLO: Jacen disarms one of her blades to save Mara, but she runs him through with the second.
 
 ```
 Then Jacen was there, slipping in front of Mara, his lightsaber flashing up to block. He caught the blow above his head and whipped his blade over Lomi Plo’s and sent her white lightsaber spinning away into the rubble.
@@ -3757,7 +3794,7 @@ But Lomi Plo had two lightsabers, and she brought the second one up under Jacen�
 — The Swarm War (Troy Denning, 2006), ch. 18
 ```
 
-### 318. BELOW LUKE (40 ABY): asked by Thrackan whether he is stronger than Luke, Jacen says no, only "educated in different directions."
+### 321. BELOW LUKE (40 ABY): asked by Thrackan whether he is stronger than Luke, Jacen says no, only "educated in different directions."
 
 ```
 “Yes, you can. And I must admit to being offended. For a target as important as Centerpoint Station, shouldn’t they have sent Luke Skywalker? Are you stronger than he?”
@@ -3767,7 +3804,7 @@ Jacen offered a humorless smile. “No, just educated in different directions. B
 — Betrayal (Aaron Allston, 2006), ch. 10
 ```
 
-### 319. LOSES TO A LUKE PHANTOM: in Lumiya's asteroid a phantom with Luke's face, fed by the place's dark-side energy, turns away every one of Jacen's all-out attacks. Lumiya says it would have beaten him.
+### 322. LOSES TO A LUKE PHANTOM: in Lumiya's asteroid a phantom with Luke's face, fed by the place's dark-side energy, turns away every one of Jacen's all-out attacks. Lumiya says it would have beaten him.
 
 ```
 Jacen seized a rock outcropping and held it, keeping him from dropping once more toward the man with the face of Luke Skywalker. “You’re just about as good as my true Master,” Jacen said. And it was true—the phantom he fought had the speed and moves of a Jedi Master. He’d be a fair match for Luke.
@@ -3787,7 +3824,7 @@ She shrugged. “A combination of the real Luke Skywalker and the dark side ener
 — Betrayal (Aaron Allston, 2006), ch. 32
 ```
 
-### 320. CRUDE MIND PROBE: Jacen's interrogation of Ailyn Habuur, cracking her head on the table with the Force and entering her mind, kills her. He is surprised his technique did so much damage, and he misses what Ben later finds by plain analysis.
+### 323. CRUDE MIND PROBE: Jacen's interrogation of Ailyn Habuur, cracking her head on the table with the Force and entering her mind, kills her. He is surprised his technique did so much damage, and he misses what Ben later finds by plain analysis.
 
 ```
 Ben still didn’t believe what he’d seen. He believed it the next moment when Jacen used the Force to crack her head on the table again.
@@ -3807,7 +3844,7 @@ I thought you could do anything in the Force, Jacen. Why did you miss that? What
 — Bloodlines (Karen Traviss, 2006), ch. 15
 ```
 
-### 321. HESITATION: against Aurra Sing, Jacen cannot bring himself to release his Force lightning while his daughter watches, and Sing exploits the opening.
+### 324. HESITATION: against Aurra Sing, Jacen cannot bring himself to release his Force lightning while his daughter watches, and Sing exploits the opening.
 
 ```
 Jacen did not give her that chance. He opened himself fully to his fear and anger, using the power of his emotions to bring the Force flooding into him, and his body began to crackle and burn with dark energy. He raised his arms in Sing’s direction, hands held level and fingers splayed wide.
@@ -3821,7 +3858,7 @@ Jacen had to let the order trail off when Sing took advantage of his hesitation 
 — Tempest (Troy Denning, 2006), ch. 19
 ```
 
-### 322. MISSED AN ASSASSIN: Alema Rar tails Jacen into the undercity unnoticed while he insists that no one could follow him without his knowing.
+### 325. MISSED AN ASSASSIN: Alema Rar tails Jacen into the undercity unnoticed while he insists that no one could follow him without his knowing.
 
 ```
 “That’s ridiculous. I’d know if I had been followed. Not even Bothan assassins are that good.”
@@ -3835,7 +3872,7 @@ Ever so carefully, Alema used the Force to clear the fog between herself and Jac
 — Tempest (Troy Denning, 2006), prologue
 ```
 
-### 323. MISSES A HIDDEN DART: Alema's dart is hidden in the Force and Jacen's blade is not rising to block; Lumiya has to hurl him aside.
+### 326. MISSES A HIDDEN DART: Alema's dart is hidden in the Force and Jacen's blade is not rising to block; Lumiya has to hurl him aside.
 
 ```
 Jacen spun, igniting his lightsaber as he turned. But the dart was tiny, swift, and still hidden in the Force, and Alema realized with a bolt of satisfaction that his blade was not rising to block.
@@ -3845,7 +3882,7 @@ Then Jacen cried out and flew backward, as though hurled by an invisible hand, a
 — Tempest (Troy Denning, 2006), prologue
 ```
 
-### 324. NO DANGER SENSE: Jacen's shuttle is caught in a tractor beam with no advance warning through the Force.
+### 327. NO DANGER SENSE: Jacen's shuttle is caught in a tractor beam with no advance warning through the Force.
 
 ```
 “Coruscant herself. Though Kuat’s not that much farther.” The shuttle shook as if fired upon. “Hey.” He’d had no advance warning through the Force of an imminent attack. “Tractor beam,” he said.
@@ -3853,7 +3890,7 @@ Then Jacen cried out and flew backward, as though hurled by an invisible hand, a
 — Exile (Aaron Allston, 2007), ch. 20
 ```
 
-### 325. AMBUSHED AND BURIED BY MARA: Mara, hiding in the Force, rips his knee tendons from a side conduit, buries him under a collapsed tunnel and shoots at his eye; in the brawl she keeps coming despite his "total mastery," scatters all four of his darts with her shoto and nearly cuts his throat. He survives only by the trick with Ben's face.
+### 328. AMBUSHED AND BURIED BY MARA: Mara, hiding in the Force, rips his knee tendons from a side conduit, buries him under a collapsed tunnel and shoots at his eye; in the brawl she keeps coming despite his "total mastery," scatters all four of his darts with her shoto and nearly cuts his throat. He survives only by the trick with Ben's face.
 
 ```
 His right knee exploded with blinding pain as Mara cannoned out horizontally, Force-assisted, from a side conduit and caught his leg on the joint with her boots, ripping the tendons. As he lost his footing in the narrow passage, screaming, he found himself wedged for a second and groping for support. He lashed out with his lightsaber, shaving powdery brick from the wall. Mara dropped to the muddy floor to dodge the lightsaber, then sprang up and sprinted away down the tunnel.
@@ -3881,7 +3918,7 @@ They rolled. This wasn’t a duel: it was a brawl. She thrust her vibroblade up 
 — Sacrifice (Karen Traviss, 2007), ch. 21
 ```
 
-### 326. ARROGANCE: Jacen judges that Mara's Force skills are "crude compared to his" just before she cripples him.
+### 329. ARROGANCE: Jacen judges that Mara's Force skills are "crude compared to his" just before she cripples him.
 
 ```
 She was a superb assassin, but her Force skills were crude compared to his. Once Jacen removed her, it would be easier to deal with Ben. And Luke … he’d cross that bridge when he had to.
@@ -3889,7 +3926,7 @@ She was a superb assassin, but her Force skills were crude compared to his. Once
 — Sacrifice (Karen Traviss, 2007), ch. 20
 ```
 
-### 327. SENSES BEATEN BY BEN'S TRICK: Mara ambushes Jacen at the turbolift; "he hadn't felt her presence when it mattered."
+### 330. SENSES BEATEN BY BEN'S TRICK: Mara ambushes Jacen at the turbolift; "he hadn't felt her presence when it mattered."
 
 ```
 He registered genuine surprise, and that gave her more satisfaction than he’d ever know. No, he hadn’t felt her presence when it mattered. Thank you, Ben. Nice trick.
@@ -3897,7 +3934,7 @@ He registered genuine surprise, and that gave her more satisfaction than he’d 
 — Sacrifice (Karen Traviss, 2007), ch. 16
 ```
 
-### 328. MARA DUEL, LOW ON POWER: Mara's shoto is blocked only by "his dwindling Force power"; he is pinned under her vibroblade and has to reach for a poison dart.
+### 331. MARA DUEL, LOW ON POWER: Mara's shoto is blocked only by "his dwindling Force power"; he is pinned under her vibroblade and has to reach for a poison dart.
 
 ```
 Lightsaber wounds hurt a lot more than he ever imagined. Jacen screamed. He summoned his own weapon back to his hand and Mara crashed into him, knocking him flat again and pinning him down. Her vibroblade stopped a hand span from his throat as he managed to grab her hair and drag her face nearer and nearer to his lightsaber. She struggled to pull back, hacking at him with the shoto but blocked by his dwindling Force power each time.
@@ -3907,7 +3944,7 @@ Her vibroblade grazed his neck. He fumbled in his belt for a dart. She jerked ba
 — Sacrifice (Karen Traviss, 2007), ch. 21
 ```
 
-### 329. OVERPOWERED BY LUKE'S TELEKINESIS: aboard his own Star Destroyer, Luke hurls Caedus five meters into his chair without a gesture and holds him there "with no apparent exertion," then collapses the chair's pedestal with three finger-taps.
+### 332. OVERPOWERED BY LUKE'S TELEKINESIS: aboard his own Star Destroyer, Luke hurls Caedus five meters into his chair without a gesture and holds him there "with no apparent exertion," then collapses the chair's pedestal with three finger-taps.
 
 ```
 In the next instant, Caedus found himself flying across the cabin toward his observation bubble. Luke had not gestured, had not flinched, had not even shifted his gaze; he had simply grabbed Caedus in the Force and hurled him five meters into his chair.
@@ -3935,7 +3972,7 @@ Luke tapped a last time, and the pedestal collapsed with a low loud crump, depos
 — Inferno (Troy Denning, 2007), ch. 11
 ```
 
-### 330. BEATEN BY LUKE: in the Embrace chamber Luke drops him with an elbow, scratches his eye and Force-waves him into the tendril rack, then breaks the garrote. Afterward Caedus admits that Luke beat him and did more damage than he took, and that Ben's dagger probably saved his life by shocking Luke out of his rage.
+### 333. BEATEN BY LUKE: in the Embrace chamber Luke drops him with an elbow, scratches his eye and Force-waves him into the tendril rack, then breaks the garrote. Afterward Caedus admits that Luke beat him and did more damage than he took, and that Ben's dagger probably saved his life by shocking Luke out of his rage.
 
 ```
 Jacen followed the kick with a high slash. Luke blocked and spun inside, landing an elbow smash to the temple that dropped Jacen to his knees. He brought his own knee up under Jacen’s chin, hearing teeth crack—and relishing it. He parried a weak slash at his thighs, then drew his blade up diagonally where his nephew’s chest should have been.
@@ -3965,7 +4002,7 @@ Luke had beaten him. Luke had just kept coming despite his injuries. He had infl
 — Inferno (Troy Denning, 2007), ch. 20
 ```
 
-### 331. BATTLE MEDITATION FALTERS: at Balmorra, Caedus's attempt to imbue the fleet with confidence reflects back only confusion and fear.
+### 334. BATTLE MEDITATION FALTERS: at Balmorra, Caedus's attempt to imbue the fleet with confidence reflects back only confusion and fear.
 
 ```
 Caedus strengthened his battle meditation until he started to touch individual beings, then tried to imbue his Force presence with confidence and calm. The fleet reflected back only confusion and fear—perhaps because Caedus himself did not understand exactly what he expected to happen.
@@ -3973,7 +4010,7 @@ Caedus strengthened his battle meditation until he started to touch individual b
 — Inferno (Troy Denning, 2007), ch. 8
 ```
 
-### 332. CANNOT PROJECT INTO FORCE-USERS: Jacen tells Ben that even he is not good enough to project emotions into other Force-users.
+### 335. CANNOT PROJECT INTO FORCE-USERS: Jacen tells Ben that even he is not good enough to project emotions into other Force-users.
 
 ```
 “It’s no trick, Ben. Even I’m not good enough to project emotions into other Force-users,” Jacen said. “You’re sensing the same thing I am. Everyone knows what happened.”
@@ -3981,7 +4018,7 @@ Caedus strengthened his battle meditation until he started to touch individual b
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 333. OUT-HIDDEN BY LUKE: hidden aboard the Anakin Solo, Luke lets only Ben sense him; "Not even Jacen had that kind of control."
+### 336. OUT-HIDDEN BY LUKE: hidden aboard the Anakin Solo, Luke lets only Ben sense him; "Not even Jacen had that kind of control."
 
 ```
 At first, Ben couldn’t understand why Leia and Jaina and everyone else still seemed so sad—then it hit him: They couldn’t feel his father’s presence. Ben was the only one whom his dad was allowing to sense him through the Force. Not even Jacen had that kind of control.
@@ -3989,7 +4026,7 @@ At first, Ben couldn’t understand why Leia and Jaina and everyone else still s
 — Inferno (Troy Denning, 2007), ch. 19
 ```
 
-### 334. UNDERESTIMATED BEN: Ben's surprise strike gets through his danger sense late enough to burn his ribs, and Caedus is unsure whether the shadow bomb or his own reflexes saved him.
+### 337. UNDERESTIMATED BEN: Ben's surprise strike gets through his danger sense late enough to burn his ribs, and Caedus is unsure whether the shadow bomb or his own reflexes saved him.
 
 ```
 Caedus did not feel what came next, not really. He simply realized a bolt of danger sense was sizzling down his spine and whirled away from the holodisplay, then felt the heat of a lightsaber brush across his ribs as Ben’s blade snapped to life and buried itself in the torso of Commander Twizzl.
@@ -4001,7 +4038,7 @@ It might have been Lowbacca’s shadow bomb or Caedus’s own swift reflexes tha
 — Inferno (Troy Denning, 2007), ch. 15
 ```
 
-### 335. CLOUDED FORESIGHT: before Kuat, the future is "such a tangle of possibility" that he can flow-walk only to the next battle.
+### 338. CLOUDED FORESIGHT: before Kuat, the future is "such a tangle of possibility" that he can flow-walk only to the next battle.
 
 ```
 But Caedus could not break off now. The future was such a tangle of possibility that he could flow-walk only a short time forward—to the next battle, the one at Kuat that he had foreseen—before the path vanished into a miasma of uncertainty. Even with Tenel Ka’s Home Fleet under way to join them at Kuat, the Alliance simply was not strong enough to guarantee victory. To triumph there, Caedus needed to extract a heavy price here. He had to make the attackers pay so dearly for Balmorra that the Hutt and Commenorian fleets would be reduced to mere skeletons.
@@ -4009,7 +4046,7 @@ But Caedus could not break off now. The future was such a tangle of possibility 
 — Inferno (Troy Denning, 2007), ch. 8
 ```
 
-### 336. DRAINED AND ISOLATED: his uncle nearly killed him and Ben planted a vibrodagger near his heart; the fight with Luke drained him.
+### 339. DRAINED AND ISOLATED: his uncle nearly killed him and Ben planted a vibrodagger near his heart; the fight with Luke drained him.
 
 ```
 Caedus picked up his utility belt, then motioned for Orlopp to follow and left the infirmary feeling more cheerful inside than he had in ages. His parents had turned the Wookiees against him, his classmate Lowbacca had hurled a shadow bomb at him, his uncle had nearly killed him, and his cousin had planted a vibrodagger so near his heart that the handle had twitched in time to his pulse.
@@ -4023,7 +4060,7 @@ Caedus settled back in his seat, sinking into his pain, and was surprised at how
 — Inferno (Troy Denning, 2007), ch. 20
 ```
 
-### 337. WORN DOWN AGAINST THE STRIKE TEAM: misreading the falling dazzle grenades as explosives costs him his troopers; later he never feels Valin's deflected bolt coming because his concentration is slipping, and Mithric starts to beat down his parries. He has not recovered from his duel with Luke, and Seha plants a tracer on his cloak unnoticed.
+### 340. WORN DOWN AGAINST THE STRIKE TEAM: misreading the falling dazzle grenades as explosives costs him his troopers; later he never feels Valin's deflected bolt coming because his concentration is slipping, and Mithric starts to beat down his parries. He has not recovered from his duel with Luke, and Seha plants a tracer on his cloak unnoticed.
 
 ```
 Caedus cursed. His assumption that the falling missiles were explosives, that he had a second before they reached him, had just cost him his support troops. But he, at least, could see.
@@ -4047,7 +4084,7 @@ Seha’s vision blurred with tears. She dashed them away and flicked a hand at t
 — Fury (Aaron Allston, 2007), ch. 11
 ```
 
-### 338. FOOLED BY LUKE'S ILLUSION: off Fondor, Caedus reports a phantom enemy fleet that no sensor or crew can see; Niathal's test torpedo hits nothing. The phantom was Luke's work, though Caedus had boasted that he "did not fall prey to tricks."
+### 341. FOOLED BY LUKE'S ILLUSION: off Fondor, Caedus reports a phantom enemy fleet that no sensor or crew can see; Niathal's test torpedo hits nothing. The phantom was Luke's work, though Caedus had boasted that he "did not fall prey to tricks."
 
 ```
 Caedus had jerked the StealthX ninety degrees to starboard before his retina—fractionally slower than Force senses—registered a slab of ship filling his vision. And it wasn’t the Anakin. He righted himself relative to the assembled fleet; but he was suddenly overwhelmed, ships popping into existence all around him in a complete 360-degree ring. Wherever he turned the StealthX, he was facing the spars and sensor masts and patchworked hatches of warships. Cannon turrets—he couldn’t identify the type, the navy, anything. It was a fleet from another time and place.
@@ -4069,7 +4106,7 @@ He’d been duped with a brilliant Fallanassi illusion and had his StealthX almo
 — Revelation (Karen Traviss, 2008), ch. 13
 ```
 
-### 339. LUKE'S POWER: Luke rams Caedus's StealthX twice without Caedus sensing him; when Caedus tries to block Luke in the Force he gets "an idea of just how much power Luke could muster."
+### 342. LUKE'S POWER: Luke rams Caedus's StealthX twice without Caedus sensing him; when Caedus tries to block Luke in the Force he gets "an idea of just how much power Luke could muster."
 
 ```
 Caedus hadn’t felt anyone. Luke—he could always sense Luke. But Ben had taken to Force hiding instantly. Mara had managed it for critical moments and nearly killed him, but this smacked of Ben.
@@ -4085,7 +4122,7 @@ Caedus tried to block Luke in the Force and suddenly got an idea of just how muc
 — Revelation (Karen Traviss, 2008), ch. 12
 ```
 
-### 340. DANGER SENSE ON A BATTLEFIELD: sensing danger and concealed weapons is "next to useless on a battlefield," where everything is danger.
+### 343. DANGER SENSE ON A BATTLEFIELD: sensing danger and concealed weapons is "next to useless on a battlefield," where everything is danger.
 
 ```
 A Force-user’s ability to sense danger and concealed weapons was a wonderful asset in a Coruscant tapcaf or a strange city, but it was next to useless on a battlefield. Everything was danger and instruments of death; Caedus was a few hundred thousand kilometers off a planet that built warships and was on a high state of alert.
@@ -4093,7 +4130,7 @@ A Force-user’s ability to sense danger and concealed weapons was a wonderful a
 — Revelation (Karen Traviss, 2008), ch. 9
 ```
 
-### 341. NOT OMNIPOTENT: Caedus admits he has limits and needs others to carry out his plans; even he cannot make a whole fleet feel good about abandoning their comrades.
+### 344. NOT OMNIPOTENT: Caedus admits he has limits and needs others to carry out his plans; even he cannot make a whole fleet feel good about abandoning their comrades.
 
 ```
 I’m not omnipotent. I have to understand my limits. I still need people to carry out my plans.
@@ -4107,7 +4144,7 @@ No, he couldn’t. Nobody would fight on if they thought there’d be no attempt
 — Revelation (Karen Traviss, 2008), ch. 16
 ```
 
-### 342. DRAINED AFTER FONDOR: the shield drop leaves him so drained he wonders if he can even move, and Jaina breaks his Force choke on Mirta by visualizing it as a black chain.
+### 345. DRAINED AFTER FONDOR: the shield drop leaves him so drained he wonders if he can even move, and Jaina breaks his Force choke on Mirta by visualizing it as a black chain.
 
 ```
 Caedus tried to snap back at the moment the airburst sent a blinding, searing shock wave across the packed city, but he was a fraction too late, and he caught a moment of pure animal terror that took his breath away. He jerked alert in his seat, wanting to complete a scream that wasn’t his. He caught it in time. If he’d screamed—well, the crew thought he was crazy anyway.
@@ -4123,7 +4160,7 @@ The Moffs lay dead. Jaina felt Jacen then; he was throttling Mirta to let Tahiri
 — Revelation (Karen Traviss, 2008), ch. 17
 ```
 
-### 343. ILLUSION FAILS ON FETT: Caedus projects Ailyn Vel's face at Boba Fett; Fett is unmoved and shoots him in the kneecap.
+### 346. ILLUSION FAILS ON FETT: Caedus projects Ailyn Vel's face at Boba Fett; Fett is unmoved and shoots him in the kneecap.
 
 ```
 He opted for Ailyn Vel’s face.
@@ -4135,7 +4172,7 @@ He fired into Caedus’s leg. Then he just let go.
 — Revelation (Karen Traviss, 2008), ch. 18
 ```
 
-### 344. FORESIGHT JAMMED: Luke focuses on Caedus so hard in meditation that whenever Caedus looks into the future, Luke keeps showing up.
+### 347. FORESIGHT JAMMED: Luke focuses on Caedus so hard in meditation that whenever Caedus looks into the future, Luke keeps showing up.
 
 ```
 “It’s … more like jamming,” Luke said. “When I meditate on the future, I’m focusing so hard on Caedus that when he looks into the future, I keep showing up.”
@@ -4143,7 +4180,7 @@ He fired into Caedus’s leg. Then he just let go.
 — Invincible (Troy Denning, 2008), ch. 5
 ```
 
-### 345. CANNOT FIND A HIDDEN JAINA: once she hides in the Force, Caedus cannot feel her presence.
+### 348. CANNOT FIND A HIDDEN JAINA: once she hides in the Force, Caedus cannot feel her presence.
 
 ```
 Caedus shook his head. “She’s hiding in the Force, so I can’t actually feel her presence.” Realizing the seasoned sergeant would be too disciplined to ask the logical follow-up question, he glanced at the ceiling and added, “It’s more like a smell, Sergeant … a smell that permeates everything.”
@@ -4151,7 +4188,7 @@ Caedus shook his head. “She’s hiding in the Force, so I can’t actually fee
 — Invincible (Troy Denning, 2008), ch. 16
 ```
 
-### 346. LOSES HIS ARM: Jaina, boosted by Luke, takes his arm with Vatok's beskad when he leans to take the blow on his wounded shoulder.
+### 349. LOSES HIS ARM: Jaina, boosted by Luke, takes his arm with Vatok's beskad when he leans to take the blow on his wounded shoulder.
 
 ```
 Despite the ringing in her ears and the gauze in her head—despite her hugely aching skull and the big knot of hurt swelling on her brow—Jaina had never been so filled with the Force. She could feel it in every cell of her body, swirling through her like fire, burning more ferociously every moment. She had never felt so strong or so quick or so alert. She could drive her fist through a durasteel wall, or catch a blaster bolt between her fingers. Despite the red curtain of blood cascading from the gash where Vatok’s helmet had split her forehead, she was aware of everything.
@@ -4177,7 +4214,7 @@ Then Jaina experienced an abrupt draining as her Force energies returned to thei
 
 Note: Caedus had already taken a mag-pellet in the shoulder and Luke's Force blast to the chest. Jaina's boost ends right after the fight: "her Force energies returned to their normal level." Caedus still thinks he was fighting Luke for part of it.
 
-### 347. HUBRIS: Caedus laughs that if Luke couldn't kill him, Jaina has no chance.
+### 350. HUBRIS: Caedus laughs that if Luke couldn't kill him, Jaina has no chance.
 
 ```
 “Jaina is coming for me,” Caedus explained, still laughing. “Luke Skywalker couldn’t kill me. What does she expect to do?”
@@ -4185,7 +4222,7 @@ Note: Caedus had already taken a mag-pellet in the shoulder and Luke's Force bla
 — Invincible (Troy Denning, 2008), ch. 16
 ```
 
-### 348. KILLED BY JAINA: gut-stabbed, one-armed and racing to stop the strike on Tenel Ka, Caedus has his Achilles tendon cut and stops fighting at the end, his blade hanging at his side.
+### 351. KILLED BY JAINA: gut-stabbed, one-armed and racing to stop the strike on Tenel Ka, Caedus has his Achilles tendon cut and stops fighting at the end, his blade hanging at his side.
 
 ```
 A lightsaber snap-hissed to life, and suddenly Caedus felt as though he were going to vomit fire.

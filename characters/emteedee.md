@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 32 (31 with quotations; 31 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
+- **Entries:** 34 (33 with quotations; 33 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 2 old entries; old file: `characters/_bak/emteedee.md.bak-20261117`. Added 2026-11-19: 5 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read). Added 2026-11-20: 2 entries from the ending of Young Jedi Knights 8: Diversity Alliance (rest of ch. 19 and ch. 20, print pp.209–223, read in the 1997 paperback borrowed on archive.org).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -249,6 +249,27 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Em Teedee's sc
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 16 (p.153).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-04.md:25`
+
+## Young Jedi Knights 8: *Diversity Alliance* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Em Teedee, hooked into the Rock Dragon's diagnostic systems, lists the minimum repairs needed to make it spaceworthy.
+> Though Tenel Ka’s ship carried a generous reserve of spare parts for emergencies, the damage the Hapan passenger cruiser’s engines had sustained would require a great deal of time and ingenuity to fix.
+>
+> Em Teedee, already hooked to the ship’s diagnostic systems, generated a list of the minimum repairs needed to make the passenger shuttle spaceworthy again, just so they could get home.
+>
+> From the engine compartment, which swallowed her up to her waist, Jaina tracked everyone’s progress with a steady flow of questions and answers. Despite the circumstances, the companions found the demands of the repair activities both familiar and comforting. They had been through all of this before.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (print pp.217–218).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:27`
+
+What it shows (our notes): Em Teedee calculates the fastest route back to Yavin 4, and reveals he set the Tradewyn's navicomputers to full randomization and kept none of the fleet's jump points, for security.
+> “Rest assured, Master Jacen,” Em Teedee said. “I’ve calculated the most expeditious route for our return. We’ll be there in a matter of hours.”
+>
+> “No, I’m afraid not, Master Lowbacca,” Em Teedee said. “I didn’t store any of the locations of the Bornaryn fleet’s next jumps, lest it result in a security breach. I set the Tradewyn’s navicomputers with full randomization along known routes.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (print p.221).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:30`
+
 
 ## Young Jedi Knights 13: *Trouble on Cloud City* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
 

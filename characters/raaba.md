@@ -6,19 +6,20 @@ Evidence file for Raabakyysh (Raaba), the young Wookiee friend of Lowbacca and S
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`). Young Jedi Knights 11: The Emperor's Plague (same authors, 1998), read in full on 2026-11-20 CST (notes: `notes/materials/183-yjk-11-the-emperors-plague/`).
+- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English epub breaks off in ch. 19, and the ending, print pp.209–223, was read in the 1997 paperback borrowed on archive.org: see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`). Young Jedi Knights 11: The Emperor's Plague (same authors, 1998), read in full on 2026-11-20 CST (notes: `notes/materials/183-yjk-11-the-emperors-plague/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
-- Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; nothing from the missing ending is quoted); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
+- Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; the ending was read later in the 1997 print edition, see the next line); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
+- Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from the ending of Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997): the rest of ch. 19 and ch. 20 (print pp.209–223), missing from the library epub and read in the 1997 Boulevard paperback borrowed on archive.org. Notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (a pdftohtml conversion with no page breaks, so chapter citations only); misreadings corrected. Notes: `notes/materials/183-yjk-11-the-emperors-plague/`.
-- This file has 12 entries and 12 quotes.
+- This file has 13 entries and 13 quotes.
 
 ## Contents
 
 - [Feats and Skills](#feats-and-skills) (12)
-- [Statements and Beliefs](#statements-and-beliefs) (0)
+- [Statements and Beliefs](#statements-and-beliefs) (1)
 - [Limitations](#limitations) (0)
 
 ## Feats and Skills
@@ -155,5 +156,14 @@ Raaba could not take that chance. And so she had tended her leader all by hersel
 
 ## Statements and Beliefs
 
+### 13. Raaba refuses, furious, to spy on Nolaa Tarkona for Lowie's 'human so-called friends', but promises to find him again wherever he goes.
+
+```
+The suggestion had been a mistake. Raaba had turned her anger on Lowie, furious that he would suggest that she spy on her employer for his human so-called friends. She had stormed off toward her skimmer.
+
+Lowie might have despaired of ever seeing Raaba again, had it not been for the fact that at the last moment she had hesitated, turned, and told him she would find him some other time—no matter where he went. She would not abandon him entirely, ever again.
+
+— Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 20
+```
 
 ## Limitations

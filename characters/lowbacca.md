@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 203 (189 with quotations; 156 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read).
+- **Entries:** 207 (193 with quotations; 160 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19; the ending was added later, see below). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read). Added 2026-11-20: 6 entries from Young Jedi Knights 12: Return to Ord Mantell (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 13: Trouble on Cloud City (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 14: Crisis at Crystal Reef (full read). Added 2026-11-20: 4 entries from the ending of Young Jedi Knights 8: Diversity Alliance (rest of ch. 19 and ch. 20, print pp.209–223, read in the 1997 paperback borrowed on archive.org).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1981,6 +1981,30 @@ What it shows (our notes): Jacen: Lowie has his lightsaber and his Jedi senses; 
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:51`
 
+What it shows (our notes): Locked in a fight with a combat arachnid and unable to see behind him, Lowie lashes backward on instinct, before Em Teedee's warning, and cuts an assassin droid's leg off at the knee.
+> Lowbacca fought against a combat arachnid. Locked in his struggle, Lowie could not see the danger approaching from behind. Just before Em Teedee wailed a warning, the Wookiee instinctively lashed backward. Sweeping the lightsaber around in an arc behind his waist, Lowie severed an assassin droid’s leg at the knee.
+>
+> The murderous machine tumbled over to sprawl on the ground. Even so, it did not end its attack. Instead, hauling out its blasters, the droid fired low from its prone position.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (print p.212).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:18`
+
+What it shows (our notes): Attuned to the Force, Lowie leaps over the droid's blaster fire (which kills the arachnid instead), lands between bursts and cleaves the droid's head in two.
+> Attuned to the Force, Lowbacca leaped into the air. Blaster bolts peppered the area where his shaggy legs had been a moment before and strafed across the combat arachnid Lowie had been fighting. The creature was thrown backward, its bloated crimson body split open.
+>
+> Landing in between bursts of blaster fire, Lowie whirled around and struck again with his molten bronze lightsaber, cleaving the droid’s metallic head and optical sensors cleanly into two sparking halves.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (print pp.212–213).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:19`
+
+What it shows (our notes): Lowie sifts the wreck of Tyko's ship for parts and finds an intact repulsor module to repair the Rock Dragon.
+> And so Lowie found himself sifting through the tarnished-brass wreckage of Tyko Thul’s ship, searching for engine parts that could be salvaged whole or somehow adapted to the needs of the Rock Dragon.
+>
+> Lowie picked up a chunk of battered brass-colored hull plating and tossed it aside. He gave a roar of triumph. There on the ground lay a fully intact repulsor module that had somehow survived the destruction of Tyko’s ship. Thoughts of Raaba were swept aside as Lowie ran to show Jaina his find.
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (print pp.217, 220).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:29`
+
 ### Limitations and anti-feats (Diversity Alliance)
 
 What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie's wound from the combat arachnid.
@@ -1994,6 +2018,20 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie slumps to the roofto
 — Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 13 (p.84).
 (Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance library epub (1997 Boulevard paperback)`; conversion glitches such as misread letters corrected. Page numbers count the epub's page breaks and approximate the print pages.)
 Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-02.md:30`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie and the others stand frozen while IG-88 carries off Tyko under threat.
+> IG-88 looked at Jacen, Jaina, Tenel Ka, and Lowie. “Do not follow—or you will be destroyed. Tyko Thul must remain alive,” the assassin droid said, as if in reassurance. “He will not be harmed… unless you force us to harm him.”
+>
+> The harsh synthesized voice sounded cold and implacable in the enclosed chamber. IG-88 extended his free arm with its built-in blaster rifle. The other assassin droid used both arms to point weapons at the young Jedi Knights, who stood frozen and uncertain.
+>
+> Then, with uncanny speed, the two droids hustled their captive out of the room and up the steeply sloping ramp, their metal footsteps thundering. Uncle Tyko’s despairing wail echoed through the chambers, then faded into the distance.
+>
+> “Hey, let’s go!” Jacen said. “We’ve got to help Tyko!”
+>
+> “How?” Jaina asked in anguish. “If we fight, they’ll kill him.”
+— Source: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (print pp.214–215).
+(Full sentence/passage taken from the source text on file: `YJK08 Diversity Alliance, 1997 Boulevard paperback borrowed on archive.org (diversityallianc0000ande), print pp.209–223 transcribed from the page images`; curly quotes normalized. Page numbers are the printed pages.)
+Our notes: `notes/materials/180-yjk-08-diversity-alliance/da-03.md:22`
 
 ## Young Jedi Knights 9: *Delusions of Grandeur* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
 
