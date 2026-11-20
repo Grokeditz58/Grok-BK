@@ -4,7 +4,7 @@
 - **Era:** Prequel
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** DEEP
-- **Entries:** 670 (387 with quotations; 62 quotations extended to the full sentence/passage from the source text on file; 203 marked as fragments; 256 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 759 old entries; old file: `characters/_bak/qui-gon-jinn.md.bak-20261117`. Added 2026-11-20: 26 entries from Jedi Apprentice 1: The Rising Force (full read).
+- **Entries:** 697 (414 with quotations; 89 quotations extended to the full sentence/passage from the source text on file; 203 marked as fragments; 256 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 759 old entries; old file: `characters/_bak/qui-gon-jinn.md.bak-20261117`. Added 2026-11-20: 26 entries from Jedi Apprentice 1: The Rising Force (full read). Added 2026-11-20: 27 entries from Jedi Apprentice 2: The Dark Rival (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3564,6 +3564,265 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — On the cliff face 'His lig
 — Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 19.
 (Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
 Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:68`
+
+## Jedi Apprentice 2: *The Dark Rival* (Jude Watson, 1999): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Qui-Gon wakes knowing exactly where he is; even a nightmare only sharpens his senses; with his lightsaber in reach 'Within the blink of an eye, he would be standing, ready to fight.'
+> Qui-Gon Jinn woke with a start. As always, he knew exactly where he was as soon as he awakened. Dreams never hung on him, clouding his mind.
+>
+> Even a nightmare had only served to sharpen his senses. The room was dark, but he could make out the edges of the window in the darkness. Dawn was near. He could hear Obi-Wan Kenobi’s quiet breathing on the sleep-couch next to him.
+>
+> Qui-Gon’s hand fell to his lightsaber, placed so that it was in easy reach in case of intruders. Within the blink of an eye, he would be standing, ready to fight.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 1.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:9`
+
+What it shows (our notes): Qui-Gon knows Obi-Wan is awake though the boy has not moved a muscle: 'The Jedi Knight was always at least two steps ahead of him.'
+> Still gazing out the window, Qui-Gon suddenly spoke. “You should dress. It’s almost time for the meeting.”
+>
+> Obi-Wan sighed as he threw back the light blanket. He hadn’t moved one muscle, yet Qui-Gon had known he was awake. The Jedi Knight was always at least two steps ahead of him.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 3.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:21`
+
+What it shows (our notes): Qui-Gon senses dark ripples in the Force just before Xanatos enters; when the mine explodes he is on his feet, lightsaber in hand, before the others can react, and senses the blast is outside.
+> Qui-Gon heard their words, but he was distracted by something more important. There was a disturbance in the Force. He tuned into the disturbance, unsure of what it meant. The dark ripples were a warning, but of what?
+>
+> The door suddenly flew open. A young man stood in the doorway. His shiny black cape was lined in a blue so deep it was almost black as well. A broken circle scar marked his cheek.
+>
+> Suddenly a huge explosion rocked the room. VeerTa was knocked to the floor. Before the others could react, Qui-Gon was on his feet, lightsaber in hand.
+>
+> Qui-Gon sensed the explosion had occurred outside the palace. He hurried to the window. VeerTa struggled to her feet and followed him.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 4.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:28`
+
+What it shows (our notes): Without seeming to move, Qui-Gon is between VeerTa and Xanatos, holding her in an iron grip; afterwards he works tirelessly carrying victims from the wreckage.
+> Without seeming to move, Qui-Gon was suddenly between the two of them, holding VeerTa off. It would do no good to attack Xanatos. Qui-Gon knew firsthand how fierce and volatile a fighter he was.
+>
+> VeerTa struggled against Qui-Gon’s iron grip.
+>
+> They stacked bodies in the yard. Qui-Gon worked tirelessly to carry victims from the wreckage. Forty miners were trapped below ground. Rescuing them was a painstaking and dangerous process.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 5.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:37`
+
+What it shows (our notes): Qui-Gon concentrates on the Hutt guard's mind, pulling in energy from the Force; the Hutt repeats his words and lifts all security controls.
+> Qui-Gon didn’t move a muscle. He concentrated on the Hutt’s greasy mind, pulling in energy from the Force.
+>
+> “Perhaps I should wait in his private office,” he said.
+>
+> “You should wait in his private office.” The Hutt repeated tonelessly. “Take the restricted tube to Horizontal Thirty.”
+>
+> “Security controls should be lifted,” Qui-Gon said.
+>
+> “All security controls shall be lifted.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 9.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:63`
+
+What it shows (our notes): Qui-Gon draws in the Force, which moves within him 'like a cresting wave'; Xanatos's whole transparisteel wall turns transparent and the hidden door swings open.
+> He pressed his whole body against the wall and it turned transparent. He could see the inner office. Still, where was the door?
+>
+> Qui-Gon drew the Force in and Felt it move within him like a cresting wave. The entire wall became transparent. The hidden door swung open. As soon as he was inside, the wall was once more opaque.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 9.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:64`
+
+What it shows (our notes): Qui-Gon guesses Xanatos's password, 'Crion', on his one chance and deduces that Xanatos controls Offworld.
+> Qui-Gon hesitated. Knowing Xanatos, he had only one chance to get it right. And if he didn’t, Xanatos had surely rigged the hologram to alert him that someone had tried to break in.
+>
+> “Crion,” he said, using Xanatos’ father’s name.
+>
+> But he’d gotten what he’d come for, anyway. Qui-Gon closed the filing system thoughtfully. Two broken circles had formed the initials of Offworld Corporation. Perhaps others would see that as a coincidence. But he knew that nothing was casual to Xanatos. Qui-Gon’s instinct told him that he had found the person who controlled Offworld. Perhaps Xanatos had even founded it. But why would he keep it secret? So he could maneuver more easily, Qui-Gon guessed. Xanatos had always preferred stealth and trickery to achieve his ends. The question was: what was Xanatos after?
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 9.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:66`
+
+What it shows (our notes): Qui-Gon gathers the Force and feels a void: Obi-Wan is in danger.
+> He closed his eyes, gathering the Force. He felt it then, something dark, a void. Obi-Wan was in danger.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 10.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:72`
+
+What it shows (our notes): Qui-Gon vs. Xanatos in the mineyard: Xanatos's stroke sends power up Qui-Gon's arm; Xanatos 'had only grown more powerful'; Qui-Gon knows he cannot tire him and feels the dark power of his mind.
+> In a flash, Qui-Gon’s lightsaber hummed to life. When Xanatos leaped to deliver his first blow, Qui-Gon was already moving to deflect it. The sabers met and sizzled. Qui-Gon felt the power of Xanatos’ stroke move up his arm.
+>
+> Xanatos had not lost his fighting edge. He had only grown more powerful, moving with economy and grace. His lightsaber flashed, he thrust again, always with a surprising twist or direction.
+>
+> Qui-Gon moved defensively. He knew he would not be able to tire Xanatos, one method of Jedi strategy.
+>
+> Xanatos had more than physical skill. Qui-Gon could feel the power of his mind. Xanatos was still in touch with the Force. He had gathered the energy of darkness, not light.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 12.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:19`
+
+What it shows (our notes): Qui-Gon goes on the attack, drives Xanatos to the wall, avoids a kick, and strikes Xanatos's shoulder: 'Your footwork has always been your weakness... If you've surpassed me, it's only in your mind.'
+> Qui-Gon leaped aside to avoid another blow. Xanatos laughed. It was time to change the rules of engagement. Enough defense.
+>
+> Qui-Gon sprang at Xanatos, his lightsaber humming and flashing. He delivered one blow after another, which Xanatos deflected. Smoke and sizzle filled the air. Xanatos laughed again.
+>
+> Qui-Gon used a slashing sequence of moves to position Xanatos against the wall of the building. But Xanatos leaped onto the slag heap and flipped over in midair, landing on Qui-Gon’s other side.
+>
+> Their lightsabers tangled, buzzing furiously. Qui-Gon felt the charge in his arm, but didn’t waver. Xanatos kicked out with a foot, but Qui-Gon was expecting it, and moved aside. Xanatos lost his balance. He almost fell, but recovered in time.
+>
+> “Your footwork has always been your weakness,” Qui-Gon said dryly as he dealt a blow to Xanatos’ shoulder. Xanatos twisted away, but not before Qui-Gon saw him grimace with pain. “If you’ve surpassed me, it’s only in your mind.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 12.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:21`
+
+What it shows (our notes): Qui-Gon blocks a remembered Temple feint, twists away from Xanatos's flying double-bladed attack and plucks Obi-Wan's lightsaber from his grip, then for the first time in his life runs from battle to find Obi-Wan.
+> Xanatos faked a charge to the left, went right, then danced back to the left again. Qui-Gon remembered the move from the Temple. He easily blocked the blow.
+>
+> Suddenly, Xanatos whirled around, took three long steps toward the slag heap, and pushed himself off, flying through the air with both lightsabers slashing toward Qui-Gon, every muscle ready to drive the blow home.
+>
+> He met empty air. Qui-Gon twisted away, grabbing Obi-Wan’s lightsaber from Xanatos’ unprepared grip.
+>
+> Then, for the first time in his life, Qui-Gon ran from battle. He had to find Obi-Wan. The cold wind whistled past his ears as he crossed the mine yard at top speed.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 12.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:24`
+
+What it shows (our notes): Qui-Gon needs no Force: RonTha crumples under his irritation; he notices the Meerian's nervousness and draws the truth out of him.
+> Qui-Gon fixed his gaze on RonTha. He didn’t need to use the Force. The Meerian crumpled under the force of his irritation.
+>
+> Suddenly, Qui-Gon noticed that RonTha looked very nervous. The Meerian was perspiring and looked as if he wanted to escape.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 14.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:38`
+
+What it shows (our notes): Across the distance Qui-Gon feels Obi-Wan's Force and focuses his own will to twist the falling boy toward the sling.
+> Then Obi-Wan saw the sling below. Across the distance, Qui-Gon felt ripples of the Force originating in Obi-Wan. He focused his own will to meet it, concentrating the Force, willing Obi-Wan’s body to twist toward the tarp.
+>
+> Obi-Wan seemed to grab on to thin air and pull himself to the left, shifting in mid-fall. He bounced onto the middle of the sling. In another second, those long arms shot out and pulled Obi-Wan to safety.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 14.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:41`
+
+What it shows (our notes): Qui-Gon sends neutral energy into Obi-Wan's collar transmitter and the buzzing stops; then he somersaults over four Imbat guards and helps drive them back, deflecting blaster fire with ease.
+> Qui-Gon nodded. He concentrated the Force on Obi-Wan’s collar first. He sent neutral energy to the transmitter.
+>
+> Obi-Wan touched the collar. “The buzzing is gone.”
+>
+> Two lightsabers hummed in unison as they turned to face the guards. The four Imbats hesitated. They had never seen such weapons. But, still infuriated at Obi-Wan’s escape, they rushed forward.
+>
+> Qui-Gon leaped onto the railing, somersaulted in the air, and landed behind them. Obi-Wan charged from the front. They moved in a graceful duet, advancing, retreating, forcing the guards back toward the lift tube and deflecting blaster fire with ease.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 14.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:43`
+
+What it shows (our notes): Qui-Gon on Xanatos: 'His intelligence was fierce and quick and agile... the most promising boy to come to the Temple in many years'; his own failing: 'I let my ego and pride take over.'
+> “Each Jedi apprentice brings something unique to the Temple,” Qui-Gon began. “Even at a young age, Xanatos stood out. His intelligence was fierce and quick and agile. He was a leader. I thought he was the most promising boy to come to the Temple in many years. So did Yoda.”
+>
+> “So it was a test for me, too,” Qui-Gon said. “I didn’t know that at the time. I let my ego and pride take over. My need to be right. It’s important that you know this, Obi-Wan. Even a Jedi Knight is still a living being, with the same failings.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 15.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:50`
+
+What it shows (our notes): Qui-Gon killed Crion in front of Xanatos; they then 'battled to the point of exhaustion' until Qui-Gon knocked Xanatos's lightsaber away but could not deliver the fatal blow.
+> Qui-Gon paused, his expression grim. “I killed him,” he said solemnly. “In front of his son I dealt the killing blow. My lightsaber sliced through the ring on Crion’s finger. As he lay dying, Xanatos picked it up from the fire where it had fallen. He pressed the hot metal to his cheek. I can still hear the sound of the burn. You can still see the scar.”
+>
+> “He drew his lightsaber against me,” Qui-Gon said, his gaze shifting once again to take in the past. “We battled to the point of exhaustion. At last I knocked the lightsaber from his hand and stood over him. But I couldn’t deliver the fatal blow. Xanatos laughed at me. He ran out. I searched Telos for him, but he had stolen a transport and the treasury and had escaped into deep space. He disappeared without a trace . . . until now.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 15.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:52`
+
+What it shows (our notes): Qui-Gon disarms three Imbat guards with his lightsaber before they can reach their blasters.
+> “We don’t have time for a plan,” Qui-Gon said, kicking open the door. Three Imbat guards looked up in surprise. Before they could make a move toward their blasters, Qui-Gon’s lightsaber sang through the air. The three blasters clattered to the floor as the guards clutched their wrist and howled.
+>
+> “Transmitters, please,” Qui-Gon remarked pleasantly. When they hesitated, he casually brought his lightsaber down on the power terminal. It sizzled and collapsed into a molten heap.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:57`
+
+What it shows (our notes): Driving the landspeeder, Qui-Gon gathers the Force to anticipate Xanatos's laser-cannon blasts.
+> Lightsabers were useless. They had no blasters. They had to rely on Qui-Gon’s skill. Even as he drove, he gathered the Force around him, using it to anticipate the blasts.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:60`
+
+What it shows (our notes): In pitch darkness Qui-Gon lets the Force guide him toward Xanatos ('I was always best at the blindfold test'); 'Qui-Gon's grace and power were astounding' as he protects himself and Obi-Wan.
+> Qui-Gon didn’t wait for Xanatos to strike. He moved through the blackness toward the glow. He could not see, he let the Force guide him. He could feel his opponent, feel the dark tremors of his evil. He struck.
+>
+> “Missed me,” Xanatos said. “I was always best at the blindfold test. Remember?”
+>
+> It was hard fighting now, driven by instinct and with only the Force to help them. Xanatos was a cunning, powerful adversary. He attacked and retreated in a furious rhythm, faster than any fighter Obi-Wan had met. Qui-Gon’s grace and power were astounding as time and time again he met Xanatos with his thrusting lightsaber, protecting himself and Obi-Wan from blows.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:68`
+
+What it shows (our notes): Drawing on Obi-Wan's power as well, Qui-Gon envisions the broken circle on the lock becoming whole; the strands move and the door slides open.
+> “Wait.” Qui-Gon quieted his mind, letting the Force fill him. He drew from Obi-Wan’s power as well, concentrating on the broken circle. He envisioned the circle moving, meeting, becoming whole once more. The past would meet the future and create the present. That was what mattered. Xanatos was past. Obi-Wan was now.
+>
+> Slowly, the separate strands moved, making a perfect circle.
+>
+> The door slid open.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 18.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:83`
+
+What it shows (our notes): Qui-Gon: 'Xanatos is gone from me... He may kill me one day, but he will never wound me again'; he accepts Obi-Wan as his Padawan.
+> “I’m not angry, Obi-Wan,” Qui-Gon said. “Xanatos is gone from me. He is just another enemy now. The hate is all on his side. I am prepared to fight the evil he does. He may kill me one day, but he will never wound me again.”
+>
+> “You would have died for me,” Qui-Gon said. “Your courage is extraordinary, even for a Jedi. I would be honored to accept you as my Padawan, Obi-Wan Kenobi.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 19.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:91`
+
+### Limitations and anti-feats (The Dark Rival)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Jedi are taught to value dreams but not trust them; 'Qui-Gon rarely had the gift' and prefers not to dwell on them.
+> Jedi are taught to value dreams, but not to trust them. Dreams can confuse as well as illuminate. A Jedi should test a dream much as he tests unstable ground. Only when he’s sure of his footing should he move on. Dreams can be random energy, nothing more. Some Jedi see things in dreams and others do not.
+>
+> Qui-Gon rarely had the gift and preferred not to dwell on dreams. He managed to push dreams away in the daylight. But at night, it was harder. If only he could ban his nightmares, and memories. Then they would not be able to haunt him so.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 1.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-01.md:10`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — When Xanatos draws Obi-Wan's lightsaber as a second blade, Qui-Gon 'lost his focus for an instant.'
+> Perhaps it was the taunt. Perhaps it was because Qui-Gon had finally caused him real pain. Xanatos whirled the other side of his cape behind his shoulder. A second lightsaber was suddenly in his hand.
+>
+> Startled, Qui-Gon lost his focus for an instant. There was only one person to whom that lightsaber could belong.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 12.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:23`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Qui-Gon can neither break, twist nor cut Obi-Wan's collar on low power.
+> Qui-Gon placed his large hands around the collar, searching for a catch or seam. He could not break the collar, or twist it apart. He set his lightsaber to low power and tried to cut it, but could not.
+>
+> “I need a high power, and that would injure you,’ he said.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:58`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Striking at Xanatos on his speeder bike, Qui-Gon is sent spinning backward with a wrenched shoulder; he realizes they are playing Xanatos's game.
+> Xanatos headed for Qui-Gon and Obi-Wan at top speed. Qui-Gon unsheathed his lightsaber and dealt Xanatos a glancing blow as he sped past. But the impact sent Qui-Gon spinning backward, and he felt his shoulder wrench in pain. They could not fight Xanatos while he was on that vehicle.
+>
+> Xanatos turned and roared back toward them. They had no choice but to dash into the mine entrance. As they did, Qui-Gon had a sudden flash of chilling knowledge.
+>
+> They were doing exactly what Xanatos had planned for them to do. They were playing his game.
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:62`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — 'I cannot open it. Not with the Force'; together with Obi-Wan they cannot move the stronger lock.
+> “It’s sealed,” Qui-Gon said. “And I cannot open it. Not with the Force.”
+>
+> “Together, then,” Obi-Wan suggested. They concentrated, drawing the Force to bear on the door. It did not open, or even turn transparent.
+>
+> “There is a stronger lock on this one, I think” Qui-Gon said. “Xanatos wouldn’t risk our being able to open it.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 17.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:77`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The ion bomb's trigger is 'so delicate that the Force itself might set it off'; Qui-Gon needs fifteen minutes and has three.
+> “The Force won’t work,” Qui-Gon said, crouching. “This is a trigger so delicate that the Force itself might set it off. I can do it, but I need time. More time than I have.” Qui-Gon bent closer. “This appears to be the master control. Xanatos must have set it when he left. That’s the good news. If we can disarm this one, none of the others will blow.”
+>
+> “It’s set to blow in three minutes,” Qui-Gon said. “I need fifteen.”
+— Source: Jedi Apprentice 2: The Dark Rival (Jude Watson, 1999), ch. 18.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 02 The Dark Rival library epub`; misreadings corrected.)
+Our notes: `notes/materials/188-ja-02-the-dark-rival/dr-02.md:85`
+
 
 
 # CANON (Disney canon — kept separate)
