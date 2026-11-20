@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 1029 (399 with quotations; 20 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`.
+- **Entries:** 1038 (408 with quotations; 29 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -5188,6 +5188,119 @@ Our notes: `external/mega-notes/tfu-2-notes.md:80`
   — Source: Darth Bane in the Encyclopedia (original site is defunct) ; Star Wars: The Dark Side ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 5,6,4; per-sentence approximate match (1/2 sentences matched, min 0.61), verify]; per Wookieepedia "Darth Zannah" rev 15459840, ref 5,6,4; per-sentence approximate match (1/2 sentences matched, min 0.61), verify — Darth Zannah research extraction — https://starwars.fandom.com/wiki/Darth_Zannah ; https://starwars.fandom.com/wiki/Darth_Zannah/Legends.
 (Source: Darth Bane in the Encyclopedia (original site is defunct) ; Star Wars: The Dark Side ; Star Wars Helmet Collection: Boba Fett Databank A-Z: Alzoc III–Antilles [per Wookieepedia "Darth Zannah" rev 15459840, ref 5,6,4; per-sentence approximate match (1/2 sentences matched, min 0.61), verify])
 Our notes: `external/mega-notes/zannah-quotes.txt:111`
+
+## Young Jedi Knights 7: *Shards of Alderaan* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): 'And Boba Fett was the best': no one could elude him; Tarkona: 'you are the best'.
+> It would take the best of bounty hunters to find any quarry under such circumstances.
+>
+> And Boba Fett was the best.
+>
+> Grim and persistent, Boba Fett studied readings through the narrow T-slit in his Mandalorian helmet. He nodded, but spoke no word into the flight recorder. Bornan Thul was not here. He would have to search elsewhere. The hunt might be long, but in the end no one could elude Boba Fett. No one.
+>
+> She leaned forward, her mouth opened in a smile that showed off her jagged teeth. “When Darth Vader hired you to find Han Solo, the bounty was quite substantial. I will pay you twice that if you find Bornan Thul and bring me my cargo. A few other bounty hunters will be searching as well—but you are the best, Boba Fett. I expect results from you.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.33–36).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:29`
+
+What it shows (our notes): Fett studies his prey and considers Raynar as a hostage.
+> Fett had studied the history and family of Bornan Thul, hoping for clues. Understanding his prey was the best way to catch it. The Alderaan noble had a wife, Aryn, who remained under heavy security on her own fleet of trade ships... a brother, Tyko, who kept himself heavily guarded in his administration facilities on the droid-manufacturing world of Mechis III . . . and one heir, his son. The young man, Raynar, had attended the best schools, studied under the most efficient tutors, and was now enrolled in Skywalker’s Jedi academy. Obviously, Bornan Thul doted on his son and gave the boy everything he desired, with the result that he had worked for nothing in his life.
+>
+> In fact, Raynar Thul might make a good hostage—if it came to that.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.38).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:30`
+
+What it shows (our notes): Fett lets Moorlu ionize his ship as a gamble, then hand-cranks his pneumatic launcher and kills Moorlu with one sight-aimed torpedo dart.
+> “I’m not a trophy yet,” Fett muttered. Planning the best way to defeat his overconfident opponent, he took a desperate gamble.
+>
+> Boba Fett allowed himself to be hit.
+>
+> The ion blast rippled against the Slave IV’s hull, frying his electrical systems, leaving him dead in space, so that he drifted around the gaseous planet, apparently helpless.
+>
+> Apparently.
+>
+> Moorlu didn’t notice the pneumatic launcher mounted at the rear weapons hatch of Slave IV.
+>
+> Boba Fett cranked the launcher by hand, using mechanical systems only. He waited patiently to take his only chance. At least the comm system had shut down, so he didn’t have to listen to Moorlu’s obnoxious gloating.
+>
+> When the ambushing bounty hunter’s ship came close enough for a ballistic launch, Fett aimed by sight and triggered the spring release. A torpedo dart filled with concussion explosives flew across space as if spat from a slingshot.
+>
+> Boba Fett’s aim was true.
+>
+> The high explosives penetrated Moorlu’s hull, ripping out the fuel pods beneath the pinwheel engines, setting up a detonation that left Moorlu dead in space. Literally dead in space.
+>
+> Fett despised bounty hunters that were too easy to kill, but he supposed it cleared the playing field of amateurs. . . .
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.41–43).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:32`
+
+What it shows (our notes): Fett repairs his systems in four hours and works out that Thul planted the wreckage.
+> It took Boba Fett four standard hours to realign his electrical systems, power them up again, and purge the bad signals from his memory banks. Moorlu’s ion cannon had done significant, but not irreparable damage.
+>
+> Finally able to get down to the business of searching for his real quarry, Fett returned to the scraps of hull metal he had found earlier. He used a tractor beam to haul the shrapnel into his cargo bay, then carefully analyzed the burned edges and each outer surface. Surprisingly, the scrap hull plates contained a sequence of identifying serial numbers, enough to prove that this debris had unquestionably come from Bornan Thul’s ship.
+>
+> No, the amount and the placement of the debris seemed too convenient, too calculated, too easy. He had found only one large piece of metal—and it just happened to contain a crucial serial number? Yes . . . convenient.
+>
+> Fett analyzed again and found that all the scraps had been carefully removed. Nothing was vital. An engine cowling could easily be replaced, and the bits of exterior hull had no doubt been stripped away from a portion of the vessel that already had double plating, or from some area that could afford to be weakened.
+>
+> Fett stood up from the pitted pieces of hull metal. Bornan Thul had planted this debris here on purpose, hoping to convince pursuers that his ship had been destroyed in the planetary rim. ... If the ruse had been successful, Nolaa Tarkona would have had no choice but to believe her cargo lost and call off the entire bounty hunt.
+>
+> Boba Fett crawled forward into the cockpit, quite pleased with himself for unraveling the ruse. This Bornan Thul was proving to be a much more challenging quarry than he had anticipated.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.43–44).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:33`
+
+What it shows (our notes): Fett blasts through the rock wall, reasons out the 'meeting' from the intercepted message, decides to use them as bait, and seals the tunnel with his blaster.
+> Stone shards exploded into powder at the center of the avalanche wall. Then, as the smoke settled and the incinerated rock cooled, a figure stepped through the opening, holding his blaster out and ready to fire. He wore scratched armor and a helmet like the ancient Mandalorian warriors had once used.
+>
+> Boba Fett.
+>
+> “I intercepted your transmission to his son. You reported that your mission was a complete success. Since Bornan Thul was a noble of Alderaan, it makes sense that he might have chosen to hide here. You must have come here to meet him. Where is the man, and where is his cargo? I must find him.”
+>
+> “You will be bait, then,” Fett said. “Perhaps Han Solo knows where Bornan Thul has gone.”
+>
+> The armored bounty hunter turned, strode through the small opening he had blasted through the rock wall. Before he disappeared back to his own ship, the bounty hunter fired his blaster at the roof of the small tunnel, bringing down a new rock slide and fusing its core.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.172–173).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:48`
+
+What it shows (our notes): Fett fires with brute force; he respects their ingenuity, detected the slicing at once, and stays flexible.
+> As if in answer to the little droid’s question, Boba Fett blasted with his laser cannons, flaming through their shields, damaging the Rock Dragon's hull plates. He fired with no finesse this time—just brute force. It seemed that he was through playing games.
+>
+> They had surprised him with their ingenuity. Given virtually no resources or training, they had freed themselves from the avalanche and repaired their ship. But if they thought they could escape from him . . . then they were much mistaken. He would never allow them to warn Bornan Thul.
+>
+> If he meant to keep from alerting his quarry to the pursuit, he could not let these others escape with the knowledge they had stolen from his computer banks. He had immediately discovered their scanning and slicing, of course, and they would have to pay the price. No one could hold that much information about Boba Fett and live.
+>
+> The young Jedi Knights had spoiled his ambush plans and warned Han Solo . . . but Boba Fett was flexible. All good bounty hunters were flexible. He would destroy this small passenger cruiser and cripple the Millennium Falcon as soon as it arrived, then proceed with the next step in his hunt for Bornan Thul.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.189–192).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:62`
+
+What it shows (our notes): Han: 'Boba Fett's the best bounty hunter there is.'
+> Han nodded. “And Boba Fett’s the best bounty hunter there is.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.204).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:69`
+
+### Limitations and anti-feats (Shards of Alderaan)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Caught with his weapons not engaged; 'no chance of evading' Moorlu's pursuit.
+> Fett’s weapons systems were not engaged. He mentally cursed himself for not having considered the danger while he’d approached the suspicious debris. If he continued to be so foolish, he deserved to die!
+>
+> As Boba Fett zipped and dodged, the attacker came on, clearly holding the upper hand. Fett tried to accelerate, ducking in and around the rocks of the planetary ring, but he knew that was merely a delaying tactic. He had no chance of evading pursuit when his attacker was this close.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 4 (p.41).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:31`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Surprised by Zekk's attack, damaged and possibly outgunned, Fett withdraws.
+> Knowing that the Rock Dragon had no functional weapons systems, Boba Fett had not been expecting an attack from any direction.
+>
+> Apparently finding himself damaged and possibly even outgunned, Fett turned about, ignited his engines, and flew away into the labyrinth of the asteroid field, where he could hide and do repairs.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.193–194).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:63`
+
 
 # CANON (Disney canon — kept separate)
 

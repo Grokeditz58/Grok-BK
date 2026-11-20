@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 70 (67 with quotations; 13 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
+- **Entries:** 72 (69 with quotations; 15 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1989,6 +1989,25 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Raynar's Force push is a s
 — Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 12 (p.102–103).
 (Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-02.md:24`
+
+## Young Jedi Knights 7: *Shards of Alderaan* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Raynar, humbled; he nudges the blocks into place with the Force.
+> Near them, balanced precariously on a wooden shelf, worked Raynar Thul. The son of a former noble from Alderaan, the boy traditionally wore garish and colorful costumes-—though at the moment his robes were dusty and dirty. It seemed that his recent ordeal had begun a change in him for the better. He had been utterly humiliated in the struggle against the Shadow Academy, thrown into the river mud and discarded as an incompetent foe. Since then, Raynar appeared more subdued and was doing his best to pitch in, as if he had become aware that perhaps he wasn’t as important and talented as he had considered himself.
+>
+> Near the base of the wall, Raynar stood on the scaffolding in his colorful, dirt-smudged robes. The young man worked close to them, but still independently, not yet ready to become a full-fledged member of the team. He stretched out his hands and closed his eyes, concentrating as he attempted to use the Force to nudge the lower blocks into a more stable position.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.4–7).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:10`
+
+What it shows (our notes): Raynar and Tenel Ka catch Jacen on a cushion of air.
+> Trying to protect the thyrsi from harm, he tumbled backward toward the floor— —only to be caught on a cushion of air just centimeters before he hit the flagstones. Jacen touched down lightly and breathed a sigh of relief. He raised his head to see Tenel Ka and Raynar standing together, locked in concentration.
+>
+> Concern was written all over the Alderaan boy’s flushed face. He swirled the sleeves of his colored robes. “Sorry I distracted you, Jacen. Are you all right?”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.91–92).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:59`
+
 
 
 

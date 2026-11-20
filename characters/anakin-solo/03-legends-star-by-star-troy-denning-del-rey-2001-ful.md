@@ -3818,6 +3818,21 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Anakin nearly falls from a
 (Full sentence/passage taken from the source text on file: `YJK03 The Lost Ones epub`; no print scan in the library, so no page numbers; e-book spacing glitches such as joined words normalized.)
 Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:72`
 
+## Young Jedi Knights 7: *Shards of Alderaan* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Anakin is good at puzzles and sees the temple's patterns in his mind; he builds a meticulous stone miniature of it.
+> “It’s a long story,” Anakin said, sweeping his straight dark bangs away from his ice-blue eyes. “You see, I had an idea for restoring the Great Temple. You know how much I like to take things apart and put them together again. I’ve always been good at puzzles.”
+>
+> “I suggested that we could treat the temple like a puzzle—sort out the pieces, then fit them back together again. I figured I could see the patterns in my mind,” Anakin continued.
+>
+> Leia carefully untied the strings and pulled back the glittering mesh that covered the gift. “Oh, Anakin. It’s beautiful,” she said, holding up a tiny stone replica of the Great Temple, a small ziggurat complete with the most meticulous details.
+>
+> “I used the hologram as a pattern. I made this out of broken stone shards from the temple, pieces crushed too finely to use in the rebuilding. It’s to remind you of what the temple will look like again, once we’re all finished.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10, 21 (p.96–213).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:63`
+
+
 
 # Debate and forum claims (unverified)
 

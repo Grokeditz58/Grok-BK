@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 243 (187 with quotations; 143 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
+- **Entries:** 252 (196 with quotations; 152 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2726,6 +2726,99 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — The rockfall is faster tha
 — Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 24 (p.205).
 (Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:53`
+
+## Young Jedi Knights 7: *Shards of Alderaan* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Fever dream: Zekk refuses the dark side and hurls his lightsaber up through the canopy.
+> Stern eyes gazed out from a serene, sculpture-perfect face in its frame of pale hair. Silvery robes rippled as Brakiss spread his arms. “How can you leave now, Zekk? After all I’ve taught you? You are my darkest knight.” A subtly powerful tone colored the evil Jedi Master’s words, a tone of disappointment... of betrayal.
+>
+> Zekk wavered. Could it be true? Was that his only way out?
+>
+> Suddenly, locking his lightsaber in the on position, Zekk hurled the scarlet blade upward with all the strength in his feverish body.
+>
+> The blade spun as it sailed higher and higher, slicing through leaves and branches on its way. The image of Brakiss disappeared in the shower of leaves, bark, and twigs that fluttered down around Zekk.
+>
+> Still the lightsaber spun higher, all the way up until it pierced the canopy of the dark jungle. The outside rain came pouring down. Zekk had just enough time to feel the patter of cool droplets on his burning skin before a tumbling branch struck his head and a corona of brightness burst behind his emerald-green eyes. . . .
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.17–19).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:19`
+
+What it shows (our notes): Zekk: 'I've known real power and used it. I've killed face-to-face.'
+> “Maybe you can’t understand where I’ve been... or what I’ve been. I’m not an innocent anymore. I’ve known real power and used it. I’ve killed face-to-face and been proud of it. That’s not something I can forget.”
+>
+> “I can’t erase everything and go back to what I was,” Zekk said. His voice dropped to a whisper. “Even if it were possible, I’m not sure I’d do it. I can’t just pretend that nothing’s changed.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 5 (p.55).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:39`
+
+What it shows (our notes): Zekk's knack for finding things was the Force, Brakiss taught him; it got him off Ennth; the shadow-blot remains.
+> Zekk drifted out of the Yavin system, reveling in his freedom, the freedom to sever ties with his troubled past. He could create a new life for himself, start over and do things right this time—if only he could escape from the shadow-blot that continued to fill him, no matter how much light he tried to draw in.
+>
+> Luck. He’d always had a knack for finding things, choosing the right path. It had seemed a coincidence back then, but Brakiss had taught Zekk that he had an aptitude for using the Force. It had helped Zekk escape from Ennth.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 8 (p.80–82).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:53`
+
+What it shows (our notes): Zekk feels Ennth's tremors partly through the Force; he works harder than ever for days of evacuation.
+> Partly through the Force and partly through his own nerve endings, Zekk felt the ground trembling beneath his feet, as if he stood on a bomb just waiting to explode.
+>
+> For the next few days, Zekk worked harder than he ever had in his life, filling the Lightning Rod's cargo holds to capacity and flying up to the refugee stations in orbit. He got to know some of the supply runners as well as several of the colonists. Many claimed to remember him as a child; others didn’t, but welcomed him anyway.
+>
+> Shinnan stepped to the doorway of the command center. Zekk followed her, ready to offer his help, though his arms and legs felt ready to drop off. Utterly exhausted, he still felt exhilarated by how much they had accomplished despite seemingly impossible odds. Though they had suffered casualties, Ennth had been successfully evacuated.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 12 (p.117–122).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:15`
+
+What it shows (our notes): Zekk resolves to follow the light side of the Force and trust it.
+> He flew on, his eyes and mind grimly focused forward. He would follow the Force now—the light side—letting it direct him. He would bounce from place to place until he found his destiny.
+>
+> He knew that if he trusted the Force, he couldn’t go wrong.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 15 (p.153).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:34`
+
+What it shows (our notes): Zekk chased Fett into hyperspace and scored hits; he will be a bounty hunter, 'the best there ever was'.
+> “We’ll be safe for the moment,” Zekk said, as if reluctant to step too far from his ship. “I followed Boba Fett until he dodged into hyperspace. I scored a few solid hits before his ship escaped. Don’t know how much damage I caused, but I think he’ll need to make some repairs himself before he tries to come back.”
+>
+> “Maybe the best—until now,” Zekk said. He had been quiet, absorbing information. Han’s eyebrows went up, and he glanced curiously at the dark-haired teenager.
+>
+> Zekk raised his chin. “I’ve been to the Jedi academy, and I don’t belong there. I just went back to my home planet, Ennth, and now I’m sure that’s not the place for me either. I need to go in a new direction.” He glanced past the others, locking his gaze on Jaina’s eyes. “So I’ve decided to try my hand at being... a bounty hunter. I plan to be the best there ever was.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.203–204).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:70`
+
+What it shows (our notes): Zekk has Force skills other bounty hunters lack; letting the Force guide him, he felt Jaina was in trouble.
+> “I have friends,” Zekk said firmly. “I’m not looking to make many new ones. Besides, I still have some skills in the Force that other bounty hunters don’t have. And I think I’d be good at it.
+>
+> “That’s how I found you here, you know,” Zekk went on. “Jaina, remember when you told me that you were thinking of coming here, to the Alderaan rubble field? I didn’t give it a second thought. But when I was drifting away from Ennth, trying to figure out where to go, letting the Force guide me, I got a strange and powerful feeling that you were in trouble. That’s why I came, at the Lightning Rod's top speed. Good thing, too.”
+>
+> Zekk’s brows drew together, and his emerald eyes darkened as if he were fighting some internal battle. Then, as quickly as it had come, the inner storm passed, and he stood straight again, his smile bright.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.205–206).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:71`
+
+### Limitations and anti-feats (Shards of Alderaan)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Some injuries a bacta tank can't heal: Zekk's relapse and days in a coma.
+> “You gave us all a pretty big scare, you know,” Jacen said. “We thought you were just fine after a day or two in the bacta tank on GemDiver Station, but when we got back here to Yavin 4, you collapsed. You’ve been in a coma for days now. Uncle Luke says there are some injuries a bacta tank just can’t heal.” Jacen’s brows drew together over his brandy-brown eyes, and he ran a hand through his tousled curls. “Blaster bolts, for a while there we weren’t sure you were going to make it.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 2 (p.20).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:20`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Zekk's premonition about Shinnan through the Force; he has avoided his powers for fear of the dark side and can't reach her in time.
+> Zekk raced after her, feeling a powerful dread grow within him. He wondered if it was just his imagination... or an echo of premonition through the Force. He had been avoiding using his Jedi powers since the Shadow Academy’s defeat, afraid he would be too tempted to make use of the dark side again.
+>
+> But now he definitely sensed the athletic dark-haired woman was in grave danger. As she dashed inside the shaking building, Zekk ran toward her, but his legs wobbled and jerked as the ground bounced beneath him like a vibrodrum.
+>
+> With a great seismic heave, the ground split in front of Zekk like a torn sheet of paper. He toppled to the cobblestones as the fissure widened, trembled, then stopped. Zekk looked up, getting himself to his hands and knees, ready to jump across the meterwide crack that hung open like a yawning, jagged mouth.
+>
+> As the tremors subsided, Zekk finally got back to his feet. He jumped across the broken fissure and staggered to the ruins of the building. “Shinnan!” he called out.
+>
+> Zekk strove with his mind, trying to find some trace of Shinnan. “Are you there? Can you hear me?” But only a cold, disturbing silence came back at him. . . .
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 12 (p.123–124).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:17`
+
 
 
 

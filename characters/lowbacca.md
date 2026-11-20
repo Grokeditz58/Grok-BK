@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 143 (129 with quotations; 96 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
+- **Entries:** 146 (132 with quotations; 99 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1868,6 +1868,35 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Lowie dives after the fall
 — Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.186).
 (Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:33`
+
+## Young Jedi Knights 7: *Shards of Alderaan* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Lowie moves with an easy grace, hauling the adhesive pallet.
+> From above, Lowbacca grunted and reached down to haul up a pallet of stone adhesives that would cement the construction materials together. Moving with an easy grace, the lanky, ginger-furred Wookiee swung down from a carved rock ledge onto the scaffolding. He parted his lips and bared his teeth at Tenel Ka in a broad smile.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.6).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:11`
+
+What it shows (our notes): Lowie swings down a vine to rescue Raynar from the collapsing wall.
+> “Lowbacca!” Tenel Ka cried—and the Wookiee saw the boy’s danger the moment she did. She leaped out into open space, somersaulting as the wall shuddered and began to break apart.
+>
+> Tenel Ka landed on a support strut right beside Raynar. The boy whirled about, sensing his peril but not knowing what to do. Above her Tenel Ka saw Lowbacca grasp one of the vines attached to the scaffolding. He swung down, yowling a primal battle challenge.
+>
+> With only one arm Tenel Ka could not grab Raynar and swing herself clear of the falling rocks. Thinking quickly, she did the next best thing: she tackled Raynar backward just as Lowie came careening down toward them. Still holding on to the vine, the Wookiee slammed into the brightly robed young man, scooped him up, and whisked him away.
+>
+> As Lowbacca dove aside, rocks crashed, tumbled, fell. Tenel Ka lunged out of the way, sprang down to the next level, and swung herself to the ground. Then she leaped forward with all her might, just one step ahead of the crushing stone blocks. Though normally grim and serious, she let out an exhilarated cry that rose above the clatter of the collapsing wall. She heard Lowbacca roar in triumph, too, having landed safely with the other Jedi trainee.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.9–10).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:14`
+
+What it shows (our notes): In the ambush Lowie reacts 'with his Jedi senses' and shoots into the asteroid field.
+> The first set of high-energy bolts streaked by, heating up the edges of their shields. Luckily, because of all the space debris, Lowie had already set the shields to maximum as a simple precaution. He roared in alarm. The other young Jedi Knights cried out, trying to hold on through the concussion. Another laser blast hammered against their shields.
+>
+> The Wookiee reacted quickly with his Jedi senses, yanking at the ship’s propulsion controls. Reeling the Rock Dragon away, he employed an unorthodox strategy and shot straight up into the heart of the asteroid field.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.138).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:27`
+
 
 
 

@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 309 (238 with quotations; 199 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read).
+- **Entries:** 322 (251 with quotations; 212 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2702,6 +2702,135 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — Tenel Ka's injuries from t
 — Source: Young Jedi Knights 6: Jedi Under Siege (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 21 (p.184–186).
 (Full sentence/passage taken from the source text on file: `YJK06 Jedi Under Siege OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/178-yjk-06-jedi-under-siege/jus-03.md:33`
+
+## Young Jedi Knights 7: *Shards of Alderaan* (Kevin J. Anderson & Rebecca Moesta, 1997): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): On the scaffolding Tenel Ka takes an acrobat's balance; the lesson of the sloppy lightsaber that cost her arm.
+> The scaffolding creaked beneath Tenel Ka’s bare feet, and she adjusted her balance, feeling her muscles ripple. Physical exercise always felt good, challenging, refreshing. Today she did not assume a fighting stance, but a careful acrobat’s posture that allowed her to scramble along the narrow log platform to the wall’s outermost stone blocks.
+>
+> While some of the larger stones at the bottom of the rebuilt wall looked less stable, she knew her own layers of the reconstruction were solid. She had learned to pay careful attention to details, lest her own actions strike back at her. The sloppy and hurried construction of her first lightsaber caused it to explode during a practice session, and she had lost her arm. Now she knew mistakes could cost her life.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.6).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:11`
+
+What it shows (our notes): Tenel Ka on Raynar's importance versus skills; she avoids the Force when she can, but all skills are resources.
+> Tenel Ka was pleased to see Raynar working to improve himself. In her experience of watching him, the overconfident Raynar had usually demonstrated more interest in his importance as a Jedi than in acquiring demonstrable Jedi skills.
+>
+> In general, Tenel Ka herself chose not to use the Force if she could find any other way to solve her problems . . . though after her left arm had been severed, she had come to realize that all skills made up a person’s resources, not just their physical or mental abilities.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.8).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:13`
+
+What it shows (our notes): Tenel Ka senses the ronto accident a moment early, somersaults to Raynar, tackles him into Lowie's swing and outruns the falling blocks.
+> Tenel Ka froze, sensing the trouble a moment before it happened. Trumpeting in distress, the ronto twitched its tail in agitation. The reptilian beast turned halfway around and clumsily bumped into the scaffolding supports that ran along one of the temple walls. Several Jedi trainees shouted and scrambled for cover.
+>
+> “Lowbacca!” Tenel Ka cried—and the Wookiee saw the boy’s danger the moment she did. She leaped out into open space, somersaulting as the wall shuddered and began to break apart.
+>
+> Tenel Ka landed on a support strut right beside Raynar. The boy whirled about, sensing his peril but not knowing what to do. Above her Tenel Ka saw Lowbacca grasp one of the vines attached to the scaffolding. He swung down, yowling a primal battle challenge.
+>
+> With only one arm Tenel Ka could not grab Raynar and swing herself clear of the falling rocks. Thinking quickly, she did the next best thing: she tackled Raynar backward just as Lowie came careening down toward them. Still holding on to the vine, the Wookiee slammed into the brightly robed young man, scooped him up, and whisked him away.
+>
+> As Lowbacca dove aside, rocks crashed, tumbled, fell. Tenel Ka lunged out of the way, sprang down to the next level, and swung herself to the ground. Then she leaped forward with all her might, just one step ahead of the crushing stone blocks. Though normally grim and serious, she let out an exhilarated cry that rose above the clatter of the collapsing wall. She heard Lowbacca roar in triumph, too, having landed safely with the other Jedi trainee.
+>
+> Trembling and panting from the exertion, her heart pounding in her ears, Tenel Ka watched with relief as the last stones pattered down. Lowie stayed close to Raynar, who huddled on the ground trying to regain his composure. The young man brushed off his robes and managed a shaky smile as other Jedi came running to make sure no one had been hurt.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 1 (p.8–10).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:14`
+
+What it shows (our notes): Tenel Ka trained her body to endure; she does no less one-armed and was an excellent gymnast, swimmer and climber.
+> A SOFT RAIN fell outside the Jedi academy, so gentle that Tenel Ka hardly noticed it. Clothed only in her lizard hide outfit, she had long ago trained her body to endure variations in her environment, refusing to let anything distract her from important matters. Focused on restoring the damaged practice courtyard beside the Great Temple, the warrior girl moved swiftly about her tasks.
+>
+> Even without her left arm, Tenel Ka never assumed she should do less work than the others. The need to pull her own weight was too much a part of her personality for her to consider anything else. Tenel Ka acknowledged that her pride had been a major cause of the lightsaber accident, and she had come to view the loss of her arm as a test of her mettle, a challenge to her persistence.
+>
+> Tenel Ka had been an excellent gymnast, swimmer, and climber when she’d had both hands, and now she refused to let her missing limb stop her from doing the things she enjoyed. That meant she had to find alternative approaches and solutions. Her friends understood this; Lowbacca, the twins, and sometimes even their little brother Anakin worked at finding novel ways to help her overcome various obstacles.
+>
+> Strangely, these small victories had become a source of secret enjoyment for her. Whenever a situation arose that normally required the use of two arms, Tenel Ka challenged herself to find another way to accomplish the task—such as resetting some of these flagstones in the practice courtyard.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 3 (p.23–24).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:24`
+
+What it shows (our notes): Tenel Ka lands perfectly balanced; she senses Jaina's conflicting emotions.
+> Tenel Ka jumped down next to Lowie, landing with her feet spread, perfectly balanced.
+>
+> Tenel Ka must have sensed some of Jaina’s conflicting emotions.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 7 (p.70–75).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:49`
+
+What it shows (our notes): Tenel Ka and Raynar catch the falling Jacen on a cushion of air.
+> Jacen was just clambering down to the next level of the scaffolding. “Hey, Dad didn’t tell us he was coming back again so soon—” He loosened his hold for only a moment, but his balance was off. Trying to protect the thyrsi from harm, he tumbled backward toward the floor— —only to be caught on a cushion of air just centimeters before he hit the flagstones. Jacen touched down lightly and breathed a sigh of relief. He raised his head to see Tenel Ka and Raynar standing together, locked in concentration.
+>
+> Tenel Ka stretched out her arm and helped Jacen to his feet. “It takes a good deal of practice,” she said, “to climb with only one hand.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 9 (p.91–92).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-01.md:59`
+
+What it shows (our notes): At Alderaan Tenel Ka senses the ghosts of many life forces obliterated at once, like echoes.
+> “This place has a strong . . . feel to it,” Tenel Ka said. “As if I sense the ghosts of . . . many life forces obliterated at once.”
+>
+> Jacen nodded. “Uncle Luke talks about how there was a great disturbance in the Force when Alderaan was destroyed.”
+>
+> “I still feel a disturbance,” Tenel Ka said. “Like echoes.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 11 (p.108).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:10`
+
+What it shows (our notes): Tenel Ka reads Fett's plan to disable them and blinds him with the decoy-gas and shrapnel canisters.
+> “He certainly has the capability” Tenel Ka said. “However, our opponent seems to be targeting us precisely. Perhaps he wishes to avoid errors. Ah, aha—he hopes to disable us.”
+>
+> “Perhaps we do,” Tenel Ka said. She crept to the armaments control panel. “I think I know what this system is for. Find a hiding place,” she said, “and head there on my mark.”
+>
+> The attacking ship fired again, still making no effort to communicate with them. His blow struck its target, damaging the Rock Dragon's underbelly as well as their second rear engine pod—but as the blow seared against their hull plates, Tenel Ka punched a release lever.
+>
+> Canisters of ionized decoy gas and shrapnel sprayed out of their aft cargo hatch, detonating in a fireball that washed across their pursuer’s screens, almost certainly blinding him.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.142–143).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:29`
+
+What it shows (our notes): Tenel Ka reads Fett's aim (trap, not kill), guesses Ta'a Chume fitted a remote slicer, and advises against revealing it.
+> Tenel Ka shook her head. “No, I believe his strategy was to trap us, not to kill. He wants something from us . . . though he refuses to communicate directly.”
+>
+> “Of course,” Tenel Ka said, raising her eyebrows and tossing her head to fling her reddish-gold braids behind her, “a certain powerful high roller helped to outfit this ship—and my grandmother always plans for many . . . contingencies.”
+>
+> “Using the Rock Dragon's remote slicer would not be a wise idea at the moment,” Tenel Ka said. “If we did, our enemy would know we were alive—and that we had background information—just as we can see he’s probing us now.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 17 (p.167–169).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:45`
+
+What it shows (our notes): Tenel Ka's experience with assassins and conspiracies ties Nolaa Tarkona to Bornan Thul's disappearance.
+> Tenel Ka raised her eyebrows. “Recall what your father told Raynar. Bornan Thul was on his way to a trade conference when he disappeared. At the conference, he was scheduled to meet with Nolaa Tarkona, a Twi’lek woman—one of the few females of that species ever to rise to political prominence. My experience with assassins and conspiracies indicates this connection is not entirely coincidental.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.179).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:52`
+
+What it shows (our notes): 'Our muscles can do much of the work. The Force will do the rest': Tenel Ka throws rocks one-handed in low gravity and hacks rock wedges with her lightsaber like a battle-ax.
+> Jacen groaned, but Tenel Ka gripped his shoulder. “We will do whatever is necessary to get the job done. If Boba Fett believes us to be permanently trapped, I will be pleased to prove him wrong.”
+>
+> “We will clear the way,” Tenel Ka said confidently. “Our muscles can do much of the work. The Force will do the rest.”
+>
+> Tenel Ka gestured with her glowrod to the side of the cave-in, where the rock had fallen in easily manageable chunks and pebbles. Jacen moved over to the pile and experimentally hefted a chunk of rock twice the size of his head. In the low gravity, it seemed to weigh no more than a gort-feather pillow. Tenel Ka picked up a similar-sized rock with her one hand and tossed it aside with no problem.
+>
+> Next they experimented with using the Force to nudge aside larger pieces of rock while shoving away mounds of loose pebbles with their gloved hands. Though the air in the cave was as frigid as a night on Hoth, they both soon worked up a sweat.
+>
+> When they had opened an area a meter deep beside the fused stone core, Tenel Ka climbed atop the rubble and withdrew her rancor-tooth lightsaber. Then, igniting the brilliant turquoise blade, she used it like a battle-ax to hack off a massive wedge of rock. Jacen caught the slab with the Force and diverted it quickly to one side while Tenel Ka sliced off another wedge, as if she were manipulating a machete to chop her way through a dense jungle.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 18 (p.181–183).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:54`
+
+What it shows (our notes): Tenel Ka quotes Luke: a Jedi uses the skills she possesses, not the resources she wishes she had.
+> “This is a fact,” Tenel Ka said, “but Master Skywalker taught us that a Jedi makes use of the skills she possesses—not the resources she wishes she had.”
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.187).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:60`
+
+What it shows (our notes): Tenel Ka senses that Fett has withdrawn, though not how far; she picks up Jacen's emotions.
+> “I sense that the bounty hunter has withdrawn,” Tenel Ka answered, “but I cannot be certain how far or for how long.”
+>
+> Tenel Ka turned to him and quirked an eyebrow as the craft settled to the ground. “Yavin 4 does seem beautiful,” she said, looking at him with a surprised expression, tossing red-gold braids away from her face. Jacen wondered if she had picked up on his emotions.
+— Source: Young Jedi Knights 7: Shards of Alderaan (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20, 21 (p.197–209).
+(Full sentence/passage taken from the source text on file: `YJK07 Shards of Alderaan print scan text layer (1997 Boulevard paperback)`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/179-yjk-07-shards-of-alderaan/soa-02.md:67`
+
 
 
 
