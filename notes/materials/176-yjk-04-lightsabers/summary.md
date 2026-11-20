@@ -31,55 +31,55 @@
 ## Strongest findings by character (tagged; full detail in ls-01…05)
 
 ### Tenel Ka
-- Warrior-over-weapon creed (STATEMENT, later renounced): "Yes, she decided, the warrior was what mattered, not the weapon." (LS ch. 3, p.28) ""This is not a fact," Tenel Ka said, frowning. "My own pride caused the accident. I believed my fighting prowess could compensate for any deficiency of my weapon. I foolishly believed that the quality of the energy blade was insignificant compared with the quality of the warrior. This was also not a fact."" (LS ch. 13, p.118)
-- ANTI-FEAT/LIMITATION (flawed build; the arm lost): "She frowned again when she noticed on close inspection that each of her hazy crystals contained a tiny flaw. She suppressed another yawn and shook her head in resignation. Well, she didn't have much choice. There hadn't been time to examine the crystals more carefully in the searing lava tube, and now it was too late to search for more." (LS ch. 3, p.34) "The power source in Tenel Ka's lightsaber gave a shriek of electrical overload—and the blade winked out like a snuffed candle. Sparks and smoke poured from the end of the handle where an energy blade should have glowed." (LS ch. 5, p.56) "Tenel Ka felt a line of blazing agony sweep across her arm just above the elbow. It burned . . . and yet below the burn she felt only a sickening, horrible coldness—a bone-deep chill like none she had ever felt before." (LS ch. 5, p.57)
-- FEAT (remote cleaved by ear and Force; duel with Jacen): "Through the red filter Jacen watched as she parried one of the lasers and leaped upward with all her might, using her lightsaber like a cleaver. A shower of sparks erupted and a smoking hole appeared in midair. Jacen heard a thunk as pieces of Tenel Ka's remote fell useless to the jungle floor." (LS ch. 4, p.44) "But Tenel Ka leaped lightly backward over the boulders and landed on the other side, her legs planted firmly in a fighting stance. Suddenly foiled, Jacen stumbled and fell toward her, almost hitting the rocks himself. He came up sputtering in disbelief." (LS ch. 5, p.54)
-- FEAT (Force-flings the droid arm): "7 said NO! " Tenel Ka quite consciously used the Force to yank the contraption free and fling it with blinding speed against the nearest wall. It hit the stones with a clang and a crunch and fell in pieces to the cold tile floor." (LS ch. 10, p.92)
-- FEAT (wins a real swimming race one-armed): "From the surprised expression on his face, she knew their competition had been real: he had not "allowed" her to win." (LS ch. 14, p.133)
-- SKILL (first ruling, the Mairan case): ""Yes, Ambassador, the entire ocean is available," she said as the wind whipped her hair about like red-gold flames, "but it is you who chose to bring about this dispute. You erected your consulate after you knew for certain that the Vergills would desire to mine that very same spot."" (LS ch. 15, p.144)
-- FEAT (seaweed; Bartokks; the rappel): "Tenel Ka suddenly appeared beside them. Wrapping her legs around the deck rail, one of her throwing knives gripped tightly in her hand, she bent to slash at the tentacle that grasped Jacen's arm. The seaweed cut free with a snap, and in the recoil Lowbacca managed to yank Jacen back onto the deck." (LS ch. 16, p.156) "Using all the muscles in her single arm, she jabbed with her spear, plunging it through the body core of the left assassin. Its upper four arms flailed in reflex, trying to bat the weapon out of Tenel Ka's grip—but she twisted the long blade, ripping it sideways. The insect's hard exoskeleton cracked and split open, spilling thick greenish-blue goop onto the stone floor. She yanked the spear free as the Bartokk clattered to the flagstones," (LS ch. 19, p.189) "The dangerous climb may have been more difficult and awkward with her handicap, but Tenel Ka did not seem the least bit hesitant. Despite her usual reluctance to use the Force, she took advantage of it this time without reservation." (LS ch. 20, p.198–199) "Using the Force to control her own fall, Tenel Ka landed heavily on her feet, but without injury." (LS ch. 20, p.199)
-- Resolution (STATEMENT; turquoise rainbow-gem lightsaber): "Wincing at the thought, she was compelled to acknowledge that she had actually gained wisdom from the loss of her arm. She knew now that she had to use every ability she possessed—including her talent with the Force—to become the best possible Jedi." (LS ch. 21, p.213) "A blade of sizzling energy sprang from the ivory hilt, glowing a rich turquoise, produced by the rainbow gems she had installed from her tiara." (LS ch. 21, p.215)
-- LORE (full name): ""Very well, Princess Tenel Ka Chume Ta' Djo." (LS ch. 15, p.142)
+- Warrior-over-weapon creed (STATEMENT, later renounced) (LS ch. 3, p.28; LS ch. 13, p.118)
+- ANTI-FEAT/LIMITATION (flawed build; the arm lost) (LS ch. 3, p.34; LS ch. 5, p.56; LS ch. 5, p.57)
+- FEAT (remote cleaved by ear and Force; duel with Jacen) (LS ch. 4, p.44; LS ch. 5, p.54)
+- FEAT (Force-flings the droid arm) (LS ch. 10, p.92)
+- FEAT (wins a real swimming race one-armed) (LS ch. 14, p.133)
+- SKILL (first ruling, the Mairan case) (LS ch. 15, p.144)
+- FEAT (seaweed; Bartokks; the rappel) (LS ch. 16, p.156; LS ch. 19, p.189; LS ch. 20, p.198–199; LS ch. 20, p.199)
+- Resolution (STATEMENT; turquoise rainbow-gem lightsaber) (LS ch. 21, p.213; LS ch. 21, p.215)
+- LORE (full name) (LS ch. 15, p.142)
 
 ### Jacen Solo
-- ANTI-FEAT (severs Tenel Ka's arm): "Suddenly, encountering no resistance as Jacen thrust with his last reserves of strength, the emerald-green lightsaber sliced through the opening where Tenel Ka's own blade had been just a moment before—plunging down to the only thing that stood in its way." (LS ch. 5, p.56–57)
-- STATEMENT (guilt): "Blaster bolts! She only has one hand now, and I'm the one who's responsible."" (LS ch. 7, p.67)
-- FEAT (ricochet caught by instinct): "He responded without conscious thought, using the Force and flowing with it, somehow knowing what to do as he shifted his own blade sideways just enough to catch the diverted bolt. The deflected blast bounced up into the trees, where it fried a fistful of leaves." (LS ch. 4, p.43)
-- LIMITATION (cannot reach the seaweed's mind): ""I can't find its brain," he said. "It seems to be all reflexes. All I can sense is that it's hungry, hungry" (LS ch. 16, p.159)
-- Tenel Ka laughs at last: "His mouth dropped open in amazement as Tenel Ka burst into peals of laughter." (LS ch. 13, p.119)
+- ANTI-FEAT (severs Tenel Ka's arm) (LS ch. 5, p.56–57)
+- STATEMENT (guilt) (LS ch. 7, p.67)
+- FEAT (ricochet caught by instinct) (LS ch. 4, p.43)
+- LIMITATION (cannot reach the seaweed's mind) (LS ch. 16, p.159)
+- Tenel Ka laughs at last (LS ch. 13, p.119)
 
 ### Jaina Solo
-- SKILL/FEAT (grows her own crystals with the Force): "She drew on her Force powers, amplifying her vision to observe the chemicals interacting, to watch them bond into a tight, organized lattice." (LS ch. 2, p.20)
-- FEAT (leap over Lowie): "Summoning a burst of energy, she astonished the Wookiee by leaping high into the air up to the level of Lowie's head. His lightsaber swept harmlessly beneath her, and she landed lightly on the weed-covered ground behind him, laughing and panting." (LS ch. 4, p.48)
-- ANTI-FEAT (panic; drops her lightsaber): "With a cry, Jaina switched off her weapon and dropped it to the flagstones, backing away from it as if it had turned into a krayt dragon." (LS ch. 9, p.85)
-- FEAT (the Dragon's Teeth run; Force-sensed dodge): "Unconsciously ducking her head as they streaked between the black rocks, she canted the wave-speeder to fit through the narrow gap. The hiss of their passage boomed and echoed, and a fine cold spray splashed them all." (LS ch. 20, p.203) "but Jaina, sensing the impending bolt through the Force, rocked the wavespeeder to the left." (LS ch. 20, p.206)
+- SKILL/FEAT (grows her own crystals with the Force) (LS ch. 2, p.20)
+- FEAT (leap over Lowie) (LS ch. 4, p.48)
+- ANTI-FEAT (panic; drops her lightsaber) (LS ch. 9, p.85)
+- FEAT (the Dragon's Teeth run; Force-sensed dodge) (LS ch. 20, p.203; LS ch. 20, p.206)
 
 ### Lowbacca / Em Teedee
-- LOWBACCA FEAT: "With a roar, Lowbacca left his post at the rattling door and grasped the remaining Bartokk, lifting it bodily off the floor. Its many sharp arms thrashed as Lowie pushed forward to the high open window and heaved the creature over the ledge. The assassin tumbled nearly thirty meters to splatter on the jagged reef far below." (LS ch. 19, p.192) "Lowbacca roared and with lightning-fast reflexes dropped the end of the severed rope, held out his arms, and caught the old matriarch as she plunged." (LS ch. 20, p.199)
-- LOWBACCA SKILL (sabotage spotted): "he hypothesizes that this wavespeeder was purposely sabotaged."" (LS ch. 16, p.161)
-- EM TEEDEE: ""Oh, my," said Em Teedee, who just an hour earlier had downloaded the Mairan language from the fortress databanks. "This is quite exciting!"" (LS ch. 15, p.140)
+- LOWBACCA FEAT (LS ch. 19, p.192; LS ch. 20, p.199)
+- LOWBACCA SKILL (sabotage spotted) (LS ch. 16, p.161)
+- EM TEEDEE (LS ch. 15, p.140)
 
 ### Luke Skywalker / Tionne
-- LUKE STATEMENT: ""Remember," Luke cautioned, "a Jedi fights only as a last resort. If you are forced to draw your lightsaber, you have already forfeited much of your advantage. A Jedi trusts the Force and at first seeks other ways to resolve problems: patience, logic, tolerance, attentive listening, negotiation, persuasion, calming techniques." (LS ch. 4, p.45–46) "I remember thinking that maybe I had just taken another step toward becoming more like my father, like Darth Vader—partly alive, but partly a machine." (LS ch. 7, p.68)
-- LUKE FEAT: "Using the Force to slow himself just enough for a hard landing, he rebounded and pushed off toward the nearest vine." (LS ch. 1, p.2) ""I didn't use a transmitter," he said. "I called her through the Force." (LS ch. 13, p.115)
-- LUKE ANTI-FEAT (Gantoris): ""My first true failure as a teacher was another student named Gantoris. He built his lightsaber in only a few intense days, following instructions given to him by the evil spirit of Exar Kun. Gantoris thought he was ready, and my mistake was not seeing what he was up to." (LS ch. 2, p.19)
-- TIONNE (Nomi Sunrider): "By learning to accept this, she became a great Jedi Master and a great warrior."" (LS ch. 9, p.86)
+- LUKE STATEMENT (LS ch. 4, p.45–46; LS ch. 7, p.68)
+- LUKE FEAT (LS ch. 1, p.2; LS ch. 13, p.115)
+- LUKE ANTI-FEAT (Gantoris) (LS ch. 2, p.19)
+- TIONNE (Nomi Sunrider) (LS ch. 9, p.86)
 
 ### Zekk / Brakiss / Vilas / Tamith Kai / Qorl / Norys / the Emperor's hologram
-- BRAKISS FEAT/LIMITATION: "The dark teacher was manipulating the starfire itself!" (LS ch. 6, p.61) ""I don't know," he said. "And I don't believe I ever want to try."" (LS ch. 6, p.61)
-- ZEKK lightsaber (gift, dark-side attuned): ""It has already been attuned for use by the dark side."" (LS ch. 6, p.63)
-- ZEKK FEAT (kills Vilas): "Then, with a flash of smoke and a terrible stench, the bright energy blade cleaved through flesh and bone, cauterizing as it went. Vilas made a choking, gurgling sound and continued his tumbling flight through the air—but now his body moved in two separate, smoking pieces." (LS ch. 18, p.182) "Zekk knew he had taken one giant step farther down the road to the dark side. He raised his head, speechless, as the voice of Brakiss echoed through the zero-gravity chamber, drowning out the praise of the onlookers." (LS ch. 18, p.182)
-- VILAS FEAT: "Vilas's blazing blade sliced completely through the meteoroid, leaving each chunk of tumbling rock with a flat edge that was so smooth it looked like a molten mirror." (LS ch. 18, p.179)
-- TAMITH KAI and BRAKISS STATEMENTS: ""Vilas is much more ruthless. I have trained him. Vonnda Ra has trained him. Even Garowyn has trained him." (LS ch. 18, p.177) "If we allowed the loser to live, he would always resent the rule of the other—perhaps even try to undermine his authority. No, it is better that we see who is the stronger."" (LS ch. 18, p.178)
-- QORL: "This type of contest is an utter waste—no matter what the outcome, we still lose our second-best trainee, someone far superior to any of the others we keep."" (LS ch. 18, p.177) ""but you must remember— mynocks don't shoot back."" (LS ch. 12, p.109)
-- NORYS: "Gradually, his shooting improved. He learned how to aim. He had learned how to be deadly." (LS ch. 12, p.108)
-- The Emperor's hologram: ""You are my Darkest Knight, Zekk. I have chosen you to personally lead my Jedi into battle against Skywalker's Jedi academy."" (LS ch. 18, p.183)
+- BRAKISS FEAT/LIMITATION (LS ch. 6, p.61; LS ch. 6, p.61)
+- ZEKK lightsaber (gift, dark-side attuned) (LS ch. 6, p.63)
+- ZEKK FEAT (kills Vilas) (LS ch. 18, p.182; LS ch. 18, p.182)
+- VILAS FEAT (LS ch. 18, p.179)
+- TAMITH KAI and BRAKISS STATEMENTS (LS ch. 18, p.177; LS ch. 18, p.178)
+- QORL (LS ch. 18, p.177; LS ch. 12, p.109)
+- NORYS (LS ch. 12, p.108)
+- The Emperor's hologram (LS ch. 18, p.183)
 
 ### Ta'a Chume / Yfra / Tenel Ka's parents
-- TA'A CHUME STATEMENT: "After all, unlike the weapons of battle, wielding political power does not require the use of both arms."" (LS ch. 8, p.79) ""The second shot . . . well, sometimes it is preferable not to be taken alive."" (LS ch. 20, p.204)
-- TA'A CHUME FEAT: "This time the energy bolt struck one of the Bartokk repulsorpods squarely." (LS ch. 20, p.207) ""Aha! But no distress signal was sent." (LS ch. 20, p.209)
-- YFRA (manipulator; caught): "The ruthless henchwoman was a skilled manipulator." (LS ch. 8, p.75) ""I simply responded to the distress call sent out from Reef Fortress, of course."" (LS ch. 20, p.209)
-- TENENIEL DJO and ISOLDER: ""You have powerful legs, fast reflexes, and you still have your better fighting arm." (LS ch. 21, p.212) ""Never be ashamed of what you are—or who you are."" (LS ch. 21, p.212)
+- TA'A CHUME STATEMENT (LS ch. 8, p.79; LS ch. 20, p.204)
+- TA'A CHUME FEAT (LS ch. 20, p.207; LS ch. 20, p.209)
+- YFRA (manipulator; caught) (LS ch. 8, p.75; LS ch. 20, p.209)
+- TENENIEL DJO and ISOLDER (LS ch. 21, p.212; LS ch. 21, p.212)
 
 ## Scale and limits worth noting
 - Lightsabers: a blade lock with a flawed weapon overloaded its power source, and Jacen's blade passed straight through the arm (ch. 5). Zekk's blade cuts Vilas in two, and Vilas's blade slices a meteoroid with a mirror-smooth cut (ch. 18). The remotes' low-power lasers sting (ch. 4).

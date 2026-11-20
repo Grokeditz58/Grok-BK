@@ -9,3 +9,6 @@ Status: DONE. Stamp: 2026-11-20 CST.
 - Citations: "LS ch. N, p.X" with the printed page numbers of the Boulevard paperback (March 1996). Front matter and back cover cite the scan page.
 - Numbering: the highest existing folder in notes/materials was 175, so this folder is 176.
 - Not done here: character-file routing is tracked in notes/INDEX.md and characters/INDEX.md. The Darkest Knight preview is not routed from this book.
+
+
+- Scope trim 2026-11-20: see README (scaling-relevant passages only; line numbers kept; character files unchanged).

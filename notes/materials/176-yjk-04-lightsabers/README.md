@@ -29,3 +29,13 @@ Method:
 | COVERAGE.md | Stamp, coverage, density, checks |
 
 Chapter starts (READ line): ch1 l.132; ch2 l.232; ch3 l.293; ch4 l.352; ch5 l.453; ch6 l.519; ch7 l.568; ch8 l.628; ch9 l.680; ch10 l.727; ch11 l.765; ch12 l.809; ch13 l.896; ch14 l.990; ch15 l.1056; ch16 l.1142; ch17 l.1264; ch18 l.1311; ch19 l.1419; ch20 l.1498; ch21 l.1638; back matter l.1692.
+
+
+## Scope trim (2026-11-20 CST)
+
+Under the owner's scope ruling of 2026-11-20, these notes were trimmed in place to scaling-relevant material only: feats of every kind (Force, lightsaber, strength, durability, speed, reflexes, agility, stamina, pain tolerance, marksmanship, hand-to-hand, tech and tactics, senses), statements about characters, narrative portrayal, and anti-feats and limitations. Plot bullets stay, so the story can still be followed.
+- Passages with nothing scaling-relevant (scenery, jokes, filler dialogue, front matter and ads) were removed. Each run of them is marked "(Passages here were read but are not quoted: not scaling-relevant; see the Plot bullet.)" and then left as blank lines. That keeps every line number the same, so the `Our notes: path:line` pointers in the character files still resolve.
+- Tagged passages that were not routed to a character file keep their first quote, cut to the first two sentences. "[…]" marks a cut, and "(+N further passage(s) read, not quoted, through …)" gives the page span.
+- Passages routed to character files are kept as they were. Any context quotes in the same bullet that were not routed were dropped and marked "(+N context passage(s) read, not quoted)".
+- summary.md: the findings index now gives citations only. The quotes are in the part files.
+- Folder size: 264,820 B before, 152,535 B after. The character files were not changed.
