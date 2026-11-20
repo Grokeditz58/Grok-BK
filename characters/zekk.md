@@ -2202,7 +2202,9 @@ Our notes: `notes/materials/175-yjk-03-the-lost-ones/lo-04.md:40`
 What it shows (our notes): Zekk's message: he keeps his promise to Peckhum and says he chose the Shadow Academy for himself.
 > “A central multitasking unit, of course,” Jaina whispered in amazement and delight. “From Zekk.”
 >
-> “I’m doing this against the better judgment of my teachers here,” Zekk said, “Peckhum, my friend, here’s the central multitasking unit I promised you.
+> “I’m doing this against the better judgment of my teachers here,” Zekk said, “so I’ll make this message brief.”
+>
+> “Peckhum, my friend, here’s the central multitasking unit I promised you.
 >
 > You always expected only the best from me, and I always gave it. This must be hard for you, but I want you to know that no one has kidnapped me or brainwashed me.”
 >
