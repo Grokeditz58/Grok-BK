@@ -4,7 +4,7 @@
 - **Era:** GCW–NJO
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 662 (324 with quotations; 28 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 5: Darkest Knight (full read).
+- **Entries:** 663 (325 with quotations; 29 quotations extended to the full sentence/passage from the source text on file; 182 marked as fragments; 227 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 756 old entries; old file: `characters/_bak/chewbacca.md.bak-20261117`. Added 2026-11-19: 3 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 1 non-Force-feat addendum entries.
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -4554,6 +4554,16 @@ Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-03.md:58`
 
 
 
+
+What it shows (our notes): Chewbacca pulls Jaina back from the blasted hatch.
+> Chewie finished binding the engineer's wounds, thanked her, and hurried off down the corridor she had indicated. Jaina skidded to a stop at the edge of a gaping hole blasted in the floor, where an access hatch had been ripped from its hinges. Chewbacca had to pull Jaina back physically to keep her from toppling over the brink. He growled, sniffing around the burned metal edges.
+>
+> Jaina nodded. "Yeah, looks like the work of stormtroopers. They must've thought the trapdoors needed to be wider and did a little remodeling." She blew out a long, slow breath, trying to calm herself. "Lowie told us how dangerous it is down there. But I guess it didn't stop them"
+>
+> Chewie opened an emergency locker on the wall. He yanked out two knapsacks filled with supplies and tossed one to Jaina. Then, with a barely audible growl, he pointed down at the hole in the floor.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 15 (p.166).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-05.md:14`
 
 # CANON (Disney canon — kept separate)
 

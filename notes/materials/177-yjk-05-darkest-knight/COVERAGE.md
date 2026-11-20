@@ -8,3 +8,8 @@ Status: DONE. Stamp: 2026-11-20 CST.
 - Verbatim check: 318 quoted passages in dk-01…04 were machine-matched against READ.txt with 0 mismatches. No quote repeats within a file.
 - Citations: "DK ch. N, p.X" with the printed page numbers of the Boulevard paperback (June 1996); "DK back matter, p.X" for the preview.
 - Not done here: character-file routing is tracked in notes/INDEX.md and characters/INDEX.md.
+
+
+## Addendum (2026-11-20 CST)
+
+- `dk-05.md` adds 7 passages (14 quotes) of non-Force feats: balance, climbing, strength, Wookiee vision and computer skill. They went into a new file so that the line numbers in dk-01 to dk-04, which the character files point to, did not change. Under the owner ruling of 2026-11-20, ordinary non-Force piloting is out of scope from now on; Force-assisted piloting still counts.

@@ -10,11 +10,12 @@ Evidence file for Sirrakuk (Sirra), Lowbacca's younger sister on Kashyyyk, **Sta
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 6 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
-- This file has 6 entries and 6 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 1 more entry from Darkest Knight (non-Force-feat addendum; Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
+- This file has 7 entries and 7 quotes.
 
 ## Contents
 
-- [Feats and Skills](#feats-and-skills) (5)
+- [Feats and Skills](#feats-and-skills) (6)
 - [Statements and Beliefs](#statements-and-beliefs) (1)
 - [Limitations](#limitations) (0)
 
@@ -66,9 +67,19 @@ Sirra growled in defiance. Now that she had succeeded in her dangerous quest aga
 — Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 20
 ```
 
+### 6. Sirra's darkness-adapted Wookiee vision; she and Lowie trace the defense breakdown by computer.
+
+```
+The two Wookiees chattered to each other. Em Teedee called, "Master Jacen! Master Lowbacca and Mistress Sirrakuk have decided to use the computers to determine where the breakdown in the facility's defensive systems occurred. Perhaps they can prevent further Imperial fighters from getting through. Oh, I do hope they're successful."
+
+Lowie and Sirra did their best to lead Jacen and Tenel Ka, using their darkness-adapted Wookiee vision to find broad, sturdy branches along the trunks of the wroshyr trees. Panting with the desperate effort, Lowie wheezed encouragement. The friends pressed on blindly, with no specific destination, knowing only that they had to keep going if they were to lose their pursuers in the maze of the forest underworld.
+
+— Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), ch. 13, 16
+```
+
 ## Statements and Beliefs
 
-### 6. Sirra has no Force potential, doesn't want factory work and wants excitement; she says the Jedi wouldn't last five minutes in the underlevels.
+### 7. Sirra has no Force potential, doesn't want factory work and wants excitement; she says the Jedi wouldn't last five minutes in the underlevels.
 
 ```
 Lowie cocked his head quizzically, trying to think of a response, but Sirra resumed her explanation. She said that since she didn't have Force potential as he did, their parents had always just assumed that she would work in the fabrication facility. But Sirra had ho wish to work there like everyone else did. She didn't enjoy assembling computers, and was only a mediocre programmer. She raised a fist and barked loudly—she wanted something much more exciting!

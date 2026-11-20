@@ -20,3 +20,8 @@ Method:
 - A second script matched all 318 quoted passages back against READ.txt: **0 mismatches**. No quote repeats within a file. summary.md is in our own words and has no extra quotes.
 
 Files: dk-01 (ch. 1–6), dk-02 (ch. 7–12), dk-03 (ch. 13–17), dk-04 (ch. 18–22 and back matter), summary.md, COVERAGE.md.
+
+
+## Addendum (2026-11-20 CST)
+
+- `dk-05.md` adds 7 passages (14 quotes) of non-Force feats: balance, climbing, strength, Wookiee vision and computer skill. They went into a new file so that the line numbers in dk-01 to dk-04, which the character files point to, did not change. Under the owner ruling of 2026-11-20, ordinary non-Force piloting is out of scope from now on; Force-assisted piloting still counts.

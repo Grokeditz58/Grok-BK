@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 281 (210 with quotations; 171 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read).
+- **Entries:** 284 (213 with quotations; 174 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries.
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2472,6 +2472,26 @@ What it shows (our notes): Luke (preview): Tenel Ka should teach ground combat a
 — Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 99 (p.222–223).
 (Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-04.md:58`
+
+What it shows (our notes): Tenel Ka keeps her balance through the ion storm's lurch, ready for a tangible foe.
+> When the ship momentarily stabilized, her brother crawled to his feet, cradling something in one arm, his hair even more tousled than usual. He checked to make sure Tenel Ka was okay. The warrior girl stood up, planting her booted feet wide apart, seeking balance as the Shadow Chaser shuddered and bucked its way through the disturbance.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 3 (p.35–36).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-05.md:10`
+
+What it shows (our notes): Tenel Ka rides the vine lifts one-armed 'with no problem whatsoever'.
+> Sirra led them down an open-air corridor amid the din of explosions and laser blasts. They reached a network of pulley-driven vines, ropelike lifts that yanked them to a higher level. Sirra grabbed one vine, tucked her foot into a loop, and the rope sprang upward, drawing her toward the higher platforms. Lowie did the same. Jacen followed suit, looking down to watch Tenel Ka, who wrapped her arm around the vine and stepped into a loop with no problem whatsoever. Within seconds, they were all whisked to an upper platform at the outer perimeter of the complex.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.137).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-05.md:11`
+
+What it shows (our notes): Tenel Ka once lassoed Zekk on Coruscant; now with one hand she keeps the rod.
+> Tenel Ka saw Zekk, too, and held her metal staff at the ready. In a flash of memory, Jacen thought of the warrior girl's initial meeting with Zekk, back on Coruscant: when the young man had dropped down from above to surprise them, Tenel Ka had whipped out her fibercord with blurring speed and lassoed him before he could jump out of the way.
+>
+> Now, though, Tenel Ka had only one hand, and she did not choose to drop her long steel rod to grab for her rope, or her lightsaber.
+— Source: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 13 (p.146).
+(Full sentence/passage taken from the source text on file: `YJK05 Darkest Knight OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
+Our notes: `notes/materials/177-yjk-05-darkest-knight/dk-05.md:13`
 
 ### Limitations and anti-feats (Darkest Knight)
 
