@@ -4,7 +4,7 @@
 - **Era:** GCW
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 1047 (417 with quotations; 38 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 2 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 10: Jedi Bounty (full read).
+- **Entries:** 1051 (421 with quotations; 42 quotations extended to the full sentence/passage from the source text on file; 295 marked as fragments; 318 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 1219 old entries; old file: `characters/_bak/boba-fett.md.bak-20261117`. Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 2 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -5408,6 +5408,61 @@ What it shows (our notes): Zekk's view: 'someone sly and skillful like Boba Fett
 — Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 10 (p.62).
 (Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
 Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-01.md:76`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Fett slices into Bornan Thul's computers remotely and drains the files before the ship explodes; Zekk and Jaina recognize his trick from Alderaan.
+> But he was startled to see activity lights flashing on his systems console-more than just the self-destruct sequence. His ship’s memory banks were being split open remotely. Someone was slicing into his computer! Thul paused in dismay. Certain illegal technology allowed illicit users to rip data directly from other computers.
+>
+> “It’s not that simple. Before I got into the escape pod I noticed that the computers on my ship were all being accessed at once. I don’t know how, but someone was slicing into them remotely.”
+>
+> “Ah. That would probably be Boba Fett,” Zekk said.
+>
+> “He did that to the Rock Dragon when we were in the rubble field of Alderaan,” Jaina explained, then looked questioningly at Bornan Thul.
+>
+> “No,” Fett said. He held up the data cylinder. “Before his ship exploded, I sliced into his computers and drained the files. I sorted through them during my flight here.” He handed the cylinder to her. “Thul took Fonterrat’s navicomputer with him, but he went to the place you seek-five days ago. His ship’s own log carried the precise coordinates.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 4, 5, 6.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:25`
+
+What it shows (our notes): Fett outguns the Lightning Rod by a significant margin, recovers quickly from the shock wave, and breaks off only when outnumbered: 'I have what I need.'
+> He had shot at and chased the masked bounty hunter before, but in each case Zekk had had the element of surprise, and he had fled before the firefight could get too intense. Fett outgunned him by a significant margin.
+>
+> Fett recovered quickly and came after them again, angry now. Zekk fired, but his weapons were much weaker than the bounty hunter’s. He fed all available power to his shields but still felt the pounding of Boba Fett’s blasts.
+>
+> Zekk fired his own weapons again in tandem with the Rock Dragon’s second full-powered volley. Fett, seeing himself clearly at a tactical disadvantage and not knowing if other ships might soon arrive, broke off his attack. He sent one brief comm burst as he wheeled about.
+>
+> “I have what I need.” Then he vanished into hyperspace.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 4.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:26`
+
+What it shows (our notes): 'Nolaa Tarkona's crack bounty hunter' whirls with such speed that Zekk can barely follow him and mows down the Diversity Alliance ambushers with two pistols.
+> Then, just when they were at their most vulnerable point in the middle of the corridor, Boba Fett emerged from a side passage. The grim man in battered Mandalorian armor stepped out boldly. He held a blaster pistol in each gauntleted hand. The Diversity Alliance soldiers cheered, welcoming Nolaa Tarkona’s crack bounty hunter. They stopped firing, happy to let Boba Fett finish their job for them. Fett trained both blaster pistols at Zekk, and Zekk was more afraid of those guns than of all the other weapons held by the alien guards.
+>
+> Suddenly the bounty hunter whirled about with such speed that Zekk could barely follow his actions. Boba Fett fired both of the pistols continuously, strafing from one Diversity Alliance guard to another. He ruthlessly mowed them down as they stood paralyzed with shock.
+>
+> In the suddenly silent, smoke-filled corridor, Boba Fett stood motionless, victorious.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 26.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:76`
+
+What it shows (our notes): Fett: 'A bounty hunter does not take sides'; 'I don't judge right or wrong. I just do my job'; causes are a waste of energy, and not profitable.
+> Fett turned to him. “Nolaa Tarkona wanted the location of this depot. I gave it to her. My work for her is finished, paid in full.”
+>
+> “A bounty hunter does not take sides.”
+>
+> “Tyko Thul hired me. He offered a large reward if I could bring you and your father safely away from this asteroid.”
+>
+> “Then I will complete the rest of my assignment, and see that Raynar gets out safely. I will cover your retreat. I trust you can make it to your ship without assistance?”
+>
+> Boba Fett straightened, as if the answer to the question should be obvious. “I don’t judge right or wrong. I just do my job.”
+>
+> Boba Fett sat in Slave IV, rising up out of the plane of the asteroid belt and watching the continuing battle below with some amusement. Tyko Thul had paid him for his efforts, and Fett was once again between bounties. The passion and devotion some people gave to their causes, their sacrifices, never ceased to amaze him. It seemed a terrible waste of energy, and not profitable. But then, it wasn’t his business to understand. Avoiding all contact with other ships, Fett cruised away, setting a new course. It wouldn’t be long before he had another bounty assignment….
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 26, 27.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:77`
+
 
 
 

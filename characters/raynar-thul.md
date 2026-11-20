@@ -4,7 +4,7 @@
 - **Era:** —
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 90 (87 with quotations; 33 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 10: Jedi Bounty (full read).
+- **Entries:** 94 (91 with quotations; 37 quotations extended to the full sentence/passage from the source text on file; 17 marked as fragments; 53 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 71 old entries; old file: `characters/_bak/raynar-thul.md.bak-20261117`. Added 2026-11-19: 2 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 2 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 5 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2189,6 +2189,39 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Raynar is comp
 — Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 19 (p.115).
 (Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
 Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:68`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Raynar and Zekk both sense danger around the corner.
+> Zekk’s Jedi senses tingled. Despite his ordeals of the past, he was no longer entirely reluctant to use the Force, especially in a situation where those skills might mean the difference between life and death. He pulled himself up short and looked at Raynar; they could both sense danger around the corner.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:31`
+
+What it shows (our notes): Raynar wishes he had gone in to use the Force to stop Rullak or Nolaa.
+> Raynar wished he’d gone inside with his father. He might have been able to do something, use the Force to stop Rullak or Nolaa Tarkona.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 24.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:63`
+
+What it shows (our notes): Peace flows into Raynar through the Force with each friend's touch.
+> But with each touch of a friend’s hand, Raynar felt his pain ease.
+>
+> Peace flowed into him through the Force, and though his sorrow was not diminished, he found that he could face it now, accept it.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 28.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:89`
+
+What it shows (our notes): Raynar ignites his newly built pewter lightsaber; Luke: 'The workmanship is excellent', and he has seen how well Raynar does with stun-sticks, but suggests practicing with Jacen before Tenel Ka.
+> “Go ahead, Raynar.” Fumbling slightly because his hands were slick with sweat, Raynar moved his thumb into position and pressed the switch. With a whoosh-hum, an energy blade the color of polished pewter sprang from the hilt of his newly constructed lightsaber.
+>
+> “The workmanship is excellent,” Master Skywalker observed. “And I’ve seen how well you do with the stun-sticks. Would you like me to ask Tenel Ka to practice with you?”
+>
+> “Maybe I’d better have you practice with Jacen for a while first. But not yet.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 29.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:93`
+
 
 
 

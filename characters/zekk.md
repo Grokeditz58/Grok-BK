@@ -4,7 +4,7 @@
 - **Era:** NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 283 (227 with quotations; 183 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read).
+- **Entries:** 290 (234 with quotations; 190 quotations extended to the full sentence/passage from the source text on file; 34 marked as fragments; 60 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 206 old entries; old file: `characters/_bak/zekk.md.bak-20261117`. Added 2026-11-20: 27 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 24 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 12 entries from Young Jedi Knights 5: Darkest Knight (full read). Added 2026-11-20: 16 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 9 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 12 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3132,6 +3132,63 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Zekk avoids us
 — Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 16 (p.96).
 (Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
 Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:44`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Zekk on his Shadow Academy past and his resolve: he will keep the galaxy safe 'whether it means blowing up his ship, or my ship… or everything'.
+> “I’m going to try to save Raynar’s father. But if I can’t, I’ll do whatever I can to keep the galaxy safe-whether it means blowing up his ship, or my ship… or everything.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 3.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:21`
+
+What it shows (our notes): Zekk senses the instant danger and snatches the falling explosives out of Raynar's hands, and senses that Jaina is all right.
+> THE ROCKING EXPLOSION also caused Raynar to slip and stumble, and thus lose his grip on the delicate munitions he carried. Zekk reacted quickly.
+>
+> He sensed the instant danger and snatched the explosives from the Alderaanian boy’s hands, catching and cradling them before Raynar could drop them to the floor.
+>
+> He shook his head. “That was Jaina.
+>
+> She’s all right, but something’s gone wrong.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:30`
+
+What it shows (our notes): No longer entirely reluctant to use the Force, Zekk and Raynar both sense danger around the corner.
+> Zekk’s Jedi senses tingled. Despite his ordeals of the past, he was no longer entirely reluctant to use the Force, especially in a situation where those skills might mean the difference between life and death. He pulled himself up short and looked at Raynar; they could both sense danger around the corner.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:31`
+
+What it shows (our notes): Zekk realizes only Bornan Thul can stop IG-88 from releasing the plague.
+> “The assassin droid IG-88 is programmed to protect you-to bring you back alive. You’re the only one who can stop him from breaking down that door and releasing the plague right now! Tell him to stay away!”
+>
+> “Stop,” Bornan Thul croaked. Though his voice came out as no more than a hoarse whisper, the powerful droid paused to listen. “IG-88, I order you to save the only part of me that can still be saved: my son. I am beyond help.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 24.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:64`
+
+What it shows (our notes): Zekk feels the cold tingle of Jedi senses an instant before the ambush and drops a Gamorrean with his first shot.
+> Running ahead, though, Lowie skidded to a halt and let out a roar, grabbing for his lightsaber. Zekk felt the cold tingle of Jedi senses an instant before another cluster of Diversity Alliance soldiers emerged from the branching tunnels.
+>
+> His first shot struck a clumsy Gamorrean just above the knee. The creature squealed and fell on his side, out of commission.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 26.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:75`
+
+What it shows (our notes): Zekk suddenly knows he is stronger than Boba Fett, with a clearer mind and a cleaner heart: 'I don't let a paycheck decide between right and wrong for me.'
+> Zekk squared his shoulders and suddenly knew he was stronger than Boba Fett. His mind was clearer. His heart was cleaner.
+>
+> “Then I guess I don’t want to be a bounty hunter after all,” he said, and tossed his long black hair over his shoulders. “I don’t let a paycheck decide between right and wrong for me.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 26.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:78`
+
+What it shows (our notes): Zekk asks Luke to teach him the light side so he can become a true Jedi Knight.
+> “Yes, I’m sure,” Zekk said, looking directly into Master Luke Skywalker’s eyes. “I wasn’t ready before, but now I am. It took a while for me to understand that I don’t have to use the dark side if I don’t want to. I need you to teach me the right way. Teach me to use the light side of the Force, so I can become a true Jedi Knight.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 29.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:96`
+
 
 
 

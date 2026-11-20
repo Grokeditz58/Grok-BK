@@ -4,7 +4,7 @@
 - **Era:** NR–NJO
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 360 (289 with quotations; 250 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read).
+- **Entries:** 367 (296 with quotations; 257 quotations extended to the full sentence/passage from the source text on file; 31 marked as fragments; 49 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 177 old entries; old file: `characters/_bak/tenel-ka.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 31 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 21 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 37 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 19 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 3 non-Force-feat addendum entries. Added 2026-11-20: 25 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 9 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 18 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 7 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3210,6 +3210,77 @@ What it shows (our notes): Tenel Ka and Jacen sense the Rock Dragon coming.
 — Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 20 (p.127).
 (Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
 Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:78`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Out of bacta, Tenel Ka does just about everything quickly and efficiently even one-armed, and wants to run across Coruscant's rooftops.
+> Tenel Ka dried herself with the absorbent cloth Lowie handed her, then let the damp material drop to the floor. By now she had learned how to do just about everything quickly and efficiently, even with only one arm.
+>
+> She felt energized and alert, and she couldn’t wait to get out of the medical center and do some calisthenics or go for a run across the rooftops of Coruscant.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 1.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:13`
+
+What it shows (our notes): Tenel Ka ignites her lightsaber at the coded vault door: 'A Jedi Knight could find a way in'.
+> Tenel Ka snatched at her lightsaber handle and flicked on the turquoise energy blade.
+>
+> “A Jedi Knight could find a way in.”
+>
+> “I will save my weapon for the real battle.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 10.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:51`
+
+What it shows (our notes): Tenel Ka slices partway through support beams, and hears Rullak's patrol before the others, switching off her blade so its hum won't mask the sound.
+> WITH EACH EXPLOSIVE she planted, Jaina felt the metal-lined hallways seem to close in on her. At her direction, Jacen set timed explosives in alternate places, while Tenel Ka drew her lightsaber and sliced partway through support beams or disabled safety interlocks.
+>
+> “Wait.” Tenel Ka held up her hand for silence. She listened, then switched off her lightsaber so its hum would not mask any other noises.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 13.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:63`
+
+What it shows (our notes): Running backward, Tenel Ka deflects every shot that comes close; when her ankle turns she lets herself fall under a bolt and tucks and rolls 'even with only one arm', showing her prowess; she bites back the pain, runs on it, and tunes it out 'as if switching off a faulty comlink'.
+> Tenel Ka, running backward now, used her lightsaber to deflect any shots that came close.
+>
+> When a second blast zinged off the corridor wall beside her, Tenel Ka threw herself backward, brought up her lightsaber, and deflected the bolt - but not without a price. Unable to regain her balance in time, Tenel Ka tried to pull herself forward again to land on her right leg, but her foot encountered a loose chunk of plasteel broken free from the ceiling. Her foot slipped, and the ankle turned at an angle it had never been meant to assume.
+>
+> One of the guards saw her loss of balance and shot past the Quarren toward Tenel Ka. Knowing her leg would not hold her anyway, the warrior girl relaxed her body and allowed it to fall, so that the energy bolt sizzled harmlessly over her-a hair’s breadth from the breastplate of her lizard-hide armor. Tenel Ka tucked and rolled as she hit the floor, having the presence of mind to switch off her lightsaber as she tumbled a few meters to avoid more blaster fire and-even with only one arm - displaying her prowess as a fighter.
+>
+> Pushing off from the metal wall behind her, Tenel Ka launched herself into the side corridor in a tumbling roll. During calisthenics she’d often used such maneuvers to bring herself out of a defensive position, back to her feet, and ready to go on the offense. This time, though, when she came out of the roll with both feet planted beneath her, a jolt of pain lanced upward from her right ankle. She bit back an outcry. She could not afford to draw Jacen or Jaina’s attention away from their own defenses by causing them concern for her.
+>
+> She gritted her teeth and pounded down the hallway next to him, ignoring the spear of pain she felt every time her right foot touched the ground.
+>
+> Tenel Ka ignored the flaring pain in her right leg, tuning it out as if switching off a faulty comlink.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 13.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:66`
+
+What it shows (our notes): On the injured ankle, Tenel Ka does not falter or slow, and her sense of direction places the Rock Dragon just over a hundred meters away; she catches a thrown detonator one-handed and thumbs it into position.
+> “Speed is essential,” Tenel Ka replied, and picked up her pace. Her expression flickered with physical pain, but the warrior girl did not falter or slow down.
+>
+> “If my sense of direction serves me, the Rock Dragon is docked just over one hundred meters from here,” Tenel Ka said.
+>
+> “We will take off only for a few minutes,” Tenel Ka said, catching the detonator with her one hand and thumbing it into position, “then return to a different point, free of pursuit.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 16.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:9`
+
+What it shows (our notes): Tenel Ka identifies the armada's standard Old Imperial attack formation and sees that it will not fire on the asteroid while Nolaa is on it.
+> “Standard Old Imperial attack formation,” Tenel Ka added in clipped tones. “Use the asteroid as a shield.”
+>
+> “Those ships will not fire on the asteroid as long as Nolaa Tarkona is down there,” Tenel Ka said.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 17.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:18`
+
+What it shows (our notes): Tenel Ka, Jaina and Jacen fly 'with deft hands guided by the Force', then join minds and push off the asteroid like a springboard, sending the Rock Dragon halfway to the fleet.
+> Like a team long accustomed to working together, they flicked switches, sealed airlocks, and programmed courses with deft hands guided by the Force.
+>
+> Tenel Ka reached out with her mind for Jaina’s, felt Jacen’s mind join the two of theirs. Together the three minds visualized the asteroid beneath them and placed their combined pressure firmly against it like a springboard and pushed. Suddenly the ship spun clear of the asteroid in open space, halfway to the New Republic fleet.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 27.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:83`
+
 
 
 

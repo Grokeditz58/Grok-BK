@@ -6,18 +6,19 @@ Evidence file for Sirrakuk (Sirra), Lowbacca's younger sister on Kashyyyk, **Sta
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`).
+- Sources read for this file: Young Jedi Knights 5: Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full on 2026-11-20 CST (notes: `notes/materials/177-yjk-05-darkest-knight/`). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`). Young Jedi Knights 11: The Emperor's Plague (same authors, 1998), read in full on 2026-11-20 CST (notes: `notes/materials/183-yjk-11-the-emperors-plague/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 6 entries from Darkest Knight (Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 more entry from Darkest Knight (non-Force-feat addendum; Kevin J. Anderson and Rebecca Moesta, 1996), read in full from the archive.org OCR e-book of the 1996 Boulevard paperback, checked against the print scan; OCR glitches corrected. Notes: `notes/materials/177-yjk-05-darkest-knight/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
-- This file has 9 entries and 9 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 2 entries from The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (a pdftohtml conversion with no page breaks, so chapter citations only); misreadings corrected. Notes: `notes/materials/183-yjk-11-the-emperors-plague/`.
+- This file has 11 entries and 11 quotes.
 
 ## Contents
 
-- [Feats and Skills](#feats-and-skills) (8)
+- [Feats and Skills](#feats-and-skills) (10)
 - [Statements and Beliefs](#statements-and-beliefs) (1)
 - [Limitations](#limitations) (0)
 
@@ -97,9 +98,27 @@ Two Ugnaughts tried to block her way, but she bowled them over, batting one to t
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 18
 ```
 
+### 9. Sirra punches in the side of a 'medicinal supplies' crate; it splits open, spilling power packs and laser rifles.
+
+```
+Sirra gave a challenging bellow. As everyone turned to look, she balled her furry fist and punched in the side of a supply crate marked FRAGILE: MEDICINAL SUPPLIES-URGENT. The container split open. Kambrea yelped in astonishment, and Sirra stood back as the crate cracked, groaned, and then spilled packaged blaster power-packs and handheld laser rifles out onto the floor. At that point, all chaos broke loose.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 15
+```
+
+### 10. Sirra carefully picks her target and fires into an unshielded skimmer's fuel module, blowing back the Abyssin.
+
+```
+She squatted, carefully picking her target. Three brutish Abyssin set aside their heavy spiked clubs and hauled out energy rifles as they hunkered behind a small skimmer. Sirra watched the one-eyed soldiers preparing to fire on the New Republic troops. Flashing her fangs in a grim smile, she lined up her blaster crosshairs with the fuel module of the tiny ship. Here in the landing bay, the skimmer would have no shields, no protection. She fired at full strength. The fuel pod exploded nicely.
+
+The Abyssin were blown back with the rain of shrapnel.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 21
+```
+
 ## Statements and Beliefs
 
-### 9. Sirra has no Force potential, doesn't want factory work and wants excitement; she says the Jedi wouldn't last five minutes in the underlevels.
+### 11. Sirra has no Force potential, doesn't want factory work and wants excitement; she says the Jedi wouldn't last five minutes in the underlevels.
 
 ```
 Lowie cocked his head quizzically, trying to think of a response, but Sirra resumed her explanation. She said that since she didn't have Force potential as he did, their parents had always just assumed that she would work in the fabrication facility. But Sirra had ho wish to work there like everyone else did. She didn't enjoy assembling computers, and was only a mediocre programmer. She raised a fist and barked loudly—she wanted something much more exciting!

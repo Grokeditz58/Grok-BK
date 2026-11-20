@@ -4,7 +4,7 @@
 - **Era:** NR
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 19 (16 with quotations; 16 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/nolaa-tarkona.md.bak-20261117`. Added 2026-11-20: 4 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 10: Jedi Bounty (full read).
+- **Entries:** 23 (20 with quotations; 20 quotations extended to the full sentence/passage from the source text on file; 0 marked as fragments). Rebuilt 2026-11-17 from 3 old entries; old file: `characters/_bak/nolaa-tarkona.md.bak-20261117`. Added 2026-11-20: 4 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 4 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 4 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -172,6 +172,45 @@ What it shows (our notes): Hovrak: 'When the Diversity Alliance gets hold of the
 — Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 21 (p.130).
 (Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
 Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:86`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): The Diversity Alliance's arms, explosives and small armada; Nolaa plans to slaughter the inspection team in the catacombs.
+> “We’ve gathered arms, weapons, explosives,” Nolaa pointed out. “We have a few fighting ships, enough for a small armada. And we have sufficient weaponry and devoted soldiers to make a stand here. We can fight! We will lure the unsuspecting New Republic team into our catacombs and slaughter them. Then we declare Ryloth neutral-exempt from human law-and refuse to grant them any further access.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 6.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:35`
+
+What it shows (our notes): Nolaa smells Wookiee in the air and spots the spies with the optical sensors in her head-tail stump; she plans to keep the alien-targeted plagues as an edge against Wookiees, Calamarians and others.
+> She could smell Wookiee in the air, and she knew that Lowbacca, one of the great traitors to the Diversity Alliance, had been here already.
+>
+> The Diversity Alliance could free all nonhuman races by spreading one kind of plague… but in the aftermath, she was certain to encounter further resistance, struggles against her benevolent rule by various commando groups from different species. She might have to deal with strongholds that resisted their own liberation, and these biological. solutions would give her an edge against the Wookiees, the Calamarians, and other races that might prove troublesome. She had to take samples of these other plague organisms as well.
+>
+> With the optical sensors mounted in the stump of her severed head-tail, she saw a flash of movement behind the transparisteel windows above.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 19.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:34`
+
+What it shows (our notes): Bornan Thul: no one else has Nolaa's charisma and power to hold the disparate alien bands together.
+> No one else had Nolaa’s charisma, her power. No one else could hold the disparate alien bands together, with or without the terrible plague.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 23.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:57`
+
+### Limitations and anti-feats (The Emperor's Plague)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: infected in the plague chamber, Nolaa sways, sweats, convulses and gasps; she dies of the slow-acting plague.
+> She swayed on her feet, looking very unwell.
+>
+> But something was terribly wrong with her leader. Nolaa Tarkona coughed again, and her pale face streamed with oily perspiration. Her single head-tail writhed and contorted in convulsions of pain.
+>
+> With her clawed hands shaking, Nolaa Tarkona attempted to work the copilot’s controls and take the Rising Star on a heading toward the armada.
+>
+> “Such sentiments are for fools,” Nolaa gasped, shuddering as much now with anger as with the chills that racked her body. “In every revolution some must sacrifice themselves to overthrow the tyrants and save the rest.”
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 25, 27.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:82`
+
 
 
 

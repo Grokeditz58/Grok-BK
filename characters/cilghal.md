@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** MASTERY (Jedi Academy trilogy 026 version only: Jedi Search, Dark Apprentice, Champions of the Force; primary read 2026-10-28)
-- **Entries:** 218 (147 with quotations; 56 quotations extended to the full sentence/passage from the source text on file; 68 marked as fragments; 95 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 237 old entries; old file: `characters/_bak/cilghal.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read).
+- **Entries:** 219 (148 with quotations; 57 quotations extended to the full sentence/passage from the source text on file; 68 marked as fragments; 95 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 237 old entries; old file: `characters/_bak/cilghal.md.bak-20261117`. Added 2026-11-20: 1 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 1 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -1209,6 +1209,15 @@ What it shows (our notes): Luke describes Cilghal's coral-like lightsaber with a
 — Source: Young Jedi Knights 4: Lightsabers (Kevin J. Anderson & Rebecca Moesta, 1996), ch. 2 (p.18).
 (Full sentence/passage taken from the source text on file: `YJK04 Lightsabers OCR epub (1996 Boulevard paperback), checked against the print scan`; OCR glitches such as split words and misread letters corrected.)
 Our notes: `notes/materials/176-yjk-04-lightsabers/ls-01.md:58`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Luke and Cilghal stand with crossed lightsabers, intercepting the blaster fire and deflecting bolts into the walls and sometimes into the attackers.
+> As the weapons fire turned toward his two young charges, Luke knew he had to help protect them. Sirra shot her own blaster, but she couldn’t possibly hold off the entire barrage. Ambassador Cilghal ran beside Luke toward where Lusa and Sirra were making their last stand. With crossed lightsabers Luke and Cilghal intercepted the blaster fire, deflecting energy bolts into the stone walls and occasionally into enemy attackers as well.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 21.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:45`
+
 
 
 # Debate and forum claims (unverified)

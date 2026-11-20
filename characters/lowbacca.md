@@ -4,7 +4,7 @@
 - **Era:** NR–LotF
 - **Continuity:** default Legends; entries present for: Legends
 - **Research tier:** untiered (not listed as INTRO/DEEP/MASTERY in legends-feats.md)
-- **Entries:** 174 (160 with quotations; 127 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read).
+- **Entries:** 184 (170 with quotations; 137 quotations extended to the full sentence/passage from the source text on file; 12 marked as fragments; 37 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 78 old entries; old file: `characters/_bak/lowbacca.md.bak-20261117`. Added 2026-11-19: 14 entries from Young Jedi Knights 1: Heirs of the Force (full read). Added 2026-11-20: 17 entries from Young Jedi Knights 2: Shadow Academy (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 3: The Lost Ones (full read). Added 2026-11-20: 13 entries from Young Jedi Knights 4: Lightsabers (full read). Added 2026-11-20: 8 entries from Young Jedi Knights 5: Darkest Knight (full read), plus 2 non-Force-feat addendum entries. Added 2026-11-20: 6 entries from Young Jedi Knights 6: Jedi Under Siege (full read). Added 2026-11-20: 3 entries from Young Jedi Knights 7: Shards of Alderaan (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 8: Diversity Alliance (full read of the English epub, which breaks off in ch. 19). Added 2026-11-20: 6 entries from Young Jedi Knights 9: Delusions of Grandeur (full read). Added 2026-11-20: 11 entries from Young Jedi Knights 10: Jedi Bounty (full read). Added 2026-11-20: 10 entries from Young Jedi Knights 11: The Emperor's Plague (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -2152,6 +2152,107 @@ What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Lowie's Force 
 — Source: Young Jedi Knights 10: Jedi Bounty (Kevin J. Anderson & Rebecca Moesta, 1997), ch. 14 (p.75).
 (Full sentence/passage taken from the source text on file: `YJK10 Jedi Bounty library OCR epub (1997 Boulevard paperback); page numbers approximate, counted from the epub's page breaks`; OCR misreadings corrected. Page numbers are approximate.)
 Our notes: `notes/materials/182-yjk-10-jedi-bounty/jb-02.md:21`
+
+## Young Jedi Knights 11: *The Emperor's Plague* (Kevin J. Anderson & Rebecca Moesta, 1998): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Inside the plague chamber Lowie spirals outward 'moving like a machine' as he plants the thermal detonators, then rigs a central explosive controller.
+> He was a Jedi Knight, and he had a threat to wipe out. He placed his first set of heat explosives under the largest of the bubbling tanks in the center of the room; then he spiralled outward, ducking down, moving like a machine as he planted one detonator after another.
+>
+> Lowie planted his remaining detonators as fast as he could, then rigged up a central explosive controller, which he placed near the main containers in the middle of the room.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 12.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:59`
+
+What it shows (our notes): Lowie's Jedi senses bring him to full alert: he is no longer alone; 'Danger, he sensed, danger'.
+> Suddenly he felt a chill as his Jedi senses brought him to full alert. He was no longer alone in the room.
+>
+> As if something were stalking him. Lowie’s fingers drifted to his lightsaber. His muscles tensed, and the dark streak on his forehead stood upright in an intimidating brush. Danger, he sensed, danger. He held himself utterly still.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:72`
+
+What it shows (our notes): Lowie's Jedi senses warn him of Corrsk's ambush, but the Trandoshan pins him in a bear hug until his ribs creak; Lowie bites deep into Corrsk's shoulder, snaps his arms free, claps Corrsk's earholes, and ducks the blaster fire.
+> Suddenly, with an exploding roar, Corrsk lurched out from where he had hidden, waiting for Lowie to head toward the chamber door.
+>
+> The Wookiee’s Jedi senses warned him in the same instant, and he leaped aside. The giant reptile, however, wrapped his muscular arms around Lowie in a murderous bear hug. Lowie struggled and roared, but his arms were pinned at his sides. He looked down to see a smooth, waxy scar on the scaled arm, the remnants of the light - saber gash Lowie had dealt him during their previous battle, when he had caused a tunnel ceiling to fall down on Corrsk.
+>
+> The Trandoshan should have died then, but the monster was just too mean to die so easily, Lowie thought. Lowie could not move his arms, could not bunch his muscles or draw his lightsaber. He was helpless. Corrsk snarled a hot, wet breath against his fur-covered ear. The sharp teeth were close, close enough to rip out Lowie’s neck if they wished, but Corrsk was enjoying his victory too much. He tightened his grip.
+>
+> Lowie’s ribs creaked; his muscles strained. His lungs wanted to burst because he could not draw a breath. He could not reach his weapon-so instead, with a final bestial wheeze, Lowie used the primal weapons he still had available to him. He opened his mouth wide and sank his Wookiee fangs deep into the Trandoshan’s scaled shoulder, biting down with all the force he could muster. Leathery skin ripped, and greenish-black blood spurted into Lowie’s mouth as he bit down hard again, snarling. Corrsk drew in a long hiss of shock and pain and loosened his grip just enough for Lowie to snap both of his arms sideways, breaking free of the embrace. Without taking the time to draw his lightsaber, he spread both of his hands and clapped them like cymbals against the Trandoshan’s flat earholes.
+>
+> Corrsk staggered back, disoriented and shaking his head. Lowie broke away and ran as fast as he could. He had no need to be quiet now, no requirement for stealth. Corrsk howled after him, but Lowie made his best speed toward the door. The Trandoshan, finally giving up his attempt to savor the kill, drew his blaster and fired. Lowie ducked, and the energy bolts struck the metal walls of the plague chamber. Luckily, the ricochets dissipated, and the secondary bolts struck none of the plague canisters.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 14.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-01.md:74`
+
+What it shows (our notes): In near-zero gravity Lowie bounces wall to wall 'as if dancing on marionette strings', springing off ceiling and walls to dodge, then lunges.
+> Lowie didn’t intend to give the predator the satisfaction of an easy kill. He drew his lightsaber, and its molten-bronze blade blazed brightly as he bounced from one wall to the other, as if dancing on marionette strings. The asteroid’s natural gravity was barely enough to keep his feet touching the floor. Corrsk blasted at him again, and Lowie leaped up, hitting the ceiling, ricocheting back down at an angle to the wall, and then springing off again.
+>
+> He took the initiative and lunged toward the Trandoshan. Blaster bolts streaked in another haywire pattern, and Lowie swung his lightsaber in the air for intimidation.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:22`
+
+What it shows (our notes): Bestial hatred of his natural enemy surges through Lowie despite his Jedi training; he holds back from simply striking Corrsk dead.
+> He was concerned about his friends, about the explosion that had just rocked the asteroid, about Nolaa Tarkona and the plague-but right now, despite all his training as a Jedi, the primary force surging through him was a bestial hatred of this reptilian species that had slaughtered hundreds, maybe thousands, of Wookiees, taking their fur as trophies. The Trandoshans were Lowie’s natural enemies, and he did not intend to become a prize pelt for Corrsk.
+>
+> He did not simply strike Corrsk dead with the lightsaber as he could have. He resisted that-for now-but he doubted there could be another end to this battle.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:23`
+
+What it shows (our notes): Lowie and Corrsk grapple through the low gravity; Lowie deflects a bolt and severs Corrsk's arm above the elbow, crashes full force into his torso, works out the Imperial fail-safe codes, and vents him into space.
+> Lowie rammed the Trandoshan into the wall, and Corrsk struck back, pushing hard and driving Lowie across the corridor. The low gravity made resistance futile, and they bounced and caromed like foam balls in a spin-dagat tournament.
+>
+> The Trandoshan fired his blaster, and Lowie deflected it. Corrsk fired again, stepping closer, raising his weapon. Lowie had no room to move. As the Trandoshan prepared to push the firing stud again, Lowie had no choice but to slash with the lightsaber, severing Corrsk’s arm high above the elbow. The reptilian roared, but before his amputated arm could fall to the floor, he, reached out with his other hand and grabbed his detached wrist, trying to snatch the blaster pistol from its twitching grip.
+>
+> “It will regenerate,” he said.
+>
+> The reptilian yowled in surprise, and Lowie bent over, pushing against the floor and springing outward. He crashed full force into the Trandoshan’s torso, knocking him backward. Corrsk spun end over end in the low gravity, leaking black blood from the broken cauterized stump of his arm. Lowie fought to regain his footing, his balance. He wasn’t accustomed to struggling in near - weightlessness.
+>
+> At the control panel, Lowie frantically worked to analyze the Imperial codes and the buttons used for fail-safe mechanisms.
+>
+> Lowbacca punched in the final sequence and disengaged the airlock mechanism, which popped open the pressure door. The metal bulkhead slid aside right behind Corrsk. He snarled and reached out to grab for support, but his arm was no longer there. Suddenly, with a wail, the vacuum of space ripped him away. The Trandoshan flew backward into open space. Air gushed out, swooping and cold. Lowie fought to lash his syren-fiber belt around the support pipe, which held him firmly in place against the wall.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:24`
+
+What it shows (our notes): Lowie hot-wires a door using his powerful fingers as tools, and twists out screw bolts with his claws, cracking one.
+> USING HIS POWERFUL fingers as tools, in addition to Em Teedee’s cables and diagnostics for leads and crossovers, Lowie managed to hot-wire the inner door. The sealed pressure barrier hissed open, finally allowing him to run back toward the central plague chamber.
+>
+> Lowie dug his hard claws into the screw bolts holding the cover plate on the access controls. He twisted with his fingers, and one of his claws cracked, but the screw finally turned, and he pried it away. After loosening another, the plate came away sufficiently that he could just bend it aside, ignoring the other two screws.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 20.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:38`
+
+What it shows (our notes): Lowie holds his ground and deflects the ambushers' bolts until there are too many to deflect.
+> Lowie held his ground, powering up his lightsaber and slashing to deflect blaster bolts. But he, too, had to press for shelter against the curve of the wall. The nine Diversity Alliance soldiers continued shooting. Blaster bolts ricocheted like a sideways - slanting rain of sparkling flames. Zekk yanked out the blaster pistol he had taken from the munitions chamber and fired.
+>
+> He stood next to Lowie, prepared to fire. Diversity Alliance soldiers pushed forward until the volley of blaster bolts grew so thick that Lowie could not deflect them all. A long bolt singed the ginger fur on his arm.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 26.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:75`
+
+### Limitations and anti-feats (The Emperor's Plague)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: Lowie slumps weak after killing Corrsk; he jabs in a cable without double-checking and burns out the panel.
+> Lowbacca slumped down to the cold metal deck, feeling weak from the battle. His stomach clenched and he fought to control his feelings after having just killed a sentient being, even one as despicable as Corrsk.
+>
+> He took the final cable and without double-checking, jabbed it into position, just as Em Teedee squealed,
+>
+> “No, Master Lowbacca, not-” Sparks flew as two incompatible linkages short - circuited. The control panel blazed, as a small fire erupted.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 18, 20.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:26`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — LIMITATION: IG-88 bats Lowie into the wall with one blow, and knocks him aside again.
+> Lowie threw himself at the assassin droid, but IG-88 simply batted him away with such a blow that the young Wookiee crashed into the wall.
+>
+> Lowie roared, but the assassin droid knocked the Wookiee aside again.
+— Source: Young Jedi Knights 11: The Emperor's Plague (Kevin J. Anderson & Rebecca Moesta, 1998), ch. 23, 24.
+(Full sentence/passage taken from the source text on file: `YJK11 The Emperor's Plague library epub (pdftohtml conversion, no page breaks)`; misreadings corrected. Chapter citation only.)
+Our notes: `notes/materials/183-yjk-11-the-emperors-plague/ep-02.md:58`
+
 
 
 

@@ -6,17 +6,18 @@ Evidence file for Raabakyysh (Raaba), the young Wookiee friend of Lowbacca and S
 
 - Quotes are word for word from the source texts, with whitespace and curly quotes normalized. Quotes are extended to the full sentence or paragraph.
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number.
-- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`).
+- Sources read for this file: Young Jedi Knights 8: Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/180-yjk-08-diversity-alliance/`; the English text breaks off in ch. 19, see that folder's README). Young Jedi Knights 9: Delusions of Grandeur (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`). Young Jedi Knights 10: Jedi Bounty (same authors, 1997), read in full on 2026-11-20 CST (notes: `notes/materials/182-yjk-10-jedi-bounty/`). Young Jedi Knights 11: The Emperor's Plague (same authors, 1998), read in full on 2026-11-20 CST (notes: `notes/materials/183-yjk-11-the-emperors-plague/`).
 - Other appearances are not read yet and will be added when their books are.
 - Canon material is not covered.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Diversity Alliance (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback (its English text breaks off in ch. 19; nothing from the missing ending is quoted); conversion glitches corrected. Notes: `notes/materials/180-yjk-08-diversity-alliance/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 3 entries from Delusions of Grandeur (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library epub of the 1997 Boulevard paperback, with printed pages from the library scan; conversion glitches corrected. Notes: `notes/materials/181-yjk-09-delusions-of-grandeur/`.
 - Backfill 2026-11-20 (Young Jedi Knights): added 1 entries from Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), read in full from the library OCR epub of the 1997 Boulevard paperback (page numbers approximate, counted from the epub's page breaks); OCR glitches corrected. Notes: `notes/materials/182-yjk-10-jedi-bounty/`.
-- This file has 7 entries and 7 quotes.
+- Backfill 2026-11-20 (Young Jedi Knights): added 5 entries from The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), read in full from the library epub (a pdftohtml conversion with no page breaks, so chapter citations only); misreadings corrected. Notes: `notes/materials/183-yjk-11-the-emperors-plague/`.
+- This file has 12 entries and 12 quotes.
 
 ## Contents
 
-- [Feats and Skills](#feats-and-skills) (7)
+- [Feats and Skills](#feats-and-skills) (12)
 - [Statements and Beliefs](#statements-and-beliefs) (0)
 - [Limitations](#limitations) (0)
 
@@ -98,6 +99,58 @@ Sirra growled, also ready to fight with tooth and claw—but Raaba intervened, h
 Raaba stood tall and enigmatic and powerful.
 
 — Jedi Bounty (Kevin J. Anderson and Rebecca Moesta, 1997), ch. 11
+```
+
+### 8. Raaba keeps the armada alert and spots the two hidden Jedi ships with high-resolution sensors.
+
+```
+Raaba wanted their cluster of ships to act like a military fleet, to Pull together like a well-trained force. Attitude was essential. They cruised above the weapons depot, and she growled for two outlying vessels to tighten up the formation. While Nolaa Tarkona was on the asteroid, Raaba intended to keep the armada alert. They had no reason to anticipate any resistance, of course-or that New Republic forces might come after them-but Raaba would not be taken by surprise.
+
+Leaning back in her command chair, Raaba scanned the asteroid below. She used the ship’s high-resolution sensors to study the pockmarked surface, analyzing the structural refinements Imperial engineers had added: the blister domes and bunker outcroppings, the fuel station, the numerous small docking ports. Then, as she focused in on what seemed to be an anomaly, she sat up with a growl and stared at the image before her eyes, unable to believe what she saw.
+
+In an instant she recognized two small craft nearly hidden in the rocky shadows beside the domes: the Rock Dragon and Zekk’s ship, the Lightning Rod. She leaped up from her command chair with a startled roar.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 11
+```
+
+### 9. Raaba takes careful aim to disable, not destroy, the Rock Dragon, and scores a good hit.
+
+```
+The Ugnaught weapons officer complied, and Raaba took careful aim on the Rock Dragon. She could not betray Nolaa Tarkona, but for the sake of their friendship, she would do this one thing for Lowie-even if she never had the chance to tell him about it. Raaba’s fingers depressed a firing stud. Her shot narrowly missed the Hapan cruiser. She knew she had to be cautious: she only wanted to disable the ship, not destroy it. She took another shot and scored a good hit, though the Rock Dragon’s defensive shields held admirably.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 17
+```
+
+### 10. Raaba's instincts and uncanny knack for finding the heart of any facility; she fries a door's controls and wrenches it open with her Wookiee strength.
+
+```
+Her instincts were good, and she had found a space to dock on the edge of the primary biological weapons complex. She understood security systems well and had an uncanny knack for finding her way to the heart of any important facility. It was one of the skills that had made her so valuable to Nolaa Tarkona. This time it might just save her leader’s life-or at least, Raaba hoped so as she searched through one tunnel after another. Hold on, Raaba thought. I’m coming. Too many lives had been lost already this day. Coming upon a sealed doorway with a safety interlock and a flashing hazard symbol, Raaba used her blaster to fry the controls. Then she wrenched the door open using the manual override and her own Wookiee strength.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 25
+```
+
+### 11. Raaba does not think, she acts: she fires on IG-88 and shields Nolaa with her own body; a bolt grazes her knee.
+
+```
+The emergency distracted Raaba from worrying about any additional questions. Raaba did not think-she acted.
+
+She spun and fired on her assailant.
+
+Stepping forward, Raaba let loose a volley with her blaster and backed down the hallway, pushing the Twi’lek woman behind her and shielding her with her own body.
+
+IG-88 fired again. In desperation, Raaba shot back, but she knew she couldn’t hold off an assassin droid forever. They had been very lucky to escape injury for this long. With stubborn determination, Raaba pushed her leader back toward the questionable cover of a corner at intersecting corridors. A blaster bolt grazed Raaba’s knee, singeing fur, and she dove after Nolaa Tarkona. Then a strange thing happened. As soon as Raaba and Nolaa Tarkona disappeared into the adjoining tunnel, the blaster fire ceased abruptly.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 25
+```
+
+### 12. Raaba's strong constitution defeats the plague that killed Nolaa Tarkona; she navigates by instinct and pries up stones with her strong Wookiee fingers.
+
+```
+Using her strong Wookiee fingers, she pried up stones and piled them higher where she had buried the Twi’lek leader. Nolaa Tarkona had died of the plague the day before. Raaba had flown here, navigating by instinct rather than any star chart, and she had set down her star skimmer near a cluster of habitable caves on this silent planet.
+
+Raaba could not take that chance. And so she had tended her leader all by herself. The chocolate-furred Wookiee had suffered ill effects of her own: a fever, pounding headaches, muscle cramps. Some of her fur had fallen out in patches. Raaba had been sure she would follow Nolaa Tarkona in a lingering death. But her strong constitution had ultimately defeated the plague. She recovered just about the time that Nolaa had died, but even now, she knew she might still carry the disease organism; she might still infect others.
+
+— The Emperor's Plague (Kevin J. Anderson and Rebecca Moesta, 1998), ch. 29
 ```
 
 ## Statements and Beliefs
