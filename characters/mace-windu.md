@@ -8,12 +8,13 @@ Evidence file for Mace Windu, **Star Wars Legends** continuity, from the Jedi Co
 - The source is the last line inside each code block, so one copy grabs both. Novels carry a chapter number; novellas, short stories and journals have no chapters and are cited by title only.
 - **†** after a source means the quote comes from a published source we could not check against the original. Treat those as secondhand.
 - Entries about the same fight are split: what he does well is under the feat sections, what goes wrong is under Limitations.
-- Sources read for this rebuild: Shatterpoint, Revenge of the Sith (novelization), Attack of the Clones (novelization), Labyrinth of Evil, The Phantom Menace (novelization), Cloak of Deception, Darth Plagueis, Rogue Planet, The Approaching Storm and Yoda: Dark Rendezvous; comic: Star Wars: Jedi – Mace Windu (2003).
+- Sources read for this rebuild: Shatterpoint, Revenge of the Sith (novelization), Attack of the Clones (novelization), Labyrinth of Evil, The Phantom Menace (novelization), Cloak of Deception, Darth Plagueis, Rogue Planet, The Approaching Storm and Yoda: Dark Rendezvous; comic: Star Wars: Jedi – Mace Windu (2003). Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), read in full on 2026-11-20 CST (notes: `notes/materials/187-ja-01-the-rising-force/`).
 - Comic quotes were transcribed from the page scans of the digital issue. The all-caps lettering is set in sentence case, bold emphasis is dropped, and each balloon is labeled with its speaker where the art makes the speaker clear.
 - Narration from the novels is under Author and Guide Statements; what characters say or think is under Statements from Other Characters.
 - Checklist pass 2026-11-19 (Part 6.4): added Saga Edition (Clone Wars Campaign Guide) and d20 Revised Core stat blocks; Power of the Jedi Sourcebook, encyclopedia, chronology and character guide statements; and guide limitations (Geonosis, his death, Gargonn).
 - Canon material (including the Clone Wars TV series and Marvel's Jedi of the Republic) is not covered.
-- This file has 156 entries and 162 quotes (14 marked †).
+- Backfill 2026-11-20 (Jedi Apprentice): added 1 entries from The Rising Force (Dave Wolverton, 1999), read in full from the library epub (chapter cites; the epub has no usable page anchors). Notes: `notes/materials/187-ja-01-the-rising-force/`.
+- This file has 157 entries and 163 quotes (14 marked †).
 
 ## Contents
 
@@ -30,7 +31,7 @@ Evidence file for Mace Windu, **Star Wars Legends** continuity, from the Jedi Co
 - [Acrobatics and Agility](#acrobatics-and-agility) (6)
 - [Skills, Training and Cunning](#skills-training-and-cunning) (4)
 - [Statements from Other Characters](#statements-from-other-characters) (15)
-- [Author and Guide Statements](#author-and-guide-statements) (13)
+- [Author and Guide Statements](#author-and-guide-statements) (14)
 - [Limitations](#limitations) (32)
 
 ## Growth and Evolution
@@ -1600,11 +1601,19 @@ She was unable to defeat Master Windu in battle and fled Ruul to fight another d
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 302 †
 ```
 
+### 125. Senior Councilor Mace Windu is 'a strong, dark-skinned man with a shaved head' whose eyes 'could pierce like blaster bolts.'
+
+```
+“What?” Senior Councilor Mace Windu asked. He was a strong, dark-skinned man with a shaved head. He studied Yoda with eyes that could pierce like blaster bolts.
+
+— Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 3
+```
+
 ## Limitations
 
 *These are anti-feats, limits and caveats, each followed by the evidence behind it.*
 
-### 125. GRIEVOUS ADAPTS: Grievous's computers analyze Mace's lightsaber style and suggest that he alter his stance and the angle of his parries, ripostes and thrusts; the loss of his confederates neither distracts nor slows him.
+### 126. GRIEVOUS ADAPTS: Grievous's computers analyze Mace's lightsaber style and suggest that he alter his stance and the angle of his parries, ripostes and thrusts; the loss of his confederates neither distracts nor slows him.
 
 ```
 The loss of his confederates was noted by whatever computers were slaved to Grievous’s organic brain, but the loss neither distracted nor slowed him. His sole setting was attack. Successful at analyzing Mace’s lightsaber style, those same computers suggested that Grievous alter his stance and posture, along with the angle of his parries, ripostes, and thrusts.
@@ -1612,7 +1621,7 @@ The loss of his confederates was noted by whatever computers were slaved to Grie
 — Labyrinth of Evil (James Luceno, 2005), ch. 47
 ```
 
-### 126. CANNOT HOLD THE TRAIN: Centered in the Force, Mace holds the Red Guards in place and wonders whether he, Kit, Shaak Ti and Allie together could support the entire train, but dismisses the idea: "They would need Yoda. Perhaps five Yodas."
+### 127. CANNOT HOLD THE TRAIN: Centered in the Force, Mace holds the Red Guards in place and wonders whether he, Kit, Shaak Ti and Allie together could support the entire train, but dismisses the idea: "They would need Yoda. Perhaps five Yodas."
 
 ```
 Centered in the Force, Mace directed all his energy toward keeping the Red Guards and others rooted in place. He wondered if he, Kit, Shaak Ti, and Allie—acting in concert—could support the entire train, but dismissed the idea immediately.
@@ -1624,7 +1633,7 @@ Perhaps five Yodas.
 — Labyrinth of Evil (James Luceno, 2005), ch. 49
 ```
 
-### 127. COULDN'T WIN ON HIS BEST DAY: The narration says Vastor was younger, stronger, faster and immensely more powerful and wielded weapons the Jedi blade could not harm: Mace "couldn't win such a battle on his best day," and he is exhausted, badly wounded and heartsick.
+### 128. COULDN'T WIN ON HIS BEST DAY: The narration says Vastor was younger, stronger, faster and immensely more powerful and wielded weapons the Jedi blade could not harm: Mace "couldn't win such a battle on his best day," and he is exhausted, badly wounded and heartsick.
 
 ```
 Vastor was younger, stronger, faster, and immensely more powerful, and he wielded weapons that could not be harmed by the Jedi blade. Mace couldn’t win such a battle on his best day, and this day was far from his best: he was exhausted, badly wounded, and heartsick.
@@ -1632,7 +1641,7 @@ Vastor was younger, stronger, faster, and immensely more powerful, and he wielde
 — Shatterpoint (Matthew Stover, 2003), ch. 23
 ```
 
-### 128. LESS RAW POWER THAN YODA: Mace recalls Yoda's "Size matters not," imagining Yoda casually floating the steamcrawler up the mountain, and admits to himself he was "much less confident in his own raw power."
+### 129. LESS RAW POWER THAN YODA: Mace recalls Yoda's "Size matters not," imagining Yoda casually floating the steamcrawler up the mountain, and admits to himself he was "much less confident in his own raw power."
 
 ```
 Mace opened himself to the Force. He could hear Yoda’s voice: Size matters not—which, Mace had always privately considered, was more true for Yoda than it was for any of his students. Yoda would probably just reach out, lift the steamcrawler from the gully, and casually float it up the mountain to the outpost while croaking some enigmatic maxim about how Even a volcano is as nothing, compared to the power of the Force … Mace was much less confident in his own raw power.
@@ -1640,7 +1649,7 @@ Mace opened himself to the Force. He could hear Yoda’s voice: Size matters not
 — Shatterpoint (Matthew Stover, 2003), ch. 6
 ```
 
-### 129. IMPALED BY DEPA: Depa Billaba, in Shatterpoint, drives her lightsaber through Mace's abdomen and out his back; his hand instinctively locks hers so she cannot slash it free, and he ignites his own blade.
+### 130. IMPALED BY DEPA: Depa Billaba, in Shatterpoint, drives her lightsaber through Mace's abdomen and out his back; his hand instinctively locks hers so she cannot slash it free, and he ignites his own blade.
 
 ```
 She screamed as she triggered her blade. And kept screaming as its green fire chewed a tunnel through Mace’s guts and speared out his back. His hand seized hers instinctively, locking her blade against his body so that she could not kill him by slashing it free. His own blade ignited—
@@ -1648,7 +1657,7 @@ She screamed as she triggered her blade. And kept screaming as its green fire ch
 — Shatterpoint (Matthew Stover, 2003), ch. 23
 ```
 
-### 130. TOO STRONG FOR ME: With the lightning bending his blade toward his face, Mace tells Anakin, "he's too strong for me," having no strength left to fight against his own blade; "This was beyond Vaapad."
+### 131. TOO STRONG FOR ME: With the lightning bending his blade toward his face, Mace tells Anakin, "he's too strong for me," having no strength left to fight against his own blade; "This was beyond Vaapad."
 
 ```
 “You’re the chosen one, Anakin,” Mace said, his voice going thin with strain. This was beyond Vaapad; he had no strength left to fight against his own blade. “Take him. It’s your destiny.”
@@ -1662,7 +1671,7 @@ Mace’s blade bent so close to his face that he was choking on ozone. “Anakin
 — Revenge of the Sith (Matthew Stover, 2005), ch. 17
 ```
 
-### 131. NEARLY BEHEADED: Mace goes for Grievous's guts, but a last-instant twist of the cyborg's torso would have sent Mace's head into the canyon had the maneuver prevailed; Mace has to leap backward out of range of the slicing blades.
+### 132. NEARLY BEHEADED: Mace goes for Grievous's guts, but a last-instant twist of the cyborg's torso would have sent Mace's head into the canyon had the maneuver prevailed; Mace has to leap backward out of range of the slicing blades.
 
 ```
 Slipping into the gap made by Mace’s saber, Grievous’s left talon lost magnetic purchase on the roof, and the general faltered. Mace came out of his crouch prepared to drive his sword into Grievous’s guts, but some last-instant firing of the general’s cybersynapses compelled the cyborg’s torso through a swift half twist that would have sent Mace’s head hurtling into the canyon had the maneuver prevailed. Instead Mace leapt backward, out of the range of the slicing blades, and Force-pushed outward, just at the instant of Grievous’s single misstep.
@@ -1670,7 +1679,7 @@ Slipping into the gap made by Mace’s saber, Grievous’s left talon lost magne
 — Labyrinth of Evil (James Luceno, 2005), ch. 47
 ```
 
-### 132. BLOCKED BY VASTOR: Mace uses the Force to drive his blades down at Vastor intending to cut through his shields and both arms and into his chest, but Vastor's shields flick up and meet the downward strokes.
+### 133. BLOCKED BY VASTOR: Mace uses the Force to drive his blades down at Vastor intending to cut through his shields and both arms and into his chest, but Vastor's shields flick up and meet the downward strokes.
 
 ```
 The lor pelek cast aside the boy’s corpse with one flick of his massive wrist and whirled, shields flashing in the lightsaber glare as they flicked upward and met Mace’s downward strokes. Mace used the Force to drive the blades; he would cut through the shields, through both of Vastor’s arms, slash deep into his chest to quench the blades’ fire in Vastor’s smoking heart—
@@ -1678,7 +1687,7 @@ The lor pelek cast aside the boy’s corpse with one flick of his massive wrist 
 — Shatterpoint (Matthew Stover, 2003), ch. 8
 ```
 
-### 133. OUTPLAYED BY GEPTUN: Bound in a binder chair, Mace lets his spinning lightsaber stop rather than use it, and Geptun shows he has enough Force-touch to stop it pointing at Mace's breastbone.
+### 134. OUTPLAYED BY GEPTUN: Bound in a binder chair, Mace lets his spinning lightsaber stop rather than use it, and Geptun shows he has enough Force-touch to stop it pointing at Mace's breastbone.
 
 ```
 He let it spin.
@@ -1690,7 +1699,7 @@ His lightsaber’s spin took on a wobble, slowed, and trickled to a stop, its em
 — Shatterpoint (Matthew Stover, 2003), ch. 2
 ```
 
-### 134. DEPA SURPASSED HIM: On Nar Shaddaa, Depa "showed me blade work that surpassed my own."
+### 135. DEPA SURPASSED HIM: On Nar Shaddaa, Depa "showed me blade work that surpassed my own."
 
 ```
 On that day in Nar Shaddaa, she showed me blade work that surpassed my own; she had continued to grow and study and progress in Vaapad as well as the Force.
@@ -1698,7 +1707,7 @@ On that day in Nar Shaddaa, she showed me blade work that surpassed my own; she 
 — Shatterpoint (Matthew Stover, 2003), ch. 4
 ```
 
-### 135. ORDER RESISTED: Even in his drugged state, Lesh can "resist Mace's Force-pushed order."
+### 136. ORDER RESISTED: Even in his drugged state, Lesh can "resist Mace's Force-pushed order."
 
 ```
 Something was still strong enough even in Lesh’s thysseladdled mind that he could resist Mace’s Force-pushed order. “Don’t know anything, you.” His voice went thicker, hitching, as if he wasn’t breathing well. “But teach you, will Kar. What you do, he knows. Teach you, will the akks. Wait, you. Wait and see.”
@@ -1706,7 +1715,7 @@ Something was still strong enough even in Lesh’s thysseladdled mind that he co
 — Shatterpoint (Matthew Stover, 2003), ch. 4
 ```
 
-### 136. BLOOD FEVER: After the gunship fight, Mace has an urge to punch Nick "so powerful the effort to restrain it left me gasping" and admits he wanted to rip the other gunships "out of the sky and watch them burn."
+### 137. BLOOD FEVER: After the gunship fight, Mace has an urge to punch Nick "so powerful the effort to restrain it left me gasping" and admits he wanted to rip the other gunships "out of the sky and watch them burn."
 
 ```
 I had a sudden urge to punch him: an urge so powerful the effort to restrain it left me gasping. I wanted—I needed—to punch him. To punch him in the face. To feel my fist shatter his jaw.
@@ -1718,7 +1727,7 @@ As he said: I’d wanted to destroy those other gunships, too. I wanted to rip t
 — Shatterpoint (Matthew Stover, 2003), ch. 5
 ```
 
-### 137. STRETCHED THIN: After yanking the steamcrawler back he loses his hold on the landslide; he can re-stabilize it only "for the minute or two" the children need, and cannot disarm the boy with the Force without breaking that hold.
+### 138. STRETCHED THIN: After yanking the steamcrawler back he loses his hold on the landslide; he can re-stabilize it only "for the minute or two" the children need, and cannot disarm the boy with the Force without breaking that hold.
 
 ```
 Mace calmed his hammering heart and extended one hand; he had to close his eyes for a moment to reassert his control on the slide and stabilize it—but its shift had left it less solid than before. He could hold it for the minute or two it would take the girl and boys to reach the relative safety of the outcrop above, not much more. And now he could feel the ’crawler slowly tilting beneath him, leaning higher and higher toward the point of no return.
@@ -1730,7 +1739,7 @@ To use the Force to disarm the boy, or persuade him, would break the hold he kep
 — Shatterpoint (Matthew Stover, 2003), ch. 6
 ```
 
-### 138. CONSUMED BY DARKNESS: Mace catches himself mid-dive ("What am I doing?"), finds "no light at all except the red flame that burned in his heart," and drawing on the Force to stay conscious "drew in rage as well."
+### 139. CONSUMED BY DARKNESS: Mace catches himself mid-dive ("What am I doing?"), finds "no light at all except the red flame that burned in his heart," and drawing on the Force to stay conscious "drew in rage as well."
 
 ```
 And he’d enjoy it.
@@ -1748,7 +1757,7 @@ A howl welled up inside him: a roar of dark fury raised to the level of exaltati
 — Shatterpoint (Matthew Stover, 2003), ch. 7
 ```
 
-### 139. VASTOR'S WILL: Opening himself "to the full flood of the Force" to hammer at Vastor's will, Mace fails: "He might as well have not bothered."
+### 140. VASTOR'S WILL: Opening himself "to the full flood of the Force" to hammer at Vastor's will, Mace fails: "He might as well have not bothered."
 
 ```
 “Vastor, stop!” Mace opened himself to the full flood of the Force, and used it to hammer at the lor pelek’s will. “Don’t do it, Kar. Put the boy down.”
@@ -1758,7 +1767,7 @@ He might as well have not bothered; Vastor’s answering snarl translated in Mac
 — Shatterpoint (Matthew Stover, 2003), ch. 8
 ```
 
-### 140. BLOOD FEVER AGAIN: Facing Vastor over the children, Mace's "veins sang with blood fever"; Vastor's shields "still shone mirror bright; Mace's lightsabers had not even scarred their surface."
+### 141. BLOOD FEVER AGAIN: Facing Vastor over the children, Mace's "veins sang with blood fever"; Vastor's shields "still shone mirror bright; Mace's lightsabers had not even scarred their surface."
 
 ```
 Mace’s whole body thrummed with his need to strike: his need to dive into Vaapad and allow its dark storm to drive his blades. His veins sang with blood fever, and the black migraine hammered his skull. He needed to hit Vastor, to hurt him. To punish him.
@@ -1774,7 +1783,7 @@ Vastor lifted shields that still shone mirror bright; Mace’s lightsabers had n
 — Shatterpoint (Matthew Stover, 2003), ch. 8
 ```
 
-### 141. OPEN RAGE: After downing one Akk Guard, Mace throws his lightsaber at the other's feet and screams into his face "with open raging madness in his eyes."
+### 142. OPEN RAGE: After downing one Akk Guard, Mace throws his lightsaber at the other's feet and screams into his face "with open raging madness in his eyes."
 
 ```
 Mace stepped back to let the semiconscious man collapse. The other guard snarled and lunged at Mace’s back, only to find himself facing the business end of a sizzling purple lightsaber.
@@ -1792,7 +1801,7 @@ The astonished Korun could only blink and mumble and try to shake his head. Mace
 — Shatterpoint (Matthew Stover, 2003), ch. 10
 ```
 
-### 142. OUTMATCHED IN RAW POWER: "He knew already he could not match Vastor for raw power"; he answers with Vaapad, because "The ultimate answer for power is skill."
+### 143. OUTMATCHED IN RAW POWER: "He knew already he could not match Vastor for raw power"; he answers with Vaapad, because "The ultimate answer for power is skill."
 
 ```
 Mace stood motionless except for the heaving of his chest. He knew already he could not match Vastor for raw power. With each breath, he stripped away another layer of restraint and inhibition. Another layer of serenity. He had to move his inner peace out of the way to let in the joy. The thrill. The sheer okay-why-not-let’s-FIGHT. Because Vaapad was more than just a form of lightsaber combat.
@@ -1806,7 +1815,7 @@ The ultimate answer for power is skill.
 — Shatterpoint (Matthew Stover, 2003), ch. 12
 ```
 
-### 143. BEATEN BY VASTOR: Vastor stands up with Mace garroting him from behind, slams him to the dirt, shrugs off Mace's last Force-driven punch ("Is that the best you have?") and slaps him senseless, holding him up by the neck.
+### 144. BEATEN BY VASTOR: Vastor stands up with Mace garroting him from behind, slams him to the dirt, shrugs off Mace's last Force-driven punch ("Is that the best you have?") and slaps him senseless, holding him up by the neck.
 
 ```
 Vastor straightened and his hands went to his throat, clawing at Mace’s improvised garrote, but not even he was strong enough to break a gripleaf trailer with his bare hands. His face darkened, swelling with blood; the back of his neck bulged; veins writhed across his temples and forehead.
@@ -1842,7 +1851,7 @@ One of those open-handed slaps flashed out of the darkness; the next thing of wh
 — Shatterpoint (Matthew Stover, 2003), ch. 12
 ```
 
-### 144. A FIGHT HE KNEW HE COULDN'T WIN: Mace explains, "What I did was pick a fight I knew I couldn't win," because Vastor is "very powerful. Half my age and twice my size. Training and experience can compensate only up to a point."
+### 145. A FIGHT HE KNEW HE COULDN'T WIN: Mace explains, "What I did was pick a fight I knew I couldn't win," because Vastor is "very powerful. Half my age and twice my size. Training and experience can compensate only up to a point."
 
 ```
 “As you said earlier: Vastor is a difficult man to lie to. He would have known if I was holding back. Then the beating would have been much worse, and he might very well have killed me. What I did was pick a fight I knew I couldn’t win.”
@@ -1854,7 +1863,7 @@ One of those open-handed slaps flashed out of the darkness; the next thing of wh
 — Shatterpoint (Matthew Stover, 2003), ch. 12
 ```
 
-### 145. VIBROSHIELDS: Mace's blade could not cut Vastor's shields, which conduct a lightsaber's energy away: "it cannot be cut. Not by an energy blade."
+### 146. VIBROSHIELDS: Mace's blade could not cut Vastor's shields, which conduct a lightsaber's energy away: "it cannot be cut. Not by an energy blade."
 
 ```
 This is why my blade could not cut it: the entire shield is always the same temperature throughout. Even the energy of a lightsaber is instantly conducted away. Hold a blade against it long enough and the whole thing will melt, but it cannot be cut. Not by an energy blade.
@@ -1862,7 +1871,7 @@ This is why my blade could not cut it: the entire shield is always the same temp
 — Shatterpoint (Matthew Stover, 2003), ch. 13
 ```
 
-### 146. NEVER FELT IT COMING: In the dark of the command bunker, Vastor leaps at Mace from nowhere: "He'd never felt it coming."
+### 147. NEVER FELT IT COMING: In the dark of the command bunker, Vastor leaps at Mace from nowhere: "He'd never felt it coming."
 
 ```
 Nick’s guns roared flame at a hurtling dark shape that leaped from nowhere. Sparks clanged in the gloom as Mace whirled instinctively and slashed at the shape and it vanished in a dive that carried it over the console bank. Before he’d even seen what it was.
@@ -1872,7 +1881,7 @@ He’d never felt it coming.
 — Shatterpoint (Matthew Stover, 2003), ch. 23
 ```
 
-### 147. DRIVEN BACK BY DEPA: Refusing to strike back, Mace is driven backward "as though he were a child" by Depa, now fed by the dying Akk Guards' power; she burns his cheek, wrist and leg, and "She was too strong, too fast, too everything," so he feels himself reach "his own shatterpoint. And he was breaking."
+### 148. DRIVEN BACK BY DEPA: Refusing to strike back, Mace is driven backward "as though he were a child" by Depa, now fed by the dying Akk Guards' power; she burns his cheek, wrist and leg, and "She was too strong, too fast, too everything," so he feels himself reach "his own shatterpoint. And he was breaking."
 
 ```
 Depa’s blade was everywhere.
@@ -1900,7 +1909,7 @@ He felt it: he had reached his own shatterpoint. And he was breaking.
 — Shatterpoint (Matthew Stover, 2003), ch. 23
 ```
 
-### 148. CAUGHT FLAT-FOOTED: After Palpatine kills Saesee Tiin and Agen Kolar, "Mace Windu and Kit Fisto could do no more than angle their lightsabers to guard" while Palpatine stabs his desk.
+### 149. CAUGHT FLAT-FOOTED: After Palpatine kills Saesee Tiin and Agen Kolar, "Mace Windu and Kit Fisto could do no more than angle their lightsabers to guard" while Palpatine stabs his desk.
 
 ```
 In the blank second that followed, while Mace Windu and Kit Fisto could do no more than angle their lightsabers to guard, Palpatine swiftly stepped over the bodies back toward his desk, reversed his blade, and drove it in a swift, surgically precise stab down through his desktop.
@@ -1908,7 +1917,7 @@ In the blank second that followed, while Mace Windu and Kit Fisto could do no mo
 — Revenge of the Sith (Matthew Stover, 2005), ch. 17
 ```
 
-### 149. DISARMED BY THE REEK: The reek follows Mace, and though he drives it back, he "was butted and lost his lightsaber in the process."
+### 150. DISARMED BY THE REEK: The reek follows Mace, and though he drives it back, he "was butted and lost his lightsaber in the process."
 
 ```
 The reek followed Mace, and he had to slash wildly to fend it off. He did manage to drive it back, but was butted and lost his lightsaber in the process. He came up facing the reek, and figured that he could outmaneuver it to get his weapon back easily enough, but then an armored rocket-man flew down in his path, blaster leveled.
@@ -1916,7 +1925,7 @@ The reek followed Mace, and he had to slash wildly to fend it off. He did manage
 — Attack of the Clones (R. A. Salvatore, 2002), ch. 23
 ```
 
-### 150. SURPASSED IN CONNECTION: Feeling Anakin lift them through a shield, "Obi-Wan Kenobi had never felt so close to such a powerful connection with the Force, not in Qui-Gon, nor Mace Windu. Not even in Yoda."
+### 151. SURPASSED IN CONNECTION: Feeling Anakin lift them through a shield, "Obi-Wan Kenobi had never felt so close to such a powerful connection with the Force, not in Qui-Gon, nor Mace Windu. Not even in Yoda."
 
 ```
 “If that’s how it’s done …,” the boy said, and then something—was it his Padawan’s newfound skill at levitation?—lifted them through the next shield as if they lay in the palm of a giant hand.
@@ -1926,7 +1935,7 @@ Obi-Wan Kenobi had never felt so close to such a powerful connection with the Fo
 — Rogue Planet (Greg Bear, 2000), ch. 1
 ```
 
-### 151. NOT YODA'S EQUAL: Mace tells Palpatine, "Master Yoda is many things, and I am not his equal in peace or war."
+### 152. NOT YODA'S EQUAL: Mace tells Palpatine, "Master Yoda is many things, and I am not his equal in peace or war."
 
 ```
 “Master Yoda is many things, and I am not his equal in peace or war,” Mace said.
@@ -1934,7 +1943,7 @@ Obi-Wan Kenobi had never felt so close to such a powerful connection with the Fo
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 6
 ```
 
-### 152. LET DOOKU LIVE: Mace tells Yoda, "Dooku should be dead. I should have killed him on Geonosis. I could have stopped the whole war then."
+### 153. LET DOOKU LIVE: Mace tells Yoda, "Dooku should be dead. I should have killed him on Geonosis. I could have stopped the whole war then."
 
 ```
 Unexpectedly, Mace shook his head. “Dooku should be dead. I should have killed him on Geonosis. I could have stopped the whole war then. And still he is key. Could he come to parley in earnest? There is only a little chance. Could he come all the way back to us? Surely the chance is less than a little. But balance that chance, however small, against a million lives, and it’s a chance we must take. So I think, Master.”
@@ -1942,7 +1951,7 @@ Unexpectedly, Mace shook his head. “Dooku should be dead. I should have killed
 — Yoda: Dark Rendezvous (Sean Stewart, 2004), ch. 1
 ```
 
-### 153. THROWN BY BULQ: When Mace points out "A small flaw in your plan -- I am not dead," Bulq answers "Soon corrected, Master Windu" and knocks him across the ruins with a Force blast.
+### 154. THROWN BY BULQ: When Mace points out "A small flaw in your plan -- I am not dead," Bulq answers "Soon corrected, Master Windu" and knocks him across the ruins with a Force blast.
 
 ```
 Sora Bulq: Now, I think it's best you all die and I alone survive to tell the tale of your betrayal. I will be believed because of who I am. And Count Dooku and I will forge our followers into a weapon to remake the galaxy!
@@ -1953,7 +1962,7 @@ Sora Bulq: Soon corrected, Master Windu.
 — Star Wars: Jedi – Mace Windu (John Ostrander and Jan Duursema, Dark Horse, 2003)
 ```
 
-### 154. KILLED BY PALPATINE (GUIDES): The Complete Star Wars Encyclopedia says that Palpatine blasts Mace with Force lightning and sends him out of the window to his death.
+### 155. KILLED BY PALPATINE (GUIDES): The Complete Star Wars Encyclopedia says that Palpatine blasts Mace with Force lightning and sends him out of the window to his death.
 
 ```
 This gave Palpatine the opportunity to blast Windu with Force lightning, sending him out a window to his death.
@@ -1961,7 +1970,7 @@ This gave Palpatine the opportunity to blast Windu with Force lightning, sending
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 331 †
 ```
 
-### 155. OVERPOWERED AT GEONOSIS: The Complete Star Wars Encyclopedia says that Mace decapitates Jango Fett but is then overpowered by the droid soldiers.
+### 156. OVERPOWERED AT GEONOSIS: The Complete Star Wars Encyclopedia says that Mace decapitates Jango Fett but is then overpowered by the droid soldiers.
 
 ```
 Windu decapitated Fett during the fighting but was overpowered by the droid soldiers.
@@ -1969,7 +1978,7 @@ Windu decapitated Fett during the fighting but was overpowered by the droid sold
 — The Complete Star Wars Encyclopedia, Vol. III (Del Rey, 2008), p. 331 †
 ```
 
-### 156. THROWN INTO THE PITS: The d20 web feature Soergg and Gargonn says that Gargonn throws Mace into the pits, though Mace foils his scheme in the end.
+### 157. THROWN INTO THE PITS: The d20 web feature Soergg and Gargonn says that Gargonn throws Mace into the pits, though Mace foils his scheme in the end.
 
 ```
 Gargonn even succeeded in throwing Master Windu to the pits, though the Jedi eventually foiled Gargonn's scheme to sell akk dogs modified for nefarious uses on the black market.

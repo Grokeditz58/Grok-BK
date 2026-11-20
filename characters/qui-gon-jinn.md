@@ -4,7 +4,7 @@
 - **Era:** Prequel
 - **Continuity:** default Legends; entries present for: Canon, Legends
 - **Research tier:** DEEP
-- **Entries:** 644 (361 with quotations; 36 quotations extended to the full sentence/passage from the source text on file; 203 marked as fragments; 256 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 759 old entries; old file: `characters/_bak/qui-gon-jinn.md.bak-20261117`.
+- **Entries:** 670 (387 with quotations; 62 quotations extended to the full sentence/passage from the source text on file; 203 marked as fragments; 256 before the 2026-11-17 fragment fill). Rebuilt 2026-11-17 from 759 old entries; old file: `characters/_bak/qui-gon-jinn.md.bak-20261117`. Added 2026-11-20: 26 entries from Jedi Apprentice 1: The Rising Force (full read).
 - **How to read:** each entry is the quotation in full (block quote), then its source and point of view. "Note" lines are summaries from our notes, not quotations. `[fragment — full passage not on file]` means the source text is not on the box, so only the words in our notes are shown. Debate and forum material is in the last section and is unverified.
 
 # LEGENDS (Legends / EU — main focus)
@@ -3324,6 +3324,247 @@ Our notes: `legends-feats.md:1878`
 Note (our notes, around the quote): "Maul was pleased by this. Yet he could not find an opening for a final blow. The Jedi was too good." — TPM-era source (quoted by Meatpants; exact book not named in the extract)
 Context: TPM: fights Maul to a standstill; Maul 'could not find an opening for a final blow. The Jedi was too good.' (debate #82)
 Our notes: `legends-feats.md:1880`; `suspect-insight/debates/082-starkiller-vs-qui-gon-jinn.md:25`
+
+## Jedi Apprentice 1: *The Rising Force* (Dave Wolverton, 1999): FULL consecutive read (2026-11-20 CST)
+
+What it shows (our notes): Obi-Wan's view: Qui-Gon is 'a powerful Knight, one of the best', rumored to have lost his last Padawan in a tremendous battle.
+> Obi-Wan’s hopes rose. Qui-Gon Jinn was a powerful Knight, one of the best. He had been to the Temple before to look at apprentices. Each time, he’d left without taking a new Padawan.
+>
+> Obi-Wan had heard rumors that Qui-Gon had lost his last Padawan in a tremendous battle, and had vowed never to take another. He came to the Temple every year only because the Council of Masters asked him to. He would spend a few hours watching the pupils, studying them as if looking for something that no one else could see. Then he would leave, empty-handed, to fight the darkness alone.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 1.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:17`
+
+What it shows (our notes): Qui-Gon is a big, powerful man, but his footsteps are soundless.
+> The cheers still rang in his ears as he went to the dressing chamber. He showered and changed into a fresh tunic. He was tossing his stained tunic into the laundry container when Qui-Gon Jinn entered the room. He was a big, powerful man, but his footsteps were soundless.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 4.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:40`
+
+What it shows (our notes): Qui-Gon senses anger in both Obi-Wan and Bruck.
+> “Or perhaps no one could,” Qui-Gon continued. “You were angry with the other boy. I sensed anger in both of you.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 4.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:42`
+
+What it shows (our notes): Qui-Gon: 'A Jedi Knight never exhausts himself when battling a stronger foe. And never expect your enemy to miss an opportunity to do you harm.'
+> But Qui-Gon merely said, “In future fights, rein in your anger. A Jedi Knight never exhausts himself when battling a stronger foe. And never expect your enemy to miss an opportunity to do you harm.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 4.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:43`
+
+What it shows (our notes): Yoda: Obi-Wan fought ferociously 'Like a boy that I knew long ago... Of you I spoke.'
+> “He fought… ferociously,” Qui-Gon agreed.
+>
+> “Yes,” Yoda said. “Like a boy that I knew long ago—"
+>
+> “Don’t,” Qui-Gon interrupted. “Xanatos is gone. I don’t want to be reminded.”
+>
+> “Not speaking of that one,” Yoda said. “Of you I spoke.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 5.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:49`
+
+What it shows (our notes): Qui-Gon cures Obi-Wan's fever when the wounds are worse than the medics can handle.
+> Qui-Gon’s hand dropped, and he took a step back. “Don’t try to speak,” he said gently. “You’ve had a bad fever, but I’ve taken care of it. Your wounds turned out to be worse than what the medics could handle.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 8.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:68`
+
+What it shows (our notes): Qui-Gon locks eyes with the charging Jemba; 'Obi-Wan felt the power of the Force fill the room', and the Hutt stops.
+> Clat’Ha drew her blaster, but Qui-Gon stepped in front of her and raised his hand. He locked eyes with the Hutt. Obi-Wan felt the power of the Force fill the room.
+>
+> “Enough,” Qui-Gon said quietly.
+>
+> Jemba stopped pushing to get inside the room. The Hutt knew he could not get to Clat’Ha. Qui-Gon glanced at Clat’Ha. Slowly, she lowered her blaster and returned it to the holding device on her leg. Obi-Wan had to admire Qui-Gon’s skill. He felt a pang of regret. There was so much he wished he could learn from the Jedi.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 8.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:73`
+
+What it shows (our notes): Qui-Gon: 'As Jedi, we are bound to defend only those who have no other means of defense.'
+> “Yes, he’s guilty,” Qui-Gon agreed. “But Clat’Ha can defend herself. As Jedi, we are bound to defend only those who have no other means of defense.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 8.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:75`
+
+What it shows (our notes): Qui-Gon senses Obi-Wan is in trouble: Jedi sometimes sense when another Jedi close to them is in trouble.
+> Suddenly, he recognized the feeling. He had experienced it before. Jedi sometimes sense when another Jedi, close to them, is in trouble. At times, they can even see a vague picture of what that trouble might be. Qui-Gon searched his mind, but did not see anything clear. Only haze.
+>
+> “Obi-Wan,” he murmured. It had to be the boy. Qui-Gon fought against the feeling. It was ridiculous, absurd. The boy was not his Padawan. Why would there be such a strong connection between them?
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 11.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-01.md:91`
+
+What it shows (our notes): The Force warns Qui-Gon of the Togorian's claws; he twists under the pirate's arms and cuts him at the knees, then dodges two bolts and deflects three more.
+> But Qui-Gon was a Jedi Master. The Force had already warned him. He twisted under the pirate’s arms, anticipating the move, and grasped the lightsaber attached to his belt. The blade came up cleanly, slicing the Togorian at the knees. The Togorian roared in pain.
+>
+> All of the Togorians returned fire with their own blasters. Qui-Gon dodged two bolts, then used his lightsaber to deflect three more.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 13.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:11`
+
+What it shows (our notes): Bleeding badly, Qui-Gon calls his lightsaber to his left hand and, 'with the last of his will', moves debris with the Force to slide the bulkhead door shut.
+> As he was sucked toward the space vacuum, Qui-Gon called his lightsaber to his left hand.
+>
+> Qui-Gon was bleeding badly, and could hardly breathe. Weakly, with the last of his will, he reached out with the Force and moved a bit of debris, touching the controls to the door and sliding it closed. As the wind stopped screaming through the ship, everything became deathly silent.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 13.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:24`
+
+What it shows (our notes): Qui-Gon's injuries 'would have been severe for a common man'; the vibro-ax slashed him across the shoulders to the ribs, and he refuses anything for the pain.
+> Qui-Gon’s injuries would have been severe for a common man, but the Jedi waited until others were attended to before requesting the medic droid to bandage him in his room. Clat’Ha refused to leave his side, no matter how he urged her to rest.
+>
+> The pirate chieftain’s vibro-ax had slashed Qui-Gon across the back of his shoulders, down to the ribs. Obi-Wan felt dizzy just looking at the wound, but Qui-Gon sat quietly, letting the droid do his work.
+>
+> “You’re lucky to be alive,” the medic droid told Qui-Gon. “But your wounds should heal in time. Are you sure you don’t want something to ease the pain?”
+>
+> “No, I’ll be fine,” Qui-Gon answered, his voice steady.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 14.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:31`
+
+What it shows (our notes): Qui-Gon on Xanatos: 'I trusted Xanatos completely, and disaster was the result'; he would rather take a dozen vibro-ax blows than feel such loss again.
+> Because I trusted another. I trusted Xanatos completely, and disaster was the result.
+>
+> The sense of loss was so great that even now Qui-Gon felt it like a living wound. He’d rather have taken a dozen blows from the pirate chieftain’s vibro-ax than to ever feel such loss and pain again.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 14.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:33`
+
+What it shows (our notes): Qui-Gon: 'Anger is our enemy... Greed and fear are also our enemies... Haste is another enemy'; 'when I kill, I only win a fight. It's a small, small victory.'
+> “Anger is our enemy,” Qui-Gon said reasonably. He shot a glare across the room to Jemba. “Greed and fear are also our enemies. The Arconans can live without dactyl for awhile. You do not need to fight now. Haste is another enemy.”
+>
+> “I have,” Qui-Gon admitted, “when there was no other choice. But when I kill, I only win a fight. It’s a small, small victory. There are greater battles to be won—battles of the heart. Sometimes, with patience and reason and by setting a good example, I have won more than a fight—I have turned my adversary into a friend.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 15, 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:39`
+
+What it shows (our notes): Qui-Gon's Jedi healing knits his torn muscles overnight; he deduces from a yellow haze, soft treads and Jemba's anger where the dactyl is hidden.
+> Qui-Gon’s Jedi healing techniques required him to put all of his energy toward knitting his torn muscles and fighting infection.
+>
+> When he woke in the early morning, his right arm was stiff but better.
+>
+> “So soon,” Qui-Gon murmured. Something nagged at him, an instinct telling him that he had overlooked something.
+>
+> Jemba’s anger. The soft tread of animals. A solid cliff that moved. A yellow haze…
+>
+> But no animals lived on the island, only draigons. The crew had investigated for predators shortly after they’d landed. And the haze hadn’t been in front of his eyes. A cave in the cliff itself had been glowing with a faint yellow light.
+>
+> Realization sparked within him. “Tell the Arconans not to be afraid,” he told Clat’Ha crisply. “I think I know where the dactyl is. I’ll be back as soon as I can.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 18.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:56`
+
+What it shows (our notes): Grelb recognizes Qui-Gon by his size and grace; he climbs the hill quickly, without tiring, and edges along a narrow ledge unseen.
+> As the Arconans emptied from the huge dark ship, one man caught Grelb’s eye: the Jedi Knight, Qui-Gon Jinn. He wore a cloak and hood, but Grelb instantly recognized him by his size and grace. Qui-Gon walked swiftly past the Arconans as though anxious to reach the caves. Yet it was not like him to hurry to safety.
+>
+> Grelb fished a pair of macrobinoculars from his pocket and trained them on the Jedi. Qui-Gon climbed the hill quickly, without tiring. But instead of ducking into the first cave where the Arconans had already gathered, he continued to climb, inching along a narrow ledge in order to reach the side of the mountain without being seen.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 18.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:61`
+
+What it shows (our notes): Wounded, half-frozen and with bleeding fingers in a storm, Qui-Gon climbs 'a ledge that no Human should have been able to climb', guided by the Force.
+> Cautiously, Qui-Gon Jinn inched up a ledge that no Human should have been able to climb. In a pouring rain, he grasped small crevices with his fingers and toes, barely holding on.
+>
+> His fingers were chafed and bleeding. Nearby, lightning split the sky and thunder snarled. The sky was dark and lowering. Wind gusted and whistled among the stones.
+>
+> He stopped for a long moment, panting. Rain poured down his forehead and made his clothes feel heavy. He felt half-frozen, and still weak from the wounds the pirate had dealt.
+>
+> Though he could feel the Force guiding him to the dactyl, it still seemed an almost impossible task.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 19.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:66`
+
+What it shows (our notes): Under the Whiphids' fire Qui-Gon does not squirm; 'Slowly, methodically, he climbed the cliff face, even as rock splintered millimeters from his face.'
+> But the truth was, the Jedi did not squirm. He didn’t cringe, or try to scramble away. His pace didn’t change at all. Slowly, methodically, he climbed the cliff face, even as rock splintered millimeters from his face.
+>
+> The Whiphids grew angry. “Is he blind?” one asked in a complaining tone. “This is no fun at all.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 19.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:69`
+
+What it shows (our notes): Feeling Obi-Wan's call, Qui-Gon trusts the Force, leaps from a cave two hundred meters up onto a draigon's neck, swings onto its back and, 'Using all the power that he could muster', makes it carry him to the caves.
+> Suddenly, in the middle of his desperation, Qui-Gon felt something odd—a faint ripple in the Force. As he concentrated, it grew stronger. Someone was calling him, a Jedi.
+>
+> Long had Qui-Gon followed the ways of the Force. Now he felt it beckon him. Run, it commanded. Go to Obi-Wan.
+>
+> Qui-Gon’s heart pounded. He ran three steps and leaped from the mouth of the cave, knowing that two hundred meters below, the sharp rocks stuck up like swords. Yet he trusted the Force.
+>
+> He did not fall even a dozen meters. His leap carried him straight to a draigon!
+>
+> He hit the beast’s neck with a thud. The creature was wet and slimy. Qui-Gon almost slipped off, but clung to its scaly hide with the tips of his fingers. The sore muscles in his shoulder throbbed and burned. He managed to swing his legs up and over, so that he was riding squarely on the draigon’s back.
+>
+> Qui-Gon clutched his precious bag of dactyl in one hand and leaned close to his draigon’s neck. Using all the power that he could muster, he whispered to the draigon. “Friend, help me. Take me down to the caves. Hurry!”
+>
+> His mount flapped its wings and sped toward the caves. Qui-Gon wasn’t sure if he could control the beast for long, for its small mind was cruel, and it was driven by a ravenous hunger.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 19.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:72`
+
+What it shows (our notes): Qui-Gon fights to control the draigon's mind, warns Obi-Wan again with his mind, springs off onto the ledge and releases the beast.
+> Qui-Gon fought to control the draigon’s mind, bring it safely to the ground.
+>
+> Qui-Gon called with his mind, warning young Obi-Wan Kenobi again of the danger. Then he waited as the draigon wafted downward, close to the narrow ledge outside the caves. Qui-Gon chose his moment, then sprang off the back of the beast. He landed on the ledge, steadying himself with a hand against the outside wall of the cave. The draigon flew off with a soft confused cry, his mind released.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 21.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:87`
+
+What it shows (our notes): Such is the purpose in Qui-Gon's eyes that no one dares stop him; Jemba's guards cower.
+> Such was the look of purpose in his eyes that no one dared to stop him. Instead, Jemba’s guards cowered in fear, until Qui-Gon, halfway through the tunnel, met Jemba himself.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 21.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:91`
+
+What it shows (our notes): Qui-Gon admits he underestimated Obi-Wan; touching another Jedi's mind is intimate, usually between a Knight and his Padawan.
+> Qui-Gon knew when to admit he had been wrong. He had underestimated Obi-Wan Kenobi.
+>
+> And there was a further matter. It was not a simple thing for one Jedi to touch the mind of another. It was an intimate thing, the kind of thing usually done between the closest friends. Or between a Knight and his Padawan.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 24.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:111`
+
+### Limitations and anti-feats (The Rising Force)
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — The Togorian captain weighs four times as much as a man; the vibro-ax 'bit deep into Qui-Gon's right shoulder', leaving his arm useless; pinned, 'Qui-Gon could do little to fight the monster.'
+> The floor lurched under Qui-Gon’s feet as he met the pirate captain. The huge Togorian weighed four times as much as a man.
+>
+> Even under normal circumstances, it would have been all that Qui-Gon could do to fend off the pirate. He tried to catch his footing as he blocked the monster’s blow.
+>
+> The pirate almost fell, but recovered in time to raise the vibro-ax. The blade bit deep into Qui-Gon’s right shoulder, driving him to the floor.
+>
+> Qui-Gon gasped from the searing pain. His shoulder burned as if it were on fire. He tried to lift his arm, but it was useless.
+>
+> As he was sucked toward the space vacuum, Qui-Gon called his lightsaber to his left hand. He aimed a blow at the pirate captain’s feet. The Togorian grabbed a handhold and leaped high, evading the cut, then landed directly on Qui-Gon’s left arm with his booted feet.
+>
+> Fighting the pain, Qui-Gon tried to bring up his lightsaber, but the huge Togorian had him pinned. Qui-Gon twisted desperately, but he couldn’t get away. With his left arm pinned and his right arm badly wounded Qui-Gon could do little to fight the monster.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 13.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:21`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — Hours spent speeding his healing leave Qui-Gon too weak to persuade Jemba; Jemba: 'Your Jedi tricks are so puny... Anyone can see you are too frail to fight.'
+> Qui-Gon called on the Force, trying to coax the Hutt to stop this madness. But for hours now he’d been focusing on his wound, trying to speed its healing, ignoring his own pain. He was too weak to persuade the Hutt.
+>
+> Jemba waved a hand, as if testing the air. “Ooh, is that your powerful Force I feel? Ha!” he spat. “Your Jedi tricks are so puny, they make me laugh. They cannot work on the great Jemba. And look at you, Jedi. You don’t have the sense to stay out of the way of a vibro-ax. Anyone can see you are too frail to fight. There is nothing you can do to stop me.”
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 15.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:37`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — After the standoff Qui-Gon's walk is unsteady and his vision clouded; the pain he held at bay overwhelms him.
+> The meeting ended in a stalemate. There was nothing left to do but leave. Obi-Wan stayed with Qui-Gon. Although the Jedi held himself erect during the confrontation, sweat beaded his forehead and Obi-Wan could only imagine the concentration it took for him to stay focused.
+>
+> By the time Qui-Gon reached the corridor where his cabin was located, his walk was unsteady and his vision clouded. He was grateful for Obi-Wan’s presence at his side. As he rounded the last corner, he staggered. Obi-Wan grabbed his arm and held him upright.
+>
+> Wearily, Qui-Gon raised himself up in the chair. His shoulder suddenly flamed where the pirate had struck him. He’d been holding that pain at bay, but now it overwhelmed him.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 16.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:46`
+
+What it shows (our notes): LIMITATION / ANTI-FEAT — On the cliff face 'His lightsaber was useless. There was nowhere to hide, no way to fight.'
+> His lightsaber was useless. There was nowhere to hide, no way to fight.
+— Source: Jedi Apprentice 1: The Rising Force (Dave Wolverton, 1999), ch. 19.
+(Full sentence/passage taken from the source text on file: `Jedi Apprentice 01 The Rising Force library epub`; misreadings corrected.)
+Our notes: `notes/materials/187-ja-01-the-rising-force/rf-02.md:68`
+
 
 # CANON (Disney canon — kept separate)
 
